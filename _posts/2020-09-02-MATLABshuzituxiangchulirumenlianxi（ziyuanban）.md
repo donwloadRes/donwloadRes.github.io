@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "文章标题"
+title: "MATLAB数字图像处理入门练习（资源版）"
 date:   2024-1-27
-tags: [tag1, tag2]
+tags: [MATLAB, 图像处理]
 comments: true
 author: xxx
 ---
