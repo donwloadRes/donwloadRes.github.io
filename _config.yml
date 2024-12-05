@@ -1,7 +1,7 @@
 name: " IT download"
 description: "IT 资源集合"
 
-avatar: https://pianfan.github.io/images/avatar.png
+avatar: https://github.githubassets.com/assets/gh-desktop-7c9388a38509.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 
   facebook:
-  github: pianfan
+  github: 
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
