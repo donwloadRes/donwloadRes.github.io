@@ -1,0 +1,60 @@
+---
+layout: post
+title: "AT24C64驱动文件"
+date:   2020-01-08
+tags: [AT24C64,Driver,读写操作,文件,驱动]
+comments: true
+author: admin
+---
+# AT24C64驱动文件
+
+## 简介
+本仓库提供了一个用于AT24C64 EEPROM芯片的驱动文件。AT24C64是一款64Kbit的串行EEPROM，广泛应用于嵌入式系统中，用于存储非易失性数据。
+
+## 文件内容
+- **AT24C64_Driver.c**: 包含AT24C64芯片的读写操作函数。
+- **AT24C64_Driver.h**: 包含驱动文件的头文件，定义了相关的宏和函数声明。
+
+## 使用说明
+1. **包含头文件**: 在您的项目中包含`AT24C64_Driver.h`头文件。
+2. **初始化**: 调用初始化函数对AT24C64进行初始化。
+3. **读写操作**: 使用提供的读写函数对AT24C64进行数据读写操作。
+
+## 示例代码
+以下是一个简单的示例代码，展示了如何使用该驱动文件进行数据读写：
+
+```c
+#include "AT24C64_Driver.h"
+
+int main() {
+    // 初始化AT24C64
+    AT24C64_Init();
+
+    // 写入数据
+    uint8_t dataToWrite = 0x55;
+    AT24C64_WriteByte(0x00, dataToWrite);
+
+    // 读取数据
+    uint8_t dataRead;
+    dataRead = AT24C64_ReadByte(0x00);
+
+    // 打印读取的数据
+    printf("Read data: 0x%02X\n", dataRead);
+
+    return 0;
+}
+```
+
+## 注意事项
+- 请确保在使用前正确配置I2C总线。
+- 读写操作时，请注意EEPROM的写入周期，避免频繁写入导致芯片寿命缩短。
+
+## 贡献
+欢迎提交问题和改进建议，帮助我们完善这个驱动文件。
+
+## 许可证
+本项目采用MIT许可证，详情请参阅`LICENSE`文件。
+
+## 下载链接
+
+[AT24C64驱动文件](https://pan.quark.cn/s/e2d73b90b7c5)

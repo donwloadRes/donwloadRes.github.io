@@ -1,0 +1,65 @@
+---
+layout: post
+title: "ICDAR2015 文本数据集"
+date:   2023-03-17
+tags: [int,文本,图像,img,标注]
+comments: true
+author: admin
+---
+# ICDAR2015 文本数据集
+
+## 简介
+
+ICDAR2015 文本数据集是一个广泛用于计算机视觉和文本检测识别任务的标准数据集。该数据集由国际文档分析与识别会议（ICDAR）于2015年发布，包含了1000张训练图像和500张测试图像。每张图像都附带详细的文本标注信息，适用于多种文本检测和识别算法的训练与评估。
+
+## 数据集内容
+
+- **训练集**：包含1000张图像，每张图像对应一个文本文件，文件中每行按照 `x1, y1, x2, y2, x3, y3, x4, y4, transcription` 的格式进行标注。
+- **测试集**：包含500张图像，同样附带详细的文本标注信息。
+
+## 数据格式
+
+每张图像的标注文件中，每个点按照顺时针方向进行标注，`transcription` 字段表示文本内容，`###` 表示无需关注的文本内容信息。
+
+## 适用任务
+
+该数据集主要用于以下任务：
+
+1. **文本定位**：通过标注的坐标信息，定位图像中的文本区域。
+2. **单词识别**：识别图像中每个文本区域的实际内容。
+
+## 使用方法
+
+用户可以通过提供的Python脚本读取和显示数据集中的图像和标注信息。脚本示例如下：
+
+```python
+import cv2
+import numpy as np
+
+img_path = "/train_images/img_2.jpg"
+txt_file_path = "/train_gts/img_2.jpg.txt"
+
+img = cv2.imread(img_path)
+txt_file = open(txt_file_path, "r", encoding='utf_8_sig')
+
+for line in txt_file.readlines():
+    x1, y1, x2, y2, x3, y3, x4, y4, text = line.strip().split(" ")
+    contours = [np.array([ [int(x1), int(y1)], [int(x2), int(y2)], [int(x3), int(y3)], [int(x4), int(y4)] ])]
+    cv2.drawContours(img, contours, -1, (0, 0, 255), 1)
+    cv2.putText(img, text, [int(x1), int(y1)], 1, 1, (0, 0, 255))
+
+cv2.waitKey(0)
+```
+
+## 注意事项
+
+- 数据集中的图像和标注文件需放置在正确的路径下，以便脚本能够正确读取。
+- 用户可以根据需要对脚本进行修改，以适应不同的使用场景。
+
+## 贡献与反馈
+
+如果您在使用过程中遇到任何问题或有任何建议，欢迎通过相关渠道进行反馈。我们非常感谢您的贡献，并将不断改进和完善该数据集。
+
+## 下载链接
+
+[ICDAR2015文本数据集](https://pan.quark.cn/s/09d5fb1e5e1b)
