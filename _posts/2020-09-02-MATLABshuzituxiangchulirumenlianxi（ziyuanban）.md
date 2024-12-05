@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "MATLAB数字图像处理入门练习（资源版）"
-date:   2024-1-27
-tags: [MATLAB, 图像处理]
+title: "openEuler 操作系统课程大作业 1 资料下载"
+date:   2023-03-28
+tags: [openEuler,操作系统,容器,作业,构建]
 comments: true
-author: xxx
+author: admin
 ---
 # MATLAB数字图像处理入门练习（资源版）
 
