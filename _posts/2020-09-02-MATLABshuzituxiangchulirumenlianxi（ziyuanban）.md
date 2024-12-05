@@ -2,7 +2,7 @@
 layout: post
 title: "MATLAB数字图像处理入门练习（资源版）"
 date:2020-10-10
-tags:["练习", "MATLAB","图像处理", "图像", "学习者"]
+tags:[MATLAB]
 comments: true
 author: admin
 ---
