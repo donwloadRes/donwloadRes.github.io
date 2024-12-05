@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依前后端分离版启动到部署到Tomcat 教程（新手入门）"
+title: "若依前后端分离版启动到部署到Tomcat 教程新手入门"
 date:   2022-10-15
 tags: [Tomcat,部署,Vue,若依,war]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-Blaster驱动"
+title: "USBBlaster驱动"
 date:   2023-03-29
 tags: [驱动,USB,Blaster,Windows,安装]
 comments: true

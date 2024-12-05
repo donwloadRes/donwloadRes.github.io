@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mysql8安装教程与配置(详细步骤)"
+title: "Mysql8安装教程与配置详细步骤"
 date:   2021-04-07
 tags: [MySQL,安装,Mysql8,目录,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彩虹易支付USDT支付插件 - 方便快捷的支付方式"
+title: "彩虹易支付USDT支付插件  方便快捷的支付方式"
 date:   2022-11-07
 tags: [支付,USDT,插件,用户,彩虹]
 comments: true

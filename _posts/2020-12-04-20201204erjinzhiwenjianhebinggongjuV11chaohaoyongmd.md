@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二进制文件合并工具 V1.1 (超好用)"
+title: "二进制文件合并工具 V11 超好用"
 date:   2023-05-09
 tags: [文件,二进制,工具,合并,V1.1]
 comments: true

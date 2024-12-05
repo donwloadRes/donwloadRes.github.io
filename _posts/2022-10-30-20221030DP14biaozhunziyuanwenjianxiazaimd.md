@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DP1.4标准资源文件下载"
+title: "DP14标准资源文件下载"
 date:   2023-05-15
 tags: [DisplayPort,文件,DP1.4,VESA,标准]
 comments: true

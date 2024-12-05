@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "沙特JDAM -34源数据文件下载"
+title: "沙特JDAM 34源数据文件下载"
 date:   2023-07-22
 tags: [JDAM,34,文件,下载,沙特]
 comments: true

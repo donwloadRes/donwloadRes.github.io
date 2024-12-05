@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义控件开发流程详解"
+title: "C自定义控件开发流程详解"
 date:   2022-12-30
 tags: [控件,自定义,C#,图解,开发]
 comments: true

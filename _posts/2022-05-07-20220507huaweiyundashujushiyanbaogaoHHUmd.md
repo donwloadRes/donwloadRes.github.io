@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为云大数据实验报告（HHU）"
+title: "华为云大数据实验报告HHU"
 date:   2024-08-31
 tags: [华为,实验报告,数据,实验,HHU]
 comments: true

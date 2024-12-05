@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亿图图示 EDraw Max v9.4.1 免费版流程图软件下载"
+title: "亿图图示 EDraw Max v941 免费版流程图软件下载"
 date:   2022-09-13
 tags: [亿图,图示,软件,图表,模板]
 comments: true

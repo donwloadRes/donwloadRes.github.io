@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信点ESP分区OEM隐藏分区挂载器 支持一键理顺盘符 v1.0 beta"
+title: "信点ESP分区OEM隐藏分区挂载器 支持一键理顺盘符 v10 beta"
 date:   2024-10-07
 tags: [分区,盘符,挂载,OEM,ESP]
 comments: true

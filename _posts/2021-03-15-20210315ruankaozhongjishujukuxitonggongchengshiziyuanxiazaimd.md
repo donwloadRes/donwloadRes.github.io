@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考中级-数据库系统工程师资源下载"
+title: "软考中级数据库系统工程师资源下载"
 date:   2023-07-27
 tags: [数据库系统,软考,考试,中级,工程师]
 comments: true

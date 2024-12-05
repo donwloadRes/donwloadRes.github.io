@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCDViewer 5.0.0 点云可视化与编辑软件"
+title: "PCDViewer 500 点云可视化与编辑软件"
 date:   2024-01-07
 tags: [点云,PCDViewer,5.0,软件,滤波]
 comments: true

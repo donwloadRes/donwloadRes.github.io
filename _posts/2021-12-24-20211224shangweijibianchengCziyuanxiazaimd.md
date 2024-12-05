@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上位机编程C#资源下载"
+title: "上位机编程C资源下载"
 date:   2022-10-11
 tags: [C#,编程,源码,安装文件,资源]
 comments: true

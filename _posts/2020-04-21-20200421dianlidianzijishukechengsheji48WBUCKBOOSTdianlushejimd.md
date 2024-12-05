@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术课程设计：48W BUCK-BOOST电路设计"
+title: "电力电子技术课程设计48W BUCKBOOST电路设计"
 date:   2023-09-10
 tags: [电路设计,仿真,课程设计,BUCK,BOOST]
 comments: true

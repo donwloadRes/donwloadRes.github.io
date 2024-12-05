@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magnetics Designer 4.1 变压器设计软件资源介绍"
+title: "Magnetics Designer 41 变压器设计软件资源介绍"
 date:   2021-06-19
 tags: [变压器,设计,Magnetics,Designer,4.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autojs 例子大全：1600+ 教程源码"
+title: "Autojs 例子大全1600 教程源码"
 date:   2020-02-18
 tags: [Autojs,示例,脚本,源码,1600]
 comments: true

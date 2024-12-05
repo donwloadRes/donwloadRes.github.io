@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32f103 + RGB-TFT_LCD (ST7735) + 硬件SPI + DMA + CUBEMX配置"
+title: "STM32f103  RGBTFTLCD ST7735  硬件SPI  DMA  CUBEMX配置"
 date:   2024-06-19
 tags: [SPI,DMA,配置,硬件,代码]
 comments: true

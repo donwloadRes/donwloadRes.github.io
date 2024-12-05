@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为H12-821题库资源下载"
+title: "华为H12821题库资源下载"
 date:   2021-02-27
 tags: [Master,路由器,优先级,题库,Backup]
 comments: true

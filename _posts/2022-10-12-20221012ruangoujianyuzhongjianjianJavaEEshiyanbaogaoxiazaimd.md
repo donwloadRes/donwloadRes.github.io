@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软构件与中间件JavaEE》实验报告下载"
+title: "软构件与中间件JavaEE实验报告下载"
 date:   2023-03-24
 tags: [实验报告,JavaEE,中间件,构件,学习]
 comments: true

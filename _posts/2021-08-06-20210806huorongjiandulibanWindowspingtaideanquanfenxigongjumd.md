@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火绒剑独立版 - Windows平台的安全分析工具"
+title: "火绒剑独立版  Windows平台的安全分析工具"
 date:   2020-12-15
 tags: [Windows,火绒,HRSword,进程,安全]
 comments: true

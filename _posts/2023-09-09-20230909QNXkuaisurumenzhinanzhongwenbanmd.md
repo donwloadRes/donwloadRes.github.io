@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QNX快速入门指南（中文版）"
+title: "QNX快速入门指南中文版"
 date:   2020-09-13
 tags: [QNX,指南,嵌入式,入门,示例]
 comments: true

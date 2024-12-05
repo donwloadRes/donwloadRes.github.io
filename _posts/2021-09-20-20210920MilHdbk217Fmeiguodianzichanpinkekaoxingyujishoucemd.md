@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mil-Hdbk-217F 美国电子产品可靠性预计手册"
+title: "MilHdbk217F 美国电子产品可靠性预计手册"
 date:   2024-08-05
 tags: [可靠性,Mil,Hdbk,217F,电子产品]
 comments: true

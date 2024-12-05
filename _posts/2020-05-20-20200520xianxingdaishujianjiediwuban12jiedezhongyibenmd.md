@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "線性代數簡介第五版 1.2 節的中譯本"
+title: "線性代數簡介第五版 12 節的中譯本"
 date:   2023-07-08
 tags: [點積,向量,cdot,bmatrix,1.2]
 comments: true

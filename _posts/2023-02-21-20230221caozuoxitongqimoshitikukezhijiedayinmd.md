@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统期末试题库（可直接打印）"
+title: "操作系统期末试题库可直接打印"
 date:   2020-08-21
 tags: [操作系统,试题库,自测,并发,复习]
 comments: true

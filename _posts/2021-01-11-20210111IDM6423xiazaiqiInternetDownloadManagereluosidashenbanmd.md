@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM 6.42.3 下载器（Internet Download Manager）俄罗斯大神版"
+title: "IDM 6423 下载器Internet Download Manager俄罗斯大神版"
 date:   2024-04-28
 tags: [IDM,下载,6.42,多线程,安装包]
 comments: true

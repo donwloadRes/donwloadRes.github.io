@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab仿真及其在光学课程中的应用（源代码）"
+title: "Matlab仿真及其在光学课程中的应用源代码"
 date:   2023-03-28
 tags: [仿真,Matlab,源代码,光学,仓库]
 comments: true

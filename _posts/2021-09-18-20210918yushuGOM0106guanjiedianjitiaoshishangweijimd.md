@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宇树GO-M010-6关节电机调试上位机"
+title: "宇树GOM0106关节电机调试上位机"
 date:   2021-04-22
 tags: [电机,力矩,调试,模式,上位]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 下 HYM8563、BM8563 RTC驱动资源"
+title: "Linux 下 HYM8563BM8563 RTC驱动资源"
 date:   2022-10-08
 tags: [驱动,Linux,RTC,HYM8563,BM8563]
 comments: true

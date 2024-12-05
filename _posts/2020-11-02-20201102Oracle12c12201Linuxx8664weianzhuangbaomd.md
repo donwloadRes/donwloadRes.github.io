@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 12c 12.2.0.1 Linux x86-64位安装包"
+title: "Oracle 12c 12201 Linux x8664位安装包"
 date:   2020-07-19
 tags: [安装包,Oracle,安装,12c,0.1]
 comments: true

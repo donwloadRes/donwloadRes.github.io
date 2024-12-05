@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOEA-PSL大组会PPT资源介绍"
+title: "MOEAPSL大组会PPT资源介绍"
 date:   2024-02-13
 tags: [PPT,MOEA,PSL,大组会,论文]
 comments: true

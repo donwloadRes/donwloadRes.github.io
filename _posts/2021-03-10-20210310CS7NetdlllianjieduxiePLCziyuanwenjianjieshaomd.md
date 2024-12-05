@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# S7.Net.dll连接读写PLC资源文件介绍"
+title: "C S7Netdll连接读写PLC资源文件介绍"
 date:   2023-06-22
 tags: [PLC,Net,dll,S7,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snap7 完整版手册 - 427页详细指南"
+title: "Snap7 完整版手册  427页详细指南"
 date:   2023-03-30
 tags: [Snap7,手册,自动化,指南,427]
 comments: true

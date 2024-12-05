@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机体验NAS私人云全揭秘：深度揭秘虚拟机安装群晖DSM6.2-6.2.1-6.2.2-6.2.3系统"
+title: "虚拟机体验NAS私人云全揭秘深度揭秘虚拟机安装群晖DSM62621622623系统"
 date:   2020-02-09
 tags: [虚拟机,群晖,安装,VMware,6.2]
 comments: true

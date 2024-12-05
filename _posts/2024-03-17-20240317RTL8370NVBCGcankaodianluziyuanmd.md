@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8370N-VB-CG 参考电路资源"
+title: "RTL8370NVBCG 参考电路资源"
 date:   2020-06-13
 tags: [RTL8370N,固件,VB,参考,CG]
 comments: true

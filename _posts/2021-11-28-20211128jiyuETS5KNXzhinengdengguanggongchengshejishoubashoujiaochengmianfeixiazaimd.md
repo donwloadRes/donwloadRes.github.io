@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ETS5：KNX智能灯光工程设计（手把手教程、免费下载）"
+title: "基于ETS5KNX智能灯光工程设计手把手教程免费下载"
 date:   2022-09-27
 tags: [KNX,教程,工程设计,灯光,智能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#图像识别轮廓并计算匹配度"
+title: "C图像识别轮廓并计算匹配度"
 date:   2021-07-29
 tags: [图像,图像处理,C#,Emgu,CV]
 comments: true

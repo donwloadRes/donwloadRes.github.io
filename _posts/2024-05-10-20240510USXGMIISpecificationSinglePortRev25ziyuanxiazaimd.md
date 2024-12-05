@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USXGMII Specification Single Port Rev2.5 资源下载"
+title: "USXGMII Specification Single Port Rev25 资源下载"
 date:   2021-06-21
 tags: [USXGMII,文件,Rev2.5,Specification,Single]
 comments: true

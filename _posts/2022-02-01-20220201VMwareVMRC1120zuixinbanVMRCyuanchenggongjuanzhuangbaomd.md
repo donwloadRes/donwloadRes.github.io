@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware-VMRC-11.2.0 最新版 VMRC远程工具安装包"
+title: "VMwareVMRC1120 最新版 VMRC远程工具安装包"
 date:   2023-06-11
 tags: [VMware,VMRC,Remote,Console,远程]
 comments: true

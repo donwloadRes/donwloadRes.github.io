@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MindGuard 反脑控软体（Linux系统）下载"
+title: "MindGuard 反脑控软体Linux系统下载"
 date:   2022-12-08
 tags: [Linux,该软件,MindGuard,反脑控,软体]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQT多线程串口工程文件 - PyCharm版"
+title: "PyQT多线程串口工程文件  PyCharm版"
 date:   2020-05-19
 tags: [串口,PyQT,多线程,PyCharm,通讯]
 comments: true

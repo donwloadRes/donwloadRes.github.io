@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "康拓发卡软件 - ACR122U直接发卡工具"
+title: "康拓发卡软件  ACR122U直接发卡工具"
 date:   2020-10-16
 tags: [发卡,读卡器,ACR122U,康拓,软件]
 comments: true

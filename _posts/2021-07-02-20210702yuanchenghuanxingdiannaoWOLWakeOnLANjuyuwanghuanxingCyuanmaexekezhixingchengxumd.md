@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程唤醒电脑WOL(Wake On LAN - 局域网唤醒)C#源码+exe可执行程序"
+title: "远程唤醒电脑WOLWake On LAN  局域网唤醒C源码exe可执行程序"
 date:   2022-03-22
 tags: [唤醒,源码,WOL,可执行程序,电脑]
 comments: true

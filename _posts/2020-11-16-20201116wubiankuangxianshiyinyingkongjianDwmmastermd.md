@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无边框显示阴影控件Dwm-master"
+title: "无边框显示阴影控件Dwmmaster"
 date:   2021-10-28
 tags: [边框,控件,阴影,Dwm,master]
 comments: true

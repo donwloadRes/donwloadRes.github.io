@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtCreator-4.6.1 免安装版"
+title: "QtCreator461 免安装版"
 date:   2020-06-27
 tags: [QtCreator,Qt,解压,开发,4.6]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 简单练习实战项目"
+title: "C 简单练习实战项目"
 date:   2022-12-05
 tags: [C++,练习,项目,文件,实战]
 comments: true

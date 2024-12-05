@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPVR2022论文解析PPT：DeepFusion——多模态融合3D目标检测模型论文解析"
+title: "CPVR2022论文解析PPTDeepFusion多模态融合3D目标检测模型论文解析"
 date:   2021-04-09
 tags: [模态,融合,对齐,论文,DeepFusion]
 comments: true

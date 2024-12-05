@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【光学工程师面试笔试题精选】"
+title: "光学工程师面试笔试题精选"
 date:   2023-02-09
 tags: [光学,面试,文档,笔试,题目]
 comments: true

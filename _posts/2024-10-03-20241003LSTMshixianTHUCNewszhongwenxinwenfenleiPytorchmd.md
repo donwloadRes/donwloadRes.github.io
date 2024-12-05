@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM实现THUCNews中文新闻分类（Pytorch）"
+title: "LSTM实现THUCNews中文新闻分类Pytorch"
 date:   2020-05-04
 tags: [LSTM,模型,文本,THUCNews,Pytorch]
 comments: true

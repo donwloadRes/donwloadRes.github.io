@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lmbench-3.0 读我文档"
+title: "lmbench30 读我文档"
 date:   2020-11-09
 tags: [lmbench,测试,3.0,性能,文档]
 comments: true

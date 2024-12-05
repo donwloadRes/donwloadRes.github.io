@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD工程文件：NE555内部电路原理图及PCB设计"
+title: "AD工程文件NE555内部电路原理图及PCB设计"
 date:   2023-05-09
 tags: [PCB,NE555,原理图,文件,电路]
 comments: true

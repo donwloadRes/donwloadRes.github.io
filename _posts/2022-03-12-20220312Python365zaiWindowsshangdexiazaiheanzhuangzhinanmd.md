@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6.5 在 Windows 上的下载和安装指南"
+title: "Python 365 在 Windows 上的下载和安装指南"
 date:   2023-11-02
 tags: [Python,安装,3.6,Windows,下载]
 comments: true

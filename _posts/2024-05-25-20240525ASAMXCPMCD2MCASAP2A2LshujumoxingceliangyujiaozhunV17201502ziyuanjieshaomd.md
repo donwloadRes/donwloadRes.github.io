@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASAM XCP MCD-2 MC (ASAP2 & A2L) 数据模型 (测量与校准) V1.7 201502 资源介绍"
+title: "ASAM XCP MCD2 MC ASAP2  A2L 数据模型 测量与校准 V17 201502 资源介绍"
 date:   2022-09-22
 tags: [ASAM,MCD,MC,A2L,文件]
 comments: true

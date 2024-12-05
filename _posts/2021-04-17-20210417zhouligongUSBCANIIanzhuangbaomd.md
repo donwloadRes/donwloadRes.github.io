@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功USB-CAN-II安装包"
+title: "周立功USBCANII安装包"
 date:   2022-10-02
 tags: [安装包,USB,II,立功,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "h265web.js - H.265-HEVC Web端播放器"
+title: "h265webjs  H265HEVC Web端播放器"
 date:   2024-06-27
 tags: [播放器,docs,md,文档,H.265]
 comments: true

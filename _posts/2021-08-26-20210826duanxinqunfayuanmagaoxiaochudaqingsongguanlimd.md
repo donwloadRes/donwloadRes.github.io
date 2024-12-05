@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "短信群发源码：高效触达，轻松管理"
+title: "短信群发源码高效触达轻松管理"
 date:   2021-01-07
 tags: [源码,信群发,一键,短信,API]
 comments: true

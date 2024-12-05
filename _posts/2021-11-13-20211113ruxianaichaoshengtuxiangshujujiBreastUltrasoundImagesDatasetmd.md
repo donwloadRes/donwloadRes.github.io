@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "乳腺癌超声图像数据集-Breast Ultrasound Images Dataset"
+title: "乳腺癌超声图像数据集Breast Ultrasound Images Dataset"
 date:   2020-05-08
 tags: [图像,乳腺癌,数据,超声,分类]
 comments: true

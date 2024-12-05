@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++QPSK调制解调"
+title: "CQPSK调制解调"
 date:   2021-05-25
 tags: [解调,QPSK,C++,调制,误码率]
 comments: true

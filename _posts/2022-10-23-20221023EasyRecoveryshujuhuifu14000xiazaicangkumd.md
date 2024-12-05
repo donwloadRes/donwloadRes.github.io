@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyRecovery数据恢复14.0.0.0 下载仓库"
+title: "EasyRecovery数据恢复14000 下载仓库"
 date:   2022-07-19
 tags: [数据恢复,EasyRecovery,14.0,0.0,下载]
 comments: true

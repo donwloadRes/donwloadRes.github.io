@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "funNLP：最强大的NLP资源库"
+title: "funNLP最强大的NLP资源库"
 date:   2021-11-18
 tags: [词库,中文,NLP,funNLP,资源库]
 comments: true

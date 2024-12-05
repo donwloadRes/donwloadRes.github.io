@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.9 安装包下载"
+title: "Python 39 安装包下载"
 date:   2021-02-13
 tags: [Python,3.9,安装包,安装,编程]
 comments: true

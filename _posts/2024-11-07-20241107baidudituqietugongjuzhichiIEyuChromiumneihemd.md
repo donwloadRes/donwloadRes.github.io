@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度地图切图工具 - 支持IE与Chromium内核"
+title: "百度地图切图工具  支持IE与Chromium内核"
 date:   2020-02-08
 tags: [地图,切图,内核,百度,AK]
 comments: true

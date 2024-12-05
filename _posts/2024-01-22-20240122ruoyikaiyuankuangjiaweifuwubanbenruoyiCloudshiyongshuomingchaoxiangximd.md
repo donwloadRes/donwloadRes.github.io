@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依开源框架-微服务版本（ruoyi-Cloud）使用说明-超详细"
+title: "若依开源框架微服务版本ruoyiCloud使用说明超详细"
 date:   2023-07-22
 tags: [Nacos,ruoyi,Cloud,启动,开源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 安装包（Linux 可用）"
+title: "JDK 18 安装包Linux 可用"
 date:   2021-03-02
 tags: [aarch64,安装包,JDK,Linux,tar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决Windows 10磁盘占用100%并出现卡顿、假死无反应"
+title: "完美解决Windows 10磁盘占用100并出现卡顿假死无反应"
 date:   2023-11-23
 tags: [磁盘,配置文件,工具,指南,占用]
 comments: true

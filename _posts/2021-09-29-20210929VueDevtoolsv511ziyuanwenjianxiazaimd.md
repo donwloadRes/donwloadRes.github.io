@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Devtools v5.1.1 资源文件下载"
+title: "Vue Devtools v511 资源文件下载"
 date:   2023-07-05
 tags: [Vue,Devtools,v5.1,文件,js]
 comments: true

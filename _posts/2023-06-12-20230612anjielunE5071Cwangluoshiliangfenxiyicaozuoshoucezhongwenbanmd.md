@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安捷伦E5071C网络矢量分析仪操作手册（中文版）"
+title: "安捷伦E5071C网络矢量分析仪操作手册中文版"
 date:   2024-11-28
 tags: [操作手册,E5071C,安捷伦,分析仪,PDF]
 comments: true

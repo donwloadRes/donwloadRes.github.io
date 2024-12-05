@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧拉法(Euler)求解常微分方程的Matlab程序及案例"
+title: "欧拉法Euler求解常微分方程的Matlab程序及案例"
 date:   2022-05-23
 tags: [Matlab,微分方程,欧拉,求解,案例]
 comments: true

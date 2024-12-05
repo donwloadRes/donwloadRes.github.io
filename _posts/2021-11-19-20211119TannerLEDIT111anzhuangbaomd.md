@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tanner L-EDIT 11.1 安装包"
+title: "Tanner LEDIT 111 安装包"
 date:   2023-05-08
 tags: [Tanner,EDIT,11.1,安装,安装包]
 comments: true

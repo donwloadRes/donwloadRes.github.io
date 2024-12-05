@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像去噪条纹处理 - 利用MATLAB实现"
+title: "图像去噪条纹处理  利用MATLAB实现"
 date:   2024-02-29
 tags: [图像,MATLAB,傅立叶,条纹,滤波器]
 comments: true

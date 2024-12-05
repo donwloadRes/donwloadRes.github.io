@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Std 1588-2019 标准下载仓库"
+title: "IEEE Std 15882019 标准下载仓库"
 date:   2021-04-26
 tags: [IEEE,Std,1588,2019,仓库]
 comments: true

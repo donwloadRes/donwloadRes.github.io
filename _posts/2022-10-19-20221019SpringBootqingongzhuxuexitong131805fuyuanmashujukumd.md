@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot勤工助学系统131805（附源码+数据库）"
+title: "Spring Boot勤工助学系统131805附源码数据库"
 date:   2020-04-28
 tags: [勤工助学,查询,助学金,Spring,Boot]
 comments: true

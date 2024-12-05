@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序源码合集：58款精品案例分享"
+title: "微信小程序源码合集58款精品案例分享"
 date:   2020-06-22
 tags: [源码,程序开发,程序,微信,58]
 comments: true

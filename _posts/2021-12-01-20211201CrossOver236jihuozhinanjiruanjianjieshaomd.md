@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrossOver 23.6激活指南及软件介绍"
+title: "CrossOver 236激活指南及软件介绍"
 date:   2021-11-02
 tags: [激活码,激活,CrossOver,软件,Windows]
 comments: true

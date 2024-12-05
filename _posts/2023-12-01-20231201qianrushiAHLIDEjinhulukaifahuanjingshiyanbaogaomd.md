@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式AHL-IDE金葫芦开发环境实验报告"
+title: "嵌入式AHLIDE金葫芦开发环境实验报告"
 date:   2020-02-03
 tags: [实验报告,金葫芦,AHL,IDE,嵌入式]
 comments: true

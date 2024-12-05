@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验报告：时序生成电路"
+title: "计算机组成原理实验报告时序生成电路"
 date:   2022-12-26
 tags: [电路,时序,实验,原理,生成]
 comments: true

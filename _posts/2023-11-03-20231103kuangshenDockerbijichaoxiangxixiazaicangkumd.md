@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狂神Docker笔记（超详细）下载仓库"
+title: "狂神Docker笔记超详细下载仓库"
 date:   2022-09-23
 tags: [笔记,Docker,狂神,标注,截图]
 comments: true

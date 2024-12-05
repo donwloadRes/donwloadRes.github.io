@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW2020 利用LabSQL访问MySQL8.0.17.0数据库方法和注意点"
+title: "LabVIEW2020 利用LabSQL访问MySQL80170数据库方法和注意点"
 date:   2023-10-05
 tags: [ODBC,32,LabVIEW2020,数据源,64]
 comments: true

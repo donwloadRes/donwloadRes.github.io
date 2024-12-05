@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse下载安装教程（包含JDK安装）【保姆级教学】【2024.4已更新】"
+title: "Eclipse下载安装教程包含JDK安装保姆级教学20244已更新"
 date:   2020-04-27
 tags: [Eclipse,JDK,安装,教程,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel-VBA教程完全版.pdf"
+title: "ExcelVBA教程完全版pdf"
 date:   2022-09-29
 tags: [Excel,VBA,教程,完全版,编程]
 comments: true

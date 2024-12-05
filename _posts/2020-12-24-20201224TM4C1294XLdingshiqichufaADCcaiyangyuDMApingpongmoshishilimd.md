@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TM4C1294XL定时器触发ADC采样与DMA ping-pong模式示例"
+title: "TM4C1294XL定时器触发ADC采样与DMA pingpong模式示例"
 date:   2020-10-07
 tags: [ADC,定时器,TM4C1294XL,DMA,采样]
 comments: true

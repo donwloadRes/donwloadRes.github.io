@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LMX2594_2495 原理图和测试程序"
+title: "LMX25942495 原理图和测试程序"
 date:   2021-11-20
 tags: [原理图,测试程序,LMX2594,2495,锁相环]
 comments: true

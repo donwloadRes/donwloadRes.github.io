@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "课程设计-家谱管理系统》"
+title: "课程设计家谱管理系统"
 date:   2024-10-11
 tags: [家谱,数据结构,文件,课程设计,用户]
 comments: true

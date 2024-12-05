@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码实现：综合能源系统优化调度模型含P2G与碳捕集技术"
+title: "MATLAB代码实现综合能源系统优化调度模型含P2G与碳捕集技术"
 date:   2022-12-06
 tags: [能源,MATLAB,P2G,捕集,模型]
 comments: true

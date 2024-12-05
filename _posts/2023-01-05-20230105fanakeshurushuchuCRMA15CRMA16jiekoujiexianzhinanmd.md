@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "发那科输入输出CRMA15_CRMA16接口接线指南"
+title: "发那科输入输出CRMA15CRMA16接口接线指南"
 date:   2021-04-23
 tags: [接线,发那科,CRMA15,CRMA16,接口]
 comments: true

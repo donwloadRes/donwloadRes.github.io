@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiA301 V4.2.0（中文注释版）资源文件下载"
+title: "CiA301 V420中文注释版资源文件下载"
 date:   2023-12-28
 tags: [V4.2,中文,CiA301,注释,文件]
 comments: true

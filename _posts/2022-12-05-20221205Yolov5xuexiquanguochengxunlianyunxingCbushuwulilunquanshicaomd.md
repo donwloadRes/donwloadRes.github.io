@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolov5学习全过程：训练+运行+C#部署（无理论全实操）"
+title: "Yolov5学习全过程训练运行C部署无理论全实操"
 date:   2023-09-29
 tags: [Yolov5,C#,部署,训练样本,模型]
 comments: true

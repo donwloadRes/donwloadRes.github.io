@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "截屏录屏软件分享：FSCapture 和 Snipaste"
+title: "截屏录屏软件分享FSCapture 和 Snipaste"
 date:   2024-11-10
 tags: [录屏,FSCapture,Snipaste,截图,软件]
 comments: true

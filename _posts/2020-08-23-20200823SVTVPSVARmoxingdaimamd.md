@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SV-TVP-SVAR模型代码"
+title: "SVTVPSVAR模型代码"
 date:   2023-03-21
 tags: [代码,SV,TVP,SVAR,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议中文版【完整版】下载仓库"
+title: "Modbus协议中文版完整版下载仓库"
 date:   2020-06-19
 tags: [Modbus,协议,通信协议,完整版,中文版]
 comments: true

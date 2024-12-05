@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window家庭版一键安装gpedit.msc"
+title: "Window家庭版一键安装gpeditmsc"
 date:   2023-04-12
 tags: [安装,家庭版,gpedit,msc,一键]
 comments: true

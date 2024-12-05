@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础速成Simulink代码生成——DBC文件CAN报文+Stateflow 5模型代码"
+title: "零基础速成Simulink代码生成DBC文件CAN报文Stateflow 5模型代码"
 date:   2021-12-01
 tags: [代码生成,Simulink,DBC,代码,Stateflow]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNURadio-windows.zip"
+title: "GNURadiowindowszip"
 date:   2020-06-16
 tags: [GNURadio,Windows,windows,zip,解压]
 comments: true

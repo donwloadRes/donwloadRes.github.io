@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP银企直连解决方案003.pdf"
+title: "SAP银企直连解决方案003pdf"
 date:   2021-11-02
 tags: [SAP,银企直,解决方案,对账,003]
 comments: true

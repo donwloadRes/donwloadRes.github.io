@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CapsWriter-Offline：高效便捷的离线语音输入与字幕转录解决方案"
+title: "CapsWriterOffline高效便捷的离线语音输入与字幕转录解决方案"
 date:   2022-09-07
 tags: [CapsWriter,Offline,转录,字幕,语音输入]
 comments: true

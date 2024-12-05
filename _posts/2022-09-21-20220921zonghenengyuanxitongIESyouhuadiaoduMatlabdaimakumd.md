@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "综合能源系统(IES)优化调度 Matlab 代码库"
+title: "综合能源系统IES优化调度 Matlab 代码库"
 date:   2020-04-09
 tags: [优化,能源,代码,负荷,调度]
 comments: true

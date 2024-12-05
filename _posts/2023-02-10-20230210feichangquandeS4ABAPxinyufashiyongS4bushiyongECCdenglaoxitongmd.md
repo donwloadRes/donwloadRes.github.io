@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常全的 S4 ABAP 新语法（适用S4不适用ECC等老系统）"
+title: "非常全的 S4 ABAP 新语法适用S4不适用ECC等老系统"
 date:   2024-06-06
 tags: [S4,系统,ABAP,ECC,语法]
 comments: true

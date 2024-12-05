@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019年华为硬件技术面试资源.pdf"
+title: "2019年华为硬件技术面试资源pdf"
 date:   2020-05-16
 tags: [2019,面试,技术,文档,华为]
 comments: true

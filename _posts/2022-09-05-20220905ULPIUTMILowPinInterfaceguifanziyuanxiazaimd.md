@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ULPI (UTMI+ Low Pin Interface) 规范资源下载"
+title: "ULPI UTMI Low Pin Interface 规范资源下载"
 date:   2020-03-24
 tags: [ULPI,规范,UTMI,Low,Pin]
 comments: true

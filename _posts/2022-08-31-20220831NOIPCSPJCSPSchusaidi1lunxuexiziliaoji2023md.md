@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NOIP CSP-J CSP-S 初赛 第1轮 学习资料集2023"
+title: "NOIP CSPJ CSPS 初赛 第1轮 学习资料集2023"
 date:   2022-01-12
 tags: [初赛,学习,CSP,信息学,奥赛]
 comments: true

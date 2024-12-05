@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio期末复习--复盘"
+title: "Android Studio期末复习复盘"
 date:   2023-01-29
 tags: [Android,复习,学生,开发,自测]
 comments: true

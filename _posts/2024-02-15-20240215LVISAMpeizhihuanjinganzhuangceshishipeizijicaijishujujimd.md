@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVI-SAM：配置环境、安装测试、适配自己采集数据集"
+title: "LVISAM配置环境安装测试适配自己采集数据集"
 date:   2024-04-13
 tags: [LVI,SAM,适配,安装,配置]
 comments: true

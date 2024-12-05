@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 中英文切换示例项目"
+title: "C 中英文切换示例项目"
 date:   2022-07-25
 tags: [中英文,切换,示例,控件,项目]
 comments: true

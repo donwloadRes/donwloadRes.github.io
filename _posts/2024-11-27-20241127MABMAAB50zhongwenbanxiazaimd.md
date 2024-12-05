@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAB-MAAB 5.0 中文版下载"
+title: "MABMAAB 50 中文版下载"
 date:   2021-06-12
 tags: [MAB,建模,5.0,中文版,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汉字字典数据库(SQL)"
+title: "汉字字典数据库SQL"
 date:   2024-01-02
 tags: [汉字,SQL,数据库,五笔,字典]
 comments: true

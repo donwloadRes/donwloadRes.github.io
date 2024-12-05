@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.14.2 开源版 Linux x64 安装文件下载"
+title: "Qt 5142 开源版 Linux x64 安装文件下载"
 date:   2024-11-14
 tags: [5.14,x64,Qt,qt,opensource]
 comments: true

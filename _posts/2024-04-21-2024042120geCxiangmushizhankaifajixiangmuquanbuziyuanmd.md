@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20个C#项目实战开发及项目全部资源"
+title: "20个C项目实战开发及项目全部资源"
 date:   2023-04-22
 tags: [C#,项目,资源,资源库,仓库]
 comments: true

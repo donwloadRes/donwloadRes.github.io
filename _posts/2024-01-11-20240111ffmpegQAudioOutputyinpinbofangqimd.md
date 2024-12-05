@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ffmpeg+QAudioOutput音频播放器"
+title: "ffmpegQAudioOutput音频播放器"
 date:   2022-06-07
 tags: [音频,ffmpeg,Qt,播放,播放器]
 comments: true

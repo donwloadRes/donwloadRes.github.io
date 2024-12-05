@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "QT 学生信息管理系统"
+title: "QT 学生信息管理系统
+date   20230407
+tags 学生管理员QT信息修改
+comments true
+author admin
+
+
+layout post
+title QT 学生信息管理系统"
 date:   2023-04-07
 tags: [学生,管理员,QT,信息,修改]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "QT 学生信息管理系统"
+title: "QT 学生信息管理系统
+date   20230407
+tags 学生管理员QT信息修改
+comments true
+author admin
+
+
+layout post
+title QT 学生信息管理系统"
 date:   2024-01-16
 tags: [学生,管理员,信息,QT,修改]
 comments: true

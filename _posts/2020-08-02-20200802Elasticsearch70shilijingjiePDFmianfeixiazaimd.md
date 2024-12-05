@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch 7.0 实例精解 PDF 免费下载"
+title: "Elasticsearch 70 实例精解 PDF 免费下载"
 date:   2020-09-18
 tags: [Elasticsearch,实例,7.0,精解,PDF]
 comments: true

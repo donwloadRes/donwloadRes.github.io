@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华硕主板H81M-E BIOS刷NVMe支持M.2固态硬盘成功"
+title: "华硕主板H81ME BIOS刷NVMe支持M2固态硬盘成功"
 date:   2020-10-01
 tags: [BIOS,NVMe,硬盘,M.2,刷写]
 comments: true

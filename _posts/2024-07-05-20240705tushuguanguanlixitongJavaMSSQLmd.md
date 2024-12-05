@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理系统（Java+MSSQL）"
+title: "图书馆管理系统JavaMSSQL"
 date:   2020-11-07
 tags: [图书馆,Java,借阅,数据库,管理系统]
 comments: true

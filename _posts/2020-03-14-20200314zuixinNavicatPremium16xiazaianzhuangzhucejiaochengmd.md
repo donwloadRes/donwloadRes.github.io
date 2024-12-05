@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Navicat Premium 16下载-安装-注册教程"
+title: "最新Navicat Premium 16下载安装注册教程"
 date:   2020-10-28
 tags: [Navicat,Premium,安装,激活,下载]
 comments: true

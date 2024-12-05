@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR4 JESD79-4C 标准文档下载"
+title: "DDR4 JESD794C 标准文档下载"
 date:   2023-05-12
 tags: [DDR4,文档,4C,JESD79,文件]
 comments: true

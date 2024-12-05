@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信感知一体化技术研究报告（IMT-2030 6G）"
+title: "通信感知一体化技术研究报告IMT2030 6G"
 date:   2023-07-14
 tags: [6G,感知,通信,一体化,技术]
 comments: true

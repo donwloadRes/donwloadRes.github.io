@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIEMENS_NX2406 免安装版资源文件介绍"
+title: "SIEMENSNX2406 免安装版资源文件介绍"
 date:   2022-02-14
 tags: [模块,文件,NX2406,提取,使用]
 comments: true

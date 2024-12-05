@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK标准_ISO 17356-2-2005_Part 2 OSEKVDX规范"
+title: "OSEK标准ISO 1735622005Part 2 OSEKVDX规范"
 date:   2021-09-20
 tags: [OSEK,VDX,2005,NM,标准]
 comments: true

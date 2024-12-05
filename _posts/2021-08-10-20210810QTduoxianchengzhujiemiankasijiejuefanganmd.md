@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT多线程—主界面卡死解决方案"
+title: "QT多线程主界面卡死解决方案"
 date:   2021-06-01
 tags: [QT,线程,多线程,UI,卡死]
 comments: true

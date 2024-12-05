@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++编写安防视频监控系统1-通道切换"
+title: "QtC编写安防视频监控系统1通道切换"
 date:   2020-08-30
 tags: [通道,Qt,安防,切换,视频]
 comments: true

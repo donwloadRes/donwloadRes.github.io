@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 + ROS + Gazebo + PX4 安装教程"
+title: "Ubuntu 1804  ROS  Gazebo  PX4 安装教程"
 date:   2021-09-23
 tags: [安装,教程,ROS,PX4,Ubuntu]
 comments: true

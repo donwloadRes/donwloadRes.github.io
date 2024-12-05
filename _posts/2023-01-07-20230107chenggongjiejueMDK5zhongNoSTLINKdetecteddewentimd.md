@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "成功解决 MDK5 中 No ST-LINK detected 的问题"
+title: "成功解决 MDK5 中 No STLINK detected 的问题"
 date:   2024-07-07
 tags: [ST,LINK,MDK5,管理器,驱动程序]
 comments: true

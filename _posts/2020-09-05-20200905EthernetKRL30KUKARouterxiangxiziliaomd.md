@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EthernetKRL3.0+KUKA Router+详细资料"
+title: "EthernetKRL30KUKA Router详细资料"
 date:   2021-08-19
 tags: [KUKA,机器人,Router,EthernetKRL,3.0]
 comments: true

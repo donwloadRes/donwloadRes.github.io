@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5+QChart绘制动态波形图"
+title: "Qt5QChart绘制动态波形图"
 date:   2024-03-14
 tags: [波形图,动态,Qt5,QChart,绘制]
 comments: true

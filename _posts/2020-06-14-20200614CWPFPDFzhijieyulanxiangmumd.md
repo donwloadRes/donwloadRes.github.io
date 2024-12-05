@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF PDF直接预览项目"
+title: "C WPF PDF直接预览项目"
 date:   2020-04-22
 tags: [PDF,WPF,预览,libmupdf,dll]
 comments: true

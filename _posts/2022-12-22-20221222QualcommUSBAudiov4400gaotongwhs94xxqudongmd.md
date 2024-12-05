@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qualcomm-USBAudio-v4.40.0 高通 whs94xx 驱动"
+title: "QualcommUSBAudiov4400 高通 whs94xx 驱动"
 date:   2020-01-25
 tags: [Qualcomm,文件,v4.40,驱动程序,USBAudio]
 comments: true

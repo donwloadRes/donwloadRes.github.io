@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open CV插件——OpenCV for Unity 学习教程"
+title: "Open CV插件OpenCV for Unity 学习教程"
 date:   2023-03-01
 tags: [Unity,OpenCV,插件,教程,版本]
 comments: true

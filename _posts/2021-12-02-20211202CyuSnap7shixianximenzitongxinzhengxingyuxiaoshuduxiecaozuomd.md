@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++与Snap7实现西门子通信：整型与小数读写操作"
+title: "C与Snap7实现西门子通信整型与小数读写操作"
 date:   2024-06-15
 tags: [Snap7,读写操作,C++,PLC,整型]
 comments: true

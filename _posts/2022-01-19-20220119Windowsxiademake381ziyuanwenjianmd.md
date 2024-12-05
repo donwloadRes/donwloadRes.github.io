@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下的make 3.81 资源文件"
+title: "Windows下的make 381 资源文件"
 date:   2020-07-15
 tags: [make,Windows,安装,文件,C++]
 comments: true

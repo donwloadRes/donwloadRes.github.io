@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCJ-02转CGCS2000坐标系转换"
+title: "GCJ02转CGCS2000坐标系转换"
 date:   2023-04-26
 tags: [坐标系,转换,CGCS2000,坐标,GCJ]
 comments: true

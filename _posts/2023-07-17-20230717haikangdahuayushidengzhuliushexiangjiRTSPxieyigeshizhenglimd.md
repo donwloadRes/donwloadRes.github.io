@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康、大华、宇视等主流摄像机RTSP协议格式整理"
+title: "海康大华宇视等主流摄像机RTSP协议格式整理"
 date:   2022-01-08
 tags: [RTSP,摄像机,宇视,协议,格式]
 comments: true

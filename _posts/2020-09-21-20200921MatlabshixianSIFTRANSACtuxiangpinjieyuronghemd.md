@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现SIFT+RANSAC图像拼接与融合"
+title: "Matlab实现SIFTRANSAC图像拼接与融合"
 date:   2022-07-01
 tags: [拼接,图像,Matlab,融合,SIFT]
 comments: true

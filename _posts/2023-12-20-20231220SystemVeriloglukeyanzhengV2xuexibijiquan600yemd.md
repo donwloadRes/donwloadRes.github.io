@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog 路科验证V2学习笔记（全600页）"
+title: "SystemVerilog 路科验证V2学习笔记全600页"
 date:   2021-01-26
 tags: [SystemVerilog,验证,线程,笔记,UVM]
 comments: true

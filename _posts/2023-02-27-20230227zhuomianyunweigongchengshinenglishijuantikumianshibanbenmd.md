@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "桌面运维工程师能力试卷题库（面试版本）"
+title: "桌面运维工程师能力试卷题库面试版本"
 date:   2020-03-20
 tags: [题库,运维,面试,桌面,试卷]
 comments: true

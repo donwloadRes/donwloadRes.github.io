@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "MATLAB数字图像处理入门练习（资源版）"
+title: "MATLAB数字图像处理入门练习资源版
+date   20240310
+tags 练习MATLAB图像处理图像学习者
+comments true
+author admin
+
+
+layout post
+title MATLAB数字图像处理入门练习资源版"
 date:   2024-03-10
 tags: [练习,MATLAB,图像处理,图像,学习者]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "MATLAB数字图像处理入门练习（资源版）"
+title: "MATLAB数字图像处理入门练习资源版
+date   20240310
+tags 练习MATLAB图像处理图像学习者
+comments true
+author admin
+
+
+layout post
+title MATLAB数字图像处理入门练习资源版"
 date:   2022-10-15
 tags: [练习,MATLAB,图像处理,图像,学习者]
 comments: true

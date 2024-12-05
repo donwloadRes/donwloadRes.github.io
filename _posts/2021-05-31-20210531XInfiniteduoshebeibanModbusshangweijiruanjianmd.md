@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-Infinite 多设备版 Modbus 上位机软件"
+title: "XInfinite 多设备版 Modbus 上位机软件"
 date:   2022-12-05
 tags: [设备,Infinite,回放,自定义,数据]
 comments: true

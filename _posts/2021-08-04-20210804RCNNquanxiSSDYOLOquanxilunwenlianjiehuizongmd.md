@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R-CNN全系、SSD、YOLO全系论文链接汇总"
+title: "RCNN全系SSDYOLO全系论文链接汇总"
 date:   2022-06-28
 tags: [CNN,论文,全系,SSD,YOLO]
 comments: true

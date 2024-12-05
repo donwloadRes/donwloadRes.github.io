@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Net Framework 4.0 离线安装包"
+title: "Net Framework 40 离线安装包"
 date:   2023-12-02
 tags: [Framework,安装,离线,4.0,NET]
 comments: true

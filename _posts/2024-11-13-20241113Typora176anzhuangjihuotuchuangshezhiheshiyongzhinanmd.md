@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 1.7.6 安装、激活、图床设置和使用指南"
+title: "Typora 176 安装激活图床设置和使用指南"
 date:   2022-01-23
 tags: [Typora,安装,图床,设置,1.7]
 comments: true

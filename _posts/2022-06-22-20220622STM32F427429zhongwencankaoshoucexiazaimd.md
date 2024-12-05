@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F427-429 中文参考手册下载"
+title: "STM32F427429 中文参考手册下载"
 date:   2023-07-09
 tags: [STM32F427,参考手册,中文,429,STM32F429]
 comments: true

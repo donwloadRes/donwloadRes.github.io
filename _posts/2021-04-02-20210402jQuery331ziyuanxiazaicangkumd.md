@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery 3.3.1 资源下载仓库"
+title: "jQuery 331 资源下载仓库"
 date:   2023-01-13
 tags: [jQuery,3.3,版本,js,jquery]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "求解非线性方程组的十多种方法——MATLAB实现"
+title: "求解非线性方程组的十多种方法MATLAB实现"
 date:   2020-06-11
 tags: [线性方程组,求非,法求,一组,牛顿]
 comments: true

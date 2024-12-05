@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST_LINK V2官方原理图（AD）资源下载"
+title: "STLINK V2官方原理图AD资源下载"
 date:   2022-08-23
 tags: [原理图,文件,ST,AD,LINK]
 comments: true

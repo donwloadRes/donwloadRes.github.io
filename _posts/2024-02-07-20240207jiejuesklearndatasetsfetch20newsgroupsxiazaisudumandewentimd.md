@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决sklearn.datasets.fetch_20newsgroups下载速度慢的问题"
+title: "解决sklearndatasetsfetch20newsgroups下载速度慢的问题"
 date:   2020-03-04
 tags: [fetch,20newsgroups,下载速度,sklearn,下载]
 comments: true

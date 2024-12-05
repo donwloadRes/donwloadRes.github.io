@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子精英版标准例程-库函数版本"
+title: "正点原子精英版标准例程库函数版本"
 date:   2022-11-11
 tags: [库函数,例程,精英,源码,正点]
 comments: true

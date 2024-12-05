@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2008 R2 在VMWare中识别USB 3.0设备指南"
+title: "Windows Server 2008 R2 在VMWare中识别USB 30设备指南"
 date:   2020-04-04
 tags: [USB,3.0,虚拟机,Server,2008]
 comments: true

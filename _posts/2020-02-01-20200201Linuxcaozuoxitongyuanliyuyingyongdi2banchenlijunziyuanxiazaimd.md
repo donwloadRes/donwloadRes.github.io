@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux操作系统原理与应用（第2版）陈莉君 资源下载"
+title: "Linux操作系统原理与应用第2版陈莉君 资源下载"
 date:   2023-09-21
 tags: [Linux,操作系统,陈莉君,下载,原理]
 comments: true

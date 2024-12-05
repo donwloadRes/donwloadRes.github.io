@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS6.0基本操作教程（详细）"
+title: "CCS60基本操作教程详细"
 date:   2020-07-06
 tags: [CCS6.0,CCS,教程,基本操作,嵌入式]
 comments: true

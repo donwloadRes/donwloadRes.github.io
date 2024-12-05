@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L431 串口打印例程（HAL库）"
+title: "STM32L431 串口打印例程HAL库"
 date:   2021-11-22
 tags: [HAL,例程,STM32L431,串口,打印]
 comments: true

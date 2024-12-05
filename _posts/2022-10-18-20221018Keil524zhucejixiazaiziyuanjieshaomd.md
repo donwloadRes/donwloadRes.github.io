@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil 5.24 注册机下载资源介绍"
+title: "Keil 524 注册机下载资源介绍"
 date:   2020-07-04
 tags: [Keil,5.24,注册机,安装包,激活码]
 comments: true

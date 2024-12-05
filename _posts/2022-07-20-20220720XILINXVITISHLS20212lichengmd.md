@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XILINX VITIS HLS 2021.2例程"
+title: "XILINX VITIS HLS 20212例程"
 date:   2020-12-12
 tags: [例程,HLS,Vitis,2021.2,XILINX]
 comments: true

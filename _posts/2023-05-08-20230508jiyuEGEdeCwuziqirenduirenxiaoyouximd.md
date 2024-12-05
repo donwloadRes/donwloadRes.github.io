@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于EGE的C++五子棋人对人小游戏"
+title: "基于EGE的C五子棋人对人小游戏"
 date:   2021-11-19
 tags: [EGE,五子棋,C++,游戏,项目]
 comments: true

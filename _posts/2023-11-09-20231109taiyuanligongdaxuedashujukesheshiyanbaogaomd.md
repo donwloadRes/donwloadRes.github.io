@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太原理工大学大数据》课设实验报告"
+title: "太原理工大学大数据课设实验报告"
 date:   2021-09-18
 tags: [实验,实验报告,数据,理工大学,课设]
 comments: true

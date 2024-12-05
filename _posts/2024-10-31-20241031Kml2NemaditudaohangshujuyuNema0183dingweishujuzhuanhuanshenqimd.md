@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kml2Nema：地图导航数据与Nema0183定位数据转换神器"
+title: "Kml2Nema地图导航数据与Nema0183定位数据转换神器"
 date:   2020-08-15
 tags: [地图,转换,Nema0183,GPS,数据]
 comments: true

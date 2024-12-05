@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP PP-PI 简介及应用指南"
+title: "SAP PPPI 简介及应用指南"
 date:   2024-06-04
 tags: [SAP,PI,PP,生产,模块]
 comments: true

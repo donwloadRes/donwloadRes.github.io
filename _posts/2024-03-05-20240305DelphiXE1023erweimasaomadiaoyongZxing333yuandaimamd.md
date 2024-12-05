@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE10.2.3 二维码扫码调用 Zxing 3.3.3 源代码"
+title: "Delphi XE1023 二维码扫码调用 Zxing 333 源代码"
 date:   2023-11-20
 tags: [XE10.2,Delphi,源代码,扫码,二维码]
 comments: true

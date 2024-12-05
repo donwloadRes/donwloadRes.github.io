@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google C++ 编码规范中文版下载"
+title: "Google C 编码规范中文版下载"
 date:   2020-08-28
 tags: [C++,Google,编码,规范,开发者]
 comments: true

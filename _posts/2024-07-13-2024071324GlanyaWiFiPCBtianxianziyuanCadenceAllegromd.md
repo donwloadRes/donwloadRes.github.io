@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2.4G 蓝牙-WiFi PCB 天线资源 (Cadence Allegro)"
+title: "24G 蓝牙WiFi PCB 天线资源 Cadence Allegro"
 date:   2024-07-15
 tags: [封装,Allegro,2.4,PCB,天线]
 comments: true

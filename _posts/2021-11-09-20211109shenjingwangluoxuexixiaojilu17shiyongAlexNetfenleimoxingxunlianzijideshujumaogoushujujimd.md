@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神经网络学习小记录17——使用AlexNet分类模型训练自己的数据（猫狗数据集）"
+title: "神经网络学习小记录17使用AlexNet分类模型训练自己的数据猫狗数据集"
 date:   2021-11-09
 tags: [训练,模型,AlexNet,数据,教程]
 comments: true

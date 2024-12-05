@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF自定义MessageBox完善版 v2 (源码)"
+title: "WPF自定义MessageBox完善版 v2 源码"
 date:   2023-11-10
 tags: [源码,MessageBox,自定义,WPF,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proxifier v3.4.2 中文版资源下载"
+title: "Proxifier v342 中文版资源下载"
 date:   2021-01-12
 tags: [Proxifier,中文版,v3.4,下载,解压]
 comments: true

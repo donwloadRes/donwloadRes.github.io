@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC与上位机通讯示例程序及S7.net+修改版"
+title: "西门子PLC与上位机通讯示例程序及S7net修改版"
 date:   2020-03-12
 tags: [PLC,S7,net,通讯,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电试题及答案（总共5套）"
+title: "数电试题及答案总共5套"
 date:   2021-06-16
 tags: [试题,答案,数电,知识点,数字电路]
 comments: true

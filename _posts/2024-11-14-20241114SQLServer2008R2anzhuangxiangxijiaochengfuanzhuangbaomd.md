@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2008R2安装详细教程（附安装包）"
+title: "SQL Server 2008R2安装详细教程附安装包"
 date:   2020-06-02
 tags: [安装,安装包,SQL,Server,教程]
 comments: true

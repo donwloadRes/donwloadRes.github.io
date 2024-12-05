@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PaddleOCR 2.6 版本大致教程"
+title: "PaddleOCR 26 版本大致教程"
 date:   2020-02-16
 tags: [PaddleOCR,2.6,教程,版本,常见问题]
 comments: true

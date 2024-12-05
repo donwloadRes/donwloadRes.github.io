@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奉加微 PHY6222 BLE SoC 数据手册 v1.2 下载"
+title: "奉加微 PHY6222 BLE SoC 数据手册 v12 下载"
 date:   2022-06-05
 tags: [v1.2,奉加微,PHY6222,手册,BLE]
 comments: true

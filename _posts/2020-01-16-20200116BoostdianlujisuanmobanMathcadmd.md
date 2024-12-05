@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost电路计算模版——Mathcad"
+title: "Boost电路计算模版Mathcad"
 date:   2022-09-09
 tags: [Boost,Mathcad,模版,参数,计算]
 comments: true

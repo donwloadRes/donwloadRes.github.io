@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLL反编译（C++）工具"
+title: "DLL反编译C工具"
 date:   2024-12-01
 tags: [反编译,DLL,工具,C++,GitHub]
 comments: true

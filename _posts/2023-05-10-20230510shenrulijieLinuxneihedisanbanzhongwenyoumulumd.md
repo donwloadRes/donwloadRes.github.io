@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Linux内核（第三版.中文）【有目录】"
+title: "深入理解Linux内核第三版中文有目录"
 date:   2023-11-23
 tags: [Linux,内核,深入,本书,理解]
 comments: true

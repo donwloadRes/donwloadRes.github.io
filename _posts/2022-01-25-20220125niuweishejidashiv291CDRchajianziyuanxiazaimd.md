@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛为设计大师 v2.9.1 - CDR插件资源下载"
+title: "牛为设计大师 v291  CDR插件资源下载"
 date:   2024-10-07
 tags: [插件,设计,牛为,v2.9,设计师]
 comments: true

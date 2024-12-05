@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity连接ModbusTCP NModbus4.DLL文件"
+title: "Unity连接ModbusTCP NModbus4DLL文件"
 date:   2024-06-17
 tags: [Unity,DLL,文件,NModbus4,ModbusTCP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AAS-V9.0 资源文件下载"
+title: "AASV90 资源文件下载"
 date:   2024-05-21
 tags: [AAS,V9.0,试用,下载,文件]
 comments: true

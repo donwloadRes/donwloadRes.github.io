@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马——C++基础入门"
+title: "黑马C基础入门"
 date:   2024-06-11
 tags: [C++,教程,编程,指针,入门]
 comments: true

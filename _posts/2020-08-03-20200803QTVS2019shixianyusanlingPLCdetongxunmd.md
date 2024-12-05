@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT + VS2019 实现与三菱PLC的通讯"
+title: "QT  VS2019 实现与三菱PLC的通讯"
 date:   2020-04-16
 tags: [PLC,通讯,QT,VS2019,三菱]
 comments: true

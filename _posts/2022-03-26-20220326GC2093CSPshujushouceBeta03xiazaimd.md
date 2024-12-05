@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GC2093 CSP 数据手册 Beta0.3 下载"
+title: "GC2093 CSP 数据手册 Beta03 下载"
 date:   2024-08-05
 tags: [GC2093,Beta0.3,摄像头,CSP,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医学三维重建：MATLAB体绘制算法——多层面重建（MPR）测试代码"
+title: "医学三维重建MATLAB体绘制算法多层面重建MPR测试代码"
 date:   2022-08-01
 tags: [MATLAB,医学,MPR,三维重建,算法]
 comments: true

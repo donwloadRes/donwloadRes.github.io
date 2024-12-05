@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200使用手册下载"
+title: "西门子S7200使用手册下载"
 date:   2021-06-18
 tags: [200,使用手册,S7,西门子,PLC]
 comments: true

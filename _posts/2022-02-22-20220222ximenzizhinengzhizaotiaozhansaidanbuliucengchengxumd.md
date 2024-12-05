@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子智能制造挑战赛-单步六层程序"
+title: "西门子智能制造挑战赛单步六层程序"
 date:   2024-08-22
 tags: [程序,西门子,单步,智能,挑战赛]
 comments: true

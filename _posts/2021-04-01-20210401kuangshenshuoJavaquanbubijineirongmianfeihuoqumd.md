@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狂神说Java全部笔记内容，免费获取！"
+title: "狂神说Java全部笔记内容免费获取"
 date:   2022-08-01
 tags: [Java,狂神,笔记,PDF,学习]
 comments: true

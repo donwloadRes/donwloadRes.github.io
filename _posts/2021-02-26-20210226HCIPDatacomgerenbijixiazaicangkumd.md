@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Datacom 个人笔记下载仓库"
+title: "HCIPDatacom 个人笔记下载仓库"
 date:   2020-03-09
 tags: [笔记,HCIP,Datacom,学习,课程]
 comments: true

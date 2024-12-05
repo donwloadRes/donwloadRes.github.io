@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows小工具：两款屏幕取色拾色器"
+title: "Windows小工具两款屏幕取色拾色器"
 date:   2021-05-20
 tags: [取色,屏幕,工具,两款,拾色器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMD Databook 2012 (Marking Codes) - 丝印反查手册"
+title: "SMD Databook 2012 Marking Codes  丝印反查手册"
 date:   2022-11-07
 tags: [SMD,丝印,器件,Databook,电子]
 comments: true

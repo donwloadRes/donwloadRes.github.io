@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lighttools 8.4.0(64) 光学系统建模软件安装教程"
+title: "Lighttools 84064 光学系统建模软件安装教程"
 date:   2020-03-20
 tags: [Lighttools,教程,软件,安装,建模]
 comments: true

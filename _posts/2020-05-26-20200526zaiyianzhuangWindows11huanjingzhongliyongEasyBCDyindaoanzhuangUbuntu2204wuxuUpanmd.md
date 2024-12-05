@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在已安装Windows 11环境中利用EasyBCD引导安装Ubuntu 22.04（无需U盘）"
+title: "在已安装Windows 11环境中利用EasyBCD引导安装Ubuntu 2204无需U盘"
 date:   2023-07-06
 tags: [Ubuntu,EasyBCD,安装,Windows,U盘]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "互联网＋大赛创业计划书资源库"
+title: "互联网大赛创业计划书资源库"
 date:   2021-02-19
 tags: [计划书,大赛,创业,互联网,PPT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 卡机电规范版本4.0"
+title: "PCI Express 卡机电规范版本40"
 date:   2024-01-23
 tags: [4.0,PCI,Express,PCIe,文档]
 comments: true

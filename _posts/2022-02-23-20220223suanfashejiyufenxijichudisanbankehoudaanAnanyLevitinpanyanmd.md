@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析基础 第三版 课后答案 (Anany.Levitin 潘彦)"
+title: "算法设计与分析基础 第三版 课后答案 AnanyLevitin 潘彦"
 date:   2022-09-22
 tags: [课后,答案,算法,第三版,Anany]
 comments: true

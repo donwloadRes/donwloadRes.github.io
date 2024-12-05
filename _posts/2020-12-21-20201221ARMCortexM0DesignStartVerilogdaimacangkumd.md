@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M0 DesignStart Verilog代码仓库"
+title: "ARM CortexM0 DesignStart Verilog代码仓库"
 date:   2021-04-15
 tags: [ARM,Cortex,M0,Verilog,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EEupdate_5.35.12.0 修改网卡ID"
+title: "EEupdate535120 修改网卡ID"
 date:   2020-12-31
 tags: [网卡,ID,EEupdate,修改,5.35]
 comments: true

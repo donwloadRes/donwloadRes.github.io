@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谭晓军——电动汽车动力电池管理系统设计"
+title: "谭晓军电动汽车动力电池管理系统设计"
 date:   2022-01-10
 tags: [BMS,电动汽车,管理系统,动力电池,谭晓军]
 comments: true

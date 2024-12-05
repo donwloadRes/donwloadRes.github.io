@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethercat 从站协议工具 SSC_V5.12 资源下载"
+title: "Ethercat 从站协议工具 SSCV512 资源下载"
 date:   2020-05-31
 tags: [SSC,V5.12,Ethercat,工具,开发]
 comments: true

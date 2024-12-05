@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：峰谷电价引导下电动汽车充电负荷优化-基于NSGA-II"
+title: "MATLAB代码峰谷电价引导下电动汽车充电负荷优化基于NSGAII"
 date:   2020-09-23
 tags: [充电,电动汽车,负荷,峰谷,代码]
 comments: true

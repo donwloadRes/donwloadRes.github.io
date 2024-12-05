@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType数学输入面板“灰色”不显示解决办法"
+title: "MathType数学输入面板灰色不显示解决办法"
 date:   2023-08-02
 tags: [MathType,面板,输入,Files,灰色]
 comments: true

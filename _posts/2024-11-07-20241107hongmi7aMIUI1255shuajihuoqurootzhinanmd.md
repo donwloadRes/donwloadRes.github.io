@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红米7a MIUI12.5.5 刷机获取root指南"
+title: "红米7a MIUI1255 刷机获取root指南"
 date:   2021-04-25
 tags: [解锁,Bootloader,指南,红米,刷机]
 comments: true

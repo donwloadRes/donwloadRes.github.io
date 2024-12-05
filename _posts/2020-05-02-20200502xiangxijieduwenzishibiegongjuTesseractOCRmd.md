@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详细解读文字识别工具———Tesseract-OCR"
+title: "详细解读文字识别工具TesseractOCR"
 date:   2024-09-24
 tags: [Tesseract,OCR,识别,文档,图片]
 comments: true

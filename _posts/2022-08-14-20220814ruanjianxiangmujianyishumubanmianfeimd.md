@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件项目建议书模板（免费）"
+title: "软件项目建议书模板免费"
 date:   2021-07-30
 tags: [项目,模板,建议书,软件,市场前景]
 comments: true

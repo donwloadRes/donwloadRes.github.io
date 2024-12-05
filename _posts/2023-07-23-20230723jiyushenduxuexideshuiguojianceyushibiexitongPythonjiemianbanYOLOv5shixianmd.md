@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的水果检测与识别系统（Python界面版，YOLOv5实现）"
+title: "基于深度学习的水果检测与识别系统Python界面版YOLOv5实现"
 date:   2023-02-01
 tags: [检测,Python,用户,视频,界面]
 comments: true

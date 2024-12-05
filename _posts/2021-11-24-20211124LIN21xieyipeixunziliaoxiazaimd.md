@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN2.1协议培训资料下载"
+title: "LIN21协议培训资料下载"
 date:   2022-01-05
 tags: [LIN2.1,协议,培训资料,文件,恒润]
 comments: true

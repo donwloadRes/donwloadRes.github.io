@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI2Offline 4.8.2 资源文件下载"
+title: "AI2Offline 482 资源文件下载"
 date:   2021-05-10
 tags: [文件,AI2Offline4.8,解压,资源,4.8]
 comments: true

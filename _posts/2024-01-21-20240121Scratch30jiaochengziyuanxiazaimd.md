@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch 3.0 教程资源下载"
+title: "Scratch 30 教程资源下载"
 date:   2024-10-16
 tags: [Scratch,3.0,PPT,编程,教程]
 comments: true

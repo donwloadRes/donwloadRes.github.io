@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机测速实验指南（霍尔传感器应用）"
+title: "电机测速实验指南霍尔传感器应用"
 date:   2023-10-30
 tags: [传感器,霍尔,电机,测速,磁钢]
 comments: true

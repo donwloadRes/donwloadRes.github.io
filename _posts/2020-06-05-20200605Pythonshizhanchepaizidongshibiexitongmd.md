@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实战：车牌自动识别系统"
+title: "Python实战车牌自动识别系统"
 date:   2020-07-29
 tags: [图像,车牌,py,字符,自动识别]
 comments: true

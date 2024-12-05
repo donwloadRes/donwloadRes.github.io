@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全数学基础》学习笔记下载"
+title: "信息安全数学基础学习笔记下载"
 date:   2022-04-22
 tags: [信息安全,笔记,学习,数学,密码学]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 4.8.5 离线安装包"
+title: "GCC 485 离线安装包"
 date:   2021-09-12
 tags: [4.8,GCC,安装包,离线,安装]
 comments: true

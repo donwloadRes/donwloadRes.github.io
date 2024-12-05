@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tableau数据可视化-医疗行业可视化分析"
+title: "Tableau数据可视化医疗行业可视化分析"
 date:   2021-12-19
 tags: [可视化,Tableau,医疗,数据,分析]
 comments: true

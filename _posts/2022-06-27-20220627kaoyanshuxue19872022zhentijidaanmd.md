@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考研数学1987-2022真题及答案"
+title: "考研数学19872022真题及答案"
 date:   2021-07-01
 tags: [真题,考研,数学,1987,2022]
 comments: true

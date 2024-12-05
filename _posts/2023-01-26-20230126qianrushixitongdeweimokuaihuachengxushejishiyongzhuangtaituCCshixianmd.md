@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统的微模块化程序设计－实用状态图C-C++实现"
+title: "嵌入式系统的微模块化程序设计实用状态图CC实现"
 date:   2022-11-04
 tags: [状态机,消息,状态,系统,case]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "echarts地图：全球+全国+省级，可下钻层级"
+title: "echarts地图全球全国省级可下钻层级"
 date:   2020-07-17
 tags: [地图,ECharts,项目,echarts,Vue]
 comments: true

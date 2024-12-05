@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6.6.1 中文版图文激活教程"
+title: "Studio One 661 中文版图文激活教程"
 date:   2021-12-30
 tags: [激活,中文版,教程,Studio,6.6]
 comments: true

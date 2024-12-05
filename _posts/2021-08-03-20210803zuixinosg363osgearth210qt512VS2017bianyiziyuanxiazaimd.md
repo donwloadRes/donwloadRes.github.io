@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新osg3.6.3+osgearth2.10+qt5.12+VS2017编译资源下载"
+title: "最新osg363osgearth210qt512VS2017编译资源下载"
 date:   2022-02-01
 tags: [下载,osg3.6,qt5.12,VS2017,编译]
 comments: true

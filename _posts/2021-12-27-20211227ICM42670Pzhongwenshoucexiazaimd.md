@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICM-42670-P中文手册下载"
+title: "ICM42670P中文手册下载"
 date:   2023-08-17
 tags: [ICM,42670,手册,下载,中文]
 comments: true

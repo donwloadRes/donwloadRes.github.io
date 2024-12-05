@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌跨域插件Access-Control-Allow-Origin"
+title: "谷歌跨域插件AccessControlAllowOrigin"
 date:   2021-07-26
 tags: [插件,跨域,浏览器,Access,Control]
 comments: true

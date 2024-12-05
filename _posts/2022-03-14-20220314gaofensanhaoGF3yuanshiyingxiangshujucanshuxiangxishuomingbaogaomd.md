@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高分三号（GF-3）原始影像数据参数详细说明报告"
+title: "高分三号GF3原始影像数据参数详细说明报告"
 date:   2020-07-09
 tags: [GF,高分,三号,影像,原始]
 comments: true

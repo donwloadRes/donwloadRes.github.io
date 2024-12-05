@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jdk1.8的下载、安装及环境配置指南"
+title: "Jdk18的下载安装及环境配置指南"
 date:   2023-02-25
 tags: [Java,安装,下载,JDK,Jdk1.8]
 comments: true

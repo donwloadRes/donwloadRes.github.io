@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat 16-17 安装与激活详细指南"
+title: "Navicat 1617 安装与激活详细指南"
 date:   2021-09-10
 tags: [Navicat,激活,安装,安装包,16]
 comments: true

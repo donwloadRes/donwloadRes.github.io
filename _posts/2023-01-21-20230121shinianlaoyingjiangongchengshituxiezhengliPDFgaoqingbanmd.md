@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十年老硬件工程师吐血整理（PDF高清版）"
+title: "十年老硬件工程师吐血整理PDF高清版"
 date:   2021-09-19
 tags: [工程师,PDF,硬件,电子,高清]
 comments: true

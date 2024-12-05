@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FTK Imager 4.2.0 中文版安装包"
+title: "FTK Imager 420 中文版安装包"
 date:   2020-07-20
 tags: [FTK,Imager,中文,4.2,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prodave6.2 ISO光盘镜像下载"
+title: "Prodave62 ISO光盘镜像下载"
 date:   2022-08-20
 tags: [ISO,Prodave6.2,安装,镜像文件,光盘]
 comments: true

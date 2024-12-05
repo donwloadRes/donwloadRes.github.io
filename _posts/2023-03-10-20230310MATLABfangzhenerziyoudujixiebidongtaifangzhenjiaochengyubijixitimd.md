@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真-二自由度机械臂动态仿真教程与笔记习题"
+title: "MATLAB仿真二自由度机械臂动态仿真教程与笔记习题"
 date:   2022-07-27
 tags: [仿真,MATLAB,习题,教程,机械]
 comments: true

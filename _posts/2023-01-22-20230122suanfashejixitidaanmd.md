@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计》习题答案"
+title: "算法设计习题答案"
 date:   2023-10-22
 tags: [算法,答案,设计,习题,仓库]
 comments: true

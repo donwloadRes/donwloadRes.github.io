@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONFI规范各版本合集NAND（1.0-5.1）"
+title: "ONFI规范各版本合集NAND1051"
 date:   2022-09-29
 tags: [ONFI,NAND,5.1,FLASH,规范]
 comments: true

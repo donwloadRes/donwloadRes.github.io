@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink BMS 模型：基于EKF和UKF的SOC仿真"
+title: "Simulink BMS 模型基于EKF和UKF的SOC仿真"
 date:   2024-11-19
 tags: [模型,Simulink,SOC,EKF,UKF]
 comments: true

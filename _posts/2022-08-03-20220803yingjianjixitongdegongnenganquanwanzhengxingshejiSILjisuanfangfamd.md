@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件及系统的功能安全完整性设计（SIL）-计算方法"
+title: "硬件及系统的功能安全完整性设计SIL计算方法"
 date:   2024-04-28
 tags: [SIL,功能,安全,IEC61508,计算方法]
 comments: true

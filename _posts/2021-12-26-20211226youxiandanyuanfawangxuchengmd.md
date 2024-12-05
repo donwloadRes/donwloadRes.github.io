@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限单元法_王勖成"
+title: "有限单元法王勖成"
 date:   2022-07-25
 tags: [单元,有限,王勖,学习,工程]
 comments: true

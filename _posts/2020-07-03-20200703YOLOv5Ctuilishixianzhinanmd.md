@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5 C++推理实现指南"
+title: "YOLOv5 C推理实现指南"
 date:   2021-05-11
 tags: [推理,TensorRT,Onnxruntime,YOLOv5,Visual]
 comments: true

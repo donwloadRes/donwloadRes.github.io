@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下查看EXE依赖库工具 - Depend"
+title: "Windows下查看EXE依赖库工具  Depend"
 date:   2023-11-28
 tags: [EXE,Depend,工具,依赖,Windows]
 comments: true

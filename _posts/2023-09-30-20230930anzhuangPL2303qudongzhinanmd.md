@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装PL-2303驱动指南"
+title: "安装PL2303驱动指南"
 date:   2020-01-30
 tags: [Windows,设备,驱动,PL,2303]
 comments: true

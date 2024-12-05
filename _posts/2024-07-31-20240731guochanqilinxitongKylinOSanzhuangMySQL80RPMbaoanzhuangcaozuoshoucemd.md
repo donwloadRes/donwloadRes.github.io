@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产麒麟系统KylinOS 安装MySQL 8.0-RPM包安装操作手册"
+title: "国产麒麟系统KylinOS 安装MySQL 80RPM包安装操作手册"
 date:   2024-09-19
 tags: [MySQL,安装,8.0,RPM,KylinOS]
 comments: true

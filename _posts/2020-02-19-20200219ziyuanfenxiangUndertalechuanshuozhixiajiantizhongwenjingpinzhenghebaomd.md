@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【资源分享】Undertale（传说之下）简体中文精品整合包"
+title: "资源分享Undertale传说之下简体中文精品整合包"
 date:   2024-06-06
 tags: [游戏,简体中文,玩家,Undertale,Debug]
 comments: true

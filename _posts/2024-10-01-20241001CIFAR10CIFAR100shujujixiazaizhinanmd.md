@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIFAR-10 - CIFAR-100 数据集下载指南"
+title: "CIFAR10  CIFAR100 数据集下载指南"
 date:   2020-10-04
 tags: [CIFAR,100,下载,图像,类别]
 comments: true

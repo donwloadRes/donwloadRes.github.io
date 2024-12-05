@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-Java 8.0.30 下载"
+title: "MySQL ConnectorJava 8030 下载"
 date:   2021-05-16
 tags: [java,30,8.0,mysql,connector]
 comments: true

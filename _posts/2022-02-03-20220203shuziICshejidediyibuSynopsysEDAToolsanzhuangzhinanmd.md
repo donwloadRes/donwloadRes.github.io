@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字IC设计的第一步——Synopsys EDA Tools安装指南"
+title: "数字IC设计的第一步Synopsys EDA Tools安装指南"
 date:   2023-06-19
 tags: [安装,Synopsys,Ubuntu,工具,IC]
 comments: true

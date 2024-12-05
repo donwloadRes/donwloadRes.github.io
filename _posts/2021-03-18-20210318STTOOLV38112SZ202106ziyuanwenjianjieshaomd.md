@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STTOOL-V381-12-SZ-202106 资源文件介绍"
+title: "STTOOLV38112SZ202106 资源文件介绍"
 date:   2023-11-04
 tags: [Phison,STTOOL,量产,工具,主控]
 comments: true

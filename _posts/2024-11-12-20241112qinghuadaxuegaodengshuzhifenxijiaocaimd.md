@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学高等数值分析》教材"
+title: "清华大学高等数值分析教材"
 date:   2021-01-07
 tags: [数值,教材,高等,分析,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenCV+OCR库识别图像中汉字Demo"
+title: "QTOpenCVOCR库识别图像中汉字Demo"
 date:   2024-04-03
 tags: [OCR,识别,汉字,开发者,项目]
 comments: true

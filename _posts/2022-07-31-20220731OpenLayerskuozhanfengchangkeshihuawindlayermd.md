@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenLayers扩展：风场可视化（wind-layer）"
+title: "OpenLayers扩展风场可视化windlayer"
 date:   2024-02-26
 tags: [风场,OpenLayers,图层,可视化,扩展]
 comments: true

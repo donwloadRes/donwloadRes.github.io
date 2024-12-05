@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QNX SDP 7.0 QNX Neutrino系统架构资源下载"
+title: "QNX SDP 70 QNX Neutrino系统架构资源下载"
 date:   2020-08-08
 tags: [QNX,Neutrino,架构,实时操作系统,系统]
 comments: true

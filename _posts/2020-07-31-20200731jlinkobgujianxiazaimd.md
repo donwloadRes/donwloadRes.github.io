@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jlink_ob固件下载"
+title: "jlinkob固件下载"
 date:   2024-10-29
 tags: [固件,jlink,ob,设备,更新]
 comments: true

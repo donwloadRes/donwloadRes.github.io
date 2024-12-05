@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享95个jQuery特效，总有一款适合您"
+title: "分享95个jQuery特效总有一款适合您"
 date:   2024-10-27
 tags: [特效,jQuery,滚动,95,单页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "猫狗识别-Python程序"
+title: "猫狗识别Python程序"
 date:   2020-11-12
 tags: [Python,训练,学习,数据,模型]
 comments: true

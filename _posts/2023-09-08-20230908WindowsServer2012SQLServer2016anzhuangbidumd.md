@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012 + SQL Server 2016安装必读"
+title: "Windows Server 2012  SQL Server 2016安装必读"
 date:   2022-05-02
 tags: [Server,安装,SQL,2016,Windows]
 comments: true

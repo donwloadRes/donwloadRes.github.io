@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELL U盘 PS2251-68固件-25+MLC黑片 U盘修复工具"
+title: "DELL U盘 PS225168固件25MLC黑片 U盘修复工具"
 date:   2021-08-16
 tags: [U盘,固件,修复,DELL,PS2251]
 comments: true

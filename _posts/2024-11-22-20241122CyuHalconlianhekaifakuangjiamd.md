@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与Halcon联合开发框架"
+title: "C与Halcon联合开发框架"
 date:   2020-06-10
 tags: [Halcon,C#,视觉,示例,机器]
 comments: true

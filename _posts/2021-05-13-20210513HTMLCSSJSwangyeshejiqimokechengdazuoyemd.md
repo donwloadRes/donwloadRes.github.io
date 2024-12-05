@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JS网页设计期末课程大作业"
+title: "HTMLCSSJS网页设计期末课程大作业"
 date:   2021-01-23
 tags: [HTML,CSS,页面,网页,JavaScript]
 comments: true

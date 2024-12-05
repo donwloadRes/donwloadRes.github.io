@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字滤波器的MATLAB与FPGA实现——AlteraVerilog版光盘代码"
+title: "数字滤波器的MATLAB与FPGA实现AlteraVerilog版光盘代码"
 date:   2024-11-11
 tags: [FPGA,MATLAB,代码,文档,滤波器]
 comments: true

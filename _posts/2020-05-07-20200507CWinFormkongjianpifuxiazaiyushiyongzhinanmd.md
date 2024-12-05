@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 控件皮肤下载与使用指南"
+title: "C WinForm 控件皮肤下载与使用指南"
 date:   2021-07-23
 tags: [皮肤,ssk,文件,IrisSkin4,dll]
 comments: true

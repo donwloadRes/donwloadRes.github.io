@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PbootCMS发布接口 - 免登陆开源"
+title: "PbootCMS发布接口  免登陆开源"
 date:   2020-10-31
 tags: [接口,PbootCMS,发布,开源,验证]
 comments: true

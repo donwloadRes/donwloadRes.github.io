@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.1 + Redis：实现读写Key功能"
+title: "Delphi 101  Redis实现读写Key功能"
 date:   2023-11-01
 tags: [Redis,Delphi,10.1,Key,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ps2021软件安装指南（Mac和Windows版）"
+title: "Ps2021软件安装指南Mac和Windows版"
 date:   2022-08-02
 tags: [安装,Ps2021,安装包,Mac,M1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金昌格式转换工具V2.8"
+title: "金昌格式转换工具V28"
 date:   2021-06-04
 tags: [转换,金昌,文件格式,文件,格式]
 comments: true

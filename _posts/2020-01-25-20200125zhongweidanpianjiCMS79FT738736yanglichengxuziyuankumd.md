@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中微单片机CMS79FT738, 736 样例程序资源库"
+title: "中微单片机CMS79FT738 736 样例程序资源库"
 date:   2023-12-04
 tags: [单片机,中微,样例,CMS79FT738,开发者]
 comments: true

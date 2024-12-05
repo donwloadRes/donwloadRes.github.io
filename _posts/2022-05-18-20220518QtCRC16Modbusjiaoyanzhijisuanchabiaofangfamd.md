@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "Qt CRC16(Modbus)校验值计算，查表方法"
+title: "Qt CRC16Modbus校验值计算查表方法
+date   20210819
+tags 校验CRC16Qt查表Modbus
+comments true
+author admin
+
+ Qt CRC16Modbus校验值计算查表方法
+
+ 介绍
+
+本仓库提供了一个用于计算Qt环境下CRC16Modbus校验值的资源文件该资源文件采用查表方法实现能够高效地计算出CRC16校验值适用于需要进行Modbus通信的应用场景
+
+ 功能特点
+
+ 查表方法采用查表法计算CRC16校验值提高了计算效率
+ Qt环境适用于Qt开发环境方便集成到Qt项目中
+ Modbus协议专门针对Modbus协议的CRC16校验值计算
+
+ 使用方法
+
+1 下载资源文件将本仓库中的资源文件下载到您的Qt项目目录中
+2 集成到项目将资源文件中的代码集成到您的Qt项目中并根据需要进行调用
+3 计算CRC16校验值使用提供的函数计算数据包的CRC16校验值
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用本资源文件中的函数计算CRC16校验值
+
+cpp
+include crc16modbush"
 date:   2021-08-19
 tags: [校验,CRC16,Qt,查表,Modbus]
 comments: true

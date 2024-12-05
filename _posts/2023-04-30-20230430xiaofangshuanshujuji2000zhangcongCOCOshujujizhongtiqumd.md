@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "消防栓数据集（2000张）从COCO数据集中提取"
+title: "消防栓数据集2000张从COCO数据集中提取"
 date:   2021-05-08
 tags: [COCO,数据,标注,消防栓,2000]
 comments: true

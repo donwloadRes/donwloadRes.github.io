@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veeam Backup & Replication v10 日常运维手册 v1.0 下载"
+title: "Veeam Backup  Replication v10 日常运维手册 v10 下载"
 date:   2023-10-24
 tags: [Veeam,运维,手册,Backup,Replication]
 comments: true

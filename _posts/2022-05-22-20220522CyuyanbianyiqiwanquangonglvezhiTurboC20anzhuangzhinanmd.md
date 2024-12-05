@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言编译器完全攻略之Turbo C 2.0安装指南"
+title: "C语言编译器完全攻略之Turbo C 20安装指南"
 date:   2020-11-01
 tags: [C语言,Turbo,2.0,编程,安装]
 comments: true

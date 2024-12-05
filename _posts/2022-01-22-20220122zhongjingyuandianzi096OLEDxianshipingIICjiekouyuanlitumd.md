@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中景园电子0.96OLED显示屏IIC接口原理图"
+title: "中景园电子096OLED显示屏IIC接口原理图"
 date:   2024-11-17
 tags: [IIC,原理图,显示屏,OLED,景园]
 comments: true

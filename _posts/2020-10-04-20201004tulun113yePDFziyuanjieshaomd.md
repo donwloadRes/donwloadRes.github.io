@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图论 (113页) PDF资源介绍"
+title: "图论 113页 PDF资源介绍"
 date:   2023-01-02
 tags: [图论,113,PDF,pdf,学习]
 comments: true

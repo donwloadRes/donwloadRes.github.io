@@ -1,6 +1,52 @@
 ---
 layout: post
-title: "Visio 2021 安装指南及常见问题解答"
+title: "Visio 2021 安装指南及常见问题解答
+date   20200719
+tags Office安装MicrosoftVisioProgram
+comments true
+author admin
+
+ Visio 2021 安装指南及常见问题解答
+
+本仓库提供了一个详细的指南帮助用户安装 Visio 2021 并解决在安装过程中可能遇到的问题特别是本文档还介绍了如何更改 Office 的默认安装位置
+
+ 内容概述
+
+1 Visio 2021 安装步骤
+    下载 Visio 2021 安装包
+    双击安装包并按照提示完成安装
+    安装中文语言包可选
+
+2 更改 Office 安装位置
+    删除 C 盘中的 Microsoft Office 文件夹
+    在 D 盘或 E 盘创建新的安装路径
+    使用符号链接将默认安装路径指向新位置
+
+3 常见问题及解决方案
+    安装路径修改不正确导致的软件启动错误
+    插入图表时出现的错误
+    软件版本兼容性问题
+
+ 安装步骤详解
+
+ 1 下载 Visio 2021 安装包
+
+首先从官方网站或可信的第三方平台下载 Visio 2021 的安装包确保下载的版本与您的操作系统兼容32 位或 64 位
+
+ 2 安装 Visio 2021
+
+双击下载的安装包启动安装程序按照屏幕上的提示完成安装过程安装过程中您可以选择安装位置但默认情况下Office 不允许自定义安装路径
+
+ 3 更改 Office 安装位置
+
+如果您希望将 Office 安装到非默认位置如 D 盘或 E 盘可以按照以下步骤操作
+
+ 删除 C 盘中的 Microsoft Office 和 Microsoft Office 15 文件夹前提是已经卸载了 Windows 自带的 Office 365
+ 在 D 盘或 E 盘创建新的文件夹路径例如 DProgram FilesMicrosoft Office 和 DProgram FilesMicrosoft Office 15
+ 以管理员身份打开命令提示符输入以下命令创建符号链接
+  
+  MKLINK J CProgram FilesMicrosoft Office DProgram FilesMicrosoft Office
+  MKLINK J CProgram FilesMicrosoft Office 15 DProgram FilesMicrosoft Office 15"
 date:   2020-07-19
 tags: [Office,安装,Microsoft,Visio,Program]
 comments: true

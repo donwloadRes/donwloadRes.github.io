@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOV8 轻量化改进：使用EfficientNetV2替换Backbone"
+title: "YOLOV8 轻量化改进使用EfficientNetV2替换Backbone"
 date:   2020-06-24
 tags: [YOLOV8,EfficientNetV2,Backbone,替换,轻量化]
 comments: true

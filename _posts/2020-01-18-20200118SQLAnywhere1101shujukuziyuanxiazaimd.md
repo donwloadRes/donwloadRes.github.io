@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Anywhere 11.0.1 数据库资源下载"
+title: "SQL Anywhere 1101 数据库资源下载"
 date:   2021-02-01
 tags: [SQL,Anywhere,11.0,安装,数据库]
 comments: true

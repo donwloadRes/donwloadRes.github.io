@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java编写飞机大战（超级详细的完整版）--附源码及图片"
+title: "Java编写飞机大战超级详细的完整版附源码及图片"
 date:   2021-12-15
 tags: [绘制,游戏,源码,敌机,Java]
 comments: true

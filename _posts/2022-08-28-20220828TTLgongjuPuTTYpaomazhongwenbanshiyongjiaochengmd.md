@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【TTL工具】PuTTY跑码中文版使用教程"
+title: "TTL工具PuTTY跑码中文版使用教程"
 date:   2022-11-11
 tags: [PuTTY,远程,教程,跑码,中文版]
 comments: true

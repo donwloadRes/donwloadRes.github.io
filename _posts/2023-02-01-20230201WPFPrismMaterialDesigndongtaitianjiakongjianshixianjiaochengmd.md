@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF + Prism + MaterialDesign 动态添加控件实现教程"
+title: "WPF  Prism  MaterialDesign 动态添加控件实现教程"
 date:   2024-03-10
 tags: [控件,示例,WPF,Prism,MaterialDesign]
 comments: true

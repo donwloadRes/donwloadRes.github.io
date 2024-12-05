@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bilibiliDown：极简纯净B站视频解析提取工具"
+title: "bilibiliDown极简纯净B站视频解析提取工具"
 date:   2020-01-11
 tags: [视频,bilibiliDown,下载,解析,弹幕]
 comments: true

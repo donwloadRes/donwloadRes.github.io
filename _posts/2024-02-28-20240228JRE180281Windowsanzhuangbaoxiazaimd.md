@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JRE 1.8.0_281 Windows安装包下载"
+title: "JRE 180281 Windows安装包下载"
 date:   2020-09-25
 tags: [安装包,JRE,32,64,安装]
 comments: true

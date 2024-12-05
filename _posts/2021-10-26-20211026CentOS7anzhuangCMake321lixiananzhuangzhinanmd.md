@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7安装CMake 3.21（离线安装指南）"
+title: "CentOS 7安装CMake 321离线安装指南"
 date:   2020-06-14
 tags: [安装,tar,CMake,3.21,离线]
 comments: true

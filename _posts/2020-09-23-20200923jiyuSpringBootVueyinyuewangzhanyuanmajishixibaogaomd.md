@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue音乐网站源码及实习报告"
+title: "基于SpringBootVue音乐网站源码及实习报告"
 date:   2021-03-31
 tags: [音乐网站,源码,实习,SpringBoot,Vue]
 comments: true

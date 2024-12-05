@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器Chrome 87.0.4280.66经典便携版(支持Flash)"
+title: "谷歌浏览器Chrome 870428066经典便携版支持Flash"
 date:   2021-08-22
 tags: [Flash,浏览器,解压,便携,插件]
 comments: true

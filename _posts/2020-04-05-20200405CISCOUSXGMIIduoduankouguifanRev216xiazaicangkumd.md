@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISCO USXGMII 多端口规范 Rev2.16 下载仓库"
+title: "CISCO USXGMII 多端口规范 Rev216 下载仓库"
 date:   2022-10-25
 tags: [CISCO,USXGMII,Rev2.16,文件,端口]
 comments: true

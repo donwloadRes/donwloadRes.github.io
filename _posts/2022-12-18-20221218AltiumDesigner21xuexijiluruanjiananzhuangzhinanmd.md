@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 21 学习记录：软件安装指南"
+title: "Altium Designer 21 学习记录软件安装指南"
 date:   2023-02-06
 tags: [Altium,安装,Designer,21,License]
 comments: true

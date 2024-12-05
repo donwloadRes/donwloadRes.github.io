@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超好用的16进制编辑器HxDSetup.zip"
+title: "超好用的16进制编辑器HxDSetupzip"
 date:   2024-10-23
 tags: [HxDSetup,16,zip,进制,编辑器]
 comments: true

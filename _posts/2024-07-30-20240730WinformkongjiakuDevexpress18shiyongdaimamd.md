@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform控价库-Devexpress-18使用代码"
+title: "Winform控价库Devexpress18使用代码"
 date:   2024-09-04
 tags: [Winform,Devexpress,18,控价库,代码]
 comments: true

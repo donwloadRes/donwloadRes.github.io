@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱变频器FR-D700中文使用手册下载"
+title: "三菱变频器FRD700中文使用手册下载"
 date:   2023-12-17
 tags: [FR,D700,变频器,使用手册,三菱]
 comments: true

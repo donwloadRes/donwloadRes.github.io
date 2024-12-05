@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H.264解码器Verilog源代码"
+title: "H264解码器Verilog源代码"
 date:   2022-07-08
 tags: [源代码,H.264,模块,解码器,Verilog]
 comments: true

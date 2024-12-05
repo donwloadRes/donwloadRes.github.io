@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相机标定资源：棋盘格图片合集"
+title: "相机标定资源棋盘格图片合集"
 date:   2022-09-28
 tags: [标定,相机,棋盘,图片,20]
 comments: true

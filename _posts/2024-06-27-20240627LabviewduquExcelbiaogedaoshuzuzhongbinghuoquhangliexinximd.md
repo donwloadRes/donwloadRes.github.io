@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview读取Excel表格到数组中，并获取行列信息"
+title: "Labview读取Excel表格到数组中并获取行列信息"
 date:   2021-09-16
 tags: [Excel,SubVI,读取,表格,Labview]
 comments: true

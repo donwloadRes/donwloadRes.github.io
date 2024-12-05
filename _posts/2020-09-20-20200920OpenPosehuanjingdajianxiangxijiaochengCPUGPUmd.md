@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenPose环境搭建详细教程（CPU-GPU）"
+title: "OpenPose环境搭建详细教程CPUGPU"
 date:   2022-03-31
 tags: [OpenPose,教程,编译,GPU,常见问题]
 comments: true

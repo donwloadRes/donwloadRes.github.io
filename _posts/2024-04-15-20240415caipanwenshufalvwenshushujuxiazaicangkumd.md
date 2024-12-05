@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "裁判文书-法律文书数据下载仓库"
+title: "裁判文书法律文书数据下载仓库"
 date:   2023-04-04
 tags: [下载,裁判,法律文书,数据,文书]
 comments: true

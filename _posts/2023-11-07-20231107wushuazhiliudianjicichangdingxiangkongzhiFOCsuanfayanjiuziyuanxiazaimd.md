@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无刷直流电机磁场定向控制(FOC)算法研究资源下载"
+title: "无刷直流电机磁场定向控制FOC算法研究资源下载"
 date:   2022-12-31
 tags: [FOC,算法,无刷,直流电机,磁场]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt-MySQL的学生管理系统"
+title: "基于QtMySQL的学生管理系统"
 date:   2022-01-20
 tags: [Qt,MySQL,数据库,学习,架构]
 comments: true

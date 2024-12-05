@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动对焦算法AF(auto AF)资源简介"
+title: "自动对焦算法AFauto AF资源简介"
 date:   2023-04-12
 tags: [对焦,算法,AF,自动,资源]
 comments: true

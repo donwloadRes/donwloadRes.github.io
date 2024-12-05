@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛耐孚SafeNet微狗UMI、UMC、PMI加密狗读狗工具"
+title: "赛耐孚SafeNet微狗UMIUMCPMI加密狗读狗工具"
 date:   2022-12-21
 tags: [加密狗,读取,复制,微狗,UMI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring+Vue微服务简介外文文献及翻译"
+title: "SpringVue微服务简介外文文献及翻译"
 date:   2020-01-18
 tags: [Spring,Vue,文献,外文,服务]
 comments: true

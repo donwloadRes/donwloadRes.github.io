@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何下载和安装pywin32(亲测有效)"
+title: "如何下载和安装pywin32亲测有效"
 date:   2022-12-04
 tags: [pywin32,Python,版本,下载,安装]
 comments: true

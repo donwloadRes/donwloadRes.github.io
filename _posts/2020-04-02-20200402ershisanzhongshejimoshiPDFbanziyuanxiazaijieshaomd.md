@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二十三种设计模式【PDF版】资源下载介绍"
+title: "二十三种设计模式PDF版资源下载介绍"
 date:   2023-05-15
 tags: [模式,对象,设计模式,PDF,一个]
 comments: true

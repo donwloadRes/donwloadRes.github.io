@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新彩虹代刷V6.9.0免授权完整版资源"
+title: "2023最新彩虹代刷V690免授权完整版资源"
 date:   2020-01-17
 tags: [代刷,登录,V6.9,微信,修复]
 comments: true

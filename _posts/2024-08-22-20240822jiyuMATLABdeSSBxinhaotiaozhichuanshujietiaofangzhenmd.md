@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的SSB信号调制、传输、解调仿真"
+title: "基于MATLAB的SSB信号调制传输解调仿真"
 date:   2020-08-05
 tags: [SSB,调制,MATLAB,解调,代码]
 comments: true

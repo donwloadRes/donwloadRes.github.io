@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT5+OpenCV的图像与视频处理软件"
+title: "基于QT5OpenCV的图像与视频处理软件"
 date:   2024-08-01
 tags: [图像,视频,OpenCV,灰度,处理软件]
 comments: true

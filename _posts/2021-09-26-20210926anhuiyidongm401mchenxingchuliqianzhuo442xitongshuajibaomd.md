@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安徽移动m401m晨星处理器安卓4.42系统刷机包"
+title: "安徽移动m401m晨星处理器安卓442系统刷机包"
 date:   2021-01-20
 tags: [机包,安卓,刷机,m401m,4.42]
 comments: true

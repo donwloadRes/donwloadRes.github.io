@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDA LEVEL I 模拟考试一 （2021年题库）"
+title: "CDA LEVEL I 模拟考试一 2021年题库"
 date:   2021-12-01
 tags: [CDA,LEVEL,模拟考试,2021,知识点]
 comments: true

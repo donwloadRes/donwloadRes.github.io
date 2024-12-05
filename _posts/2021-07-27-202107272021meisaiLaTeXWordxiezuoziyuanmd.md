@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021美赛LaTeX+Word写作资源"
+title: "2021美赛LaTeXWord写作资源"
 date:   2023-05-07
 tags: [模板,LaTeX,Word,资源,写作]
 comments: true

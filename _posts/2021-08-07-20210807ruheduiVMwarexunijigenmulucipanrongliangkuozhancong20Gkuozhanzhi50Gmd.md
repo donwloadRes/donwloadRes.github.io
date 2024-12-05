@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何对VMware虚拟机-根目录磁盘容量扩展：从20G扩展至50G"
+title: "如何对VMware虚拟机根目录磁盘容量扩展从20G扩展至50G"
 date:   2022-01-16
 tags: [磁盘,虚拟机,gparted,VMware,扩展]
 comments: true

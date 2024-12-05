@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "keil MDK5.28 资源下载及使用指南"
+title: "keil MDK528 资源下载及使用指南"
 date:   2022-01-19
 tags: [下载,MDK5.28,安装,Keil,使用]
 comments: true

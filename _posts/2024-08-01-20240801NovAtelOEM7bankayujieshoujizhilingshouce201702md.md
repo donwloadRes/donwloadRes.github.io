@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NovAtel OEM7 板卡与接收机指令手册 (201702)"
+title: "NovAtel OEM7 板卡与接收机指令手册 201702"
 date:   2023-03-03
 tags: [接收机,板卡,OEM7,NovAtel,手册]
 comments: true

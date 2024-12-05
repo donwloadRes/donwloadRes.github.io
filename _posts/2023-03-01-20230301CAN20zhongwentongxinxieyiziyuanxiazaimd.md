@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN2.0中文通信协议资源下载"
+title: "CAN20中文通信协议资源下载"
 date:   2023-01-21
 tags: [通信协议,CAN2.0,中文,文档,pdf]
 comments: true

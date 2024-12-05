@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子定位控制 - 实现画圆、画五角星、画方"
+title: "西门子定位控制  实现画圆画五角星画方"
 date:   2024-11-04
 tags: [西门子,PLC,编程,控制,定位]
 comments: true

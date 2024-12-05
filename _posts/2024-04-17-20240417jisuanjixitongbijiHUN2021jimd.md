@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机系统笔记 - HUN2021级"
+title: "计算机系统笔记  HUN2021级"
 date:   2024-10-09
 tags: [笔记,计算机系统,HUN2021,复习,文件]
 comments: true

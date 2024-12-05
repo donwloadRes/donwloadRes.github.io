@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 弹窗等待效果演示"
+title: "C WinForm 弹窗等待效果演示"
 date:   2021-03-20
 tags: [弹窗,等待,C#,Winform,线程]
 comments: true

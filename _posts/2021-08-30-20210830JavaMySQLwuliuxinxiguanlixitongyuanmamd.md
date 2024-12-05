@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL物流信息管理系统源码"
+title: "JavaMySQL物流信息管理系统源码"
 date:   2021-03-17
 tags: [运单,数据库,物流,客户,管理]
 comments: true

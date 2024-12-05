@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子工程师必备--元器件应用宝典"
+title: "电子工程师必备元器件应用宝典"
 date:   2022-10-08
 tags: [元器件,电子,宝典,--,---]
 comments: true

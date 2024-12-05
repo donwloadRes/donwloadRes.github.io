@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVB-S2X 协议官方规范"
+title: "DVBS2X 协议官方规范"
 date:   2020-06-19
 tags: [DVB,S2X,协议,卫星通信,调制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB App Designer 串口助手界面 - 自编源代码"
+title: "MATLAB App Designer 串口助手界面  自编源代码"
 date:   2023-03-22
 tags: [串口,接收,助手,MATLAB,App]
 comments: true

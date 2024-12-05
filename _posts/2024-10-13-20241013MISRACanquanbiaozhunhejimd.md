@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISRA-C 安全标准合集"
+title: "MISRAC 安全标准合集"
 date:   2024-04-11
 tags: [MISRA,版本,2004,标准,CPP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL+Java+IDEA 图书馆信息管理系统"
+title: "MySQLJavaIDEA 图书馆信息管理系统"
 date:   2020-05-20
 tags: [图书,Java,数据库,IDEA,信息管理系统]
 comments: true

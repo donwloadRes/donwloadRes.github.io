@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言-OpenCV图像识别资源下载"
+title: "易语言OpenCV图像识别资源下载"
 date:   2023-01-25
 tags: [图像识别,易语言,OpenCV,源码,封装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019年电赛综合测评方案详细计算过程（PDF版本）"
+title: "2019年电赛综合测评方案详细计算过程PDF版本"
 date:   2023-07-24
 tags: [电子设计,测评,2019,PDF,文档]
 comments: true

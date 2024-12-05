@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++学习笔记：在VS2015中添加"graphics.h"头文件"
+title: "C学习笔记在VS2015中添加graphicsh头文件"
 date:   2021-11-02
 tags: [头文件,VS2015,graphics,文件夹,include]
 comments: true

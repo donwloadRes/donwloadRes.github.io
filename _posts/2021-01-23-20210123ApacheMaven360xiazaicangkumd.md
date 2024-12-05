@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven 3.6.0 下载仓库"
+title: "Apache Maven 360 下载仓库"
 date:   2023-06-17
 tags: [Maven,3.6,下载,仓库,解压]
 comments: true

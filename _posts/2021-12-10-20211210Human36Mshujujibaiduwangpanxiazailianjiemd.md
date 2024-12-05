@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Human3.6M数据集百度网盘下载链接"
+title: "Human36M数据集百度网盘下载链接"
 date:   2022-04-09
 tags: [链接,pkl,Human3.6,原始数据,数据]
 comments: true

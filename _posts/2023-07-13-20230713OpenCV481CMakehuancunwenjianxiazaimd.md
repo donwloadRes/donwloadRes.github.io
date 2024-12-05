@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.1 CMake 缓存文件下载"
+title: "OpenCV 481 CMake 缓存文件下载"
 date:   2022-03-18
 tags: [缓存,OpenCV,文件,4.8,cache]
 comments: true

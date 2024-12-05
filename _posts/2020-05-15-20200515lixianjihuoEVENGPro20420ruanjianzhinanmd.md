@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线激活EVE-NG Pro 2.0.4-20软件指南"
+title: "离线激活EVENG Pro 20420软件指南"
 date:   2023-05-06
 tags: [EVE,NG,20,Pro,2.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开发实例：Spring Boot、MyBatis和Layui打造增删改查项目"
+title: "开发实例Spring BootMyBatis和Layui打造增删改查项目"
 date:   2022-12-12
 tags: [Layui,Spring,Boot,MyBatis,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大智慧(通达信)插件(DLL)编程源码及讲解"
+title: "大智慧通达信插件DLL编程源码及讲解"
 date:   2024-08-16
 tags: [插件,编程,示例,通达信,开发者]
 comments: true

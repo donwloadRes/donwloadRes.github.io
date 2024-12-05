@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flannel-v0.25.1 AMD64 镜像文件资源"
+title: "flannelv0251 AMD64 镜像文件资源"
 date:   2024-09-16
 tags: [Flannel,flannel,v0.25,amd64,Kubernetes]
 comments: true

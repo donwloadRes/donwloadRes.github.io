@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.7p1 RPM 包下载"
+title: "OpenSSH 97p1 RPM 包下载"
 date:   2022-08-01
 tags: [OpenSSH,9.7,p1,RPM,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF.js 最简单使用指南"
+title: "PDFjs 最简单使用指南"
 date:   2024-10-18
 tags: [PDF,js,文件,1.9,426]
 comments: true

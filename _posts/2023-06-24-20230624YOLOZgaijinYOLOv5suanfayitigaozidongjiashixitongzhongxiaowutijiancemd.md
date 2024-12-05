@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO-Z：改进 YOLOv5 算法以提高自动驾驶系统中小物体检测"
+title: "YOLOZ改进 YOLOv5 算法以提高自动驾驶系统中小物体检测"
 date:   2021-06-24
 tags: [检测,YOLO,物体,YOLOv5,改进]
 comments: true

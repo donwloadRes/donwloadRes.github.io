@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon参考手册英文直译中文版（无删减）：第六章 标定"
+title: "Halcon参考手册英文直译中文版无删减第六章 标定"
 date:   2021-04-04
 tags: [标定,Halcon,参考手册,直译,删减]
 comments: true

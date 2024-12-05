@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统--Java连接MySQL"
+title: "学生信息管理系统Java连接MySQL"
 date:   2021-04-23
 tags: [Java,数据库,MySQL,连接,PPT]
 comments: true

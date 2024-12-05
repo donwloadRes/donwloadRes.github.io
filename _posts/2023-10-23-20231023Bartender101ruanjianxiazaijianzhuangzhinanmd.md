@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bartender10.1软件下载及安装指南"
+title: "Bartender101软件下载及安装指南"
 date:   2021-03-30
 tags: [安装,Bartender10.1,下载,Patch,专业版]
 comments: true

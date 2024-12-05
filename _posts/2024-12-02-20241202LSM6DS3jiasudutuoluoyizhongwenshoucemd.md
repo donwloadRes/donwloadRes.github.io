@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSM6DS3 加速度+陀螺仪中文手册"
+title: "LSM6DS3 加速度陀螺仪中文手册"
 date:   2024-01-13
 tags: [手册,LSM6DS3,中文,PDF,陀螺仪]
 comments: true

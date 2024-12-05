@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 接入讯飞语音识别包(Android)"
+title: "Unity 接入讯飞语音识别包Android"
 date:   2023-12-08
 tags: [Unity,Android,语音,识别,项目]
 comments: true

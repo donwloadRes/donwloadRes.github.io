@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL ES 3.0 编程指南资源下载"
+title: "OpenGL ES 30 编程指南资源下载"
 date:   2021-12-19
 tags: [OpenGL,ES,3.0,编程,资源]
 comments: true

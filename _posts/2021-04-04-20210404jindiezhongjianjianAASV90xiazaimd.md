@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶中间件AAS-V9.0下载"
+title: "金蝶中间件AASV90下载"
 date:   2021-04-24
 tags: [中间件,AAS,V9.0,金蝶,业务]
 comments: true

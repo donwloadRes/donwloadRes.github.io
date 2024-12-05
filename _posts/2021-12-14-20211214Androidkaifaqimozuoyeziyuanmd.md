@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Android 开发期末作业资源"
+title: "Android 开发期末作业资源
+date   20221111
+tags Android期末Java应用程序开发
+comments true
+author admin
+
+
+layout post
+title Android 开发期末作业资源"
 date:   2022-11-11
 tags: [Android,期末,Java,应用程序,开发]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Android 开发期末作业资源"
+title: "Android 开发期末作业资源
+date   20221111
+tags Android期末Java应用程序开发
+comments true
+author admin
+
+
+layout post
+title Android 开发期末作业资源"
 date:   2021-08-16
 tags: [Android,Java,期末,应用程序,开发]
 comments: true

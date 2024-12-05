@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TabTransformer PyTorch 实现：表格数据的注意力网络"
+title: "TabTransformer PyTorch 实现表格数据的注意力网络"
 date:   2021-11-29
 tags: [TabTransformer,模型,表格,PyTorch,tab]
 comments: true

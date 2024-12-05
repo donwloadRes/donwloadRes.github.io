@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sublime Text: 跨平台的高效代码编辑利器"
+title: "Sublime Text 跨平台的高效代码编辑利器"
 date:   2020-09-21
 tags: [Sublime,Text,代码,编程,高效]
 comments: true

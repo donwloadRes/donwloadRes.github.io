@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "巴伦的原理、设计、制作"
+title: "巴伦的原理设计制作"
 date:   2024-06-12
 tags: [巴伦,制作,设计,信号,电路]
 comments: true

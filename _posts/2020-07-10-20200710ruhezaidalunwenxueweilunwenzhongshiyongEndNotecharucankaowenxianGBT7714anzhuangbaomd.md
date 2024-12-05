@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在大论文（学位论文）中使用EndNote插入参考文献【GB-T 7714安装包】"
+title: "如何在大论文学位论文中使用EndNote插入参考文献GBT 7714安装包"
 date:   2024-08-17
 tags: [EndNote,参考文献,GB,7714,插入]
 comments: true

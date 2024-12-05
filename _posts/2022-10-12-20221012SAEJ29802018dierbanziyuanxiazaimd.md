@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2980-2018第二版资源下载"
+title: "SAE J29802018第二版资源下载"
 date:   2020-09-13
 tags: [文件,SAE,2018,J2980,汽车]
 comments: true

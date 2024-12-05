@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch框架实现DCGAN（比较容易理解）"
+title: "Pytorch框架实现DCGAN比较容易理解"
 date:   2022-04-13
 tags: [生成器,DCGAN,生成,Pytorch,卷积]
 comments: true

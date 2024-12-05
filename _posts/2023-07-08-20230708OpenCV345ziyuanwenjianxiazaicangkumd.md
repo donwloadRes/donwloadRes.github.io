@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 3.4.5 资源文件下载仓库"
+title: "OpenCV 345 资源文件下载仓库"
 date:   2020-04-22
 tags: [OpenCV,文件,3.4,下载,描述]
 comments: true

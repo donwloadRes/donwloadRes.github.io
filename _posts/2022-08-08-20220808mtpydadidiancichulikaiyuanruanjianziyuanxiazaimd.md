@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mtpy（大地电磁处理开源软件）资源下载"
+title: "mtpy大地电磁处理开源软件资源下载"
 date:   2023-09-16
 tags: [mtpy,软件,电磁,开源,大地]
 comments: true

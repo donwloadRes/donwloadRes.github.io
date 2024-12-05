@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+Mysql+Html5学生选课系统"
+title: "PHPMysqlHtml5学生选课系统"
 date:   2020-06-24
 tags: [课程,选课,学生,管理员,管理]
 comments: true

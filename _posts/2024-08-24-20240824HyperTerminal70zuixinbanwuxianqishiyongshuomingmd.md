@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HyperTerminal 7.0 最新版 无限期使用说明"
+title: "HyperTerminal 70 最新版 无限期使用说明"
 date:   2023-05-10
 tags: [串口,HyperTerminal,使用,7.0,版本]
 comments: true

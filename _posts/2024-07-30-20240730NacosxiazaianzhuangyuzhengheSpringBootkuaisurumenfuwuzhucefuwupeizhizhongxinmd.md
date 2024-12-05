@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos下载安装与整合SpringBoot快速入门（服务注册，服务配置中心）"
+title: "Nacos下载安装与整合SpringBoot快速入门服务注册服务配置中心"
 date:   2021-10-06
 tags: [Nacos,SpringBoot,服务,注册,整合]
 comments: true

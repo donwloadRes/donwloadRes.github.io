@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8.0 下载与安装图文教程"
+title: "Python 380 下载与安装图文教程"
 date:   2020-01-29
 tags: [Python,3.8,安装,安装包,下载]
 comments: true

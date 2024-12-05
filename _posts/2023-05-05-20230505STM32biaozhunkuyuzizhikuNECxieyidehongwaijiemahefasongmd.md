@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准库与自制库：NEC协议的红外解码和发送"
+title: "STM32标准库与自制库NEC协议的红外解码和发送"
 date:   2022-01-06
 tags: [STM32,红外,发送,红外信号,解码]
 comments: true

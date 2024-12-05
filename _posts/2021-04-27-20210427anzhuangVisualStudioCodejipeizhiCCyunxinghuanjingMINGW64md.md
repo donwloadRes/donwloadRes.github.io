@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Visual Studio Code及配置C-C++运行环境MINGW64"
+title: "安装Visual Studio Code及配置CC运行环境MINGW64"
 date:   2021-01-29
 tags: [Code,Visual,Studio,MINGW64,C++]
 comments: true

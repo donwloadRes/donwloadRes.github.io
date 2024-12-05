@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB151B-2013 电磁兼容标准文件下载"
+title: "GJB151B2013 电磁兼容标准文件下载"
 date:   2022-09-29
 tags: [电磁兼容,GJB151B,2013,文件,标准文件]
 comments: true

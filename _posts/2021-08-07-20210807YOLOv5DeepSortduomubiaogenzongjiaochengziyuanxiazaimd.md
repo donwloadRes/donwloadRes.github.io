@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5+DeepSort多目标跟踪教程资源下载"
+title: "YOLOv5DeepSort多目标跟踪教程资源下载"
 date:   2024-04-12
 tags: [YOLOv5,DeepSort,教程,跟踪,目标]
 comments: true

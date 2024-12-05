@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "防火墙期末设计大作业(ensp)"
+title: "防火墙期末设计大作业ensp"
 date:   2023-04-21
 tags: [VPN,IPsec,服务器,配置,防火墙]
 comments: true

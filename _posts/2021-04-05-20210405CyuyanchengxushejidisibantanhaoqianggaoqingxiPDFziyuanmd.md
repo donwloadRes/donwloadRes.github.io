@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计（第四版） - 谭浩强 高清晰PDF资源"
+title: "C语言程序设计第四版  谭浩强 高清晰PDF资源"
 date:   2023-06-22
 tags: [C语言,谭浩强,第四版,程序设计,PDF]
 comments: true

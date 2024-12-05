@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS 侧边伸缩导航栏"
+title: "HTMLCSS 侧边伸缩导航栏"
 date:   2023-10-11
 tags: [CSS,HTML,导航,侧边,伸缩]
 comments: true

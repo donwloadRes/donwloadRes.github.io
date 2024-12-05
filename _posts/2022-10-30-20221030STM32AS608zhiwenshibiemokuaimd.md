@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（STM32）AS608指纹识别模块"
+title: "STM32AS608指纹识别模块"
 date:   2023-10-22
 tags: [指纹识别,AS608,STM32,模块,示例]
 comments: true

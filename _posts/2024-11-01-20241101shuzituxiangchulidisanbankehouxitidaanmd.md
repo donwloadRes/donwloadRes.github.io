@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理(第三版)》课后习题答案"
+title: "数字图像处理第三版课后习题答案"
 date:   2024-09-11
 tags: [习题,数字图像处理,课后,答案,第三版]
 comments: true

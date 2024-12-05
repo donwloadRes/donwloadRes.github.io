@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel批量快速合并工具(完全免费)"
+title: "Excel批量快速合并工具完全免费"
 date:   2023-04-17
 tags: [合并,Excel,工具,批量,表头]
 comments: true

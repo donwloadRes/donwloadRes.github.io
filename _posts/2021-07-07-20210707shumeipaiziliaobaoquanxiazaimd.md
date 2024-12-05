@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派资料包（全）下载"
+title: "树莓派资料包全下载"
 date:   2021-01-03
 tags: [树莓,资料,rar,下载,新手]
 comments: true

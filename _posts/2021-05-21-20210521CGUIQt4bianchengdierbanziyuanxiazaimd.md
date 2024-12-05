@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ GUI Qt4 编程 第二版 资源下载"
+title: "C GUI Qt4 编程 第二版 资源下载"
 date:   2020-11-16
 tags: [Qt4,编程,资源,下载,教程]
 comments: true

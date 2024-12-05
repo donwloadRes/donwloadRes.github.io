@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青风带你学蓝牙下册 旺旺版（更新中）-unlocked1"
+title: "青风带你学蓝牙下册 旺旺版更新中unlocked1"
 date:   2021-04-28
 tags: [蓝牙,青风,下册,旺旺,unlocked1]
 comments: true

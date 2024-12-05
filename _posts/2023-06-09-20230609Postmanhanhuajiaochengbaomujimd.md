@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postman汉化教程（保姆级）"
+title: "Postman汉化教程保姆级"
 date:   2023-03-19
 tags: [汉化,Postman,教程,用户,界面]
 comments: true

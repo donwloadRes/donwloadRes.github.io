@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT ROI（感兴趣区域）选择与处理指南"
+title: "QT ROI感兴趣区域选择与处理指南"
 date:   2020-01-07
 tags: [QT,ROI,图像处理,示例,资源]
 comments: true

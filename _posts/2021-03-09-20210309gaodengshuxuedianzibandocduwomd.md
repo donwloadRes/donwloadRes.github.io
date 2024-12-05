@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数学（电子版）.doc 读我"
+title: "高等数学电子版doc 读我"
 date:   2020-03-23
 tags: [函数,高等数学,电子版,doc,数学]
 comments: true

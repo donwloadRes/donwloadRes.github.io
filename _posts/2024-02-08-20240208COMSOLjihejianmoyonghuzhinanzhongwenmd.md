@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL几何建模用户指南（中文）"
+title: "COMSOL几何建模用户指南中文"
 date:   2023-06-04
 tags: [建模,COMSOL,几何,用户,指南]
 comments: true

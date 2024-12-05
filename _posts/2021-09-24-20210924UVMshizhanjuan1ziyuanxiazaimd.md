@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM实战（卷Ⅰ）1 资源下载"
+title: "UVM实战卷1 资源下载"
 date:   2023-10-27
 tags: [UVM,1.1,资源,验证,IC]
 comments: true

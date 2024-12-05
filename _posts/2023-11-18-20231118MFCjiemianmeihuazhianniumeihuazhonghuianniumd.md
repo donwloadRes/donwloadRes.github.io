@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC界面美化之-按钮美化(重绘按钮)"
+title: "MFC界面美化之按钮美化重绘按钮"
 date:   2023-07-01
 tags: [按钮,mybutton,美化,项目,MFC]
 comments: true

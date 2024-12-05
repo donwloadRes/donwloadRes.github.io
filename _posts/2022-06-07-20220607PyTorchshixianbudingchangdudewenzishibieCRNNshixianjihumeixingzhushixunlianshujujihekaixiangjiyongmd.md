@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch实现不定长度的文字识别（CRNN实现+几乎每行注释+训练数据集合）开箱即用"
+title: "PyTorch实现不定长度的文字识别CRNN实现几乎每行注释训练数据集合开箱即用"
 date:   2021-01-22
 tags: [训练,模型,py,数据,PyTorch]
 comments: true

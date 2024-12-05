@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功CAN通用上位机例程（Labview）"
+title: "周立功CAN通用上位机例程Labview"
 date:   2021-07-15
 tags: [例程,LabVIEW,PCI,USBCAN,立功]
 comments: true

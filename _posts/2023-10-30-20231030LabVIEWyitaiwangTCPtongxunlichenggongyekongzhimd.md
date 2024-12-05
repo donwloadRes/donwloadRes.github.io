@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW以太网TCP通讯例程（工业控制）"
+title: "LabVIEW以太网TCP通讯例程工业控制"
 date:   2021-09-25
 tags: [例程,以太网,LabVIEW,通讯,WiFi]
 comments: true

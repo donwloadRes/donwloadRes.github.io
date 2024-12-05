@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seatunnel 2.3.3 安装与 Seatunnel Web 部署指南"
+title: "Seatunnel 233 安装与 Seatunnel Web 部署指南"
 date:   2023-08-24
 tags: [Seatunnel,Web,安装,指南,2.3]
 comments: true

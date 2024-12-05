@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ws2_32.lib.zip 资源文件下载"
+title: "ws232libzip 资源文件下载"
 date:   2020-09-30
 tags: [ws2,32,lib,文件,dll]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence高速电路设计-Sigrity 资源下载"
+title: "Cadence高速电路设计Sigrity 资源下载"
 date:   2022-11-12
 tags: [电路设计,Cadence,Sigrity,高速,下载]
 comments: true

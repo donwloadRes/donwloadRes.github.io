@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Protege创建本体进行推理-入门实例"
+title: "使用Protege创建本体进行推理入门实例"
 date:   2020-07-21
 tags: [Protege,本体,推理,实例,入门]
 comments: true

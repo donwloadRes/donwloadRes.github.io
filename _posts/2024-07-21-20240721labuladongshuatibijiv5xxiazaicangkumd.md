@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labuladong刷题笔记 v5.x 下载仓库"
+title: "labuladong刷题笔记 v5x 下载仓库"
 date:   2022-03-20
 tags: [labuladong,刷题,笔记,下载,v5]
 comments: true

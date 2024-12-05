@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NGSIM-I-80汽车轨迹数据集"
+title: "NGSIMI80汽车轨迹数据集"
 date:   2020-06-05
 tags: [05,15,数据,NGSIM,04]
 comments: true

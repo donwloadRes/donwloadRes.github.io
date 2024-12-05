@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP详解资源文件下载"
+title: "TCPIP详解资源文件下载"
 date:   2021-08-07
 tags: [TCP,IP,文件,资源,协议]
 comments: true

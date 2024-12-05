@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何解决从tensorflow.examples.tutorials.mnist导入input_data时遇到的错误"
+title: "如何解决从tensorflowexamplestutorialsmnist导入inputdata时遇到的错误"
 date:   2020-03-21
 tags: [TensorFlow,导入,tensorflow,mnist,examples]
 comments: true

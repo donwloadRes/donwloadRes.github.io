@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库移植DMP库：实现MPU6050姿态解算"
+title: "STM32 HAL库移植DMP库实现MPU6050姿态解算"
 date:   2024-03-25
 tags: [DMP,HAL,MPU6050,STM32,姿态]
 comments: true

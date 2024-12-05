@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计期末考试练习题（带详解答案）PDF"
+title: "C语言程序设计期末考试练习题带详解答案PDF"
 date:   2024-07-10
 tags: [C语言,程序设计,期末考试,PDF,详解]
 comments: true

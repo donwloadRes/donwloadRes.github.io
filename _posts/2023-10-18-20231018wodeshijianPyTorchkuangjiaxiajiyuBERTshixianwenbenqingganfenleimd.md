@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的实践：PyTorch框架下基于BERT实现文本情感分类"
+title: "我的实践PyTorch框架下基于BERT实现文本情感分类"
 date:   2023-09-30
 tags: [BERT,模型,情感,PyTorch,训练]
 comments: true

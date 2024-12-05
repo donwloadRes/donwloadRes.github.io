@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX8数据手册.pdf"
+title: "IMX8数据手册pdf"
 date:   2022-10-30
 tags: [IMX8,手册,系列,处理器,pdf]
 comments: true

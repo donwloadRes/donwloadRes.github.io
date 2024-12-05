@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲁棒与最优控制-周克敏"
+title: "鲁棒与最优控制周克敏"
 date:   2021-08-30
 tags: [鲁棒,周克敏,最优控制,鲁棒控制,文件]
 comments: true

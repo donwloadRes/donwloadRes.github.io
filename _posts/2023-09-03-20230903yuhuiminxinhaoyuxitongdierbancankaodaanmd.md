@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "于慧敏信号与系统》第二版 参考答案"
+title: "于慧敏信号与系统第二版 参考答案"
 date:   2024-10-19
 tags: [参考答案,于慧敏,答案,信号,PDF]
 comments: true

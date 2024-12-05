@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gorailgun-1.4.4beta1 下载仓库"
+title: "gorailgun144beta1 下载仓库"
 date:   2020-04-26
 tags: [gorailgun,1.4,4beta1,下载,密码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DATCOM使用指南：理解关键力系数"
+title: "DATCOM使用指南理解关键力系数"
 date:   2022-11-13
 tags: [系数,DATCOM,飞行器,飞机,升力]
 comments: true

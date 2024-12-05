@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EN1175-2020中文版资源下载"
+title: "EN11752020中文版资源下载"
 date:   2022-11-14
 tags: [EN1175,2020,标准,中文版,文档]
 comments: true

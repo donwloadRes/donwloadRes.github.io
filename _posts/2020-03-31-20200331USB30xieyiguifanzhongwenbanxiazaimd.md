@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0协议规范中文版下载"
+title: "USB30协议规范中文版下载"
 date:   2024-09-29
 tags: [USB3.0,协议,中文版,pdf,文件]
 comments: true

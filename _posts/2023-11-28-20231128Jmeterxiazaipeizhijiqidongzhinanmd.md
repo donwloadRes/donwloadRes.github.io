@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jmeter_下载、配置及启动指南"
+title: "Jmeter下载配置及启动指南"
 date:   2022-09-30
 tags: [JMeter,下载,启动,Java,JMETER]
 comments: true

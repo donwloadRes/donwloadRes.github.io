@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 新项目创建指南"
+title: "DevC 新项目创建指南"
 date:   2023-05-08
 tags: [Dev,C++,项目,创建,文件]
 comments: true

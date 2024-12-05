@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "断电检测(UPS) 原理图+PCB 资源下载"
+title: "断电检测UPS 原理图PCB 资源下载"
 date:   2024-04-07
 tags: [断电,电路,原理图,PCB,Buck]
 comments: true

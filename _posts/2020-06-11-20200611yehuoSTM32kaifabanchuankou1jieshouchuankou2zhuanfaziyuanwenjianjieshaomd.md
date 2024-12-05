@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野火STM32开发板串口1接收-串口2转发资源文件介绍"
+title: "野火STM32开发板串口1接收串口2转发资源文件介绍"
 date:   2020-05-22
 tags: [串口,开发板,STM32,转发,野火]
 comments: true

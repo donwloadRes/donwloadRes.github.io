@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RN6752V1_DSv1.6.pdf 高清视频模拟转MIPI 资源介绍"
+title: "RN6752V1DSv16pdf 高清视频模拟转MIPI 资源介绍"
 date:   2021-10-16
 tags: [RN6752V1,视频,高清,芯片,DSv1.6]
 comments: true

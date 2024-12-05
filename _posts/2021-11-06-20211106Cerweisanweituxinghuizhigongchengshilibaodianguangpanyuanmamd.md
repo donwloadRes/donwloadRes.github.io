@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#二维三维图形绘制工程实例宝典光盘（源码）"
+title: "C二维三维图形绘制工程实例宝典光盘源码"
 date:   2024-07-03
 tags: [绘制,实例,图形,C#,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC 串口监听工具 - 不占用串口"
+title: "VC 串口监听工具  不占用串口"
 date:   2023-11-16
 tags: [串口,监听,工具,占用,VC]
 comments: true

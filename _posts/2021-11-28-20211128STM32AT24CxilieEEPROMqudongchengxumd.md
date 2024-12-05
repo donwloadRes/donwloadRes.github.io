@@ -1,6 +1,64 @@
 ---
 layout: post
-title: "STM32 AT24C系列EEPROM驱动程序"
+title: "STM32 AT24C系列EEPROM驱动程序
+date   20221103
+tags AT24C驱动程序STM32EEPROMI2C
+comments true
+author admin
+
+ STM32 AT24C系列EEPROM驱动程序
+
+ 简介
+本仓库提供了一套基于STM32的AT24C系列EEPROM驱动程序包括AT24C32AT24C64和AT24C128的驱动该驱动程序采用模拟I2C通信方式具有良好的移植性和易用性用户只需修改两个IO口即可轻松适配不同的硬件平台
+
+ 功能特点
+ 模拟I2C驱动采用软件模拟I2C通信无需硬件I2C外设适用于所有STM32系列芯片
+ 易于移植驱动代码结构清晰用户只需修改两个IO口的配置即可在不同硬件平台上使用
+ 支持多种容量支持AT24C32AT24C64和AT24C128三种不同容量的EEPROM芯片
+ 高效可靠经过测试验证驱动程序稳定可靠适用于各种嵌入式应用场景
+
+ 使用方法
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourusernameSTM32AT24CDrivergit
+   
+
+2 配置IO口
+   打开at24cdriverh文件根据实际硬件连接修改以下两个宏定义
+   c
+   define AT24CSCLPIN  GPIOPIN6
+   define AT24CSDAPIN  GPIOPIN7
+   
+
+3 集成到项目
+   将驱动文件at24cdriverc和at24cdriverh添加到你的STM32项目中并在主程序中调用相关API进行读写操作
+
+4 编译运行
+   编译并下载程序到STM32开发板验证驱动程序的功能
+
+ API说明
+ 初始化函数
+  c
+  void AT24CInitvoid
+  
+  初始化AT24C系列EEPROM的I2C通信
+
+ 写入数据函数
+  c
+  uint8t AT24CWriteByteuint16t addr uint8t data
+  
+  向指定地址写入一个字节的数据
+
+ 读取数据函数
+  c
+  uint8t AT24CReadByteuint16t addr
+  
+  从指定地址读取一个字节的数据
+
+ 示例代码
+以下是一个简单的示例代码演示如何使用该驱动程序进行数据读写
+c
+include at24cdriverh"
 date:   2022-11-03
 tags: [AT24C,驱动程序,STM32,EEPROM,I2C]
 comments: true

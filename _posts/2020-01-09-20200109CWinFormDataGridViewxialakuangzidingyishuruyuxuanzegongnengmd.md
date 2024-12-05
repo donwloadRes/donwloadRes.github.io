@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm DataGridView 下拉框自定义输入与选择功能"
+title: "C WinForm DataGridView 下拉框自定义输入与选择功能"
 date:   2020-01-26
 tags: [下拉框,comboBoxColumn,DataGridView,输入,C#]
 comments: true

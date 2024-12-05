@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高观点下的初等数学（3合1）资源下载"
+title: "高观点下的初等数学3合1资源下载"
 date:   2020-07-21
 tags: [数学,初等数学,读者,克莱因,本书]
 comments: true

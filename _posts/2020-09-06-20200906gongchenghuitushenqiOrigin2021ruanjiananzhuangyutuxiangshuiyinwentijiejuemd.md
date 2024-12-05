@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程绘图神器：Origin 2021软件安装与图像水印问题解决"
+title: "工程绘图神器Origin 2021软件安装与图像水印问题解决"
 date:   2020-07-14
 tags: [Origin,安装,水印,2021,软件]
 comments: true

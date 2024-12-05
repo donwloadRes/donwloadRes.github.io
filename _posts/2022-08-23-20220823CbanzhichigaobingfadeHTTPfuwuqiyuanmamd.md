@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版支持高并发的HTTP服务器源码"
+title: "C版支持高并发的HTTP服务器源码"
 date:   2020-12-11
 tags: [HTTP,源码,服务器,C#,NET]
 comments: true

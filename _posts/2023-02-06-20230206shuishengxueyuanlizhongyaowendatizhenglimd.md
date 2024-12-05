@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水声学原理》重要问答题整理"
+title: "水声学原理重要问答题整理"
 date:   2021-02-23
 tags: [问答题,章节,水声学,复习,整理]
 comments: true

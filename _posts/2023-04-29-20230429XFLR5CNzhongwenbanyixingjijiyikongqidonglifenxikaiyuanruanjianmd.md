@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XFLR5_CN中文版：翼型及机翼空气动力分析开源软件"
+title: "XFLR5CN中文版翼型及机翼空气动力分析开源软件"
 date:   2020-08-17
 tags: [XFLR5,CN,翼型,中文版,空气]
 comments: true

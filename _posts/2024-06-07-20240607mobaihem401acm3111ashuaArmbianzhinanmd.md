@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔百盒m401a(cm311-1a)刷Armbian指南"
+title: "魔百盒m401acm3111a刷Armbian指南"
 date:   2024-11-20
 tags: [Armbian,魔百盒,1a,指南,m401a]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Std 802.3bp™-2016 车载以太网标准资源下载"
+title: "IEEE Std 8023bp2016 车载以太网标准资源下载"
 date:   2021-12-07
 tags: [以太网,车载,bp,2016,IEEE]
 comments: true

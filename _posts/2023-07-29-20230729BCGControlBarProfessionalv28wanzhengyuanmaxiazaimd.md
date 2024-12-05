@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCGControlBar Professional v.28 完整源码下载"
+title: "BCGControlBar Professional v28 完整源码下载"
 date:   2024-01-16
 tags: [源码,BCGControlBar,Professional,v.28,MFC]
 comments: true

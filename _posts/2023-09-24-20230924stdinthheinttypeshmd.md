@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdint.h和inttypes.h"
+title: "stdinth和inttypesh"
 date:   2022-03-08
 tags: [stdint,inttypes,文件,头文件,Visual]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络：自顶向下方法》第八版 PPT 第2章 应用层"
+title: "计算机网络自顶向下方法第八版 PPT 第2章 应用层"
 date:   2023-09-28
 tags: [PPT,自顶向下,第八版,应用层,计算机网络]
 comments: true

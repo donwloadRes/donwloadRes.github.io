@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战：淘宝商品数据下载仓库"
+title: "Python爬虫实战淘宝商品数据下载仓库"
 date:   2021-01-09
 tags: [爬虫,Python,淘宝,数据,抓取]
 comments: true

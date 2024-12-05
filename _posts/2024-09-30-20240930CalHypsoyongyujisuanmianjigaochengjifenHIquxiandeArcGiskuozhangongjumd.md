@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CalHypso——用于计算面积高程积分（HI）曲线的ArcGis扩展工具"
+title: "CalHypso用于计算面积高程积分HI曲线的ArcGis扩展工具"
 date:   2020-09-18
 tags: [高程,CalHypso,积分,曲线,计算]
 comments: true

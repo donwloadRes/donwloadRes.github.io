@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈工大集合论与图论（下）慕课MOOC答案"
+title: "哈工大集合论与图论下慕课MOOC答案"
 date:   2024-11-21
 tags: [哈工大,MOOC,答案,图论,集合论]
 comments: true

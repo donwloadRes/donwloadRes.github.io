@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python深度学习（第二版）资源下载"
+title: "Python深度学习第二版资源下载"
 date:   2024-01-09
 tags: [学习,深度,神经网络,Python,应用]
 comments: true

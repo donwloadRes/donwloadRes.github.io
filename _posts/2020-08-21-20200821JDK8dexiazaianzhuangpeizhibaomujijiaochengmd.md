@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 8的下载、安装、配置保姆级教程"
+title: "JDK 8的下载安装配置保姆级教程"
 date:   2021-06-10
 tags: [JDK,Java,安装,下载,JAVA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell 6 免注册版 - 一站式终端解决方案"
+title: "Xshell 6 免注册版  一站式终端解决方案"
 date:   2024-08-11
 tags: [软件,Xshell,---,支持,合法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用5V-12V-24V继电器3D封装库"
+title: "常用5V12V24V继电器3D封装库"
 date:   2024-05-10
 tags: [3D,继电器,原理图,模型,封装]
 comments: true

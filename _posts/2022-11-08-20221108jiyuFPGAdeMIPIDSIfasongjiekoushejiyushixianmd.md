@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的MIPI-DSI发送接口设计与实现"
+title: "基于FPGA的MIPIDSI发送接口设计与实现"
 date:   2022-04-18
 tags: [FPGA,MIPI,DSI,接口,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "babel.js 与 polyfill.js: 实现IE浏览器对ES6的支持"
+title: "babeljs 与 polyfilljs 实现IE浏览器对ES6的支持"
 date:   2024-05-29
 tags: [js,polyfill,babel,IE,ES6]
 comments: true

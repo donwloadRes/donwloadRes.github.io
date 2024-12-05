@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机自抗扰控制系统(PMSM ADRC) Matlab实现"
+title: "永磁同步电机自抗扰控制系统PMSM ADRC Matlab实现"
 date:   2021-09-13
 tags: [PMSM,同步电机,永磁,ADRC,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Spring Boot + Vue + WebSocket + WebRTC 实现视频通话"
+title: "Java Spring Boot  Vue  WebSocket  WebRTC 实现视频通话"
 date:   2023-01-08
 tags: [js,bash,Spring,Boot,Vue]
 comments: true

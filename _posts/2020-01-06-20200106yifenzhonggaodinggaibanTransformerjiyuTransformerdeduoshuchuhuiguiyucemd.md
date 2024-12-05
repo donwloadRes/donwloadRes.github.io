@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一分钟搞定丐版Transformer：基于Transformer的多输出回归预测"
+title: "一分钟搞定丐版Transformer基于Transformer的多输出回归预测"
 date:   2024-08-02
 tags: [Transformer,模型,简化版,预测,代码]
 comments: true

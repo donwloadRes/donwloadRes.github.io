@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像处理利器：免费获取Kodak24数据集"
+title: "图像处理利器免费获取Kodak24数据集"
 date:   2022-08-28
 tags: [Kodak24,---,图像处理,数据,下载]
 comments: true

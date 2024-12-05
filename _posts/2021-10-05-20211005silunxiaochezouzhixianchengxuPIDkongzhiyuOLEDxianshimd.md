@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四轮小车走直线程序 - PID控制与OLED显示"
+title: "四轮小车走直线程序  PID控制与OLED显示"
 date:   2022-02-15
 tags: [PID,小车,单片机,舵机,直线]
 comments: true

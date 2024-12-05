@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视 IVMS-8700综合管理平台操作手册下载"
+title: "海康威视 IVMS8700综合管理平台操作手册下载"
 date:   2024-02-19
 tags: [IVMS,8700,管理,操作手册,威视]
 comments: true

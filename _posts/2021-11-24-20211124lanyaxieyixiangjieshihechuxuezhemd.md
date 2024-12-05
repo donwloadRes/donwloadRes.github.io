@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙协议详解（适合初学者）"
+title: "蓝牙协议详解适合初学者"
 date:   2021-11-03
 tags: [蓝牙,初学者,技术,协议,学习]
 comments: true

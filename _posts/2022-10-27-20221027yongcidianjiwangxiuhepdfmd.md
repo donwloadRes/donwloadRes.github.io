@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁电机 - 王秀和.pdf"
+title: "永磁电机  王秀和pdf"
 date:   2022-01-07
 tags: [永磁,电机,王秀,pdf,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT、C++实现地图导航系统（mapSystem）"
+title: "QTC实现地图导航系统mapSystem"
 date:   2024-11-15
 tags: [QT,用户,地图,编译器,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运动想象Physics-Informed Attention Temporal Convolutional Network源码"
+title: "运动想象PhysicsInformed Attention Temporal Convolutional Network源码"
 date:   2022-06-11
 tags: [BCI,EEG,模型,ATCNet,卷积]
 comments: true

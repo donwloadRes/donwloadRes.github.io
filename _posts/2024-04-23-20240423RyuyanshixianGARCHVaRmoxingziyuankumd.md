@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R语言实现GARCH-VaR模型资源库"
+title: "R语言实现GARCHVaR模型资源库"
 date:   2022-07-06
 tags: [模型,GARCH,VaR,资源库,语言]
 comments: true

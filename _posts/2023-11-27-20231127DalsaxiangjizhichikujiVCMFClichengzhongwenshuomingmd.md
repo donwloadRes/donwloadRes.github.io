@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dalsa相机支持库及VC++ MFC例程中文说明"
+title: "Dalsa相机支持库及VC MFC例程中文说明"
 date:   2024-04-23
 tags: [相机,例程,Dalsa,二次开发,C++]
 comments: true

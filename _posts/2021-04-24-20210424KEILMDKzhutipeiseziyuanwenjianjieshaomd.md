@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL-MDK主题配色资源文件介绍"
+title: "KEILMDK主题配色资源文件介绍"
 date:   2023-02-26
 tags: [主题,配色,KEIL,MDK,配置文件]
 comments: true

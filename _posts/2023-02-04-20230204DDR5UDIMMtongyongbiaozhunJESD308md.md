@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR5 UDIMM通用标准 - JESD308"
+title: "DDR5 UDIMM通用标准  JESD308"
 date:   2024-01-18
 tags: [DDR5,内存,标准,技术,UDIMM]
 comments: true

@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "西南交通大学人机交互课程资源获取"
+title: "西南交通大学人机交互课程资源获取
+date   20200127
+tags 作业人机交互课程资源库设计
+comments true
+author admin
+
+
+layout post
+title 西南交通大学人机交互课程资源获取"
 date:   2020-01-27
 tags: [作业,人机交互,课程,资源库,设计]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "西南交通大学人机交互课程资源获取"
+title: "西南交通大学人机交互课程资源获取
+date   20200127
+tags 作业人机交互课程资源库设计
+comments true
+author admin
+
+
+layout post
+title 西南交通大学人机交互课程资源获取"
 date:   2021-11-06
 tags: [作业,人机交互,课程,设计,资源库]
 comments: true

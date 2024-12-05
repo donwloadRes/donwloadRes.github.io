@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高效能人士的7个习惯 - 史蒂芬·柯维.pdf"
+title: "高效能人士的7个习惯  史蒂芬柯维pdf"
 date:   2021-12-25
 tags: [柯维,高效能,史蒂芬,习惯,分享]
 comments: true

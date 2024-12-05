@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞芯微RK3588 C++部署Yolov8检测和分割模型"
+title: "瑞芯微RK3588 C部署Yolov8检测和分割模型"
 date:   2020-01-05
 tags: [模型,RK3588,C++,Yolov8,部署]
 comments: true

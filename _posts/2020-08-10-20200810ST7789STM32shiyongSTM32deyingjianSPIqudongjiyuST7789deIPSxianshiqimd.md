@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST7789-STM32：使用STM32的硬件SPI驱动基于ST7789的IPS显示器"
+title: "ST7789STM32使用STM32的硬件SPI驱动基于ST7789的IPS显示器"
 date:   2023-02-17
 tags: [ST7789,分辨率,STM32,显示器,SPI]
 comments: true

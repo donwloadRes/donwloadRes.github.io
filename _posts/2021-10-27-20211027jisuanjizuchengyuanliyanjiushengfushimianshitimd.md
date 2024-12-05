@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理+研究生复试+面试题"
+title: "计算机组成原理研究生复试面试题"
 date:   2022-01-31
 tags: [复试,面试,原理,计算机,研究生]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现视频播放：Windows Media Player源代码（最佳实践）"
+title: "C 实现视频播放Windows Media Player源代码最佳实践"
 date:   2020-01-09
 tags: [播放,源代码,Windows,Media,Player]
 comments: true

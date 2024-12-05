@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#完整版权限管理系统"
+title: "C完整版权限管理系统"
 date:   2021-12-25
 tags: [权限,Web,C#,管理系统,完整版]
 comments: true

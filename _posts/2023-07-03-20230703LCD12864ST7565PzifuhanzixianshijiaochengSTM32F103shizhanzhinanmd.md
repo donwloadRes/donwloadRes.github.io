@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCD12864（ST7565P）字符汉字显示教程 - STM32F103实战指南"
+title: "LCD12864ST7565P字符汉字显示教程  STM32F103实战指南"
 date:   2022-07-08
 tags: [LCD12864,汉字,字符,教程,单片机]
 comments: true

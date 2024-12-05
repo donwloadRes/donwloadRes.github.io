@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车用DC-Link电容器的选择与主要电参数估算指南"
+title: "车用DCLink电容器的选择与主要电参数估算指南"
 date:   2022-12-22
 tags: [电容器,DC,Link,车用,估算]
 comments: true

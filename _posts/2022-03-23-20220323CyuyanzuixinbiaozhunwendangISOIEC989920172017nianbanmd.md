@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言最新标准文档：ISO-IEC 9899:2017 (2017年版)"
+title: "C语言最新标准文档ISOIEC 98992017 2017年版"
 date:   2021-06-27
 tags: [C语言,2017,文档,标准,ISO]
 comments: true

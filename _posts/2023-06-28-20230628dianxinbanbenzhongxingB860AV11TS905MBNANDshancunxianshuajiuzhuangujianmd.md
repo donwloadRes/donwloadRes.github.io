@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电信版本-中兴B860AV1.1-T-S905M-B NAND闪存 线刷救砖固件"
+title: "电信版本中兴B860AV11TS905MB NAND闪存 线刷救砖固件"
 date:   2022-11-17
 tags: [刷机,固件,B860AV1.1,闪存,S905M]
 comments: true

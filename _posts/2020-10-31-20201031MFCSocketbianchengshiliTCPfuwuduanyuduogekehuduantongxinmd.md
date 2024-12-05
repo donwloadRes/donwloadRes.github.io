@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC Socket编程示例：TCP服务端与多个客户端通信"
+title: "MFC Socket编程示例TCP服务端与多个客户端通信"
 date:   2021-12-13
 tags: [示例,MFC,Socket,编程,TCP]
 comments: true

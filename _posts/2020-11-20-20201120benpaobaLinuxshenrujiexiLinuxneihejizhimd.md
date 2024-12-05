@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奔跑吧Linux：深入解析Linux内核机制"
+title: "奔跑吧Linux深入解析Linux内核机制"
 date:   2024-04-05
 tags: [Linux,内核,机制,资源,深入]
 comments: true

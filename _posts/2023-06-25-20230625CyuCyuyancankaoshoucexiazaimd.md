@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++与C语言参考手册下载"
+title: "C与C语言参考手册下载"
 date:   2022-02-27
 tags: [C++,C语言,文件,参考手册,CHM]
 comments: true

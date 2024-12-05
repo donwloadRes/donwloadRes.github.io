@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF上位机利用Modbus控制两个从机STM32单片机"
+title: "C WPF上位机利用Modbus控制两个从机STM32单片机"
 date:   2022-11-18
 tags: [单片机,从机,STM32,Modbus,上位]
 comments: true

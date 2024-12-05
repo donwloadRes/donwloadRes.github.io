@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-MAPSS大型涡轮风扇发动机数据集"
+title: "CMAPSS大型涡轮风扇发动机数据集"
 date:   2023-03-27
 tags: [数据,发动机,风扇,涡轮,运行]
 comments: true

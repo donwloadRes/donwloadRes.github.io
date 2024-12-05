@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "android-arm64-v8a 资源包"
+title: "androidarm64v8a 资源包"
 date:   2020-05-13
 tags: [v8a,android,arm64,开发者,Android]
 comments: true

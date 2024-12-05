@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019编译MQTT库 C-C++ 资源介绍"
+title: "VS2019编译MQTT库 CC 资源介绍"
 date:   2020-10-07
 tags: [MQTT,编译,VS2019,C++,工程]
 comments: true

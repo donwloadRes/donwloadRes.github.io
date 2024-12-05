@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学物理方程（谷超豪第二版）习题全解"
+title: "数学物理方程谷超豪第二版习题全解"
 date:   2021-05-10
 tags: [习题,方程,全解,物理,数学]
 comments: true

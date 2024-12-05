@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具 V3.3标准 绿色版"
+title: "DirectX修复工具 V33标准 绿色版"
 date:   2020-03-22
 tags: [修复,DirectX,绿色版,Windows,c++]
 comments: true

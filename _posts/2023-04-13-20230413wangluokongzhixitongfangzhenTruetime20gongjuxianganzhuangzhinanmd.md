@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络控制系统仿真：Truetime2.0工具箱安装指南"
+title: "网络控制系统仿真Truetime20工具箱安装指南"
 date:   2020-02-18
 tags: [工具箱,Truetime2.0,安装,Matlab,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCF8563 资料中文+英文"
+title: "PCF8563 资料中文英文"
 date:   2021-10-13
 tags: [PCF8563,芯片,中文,英文,手册]
 comments: true

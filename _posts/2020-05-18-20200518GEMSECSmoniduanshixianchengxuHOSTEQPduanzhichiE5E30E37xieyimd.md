@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GEM-SECS模拟端实现程序 (HOST & EQP端) - 支持E5-E30-E37协议"
+title: "GEMSECS模拟端实现程序 HOST  EQP端  支持E5E30E37协议"
 date:   2021-04-15
 tags: [SECS,程序,E5,E30,E37]
 comments: true

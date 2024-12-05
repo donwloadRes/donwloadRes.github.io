@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OpenCV的车牌识别（一整套）"
+title: "基于OpenCV的车牌识别一整套"
 date:   2023-05-28
 tags: [车牌,字符集,识别,程序,OpenCV]
 comments: true

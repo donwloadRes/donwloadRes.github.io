@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rational Rose免费下载及安装教程（Windows 10 版）"
+title: "Rational Rose免费下载及安装教程Windows 10 版"
 date:   2022-08-22
 tags: [Rational,Rose,安装,ISO,Windows]
 comments: true

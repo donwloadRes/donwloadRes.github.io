@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京移动E900V21E-S905L3B-UWE5621DS语音线刷包"
+title: "北京移动E900V21ES905L3BUWE5621DS语音线刷包"
 date:   2022-09-13
 tags: [刷机,E900V21E,S905L3B,UWE5621DS,线刷包]
 comments: true

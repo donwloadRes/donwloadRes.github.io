@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT通信协议研究及实现.pdf"
+title: "EtherCAT通信协议研究及实现pdf"
 date:   2020-06-03
 tags: [EtherCAT,通信协议,以太网,文档,技术]
 comments: true

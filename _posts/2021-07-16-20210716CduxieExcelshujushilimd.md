@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 读写 Excel 数据示例"
+title: "C 读写 Excel 数据示例"
 date:   2021-04-20
 tags: [示例,Excel,C#,文件,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VUE.js高仿饿了么商城实战项目源码（未打包文件）"
+title: "VUEjs高仿饿了么商城实战项目源码未打包文件"
 date:   2024-10-16
 tags: [项目,源码,实战,js,学习]
 comments: true

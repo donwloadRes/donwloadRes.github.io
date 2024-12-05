@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派刷机指南：从镜像下载到SD卡导入"
+title: "树莓派刷机指南从镜像下载到SD卡导入"
 date:   2023-09-06
 tags: [树莓,SD,镜像,下载,刷机]
 comments: true

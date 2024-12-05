@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 鼠标滚轮实现图片缩放与移动"
+title: "C 鼠标滚轮实现图片缩放与移动"
 date:   2020-06-05
 tags: [鼠标,缩放,图片,滚轮,文件]
 comments: true

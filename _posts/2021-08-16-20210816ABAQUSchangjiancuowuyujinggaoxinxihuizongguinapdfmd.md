@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS常见错误与警告信息汇总[归纳].pdf"
+title: "ABAQUS常见错误与警告信息汇总归纳pdf"
 date:   2020-12-19
 tags: [ABAQUS,错误,警告,文档,用户]
 comments: true

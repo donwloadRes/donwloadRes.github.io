@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D类功放原理(经典!!)"
+title: "D类功放原理经典"
 date:   2021-05-01
 tags: [功放,音频,文档,茅于,这份]
 comments: true

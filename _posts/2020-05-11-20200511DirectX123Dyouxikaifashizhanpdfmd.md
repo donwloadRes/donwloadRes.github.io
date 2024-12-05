@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX 12 3D游戏开发实战.pdf"
+title: "DirectX 12 3D游戏开发实战pdf"
 date:   2021-08-10
 tags: [DirectX,12,游戏,3D,开发]
 comments: true

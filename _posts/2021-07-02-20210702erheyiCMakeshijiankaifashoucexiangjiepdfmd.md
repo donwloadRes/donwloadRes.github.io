@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【二合一】CMake实践+开发手册详解.pdf"
+title: "二合一CMake实践开发手册详解pdf"
 date:   2024-11-27
 tags: [CMake,构建,详解,手册,实践]
 comments: true

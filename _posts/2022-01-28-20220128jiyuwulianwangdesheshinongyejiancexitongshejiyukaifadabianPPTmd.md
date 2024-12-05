@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于物联网的设施农业监测系统设计与开发（答辩PPT）"
+title: "基于物联网的设施农业监测系统设计与开发答辩PPT"
 date:   2023-08-09
 tags: [PPT,联网,监测,答辩,设施]
 comments: true

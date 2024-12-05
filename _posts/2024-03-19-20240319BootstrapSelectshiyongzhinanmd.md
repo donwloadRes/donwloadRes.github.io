@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap-Select 使用指南"
+title: "BootstrapSelect 使用指南"
 date:   2024-08-13
 tags: [bootstrap,select,Bootstrap,下拉框,插件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS各模块介绍：深入理解电池管理系统的核心构成与功能"
+title: "BMS各模块介绍深入理解电池管理系统的核心构成与功能"
 date:   2020-10-30
 tags: [BMS,模块,电池,管理系统,文档]
 comments: true

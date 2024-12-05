@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF LiveCharts动态曲线（折线图）简介"
+title: "WPF LiveCharts动态曲线折线图简介"
 date:   2022-12-25
 tags: [LiveCharts,WPF,示例,数据,折线图]
 comments: true

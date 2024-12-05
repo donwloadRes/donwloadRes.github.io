@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac下打开.mpp后缀文件的工具OmniPlan"
+title: "Mac下打开mpp后缀文件的工具OmniPlan"
 date:   2022-11-03
 tags: [OmniPlan,mpp,文件,Mac,导入]
 comments: true

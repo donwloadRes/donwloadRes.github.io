@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩客云刷海纳思（记录下踩坑过程）"
+title: "玩客云刷海纳思记录下踩坑过程"
 date:   2023-05-30
 tags: [U盘,玩客,烧录,刷机,USB]
 comments: true

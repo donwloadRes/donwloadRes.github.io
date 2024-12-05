@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据转换器Franco Maloberti中文版（带目录）"
+title: "数据转换器Franco Maloberti中文版带目录"
 date:   2022-08-31
 tags: [转换器,中文版,Franco,Maloberti,数据]
 comments: true

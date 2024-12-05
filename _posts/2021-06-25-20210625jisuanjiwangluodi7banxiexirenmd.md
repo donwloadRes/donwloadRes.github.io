@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络（第7版）- 谢希仁"
+title: "计算机网络第7版 谢希仁"
 date:   2020-07-12
 tags: [计算机网络,希仁,学习,网络,关键技术]
 comments: true

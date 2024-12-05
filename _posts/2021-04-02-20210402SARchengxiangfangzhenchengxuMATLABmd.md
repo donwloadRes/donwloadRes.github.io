@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR成像仿真程序（MATLAB）"
+title: "SAR成像仿真程序MATLAB"
 date:   2021-03-03
 tags: [仿真,SAR,MATLAB,成像,程序]
 comments: true

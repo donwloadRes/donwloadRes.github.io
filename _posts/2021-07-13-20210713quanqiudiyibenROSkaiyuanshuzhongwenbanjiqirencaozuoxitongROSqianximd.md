@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球第一本ROS开源书（中文版）--机器人操作系统（ROS）浅析"
+title: "全球第一本ROS开源书中文版机器人操作系统ROS浅析"
 date:   2021-05-29
 tags: [ROS,机器人,浅析,初学者,博士]
 comments: true

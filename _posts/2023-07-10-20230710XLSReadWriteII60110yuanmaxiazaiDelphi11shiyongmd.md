@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XLSReadWriteII 6.01.10 源码下载（Delphi 11 适用）"
+title: "XLSReadWriteII 60110 源码下载Delphi 11 适用"
 date:   2023-10-18
 tags: [XLSReadWriteII,Excel,文件,Delphi,组件]
 comments: true

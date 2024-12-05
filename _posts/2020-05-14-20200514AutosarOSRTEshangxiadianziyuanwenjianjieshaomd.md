@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autosar OS、RTE、上下电资源文件介绍"
+title: "Autosar OSRTE上下电资源文件介绍"
 date:   2021-03-03
 tags: [Autosar,上下,OS,介绍,流程]
 comments: true

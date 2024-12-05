@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习实践手册：解析卷积神经网络"
+title: "深度学习实践手册解析卷积神经网络"
 date:   2022-05-04
 tags: [卷积,神经网络,学习,手册,深度]
 comments: true

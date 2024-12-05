@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TVM 0.9.dev0 包含第三方库的代码"
+title: "TVM 09dev0 包含第三方库的代码"
 date:   2020-11-10
 tags: [TVM,dev0,0.9,第三方,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "64位和32位JDK 1.8下载和环境变量配置指南"
+title: "64位和32位JDK 18下载和环境变量配置指南"
 date:   2022-01-08
 tags: [JDK,64,32,环境变量,点击]
 comments: true

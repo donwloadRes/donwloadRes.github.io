@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring Boot的疫情网课管理系统源码+论文+答辩PPT"
+title: "基于Spring Boot的疫情网课管理系统源码论文答辩PPT"
 date:   2020-03-21
 tags: [信息管理,管理,课程表,Java,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学中的状态估计（高博翻译版）"
+title: "机器人学中的状态估计高博翻译版"
 date:   2022-01-04
 tags: [机器人学,文档,高博,估计,机器人]
 comments: true

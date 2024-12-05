@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stuiod3t-2019030.dmg下载及studio3t macOS Cracking教程"
+title: "stuiod3t2019030dmg下载及studio3t macOS Cracking教程"
 date:   2020-12-03
 tags: [dmg,stuiod3t,2019030,教程,下载]
 comments: true

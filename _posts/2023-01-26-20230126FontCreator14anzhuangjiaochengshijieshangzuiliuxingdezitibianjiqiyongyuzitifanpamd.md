@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FontCreator 14 安装教程 - 世界上最流行的字体编辑器（用于字体反爬）"
+title: "FontCreator 14 安装教程  世界上最流行的字体编辑器用于字体反爬"
 date:   2022-07-16
 tags: [字体,FontCreator,14,安装,注册码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32与0.96英寸OLED的俄罗斯方块游戏开发"
+title: "基于STM32与096英寸OLED的俄罗斯方块游戏开发"
 date:   2024-11-03
 tags: [STM32,OLED,摇杆,游戏,0.96]
 comments: true

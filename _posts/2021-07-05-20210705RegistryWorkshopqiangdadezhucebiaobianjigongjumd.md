@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Registry Workshop —— 强大的注册表编辑工具"
+title: "Registry Workshop  强大的注册表编辑工具"
 date:   2020-11-16
 tags: [注册表,Registry,Workshop,编辑,编辑器]
 comments: true

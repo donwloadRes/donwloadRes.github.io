@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR+CSA+根据回波信号生成SAR图像"
+title: "SARCSA根据回波信号生成SAR图像"
 date:   2021-09-25
 tags: [SAR,CSA,成像,回波,生成]
 comments: true

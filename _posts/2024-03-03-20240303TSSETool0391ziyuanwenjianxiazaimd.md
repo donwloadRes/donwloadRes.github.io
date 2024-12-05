@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TS.SE.Tool.0.3.9.1 资源文件下载"
+title: "TSSETool0391 资源文件下载"
 date:   2022-05-10
 tags: [文件,TS,SE,Tool.0,3.9]
 comments: true

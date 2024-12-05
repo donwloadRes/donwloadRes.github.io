@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AJ-Report 初学(入门教程)"
+title: "AJReport 初学入门教程"
 date:   2023-06-11
 tags: [AJ,Report,配置,MySQL,大屏]
 comments: true

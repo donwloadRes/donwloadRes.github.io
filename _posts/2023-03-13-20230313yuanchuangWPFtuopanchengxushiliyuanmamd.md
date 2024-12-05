@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【原创】WPF 托盘程序示例源码"
+title: "原创WPF 托盘程序示例源码"
 date:   2021-07-23
 tags: [示例,托盘,WPF,图标,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2019 离线版 (C++) 下载"
+title: "Visual Studio 2019 离线版 C 下载"
 date:   2022-02-14
 tags: [离线,Visual,Studio,2019,C++]
 comments: true

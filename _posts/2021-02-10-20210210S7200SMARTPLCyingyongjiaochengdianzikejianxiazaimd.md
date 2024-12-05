@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART PLC应用教程电子课件下载"
+title: "S7200 SMART PLC应用教程电子课件下载"
 date:   2021-12-20
 tags: [PLC,S7,编程,200,SMART]
 comments: true

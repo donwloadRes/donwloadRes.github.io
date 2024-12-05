@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 SpringBoot + Vue 的智能停车场项目"
+title: "基于 SpringBoot  Vue 的智能停车场项目"
 date:   2022-04-25
 tags: [项目,停车场,图片,管理,计费]
 comments: true

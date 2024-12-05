@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微雪2.9 E-paper资源下载"
+title: "微雪29 Epaper资源下载"
 date:   2020-02-06
 tags: [2.9,微雪,paper,开发板,资源]
 comments: true

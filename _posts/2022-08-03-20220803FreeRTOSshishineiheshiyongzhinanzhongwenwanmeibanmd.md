@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS实时内核使用指南-中文 完美版"
+title: "FreeRTOS实时内核使用指南中文 完美版"
 date:   2020-05-05
 tags: [FreeRTOS,使用指南,完美版,内核,文件]
 comments: true

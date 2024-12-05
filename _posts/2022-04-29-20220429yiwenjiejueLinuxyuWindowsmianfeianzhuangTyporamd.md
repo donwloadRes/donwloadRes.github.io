@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一文解决——Linux与Windows免费安装Typora"
+title: "一文解决Linux与Windows免费安装Typora"
 date:   2022-06-29
 tags: [Typora,Windows,linux,x64,安装]
 comments: true

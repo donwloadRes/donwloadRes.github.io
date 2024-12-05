@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JSP+MySQL学生信息管理系统"
+title: "JSPMySQL学生信息管理系统"
 date:   2021-04-25
 tags: [学生,数据库,MySQL,用户,管理员]
 comments: true

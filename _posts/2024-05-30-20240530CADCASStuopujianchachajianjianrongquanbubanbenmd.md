@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-CASS拓扑检查插件（兼容全部版本）"
+title: "CADCASS拓扑检查插件兼容全部版本"
 date:   2022-10-27
 tags: [插件,标记,检查,检测,拓扑]
 comments: true

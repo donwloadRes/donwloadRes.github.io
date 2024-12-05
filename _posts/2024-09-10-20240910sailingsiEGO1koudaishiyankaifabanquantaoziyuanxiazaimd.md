@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思 EGO1 口袋实验开发板-全套资源下载"
+title: "赛灵思 EGO1 口袋实验开发板全套资源下载"
 date:   2020-09-16
 tags: [开发板,EGO1,硬件,实验,下载]
 comments: true

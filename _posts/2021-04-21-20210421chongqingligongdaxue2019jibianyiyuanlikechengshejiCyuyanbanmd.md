@@ -1,6 +1,66 @@
 ---
 layout: post
-title: "重庆理工大学 2019级 编译原理课程设计（C语言版）"
+title: "重庆理工大学 2019级 编译原理课程设计C语言版
+date   20211028
+tags yourgitbash编译器github
+comments true
+author admin
+
+ 重庆理工大学 2019级 编译原理课程设计C语言版
+
+ 项目介绍
+
+本项目是重庆理工大学2019级编译原理课程设计的资源文件主要实现了一个类C语言的编译器该编译器旨在帮助学生理解和实践编译原理的相关知识包括词法分析语法分析语义分析和代码生成等关键步骤
+
+ 功能特点
+
+ 词法分析能够识别类C语言的基本词法单元如关键字标识符常量运算符等
+ 语法分析采用自顶向下的递归下降分析方法能够解析类C语言的语法结构
+ 语义分析进行基本的语义检查确保程序的语义正确性
+ 代码生成将解析后的程序转换为目标代码支持基本的代码生成功能
+
+ 使用说明
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourrepourlgit
+   
+
+2 编译项目
+   bash
+   cd yourrepodirectory
+   make
+   
+
+3 运行编译器
+   bash
+   compiler inputfilec
+   
+
+4 查看输出
+   编译器将生成目标代码文件 outputfileout可以通过相应的解释器或虚拟机运行该文件
+
+ 贡献指南
+
+欢迎各位同学贡献代码共同完善这个编译器项目如果你有任何改进建议或发现了bug请提交Issue或Pull Request
+
+1 Fork仓库
+   点击页面右上角的Fork按钮将仓库复制到你的GitHub账户下
+
+2 克隆仓库
+   bash
+   git clone httpsgithubcomyouraccountyourrepourlgit
+   
+
+3 创建新分支
+   bash
+   git checkout b yournewbranchname
+   
+
+4 提交更改
+   bash
+   git add 
+   git commit m Your detailed description of your changes"
 date:   2021-10-28
 tags: [your,git,bash,编译器,github]
 comments: true

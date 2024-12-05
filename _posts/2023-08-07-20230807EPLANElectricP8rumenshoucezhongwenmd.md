@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN Electric P8 入门手册（中文）"
+title: "EPLAN Electric P8 入门手册中文"
 date:   2022-12-11
 tags: [EPLAN,Electric,P8,手册,入门]
 comments: true

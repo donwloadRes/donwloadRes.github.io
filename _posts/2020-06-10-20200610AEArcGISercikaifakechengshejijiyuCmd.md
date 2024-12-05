@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AE+ArcGIS二次开发课程设计（基于C#）"
+title: "AEArcGIS二次开发课程设计基于C"
 date:   2023-04-03
 tags: [ArcGIS,二次开发,C#,Engine,数据]
 comments: true

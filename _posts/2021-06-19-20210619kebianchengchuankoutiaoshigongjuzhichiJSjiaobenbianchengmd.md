@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可编程串口调试工具 - 支持JS脚本编程"
+title: "可编程串口调试工具  支持JS脚本编程"
 date:   2021-01-14
 tags: [调试,串口,脚本,场景,可编程]
 comments: true

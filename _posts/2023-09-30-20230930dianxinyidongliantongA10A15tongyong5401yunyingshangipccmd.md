@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电信、移动、联通A10-A15通用54.0.1运营商ipcc"
+title: "电信移动联通A10A15通用5401运营商ipcc"
 date:   2022-04-18
 tags: [IPCC,文件,运营商,A10,A15]
 comments: true

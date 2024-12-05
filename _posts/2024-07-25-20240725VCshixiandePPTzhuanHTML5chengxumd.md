@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++实现的PPT转HTML5程序"
+title: "VC实现的PPT转HTML5程序"
 date:   2020-09-21
 tags: [PPT,HTML5,程序,文件,运行]
 comments: true

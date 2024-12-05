@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "好书推荐之代码整洁之道》阅读资源"
+title: "好书推荐之代码整洁之道阅读资源"
 date:   2020-06-12
 tags: [代码,整洁,编程,之道,资源]
 comments: true

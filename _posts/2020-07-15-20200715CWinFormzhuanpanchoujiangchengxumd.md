@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 转盘抽奖程序"
+title: "C WinForm 转盘抽奖程序"
 date:   2022-04-25
 tags: [抽奖,奖品,转盘,程序,C#]
 comments: true

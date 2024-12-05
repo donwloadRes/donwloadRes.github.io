@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R3.6.3 及 RStudio 下载与安装指南"
+title: "R363 及 RStudio 下载与安装指南"
 date:   2021-03-16
 tags: [安装,RStudio,3.6,下载,安装包]
 comments: true

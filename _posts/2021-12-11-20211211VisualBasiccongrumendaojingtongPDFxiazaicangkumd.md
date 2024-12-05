@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Basic从入门到精通(PDF) 下载仓库"
+title: "Visual Basic从入门到精通PDF 下载仓库"
 date:   2024-02-20
 tags: [Visual,Basic,PDF,入门,精通]
 comments: true

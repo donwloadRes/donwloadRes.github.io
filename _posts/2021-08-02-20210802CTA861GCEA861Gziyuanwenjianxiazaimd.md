@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTA-861-G (CEA-861-G) 资源文件下载"
+title: "CTA861G CEA861G 资源文件下载"
 date:   2021-09-28
 tags: [861,文件,CTA,数字电视,CEA]
 comments: true

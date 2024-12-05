@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U9 ERP软件实施宝典5-UBF与客开"
+title: "用友U9 ERP软件实施宝典5UBF与客开"
 date:   2021-05-04
 tags: [用友,U9,ERP,UBF,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle 9.2.0 版本资源下载"
+title: "Kettle 920 版本资源下载"
 date:   2022-09-02
 tags: [Kettle,9.2,版本,文件,资源]
 comments: true

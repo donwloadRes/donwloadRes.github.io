@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有关webscraper的问题，看这个就够了"
+title: "有关webscraper的问题看这个就够了"
 date:   2024-07-23
 tags: [webscraper,抓取,解决方案,文件,常见问题]
 comments: true

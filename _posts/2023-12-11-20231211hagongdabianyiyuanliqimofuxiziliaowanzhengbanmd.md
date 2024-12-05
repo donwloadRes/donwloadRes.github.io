@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈工大编译原理期末复习资料（完整版）"
+title: "哈工大编译原理期末复习资料完整版"
 date:   2024-03-09
 tags: [编译,复习,原理,复习资料,哈工大]
 comments: true

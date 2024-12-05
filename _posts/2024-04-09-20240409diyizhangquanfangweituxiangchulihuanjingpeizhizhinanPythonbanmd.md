@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第一章：全方位图像处理环境配置指南【Python版】"
+title: "第一章全方位图像处理环境配置指南Python版"
 date:   2021-03-31
 tags: [环境,图像处理,Python,安装,Anaconda]
 comments: true

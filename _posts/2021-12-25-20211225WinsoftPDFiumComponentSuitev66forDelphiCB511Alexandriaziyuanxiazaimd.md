@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winsoft PDFium Component Suite v6.6 for Delphi & CB 5-11 Alexandria 资源下载"
+title: "Winsoft PDFium Component Suite v66 for Delphi  CB 511 Alexandria 资源下载"
 date:   2020-03-02
 tags: [Delphi,Alexandria,11.2,v6.6,C++]
 comments: true

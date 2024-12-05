@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST7262_v0.3.pdf - ST7262 TFT LCD驱动IC说明书"
+title: "ST7262v03pdf  ST7262 TFT LCD驱动IC说明书"
 date:   2021-06-17
 tags: [ST7262,IC,驱动,TFT,LCD]
 comments: true

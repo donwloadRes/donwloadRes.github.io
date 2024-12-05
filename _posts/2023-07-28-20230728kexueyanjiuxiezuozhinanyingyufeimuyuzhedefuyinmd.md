@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "科学研究写作指南：英语非母语者的福音"
+title: "科学研究写作指南英语非母语者的福音"
 date:   2021-09-05
 tags: [写作,英语,科研,母语,指南]
 comments: true

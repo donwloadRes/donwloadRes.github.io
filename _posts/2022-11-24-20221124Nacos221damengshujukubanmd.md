@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.2.1 达梦数据库版"
+title: "Nacos 221 达梦数据库版"
 date:   2024-05-02
 tags: [数据库,达梦,Nacos,配置,持久]
 comments: true

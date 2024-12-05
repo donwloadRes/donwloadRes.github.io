@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LM2596的DC-DC可调降压模块设计"
+title: "基于LM2596的DCDC可调降压模块设计"
 date:   2020-03-26
 tags: [DC,电路,电压,LM2596,5V]
 comments: true

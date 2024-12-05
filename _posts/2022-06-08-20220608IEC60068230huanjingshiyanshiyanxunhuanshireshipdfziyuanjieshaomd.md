@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC60068-2-30环境试验 试验循环湿热试.pdf 资源介绍"
+title: "IEC60068230环境试验 试验循环湿热试pdf 资源介绍"
 date:   2022-10-14
 tags: [试验,IEC60068,30,湿热,文档]
 comments: true

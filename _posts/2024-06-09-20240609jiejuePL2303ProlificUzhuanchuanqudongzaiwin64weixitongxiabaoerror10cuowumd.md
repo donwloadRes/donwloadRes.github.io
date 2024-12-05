@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决PL2303_Prolific U转串驱动在win64位系统下报error 10错误"
+title: "解决PL2303Prolific U转串驱动在win64位系统下报error 10错误"
 date:   2022-12-20
 tags: [驱动程序,PL2303,驱动,设备,10]
 comments: true

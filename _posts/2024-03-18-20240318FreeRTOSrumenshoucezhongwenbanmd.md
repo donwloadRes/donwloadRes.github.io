@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS入门手册-中文版"
+title: "FreeRTOS入门手册中文版"
 date:   2021-07-06
 tags: [FreeRTOS,手册,入门,开发者,文档]
 comments: true

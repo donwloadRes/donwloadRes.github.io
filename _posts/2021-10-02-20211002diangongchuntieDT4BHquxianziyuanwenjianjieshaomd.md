@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电工纯铁DT4 B-H曲线资源文件介绍"
+title: "电工纯铁DT4 BH曲线资源文件介绍"
 date:   2020-03-08
 tags: [纯铁,电工,DT4,牌号,曲线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 图像识别库-EasyOCR 示例及模型资源下载"
+title: "Python 图像识别库EasyOCR 示例及模型资源下载"
 date:   2022-01-25
 tags: [EasyOCR,模型,示例,下载,识别]
 comments: true

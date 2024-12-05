@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模分章节课件（姜启源第五版）"
+title: "数学建模分章节课件姜启源第五版"
 date:   2021-12-20
 tags: [建模,课件,数学,章节,学习]
 comments: true

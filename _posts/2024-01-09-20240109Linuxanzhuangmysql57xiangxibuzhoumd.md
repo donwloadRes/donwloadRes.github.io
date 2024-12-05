@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装mysql5.7详细步骤"
+title: "Linux安装mysql57详细步骤"
 date:   2023-10-07
 tags: [mysql,MySQL,sudo,shell,Linux]
 comments: true

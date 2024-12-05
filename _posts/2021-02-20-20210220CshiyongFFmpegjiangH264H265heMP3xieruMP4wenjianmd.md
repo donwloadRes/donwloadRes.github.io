@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 使用 FFmpeg 将 H.264-H.265 和 MP3 写入 MP4 文件"
+title: "C 使用 FFmpeg 将 H264H265 和 MP3 写入 MP4 文件"
 date:   2022-08-22
 tags: [示例,FFmpeg,文件,C++,H.264]
 comments: true

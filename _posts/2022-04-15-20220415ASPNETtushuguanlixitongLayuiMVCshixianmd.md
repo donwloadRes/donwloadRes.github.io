@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET图书管理系统 - Layui MVC实现"
+title: "ASPNET图书管理系统  Layui MVC实现"
 date:   2021-12-23
 tags: [图书,数据库,SQL,Server,ASP]
 comments: true

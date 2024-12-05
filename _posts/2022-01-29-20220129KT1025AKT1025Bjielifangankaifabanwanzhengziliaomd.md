@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KT1025A, KT1025B 杰理方案开发板完整资料"
+title: "KT1025A KT1025B 杰理方案开发板完整资料"
 date:   2020-04-07
 tags: [播放,蓝牙,音频,录音,设备]
 comments: true

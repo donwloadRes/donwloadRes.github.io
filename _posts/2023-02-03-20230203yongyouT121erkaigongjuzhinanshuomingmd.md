@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友T+12.1二开工具指南说明"
+title: "用友T121二开工具指南说明"
 date:   2023-07-10
 tags: [用友,12.1,二开,工具,SDK]
 comments: true

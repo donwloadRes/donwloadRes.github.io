@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 常用工业控件资源文件介绍"
+title: "C Winform 常用工业控件资源文件介绍"
 date:   2024-11-16
 tags: [控件,文件,工业,资源,自定义]
 comments: true

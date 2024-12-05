@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "获取CAD中图元的坐标(C#)"
+title: "获取CAD中图元的坐标C"
 date:   2021-08-02
 tags: [CAD,坐标,文件,中图,图元]
 comments: true

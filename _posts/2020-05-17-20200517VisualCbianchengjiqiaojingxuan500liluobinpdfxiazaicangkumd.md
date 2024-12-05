@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 编程技巧精选500例 - [罗斌].pdf 下载仓库"
+title: "Visual C 编程技巧精选500例  罗斌pdf 下载仓库"
 date:   2024-09-05
 tags: [编程,Visual,C++,500,技巧]
 comments: true

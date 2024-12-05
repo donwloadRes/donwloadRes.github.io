@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真程序：传输矩阵法在一维光子晶体中的应用"
+title: "MATLAB仿真程序传输矩阵法在一维光子晶体中的应用"
 date:   2023-07-25
 tags: [仿真,MATLAB,光子,传输,矩阵]
 comments: true

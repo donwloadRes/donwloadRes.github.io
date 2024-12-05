@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType 7.6 最新永久激活码及注册机下载"
+title: "MathType 76 最新永久激活码及注册机下载"
 date:   2024-08-14
 tags: [MathType,7.6,激活码,注册机,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子战和雷达系统工程手册－第四版"
+title: "电子战和雷达系统工程手册第四版"
 date:   2020-09-16
 tags: [手册,电子战,系统工程,第四版,雷达]
 comments: true

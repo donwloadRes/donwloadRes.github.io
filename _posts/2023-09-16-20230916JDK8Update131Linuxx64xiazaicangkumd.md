@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 8 Update 131 (Linux x64) 下载仓库"
+title: "JDK 8 Update 131 Linux x64 下载仓库"
 date:   2022-02-13
 tags: [JDK,Java,8u131,下载,131]
 comments: true

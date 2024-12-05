@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机与PLC等支持MODBUS协议的设备通讯资源文件"
+title: "C 上位机与PLC等支持MODBUS协议的设备通讯资源文件"
 date:   2020-01-20
 tags: [NMODBUS4,通讯,PLC,MODBUS,API]
 comments: true

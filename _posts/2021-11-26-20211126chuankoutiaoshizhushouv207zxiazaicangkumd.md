@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手v20.7z 下载仓库"
+title: "串口调试助手v207z 下载仓库"
 date:   2020-10-06
 tags: [调试,串口,助手,发送,v20.7]
 comments: true

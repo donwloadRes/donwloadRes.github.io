@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI配音资源库：电影解说与动漫解说的声音宝库"
+title: "AI配音资源库电影解说与动漫解说的声音宝库"
 date:   2023-05-23
 tags: [解说,配音,AI,资源库,声音]
 comments: true

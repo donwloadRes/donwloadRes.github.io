@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 7.0 实战快速入门"
+title: "VMware vSphere 70 实战快速入门"
 date:   2022-06-15
 tags: [vSphere,7.0,VMware,实战,入门]
 comments: true

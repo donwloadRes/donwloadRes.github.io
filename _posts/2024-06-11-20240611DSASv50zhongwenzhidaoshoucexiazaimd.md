@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSAS v5.0中文指导手册下载"
+title: "DSAS v50中文指导手册下载"
 date:   2021-05-29
 tags: [DSAS,v5.0,手册,中文,pdf]
 comments: true

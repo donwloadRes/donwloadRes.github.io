@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第14届蓝桥杯Python省赛真题-大学B组资源下载"
+title: "第14届蓝桥杯Python省赛真题大学B组资源下载"
 date:   2021-06-11
 tags: [真题,蓝桥,Python,省赛,14]
 comments: true

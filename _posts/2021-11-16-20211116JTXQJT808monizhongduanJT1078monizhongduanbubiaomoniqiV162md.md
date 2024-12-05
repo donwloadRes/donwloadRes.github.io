@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTXQ JT808模拟终端、JT1078模拟终端、部标模拟器-V1.6.2"
+title: "JTXQ JT808模拟终端JT1078模拟终端部标模拟器V162"
 date:   2021-09-22
 tags: [模拟,音视频,终端,上传,拍照]
 comments: true

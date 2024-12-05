@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【MSP430F5529基于库函数的学习】电赛速学及小车实战"
+title: "MSP430F5529基于库函数的学习电赛速学及小车实战"
 date:   2022-10-05
 tags: [MSP430F5529,库函数,电赛,时钟,定时器]
 comments: true

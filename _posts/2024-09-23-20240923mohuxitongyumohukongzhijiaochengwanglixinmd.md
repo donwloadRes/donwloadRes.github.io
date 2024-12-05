@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模糊系统与模糊控制教程 - 王立新"
+title: "模糊系统与模糊控制教程  王立新"
 date:   2023-03-23
 tags: [模糊控制,教程,模糊,立新,系统]
 comments: true

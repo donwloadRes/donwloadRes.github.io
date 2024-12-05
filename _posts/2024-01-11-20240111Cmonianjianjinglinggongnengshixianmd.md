@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 模拟按键精灵功能实现"
+title: "C 模拟按键精灵功能实现"
 date:   2024-11-17
 tags: [C#,示例,按键精灵,文件,按键]
 comments: true

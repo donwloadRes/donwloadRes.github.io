@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sim-EKB-Install-2022-11-27.zip 资源说明"
+title: "SimEKBInstall20221127zip 资源说明"
 date:   2020-05-28
 tags: [27,2022,Sim,EKB,Install]
 comments: true

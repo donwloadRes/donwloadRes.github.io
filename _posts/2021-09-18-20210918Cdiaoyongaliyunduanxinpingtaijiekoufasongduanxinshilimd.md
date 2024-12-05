@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用阿里云短信平台接口发送短信示例"
+title: "C调用阿里云短信平台接口发送短信示例"
 date:   2023-07-16
 tags: [短信,C#,阿里,示例,API]
 comments: true

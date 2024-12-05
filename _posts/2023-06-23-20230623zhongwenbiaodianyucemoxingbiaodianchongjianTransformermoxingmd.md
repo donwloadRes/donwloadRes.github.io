@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文标点预测模型 - 标点重建（Transformer模型）"
+title: "中文标点预测模型  标点重建Transformer模型"
 date:   2020-10-04
 tags: [模型,标点,Transformer,训练,文本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navisworks 2020~2023 安装包分享及安装教程"
+title: "Navisworks 20202023 安装包分享及安装教程"
 date:   2023-04-05
 tags: [Navisworks,安装,安装包,仓库,2020]
 comments: true

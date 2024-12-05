@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delmia官方教程（PDF版）下载仓库"
+title: "Delmia官方教程PDF版下载仓库"
 date:   2021-01-29
 tags: [Delmia,模块,教程,PDF,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HPSocket C++ 控制台版 DEMO"
+title: "HPSocket C 控制台版 DEMO"
 date:   2022-07-15
 tags: [DEMO,HP,Socket,控制台,C++]
 comments: true

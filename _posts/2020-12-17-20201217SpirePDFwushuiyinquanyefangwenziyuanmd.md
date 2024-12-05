@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spire.PDF 无水印全页访问资源"
+title: "SpirePDF 无水印全页访问资源"
 date:   2023-05-21
 tags: [PDF,水印,Spire,资源,文档]
 comments: true

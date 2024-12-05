@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学习STM32：新建工程模板"
+title: "从零开始学习STM32新建工程模板"
 date:   2022-08-13
 tags: [STM32,工程,模板,教程,新建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "youlai-boot: Spring Boot 3 + Spring Security + Vue3 权限管理系统"
+title: "youlaiboot Spring Boot 3  Spring Security  Vue3 权限管理系统"
 date:   2023-09-11
 tags: [Spring,权限,youlai,boot,Boot]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图新地球资源高清图源合集（500+）"
+title: "图新地球资源高清图源合集500"
 date:   2022-10-05
 tags: [图源,高清,图新,合集,下载]
 comments: true

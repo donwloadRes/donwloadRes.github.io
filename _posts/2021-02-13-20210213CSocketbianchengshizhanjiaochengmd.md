@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Socket编程实战教程"
+title: "C Socket编程实战教程"
 date:   2023-07-21
 tags: [Socket,C++,编程,源码,服务端]
 comments: true

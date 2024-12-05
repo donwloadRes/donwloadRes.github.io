@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具 V3.3增强 绿色版"
+title: "DirectX修复工具 V33增强 绿色版"
 date:   2020-01-11
 tags: [修复,Windows,DirectX,程序,功能]
 comments: true

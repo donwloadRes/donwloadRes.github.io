@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon外触发get_framegrabber_callback注册回调函数方法"
+title: "Halcon外触发getframegrabbercallback注册回调函数方法"
 date:   2021-03-25
 tags: [Halcon,触发,抓取,函数,回调]
 comments: true

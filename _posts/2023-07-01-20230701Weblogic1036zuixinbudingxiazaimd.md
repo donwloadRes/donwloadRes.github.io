@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weblogic 10.3.6 最新补丁下载"
+title: "Weblogic 1036 最新补丁下载"
 date:   2020-10-19
 tags: [补丁,Weblogic,下载,文件,10.3]
 comments: true

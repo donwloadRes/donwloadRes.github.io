@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 64位安装包"
+title: "Python 38 64位安装包"
 date:   2023-06-25
 tags: [Python,3.8,安装包,64,安装]
 comments: true

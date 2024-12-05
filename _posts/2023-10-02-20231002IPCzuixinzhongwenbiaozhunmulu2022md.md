@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC 最新中文标准目录 (2022)"
+title: "IPC 最新中文标准目录 2022"
 date:   2022-01-02
 tags: [2022,中文,文件,IPC,标准]
 comments: true

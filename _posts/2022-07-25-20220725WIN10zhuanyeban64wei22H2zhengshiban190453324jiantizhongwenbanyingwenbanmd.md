@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10专业版64位22H2正式版19045.3324 简体中文版、英文版"
+title: "WIN10专业版64位22H2正式版190453324 简体中文版英文版"
 date:   2020-07-06
 tags: [修复,Windows,问题,专业版,64]
 comments: true

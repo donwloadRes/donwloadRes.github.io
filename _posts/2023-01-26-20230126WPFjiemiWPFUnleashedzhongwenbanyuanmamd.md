@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF揭秘(WPF_Unleashed)中文版+源码"
+title: "WPF揭秘WPFUnleashed中文版源码"
 date:   2021-10-23
 tags: [WPF,源码,Unleashed,Windows,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIXHAWK2.4.8飞控原理图下载"
+title: "PIXHAWK248飞控原理图下载"
 date:   2023-02-25
 tags: [原理图,PIXHAWK2.4,飞控,文件,pdf]
 comments: true

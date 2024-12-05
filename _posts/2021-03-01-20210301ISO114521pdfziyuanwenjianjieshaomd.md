@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO11452-1.pdf 资源文件介绍"
+title: "ISO114521pdf 资源文件介绍"
 date:   2022-09-17
 tags: [干扰测试,ISO11452,pdf,电子,文件]
 comments: true

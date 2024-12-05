@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MMTool 4.50.0.23 中文版下载"
+title: "MMTool 450023 中文版下载"
 date:   2022-08-09
 tags: [BIOS,MMTool,0.23,修改,4.50]
 comments: true

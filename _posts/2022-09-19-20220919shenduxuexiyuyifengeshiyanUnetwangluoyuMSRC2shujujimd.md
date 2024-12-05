@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习语义分割实验：Unet网络与MSRC2数据集"
+title: "深度学习语义分割实验Unet网络与MSRC2数据集"
 date:   2021-07-05
 tags: [训练,Unet,数据,MSRC2,评估]
 comments: true

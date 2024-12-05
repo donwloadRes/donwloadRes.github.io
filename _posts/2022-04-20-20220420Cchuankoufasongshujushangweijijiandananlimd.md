@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口发送数据上位机简单案例"
+title: "C串口发送数据上位机简单案例"
 date:   2021-03-17
 tags: [串口,C#,通讯,上位,案例]
 comments: true

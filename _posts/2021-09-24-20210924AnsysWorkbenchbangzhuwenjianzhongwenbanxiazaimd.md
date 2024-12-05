@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ansys Workbench 帮助文件（中文版）下载"
+title: "Ansys Workbench 帮助文件中文版下载"
 date:   2023-06-17
 tags: [Ansys,Workbench,帮助文件,中文版,用户]
 comments: true

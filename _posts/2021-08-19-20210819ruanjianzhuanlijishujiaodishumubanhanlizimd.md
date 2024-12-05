@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件专利技术交底书模板（含例子）"
+title: "软件专利技术交底书模板含例子"
 date:   2023-05-21
 tags: [交底,模板,代理人,专利申请,技术]
 comments: true

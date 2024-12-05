@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV Java 实现简易“全能扫描王”功能"
+title: "OpenCV Java 实现简易全能扫描王功能"
 date:   2024-02-11
 tags: [OpenCV,Java,扫描,dll,文档]
 comments: true

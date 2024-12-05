@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理-头哥实验答案-logisim：加法器，运算器，寄存器"
+title: "计算机组成原理头哥实验答案logisim加法器运算器寄存器"
 date:   2022-05-26
 tags: [运算器,Logisim,设计,计算机,学习]
 comments: true

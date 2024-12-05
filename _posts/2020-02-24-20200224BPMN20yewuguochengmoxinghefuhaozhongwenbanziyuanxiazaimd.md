@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPMN 2.0 业务过程模型和符号（中文版）资源下载"
+title: "BPMN 20 业务过程模型和符号中文版资源下载"
 date:   2021-09-18
 tags: [BPMN,2.0,符号,中文版,业务流程]
 comments: true

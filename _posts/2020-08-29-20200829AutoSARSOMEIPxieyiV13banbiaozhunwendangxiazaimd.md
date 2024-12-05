@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoSAR SOME-IP协议V1.3版标准文档下载"
+title: "AutoSAR SOMEIP协议V13版标准文档下载"
 date:   2024-05-30
 tags: [文档,SOME,IP,AutoSAR,V1.3]
 comments: true

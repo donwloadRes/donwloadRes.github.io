@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark使用教程用户手册(超清晰版)"
+title: "Wireshark使用教程用户手册超清晰版"
 date:   2020-05-31
 tags: [Wireshark,网络,捕获,用户手册,数据包]
 comments: true

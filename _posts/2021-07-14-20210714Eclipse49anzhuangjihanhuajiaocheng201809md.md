@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 4.9 安装及汉化教程 (2018-09)"
+title: "Eclipse 49 安装及汉化教程 201809"
 date:   2021-05-31
 tags: [Eclipse,4.9,语言包,安装包,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电气设计标准图集(CAD版) - 完整八章节共843张图纸"
+title: "电气设计标准图集CAD版  完整八章节共843张图纸"
 date:   2020-06-06
 tags: [电气设计,图集,图纸,设计,章节]
 comments: true

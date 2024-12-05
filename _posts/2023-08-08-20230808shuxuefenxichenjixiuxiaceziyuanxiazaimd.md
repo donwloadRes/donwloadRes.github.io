@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析_陈纪修_下册 资源下载"
+title: "数学分析陈纪修下册 资源下载"
 date:   2023-11-26
 tags: [数学分析,陈纪修,下册,学习,下载]
 comments: true

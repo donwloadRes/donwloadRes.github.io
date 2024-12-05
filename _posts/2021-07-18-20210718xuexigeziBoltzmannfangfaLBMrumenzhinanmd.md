@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习格子 Boltzmann 方法（LBM）入门指南"
+title: "学习格子 Boltzmann 方法LBM入门指南"
 date:   2023-01-03
 tags: [LBM,学习,Boltzmann,格子,入门]
 comments: true

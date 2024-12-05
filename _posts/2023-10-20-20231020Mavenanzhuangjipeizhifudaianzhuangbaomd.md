@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven安装及配置（附带安装包）"
+title: "Maven安装及配置附带安装包"
 date:   2023-05-07
 tags: [Maven,安装包,配置,安装,IDEA]
 comments: true

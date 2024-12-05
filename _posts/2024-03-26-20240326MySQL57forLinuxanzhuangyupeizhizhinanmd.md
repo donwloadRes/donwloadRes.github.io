@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 for Linux安装与配置指南"
+title: "MySQL 57 for Linux安装与配置指南"
 date:   2023-06-22
 tags: [MySQL,安装,Linux,配置,5.7]
 comments: true

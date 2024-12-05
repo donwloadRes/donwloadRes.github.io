@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolov5训练自己的数据集（详细完整版）"
+title: "Yolov5训练自己的数据集详细完整版"
 date:   2023-10-16
 tags: [训练,Yolov5,数据,模型,教程]
 comments: true

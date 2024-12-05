@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DARwIn-OP_ROBOTIS_v1.5.0 开源人形机器人资源包"
+title: "DARwInOPROBOTISv150 开源人形机器人资源包"
 date:   2023-02-26
 tags: [DARwIn,OP,开源,机器人,ROBOTIS]
 comments: true

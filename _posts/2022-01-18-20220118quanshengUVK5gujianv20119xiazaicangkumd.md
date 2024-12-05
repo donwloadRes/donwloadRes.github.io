@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泉盛UV-K5固件v2.01.19 下载仓库"
+title: "泉盛UVK5固件v20119 下载仓库"
 date:   2021-12-27
 tags: [固件,泉盛,UV,K5,v2.01]
 comments: true

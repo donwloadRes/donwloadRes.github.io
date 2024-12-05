@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO13239(2002) HDLC 协议标准下载"
+title: "ISO132392002 HDLC 协议标准下载"
 date:   2024-09-19
 tags: [HDLC,ISO13239,文件,2002,协议]
 comments: true

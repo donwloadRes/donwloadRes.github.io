@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SC200AI 设计应用指南 V1.2"
+title: "SC200AI 设计应用指南 V12"
 date:   2022-10-10
 tags: [SC200AI,指南,V1.2,应用,技术支持]
 comments: true

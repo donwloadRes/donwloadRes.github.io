@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库设计开发规范-阿里.pdf"
+title: "数据库设计开发规范阿里pdf"
 date:   2023-03-04
 tags: [数据库,设计,规范,阿里,文档]
 comments: true

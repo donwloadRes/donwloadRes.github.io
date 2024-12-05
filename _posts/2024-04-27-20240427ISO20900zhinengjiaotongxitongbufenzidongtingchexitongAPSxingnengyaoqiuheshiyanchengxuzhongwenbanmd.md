@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 20900 智能交通系统 部分自动停车系统（APS）性能要求和试验程序（中文版）"
+title: "ISO 20900 智能交通系统 部分自动停车系统APS性能要求和试验程序中文版"
 date:   2022-10-03
 tags: [交通系统,性能,文件,APS,停车]
 comments: true

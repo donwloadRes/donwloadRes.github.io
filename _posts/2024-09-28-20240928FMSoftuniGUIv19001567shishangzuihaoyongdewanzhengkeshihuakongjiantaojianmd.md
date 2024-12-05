@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMSoft uniGUI v1.90.0.1567 - 史上最好用的完整可视化控件套件"
+title: "FMSoft uniGUI v19001567  史上最好用的完整可视化控件套件"
 date:   2020-09-16
 tags: [uniGUI,Web,开发者,应用,Delphi]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基金投资管理系统O3.2用户手册(V1.4)"
+title: "基金投资管理系统O32用户手册V14"
 date:   2022-07-10
 tags: [O3.2,管理系统,基金,用户手册,投资]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子Snap7协议说明书（有道翻译版，未校）"
+title: "西门子Snap7协议说明书有道翻译版未校"
 date:   2020-04-03
 tags: [Snap7,S7,说明书,翻译,PLC]
 comments: true

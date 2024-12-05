@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现四阶龙格-库塔方法求解高阶微分方程"
+title: "Python实现四阶龙格库塔方法求解高阶微分方程"
 date:   2022-08-04
 tags: [Python,四阶,库塔,龙格,微分方程]
 comments: true

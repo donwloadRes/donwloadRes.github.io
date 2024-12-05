@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Web从入门到精通》PDF资源介绍"
+title: "Java Web从入门到精通PDF资源介绍"
 date:   2021-10-25
 tags: [Java,Web,PDF,精通,资源]
 comments: true

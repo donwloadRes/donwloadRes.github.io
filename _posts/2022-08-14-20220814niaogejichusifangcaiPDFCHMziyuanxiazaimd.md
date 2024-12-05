@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥基础私房菜PDF+CHM资源下载"
+title: "鸟哥基础私房菜PDFCHM资源下载"
 date:   2021-07-06
 tags: [鸟哥,私房,PDF,CHM,Linux]
 comments: true

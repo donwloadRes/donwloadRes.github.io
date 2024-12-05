@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7-10 虚拟显示器部署指南"
+title: "Windows 710 虚拟显示器部署指南"
 date:   2022-01-02
 tags: [显示器,虚拟,Windows,10,分辨率]
 comments: true

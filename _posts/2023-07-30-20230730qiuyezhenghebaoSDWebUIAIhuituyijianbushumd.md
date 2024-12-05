@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "秋叶整合包：SD-WebUI AI绘图一键部署"
+title: "秋叶整合包SDWebUI AI绘图一键部署"
 date:   2020-02-21
 tags: [绘图,AI,bash,一键,显存]
 comments: true

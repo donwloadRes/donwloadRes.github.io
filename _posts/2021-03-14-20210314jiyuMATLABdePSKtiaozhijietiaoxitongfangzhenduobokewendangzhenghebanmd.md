@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的PSK调制解调系统仿真(多博客文档整合版）"
+title: "基于MATLAB的PSK调制解调系统仿真多博客文档整合版"
 date:   2024-06-21
 tags: [仿真,解调,PSK,MATLAB,调制]
 comments: true

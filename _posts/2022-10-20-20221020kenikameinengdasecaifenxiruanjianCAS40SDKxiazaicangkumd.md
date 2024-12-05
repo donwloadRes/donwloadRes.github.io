@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "柯尼卡美能达色彩分析软件 CA-S40-SDK 下载仓库"
+title: "柯尼卡美能达色彩分析软件 CAS40SDK 下载仓库"
 date:   2023-08-18
 tags: [CA,Color,Analyzer,软件,S40]
 comments: true

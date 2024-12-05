@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "霍尼韦尔WEBS系统培训资料第二部分（全）"
+title: "霍尼韦尔WEBS系统培训资料第二部分全"
 date:   2023-04-16
 tags: [WEBS,霍尼韦尔,系统,培训资料,资源]
 comments: true

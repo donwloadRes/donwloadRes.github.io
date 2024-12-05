@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-A9 官方手册下载仓库"
+title: "CortexA9 官方手册下载仓库"
 date:   2024-06-06
 tags: [Cortex,A9,手册,芯片,开发者]
 comments: true

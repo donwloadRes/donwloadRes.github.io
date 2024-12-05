@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库应用-实验训练7：“网上商城”项目实验"
+title: "MySQL数据库应用实验训练7网上商城项目实验"
 date:   2021-09-08
 tags: [数据库,实验,存储,MySQL,网上商城]
 comments: true

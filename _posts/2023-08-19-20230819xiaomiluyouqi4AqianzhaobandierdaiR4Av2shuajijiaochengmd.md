@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米路由器4A千兆版第二代(R4Av2)刷机教程"
+title: "小米路由器4A千兆版第二代R4Av2刷机教程"
 date:   2021-02-08
 tags: [路由器,刷机,千兆,教程,4A]
 comments: true

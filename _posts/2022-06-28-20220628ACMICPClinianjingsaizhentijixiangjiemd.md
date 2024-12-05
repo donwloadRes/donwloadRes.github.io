@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACM-ICPC 历年竞赛真题及详解"
+title: "ACMICPC 历年竞赛真题及详解"
 date:   2021-05-20
 tags: [题目,竞赛,ICPC,真题,ACM]
 comments: true

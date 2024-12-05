@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数学建模——贝叶斯预测模型"
+title: "MATLAB数学建模贝叶斯预测模型"
 date:   2022-05-28
 tags: [贝叶斯,MATLAB,预测,模型,示例]
 comments: true

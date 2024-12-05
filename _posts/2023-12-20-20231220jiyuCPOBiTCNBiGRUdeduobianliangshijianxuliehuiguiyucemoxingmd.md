@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CPO-BiTCN-BiGRU的多变量时间序列回归预测模型"
+title: "基于CPOBiTCNBiGRU的多变量时间序列回归预测模型"
 date:   2020-08-11
 tags: [序列,模型,CPO,BiTCN,双向]
 comments: true

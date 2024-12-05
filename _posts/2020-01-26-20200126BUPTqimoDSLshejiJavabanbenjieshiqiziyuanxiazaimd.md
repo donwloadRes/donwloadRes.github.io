@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUPT期末DSL设计：Java版本解释器资源下载"
+title: "BUPT期末DSL设计Java版本解释器资源下载"
 date:   2023-03-21
 tags: [解释器,Java,脚本语言,设计,代码]
 comments: true

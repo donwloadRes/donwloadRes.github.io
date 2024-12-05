@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "波形发生器（NE555芯片和一片四运放LM324芯片）"
+title: "波形发生器NE555芯片和一片四运放LM324芯片"
 date:   2021-10-13
 tags: [芯片,正弦波,频率,仿真,电路图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的信号与系统实验指导课后详细答案（含源代码）"
+title: "基于MATLAB的信号与系统实验指导课后详细答案含源代码"
 date:   2024-07-24
 tags: [MATLAB,实验,源代码,文档,答案]
 comments: true

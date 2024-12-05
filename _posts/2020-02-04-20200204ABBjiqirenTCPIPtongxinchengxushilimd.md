@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人TCP-IP通信程序实例"
+title: "ABB机器人TCPIP通信程序实例"
 date:   2023-12-11
 tags: [BB机,器人,TCP,IP,通信]
 comments: true

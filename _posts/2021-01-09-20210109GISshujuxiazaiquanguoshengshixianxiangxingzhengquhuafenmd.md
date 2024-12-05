@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GIS数据下载：全国省市县乡行政区划分"
+title: "GIS数据下载全国省市县乡行政区划分"
 date:   2024-09-06
 tags: [GIS,行政区划,数据,下载,县乡]
 comments: true

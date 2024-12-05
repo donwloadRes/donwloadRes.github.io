@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 详细安装教程及软件下载"
+title: "Dev C 详细安装教程及软件下载"
 date:   2020-08-14
 tags: [C++,安装,Dev,点击,软件]
 comments: true

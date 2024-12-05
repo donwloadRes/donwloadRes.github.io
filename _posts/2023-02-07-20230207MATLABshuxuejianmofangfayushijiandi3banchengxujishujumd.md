@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数学建模方法与实践（第3版）程序及数据"
+title: "MATLAB数学建模方法与实践第3版程序及数据"
 date:   2020-12-11
 tags: [MATLAB,建模,程序代码,数据文件,数学]
 comments: true

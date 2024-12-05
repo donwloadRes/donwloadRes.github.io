@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最详细的JAVA学生信息管理系统（MySQL实现）"
+title: "史上最详细的JAVA学生信息管理系统MySQL实现"
 date:   2024-03-16
 tags: [用户,学生,管理员,信息,MySQL]
 comments: true

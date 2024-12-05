@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 规范 V1.2 资源下载"
+title: "MIPI DPHY 规范 V12 资源下载"
 date:   2023-09-20
 tags: [PHY,MIPI,V1.2,文件,Spec]
 comments: true

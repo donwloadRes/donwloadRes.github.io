@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK API文档中文版（1.6、1.8、1.9）"
+title: "JDK API文档中文版161819"
 date:   2022-12-08
 tags: [JDK,API,文档,1.6,1.8]
 comments: true

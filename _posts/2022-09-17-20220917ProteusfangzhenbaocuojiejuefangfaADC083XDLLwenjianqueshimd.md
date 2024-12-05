@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus仿真报错解决方法：ADC083XDLL文件缺失"
+title: "Proteus仿真报错解决方法ADC083XDLL文件缺失"
 date:   2020-04-25
 tags: [Proteus,文件,仿真,DLL,MODELS]
 comments: true

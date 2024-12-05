@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop 2.7.7 二进制压缩包（Windows系统）"
+title: "Hadoop 277 二进制压缩包Windows系统"
 date:   2022-12-30
 tags: [Hadoop,2.7,Windows,压缩包,hadoop]
 comments: true

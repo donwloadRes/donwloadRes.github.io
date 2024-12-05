@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW 数据库访问工具包 - LabSQL"
+title: "LabVIEW 数据库访问工具包  LabSQL"
 date:   2020-11-27
 tags: [数据库,LabSQL,SQL,LabVIEW,访问]
 comments: true

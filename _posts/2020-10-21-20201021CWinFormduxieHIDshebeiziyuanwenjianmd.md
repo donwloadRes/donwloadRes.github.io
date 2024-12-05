@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 读写 HID 设备资源文件"
+title: "C WinForm 读写 HID 设备资源文件"
 date:   2024-07-09
 tags: [HID,文件,C#,设备,资源]
 comments: true

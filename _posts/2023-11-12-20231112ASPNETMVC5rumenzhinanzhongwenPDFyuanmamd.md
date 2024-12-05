@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET MVC 5 入门指南 (中文PDF+源码)"
+title: "ASPNET MVC 5 入门指南 中文PDF源码"
 date:   2023-01-20
 tags: [MVC,ASP,NET,视图,控制器]
 comments: true

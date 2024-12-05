@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序用户信息解析工具 - WXBizDataCrypt.js"
+title: "微信小程序用户信息解析工具  WXBizDataCryptjs"
 date:   2021-08-16
 tags: [微信,解析,用户,WXBizDataCrypt,js]
 comments: true

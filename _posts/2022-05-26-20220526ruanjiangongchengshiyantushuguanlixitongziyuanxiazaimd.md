@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程实验：图书管理系统资源下载"
+title: "软件工程实验图书管理系统资源下载"
 date:   2022-12-22
 tags: [软件工程,管理系统,图书,UML,实验报告]
 comments: true

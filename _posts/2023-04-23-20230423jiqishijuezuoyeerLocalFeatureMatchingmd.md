@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉作业（二） Local Feature Matching"
+title: "机器视觉作业二 Local Feature Matching"
 date:   2023-11-14
 tags: [SIFT,Python,匹配,算法,特征描述]
 comments: true

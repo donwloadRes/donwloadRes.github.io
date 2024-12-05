@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：电力系统火电机组组合优化"
+title: "MATLAB代码电力系统火电机组组合优化"
 date:   2022-01-19
 tags: [代码,MATLAB,优化,遗传算法,参数设置]
 comments: true

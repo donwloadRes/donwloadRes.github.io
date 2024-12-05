@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年电赛A题资源：基于STM32F407VET6的单相DQ锁相环解决方案"
+title: "2022年电赛A题资源基于STM32F407VET6的单相DQ锁相环解决方案"
 date:   2021-08-27
 tags: [单相,锁相环,电赛,DQ,锁相]
 comments: true

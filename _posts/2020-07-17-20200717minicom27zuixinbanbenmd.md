@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "minicom-2.7最新版本"
+title: "minicom27最新版本"
 date:   2021-08-25
 tags: [minicom,2.7,版本,串口,Minicom]
 comments: true

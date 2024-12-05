@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 软件操作速成实战 100讲"
+title: "Cadence Allegro 166 软件操作速成实战 100讲"
 date:   2022-12-15
 tags: [Cadence,Allegro,16.6,100,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于智能优化算法的双层优化求解(MATLAB代码)"
+title: "基于智能优化算法的双层优化求解MATLAB代码"
 date:   2023-06-01
 tags: [优化,算法,求解,MATLAB,双层]
 comments: true

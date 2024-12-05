@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2024 v25.0.0.230 x64 免激活直装特别版"
+title: "CorelDRAW Graphics Suite 2024 v2500230 x64 免激活直装特别版"
 date:   2020-11-16
 tags: [安装,特别版,CorelDRAW,Graphics,Suite]
 comments: true

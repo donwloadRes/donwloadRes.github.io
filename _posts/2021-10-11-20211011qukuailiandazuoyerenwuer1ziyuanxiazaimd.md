@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "区块链大作业-任务二1 资源下载"
+title: "区块链大作业任务二1 资源下载"
 date:   2022-11-19
 tags: [链大,区块,任务,文件,作业]
 comments: true

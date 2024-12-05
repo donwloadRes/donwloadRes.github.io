@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostGIS中文手册(3.0) 下载仓库"
+title: "PostGIS中文手册30 下载仓库"
 date:   2022-12-05
 tags: [PostGIS,3.0,中文,本手册,手册]
 comments: true

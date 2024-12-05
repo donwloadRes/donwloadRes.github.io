@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primer C++（第5版）PDF资源介绍"
+title: "Primer C第5版PDF资源介绍"
 date:   2021-07-31
 tags: [C++,PDF,学习,Primer,学习者]
 comments: true

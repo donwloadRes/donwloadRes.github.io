@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴B860AV1.1-T2 降级包"
+title: "中兴B860AV11T2 降级包"
 date:   2022-08-06
 tags: [降级,B860AV1.1,T2,中兴,ADB]
 comments: true

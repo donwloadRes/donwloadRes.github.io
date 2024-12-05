@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机科学数学（中文）资源下载"
+title: "计算机科学数学中文资源下载"
 date:   2023-01-03
 tags: [计算机科学,数学,资源,文件,学习]
 comments: true

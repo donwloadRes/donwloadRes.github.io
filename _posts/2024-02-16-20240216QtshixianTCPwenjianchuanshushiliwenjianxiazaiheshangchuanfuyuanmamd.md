@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现TCP文件传输示例（文件下载和上传）附源码"
+title: "Qt实现TCP文件传输示例文件下载和上传附源码"
 date:   2024-06-14
 tags: [文件传输,示例,Qt,客户端,文件]
 comments: true

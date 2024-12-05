@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员的自我修养—链接、装载与库"
+title: "程序员的自我修养链接装载与库"
 date:   2020-05-10
 tags: [链接,程序员,装载,修养,自我]
 comments: true

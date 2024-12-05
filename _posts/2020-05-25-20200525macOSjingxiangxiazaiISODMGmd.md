@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS镜像下载(ISO、DMG)"
+title: "macOS镜像下载ISODMG"
 date:   2022-07-08
 tags: [macOS,ISO,镜像文件,格式,Big]
 comments: true

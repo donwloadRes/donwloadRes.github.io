@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装教程（非常详细）从零基础入门到精通"
+title: "VMware虚拟机安装教程非常详细从零基础入门到精通"
 date:   2021-03-06
 tags: [虚拟机,VMware,安装,教程,配置]
 comments: true

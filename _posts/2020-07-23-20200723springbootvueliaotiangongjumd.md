@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "springboot+vue聊天工具"
+title: "springbootvue聊天工具"
 date:   2022-04-20
 tags: [聊天工具,Vue,应用,框架,SpringBoot]
 comments: true

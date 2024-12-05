@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "机票预订系统数据库设计资源示例"
+title: "机票预订系统数据库设计资源示例
+date   20220814
+tags 数据库预订机票视图查询
+comments true
+author admin
+
+
+layout post
+title 机票预订系统数据库设计资源示例"
 date:   2022-08-14
 tags: [数据库,预订,机票,视图,查询]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "机票预订系统数据库设计资源示例"
+title: "机票预订系统数据库设计资源示例
+date   20220814
+tags 数据库预订机票视图查询
+comments true
+author admin
+
+
+layout post
+title 机票预订系统数据库设计资源示例"
 date:   2021-07-24
 tags: [数据库,预订,机票,查询,视图]
 comments: true

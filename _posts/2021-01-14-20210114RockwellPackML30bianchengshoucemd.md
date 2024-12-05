@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rockwell PackML 3.0 编程手册"
+title: "Rockwell PackML 30 编程手册"
 date:   2022-07-23
 tags: [PackML,编程,3.0,Rockwell,手册]
 comments: true

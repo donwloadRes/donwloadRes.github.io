@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB重启助手V1.0 使用说明"
+title: "USB重启助手V10 使用说明"
 date:   2020-06-12
 tags: [USB,重启,V1.0,软件,助手]
 comments: true

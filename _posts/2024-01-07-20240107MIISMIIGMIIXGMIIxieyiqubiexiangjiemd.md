@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MII、SMII、GMII、XGMII协议区别详解"
+title: "MIISMIIGMIIXGMII协议区别详解"
 date:   2024-05-30
 tags: [协议,MII,SMII,GMII,详解]
 comments: true

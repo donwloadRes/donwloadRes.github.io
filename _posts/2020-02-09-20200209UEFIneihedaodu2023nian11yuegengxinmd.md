@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UEFI内核导读（2023年11月更新）"
+title: "UEFI内核导读2023年11月更新"
 date:   2024-07-08
 tags: [UEFI,内核,2023,11,导读]
 comments: true

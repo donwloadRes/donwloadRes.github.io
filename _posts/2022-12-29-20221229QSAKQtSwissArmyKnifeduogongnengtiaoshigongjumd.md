@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QSAK（Qt Swiss Army Knife）多功能调试工具"
+title: "QSAKQt Swiss Army Knife多功能调试工具"
 date:   2021-04-29
 tags: [调试,QSAK,功能,模块,用户]
 comments: true

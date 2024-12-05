@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统：设计与实现》中文第二版 PDF 下载"
+title: "操作系统设计与实现中文第二版 PDF 下载"
 date:   2022-12-04
 tags: [操作系统,本书,MINIX,PDF,源代码]
 comments: true

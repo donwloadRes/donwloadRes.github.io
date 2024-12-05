@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu20.04 搭建FISCO-BCOS、WeBASE 详细教程"
+title: "Ubuntu2004 搭建FISCOBCOSWeBASE 详细教程"
 date:   2023-12-07
 tags: [搭建,FISCO,BCOS,WeBASE,区块]
 comments: true

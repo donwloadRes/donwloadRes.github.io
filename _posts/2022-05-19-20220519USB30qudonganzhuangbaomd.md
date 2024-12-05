@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0驱动安装包"
+title: "USB30驱动安装包"
 date:   2020-11-26
 tags: [USB3.0,驱动程序,驱动,Windows,AMD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++学习笔记下载仓库"
+title: "C学习笔记下载仓库"
 date:   2023-12-23
 tags: [笔记,学习,文件,C++,c++]
 comments: true

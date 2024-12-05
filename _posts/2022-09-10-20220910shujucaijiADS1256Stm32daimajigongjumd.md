@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据采集ADS1256+Stm32代码及工具"
+title: "数据采集ADS1256Stm32代码及工具"
 date:   2020-07-14
 tags: [采集,ADS1256,STM32C8T6,代码,原理图]
 comments: true

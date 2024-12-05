@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘(概念与技术)课后习题答案"
+title: "数据挖掘概念与技术课后习题答案"
 date:   2023-02-28
 tags: [数据挖掘,课后,习题,答案,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow2.4与CUDA11.1缺失 'cusolver64_10.dll' 动态库解决方案"
+title: "TensorFlow24与CUDA111缺失 cusolver6410dll 动态库解决方案"
 date:   2022-06-02
 tags: [dll,CUDA,cusolver64,10,TensorFlow]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史密斯圆图工具Smith V3.10带完全学习授权"
+title: "史密斯圆图工具Smith V310带完全学习授权"
 date:   2022-08-04
 tags: [圆图,史密斯,Smith,V3.10,文件]
 comments: true

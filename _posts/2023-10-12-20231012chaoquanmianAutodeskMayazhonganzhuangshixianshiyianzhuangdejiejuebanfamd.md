@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超全面！Autodesk Maya重安装时显示已安装的解决办法"
+title: "超全面Autodesk Maya重安装时显示已安装的解决办法"
 date:   2023-05-13
 tags: [Maya,安装,Autodesk,注册表,重新安装]
 comments: true

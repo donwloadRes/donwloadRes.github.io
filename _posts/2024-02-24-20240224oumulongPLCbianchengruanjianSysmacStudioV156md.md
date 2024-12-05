@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙PLC编程软件Sysmac Studio V1.56"
+title: "欧姆龙PLC编程软件Sysmac Studio V156"
 date:   2024-11-15
 tags: [PLC,欧姆龙,软件,编程,调试]
 comments: true

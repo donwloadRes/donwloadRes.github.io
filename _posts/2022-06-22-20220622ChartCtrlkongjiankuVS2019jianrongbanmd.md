@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChartCtrl控件库（VS2019兼容版）"
+title: "ChartCtrl控件库VS2019兼容版"
 date:   2022-02-28
 tags: [控件,ChartCtrl,VS2019,图表,开发者]
 comments: true

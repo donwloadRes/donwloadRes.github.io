@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL server 2008 R2 图文安装教程（附资源）"
+title: "SQL server 2008 R2 图文安装教程附资源"
 date:   2022-11-13
 tags: [安装,SQL,Server,2008,R2]
 comments: true

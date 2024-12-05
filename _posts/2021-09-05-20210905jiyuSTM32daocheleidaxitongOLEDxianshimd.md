@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32倒车雷达系统（OLED显示）"
+title: "基于STM32倒车雷达系统OLED显示"
 date:   2023-12-20
 tags: [STM32,OLED,Proteus,距离,倒车]
 comments: true

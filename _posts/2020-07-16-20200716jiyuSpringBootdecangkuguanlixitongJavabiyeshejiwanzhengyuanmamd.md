@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot的仓库管理系统 - Java毕业设计完整源码"
+title: "基于SpringBoot的仓库管理系统  Java毕业设计完整源码"
 date:   2024-06-06
 tags: [Java,SpringBoot,管理系统,毕业设计,仓库]
 comments: true

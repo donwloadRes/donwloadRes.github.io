@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis3.2.100免安装版下载仓库"
+title: "Redis32100免安装版下载仓库"
 date:   2024-08-22
 tags: [安装版,Redis,100,Redis3.2,下载]
 comments: true

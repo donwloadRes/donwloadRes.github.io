@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MySQL数据库例子源码"
+title: "C MySQL数据库例子源码"
 date:   2023-09-09
 tags: [C#,MySQL,数据库,源码,示例]
 comments: true

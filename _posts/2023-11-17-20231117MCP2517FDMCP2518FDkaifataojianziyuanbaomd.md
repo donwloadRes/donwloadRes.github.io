@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCP2517FD & MCP2518FD 开发套件资源包"
+title: "MCP2517FD  MCP2518FD 开发套件资源包"
 date:   2023-02-25
 tags: [FD,SPI,控制器,MCP2517FD,MCP2518FD]
 comments: true

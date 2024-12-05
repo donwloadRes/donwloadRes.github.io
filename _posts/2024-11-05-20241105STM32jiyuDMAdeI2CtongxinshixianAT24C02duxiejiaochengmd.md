@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32】基于DMA的I2C通信实现-AT24C02读写教程"
+title: "STM32基于DMA的I2C通信实现AT24C02读写教程"
 date:   2022-04-19
 tags: [DMA,I2C,AT24C02,STM32,LED]
 comments: true

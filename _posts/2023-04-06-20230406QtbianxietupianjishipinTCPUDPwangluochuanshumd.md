@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编写图片及视频TCP-UDP网络传输"
+title: "Qt编写图片及视频TCPUDP网络传输"
 date:   2024-06-14
 tags: [图片,Qt,UDP,传输,TCP]
 comments: true

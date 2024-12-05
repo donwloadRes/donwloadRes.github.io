@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-基于JAVA的Spring Boot篮球论坛系统(源代码+论文）"
+title: "毕业设计基于JAVA的Spring Boot篮球论坛系统源代码论文"
 date:   2021-08-24
 tags: [系统,源代码,论文,篮球,项目]
 comments: true

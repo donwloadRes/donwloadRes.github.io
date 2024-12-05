@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UC3843原理图-量产版"
+title: "UC3843原理图量产版"
 date:   2020-02-10
 tags: [原理图,UC3843,设计,量产,元器件]
 comments: true

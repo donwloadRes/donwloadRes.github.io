@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2024 v26.5.0.731 免登陆注册版"
+title: "CorelDRAW Graphics Suite 2024 v2650731 免登陆注册版"
 date:   2022-03-29
 tags: [CorelDRAW,Graphics,Suite,2024,0.731]
 comments: true

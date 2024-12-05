@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的电压表设计（数码管显示）"
+title: "基于STM32的电压表设计数码管显示"
 date:   2020-11-05
 tags: [STM32,数码管,微控制器,电压表,设计]
 comments: true

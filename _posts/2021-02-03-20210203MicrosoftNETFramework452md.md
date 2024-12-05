@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft .NET Framework 4.5.2"
+title: "Microsoft NET Framework 452"
 date:   2022-05-09
 tags: [Windows,NET,安装,Framework,应用程序]
 comments: true

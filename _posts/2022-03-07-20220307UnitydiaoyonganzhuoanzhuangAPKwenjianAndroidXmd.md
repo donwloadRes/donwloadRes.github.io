@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity调用安卓安装APK文件（AndroidX）"
+title: "Unity调用安卓安装APK文件AndroidX"
 date:   2024-03-30
 tags: [Unity,安卓,安装,APK,测试]
 comments: true

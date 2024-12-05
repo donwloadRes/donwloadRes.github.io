@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI标准(中文版)下载仓库"
+title: "CPCI标准中文版下载仓库"
 date:   2020-02-22
 tags: [CPCI,标准,中文版,下载,仓库]
 comments: true

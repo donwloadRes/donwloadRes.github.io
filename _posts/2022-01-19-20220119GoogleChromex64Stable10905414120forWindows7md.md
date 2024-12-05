@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Chrome x64 Stable 109.0.5414.120 for Windows 7"
+title: "Google Chrome x64 Stable 10905414120 for Windows 7"
 date:   2023-11-01
 tags: [Windows,Chrome,用户,浏览器,版本]
 comments: true

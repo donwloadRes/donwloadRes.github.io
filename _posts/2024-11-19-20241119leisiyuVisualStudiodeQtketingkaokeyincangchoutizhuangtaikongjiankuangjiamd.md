@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "类似于Visual Studio的Qt可停靠、可隐藏、抽屉状态控件框架"
+title: "类似于Visual Studio的Qt可停靠可隐藏抽屉状态控件框架"
 date:   2020-11-09
 tags: [Qt,控件,框架,停靠,界面]
 comments: true

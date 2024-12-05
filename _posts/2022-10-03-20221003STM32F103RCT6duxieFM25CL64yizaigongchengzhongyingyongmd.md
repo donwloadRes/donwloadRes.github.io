@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103RCT6读写FM25CL64（已在工程中应用）"
+title: "STM32F103RCT6读写FM25CL64已在工程中应用"
 date:   2023-05-26
 tags: [SPI,读写,FM25CL64,芯片,测试]
 comments: true

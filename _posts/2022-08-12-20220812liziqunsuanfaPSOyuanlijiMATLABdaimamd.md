@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "粒子群算法(PSO)原理及MATLAB代码"
+title: "粒子群算法PSO原理及MATLAB代码"
 date:   2021-02-15
 tags: [算法,MATLAB,粒子,代码,原理]
 comments: true

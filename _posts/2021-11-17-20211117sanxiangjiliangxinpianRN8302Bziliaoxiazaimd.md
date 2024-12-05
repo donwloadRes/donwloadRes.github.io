@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三相计量芯片-RN8302B资料下载"
+title: "三相计量芯片RN8302B资料下载"
 date:   2023-10-04
 tags: [RN8302B,芯片,三相,计量,文件]
 comments: true

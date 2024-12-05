@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开拓者 TB 震荡+趋势混合策略 源码"
+title: "开拓者 TB 震荡趋势混合策略 源码"
 date:   2024-09-22
 tags: [TB,交易,策略,混合策略,源码]
 comments: true

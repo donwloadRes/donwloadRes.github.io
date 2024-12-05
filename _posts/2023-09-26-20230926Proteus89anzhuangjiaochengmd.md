@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.9 安装教程"
+title: "Proteus 89 安装教程"
 date:   2021-08-28
 tags: [安装,Proteus,8.9,点击,文件夹]
 comments: true

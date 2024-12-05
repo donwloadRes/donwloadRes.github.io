@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零搭建公网流媒体服务器（GB28181-2016）"
+title: "从零搭建公网流媒体服务器GB281812016"
 date:   2020-02-10
 tags: [公网,ZLMediaKit,流媒体,编译,调试]
 comments: true

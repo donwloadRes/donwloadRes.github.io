@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS 2 入门指南 - 胡春旭的PPT资源"
+title: "ROS 2 入门指南  胡春旭的PPT资源"
 date:   2024-08-11
 tags: [ROS,胡春旭,PPT,文件,架构]
 comments: true

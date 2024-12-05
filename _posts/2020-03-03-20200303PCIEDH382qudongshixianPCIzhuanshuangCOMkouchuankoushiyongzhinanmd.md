@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE DH382驱动：实现PCI转双COM口串口使用指南"
+title: "PCIE DH382驱动实现PCI转双COM口串口使用指南"
 date:   2021-08-03
 tags: [串口,Windows,COM,驱动,DH382]
 comments: true

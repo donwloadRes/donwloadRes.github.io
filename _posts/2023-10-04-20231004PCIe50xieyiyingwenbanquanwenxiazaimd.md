@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 5.0 协议英文版全文下载"
+title: "PCIe 50 协议英文版全文下载"
 date:   2024-11-20
 tags: [PCIe,5.0,英文版,协议,文件]
 comments: true

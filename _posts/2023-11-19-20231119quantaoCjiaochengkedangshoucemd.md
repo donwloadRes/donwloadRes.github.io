@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全套C#教程(可当手册)"
+title: "全套C教程可当手册"
 date:   2021-11-23
 tags: [教程,C#,编程,全套,格式]
 comments: true

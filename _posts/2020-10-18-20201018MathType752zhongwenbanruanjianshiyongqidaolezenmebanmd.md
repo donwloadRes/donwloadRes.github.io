@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType 7.5.2中文版软件使用期到了怎么办？"
+title: "MathType 752中文版软件使用期到了怎么办"
 date:   2024-04-03
 tags: [试用期,MathType,用户,使用,中文版]
 comments: true

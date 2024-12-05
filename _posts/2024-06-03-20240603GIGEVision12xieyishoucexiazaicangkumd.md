@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GIGE Vision 1.2 协议手册下载仓库"
+title: "GIGE Vision 12 协议手册下载仓库"
 date:   2024-04-12
 tags: [GIGE,Vision,1.2,手册,下载]
 comments: true

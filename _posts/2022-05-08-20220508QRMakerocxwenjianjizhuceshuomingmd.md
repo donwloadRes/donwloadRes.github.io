@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QRMaker.ocx文件及注册说明"
+title: "QRMakerocx文件及注册说明"
 date:   2020-12-08
 tags: [QRMaker,ocx,文件,注册,仓库]
 comments: true

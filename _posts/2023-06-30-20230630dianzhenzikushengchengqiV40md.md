@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点阵字库生成器 V4.0"
+title: "点阵字库生成器 V40"
 date:   2022-05-20
 tags: [点阵字库,生成器,V4.0,嵌入式,字体]
 comments: true

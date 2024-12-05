@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清理注册表软件 - runASTi64.exe"
+title: "清理注册表软件  runASTi64exe"
 date:   2022-06-28
 tags: [注册表,软件,清理,runASTi64,exe]
 comments: true

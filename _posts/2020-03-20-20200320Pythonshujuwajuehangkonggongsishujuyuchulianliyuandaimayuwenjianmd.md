@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据挖掘：航空公司数据预处理案例源代码与文件"
+title: "Python数据挖掘航空公司数据预处理案例源代码与文件"
 date:   2023-02-21
 tags: [Python,预处理,数据挖掘,源代码,git]
 comments: true

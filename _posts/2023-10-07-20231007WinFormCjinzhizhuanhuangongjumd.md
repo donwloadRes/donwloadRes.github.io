@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm C# 进制转换工具"
+title: "WinForm C 进制转换工具"
 date:   2021-03-25
 tags: [进制,转换,数值,WinForm,输入]
 comments: true

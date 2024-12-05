@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机中安装Ubuntu20.04小白教程"
+title: "VMware虚拟机中安装Ubuntu2004小白教程"
 date:   2024-06-09
 tags: [虚拟机,安装,Ubuntu,教程,VMware]
 comments: true

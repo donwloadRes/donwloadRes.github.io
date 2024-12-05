@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通Linux 设备驱动程序开发》资源下载"
+title: "精通Linux 设备驱动程序开发资源下载"
 date:   2024-10-23
 tags: [驱动程序,Linux,设备,下载,内核]
 comments: true

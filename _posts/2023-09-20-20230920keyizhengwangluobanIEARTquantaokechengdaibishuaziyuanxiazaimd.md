@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "柯一正网络班 IE-ART（全套）课程带笔刷 资源下载"
+title: "柯一正网络班 IEART全套课程带笔刷 资源下载"
 date:   2020-07-11
 tags: [IE,ART,笔刷,带笔,课程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统》试题库及答案解析"
+title: "操作系统试题库及答案解析"
 date:   2020-09-20
 tags: [操作系统,学习者,解析,试题库,答案]
 comments: true

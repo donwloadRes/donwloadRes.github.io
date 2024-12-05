@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus-II软件和Modsim仿真软件的安装指南"
+title: "QuartusII软件和Modsim仿真软件的安装指南"
 date:   2024-11-18
 tags: [仿真,Quartus,安装,II,软件]
 comments: true

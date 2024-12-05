@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三电平SVPWM算法核心（简单易懂）"
+title: "三电平SVPWM算法核心简单易懂"
 date:   2020-06-19
 tags: [电平,SVPWM,算法,易懂,简单]
 comments: true

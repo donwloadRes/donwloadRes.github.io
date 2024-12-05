@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统下Qt5.12.10.run安装包下载"
+title: "Linux系统下Qt51210run安装包下载"
 date:   2020-06-29
 tags: [安装包,下载,Qt5.12,10,run]
 comments: true

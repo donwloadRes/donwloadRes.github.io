@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数通HCIA题库-H12-211-2.5-550题－2020最新最全版"
+title: "数通HCIA题库H1221125550题2020最新最全版"
 date:   2023-09-18
 tags: [题库,数通,HCIA,550,2020]
 comments: true

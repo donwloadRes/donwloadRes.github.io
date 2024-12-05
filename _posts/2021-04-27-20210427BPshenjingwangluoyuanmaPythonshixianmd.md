@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络源码（Python实现）"
+title: "BP神经网络源码Python实现"
 date:   2022-05-15
 tags: [神经网络,算法,Python,network,优化]
 comments: true

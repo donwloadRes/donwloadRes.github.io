@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prolific USB-to-Serial Comm Port (COM5) 驱动下载"
+title: "Prolific USBtoSerial Comm Port COM5 驱动下载"
 date:   2021-07-25
 tags: [Prolific,USB,Serial,驱动程序,COM5]
 comments: true

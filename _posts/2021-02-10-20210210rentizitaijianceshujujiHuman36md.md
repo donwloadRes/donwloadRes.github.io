@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人体姿态检测数据集Human3.6"
+title: "人体姿态检测数据集Human36"
 date:   2021-10-18
 tags: [数据,Human3.6,姿态,人体,文件]
 comments: true

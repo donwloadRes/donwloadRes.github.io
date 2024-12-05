@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61131-3编程语言及应用基础"
+title: "IEC611313编程语言及应用基础"
 date:   2020-01-02
 tags: [IEC61131,编程语言,应用,文件,基础]
 comments: true

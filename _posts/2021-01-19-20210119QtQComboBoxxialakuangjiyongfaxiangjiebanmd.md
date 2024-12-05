@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt QComboBox下拉框及用法（详解版）"
+title: "Qt QComboBox下拉框及用法详解版"
 date:   2023-08-02
 tags: [QComboBox,Qt,教程,自定义,选项]
 comments: true

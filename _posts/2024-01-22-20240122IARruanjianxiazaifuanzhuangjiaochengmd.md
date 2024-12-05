@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR软件下载(附安装教程)"
+title: "IAR软件下载附安装教程"
 date:   2021-02-27
 tags: [IAR,安装,软件,下载,教程]
 comments: true

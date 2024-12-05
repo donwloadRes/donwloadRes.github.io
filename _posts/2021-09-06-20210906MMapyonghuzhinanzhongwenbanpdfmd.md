@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M_Map用户指南（中文版）.pdf"
+title: "MMap用户指南中文版pdf"
 date:   2023-06-28
 tags: [Map,用户,Matlab,指南,pdf]
 comments: true

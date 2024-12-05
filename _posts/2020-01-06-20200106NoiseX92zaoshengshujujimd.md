@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NoiseX-92噪声数据集"
+title: "NoiseX92噪声数据集"
 date:   2020-04-02
 tags: [噪声,降噪,NoiseX,92,算法]
 comments: true

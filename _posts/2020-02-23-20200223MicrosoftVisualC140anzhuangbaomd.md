@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 14.0 安装包"
+title: "Microsoft Visual C 140 安装包"
 date:   2023-03-11
 tags: [Microsoft,14.0,Visual,C++,安装]
 comments: true

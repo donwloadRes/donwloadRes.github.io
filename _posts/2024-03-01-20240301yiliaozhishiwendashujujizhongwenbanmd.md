@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医疗知识问答数据集 - 中文版"
+title: "医疗知识问答数据集  中文版"
 date:   2023-08-11
 tags: [问答,医疗,数据,知识,健康]
 comments: true

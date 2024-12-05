@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙倒F形天线Cadence Allegro 16.6封装资源下载"
+title: "蓝牙倒F形天线Cadence Allegro 166封装资源下载"
 date:   2023-04-11
 tags: [封装,天线,蓝牙,Cadence,Allegro]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一篇文章学会gRPC编程，全网最详细，最全面保姆级教学"
+title: "一篇文章学会gRPC编程全网最详细最全面保姆级教学"
 date:   2024-08-08
 tags: [gRPC,编写,pb,cc,编程]
 comments: true

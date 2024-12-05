@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.8V-3.3V双向电平转换电路资源"
+title: "18V33V双向电平转换电路资源"
 date:   2023-02-06
 tags: [电平,1.8,3.3,电路,电路设计]
 comments: true

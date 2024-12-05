@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康DS-78-79N-EX系列萤石云支持程序包"
+title: "海康DS7879NEX系列萤石云支持程序包"
 date:   2020-07-23
 tags: [DS,程序包,32N,海康,设备]
 comments: true

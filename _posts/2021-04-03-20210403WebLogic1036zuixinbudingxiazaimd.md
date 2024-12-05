@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebLogic 10.3.6 最新补丁下载"
+title: "WebLogic 1036 最新补丁下载"
 date:   2024-01-07
 tags: [补丁,WebLogic,10.3,最新,2022]
 comments: true

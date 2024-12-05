@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js透明管道及流动液体效果"
+title: "Threejs透明管道及流动液体效果"
 date:   2020-04-21
 tags: [管道,液体,流动,透明,示例]
 comments: true

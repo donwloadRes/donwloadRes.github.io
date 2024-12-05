@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通泰（MCGS）官方资料下载仓库"
+title: "昆仑通泰MCGS官方资料下载仓库"
 date:   2020-06-30
 tags: [MCGS,资料,仓库,通泰,下载]
 comments: true

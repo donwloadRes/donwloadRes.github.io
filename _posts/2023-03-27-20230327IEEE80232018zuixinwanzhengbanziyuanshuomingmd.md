@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE802.3-2018最新完整版资源说明"
+title: "IEEE80232018最新完整版资源说明"
 date:   2021-11-05
 tags: [以太网,2018,完整版,IEEE,文档]
 comments: true

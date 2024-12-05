@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zephyr OS v1.6.0开发手册 - 中文版"
+title: "Zephyr OS v160开发手册  中文版"
 date:   2020-06-25
 tags: [Zephyr,OS,本手册,手册,中文版]
 comments: true

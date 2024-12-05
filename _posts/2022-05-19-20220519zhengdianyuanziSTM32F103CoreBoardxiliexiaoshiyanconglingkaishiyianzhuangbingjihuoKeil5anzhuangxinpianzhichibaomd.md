@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【正点原子】STM32F103Core Board系列小实验从零开始（一）安装并激活Keil5、安装芯片支持包"
+title: "正点原子STM32F103Core Board系列小实验从零开始一安装并激活Keil5安装芯片支持包"
 date:   2024-08-02
 tags: [Keil5,安装,芯片,支持,下载]
 comments: true

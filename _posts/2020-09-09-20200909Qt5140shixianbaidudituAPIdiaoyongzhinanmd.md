@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.14.0实现百度地图API调用指南"
+title: "Qt5140实现百度地图API调用指南"
 date:   2022-05-28
 tags: [API,Qt,百度,地图,QWebEngineView]
 comments: true

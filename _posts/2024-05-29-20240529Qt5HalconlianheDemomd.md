@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5+Halcon联合Demo"
+title: "Qt5Halcon联合Demo"
 date:   2024-11-27
 tags: [Halcon,Qt,Demo,图像处理,Visual]
 comments: true

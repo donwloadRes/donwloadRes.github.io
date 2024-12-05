@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinHex 19.6 专业版注册码资源介绍"
+title: "WinHex 196 专业版注册码资源介绍"
 date:   2023-11-17
 tags: [WinHex,注册码,专业版,19.6,文件]
 comments: true

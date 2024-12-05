@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的电子闹钟（DS1302）"
+title: "基于STM32的电子闹钟DS1302"
 date:   2024-04-02
 tags: [闹钟,设置,DS1302,按键,蜂鸣器]
 comments: true

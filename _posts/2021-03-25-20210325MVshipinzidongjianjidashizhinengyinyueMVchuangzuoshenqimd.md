@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MV视频自动剪辑大师 - 智能音乐MV创作神器"
+title: "MV视频自动剪辑大师  智能音乐MV创作神器"
 date:   2022-04-28
 tags: [MV,视频,剪辑,音乐,自动]
 comments: true

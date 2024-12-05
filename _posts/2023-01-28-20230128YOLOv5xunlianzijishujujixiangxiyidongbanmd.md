@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5训练自己数据集（详细易懂版）"
+title: "YOLOv5训练自己数据集详细易懂版"
 date:   2024-04-16
 tags: [--,训练,YOLOv5,data,yaml]
 comments: true

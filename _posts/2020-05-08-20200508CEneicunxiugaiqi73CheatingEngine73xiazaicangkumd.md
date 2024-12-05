@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CE内存修改器7.3 Cheating Engine7.3 下载仓库"
+title: "CE内存修改器73 Cheating Engine73 下载仓库"
 date:   2020-06-23
 tags: [CE,修改器,游戏,数值,单机游戏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32F460KETA-LQFP64-ADC代码示例"
+title: "HC32F460KETALQFP64ADC代码示例"
 date:   2020-10-18
 tags: [LQFP64,HC32F460KETA,ADC,示例,代码]
 comments: true

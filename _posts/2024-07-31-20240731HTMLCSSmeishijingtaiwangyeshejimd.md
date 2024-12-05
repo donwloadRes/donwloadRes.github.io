@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS美食静态网页设计"
+title: "HTMLCSS美食静态网页设计"
 date:   2021-03-01
 tags: [网页,美食,HTML,CSS,设计]
 comments: true

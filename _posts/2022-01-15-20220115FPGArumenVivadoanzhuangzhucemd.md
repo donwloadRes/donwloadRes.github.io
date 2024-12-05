@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA 入门 —— Vivado 安装注册"
+title: "FPGA 入门  Vivado 安装注册"
 date:   2023-02-24
 tags: [Vivado,安装,教程,软件,注册]
 comments: true

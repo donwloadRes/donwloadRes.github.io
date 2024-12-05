@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notepad++包含各种插件绿色版"
+title: "notepad包含各种插件绿色版"
 date:   2020-07-03
 tags: [++,插件,Notepad,绿色版,notepad]
 comments: true

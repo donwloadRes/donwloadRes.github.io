@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国联通5G-A通感算融合技术白皮书"
+title: "中国联通5GA通感算融合技术白皮书"
 date:   2022-04-01
 tags: [5G,通感,白皮书,融合,中国联通]
 comments: true

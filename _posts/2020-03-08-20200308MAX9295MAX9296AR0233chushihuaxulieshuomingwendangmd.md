@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX9295_MAX9296_AR0233 初始化序列说明文档"
+title: "MAX9295MAX9296AR0233 初始化序列说明文档"
 date:   2022-11-16
 tags: [初始化,MAX9295,MAX9296,AR0233,摄像头]
 comments: true

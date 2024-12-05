@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享200个App移动端模板——总有一个适合你"
+title: "分享200个App移动端模板总有一个适合你"
 date:   2022-04-17
 tags: [模板,App,设计,200,移动]
 comments: true

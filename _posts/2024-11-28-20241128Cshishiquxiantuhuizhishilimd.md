@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实时曲线图绘制示例"
+title: "C 实时曲线图绘制示例"
 date:   2022-11-15
 tags: [C#,曲线图,实时,Demo,绘制]
 comments: true

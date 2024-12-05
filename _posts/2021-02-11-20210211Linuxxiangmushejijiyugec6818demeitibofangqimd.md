@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux项目设计：基于gec6818的媒体播放器"
+title: "Linux项目设计基于gec6818的媒体播放器"
 date:   2022-08-26
 tags: [播放,Linux,gec6818,媒体播放器,开发板]
 comments: true

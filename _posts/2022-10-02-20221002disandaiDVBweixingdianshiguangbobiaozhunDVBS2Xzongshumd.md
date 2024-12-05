@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第三代DVB卫星电视广播标准DVB-S2X综述"
+title: "第三代DVB卫星电视广播标准DVBS2X综述"
 date:   2021-02-25
 tags: [DVB,S2X,电视广播,卫星,文件]
 comments: true

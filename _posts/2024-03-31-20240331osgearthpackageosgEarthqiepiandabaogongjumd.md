@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osgearth_package：osgEarth切片打包工具"
+title: "osgearthpackageosgEarth切片打包工具"
 date:   2020-11-24
 tags: [切片,osgearth,package,osgEarth,TMS]
 comments: true

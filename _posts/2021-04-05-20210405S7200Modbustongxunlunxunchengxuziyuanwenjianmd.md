@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 Modbus 通讯轮询程序资源文件"
+title: "S7200 Modbus 通讯轮询程序资源文件"
 date:   2020-07-27
 tags: [S7,轮询,200,Modbus,通讯]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麦克风阵列声源定位 - 基于Matlab的高效实现"
+title: "麦克风阵列声源定位  基于Matlab的高效实现"
 date:   2021-01-01
 tags: [声源,Matlab,麦克风,阵列,定位]
 comments: true

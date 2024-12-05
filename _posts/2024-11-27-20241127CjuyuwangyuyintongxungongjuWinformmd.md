@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 局域网语音通讯工具 (Winform)"
+title: "C 局域网语音通讯工具 Winform"
 date:   2020-12-01
 tags: [语音,局域网,Winform,通讯,项目]
 comments: true

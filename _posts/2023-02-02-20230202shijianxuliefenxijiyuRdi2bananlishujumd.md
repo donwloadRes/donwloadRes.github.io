@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列分析——基于R（第2版）案例数据"
+title: "时间序列分析基于R第2版案例数据"
 date:   2024-02-20
 tags: [仓库,序列,示例,案例,文件]
 comments: true

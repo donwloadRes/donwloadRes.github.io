@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 19c 升级时区版本 32->42，解决数据泵导数据 TSTZ 报错"
+title: "Oracle 19c 升级时区版本 3242解决数据泵导数据 TSTZ 报错"
 date:   2020-04-10
 tags: [升级,数据库,版本,时区,报错]
 comments: true

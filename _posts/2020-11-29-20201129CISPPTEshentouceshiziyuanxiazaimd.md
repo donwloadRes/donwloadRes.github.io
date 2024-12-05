@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP-PTE渗透测试资源下载"
+title: "CISPPTE渗透测试资源下载"
 date:   2020-04-27
 tags: [考试,CISP,PTE,题库,资源]
 comments: true

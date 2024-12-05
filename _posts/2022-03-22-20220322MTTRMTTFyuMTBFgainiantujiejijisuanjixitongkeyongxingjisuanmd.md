@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTTR、MTTF与MTBF概念图解及计算机系统可用性计算"
+title: "MTTRMTTF与MTBF概念图解及计算机系统可用性计算"
 date:   2023-07-26
 tags: [MTTF,MTTR,---,MTBF,系统]
 comments: true

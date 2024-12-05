@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE3.0 TX信号一致性测试资源文件介绍"
+title: "PCIE30 TX信号一致性测试资源文件介绍"
 date:   2022-08-31
 tags: [PCIE3.0,TX,测试,一致性,信号]
 comments: true

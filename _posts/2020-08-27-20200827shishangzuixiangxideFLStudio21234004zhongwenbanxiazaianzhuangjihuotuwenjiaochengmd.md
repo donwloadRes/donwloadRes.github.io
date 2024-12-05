@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最详细的FL Studio 21.2.3.4004中文版下载安装激活图文教程"
+title: "史上最详细的FL Studio 21234004中文版下载安装激活图文教程"
 date:   2022-10-10
 tags: [FL,Studio,教程,3.4004,激活]
 comments: true

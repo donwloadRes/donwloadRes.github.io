@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenVPX_VITA 65-2010标准协议.pdf"
+title: "OpenVPXVITA 652010标准协议pdf"
 date:   2023-08-19
 tags: [OpenVPX,VPX,2010,系统,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南京市行政区划分（精确到街道）shp资源说明"
+title: "南京市行政区划分精确到街道shp资源说明"
 date:   2023-11-30
 tags: [GIS,街道,shp,南京市,使用]
 comments: true

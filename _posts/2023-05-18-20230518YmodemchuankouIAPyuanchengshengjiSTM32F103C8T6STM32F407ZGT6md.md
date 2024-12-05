@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ymodem串口IAP远程升级（STM32F103C8T6 & STM32F407ZGT6）"
+title: "Ymodem串口IAP远程升级STM32F103C8T6  STM32F407ZGT6"
 date:   2021-12-13
 tags: [升级,Ymodem,固件,远程,串口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 4.0规范资源库"
+title: "PCIe 40规范资源库"
 date:   2023-04-19
 tags: [PCIe,4.0,PCI,文档,Express]
 comments: true

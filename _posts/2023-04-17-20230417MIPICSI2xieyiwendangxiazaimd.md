@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 协议文档下载"
+title: "MIPI CSI2 协议文档下载"
 date:   2022-05-28
 tags: [MIPI,CSI,文档,协议,2018]
 comments: true

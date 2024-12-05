@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "力控组态软件 7.1 版本"
+title: "力控组态软件 71 版本"
 date:   2020-03-19
 tags: [软件,组态,力控,注册机,7.1]
 comments: true

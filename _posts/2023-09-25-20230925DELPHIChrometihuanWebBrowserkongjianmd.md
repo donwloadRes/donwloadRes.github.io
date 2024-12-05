@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELPHI+Chrome 替换 WebBrowser 控件"
+title: "DELPHIChrome 替换 WebBrowser 控件"
 date:   2020-08-17
 tags: [控件,Chrome,WebBrowser,浏览器,程序]
 comments: true

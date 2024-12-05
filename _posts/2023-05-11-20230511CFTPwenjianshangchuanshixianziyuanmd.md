@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ FTP文件上传实现资源"
+title: "C FTP文件上传实现资源"
 date:   2024-06-29
 tags: [FTP,上传,C++,TestFtpUpload,zip]
 comments: true

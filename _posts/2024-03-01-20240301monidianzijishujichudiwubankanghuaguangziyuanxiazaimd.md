@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术基础（第五版 康华光）资源下载"
+title: "模拟电子技术基础第五版 康华光资源下载"
 date:   2020-12-19
 tags: [第五版,华光,模拟,电子,下载]
 comments: true

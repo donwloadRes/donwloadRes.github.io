@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏并网逆变器通用LCL滤波器的设计 (2013年)"
+title: "光伏并网逆变器通用LCL滤波器的设计 2013年"
 date:   2022-11-04
 tags: [逆变器,滤波器,LCL,并网,设计]
 comments: true

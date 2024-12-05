@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024北森题库（附答案）资源下载"
+title: "2024北森题库附答案资源下载"
 date:   2021-06-07
 tags: [题库,答案,2024,北森,题目]
 comments: true

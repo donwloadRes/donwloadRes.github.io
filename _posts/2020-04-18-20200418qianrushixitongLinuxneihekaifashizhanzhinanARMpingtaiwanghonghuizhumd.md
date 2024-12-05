@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统Linux内核开发实战指南(ARM平台) - 王洪辉著"
+title: "嵌入式系统Linux内核开发实战指南ARM平台  王洪辉著"
 date:   2024-06-05
 tags: [Linux,内核,ARM,嵌入式,开发]
 comments: true

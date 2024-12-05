@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware15.1安装苹果系统mac10.15.3（图解）资源文件介绍"
+title: "VMware151安装苹果系统mac10153图解资源文件介绍"
 date:   2023-12-29
 tags: [macOS,VMware,虚拟机,安装,系统]
 comments: true

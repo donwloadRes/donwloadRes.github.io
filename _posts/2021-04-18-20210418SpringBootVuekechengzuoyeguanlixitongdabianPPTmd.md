@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue课程作业管理系统答辩PPT"
+title: "SpringBootVue课程作业管理系统答辩PPT"
 date:   2021-12-04
 tags: [PPT,答辩,SpringBoot,Vue,演示]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RealityCapture 3D扫描制作软件（特别版）"
+title: "RealityCapture 3D扫描制作软件特别版"
 date:   2024-08-12
 tags: [3D,软件,特别版,RealityCapture,建模]
 comments: true

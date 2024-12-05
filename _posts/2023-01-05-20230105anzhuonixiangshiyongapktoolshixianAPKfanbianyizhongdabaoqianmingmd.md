@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓逆向：使用apktool实现APK反编译、重打包、签名"
+title: "安卓逆向使用apktool实现APK反编译重打包签名"
 date:   2023-02-27
 tags: [APK,apktool,文件,反编译,工具]
 comments: true

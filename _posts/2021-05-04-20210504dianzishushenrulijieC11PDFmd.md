@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子书：深入理解C++11（PDF）"
+title: "电子书深入理解C11PDF"
 date:   2021-12-13
 tags: [C++,11,特性,PDF,学习]
 comments: true

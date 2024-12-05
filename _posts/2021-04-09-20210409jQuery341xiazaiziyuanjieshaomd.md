@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery-3.4.1 下载资源介绍"
+title: "jQuery341 下载资源介绍"
 date:   2022-07-04
 tags: [jQuery,3.4,文件,资源,jquery]
 comments: true

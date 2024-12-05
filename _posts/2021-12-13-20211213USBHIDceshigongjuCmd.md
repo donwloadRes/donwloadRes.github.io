@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB HID测试工具(C#)"
+title: "USB HID测试工具C"
 date:   2023-01-31
 tags: [HID,测试工具,USB,C#,zip]
 comments: true

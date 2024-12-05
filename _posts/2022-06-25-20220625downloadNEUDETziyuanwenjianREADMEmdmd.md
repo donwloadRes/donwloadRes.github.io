@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "download-NEU-DET资源文件 README.md"
+title: "downloadNEUDET资源文件 READMEmd"
 date:   2020-06-14
 tags: [NEU,download,DET,资源,东北大学]
 comments: true

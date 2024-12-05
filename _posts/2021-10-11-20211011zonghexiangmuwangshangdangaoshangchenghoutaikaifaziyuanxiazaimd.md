@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "综合项目-网上蛋糕商城（后台开发）资源下载"
+title: "综合项目网上蛋糕商城后台开发资源下载"
 date:   2020-05-12
 tags: [后台,蛋糕,商城,项目,开发]
 comments: true

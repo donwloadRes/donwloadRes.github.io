@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rufus 3.17 安装程序 - 重装 Ubuntu 系统"
+title: "Rufus 317 安装程序  重装 Ubuntu 系统"
 date:   2023-10-17
 tags: [Rufus,Ubuntu,3.17,USB,安装程序]
 comments: true

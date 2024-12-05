@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科微北斗+GPS模块经纬度数据解析详细教程"
+title: "中科微北斗GPS模块经纬度数据解析详细教程"
 date:   2021-10-21
 tags: [GPS,串口,经纬度,解析,教程]
 comments: true

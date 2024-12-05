@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAR-CCM+中文案例教程"
+title: "STARCCM中文案例教程"
 date:   2023-04-12
 tags: [STAR,CCM,教程,用户,文件]
 comments: true

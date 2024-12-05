@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UBIN - 单片机 BIN 文件合并工具 v1.0"
+title: "UBIN  单片机 BIN 文件合并工具 v10"
 date:   2020-10-02
 tags: [BIN,文件,单片机,合并,UBIN]
 comments: true

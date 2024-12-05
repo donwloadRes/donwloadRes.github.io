@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATX规范-版本2.2(英文版) 资源文件介绍"
+title: "ATX规范版本22英文版 资源文件介绍"
 date:   2021-07-03
 tags: [ATX,规范,文件,2.2,英文版]
 comments: true

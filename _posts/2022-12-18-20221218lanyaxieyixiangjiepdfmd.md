@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙协议详解.pdf"
+title: "蓝牙协议详解pdf"
 date:   2021-12-16
 tags: [蓝牙,技术,BLE,协议,低功耗]
 comments: true

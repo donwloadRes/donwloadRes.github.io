@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revit二次开发：读取CAD信息并生成构件"
+title: "Revit二次开发读取CAD信息并生成构件"
 date:   2021-10-06
 tags: [Revit,CAD,读取,案例,二次开发]
 comments: true

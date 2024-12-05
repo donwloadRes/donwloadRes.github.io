@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows平台Dig-Bind-9.16.16 下载仓库"
+title: "Windows平台DigBind91616 下载仓库"
 date:   2022-11-26
 tags: [Windows,dig,Dig,Bind,9.16]
 comments: true

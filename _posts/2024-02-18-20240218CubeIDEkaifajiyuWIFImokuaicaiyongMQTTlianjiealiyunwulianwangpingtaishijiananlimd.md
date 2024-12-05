@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CubeIDE开发：基于WIFI模块采用MQTT连接阿里云物联网平台实践案例"
+title: "CubeIDE开发基于WIFI模块采用MQTT连接阿里云物联网平台实践案例"
 date:   2022-07-31
 tags: [MQTT,云物,WIFI,CubeIDE,模块]
 comments: true

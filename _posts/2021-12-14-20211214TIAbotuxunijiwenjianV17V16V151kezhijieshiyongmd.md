@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIA博途虚拟机文件(V17+V16+V15.1 可直接使用)"
+title: "TIA博途虚拟机文件V17V16V151 可直接使用"
 date:   2020-09-04
 tags: [虚拟机,解压,版本,TIA,7zip]
 comments: true

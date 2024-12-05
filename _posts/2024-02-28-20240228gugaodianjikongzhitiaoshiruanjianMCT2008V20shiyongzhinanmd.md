@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固高电机控制调试软件 MCT2008 V2.0 使用指南"
+title: "固高电机控制调试软件 MCT2008 V20 使用指南"
 date:   2020-04-25
 tags: [MCT2008,控制,调试,固高,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装并卸载WPS后，导致Office COM组件调用失败的解决方案"
+title: "安装并卸载WPS后导致Office COM组件调用失败的解决方案"
 date:   2023-11-16
 tags: [WPS,卸载,Office,0000,注册表]
 comments: true

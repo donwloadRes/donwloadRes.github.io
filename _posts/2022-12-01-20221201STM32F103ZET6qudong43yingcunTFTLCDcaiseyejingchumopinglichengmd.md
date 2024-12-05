@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103ZET6 驱动4.3英寸TFT LCD彩色液晶触摸屏例程"
+title: "STM32F103ZET6 驱动43英寸TFT LCD彩色液晶触摸屏例程"
 date:   2020-05-03
 tags: [TFT,LCD,4.3,例程,触摸屏]
 comments: true

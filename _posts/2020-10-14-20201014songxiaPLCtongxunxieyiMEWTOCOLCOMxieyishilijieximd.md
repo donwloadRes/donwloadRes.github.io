@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "松下PLC通讯协议MEWTOCOL-COM协议实例解析"
+title: "松下PLC通讯协议MEWTOCOLCOM协议实例解析"
 date:   2024-07-17
 tags: [PLC,松下,协议,MEWTOCOL,COM]
 comments: true

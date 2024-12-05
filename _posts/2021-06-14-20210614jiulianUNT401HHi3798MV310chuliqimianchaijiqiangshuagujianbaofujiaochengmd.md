@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "九联UNT401H-Hi3798MV310处理器免拆及强刷固件包附教程"
+title: "九联UNT401HHi3798MV310处理器免拆及强刷固件包附教程"
 date:   2022-03-11
 tags: [刷机,固件,教程,拆及,强刷]
 comments: true

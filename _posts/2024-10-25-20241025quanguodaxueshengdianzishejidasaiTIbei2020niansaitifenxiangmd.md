@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国大学生电子设计大赛-TI杯2020年赛题分享"
+title: "全国大学生电子设计大赛TI杯2020年赛题分享"
 date:   2021-09-10
 tags: [赛题,电子设计,TI,2020,大赛]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UL认证61010-1标准资源下载"
+title: "UL认证610101标准资源下载"
 date:   2021-04-12
 tags: [UL,61010,标准,电气设备,认证]
 comments: true

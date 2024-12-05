@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT698协议上位机通讯软件—V1.000 资源介绍"
+title: "DLT698协议上位机通讯软件V1000 资源介绍"
 date:   2023-08-13
 tags: [电表,DLT698,软件,V1.000,抄读]
 comments: true

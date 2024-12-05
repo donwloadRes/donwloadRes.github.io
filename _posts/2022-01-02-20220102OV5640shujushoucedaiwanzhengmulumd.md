@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OV5640 数据手册（带完整目录）"
+title: "OV5640 数据手册带完整目录"
 date:   2022-06-20
 tags: [OV5640,目录,PDF,摄像头,手册]
 comments: true

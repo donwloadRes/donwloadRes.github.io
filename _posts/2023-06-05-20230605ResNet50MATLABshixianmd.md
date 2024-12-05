@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ResNet-50 MATLAB 实现"
+title: "ResNet50 MATLAB 实现"
 date:   2022-07-15
 tags: [ResNet,分类,图像,50,MATLAB]
 comments: true

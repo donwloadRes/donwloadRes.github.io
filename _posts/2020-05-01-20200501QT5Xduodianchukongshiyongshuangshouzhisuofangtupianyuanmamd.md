@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.X多点触控使用双手指缩放图片源码"
+title: "QT5X多点触控使用双手指缩放图片源码"
 date:   2021-08-07
 tags: [触控,多点,源码,缩放,触摸屏]
 comments: true

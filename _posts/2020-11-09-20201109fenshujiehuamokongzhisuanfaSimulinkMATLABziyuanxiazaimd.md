@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分数阶滑模控制算法 - Simulink MATLAB 资源下载"
+title: "分数阶滑模控制算法  Simulink MATLAB 资源下载"
 date:   2021-05-25
 tags: [控制算法,阶滑模,Simulink,分数,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 2020标准文档下载仓库"
+title: "C 2020标准文档下载仓库"
 date:   2023-09-18
 tags: [文档,C++,2020,下载,仓库]
 comments: true

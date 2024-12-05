@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC MX Component 64位示例程序（中文版）"
+title: "三菱PLC MX Component 64位示例程序中文版"
 date:   2020-09-12
 tags: [MX,示例,64,控件,PLC]
 comments: true

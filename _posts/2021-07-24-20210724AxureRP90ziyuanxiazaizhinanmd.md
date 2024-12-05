@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure RP 9.0资源下载指南"
+title: "Axure RP 90资源下载指南"
 date:   2024-02-10
 tags: [Axure,RP,9.0,元件库,实用教程]
 comments: true

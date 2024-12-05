@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "训练自己的GPT2-Chinese模型"
+title: "训练自己的GPT2Chinese模型"
 date:   2020-06-07
 tags: [训练,模型,GPT2,文本,Chinese]
 comments: true

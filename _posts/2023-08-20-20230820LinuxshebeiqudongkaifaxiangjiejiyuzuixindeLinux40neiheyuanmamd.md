@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux设备驱动开发详解 - 基于最新的Linux 4.0内核源码"
+title: "Linux设备驱动开发详解  基于最新的Linux 40内核源码"
 date:   2022-08-23
 tags: [Linux,内核,驱动,源码,4.0]
 comments: true

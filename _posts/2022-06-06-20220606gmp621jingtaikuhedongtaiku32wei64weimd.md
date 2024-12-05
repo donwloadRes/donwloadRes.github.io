@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gmp-6.2.1 静态库和动态库(32位，64位)"
+title: "gmp621 静态库和动态库32位64位"
 date:   2022-04-21
 tags: [SDL,6.2,32,64,GMP]
 comments: true

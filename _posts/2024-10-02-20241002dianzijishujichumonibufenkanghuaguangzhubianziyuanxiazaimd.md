@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术基础模拟部分（康华光主编）资源下载"
+title: "电子技术基础模拟部分康华光主编资源下载"
 date:   2020-02-16
 tags: [PDF,华光,模拟,下载,电子]
 comments: true

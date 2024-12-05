@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用自建kinetics-skeleton行为识别数据集训练st-gcn网络流程记录"
+title: "用自建kineticsskeleton行为识别数据集训练stgcn网络流程记录"
 date:   2023-07-25
 tags: [训练,st,gcn,kinetics,skeleton]
 comments: true

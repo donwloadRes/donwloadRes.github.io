@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论基础第2版》答案 PDF 扫描版 英文版"
+title: "信息论基础第2版答案 PDF 扫描版 英文版"
 date:   2020-01-13
 tags: [PDF,信息论,扫描,英文版,答案]
 comments: true

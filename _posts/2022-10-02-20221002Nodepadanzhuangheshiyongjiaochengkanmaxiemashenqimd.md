@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nodepad++安装和使用教程【看码写码神器】"
+title: "Nodepad安装和使用教程看码写码神器"
 date:   2022-11-09
 tags: [Nodepad,++,教程,功能,安装]
 comments: true

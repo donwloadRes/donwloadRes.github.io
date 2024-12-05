@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的ADC采样及各式滤波实现（HAL库）"
+title: "基于STM32的ADC采样及各式滤波实现HAL库"
 date:   2024-03-23
 tags: [滤波,STM32,ADC,HAL,滤波器]
 comments: true

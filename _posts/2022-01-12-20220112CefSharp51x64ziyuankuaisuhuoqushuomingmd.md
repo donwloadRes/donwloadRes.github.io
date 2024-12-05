@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CefSharp51-x64 资源快速获取说明"
+title: "CefSharp51x64 资源快速获取说明"
 date:   2023-07-21
 tags: [x64,CefSharp,CefSharp51,资源,获取]
 comments: true

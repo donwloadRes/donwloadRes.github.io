@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSKLadder_V3.3(新988TA) 资源文件下载"
+title: "GSKLadderV33新988TA 资源文件下载"
 date:   2020-04-20
 tags: [988TA,V3.3,GSKLadder,文件,zip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯嵌入式——RTC 工程文件"
+title: "蓝桥杯嵌入式RTC 工程文件"
 date:   2022-10-09
 tags: [RTC,嵌入式,文件,工程,蓝桥]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速PCB+PCIE5.0+Layout 方法资源下载"
+title: "高速PCBPCIE50Layout 方法资源下载"
 date:   2024-01-09
 tags: [PCIE5.0,Layout,设计,PCB,高速]
 comments: true

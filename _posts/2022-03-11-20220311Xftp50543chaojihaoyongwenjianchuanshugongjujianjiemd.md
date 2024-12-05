@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xftp_5.0.543 超级好用文件传输工具简介"
+title: "Xftp50543 超级好用文件传输工具简介"
 date:   2024-01-29
 tags: [Xftp,文件传输,5.0,543,安全性]
 comments: true

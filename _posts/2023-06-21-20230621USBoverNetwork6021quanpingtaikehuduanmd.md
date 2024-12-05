@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB over Network 6.0.21全平台客户端"
+title: "USB over Network 6021全平台客户端"
 date:   2020-09-02
 tags: [USB,客户端,Linux,over,Network]
 comments: true

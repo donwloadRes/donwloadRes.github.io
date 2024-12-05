@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO3-With-OpenCvSharp4：在C#上使用OpenCvSharp v4实现YOLO v3的演示"
+title: "YOLO3WithOpenCvSharp4在C上使用OpenCvSharp v4实现YOLO v3的演示"
 date:   2021-08-28
 tags: [C#,OpenCvSharp4,YOLO,v3,演示]
 comments: true

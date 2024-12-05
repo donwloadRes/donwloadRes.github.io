@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# + SQL Server 医院管理系统（电子病历系统）源码"
+title: "C  SQL Server 医院管理系统电子病历系统源码"
 date:   2020-10-20
 tags: [SQL,Server,数据库,修改,管理]
 comments: true

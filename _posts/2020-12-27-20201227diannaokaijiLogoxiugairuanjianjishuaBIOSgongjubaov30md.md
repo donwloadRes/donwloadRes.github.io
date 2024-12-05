@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑开机Logo修改软件及刷BIOS工具包 v3.0"
+title: "电脑开机Logo修改软件及刷BIOS工具包 v30"
 date:   2020-05-18
 tags: [BIOS,开机,Logo,工具包,电脑]
 comments: true

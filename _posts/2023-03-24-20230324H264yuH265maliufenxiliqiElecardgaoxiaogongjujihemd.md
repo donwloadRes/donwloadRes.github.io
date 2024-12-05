@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H264与H265码流分析利器：Elecard高效工具集合"
+title: "H264与H265码流分析利器Elecard高效工具集合"
 date:   2020-09-17
 tags: [码流,H.264,编码,工具,Elecard]
 comments: true

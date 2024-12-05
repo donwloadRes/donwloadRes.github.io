@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 版本 Xmodem 协议发送端帮助类"
+title: "C 版本 Xmodem 协议发送端帮助类"
 date:   2021-03-22
 tags: [Xmodem,发送,C#,帮助,文件传输]
 comments: true

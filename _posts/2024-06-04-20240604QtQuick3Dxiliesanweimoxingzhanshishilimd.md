@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Quick 3D系列：三维模型展示示例"
+title: "Qt Quick 3D系列三维模型展示示例"
 date:   2023-04-26
 tags: [示例,模型,Qt,三维,Quick]
 comments: true

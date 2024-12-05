@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白指南：MySQL 5.7 非安装版配置教程与资源分享"
+title: "小白指南MySQL 57 非安装版配置教程与资源分享"
 date:   2020-11-27
 tags: [MySQL,5.7,mysql,---,ini]
 comments: true

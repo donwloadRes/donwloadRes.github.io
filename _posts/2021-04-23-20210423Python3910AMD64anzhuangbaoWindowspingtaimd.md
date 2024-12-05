@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.9.10 AMD64 安装包 (Windows平台)"
+title: "Python 3910 AMD64 安装包 Windows平台"
 date:   2023-10-30
 tags: [Python,安装,3.9,10,Windows]
 comments: true

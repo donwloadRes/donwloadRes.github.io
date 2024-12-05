@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青龙羊毛——顺丰科勒（搬运）"
+title: "青龙羊毛顺丰科勒搬运"
 date:   2024-06-09
 tags: [脚本,顺丰,科勒,js,活动]
 comments: true

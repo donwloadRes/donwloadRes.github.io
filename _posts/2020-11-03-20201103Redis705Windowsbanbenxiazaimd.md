@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 7.0.5 Windows版本下载"
+title: "Redis 705 Windows版本下载"
 date:   2020-08-27
 tags: [Redis,Windows,版本,7.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-J 8.0.33 驱动包"
+title: "MySQL ConnectorJ 8033 驱动包"
 date:   2020-11-28
 tags: [MySQL,33,mysql,8.0,Java]
 comments: true

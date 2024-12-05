@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理第五版（胡寿松）资源下载"
+title: "自动控制原理第五版胡寿松资源下载"
 date:   2020-07-06
 tags: [第五版,胡寿松,自动控制,仓库,下载]
 comments: true

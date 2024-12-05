@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python + OpenCV 识别滑块验证码滑块位置"
+title: "Python  OpenCV 识别滑块验证码滑块位置"
 date:   2024-02-29
 tags: [滑块,验证码,Python,OpenCV,脚本]
 comments: true

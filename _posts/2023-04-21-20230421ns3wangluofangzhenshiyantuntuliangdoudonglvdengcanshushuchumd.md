@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ns-3 网络仿真：时延、吞吐量、抖动率等参数输出"
+title: "ns3 网络仿真时延吞吐量抖动率等参数输出"
 date:   2024-04-18
 tags: [仿真,ns,时延,网络,抖动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡尔曼滤波理论与实践（MATLAB版）代码资源"
+title: "卡尔曼滤波理论与实践MATLAB版代码资源"
 date:   2024-07-26
 tags: [卡尔曼滤波,代码,MATLAB,仓库,资源]
 comments: true

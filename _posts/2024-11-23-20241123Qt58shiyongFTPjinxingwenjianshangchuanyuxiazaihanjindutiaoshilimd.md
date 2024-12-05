@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.8使用FTP进行文件上传与下载（含进度条示例）"
+title: "Qt58使用FTP进行文件上传与下载含进度条示例"
 date:   2022-04-13
 tags: [Qt,FTP,示例,5.8,上传]
 comments: true

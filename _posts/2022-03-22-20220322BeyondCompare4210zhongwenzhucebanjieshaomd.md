@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond Compare 4.2.10 中文注册版介绍"
+title: "Beyond Compare 4210 中文注册版介绍"
 date:   2024-11-16
 tags: [10,文件,对比,Beyond,Compare]
 comments: true

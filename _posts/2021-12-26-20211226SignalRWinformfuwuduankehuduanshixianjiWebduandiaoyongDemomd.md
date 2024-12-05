@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SignalR Winform服务端、客户端实现及Web端调用Demo"
+title: "SignalR Winform服务端客户端实现及Web端调用Demo"
 date:   2021-02-11
 tags: [服务端,SignalR,Web,Winform,客户端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADSP-21489中文数据手册"
+title: "ADSP21489中文数据手册"
 date:   2024-01-28
 tags: [ADSP,21489,手册,中文,音频]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.4 软件安装指南"
+title: "ArcGIS 104 软件安装指南"
 date:   2021-07-21
 tags: [安装,ArcGIS,10.4,Server,Desktop]
 comments: true

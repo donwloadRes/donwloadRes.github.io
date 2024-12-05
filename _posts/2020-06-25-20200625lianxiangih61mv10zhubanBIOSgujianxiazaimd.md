@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想ih61m v1.0 主板BIOS固件下载"
+title: "联想ih61m v10 主板BIOS固件下载"
 date:   2020-02-29
 tags: [BIOS,固件,刷写,ih61m,v1.0]
 comments: true

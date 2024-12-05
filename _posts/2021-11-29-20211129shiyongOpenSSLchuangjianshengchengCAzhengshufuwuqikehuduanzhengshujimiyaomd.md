@@ -1,6 +1,48 @@
 ---
 layout: post
-title: "使用 OpenSSL 创建生成 CA 证书、服务器客户端证书及密钥"
+title: "使用 OpenSSL 创建生成 CA 证书服务器客户端证书及密钥
+date   20231116
+tags 证书客户端OpenSSL服务器CA
+comments true
+author admin
+
+ 使用 OpenSSL 创建生成 CA 证书服务器客户端证书及密钥
+
+在构建安全的网络通信环境时OpenSSL 是一个不可或缺的工具本资源文件详细指导您如何利用 OpenSSL 库来生成和管理数字证书私钥以及实现客户端与服务器间的双向身份验证双向认证是一种增强的安全措施确保不仅服务器验证客户端的身份客户端也验证服务器的身份从而防止中间人攻击等安全威胁
+
+ 目录
+
+1 OpenSSL简介
+2 环境准备
+3 创建自签名的根证书CA证书
+4 生成服务器端证书和密钥
+5 生成客户端证书和密钥
+6 配置服务器和客户端以使用这些证书
+7 实施双向认证
+8 常见问题解答
+
+ 1 OpenSSL简介
+
+OpenSSL是一个强大的安全套接字层密码库包含各种加密算法常用的密钥和证书封装管理功能以及TLSSSL协议的实现它是开源软件广泛应用于Web服务器客户端程序以及其他需要加密通信的应用场景
+
+ 2 环境准备
+
+确保您的系统已经安装了OpenSSL可以通过命令行输入 openssl version 来检查是否已安装及其版本
+
+ 38 步骤详述
+
+ 3 创建自签名的根证书CA证书
+
+ 使用 req 命令不指定 extensions v3ca 即可
+bash
+openssl req x509 newkey rsa2048 nodes keyout cakey out cacrt days 3650 subj CNMyRootCA
+
+
+ 4 生成服务器端证书和密钥
+
+ 服务器请求文件
+bash
+openssl req new key serverkey out servercsr subj CNserverexamplecom"
 date:   2023-11-16
 tags: [证书,客户端,OpenSSL,服务器,CA]
 comments: true

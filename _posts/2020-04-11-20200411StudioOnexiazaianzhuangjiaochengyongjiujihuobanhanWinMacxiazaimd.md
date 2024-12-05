@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 下载安装教程永久激活版（含Win-Mac下载）"
+title: "Studio One 下载安装教程永久激活版含WinMac下载"
 date:   2020-01-10
 tags: [教程,软件,Studio,激活,下载]
 comments: true

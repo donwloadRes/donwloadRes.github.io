@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S参数入门教程：S11、S21、S31、S41详解"
+title: "S参数入门教程S11S21S31S41详解"
 date:   2023-03-23
 tags: [参数,S11,S21,S31,S41]
 comments: true

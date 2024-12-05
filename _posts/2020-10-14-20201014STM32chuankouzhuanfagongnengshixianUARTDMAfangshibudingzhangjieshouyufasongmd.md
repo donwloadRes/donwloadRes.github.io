@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口转发功能实现：UART DMA方式不定长接收与发送"
+title: "STM32串口转发功能实现UART DMA方式不定长接收与发送"
 date:   2024-04-08
 tags: [串口,发送,单片机,接收,数据]
 comments: true

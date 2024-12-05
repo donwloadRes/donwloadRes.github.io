@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-IDF平台 MPU6050 测试工程"
+title: "ESP32IDF平台 MPU6050 测试工程"
 date:   2023-06-22
 tags: [IDF,MPU6050,ESP32,烧录,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT - QSortFilterProxyModel代理实现排序与多列过滤"
+title: "QT  QSortFilterProxyModel代理实现排序与多列过滤"
 date:   2022-09-04
 tags: [过滤,QSortFilterProxyModel,多列,排序,示例]
 comments: true

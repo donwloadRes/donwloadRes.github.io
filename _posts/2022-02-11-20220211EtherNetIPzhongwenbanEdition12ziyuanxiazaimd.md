@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherNet-IP（中文版）Edition1.2 资源下载"
+title: "EtherNetIP中文版Edition12 资源下载"
 date:   2022-03-22
 tags: [EtherNet,IP,Edition1.2,中文版,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWS-SAA-C03助理架构师认证考试题库"
+title: "AWSSAAC03助理架构师认证考试题库"
 date:   2024-09-14
 tags: [AWS,题库,架构师,考试,SAA]
 comments: true

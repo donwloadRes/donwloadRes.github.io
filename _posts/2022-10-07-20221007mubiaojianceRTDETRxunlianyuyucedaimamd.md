@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测+RTDETR+训练与预测代码"
+title: "目标检测RTDETR训练与预测代码"
 date:   2020-07-11
 tags: [训练,预测,代码,文件,RTDETR]
 comments: true

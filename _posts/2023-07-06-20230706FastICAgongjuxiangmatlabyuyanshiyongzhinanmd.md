@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastICA工具箱-matlab语言使用指南"
+title: "FastICA工具箱matlab语言使用指南"
 date:   2023-10-08
 tags: [工具箱,FastICA,Matlab,示例,算法]
 comments: true

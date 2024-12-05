@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习(周志华)》学习笔记下载"
+title: "机器学习周志华学习笔记下载"
 date:   2021-01-24
 tags: [学习,周志华,笔记,机器,一书]
 comments: true

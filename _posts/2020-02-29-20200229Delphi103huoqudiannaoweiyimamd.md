@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.3 获取电脑唯一码"
+title: "Delphi 103 获取电脑唯一码"
 date:   2023-12-12
 tags: [Delphi,10.3,源代码,Windows,兼容性]
 comments: true

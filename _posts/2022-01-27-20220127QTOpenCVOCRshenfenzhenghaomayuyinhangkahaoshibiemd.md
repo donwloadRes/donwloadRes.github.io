@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenCV+OCR 身份证号码与银行卡号识别"
+title: "QTOpenCVOCR 身份证号码与银行卡号识别"
 date:   2024-12-03
 tags: [识别,QT,图像,OCR,OpenCV]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙CX-ONE序列号资源文件"
+title: "欧姆龙CXONE序列号资源文件"
 date:   2020-01-08
 tags: [序列号,欧姆龙,CX,文件,doc]
 comments: true

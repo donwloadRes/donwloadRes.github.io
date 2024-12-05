@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用数学手册(第2版) 下载仓库"
+title: "实用数学手册第2版 下载仓库"
 date:   2020-04-12
 tags: [手册,数学,实用,PDF,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark使用教程用户手册(超清晰版)"
+title: "Wireshark使用教程用户手册超清晰版"
 date:   2023-05-24
 tags: [Wireshark,数据包,用户手册,使用,清晰版]
 comments: true

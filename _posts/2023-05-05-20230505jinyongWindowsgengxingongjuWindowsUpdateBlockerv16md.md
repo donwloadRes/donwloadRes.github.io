@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "禁用Windows更新工具 Windows Update Blocker v1.6"
+title: "禁用Windows更新工具 Windows Update Blocker v16"
 date:   2022-07-18
 tags: [Windows,禁用,工具,更新,v1.6]
 comments: true

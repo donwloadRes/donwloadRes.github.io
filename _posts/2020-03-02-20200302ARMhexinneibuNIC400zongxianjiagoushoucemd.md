@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM核心内部NIC-400总线架构手册"
+title: "ARM核心内部NIC400总线架构手册"
 date:   2024-04-02
 tags: [ARM,NIC,400,总线,架构]
 comments: true

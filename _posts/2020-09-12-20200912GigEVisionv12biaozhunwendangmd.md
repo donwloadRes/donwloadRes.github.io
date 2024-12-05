@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GigE Vision v1.2 标准文档"
+title: "GigE Vision v12 标准文档"
 date:   2024-04-19
 tags: [GigE,Vision,文档,标准,v1.2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9 串口调试助手上位机程序"
+title: "QT59 串口调试助手上位机程序"
 date:   2021-02-17
 tags: [串口,源码,调试,QT5.9,助手]
 comments: true

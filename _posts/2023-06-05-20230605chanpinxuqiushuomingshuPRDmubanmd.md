@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "产品需求说明书（PRD）模板"
+title: "产品需求说明书PRD模板"
 date:   2022-08-26
 tags: [模板,需求,说明书,PRD,产品]
 comments: true

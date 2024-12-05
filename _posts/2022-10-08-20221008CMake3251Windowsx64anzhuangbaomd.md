@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake 3.25.1 Windows x64 安装包"
+title: "CMake 3251 Windows x64 安装包"
 date:   2022-09-06
 tags: [CMake,安装,3.25,Windows,64]
 comments: true

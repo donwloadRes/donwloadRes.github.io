@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超简单！本地部署Stable Diffusion绘图环境教程"
+title: "超简单本地部署Stable Diffusion绘图环境教程"
 date:   2023-08-11
 tags: [教程,Stable,Diffusion,绘图,安装]
 comments: true

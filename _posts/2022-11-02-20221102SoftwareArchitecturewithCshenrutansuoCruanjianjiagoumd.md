@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Architecture with C++: 深入探索C++软件架构"
+title: "Software Architecture with C 深入探索C软件架构"
 date:   2020-07-24
 tags: [C++,软件架构,Software,Architecture,pdf]
 comments: true

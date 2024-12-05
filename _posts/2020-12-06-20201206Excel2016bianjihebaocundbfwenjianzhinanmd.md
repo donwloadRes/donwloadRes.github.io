@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel2016编辑和保存.dbf文件指南"
+title: "Excel2016编辑和保存dbf文件指南"
 date:   2022-04-17
 tags: [dbf,Excel,插件,编辑,文件]
 comments: true

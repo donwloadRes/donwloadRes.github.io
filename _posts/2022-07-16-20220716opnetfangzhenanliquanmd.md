@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opnet仿真案例（全）"
+title: "opnet仿真案例全"
 date:   2024-01-13
 tags: [仿真,网络,Opnet,案例,学习]
 comments: true

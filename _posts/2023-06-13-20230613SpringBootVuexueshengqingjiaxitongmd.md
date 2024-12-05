@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + Vue 学生请假系统"
+title: "SpringBoot  Vue 学生请假系统"
 date:   2020-05-25
 tags: [辅导员,数据库,学生,请假,MySQL]
 comments: true

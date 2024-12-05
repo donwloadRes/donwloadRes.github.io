@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence高速电路设计Allegro Sigrity SI-PI-EMI设计指南"
+title: "Cadence高速电路设计Allegro Sigrity SIPIEMI设计指南"
 date:   2020-07-10
 tags: [Cadence,电路设计,Allegro,Sigrity,PI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMOS—D触发器原理资源下载"
+title: "CMOSD触发器原理资源下载"
 date:   2020-09-27
 tags: [触发器,CMOS,原理,文件,资源]
 comments: true

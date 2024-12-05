@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NIST零信任架构SP 800-207 标准草案（中文版）下载仓库"
+title: "NIST零信任架构SP 800207 标准草案中文版下载仓库"
 date:   2023-08-02
 tags: [架构,NIST,207,信任,SP]
 comments: true

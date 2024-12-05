@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE 6.0 规范文档下载"
+title: "PCIE 60 规范文档下载"
 date:   2021-04-29
 tags: [6.0,PCIE,文档,下载,规范]
 comments: true

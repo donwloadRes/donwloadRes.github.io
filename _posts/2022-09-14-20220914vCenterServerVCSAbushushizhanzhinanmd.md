@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vCenter Server (VCSA) 部署实战指南"
+title: "vCenter Server VCSA 部署实战指南"
 date:   2021-02-12
 tags: [vCenter,Server,虚拟化,部署,指南]
 comments: true

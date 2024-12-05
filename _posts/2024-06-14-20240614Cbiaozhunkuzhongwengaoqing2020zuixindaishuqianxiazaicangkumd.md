@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 标准库 中文 高清 (2020最新带书签) 下载仓库"
+title: "C 标准库 中文 高清 2020最新带书签 下载仓库"
 date:   2024-03-31
 tags: [C++,书签,标准,2020,高清]
 comments: true

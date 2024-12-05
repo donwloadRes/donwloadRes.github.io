@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制：理论与设计"
+title: "模型预测控制理论与设计"
 date:   2021-03-24
 tags: [模型,预测,控制,Model,Predictive]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子制造执行系统（MES）资源下载"
+title: "西门子制造执行系统MES资源下载"
 date:   2022-12-06
 tags: [MES,西门子,制造执行系统,应用,资源]
 comments: true

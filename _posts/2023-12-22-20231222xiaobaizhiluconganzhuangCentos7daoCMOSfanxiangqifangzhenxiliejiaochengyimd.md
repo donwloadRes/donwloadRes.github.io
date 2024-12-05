@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白指路：从安装Centos7到CMOS反相器仿真系列教程（一）"
+title: "小白指路从安装Centos7到CMOS反相器仿真系列教程一"
 date:   2023-03-10
 tags: [教程,安装,反相器,虚拟机,Centos7]
 comments: true

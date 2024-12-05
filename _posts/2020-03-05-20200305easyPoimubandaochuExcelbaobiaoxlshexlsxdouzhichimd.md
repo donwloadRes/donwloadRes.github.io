@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "easyPoi模板导出Excel报表(xls 和xlsx 都支持)"
+title: "easyPoi模板导出Excel报表xls 和xlsx 都支持"
 date:   2023-08-08
 tags: [Excel,模板,导出,文件,xls]
 comments: true

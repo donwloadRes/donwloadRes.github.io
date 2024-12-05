@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEF115.0.5790.102 Windows 非官方编译版本（支持MP4, MP3等）"
+title: "CEF11505790102 Windows 非官方编译版本支持MP4 MP3等"
 date:   2022-05-28
 tags: [编译,版本,5790.102,非官方,MP4]
 comments: true

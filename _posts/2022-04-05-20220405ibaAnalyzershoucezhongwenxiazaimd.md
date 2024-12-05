@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ibaAnalyzer手册（中文）下载"
+title: "ibaAnalyzer手册中文下载"
 date:   2021-04-09
 tags: [ibaAnalyzer,手册,中文,本手册,下载]
 comments: true

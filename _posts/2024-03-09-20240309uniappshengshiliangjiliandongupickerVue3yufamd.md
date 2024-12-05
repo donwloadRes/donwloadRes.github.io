@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp 省市两级联动 u-picker (Vue3语法)"
+title: "uniapp 省市两级联动 upicker Vue3语法"
 date:   2024-02-20
 tags: [const,value,picker,uniapp,ref]
 comments: true

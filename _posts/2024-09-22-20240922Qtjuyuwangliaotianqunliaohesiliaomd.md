@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt局域网聊天(群聊和私聊)"
+title: "Qt局域网聊天群聊和私聊"
 date:   2024-04-10
 tags: [私聊,用户,局域网,群聊,功能]
 comments: true

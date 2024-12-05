@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库+CubeMX实现Stm32串口不定长接收"
+title: "HAL库CubeMX实现Stm32串口不定长接收"
 date:   2024-03-22
 tags: [串口,HAL,CubeMX,接收,不定]
 comments: true

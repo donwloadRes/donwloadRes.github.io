@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言超级皮肤模块 (2000多个皮肤)"
+title: "易语言超级皮肤模块 2000多个皮肤"
 date:   2022-10-15
 tags: [易语言,皮肤,模块,2000,资源]
 comments: true

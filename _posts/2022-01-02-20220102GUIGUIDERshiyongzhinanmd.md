@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GUI_GUIDER使用指南"
+title: "GUIGUIDER使用指南"
 date:   2022-10-19
 tags: [GUI,GUIDER,LVGL,设计,移植]
 comments: true

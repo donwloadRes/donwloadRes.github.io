@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle数据库试题100题(附答案)"
+title: "Oracle数据库试题100题附答案"
 date:   2021-05-03
 tags: [数据库,试题,Oracle,100,答案]
 comments: true

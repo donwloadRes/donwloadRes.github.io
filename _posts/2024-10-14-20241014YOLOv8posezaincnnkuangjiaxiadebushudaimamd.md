@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8-pose在ncnn框架下的部署代码"
+title: "YOLOv8pose在ncnn框架下的部署代码"
 date:   2020-07-05
 tags: [ncnn,模型,YOLOv8,pose,部署]
 comments: true

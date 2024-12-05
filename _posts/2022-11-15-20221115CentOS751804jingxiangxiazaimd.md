@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.5 1804 镜像下载"
+title: "CentOS 75 1804 镜像下载"
 date:   2024-07-09
 tags: [CentOS,镜像文件,7.5,1804,版本]
 comments: true

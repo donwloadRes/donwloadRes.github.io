@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "将TIFF格式图片转换为PNG、JPG、BMP等可视化格式（附代码）"
+title: "将TIFF格式图片转换为PNGJPGBMP等可视化格式附代码"
 date:   2022-05-13
 tags: [代码,TIFF,格式,raw,图片]
 comments: true

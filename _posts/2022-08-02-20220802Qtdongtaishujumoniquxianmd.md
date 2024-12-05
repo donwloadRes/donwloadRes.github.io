@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt（动态数据模拟）曲线"
+title: "Qt动态数据模拟曲线"
 date:   2020-08-14
 tags: [Qt,动态数据,数据,模拟,曲线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 修复工具"
+title: "Microsoft Visual C 修复工具"
 date:   2021-08-09
 tags: [Microsoft,Visual,C++,修复,工具]
 comments: true

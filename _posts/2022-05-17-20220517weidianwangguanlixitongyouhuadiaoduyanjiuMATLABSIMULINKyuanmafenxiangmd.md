@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微电网管理系统优化调度研究（MATLAB SIMULINK源码分享）"
+title: "微电网管理系统优化调度研究MATLAB SIMULINK源码分享"
 date:   2023-01-28
 tags: [电网,MATLAB,SIMULINK,管理系统,优化]
 comments: true

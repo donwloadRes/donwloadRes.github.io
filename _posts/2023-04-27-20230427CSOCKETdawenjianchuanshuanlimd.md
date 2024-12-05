@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SOCKET大文件传输案例"
+title: "C SOCKET大文件传输案例"
 date:   2020-03-26
 tags: [SOCKET,文件传输,C#,开发者,案例]
 comments: true

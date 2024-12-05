@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCU-Client v1.0.0.0378 资源文件介绍"
+title: "HCUClient v1000378 资源文件介绍"
 date:   2023-01-13
 tags: [修复,华为,解锁,HCU,0.0378]
 comments: true

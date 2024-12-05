@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南方地理信息数据成图软件SouthMap（CASS11.0）介绍"
+title: "南方地理信息数据成图软件SouthMapCASS110介绍"
 date:   2022-11-20
 tags: [成图,软件,地理信息,数据,测量]
 comments: true

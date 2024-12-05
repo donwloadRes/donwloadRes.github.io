@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PH2.0插件贴片端子 带3D封装 资源下载"
+title: "PH20插件贴片端子 带3D封装 资源下载"
 date:   2024-01-15
 tags: [3D,封装,插件,端子,PH2.0]
 comments: true

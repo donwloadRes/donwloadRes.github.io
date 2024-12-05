@@ -1,6 +1,56 @@
 ---
 layout: post
-title: "FastAPI Swagger UI 无法打开问题解决方案"
+title: "FastAPI Swagger UI 无法打开问题解决方案
+date   20200223
+tags swaggeruiredocurlstr
+comments true
+author admin
+
+ FastAPI Swagger UI 无法打开问题解决方案
+
+ 简介
+
+在使用 FastAPI 框架时可能会遇到 Swagger UI 无法打开的问题表现为页面显示空白本文档提供了一个解决方案帮助你解决这个问题
+
+ 问题描述
+
+在某些情况下FastAPI 的 Swagger UI 和 Redoc 可能无法正常打开页面显示空白这通常是由于请求的静态资源文件加载失败导致的
+
+ 解决方案
+
+ 1 下载文件
+
+首先你需要从 GitHub 上下载所需的静态资源文件这些文件包括 swaggeruicss 和 swaggeruibundlejs你可以从以下地址下载这些文件
+
+ swaggeruidisthttpsgithubcomswaggerapiswaggerui
+ redochttpsgithubcomRedoclyredoc
+
+ 2 修改代码引用
+
+下载文件后你需要修改 FastAPI 代码中的引用路径将默认的 CDN 链接替换为本地文件路径具体步骤如下
+
+1 打开 FastAPI 安装目录下的 fastapiopenapidocspy 文件
+2 找到以下代码并注释掉
+   python
+   swaggerjsurl str  httpscdnjsdelivrnetnpmswaggeruidist4swaggeruibundlejs
+   swaggercssurl str  httpscdnjsdelivrnetnpmswaggeruidist4swaggeruicss
+   swaggerfaviconurl str  httpsfastapitiangolocomimgfaviconpng
+   
+3 将上述代码替换为本地文件路径
+   python
+   swaggerjsurl str  staticswaggeruiswaggeruibundlejs
+   swaggercssurl str  staticswaggeruiswaggeruicss
+   swaggerfaviconurl str  staticswaggeruifavicon32x32png
+   
+4 同样地注释掉 Redoc 的默认引用
+   python
+   redocjsurl str  httpscdnjsdelivrnetnpmredocnextbundlesredocstandalonejs
+   redocfaviconurl str  httpsfastapitiangolocomimgfaviconpng
+   
+5 替换为本地文件路径
+   python
+   redocjsurl str  staticredocbundlesredocstandalonejs
+   redocfaviconurl str  staticredocfaviconpng"
 date:   2020-02-23
 tags: [swagger,ui,redoc,url,str]
 comments: true

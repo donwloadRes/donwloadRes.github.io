@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列预测：CNN+LSTM+Attention模型"
+title: "时间序列预测CNNLSTMAttention模型"
 date:   2023-11-09
 tags: [序列,预测,模型,数据,CNN]
 comments: true

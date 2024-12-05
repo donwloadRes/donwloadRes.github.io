@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸢尾花线性回归+鸢尾花数据集 Python实现"
+title: "鸢尾花线性回归鸢尾花数据集 Python实现"
 date:   2021-07-11
 tags: [鸢尾花,Python,花萼,花瓣,文件]
 comments: true

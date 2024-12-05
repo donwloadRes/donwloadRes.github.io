@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOEM：简单的开源EtherCAT主站"
+title: "SOEM简单的开源EtherCAT主站"
 date:   2022-05-18
 tags: [SOEM,EtherCAT,开源,主站,项目]
 comments: true

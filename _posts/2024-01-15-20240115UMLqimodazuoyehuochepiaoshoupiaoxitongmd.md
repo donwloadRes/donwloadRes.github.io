@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML 期末大作业：火车票售票系统"
+title: "UML 期末大作业火车票售票系统"
 date:   2023-04-03
 tags: [系统,UML,火车票,用户,图表]
 comments: true

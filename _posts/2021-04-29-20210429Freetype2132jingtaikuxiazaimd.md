@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Freetype 2.13.2 静态库下载"
+title: "Freetype 2132 静态库下载"
 date:   2021-08-16
 tags: [静态,Freetype,Windows,x64,文件]
 comments: true

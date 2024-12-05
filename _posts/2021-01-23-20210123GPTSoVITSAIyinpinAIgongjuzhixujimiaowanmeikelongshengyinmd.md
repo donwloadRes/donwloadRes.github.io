@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT-SoVITSAI音频AI工具：只需几秒完美克隆声音"
+title: "GPTSoVITSAI音频AI工具只需几秒完美克隆声音"
 date:   2022-04-23
 tags: [音频,AI,工具,GPT,SoVITSAI]
 comments: true

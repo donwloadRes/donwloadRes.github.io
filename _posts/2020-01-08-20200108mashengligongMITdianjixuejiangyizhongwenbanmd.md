@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麻省理工 MIT 电机学》讲义（中文版）"
+title: "麻省理工 MIT 电机学讲义中文版"
 date:   2024-05-25
 tags: [绕组,讲义,同步电机,电机学,麻省理工]
 comments: true

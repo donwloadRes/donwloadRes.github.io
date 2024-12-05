@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CALCE.rar锂电池充放电实验数据"
+title: "CALCErar锂电池充放电实验数据"
 date:   2021-02-10
 tags: [实验,数据,充放电,CALCE,rar]
 comments: true

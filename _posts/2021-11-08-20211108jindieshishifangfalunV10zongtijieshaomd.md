@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶实施方法论V10-总体介绍"
+title: "金蝶实施方法论V10总体介绍"
 date:   2022-06-04
 tags: [金蝶,方法论,实施,V10,文件]
 comments: true

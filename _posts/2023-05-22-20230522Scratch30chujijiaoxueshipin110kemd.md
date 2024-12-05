@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch 3.0 初级教学视频（1-10课）"
+title: "Scratch 30 初级教学视频110课"
 date:   2024-06-09
 tags: [视频,10,Scratch,3.0,初级]
 comments: true

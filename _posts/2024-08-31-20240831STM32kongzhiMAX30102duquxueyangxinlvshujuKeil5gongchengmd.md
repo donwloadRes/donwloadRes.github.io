@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32控制MAX30102读取血氧心率数据(Keil5工程)"
+title: "STM32控制MAX30102读取血氧心率数据Keil5工程"
 date:   2023-04-05
 tags: [STM32,MAX30102,心率,Keil5,读取]
 comments: true

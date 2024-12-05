@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Linux上安装JDK1.8（含安装包）"
+title: "在Linux上安装JDK18含安装包"
 date:   2021-08-19
 tags: [JDK,Linux,安装,1.8,安装包]
 comments: true

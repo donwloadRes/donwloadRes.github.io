@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写的串口调试助手"
+title: "C编写的串口调试助手"
 date:   2020-05-30
 tags: [串口,波特率,调试,二次开发,助手]
 comments: true

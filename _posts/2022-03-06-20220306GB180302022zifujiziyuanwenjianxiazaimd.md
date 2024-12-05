@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB18030-2022 字符集资源文件下载"
+title: "GB180302022 字符集资源文件下载"
 date:   2024-06-22
 tags: [GB18030,2022,字符,文件,字符集]
 comments: true

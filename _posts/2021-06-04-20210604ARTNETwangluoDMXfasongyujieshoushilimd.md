@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ART-NET 网络DMX发送与接收实例"
+title: "ARTNET 网络DMX发送与接收实例"
 date:   2021-10-11
 tags: [NET,DMX,Art,协议,实现]
 comments: true

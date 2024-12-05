@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HUAWEI华为MateBook 14 I5 独显(KLV-W19)原装出厂Windows10系统1809"
+title: "HUAWEI华为MateBook 14 I5 独显KLVW19原装出厂Windows10系统1809"
 date:   2024-04-06
 tags: [华为,系统,MateBook,14,KLV]
 comments: true

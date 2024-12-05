@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI软件（National Instruments）卸载工具"
+title: "NI软件National Instruments卸载工具"
 date:   2020-08-08
 tags: [卸载,NI,工具,软件,National]
 comments: true

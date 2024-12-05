@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type-C 6Pin 硬件封装资源下载"
+title: "TypeC 6Pin 硬件封装资源下载"
 date:   2024-09-26
 tags: [PCB,Altium,Designer,原理图,文件]
 comments: true

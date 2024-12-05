@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+OLED25664 音乐频谱+万年历项目介绍"
+title: "STM32OLED25664 音乐频谱万年历项目介绍"
 date:   2020-11-04
 tags: [万年历,STM32,单片机,频谱,源代码]
 comments: true

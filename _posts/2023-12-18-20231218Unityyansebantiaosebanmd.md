@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 颜色板 - 调色板"
+title: "Unity 颜色板  调色板"
 date:   2021-01-24
 tags: [调色板,Unity,文件,资源,颜色]
 comments: true

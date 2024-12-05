@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus-Master-8in1 V7.4.30 x64 Modbus 主站测试工具"
+title: "ModbusMaster8in1 V7430 x64 Modbus 主站测试工具"
 date:   2023-01-22
 tags: [Modbus,寄存器,测试,Master,V7.4]
 comments: true

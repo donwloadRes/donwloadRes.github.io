@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "射频测试指标汇集_相关指标详细收集"
+title: "射频测试指标汇集相关指标详细收集"
 date:   2021-01-01
 tags: [系统,确保,信号,评估,描述]
 comments: true

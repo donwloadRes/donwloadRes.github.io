@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCD1602字符串显示教程 - 适用于STM32F103"
+title: "LCD1602字符串显示教程  适用于STM32F103"
 date:   2024-02-12
 tags: [LCD1602,字符串,LCD,显示,STM32F103]
 comments: true

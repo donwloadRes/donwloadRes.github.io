@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenWrt系统移植到i.MX6UL开发板指南"
+title: "OpenWrt系统移植到iMX6UL开发板指南"
 date:   2021-08-18
 tags: [开发板,OpenWrt,移植,MX6UL,文档]
 comments: true

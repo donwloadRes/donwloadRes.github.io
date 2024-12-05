@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wxWidgets教程(中文)"
+title: "wxWidgets教程中文"
 date:   2024-03-19
 tags: [wxWidgets,教程,文件,中文,资源]
 comments: true

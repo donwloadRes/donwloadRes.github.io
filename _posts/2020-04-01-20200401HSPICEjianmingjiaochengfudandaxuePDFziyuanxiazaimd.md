@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HSPICE简明教程(复旦大学) - PDF资源下载"
+title: "HSPICE简明教程复旦大学  PDF资源下载"
 date:   2024-10-26
 tags: [HSPICE,教程,仿真,复旦大学,简明]
 comments: true

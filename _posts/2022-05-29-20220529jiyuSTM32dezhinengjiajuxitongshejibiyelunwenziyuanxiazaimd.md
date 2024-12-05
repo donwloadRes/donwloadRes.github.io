@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的智能家居系统设计 - 毕业论文资源下载"
+title: "基于STM32的智能家居系统设计  毕业论文资源下载"
 date:   2024-01-23
 tags: [智能家居,STM32,毕业论文,论文,技术]
 comments: true

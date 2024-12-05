@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 13.3-2 Windows 64位安装器"
+title: "PostgreSQL 1332 Windows 64位安装器"
 date:   2020-04-23
 tags: [安装,Windows,PostgreSQL,13.3,64]
 comments: true

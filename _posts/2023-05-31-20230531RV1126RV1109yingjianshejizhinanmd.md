@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RV1126-RV1109硬件设计指南"
+title: "RV1126RV1109硬件设计指南"
 date:   2023-03-10
 tags: [硬件,RV1126,RV1109,设计,芯片]
 comments: true

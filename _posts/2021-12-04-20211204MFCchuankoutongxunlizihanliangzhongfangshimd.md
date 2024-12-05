@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC串口通讯例子（含两种方式）"
+title: "MFC串口通讯例子含两种方式"
 date:   2024-03-11
 tags: [串口,MFC,通讯,示例,波特率]
 comments: true

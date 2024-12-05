@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验报告：基本运算器实验"
+title: "计算机组成原理实验报告基本运算器实验"
 date:   2020-10-22
 tags: [实验,原理,运算器,报告,结论]
 comments: true

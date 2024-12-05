@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地图切图工具 MapCutter 3.8.0"
+title: "地图切图工具 MapCutter 380"
 date:   2020-04-03
 tags: [地图,切图,支持,Cesium,3.8]
 comments: true

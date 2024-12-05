@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习：利用sklearn实现心脏病预测"
+title: "机器学习利用sklearn实现心脏病预测"
 date:   2021-08-24
 tags: [数据,心脏病,模型,机器,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMAKE手册(中文翻译版).pdf"
+title: "CMAKE手册中文翻译版pdf"
 date:   2021-07-30
 tags: [CMake,中文翻译,手册,构建,CMAKE]
 comments: true

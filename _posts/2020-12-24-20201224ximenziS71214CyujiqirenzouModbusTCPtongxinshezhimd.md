@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1214C与机器人走Modbus TCP通信设置"
+title: "西门子S71214C与机器人走Modbus TCP通信设置"
 date:   2024-01-02
 tags: [Modbus,TCP,西门子,S7,1214C]
 comments: true

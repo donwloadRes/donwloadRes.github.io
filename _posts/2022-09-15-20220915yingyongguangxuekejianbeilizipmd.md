@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用光学课件（北理）.zip"
+title: "应用光学课件北理zip"
 date:   2022-12-05
 tags: [应用光学,课件,zip,考研,学习]
 comments: true

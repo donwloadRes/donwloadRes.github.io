@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿猫眼电影PC端首页HTML-CSS开发源码"
+title: "仿猫眼电影PC端首页HTMLCSS开发源码"
 date:   2021-11-28
 tags: [源码,HTML,PC,猫眼,首页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "综合布线图纸（CAD图纸）下载仓库"
+title: "综合布线图纸CAD图纸下载仓库"
 date:   2021-04-06
 tags: [图纸,布线,CAD,综合,系统]
 comments: true

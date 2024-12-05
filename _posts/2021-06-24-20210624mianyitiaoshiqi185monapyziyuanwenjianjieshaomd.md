@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免疫调试器1.85 + mona.py 资源文件介绍"
+title: "免疫调试器185  monapy 资源文件介绍"
 date:   2022-10-21
 tags: [调试器,mona,py,免疫,文件]
 comments: true

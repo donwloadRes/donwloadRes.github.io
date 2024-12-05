@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页设计 期末大作业web课程设计【原神风格+博客静态页面】"
+title: "网页设计 期末大作业web课程设计原神风格博客静态页面"
 date:   2024-08-23
 tags: [页面,布局,网页,设计,JavaScript]
 comments: true

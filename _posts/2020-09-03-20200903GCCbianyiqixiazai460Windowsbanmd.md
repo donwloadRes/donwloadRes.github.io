@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC编译器下载-4.6.0-Windows版"
+title: "GCC编译器下载460Windows版"
 date:   2024-06-10
 tags: [GCC,4.6,编译器,编译,Windows]
 comments: true

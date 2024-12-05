@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "风光不确定性下的配电网运行风险评估工具：基于Matlab + Matpower的解决方案"
+title: "风光不确定性下的配电网运行风险评估工具基于Matlab  Matpower的解决方案"
 date:   2020-02-23
 tags: [配电网,评估,风光,Matlab,电力系统]
 comments: true

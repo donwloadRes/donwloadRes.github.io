@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多元统计分析》期末大作业一：基于R语言"
+title: "多元统计分析期末大作业一基于R语言"
 date:   2021-05-01
 tags: [代码,作业,分析,统计分析,期末]
 comments: true

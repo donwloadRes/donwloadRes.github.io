@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典(第7版) 资源下载介绍"
+title: "C入门经典第7版 资源下载介绍"
 date:   2021-07-01
 tags: [C#,入门,下载,编程,资源]
 comments: true

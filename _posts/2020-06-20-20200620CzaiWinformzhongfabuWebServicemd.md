@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 在Winform中发布WebService"
+title: "C 在Winform中发布WebService"
 date:   2021-11-13
 tags: [double,Winform,WebService,服务,示例]
 comments: true

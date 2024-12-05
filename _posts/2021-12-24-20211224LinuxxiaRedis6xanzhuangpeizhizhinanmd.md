@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下Redis 6.x 安装配置指南"
+title: "Linux下Redis 6x 安装配置指南"
 date:   2023-12-19
 tags: [redis,Redis,bash,Linux,安装]
 comments: true

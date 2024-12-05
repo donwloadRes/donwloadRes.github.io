@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于EMD分解和希尔伯特变换(HHT)的完整MATLAB代码"
+title: "基于EMD分解和希尔伯特变换HHT的完整MATLAB代码"
 date:   2024-12-01
 tags: [Hilbert,变换,代码,EMD,MATLAB]
 comments: true

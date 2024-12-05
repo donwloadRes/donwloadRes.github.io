@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 1268A-2004 军用软件验收要求"
+title: "GJB 1268A2004 军用软件验收要求"
 date:   2021-06-03
 tags: [验收,军用,软件,文件,2004]
 comments: true

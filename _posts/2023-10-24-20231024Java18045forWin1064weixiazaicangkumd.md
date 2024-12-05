@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 1.8.0_45 for Win10 64位 下载仓库"
+title: "Java 18045 for Win10 64位 下载仓库"
 date:   2021-03-31
 tags: [Java,JDK,安装,下载,1.8]
 comments: true

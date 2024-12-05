@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员 Python 可视化案例：P105-107 地图可视化笔记"
+title: "黑马程序员 Python 可视化案例P105107 地图可视化笔记"
 date:   2023-07-24
 tags: [可视化,地图,Python,pyecharts,代码]
 comments: true

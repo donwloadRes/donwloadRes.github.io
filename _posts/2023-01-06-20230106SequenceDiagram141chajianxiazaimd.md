@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sequence Diagram 1.4.1 插件下载"
+title: "Sequence Diagram 141 插件下载"
 date:   2023-07-05
 tags: [插件,序列图,IDEA,IntelliJ,生成]
 comments: true

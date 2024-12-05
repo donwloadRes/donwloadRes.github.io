@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC Modbus地址计算器V1.0"
+title: "西门子PLC Modbus地址计算器V10"
 date:   2020-08-04
 tags: [地址,PLC,Modbus,西门子,计算器]
 comments: true

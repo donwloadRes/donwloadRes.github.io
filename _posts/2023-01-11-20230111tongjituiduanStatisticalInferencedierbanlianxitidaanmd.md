@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计推断(Statistical Inference) 第二版 练习题 答案"
+title: "统计推断Statistical Inference 第二版 练习题 答案"
 date:   2022-03-02
 tags: [练习题,推断,PDF,统计,学习]
 comments: true

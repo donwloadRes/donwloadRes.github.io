@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32超声波测距代码-HC-SR04"
+title: "STM32超声波测距代码HCSR04"
 date:   2024-08-19
 tags: [测距,蓝牙,STM32,超声波,模块]
 comments: true

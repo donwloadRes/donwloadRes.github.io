@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "遗传算法求解混合流水车间调度问题 - Python版"
+title: "遗传算法求解混合流水车间调度问题  Python版"
 date:   2022-01-22
 tags: [遗传算法,调度,车间,Python,流水]
 comments: true

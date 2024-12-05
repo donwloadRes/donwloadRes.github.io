@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js及Express的安装配置指南"
+title: "Nodejs及Express的安装配置指南"
 date:   2020-01-28
 tags: [Node,js,Express,安装,npm]
 comments: true

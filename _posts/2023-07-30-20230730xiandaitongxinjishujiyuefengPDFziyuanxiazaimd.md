@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代通信技术(纪越峰) PDF资源下载"
+title: "现代通信技术纪越峰 PDF资源下载"
 date:   2024-10-31
 tags: [通信,技术,纪越峰,下载,学习]
 comments: true

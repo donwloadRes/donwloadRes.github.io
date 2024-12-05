@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英语写作神器Quillbot：免费使用Premium功能指南"
+title: "英语写作神器Quillbot免费使用Premium功能指南"
 date:   2023-12-12
 tags: [Quillbot,插件,Chrome,Premium,浏览器]
 comments: true

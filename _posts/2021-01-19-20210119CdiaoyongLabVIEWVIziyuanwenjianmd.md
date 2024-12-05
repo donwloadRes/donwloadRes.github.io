@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用LabVIEW VI资源文件"
+title: "C调用LabVIEW VI资源文件"
 date:   2020-06-16
 tags: [LabVIEW,C#,VI,文件,解压]
 comments: true

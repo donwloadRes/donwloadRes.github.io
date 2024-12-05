@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大华相机SDK：MVviewer-2.4.1"
+title: "大华相机SDKMVviewer241"
 date:   2024-07-15
 tags: [SDK,2.4,相机,大华,示例]
 comments: true

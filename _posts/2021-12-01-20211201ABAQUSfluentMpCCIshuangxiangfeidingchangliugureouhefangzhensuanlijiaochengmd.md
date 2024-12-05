@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS+fluent+MpCCI双向非定常流固热耦合仿真算例教程"
+title: "ABAQUSfluentMpCCI双向非定常流固热耦合仿真算例教程"
 date:   2020-01-26
 tags: [仿真,流固,耦合,ABAQUS,源文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MC滑膜观察器 代码-FOC"
+title: "MC滑膜观察器 代码FOC"
 date:   2021-02-25
 tags: [滑膜,MC,观察器,FOC,文件]
 comments: true

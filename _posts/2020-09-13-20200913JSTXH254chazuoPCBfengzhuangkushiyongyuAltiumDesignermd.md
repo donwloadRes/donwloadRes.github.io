@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JST-XH2.54插座PCB封装库（适用于Altium Designer）"
+title: "JSTXH254插座PCB封装库适用于Altium Designer"
 date:   2020-08-15
 tags: [封装,PCB,Altium,Designer,JST]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程数学线性代数第六版（同济大学）"
+title: "工程数学线性代数第六版同济大学"
 date:   2023-11-15
 tags: [线性代数,学习,第六版,数学,考研]
 comments: true

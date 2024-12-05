@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "炬力SDK编程指导（全集）下载仓库"
+title: "炬力SDK编程指导全集下载仓库"
 date:   2024-04-12
 tags: [SDK,文件,资源,编程,下载]
 comments: true

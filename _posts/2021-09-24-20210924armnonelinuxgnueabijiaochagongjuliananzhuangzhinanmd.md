@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "arm-none-linux-gnueabi交叉工具链安装指南"
+title: "armnonelinuxgnueabi交叉工具链安装指南"
 date:   2021-03-11
 tags: [arm,linux,none,gnueabi,Linux]
 comments: true

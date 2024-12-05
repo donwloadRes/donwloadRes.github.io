@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK1.8中文文档(免费高清可搜索版)"
+title: "JDK18中文文档免费高清可搜索版"
 date:   2023-05-08
 tags: [文档,Java,中文,JDK1.8,搜索]
 comments: true

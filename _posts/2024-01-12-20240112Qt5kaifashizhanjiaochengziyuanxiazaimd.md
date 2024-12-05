@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5开发+实战教程资源下载"
+title: "Qt5开发实战教程资源下载"
 date:   2024-02-04
 tags: [Qt5,教程,实战,开发,开发者]
 comments: true

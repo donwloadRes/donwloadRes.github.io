@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 17.5.2 Pro 虚拟机安装教程"
+title: "VMware Workstation 1752 Pro 虚拟机安装教程"
 date:   2020-01-04
 tags: [VMware,虚拟机,安装,Workstation,教程]
 comments: true

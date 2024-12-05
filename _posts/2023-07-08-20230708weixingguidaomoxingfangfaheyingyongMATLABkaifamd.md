@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卫星轨道：模型、方法和应用 - MATLAB开发"
+title: "卫星轨道模型方法和应用  MATLAB开发"
 date:   2020-03-07
 tags: [练习,MATLAB,轨道,卫星,文件]
 comments: true

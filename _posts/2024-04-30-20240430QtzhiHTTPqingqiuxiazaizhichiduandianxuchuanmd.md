@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 之 HTTP 请求下载（支持断点续传）"
+title: "Qt 之 HTTP 请求下载支持断点续传"
 date:   2023-04-15
 tags: [下载,断点续传,Qt,HTTP,文件]
 comments: true

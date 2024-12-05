@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISOIEC27005：2018 信息技术 - 安全技术 - 信息安全风险管理（中文版）"
+title: "ISOIEC270052018 信息技术  安全技术  信息安全风险管理中文版"
 date:   2024-04-04
 tags: [信息安全,风险管理,评估,风险,组织]
 comments: true

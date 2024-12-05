@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-datacom数通题库和录播视频资料"
+title: "HCIAdatacom数通题库和录播视频资料"
 date:   2021-12-20
 tags: [HCIA,数通,认证,题库,学习]
 comments: true

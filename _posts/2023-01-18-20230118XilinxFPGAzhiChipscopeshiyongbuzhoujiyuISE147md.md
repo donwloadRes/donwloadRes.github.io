@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA之Chipscope使用步骤（基于ISE 14.7）"
+title: "Xilinx FPGA之Chipscope使用步骤基于ISE 147"
 date:   2023-07-26
 tags: [Chipscope,ISE,14.7,调试,FPGA]
 comments: true

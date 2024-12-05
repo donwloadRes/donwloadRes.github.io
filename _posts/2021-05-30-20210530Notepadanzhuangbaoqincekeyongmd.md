@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++安装包（亲测可用）"
+title: "Notepad安装包亲测可用"
 date:   2024-03-12
 tags: [Notepad,++,安装包,文本编辑,插件]
 comments: true

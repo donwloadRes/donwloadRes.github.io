@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32光照强度传感器（BH1750、GY302）资源文件介绍"
+title: "STM32光照强度传感器BH1750GY302资源文件介绍"
 date:   2020-07-19
 tags: [BH1750,光照强度,STM32,I2C,---]
 comments: true

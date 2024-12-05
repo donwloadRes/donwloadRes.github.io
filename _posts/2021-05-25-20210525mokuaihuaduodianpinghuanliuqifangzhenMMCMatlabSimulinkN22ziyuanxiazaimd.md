@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模块化多电平换流器仿真MMC Matlab-Simulink N=22 资源下载"
+title: "模块化多电平换流器仿真MMC MatlabSimulink N22 资源下载"
 date:   2023-08-26
 tags: [电平,换流器,仿真,模块化,MMC]
 comments: true

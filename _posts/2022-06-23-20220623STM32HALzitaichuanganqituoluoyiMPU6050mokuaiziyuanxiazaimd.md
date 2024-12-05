@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+HAL姿态传感器陀螺仪MPU6050模块资源下载"
+title: "STM32HAL姿态传感器陀螺仪MPU6050模块资源下载"
 date:   2020-12-26
 tags: [STM32,MPU6050,模块,连接,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电工学电子技术（上册）重点总结"
+title: "电工学电子技术上册重点总结"
 date:   2020-04-14
 tags: [上册,电子,学习,技术,电工学]
 comments: true

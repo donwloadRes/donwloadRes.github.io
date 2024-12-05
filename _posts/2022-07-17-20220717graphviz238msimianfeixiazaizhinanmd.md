@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "graphviz-2.38.msi免费下载指南"
+title: "graphviz238msi免费下载指南"
 date:   2023-10-11
 tags: [Graphviz,2.38,安装,msi,下载]
 comments: true

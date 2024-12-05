@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pixhawk 2.4.6 & 2.4.8 原理图与PCB资源"
+title: "Pixhawk 246  248 原理图与PCB资源"
 date:   2020-08-04
 tags: [原理图,PCB,2.4,Pixhawk,pixhawk2.4]
 comments: true

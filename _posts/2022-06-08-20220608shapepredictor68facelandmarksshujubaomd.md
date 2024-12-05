@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "shape_predictor_68_face_landmarks 数据包"
+title: "shapepredictor68facelandmarks 数据包"
 date:   2024-08-09
 tags: [68,landmarks,predictor,face,cv2]
 comments: true

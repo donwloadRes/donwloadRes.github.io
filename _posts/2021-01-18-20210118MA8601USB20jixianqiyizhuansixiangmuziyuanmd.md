@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MA8601 USB2.0集线器一转四项目资源"
+title: "MA8601 USB20集线器一转四项目资源"
 date:   2020-03-22
 tags: [集线器,USB,MA8601,芯片,USB2.0]
 comments: true

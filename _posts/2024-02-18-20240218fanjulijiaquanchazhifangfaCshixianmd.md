@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反距离加权插值方法——C#实现"
+title: "反距离加权插值方法C实现"
 date:   2024-10-05
 tags: [插值,C#,加权,方法,距离]
 comments: true

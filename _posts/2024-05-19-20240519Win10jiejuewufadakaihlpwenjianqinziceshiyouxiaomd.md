@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10解决无法打开hlp文件，亲自测试有效"
+title: "Win10解决无法打开hlp文件亲自测试有效"
 date:   2023-11-16
 tags: [hlp,文件,Windows,10,WinHlp32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BeyondCompare Pro 4.2.6.23150 x64中文版资源文件"
+title: "BeyondCompare Pro 42623150 x64中文版资源文件"
 date:   2024-02-24
 tags: [BeyondCompare,6.23150,x64,4.2,中文版]
 comments: true

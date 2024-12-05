@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟CMOS集成电路设计(拉扎维)－电子版"
+title: "模拟CMOS集成电路设计拉扎维电子版"
 date:   2024-08-29
 tags: [CMOS,模拟,集成电路,拉扎,设计]
 comments: true

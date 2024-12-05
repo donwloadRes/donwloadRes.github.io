@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E-Studio Pro v4.42 资源文件下载"
+title: "EStudio Pro v442 资源文件下载"
 date:   2023-02-28
 tags: [Studio,Pro,v4.42,下载,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSTO开发者指南（中文版）"
+title: "VSTO开发者指南中文版"
 date:   2022-10-13
 tags: [Office,VSTO,开发者,NET,VBA]
 comments: true

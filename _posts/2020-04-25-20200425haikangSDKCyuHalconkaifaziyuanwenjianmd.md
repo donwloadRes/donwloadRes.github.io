@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康SDK C# 与 Halcon 开发资源文件"
+title: "海康SDK C 与 Halcon 开发资源文件"
 date:   2021-02-15
 tags: [文件,DLL,Halcon,海康,开发者]
 comments: true

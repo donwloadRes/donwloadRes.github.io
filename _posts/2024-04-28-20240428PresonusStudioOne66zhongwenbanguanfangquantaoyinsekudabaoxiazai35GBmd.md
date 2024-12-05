@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presonus Studio One 6.6 中文版官方全套音色库打包下载 35GB"
+title: "Presonus Studio One 66 中文版官方全套音色库打包下载 35GB"
 date:   2023-05-05
 tags: [Studio,音色库,XT,Presence,Core]
 comments: true

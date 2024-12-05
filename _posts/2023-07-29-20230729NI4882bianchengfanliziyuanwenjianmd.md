@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI-488.2 编程范例资源文件"
+title: "NI4882 编程范例资源文件"
 date:   2020-06-19
 tags: [NI,GPIB,编程,范例,488.2]
 comments: true

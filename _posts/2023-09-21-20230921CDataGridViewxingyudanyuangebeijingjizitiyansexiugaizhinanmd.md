@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DataGridView 行与单元格背景及字体颜色修改指南"
+title: "C DataGridView 行与单元格背景及字体颜色修改指南"
 date:   2022-06-01
 tags: [DataGridView,C#,单元格,颜色,修改]
 comments: true

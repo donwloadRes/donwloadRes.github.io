@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET（VB-C#）开发的OPC资源：源码、驱动和文档"
+title: "NETVBC开发的OPC资源源码驱动和文档"
 date:   2020-11-15
 tags: [OPC,Server,源代码,驱动程序,NET]
 comments: true

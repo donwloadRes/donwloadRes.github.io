@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载MMD模型（包含原神、崩坏等模型）"
+title: "下载MMD模型包含原神崩坏等模型"
 date:   2021-09-09
 tags: [模型,MMD,原神,崩坏,下载]
 comments: true

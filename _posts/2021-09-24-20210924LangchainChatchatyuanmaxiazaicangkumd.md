@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Langchain-Chatchat源码下载仓库"
+title: "LangchainChatchat源码下载仓库"
 date:   2020-05-13
 tags: [Langchain,Chatchat,ChatGLM,问答,知识库]
 comments: true

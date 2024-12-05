@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接Oracle10g-11g所需的DLL（无需安装Oracle客户端，版本一）"
+title: "C连接Oracle10g11g所需的DLL无需安装Oracle客户端版本一"
 date:   2021-05-16
 tags: [Oracle,DLL,版本,客户端,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红色警戒2+尤里的复仇 免安装完整版"
+title: "红色警戒2尤里的复仇 免安装完整版"
 date:   2022-05-12
 tags: [游戏,红色警戒,安装,尤里,完整版]
 comments: true

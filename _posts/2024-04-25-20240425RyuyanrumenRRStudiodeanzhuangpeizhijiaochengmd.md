@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R语言入门：R、R Studio的安装配置教程"
+title: "R语言入门RR Studio的安装配置教程"
 date:   2020-02-24
 tags: [安装,Studio,教程,配置,安装包]
 comments: true

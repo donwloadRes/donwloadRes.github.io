@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEIWEI CommMonitor 串口监控工具12.7 最新版"
+title: "CEIWEI CommMonitor 串口监控工具127 最新版"
 date:   2022-11-16
 tags: [串口,监控,工具,进制,CEIWEI]
 comments: true

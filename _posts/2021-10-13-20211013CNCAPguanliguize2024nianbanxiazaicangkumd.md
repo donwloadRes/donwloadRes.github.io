@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-NCAP管理规则（2024年版）下载仓库"
+title: "CNCAP管理规则2024年版下载仓库"
 date:   2023-08-23
 tags: [NCAP,2024,年版,规则,仓库]
 comments: true

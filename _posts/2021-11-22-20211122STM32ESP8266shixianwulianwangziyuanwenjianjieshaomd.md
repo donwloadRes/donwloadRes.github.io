@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266实现物联网资源文件介绍"
+title: "STM32ESP8266实现物联网资源文件介绍"
 date:   2024-03-19
 tags: [ESP8266,STM32,连接,远程,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 侧边栏组件 - 动态美观，高度自定义"
+title: "C Winform 侧边栏组件  动态美观高度自定义"
 date:   2022-03-08
 tags: [侧边,Winform,自定义,C#,---]
 comments: true

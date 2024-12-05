@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT4-技术报告中文版"
+title: "GPT4技术报告中文版"
 date:   2022-06-16
 tags: [GPT,AI,模型,技术,人类]
 comments: true

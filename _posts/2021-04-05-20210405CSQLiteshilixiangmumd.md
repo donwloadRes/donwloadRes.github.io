@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SQLite 示例项目"
+title: "C SQLite 示例项目"
 date:   2023-08-09
 tags: [示例,C#,SQLite,项目,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4 FSMC驱动4.3寸触摸屏教程"
+title: "STM32F4 FSMC驱动43寸触摸屏教程"
 date:   2020-03-18
 tags: [触摸屏,LVGL,图形库,代码,STM32F4]
 comments: true

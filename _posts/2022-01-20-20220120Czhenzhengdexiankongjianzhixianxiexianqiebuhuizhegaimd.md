@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 真正的线控件（直线、斜线）且不会遮盖"
+title: "C 真正的线控件直线斜线且不会遮盖"
 date:   2024-10-03
 tags: [控件,相交,斜线,C#,遮盖]
 comments: true

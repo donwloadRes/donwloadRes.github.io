@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PyTorch的VITS-BigVGAN中文TTS模型集成韵律预测"
+title: "基于PyTorch的VITSBigVGAN中文TTS模型集成韵律预测"
 date:   2020-02-11
 tags: [韵律,模型,TTS,文本,中文]
 comments: true

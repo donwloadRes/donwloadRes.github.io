@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理实验四LL（1）文法【C语言实现】"
+title: "编译原理实验四LL1文法C语言实现"
 date:   2024-11-29
 tags: [文法,LL,C语言,实验报告,编译]
 comments: true

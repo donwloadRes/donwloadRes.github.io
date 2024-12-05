@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3.4004 中文完整版All Plugins Edition数字音频工作站软件"
+title: "FL Studio 21234004 中文完整版All Plugins Edition数字音频工作站软件"
 date:   2022-06-08
 tags: [3.4004,中文,完整版,FL,Studio]
 comments: true

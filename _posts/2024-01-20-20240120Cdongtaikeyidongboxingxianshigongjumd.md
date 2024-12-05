@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#动态可移动波形显示工具"
+title: "C动态可移动波形显示工具"
 date:   2024-02-15
 tags: [数据源,波形,控件,动态,移动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络》PPT完整下载"
+title: "计算机网络PPT完整下载"
 date:   2023-12-02
 tags: [计算机网络,PPT,下载,课程,网络协议]
 comments: true

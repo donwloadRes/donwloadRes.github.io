@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dcmtk在PACS开发中的应用 - 工作列表与测试文件说明"
+title: "dcmtk在PACS开发中的应用  工作列表与测试文件说明"
 date:   2024-10-29
 tags: [DICOM,DCMTK,测试,PACS,文件]
 comments: true

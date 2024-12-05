@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费分享ASP.NET会员管理系统源码"
+title: "免费分享ASPNET会员管理系统源码"
 date:   2022-05-04
 tags: [会员,源码,门店,NET,管理员]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTCA DO-160G 标准规范下载"
+title: "RTCA DO160G 标准规范下载"
 date:   2021-04-11
 tags: [标准规范,160G,RTCA,DO,下载]
 comments: true

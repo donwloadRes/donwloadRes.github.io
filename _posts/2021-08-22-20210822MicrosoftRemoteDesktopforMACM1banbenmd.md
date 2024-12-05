@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Remote Desktop for MAC - M1版本"
+title: "Microsoft Remote Desktop for MAC  M1版本"
 date:   2021-09-08
 tags: [M1,Mac,远程,Microsoft,Remote]
 comments: true

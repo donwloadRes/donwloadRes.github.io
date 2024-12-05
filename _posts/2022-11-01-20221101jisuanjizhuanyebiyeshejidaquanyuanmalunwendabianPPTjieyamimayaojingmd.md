@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机专业毕业设计大全：源码+论文+答辩PPT (解压密码：yaojing)"
+title: "计算机专业毕业设计大全源码论文答辩PPT 解压密码yaojing"
 date:   2022-10-03
 tags: [毕业设计,答辩,源码,PPT,计算机专业]
 comments: true

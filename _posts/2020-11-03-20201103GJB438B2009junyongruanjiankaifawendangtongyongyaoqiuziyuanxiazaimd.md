@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB438B-2009 军用软件开发文档通用要求 资源下载"
+title: "GJB438B2009 军用软件开发文档通用要求 资源下载"
 date:   2021-08-09
 tags: [文档,软件开发,2009,军用,文件]
 comments: true

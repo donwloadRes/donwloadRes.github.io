@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FM17XX_读卡参考代码iso14443a-b"
+title: "FM17XX读卡参考代码iso14443ab"
 date:   2020-07-04
 tags: [卡片,读卡,代码,寻卡,读取]
 comments: true

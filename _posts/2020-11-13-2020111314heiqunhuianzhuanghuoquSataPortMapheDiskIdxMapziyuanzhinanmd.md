@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.4 黑群晖安装：获取 SataPortMap 和 DiskIdxMap 资源指南"
+title: "14 黑群晖安装获取 SataPortMap 和 DiskIdxMap 资源指南"
 date:   2020-08-01
 tags: [资源,SataPortMap,DiskIdxMap,获取,硬盘]
 comments: true

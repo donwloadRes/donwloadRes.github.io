@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 SP1 离线安装资源：下载与自制指南"
+title: "NET Framework 35 SP1 离线安装资源下载与自制指南"
 date:   2020-11-16
 tags: [安装包,SP1,NET,Framework,3.5]
 comments: true

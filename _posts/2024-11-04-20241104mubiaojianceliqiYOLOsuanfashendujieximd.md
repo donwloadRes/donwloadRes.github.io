@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测利器：YOLO算法深度解析"
+title: "目标检测利器YOLO算法深度解析"
 date:   2021-11-16
 tags: [YOLO,检测,算法,目标,pptx]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 60664-1-2007 绝缘配合标准资源下载"
+title: "IEC 6066412007 绝缘配合标准资源下载"
 date:   2020-05-10
 tags: [绝缘,IEC,2007,下载,60664]
 comments: true

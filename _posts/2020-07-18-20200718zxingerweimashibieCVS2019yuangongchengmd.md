@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zxing二维码识别(C++)—VS2019原工程"
+title: "zxing二维码识别CVS2019原工程"
 date:   2022-09-22
 tags: [二维码,工程,识别,zxing,Visual]
 comments: true

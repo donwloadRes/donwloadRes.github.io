@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio启动模拟器提示“HAXM is not installed”的解决办法"
+title: "Android Studio启动模拟器提示HAXM is not installed的解决办法"
 date:   2022-01-16
 tags: [HAXM,Android,模拟器,Studio,installed]
 comments: true

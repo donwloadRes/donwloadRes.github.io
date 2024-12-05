@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蒙特卡洛搜索树与四子棋AI（UCT算法）"
+title: "蒙特卡洛搜索树与四子棋AIUCT算法"
 date:   2022-05-08
 tags: [AI,蒙特卡洛,代码,搜索,算法]
 comments: true

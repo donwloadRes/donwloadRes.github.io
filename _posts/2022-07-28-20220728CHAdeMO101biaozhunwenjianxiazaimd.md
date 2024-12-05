@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHAdeMO 1.0.1 标准文件下载"
+title: "CHAdeMO 101 标准文件下载"
 date:   2021-11-17
 tags: [CHAdeMO,1.0,标准文件,文件,en]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【网络安全】蜜罐部署实战与DecoyMini攻击诱捕"
+title: "网络安全蜜罐部署实战与DecoyMini攻击诱捕"
 date:   2023-04-05
 tags: [蜜罐,DecoyMini,诱捕,攻击,攻击者]
 comments: true

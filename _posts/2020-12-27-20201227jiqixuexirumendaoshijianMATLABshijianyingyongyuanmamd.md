@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习入门到实践——MATLAB实践应用源码"
+title: "机器学习入门到实践MATLAB实践应用源码"
 date:   2021-02-22
 tags: [MATLAB,学习,代码,示例,实践]
 comments: true

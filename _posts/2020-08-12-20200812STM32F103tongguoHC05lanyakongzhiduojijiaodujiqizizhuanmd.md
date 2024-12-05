@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103通过HC-05蓝牙控制舵机角度及其自转"
+title: "STM32F103通过HC05蓝牙控制舵机角度及其自转"
 date:   2024-01-16
 tags: [嵌入式,蓝牙,舵机,HC,05]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "个人练习工具——鼠标连点器(C#编写)"
+title: "个人练习工具鼠标连点器C编写"
 date:   2024-07-16
 tags: [鼠标,点击,连点器,热键,设置]
 comments: true

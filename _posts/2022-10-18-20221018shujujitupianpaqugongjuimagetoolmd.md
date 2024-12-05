@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据集图片爬取工具 - image_tool"
+title: "数据集图片爬取工具  imagetool"
 date:   2022-11-01
 tags: [图片,image,tool,爬取,缩放]
 comments: true

@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Python 数据分析与可视化项目指南"
+title: "Python 数据分析与可视化项目指南
+date   20240415
+tags 可视化数据分析Python指南数据
+comments true
+author admin
+
+
+layout post
+title Python 数据分析与可视化项目指南"
 date:   2024-04-15
 tags: [可视化,数据分析,Python,指南,数据]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Python 数据分析与可视化项目指南"
+title: "Python 数据分析与可视化项目指南
+date   20240415
+tags 可视化数据分析Python指南数据
+comments true
+author admin
+
+
+layout post
+title Python 数据分析与可视化项目指南"
 date:   2024-02-12
 tags: [可视化,数据分析,Python,指南,数据]
 comments: true

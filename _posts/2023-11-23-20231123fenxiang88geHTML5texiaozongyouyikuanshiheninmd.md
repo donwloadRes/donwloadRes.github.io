@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享88个HTML5特效，总有一款适合您"
+title: "分享88个HTML5特效总有一款适合您"
 date:   2024-01-13
 tags: [特效,动画,HTML5,星空,88]
 comments: true

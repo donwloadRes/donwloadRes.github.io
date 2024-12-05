@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发OPC客户端实现OPCDA与KepServer通讯"
+title: "C开发OPC客户端实现OPCDA与KepServer通讯"
 date:   2022-03-10
 tags: [KepServer,OPC,客户端,文件,C#]
 comments: true

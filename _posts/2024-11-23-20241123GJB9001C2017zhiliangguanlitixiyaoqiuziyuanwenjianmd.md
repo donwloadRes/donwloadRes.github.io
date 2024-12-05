@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 9001C-2017质量管理体系要求资源文件"
+title: "GJB 9001C2017质量管理体系要求资源文件"
 date:   2021-06-17
 tags: [文件,管理体系,2017,GJB,9001C]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-R2021a 下载安装教程及常见问题解决"
+title: "MATLABR2021a 下载安装教程及常见问题解决"
 date:   2024-05-30
 tags: [MATLAB,R2021a,教程,常见问题,安装]
 comments: true

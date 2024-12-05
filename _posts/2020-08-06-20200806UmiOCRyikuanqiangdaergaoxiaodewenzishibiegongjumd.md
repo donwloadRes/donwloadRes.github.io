@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Umi-OCR：一款强大而高效的文字识别工具"
+title: "UmiOCR一款强大而高效的文字识别工具"
 date:   2021-05-27
 tags: [OCR,识别,Umi,开源,工具]
 comments: true

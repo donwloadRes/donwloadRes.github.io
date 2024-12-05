@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "projectRUL：基于2012 PHM数据的轴承剩余使用寿命预测"
+title: "projectRUL基于2012 PHM数据的轴承剩余使用寿命预测"
 date:   2023-09-10
 tags: [学习,项目,深度,轴承,projectRUL]
 comments: true

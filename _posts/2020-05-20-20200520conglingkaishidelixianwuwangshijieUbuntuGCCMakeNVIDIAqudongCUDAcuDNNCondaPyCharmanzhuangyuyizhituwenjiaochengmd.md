@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始的离线(无网)世界：Ubuntu+GCC+Make+NVIDIA驱动+CUDA+cuDNN+Conda+PyCharm安装与移植图文教程"
+title: "从零开始的离线无网世界UbuntuGCCMakeNVIDIA驱动CUDAcuDNNCondaPyCharm安装与移植图文教程"
 date:   2022-06-04
 tags: [安装,教程,离线,Ubuntu,GCC]
 comments: true

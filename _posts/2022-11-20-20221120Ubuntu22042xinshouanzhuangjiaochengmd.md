@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu-22.04.2 新手安装教程"
+title: "Ubuntu22042 新手安装教程"
 date:   2020-03-25
 tags: [安装,Ubuntu,教程,VMware,Workstation]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代电机控制技术（王成元）资源下载"
+title: "现代电机控制技术王成元资源下载"
 date:   2023-08-24
 tags: [电机,王成,控制技术,控制,FOC]
 comments: true

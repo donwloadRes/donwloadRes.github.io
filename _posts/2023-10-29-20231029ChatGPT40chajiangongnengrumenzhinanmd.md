@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT 4.0 插件功能入门指南"
+title: "ChatGPT 40 插件功能入门指南"
 date:   2022-02-03
 tags: [插件,ChatGPT,4.0,功能,文件]
 comments: true

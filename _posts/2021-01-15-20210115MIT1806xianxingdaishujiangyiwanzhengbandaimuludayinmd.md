@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT18.06线性代数讲义完整版（带目录打印）"
+title: "MIT1806线性代数讲义完整版带目录打印"
 date:   2021-06-19
 tags: [讲义,线性代数,打印,MIT18.06,复习]
 comments: true

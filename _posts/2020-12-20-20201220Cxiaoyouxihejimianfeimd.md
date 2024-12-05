@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++小游戏合集，免费"
+title: "C小游戏合集免费"
 date:   2023-03-31
 tags: [小游戏,C++,游戏,合集,源代码]
 comments: true

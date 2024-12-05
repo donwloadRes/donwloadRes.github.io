@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视硬盘录像机DS-7104N-SN升级包"
+title: "海康威视硬盘录像机DS7104NSN升级包"
 date:   2022-10-11
 tags: [升级包,威视,海康,DS,7104N]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "来也RPA实施工程师中级考试题(机试)"
+title: "来也RPA实施工程师中级考试题机试"
 date:   2022-07-02
 tags: [RPA,机试,考试,中级,工程师]
 comments: true

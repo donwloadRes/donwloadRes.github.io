@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB TDM Example.zip 资源文件介绍"
+title: "MATLAB TDM Examplezip 资源文件介绍"
 date:   2022-09-21
 tags: [TDM,Matlab,TDMS,文件,zip]
 comments: true

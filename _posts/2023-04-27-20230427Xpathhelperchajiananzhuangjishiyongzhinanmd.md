@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xpath-helper插件安装及使用指南"
+title: "Xpathhelper插件安装及使用指南"
 date:   2023-09-22
 tags: [插件,Xpath,helper,XPath,浏览器]
 comments: true

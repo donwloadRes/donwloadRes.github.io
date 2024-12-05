@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三国杀（C++版）资源文件介绍"
+title: "三国杀C版资源文件介绍"
 date:   2022-10-16
 tags: [C++,文件,游戏,三国,代码]
 comments: true

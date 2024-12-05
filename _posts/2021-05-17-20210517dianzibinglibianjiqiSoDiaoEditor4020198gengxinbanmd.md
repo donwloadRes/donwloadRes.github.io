@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子病历编辑器（SoDiaoEditor-4.0-2019.8更新版）"
+title: "电子病历编辑器SoDiaoEditor4020198更新版"
 date:   2022-12-08
 tags: [病历,编辑器,SoDiaoEditor,电子,更新版]
 comments: true

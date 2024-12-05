@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Air780E开发板原理图V1.5(pdf版) 下载仓库"
+title: "Air780E开发板原理图V15pdf版 下载仓库"
 date:   2021-01-02
 tags: [原理图,Air780E,开发板,V1.5,下载]
 comments: true

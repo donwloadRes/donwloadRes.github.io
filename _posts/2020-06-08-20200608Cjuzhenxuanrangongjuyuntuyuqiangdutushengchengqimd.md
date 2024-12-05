@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#矩阵渲染工具：云图与强度图生成器"
+title: "C矩阵渲染工具云图与强度图生成器"
 date:   2024-01-04
 tags: [云图,二维,矩阵,渲染,导入]
 comments: true

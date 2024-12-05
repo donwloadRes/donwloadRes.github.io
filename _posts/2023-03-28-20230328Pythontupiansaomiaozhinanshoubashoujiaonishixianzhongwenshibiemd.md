@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 图片扫描指南：手把手教你实现中文识别"
+title: "Python 图片扫描指南手把手教你实现中文识别"
 date:   2024-12-01
 tags: [识别,pytesseract,中文,Python,OCR]
 comments: true

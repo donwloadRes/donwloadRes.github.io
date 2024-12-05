@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++标准库（简体中文第二版）资源下载"
+title: "C标准库简体中文第二版资源下载"
 date:   2023-02-17
 tags: [C++,标准,11,STL,模板]
 comments: true

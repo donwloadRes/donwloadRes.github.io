@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java入门：IntelliJ IDEA 2020.1 下载、安装与学习指南"
+title: "Java入门IntelliJ IDEA 20201 下载安装与学习指南"
 date:   2021-08-14
 tags: [IDEA,安装,Java,插件,下载]
 comments: true

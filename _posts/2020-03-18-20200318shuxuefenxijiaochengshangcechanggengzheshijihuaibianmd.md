@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析教程 （上册）常庚哲 史济怀编"
+title: "数学分析教程 上册常庚哲 史济怀编"
 date:   2023-08-31
 tags: [数学分析,上册,教程,常庚哲,怀编]
 comments: true

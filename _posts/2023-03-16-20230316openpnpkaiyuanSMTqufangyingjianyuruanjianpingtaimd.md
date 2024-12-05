@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openpnp：开源SMT取放硬件与软件平台"
+title: "openpnp开源SMT取放硬件与软件平台"
 date:   2022-05-06
 tags: [开源,SMT,OpenPnP,贴装,项目]
 comments: true

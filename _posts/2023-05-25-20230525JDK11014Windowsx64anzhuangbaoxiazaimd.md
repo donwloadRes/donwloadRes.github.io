@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 11.0.14 Windows x64 安装包下载"
+title: "JDK 11014 Windows x64 安装包下载"
 date:   2023-06-25
 tags: [x64,11.0,14,下载,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册（全册四版）"
+title: "阿里巴巴Java开发手册全册四版"
 date:   2023-05-03
 tags: [Java,阿里巴巴,手册,开发,规约]
 comments: true

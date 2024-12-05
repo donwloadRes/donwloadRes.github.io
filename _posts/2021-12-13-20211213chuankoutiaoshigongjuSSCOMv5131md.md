@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试工具 SSCOM v5.13.1"
+title: "串口调试工具 SSCOM v5131"
 date:   2020-03-02
 tags: [串口,调试,SSCOM,v5.13,发送]
 comments: true

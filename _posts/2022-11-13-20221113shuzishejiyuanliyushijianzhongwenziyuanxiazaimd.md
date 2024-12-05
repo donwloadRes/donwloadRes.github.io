@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字设计原理与实践(中文) 资源下载"
+title: "数字设计原理与实践中文 资源下载"
 date:   2022-04-07
 tags: [设计,数字,实践,文件,中文]
 comments: true

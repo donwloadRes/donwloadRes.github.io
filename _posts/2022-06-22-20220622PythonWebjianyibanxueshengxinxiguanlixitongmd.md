@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-Web简易版学生信息管理系统"
+title: "PythonWeb简易版学生信息管理系统"
 date:   2024-04-27
 tags: [Python,学生,模块,Web,用户]
 comments: true

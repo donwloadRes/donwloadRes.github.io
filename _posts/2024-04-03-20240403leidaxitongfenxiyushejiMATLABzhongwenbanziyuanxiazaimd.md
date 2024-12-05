@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达系统分析与设计（MATLAB中文版）资源下载"
+title: "雷达系统分析与设计MATLAB中文版资源下载"
 date:   2020-02-01
 tags: [MATLAB,雷达,系统分析,中文翻译,英文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32实现PT100测温系统V4.0（4针OLED显示）"
+title: "STM32实现PT100测温系统V404针OLED显示"
 date:   2024-09-20
 tags: [STM32,OLED,PT100,显示屏,温度]
 comments: true

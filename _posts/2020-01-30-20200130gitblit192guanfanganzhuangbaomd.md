@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gitblit 1.9.2 官方安装包"
+title: "gitblit 192 官方安装包"
 date:   2022-06-17
 tags: [安装包,教程,Gitblit,https,官方]
 comments: true

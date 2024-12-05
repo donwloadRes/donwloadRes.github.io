@@ -1,6 +1,75 @@
 ---
 layout: post
-title: "Linux环境安装JDK8 版本至8u202步骤"
+title: "Linux环境安装JDK8 版本至8u202步骤
+date   20211224
+tags 8u202javabash安装Java
+comments true
+author admin
+
+ Linux环境安装JDK8 版本至8u202步骤
+
+本仓库提供了一个资源文件的下载包含Oracle提供的Java 8版本最后一个免费商用版 jdk8u202linuxx64targz 压缩包以及详细的安装步骤
+
+ 资源文件描述
+
+ 文件名 jdk8u202linuxx64targz
+ 版本 JDK 8u202
+ 适用平台 Linux x64
+
+ 安装步骤
+
+以下是在Linux环境下安装JDK 8u202的详细步骤
+
+ 1 下载JDK压缩包
+
+首先下载本仓库提供的 jdk8u202linuxx64targz 压缩包
+
+ 2 解压压缩包
+
+将下载的压缩包解压到指定目录例如 usrlocaljava
+
+bash
+sudo mkdir p usrlocaljava
+sudo tar zxvf jdk8u202linuxx64targz C usrlocaljava
+
+
+ 3 配置环境变量
+
+编辑 etcprofile 文件添加以下内容以配置Java环境变量
+
+bash
+sudo nano etcprofile
+
+
+在文件末尾添加以下内容
+
+bash
+export JAVAHOMEusrlocaljavajdk180202
+export PATHJAVAHOMEbinPATH
+
+
+保存并退出编辑器
+
+ 4 使配置生效
+
+运行以下命令使环境变量生效
+
+bash
+source etcprofile
+
+
+ 5 验证安装
+
+通过以下命令验证JDK是否安装成功
+
+bash
+java version
+
+
+如果安装成功将显示类似以下信息
+
+bash
+java version 180202"
 date:   2021-12-24
 tags: [8u202,java,bash,安装,Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi读写Office Word DOCX文档控件DOCXReadWrite & AXWReport开发帮助手册中英文对照版"
+title: "Delphi读写Office Word DOCX文档控件DOCXReadWrite  AXWReport开发帮助手册中英文对照版"
 date:   2021-06-16
 tags: [Delphi,Word,DOCX,文档,手册]
 comments: true

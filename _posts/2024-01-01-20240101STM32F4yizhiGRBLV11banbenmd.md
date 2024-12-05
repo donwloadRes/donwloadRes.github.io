@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4移植GRBL V1.1版本"
+title: "STM32F4移植GRBL V11版本"
 date:   2022-08-16
 tags: [GRBL,STM32F4,V1.1,移植,版本]
 comments: true

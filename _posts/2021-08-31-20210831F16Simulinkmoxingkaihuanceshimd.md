@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F16-Simulink模型开环测试"
+title: "F16Simulink模型开环测试"
 date:   2020-01-20
 tags: [F16,开环,Simulink,轴系,模型]
 comments: true

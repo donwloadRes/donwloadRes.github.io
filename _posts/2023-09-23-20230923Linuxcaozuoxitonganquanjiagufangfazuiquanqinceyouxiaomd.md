@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux操作系统安全加固方法（最全，亲测有效）"
+title: "Linux操作系统安全加固方法最全亲测有效"
 date:   2022-11-10
 tags: [安全,Linux,加固,指南,亲测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 4.2.2 编译版下载"
+title: "FFmpeg 422 编译版下载"
 date:   2024-10-25
 tags: [FFmpeg,编译,4.2,下载,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口VSPD和XCOM的下载、安装与使用指南"
+title: "虚拟串口VSPD和XCOM的下载安装与使用指南"
 date:   2021-01-19
 tags: [串口,XCOM,VSPD,虚拟,安装]
 comments: true

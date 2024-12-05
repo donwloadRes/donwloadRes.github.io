@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 模型预测控制（MPC）工具箱的使用"
+title: "MATLAB 模型预测控制MPC工具箱的使用"
 date:   2020-02-20
 tags: [MPC,MATLAB,SIMULINK,工具箱,模型]
 comments: true

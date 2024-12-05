@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RIFFA 2.2.2 资源文件介绍"
+title: "RIFFA 222 资源文件介绍"
 date:   2021-06-18
 tags: [RIFFA,FPGA,CPU,2.2,数据传输]
 comments: true

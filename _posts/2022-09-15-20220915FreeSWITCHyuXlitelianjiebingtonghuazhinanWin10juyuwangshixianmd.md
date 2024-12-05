@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeSWITCH与X-lite连接并通话指南（Win10局域网实现）"
+title: "FreeSWITCH与Xlite连接并通话指南Win10局域网实现"
 date:   2021-05-11
 tags: [FreeSWITCH,lite,通话,安装,指南]
 comments: true

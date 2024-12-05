@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V DSP 扩展指令集文档介绍"
+title: "RISCV DSP 扩展指令集文档介绍"
 date:   2024-04-26
 tags: [扩展,RISC,指令集,文档,指令]
 comments: true

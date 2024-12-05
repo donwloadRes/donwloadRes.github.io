@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H7，FDCAN与CAN兼容完整工程"
+title: "STM32H7FDCAN与CAN兼容完整工程"
 date:   2023-01-04
 tags: [FDCAN,STM32CubeMX,兼容,STM32H7,工程]
 comments: true

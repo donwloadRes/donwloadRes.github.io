@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAMA数据管理知识体系指南（DMBOK2）框架V2版"
+title: "DAMA数据管理知识体系指南DMBOK2框架V2版"
 date:   2022-11-02
 tags: [数据管理,DAMA,DMBOK2,V2,指南]
 comments: true

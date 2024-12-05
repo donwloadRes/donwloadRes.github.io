@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：51单片机环境数据采集与云端展示系统"
+title: "毕业设计51单片机环境数据采集与云端展示系统"
 date:   2022-01-08
 tags: [单片机,阿里,51,数据,MQTT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus RTU与Modbus TCP-IP控件包（含示例源码）"
+title: "Modbus RTU与Modbus TCPIP控件包含示例源码"
 date:   2022-11-03
 tags: [示例,控件,源码,Modbus,寄存器]
 comments: true

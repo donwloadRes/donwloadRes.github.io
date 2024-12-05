@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易康最优分割尺度确定ESP2插件（附使用说明）"
+title: "易康最优分割尺度确定ESP2插件附使用说明"
 date:   2024-11-06
 tags: [插件,易康,ESP2,使用,说明]
 comments: true

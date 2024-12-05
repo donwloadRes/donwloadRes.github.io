@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ Redistributable Packages合集"
+title: "Visual C Redistributable Packages合集"
 date:   2020-07-21
 tags: [Visual,C++,Redistributable,版本,合集]
 comments: true

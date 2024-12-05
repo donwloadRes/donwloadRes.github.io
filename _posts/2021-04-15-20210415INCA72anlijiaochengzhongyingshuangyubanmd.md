@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INCA 7.2案例教程(中英双语版)"
+title: "INCA 72案例教程中英双语版"
 date:   2020-03-09
 tags: [INCA,教程,7.2,案例,中英版]
 comments: true

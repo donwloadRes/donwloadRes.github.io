@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT-SoVITS 一键整合包- AIStarter启动器专属"
+title: "GPTSoVITS 一键整合包 AIStarter启动器专属"
 date:   2022-02-13
 tags: [样本,启动器,语音,AIStarter,TTS]
 comments: true

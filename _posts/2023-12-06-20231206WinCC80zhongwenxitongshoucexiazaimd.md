@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC 8.0 中文系统手册下载"
+title: "WinCC 80 中文系统手册下载"
 date:   2023-08-16
 tags: [手册,WinCC,8.0,中文系统,下载]
 comments: true

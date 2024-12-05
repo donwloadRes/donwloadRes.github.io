@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nerf-slam复现文档"
+title: "nerfslam复现文档"
 date:   2023-07-26
 tags: [文档,复现,nerf,slam,源码]
 comments: true

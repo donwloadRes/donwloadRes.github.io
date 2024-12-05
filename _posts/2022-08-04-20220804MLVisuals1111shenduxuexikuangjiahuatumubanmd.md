@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML Visuals 11.11深度学习框架画图模板"
+title: "ML Visuals 1111深度学习框架画图模板"
 date:   2021-08-22
 tags: [模板,学习,机器,图示,ML]
 comments: true

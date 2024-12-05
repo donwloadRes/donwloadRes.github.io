@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FreeRTOS的STM32多功能手表（软件设计）"
+title: "基于FreeRTOS的STM32多功能手表软件设计"
 date:   2024-11-01
 tags: [FreeRTOS,任务,显示,闹钟,菜单]
 comments: true

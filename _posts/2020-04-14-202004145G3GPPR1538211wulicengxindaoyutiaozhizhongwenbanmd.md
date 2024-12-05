@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G 3GPP R15 38.211物理层信道与调制（中文版）"
+title: "5G 3GPP R15 38211物理层信道与调制中文版"
 date:   2023-02-23
 tags: [5G,物理层,信道,调制,3GPP]
 comments: true

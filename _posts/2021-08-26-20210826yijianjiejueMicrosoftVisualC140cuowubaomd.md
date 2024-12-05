@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键解决Microsoft Visual C++ 14.0错误包"
+title: "一键解决Microsoft Visual C 140错误包"
 date:   2024-04-28
 tags: [C++,解决,Microsoft,Visual,14.0]
 comments: true

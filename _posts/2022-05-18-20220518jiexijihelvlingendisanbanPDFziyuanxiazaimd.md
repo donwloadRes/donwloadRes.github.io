@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解析几何(吕林根)第三版PDF资源下载"
+title: "解析几何吕林根第三版PDF资源下载"
 date:   2020-02-23
 tags: [解析几何,吕林根,PDF,第三版,仓库]
 comments: true

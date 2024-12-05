@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全RTL8364-RTL8367 API文档及驱动源码资源"
+title: "全网最全RTL8364RTL8367 API文档及驱动源码资源"
 date:   2021-03-30
 tags: [源码,API,文档,RTL8364,RTL8367]
 comments: true

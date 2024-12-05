@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "万能库克 - 谷歌浏览器通用缓存Cookie提取下载软件"
+title: "万能库克  谷歌浏览器通用缓存Cookie提取下载软件"
 date:   2021-10-19
 tags: [Cookie,提取,软件,库克,数据]
 comments: true

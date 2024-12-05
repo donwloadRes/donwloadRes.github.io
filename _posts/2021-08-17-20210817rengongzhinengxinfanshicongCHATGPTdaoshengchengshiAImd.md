@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能新范式：从CHAT-GPT到生成式AI"
+title: "人工智能新范式从CHATGPT到生成式AI"
 date:   2021-06-08
 tags: [AI,生成式,人工智能,范式,CHAT]
 comments: true

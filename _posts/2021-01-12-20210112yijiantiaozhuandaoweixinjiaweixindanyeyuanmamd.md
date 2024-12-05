@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键跳转到微信-加微信单页源码"
+title: "一键跳转到微信加微信单页源码"
 date:   2023-10-14
 tags: [微信,源码,用户,网页,跳转]
 comments: true

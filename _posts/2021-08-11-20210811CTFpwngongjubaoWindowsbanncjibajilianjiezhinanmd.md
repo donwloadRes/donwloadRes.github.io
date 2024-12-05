@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF pwn 工具包：Windows 版 nc 及靶机链接指南"
+title: "CTF pwn 工具包Windows 版 nc 及靶机链接指南"
 date:   2023-03-12
 tags: [nc,靶机,Windows,工具,CTF]
 comments: true

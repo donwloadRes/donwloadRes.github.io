@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "msvcr110.dll 下载指南"
+title: "msvcr110dll 下载指南"
 date:   2020-04-12
 tags: [msvcr110,dll,文件,Windows,下载]
 comments: true

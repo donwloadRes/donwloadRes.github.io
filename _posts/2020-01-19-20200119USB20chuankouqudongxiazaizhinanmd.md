@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0串口驱动下载指南"
+title: "USB20串口驱动下载指南"
 date:   2022-05-16
 tags: [串口,驱动,Windows,USB2.0,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP安装教程：最全最详细指南"
+title: "eNSP安装教程最全最详细指南"
 date:   2020-06-27
 tags: [安装,eNSP,教程,步骤,插件]
 comments: true

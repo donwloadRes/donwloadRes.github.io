@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab-Simulink基础教程"
+title: "MatlabSimulink基础教程"
 date:   2021-02-04
 tags: [Simulink,仿真,模型,Matlab,基础教程]
 comments: true

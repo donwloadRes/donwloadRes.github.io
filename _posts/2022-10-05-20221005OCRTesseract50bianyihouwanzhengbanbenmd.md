@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCR-Tesseract5.0编译后完整版本"
+title: "OCRTesseract50编译后完整版本"
 date:   2021-03-13
 tags: [OCR,Tesseract5.0,编译,Tesseract,版本]
 comments: true

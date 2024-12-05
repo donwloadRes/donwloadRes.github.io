@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米盒子3刷回老版本并安装KODI 18.9教程"
+title: "小米盒子3刷回老版本并安装KODI 189教程"
 date:   2023-05-09
 tags: [KODI,盒子,小米,版本,18.9]
 comments: true

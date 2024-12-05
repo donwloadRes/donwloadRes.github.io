@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEF Chromium 109.0.5414.8 x64 支持视频播放"
+title: "CEF Chromium 109054148 x64 支持视频播放"
 date:   2024-11-24
 tags: [CEF,播放,视频,Chromium,5414.8]
 comments: true

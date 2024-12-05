@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lane-GCN代码（轨迹预测）资源下载"
+title: "LaneGCN代码轨迹预测资源下载"
 date:   2024-05-01
 tags: [轨迹,文件,GCN,代码,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野火指南者（STM32F103）移植LVGL"
+title: "野火指南者STM32F103移植LVGL"
 date:   2021-03-16
 tags: [LVGL,文件,STM32F103,开发板,移植]
 comments: true

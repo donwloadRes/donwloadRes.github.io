@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译器资源文件（gcc、g++）"
+title: "编译器资源文件gccg"
 date:   2021-06-11
 tags: [编译器,gcc,++,资源,示例]
 comments: true

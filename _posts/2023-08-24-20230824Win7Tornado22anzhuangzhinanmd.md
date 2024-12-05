@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win 7 Tornado 2.2 安装指南"
+title: "Win 7 Tornado 22 安装指南"
 date:   2020-07-22
 tags: [Tornado,安装,2.2,文件夹,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome浏览器视频倍速插件：Video Speed Controller"
+title: "Chrome浏览器视频倍速插件Video Speed Controller"
 date:   2023-01-11
 tags: [插件,倍速,视频,浏览器,Chrome]
 comments: true

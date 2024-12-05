@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMMI模型V2.0 中文完整版下载"
+title: "CMMI模型V20 中文完整版下载"
 date:   2020-03-10
 tags: [CMMI,V2.0,完整版,模型,中文]
 comments: true

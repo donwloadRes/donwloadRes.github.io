@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSCAD详细使用教程（中文）"
+title: "PSCAD详细使用教程中文"
 date:   2021-01-12
 tags: [PSCAD,教程,EMTDC,章节,仿真]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yocto用户使用完全手册-V3.5"
+title: "Yocto用户使用完全手册V35"
 date:   2021-08-07
 tags: [Yocto,Linux,嵌入式,定制,V3.5]
 comments: true

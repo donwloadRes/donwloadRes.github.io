@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB.NET水晶报表Crystal Reports学习资源"
+title: "VBNET水晶报表Crystal Reports学习资源"
 date:   2021-01-22
 tags: [报表,安装,Dim,rt,rtUserNameValues]
 comments: true

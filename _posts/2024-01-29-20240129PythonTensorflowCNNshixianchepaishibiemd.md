@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Tensorflow+CNN实现车牌识别"
+title: "PythonTensorflowCNN实现车牌识别"
 date:   2020-02-06
 tags: [车牌,模型,CNN,识别,训练]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器驱动 Chromedriver 125.0.6422.60 版本资源下载"
+title: "谷歌浏览器驱动 Chromedriver 1250642260 版本资源下载"
 date:   2021-12-01
 tags: [Chromedriver,浏览器,64,版本,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中南大学LS-DYNA爆炸数值模拟课件"
+title: "中南大学LSDYNA爆炸数值模拟课件"
 date:   2023-07-29
 tags: [LS,DYNA,爆炸,模拟,课件]
 comments: true

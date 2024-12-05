@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2281CL VGA+DVI-HDMI转2ch LVDS 1080P方案设计"
+title: "RTD2281CL VGADVIHDMI转2ch LVDS 1080P方案设计"
 date:   2022-03-25
 tags: [HDMI,DVI,信号,方案设计,Uart]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文分词工具-IKAnalyzer下载及使用指南"
+title: "中文分词工具IKAnalyzer下载及使用指南"
 date:   2024-08-16
 tags: [IKAnalyzer,分词,词库,import,配置文件]
 comments: true

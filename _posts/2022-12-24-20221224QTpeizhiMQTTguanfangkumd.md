@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 配置 MQTT（官方库）"
+title: "QT 配置 MQTT官方库"
 date:   2022-05-06
 tags: [MQTT,QT,TEST,文件夹,文件]
 comments: true

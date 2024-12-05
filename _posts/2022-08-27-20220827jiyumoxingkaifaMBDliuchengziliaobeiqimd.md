@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型开发MBD流程资料——北汽"
+title: "基于模型开发MBD流程资料北汽"
 date:   2022-02-05
 tags: [MBD,流程,北汽,开发,文档]
 comments: true

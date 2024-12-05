@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SQLite 开发示例源码"
+title: "C SQLite 开发示例源码"
 date:   2024-09-23
 tags: [示例,SQLite,源码,C#,代码]
 comments: true

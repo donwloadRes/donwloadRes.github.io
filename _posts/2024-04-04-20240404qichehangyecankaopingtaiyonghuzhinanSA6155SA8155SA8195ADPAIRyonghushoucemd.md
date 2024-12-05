@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车行业参考平台用户指南：SA6155-SA8155-SA8195 ADP-AIR 用户手册"
+title: "汽车行业参考平台用户指南SA6155SA8155SA8195 ADPAIR 用户手册"
 date:   2022-09-05
 tags: [SA6155,SA8155,SA8195,处理器,AIR]
 comments: true

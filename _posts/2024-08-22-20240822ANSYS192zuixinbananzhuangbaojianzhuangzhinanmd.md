@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS 19.2 最新版安装包及安装指南"
+title: "ANSYS 192 最新版安装包及安装指南"
 date:   2022-11-12
 tags: [ANSYS,19.2,安装,安装包,下载]
 comments: true

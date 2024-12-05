@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX31865和PT100-PT1000的小白避坑攻略"
+title: "MAX31865和PT100PT1000的小白避坑攻略"
 date:   2024-05-31
 tags: [PT100,PT1000,攻略,程序修改,MAX31865]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0入门指南：mindshare出品Introduction to USB3.0》"
+title: "USB30入门指南mindshare出品Introduction to USB30"
 date:   2024-08-29
 tags: [USB3.0,手册,Introduction,初学者,学习]
 comments: true

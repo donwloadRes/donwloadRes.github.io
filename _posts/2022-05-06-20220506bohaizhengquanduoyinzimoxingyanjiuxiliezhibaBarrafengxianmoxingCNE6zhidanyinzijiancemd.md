@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "渤海证券-多因子模型研究系列之八：Barra风险模型（CNE6）之单因子检测"
+title: "渤海证券多因子模型研究系列之八Barra风险模型CNE6之单因子检测"
 date:   2021-08-27
 tags: [模型,因子,多因子,Barra,文档]
 comments: true

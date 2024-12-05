@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.7 全套下载指南"
+title: "VMware vSphere 67 全套下载指南"
 date:   2020-11-13
 tags: [VMware,vSphere,6.7,下载,虚拟机]
 comments: true

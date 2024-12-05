@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迷宫问题——栈实现（C语言）（数据结构与算法）"
+title: "迷宫问题栈实现C语言数据结构与算法"
 date:   2023-02-13
 tags: [迷宫,机器人,位置,方向,C语言]
 comments: true

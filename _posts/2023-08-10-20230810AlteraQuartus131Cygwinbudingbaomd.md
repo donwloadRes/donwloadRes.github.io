@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altera Quartus 13.1 Cygwin 补丁包"
+title: "Altera Quartus 131 Cygwin 补丁包"
 date:   2022-10-31
 tags: [补丁包,补丁,文件,Altera,Quartus]
 comments: true

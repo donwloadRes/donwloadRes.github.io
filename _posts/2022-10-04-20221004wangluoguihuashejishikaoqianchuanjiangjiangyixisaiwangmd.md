@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络规划设计师考前串讲讲义 - 希赛网"
+title: "网络规划设计师考前串讲讲义  希赛网"
 date:   2022-02-22
 tags: [希赛,考前,考试,讲义,串讲]
 comments: true

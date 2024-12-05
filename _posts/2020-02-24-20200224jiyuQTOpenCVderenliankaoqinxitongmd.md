@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT+OpenCV的人脸考勤系统"
+title: "基于QTOpenCV的人脸考勤系统"
 date:   2022-07-14
 tags: [考勤,QT,人脸,系统,OpenCV]
 comments: true

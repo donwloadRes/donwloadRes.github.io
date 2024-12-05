@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 课程设计 - 期末项目资源"
+title: "Linux 课程设计  期末项目资源"
 date:   2021-05-24
 tags: [Linux,期末,脚本,课程设计,文档]
 comments: true

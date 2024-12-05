@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【陕西省】地形数据tif格式"
+title: "陕西省地形数据tif格式"
 date:   2020-12-17
 tags: [数据,tif,GIS,陕西省,TIFF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLIN-View基本使用方法"
+title: "PLINView基本使用方法"
 date:   2020-11-29
 tags: [PLIN,View,文档,文件,资源]
 comments: true

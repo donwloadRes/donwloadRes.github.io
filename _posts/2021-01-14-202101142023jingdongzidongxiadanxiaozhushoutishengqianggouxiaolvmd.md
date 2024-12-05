@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 京东自动下单小助手：提升抢购效率"
+title: "2023 京东自动下单小助手提升抢购效率"
 date:   2020-01-18
 tags: [下单,助手,自动,Python,抢购]
 comments: true

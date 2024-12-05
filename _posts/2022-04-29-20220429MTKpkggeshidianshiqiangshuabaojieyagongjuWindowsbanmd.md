@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK_pkg格式电视强刷包解压工具（Windows版）"
+title: "MTKpkg格式电视强刷包解压工具Windows版"
 date:   2024-11-08
 tags: [解压,固件,pkg,格式,工具]
 comments: true

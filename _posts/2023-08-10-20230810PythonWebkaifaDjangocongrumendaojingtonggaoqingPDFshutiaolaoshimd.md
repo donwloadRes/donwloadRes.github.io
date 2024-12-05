@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Web开发-Django从入门到精通(高清PDF，薯条老师)"
+title: "Python Web开发Django从入门到精通高清PDF薯条老师"
 date:   2023-06-13
 tags: [Django,PDF,薯条,高清,教程]
 comments: true

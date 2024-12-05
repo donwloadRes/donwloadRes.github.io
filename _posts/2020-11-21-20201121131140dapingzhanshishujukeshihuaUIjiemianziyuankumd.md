@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "131-140大屏展示数据可视化UI界面资源库"
+title: "131140大屏展示数据可视化UI界面资源库"
 date:   2020-07-29
 tags: [资源库,PSD,可视化,预览,数据]
 comments: true

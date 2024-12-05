@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Simulink搭建风力发电系统和控制 - 基于B站视频搭建"
+title: "使用Simulink搭建风力发电系统和控制  基于B站视频搭建"
 date:   2021-02-22
 tags: [模型,Simulink,搭建,风力,发电]
 comments: true

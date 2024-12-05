@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 14549-93 电能质量-公用电网谐波 资源下载"
+title: "GBT 1454993 电能质量公用电网谐波 资源下载"
 date:   2021-08-17
 tags: [谐波,公用,93,电网,电能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpcUA C#实现资源下载"
+title: "OpcUA C实现资源下载"
 date:   2024-05-01
 tags: [OpcUA,C#,资源,实现,Client]
 comments: true

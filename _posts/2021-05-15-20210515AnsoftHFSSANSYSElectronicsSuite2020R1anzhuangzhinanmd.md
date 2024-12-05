@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ansoft HFSS——ANSYS Electronics Suite 2020R1 安装指南"
+title: "Ansoft HFSSANSYS Electronics Suite 2020R1 安装指南"
 date:   2021-02-24
 tags: [安装,解压,破解,指南,Ansoft]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2018.3 生成和加载 MCS 文件详细过程指南"
+title: "Vivado 20183 生成和加载 MCS 文件详细过程指南"
 date:   2022-01-30
 tags: [MCS,加载,文档,文件,生成]
 comments: true

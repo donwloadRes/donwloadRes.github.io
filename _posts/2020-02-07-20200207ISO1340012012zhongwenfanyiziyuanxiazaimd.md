@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO13400-1-2012中文翻译资源下载"
+title: "ISO1340012012中文翻译资源下载"
 date:   2022-06-16
 tags: [ISO13400,2012,DoIP,中文翻译,文件]
 comments: true

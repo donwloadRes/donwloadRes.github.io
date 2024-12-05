@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的MQ-2烟雾气体传感器实验"
+title: "基于STM32的MQ2烟雾气体传感器实验"
 date:   2024-01-19
 tags: [STM32,传感器,实验,MQ,烟雾]
 comments: true

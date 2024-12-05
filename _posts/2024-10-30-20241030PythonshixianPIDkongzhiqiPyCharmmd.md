@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现PID控制器 (PyCharm)"
+title: "Python实现PID控制器 PyCharm"
 date:   2020-04-03
 tags: [PID,PyCharm,控制器,Python,py]
 comments: true

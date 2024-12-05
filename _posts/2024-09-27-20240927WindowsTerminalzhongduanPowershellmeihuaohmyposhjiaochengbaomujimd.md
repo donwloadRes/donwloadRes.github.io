@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Terminal-终端 Powershell 美化——oh my posh教程（保姆级）"
+title: "Windows Terminal终端 Powershell 美化oh my posh教程保姆级"
 date:   2023-10-22
 tags: [Powershell,oh,my,posh,Windows]
 comments: true

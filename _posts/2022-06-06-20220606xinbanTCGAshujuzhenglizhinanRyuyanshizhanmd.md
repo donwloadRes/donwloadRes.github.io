@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新版TCGA数据整理指南 - R语言实战"
+title: "新版TCGA数据整理指南  R语言实战"
 date:   2021-03-07
 tags: [TCGA,数据,脚本,语言,新版]
 comments: true

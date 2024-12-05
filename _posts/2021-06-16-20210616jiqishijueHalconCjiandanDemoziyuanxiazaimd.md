@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉Halcon+C#（简单Demo）资源下载"
+title: "机器视觉HalconC简单Demo资源下载"
 date:   2020-03-14
 tags: [Demo,Halcon,C#,识别,视觉]
 comments: true

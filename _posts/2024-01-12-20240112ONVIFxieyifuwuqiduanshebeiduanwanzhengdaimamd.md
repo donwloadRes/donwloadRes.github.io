@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONVIF协议服务器端（设备端）完整代码"
+title: "ONVIF协议服务器端设备端完整代码"
 date:   2023-09-10
 tags: [代码,ONVIF,服务器端,Windows,Linux]
 comments: true

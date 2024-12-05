@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全Pycharm教程 - 精编版"
+title: "最全Pycharm教程  精编版"
 date:   2023-11-30
 tags: [Pycharm,教程,精编,Python,技巧]
 comments: true

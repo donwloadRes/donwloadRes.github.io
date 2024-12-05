@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 22H2 更新版（2024年6月）中文版与英文版下载"
+title: "Windows 10 22H2 更新版2024年6月中文版与英文版下载"
 date:   2022-01-28
 tags: [2024,下载,Windows,10,22H2]
 comments: true

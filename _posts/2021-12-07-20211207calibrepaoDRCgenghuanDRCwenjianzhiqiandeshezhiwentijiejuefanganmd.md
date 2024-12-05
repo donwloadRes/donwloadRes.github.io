@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "calibre跑DRC、更换DRC文件之前的设置问题解决方案"
+title: "calibre跑DRC更换DRC文件之前的设置问题解决方案"
 date:   2022-07-19
 tags: [DRC,calibre,文件,路径,参数]
 comments: true

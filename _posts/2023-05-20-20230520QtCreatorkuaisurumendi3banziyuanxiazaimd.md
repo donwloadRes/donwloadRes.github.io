@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Creator快速入门(第3版)资源下载"
+title: "Qt Creator快速入门第3版资源下载"
 date:   2024-02-11
 tags: [Qt,Creator,入门,编程,本书]
 comments: true

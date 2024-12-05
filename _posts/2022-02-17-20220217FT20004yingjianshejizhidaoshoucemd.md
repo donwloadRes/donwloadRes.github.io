@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT-2000-4 硬件设计指导手册"
+title: "FT20004 硬件设计指导手册"
 date:   2024-06-26
 tags: [硬件,设计,FT,2000,手册]
 comments: true

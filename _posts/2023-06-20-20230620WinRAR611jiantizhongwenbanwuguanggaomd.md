@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinRAR 6.11 简体中文版（无广告）"
+title: "WinRAR 611 简体中文版无广告"
 date:   2020-06-26
 tags: [简体中文版,WinRAR,6.11,32,64]
 comments: true

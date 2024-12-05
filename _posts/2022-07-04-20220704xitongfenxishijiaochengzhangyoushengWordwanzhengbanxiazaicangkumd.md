@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统分析师教程-张友生（Word完整版）下载仓库"
+title: "系统分析师教程张友生Word完整版下载仓库"
 date:   2024-01-18
 tags: [Word,下载,完整版,教程,张友生]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Kali NetHunter图形化问题(最终版)"
+title: "解决Kali NetHunter图形化问题最终版"
 date:   2023-05-29
 tags: [Kex,NetHunter,图形化,bash,nh]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6基于FreeRTOS V10.0的RTC深度应用示例"
+title: "STM32F103C8T6基于FreeRTOS V100的RTC深度应用示例"
 date:   2024-03-25
 tags: [RTC,FreeRTOS,低功耗,STM32F103C8T6,功耗]
 comments: true

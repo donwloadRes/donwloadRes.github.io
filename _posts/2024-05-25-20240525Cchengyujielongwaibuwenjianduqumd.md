@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++成语接龙外部文件读取"
+title: "C成语接龙外部文件读取"
 date:   2021-03-17
 tags: [成语,接龙,文件,C++,读取]
 comments: true

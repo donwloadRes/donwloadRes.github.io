@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 简单三层框架源码共享"
+title: "C WinForm 简单三层框架源码共享"
 date:   2021-10-06
 tags: [NULL,COLLATE,Chinese,PRC,CI]
 comments: true

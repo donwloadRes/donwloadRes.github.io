@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为MIB大全 - 支持S2300至S6700系列交换机"
+title: "华为MIB大全  支持S2300至S6700系列交换机"
 date:   2023-07-14
 tags: [MIB,华为,HUAWEI,网络设备,交换机]
 comments: true

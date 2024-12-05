@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cookie、Session和Token的区别及使用"
+title: "CookieSession和Token的区别及使用"
 date:   2021-01-01
 tags: [Session,Token,Cookie,用户,客户端]
 comments: true

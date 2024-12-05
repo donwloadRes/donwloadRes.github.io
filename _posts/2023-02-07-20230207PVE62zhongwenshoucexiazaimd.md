@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PVE 6.2 中文手册下载"
+title: "PVE 62 中文手册下载"
 date:   2023-12-18
 tags: [PVE,6.2,手册,中文,文件]
 comments: true

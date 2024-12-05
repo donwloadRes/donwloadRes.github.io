@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR PHY接口DFI 4.0规范"
+title: "DDR PHY接口DFI 40规范"
 date:   2021-11-05
 tags: [DFI,DDR,PHY,4.0,接口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "密码学实验之流密码算法：A5算法与RC4算法加密流程和Python代码实现"
+title: "密码学实验之流密码算法A5算法与RC4算法加密流程和Python代码实现"
 date:   2021-03-21
 tags: [算法,加密,A5,RC4,密钥流]
 comments: true

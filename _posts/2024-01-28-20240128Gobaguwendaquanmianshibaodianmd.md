@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go八股文大全，面试宝典"
+title: "Go八股文大全面试宝典"
 date:   2021-03-08
 tags: [面试,Golang,宝典,文件,这份]
 comments: true

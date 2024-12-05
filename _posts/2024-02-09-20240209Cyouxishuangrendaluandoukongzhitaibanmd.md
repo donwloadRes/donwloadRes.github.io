@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++游戏：双人大乱斗【控制台版】"
+title: "C游戏双人大乱斗控制台版"
 date:   2021-07-23
 tags: [游戏,道具,控制台,小键盘,双人]
 comments: true

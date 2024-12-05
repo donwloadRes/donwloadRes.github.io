@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【干货分享】深入理解汽车CAN总线技术"
+title: "干货分享深入理解汽车CAN总线技术"
 date:   2023-04-20
 tags: [总线,汽车,技术,干货,分享]
 comments: true

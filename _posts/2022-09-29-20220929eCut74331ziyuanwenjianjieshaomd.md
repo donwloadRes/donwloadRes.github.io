@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eCut 7.4.3.31 资源文件介绍"
+title: "eCut 74331 资源文件介绍"
 date:   2024-07-19
 tags: [插件,3.31,eCut,7.4,CorelDRAW]
 comments: true

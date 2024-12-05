@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD3.1 最新协议文本下载"
+title: "USB PD31 最新协议文本下载"
 date:   2023-08-12
 tags: [USB,PD3.1,文本,协议,最新]
 comments: true

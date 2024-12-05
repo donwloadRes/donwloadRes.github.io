@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring Boot的小区物业管理系统源码+论文+答辩PPT"
+title: "基于Spring Boot的小区物业管理系统源码论文答辩PPT"
 date:   2024-10-02
 tags: [Spring,Boot,物业管理,数据库,系统]
 comments: true

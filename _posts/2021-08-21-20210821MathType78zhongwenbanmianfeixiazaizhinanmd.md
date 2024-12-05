@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType 7.8 中文版免费下载指南"
+title: "MathType 78 中文版免费下载指南"
 date:   2020-02-29
 tags: [MathType,激活,输入,数学,中文版]
 comments: true

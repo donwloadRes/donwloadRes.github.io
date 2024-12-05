@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习+OpenCV-4.7.0编译CUDA+编译OpenCV-contrib-4.7.0所需Cache资源"
+title: "深度学习OpenCV470编译CUDA编译OpenCVcontrib470所需Cache资源"
 date:   2023-01-29
 tags: [编译,OpenCV,4.7,CMake,GUI]
 comments: true

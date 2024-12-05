@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libwinpthread-1.dll 文件下载"
+title: "libwinpthread1dll 文件下载"
 date:   2023-09-20
 tags: [libwinpthread,dll,文件,仓库,下载]
 comments: true

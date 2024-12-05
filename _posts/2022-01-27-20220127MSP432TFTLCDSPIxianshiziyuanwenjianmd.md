@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP432 TFT-LCD SPI 显示资源文件"
+title: "MSP432 TFTLCD SPI 显示资源文件"
 date:   2021-03-25
 tags: [TFT,LCD,SPI,MSP432,文件]
 comments: true

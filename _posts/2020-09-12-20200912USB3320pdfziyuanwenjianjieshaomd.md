@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3320.pdf 资源文件介绍"
+title: "USB3320pdf 资源文件介绍"
 date:   2023-08-19
 tags: [USB3320,pdf,USB,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT多线程实战源代码（QThread）"
+title: "QT多线程实战源代码QThread"
 date:   2024-09-21
 tags: [多线程,QT,源代码,示例,代码]
 comments: true

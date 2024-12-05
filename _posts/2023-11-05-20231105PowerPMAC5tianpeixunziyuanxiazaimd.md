@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power PMAC 5-天培训资源下载"
+title: "Power PMAC 5天培训资源下载"
 date:   2020-01-07
 tags: [Power,PMAC,培训,资源,下载]
 comments: true

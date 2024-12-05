@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H750VB-IB-XB 数据手册下载"
+title: "STM32H750VBIBXB 数据手册下载"
 date:   2021-12-17
 tags: [STM32H750VB,IB,XB,手册,微控制器]
 comments: true

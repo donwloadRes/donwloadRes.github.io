@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络协议TCP-IP实验五 ICMP 协议分析实验"
+title: "网络协议TCPIP实验五 ICMP 协议分析实验"
 date:   2022-08-25
 tags: [ICMP,实验,协议,网络协议,实验报告]
 comments: true

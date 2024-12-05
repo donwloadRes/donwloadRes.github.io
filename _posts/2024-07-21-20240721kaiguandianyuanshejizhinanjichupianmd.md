@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源设计指南——基础篇"
+title: "开关电源设计指南基础篇"
 date:   2021-04-11
 tags: [开关电源,设计,指南,理解,PDF]
 comments: true

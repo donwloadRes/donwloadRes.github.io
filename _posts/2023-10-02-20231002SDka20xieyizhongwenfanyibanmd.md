@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD卡2.0协议中文翻译版"
+title: "SD卡20协议中文翻译版"
 date:   2024-04-07
 tags: [中文翻译,SD,SDIO,翻译,模式]
 comments: true

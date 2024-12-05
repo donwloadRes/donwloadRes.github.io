@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wi-Fi EasyMesh 规范 v3 文档下载"
+title: "WiFi EasyMesh 规范 v3 文档下载"
 date:   2024-02-12
 tags: [Wi,Fi,EasyMesh,文档,v3]
 comments: true

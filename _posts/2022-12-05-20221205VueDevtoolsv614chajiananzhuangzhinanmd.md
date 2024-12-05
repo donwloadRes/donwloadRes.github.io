@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Devtools v6.1.4 插件安装指南"
+title: "Vue Devtools v614 插件安装指南"
 date:   2020-12-28
 tags: [插件,Vue,开发者,Devtools,安装]
 comments: true

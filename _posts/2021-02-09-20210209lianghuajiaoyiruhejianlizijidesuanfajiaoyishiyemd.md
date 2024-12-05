@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量化交易：如何建立自己的算法交易事业"
+title: "量化交易如何建立自己的算法交易事业"
 date:   2021-08-20
 tags: [量化,交易,算法,事业,文件]
 comments: true

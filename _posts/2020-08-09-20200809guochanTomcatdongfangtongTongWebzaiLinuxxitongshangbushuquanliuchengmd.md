@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产Tomcat东方通（TongWeb）在Linux系统上部署全流程"
+title: "国产Tomcat东方通TongWeb在Linux系统上部署全流程"
 date:   2022-02-26
 tags: [TongWeb,Linux,部署,安装包,Tomcat]
 comments: true

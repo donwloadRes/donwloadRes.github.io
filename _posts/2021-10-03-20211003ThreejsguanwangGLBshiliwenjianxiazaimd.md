@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 官网 GLB 示例文件下载"
+title: "Threejs 官网 GLB 示例文件下载"
 date:   2021-10-04
 tags: [示例,文件,js,Three,官网]
 comments: true

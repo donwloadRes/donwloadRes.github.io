@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI教程(适用于初学者)"
+title: "ENVI教程适用于初学者"
 date:   2022-11-28
 tags: [ENVI,教程,初学者,图像处理,光谱分析]
 comments: true

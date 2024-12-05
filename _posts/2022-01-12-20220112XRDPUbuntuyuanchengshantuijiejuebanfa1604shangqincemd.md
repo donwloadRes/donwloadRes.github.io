@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XRDP Ubuntu远程闪退解决办法（16.04上亲测）"
+title: "XRDP Ubuntu远程闪退解决办法1604上亲测"
 date:   2023-10-10
 tags: [XRDP,Ubuntu,闪退,sudo,远程]
 comments: true

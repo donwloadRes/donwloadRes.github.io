@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5+CSS3实现哔哩哔哩首页（完整版）"
+title: "HTML5CSS3实现哔哩哔哩首页完整版"
 date:   2020-02-13
 tags: [哔哩,首页,CSS,轮播,HTML5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统下5分钟配置好PCL（debug和release）"
+title: "Windows系统下5分钟配置好PCLdebug和release"
 date:   2024-05-10
 tags: [PCL,x64,配置,添加,Windows]
 comments: true

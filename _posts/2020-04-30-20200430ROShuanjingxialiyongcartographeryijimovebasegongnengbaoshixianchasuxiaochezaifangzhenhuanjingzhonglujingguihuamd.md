@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS环境下利用cartographer以及move_base功能包实现差速小车在仿真环境中路径规划"
+title: "ROS环境下利用cartographer以及movebase功能包实现差速小车在仿真环境中路径规划"
 date:   2024-07-16
 tags: [cartographer,move,base,路径,ROS]
 comments: true

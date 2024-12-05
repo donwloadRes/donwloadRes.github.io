@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EB8000 V465.16 威纶触摸屏软件下载"
+title: "EB8000 V46516 威纶触摸屏软件下载"
 date:   2020-12-20
 tags: [威纶,触摸屏,软件,EB8000,下载]
 comments: true

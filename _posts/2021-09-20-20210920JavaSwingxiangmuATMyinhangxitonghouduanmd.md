@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Swing项目：ATM银行系统后端"
+title: "Java Swing项目ATM银行系统后端"
 date:   2023-12-24
 tags: [数据库,Java,Swing,ATM,项目]
 comments: true

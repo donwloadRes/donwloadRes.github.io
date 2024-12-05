@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++6.0百度网盘安装包下载指南"
+title: "VC60百度网盘安装包下载指南"
 date:   2024-06-13
 tags: [C++,6.0,安装包,安装,百度网]
 comments: true

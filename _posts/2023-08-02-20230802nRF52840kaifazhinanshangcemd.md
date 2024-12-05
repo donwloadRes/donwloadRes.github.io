@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nRF52840开发指南-上册"
+title: "nRF52840开发指南上册"
 date:   2020-03-08
 tags: [nRF52840,指南,开发,上册,芯片]
 comments: true

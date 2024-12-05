@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙HC-05仿真和程序资源库"
+title: "蓝牙HC05仿真和程序资源库"
 date:   2021-08-18
 tags: [HC,05,蓝牙,仿真,模块]
 comments: true

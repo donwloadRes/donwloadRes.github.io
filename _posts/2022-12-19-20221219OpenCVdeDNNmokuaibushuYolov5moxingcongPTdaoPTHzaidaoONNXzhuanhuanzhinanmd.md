@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV的DNN模块部署Yolov5模型：从PT到PTH再到ONNX转换指南"
+title: "OpenCV的DNN模块部署Yolov5模型从PT到PTH再到ONNX转换指南"
 date:   2021-10-04
 tags: [模型,OpenCV,ONNX,DNN,Yolov5]
 comments: true

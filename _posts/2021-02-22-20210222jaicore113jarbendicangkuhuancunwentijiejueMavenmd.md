@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jai-core-1.1.3.jar 本地仓库缓存问题解决（Maven）"
+title: "jaicore113jar 本地仓库缓存问题解决Maven"
 date:   2023-02-13
 tags: [jai,core,1.1,jar,Maven]
 comments: true

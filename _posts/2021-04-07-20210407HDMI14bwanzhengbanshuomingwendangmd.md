@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 1.4b 完整版说明文档"
+title: "HDMI 14b 完整版说明文档"
 date:   2021-02-17
 tags: [文档,HDMI,1.4,完整版,说明]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simetrix-Simplis 仿真软件中文教程"
+title: "SimetrixSimplis 仿真软件中文教程"
 date:   2020-09-02
 tags: [仿真,Simetrix,Simplis,软件,分析]
 comments: true

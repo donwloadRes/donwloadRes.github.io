@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IIC学习之SHT30温湿度传感器(基于STM32)配套资料"
+title: "IIC学习之SHT30温湿度传感器基于STM32配套资料"
 date:   2023-08-11
 tags: [STM32,SHT30,温湿度,传感器,IIC]
 comments: true

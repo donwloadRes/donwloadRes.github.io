@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT串口助手：识别串口号，发送，接收，十六进制"
+title: "QT串口助手识别串口号发送接收十六进制"
 date:   2024-01-12
 tags: [串口,QT,发送,接收,十六进制]
 comments: true

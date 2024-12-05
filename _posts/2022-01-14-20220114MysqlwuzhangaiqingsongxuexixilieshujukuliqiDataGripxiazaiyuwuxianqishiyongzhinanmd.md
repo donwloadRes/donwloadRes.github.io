@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mysql 无障碍轻松学习系列 - 数据库利器 DataGrip 下载与无限期试用指南"
+title: "Mysql 无障碍轻松学习系列  数据库利器 DataGrip 下载与无限期试用指南"
 date:   2022-10-06
 tags: [DataGrip,数据库,试用,插件,下载]
 comments: true

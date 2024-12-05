@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform画图板"
+title: "C Winform画图板"
 date:   2020-01-09
 tags: [绘制,工具,绘图,取色,图片]
 comments: true

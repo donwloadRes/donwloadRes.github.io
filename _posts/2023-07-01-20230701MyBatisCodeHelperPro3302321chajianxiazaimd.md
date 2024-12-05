@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyBatisCodeHelperPro 3.3.0+2321 插件下载"
+title: "MyBatisCodeHelperPro 3302321 插件下载"
 date:   2020-02-18
 tags: [插件,MyBatisCodeHelperPro,Idea,3.3,2321]
 comments: true

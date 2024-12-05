@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEVC-HEIF-HEIC扩展库离线安装包"
+title: "HEVCHEIFHEIC扩展库离线安装包"
 date:   2022-10-24
 tags: [HEIC,Windows,10,安装包,离线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type-C与Micro USB接口封装及3D模型资源"
+title: "TypeC与Micro USB接口封装及3D模型资源"
 date:   2021-12-13
 tags: [封装,3D,接口,USB,Type]
 comments: true

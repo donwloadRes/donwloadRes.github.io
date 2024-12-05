@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计学生成绩管理系统V1.0"
+title: "C语言程序设计学生成绩管理系统V10"
 date:   2024-09-13
 tags: [学生,总分,C语言,平均分,排序]
 comments: true

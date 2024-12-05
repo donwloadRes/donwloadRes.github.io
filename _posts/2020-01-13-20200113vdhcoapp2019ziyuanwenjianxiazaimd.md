@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vdhcoapp-2.0.19 资源文件下载"
+title: "vdhcoapp2019 资源文件下载"
 date:   2022-12-02
 tags: [2.0,19,vdhcoapp,文件,下载]
 comments: true

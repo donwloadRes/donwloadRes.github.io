@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学数字逻辑综合实验：实验4-Verilog时序逻辑设计"
+title: "电子科技大学数字逻辑综合实验实验4Verilog时序逻辑设计"
 date:   2021-11-10
 tags: [实验,逻辑设计,仿真,Verilog,时序]
 comments: true

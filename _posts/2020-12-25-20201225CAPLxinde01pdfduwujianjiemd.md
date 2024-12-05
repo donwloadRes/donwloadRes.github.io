@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAPL心得-01.pdf 读物简介"
+title: "CAPL心得01pdf 读物简介"
 date:   2021-04-14
 tags: [CAPL,01,pdf,变量,心得]
 comments: true

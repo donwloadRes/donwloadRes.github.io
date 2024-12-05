@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32应用指南：控制舵机SG90-MG996R-数字舵机"
+title: "STM32应用指南控制舵机SG90MG996R数字舵机"
 date:   2022-06-07
 tags: [舵机,STM32,4.8,6V,SG90]
 comments: true

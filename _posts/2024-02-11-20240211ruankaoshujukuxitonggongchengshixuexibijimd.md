@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考-数据库系统工程师（学习笔记）"
+title: "软考数据库系统工程师学习笔记"
 date:   2024-05-12
 tags: [笔记,数据库系统,软考,工程师,学习]
 comments: true

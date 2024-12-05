@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS插件-Photoshop脚本插件-表格绘制"
+title: "PS插件Photoshop脚本插件表格绘制"
 date:   2021-05-31
 tags: [插件,Photoshop,表格,绘制,PS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲁棒控制-基于线性矩阵不等式"
+title: "鲁棒控制基于线性矩阵不等式"
 date:   2024-09-21
 tags: [鲁棒控制,不等式,矩阵,基于,资源]
 comments: true

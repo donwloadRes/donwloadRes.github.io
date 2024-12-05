@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL学生成绩管理系统"
+title: "PHPMySQL学生成绩管理系统"
 date:   2023-04-28
 tags: [成绩,学生,课程,数据库,教师]
 comments: true

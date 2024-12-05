@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevComponents.DotNetBar2源码完整无错版"
+title: "DevComponentsDotNetBar2源码完整无错版"
 date:   2023-09-18
 tags: [源码,DevComponents,DotNetBar2,Visual,Studio]
 comments: true

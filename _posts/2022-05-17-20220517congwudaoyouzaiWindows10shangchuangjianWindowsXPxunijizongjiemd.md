@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从无到有：在Windows 10上创建Windows XP虚拟机总结"
+title: "从无到有在Windows 10上创建Windows XP虚拟机总结"
 date:   2021-01-26
 tags: [虚拟机,Windows,XP,镜像文件,创建]
 comments: true

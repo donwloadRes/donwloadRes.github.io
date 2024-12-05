@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学、机器视觉与控制中文版PDF资源"
+title: "机器人学机器视觉与控制中文版PDF资源"
 date:   2023-09-16
 tags: [机器人学,PDF,视觉,中文版,机器]
 comments: true

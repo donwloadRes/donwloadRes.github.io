@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB9254-2008 国家标准PDF下载"
+title: "GB92542008 国家标准PDF下载"
 date:   2023-09-04
 tags: [GB9254,2008,PDF,文件,下载]
 comments: true

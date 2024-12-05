@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【正点原子】I.MX6U嵌入式Linux驱动开发指南V1.2"
+title: "正点原子IMX6U嵌入式Linux驱动开发指南V12"
 date:   2024-09-16
 tags: [Linux,嵌入式,开发,驱动,MX6U]
 comments: true

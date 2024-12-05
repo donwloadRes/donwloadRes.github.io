@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pandas-1.3.5 安装包下载仓库"
+title: "pandas135 安装包下载仓库"
 date:   2020-12-04
 tags: [pandas,1.3,Python,cp37,cp37m]
 comments: true

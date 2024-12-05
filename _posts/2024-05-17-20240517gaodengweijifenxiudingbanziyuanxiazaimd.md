@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等微积分（修订版）资源下载"
+title: "高等微积分修订版资源下载"
 date:   2023-08-20
 tags: [微积分,高等,修订版,线性代数,下载]
 comments: true

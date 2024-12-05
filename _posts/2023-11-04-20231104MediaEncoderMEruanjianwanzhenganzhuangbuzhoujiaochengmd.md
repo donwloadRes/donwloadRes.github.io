@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Media Encoder(ME)软件完整安装步骤教程"
+title: "Media EncoderME软件完整安装步骤教程"
 date:   2024-04-23
 tags: [Media,Encoder,教程,安装,软件]
 comments: true

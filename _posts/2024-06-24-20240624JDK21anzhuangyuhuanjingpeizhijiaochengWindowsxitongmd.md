@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK21安装与环境配置教程(Windows系统)"
+title: "JDK21安装与环境配置教程Windows系统"
 date:   2020-07-24
 tags: [安装,JDK21,JAVA,Windows,JDK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-C2 ESP8684 WiFi蓝牙开发资料"
+title: "ESP32C2 ESP8684 WiFi蓝牙开发资料"
 date:   2024-05-01
 tags: [固件,模组,ESP32,文档,C2]
 comments: true

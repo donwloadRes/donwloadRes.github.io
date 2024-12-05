@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员C++配套课件 轻松搞定C++语言》"
+title: "黑马程序员C配套课件 轻松搞定C语言"
 date:   2023-01-05
 tags: [课件,C++,语言,程序员,搞定]
 comments: true

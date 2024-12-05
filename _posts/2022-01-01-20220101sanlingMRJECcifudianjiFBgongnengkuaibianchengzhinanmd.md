@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱MR-JE-C伺服电机FB功能块编程指南"
+title: "三菱MRJEC伺服电机FB功能块编程指南"
 date:   2021-10-04
 tags: [功能块,伺服电机,MR,JE,电机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017+OpenCV3.3双目立体视觉与测距资源文件"
+title: "VS2017OpenCV33双目立体视觉与测距资源文件"
 date:   2021-09-22
 tags: [双目,测距,VS2017,视觉,测试]
 comments: true

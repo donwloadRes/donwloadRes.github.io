@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Griffiths电动力学导论》第三版习题解答"
+title: "Griffiths电动力学导论第三版习题解答"
 date:   2023-03-25
 tags: [习题,电动力学,解答,Griffiths,第三版]
 comments: true

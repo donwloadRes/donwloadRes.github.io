@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双目相机标定结果应用——测三维坐标"
+title: "双目相机标定结果应用测三维坐标"
 date:   2021-06-20
 tags: [相机,双目,三维,坐标,Visual]
 comments: true

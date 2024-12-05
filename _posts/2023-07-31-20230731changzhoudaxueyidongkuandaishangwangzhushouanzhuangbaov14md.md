@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常州大学移动宽带上网助手——安装包v1.4"
+title: "常州大学移动宽带上网助手安装包v14"
 date:   2021-11-10
 tags: [宽带,v1.4,用户,安装,移动]
 comments: true

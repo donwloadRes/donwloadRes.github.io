@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TFTLCD-ST7789驱动程序（库函数开发版本）"
+title: "TFTLCDST7789驱动程序库函数开发版本"
 date:   2023-09-24
 tags: [驱动程序,LCD,ST7789,开发板,正点]
 comments: true

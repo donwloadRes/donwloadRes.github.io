@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "究极推荐：36个漂亮的各类型网站源代码打包分享"
+title: "究极推荐36个漂亮的各类型网站源代码打包分享"
 date:   2022-09-18
 tags: [页面,网站,源代码,36,CSS]
 comments: true

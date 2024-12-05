@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T28181网络摄像机模拟器源码"
+title: "GBT28181网络摄像机模拟器源码"
 date:   2023-11-09
 tags: [模拟器,GB,T28181,请求,IPC]
 comments: true

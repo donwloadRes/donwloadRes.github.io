@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "边角网平差源码（C#编写）"
+title: "边角网平差源码C编写"
 date:   2023-10-08
 tags: [源码,网平差,边角,C#,feature]
 comments: true

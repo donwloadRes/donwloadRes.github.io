@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "热敏电阻温度传感器STM32驱动代码（10K，B值3435）"
+title: "热敏电阻温度传感器STM32驱动代码10KB值3435"
 date:   2021-04-03
 tags: [热敏电阻,STM32,代码,温度传感器,3435]
 comments: true

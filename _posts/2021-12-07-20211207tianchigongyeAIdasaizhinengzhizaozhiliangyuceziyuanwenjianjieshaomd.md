@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天池工业AI大赛-智能制造质量预测资源文件介绍"
+title: "天池工业AI大赛智能制造质量预测资源文件介绍"
 date:   2020-01-07
 tags: [参赛者,测试数据,AI,预测,模型]
 comments: true

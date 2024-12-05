@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGisPro脚本工具【8】——用地图斑导出用地用海汇总表"
+title: "ArcGisPro脚本工具8用地图斑导出用地用海汇总表"
 date:   2021-08-23
 tags: [汇总表,Excel,------,...,工具]
 comments: true

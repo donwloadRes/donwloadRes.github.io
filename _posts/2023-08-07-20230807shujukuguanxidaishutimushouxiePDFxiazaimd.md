@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库关系代数题目【手写】PDF下载"
+title: "数据库关系代数题目手写PDF下载"
 date:   2021-10-24
 tags: [数据库,代数,PDF,题目,关系]
 comments: true

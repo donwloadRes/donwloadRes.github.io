@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-SLAVE仿真工程资源下载"
+title: "AXISLAVE仿真工程资源下载"
 date:   2021-04-05
 tags: [Vivado,AXI,SLAVE,仿真,2019.1]
 comments: true

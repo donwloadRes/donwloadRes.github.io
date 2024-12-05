@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "proe 5.0 安装包及学习资源汇总"
+title: "proe 50 安装包及学习资源汇总"
 date:   2024-07-31
 tags: [proe,5.0,安装,安装包,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产FPGA_FMQL20原理图"
+title: "国产FPGAFMQL20原理图"
 date:   2022-11-11
 tags: [原理图,FPGA,FMQL20,文件,国产]
 comments: true

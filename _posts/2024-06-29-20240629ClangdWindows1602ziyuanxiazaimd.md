@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clangd Windows 16.0.2 资源下载"
+title: "Clangd Windows 1602 资源下载"
 date:   2021-05-06
 tags: [clangd,16.0,C++,下载,服务器]
 comments: true

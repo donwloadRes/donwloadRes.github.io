@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【MIKE小工具】计算时间步数助手 - 晏长街"
+title: "MIKE小工具计算时间步数助手  晏长街"
 date:   2021-07-20
 tags: [模拟,MIKE,时间,步长,计算]
 comments: true

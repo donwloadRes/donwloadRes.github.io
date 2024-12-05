@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Klipper固件使用说明-Nano V31"
+title: "Klipper固件使用说明Nano V31"
 date:   2024-11-14
 tags: [固件,Klipper,编译,常见问题,Nano]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 一去丶二三里 Blog（二）PDF资源"
+title: "Qt 一去丶二三里 Blog二PDF资源"
 date:   2023-11-14
 tags: [Qt,PDF,编程,二三里,学习]
 comments: true

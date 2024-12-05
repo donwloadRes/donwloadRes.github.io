@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无需备份！动态磁盘转换为基本磁盘工具"
+title: "无需备份动态磁盘转换为基本磁盘工具"
 date:   2024-08-06
 tags: [磁盘,转换,备份,工具,无需]
 comments: true

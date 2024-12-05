@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP Semiconductors FS6500-FS4500 数据手册下载"
+title: "NXP Semiconductors FS6500FS4500 数据手册下载"
 date:   2023-10-02
 tags: [FS4500,手册,FS6500,下载,NXP]
 comments: true

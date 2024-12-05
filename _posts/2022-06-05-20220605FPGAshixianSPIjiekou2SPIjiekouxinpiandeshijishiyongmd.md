@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现SPI接口（2）--SPI接口芯片的实际使用"
+title: "FPGA实现SPI接口2SPI接口芯片的实际使用"
 date:   2021-11-30
 tags: [SPI,FPGA,Verilog,Testbench,上板]
 comments: true

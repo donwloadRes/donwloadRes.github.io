@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "充电桩海外标准DIN 70121 应用层消息描述(中文版)"
+title: "充电桩海外标准DIN 70121 应用层消息描述中文版"
 date:   2022-05-26
 tags: [充电,应用层,DIN,70121,文档]
 comments: true

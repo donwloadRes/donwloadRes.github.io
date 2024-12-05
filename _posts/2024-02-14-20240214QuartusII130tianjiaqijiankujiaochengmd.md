@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.0 添加器件库教程"
+title: "Quartus II 130 添加器件库教程"
 date:   2022-12-16
 tags: [Quartus,II,13.0,器件,添加]
 comments: true

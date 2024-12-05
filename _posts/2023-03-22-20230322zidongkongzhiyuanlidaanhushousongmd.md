@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理答案-胡寿松"
+title: "自动控制原理答案胡寿松"
 date:   2021-04-22
 tags: [自动控制,原理,解题,胡寿松,答案]
 comments: true

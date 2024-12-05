@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用copy -b合并多个ts文件 播放出错"
+title: "使用copy b合并多个ts文件 播放出错"
 date:   2021-01-03
 tags: [ts,合并,文件,播放,copy]
 comments: true

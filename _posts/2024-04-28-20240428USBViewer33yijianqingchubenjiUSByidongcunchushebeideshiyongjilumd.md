@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USBViewer-3.3 一键清除本机USB移动存储设备的使用记录"
+title: "USBViewer33 一键清除本机USB移动存储设备的使用记录"
 date:   2024-08-13
 tags: [清除,USB,痕迹,USBViewer,3.3]
 comments: true

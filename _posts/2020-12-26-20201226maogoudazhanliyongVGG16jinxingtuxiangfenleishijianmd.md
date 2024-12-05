@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "猫狗大战：利用VGG-16进行图像分类实践"
+title: "猫狗大战利用VGG16进行图像分类实践"
 date:   2022-02-27
 tags: [VGG,16,模型,图像,训练]
 comments: true

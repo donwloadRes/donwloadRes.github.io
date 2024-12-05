@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows环境下Chrome浏览器安装Elasticsearch-head插件教程"
+title: "Windows环境下Chrome浏览器安装Elasticsearchhead插件教程"
 date:   2023-09-06
 tags: [Elasticsearch,插件,head,浏览器,Chrome]
 comments: true

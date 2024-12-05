@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xxl-job-admin-2.4.1-SNAPSHOT之oracle版"
+title: "xxljobadmin241SNAPSHOT之oracle版"
 date:   2021-08-03
 tags: [xxl,job,admin,2.4,SNAPSHOT]
 comments: true

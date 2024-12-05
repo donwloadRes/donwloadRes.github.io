@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何关闭极域课堂（亲测有效）"
+title: "如何关闭极域课堂亲测有效"
 date:   2021-02-23
 tags: [极域,课堂,关闭,方法,亲测]
 comments: true

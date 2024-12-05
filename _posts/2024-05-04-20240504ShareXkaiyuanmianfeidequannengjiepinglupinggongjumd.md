@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ShareX：开源免费的全能截屏录屏工具"
+title: "ShareX开源免费的全能截屏录屏工具"
 date:   2024-06-15
 tags: [ShareX,录屏,截图,开源,上传]
 comments: true

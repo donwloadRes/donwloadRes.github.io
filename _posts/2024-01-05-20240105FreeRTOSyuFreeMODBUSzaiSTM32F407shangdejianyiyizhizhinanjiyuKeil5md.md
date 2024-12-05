@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS与FreeMODBUS在STM32F407上的简易移植指南 (基于Keil5)"
+title: "FreeRTOS与FreeMODBUS在STM32F407上的简易移植指南 基于Keil5"
 date:   2022-03-16
 tags: [FreeRTOS,FreeMODBUS,移植,Keil5,STM32F407]
 comments: true

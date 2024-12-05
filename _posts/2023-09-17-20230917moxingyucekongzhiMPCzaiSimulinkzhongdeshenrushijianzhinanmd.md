@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制(MPC)在Simulink中的深入实践指南"
+title: "模型预测控制MPC在Simulink中的深入实践指南"
 date:   2024-08-09
 tags: [MPC,Simulink,模块,预测,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1亿条淘宝用户行为数据分析资源（代码+文档）"
+title: "1亿条淘宝用户行为数据分析资源代码文档"
 date:   2021-08-21
 tags: [数据,数据分析,资源,Hive,用户]
 comments: true

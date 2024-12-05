@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Command-CMO-CMANO用户手册（中文版）下载"
+title: "CommandCMOCMANO用户手册中文版下载"
 date:   2020-09-17
 tags: [用户手册,Command,CMO,CMANO,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高效入门eBPF-西安邮电大学-贺东升1"
+title: "高效入门eBPF西安邮电大学贺东升1"
 date:   2024-08-07
 tags: [eBPF,Linux,资源,内核,邮电大学]
 comments: true

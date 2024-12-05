@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "康华光数字电子技术》第六版PPT资源"
+title: "康华光数字电子技术第六版PPT资源"
 date:   2023-01-25
 tags: [PPT,第六版,数字,电子,资源]
 comments: true

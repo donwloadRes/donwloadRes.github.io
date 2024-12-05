@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限元分析基础教程 - 曾攀 (清华大学)"
+title: "有限元分析基础教程  曾攀 清华大学"
 date:   2020-08-19
 tags: [有限元,基础教程,分析,清华大学,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Element UI 2.15.7 离线版资源下载"
+title: "Element UI 2157 离线版资源下载"
 date:   2024-01-19
 tags: [离线,资源,Element,UI,下载]
 comments: true

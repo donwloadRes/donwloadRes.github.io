@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python3的OpenCV图像处理教程（从零到实践）"
+title: "基于Python3的OpenCV图像处理教程从零到实践"
 date:   2021-10-09
 tags: [图像处理,OpenCV,实践,教程,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "酒店管理系统课程设计说明书 - Java Swing & Access"
+title: "酒店管理系统课程设计说明书  Java Swing  Access"
 date:   2021-02-04
 tags: [界面,管理系统,房间,数据库,系统]
 comments: true

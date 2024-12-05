@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下Nacos 2.1.1安装包"
+title: "Windows下Nacos 211安装包"
 date:   2022-06-23
 tags: [Nacos,Windows,2.1,压缩包,nacos]
 comments: true

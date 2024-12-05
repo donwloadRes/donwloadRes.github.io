@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构》课程设计任务书"
+title: "数据结构课程设计任务书"
 date:   2023-07-26
 tags: [课程设计,数据结构,任务书,设计,哈夫曼]
 comments: true

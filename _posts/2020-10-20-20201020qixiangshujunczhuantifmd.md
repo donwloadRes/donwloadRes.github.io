@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "气象数据（nc转tif）"
+title: "气象数据nc转tif"
 date:   2023-08-24
 tags: [气象,nc,转换,数据,tif]
 comments: true

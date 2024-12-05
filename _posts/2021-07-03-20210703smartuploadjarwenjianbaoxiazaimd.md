@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "smartupload.jar文件包下载"
+title: "smartuploadjar文件包下载"
 date:   2024-09-16
 tags: [上传,文件,jar,su,smartupload]
 comments: true

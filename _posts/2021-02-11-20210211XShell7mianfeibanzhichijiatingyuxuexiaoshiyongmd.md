@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XShell7 免费版 - 支持家庭与学校使用"
+title: "XShell7 免费版  支持家庭与学校使用"
 date:   2024-05-24
 tags: [XShell7,免费版,支持,使用,软件]
 comments: true

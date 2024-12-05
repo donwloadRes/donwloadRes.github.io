@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "x86（amd64）架构的Docker与Docker-Compose离线安装包"
+title: "x86amd64架构的Docker与DockerCompose离线安装包"
 date:   2023-02-27
 tags: [Docker,Compose,安装包,离线,安装]
 comments: true

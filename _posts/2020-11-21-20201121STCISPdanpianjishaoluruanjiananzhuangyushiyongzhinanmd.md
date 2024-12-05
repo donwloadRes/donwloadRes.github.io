@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC-ISP 单片机烧录软件安装与使用指南"
+title: "STCISP 单片机烧录软件安装与使用指南"
 date:   2024-07-09
 tags: [单片机,软件,STC,ISP,串口]
 comments: true

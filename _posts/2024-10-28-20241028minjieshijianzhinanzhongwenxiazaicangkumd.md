@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "敏捷实践指南（中文）下载仓库"
+title: "敏捷实践指南中文下载仓库"
 date:   2020-11-24
 tags: [敏捷,指南,实践,下载,方法]
 comments: true

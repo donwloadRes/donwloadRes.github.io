@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "词法分析器C语言编写（附实验报告）"
+title: "词法分析器C语言编写附实验报告"
 date:   2023-01-09
 tags: [词法,分析器,实验报告,C语言,源程序]
 comments: true

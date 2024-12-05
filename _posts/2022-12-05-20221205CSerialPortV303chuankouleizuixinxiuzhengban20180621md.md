@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSerialPortV3.0.3串口类最新修正版2018-06-21"
+title: "CSerialPortV303串口类最新修正版20180621"
 date:   2022-09-10
 tags: [串口,CSerialPortV3.0,2018,21,初始化]
 comments: true

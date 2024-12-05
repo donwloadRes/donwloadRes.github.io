@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xming 6.9.0 下载资源介绍"
+title: "Xming 690 下载资源介绍"
 date:   2023-02-20
 tags: [Xming,Windows,下载,6.9,Linux]
 comments: true

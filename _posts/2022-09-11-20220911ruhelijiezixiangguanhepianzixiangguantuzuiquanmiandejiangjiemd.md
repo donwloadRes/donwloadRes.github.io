@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何理解自相关和偏自相关图(最全面的讲解)"
+title: "如何理解自相关和偏自相关图最全面的讲解"
 date:   2020-04-14
 tags: [偏自,相关,序列,ACF,PACF]
 comments: true

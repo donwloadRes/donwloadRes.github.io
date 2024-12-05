@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子射频仪器CMW500操作与测试指引（BR EDR）"
+title: "电子射频仪器CMW500操作与测试指引BR EDR"
 date:   2023-06-12
 tags: [CMW500,BR,EDR,测试,指引]
 comments: true

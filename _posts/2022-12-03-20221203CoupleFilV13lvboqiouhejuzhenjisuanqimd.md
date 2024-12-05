@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoupleFil V1.3滤波器耦合矩阵计算器"
+title: "CoupleFil V13滤波器耦合矩阵计算器"
 date:   2024-06-19
 tags: [滤波器,矩阵,耦合,设计,V1.3]
 comments: true

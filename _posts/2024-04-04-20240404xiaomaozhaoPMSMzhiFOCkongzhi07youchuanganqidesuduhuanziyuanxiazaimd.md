@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小猫爪：PMSM之FOC控制07-有传感器的速度环资源下载"
+title: "小猫爪PMSM之FOC控制07有传感器的速度环资源下载"
 date:   2020-05-04
 tags: [FOC,PMSM,猫爪,Control,doubleLoop.7]
 comments: true

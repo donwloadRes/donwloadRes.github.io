@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS仿真资源：ATC电感电容S2P模型库"
+title: "ADS仿真资源ATC电感电容S2P模型库"
 date:   2021-06-20
 tags: [ADS,ATC,S2P,模型库,仿真]
 comments: true

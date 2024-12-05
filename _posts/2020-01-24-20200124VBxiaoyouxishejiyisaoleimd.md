@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB小游戏设计（一）：扫雷"
+title: "VB小游戏设计一扫雷"
 date:   2023-10-05
 tags: [游戏,扫雷,编程,VB,小游戏]
 comments: true

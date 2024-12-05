@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ST-LINK Utility 使用说明"
+title: "STM32 STLINK Utility 使用说明"
 date:   2024-09-23
 tags: [ST,STM32,Utility,Link,芯片]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carsim与Simulink联合仿真模型——AEB资源包"
+title: "Carsim与Simulink联合仿真模型AEB资源包"
 date:   2023-07-13
 tags: [Carsim,Simulink,模型,AEB,仿真]
 comments: true

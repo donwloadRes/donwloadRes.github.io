@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sxstrace.exe修复工具C++.rar"
+title: "sxstraceexe修复工具Crar"
 date:   2021-11-30
 tags: [C++,2005,修复,工具,sxstrace]
 comments: true

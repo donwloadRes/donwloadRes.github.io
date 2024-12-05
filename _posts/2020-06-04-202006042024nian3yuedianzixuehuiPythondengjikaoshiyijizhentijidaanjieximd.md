@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年3月电子学会Python等级考试（一级）真题及答案解析"
+title: "2024年3月电子学会Python等级考试一级真题及答案解析"
 date:   2023-07-18
 tags: [Python,解析,真题,考试,考生]
 comments: true

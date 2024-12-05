@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04桌面版图文安装指南（超详细）"
+title: "Ubuntu 2004桌面版图文安装指南超详细"
 date:   2020-06-17
 tags: [指南,安装,Ubuntu,20.04,桌面版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision5 5.38 官方下载、安装及注册教程"
+title: "Keil uVision5 538 官方下载安装及注册教程"
 date:   2020-09-29
 tags: [Keil,uVision5,教程,安装,注册]
 comments: true

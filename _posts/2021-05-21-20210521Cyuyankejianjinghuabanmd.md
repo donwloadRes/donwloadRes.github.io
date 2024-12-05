@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言课件(精华版)"
+title: "C语言课件精华版"
 date:   2022-07-23
 tags: [C语言,课件,精华版,学习,编程]
 comments: true

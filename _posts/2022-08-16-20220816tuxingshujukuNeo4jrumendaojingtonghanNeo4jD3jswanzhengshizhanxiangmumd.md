@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图形数据库Neo4j入门到精通（含Neo4j+D3.js完整实战项目）"
+title: "图形数据库Neo4j入门到精通含Neo4jD3js完整实战项目"
 date:   2024-04-04
 tags: [Neo4j,js,D3,Java,数据库]
 comments: true

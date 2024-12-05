@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD协议中文2.0 3.0 资源文件介绍"
+title: "SD协议中文20 30 资源文件介绍"
 date:   2022-05-22
 tags: [SD,SDIO,文件,IO,协议]
 comments: true

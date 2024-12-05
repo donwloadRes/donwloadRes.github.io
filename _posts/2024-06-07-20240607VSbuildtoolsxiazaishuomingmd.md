@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS-buildtools 下载说明"
+title: "VSbuildtools 下载说明"
 date:   2024-04-13
 tags: [Python,安装,Visual,编译器,matplotlib]
 comments: true

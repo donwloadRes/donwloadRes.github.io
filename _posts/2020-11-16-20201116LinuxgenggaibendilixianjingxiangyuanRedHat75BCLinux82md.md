@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Linux】更改本地离线镜像源（RedHat 7.5 & BCLinux 8.2）"
+title: "Linux更改本地离线镜像源RedHat 75  BCLinux 82"
 date:   2020-03-16
 tags: [挂载,ISO,yum,离线,镜像]
 comments: true

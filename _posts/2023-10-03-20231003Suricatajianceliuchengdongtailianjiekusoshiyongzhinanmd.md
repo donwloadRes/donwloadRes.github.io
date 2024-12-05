@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suricata 检测流程动态链接库（.so）使用指南"
+title: "Suricata 检测流程动态链接库so使用指南"
 date:   2021-03-10
 tags: [接口,检测,线程,so,调用]
 comments: true

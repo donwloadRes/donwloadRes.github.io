@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe协议培训材料（中文版）- 精选资源"
+title: "PCIe协议培训材料中文版 精选资源"
 date:   2022-09-16
 tags: [PCIe,layer,学习,中文版,协议]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 4.8.5 离线安装包"
+title: "GCC 485 离线安装包"
 date:   2024-10-26
 tags: [rpm,x86,64,el7,sudo]
 comments: true

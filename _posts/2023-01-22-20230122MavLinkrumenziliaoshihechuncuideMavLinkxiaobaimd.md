@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MavLink入门资料：适合纯粹的MavLink小白"
+title: "MavLink入门资料适合纯粹的MavLink小白"
 date:   2023-04-07
 tags: [MavLink,资料,入门,小白,博文]
 comments: true

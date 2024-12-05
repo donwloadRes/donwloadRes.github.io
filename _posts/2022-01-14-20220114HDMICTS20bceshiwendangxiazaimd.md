@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI CTS 2.0b 测试文档下载"
+title: "HDMI CTS 20b 测试文档下载"
 date:   2023-04-28
 tags: [HDMI,文档,2.0,测试,CTS]
 comments: true

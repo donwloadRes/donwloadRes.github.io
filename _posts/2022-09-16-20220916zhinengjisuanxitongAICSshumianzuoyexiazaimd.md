@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能计算系统（AICS）书面作业下载"
+title: "智能计算系统AICS书面作业下载"
 date:   2020-05-25
 tags: [作业,智能,深度,学习,编程]
 comments: true

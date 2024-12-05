@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "灯哥开源FOC V3.0使用文档V1.1(20211027)1"
+title: "灯哥开源FOC V30使用文档V11202110271"
 date:   2020-05-10
 tags: [文档,FOC,PID,灯哥,SimpleFOC]
 comments: true

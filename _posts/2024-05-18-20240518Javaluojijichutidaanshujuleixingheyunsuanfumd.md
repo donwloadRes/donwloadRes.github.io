@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java逻辑基础题答案 - 数据类型和运算符"
+title: "Java逻辑基础题答案  数据类型和运算符"
 date:   2023-11-13
 tags: [Java,运算符,数据类型,答案,逻辑]
 comments: true

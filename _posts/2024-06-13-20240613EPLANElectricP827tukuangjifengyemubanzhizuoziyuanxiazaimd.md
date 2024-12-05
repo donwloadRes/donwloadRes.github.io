@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN Electric P8 2.7图框及封页模板制作资源下载"
+title: "EPLAN Electric P8 27图框及封页模板制作资源下载"
 date:   2023-05-08
 tags: [模板,图框,封页,EPLAN,Electric]
 comments: true

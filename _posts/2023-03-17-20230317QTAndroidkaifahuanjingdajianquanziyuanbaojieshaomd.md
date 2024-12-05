@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT Android 开发环境搭建（全）资源包介绍"
+title: "QT Android 开发环境搭建全资源包介绍"
 date:   2023-08-22
 tags: [QT,Android,开发,5.9,下载]
 comments: true

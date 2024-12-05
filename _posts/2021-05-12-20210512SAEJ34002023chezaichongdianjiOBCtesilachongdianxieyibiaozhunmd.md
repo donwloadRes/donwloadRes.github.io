@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J3400-2023 车载充电机OBC特斯拉充电协议标准"
+title: "SAE J34002023 车载充电机OBC特斯拉充电协议标准"
 date:   2023-05-04
 tags: [2023,充电机,SAE,J3400,特斯拉]
 comments: true

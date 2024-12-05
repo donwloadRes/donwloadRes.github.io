@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2017.4 SRIO License 资源下载"
+title: "Vivado 20174 SRIO License 资源下载"
 date:   2023-10-22
 tags: [License,Vivado,2017.4,SRIO,文件]
 comments: true

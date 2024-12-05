@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 读取电能表度数 DLT645协议"
+title: "C 读取电能表度数 DLT645协议"
 date:   2021-01-28
 tags: [电能表,232,485,串口线,读取]
 comments: true

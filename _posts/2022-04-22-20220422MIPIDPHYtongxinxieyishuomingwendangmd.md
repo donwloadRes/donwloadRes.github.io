@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 通信协议说明文档"
+title: "MIPI DPHY 通信协议说明文档"
 date:   2022-08-09
 tags: [PHY,MIPI,通信协议,协议,文档]
 comments: true

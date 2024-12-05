@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STL文件转STP文件（二次开发）"
+title: "STL文件转STP文件二次开发"
 date:   2020-06-09
 tags: [STL,文件,STP,转换,工具]
 comments: true

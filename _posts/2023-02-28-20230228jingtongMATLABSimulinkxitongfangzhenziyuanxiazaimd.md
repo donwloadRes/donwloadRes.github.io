@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通MATLAB-Simulink系统仿真资源下载"
+title: "精通MATLABSimulink系统仿真资源下载"
 date:   2020-06-16
 tags: [仿真,MATLAB,Simulink,MATLABSimulink,精通]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M23 和 Cortex-M33 技术介绍"
+title: "CortexM23 和 CortexM33 技术介绍"
 date:   2022-03-05
 tags: [Cortex,M23,M33,微控制器,文件]
 comments: true

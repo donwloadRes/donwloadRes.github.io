@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3588安装OpenCV 4.1.0资源下载"
+title: "RK3588安装OpenCV 410资源下载"
 date:   2021-05-05
 tags: [安装,RK3588,下载,OpenCV,4.1]
 comments: true

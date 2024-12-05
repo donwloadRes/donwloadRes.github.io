@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8643 标准文档下载"
+title: "SFF8643 标准文档下载"
 date:   2022-11-29
 tags: [SFF,8643,PDF,文件,文档]
 comments: true

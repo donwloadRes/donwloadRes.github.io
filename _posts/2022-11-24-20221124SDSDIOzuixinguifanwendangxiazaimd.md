@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD-SDIO 最新规范文档下载"
+title: "SDSDIO 最新规范文档下载"
 date:   2024-01-30
 tags: [SDIO,SD,文档,V4.0,规范]
 comments: true

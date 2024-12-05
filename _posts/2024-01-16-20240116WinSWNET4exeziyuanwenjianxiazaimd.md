@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinSW.NET4.exe 资源文件下载"
+title: "WinSWNET4exe 资源文件下载"
 date:   2021-08-12
 tags: [exe,myService,WinSW,jar,服务]
 comments: true

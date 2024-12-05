@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python入门教程资源下载"
+title: "OpenCVPython入门教程资源下载"
 date:   2022-11-09
 tags: [Python,OpenCV,教程,图像处理,入门教程]
 comments: true

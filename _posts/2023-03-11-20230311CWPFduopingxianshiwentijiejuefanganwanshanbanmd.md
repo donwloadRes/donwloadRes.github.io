@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 多屏显示问题解决方案（完善版）"
+title: "C WPF 多屏显示问题解决方案完善版"
 date:   2021-12-15
 tags: [多屏,WPF,应用程序,解决方案,开发者]
 comments: true

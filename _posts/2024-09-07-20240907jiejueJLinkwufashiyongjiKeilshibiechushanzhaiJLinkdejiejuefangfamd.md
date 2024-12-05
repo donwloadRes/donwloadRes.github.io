@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决J-Link无法使用及Keil识别出山寨J-Link的解决方法"
+title: "解决JLink无法使用及Keil识别出山寨JLink的解决方法"
 date:   2022-10-22
 tags: [Link,Keil,固件,刷写,解决]
 comments: true

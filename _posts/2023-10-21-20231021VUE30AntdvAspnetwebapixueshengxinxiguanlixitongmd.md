@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VUE3.0+Antdv+Asp.net webapi学生信息管理系统"
+title: "VUE30AntdvAspnet webapi学生信息管理系统"
 date:   2021-02-15
 tags: [学生,数据库,管理,Vue,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高级信号完整性技术_中文版.pdf"
+title: "高级信号完整性技术中文版pdf"
 date:   2023-07-11
 tags: [完整性,信号,pdf,中文版,高级]
 comments: true

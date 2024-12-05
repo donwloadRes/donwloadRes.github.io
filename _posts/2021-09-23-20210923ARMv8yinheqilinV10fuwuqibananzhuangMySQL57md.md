@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARMv8 银河麒麟V10服务器版安装 MySQL5.7"
+title: "ARMv8 银河麒麟V10服务器版安装 MySQL57"
 date:   2022-01-18
 tags: [mysql,usr,MySQL,local,bash]
 comments: true

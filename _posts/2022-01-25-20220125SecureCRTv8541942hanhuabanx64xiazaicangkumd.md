@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT v8.5.4.1942汉化版 x64 下载仓库"
+title: "SecureCRT v8541942汉化版 x64 下载仓库"
 date:   2021-05-10
 tags: [SecureCRT,主机,4.1942,汉化版,x64]
 comments: true

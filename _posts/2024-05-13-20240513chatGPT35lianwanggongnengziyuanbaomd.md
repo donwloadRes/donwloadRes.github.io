@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chatGPT-3.5 联网功能资源包"
+title: "chatGPT35 联网功能资源包"
 date:   2021-03-12
 tags: [chatGPT,3.5,联网,文件,资源]
 comments: true

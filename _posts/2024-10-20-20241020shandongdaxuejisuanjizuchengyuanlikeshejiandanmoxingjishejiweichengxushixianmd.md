@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学计算机组成原理课设——简单模型机设计（微程序实现）"
+title: "山东大学计算机组成原理课设简单模型机设计微程序实现"
 date:   2023-10-21
 tags: [Quartus,II,13.0,文件,微程序]
 comments: true

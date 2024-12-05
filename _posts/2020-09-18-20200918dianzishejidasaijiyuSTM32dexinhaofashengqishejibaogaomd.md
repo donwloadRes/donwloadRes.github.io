@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子设计大赛——基于STM32的信号发生器设计报告"
+title: "电子设计大赛基于STM32的信号发生器设计报告"
 date:   2021-10-24
 tags: [发生器,信号,STM32,电子设计,设计]
 comments: true

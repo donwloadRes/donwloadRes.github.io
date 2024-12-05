@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机体系结构(第二版)张晨曦PDF下载"
+title: "计算机体系结构第二版张晨曦PDF下载"
 date:   2021-11-07
 tags: [体系结构,计算机,PDF,程序员,晨曦]
 comments: true

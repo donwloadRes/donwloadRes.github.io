@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android GDAL2.2.3依赖包及读写shp文件示例代码"
+title: "Android GDAL223依赖包及读写shp文件示例代码"
 date:   2022-11-01
 tags: [示例,Android,shp,依赖,代码]
 comments: true

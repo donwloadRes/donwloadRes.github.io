@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NR5G网络拒绝码分析：5gmm_cause = 27 (0x1b) (N1 mode not allowed)"
+title: "NR5G网络拒绝码分析5gmmcause  27 0x1b N1 mode not allowed"
 date:   2020-11-15
 tags: [5gmm,cause,27,NR5G,网络]
 comments: true

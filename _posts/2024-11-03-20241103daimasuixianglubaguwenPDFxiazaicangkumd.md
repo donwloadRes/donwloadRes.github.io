@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码随想录-八股文 PDF 下载仓库"
+title: "代码随想录八股文 PDF 下载仓库"
 date:   2021-05-21
 tags: [PDF,随想录,编程,八股文,文件]
 comments: true

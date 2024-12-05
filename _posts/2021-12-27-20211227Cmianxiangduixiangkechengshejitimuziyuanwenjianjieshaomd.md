@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面向对象课程设计题目资源文件介绍"
+title: "C面向对象课程设计题目资源文件介绍"
 date:   2024-05-15
 tags: [题目,文件,课程设计,设计,选课]
 comments: true

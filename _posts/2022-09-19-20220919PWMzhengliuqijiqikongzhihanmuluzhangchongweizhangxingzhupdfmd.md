@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PWM整流器及其控制（含目录张崇巍张兴著pdf）"
+title: "PWM整流器及其控制含目录张崇巍张兴著pdf"
 date:   2022-01-06
 tags: [PWM,整流器,张崇巍,及其,张兴著]
 comments: true

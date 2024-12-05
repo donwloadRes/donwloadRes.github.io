@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 通过 POST 提交 JSON 字符串示例"
+title: "C 通过 POST 提交 JSON 字符串示例"
 date:   2022-08-10
 tags: [JSON,示例,POST,请求,C#]
 comments: true

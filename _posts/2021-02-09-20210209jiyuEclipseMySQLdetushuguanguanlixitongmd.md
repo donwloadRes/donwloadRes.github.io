@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Eclipse + MySQL的图书馆管理系统"
+title: "基于Eclipse  MySQL的图书馆管理系统"
 date:   2021-09-01
 tags: [Eclipse,Java,数据库,MySQL,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx原语相关介绍最新版(UG974)资源下载"
+title: "Xilinx原语相关介绍最新版UG974资源下载"
 date:   2023-10-09
 tags: [Xilinx,文档,原语,最新版,XPM]
 comments: true

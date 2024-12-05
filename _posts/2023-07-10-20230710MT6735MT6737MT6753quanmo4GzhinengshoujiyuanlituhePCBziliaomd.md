@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT6735、MT6737、MT6753全模4G智能手机原理图和PCB资料"
+title: "MT6735MT6737MT6753全模4G智能手机原理图和PCB资料"
 date:   2023-07-28
 tags: [原理图,PCB,智能手机,文件,设计]
 comments: true

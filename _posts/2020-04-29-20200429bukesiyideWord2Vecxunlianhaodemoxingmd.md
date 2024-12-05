@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不可思议的Word2Vec：训练好的模型"
+title: "不可思议的Word2Vec训练好的模型"
 date:   2021-06-30
 tags: [模型,语料,Word2Vec,训练,微信]
 comments: true

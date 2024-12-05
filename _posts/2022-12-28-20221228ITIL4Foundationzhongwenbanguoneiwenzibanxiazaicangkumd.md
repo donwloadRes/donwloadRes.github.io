@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITIL 4 Foundation 中文版(国内文字版) 下载仓库"
+title: "ITIL 4 Foundation 中文版国内文字版 下载仓库"
 date:   2020-08-01
 tags: [ITIL,Foundation,中文版,文字版,仓库]
 comments: true

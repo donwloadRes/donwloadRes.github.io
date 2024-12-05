@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp兼容PDF查看器：pdfjs插件"
+title: "uniapp兼容PDF查看器pdfjs插件"
 date:   2024-07-13
 tags: [PDF,uniapp,插件,pdfjs,文件]
 comments: true

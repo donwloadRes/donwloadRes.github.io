@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium中文教程V1.0 下载"
+title: "Cesium中文教程V10 下载"
 date:   2023-08-21
 tags: [教程,Cesium,CesiumJS,中文,V1.0]
 comments: true

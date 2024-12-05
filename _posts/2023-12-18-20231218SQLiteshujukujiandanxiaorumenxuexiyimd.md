@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLite数据库简单小入门学习（一）"
+title: "SQLite数据库简单小入门学习一"
 date:   2024-01-30
 tags: [SQLite,数据库,学习,SQL,入门]
 comments: true

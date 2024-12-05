@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F3与F4系列Cortex-M4内核编程手册"
+title: "STM32F3与F4系列CortexM4内核编程手册"
 date:   2021-03-19
 tags: [STM32F3,编程,Cortex,M4,手册]
 comments: true

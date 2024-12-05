@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF翻译神器：高效处理PDF文档翻译"
+title: "PDF翻译神器高效处理PDF文档翻译"
 date:   2021-05-24
 tags: [PDF,翻译,文档,神器,高效]
 comments: true

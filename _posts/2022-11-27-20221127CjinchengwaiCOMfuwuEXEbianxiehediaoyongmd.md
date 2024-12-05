@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 进程外COM服务（EXE）编写和调用"
+title: "C 进程外COM服务EXE编写和调用"
 date:   2024-01-12
 tags: [COM,服务,编写,Demo,注册表]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经验模态分解及希尔伯特-黄变换MATLAB程序"
+title: "经验模态分解及希尔伯特黄变换MATLAB程序"
 date:   2024-01-01
 tags: [MATLAB,模态,希尔伯特,分解,变换]
 comments: true

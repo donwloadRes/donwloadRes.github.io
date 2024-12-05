@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache2.4 下载和安装指南 - Win10"
+title: "Apache24 下载和安装指南  Win10"
 date:   2022-02-15
 tags: [Apache,安装,下载,Apache2.4,Windows]
 comments: true

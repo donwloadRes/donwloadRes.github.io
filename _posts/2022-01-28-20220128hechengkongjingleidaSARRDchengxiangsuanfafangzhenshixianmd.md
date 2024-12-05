@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "合成孔径雷达（SAR）RD成像算法仿真实现"
+title: "合成孔径雷达SARRD成像算法仿真实现"
 date:   2024-02-16
 tags: [成像,SAR,算法,仿真,RD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 AES加密解密模块"
+title: "VB60 AES加密解密模块"
 date:   2024-01-18
 tags: [加密,解密,AES,模块,VB6.0]
 comments: true

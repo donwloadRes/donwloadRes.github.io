@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统解决方案：当遇到“gpedit.msc文件找不到”问题时"
+title: "Windows系统解决方案当遇到gpeditmsc文件找不到问题时"
 date:   2020-04-12
 tags: [Windows,gpedit,msc,组策略,批处理]
 comments: true

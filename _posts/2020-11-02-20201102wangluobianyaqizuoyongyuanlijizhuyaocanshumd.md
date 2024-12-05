@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络变压器作用、原理及主要参数"
+title: "网络变压器作用原理及主要参数"
 date:   2020-08-30
 tags: [变压器,信号,共模,网络,网卡]
 comments: true

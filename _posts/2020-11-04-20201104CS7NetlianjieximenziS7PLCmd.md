@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# S7.Net 连接西门子S7PLC"
+title: "C S7Net 连接西门子S7PLC"
 date:   2021-08-28
 tags: [PLC,S7,Net,代码,S7PLC]
 comments: true

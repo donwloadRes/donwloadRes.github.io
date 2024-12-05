@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepLearning4J 官方示例（全）"
+title: "DeepLearning4J 官方示例全"
 date:   2024-07-12
 tags: [示例,DeepLearning4J,main,解压,下载]
 comments: true

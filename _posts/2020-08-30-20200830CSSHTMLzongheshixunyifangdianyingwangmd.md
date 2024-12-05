@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS+HTML综合实训（一）仿电影网"
+title: "CSSHTML综合实训一仿电影网"
 date:   2021-04-29
 tags: [HTML,CSS,标签,网页,页面]
 comments: true

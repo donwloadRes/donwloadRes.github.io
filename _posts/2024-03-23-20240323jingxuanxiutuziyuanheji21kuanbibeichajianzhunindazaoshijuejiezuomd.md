@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精选修图资源合集：21款必备插件助您打造视觉杰作"
+title: "精选修图资源合集21款必备插件助您打造视觉杰作"
 date:   2021-12-11
 tags: [插件,修图,合集,21,Photoshop]
 comments: true

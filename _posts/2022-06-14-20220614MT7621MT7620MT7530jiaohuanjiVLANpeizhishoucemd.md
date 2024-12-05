@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7621-MT7620-MT7530 交换机 VLAN 配置手册"
+title: "MT7621MT7620MT7530 交换机 VLAN 配置手册"
 date:   2020-11-27
 tags: [VLAN,配置,交换机,手册,MT7621]
 comments: true

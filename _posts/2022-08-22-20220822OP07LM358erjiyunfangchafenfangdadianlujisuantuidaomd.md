@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OP07+LM358二级运放差分放大电路计算推导"
+title: "OP07LM358二级运放差分放大电路计算推导"
 date:   2020-05-09
 tags: [运放,仿真,电压,放大,差分]
 comments: true

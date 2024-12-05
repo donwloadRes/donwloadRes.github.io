@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STK用户手册（中文版）"
+title: "STK用户手册中文版"
 date:   2024-06-13
 tags: [STK,用户手册,学习,中文,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 建模软件：3ds Max 2010 资源获取与安装指南"
+title: "3D 建模软件3ds Max 2010 资源获取与安装指南"
 date:   2022-05-23
 tags: [3ds,Max,2010,软件,3D]
 comments: true

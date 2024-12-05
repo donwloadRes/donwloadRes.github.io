@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SC7A20规格书(带寄存器描述) - 中文详细资料"
+title: "SC7A20规格书带寄存器描述  中文详细资料"
 date:   2023-10-29
 tags: [SC7A20,规格书,寄存器,应用,传感器]
 comments: true

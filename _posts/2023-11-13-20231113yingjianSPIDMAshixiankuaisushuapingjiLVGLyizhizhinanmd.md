@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件SPI+DMA实现快速刷屏及LVGL移植指南"
+title: "硬件SPIDMA实现快速刷屏及LVGL移植指南"
 date:   2022-08-22
 tags: [刷屏,DMA,LVGL,SPI,移植]
 comments: true

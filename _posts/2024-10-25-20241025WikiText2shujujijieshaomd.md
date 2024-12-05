@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WikiText-2数据集介绍"
+title: "WikiText2数据集介绍"
 date:   2023-02-03
 tags: [WikiText,数据,文本,语言,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码大全（第二版）高清带目录PDF下载"
+title: "代码大全第二版高清带目录PDF下载"
 date:   2023-06-30
 tags: [PDF,编程,高清,目录,大全]
 comments: true

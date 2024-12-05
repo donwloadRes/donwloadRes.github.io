@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS 网页设计源码（简洁）"
+title: "HTMLCSS 网页设计源码简洁"
 date:   2020-02-11
 tags: [网页,源码,HTML,CSS,简洁]
 comments: true

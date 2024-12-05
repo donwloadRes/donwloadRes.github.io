@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GT927&GT928&GT9110编程指南文件"
+title: "GT927GT928GT9110编程指南文件"
 date:   2021-03-25
 tags: [文件,编程,GT927,GT928,GT9110]
 comments: true

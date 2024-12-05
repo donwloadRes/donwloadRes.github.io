@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java小游戏练习---超级玛丽代码实现"
+title: "Java小游戏练习超级玛丽代码实现"
 date:   2021-09-28
 tags: [游戏,Java,超级玛丽,实现,小游戏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "剑侠情缘3》剑网3全套源代码资源介绍"
+title: "剑侠情缘3剑网3全套源代码资源介绍"
 date:   2021-05-26
 tags: [游戏,武侠,源码,资源,剑网]
 comments: true

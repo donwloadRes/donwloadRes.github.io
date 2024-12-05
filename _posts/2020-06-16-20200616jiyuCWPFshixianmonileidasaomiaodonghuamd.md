@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#+WPF实现模拟雷达扫描动画"
+title: "基于CWPF实现模拟雷达扫描动画"
 date:   2021-01-17
 tags: [C#,WPF,动画,扫描,雷达]
 comments: true

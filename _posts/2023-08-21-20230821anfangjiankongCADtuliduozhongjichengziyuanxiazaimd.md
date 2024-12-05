@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安防监控CAD图例(多种集成）资源下载"
+title: "安防监控CAD图例多种集成资源下载"
 date:   2024-04-22
 tags: [图例,CAD,安防,监控,文件]
 comments: true

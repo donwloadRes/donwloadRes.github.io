@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锁相环（PLL）基本原理技术文档"
+title: "锁相环PLL基本原理技术文档"
 date:   2021-12-26
 tags: [PLL,锁相环,文档,基本原理,技术]
 comments: true

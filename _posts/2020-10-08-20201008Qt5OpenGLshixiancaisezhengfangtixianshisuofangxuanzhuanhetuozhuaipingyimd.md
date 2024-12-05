@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5+OpenGL 实现彩色正方体显示、缩放、旋转和拖拽平移"
+title: "Qt5OpenGL 实现彩色正方体显示缩放旋转和拖拽平移"
 date:   2020-08-14
 tags: [正方体,OpenGL,缩放,Qt,平移]
 comments: true

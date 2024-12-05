@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTA4 1.08 降版本 1.07 汉化及电台修复指南"
+title: "GTA4 108 降版本 107 汉化及电台修复指南"
 date:   2021-08-03
 tags: [汉化,版本,GTA4,电台,补丁]
 comments: true

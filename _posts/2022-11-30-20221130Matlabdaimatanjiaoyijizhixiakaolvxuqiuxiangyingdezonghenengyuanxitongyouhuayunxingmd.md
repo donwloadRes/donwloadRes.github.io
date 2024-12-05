@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab代码：碳交易机制下考虑需求响应的综合能源系统优化运行"
+title: "Matlab代码碳交易机制下考虑需求响应的综合能源系统优化运行"
 date:   2021-08-12
 tags: [运行,响应,模型,Matlab,需求]
 comments: true

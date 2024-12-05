@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC4.51官方标准协议-中文.pdf 下载仓库"
+title: "eMMC451官方标准协议中文pdf 下载仓库"
 date:   2020-04-18
 tags: [eMMC4.51,文件,标准协议,pdf,官方]
 comments: true

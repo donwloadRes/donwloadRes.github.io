@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++开发语言源代码反编译工具"
+title: "C开发语言源代码反编译工具"
 date:   2022-05-18
 tags: [反编译,源代码,C++,工具,Issue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC UA服务器-客户端开发工具"
+title: "OPC UA服务器客户端开发工具"
 date:   2023-06-25
 tags: [OPC,UA,客户端,开发者,服务器]
 comments: true

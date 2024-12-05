@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Spartan-6 FPGA MultiBoot实现指南"
+title: "Xilinx Spartan6 FPGA MultiBoot实现指南"
 date:   2023-01-08
 tags: [FPGA,MultiBoot,Xilinx,文档,Spartan]
 comments: true

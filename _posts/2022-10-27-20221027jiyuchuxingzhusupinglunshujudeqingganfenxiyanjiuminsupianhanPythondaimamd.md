@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于出行住宿评论数据的情感分析研究（民宿篇，含Python代码）"
+title: "基于出行住宿评论数据的情感分析研究民宿篇含Python代码"
 date:   2022-03-24
 tags: [情感,数据,评论,民宿,分析]
 comments: true

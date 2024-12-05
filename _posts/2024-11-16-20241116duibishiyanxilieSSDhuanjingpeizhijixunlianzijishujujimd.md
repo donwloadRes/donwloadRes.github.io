@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对比实验系列：SSD环境配置及训练自己数据集"
+title: "对比实验系列SSD环境配置及训练自己数据集"
 date:   2021-04-20
 tags: [SSD,训练,版本,配置,环境]
 comments: true

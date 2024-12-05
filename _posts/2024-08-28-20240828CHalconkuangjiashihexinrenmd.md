@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Halcon框架（适合新人）"
+title: "C Halcon框架适合新人"
 date:   2024-01-16
 tags: [Halcon,C#,视觉,NET,识别]
 comments: true

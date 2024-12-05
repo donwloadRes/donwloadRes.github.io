@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.0 资源安装指南，兼容 Visual Studio 2022"
+title: "NET Framework 40 资源安装指南兼容 Visual Studio 2022"
 date:   2023-12-23
 tags: [Framework,NET,4.0,Visual,Studio]
 comments: true

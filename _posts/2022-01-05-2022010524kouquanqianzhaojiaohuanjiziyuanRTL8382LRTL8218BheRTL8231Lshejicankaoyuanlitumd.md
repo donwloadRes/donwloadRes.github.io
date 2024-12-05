@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24 口全千兆交换机资源：RTL8382L、RTL8218B 和 RTL8231L 设计参考原理图"
+title: "24 口全千兆交换机资源RTL8382LRTL8218B 和 RTL8231L 设计参考原理图"
 date:   2021-09-17
 tags: [原理图,千兆,交换机,24,口全]
 comments: true

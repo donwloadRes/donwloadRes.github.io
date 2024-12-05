@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RFID门禁系统（基于STM32和RC522）"
+title: "RFID门禁系统基于STM32和RC522"
 date:   2024-08-23
 tags: [OLED,显示屏,STM32,RC522,门禁系统]
 comments: true

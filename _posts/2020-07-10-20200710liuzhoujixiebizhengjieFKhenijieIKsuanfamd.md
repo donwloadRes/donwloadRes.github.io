@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "六轴机械臂正解（FK）和逆解（IK）算法"
+title: "六轴机械臂正解FK和逆解IK算法"
 date:   2022-03-15
 tags: [逆解,算法,正解,六轴,FK]
 comments: true

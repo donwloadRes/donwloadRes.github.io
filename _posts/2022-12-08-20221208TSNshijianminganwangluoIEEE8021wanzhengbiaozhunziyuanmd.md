@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSN (时间敏感网络) IEEE-802.1 完整标准资源"
+title: "TSN 时间敏感网络 IEEE8021 完整标准资源"
 date:   2022-04-25
 tags: [802.1,TSN,IEEE,网络,标准]
 comments: true

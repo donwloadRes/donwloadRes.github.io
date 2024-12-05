@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "方波_三角波_正弦波_锯齿波发生器"
+title: "方波三角波正弦波锯齿波发生器"
 date:   2023-05-23
 tags: [波形,方波,正弦波,单片机,锯齿]
 comments: true

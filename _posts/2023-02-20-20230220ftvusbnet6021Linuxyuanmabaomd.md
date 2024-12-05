@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ftvusbnet-6.0.21 Linux源码包"
+title: "ftvusbnet6021 Linux源码包"
 date:   2022-01-15
 tags: [源码,编译,ftvusbnet,Linux,USB]
 comments: true

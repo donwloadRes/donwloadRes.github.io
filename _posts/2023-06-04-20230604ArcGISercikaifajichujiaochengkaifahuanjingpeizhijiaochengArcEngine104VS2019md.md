@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS二次开发基础教程：开发环境配置教程（ArcEngine10.4+VS2019）"
+title: "ArcGIS二次开发基础教程开发环境配置教程ArcEngine104VS2019"
 date:   2021-01-11
 tags: [ArcGIS,开发,ArcEngine,版本,确保您]
 comments: true

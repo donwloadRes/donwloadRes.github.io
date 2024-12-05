@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIGC发展趋势报告2023 - 人工智能AI引领未来创新"
+title: "AIGC发展趋势报告2023  人工智能AI引领未来创新"
 date:   2022-07-26
 tags: [AIGC,AI,内容,人工智能,报告]
 comments: true

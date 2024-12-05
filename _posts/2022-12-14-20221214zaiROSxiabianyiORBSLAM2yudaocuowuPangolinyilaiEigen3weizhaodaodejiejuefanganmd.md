@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在ROS下编译ORB_SLAM2遇到错误：Pangolin依赖Eigen3未找到的解决方案"
+title: "在ROS下编译ORBSLAM2遇到错误Pangolin依赖Eigen3未找到的解决方案"
 date:   2021-11-14
 tags: [Pangolin,Eigen3,ORB,SLAM2,could]
 comments: true

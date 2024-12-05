@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T11457-2006 软件工程术语标准文件下载"
+title: "GBT114572006 软件工程术语标准文件下载"
 date:   2021-07-23
 tags: [软件工程,术语,文件,GB,T11457]
 comments: true

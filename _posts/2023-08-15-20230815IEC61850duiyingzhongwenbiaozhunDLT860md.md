@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61850对应中文标准DL-T860"
+title: "IEC61850对应中文标准DLT860"
 date:   2023-05-20
 tags: [标准,IEC,61850,文档,DL]
 comments: true

@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "FPGA资源：6位数字密码认证系统"
+title: "FPGA资源6位数字密码认证系统
+date   20221119
+tags FPGA密码认证系统开发板
+comments true
+author admin
+
+
+layout post
+title FPGA资源6位数字密码认证系统"
 date:   2022-11-19
 tags: [FPGA,密码,认证,系统,开发板]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "FPGA资源：6位数字密码认证系统"
+title: "FPGA资源6位数字密码认证系统
+date   20221119
+tags FPGA密码认证系统开发板
+comments true
+author admin
+
+
+layout post
+title FPGA资源6位数字密码认证系统"
 date:   2020-08-25
 tags: [FPGA,密码,认证,系统,开发板]
 comments: true

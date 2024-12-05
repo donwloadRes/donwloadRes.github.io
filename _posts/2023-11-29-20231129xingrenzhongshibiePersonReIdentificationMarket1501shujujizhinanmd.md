@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人重识别(Person Re-Identification) ——Market-1501数据集指南"
+title: "行人重识别Person ReIdentification Market1501数据集指南"
 date:   2024-05-16
 tags: [行人,摄像头,图像,1501,PyTorch]
 comments: true

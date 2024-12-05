@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13.56MHz 资源设计指南"
+title: "1356MHz 资源设计指南"
 date:   2020-07-21
 tags: [资源,13.56,MHz,设计,绕线]
 comments: true

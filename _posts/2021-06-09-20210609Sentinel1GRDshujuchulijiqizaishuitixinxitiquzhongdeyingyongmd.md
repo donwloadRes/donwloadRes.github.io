@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sentinel-1 GRD数据处理及其在水体信息提取中的应用"
+title: "Sentinel1 GRD数据处理及其在水体信息提取中的应用"
 date:   2021-11-25
 tags: [Sentinel,水体,信息提取,数据处理,GRD]
 comments: true

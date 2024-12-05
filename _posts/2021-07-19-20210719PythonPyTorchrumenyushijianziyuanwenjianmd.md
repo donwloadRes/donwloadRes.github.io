@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-PyTorch入门与实践资源文件"
+title: "PythonPyTorch入门与实践资源文件"
 date:   2020-02-17
 tags: [PyTorch,文件,资源,示例,代码]
 comments: true

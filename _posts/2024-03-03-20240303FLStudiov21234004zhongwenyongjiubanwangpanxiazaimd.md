@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio v21.2.3.4004 中文永久版网盘下载"
+title: "FL Studio v21234004 中文永久版网盘下载"
 date:   2021-11-21
 tags: [FL,Studio,点击,安装,3.4004]
 comments: true

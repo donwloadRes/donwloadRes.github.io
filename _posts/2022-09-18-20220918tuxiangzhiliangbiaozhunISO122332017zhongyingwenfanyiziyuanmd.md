@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像质量标准 ISO12233-2017 中英文翻译资源"
+title: "图像质量标准 ISO122332017 中英文翻译资源"
 date:   2021-12-11
 tags: [ISO12233,2017,质量标准,图像,英文翻译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程书籍PDF资源下载"
+title: "C编程书籍PDF资源下载"
 date:   2021-12-24
 tags: [C++,编程,书籍,开发者,PDF]
 comments: true

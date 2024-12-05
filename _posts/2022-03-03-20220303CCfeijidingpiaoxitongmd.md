@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++飞机订票系统"
+title: "CC飞机订票系统"
 date:   2022-05-23
 tags: [订票,航班信息,C++,退票,航班]
 comments: true

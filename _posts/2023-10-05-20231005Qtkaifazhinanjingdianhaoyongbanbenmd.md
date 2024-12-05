@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt开发指南，经典好用版本"
+title: "Qt开发指南经典好用版本"
 date:   2023-12-22
 tags: [Qt,开发,开发者,指南,好用]
 comments: true

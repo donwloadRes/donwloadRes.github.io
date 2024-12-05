@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你阅读Datasheet：ST7735s驱动程序（SPI通信）"
+title: "手把手教你阅读DatasheetST7735s驱动程序SPI通信"
 date:   2024-08-22
 tags: [驱动程序,ST7735s,Datasheet,SPI,开发者]
 comments: true

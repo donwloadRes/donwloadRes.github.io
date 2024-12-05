@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Builder 2010 安装与注册指南"
+title: "C Builder 2010 安装与注册指南"
 date:   2023-12-15
 tags: [安装,破解,C++,Builder,2010]
 comments: true

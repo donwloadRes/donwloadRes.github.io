@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "省钱兄飞行棋源码：情侣飞行棋游戏"
+title: "省钱兄飞行棋源码情侣飞行棋游戏"
 date:   2020-01-11
 tags: [源码,飞行棋,游戏,情侣,二次开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAPlink (基于STM32F103CBT6) 原理图及使用说明"
+title: "DAPlink 基于STM32F103CBT6 原理图及使用说明"
 date:   2020-04-17
 tags: [DAPlink,原理图,STM32F103CBT6,调试,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通用版权限管理系统"
+title: "C通用版权限管理系统"
 date:   2022-07-23
 tags: [权限,管理,系统,角色,管理系统]
 comments: true

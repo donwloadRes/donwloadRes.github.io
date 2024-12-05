@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CUBEMX+MPU6050+MPL运动处理库移植教程"
+title: "STM32CUBEMXMPU6050MPL运动处理库移植教程"
 date:   2021-11-10
 tags: [移植,MPL,STM32CUBEMX,教程,文件]
 comments: true

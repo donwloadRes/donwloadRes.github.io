@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "graphics.h头文件资源下载"
+title: "graphicsh头文件资源下载"
 date:   2024-02-23
 tags: [graphics,Visual,Studio,头文件,Microsoft]
 comments: true

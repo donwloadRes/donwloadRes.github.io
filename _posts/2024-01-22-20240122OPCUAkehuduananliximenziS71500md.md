@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC UA客户端案例：西门子S7-1500"
+title: "OPC UA客户端案例西门子S71500"
 date:   2023-05-02
 tags: [OPC,UA,S7,1500,C#]
 comments: true

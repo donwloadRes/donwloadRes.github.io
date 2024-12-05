@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典资源下载"
+title: "C入门经典资源下载"
 date:   2021-02-05
 tags: [C#,资源,入门,文件,下载]
 comments: true

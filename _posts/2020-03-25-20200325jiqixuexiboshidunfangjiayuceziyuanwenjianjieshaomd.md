@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习-波士顿房价预测资源文件介绍"
+title: "机器学习波士顿房价预测资源文件介绍"
 date:   2023-06-27
 tags: [模型,预测,波士顿,文件,房价]
 comments: true

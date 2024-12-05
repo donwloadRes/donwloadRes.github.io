@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA 11.1 和 CUDNN 11.1 百度网盘资源下载"
+title: "CUDA 111 和 CUDNN 111 百度网盘资源下载"
 date:   2023-06-09
 tags: [11.1,百度网,CUDA,CUDNN,下载]
 comments: true

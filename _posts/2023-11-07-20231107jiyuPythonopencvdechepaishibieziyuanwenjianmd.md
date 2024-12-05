@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python-opencv的车牌识别资源文件"
+title: "基于Pythonopencv的车牌识别资源文件"
 date:   2023-11-22
 tags: [Python,车牌,识别,2.7,算法]
 comments: true

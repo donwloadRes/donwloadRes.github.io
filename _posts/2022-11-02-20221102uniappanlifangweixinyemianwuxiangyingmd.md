@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app案例：仿微信页面（无响应）"
+title: "uniapp案例仿微信页面无响应"
 date:   2021-12-01
 tags: [uni,app,页面,微信,响应]
 comments: true

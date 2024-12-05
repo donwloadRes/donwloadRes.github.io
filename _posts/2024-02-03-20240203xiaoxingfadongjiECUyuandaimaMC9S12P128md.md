@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小型发动机ECU源代码（MC9S12P128）"
+title: "小型发动机ECU源代码MC9S12P128"
 date:   2022-11-10
 tags: [源代码,ECU,MC9S12P128,发动机,小型]
 comments: true

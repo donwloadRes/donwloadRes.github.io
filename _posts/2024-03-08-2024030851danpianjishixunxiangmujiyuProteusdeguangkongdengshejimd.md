@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机实训项目：基于Proteus的光控灯设计"
+title: "51单片机实训项目基于Proteus的光控灯设计"
 date:   2024-07-09
 tags: [单片机,Proteus,仿真,原理图,光照强度]
 comments: true

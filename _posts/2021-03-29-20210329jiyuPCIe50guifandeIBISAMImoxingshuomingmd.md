@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PCIe5.0规范的IBIS-AMI模型说明"
+title: "基于PCIe50规范的IBISAMI模型说明"
 date:   2021-09-07
 tags: [IBIS,AMI,规范,PCIe,5.0]
 comments: true

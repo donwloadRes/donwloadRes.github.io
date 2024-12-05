@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICM-20948驱动与DMP应用资源"
+title: "ICM20948驱动与DMP应用资源"
 date:   2024-03-04
 tags: [ICM,20948,SPI,驱动程序,传感器]
 comments: true

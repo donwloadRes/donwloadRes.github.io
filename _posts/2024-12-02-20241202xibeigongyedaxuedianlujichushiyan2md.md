@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学-电路基础实验2"
+title: "西北工业大学电路基础实验2"
 date:   2024-10-04
 tags: [实验,电路,西北工业大学,指导书,解压]
 comments: true

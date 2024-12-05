@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性系统理论PPT-郑大钟(第二版) 资源下载"
+title: "线性系统理论PPT郑大钟第二版 资源下载"
 date:   2020-12-18
 tags: [PDF,格式,线性系统,PPT,阅读]
 comments: true

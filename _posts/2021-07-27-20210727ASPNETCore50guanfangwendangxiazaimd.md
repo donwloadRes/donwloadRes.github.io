@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core 5.0 官方文档下载"
+title: "ASPNET Core 50 官方文档下载"
 date:   2023-10-18
 tags: [NET,ASP,Core,5.0,API]
 comments: true

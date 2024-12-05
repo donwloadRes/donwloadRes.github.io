@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 7.1.2 x86 系统 Xposed 安装资源"
+title: "Android 712 x86 系统 Xposed 安装资源"
 date:   2021-07-01
 tags: [22%,Xposed,x86,模拟器,安装]
 comments: true

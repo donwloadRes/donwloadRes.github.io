@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "世界各国国家省市区(州市区)名字数据库"
+title: "世界各国国家省市区州市区名字数据库"
 date:   2022-06-21
 tags: [数据库,各国,简写,国家,层级]
 comments: true

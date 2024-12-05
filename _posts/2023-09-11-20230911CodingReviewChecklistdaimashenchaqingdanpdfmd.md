@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coding Review Checklist（代码审查清单）.pdf》"
+title: "Coding Review Checklist代码审查清单pdf"
 date:   2023-09-25
 tags: [代码,清单,审查,团队,pdf]
 comments: true

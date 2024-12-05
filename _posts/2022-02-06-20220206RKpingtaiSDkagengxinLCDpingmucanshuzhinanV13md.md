@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK平台SD卡更新LCD屏幕参数指南 V1.3"
+title: "RK平台SD卡更新LCD屏幕参数指南 V13"
 date:   2020-03-01
 tags: [SD,RK,更新,LCD,V1.3]
 comments: true

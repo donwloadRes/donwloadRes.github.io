@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常经典Java高级工程师高新简历(三套_含项目介绍)"
+title: "非常经典Java高级工程师高新简历三套含项目介绍"
 date:   2023-09-25
 tags: [简历,模板,Java,工程师,三套]
 comments: true

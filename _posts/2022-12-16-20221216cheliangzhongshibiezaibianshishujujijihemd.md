@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车辆重识别-再辨识数据集集合"
+title: "车辆重识别再辨识数据集集合"
 date:   2020-09-13
 tags: [车辆,图像,数据,识别,摄像机]
 comments: true

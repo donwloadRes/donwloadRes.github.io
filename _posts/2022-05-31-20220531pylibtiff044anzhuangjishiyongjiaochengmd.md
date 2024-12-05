@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pylibtiff 0.4.4 安装及使用教程"
+title: "pylibtiff 044 安装及使用教程"
 date:   2021-09-25
 tags: [pylibtiff,安装,libtiff,Python,导入]
 comments: true

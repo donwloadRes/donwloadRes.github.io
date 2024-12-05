@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024最新GuitarPro 8.1.1中文版资源下载及永久激活教程"
+title: "2024最新GuitarPro 811中文版资源下载及永久激活教程"
 date:   2023-08-09
 tags: [激活,教程,软件,下载,资源库]
 comments: true

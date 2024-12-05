@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD R3.1 V1.3 中文版资源下载"
+title: "USB PD R31 V13 中文版资源下载"
 date:   2023-04-08
 tags: [USB,PD,V1.3,中文版,文件]
 comments: true

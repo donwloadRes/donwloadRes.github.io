@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unet图像分割教程 - 带注解的PyTorch实现"
+title: "Unet图像分割教程  带注解的PyTorch实现"
 date:   2021-10-20
 tags: [Unet,图像,分割,PyTorch,py]
 comments: true

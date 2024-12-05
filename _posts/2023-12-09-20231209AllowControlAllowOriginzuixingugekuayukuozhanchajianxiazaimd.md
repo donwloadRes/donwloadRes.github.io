@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allow-Control-Allow-Origin最新谷歌跨域扩展插件下载"
+title: "AllowControlAllowOrigin最新谷歌跨域扩展插件下载"
 date:   2024-06-28
 tags: [插件,Allow,跨域,谷歌,Control]
 comments: true

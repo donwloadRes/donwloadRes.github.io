@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水晶报表Crystal Reports运行环境CRRuntime13_0_25 64位"
+title: "水晶报表Crystal Reports运行环境CRRuntime13025 64位"
 date:   2020-10-20
 tags: [安装,报表,水晶,文件,运行库]
 comments: true

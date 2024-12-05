@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康相机采集图像例程（C#）"
+title: "海康相机采集图像例程C"
 date:   2023-08-21
 tags: [相机,海康,C#,例程,SDK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言中net-snmp-trap发送代码"
+title: "C语言中netsnmptrap发送代码"
 date:   2022-02-03
 tags: [net,snmp,代码,C语言,SNMP]
 comments: true

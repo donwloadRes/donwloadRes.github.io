@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle Spoon中文完整版(ETL工具)下载仓库"
+title: "Kettle Spoon中文完整版ETL工具下载仓库"
 date:   2022-08-05
 tags: [完整版,Kettle,Spoon,ETL,资源]
 comments: true

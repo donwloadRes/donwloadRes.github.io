@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.5 离线资源 完整版"
+title: "NET Framework 45 离线资源 完整版"
 date:   2023-07-05
 tags: [NET,Framework,4.5,安装,资源]
 comments: true

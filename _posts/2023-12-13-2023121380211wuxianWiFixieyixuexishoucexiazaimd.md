@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11无线WiFi协议学习手册下载"
+title: "80211无线WiFi协议学习手册下载"
 date:   2023-12-10
 tags: [无线网络,802.11,WiFi,无线,手册]
 comments: true

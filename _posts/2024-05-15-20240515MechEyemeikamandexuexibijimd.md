@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mech-Eye(梅卡曼德)学习笔记"
+title: "MechEye梅卡曼德学习笔记"
 date:   2023-07-02
 tags: [卡曼,Mech,Eye,笔记,学习]
 comments: true

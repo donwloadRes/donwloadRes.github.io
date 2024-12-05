@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱心代码合集(2) README"
+title: "爱心代码合集2 README"
 date:   2020-12-25
 tags: [代码,合集,爱心,示例,zip]
 comments: true

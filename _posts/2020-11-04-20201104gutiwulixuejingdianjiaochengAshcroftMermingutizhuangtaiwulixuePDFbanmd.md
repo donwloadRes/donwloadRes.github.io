@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固体物理学经典教程 - Ashcroft & Mermin固体状态物理学》PDF版"
+title: "固体物理学经典教程  Ashcroft  Mermin固体状态物理学PDF版"
 date:   2021-06-23
 tags: [固体物理,固体,物理学,PDF,Ashcroft]
 comments: true

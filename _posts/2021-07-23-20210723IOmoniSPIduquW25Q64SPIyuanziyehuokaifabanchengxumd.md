@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IO模拟SPI读取W25Q64_SPI 原子野火开发板程序"
+title: "IO模拟SPI读取W25Q64SPI 原子野火开发板程序"
 date:   2021-10-10
 tags: [开发板,SPI,W25Q64,芯片,管脚]
 comments: true

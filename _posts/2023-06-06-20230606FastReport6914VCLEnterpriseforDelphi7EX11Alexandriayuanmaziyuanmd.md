@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport 6.9.14 VCL Enterprise for Delphi (7-EX11 Alexandria) 源码资源"
+title: "FastReport 6914 VCL Enterprise for Delphi 7EX11 Alexandria 源码资源"
 date:   2021-05-05
 tags: [Delphi,源代码,集成,FastReport,资源]
 comments: true

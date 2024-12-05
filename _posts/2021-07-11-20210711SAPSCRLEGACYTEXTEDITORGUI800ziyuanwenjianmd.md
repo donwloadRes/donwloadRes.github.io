@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP SCR LEGACY TEXT EDITOR GUI8.00 资源文件"
+title: "SAP SCR LEGACY TEXT EDITOR GUI800 资源文件"
 date:   2020-10-30
 tags: [文件,安装,SAP,SCR,LEGACY]
 comments: true

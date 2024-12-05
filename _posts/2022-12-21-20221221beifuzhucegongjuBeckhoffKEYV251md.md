@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倍福注册工具 Beckhoff_KEY_V2.5.1"
+title: "倍福注册工具 BeckhoffKEYV251"
 date:   2024-10-23
 tags: [倍福,Beckhoff,KEY,V2.5,注册]
 comments: true

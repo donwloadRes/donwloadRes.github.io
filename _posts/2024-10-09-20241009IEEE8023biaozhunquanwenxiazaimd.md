@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3标准全文下载"
+title: "IEEE 8023标准全文下载"
 date:   2020-08-30
 tags: [IEEE,802.3,标准,以太网,文档]
 comments: true

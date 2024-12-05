@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP-FET430UIF全套资料"
+title: "MSPFET430UIF全套资料"
 date:   2020-08-21
 tags: [MSP430,仿真器,资料,MSP,FET430UIF]
 comments: true

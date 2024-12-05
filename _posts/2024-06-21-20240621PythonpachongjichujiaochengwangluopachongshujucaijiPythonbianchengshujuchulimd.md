@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 爬虫基础教程：网络爬虫、数据采集、Python编程、数据处理"
+title: "Python 爬虫基础教程网络爬虫数据采集Python编程数据处理"
 date:   2020-04-20
 tags: [爬虫,Python,数据,网页,抓取]
 comments: true

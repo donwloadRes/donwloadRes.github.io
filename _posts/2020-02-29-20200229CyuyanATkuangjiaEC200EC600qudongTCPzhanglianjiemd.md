@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言-AT框架-EC200（EC600）驱动-TCP长连接"
+title: "C语言AT框架EC200EC600驱动TCP长连接"
 date:   2020-05-22
 tags: [TCP,框架,代码,连接,队列]
 comments: true

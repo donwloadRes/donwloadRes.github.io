@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通写号工具QualcommTool-eMMC-v3.2.zip"
+title: "高通写号工具QualcommTooleMMCv32zip"
 date:   2023-11-07
 tags: [eMMC,v3.2,高通,工具,QualcommTool]
 comments: true

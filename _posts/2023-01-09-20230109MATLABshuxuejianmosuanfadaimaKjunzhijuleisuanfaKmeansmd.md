@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数学建模算法代码——K均值聚类算法（K-means）"
+title: "MATLAB数学建模算法代码K均值聚类算法Kmeans"
 date:   2021-01-25
 tags: [算法,MATLAB,聚类,代码,均值]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE10.1 DataSnap 三层结构完整服务端源码"
+title: "Delphi XE101 DataSnap 三层结构完整服务端源码"
 date:   2021-11-01
 tags: [DataSnap,Delphi,源码,服务端,XE10.1]
 comments: true

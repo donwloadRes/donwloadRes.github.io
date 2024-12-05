@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOC学习笔记2——SVPWM"
+title: "FOC学习笔记2SVPWM"
 date:   2020-04-13
 tags: [SVPWM,笔记,FOC,电机,实现]
 comments: true

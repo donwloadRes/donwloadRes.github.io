@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL学习资料：全面覆盖常用语句实例"
+title: "SQL学习资料全面覆盖常用语句实例"
 date:   2023-12-01
 tags: [SQL,学习,语句,示例,数据库]
 comments: true

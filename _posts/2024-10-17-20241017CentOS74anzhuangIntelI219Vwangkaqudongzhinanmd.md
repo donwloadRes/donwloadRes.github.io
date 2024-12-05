@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.4 安装 Intel I219-V 网卡驱动指南"
+title: "CentOS 74 安装 Intel I219V 网卡驱动指南"
 date:   2023-03-08
 tags: [网卡,安装,Intel,驱动,CentOS]
 comments: true

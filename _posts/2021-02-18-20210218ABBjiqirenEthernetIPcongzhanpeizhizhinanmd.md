@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人Ethernet-IP从站配置指南"
+title: "ABB机器人EthernetIP从站配置指南"
 date:   2020-11-05
 tags: [BB机,器人,Ethernet,IP,配置]
 comments: true

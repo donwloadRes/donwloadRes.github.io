@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSPFET汉化美化版v1.6.1014 资源文件"
+title: "MSPFET汉化美化版v161014 资源文件"
 date:   2023-09-25
 tags: [MSPFET,美化版,v1.6,1014,下载]
 comments: true

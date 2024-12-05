@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优雅、高效、逼格高的Java代码指南"
+title: "优雅高效逼格高的Java代码指南"
 date:   2023-04-07
 tags: [Java,代码,逼格,优化,代码优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现计算器（包含科学计算与进制转换）"
+title: "QT实现计算器包含科学计算与进制转换"
 date:   2022-04-13
 tags: [进制,运算,转换,计算器,科学计算]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB R2016a 控制系统设计与仿真35个案例分析 - 样章与随书源码"
+title: "MATLAB R2016a 控制系统设计与仿真35个案例分析  样章与随书源码"
 date:   2020-09-03
 tags: [MATLAB,R2016a,案例,仿真,35]
 comments: true

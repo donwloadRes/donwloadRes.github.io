@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 2021.3 安装保姆级教程"
+title: "IDEA 20213 安装保姆级教程"
 date:   2020-06-01
 tags: [IDEA,2021.3,安装,教程,IntelliJ]
 comments: true

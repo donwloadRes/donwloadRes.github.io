@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 2021a+ MAC 安装指南"
+title: "MATLAB 2021a MAC 安装指南"
 date:   2021-12-15
 tags: [安装,MATLAB,文件,指南,选择]
 comments: true

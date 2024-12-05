@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ UltraScale+ MPSoc ZU5EV核心板原理图"
+title: "ZYNQ UltraScale MPSoc ZU5EV核心板原理图"
 date:   2022-08-27
 tags: [原理图,UltraScale,ZYNQ,ZU5EV,Zynq]
 comments: true

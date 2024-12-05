@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现wav文件读取并绘制波形图"
+title: "C实现wav文件读取并绘制波形图"
 date:   2022-02-11
 tags: [wav,波形图,读取,绘制,文件]
 comments: true

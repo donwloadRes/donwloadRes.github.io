@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebGL编程指南.pdf - 深入探索Web图形编程的艺术"
+title: "WebGL编程指南pdf  深入探索Web图形编程的艺术"
 date:   2021-03-24
 tags: [WebGL,编程,图形,3D,指南]
 comments: true

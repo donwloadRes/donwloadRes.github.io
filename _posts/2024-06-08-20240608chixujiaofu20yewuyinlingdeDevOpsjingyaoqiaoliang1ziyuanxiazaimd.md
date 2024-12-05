@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "持续交付2.0+业务引领的DevOps精要》_乔梁1 资源下载"
+title: "持续交付20业务引领的DevOps精要乔梁1 资源下载"
 date:   2022-03-26
 tags: [2.0,DevOps,乔梁,下载,精要]
 comments: true

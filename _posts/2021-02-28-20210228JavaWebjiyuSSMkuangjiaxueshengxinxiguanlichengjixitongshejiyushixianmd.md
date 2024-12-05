@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb基于SSM框架学生信息管理（成绩）系统设计与实现"
+title: "JavaWeb基于SSM框架学生信息管理成绩系统设计与实现"
 date:   2023-01-01
 tags: [改查,增删,学生,配置文件,MyBatis]
 comments: true

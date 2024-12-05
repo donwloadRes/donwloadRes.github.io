@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享45个Bootstrap模板，总有一款适合您"
+title: "分享45个Bootstrap模板总有一款适合您"
 date:   2020-11-29
 tags: [模板,Bootstrap,45,网站,文件]
 comments: true

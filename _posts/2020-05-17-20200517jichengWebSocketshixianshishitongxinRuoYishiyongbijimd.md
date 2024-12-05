@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "集成WebSocket实现实时通信（RuoYi 使用笔记）"
+title: "集成WebSocket实现实时通信RuoYi 使用笔记"
 date:   2023-11-15
 tags: [WebSocket,RuoYi,文件,集成,实时]
 comments: true

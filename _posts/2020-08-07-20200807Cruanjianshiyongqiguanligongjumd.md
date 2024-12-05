@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 软件试用期管理工具"
+title: "C 软件试用期管理工具"
 date:   2020-05-19
 tags: [试用期,加密,日期,软件,解密]
 comments: true

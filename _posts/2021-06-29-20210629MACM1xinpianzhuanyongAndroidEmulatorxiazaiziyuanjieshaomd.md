@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAC M1芯片专用：Android Emulator 下载资源介绍"
+title: "MAC M1芯片专用Android Emulator 下载资源介绍"
 date:   2020-05-19
 tags: [模拟器,M1,下载,芯片,Android]
 comments: true

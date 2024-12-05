@@ -1,6 +1,52 @@
 ---
 layout: post
-title: "STM32F103模拟IIC控制4针0.96寸OLED显示屏"
+title: "STM32F103模拟IIC控制4针096寸OLED显示屏
+date   20240223
+tags OLEDIIC显示STM32F103显示屏
+comments true
+author admin
+
+ STM32F103模拟IIC控制4针096寸OLED显示屏
+
+ 概述
+
+本文档提供了一套详细的教程和代码示例用于指导如何使用STM32F103系列微控制器通过模拟IIC接口来控制一款4针的096英寸OLED显示屏此显示屏因其小巧的尺寸27mm x 26mm和高分辨率128x64像素成为嵌入式项目中的优选显示部件文章基于C语言编写适合那些想要在STM32平台上集成OLED显示功能的开发者
+
+ 功能特点
+
+ 接口灵活支持包括IIC在内的四种接口方式本次教程集中于模拟IIC控制
+ 电源友好直接使用33V供电无需额外升压
+ 自发光特性OLED显示技术自带光源无需背光对比度高且节能
+ 简易操作通过简单的库函数调用即可实现文字数字和图形的显示
+ 示例丰富包含汉字显示字符串显示图片显示BMP点线图绘制等功能演示
+
+ 快速指南
+
+ 硬件准备
+
+ STM32F103开发板
+ 096英寸OLED显示屏4针接口
+ 接线配置确保正确连接OLED的四针至STM32对应GPIO
+
+ 软件要求
+
+ 编译环境Keil uVision或STM32CubeIDE等支持ARM CortexM3的IDE
+ 库文件包括OLED驱动库IIC模拟函数取字模工具等
+
+ 核心步骤
+
+1 配置IIC模拟在myiich中定义控制OLED的GPIO引脚
+2 初始化OLED调用OLEDInit完成初始化过程
+3 显示操作使用如OLEDShowCHineseOLEDShowString等函数显示文本或利用OLEDDrawBMP显示位图图像
+4 延时与循环确保适当的延迟以观察显示效果通常通过delayms函数实现
+
+ 示例代码片段
+
+展示如何显示一个简单的汉字
+
+c
+include oledh
+include myiich"
 date:   2024-02-23
 tags: [OLED,IIC,显示,STM32F103,显示屏]
 comments: true

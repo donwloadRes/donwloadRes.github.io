@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes（K8s）入门文档"
+title: "KubernetesK8s入门文档"
 date:   2022-10-18
 tags: [Kubernetes,文档,入门,PDF,容器]
 comments: true

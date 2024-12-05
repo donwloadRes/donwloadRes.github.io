@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS2251-9 主控量产工具中文版"
+title: "PS22519 主控量产工具中文版"
 date:   2020-04-04
 tags: [U盘,主控,量产,教程,工具]
 comments: true

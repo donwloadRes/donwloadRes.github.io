@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC客栈-M1卡分析助手"
+title: "IC客栈M1卡分析助手"
 date:   2020-06-07
 tags: [M1,IC卡,IC,分析,客栈]
 comments: true

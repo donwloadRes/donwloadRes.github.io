@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wikitext-2 数据集下载仓库"
+title: "Wikitext2 数据集下载仓库"
 date:   2024-04-02
 tags: [SEQUENCE,解压,下载,教程,wikitext]
 comments: true

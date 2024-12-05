@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS问题记录 - Xcode 14安装低版本iOS模拟器（持续更新）"
+title: "iOS问题记录  Xcode 14安装低版本iOS模拟器持续更新"
 date:   2021-05-09
 tags: [模拟器,iOS,Xcode,低版本,14]
 comments: true

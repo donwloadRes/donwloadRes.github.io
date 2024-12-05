@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "提高C#编程水平的50个要点"
+title: "提高C编程水平的50个要点"
 date:   2021-09-02
 tags: [C#,编程,要点,50,资源]
 comments: true

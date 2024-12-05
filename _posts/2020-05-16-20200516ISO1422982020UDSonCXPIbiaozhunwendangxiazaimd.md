@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 14229-8-2020 UDSonCXPI 标准文档下载"
+title: "ISO 1422982020 UDSonCXPI 标准文档下载"
 date:   2023-06-26
 tags: [ISO,14229,2020,文档,标准]
 comments: true

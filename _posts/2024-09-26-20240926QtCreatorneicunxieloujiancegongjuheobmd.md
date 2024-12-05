@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Creator 内存泄漏检测工具 - heob"
+title: "Qt Creator 内存泄漏检测工具  heob"
 date:   2023-01-20
 tags: [heob,64,内存,泄漏,32]
 comments: true

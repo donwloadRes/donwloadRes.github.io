@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LDRA_Testbed中文使用指南"
+title: "LDRATestbed中文使用指南"
 date:   2020-09-09
 tags: [Testbed,LDRA,使用指南,中文,示例]
 comments: true

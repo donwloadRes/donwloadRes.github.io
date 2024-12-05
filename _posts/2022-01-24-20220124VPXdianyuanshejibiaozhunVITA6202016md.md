@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX 电源设计标准 VITA62.0-2016"
+title: "VPX 电源设计标准 VITA6202016"
 date:   2021-02-15
 tags: [VPX,电源,VITA62.0,2016,设计标准]
 comments: true

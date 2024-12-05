@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP试题700道（含答案）"
+title: "CISP试题700道含答案"
 date:   2022-11-23
 tags: [信息安全,CISP,题目,700,学习]
 comments: true

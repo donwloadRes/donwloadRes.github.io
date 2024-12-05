@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iIDM下载器2024：提升你的下载效率！"
+title: "iIDM下载器2024提升你的下载效率"
 date:   2020-08-20
 tags: [iIDM,下载,2024,文件,用户]
 comments: true

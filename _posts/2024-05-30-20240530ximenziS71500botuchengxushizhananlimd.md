@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500博图程序实战案例"
+title: "西门子S71500博图程序实战案例"
 date:   2021-05-03
 tags: [S7,1500,西门子,编程,PLC]
 comments: true

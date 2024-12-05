@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MPU9250获取姿态（航向角）STM32及源码"
+title: "基于MPU9250获取姿态航向角STM32及源码"
 date:   2020-02-22
 tags: [MPU9250,STM32,磁力计,姿态,传感器]
 comments: true

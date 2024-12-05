@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 超好用的万能播放器——ijkplayer"
+title: "Android 超好用的万能播放器ijkplayer"
 date:   2023-01-02
 tags: [ijkplayer,Android,编解码器,格式,支持]
 comments: true

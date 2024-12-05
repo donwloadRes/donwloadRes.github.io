@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为EMUI8.0-8.2免APP手撕解华为ID账户锁教程"
+title: "华为EMUI8082免APP手撕解华为ID账户锁教程"
 date:   2024-09-10
 tags: [AL00,8.0,TL00,荣耀,AL10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCL编程指南（中文版SDK）"
+title: "OpenCL编程指南中文版SDK"
 date:   2023-08-11
 tags: [OpenCL,SDK,编程,中文版,指南]
 comments: true

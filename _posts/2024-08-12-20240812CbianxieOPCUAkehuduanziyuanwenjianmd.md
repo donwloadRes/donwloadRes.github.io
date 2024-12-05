@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写OPC UA客户端资源文件"
+title: "C编写OPC UA客户端资源文件"
 date:   2020-04-13
 tags: [OPC,UA,PLC,C#,代码]
 comments: true

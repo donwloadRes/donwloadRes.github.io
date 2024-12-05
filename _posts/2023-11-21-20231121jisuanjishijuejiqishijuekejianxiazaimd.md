@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机视觉（机器视觉）课件下载"
+title: "计算机视觉机器视觉课件下载"
 date:   2020-02-29
 tags: [视觉,课件,计算机,图像,滤波]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond Compare v4.4.3 资源文件介绍"
+title: "Beyond Compare v443 资源文件介绍"
 date:   2021-07-19
 tags: [Beyond,Compare,文件,文件夹,v4.4]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目配置管理计划-完整的范例文档"
+title: "项目配置管理计划完整的范例文档"
 date:   2021-11-09
 tags: [配置管理,文档,配置,项目,附录]
 comments: true

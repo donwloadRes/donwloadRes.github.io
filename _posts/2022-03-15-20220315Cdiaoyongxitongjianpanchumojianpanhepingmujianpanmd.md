@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用系统键盘（触摸键盘和屏幕键盘）"
+title: "C 调用系统键盘触摸键盘和屏幕键盘"
 date:   2023-01-08
 tags: [键盘,Windows,触摸,调用,应用程序]
 comments: true

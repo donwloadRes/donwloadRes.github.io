@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像处理滤波MATLAB代码实现 - BM3D_MATLAB"
+title: "图像处理滤波MATLAB代码实现  BM3DMATLAB"
 date:   2024-10-19
 tags: [MATLAB,BM3D,代码,图像处理,3D]
 comments: true

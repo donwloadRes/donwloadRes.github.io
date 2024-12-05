@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "esp32s3 U盘 USB_Device_MSC"
+title: "esp32s3 U盘 USBDeviceMSC"
 date:   2020-11-22
 tags: [USB,ESP32,S3,U盘,SD]
 comments: true

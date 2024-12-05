@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整C# ERP系统资源下载"
+title: "完整C ERP系统资源下载"
 date:   2024-02-02
 tags: [C#,ERP,数据库,系统资源,编程]
 comments: true

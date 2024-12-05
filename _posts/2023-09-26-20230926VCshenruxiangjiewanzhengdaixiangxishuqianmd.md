@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++深入详解-完整带详细书签"
+title: "VC深入详解完整带详细书签"
 date:   2023-11-12
 tags: [书签,C++,读者,文件,详解]
 comments: true

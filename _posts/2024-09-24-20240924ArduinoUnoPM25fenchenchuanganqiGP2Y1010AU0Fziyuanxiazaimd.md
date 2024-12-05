@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino Uno PM2.5粉尘传感器（GP2Y1010AU0F）资源下载"
+title: "Arduino Uno PM25粉尘传感器GP2Y1010AU0F资源下载"
 date:   2020-05-10
 tags: [传感器,Arduino,Uno,GP2Y1010AU0F,粉尘]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "命名实体识别-双向BiLSTM-CRF"
+title: "命名实体识别双向BiLSTMCRF"
 date:   2024-01-28
 tags: [CRF,字符,模型,识别,双向]
 comments: true

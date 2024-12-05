@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图片、视频修复工具——Real-CUGAN简易使用指南"
+title: "图片视频修复工具RealCUGAN简易使用指南"
 date:   2023-02-20
 tags: [Real,CUGAN,图像,修复,分辨率]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "onnxruntime v1.14.0 针对 Windows 7 自行编译的 DLL 文件"
+title: "onnxruntime v1140 针对 Windows 7 自行编译的 DLL 文件"
 date:   2021-04-28
 tags: [DLL,onnxruntime,Windows,文件,编译]
 comments: true

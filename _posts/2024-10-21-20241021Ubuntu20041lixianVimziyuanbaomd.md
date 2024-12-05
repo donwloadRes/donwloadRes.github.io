@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.1 离线 Vim 资源包"
+title: "Ubuntu 20041 离线 Vim 资源包"
 date:   2022-12-12
 tags: [Vim,20.04,Ubuntu,安装,资源]
 comments: true

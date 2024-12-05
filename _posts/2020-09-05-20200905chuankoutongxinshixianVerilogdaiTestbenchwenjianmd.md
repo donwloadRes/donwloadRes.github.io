@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口通信实现（Verilog带Testbench文件）"
+title: "串口通信实现Verilog带Testbench文件"
 date:   2021-11-04
 tags: [串口,tx,Verilog,uart,模块]
 comments: true

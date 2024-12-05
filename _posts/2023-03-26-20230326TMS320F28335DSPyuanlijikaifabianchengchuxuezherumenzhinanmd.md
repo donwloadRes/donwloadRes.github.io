@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320F28335 DSP原理及开发编程 - 初学者入门指南"
+title: "TMS320F28335 DSP原理及开发编程  初学者入门指南"
 date:   2022-09-20
 tags: [DSP,TMS320F28335,编程,初学者,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现HTTP GET和POST 样例代码"
+title: "C实现HTTP GET和POST 样例代码"
 date:   2021-02-15
 tags: [HTTP,代码,C#,样例,POST]
 comments: true

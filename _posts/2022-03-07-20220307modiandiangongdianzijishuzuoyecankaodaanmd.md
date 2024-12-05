@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模电（电工电子技术）作业参考答案"
+title: "模电电工电子技术作业参考答案"
 date:   2021-02-08
 tags: [电路,学习,放大器,电工,分析]
 comments: true

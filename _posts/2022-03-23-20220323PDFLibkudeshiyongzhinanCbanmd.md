@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFLib库的使用指南（C++版）"
+title: "PDFLib库的使用指南C版"
 date:   2023-03-01
 tags: [PDFLib,示例,C++,文件,使用指南]
 comments: true

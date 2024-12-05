@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决64位Windows 8运行Trial-Reset时缺少MSCOMCTL.OCX的问题"
+title: "解决64位Windows 8运行TrialReset时缺少MSCOMCTLOCX的问题"
 date:   2021-01-01
 tags: [MSCOMCTL,OCX,文件,Windows,64]
 comments: true

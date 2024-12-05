@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ7000使用PL+PS实现网络功能的例程xapp1082"
+title: "ZYNQ7000使用PLPS实现网络功能的例程xapp1082"
 date:   2024-04-17
 tags: [例程,ZYNQ7000,PL,PS,xapp1082]
 comments: true

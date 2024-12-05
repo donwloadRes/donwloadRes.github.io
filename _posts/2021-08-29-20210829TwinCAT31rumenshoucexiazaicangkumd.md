@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT3.1 入门手册下载仓库"
+title: "TwinCAT31 入门手册下载仓库"
 date:   2021-12-20
 tags: [TwinCAT3.1,手册,入门,倍福,PLC]
 comments: true

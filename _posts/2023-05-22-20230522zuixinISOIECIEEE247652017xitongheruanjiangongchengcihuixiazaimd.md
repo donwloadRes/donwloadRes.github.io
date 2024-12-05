@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新ISO-IEC-IEEE 24765-2017 系统和软件工程词汇下载"
+title: "最新ISOIECIEEE 247652017 系统和软件工程词汇下载"
 date:   2021-04-11
 tags: [软件工程,词汇,2017,系统,ISO]
 comments: true

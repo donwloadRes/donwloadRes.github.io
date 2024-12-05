@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于2ASK调制的PLUTO二进制序列信号传输仿真(西电通原实践)"
+title: "基于2ASK调制的PLUTO二进制序列信号传输仿真西电通原实践"
 date:   2022-05-09
 tags: [MATLAB,代码,2ASK,PLUTO,仿真]
 comments: true

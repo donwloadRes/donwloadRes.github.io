@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联客FPGA 千兆以太网部分代码（1-2）"
+title: "米联客FPGA 千兆以太网部分代码12"
 date:   2024-06-05
 tags: [代码,千兆,以太网,联客,FPGA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "38.214 5G 新无线电（NR）协议中英文对照指南"
+title: "38214 5G 新无线电NR协议中英文对照指南"
 date:   2020-07-31
 tags: [5G,NR,中英文,38.214,对照]
 comments: true

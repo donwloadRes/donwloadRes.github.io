@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康平台Http接口帮助文档+示例"
+title: "海康平台Http接口帮助文档示例"
 date:   2022-05-03
 tags: [海康,文档,示例,接口,平台]
 comments: true

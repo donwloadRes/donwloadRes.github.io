@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RDMA编程用户手册-官方中文版"
+title: "RDMA编程用户手册官方中文版"
 date:   2024-09-25
 tags: [RDMA,编程,中文版,用户手册,翻译]
 comments: true

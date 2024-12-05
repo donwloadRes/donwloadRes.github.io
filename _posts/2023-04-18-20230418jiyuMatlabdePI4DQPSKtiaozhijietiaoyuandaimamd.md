@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab的PI-4 DQPSK调制解调源代码"
+title: "基于Matlab的PI4 DQPSK调制解调源代码"
 date:   2022-01-06
 tags: [Matlab,解调,PI,DQPSK,源代码]
 comments: true

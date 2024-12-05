@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft BarCode Control 16.0 条形码二维码控件安装包资源"
+title: "Microsoft BarCode Control 160 条形码二维码控件安装包资源"
 date:   2020-10-11
 tags: [控件,条形码,二维码,安装包,Word]
 comments: true

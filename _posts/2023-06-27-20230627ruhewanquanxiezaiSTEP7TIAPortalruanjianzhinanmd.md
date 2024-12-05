@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何完全卸载 STEP 7 (TIA Portal) 软件指南"
+title: "如何完全卸载 STEP 7 TIA Portal 软件指南"
 date:   2023-07-16
 tags: [卸载,STEP,TIA,Portal,软件]
 comments: true

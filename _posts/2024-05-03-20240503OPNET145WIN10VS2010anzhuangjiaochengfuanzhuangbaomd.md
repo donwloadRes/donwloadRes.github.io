@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPNET14.5+WIN10+VS2010安装教程(附安装包)"
+title: "OPNET145WIN10VS2010安装教程附安装包"
 date:   2022-08-29
 tags: [exe,安装,OPNET14.5,OPNET,win]
 comments: true

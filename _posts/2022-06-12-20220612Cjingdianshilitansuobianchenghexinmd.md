@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 经典示例，探索编程核心"
+title: "C 经典示例探索编程核心"
 date:   2022-04-24
 tags: [示例,C++,编程,排序,开发者]
 comments: true

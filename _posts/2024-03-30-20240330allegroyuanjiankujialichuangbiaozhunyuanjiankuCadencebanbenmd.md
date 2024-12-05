@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "allegro元件库 - 嘉立创标准元件库Cadence版本"
+title: "allegro元件库  嘉立创标准元件库Cadence版本"
 date:   2023-06-30
 tags: [元件库,Cadence,设计,资源库,嘉立]
 comments: true

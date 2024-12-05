@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+红外模块控制格力空调"
+title: "STM32红外模块控制格力空调"
 date:   2024-10-11
 tags: [STM32,模块,红外,格力空调,控制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 + A4988驱动42步进电机原理图及源程序"
+title: "STM32F103C8T6  A4988驱动42步进电机原理图及源程序"
 date:   2023-06-06
 tags: [步进,电机,A4988,STM32F103C8T6,42]
 comments: true

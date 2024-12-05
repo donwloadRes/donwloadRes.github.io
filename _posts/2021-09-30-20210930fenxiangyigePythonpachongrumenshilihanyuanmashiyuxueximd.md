@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享一个Python爬虫入门实例（含源码，适于学习）"
+title: "分享一个Python爬虫入门实例含源码适于学习"
 date:   2020-07-24
 tags: [Python,爬虫,数据,解析,存储]
 comments: true

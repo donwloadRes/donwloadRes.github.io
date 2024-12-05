@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "什么是滚动优化（receding-horizon-rolling-horizon）？"
+title: "什么是滚动优化recedinghorizonrollinghorizon"
 date:   2022-04-03
 tags: [优化,滚动,最优,模型,采样]
 comments: true

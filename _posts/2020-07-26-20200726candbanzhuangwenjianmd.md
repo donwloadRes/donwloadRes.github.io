@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "candb++ 安装文件"
+title: "candb 安装文件"
 date:   2021-12-25
 tags: [candb,++,安装文件,软件,Cdbstat]
 comments: true

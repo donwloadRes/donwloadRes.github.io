@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陕西科技大学C++实验报告1"
+title: "陕西科技大学C实验报告1"
 date:   2021-03-20
 tags: [实验报告,C++,实验,陕西,科技]
 comments: true

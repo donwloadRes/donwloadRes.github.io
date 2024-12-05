@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通音频调试指南-voice"
+title: "高通音频调试指南voice"
 date:   2022-06-25
 tags: [音频,调试,高通,指南,文档]
 comments: true

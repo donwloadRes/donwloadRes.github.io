@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link V9固件修复资源文件介绍"
+title: "JLink V9固件修复资源文件介绍"
 date:   2020-01-23
 tags: [Link,固件,V9,烧写,修复]
 comments: true

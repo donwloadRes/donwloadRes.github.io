@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6与HC-SR04超声波传感器资源包"
+title: "STM32F103C8T6与HCSR04超声波传感器资源包"
 date:   2022-10-08
 tags: [超声波,STM32F103C8T6,HC,SR04,传感器]
 comments: true

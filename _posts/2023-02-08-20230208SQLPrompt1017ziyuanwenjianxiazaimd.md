@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLPrompt 10.1.7 资源文件下载"
+title: "SQLPrompt 1017 资源文件下载"
 date:   2024-06-27
 tags: [SQLPrompt,附赠,文件,10.1,SQL]
 comments: true

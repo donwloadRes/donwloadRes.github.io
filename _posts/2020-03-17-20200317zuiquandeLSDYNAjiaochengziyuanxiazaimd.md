@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全的LS-DYNA教程资源下载"
+title: "最全的LSDYNA教程资源下载"
 date:   2020-01-07
 tags: [LS,DYNA,教程,最全,文件]
 comments: true

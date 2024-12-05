@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB 4208-2008外壳防护等级(IP代码)》PDF下载"
+title: "GB 42082008外壳防护等级IP代码PDF下载"
 date:   2022-05-05
 tags: [2008,IP,外壳,4208,防护]
 comments: true

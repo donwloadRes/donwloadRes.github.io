@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 5.0 Windows版下载、安装及常用命令指南"
+title: "Redis 50 Windows版下载安装及常用命令指南"
 date:   2023-11-26
 tags: [Redis,Windows,redis,5.0,server]
 comments: true

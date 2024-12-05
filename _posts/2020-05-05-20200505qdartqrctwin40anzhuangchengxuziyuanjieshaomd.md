@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qdart-qrct.win.4.0安装程序资源介绍"
+title: "qdartqrctwin40安装程序资源介绍"
 date:   2023-04-27
 tags: [安装,qdart,qrct,说明书,使用]
 comments: true

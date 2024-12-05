@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性系统（第三版，中文版）资源下载"
+title: "非线性系统第三版中文版资源下载"
 date:   2024-08-20
 tags: [非线性,系统,阅读,书签,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StataPlus-Stata外部命令集(Update)"
+title: "StataPlusStata外部命令集Update"
 date:   2022-03-31
 tags: [外部命令,Stata,StataPlus,Update,数据分析]
 comments: true

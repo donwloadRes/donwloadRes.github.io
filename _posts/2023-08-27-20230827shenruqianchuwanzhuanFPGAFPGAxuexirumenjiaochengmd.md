@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出玩转FPGA - FPGA学习入门教程"
+title: "深入浅出玩转FPGA  FPGA学习入门教程"
 date:   2021-01-04
 tags: [FPGA,玩转,深入浅出,学习,教程]
 comments: true

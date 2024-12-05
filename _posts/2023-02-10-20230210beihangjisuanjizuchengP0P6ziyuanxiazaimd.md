@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北航计算机组成P0-P6资源下载"
+title: "北航计算机组成P0P6资源下载"
 date:   2022-02-26
 tags: [代码,Logisim,CPU,Verilog,Mars]
 comments: true

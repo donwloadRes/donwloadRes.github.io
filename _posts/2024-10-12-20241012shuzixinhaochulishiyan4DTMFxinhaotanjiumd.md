@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理实验4-DTMF信号探究"
+title: "数字信号处理实验4DTMF信号探究"
 date:   2020-03-27
 tags: [DTMF,实验,信号,信号处理,检测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buck变换器模糊滑膜控制Matlab-Simulink 资源简介"
+title: "Buck变换器模糊滑膜控制MatlabSimulink 资源简介"
 date:   2024-08-27
 tags: [滑膜,变换器,控制,Buck,Matlab]
 comments: true

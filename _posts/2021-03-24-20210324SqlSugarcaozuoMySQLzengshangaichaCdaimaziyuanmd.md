@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SqlSugar操作MySQL增删改查C#代码资源"
+title: "SqlSugar操作MySQL增删改查C代码资源"
 date:   2021-07-17
 tags: [数据库,SqlSugar,MySQL,代码,示例]
 comments: true

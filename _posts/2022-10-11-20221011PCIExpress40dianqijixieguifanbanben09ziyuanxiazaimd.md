@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 4.0 电气机械规范版本 0.9 资源下载"
+title: "PCI Express 40 电气机械规范版本 09 资源下载"
 date:   2024-11-09
 tags: [PCI,Express,4.0,0.9,规范]
 comments: true

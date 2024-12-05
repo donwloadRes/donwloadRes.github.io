@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VirtualBox 安装 Kali Linux 保姆级教程（2）"
+title: "VirtualBox 安装 Kali Linux 保姆级教程2"
 date:   2022-11-21
 tags: [安装,虚拟机,VirtualBox,Linux,教程]
 comments: true

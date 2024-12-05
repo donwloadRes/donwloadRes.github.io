@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源OA系统【完整源码带手册】"
+title: "开源OA系统完整源码带手册"
 date:   2021-11-30
 tags: [开源,源码,O2OA,办公,系统]
 comments: true

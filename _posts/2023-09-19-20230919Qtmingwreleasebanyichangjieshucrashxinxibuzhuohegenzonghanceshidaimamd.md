@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt mingw release版异常结束 crash信息捕捉和跟踪(含测试代码)"
+title: "Qt mingw release版异常结束 crash信息捕捉和跟踪含测试代码"
 date:   2022-07-01
 tags: [异常,release,Qt,crash,捕捉]
 comments: true

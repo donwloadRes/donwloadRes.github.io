@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testbed工具手册—静态检查的报告分析指导V1.0.doc 下载仓库"
+title: "Testbed工具手册静态检查的报告分析指导V10doc 下载仓库"
 date:   2022-05-03
 tags: [Testbed,静态,V1.0,doc,工具]
 comments: true

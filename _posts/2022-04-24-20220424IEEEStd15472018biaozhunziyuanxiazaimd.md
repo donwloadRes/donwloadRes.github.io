@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Std 1547-2018标准资源下载"
+title: "IEEE Std 15472018标准资源下载"
 date:   2023-10-06
 tags: [2018,IEEE,Std,1547,标准]
 comments: true

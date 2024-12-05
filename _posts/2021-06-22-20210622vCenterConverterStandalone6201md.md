@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vCenter Converter Standalone 6.2.0.1"
+title: "vCenter Converter Standalone 6201"
 date:   2021-06-19
 tags: [虚拟机,转换,迁移,物理,vCenter]
 comments: true

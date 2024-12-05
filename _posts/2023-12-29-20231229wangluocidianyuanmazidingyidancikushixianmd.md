@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络词典源码：自定义单词库实现"
+title: "网络词典源码自定义单词库实现"
 date:   2020-12-31
 tags: [源码,词典,单词,自定义,网络]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java开发环境搭建系列 ---- IDEA开发工具安装指南"
+title: "Java开发环境搭建系列  IDEA开发工具安装指南"
 date:   2024-05-07
 tags: [IDEA,Java,安装,编程,IntelliJ]
 comments: true

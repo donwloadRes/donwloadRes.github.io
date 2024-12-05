@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADASIS v3 协议参考手册（中文版）"
+title: "ADASIS v3 协议参考手册中文版"
 date:   2023-12-13
 tags: [ADASIS,v3,参考手册,协议,中文版]
 comments: true

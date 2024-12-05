@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XXX系统源代码安全审计报告（模板）"
+title: "XXX系统源代码安全审计报告模板"
 date:   2020-02-14
 tags: [安全,审计,模板,源代码,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11 技术标准文档集合"
+title: "IEEE 80211 技术标准文档集合"
 date:   2023-01-17
 tags: [802.11,文档,传输速率,GHz,标准]
 comments: true

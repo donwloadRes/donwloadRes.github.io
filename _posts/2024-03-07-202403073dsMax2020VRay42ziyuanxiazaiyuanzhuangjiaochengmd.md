@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3dsMax 2020 VRay 4.2 资源下载与安装教程"
+title: "3dsMax 2020 VRay 42 资源下载与安装教程"
 date:   2020-05-29
 tags: [VRay,4.2,教程,3dsMax,2020]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于nilibddc.dll的Qt C++ TDMS读写工具"
+title: "基于nilibddcdll的Qt C TDMS读写工具"
 date:   2021-02-03
 tags: [TDMS,nilibddc,dll,Qt,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSI-VITA 46.0-2007 中文翻译版"
+title: "ANSIVITA 4602007 中文翻译版"
 date:   2022-04-27
 tags: [中文翻译,ANSI,2007,翻译,VITA]
 comments: true

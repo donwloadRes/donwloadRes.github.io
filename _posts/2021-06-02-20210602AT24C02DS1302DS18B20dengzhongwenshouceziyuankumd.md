@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AT24C02、DS1302、DS18B20等中文手册资源库"
+title: "AT24C02DS1302DS18B20等中文手册资源库"
 date:   2021-02-23
 tags: [开发者,手册,芯片,中文,资源库]
 comments: true

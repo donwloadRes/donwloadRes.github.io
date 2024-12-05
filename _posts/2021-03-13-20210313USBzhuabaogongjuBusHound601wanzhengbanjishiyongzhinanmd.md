@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB抓包工具 Bus Hound 6.0.1 完整版及使用指南"
+title: "USB抓包工具 Bus Hound 601 完整版及使用指南"
 date:   2022-07-24
 tags: [USB,6.0,Bus,Hound,软件]
 comments: true

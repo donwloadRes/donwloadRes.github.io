@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS+INS组合导航资源下载"
+title: "GPSINS组合导航资源下载"
 date:   2020-12-01
 tags: [GPS,INS,导航,组合,资源]
 comments: true

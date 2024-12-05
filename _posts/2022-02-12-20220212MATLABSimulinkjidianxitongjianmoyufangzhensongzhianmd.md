@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB_Simulink机电系统建模与仿真_宋志安"
+title: "MATLABSimulink机电系统建模与仿真宋志安"
 date:   2020-04-07
 tags: [建模,MATLAB,Simulink,仿真,机电]
 comments: true

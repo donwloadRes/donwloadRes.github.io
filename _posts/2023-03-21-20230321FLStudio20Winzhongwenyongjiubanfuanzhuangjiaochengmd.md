@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 20 Win中文永久版（附安装教程）"
+title: "FL Studio 20 Win中文永久版附安装教程"
 date:   2024-06-06
 tags: [安装,FL,Studio,20,教程]
 comments: true

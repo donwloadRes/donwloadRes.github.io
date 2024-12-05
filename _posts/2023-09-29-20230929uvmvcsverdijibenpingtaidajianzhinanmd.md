@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uvm+vcs+verdi基本平台搭建指南"
+title: "uvmvcsverdi基本平台搭建指南"
 date:   2022-09-01
 tags: [UVM,VCS,Verdi,验证,仿真]
 comments: true

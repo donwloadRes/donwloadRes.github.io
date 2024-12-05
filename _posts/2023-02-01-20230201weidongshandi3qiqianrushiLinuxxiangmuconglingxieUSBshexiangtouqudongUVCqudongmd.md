@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韦东山第3期嵌入式Linux项目：从零写USB摄像头驱动（UVC驱动）"
+title: "韦东山第3期嵌入式Linux项目从零写USB摄像头驱动UVC驱动"
 date:   2023-09-14
 tags: [USB,驱动程序,Linux,摄像头,嵌入式]
 comments: true

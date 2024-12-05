@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "深入理解计算机系统》第三版资源答疑"
+title: "深入理解计算机系统第三版资源答疑
+date   20200506
+tags 资源计算机系统理解解答章节
+comments true
+author admin
+
+
+layout post
+title 深入理解计算机系统第三版资源答疑"
 date:   2020-05-06
 tags: [资源,计算机系统,理解,解答,章节]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "深入理解计算机系统》第三版资源答疑"
+title: "深入理解计算机系统第三版资源答疑
+date   20200506
+tags 资源计算机系统理解解答章节
+comments true
+author admin
+
+
+layout post
+title 深入理解计算机系统第三版资源答疑"
 date:   2020-09-09
 tags: [资源,计算机系统,理解,解答,章节]
 comments: true

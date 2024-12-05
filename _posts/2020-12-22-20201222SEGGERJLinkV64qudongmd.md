@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEGGER_JLink_V6.4驱动"
+title: "SEGGERJLinkV64驱动"
 date:   2023-12-21
 tags: [Link,驱动,SEGGER,V6.4,JLink]
 comments: true

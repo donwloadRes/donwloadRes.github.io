@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 自动化测试框架 - pytest 资料下载"
+title: "Python 自动化测试框架  pytest 资料下载"
 date:   2020-12-28
 tags: [Python,pytest,开发者,自动化,框架]
 comments: true

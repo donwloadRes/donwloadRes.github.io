@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DEAP数据集的特征提取：近似熵、排列熵、样本熵"
+title: "基于DEAP数据集的特征提取近似熵排列熵样本熵"
 date:   2022-12-04
 tags: [DEAP,数据,信号,情感,特征提取]
 comments: true

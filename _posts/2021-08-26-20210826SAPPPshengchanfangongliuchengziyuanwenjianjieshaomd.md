@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP_PP生产返工流程资源文件介绍"
+title: "SAPPP生产返工流程资源文件介绍"
 date:   2022-10-13
 tags: [返工,SAP,流程,PP,如何]
 comments: true

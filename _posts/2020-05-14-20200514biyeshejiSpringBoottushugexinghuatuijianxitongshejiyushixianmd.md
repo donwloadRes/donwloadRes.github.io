@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：SpringBoot图书个性化推荐系统设计与实现"
+title: "毕业设计SpringBoot图书个性化推荐系统设计与实现"
 date:   2023-02-18
 tags: [图书,管理,SpringBoot,数据库,文档]
 comments: true

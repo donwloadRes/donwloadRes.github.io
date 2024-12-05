@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DB2 V11.5 安装包下载"
+title: "DB2 V115 安装包下载"
 date:   2024-09-03
 tags: [DB2,V11.5,安装包,下载,链接]
 comments: true

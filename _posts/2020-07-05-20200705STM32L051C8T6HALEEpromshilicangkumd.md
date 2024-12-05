@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L051C8T6_HAL_EEprom示例仓库"
+title: "STM32L051C8T6HALEEprom示例仓库"
 date:   2023-07-28
 tags: [HAL,EEPROM,示例,STM32L051C8T6,写入]
 comments: true

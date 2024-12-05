@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIGUI 下的完美富文本编辑器（源码）"
+title: "UNIGUI 下的完美富文本编辑器源码"
 date:   2023-03-04
 tags: [UNIGUI,文本编辑,源码,wangEditor,上传]
 comments: true

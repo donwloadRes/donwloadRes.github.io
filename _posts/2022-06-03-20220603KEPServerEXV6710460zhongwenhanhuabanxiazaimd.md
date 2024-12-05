@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEPServerEX V6.7.1046.0 中文汉化版下载"
+title: "KEPServerEX V6710460 中文汉化版下载"
 date:   2020-05-27
 tags: [1046.0,解压,rar,V6.7,KEPServerEX]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue音乐网站答辩PPT"
+title: "SpringBootVue音乐网站答辩PPT"
 date:   2021-08-12
 tags: [PPT,答辩,SpringBoot,Vue,演示]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗_GPS双模软件接收机，原理与实现技术（书籍光盘）"
+title: "北斗GPS双模软件接收机原理与实现技术书籍光盘"
 date:   2023-04-06
 tags: [双模,GPS,接收机,软件,北斗]
 comments: true

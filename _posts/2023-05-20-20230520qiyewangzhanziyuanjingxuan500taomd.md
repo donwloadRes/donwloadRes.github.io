@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业网站资源精选（500+套）"
+title: "企业网站资源精选500套"
 date:   2021-12-22
 tags: [网站,资源,企业,学习,500]
 comments: true

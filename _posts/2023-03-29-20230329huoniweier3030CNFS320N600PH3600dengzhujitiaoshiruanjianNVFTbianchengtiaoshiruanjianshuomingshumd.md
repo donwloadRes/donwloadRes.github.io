@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "霍尼韦尔3030C NFS-320 N-600P H3600等主机调试软件N-VFT编程调试软件说明书"
+title: "霍尼韦尔3030C NFS320 N600P H3600等主机调试软件NVFT编程调试软件说明书"
 date:   2021-11-15
 tags: [VFT,调试,控制器,软件,Windows]
 comments: true

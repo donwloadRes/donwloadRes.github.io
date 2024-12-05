@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国省市区数据SQL文件（2024年更新）"
+title: "全国省市区数据SQL文件2024年更新"
 date:   2022-03-03
 tags: [SQL,省市区,数据,文件,更新]
 comments: true

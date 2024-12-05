@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libmysqlclient.so.18 资源文件下载"
+title: "libmysqlclientso18 资源文件下载"
 date:   2022-11-20
 tags: [libmysqlclient,文件,so.18,下载,资源]
 comments: true

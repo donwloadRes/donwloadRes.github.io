@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D Minecraft（2D 我的世界）资源介绍"
+title: "2D Minecraft2D 我的世界资源介绍"
 date:   2023-12-05
 tags: [2D,Scratch,游戏,3.0,资源]
 comments: true

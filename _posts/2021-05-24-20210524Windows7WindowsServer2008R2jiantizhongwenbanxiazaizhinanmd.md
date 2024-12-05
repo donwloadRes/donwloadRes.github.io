@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7 & Windows Server 2008 R2 简体中文版下载指南"
+title: "Windows 7  Windows Server 2008 R2 简体中文版下载指南"
 date:   2024-04-23
 tags: [Windows,Server,2008,R2,下载]
 comments: true

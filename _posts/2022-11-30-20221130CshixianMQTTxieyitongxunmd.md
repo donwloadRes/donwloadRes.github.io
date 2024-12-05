@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现MQTT协议通讯"
+title: "C实现MQTT协议通讯"
 date:   2020-08-20
 tags: [MQTT,C++,协议,通讯,代码]
 comments: true

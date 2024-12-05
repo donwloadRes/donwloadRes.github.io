@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BouncyCastle.Crypto.dll 1.8.6 版本下载"
+title: "BouncyCastleCryptodll 186 版本下载"
 date:   2020-12-25
 tags: [BouncyCastle,Crypto,dll,C#,版本]
 comments: true

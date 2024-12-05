@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机等级考试二级（Python）真题与Python123题库源代码（二）"
+title: "计算机等级考试二级Python真题与Python123题库源代码二"
 date:   2023-01-14
 tags: [Python,源代码,真题,Python123,题库]
 comments: true

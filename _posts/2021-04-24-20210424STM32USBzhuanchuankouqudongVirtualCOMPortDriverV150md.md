@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USB转串口驱动 Virtual COM Port Driver(V1.5.0)"
+title: "STM32 USB转串口驱动 Virtual COM Port DriverV150"
 date:   2022-08-27
 tags: [驱动,串口,STM32,USB,Virtual]
 comments: true

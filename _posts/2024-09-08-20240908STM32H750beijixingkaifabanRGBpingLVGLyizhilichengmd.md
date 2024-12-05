@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H750北极星开发板+RGB屏+LVGL移植例程"
+title: "STM32H750北极星开发板RGB屏LVGL移植例程"
 date:   2020-04-19
 tags: [开发板,LVGL,例程,STM32H750,480]
 comments: true

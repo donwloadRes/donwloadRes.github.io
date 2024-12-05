@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密SM2加解密Demo（C#篇）"
+title: "国密SM2加解密DemoC篇"
 date:   2023-01-02
 tags: [SM2,国密,C#,算法,加密]
 comments: true

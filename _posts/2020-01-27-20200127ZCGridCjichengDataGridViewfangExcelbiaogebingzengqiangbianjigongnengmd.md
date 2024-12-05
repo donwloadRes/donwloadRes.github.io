@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZCGrid-C#继承DataGridView仿Excel表格，并增强编辑功能"
+title: "ZCGridC继承DataGridView仿Excel表格并增强编辑功能"
 date:   2022-04-21
 tags: [ZCGrid,zcGrid,Excel,dataTable,控件]
 comments: true

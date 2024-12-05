@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tera Term 4.99 中文安装包"
+title: "Tera Term 499 中文安装包"
 date:   2023-03-13
 tags: [Tera,Term,安装包,安装,中文]
 comments: true

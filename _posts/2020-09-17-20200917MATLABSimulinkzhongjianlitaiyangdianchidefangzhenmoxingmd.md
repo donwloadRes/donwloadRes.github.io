@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-Simulink中建立太阳电池的仿真模型"
+title: "MATLABSimulink中建立太阳电池的仿真模型"
 date:   2022-06-18
 tags: [仿真,MATLAB,模型,太阳电池,Simulink]
 comments: true

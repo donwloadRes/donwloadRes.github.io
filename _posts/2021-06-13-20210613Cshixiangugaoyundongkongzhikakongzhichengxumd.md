@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现固高运动控制卡控制程序"
+title: "C 实现固高运动控制卡控制程序"
 date:   2023-11-07
 tags: [固高,控制卡,C#,控制,硬件]
 comments: true

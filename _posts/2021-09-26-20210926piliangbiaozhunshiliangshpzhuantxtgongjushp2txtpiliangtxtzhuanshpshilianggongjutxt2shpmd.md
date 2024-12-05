@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "批量标准矢量shp转txt工具shp2txt、批量txt转shp矢量工具txt2shp"
+title: "批量标准矢量shp转txt工具shp2txt批量txt转shp矢量工具txt2shp"
 date:   2024-03-03
 tags: [shp,txt,工具,shp2txt,txt2shp]
 comments: true

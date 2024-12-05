@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA铣削数据集( Milling Data Set)"
+title: "NASA铣削数据集 Milling Data Set"
 date:   2020-07-28
 tags: [铣削,数据,MATLAB,NASA,刀具]
 comments: true

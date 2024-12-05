@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习Open62541：使用建模工具UaModeler"
+title: "学习Open62541使用建模工具UaModeler"
 date:   2024-06-10
 tags: [UaModeler,OPC,UA,Open62541,模型]
 comments: true

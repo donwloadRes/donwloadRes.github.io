@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java毕业设计答辩论文 - 远程监控系统"
+title: "Java毕业设计答辩论文  远程监控系统"
 date:   2020-01-02
 tags: [Java,远程,毕业设计,项目,监控]
 comments: true

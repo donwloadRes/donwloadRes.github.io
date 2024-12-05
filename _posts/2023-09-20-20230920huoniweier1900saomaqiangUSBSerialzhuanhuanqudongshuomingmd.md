@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "霍尼韦尔1900扫码枪 USB-Serial转换驱动说明"
+title: "霍尼韦尔1900扫码枪 USBSerial转换驱动说明"
 date:   2020-05-11
 tags: [扫码,霍尼韦尔,1900,驱动,安装]
 comments: true

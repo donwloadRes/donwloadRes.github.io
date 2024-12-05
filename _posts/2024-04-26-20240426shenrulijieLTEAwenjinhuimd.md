@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解LTE-A 温金辉"
+title: "深入理解LTEA 温金辉"
 date:   2021-11-13
 tags: [LTE,信道,文件,温金辉,理解]
 comments: true

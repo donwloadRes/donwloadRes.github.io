@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python中使用NLTK下载停用词（stopwords）时报错 [Errno 11004] 的解决方法"
+title: "Python中使用NLTK下载停用词stopwords时报错 Errno 11004 的解决方法"
 date:   2022-04-07
 tags: [stopwords,NLTK,nltk,用词,下载]
 comments: true

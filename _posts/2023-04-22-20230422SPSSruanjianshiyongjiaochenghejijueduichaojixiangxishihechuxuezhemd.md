@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPSS软件使用教程合集（绝对超级详细，适合初学者）"
+title: "SPSS软件使用教程合集绝对超级详细适合初学者"
 date:   2021-03-23
 tags: [SPSS,教程,初学者,软件,合集]
 comments: true

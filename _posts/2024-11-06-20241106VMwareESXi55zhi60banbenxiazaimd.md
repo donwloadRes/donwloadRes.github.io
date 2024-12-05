@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 5.5 至 6.0 版本下载"
+title: "VMware ESXi 55 至 60 版本下载"
 date:   2021-05-11
 tags: [VMware,ESXi,版本,下载,6.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据可视化：基于 Echarts + Python Flask 实时大屏监控解决方案"
+title: "数据可视化基于 Echarts  Python Flask 实时大屏监控解决方案"
 date:   2021-08-09
 tags: [可视化,Flask,Echarts,Python,数据]
 comments: true

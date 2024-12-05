@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-QCustomPlot画静态、动态曲线教程图解"
+title: "QtQCustomPlot画静态动态曲线教程图解"
 date:   2023-10-19
 tags: [Qt,QCustomPlot,曲线,教程,绘制]
 comments: true

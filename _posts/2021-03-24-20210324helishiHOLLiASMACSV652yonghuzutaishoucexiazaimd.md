@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "和利时 HOLLiAS MACS V6.5.2 用户组态手册下载"
+title: "和利时 HOLLiAS MACS V652 用户组态手册下载"
 date:   2023-12-22
 tags: [组态,HOLLiAS,MACS,V6.5,利时]
 comments: true

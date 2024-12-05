@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验报告——SVM手写数字识别实现"
+title: "实验报告SVM手写数字识别实现"
 date:   2021-08-17
 tags: [SVM,识别,实验报告,实验,手写]
 comments: true

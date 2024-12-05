@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT4.0 联网与插件功能详细教程"
+title: "ChatGPT40 联网与插件功能详细教程"
 date:   2021-05-21
 tags: [ChatGPT4.0,插件,教程,功能,联网]
 comments: true

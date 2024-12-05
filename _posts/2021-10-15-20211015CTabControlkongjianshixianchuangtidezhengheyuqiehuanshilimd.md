@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TabControl控件实现窗体的整合与切换示例"
+title: "C TabControl控件实现窗体的整合与切换示例"
 date:   2024-03-07
 tags: [窗体,示例,控件,切换,TabControl]
 comments: true

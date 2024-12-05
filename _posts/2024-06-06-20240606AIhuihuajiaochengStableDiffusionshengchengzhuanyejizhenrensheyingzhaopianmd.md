@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘画教程：Stable Diffusion生成专业级真人摄影照片"
+title: "AI绘画教程Stable Diffusion生成专业级真人摄影照片"
 date:   2024-10-12
 tags: [AI,教程,Stable,Diffusion,真人]
 comments: true

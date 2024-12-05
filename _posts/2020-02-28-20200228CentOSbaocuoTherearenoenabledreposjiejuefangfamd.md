@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 报错：There are no enabled repos 解决方法"
+title: "CentOS 报错There are no enabled repos 解决方法"
 date:   2022-12-27
 tags: [yum,CentOS,repo,repos,bash]
 comments: true

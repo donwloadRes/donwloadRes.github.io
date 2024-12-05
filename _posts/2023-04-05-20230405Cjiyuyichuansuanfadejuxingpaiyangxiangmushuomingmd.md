@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基于遗传算法的矩形排样项目说明"
+title: "C基于遗传算法的矩形排样项目说明"
 date:   2022-08-05
 tags: [C++,遗传算法,排样,矩形,MFC]
 comments: true

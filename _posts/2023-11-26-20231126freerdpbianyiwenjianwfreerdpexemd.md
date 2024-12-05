@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "freerdp编译文件wfreerdp.exe"
+title: "freerdp编译文件wfreerdpexe"
 date:   2021-01-06
 tags: [wfreerdp,exe,freerdp,用户名,bash]
 comments: true

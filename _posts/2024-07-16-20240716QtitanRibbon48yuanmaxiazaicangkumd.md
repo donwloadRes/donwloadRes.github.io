@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtitanRibbon4.8源码下载仓库"
+title: "QtitanRibbon48源码下载仓库"
 date:   2021-02-05
 tags: [编译,Qt,ribbon,源码,QtitanRibbon4.8]
 comments: true

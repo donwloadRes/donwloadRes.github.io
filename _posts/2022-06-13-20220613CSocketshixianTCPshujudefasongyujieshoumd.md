@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 实现 TCP 数据的发送与接收"
+title: "C Socket 实现 TCP 数据的发送与接收"
 date:   2022-04-02
 tags: [客户端,服务器端,Socket,C#,TCP]
 comments: true

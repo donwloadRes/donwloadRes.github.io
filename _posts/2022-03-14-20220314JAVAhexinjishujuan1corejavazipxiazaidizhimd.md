@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA核心技术卷1 corejava.zip 下载地址"
+title: "JAVA核心技术卷1 corejavazip 下载地址"
 date:   2024-04-10
 tags: [Java,示例,JAVA,zip,corejava]
 comments: true

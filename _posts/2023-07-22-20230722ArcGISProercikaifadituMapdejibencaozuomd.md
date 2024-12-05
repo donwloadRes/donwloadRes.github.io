@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：地图(Map)的基本操作"
+title: "ArcGIS Pro二次开发地图Map的基本操作"
 date:   2023-09-22
 tags: [地图,图层,ArcGIS,Pro,获取]
 comments: true

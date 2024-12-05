@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源代码项目：Langchain+LLM本地知识库问答系统"
+title: "开源代码项目LangchainLLM本地知识库问答系统"
 date:   2022-04-16
 tags: [模型,问答,文档,知识库,项目]
 comments: true

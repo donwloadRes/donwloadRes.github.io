@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT学习之路2-2020整理版（更新到94章）PDF下载"
+title: "QT学习之路22020整理版更新到94章PDF下载"
 date:   2021-11-21
 tags: [QT,学习,94,整理,PDF]
 comments: true

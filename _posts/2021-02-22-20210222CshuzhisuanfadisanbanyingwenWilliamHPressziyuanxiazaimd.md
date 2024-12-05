@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++数值算法_第三版（英文）_William.H.Press 资源下载"
+title: "C数值算法第三版英文WilliamHPress 资源下载"
 date:   2020-02-17
 tags: [C++,数值,算法,William,Press]
 comments: true

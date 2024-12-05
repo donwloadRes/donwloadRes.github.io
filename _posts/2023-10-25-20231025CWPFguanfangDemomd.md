@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF官方Demo"
+title: "C WPF官方Demo"
 date:   2024-07-25
 tags: [WPF,Demo,C#,学习,控件]
 comments: true

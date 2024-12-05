@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows程序设计(第5版 珍藏版) 资源下载"
+title: "Windows程序设计第5版 珍藏版 资源下载"
 date:   2024-02-17
 tags: [Windows,珍藏版,编程,程序设计,本书]
 comments: true

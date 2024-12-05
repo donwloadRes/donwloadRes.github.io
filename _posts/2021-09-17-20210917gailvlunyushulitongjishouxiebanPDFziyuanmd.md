@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计（手写版PDF资源）"
+title: "概率论与数理统计手写版PDF资源"
 date:   2021-08-23
 tags: [数理统计,概率论,手写,PDF,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自抗扰控制（ADRC）C代码实现"
+title: "自抗扰控制ADRCC代码实现"
 date:   2021-08-30
 tags: [beta,自抗扰,代码,github,your]
 comments: true

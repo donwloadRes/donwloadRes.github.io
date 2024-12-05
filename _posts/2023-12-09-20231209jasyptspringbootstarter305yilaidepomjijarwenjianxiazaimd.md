@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jasypt-spring-boot-starter 3.0.5 依赖的 pom 及 jar 文件下载"
+title: "jasyptspringbootstarter 305 依赖的 pom 及 jar 文件下载"
 date:   2021-04-10
 tags: [jasypt,spring,boot,starter,3.0]
 comments: true

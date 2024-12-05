@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android开发教程：猴子摘桃小项目 —— 深入理解Activity间数据回传"
+title: "Android开发教程猴子摘桃小项目  深入理解Activity间数据回传"
 date:   2020-06-26
 tags: [Activity,Android,回传,摘桃,项目]
 comments: true

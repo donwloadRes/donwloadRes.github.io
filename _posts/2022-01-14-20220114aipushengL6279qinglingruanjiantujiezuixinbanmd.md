@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L6279清零软件+图解.最新版"
+title: "爱普生L6279清零软件图解最新版"
 date:   2021-01-31
 tags: [软件,清零,爱普生,L6279,图解]
 comments: true

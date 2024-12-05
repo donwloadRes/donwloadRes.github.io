@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux(CentOS 7)安装tcpkill命令（离线安装，巨简单）"
+title: "LinuxCentOS 7安装tcpkill命令离线安装巨简单"
 date:   2021-05-29
 tags: [rpm,tcpkill,安装,el7,x86]
 comments: true

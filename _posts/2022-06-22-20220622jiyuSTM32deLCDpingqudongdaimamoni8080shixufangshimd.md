@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的LCD屏驱动代码 (模拟8080时序方式)"
+title: "基于STM32的LCD屏驱动代码 模拟8080时序方式"
 date:   2022-05-11
 tags: [LCD,STM32,时序,8080,代码]
 comments: true

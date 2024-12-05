@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2013运行VC6.0程序所需的DLL文件"
+title: "VS2013运行VC60程序所需的DLL文件"
 date:   2023-02-06
 tags: [DLL,文件,VC6.0,dll,复制到]
 comments: true

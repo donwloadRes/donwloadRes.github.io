@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华大（小华）HC32L130工程创建指南"
+title: "华大小华HC32L130工程创建指南"
 date:   2021-12-17
 tags: [HC32L130,工程,创建,文件,指南]
 comments: true

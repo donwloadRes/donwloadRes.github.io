@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TETRA协议文档 - 第二部分：空中接口"
+title: "TETRA协议文档  第二部分空中接口"
 date:   2023-08-25
 tags: [TETRA,文档,通信,接口,系统]
 comments: true

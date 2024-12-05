@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电赛2023年H题信号分离装置》"
+title: "电赛2023年H题信号分离装置"
 date:   2024-05-01
 tags: [信号,分离,2023,参赛者,电子设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMAC运动控制卡的C#例程"
+title: "PMAC运动控制卡的C例程"
 date:   2020-09-16
 tags: [PMAC,控制卡,例程,C#,运动]
 comments: true

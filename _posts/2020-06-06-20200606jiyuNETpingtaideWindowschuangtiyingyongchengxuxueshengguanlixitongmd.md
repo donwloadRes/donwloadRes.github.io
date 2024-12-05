@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于.NET平台的Windows窗体应用程序——学生管理系统"
+title: "基于NET平台的Windows窗体应用程序学生管理系统"
 date:   2021-11-29
 tags: [NET,Windows,窗体,GitHub,链接]
 comments: true

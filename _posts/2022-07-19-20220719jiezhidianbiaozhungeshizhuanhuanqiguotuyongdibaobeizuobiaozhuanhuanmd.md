@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "界址点标准格式转换器(国土用地报备坐标转换)"
+title: "界址点标准格式转换器国土用地报备坐标转换"
 date:   2023-02-28
 tags: [坐标,转换,格式,坐标值,excel]
 comments: true

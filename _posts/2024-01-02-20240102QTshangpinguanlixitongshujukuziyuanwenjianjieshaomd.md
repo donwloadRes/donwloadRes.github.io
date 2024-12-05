@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT商品管理系统（数据库）资源文件介绍"
+title: "QT商品管理系统数据库资源文件介绍"
 date:   2020-06-26
 tags: [数据库,QT,系统,功能,操作]
 comments: true

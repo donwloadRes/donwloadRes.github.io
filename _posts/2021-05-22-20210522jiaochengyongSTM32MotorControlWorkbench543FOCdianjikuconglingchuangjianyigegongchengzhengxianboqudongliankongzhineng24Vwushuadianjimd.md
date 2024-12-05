@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【教程】用STM32 MotorControl Workbench 5.4.3（FOC电机库）从零创建一个工程，正弦波驱动联控智能24V无刷电机"
+title: "教程用STM32 MotorControl Workbench 543FOC电机库从零创建一个工程正弦波驱动联控智能24V无刷电机"
 date:   2023-08-05
 tags: [STM32,电机,FOC,MotorControl,Workbench]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "城市PM2.5预测分析数据挖掘大作业资源"
+title: "城市PM25预测分析数据挖掘大作业资源"
 date:   2021-09-24
 tags: [数据挖掘,分析,资源,PM2.5,实验报告]
 comments: true

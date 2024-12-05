@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW字符串拆分到数组（支持中文）"
+title: "LabVIEW字符串拆分到数组支持中文"
 date:   2020-11-03
 tags: [LabVIEW,字符串,范例,中文,数组]
 comments: true

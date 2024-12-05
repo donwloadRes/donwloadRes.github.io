@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java JDK 1.5 安装包下载"
+title: "Java JDK 15 安装包下载"
 date:   2024-06-05
 tags: [Java,JDK,安装包,1.5,下载]
 comments: true

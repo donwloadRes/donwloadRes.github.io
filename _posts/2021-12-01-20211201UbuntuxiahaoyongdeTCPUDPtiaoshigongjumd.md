@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu下好用的TCP-UDP调试工具"
+title: "Ubuntu下好用的TCPUDP调试工具"
 date:   2022-01-02
 tags: [工具,下好,简要,调试,Ubuntu]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANape培训.pdf"
+title: "CANape培训pdf"
 date:   2022-11-03
 tags: [CANape,标定,ECU,诊断,参数]
 comments: true

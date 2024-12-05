@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 19001-2016质量管理体系 要求 资源下载"
+title: "GBT 190012016质量管理体系 要求 资源下载"
 date:   2022-08-28
 tags: [管理体系,质量,2016,GB,19001]
 comments: true

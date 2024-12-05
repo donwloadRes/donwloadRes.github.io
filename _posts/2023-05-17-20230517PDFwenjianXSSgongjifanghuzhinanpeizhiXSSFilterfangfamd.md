@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF文件XSS攻击防护指南：配置XSS Filter方法"
+title: "PDF文件XSS攻击防护指南配置XSS Filter方法"
 date:   2023-10-18
 tags: [XSS,PDF,文件,攻击,配置文件]
 comments: true

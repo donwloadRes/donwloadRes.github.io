@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA超详细安装教程（Windows版）"
+title: "CUDA超详细安装教程Windows版"
 date:   2020-05-05
 tags: [CUDA,安装,cuDNN,下载,教程]
 comments: true

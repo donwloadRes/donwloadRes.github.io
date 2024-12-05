@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32+原理图与封装库"
+title: "GD32原理图与封装库"
 date:   2023-08-23
 tags: [GD32,封装,原理图,设计,资源库]
 comments: true

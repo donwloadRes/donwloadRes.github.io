@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VL805 VL806 数据手册、原理图及固件资源"
+title: "VL805 VL806 数据手册原理图及固件资源"
 date:   2021-07-17
 tags: [固件,VL805,VL806,原理图,芯片]
 comments: true

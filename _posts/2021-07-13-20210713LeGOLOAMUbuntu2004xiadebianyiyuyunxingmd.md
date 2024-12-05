@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LeGO-LOAM：Ubuntu20.04下的编译与运行"
+title: "LeGOLOAMUbuntu2004下的编译与运行"
 date:   2020-01-05
 tags: [LeGO,LOAM,编译,ROS,运行]
 comments: true

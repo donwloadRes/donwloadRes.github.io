@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NodeInject-windows 资源文件下载"
+title: "NodeInjectwindows 资源文件下载"
 date:   2021-10-17
 tags: [NodeInject,windows,Typora,文件,下载]
 comments: true

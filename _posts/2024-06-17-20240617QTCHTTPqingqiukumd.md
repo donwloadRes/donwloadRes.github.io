@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT C++ HTTP 请求库"
+title: "QT C HTTP 请求库"
 date:   2024-10-05
 tags: [请求,HTTP,Qt,异步,GET]
 comments: true

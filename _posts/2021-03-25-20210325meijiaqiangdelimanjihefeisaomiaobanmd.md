@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "梅加强的黎曼几何 - 非扫描版"
+title: "梅加强的黎曼几何  非扫描版"
 date:   2022-05-10
 tags: [黎曼,几何,测地线,变分,比较定理]
 comments: true

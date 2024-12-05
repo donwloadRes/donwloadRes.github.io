@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genymotion-ARM-Translation 兼容包"
+title: "GenymotionARMTranslation 兼容包"
 date:   2021-08-26
 tags: [Genymotion,虚拟机,兼容,ARM,Translation]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm多语言支持：XML格式语言包实现实时切换指南"
+title: "WinForm多语言支持XML格式语言包实现实时切换指南"
 date:   2022-11-28
 tags: [XML,语言,语言包,WinForm,切换]
 comments: true

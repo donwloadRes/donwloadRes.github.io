@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 监测操作系统物理网卡通断 v1.1.0"
+title: "Qt 监测操作系统物理网卡通断 v110"
 date:   2023-08-24
 tags: [Qt,v1.1,监测,操作系统,跨平台]
 comments: true

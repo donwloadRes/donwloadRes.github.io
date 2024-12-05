@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：打开GDB、SHP、CAD等各种数据"
+title: "ArcGIS Pro二次开发打开GDBSHPCAD等各种数据"
 date:   2023-05-18
 tags: [CAD,示例,打开,ArcGIS,Pro]
 comments: true

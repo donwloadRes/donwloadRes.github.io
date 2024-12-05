@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019 安装 .NET 3.5 资源文件介绍"
+title: "Windows Server 2019 安装 NET 35 资源文件介绍"
 date:   2022-03-26
 tags: [安装,NET,3.5,Windows,Server]
 comments: true

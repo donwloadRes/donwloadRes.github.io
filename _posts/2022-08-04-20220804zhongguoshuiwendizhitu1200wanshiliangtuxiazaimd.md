@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国水文地质图（1：200万）矢量图下载"
+title: "中国水文地质图1200万矢量图下载"
 date:   2021-10-15
 tags: [ArcGIS,矢量图,水文地质,shp,软件]
 comments: true

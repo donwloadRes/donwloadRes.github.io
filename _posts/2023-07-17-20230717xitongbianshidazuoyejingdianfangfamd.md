@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "系统辨识大作业：经典方法"
+title: "系统辨识大作业经典方法
+date   20230615
+tags 辨识MATLAB系统作业示例
+comments true
+author admin
+
+
+layout post
+title 系统辨识大作业经典方法"
 date:   2023-06-15
 tags: [辨识,MATLAB,系统,作业,示例]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "系统辨识大作业：经典方法"
+title: "系统辨识大作业经典方法
+date   20230615
+tags 辨识MATLAB系统作业示例
+comments true
+author admin
+
+
+layout post
+title 系统辨识大作业经典方法"
 date:   2023-10-24
 tags: [辨识,MATLAB,系统,示例,作业]
 comments: true

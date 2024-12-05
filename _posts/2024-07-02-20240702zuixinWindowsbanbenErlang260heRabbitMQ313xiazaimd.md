@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Windows版本Erlang 26.0和RabbitMQ 3.13下载"
+title: "最新Windows版本Erlang 260和RabbitMQ 313下载"
 date:   2021-08-14
 tags: [Erlang,RabbitMQ,Windows,26.0,3.13]
 comments: true

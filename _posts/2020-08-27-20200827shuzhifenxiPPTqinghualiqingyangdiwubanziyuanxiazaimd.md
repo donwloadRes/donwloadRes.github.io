@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析PPT（清华李庆杨第五版）资源下载"
+title: "数值分析PPT清华李庆杨第五版资源下载"
 date:   2022-04-16
 tags: [PPT,第五版,李庆,数值,清华]
 comments: true

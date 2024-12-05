@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5(PyTorch)目标检测实战：Flask Web部署"
+title: "YOLOv5PyTorch目标检测实战Flask Web部署"
 date:   2023-12-10
 tags: [YOLOv5,Flask,检测,Web,PyTorch]
 comments: true

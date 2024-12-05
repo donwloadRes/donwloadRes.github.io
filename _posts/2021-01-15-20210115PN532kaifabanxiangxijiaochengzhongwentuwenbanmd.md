@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PN532开发板详细教程（中文图文版）"
+title: "PN532开发板详细教程中文图文版"
 date:   2024-11-03
 tags: [开发板,接线,PN532,电路板,教程]
 comments: true

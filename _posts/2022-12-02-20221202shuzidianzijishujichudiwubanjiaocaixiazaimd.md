@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础（第五版）教材下载"
+title: "数字电子技术基础第五版教材下载"
 date:   2020-07-05
 tags: [教材,第五版,PDF,下载,电子]
 comments: true

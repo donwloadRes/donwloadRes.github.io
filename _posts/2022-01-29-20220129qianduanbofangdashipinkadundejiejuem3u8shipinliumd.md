@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端播放大视频卡顿的解决（m3u8视频流）"
+title: "前端播放大视频卡顿的解决m3u8视频流"
 date:   2023-05-04
 tags: [m3u8,播放,视频,hls,video]
 comments: true

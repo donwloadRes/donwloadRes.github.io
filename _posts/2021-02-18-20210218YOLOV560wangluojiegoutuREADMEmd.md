@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOV5—6.0 网络结构图 README"
+title: "YOLOV560 网络结构图 README"
 date:   2021-12-31
 tags: [YOLOV5,6.0,结构图,开发者,模型]
 comments: true

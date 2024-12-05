@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下的flex+bison1 资源文件介绍"
+title: "Linux下的flexbison1 资源文件介绍"
 date:   2020-04-09
 tags: [flex,Linux,bison,文件,资源]
 comments: true

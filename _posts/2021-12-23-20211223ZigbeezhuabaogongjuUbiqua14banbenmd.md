@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zigbee抓包工具Ubiqua 1.4版本"
+title: "Zigbee抓包工具Ubiqua 14版本"
 date:   2020-06-24
 tags: [抓包,Zigbee,Ubiqua,工具,1.4]
 comments: true

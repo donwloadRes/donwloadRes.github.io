@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDPS15(Tecnomatix_15.0)安装包及安装教程分享"
+title: "PDPS15Tecnomatix150安装包及安装教程分享"
 date:   2024-08-27
 tags: [安装,Tecnomatix,15.0,安装包,安装文件]
 comments: true

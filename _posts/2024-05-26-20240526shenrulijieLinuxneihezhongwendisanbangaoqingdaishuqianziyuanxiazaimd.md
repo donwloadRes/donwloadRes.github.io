@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Linux内核（中文第三版高清带书签）资源下载"
+title: "深入理解Linux内核中文第三版高清带书签资源下载"
 date:   2021-07-01
 tags: [Linux,内核,书签,第三版,高清]
 comments: true

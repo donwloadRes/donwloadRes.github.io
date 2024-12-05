@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRT9.3不显示中文，显示<的解决办法"
+title: "CRT93不显示中文显示的解决办法"
 date:   2024-08-03
 tags: [CRT9.3,中文,显示,修复,脚本]
 comments: true

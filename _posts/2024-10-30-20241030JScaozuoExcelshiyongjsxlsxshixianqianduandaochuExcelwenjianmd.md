@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JS操作Excel：使用js-xlsx实现前端导出Excel文件"
+title: "JS操作Excel使用jsxlsx实现前端导出Excel文件"
 date:   2021-10-09
 tags: [Excel,js,xlsx,导出,前端]
 comments: true

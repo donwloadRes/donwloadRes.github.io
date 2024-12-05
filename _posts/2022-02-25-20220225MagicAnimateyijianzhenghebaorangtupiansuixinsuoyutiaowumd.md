@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MagicAnimate一键整合包：让图片随心所欲跳舞"
+title: "MagicAnimate一键整合包让图片随心所欲跳舞"
 date:   2023-02-08
 tags: [图片,整合,MagicAnimate,动态效果,一键]
 comments: true

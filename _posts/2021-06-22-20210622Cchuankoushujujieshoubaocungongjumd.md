@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口数据接收保存工具"
+title: "C串口数据接收保存工具"
 date:   2020-06-30
 tags: [串口,数据,接收,C#,Visual]
 comments: true

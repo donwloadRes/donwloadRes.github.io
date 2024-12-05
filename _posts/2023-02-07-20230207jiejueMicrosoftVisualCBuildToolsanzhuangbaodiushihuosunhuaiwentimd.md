@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Microsoft Visual C++ Build Tools安装包丢失或损坏问题"
+title: "解决Microsoft Visual C Build Tools安装包丢失或损坏问题"
 date:   2021-02-15
 tags: [C++,安装包,Visual,Build,Tools]
 comments: true

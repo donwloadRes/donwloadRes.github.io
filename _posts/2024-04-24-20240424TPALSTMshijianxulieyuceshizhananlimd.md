@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TPA-LSTM时间序列预测实战案例"
+title: "TPALSTM时间序列预测实战案例"
 date:   2022-04-14
 tags: [LSTM,TPA,模型,预测,步长]
 comments: true

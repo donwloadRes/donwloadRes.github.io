@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的智能喂养系统-STM32F103C8T6源码"
+title: "基于STM32的智能喂养系统STM32F103C8T6源码"
 date:   2021-11-05
 tags: [源码,微信,温湿度,STM32F103C8T6,检测]
 comments: true

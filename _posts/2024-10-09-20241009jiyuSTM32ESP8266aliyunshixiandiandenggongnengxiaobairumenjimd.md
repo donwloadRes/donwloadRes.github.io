@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32+ESP8266+阿里云实现点灯功能（小白入门级）"
+title: "基于STM32ESP8266阿里云实现点灯功能小白入门级"
 date:   2020-02-05
 tags: [ESP8266,阿里,STM32,配置,点灯]
 comments: true

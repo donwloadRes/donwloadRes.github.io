@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++玫瑰代码：画出一朵玫瑰"
+title: "C玫瑰代码画出一朵玫瑰"
 date:   2022-06-14
 tags: [C++,代码,玫瑰,编程,绘制]
 comments: true

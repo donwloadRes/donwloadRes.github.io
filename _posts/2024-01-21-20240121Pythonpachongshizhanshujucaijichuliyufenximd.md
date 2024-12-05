@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战：数据采集、处理与分析"
+title: "Python爬虫实战数据采集处理与分析"
 date:   2021-04-17
 tags: [Python,爬虫,采集,数据,实战]
 comments: true

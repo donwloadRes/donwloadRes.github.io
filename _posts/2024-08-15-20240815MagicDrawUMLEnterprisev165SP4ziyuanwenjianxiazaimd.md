@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MagicDraw UML Enterprise v16.5 SP4 资源文件下载"
+title: "MagicDraw UML Enterprise v165 SP4 资源文件下载"
 date:   2022-02-12
 tags: [Java,该软件,UML,Enterprise,安装]
 comments: true

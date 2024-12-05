@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7-10 虚拟显示器部署指南"
+title: "Windows 710 虚拟显示器部署指南"
 date:   2023-07-03
 tags: [Windows,显示器,虚拟,10,卸载]
 comments: true

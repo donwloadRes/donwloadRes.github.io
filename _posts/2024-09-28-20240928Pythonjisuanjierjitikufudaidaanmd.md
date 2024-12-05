@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python计算机二级题库（附带答案）"
+title: "Python计算机二级题库附带答案"
 date:   2021-03-04
 tags: [题库,考试,Python,学习,考生]
 comments: true

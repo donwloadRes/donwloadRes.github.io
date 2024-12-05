@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为全套eNSP v1.3.100资源下载"
+title: "华为全套eNSP v13100资源下载"
 date:   2023-04-04
 tags: [eNSP,100,安装,v1.3,设备]
 comments: true

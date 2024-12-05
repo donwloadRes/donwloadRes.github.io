@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22官方程序"
+title: "TDCGP22官方程序"
 date:   2024-07-12
 tags: [TDC,GP22,程序,官方,STM32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "禅道项目管理系统身份认证绕过漏洞(QVD-2024-15263)POC"
+title: "禅道项目管理系统身份认证绕过漏洞QVD202415263POC"
 date:   2021-03-18
 tags: [漏洞,禅道,PoC,QVD,2024]
 comments: true

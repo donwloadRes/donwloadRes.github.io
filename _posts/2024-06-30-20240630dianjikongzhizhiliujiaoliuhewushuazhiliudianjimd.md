@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机控制：直流、交流和无刷直流电机"
+title: "电机控制直流交流和无刷直流电机"
 date:   2022-02-10
 tags: [电机,控制,驱动,无刷,直流电机]
 comments: true

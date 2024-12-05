@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为HMA-AL00-HMA-TL00强制原方清除解锁帐号密码工具平台包"
+title: "华为HMAAL00HMATL00强制原方清除解锁帐号密码工具平台包"
 date:   2023-05-19
 tags: [HMA,TL00,帐号密码,工具,解锁]
 comments: true

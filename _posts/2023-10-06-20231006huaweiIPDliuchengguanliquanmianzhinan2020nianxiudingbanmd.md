@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为IPD流程管理全面指南（2020年修订版）"
+title: "华为IPD流程管理全面指南2020年修订版"
 date:   2023-02-08
 tags: [流程,IPD,华为,产品开发,2020]
 comments: true

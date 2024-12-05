@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Next.js开发指南下载仓库"
+title: "Nextjs开发指南下载仓库"
 date:   2023-05-30
 tags: [Next,js,篇文章,开发,实战篇]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 2010 学习版详细安装教程"
+title: "Visual C 2010 学习版详细安装教程"
 date:   2022-12-27
 tags: [C++,安装,Visual,2010,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java运行jacob文件中jacob-1.17.dll资源文件介绍"
+title: "Java运行jacob文件中jacob117dll资源文件介绍"
 date:   2022-08-15
 tags: [jacob,文件,Java,1.17,dll]
 comments: true

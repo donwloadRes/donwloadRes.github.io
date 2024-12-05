@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPad T480(20L5,20L6)原装出厂Win10系统镜像下载"
+title: "ThinkPad T48020L520L6原装出厂Win10系统镜像下载"
 date:   2021-11-18
 tags: [ThinkPad,T480,出厂,镜像文件,启动盘]
 comments: true

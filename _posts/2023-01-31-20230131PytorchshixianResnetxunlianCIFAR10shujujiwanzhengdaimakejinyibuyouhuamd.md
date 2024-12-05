@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch实现Resnet训练CIFAR10数据集（完整代码，可进一步优化）"
+title: "Pytorch实现Resnet训练CIFAR10数据集完整代码可进一步优化"
 date:   2023-04-10
 tags: [代码,CIFAR10,训练,优化,Pytorch]
 comments: true

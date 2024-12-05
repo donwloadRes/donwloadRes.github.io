@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyScada：基于Django的开源SCADA系统"
+title: "PyScada基于Django的开源SCADA系统"
 date:   2021-08-15
 tags: [PyScada,Django,SCADA,Modbus,系统]
 comments: true

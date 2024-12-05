@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士PLC联机C#代码"
+title: "基恩士PLC联机C代码"
 date:   2022-12-04
 tags: [PLC,C#,基恩,代码,读取]
 comments: true

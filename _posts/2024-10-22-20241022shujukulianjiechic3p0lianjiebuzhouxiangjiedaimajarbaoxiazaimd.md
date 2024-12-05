@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库连接池c3p0——连接步骤详解代码&jar包下载"
+title: "数据库连接池c3p0连接步骤详解代码jar包下载"
 date:   2024-03-18
 tags: [数据库,c3p0,连接池,jar,示例]
 comments: true

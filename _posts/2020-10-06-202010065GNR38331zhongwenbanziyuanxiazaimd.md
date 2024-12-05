@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G NR 38.331 中文版资源下载"
+title: "5G NR 38331 中文版资源下载"
 date:   2024-05-02
 tags: [5G,NR,中文版,38.331,文件]
 comments: true

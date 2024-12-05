@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++调用FFmpeg API实现视频文件UDP组播推流"
+title: "C调用FFmpeg API实现视频文件UDP组播推流"
 date:   2023-04-02
 tags: [UDP,组播,推流,C++,FFmpeg]
 comments: true

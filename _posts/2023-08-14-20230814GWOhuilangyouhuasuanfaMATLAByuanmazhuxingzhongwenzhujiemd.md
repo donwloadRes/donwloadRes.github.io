@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GWO（灰狼优化）算法MATLAB源码逐行中文注解"
+title: "GWO灰狼优化算法MATLAB源码逐行中文注解"
 date:   2022-05-10
 tags: [算法,GWO,源码,MATLAB,灰狼]
 comments: true

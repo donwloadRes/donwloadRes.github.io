@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITU-R BT.1788 建议书 下载仓库"
+title: "ITUR BT1788 建议书 下载仓库"
 date:   2022-08-05
 tags: [ITU,建议书,视频,BT.1788,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬石YS-F4Pro开发板开发手册下载"
+title: "硬石YSF4Pro开发板开发手册下载"
 date:   2021-03-02
 tags: [硬石,YS,F4Pro,开发板,手册]
 comments: true

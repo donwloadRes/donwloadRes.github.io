@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SR1F-15SF-2-71GS-03-1 资源文件下载"
+title: "SR1F15SF271GS031 资源文件下载"
 date:   2023-02-09
 tags: [SR1F,15SF,71GS,03,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "星形CCM+网格至OpenFOAM转换指南"
+title: "星形CCM网格至OpenFOAM转换指南"
 date:   2024-04-20
 tags: [OpenFOAM,CCM,网格,STAR,转换]
 comments: true

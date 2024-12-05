@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3399开发资料-原理图PCB BOM"
+title: "RK3399开发资料原理图PCB BOM"
 date:   2020-07-10
 tags: [RK3399,设计,PCB,开发,原理图]
 comments: true

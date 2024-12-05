@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP协议Socket收发字符串文本数据"
+title: "C TCP协议Socket收发字符串文本数据"
 date:   2020-09-06
 tags: [收发,TCP,SharpSocket,字符串,数据]
 comments: true

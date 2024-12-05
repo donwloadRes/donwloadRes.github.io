@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware17安装Windows Server 2012 R2环境（图解版）"
+title: "VMware17安装Windows Server 2012 R2环境图解版"
 date:   2024-05-21
 tags: [安装,虚拟机,Windows,Server,2012]
 comments: true

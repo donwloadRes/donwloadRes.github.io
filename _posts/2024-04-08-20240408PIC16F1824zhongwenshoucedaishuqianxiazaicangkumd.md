@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIC16F1824中文手册(带书签) 下载仓库"
+title: "PIC16F1824中文手册带书签 下载仓库"
 date:   2020-05-01
 tags: [手册,PIC16F1824,书签,中文,仓库]
 comments: true

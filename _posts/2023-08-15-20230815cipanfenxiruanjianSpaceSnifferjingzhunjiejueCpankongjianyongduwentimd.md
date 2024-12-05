@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "磁盘分析软件——SpaceSniffer：精准解决C盘空间拥堵问题"
+title: "磁盘分析软件SpaceSniffer精准解决C盘空间拥堵问题"
 date:   2020-04-02
 tags: [SpaceSniffer,文件,C盘,分析,磁盘]
 comments: true

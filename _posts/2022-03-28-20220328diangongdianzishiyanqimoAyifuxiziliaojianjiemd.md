@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电工电子实验期末A（一）复习资料简介"
+title: "电工电子实验期末A一复习资料简介"
 date:   2020-05-09
 tags: [电路,复习资料,示波器,应用,波形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT界面框架（滑动导航条+伸缩菜单）"
+title: "QT界面框架滑动导航条伸缩菜单"
 date:   2022-05-27
 tags: [导航条,菜单,滑动,QT,伸缩]
 comments: true

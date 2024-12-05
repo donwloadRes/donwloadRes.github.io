@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【安富莱】AD7606数据采集模块资料集"
+title: "安富莱AD7606数据采集模块资料集"
 date:   2024-01-07
 tags: [例程,AD7606,连接,安富,采集]
 comments: true

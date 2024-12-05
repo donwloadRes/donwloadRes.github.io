@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BJTU 程序设计分组训练-实验一（高分通过）"
+title: "BJTU 程序设计分组训练实验一高分通过"
 date:   2021-08-27
 tags: [实验,程序设计,高分,文档,编程]
 comments: true

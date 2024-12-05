@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jlink V7.5.2 64位 资源下载"
+title: "Jlink V752 64位 资源下载"
 date:   2023-08-18
 tags: [64,V7.5,资源,文件,Jlink]
 comments: true

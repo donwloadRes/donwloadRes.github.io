@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "严蔚敏数据结构题集(C语言版)完整答案"
+title: "严蔚敏数据结构题集C语言版完整答案"
 date:   2021-05-02
 tags: [数据结构,文档,严蔚敏,C语言,解答]
 comments: true

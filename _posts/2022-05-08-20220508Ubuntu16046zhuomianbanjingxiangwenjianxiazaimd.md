@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 16.04.6 桌面版镜像文件下载"
+title: "Ubuntu 16046 桌面版镜像文件下载"
 date:   2024-07-03
 tags: [16.04,镜像文件,下载,Ubuntu,iso]
 comments: true

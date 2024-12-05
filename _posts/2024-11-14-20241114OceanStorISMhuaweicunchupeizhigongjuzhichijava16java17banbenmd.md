@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OceanStor ISM 华为存储配置工具 支持java1.6-java1.7版本"
+title: "OceanStor ISM 华为存储配置工具 支持java16java17版本"
 date:   2022-09-24
 tags: [华为,配置,OceanStor,ISM,Java]
 comments: true

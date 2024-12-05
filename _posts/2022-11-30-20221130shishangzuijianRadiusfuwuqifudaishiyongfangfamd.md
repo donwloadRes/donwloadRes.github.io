@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最简Radius服务器【附带使用方法】"
+title: "史上最简Radius服务器附带使用方法"
 date:   2024-12-03
 tags: [Radius,服务器,配置,认证,安装]
 comments: true

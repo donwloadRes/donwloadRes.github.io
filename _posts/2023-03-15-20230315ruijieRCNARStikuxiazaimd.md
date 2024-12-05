@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锐捷RCNA-RS题库下载"
+title: "锐捷RCNARS题库下载"
 date:   2024-09-04
 tags: [题库,锐捷,RCNA,RS,考试]
 comments: true

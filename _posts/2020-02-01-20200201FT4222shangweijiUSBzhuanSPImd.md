@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT4222 上位机 - USB转SPI"
+title: "FT4222 上位机  USB转SPI"
 date:   2020-06-20
 tags: [SPI,USB,FT4222,Windows,64]
 comments: true

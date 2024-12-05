@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pd虚拟机 Parallels Desktop 19 for Mac安装教程【支持Intel和M芯片】"
+title: "pd虚拟机 Parallels Desktop 19 for Mac安装教程支持Intel和M芯片"
 date:   2021-06-21
 tags: [Parallels,Mac,安装,Desktop,19]
 comments: true

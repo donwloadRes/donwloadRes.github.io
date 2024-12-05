@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "转向设计计算程序 - 一揽子解决方案"
+title: "转向设计计算程序  一揽子解决方案"
 date:   2020-07-29
 tags: [转向,设计,计算,程序,传动比]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anaconda + Python 3.6 运行环境"
+title: "Anaconda  Python 36 运行环境"
 date:   2023-01-20
 tags: [Python,环境,Anaconda,3.6,压缩包]
 comments: true

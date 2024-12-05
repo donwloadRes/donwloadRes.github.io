@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue工作流程管理系统答辩PPT"
+title: "SpringBootVue工作流程管理系统答辩PPT"
 date:   2023-10-18
 tags: [PPT,答辩,毕业设计,SpringBoot,Vue]
 comments: true

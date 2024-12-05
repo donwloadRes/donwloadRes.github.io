@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "提高C++性能的编程技术资源下载"
+title: "提高C性能的编程技术资源下载"
 date:   2020-08-27
 tags: [C++,性能,编程技术,优化,资源]
 comments: true

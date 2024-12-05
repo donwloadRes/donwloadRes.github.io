@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mamba环境配置教程（无脑式离线安装&包含Mamba2）"
+title: "Mamba环境配置教程无脑式离线安装包含Mamba2"
 date:   2023-11-25
 tags: [安装,Mamba,教程,环境,离线]
 comments: true

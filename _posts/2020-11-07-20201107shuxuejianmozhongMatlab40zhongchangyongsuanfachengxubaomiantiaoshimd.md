@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模中 Matlab 40种常用算法程序包（免调试）"
+title: "数学建模中 Matlab 40种常用算法程序包免调试"
 date:   2024-01-21
 tags: [算法,建模,数学,代码,MATLAB]
 comments: true

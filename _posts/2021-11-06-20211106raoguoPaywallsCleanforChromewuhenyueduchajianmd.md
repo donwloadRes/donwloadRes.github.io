@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "绕过Paywalls Clean for Chrome - 无痕阅读插件"
+title: "绕过Paywalls Clean for Chrome  无痕阅读插件"
 date:   2020-09-16
 tags: [插件,Chrome,付费,绕过,浏览]
 comments: true

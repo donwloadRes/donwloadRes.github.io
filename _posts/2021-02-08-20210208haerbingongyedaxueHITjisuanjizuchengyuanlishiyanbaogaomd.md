@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈尔滨工业大学（HIT）计算机组成原理实验报告"
+title: "哈尔滨工业大学HIT计算机组成原理实验报告"
 date:   2021-02-04
 tags: [实验,实验报告,原理,HIT,计算机]
 comments: true

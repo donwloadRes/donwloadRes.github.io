@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大恒工业相机C#语言Winform平台开发例程"
+title: "大恒工业相机C语言Winform平台开发例程"
 date:   2021-11-08
 tags: [例程,采集,相机,图像,大恒]
 comments: true

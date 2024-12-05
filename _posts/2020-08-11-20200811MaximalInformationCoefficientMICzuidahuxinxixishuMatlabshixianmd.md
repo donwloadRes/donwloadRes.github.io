@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maximal Information Coefficient (MIC) 最大互信息系数 Matlab 实现"
+title: "Maximal Information Coefficient MIC 最大互信息系数 Matlab 实现"
 date:   2022-01-26
 tags: [Matlab,MIC,编译,文件,互信息]
 comments: true

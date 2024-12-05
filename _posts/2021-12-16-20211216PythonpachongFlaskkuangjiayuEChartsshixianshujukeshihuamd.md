@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫、Flask框架与ECharts实现数据可视化"
+title: "Python爬虫Flask框架与ECharts实现数据可视化"
 date:   2023-02-01
 tags: [Python,Flask,ECharts,爬虫,可视化]
 comments: true

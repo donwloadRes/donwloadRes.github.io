@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSCAD4.2双馈风机模型下载"
+title: "PSCAD42双馈风机模型下载"
 date:   2024-08-14
 tags: [仿真,模型,文档,双馈,风机]
 comments: true

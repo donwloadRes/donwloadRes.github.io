@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的FFT频谱分析+波形识别"
+title: "基于STM32的FFT频谱分析波形识别"
 date:   2023-07-28
 tags: [STM32,频谱,波形,分析,FFT]
 comments: true

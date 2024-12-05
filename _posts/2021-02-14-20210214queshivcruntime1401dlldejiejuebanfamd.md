@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缺失vcruntime140_1.dll的解决办法"
+title: "缺失vcruntime1401dll的解决办法"
 date:   2020-06-26
 tags: [vcruntime140,dll,C++,Redistributable,安装]
 comments: true

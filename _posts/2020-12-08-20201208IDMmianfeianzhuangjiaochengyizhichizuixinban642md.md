@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM 免费安装教程（已支持最新版 6.42）"
+title: "IDM 免费安装教程已支持最新版 642"
 date:   2021-09-13
 tags: [IDM,下载,Crack,安装,最新版]
 comments: true

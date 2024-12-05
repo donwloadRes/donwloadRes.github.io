@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文献管理神器——Zotero配置及实用插件扩展"
+title: "文献管理神器Zotero配置及实用插件扩展"
 date:   2023-05-16
 tags: [Zotero,插件,文献,PDF,扩展]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式软件C语言编码规范(高安全性)"
+title: "嵌入式软件C语言编码规范高安全性"
 date:   2021-06-19
 tags: [嵌入式软件,编码,安全,C语言,嵌入式]
 comments: true

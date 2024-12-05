@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OBS29.0.2多路推流插件"
+title: "OBS2902多路推流插件"
 date:   2021-10-15
 tags: [插件,OBS,推流,直播,Studio]
 comments: true

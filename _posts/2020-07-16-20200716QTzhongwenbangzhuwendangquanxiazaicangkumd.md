@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT中文帮助文档（全）下载仓库"
+title: "QT中文帮助文档全下载仓库"
 date:   2021-05-25
 tags: [QT,文档,帮助,中文,开发者]
 comments: true

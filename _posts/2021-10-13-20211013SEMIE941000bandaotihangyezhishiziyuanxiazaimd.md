@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI E94 -1000 半导体行业知识资源下载"
+title: "SEMI E94 1000 半导体行业知识资源下载"
 date:   2020-08-31
 tags: [半导体,1000,行业,资源,文件]
 comments: true

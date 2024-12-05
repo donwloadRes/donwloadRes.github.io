@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim仿真AM DSB信号的产生、调制与解调"
+title: "Multisim仿真AM DSB信号的产生调制与解调"
 date:   2024-09-16
 tags: [仿真,Multisim,解调,AM,DSB]
 comments: true

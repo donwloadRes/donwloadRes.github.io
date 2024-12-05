@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BQ40z50数据手册(中文版)"
+title: "BQ40z50数据手册中文版"
 date:   2022-10-03
 tags: [BQ40z50,手册,文件,中文版,数据]
 comments: true

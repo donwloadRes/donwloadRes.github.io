@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 资源使用指南"
+title: "NET Framework 35 资源使用指南"
 date:   2020-12-17
 tags: [Windows,NET,Framework,3.5,sxs]
 comments: true

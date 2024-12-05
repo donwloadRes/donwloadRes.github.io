@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2010~2014 年北京市 PM2.5 数据分析"
+title: "20102014 年北京市 PM25 数据分析"
 date:   2021-07-04
 tags: [Python,PM2.5,数据,数据分析,可视化]
 comments: true

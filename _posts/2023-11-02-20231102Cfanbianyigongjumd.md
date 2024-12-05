@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++反编译工具"
+title: "C反编译工具"
 date:   2023-04-14
 tags: [dll,可执行文件,工具,依赖,反编译]
 comments: true

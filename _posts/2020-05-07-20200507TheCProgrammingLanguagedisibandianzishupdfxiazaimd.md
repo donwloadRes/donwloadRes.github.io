@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The C++ Programming Language第四版电子书pdf下载"
+title: "The C Programming Language第四版电子书pdf下载"
 date:   2020-08-10
 tags: [C++,第四版,PDF,Programming,Language]
 comments: true

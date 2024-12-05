@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "友善串口调试助手5.2.5"
+title: "友善串口调试助手525"
 date:   2023-01-30
 tags: [串口,波特率,调试,5.2,友善]
 comments: true

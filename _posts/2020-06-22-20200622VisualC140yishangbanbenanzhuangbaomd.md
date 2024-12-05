@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 14.0以上版本安装包"
+title: "Visual C 140以上版本安装包"
 date:   2020-06-03
 tags: [安装包,安装,Visual,C++,14.0]
 comments: true

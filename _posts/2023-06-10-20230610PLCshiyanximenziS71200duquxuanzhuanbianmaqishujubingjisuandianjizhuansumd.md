@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC实验—西门子S7 1200读取旋转编码器数据并计算电机转速"
+title: "PLC实验西门子S7 1200读取旋转编码器数据并计算电机转速"
 date:   2021-05-19
 tags: [PLC,编码器,电机,转速,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微Ecology9二次开发全攻略指南 (2024精华) 源码"
+title: "泛微Ecology9二次开发全攻略指南 2024精华 源码"
 date:   2024-08-09
 tags: [泛微,Ecology9,二次开发,开发者,指南]
 comments: true

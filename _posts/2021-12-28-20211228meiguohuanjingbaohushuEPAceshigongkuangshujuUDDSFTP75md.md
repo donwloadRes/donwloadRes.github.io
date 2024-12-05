@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国环境保护署(EPA)测试工况数据 - UDDS & FTP75"
+title: "美国环境保护署EPA测试工况数据  UDDS  FTP75"
 date:   2020-02-24
 tags: [EPA,工况,测试,数据,UDDS]
 comments: true

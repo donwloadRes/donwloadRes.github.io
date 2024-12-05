@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "廖雪峰Python教程[完整版] 下载仓库"
+title: "廖雪峰Python教程完整版 下载仓库"
 date:   2023-06-08
 tags: [教程,Python,编程,完整版,雪峰]
 comments: true

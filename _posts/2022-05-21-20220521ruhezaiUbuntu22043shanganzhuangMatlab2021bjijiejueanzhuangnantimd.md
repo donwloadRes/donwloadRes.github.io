@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在Ubuntu 22.04.3上安装Matlab 2021b及解决安装难题"
+title: "如何在Ubuntu 22043上安装Matlab 2021b及解决安装难题"
 date:   2024-06-11
 tags: [安装,Matlab,2021b,sudo,Ubuntu]
 comments: true

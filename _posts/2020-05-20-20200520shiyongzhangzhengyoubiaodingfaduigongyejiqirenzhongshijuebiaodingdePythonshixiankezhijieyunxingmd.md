@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用张正友标定法对工业机器人中视觉标定的Python实现（可直接运行）"
+title: "使用张正友标定法对工业机器人中视觉标定的Python实现可直接运行"
 date:   2022-12-17
 tags: [标定,张正友,Python,视觉,文件夹]
 comments: true

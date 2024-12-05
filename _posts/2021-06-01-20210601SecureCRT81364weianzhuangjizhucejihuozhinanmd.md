@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Secure CRT 8.1.3 64位安装及注册激活指南"
+title: "Secure CRT 813 64位安装及注册激活指南"
 date:   2020-06-30
 tags: [注册机,激活,Secure,CRT,安装]
 comments: true

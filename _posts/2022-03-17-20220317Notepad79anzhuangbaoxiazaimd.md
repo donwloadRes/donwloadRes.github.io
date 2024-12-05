@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 7.9 安装包下载"
+title: "Notepad 79 安装包下载"
 date:   2023-12-20
 tags: [安装包,Notepad,++,7.9,安装]
 comments: true

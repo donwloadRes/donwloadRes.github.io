@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能算法鹦鹉优化器（Parrot Optimizer PO）"
+title: "智能算法鹦鹉优化器Parrot Optimizer PO"
 date:   2020-11-08
 tags: [鹦鹉,优化,算法,Parrot,Optimizer]
 comments: true

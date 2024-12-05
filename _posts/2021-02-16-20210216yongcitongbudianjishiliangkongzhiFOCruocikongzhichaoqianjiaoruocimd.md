@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机矢量控制(FOC)—弱磁控制(超前角弱磁)"
+title: "永磁同步电机矢量控制FOC弱磁控制超前角弱磁"
 date:   2023-12-26
 tags: [控制,同步电机,仿真,永磁,弱磁]
 comments: true

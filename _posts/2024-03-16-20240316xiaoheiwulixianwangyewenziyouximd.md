@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小黑屋 - 离线网页文字游戏"
+title: "小黑屋  离线网页文字游戏"
 date:   2023-10-29
 tags: [游戏,小黑,离线,网页,文件]
 comments: true

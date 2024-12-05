@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现服务器-客户端的TCP通信"
+title: "C语言实现服务器客户端的TCP通信"
 date:   2022-10-06
 tags: [TCP,客户端,服务器端,本文,C语言]
 comments: true

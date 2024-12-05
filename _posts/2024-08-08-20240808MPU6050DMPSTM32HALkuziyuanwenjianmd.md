@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050+DMP+STM32 HAL库资源文件"
+title: "MPU6050DMPSTM32 HAL库资源文件"
 date:   2024-03-23
 tags: [MPU6050,DMP,解算,文件,STM32F103C8T6]
 comments: true

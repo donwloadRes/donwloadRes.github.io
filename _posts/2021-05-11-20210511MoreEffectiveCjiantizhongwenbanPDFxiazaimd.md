@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More Effective C++ 简体中文版 PDF 下载"
+title: "More Effective C 简体中文版 PDF 下载"
 date:   2023-03-31
 tags: [C++,pdf,简体中文版,More,Effective]
 comments: true

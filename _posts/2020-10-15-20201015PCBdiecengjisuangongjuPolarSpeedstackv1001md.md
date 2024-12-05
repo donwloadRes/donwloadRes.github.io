@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB叠层计算工具Polar Speedstack v10.01"
+title: "PCB叠层计算工具Polar Speedstack v1001"
 date:   2023-08-20
 tags: [PCB,叠层,Polar,Speedstack,v10.01]
 comments: true

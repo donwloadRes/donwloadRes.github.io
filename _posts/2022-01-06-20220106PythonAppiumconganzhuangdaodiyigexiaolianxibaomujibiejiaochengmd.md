@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Appium从安装到第一个小练习(保姆级别教程)"
+title: "PythonAppium从安装到第一个小练习保姆级别教程"
 date:   2024-02-29
 tags: [教程,Python,Appium,安装,常见问题]
 comments: true

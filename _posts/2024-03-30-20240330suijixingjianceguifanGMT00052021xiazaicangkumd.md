@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机性检测规范 GM-T 0005-2021 下载仓库"
+title: "随机性检测规范 GMT 00052021 下载仓库"
 date:   2022-06-22
 tags: [随机性,2021,检测,GM,0005]
 comments: true

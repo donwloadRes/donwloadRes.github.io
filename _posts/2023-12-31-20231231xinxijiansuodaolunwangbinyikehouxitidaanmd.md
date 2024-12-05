@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息检索导论_王斌译_课后习题答案"
+title: "信息检索导论王斌译课后习题答案"
 date:   2020-02-01
 tags: [信息检索,习题,课后,答案,导论]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python下GDAL库安装指南 —— 以PyCharm编译器为例"
+title: "Python下GDAL库安装指南  以PyCharm编译器为例"
 date:   2021-06-18
 tags: [GDAL,Python,安装,PyCharm,whl]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于大模型的微信聊天机器人: chatgpt-on-wechat"
+title: "基于大模型的微信聊天机器人 chatgptonwechat"
 date:   2024-05-30
 tags: [微信,chatgpt,wechat,机器人,聊天]
 comments: true

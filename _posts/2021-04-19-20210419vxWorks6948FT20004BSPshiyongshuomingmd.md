@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vxWorks 6.9.4.8 FT2000-4 BSP 使用说明"
+title: "vxWorks 6948 FT20004 BSP 使用说明"
 date:   2022-12-06
 tags: [FT2000,4.8,BSP,vxWorks,6.9]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通开关电源设计（中文版）资源下载"
+title: "精通开关电源设计中文版资源下载"
 date:   2020-03-16
 tags: [开关电源,设计,资源,中文版,下载]
 comments: true

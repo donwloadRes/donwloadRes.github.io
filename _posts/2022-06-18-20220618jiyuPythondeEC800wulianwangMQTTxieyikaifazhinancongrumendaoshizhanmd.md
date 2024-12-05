@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的EC800物联网MQTT协议开发指南：从入门到实战"
+title: "基于Python的EC800物联网MQTT协议开发指南从入门到实战"
 date:   2020-04-10
 tags: [MQTT,Python,EC800,指南,协议]
 comments: true

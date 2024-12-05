@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selenium 谷歌驱动 122.0.6261.57 64位系统下载"
+title: "Selenium 谷歌驱动 1220626157 64位系统下载"
 date:   2024-10-20
 tags: [Selenium,ChromeDriver,122.0,下载,版本]
 comments: true

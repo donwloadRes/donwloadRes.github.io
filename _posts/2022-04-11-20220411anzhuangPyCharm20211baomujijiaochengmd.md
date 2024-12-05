@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装 PyCharm 2021.1 保姆级教程"
+title: "安装 PyCharm 20211 保姆级教程"
 date:   2023-12-15
 tags: [PyCharm,安装,Python,2021.1,教程]
 comments: true

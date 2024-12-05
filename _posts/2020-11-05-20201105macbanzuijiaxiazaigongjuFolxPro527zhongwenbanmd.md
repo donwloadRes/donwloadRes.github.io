@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mac版最佳下载工具Folx Pro 5.27 中文版"
+title: "mac版最佳下载工具Folx Pro 527 中文版"
 date:   2023-11-01
 tags: [下载,Folx,Pro,中文版,5.27]
 comments: true

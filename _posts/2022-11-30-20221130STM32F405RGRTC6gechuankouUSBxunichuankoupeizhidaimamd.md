@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F405RG RTC+6个串口+USB虚拟串口配置代码"
+title: "STM32F405RG RTC6个串口USB虚拟串口配置代码"
 date:   2023-12-12
 tags: [串口,配置,CubeMX,代码,USB]
 comments: true

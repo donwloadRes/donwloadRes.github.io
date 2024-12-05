@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jacob-1.18资源包说明"
+title: "Jacob118资源包说明"
 date:   2024-07-16
 tags: [Java,Jacob,COM,1.18,dll]
 comments: true

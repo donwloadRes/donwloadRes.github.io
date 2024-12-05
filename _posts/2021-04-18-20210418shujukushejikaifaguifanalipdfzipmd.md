@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库设计开发规范-阿里.pdf.zip"
+title: "数据库设计开发规范阿里pdfzip"
 date:   2020-05-19
 tags: [数据库,设计,pdf,阿里,文档]
 comments: true

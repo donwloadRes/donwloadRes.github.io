@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core MVC + Layui 资源管理后台系统"
+title: "NET Core MVC  Layui 资源管理后台系统"
 date:   2021-08-18
 tags: [Core,资源管理,上传,NET,导出]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#图解教程第5版PDF资源"
+title: "C图解教程第5版PDF资源"
 date:   2022-02-10
 tags: [C#,PDF,教程,下载,图解]
 comments: true

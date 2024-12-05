@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普元元数据管理系统V5.0操作手册下载"
+title: "普元元数据管理系统V50操作手册下载"
 date:   2022-06-18
 tags: [数据,操作手册,普元元,V5.0,管理系统]
 comments: true

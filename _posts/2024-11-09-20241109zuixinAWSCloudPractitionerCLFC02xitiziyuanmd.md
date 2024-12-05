@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新 AWS Cloud Practitioner CLF-C02 习题资源"
+title: "最新 AWS Cloud Practitioner CLFC02 习题资源"
 date:   2020-03-24
 tags: [习题,C02,CLF,知识点,AWS]
 comments: true

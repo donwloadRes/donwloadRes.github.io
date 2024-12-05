@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 解析 CAN Vector DBC 文件的 .NET 资源"
+title: "C 解析 CAN Vector DBC 文件的 NET 资源"
 date:   2023-10-26
 tags: [文件,DBC,解析,NET,资源]
 comments: true

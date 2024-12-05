@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS Icepak电子散热基础教程（Icepak学习必备）"
+title: "ANSYS Icepak电子散热基础教程Icepak学习必备"
 date:   2024-06-30
 tags: [Icepak,学习,教程,ANSYS,基础教程]
 comments: true

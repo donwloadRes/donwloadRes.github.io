@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARMv8 arm64 指令集速览表(打印版)"
+title: "ARMv8 arm64 指令集速览表打印版"
 date:   2022-09-16
 tags: [打印,ARMv8,arm64,速览表,PDF]
 comments: true

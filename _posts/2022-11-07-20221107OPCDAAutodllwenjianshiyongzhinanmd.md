@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPCDAAuto.dll 文件使用指南"
+title: "OPCDAAutodll 文件使用指南"
 date:   2022-08-07
 tags: [OPCDAAuto,dll,Kepserver,文件,C#]
 comments: true

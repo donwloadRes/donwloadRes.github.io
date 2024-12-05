@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译OpenCV时，xfeatures2d模块下载boostdesc_bgm.i等文件超时问题解决方案"
+title: "编译OpenCV时xfeatures2d模块下载boostdescbgmi等文件超时问题解决方案"
 date:   2022-05-11
 tags: [OpenCV,编译,xfeatures2d,下载,文件]
 comments: true

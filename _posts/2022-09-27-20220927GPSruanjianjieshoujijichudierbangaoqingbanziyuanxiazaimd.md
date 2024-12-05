@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS软件接收机基础（第二版）高清版资源下载"
+title: "GPS软件接收机基础第二版高清版资源下载"
 date:   2020-06-20
 tags: [GPS,接收机,软件,高清,基础]
 comments: true

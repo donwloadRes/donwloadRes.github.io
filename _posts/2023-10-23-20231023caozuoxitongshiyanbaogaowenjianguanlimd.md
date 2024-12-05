@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统实验报告（文件管理）"
+title: "操作系统实验报告文件管理"
 date:   2022-06-26
 tags: [文件,权限,磁盘,目录,文件系统]
 comments: true

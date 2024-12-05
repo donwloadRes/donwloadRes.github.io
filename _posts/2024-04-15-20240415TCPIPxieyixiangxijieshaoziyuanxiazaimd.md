@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP协议详细介绍资源下载"
+title: "TCPIP协议详细介绍资源下载"
 date:   2020-06-11
 tags: [IP,TCP,协议,详细,资源]
 comments: true

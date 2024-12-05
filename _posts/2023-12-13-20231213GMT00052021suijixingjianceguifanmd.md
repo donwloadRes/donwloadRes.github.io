@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMT 0005-2021 随机性检测规范"
+title: "GMT 00052021 随机性检测规范"
 date:   2024-08-22
 tags: [随机性,2021,检测,GMT,0005]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CubeMX配置FreeRTOS+LVGL+FatFS，基于STM32F103ZET6"
+title: "CubeMX配置FreeRTOSLVGLFatFS基于STM32F103ZET6"
 date:   2022-12-26
 tags: [FreeRTOS,LVGL,FatFS,STM32F103ZET6,CubeMX]
 comments: true

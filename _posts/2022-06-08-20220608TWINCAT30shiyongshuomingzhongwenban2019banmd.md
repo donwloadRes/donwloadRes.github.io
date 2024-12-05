@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWINCAT 3.0 使用说明 中文版 2019 版"
+title: "TWINCAT 30 使用说明 中文版 2019 版"
 date:   2023-12-27
 tags: [TWINCAT,3.0,2019,中文版,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 反编译工具（2010年版本）"
+title: "C 反编译工具2010年版本"
 date:   2024-02-09
 tags: [C++,反编译,工具,操作系统,程序]
 comments: true

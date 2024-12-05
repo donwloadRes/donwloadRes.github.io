@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ v 7.6.4 中文简体版"
+title: "Notepad v 764 中文简体版"
 date:   2020-05-18
 tags: [Notepad,++,中文,简体版,安装]
 comments: true

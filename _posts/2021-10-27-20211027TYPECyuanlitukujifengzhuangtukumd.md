@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TYPE-C原理图库及封装图库"
+title: "TYPEC原理图库及封装图库"
 date:   2021-10-18
 tags: [图库,TYPE,封装,原理,AD]
 comments: true

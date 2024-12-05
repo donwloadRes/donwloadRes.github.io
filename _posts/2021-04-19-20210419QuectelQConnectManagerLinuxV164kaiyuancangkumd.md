@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel-QConnectManager-Linux-V1.6.4 开源仓库"
+title: "QuectelQConnectManagerLinuxV164 开源仓库"
 date:   2023-08-01
 tags: [Linux,Quectel,QConnectManager,V1.6,拨号]
 comments: true

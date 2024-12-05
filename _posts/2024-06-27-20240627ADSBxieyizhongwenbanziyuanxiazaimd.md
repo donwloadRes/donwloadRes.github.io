@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS-B协议(中文版) 资源下载"
+title: "ADSB协议中文版 资源下载"
 date:   2021-04-25
 tags: [ADS,中文版,协议,zip,文档]
 comments: true

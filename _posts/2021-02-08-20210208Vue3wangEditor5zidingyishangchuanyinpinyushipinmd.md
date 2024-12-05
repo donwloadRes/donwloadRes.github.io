@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 + wangEditor5 自定义上传音频与视频"
+title: "Vue3  wangEditor5 自定义上传音频与视频"
 date:   2023-07-21
 tags: [音频,自定义,视频,wangEditor5,Vue3]
 comments: true

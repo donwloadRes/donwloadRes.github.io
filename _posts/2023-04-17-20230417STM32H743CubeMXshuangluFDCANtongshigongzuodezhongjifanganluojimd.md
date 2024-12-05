@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H743+CubeMX：双路FDCAN同时工作的终极方案（裸机）"
+title: "STM32H743CubeMX双路FDCAN同时工作的终极方案裸机"
 date:   2022-04-23
 tags: [FDCAN,双路,FIFO,配置,接收]
 comments: true

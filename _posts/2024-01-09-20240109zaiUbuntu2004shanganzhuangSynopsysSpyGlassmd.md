@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Ubuntu 20.04上安装Synopsys SpyGlass"
+title: "在Ubuntu 2004上安装Synopsys SpyGlass"
 date:   2024-07-16
 tags: [SpyGlass,安装,Ubuntu,20.04,Synopsys]
 comments: true

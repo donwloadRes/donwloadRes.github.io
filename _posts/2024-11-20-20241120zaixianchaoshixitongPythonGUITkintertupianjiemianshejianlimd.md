@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在线超市系统 - Python GUI Tkinter 图片界面设计案例"
+title: "在线超市系统  Python GUI Tkinter 图片界面设计案例"
 date:   2020-09-06
 tags: [界面,按钮,Python,图片,在线]
 comments: true

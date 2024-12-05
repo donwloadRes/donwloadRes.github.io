@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OpenCvSharp 棋盘格相机标定与图像矫正（源码Demo）"
+title: "C OpenCvSharp 棋盘格相机标定与图像矫正源码Demo"
 date:   2020-09-12
 tags: [图像,相机,标定,矫正,棋盘]
 comments: true

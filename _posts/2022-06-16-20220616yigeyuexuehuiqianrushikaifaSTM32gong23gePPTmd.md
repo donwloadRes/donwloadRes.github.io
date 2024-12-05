@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一个月学会嵌入式开发STM32（共23个PPT）"
+title: "一个月学会嵌入式开发STM32共23个PPT"
 date:   2020-11-16
 tags: [嵌入式,STM32,PPT,学习,资料]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线Mesh网络架构与协议（中文版）下载"
+title: "无线Mesh网络架构与协议中文版下载"
 date:   2020-02-21
 tags: [Mesh,无线,架构,中文版,网络]
 comments: true

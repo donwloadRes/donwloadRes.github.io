@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝队面试题整理（HW防守方面试题整理）"
+title: "蓝队面试题整理HW防守方面试题整理"
 date:   2022-08-03
 tags: [蓝队,HW,面试,防守,面试题]
 comments: true

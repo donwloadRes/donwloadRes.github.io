@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医学图像处理技术(顾力栩)PPT下载"
+title: "医学图像处理技术顾力栩PPT下载"
 date:   2021-07-25
 tags: [图像处理,PPT,医学,顾力,下载]
 comments: true

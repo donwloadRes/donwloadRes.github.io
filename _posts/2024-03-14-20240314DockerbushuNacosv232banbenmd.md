@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker 部署 Nacos v2.3.2 版本"
+title: "Docker 部署 Nacos v232 版本"
 date:   2021-06-28
 tags: [nacos,Nacos,Docker,v2.3,部署]
 comments: true

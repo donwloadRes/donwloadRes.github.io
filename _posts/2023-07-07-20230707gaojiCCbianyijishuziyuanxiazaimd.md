@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高级C-C++编译技术资源下载"
+title: "高级CC编译技术资源下载"
 date:   2021-10-23
 tags: [C++,编译,高级,技术,文件]
 comments: true

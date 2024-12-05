@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabView 官方教程（全）资源下载"
+title: "LabView 官方教程全资源下载"
 date:   2022-02-13
 tags: [LabView,教程,编程,官方,图形化]
 comments: true

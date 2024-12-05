@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 读写 netCDF 文件资源库"
+title: "C 读写 netCDF 文件资源库"
 date:   2020-01-31
 tags: [示例,netCDF4,dll,资源库,netCDF]
 comments: true

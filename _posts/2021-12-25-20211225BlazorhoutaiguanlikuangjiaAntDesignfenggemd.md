@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blazor后台管理框架 - AntDesign风格"
+title: "Blazor后台管理框架  AntDesign风格"
 date:   2022-02-19
 tags: [AntDesign,后台,登录,Blazor,框架]
 comments: true

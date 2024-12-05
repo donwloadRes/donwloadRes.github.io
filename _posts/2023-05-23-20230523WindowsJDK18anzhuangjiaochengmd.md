@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows JDK 1.8 安装教程"
+title: "Windows JDK 18 安装教程"
 date:   2021-09-13
 tags: [安装,JDK,Windows,1.8,单击]
 comments: true

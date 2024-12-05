@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵压缩存储之稀疏矩阵详解（C语言版）"
+title: "矩阵压缩存储之稀疏矩阵详解C语言版"
 date:   2023-10-29
 tags: [矩阵,稀疏,压缩,C语言,存储]
 comments: true

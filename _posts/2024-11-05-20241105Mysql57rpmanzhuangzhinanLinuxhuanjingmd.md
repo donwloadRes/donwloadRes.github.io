@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mysql-5.7 rpm安装指南（Linux环境）"
+title: "Mysql57 rpm安装指南Linux环境"
 date:   2023-05-08
 tags: [MySQL,5.7,Linux,rpm,RPM]
 comments: true

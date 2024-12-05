@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "洋桃一号开发板（STM32F103）资源下载"
+title: "洋桃一号开发板STM32F103资源下载"
 date:   2023-05-09
 tags: [开发板,洋桃,STM32F103,接口定义,原理图]
 comments: true

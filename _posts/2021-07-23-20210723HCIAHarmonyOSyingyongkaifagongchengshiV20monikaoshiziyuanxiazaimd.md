@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-HarmonyOS应用开发工程师 V2.0 模拟考试资源下载"
+title: "HCIAHarmonyOS应用开发工程师 V20 模拟考试资源下载"
 date:   2021-04-20
 tags: [HarmonyOS,模拟考试,考试,考生,HCIA]
 comments: true

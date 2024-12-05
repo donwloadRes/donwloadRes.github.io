@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPT绘图素材-矢量图"
+title: "PPT绘图素材矢量图"
 date:   2023-02-03
 tags: [矢量图,PPT,绘图,编辑,素材]
 comments: true

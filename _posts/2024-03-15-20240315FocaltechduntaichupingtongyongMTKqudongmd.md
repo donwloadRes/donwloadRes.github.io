@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Focaltech（敦泰）触屏通用MTK驱动"
+title: "Focaltech敦泰触屏通用MTK驱动"
 date:   2022-01-25
 tags: [MTK,驱动,设备,Focaltech,敦泰]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel库存管理系统 - 最好用的Excel出入库管理表格"
+title: "Excel库存管理系统  最好用的Excel出入库管理表格"
 date:   2023-04-04
 tags: [Excel,库存,进出,查询,管理]
 comments: true

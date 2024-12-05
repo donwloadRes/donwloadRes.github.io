@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言数据结构实验二：顺序表的应用"
+title: "C语言数据结构实验二顺序表的应用"
 date:   2021-10-08
 tags: [顺序,实验,C语言,数据结构,表中]
 comments: true

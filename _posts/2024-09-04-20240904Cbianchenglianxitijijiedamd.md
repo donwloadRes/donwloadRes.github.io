@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程练习题及解答"
+title: "C编程练习题及解答"
 date:   2021-12-04
 tags: [C++,编程,解答,题目,练习题]
 comments: true

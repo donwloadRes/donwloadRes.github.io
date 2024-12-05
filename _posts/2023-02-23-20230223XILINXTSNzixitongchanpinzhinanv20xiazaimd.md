@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XILINX TSN 子系统产品指南 v2.0 下载"
+title: "XILINX TSN 子系统产品指南 v20 下载"
 date:   2024-04-08
 tags: [TSN,802.1,子系统,文档,XILINX]
 comments: true

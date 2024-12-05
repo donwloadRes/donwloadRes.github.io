@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobol灵敏度分析方法在Matlab中的实现 - 使用蒙特卡洛采样"
+title: "Sobol灵敏度分析方法在Matlab中的实现  使用蒙特卡洛采样"
 date:   2024-11-05
 tags: [Sobol,Matlab,蒙特卡洛,灵敏度,敏感性]
 comments: true

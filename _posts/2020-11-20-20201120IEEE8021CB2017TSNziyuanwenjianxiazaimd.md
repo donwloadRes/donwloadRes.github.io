@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.1CB-2017 TSN 资源文件下载"
+title: "IEEE 8021CB2017 TSN 资源文件下载"
 date:   2020-09-01
 tags: [CB,IEEE,TSN,网络,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 音频编码转换工具包: PCM与G711-ADPCM互转完整VS工程"
+title: "C 音频编码转换工具包 PCM与G711ADPCM互转完整VS工程"
 date:   2023-12-24
 tags: [PCM,音频,转换,编码,ADPCM]
 comments: true

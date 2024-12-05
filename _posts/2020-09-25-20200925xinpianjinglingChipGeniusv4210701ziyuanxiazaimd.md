@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "芯片精灵ChipGenius v4.21.0701 资源下载"
+title: "芯片精灵ChipGenius v4210701 资源下载"
 date:   2020-09-28
 tags: [U盘,ChipGenius,0701,v4.21,芯片]
 comments: true

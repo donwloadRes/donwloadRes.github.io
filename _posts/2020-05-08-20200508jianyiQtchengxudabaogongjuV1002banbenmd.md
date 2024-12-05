@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易Qt程序打包工具V1.0.0.2版本"
+title: "简易Qt程序打包工具V1002版本"
 date:   2023-06-02
 tags: [Qt,打包,工具,版本,V1.0]
 comments: true

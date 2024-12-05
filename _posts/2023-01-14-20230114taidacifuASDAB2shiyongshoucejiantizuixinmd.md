@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台达伺服ASDA-B2使用手册(简体最新)"
+title: "台达伺服ASDAB2使用手册简体最新"
 date:   2024-05-05
 tags: [使用手册,台达,ASDA,B2,伺服]
 comments: true

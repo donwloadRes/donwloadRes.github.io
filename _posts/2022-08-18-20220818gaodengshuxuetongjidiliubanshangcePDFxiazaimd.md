@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数学-同济第六版-上册 PDF 下载"
+title: "高等数学同济第六版上册 PDF 下载"
 date:   2022-04-10
 tags: [PDF,高等数学,第六版,上册,同济]
 comments: true

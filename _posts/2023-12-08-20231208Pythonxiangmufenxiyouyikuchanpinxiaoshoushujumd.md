@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python项目：分析优衣库产品销售数据"
+title: "Python项目分析优衣库产品销售数据"
 date:   2022-10-03
 tags: [Python,优衣库,数据,销售,顾客]
 comments: true

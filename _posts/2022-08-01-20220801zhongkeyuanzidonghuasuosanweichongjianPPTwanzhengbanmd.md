@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科院自动化所三维重建PPT（完整版）"
+title: "中科院自动化所三维重建PPT完整版"
 date:   2024-03-31
 tags: [三维重建,PPT,完整版,中科院,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "声音频率发生器20Hz~20000Hz"
+title: "声音频率发生器20Hz20000Hz"
 date:   2024-10-12
 tags: [音频,频率,测试,发生器,麦克风]
 comments: true

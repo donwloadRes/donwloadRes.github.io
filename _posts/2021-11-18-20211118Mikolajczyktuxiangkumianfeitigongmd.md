@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mikolajczyk图像库（免费提供）"
+title: "Mikolajczyk图像库免费提供"
 date:   2022-09-18
 tags: [Mikolajczyk,图像,资源,免费,研究]
 comments: true

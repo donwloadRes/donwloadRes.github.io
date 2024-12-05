@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gilbert Strang-计算科学与工程（Computational Science and Engineering）资源下载"
+title: "Gilbert Strang计算科学与工程Computational Science and Engineering资源下载"
 date:   2023-08-26
 tags: [工程,算法,数学课程,计算,科学]
 comments: true

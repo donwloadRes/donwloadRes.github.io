@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 7 创建 PDF 控件 SynPDF-master 资源下载"
+title: "Delphi 7 创建 PDF 控件 SynPDFmaster 资源下载"
 date:   2022-08-20
 tags: [控件,Delphi,PDF,SynPDF,master]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.4 详细安装图文教程"
+title: "CentOS 74 详细安装图文教程"
 date:   2024-01-31
 tags: [CentOS,7.4,安装,教程,虚拟机]
 comments: true

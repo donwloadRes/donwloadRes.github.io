@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trial-Reset 4.0 最新版：延长试用版软件的使用期限"
+title: "TrialReset 40 最新版延长试用版软件的使用期限"
 date:   2021-06-12
 tags: [Trial,软件,清理,Reset,4.0]
 comments: true

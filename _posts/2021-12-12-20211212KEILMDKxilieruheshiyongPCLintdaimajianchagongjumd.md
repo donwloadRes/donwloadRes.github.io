@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【KEIL-MDK】系列——如何使用PC-Lint代码检查工具"
+title: "KEILMDK系列如何使用PCLint代码检查工具"
 date:   2021-04-17
 tags: [PC,Lint,KEIL,MDK,代码]
 comments: true

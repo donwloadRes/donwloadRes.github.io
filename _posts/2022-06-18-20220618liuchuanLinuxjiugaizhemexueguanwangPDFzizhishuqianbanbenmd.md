@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刘遄Linux 就该这么学》官网PDF自制书签版本"
+title: "刘遄Linux 就该这么学官网PDF自制书签版本"
 date:   2020-02-04
 tags: [Linux,书签,PDF,版本,官网]
 comments: true

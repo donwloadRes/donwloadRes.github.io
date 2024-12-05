@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi7 升级到 Delphi 2010、Delphi XE、Delphi XE2 总结"
+title: "Delphi7 升级到 Delphi 2010Delphi XEDelphi XE2 总结"
 date:   2021-11-25
 tags: [Delphi,开发者,Delphi7,2010,PChar]
 comments: true

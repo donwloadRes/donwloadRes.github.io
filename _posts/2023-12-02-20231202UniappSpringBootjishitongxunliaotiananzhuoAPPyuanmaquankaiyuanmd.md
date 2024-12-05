@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uniapp+SpringBoot即时通讯聊天安卓APP源码-全开源"
+title: "UniappSpringBoot即时通讯聊天安卓APP源码全开源"
 date:   2023-01-11
 tags: [适配,Uniapp,SpringBoot,安卓,APP]
 comments: true

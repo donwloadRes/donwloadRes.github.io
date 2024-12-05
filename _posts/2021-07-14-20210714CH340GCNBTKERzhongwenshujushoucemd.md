@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CH340G-C-N-B-T-K-E-R 中文数据手册"
+title: "CH340GCNBTKER 中文数据手册"
 date:   2022-09-30
 tags: [手册,芯片,CH340,本手册,引脚]
 comments: true

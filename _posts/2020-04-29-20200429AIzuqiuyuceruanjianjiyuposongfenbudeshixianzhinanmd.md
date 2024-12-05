@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI足球预测软件：基于泊松分布的实现指南"
+title: "AI足球预测软件基于泊松分布的实现指南"
 date:   2023-04-06
 tags: [泊松,AI,预测,分布,模型]
 comments: true

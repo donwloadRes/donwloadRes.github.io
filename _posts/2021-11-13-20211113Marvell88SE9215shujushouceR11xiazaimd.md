@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marvell 88SE9215 数据手册 R1.1 下载"
+title: "Marvell 88SE9215 数据手册 R11 下载"
 date:   2023-01-13
 tags: [Marvell,88SE9215,R1.1,手册,下载]
 comments: true

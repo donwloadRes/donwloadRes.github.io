@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NILabVIEW官方入门教程（中文PDF）下载"
+title: "NILabVIEW官方入门教程中文PDF下载"
 date:   2022-06-22
 tags: [PDF,LabVIEW,NILabVIEW,入门教程,中文]
 comments: true

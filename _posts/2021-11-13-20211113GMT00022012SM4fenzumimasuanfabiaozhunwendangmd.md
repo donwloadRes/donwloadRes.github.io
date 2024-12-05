@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMT 0002-2012 SM4分组密码算法标准文档"
+title: "GMT 00022012 SM4分组密码算法标准文档"
 date:   2022-04-02
 tags: [密码,标准,SM4,分组,算法]
 comments: true

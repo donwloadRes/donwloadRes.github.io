@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式软件成长之路：从入职到架构师"
+title: "嵌入式软件成长之路从入职到架构师"
 date:   2021-08-20
 tags: [嵌入式软件,架构师,职到,从入,成长]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS电磁仿真应用详解（PDF）—— 李明洋"
+title: "HFSS电磁仿真应用详解PDF 李明洋"
 date:   2021-09-24
 tags: [HFSS,仿真,设计,电磁,PDF]
 comments: true

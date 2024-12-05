@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carsim、Prescan和Simulink联仿操作指南"
+title: "CarsimPrescan和Simulink联仿操作指南"
 date:   2020-11-26
 tags: [Simulink,Prescan,仿真,Carsim,联仿]
 comments: true

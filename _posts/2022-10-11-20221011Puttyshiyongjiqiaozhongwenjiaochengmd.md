@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Putty使用技巧（中文教程）"
+title: "Putty使用技巧中文教程"
 date:   2021-10-17
 tags: [SSH,技巧,PuTTY,教程,Putty]
 comments: true

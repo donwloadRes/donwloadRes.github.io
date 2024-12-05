@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火力发电厂热平衡程序计算—MATLAB（64位）"
+title: "火力发电厂热平衡程序计算MATLAB64位"
 date:   2022-07-29
 tags: [计算,热平衡,MATLAB,火力发电厂,程序]
 comments: true

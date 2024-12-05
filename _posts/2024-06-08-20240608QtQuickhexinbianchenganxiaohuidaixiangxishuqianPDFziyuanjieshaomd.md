@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Quick核心编程 - 安晓辉(带详细书签) PDF资源介绍"
+title: "Qt Quick核心编程  安晓辉带详细书签 PDF资源介绍"
 date:   2023-03-03
 tags: [Qt,Quick,QML,开发,开发者]
 comments: true

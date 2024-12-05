@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "krb5-devel-1.15.1-50.el7.x86_64 子依赖包下载"
+title: "krb5devel115150el7x8664 子依赖包下载"
 date:   2021-02-05
 tags: [devel,x86,64,rpm,el7]
 comments: true

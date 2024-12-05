@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6硬件IIC驱动0.96英寸OLED显示屏"
+title: "STM32F103C8T6硬件IIC驱动096英寸OLED显示屏"
 date:   2021-03-28
 tags: [OLED,硬件,IIC,STM32F103C8T6,0.96]
 comments: true

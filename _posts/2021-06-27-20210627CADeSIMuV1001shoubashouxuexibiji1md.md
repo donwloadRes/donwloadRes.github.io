@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CADe_SIMu V1.0.0.1手把手学习笔记（1）"
+title: "CADeSIMu V1001手把手学习笔记1"
 date:   2023-04-24
 tags: [CADe,0.1,SIMu,V1.0,笔记]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无人驾驶车辆 模型预测控制》代码"
+title: "无人驾驶车辆 模型预测控制代码"
 date:   2023-08-20
 tags: [无人驾驶,代码,Matlab,模型,预测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "温湿度智能监控系统设计（Proteus仿真）"
+title: "温湿度智能监控系统设计Proteus仿真"
 date:   2023-04-16
 tags: [温湿度,系统,Proteus,仿真,设定]
 comments: true

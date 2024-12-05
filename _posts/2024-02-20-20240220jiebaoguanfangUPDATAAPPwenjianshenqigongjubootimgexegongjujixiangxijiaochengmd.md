@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解包官方UPDATA.APP文件神器工具bootimg.exe工具及详细教程"
+title: "解包官方UPDATAAPP文件神器工具bootimgexe工具及详细教程"
 date:   2024-01-04
 tags: [解包,bootimg,exe,img,UPDATA]
 comments: true

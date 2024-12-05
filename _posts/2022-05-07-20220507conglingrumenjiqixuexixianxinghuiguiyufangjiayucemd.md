@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零入门机器学习：线性回归与房价预测"
+title: "从零入门机器学习线性回归与房价预测"
 date:   2020-04-10
 tags: [模型,线性,房价,预测,回归]
 comments: true

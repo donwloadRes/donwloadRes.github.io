@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC 协议中文+英文资源文件"
+title: "eMMC 协议中文英文资源文件"
 date:   2021-05-05
 tags: [eMMC,中文,英文,协议,文件]
 comments: true

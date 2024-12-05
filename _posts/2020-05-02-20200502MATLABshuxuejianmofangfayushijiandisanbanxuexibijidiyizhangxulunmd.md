@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数学建模方法与实践（第三版）》学习笔记——第一章 绪论"
+title: "MATLAB数学建模方法与实践第三版学习笔记第一章 绪论"
 date:   2024-11-20
 tags: [MATLAB,建模,数学,学习,绪论]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图卷积网络（GCN）理解和详细推导"
+title: "图卷积网络GCN理解和详细推导"
 date:   2020-10-18
 tags: [GCN,卷积,推导,详细,网络]
 comments: true

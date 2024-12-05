@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu20.04离线部署nvidia-docker资源包"
+title: "Ubuntu2004离线部署nvidiadocker资源包"
 date:   2021-10-16
 tags: [离线,nvidia,docker,安装,Ubuntu20.04]
 comments: true

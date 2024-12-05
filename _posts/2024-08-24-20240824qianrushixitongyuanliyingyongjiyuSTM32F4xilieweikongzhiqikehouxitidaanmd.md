@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统原理应用-基于STM32F4系列为控制器 课后习题答案"
+title: "嵌入式系统原理应用基于STM32F4系列为控制器 课后习题答案"
 date:   2020-05-16
 tags: [答案,课后,习题,STM32F4,嵌入式]
 comments: true

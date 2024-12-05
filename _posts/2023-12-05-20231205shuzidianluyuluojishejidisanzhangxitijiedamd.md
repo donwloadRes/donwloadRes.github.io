@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计》第三章习题解答"
+title: "数字电路与逻辑设计第三章习题解答"
 date:   2020-09-27
 tags: [习题,逻辑设计,数字电路,解答,第三章]
 comments: true

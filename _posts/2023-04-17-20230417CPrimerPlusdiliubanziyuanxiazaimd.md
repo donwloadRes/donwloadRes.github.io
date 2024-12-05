@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer Plus 第六版 资源下载"
+title: "C Primer Plus 第六版 资源下载"
 date:   2020-04-27
 tags: [C++,第六版,编程,Primer,Plus]
 comments: true

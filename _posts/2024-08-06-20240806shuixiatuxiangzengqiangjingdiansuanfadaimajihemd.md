@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水下图像增强：经典算法代码集合"
+title: "水下图像增强经典算法代码集合"
 date:   2024-05-21
 tags: [算法,水下,代码,图像增强,集合]
 comments: true

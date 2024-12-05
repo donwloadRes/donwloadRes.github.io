@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为OD真机算法题（含答案）资源下载"
+title: "华为OD真机算法题含答案资源下载"
 date:   2022-04-15
 tags: [OD,真机,华为,算法,题目]
 comments: true

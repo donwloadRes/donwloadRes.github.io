@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 6.0.8 for Windows 下载"
+title: "Redis 608 for Windows 下载"
 date:   2022-10-06
 tags: [Redis,Windows,6.0,redis,https]
 comments: true

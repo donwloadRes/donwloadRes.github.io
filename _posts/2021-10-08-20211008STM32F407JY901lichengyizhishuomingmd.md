@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407-JY901 例程移植说明"
+title: "STM32F407JY901 例程移植说明"
 date:   2024-09-03
 tags: [STM32F407,JY901,移植,硬件,例程]
 comments: true

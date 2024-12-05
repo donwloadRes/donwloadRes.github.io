@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【樵夫教你学Python】Python全套教程 - Python基础"
+title: "樵夫教你学PythonPython全套教程  Python基础"
 date:   2021-12-22
 tags: [Python,樵夫,教程,示例,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tesseract-OCR下载安装及语言库下载指南"
+title: "tesseractOCR下载安装及语言库下载指南"
 date:   2020-07-12
 tags: [Tesseract,安装,语言包,下载,tesseract]
 comments: true

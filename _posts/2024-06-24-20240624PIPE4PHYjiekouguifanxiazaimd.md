@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIPE4: PHY接口规范下载"
+title: "PIPE4 PHY接口规范下载"
 date:   2022-07-06
 tags: [PHY,PIPE4,文件,规范,PCIe]
 comments: true

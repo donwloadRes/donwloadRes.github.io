@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版 Windows MySQL 8.0.31 安装包"
+title: "最新版 Windows MySQL 8031 安装包"
 date:   2024-02-20
 tags: [MySQL,31,Windows,8.0,mysql]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libssl1.1 安装包下载"
+title: "libssl11 安装包下载"
 date:   2020-01-14
 tags: [libssl1.1,amd64,1.1,1f,1ubuntu2]
 comments: true

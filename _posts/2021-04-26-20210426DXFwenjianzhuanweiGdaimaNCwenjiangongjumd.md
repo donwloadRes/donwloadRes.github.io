@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF文件转为G代码（NC文件）工具"
+title: "DXF文件转为G代码NC文件工具"
 date:   2023-10-06
 tags: [DXF,文件,工具,代码,转换]
 comments: true

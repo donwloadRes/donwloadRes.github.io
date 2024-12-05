@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[零刻]EQ12 N100 迷你主机：从开箱到安装ESXi+虚拟机"
+title: "零刻EQ12 N100 迷你主机从开箱到安装ESXi虚拟机"
 date:   2021-10-08
 tags: [ESXi,虚拟机,迷你,安装,系统]
 comments: true

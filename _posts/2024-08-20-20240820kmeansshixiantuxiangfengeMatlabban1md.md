@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "k-means实现图像分割（Matlab版）1"
+title: "kmeans实现图像分割Matlab版1"
 date:   2021-09-16
 tags: [Matlab,means,代码,图像,分割]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elsevier（爱思唯尔）论文模板下载地址及说明"
+title: "Elsevier爱思唯尔论文模板下载地址及说明"
 date:   2024-09-23
 tags: [模板,Elsevier,排版,论文,投稿]
 comments: true

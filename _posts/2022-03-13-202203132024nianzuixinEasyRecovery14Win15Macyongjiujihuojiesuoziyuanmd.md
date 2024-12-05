@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最新EasyRecovery 14 Win-15 Mac永久激活解锁资源"
+title: "2024年最新EasyRecovery 14 Win15 Mac永久激活解锁资源"
 date:   2020-04-18
 tags: [EasyRecovery,激活,资源,解锁,14]
 comments: true

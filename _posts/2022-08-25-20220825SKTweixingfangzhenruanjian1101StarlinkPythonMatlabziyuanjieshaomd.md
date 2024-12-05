@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SKT卫星仿真软件11.01 + Starlink + Python-Matlab 资源介绍"
+title: "SKT卫星仿真软件1101  Starlink  PythonMatlab 资源介绍"
 date:   2022-10-21
 tags: [仿真,SKT,教程,11.01,Starlink]
 comments: true

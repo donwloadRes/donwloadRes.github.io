@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0泰克测试解决方案"
+title: "USB20泰克测试解决方案"
 date:   2024-06-04
 tags: [USB2.0,泰克,示波器,眼图,测量]
 comments: true

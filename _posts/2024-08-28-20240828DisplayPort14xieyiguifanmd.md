@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort 1.4 协议规范"
+title: "DisplayPort 14 协议规范"
 date:   2024-01-21
 tags: [1.4,DisplayPort,文件,规范,带宽]
 comments: true

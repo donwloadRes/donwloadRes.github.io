@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享68个毕业答辩PPT模板，总有一款适合您"
+title: "分享68个毕业答辩PPT模板总有一款适合您"
 date:   2020-11-21
 tags: [模板,答辩,PPT,毕业,68]
 comments: true

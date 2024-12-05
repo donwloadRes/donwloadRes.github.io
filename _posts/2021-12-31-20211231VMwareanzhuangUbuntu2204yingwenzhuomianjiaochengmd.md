@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware安装Ubuntu22.04(英文桌面)教程"
+title: "VMware安装Ubuntu2204英文桌面教程"
 date:   2022-12-29
 tags: [虚拟机,Ubuntu,安装,VMware,22.04]
 comments: true

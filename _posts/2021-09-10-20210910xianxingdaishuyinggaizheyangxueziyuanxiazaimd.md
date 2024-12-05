@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数应该这样学》资源下载"
+title: "线性代数应该这样学资源下载"
 date:   2023-01-28
 tags: [线性代数,资源,下载,习题,仓库]
 comments: true

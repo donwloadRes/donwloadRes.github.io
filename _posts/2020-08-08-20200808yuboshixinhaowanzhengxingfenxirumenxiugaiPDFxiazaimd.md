@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "于博士信号完整性分析入门(修改) PDF 下载"
+title: "于博士信号完整性分析入门修改 PDF 下载"
 date:   2023-07-10
 tags: [完整性,信号,PDF,入门,博士]
 comments: true

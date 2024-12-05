@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL Shader Demo - 鱼眼校正"
+title: "OpenGL Shader Demo  鱼眼校正"
 date:   2022-09-05
 tags: [OpenGL,鱼眼,Shader,校正,示例]
 comments: true

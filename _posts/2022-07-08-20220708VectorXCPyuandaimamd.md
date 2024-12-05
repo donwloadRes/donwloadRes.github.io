@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vector-XCP 源代码"
+title: "VectorXCP 源代码"
 date:   2023-08-14
 tags: [XCP,文档,源代码,示例,编译]
 comments: true

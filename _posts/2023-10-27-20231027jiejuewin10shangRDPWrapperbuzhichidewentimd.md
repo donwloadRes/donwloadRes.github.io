@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决win10上“RDP Wrapper不支持”的问题"
+title: "解决win10上RDP Wrapper不支持的问题"
 date:   2022-08-24
 tags: [Windows,RDP,Wrapper,ini,版本]
 comments: true

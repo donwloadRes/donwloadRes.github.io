@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8472协议中文版下载"
+title: "SFF8472协议中文版下载"
 date:   2021-04-04
 tags: [SFF,8472,中文版,文件,协议]
 comments: true

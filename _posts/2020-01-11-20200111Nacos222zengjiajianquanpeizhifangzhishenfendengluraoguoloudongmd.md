@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.2.2 增加鉴权配置，防止身份登陆绕过漏洞"
+title: "Nacos 222 增加鉴权配置防止身份登陆绕过漏洞"
 date:   2023-06-04
 tags: [Nacos,服务,配置,Service,配置文件]
 comments: true

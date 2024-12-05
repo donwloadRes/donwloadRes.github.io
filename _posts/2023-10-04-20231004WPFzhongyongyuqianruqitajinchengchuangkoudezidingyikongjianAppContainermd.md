@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF中用于嵌入其他进程窗口的自定义控件（AppContainer）"
+title: "WPF中用于嵌入其他进程窗口的自定义控件AppContainer"
 date:   2023-01-13
 tags: [控件,WPF,AppContainer,自定义,窗口]
 comments: true

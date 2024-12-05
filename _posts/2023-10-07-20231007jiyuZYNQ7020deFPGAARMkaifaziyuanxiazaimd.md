@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 ZYNQ 7020 的 FPGA + ARM 开发资源下载"
+title: "基于 ZYNQ 7020 的 FPGA  ARM 开发资源下载"
 date:   2020-10-02
 tags: [ZYNQ,7020,FPGA,ARM,开发者]
 comments: true

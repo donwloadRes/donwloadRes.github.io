@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10000+ 图标与Logo资源汇总"
+title: "10000 图标与Logo资源汇总"
 date:   2021-09-12
 tags: [图标,Logo,资源,设计,论坛]
 comments: true

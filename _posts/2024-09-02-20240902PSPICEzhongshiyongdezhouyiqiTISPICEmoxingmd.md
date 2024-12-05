@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSPICE 中使用德州仪器 (TI) SPICE 模型"
+title: "PSPICE 中使用德州仪器 TI SPICE 模型"
 date:   2020-04-18
 tags: [SPICE,PSPICE,TI,模型,德州仪器]
 comments: true

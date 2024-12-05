@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用海康SDK查看摄像头实时图像"
+title: "C调用海康SDK查看摄像头实时图像"
 date:   2023-11-16
 tags: [SDK,海康,威视,摄像头,devPara]
 comments: true

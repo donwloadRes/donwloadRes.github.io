@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio Code 1.70.1 下载仓库"
+title: "Visual Studio Code 1701 下载仓库"
 date:   2020-04-25
 tags: [1.70,code,rpm,Visual,Studio]
 comments: true

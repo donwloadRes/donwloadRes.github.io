@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 离线资源 (适用于 Windows 10)"
+title: "NET Framework 35 离线资源 适用于 Windows 10"
 date:   2020-09-20
 tags: [Windows,安装,NET,Framework,3.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌存储器设计1~7关答案资源"
+title: "头歌存储器设计17关答案资源"
 date:   2023-09-16
 tags: [头歌,电路设计,txt,circ,答案]
 comments: true

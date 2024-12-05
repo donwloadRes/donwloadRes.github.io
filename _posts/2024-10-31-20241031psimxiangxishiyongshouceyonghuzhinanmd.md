@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "psim详细使用手册（用户指南）"
+title: "psim详细使用手册用户指南"
 date:   2024-05-11
 tags: [psim,使用手册,仿真,本手册,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA-200 安装教程资源下载"
+title: "IDEA200 安装教程资源下载"
 date:   2024-03-14
 tags: [教程,200,安装,IDEA,7z]
 comments: true

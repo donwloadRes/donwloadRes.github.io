@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "主波长与色纯度计算软件（免安装版）"
+title: "主波长与色纯度计算软件免安装版"
 date:   2024-03-21
 tags: [主波长,exe,纯度,软件,文件]
 comments: true

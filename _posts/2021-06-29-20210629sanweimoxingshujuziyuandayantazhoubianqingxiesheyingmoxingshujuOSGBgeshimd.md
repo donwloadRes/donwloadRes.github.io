@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【三维模型数据资源】大雁塔周边倾斜摄影模型数据OSGB格式"
+title: "三维模型数据资源大雁塔周边倾斜摄影模型数据OSGB格式"
 date:   2020-08-06
 tags: [三维,数据,OSGB,大雁塔,分辨率]
 comments: true

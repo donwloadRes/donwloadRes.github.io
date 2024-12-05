@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在SAP前台用TCODE：SE16H实现表连接查询"
+title: "在SAP前台用TCODESE16H实现表连接查询"
 date:   2023-04-22
 tags: [SE16H,SAP,连接,查询,工具]
 comments: true

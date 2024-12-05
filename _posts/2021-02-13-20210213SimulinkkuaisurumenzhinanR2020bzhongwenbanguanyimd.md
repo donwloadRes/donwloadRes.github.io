@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink 快速入门指南 (R2020b) 中文版（官译）"
+title: "Simulink 快速入门指南 R2020b 中文版官译"
 date:   2020-05-07
 tags: [Simulink,指南,R2020b,PDF,中文版]
 comments: true

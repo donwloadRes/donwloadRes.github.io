@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东南大学SoC设计基础（系统芯片设计）资源下载"
+title: "东南大学SoC设计基础系统芯片设计资源下载"
 date:   2022-08-21
 tags: [设计,芯片,SoC,东南大学,系统]
 comments: true

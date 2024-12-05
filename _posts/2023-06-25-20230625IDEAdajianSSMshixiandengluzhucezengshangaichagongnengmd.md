@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA搭建SSM实现登录、注册，增删改查功能"
+title: "IDEA搭建SSM实现登录注册增删改查功能"
 date:   2020-02-27
 tags: [IDEA,改查,Spring,增删,登录]
 comments: true

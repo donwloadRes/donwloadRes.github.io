@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 安装 Dlib 资源文件介绍"
+title: "Python 38 安装 Dlib 资源文件介绍"
 date:   2023-09-05
 tags: [Dlib,cp38,文件,安装,Python]
 comments: true

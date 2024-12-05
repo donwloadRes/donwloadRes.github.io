@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp-省市区地区选择器"
+title: "uniapp省市区地区选择器"
 date:   2021-09-06
 tags: [组件,选择器,省市区,数据源,uniapp]
 comments: true

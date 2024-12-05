@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audition（Au）2024 下载与安装指南"
+title: "AuditionAu2024 下载与安装指南"
 date:   2024-08-17
 tags: [Audition,2024,安装,安装包,Adobe]
 comments: true

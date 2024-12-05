@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧盟无线电标准 ETSI EN 300 328 V2.2.2 下载"
+title: "欧盟无线电标准 ETSI EN 300 328 V222 下载"
 date:   2024-03-11
 tags: [无线,ETSI,EN,300,328]
 comments: true

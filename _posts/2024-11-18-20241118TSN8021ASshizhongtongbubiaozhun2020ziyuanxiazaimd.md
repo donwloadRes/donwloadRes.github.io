@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSN 802.1AS时钟同步标准2020 资源下载"
+title: "TSN 8021AS时钟同步标准2020 资源下载"
 date:   2024-05-02
 tags: [同步,TSN,802.1,2020,文件]
 comments: true

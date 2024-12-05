@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "污染物在线监控（监测）系统数据传输标准"
+title: "污染物在线监控监测系统数据传输标准"
 date:   2022-09-21
 tags: [数据传输,监控,命令,污染物,标准]
 comments: true

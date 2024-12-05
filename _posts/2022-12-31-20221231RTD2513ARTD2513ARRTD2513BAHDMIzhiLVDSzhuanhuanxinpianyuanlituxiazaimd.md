@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2513A-RTD2513AR-RTD2513BA HDMI至LVDS转换芯片原理图下载"
+title: "RTD2513ARTD2513ARRTD2513BA HDMI至LVDS转换芯片原理图下载"
 date:   2021-12-18
 tags: [原理图,芯片,LVDS,HDMI,RTD2513]
 comments: true

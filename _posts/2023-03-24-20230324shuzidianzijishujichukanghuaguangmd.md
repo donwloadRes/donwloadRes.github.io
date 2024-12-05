@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础(康华光)"
+title: "数字电子技术基础康华光"
 date:   2020-10-21
 tags: [学习,电子,数字,华光,数字电路]
 comments: true

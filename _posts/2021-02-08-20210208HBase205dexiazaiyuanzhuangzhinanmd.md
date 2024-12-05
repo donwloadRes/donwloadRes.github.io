@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HBase 2.0.5 的下载与安装指南"
+title: "HBase 205 的下载与安装指南"
 date:   2022-05-07
 tags: [HBase,hbase,2.0,property,name]
 comments: true

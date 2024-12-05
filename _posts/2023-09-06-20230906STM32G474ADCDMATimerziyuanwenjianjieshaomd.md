@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G474 ADC+DMA+Timer 资源文件介绍"
+title: "STM32G474 ADCDMATimer 资源文件介绍"
 date:   2024-04-29
 tags: [ADC,定时器,DMA,转换,配置]
 comments: true

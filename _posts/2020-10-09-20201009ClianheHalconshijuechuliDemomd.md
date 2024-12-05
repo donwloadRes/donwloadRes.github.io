@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#联合Halcon视觉处理Demo"
+title: "C联合Halcon视觉处理Demo"
 date:   2022-07-06
 tags: [Halcon,标定,相机,Demo,识别]
 comments: true

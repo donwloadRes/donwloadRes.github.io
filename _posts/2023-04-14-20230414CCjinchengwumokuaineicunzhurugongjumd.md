@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 进程无模块内存注入工具"
+title: "CC 进程无模块内存注入工具"
 date:   2022-05-11
 tags: [注入,模块,内存,代码,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt6.2+QtDS多功能串口助手学习资源"
+title: "Qt62QtDS多功能串口助手学习资源"
 date:   2021-08-24
 tags: [QML,串口,Qt6.2,QtDS,C++]
 comments: true

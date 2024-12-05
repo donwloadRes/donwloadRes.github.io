@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONVIF 协议网络摄像机开发C++源代码"
+title: "ONVIF 协议网络摄像机开发C源代码"
 date:   2022-03-22
 tags: [ONVIF,源代码,摄像机,博主,网络]
 comments: true

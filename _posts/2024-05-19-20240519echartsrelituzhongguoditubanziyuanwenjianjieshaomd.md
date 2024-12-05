@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "echarts 热力图（中国地图版）资源文件介绍"
+title: "echarts 热力图中国地图版资源文件介绍"
 date:   2023-07-02
 tags: [力图,echarts,地图,文件,示例]
 comments: true

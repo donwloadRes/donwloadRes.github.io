@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModbusTcp_Master代码框架修正版"
+title: "ModbusTcpMaster代码框架修正版"
 date:   2022-02-27
 tags: [代码,反馈,框架,ModbusTcp,Master]
 comments: true

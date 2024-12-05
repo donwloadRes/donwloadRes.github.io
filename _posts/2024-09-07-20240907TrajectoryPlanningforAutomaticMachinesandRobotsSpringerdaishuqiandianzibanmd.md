@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trajectory Planning for Automatic Machines and Robots - Springer带书签电子版"
+title: "Trajectory Planning for Automatic Machines and Robots  Springer带书签电子版"
 date:   2024-05-26
 tags: [书签,Springer,Trajectory,Planning,Automatic]
 comments: true

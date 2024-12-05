@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arthas：追踪堆栈，监控服务，拆箱即用"
+title: "Arthas追踪堆栈监控服务拆箱即用"
 date:   2023-11-10
 tags: [Arthas,堆栈,监控,追踪,服务]
 comments: true

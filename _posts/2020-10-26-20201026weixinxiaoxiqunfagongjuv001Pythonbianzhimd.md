@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信消息群发工具 v0.0.1 - Python编制"
+title: "微信消息群发工具 v001  Python编制"
 date:   2020-09-17
 tags: [群发,微信,Python,消息,工具]
 comments: true

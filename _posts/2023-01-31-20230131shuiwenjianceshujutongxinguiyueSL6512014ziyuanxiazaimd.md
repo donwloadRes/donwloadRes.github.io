@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水文监测数据通信规约（SL651-2014）资源下载"
+title: "水文监测数据通信规约SL6512014资源下载"
 date:   2022-06-26
 tags: [数据通信,监测,水文,SL651,2014]
 comments: true

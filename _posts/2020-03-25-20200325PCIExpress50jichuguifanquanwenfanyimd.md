@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 5.0 基础规范全文翻译"
+title: "PCI Express 50 基础规范全文翻译"
 date:   2021-12-22
 tags: [PCI,Express,5.0,翻译,文件]
 comments: true

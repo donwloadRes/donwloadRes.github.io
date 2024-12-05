@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计——社会捐赠监督资源文件下载"
+title: "毕业设计社会捐赠监督资源文件下载"
 date:   2022-06-16
 tags: [捐赠,文件,资源,监督,毕业设计]
 comments: true

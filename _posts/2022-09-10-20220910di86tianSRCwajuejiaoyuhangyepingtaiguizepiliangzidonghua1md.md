@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第86天：SRC挖掘-教育行业平台&规则&批量自动化1"
+title: "第86天SRC挖掘教育行业平台规则批量自动化1"
 date:   2024-09-05
 tags: [SRC,自动化,挖掘,教育,批量]
 comments: true

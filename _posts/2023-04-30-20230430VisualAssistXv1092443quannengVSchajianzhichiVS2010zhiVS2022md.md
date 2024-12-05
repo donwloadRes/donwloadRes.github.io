@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Assist X v10.9.2443 - 全能VS插件，支持VS2010至VS2022"
+title: "Visual Assist X v1092443  全能VS插件支持VS2010至VS2022"
 date:   2023-02-17
 tags: [Visual,Studio,Assist,插件,2443]
 comments: true

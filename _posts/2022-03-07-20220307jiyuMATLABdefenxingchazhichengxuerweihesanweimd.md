@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的分形插值程序（二维和三维）"
+title: "基于MATLAB的分形插值程序二维和三维"
 date:   2023-12-12
 tags: [插值,MATLAB,分形,二维,三维]
 comments: true

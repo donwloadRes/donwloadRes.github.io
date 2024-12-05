@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Windows的蓝牙扫描、连接、通讯 (VS2010成功运行)"
+title: "基于Windows的蓝牙扫描连接通讯 VS2010成功运行"
 date:   2023-10-17
 tags: [蓝牙,Windows,Visual,Studio,2010]
 comments: true

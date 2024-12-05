@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACSPL+编程入门指南"
+title: "ACSPL编程入门指南"
 date:   2021-07-12
 tags: [编程,ACSPL,PPT,入门,学习]
 comments: true

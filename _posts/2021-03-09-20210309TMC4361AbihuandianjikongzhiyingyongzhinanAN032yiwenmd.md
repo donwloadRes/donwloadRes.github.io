@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMC4361A闭环电机控制应用指南（AN032译文）"
+title: "TMC4361A闭环电机控制应用指南AN032译文"
 date:   2020-10-09
 tags: [TMC4361A,电机,步进,闭环控制,指南]
 comments: true

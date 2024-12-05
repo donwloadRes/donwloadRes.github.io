@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凯斯西储大学（CWRU）滚动轴承数据集"
+title: "凯斯西储大学CWRU滚动轴承数据集"
 date:   2023-05-24
 tags: [滚动轴承,西储,CWRU,凯斯,数据]
 comments: true

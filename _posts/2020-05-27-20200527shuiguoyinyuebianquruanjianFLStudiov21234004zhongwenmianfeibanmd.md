@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水果音乐编曲软件 FL Studio v21.2.3.4004 中文免费版"
+title: "水果音乐编曲软件 FL Studio v21234004 中文免费版"
 date:   2023-01-02
 tags: [FL,Studio,3.4004,中文,v21.2]
 comments: true

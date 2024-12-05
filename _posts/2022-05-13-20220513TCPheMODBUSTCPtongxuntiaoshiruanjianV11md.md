@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP和MODBUS-TCP通讯调试软件V1.1"
+title: "TCP和MODBUSTCP通讯调试软件V11"
 date:   2022-03-26
 tags: [TCP,调试,软件,MODBUS,通讯]
 comments: true

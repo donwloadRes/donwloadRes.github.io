@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDS诊断协议ISO 14229-6 资源下载"
+title: "UDS诊断协议ISO 142296 资源下载"
 date:   2020-01-30
 tags: [UDS,ISO,14229,资源,诊断]
 comments: true

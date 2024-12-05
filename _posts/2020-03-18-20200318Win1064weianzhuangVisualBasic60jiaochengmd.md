@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 64位安装Visual Basic 6.0教程"
+title: "Win10 64位安装Visual Basic 60教程"
 date:   2023-01-25
 tags: [安装,64,Visual,教程,Basic]
 comments: true

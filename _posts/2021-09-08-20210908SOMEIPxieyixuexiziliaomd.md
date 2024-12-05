@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOME-IP协议学习资料"
+title: "SOMEIP协议学习资料"
 date:   2023-10-16
 tags: [SOME,IP,协议,车载,文件]
 comments: true

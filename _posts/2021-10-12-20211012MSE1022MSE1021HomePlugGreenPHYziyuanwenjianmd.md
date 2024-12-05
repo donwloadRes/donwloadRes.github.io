@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSE1022-MSE1021 HomePlugGreenPHY 资源文件"
+title: "MSE1022MSE1021 HomePlugGreenPHY 资源文件"
 date:   2023-04-11
 tags: [文件,HomePlugGreenPHY,资源,示例,文档]
 comments: true

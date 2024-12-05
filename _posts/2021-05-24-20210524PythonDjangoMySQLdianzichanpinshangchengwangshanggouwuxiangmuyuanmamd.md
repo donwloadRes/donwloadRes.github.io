@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Django+MySQL电子产品商城网上购物项目源码"
+title: "PythonDjangoMySQL电子产品商城网上购物项目源码"
 date:   2022-11-06
 tags: [用户,Django,MySQL,购物车,课程设计]
 comments: true

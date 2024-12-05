@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux操作系统下的RTL8152-8153网卡信息烧录工具PGTool-Linux"
+title: "Linux操作系统下的RTL81528153网卡信息烧录工具PGToolLinux"
 date:   2023-06-17
 tags: [烧录,Linux,网卡,信息,PGTool]
 comments: true

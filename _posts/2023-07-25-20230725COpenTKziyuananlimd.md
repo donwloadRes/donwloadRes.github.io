@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OpenTK资源案例"
+title: "C OpenTK资源案例"
 date:   2020-05-06
 tags: [OpenGL,C#,OpenTK,API,案例]
 comments: true

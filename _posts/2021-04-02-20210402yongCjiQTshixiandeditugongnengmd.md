@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用C++及QT实现的地图功能"
+title: "用C及QT实现的地图功能"
 date:   2021-01-16
 tags: [QT,C++,地图,地图功能,项目]
 comments: true

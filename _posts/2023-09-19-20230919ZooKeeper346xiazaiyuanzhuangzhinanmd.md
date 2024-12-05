@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZooKeeper 3.4.6 下载与安装指南"
+title: "ZooKeeper 346 下载与安装指南"
 date:   2020-11-26
 tags: [ZooKeeper,下载,3.4,闪退,zoo]
 comments: true

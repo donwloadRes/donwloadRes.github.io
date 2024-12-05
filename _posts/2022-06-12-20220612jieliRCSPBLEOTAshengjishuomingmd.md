@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杰理RCSP-BLE-OTA升级说明"
+title: "杰理RCSPBLEOTA升级说明"
 date:   2020-02-25
 tags: [杰理,OTA,升级,备份,BLE]
 comments: true

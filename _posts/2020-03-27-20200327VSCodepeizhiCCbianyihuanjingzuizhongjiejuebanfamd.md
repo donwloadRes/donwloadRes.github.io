@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode配置C-C++编译环境（最终解决办法）"
+title: "VSCode配置CC编译环境最终解决办法"
 date:   2021-10-16
 tags: [VSCode,教程,C++,编译,配置]
 comments: true

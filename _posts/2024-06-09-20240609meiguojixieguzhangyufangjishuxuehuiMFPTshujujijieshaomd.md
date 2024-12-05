@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国-机械故障预防技术学会MFPT数据集介绍"
+title: "美国机械故障预防技术学会MFPT数据集介绍"
 date:   2020-11-09
 tags: [故障,数据,轴承,机械故障,MFPT]
 comments: true

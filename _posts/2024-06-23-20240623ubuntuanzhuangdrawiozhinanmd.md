@@ -1,6 +1,67 @@
 ---
 layout: post
-title: "ubuntu安装draw.io指南"
+title: "ubuntu安装drawio指南
+date   20200619
+tags drawiodrawiofishAppImage
+comments true
+author admin
+
+ ubuntu安装drawio指南
+
+ 概述
+
+本文档为您提供了一份详尽的指南旨在帮助您在Ubuntu操作系统上顺利安装drawio这一强大的绘图软件drawio是一款优秀的跨平台图形设计工具支持绘制包括思维导图UML图流程图在内的多种图表且完全免费并开源无论是专业的技术文档绘制还是日常的工作学习需求drawio都能满足您的需求
+
+ 安装步骤
+
+ 获取安装包
+
+访问drawio的GitHub释放页面或通过社区分享的链接下载适用于Ubuntu的安装包推荐选择deb包以利用Ubuntu的默认软件管理机制或选择AppImage文件后者直接运行即可无需安装
+
+ 使用DEB包
+1 下载最新版本的deb文件
+2 双击文件或在终端使用命令安装
+   
+   sudo dpkg i drawioamd64版本号deb
+   
+
+ 使用AppImage包
+1 下载AppImage文件
+2 给予执行权限
+   
+   chmod ax drawiox8664版本号AppImage
+   
+3 直接运行执行文件启动drawio
+
+ 创建快捷方式
+
+为了便于使用您可以创建一个桌面快捷方式和命令行alias
+
+ 桌面快捷方式
+1 创建一个新的desktop文件如drawiodesktop并放置于usrshareapplications目录可能需管理员权限
+   
+   sudo touch usrshareapplicationsdrawiodesktop
+   sudo nano usrshareapplicationsdrawiodesktop
+   
+2 编辑此文件填入如下内容
+   
+   Desktop Entry
+   EncodingUTF8
+   Namedrawio
+   Commentdrawio 图形编辑器
+   ExecpathtoyourdrawioAppImage 或者 optdrawiodrawio
+   Iconpathtoiconxpm
+   Terminalfalse
+   StartupNotifytrue
+   TypeApplication
+   CategoriesOffice
+   
+
+ 命令行Alias
+对于快速命令行启动可以在用户配置文件中添加alias
+ 对于bash用户在bashrc或profile中加入
+  
+  alias drawiopathtoyourdrawioAppImage"
 date:   2020-06-19
 tags: [draw,io,drawio,fish,AppImage]
 comments: true

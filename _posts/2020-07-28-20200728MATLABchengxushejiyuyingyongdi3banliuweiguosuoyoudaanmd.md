@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB程序设计与应用（第3版）-刘卫国所有答案"
+title: "MATLAB程序设计与应用第3版刘卫国所有答案"
 date:   2024-08-25
 tags: [MATLAB,答案,程序设计,编程,源码]
 comments: true

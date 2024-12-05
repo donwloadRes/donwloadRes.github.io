@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "标准Project模板.mpp（真实项目）"
+title: "标准Project模板mpp真实项目"
 date:   2024-06-14
 tags: [项目管理,模板,Project,mpp,文件]
 comments: true

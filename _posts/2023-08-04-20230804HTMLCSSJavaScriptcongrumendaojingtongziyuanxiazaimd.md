@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JavaScript从入门到精通资源下载"
+title: "HTMLCSSJavaScript从入门到精通资源下载"
 date:   2021-05-08
 tags: [入门,精通,HTML,CSS,JavaScript]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸杂交版v2.08版本无bug（双击即可一键安装打开）"
+title: "植物大战僵尸杂交版v208版本无bug双击即可一键安装打开"
 date:   2024-10-24
 tags: [游戏,杂交,双击,植物,v2.08]
 comments: true

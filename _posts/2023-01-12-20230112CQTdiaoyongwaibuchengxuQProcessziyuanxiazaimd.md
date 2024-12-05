@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT调用外部程序（QProcess）资源下载"
+title: "C QT调用外部程序QProcess资源下载"
 date:   2022-01-01
 tags: [QProcess,QT,外部,程序,调用]
 comments: true

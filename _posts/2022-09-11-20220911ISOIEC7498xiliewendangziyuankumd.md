@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 7498 系列文档资源库"
+title: "ISOIEC 7498 系列文档资源库"
 date:   2023-10-07
 tags: [文档,OSI,简介,网络,英文]
 comments: true

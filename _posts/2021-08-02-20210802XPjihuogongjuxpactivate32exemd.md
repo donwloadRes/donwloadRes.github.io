@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XP激活工具 - xp-activate32.exe"
+title: "XP激活工具  xpactivate32exe"
 date:   2022-06-13
 tags: [XP,xp,activate32,exe,Windows]
 comments: true

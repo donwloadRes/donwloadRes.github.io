@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.12 WinGW64 音乐播放器源代码"
+title: "Qt512 WinGW64 音乐播放器源代码"
 date:   2022-02-21
 tags: [源代码,播放器,Qt5.12,音乐文件,音乐]
 comments: true

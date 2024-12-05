@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.3-2018 Ethernet 协议完整文档"
+title: "80232018 Ethernet 协议完整文档"
 date:   2023-01-08
 tags: [以太网,802.3,文档,2018,IEEE]
 comments: true

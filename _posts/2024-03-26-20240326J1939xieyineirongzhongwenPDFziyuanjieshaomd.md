@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J1939协议内容（中文PDF）资源介绍"
+title: "J1939协议内容中文PDF资源介绍"
 date:   2021-08-13
 tags: [J1939,协议,PDF,中文,文档]
 comments: true

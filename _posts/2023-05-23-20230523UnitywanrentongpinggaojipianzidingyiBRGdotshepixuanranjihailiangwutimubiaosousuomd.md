@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity万人同屏高级篇：自定义BRG&dots合批渲染及海量物体目标搜索"
+title: "Unity万人同屏高级篇自定义BRGdots合批渲染及海量物体目标搜索"
 date:   2024-08-22
 tags: [渲染,Unity,搜索,DOTS,Jobs]
 comments: true

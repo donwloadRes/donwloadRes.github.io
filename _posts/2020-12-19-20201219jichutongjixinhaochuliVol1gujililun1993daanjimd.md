@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基础统计信号处理（Vol.1）- 估计理论 _1993_ 答案集"
+title: "基础统计信号处理Vol1 估计理论 1993 答案集"
 date:   2021-05-25
 tags: [信号处理,答案,1993,学习,统计]
 comments: true

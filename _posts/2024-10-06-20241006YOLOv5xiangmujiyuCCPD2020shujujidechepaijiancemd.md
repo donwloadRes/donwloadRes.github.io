@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5项目：基于CCPD2020数据集的车牌检测"
+title: "YOLOv5项目基于CCPD2020数据集的车牌检测"
 date:   2021-09-28
 tags: [CCPD2020,车牌,模型,YOLOv5,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于经验模态分解（EMD）的Matlab去噪代码库"
+title: "基于经验模态分解EMD的Matlab去噪代码库"
 date:   2020-07-29
 tags: [EMD,信号,代码,模态,示例]
 comments: true

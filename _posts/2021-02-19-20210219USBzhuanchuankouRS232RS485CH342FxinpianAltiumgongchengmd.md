@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转串口，RS232+RS485 CH342F芯片 Altium 工程"
+title: "USB转串口RS232RS485 CH342F芯片 Altium 工程"
 date:   2020-10-11
 tags: [Altium,工程,文件,设计,Designer]
 comments: true

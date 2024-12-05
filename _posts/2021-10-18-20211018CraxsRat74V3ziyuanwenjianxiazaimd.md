@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CraxsRat 7.4V3 资源文件下载"
+title: "CraxsRat 74V3 资源文件下载"
 date:   2020-05-22
 tags: [V3,7.4,CraxsRat,文件,下载]
 comments: true

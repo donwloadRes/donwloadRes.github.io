@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetFramework3.5 安装资源免费下载"
+title: "NetFramework35 安装资源免费下载"
 date:   2022-10-23
 tags: [安装,NetFramework3.5,Windows,10,下载]
 comments: true

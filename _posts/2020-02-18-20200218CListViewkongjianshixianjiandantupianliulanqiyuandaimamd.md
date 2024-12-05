@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ListView控件实现简单图片浏览器源代码"
+title: "C ListView控件实现简单图片浏览器源代码"
 date:   2020-09-11
 tags: [ListView,C#,图片,控件,源代码]
 comments: true

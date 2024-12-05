@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10系统安装Linux虚拟机（Ubuntu）超详细教程"
+title: "Windows10系统安装Linux虚拟机Ubuntu超详细教程"
 date:   2022-11-22
 tags: [虚拟机,Ubuntu,安装,Linux,选择]
 comments: true

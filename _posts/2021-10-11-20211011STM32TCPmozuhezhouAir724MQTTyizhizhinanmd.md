@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+TCP模组(合宙Air724) MQTT移植指南"
+title: "STM32TCP模组合宙Air724 MQTT移植指南"
 date:   2021-04-03
 tags: [MQTT,STM32,模组,合宙,Air724]
 comments: true

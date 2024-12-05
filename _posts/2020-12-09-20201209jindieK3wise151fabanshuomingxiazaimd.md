@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶K3wise15.1发版说明下载"
+title: "金蝶K3wise151发版说明下载"
 date:   2022-12-14
 tags: [金蝶,K3wise15.1,发版,下载,说明]
 comments: true

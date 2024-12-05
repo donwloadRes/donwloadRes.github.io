@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常齐全的芯片封装大全(含图片)"
+title: "非常齐全的芯片封装大全含图片"
 date:   2020-02-18
 tags: [封装,芯片,文件,大全,图片]
 comments: true

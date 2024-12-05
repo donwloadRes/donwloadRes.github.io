@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# AnyCAD 三维动画模型演示 DEMO"
+title: "C AnyCAD 三维动画模型演示 DEMO"
 date:   2020-05-07
 tags: [三维动画,AnyCAD,缩放,模型,DEMO]
 comments: true

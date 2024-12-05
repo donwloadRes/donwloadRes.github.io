@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB代码转换为C#代码工具"
+title: "VB代码转换为C代码工具"
 date:   2020-06-20
 tags: [代码,转换,VB,工具,C#]
 comments: true

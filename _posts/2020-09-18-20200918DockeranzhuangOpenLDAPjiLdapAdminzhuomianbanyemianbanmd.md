@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker 安装 OpenLDAP 及 LdapAdmin 桌面版、页面版"
+title: "Docker 安装 OpenLDAP 及 LdapAdmin 桌面版页面版"
 date:   2021-11-29
 tags: [LdapAdmin,OpenLDAP,Docker,桌面版,页面]
 comments: true

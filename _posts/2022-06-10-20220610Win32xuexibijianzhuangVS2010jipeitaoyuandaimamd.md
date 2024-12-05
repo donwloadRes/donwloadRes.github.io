@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win32学习笔记——安装VS2010及配套源代码"
+title: "Win32学习笔记安装VS2010及配套源代码"
 date:   2024-08-06
 tags: [VS2010,Win32,安装,源代码,学习]
 comments: true

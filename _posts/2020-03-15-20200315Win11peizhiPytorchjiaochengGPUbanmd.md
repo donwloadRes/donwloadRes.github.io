@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11配置Pytorch教程(GPU版)"
+title: "Win11配置Pytorch教程GPU版"
 date:   2022-05-05
 tags: [Pytorch,CUDA,安装,GPU,显卡]
 comments: true

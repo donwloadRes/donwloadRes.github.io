@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESD -S20.20 -2021年，最新中文版静电防护资源下载"
+title: "ESD S2020 2021年最新中文版静电防护资源下载"
 date:   2024-04-09
 tags: [2021,ESD,S20.20,静电,中文版]
 comments: true

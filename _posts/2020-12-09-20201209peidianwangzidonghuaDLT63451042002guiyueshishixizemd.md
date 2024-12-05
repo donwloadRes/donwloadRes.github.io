@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "配电网自动化 DLT634.5104-2002规约实施细则"
+title: "配电网自动化 DLT63451042002规约实施细则"
 date:   2020-05-29
 tags: [规约,配电网,DLT634.5104,2002,自动化]
 comments: true

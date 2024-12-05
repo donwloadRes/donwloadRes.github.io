@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIX环境高级编程（中文第三版）资源下载"
+title: "UNIX环境高级编程中文第三版资源下载"
 date:   2024-07-17
 tags: [UNIX,第三版,编程,PDF,中文]
 comments: true

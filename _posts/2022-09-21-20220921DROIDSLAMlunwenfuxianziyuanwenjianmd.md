@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DROID-SLAM论文复现资源文件"
+title: "DROIDSLAM论文复现资源文件"
 date:   2023-04-26
 tags: [复现,文档,DROID,SLAM,论文]
 comments: true

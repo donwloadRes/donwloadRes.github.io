@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF书签批量自动导入和导出工具: PDFBookmark-Exchanger"
+title: "PDF书签批量自动导入和导出工具 PDFBookmarkExchanger"
 date:   2023-04-13
 tags: [书签,PDF,PDFBookmark,Exchanger,导入]
 comments: true

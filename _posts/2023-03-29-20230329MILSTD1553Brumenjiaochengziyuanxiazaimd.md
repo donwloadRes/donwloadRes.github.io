@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIL-STD-1553B入门教程资源下载"
+title: "MILSTD1553B入门教程资源下载"
 date:   2024-03-10
 tags: [1553B,总线,ZHHK1553B,MIL,STD]
 comments: true

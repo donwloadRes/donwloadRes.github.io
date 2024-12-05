@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G-RedCap轻量化通用模组技术要求白皮书 2023 - 中国移动"
+title: "5GRedCap轻量化通用模组技术要求白皮书 2023  中国移动"
 date:   2024-03-16
 tags: [5G,模组,轻量化,白皮书,RedCap]
 comments: true

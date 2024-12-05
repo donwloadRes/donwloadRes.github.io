@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF文件处理库 - C# WinForm图形绘制与编辑解决方案"
+title: "DXF文件处理库  C WinForm图形绘制与编辑解决方案"
 date:   2023-07-07
 tags: [DXF,图形,文件,C#,WinForm]
 comments: true

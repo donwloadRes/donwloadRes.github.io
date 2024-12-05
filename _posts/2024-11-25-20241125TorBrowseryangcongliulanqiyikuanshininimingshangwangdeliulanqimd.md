@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tor Browser（洋葱浏览器）——一款使你匿名上网的浏览器"
+title: "Tor Browser洋葱浏览器一款使你匿名上网的浏览器"
 date:   2024-03-17
 tags: [Tor,Browser,浏览器,用户,匿名]
 comments: true

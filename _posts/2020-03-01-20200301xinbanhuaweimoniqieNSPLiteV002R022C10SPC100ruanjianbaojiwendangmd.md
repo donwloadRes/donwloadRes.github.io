@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新版华为模拟器eNSP-Lite V002R022C10SPC100 软件包及文档"
+title: "新版华为模拟器eNSPLite V002R022C10SPC100 软件包及文档"
 date:   2024-06-16
 tags: [eNSP,Lite,文档,V002R022C10SPC100,模拟器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛海三江编程软件PCSet V2.3 下载仓库"
+title: "泛海三江编程软件PCSet V23 下载仓库"
 date:   2021-09-20
 tags: [V2.3,PCSet,编程,软件,三江]
 comments: true

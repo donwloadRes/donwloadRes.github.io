@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VOFA+：PID速度环调参资源文件介绍"
+title: "VOFAPID速度环调参资源文件介绍"
 date:   2021-08-30
 tags: [PID,VOFA,调参,文件,资源]
 comments: true

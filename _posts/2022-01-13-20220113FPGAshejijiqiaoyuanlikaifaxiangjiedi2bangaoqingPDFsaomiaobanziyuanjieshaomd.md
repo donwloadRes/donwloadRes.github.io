@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA设计技巧与案例开发详解 第2版 - 高清PDF扫描版资源介绍"
+title: "FPGA设计技巧与案例开发详解 第2版  高清PDF扫描版资源介绍"
 date:   2020-11-10
 tags: [FPGA,PDF,高清,资源,详解]
 comments: true

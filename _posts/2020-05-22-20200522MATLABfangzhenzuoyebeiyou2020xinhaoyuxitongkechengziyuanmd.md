@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真作业 - 北邮2020信号与系统课程资源"
+title: "MATLAB仿真作业  北邮2020信号与系统课程资源"
 date:   2023-06-15
 tags: [MATLAB,信号,课程,2020,系统]
 comments: true

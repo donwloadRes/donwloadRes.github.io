@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPI-DMA 收发实验资源文件介绍"
+title: "SPIDMA 收发实验资源文件介绍"
 date:   2021-06-11
 tags: [DMA,SPI,开发者,实验,文件]
 comments: true

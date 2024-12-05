@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++设计模式学习资源"
+title: "C设计模式学习资源"
 date:   2023-06-01
 tags: [设计模式,C++,23,pdf,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastStone Capture：一款强大且高效的截图工具"
+title: "FastStone Capture一款强大且高效的截图工具"
 date:   2020-04-19
 tags: [截图,FastStone,Capture,屏幕,分享]
 comments: true

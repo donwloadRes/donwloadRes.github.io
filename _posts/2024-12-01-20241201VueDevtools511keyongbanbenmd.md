@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Devtools 5.1.1 可用版本"
+title: "Vue Devtools 511 可用版本"
 date:   2022-04-14
 tags: [文件,5.1,解压,Vue,Devtools]
 comments: true

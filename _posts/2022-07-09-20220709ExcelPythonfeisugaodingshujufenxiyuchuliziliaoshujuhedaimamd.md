@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel Python：飞速搞定数据分析与处理 资料数据和代码"
+title: "Excel Python飞速搞定数据分析与处理 资料数据和代码"
 date:   2022-06-29
 tags: [代码,Python,数据分析,Excel,书中]
 comments: true

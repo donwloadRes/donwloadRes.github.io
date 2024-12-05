@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NUCLEO-STM32H743 资源文件下载"
+title: "NUCLEOSTM32H743 资源文件下载"
 date:   2023-05-22
 tags: [NUCLEO,评估,文件,STM32H743,H743ZI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿微信好友列表 - QT QListView实现"
+title: "仿微信好友列表  QT QListView实现"
 date:   2023-05-01
 tags: [列表,好友,仿微信,QT,QListView]
 comments: true

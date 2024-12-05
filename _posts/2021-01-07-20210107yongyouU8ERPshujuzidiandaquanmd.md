@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8-ERP数据字典大全"
+title: "用友U8ERP数据字典大全"
 date:   2022-06-18
 tags: [字典,U8,ERP,用友,数据]
 comments: true

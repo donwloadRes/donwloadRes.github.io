@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国软件行业基准数据报告（SSM-BK-202209）"
+title: "中国软件行业基准数据报告SSMBK202209"
 date:   2020-05-22
 tags: [软件,报告,行业,SSM,BK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大道至简——RISC-V架构之魂（中）资源下载"
+title: "大道至简RISCV架构之魂中资源下载"
 date:   2021-07-01
 tags: [RISC,架构,大道至简,之魂,pdf]
 comments: true

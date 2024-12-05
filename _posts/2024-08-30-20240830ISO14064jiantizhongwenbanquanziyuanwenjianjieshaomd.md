@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 14064 简体中文版（全）资源文件介绍"
+title: "ISO 14064 简体中文版全资源文件介绍"
 date:   2020-10-26
 tags: [GHG,ISO,14064,核查,文件]
 comments: true

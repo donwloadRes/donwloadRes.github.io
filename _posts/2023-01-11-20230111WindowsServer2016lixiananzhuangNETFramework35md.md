@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2016离线安装.NET Framework 3.5"
+title: "Windows Server 2016离线安装NET Framework 35"
 date:   2023-05-14
 tags: [安装,NET,Framework,3.5,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI Vision Assistant中文入门教程(带书签)"
+title: "NI Vision Assistant中文入门教程带书签"
 date:   2021-08-18
 tags: [NI,Vision,Assistant,书签,图像处理]
 comments: true

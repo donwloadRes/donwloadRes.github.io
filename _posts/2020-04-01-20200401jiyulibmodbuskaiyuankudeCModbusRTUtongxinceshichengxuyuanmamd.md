@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于libmodbus开源库的C++ Modbus-RTU通信测试程序源码"
+title: "基于libmodbus开源库的C ModbusRTU通信测试程序源码"
 date:   2021-04-18
 tags: [Modbus,RTU,libmodbus,通信,寄存器]
 comments: true

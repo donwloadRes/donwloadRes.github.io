@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于卷积神经网络的Fashion-MNIST图像识别"
+title: "基于卷积神经网络的FashionMNIST图像识别"
 date:   2023-10-26
 tags: [MNIST,模型,Fashion,训练,脚本]
 comments: true

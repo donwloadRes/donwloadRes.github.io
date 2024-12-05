@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stm32读取海德汉光栅尺（绝对位置）"
+title: "Stm32读取海德汉光栅尺绝对位置"
 date:   2024-01-01
 tags: [光栅尺,STM32,海德,读取,位置]
 comments: true

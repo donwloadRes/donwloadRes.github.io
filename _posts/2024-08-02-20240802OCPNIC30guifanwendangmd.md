@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCP_NIC_3.0 规范文档"
+title: "OCPNIC30 规范文档"
 date:   2023-04-04
 tags: [OCP3.0,接口,网卡,设计,OCP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MVC + EasyUI + ECharts 后台管理系统完整源码"
+title: "C MVC  EasyUI  ECharts 后台管理系统完整源码"
 date:   2020-04-28
 tags: [数据库,EasyUI,SQL,Server,项目]
 comments: true

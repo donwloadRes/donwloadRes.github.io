@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN P8初学者手册（中文）下载"
+title: "EPLAN P8初学者手册中文下载"
 date:   2020-05-24
 tags: [EPLAN,P8,初学者,手册,中文]
 comments: true

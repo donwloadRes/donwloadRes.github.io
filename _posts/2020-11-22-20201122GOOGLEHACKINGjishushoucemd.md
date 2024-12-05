@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GOOGLE_HACKING技术手册"
+title: "GOOGLEHACKING技术手册"
 date:   2022-07-10
 tags: [GOOGLE,HACKING,Google,手册,网络安全]
 comments: true

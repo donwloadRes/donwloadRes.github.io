@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10-11 重启电脑自动开启热点"
+title: "Windows 1011 重启电脑自动开启热点"
 date:   2023-11-30
 tags: [开启,Windows,热点,快捷方式,手动]
 comments: true

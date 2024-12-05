@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统（Oppenheim 英文版）PDF 下载"
+title: "信号与系统Oppenheim 英文版PDF 下载"
 date:   2022-08-31
 tags: [Oppenheim,PDF,下载,信号,Signals]
 comments: true

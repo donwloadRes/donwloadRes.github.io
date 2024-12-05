@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 离线安装 RabbitMQ 指南"
+title: "Ubuntu 2004 离线安装 RabbitMQ 指南"
 date:   2024-07-18
 tags: [RabbitMQ,安装,Erlang,离线,Ubuntu]
 comments: true

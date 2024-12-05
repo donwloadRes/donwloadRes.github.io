@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为-原理图绘制评审规范"
+title: "华为原理图绘制评审规范"
 date:   2022-07-03
 tags: [原理图,华为,规范,评审,绘制]
 comments: true

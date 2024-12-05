@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决NET2.0问题的文件"
+title: "解决NET20问题的文件"
 date:   2020-06-13
 tags: [IIS,文件,NET2.0,问题,修复]
 comments: true

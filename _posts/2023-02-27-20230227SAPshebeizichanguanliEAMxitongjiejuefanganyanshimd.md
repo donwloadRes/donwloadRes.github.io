@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP设备资产管理(EAM)系统解决方案演示"
+title: "SAP设备资产管理EAM系统解决方案演示"
 date:   2020-12-16
 tags: [EAM,SAP,设备,管理,演示]
 comments: true

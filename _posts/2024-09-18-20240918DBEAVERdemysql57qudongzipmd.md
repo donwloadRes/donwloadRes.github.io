@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBEAVER的mysql5.7驱动.zip"
+title: "DBEAVER的mysql57驱动zip"
 date:   2024-09-16
 tags: [DBEAVER,MySQL,5.7,数据库,驱动]
 comments: true

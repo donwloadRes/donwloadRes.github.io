@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Odoo从入门到实战：Python开发ERP指南"
+title: "Odoo从入门到实战Python开发ERP指南"
 date:   2023-09-25
 tags: [Odoo,Python,ERP,开发,实战]
 comments: true

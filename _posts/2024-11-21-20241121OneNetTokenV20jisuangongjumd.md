@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OneNet Token V2.0 计算工具"
+title: "OneNet Token V20 计算工具"
 date:   2021-02-13
 tags: [Token,OneNet,工具,V2.0,生成]
 comments: true

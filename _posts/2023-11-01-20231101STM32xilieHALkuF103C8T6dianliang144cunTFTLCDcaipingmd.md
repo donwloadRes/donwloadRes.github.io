@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32系列(HAL库)——F103C8T6点亮1.44寸TFT-LCD彩屏"
+title: "STM32系列HAL库F103C8T6点亮144寸TFTLCD彩屏"
 date:   2020-09-22
 tags: [TFT,LCD,1.44,引脚,彩屏]
 comments: true

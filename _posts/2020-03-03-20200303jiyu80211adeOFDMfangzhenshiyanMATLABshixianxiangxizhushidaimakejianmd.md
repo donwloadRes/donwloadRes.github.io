@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 802.11a 的 OFDM 仿真实验 MATLAB 实现 (详细注释代码+课件)"
+title: "基于 80211a 的 OFDM 仿真实验 MATLAB 实现 详细注释代码课件"
 date:   2021-10-18
 tags: [代码,OFDM,课件,MATLAB,802.11]
 comments: true

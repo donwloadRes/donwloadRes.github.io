@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 7 及 vCenter 7.0 虚拟化云计算平台搭建指南"
+title: "VMware ESXi 7 及 vCenter 70 虚拟化云计算平台搭建指南"
 date:   2021-10-24
 tags: [7.0,虚拟化,ESXi,VMware,搭建]
 comments: true

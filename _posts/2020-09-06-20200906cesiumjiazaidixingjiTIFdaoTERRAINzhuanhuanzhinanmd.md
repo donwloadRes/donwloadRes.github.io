@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cesium加载地形及.TIF到.TERRAIN转换指南"
+title: "cesium加载地形及TIF到TERRAIN转换指南"
 date:   2024-11-25
 tags: [Cesium,TIF,地形,加载,格式]
 comments: true

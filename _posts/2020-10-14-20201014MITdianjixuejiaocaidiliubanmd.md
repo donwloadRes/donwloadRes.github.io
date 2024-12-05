@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT 电机学教材（第六版）"
+title: "MIT 电机学教材第六版"
 date:   2024-08-05
 tags: [电机学,教材,第六版,学习,MIT]
 comments: true

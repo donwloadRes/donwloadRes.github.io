@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大象-Thinking.in.UML（第二版） - 谭云杰 扫描版-PDF"
+title: "大象ThinkinginUML第二版  谭云杰 扫描版PDF"
 date:   2024-08-12
 tags: [UML,PDF,扫描,Thinking,谭云杰]
 comments: true

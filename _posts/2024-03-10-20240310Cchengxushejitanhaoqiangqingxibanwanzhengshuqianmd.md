@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++程序设计-谭浩强-清晰版完整书签"
+title: "C程序设计谭浩强清晰版完整书签"
 date:   2022-09-10
 tags: [C++,运算符,谭浩强,书签,编程]
 comments: true

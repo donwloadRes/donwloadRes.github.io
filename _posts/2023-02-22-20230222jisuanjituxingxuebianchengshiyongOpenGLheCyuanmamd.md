@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学编程 使用OpenGL和C++源码"
+title: "计算机图形学编程 使用OpenGL和C源码"
 date:   2022-04-09
 tags: [OpenGL,图形学,示例,C++,仓库]
 comments: true

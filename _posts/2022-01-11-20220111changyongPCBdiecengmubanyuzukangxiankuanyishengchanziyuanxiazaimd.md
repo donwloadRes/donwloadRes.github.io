@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用PCB叠层模板与阻抗线宽（已生产）资源下载"
+title: "常用PCB叠层模板与阻抗线宽已生产资源下载"
 date:   2024-02-23
 tags: [叠层,PCB,模板,阻抗,线宽]
 comments: true

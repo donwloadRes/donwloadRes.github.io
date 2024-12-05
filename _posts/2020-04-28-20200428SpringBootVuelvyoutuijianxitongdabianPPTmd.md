@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue旅游推荐系统答辩PPT"
+title: "SpringBootVue旅游推荐系统答辩PPT"
 date:   2021-06-15
 tags: [PPT,答辩,SpringBoot,Vue,系统]
 comments: true

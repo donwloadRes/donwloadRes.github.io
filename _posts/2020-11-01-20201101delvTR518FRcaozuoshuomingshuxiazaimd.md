@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德律TR-518FR 操作说明书下载"
+title: "德律TR518FR 操作说明书下载"
 date:   2024-08-13
 tags: [德律,TR,518FR,说明书,操作]
 comments: true

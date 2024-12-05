@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C++-Qt-OpenGL实现魔方复原"
+title: "基于CQtOpenGL实现魔方复原"
 date:   2023-04-07
 tags: [魔方,复原,C++,Qt,OpenGL]
 comments: true

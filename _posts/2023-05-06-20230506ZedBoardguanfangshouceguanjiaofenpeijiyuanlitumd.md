@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZedBoard 官方手册：管脚分配及原理图"
+title: "ZedBoard 官方手册管脚分配及原理图"
 date:   2024-04-08
 tags: [ZedBoard,开发板,管脚,原理图,开发]
 comments: true

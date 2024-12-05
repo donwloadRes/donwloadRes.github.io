@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年Studio One 6.5.1中文资源直装版安装教程"
+title: "2024年Studio One 651中文资源直装版安装教程"
 date:   2022-09-29
 tags: [Studio,安装,6.5,激活,装版]
 comments: true

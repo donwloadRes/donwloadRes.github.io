@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利珀（Leapms）版本1.2 下载仓库"
+title: "利珀Leapms版本12 下载仓库"
 date:   2023-09-20
 tags: [利珀,Leapms,建模,1.2,LP]
 comments: true

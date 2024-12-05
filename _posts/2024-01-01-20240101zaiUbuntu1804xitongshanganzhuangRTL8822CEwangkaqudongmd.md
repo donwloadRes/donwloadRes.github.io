@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Ubuntu 18.04系统上安装RTL8822CE网卡驱动"
+title: "在Ubuntu 1804系统上安装RTL8822CE网卡驱动"
 date:   2020-01-15
 tags: [网卡,RTL8822CE,WiFi,rtl88x2ce,sudo]
 comments: true

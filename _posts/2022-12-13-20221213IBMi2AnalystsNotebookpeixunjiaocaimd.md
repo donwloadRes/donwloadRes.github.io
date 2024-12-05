@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM i2 Analyst's Notebook 培训教材"
+title: "IBM i2 Analysts Notebook 培训教材"
 date:   2021-12-12
 tags: [I2,i2,IBM,Analyst,Notebook]
 comments: true

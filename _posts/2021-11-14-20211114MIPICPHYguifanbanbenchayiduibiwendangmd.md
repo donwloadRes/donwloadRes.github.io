@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI C-PHY 规范版本差异对比文档"
+title: "MIPI CPHY 规范版本差异对比文档"
 date:   2024-06-15
 tags: [PHY,文档,版本,MIPI,规范]
 comments: true

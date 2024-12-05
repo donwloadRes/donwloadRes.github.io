@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLED_STM32F103C8T6_IIC动态浮点数显示"
+title: "OLEDSTM32F103C8T6IIC动态浮点数显示"
 date:   2022-12-01
 tags: [OLED,浮点数,STM32F103C8T6,IIC,动态]
 comments: true

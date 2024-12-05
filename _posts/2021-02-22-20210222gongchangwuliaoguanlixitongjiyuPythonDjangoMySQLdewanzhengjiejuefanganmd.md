@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工厂物料管理系统 - 基于Python Django + MySQL的完整解决方案"
+title: "工厂物料管理系统  基于Python Django  MySQL的完整解决方案"
 date:   2023-06-11
 tags: [物料,数据库,Django,MySQL,Python]
 comments: true

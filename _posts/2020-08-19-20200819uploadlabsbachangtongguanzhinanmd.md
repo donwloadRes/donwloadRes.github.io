@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "upload-labs靶场通关指南"
+title: "uploadlabs靶场通关指南"
 date:   2022-11-04
 tags: [绕过,Pass,黑名单,upload,labs]
 comments: true

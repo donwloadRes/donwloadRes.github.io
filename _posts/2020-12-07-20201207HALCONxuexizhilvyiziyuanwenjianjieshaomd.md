@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HALCON学习之旅(一) 资源文件介绍"
+title: "HALCON学习之旅一 资源文件介绍"
 date:   2023-02-09
 tags: [HALCON,文件,软件,学习,初学者]
 comments: true

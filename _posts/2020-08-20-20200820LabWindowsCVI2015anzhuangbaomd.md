@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabWindows-CVI 2015 安装包"
+title: "LabWindowsCVI 2015 安装包"
 date:   2023-02-20
 tags: [LabWindows,CVI,2015,卸载,安装包]
 comments: true

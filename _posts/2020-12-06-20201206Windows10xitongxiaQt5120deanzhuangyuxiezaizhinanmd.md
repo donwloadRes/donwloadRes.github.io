@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10系统下Qt5.12.0的安装与卸载指南"
+title: "Windows 10系统下Qt5120的安装与卸载指南"
 date:   2022-05-12
 tags: [点击,Qt,安装,卸载,qt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲸鱼算法(WOA)优化长短期记忆神经网络(LSTM) 数据回归预测"
+title: "鲸鱼算法WOA优化长短期记忆神经网络LSTM 数据回归预测"
 date:   2021-06-09
 tags: [预测,算法,LSTM,模型,鲸鱼]
 comments: true

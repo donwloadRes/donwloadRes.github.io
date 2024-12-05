@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.1 带注册机版本"
+title: "SecureCRT 81 带注册机版本"
 date:   2023-12-13
 tags: [注册机,SecureCRT,8.1,版本,仓库]
 comments: true

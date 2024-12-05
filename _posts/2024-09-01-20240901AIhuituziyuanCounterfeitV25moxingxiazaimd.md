@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘图资源：Counterfeit-V2.5 模型下载"
+title: "AI绘图资源CounterfeitV25 模型下载"
 date:   2023-09-18
 tags: [模型,AI,绘图,放置,Counterfeit]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "真正RTL8812AU Datasheet - USB3.0 802.11ac无线网卡硬件数据手册"
+title: "真正RTL8812AU Datasheet  USB30 80211ac无线网卡硬件数据手册"
 date:   2020-08-04
 tags: [RTL8812AU,手册,Datasheet,USB3.0,802.11]
 comments: true

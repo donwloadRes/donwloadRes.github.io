@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swagger for .NET 4.5 资源文件下载"
+title: "Swagger for NET 45 资源文件下载"
 date:   2021-06-14
 tags: [Swagger,4.5,NET,文件,资源]
 comments: true

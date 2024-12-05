@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "axios-0.27.2 版本资源下载"
+title: "axios0272 版本资源下载"
 date:   2022-02-10
 tags: [axios,js,版本,0.27,min]
 comments: true

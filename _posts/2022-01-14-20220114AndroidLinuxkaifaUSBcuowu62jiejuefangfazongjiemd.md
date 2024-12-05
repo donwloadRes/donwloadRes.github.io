@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Linux 开发 USB 错误 -62 解决方法总结"
+title: "Android Linux 开发 USB 错误 62 解决方法总结"
 date:   2024-01-27
 tags: [USB,Android,udev,设备,Linux]
 comments: true

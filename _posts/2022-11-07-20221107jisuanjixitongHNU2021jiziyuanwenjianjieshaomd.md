@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机系统_HNU2021级 资源文件介绍"
+title: "计算机系统HNU2021级 资源文件介绍"
 date:   2024-03-02
 tags: [计算机系统,笔记,实验,学生,作业]
 comments: true

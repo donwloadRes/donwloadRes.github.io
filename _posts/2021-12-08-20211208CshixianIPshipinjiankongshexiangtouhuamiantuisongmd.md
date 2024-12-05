@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现IP视频监控（摄像头）画面推送"
+title: "C 实现IP视频监控摄像头画面推送"
 date:   2023-05-25
 tags: [推送,HTTP,客户端,摄像头,实时]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数理统计引论 陈希孺(高清版本)"
+title: "数理统计引论 陈希孺高清版本"
 date:   2021-05-26
 tags: [高清,数理统计,版本,文件,标签]
 comments: true

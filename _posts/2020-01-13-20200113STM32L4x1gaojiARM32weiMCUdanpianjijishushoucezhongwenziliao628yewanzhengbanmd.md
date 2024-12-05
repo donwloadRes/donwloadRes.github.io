@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4x1高级ARM_32位MCU单片机技术手册中文资料628页完整版"
+title: "STM32L4x1高级ARM32位MCU单片机技术手册中文资料628页完整版"
 date:   2020-04-05
 tags: [单片机,STM32L4x1,控制器,接口,定时器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "日语学习资料下载 N5—N1都有"
+title: "日语学习资料下载 N5N1都有"
 date:   2020-03-05
 tags: [日语,N5,N1,学习,级别]
 comments: true

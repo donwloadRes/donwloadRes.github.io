@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLR via C# 第4版(中英文版) 资源下载"
+title: "CLR via C 第4版中英文版 资源下载"
 date:   2022-03-13
 tags: [PDF,CLR,C#,via,资源]
 comments: true

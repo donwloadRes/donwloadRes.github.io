@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9.2 使用QWebEngineView实现百度离线地图示例"
+title: "QT592 使用QWebEngineView实现百度离线地图示例"
 date:   2023-11-23
 tags: [离线,Qt,地图,示例,百度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ProteusPro(EDA工具软件) V8.9 下载及安装指南"
+title: "ProteusProEDA工具软件 V89 下载及安装指南"
 date:   2023-05-25
 tags: [安装,Proteus,Pro,栅格,V8.9]
 comments: true

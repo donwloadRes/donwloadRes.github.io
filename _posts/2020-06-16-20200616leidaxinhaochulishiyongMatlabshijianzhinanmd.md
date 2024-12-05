@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达信号处理 - 使用Matlab实践指南"
+title: "雷达信号处理  使用Matlab实践指南"
 date:   2020-01-30
 tags: [信号处理,Matlab,雷达,学习,实践]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8211FI-CG 数据手册下载"
+title: "RTL8211FICG 数据手册下载"
 date:   2021-11-19
 tags: [RTL8211FI,CG,文件,芯片,pdf]
 comments: true

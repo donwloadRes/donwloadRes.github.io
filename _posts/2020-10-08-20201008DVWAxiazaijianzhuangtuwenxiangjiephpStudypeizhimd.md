@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVWA下载及安装-图文详解+phpStudy配置"
+title: "DVWA下载及安装图文详解phpStudy配置"
 date:   2020-01-25
 tags: [DVWA,网络安全,phpStudy,Web,数据库]
 comments: true

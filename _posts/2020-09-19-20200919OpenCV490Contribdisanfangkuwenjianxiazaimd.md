@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.9.0 + Contrib 第三方库文件下载"
+title: "OpenCV 490  Contrib 第三方库文件下载"
 date:   2023-10-30
 tags: [4.9,OpenCV,文件,opencv,ffmpeg]
 comments: true

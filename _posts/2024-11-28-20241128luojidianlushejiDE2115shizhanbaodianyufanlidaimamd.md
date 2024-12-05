@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "逻辑电路设计DE2-115实战宝典与范例代码"
+title: "逻辑电路设计DE2115实战宝典与范例代码"
 date:   2020-11-16
 tags: [DE2,115,逻辑电路,范例,代码]
 comments: true

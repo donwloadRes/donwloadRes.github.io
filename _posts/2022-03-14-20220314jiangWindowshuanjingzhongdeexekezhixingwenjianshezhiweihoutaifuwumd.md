@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "将Windows环境中的.exe可执行文件设置为后台服务"
+title: "将Windows环境中的exe可执行文件设置为后台服务"
 date:   2022-12-12
 tags: [exe,Windows,MyService,服务,srvany]
 comments: true

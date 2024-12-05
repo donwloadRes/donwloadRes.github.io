@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue 3.X 调试工具 vue-devtools-6.0.0 安装指南"
+title: "Vue 3X 调试工具 vuedevtools600 安装指南"
 date:   2020-10-05
 tags: [Vue,调试,安装包,vue,devtools]
 comments: true

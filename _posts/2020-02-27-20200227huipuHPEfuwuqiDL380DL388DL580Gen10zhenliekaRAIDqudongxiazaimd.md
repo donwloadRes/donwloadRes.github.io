@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惠普（HPE）服务器DL380-DL388-DL580 Gen10 阵列卡RAID驱动下载"
+title: "惠普HPE服务器DL380DL388DL580 Gen10 阵列卡RAID驱动下载"
 date:   2021-11-21
 tags: [HPE,Gen10,RAID,驱动,服务器]
 comments: true

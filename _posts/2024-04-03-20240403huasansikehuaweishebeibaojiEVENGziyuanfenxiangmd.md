@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华三、思科、华为设备包及EVE-NG资源分享"
+title: "华三思科华为设备包及EVENG资源分享"
 date:   2021-05-30
 tags: [EVE,NG,设备,华为,华三]
 comments: true

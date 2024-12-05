@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "临床研究 | 如何构建临床预测模型？"
+title: "临床研究  如何构建临床预测模型"
 date:   2024-04-24
 tags: [模型,临床,预测,构建,数据]
 comments: true

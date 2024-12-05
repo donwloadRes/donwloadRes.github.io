@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泉盛UV-K5写频软件V1.0.35"
+title: "泉盛UVK5写频软件V1035"
 date:   2021-06-07
 tags: [软件,UV,K5,写频,对讲机]
 comments: true

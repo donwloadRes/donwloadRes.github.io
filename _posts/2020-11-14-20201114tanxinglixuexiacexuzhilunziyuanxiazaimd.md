@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "弹性力学(下册)_徐芝纶 资源下载"
+title: "弹性力学下册徐芝纶 资源下载"
 date:   2022-06-12
 tags: [力学,弹性,徐芝纶,下册,下载]
 comments: true

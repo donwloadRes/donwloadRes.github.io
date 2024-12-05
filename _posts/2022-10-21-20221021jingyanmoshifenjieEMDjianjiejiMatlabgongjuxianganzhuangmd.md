@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经验模式分解（EMD）——简介及Matlab工具箱安装"
+title: "经验模式分解EMD简介及Matlab工具箱安装"
 date:   2023-11-19
 tags: [EMD,Matlab,工具箱,分解,信号]
 comments: true

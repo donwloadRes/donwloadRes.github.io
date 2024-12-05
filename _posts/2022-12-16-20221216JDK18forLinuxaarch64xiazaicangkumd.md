@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 for Linux (aarch64) 下载仓库"
+title: "JDK 18 for Linux aarch64 下载仓库"
 date:   2021-12-30
 tags: [aarch64,解压,JDK,1.8,tar]
 comments: true

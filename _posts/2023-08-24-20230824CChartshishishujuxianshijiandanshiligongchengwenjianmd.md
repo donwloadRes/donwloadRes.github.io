@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Chart 实时数据显示简单示例工程文件"
+title: "C Chart 实时数据显示简单示例工程文件"
 date:   2020-03-08
 tags: [示例,文件,C#,工程,实时]
 comments: true

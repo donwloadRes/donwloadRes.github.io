@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线安装GCC 4.8.5 (RPM包方式)"
+title: "离线安装GCC 485 RPM包方式"
 date:   2022-02-22
 tags: [安装,RPM,GCC,--,离线]
 comments: true

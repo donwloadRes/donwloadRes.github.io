@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVDS学习笔记之lvds_transceiver设计及仿真工程"
+title: "LVDS学习笔记之lvdstransceiver设计及仿真工程"
 date:   2024-05-09
 tags: [文件,仿真,LVDS,lvds,transceiver]
 comments: true

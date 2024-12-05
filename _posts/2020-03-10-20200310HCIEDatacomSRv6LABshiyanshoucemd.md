@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-Datacom SRv6 LAB实验手册"
+title: "HCIEDatacom SRv6 LAB实验手册"
 date:   2023-02-23
 tags: [SRv6,HCIE,Datacom,手册,实验]
 comments: true

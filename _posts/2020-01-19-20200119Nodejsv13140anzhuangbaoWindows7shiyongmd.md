@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js v13.14.0 安装包 (Windows 7 适用)"
+title: "Nodejs v13140 安装包 Windows 7 适用"
 date:   2020-11-17
 tags: [Node,js,安装,Windows,安装包]
 comments: true

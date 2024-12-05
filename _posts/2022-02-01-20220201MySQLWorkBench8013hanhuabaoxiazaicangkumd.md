@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL WorkBench 8.0.13 + 汉化包 下载仓库"
+title: "MySQL WorkBench 8013  汉化包 下载仓库"
 date:   2021-05-22
 tags: [MySQL,WorkBench,13,8.0,汉化包]
 comments: true

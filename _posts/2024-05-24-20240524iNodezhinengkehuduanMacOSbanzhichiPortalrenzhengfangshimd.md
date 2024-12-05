@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iNode智能客户端MacOS版 - 支持Portal认证方式"
+title: "iNode智能客户端MacOS版  支持Portal认证方式"
 date:   2024-03-18
 tags: [MacOS,Portal,iNodeClient,iNode,7.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GZ-2022038 信息安全管理与评估赛项赛题"
+title: "GZ2022038 信息安全管理与评估赛项赛题"
 date:   2020-03-18
 tags: [信息安全,赛题,GZ,2022038,赛项]
 comments: true

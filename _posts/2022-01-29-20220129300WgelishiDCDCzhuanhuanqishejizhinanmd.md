@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "300W 隔离式 DC-DC 转换器设计指南"
+title: "300W 隔离式 DCDC 转换器设计指南"
 date:   2020-01-03
 tags: [DC,指南,原文件,设计,转换器]
 comments: true

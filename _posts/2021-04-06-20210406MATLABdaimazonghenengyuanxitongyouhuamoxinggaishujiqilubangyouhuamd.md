@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：综合能源系统优化模型概述及其鲁棒优化"
+title: "MATLAB代码综合能源系统优化模型概述及其鲁棒优化"
 date:   2022-07-02
 tags: [模型,优化,MATLAB,鲁棒,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CY7C68013A的USB2.0详细开发文档"
+title: "基于CY7C68013A的USB20详细开发文档"
 date:   2024-06-06
 tags: [例程,开发,文档,CY7C68013A,详细]
 comments: true

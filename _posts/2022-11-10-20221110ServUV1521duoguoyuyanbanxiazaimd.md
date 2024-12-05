@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Serv-U V15.2.1 多国语言版下载"
+title: "ServU V1521 多国语言版下载"
 date:   2020-06-08
 tags: [Serv,安装,V15.2,语言版,pdf]
 comments: true

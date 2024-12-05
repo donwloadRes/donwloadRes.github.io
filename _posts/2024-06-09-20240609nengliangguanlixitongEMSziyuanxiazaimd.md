@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "能量管理系统（EMS）资源下载"
+title: "能量管理系统EMS资源下载"
 date:   2020-10-16
 tags: [EMS,管理系统,下载,能量,资源]
 comments: true

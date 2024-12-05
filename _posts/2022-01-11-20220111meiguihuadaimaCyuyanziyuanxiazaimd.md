@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玫瑰花代码C++语言资源下载"
+title: "玫瑰花代码C语言资源下载"
 date:   2023-01-21
 tags: [C++,代码,玫瑰花,文件,语言]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 调试手册中文版"
+title: "RISCV 调试手册中文版"
 date:   2024-03-23
 tags: [RISC,调试,手册,0.13,PDF]
 comments: true

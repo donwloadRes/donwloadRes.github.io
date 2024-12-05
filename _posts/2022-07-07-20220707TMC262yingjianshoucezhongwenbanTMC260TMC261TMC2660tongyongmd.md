@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMC262硬件手册中文版（TMC260、TMC261、TMC2660通用）"
+title: "TMC262硬件手册中文版TMC260TMC261TMC2660通用"
 date:   2024-09-28
 tags: [硬件,手册,TMC262,TMC260,TMC261]
 comments: true

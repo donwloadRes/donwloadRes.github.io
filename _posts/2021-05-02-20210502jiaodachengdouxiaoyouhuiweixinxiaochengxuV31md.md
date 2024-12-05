@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交大成都校友会微信小程序V3.1"
+title: "交大成都校友会微信小程序V31"
 date:   2022-10-25
 tags: [校友,校友会,交大,母校,微信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【经典】STM32自学笔记（完整扫描版）资源下载"
+title: "经典STM32自学笔记完整扫描版资源下载"
 date:   2022-11-04
 tags: [STM32,读者,本章,ARM,Cortex]
 comments: true

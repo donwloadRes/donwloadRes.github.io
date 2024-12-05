@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZXV10 T800（V1.1.1）常用操作指导"
+title: "ZXV10 T800V111常用操作指导"
 date:   2020-03-12
 tags: [ZXV10,T800,V1.1,操作,视频会议]
 comments: true

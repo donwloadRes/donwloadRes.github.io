@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 神思SS628(100)身份证读卡器Demo资源包"
+title: "C 神思SS628100身份证读卡器Demo资源包"
 date:   2024-04-18
 tags: [Demo,读卡器,SS628,100,Java]
 comments: true

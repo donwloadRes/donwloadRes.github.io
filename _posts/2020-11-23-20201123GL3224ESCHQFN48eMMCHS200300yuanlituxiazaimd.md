@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GL3224(E) SCH_QFN48_eMMC_HS200_300 原理图下载"
+title: "GL3224E SCHQFN48eMMCHS200300 原理图下载"
 date:   2023-12-09
 tags: [原理图,GL3224,QFN48,eMMC,HS200]
 comments: true

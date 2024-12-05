@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11 无线WiFi协议标准手册"
+title: "80211 无线WiFi协议标准手册"
 date:   2024-10-24
 tags: [802.11,协议,手册,WiFi,无线]
 comments: true

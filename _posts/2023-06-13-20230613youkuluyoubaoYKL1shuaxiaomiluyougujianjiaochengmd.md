@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优酷路由宝YK-L1刷小米路由固件教程"
+title: "优酷路由宝YKL1刷小米路由固件教程"
 date:   2021-12-06
 tags: [固件,路由,路由器,小米,刷入]
 comments: true

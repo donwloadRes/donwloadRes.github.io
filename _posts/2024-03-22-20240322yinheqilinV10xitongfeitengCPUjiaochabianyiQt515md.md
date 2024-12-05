@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟V10系统+飞腾CPU交叉编译Qt5.15"
+title: "银河麒麟V10系统飞腾CPU交叉编译Qt515"
 date:   2023-12-24
 tags: [dev,编译,sudo,5.15,Qt]
 comments: true

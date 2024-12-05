@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "便捷飞行器设计软件Aircraft Intuitive Design (AID)说明书"
+title: "便捷飞行器设计软件Aircraft Intuitive Design AID说明书"
 date:   2023-09-29
 tags: [AID,说明书,软件,飞行器,Aircraft]
 comments: true

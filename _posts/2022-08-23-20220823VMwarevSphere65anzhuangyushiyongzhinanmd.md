@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.5 安装与使用指南"
+title: "VMware vSphere 65 安装与使用指南"
 date:   2023-03-30
 tags: [ESXi,虚拟机,vCenter,Server,安装]
 comments: true

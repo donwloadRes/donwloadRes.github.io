@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8654硬盘连接器标准规范"
+title: "SFF8654硬盘连接器标准规范"
 date:   2024-09-14
 tags: [连接器,SFF,8654,标准规范,硬盘]
 comments: true

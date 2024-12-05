@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 x64 22H2 devcon.exe 下载"
+title: "Windows 10 x64 22H2 devconexe 下载"
 date:   2020-07-14
 tags: [exe,devcon,Windows,下载,10]
 comments: true

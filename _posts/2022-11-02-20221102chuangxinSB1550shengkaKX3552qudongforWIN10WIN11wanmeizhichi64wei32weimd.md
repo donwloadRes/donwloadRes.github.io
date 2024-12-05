@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "创新SB1550声卡KX3552驱动 for WIN10 WIN11（完美支持64位-32位）"
+title: "创新SB1550声卡KX3552驱动 for WIN10 WIN11完美支持64位32位"
 date:   2021-06-29
 tags: [声卡,安装,驱动,SB1550,KX3552]
 comments: true

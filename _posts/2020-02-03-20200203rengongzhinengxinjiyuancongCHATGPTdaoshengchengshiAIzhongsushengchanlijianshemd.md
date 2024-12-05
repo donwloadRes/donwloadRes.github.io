@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能新纪元：从CHAT-GPT到生成式AI，重塑生产力建设"
+title: "人工智能新纪元从CHATGPT到生成式AI重塑生产力建设"
 date:   2024-04-03
 tags: [AI,生成式,人工智能,CHAT,GPT]
 comments: true

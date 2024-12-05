@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑客攻防技术宝典：Web实战篇(第2版) 资源下载"
+title: "黑客攻防技术宝典Web实战篇第2版 资源下载"
 date:   2024-09-22
 tags: [Web,应用程序,实战篇,1.1,宝典]
 comments: true

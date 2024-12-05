@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 5.1.1 完整版快速下载"
+title: "Gradle 511 完整版快速下载"
 date:   2021-05-03
 tags: [Gradle,5.1,完整版,编译,gradle]
 comments: true

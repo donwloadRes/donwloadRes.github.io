@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版VLC简单播放器"
+title: "C版VLC简单播放器"
 date:   2023-02-05
 tags: [播放,VLC,播放器,C#,进度条]
 comments: true

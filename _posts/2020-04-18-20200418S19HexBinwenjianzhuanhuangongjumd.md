@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S19、Hex、Bin文件转换工具"
+title: "S19HexBin文件转换工具"
 date:   2024-11-05
 tags: [S19,文件格式,转换,Hex,Bin]
 comments: true

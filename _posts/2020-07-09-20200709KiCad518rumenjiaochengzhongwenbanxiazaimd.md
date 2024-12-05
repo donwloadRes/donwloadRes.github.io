@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KiCad 5.1.8 入门教程（中文版）下载"
+title: "KiCad 518 入门教程中文版下载"
 date:   2023-04-25
 tags: [KiCad,5.1,中文版,入门教程,初学者]
 comments: true

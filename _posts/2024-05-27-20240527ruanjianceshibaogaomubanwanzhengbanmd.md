@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件测试报告模板（完整版）"
+title: "软件测试报告模板完整版"
 date:   2022-02-18
 tags: [测试,4.1,模板,4.2,软件测试]
 comments: true

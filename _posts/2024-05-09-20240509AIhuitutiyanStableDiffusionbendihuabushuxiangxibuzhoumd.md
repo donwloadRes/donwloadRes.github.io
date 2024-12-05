@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘图体验：Stable Diffusion本地化部署详细步骤"
+title: "AI绘图体验Stable Diffusion本地化部署详细步骤"
 date:   2021-04-01
 tags: [Stable,Diffusion,AI,显存,部署]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android TCP服务器代码（适用于AndroidStudio版本）"
+title: "Android TCP服务器代码适用于AndroidStudio版本"
 date:   2020-01-04
 tags: [Android,调试,代码,Studio,服务器]
 comments: true

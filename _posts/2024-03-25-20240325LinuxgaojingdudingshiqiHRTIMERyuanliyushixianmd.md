@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux高精度定时器（HRTIMER）原理与实现"
+title: "Linux高精度定时器HRTIMER原理与实现"
 date:   2020-08-19
 tags: [HRTIMER,Linux,定时器,内核,高精度]
 comments: true

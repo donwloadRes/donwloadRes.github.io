@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT-C++实现有界面的词法分析器——编译原理"
+title: "QTC实现有界面的词法分析器编译原理"
 date:   2023-06-14
 tags: [词法,QT,分析器,编译,关键字]
 comments: true

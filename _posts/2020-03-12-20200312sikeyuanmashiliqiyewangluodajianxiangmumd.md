@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思科源码实例：企业网络搭建项目"
+title: "思科源码实例企业网络搭建项目"
 date:   2023-05-04
 tags: [思科,源码,搭建,模拟器,网络]
 comments: true

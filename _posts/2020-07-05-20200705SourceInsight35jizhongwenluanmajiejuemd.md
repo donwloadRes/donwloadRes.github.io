@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SourceInsight 3.5 及中文乱码解决"
+title: "SourceInsight 35 及中文乱码解决"
 date:   2024-09-07
 tags: [SourceInsight,乱码,3.5,中文,文件]
 comments: true

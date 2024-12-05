@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "次时代终端工具：WindTerm"
+title: "次时代终端工具WindTerm"
 date:   2021-04-08
 tags: [WindTerm,SSH,终端,文件传输,工具]
 comments: true

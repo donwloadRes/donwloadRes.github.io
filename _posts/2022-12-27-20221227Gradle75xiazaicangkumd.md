@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.5 下载仓库"
+title: "Gradle 75 下载仓库"
 date:   2020-08-28
 tags: [Gradle,7.5,下载,仓库,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PeakFit：基于MATLAB的峰拟合工具"
+title: "PeakFit基于MATLAB的峰拟合工具"
 date:   2022-05-22
 tags: [拟合,PeakFit,MATLAB,光谱,可视化]
 comments: true

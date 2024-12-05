@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 源代码 串口、TCP网络调试助手"
+title: "C 源代码 串口TCP网络调试助手"
 date:   2020-06-18
 tags: [调试,串口,TCP,C#,源代码]
 comments: true

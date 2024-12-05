@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NX2023-1847画图UG软件安装详细指南教程"
+title: "NX20231847画图UG软件安装详细指南教程"
 date:   2022-04-30
 tags: [安装,教程,软件,安装包,UG]
 comments: true

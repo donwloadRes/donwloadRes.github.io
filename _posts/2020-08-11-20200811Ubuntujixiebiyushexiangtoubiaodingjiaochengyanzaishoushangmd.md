@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 机械臂与摄像头标定教程（眼在手上）"
+title: "Ubuntu 机械臂与摄像头标定教程眼在手上"
 date:   2020-11-04
 tags: [标定,ROS,摄像头,教程,Ubuntu]
 comments: true

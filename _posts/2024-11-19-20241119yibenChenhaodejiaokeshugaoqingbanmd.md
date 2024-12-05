@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一本C++很好的教科书（高清版）"
+title: "一本C很好的教科书高清版"
 date:   2022-02-25
 tags: [C++,教科书,高清,编程,一本]
 comments: true

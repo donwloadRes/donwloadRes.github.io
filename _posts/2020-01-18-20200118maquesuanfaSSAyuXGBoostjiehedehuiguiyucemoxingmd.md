@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麻雀算法(SSA)与XGBoost结合的回归预测模型"
+title: "麻雀算法SSA与XGBoost结合的回归预测模型"
 date:   2021-03-04
 tags: [SSA,XGBoost,模型,预测,算法]
 comments: true

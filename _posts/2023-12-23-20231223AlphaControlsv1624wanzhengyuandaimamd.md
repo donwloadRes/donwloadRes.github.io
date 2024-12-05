@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AlphaControls v16.24 完整源代码"
+title: "AlphaControls v1624 完整源代码"
 date:   2024-10-18
 tags: [源代码,AlphaControls,控件,v16.24,Delphi]
 comments: true

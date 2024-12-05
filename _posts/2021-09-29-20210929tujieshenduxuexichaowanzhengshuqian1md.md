@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图解深度学习》超完整书签1"
+title: "图解深度学习超完整书签1"
 date:   2024-04-28
 tags: [学习,深度,书签,图解,神经网络]
 comments: true

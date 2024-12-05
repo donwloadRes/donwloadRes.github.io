@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代数字信号处理-国科大-张颢"
+title: "现代数字信号处理国科大张颢"
 date:   2020-10-01
 tags: [信号处理,张颢,数字,视频教程,科大]
 comments: true

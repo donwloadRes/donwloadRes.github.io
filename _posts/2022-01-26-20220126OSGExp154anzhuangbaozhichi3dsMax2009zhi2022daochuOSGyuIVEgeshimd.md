@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSGExp 1.5.4 安装包 - 支持3ds Max 2009至2022 导出OSG与IVE格式"
+title: "OSGExp 154 安装包  支持3ds Max 2009至2022 导出OSG与IVE格式"
 date:   2022-12-08
 tags: [导出,3ds,Max,插件,格式]
 comments: true

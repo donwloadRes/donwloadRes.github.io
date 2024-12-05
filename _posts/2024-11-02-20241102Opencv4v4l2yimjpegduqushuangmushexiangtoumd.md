@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opencv4+v4l2以mjpeg读取双目摄像头"
+title: "Opencv4v4l2以mjpeg读取双目摄像头"
 date:   2021-09-02
 tags: [摄像头,代码,双目,mjpeg,读取]
 comments: true

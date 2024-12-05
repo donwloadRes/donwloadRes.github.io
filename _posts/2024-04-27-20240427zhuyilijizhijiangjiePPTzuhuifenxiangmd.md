@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "注意力机制讲解PPT - 组会分享"
+title: "注意力机制讲解PPT  组会分享"
 date:   2021-01-21
 tags: [注意力,机制,PPT,组会,讲解]
 comments: true

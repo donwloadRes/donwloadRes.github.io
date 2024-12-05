@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理课件（胡寿松）下载仓库"
+title: "自动控制原理课件胡寿松下载仓库"
 date:   2023-07-08
 tags: [课件,自动控制,下载,胡寿松,原理]
 comments: true

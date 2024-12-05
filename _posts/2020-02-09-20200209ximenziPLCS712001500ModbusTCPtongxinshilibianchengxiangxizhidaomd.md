@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC S7-1200-1500 Modbus-TCP通信实例编程详细指导"
+title: "西门子PLC S712001500 ModbusTCP通信实例编程详细指导"
 date:   2023-09-30
 tags: [PLC,Modbus,TCP,编程,IO]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【二次开发教程】Ai-WB2系列的Eclipse搭建环境教程"
+title: "二次开发教程AiWB2系列的Eclipse搭建环境教程"
 date:   2022-06-21
 tags: [Eclipse,MSYS2,教程,二次开发,Ai]
 comments: true

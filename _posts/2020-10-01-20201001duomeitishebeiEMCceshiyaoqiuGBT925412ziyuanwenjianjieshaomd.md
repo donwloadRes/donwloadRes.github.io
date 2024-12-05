@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多媒体设备EMC测试要求（GB-T 9254.1-2）资源文件介绍"
+title: "多媒体设备EMC测试要求GBT 925412资源文件介绍"
 date:   2022-04-30
 tags: [测试,EMC,多媒体,文件,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python大作业-音乐播放软件"
+title: "Python大作业音乐播放软件"
 date:   2023-08-19
 tags: [音乐,播放,Python,爬虫,可视化]
 comments: true

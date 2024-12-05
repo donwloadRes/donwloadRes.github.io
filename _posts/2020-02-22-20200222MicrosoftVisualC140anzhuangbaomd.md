@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 14.0 安装包"
+title: "Microsoft Visual C 140 安装包"
 date:   2020-06-14
 tags: [安装,文件,14.0,Python,下载]
 comments: true

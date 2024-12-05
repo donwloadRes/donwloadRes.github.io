@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jacob-1.19.jar - Java与COM组件交互的桥梁"
+title: "Jacob119jar  Java与COM组件交互的桥梁"
 date:   2024-10-22
 tags: [Java,COM,Windows,1.19,jar]
 comments: true

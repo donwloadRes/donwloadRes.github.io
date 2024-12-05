@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog数字系统设计教程.pdf"
+title: "Verilog数字系统设计教程pdf"
 date:   2023-09-24
 tags: [Verilog,设计,数字,教程,系统]
 comments: true

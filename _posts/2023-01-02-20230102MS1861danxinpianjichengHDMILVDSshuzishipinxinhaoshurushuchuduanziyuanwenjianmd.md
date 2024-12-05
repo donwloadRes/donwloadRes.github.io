@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MS1861 单芯片集成HDMI、LVDS数字视频信号输入输出端资源文件"
+title: "MS1861 单芯片集成HDMILVDS数字视频信号输入输出端资源文件"
 date:   2023-12-14
 tags: [视频信号,MS1861,LVDS,单芯片,TFT]
 comments: true

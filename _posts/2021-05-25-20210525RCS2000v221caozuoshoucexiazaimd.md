@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RCS-2000(v2.2.1)操作手册下载"
+title: "RCS2000v221操作手册下载"
 date:   2021-04-16
 tags: [RCS,2000,v2.2,操作手册,下载]
 comments: true

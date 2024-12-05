@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell 7.0.0108p 下载与安装指南"
+title: "Xshell 700108p 下载与安装指南"
 date:   2020-04-28
 tags: [Xshell,0108p,7.0,安装,下载]
 comments: true

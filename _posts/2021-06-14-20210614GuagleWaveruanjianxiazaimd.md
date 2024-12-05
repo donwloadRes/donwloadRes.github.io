@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guagle-Wave软件下载"
+title: "GuagleWave软件下载"
 date:   2024-08-19
 tags: [mif,文件,Guagle,Wave,coe]
 comments: true

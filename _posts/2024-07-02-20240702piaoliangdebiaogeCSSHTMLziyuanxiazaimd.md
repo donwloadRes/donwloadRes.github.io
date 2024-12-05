@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漂亮的表格CSS+HTML资源下载"
+title: "漂亮的表格CSSHTML资源下载"
 date:   2022-03-25
 tags: [CSS,表格,HTML,样式,资源]
 comments: true

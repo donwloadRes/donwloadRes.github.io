@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python课程设计报告：学生成绩管理系统"
+title: "Python课程设计报告学生成绩管理系统"
 date:   2020-11-07
 tags: [课程设计,Python,管理系统,成绩,学生]
 comments: true

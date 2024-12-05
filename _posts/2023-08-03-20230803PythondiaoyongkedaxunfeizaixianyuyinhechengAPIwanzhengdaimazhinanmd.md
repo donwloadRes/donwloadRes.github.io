@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python调用科大讯飞在线语音合成API - 完整代码指南"
+title: "Python调用科大讯飞在线语音合成API  完整代码指南"
 date:   2022-04-08
 tags: [API,科大,Python,音频,语音]
 comments: true

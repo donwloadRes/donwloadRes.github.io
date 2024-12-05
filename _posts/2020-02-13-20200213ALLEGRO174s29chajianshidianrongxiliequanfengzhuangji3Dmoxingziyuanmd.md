@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALLEGRO 17.4 (s29) 插件式电容系列全封装及3D模型资源"
+title: "ALLEGRO 174 s29 插件式电容系列全封装及3D模型资源"
 date:   2020-07-29
 tags: [3D,封装,模型,ALLEGRO,s29]
 comments: true

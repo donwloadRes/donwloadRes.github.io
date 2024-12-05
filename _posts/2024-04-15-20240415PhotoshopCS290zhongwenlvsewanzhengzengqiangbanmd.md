@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop CS2 9.0 中文绿色完整增强版"
+title: "Photoshop CS2 90 中文绿色完整增强版"
 date:   2023-02-20
 tags: [Photoshop,增强版,CS2,9.0,解压]
 comments: true

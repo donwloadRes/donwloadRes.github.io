@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP ECC6.0 EHP8虚拟机资源下载"
+title: "SAP ECC60 EHP8虚拟机资源下载"
 date:   2020-03-21
 tags: [虚拟机,EHP8,SAP,ECC6.0,解压]
 comments: true

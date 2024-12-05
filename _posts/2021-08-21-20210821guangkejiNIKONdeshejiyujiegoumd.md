@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光刻机（NIKON）的设计与结构"
+title: "光刻机NIKON的设计与结构"
 date:   2023-01-04
 tags: [光刻机,尼康,光刻,技术,设计]
 comments: true

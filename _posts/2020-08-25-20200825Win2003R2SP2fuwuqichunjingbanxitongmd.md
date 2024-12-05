@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win2003(R2 SP2)服务器纯净版系统"
+title: "Win2003R2 SP2服务器纯净版系统"
 date:   2022-05-05
 tags: [服务器,系统,预装,Windows,集成]
 comments: true

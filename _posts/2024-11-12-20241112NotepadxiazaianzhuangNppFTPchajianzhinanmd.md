@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++下载安装NppFTP插件指南"
+title: "Notepad下载安装NppFTP插件指南"
 date:   2020-02-09
 tags: [插件,Notepad,++,NppFTP,安装]
 comments: true

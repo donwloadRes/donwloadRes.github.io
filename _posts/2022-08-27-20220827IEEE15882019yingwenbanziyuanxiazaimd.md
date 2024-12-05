@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1588-2019 英文版资源下载"
+title: "IEEE 15882019 英文版资源下载"
 date:   2022-04-26
 tags: [IEEE,2019,1588,英文版,时钟]
 comments: true

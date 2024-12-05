@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "Centos 7.2-7.4-7.6-7.8 升级 OpenSSH 9.6 方法和详解（脚本一键升级）"
+title: "Centos 72747678 升级 OpenSSH 96 方法和详解脚本一键升级
+date   20230714
+tags sshdetcsshconfig升级
+comments true
+author admin
+
+ Centos 72747678 升级 OpenSSH 96 方法和详解脚本一键升级
+
+本仓库提供了一个用于将 CentOS 727476 和 78 系统中的 OpenSSH 升级到 96 版本的脚本该脚本支持一键升级并提供了必要的备份和恢复机制以确保在升级过程中出现问题时能够快速恢复
+
+ 脚本内容及使用方法
+
+以下是脚本的内容及详细说明
+
+bash
+binbash
+
+ 备份 sshdconfig 配置文件及 sshdpam 文件
+echo 备份 sshdconfig 配置文件及 sshdpam 文件
+cp etcsshsshdconfig etcsshsshdconfig74p1bak
+cp etcpamdsshd etcsshsshd74p1pambak
+
+ 升级 OpenSSH
+echo 升级 OpenSSH
+rpm Uvh opensshrpm
+
+ 设置权限
+echo 设置权限
+chmod 0600 etcsshsshhostkeys
+
+ 修改 sshdconfig 配置文件
+echo 修改 sshdconfig 配置文件
+sed i sUsePAM noUsePAM yesg etcsshsshdconfig
+sed i sPermitRootLogin prohibitpasswordPermitRootLogin yesg etcsshsshdconfig
+
+ 重启 sshd 服务
+echo 重启 sshd 服务"
 date:   2023-07-14
 tags: [sshd,etc,ssh,config,升级]
 comments: true

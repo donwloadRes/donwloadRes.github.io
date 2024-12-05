@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "古月居ROS入门21讲》课件及源码"
+title: "古月居ROS入门21讲课件及源码"
 date:   2020-08-22
 tags: [ROS,源码,课件,21,古月]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# CAN总线数据读写教程（使用canlibCLSNET.dll和Kvaser驱动）"
+title: "C CAN总线数据读写教程使用canlibCLSNETdll和Kvaser驱动"
 date:   2022-07-28
 tags: [Kvaser,总线,canlibCLSNET,dll,教程]
 comments: true

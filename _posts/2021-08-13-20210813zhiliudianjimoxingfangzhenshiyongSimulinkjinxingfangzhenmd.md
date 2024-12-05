@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直流电机模型仿真：使用 Simulink 进行仿真"
+title: "直流电机模型仿真使用 Simulink 进行仿真"
 date:   2022-02-27
 tags: [仿真,Simulink,直流电机,MATLAB,模型]
 comments: true

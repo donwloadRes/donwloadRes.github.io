@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计 - 学生选课管理系统"
+title: "Java课程设计  学生选课管理系统"
 date:   2021-07-29
 tags: [选课,数据库,课程,学生,Java]
 comments: true

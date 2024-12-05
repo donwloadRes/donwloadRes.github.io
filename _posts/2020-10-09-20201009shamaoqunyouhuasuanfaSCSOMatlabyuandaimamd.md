@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "沙猫群优化算法（SCSO）Matlab源代码"
+title: "沙猫群优化算法SCSOMatlab源代码"
 date:   2020-11-20
 tags: [算法,Matlab,沙猫,SCSO,示例]
 comments: true

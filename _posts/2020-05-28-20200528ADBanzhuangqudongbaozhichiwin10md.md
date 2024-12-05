@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADB安装驱动包（支持win10）"
+title: "ADB安装驱动包支持win10"
 date:   2021-12-24
 tags: [驱动,ADB,安装,设备,安装包]
 comments: true

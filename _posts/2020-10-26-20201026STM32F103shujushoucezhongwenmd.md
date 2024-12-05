@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 数据手册 (中文)"
+title: "STM32F103 数据手册 中文"
 date:   2024-07-29
 tags: [微控制器,手册,字节,STM32F103,系列]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MX Player 1.8.6 第三方解码器：支持AC3、DTS"
+title: "MX Player 186 第三方解码器支持AC3DTS"
 date:   2023-08-22
 tags: [MX,Player,解码,解码器,AC3]
 comments: true

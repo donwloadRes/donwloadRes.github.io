@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3108-L3118-L3119-L3158系列清零软件"
+title: "爱普生L3108L3118L3119L3158系列清零软件"
 date:   2023-09-25
 tags: [清零,打印机,爱普生,软件,尝试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具V4.1公测介绍"
+title: "DirectX修复工具V41公测介绍"
 date:   2021-11-20
 tags: [修复,DirectX,V4.1,反馈,工具]
 comments: true

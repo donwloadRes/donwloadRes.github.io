@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑店U盘格式化工具3.0绿色完美版"
+title: "电脑店U盘格式化工具30绿色完美版"
 date:   2021-04-01
 tags: [U盘,格式化,内存卡,格式,exFAT]
 comments: true

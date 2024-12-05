@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hive 1.1.0 完全分布式环境安装指南"
+title: "Hive 110 完全分布式环境安装指南"
 date:   2022-09-05
 tags: [Hive,安装,1.1,分布式,指南]
 comments: true

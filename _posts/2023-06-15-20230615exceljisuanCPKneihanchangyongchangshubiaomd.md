@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "excel计算CPK（内含常用常数表）"
+title: "excel计算CPK内含常用常数表"
 date:   2024-04-06
 tags: [CPK,常数,计算,Excel,excel]
 comments: true

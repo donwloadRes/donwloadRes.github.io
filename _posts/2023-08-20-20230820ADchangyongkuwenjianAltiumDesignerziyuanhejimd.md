@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD常用库文件 - Altium Designer资源合集"
+title: "AD常用库文件  Altium Designer资源合集"
 date:   2024-06-15
 tags: [Altium,Designer,封装,设计,AD]
 comments: true

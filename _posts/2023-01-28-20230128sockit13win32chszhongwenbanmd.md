@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sockit-1.3-win32-chs 中文版"
+title: "sockit13win32chs 中文版"
 date:   2022-01-22
 tags: [sokit,1.3,数据包,win32,chs]
 comments: true

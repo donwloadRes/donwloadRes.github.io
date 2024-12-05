@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动计算太阳高度角、方位角和天顶角"
+title: "自动计算太阳高度角方位角和天顶角"
 date:   2024-09-12
 tags: [经纬度,太阳,顶角,自动,方位角]
 comments: true

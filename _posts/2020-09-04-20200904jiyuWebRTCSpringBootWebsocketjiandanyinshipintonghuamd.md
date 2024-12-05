@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于WebRTC+SpringBoot+Websocket 简单音视频通话"
+title: "基于WebRTCSpringBootWebsocket 简单音视频通话"
 date:   2023-03-04
 tags: [通话,音视频,信令,WebRTC,SpringBoot]
 comments: true

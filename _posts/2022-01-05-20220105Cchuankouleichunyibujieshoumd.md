@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口类 - 纯异步接收"
+title: "C 串口类  纯异步接收"
 date:   2023-04-06
 tags: [串口,接收,serialPort,异步,数据]
 comments: true

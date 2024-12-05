@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 网络数据采集（中文版）"
+title: "Python 网络数据采集中文版"
 date:   2023-02-27
 tags: [Python,采集,网络,数据,教程]
 comments: true

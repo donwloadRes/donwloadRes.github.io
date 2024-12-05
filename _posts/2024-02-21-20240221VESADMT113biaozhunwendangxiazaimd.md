@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA DMT 1.13 标准文档下载"
+title: "VESA DMT 113 标准文档下载"
 date:   2023-07-11
 tags: [VESA,DMT,文档,1.13,显示器]
 comments: true

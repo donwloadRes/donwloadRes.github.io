@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11、Win10中文文件名乱码（菱形黑框问号）解决方案"
+title: "Win11Win10中文文件名乱码菱形黑框问号解决方案"
 date:   2020-03-12
 tags: [文件名,设置,乱码,中文,编码]
 comments: true

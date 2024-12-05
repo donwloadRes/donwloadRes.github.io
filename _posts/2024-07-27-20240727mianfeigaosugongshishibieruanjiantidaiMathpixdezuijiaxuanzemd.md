@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费高速公式识别软件：替代Mathpix的最佳选择"
+title: "免费高速公式识别软件替代Mathpix的最佳选择"
 date:   2024-04-16
 tags: [软件,识别,Mathpix,公式,使用]
 comments: true

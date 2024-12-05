@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能计算系统实验2-2-DLP平台实现手写数字分类"
+title: "智能计算系统实验22DLP平台实现手写数字分类"
 date:   2024-07-23
 tags: [DLP,实验,手写,平台,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM 多功能教程资源包"
+title: "ESP32CAM 多功能教程资源包"
 date:   2022-02-10
 tags: [拍照,ESP32,CAM,教程,WEB]
 comments: true

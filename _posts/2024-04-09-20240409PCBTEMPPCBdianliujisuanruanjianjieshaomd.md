@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCBTEMP（PCB电流计算软件）介绍"
+title: "PCBTEMPPCB电流计算软件介绍"
 date:   2022-07-11
 tags: [载流,PCB,PCBTEMP,走线,设计]
 comments: true

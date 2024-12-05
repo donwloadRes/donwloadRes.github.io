@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb学生信息管理系统（代码＋图片）论文报告"
+title: "JavaWeb学生信息管理系统代码图片论文报告"
 date:   2021-11-25
 tags: [论文,代码,JavaWeb,信息管理系统,效果图]
 comments: true

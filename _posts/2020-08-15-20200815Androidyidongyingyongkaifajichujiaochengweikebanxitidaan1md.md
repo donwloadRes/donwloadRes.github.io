@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android移动应用开发基础教程(微课版)习题答案1"
+title: "Android移动应用开发基础教程微课版习题答案1"
 date:   2023-11-24
 tags: [Android,习题,答案,资源,基础教程]
 comments: true

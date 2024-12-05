@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOC与芯片设计方法.pdf"
+title: "SOC与芯片设计方法pdf"
 date:   2020-02-18
 tags: [SOC,芯片,设计,文档,pdf]
 comments: true

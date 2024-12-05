@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6下载与安装图文教程指引"
+title: "CentOS 76下载与安装图文教程指引"
 date:   2022-08-03
 tags: [CentOS,7.6,安装,下载,教程]
 comments: true

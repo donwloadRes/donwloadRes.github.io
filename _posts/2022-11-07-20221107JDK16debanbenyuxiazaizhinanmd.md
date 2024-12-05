@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.6 的版本与下载指南"
+title: "JDK 16 的版本与下载指南"
 date:   2022-11-02
 tags: [JDK,版本,1.6,Java,下载]
 comments: true

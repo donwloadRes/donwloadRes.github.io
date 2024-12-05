@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题大全（整理版）1000+面试题"
+title: "Java面试题大全整理版1000面试题"
 date:   2024-06-16
 tags: [Java,面试题,面试,1000,开发者]
 comments: true

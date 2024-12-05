@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raize v5.5 for Delphi7 下载仓库"
+title: "Raize v55 for Delphi7 下载仓库"
 date:   2020-07-25
 tags: [Delphi7,Raize,v5.5,文件,仓库]
 comments: true

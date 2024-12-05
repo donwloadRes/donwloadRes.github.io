@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 软件安装包（Win11-Win10-Win7）"
+title: "DevC 软件安装包Win11Win10Win7"
 date:   2024-04-10
 tags: [C++,Dev,调试,安装包,编译器]
 comments: true

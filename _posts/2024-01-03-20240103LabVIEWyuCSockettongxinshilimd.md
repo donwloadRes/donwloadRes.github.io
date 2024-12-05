@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW与C# Socket通信示例"
+title: "LabVIEW与C Socket通信示例"
 date:   2021-06-27
 tags: [LabVIEW,C#,Socket,示例,通信]
 comments: true

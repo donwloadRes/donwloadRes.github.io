@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pg198-jesd204-phy.pdf - Xilinx JESD204B IP Core设计指南"
+title: "pg198jesd204phypdf  Xilinx JESD204B IP Core设计指南"
 date:   2020-06-10
 tags: [JESD204B,Xilinx,IP,设计,pg198]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美过腾讯滑块验证！支持文字点选"
+title: "完美过腾讯滑块验证支持文字点选"
 date:   2020-06-10
 tags: [滑块,验证,点选,腾讯,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ip102: 害虫识别的大规模基准数据集"
+title: "Ip102 害虫识别的大规模基准数据集"
 date:   2023-01-12
 tags: [害虫,图像,数据,Ip102,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF实现的类似Visio的画图软件源码-工作流控件"
+title: "WPF实现的类似Visio的画图软件源码工作流控件"
 date:   2022-07-08
 tags: [源码,WPF,控件,图形,编译]
 comments: true

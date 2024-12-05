@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pyltp安装教程——保姆级"
+title: "pyltp安装教程保姆级"
 date:   2023-04-13
 tags: [pyltp,Python,安装,Wheel,文件]
 comments: true

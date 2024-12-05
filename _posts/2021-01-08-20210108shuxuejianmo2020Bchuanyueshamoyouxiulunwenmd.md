@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模2020B——穿越沙漠优秀论文"
+title: "数学建模2020B穿越沙漠优秀论文"
 date:   2024-06-30
 tags: [建模,穿越,沙漠,论文,数学]
 comments: true

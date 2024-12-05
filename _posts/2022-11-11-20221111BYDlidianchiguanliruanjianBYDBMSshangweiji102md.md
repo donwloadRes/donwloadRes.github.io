@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BYD锂电池管理软件BYD BMS上位机1.0.2"
+title: "BYD锂电池管理软件BYD BMS上位机102"
 date:   2024-03-29
 tags: [BYD,电池,该软件,1.0,锂电池]
 comments: true

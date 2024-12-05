@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性系统（第三版）高清英文原版下载"
+title: "非线性系统第三版高清英文原版下载"
 date:   2022-08-21
 tags: [非线性,下载,高清,英文原版,Nonlinear]
 comments: true

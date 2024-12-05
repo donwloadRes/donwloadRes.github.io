@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现SSA-CNN-SVM麻雀算法优化卷积神经网络-支持向量机的多输入单输出回归预测"
+title: "Matlab实现SSACNNSVM麻雀算法优化卷积神经网络支持向量机的多输入单输出回归预测"
 date:   2020-06-01
 tags: [Matlab,SSA,CNN,SVM,预测]
 comments: true

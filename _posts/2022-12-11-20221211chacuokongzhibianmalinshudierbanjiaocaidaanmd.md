@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "差错控制编码（林舒第二版）教材答案"
+title: "差错控制编码林舒第二版教材答案"
 date:   2020-04-11
 tags: [习题,答案,差错控制,林舒,编码]
 comments: true

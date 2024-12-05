@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性系统（第三版）"
+title: "非线性系统第三版"
 date:   2022-06-24
 tags: [非线性,第三版,系统,理论,理解]
 comments: true

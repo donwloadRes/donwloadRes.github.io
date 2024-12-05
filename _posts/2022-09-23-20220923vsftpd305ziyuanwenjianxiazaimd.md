@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vsftpd-3.0.5 资源文件下载"
+title: "vsftpd305 资源文件下载"
 date:   2024-01-05
 tags: [vsftpd,3.0,FTP,文件,下载]
 comments: true

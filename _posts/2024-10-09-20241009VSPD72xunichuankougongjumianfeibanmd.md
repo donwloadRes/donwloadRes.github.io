@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSPD 7.2 虚拟串口工具 免费版"
+title: "VSPD 72 虚拟串口工具 免费版"
 date:   2023-04-30
 tags: [串口,虚拟,VSPD,免费版,测试]
 comments: true

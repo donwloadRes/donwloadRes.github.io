@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 使用指南"
+title: "Internet Download Manager IDM 使用指南"
 date:   2023-09-02
 tags: [IDM,下载,激活,安装,多线程]
 comments: true

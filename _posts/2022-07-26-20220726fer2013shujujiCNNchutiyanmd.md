@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fer2013数据集——CNN初体验"
+title: "fer2013数据集CNN初体验"
 date:   2023-05-02
 tags: [CNN,fer2013,数据,训练,学习]
 comments: true

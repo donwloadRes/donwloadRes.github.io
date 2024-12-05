@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11 下 Anaconda 安装详细教程 (Python 3.11)"
+title: "Win11 下 Anaconda 安装详细教程 Python 311"
 date:   2022-01-15
 tags: [Anaconda,Python,安装,3.11,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven 3.9.6 版本安装包"
+title: "Apache Maven 396 版本安装包"
 date:   2021-05-06
 tags: [Maven,3.9,tar,安装,apache]
 comments: true

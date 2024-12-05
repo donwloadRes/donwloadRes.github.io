@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 2024中文版发布：三大革新功能详解"
+title: "CorelDRAW 2024中文版发布三大革新功能详解"
 date:   2024-01-27
 tags: [CorelDRAW,2024,功能,三大,设计师]
 comments: true

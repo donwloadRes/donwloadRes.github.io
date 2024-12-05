@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP仿真器XDS100v3 Rev. 2 完整资料"
+title: "DSP仿真器XDS100v3 Rev 2 完整资料"
 date:   2020-03-21
 tags: [仿真器,XDS100v3,DSP,原理图,代码]
 comments: true

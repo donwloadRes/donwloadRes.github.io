@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS8416+PCM1792 DAC解码器源代码与图纸"
+title: "CS8416PCM1792 DAC解码器源代码与图纸"
 date:   2020-02-19
 tags: [音频,源代码,DIY,爱好者,解码器]
 comments: true

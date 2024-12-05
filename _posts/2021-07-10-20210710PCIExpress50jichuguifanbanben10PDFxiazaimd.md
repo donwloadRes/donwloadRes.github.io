@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 5.0 基础规范版本 1.0 PDF 下载"
+title: "PCI Express 50 基础规范版本 10 PDF 下载"
 date:   2023-04-30
 tags: [PCI,5.0,Express,PCIe,文档]
 comments: true

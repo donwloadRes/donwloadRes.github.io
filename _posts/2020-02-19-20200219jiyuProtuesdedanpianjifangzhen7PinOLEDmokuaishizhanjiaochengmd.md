@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Protues的单片机仿真：7Pin OLED模块实战教程"
+title: "基于Protues的单片机仿真7Pin OLED模块实战教程"
 date:   2023-03-07
 tags: [Protues,单片机,仿真,OLED,模块]
 comments: true

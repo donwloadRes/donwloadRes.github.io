@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0转100M以太网SR9900资料"
+title: "USB20转100M以太网SR9900资料"
 date:   2022-09-04
 tags: [SR9900,以太网,芯片,USB2.0,100M]
 comments: true

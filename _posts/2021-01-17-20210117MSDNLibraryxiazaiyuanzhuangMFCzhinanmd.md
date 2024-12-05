@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSDN Library下载与安装（MFC）指南"
+title: "MSDN Library下载与安装MFC指南"
 date:   2020-04-21
 tags: [MSDN,Library,下载,文档,MFC]
 comments: true

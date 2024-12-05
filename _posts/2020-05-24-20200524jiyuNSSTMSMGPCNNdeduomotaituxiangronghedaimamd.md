@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于NSST-MSMG-PCNN的多模态图像融合代码"
+title: "基于NSSTMSMGPCNN的多模态图像融合代码"
 date:   2024-06-14
 tags: [图像,融合,NSST,模态,MSMG]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XT电源接口封装（三维PCB封装库）AD用PCB封装库"
+title: "XT电源接口封装三维PCB封装库AD用PCB封装库"
 date:   2021-01-31
 tags: [封装,PCB,电源接口,三维,XT]
 comments: true

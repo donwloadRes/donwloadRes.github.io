@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ X7Z020-484开发板图纸资源"
+title: "ZYNQ X7Z020484开发板图纸资源"
 date:   2022-12-15
 tags: [设计,图纸,PDF,PCB,资源]
 comments: true

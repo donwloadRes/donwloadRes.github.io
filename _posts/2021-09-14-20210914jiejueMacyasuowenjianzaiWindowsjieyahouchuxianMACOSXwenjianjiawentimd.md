@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Mac压缩文件在Windows解压后出现__MACOSX文件夹问题"
+title: "解决Mac压缩文件在Windows解压后出现MACOSX文件夹问题"
 date:   2022-09-02
 tags: [Windows,解压,文件夹,__,MACOSX]
 comments: true

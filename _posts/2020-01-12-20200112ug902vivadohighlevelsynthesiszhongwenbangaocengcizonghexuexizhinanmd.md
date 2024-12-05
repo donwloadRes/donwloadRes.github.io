@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ug902-vivado-high-level-synthesis（中文版）- 高层次综合学习指南"
+title: "ug902vivadohighlevelsynthesis中文版 高层次综合学习指南"
 date:   2024-05-21
 tags: [HLS,Vivado,文档,高层次,ug902]
 comments: true

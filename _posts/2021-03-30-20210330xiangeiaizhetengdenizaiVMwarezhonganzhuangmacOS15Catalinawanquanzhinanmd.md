@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "献给爱折腾的你：在VMware中安装macOS 15 Catalina完全指南"
+title: "献给爱折腾的你在VMware中安装macOS 15 Catalina完全指南"
 date:   2021-08-22
 tags: [VMware,macOS,安装,虚拟机,15]
 comments: true

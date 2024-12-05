@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++6.0中文版(完整绿色精简版)"
+title: "VC60中文版完整绿色精简版"
 date:   2022-01-06
 tags: [精简版,C++,6.0,VC6.0,文件]
 comments: true

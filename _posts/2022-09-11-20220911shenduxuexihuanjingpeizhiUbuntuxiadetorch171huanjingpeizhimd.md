@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置：Ubuntu下的torch==1.7.1环境配置"
+title: "深度学习环境配置Ubuntu下的torch171环境配置"
 date:   2021-03-30
 tags: [PyTorch,Ubuntu,环境,1.7,安装]
 comments: true

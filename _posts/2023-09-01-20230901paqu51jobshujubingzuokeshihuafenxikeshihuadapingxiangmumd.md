@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爬取51job数据并做可视化分析（可视化大屏项目）"
+title: "爬取51job数据并做可视化分析可视化大屏项目"
 date:   2021-11-23
 tags: [可视化,爬取,51job,大屏,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasiMotor易泰达电机快速优化设计软件 V3.1 下载"
+title: "EasiMotor易泰达电机快速优化设计软件 V31 下载"
 date:   2020-10-23
 tags: [EasiMotor,V3.1,电机,PDF,软件]
 comments: true

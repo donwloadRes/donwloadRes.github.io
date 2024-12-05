@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIA V13V-15.1 及 WINCC V7.3-V7.5 免狗和谐补丁"
+title: "TIA V13V151 及 WINCC V73V75 免狗和谐补丁"
 date:   2024-11-03
 tags: [补丁,15.1,V7.5,TIA,V13V]
 comments: true

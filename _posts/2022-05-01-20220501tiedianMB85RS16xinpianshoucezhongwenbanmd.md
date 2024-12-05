@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "铁电MB85RS16芯片手册(中文版)"
+title: "铁电MB85RS16芯片手册中文版"
 date:   2023-03-18
 tags: [芯片,手册,中文版,铁电,MB85RS16]
 comments: true

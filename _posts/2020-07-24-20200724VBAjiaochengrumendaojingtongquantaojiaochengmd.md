@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA教程_入门到精通全套教程"
+title: "VBA教程入门到精通全套教程"
 date:   2021-10-09
 tags: [教程,VBA,学习,全套,入门]
 comments: true

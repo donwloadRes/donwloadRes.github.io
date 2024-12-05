@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12.1.17 注册机下载"
+title: "Navicat Premium 12117 注册机下载"
 date:   2020-03-21
 tags: [注册机,Navicat,Premium,17,12.1]
 comments: true

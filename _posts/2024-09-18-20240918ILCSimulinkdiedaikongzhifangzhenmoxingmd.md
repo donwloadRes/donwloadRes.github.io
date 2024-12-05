@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILC_Simulink 迭代控制仿真模型"
+title: "ILCSimulink 迭代控制仿真模型"
 date:   2021-03-13
 tags: [Simulink,迭代,ILC,模型,MATLAB]
 comments: true

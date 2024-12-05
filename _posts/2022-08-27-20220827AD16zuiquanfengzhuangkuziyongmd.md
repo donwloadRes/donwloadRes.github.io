@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD16最全封装库（自用）"
+title: "AD16最全封装库自用"
 date:   2022-07-13
 tags: [封装,AD16,最全,自用,芯片]
 comments: true

@@ -1,6 +1,28 @@
 ---
 layout: post
-title: "MongoDB+可视化界面（Robo 3T）的下载和安装指南"
+title: "MongoDB可视化界面Robo 3T的下载和安装指南
+date   20221229
+tags MongoDB安装Robo3T下载
+comments true
+author admin
+
+ MongoDB可视化界面Robo 3T的下载和安装指南
+
+本仓库提供了一个资源文件的下载该资源文件包含了MongoDB社区服务器5016的安装包以及可视化工具Robo 3T的安装包以下是详细的下载和安装步骤
+
+ 1 MongoDB下载和安装
+
+ 11 下载MongoDB
+ 下载MongoDB社区服务器5016版本
+
+ 12 MongoDB的安装
+1 点击下载好的安装包选择自定义安装路径
+2 在安装过程中取消勾选install MongoDB Compass以避免安装自带的可视化工具
+3 执行安装并在安装目录下新建mongodb的config文件
+4 在data文件夹下新建db文件夹
+5 启动MongoDB服务
+   
+   mongod dbpath dmongodbdatadb logpath dmongodblogslogtxt install serviceName MongoDB"
 date:   2022-12-29
 tags: [MongoDB,安装,Robo,3T,下载]
 comments: true

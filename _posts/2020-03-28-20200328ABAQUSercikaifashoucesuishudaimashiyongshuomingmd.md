@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS二次开发手册【随书代码使用说明】"
+title: "ABAQUS二次开发手册随书代码使用说明"
 date:   2024-12-03
 tags: [ABAQUS,二次开发,代码,GUI,手册]
 comments: true

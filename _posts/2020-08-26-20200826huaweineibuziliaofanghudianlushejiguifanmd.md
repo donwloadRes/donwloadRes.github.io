@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为内部资料：防护电路设计规范"
+title: "华为内部资料防护电路设计规范"
 date:   2024-11-21
 tags: [防护,电路设计,接口,电源接口,电路]
 comments: true

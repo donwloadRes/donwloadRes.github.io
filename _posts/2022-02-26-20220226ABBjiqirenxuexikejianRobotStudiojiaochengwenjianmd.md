@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人学习课件--RobotStudio教程文件"
+title: "ABB机器人学习课件RobotStudio教程文件"
 date:   2022-07-11
 tags: [BB机,RobotStudio,器人,软件,教程]
 comments: true

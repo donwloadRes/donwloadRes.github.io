@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大牛写的压缩感知的OMP算法（绝对简单，分享给大家）"
+title: "大牛写的压缩感知的OMP算法绝对简单分享给大家"
 date:   2024-11-20
 tags: [OMP,Matlab,算法,感知,程序]
 comments: true

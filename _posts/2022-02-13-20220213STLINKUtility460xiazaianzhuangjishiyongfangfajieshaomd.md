@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LINK Utility 4.6.0 下载安装及使用方法介绍"
+title: "STLINK Utility 460 下载安装及使用方法介绍"
 date:   2021-08-31
 tags: [ST,STM32,芯片,安装,hex]
 comments: true

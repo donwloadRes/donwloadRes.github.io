@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软技能 代码之外的生存指南》资源文件介绍"
+title: "软技能 代码之外的生存指南资源文件介绍"
 date:   2023-04-23
 tags: [技能,指南,资源,文件,代码]
 comments: true

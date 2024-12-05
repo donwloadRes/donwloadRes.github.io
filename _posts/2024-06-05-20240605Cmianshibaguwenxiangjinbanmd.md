@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面试八股文 - 详尽版"
+title: "C面试八股文  详尽版"
 date:   2020-01-13
 tags: [C++,面试,八股文,详尽,实践]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌-计组-MIPS单周期CPU设计(24条指令)(HUST)"
+title: "头歌计组MIPS单周期CPU设计24条指令HUST"
 date:   2022-01-26
 tags: [CPU,MIPS,周期,设计,指令]
 comments: true

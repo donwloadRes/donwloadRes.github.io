@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用通信接口二（CAN、I2C、SPI、UART、GPIO原理与区别）资源下载"
+title: "常用通信接口二CANI2CSPIUARTGPIO原理与区别资源下载"
 date:   2023-09-13
 tags: [通信接口,原理图,I2C,SPI,UART]
 comments: true

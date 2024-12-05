@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产以太网睿普康RPC304A.POE完美替换台湾九旸IP804A"
+title: "国产以太网睿普康RPC304APOE完美替换台湾九旸IP804A"
 date:   2022-09-20
 tags: [RPC304A,POE,以太网,IP804A,供电]
 comments: true

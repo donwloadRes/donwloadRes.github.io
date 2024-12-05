@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA 2021.1 安装与配置完整教程"
+title: "IntelliJ IDEA 20211 安装与配置完整教程"
 date:   2022-12-14
 tags: [IDEA,快捷键,安装,配置,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用系统国产化改造-信创适配总结分享"
+title: "应用系统国产化改造信创适配总结分享"
 date:   2021-02-18
 tags: [适配,数据库,应用,信创,Web]
 comments: true

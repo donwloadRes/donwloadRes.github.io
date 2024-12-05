@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD 排线座子 FPC 0.5mm 1.0mm 1.25mm 封装资源下载"
+title: "AD 排线座子 FPC 05mm 10mm 125mm 封装资源下载"
 date:   2024-06-20
 tags: [mm,排线,封装,座子,间距]
 comments: true

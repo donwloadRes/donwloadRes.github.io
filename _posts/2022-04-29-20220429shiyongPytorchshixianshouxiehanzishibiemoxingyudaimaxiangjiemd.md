@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Pytorch实现手写汉字识别：模型与代码详解"
+title: "使用Pytorch实现手写汉字识别模型与代码详解"
 date:   2021-04-07
 tags: [模型,Pytorch,汉字,识别,手写]
 comments: true

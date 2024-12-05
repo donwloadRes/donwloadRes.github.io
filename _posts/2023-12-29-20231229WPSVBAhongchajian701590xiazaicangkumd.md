@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS VBA 宏插件 7.0.1590 下载仓库"
+title: "WPS VBA 宏插件 701590 下载仓库"
 date:   2021-05-01
 tags: [WPS,插件,VBA,Windows,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++编写数据可视化大屏界面电子看板系统"
+title: "QtC编写数据可视化大屏界面电子看板系统"
 date:   2024-02-04
 tags: [数据源,大屏,板系统,界面,自定义]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress 17.2 资源文件下载"
+title: "DevExpress 172 资源文件下载"
 date:   2021-12-18
 tags: [DevExpress,17.2,文件,资源,下载]
 comments: true

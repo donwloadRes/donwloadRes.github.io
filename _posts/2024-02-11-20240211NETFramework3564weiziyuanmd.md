@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 64位资源"
+title: "NET Framework 35 64位资源"
 date:   2021-11-20
 tags: [Windows,安装,NET,64,下载]
 comments: true

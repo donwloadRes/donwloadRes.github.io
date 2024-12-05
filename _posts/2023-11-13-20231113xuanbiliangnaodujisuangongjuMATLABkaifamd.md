@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "悬臂梁挠度计算工具 - MATLAB开发"
+title: "悬臂梁挠度计算工具  MATLAB开发"
 date:   2024-01-04
 tags: [悬臂梁,挠度,弯矩,MATLAB,计算]
 comments: true

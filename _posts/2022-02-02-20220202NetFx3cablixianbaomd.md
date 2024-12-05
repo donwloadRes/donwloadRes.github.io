@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetFx3.cab 离线包"
+title: "NetFx3cab 离线包"
 date:   2024-05-23
 tags: [离线,NET,cab,Framework,3.5]
 comments: true

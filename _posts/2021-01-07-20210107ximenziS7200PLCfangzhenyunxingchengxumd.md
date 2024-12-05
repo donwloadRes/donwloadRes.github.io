@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200PLC仿真运行程序"
+title: "西门子S7200PLC仿真运行程序"
 date:   2021-07-25
 tags: [仿真,PLC,程序,S7,运行]
 comments: true

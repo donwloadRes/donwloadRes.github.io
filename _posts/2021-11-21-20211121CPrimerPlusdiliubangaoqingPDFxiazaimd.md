@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C Primer Plus》第六版高清PDF下载"
+title: "C Primer Plus第六版高清PDF下载"
 date:   2023-01-01
 tags: [C语言,编程,PDF,帮助,读者]
 comments: true

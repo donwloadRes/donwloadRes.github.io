@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JSP+Servlet+MySQL图书馆图书借阅管理系统设计"
+title: "JSPServletMySQL图书馆图书借阅管理系统设计"
 date:   2022-11-03
 tags: [图书,借阅,管理员,图书馆,MySQL]
 comments: true

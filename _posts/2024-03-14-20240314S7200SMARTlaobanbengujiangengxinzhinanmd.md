@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART 老版本固件更新指南"
+title: "S7200 SMART 老版本固件更新指南"
 date:   2024-07-12
 tags: [固件,PLC,S7,升级,200]
 comments: true

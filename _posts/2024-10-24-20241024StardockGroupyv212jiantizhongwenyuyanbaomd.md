@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stardock Groupy v2.12 简体中文语言包"
+title: "Stardock Groupy v212 简体中文语言包"
 date:   2023-12-24
 tags: [简体中文,Stardock,Groupy,语言包,v2.12]
 comments: true

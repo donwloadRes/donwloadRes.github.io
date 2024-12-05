@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11G 11.2.0.4 Windows 64位 数据库安装包"
+title: "Oracle 11G 11204 Windows 64位 数据库安装包"
 date:   2022-04-17
 tags: [64,p13390677,112040,MSWIN,x86]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266(arduino)连接阿里云物联网平台"
+title: "ESP8266arduino连接阿里云物联网平台"
 date:   2024-09-13
 tags: [ESP8266,云物,联网,阿里,平台]
 comments: true

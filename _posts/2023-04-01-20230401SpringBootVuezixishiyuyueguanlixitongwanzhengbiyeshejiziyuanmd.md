@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue自习室预约管理系统 完整毕业设计资源"
+title: "SpringBootVue自习室预约管理系统 完整毕业设计资源"
 date:   2020-03-01
 tags: [自习室,毕业设计,SpringBoot,Vue,预订]
 comments: true

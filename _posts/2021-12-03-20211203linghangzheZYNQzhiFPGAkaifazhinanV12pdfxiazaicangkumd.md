@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "领航者ZYNQ之FPGA开发指南_V1.2.pdf 下载仓库"
+title: "领航者ZYNQ之FPGA开发指南V12pdf 下载仓库"
 date:   2024-04-21
 tags: [ZYNQ,FPGA,领航者,V1.2,pdf]
 comments: true

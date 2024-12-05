@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通电力猫PLC QCA6410 芯片资料(DataSheet)"
+title: "高通电力猫PLC QCA6410 芯片资料DataSheet"
 date:   2021-08-27
 tags: [QCA6410,芯片,DataSheet,原理图,资料]
 comments: true

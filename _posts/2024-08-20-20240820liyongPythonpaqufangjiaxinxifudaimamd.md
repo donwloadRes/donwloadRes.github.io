@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python爬取房价信息(附代码)"
+title: "利用Python爬取房价信息附代码"
 date:   2020-05-06
 tags: [爬取,Python,房价,代码,信息]
 comments: true

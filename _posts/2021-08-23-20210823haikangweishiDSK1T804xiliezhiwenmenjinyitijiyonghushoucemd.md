@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视DS-K1T804系列指纹门禁一体机用户手册"
+title: "海康威视DSK1T804系列指纹门禁一体机用户手册"
 date:   2021-07-09
 tags: [威视,海康,DS,K1T804,一体机]
 comments: true

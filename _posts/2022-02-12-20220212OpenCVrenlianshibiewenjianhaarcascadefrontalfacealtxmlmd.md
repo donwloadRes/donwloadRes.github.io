@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV人脸识别文件haarcascade_frontalface_alt.xml"
+title: "OpenCV人脸识别文件haarcascadefrontalfacealtxml"
 date:   2023-09-18
 tags: [cv2,OpenCV,文件,人脸,haarcascade]
 comments: true

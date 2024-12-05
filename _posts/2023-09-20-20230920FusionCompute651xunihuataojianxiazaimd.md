@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FusionCompute 6.5.1虚拟化套件下载"
+title: "FusionCompute 651虚拟化套件下载"
 date:   2020-01-04
 tags: [FusionCompute,6.5,虚拟化,zip,压缩包]
 comments: true

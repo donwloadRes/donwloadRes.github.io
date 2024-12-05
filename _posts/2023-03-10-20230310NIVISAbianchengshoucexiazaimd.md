@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI-VISA编程手册下载"
+title: "NIVISA编程手册下载"
 date:   2021-07-26
 tags: [VISA,编程,手册,NI,下载]
 comments: true

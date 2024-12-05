@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MulHeardGridview - C# 多行表头GridView控件"
+title: "MulHeardGridview  C 多行表头GridView控件"
 date:   2021-07-04
 tags: [控件,表头,MulHeardGridview,多行,C#]
 comments: true

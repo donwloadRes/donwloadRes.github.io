@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机应用开发实战指南—基于STM32》资源下载"
+title: "电机应用开发实战指南基于STM32资源下载"
 date:   2020-11-14
 tags: [电机,驱动器,STM32,指南,开发]
 comments: true

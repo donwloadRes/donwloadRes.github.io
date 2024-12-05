@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "genus_user.pdf用户指南"
+title: "genususerpdf用户指南"
 date:   2021-12-26
 tags: [Genus,设计,Cadence,软件,genus]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EGE专栏示例程序二：2048游戏资源包"
+title: "EGE专栏示例程序二2048游戏资源包"
 date:   2023-09-08
 tags: [游戏,2048,EGE,示例,图形库]
 comments: true

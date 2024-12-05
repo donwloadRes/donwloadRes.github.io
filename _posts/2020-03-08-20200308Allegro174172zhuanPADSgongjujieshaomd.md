@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 17.4 - 17.2 转 PADS 工具介绍"
+title: "Allegro 174  172 转 PADS 工具介绍"
 date:   2021-06-01
 tags: [Allegro,PADS,17.4,17.2,文件]
 comments: true

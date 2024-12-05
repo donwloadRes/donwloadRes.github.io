@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "创惟USB3.1 10Gbps芯片GL3590数据手册下载"
+title: "创惟USB31 10Gbps芯片GL3590数据手册下载"
 date:   2022-02-12
 tags: [GL3590,手册,创惟,芯片,USB3.1]
 comments: true

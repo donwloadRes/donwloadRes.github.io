@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外与可见光图像配准算法（MATLAB版代码）"
+title: "红外与可见光图像配准算法MATLAB版代码"
 date:   2024-03-10
 tags: [配准,图像,算法,可见光,MATLAB]
 comments: true

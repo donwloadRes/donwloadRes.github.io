@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 调用 Windows API user32.dll 实现鼠标事件示例 - 自动点击工具"
+title: "C Winform 调用 Windows API user32dll 实现鼠标事件示例  自动点击工具"
 date:   2023-01-28
 tags: [点击,dll,user32,鼠标,Windows]
 comments: true

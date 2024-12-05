@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract OCR 4.1.1 Linux 安装包及资源集合"
+title: "Tesseract OCR 411 Linux 安装包及资源集合"
 date:   2022-02-12
 tags: [Tesseract,OCR,安装,离线,中文]
 comments: true

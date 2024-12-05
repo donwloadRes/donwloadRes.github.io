@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口自动应答工具 - 自动回复"
+title: "串口自动应答工具  自动回复"
 date:   2022-11-03
 tags: [串口,回复,工具,自动应答,自动]
 comments: true

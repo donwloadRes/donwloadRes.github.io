@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大话设计模式(附带代码)"
+title: "大话设计模式附带代码"
 date:   2021-05-30
 tags: [设计模式,代码,大话,开发者,文档]
 comments: true

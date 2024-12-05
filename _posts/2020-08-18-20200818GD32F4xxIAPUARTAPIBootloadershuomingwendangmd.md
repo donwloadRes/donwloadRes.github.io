@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F4xx_IAP UART API Bootloader 说明文档"
+title: "GD32F4xxIAP UART API Bootloader 说明文档"
 date:   2021-10-16
 tags: [GD32F4xx,IAP,固件,UART,API]
 comments: true

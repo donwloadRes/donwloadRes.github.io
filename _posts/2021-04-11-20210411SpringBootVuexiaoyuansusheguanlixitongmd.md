@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + Vue 校园宿舍管理系统"
+title: "SpringBoot  Vue 校园宿舍管理系统"
 date:   2020-10-06
 tags: [管理,录入,宿舍,查询,晚归]
 comments: true

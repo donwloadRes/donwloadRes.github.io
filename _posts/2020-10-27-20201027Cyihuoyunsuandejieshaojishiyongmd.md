@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++异或运算的介绍及使用"
+title: "C异或运算的介绍及使用"
 date:   2022-10-21
 tags: [异或,运算,示例,代码,C++]
 comments: true

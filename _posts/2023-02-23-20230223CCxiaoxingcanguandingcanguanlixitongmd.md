@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 小型餐馆订餐管理系统"
+title: "CC 小型餐馆订餐管理系统"
 date:   2020-11-09
 tags: [订餐,信息,预订,C++,餐馆]
 comments: true

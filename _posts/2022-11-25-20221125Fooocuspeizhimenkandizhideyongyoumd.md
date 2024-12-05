@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fooocus配置门槛低，值得拥有！"
+title: "Fooocus配置门槛低值得拥有"
 date:   2024-07-31
 tags: [Fooocus,配置,用户,文件,高效]
 comments: true

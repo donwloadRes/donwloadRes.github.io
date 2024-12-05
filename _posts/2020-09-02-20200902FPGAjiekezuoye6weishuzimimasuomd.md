@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA结课作业：6位数字密码锁"
+title: "FPGA结课作业6位数字密码锁"
 date:   2021-09-13
 tags: [FPGA,密码,密码锁,输入,解锁]
 comments: true

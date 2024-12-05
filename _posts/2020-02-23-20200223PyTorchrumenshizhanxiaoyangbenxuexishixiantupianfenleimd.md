@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch入门实战：小样本学习实现图片分类"
+title: "PyTorch入门实战小样本学习实现图片分类"
 date:   2020-03-09
 tags: [PyTorch,模型,样本,教程,验证]
 comments: true

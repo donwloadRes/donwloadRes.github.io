@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D C# 实现滑动条(Slider)扩展功能指南"
+title: "Unity3D C 实现滑动条Slider扩展功能指南"
 date:   2024-01-12
 tags: [滑动,Slider,sliderComponent,点击,拖拽]
 comments: true

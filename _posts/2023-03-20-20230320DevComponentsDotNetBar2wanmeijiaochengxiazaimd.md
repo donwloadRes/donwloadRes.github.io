@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevComponents.DotNetBar2完美教程下载"
+title: "DevComponentsDotNetBar2完美教程下载"
 date:   2022-12-10
 tags: [DevComponents,DotNetBar2,教程,完美,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理实验报告-词法分析"
+title: "编译原理实验报告词法分析"
 date:   2024-08-10
 tags: [词法,实验报告,C语言,代码,编译程序]
 comments: true

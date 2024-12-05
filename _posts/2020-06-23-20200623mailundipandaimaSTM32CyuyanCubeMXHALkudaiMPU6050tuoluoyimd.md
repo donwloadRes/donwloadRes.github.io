@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麦轮底盘代码 - STM32, C语言, CubeMX, HAL库, 带MPU6050陀螺仪"
+title: "麦轮底盘代码  STM32 C语言 CubeMX HAL库 带MPU6050陀螺仪"
 date:   2022-08-02
 tags: [代码,STM32,麦轮,陀螺仪,底盘]
 comments: true

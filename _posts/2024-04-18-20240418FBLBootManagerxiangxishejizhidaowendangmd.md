@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FBL-BootManager详细设计指导文档"
+title: "FBLBootManager详细设计指导文档"
 date:   2021-02-20
 tags: [文档,FBL,BootManager,bootloader,设计]
 comments: true

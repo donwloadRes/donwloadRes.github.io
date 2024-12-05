@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino环境安装ESP32（详细教程）"
+title: "Arduino环境安装ESP32详细教程"
 date:   2020-06-01
 tags: [ESP32,开发板,Arduino,安装,教程]
 comments: true

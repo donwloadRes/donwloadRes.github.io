@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学知识点整理（超级全面详细！）"
+title: "离散数学知识点整理超级全面详细"
 date:   2021-07-19
 tags: [离散数学,知识点,考研,整理,复习]
 comments: true

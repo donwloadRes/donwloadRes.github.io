@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#模拟智能驾驶直线调整算法软件（工程文件）"
+title: "C模拟智能驾驶直线调整算法软件工程文件"
 date:   2021-03-24
 tags: [C#,算法,驾驶,智能,直线]
 comments: true

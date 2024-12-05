@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【软件安装】mingw快速安装"
+title: "软件安装mingw快速安装"
 date:   2024-10-17
 tags: [mingw,安装,文件,快速,资源]
 comments: true

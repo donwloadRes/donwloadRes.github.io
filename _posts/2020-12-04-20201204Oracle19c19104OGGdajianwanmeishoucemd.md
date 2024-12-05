@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 19c 19.1.0.4 + OGG 搭建完美手册"
+title: "Oracle 19c 19104  OGG 搭建完美手册"
 date:   2023-03-17
 tags: [OGG,Oracle,手册,19c,搭建]
 comments: true

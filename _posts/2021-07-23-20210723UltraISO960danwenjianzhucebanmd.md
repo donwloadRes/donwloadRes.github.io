@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UltraISO 9.6.0 单文件注册版"
+title: "UltraISO 960 单文件注册版"
 date:   2020-09-15
 tags: [ISO,映像,文件,光盘,刻录]
 comments: true

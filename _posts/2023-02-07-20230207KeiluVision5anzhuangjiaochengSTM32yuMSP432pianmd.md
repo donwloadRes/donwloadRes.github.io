@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision5 安装教程：STM32 与 MSP432 篇"
+title: "Keil uVision5 安装教程STM32 与 MSP432 篇"
 date:   2022-06-02
 tags: [Keil,uVision5,安装,破解,教程]
 comments: true

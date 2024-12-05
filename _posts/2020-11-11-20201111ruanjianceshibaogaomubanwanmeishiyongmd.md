@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件测试报告模板(完美实用)"
+title: "软件测试报告模板完美实用"
 date:   2022-04-10
 tags: [测试报告,测试,模板,报告,测试用例]
 comments: true

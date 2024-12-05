@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB标准（IEC 62368-1 2014 中文版） 62368通标中文"
+title: "GB标准IEC 623681 2014 中文版 62368通标中文"
 date:   2023-05-20
 tags: [62368,中文版,文件,GB,通标]
 comments: true

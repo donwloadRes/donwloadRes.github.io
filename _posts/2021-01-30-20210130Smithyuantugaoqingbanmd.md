@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smith圆图（高清版）"
+title: "Smith圆图高清版"
 date:   2020-08-29
 tags: [Smith,圆图,高清,使用,匹配]
 comments: true

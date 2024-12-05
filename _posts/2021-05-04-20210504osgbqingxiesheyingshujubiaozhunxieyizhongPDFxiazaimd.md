@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osgb倾斜摄影数据标准协议（终） PDF 下载"
+title: "osgb倾斜摄影数据标准协议终 PDF 下载"
 date:   2023-04-21
 tags: [osgb,标准协议,摄影,倾斜,PDF]
 comments: true

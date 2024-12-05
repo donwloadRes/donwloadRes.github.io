@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mipi_UniPro_specification_v1-8.pdf"
+title: "mipiUniProspecificationv18pdf"
 date:   2023-11-12
 tags: [UniPro,MIPI,规范,协议,低功耗]
 comments: true

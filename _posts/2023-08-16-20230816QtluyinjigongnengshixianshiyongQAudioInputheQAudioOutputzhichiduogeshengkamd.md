@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt录音机功能实现：使用QAudioInput和QAudioOutput（支持多个声卡）"
+title: "Qt录音机功能实现使用QAudioInput和QAudioOutput支持多个声卡"
 date:   2024-03-25
 tags: [声卡,Qt,使用,资源,录音机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dell R720-R720xd-R730-R730xd iDRAC风扇调速控件"
+title: "Dell R720R720xdR730R730xd iDRAC风扇调速控件"
 date:   2021-07-25
 tags: [控件,风扇,服务器,转速,调速]
 comments: true

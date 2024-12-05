@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态素材(BMP)下载"
+title: "组态素材BMP下载"
 date:   2024-10-21
 tags: [组态,素材,BMP,软件,bmp]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SciChart v6.0 SDK与简单Demo"
+title: "SciChart v60 SDK与简单Demo"
 date:   2020-07-19
 tags: [SciChart,v6.0,SDK,Demo,简单]
 comments: true

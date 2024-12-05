@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO物体检测系列算法介绍 - 70页PPT资源"
+title: "YOLO物体检测系列算法介绍  70页PPT资源"
 date:   2024-06-27
 tags: [YOLO,算法,PPT,检测,系列]
 comments: true

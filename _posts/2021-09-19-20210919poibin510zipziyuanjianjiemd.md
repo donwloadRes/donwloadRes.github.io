@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "poi-bin-5.1.0.zip 资源简介"
+title: "poibin510zip 资源简介"
 date:   2022-12-24
 tags: [POI,Apache,5.1,文档,zip]
 comments: true

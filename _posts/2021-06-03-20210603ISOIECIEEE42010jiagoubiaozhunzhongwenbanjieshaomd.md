@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC-IEEE 42010 架构标准中文版介绍"
+title: "ISOIECIEEE 42010 架构标准中文版介绍"
 date:   2023-05-30
 tags: [架构,ISO,IEC,ADLs,说明]
 comments: true

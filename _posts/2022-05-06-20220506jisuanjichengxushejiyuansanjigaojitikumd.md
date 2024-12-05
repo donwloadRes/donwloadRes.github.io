@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机程序设计员三级（高级）题库"
+title: "计算机程序设计员三级高级题库"
 date:   2023-07-18
 tags: [设计员,计算机程序,题库,三级,高级]
 comments: true

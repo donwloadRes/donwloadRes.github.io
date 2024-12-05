@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志 A40i 用户手册、数据手册和原理图"
+title: "全志 A40i 用户手册数据手册和原理图"
 date:   2020-02-03
 tags: [A40i,全志,原理图,手册,用户手册]
 comments: true

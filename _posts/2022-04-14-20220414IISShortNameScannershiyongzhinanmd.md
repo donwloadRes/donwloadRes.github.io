@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IIS-ShortName-Scanner 使用指南"
+title: "IISShortNameScanner 使用指南"
 date:   2020-10-22
 tags: [IIS,ShortName,Scanner,漏洞,工具]
 comments: true

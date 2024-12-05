@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP-12F 烧录使用软件与说明书"
+title: "ESP12F 烧录使用软件与说明书"
 date:   2021-12-31
 tags: [ESP,12F,模块,烧录,调试]
 comments: true

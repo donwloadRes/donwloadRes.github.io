@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#水准网平差设计程序"
+title: "C水准网平差设计程序"
 date:   2023-05-20
 tags: [平差,程序,C#,网平差,水准]
 comments: true

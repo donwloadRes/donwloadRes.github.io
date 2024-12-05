@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于S32KDS平台SDK3.0的LinStack组件测试例程"
+title: "基于S32KDS平台SDK30的LinStack组件测试例程"
 date:   2020-12-08
 tags: [S32KDS,例程,LIN,LDF,测试]
 comments: true

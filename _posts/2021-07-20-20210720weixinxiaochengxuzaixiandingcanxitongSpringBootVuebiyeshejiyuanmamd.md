@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序在线订餐系统(SpringBoot+Vue) 毕业设计源码"
+title: "微信小程序在线订餐系统SpringBootVue 毕业设计源码"
 date:   2022-03-13
 tags: [订餐,微信,菜品,SpringBoot,Vue]
 comments: true

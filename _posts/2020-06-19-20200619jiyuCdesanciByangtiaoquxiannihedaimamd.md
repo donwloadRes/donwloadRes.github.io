@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C++的三次B样条曲线拟合代码"
+title: "基于C的三次B样条曲线拟合代码"
 date:   2022-11-11
 tags: [样条,代码,拟合,曲线拟合,C++]
 comments: true

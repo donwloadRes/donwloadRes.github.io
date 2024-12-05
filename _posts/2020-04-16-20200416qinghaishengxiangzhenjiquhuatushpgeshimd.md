@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青海省乡镇级区划图（shp格式）"
+title: "青海省乡镇级区划图shp格式"
 date:   2022-06-15
 tags: [乡镇级,shp,青海省,区划图,ArcGIS]
 comments: true

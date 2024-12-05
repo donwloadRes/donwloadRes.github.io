@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPIO模拟MDC-MDIO驱动代码"
+title: "GPIO模拟MDCMDIO驱动代码"
 date:   2021-05-13
 tags: [驱动,GPIO,MDIO,VxWorks,代码]
 comments: true

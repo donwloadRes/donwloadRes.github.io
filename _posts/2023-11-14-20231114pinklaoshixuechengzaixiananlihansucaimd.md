@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pink老师学成在线案例(含素材)"
+title: "pink老师学成在线案例含素材"
 date:   2024-06-02
 tags: [HTML,学成,pink,在线,CSS]
 comments: true

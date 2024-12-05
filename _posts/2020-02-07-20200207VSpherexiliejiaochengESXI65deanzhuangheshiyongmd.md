@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSphere系列教程：ESXI 6.5 的安装和使用"
+title: "VSphere系列教程ESXI 65 的安装和使用"
 date:   2022-11-03
 tags: [ESXI,安装,虚拟机,教程,6.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOTween Pro 1.0.310 兼容 Unity 2021.2.15 版本"
+title: "DOTween Pro 10310 兼容 Unity 2021215 版本"
 date:   2022-11-21
 tags: [Unity,DOTween,Pro,15,2021.2]
 comments: true

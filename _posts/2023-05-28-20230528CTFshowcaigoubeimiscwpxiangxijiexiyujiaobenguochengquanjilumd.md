@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTFshow菜狗杯-misc-wp 详细解析与脚本过程全记录"
+title: "CTFshow菜狗杯miscwp 详细解析与脚本过程全记录"
 date:   2022-06-29
 tags: [解题,文档,题目,脚本,解析]
 comments: true

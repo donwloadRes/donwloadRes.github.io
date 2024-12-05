@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIXHAWK 飞控硬件资源 2.4.5 版本"
+title: "PIXHAWK 飞控硬件资源 245 版本"
 date:   2024-03-13
 tags: [PIXHAWK,飞控,元器件,硬件,硬件资源]
 comments: true

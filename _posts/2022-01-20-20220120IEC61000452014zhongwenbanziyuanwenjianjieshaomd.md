@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-61000-4-5-2014 中文版资源文件介绍"
+title: "IEC61000452014 中文版资源文件介绍"
 date:   2023-04-30
 tags: [试验,耦合,介绍,互连,校准]
 comments: true

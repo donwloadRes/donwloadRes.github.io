@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 2021A 官方中文文档 - 入门部分"
+title: "MATLAB 2021A 官方中文文档  入门部分"
 date:   2021-09-10
 tags: [MATLAB,文档,入门,2021A,官方]
 comments: true

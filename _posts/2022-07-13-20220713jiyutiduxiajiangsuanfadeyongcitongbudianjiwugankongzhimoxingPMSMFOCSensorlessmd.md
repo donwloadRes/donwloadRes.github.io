@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于梯度下降算法的永磁同步电机无感控制模型 (PMSM FOC Sensorless)"
+title: "基于梯度下降算法的永磁同步电机无感控制模型 PMSM FOC Sensorless"
 date:   2021-06-17
 tags: [无感,控制,算法,PMSM,电机]
 comments: true

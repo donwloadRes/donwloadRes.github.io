@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.12.1-6-9-12 Linux 安装包下载"
+title: "Qt 51216912 Linux 安装包下载"
 date:   2022-09-09
 tags: [qt,安装包,run,5.12,opensource]
 comments: true

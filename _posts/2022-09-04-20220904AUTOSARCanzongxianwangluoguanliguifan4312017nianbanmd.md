@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR Can总线网络管理规范4.3.1-2017年版"
+title: "AUTOSAR Can总线网络管理规范4312017年版"
 date:   2023-05-20
 tags: [AUTOSAR,4.3,网络管理,规范,总线]
 comments: true

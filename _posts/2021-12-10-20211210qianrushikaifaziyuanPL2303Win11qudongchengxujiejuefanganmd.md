@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式开发资源：PL2303 Win11 驱动程序解决方案"
+title: "嵌入式开发资源PL2303 Win11 驱动程序解决方案"
 date:   2021-06-04
 tags: [驱动程序,PL2303,安装,博客,嵌入式]
 comments: true

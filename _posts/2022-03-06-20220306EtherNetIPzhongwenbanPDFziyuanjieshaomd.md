@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherNet-IP（中文版）PDF资源介绍"
+title: "EtherNetIP中文版PDF资源介绍"
 date:   2020-03-11
 tags: [EtherNet,IP,PDF,中文版,技术]
 comments: true

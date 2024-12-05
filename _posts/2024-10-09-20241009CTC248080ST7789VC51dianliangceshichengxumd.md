@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTC2.4+8080+ST7789V C51 点亮测试程序"
+title: "CTC248080ST7789V C51 点亮测试程序"
 date:   2023-09-17
 tags: [8080,测试程序,显示屏,点亮,编译]
 comments: true

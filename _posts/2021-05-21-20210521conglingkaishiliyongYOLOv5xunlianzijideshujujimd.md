@@ -1,6 +1,47 @@
 ---
 layout: post
-title: "从零开始：利用YOLOv5训练自己的数据集"
+title: "从零开始利用YOLOv5训练自己的数据集
+date   20220505
+tags YOLOv5训练文件yaml
+comments true
+author admin
+
+ 从零开始利用YOLOv5训练自己的数据集
+
+本资源文件提供了从零开始利用YOLOv5训练自己的数据集的详细教程包含coco128数据集和YOLOv5权重文件的国内下载链接更新于2020年7月28日
+
+ 内容概述
+
+1 准备工作
+    下载YOLOv5项目
+    下载官方例子的数据集
+    安装项目需求
+
+2 训练自定义数据
+    创建Dataset的yaml文件
+    创建标签
+    组织目录
+    选择模型
+    训练模型
+
+3 可视化
+    查看训练图像标签和增强效果
+    查看每代的预测结果
+    查看训练的损失和性能指标
+
+4 补充
+    解决常见问题
+    更新YOLOv5文件
+
+ 使用步骤
+
+ 1 准备工作
+
+首先克隆YOLOv5项目并下载官方例子的数据集
+
+bash
+git clone httpsgithubcomultralyticsyolov5
+python3 c from yolov5utilsgoogleutils import gdrivedownload gdrivedownload1noKgR81BJtqk75b00eAjdv03qVCQn2f coco128zip"
 date:   2022-05-05
 tags: [YOLOv5,训练,--,文件,yaml]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-WROOM-32E数据手册-中文版"
+title: "ESP32WROOM32E数据手册中文版"
 date:   2023-09-14
 tags: [ESP32,WROOM,32E,手册,中文版]
 comments: true

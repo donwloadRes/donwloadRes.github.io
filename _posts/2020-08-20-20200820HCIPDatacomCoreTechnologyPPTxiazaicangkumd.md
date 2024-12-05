@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Datacom-Core Technology PPT 下载仓库"
+title: "HCIPDatacomCore Technology PPT 下载仓库"
 date:   2024-07-08
 tags: [PPT,HCIP,Datacom,Core,Technology]
 comments: true

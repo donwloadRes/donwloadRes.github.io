@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交换机不同VLAN、不同网段之间互访实现指南"
+title: "交换机不同VLAN不同网段之间互访实现指南"
 date:   2023-09-27
 tags: [网段,交换机,VLAN,互访,不同]
 comments: true

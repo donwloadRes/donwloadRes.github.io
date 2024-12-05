@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "max30102心率、血氧识别算法指南"
+title: "max30102心率血氧识别算法指南"
 date:   2023-01-22
 tags: [算法,心率,max30102,MAX30102,血氧]
 comments: true

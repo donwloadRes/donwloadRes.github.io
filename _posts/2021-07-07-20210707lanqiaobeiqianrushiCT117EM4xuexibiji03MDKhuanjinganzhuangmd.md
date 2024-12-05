@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯嵌入式CT117E-M4学习笔记03-MDK环境安装"
+title: "蓝桥杯嵌入式CT117EM4学习笔记03MDK环境安装"
 date:   2024-09-23
 tags: [MDK,安装,Keil,Arm,Pack]
 comments: true

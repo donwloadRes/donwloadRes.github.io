@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS-GEM标准规范-金南瓜"
+title: "SECSGEM标准规范金南瓜"
 date:   2021-09-22
 tags: [SECS,GEM,协议,标准规范,半导体]
 comments: true

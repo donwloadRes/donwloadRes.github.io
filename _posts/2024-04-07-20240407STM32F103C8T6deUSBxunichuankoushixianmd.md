@@ -1,6 +1,30 @@
 ---
 layout: post
-title: "STM32F103C8T6的USB虚拟串口实现"
+title: "STM32F103C8T6的USB虚拟串口实现
+date   20230412
+tags USB串口includeSTM32F103C8T6代码
+comments true
+author admin
+
+ STM32F103C8T6的USB虚拟串口实现
+
+ 简介
+本资源文件详细介绍了如何在STM32F103C8T6微控制器上实现USB虚拟串口功能通过该实现用户可以将STM32F103C8T6设备通过USB接口模拟为虚拟串口从而方便地进行串口通信
+
+ 实现步骤
+1 安装驱动首先需要在电脑上安装VCP驱动确保设备能够被识别
+2 添加代码将官方USB驱动库相关代码拷贝到工程文件夹下的USB文件夹中并在CONFIG文件夹中存放Virtual COM相关代码
+3 配置工程在工程中新建分组USBCORE和USBCONFIG并按图所示添加c文件和头文件路径
+4 性能测试通过编写测试代码确保USB虚拟串口的连接和通信的正确性
+
+ 性能测试
+在实现过程中可以通过以下代码进行性能测试
+c
+include sysh
+include delayh
+include usarth
+include ledh
+include lcdh"
 date:   2023-04-12
 tags: [USB,串口,include,STM32F103C8T6,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理-龙书-习题答案"
+title: "编译原理龙书习题答案"
 date:   2023-08-21
 tags: [符号串,习题,龙书,文法,答案]
 comments: true

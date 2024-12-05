@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB 50174-2017 数据中心设计规范"
+title: "GB 501742017 数据中心设计规范"
 date:   2021-06-20
 tags: [数据中心,2017,设计规范,GB,50174]
 comments: true

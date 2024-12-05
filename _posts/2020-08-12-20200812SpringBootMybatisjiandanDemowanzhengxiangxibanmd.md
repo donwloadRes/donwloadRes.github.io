@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Mybatis简单Demo完整详细版"
+title: "SpringBootMybatis简单Demo完整详细版"
 date:   2024-09-21
 tags: [SpringBoot,Mybatis,Demo,拦截器,登录]
 comments: true

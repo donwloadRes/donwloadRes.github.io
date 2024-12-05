@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC_flexible_SMART_V3SP1、SP2和WinccV7.3、WinccV7.4下载地址"
+title: "WinCCflexibleSMARTV3SP1SP2和WinccV73WinccV74下载地址"
 date:   2024-05-04
 tags: [编程,WinCC,flexible,SMART,触摸屏]
 comments: true

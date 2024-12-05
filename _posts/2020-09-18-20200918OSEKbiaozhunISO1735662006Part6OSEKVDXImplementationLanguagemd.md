@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK标准_ISO 17356-6-2006_Part 6 OSEKVDX Implementation Language"
+title: "OSEK标准ISO 1735662006Part 6 OSEKVDX Implementation Language"
 date:   2024-05-01
 tags: [ISO,17356,OSEK,2006,OIL]
 comments: true

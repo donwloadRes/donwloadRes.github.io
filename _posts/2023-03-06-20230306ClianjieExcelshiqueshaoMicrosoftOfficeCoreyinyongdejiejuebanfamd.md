@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接Excel时缺少Microsoft.Office.Core引用的解决办法"
+title: "C连接Excel时缺少MicrosoftOfficeCore引用的解决办法"
 date:   2023-03-10
 tags: [Microsoft,Office,Core,引用,Excel]
 comments: true

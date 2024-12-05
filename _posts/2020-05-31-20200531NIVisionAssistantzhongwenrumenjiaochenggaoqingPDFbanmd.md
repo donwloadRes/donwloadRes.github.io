@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI Vision Assistant中文入门教程（高清PDF版）"
+title: "NI Vision Assistant中文入门教程高清PDF版"
 date:   2020-12-19
 tags: [NI,Vision,Assistant,PDF,教程]
 comments: true

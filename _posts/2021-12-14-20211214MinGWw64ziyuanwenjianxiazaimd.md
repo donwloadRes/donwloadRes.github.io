@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64 资源文件下载"
+title: "MinGWw64 资源文件下载"
 date:   2021-05-04
 tags: [w64,MinGW,下载,文件,mingw]
 comments: true

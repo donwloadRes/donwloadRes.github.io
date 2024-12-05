@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadecne Skill自学堂——第二节：Skill开发环境搭建"
+title: "Cadecne Skill自学堂第二节Skill开发环境搭建"
 date:   2024-06-30
 tags: [Skill,开发,搭建,教程,环境]
 comments: true

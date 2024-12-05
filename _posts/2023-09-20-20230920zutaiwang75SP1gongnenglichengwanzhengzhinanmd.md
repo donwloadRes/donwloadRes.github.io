@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王7.5SP1功能例程完整指南"
+title: "组态王75SP1功能例程完整指南"
 date:   2022-08-18
 tags: [组态王,例程,7.5,SP1,功能]
 comments: true

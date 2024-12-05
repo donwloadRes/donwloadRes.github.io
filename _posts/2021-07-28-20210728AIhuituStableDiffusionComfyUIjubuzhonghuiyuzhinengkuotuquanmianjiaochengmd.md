@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘图：Stable Diffusion ComfyUI局部重绘与智能扩图全面教程"
+title: "AI绘图Stable Diffusion ComfyUI局部重绘与智能扩图全面教程"
 date:   2024-01-27
 tags: [图像,节点,重绘,VAE,外补]
 comments: true

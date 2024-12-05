@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "成人用品独立站从0-1入门教程"
+title: "成人用品独立站从01入门教程"
 date:   2021-05-10
 tags: [成人,用品,独立,引流,教程]
 comments: true

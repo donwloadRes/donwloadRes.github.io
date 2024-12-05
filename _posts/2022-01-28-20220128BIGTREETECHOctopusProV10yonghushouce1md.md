@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIGTREETECH Octopus Pro V1.0 用户手册1"
+title: "BIGTREETECH Octopus Pro V10 用户手册1"
 date:   2021-10-24
 tags: [用户手册,树莓,BIGTREETECH,Octopus,Pro]
 comments: true

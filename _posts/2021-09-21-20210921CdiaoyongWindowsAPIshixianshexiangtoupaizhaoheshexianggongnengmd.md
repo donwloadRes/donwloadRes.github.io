@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用Windows API实现摄像头拍照和摄像功能"
+title: "C调用Windows API实现摄像头拍照和摄像功能"
 date:   2022-04-04
 tags: [摄像头,摄像,拍照,C#,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USDT支付系统源码：三级分销与API自动回调"
+title: "USDT支付系统源码三级分销与API自动回调"
 date:   2020-03-23
 tags: [源码,USDT,API,文档,提币]
 comments: true

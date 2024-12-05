@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320F2812伺服电机控制器原理图+PCB"
+title: "TMS320F2812伺服电机控制器原理图PCB"
 date:   2020-12-23
 tags: [原理图,PCB,伺服电机,文件,控制器]
 comments: true

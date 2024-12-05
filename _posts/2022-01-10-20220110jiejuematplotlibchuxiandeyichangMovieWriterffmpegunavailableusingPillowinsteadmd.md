@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决matplotlib出现的异常：MovieWriter ffmpeg unavailable； using Pillow instead"
+title: "解决matplotlib出现的异常MovieWriter ffmpeg unavailable using Pillow instead"
 date:   2022-06-06
 tags: [ffmpeg,matplotlib,python,MovieWriter,unavailable]
 comments: true

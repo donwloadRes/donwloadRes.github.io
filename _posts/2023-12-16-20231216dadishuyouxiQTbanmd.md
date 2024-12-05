@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "打地鼠游戏 - QT版"
+title: "打地鼠游戏  QT版"
 date:   2023-06-20
 tags: [QT,游戏,地鼠,编程,项目]
 comments: true

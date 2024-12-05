@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK各版本资源下载(1.7以及以上版本)"
+title: "JDK各版本资源下载17以及以上版本"
 date:   2020-12-29
 tags: [JDK,1.7,版本,下载,安装包]
 comments: true

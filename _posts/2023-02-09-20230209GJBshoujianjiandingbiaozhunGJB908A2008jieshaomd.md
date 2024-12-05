@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB首件鉴定标准 GJB908A-2008 介绍"
+title: "GJB首件鉴定标准 GJB908A2008 介绍"
 date:   2024-12-04
 tags: [首件,鉴定,标准,GJB908A,2008]
 comments: true

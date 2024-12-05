@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 2.0 汉化包+教程"
+title: "Android Studio 20 汉化包教程"
 date:   2021-09-06
 tags: [Android,汉化包,Studio,2.0,jar]
 comments: true

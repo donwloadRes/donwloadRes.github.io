@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VISA32.DLL 资源文件下载"
+title: "VISA32DLL 资源文件下载"
 date:   2021-02-18
 tags: [visa32,dll,文件,zip,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为-标签平台与数据建模方案"
+title: "华为标签平台与数据建模方案"
 date:   2020-05-15
 tags: [用户,华为,标签,平台,画像]
 comments: true

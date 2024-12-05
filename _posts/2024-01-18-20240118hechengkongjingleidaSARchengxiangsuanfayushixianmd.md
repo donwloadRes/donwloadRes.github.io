@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "合成孔径雷达（SAR）成像算法与实现"
+title: "合成孔径雷达SAR成像算法与实现"
 date:   2024-04-14
 tags: [SAR,算法,成像,合成孔径雷达,本书]
 comments: true

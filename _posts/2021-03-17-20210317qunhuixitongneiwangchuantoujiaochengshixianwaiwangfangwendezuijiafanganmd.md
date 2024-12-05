@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群晖系统内网穿透教程：实现外网访问的最佳方案"
+title: "群晖系统内网穿透教程实现外网访问的最佳方案"
 date:   2022-02-26
 tags: [群晖,教程,NAS,访问,架构]
 comments: true

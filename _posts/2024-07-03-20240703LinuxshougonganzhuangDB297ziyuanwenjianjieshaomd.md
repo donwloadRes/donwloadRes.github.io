@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 手工安装 DB2 9.7 资源文件介绍"
+title: "Linux 手工安装 DB2 97 资源文件介绍"
 date:   2020-06-04
 tags: [安装,DB2,9.7,文件,Linux]
 comments: true

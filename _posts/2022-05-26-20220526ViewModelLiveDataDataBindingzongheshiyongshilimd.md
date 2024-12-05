@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ViewModel + LiveData + DataBinding 综合使用示例"
+title: "ViewModel  LiveData  DataBinding 综合使用示例"
 date:   2020-08-13
 tags: [ViewModel,LiveData,DataBinding,UI,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入Java虚拟机：JVM G1GC的算法与实现"
+title: "深入Java虚拟机JVM G1GC的算法与实现"
 date:   2024-08-18
 tags: [Java,JVM,虚拟机,G1GC,算法]
 comments: true

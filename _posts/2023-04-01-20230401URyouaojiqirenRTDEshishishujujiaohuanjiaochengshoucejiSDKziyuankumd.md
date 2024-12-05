@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UR-优遨机器人RTDE(实时数据交换)教程、手册及SDK资源库"
+title: "UR优遨机器人RTDE实时数据交换教程手册及SDK资源库"
 date:   2020-05-09
 tags: [RTDE,机器人,UR,SDK,实时]
 comments: true

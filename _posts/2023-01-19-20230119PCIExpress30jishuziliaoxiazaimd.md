@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 3.0 技术资料下载"
+title: "PCI Express 30 技术资料下载"
 date:   2024-04-30
 tags: [PCI,Express,3.0,MindShare,PDF]
 comments: true

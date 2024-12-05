@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103移植Zbar算法，识别QRcode二维码工程"
+title: "STM32F103移植Zbar算法识别QRcode二维码工程"
 date:   2022-03-26
 tags: [Zbar,STM32F103,摄像头,二维码,识别]
 comments: true

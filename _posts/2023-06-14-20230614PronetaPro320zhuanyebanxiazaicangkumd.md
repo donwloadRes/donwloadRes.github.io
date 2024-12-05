@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proneta Pro 3.2.0 专业版 下载仓库"
+title: "Proneta Pro 320 专业版 下载仓库"
 date:   2020-02-29
 tags: [3.2,Proneta,Pro,专业版,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZedBoard+AD9361 FPGA的PL端纯逻辑配置控制9361（三） - 建立完整工程实战指南"
+title: "ZedBoardAD9361 FPGA的PL端纯逻辑配置控制9361三  建立完整工程实战指南"
 date:   2024-09-01
 tags: [AD9361,设计,FPGA,Vivado,SPI]
 comments: true

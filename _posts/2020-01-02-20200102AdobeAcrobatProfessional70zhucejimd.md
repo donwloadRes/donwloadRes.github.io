@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Acrobat Professional 7.0 注册机"
+title: "Adobe Acrobat Professional 70 注册机"
 date:   2021-01-23
 tags: [注册机,Adobe,Acrobat,Professional,7.0]
 comments: true

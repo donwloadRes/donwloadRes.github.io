@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学编译原理》资源下载"
+title: "清华大学编译原理资源下载"
 date:   2023-10-18
 tags: [编译,原理,清华大学,资源,下载]
 comments: true

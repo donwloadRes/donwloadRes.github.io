@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F0AM教程中文版 - MCM模型教程中文翻译"
+title: "F0AM教程中文版  MCM模型教程中文翻译"
 date:   2023-01-21
 tags: [F0AM,教程,MCM,大气,模拟]
 comments: true

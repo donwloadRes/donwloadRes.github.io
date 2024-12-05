@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码实现：基于分时电价的家庭能量管理策略研究"
+title: "MATLAB代码实现基于分时电价的家庭能量管理策略研究"
 date:   2024-02-03
 tags: [MATLAB,能量,代码,电价,优化]
 comments: true

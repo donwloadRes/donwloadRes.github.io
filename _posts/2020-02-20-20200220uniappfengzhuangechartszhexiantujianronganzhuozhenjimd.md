@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app封装echarts折线图：兼容安卓真机"
+title: "uniapp封装echarts折线图兼容安卓真机"
 date:   2024-11-30
 tags: [uni,app,ECharts,折线图,封装]
 comments: true

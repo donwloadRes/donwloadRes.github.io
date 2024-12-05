@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows下载openjdk8（附赠安装包）"
+title: "windows下载openjdk8附赠安装包"
 date:   2023-01-11
 tags: [OpenJDK,安装,下载,安装包,环境变量]
 comments: true

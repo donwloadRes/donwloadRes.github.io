@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计：宾馆管理系统"
+title: "数据库课程设计宾馆管理系统"
 date:   2022-03-01
 tags: [数据库,系统,设计,宾馆,数据库系统]
 comments: true

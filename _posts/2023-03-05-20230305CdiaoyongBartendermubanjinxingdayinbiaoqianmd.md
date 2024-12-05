@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++调用Bartender模板进行打印标签"
+title: "C调用Bartender模板进行打印标签"
 date:   2023-03-16
 tags: [打印,Bartender,模板,标签,序列化]
 comments: true

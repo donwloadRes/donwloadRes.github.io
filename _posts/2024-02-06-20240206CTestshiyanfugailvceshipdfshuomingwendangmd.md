@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Test实验（覆盖率测试）.pdf 说明文档"
+title: "C Test实验覆盖率测试pdf 说明文档"
 date:   2022-07-14
 tags: [覆盖率,测试,C++,文档,软件测试]
 comments: true

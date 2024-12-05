@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D目标检测 - KITTI资源介绍"
+title: "3D目标检测  KITTI资源介绍"
 date:   2022-11-15
 tags: [3D,KITTI,数据,资源,检测]
 comments: true

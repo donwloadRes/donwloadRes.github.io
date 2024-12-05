@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ambari2.7.6 + HDP3.3.1 离线安装资源下载"
+title: "Ambari276  HDP331 离线安装资源下载"
 date:   2021-12-21
 tags: [离线,Ambari,HDP,64,安装]
 comments: true

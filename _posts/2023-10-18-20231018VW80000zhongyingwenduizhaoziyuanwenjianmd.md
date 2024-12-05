@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VW_80000 中英文对照资源文件"
+title: "VW80000 中英文对照资源文件"
 date:   2024-02-27
 tags: [VW,80000,中英文,对照,解压]
 comments: true

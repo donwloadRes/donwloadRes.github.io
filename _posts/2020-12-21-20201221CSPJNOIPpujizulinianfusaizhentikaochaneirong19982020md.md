@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J (NOIP普及组) 历年复赛真题考察内容(1998～2020)"
+title: "CSPJ NOIP普及组 历年复赛真题考察内容19982020"
 date:   2022-07-03
 tags: [CSP,真题,历年,复赛,竞赛]
 comments: true

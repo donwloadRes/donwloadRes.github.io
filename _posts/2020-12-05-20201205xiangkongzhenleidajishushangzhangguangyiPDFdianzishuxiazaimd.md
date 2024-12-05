@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相控阵雷达技术（上） 张光义 PDF电子书下载"
+title: "相控阵雷达技术上 张光义 PDF电子书下载"
 date:   2024-03-15
 tags: [张光义,PDF,相控阵,下载,雷达]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "展锐通用下载工具 - FactoryDownload-R26.22.0801.7z"
+title: "展锐通用下载工具  FactoryDownloadR262208017z"
 date:   2021-06-23
 tags: [命令行,R26.22,Flash,展锐,下载工具]
 comments: true

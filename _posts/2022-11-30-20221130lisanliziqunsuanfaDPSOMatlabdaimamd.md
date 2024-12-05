@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散粒子群算法（DPSO）Matlab代码"
+title: "离散粒子群算法DPSOMatlab代码"
 date:   2021-05-10
 tags: [DPSO,算法,代码,离散,Matlab]
 comments: true

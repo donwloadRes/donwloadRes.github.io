@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sscom5.13.1串口调试工具"
+title: "sscom5131串口调试工具"
 date:   2022-09-18
 tags: [串口,调试,用户,保存,sscom5.13]
 comments: true

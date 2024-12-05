@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用停用词表整理（川大、哈工大、百度等）"
+title: "常用停用词表整理川大哈工大百度等"
 date:   2022-11-18
 tags: [词表,停用,哈工大,川大,stopwords]
 comments: true

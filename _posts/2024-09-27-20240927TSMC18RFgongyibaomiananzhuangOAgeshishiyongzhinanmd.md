@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSMC 18RF 工艺包（免安装OA格式）使用指南"
+title: "TSMC 18RF 工艺包免安装OA格式使用指南"
 date:   2020-02-02
 tags: [工艺,TSMC,OA,tar,格式]
 comments: true

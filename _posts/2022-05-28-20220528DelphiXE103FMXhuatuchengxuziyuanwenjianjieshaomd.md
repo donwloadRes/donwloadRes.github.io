@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE10.3 FMX 画图程序资源文件介绍"
+title: "Delphi XE103 FMX 画图程序资源文件介绍"
 date:   2020-11-03
 tags: [FMX,Canvas,文件,画图,Delphi]
 comments: true

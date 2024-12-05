@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现图像分割及目标计数 - 形态学处理+分水岭变换方法"
+title: "Matlab实现图像分割及目标计数  形态学处理分水岭变换方法"
 date:   2021-10-11
 tags: [分水岭,Matlab,目标,图像,分割]
 comments: true

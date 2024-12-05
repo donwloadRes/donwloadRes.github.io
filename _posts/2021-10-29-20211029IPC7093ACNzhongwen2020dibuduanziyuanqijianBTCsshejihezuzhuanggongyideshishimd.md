@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-7093A-CN 中文 2020底部端子元器件（BTCs）设计和组装工艺的实施"
+title: "IPC7093ACN 中文 2020底部端子元器件BTCs设计和组装工艺的实施"
 date:   2020-07-02
 tags: [BTCs,组装,IPC,标准,设计]
 comments: true

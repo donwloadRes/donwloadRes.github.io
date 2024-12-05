@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 3.5 安装资源文件"
+title: "NET 35 安装资源文件"
 date:   2020-07-24
 tags: [NET,安装,3.5,文件,Framework]
 comments: true

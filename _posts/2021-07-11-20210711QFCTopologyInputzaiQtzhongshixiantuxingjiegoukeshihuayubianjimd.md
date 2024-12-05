@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QFCTopologyInput - 在Qt中实现图形结构可视化与编辑"
+title: "QFCTopologyInput  在Qt中实现图形结构可视化与编辑"
 date:   2022-11-01
 tags: [Qt,QFCTopologyInput,可视化,节点,编辑]
 comments: true

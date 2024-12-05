@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSI-VITA 65-2017 资源文件下载"
+title: "ANSIVITA 652017 资源文件下载"
 date:   2020-08-18
 tags: [文件,ANSI,VITA,65,2017]
 comments: true

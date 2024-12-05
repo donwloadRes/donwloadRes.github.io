@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王6.60+sp1安装包下载"
+title: "组态王660sp1安装包下载"
 date:   2021-01-12
 tags: [安装包,组态王,6.60,sp1,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANdb++用户手册.pdf"
+title: "CANdb用户手册pdf"
 date:   2022-09-09
 tags: [CANdb,++,本手册,用户手册,DBC]
 comments: true

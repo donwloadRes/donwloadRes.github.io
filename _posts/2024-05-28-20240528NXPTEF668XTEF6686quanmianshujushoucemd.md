@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP TEF668X (TEF6686) 全面数据手册"
+title: "NXP TEF668X TEF6686 全面数据手册"
 date:   2021-10-02
 tags: [TEF668X,NXP,手册,TEF6686,无线电]
 comments: true

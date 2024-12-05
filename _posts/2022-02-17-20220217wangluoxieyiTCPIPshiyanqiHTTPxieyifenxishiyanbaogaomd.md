@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络协议TCP-IP实验七 HTTP 协议分析实验报告"
+title: "网络协议TCPIP实验七 HTTP 协议分析实验报告"
 date:   2020-07-12
 tags: [实验,HTTP,实验报告,协议,网络协议]
 comments: true

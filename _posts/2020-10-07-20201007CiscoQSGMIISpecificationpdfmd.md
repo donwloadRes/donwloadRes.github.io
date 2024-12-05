@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco QSGMII Specification.pdf"
+title: "Cisco QSGMII Specificationpdf"
 date:   2022-02-19
 tags: [QSGMII,Cisco,pdf,端口,文档]
 comments: true

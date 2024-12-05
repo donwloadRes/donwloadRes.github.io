@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件架构的艺术：数字电路的设计方法与技术"
+title: "硬件架构的艺术数字电路的设计方法与技术"
 date:   2024-07-18
 tags: [数字电路,设计,FPGA,架构,硬件]
 comments: true

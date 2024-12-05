@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrossOver 23.7.1中文直装版2024最新安装图文激活教程"
+title: "CrossOver 2371中文直装版2024最新安装图文激活教程"
 date:   2023-06-12
 tags: [CrossOver,Windows,Mac,Linux,安装]
 comments: true

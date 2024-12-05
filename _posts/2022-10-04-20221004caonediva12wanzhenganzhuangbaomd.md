@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "caone.diva12 完整安装包"
+title: "caonediva12 完整安装包"
 date:   2023-12-21
 tags: [安装包,diva12,caone,安装,解压]
 comments: true

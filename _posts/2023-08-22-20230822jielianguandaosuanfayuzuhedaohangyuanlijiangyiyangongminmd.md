@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "捷联惯导算法与组合导航原理讲义 - 严恭敏"
+title: "捷联惯导算法与组合导航原理讲义  严恭敏"
 date:   2020-01-22
 tags: [捷联,惯导,讲义,导航,严恭敏]
 comments: true

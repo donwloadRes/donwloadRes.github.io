@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏开发实战指南：原神模型整合与Unity应用"
+title: "游戏开发实战指南原神模型整合与Unity应用"
 date:   2024-10-03
 tags: [Unity,动画,模型,卡通,原神]
 comments: true

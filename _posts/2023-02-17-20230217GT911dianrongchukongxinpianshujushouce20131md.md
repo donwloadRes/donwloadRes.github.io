@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GT911电容触控芯片数据手册(20131)"
+title: "GT911电容触控芯片数据手册20131"
 date:   2020-02-06
 tags: [GT911,触控,手册,芯片,20131]
 comments: true

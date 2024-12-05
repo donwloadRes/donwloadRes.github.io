@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD ActiveX 和 VBA 参考（明经翻译版）"
+title: "AutoCAD ActiveX 和 VBA 参考明经翻译版"
 date:   2024-07-29
 tags: [AutoCAD,VBA,ActiveX,明经,翻译]
 comments: true

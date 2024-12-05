@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议中文版【完整版】下载"
+title: "Modbus协议中文版完整版下载"
 date:   2022-12-17
 tags: [Modbus,协议,完整版,中文版,文件]
 comments: true

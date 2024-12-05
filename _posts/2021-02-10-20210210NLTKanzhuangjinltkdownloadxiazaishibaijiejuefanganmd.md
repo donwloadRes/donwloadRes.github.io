@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLTK安装及nltk.download()下载失败解决方案"
+title: "NLTK安装及nltkdownload下载失败解决方案"
 date:   2023-08-07
 tags: [nltk,数据包,下载,NLTK,安装]
 comments: true

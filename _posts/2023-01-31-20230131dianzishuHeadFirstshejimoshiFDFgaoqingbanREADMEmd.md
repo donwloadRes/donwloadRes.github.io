@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【电子书】HeadFirst设计模式--FDF高清版 README"
+title: "电子书HeadFirst设计模式FDF高清版 README"
 date:   2020-08-12
 tags: [设计模式,HeadFirst,高清,FDF,--]
 comments: true

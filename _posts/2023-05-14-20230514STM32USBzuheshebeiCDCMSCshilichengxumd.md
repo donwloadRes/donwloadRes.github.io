@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USB 组合设备 CDC+MSC 示例程序"
+title: "STM32 USB 组合设备 CDCMSC 示例程序"
 date:   2022-05-09
 tags: [USB,STM32,CDC,MSC,存储设备]
 comments: true

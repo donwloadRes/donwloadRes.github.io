@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-4-2012 电快速脉冲群测试资源文件"
+title: "IEC 61000442012 电快速脉冲群测试资源文件"
 date:   2023-03-30
 tags: [测试,文件,电磁兼容,脉冲,2012]
 comments: true

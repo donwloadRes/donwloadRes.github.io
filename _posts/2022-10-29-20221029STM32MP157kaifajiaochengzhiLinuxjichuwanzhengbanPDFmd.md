@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32MP157开发教程之Linux基础（完整版）PDF"
+title: "STM32MP157开发教程之Linux基础完整版PDF"
 date:   2020-07-26
 tags: [STM32MP157,Linux,PDF,开发板,开发]
 comments: true

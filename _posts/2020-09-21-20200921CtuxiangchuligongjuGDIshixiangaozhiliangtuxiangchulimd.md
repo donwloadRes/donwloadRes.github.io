@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#图像处理工具：GDI+实现高质量图像处理"
+title: "C图像处理工具GDI实现高质量图像处理"
 date:   2022-04-25
 tags: [图像,水印,图像处理,缩略图,高质量]
 comments: true

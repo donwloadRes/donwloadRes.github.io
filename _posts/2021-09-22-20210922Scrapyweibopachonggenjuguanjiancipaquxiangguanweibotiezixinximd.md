@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scrapy微博爬虫-根据关键词爬取相关微博帖子信息"
+title: "Scrapy微博爬虫根据关键词爬取相关微博帖子信息"
 date:   2020-12-30
 tags: [微博,爬虫,爬取,关键词,帖子]
 comments: true

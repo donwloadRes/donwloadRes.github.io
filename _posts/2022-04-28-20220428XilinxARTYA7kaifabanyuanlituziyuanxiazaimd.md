@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx ARTY (A7) 开发板原理图资源下载"
+title: "Xilinx ARTY A7 开发板原理图资源下载"
 date:   2020-07-23
 tags: [原理图,开发板,ARTY,A7,下载]
 comments: true

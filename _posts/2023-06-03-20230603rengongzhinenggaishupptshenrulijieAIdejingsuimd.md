@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能概述.ppt - 深入理解AI的精髓"
+title: "人工智能概述ppt  深入理解AI的精髓"
 date:   2020-02-14
 tags: [AI,人工智能,PPT,概述,理解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Aurora 8B-10B IP核详解与仿真指南"
+title: "Xilinx Aurora 8B10B IP核详解与仿真指南"
 date:   2023-05-08
 tags: [IP,Xilinx,仿真,Aurora,文档]
 comments: true

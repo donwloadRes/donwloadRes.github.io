@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享88个ASP.NET企业网站源码，总有一款适合您"
+title: "分享88个ASPNET企业网站源码总有一款适合您"
 date:   2024-08-30
 tags: [源码,ASP,NET,网站,解压]
 comments: true

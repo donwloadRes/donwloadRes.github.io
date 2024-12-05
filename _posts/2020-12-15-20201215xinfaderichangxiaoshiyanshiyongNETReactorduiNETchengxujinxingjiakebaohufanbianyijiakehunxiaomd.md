@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新发的日常小实验——使用.NET Reactor对.NET程序进行加壳保护（反编译、加壳、混淆）"
+title: "新发的日常小实验使用NET Reactor对NET程序进行加壳保护反编译加壳混淆"
 date:   2023-12-24
 tags: [NET,加壳,程序,反编译,Reactor]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现PID控制器——基于Quartus Prime 18.0"
+title: "FPGA实现PID控制器基于Quartus Prime 180"
 date:   2024-03-04
 tags: [PID,控制器,FPGA,Quartus,18.0]
 comments: true

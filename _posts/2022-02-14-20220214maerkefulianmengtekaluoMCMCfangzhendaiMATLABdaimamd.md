@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马尔科夫链蒙特卡洛MCMC仿真（带MATLAB代码）"
+title: "马尔科夫链蒙特卡洛MCMC仿真带MATLAB代码"
 date:   2020-09-08
 tags: [MCMC,MATLAB,仿真,代码,马尔科夫]
 comments: true

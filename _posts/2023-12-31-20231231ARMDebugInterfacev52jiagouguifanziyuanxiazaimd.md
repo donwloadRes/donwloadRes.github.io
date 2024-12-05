@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Debug Interface v5.2 架构规范资源下载"
+title: "ARM Debug Interface v52 架构规范资源下载"
 date:   2020-09-26
 tags: [ARM,调试,开发者,Debug,规范]
 comments: true

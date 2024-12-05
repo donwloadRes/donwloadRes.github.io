@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++6.0简易安装版"
+title: "VC60简易安装版"
 date:   2024-07-23
 tags: [C++,安装,6.0,简易,安装版]
 comments: true

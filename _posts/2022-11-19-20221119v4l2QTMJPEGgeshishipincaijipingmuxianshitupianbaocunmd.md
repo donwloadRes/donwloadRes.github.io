@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "v4l2 QT MJPEG格式 视频采集+屏幕显示+图片保存"
+title: "v4l2 QT MJPEG格式 视频采集屏幕显示图片保存"
 date:   2020-04-12
 tags: [视频,采集,屏幕显示,保存,图片]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音频重采样Demo(Speex)"
+title: "音频重采样DemoSpeex"
 date:   2024-05-20
 tags: [音频,Demo,Speex,采样,转换]
 comments: true

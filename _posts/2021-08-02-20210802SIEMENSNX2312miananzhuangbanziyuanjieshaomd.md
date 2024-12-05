@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIEMENS_NX2312 免安装版资源介绍"
+title: "SIEMENSNX2312 免安装版资源介绍"
 date:   2024-10-20
 tags: [SIEMENS,模块,版本,简体中文,资源]
 comments: true

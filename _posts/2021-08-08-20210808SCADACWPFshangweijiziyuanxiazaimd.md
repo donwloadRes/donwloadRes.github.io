@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCADA C# WPF 上位机资源下载"
+title: "SCADA C WPF 上位机资源下载"
 date:   2021-09-01
 tags: [SCADA,上位,WPF,C#,下载]
 comments: true

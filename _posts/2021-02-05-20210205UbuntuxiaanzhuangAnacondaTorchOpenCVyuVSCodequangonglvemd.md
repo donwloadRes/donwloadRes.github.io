@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu下安装Anaconda、Torch、OpenCV与VSCode全攻略"
+title: "Ubuntu下安装AnacondaTorchOpenCV与VSCode全攻略"
 date:   2020-03-11
 tags: [安装,Anaconda,VSCode,Ubuntu,OpenCV]
 comments: true

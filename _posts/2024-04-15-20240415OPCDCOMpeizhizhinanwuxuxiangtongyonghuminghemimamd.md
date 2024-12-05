@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC DCOM配置指南（无需相同用户名和密码）"
+title: "OPC DCOM配置指南无需相同用户名和密码"
 date:   2024-09-04
 tags: [OPC,配置,连通性,DCOM,用户名]
 comments: true

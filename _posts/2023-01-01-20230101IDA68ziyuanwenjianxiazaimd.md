@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA 6.8 资源文件下载"
+title: "IDA 68 资源文件下载"
 date:   2022-10-26
 tags: [IDA,6.8,压缩文件,rar,文件]
 comments: true

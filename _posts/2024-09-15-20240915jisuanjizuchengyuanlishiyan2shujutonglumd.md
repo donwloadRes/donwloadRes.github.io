@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验2：数据通路"
+title: "计算机组成原理实验2数据通路"
 date:   2023-02-06
 tags: [实验,数据通路,计算机,故障,原理]
 comments: true

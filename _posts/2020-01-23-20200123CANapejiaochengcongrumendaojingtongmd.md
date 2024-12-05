@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANape教程：从入门到精通"
+title: "CANape教程从入门到精通"
 date:   2021-06-15
 tags: [CANape,教程,入门,案例,高级]
 comments: true

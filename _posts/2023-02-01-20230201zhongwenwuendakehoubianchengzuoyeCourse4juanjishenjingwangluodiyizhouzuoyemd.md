@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【中文】【吴恩达课后编程作业】Course 4 - 卷积神经网络 - 第一周作业"
+title: "中文吴恩达课后编程作业Course 4  卷积神经网络  第一周作业"
 date:   2023-11-14
 tags: [卷积,作业,神经网络,编程,吴恩达]
 comments: true

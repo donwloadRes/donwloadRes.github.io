@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Datacom-HCIP(H12-831)题库下载"
+title: "DatacomHCIPH12831题库下载"
 date:   2024-12-03
 tags: [题库,Datacom,831,考试,HCIP]
 comments: true

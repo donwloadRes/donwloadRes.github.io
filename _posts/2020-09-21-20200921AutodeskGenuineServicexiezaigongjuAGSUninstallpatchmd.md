@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autodesk Genuine Service卸载工具-AGS Uninstall patch"
+title: "Autodesk Genuine Service卸载工具AGS Uninstall patch"
 date:   2022-06-05
 tags: [卸载,Autodesk,Genuine,Service,工具]
 comments: true

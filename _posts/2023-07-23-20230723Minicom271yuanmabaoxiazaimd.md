@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minicom 2.7.1 源码包下载"
+title: "Minicom 271 源码包下载"
 date:   2020-03-12
 tags: [Minicom,2.7,minicom,源码,tar]
 comments: true

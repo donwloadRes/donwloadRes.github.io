@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advanced_Digital_Design_with_the_Verilog_HDL习题答案"
+title: "AdvancedDigitalDesignwiththeVerilogHDL习题答案"
 date:   2021-01-23
 tags: [Verilog,习题,HDL,Advanced,Digital]
 comments: true

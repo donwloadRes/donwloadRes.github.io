@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 下载、安装与基本配置指南"
+title: "CentOS 76 下载安装与基本配置指南"
 date:   2022-08-31
 tags: [安装,CentOS,ISO,7.6,配置]
 comments: true

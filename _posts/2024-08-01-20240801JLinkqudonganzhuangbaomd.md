@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link驱动安装包"
+title: "JLink驱动安装包"
 date:   2021-05-23
 tags: [Link,驱动,安装包,验证,安装]
 comments: true

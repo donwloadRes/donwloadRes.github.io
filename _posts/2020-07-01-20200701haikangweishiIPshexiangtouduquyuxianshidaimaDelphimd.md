@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视IP摄像头读取与显示代码（Delphi）"
+title: "海康威视IP摄像头读取与显示代码Delphi"
 date:   2021-04-14
 tags: [摄像头,威视,海康,Delphi,IP]
 comments: true

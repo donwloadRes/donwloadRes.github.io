@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NFC-PM5 智能卡工具下载"
+title: "NFCPM5 智能卡工具下载"
 date:   2024-10-01
 tags: [NFC,智能卡,PM5,nfc,pm5]
 comments: true

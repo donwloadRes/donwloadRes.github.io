@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BOSCH_APQP.pdf - 汽车行业先进产品质量规划与控制流程"
+title: "BOSCHAPQPpdf  汽车行业先进产品质量规划与控制流程"
 date:   2021-05-14
 tags: [APQP,BOSCH,pdf,确保,质量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV SSD目标检测(C++)"
+title: "OpenCV SSD目标检测C"
 date:   2022-11-23
 tags: [OpenCV,SSD,检测,模型,C++]
 comments: true

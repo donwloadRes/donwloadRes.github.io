@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为经典三部曲之以客户为中心》PDF版本"
+title: "华为经典三部曲之以客户为中心PDF版本"
 date:   2024-09-18
 tags: [华为,客户,PDF,产品开发,中心]
 comments: true

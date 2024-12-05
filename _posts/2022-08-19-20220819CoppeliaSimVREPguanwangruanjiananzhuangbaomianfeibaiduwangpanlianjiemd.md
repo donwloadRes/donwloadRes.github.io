@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoppeliaSim-V-REP 官网软件安装包（免费百度网盘链接）"
+title: "CoppeliaSimVREP 官网软件安装包免费百度网盘链接"
 date:   2022-12-17
 tags: [CoppeliaSim,安装包,Edu,百度网,版本]
 comments: true

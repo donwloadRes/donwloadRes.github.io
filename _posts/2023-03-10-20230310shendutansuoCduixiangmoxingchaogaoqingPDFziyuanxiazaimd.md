@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度探索C++对象模型 超高清PDF资源下载"
+title: "深度探索C对象模型 超高清PDF资源下载"
 date:   2022-03-06
 tags: [C++,PDF,模型,对象,超高]
 comments: true

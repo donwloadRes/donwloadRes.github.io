@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF提取文字信息到Excel（附源码）"
+title: "PDF提取文字信息到Excel附源码"
 date:   2023-08-04
 tags: [PDF,文档,提取,关键字,Excel]
 comments: true

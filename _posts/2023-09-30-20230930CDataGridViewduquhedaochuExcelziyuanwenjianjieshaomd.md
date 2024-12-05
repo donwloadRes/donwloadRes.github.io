@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DataGridView 读取和导出 Excel 资源文件介绍"
+title: "C DataGridView 读取和导出 Excel 资源文件介绍"
 date:   2023-07-23
 tags: [Excel,导出,读取,DataGridView,数据]
 comments: true

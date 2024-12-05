@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yum命令未找到，安装yum"
+title: "yum命令未找到安装yum"
 date:   2022-02-19
 tags: [rpm,yum,x86,64,centos]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.2协议解读文档"
+title: "USB 32协议解读文档"
 date:   2022-02-02
 tags: [USB,3.2,协议,文档,解读]
 comments: true

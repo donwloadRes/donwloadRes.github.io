@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解程序设计：使用Linux汇编语言"
+title: "深入理解程序设计使用Linux汇编语言"
 date:   2023-02-27
 tags: [汇编语言,Linux,编程,理解,计算机]
 comments: true

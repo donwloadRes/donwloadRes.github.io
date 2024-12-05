@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python教学-愤怒的小鸟游戏源码"
+title: "Python教学愤怒的小鸟游戏源码"
 date:   2021-10-02
 tags: [Python,源码,游戏,小鸟,愤怒]
 comments: true

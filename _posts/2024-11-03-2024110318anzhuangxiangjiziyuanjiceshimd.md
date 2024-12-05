@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.8 安装相机资源及测试"
+title: "18 安装相机资源及测试"
 date:   2022-03-21
 tags: [相机,安装,QT,VSCode,大华]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGis10.2目视解译教程"
+title: "ArcGis102目视解译教程"
 date:   2020-07-22
 tags: [ArcGis10.2,解译,教程,栅格,导出]
 comments: true

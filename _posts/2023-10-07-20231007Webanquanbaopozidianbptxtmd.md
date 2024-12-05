@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web安全爆破字典bp.txt"
+title: "Web安全爆破字典bptxt"
 date:   2020-07-14
 tags: [字典,Web,安全,爆破,bp]
 comments: true

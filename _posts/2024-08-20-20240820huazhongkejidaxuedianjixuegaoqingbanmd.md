@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华中科技大学电机学-高清版"
+title: "华中科技大学电机学高清版"
 date:   2020-05-10
 tags: [电机学,高清,华中科技大学,下载,文件]
 comments: true

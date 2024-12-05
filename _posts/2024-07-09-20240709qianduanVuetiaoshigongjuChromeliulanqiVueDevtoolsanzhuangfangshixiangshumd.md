@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端Vue调试工具：Chrome浏览器Vue Devtools安装方式详述"
+title: "前端Vue调试工具Chrome浏览器Vue Devtools安装方式详述"
 date:   2020-04-01
 tags: [Vue,Chrome,安装,Devtools,浏览器]
 comments: true

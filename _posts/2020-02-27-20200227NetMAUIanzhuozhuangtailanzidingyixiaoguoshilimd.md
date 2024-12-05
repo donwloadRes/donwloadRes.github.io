@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net MAUI 安卓状态栏自定义效果示例"
+title: "Net MAUI 安卓状态栏自定义效果示例"
 date:   2023-06-04
 tags: [状态栏,示例,安卓,Net,MAUI]
 comments: true

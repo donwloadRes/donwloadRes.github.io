@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Surya-OCR 文本目标检测模型安装与部署指南"
+title: "SuryaOCR 文本目标检测模型安装与部署指南"
 date:   2020-08-23
 tags: [OCR,Surya,文本,安装,检测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 代码游戏编程源码"
+title: "C 代码游戏编程源码"
 date:   2024-04-02
 tags: [代码,许可证,编程,源代码,C++]
 comments: true

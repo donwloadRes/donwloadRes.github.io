@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSD修复工具AS2258量产工具，开卡工具"
+title: "SSD修复工具AS2258量产工具开卡工具"
 date:   2023-06-24
 tags: [工具,SSD,AS2258,量产,开卡]
 comments: true

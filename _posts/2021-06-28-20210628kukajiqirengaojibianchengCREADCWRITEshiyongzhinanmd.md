@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "库卡机器人高级编程：CREAD_CWRITE 使用指南"
+title: "库卡机器人高级编程CREADCWRITE 使用指南"
 date:   2023-05-04
 tags: [CWRITE,编程,库卡,机器人,指令]
 comments: true

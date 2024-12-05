@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+OpenCV毕设项目车道检测源码分享"
+title: "PythonOpenCV毕设项目车道检测源码分享"
 date:   2022-08-11
 tags: [车道,GUI,项目,图像,Python]
 comments: true

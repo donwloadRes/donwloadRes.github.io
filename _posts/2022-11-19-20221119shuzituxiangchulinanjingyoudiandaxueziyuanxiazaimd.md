@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理 - 南京邮电大学资源下载"
+title: "数字图像处理  南京邮电大学资源下载"
 date:   2023-10-09
 tags: [数字图像处理,下载,资源,邮电大学,刘峰]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件工程师的福利：整理BOM的工具和技巧"
+title: "硬件工程师的福利整理BOM的工具和技巧"
 date:   2022-06-17
 tags: [BOM,硬件,工具,整理,EXCEL]
 comments: true

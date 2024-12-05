@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "曲线拟合与线性回归（C#）实现"
+title: "曲线拟合与线性回归C实现"
 date:   2021-03-27
 tags: [曲线拟合,线性,回归,代码,C#]
 comments: true

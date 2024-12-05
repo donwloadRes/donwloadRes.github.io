@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apollo代码学习：MPC与LQR比较"
+title: "Apollo代码学习MPC与LQR比较"
 date:   2021-08-09
 tags: [MPC,LQR,Apollo,开发者,文件]
 comments: true

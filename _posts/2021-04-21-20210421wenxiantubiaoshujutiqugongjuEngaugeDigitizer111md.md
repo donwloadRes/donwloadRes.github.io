@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文献图表数据提取工具 Engauge Digitizer 11.1"
+title: "文献图表数据提取工具 Engauge Digitizer 111"
 date:   2022-07-01
 tags: [图表,数据,提取,Engauge,Digitizer]
 comments: true

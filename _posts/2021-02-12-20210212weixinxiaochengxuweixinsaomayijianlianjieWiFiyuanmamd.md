@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序 - 微信扫码一键连接WiFi源码"
+title: "微信小程序  微信扫码一键连接WiFi源码"
 date:   2023-01-22
 tags: [微信,WiFi,源码,程序,连接]
 comments: true

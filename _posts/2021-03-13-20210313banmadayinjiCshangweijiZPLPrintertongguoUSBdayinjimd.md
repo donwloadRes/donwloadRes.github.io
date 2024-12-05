@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斑马打印机C#上位机ZPLPrinter（通过USB打印机）"
+title: "斑马打印机C上位机ZPLPrinter通过USB打印机"
 date:   2020-08-18
 tags: [打印机,USB,斑马,C#,ZPL]
 comments: true

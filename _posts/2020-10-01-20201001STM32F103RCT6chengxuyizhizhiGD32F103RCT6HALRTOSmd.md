@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103RCT6程序移植至GD32F103RCT6（HAL+RTOS）"
+title: "STM32F103RCT6程序移植至GD32F103RCT6HALRTOS"
 date:   2024-05-20
 tags: [GD32F103RCT6,移植,STM32F103RCT6,程序,修改]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI识别两张图片是否为同一个人 - face-api + Node.js"
+title: "AI识别两张图片是否为同一个人  faceapi  Nodejs"
 date:   2024-04-16
 tags: [图片,face,api,faceapi,nets]
 comments: true

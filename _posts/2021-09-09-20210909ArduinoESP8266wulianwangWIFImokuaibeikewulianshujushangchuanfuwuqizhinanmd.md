@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino ESP8266物联网WIFI模块（贝壳物联）数据上传服务器指南"
+title: "Arduino ESP8266物联网WIFI模块贝壳物联数据上传服务器指南"
 date:   2020-06-15
 tags: [Arduino,上传,WIFI,ESP8266,物联]
 comments: true

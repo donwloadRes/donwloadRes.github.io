@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSC338D-SSC338Q 系列多媒体SoC产品资源下载"
+title: "SSC338DSSC338Q 系列多媒体SoC产品资源下载"
 date:   2024-05-04
 tags: [SSC338D,SSC338Q,SoC,视频,摄像头]
 comments: true

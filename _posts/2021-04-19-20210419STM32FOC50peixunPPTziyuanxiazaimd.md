@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 FOC 5.0 培训PPT 资源下载"
+title: "STM32 FOC 50 培训PPT 资源下载"
 date:   2021-04-23
 tags: [FOC,STM32,PPT,ST,学习]
 comments: true

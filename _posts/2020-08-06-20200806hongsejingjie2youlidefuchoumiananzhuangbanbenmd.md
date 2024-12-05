@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红色警戒2+尤里的复仇 免安装版本"
+title: "红色警戒2尤里的复仇 免安装版本"
 date:   2024-06-26
 tags: [游戏,红色警戒,安装,尤里,版本]
 comments: true

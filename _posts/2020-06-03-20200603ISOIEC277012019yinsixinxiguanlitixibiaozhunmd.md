@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27701:2019 隐私信息管理体系标准"
+title: "ISOIEC 277012019 隐私信息管理体系标准"
 date:   2022-04-23
 tags: [隐私,ISO,信息管理,标准,IEC]
 comments: true

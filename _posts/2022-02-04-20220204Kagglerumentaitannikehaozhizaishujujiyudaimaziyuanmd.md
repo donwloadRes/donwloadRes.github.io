@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaggle入门：泰坦尼克号之灾数据集与代码资源"
+title: "Kaggle入门泰坦尼克号之灾数据集与代码资源"
 date:   2020-10-30
 tags: [Kaggle,泰坦尼克号,代码,之灾,入门]
 comments: true

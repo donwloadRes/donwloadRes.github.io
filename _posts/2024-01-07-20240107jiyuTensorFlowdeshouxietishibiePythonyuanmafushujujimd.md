@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于TensorFlow的手写体识别Python源码（附数据集）"
+title: "基于TensorFlow的手写体识别Python源码附数据集"
 date:   2021-12-01
 tags: [源码,Python,识别,TensorFlow,手写体]
 comments: true

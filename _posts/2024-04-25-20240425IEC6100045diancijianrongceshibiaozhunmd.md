@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-5 电磁兼容测试标准"
+title: "IEC 6100045 电磁兼容测试标准"
 date:   2020-04-14
 tags: [电磁兼容,测试,IEC,标准,浪涌]
 comments: true

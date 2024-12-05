@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 1.7.6 最新版安装及多款主题包"
+title: "Typora 176 最新版安装及多款主题包"
 date:   2020-02-02
 tags: [Typora,安装,主题,文件夹,1.7]
 comments: true

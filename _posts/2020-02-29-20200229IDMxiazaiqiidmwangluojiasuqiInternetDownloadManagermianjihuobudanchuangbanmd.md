@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM下载器 - idm网络加速器：Internet Download Manager免激活不弹窗版"
+title: "IDM下载器  idm网络加速器Internet Download Manager免激活不弹窗版"
 date:   2022-10-26
 tags: [下载,IDM,免激活,浏览器,弹窗]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 智能仓储（STM32+APP+云平台）"
+title: "物联网毕设  智能仓储STM32APP云平台"
 date:   2023-04-27
 tags: [APP,平台,设备,仓库,用于]
 comments: true

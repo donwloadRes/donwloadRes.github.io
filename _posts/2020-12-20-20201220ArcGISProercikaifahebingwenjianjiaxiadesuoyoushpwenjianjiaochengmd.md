@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ArcGIS Pro二次开发】合并文件夹下的所有shp文件教程"
+title: "ArcGIS Pro二次开发合并文件夹下的所有shp文件教程"
 date:   2021-03-08
 tags: [合并,文件夹,文件,ArcGIS,Pro]
 comments: true

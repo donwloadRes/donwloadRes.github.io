@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解Nexus的安装、创建与配置宿主仓库及Maven项目"
+title: "详解Nexus的安装创建与配置宿主仓库及Maven项目"
 date:   2020-01-29
 tags: [Nexus,仓库,Maven,创建,安装]
 comments: true

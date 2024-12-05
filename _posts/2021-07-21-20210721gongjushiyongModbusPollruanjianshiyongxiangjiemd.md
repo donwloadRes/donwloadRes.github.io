@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【工具使用】Modbus Poll软件使用详解"
+title: "工具使用Modbus Poll软件使用详解"
 date:   2024-08-06
 tags: [Modbus,---,Poll,设备,请求]
 comments: true

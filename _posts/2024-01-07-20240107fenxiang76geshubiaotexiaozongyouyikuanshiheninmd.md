@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享76个鼠标特效，总有一款适合您"
+title: "分享76个鼠标特效总有一款适合您"
 date:   2021-02-02
 tags: [鼠标,特效,76,动画,文件]
 comments: true

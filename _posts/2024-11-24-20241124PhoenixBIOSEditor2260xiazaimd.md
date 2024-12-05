@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phoenix BIOS Editor 2.2.6.0 下载"
+title: "Phoenix BIOS Editor 2260 下载"
 date:   2022-01-06
 tags: [BIOS,Phoenix,Editor,6.0,2.2]
 comments: true

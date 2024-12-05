@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的红外编码发射代码-C"
+title: "基于STM32的红外编码发射代码C"
 date:   2021-06-15
 tags: [STM32,代码,编码,红外,发射]
 comments: true

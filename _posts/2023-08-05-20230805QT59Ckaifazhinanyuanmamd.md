@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9C++开发指南》源码"
+title: "QT59C开发指南源码"
 date:   2020-11-16
 tags: [源码,QT5.9,C++,QT,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7.8下Cadence IC设计环境搭建指南"
+title: "CentOS78下Cadence IC设计环境搭建指南"
 date:   2022-05-07
 tags: [CentOS7.8,安装,Cadence,IC,配置]
 comments: true

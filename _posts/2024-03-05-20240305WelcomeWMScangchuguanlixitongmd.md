@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome-WMS仓储管理系统"
+title: "WelcomeWMS仓储管理系统"
 date:   2020-06-16
 tags: [仓储,Welcome,WMS,储位,入库]
 comments: true

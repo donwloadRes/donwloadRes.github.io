@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thomas Calculus 第14版【英文版】PDF 下载"
+title: "Thomas Calculus 第14版英文版PDF 下载"
 date:   2023-04-15
 tags: [微积分,学生,14,英文版,Thomas]
 comments: true

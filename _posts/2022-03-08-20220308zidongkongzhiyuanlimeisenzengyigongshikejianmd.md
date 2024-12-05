@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理 - 梅森增益公式课件"
+title: "自动控制原理  梅森增益公式课件"
 date:   2020-12-12
 tags: [梅森,增益,公式,课件,自动控制]
 comments: true

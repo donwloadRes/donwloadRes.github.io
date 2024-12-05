@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XPOSED依赖JAR包下载 - XposedBridgeApi-89.jar"
+title: "XPOSED依赖JAR包下载  XposedBridgeApi89jar"
 date:   2021-07-25
 tags: [Xposed,Hook,XposedBridgeApi,89,jar]
 comments: true

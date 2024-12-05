@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "埃斯顿机器人操作手册（示教器操作）"
+title: "埃斯顿机器人操作手册示教器操作"
 date:   2021-07-11
 tags: [示教器,操作手册,埃斯,机器人,操作]
 comments: true

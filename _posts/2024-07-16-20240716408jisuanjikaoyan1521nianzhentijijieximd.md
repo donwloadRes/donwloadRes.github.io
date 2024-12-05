@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "408计算机考研15-21年真题及解析"
+title: "408计算机考研1521年真题及解析"
 date:   2024-05-07
 tags: [真题,复习,解析,考生,知识点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.9 下载指南"
+title: "CentOS 79 下载指南"
 date:   2023-04-13
 tags: [CentOS,下载,7.9,指南,ISO]
 comments: true

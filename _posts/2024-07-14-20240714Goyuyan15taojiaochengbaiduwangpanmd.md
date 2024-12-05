@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go语言15套教程（百度网盘）"
+title: "Go语言15套教程百度网盘"
 date:   2022-06-24
 tags: [Go,语言,2018,更新,讲解]
 comments: true

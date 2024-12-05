@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK.js DICOM图像三维重建"
+title: "VTKjs DICOM图像三维重建"
 date:   2020-10-13
 tags: [DICOM,VTK,js,三维重建,浏览器]
 comments: true

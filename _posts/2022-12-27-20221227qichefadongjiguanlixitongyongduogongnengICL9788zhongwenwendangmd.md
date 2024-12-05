@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车发动机管理系统用多功能IC - L9788 中文文档"
+title: "汽车发动机管理系统用多功能IC  L9788 中文文档"
 date:   2024-06-08
 tags: [L9788,LS,芯片,驱动器,管理系统]
 comments: true

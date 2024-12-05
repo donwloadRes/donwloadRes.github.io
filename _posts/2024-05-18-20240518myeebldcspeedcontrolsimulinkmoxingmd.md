@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "my_ee_bldc_speed_control simulink模型"
+title: "myeebldcspeedcontrol simulink模型"
 date:   2021-09-30
 tags: [模型,电机,MATLAB,my,ee]
 comments: true

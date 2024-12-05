@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Worlds I See 我看见的世界【Fei-Fei Li 李飞飞】"
+title: "The Worlds I See 我看见的世界FeiFei Li 李飞飞"
 date:   2022-06-26
 tags: [AI,Worlds,See,人工智能,Fei]
 comments: true

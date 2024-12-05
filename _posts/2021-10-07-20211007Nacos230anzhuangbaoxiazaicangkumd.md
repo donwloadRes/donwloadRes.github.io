@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.3.0 安装包下载仓库"
+title: "Nacos 230 安装包下载仓库"
 date:   2024-02-21
 tags: [Nacos,安装包,2.3,仓库,nacos]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B860AV1.1自动刷机降级包"
+title: "B860AV11自动刷机降级包"
 date:   2022-04-28
 tags: [刷机,B860AV1.1,降级,U盘,机顶盒]
 comments: true

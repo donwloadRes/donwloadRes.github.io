@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译好的适配VS2019的ceres-solver库"
+title: "编译好的适配VS2019的ceressolver库"
 date:   2022-05-02
 tags: [ceres,solver,编译,文件夹,Visual]
 comments: true

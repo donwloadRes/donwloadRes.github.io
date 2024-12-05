@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT售前专家GB10-120题库"
+title: "IT售前专家GB10120题库"
 date:   2024-01-21
 tags: [题库,售前,知识点,GB10,120]
 comments: true

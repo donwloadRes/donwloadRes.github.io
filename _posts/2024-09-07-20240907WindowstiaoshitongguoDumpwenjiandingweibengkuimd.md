@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows调试：通过Dump文件定位崩溃"
+title: "Windows调试通过Dump文件定位崩溃"
 date:   2024-01-31
 tags: [Dump,Windows,崩溃,文件,调试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双向DCDC控制软件（TI DSP）"
+title: "双向DCDC控制软件TI DSP"
 date:   2021-03-23
 tags: [DCDC,TI,DSP,双向,该软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Server Enterprise Windows 10.8 资源文件下载"
+title: "ArcGIS Server Enterprise Windows 108 资源文件下载"
 date:   2021-06-05
 tags: [ArcGIS,Server,Windows,Web,10.8]
 comments: true

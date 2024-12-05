@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "互联网+商业计划书案例（国赛金奖）下载"
+title: "互联网商业计划书案例国赛金奖下载"
 date:   2021-06-06
 tags: [计划书,案例,商业,金奖,国赛]
 comments: true

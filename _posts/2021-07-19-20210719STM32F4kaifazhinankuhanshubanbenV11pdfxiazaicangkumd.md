@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4开发指南-库函数版本_V1.1.pdf 下载仓库"
+title: "STM32F4开发指南库函数版本V11pdf 下载仓库"
 date:   2021-06-16
 tags: [STM32F4,库函数,开发,V1.1,指南]
 comments: true

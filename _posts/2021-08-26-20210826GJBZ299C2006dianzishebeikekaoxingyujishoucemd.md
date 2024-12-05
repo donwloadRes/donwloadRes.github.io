@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJBZ299C-2006电子设备可靠性预计手册"
+title: "GJBZ299C2006电子设备可靠性预计手册"
 date:   2020-10-01
 tags: [可靠性,电子设备,GJBZ299C,2006,pdf]
 comments: true

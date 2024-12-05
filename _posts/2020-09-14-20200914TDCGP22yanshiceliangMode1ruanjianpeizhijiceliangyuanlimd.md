@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22延时测量Mode1软件配置及测量原理"
+title: "TDCGP22延时测量Mode1软件配置及测量原理"
 date:   2024-03-01
 tags: [TDC,GP22,Mode1,测量,延时]
 comments: true

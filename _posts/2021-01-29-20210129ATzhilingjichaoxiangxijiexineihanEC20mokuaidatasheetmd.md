@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AT指令集超详细解析（内含EC20模块datasheet）"
+title: "AT指令集超详细解析内含EC20模块datasheet"
 date:   2024-07-11
 tags: [模块,EC20,指令集,datasheet,解析]
 comments: true

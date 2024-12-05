@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "渗透测试必备神器：SQLMAP绕WAF脚本合集"
+title: "渗透测试必备神器SQLMAP绕WAF脚本合集"
 date:   2020-07-17
 tags: [SQLMAP,防火墙,脚本,合集,WAF]
 comments: true

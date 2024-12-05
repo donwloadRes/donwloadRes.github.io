@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF 竞赛入门指南（ctf-all-in-one）资源下载"
+title: "CTF 竞赛入门指南ctfallinone资源下载"
 date:   2022-08-29
 tags: [CTF,竞赛,ctf,下载,入门]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOT封装（三维PCB封装库）AD专用"
+title: "SOT封装三维PCB封装库AD专用"
 date:   2021-12-15
 tags: [封装,PCB,SOT,三维,AD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32HAL库【G431】--【蓝桥杯嵌入式第十二届省赛题】资源文件介绍"
+title: "STM32HAL库G431蓝桥杯嵌入式第十二届省赛题资源文件介绍"
 date:   2021-05-29
 tags: [嵌入式,代码,蓝桥,STM32HAL,串口]
 comments: true

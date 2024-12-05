@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "步进电机闭环控制与速度调节 - 张大头Emm-V4.2驱动器STM32实现"
+title: "步进电机闭环控制与速度调节  张大头EmmV42驱动器STM32实现"
 date:   2023-01-12
 tags: [STM32,步进,驱动器,Emm,V4.2]
 comments: true

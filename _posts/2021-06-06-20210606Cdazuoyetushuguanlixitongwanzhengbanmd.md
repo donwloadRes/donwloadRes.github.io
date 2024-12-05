@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#大作业——图书管理系统（完整版）"
+title: "C大作业图书管理系统完整版"
 date:   2022-09-13
 tags: [C#,图书,管理系统,Visual,Studio]
 comments: true

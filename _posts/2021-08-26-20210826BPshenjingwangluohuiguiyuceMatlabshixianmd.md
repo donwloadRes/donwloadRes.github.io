@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络回归预测（Matlab实现）"
+title: "BP神经网络回归预测Matlab实现"
 date:   2020-10-18
 tags: [Matlab,神经网络,预测,BP,代码]
 comments: true

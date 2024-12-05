@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform日志输出例程源码"
+title: "C Winform日志输出例程源码"
 date:   2023-04-06
 tags: [日志,文件,例程,源码,C#]
 comments: true

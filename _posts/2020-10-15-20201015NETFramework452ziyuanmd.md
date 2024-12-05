@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.5.2 资源"
+title: "NET Framework 452 资源"
 date:   2023-03-07
 tags: [NET,应用程序,Windows,Framework,4.5]
 comments: true

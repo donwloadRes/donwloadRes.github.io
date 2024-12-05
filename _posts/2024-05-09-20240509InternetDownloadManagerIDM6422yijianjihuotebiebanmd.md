@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 6.42.2 一键激活特别版"
+title: "Internet Download Manager IDM 6422 一键激活特别版"
 date:   2022-06-08
 tags: [激活,下载,一键,特别版,Internet]
 comments: true

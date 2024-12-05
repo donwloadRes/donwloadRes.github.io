@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SHA256及HMAC_SHA256 C语言实现库"
+title: "SHA256及HMACSHA256 C语言实现库"
 date:   2020-11-11
 tags: [SHA256,sha256,message,uint8,get]
 comments: true

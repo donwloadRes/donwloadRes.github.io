@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通开关电源设计  第2版_2 资源下载"
+title: "精通开关电源设计  第2版2 资源下载"
 date:   2022-11-04
 tags: [开关电源,设计,资源,仓库,文件]
 comments: true

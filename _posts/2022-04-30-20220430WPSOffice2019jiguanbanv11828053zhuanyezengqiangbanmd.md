@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS Office 2019 机关版 v11.8.2.8053 专业增强版"
+title: "WPS Office 2019 机关版 v11828053 专业增强版"
 date:   2024-05-10
 tags: [增强版,WPS,办公,文档,v11.8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GP2Y1014AU粉尘传感器模块 PM2.5灰尘传感器代替GP2Y1010AU0F"
+title: "GP2Y1014AU粉尘传感器模块 PM25灰尘传感器代替GP2Y1010AU0F"
 date:   2020-12-28
 tags: [传感器,GP2Y1014AU,模块,测试代码,灰尘]
 comments: true

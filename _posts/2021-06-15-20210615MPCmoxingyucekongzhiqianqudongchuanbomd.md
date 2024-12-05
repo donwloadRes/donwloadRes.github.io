@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPC模型预测控制-欠驱动船舶"
+title: "MPC模型预测控制欠驱动船舶"
 date:   2024-03-26
 tags: [MPC,轨迹,船舶,模型,函数]
 comments: true

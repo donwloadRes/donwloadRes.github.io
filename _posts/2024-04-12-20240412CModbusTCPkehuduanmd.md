@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ModbusTCP客户端"
+title: "C ModbusTCP客户端"
 date:   2023-10-21
 tags: [ModbusTCP,寄存器,C#,PLC,客户端]
 comments: true

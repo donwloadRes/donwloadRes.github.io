@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等工程数学（第6版）资源下载"
+title: "高等工程数学第6版资源下载"
 date:   2022-03-06
 tags: [数学,高等,工程,下载,资源]
 comments: true

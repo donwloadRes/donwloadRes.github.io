@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012 R2 Datacenter 安装 .NET Framework 3.5 所需文件"
+title: "Windows Server 2012 R2 Datacenter 安装 NET Framework 35 所需文件"
 date:   2024-01-26
 tags: [文件,NET,Framework,3.5,安装]
 comments: true

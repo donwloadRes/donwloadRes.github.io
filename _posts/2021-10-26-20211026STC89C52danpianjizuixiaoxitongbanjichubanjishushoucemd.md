@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC89C52单片机最小系统板-基础版技术手册"
+title: "STC89C52单片机最小系统板基础版技术手册"
 date:   2022-04-08
 tags: [单片机,STC89C52,手册,最小,编程]
 comments: true

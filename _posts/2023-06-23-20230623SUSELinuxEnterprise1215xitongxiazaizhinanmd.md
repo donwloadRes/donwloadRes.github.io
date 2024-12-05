@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SUSE Linux Enterprise 12-15 系统下载指南"
+title: "SUSE Linux Enterprise 1215 系统下载指南"
 date:   2024-06-07
 tags: [SUSE,Linux,Enterprise,DVD,15]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习训练营：21 天实战 TensorFlow + Keras + scikit-learn"
+title: "深度学习训练营21 天实战 TensorFlow  Keras  scikitlearn"
 date:   2022-02-20
 tags: [实战,21,项目,学习,learn]
 comments: true

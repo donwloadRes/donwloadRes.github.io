@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio C++ Build Tools 资源下载"
+title: "Visual Studio C Build Tools 资源下载"
 date:   2022-06-12
 tags: [安装,Visual,C++,下载,资源]
 comments: true

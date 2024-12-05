@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX31856-STM32编程应用资料"
+title: "MAX31856STM32编程应用资料"
 date:   2024-12-04
 tags: [MAX31856,STM32,驱动程序,芯片,编程]
 comments: true

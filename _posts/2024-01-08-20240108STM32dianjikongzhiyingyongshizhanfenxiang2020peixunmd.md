@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32电机控制应用实战分享（2020培训）"
+title: "STM32电机控制应用实战分享2020培训"
 date:   2023-05-08
 tags: [电机,控制技术,控制,STM32,应用]
 comments: true

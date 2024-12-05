@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32项目：快递存取柜"
+title: "STM32项目快递存取柜"
 date:   2024-07-16
 tags: [模块,快递,STM32,存取,用户]
 comments: true

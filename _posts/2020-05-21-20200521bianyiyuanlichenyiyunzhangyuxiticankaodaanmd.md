@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理（陈意云 张昱）习题参考答案"
+title: "编译原理陈意云 张昱习题参考答案"
 date:   2020-06-12
 tags: [编译,参考答案,学习,习题,原理]
 comments: true

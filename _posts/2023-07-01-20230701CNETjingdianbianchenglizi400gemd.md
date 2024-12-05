@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#.NET 经典编程例子400个"
+title: "CNET 经典编程例子400个"
 date:   2022-10-16
 tags: [实例,控件,窗体,组件,图像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RXTX.rar JAVA串口通信所需文件 RXTXcomm.jar 下载仓库"
+title: "RXTXrar JAVA串口通信所需文件 RXTXcommjar 下载仓库"
 date:   2022-11-21
 tags: [文件,串口,JAVA,RXTXcomm,jar]
 comments: true

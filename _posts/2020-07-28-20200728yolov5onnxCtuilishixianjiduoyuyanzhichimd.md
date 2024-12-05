@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5.onnx C++推理实现及多语言支持"
+title: "yolov5onnx C推理实现及多语言支持"
 date:   2024-02-02
 tags: [ONNX,推理,C++,Java,模型]
 comments: true

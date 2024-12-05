@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RNN-LSTM卷积神经网络Matlab实现"
+title: "RNNLSTM卷积神经网络Matlab实现"
 date:   2020-01-20
 tags: [RNN,LSTM,Matlab,拟合,神经网络]
 comments: true

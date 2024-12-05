@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js抗锯齿平面扩散波资源下载"
+title: "Threejs抗锯齿平面扩散波资源下载"
 date:   2024-11-21
 tags: [抗锯齿,扩散,平面,Three,js]
 comments: true

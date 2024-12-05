@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程知识体系SWEBOK-V3 免费下载"
+title: "软件工程知识体系SWEBOKV3 免费下载"
 date:   2020-08-25
 tags: [软件工程,SWEBOK,V3,知识,下载]
 comments: true

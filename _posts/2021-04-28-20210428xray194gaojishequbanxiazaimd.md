@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xray 1.9.4 高级社区版下载"
+title: "xray 194 高级社区版下载"
 date:   2022-02-15
 tags: [POC,xray,1.9,漏洞,检测]
 comments: true

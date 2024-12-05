@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装.NET3.5所需的NetFx3包"
+title: "安装NET35所需的NetFx3包"
 date:   2022-10-13
 tags: [NET3.5,安装,NetFx3,cab,文件]
 comments: true

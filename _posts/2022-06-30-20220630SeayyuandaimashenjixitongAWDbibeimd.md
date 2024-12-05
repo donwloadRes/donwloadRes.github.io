@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seay源代码审计系统（AWD必备）"
+title: "Seay源代码审计系统AWD必备"
 date:   2020-01-09
 tags: [代码,审计,Seay,源代码,AWD]
 comments: true

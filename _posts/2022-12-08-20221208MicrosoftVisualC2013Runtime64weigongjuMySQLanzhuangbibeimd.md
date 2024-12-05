@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2013 Runtime 64位工具（MySQL安装必备）"
+title: "Microsoft Visual C 2013 Runtime 64位工具MySQL安装必备"
 date:   2021-01-01
 tags: [MySQL,64,安装,运行库,文件]
 comments: true

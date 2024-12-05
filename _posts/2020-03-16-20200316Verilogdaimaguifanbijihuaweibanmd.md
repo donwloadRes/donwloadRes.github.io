@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog代码规范笔记 - 华为版"
+title: "Verilog代码规范笔记  华为版"
 date:   2022-06-11
 tags: [Verilog,代码,规范,文件,华为]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Cloud Alibaba 集成 Spring Security OAuth2.0 实现认证和授权"
+title: "Spring Cloud Alibaba 集成 Spring Security OAuth20 实现认证和授权"
 date:   2022-02-24
 tags: [Spring,OAuth2.0,Security,Cloud,Alibaba]
 comments: true

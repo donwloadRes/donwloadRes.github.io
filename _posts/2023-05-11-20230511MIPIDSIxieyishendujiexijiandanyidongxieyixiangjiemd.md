@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI-DSI 协议深度解析-简单易懂协议详解"
+title: "MIPIDSI 协议深度解析简单易懂协议详解"
 date:   2023-12-26
 tags: [MIPI,DSI,协议,文档,文件]
 comments: true

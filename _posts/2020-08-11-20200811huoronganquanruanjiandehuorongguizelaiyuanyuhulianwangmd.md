@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火绒安全软件的火绒规则（来源于互联网）"
+title: "火绒安全软件的火绒规则来源于互联网"
 date:   2021-08-21
 tags: [火绒,规则,安全软件,使用,互联网]
 comments: true

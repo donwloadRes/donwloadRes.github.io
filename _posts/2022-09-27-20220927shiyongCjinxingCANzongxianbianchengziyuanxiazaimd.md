@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C#进行CAN总线编程资源下载"
+title: "使用C进行CAN总线编程资源下载"
 date:   2021-01-12
 tags: [总线,编程,C#,开发者,资源]
 comments: true

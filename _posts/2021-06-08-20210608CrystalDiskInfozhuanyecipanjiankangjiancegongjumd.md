@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrystalDiskInfo：专业磁盘健康监测工具"
+title: "CrystalDiskInfo专业磁盘健康监测工具"
 date:   2023-08-02
 tags: [硬盘,CrystalDiskInfo,SMART,磁盘,健康]
 comments: true

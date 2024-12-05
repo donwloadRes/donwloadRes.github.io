@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享52个Java源码，总有一款适合您"
+title: "分享52个Java源码总有一款适合您"
 date:   2023-08-20
 tags: [源码,Java,示例,编程,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可视化群论探索 —— Visual Group Theory"
+title: "可视化群论探索  Visual Group Theory"
 date:   2023-04-23
 tags: [群论,数学,Visual,Group,Theory]
 comments: true

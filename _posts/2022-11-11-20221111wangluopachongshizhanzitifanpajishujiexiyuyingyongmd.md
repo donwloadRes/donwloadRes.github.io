@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络爬虫实战：字体反爬技术解析与应用"
+title: "网络爬虫实战字体反爬技术解析与应用"
 date:   2023-09-17
 tags: [爬虫,字体,反爬,文件,技术]
 comments: true

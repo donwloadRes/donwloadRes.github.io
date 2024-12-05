@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文件加密解密工具(FileCryptor_V1.3) 使用说明"
+title: "文件加密解密工具FileCryptorV13 使用说明"
 date:   2022-04-22
 tags: [加密,解密,文件,FileCryptor,V1.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地理信息系统教程-汤国安"
+title: "地理信息系统教程汤国安"
 date:   2023-05-04
 tags: [地理信息系统,教程,国安,教材,仓库]
 comments: true

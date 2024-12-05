@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keithley2400综合测试软件（专业版）"
+title: "Keithley2400综合测试软件专业版"
 date:   2024-08-06
 tags: [测试,测试软件,Keithley2400,专业版,软件]
 comments: true

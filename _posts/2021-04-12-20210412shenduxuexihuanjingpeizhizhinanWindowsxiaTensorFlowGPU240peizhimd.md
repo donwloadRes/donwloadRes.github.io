@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置指南：Windows下TensorFlow-GPU 2.4.0配置"
+title: "深度学习环境配置指南Windows下TensorFlowGPU 240配置"
 date:   2020-06-23
 tags: [安装,TensorFlow,GPU,Anaconda,Windows]
 comments: true

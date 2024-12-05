@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primo Ramdisk 服务器版 6.5.1 亲测可用"
+title: "Primo Ramdisk 服务器版 651 亲测可用"
 date:   2022-03-09
 tags: [服务器版,Primo,Ramdisk,服务器,虚拟]
 comments: true

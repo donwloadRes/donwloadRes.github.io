@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实战：Qt5.11.1安装与MSVC配置"
+title: "Qt实战Qt5111安装与MSVC配置"
 date:   2024-08-26
 tags: [Qt,MSVC,安装,配置,编译器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理习题整理版（PDF）"
+title: "数字图像处理习题整理版PDF"
 date:   2024-02-26
 tags: [数字图像处理,习题,学习,PDF,整理]
 comments: true

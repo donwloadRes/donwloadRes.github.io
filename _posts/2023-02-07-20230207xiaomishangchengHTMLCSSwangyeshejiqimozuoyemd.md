@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米商城（HTML+CSS）网页设计期末作业"
+title: "小米商城HTMLCSS网页设计期末作业"
 date:   2023-10-08
 tags: [CSS,HTML,网页,小米,商城]
 comments: true

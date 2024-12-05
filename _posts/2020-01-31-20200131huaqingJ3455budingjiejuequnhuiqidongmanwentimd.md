@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华擎J3455补丁：解决群晖启动慢问题"
+title: "华擎J3455补丁解决群晖启动慢问题"
 date:   2021-09-17
 tags: [补丁,群晖,J3455,华擎,启动]
 comments: true

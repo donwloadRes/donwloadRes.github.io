@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp优购项目 - 项目完整源码"
+title: "uniapp优购项目  项目完整源码"
 date:   2020-02-20
 tags: [项目,uni,app,电商,uniapp]
 comments: true

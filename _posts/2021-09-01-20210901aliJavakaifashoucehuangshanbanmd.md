@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里Java开发手册-黄山版"
+title: "阿里Java开发手册黄山版"
 date:   2021-02-04
 tags: [Java,手册,黄山,开发者,阿里]
 comments: true

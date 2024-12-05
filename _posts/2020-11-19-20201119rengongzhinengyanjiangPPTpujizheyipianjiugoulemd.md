@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能演讲PPT：普及这一篇就够了"
+title: "人工智能演讲PPT普及这一篇就够了"
 date:   2021-06-11
 tags: [AI,PPT,人工智能,演讲,这份]
 comments: true

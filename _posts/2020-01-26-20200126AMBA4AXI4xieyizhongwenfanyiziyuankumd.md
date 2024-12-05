@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMBA4-AXI4协议中文翻译资源库"
+title: "AMBA4AXI4协议中文翻译资源库"
 date:   2023-09-23
 tags: [AMBA4,AXI4,中文翻译,协议,学习]
 comments: true

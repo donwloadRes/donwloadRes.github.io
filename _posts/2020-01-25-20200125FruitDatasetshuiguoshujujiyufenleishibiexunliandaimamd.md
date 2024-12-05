@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fruit-Dataset 水果数据集与分类识别训练代码"
+title: "FruitDataset 水果数据集与分类识别训练代码"
 date:   2020-11-26
 tags: [水果,模型,训练,Fruit,Dataset]
 comments: true

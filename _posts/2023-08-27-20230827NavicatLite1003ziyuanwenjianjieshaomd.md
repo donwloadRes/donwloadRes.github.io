@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Lite-10.0.3 资源文件介绍"
+title: "Navicat Lite1003 资源文件介绍"
 date:   2021-11-10
 tags: [Navicat,Lite,10.0,版本,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工作总结模版案例PPT（绝对高大上）"
+title: "工作总结模版案例PPT绝对高大上"
 date:   2021-05-29
 tags: [PPT,模版,汇报,总结,案例]
 comments: true

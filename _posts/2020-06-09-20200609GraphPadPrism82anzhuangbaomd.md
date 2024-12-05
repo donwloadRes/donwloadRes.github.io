@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GraphPad Prism 8.2 安装包"
+title: "GraphPad Prism 82 安装包"
 date:   2023-01-28
 tags: [Prism,GraphPad,安装包,8.2,软件]
 comments: true

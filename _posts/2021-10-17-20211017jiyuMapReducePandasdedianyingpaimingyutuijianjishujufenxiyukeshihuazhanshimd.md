@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MapReduce+Pandas的电影排名与推荐及数据分析与可视化展示"
+title: "基于MapReducePandas的电影排名与推荐及数据分析与可视化展示"
 date:   2024-08-22
 tags: [Pandas,MapReduce,可视化,电影,数据分析]
 comments: true

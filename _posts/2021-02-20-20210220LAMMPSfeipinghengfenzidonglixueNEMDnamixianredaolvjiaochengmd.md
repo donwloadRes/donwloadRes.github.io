@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAMMPS非平衡分子动力学 (NEMD) 纳米线热导率教程"
+title: "LAMMPS非平衡分子动力学 NEMD 纳米线热导率教程"
 date:   2020-12-30
 tags: [LAMMPS,纳米线,热导率,Python,教程]
 comments: true

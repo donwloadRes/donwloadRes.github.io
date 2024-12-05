@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 协议文档"
+title: "MIPI CSI2 协议文档"
 date:   2022-02-24
 tags: [文档,MIPI,CSI,版本,协议]
 comments: true

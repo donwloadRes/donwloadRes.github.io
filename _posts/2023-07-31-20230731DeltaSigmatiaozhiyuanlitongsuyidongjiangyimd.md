@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delta-Sigma调制原理 通俗易懂讲义"
+title: "DeltaSigma调制原理 通俗易懂讲义"
 date:   2021-10-31
 tags: [Delta,Sigma,调制,讲义,通俗易懂]
 comments: true

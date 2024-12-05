@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vrops-数据中心概览图资源下载"
+title: "vrops数据中心概览图资源下载"
 date:   2021-08-17
 tags: [数据中心,概览,vrops,资源,文件]
 comments: true

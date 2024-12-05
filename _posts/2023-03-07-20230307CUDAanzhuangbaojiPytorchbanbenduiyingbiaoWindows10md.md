@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA安装包及Pytorch版本对应表（Windows 10）"
+title: "CUDA安装包及Pytorch版本对应表Windows 10"
 date:   2020-03-01
 tags: [CUDA,Pytorch,版本,安装包,Windows]
 comments: true

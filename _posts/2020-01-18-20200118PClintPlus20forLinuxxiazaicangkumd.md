@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC-lint Plus 2.0 for Linux 下载仓库"
+title: "PClint Plus 20 for Linux 下载仓库"
 date:   2021-03-03
 tags: [PC,Linux,lint,Plus,分析]
 comments: true

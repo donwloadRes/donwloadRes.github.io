@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeF1 v1.8.5 封装包"
+title: "STM32CubeF1 v185 封装包"
 date:   2021-08-13
 tags: [封装,固件,STM32CubeF1,v1.8,STM32F1]
 comments: true

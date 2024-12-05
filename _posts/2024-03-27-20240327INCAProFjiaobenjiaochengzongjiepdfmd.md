@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INCA_ProF脚本教程总结.pdf"
+title: "INCAProF脚本教程总结pdf"
 date:   2021-05-29
 tags: [ProF,INCA,标定,脚本,教程]
 comments: true

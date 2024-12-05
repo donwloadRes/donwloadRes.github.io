@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32接收红外程序（采用HX1838芯片）"
+title: "STM32接收红外程序采用HX1838芯片"
 date:   2023-09-16
 tags: [STM32,接收,stm32,ir,receiver]
 comments: true

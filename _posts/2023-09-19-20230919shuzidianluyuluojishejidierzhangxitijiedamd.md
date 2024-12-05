@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计》第二章习题解答"
+title: "数字电路与逻辑设计第二章习题解答"
 date:   2020-06-16
 tags: [逻辑设计,数字电路,习题,解答,第二章]
 comments: true

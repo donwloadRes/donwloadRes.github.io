@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士 LR-W500颜色传感器设置手册"
+title: "基恩士 LRW500颜色传感器设置手册"
 date:   2022-07-08
 tags: [手册,传感器,LR,W500,基恩]
 comments: true

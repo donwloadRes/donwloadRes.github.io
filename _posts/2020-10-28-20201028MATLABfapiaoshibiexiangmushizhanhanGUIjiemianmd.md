@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB发票识别项目实战（含GUI界面）"
+title: "MATLAB发票识别项目实战含GUI界面"
 date:   2023-01-17
 tags: [识别,MATLAB,发票,图像,GUI]
 comments: true

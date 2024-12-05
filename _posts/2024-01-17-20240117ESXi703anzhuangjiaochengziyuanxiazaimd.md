@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXi 7.0.3 安装教程资源下载"
+title: "ESXi 703 安装教程资源下载"
 date:   2023-05-23
 tags: [ESXi,教程,7.0,安装,下载]
 comments: true

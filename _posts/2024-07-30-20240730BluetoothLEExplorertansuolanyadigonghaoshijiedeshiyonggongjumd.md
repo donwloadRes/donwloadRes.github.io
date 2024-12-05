@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluetooth LE Explorer - 探索蓝牙低功耗世界的实用工具"
+title: "Bluetooth LE Explorer  探索蓝牙低功耗世界的实用工具"
 date:   2022-10-31
 tags: [Windows,BLE,蓝牙,低功耗,BluetoothLEExplorer]
 comments: true

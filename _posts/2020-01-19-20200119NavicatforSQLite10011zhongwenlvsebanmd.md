@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat for SQLite 10.0.11 中文绿色版"
+title: "Navicat for SQLite 10011 中文绿色版"
 date:   2022-04-06
 tags: [11,绿色版,Navicat,SQLite,中文]
 comments: true

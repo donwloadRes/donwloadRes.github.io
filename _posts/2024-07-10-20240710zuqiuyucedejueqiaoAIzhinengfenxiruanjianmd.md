@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "足球预测的诀窍：AI智能分析软件"
+title: "足球预测的诀窍AI智能分析软件"
 date:   2023-07-21
 tags: [AI,预测,智能,分析,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fluent Meshing学习指南：从入门到精通"
+title: "Fluent Meshing学习指南从入门到精通"
 date:   2024-07-14
 tags: [Fluent,Meshing,PPT,学习,网格]
 comments: true

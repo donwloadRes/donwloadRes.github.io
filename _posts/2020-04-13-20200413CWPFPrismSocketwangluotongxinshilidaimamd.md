@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#+WPF+Prism+Socket 网络通信示例代码"
+title: "CWPFPrismSocket 网络通信示例代码"
 date:   2024-05-21
 tags: [代码,C#,WPF,网络通信,示例]
 comments: true

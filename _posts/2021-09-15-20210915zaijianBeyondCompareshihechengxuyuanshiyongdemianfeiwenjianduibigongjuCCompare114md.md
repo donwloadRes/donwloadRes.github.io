@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "再见Beyond Compare：适合程序员使用的免费文件对比工具——CCompare1.14"
+title: "再见Beyond Compare适合程序员使用的免费文件对比工具CCompare114"
 date:   2024-11-24
 tags: [对比,CCompare1.14,文件,文件夹,同步]
 comments: true

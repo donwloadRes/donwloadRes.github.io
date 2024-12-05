@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 9.1sp2 Web Edition安装教程详解"
+title: "Quartus II 91sp2 Web Edition安装教程详解"
 date:   2020-12-09
 tags: [安装,教程,Quartus,II,9.1]
 comments: true

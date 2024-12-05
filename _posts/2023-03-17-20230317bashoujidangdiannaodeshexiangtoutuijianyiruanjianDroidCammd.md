@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "把手机当电脑的摄像头！推荐一软件DroidCam"
+title: "把手机当电脑的摄像头推荐一软件DroidCam"
 date:   2021-04-11
 tags: [DroidCam,摄像头,电脑,手机,连接]
 comments: true

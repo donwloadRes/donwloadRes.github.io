@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGIS基础教程 (入门级)——绘制矢量图层、遥感影像裁剪"
+title: "QGIS基础教程 入门级绘制矢量图层遥感影像裁剪"
 date:   2024-06-04
 tags: [QGIS,矢量图,教程,裁剪,遥感]
 comments: true

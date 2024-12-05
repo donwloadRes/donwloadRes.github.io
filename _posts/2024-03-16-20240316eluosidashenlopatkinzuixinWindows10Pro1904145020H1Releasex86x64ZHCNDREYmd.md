@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "俄罗斯大神lopatkin最新Windows 10 Pro 19041.450 20H1 Release x86-x64 ZH-CN DREY"
+title: "俄罗斯大神lopatkin最新Windows 10 Pro 19041450 20H1 Release x86x64 ZHCN DREY"
 date:   2024-04-05
 tags: [lopatkin,Windows,10,x86,x64]
 comments: true

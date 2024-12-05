@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的智能加湿器（Proteus仿真+程序）"
+title: "基于STM32单片机的智能加湿器Proteus仿真程序"
 date:   2022-06-20
 tags: [仿真,Proteus,单片机,STM32,源码]
 comments: true

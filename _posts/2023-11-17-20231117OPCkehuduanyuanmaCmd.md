@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC客户端源码（C++）"
+title: "OPC客户端源码C"
 date:   2020-08-26
 tags: [源码,OPC,MFC,客户端,移植]
 comments: true

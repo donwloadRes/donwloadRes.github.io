@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bemfa-MQTT 巴法云ESP8266接入小爱同学实例"
+title: "BemfaMQTT 巴法云ESP8266接入小爱同学实例"
 date:   2020-08-23
 tags: [ESP8266,Bemfa,小爱,MQTT,设备]
 comments: true

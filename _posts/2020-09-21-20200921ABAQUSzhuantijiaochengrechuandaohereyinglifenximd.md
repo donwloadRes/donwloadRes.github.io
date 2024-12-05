@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS专题教程-热传导和热应力分析"
+title: "ABAQUS专题教程热传导和热应力分析"
 date:   2024-01-03
 tags: [热应力,ABAQUS,热传导,教程,分析]
 comments: true

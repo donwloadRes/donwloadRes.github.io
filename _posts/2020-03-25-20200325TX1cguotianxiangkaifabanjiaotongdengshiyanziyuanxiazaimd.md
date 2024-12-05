@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TX-1c 郭天祥开发板交通灯实验资源下载"
+title: "TX1c 郭天祥开发板交通灯实验资源下载"
 date:   2024-11-22
 tags: [交通灯,TX,1c,郭天祥,开发板]
 comments: true

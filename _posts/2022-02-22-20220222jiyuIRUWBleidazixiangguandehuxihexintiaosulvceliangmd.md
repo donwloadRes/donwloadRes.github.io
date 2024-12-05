@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于IR-UWB雷达自相关的呼吸和心跳速率测量"
+title: "基于IRUWB雷达自相关的呼吸和心跳速率测量"
 date:   2021-01-16
 tags: [UWB,IR,雷达,心跳,呼吸]
 comments: true

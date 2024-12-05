@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 反编译工具 - Easy Python Decompiler"
+title: "Python 反编译工具  Easy Python Decompiler"
 date:   2021-06-25
 tags: [Python,反编译,pyc,Easy,Decompiler]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DO-178B-C的机载软件适航审查研究"
+title: "基于DO178BC的机载软件适航审查研究"
 date:   2023-04-10
 tags: [DO,178B,适航,机载,审查]
 comments: true

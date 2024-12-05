@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 虚拟键盘：解决模态窗口卡死问题"
+title: "QT 虚拟键盘解决模态窗口卡死问题"
 date:   2020-04-21
 tags: [卡死,模态,键盘,文件,虚拟]
 comments: true

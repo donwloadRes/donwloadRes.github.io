@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图注意力机制PPT - FRyan制作"
+title: "图注意力机制PPT  FRyan制作"
 date:   2020-09-21
 tags: [Transformer,PPT,注意力,Graph,神经网络]
 comments: true

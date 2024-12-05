@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD4.0协议中文翻译版本"
+title: "SD40协议中文翻译版本"
 date:   2024-06-13
 tags: [SD4.0,协议,版本,中文翻译,翻译]
 comments: true

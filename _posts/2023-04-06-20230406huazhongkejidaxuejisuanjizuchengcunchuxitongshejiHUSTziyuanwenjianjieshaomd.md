@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华中科技大学计算机组成存储系统设计（HUST）资源文件介绍"
+title: "华中科技大学计算机组成存储系统设计HUST资源文件介绍"
 date:   2023-12-20
 tags: [设计,实验,存储系统,华中科技大学,cache]
 comments: true

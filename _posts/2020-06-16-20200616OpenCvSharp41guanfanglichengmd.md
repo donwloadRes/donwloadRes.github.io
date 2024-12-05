@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCvSharp4.1官方例程"
+title: "OpenCvSharp41官方例程"
 date:   2020-06-09
 tags: [例程,OpenCvSharp4.1,OpenCV,官方,C#]
 comments: true

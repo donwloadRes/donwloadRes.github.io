@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M4参考手册"
+title: "ARM CortexM4参考手册"
 date:   2024-10-25
 tags: [M4,Cortex,ARM,开发者,参考手册]
 comments: true

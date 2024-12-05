@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超棒的软考-数据库系统工程师学习笔记"
+title: "超棒的软考数据库系统工程师学习笔记"
 date:   2022-04-02
 tags: [笔记,复习,数据库系统,考生,工程师]
 comments: true

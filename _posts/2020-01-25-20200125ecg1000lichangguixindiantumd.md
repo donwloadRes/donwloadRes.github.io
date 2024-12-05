@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ecg_1000例常规心电图"
+title: "ecg1000例常规心电图"
 date:   2022-06-03
 tags: [心电图,数据,1000,常规,模型]
 comments: true

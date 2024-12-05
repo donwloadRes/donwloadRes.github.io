@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双色球模拟购买程序 - C-C++实现"
+title: "双色球模拟购买程序  CC实现"
 date:   2022-07-28
 tags: [双色球,购买,彩票,号码,程序]
 comments: true

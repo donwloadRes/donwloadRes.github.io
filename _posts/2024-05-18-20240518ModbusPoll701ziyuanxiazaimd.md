@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModbusPoll 7.0.1 资源下载"
+title: "ModbusPoll 701 资源下载"
 date:   2024-11-17
 tags: [ModbusPoll,7.0,调试,ModbusPoll7.0,RS485]
 comments: true

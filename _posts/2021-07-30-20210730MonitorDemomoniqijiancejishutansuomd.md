@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MonitorDemo - 模拟器检测技术探索"
+title: "MonitorDemo  模拟器检测技术探索"
 date:   2021-11-03
 tags: [模拟器,检测,MonitorDemo,开发者,技术]
 comments: true

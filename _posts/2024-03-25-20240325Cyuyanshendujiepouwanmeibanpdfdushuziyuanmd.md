@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言深度解剖（完美版）.pdf 读书资源"
+title: "C语言深度解剖完美版pdf 读书资源"
 date:   2021-04-10
 tags: [C语言,完美版,pdf,解剖,深度]
 comments: true

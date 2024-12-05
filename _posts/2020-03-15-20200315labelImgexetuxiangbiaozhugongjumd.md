@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labelImg.exe 图像标注工具"
+title: "labelImgexe 图像标注工具"
 date:   2024-10-26
 tags: [labelImg,exe,标注,图像,工具]
 comments: true

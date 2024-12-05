@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC标准汇总（电气行业）"
+title: "IEC标准汇总电气行业"
 date:   2020-08-26
 tags: [IEC,标准,电气,汇总,电气工程]
 comments: true

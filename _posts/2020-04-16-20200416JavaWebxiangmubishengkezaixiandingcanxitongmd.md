@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb项目 - 必胜客在线订餐系统"
+title: "JavaWeb项目  必胜客在线订餐系统"
 date:   2023-08-13
 tags: [JavaWeb,项目,订餐,必胜客,在线]
 comments: true

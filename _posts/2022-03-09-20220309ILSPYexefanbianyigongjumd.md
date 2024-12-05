@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILSPY.exe反编译工具"
+title: "ILSPYexe反编译工具"
 date:   2022-08-22
 tags: [反编译,exe,ILSPY,文件,二进制]
 comments: true

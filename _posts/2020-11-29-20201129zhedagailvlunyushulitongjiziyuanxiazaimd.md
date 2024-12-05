@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浙大概率论与数理统计》资源下载"
+title: "浙大概率论与数理统计资源下载"
 date:   2021-05-13
 tags: [数理统计,概率论,资源,浙大,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Python+OpenCV+yolov5实现行人目标检测"
+title: "使用PythonOpenCVyolov5实现行人目标检测"
 date:   2020-11-02
 tags: [Python,检测,OpenCV,行人,yolov5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "写给大家看的设计书》（第四版）资源分享"
+title: "写给大家看的设计书第四版资源分享"
 date:   2020-02-10
 tags: [设计,第四版,写给,页面,链接]
 comments: true

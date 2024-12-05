@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF8654-SSF8643转接电缆定义表"
+title: "SFF8654SSF8643转接电缆定义表"
 date:   2020-09-24
 tags: [SFF8654,SSF8643,转接,电缆,定义]
 comments: true

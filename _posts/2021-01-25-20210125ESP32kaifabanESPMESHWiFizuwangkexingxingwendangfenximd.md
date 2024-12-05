@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32开发板ESP-MESH WiFi组网可行性文档分析"
+title: "ESP32开发板ESPMESH WiFi组网可行性文档分析"
 date:   2024-03-14
 tags: [开发板,组网,ESP32,ESP,MESH]
 comments: true

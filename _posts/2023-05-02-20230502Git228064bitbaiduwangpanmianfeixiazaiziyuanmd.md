@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git-2.28.0-64bit 百度网盘免费下载资源"
+title: "Git228064bit 百度网盘免费下载资源"
 date:   2023-04-30
 tags: [Git,下载,安装,2.28,64bit]
 comments: true

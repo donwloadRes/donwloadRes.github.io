@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "兼容小程序的jsEncrypt.js文件及压缩版"
+title: "兼容小程序的jsEncryptjs文件及压缩版"
 date:   2020-04-17
 tags: [js,jsEncrypt,文件,程序,jsencrypt]
 comments: true

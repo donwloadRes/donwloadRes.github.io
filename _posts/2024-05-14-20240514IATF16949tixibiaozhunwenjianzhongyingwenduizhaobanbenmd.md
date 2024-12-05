@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IATF 16949 体系标准文件（中英文对照版本）"
+title: "IATF 16949 体系标准文件中英文对照版本"
 date:   2023-08-17
 tags: [中英文,对照,IATF,16949,标准文件]
 comments: true

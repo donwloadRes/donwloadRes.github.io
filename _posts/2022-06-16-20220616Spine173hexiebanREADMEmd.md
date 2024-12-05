@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spine 1.73+ 和谐版 README"
+title: "Spine 173 和谐版 README"
 date:   2023-11-19
 tags: [Spine,动画,1.73,和谐,版本]
 comments: true

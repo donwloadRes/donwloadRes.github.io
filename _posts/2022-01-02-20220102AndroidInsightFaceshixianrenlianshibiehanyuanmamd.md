@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android InsightFace实现人脸识别（含源码）"
+title: "Android InsightFace实现人脸识别含源码"
 date:   2023-08-31
 tags: [人脸识别,InsightFace,Android,源码,实现]
 comments: true

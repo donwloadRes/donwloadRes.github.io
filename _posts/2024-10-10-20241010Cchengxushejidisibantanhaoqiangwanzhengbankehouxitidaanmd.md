@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C程序设计（第四版）谭浩强完整版课后习题答案"
+title: "C程序设计第四版谭浩强完整版课后习题答案"
 date:   2021-05-26
 tags: [习题,编程,答案,学习,课后]
 comments: true

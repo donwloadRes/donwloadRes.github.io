@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10-22H2专业版万人装机系统镜像"
+title: "WIN1022H2专业版万人装机系统镜像"
 date:   2023-07-09
 tags: [系统,装机,无广告,安装,镜像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装VMware Workstation 16.1 资源文件介绍"
+title: "安装VMware Workstation 161 资源文件介绍"
 date:   2024-06-05
 tags: [安装,VMware,Workstation,16.1,密钥]
 comments: true

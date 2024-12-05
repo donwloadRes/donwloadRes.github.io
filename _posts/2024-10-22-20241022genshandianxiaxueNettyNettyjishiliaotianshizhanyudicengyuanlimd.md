@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跟闪电侠学Netty：Netty即时聊天实战与底层原理"
+title: "跟闪电侠学NettyNetty即时聊天实战与底层原理"
 date:   2023-01-03
 tags: [Netty,文件,闪电侠,底层,聊天]
 comments: true

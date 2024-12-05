@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 6 使用 SignalR 实现实时通信"
+title: "NET 6 使用 SignalR 实现实时通信"
 date:   2021-03-02
 tags: [指南,实时,代码,通信,NET]
 comments: true

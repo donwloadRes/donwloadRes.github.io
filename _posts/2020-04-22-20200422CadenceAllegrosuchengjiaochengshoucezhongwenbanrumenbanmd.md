@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 速成教程手册 - 中文版（入门版）"
+title: "Cadence Allegro 速成教程手册  中文版入门版"
 date:   2022-03-26
 tags: [手册,Allegro,Cadence,教程,PCB]
 comments: true

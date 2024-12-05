@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC动态绘制曲线图 - HightSpeedChart实现"
+title: "MFC动态绘制曲线图  HightSpeedChart实现"
 date:   2023-05-23
 tags: [MFC,绘制,动态,曲线图,曲线]
 comments: true

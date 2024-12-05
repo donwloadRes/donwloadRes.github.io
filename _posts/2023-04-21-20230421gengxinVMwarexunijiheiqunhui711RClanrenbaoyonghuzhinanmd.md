@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【更新】VMware虚拟机黑群晖7.1.1 RC(懒人包) 用户指南"
+title: "更新VMware虚拟机黑群晖711 RC懒人包 用户指南"
 date:   2021-05-26
 tags: [虚拟机,VMware,懒人,配置,7.1]
 comments: true

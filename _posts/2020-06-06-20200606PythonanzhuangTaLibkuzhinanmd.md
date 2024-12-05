@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python安装Ta-Lib库指南"
+title: "Python安装TaLib库指南"
 date:   2024-11-29
 tags: [Lib,安装,Python,Ta,bash]
 comments: true

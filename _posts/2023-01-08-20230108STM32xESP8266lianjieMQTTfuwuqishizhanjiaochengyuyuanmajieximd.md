@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32 x ESP8266】连接MQTT服务器实战教程与源码解析"
+title: "STM32 x ESP8266连接MQTT服务器实战教程与源码解析"
 date:   2021-10-13
 tags: [MQTT,ESP8266,连接,STM32,服务器]
 comments: true

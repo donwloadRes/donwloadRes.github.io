@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express M.2 规范 V1.2 版本"
+title: "PCI Express M2 规范 V12 版本"
 date:   2023-03-14
 tags: [M.2,PCI,Express,V1.2,规范]
 comments: true

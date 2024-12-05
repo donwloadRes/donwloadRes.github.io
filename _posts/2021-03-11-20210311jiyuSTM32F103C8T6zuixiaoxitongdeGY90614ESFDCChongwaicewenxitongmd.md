@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6最小系统的GY-90614ESF-DCC红外测温系统"
+title: "基于STM32F103C8T6最小系统的GY90614ESFDCC红外测温系统"
 date:   2020-10-25
 tags: [STM32F103C8T6,GY,90614ESF,DCC,红外]
 comments: true

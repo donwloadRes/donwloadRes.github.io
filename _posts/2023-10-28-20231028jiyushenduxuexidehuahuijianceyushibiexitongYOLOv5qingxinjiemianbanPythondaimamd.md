@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的花卉检测与识别系统（YOLOv5清新界面版，Python代码）"
+title: "基于深度学习的花卉检测与识别系统YOLOv5清新界面版Python代码"
 date:   2020-11-28
 tags: [花卉,检测,界面,YOLOv5,项目]
 comments: true

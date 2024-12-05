@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 1-f噪声生成代码"
+title: "MATLAB 1f噪声生成代码"
 date:   2024-06-29
 tags: [噪声,代码,MATLAB,Noise,频率]
 comments: true

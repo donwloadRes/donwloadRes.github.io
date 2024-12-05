@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM201-2-CH-Hi3798MV300-300H-EMMC-NAND闪存-通刷-强刷固件 README"
+title: "CM2012CHHi3798MV300300HEMMCNAND闪存通刷强刷固件 README"
 date:   2022-01-04
 tags: [固件,刷机,闪存,通刷,强刷]
 comments: true

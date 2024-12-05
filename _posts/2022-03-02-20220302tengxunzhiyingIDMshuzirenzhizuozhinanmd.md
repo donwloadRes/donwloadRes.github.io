@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "腾讯智影+IDM数字人制作指南"
+title: "腾讯智影IDM数字人制作指南"
 date:   2020-11-19
 tags: [IDM,智影,腾讯,数字,安装]
 comments: true

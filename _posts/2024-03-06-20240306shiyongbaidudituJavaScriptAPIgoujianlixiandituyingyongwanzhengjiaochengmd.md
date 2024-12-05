@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用百度地图JavaScript API构建离线地图应用（完整教程）"
+title: "使用百度地图JavaScript API构建离线地图应用完整教程"
 date:   2023-04-25
 tags: [地图,教程,离线,API,文件]
 comments: true

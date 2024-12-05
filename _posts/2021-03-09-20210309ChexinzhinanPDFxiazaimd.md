@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++核心指南PDF下载"
+title: "C核心指南PDF下载"
 date:   2023-09-22
 tags: [C++,指南,PDF,文件,Core]
 comments: true

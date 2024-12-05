@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows环境下Hadoop 3.1.0依赖：winutils"
+title: "Windows环境下Hadoop 310依赖winutils"
 date:   2022-05-31
 tags: [Hadoop,winutils,文件,3.1,Windows]
 comments: true

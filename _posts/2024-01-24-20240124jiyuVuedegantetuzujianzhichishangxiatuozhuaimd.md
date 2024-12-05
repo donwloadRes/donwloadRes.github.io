@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vue的甘特图组件 - 支持上下拖拽"
+title: "基于Vue的甘特图组件  支持上下拖拽"
 date:   2024-07-16
 tags: [甘特图,组件,拖拽,Vue,排班]
 comments: true

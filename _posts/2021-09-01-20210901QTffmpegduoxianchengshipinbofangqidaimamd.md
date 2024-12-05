@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+ffmpeg+多线程视频播放器代码"
+title: "QTffmpeg多线程视频播放器代码"
 date:   2020-03-02
 tags: [QT,ffmpeg,多线程,播放,解码]
 comments: true

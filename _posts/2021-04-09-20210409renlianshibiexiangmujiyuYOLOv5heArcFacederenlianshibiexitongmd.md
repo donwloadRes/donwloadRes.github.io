@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸识别项目：基于YOLOv5和ArcFace的人脸识别系统"
+title: "人脸识别项目基于YOLOv5和ArcFace的人脸识别系统"
 date:   2023-08-22
 tags: [人脸识别,人脸,模型,YOLOv5,ArcFace]
 comments: true

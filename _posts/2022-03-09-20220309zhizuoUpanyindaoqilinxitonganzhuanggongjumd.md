@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "制作“U盘引导麒麟系统安装”工具"
+title: "制作U盘引导麒麟系统安装工具"
 date:   2021-01-20
 tags: [U盘,麒麟,工具,安装,制作]
 comments: true

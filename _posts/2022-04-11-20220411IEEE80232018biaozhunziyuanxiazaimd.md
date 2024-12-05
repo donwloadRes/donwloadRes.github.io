@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3-2018 标准资源下载"
+title: "IEEE 80232018 标准资源下载"
 date:   2024-03-31
 tags: [以太网,IEEE,2018,802.3,标准]
 comments: true

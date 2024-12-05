@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哨兵数据下载、处理与应用指南"
+title: "哨兵数据下载处理与应用指南"
 date:   2020-02-24
 tags: [哨兵,数据,应用,Python,处理]
 comments: true

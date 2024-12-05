@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac Pro M1(ARM)安装CentOS 8.0虚拟机指南"
+title: "Mac Pro M1ARM安装CentOS 80虚拟机指南"
 date:   2020-05-07
 tags: [虚拟机,CentOS,8.0,安装,Mac]
 comments: true

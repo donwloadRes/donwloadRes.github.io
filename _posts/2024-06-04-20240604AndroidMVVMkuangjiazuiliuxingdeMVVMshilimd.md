@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android MVVM 框架：最流行的 MVVM 示例"
+title: "Android MVVM 框架最流行的 MVVM 示例"
 date:   2021-04-07
 tags: [MVVM,示例,Android,项目,框架]
 comments: true

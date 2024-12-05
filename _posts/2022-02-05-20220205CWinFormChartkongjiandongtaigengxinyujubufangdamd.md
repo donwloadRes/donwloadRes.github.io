@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Chart控件动态更新与局部放大"
+title: "C WinForm Chart控件动态更新与局部放大"
 date:   2024-10-15
 tags: [控件,Chart,视图,C#,动态]
 comments: true

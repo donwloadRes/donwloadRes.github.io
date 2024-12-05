@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDBC-ODBC驱动包下载及使用说明"
+title: "JDBCODBC驱动包下载及使用说明"
 date:   2024-11-25
 tags: [驱动,jdbc,odbc,JDBC,ODBC]
 comments: true

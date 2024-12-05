@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最新版Portraiture 4.1.2人像美化资源功能介绍"
+title: "2024年最新版Portraiture 412人像美化资源功能介绍"
 date:   2022-04-12
 tags: [Portraiture,美化,4.1,人像,皮肤]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cognex In-Sight智能相机资料编程手册"
+title: "Cognex InSight智能相机资料编程手册"
 date:   2022-01-02
 tags: [Sight,Cognex,视觉,相机,编程]
 comments: true

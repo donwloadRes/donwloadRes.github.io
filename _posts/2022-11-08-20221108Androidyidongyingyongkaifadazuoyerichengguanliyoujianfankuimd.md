@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android移动应用开发大作业——日程管理+邮件反馈"
+title: "Android移动应用开发大作业日程管理邮件反馈"
 date:   2021-04-01
 tags: [日程,反馈,Android,邮件,开发者]
 comments: true

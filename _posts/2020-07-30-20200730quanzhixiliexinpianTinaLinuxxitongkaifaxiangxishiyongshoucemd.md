@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志系列芯片Tina-Linux系统开发详细使用手册"
+title: "全志系列芯片TinaLinux系统开发详细使用手册"
 date:   2023-09-01
 tags: [Linux,Tina,全志,开发,系统]
 comments: true

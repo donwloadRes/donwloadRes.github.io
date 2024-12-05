@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethernet-IP协议简介资源下载"
+title: "EthernetIP协议简介资源下载"
 date:   2023-04-27
 tags: [Ethernet,IP,协议,文件,简介]
 comments: true

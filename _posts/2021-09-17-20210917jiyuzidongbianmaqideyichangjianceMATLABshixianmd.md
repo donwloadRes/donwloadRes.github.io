@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于自动编码器的异常检测（MATLAB 实现）"
+title: "基于自动编码器的异常检测MATLAB 实现"
 date:   2022-03-08
 tags: [编码器,检测,自动,异常,数据]
 comments: true

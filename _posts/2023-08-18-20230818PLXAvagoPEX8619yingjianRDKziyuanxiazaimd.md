@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLX(Avago) PEX_8619硬件RDK资源下载"
+title: "PLXAvago PEX8619硬件RDK资源下载"
 date:   2024-04-16
 tags: [PEX,RDK,8619,PCIE,文档]
 comments: true

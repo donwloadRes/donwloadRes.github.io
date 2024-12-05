@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+FFmpeg：多摄像头实时流处理项目"
+title: "QTFFmpeg多摄像头实时流处理项目"
 date:   2023-07-09
 tags: [FFmpeg,摄像头,Windows,Qt,项目]
 comments: true

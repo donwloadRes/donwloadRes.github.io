@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPSS Modeler 18.0 数据挖掘软件教程：关联分析-Apriori"
+title: "SPSS Modeler 180 数据挖掘软件教程关联分析Apriori"
 date:   2020-02-19
 tags: [SPSS,Modeler,18.0,Apriori,数据挖掘]
 comments: true

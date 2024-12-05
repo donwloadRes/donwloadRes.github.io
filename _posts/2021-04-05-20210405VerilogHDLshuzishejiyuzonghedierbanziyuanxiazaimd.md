@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog HDL数字设计与综合（第二版）资源下载"
+title: "Verilog HDL数字设计与综合第二版资源下载"
 date:   2024-05-21
 tags: [Verilog,HDL,数字,设计,综合]
 comments: true

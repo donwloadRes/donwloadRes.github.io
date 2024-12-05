@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDCP 2.1 规范下载仓库"
+title: "HDCP 21 规范下载仓库"
 date:   2020-05-27
 tags: [HDCP,2.1,仓库,规范,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出密码学(PDF英文原版) 电子书资源"
+title: "深入浅出密码学PDF英文原版 电子书资源"
 date:   2020-04-22
 tags: [密码学,深入浅出,PDF,英文原版,加密技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200SMART PLC视频教程资源下载"
+title: "西门子S7200SMART PLC视频教程资源下载"
 date:   2020-03-23
 tags: [PLC,视频教程,编程,S7,200SMART]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偏微分方程经典教材：L. Evans 著作"
+title: "偏微分方程经典教材L Evans 著作"
 date:   2022-11-18
 tags: [教材,微分方程,Evans,学习,经典]
 comments: true

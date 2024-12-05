@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AForge.NET 中文文档下载"
+title: "AForgeNET 中文文档下载"
 date:   2024-07-14
 tags: [AForge,文档,NET,框架,中文]
 comments: true

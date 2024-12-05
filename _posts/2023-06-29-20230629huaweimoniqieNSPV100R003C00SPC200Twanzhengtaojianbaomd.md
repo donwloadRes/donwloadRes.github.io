@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为模拟器eNSP_V100R003C00SPC200T完整套件包"
+title: "华为模拟器eNSPV100R003C00SPC200T完整套件包"
 date:   2023-07-22
 tags: [eNSP,VirtualBox,安装,华为,模拟器]
 comments: true

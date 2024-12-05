@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信保研资料（数字信号处理+通信原理）"
+title: "通信保研资料数字信号处理通信原理"
 date:   2020-11-18
 tags: [保研,资料,面试,信号处理,通信]
 comments: true

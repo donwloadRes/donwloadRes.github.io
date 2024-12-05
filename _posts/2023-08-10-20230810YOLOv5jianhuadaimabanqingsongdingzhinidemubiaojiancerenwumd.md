@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5简化代码版：轻松定制你的目标检测任务"
+title: "YOLOv5简化代码版轻松定制你的目标检测任务"
 date:   2021-09-07
 tags: [YOLOv5,检测,训练,代码,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网导论 第二版（简单整理）Word版下载"
+title: "物联网导论 第二版简单整理Word版下载"
 date:   2024-03-20
 tags: [Word,联网,导论,文件,整理]
 comments: true

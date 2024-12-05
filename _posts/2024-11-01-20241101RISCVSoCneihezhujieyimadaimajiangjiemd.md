@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V SoC内核注解——译码代码讲解"
+title: "RISCV SoC内核注解译码代码讲解"
 date:   2023-11-23
 tags: [译码,RISC,模块,内核,代码]
 comments: true

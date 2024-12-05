@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青岛大学面向对象程序设计（C++）往年题目"
+title: "青岛大学面向对象程序设计C往年题目"
 date:   2024-01-07
 tags: [题目,面向对象,C++,程序设计,青岛大学]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习—Python实现决策树实例（简单易懂好上手）"
+title: "机器学习Python实现决策树实例简单易懂好上手"
 date:   2023-01-21
 tags: [决策树,train,sklearn,data,训练]
 comments: true

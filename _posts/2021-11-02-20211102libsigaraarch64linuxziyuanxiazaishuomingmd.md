@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libsigar-aarch64-linux资源下载说明"
+title: "libsigaraarch64linux资源下载说明"
 date:   2023-01-05
 tags: [libsigar,aarch64,linux,Java,编译]
 comments: true

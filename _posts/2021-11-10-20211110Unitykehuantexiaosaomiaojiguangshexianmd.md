@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity科幻特效：扫描、激光、射线"
+title: "Unity科幻特效扫描激光射线"
 date:   2022-03-27
 tags: [特效,Unity,科幻,Demo,游戏]
 comments: true

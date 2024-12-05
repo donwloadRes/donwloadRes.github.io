@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVGL 8.3.0 版本 QT 仿真工程"
+title: "LVGL 830 版本 QT 仿真工程"
 date:   2020-10-22
 tags: [QT,LVGL,工程,仿真,版本]
 comments: true

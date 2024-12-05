@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读写三菱PLC资源文件介绍"
+title: "C读写三菱PLC资源文件介绍"
 date:   2023-08-04
 tags: [PLC,Melsu,Net,写入,读取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟集成电路设计精粹 - Willy M. C. Sansen 清华英文版"
+title: "模拟集成电路设计精粹  Willy M C Sansen 清华英文版"
 date:   2020-07-22
 tags: [Sansen,模拟,集成电路,精粹,设计]
 comments: true

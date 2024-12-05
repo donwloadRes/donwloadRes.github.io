@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPT模板大全(最全的模板）"
+title: "PPT模板大全最全的模板"
 date:   2023-08-08
 tags: [模板,PPT,最全,大全,演示]
 comments: true

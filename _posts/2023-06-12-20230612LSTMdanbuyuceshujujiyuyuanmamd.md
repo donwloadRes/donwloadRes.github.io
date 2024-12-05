@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM 单步预测：数据集与源码"
+title: "LSTM 单步预测数据集与源码"
 date:   2020-10-18
 tags: [LSTM,预测,模型,源码,单步]
 comments: true

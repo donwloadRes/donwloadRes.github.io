@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据安全风险评估方法及实施指南（深圳）"
+title: "数据安全风险评估方法及实施指南深圳"
 date:   2021-03-05
 tags: [数据安全,评估,指南,风险,方法]
 comments: true

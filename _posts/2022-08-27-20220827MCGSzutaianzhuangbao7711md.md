@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCGS组态安装包7.7.1.1"
+title: "MCGS组态安装包7711"
 date:   2022-08-28
 tags: [MCGS,组态,安装包,7.7,1.1]
 comments: true

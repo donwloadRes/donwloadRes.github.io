@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD22-A110E 高加速温度和湿度应力测试（HAST）"
+title: "JESD22A110E 高加速温度和湿度应力测试HAST"
 date:   2024-03-20
 tags: [测试,JESD22,A110E,HAST,加速]
 comments: true

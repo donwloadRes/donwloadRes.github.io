@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103ZET6的多路ADC采集实现（DMA方式）"
+title: "基于STM32F103ZET6的多路ADC采集实现DMA方式"
 date:   2022-05-13
 tags: [ADC,DMA,采集,STM32F103ZET6,项目]
 comments: true

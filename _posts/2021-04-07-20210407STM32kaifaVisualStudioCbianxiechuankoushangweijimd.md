@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32开发 -- Visual Studio C++编写串口上位机"
+title: "STM32开发  Visual Studio C编写串口上位机"
 date:   2020-05-14
 tags: [串口,STM32,编写,开发者,Visual]
 comments: true

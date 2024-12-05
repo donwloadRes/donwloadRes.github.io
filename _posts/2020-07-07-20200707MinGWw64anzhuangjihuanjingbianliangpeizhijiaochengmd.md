@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64安装及环境变量配置教程"
+title: "MinGWw64安装及环境变量配置教程"
 date:   2020-10-30
 tags: [MinGW,w64,安装,环境变量,下载]
 comments: true

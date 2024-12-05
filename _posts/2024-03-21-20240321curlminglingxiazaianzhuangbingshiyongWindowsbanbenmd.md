@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "curl命令下载安装并使用（Windows版本）"
+title: "curl命令下载安装并使用Windows版本"
 date:   2024-06-10
 tags: [curl,--,下载,文件,Windows]
 comments: true

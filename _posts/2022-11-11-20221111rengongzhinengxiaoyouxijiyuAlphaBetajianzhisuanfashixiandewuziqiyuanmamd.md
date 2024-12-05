@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能小游戏-基于Alpha-Beta剪枝算法实现的五子棋源码"
+title: "人工智能小游戏基于AlphaBeta剪枝算法实现的五子棋源码"
 date:   2021-01-15
 tags: [五子棋,剪枝,Alpha,Beta,fir]
 comments: true

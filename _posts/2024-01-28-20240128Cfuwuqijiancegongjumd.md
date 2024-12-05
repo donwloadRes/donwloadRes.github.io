@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 服务器监测工具"
+title: "C 服务器监测工具"
 date:   2021-06-06
 tags: [获取,内存,服务器,工具,C#]
 comments: true

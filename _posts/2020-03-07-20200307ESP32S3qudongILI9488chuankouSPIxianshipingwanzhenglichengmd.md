@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3驱动ILI9488 串口SPI显示屏完整例程"
+title: "ESP32S3驱动ILI9488 串口SPI显示屏完整例程"
 date:   2022-02-15
 tags: [例程,ESP32,S3,ILI9488,触控]
 comments: true

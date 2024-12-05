@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu下达梦(DM8)数据库安装指南"
+title: "Ubuntu下达梦DM8数据库安装指南"
 date:   2023-10-28
 tags: [DM8,数据库,Ubuntu,安装,达梦]
 comments: true

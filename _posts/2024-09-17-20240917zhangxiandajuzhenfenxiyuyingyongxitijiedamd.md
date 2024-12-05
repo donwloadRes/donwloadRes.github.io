@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张贤达矩阵分析与应用》习题解答"
+title: "张贤达矩阵分析与应用习题解答"
 date:   2020-04-18
 tags: [矩阵,习题,解答,学习,贤达]
 comments: true

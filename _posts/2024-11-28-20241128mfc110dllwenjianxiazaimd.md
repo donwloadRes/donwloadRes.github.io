@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mfc110.dll 文件下载"
+title: "mfc110dll 文件下载"
 date:   2021-01-12
 tags: [文件,mfc110,dll,Windows,运行]
 comments: true

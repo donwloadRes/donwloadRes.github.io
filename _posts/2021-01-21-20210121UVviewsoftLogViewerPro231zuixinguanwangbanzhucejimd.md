@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVviewsoft LogViewer Pro 2.3.1 最新官网版+注册机"
+title: "UVviewsoft LogViewer Pro 231 最新官网版注册机"
 date:   2021-08-18
 tags: [LogViewer,Pro,注册机,软件,UVviewsoft]
 comments: true

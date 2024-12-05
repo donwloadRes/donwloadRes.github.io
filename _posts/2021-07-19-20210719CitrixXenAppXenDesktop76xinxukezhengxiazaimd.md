@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Citrix XenApp XenDesktop 7.6 新许可证下载"
+title: "Citrix XenApp XenDesktop 76 新许可证下载"
 date:   2022-08-23
 tags: [下载,Citrix,XenApp,XenDesktop,7.6]
 comments: true

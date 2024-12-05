@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XposedBridgeAPI-89.jar"
+title: "XposedBridgeAPI89jar"
 date:   2024-09-18
 tags: [开发者,应用,Xposed,系统,XposedBridgeAPI]
 comments: true

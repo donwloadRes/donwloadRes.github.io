@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11ax协议标准2021版下载仓库"
+title: "80211ax协议标准2021版下载仓库"
 date:   2022-03-06
 tags: [802.11,ax,文件,协议,2021]
 comments: true

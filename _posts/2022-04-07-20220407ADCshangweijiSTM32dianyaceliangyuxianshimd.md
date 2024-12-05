@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC上位机：STM32电压测量与显示"
+title: "ADC上位机STM32电压测量与显示"
 date:   2022-05-11
 tags: [STM32,上位,电压,ADC,串口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王6.55运行时间无限制版"
+title: "组态王655运行时间无限制版"
 date:   2023-09-19
 tags: [组态王,6.55,制版,软件,学习]
 comments: true

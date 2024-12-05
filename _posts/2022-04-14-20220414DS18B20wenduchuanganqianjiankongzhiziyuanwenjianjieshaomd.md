@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS18B20温度传感器+按键控制资源文件介绍"
+title: "DS18B20温度传感器按键控制资源文件介绍"
 date:   2024-03-11
 tags: [DS18B20,温度,计数器,温度传感器,按键]
 comments: true

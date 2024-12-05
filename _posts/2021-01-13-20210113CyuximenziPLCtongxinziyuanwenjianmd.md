@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与西门子PLC通信资源文件"
+title: "C与西门子PLC通信资源文件"
 date:   2021-02-09
 tags: [PLC,西门子,文件,C#,文档]
 comments: true

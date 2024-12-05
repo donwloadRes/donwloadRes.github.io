@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "巢湖流域shp文件：GIS操作底图"
+title: "巢湖流域shp文件GIS操作底图"
 date:   2020-04-02
 tags: [GIS,shp,巢湖,文件,流域]
 comments: true

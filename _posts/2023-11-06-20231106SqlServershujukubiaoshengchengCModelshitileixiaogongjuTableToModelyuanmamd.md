@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SqlServer数据库表生成C# Model实体类小工具 - TableToModel源码"
+title: "SqlServer数据库表生成C Model实体类小工具  TableToModel源码"
 date:   2021-12-05
 tags: [实体类,C#,生成,SqlServer,数据库]
 comments: true

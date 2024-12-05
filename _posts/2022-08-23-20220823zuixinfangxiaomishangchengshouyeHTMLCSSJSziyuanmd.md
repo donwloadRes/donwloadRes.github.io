@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新仿小米商城首页HTML+CSS+JS资源"
+title: "最新仿小米商城首页HTMLCSSJS资源"
 date:   2020-08-05
 tags: [HTML,首页,小米,商城,页面]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "故障录波文件解析源程序（VC++）"
+title: "故障录波文件解析源程序VC"
 date:   2020-10-21
 tags: [录波,C++,故障,解析,文件]
 comments: true

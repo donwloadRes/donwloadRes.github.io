@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构设计师教程（第2版）资源下载"
+title: "系统架构设计师教程第2版资源下载"
 date:   2024-05-25
 tags: [教程,架构师,资源,架构,下载]
 comments: true

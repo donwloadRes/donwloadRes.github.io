@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XY2-100振镜控制协议标准中文详细解释"
+title: "XY2100振镜控制协议标准中文详细解释"
 date:   2023-09-11
 tags: [振镜,XY2,100,控制协议,应用]
 comments: true

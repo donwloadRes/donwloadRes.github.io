@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网易云音乐官网模仿 - 前端培训项目"
+title: "网易云音乐官网模仿  前端培训项目"
 date:   2023-01-15
 tags: [官网,JavaScript,项目,前端,HTML]
 comments: true

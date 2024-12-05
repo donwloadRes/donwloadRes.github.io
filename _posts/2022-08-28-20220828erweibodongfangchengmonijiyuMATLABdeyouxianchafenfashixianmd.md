@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二维波动方程模拟：基于MATLAB的有限差分法实现"
+title: "二维波动方程模拟基于MATLAB的有限差分法实现"
 date:   2024-06-21
 tags: [MATLAB,二维,数值,代码,差分法]
 comments: true

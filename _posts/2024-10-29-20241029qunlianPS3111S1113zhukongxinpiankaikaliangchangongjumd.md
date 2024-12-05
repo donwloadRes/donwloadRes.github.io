@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联PS3111-S11-13主控芯片 开卡量产工具"
+title: "群联PS3111S1113主控芯片 开卡量产工具"
 date:   2022-06-02
 tags: [主控,群联,PS3111,S11,13]
 comments: true

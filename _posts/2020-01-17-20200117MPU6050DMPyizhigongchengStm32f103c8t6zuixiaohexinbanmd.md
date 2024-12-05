@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050 DMP移植工程（Stm32f103c8t6最小核心板）"
+title: "MPU6050 DMP移植工程Stm32f103c8t6最小核心板"
 date:   2021-11-29
 tags: [串口,MPU6050,调试,Stm32f103c8t6,接线]
 comments: true

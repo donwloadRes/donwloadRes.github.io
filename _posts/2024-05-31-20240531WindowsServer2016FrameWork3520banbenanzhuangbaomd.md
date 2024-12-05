@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WindowsServer 2016 FrameWork 3.5-2.0 版本安装包"
+title: "WindowsServer 2016 FrameWork 3520 版本安装包"
 date:   2024-05-10
 tags: [2.0,安装包,FrameWork,3.5,安装]
 comments: true

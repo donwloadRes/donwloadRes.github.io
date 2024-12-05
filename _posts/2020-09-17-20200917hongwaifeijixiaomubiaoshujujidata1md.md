@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外飞机小目标数据集_data1"
+title: "红外飞机小目标数据集data1"
 date:   2022-12-20
 tags: [数据,标注,文件夹,data1,飞机]
 comments: true

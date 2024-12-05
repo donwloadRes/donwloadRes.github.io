@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solomon标准测试数据集 - VRPTW"
+title: "Solomon标准测试数据集  VRPTW"
 date:   2024-07-03
 tags: [VRPTW,数据,客户,路径,Solomon]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL绘制地球仪（包含环境配置）"
+title: "OpenGL绘制地球仪包含环境配置"
 date:   2021-06-25
 tags: [地球仪,OpenGL,glut,glaux,3D]
 comments: true

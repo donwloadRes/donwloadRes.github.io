@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.x+Pyqt5 GUI界面制作案例集"
+title: "Python3xPyqt5 GUI界面制作案例集"
 date:   2022-04-26
 tags: [案例,GUI,git,feature,界面]
 comments: true

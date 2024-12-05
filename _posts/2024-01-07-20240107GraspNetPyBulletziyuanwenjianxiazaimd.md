@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GraspNet-PyBullet 资源文件下载"
+title: "GraspNetPyBullet 资源文件下载"
 date:   2020-09-01
 tags: [抓取,PyBullet,文件,示例,GraspNet]
 comments: true

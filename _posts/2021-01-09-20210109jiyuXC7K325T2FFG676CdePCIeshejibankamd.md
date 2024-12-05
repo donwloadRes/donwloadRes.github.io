@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于XC7K325T-2FFG676C的PCIe设计板卡"
+title: "基于XC7K325T2FFG676C的PCIe设计板卡"
 date:   2021-02-07
 tags: [PCIe,FPGA,设计,XC7K325T,2FFG676C]
 comments: true

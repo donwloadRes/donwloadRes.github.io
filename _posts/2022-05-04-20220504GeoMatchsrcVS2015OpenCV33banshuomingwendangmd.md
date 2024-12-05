@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoMatch_src(VS2015+OpenCV3.3版) 说明文档"
+title: "GeoMatchsrcVS2015OpenCV33版 说明文档"
 date:   2024-07-28
 tags: [OpenCV,GeoMatch,Visual,Studio,3.3]
 comments: true

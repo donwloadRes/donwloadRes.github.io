@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：三调土地利用现状分类面积汇总表"
+title: "CC工具箱使用指南三调土地利用现状分类面积汇总表"
 date:   2020-08-21
 tags: [工具箱,CC,土地利用,三调,汇总表]
 comments: true

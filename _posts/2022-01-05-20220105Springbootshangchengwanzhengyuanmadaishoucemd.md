@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot商城【完整源码带手册】"
+title: "Springboot商城完整源码带手册"
 date:   2020-05-24
 tags: [Spring,项目,商城,Boot,数据库]
 comments: true

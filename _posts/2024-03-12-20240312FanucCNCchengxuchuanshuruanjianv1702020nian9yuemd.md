@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fanuc CNC程序传输软件 v17.0 (2020年9月)"
+title: "Fanuc CNC程序传输软件 v170 2020年9月"
 date:   2022-09-14
 tags: [Fanuc,CNC,传输,程序,软件]
 comments: true

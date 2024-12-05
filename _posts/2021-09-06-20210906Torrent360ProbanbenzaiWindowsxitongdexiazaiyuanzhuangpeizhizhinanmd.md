@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "µTorrent 3.6.0 Pro版本在Windows系统的下载与安装配置指南"
+title: "Torrent 360 Pro版本在Windows系统的下载与安装配置指南"
 date:   2023-10-09
 tags: [下载,Torrent,Pro,3.6,客户端]
 comments: true

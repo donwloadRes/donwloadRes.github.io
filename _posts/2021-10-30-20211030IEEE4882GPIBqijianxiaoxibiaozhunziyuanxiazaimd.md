@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 488.2 GPIB器件消息标准资源下载"
+title: "IEEE 4882 GPIB器件消息标准资源下载"
 date:   2022-02-13
 tags: [GPIB,IEEE,488.2,器件,标准]
 comments: true

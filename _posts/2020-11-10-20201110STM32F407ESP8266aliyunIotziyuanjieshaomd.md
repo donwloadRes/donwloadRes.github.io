@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407+ESP8266 阿里云Iot 资源介绍"
+title: "STM32F407ESP8266 阿里云Iot 资源介绍"
 date:   2024-08-31
 tags: [STM32F407,ESP8266,Iot,阿里,连接]
 comments: true

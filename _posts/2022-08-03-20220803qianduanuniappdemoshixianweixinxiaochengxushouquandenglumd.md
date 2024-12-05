@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端uniapp-demo实现微信小程序授权登录》"
+title: "前端uniappdemo实现微信小程序授权登录"
 date:   2022-11-23
 tags: [微信,uniapp,登录,授权,程序]
 comments: true

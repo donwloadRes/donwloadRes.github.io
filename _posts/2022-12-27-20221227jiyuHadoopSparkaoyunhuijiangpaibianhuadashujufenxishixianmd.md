@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Hadoop-Spark奥运会奖牌变化大数据分析实现"
+title: "基于HadoopSpark奥运会奖牌变化大数据分析实现"
 date:   2020-09-28
 tags: [奥运会,奖牌数,可视化,Hadoop,奖牌]
 comments: true

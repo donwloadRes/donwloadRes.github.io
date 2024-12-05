@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SHE Secure Hardware Extension.pdf"
+title: "SHE Secure Hardware Extensionpdf"
 date:   2024-11-27
 tags: [SHE,安全,硬件,软件,密钥]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPENCV函数手册(带目录) - OpenCV中文参考手册"
+title: "OPENCV函数手册带目录  OpenCV中文参考手册"
 date:   2020-08-23
 tags: [OpenCV,函数,参考手册,手册,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 斑马打印机USB接口ZPL条码打印"
+title: "C 斑马打印机USB接口ZPL条码打印"
 date:   2022-11-27
 tags: [打印机,ZPL,斑马,USB,打印]
 comments: true

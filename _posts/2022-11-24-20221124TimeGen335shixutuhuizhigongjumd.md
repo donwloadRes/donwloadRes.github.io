@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TimeGen 3.3.5 时序图绘制工具"
+title: "TimeGen 335 时序图绘制工具"
 date:   2020-06-18
 tags: [时序,TimeGen,3.3,绘制,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX标准规范之一：VITA46.0草案标准"
+title: "VPX标准规范之一VITA460草案标准"
 date:   2023-07-21
 tags: [互连,VME,VITA,模块,串行]
 comments: true

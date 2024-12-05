@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验2-在Hadoop平台上部署WordCount程序-孙淼1"
+title: "实验2在Hadoop平台上部署WordCount程序孙淼1"
 date:   2021-07-26
 tags: [Hadoop,WordCount,程序,实验,报告]
 comments: true

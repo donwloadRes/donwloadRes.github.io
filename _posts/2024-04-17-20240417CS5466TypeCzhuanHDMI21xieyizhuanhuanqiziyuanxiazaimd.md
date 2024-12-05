@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5466 Type-C转HDMI2.1协议转换器资源下载"
+title: "CS5466 TypeC转HDMI21协议转换器资源下载"
 date:   2020-10-07
 tags: [CS5466,HDMI2.1,资源,Type,转换器]
 comments: true

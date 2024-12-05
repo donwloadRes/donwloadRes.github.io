@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C语言的AES 128 CBC加密解密代码（MSP430F149验证通过）"
+title: "基于C语言的AES 128 CBC加密解密代码MSP430F149验证通过"
 date:   2020-01-03
 tags: [AES,加密,解密,代码,128]
 comments: true

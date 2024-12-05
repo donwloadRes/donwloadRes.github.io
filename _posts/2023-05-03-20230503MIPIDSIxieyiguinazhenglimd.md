@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI-DSI协议归纳整理"
+title: "MIPIDSI协议归纳整理"
 date:   2022-08-08
 tags: [MIPI,DSI,协议,归纳,00]
 comments: true

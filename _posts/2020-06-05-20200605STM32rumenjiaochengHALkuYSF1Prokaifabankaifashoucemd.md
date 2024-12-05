@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32入门教程(HAL库) - YS-F1Pro 开发板开发手册"
+title: "STM32入门教程HAL库  YSF1Pro 开发板开发手册"
 date:   2024-02-15
 tags: [STM32,开发板,HAL,YS,F1Pro]
 comments: true

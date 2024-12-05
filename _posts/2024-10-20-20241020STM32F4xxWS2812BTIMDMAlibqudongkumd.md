@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4xx-WS2812B-TIM_DMA-lib 驱动库"
+title: "STM32F4xxWS2812BTIMDMAlib 驱动库"
 date:   2020-10-22
 tags: [WS2812B,TIM,DMA,LED,驱动]
 comments: true

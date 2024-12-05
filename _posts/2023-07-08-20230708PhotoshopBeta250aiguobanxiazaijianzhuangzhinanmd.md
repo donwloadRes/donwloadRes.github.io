@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop Beta 25.0爱国版下载及安装指南"
+title: "Photoshop Beta 250爱国版下载及安装指南"
 date:   2022-08-01
 tags: [Photoshop,安装,Beta,25.0,Adobe]
 comments: true

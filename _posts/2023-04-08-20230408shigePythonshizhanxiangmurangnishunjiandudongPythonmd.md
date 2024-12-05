@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十个Python实战项目，让你瞬间读懂Python！"
+title: "十个Python实战项目让你瞬间读懂Python"
 date:   2021-05-14
 tags: [Python,项目,使用,开发,实战]
 comments: true

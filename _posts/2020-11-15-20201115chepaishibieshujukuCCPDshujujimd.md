@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌识别数据库（CCPD数据集）"
+title: "车牌识别数据库CCPD数据集"
 date:   2022-09-15
 tags: [数据,车牌,CCPD,模型,识别]
 comments: true

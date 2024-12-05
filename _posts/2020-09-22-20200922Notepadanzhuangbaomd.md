@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 安装包"
+title: "Notepad 安装包"
 date:   2020-06-18
 tags: [Notepad,++,安装包,安装,下载]
 comments: true

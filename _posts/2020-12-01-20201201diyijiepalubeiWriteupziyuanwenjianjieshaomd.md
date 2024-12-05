@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第一届“帕鲁杯”Writeup 资源文件介绍"
+title: "第一届帕鲁杯Writeup 资源文件介绍"
 date:   2023-02-06
 tags: [Writeup,解题,帕鲁杯,文件,题目]
 comments: true

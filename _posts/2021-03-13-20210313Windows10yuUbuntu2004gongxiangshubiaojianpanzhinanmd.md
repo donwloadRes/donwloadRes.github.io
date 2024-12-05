@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10与Ubuntu20.04共享鼠标键盘指南"
+title: "Windows10与Ubuntu2004共享鼠标键盘指南"
 date:   2023-11-30
 tags: [鼠标,键盘,Windows10,Ubuntu20.04,Barrier]
 comments: true

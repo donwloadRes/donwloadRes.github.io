@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arnaldi SigmaDelta-ADC Simulink工具箱资源介绍"
+title: "Arnaldi SigmaDeltaADC Simulink工具箱资源介绍"
 date:   2024-01-15
 tags: [工具箱,ADC,Sigma,Delta,MATLAB]
 comments: true

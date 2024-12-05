@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 5.4安装教程"
+title: "DevC 54安装教程"
 date:   2020-08-28
 tags: [C++,Dev,安装,编程,教程]
 comments: true

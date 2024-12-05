@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 动态库动态加载完整工程示例代码"
+title: "CC 动态库动态加载完整工程示例代码"
 date:   2020-07-27
 tags: [动态,加载,API,卸载,函数]
 comments: true

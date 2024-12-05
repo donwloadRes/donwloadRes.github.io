@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的AI换脸软件：Roop下载介绍（可直播）"
+title: "最简单的AI换脸软件Roop下载介绍可直播"
 date:   2023-09-29
 tags: [换脸,Roop,AI,视频,人脸]
 comments: true

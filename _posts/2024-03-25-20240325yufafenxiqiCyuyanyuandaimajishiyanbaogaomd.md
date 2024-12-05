@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语法分析器（C语言源代码）及实验报告"
+title: "语法分析器C语言源代码及实验报告"
 date:   2021-06-18
 tags: [语法分析,源代码,实验报告,C语言,分析法]
 comments: true

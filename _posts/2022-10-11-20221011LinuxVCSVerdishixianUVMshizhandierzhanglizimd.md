@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux VCS+Verdi实现UVM实战第二章例子"
+title: "Linux VCSVerdi实现UVM实战第二章例子"
 date:   2024-06-24
 tags: [UVM,Linux,VCS,Verdi,第二章]
 comments: true

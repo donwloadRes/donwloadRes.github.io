@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "闪存U盘量产工具 - 银灿IS918MPTool-GA-221206"
+title: "闪存U盘量产工具  银灿IS918MPToolGA221206"
 date:   2020-09-27
 tags: [U盘,GA,221206,量产,银灿]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "兄弟 HL-5595DN 5590DN 5585D 5580D 打印机中文维修手册"
+title: "兄弟 HL5595DN 5590DN 5585D 5580D 打印机中文维修手册"
 date:   2021-04-03
 tags: [HL,打印机,手册,维修,兄弟]
 comments: true

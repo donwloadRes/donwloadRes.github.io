@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform VLC视频播放器"
+title: "C Winform VLC视频播放器"
 date:   2024-06-12
 tags: [VLC,文件,播放器,插件,视频]
 comments: true

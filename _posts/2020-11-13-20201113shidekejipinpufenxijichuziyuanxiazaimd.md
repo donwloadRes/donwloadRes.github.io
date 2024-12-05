@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "是德科技频谱分析基础》资源下载"
+title: "是德科技频谱分析基础资源下载"
 date:   2021-08-19
 tags: [频谱,资源,分析,下载,文件]
 comments: true

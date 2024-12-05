@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小二乘算法总结（算法+程序）"
+title: "最小二乘算法总结算法程序"
 date:   2024-02-12
 tags: [二乘,算法,最小,递推,附录]
 comments: true

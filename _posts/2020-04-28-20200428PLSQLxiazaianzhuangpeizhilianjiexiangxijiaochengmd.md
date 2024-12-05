@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLSQL下载、安装、配置、连接详细教程"
+title: "PLSQL下载安装配置连接详细教程"
 date:   2021-04-01
 tags: [PLSQL,Developer,Oracle,连接,配置]
 comments: true

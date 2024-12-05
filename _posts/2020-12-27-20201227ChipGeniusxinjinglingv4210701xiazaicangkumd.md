@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChipGenius芯精灵v4.21.0701 下载仓库"
+title: "ChipGenius芯精灵v4210701 下载仓库"
 date:   2024-05-02
 tags: [v4.21,0701,ChipGenius,CRC32,精灵]
 comments: true

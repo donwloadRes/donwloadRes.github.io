@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迷宫问题的A算法(Python实现)"
+title: "迷宫问题的A算法Python实现"
 date:   2022-04-16
 tags: [迷宫,算法,txt,路径,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix企业级分布式监控系统》"
+title: "Zabbix企业级分布式监控系统"
 date:   2020-04-23
 tags: [Zabbix,企业级,监控,本书,分布式]
 comments: true

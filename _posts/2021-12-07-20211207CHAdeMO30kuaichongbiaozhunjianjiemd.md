@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHAdeMO 3.0 快充标准简介"
+title: "CHAdeMO 30 快充标准简介"
 date:   2022-09-11
 tags: [CHAdeMO,3.0,充电,快充,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java大文件上传、秒传、断点续传、分片功能实现Demo"
+title: "Java大文件上传秒传断点续传分片功能实现Demo"
 date:   2024-11-02
 tags: [上传,文件,断点续传,分片,项目]
 comments: true

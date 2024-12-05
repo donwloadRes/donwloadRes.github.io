@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中Chart控件实现在数据量大时X轴自动滚动功能"
+title: "C中Chart控件实现在数据量大时X轴自动滚动功能"
 date:   2022-12-21
 tags: [控件,视图,Chart,数据,滚动条]
 comments: true

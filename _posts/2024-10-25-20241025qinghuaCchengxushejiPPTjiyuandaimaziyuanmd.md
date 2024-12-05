@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华C++程序设计PPT及源代码资源"
+title: "清华C程序设计PPT及源代码资源"
 date:   2022-10-15
 tags: [C++,PPT,源代码,编程,程序设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-BILSTM-Attention的多变量回归预测MATLAB实现"
+title: "基于CNNBILSTMAttention的多变量回归预测MATLAB实现"
 date:   2021-09-03
 tags: [MATLAB,CNN,BILSTM,模型,变量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL-SQL 安装与部署指南"
+title: "PLSQL 安装与部署指南"
 date:   2020-06-23
 tags: [SQL,PL,Oracle,安装,数据库]
 comments: true

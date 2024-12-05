@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LDO 电路设计-复旦唐长文"
+title: "LDO 电路设计复旦唐长文"
 date:   2023-01-26
 tags: [LDO,电路设计,文件,长文,复旦]
 comments: true

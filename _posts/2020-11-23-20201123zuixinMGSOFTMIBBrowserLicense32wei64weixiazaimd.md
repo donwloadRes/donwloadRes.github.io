@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新MG-SOFT MIB-Browser + License (32位 & 64位) 下载"
+title: "最新MGSOFT MIBBrowser  License 32位  64位 下载"
 date:   2022-10-28
 tags: [MG,MIB,SOFT,64,Browser]
 comments: true

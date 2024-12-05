@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SSM婚纱摄影网站设计与实现（完整源码+数据库+文档）"
+title: "基于SSM婚纱摄影网站设计与实现完整源码数据库文档"
 date:   2024-01-19
 tags: [数据库,文档,项目,源码,网站]
 comments: true

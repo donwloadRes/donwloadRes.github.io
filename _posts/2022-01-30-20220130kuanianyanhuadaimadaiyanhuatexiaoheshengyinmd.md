@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跨年烟花代码：带烟花特效和声音"
+title: "跨年烟花代码带烟花特效和声音"
 date:   2023-03-15
 tags: [烟花,代码,浏览器,HTML,跨年]
 comments: true

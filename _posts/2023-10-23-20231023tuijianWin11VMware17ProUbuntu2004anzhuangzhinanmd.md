@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【推荐】Win11+VMware 17 Pro+Ubuntu 20.04安装指南"
+title: "推荐Win11VMware 17 ProUbuntu 2004安装指南"
 date:   2024-03-21
 tags: [安装,Ubuntu,虚拟机,VMware,20.04]
 comments: true

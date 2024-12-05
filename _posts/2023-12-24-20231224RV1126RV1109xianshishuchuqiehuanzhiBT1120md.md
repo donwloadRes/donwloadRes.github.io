@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RV1126_RV1109 显示输出切换至 BT1120"
+title: "RV1126RV1109 显示输出切换至 BT1120"
 date:   2020-03-24
 tags: [BT1120,文件,切换,RV1126,RV1109]
 comments: true

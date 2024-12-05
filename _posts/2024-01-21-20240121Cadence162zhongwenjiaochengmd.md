@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence 16.2 中文教程"
+title: "Cadence 162 中文教程"
 date:   2020-03-13
 tags: [Cadence,教程,16.2,设计,电子设计]
 comments: true

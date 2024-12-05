@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑金Sparten6开发板Microblaze教程V1.1.pdf 下载仓库"
+title: "黑金Sparten6开发板Microblaze教程V11pdf 下载仓库"
 date:   2020-03-10
 tags: [软核,教程,Sparten6,开发板,MicroBlaze]
 comments: true

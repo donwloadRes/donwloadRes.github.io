@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32 SDK for S32K1xx RTM 4.0.3 资源文件下载"
+title: "S32 SDK for S32K1xx RTM 403 资源文件下载"
 date:   2024-10-02
 tags: [SDK,S32,RTM,S32K1xx,4.0]
 comments: true

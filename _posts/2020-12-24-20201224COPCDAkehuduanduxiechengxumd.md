@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OPC DA客户端读写程序"
+title: "C OPC DA客户端读写程序"
 date:   2023-05-17
 tags: [OPC,DA,C#,客户端,读写]
 comments: true

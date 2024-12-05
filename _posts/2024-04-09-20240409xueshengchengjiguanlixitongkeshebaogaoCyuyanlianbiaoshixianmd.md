@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生成绩管理系统课设报告（C语言链表实现）"
+title: "学生成绩管理系统课设报告C语言链表实现"
 date:   2022-03-22
 tags: [课设,报告,设计,链表,C语言]
 comments: true

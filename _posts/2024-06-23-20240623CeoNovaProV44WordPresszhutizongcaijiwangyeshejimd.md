@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CeoNova-Pro V4.4 WordPress主题 - 总裁级网页设计"
+title: "CeoNovaPro V44 WordPress主题  总裁级网页设计"
 date:   2022-11-15
 tags: [WordPress,CeoNova,Pro,V4.4,主题]
 comments: true

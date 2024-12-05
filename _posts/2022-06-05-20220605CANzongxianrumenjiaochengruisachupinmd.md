@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN总线入门教程 - 瑞萨出品"
+title: "CAN总线入门教程  瑞萨出品"
 date:   2020-09-17
 tags: [总线,入门教程,瑞萨,出品,pdf]
 comments: true

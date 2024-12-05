@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libtinfo.so 下载仓库"
+title: "libtinfoso 下载仓库"
 date:   2023-02-04
 tags: [libtinfo,文件,so,下载,仓库]
 comments: true

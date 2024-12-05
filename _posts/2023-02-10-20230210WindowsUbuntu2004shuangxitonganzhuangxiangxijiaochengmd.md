@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows+Ubuntu20.04双系统安装详细教程"
+title: "WindowsUbuntu2004双系统安装详细教程"
 date:   2023-11-28
 tags: [U盘,Ubuntu,安装,Windows,20.04]
 comments: true

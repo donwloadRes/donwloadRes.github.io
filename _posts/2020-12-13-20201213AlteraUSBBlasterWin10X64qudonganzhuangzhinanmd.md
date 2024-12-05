@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altera USB-Blaster Win10 X64 驱动安装指南"
+title: "Altera USBBlaster Win10 X64 驱动安装指南"
 date:   2021-02-04
 tags: [USB,Blaster,安装,驱动程序,驱动]
 comments: true

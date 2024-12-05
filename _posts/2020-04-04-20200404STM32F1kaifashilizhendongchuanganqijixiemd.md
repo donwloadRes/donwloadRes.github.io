@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1开发实例-振动传感器(机械)"
+title: "STM32F1开发实例振动传感器机械"
 date:   2024-05-24
 tags: [STM32F1,振动,开发,调试,实例]
 comments: true

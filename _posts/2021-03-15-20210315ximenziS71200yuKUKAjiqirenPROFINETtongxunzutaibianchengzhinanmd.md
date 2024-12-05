@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200与KUKA机器人PROFINET通讯、组态、编程指南"
+title: "西门子S71200与KUKA机器人PROFINET通讯组态编程指南"
 date:   2024-03-02
 tags: [S7,1200,PROFINET,KUKA,组态]
 comments: true

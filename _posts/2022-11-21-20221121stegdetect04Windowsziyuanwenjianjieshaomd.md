@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stegdetect-0.4-Windows 资源文件介绍"
+title: "stegdetect04Windows 资源文件介绍"
 date:   2023-05-06
 tags: [JPEG,文件,Windows,检测,隐写]
 comments: true

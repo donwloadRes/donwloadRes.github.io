@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel条码生成工具：Code128与Ean128字体文件及代码示例"
+title: "Excel条码生成工具Code128与Ean128字体文件及代码示例"
 date:   2023-06-08
 tags: [文件,条码,Excel,字体,示例]
 comments: true

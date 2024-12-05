@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程大作业-财务预约系统资源下载"
+title: "软件工程大作业财务预约系统资源下载"
 date:   2024-04-27
 tags: [软件工程,系统,模块,资源,下载]
 comments: true

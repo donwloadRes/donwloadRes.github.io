@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xcode10：library not found for -lstdc++.6.0.9 临时解决方法"
+title: "Xcode10library not found for lstdc609 临时解决方法"
 date:   2024-02-17
 tags: [c++,6.0,Xcode,libstd,lib]
 comments: true

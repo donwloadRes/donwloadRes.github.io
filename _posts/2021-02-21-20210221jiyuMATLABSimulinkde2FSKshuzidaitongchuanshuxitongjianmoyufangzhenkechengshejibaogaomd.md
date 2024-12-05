@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink的2FSK数字带通传输系统建模与仿真课程设计报告"
+title: "基于MATLABSimulink的2FSK数字带通传输系统建模与仿真课程设计报告"
 date:   2023-09-22
 tags: [2FSK,课程设计,MATLAB,Simulink,仿真]
 comments: true

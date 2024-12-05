@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postman安装、汉化及禁止自动更新指南"
+title: "Postman安装汉化及禁止自动更新指南"
 date:   2021-06-28
 tags: [Postman,自动更新,版本,汉化,汉化包]
 comments: true

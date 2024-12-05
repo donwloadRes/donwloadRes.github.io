@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 5.0 SPEC 英文原版"
+title: "PCIe 50 SPEC 英文原版"
 date:   2021-10-08
 tags: [PCIe,5.0,文档,英文原版,SPEC]
 comments: true

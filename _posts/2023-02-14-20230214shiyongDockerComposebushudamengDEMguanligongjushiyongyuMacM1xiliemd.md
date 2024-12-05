@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Docker-Compose部署达梦DEM管理工具（适用于Mac M1系列）"
+title: "使用DockerCompose部署达梦DEM管理工具适用于Mac M1系列"
 date:   2023-08-22
 tags: [Docker,Compose,DEM,达梦,Mac]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动手学深度学习（PyTorch）中d2lzh_pytorch包的安装指南"
+title: "动手学深度学习PyTorch中d2lzhpytorch包的安装指南"
 date:   2024-04-28
 tags: [d2lzh,pytorch,PyTorch,Python,安装]
 comments: true

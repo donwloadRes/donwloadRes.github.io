@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeCAD中文教程-翻译版本"
+title: "FreeCAD中文教程翻译版本"
 date:   2021-03-04
 tags: [FreeCAD,教程,中文,翻译,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HL7解析神器：附带注册码"
+title: "HL7解析神器附带注册码"
 date:   2023-03-23
 tags: [HL7,解析,注册码,工具,神器]
 comments: true

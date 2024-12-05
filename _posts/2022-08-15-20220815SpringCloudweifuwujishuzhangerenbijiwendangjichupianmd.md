@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringCloud微服务技术栈个人笔记文档（基础篇）"
+title: "SpringCloud微服务技术栈个人笔记文档基础篇"
 date:   2023-09-06
 tags: [SpringCloud,文档,技术,服务,分布式系统]
 comments: true

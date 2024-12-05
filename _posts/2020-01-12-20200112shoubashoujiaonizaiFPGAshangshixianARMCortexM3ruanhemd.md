@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你在FPGA上实现ARM Cortex-M3软核"
+title: "手把手教你在FPGA上实现ARM CortexM3软核"
 date:   2022-06-10
 tags: [M3,软核,FPGA,Cortex,Vivado]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF 窗体样式重写 - 界面优美"
+title: "WPF 窗体样式重写  界面优美"
 date:   2020-08-14
 tags: [WPF,文件,窗体,样式,资源]
 comments: true

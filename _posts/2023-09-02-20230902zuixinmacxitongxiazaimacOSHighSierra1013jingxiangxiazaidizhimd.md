@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新mac系统下载 - macOS High Sierra (10.13) 镜像下载地址"
+title: "最新mac系统下载  macOS High Sierra 1013 镜像下载地址"
 date:   2021-09-15
 tags: [下载,macOS,10.13,镜像,High]
 comments: true

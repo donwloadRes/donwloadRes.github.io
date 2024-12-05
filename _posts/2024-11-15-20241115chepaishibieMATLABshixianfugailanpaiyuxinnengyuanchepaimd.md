@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌识别MATLAB实现：覆盖蓝牌与新能源车牌"
+title: "车牌识别MATLAB实现覆盖蓝牌与新能源车牌"
 date:   2020-06-12
 tags: [车牌,识别,MATLAB,模板,参数]
 comments: true

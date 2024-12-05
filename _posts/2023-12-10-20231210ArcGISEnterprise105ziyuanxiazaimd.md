@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Enterprise 10.5 资源下载"
+title: "ArcGIS Enterprise 105 资源下载"
 date:   2024-06-15
 tags: [ArcGIS,10.5,Enterprise,ecp,文件]
 comments: true

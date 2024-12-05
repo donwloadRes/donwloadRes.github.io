@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeIDE 1.15.0自动补全插件"
+title: "STM32CubeIDE 1150自动补全插件"
 date:   2021-06-25
 tags: [STM32CubeIDE,插件,文件,补全,1.15]
 comments: true

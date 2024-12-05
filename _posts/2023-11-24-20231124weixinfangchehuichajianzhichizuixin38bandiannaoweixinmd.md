@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信防撤回插件 - 支持最新3.8版电脑微信"
+title: "微信防撤回插件  支持最新38版电脑微信"
 date:   2021-05-12
 tags: [微信,撤回,电脑,多开,补丁]
 comments: true

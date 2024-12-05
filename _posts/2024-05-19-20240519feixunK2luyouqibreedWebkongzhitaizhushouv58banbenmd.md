@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斐讯K2路由器breed Web控制台助手v5.8版本"
+title: "斐讯K2路由器breed Web控制台助手v58版本"
 date:   2023-01-11
 tags: [路由器,刷机,控制台,K2,breed]
 comments: true

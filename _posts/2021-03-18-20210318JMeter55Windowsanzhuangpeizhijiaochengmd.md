@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter 5.5 Windows 安装配置教程"
+title: "JMeter 55 Windows 安装配置教程"
 date:   2021-11-15
 tags: [JMeter,安装,JDK,JMETER,链接]
 comments: true

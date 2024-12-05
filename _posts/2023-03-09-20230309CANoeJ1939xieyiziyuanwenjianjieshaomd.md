@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe.J1939协议资源文件介绍"
+title: "CANoeJ1939协议资源文件介绍"
 date:   2020-08-21
 tags: [J1939,CANoe,协议,测试,文件]
 comments: true

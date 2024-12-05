@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.0 汉化绿色版"
+title: "SecureCRT 80 汉化绿色版"
 date:   2021-10-31
 tags: [汉化,绿色版,版本,SecureCRT,8.0]
 comments: true

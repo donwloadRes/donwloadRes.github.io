@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 获取USB扫描枪扫描数据（无界面）"
+title: "Android 获取USB扫描枪扫描数据无界面"
 date:   2022-04-02
 tags: [USB,扫描枪,Android,android,数据]
 comments: true

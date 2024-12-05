@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil 5(MDK 5) Pack Installer 下载问题解决方案"
+title: "Keil 5MDK 5 Pack Installer 下载问题解决方案"
 date:   2023-12-30
 tags: [Keil,软件包,Pack,Installer,下载]
 comments: true

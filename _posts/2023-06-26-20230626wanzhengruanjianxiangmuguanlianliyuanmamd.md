@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整软件项目管理案例+源码"
+title: "完整软件项目管理案例源码"
 date:   2023-07-31
 tags: [源码,文档,项目,数据库,项目管理]
 comments: true

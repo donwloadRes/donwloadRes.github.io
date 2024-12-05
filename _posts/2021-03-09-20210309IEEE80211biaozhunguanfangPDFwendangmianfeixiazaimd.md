@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11标准官方PDF文档免费下载"
+title: "IEEE 80211标准官方PDF文档免费下载"
 date:   2024-10-25
 tags: [IEEE,802.11,文档,PDF,1999]
 comments: true

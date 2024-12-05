@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE10.2之控件ListView强大功能"
+title: "Delphi XE102之控件ListView强大功能"
 date:   2020-07-01
 tags: [控件,ListView,Delphi,源码,XE10.2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BetterZip v5.3.4 注册码密钥下载"
+title: "BetterZip v534 注册码密钥下载"
 date:   2024-01-16
 tags: [BetterZip,v5.3,注册码,压缩,文件]
 comments: true

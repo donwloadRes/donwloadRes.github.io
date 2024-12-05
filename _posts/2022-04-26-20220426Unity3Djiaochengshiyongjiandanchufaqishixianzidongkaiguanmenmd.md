@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：使用简单触发器实现自动开关门"
+title: "Unity3D教程使用简单触发器实现自动开关门"
 date:   2024-04-22
 tags: [触发器,脚本,游戏,教程,Unity]
 comments: true

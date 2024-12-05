@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java-ONVIF 云台控制"
+title: "JavaONVIF 云台控制"
 date:   2022-05-03
 tags: [摄像头,ONVIF,设备,获取,云台]
 comments: true

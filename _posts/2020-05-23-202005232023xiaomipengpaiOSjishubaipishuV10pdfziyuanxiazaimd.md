@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 小米澎湃 OS 技术白皮书 V1.0.pdf 资源下载"
+title: "2023 小米澎湃 OS 技术白皮书 V10pdf 资源下载"
 date:   2021-05-22
 tags: [OS,澎湃,白皮书,2023,V1.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows批处理：自动部署常用软件（静默安装）"
+title: "Windows批处理自动部署常用软件静默安装"
 date:   2022-05-18
 tags: [安装,批处理,静默,软件,脚本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 60068-2-52-2017环境试验标准下载"
+title: "IEC 600682522017环境试验标准下载"
 date:   2022-11-25
 tags: [试验,2017,52,版本,IEC]
 comments: true

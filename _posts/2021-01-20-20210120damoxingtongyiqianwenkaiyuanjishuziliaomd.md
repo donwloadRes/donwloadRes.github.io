@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大模型+通意千问+开源+技术资料"
+title: "大模型通意千问开源技术资料"
 date:   2023-10-04
 tags: [QWEN,模型,语言,技术,系列]
 comments: true

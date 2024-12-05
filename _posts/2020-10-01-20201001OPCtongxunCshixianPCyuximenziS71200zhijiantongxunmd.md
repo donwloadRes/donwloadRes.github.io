@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC通讯C++实现：PC与西门子S71200之间通讯"
+title: "OPC通讯C实现PC与西门子S71200之间通讯"
 date:   2022-02-12
 tags: [S71200,通讯,OPC,PC,PLC]
 comments: true

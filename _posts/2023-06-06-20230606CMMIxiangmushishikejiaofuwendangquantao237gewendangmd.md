@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMMI项目实施可交付文档（全套237个文档）"
+title: "CMMI项目实施可交付文档全套237个文档"
 date:   2024-08-25
 tags: [文档,CMMI,项目,项目管理,交付]
 comments: true

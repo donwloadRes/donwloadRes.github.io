@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEIC 污染源清单向 WRF-Chem 模式网格插值分配工具操作手册1"
+title: "MEIC 污染源清单向 WRFChem 模式网格插值分配工具操作手册1"
 date:   2022-02-25
 tags: [WRF,Chem,MEIC,清单,插值]
 comments: true

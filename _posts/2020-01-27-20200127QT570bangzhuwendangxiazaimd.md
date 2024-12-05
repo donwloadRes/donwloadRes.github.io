@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 5.7.0 帮助文档下载"
+title: "QT 570 帮助文档下载"
 date:   2022-07-02
 tags: [文档,QT,5.7,下载,帮助]
 comments: true

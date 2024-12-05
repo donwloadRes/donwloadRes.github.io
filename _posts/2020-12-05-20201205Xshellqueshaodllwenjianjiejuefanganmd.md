@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell缺少.dll文件解决方案"
+title: "Xshell缺少dll文件解决方案"
 date:   2020-10-29
 tags: [dll,Xshell,文件,缺失,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NBT 32004-2018 光伏并网逆变器技术规范"
+title: "NBT 320042018 光伏并网逆变器技术规范"
 date:   2023-02-19
 tags: [技术规范,逆变器,光伏,并网,2018]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IFIX 5.8 授权资源"
+title: "IFIX 58 授权资源"
 date:   2021-01-12
 tags: [授权,软件,iFIX,文件,IFIX5.8]
 comments: true

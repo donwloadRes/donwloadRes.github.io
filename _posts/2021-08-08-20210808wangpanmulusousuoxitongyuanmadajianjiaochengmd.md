@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网盘目录搜索系统源码+搭建教程"
+title: "网盘目录搜索系统源码搭建教程"
 date:   2020-03-05
 tags: [网盘,目录,搭建,源码,百度网]
 comments: true

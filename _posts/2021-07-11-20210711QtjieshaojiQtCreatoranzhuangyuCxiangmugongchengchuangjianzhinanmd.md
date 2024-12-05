@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt介绍及Qt Creator安装与C++项目工程创建指南"
+title: "Qt介绍及Qt Creator安装与C项目工程创建指南"
 date:   2021-12-19
 tags: [Qt,Creator,C++,安装,开发者]
 comments: true

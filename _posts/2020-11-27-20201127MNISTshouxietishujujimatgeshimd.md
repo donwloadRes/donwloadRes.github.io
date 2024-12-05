@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNIST手写体数据集（.mat格式）"
+title: "MNIST手写体数据集mat格式"
 date:   2024-03-01
 tags: [mat,MNIST,数据,000,28]
 comments: true

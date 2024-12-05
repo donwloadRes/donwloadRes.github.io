@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspose-CAD 19.5 去除水印资源文件"
+title: "AsposeCAD 195 去除水印资源文件"
 date:   2021-03-01
 tags: [水印,Aspose,资源,CAD,文件]
 comments: true

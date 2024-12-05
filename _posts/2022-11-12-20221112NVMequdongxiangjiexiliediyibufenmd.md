@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVMe驱动详解系列——第一部分"
+title: "NVMe驱动详解系列第一部分"
 date:   2024-10-21
 tags: [NVMe,驱动,系列,Linux,读者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 开发 FFMPEG 示例：API 方式实现 FFmpeg 拉取 RTMP 流并播放"
+title: "C 开发 FFMPEG 示例API 方式实现 FFmpeg 拉取 RTMP 流并播放"
 date:   2024-09-06
 tags: [FFMPEG,C#,API,示例,RTMP]
 comments: true

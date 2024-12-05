@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.2 安装教程及安装包资源"
+title: "ArcGIS 102 安装教程及安装包资源"
 date:   2022-02-25
 tags: [安装,ArcGIS,10.2,安装包,License]
 comments: true

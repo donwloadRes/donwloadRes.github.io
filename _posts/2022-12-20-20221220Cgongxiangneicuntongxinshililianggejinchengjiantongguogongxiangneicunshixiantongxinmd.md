@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 共享内存通信示例 - 两个进程间通过共享内存实现通信"
+title: "C 共享内存通信示例  两个进程间通过共享内存实现通信"
 date:   2021-05-19
 tags: [共享内存,监听,proA,proB,发送者]
 comments: true

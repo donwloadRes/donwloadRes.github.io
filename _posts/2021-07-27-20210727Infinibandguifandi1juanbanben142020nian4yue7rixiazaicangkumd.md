@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infiniband 规范第1卷版本1.4（2020年4月7日）下载仓库"
+title: "Infiniband 规范第1卷版本142020年4月7日下载仓库"
 date:   2022-06-07
 tags: [Infiniband,文档,1.4,2020,仓库]
 comments: true

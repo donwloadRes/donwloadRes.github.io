@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java学习路线（鱼皮）资源下载"
+title: "Java学习路线鱼皮资源下载"
 date:   2021-02-26
 tags: [Java,学习,鱼皮,资源,路线]
 comments: true

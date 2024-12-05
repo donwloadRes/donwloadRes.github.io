@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000 VxWorks BSP 移植指南"
+title: "Zynq7000 VxWorks BSP 移植指南"
 date:   2023-08-28
 tags: [7000,移植,Zynq,VxWorks,文件]
 comments: true

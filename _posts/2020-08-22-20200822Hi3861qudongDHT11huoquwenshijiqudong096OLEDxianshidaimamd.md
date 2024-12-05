@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hi3861驱动DHT11获取温湿及驱动0.96OLED显示代码"
+title: "Hi3861驱动DHT11获取温湿及驱动096OLED显示代码"
 date:   2022-09-08
 tags: [Hi3861,引脚,连接,温湿度,OLED]
 comments: true

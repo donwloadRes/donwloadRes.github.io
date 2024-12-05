@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC指标详细定义：SNR, SNDR, SFDR, THD等"
+title: "ADC指标详细定义SNR SNDR SFDR THD等"
 date:   2020-01-30
 tags: [ADC,SNR,SNDR,SFDR,THD]
 comments: true

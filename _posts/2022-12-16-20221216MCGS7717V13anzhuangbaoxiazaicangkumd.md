@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCGS 7.7.1.7_V1.3 安装包下载仓库"
+title: "MCGS 7717V13 安装包下载仓库"
 date:   2021-07-20
 tags: [安装包,MCGS,1.7,V1.3,7.7]
 comments: true

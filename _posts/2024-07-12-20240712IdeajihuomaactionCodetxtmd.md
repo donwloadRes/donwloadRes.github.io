@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Idea激活码 - actionCode.txt"
+title: "Idea激活码  actionCodetxt"
 date:   2024-02-24
 tags: [激活码,激活,actionCode,txt,IntelliJ]
 comments: true

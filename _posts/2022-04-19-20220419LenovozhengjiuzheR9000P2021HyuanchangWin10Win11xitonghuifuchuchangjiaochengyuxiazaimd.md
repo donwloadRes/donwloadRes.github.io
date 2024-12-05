@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo拯救者R9000P 2021H 原厂Win10-Win11系统恢复出厂教程与下载"
+title: "Lenovo拯救者R9000P 2021H 原厂Win10Win11系统恢复出厂教程与下载"
 date:   2023-08-26
 tags: [系统,恢复,出厂,镜像文件,Lenovo]
 comments: true

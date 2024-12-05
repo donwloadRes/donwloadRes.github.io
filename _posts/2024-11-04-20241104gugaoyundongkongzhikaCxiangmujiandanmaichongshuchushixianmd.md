@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固高运动控制卡C#项目：简单脉冲输出实现"
+title: "固高运动控制卡C项目简单脉冲输出实现"
 date:   2022-07-06
 tags: [控制卡,固高,项目,脉冲,输出]
 comments: true

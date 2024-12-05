@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑群晖显示真实CPU信息 [支持7.0-7.1]"
+title: "黑群晖显示真实CPU信息 支持7071"
 date:   2020-02-28
 tags: [CPU,群晖,补丁,DSM,SSH]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE-SATA-USB等对间等长布线指导"
+title: "PCIESATAUSB等对间等长布线指导"
 date:   2023-09-25
 tags: [布线,对间,PCIE,USB,接口]
 comments: true

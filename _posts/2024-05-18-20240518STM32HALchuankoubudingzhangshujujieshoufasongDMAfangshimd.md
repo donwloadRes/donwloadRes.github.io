@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL串口不定长数据接收发送（DMA方式）"
+title: "STM32 HAL串口不定长数据接收发送DMA方式"
 date:   2024-01-05
 tags: [示例,串口,DMA,STM32,接收]
 comments: true

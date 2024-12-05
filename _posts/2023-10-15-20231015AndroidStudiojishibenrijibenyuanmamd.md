@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 记事本、日记本源码"
+title: "Android Studio 记事本日记本源码"
 date:   2021-06-20
 tags: [笔记,用户,Android,Studio,记事本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChromeDriver 驱动下载【Chrome 版本: 108.0.5359.71】"
+title: "ChromeDriver 驱动下载Chrome 版本 1080535971"
 date:   2021-12-15
 tags: [浏览器,ChromeDriver,Chrome,自动化,驱动]
 comments: true

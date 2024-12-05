@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "剪映字幕小助手v2.9 资源下载"
+title: "剪映字幕小助手v29 资源下载"
 date:   2021-12-06
 tags: [字幕,剪映,功能,助手,v2.9]
 comments: true

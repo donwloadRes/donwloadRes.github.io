@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为HS8145C5光猫.ONT使能工具"
+title: "华为HS8145C5光猫ONT使能工具"
 date:   2023-10-12
 tags: [光猫,使能,华为,工具,HS8145C5]
 comments: true

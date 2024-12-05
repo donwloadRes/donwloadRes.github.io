@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5369-2005 航天型号软件C语言安全子集"
+title: "GJB 53692005 航天型号软件C语言安全子集"
 date:   2021-12-12
 tags: [C语言,航天,型号,子集,2005]
 comments: true

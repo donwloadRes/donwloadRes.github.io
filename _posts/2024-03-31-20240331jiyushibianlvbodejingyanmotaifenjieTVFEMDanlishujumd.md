@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于时变滤波的经验模态分解（TVF-EMD）案例数据"
+title: "基于时变滤波的经验模态分解TVFEMD案例数据"
 date:   2022-11-14
 tags: [TVF,EMD,案例,数据,时变]
 comments: true

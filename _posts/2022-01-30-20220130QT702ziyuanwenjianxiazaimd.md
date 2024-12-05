@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 7.0.2 资源文件下载"
+title: "QT 702 资源文件下载"
 date:   2024-06-07
 tags: [QT,文件,7.0,下载,资源]
 comments: true

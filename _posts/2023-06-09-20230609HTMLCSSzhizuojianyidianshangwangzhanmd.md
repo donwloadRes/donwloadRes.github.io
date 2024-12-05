@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML＆CSS：制作简易电商网站"
+title: "HTMLCSS制作简易电商网站"
 date:   2023-09-12
 tags: [HTML,CSS,网页,电商,示例]
 comments: true

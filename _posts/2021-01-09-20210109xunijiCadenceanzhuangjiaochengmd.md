@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机+Cadence安装教程"
+title: "虚拟机Cadence安装教程"
 date:   2021-11-12
 tags: [Cadence,虚拟机,安装,Linux,软件]
 comments: true

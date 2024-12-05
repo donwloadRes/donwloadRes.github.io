@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "修复损坏视频的专业工具 - Kernel Video Repair"
+title: "修复损坏视频的专业工具  Kernel Video Repair"
 date:   2024-04-26
 tags: [视频,视频文件,修复,损坏,Kernel]
 comments: true

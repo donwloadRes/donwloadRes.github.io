@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus 13.1 安装教程"
+title: "Quartus 131 安装教程"
 date:   2020-11-30
 tags: [安装,Quartus,13.1,II,软件]
 comments: true

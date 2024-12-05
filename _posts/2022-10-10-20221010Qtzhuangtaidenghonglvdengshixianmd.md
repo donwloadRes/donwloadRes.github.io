@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt状态灯（红绿灯）实现"
+title: "Qt状态灯红绿灯实现"
 date:   2024-06-12
 tags: [Qt,状态,控件,切换,仓库]
 comments: true

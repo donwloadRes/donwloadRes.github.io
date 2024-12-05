@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 22901-1 汽车诊断通讯协议ODX标准资源下载"
+title: "ISO 229011 汽车诊断通讯协议ODX标准资源下载"
 date:   2024-09-03
 tags: [ISO,22901,诊断,ODX,文件]
 comments: true

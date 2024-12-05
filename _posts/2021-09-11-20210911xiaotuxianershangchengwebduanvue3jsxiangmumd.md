@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小兔鲜儿商城web端vue3+js项目"
+title: "小兔鲜儿商城web端vue3js项目"
 date:   2022-09-02
 tags: [Vue3,项目,鲜儿,小兔,商城]
 comments: true

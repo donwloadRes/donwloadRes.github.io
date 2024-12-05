@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSGA-III Matlab源代码"
+title: "NSGAIII Matlab源代码"
 date:   2020-10-29
 tags: [NSGA,III,Matlab,源代码,代码]
 comments: true

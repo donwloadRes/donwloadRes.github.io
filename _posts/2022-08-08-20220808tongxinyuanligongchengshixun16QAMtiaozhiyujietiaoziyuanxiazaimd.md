@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信原理工程实训：16QAM调制与解调资源下载"
+title: "通信原理工程实训16QAM调制与解调资源下载"
 date:   2020-04-04
 tags: [16QAM,解调,调制,实训,原理]
 comments: true

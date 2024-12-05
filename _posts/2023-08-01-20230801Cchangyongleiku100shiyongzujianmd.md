@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 常用类库 (100+ 实用组件)"
+title: "C 常用类库 100 实用组件"
 date:   2020-08-23
 tags: [类库,C#,100,NET,操作]
 comments: true

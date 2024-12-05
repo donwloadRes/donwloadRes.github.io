@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Commons Math 3.6.1 资源文件下载"
+title: "Apache Commons Math 361 资源文件下载"
 date:   2022-08-07
 tags: [Apache,Commons,Math,3.6,commons]
 comments: true

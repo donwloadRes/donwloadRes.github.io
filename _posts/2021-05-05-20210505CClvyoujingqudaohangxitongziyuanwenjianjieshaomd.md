@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++旅游景区导航系统资源文件介绍"
+title: "CC旅游景区导航系统资源文件介绍"
 date:   2021-07-08
 tags: [景点,查询,用户,景区,系统]
 comments: true

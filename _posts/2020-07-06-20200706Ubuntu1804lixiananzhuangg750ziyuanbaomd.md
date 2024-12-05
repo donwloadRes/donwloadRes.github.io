@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 离线安装 g++ 7.5.0 资源包"
+title: "Ubuntu 1804 离线安装 g 750 资源包"
 date:   2020-08-03
 tags: [++,安装,Ubuntu,18.04,gcc]
 comments: true

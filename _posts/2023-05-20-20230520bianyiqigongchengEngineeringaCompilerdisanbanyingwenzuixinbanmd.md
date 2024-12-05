@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译器工程：Engineering a Compiler 第三版（英文最新版）"
+title: "编译器工程Engineering a Compiler 第三版英文最新版"
 date:   2020-05-06
 tags: [编译器,第三版,最新版,Engineering,Compiler]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+OpenCV的手势识别算法设计"
+title: "基于PythonOpenCV的手势识别算法设计"
 date:   2024-01-23
 tags: [手势,识别,OpenCV,Python,图像]
 comments: true

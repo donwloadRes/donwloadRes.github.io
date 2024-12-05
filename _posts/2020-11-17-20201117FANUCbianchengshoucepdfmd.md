@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC编程手册.pdf"
+title: "FANUC编程手册pdf"
 date:   2021-09-21
 tags: [FANUC,编程,手册,pdf,学习]
 comments: true

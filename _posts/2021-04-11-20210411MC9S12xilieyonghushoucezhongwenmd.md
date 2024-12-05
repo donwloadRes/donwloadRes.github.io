@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MC9S12系列用户手册（中文）"
+title: "MC9S12系列用户手册中文"
 date:   2020-06-04
 tags: [MC9S12,单片机,用户手册,系列,管脚]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奇安信网神防火墙系统（NSG系列）用户手册下载"
+title: "奇安信网神防火墙系统NSG系列用户手册下载"
 date:   2024-05-25
 tags: [防火墙,网神,手册,安信,本手册]
 comments: true

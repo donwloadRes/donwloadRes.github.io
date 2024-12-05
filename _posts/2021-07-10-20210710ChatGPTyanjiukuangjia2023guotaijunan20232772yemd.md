@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT研究框架（2023）-国泰君安-2023.2.7-72页"
+title: "ChatGPT研究框架2023国泰君安20232772页"
 date:   2022-02-09
 tags: [ChatGPT,2023,72,框架,2023.2]
 comments: true

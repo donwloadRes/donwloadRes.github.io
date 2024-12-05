@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "会声会影2023旗舰版VideoStudio Ultimate 2023 v26.1.0.268 中文免费版(附激活补丁)"
+title: "会声会影2023旗舰版VideoStudio Ultimate 2023 v2610268 中文免费版附激活补丁"
 date:   2022-11-26
 tags: [2023,激活,旗舰版,会声,会影]
 comments: true

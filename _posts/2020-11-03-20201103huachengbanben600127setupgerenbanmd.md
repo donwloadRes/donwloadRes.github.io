@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "画程(版本6.0.0.127)setup个人版"
+title: "画程版本600127setup个人版"
 date:   2020-02-19
 tags: [画程,Python,安装,版本,软件]
 comments: true

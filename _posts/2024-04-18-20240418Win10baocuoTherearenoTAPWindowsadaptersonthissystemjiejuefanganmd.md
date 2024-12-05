@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 报错：There are no TAP-Windows adapters on this system 解决方案"
+title: "Win10 报错There are no TAPWindows adapters on this system 解决方案"
 date:   2022-12-11
 tags: [Windows,TAP,适配器,OpenVPN,There]
 comments: true

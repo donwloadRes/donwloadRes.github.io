@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103R6基于Proteus及uCos-II的BLDC电机与LCD屏模拟项目"
+title: "STM32F103R6基于Proteus及uCosII的BLDC电机与LCD屏模拟项目"
 date:   2023-11-06
 tags: [BLDC,LCD,Proteus,II,STM32F103R6]
 comments: true

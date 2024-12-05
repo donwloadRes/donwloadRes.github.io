@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派3.5寸触摸屏安装指南及问题处理"
+title: "树莓派35寸触摸屏安装指南及问题处理"
 date:   2021-09-14
 tags: [安装,树莓,3.5,sudo,show]
 comments: true

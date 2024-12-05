@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPHP6 适配人大金仓（Kingbase）数据库教程"
+title: "ThinkPHP6 适配人大金仓Kingbase数据库教程"
 date:   2022-01-03
 tags: [金仓,Kingbase,数据库,php,人大]
 comments: true

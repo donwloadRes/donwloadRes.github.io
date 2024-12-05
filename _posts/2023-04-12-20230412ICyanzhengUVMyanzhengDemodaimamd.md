@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC验证 - UVM验证Demo代码"
+title: "IC验证  UVM验证Demo代码"
 date:   2023-03-27
 tags: [验证,UVM,IC,代码,仿真]
 comments: true

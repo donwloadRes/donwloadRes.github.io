@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMRON欧姆龙FA通信组件CX-Compolet V2 下载仓库"
+title: "OMRON欧姆龙FA通信组件CXCompolet V2 下载仓库"
 date:   2023-02-02
 tags: [PLC,CX,Compolet,通信,OMRON]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跟我一起写Makefile.pdf 下载"
+title: "跟我一起写Makefilepdf 下载"
 date:   2020-03-22
 tags: [Makefile,pdf,文件,下载,最新版]
 comments: true

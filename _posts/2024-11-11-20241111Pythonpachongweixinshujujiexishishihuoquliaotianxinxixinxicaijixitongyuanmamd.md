@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫-微信数据解析-实时获取聊天信息-信息采集系统 源码"
+title: "Python爬虫微信数据解析实时获取聊天信息信息采集系统 源码"
 date:   2022-02-17
 tags: [聊天,获取,信息,Python,微信]
 comments: true

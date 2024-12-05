@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学(方世昌)(第三版) 资源下载"
+title: "离散数学方世昌第三版 资源下载"
 date:   2020-03-18
 tags: [离散数学,方世昌,第三版,zip,文件]
 comments: true

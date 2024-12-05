@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP新闻管理系统（简单）"
+title: "PHP新闻管理系统简单"
 date:   2020-11-06
 tags: [PHP,数据库,MySQL,XAMPP,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派入门（一） - 下载安装系统镜像：Raspbian与CentOS指南"
+title: "树莓派入门一  下载安装系统镜像Raspbian与CentOS指南"
 date:   2021-11-03
 tags: [树莓,Raspbian,CentOS,SD,烧录]
 comments: true

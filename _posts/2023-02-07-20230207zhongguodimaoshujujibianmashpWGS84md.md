@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国地貌数据及编码shp_WGS84"
+title: "中国地貌数据及编码shpWGS84"
 date:   2021-12-29
 tags: [数据,GIS,shp,编码,WGS84]
 comments: true

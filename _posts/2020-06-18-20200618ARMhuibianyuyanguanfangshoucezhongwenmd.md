@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM 汇编语言官方手册（中文）"
+title: "ARM 汇编语言官方手册中文"
 date:   2021-12-25
 tags: [ARM,汇编语言,手册,PDF,开发者]
 comments: true

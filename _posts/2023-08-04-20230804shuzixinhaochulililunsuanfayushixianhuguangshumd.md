@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理: 理论、算法与实现 胡广书"
+title: "数字信号处理 理论算法与实现 胡广书"
 date:   2022-09-04
 tags: [信号处理,数字,算法,MATLAB,离散]
 comments: true

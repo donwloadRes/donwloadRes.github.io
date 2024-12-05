@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2-SM3算法C语言实现"
+title: "SM2SM3算法C语言实现"
 date:   2020-04-09
 tags: [SM2,测试程序,编译,C语言,环境]
 comments: true

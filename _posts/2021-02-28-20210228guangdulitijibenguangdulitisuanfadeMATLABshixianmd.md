@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光度立体: 基本光度立体算法的MATLAB实现"
+title: "光度立体 基本光度立体算法的MATLAB实现"
 date:   2023-03-09
 tags: [MATLAB,光度,立体,算法,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库管理工具 SqlDbx 6.16 中文专业版"
+title: "数据库管理工具 SqlDbx 616 中文专业版"
 date:   2021-08-26
 tags: [专业版,SqlDbx,7z,数据库,管理工具]
 comments: true

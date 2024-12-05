@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BK1088ES 数据手册、原理图与程序下载"
+title: "BK1088ES 数据手册原理图与程序下载"
 date:   2020-09-02
 tags: [BK1088ES,原理图,手册,芯片,下载]
 comments: true

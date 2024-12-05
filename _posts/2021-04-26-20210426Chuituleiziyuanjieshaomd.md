@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++绘图类资源介绍"
+title: "C绘图类资源介绍"
 date:   2021-03-19
 tags: [绘图,C++,例程,MATLAB,资源]
 comments: true

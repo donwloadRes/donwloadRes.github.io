@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "透明窗体画图 C# WINFORM 解决方案"
+title: "透明窗体画图 C WINFORM 解决方案"
 date:   2020-04-01
 tags: [窗体,透明,解决方案,drawForm,TransparencyKey]
 comments: true

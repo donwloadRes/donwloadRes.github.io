@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allergo_17_4安装记录"
+title: "Allergo174安装记录"
 date:   2022-03-13
 tags: [安装,Allergo,17,安装程序,安装包]
 comments: true

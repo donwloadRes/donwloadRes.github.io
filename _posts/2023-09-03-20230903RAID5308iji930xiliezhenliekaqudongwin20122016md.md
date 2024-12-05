@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAID 530-8i及930系列阵列卡驱动win2012-2016"
+title: "RAID 5308i及930系列阵列卡驱动win20122016"
 date:   2022-01-03
 tags: [驱动程序,8i,930,RAID,530]
 comments: true

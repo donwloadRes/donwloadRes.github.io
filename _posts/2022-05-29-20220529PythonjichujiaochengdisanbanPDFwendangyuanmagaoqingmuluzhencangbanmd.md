@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基础教程 第三版 PDF文档+源码（高清 + 目录）珍藏版"
+title: "Python基础教程 第三版 PDF文档源码高清  目录珍藏版"
 date:   2022-01-14
 tags: [3.4,Python,字符串,2.2,源码]
 comments: true

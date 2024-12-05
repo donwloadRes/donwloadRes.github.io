@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ResNet_Attention: ResNet + 注意力机制"
+title: "ResNetAttention ResNet  注意力机制"
 date:   2024-08-08
 tags: [--,ResNet,epoch,CIFAR10,device]
 comments: true

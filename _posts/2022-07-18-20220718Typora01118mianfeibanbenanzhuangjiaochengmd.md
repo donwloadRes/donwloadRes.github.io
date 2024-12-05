@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 0.11.18 免费版本安装教程"
+title: "Typora 01118 免费版本安装教程"
 date:   2024-06-13
 tags: [Typora,安装,18,0.11,教程]
 comments: true

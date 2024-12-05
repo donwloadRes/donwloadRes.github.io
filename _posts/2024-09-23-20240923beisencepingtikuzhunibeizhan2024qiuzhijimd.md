@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北森测评题库：助你备战2024求职季"
+title: "北森测评题库助你备战2024求职季"
 date:   2022-04-07
 tags: [测评,题库,北森,2024,题型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JD-Eclipse Site 1.0.0 RC2 - Eclipse插件用于查看Class源码"
+title: "JDEclipse Site 100 RC2  Eclipse插件用于查看Class源码"
 date:   2022-10-19
 tags: [Eclipse,插件,JD,RC2,源码]
 comments: true

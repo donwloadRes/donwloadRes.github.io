@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus Prime Standard 18.1 下载与安装指南"
+title: "Quartus Prime Standard 181 下载与安装指南"
 date:   2023-04-02
 tags: [安装,Quartus,Prime,Standard,18.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samtec VITA 57.4 FMC+扩展器应用笔记"
+title: "Samtec VITA 574 FMC扩展器应用笔记"
 date:   2020-10-16
 tags: [扩展器,57.4,FMC,应用,Samtec]
 comments: true

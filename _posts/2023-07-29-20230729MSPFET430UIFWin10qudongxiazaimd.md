@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP-FET430UIF Win10 驱动下载"
+title: "MSPFET430UIF Win10 驱动下载"
 date:   2023-01-01
 tags: [MSP,FET430UIF,驱动程序,安装,仿真器]
 comments: true

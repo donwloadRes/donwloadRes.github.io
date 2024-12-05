@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "平滑伪Wigner-Ville分布资源文件"
+title: "平滑伪WignerVille分布资源文件"
 date:   2022-08-13
 tags: [文件,SPWVD,资源,分布,Wigner]
 comments: true

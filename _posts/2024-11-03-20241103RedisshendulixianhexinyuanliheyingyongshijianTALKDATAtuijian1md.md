@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis深度历险：核心原理和应用实践【TALKDATA推荐】1"
+title: "Redis深度历险核心原理和应用实践TALKDATA推荐1"
 date:   2021-07-04
 tags: [Redis,资源,实践,历险,应用]
 comments: true

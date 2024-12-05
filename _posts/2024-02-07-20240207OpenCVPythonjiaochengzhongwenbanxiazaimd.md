@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python 教程中文版下载"
+title: "OpenCVPython 教程中文版下载"
 date:   2024-06-16
 tags: [OpenCV,Python,教程,中文版,文件]
 comments: true

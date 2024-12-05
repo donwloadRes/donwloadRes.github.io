@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁无刷直流电机技术-谭建成"
+title: "永磁无刷直流电机技术谭建成"
 date:   2023-03-04
 tags: [无刷,直流电机,永磁,电机,方式]
 comments: true

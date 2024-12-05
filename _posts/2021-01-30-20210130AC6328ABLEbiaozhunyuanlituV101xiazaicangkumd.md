@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AC6328A_BLE标准原理图_V1.01 下载仓库"
+title: "AC6328ABLE标准原理图V101 下载仓库"
 date:   2023-05-15
 tags: [原理图,AC6328A,BLE,V1.01,芯片]
 comments: true

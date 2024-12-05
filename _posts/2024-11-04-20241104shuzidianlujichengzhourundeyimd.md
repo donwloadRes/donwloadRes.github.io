@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路集成——周润德译"
+title: "数字电路集成周润德译"
 date:   2024-06-09
 tags: [习题,数字电路,设计,周润,学习者]
 comments: true

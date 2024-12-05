@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDEM-Fluent耦合官网教程及耦合编译文件"
+title: "EDEMFluent耦合官网教程及耦合编译文件"
 date:   2023-09-26
 tags: [耦合,EDEM,Fluent,教程,模拟]
 comments: true

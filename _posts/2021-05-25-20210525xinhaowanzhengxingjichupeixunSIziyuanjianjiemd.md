@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性基础培训（SI）资源简介"
+title: "信号完整性基础培训SI资源简介"
 date:   2021-02-09
 tags: [完整性,信号,SI,电路设计,资源]
 comments: true

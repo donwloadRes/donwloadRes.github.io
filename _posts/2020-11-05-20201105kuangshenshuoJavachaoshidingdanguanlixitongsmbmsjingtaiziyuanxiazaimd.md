@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狂神说Java：超市订单管理系统（smbms）静态资源下载"
+title: "狂神说Java超市订单管理系统smbms静态资源下载"
 date:   2020-12-22
 tags: [文件夹,狂神,smbms,Java,管理系统]
 comments: true

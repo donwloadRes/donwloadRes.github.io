@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.4 for Windows 安装包下载"
+title: "Oracle 11204 for Windows 安装包下载"
 date:   2020-04-23
 tags: [Oracle,x86,64,p13390677,112040]
 comments: true

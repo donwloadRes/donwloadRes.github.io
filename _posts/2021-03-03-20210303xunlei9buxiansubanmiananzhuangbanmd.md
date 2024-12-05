@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迅雷9不限速版，免安装版"
+title: "迅雷9不限速版免安装版"
 date:   2023-06-09
 tags: [解压,限速,下载,下载速度,版本]
 comments: true

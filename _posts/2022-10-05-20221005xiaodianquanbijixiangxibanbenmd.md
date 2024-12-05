@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小迪安全笔记 - 详细版本"
+title: "小迪安全笔记  详细版本"
 date:   2020-11-08
 tags: [安全,小迪,笔记,网络安全,详细]
 comments: true

@@ -1,6 +1,23 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 14.0 安装解决方案"
+title: "Microsoft Visual C 140 安装解决方案
+date   20220706
+tags 安装MicrosoftVisualC140
+comments true
+author admin
+
+ Microsoft Visual C 140 安装解决方案
+
+ 简介
+
+本资源文件提供了针对Microsoft Visual C 140 is required问题的解决方案该问题通常出现在Windows环境下当用户尝试安装某些Python包特别是包含C扩展的包如NumpyScipy或Pandas时系统会提示缺少Microsoft Visual C 140编译环境
+
+ 问题描述
+
+在使用Python进行开发时尤其是在Windows系统上安装某些依赖包时可能会遇到以下错误提示
+
+
+error Microsoft Visual C 140 is required Get it with Microsoft Visual C Build Tools"
 date:   2022-07-06
 tags: [安装,Microsoft,Visual,C++,14.0]
 comments: true

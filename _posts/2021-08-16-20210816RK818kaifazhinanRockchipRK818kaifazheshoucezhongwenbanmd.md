@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK818开发指南 - Rockchip RK818 开发者手册 中文版"
+title: "RK818开发指南  Rockchip RK818 开发者手册 中文版"
 date:   2024-01-27
 tags: [RK818,开发者,电源,开发,指南]
 comments: true

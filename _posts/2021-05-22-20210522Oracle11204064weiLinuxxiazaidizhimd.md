@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.4.0 64位 Linux 下载地址"
+title: "Oracle 112040 64位 Linux 下载地址"
 date:   2022-07-30
 tags: [0.4,64,Linux,下载,地址]
 comments: true

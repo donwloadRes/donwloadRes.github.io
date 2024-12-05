@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager v6.38.7.2 中文特别版"
+title: "Internet Download Manager v63872 中文特别版"
 date:   2021-12-15
 tags: [下载,特别版,弹窗,Internet,Download]
 comments: true

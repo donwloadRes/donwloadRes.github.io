@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8+V13.0安装步骤指南"
+title: "用友U8V130安装步骤指南"
 date:   2022-02-02
 tags: [安装,用友,U8,V13.0,解压]
 comments: true

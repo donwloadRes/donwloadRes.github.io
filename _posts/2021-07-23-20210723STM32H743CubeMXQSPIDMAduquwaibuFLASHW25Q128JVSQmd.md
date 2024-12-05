@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H743+CubeMX-QSPI+DMA读取外部FLASH(W25Q128JVSQ)"
+title: "STM32H743CubeMXQSPIDMA读取外部FLASHW25Q128JVSQ"
 date:   2022-08-21
 tags: [FLASH,读取,STM32H743,CubeMX,QSPI]
 comments: true

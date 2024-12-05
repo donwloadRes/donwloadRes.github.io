@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python OpenCV 安装问题解决方案：DLL 加载失败"
+title: "Python OpenCV 安装问题解决方案DLL 加载失败"
 date:   2021-03-22
 tags: [OpenCV,DLL,cv2,文件,安装]
 comments: true

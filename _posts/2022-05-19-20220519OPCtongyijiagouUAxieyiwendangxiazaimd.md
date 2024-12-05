@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC统一架构（UA）协议文档下载"
+title: "OPC统一架构UA协议文档下载"
 date:   2022-03-31
 tags: [OPC,UA,Part,文档,架构]
 comments: true

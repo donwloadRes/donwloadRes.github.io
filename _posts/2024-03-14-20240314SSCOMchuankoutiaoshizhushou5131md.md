@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSCOM串口调试助手 5.13.1"
+title: "SSCOM串口调试助手 5131"
 date:   2022-08-02
 tags: [串口,调试,SSCOM,助手,数据]
 comments: true

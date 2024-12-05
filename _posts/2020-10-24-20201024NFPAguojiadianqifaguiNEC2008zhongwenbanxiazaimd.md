@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NFPA 国家电气法规（NEC）2008中文版下载"
+title: "NFPA 国家电气法规NEC2008中文版下载"
 date:   2021-11-11
 tags: [电气,法规,NFPA,NEC,2008]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103单片机的LiteOS移植项目（Keil5）"
+title: "基于STM32F103单片机的LiteOS移植项目Keil5"
 date:   2023-06-24
 tags: [Keil5,STM32F103,项目,程序包,单片机]
 comments: true

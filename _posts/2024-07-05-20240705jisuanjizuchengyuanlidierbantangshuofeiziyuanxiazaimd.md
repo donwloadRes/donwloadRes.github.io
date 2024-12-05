@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理第二版-唐朔飞 资源下载"
+title: "计算机组成原理第二版唐朔飞 资源下载"
 date:   2021-03-02
 tags: [唐朔飞,考研,计算机,原理,资源]
 comments: true

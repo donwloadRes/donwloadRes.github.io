@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSL证书生成工具（SHA256算法）"
+title: "SSL证书生成工具SHA256算法"
 date:   2022-04-28
 tags: [SSL,证书,算法,SHA256,哈希]
 comments: true

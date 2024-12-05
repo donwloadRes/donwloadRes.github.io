@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 中文教程手册下载"
+title: "RISCV 中文教程手册下载"
 date:   2020-10-01
 tags: [RISC,手册,下载,教程,Reader]
 comments: true

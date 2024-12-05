@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新SAP IDES ECC6.0 安装资源下载指南"
+title: "最新SAP IDES ECC60 安装资源下载指南"
 date:   2024-08-31
 tags: [SAP,ECC6.0,下载,IDES,安装]
 comments: true

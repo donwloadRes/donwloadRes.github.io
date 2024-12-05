@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机项目设计：时钟万年历、闹钟(lcd1602显示)"
+title: "51单片机项目设计时钟万年历闹钟lcd1602显示"
 date:   2020-12-10
 tags: [闹钟,51,单片机,万年历,项目]
 comments: true

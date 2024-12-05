@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "葵花卫星-8 数据说明"
+title: "葵花卫星8 数据说明"
 date:   2023-06-03
 tags: [葵花,卫星,数据,文档,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenFracture插件：Unity3D物体破裂与切割"
+title: "OpenFracture插件Unity3D物体破裂与切割"
 date:   2021-09-03
 tags: [插件,切割,网格,物体,OpenFracture]
 comments: true

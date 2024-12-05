@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2525AR-RTD2525BR 1VGA+1HDMI+1DP转LVDS 1080P屏驱动显示芯片规格书"
+title: "RTD2525ARRTD2525BR 1VGA1HDMI1DP转LVDS 1080P屏驱动显示芯片规格书"
 date:   2024-08-21
 tags: [芯片,规格书,RTD2525AR,RTD2525BR,1VGA]
 comments: true

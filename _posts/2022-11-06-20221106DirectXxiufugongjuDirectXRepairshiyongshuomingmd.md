@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具(DirectX Repair) 使用说明"
+title: "DirectX修复工具DirectX Repair 使用说明"
 date:   2024-10-30
 tags: [DirectX,修复,工具,解压,Repair]
 comments: true

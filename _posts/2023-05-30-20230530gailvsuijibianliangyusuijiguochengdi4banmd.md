@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率、随机变量与随机过程 第4版"
+title: "概率随机变量与随机过程 第4版"
 date:   2020-04-29
 tags: [随机,随机变量,过程,概率,普里斯]
 comments: true

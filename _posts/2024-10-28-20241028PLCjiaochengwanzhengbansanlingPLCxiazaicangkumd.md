@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC教程完整版(三菱PLC) 下载仓库"
+title: "PLC教程完整版三菱PLC 下载仓库"
 date:   2022-10-04
 tags: [PLC,教程,完整版,三菱,仓库]
 comments: true

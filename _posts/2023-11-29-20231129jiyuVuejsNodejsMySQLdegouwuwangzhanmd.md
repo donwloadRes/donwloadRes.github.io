@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vue.js+Node.js+MySQL的购物网站"
+title: "基于VuejsNodejsMySQL的购物网站"
 date:   2021-11-30
 tags: [js,购物,Vue,MySQL,我们]
 comments: true

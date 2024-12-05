@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机通讯控件(含PLC控件) 资源介绍"
+title: "C上位机通讯控件含PLC控件 资源介绍"
 date:   2023-03-24
 tags: [控件,PLC,C#,上位,通讯]
 comments: true

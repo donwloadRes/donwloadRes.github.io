@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10下获取CPU温度的Qt5.9源代码"
+title: "Win10下获取CPU温度的Qt59源代码"
 date:   2024-08-30
 tags: [CPU,Qt5.9,源代码,获取,Qt]
 comments: true

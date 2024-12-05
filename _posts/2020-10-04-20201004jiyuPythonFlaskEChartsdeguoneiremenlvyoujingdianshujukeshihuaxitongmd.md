@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+Flask+ECharts的国内热门旅游景点数据可视化系统"
+title: "基于PythonFlaskECharts的国内热门旅游景点数据可视化系统"
 date:   2022-03-23
 tags: [旅游景点,景点,可视化,数据,热门]
 comments: true

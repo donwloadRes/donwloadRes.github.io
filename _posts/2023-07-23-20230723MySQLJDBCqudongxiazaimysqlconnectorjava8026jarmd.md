@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL JDBC驱动下载：mysql-connector-java-8.0.26.jar"
+title: "MySQL JDBC驱动下载mysqlconnectorjava8026jar"
 date:   2022-04-21
 tags: [MySQL,mysql,8.0,connector,java]
 comments: true

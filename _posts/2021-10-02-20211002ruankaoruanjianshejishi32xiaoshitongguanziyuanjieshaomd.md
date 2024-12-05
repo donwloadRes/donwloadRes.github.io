@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考--软件设计师32小时通关资源介绍"
+title: "软考软件设计师32小时通关资源介绍"
 date:   2022-06-20
 tags: [软考,设计师,考试,软件,备考]
 comments: true

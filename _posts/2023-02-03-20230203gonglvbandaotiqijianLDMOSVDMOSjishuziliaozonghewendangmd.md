@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功率半导体器件(LDMOS_VDMOS)技术资料 - 综合文档"
+title: "功率半导体器件LDMOSVDMOS技术资料  综合文档"
 date:   2023-04-05
 tags: [LDMOS,VDMOS,功率,半导体器件,文档]
 comments: true

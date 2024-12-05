@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC FOCAS2 动态库 V4.7 下载"
+title: "FANUC FOCAS2 动态库 V47 下载"
 date:   2024-09-30
 tags: [发那科,驱动程序,机床,FOCAS2,V4.7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB C# SDK实例代码"
+title: "ABB C SDK实例代码"
 date:   2021-09-26
 tags: [Robotstudio,机器人,配置,界面,轨迹]
 comments: true

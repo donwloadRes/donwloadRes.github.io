@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware+Ubuntu18.04磁盘扩容指南"
+title: "VMwareUbuntu1804磁盘扩容指南"
 date:   2022-06-13
 tags: [磁盘,VMware,扩容,Ubuntu18.04,虚拟机]
 comments: true

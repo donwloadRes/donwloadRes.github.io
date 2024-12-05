@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binwalk 2.3.2 资源文件下载"
+title: "Binwalk 232 资源文件下载"
 date:   2021-04-21
 tags: [2.3,Binwalk,文件,下载,binwalk]
 comments: true

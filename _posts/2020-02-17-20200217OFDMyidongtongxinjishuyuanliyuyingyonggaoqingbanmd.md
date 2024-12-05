@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFDM移动通信技术原理与应用_高清版"
+title: "OFDM移动通信技术原理与应用高清版"
 date:   2021-06-12
 tags: [OFDM,技术,应用,通信,信道]
 comments: true

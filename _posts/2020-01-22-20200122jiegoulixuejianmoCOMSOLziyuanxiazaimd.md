@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "结构力学建模（COMSOL）资源下载"
+title: "结构力学建模COMSOL资源下载"
 date:   2024-01-20
 tags: [结构力学,建模,非线性,COMSOL,分析]
 comments: true

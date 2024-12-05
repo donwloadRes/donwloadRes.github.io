@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "scpi-parser：开源SCPI设备库"
+title: "scpiparser开源SCPI设备库"
 date:   2024-01-24
 tags: [SCPI,scpi,parser,开源,测试]
 comments: true

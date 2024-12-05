@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程控制论（新世纪版本）下载仓库"
+title: "工程控制论新世纪版本下载仓库"
 date:   2020-11-24
 tags: [控制论,版本,新世纪,下载,工程]
 comments: true

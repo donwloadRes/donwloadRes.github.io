@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年美赛赛题A-F（含数据）"
+title: "2023年美赛赛题AF含数据"
 date:   2023-07-11
 tags: [赛题,美赛,数学,数据,竞赛]
 comments: true

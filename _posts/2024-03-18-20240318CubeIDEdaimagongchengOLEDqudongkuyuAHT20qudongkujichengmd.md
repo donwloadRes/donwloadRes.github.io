@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CubeIDE代码工程：OLED驱动库与AHT20驱动库集成"
+title: "CubeIDE代码工程OLED驱动库与AHT20驱动库集成"
 date:   2024-03-20
 tags: [OLED,AHT20,驱动,温湿度,CubeIDE]
 comments: true

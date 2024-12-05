@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 插件集合（共52个）"
+title: "Notepad 插件集合共52个"
 date:   2023-08-24
 tags: [插件,Notepad,++,52,兼容]
 comments: true

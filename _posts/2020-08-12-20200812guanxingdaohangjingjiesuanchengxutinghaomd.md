@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惯性导航精解算程序(挺好)"
+title: "惯性导航精解算程序挺好"
 date:   2020-05-01
 tags: [惯性导航,精解算,程序,test,error]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHPExcel 资源修复兼容 PHP 8.1 版本"
+title: "PHPExcel 资源修复兼容 PHP 81 版本"
 date:   2021-08-11
 tags: [PHPExcel,PHP,8.1,版本,资源]
 comments: true

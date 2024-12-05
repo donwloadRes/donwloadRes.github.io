@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电赛-往届题目"
+title: "电赛往届题目"
 date:   2021-09-08
 tags: [题目,往届,电赛,电子设计,参赛者]
 comments: true

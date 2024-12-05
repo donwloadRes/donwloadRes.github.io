@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 资源清理工具：dotnetfx_cleanup_tool"
+title: "NET Framework 资源清理工具dotnetfxcleanuptool"
 date:   2021-03-14
 tags: [NET,Framework,卸载,清理,dotnetfx]
 comments: true

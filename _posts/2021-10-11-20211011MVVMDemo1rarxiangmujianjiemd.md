@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MVVM-Demo_1rar 项目简介"
+title: "MVVMDemo1rar 项目简介"
 date:   2022-09-16
 tags: [MVVM,Demo,View,项目,rar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCASCADE 7.6.0 官方原版安装包"
+title: "OpenCASCADE 760 官方原版安装包"
 date:   2023-09-02
 tags: [7.6,OpenCASCADE,64,原版,安装]
 comments: true

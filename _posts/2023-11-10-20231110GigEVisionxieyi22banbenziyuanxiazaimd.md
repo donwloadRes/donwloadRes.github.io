@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GigE Vision协议-2.2版本资源下载"
+title: "GigE Vision协议22版本资源下载"
 date:   2021-05-31
 tags: [GigE,Vision,协议,2.2,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里大数据之路——关键总结版"
+title: "阿里大数据之路关键总结版"
 date:   2022-04-09
 tags: [阿里,总结,数据,文件,关键]
 comments: true

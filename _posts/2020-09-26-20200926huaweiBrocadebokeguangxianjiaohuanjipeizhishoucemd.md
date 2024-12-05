@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为 Brocade(博科)光纤交换机配置手册"
+title: "华为 Brocade博科光纤交换机配置手册"
 date:   2022-07-24
 tags: [配置,交换机,手册,光纤,Brocade]
 comments: true

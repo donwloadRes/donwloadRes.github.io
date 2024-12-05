@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266-01S+继电器 实验项目 PCB原理图版"
+title: "STM32ESP826601S继电器 实验项目 PCB原理图版"
 date:   2021-03-30
 tags: [继电器,STM32,ESP8266,01S,模块]
 comments: true

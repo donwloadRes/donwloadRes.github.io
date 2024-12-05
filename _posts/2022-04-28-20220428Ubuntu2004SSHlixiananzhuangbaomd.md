@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 SSH 离线安装包"
+title: "Ubuntu 2004 SSH 离线安装包"
 date:   2020-03-03
 tags: [SSH,离线,安装,安装包,Ubuntu]
 comments: true

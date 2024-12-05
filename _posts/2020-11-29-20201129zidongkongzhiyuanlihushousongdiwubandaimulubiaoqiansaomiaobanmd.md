@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理 胡寿松第五版（带目录标签扫描版）"
+title: "自动控制原理 胡寿松第五版带目录标签扫描版"
 date:   2022-11-24
 tags: [目录,PDF,标签,扫描,自动控制]
 comments: true

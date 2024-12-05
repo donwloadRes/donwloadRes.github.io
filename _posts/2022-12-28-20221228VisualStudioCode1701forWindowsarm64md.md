@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio Code 1.70.1 for Windows arm64"
+title: "Visual Studio Code 1701 for Windows arm64"
 date:   2024-03-12
 tags: [arm64,1.70,Visual,Studio,Code]
 comments: true

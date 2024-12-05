@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常见板载天线封装2.4G资源下载"
+title: "常见板载天线封装24G资源下载"
 date:   2021-02-12
 tags: [天线,封装,板载,2.4,AD]
 comments: true

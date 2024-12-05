@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 通过 OPC 连接 PLC 读取数据资源库"
+title: "C 通过 OPC 连接 PLC 读取数据资源库"
 date:   2020-09-24
 tags: [资源库,C#,OPC,PLC,文档]
 comments: true

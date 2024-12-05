@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子-I2CandADS1112资源下载"
+title: "电子I2CandADS1112资源下载"
 date:   2022-09-28
 tags: [I2CandADS1112,STM32,F0,F1,F2]
 comments: true

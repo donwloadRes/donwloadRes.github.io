@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEC_python：移动边缘计算项目模拟的Python代码"
+title: "MECpython移动边缘计算项目模拟的Python代码"
 date:   2024-03-06
 tags: [MEC,python,模拟,代码,Python]
 comments: true

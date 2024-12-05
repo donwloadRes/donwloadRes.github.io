@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux (CentOS) Python 编译安装达梦数据库驱动包所需的 DPI 文件"
+title: "Linux CentOS Python 编译安装达梦数据库驱动包所需的 DPI 文件"
 date:   2021-10-23
 tags: [编译,数据库,达梦,安装,驱动]
 comments: true

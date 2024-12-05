@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5音乐播放器 - 实现歌词同步与本地-在线音乐播放"
+title: "Qt5音乐播放器  实现歌词同步与本地在线音乐播放"
 date:   2020-08-09
 tags: [播放,音乐,在线音乐,播放器,本地]
 comments: true

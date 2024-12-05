@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows .NET Framework 3.5 离线安装包说明"
+title: "Windows NET Framework 35 离线安装包说明"
 date:   2022-01-02
 tags: [Windows,NET,Framework,安装包,离线]
 comments: true

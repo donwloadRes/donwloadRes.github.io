@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL 3.1 规范文档下载"
+title: "CXL 31 规范文档下载"
 date:   2021-12-13
 tags: [CXL,文档,规范,3.1,文件]
 comments: true

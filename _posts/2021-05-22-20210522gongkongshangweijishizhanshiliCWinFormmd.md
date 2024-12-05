@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工控上位机实战示例 - C# + WinForm"
+title: "工控上位机实战示例  C  WinForm"
 date:   2021-09-09
 tags: [工控,上位,C#,示例,WinForm]
 comments: true

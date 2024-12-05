@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC 6.0：计算机科学与技术》本科自考实践工具"
+title: "VC 60计算机科学与技术本科自考实践工具"
 date:   2022-07-30
 tags: [编程,6.0,自考,VC,C++]
 comments: true

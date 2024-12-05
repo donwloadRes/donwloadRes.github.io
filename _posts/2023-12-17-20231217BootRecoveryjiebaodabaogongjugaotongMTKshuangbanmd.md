@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boot、Recovery解包打包工具_高通MTK双版"
+title: "BootRecovery解包打包工具高通MTK双版"
 date:   2022-08-28
 tags: [工具,解包,img,boot,recovery]
 comments: true

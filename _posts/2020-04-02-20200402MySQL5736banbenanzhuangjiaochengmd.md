@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7.36 版本安装教程"
+title: "MySQL 5736 版本安装教程"
 date:   2021-10-15
 tags: [MySQL,安装,36,教程,5.7]
 comments: true

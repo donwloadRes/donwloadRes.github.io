@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考-数据库工程师教材(第四版) PDF 下载"
+title: "软考数据库工程师教材第四版 PDF 下载"
 date:   2024-03-14
 tags: [数据库,教材,软考,PDF,工程师]
 comments: true

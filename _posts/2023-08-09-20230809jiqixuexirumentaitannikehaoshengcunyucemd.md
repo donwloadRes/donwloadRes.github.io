@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习入门：泰坦尼克号生存预测"
+title: "机器学习入门泰坦尼克号生存预测"
 date:   2021-04-04
 tags: [模型,预测,泰坦尼克号,准确率,特征提取]
 comments: true

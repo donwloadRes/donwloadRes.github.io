@@ -1,6 +1,40 @@
 ---
 layout: post
-title: "使用SSE.js实现服务器推送数据流"
+title: "使用SSEjs实现服务器推送数据流
+date   20211101
+tags SSE服务器jssource连接
+comments true
+author admin
+
+ 使用SSEjs实现服务器推送数据流
+
+欢迎使用ssejs这是一个专为简化ServerSent EventsSSE集成而设计的JavaScript库SSE技术让你能够轻松地设置服务器到客户端的实时数据推送无需复杂的WebSocket配置适合需要实时更新的应用场景如聊天应用实时统计数据展示等
+
+ 概览
+
+SSEjs基于HTML5的ServerSent Events特性构建它使得服务器能够通过HTTP连接向浏览器发送无限长度的数据流不同于轮询和WebSocketSSE提供了更为简便的单向通信机制降低了服务器和网络的负担
+
+ 快速入门
+
+ 引入ssejs
+
+首先确保在项目中引入ssejs库
+
+html
+script srcpathtossejsscript
+
+
+ 创建SSE连接
+
+接下来实例化SSE对象并与服务器建立连接
+
+javascript
+ 假设我们需要发送一些初始化数据
+const data  
+    username yourUsername
+    prompt YourInputText
+    history chatHistory
+    key uniqueKey"
 date:   2021-11-01
 tags: [SSE,服务器,js,source,连接]
 comments: true

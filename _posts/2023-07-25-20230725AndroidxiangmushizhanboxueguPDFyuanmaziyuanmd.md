@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android项目实战——博学谷PDF+源码资源"
+title: "Android项目实战博学谷PDF源码资源"
 date:   2022-10-28
 tags: [Android,PDF,源码,项目,实战]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fama-MacBeth回归Python代码实现"
+title: "FamaMacBeth回归Python代码实现"
 date:   2021-08-25
 tags: [Fama,MacBeth,回归,Python,代码]
 comments: true

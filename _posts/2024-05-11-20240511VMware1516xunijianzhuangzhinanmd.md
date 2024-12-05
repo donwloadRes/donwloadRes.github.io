@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 15 & 16 虚拟机安装指南"
+title: "VMware 15  16 虚拟机安装指南"
 date:   2022-05-05
 tags: [VMware,安装,虚拟机,15,16]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.6 完整版快速下载"
+title: "Gradle 76 完整版快速下载"
 date:   2020-02-17
 tags: [Gradle,7.6,gradle,完整版,下载]
 comments: true

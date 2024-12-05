@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qcustomplot_realtime.zip 介绍"
+title: "qcustomplotrealtimezip 介绍"
 date:   2022-06-26
 tags: [QCustomPlot,Qt,示例,qcustomplot,realtime]
 comments: true

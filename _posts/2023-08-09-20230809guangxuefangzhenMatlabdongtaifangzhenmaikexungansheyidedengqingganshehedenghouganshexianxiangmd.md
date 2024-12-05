@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光学仿真：Matlab动态仿真迈克逊干涉仪的等倾干涉和等厚干涉现象"
+title: "光学仿真Matlab动态仿真迈克逊干涉仪的等倾干涉和等厚干涉现象"
 date:   2023-02-04
 tags: [Matlab,仿真,迈克,干涉仪,干涉]
 comments: true

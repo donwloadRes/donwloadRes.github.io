@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多测合一生产软件-不动产测量（不动产权籍调查测绘软件RESS）"
+title: "多测合一生产软件不动产测量不动产权籍调查测绘软件RESS"
 date:   2020-03-13
 tags: [不动产,软件,测绘,权籍,数据]
 comments: true

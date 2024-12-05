@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的中国象棋对弈游戏系统开发（代码版本）"
+title: "基于Java的中国象棋对弈游戏系统开发代码版本"
 date:   2024-02-08
 tags: [对战,Java,游戏,中国象棋,对弈]
 comments: true

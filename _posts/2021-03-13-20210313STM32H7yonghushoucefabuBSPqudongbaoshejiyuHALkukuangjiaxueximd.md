@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H7用户手册发布：BSP驱动包设计与HAL库框架学习"
+title: "STM32H7用户手册发布BSP驱动包设计与HAL库框架学习"
 date:   2021-08-18
 tags: [HAL,BSP,STM32H7,驱动,手册]
 comments: true

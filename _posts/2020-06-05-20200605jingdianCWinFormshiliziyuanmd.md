@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典C# WinForm实例资源"
+title: "经典C WinForm实例资源"
 date:   2024-08-16
 tags: [实例,C#,WinForm,198,经典]
 comments: true

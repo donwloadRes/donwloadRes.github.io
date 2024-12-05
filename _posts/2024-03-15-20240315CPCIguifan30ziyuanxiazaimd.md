@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI 规范3.0 资源下载"
+title: "CPCI 规范30 资源下载"
 date:   2023-04-10
 tags: [CPCI,V3.0,规范,3.0,板卡]
 comments: true

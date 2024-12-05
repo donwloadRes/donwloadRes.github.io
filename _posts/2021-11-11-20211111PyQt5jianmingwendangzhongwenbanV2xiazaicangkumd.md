@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5简明文档(中文版)V2 下载仓库"
+title: "PyQt5简明文档中文版V2 下载仓库"
 date:   2023-08-04
 tags: [PyQt5,文档,简明,V2,rar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：SpringBoot学生宿舍管理系统的设计与开发"
+title: "毕业设计SpringBoot学生宿舍管理系统的设计与开发"
 date:   2022-04-11
 tags: [SpringBoot,毕业设计,开发,管员,学生宿舍]
 comments: true

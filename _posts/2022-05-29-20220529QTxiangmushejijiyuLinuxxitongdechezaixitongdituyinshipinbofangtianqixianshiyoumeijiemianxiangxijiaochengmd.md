@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目设计：基于Linux系统的车载系统 - 地图、音视频播放、天气显示、优美界面详细教程"
+title: "QT项目设计基于Linux系统的车载系统  地图音视频播放天气显示优美界面详细教程"
 date:   2022-12-12
 tags: [地图,车载,播放,音视频,系统]
 comments: true

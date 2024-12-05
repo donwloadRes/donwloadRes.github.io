@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch CIFAR-100 实践指南"
+title: "PyTorch CIFAR100 实践指南"
 date:   2020-08-04
 tags: [100,TensorBoard,CIFAR,bash,实践]
 comments: true

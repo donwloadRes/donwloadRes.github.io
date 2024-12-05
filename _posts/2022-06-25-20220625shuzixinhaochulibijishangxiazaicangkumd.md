@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理笔记(上) 下载仓库"
+title: "数字信号处理笔记上 下载仓库"
 date:   2024-06-18
 tags: [信号处理,笔记,数字,PDF,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天清汉马USG-FW-P防火墙用户使用手册"
+title: "天清汉马USGFWP防火墙用户使用手册"
 date:   2021-08-01
 tags: [防火墙,天清汉马,USG,FW,使用手册]
 comments: true

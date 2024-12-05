@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC-ISP 51程序下载串口软件"
+title: "STCISP 51程序下载串口软件"
 date:   2023-12-24
 tags: [串口,下载,51,程序,单片机]
 comments: true

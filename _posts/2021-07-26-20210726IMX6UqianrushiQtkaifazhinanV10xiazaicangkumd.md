@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I.MX6U嵌入式Qt开发指南V1.0 下载仓库"
+title: "IMX6U嵌入式Qt开发指南V10 下载仓库"
 date:   2021-09-02
 tags: [MX6U,Qt,嵌入式,V1.0,指南]
 comments: true

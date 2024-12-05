@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPAndroidChart-v3.0.3.jar资源下载"
+title: "MPAndroidChartv303jar资源下载"
 date:   2022-03-23
 tags: [MPAndroidChart,jar,v3.0,Android,依赖]
 comments: true

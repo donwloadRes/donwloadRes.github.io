@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无刷直流电机控制应用-基于STM8S系列单片机"
+title: "无刷直流电机控制应用基于STM8S系列单片机"
 date:   2024-08-21
 tags: [STM8S,无刷,单片机,直流电机,文档]
 comments: true

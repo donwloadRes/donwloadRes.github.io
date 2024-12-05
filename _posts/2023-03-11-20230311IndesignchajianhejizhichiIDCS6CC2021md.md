@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indesign插件合集(支持ID CS6~CC 2021)"
+title: "Indesign插件合集支持ID CS6CC 2021"
 date:   2024-11-11
 tags: [插件,InDesign,CC,合集,Indesign]
 comments: true

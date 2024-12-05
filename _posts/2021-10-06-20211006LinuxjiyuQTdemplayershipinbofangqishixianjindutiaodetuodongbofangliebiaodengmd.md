@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 基于QT的mplayer视频播放器（实现进度条的拖动、播放列表等）"
+title: "Linux 基于QT的mplayer视频播放器实现进度条的拖动播放列表等"
 date:   2022-10-27
 tags: [QT,MPlayer,播放器,进度条,播放]
 comments: true

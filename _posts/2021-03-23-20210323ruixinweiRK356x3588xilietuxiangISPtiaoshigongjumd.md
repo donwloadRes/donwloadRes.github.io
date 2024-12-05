@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞芯微RK356x-3588系列图像ISP调试工具"
+title: "瑞芯微RK356x3588系列图像ISP调试工具"
 date:   2024-04-17
 tags: [rkaiq,server,瑞芯微,ISP,tool]
 comments: true

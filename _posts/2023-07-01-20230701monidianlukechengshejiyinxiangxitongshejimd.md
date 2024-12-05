@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电路课程设计 - 音响系统设计"
+title: "模拟电路课程设计  音响系统设计"
 date:   2023-01-25
 tags: [电路,课程设计,音响系统,模拟,设计]
 comments: true

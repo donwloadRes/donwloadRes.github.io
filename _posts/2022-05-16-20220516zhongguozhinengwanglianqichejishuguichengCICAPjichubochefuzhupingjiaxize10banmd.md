@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国智能网联汽车技术规程（C-ICAP）- 基础泊车辅助评价细则（1.0版）"
+title: "中国智能网联汽车技术规程CICAP 基础泊车辅助评价细则10版"
 date:   2023-12-09
 tags: [智能网,泊车,技术规程,文件,评价]
 comments: true

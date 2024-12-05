@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多线程解决界面卡死问题的完美解决方案"
+title: "C多线程解决界面卡死问题的完美解决方案"
 date:   2021-12-20
 tags: [UI,线程,多线程,操作,耗时]
 comments: true

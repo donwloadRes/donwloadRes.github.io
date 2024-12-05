@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员的浪漫：自制3D相册"
+title: "程序员的浪漫自制3D相册"
 date:   2020-05-28
 tags: [3D,相册,程序员,个性化,浪漫]
 comments: true

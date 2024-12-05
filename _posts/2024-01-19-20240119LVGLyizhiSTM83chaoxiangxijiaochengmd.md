@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVGL移植STM8.3超详细教程"
+title: "LVGL移植STM83超详细教程"
 date:   2021-04-02
 tags: [LVGL,移植,教程,示例,STM8.3]
 comments: true

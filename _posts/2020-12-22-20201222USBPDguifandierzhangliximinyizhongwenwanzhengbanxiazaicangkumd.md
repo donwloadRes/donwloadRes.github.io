@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD规范 第二章（李熙民译-中文完整版）下载仓库"
+title: "USB PD规范 第二章李熙民译中文完整版下载仓库"
 date:   2024-07-10
 tags: [USB,PD,第二章,完整版,规范]
 comments: true

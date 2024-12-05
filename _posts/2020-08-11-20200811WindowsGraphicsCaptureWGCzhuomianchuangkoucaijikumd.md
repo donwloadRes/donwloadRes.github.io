@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Graphics Capture(WGC) 桌面-窗口采集库"
+title: "Windows Graphics CaptureWGC 桌面窗口采集库"
 date:   2022-04-09
 tags: [采集,窗口,桌面,句柄,接口]
 comments: true

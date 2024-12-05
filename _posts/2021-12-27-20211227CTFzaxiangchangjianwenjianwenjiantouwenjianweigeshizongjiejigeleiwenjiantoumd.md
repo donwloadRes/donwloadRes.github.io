@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF杂项：常见文件文件头文件尾格式总结及各类文件头"
+title: "CTF杂项常见文件文件头文件尾格式总结及各类文件头"
 date:   2021-06-13
 tags: [文件,CTF,格式,文件类型,杂项]
 comments: true

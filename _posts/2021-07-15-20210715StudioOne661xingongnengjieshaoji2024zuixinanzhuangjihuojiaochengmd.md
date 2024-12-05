@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6.6.1新功能介绍及2024最新安装激活教程"
+title: "Studio One 661新功能介绍及2024最新安装激活教程"
 date:   2023-06-15
 tags: [Studio,6.6,激活,教程,安装]
 comments: true

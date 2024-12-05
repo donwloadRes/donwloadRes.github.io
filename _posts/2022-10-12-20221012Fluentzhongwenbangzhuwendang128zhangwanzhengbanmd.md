@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fluent中文帮助文档(1-28章)完整版"
+title: "Fluent中文帮助文档128章完整版"
 date:   2023-11-05
 tags: [文档,Fluent,FLUENT,28,中文]
 comments: true

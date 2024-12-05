@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 信号板 EPLAN宏库"
+title: "S71200 信号板 EPLAN宏库"
 date:   2023-05-15
 tags: [宏库,EPLAN,信号,原理图,文件]
 comments: true

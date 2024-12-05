@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 12c ORA-01017: 用户名-口令无效; 登录被拒绝 解决方案"
+title: "Oracle 12c ORA01017 用户名口令无效 登录被拒绝 解决方案"
 date:   2024-02-03
 tags: [Oracle,12c,01017,用户名,错误]
 comments: true

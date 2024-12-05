@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK 学习指南 (中文版) 下载仓库"
+title: "VTK 学习指南 中文版 下载仓库"
 date:   2020-11-07
 tags: [VTK,学习指南,中文版,指南,仓库]
 comments: true

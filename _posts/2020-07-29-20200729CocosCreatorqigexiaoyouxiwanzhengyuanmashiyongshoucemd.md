@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CocosCreator七个小游戏完整源码+使用手册"
+title: "CocosCreator七个小游戏完整源码使用手册"
 date:   2020-12-12
 tags: [CocosCreator,小游戏,游戏,使用手册,资源库]
 comments: true

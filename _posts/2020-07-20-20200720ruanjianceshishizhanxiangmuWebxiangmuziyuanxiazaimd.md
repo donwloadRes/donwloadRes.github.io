@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件测试实战项目(Web项目) 资源下载"
+title: "软件测试实战项目Web项目 资源下载"
 date:   2021-10-02
 tags: [资源,项目,软件测试,Web,下载]
 comments: true

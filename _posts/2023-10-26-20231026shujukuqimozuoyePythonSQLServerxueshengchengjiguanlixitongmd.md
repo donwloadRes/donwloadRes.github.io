@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库期末作业：Python+SQL Server学生成绩管理系统"
+title: "数据库期末作业PythonSQL Server学生成绩管理系统"
 date:   2021-11-28
 tags: [成绩,数据库,登录,密码,教师]
 comments: true

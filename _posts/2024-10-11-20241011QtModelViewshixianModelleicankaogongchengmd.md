@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Model-View 实现Model类参考工程"
+title: "Qt ModelView 实现Model类参考工程"
 date:   2023-11-24
 tags: [Qt,Model,View,展示,数据]
 comments: true

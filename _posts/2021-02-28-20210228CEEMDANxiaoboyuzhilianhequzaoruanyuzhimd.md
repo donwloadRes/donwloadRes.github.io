@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEEMDAN-小波阈值联合去噪（软阈值）"
+title: "CEEMDAN小波阈值联合去噪软阈值"
 date:   2023-03-29
 tags: [阈值,CEEMDAN,IMF,分量,小波软]
 comments: true

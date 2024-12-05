@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁兼容技术之产品研发与认证(杨继深)"
+title: "电磁兼容技术之产品研发与认证杨继深"
 date:   2020-02-21
 tags: [电磁兼容,认证,研发,杨继深,技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEA-861标准大全下载"
+title: "CEA861标准大全下载"
 date:   2020-05-22
 tags: [CEA,861,版本,标准,文档]
 comments: true

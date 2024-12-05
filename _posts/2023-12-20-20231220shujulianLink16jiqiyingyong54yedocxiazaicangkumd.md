@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据链(Link-16)及其应用_54页.doc 下载仓库"
+title: "数据链Link16及其应用54页doc 下载仓库"
 date:   2021-02-13
 tags: [Link,16,数据链,54,doc]
 comments: true

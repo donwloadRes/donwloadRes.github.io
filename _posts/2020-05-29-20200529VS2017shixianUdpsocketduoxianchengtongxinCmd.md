@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017实现Udp socket多线程通信（C++）"
+title: "VS2017实现Udp socket多线程通信C"
 date:   2023-04-16
 tags: [多线程,编译,通信,Visual,Studio]
 comments: true

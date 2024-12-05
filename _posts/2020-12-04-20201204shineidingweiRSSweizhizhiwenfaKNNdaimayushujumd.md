@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "室内定位RSS位置指纹法-KNN（代码与数据）"
+title: "室内定位RSS位置指纹法KNN代码与数据"
 date:   2023-06-03
 tags: [KNN,算法,定位,代码,RSS]
 comments: true

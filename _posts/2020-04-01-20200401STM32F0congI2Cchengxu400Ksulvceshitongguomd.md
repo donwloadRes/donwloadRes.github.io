@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F0从I2C程序（400K速率测试通过）"
+title: "STM32F0从I2C程序400K速率测试通过"
 date:   2020-03-24
 tags: [STM32F0,I2C,速率,400K,程序]
 comments: true

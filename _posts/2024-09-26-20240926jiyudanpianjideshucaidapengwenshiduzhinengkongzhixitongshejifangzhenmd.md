@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于单片机的蔬菜大棚温湿度智能控制系统设计（仿真）"
+title: "基于单片机的蔬菜大棚温湿度智能控制系统设计仿真"
 date:   2022-11-23
 tags: [温湿度,仿真,大棚,单片机,Proteus]
 comments: true

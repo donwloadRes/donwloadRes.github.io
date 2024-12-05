@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "典型的多目标优化算法Matlab代码——PlatEMO"
+title: "典型的多目标优化算法Matlab代码PlatEMO"
 date:   2024-07-30
 tags: [优化,算法,PlatEMO,目标,代码]
 comments: true

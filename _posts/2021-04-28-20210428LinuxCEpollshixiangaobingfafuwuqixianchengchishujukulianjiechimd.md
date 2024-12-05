@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux+C+Epoll实现高并发服务器(线程池+数据库连接池)"
+title: "LinuxCEpoll实现高并发服务器线程池数据库连接池"
 date:   2024-10-27
 tags: [数据库,并发,线程,Linux,Epoll]
 comments: true

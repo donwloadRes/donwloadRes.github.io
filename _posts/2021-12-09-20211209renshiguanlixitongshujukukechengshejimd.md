@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人事管理系统——数据库课程设计"
+title: "人事管理系统数据库课程设计"
 date:   2021-06-07
 tags: [数据库,SQL,Server,课程设计,管理系统]
 comments: true

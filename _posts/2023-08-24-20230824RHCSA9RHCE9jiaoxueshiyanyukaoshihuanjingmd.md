@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RHCSA9 + RHCE9 教学实验与考试环境"
+title: "RHCSA9  RHCE9 教学实验与考试环境"
 date:   2022-01-04
 tags: [RHCSA9,RHCE9,环境,考试,实验]
 comments: true

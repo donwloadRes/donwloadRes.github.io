@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 7714-2015 信息与文献 参考文献著录规则 PDF 下载"
+title: "GBT 77142015 信息与文献 参考文献著录规则 PDF 下载"
 date:   2020-06-04
 tags: [PDF,著录规则,2015,参考文献,文件]
 comments: true

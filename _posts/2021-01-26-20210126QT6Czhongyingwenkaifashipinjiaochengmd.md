@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT6 C++ 中英文开发视频教程"
+title: "QT6 C 中英文开发视频教程"
 date:   2021-04-13
 tags: [QT6,C++,视频教程,开发,学习]
 comments: true

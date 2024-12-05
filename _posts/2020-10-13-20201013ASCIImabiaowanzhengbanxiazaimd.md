@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASCII码表（完整版）下载"
+title: "ASCII码表完整版下载"
 date:   2022-03-02
 tags: [ASCII,码表,完整版,文件,PDF]
 comments: true

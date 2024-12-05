@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mipi屏幕调试(基于展锐平台)"
+title: "mipi屏幕调试基于展锐平台"
 date:   2022-09-22
 tags: [调试,屏幕,展锐,MIPI,平台]
 comments: true

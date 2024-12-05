@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Petalinux如何加载AXI-DMA驱动指南"
+title: "Petalinux如何加载AXIDMA驱动指南"
 date:   2020-06-28
 tags: [加载,Petalinux,AXI,DMA,驱动]
 comments: true

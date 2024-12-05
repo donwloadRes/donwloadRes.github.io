@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统规划与管理师》核心考点归纳总结笔记"
+title: "系统规划与管理师核心考点归纳总结笔记"
 date:   2024-09-07
 tags: [笔记,考点,归纳,复习,规划]
 comments: true

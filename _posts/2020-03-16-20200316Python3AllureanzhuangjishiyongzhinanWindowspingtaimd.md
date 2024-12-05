@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3+Allure安装及使用指南（Windows平台）"
+title: "Python3Allure安装及使用指南Windows平台"
 date:   2023-10-09
 tags: [Allure,allure,Windows,pytest,安装]
 comments: true

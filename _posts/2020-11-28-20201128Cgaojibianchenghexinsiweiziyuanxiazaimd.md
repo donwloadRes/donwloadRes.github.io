@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++高级编程核心思维资源下载"
+title: "C高级编程核心思维资源下载"
 date:   2021-05-19
 tags: [C++,编程,高级,文件,资源]
 comments: true

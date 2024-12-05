@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地理信息系统导论（第五版）PDF 下载"
+title: "地理信息系统导论第五版PDF 下载"
 date:   2023-08-21
 tags: [地理信息系统,PDF,第五版,导论,下载]
 comments: true

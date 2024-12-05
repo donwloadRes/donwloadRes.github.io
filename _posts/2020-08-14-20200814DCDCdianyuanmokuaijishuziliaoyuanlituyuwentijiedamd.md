@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DC-DC电源模块技术资料（原理图与问题解答）"
+title: "DCDC电源模块技术资料原理图与问题解答"
 date:   2020-09-25
 tags: [DC,电源模块,原理图,设计,问题解答]
 comments: true

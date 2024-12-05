@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西电随机信号分析实验：RC无源低通滤波器设计与测量分析"
+title: "西电随机信号分析实验RC无源低通滤波器设计与测量分析"
 date:   2021-03-29
 tags: [RC,无源,低通滤波器,分析,信号]
 comments: true

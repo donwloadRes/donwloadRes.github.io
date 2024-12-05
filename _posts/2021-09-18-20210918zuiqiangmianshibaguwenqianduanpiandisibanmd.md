@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最强面试八股文-前端篇（第四版）"
+title: "最强面试八股文前端篇第四版"
 date:   2021-08-31
 tags: [面试,前端,第四版,知识点,文件]
 comments: true

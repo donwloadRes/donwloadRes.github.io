@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性系统与信号（第二版）B. P. Lathi 详细书签英文原版"
+title: "线性系统与信号第二版B P Lathi 详细书签英文原版"
 date:   2020-09-17
 tags: [书签,英文原版,线性系统,Lathi,详细]
 comments: true

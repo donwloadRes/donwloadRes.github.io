@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "C#封装的RabbitMQ队列库"
+title: "C封装的RabbitMQ队列库
+date   20230404
+tags RabbitMQ队列rabbitMQService模式RabbitMQService
+comments true
+author admin
+
+ C封装的RabbitMQ队列库
+
+ 简介
+本仓库提供了一个使用C封装的RabbitMQ队列库支持工作队列模式和发布订阅模式通过配置文件中的RabbitMQ服务器相关信息您可以轻松地在项目中引用封装好的RabbitMQService类库从而方便地操作RabbitMQ的工作队列模式和发布订阅模式
+
+ 功能特点
+ 工作队列模式支持多消费者处理任务实现负载均衡
+ 发布订阅模式支持消息广播多个消费者可以同时接收消息
+ 配置简单只需在配置文件中设置RabbitMQ服务器信息即可快速集成到项目中
+
+ 使用方法
+1 配置RabbitMQ服务器信息
+   在项目的配置文件如appsettingsjson中添加RabbitMQ服务器的相关配置信息例如
+   json
+   
+     RabbitMQ 
+       HostName localhost
+       Port 5672
+       UserName guest
+       Password guest"
 date:   2023-04-04
 tags: [RabbitMQ,队列,rabbitMQService,模式,RabbitMQService]
 comments: true

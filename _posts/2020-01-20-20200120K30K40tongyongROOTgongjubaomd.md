@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K30-K40通用ROOT工具包"
+title: "K30K40通用ROOT工具包"
 date:   2024-04-02
 tags: [ROOT,工具包,K30,K40,https]
 comments: true

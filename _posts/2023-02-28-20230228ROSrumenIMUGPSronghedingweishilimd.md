@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS入门：IMU&GPS融合定位实例"
+title: "ROS入门IMUGPS融合定位实例"
 date:   2022-10-31
 tags: [ROS,GPS,IMU,融合,定位]
 comments: true

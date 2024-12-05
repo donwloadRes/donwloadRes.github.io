@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 模拟鼠标操作库"
+title: "C 模拟鼠标操作库"
 date:   2020-10-12
 tags: [IntPtr,hWnd,窗口,鼠标,指定]
 comments: true

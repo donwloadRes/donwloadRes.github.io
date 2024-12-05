@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子数字OCR C#源码"
+title: "电子数字OCR C源码"
 date:   2024-03-14
 tags: [源码,OCR,C#,识别,数字]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5 WebGL 摇杆+按钮"
+title: "HTML5 WebGL 摇杆按钮"
 date:   2023-03-11
 tags: [Web,摇杆,按钮,WebGL,控件]
 comments: true

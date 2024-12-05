@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "改进版的YOLOv5+双目测距"
+title: "改进版的YOLOv5双目测距"
 date:   2024-08-02
 tags: [双目,分辨率,改进版,测距,YOLOv5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket通信源码教程"
+title: "C Socket通信源码教程"
 date:   2022-09-06
 tags: [Socket,客户端,C#,服务器端,示例]
 comments: true

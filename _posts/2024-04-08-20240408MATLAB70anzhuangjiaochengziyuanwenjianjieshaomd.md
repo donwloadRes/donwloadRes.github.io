@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 7.0 安装教程资源文件介绍"
+title: "MATLAB 70 安装教程资源文件介绍"
 date:   2020-04-02
 tags: [安装,MATLAB,7.0,教程,文件]
 comments: true

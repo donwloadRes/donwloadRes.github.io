@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61851-1 充电桩协议"
+title: "IEC 618511 充电桩协议"
 date:   2024-05-13
 tags: [充电,电动汽车,IEC,61851,协议]
 comments: true

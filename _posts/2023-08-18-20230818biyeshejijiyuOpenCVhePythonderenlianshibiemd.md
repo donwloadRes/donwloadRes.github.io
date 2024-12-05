@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-基于OpenCV和Python的人脸识别"
+title: "毕业设计基于OpenCV和Python的人脸识别"
 date:   2023-06-27
 tags: [OpenCV,Python,人脸识别,毕业设计,项目]
 comments: true

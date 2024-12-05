@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery-XSS漏洞（CVE-2020-11022-CVE-2020-11023）资源文件介绍"
+title: "jQueryXSS漏洞CVE202011022CVE202011023资源文件介绍"
 date:   2020-02-21
 tags: [jQuery,漏洞,2020,XSS,CVE]
 comments: true

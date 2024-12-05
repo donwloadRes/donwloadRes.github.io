@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 读取PDF文件教程"
+title: "C Winform 读取PDF文件教程"
 date:   2023-02-02
 tags: [PDF,Winform,C#,读取,文件]
 comments: true

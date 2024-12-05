@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "元启发式算法：爬行动物优化算法（RSA）Matlab源代码"
+title: "元启发式算法爬行动物优化算法RSAMatlab源代码"
 date:   2024-08-08
 tags: [算法,RSA,Matlab,源代码,测试函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2016 安装 .NET 3.5 解决方案"
+title: "Windows Server 2016 安装 NET 35 解决方案"
 date:   2022-07-03
 tags: [NET,3.5,安装,路径,解压]
 comments: true

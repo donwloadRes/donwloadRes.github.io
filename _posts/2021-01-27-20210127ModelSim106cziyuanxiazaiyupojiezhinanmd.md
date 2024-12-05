@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModelSim 10.6c 资源下载与破解指南"
+title: "ModelSim 106c 资源下载与破解指南"
 date:   2023-11-02
 tags: [ModelSim,10.6,破解,Vivado,资源]
 comments: true

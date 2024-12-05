@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文标准 J-STD 系列集合"
+title: "中文标准 JSTD 系列集合"
 date:   2020-08-06
 tags: [STD,标准,电子,组装,系列]
 comments: true

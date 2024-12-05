@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试PINNs：使用物理信息神经网络求解PDE"
+title: "测试PINNs使用物理信息神经网络求解PDE"
 date:   2023-04-16
 tags: [PINNs,神经网络,PDE,求解,文件]
 comments: true

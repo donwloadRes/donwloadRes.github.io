@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++17完全指南 高清版本 下载仓库"
+title: "C17完全指南 高清版本 下载仓库"
 date:   2023-11-14
 tags: [C++,17,特性,编程,模板]
 comments: true

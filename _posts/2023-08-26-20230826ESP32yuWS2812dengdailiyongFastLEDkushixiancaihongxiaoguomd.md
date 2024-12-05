@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32与WS2812灯带: 利用FastLED库实现彩虹效果"
+title: "ESP32与WS2812灯带 利用FastLED库实现彩虹效果"
 date:   2020-11-21
 tags: [ESP32,LED,WS2812,灯带,FastLED]
 comments: true

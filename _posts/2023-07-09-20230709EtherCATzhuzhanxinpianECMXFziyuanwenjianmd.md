@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT主站芯片（ECM-XF）资源文件"
+title: "EtherCAT主站芯片ECMXF资源文件"
 date:   2024-08-17
 tags: [芯片,ECM,XF,EtherCAT,主站]
 comments: true

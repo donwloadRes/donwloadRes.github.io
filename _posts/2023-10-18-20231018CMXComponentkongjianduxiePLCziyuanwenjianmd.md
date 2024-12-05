@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MX Component控件读写PLC资源文件"
+title: "C MX Component控件读写PLC资源文件"
 date:   2020-09-25
 tags: [PLC,C#,示例,MX,Component]
 comments: true

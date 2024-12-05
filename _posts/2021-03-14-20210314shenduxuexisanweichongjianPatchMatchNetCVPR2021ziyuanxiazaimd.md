@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习三维重建 PatchMatchNet-CVPR-2021 资源下载"
+title: "深度学习三维重建 PatchMatchNetCVPR2021 资源下载"
 date:   2022-07-15
 tags: [源码,三维重建,PatchMatchNet,批注,CVPR]
 comments: true

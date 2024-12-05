@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9.2 软件包下载"
+title: "QT592 软件包下载"
 date:   2022-04-21
 tags: [QT5.9,qt,QT,Creator,下载]
 comments: true

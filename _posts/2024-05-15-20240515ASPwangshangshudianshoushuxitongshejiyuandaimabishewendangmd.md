@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP网上书店售书系统设计(源代码+毕设文档)"
+title: "ASP网上书店售书系统设计源代码毕设文档"
 date:   2024-09-22
 tags: [ASP,源代码,文档,毕设,书店]
 comments: true

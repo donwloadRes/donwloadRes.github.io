@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "V93000-SRDI-Training 资源文件下载"
+title: "V93000SRDITraining 资源文件下载"
 date:   2023-06-03
 tags: [文件,资源,V93000,SRDI,Training]
 comments: true

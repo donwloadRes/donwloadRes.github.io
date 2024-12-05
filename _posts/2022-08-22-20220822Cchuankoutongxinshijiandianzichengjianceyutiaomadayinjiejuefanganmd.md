@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通信实践：电子秤监测与条码打印解决方案"
+title: "C 串口通信实践电子秤监测与条码打印解决方案"
 date:   2021-03-13
 tags: [串口,电子秤,打印机,条码,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++开发环境搭建指南"
+title: "C开发环境搭建指南"
 date:   2024-06-28
 tags: [C++,安装,编译器,GCC,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 安装-卸载 WPS Office 及常见问题解决方案"
+title: "CentOS 7 安装卸载 WPS Office 及常见问题解决方案"
 date:   2021-10-17
 tags: [WPS,Office,安装,卸载,CentOS]
 comments: true

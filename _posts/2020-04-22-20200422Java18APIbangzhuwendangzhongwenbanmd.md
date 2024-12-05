@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 1.8 API帮助文档中文版"
+title: "Java 18 API帮助文档中文版"
 date:   2024-03-13
 tags: [Java,1.8,文档,API,开发者]
 comments: true

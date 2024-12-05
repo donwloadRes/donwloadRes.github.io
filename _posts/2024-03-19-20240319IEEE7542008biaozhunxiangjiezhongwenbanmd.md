@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 754-2008 标准详解（中文版）"
+title: "IEEE 7542008 标准详解中文版"
 date:   2021-07-27
 tags: [2008,IEEE,754,标准,中文版]
 comments: true

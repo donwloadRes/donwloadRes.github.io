@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab_Simulink的控制系统建模与仿真实现"
+title: "基于MatlabSimulink的控制系统建模与仿真实现"
 date:   2022-05-14
 tags: [Simulink,Matlab,仿真,控制系统,建模]
 comments: true

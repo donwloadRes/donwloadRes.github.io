@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS 蚂蜂窝旅游网站 - 静态"
+title: "HTMLCSS 蚂蜂窝旅游网站  静态"
 date:   2020-07-29
 tags: [静态,网站,蚂蜂,HTML,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven 3.6.3 资源文件下载"
+title: "Apache Maven 363 资源文件下载"
 date:   2024-09-05
 tags: [3.6,apache,Apache,Maven,maven]
 comments: true

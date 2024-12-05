@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenCV图像处理软件资源介绍"
+title: "QTOpenCV图像处理软件资源介绍"
 date:   2023-11-23
 tags: [图像处理,QT,OpenCV,功能,软件资源]
 comments: true

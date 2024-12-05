@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualDSP++ 5.0 资源文件介绍"
+title: "VisualDSP 50 资源文件介绍"
 date:   2024-06-24
 tags: [安装,文件,VisualDSP,5.0,注册机]
 comments: true

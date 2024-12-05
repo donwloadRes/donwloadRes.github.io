@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全的Verilog-HDL培训教材及参考例程"
+title: "最全的VerilogHDL培训教材及参考例程"
 date:   2021-03-25
 tags: [Verilog,HDL,pdf,doc,设计]
 comments: true

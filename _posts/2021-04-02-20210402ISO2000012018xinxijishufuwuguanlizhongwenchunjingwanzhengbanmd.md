@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO20000-1：2018 信息技术 服务管理 中文纯净完整版"
+title: "ISO2000012018 信息技术 服务管理 中文纯净完整版"
 date:   2023-06-15
 tags: [服务,ISO20000,2018,管理体系,管理]
 comments: true

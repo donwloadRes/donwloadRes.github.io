@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国中小学信息技术创新与实践大赛（NOC）指导教师认证真题下载"
+title: "全国中小学信息技术创新与实践大赛NOC指导教师认证真题下载"
 date:   2020-12-05
 tags: [NOC,大赛,考试,认证,教师]
 comments: true

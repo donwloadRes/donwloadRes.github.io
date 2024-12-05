@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Boost 单电压闭环控制：数学建模、仿真与系统设计"
+title: "Boost 单电压闭环控制数学建模仿真与系统设计
+date   20230727
+tags Boost仿真闭环控制电压电路
+comments true
+author admin
+
+
+layout post
+title Boost 单电压闭环控制数学建模仿真与系统设计"
 date:   2023-07-27
 tags: [Boost,仿真,闭环控制,电压,电路]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Boost 单电压闭环控制：数学建模、仿真与系统设计"
+title: "Boost 单电压闭环控制数学建模仿真与系统设计
+date   20230727
+tags Boost仿真闭环控制电压电路
+comments true
+author admin
+
+
+layout post
+title Boost 单电压闭环控制数学建模仿真与系统设计"
 date:   2021-09-02
 tags: [仿真,Boost,闭环控制,电压,电路]
 comments: true

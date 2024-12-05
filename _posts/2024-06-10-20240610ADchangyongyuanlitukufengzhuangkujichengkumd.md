@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD常用原理图库、封装库、集成库"
+title: "AD常用原理图库封装库集成库"
 date:   2024-01-21
 tags: [元件,Altium,Designer,封装,设计]
 comments: true

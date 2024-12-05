@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3.5mm耳机插座封装资源"
+title: "35mm耳机插座封装资源"
 date:   2023-07-20
 tags: [封装,插座,3.5,mm,耳机]
 comments: true

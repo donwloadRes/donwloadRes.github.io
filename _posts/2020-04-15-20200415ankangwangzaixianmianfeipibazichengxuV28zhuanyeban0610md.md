@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安康网在线免费批八字程序 V2.8 专业版 0610"
+title: "安康网在线免费批八字程序 V28 专业版 0610"
 date:   2021-12-16
 tags: [八字,命理,分析,程序,安康]
 comments: true

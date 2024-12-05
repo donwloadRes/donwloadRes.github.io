@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迈迪工具集V6.0.0.0 README"
+title: "迈迪工具集V6000 README"
 date:   2022-03-12
 tags: [Solid,Works,工具集,0.0,迈迪]
 comments: true

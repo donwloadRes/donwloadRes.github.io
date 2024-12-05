@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派从零开始到部署计算机视觉项目（YOLOv8项目）第一集"
+title: "树莓派从零开始到部署计算机视觉项目YOLOv8项目第一集"
 date:   2022-08-21
 tags: [树莓,YOLOv8,教程,项目,视觉]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新视野大学英语 1 综合训练1（第3版）（高清）扫描版 README"
+title: "新视野大学英语 1 综合训练1第3版高清扫描版 README"
 date:   2022-02-02
 tags: [新视野,英语,高清,扫描,资源]
 comments: true

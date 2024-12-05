@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xjtu嵌入式系统设计-树莓派实验报告及代码"
+title: "xjtu嵌入式系统设计树莓派实验报告及代码"
 date:   2021-12-17
 tags: [树莓,实验报告,嵌入式,实验,代码]
 comments: true

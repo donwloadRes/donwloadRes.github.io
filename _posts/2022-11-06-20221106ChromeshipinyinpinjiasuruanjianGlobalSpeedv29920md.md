@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome视频音频加速软件 - Global Speed v2.9.92.0"
+title: "Chrome视频音频加速软件  Global Speed v29920"
 date:   2021-08-01
 tags: [音频,92.0,字幕,v2.9,视频]
 comments: true

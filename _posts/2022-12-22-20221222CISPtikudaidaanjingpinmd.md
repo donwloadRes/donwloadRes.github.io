@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP题库（带答案）【精品】"
+title: "CISP题库带答案精品"
 date:   2020-09-25
 tags: [CISP,题库,信息安全,考试,题目]
 comments: true

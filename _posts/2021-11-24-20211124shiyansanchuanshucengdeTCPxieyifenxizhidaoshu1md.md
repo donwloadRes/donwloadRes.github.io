@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验三 传输层的TCP协议分析-指导书1"
+title: "实验三 传输层的TCP协议分析指导书1"
 date:   2021-09-02
 tags: [TCP,指导书,实验,协议,传输层]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB367A-2001军用通信设备通用规范下载"
+title: "GJB367A2001军用通信设备通用规范下载"
 date:   2024-06-05
 tags: [军用,通信,设备,规范,GJB367A]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon直线检测算法——卡尺算法"
+title: "Halcon直线检测算法卡尺算法"
 date:   2024-03-17
 tags: [算法,检测,Halcon,直线,卡尺]
 comments: true

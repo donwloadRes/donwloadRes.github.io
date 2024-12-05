@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网Conf客户端软件-Windows版"
+title: "网Conf客户端软件Windows版"
 date:   2022-12-20
 tags: [Netconf,网络设备,软件,Windows,Conf]
 comments: true

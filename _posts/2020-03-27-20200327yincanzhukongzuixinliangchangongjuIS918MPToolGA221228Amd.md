@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银灿主控最新量产工具：IS918MPTool-GA-221228A"
+title: "银灿主控最新量产工具IS918MPToolGA221228A"
 date:   2020-11-07
 tags: [Flash,ID,TH58LJG8T24TA0D,量产,IS918MPTool]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "39款精美前端后台资源（实用且美观）"
+title: "39款精美前端后台资源实用且美观"
 date:   2024-07-20
 tags: [资源,后台,39,项目,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino IDE 2.1.0 下安装ESP32（2.0.9）"
+title: "Arduino IDE 210 下安装ESP32209"
 date:   2023-01-06
 tags: [Arduino,IDE,ESP32,安装,2.1]
 comments: true

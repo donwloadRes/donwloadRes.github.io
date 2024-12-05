@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网易数据治理白皮书8.0 下载仓库"
+title: "网易数据治理白皮书80 下载仓库"
 date:   2022-12-22
 tags: [治理,数据,网易,8.0,白皮书]
 comments: true

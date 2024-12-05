@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新版Kali安装指南：初学者到进阶用户都能轻松掌握"
+title: "2023最新版Kali安装指南初学者到进阶用户都能轻松掌握"
 date:   2022-09-10
 tags: [Kali,安装,虚拟机,Linux,指南]
 comments: true

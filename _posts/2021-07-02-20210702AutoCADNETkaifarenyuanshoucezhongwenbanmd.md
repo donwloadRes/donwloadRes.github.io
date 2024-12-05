@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD.NET开发人员手册中文版"
+title: "AutoCADNET开发人员手册中文版"
 date:   2021-12-13
 tags: [AutoCAD,NET,手册,中文版,二次开发]
 comments: true

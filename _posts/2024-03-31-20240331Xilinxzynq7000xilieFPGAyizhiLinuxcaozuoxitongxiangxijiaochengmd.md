@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx zynq-7000系列FPGA移植Linux操作系统详细教程"
+title: "Xilinx zynq7000系列FPGA移植Linux操作系统详细教程"
 date:   2024-07-16
 tags: [FPGA,Linux,7000,操作系统,教程]
 comments: true

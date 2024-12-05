@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谭松波酒店评论语料库（UTF-8编码）"
+title: "谭松波酒店评论语料库UTF8编码"
 date:   2024-05-15
 tags: [编码,UTF,txt,语料库,文件]
 comments: true

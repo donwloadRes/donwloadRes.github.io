@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java成品网站 - LIMS实验室管理系统源代码程序"
+title: "Java成品网站  LIMS实验室管理系统源代码程序"
 date:   2021-02-28
 tags: [实验室,Java,LIMS,源代码,管理系统]
 comments: true

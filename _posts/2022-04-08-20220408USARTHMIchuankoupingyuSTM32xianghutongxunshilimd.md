@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USART-HMI串口屏与STM32相互通讯实例"
+title: "USARTHMI串口屏与STM32相互通讯实例"
 date:   2023-07-19
 tags: [串口,STM32,USART,HMI,实例]
 comments: true

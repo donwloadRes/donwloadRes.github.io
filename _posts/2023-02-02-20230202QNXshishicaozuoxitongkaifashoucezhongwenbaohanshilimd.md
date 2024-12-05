@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QNX实时操作系统开发手册(中文) - 包含实例"
+title: "QNX实时操作系统开发手册中文  包含实例"
 date:   2024-08-29
 tags: [QNX,实时操作系统,开发,手册,实例]
 comments: true

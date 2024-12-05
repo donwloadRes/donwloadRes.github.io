@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 联合 Halcon 采集图片"
+title: "C 联合 Halcon 采集图片"
 date:   2020-03-13
 tags: [Halcon,C#,devHandle,HOperatorSet,图像]
 comments: true

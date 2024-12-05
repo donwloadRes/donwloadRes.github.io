@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easymesh相关协议：Multi-AP Specification V1.0-中文翻译"
+title: "Easymesh相关协议MultiAP Specification V10中文翻译"
 date:   2022-07-08
 tags: [Easymesh,AP,文档,中文翻译,Multi]
 comments: true

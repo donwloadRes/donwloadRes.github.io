@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【零基础】计算机三级网络技术备考指南"
+title: "零基础计算机三级网络技术备考指南"
 date:   2021-12-02
 tags: [备考,考试,三级网络,指南,学习]
 comments: true

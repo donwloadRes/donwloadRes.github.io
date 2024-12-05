@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李飞飞自传：我看见的世界"
+title: "李飞飞自传我看见的世界"
 date:   2023-06-01
 tags: [李飞飞,自传,世界,本书,看见]
 comments: true

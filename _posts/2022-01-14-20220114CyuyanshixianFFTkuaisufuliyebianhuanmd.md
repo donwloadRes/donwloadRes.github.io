@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现FFT(快速傅里叶变换）"
+title: "C语言实现FFT快速傅里叶变换"
 date:   2024-10-24
 tags: [C语言,FFT,代码,傅里叶,示例]
 comments: true

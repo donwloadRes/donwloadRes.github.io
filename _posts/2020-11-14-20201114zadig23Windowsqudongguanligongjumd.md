@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zadig-2.3 Windows 驱动管理工具"
+title: "zadig23 Windows 驱动管理工具"
 date:   2020-08-18
 tags: [zadig,2.3,Windows,驱动,驱动程序]
 comments: true

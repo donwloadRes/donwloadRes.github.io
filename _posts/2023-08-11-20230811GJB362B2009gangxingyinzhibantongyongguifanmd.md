@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 362B-2009 刚性印制板通用规范"
+title: "GJB 362B2009 刚性印制板通用规范"
 date:   2022-04-15
 tags: [印制板,规范,刚性,2009,GJB]
 comments: true

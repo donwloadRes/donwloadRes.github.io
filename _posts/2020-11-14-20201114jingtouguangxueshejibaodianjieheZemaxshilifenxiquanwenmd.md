@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "镜头光学设计宝典结合Zemax实例分析（全文）"
+title: "镜头光学设计宝典结合Zemax实例分析全文"
 date:   2024-08-05
 tags: [Zemax,光学,实例,设计,镜头]
 comments: true

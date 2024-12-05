@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BarTender 9.10 与 Seagull License Server 9.10 通用的注册机"
+title: "BarTender 910 与 Seagull License Server 910 通用的注册机"
 date:   2023-11-16
 tags: [激活,注册机,9.10,注册码,点击]
 comments: true

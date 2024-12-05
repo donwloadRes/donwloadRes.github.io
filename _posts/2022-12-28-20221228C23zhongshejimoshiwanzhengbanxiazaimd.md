@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 23种设计模式完整版下载"
+title: "C 23种设计模式完整版下载"
 date:   2021-01-10
 tags: [设计模式,C#,23,PDF,开发者]
 comments: true

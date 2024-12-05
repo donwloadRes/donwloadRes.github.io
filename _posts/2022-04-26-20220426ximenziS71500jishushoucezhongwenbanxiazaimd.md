@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500技术手册中文版下载"
+title: "西门子S71500技术手册中文版下载"
 date:   2022-08-02
 tags: [S7,1500,PLC,手册,中文版]
 comments: true

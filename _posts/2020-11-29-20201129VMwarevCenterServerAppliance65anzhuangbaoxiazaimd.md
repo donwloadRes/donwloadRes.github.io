@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vCenter Server Appliance 6.5 安装包下载"
+title: "VMware vCenter Server Appliance 65 安装包下载"
 date:   2021-03-28
 tags: [VMware,6.5,安装包,vCenter,Server]
 comments: true

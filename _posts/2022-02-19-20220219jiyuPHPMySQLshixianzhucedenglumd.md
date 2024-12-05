@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PHP+MySQL实现注册登录"
+title: "基于PHPMySQL实现注册登录"
 date:   2021-08-11
 tags: [PHP,MySQL,登录,用户,PDO]
 comments: true

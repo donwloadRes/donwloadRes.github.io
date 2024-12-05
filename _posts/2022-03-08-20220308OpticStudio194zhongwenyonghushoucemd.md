@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpticStudio 19.4 中文用户手册"
+title: "OpticStudio 194 中文用户手册"
 date:   2020-02-06
 tags: [OpticStudio,19.4,中文,用户手册,手册]
 comments: true

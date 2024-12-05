@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wpa_supplicant软件安装包"
+title: "wpasupplicant软件安装包"
 date:   2020-10-25
 tags: [wpa,supplicant,无线网络,认证,安装]
 comments: true

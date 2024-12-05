@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为Wi-Fi 6技术白皮书下载"
+title: "华为WiFi 6技术白皮书下载"
 date:   2023-10-18
 tags: [Wi,Fi,白皮书,技术,华为]
 comments: true

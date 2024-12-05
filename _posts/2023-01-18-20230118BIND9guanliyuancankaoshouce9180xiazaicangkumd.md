@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIND9管理员参考手册-9.18.0 下载仓库"
+title: "BIND9管理员参考手册9180 下载仓库"
 date:   2023-06-03
 tags: [BIND9,参考手册,管理员,9.18,文档]
 comments: true

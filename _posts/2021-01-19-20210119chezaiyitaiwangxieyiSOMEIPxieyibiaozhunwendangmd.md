@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载以太网协议SOME-IP协议标准文档"
+title: "车载以太网协议SOMEIP协议标准文档"
 date:   2022-01-05
 tags: [IP,SOME,文档,以太网,车载]
 comments: true

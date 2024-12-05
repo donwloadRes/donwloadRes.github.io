@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK8下载资源 - Windows 64位版本"
+title: "JDK8下载资源  Windows 64位版本"
 date:   2021-08-23
 tags: [JDK,Java,版本,安装,下载]
 comments: true

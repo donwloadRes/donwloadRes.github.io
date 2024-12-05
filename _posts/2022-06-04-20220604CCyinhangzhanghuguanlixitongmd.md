@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 银行账户管理系统"
+title: "CC 银行账户管理系统"
 date:   2022-08-08
 tags: [销户,账户,用户,C++,账号]
 comments: true

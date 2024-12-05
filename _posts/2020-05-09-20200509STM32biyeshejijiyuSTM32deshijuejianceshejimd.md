@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32毕业设计：基于STM32的视觉检测设计"
+title: "STM32毕业设计基于STM32的视觉检测设计"
 date:   2023-10-23
 tags: [STM32,文档,毕业设计,源代码,开发板]
 comments: true

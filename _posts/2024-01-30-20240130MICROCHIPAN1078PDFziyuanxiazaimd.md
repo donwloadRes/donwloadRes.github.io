@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MICROCHIP-AN1078.PDF 资源下载"
+title: "MICROCHIPAN1078PDF 资源下载"
 date:   2024-09-05
 tags: [PDF,文档,MICROCHIP,AN1078,电机]
 comments: true

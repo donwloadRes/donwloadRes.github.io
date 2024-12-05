@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库 PWM+DMA 驱动WS2812B彩灯(STM32F030F4P6)"
+title: "STM32 HAL库 PWMDMA 驱动WS2812B彩灯STM32F030F4P6"
 date:   2021-06-03
 tags: [代码,WS2812B,彩灯,STM32F030F4P6,STM32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LQR 控制器：Simulink 的 LQR 控制器 - MATLAB 开发"
+title: "LQR 控制器Simulink 的 LQR 控制器  MATLAB 开发"
 date:   2022-04-25
 tags: [LQR,Simulink,控制器,矩阵,仿真]
 comments: true

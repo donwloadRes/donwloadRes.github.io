@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libncurses.so.5 附安装方法"
+title: "libncursesso5 附安装方法"
 date:   2021-02-16
 tags: [libncurses,so.5,apt,安装,sudo]
 comments: true

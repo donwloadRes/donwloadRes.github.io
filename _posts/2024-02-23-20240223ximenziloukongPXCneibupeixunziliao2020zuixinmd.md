@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子楼控PXC内部培训资料（2020最新）"
+title: "西门子楼控PXC内部培训资料2020最新"
 date:   2021-09-15
 tags: [楼控,西门子,PXC,培训资料,选型]
 comments: true

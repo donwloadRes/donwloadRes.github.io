@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8 Mac-Win版许可证安装激活教程"
+title: "Guitar Pro 8 MacWin版许可证安装激活教程"
 date:   2021-10-24
 tags: [Guitar,Pro,激活,许可证,安装]
 comments: true

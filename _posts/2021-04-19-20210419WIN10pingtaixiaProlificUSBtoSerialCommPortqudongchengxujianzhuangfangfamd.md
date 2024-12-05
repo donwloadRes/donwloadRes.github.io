@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10平台下Prolific USB-to-Serial Comm Port驱动程序及安装方法"
+title: "WIN10平台下Prolific USBtoSerial Comm Port驱动程序及安装方法"
 date:   2020-10-06
 tags: [驱动程序,USB,安装,驱动,Prolific]
 comments: true

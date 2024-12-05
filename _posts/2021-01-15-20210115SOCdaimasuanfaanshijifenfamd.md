@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOC 代码算法：安时积分法"
+title: "SOC 代码算法安时积分法"
 date:   2023-09-10
 tags: [SOC,C语言,估算,电池容量,安时]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pygame 学习笔记（4）推荐一本Python入门游戏书籍PYTHON游戏编程入门》"
+title: "pygame 学习笔记4推荐一本Python入门游戏书籍PYTHON游戏编程入门"
 date:   2023-11-03
 tags: [游戏,编程,入门,Python,PYTHON]
 comments: true

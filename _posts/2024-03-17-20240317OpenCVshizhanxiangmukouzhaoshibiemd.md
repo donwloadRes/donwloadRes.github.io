@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV实战项目：口罩识别"
+title: "OpenCV实战项目口罩识别"
 date:   2023-03-03
 tags: [口罩,佩戴,模型,实时,识别]
 comments: true

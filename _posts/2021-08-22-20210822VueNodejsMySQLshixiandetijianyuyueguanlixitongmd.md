@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue+Node.js+MySQL 实现的体检预约管理系统"
+title: "VueNodejsMySQL 实现的体检预约管理系统"
 date:   2021-12-11
 tags: [js,数据库,预约,Vue,Node]
 comments: true

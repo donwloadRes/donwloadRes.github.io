@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为OD机试真题-字符串重传排列2023"
+title: "华为OD机试真题字符串重传排列2023"
 date:   2023-12-24
 tags: [OD,机试,应聘者,华为,真题]
 comments: true

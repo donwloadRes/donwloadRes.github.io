@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BusHound 7.04版本 串口监控软件"
+title: "BusHound 704版本 串口监控软件"
 date:   2022-12-14
 tags: [串口,BusHound,监控,软件,7.04]
 comments: true

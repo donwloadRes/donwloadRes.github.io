@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XCOM免费串口助手 - 大学生最爱"
+title: "XCOM免费串口助手  大学生最爱"
 date:   2020-12-11
 tags: [串口,XCOM,调试,助手,学生]
 comments: true

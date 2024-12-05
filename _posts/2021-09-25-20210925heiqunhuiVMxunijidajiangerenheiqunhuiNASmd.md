@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【黑群晖】VM虚拟机搭建个人黑群晖NAS"
+title: "黑群晖VM虚拟机搭建个人黑群晖NAS"
 date:   2023-08-26
 tags: [虚拟机,黑群晖,NAS,VM,搭建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA程序设计报告（图书管理系统）"
+title: "JAVA程序设计报告图书管理系统"
 date:   2023-04-13
 tags: [JAVA,软件系统,报告,程序设计,答辩]
 comments: true

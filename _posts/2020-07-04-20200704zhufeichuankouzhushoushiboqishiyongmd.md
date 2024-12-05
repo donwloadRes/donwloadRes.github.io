@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "逐飞串口助手-示波器使用"
+title: "逐飞串口助手示波器使用"
 date:   2024-09-22
 tags: [串口,逐飞,示波器,助手,文件]
 comments: true

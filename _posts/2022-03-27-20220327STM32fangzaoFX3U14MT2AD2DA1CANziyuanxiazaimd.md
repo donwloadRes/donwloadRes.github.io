@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32仿造FX3U-14MT-2AD2DA1CAN资源下载"
+title: "STM32仿造FX3U14MT2AD2DA1CAN资源下载"
 date:   2024-10-29
 tags: [STM32,FX3U,PCB,文件,仿造]
 comments: true

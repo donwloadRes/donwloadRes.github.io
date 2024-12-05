@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3天速成QGIS第3讲：练习资源"
+title: "3天速成QGIS第3讲练习资源"
 date:   2024-04-24
 tags: [QGIS,练习,资源,your,com]
 comments: true

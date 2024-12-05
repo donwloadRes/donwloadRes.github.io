@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.4 安装包下载"
+title: "ArcGIS 104 安装包下载"
 date:   2021-12-30
 tags: [ArcGIS,安装包,10.4,安装,下载]
 comments: true

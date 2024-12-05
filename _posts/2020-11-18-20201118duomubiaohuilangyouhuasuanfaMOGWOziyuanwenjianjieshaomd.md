@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标灰狼优化算法(MOGWO)资源文件介绍"
+title: "多目标灰狼优化算法MOGWO资源文件介绍"
 date:   2024-08-16
 tags: [算法,MOGWO,灰狼,优化,示例]
 comments: true

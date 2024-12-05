@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nvm-下载、安装、使用"
+title: "nvm下载安装使用"
 date:   2020-06-30
 tags: [nvm,NVM,安装,bash,Node]
 comments: true

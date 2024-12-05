@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++使用MFC操作EXCEL文件 创建+编辑+保存 详解及源代码"
+title: "VC使用MFC操作EXCEL文件 创建编辑保存 详解及源代码"
 date:   2021-04-20
 tags: [EXCEL,文件,源代码,C++,MFC]
 comments: true

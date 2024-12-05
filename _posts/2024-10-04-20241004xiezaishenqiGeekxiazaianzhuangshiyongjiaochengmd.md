@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卸载神器——Geek 下载安装使用教程"
+title: "卸载神器Geek 下载安装使用教程"
 date:   2020-12-07
 tags: [卸载,Geek,软件,残留,清理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF-100题：天天练习，学习"
+title: "CTF100题天天练习学习"
 date:   2024-02-18
 tags: [CTF,100,练习,题目,解题]
 comments: true

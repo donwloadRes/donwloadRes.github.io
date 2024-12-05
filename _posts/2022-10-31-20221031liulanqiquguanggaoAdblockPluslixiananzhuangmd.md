@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浏览器去广告（Adblock Plus离线安装）"
+title: "浏览器去广告Adblock Plus离线安装"
 date:   2020-03-17
 tags: [浏览器,离线,广告,拦截,Adblock]
 comments: true

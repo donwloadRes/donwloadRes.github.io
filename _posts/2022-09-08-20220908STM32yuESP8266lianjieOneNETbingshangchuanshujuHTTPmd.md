@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32与ESP8266连接OneNET并上传数据（HTTP）"
+title: "STM32与ESP8266连接OneNET并上传数据HTTP"
 date:   2024-07-10
 tags: [ESP8266,STM32,OneNET,上传,HTTP]
 comments: true

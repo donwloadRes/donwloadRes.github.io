@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winspool.drv 易语言劫持EXE软件源码（API Hook）"
+title: "Winspooldrv 易语言劫持EXE软件源码API Hook"
 date:   2020-05-03
 tags: [源码,EXE,劫持,易语言,软件]
 comments: true

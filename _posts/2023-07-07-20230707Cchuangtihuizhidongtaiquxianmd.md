@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#窗体绘制动态曲线"
+title: "C窗体绘制动态曲线"
 date:   2023-12-20
 tags: [个点,曲线,C#,动态,窗体]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb技术实现图书信息管理系统（超详细）- 适用于各大高校课设答辩"
+title: "JavaWeb技术实现图书信息管理系统超详细 适用于各大高校课设答辩"
 date:   2024-01-30
 tags: [图书,数据库,信息管理系统,JavaWeb,信息]
 comments: true

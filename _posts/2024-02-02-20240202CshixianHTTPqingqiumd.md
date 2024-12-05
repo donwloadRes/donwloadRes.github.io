@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现HTTP请求"
+title: "C实现HTTP请求"
 date:   2021-03-11
 tags: [curl,HTTP,请求,C++,easy]
 comments: true

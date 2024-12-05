@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELL ME4012-ME4024-ME4084 详细调试文档与控制器恢复出厂方法"
+title: "DELL ME4012ME4024ME4084 详细调试文档与控制器恢复出厂方法"
 date:   2021-02-23
 tags: [调试,文档,DELL,出厂,设备]
 comments: true

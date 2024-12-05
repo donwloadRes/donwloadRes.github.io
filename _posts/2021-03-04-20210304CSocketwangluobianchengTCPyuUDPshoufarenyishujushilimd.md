@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket网络编程：TCP与UDP收发任意数据示例"
+title: "C Socket网络编程TCP与UDP收发任意数据示例"
 date:   2020-05-26
 tags: [示例,TCP,收发,UDP,数据]
 comments: true

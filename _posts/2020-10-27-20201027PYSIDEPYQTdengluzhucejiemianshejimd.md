@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PYSIDE-PYQT 登录注册界面设计"
+title: "PYSIDEPYQT 登录注册界面设计"
 date:   2023-03-02
 tags: [界面,数据库,登录,注册,跳转]
 comments: true

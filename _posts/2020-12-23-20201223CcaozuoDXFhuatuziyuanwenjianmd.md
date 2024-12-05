@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 操作 DXF 画图资源文件"
+title: "C 操作 DXF 画图资源文件"
 date:   2023-07-28
 tags: [DXF,文件,操作,C#,读取]
 comments: true

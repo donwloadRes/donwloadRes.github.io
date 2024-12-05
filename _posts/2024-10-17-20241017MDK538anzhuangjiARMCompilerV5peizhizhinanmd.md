@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK5.38 安装及 ARM Compiler V5 配置指南"
+title: "MDK538 安装及 ARM Compiler V5 配置指南"
 date:   2021-07-09
 tags: [ARM,Compiler,V5,安装,MDK5.38]
 comments: true

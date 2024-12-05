@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UltraISO 9.6 绿色单文件版"
+title: "UltraISO 96 绿色单文件版"
 date:   2024-09-06
 tags: [文件,UltraISO,ISO,映像,绿色]
 comments: true

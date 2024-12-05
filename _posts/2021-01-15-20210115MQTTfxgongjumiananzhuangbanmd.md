@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT.fx 工具免安装版"
+title: "MQTTfx 工具免安装版"
 date:   2020-05-24
 tags: [MQTT,fx,安装版,工具,下载]
 comments: true

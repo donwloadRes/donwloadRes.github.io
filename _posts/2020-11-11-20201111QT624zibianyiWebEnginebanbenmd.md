@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 6.2.4 自编译 WebEngine 版本"
+title: "QT 624 自编译 WebEngine 版本"
 date:   2024-09-24
 tags: [编译,QT,WebEngine,Python,--]
 comments: true

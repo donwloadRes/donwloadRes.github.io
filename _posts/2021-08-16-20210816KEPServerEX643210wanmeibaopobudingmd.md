@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEPServerEX-6.4.321.0 完美爆破补丁"
+title: "KEPServerEX643210 完美爆破补丁"
 date:   2022-07-08
 tags: [补丁,KEPServerEX,6.4,321.0,爆破]
 comments: true

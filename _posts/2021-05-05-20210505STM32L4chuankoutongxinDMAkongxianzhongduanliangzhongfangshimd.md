@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4 串口通信(DMA+空闲中断)（两种方式）"
+title: "STM32L4 串口通信DMA空闲中断两种方式"
 date:   2021-04-08
 tags: [STM32L4,DMA,串口,空闲,开发者]
 comments: true

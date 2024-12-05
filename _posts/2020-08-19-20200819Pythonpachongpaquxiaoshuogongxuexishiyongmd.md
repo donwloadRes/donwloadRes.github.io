@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫爬取小说（供学习使用）"
+title: "Python爬虫爬取小说供学习使用"
 date:   2023-03-20
 tags: [Python,爬虫,小说,爬取,脚本]
 comments: true

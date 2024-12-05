@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILSVRC2012_devkit_t12.tar.gz 说明文档"
+title: "ILSVRC2012devkitt12targz 说明文档"
 date:   2024-01-02
 tags: [ILSVRC2012,devkit,t12,tar,gz]
 comments: true

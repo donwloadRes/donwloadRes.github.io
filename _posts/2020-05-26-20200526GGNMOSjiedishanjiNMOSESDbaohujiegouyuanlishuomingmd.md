@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GGNMOS（接地栅极NMOS）ESD保护结构原理说明"
+title: "GGNMOS接地栅极NMOSESD保护结构原理说明"
 date:   2024-09-08
 tags: [GGNMOS,ESD,栅极,接地,NMOS]
 comments: true

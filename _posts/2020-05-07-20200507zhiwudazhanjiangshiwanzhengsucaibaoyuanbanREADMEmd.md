@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸完整素材包(原版) README"
+title: "植物大战僵尸完整素材包原版 README"
 date:   2022-06-01
 tags: [游戏,素材,僵尸,原版,植物]
 comments: true

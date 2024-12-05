@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stable Diffusion 基础教程 - 必备大模型（持续更新）"
+title: "Stable Diffusion 基础教程  必备大模型持续更新"
 date:   2024-02-23
 tags: [模型,Stable,Diffusion,基础教程,教程]
 comments: true

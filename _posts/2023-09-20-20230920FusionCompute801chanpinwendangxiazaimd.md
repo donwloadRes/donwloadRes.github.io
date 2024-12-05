@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FusionCompute 8.0.1 产品文档下载"
+title: "FusionCompute 801 产品文档下载"
 date:   2023-11-02
 tags: [文档,FusionCompute,8.0,PDF,下载]
 comments: true

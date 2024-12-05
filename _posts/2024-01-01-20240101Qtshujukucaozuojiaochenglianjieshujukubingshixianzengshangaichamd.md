@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt数据库操作教程：连接数据库并实现增删改查"
+title: "Qt数据库操作教程连接数据库并实现增删改查"
 date:   2022-02-14
 tags: [数据库,Qt,教程,操作,文件]
 comments: true

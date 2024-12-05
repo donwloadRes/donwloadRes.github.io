@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(包教会)配置Yolov5环境实战指南"
+title: "包教会配置Yolov5环境实战指南"
 date:   2022-07-26
 tags: [Yolov5,CUDA,环境,配置,cuDNN]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典C# WinForm实例资源下载"
+title: "经典C WinForm实例资源下载"
 date:   2020-02-24
 tags: [实例,C#,WinForm,代码,开发者]
 comments: true

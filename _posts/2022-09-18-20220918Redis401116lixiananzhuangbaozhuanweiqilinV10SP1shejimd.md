@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 4.0.11-16 离线安装包 - 专为麒麟V10SP1设计"
+title: "Redis 401116 离线安装包  专为麒麟V10SP1设计"
 date:   2022-12-12
 tags: [Redis,V10SP1,安装包,离线,麒麟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIS数据修复 - 三次样条插值法"
+title: "AIS数据修复  三次样条插值法"
 date:   2022-07-27
 tags: [数据,AIS,样条,修复,插值法]
 comments: true

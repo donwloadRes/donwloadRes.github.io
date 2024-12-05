@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 64位插件管理器和Compare插件下载"
+title: "Notepad 64位插件管理器和Compare插件下载"
 date:   2021-07-28
 tags: [插件,Notepad,++,Compare,下载]
 comments: true

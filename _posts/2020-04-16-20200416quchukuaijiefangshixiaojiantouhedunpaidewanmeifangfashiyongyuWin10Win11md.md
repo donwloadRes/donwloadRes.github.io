@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "去除快捷方式小箭头和盾牌的完美方法（适用于Win10-Win11）"
+title: "去除快捷方式小箭头和盾牌的完美方法适用于Win10Win11"
 date:   2024-05-08
 tags: [快捷方式,Windows,图标,Shell,Icons]
 comments: true

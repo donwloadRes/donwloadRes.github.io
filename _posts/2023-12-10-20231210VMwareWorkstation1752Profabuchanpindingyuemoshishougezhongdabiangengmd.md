@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 17.5.2 Pro 发布，产品订阅模式首个重大变更"
+title: "VMware Workstation 1752 Pro 发布产品订阅模式首个重大变更"
 date:   2023-12-19
 tags: [VMware,Workstation,Pro,2024,订阅]
 comments: true

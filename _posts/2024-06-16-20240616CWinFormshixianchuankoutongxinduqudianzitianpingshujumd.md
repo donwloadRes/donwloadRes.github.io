@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 实现串口通信读取电子天平数据"
+title: "C WinForm 实现串口通信读取电子天平数据"
 date:   2022-05-26
 tags: [串口,电子天平,读取,称重,程序]
 comments: true

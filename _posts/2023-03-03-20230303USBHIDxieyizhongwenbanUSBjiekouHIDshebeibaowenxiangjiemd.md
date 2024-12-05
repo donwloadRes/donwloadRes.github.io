@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB HID协议中文版：USB接口HID设备报文详解"
+title: "USB HID协议中文版USB接口HID设备报文详解"
 date:   2020-09-11
 tags: [HID,USB,设备,报文,描述符]
 comments: true

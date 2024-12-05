@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10使用虚拟机实现软路由功能并让宿主机连接上网（Openwrt-LEDE）"
+title: "Windows10使用虚拟机实现软路由功能并让宿主机连接上网OpenwrtLEDE"
 date:   2022-04-23
 tags: [路由,虚拟机,Openwrt,Windows10,宿主机]
 comments: true

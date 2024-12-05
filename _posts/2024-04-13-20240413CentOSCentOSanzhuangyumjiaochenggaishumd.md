@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【CentOS】CentOS安装yum教程概述"
+title: "CentOSCentOS安装yum教程概述"
 date:   2021-10-27
 tags: [yum,rpm,el7,--,CentOS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "异或加密算法实现Python（含图形化界面GUI）"
+title: "异或加密算法实现Python含图形化界面GUI"
 date:   2024-08-13
 tags: [密钥,解密,加密,文件,Python]
 comments: true

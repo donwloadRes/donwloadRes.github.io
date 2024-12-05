@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSCAD详细使用教程(中文)"
+title: "PSCAD详细使用教程中文"
 date:   2024-08-31
 tags: [PSCAD,教程,详细,使用,仿真]
 comments: true

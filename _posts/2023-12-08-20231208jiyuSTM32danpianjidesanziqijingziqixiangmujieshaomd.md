@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的三子棋（井字棋）项目介绍"
+title: "基于STM32单片机的三子棋井字棋项目介绍"
 date:   2024-11-26
 tags: [单片机,LED,游戏,STM32,矩阵]
 comments: true

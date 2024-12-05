@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity2021下使用奥丁插件（Odin 3.0.4）亲测好用"
+title: "Unity2021下使用奥丁插件Odin 304亲测好用"
 date:   2020-07-14
 tags: [Odin,插件,Unity2021,编辑器,3.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能芯片技术白皮书2018（中文版）下载"
+title: "人工智能芯片技术白皮书2018中文版下载"
 date:   2024-03-25
 tags: [AI,芯片,白皮书,技术,人工智能]
 comments: true

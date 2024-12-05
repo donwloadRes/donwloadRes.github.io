@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AndroidStudio登录注册(Sqlite)示例项目"
+title: "AndroidStudio登录注册Sqlite示例项目"
 date:   2023-09-16
 tags: [注册,SQLite,登录,数据库,AndroidStudio]
 comments: true

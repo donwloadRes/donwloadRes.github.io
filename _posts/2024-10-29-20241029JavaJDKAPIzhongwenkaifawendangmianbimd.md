@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java JDK API 中文开发文档（免币）"
+title: "Java JDK API 中文开发文档免币"
 date:   2020-03-30
 tags: [文档,Java,API,中文,JDK]
 comments: true

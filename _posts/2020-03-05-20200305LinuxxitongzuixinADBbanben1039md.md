@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统最新ADB版本1.0.39"
+title: "Linux系统最新ADB版本1039"
 date:   2021-02-20
 tags: [ADB,adb,1.0,39,bash]
 comments: true

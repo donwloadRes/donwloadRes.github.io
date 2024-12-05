@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多智能体分组一致性仿真实例（MATLAB）"
+title: "多智能体分组一致性仿真实例MATLAB"
 date:   2022-03-02
 tags: [仿真,智能,MATLAB,分组,一致性]
 comments: true

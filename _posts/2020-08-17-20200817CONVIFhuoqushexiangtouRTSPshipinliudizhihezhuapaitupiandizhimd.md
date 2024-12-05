@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ONVIF 获取摄像头 RTSP 视频流地址和抓拍图片地址"
+title: "C ONVIF 获取摄像头 RTSP 视频流地址和抓拍图片地址"
 date:   2024-09-15
 tags: [摄像头,地址,视频流,RTSP,抓拍]
 comments: true

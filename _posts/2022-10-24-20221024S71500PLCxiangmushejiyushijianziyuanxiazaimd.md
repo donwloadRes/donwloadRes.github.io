@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500 PLC 项目设计与实践资源下载"
+title: "S71500 PLC 项目设计与实践资源下载"
 date:   2024-03-08
 tags: [S7,1500,PLC,实践,文件]
 comments: true

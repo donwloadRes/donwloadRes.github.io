@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Creator 自动缩进功能配置指南（Artistic Style版）"
+title: "Qt Creator 自动缩进功能配置指南Artistic Style版"
 date:   2023-06-13
 tags: [Qt,Creator,Artistic,Style,缩进]
 comments: true

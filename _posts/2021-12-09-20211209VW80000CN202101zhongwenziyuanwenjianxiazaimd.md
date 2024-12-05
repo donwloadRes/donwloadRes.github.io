@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VW-80000-CN-2021-01中文资源文件下载"
+title: "VW80000CN202101中文资源文件下载"
 date:   2020-10-30
 tags: [VW,80000,文件,版本,CN]
 comments: true

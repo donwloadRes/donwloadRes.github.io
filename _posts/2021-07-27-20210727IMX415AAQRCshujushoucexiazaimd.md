@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX415-AAQR-C 数据手册下载"
+title: "IMX415AAQRC 数据手册下载"
 date:   2024-04-29
 tags: [IMX415,AAQR,下载,文件,文件大小]
 comments: true

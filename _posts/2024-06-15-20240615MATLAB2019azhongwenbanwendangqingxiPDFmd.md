@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 2019a 中文版文档（清晰PDF）"
+title: "MATLAB 2019a 中文版文档清晰PDF"
 date:   2023-12-09
 tags: [MATLAB,2019a,中文版,文档,PDF]
 comments: true

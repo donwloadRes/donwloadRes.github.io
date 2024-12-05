@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10系统下CorelDraw X4.X5.X6菜单为白色的解决办法"
+title: "Windows 10系统下CorelDraw X4X5X6菜单为白色的解决办法"
 date:   2023-09-14
 tags: [CorelDraw,菜单栏,Windows,X5,X6]
 comments: true

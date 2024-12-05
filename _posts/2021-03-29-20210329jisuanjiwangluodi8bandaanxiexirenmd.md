@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络第8版答案（谢希仁）"
+title: "计算机网络第8版答案谢希仁"
 date:   2022-03-06
 tags: [计算机网络,希仁,答案,学习,资源]
 comments: true

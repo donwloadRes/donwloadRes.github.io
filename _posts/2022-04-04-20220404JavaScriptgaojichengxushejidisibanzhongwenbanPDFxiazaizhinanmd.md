@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript高级程序设计（第四版）中文版 PDF 下载指南"
+title: "JavaScript高级程序设计第四版中文版 PDF 下载指南"
 date:   2020-02-08
 tags: [JavaScript,高级,PDF,程序设计,第四版]
 comments: true

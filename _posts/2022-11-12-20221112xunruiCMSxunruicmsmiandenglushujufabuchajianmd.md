@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迅睿CMS(xunruicms)免登陆数据发布插件"
+title: "迅睿CMSxunruicms免登陆数据发布插件"
 date:   2021-06-18
 tags: [插件,发布,数据,迅睿,CMS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "铭特读卡器MT318-626V2.0通讯协议资源下载"
+title: "铭特读卡器MT318626V20通讯协议资源下载"
 date:   2023-02-12
 tags: [铭特,读卡器,MT318,626V2.0,通讯]
 comments: true

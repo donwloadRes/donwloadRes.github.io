@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++基于VS开发的ModbusTCP源程序资源包"
+title: "CC基于VS开发的ModbusTCP源程序资源包"
 date:   2020-02-01
 tags: [ModbusTCP,源程序,C++,开发,VS]
 comments: true

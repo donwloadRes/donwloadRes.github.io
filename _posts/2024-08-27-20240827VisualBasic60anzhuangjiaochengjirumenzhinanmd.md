@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Basic 6.0 安装教程及入门指南"
+title: "Visual Basic 60 安装教程及入门指南"
 date:   2024-09-12
 tags: [安装,教程,VB6.0,入门,Visual]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子大型堆垛机程序 - 真实运行案例"
+title: "西门子大型堆垛机程序  真实运行案例"
 date:   2020-03-02
 tags: [堆垛,程序,仓储,西门子,物流]
 comments: true

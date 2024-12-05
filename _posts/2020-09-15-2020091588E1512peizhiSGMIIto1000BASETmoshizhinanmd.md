@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "88E1512配置SGMII to 1000BASE-T模式指南"
+title: "88E1512配置SGMII to 1000BASET模式指南"
 date:   2023-01-09
 tags: [88E1512,配置,文件,SGMII,1000BASE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python + OpenCV 实现生成逼真的车牌号码图片"
+title: "Python  OpenCV 实现生成逼真的车牌号码图片"
 date:   2021-01-31
 tags: [车牌,生成,Python,OpenCV,车牌号码]
 comments: true

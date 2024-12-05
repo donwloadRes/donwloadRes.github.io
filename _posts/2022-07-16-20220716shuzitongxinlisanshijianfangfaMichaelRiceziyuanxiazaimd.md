@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信：离散时间方法 - Michael Rice 资源下载"
+title: "数字通信离散时间方法  Michael Rice 资源下载"
 date:   2021-01-30
 tags: [数字通信,离散,Michael,Rice,下载]
 comments: true

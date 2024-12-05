@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUAA 2020级数据结构与程序设计》期中考试资源"
+title: "BUAA 2020级数据结构与程序设计期中考试资源"
 date:   2023-05-15
 tags: [数据结构,试卷,期中考试,2020,标识符]
 comments: true

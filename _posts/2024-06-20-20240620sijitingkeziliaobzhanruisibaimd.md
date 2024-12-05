@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四级听课资料（b站瑞斯拜）"
+title: "四级听课资料b站瑞斯拜"
 date:   2020-12-18
 tags: [四级,资料,学习,瑞斯,考试]
 comments: true

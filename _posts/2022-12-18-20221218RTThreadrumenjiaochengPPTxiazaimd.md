@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread入门教程PPT下载"
+title: "RTThread入门教程PPT下载"
 date:   2024-03-09
 tags: [RT,Thread,PPT,入门教程,操作系统]
 comments: true

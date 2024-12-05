@@ -1,6 +1,44 @@
 ---
 layout: post
-title: "Python 3.8 安装 dlib 包教程"
+title: "Python 38 安装 dlib 包教程
+date   20200618
+tags dlib安装Python教程38
+comments true
+author admin
+
+ Python 38 安装 dlib 包教程
+
+本仓库提供了一个详细的教程帮助你在 Python 38 环境中安装 dlib 包该教程经过亲测有效适用于 Windows 系统
+
+ 内容概述
+
+1 环境准备确保你的 Python 38 环境已经正确配置
+2 下载 dlib 包提供了 dlib 包的下载链接和提取码
+3 修改包格式根据你的系统架构修改 dlib 包的格式
+4 安装 dlib 包通过命令行使用 pip 安装修改后的 dlib 包
+5 验证安装检查 dlib 包是否成功安装
+
+ 使用步骤
+
+ 第一步环境准备
+确保你已经安装了 Python 38并且配置了相应的环境变量
+
+ 第二步下载 dlib 包
+从提供的链接中下载 dlib 包并使用提取码提取文件
+
+ 第三步修改包格式
+根据你的系统架构32位或64位将下载的 dlib 包格式修改为对应的格式
+
+ 第四步安装 dlib 包
+打开命令行工具使用以下命令安装 dlib 包
+bash
+pip install dlib192199cp38cp38winamd64whl
+
+
+ 第五步验证安装
+安装完成后可以通过以下命令验证 dlib 是否成功安装
+bash
+python c import dlib printdlibversion"
 date:   2020-06-18
 tags: [dlib,安装,Python,教程,3.8]
 comments: true

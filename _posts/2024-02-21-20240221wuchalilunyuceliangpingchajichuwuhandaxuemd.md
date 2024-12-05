@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "误差理论与测量平差基础(武汉大学)"
+title: "误差理论与测量平差基础武汉大学"
 date:   2021-09-28
 tags: [测量,平差,数据处理,理论,武汉大学]
 comments: true

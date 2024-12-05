@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointCloud_B-Spline：将3D点云拟合到曲线"
+title: "PointCloudBSpline将3D点云拟合到曲线"
 date:   2021-01-05
 tags: [拟合,点云,3D,PointCloud,Spline]
 comments: true

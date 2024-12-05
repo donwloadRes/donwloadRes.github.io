@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：按要素裁剪历史影像"
+title: "CC工具箱使用指南按要素裁剪历史影像"
 date:   2023-03-01
 tags: [影像,图层,导出,图片,CC]
 comments: true

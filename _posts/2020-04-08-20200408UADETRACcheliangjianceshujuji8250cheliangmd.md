@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UA-DETRAC 车辆检测数据集 - 8250车辆"
+title: "UADETRAC 车辆检测数据集  8250车辆"
 date:   2022-10-17
 tags: [车辆,数据,检测,UA,DETRAC]
 comments: true

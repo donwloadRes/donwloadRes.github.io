@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP、NISP二级、CISE题库最新版（2024年1月更新）"
+title: "CISPNISP二级CISE题库最新版2024年1月更新"
 date:   2021-08-17
 tags: [题库,考试,备考,NISP,CISE]
 comments: true

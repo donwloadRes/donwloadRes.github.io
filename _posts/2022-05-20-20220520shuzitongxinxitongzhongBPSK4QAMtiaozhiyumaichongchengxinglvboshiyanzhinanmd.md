@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信系统中BPSK-4-QAM调制与脉冲成型滤波实验指南"
+title: "数字通信系统中BPSK4QAM调制与脉冲成型滤波实验指南"
 date:   2024-09-18
 tags: [调制,QAM,LABVIEW,数字通信,滤波器]
 comments: true

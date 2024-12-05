@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infoteam openPCS 7.3.1 安装包及编程手册"
+title: "Infoteam openPCS 731 安装包及编程手册"
 date:   2021-04-26
 tags: [openPCS,编程,7.3,安装,OpenPCS]
 comments: true

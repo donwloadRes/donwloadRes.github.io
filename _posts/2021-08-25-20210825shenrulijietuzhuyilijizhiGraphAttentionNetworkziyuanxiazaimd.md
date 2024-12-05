@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解图注意力机制（Graph Attention Network）资源下载"
+title: "深入理解图注意力机制Graph Attention Network资源下载"
 date:   2020-09-06
 tags: [注意力,资源,机制,文件,Graph]
 comments: true

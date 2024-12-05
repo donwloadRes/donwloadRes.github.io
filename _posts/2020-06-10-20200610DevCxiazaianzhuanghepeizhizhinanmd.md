@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 下载安装和配置指南"
+title: "DevC 下载安装和配置指南"
 date:   2022-02-12
 tags: [C++,Dev,安装,安装包,点击]
 comments: true

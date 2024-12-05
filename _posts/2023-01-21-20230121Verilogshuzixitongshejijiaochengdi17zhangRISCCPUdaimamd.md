@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog数字系统设计教程第17章RISC-CPU代码"
+title: "Verilog数字系统设计教程第17章RISCCPU代码"
 date:   2022-03-13
 tags: [RISC,CPU,代码,Verilog,feature]
 comments: true

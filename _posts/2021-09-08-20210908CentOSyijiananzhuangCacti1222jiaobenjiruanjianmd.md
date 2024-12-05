@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 一键安装 Cacti 1.2.22 脚本及软件"
+title: "CentOS 一键安装 Cacti 1222 脚本及软件"
 date:   2024-10-16
 tags: [Cacti,22,1.2,cacti,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2017 使用C#和WPF结合MaterialDesign实现工控界面资源"
+title: "Visual Studio 2017 使用C和WPF结合MaterialDesign实现工控界面资源"
 date:   2024-04-04
 tags: [WPF,Visual,Studio,C#,界面]
 comments: true

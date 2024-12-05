@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN PRO-PRO FD USB2CAN固件实现"
+title: "PCAN PROPRO FD USB2CAN固件实现"
 date:   2023-10-09
 tags: [固件,PCAN,FD,PRO,View]
 comments: true

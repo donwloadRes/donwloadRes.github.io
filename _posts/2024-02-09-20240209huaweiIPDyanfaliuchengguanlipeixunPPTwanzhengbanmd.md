@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为IPD研发流程管理培训PPT(完整版)"
+title: "华为IPD研发流程管理培训PPT完整版"
 date:   2021-09-15
 tags: [IPD,PDT,PPT,流程,模式]
 comments: true

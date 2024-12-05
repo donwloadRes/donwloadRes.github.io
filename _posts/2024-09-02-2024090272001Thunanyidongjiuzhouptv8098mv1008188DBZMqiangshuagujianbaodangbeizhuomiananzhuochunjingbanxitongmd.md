@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "72-001-T-湖南移动-九州ptv8098-mv100-8188-DBZM-强刷固件包 当贝桌面安卓纯净版系统"
+title: "72001T湖南移动九州ptv8098mv1008188DBZM强刷固件包 当贝桌面安卓纯净版系统"
 date:   2022-02-02
 tags: [固件,桌面,ptv8098,mv100,8188]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10安装.NET Framework 3.5错误代码0x80070002指南"
+title: "解决Win10安装NET Framework 35错误代码0x80070002指南"
 date:   2023-07-04
 tags: [NET,Framework,3.5,安装,sxs]
 comments: true

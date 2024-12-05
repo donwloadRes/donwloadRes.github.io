@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT4.8.6串口通信助手"
+title: "QT486串口通信助手"
 date:   2024-03-05
 tags: [串口,QT4.8,通信,QT,虚拟]
 comments: true

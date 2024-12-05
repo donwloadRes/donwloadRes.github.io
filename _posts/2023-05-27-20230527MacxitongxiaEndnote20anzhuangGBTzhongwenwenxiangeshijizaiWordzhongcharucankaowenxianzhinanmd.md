@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac系统下Endnote 20安装GB-T中文文献格式及在Word中插入参考文献指南"
+title: "Mac系统下Endnote 20安装GBT中文文献格式及在Word中插入参考文献指南"
 date:   2022-12-26
 tags: [GB,Endnote,Word,20,参考文献]
 comments: true

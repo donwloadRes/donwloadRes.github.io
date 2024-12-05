@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.11 离线安装依赖包"
+title: "Python 311 离线安装依赖包"
 date:   2022-05-05
 tags: [Python,安装,3.11,依赖,离线]
 comments: true

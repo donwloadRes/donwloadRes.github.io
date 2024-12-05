@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟IC设计教父--拉扎维--CMOS集成电路设计（中文版本，新的版本）"
+title: "模拟IC设计教父拉扎维CMOS集成电路设计中文版本新的版本"
 date:   2024-07-06
 tags: [IC,--,模拟,版本,设计]
 comments: true

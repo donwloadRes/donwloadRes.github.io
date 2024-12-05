@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt FFMpeg RTSP-RTMP 拉流资源文件"
+title: "Qt FFMpeg RTSPRTMP 拉流资源文件"
 date:   2023-03-20
 tags: [Qt,文件,RTSP,RTMP,FFMpeg]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qi充电协议1.2.3中文翻译"
+title: "Qi充电协议123中文翻译"
 date:   2024-09-08
 tags: [充电,无线,文档,Qi,中文翻译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析（北大讲义）"
+title: "数学分析北大讲义"
 date:   2023-06-09
 tags: [数学分析,讲义,北大,修读,PDF]
 comments: true

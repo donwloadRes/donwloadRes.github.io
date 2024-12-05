@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS-7.5-x86-64-DVD-1804.iso系统文件"
+title: "CentOS75x8664DVD1804iso系统文件"
 date:   2024-07-30
 tags: [CentOS,7.5,服务器,x86,64]
 comments: true

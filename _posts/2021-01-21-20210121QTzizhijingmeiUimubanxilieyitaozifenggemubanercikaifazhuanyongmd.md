@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT自制精美Ui模板系列（一）桃子风格模板 - 二次开发专用"
+title: "QT自制精美Ui模板系列一桃子风格模板  二次开发专用"
 date:   2024-04-13
 tags: [模板,二次开发,QT,桃子,控件]
 comments: true

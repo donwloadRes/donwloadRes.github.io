@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 窗体中控件的大小自适应"
+title: "C WinForm 窗体中控件的大小自适应"
 date:   2022-12-10
 tags: [控件,窗体,适应,WinForm,C#]
 comments: true

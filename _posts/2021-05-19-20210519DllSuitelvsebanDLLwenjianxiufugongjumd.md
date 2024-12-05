@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DllSuite绿色版 - DLL文件修复工具"
+title: "DllSuite绿色版  DLL文件修复工具"
 date:   2021-07-14
 tags: [DLL,DllSuite,文件,修复,扫描]
 comments: true

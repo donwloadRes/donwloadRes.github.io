@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用exe程序并运行"
+title: "C调用exe程序并运行"
 date:   2022-01-25
 tags: [exe,调用,C#,NET,文档]
 comments: true

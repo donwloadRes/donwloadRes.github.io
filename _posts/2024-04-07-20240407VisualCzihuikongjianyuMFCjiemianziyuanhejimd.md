@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 自绘控件与 MFC 界面资源合集"
+title: "Visual C 自绘控件与 MFC 界面资源合集"
 date:   2020-05-27
 tags: [自绘,界面,源码,C++,控件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：含SOP配电网重构"
+title: "MATLAB代码含SOP配电网重构"
 date:   2020-12-30
 tags: [配电网,MATLAB,重构,代码,工具箱]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200CN系列PLC解密软件（串口）"
+title: "西门子S7200CN系列PLC解密软件串口"
 date:   2022-11-19
 tags: [PLC,S7,200CN,西门子,软件]
 comments: true

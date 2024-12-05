@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "让你的Windows-Linux玩上Switch"
+title: "让你的WindowsLinux玩上Switch"
 date:   2020-08-23
 tags: [模拟器,游戏,Switch,用户,Ryujinx]
 comments: true

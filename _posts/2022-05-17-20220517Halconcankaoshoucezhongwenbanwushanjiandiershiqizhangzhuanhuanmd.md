@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon参考手册中文版无删减 - 第二十七章：转换"
+title: "Halcon参考手册中文版无删减  第二十七章转换"
 date:   2021-09-04
 tags: [Halcon,坐标,图像处理,删减,系统]
 comments: true

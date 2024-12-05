@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浮点数表示方法1 - 资源下载"
+title: "浮点数表示方法1  资源下载"
 date:   2020-02-04
 tags: [浮点数,IEEE,754,表示,方法]
 comments: true

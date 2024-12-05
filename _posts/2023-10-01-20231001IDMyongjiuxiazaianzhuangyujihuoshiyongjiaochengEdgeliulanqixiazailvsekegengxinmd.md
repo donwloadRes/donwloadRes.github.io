@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM永久下载安装与激活+使用教程+Edge浏览器下载（绿色可更新）"
+title: "IDM永久下载安装与激活使用教程Edge浏览器下载绿色可更新"
 date:   2023-06-17
 tags: [IDM,Edge,下载,浏览器,激活]
 comments: true

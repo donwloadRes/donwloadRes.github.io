@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOv8-v5和ByteTrack的多目标检测计数与跟踪系统"
+title: "基于YOLOv8v5和ByteTrack的多目标检测计数与跟踪系统"
 date:   2023-10-14
 tags: [ByteTrack,YOLOv8,目标,跟踪,检测]
 comments: true

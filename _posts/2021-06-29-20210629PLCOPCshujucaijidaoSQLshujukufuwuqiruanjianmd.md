@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC-OPC数据采集到SQL数据库服务器软件"
+title: "PLCOPC数据采集到SQL数据库服务器软件"
 date:   2022-09-14
 tags: [数据库,采集,数据,云端,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisionMaster 4.2.0 二次开发案例程序"
+title: "VisionMaster 420 二次开发案例程序"
 date:   2021-11-11
 tags: [二次开发,VisionMaster,Group,模块,获取]
 comments: true

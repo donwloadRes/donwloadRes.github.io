@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 入门与实践——资源大全"
+title: "Python 入门与实践资源大全"
 date:   2021-08-05
 tags: [Python,代码,字符串,任务,随机数]
 comments: true

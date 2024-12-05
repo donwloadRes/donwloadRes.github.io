@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2010-2019 运行库下载"
+title: "Visual Studio 20102019 运行库下载"
 date:   2021-07-11
 tags: [运行库,Visual,Studio,vcredist,x86]
 comments: true

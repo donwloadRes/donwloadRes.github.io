@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 多个窗体间数据交互指南"
+title: "C WinForm 多个窗体间数据交互指南"
 date:   2022-01-05
 tags: [窗体,DataPassed,数据,传递数据,事件]
 comments: true

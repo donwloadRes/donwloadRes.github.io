@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sqli-labs 下载与安装指南（Windows）"
+title: "sqlilabs 下载与安装指南Windows"
 date:   2023-08-27
 tags: [labs,sqli,安装,MySQL,Windows]
 comments: true

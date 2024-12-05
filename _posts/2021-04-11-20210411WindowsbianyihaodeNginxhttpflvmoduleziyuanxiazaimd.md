@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows编译好的Nginx-http-flv-module资源下载"
+title: "Windows编译好的Nginxhttpflvmodule资源下载"
 date:   2024-06-13
 tags: [Nginx,http,flv,Windows,module]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传统基于逗留相位原理的窗函数反求法-非线性调频（NLFM）信号设计，脉冲压缩"
+title: "传统基于逗留相位原理的窗函数反求法非线性调频NLFM信号设计脉冲压缩"
 date:   2022-05-28
 tags: [信号,NLFM,调频,函数,设计]
 comments: true

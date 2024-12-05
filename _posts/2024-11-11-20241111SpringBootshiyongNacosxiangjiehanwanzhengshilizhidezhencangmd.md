@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot 使用 Nacos 详解含完整示例（值得珍藏）"
+title: "Spring Boot 使用 Nacos 详解含完整示例值得珍藏"
 date:   2024-07-11
 tags: [Nacos,Spring,Boot,配置管理,示例]
 comments: true

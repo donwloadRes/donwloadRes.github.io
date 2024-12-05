@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL(Oracle)教程（PPT版）下载"
+title: "SQLOracle教程PPT版下载"
 date:   2024-10-25
 tags: [SQL,PPT,教程,Oracle,下载]
 comments: true

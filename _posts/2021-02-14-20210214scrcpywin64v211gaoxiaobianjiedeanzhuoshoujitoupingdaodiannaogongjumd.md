@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "scrcpy-win64-v2.1.1：高效便捷的安卓手机投屏到电脑工具"
+title: "scrcpywin64v211高效便捷的安卓手机投屏到电脑工具"
 date:   2023-05-08
 tags: [安卓,scrcpy,电脑,v2.1,win64]
 comments: true

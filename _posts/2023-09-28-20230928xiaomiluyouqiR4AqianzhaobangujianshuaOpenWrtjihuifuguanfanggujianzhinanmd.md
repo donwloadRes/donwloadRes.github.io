@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米路由器R4A(千兆版)固件刷OpenWrt及恢复官方固件指南"
+title: "小米路由器R4A千兆版固件刷OpenWrt及恢复官方固件指南"
 date:   2021-04-21
 tags: [固件,路由器,OpenWrt,Breed,刷入]
 comments: true

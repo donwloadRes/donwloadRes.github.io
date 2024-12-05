@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 调试规范版本 1.0-STABLE 下载仓库"
+title: "RISCV 调试规范版本 10STABLE 下载仓库"
 date:   2023-02-17
 tags: [RISC,兼容,版本,1.0,STABLE]
 comments: true

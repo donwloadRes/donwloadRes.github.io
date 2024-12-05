@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC62368-1 安全标准资源下载"
+title: "IEC623681 安全标准资源下载"
 date:   2020-04-22
 tags: [标准,IEC62368,安全,下载,IEC]
 comments: true

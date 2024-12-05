@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源AAC码流分析器（程序+源代码）"
+title: "开源AAC码流分析器程序源代码"
 date:   2023-02-21
 tags: [AAC,码流,源代码,开源,程序]
 comments: true

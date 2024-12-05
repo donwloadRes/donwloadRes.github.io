@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SKN青龙3.0说明书下载"
+title: "SKN青龙30说明书下载"
 date:   2020-07-17
 tags: [SKN,3.0,说明书,青龙,下载]
 comments: true

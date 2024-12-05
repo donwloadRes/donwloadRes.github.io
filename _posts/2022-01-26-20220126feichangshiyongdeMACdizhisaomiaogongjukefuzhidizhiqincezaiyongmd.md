@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常实用的MAC地址扫描工具（可复制地址）亲测在用"
+title: "非常实用的MAC地址扫描工具可复制地址亲测在用"
 date:   2020-08-11
 tags: [MAC,地址,工具,扫描,复制]
 comments: true

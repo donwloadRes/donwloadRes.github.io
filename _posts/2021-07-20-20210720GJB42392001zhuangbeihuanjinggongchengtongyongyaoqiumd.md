@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 4239-2001 装备环境工程通用要求"
+title: "GJB 42392001 装备环境工程通用要求"
 date:   2023-02-11
 tags: [装备,环境工程,环境,2001,标准]
 comments: true

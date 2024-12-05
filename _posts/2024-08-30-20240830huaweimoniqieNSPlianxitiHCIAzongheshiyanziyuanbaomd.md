@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为模拟器eNSP练习题-HCIA综合实验资源包"
+title: "华为模拟器eNSP练习题HCIA综合实验资源包"
 date:   2023-12-12
 tags: [eNSP,实验,学习者,配置,华为]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：UI管理_显示隐藏Tab、Group、Control等控件"
+title: "ArcGIS Pro二次开发UI管理显示隐藏TabGroupControl等控件"
 date:   2022-11-01
 tags: [控件,ArcGIS,Pro,UI,教程]
 comments: true

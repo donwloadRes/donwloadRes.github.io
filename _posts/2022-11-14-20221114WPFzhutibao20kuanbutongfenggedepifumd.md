@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF主题包（20款不同风格的皮肤）"
+title: "WPF主题包20款不同风格的皮肤"
 date:   2023-05-06
 tags: [WPF,主题,文件,资源,示例]
 comments: true

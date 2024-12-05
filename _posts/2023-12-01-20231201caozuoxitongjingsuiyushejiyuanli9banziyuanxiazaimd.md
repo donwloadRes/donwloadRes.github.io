@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统:精髓与设计原理9版 资源下载"
+title: "操作系统精髓与设计原理9版 资源下载"
 date:   2022-05-20
 tags: [操作系统,精髓,资源,epub,设计]
 comments: true

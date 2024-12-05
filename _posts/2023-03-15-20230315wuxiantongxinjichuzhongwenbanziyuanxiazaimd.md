@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信基础（中文版）资源下载"
+title: "无线通信基础中文版资源下载"
 date:   2024-01-24
 tags: [无线通信,习题,读者,理解,所学]
 comments: true

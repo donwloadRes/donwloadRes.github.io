@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果CMS采集插件 - 萌芽采集插件Pro"
+title: "苹果CMS采集插件  萌芽采集插件Pro"
 date:   2021-03-09
 tags: [插件,采集,CMS,v10,苹果]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI DSI Specification V2.1 下载仓库"
+title: "MIPI DSI Specification V21 下载仓库"
 date:   2024-01-18
 tags: [MIPI,DSI,Specification,V2.1,下载]
 comments: true

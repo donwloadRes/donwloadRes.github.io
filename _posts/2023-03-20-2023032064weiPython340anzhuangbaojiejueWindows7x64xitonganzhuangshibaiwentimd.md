@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【64位 Python 3.4.0 安装包】解决Windows 7 x64系统安装失败问题"
+title: "64位 Python 340 安装包解决Windows 7 x64系统安装失败问题"
 date:   2020-02-23
 tags: [Python,安装,编程,64,安装程序]
 comments: true

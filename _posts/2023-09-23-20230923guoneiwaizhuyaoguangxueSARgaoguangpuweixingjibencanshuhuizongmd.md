@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国内外主要光学、SAR、高光谱卫星基本参数汇总"
+title: "国内外主要光学SAR高光谱卫星基本参数汇总"
 date:   2023-07-03
 tags: [卫星,汇总,光谱,分辨率,SAR]
 comments: true

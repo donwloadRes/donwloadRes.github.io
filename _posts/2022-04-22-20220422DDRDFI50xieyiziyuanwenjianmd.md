@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR DFI 5.0 协议资源文件"
+title: "DDR DFI 50 协议资源文件"
 date:   2022-08-08
 tags: [DFI,文件,5.0,PHY,DDR]
 comments: true

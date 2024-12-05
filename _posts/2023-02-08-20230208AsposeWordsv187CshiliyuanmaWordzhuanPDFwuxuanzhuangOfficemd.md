@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspose.Words v18.7 C#示例源码：Word转PDF（无需安装Office）"
+title: "AsposeWords v187 C示例源码Word转PDF无需安装Office"
 date:   2020-05-09
 tags: [Word,文档,Aspose,Words,PDF]
 comments: true

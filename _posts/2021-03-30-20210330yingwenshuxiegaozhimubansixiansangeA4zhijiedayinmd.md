@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英文书写稿纸模板（四线三格，A4直接打印）"
+title: "英文书写稿纸模板四线三格A4直接打印"
 date:   2023-12-05
 tags: [书写,A4,英文,打印,稿纸]
 comments: true

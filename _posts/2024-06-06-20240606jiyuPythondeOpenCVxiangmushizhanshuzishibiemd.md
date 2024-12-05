@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的OpenCV项目实战——数字识别"
+title: "基于Python的OpenCV项目实战数字识别"
 date:   2021-08-31
 tags: [图像,轮廓,模板,数字,灰度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码实现：光储充一体化微网V2G协调优化调度策略"
+title: "MATLAB代码实现光储充一体化微网V2G协调优化调度策略"
 date:   2020-11-06
 tags: [微网,V2G,优化,MATLAB,光储充]
 comments: true

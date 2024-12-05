@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100份互联网+创青春商业资源合集"
+title: "100份互联网创青春商业资源合集"
 date:   2023-02-07
 tags: [计划书,doc,创业,PDF,模板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 基于 SQL Server 的网络与本地数据库连接教程"
+title: "C Winform 基于 SQL Server 的网络与本地数据库连接教程"
 date:   2024-02-18
 tags: [数据库,SQL,Server,C#,连接]
 comments: true

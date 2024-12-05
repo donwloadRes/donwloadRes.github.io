@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring+SpringMVC+MyBatis整合工程实例 完整版源码（带注释）"
+title: "SpringSpringMVCMyBatis整合工程实例 完整版源码带注释"
 date:   2023-10-02
 tags: [IDEA,项目,IntelliJ,注释,源码]
 comments: true

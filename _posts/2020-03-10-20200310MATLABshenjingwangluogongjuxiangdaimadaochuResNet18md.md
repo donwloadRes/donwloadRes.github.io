@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB神经网络工具箱代码导出 - ResNet18"
+title: "MATLAB神经网络工具箱代码导出  ResNet18"
 date:   2021-10-12
 tags: [MATLAB,224,网络,图像,ResNet]
 comments: true

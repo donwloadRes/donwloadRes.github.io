@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC 7.2、7.3、7.5 硬狗及 Sim_EKB_Install_2018 资源分享"
+title: "WinCC 727375 硬狗及 SimEKBInstall2018 资源分享"
 date:   2022-05-13
 tags: [资源,Sim,EKB,Install,2018]
 comments: true

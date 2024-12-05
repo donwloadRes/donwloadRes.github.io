@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "租房管理系统 JAVA+Vue+SpringBoot+MySQL"
+title: "租房管理系统 JAVAVueSpringBootMySQL"
 date:   2021-07-31
 tags: [租客,屋主,Vue,SpringBoot,js]
 comments: true

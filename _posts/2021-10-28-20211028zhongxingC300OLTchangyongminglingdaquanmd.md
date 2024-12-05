@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴C300-OLT常用命令大全"
+title: "中兴C300OLT常用命令大全"
 date:   2022-06-24
 tags: [C300,OLT,中兴,常用命令,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP 零距离泛目录程序源码：优化 SEO"
+title: "PHP 零距离泛目录程序源码优化 SEO"
 date:   2023-07-18
 tags: [源码,PHP,开源,教程,零距离]
 comments: true

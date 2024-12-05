@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 6.0 下载指南"
+title: "VMware ESXi 60 下载指南"
 date:   2023-05-19
 tags: [VMware,ESXi,百度网,6.0,下载]
 comments: true

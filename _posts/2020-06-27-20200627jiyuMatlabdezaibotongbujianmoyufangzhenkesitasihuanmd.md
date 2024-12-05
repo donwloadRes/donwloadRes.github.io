@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab的载波同步建模与仿真（科斯塔斯环）"
+title: "基于Matlab的载波同步建模与仿真科斯塔斯环"
 date:   2023-09-22
 tags: [斯环,科斯塔,载波,Matlab,同步]
 comments: true

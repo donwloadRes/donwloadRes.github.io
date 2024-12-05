@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信-信号保研面试真题集锦"
+title: "通信信号保研面试真题集锦"
 date:   2021-07-26
 tags: [面试,文档,保研,声学,仅供参考]
 comments: true

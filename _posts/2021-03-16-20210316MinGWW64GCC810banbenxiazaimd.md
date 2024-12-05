@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-W64 GCC-8.1.0 版本下载"
+title: "MinGWW64 GCC810 版本下载"
 date:   2023-10-25
 tags: [MinGW,8.1,W64,x86,64]
 comments: true

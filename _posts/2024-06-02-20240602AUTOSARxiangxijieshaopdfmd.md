@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR详细介绍.pdf"
+title: "AUTOSAR详细介绍pdf"
 date:   2022-10-03
 tags: [AUTOSAR,pdf,软件,文档,开发者]
 comments: true

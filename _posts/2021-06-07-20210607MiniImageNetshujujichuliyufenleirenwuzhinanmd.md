@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini-ImageNet数据集处理与分类任务指南"
+title: "MiniImageNet数据集处理与分类任务指南"
 date:   2020-12-26
 tags: [csv,标签,ImageNet,数据,文件]
 comments: true

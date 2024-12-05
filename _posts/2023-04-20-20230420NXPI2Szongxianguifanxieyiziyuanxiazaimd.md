@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP-I2S总线规范协议资源下载"
+title: "NXPI2S总线规范协议资源下载"
 date:   2023-12-23
 tags: [NXP,I2S,总线,规范,文件]
 comments: true

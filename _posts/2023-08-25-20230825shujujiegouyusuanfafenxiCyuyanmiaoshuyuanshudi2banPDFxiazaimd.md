@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法分析：C语言描述（原书第2版） PDF 下载"
+title: "数据结构与算法分析C语言描述原书第2版 PDF 下载"
 date:   2023-08-14
 tags: [算法,数据结构,分析,C语言,原书]
 comments: true

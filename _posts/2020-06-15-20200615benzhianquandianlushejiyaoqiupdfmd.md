@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本质安全电路设计要求.pdf"
+title: "本质安全电路设计要求pdf"
 date:   2021-12-19
 tags: [安全,本质,设计,电路设计,电路]
 comments: true

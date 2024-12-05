@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac 磁盘空间不足清理指南：2024年最新超省力方法分享"
+title: "Mac 磁盘空间不足清理指南2024年最新超省力方法分享"
 date:   2024-07-06
 tags: [Mac,磁盘空间,清理,删除,文件]
 comments: true

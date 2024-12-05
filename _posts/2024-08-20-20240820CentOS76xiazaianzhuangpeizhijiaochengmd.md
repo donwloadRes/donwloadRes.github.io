@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 下载安装配置教程"
+title: "CentOS 76 下载安装配置教程"
 date:   2022-03-13
 tags: [CentOS,7.6,虚拟机,安装,配置]
 comments: true

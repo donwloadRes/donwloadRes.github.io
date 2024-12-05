@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVAWEB学生信息管理系统(升级版)保姆级教程"
+title: "JAVAWEB学生信息管理系统升级版保姆级教程"
 date:   2020-07-30
 tags: [信息管理系统,数据库,JAVAWEB,学生,项目]
 comments: true

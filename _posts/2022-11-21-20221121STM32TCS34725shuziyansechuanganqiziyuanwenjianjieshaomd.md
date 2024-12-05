@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_TCS34725数字颜色传感器资源文件介绍"
+title: "STM32TCS34725数字颜色传感器资源文件介绍"
 date:   2020-09-25
 tags: [STM32,传感器,颜色,示例,连接]
 comments: true

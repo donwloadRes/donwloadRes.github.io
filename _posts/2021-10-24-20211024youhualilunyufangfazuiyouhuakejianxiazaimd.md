@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优化理论与方法（最优化）课件下载"
+title: "优化理论与方法最优化课件下载"
 date:   2023-10-09
 tags: [最优化,优化,算法,课件,理论]
 comments: true

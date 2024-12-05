@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "busybox-1.35.0版本，arm64架构，64位安卓可用"
+title: "busybox1350版本arm64架构64位安卓可用"
 date:   2020-12-30
 tags: [busybox,64,位安卓,1.35,arm64]
 comments: true

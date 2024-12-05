@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "食谱、菜谱大全数据库（数据集）"
+title: "食谱菜谱大全数据库数据集"
 date:   2021-12-16
 tags: [数据,烹饪,菜谱,食谱,菜品]
 comments: true

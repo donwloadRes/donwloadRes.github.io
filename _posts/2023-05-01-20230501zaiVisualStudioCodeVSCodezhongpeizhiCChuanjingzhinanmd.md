@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Visual Studio Code (VSCode) 中配置C-C++环境指南"
+title: "在Visual Studio Code VSCode 中配置CC环境指南"
 date:   2022-11-28
 tags: [C++,Visual,Studio,VSCode,Code]
 comments: true

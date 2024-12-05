@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-C++ KNN算法识别印刷数字资源下载"
+title: "OpenCVC KNN算法识别印刷数字资源下载"
 date:   2023-03-17
 tags: [OpenCV,KNN,文件,4.5,Visual]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 年 9 月青少年软件编程 (Python) 等级考试三级资源"
+title: "2022 年 9 月青少年软件编程 Python 等级考试三级资源"
 date:   2022-05-26
 tags: [2022,Python,10,答案,编程]
 comments: true

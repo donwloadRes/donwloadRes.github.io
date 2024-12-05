@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验设计（DOE）应用指南 - 闵亚能著（2011年2月出版）"
+title: "实验设计DOE应用指南  闵亚能著2011年2月出版"
 date:   2021-05-13
 tags: [DOE,实验设计,版本,指南,应用]
 comments: true

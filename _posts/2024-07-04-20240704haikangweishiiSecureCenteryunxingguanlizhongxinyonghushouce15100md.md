@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视iSecure Center运行管理中心用户手册1.5.100"
+title: "海康威视iSecure Center运行管理中心用户手册15100"
 date:   2021-05-29
 tags: [管理中心,威视,海康,本手册,运行]
 comments: true

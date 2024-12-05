@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ROS与STM32通信教程】"
+title: "ROS与STM32通信教程"
 date:   2022-01-01
 tags: [ROS,STM32,串口,教程,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百图解码支付系统设计与实现》PDF文档合集"
+title: "百图解码支付系统设计与实现PDF文档合集"
 date:   2020-07-15
 tags: [支付,系统,合集,文档,PDF]
 comments: true

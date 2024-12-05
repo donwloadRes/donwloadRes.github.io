@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.3p1 for BCLinux Euler & OpenEuler 22.03 版本"
+title: "OpenSSH 93p1 for BCLinux Euler  OpenEuler 2203 版本"
 date:   2022-11-08
 tags: [OpenSSH,9.3,p1,sshd,SSH]
 comments: true

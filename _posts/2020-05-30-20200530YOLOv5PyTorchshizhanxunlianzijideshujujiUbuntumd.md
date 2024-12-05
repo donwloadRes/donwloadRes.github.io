@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5(PyTorch)实战：训练自己的数据集(Ubuntu)"
+title: "YOLOv5PyTorch实战训练自己的数据集Ubuntu"
 date:   2023-09-24
 tags: [YOLOv5,训练,Ubuntu,课程,检测]
 comments: true

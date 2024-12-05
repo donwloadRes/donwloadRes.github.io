@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕ROG枪神6 Plus-G733ZW i9-12900原装出厂系统恢复文件"
+title: "ASUS华硕ROG枪神6 PlusG733ZW i912900原装出厂系统恢复文件"
 date:   2024-06-06
 tags: [华硕,ASUS,ROG,枪神,出厂]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现K-means聚类算法"
+title: "Python实现Kmeans聚类算法"
 date:   2021-01-10
 tags: [聚类,means,Python,算法,代码]
 comments: true

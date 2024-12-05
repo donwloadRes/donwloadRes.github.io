@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键关闭微软自动杀毒软件Windows Defender软件：Defender Control v1.4"
+title: "一键关闭微软自动杀毒软件Windows Defender软件Defender Control v14"
 date:   2020-09-19
 tags: [Windows,Defender,关闭,一键,软件]
 comments: true

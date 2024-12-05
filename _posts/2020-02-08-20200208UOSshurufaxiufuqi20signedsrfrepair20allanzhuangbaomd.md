@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UOS输入法修复器2.0 - signed-srf-repair-2.0-all 安装包"
+title: "UOS输入法修复器20  signedsrfrepair20all 安装包"
 date:   2022-04-06
 tags: [输入法,UOS,2.0,安装包,signed]
 comments: true

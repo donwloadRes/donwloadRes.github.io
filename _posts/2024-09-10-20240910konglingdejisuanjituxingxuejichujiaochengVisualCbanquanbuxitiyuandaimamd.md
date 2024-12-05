@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孔令德计算机图形学基础教程Visual C++版》全部习题源代码"
+title: "孔令德计算机图形学基础教程Visual C版全部习题源代码"
 date:   2022-09-13
 tags: [图形学,源代码,习题,Visual,C++]
 comments: true

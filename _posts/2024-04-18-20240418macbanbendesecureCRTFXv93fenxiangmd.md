@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mac版本的secureCRT&FX-v9.3分享"
+title: "mac版本的secureCRTFXv93分享"
 date:   2021-11-15
 tags: [v9.3,mac,SecureCRT,SecureFX,文件传输]
 comments: true

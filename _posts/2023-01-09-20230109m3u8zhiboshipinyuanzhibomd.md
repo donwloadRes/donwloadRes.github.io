@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "m3u8直播视频源【直播】"
+title: "m3u8直播视频源直播"
 date:   2023-12-17
 tags: [直播,解析,技术,M3U8,视频]
 comments: true

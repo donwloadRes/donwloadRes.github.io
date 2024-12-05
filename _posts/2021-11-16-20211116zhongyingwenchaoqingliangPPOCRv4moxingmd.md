@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中英文超轻量PP-OCRv4模型"
+title: "中英文超轻量PPOCRv4模型"
 date:   2021-12-03
 tags: [模型,PP,OCRv4,OCR,轻量]
 comments: true

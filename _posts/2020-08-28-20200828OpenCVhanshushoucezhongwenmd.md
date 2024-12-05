@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 函数手册（中文）"
+title: "OpenCV 函数手册中文"
 date:   2020-03-07
 tags: [手册,OpenCV,函数,中文,OPENCV]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像MTF计算工具 - MATLAB开发"
+title: "图像MTF计算工具  MATLAB开发"
 date:   2024-11-01
 tags: [图像,MTF,代码,MATLAB,计算]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo联想小新 Air 13IWL(81J8)笔记本原厂Win10系统镜像"
+title: "Lenovo联想小新 Air 13IWL81J8笔记本原厂Win10系统镜像"
 date:   2023-02-03
 tags: [镜像,小新,Lenovo,U盘,原厂]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 5th 英文高清版 (带完整目录) 下载仓库"
+title: "C Primer 5th 英文高清版 带完整目录 下载仓库"
 date:   2021-04-12
 tags: [C++,高清,视图,目录,学习]
 comments: true

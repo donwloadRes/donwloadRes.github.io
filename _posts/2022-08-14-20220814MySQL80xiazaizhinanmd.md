@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 下载指南"
+title: "MySQL 80 下载指南"
 date:   2023-08-05
 tags: [8.0,MySQL,下载,安装包,云盘]
 comments: true

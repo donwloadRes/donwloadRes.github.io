@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OptiSystem v7.0 资源下载"
+title: "OptiSystem v70 资源下载"
 date:   2021-03-18
 tags: [OptiSystem,仿真,v7.0,光纤通信,系统]
 comments: true

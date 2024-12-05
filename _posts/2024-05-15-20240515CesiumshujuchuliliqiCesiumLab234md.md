@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium数据处理利器：CesiumLab 2.3.4"
+title: "Cesium数据处理利器CesiumLab 234"
 date:   2022-04-18
 tags: [Cesium,CesiumLab,数据处理,2.3,三维]
 comments: true

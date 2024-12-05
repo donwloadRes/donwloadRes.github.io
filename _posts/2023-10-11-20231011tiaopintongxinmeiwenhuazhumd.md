@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跳频通信》梅文华著"
+title: "跳频通信梅文华著"
 date:   2022-01-13
 tags: [跳频,通信,技术,文华,无线通信]
 comments: true

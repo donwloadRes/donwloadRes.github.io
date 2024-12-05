@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT6.1.2 下载和安装教程"
+title: "QT612 下载和安装教程"
 date:   2020-04-08
 tags: [下载,QT,安装,QT6.1,镜像]
 comments: true

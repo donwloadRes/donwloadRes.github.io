@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法 第4版-谢路云译-带完整书签"
+title: "算法 第4版谢路云译带完整书签"
 date:   2024-04-23
 tags: [算法,查找,排序,字符串,有向图]
 comments: true

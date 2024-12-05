@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决‘adb‘ 不是内部或外部命令，也不是可运行的程序或批处理文件"
+title: "解决adb 不是内部或外部命令也不是可运行的程序或批处理文件"
 date:   2020-10-02
 tags: [adb,exe,文件,环境变量,路径]
 comments: true

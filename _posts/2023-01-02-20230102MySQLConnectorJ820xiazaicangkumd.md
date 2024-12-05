@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-J 8.2.0 下载仓库"
+title: "MySQL ConnectorJ 820 下载仓库"
 date:   2020-02-10
 tags: [MySQL,8.2,Connector,mysql,connector]
 comments: true

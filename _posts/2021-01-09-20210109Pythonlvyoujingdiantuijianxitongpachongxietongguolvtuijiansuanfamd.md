@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python旅游景点推荐系统：爬虫+协同过滤推荐算法"
+title: "Python旅游景点推荐系统爬虫协同过滤推荐算法"
 date:   2022-11-02
 tags: [推荐,旅游景点,Python,算法,Flask]
 comments: true

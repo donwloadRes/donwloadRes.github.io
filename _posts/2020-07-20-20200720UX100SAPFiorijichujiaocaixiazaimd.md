@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UX100-SAP Fiori 基础教材下载"
+title: "UX100SAP Fiori 基础教材下载"
 date:   2021-07-24
 tags: [SAP,Fiori,UX100,教材,文件]
 comments: true

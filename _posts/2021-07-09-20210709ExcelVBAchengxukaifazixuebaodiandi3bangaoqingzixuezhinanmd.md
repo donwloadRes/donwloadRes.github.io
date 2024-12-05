@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel VBA程序开发自学宝典(第3版) - 高清自学指南"
+title: "Excel VBA程序开发自学宝典第3版  高清自学指南"
 date:   2020-10-24
 tags: [VBA,Excel,程序开发,自学,宝典]
 comments: true

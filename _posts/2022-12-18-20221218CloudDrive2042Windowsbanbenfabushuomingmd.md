@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CloudDrive2 0.4.2 Windows 版本发布说明"
+title: "CloudDrive2 042 Windows 版本发布说明"
 date:   2020-04-01
 tags: [CloudDrive2,修复,版本,0.4,文件]
 comments: true

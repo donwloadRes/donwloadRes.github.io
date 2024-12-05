@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 17.x 降版本到 16.6 转换工具"
+title: "Cadence Allegro 17x 降版本到 166 转换工具"
 date:   2023-07-05
 tags: [版本,16.6,降级,工具,转换]
 comments: true

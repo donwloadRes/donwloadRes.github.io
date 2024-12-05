@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.0下载安装与Hello World教程"
+title: "Quartus II 130下载安装与Hello World教程"
 date:   2023-09-06
 tags: [Quartus,II,13.0,安装,仿真]
 comments: true

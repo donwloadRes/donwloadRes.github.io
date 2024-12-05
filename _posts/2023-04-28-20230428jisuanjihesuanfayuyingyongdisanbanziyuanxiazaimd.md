@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算几何--算法与应用(第三版) 资源下载"
+title: "计算几何算法与应用第三版 资源下载"
 date:   2023-09-16
 tags: [算法,应用,及其,几何,剖分]
 comments: true

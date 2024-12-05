@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线瓦片地图下载软件2024-01-25+build"
+title: "离线瓦片地图下载软件20240125build"
 date:   2021-02-18
 tags: [下载,离线,瓦片,地图,软件]
 comments: true

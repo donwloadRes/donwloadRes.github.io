@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PB03蓝牙5.2二次开发资料"
+title: "PB03蓝牙52二次开发资料"
 date:   2024-05-02
 tags: [蓝牙,二次开发,5.2,PB03,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# AES加密解密小工具"
+title: "C AES加密解密小工具"
 date:   2020-12-14
 tags: [加密,解密,AES,C#,ECB]
 comments: true

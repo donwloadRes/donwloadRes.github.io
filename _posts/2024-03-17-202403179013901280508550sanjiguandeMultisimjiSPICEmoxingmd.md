@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9013, 9012, 8050, 8550 三极管的 Multisim 及 SPICE 模型"
+title: "9013 9012 8050 8550 三极管的 Multisim 及 SPICE 模型"
 date:   2023-04-11
 tags: [Multisim,模型,SPICE,三极管,文件]
 comments: true

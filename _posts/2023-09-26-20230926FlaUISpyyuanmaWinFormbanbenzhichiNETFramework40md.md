@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlaUISpy 源码 - WinForm 版本（支持 .NET Framework 4.0）"
+title: "FlaUISpy 源码  WinForm 版本支持 NET Framework 40"
 date:   2020-11-16
 tags: [FlaUISpy,NET,源码,WinForm,Framework]
 comments: true

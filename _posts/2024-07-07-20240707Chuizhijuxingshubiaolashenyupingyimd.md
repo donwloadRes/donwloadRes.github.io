@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 绘制矩形：鼠标拉伸与平移"
+title: "C 绘制矩形鼠标拉伸与平移"
 date:   2021-12-24
 tags: [鼠标,C#,源码,拉伸,矩形]
 comments: true

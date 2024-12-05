@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATS的AUTOSAR-ATS-RTE.pdf 资源介绍"
+title: "ATS的AUTOSARATSRTEpdf 资源介绍"
 date:   2024-01-11
 tags: [ATS,AutoSAR,AUTOSAR,RTE,pdf]
 comments: true

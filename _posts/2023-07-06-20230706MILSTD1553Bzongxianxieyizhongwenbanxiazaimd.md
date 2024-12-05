@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIL-STD-1553B总线协议（中文版）下载"
+title: "MILSTD1553B总线协议中文版下载"
 date:   2020-03-13
 tags: [MIL,STD,1553B,总线,文件]
 comments: true

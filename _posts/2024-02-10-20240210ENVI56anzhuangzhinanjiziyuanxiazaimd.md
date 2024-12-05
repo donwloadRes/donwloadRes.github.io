@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI 5.6 安装指南及资源下载"
+title: "ENVI 56 安装指南及资源下载"
 date:   2024-07-08
 tags: [ENVI,5.6,安装,指南,安装包]
 comments: true

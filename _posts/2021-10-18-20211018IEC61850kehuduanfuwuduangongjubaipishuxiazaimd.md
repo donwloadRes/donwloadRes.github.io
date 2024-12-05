@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61850客户端、服务端工具白皮书下载"
+title: "IEC61850客户端服务端工具白皮书下载"
 date:   2023-08-31
 tags: [IEC61850,白皮书,服务端,客户端,下载]
 comments: true

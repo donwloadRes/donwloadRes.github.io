@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB1310A-2004设计评审资源下载"
+title: "GJB1310A2004设计评审资源下载"
 date:   2023-08-07
 tags: [评审,军工,设计,GJB1310A,2004]
 comments: true

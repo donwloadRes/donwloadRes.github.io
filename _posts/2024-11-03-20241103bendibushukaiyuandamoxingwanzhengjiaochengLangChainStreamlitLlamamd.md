@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本地部署开源大模型完整教程：LangChain + Streamlit + Llama"
+title: "本地部署开源大模型完整教程LangChain  Streamlit  Llama"
 date:   2022-03-28
 tags: [教程,LangChain,Streamlit,模型,Llama]
 comments: true

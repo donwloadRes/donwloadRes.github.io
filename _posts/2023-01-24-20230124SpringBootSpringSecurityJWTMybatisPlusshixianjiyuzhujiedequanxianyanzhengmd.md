@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+SpringSecurity+JWT+MybatisPlus 实现基于注解的权限验证"
+title: "SpringBootSpringSecurityJWTMybatisPlus 实现基于注解的权限验证"
 date:   2023-08-10
 tags: [权限,Spring,注解,JWT,Boot]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu离线安装g++指南"
+title: "Ubuntu离线安装g指南"
 date:   2024-02-04
 tags: [++,安装,7.5,deb,离线]
 comments: true

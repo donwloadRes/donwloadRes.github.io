@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaFX + MySQL 学生信息管理系统"
+title: "JavaFX  MySQL 学生信息管理系统"
 date:   2024-08-21
 tags: [JavaFX,MySQL,数据库,git,your]
 comments: true

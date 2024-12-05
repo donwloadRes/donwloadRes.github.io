@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现CIE1931色彩空间xyRGB转换及舌图马蹄图"
+title: "C实现CIE1931色彩空间xyRGB转换及舌图马蹄图"
 date:   2021-11-04
 tags: [CIE1931,色彩,舌图,马蹄,空间]
 comments: true

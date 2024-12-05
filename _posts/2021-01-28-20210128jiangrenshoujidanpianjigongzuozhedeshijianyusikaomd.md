@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "匠人手记：单片机工作者的实践与思考"
+title: "匠人手记单片机工作者的实践与思考"
 date:   2020-07-18
 tags: [单片机,手记,匠人,工作者,思考]
 comments: true

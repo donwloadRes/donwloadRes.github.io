@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024最新版—Brup_Suite安装配置教程"
+title: "2024最新版BrupSuite安装配置教程"
 date:   2022-07-22
 tags: [Suite,Brup,Web,教程,测试]
 comments: true

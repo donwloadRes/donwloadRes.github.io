@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 蓝牙通讯 WinForm 示例代码"
+title: "C 蓝牙通讯 WinForm 示例代码"
 date:   2021-12-01
 tags: [蓝牙,WinForm,代码,通讯,示例]
 comments: true

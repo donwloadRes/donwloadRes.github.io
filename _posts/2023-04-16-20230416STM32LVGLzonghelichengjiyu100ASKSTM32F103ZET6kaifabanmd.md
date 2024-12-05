@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 LVGL综合例程：基于100ASK-STM32-F103ZET6开发板"
+title: "STM32 LVGL综合例程基于100ASKSTM32F103ZET6开发板"
 date:   2022-09-01
 tags: [例程,LVGL,开发板,STM32,100ASK]
 comments: true

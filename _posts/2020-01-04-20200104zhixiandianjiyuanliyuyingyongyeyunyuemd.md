@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直线电机原理与应用－叶云岳"
+title: "直线电机原理与应用叶云岳"
 date:   2023-11-20
 tags: [电机,直线,原理,叶云岳,应用]
 comments: true

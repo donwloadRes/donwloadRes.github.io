@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Cloud Alibaba项目文档 - 最全版本"
+title: "Spring Cloud Alibaba项目文档  最全版本"
 date:   2021-04-01
 tags: [Spring,Cloud,Alibaba,文档,服务]
 comments: true

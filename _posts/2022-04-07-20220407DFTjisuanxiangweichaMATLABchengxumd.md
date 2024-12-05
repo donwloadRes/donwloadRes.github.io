@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DFT计算相位差（MATLAB程序）"
+title: "DFT计算相位差MATLAB程序"
 date:   2023-04-09
 tags: [相位差,MATLAB,DFT,信号,程序]
 comments: true

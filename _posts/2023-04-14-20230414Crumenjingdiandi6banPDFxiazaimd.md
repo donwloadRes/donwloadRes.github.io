@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典第6版PDF下载"
+title: "C入门经典第6版PDF下载"
 date:   2020-04-14
 tags: [C#,入门,下载,PDF,经典]
 comments: true

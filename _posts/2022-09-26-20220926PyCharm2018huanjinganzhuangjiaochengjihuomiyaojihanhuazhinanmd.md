@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 2018环境安装教程、激活密钥及汉化指南"
+title: "PyCharm 2018环境安装教程激活密钥及汉化指南"
 date:   2023-03-10
 tags: [PyCharm,激活,2018,安装,密钥]
 comments: true

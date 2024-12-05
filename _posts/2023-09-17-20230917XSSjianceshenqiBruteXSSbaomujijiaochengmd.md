@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XSS 检测神器：BruteXSS 保姆级教程"
+title: "XSS 检测神器BruteXSS 保姆级教程"
 date:   2023-10-12
 tags: [XSS,漏洞,BruteXSS,用户,应用程序]
 comments: true

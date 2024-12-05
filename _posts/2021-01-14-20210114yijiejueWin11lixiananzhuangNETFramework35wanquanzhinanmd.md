@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【已解决】Win11离线安装.NET Framework 3.5完全指南"
+title: "已解决Win11离线安装NET Framework 35完全指南"
 date:   2020-10-28
 tags: [NET,安装,离线,Framework,3.5]
 comments: true

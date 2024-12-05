@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE-J1772-2012美标中文版下载"
+title: "SAEJ17722012美标中文版下载"
 date:   2020-09-19
 tags: [SAE,美标,J1772,2012,电式]
 comments: true

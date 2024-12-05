@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "遥感影像处理—哨兵二号资源下载"
+title: "遥感影像处理哨兵二号资源下载"
 date:   2024-09-12
 tags: [影像,遥感,二号,哨兵,处理]
 comments: true

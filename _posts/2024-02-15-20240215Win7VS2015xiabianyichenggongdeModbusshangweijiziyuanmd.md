@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7+VS2015下编译成功的Modbus上位机资源"
+title: "Win7VS2015下编译成功的Modbus上位机资源"
 date:   2022-03-25
 tags: [Modbus,libmodbus,编译,上位,程序]
 comments: true

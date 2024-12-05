@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Part_3_Modeling_Commutation_Logic: 无刷直流电机(SBLDC)六步方波控制Simulink模型"
+title: "Part3ModelingCommutationLogic 无刷直流电机SBLDC六步方波控制Simulink模型"
 date:   2020-09-04
 tags: [模型,电机,六步,PID,控制]
 comments: true

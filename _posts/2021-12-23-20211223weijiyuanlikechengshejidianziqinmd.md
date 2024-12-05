@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微机原理课程设计——电子琴"
+title: "微机原理课程设计电子琴"
 date:   2022-03-08
 tags: [汇编语言,电子琴,课程设计,微机,编程]
 comments: true

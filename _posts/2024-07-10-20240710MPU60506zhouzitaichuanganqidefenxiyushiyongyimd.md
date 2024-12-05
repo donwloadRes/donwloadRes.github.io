@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050 6轴姿态传感器的分析与使用（一）"
+title: "MPU6050 6轴姿态传感器的分析与使用一"
 date:   2024-08-24
 tags: [MPU6050,姿态,寄存器,文档,加速度计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows x64 FFmpeg 4.2 库和头文件"
+title: "Windows x64 FFmpeg 42 库和头文件"
 date:   2020-03-03
 tags: [FFmpeg,头文件,Windows,x64,开发]
 comments: true

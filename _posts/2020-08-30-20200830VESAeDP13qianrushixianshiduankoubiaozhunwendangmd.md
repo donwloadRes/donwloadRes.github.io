@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA eDP 1.3 嵌入式显示端口标准文档"
+title: "VESA eDP 13 嵌入式显示端口标准文档"
 date:   2021-04-24
 tags: [eDP,文档,1.3,VESA,嵌入式]
 comments: true

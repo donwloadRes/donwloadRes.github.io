@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS 4.0 产品规格说明"
+title: "SAS 40 产品规格说明"
 date:   2020-01-20
 tags: [SAS,4.0,电缆,产品规格,24GBPS]
 comments: true

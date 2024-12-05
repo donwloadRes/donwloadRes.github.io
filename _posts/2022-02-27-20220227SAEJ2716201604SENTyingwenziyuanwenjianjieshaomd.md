@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2716_201604 (SENT英文) 资源文件介绍"
+title: "SAE J2716201604 SENT英文 资源文件介绍"
 date:   2023-07-20
 tags: [SENT,文件,ECU,文档,SAE]
 comments: true

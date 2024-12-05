@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡尔曼滤波C代码分析 - 基于陀螺仪滤波"
+title: "卡尔曼滤波C代码分析  基于陀螺仪滤波"
 date:   2021-05-10
 tags: [卡尔曼滤波,陀螺仪,代码,滤波,分析]
 comments: true

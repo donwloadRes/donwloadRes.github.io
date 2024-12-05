@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "九联UNT401H刷机包 - 当贝桌面纯净版系统"
+title: "九联UNT401H刷机包  当贝桌面纯净版系统"
 date:   2020-06-08
 tags: [机包,UNT401H,当贝,刷机,机顶盒]
 comments: true

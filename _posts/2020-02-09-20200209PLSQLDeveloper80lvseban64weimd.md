@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLSQL Developer 8.0 绿色版 (64位)"
+title: "PLSQL Developer 80 绿色版 64位"
 date:   2023-02-19
 tags: [数据库,Oracle,Developer,PL,SQL]
 comments: true

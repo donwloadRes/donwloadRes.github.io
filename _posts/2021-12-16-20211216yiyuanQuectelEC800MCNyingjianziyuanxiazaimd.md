@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移远Quectel-EC800M-CN硬件资源下载"
+title: "移远QuectelEC800MCN硬件资源下载"
 date:   2020-04-22
 tags: [CN,EC800M,Quectel,手册,设计]
 comments: true

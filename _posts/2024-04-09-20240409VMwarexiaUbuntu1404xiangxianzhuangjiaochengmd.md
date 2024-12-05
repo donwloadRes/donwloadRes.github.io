@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware下Ubuntu 14.04详细安装教程"
+title: "VMware下Ubuntu 1404详细安装教程"
 date:   2024-07-17
 tags: [虚拟机,安装,Ubuntu,VMware,14.04]
 comments: true

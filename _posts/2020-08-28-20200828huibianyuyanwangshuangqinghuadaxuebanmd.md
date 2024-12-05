@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言 - 王爽 清华大学版"
+title: "汇编语言  王爽 清华大学版"
 date:   2022-12-05
 tags: [汇编语言,王爽,学习,编程,学习者]
 comments: true

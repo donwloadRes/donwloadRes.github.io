@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeX 参考文献 GB-T 7714-2015 宏包"
+title: "LaTeX 参考文献 GBT 77142015 宏包"
 date:   2021-11-10
 tags: [宏包,LaTeX,2015,参考文献,文件]
 comments: true

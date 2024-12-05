@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence 17.4 画板十分钟快速入门指南"
+title: "Cadence 174 画板十分钟快速入门指南"
 date:   2024-12-01
 tags: [画板,Cadence,17.4,快速,入门]
 comments: true

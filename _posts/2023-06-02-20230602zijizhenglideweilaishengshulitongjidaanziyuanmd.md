@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自己整理的韦来生数理统计》答案资源"
+title: "自己整理的韦来生数理统计答案资源"
 date:   2020-07-28
 tags: [数理统计,答案,学习,习题,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android camera-ipc-sample"
+title: "Android cameraipcsample"
 date:   2021-03-06
 tags: [Camera,Android,ipc,sample,MultiCameraService]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跨境电商平台-OZON定价计算器"
+title: "跨境电商平台OZON定价计算器"
 date:   2020-02-05
 tags: [OZON,定价,电商,计算器,跨境]
 comments: true

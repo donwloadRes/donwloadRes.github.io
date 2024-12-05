@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF 流量包相关-流量分析(1)"
+title: "CTF 流量包相关流量分析1"
 date:   2020-12-25
 tags: [流量,flag,包中,CTF,Wireshark]
 comments: true

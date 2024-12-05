@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验：设计自己的Shell"
+title: "实验设计自己的Shell"
 date:   2023-04-25
 tags: [Shell,实验,指导书,实现,测试]
 comments: true

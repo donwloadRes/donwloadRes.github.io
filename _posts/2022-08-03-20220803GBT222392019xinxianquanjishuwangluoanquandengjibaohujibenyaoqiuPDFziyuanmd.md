@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 22239-2019 信息安全技术 网络安全等级保护基本要求 PDF资源"
+title: "GBT 222392019 信息安全技术 网络安全等级保护基本要求 PDF资源"
 date:   2022-06-08
 tags: [网络安全,信息安全,2019,PDF,信息系统]
 comments: true

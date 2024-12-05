@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现开根号的方法"
+title: "C实现开根号的方法"
 date:   2022-11-28
 tags: [根号,示例,C++,代码,运行]
 comments: true

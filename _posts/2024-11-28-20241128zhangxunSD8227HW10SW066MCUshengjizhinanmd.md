@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "掌讯SD8227 HW 1.0-SW0-6.6 MCU升级指南"
+title: "掌讯SD8227 HW 10SW066 MCU升级指南"
 date:   2021-11-12
 tags: [升级,MCU,闪存,驱动器,6.6]
 comments: true

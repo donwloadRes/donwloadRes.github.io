@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SR1-1M-34VIEW.pdf 资源文件下载"
+title: "SR11M34VIEWpdf 资源文件下载"
 date:   2024-05-12
 tags: [SR1,1M,34VIEW,pdf,文件]
 comments: true

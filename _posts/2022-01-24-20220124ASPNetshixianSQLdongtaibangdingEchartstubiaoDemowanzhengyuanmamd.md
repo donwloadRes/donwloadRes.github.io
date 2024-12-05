@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.Net实现SQL动态绑定Echarts图表Demo完整源码"
+title: "ASPNet实现SQL动态绑定Echarts图表Demo完整源码"
 date:   2021-06-06
 tags: [SQL,绑定,Echarts,图表,ASP]
 comments: true

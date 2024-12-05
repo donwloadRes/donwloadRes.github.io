@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 DMA+串口空闲中断接收不定长数据示例"
+title: "STM32F407 DMA串口空闲中断接收不定长数据示例"
 date:   2021-09-06
 tags: [串口,DMA,空闲,代码,接收]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "备战TI系列：五分钟内玩转MSP430F5529开发板几大重要功能及常用模块（基于CCS8环境下自制函数库）"
+title: "备战TI系列五分钟内玩转MSP430F5529开发板几大重要功能及常用模块基于CCS8环境下自制函数库"
 date:   2021-01-30
 tags: [开发板,MSP430F5529,函数库,TI,自制]
 comments: true

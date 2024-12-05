@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nltk.download()运行报错问题解决方案"
+title: "nltkdownload运行报错问题解决方案"
 date:   2021-09-07
 tags: [NLTK,nltk,download,下载,Corpus]
 comments: true

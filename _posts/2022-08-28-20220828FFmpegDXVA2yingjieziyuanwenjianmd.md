@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg + DXVA2 硬解资源文件"
+title: "FFmpeg  DXVA2 硬解资源文件"
 date:   2024-03-21
 tags: [解码,H264,H265,FFmpeg,文件]
 comments: true

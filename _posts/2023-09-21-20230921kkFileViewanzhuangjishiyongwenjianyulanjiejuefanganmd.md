@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kkFileView安装及使用——文件预览解决方案"
+title: "kkFileView安装及使用文件预览解决方案"
 date:   2020-08-15
 tags: [预览,kkFileView,文件,安装,版本]
 comments: true

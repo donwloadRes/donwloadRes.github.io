@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 2022.2.3 Lombok插件安装包"
+title: "IDEA 202223 Lombok插件安装包"
 date:   2022-04-05
 tags: [插件,IDEA,2022.2,Lombok,安装包]
 comments: true

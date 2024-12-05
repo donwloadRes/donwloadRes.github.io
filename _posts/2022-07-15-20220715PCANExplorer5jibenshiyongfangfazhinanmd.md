@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-Explorer 5基本使用方法指南"
+title: "PCANExplorer 5基本使用方法指南"
 date:   2021-07-23
 tags: [PCAN,Explorer,指南,功能,网络]
 comments: true

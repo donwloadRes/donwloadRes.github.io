@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019 安装 .NET Framework 3.5 资源文件介绍"
+title: "Windows Server 2019 安装 NET Framework 35 资源文件介绍"
 date:   2022-12-27
 tags: [安装,NET,Framework,3.5,文件]
 comments: true

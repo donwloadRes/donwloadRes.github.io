@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.0.0.156.qdz 开源代码资源下载"
+title: "Quartus II 1300156qdz 开源代码资源下载"
 date:   2020-02-18
 tags: [0.156,Quartus,II,13.0,qdz]
 comments: true

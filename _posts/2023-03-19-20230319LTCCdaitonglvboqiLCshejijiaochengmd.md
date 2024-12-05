@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTCC带通滤波器(LC)设计教程"
+title: "LTCC带通滤波器LC设计教程"
 date:   2024-06-02
 tags: [滤波器,LTCC,教程,设计,带通]
 comments: true

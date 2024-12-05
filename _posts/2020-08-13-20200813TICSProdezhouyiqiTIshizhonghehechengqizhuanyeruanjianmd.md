@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TICS Pro - 德州仪器(TI)时钟和合成器专业软件"
+title: "TICS Pro  德州仪器TI时钟和合成器专业软件"
 date:   2022-12-13
 tags: [时钟,德州仪器,TICS,Pro,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt重写paintEvent实现鼠标拖动绘制直线、矩形和圆"
+title: "Qt重写paintEvent实现鼠标拖动绘制直线矩形和圆"
 date:   2021-01-01
 tags: [绘制,myShape,Qt,paintEvent,图形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python项目数据：小费数据"
+title: "Python项目数据小费数据"
 date:   2022-12-14
 tags: [Python,数据,小费,字段,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform Redis 使用示例"
+title: "C Winform Redis 使用示例"
 date:   2020-02-20
 tags: [Redis,示例,Winform,C#,项目]
 comments: true

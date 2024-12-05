@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3.x 中使用 Cesium 教程及资源下载"
+title: "Vue3x 中使用 Cesium 教程及资源下载"
 date:   2023-02-20
 tags: [Cesium,Vue3,资源,npm,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CA-310使用说明书下载"
+title: "CA310使用说明书下载"
 date:   2020-12-21
 tags: [CA,310,说明书,使用,下载]
 comments: true

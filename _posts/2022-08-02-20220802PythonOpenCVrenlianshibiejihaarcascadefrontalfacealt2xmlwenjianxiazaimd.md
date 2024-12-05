@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python & OpenCV 人脸识别及 haarcascade_frontalface_alt2.xml 文件下载"
+title: "Python  OpenCV 人脸识别及 haarcascadefrontalfacealt2xml 文件下载"
 date:   2020-09-25
 tags: [haarcascade,frontalface,alt2,xml,OpenCV]
 comments: true

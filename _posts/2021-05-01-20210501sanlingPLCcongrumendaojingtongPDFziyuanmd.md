@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC从入门到精通》PDF资源"
+title: "三菱PLC从入门到精通PDF资源"
 date:   2020-03-18
 tags: [PLC,三菱,PDF,编程,学习]
 comments: true

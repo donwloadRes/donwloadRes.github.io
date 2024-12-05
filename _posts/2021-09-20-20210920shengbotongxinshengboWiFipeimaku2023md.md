@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "声波通信-声波WiFi配码库（2023）"
+title: "声波通信声波WiFi配码库2023"
 date:   2023-11-07
 tags: [声波,通信,频段,WiFi,配码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件资源：Axure RP 9 安装程序及汉化包"
+title: "软件资源Axure RP 9 安装程序及汉化包"
 date:   2020-09-02
 tags: [Axure,RP,汉化,安装程序,安装]
 comments: true

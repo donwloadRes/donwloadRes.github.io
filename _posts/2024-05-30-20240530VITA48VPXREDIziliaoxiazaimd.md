@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA 48 (VPX-REDI) 资料下载"
+title: "VITA 48 VPXREDI 资料下载"
 date:   2022-04-03
 tags: [VITA,48,REDI,VPX,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计》课程设计参考"
+title: "数字电路与逻辑设计课程设计参考"
 date:   2023-08-01
 tags: [课程设计,设计,逻辑设计,数字电路,模板]
 comments: true

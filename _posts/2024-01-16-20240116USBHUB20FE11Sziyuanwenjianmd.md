@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB HUB 2.0 - FE1.1S 资源文件"
+title: "USB HUB 20  FE11S 资源文件"
 date:   2024-05-14
 tags: [FE1.1,文件,USB,HUB,2.0]
 comments: true

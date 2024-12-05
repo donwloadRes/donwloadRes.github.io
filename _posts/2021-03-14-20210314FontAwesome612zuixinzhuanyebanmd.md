@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FontAwesome 6.1.2 最新专业版"
+title: "FontAwesome 612 最新专业版"
 date:   2022-06-26
 tags: [图标,FontAwesome,6.1,下载,专业版]
 comments: true

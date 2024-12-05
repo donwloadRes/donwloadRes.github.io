@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "码出高效：Java开发手册》资源下载介绍"
+title: "码出高效Java开发手册资源下载介绍"
 date:   2023-06-28
 tags: [Java,规约,手册,码出,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI竖屏解决方案-普立晶POL8901、LVDS转MIPI带旋转方案"
+title: "MIPI竖屏解决方案普立晶POL8901LVDS转MIPI带旋转方案"
 date:   2024-06-02
 tags: [MIPI,普立晶,POL8901,LVDS,方案]
 comments: true

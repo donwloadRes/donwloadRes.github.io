@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能送药小车（F题）数字字模资源说明"
+title: "智能送药小车F题数字字模资源说明"
 date:   2020-07-14
 tags: [字模,送药,小车,数字,智能]
 comments: true

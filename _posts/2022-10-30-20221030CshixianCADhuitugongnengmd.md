@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现CAD绘图功能"
+title: "C实现CAD绘图功能"
 date:   2023-09-27
 tags: [绘制,CAD,图形,C#,窗体]
 comments: true

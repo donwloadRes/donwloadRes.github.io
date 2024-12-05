@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iptables详解：图文并茂理解iptables.pdf"
+title: "iptables详解图文并茂理解iptablespdf"
 date:   2021-10-15
 tags: [iptables,理解,图文并茂,详解,pdf]
 comments: true

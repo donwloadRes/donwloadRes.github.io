@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS WPF 流程图绘制：模仿VISIO的连接线自动重规划功能"
+title: "VS WPF 流程图绘制模仿VISIO的连接线自动重规划功能"
 date:   2023-04-10
 tags: [WPF,流程图,连接线,绘制,编程]
 comments: true

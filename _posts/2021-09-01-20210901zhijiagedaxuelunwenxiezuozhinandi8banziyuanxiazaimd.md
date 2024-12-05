@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "芝加哥大学论文写作指南（第8版）资源下载"
+title: "芝加哥大学论文写作指南第8版资源下载"
 date:   2021-12-31
 tags: [写作,论文,芝加哥大学,指南,PDF]
 comments: true

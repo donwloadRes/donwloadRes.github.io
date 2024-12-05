@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.19 下载与安装指南（Windows系统）"
+title: "MySQL 8019 下载与安装指南Windows系统"
 date:   2023-02-27
 tags: [MySQL,安装,下载,Windows,19]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学高级语言程序设计实验＋报告"
+title: "西北工业大学高级语言程序设计实验报告"
 date:   2023-08-02
 tags: [实验,编程,代码,程序设计,学习]
 comments: true

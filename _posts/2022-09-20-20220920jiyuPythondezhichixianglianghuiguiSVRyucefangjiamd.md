@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的支持向量回归（SVR）预测房价"
+title: "基于Python的支持向量回归SVR预测房价"
 date:   2022-06-19
 tags: [模型,SVR,Python,向量,预测]
 comments: true

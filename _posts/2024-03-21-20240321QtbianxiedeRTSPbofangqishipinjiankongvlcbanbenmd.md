@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编写的RTSP播放器+视频监控(vlc版本)"
+title: "Qt编写的RTSP播放器视频监控vlc版本"
 date:   2023-07-13
 tags: [RTSP,Qt,播放,视频,流媒体]
 comments: true

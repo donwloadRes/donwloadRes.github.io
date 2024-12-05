@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "遥感技术教程：SNAP应用指南 - Sentinel-1与Sentinel-2数据预处理完全手册"
+title: "遥感技术教程SNAP应用指南  Sentinel1与Sentinel2数据预处理完全手册"
 date:   2022-08-03
 tags: [Sentinel,遥感,指南,数据,数据处理]
 comments: true

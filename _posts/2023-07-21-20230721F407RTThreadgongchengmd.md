@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F407-RT-Thread 工程"
+title: "F407RTThread 工程"
 date:   2020-11-26
 tags: [RT,Thread,LCD,项目,编译]
 comments: true

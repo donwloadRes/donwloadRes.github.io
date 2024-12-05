@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread + LED + LWIP + printf 示例项目（基于CH32V307EVT开发板）"
+title: "RTThread  LED  LWIP  printf 示例项目基于CH32V307EVT开发板"
 date:   2023-05-28
 tags: [开发板,CH32V307EVT,printf,RT,LED]
 comments: true

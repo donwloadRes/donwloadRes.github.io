@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计学完全教程-中文版"
+title: "统计学完全教程中文版"
 date:   2022-08-18
 tags: [统计学,教程,中文版,进阶,帮助]
 comments: true

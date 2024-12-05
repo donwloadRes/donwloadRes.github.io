@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现求倒数的方法"
+title: "C实现求倒数的方法"
 date:   2022-02-02
 tags: [倒数,示例,C++,std,number]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斐讯K2刷华硕固件+全套工具"
+title: "斐讯K2刷华硕固件全套工具"
 date:   2022-02-11
 tags: [固件,刷机,路由器,华硕,K2]
 comments: true

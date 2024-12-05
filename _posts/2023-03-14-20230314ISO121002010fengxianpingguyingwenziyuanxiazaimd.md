@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 12100-2010 风险评估 - 英文 资源下载"
+title: "ISO 121002010 风险评估  英文 资源下载"
 date:   2021-07-09
 tags: [ISO,2010,12100,评估,英文]
 comments: true

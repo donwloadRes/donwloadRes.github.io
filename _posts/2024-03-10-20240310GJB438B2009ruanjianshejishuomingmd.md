@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB438B-2009 软件设计说明"
+title: "GJB438B2009 软件设计说明"
 date:   2020-07-22
 tags: [软件设计,GJB438B,2009,文件,说明]
 comments: true

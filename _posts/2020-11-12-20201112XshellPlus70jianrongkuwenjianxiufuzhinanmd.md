@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XshellPlus 7.0 兼容库文件修复指南"
+title: "XshellPlus 70 兼容库文件修复指南"
 date:   2021-10-06
 tags: [dll,XshellPlus,文件,7.0,C++]
 comments: true

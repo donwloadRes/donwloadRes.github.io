@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arctic Core for Autosar 3.1"
+title: "Arctic Core for Autosar 31"
 date:   2023-05-15
 tags: [AUTOSAR,3.1,Arctic,Core,开发者]
 comments: true

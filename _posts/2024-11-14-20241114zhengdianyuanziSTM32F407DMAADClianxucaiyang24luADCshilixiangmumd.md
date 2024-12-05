@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子STM32F407 DMA+ADC 连续采样24路ADC示例项目"
+title: "正点原子STM32F407 DMAADC 连续采样24路ADC示例项目"
 date:   2022-09-18
 tags: [ADC,开发板,STM32F407,正点,采样]
 comments: true

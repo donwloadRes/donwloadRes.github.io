@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序源码-蓝牙设备连接"
+title: "微信小程序源码蓝牙设备连接"
 date:   2024-04-13
 tags: [微信,开发者,蓝牙,源码,调试]
 comments: true

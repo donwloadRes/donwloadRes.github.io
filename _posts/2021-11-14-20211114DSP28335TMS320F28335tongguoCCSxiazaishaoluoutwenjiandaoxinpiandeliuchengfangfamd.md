@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP28335 TMS320F28335 通过CCS下载烧录.out文件到芯片的流程方法"
+title: "DSP28335 TMS320F28335 通过CCS下载烧录out文件到芯片的流程方法"
 date:   2023-07-04
 tags: [CCS,out,DSP28335,文件,烧录]
 comments: true

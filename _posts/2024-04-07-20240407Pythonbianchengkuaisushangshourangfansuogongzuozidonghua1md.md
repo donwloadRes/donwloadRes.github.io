@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程快速上手——让繁琐工作自动化1"
+title: "Python编程快速上手让繁琐工作自动化1"
 date:   2020-01-23
 tags: [Python,编程,自动化,繁琐,文件]
 comments: true

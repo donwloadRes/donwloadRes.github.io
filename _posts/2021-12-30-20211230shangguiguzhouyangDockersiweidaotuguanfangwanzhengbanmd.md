@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "尚硅谷周阳Docker思维导图(官方完整版)"
+title: "尚硅谷周阳Docker思维导图官方完整版"
 date:   2023-07-03
 tags: [Docker,周阳,导图,硅谷,思维]
 comments: true

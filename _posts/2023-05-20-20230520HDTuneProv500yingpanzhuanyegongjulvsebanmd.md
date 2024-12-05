@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDTunePro v5.00 硬盘专业工具（绿色版）"
+title: "HDTunePro v500 硬盘专业工具绿色版"
 date:   2021-05-15
 tags: [硬盘,HDTunePro,v5.00,测试,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性学习--S参数基础知识"
+title: "信号完整性学习S参数基础知识"
 date:   2022-07-28
 tags: [信号,参数,完整性,布线,传输线]
 comments: true

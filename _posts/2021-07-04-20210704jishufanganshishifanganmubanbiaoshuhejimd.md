@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "技术方案实施方案模板标书（合集）"
+title: "技术方案实施方案模板标书合集"
 date:   2024-06-21
 tags: [模板,实施方案,方案,项目,技术]
 comments: true

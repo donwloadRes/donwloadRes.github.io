@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISSP最新全套培训讲义（完整版）下载"
+title: "CISSP最新全套培训讲义完整版下载"
 date:   2023-11-03
 tags: [CISSP,7z,讲义,全套,完整版]
 comments: true

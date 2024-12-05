@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验六：创建存储过程和触发器1"
+title: "实验六创建存储过程和触发器1"
 date:   2024-02-07
 tags: [SQL,触发器,存储,Server,过程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WebService 客户端与服务器 Json 资源文件"
+title: "C WebService 客户端与服务器 Json 资源文件"
 date:   2021-11-30
 tags: [Json,C#,WebService,客户端,服务器]
 comments: true

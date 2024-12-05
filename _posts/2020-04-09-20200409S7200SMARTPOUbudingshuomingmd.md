@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART POU 补丁说明"
+title: "S7200 SMART POU 补丁说明"
 date:   2020-02-05
 tags: [补丁,S7,SMART,PLC,固件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GrabImage.py 项目说明"
+title: "GrabImagepy 项目说明"
 date:   2020-02-27
 tags: [GrabImage,py,截图,屏幕,Python]
 comments: true

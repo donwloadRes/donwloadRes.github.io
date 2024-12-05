@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HiPQTools_V5.14.1 PQTools 海思3516EV200 图像质量调试工具"
+title: "HiPQToolsV5141 PQTools 海思3516EV200 图像质量调试工具"
 date:   2022-02-17
 tags: [图像,调试,HiPQTools,V5.14,文档]
 comments: true

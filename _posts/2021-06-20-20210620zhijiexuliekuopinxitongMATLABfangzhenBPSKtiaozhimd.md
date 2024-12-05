@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直接序列扩频系统MATLAB仿真(BPSK调制)"
+title: "直接序列扩频系统MATLAB仿真BPSK调制"
 date:   2024-08-09
 tags: [仿真,MATLAB,扩频,代码,序列]
 comments: true

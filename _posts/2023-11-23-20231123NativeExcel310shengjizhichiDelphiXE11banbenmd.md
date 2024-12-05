@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NativeExcel 3.1.0 升级支持 Delphi XE11 版本"
+title: "NativeExcel 310 升级支持 Delphi XE11 版本"
 date:   2024-06-06
 tags: [Delphi,XE11,NativeExcel,3.1,Excel]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt使用cef加载网页，可播放实时视频、Cef库文件二次封装、Qt与cef交互使用示例"
+title: "Qt使用cef加载网页可播放实时视频Cef库文件二次封装Qt与cef交互使用示例"
 date:   2022-08-16
 tags: [Cef,Qt,示例,使用,封装]
 comments: true

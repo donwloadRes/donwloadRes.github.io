@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIO-SAM代码（中文注释）"
+title: "LIOSAM代码中文注释"
 date:   2023-11-17
 tags: [代码,LIO,SAM,ROS,注释]
 comments: true

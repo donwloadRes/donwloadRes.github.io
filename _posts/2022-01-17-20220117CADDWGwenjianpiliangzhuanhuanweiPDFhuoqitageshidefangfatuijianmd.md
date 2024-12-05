@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-DWG文件批量转换为PDF或其他格式的方法推荐"
+title: "CADDWG文件批量转换为PDF或其他格式的方法推荐"
 date:   2020-08-04
 tags: [DWG,转换,PDF,文件,批量]
 comments: true

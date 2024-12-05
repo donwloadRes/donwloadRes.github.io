@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡西欧（CASIO） FX-991CN X 中文函数科学计算器 使用手册"
+title: "卡西欧CASIO FX991CN X 中文函数科学计算器 使用手册"
 date:   2024-09-01
 tags: [计算器,卡西欧,FX,991CN,运算]
 comments: true

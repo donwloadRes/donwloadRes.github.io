@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新Spring全家桶面试真题全解析-图灵徐庶"
+title: "2023最新Spring全家桶面试真题全解析图灵徐庶"
 date:   2021-01-14
 tags: [Spring,面试,真题,全家,开发者]
 comments: true

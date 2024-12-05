@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200与S7-1500与DASSIDirect通讯问题解决方案"
+title: "S71200与S71500与DASSIDirect通讯问题解决方案"
 date:   2023-11-07
 tags: [S7,DASSIDirect,1200,1500,通讯]
 comments: true

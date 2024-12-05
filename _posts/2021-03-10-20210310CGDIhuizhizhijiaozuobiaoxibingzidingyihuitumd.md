@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI+绘制直角坐标系并自定义绘图"
+title: "C GDI绘制直角坐标系并自定义绘图"
 date:   2024-08-02
 tags: [绘制,直角坐标,C#,Height,Width]
 comments: true

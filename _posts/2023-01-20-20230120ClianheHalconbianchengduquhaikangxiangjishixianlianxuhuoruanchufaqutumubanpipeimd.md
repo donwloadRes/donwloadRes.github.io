@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 联合 Halcon 编程读取海康相机，实现连续或软触发取图模板匹配"
+title: "C 联合 Halcon 编程读取海康相机实现连续或软触发取图模板匹配"
 date:   2020-09-28
 tags: [读取,Halcon,相机,海康,模板]
 comments: true

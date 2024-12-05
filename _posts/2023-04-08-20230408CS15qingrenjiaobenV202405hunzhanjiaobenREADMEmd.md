@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS1.5情人脚本V2024.05[混战脚本] README"
+title: "CS15情人脚本V202405混战脚本 README"
 date:   2023-02-22
 tags: [游戏,脚本,使用,弹道,CS1.5]
 comments: true

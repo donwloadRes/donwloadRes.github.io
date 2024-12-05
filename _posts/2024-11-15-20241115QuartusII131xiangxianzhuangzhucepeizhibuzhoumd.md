@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus-II 13.1 详细安装、注册、配置步骤"
+title: "QuartusII 131 详细安装注册配置步骤"
 date:   2020-07-02
 tags: [Quartus,II,安装,配置,确保]
 comments: true

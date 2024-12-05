@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MYSQL数据库（64位）详细安装指南"
+title: "MYSQL数据库64位详细安装指南"
 date:   2022-03-15
 tags: [MySQL,安装,数据库,指南,配置]
 comments: true

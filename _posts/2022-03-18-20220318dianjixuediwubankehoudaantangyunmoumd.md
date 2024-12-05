@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机学第五版课后答案 (汤蕴缪)"
+title: "电机学第五版课后答案 汤蕴缪"
 date:   2020-03-08
 tags: [电机学,课后,第五版,蕴缪,答案]
 comments: true

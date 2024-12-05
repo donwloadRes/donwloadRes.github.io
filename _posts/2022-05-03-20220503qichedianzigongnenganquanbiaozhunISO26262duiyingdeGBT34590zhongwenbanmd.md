@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车电子功能安全标准：ISO 26262对应的GB-T 34590中文版"
+title: "汽车电子功能安全标准ISO 26262对应的GBT 34590中文版"
 date:   2021-02-25
 tags: [GB,安全,功能,标准,汽车]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP 高性能高并发服务器与客户端实现"
+title: "C TCP 高性能高并发服务器与客户端实现"
 date:   2021-07-08
 tags: [客户端,服务端,并发,高性能,连接]
 comments: true

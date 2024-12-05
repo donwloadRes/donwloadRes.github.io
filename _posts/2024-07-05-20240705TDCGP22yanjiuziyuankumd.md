@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22研究资源库"
+title: "TDCGP22研究资源库"
 date:   2024-09-29
 tags: [TDC,GP22,资源库,STM32,寄存器]
 comments: true

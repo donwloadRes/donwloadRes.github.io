@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lingo11 解决优化问题（下载和运行）"
+title: "Lingo11 解决优化问题下载和运行"
 date:   2020-10-23
 tags: [Lingo11,x1,x2,软件,代码]
 comments: true

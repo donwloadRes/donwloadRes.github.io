@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes部署实战：Kubeadm快速搭建1.27.0版集群"
+title: "Kubernetes部署实战Kubeadm快速搭建1270版集群"
 date:   2023-05-04
 tags: [Kubernetes,集群,Kubeadm,kubeadm,1.27]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genymotion-ARM-Translation 各 Android 版本合集"
+title: "GenymotionARMTranslation 各 Android 版本合集"
 date:   2022-12-22
 tags: [Genymotion,ARM,Android,Translation,模拟器]
 comments: true

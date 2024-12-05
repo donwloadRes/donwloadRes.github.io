@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不朽的艺术：走进大师与经典课后答案"
+title: "不朽的艺术走进大师与经典课后答案"
 date:   2022-10-31
 tags: [课后,答案,不朽,大师,经典]
 comments: true

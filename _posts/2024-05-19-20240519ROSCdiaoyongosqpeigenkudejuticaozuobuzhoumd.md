@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS C++调用osqp-eigen库的具体操作步骤"
+title: "ROS C调用osqpeigen库的具体操作步骤"
 date:   2020-10-24
 tags: [osqp,eigen,ROS,调用,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python网络爬虫：爬取北上广深天气数据报告"
+title: "Python网络爬虫爬取北上广深天气数据报告"
 date:   2024-11-08
 tags: [爬虫,Python,报告,网络,爬取]
 comments: true

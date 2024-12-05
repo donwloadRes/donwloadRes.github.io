@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 托盘窗体显示与隐藏效果"
+title: "C 托盘窗体显示与隐藏效果"
 date:   2024-04-04
 tags: [托盘,隐藏,窗口,显示,窗体]
 comments: true

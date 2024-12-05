@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博途V18-S7-1200 单部电梯六层电梯程序"
+title: "博途V18S71200 单部电梯六层电梯程序"
 date:   2023-03-11
 tags: [电梯,运行,PLC,S7,1200]
 comments: true

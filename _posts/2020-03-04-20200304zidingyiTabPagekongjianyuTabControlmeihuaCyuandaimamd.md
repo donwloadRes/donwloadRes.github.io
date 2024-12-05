@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自定义TabPage控件与TabControl美化 - C#源代码"
+title: "自定义TabPage控件与TabControl美化  C源代码"
 date:   2023-05-30
 tags: [TabControl,自定义,控件,源代码,C#]
 comments: true

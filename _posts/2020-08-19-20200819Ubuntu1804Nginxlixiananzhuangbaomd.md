@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 Nginx 离线安装包"
+title: "Ubuntu 1804 Nginx 离线安装包"
 date:   2021-08-26
 tags: [Nginx,安装包,离线,Ubuntu,18.04]
 comments: true

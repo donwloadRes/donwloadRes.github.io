@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实战教程第2篇：数据库 QSqlTableModel分页查询、增删改查 含源码+注释"
+title: "Qt实战教程第2篇数据库 QSqlTableModel分页查询增删改查 含源码注释"
 date:   2022-06-08
 tags: [Qt,数据库,源码,QSqlTableModel,改查]
 comments: true

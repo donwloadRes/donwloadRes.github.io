@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32F005C6PA 软件I2C 0.96寸OLED 示例代码"
+title: "HC32F005C6PA 软件I2C 096寸OLED 示例代码"
 date:   2020-07-31
 tags: [HC32F005C6PA,OLED,I2C,微控制器,代码]
 comments: true

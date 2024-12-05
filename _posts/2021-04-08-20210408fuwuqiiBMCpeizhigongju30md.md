@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "服务器iBMC配置工具3.0"
+title: "服务器iBMC配置工具30"
 date:   2024-09-21
 tags: [服务器,iBMC,工具,批量,配置]
 comments: true

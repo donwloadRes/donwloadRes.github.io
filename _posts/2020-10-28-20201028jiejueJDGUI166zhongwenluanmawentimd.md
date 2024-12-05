@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决JD-GUI-1.6.6 中文乱码问题"
+title: "解决JDGUI166 中文乱码问题"
 date:   2023-01-24
 tags: [JD,GUI,1.6,文件,乱码]
 comments: true

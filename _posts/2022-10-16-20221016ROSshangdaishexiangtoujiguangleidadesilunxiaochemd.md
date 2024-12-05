@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS上带摄像头、激光雷达的四轮小车"
+title: "ROS上带摄像头激光雷达的四轮小车"
 date:   2023-12-16
 tags: [ROS,URDF,激光雷达,小车,摄像头]
 comments: true

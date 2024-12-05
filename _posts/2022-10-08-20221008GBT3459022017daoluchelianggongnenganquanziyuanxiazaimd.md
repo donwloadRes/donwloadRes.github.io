@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 34590.2-2017 道路车辆 功能安全 资源下载"
+title: "GBT 3459022017 道路车辆 功能安全 资源下载"
 date:   2022-12-14
 tags: [安全,功能,部分,2017,车辆]
 comments: true

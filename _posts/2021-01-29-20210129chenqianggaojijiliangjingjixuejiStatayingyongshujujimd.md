@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陈强高级计量经济学及Stata应用》数据集"
+title: "陈强高级计量经济学及Stata应用数据集"
 date:   2023-02-01
 tags: [Stata,计量经济学,数据,应用,陈强]
 comments: true

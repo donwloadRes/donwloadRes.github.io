@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 实现无边框窗口，支持缩放窗口大小"
+title: "Qt 实现无边框窗口支持缩放窗口大小"
 date:   2021-03-29
 tags: [窗口,边框,Qt,缩放,QT5.8]
 comments: true

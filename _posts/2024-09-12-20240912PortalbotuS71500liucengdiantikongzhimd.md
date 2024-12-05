@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portal（博途）— S7-1500六层电梯控制"
+title: "Portal博途 S71500六层电梯控制"
 date:   2024-07-09
 tags: [电梯,博途,算法,六层,西门子]
 comments: true

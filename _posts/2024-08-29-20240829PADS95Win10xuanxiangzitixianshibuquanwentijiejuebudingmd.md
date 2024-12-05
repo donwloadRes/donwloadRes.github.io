@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS 9.5 Win10 选项字体显示不全问题解决补丁"
+title: "PADS 95 Win10 选项字体显示不全问题解决补丁"
 date:   2021-02-15
 tags: [补丁,PADS,9.5,文件,字体]
 comments: true

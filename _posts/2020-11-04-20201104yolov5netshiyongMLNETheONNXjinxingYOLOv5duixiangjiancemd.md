@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5-net: 使用ML.NET和ONNX进行YOLOv5对象检测"
+title: "yolov5net 使用MLNET和ONNX进行YOLOv5对象检测"
 date:   2023-09-28
 tags: [NET,ML,ONNX,YOLOv5,yolov5]
 comments: true

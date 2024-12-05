@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mif-Maker 2010 波形生成器"
+title: "MifMaker 2010 波形生成器"
 date:   2023-04-25
 tags: [Mif,波形,生成,Maker2010,文件]
 comments: true

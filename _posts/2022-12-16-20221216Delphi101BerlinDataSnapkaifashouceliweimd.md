@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.1 Berlin DataSnap 开发手册 李维"
+title: "Delphi 101 Berlin DataSnap 开发手册 李维"
 date:   2022-02-02
 tags: [DataSnap,开发,开发者,Delphi,10.1]
 comments: true

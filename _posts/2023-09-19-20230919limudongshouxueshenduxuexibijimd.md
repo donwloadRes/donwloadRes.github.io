@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李沐-动手学深度学习笔记"
+title: "李沐动手学深度学习笔记"
 date:   2020-10-17
 tags: [笔记,李沐,深度,学习,这份]
 comments: true

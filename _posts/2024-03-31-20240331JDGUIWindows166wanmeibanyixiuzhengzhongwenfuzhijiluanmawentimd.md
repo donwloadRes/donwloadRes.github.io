@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JD-GUI Windows 1.6.6 完美版（已修正中文复制及乱码问题）"
+title: "JDGUI Windows 166 完美版已修正中文复制及乱码问题"
 date:   2021-07-10
 tags: [中文,原版,乱码,复制,JD]
 comments: true

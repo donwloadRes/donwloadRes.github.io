@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue课程作业管理系统答辩PPT资源"
+title: "SpringBootVue课程作业管理系统答辩PPT资源"
 date:   2022-06-27
 tags: [答辩,PPT,SpringBoot,Vue,演示]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET WebAPI + MVC4.0 + EasyUI 快速开发框架 + 通用权限管理系统源码"
+title: "ASPNET WebAPI  MVC40  EasyUI 快速开发框架  通用权限管理系统源码"
 date:   2023-01-06
 tags: [EasyUI,控件,框架,界面,管理系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot+Vue前后端分离在线答题+题库管理系统"
+title: "SpringbootVue前后端分离在线答题题库管理系统"
 date:   2022-09-05
 tags: [题库,答题,Springboot,Vue,数据库]
 comments: true

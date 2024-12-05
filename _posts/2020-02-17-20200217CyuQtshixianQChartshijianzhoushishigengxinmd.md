@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++与Qt实现QChart时间轴实时更新"
+title: "C与Qt实现QChart时间轴实时更新"
 date:   2020-07-01
 tags: [Qt,QChart,实时,时间轴,图表]
 comments: true

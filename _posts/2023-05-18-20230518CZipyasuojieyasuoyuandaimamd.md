@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "C++ Zip压缩解压缩源代码"
+title: "C Zip压缩解压缩源代码
+date   20201205
+tags ziphz文件压缩文件解压缩
+comments true
+author admin
+
+ C Zip压缩解压缩源代码
+
+本仓库提供了一个用于C的zip压缩和解压缩的源代码示例该代码展示了如何使用ziph和unziph库来实现文件的压缩和解压缩操作
+
+ 功能描述
+
+ 压缩文件
+
+在压缩文件时代码通过调用ziph库中的函数来创建一个zip文件并将指定的文件添加到zip文件中以下是压缩文件的示例代码
+
+cpp
+include ziph
+
+HZIP hz  CreateZipcsimple1zip 0
+ZipAddhz simplebmp csimplebmp
+ZipAddhz simpletxt csimpletxt
+CloseZiphz
+
+
+ 解压缩文件
+
+在解压缩文件时代码通过调用unziph库中的函数来打开一个zip文件并逐个解压缩其中的文件以下是解压缩文件的示例代码
+
+cpp
+include unziph"
 date:   2020-12-05
 tags: [zip,hz,文件,压缩文件,解压缩]
 comments: true

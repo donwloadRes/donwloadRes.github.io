@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 免费版本 0.11.18 下载"
+title: "Typora 免费版本 01118 下载"
 date:   2022-07-22
 tags: [Typora,版本,0.11,18,安装文件]
 comments: true

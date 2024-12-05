@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UTF-8转ANSI文本文件转换器"
+title: "UTF8转ANSI文本文件转换器"
 date:   2022-06-21
 tags: [文本文件,UTF,ANSI,编码,转换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 形状查找模板示例 - C# 编写"
+title: "Halcon 形状查找模板示例  C 编写"
 date:   2021-08-28
 tags: [模板,Halcon,示例,查找,C#]
 comments: true

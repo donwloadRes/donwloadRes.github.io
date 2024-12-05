@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "各种系统版本的visa32.dll大集合"
+title: "各种系统版本的visa32dll大集合"
 date:   2021-01-29
 tags: [visa32,dll,文件,版本,集合]
 comments: true

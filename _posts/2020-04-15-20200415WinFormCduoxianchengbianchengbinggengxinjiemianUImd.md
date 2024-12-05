@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm C# 多线程编程并更新界面（UI）"
+title: "WinForm C 多线程编程并更新界面UI"
 date:   2021-09-11
 tags: [线程,UI,多线程,C#,编程]
 comments: true

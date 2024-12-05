@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 串口实验 - 环形队列"
+title: "STM32 串口实验  环形队列"
 date:   2023-08-22
 tags: [串口,STM32,队列,环形,数据]
 comments: true

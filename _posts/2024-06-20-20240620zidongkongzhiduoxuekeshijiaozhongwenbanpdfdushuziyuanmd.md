@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制 多学科视角（中文版）.pdf 读书资源"
+title: "自动控制 多学科视角中文版pdf 读书资源"
 date:   2021-04-27
 tags: [理论,自动控制,控制,pdf,学科]
 comments: true

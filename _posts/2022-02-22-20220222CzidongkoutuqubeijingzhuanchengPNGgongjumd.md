@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自动抠图去背景转成PNG工具"
+title: "C自动抠图去背景转成PNG工具"
 date:   2020-07-30
 tags: [PNG,背景,图片,自动,工具]
 comments: true

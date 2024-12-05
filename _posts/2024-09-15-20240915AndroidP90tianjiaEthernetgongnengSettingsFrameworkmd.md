@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android P 9.0 添加 Ethernet 功能（Settings + Framework）"
+title: "Android P 90 添加 Ethernet 功能Settings  Framework"
 date:   2023-08-04
 tags: [ethernet,xml,java,Android,Ethernet]
 comments: true

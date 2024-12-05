@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "差错控制编码（英文完整版）资源下载"
+title: "差错控制编码英文完整版资源下载"
 date:   2021-09-22
 tags: [编码,差错控制,完整版,书籍,英文]
 comments: true

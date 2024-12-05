@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform 窗体美化（IrisSkin 换肤库）"
+title: "Winform 窗体美化IrisSkin 换肤库"
 date:   2023-02-16
 tags: [皮肤,换肤,IrisSkin,美化,skinEngine]
 comments: true

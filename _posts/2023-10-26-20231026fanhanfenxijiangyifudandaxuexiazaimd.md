@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛函分析讲义（复旦大学）下载"
+title: "泛函分析讲义复旦大学下载"
 date:   2023-09-30
 tags: [泛函,讲义,分析,复旦大学,学习]
 comments: true

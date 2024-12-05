@@ -1,6 +1,22 @@
 ---
 layout: post
-title: "解决COMDLG32.OCX在Windows上缺少的问题"
+title: "解决COMDLG32OCX在Windows上缺少的问题
+date   20200827
+tags COMDLG32OCX文件Windows软件
+comments true
+author admin
+
+ 解决COMDLG32OCX在Windows上缺少的问题
+
+ 简介
+
+本资源文件旨在帮助解决Windows系统中COMDLG32OCX文件丢失或损坏的问题COMDLG32OCX是Windows操作系统中的一个ActiveX控件文件主要用于支持各种软件运行时的一些基本功能如打开保存文件对话框等当该文件丢失或损坏时可能会导致某些软件无法正常运行
+
+ 问题描述
+
+在运行某些软件时可能会遇到以下错误提示
+ COMDLG32OCX文件丢失软件无法启动
+ Component COMDLG32OCX or one of its dependencies not correctly registered a file is missing or invalid"
 date:   2020-08-27
 tags: [COMDLG32,OCX,文件,Windows,软件]
 comments: true

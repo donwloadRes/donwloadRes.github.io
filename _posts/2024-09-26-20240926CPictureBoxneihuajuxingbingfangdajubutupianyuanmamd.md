@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PictureBox 内画矩形并放大局部图片源码"
+title: "C PictureBox 内画矩形并放大局部图片源码"
 date:   2022-07-28
 tags: [源码,PictureBox,矩形,示例,局部]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ymodem串口升级界面及源码（Linux下也可使用）"
+title: "Ymodem串口升级界面及源码Linux下也可使用"
 date:   2024-06-16
 tags: [串口,Ymodem,Qt,固件,Linux]
 comments: true

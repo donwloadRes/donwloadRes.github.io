@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Doozy UI Manager 4.8.0 Unity插件下载仓库"
+title: "Doozy UI Manager 480 Unity插件下载仓库"
 date:   2022-10-11
 tags: [UI,Unity,插件,Doozy,Manager]
 comments: true

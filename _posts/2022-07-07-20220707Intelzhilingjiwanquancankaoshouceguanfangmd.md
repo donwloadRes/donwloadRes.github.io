@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel 指令集完全参考手册（官方）"
+title: "Intel 指令集完全参考手册官方"
 date:   2023-06-22
 tags: [指令集,Intel,架构,Order,Number]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码随想录-大厂八股文稀有资源好几百页"
+title: "代码随想录大厂八股文稀有资源好几百页"
 date:   2021-01-07
 tags: [资源,八股文,大厂,面试,随想录]
 comments: true

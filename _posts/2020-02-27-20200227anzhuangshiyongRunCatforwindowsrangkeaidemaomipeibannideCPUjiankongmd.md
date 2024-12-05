@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装使用RunCat_for_windows：让可爱的猫咪陪伴你的CPU监控"
+title: "安装使用RunCatforwindows让可爱的猫咪陪伴你的CPU监控"
 date:   2023-12-25
 tags: [CPU,RunCat,windows,小猫,NET]
 comments: true

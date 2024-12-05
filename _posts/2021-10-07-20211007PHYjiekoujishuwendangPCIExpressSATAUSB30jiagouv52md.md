@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHY接口技术文档：PCI Express、SATA、USB 3.0架构 v5.2"
+title: "PHY接口技术文档PCI ExpressSATAUSB 30架构 v52"
 date:   2020-06-28
 tags: [文档,接口技术,USB,物理层,PHY]
 comments: true

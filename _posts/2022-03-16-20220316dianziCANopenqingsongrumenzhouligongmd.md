@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子-CANopen轻松入门周立功"
+title: "电子CANopen轻松入门周立功"
 date:   2020-12-21
 tags: [CANopen,嵌入式,立功,入门,STM32]
 comments: true

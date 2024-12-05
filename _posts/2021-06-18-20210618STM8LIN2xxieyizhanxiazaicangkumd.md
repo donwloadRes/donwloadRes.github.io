@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM8 LIN2.x 协议栈下载仓库"
+title: "STM8 LIN2x 协议栈下载仓库"
 date:   2022-03-28
 tags: [ST,STM8,协议,资源,LIN2]
 comments: true

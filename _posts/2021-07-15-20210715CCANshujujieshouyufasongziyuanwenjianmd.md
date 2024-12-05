@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# CAN数据接收与发送资源文件"
+title: "C CAN数据接收与发送资源文件"
 date:   2021-07-18
 tags: [C#,总线,代码,发送,接收]
 comments: true

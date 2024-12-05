@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【整理】pandas教程资源下载"
+title: "整理pandas教程资源下载"
 date:   2022-04-17
 tags: [pandas,教程,DataFrame,数据,分组]
 comments: true

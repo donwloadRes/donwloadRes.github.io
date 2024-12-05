@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 11款优秀主题分享"
+title: "Notepad 11款优秀主题分享"
 date:   2023-08-18
 tags: [主题,Notepad,++,11,调校]
 comments: true

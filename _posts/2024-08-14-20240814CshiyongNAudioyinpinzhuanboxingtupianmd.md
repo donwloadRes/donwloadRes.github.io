@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 NAudio 音频转波形图片"
+title: "C 使用 NAudio 音频转波形图片"
 date:   2024-04-08
 tags: [波形,应用程序,渲染,NAudio,WinForms]
 comments: true

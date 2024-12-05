@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Gradle 7.0.2 二进制版本下载"
+title: "Android Gradle 702 二进制版本下载"
 date:   2023-06-18
 tags: [Gradle,版本,7.0,下载,构建]
 comments: true

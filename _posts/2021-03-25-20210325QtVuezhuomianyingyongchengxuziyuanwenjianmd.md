@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt + Vue 桌面应用程序资源文件"
+title: "Qt  Vue 桌面应用程序资源文件"
 date:   2023-10-14
 tags: [应用程序,Qt,文件,桌面,Vue]
 comments: true

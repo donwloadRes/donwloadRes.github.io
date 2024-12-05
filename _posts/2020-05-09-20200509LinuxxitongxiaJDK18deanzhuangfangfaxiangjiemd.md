@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统下JDK1.8的安装方法详解"
+title: "Linux系统下JDK18的安装方法详解"
 date:   2021-02-24
 tags: [Linux,JDK,JAVA,HOME,下载]
 comments: true

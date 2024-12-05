@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 2019.3.3 安装指南"
+title: "PyCharm 201933 安装指南"
 date:   2021-04-04
 tags: [PyCharm,安装,2019.3,安装包,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学课程-nerf简介PPT"
+title: "大学课程nerf简介PPT"
 date:   2022-01-10
 tags: [nerf,PPT,技术,简介,课程]
 comments: true

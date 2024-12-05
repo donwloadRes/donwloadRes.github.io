@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm使用AForge拍照及录像"
+title: "C WinForm使用AForge拍照及录像"
 date:   2022-04-30
 tags: [AForge,录像,writer,Video,private]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jpg-png格式图片转eps格式的方法总结"
+title: "jpgpng格式图片转eps格式的方法总结"
 date:   2024-06-17
 tags: [eps,格式,jpg,png,图片]
 comments: true

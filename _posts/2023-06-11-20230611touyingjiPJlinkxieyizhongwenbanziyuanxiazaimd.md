@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "投影机PJlink协议（中文版）资源下载"
+title: "投影机PJlink协议中文版资源下载"
 date:   2020-07-30
 tags: [PJlink,协议,投影机,资源,下载]
 comments: true

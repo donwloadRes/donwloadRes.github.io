@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA结合USB3.0与LVDS设计教程"
+title: "Xilinx FPGA结合USB30与LVDS设计教程"
 date:   2021-10-03
 tags: [FPGA,USB3.0,设计,LVDS,采集卡]
 comments: true

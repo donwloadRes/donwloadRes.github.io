@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML网页设计 - 商品展示销售"
+title: "HTML网页设计  商品展示销售"
 date:   2020-03-26
 tags: [网页,HTML,设计,展示,商品]
 comments: true

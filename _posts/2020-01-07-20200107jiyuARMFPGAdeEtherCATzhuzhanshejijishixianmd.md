@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ARM+FPGA的EtherCAT主站设计及实现"
+title: "基于ARMFPGA的EtherCAT主站设计及实现"
 date:   2020-12-29
 tags: [EtherCAT,FPGA,ARM,主站,实现]
 comments: true

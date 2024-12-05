@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hybridclr_trial 示例项目"
+title: "hybridclrtrial 示例项目"
 date:   2022-10-07
 tags: [示例,HybridCLR,教程,hybridclr,trial]
 comments: true

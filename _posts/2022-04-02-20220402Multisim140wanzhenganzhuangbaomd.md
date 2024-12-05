@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim14.0 完整安装包"
+title: "Multisim140 完整安装包"
 date:   2023-07-25
 tags: [安装包,Multisim14.0,仿真,安装,LABVIEW2013]
 comments: true

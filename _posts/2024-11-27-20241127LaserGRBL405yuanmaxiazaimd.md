@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaserGRBL-4.0.5 源码下载"
+title: "LaserGRBL405 源码下载"
 date:   2023-02-22
 tags: [4.0,LaserGRBL,源码,zip,下载]
 comments: true

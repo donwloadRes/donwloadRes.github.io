@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：Unity中贴透明材质的简单方法1"
+title: "Unity3D教程Unity中贴透明材质的简单方法1"
 date:   2021-07-20
 tags: [透明,教程,Unity3D,Unity,Texture]
 comments: true

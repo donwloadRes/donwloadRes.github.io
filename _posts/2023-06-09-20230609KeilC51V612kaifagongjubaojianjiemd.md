@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C51 V6.12 开发工具包简介"
+title: "Keil C51 V612 开发工具包简介"
 date:   2022-02-13
 tags: [Keil,C51,软件,V6.12,单片机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab-EMD工具箱 + 详细安装方法"
+title: "MatlabEMD工具箱  详细安装方法"
 date:   2023-10-10
 tags: [工具箱,EMD,MATLAB,安装,Matlab]
 comments: true

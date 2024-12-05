@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二维我的世界源码C++制作"
+title: "二维我的世界源码C制作"
 date:   2022-09-26
 tags: [C++,源码,编程,二维,这份]
 comments: true

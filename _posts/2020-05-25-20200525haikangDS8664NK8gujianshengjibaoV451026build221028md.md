@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康DS-8664N-K8固件升级包 V4.51.026 build 221028"
+title: "海康DS8664NK8固件升级包 V451026 build 221028"
 date:   2020-06-05
 tags: [升级,固件,升级包,海康,DS]
 comments: true

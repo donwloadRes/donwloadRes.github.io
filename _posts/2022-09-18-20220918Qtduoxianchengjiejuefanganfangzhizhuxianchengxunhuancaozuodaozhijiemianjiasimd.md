@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 多线程解决方案：防止主线程循环操作导致界面假死"
+title: "Qt 多线程解决方案防止主线程循环操作导致界面假死"
 date:   2020-06-03
 tags: [界面,Qt,线程,假死,多线程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典SQL语句大全（基础篇、提升篇、技巧篇）"
+title: "经典SQL语句大全基础篇提升篇技巧篇"
 date:   2020-01-17
 tags: [SQL,语句,技巧,学习,资源]
 comments: true

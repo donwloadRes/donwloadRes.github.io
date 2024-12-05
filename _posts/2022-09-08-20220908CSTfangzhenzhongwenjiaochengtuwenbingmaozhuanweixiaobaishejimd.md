@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CST仿真中文教程 - 图文并茂，专为小白设计"
+title: "CST仿真中文教程  图文并茂专为小白设计"
 date:   2020-03-02
 tags: [仿真,CST,教程,图文并茂,软件]
 comments: true

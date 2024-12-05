@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java端使用IText下载PDF（包含JAR包）"
+title: "Java端使用IText下载PDF包含JAR包"
 date:   2024-08-21
 tags: [PDF,JAR,示例,生成,Java]
 comments: true

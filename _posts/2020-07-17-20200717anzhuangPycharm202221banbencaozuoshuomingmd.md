@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Pycharm 2022.2.1版本操作说明"
+title: "安装Pycharm 202221版本操作说明"
 date:   2023-03-31
 tags: [Pycharm,点击,安装,2022.2,勾选]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米手机秒解BL工具【非官方】.zip"
+title: "小米手机秒解BL工具非官方zip"
 date:   2022-07-27
 tags: [解锁,工具,小米,非官方,BL]
 comments: true

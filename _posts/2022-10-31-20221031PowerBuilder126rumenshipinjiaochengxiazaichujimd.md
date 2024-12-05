@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 12.6入门视频教程下载（初级）"
+title: "PowerBuilder 126入门视频教程下载初级"
 date:   2023-08-26
 tags: [PowerBuilder,语句,实例,事件,控件]
 comments: true

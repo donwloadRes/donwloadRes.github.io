@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE802.3bj 标准资源下载"
+title: "IEEE8023bj 标准资源下载"
 date:   2020-07-09
 tags: [IEEE802.3,bj,100Gbase,标准,文件]
 comments: true

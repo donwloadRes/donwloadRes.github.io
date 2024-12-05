@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSL-KDD 入侵检测数据集"
+title: "NSLKDD 入侵检测数据集"
 date:   2022-02-08
 tags: [KDD,数据,NSL,入侵,检测]
 comments: true

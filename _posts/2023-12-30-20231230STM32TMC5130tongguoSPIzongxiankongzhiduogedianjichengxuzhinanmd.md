@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32 + TMC5130】通过SPI总线控制多个电机程序指南"
+title: "STM32  TMC5130通过SPI总线控制多个电机程序指南"
 date:   2020-07-25
 tags: [电机,SPI,TMC5130,控制,STM32F103]
 comments: true

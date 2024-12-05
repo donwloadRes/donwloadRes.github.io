@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence IC617——后端验证工具ASSURA04.15-617安装教程"
+title: "Cadence IC617后端验证工具ASSURA0415617安装教程"
 date:   2022-02-25
 tags: [安装,工具,验证,Cadence,确保]
 comments: true

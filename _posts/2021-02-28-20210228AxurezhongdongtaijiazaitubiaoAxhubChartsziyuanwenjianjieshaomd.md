@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure中动态加载图表（Axhub Charts）资源文件介绍"
+title: "Axure中动态加载图表Axhub Charts资源文件介绍"
 date:   2020-12-26
 tags: [Axure,图表,Axhub,Charts,文件]
 comments: true

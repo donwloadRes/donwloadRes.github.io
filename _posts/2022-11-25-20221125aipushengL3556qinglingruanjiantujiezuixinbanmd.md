@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3556清零软件+图解 最新版"
+title: "爱普生L3556清零软件图解 最新版"
 date:   2024-08-22
 tags: [清零,图解,爱普生,L3556,软件]
 comments: true

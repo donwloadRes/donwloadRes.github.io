@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN与BP神经网络手写体数字识别 - MNIST数据集"
+title: "CNN与BP神经网络手写体数字识别  MNIST数据集"
 date:   2021-09-08
 tags: [CNN,MNIST,神经网络,BP,识别]
 comments: true

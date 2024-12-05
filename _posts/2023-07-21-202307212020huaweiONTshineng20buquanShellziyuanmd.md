@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020华为ONT使能2.0补全Shell资源"
+title: "2020华为ONT使能20补全Shell资源"
 date:   2020-07-15
 tags: [ONT,华为,补全,工具集,使能]
 comments: true

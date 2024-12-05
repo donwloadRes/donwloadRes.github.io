@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "形状匹配find_scaled_shape_model资源文件"
+title: "形状匹配findscaledshapemodel资源文件"
 date:   2021-06-17
 tags: [OpenCV,find,scaled,shape,model]
 comments: true

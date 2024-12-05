@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Tools 安装指南：解决Windows 2000在VM中安装问题"
+title: "VMware Tools 安装指南解决Windows 2000在VM中安装问题"
 date:   2023-03-22
 tags: [VMware,安装,Tools,补丁,Windows]
 comments: true

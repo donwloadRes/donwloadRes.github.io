@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPROS-M-V3.0 安装程序和说明"
+title: "EPROSMV30 安装程序和说明"
 date:   2021-04-18
 tags: [EPROS,V3.0,安装程序,安装,说明]
 comments: true

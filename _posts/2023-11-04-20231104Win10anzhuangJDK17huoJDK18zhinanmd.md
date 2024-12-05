@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装JDK 1.7或JDK 1.8指南"
+title: "Win10安装JDK 17或JDK 18指南"
 date:   2021-08-20
 tags: [JDK,安装,1.7,1.8,下载]
 comments: true

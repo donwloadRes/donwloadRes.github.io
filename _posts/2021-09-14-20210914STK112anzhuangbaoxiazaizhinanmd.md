@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STK 11.2 安装包下载指南"
+title: "STK 112 安装包下载指南"
 date:   2022-04-17
 tags: [安装包,STK,下载,11.2,安装]
 comments: true

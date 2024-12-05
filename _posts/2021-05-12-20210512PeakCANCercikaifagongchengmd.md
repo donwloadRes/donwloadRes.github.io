@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peak CAN C# 二次开发工程"
+title: "Peak CAN C 二次开发工程"
 date:   2022-12-10
 tags: [C#,二次开发,Peak,工程,上位]
 comments: true

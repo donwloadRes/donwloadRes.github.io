@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLinkV8-V9-OB固件升级与驱动解决方案"
+title: "JLinkV8V9OB固件升级与驱动解决方案"
 date:   2024-04-05
 tags: [JLink,固件,驱动,刷入,jlink]
 comments: true

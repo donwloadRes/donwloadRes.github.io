@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "64位ODAC 11.2 Release 6 (11.2.0.4.0) Xcopy for Windows x64 ODP.NET 下载"
+title: "64位ODAC 112 Release 6 112040 Xcopy for Windows x64 ODPNET 下载"
 date:   2020-11-21
 tags: [64,11.2,0.4,Oracle,NET]
 comments: true

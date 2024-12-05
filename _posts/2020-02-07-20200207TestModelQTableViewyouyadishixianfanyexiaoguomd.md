@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TestModel-QTableView：优雅地实现翻页效果"
+title: "TestModelQTableView优雅地实现翻页效果"
 date:   2021-02-04
 tags: [Qt,翻页,QTableView,优雅,TestModel]
 comments: true

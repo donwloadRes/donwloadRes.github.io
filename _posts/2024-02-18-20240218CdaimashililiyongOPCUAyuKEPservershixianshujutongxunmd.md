@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 代码示例：利用OPCUA与KEPserver实现数据通讯"
+title: "C 代码示例利用OPCUA与KEPserver实现数据通讯"
 date:   2021-09-28
 tags: [OPCUA,KEPserver,C#,代码,示例]
 comments: true

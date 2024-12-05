@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2018.3 下载与安装指南"
+title: "Vivado 20183 下载与安装指南"
 date:   2024-11-06
 tags: [安装,下载,Vivado,2018.3,点击]
 comments: true

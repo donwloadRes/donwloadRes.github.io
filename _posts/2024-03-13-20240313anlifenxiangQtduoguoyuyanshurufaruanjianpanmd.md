@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "案例分享：Qt多国语言输入法软键盘"
+title: "案例分享Qt多国语言输入法软键盘"
 date:   2022-05-06
 tags: [Qt,软键盘,输入,开发者,应用]
 comments: true

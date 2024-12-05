@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UG NX二次开发（NXOpenCPP）编程模板 - VS2022适用"
+title: "UG NX二次开发NXOpenCPP编程模板  VS2022适用"
 date:   2021-12-16
 tags: [模板,VS2022,UG,NX,二次开发]
 comments: true

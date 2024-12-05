@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB TYPE C 12-16PIN 3D 三维集成封装库"
+title: "USB TYPE C 1216PIN 3D 三维集成封装库"
 date:   2021-01-25
 tags: [封装,设计,3D,USB,引脚]
 comments: true

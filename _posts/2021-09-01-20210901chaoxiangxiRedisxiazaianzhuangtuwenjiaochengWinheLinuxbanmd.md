@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细Redis下载安装图文教程（Win和Linux版）"
+title: "超详细Redis下载安装图文教程Win和Linux版"
 date:   2020-04-12
 tags: [Redis,Linux,教程,基本操作,安装]
 comments: true

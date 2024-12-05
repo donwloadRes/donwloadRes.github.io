@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 文件下载仓库"
+title: "Ubuntu 2004 文件下载仓库"
 date:   2020-01-16
 tags: [Ubuntu,文件,20.04,下载,仓库]
 comments: true

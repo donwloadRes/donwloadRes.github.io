@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "archetype-catalog.xml 下载指南"
+title: "archetypecatalogxml 下载指南"
 date:   2020-05-28
 tags: [archetype,catalog,xml,Maven,文件]
 comments: true

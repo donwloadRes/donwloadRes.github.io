@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8213B-CG 数据手册下载"
+title: "RTL8213BCG 数据手册下载"
 date:   2022-05-14
 tags: [RTL8213B,CG,手册,转换器,Datasheet]
 comments: true

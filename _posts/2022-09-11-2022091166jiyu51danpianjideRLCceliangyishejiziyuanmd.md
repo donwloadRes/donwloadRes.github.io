@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "66、基于51单片机的RLC测量仪设计资源"
+title: "66基于51单片机的RLC测量仪设计资源"
 date:   2020-05-10
 tags: [单片机,51,RLC,电路图,C语言]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRM 客户管理系统 - 基于 ThinkPHP 源码"
+title: "CRM 客户管理系统  基于 ThinkPHP 源码"
 date:   2020-10-22
 tags: [源码,CRM,ThinkPHP,开发者,运维]
 comments: true

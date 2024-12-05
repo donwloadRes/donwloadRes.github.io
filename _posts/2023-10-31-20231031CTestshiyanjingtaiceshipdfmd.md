@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Test实验（静态测试）.pdf"
+title: "C Test实验静态测试pdf"
 date:   2022-03-23
 tags: [静态,C++,代码,测试,实践]
 comments: true

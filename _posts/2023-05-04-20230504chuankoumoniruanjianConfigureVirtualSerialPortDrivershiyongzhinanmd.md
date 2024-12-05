@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口模拟软件 - Configure Virtual Serial Port Driver 使用指南"
+title: "串口模拟软件  Configure Virtual Serial Port Driver 使用指南"
 date:   2023-09-03
 tags: [串口,软件,文件,虚拟,Configure]
 comments: true

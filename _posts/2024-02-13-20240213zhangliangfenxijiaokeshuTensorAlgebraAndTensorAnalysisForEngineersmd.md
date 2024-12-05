@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张量分析教科书（Tensor Algebra And Tensor Analysis For Engineers）"
+title: "张量分析教科书Tensor Algebra And Tensor Analysis For Engineers"
 date:   2022-09-22
 tags: [张量分析,习题,教科书,Tensor,自学者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA78.00-2015宇航总线标准资源下载"
+title: "VITA78002015宇航总线标准资源下载"
 date:   2022-10-16
 tags: [宇航,总线,VITA78.00,2015,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "回波3DFFT处理（测距、测速、测角）"
+title: "回波3DFFT处理测距测速测角"
 date:   2020-10-02
 tags: [3DFFT,雷达,毫米波,回波,测角]
 comments: true

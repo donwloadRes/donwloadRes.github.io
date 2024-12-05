@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCC数字钥匙规范最新版本1.2.2"
+title: "CCC数字钥匙规范最新版本122"
 date:   2021-05-30
 tags: [钥匙,数字,CCC,1.2,规范]
 comments: true

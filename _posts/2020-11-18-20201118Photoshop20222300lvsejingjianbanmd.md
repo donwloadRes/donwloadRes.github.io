@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop2022 23.0.0绿色精简版"
+title: "Photoshop2022 2300绿色精简版"
 date:   2023-07-19
 tags: [精简版,解压,绿色,支持,Photoshop]
 comments: true

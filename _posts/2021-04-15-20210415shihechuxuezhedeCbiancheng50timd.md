@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适合初学者的C++编程50题"
+title: "适合初学者的C编程50题"
 date:   2020-06-28
 tags: [初学者,编程,C++,50,题目]
 comments: true

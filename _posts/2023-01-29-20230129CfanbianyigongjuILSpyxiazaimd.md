@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 反编译工具ILSpy 下载"
+title: "C 反编译工具ILSpy 下载"
 date:   2023-02-02
 tags: [反编译,ILSpy,文件,C#,exe]
 comments: true

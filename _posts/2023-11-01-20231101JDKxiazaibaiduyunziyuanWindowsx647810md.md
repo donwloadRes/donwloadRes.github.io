@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK下载百度云资源 (Windows x64 - 7-8-10)"
+title: "JDK下载百度云资源 Windows x64  7810"
 date:   2024-10-14
 tags: [JDK,百度,资源,下载,分享]
 comments: true

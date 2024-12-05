@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb期末考试复习题（含答案）"
+title: "JavaWeb期末考试复习题含答案"
 date:   2020-12-03
 tags: [JavaWeb,期末考试,复习,复习题,含答案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境离线安装Docker与Docker-Compose"
+title: "Linux环境离线安装Docker与DockerCompose"
 date:   2022-04-30
 tags: [Docker,Compose,安装,一键,离线]
 comments: true

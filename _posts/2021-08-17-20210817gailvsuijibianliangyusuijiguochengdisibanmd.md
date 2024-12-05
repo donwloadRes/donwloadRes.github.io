@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率、随机变量与随机过程 第四版"
+title: "概率随机变量与随机过程 第四版"
 date:   2023-11-12
 tags: [随机,Papoulis,第四版,随机变量,概率论]
 comments: true

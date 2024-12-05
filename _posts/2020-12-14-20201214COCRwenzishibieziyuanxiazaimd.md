@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ OCR 文字识别资源下载"
+title: "C OCR 文字识别资源下载"
 date:   2023-10-05
 tags: [OCR,识别,C++,文字,下载]
 comments: true

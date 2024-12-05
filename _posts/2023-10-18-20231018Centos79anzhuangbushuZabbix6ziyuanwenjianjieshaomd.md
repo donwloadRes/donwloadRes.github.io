@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7.9安装部署Zabbix6资源文件介绍"
+title: "Centos79安装部署Zabbix6资源文件介绍"
 date:   2024-02-29
 tags: [Zabbix6,文件,安装,Centos7.9,安装包]
 comments: true

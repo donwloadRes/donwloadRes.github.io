@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新全国各省、市、县、镇、村数据库"
+title: "最新全国各省市县镇村数据库"
 date:   2022-12-06
 tags: [数据库,各省,全国,最新,MYSQL]
 comments: true

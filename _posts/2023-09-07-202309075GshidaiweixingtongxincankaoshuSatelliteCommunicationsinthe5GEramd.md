@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G时代卫星通信参考书：Satellite Communications in the 5G Era"
+title: "5G时代卫星通信参考书Satellite Communications in the 5G Era"
 date:   2021-04-03
 tags: [5G,卫星通信,参考书,Satellite,Communications]
 comments: true

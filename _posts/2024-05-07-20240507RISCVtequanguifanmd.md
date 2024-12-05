@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V特权规范"
+title: "RISCV特权规范"
 date:   2023-12-26
 tags: [RISC,特权,文档,驱动程序,处理器]
 comments: true

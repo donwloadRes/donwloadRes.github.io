@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水果编曲软件FL Studio 21.0.2.3399下载安装激活教程"
+title: "水果编曲软件FL Studio 21023399下载安装激活教程"
 date:   2021-05-04
 tags: [FL,Studio,安装,激活,2.3399]
 comments: true

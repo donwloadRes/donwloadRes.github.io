@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OneNote插件-NoteGEM 安装指南"
+title: "OneNote插件NoteGEM 安装指南"
 date:   2021-08-25
 tags: [OneNote,NoteGEM,插件,仓库,解压]
 comments: true

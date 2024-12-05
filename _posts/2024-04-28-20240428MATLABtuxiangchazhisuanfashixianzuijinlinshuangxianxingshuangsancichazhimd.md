@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB图像插值算法实现 - 最近邻、双线性、双三次插值"
+title: "MATLAB图像插值算法实现  最近邻双线性双三次插值"
 date:   2024-03-09
 tags: [插值,MATLAB,图像,imresize,图像处理]
 comments: true

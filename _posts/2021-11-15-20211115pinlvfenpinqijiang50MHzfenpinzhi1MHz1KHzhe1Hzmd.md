@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "频率分频器：将 50MHz 分频至 1MHz、1KHz 和 1Hz"
+title: "频率分频器将 50MHz 分频至 1MHz1KHz 和 1Hz"
 date:   2023-02-03
 tags: [分频器,仿真,文件,分频,设计]
 comments: true

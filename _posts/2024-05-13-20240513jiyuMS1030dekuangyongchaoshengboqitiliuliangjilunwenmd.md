@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MS1030的矿用超声波气体流量计-论文"
+title: "基于MS1030的矿用超声波气体流量计论文"
 date:   2021-10-24
 tags: [流量计,超声波,矿用,MS1030,气体]
 comments: true

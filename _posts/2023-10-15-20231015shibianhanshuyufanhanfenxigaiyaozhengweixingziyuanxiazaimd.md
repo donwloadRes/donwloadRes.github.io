@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实变函数与泛函分析概要(郑维行) 资源下载"
+title: "实变函数与泛函分析概要郑维行 资源下载"
 date:   2020-02-15
 tags: [实变,郑维行,资源,函数,概要]
 comments: true

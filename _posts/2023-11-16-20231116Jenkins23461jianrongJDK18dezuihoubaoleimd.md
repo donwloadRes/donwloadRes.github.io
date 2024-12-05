@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenkins 2.346.1：兼容JDK1.8的最后堡垒"
+title: "Jenkins 23461兼容JDK18的最后堡垒"
 date:   2024-11-01
 tags: [Jenkins,JDK1.8,版本,JDK,兼容]
 comments: true

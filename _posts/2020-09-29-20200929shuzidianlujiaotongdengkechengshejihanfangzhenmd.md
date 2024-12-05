@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路交通灯课程设计（含仿真）"
+title: "数字电路交通灯课程设计含仿真"
 date:   2020-02-08
 tags: [仿真,数字电路,设计,课程设计,逻辑]
 comments: true

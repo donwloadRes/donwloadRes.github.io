@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview与西门子1200TCP-IP通讯资源文件"
+title: "Labview与西门子1200TCPIP通讯资源文件"
 date:   2022-06-18
 tags: [1200,西门子,TCP,LabVIEW,通讯]
 comments: true

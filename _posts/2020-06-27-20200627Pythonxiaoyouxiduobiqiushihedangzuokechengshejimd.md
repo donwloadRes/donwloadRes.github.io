@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python小游戏：躲避球（适合当做课程设计）"
+title: "Python小游戏躲避球适合当做课程设计"
 date:   2023-06-13
 tags: [游戏,Python,玩家,道具,课程设计]
 comments: true

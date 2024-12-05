@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No-ip的使用（解决没有固定ip问题）"
+title: "Noip的使用解决没有固定ip问题"
 date:   2024-08-21
 tags: [ip,No,IP,动态域名,IP地址]
 comments: true

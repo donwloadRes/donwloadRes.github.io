@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水文监测数据通信规约SL651-2014.pdf 下载仓库"
+title: "水文监测数据通信规约SL6512014pdf 下载仓库"
 date:   2020-06-12
 tags: [数据通信,规约,水文,监测,SL651]
 comments: true

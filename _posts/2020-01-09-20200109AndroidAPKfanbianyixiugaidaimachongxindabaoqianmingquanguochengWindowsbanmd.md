@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android APK 反编译、修改代码、重新打包、签名全过程（Windows版）"
+title: "Android APK 反编译修改代码重新打包签名全过程Windows版"
 date:   2023-07-24
 tags: [APK,反编译,签名,修改,打包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序开发图解案例教程（书签）下载"
+title: "微信小程序开发图解案例教程书签下载"
 date:   2023-10-28
 tags: [微信,程序开发,图解,教程,书签]
 comments: true

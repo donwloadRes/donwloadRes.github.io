@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoServer开发手册系列（中文）"
+title: "GeoServer开发手册系列中文"
 date:   2023-06-03
 tags: [GeoServer,开发,开发者,REST,手册]
 comments: true

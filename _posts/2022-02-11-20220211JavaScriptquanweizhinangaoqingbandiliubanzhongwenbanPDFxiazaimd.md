@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript权威指南高清版第六版（中文版）PDF下载"
+title: "JavaScript权威指南高清版第六版中文版PDF下载"
 date:   2022-01-19
 tags: [JavaScript,Web,第六版,权威,中文版]
 comments: true

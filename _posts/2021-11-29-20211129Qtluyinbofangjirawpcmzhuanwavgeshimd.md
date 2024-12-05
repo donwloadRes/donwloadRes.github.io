@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt录音播放及raw（pcm）转wav格式"
+title: "Qt录音播放及rawpcm转wav格式"
 date:   2021-11-06
 tags: [wav,播放,raw,录音,Qt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跨年烟花代码（HTML+JS）"
+title: "跨年烟花代码HTMLJS"
 date:   2023-01-16
 tags: [烟花,代码,动画,HTML,JavaScript]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT.fx 1.7.1 Windows 64位安装程序免费下载"
+title: "MQTTfx 171 Windows 64位安装程序免费下载"
 date:   2020-02-22
 tags: [MQTT,fx,1.7,安装程序,64]
 comments: true

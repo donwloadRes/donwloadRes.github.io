@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb在线购物商城-完整源代码-课程设计"
+title: "Javaweb在线购物商城完整源代码课程设计"
 date:   2022-10-21
 tags: [Javaweb,购物车,项目,Tomcat,数据库]
 comments: true

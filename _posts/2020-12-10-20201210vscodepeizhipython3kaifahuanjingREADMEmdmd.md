@@ -1,6 +1,48 @@
 ---
 layout: post
-title: "vscode 配置 python3 开发环境 README.md"
+title: "vscode 配置 python3 开发环境 READMEmd
+date   20210623
+tags VSCodepython3PythonPython3配置
+comments true
+author admin
+
+ vscode 配置 python3 开发环境 READMEmd
+
+欢迎来到 vscode 配置 python3 开发环境 资源页面此资源专为希望在 Visual Studio Code VSCode 中高效搭建 Python 开发环境的开发者准备下面是一步步引导您完成环境配置的简明指南
+
+ 概览
+
+VSCode 是一款广受欢迎的轻量级代码编辑器以其强大的扩展支持闻名对于 Python 开发者来说正确配置环境是开始编码的关键本资源基于 CSDN 博客httpsblogcsdnnetweixin40528417articledetails81141567 文章整理旨在帮助您快速搭建一个包含所有必需插件和配置的 Python3 开发环境
+
+ 步骤概览
+
+ 1 安装必要的插件
+
+ Python 插件提供调试自动补全等核心功能
+ VSCode Icons 或 VSCode IconsMac提升文件浏览的视觉体验
+ Path Intellisense智能识别和补全文件路径
+ Topper自动生成代码头信息
+ Bracket Pair Colorizer增强括号配对的可视化
+
+ 2 创建和配置工作空间
+
+ 新建一个工作区文件夹如 PYTHON作为您的所有 Python 项目的根目录
+ 使用 VSCode 打开该文件夹并根据需要添加 py 文件
+
+ 3 配置 launchjson 和 tasksjson
+
+ launchjson用于配置调试环境指定 Python 解释器路径程序入口等
+  
+    json
+    
+        version 020
+        configurations 
+            
+                name Python3
+                type python
+                pythonPath usrbinpython3  修改为您实际的 Python3 路径
+                program file
+                cwd workspaceFolder"
 date:   2021-06-23
 tags: [VSCode,python3,Python,Python3,配置]
 comments: true

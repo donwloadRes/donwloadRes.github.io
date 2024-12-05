@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT Gradle 5.5.1 二进制文件下载"
+title: "QT Gradle 551 二进制文件下载"
 date:   2022-03-03
 tags: [Gradle,5.5,Android,文件,Qt]
 comments: true

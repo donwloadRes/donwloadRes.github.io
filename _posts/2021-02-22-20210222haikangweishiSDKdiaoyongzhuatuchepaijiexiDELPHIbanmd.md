@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视SDK调用抓图、车牌解析-DELPHI版"
+title: "海康威视SDK调用抓图车牌解析DELPHI版"
 date:   2023-07-25
 tags: [威视,DELPHI,海康,车牌,SDK]
 comments: true

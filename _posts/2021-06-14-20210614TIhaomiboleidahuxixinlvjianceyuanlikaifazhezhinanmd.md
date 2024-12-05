@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI毫米波雷达呼吸、心率检测原理开发者指南"
+title: "TI毫米波雷达呼吸心率检测原理开发者指南"
 date:   2023-10-23
 tags: [指南,心率,毫米波,开发者,呼吸]
 comments: true

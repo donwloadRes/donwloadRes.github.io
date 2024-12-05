@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#图片对比高速找图源码"
+title: "C图片对比高速找图源码"
 date:   2020-07-24
 tags: [图片,找图,搜索,大图,小图]
 comments: true

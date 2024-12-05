@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Zip File Compression and Decompression Source Code"
+title: "C Zip File Compression and Decompression Source Code"
 date:   2024-08-29
 tags: [源码,C++,解压,示例,ZIP]
 comments: true

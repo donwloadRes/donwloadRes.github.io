@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在VSCode中配置C-C++开发环境（使用MinGW）"
+title: "在VSCode中配置CC开发环境使用MinGW"
 date:   2021-10-06
 tags: [VSCode,MinGW,C++,配置,文件夹]
 comments: true

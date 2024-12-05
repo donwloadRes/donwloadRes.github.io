@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.3p2 RPM 包下载"
+title: "OpenSSH 93p2 RPM 包下载"
 date:   2022-05-17
 tags: [OpenSSH,9.3,p2,RPM,openEuler]
 comments: true

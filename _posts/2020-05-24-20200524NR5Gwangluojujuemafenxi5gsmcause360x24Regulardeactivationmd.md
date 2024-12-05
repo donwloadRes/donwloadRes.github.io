@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NR5G网络拒绝码分析：5gsm_cause = 36 (0x24) (Regular deactivation)"
+title: "NR5G网络拒绝码分析5gsmcause  36 0x24 Regular deactivation"
 date:   2021-05-04
 tags: [5gsm,网络,NR5G,cause,36]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SELinux详解-中文版资源下载"
+title: "SELinux详解中文版资源下载"
 date:   2020-08-17
 tags: [SELinux,中文版,详解,文件,pdf]
 comments: true

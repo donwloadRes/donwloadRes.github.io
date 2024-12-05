@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADT Bundle for Windows x86_64 下载指南"
+title: "ADT Bundle for Windows x8664 下载指南"
 date:   2024-09-10
 tags: [ADT,64,下载,Bundle,Windows]
 comments: true

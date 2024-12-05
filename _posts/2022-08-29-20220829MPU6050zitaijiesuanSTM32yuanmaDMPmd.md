@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050姿态解算STM32源码（DMP）"
+title: "MPU6050姿态解算STM32源码DMP"
 date:   2020-10-16
 tags: [源码,MPU6050,解算,STM32,DMP]
 comments: true

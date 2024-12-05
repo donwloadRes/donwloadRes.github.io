@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5语音功能教程：使用QTextToSpeech类实现文本转语音"
+title: "Qt5语音功能教程使用QTextToSpeech类实现文本转语音"
 date:   2021-12-26
 tags: [语音,示例,教程,QTextToSpeech,Qt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西瓜书课后题——第四章（决策树）资源文件介绍"
+title: "西瓜书课后题第四章决策树资源文件介绍"
 date:   2024-10-02
 tags: [决策树,剪枝,代码,Python,算法]
 comments: true

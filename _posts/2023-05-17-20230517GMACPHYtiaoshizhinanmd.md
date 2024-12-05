@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMAC+PHY调试指南"
+title: "GMACPHY调试指南"
 date:   2023-05-16
 tags: [调试,PHY,接口,MDIO,GMAC]
 comments: true

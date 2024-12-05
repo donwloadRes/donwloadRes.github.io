@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用MQTT协议 + 阿里云平台实现视频监控系统"
+title: "利用MQTT协议  阿里云平台实现视频监控系统"
 date:   2022-11-11
 tags: [MQTT,设备,阿里,视频,监控]
 comments: true

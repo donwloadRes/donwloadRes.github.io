@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广工anyview数据结构第七章（2021.12）习题资源"
+title: "广工anyview数据结构第七章202112习题资源"
 date:   2020-12-31
 tags: [第七章,习题,广工,anyview,数据结构]
 comments: true

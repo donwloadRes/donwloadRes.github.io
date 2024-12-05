@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 调用 7z 解压缩封装代码"
+title: "C 调用 7z 解压缩封装代码"
 date:   2021-11-13
 tags: [7z,解压缩,C++,封装,代码]
 comments: true

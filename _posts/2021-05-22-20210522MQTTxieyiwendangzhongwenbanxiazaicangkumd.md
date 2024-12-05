@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT协议文档（中文版）下载仓库"
+title: "MQTT协议文档中文版下载仓库"
 date:   2023-01-29
 tags: [MQTT,文档,协议,开发者,中文版]
 comments: true

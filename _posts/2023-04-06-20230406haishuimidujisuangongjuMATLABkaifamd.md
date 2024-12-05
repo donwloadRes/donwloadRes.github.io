@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海水密度计算工具 - MATLAB开发"
+title: "海水密度计算工具  MATLAB开发"
 date:   2023-11-22
 tags: [密度,海水,kg,函数,MATLAB]
 comments: true

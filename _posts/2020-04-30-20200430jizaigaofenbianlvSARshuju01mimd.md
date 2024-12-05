@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机载高分辨率SAR数据（~0.1米）"
+title: "机载高分辨率SAR数据01米"
 date:   2024-05-05
 tags: [数据,SAR,0.1,机载,高分辨率]
 comments: true

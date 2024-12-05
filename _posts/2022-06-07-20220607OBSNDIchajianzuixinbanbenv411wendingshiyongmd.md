@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OBS NDI插件 最新版本v4.11 稳定使用"
+title: "OBS NDI插件 最新版本v411 稳定使用"
 date:   2024-09-12
 tags: [插件,OBS,NDI,Studio,v4.11]
 comments: true

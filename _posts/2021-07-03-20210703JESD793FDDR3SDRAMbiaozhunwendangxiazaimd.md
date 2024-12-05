@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD79-3F DDR3 SDRAM 标准文档下载"
+title: "JESD793F DDR3 SDRAM 标准文档下载"
 date:   2024-01-22
 tags: [文档,DDR3,SDRAM,JESD79,3F]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Web企业门户网站-人工智能拓展"
+title: "Python Web企业门户网站人工智能拓展"
 date:   2021-11-05
 tags: [Web,人工智能,Python,API,人脸]
 comments: true

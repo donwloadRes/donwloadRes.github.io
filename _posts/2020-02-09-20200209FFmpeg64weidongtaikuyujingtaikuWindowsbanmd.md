@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 64位动态库与静态库（Windows版）"
+title: "FFmpeg 64位动态库与静态库Windows版"
 date:   2021-10-08
 tags: [FFmpeg,静态,文件,64,Windows]
 comments: true

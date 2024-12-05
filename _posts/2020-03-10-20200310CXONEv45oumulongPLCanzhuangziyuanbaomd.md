@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXONE v4.5 欧姆龙PLC 安装资源包"
+title: "CXONE v45 欧姆龙PLC 安装资源包"
 date:   2022-02-13
 tags: [CX,Programmer,链接,下载,云盘]
 comments: true

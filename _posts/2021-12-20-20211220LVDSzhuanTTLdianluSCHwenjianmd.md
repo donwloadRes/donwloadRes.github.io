@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVDS转TTL电路（SCH文件）"
+title: "LVDS转TTL电路SCH文件"
 date:   2022-07-22
 tags: [电路,LVDS,TTL,电路设计,SCH]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随波逐流CTF编码工具 V4.5 20230516"
+title: "随波逐流CTF编码工具 V45 20230516"
 date:   2020-07-13
 tags: [CTF,编码,工具,加解密,随波逐流]
 comments: true

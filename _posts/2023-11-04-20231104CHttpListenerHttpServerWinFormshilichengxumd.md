@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HttpListener HttpServer WinForm 示例程序"
+title: "C HttpListener HttpServer WinForm 示例程序"
 date:   2021-05-02
 tags: [HttpListener,程序,示例,WinForm,C#]
 comments: true

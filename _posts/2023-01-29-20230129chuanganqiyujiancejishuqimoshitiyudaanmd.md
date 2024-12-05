@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传感器与检测技术》期末试题与答案"
+title: "传感器与检测技术期末试题与答案"
 date:   2023-08-11
 tags: [传感器,检测,试题,答案,技术]
 comments: true

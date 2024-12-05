@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apriori关联分析案例——购物车的关联分析"
+title: "Apriori关联分析案例购物车的关联分析"
 date:   2020-08-11
 tags: [Apriori,购物车,关联,分析,算法]
 comments: true

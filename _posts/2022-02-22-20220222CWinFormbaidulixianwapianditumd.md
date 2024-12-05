@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 百度离线瓦片地图"
+title: "C WinForm 百度离线瓦片地图"
 date:   2023-10-03
 tags: [地图,瓦片,离线,截图,下载]
 comments: true

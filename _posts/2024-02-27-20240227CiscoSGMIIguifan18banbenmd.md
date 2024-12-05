@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco SGMII 规范 1.8 版本"
+title: "Cisco SGMII 规范 18 版本"
 date:   2024-05-26
 tags: [SGMII,1.8,规范,Cisco,串行]
 comments: true

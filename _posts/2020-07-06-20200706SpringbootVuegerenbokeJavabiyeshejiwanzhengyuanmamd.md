@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot+Vue个人博客 Java毕业设计 完整源码"
+title: "SpringbootVue个人博客 Java毕业设计 完整源码"
 date:   2024-09-05
 tags: [src,main,毕业设计,Springboot,Vue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台达AS系列PLC Modbus TCP网口上位机通信C#源代码"
+title: "台达AS系列PLC Modbus TCP网口上位机通信C源代码"
 date:   2023-11-19
 tags: [Modbus,PLC,TCP,Excel,生成]
 comments: true

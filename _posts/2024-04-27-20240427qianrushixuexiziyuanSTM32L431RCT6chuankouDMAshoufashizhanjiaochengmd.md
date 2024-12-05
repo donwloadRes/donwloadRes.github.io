@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式学习资源 - STM32L431RCT6串口DMA收发实战教程"
+title: "嵌入式学习资源  STM32L431RCT6串口DMA收发实战教程"
 date:   2023-01-04
 tags: [串口,STM32L431RCT6,嵌入式,DMA,STM32]
 comments: true

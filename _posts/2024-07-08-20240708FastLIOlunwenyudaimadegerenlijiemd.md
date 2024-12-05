@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fast-LIO论文与代码的个人理解"
+title: "FastLIO论文与代码的个人理解"
 date:   2020-11-08
 tags: [Fast,LIO,代码,论文,资源]
 comments: true

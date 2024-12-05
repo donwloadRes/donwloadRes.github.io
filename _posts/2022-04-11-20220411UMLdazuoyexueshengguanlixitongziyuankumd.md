@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "UML大作业学生管理系统资源库"
+title: "UML大作业学生管理系统资源库
+date   20230225
+tags UML资源库管理系统学生作业
+comments true
+author admin
+
+
+layout post
+title UML大作业学生管理系统资源库"
 date:   2023-02-25
 tags: [UML,资源库,管理系统,学生,作业]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "UML大作业学生管理系统资源库"
+title: "UML大作业学生管理系统资源库
+date   20230225
+tags UML资源库管理系统学生作业
+comments true
+author admin
+
+
+layout post
+title UML大作业学生管理系统资源库"
 date:   2020-10-20
 tags: [UML,资源库,管理系统,学生,作业]
 comments: true

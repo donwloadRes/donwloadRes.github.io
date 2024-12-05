@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文停用词库 - 综合性资源"
+title: "中文停用词库  综合性资源"
 date:   2024-02-13
 tags: [停用,用词,词表,中文,词库]
 comments: true

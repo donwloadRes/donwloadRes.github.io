@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC 2.0 环境直接安装资源文件"
+title: "OPC 20 环境直接安装资源文件"
 date:   2021-08-06
 tags: [文件,2.0,OPC,DCOM,环境]
 comments: true

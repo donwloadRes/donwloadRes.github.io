@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为手机永久关闭-开启系统更新（通过ADB模式）"
+title: "华为手机永久关闭开启系统更新通过ADB模式"
 date:   2020-04-01
 tags: [手机,更新,ADB,--,华为]
 comments: true

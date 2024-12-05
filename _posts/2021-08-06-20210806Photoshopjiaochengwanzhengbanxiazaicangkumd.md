@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop教程(完整版) 下载仓库"
+title: "Photoshop教程完整版 下载仓库"
 date:   2020-12-12
 tags: [Photoshop,教程,完整版,文字效果,仓库]
 comments: true

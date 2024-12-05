@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5511 DP转LVDS+eDP方案设计参考原理图"
+title: "CS5511 DP转LVDSeDP方案设计参考原理图"
 date:   2023-07-29
 tags: [LVDS,eDP,原理图,引脚,端口]
 comments: true

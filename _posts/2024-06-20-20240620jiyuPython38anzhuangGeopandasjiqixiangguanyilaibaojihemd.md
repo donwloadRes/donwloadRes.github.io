@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python 3.8安装Geopandas及其相关依赖包集合"
+title: "基于Python 38安装Geopandas及其相关依赖包集合"
 date:   2022-01-29
 tags: [Geopandas,安装,Anaconda,Python,3.8]
 comments: true

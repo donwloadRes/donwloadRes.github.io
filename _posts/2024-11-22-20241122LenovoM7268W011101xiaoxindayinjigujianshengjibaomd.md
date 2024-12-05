@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo M7268W-01.11.01 小新打印机固件升级包"
+title: "Lenovo M7268W011101 小新打印机固件升级包"
 date:   2024-03-18
 tags: [打印机,固件,01,01.11,升级包]
 comments: true

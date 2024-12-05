@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeX模板：IEEE Sensor Journal 2024年投稿模板"
+title: "LaTeX模板IEEE Sensor Journal 2024年投稿模板"
 date:   2021-02-15
 tags: [模板,LaTeX,IEEE,Sensor,Journal]
 comments: true

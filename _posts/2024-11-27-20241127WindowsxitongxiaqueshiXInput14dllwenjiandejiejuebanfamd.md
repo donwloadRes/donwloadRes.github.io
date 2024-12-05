@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统下缺失XInput1_4.dll文件的解决办法"
+title: "Windows系统下缺失XInput14dll文件的解决办法"
 date:   2022-12-23
 tags: [文件,XInput1,dll,Windows,缺失]
 comments: true

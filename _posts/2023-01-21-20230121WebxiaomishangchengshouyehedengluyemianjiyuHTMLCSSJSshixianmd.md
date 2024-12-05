@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web小米商城首页和登录页面基于HTML+CSS+JS实现"
+title: "Web小米商城首页和登录页面基于HTMLCSSJS实现"
 date:   2022-08-31
 tags: [页面,JavaScript,网页,CSS,学习]
 comments: true

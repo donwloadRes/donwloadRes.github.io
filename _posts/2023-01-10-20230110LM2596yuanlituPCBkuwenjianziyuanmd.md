@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM2596原理图、PCB、库文件资源"
+title: "LM2596原理图PCB库文件资源"
 date:   2022-05-27
 tags: [LM2596,文件,PCB,原理图,电路]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Netica操作指南（中文）下载仓库"
+title: "Netica操作指南中文下载仓库"
 date:   2023-01-14
 tags: [指南,Netica,中文,文档,操作]
 comments: true

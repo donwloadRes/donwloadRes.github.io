@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机子空间（SSI）算法 MATLAB 代码资源"
+title: "随机子空间SSI算法 MATLAB 代码资源"
 date:   2021-11-07
 tags: [MATLAB,SSI,算法,代码,随机]
 comments: true

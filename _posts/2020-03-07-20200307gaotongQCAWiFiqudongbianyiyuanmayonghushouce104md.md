@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通QCA WiFi驱动编译源码用户手册10.4"
+title: "高通QCA WiFi驱动编译源码用户手册104"
 date:   2023-12-04
 tags: [高通,编译,源码,QCA,驱动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-Explorer 5 免Licence安装指南"
+title: "PCANExplorer 5 免Licence安装指南"
 date:   2023-03-07
 tags: [PCAN,Explorer,安装,Licence,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-4 电快速瞬变脉冲群抗扰度试验标准文件"
+title: "IEC 6100044 电快速瞬变脉冲群抗扰度试验标准文件"
 date:   2020-04-08
 tags: [IEC,61000,瞬变,试验,电磁兼容]
 comments: true

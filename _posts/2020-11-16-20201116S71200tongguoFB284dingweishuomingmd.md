@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200通过FB284定位说明"
+title: "S71200通过FB284定位说明"
 date:   2023-11-04
 tags: [FB284,伺服电机,西门子,S7,1200]
 comments: true

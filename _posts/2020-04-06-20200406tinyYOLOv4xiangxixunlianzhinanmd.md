@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(tiny) YOLOv4 详细训练指南"
+title: "tiny YOLOv4 详细训练指南"
 date:   2023-06-22
 tags: [训练,指南,tiny,YOLOv4,cfg]
 comments: true

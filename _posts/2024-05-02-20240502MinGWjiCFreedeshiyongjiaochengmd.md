@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW及C-Free的使用教程"
+title: "MinGW及CFree的使用教程"
 date:   2021-11-23
 tags: [Free,MinGW,C++,Windows,调试]
 comments: true

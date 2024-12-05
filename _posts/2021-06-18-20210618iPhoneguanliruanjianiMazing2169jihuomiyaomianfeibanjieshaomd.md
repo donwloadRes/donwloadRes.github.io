@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iPhone管理软件iMazing 2.16.9激活密钥免费版介绍"
+title: "iPhone管理软件iMazing 2169激活密钥免费版介绍"
 date:   2020-01-21
 tags: [激活,软件,密钥,iPhone,iMazing]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS VX 2.7 安装记录"
+title: "PADS VX 27 安装记录"
 date:   2023-02-22
 tags: [PADS,安装,2.7,双击,VX]
 comments: true

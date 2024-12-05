@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生XP-3100清零软件+图解"
+title: "爱普生XP3100清零软件图解"
 date:   2021-07-31
 tags: [清零,软件,图解,爱普生,XP]
 comments: true

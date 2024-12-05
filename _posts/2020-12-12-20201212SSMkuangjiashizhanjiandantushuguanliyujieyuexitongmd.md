@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSM框架实战：简单图书管理与借阅系统"
+title: "SSM框架实战简单图书管理与借阅系统"
 date:   2020-09-22
 tags: [图书,借阅,配置文件,用户,Spring]
 comments: true

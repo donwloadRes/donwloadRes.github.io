@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1149.1-2001 IEEE JTAG 标准文档"
+title: "IEEE 114912001 IEEE JTAG 标准文档"
 date:   2020-02-10
 tags: [文档,2001,IEEE,JTAG,IEEE.1149]
 comments: true

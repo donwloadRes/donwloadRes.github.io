@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 安装配置 Qt 5.14.2 指南"
+title: "CentOS 7 安装配置 Qt 5142 指南"
 date:   2023-03-17
 tags: [Qt,devel,安装,CentOS,5.14]
 comments: true

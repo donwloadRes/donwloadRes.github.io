@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB信号处理工具：计算信号功率谱及双谱"
+title: "MATLAB信号处理工具计算信号功率谱及双谱"
 date:   2024-02-12
 tags: [MATLAB,信号,双谱,计算,功率]
 comments: true

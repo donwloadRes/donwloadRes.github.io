@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析期末试卷2.pdf(含答案)"
+title: "算法设计与分析期末试卷2pdf含答案"
 date:   2023-06-03
 tags: [算法,期末试卷,试卷,pdf,解析]
 comments: true

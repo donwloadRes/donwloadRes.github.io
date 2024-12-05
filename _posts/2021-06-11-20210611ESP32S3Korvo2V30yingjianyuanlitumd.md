@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3-Korvo-2 V3.0 硬件原理图"
+title: "ESP32S3Korvo2 V30 硬件原理图"
 date:   2021-10-21
 tags: [原理图,ESP32,S3,Korvo,V3.0]
 comments: true

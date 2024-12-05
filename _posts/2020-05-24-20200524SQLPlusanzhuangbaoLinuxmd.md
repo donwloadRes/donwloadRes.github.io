@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLPlus 安装包（Linux）"
+title: "SQLPlus 安装包Linux"
 date:   2020-11-20
 tags: [SQLPlus,Linux,安装包,安装,tar]
 comments: true

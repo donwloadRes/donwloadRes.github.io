@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高性能计算（HPC）详解资源下载"
+title: "高性能计算HPC详解资源下载"
 date:   2020-10-05
 tags: [高性能,HPC,计算,详解,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7系统KERNEL32.dll文件缺失问题解决方案"
+title: "Win7系统KERNEL32dll文件缺失问题解决方案"
 date:   2023-09-13
 tags: [补丁,KERNEL32,dll,Windows,文件]
 comments: true

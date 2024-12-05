@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2008 R2 Enterprise 企业版 绿色版 v1.4 下载仓库"
+title: "SQL Server 2008 R2 Enterprise 企业版 绿色版 v14 下载仓库"
 date:   2021-02-26
 tags: [绿色版,文档,SQL,Server,64]
 comments: true

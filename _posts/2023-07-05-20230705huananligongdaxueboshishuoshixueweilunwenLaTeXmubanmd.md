@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华南理工大学博士-硕士学位论文 LaTeX模板"
+title: "华南理工大学博士硕士学位论文 LaTeX模板"
 date:   2024-11-20
 tags: [模板,华南理工大学,LaTeX,论文,编译]
 comments: true

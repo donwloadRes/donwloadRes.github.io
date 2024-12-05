@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103RCT6的无源蜂鸣器音乐播放（生日快乐歌）修改版"
+title: "基于STM32F103RCT6的无源蜂鸣器音乐播放生日快乐歌修改版"
 date:   2021-03-29
 tags: [蜂鸣器,播放,STM32F103RCT6,无源,生日快乐]
 comments: true

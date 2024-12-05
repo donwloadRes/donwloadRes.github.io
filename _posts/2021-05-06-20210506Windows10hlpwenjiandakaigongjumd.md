@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 .hlp文件打开工具"
+title: "Windows 10 hlp文件打开工具"
 date:   2021-01-17
 tags: [Windows,10,hlp,工具,文件]
 comments: true

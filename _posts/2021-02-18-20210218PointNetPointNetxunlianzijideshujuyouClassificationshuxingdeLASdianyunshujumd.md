@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet - PointNet++ 训练自己的数据：有Classification属性的LAS点云数据"
+title: "PointNet  PointNet 训练自己的数据有Classification属性的LAS点云数据"
 date:   2021-09-21
 tags: [PointNet,点云,训练,模型,++]
 comments: true

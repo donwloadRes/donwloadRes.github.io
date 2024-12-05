@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows程序设计 (第5版 珍藏版)"
+title: "Windows程序设计 第5版 珍藏版"
 date:   2022-06-05
 tags: [Windows,珍藏版,程序设计,编程,开发者]
 comments: true

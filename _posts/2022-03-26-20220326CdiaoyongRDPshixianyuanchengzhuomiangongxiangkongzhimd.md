@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用RDP实现远程桌面共享控制"
+title: "C调用RDP实现远程桌面共享控制"
 date:   2020-06-07
 tags: [RDP,远程桌面,C#,共享,调用]
 comments: true

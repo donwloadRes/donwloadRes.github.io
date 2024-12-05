@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISOSAE21434：2021汽车网络安全标准详解"
+title: "ISOSAE214342021汽车网络安全标准详解"
 date:   2024-04-09
 tags: [网络安全,汽车,标准,ISOSAE21434,沟通交流]
 comments: true

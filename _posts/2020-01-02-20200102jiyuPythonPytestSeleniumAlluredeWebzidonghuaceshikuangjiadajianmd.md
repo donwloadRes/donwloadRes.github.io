@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python + Pytest + Selenium + Allure的Web自动化测试框架搭建"
+title: "基于Python  Pytest  Selenium  Allure的Web自动化测试框架搭建"
 date:   2022-09-28
 tags: [测试,Web,自动化,Python,测试环境]
 comments: true

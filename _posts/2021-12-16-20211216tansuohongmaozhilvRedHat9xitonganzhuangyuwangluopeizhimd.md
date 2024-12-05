@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "探索红帽之旅：RedHat 9 系统安装与网络配置"
+title: "探索红帽之旅RedHat 9 系统安装与网络配置"
 date:   2023-09-01
 tags: [网络,RedHat,安装,配置,闪存]
 comments: true

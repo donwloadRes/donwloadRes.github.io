@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Sublime Text软件安装包分享（汉化版本）"
+title: "最新Sublime Text软件安装包分享汉化版本"
 date:   2024-04-13
 tags: [汉化,Sublime,Text,安装包,版本]
 comments: true

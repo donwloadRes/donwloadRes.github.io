@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT-spice教程"
+title: "LTspice教程"
 date:   2023-04-17
 tags: [LT,spice,仿真,教程,电路设计]
 comments: true

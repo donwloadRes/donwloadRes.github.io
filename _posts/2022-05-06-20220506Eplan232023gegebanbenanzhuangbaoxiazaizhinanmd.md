@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eplan 2.3-2023各个版本安装包下载指南"
+title: "Eplan 232023各个版本安装包下载指南"
 date:   2023-04-04
 tags: [Eplan,安装包,安装,2023,版本]
 comments: true

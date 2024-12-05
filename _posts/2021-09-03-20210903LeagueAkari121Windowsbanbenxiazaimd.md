@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "League.Akari 1.2.1 Windows 版本下载"
+title: "LeagueAkari 121 Windows 版本下载"
 date:   2020-01-03
 tags: [League,1.2,Akari,Windows,版本]
 comments: true

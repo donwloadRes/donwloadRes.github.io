@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手实战教学：语义分割从0到1 - 数据集制作"
+title: "手把手实战教学语义分割从0到1  数据集制作"
 date:   2024-03-03
 tags: [标注,语义,分割,VOC,数据]
 comments: true

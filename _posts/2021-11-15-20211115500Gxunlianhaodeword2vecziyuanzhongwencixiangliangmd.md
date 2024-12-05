@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "500G+ 训练好的 word2vec 资源（中文词向量）"
+title: "500G 训练好的 word2vec 资源中文词向量"
 date:   2022-10-23
 tags: [model,语料,中文,word2vec,模型]
 comments: true

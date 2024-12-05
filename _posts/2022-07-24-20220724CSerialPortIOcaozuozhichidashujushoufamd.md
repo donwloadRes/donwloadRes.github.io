@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SerialPort IO操作 - 支持大数据收发"
+title: "C SerialPort IO操作  支持大数据收发"
 date:   2024-03-14
 tags: [串口,数据,测试,读取,C#]
 comments: true

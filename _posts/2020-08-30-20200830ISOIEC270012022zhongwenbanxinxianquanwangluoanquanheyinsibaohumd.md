@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO IEC 27001-2022 中文版：信息安全、网络安全和隐私保护"
+title: "ISO IEC 270012022 中文版信息安全网络安全和隐私保护"
 date:   2023-10-20
 tags: [信息安全,ISO,IEC,27001,2022]
 comments: true

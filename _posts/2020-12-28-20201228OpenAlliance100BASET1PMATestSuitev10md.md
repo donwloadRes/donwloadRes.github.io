@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Alliance 100BASE-T1 PMA Test Suite v1.0"
+title: "Open Alliance 100BASET1 PMA Test Suite v10"
 date:   2023-11-29
 tags: [测试,100BASE,T1,套件,以太网]
 comments: true

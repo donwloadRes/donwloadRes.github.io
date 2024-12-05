@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的海康摄像头二次开发资源文件"
+title: "基于C的海康摄像头二次开发资源文件"
 date:   2023-01-12
 tags: [摄像头,海康,云台,二次开发,C#]
 comments: true

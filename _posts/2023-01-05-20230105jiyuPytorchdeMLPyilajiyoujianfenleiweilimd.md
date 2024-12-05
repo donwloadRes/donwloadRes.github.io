@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Pytorch的MLP（以垃圾邮件分类为例）"
+title: "基于Pytorch的MLP以垃圾邮件分类为例"
 date:   2020-07-21
 tags: [模型,Pytorch,垃圾邮件,训练,MLP]
 comments: true

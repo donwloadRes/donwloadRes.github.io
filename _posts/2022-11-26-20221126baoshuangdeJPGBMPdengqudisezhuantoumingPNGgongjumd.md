@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "暴爽的JPG，BMP等去底色转透明PNG工具"
+title: "暴爽的JPGBMP等去底色转透明PNG工具"
 date:   2024-01-20
 tags: [PNG,图片,工具,底色,透明]
 comments: true

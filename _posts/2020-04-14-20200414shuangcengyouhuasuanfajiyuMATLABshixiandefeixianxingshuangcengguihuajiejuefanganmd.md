@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双层优化算法：基于MATLAB实现的非线性双层规划解决方案"
+title: "双层优化算法基于MATLAB实现的非线性双层规划解决方案"
 date:   2022-04-09
 tags: [双层,MATLAB,算法,优化,非线性]
 comments: true

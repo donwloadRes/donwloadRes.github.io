@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下新版QGC地面站环境搭建全面攻略（v4.1.x QGroundControl地面站搭建，附源码百度网盘）"
+title: "Windows下新版QGC地面站环境搭建全面攻略v41x QGroundControl地面站搭建附源码百度网盘"
 date:   2024-05-02
 tags: [源码,QGC,Windows,百度网,搭建]
 comments: true

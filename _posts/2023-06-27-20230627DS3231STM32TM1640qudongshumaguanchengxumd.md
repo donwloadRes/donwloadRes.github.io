@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS3231+STM32+TM1640驱动数码管程序"
+title: "DS3231STM32TM1640驱动数码管程序"
 date:   2023-01-22
 tags: [DS3231,STM32,数码管,TM1640,微控制器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 教程资源下载"
+title: "MySQL 80 教程资源下载"
 date:   2024-11-01
 tags: [MySQL,教程,8.0,参考手册,pdf]
 comments: true

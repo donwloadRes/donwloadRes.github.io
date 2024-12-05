@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的非物质文化遗产网站设计与实现【附源码】"
+title: "基于Java的非物质文化遗产网站设计与实现附源码"
 date:   2024-05-13
 tags: [用户,非遗,git,feature,Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VNC v6.0系列通用序列号"
+title: "VNC v60系列通用序列号"
 date:   2021-08-29
 tags: [VNC,序列号,软件,原版,v6.0]
 comments: true

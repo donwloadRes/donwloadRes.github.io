@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC仿真软件S7-200仿真软件下载"
+title: "PLC仿真软件S7200仿真软件下载"
 date:   2021-07-31
 tags: [仿真,软件,PLC,S7,200]
 comments: true

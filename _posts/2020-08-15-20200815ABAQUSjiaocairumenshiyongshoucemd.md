@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS教材：入门使用手册"
+title: "ABAQUS教材入门使用手册"
 date:   2022-04-25
 tags: [ABAQUS,入门,使用手册,使用者,初学者]
 comments: true

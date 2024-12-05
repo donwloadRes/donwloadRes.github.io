@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L EDIT: 绘制多边形与文字的C代码实现"
+title: "L EDIT 绘制多边形与文字的C代码实现"
 date:   2023-05-02
 tags: [图形库,多边形,代码,绘制,C语言]
 comments: true

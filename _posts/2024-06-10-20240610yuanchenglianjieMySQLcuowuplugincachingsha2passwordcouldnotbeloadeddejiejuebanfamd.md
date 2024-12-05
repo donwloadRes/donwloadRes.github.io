@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程连接MySQL错误“plugin caching_sha2_password could not be loaded”的解决办法"
+title: "远程连接MySQL错误plugin cachingsha2password could not be loaded的解决办法"
 date:   2022-12-21
 tags: [MySQL,password,插件,身份验证,caching]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGisPro脚本工具【7】——通过高德地图API获取公交线路"
+title: "ArcGisPro脚本工具7通过高德地图API获取公交线路"
 date:   2023-04-20
 tags: [API,公交线路,ArcGisPro,高德,获取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用C#实现研华DAQ的绝大部分功能"
+title: "用C实现研华DAQ的绝大部分功能"
 date:   2022-09-13
 tags: [研华,DAQ,硬件,C#,示例]
 comments: true

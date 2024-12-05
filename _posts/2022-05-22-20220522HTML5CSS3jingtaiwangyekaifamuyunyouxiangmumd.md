@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5+CSS3静态网页开发 —— 慕云游项目"
+title: "HTML5CSS3静态网页开发  慕云游项目"
 date:   2022-09-03
 tags: [网页,项目,HTML5,CSS3,开发]
 comments: true

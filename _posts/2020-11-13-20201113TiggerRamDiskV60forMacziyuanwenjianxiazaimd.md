@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TiggerRamDisk V6.0 for Mac 资源文件下载"
+title: "TiggerRamDisk V60 for Mac 资源文件下载"
 date:   2021-11-19
 tags: [Mac,TiggerRamDisk,TiggerRamDiskV6.0,V6.0,zip]
 comments: true

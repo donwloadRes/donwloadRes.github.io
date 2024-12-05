@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform流程图编辑器 - GDI+绘图技术"
+title: "Winform流程图编辑器  GDI绘图技术"
 date:   2023-10-30
 tags: [流程图,编辑器,GDI,绘图,编辑]
 comments: true

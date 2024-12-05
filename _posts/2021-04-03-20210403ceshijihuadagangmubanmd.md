@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试计划(大纲)模板"
+title: "测试计划大纲模板"
 date:   2021-03-12
 tags: [模板,测试计划,测试,大纲,仓库]
 comments: true

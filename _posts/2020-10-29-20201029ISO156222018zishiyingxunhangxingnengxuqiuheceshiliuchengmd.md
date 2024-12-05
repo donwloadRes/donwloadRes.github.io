@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO15622-2018 自适应巡航性能需求和测试流程"
+title: "ISO156222018 自适应巡航性能需求和测试流程"
 date:   2023-08-14
 tags: [ISO15622,2018,性能需求,驾驶,巡航]
 comments: true

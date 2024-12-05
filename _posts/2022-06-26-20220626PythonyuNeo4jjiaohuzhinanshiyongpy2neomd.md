@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python与Neo4j交互指南（使用py2neo）"
+title: "Python与Neo4j交互指南使用py2neo"
 date:   2024-01-15
 tags: [Neo4j,py2neo,Python,数据库,安装]
 comments: true

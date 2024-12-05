@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiA-402-1 版本 3.0.0 资源文件下载"
+title: "CiA4021 版本 300 资源文件下载"
 date:   2022-07-28
 tags: [文件,CiA,402,3.0,CANopen]
 comments: true

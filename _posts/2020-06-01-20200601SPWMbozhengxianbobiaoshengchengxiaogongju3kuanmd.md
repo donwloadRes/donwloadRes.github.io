@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPWM波正弦波表生成小工具(3款)"
+title: "SPWM波正弦波表生成小工具3款"
 date:   2021-08-29
 tags: [工具,正弦波,生成,SPWM,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩转软路由：虚拟机ESXI中Mikrotik RouterOS(ROS)的安装设置教程"
+title: "玩转软路由虚拟机ESXI中Mikrotik RouterOSROS的安装设置教程"
 date:   2023-06-27
 tags: [ROS,虚拟机,教程,ESXI,配置]
 comments: true

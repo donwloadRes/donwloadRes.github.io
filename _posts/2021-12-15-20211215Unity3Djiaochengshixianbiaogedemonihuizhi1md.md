@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：实现表格的模拟绘制1"
+title: "Unity3D教程实现表格的模拟绘制1"
 date:   2022-03-15
 tags: [Unity3D,教程,表格,绘制,开发者]
 comments: true

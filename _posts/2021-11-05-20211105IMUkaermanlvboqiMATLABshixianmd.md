@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMU卡尔曼滤波器 - MATLAB实现"
+title: "IMU卡尔曼滤波器  MATLAB实现"
 date:   2021-08-17
 tags: [IMU,卡尔曼滤波,数据,MATLAB,传感器]
 comments: true

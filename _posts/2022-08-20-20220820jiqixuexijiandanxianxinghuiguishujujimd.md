@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习：简单线性回归数据集"
+title: "机器学习简单线性回归数据集"
 date:   2022-08-19
 tags: [数据,线性,模型,回归,学习]
 comments: true

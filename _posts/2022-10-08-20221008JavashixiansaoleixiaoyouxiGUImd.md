@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实现扫雷小游戏（GUI）"
+title: "Java实现扫雷小游戏GUI"
 date:   2022-05-08
 tags: [游戏,Java,GUI,扫雷,小游戏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单的个人网页：HTML+CSS"
+title: "简单的个人网页HTMLCSS"
 date:   2020-12-06
 tags: [CSS,网页,文件,HTML,模板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "element中Notification组件（this.$notify）自定义样式示例"
+title: "element中Notification组件thisnotify自定义样式示例"
 date:   2020-06-03
 tags: [自定义,样式,Element,Notification,notify]
 comments: true

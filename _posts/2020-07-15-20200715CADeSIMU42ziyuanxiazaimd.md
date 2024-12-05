@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CADe-SIMU 4.2 资源下载"
+title: "CADeSIMU 42 资源下载"
 date:   2020-06-17
 tags: [CADe,SIMU,4.2,版本,模拟]
 comments: true

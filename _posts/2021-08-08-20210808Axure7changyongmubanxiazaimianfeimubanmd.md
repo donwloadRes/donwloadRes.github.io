@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure7常用模板下载（免费模板）"
+title: "Axure7常用模板下载免费模板"
 date:   2022-04-23
 tags: [模板,Axure7,免费模板,下载,文件]
 comments: true

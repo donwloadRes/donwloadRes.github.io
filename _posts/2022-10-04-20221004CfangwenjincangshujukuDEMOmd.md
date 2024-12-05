@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#访问金仓数据库DEMO"
+title: "C访问金仓数据库DEMO"
 date:   2023-12-01
 tags: [数据库,C#,金仓,DEMO,访问]
 comments: true

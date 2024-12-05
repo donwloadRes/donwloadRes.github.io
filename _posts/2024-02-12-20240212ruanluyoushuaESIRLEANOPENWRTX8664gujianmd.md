@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软路由刷ESIR LEAN OPENWRT X86-64 固件"
+title: "软路由刷ESIR LEAN OPENWRT X8664 固件"
 date:   2021-10-15
 tags: [固件,路由,64,X86,U盘]
 comments: true

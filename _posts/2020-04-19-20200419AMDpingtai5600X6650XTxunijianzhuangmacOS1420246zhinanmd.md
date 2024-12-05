@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMD平台 5600X+6650XT 虚拟机安装macOS 14(2024.6) 指南"
+title: "AMD平台 5600X6650XT 虚拟机安装macOS 1420246 指南"
 date:   2024-10-15
 tags: [安装,macOS,AMD,虚拟机,平台]
 comments: true

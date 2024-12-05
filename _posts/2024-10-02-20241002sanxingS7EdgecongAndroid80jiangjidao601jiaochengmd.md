@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三星S7 Edge 从 Android 8.0 降级到 6.0.1 教程"
+title: "三星S7 Edge 从 Android 80 降级到 601 教程"
 date:   2020-08-04
 tags: [降级,6.0,Android,三星,S7]
 comments: true

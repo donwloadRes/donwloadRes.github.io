@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路实验：74LS192计数器 - 加-减法"
+title: "数字电路实验74LS192计数器  加减法"
 date:   2024-09-14
 tags: [计数,实验,计数器,74LS192,数字电路]
 comments: true

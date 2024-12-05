@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Fastboot驱动（支持win10 & ubuntu）"
+title: "Android Fastboot驱动支持win10  ubuntu"
 date:   2020-02-01
 tags: [Fastboot,驱动,设备,Android,USB]
 comments: true

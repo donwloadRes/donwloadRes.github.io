@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决api-ms-win-crt-runtime-l1-1-0.dll丢失问题"
+title: "解决apimswincrtruntimel110dll丢失问题"
 date:   2021-05-26
 tags: [api,ms,win,crt,runtime]
 comments: true

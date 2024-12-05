@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MVSNet代码超详细注释（PyTorch）"
+title: "MVSNet代码超详细注释PyTorch"
 date:   2023-10-11
 tags: [MVSNet,代码,PyTorch,注释,temp]
 comments: true

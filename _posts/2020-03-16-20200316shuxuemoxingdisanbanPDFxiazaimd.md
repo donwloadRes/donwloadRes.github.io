@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学模型》第三版 PDF 下载"
+title: "数学模型第三版 PDF 下载"
 date:   2020-03-17
 tags: [PDF,第三版,数学模型,建模,数学]
 comments: true

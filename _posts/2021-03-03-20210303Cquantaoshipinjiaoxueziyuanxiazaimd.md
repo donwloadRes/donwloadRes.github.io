@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#全套视频教学资源下载"
+title: "C全套视频教学资源下载"
 date:   2024-12-03
 tags: [C#,NET,视频,教学资源,资源]
 comments: true

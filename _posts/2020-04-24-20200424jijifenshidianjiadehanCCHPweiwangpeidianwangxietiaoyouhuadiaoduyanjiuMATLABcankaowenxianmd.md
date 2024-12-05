@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计及分时电价的含CCHP微网配电网协调优化调度研究 - MATLAB参考文献"
+title: "计及分时电价的含CCHP微网配电网协调优化调度研究  MATLAB参考文献"
 date:   2020-02-07
 tags: [响应,电价,用户,优化,能源]
 comments: true

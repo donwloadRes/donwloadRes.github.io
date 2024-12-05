@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python语法总结(完整版) - 快速入门指南"
+title: "Python语法总结完整版  快速入门指南"
 date:   2022-04-25
 tags: [Python,文档,入门,语法,学习者]
 comments: true

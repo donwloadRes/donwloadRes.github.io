@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国传统文化遇见Unity 3D：休闲游戏开发资源"
+title: "中国传统文化遇见Unity 3D休闲游戏开发资源"
 date:   2023-12-25
 tags: [游戏,Unity,源代码,休闲游戏,exe]
 comments: true

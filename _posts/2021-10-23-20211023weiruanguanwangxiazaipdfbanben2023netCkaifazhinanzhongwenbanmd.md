@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软官网下载pdf版本2023.net C#》开发指南中文版"
+title: "微软官网下载pdf版本2023net C开发指南中文版"
 date:   2020-08-10
 tags: [指南,官网,net,C#,PDF]
 comments: true

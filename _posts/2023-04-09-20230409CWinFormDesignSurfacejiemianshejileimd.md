@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm DesignSurface 界面设计类"
+title: "C WinForm DesignSurface 界面设计类"
 date:   2022-10-30
 tags: [界面设计,DesignSurface,源代码,NET,文件]
 comments: true

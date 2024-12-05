@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教程：lex与yacc-flex与bison入门（一）（使用Windows环境）"
+title: "手把手教程lex与yaccflex与bison入门一使用Windows环境"
 date:   2021-08-26
 tags: [yacc,flex,教程,lex,bison]
 comments: true

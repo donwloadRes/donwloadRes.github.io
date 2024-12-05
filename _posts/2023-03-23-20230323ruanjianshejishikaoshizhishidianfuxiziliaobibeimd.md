@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件设计师考试知识点复习资料（必备）"
+title: "软件设计师考试知识点复习资料必备"
 date:   2021-04-19
 tags: [知识点,考试,复习,设计模式,设计师]
 comments: true

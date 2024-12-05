@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.6仿真STM32F103外部中断控制LED闪烁"
+title: "Proteus 86仿真STM32F103外部中断控制LED闪烁"
 date:   2023-10-28
 tags: [Proteus,LED,仿真,8.6,中断]
 comments: true

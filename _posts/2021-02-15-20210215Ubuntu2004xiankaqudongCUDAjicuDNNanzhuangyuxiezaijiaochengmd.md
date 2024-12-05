@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 显卡驱动、CUDA 及 cuDNN 安装与卸载教程"
+title: "Ubuntu 2004 显卡驱动CUDA 及 cuDNN 安装与卸载教程"
 date:   2024-07-25
 tags: [显卡,CUDA,卸载,安装,cuDNN]
 comments: true

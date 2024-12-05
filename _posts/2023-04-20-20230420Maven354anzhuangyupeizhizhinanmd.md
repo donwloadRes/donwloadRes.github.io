@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.5.4 安装与配置指南"
+title: "Maven 354 安装与配置指南"
 date:   2024-10-30
 tags: [Maven,3.5,xml,下载,路径]
 comments: true

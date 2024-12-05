@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PD3.1版本协议详细资料"
+title: "PD31版本协议详细资料"
 date:   2020-06-19
 tags: [PD3.1,协议,USB,PD,详细资料]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "禅道18.2开源版LDAP插件"
+title: "禅道182开源版LDAP插件"
 date:   2021-09-01
 tags: [禅道,插件,LDAP,用户,18.2]
 comments: true

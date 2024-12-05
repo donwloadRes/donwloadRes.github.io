@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于持仓的基金业绩归因：始于 Brinson，归于 Barra"
+title: "基于持仓的基金业绩归因始于 Brinson归于 Barra"
 date:   2020-02-11
 tags: [归因,多因子,模型,Brinson,基于]
 comments: true

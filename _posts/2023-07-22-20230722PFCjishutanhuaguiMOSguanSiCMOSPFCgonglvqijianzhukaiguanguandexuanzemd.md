@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PFC技术：碳化硅MOS管（SiC MOS）PFC功率器件主开关管的选择"
+title: "PFC技术碳化硅MOS管SiC MOSPFC功率器件主开关管的选择"
 date:   2021-11-11
 tags: [PFC,碳化硅,MOSFET,拓扑,MOS]
 comments: true

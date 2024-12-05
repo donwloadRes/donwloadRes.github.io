@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Model Predictive Control 理论、计算与设计"
+title: "Model Predictive Control 理论计算与设计"
 date:   2020-07-09
 tags: [MPC,卡尔曼滤波,附录,Model,Predictive]
 comments: true

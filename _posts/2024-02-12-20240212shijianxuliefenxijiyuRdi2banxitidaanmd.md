@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列分析-基于R（第2版）习题答案"
+title: "时间序列分析基于R第2版习题答案"
 date:   2024-09-16
 tags: [习题,序列,答案,读者,分析]
 comments: true

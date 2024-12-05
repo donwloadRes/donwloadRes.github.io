@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.0 至 4.9.0 及 opencv_contrib 源码下载仓库"
+title: "OpenCV 480 至 490 及 opencvcontrib 源码下载仓库"
 date:   2022-02-10
 tags: [OpenCV,opencv,源码,4.9,contrib]
 comments: true

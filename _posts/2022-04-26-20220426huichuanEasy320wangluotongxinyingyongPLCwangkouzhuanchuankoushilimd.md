@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川Easy320网络通信应用-PLC网口转串口实例"
+title: "汇川Easy320网络通信应用PLC网口转串口实例"
 date:   2020-08-30
 tags: [串口,PLC,汇川,Easy320,网络通信]
 comments: true

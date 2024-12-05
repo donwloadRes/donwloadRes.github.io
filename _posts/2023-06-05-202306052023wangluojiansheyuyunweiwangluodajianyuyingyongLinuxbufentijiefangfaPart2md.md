@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023网络建设与运维-网络搭建与应用-Linux部分题解方法-Part2"
+title: "2023网络建设与运维网络搭建与应用Linux部分题解方法Part2"
 date:   2021-08-18
 tags: [运维,Linux,网络,Ansible,极致]
 comments: true

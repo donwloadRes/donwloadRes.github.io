@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统分析（华中科技大学）"
+title: "电力系统分析华中科技大学"
 date:   2021-02-19
 tags: [系统分析,电力系统,华中科技大学,教材,电力]
 comments: true

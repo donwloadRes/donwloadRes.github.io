@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果cmsV10-Dplayer播放器插件整合前置广告、暂停广告3.0版-自己修改版"
+title: "苹果cmsV10Dplayer播放器插件整合前置广告暂停广告30版自己修改版"
 date:   2024-04-19
 tags: [广告,插件,播放器,cmsV10,前置]
 comments: true

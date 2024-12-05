@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autoware 1.12.1安装全流程及相关问题解决方案"
+title: "Autoware 1121安装全流程及相关问题解决方案"
 date:   2020-12-14
 tags: [安装,Autoware,1.12,解决方案,资源]
 comments: true

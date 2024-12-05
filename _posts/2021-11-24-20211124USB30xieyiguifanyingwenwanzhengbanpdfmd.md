@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0协议规范（英文完整版）.pdf"
+title: "USB30协议规范英文完整版pdf"
 date:   2020-06-15
 tags: [USB,3.0,文档,完整版,USB3.0]
 comments: true

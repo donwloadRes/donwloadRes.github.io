@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Latex_IEEEtran中文模板"
+title: "LatexIEEEtran中文模板"
 date:   2022-06-25
 tags: [模板,IEEE,文档,Latex,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准库-独立ADC-外部触发-DMA传输-单通道"
+title: "STM32标准库独立ADC外部触发DMA传输单通道"
 date:   2021-08-17
 tags: [ADC,DMA,配置,TIM3,LED]
 comments: true

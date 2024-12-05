@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牵引力控制系统（TCS）资源文件下载"
+title: "牵引力控制系统TCS资源文件下载"
 date:   2022-09-03
 tags: [TCS,车辆,转矩,牵引力,制动]
 comments: true

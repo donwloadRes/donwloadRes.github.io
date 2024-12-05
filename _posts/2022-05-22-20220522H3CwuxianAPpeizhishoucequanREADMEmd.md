@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C无线AP配置手册(全) README"
+title: "H3C无线AP配置手册全 README"
 date:   2022-02-10
 tags: [配置,H3C,无线,AP,手册]
 comments: true

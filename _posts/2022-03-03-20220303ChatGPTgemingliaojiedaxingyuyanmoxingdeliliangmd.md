@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT 革命：了解大型语言模型的力量"
+title: "ChatGPT 革命了解大型语言模型的力量"
 date:   2024-05-08
 tags: [ChatGPT,本书,语言,模型,了解]
 comments: true

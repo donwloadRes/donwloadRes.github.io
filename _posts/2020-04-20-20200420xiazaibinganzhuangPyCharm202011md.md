@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载并安装PyCharm 2020.1.1"
+title: "下载并安装PyCharm 202011"
 date:   2023-07-31
 tags: [PyCharm,安装,快捷方式,下载,2020.1]
 comments: true

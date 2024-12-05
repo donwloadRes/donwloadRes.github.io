@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VT过游戏保护：调试受保护游戏指南"
+title: "VT过游戏保护调试受保护游戏指南"
 date:   2022-04-06
 tags: [游戏,调试,保护,VT,逆向]
 comments: true

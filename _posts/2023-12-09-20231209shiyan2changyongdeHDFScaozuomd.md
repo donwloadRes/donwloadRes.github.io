@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验2：常用的HDFS操作"
+title: "实验2常用的HDFS操作"
 date:   2022-08-28
 tags: [HDFS,文件,目录,指定,用户]
 comments: true

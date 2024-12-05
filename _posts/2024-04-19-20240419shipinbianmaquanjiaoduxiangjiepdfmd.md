@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频编码全角度详解.pdf"
+title: "视频编码全角度详解pdf"
 date:   2023-08-31
 tags: [视频,编码,pdf,详解,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR-GMTI实验Matlab代码（BP-DPCA-ATI）"
+title: "SARGMTI实验Matlab代码BPDPCAATI"
 date:   2023-07-26
 tags: [成像,ATI,目标,代码,检测]
 comments: true

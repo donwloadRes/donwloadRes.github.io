@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 模拟器资源下载"
+title: "S7200 模拟器资源下载"
 date:   2022-02-05
 tags: [模拟器,200,S7,使用,说明]
 comments: true

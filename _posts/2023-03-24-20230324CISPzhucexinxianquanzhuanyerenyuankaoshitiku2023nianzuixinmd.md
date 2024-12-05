@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP注册信息安全专业人员考试题库-2023年最新"
+title: "CISP注册信息安全专业人员考试题库2023年最新"
 date:   2023-09-07
 tags: [题库,CISP,信息安全,考试,2023]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔百和CM201-1-YS易视腾代工免拆机线刷固件包"
+title: "魔百和CM2011YS易视腾代工免拆机线刷固件包"
 date:   2022-04-16
 tags: [刷机,固件,拆机,CM201,YS]
 comments: true

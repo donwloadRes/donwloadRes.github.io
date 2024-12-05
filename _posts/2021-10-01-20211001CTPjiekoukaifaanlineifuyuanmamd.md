@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTP接口开发案例（内附源码）"
+title: "CTP接口开发案例内附源码"
 date:   2021-09-18
 tags: [CTP,接口,源码,开发,开发者]
 comments: true

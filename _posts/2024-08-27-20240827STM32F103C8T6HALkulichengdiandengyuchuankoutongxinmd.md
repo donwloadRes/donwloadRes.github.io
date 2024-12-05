@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 HAL库例程：点灯与串口通信"
+title: "STM32F103C8T6 HAL库例程点灯与串口通信"
 date:   2021-12-12
 tags: [串口,STM32F103C8T6,LED,字符,DMA]
 comments: true

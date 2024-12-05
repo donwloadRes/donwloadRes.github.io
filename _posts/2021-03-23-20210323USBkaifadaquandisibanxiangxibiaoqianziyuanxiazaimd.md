@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB开发大全第四版（详细标签）资源下载"
+title: "USB开发大全第四版详细标签资源下载"
 date:   2023-12-20
 tags: [USB,开发,第四版,大全,标签]
 comments: true

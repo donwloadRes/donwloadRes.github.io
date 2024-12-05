@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学导论-第三版》资源下载"
+title: "机器人学导论第三版资源下载"
 date:   2024-07-02
 tags: [机器人学,第三版,导论,学习,下载]
 comments: true

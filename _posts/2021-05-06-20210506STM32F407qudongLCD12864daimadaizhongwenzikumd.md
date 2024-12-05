@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407驱动LCD12864代码（带中文字库）"
+title: "STM32F407驱动LCD12864代码带中文字库"
 date:   2020-01-03
 tags: [STM32F407,代码,LCD12864,CSDN,文字]
 comments: true

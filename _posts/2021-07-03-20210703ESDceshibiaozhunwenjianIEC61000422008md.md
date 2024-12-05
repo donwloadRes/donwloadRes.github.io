@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESD测试标准文件_IEC61000-4-2-2008"
+title: "ESD测试标准文件IEC61000422008"
 date:   2020-09-10
 tags: [ESD,测试,标准文件,2008,IEC61000]
 comments: true

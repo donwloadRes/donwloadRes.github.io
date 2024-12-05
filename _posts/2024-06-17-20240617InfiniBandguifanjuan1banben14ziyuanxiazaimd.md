@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InfiniBand 规范卷1 - 版本1.4 资源下载"
+title: "InfiniBand 规范卷1  版本14 资源下载"
 date:   2021-11-06
 tags: [InfiniBand,1.4,Specification,Vol,Release]
 comments: true

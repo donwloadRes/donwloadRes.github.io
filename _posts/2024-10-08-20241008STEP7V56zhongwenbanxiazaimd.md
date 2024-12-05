@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STEP7 V5.6中文版下载"
+title: "STEP7 V56中文版下载"
 date:   2021-04-13
 tags: [STEP7,V5.6,安装,中文版,下载]
 comments: true

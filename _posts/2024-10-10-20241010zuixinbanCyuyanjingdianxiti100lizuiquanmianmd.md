@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版C语言经典习题100例(最全面)"
+title: "最新版C语言经典习题100例最全面"
 date:   2024-06-04
 tags: [习题,C语言,最新版,100,文件]
 comments: true

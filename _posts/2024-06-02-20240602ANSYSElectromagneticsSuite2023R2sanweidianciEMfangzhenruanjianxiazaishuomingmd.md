@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS Electromagnetics Suite 2023 R2 三维电磁（EM）仿真软件下载说明"
+title: "ANSYS Electromagnetics Suite 2023 R2 三维电磁EM仿真软件下载说明"
 date:   2022-09-25
 tags: [软件,仿真,安装,ANSYS,2023]
 comments: true

@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "WPF TabControl 带关闭按钮"
+title: "WPF TabControl 带关闭按钮
+date   20211114
+tags TabControlTabItem按钮文件样式
+comments true
+author admin
+
+ WPF TabControl 带关闭按钮
+
+本仓库提供了一个WPF TabControl的样式定制资源文件旨在实现类似Visual Studio风格的TabControl并带有关闭按钮功能通过本资源文件您可以轻松地在WPF应用程序中实现TabControl的关闭按钮功能而无需继承控件或编写复杂的代码
+
+ 资源文件描述
+
+该资源文件的主要特点如下
+
+ 样式定制提供了类似Visual Studio风格的TabControl样式美观且实用
+ 带关闭按钮每个TabItem都带有关闭按钮用户可以方便地关闭不需要的标签页
+ 无需继承控件所有功能均通过样式附加行为实现无需继承TabControl或TabItem控件
+ 简单易用只需将资源文件引入项目并在XAML中引用即可使用无需额外代码
+
+ 使用方法
+
+1 下载资源文件将本仓库中的资源文件下载到您的项目中
+2 引入资源文件在您的WPF项目中将资源文件引入到XAML文件中
+3 应用样式在需要使用带关闭按钮的TabControl的地方引用该样式即可
+
+示例代码
+
+xml
+Window xClassYourNamespaceMainWindow
+        xmlnshttpschemasmicrosoftcomwinfx2006xamlpresentation
+        xmlnsxhttpschemasmicrosoftcomwinfx2006xaml"
 date:   2021-11-14
 tags: [TabControl,TabItem,按钮,文件,样式]
 comments: true

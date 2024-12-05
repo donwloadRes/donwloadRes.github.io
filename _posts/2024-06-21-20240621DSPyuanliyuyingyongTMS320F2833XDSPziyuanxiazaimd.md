@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP原理与应用_TMS320F2833XDSP 资源下载"
+title: "DSP原理与应用TMS320F2833XDSP 资源下载"
 date:   2024-06-15
 tags: [DSP,TMS320F2833XDSP,原理,资源,应用]
 comments: true

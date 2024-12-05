@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2015 VCRedist 包 (x86 + x64)"
+title: "Visual Studio 2015 VCRedist 包 x86  x64"
 date:   2023-08-05
 tags: [Windows,Visual,C++,Service,Pack]
 comments: true

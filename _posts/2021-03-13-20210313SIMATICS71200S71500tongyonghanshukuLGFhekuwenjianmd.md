@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMATIC S7-1200-S7-1500通用函数库(LGF)和库文件"
+title: "SIMATIC S71200S71500通用函数库LGF和库文件"
 date:   2023-11-11
 tags: [S7,LGF,函数库,文件,1500]
 comments: true

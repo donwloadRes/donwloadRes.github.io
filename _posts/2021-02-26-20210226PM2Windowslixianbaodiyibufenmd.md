@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PM2 Windows 离线包（第一部分）"
+title: "PM2 Windows 离线包第一部分"
 date:   2020-03-10
 tags: [PM2,离线,Node,js,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于随机时隙扫描的RS-485从机地址自动分配方法"
+title: "基于随机时隙扫描的RS485从机地址自动分配方法"
 date:   2023-04-25
 tags: [从机,RS,485,地址,时隙]
 comments: true

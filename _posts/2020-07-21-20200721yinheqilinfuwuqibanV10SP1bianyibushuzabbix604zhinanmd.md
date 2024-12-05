@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟服务器版V10 SP1编译部署zabbix 6.0.4指南"
+title: "银河麒麟服务器版V10 SP1编译部署zabbix 604指南"
 date:   2022-11-03
 tags: [文档,zabbix,编译,部署,服务器版]
 comments: true

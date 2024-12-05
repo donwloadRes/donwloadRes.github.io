@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑客必备利器：如何在系统上安装和使用 CobaltStrike（简称：CS）"
+title: "黑客必备利器如何在系统上安装和使用 CobaltStrike简称CS"
 date:   2023-05-20
 tags: [CobaltStrike,CS,安装,系统,服务器]
 comments: true

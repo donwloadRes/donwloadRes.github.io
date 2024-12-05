@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eDP 1.2 规范文档下载"
+title: "eDP 12 规范文档下载"
 date:   2021-09-25
 tags: [eDP,1.2,文档,spec,pdf]
 comments: true

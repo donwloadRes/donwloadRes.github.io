@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sqlite数据库加密、修改密码工具"
+title: "Sqlite数据库加密修改密码工具"
 date:   2021-02-23
 tags: [数据库,Sqlite,加密,密码,工具]
 comments: true

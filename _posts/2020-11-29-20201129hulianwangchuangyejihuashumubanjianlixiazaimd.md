@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "互联网+创业计划书模板及案例下载"
+title: "互联网创业计划书模板及案例下载"
 date:   2020-02-25
 tags: [模板,计划书,创业,案例,互联网]
 comments: true

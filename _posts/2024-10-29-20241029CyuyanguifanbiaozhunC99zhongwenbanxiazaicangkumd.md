@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言规范标准-C99(中文版) 下载仓库"
+title: "C语言规范标准C99中文版 下载仓库"
 date:   2024-09-14
 tags: [C99,C语言,标准,中文版,英文版]
 comments: true

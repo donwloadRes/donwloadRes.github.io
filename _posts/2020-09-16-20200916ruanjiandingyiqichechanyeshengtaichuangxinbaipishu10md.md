@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件定义汽车：产业生态创新白皮书1.0"
+title: "软件定义汽车产业生态创新白皮书10"
 date:   2020-05-25
 tags: [软件,白皮书,汽车,1.0,生态]
 comments: true

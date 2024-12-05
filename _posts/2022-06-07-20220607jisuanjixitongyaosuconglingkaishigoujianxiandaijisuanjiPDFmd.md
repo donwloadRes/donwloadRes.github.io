@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机系统要素：从零开始构建现代计算机PDF"
+title: "计算机系统要素从零开始构建现代计算机PDF"
 date:   2020-12-22
 tags: [计算机系统,PDF,从零开始,构建,计算机]
 comments: true

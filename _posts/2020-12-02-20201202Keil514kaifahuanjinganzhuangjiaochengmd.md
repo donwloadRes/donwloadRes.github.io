@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5.14开发环境安装教程"
+title: "Keil514开发环境安装教程"
 date:   2022-03-19
 tags: [Keil5.14,安装,离线,激活,资源]
 comments: true

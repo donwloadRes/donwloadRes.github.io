@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为杯数学建模题：关于空气质量预报的二次建模"
+title: "华为杯数学建模题关于空气质量预报的二次建模"
 date:   2022-11-12
 tags: [空气质量,预报,污染物,IAQI,建模]
 comments: true

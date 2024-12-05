@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的机械臂遥控麦轮小车-之超级适合新手的教程"
+title: "基于STM32的机械臂遥控麦轮小车之超级适合新手的教程"
 date:   2023-03-18
 tags: [STM32,新手,遥控,小车,学习]
 comments: true

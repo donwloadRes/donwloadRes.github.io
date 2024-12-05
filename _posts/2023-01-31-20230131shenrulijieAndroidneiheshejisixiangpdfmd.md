@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Android内核设计思想.pdf"
+title: "深入理解Android内核设计思想pdf"
 date:   2022-04-13
 tags: [Android,系统,内核,深入,开发者]
 comments: true

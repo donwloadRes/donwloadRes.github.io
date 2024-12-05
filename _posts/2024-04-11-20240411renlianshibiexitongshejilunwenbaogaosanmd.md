@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸识别系统设计论文报告（三）"
+title: "人脸识别系统设计论文报告三"
 date:   2024-03-20
 tags: [人脸识别,Matlab,系统,论文,验证]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全-IIS短文件名枚举漏洞工具介绍"
+title: "网络安全IIS短文件名枚举漏洞工具介绍"
 date:   2022-08-24
 tags: [漏洞,工具,IIS,枚举,文件名]
 comments: true

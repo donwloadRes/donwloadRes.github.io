@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pywinauto 0.6.8 使用手册下载"
+title: "pywinauto 068 使用手册下载"
 date:   2023-02-08
 tags: [pywinauto,手册,0.6,使用手册,document]
 comments: true

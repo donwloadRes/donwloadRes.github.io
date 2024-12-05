@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 + OLED12864 + FFT 音乐频谱项目"
+title: "STM32F103  OLED12864  FFT 音乐频谱项目"
 date:   2023-06-28
 tags: [频谱,STM32F103,OLED,音频,FFT]
 comments: true

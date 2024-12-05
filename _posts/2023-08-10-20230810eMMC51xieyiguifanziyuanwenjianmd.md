@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC 5.1 协议规范资源文件"
+title: "eMMC 51 协议规范资源文件"
 date:   2020-12-07
 tags: [eMMC,5.1,your,文件,仓库]
 comments: true

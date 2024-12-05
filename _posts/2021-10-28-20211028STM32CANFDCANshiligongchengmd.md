@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 CAN FD_CAN 示例工程"
+title: "STM32 CAN FDCAN 示例工程"
 date:   2023-08-06
 tags: [FDCAN,示例,STM32,工程,STM32CubeMX]
 comments: true

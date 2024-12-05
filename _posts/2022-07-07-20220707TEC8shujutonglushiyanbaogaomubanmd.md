@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEC-8数据通路实验报告模板"
+title: "TEC8数据通路实验报告模板"
 date:   2022-08-05
 tags: [实验报告,模板,数据通路,TEC,文件]
 comments: true

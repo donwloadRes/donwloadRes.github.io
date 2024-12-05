@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF工具-破空_flag查找工具3.3"
+title: "CTF工具破空flag查找工具33"
 date:   2024-02-14
 tags: [CTF,flag,工具,3.3,文件夹]
 comments: true

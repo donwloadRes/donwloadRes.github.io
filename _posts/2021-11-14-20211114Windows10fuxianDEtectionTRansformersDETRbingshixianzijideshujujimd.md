@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 复现 DEtection TRansformers（DETR）并实现自己的数据集"
+title: "Windows 10 复现 DEtection TRansformersDETR并实现自己的数据集"
 date:   2023-09-11
 tags: [DETR,训练,模型,Windows,10]
 comments: true

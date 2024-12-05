@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机项目设计：WiFi视频小车制作教程"
+title: "51单片机项目设计WiFi视频小车制作教程"
 date:   2022-08-23
 tags: [单片机,WiFi,小车,电机,视频]
 comments: true

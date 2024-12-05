@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 自动升级程序源代码"
+title: "C WinForm 自动升级程序源代码"
 date:   2023-07-12
 tags: [源代码,WinForm,升级,程序,客户端程序]
 comments: true

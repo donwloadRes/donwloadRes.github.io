@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT & SecureFX 8.7 安装指南及资源下载"
+title: "SecureCRT  SecureFX 87 安装指南及资源下载"
 date:   2023-04-24
 tags: [SecureCRT,下载,SecureFX,8.7,FX8.7]
 comments: true

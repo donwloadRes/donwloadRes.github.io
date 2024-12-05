@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双有源全桥DCDC变换器_PI闭环控制仿真资源"
+title: "双有源全桥DCDC变换器PI闭环控制仿真资源"
 date:   2022-01-24
 tags: [仿真,变换器,C语言,全桥,DCDC]
 comments: true

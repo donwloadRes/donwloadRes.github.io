@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iText 5.0.6 亚洲字体支持包"
+title: "iText 506 亚洲字体支持包"
 date:   2023-06-10
 tags: [iText,5.0,字体,文件,jariTextAsian]
 comments: true

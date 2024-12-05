@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#网络调试助手"
+title: "C网络调试助手"
 date:   2023-02-05
 tags: [调试,开发者,网络,C#,数据库]
 comments: true

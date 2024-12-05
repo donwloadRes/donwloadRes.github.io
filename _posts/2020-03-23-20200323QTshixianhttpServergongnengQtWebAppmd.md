@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现httpServer功能-QtWebApp"
+title: "QT实现httpServer功能QtWebApp"
 date:   2021-01-29
 tags: [QT,HTTP,服务器,QtWebApp,文件]
 comments: true

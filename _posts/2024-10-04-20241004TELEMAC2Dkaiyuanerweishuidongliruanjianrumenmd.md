@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TELEMAC_2D 开源二维水动力软件入门"
+title: "TELEMAC2D 开源二维水动力软件入门"
 date:   2023-02-24
 tags: [TELEMAC,2D,模拟,开源,二维]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "维特比译码+卷积码编码程序C-C++实现"
+title: "维特比译码卷积码编码程序CC实现"
 date:   2023-09-18
 tags: [卷积码,编码,C++,嵌入式,译码]
 comments: true

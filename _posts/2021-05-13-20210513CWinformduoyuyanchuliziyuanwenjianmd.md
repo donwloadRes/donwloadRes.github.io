@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 多语言处理资源文件"
+title: "C Winform 多语言处理资源文件"
 date:   2022-08-04
 tags: [文件,语言,C#,Winform,XML]
 comments: true

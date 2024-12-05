@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X1 grok-1 开源大语言模型下载"
+title: "X1 grok1 开源大语言模型下载"
 date:   2021-03-05
 tags: [模型,Grok,开源,grok,下载]
 comments: true

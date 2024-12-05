@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考研数学公式大全（完整版）下载仓库"
+title: "考研数学公式大全完整版下载仓库"
 date:   2020-04-29
 tags: [考研,数学公式,完整版,复习,公式]
 comments: true

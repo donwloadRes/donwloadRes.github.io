@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PLC通信 Demo - 支持三菱、西门子等主流PLC"
+title: "C PLC通信 Demo  支持三菱西门子等主流PLC"
 date:   2024-11-21
 tags: [PLC,Demo,NET,项目,西门子]
 comments: true

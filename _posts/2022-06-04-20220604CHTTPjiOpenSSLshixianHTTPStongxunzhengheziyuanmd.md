@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ HTTP及OpenSSL实现HTTPS通讯整合资源"
+title: "C HTTP及OpenSSL实现HTTPS通讯整合资源"
 date:   2024-10-15
 tags: [编译,OpenSSL,HTTPS,资源,示例]
 comments: true

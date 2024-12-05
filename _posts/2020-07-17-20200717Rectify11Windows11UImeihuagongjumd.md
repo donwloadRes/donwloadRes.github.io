@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rectify11 - Windows 11 UI 美化工具"
+title: "Rectify11  Windows 11 UI 美化工具"
 date:   2021-09-14
 tags: [Rectify11,安装,右键,主题,Windows]
 comments: true

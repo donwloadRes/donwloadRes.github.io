@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接数据库增删查改实例（附数据库）"
+title: "C连接数据库增删查改实例附数据库"
 date:   2021-03-11
 tags: [数据库,C#,查改,连接,增删]
 comments: true

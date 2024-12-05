@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ghips：一键更新GitHub的DNS解析"
+title: "Ghips一键更新GitHub的DNS解析"
 date:   2022-12-30
 tags: [DNS,GitHub,Ghips,更新,一键]
 comments: true

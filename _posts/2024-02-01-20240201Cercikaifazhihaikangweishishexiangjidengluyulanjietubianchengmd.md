@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#二次开发之海康威视摄像机登录、预览、截图编程"
+title: "C二次开发之海康威视摄像机登录预览截图编程"
 date:   2024-06-09
 tags: [摄像机,C#,预览,威视,海康]
 comments: true

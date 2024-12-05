@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "体育比赛自动生成赛程Excel表（循环制和淘汰制）"
+title: "体育比赛自动生成赛程Excel表循环制和淘汰制"
 date:   2023-03-29
 tags: [Excel,赛程,体育赛事,体育比赛,生成]
 comments: true

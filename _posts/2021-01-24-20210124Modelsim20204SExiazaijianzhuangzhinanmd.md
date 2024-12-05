@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim 2020.4 SE 下载及安装指南"
+title: "Modelsim 20204 SE 下载及安装指南"
 date:   2024-08-31
 tags: [安装,Modelsim,SE,下载,2020.4]
 comments: true

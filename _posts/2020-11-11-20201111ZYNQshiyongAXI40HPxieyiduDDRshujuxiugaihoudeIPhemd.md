@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ使用AXI40-HP协议读DDR数据修改后的IP核"
+title: "ZYNQ使用AXI40HP协议读DDR数据修改后的IP核"
 date:   2023-10-25
 tags: [IP,ZYNQ,DDR,修改,HP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ArcGIS Pro二次开发】：选择面要素并统计面积(含椭球面积)"
+title: "ArcGIS Pro二次开发选择面要素并统计面积含椭球面积"
 date:   2020-12-29
 tags: [ArcGIS,Pro,二次开发,面积,椭球]
 comments: true

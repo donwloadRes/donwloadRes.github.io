@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "minicom 2.7 安装包"
+title: "minicom 27 安装包"
 date:   2022-09-29
 tags: [minicom,2.7,tar,gz,安装]
 comments: true

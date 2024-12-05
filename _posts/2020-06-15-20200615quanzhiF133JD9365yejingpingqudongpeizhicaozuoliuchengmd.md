@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志F133+JD9365液晶屏驱动配置操作流程"
+title: "全志F133JD9365液晶屏驱动配置操作流程"
 date:   2022-02-04
 tags: [液晶屏,全志,F133,JD9365,驱动]
 comments: true

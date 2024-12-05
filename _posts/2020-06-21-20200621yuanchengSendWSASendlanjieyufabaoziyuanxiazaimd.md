@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程Send-WSASend拦截与发包资源下载"
+title: "远程SendWSASend拦截与发包资源下载"
 date:   2022-03-19
 tags: [发包,拦截,文件,WSASend,远程]
 comments: true

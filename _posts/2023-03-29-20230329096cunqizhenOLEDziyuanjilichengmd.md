@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸七针OLED资源及例程"
+title: "096寸七针OLED资源及例程"
 date:   2021-09-29
 tags: [OLED,例程,0.96,SPI,IIC]
 comments: true

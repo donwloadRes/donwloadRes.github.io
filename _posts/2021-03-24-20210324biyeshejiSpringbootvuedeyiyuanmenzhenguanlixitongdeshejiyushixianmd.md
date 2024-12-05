@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-Springboot+vue的医院门诊管理系统的设计与实现"
+title: "毕业设计Springbootvue的医院门诊管理系统的设计与实现"
 date:   2020-05-21
 tags: [工作站,实现,门诊,毕业设计,管理]
 comments: true

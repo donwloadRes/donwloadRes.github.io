@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rational Rose学习笔记01：安装与注册"
+title: "Rational Rose学习笔记01安装与注册"
 date:   2021-04-21
 tags: [Rational,Rose,2003,安装,注册]
 comments: true

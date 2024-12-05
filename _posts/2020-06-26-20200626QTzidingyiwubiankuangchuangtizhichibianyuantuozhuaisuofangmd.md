@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 自定义无边框窗体，支持边缘拖拽缩放"
+title: "QT 自定义无边框窗体支持边缘拖拽缩放"
 date:   2021-07-07
 tags: [窗体,边框,缩放,自定义,拖拽]
 comments: true

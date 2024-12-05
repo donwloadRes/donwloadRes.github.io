@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术基础课件PPT（第五版）（康华光）"
+title: "模拟电子技术基础课件PPT第五版康华光"
 date:   2023-05-30
 tags: [课件,PPT,第五版,模拟,电子]
 comments: true

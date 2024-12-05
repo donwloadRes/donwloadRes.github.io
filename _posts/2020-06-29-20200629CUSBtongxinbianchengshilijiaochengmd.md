@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB通信编程示例教程"
+title: "C USB通信编程示例教程"
 date:   2023-06-06
 tags: [USB,示例,C#,设备,编程]
 comments: true

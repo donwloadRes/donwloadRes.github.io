@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华大芯片包：HC32xxx J-Flash V2.0"
+title: "华大芯片包HC32xxx JFlash V20"
 date:   2020-06-10
 tags: [Link,华大,芯片,HC32xxx,ReadMe]
 comments: true

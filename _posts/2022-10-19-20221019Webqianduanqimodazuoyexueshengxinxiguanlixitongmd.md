@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web前端期末大作业：学生信息管理系统"
+title: "Web前端期末大作业学生信息管理系统"
 date:   2021-12-22
 tags: [模板,CSS,信息管理系统,学生,HTML]
 comments: true

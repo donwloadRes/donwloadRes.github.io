@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dots-and-Boxes: 点格棋对弈软件"
+title: "DotsandBoxes 点格棋对弈软件"
 date:   2022-06-07
 tags: [点格棋,AI,玩家,项目,软件]
 comments: true

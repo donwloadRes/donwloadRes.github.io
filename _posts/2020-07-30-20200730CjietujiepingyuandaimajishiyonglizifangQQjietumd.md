@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#截图（截屏）源代码及使用例子（仿QQ截图）"
+title: "C截图截屏源代码及使用例子仿QQ截图"
 date:   2021-09-30
 tags: [截图,源代码,C#,QQ,截屏]
 comments: true

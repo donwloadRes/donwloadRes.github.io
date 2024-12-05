@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F030C8T6 I2C、SPI、串口资源文件"
+title: "STM32F030C8T6 I2CSPI串口资源文件"
 date:   2023-10-05
 tags: [函数,串口,初始化,I2C,SPI]
 comments: true

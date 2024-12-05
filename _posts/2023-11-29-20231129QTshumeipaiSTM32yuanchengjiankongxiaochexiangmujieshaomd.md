@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+树莓派+STM32 远程监控小车项目介绍"
+title: "QT树莓派STM32 远程监控小车项目介绍"
 date:   2024-02-04
 tags: [树莓,Qt,STM32,遥控器,小车]
 comments: true

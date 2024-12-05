@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux篇》超详细安装FinalShell并连接Linux教程"
+title: "Linux篇超详细安装FinalShell并连接Linux教程"
 date:   2022-10-29
 tags: [Linux,FinalShell,连接,安装,SSH]
 comments: true

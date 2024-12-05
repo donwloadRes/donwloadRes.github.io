@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis Desktop Manager 0.9.3 版本下载"
+title: "Redis Desktop Manager 093 版本下载"
 date:   2023-04-20
 tags: [Redis,Desktop,Manager,版本,最新版]
 comments: true

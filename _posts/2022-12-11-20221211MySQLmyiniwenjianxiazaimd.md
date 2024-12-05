@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL my.ini 文件下载"
+title: "MySQL myini 文件下载"
 date:   2024-05-22
 tags: [ini,my,文件,MySQL,txt]
 comments: true

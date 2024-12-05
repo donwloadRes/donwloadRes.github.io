@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程控制论 [英文原版] 钱学森著"
+title: "工程控制论 英文原版 钱学森著"
 date:   2021-11-16
 tags: [控制论,英文原版,钱学森,工程,理论]
 comments: true

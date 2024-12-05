@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket异步通信示例"
+title: "C Socket异步通信示例"
 date:   2020-01-12
 tags: [异步,Socket,客户端,C#,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Django开发的学生信息管理系统"
+title: "PythonDjango开发的学生信息管理系统"
 date:   2022-10-26
 tags: [Python,安装,系统,班级,数据库]
 comments: true

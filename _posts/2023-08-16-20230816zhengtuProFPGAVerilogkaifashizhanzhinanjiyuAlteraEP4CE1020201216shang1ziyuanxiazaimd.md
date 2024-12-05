@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "征途ProFPGA Verilog开发实战指南——基于Altera EP4CE10》2020.12.16（上）1 资源下载"
+title: "征途ProFPGA Verilog开发实战指南基于Altera EP4CE1020201216上1 资源下载"
 date:   2024-09-29
 tags: [FPGA,Verilog,16,资源,开发]
 comments: true

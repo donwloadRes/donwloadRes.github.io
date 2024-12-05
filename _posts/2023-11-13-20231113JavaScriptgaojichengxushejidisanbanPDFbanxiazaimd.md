@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript高级程序设计（第三版）PDF版下载"
+title: "JavaScript高级程序设计第三版PDF版下载"
 date:   2023-08-23
 tags: [JavaScript,PDF,高级,第三版,程序设计]
 comments: true

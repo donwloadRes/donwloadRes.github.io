@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revo Uninstaller Pro v5.0 资源文件下载"
+title: "Revo Uninstaller Pro v50 资源文件下载"
 date:   2024-07-14
 tags: [卸载,软件,Revo,Uninstaller,Pro]
 comments: true

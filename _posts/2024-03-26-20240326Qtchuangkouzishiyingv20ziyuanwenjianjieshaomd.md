@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt窗口自适应v2.0 资源文件介绍"
+title: "Qt窗口自适应v20 资源文件介绍"
 date:   2023-10-27
 tags: [窗口,适应,Qt,文件,v2.0]
 comments: true

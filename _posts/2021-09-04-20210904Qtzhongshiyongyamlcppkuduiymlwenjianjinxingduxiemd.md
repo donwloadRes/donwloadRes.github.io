@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt中使用yaml-cpp库对yml文件进行读写"
+title: "Qt中使用yamlcpp库对yml文件进行读写"
 date:   2023-06-28
 tags: [文件,yaml,cpp,Qt,yml]
 comments: true

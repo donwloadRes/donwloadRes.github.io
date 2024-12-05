@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式开发：STM32H750VBT6通过硬件SPI驱动TFT液晶屏"
+title: "嵌入式开发STM32H750VBT6通过硬件SPI驱动TFT液晶屏"
 date:   2020-03-03
 tags: [SPI,硬件,液晶屏,嵌入式,驱动]
 comments: true

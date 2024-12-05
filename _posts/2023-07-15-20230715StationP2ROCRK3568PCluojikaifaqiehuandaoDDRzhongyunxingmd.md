@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Station P2(ROC-RK3568-PC) 裸机开发：切换到DDR中运行"
+title: "Station P2ROCRK3568PC 裸机开发切换到DDR中运行"
 date:   2021-10-18
 tags: [DDR,裸机,串口,初始化,RK3568]
 comments: true

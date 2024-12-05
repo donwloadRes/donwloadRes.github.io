@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜣螂优化算法 (DBO) 资源文件"
+title: "蜣螂优化算法 DBO 资源文件"
 date:   2023-12-02
 tags: [算法,优化,蜣螂,文件,DBO]
 comments: true

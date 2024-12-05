@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266 + ws2812 + MAX9814 实现远程控制氛围灯效果和律动功能（支持软件和小爱同学）"
+title: "ESP8266  ws2812  MAX9814 实现远程控制氛围灯效果和律动功能支持软件和小爱同学"
 date:   2020-11-09
 tags: [小爱,同学,ESP8266,远程,MAX9814]
 comments: true

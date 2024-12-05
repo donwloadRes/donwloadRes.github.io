@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用于汇编语言的DOSBox及MASM、DEBUG、EDIT、LINK工具合集（免费共享）"
+title: "用于汇编语言的DOSBox及MASMDEBUGEDITLINK工具合集免费共享"
 date:   2022-12-25
 tags: [汇编语言,DOSBox,DOS,MASM,DEBUG]
 comments: true

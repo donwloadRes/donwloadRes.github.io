@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口通讯—RS232、RS422、RS485详解"
+title: "串口通讯RS232RS422RS485详解"
 date:   2022-01-18
 tags: [RS,RS232,RS422,RS485,电平]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CWRU（凯斯西储大学）轴承数据集 README"
+title: "CWRU凯斯西储大学轴承数据集 README"
 date:   2024-08-25
 tags: [数据,轴承,西储,凯斯,故障]
 comments: true

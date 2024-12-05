@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 元件资源（超全面）"
+title: "3D 元件资源超全面"
 date:   2021-06-27
 tags: [3D,资源库,元件,下载,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ComSpy串口监视精灵 1.2 资源下载"
+title: "ComSpy串口监视精灵 12 资源下载"
 date:   2020-05-04
 tags: [串口,监视,ComSpy,1.2,精灵]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统下FFmpeg VS项目文件（完整包，包括所有依赖环境）"
+title: "Windows系统下FFmpeg VS项目文件完整包包括所有依赖环境"
 date:   2022-11-19
 tags: [FFmpeg,项目,VS,Windows,文件]
 comments: true

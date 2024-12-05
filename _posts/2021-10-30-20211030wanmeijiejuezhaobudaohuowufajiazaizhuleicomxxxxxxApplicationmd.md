@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决：找不到或无法加载主类com.xxx.xxx.Application"
+title: "完美解决找不到或无法加载主类comxxxxxxApplication"
 date:   2023-11-13
 tags: [主类,xxx,解决,加载,文件]
 comments: true

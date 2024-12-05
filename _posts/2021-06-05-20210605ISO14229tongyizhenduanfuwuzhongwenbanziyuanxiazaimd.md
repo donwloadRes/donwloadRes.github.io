@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-14229 统一诊断服务中文版资源下载"
+title: "ISO14229 统一诊断服务中文版资源下载"
 date:   2022-12-27
 tags: [诊断,ISO,14229,服务,统一]
 comments: true

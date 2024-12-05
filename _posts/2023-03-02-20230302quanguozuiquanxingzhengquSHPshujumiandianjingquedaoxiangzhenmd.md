@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国最全行政区SHP数据（面+点）精确到乡镇"
+title: "全国最全行政区SHP数据面点精确到乡镇"
 date:   2023-02-24
 tags: [数据,SHP,乡镇,GIS,精确]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACM-CCPC历届真题题解目录资源介绍"
+title: "ACMCCPC历届真题题解目录资源介绍"
 date:   2023-07-25
 tags: [题解,ACM,CCPC,真题,解题]
 comments: true

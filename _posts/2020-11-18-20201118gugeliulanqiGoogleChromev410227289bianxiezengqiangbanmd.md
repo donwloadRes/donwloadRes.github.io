@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器 Google Chrome v41.0.2272.89 便携增强版"
+title: "谷歌浏览器 Google Chrome v410227289 便携增强版"
 date:   2023-09-21
 tags: [浏览器,增强版,用户,便携,标签]
 comments: true

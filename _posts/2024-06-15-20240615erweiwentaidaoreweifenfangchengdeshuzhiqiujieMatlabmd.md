@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二维稳态导热微分方程的数值求解（Matlab）"
+title: "二维稳态导热微分方程的数值求解Matlab"
 date:   2023-10-14
 tags: [边界条件,Matlab,程序,传热学,导热]
 comments: true

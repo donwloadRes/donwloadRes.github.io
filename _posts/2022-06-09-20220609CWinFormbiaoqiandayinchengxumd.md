@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 标签打印程序"
+title: "C WinForm 标签打印程序"
 date:   2024-07-18
 tags: [Bartender,程序,抓取,打印,标签]
 comments: true

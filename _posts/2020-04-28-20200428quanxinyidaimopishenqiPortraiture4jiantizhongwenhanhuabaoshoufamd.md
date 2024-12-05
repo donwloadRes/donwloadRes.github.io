@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全新一代磨皮神器Portraiture 4简体中文汉化包首发！"
+title: "全新一代磨皮神器Portraiture 4简体中文汉化包首发"
 date:   2020-05-23
 tags: [Portraiture,磨皮,汉化包,版本,简体中文]
 comments: true

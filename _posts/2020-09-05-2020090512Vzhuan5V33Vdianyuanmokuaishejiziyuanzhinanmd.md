@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12V转5V-3.3V电源模块设计资源指南"
+title: "12V转5V33V电源模块设计资源指南"
 date:   2021-05-23
 tags: [电源模块,文件,资源,PCB,设计]
 comments: true

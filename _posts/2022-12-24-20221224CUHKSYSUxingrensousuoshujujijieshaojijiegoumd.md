@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUHK-SYSU行人搜索数据集介绍及结构"
+title: "CUHKSYSU行人搜索数据集介绍及结构"
 date:   2020-07-16
 tags: [行人,图像,查询,数据,人物]
 comments: true

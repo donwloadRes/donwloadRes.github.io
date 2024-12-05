@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火箭轨道MATLAB代码 - Rocket Trajectory"
+title: "火箭轨道MATLAB代码  Rocket Trajectory"
 date:   2024-07-21
 tags: [MATLAB,步长,时间,代码,轨道]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ME叹号、TXE叹号、驱动不兼容补丁合集"
+title: "ME叹号TXE叹号驱动不兼容补丁合集"
 date:   2024-09-25
 tags: [补丁,ME,TXE,兼容,驱动]
 comments: true

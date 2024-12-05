@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机学习整合全（含Proteus仿真实例）"
+title: "51单片机学习整合全含Proteus仿真实例"
 date:   2020-10-30
 tags: [51,单片机,Proteus,实例,学习]
 comments: true

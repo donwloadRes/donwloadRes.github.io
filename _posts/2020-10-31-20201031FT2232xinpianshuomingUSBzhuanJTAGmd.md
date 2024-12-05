@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT2232芯片说明（USB转JTAG）"
+title: "FT2232芯片说明USB转JTAG"
 date:   2023-06-28
 tags: [FT2232,芯片,文档,USB,JTAG]
 comments: true

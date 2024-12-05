@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF流量分析挑战：寻找隐藏的flag！"
+title: "CTF流量分析挑战寻找隐藏的flag"
 date:   2021-01-21
 tags: [流量,flag,数据包,找出,密码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1+X 认证 Web 前端开发中级模拟题"
+title: "1X 认证 Web 前端开发中级模拟题"
 date:   2023-04-23
 tags: [模拟题,Web,前端开发,认证,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代数 第二版 [美] Micheal Artin 著 资源下载"
+title: "代数 第二版 美 Micheal Artin 著 资源下载"
 date:   2023-11-28
 tags: [Micheal,Artin,郭晋云,签版,下载]
 comments: true

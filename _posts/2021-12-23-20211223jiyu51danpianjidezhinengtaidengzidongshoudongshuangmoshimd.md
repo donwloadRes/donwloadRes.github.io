@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的智能台灯（自动、手动双模式）"
+title: "基于51单片机的智能台灯自动手动双模式"
 date:   2024-03-28
 tags: [Proteus,仿真,台灯,流程图,双模式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMSIS-DAP仿真器资源下载"
+title: "CMSISDAP仿真器资源下载"
 date:   2020-06-09
 tags: [仿真器,CMSIS,DAP,WIN7,原理图]
 comments: true

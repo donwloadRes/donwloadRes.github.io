@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 FSMC控制AD7606、SRAM、NOR FLASH资源文件"
+title: "STM32F407 FSMC控制AD7606SRAMNOR FLASH资源文件"
 date:   2021-12-21
 tags: [AD7606,SRAM,NOR,FLASH,STM32F407]
 comments: true

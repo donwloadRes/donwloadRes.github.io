@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#和SuperWebSocket、WebRTC的网页视频聊天源码"
+title: "基于C和SuperWebSocketWebRTC的网页视频聊天源码"
 date:   2024-06-10
 tags: [WebRTC,浏览器,C#,SuperWebSocket,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC编程软件 STEP7 V5.5 SP2中文版+授权 安装教程"
+title: "西门子PLC编程软件 STEP7 V55 SP2中文版授权 安装教程"
 date:   2022-06-13
 tags: [安装,软件,授权,STEP7,V5.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 1.6 安全白皮书（中文版）"
+title: "OCPP 16 安全白皮书中文版"
 date:   2020-06-15
 tags: [OCPP,1.6,安全,白皮书,中文版]
 comments: true

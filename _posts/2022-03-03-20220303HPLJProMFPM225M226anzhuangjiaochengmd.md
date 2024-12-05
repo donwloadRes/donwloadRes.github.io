@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HP LJ Pro MFP M225-M226安装教程"
+title: "HP LJ Pro MFP M225M226安装教程"
 date:   2022-01-01
 tags: [安装,教程,打印机,M226,确保]
 comments: true

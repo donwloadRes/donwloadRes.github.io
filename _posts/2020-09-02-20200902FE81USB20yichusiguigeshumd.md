@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FE8.1 USB 2.0 一出四规格书"
+title: "FE81 USB 20 一出四规格书"
 date:   2021-03-28
 tags: [规格书,芯片,FE8.1,USB,引脚]
 comments: true

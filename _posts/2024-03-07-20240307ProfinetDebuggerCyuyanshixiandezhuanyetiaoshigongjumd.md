@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profinet Debugger - C语言实现的专业调试工具"
+title: "Profinet Debugger  C语言实现的专业调试工具"
 date:   2022-05-29
 tags: [Profinet,编译,调试,C语言,源码]
 comments: true

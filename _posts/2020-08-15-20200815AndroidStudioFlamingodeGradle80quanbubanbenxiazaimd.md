@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio Flamingo 的 Gradle 8.0 全部版本下载"
+title: "Android Studio Flamingo 的 Gradle 80 全部版本下载"
 date:   2021-09-30
 tags: [Gradle,版本,Android,Studio,8.0]
 comments: true

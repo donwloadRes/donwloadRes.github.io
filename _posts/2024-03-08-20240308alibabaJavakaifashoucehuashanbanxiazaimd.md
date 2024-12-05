@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册（华山版）下载"
+title: "阿里巴巴Java开发手册华山版下载"
 date:   2023-12-21
 tags: [Java,下载,手册,文件,华山]
 comments: true

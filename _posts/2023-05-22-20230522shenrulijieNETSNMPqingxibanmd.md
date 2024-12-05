@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解NET-SNMP 清晰版"
+title: "深入理解NETSNMP 清晰版"
 date:   2024-06-22
 tags: [SNMP,PDF,Net,文件,深入]
 comments: true

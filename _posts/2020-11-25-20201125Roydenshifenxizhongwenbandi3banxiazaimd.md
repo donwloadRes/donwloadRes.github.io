@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Royden实分析中文版（第3版）下载"
+title: "Royden实分析中文版第3版下载"
 date:   2021-02-12
 tags: [分析,中文翻译,Royden,教材,本书]
 comments: true

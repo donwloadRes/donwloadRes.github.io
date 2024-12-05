@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EN-C200 板级硬件调试和单元测试方案 V1.01"
+title: "ENC200 板级硬件调试和单元测试方案 V101"
 date:   2022-11-06
 tags: [调试,硬件,EN,C200,板级]
 comments: true

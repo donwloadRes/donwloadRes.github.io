@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "验证性因子分析（一）资源文件介绍"
+title: "验证性因子分析一资源文件介绍"
 date:   2022-08-12
 tags: [因子分析,验证,效度,CFA,文件]
 comments: true

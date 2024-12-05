@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMEA第五版（中文版）"
+title: "FMEA第五版中文版"
 date:   2022-01-02
 tags: [FMEA,第五版,中文版,草案,版本]
 comments: true

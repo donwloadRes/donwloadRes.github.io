@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LU-ASR01语音模块资源文件介绍"
+title: "LUASR01语音模块资源文件介绍"
 date:   2022-12-03
 tags: [模块,语音,LU,ASR01,烧录]
 comments: true

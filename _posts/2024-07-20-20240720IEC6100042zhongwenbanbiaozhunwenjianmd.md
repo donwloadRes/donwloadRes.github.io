@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-2 中文版标准文件"
+title: "IEC 6100042 中文版标准文件"
 date:   2022-12-23
 tags: [IEC,电磁兼容,标准,61000,中文版]
 comments: true

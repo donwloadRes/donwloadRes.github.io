@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC端蓝牙测试软件（源码）"
+title: "PC端蓝牙测试软件源码"
 date:   2022-03-18
 tags: [蓝牙,源码,测试,测试软件,PC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio Gradle 7.2 全量包下载"
+title: "Android Studio Gradle 72 全量包下载"
 date:   2024-07-13
 tags: [Gradle,Android,Studio,7.2,下载]
 comments: true

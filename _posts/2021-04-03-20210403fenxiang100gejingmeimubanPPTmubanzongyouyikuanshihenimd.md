@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享100个精美模板PPT模板，总有一款适合你"
+title: "分享100个精美模板PPT模板总有一款适合你"
 date:   2020-06-24
 tags: [模板,PPT,100,精美,文稿]
 comments: true

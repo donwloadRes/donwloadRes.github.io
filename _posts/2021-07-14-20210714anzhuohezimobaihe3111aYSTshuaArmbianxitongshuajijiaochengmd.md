@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓盒子 魔百盒311-1a YST 刷Armbian系统刷机教程"
+title: "安卓盒子 魔百盒3111a YST 刷Armbian系统刷机教程"
 date:   2020-05-01
 tags: [Armbian,盒子,U盘,系统,教程]
 comments: true

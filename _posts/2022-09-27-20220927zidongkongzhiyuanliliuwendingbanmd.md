@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理 - 刘文定版"
+title: "自动控制原理  刘文定版"
 date:   2021-09-08
 tags: [自动控制,文定,学习,原理,控制]
 comments: true

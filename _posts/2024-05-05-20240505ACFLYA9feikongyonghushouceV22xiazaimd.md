@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACFLY A9飞控用户手册(V2.2) 下载"
+title: "ACFLY A9飞控用户手册V22 下载"
 date:   2024-01-21
 tags: [飞控,ACFLY,A9,用户手册,V2.2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus4j 3.0.5 包下载仓库"
+title: "Modbus4j 305 包下载仓库"
 date:   2024-06-03
 tags: [3.0,modbus4j,下载,jar,dependency]
 comments: true

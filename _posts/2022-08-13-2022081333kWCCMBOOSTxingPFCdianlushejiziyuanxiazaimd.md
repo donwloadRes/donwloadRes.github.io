@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3.3kW CCM BOOST 型 PFC 电路设计资源下载"
+title: "33kW CCM BOOST 型 PFC 电路设计资源下载"
 date:   2023-03-14
 tags: [PFC,电路设计,3.3,CCM,设计]
 comments: true

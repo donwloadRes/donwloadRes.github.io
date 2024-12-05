@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osg_osgEarth_QT入门示例"
+title: "osgosgEarthQT入门示例"
 date:   2020-01-01
 tags: [示例,osgEarth,QT,osg,vcpkg]
 comments: true

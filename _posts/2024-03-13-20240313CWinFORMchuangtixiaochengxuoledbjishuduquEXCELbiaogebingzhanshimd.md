@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinFORM 窗体小程序：oledb技术读取EXCEL表格并展示"
+title: "C WinFORM 窗体小程序oledb技术读取EXCEL表格并展示"
 date:   2022-03-06
 tags: [EXCEL,oledb,读取,DataGridView,控件]
 comments: true

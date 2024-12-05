@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro ODB++插件"
+title: "Allegro ODB插件"
 date:   2024-04-12
 tags: [插件,Allegro,ODB,++,设计]
 comments: true

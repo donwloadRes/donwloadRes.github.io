@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qnavigator 4G 模块串口工具 - 全面管理您的 4G 模块"
+title: "Qnavigator 4G 模块串口工具  全面管理您的 4G 模块"
 date:   2023-08-16
 tags: [4G,串口,模块,Qnavigator,工具]
 comments: true

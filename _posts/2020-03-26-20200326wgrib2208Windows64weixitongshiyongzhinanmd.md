@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wgrib2(2.0.8) Windows 64位系统使用指南"
+title: "wgrib2208 Windows 64位系统使用指南"
 date:   2021-05-11
 tags: [wgrib2,grib2,exe,压缩包,解压]
 comments: true

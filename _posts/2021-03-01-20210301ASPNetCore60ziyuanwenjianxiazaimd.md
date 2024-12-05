@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.Net Core 6.0 资源文件下载"
+title: "ASPNet Core 60 资源文件下载"
 date:   2021-08-04
 tags: [ASP,Net,6.0,Core,文件]
 comments: true

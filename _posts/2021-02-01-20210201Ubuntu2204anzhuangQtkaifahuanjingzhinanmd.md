@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04 安装 Qt 开发环境指南"
+title: "Ubuntu 2204 安装 Qt 开发环境指南"
 date:   2023-02-06
 tags: [Qt,Ubuntu,安装,VMware,Creator]
 comments: true

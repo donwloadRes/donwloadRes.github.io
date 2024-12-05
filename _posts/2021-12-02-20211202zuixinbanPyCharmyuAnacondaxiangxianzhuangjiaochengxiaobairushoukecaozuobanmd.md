@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版PyCharm与Anaconda详细安装教程——小白入手可操作版"
+title: "最新版PyCharm与Anaconda详细安装教程小白入手可操作版"
 date:   2020-02-17
 tags: [PyCharm,Anaconda,安装,Python,教程]
 comments: true

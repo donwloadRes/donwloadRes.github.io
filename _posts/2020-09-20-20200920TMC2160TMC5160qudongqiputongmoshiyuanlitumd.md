@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMC2160-TMC5160驱动器普通模式原理图"
+title: "TMC2160TMC5160驱动器普通模式原理图"
 date:   2024-02-01
 tags: [原理图,TMC2160,驱动器,TMC5160,模式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现万能进制转换教程"
+title: "C实现万能进制转换教程"
 date:   2023-06-30
 tags: [进制,教程,转换,C++,十进制]
 comments: true

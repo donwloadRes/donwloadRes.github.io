@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "geopandas安装包（Python 3.10）"
+title: "geopandas安装包Python 310"
 date:   2022-08-09
 tags: [geopandas,Python,3.10,安装包,安装]
 comments: true

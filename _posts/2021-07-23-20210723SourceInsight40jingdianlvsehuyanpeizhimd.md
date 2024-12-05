@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 经典绿色护眼配置"
+title: "Source Insight 40 经典绿色护眼配置"
 date:   2022-10-20
 tags: [Source,Insight,护眼,配置,4.0]
 comments: true

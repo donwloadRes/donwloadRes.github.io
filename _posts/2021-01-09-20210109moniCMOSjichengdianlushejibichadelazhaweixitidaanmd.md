@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟CMOS集成电路设计（毕查德·拉扎维）习题答案"
+title: "模拟CMOS集成电路设计毕查德拉扎维习题答案"
 date:   2021-07-13
 tags: [习题,CMOS,答案,集成电路,模拟]
 comments: true

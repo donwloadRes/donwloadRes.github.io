@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDM-GCC 10.3.0-2 编译器安装包"
+title: "TDMGCC 10302 编译器安装包"
 date:   2024-01-02
 tags: [10.3,安装包,编译器,TDM,tdm64]
 comments: true

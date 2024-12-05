@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dalsa Xtium-CL MX4采集卡驱动（OR-Y4C0-XmX00）下载仓库"
+title: "Dalsa XtiumCL MX4采集卡驱动ORY4C0XmX00下载仓库"
 date:   2021-05-10
 tags: [采集卡,驱动程序,Dalsa,Xtium,CL]
 comments: true

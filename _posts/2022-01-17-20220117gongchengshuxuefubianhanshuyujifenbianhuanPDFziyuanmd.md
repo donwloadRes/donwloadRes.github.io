@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程数学（复变函数与积分变换）PDF资源"
+title: "工程数学复变函数与积分变换PDF资源"
 date:   2023-01-15
 tags: [复变,变换,PDF,积分,函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 扫码枪代码集成与测试"
+title: "C 扫码枪代码集成与测试"
 date:   2023-05-13
 tags: [扫码,测试,串口,USB,连接]
 comments: true

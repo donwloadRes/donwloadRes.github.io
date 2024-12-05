@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino IDE 1.8.12 Windows版下载"
+title: "Arduino IDE 1812 Windows版下载"
 date:   2021-11-16
 tags: [Arduino,IDE,Windows,1.8,12]
 comments: true

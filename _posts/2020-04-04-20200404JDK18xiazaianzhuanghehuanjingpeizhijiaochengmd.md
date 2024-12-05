@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载、安装和环境配置教程"
+title: "JDK 18 下载安装和环境配置教程"
 date:   2024-06-24
 tags: [JDK,1.8,安装,配置,环境变量]
 comments: true

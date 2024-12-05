@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用集成运放电路Multisim仿真（免费）"
+title: "常用集成运放电路Multisim仿真免费"
 date:   2023-06-01
 tags: [Multisim,电路,仿真,学习,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.0 离线安装资源"
+title: "NET Framework 40 离线安装资源"
 date:   2022-08-09
 tags: [NET,Framework,安装,4.0,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字音频接口技术详解：I2S、PCM、TDM与PDM"
+title: "数字音频接口技术详解I2SPCMTDM与PDM"
 date:   2024-05-05
 tags: [PDM,接口技术,数字音频,I2S,PCM]
 comments: true

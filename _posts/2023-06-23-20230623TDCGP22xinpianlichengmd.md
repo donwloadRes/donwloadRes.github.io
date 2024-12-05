@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22芯片例程"
+title: "TDCGP22芯片例程"
 date:   2024-06-23
 tags: [TDC,GP22,MSP430,例程,计时]
 comments: true

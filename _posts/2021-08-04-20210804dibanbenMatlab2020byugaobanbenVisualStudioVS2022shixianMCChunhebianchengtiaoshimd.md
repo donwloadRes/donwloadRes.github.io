@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "低版本Matlab(2020b)与高版本Visual Studio(VS2022)实现M、C-C++混合编程（调试）"
+title: "低版本Matlab2020b与高版本Visual StudioVS2022实现MCC混合编程调试"
 date:   2022-05-29
 tags: [Matlab,编译器,配置,C++,编程]
 comments: true

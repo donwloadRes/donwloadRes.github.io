@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用qwtPlot3D实现三维曲线、轨迹绘制的例子"
+title: "使用qwtPlot3D实现三维曲线轨迹绘制的例子"
 date:   2021-12-23
 tags: [qwtPlot3D,三维,轨迹,绘制,示例]
 comments: true

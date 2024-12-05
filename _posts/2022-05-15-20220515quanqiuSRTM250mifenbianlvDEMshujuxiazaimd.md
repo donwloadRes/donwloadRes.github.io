@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球SRTM_250米分辨率DEM数据下载"
+title: "全球SRTM250米分辨率DEM数据下载"
 date:   2021-01-15
 tags: [250,DEM,数据,分辨率,科研]
 comments: true

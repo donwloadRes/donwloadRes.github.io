@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机中Veritas NetBackup（NBU）服务端安装部署指南"
+title: "虚拟机中Veritas NetBackupNBU服务端安装部署指南"
 date:   2020-08-19
 tags: [NBU,服务端,bash,安装,NetBackup]
 comments: true

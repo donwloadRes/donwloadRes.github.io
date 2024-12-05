@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微E-CODE前后端开发资料仓库"
+title: "泛微ECODE前后端开发资料仓库"
 date:   2024-01-13
 tags: [开发,仓库,泛微,CODE,资料]
 comments: true

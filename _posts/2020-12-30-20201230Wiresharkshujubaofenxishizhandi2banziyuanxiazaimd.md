@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark 数据包分析实战(第2版) 资源下载"
+title: "Wireshark 数据包分析实战第2版 资源下载"
 date:   2023-01-01
 tags: [数据包,Wireshark,文件,PDF,实战]
 comments: true

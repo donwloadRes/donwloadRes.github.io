@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.0 资源下载"
+title: "NET Framework 40 资源下载"
 date:   2022-10-08
 tags: [NET,Framework,4.0,安装包,离线]
 comments: true

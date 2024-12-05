@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "丰田永磁驱动电机Maxwell-2D仿真案例"
+title: "丰田永磁驱动电机Maxwell2D仿真案例"
 date:   2023-12-06
 tags: [仿真,电机,永磁,2D,MAXWELL]
 comments: true

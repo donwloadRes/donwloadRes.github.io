@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C 9.0 下载与安装教程（超详细）"
+title: "Keil C 90 下载与安装教程超详细"
 date:   2020-06-23
 tags: [Keil,点击,安装,CID,下载]
 comments: true

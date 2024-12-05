@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC60601-1医疗器械电气安全标准资源下载"
+title: "IEC606011医疗器械电气安全标准资源下载"
 date:   2020-11-25
 tags: [医疗器械,IEC60601,电气,标准,文件]
 comments: true

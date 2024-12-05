@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libfekit.so与libQSec.so库文件说明"
+title: "libfekitso与libQSecso库文件说明"
 date:   2023-10-23
 tags: [so,libfekit,libQSec,文件,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++计算器实现 —— 完整功能实现与设计分析"
+title: "C计算器实现  完整功能实现与设计分析"
 date:   2021-09-03
 tags: [表达式,优先级,运算符,后缀,计算器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电流、转速双闭环直流调速系统设计"
+title: "电流转速双闭环直流调速系统设计"
 date:   2021-09-23
 tags: [调速,闭环,设计,系统,转速]
 comments: true

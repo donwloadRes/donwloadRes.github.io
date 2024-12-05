@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLP自然语言处理——关键词提取之 TF-IDF 算法"
+title: "NLP自然语言处理关键词提取之 TFIDF 算法"
 date:   2022-04-14
 tags: [TF,IDF,算法,关键词,文本]
 comments: true

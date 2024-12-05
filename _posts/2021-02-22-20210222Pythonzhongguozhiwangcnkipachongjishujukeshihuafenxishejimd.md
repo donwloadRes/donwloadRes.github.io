@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python中国知网（cnki）爬虫及数据可视化分析设计"
+title: "Python中国知网cnki爬虫及数据可视化分析设计"
 date:   2022-12-04
 tags: [爬虫,Python,可视化,数据,爬取]
 comments: true

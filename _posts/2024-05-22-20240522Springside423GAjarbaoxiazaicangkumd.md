@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springside 4.2.3-GA.jar 包下载仓库"
+title: "Springside 423GAjar 包下载仓库"
 date:   2020-03-02
 tags: [GA,jar,4.2,springside4.2,JAR]
 comments: true

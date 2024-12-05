@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi钉钉 SDK - 企业级应用开发套件"
+title: "Delphi钉钉 SDK  企业级应用开发套件"
 date:   2021-01-23
 tags: [SDK,Delphi,API,文档,企业级]
 comments: true

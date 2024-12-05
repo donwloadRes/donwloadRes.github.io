@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字化转型方法论：落地路径与数据中台"
+title: "数字化转型方法论落地路径与数据中台"
 date:   2021-08-03
 tags: [数字化,转型,方法论,数据,路径]
 comments: true

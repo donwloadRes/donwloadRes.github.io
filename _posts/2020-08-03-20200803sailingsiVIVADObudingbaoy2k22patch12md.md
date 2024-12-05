@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思VIVADO补丁包y2k22-patch-1.2"
+title: "赛灵思VIVADO补丁包y2k22patch12"
 date:   2023-08-13
 tags: [VIVADO,补丁,补丁包,赛灵思,y2k22]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN+SVM结合的Python程序"
+title: "CNNSVM结合的Python程序"
 date:   2024-01-31
 tags: [Python,CNN,SVM,程序,结合]
 comments: true

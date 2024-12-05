@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Telcordia SR-332 Issue 4 2016 电子设备可靠性预测标准"
+title: "Telcordia SR332 Issue 4 2016 电子设备可靠性预测标准"
 date:   2024-03-08
 tags: [可靠性,文档,Telcordia,Issue,电子设备]
 comments: true

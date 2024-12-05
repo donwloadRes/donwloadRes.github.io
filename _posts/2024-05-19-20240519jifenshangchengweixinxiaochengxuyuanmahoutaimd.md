@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "积分商城微信小程序源码+后台"
+title: "积分商城微信小程序源码后台"
 date:   2021-07-15
 tags: [微信,后台,仓库,积分,源码]
 comments: true

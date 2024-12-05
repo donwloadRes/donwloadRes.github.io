@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 简易聊天室"
+title: "C WinForm 简易聊天室"
 date:   2020-07-13
 tags: [C#,WinForm,聊天室,Socket,github]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装Ubuntu22.04教程（2023最新最详细）"
+title: "VMware虚拟机安装Ubuntu2204教程2023最新最详细"
 date:   2020-01-05
 tags: [虚拟机,VMware,Ubuntu,安装,教程]
 comments: true

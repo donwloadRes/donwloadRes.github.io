@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform圆形进度条（改良版）"
+title: "C Winform圆形进度条改良版"
 date:   2020-06-25
 tags: [进度条,进度,圆形,改良版,控件]
 comments: true

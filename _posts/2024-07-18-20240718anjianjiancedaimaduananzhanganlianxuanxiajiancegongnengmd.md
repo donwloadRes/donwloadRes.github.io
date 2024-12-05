@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "按键检测代码：短按、长按、连续按下检测功能"
+title: "按键检测代码短按长按连续按下检测功能"
 date:   2021-06-19
 tags: [代码,检测,按键,短按,按下]
 comments: true

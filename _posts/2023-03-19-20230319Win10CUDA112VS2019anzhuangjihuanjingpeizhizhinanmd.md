@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 + CUDA 11.2 + VS2019 安装及环境配置指南"
+title: "Win10  CUDA 112  VS2019 安装及环境配置指南"
 date:   2022-12-04
 tags: [CUDA,安装,11.2,Visual,Studio]
 comments: true

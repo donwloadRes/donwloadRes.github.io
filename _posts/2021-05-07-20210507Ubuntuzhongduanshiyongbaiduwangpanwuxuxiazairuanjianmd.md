@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 终端使用百度网盘，无须下载软件"
+title: "Ubuntu 终端使用百度网盘无须下载软件"
 date:   2020-11-11
 tags: [百度网,API,终端,Ubuntu,安装]
 comments: true

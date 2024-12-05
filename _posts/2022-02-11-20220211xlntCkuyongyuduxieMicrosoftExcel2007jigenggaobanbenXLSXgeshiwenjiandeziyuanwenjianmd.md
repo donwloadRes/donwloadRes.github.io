@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xlnt C++库 - 用于读写Microsoft Excel 2007及更高版本(XLSX格式)文件的资源文件"
+title: "xlnt C库  用于读写Microsoft Excel 2007及更高版本XLSX格式文件的资源文件"
 date:   2022-09-08
 tags: [xlnt,文件,Excel,C++,读写]
 comments: true

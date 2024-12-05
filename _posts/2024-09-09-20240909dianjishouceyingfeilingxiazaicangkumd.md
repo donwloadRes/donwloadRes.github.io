@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机手册（英飞凌）下载仓库"
+title: "电机手册英飞凌下载仓库"
 date:   2022-06-22
 tags: [电机,英飞凌,手册,pdf,下载]
 comments: true

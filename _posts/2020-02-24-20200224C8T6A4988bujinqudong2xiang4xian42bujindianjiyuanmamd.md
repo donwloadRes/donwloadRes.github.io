@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C8T6+A4988步进驱动 2相4线 42步进电机+源码"
+title: "C8T6A4988步进驱动 2相4线 42步进电机源码"
 date:   2022-05-31
 tags: [串口,步进,电机,STM32F1,上位]
 comments: true

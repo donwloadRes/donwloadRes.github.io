@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETSI EN 301 489-17：2020 宽带数据传输系统特定条件 - 完整英文电子版"
+title: "ETSI EN 301 489172020 宽带数据传输系统特定条件  完整英文电子版"
 date:   2023-10-15
 tags: [ETSI,宽带数据,EN,301,489]
 comments: true

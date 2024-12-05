@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyX游戏编程：魔塔(C++语言开发)源码简介"
+title: "EasyX游戏编程魔塔C语言开发源码简介"
 date:   2024-10-27
 tags: [EasyX,游戏,源码,魔塔,C++]
 comments: true

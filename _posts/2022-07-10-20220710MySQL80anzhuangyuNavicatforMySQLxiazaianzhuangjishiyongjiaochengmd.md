@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 安装与 Navicat for MySQL 下载安装及使用教程"
+title: "MySQL 80 安装与 Navicat for MySQL 下载安装及使用教程"
 date:   2024-02-14
 tags: [MySQL,Navicat,安装,8.0,教程]
 comments: true

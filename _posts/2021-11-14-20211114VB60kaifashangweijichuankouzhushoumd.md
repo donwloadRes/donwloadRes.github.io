@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 开发上位机串口助手"
+title: "VB60 开发上位机串口助手"
 date:   2020-08-21
 tags: [串口,VB6.0,编程,十六进制,初学者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "室内场景数据集 - Indoor Scene Recognition"
+title: "室内场景数据集  Indoor Scene Recognition"
 date:   2024-10-20
 tags: [数据,场景,百度网,图像,室内]
 comments: true

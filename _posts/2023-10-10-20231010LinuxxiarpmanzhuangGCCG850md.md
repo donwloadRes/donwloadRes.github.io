@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下rpm安装GCC(G++)8.5.0"
+title: "Linux下rpm安装GCCG850"
 date:   2022-05-13
 tags: [GCC,安装,--,8.5,Linux]
 comments: true

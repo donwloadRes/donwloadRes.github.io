@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵计算手册：The Matrix Cookbook PDF"
+title: "矩阵计算手册The Matrix Cookbook PDF"
 date:   2020-11-17
 tags: [矩阵,Matrix,Cookbook,本书,计算]
 comments: true

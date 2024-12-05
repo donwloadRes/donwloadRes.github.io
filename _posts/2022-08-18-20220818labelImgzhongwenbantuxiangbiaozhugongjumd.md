@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labelImg中文版 - 图像标注工具"
+title: "labelImg中文版  图像标注工具"
 date:   2023-05-23
 tags: [标注,图像,labelImg,Ctrl,data]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "176张人物玩手机(YOLO)训练数据集和标记文件"
+title: "176张人物玩手机YOLO训练数据集和标记文件"
 date:   2022-01-01
 tags: [txt,img,手机,数据,YOLO]
 comments: true

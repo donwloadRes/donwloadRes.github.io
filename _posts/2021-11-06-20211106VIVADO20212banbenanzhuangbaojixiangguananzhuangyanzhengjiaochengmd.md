@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO 2021.2版本安装包及相关安装验证教程"
+title: "VIVADO 20212版本安装包及相关安装验证教程"
 date:   2023-06-19
 tags: [安装,example,教程,安装包,com]
 comments: true

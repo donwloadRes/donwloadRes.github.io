@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现MQTT协议"
+title: "C实现MQTT协议"
 date:   2023-07-17
 tags: [MQTT,C++,github,your,协议]
 comments: true

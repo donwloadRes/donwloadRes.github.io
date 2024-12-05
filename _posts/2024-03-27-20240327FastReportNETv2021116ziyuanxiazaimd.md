@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport .NET v2021.1.16 资源下载"
+title: "FastReport NET v2021116 资源下载"
 date:   2021-03-16
 tags: [报表,FastReport,NET,安装,版本]
 comments: true

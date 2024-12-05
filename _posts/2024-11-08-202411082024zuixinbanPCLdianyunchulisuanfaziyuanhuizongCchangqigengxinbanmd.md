@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【2024 最新版】PCL 点云处理算法资源汇总（C++ 长期更新版）"
+title: "2024 最新版PCL 点云处理算法资源汇总C 长期更新版"
 date:   2021-01-22
 tags: [点云,配准,PCL,LAS,算法]
 comments: true

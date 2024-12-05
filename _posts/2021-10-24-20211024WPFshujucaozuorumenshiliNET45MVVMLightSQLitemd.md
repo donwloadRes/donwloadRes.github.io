@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF数据操作入门示例：.NET 4.5 + MVVM Light + SQLite"
+title: "WPF数据操作入门示例NET 45  MVVM Light  SQLite"
 date:   2024-01-18
 tags: [WPF,MVVM,SQLite,数据库,数据]
 comments: true

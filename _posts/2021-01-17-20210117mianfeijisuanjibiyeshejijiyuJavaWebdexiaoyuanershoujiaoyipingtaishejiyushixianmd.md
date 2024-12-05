@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费计算机毕业设计 - 基于JavaWeb的校园二手交易平台设计与实现"
+title: "免费计算机毕业设计  基于JavaWeb的校园二手交易平台设计与实现"
 date:   2023-02-07
 tags: [Java,Spring,数据库,毕业设计,二手交易]
 comments: true

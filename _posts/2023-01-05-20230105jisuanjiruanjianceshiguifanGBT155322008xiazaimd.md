@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机软件测试规范GBT 15532-2008 下载"
+title: "计算机软件测试规范GBT 155322008 下载"
 date:   2022-04-26
 tags: [软件测试,2008,GBT,15532,文件]
 comments: true

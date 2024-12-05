@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微调VGG分类模型训练自己的数据（猫狗数据集）"
+title: "微调VGG分类模型训练自己的数据猫狗数据集"
 date:   2024-07-08
 tags: [模型,训练,VGG,数据,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CefFlashBrowser - 一款内置Flash支持的简易浏览器"
+title: "CefFlashBrowser  一款内置Flash支持的简易浏览器"
 date:   2023-02-07
 tags: [Flash,CefFlashBrowser,浏览器,浏览,GitHub]
 comments: true

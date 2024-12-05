@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 2020.3 详细安装教程"
+title: "IDEA 20203 详细安装教程"
 date:   2021-12-17
 tags: [IDEA,IntelliJ,安装,教程,2020.3]
 comments: true

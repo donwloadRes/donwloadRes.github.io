@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中移 4G.cat1模组 ML302 硬件设计手册"
+title: "中移 4Gcat1模组 ML302 硬件设计手册"
 date:   2024-09-19
 tags: [硬件,模组,设计,ML302,手册]
 comments: true

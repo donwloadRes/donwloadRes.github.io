@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_U盘读写例程(CH376)"
+title: "STM32U盘读写例程CH376"
 date:   2022-02-15
 tags: [STM32,U盘,例程,CH376,读写]
 comments: true

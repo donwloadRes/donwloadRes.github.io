@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keithley6514&6517 摩擦纳米发电机测试软件介绍"
+title: "Keithley65146517 摩擦纳米发电机测试软件介绍"
 date:   2021-09-17
 tags: [纳米,发电机,测试,文件,摩擦]
 comments: true

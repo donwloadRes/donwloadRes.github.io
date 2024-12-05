@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水声通信原理课件——水声通信技术"
+title: "水声通信原理课件水声通信技术"
 date:   2024-04-26
 tags: [水声,通信,课件,技术,海洋]
 comments: true

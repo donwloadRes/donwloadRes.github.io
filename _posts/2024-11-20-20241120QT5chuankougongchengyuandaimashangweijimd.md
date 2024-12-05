@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5串口工程源代码（上位机）"
+title: "QT5串口工程源代码上位机"
 date:   2024-08-17
 tags: [串口,QT5,Qt,通讯,项目]
 comments: true

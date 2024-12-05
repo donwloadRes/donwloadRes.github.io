@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "尚硅谷VUE项目实战：前端项目-尚品汇(大型重磅) 笔记"
+title: "尚硅谷VUE项目实战前端项目尚品汇大型重磅 笔记"
 date:   2021-01-10
 tags: [VUE,笔记,项目,实战,前端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倒立摆模糊控制仿真教程（面向初学者）"
+title: "倒立摆模糊控制仿真教程面向初学者"
 date:   2023-04-03
 tags: [倒立,模糊控制,仿真,控制,初学者]
 comments: true

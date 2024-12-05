@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS 9.5 绿色版无需安装PART1 资源下载"
+title: "PADS 95 绿色版无需安装PART1 资源下载"
 date:   2022-10-16
 tags: [Windows,杀毒,下载,资源,绿色版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ACS712直流电流检测（Proteus仿真）"
+title: "基于ACS712直流电流检测Proteus仿真"
 date:   2024-10-29
 tags: [仿真,ACS712,Proteus,检测,电路设计]
 comments: true

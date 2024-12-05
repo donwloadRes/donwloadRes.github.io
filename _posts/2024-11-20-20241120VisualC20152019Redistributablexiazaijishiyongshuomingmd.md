@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 2015-2019 Redistributable 下载及使用说明"
+title: "Visual C 20152019 Redistributable 下载及使用说明"
 date:   2020-03-03
 tags: [Visual,Redistributable,C++,安装,2015]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红队使用的那些工具（基础篇）附下载"
+title: "红队使用的那些工具基础篇附下载"
 date:   2021-02-09
 tags: [工具,红队,Web,渗透,下载]
 comments: true

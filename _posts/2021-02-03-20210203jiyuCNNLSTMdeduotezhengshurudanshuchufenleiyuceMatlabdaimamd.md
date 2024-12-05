@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-LSTM的多特征输入单输出分类预测（Matlab代码）"
+title: "基于CNNLSTM的多特征输入单输出分类预测Matlab代码"
 date:   2023-06-20
 tags: [Matlab,程序,分类,输出,替换]
 comments: true

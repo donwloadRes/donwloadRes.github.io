@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决Win10非原装版系统打不开CHM文件（例如JDK的API）"
+title: "完美解决Win10非原装版系统打不开CHM文件例如JDK的API"
 date:   2021-05-08
 tags: [文件,CHM,Windows,hh,exe]
 comments: true

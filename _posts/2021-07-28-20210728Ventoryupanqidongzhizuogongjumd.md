@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ventory-u盘启动制作工具"
+title: "Ventoryu盘启动制作工具"
 date:   2021-02-04
 tags: [U盘,制作,Ventory,启动,工具]
 comments: true

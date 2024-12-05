@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 Jar包下载"
+title: "MySQL 57 Jar包下载"
 date:   2021-04-29
 tags: [MySQL,5.7,Java,jar,连接]
 comments: true

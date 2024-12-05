@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle精简客户端安装、配置与卸载指南"
+title: "Oracle精简客户端安装配置与卸载指南"
 date:   2020-03-06
 tags: [客户端,Oracle,ORACLE,卸载,精简]
 comments: true

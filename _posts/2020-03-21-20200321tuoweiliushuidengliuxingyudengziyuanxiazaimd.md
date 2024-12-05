@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拖尾流水灯-流星雨灯资源下载"
+title: "拖尾流水灯流星雨灯资源下载"
 date:   2023-12-30
 tags: [水灯,尾流,流星雨,资源,下载]
 comments: true

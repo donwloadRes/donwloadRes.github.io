@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H750核心板（硬件PCB）资源下载"
+title: "STM32H750核心板硬件PCB资源下载"
 date:   2024-01-03
 tags: [PCB,文件,STM32H750,资源,下载]
 comments: true

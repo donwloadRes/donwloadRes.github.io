@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 7 IDHTTP POST 的8种使用方法（含源码）"
+title: "Delphi 7 IDHTTP POST 的8种使用方法含源码"
 date:   2020-11-05
 tags: [POST,请求,IDHTTP,Delphi,方法]
 comments: true

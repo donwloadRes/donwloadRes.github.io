@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSDN中文版下载 - C++文档类资源"
+title: "MSDN中文版下载  C文档类资源"
 date:   2022-10-27
 tags: [文档,MSDN,C++,中文版,编程]
 comments: true

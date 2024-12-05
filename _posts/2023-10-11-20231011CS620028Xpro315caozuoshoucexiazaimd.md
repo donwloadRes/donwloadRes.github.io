@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS6200-28X-pro-3.1.5 操作手册下载"
+title: "CS620028Xpro315 操作手册下载"
 date:   2024-03-01
 tags: [操作手册,CS6200,28X,pro,3.1]
 comments: true

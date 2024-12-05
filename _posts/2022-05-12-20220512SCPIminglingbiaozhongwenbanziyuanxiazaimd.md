@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCPI命令表（中文版）资源下载"
+title: "SCPI命令表中文版资源下载"
 date:   2022-07-15
 tags: [SCPI,命令,中文版,仪器,文件]
 comments: true

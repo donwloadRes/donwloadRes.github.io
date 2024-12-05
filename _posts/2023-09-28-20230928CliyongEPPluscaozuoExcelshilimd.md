@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#利用EPPlus操作Excel实例"
+title: "C利用EPPlus操作Excel实例"
 date:   2024-01-19
 tags: [Excel,EPPlus,文件,C#,示例]
 comments: true

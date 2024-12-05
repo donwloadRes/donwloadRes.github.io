@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F401调试PID工程 - 串口按VOFA+软件数据格式发送"
+title: "STM32F401调试PID工程  串口按VOFA软件数据格式发送"
 date:   2022-09-11
 tags: [PID,VOFA,串口,STM32F401,调试]
 comments: true

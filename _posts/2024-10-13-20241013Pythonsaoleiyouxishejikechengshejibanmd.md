@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python扫雷游戏设计（课程设计版）"
+title: "Python扫雷游戏设计课程设计版"
 date:   2024-05-03
 tags: [课程设计,Python,扫雷,游戏,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "官方最新版EVE-NG汉化2.0.3-86永久更新"
+title: "官方最新版EVENG汉化20386永久更新"
 date:   2023-04-22
 tags: [汉化,用户,EVE,NG,界面]
 comments: true

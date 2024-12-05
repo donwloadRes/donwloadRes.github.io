@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "心脏病数据集（来自Kaggle）"
+title: "心脏病数据集来自Kaggle"
 date:   2022-09-05
 tags: [数据,心脏病,疾病,心脏,Kaggle]
 comments: true

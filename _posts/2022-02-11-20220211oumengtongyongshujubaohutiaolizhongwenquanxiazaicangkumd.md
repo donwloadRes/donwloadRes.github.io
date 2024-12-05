@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧盟通用数据保护条例》中文(全) 下载仓库"
+title: "欧盟通用数据保护条例中文全 下载仓库"
 date:   2022-11-12
 tags: [数据保护,条例,欧盟,仓库,下载]
 comments: true

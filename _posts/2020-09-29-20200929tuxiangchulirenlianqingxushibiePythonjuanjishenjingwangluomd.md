@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像处理——人脸情绪识别（Python卷积神经网络）"
+title: "图像处理人脸情绪识别Python卷积神经网络"
 date:   2021-02-16
 tags: [人脸,识别,情绪,训练,卷积]
 comments: true

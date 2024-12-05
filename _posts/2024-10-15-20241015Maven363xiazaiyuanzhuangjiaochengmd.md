@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.6.3下载与安装教程"
+title: "Maven 363下载与安装教程"
 date:   2023-06-14
 tags: [Maven,3.6,Java,MAVEN,安装]
 comments: true

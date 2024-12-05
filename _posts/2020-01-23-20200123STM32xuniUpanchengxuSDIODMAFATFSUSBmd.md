@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32虚拟U盘程序（SDIO+DMA+FATFS+USB）"
+title: "STM32虚拟U盘程序SDIODMAFATFSUSB"
 date:   2024-05-08
 tags: [USB,SD,U盘,SDIO,DMA]
 comments: true

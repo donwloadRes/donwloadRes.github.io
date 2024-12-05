@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "retarget.c文件下载仓库"
+title: "retargetc文件下载仓库"
 date:   2021-03-06
 tags: [文件,retarget,嵌入式,Semihosting,仓库]
 comments: true

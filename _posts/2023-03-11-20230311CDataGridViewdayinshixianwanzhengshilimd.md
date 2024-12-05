@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DataGridView 打印实现完整实例"
+title: "C DataGridView 打印实现完整实例"
 date:   2023-03-25
 tags: [打印,实例,C#,DataGridView,多页]
 comments: true

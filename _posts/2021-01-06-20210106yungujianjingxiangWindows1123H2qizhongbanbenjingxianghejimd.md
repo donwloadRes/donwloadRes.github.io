@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【云固件镜像】Windows 11 23H2 七种版本镜像合集"
+title: "云固件镜像Windows 11 23H2 七种版本镜像合集"
 date:   2023-09-18
 tags: [镜像文件,Windows,11,镜像,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "细胞分割经典模型U-Net数据集与模型实现PyTorch代码"
+title: "细胞分割经典模型UNet数据集与模型实现PyTorch代码"
 date:   2022-10-17
 tags: [模型,Net,训练,PyTorch,代码]
 comments: true

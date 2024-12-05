@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三极管混频电路实验详细介绍（包含Multisim仿真电路图）"
+title: "三极管混频电路实验详细介绍包含Multisim仿真电路图"
 date:   2021-06-05
 tags: [混频器,仿真,实验,电路图,Multisim]
 comments: true

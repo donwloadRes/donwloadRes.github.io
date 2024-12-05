@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计技巧与分析【沙特】答案资源下载"
+title: "算法设计技巧与分析沙特答案资源下载"
 date:   2020-03-11
 tags: [答案,算法,沙特,技巧,设计]
 comments: true

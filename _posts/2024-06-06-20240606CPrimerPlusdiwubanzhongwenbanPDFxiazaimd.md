@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C Primer Plus(第五版)中文版 PDF 下载"
+title: "C Primer Plus第五版中文版 PDF 下载"
 date:   2024-01-17
 tags: [PDF,第五版,中文版,下载,Primer]
 comments: true

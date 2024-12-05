@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的奶茶商店管理系统设计与实现【附源码】"
+title: "基于Java的奶茶商店管理系统设计与实现附源码"
 date:   2023-07-27
 tags: [奶茶,用户,查看,管理员,管理]
 comments: true

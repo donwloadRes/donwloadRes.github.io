@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "历届计算机二级C++真题及答案全"
+title: "历届计算机二级C真题及答案全"
 date:   2024-07-23
 tags: [真题,C++,考试,答案,历届]
 comments: true

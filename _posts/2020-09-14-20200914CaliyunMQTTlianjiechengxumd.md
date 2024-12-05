@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#阿里云MQTT连接程序"
+title: "C阿里云MQTT连接程序"
 date:   2022-03-08
 tags: [程序,阿里,MQTT,连接,云物]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 插件推荐"
+title: "Notepad 插件推荐"
 date:   2022-05-05
 tags: [插件,Notepad,++,文件,代码]
 comments: true

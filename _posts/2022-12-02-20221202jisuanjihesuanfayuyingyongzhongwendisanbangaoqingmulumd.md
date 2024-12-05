@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算几何算法与应用（中文第三版高清目录）"
+title: "计算几何算法与应用中文第三版高清目录"
 date:   2024-12-04
 tags: [高清,几何,算法,目录,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI前沿系列：混合专家模型技术（MoE）"
+title: "AI前沿系列混合专家模型技术MoE"
 date:   2023-12-16
 tags: [MoE,计算机行业,AI,文件,建投]
 comments: true

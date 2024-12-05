@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrossOver 23.7.1 中文版图文激活教程"
+title: "CrossOver 2371 中文版图文激活教程"
 date:   2023-04-02
 tags: [Windows,Mac,CrossOver,无需,中文版]
 comments: true

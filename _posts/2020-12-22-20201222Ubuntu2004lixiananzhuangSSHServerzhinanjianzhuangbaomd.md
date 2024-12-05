@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 离线安装SSH Server指南及安装包"
+title: "Ubuntu 2004 离线安装SSH Server指南及安装包"
 date:   2022-10-09
 tags: [deb,SSH,amd64,8.4,p1]
 comments: true

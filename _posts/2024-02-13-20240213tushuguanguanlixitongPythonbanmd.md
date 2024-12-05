@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理系统 - Python版"
+title: "图书馆管理系统  Python版"
 date:   2023-02-23
 tags: [Python,数据库,GUI,MySQL,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "印章提取工具: 实现高效公章与电子章提取"
+title: "印章提取工具 实现高效公章与电子章提取"
 date:   2024-04-14
 tags: [印章,提取,png,图片,工具]
 comments: true

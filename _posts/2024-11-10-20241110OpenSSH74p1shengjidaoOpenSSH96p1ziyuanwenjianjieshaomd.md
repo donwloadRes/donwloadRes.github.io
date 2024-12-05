@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 7.4p1 升级到 OpenSSH 9.6p1 资源文件介绍"
+title: "OpenSSH 74p1 升级到 OpenSSH 96p1 资源文件介绍"
 date:   2020-02-28
 tags: [OpenSSH,升级,p1,文档,步骤]
 comments: true

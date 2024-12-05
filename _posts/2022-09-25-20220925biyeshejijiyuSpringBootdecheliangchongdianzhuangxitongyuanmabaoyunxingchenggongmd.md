@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于SpringBoot的车辆充电桩系统【源码+包运行成功】"
+title: "毕业设计基于SpringBoot的车辆充电桩系统源码包运行成功"
 date:   2021-12-28
 tags: [充电,源码,SpringBoot,MySQL,媒体]
 comments: true

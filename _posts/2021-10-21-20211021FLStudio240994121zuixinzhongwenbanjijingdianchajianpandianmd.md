@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 24.0.99.4121最新中文版及经典插件盘点"
+title: "FL Studio 240994121最新中文版及经典插件盘点"
 date:   2020-07-14
 tags: [FL,Studio,插件,99.4121,24.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SV360智能三维测绘系统V6.4 三维测绘系统的新革命SV365 V6.8"
+title: "SV360智能三维测绘系统V64 三维测绘系统的新革命SV365 V68"
 date:   2020-10-10
 tags: [三维,测绘,点云,测图,SV360]
 comments: true

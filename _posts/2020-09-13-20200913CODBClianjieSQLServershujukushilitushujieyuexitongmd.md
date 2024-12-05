@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ ODBC连接SQL Server数据库示例：图书借阅系统"
+title: "C ODBC连接SQL Server数据库示例图书借阅系统"
 date:   2023-12-24
 tags: [SQL,数据库,ODBC,C++,Server]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程经典教程之【需求分析】PPT"
+title: "软件工程经典教程之需求分析PPT"
 date:   2024-06-03
 tags: [需求,PPT,分析,软件工程,教程]
 comments: true

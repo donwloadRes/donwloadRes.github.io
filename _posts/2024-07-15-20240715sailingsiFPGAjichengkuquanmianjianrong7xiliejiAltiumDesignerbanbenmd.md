@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思FPGA集成库 - 全面兼容7系列及Altium Designer版本"
+title: "赛灵思FPGA集成库  全面兼容7系列及Altium Designer版本"
 date:   2020-11-22
 tags: [FPGA,Altium,Designer,系列,赛灵思]
 comments: true

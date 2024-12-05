@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【2021最全】51单片机入门与驱动、Keil配置、程序烧入指南"
+title: "2021最全51单片机入门与驱动Keil配置程序烧入指南"
 date:   2021-01-19
 tags: [单片机,51,教程,Keil,烧入]
 comments: true

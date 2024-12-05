@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 经验模态分解法（EMD）安装包"
+title: "MATLAB 经验模态分解法EMD安装包"
 date:   2024-10-07
 tags: [EMD,安装包,MATLAB,电力系统,模态]
 comments: true

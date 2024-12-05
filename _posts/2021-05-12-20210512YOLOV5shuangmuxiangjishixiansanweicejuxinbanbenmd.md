@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOV5 + 双目相机实现三维测距（新版本）"
+title: "YOLOV5  双目相机实现三维测距新版本"
 date:   2022-10-18
 tags: [YOLOV5,测距,三维,相机,双目]
 comments: true

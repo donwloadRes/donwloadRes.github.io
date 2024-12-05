@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学C语言基础 Turbo C2.0 (32位-64位通用) 资源文件介绍"
+title: "大学C语言基础 Turbo C20 32位64位通用 资源文件介绍"
 date:   2020-11-26
 tags: [C语言,Turbo,C2.0,文件,编译]
 comments: true

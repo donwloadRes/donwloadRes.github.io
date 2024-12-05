@@ -1,6 +1,74 @@
 ---
 layout: post
-title: "Linux版JDK 1.8 安装指南"
+title: "Linux版JDK 18 安装指南
+date   20220727
+tags bashLinuxJDK188u212
+comments true
+author admin
+
+ Linux版JDK 18 安装指南
+
+ 资源文件
+ 文件名 jdk8u212linuxx64targz
+ 描述 该文件是适用于Linux x64系统的JDK 18版本8u212的压缩包
+
+ 安装步骤
+
+ 1 下载文件
+首先下载 jdk8u212linuxx64targz 文件到您的Linux系统中
+
+ 2 解压缩文件
+将下载的文件解压缩到您选择的目录中可以使用以下命令
+
+bash
+tar xzf jdk8u212linuxx64targz C pathtodestination
+
+
+其中 pathtodestination 是您希望解压缩到的目录
+
+ 3 配置环境变量
+为了使系统能够找到Java运行时环境您需要配置环境变量可以通过设置 JAVAHOME 和 PATH 环境变量来实现
+
+ 设置 JAVAHOME
+打开终端并编辑 bashrc 或 bashprofile 文件
+
+bash
+export JAVAHOMEpathtojdk180212
+
+
+其中 pathtojdk180212 是您解压缩后的JDK目录
+
+ 设置 PATH
+在同一文件中添加以下内容
+
+bash
+export PATHJAVAHOMEbinPATH
+
+
+ 4 使配置生效
+保存文件后运行以下命令使配置生效
+
+bash
+source bashrc
+
+
+或
+
+bash
+source bashprofile
+
+
+ 5 验证安装
+最后您可以通过以下命令验证JDK是否安装成功
+
+bash
+java version
+
+
+如果安装成功您将看到类似以下的输出
+
+
+java version 180212"
 date:   2022-07-27
 tags: [bash,Linux,JDK,1.8,8u212]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最全scrcpy投屏教程（用你的电脑控制手机）"
+title: "史上最全scrcpy投屏教程用你的电脑控制手机"
 date:   2021-01-08
 tags: [scrcpy,投屏,电脑,教程,手机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows终端（Windows Terminal）从下载到运行"
+title: "Windows终端Windows Terminal从下载到运行"
 date:   2020-07-22
 tags: [Windows,Terminal,命令行,快捷键,可以]
 comments: true

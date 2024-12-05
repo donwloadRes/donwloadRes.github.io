@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastDFS 6.06 搭建安装包"
+title: "FastDFS 606 搭建安装包"
 date:   2020-01-24
 tags: [FastDFS,安装包,6.06,搭建,文件]
 comments: true

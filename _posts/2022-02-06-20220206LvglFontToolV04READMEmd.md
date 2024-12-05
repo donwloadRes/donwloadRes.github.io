@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LvglFontTool_V0.4 README"
+title: "LvglFontToolV04 README"
 date:   2021-07-28
 tags: [字体,LvglFontTool,V0.4,FreeType,TTF]
 comments: true

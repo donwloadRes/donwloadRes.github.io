@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb-网上书城项目（前后端分离，代码易懂）"
+title: "Javaweb网上书城项目前后端分离代码易懂"
 date:   2024-03-26
 tags: [JavaWeb,项目,MVC,书城,前后]
 comments: true

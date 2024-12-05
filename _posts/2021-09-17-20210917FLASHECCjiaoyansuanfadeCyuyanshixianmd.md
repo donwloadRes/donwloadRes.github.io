@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FLASH-ECC校验算法的C语言实现"
+title: "FLASHECC校验算法的C语言实现"
 date:   2021-01-29
 tags: [FLASH,ECC,C语言,算法,校验]
 comments: true

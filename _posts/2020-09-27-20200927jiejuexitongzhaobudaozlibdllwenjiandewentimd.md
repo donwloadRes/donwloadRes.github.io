@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决系统找不到zlib.dll文件的问题"
+title: "解决系统找不到zlibdll文件的问题"
 date:   2024-05-21
 tags: [dll,zlib,文件,Windows,系统]
 comments: true

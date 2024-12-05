@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COSMIC度量手册V5.0 下载仓库"
+title: "COSMIC度量手册V50 下载仓库"
 date:   2022-11-23
 tags: [度量,COSMIC,手册,V5.0,PDF]
 comments: true

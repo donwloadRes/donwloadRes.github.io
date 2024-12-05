@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联客 3G-SDI GTX方案在ZYNQ MPSOC中的实现指南"
+title: "米联客 3GSDI GTX方案在ZYNQ MPSOC中的实现指南"
 date:   2023-02-16
 tags: [3G,ZYNQ,SDI,GTX,MPSOC]
 comments: true

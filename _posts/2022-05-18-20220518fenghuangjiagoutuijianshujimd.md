@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凤凰架构 -- 推荐书籍"
+title: "凤凰架构  推荐书籍"
 date:   2024-11-03
 tags: [架构,分布式系统,书籍,凤凰,分布式]
 comments: true

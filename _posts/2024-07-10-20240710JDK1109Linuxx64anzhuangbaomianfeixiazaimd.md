@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 11.0.9 Linux x64 安装包免费下载"
+title: "JDK 1109 Linux x64 安装包免费下载"
 date:   2021-09-27
 tags: [11.0,x64,tar,安装包,jdk]
 comments: true

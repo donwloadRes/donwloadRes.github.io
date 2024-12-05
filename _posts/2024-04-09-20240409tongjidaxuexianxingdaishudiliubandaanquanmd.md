@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "同济大学线性代数第六版答案(全)"
+title: "同济大学线性代数第六版答案全"
 date:   2022-07-07
 tags: [第六版,线性代数,同济大学,答案,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "慧荣主控 SM2246XT-MPTool 开卡量产工具"
+title: "慧荣主控 SM2246XTMPTool 开卡量产工具"
 date:   2021-07-25
 tags: [硬盘,开卡,工具,SM2246XT,修复]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验三：通过配置三层交换机或路由器实现VLAN间的通信"
+title: "实验三通过配置三层交换机或路由器实现VLAN间的通信"
 date:   2021-02-05
 tags: [VLAN,交换机,路由器,三层,配置]
 comments: true

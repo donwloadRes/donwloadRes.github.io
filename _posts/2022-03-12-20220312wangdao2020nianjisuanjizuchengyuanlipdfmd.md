@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王道2020年计算机组成原理.pdf"
+title: "王道2020年计算机组成原理pdf"
 date:   2022-06-05
 tags: [计算机,2020,CPU,性能指标,学习]
 comments: true

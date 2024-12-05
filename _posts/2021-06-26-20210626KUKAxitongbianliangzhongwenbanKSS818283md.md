@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA系统变量中文版（KSS 8.1, 8.2, 8.3）"
+title: "KUKA系统变量中文版KSS 81 82 83"
 date:   2023-08-08
 tags: [KUKA,变量,机器人,KSS,8.1]
 comments: true

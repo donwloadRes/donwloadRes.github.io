@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DATA数据治理工程师(CDGA)全面备考资源"
+title: "DATA数据治理工程师CDGA全面备考资源"
 date:   2023-12-05
 tags: [CDGA,知识点,考试,备考,学习]
 comments: true

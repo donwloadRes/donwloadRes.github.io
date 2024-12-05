@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的升降压DC-DC设计原理图与程序（0-18V可调输出）"
+title: "基于STM32的升降压DCDC设计原理图与程序018V可调输出"
 date:   2020-03-06
 tags: [DC,电压,输出,STM32,原理图]
 comments: true

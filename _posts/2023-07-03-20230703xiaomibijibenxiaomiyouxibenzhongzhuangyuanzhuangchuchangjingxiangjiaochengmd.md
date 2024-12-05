@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米笔记本、小米游戏本重装原装出厂镜像教程"
+title: "小米笔记本小米游戏本重装原装出厂镜像教程"
 date:   2023-02-23
 tags: [小米,镜像,U盘,教程,笔记本]
 comments: true

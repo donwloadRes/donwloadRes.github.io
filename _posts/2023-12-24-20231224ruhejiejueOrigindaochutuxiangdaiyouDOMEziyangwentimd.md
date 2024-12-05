@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何解决Origin导出图像带有"DOME"字样问题"
+title: "如何解决Origin导出图像带有DOME字样问题"
 date:   2024-03-25
 tags: [Origin,文件,DOME,软件,水印]
 comments: true

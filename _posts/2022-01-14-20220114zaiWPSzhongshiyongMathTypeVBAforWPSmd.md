@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在WPS中使用MathType（VBA for WPS）"
+title: "在WPS中使用MathTypeVBA for WPS"
 date:   2024-06-10
 tags: [WPS,VBA,MathType,文档,功能]
 comments: true

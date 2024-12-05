@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(包教必会)Arduino环境下ESP32部署指南"
+title: "包教必会Arduino环境下ESP32部署指南"
 date:   2020-02-10
 tags: [ESP32,Arduino,开发板,管理器,IDE]
 comments: true

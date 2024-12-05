@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Innovus用户指南（最新版，21.13版本 -- 2022年）"
+title: "Innovus用户指南最新版2113版本  2022年"
 date:   2021-03-16
 tags: [指南,21.13,Innovus,版本,最新版]
 comments: true

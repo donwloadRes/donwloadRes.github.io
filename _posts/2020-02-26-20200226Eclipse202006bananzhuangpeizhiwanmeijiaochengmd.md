@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 2020-06版 安装配置完美教程"
+title: "Eclipse 202006版 安装配置完美教程"
 date:   2024-03-11
 tags: [Eclipse,插件,安装,06,教程]
 comments: true

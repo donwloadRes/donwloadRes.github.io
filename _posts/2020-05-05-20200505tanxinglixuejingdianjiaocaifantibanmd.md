@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "弹性力学经典教材 - 繁体版"
+title: "弹性力学经典教材  繁体版"
 date:   2024-08-04
 tags: [弹性,力学,教材,学习,读者]
 comments: true

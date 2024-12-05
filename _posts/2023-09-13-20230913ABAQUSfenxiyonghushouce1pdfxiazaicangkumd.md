@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS分析用户手册_1.pdf 下载仓库"
+title: "ABAQUS分析用户手册1pdf 下载仓库"
 date:   2024-06-13
 tags: [ABAQUS,用户手册,pdf,文件,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM 用户指南 1.2 下载仓库"
+title: "UVM 用户指南 12 下载仓库"
 date:   2022-11-20
 tags: [UVM,1.2,指南,下载,仓库]
 comments: true

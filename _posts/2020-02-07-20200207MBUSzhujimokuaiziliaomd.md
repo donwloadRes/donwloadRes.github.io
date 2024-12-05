@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M-BUS主机模块资料"
+title: "MBUS主机模块资料"
 date:   2024-10-01
 tags: [模块,BUS,抄表,主机,资料]
 comments: true

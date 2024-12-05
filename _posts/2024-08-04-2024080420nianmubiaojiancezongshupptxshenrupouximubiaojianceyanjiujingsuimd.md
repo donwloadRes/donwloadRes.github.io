@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20年目标检测综述.pptx - 深入剖析目标检测研究精髓"
+title: "20年目标检测综述pptx  深入剖析目标检测研究精髓"
 date:   2020-06-11
 tags: [检测,PPT,目标,20,综述]
 comments: true

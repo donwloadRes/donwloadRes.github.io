@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：分布式电源接入对配电网影响分析"
+title: "MATLAB代码分布式电源接入对配电网影响分析"
 date:   2020-01-31
 tags: [分布式,接入,配电网,电源,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年Fortify中文规则资源-规则版本2022.1.1.0007"
+title: "2022年Fortify中文规则资源规则版本2022110007"
 date:   2024-10-20
 tags: [Fortify,规则,资源,2022.1,1.0007]
 comments: true

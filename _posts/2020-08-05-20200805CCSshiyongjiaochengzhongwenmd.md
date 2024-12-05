@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS使用教程-中文"
+title: "CCS使用教程中文"
 date:   2022-04-01
 tags: [CCS,教程,使用,调试,用户]
 comments: true

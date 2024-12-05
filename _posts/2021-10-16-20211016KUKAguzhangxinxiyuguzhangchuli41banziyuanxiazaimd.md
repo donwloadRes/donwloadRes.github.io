@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA 故障信息与故障处理4.1版资源下载"
+title: "KUKA 故障信息与故障处理41版资源下载"
 date:   2023-04-24
 tags: [故障,库卡,4.1,KUKA,处理]
 comments: true

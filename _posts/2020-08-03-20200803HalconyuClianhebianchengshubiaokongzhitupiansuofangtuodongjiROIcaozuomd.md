@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon与C#联合编程：鼠标控制图片缩放、拖动及ROI操作"
+title: "Halcon与C联合编程鼠标控制图片缩放拖动及ROI操作"
 date:   2021-11-10
 tags: [鼠标,C#,Halcon,缩放,拖动]
 comments: true

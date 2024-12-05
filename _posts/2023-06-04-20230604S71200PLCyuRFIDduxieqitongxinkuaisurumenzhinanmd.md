@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 PLC 与 RFID 读写器通信快速入门指南"
+title: "S71200 PLC 与 RFID 读写器通信快速入门指南"
 date:   2020-01-23
 tags: [读写器,S7,RFID,1200,PLC]
 comments: true

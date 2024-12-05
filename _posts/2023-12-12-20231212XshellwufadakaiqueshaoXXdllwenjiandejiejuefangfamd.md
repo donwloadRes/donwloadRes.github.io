@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell无法打开缺少XX.dll文件的解决方法"
+title: "Xshell无法打开缺少XXdll文件的解决方法"
 date:   2024-08-30
 tags: [Xshell,dll,XX,组件,C++]
 comments: true

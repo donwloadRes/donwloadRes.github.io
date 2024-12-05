@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI大模型测试：原理、案例与实践"
+title: "AI大模型测试原理案例与实践"
 date:   2022-06-27
 tags: [测试,模型,AI,案例,实践]
 comments: true

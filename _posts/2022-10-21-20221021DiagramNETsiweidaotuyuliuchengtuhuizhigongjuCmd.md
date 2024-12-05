@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diagram.NET思维导图与流程图绘制工具(C#)"
+title: "DiagramNET思维导图与流程图绘制工具C"
 date:   2023-08-23
 tags: [NET,节点,Diagram,绘制,形状]
 comments: true

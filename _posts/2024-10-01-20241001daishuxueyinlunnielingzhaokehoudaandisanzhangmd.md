@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代数学引论_聂灵沼_课后答案[第三章]"
+title: "代数学引论聂灵沼课后答案第三章"
 date:   2023-06-17
 tags: [引论,课后,代数学,第三章,聂灵沼]
 comments: true

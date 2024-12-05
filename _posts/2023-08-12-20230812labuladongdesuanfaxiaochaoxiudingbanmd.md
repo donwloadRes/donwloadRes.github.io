@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labuladong的算法小抄（修订版）"
+title: "labuladong的算法小抄修订版"
 date:   2022-12-12
 tags: [算法,小抄,PDF,labuladong,读者]
 comments: true

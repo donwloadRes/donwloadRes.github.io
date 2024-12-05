@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spark安装和编程实践（Spark2.4.0）"
+title: "Spark安装和编程实践Spark240"
 date:   2021-11-02
 tags: [Spark,编程,安装,文档,2.4]
 comments: true

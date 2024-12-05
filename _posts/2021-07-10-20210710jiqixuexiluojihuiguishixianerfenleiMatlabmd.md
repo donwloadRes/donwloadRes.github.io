@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习——逻辑回归实现二分类（Matlab）"
+title: "机器学习逻辑回归实现二分类Matlab"
 date:   2023-07-13
 tags: [分类,模型,训练,Matlab,标签]
 comments: true

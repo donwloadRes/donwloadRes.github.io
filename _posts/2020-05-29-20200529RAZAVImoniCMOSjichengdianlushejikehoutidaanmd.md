@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAZAVI模拟CMOS集成电路设计+课后题答案"
+title: "RAZAVI模拟CMOS集成电路设计课后题答案"
 date:   2023-09-05
 tags: [CMOS,学习,课后,RAZAVI,设计]
 comments: true

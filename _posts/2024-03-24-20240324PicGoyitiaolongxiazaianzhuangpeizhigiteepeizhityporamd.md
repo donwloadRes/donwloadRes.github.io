@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PicGo一条龙：下载、安装、配置gitee、配置typora"
+title: "PicGo一条龙下载安装配置gitee配置typora"
 date:   2023-12-10
 tags: [PicGo,配置,Gitee,下载,gitee]
 comments: true

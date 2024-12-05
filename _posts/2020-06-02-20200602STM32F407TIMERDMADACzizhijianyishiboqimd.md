@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 TIMER+DMA+DAC自制简易示波器"
+title: "STM32F407 TIMERDMADAC自制简易示波器"
 date:   2024-08-26
 tags: [触发,ADC,波形,DMA,功能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab和fruits-360的水果识别"
+title: "基于Matlab和fruits360的水果识别"
 date:   2021-11-24
 tags: [训练,识别,fruits,360,模型]
 comments: true

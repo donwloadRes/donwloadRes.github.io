@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyRecovery易恢复：快速恢复桌面数据"
+title: "EasyRecovery易恢复快速恢复桌面数据"
 date:   2020-07-17
 tags: [恢复,存储设备,数据,数据恢复,丢失]
 comments: true

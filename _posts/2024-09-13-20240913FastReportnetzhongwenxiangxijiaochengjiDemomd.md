@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport .net 中文详细教程及Demo"
+title: "FastReport net 中文详细教程及Demo"
 date:   2024-08-29
 tags: [FastReport,报表,设计,Delphi,数据源]
 comments: true

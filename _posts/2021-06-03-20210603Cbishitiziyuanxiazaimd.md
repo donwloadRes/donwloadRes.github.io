@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++笔试题资源下载"
+title: "C笔试题资源下载"
 date:   2022-05-06
 tags: [C++,题目,编程,笔试,填空题]
 comments: true

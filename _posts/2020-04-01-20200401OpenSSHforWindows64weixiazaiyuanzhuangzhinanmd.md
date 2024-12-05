@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH for Windows (64位) 下载与安装指南"
+title: "OpenSSH for Windows 64位 下载与安装指南"
 date:   2024-12-02
 tags: [OpenSSH,Windows,64,下载,安装]
 comments: true

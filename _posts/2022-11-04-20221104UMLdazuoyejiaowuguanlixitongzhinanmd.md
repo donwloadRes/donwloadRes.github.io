@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML大作业 - 教务管理系统指南"
+title: "UML大作业  教务管理系统指南"
 date:   2024-03-06
 tags: [UML,建模,指南,教务,管理系统]
 comments: true

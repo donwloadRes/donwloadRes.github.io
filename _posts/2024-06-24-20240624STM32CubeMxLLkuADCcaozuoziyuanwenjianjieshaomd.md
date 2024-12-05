@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 CubeMx LL库-ADC操作资源文件介绍"
+title: "STM32 CubeMx LL库ADC操作资源文件介绍"
 date:   2023-08-28
 tags: [ADC,STM32,CubeMx,LL,操作]
 comments: true

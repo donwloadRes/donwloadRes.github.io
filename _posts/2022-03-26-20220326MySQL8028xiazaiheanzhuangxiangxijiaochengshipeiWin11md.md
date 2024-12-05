@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.28 下载和安装详细教程（适配Win11）"
+title: "MySQL 8028 下载和安装详细教程适配Win11"
 date:   2022-08-11
 tags: [MySQL,安装,28,8.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装CMake、Eigen与osqp库指南"
+title: "Linux安装CMakeEigen与osqp库指南"
 date:   2022-11-18
 tags: [CMake,安装,Linux,osqp,Eigen]
 comments: true

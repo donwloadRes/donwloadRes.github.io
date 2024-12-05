@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字逻辑-交通灯系统设计(HUST) 1-12关 头歌"
+title: "数字逻辑交通灯系统设计HUST 112关 头歌"
 date:   2021-08-06
 tags: [设计,交通灯,BCD,计数器,双向]
 comments: true

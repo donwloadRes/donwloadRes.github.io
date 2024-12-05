@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蒙特卡洛仿真示例代码（MATLAB）"
+title: "蒙特卡洛仿真示例代码MATLAB"
 date:   2021-12-31
 tags: [蒙特卡洛,MATLAB,示例,代码,仿真]
 comments: true

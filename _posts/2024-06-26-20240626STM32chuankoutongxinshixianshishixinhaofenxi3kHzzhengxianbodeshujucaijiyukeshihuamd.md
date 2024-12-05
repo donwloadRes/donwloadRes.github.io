@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口通信实现实时信号分析：3kHz正弦波的数据采集与可视化"
+title: "STM32串口通信实现实时信号分析3kHz正弦波的数据采集与可视化"
 date:   2023-02-23
 tags: [STM32,串口,MATLAB,3kHz,信号]
 comments: true

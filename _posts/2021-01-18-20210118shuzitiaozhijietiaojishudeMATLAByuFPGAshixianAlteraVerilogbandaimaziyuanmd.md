@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字调制解调技术的MATLAB与FPGA实现——AlteraVerilog版 代码资源"
+title: "数字调制解调技术的MATLAB与FPGA实现AlteraVerilog版 代码资源"
 date:   2023-10-18
 tags: [FPGA,MATLAB,解调,调制,代码]
 comments: true

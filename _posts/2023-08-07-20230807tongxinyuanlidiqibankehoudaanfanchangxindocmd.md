@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信原理第七版课后答案樊昌信.doc"
+title: "通信原理第七版课后答案樊昌信doc"
 date:   2023-03-14
 tags: [课后,第七版,樊昌信,doc,通信]
 comments: true

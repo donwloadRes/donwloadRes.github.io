@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS Sonoma 14(22A344) ISO与DMG镜像下载"
+title: "macOS Sonoma 1422A344 ISO与DMG镜像下载"
 date:   2020-04-18
 tags: [ISO,macOS,DMG,安装,Mac]
 comments: true

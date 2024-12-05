@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM下载：Internet Download Manager 6.42中文版下载安装教程"
+title: "IDM下载Internet Download Manager 642中文版下载安装教程"
 date:   2020-10-10
 tags: [IDM,安装,6.42,下载,中文版]
 comments: true

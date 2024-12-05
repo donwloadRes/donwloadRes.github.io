@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 安装 Redis（图文详解）"
+title: "Windows 安装 Redis图文详解"
 date:   2023-06-02
 tags: [Redis,redis,Windows,server,cmd]
 comments: true

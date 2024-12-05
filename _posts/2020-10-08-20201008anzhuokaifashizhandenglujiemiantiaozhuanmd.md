@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓开发实战：登录界面跳转"
+title: "安卓开发实战登录界面跳转"
 date:   2021-07-08
 tags: [登录,界面,跳转,页面,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISOLAR_Demo.zip 资源文件下载"
+title: "ISOLARDemozip 资源文件下载"
 date:   2021-01-16
 tags: [ISOLAR,Demo,zip,文件,下载]
 comments: true

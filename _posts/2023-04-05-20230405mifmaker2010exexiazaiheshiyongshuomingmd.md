@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mif_maker2010.exe 下载和使用说明"
+title: "mifmaker2010exe 下载和使用说明"
 date:   2022-07-17
 tags: [波形,mif,maker2010,exe,MIF]
 comments: true

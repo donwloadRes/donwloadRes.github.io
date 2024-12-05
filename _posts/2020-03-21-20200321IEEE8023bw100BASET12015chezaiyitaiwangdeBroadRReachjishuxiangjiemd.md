@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3bw-100BASE-T1 (2015): 车载以太网的BroadR-Reach技术详解"
+title: "IEEE 8023bw100BASET1 2015 车载以太网的BroadRReach技术详解"
 date:   2023-01-22
 tags: [以太网,Reach,车载,100BASE,BroadR]
 comments: true

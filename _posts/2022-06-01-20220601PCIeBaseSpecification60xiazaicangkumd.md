@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe Base Specification 6.0 下载仓库"
+title: "PCIe Base Specification 60 下载仓库"
 date:   2021-07-16
 tags: [PCIe,Base,Specification,6.0,文件]
 comments: true

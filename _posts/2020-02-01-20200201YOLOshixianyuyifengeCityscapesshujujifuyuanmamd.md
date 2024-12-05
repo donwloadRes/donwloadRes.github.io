@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO实现语义分割（Cityscapes数据集）附源码"
+title: "YOLO实现语义分割Cityscapes数据集附源码"
 date:   2020-07-23
 tags: [分割,语义,训练,YOLO,Cityscapes]
 comments: true

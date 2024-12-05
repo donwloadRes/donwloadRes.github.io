@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2.5 黑群晖资源：正确显示 CPU 型号和获取真实温度指南"
+title: "25 黑群晖资源正确显示 CPU 型号和获取真实温度指南"
 date:   2024-06-10
 tags: [CPU,群晖,温度,黑群晖,SSH]
 comments: true

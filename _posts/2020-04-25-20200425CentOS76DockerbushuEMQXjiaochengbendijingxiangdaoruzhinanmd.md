@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 Docker 部署 EMQX 教程：本地镜像导入指南"
+title: "CentOS 76 Docker 部署 EMQX 教程本地镜像导入指南"
 date:   2024-02-06
 tags: [EMQX,Docker,sudo,docker,镜像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP-PID代码与Simulink模型资源下载"
+title: "BPPID代码与Simulink模型资源下载"
 date:   2021-05-08
 tags: [Simulink,BP,PID,模型,下载]
 comments: true

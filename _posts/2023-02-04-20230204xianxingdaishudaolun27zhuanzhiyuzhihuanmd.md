@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数导论 2.7 转置与置换"
+title: "线性代数导论 27 转置与置换"
 date:   2022-01-26
 tags: [转置,矩阵,线性代数,置换,2.7]
 comments: true

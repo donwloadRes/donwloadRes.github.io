@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸完整素材资源(图片-音乐)"
+title: "植物大战僵尸完整素材资源图片音乐"
 date:   2021-03-23
 tags: [资源,游戏,僵尸,图片,素材]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下system.img打包工具make_ext4fs使用指南"
+title: "Linux下systemimg打包工具makeext4fs使用指南"
 date:   2021-12-13
 tags: [make,ext4fs,system,img,工具]
 comments: true

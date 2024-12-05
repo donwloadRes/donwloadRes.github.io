@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大雾能见度估计与预测：基于 AlexNet 深度网络的 MATLAB 资源"
+title: "大雾能见度估计与预测基于 AlexNet 深度网络的 MATLAB 资源"
 date:   2024-01-19
 tags: [能见度,AlexNet,MATLAB,深度,预测]
 comments: true

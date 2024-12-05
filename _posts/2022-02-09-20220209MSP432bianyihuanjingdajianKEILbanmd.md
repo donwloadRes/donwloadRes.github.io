@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP432编译环境搭建--KEIL版"
+title: "MSP432编译环境搭建KEIL版"
 date:   2020-03-01
 tags: [MSP432,KEIL,例程,KEIL5,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlexRay传输层协议 - ISO10681-2"
+title: "FlexRay传输层协议  ISO106812"
 date:   2020-09-26
 tags: [FlexRay,传输层,ISO10681,文档,汽车]
 comments: true

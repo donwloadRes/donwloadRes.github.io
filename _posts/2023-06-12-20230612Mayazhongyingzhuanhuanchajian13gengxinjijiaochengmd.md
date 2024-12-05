@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maya中英转换插件1.3更新及教程"
+title: "Maya中英转换插件13更新及教程"
 date:   2024-04-17
 tags: [Maya,插件,文字大小,界面,切换]
 comments: true

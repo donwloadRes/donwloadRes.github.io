@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现多功能数字钟（Verilog）"
+title: "FPGA实现多功能数字钟Verilog"
 date:   2020-09-24
 tags: [FPGA,数字钟,Verilog,闹钟,代码]
 comments: true

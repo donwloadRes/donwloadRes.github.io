@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ubuntu22打开utools报错：缺少libcrypto.so.1.1问题解决"
+title: "ubuntu22打开utools报错缺少libcryptoso11问题解决"
 date:   2022-12-04
 tags: [libcrypto,so.1,UTools,sudo,utools]
 comments: true

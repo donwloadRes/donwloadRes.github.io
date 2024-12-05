@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机接收STM32数据：实时数据显示与曲线图表生成"
+title: "C 上位机接收STM32数据实时数据显示与曲线图表生成"
 date:   2021-08-02
 tags: [数据,STM32,实时,图表,上位]
 comments: true

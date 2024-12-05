@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现LL(1)语法分析器"
+title: "C实现LL1语法分析器"
 date:   2023-02-04
 tags: [文法,LL,First,Follow,C++]
 comments: true

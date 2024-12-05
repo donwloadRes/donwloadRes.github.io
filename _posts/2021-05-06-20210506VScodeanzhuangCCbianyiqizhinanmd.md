@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode安装C-C++编译器指南"
+title: "VScode安装CC编译器指南"
 date:   2021-06-24
 tags: [VScode,C++,编译,编译器,配置]
 comments: true

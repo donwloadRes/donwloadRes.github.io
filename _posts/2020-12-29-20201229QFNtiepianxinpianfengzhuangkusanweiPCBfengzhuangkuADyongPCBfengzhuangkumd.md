@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QFN贴片芯片封装库（三维PCB封装库）AD用PCB封装库"
+title: "QFN贴片芯片封装库三维PCB封装库AD用PCB封装库"
 date:   2022-01-08
 tags: [封装,PCB,QFN,三维,贴片]
 comments: true

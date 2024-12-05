@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Socket 基本功能跨平台封装（好用）"
+title: "C Socket 基本功能跨平台封装好用"
 date:   2022-03-10
 tags: [封装,C++,Socket,11,代码]
 comments: true

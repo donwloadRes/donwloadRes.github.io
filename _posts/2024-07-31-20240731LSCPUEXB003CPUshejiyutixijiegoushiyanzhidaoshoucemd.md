@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LS-CPU-EXB-003 CPU设计与体系结构实验指导手册"
+title: "LSCPUEXB003 CPU设计与体系结构实验指导手册"
 date:   2020-07-08
 tags: [CPU,实验,体系结构,LS,EXB]
 comments: true

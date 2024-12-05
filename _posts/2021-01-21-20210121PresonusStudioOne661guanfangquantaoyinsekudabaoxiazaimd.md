@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presonus Studio One 6.6.1 官方全套音色库打包下载"
+title: "Presonus Studio One 661 官方全套音色库打包下载"
 date:   2024-04-05
 tags: [Studio,XT,Presence,Core,套件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 DMA串口不定长数据收发+FreeRTOS操作系统 参考代码"
+title: "STM32 DMA串口不定长数据收发FreeRTOS操作系统 参考代码"
 date:   2021-11-24
 tags: [代码,DMA,串口,STM32F103RCT6,开发板]
 comments: true

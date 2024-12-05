@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱伺服MR-JE-C与FX-5UPLC两轴CCLINK-Basic总线通信程序"
+title: "三菱伺服MRJEC与FX5UPLC两轴CCLINKBasic总线通信程序"
 date:   2022-02-05
 tags: [伺服,三菱,控制,伺服系统,程序]
 comments: true

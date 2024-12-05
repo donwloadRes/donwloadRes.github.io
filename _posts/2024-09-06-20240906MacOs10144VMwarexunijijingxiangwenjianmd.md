@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacOs 10.14.4 VMware 虚拟机镜像文件"
+title: "MacOs 10144 VMware 虚拟机镜像文件"
 date:   2023-10-17
 tags: [虚拟机,MacOs,10.14,VMware,镜像文件]
 comments: true

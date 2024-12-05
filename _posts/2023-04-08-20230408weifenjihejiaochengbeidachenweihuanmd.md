@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微分几何教程——北大陈维桓"
+title: "微分几何教程北大陈维桓"
 date:   2024-07-24
 tags: [微分,几何,教程,图形图像,陈维桓]
 comments: true

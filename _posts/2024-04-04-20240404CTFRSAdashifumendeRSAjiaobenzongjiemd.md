@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF-RSA 大师傅们的RSA脚本总结"
+title: "CTFRSA 大师傅们的RSA脚本总结"
 date:   2021-02-06
 tags: [脚本,RSA,attack,py,加密]
 comments: true

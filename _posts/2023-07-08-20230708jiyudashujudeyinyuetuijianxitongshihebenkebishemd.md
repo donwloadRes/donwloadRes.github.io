@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于大数据的音乐推荐系统（适合本科毕设）"
+title: "基于大数据的音乐推荐系统适合本科毕设"
 date:   2022-03-13
 tags: [音乐,数据,推荐,算法,项目]
 comments: true

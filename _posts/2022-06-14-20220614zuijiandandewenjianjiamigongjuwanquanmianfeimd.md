@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的文件加密工具（完全免费）"
+title: "最简单的文件加密工具完全免费"
 date:   2023-11-13
 tags: [文件,加密,解密,FileCryptor,文件夹]
 comments: true

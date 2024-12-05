@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NRCE 二级C语言开发环境：Microsoft Visual C++ 2010 学习版下载"
+title: "NRCE 二级C语言开发环境Microsoft Visual C 2010 学习版下载"
 date:   2022-04-16
 tags: [C语言,NRCE,安装,下载,考试]
 comments: true

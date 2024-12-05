@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe 仿真车载以太网 SOME-IP 协议资源下载"
+title: "CANoe 仿真车载以太网 SOMEIP 协议资源下载"
 date:   2024-04-16
 tags: [仿真,CANoe,SOME,IP,文件]
 comments: true

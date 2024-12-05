@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于混合整数二阶锥（MISOCP）的配电网重构Matlab代码"
+title: "基于混合整数二阶锥MISOCP的配电网重构Matlab代码"
 date:   2023-05-28
 tags: [MISOCP,配电网,重构,代码,Matlab]
 comments: true

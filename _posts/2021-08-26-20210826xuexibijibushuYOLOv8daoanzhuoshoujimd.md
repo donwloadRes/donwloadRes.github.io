@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习笔记：部署YOLOv8到安卓手机"
+title: "学习笔记部署YOLOv8到安卓手机"
 date:   2022-09-01
 tags: [YOLOv8,安卓,模型,到安卓,文件]
 comments: true

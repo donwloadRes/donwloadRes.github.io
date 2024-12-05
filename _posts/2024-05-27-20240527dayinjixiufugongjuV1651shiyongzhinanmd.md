@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "打印机修复工具 V1.65.1 使用指南"
+title: "打印机修复工具 V1651 使用指南"
 date:   2021-02-08
 tags: [打印机,修复,工具,V1.65,打印]
 comments: true

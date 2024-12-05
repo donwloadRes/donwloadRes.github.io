@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习资源下载：PyTorch与Scikit-Learn实战指南（2022）"
+title: "机器学习资源下载PyTorch与ScikitLearn实战指南2022"
 date:   2022-12-25
 tags: [PyTorch,Scikit,Learn,资源,学习]
 comments: true

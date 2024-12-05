@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记一次安装Roon 1.6版本"
+title: "记一次安装Roon 16版本"
 date:   2023-10-22
 tags: [Roon,软件,1.6,Windows,Server]
 comments: true

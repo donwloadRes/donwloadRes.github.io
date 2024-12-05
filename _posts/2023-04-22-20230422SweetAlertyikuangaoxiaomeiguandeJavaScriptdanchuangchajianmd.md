@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SweetAlert：一款高效美观的JavaScript弹窗插件"
+title: "SweetAlert一款高效美观的JavaScript弹窗插件"
 date:   2023-03-06
 tags: [SweetAlert,弹窗,插件,JavaScript,Web]
 comments: true

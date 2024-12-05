@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager 6.42 Build 3 全球最佳下载利器"
+title: "Internet Download Manager 642 Build 3 全球最佳下载利器"
 date:   2024-10-21
 tags: [下载,Internet,Download,Manager,文件]
 comments: true

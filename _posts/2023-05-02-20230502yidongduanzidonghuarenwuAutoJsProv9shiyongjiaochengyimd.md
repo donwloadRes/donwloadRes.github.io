@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动端自动化任务-AutoJs Pro v9使用教程（一）"
+title: "移动端自动化任务AutoJs Pro v9使用教程一"
 date:   2023-09-06
 tags: [AutoJs,Pro,教程,v9,自动化]
 comments: true

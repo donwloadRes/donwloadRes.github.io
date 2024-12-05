@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAN生成对抗网络MATLAB版本（可直接运行）"
+title: "GAN生成对抗网络MATLAB版本可直接运行"
 date:   2024-10-23
 tags: [GAN,MATLAB,生成,数据,代码]
 comments: true

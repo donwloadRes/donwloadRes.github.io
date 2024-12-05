@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retinex算法在MATLAB中的实践：解决光照不均衡问题"
+title: "Retinex算法在MATLAB中的实践解决光照不均衡问题"
 date:   2024-05-05
 tags: [Retinex,算法,MATLAB,图像,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美赛B题思路分享：解读与建议"
+title: "美赛B题思路分享解读与建议"
 date:   2022-10-08
 tags: [思路,美赛,2021,解题,建模]
 comments: true

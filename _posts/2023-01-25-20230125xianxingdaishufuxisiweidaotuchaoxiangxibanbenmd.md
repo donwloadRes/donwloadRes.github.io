@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数复习思维导图（超详细版本）"
+title: "线性代数复习思维导图超详细版本"
 date:   2024-01-14
 tags: [导图,线性代数,思维,复习,知识点]
 comments: true

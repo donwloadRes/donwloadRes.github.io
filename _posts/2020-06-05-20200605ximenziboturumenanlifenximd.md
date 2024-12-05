@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子博途入门（案例分析）"
+title: "西门子博途入门案例分析"
 date:   2021-10-10
 tags: [博途,西门子,案例,入门,分析]
 comments: true

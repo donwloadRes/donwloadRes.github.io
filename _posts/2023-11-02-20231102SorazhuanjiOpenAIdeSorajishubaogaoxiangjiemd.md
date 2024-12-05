@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sora专辑-OpenAI的Sora技术报告详解"
+title: "Sora专辑OpenAI的Sora技术报告详解"
 date:   2023-12-31
 tags: [Sora,AI,OpenAI,报告,技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UTAU - 完整无乱码汉化策略及资源配布"
+title: "UTAU  完整无乱码汉化策略及资源配布"
 date:   2021-12-10
 tags: [汉化,UTAU,乱码,资源,原文件]
 comments: true

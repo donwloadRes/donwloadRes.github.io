@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.5μm BCD 工艺流程和截面"
+title: "05m BCD 工艺流程和截面"
 date:   2021-07-11
 tags: [BCD,0.5,器件,截面,工艺流程]
 comments: true

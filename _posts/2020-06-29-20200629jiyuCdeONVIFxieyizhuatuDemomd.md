@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的ONVIF协议抓图Demo"
+title: "基于C的ONVIF协议抓图Demo"
 date:   2022-03-30
 tags: [ONVIF,摄像机,抓图,C#,协议]
 comments: true

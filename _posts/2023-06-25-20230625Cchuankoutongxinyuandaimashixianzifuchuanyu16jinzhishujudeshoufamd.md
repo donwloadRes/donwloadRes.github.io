@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口通信源代码 - 实现字符串与16进制数据的收发"
+title: "C串口通信源代码  实现字符串与16进制数据的收发"
 date:   2022-03-19
 tags: [串口,port,16,进制,字符串]
 comments: true

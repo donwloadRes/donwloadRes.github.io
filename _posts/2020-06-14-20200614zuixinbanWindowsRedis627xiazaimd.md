@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版Windows Redis 6.2.7 下载"
+title: "最新版Windows Redis 627 下载"
 date:   2020-10-23
 tags: [Redis,6.2,Windows,最新版,下载]
 comments: true

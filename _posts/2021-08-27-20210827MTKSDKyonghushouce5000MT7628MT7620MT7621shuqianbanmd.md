@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK SDK 用户手册 5.0.0.0 - MT7628-MT7620-MT7621 书签版"
+title: "MTK SDK 用户手册 5000  MT7628MT7620MT7621 书签版"
 date:   2022-07-11
 tags: [书签,文档,MTK,SDK,PDF]
 comments: true

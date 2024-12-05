@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xlnt_demo - C++ 使用xlnt库操作Excel的VS2015示例"
+title: "xlntdemo  C 使用xlnt库操作Excel的VS2015示例"
 date:   2023-06-16
 tags: [xlnt,Excel,C++,示例,Visual]
 comments: true

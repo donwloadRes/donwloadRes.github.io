@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业大模型技术应用与发展报告1.0"
+title: "工业大模型技术应用与发展报告10"
 date:   2022-02-03
 tags: [报告,工业,1.0,模型,技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LibreVNA: 100kHz至6GHz 2端口基于USB的VNA"
+title: "LibreVNA 100kHz至6GHz 2端口基于USB的VNA"
 date:   2021-12-22
 tags: [LibreVNA,USB,VNA,应用程序,端口]
 comments: true

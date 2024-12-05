@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "规约模拟软件：全方位支持101、104、CDT、MODBUS、SPA、103通讯协议"
+title: "规约模拟软件全方位支持101104CDTMODBUSSPA103通讯协议"
 date:   2024-07-27
 tags: [协议,软件,通讯,模拟,规约]
 comments: true

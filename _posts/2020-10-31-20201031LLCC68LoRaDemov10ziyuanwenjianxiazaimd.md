@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LLCC68 LoRa Demo v1.0 资源文件下载"
+title: "LLCC68 LoRa Demo v10 资源文件下载"
 date:   2023-06-14
 tags: [LoRa,LLCC68,Demo,文件,用户手册]
 comments: true

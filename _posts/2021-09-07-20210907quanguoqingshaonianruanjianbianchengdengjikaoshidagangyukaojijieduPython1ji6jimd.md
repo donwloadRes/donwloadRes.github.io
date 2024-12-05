@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国青少年软件编程等级考试大纲与考级解读（Python1级-6级）"
+title: "全国青少年软件编程等级考试大纲与考级解读Python1级6级"
 date:   2021-04-25
 tags: [考级,Python1,大纲,编程,解读]
 comments: true

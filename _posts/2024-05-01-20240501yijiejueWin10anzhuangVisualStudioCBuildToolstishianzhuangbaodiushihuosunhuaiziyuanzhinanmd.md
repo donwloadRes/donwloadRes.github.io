@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（已解决）Win10安装Visual Studio C++ Build Tools提示安装包丢失或损坏资源指南"
+title: "已解决Win10安装Visual Studio C Build Tools提示安装包丢失或损坏资源指南"
 date:   2023-09-14
 tags: [安装,安装包,C++,离线,Visual]
 comments: true

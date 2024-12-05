@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polar-Si9000使用方法（中文）"
+title: "PolarSi9000使用方法中文"
 date:   2023-04-10
 tags: [Polar,Si9000,single,net,文档]
 comments: true

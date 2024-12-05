@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek RTL8188FU&RTL8188FTV USB无线网卡驱动程序"
+title: "Realtek RTL8188FURTL8188FTV USB无线网卡驱动程序"
 date:   2020-06-24
 tags: [驱动程序,Android,Linux,网卡,无线]
 comments: true

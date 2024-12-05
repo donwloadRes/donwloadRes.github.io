@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VASPKIT中文手册（v 0.73）下载"
+title: "VASPKIT中文手册v 073下载"
 date:   2021-12-30
 tags: [VASPKIT,手册,0.73,用户,中文]
 comments: true

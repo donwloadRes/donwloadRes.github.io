@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "控创（Kontron）COMe模块载板原理图-TYPE 10型"
+title: "控创KontronCOMe模块载板原理图TYPE 10型"
 date:   2024-08-31
 tags: [原理图,控创,载板,COMe,模块]
 comments: true

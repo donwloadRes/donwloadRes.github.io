@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Upload-labs通关手册下载"
+title: "Uploadlabs通关手册下载"
 date:   2023-05-29
 tags: [Upload,labs,通关,手册,pdf]
 comments: true

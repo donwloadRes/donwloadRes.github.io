@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "导弹制导控制全仿真模型 - 滑模制导律 MATLAB 实现"
+title: "导弹制导控制全仿真模型  滑模制导律 MATLAB 实现"
 date:   2020-03-24
 tags: [制导,滑模,仿真,MATLAB,导弹]
 comments: true

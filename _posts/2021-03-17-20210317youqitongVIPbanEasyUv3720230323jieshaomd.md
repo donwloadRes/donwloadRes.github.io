@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优启通VIP版(EasyU)_v3.7.2023.0323 介绍"
+title: "优启通VIP版EasyUv3720230323 介绍"
 date:   2022-07-04
 tags: [U盘,VIP,优启通,EasyU,制作]
 comments: true

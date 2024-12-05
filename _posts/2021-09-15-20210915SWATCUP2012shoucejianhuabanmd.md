@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWAT-CUP2012手册简化版"
+title: "SWATCUP2012手册简化版"
 date:   2024-05-25
 tags: [SWAT,CUP2012,手册,简化版,用户]
 comments: true

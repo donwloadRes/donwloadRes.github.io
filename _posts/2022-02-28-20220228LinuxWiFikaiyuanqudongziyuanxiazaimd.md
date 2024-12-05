@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux Wi-Fi 开源驱动资源下载"
+title: "Linux WiFi 开源驱动资源下载"
 date:   2020-06-01
 tags: [Fi,Wi,Linux,驱动,资源]
 comments: true

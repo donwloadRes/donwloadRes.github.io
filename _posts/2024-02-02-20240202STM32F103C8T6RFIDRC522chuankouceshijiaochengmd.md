@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 RFID-RC522 串口测试教程"
+title: "STM32F103C8T6 RFIDRC522 串口测试教程"
 date:   2022-08-05
 tags: [STM32F103C8T6,RC522,串口,RFID,开发板]
 comments: true

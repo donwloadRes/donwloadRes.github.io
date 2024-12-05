@@ -1,6 +1,26 @@
 ---
 layout: post
-title: "Python钉钉群消息交互教程"
+title: "Python钉钉群消息交互教程
+date   20230123
+tags 消息Python接收token
+comments true
+author admin
+
+ Python钉钉群消息交互教程
+
+ 概述
+
+本文档旨在指导您如何使用Python实现向钉钉群发送消息以及接收群内消息的功能通过简单的代码示例您可以快速集成钉钉机器人实现实时的通讯需求本教程包含两个核心部分发送消息脚本和接收消息的简单示例帮助您轻松应对团队协作中的自动化通知或简易聊天机器人开发
+
+ 发送消息至钉钉群
+
+发送消息到钉钉群主要利用钉钉提供的Webhook机制以下是一个基本的Python脚本示例展示如何构造请求并发送文本消息
+
+python
+import requests
+
+def senddingtalkmessagetoken
+    webhookurl  fhttpsoapidingtalkcomrobotsendaccesstokentoken"
 date:   2023-01-23
 tags: [消息,Python,接收,token,__]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高可靠性DC-DC开关电源的浪涌电流抑制电路设计"
+title: "高可靠性DCDC开关电源的浪涌电流抑制电路设计"
 date:   2021-09-03
 tags: [DC,浪涌,电流,电路设计,开关电源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能概论课内实验：A算法仿真实验"
+title: "人工智能概论课内实验A算法仿真实验"
 date:   2024-07-11
 tags: [单击,算法,实验,终点,节点]
 comments: true

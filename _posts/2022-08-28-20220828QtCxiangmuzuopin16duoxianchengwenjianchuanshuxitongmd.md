@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品16：多线程文件传输系统"
+title: "QtC项目作品16多线程文件传输系统"
 date:   2020-12-27
 tags: [文件传输,多线程,项目,编译,Qt]
 comments: true

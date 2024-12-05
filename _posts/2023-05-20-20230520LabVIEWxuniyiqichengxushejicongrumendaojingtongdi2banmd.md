@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW虚拟仪器程序设计从入门到精通（第2版）"
+title: "LabVIEW虚拟仪器程序设计从入门到精通第2版"
 date:   2021-03-16
 tags: [LabVIEW,虚拟仪器,精通,编程,程序设计]
 comments: true

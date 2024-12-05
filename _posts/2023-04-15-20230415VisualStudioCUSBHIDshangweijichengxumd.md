@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio C#-USB HID 上位机程序"
+title: "Visual Studio CUSB HID 上位机程序"
 date:   2022-04-04
 tags: [USB,HID,Visual,Studio,项目]
 comments: true

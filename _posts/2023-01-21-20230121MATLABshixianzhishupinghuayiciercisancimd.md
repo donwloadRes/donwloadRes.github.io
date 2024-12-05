@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现指数平滑（一次-二次-三次）"
+title: "MATLAB实现指数平滑一次二次三次"
 date:   2021-12-12
 tags: [平滑,st1,st2,st3,MATLAB]
 comments: true

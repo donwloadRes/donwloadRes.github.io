@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔兽争霸WAR3全图工具（127版本及Delphi7源代码）"
+title: "魔兽争霸WAR3全图工具127版本及Delphi7源代码"
 date:   2021-04-05
 tags: [全图,工具,WAR3,源代码,127]
 comments: true

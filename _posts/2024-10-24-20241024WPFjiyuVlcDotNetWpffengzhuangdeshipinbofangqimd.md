@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF基于Vlc.DotNet.Wpf封装的视频播放器"
+title: "WPF基于VlcDotNetWpf封装的视频播放器"
 date:   2021-07-25
 tags: [播放器,Vlc,DotNet,Wpf,WPF]
 comments: true

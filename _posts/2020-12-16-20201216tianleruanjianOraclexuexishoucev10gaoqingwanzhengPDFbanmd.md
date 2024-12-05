@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天乐软件Oracle学习手册（v1.0）高清完整PDF版"
+title: "天乐软件Oracle学习手册v10高清完整PDF版"
 date:   2023-10-06
 tags: [Oracle,学习,手册,天乐,v1.0]
 comments: true

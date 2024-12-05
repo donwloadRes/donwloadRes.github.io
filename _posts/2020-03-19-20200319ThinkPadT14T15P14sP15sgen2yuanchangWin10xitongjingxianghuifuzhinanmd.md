@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPad T14-T15-P14s-P15s gen2 原厂Win10系统镜像恢复指南"
+title: "ThinkPad T14T15P14sP15s gen2 原厂Win10系统镜像恢复指南"
 date:   2021-01-30
 tags: [ThinkPad,镜像文件,恢复,系统,启动盘]
 comments: true

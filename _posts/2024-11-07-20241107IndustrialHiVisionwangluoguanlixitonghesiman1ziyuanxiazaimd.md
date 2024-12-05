@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Industrial HiVision网络管理系统--赫斯曼1 资源下载"
+title: "Industrial HiVision网络管理系统赫斯曼1 资源下载"
 date:   2021-12-29
 tags: [Industrial,HiVision,下载,网络,访问]
 comments: true

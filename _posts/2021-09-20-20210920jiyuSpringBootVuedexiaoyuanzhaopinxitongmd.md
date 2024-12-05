@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的校园招聘系统"
+title: "基于SpringBootVue的校园招聘系统"
 date:   2022-10-08
 tags: [招聘,系统,校园,SpringBoot,Vue]
 comments: true

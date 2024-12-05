@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的NAO机器人开发指南：安装Python和NAOqi库及有线和无线连接"
+title: "基于Python的NAO机器人开发指南安装Python和NAOqi库及有线和无线连接"
 date:   2021-03-20
 tags: [机器人,NAO,Python,NAOqi,连接]
 comments: true

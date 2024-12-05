@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王济-matlab在振动信号处理中的应用代码"
+title: "王济matlab在振动信号处理中的应用代码"
 date:   2021-04-26
 tags: [信号处理,代码,振动,文档,matlab]
 comments: true

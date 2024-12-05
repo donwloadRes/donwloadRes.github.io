@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QNX 6.4.0 源代码下载"
+title: "QNX 640 源代码下载"
 date:   2020-05-09
 tags: [源代码,QNX,6.4,编译,Makefile]
 comments: true

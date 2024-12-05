@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog IEEE 1800-2017 标准文档下载"
+title: "SystemVerilog IEEE 18002017 标准文档下载"
 date:   2021-02-08
 tags: [SystemVerilog,文档,2017,IEEE,1800]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运用VMware创建虚拟机以及安装Linux操作系统（超详细）"
+title: "运用VMware创建虚拟机以及安装Linux操作系统超详细"
 date:   2022-12-25
 tags: [虚拟机,VMware,安装,Linux,操作系统]
 comments: true

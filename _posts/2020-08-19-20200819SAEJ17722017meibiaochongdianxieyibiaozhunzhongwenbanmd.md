@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAEJ1772-2017 美标充电协议标准中文版"
+title: "SAEJ17722017 美标充电协议标准中文版"
 date:   2023-09-26
 tags: [2017,SAEJ1772,充电,标准,美标]
 comments: true

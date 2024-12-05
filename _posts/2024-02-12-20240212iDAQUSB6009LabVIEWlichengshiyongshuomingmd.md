@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iDAQ-USB-6009 LabVIEW 例程使用说明"
+title: "iDAQUSB6009 LabVIEW 例程使用说明"
 date:   2024-04-24
 tags: [iDAQ,LabVIEW,USB,6009,编程]
 comments: true

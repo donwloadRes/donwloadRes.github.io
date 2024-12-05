@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用BarTender条码并打印指南"
+title: "C调用BarTender条码并打印指南"
 date:   2021-12-31
 tags: [BarTender,打印,模板,C#,SDK]
 comments: true

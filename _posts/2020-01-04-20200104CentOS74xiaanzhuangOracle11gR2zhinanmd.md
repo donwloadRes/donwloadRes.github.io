@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.4下安装Oracle 11gR2指南"
+title: "CentOS 74下安装Oracle 11gR2指南"
 date:   2020-09-09
 tags: [Oracle,11gR2,数据库,安装,安装文件]
 comments: true

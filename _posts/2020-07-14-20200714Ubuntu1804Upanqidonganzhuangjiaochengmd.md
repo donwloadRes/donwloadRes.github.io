@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 U盘启动安装教程"
+title: "Ubuntu 1804 U盘启动安装教程"
 date:   2024-04-10
 tags: [U盘,Ubuntu,安装,18.04,教程]
 comments: true

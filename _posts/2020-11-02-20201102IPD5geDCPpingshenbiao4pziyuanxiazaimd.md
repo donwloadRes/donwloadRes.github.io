@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPD5个DCP评审表（4p）资源下载"
+title: "IPD5个DCP评审表4p资源下载"
 date:   2022-10-25
 tags: [评审,DCP,IPD5,4p,决策]
 comments: true

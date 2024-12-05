@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统原理及应用.pdf"
+title: "嵌入式系统原理及应用pdf"
 date:   2022-05-26
 tags: [嵌入式,系统,pdf,应用,原理]
 comments: true

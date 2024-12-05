@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A星寻路源码 - 适合2D-2.5D无寻路功能游戏"
+title: "A星寻路源码  适合2D25D无寻路功能游戏"
 date:   2021-03-20
 tags: [寻路,源码,游戏,2D,2.5]
 comments: true

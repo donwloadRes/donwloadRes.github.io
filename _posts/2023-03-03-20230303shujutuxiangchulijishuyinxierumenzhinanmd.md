@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据图像处理技术：隐写入门指南"
+title: "数据图像处理技术隐写入门指南"
 date:   2020-10-31
 tags: [隐写,图像处理,隐写术,技术,实践]
 comments: true

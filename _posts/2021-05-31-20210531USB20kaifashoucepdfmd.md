@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0开发手册.pdf"
+title: "USB20开发手册pdf"
 date:   2022-10-01
 tags: [USB2.0,USB,手册,设备,pdf]
 comments: true

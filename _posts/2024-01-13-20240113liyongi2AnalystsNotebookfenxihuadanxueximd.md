@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用i2 Analyst's Notebook分析话单学习"
+title: "利用i2 Analysts Notebook分析话单学习"
 date:   2020-04-16
 tags: [i2,Analyst,Notebook,话单,学习]
 comments: true

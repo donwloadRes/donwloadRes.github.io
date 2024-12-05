@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB建模规范MAAB-MBD开发资源下载"
+title: "MATLAB建模规范MAABMBD开发资源下载"
 date:   2021-03-30
 tags: [建模,MAAB,MATLAB,控制算法,规范]
 comments: true

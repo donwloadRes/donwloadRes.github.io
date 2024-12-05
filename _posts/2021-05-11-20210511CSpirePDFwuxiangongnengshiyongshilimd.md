@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Spire.PDF 无限功能使用示例"
+title: "C SpirePDF 无限功能使用示例"
 date:   2023-11-06
 tags: [PDF,Spire,C#,dll,Demo]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你学dsp2812》顾卫刚.PDF 下载仓库"
+title: "手把手教你学dsp2812顾卫刚PDF 下载仓库"
 date:   2024-02-26
 tags: [dsp2812,PDF,顾卫刚,手把手,下载]
 comments: true

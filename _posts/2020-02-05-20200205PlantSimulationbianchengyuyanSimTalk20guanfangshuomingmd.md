@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plant Simulation编程语言SimTalk2.0官方说明"
+title: "Plant Simulation编程语言SimTalk20官方说明"
 date:   2020-10-08
 tags: [SimTalk,2.0,Plant,Simulation,编程语言]
 comments: true

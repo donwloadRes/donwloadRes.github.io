@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS-2标准键盘设备无法启动问题解决方案"
+title: "PS2标准键盘设备无法启动问题解决方案"
 date:   2021-01-22
 tags: [键盘,PS,注册表,设备,管理器]
 comments: true

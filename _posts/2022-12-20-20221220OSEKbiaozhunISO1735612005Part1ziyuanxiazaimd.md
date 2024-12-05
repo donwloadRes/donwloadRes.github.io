@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK标准_ISO 17356-1-2005_Part 1 资源下载"
+title: "OSEK标准ISO 1735612005Part 1 资源下载"
 date:   2020-02-21
 tags: [ISO,17356,标准,2005,OSEK]
 comments: true

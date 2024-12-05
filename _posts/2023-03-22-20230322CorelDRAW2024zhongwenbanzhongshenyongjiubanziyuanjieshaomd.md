@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 2024中文版 - 终身永久版资源介绍"
+title: "CorelDRAW 2024中文版  终身永久版资源介绍"
 date:   2024-05-07
 tags: [CorelDRAW,2024,设计,中文版,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杰理AC692X用户手册V1.0.pdf 下载仓库"
+title: "杰理AC692X用户手册V10pdf 下载仓库"
 date:   2023-02-15
 tags: [杰理,AC692X,用户手册,V1.0,pdf]
 comments: true

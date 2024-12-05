@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与西门子1200以太网通讯源码"
+title: "C与西门子1200以太网通讯源码"
 date:   2020-10-26
 tags: [PLC,以太网,源码,1200,西门子]
 comments: true

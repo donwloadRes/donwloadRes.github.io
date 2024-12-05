@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VUE学习（一）- 介绍及安装vue开发者调试工具（devtools）"
+title: "VUE学习一 介绍及安装vue开发者调试工具devtools"
 date:   2020-10-23
 tags: [vue,Vue,VUE,devtools,开发者]
 comments: true

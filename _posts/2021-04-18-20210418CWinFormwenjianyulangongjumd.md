@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 文件预览工具"
+title: "C WinForm 文件预览工具"
 date:   2020-07-04
 tags: [预览,控件,源代码,文件,C#]
 comments: true

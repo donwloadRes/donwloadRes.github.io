@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32、ESP8266及OV2640的无线图传上位机源码"
+title: "基于STM32ESP8266及OV2640的无线图传上位机源码"
 date:   2022-10-18
 tags: [图像,源码,ESP8266,上位,数据]
 comments: true

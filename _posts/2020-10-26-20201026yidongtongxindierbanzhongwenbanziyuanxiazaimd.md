@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动通信(第二版)中文版 资源下载"
+title: "移动通信第二版中文版 资源下载"
 date:   2024-07-04
 tags: [参考文献,复习题,移动,小结,通信]
 comments: true

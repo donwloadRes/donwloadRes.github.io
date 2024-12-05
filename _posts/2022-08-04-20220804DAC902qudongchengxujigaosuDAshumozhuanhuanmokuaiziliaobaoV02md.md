@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAC902驱动程序及高速DA数模转换模块资料包-V0.2"
+title: "DAC902驱动程序及高速DA数模转换模块资料包V02"
 date:   2021-03-26
 tags: [DAC902,驱动程序,数模转换,DA,V0.2]
 comments: true

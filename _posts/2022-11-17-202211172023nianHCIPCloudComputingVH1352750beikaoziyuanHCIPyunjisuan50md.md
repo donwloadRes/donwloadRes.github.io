@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年 HCIP-Cloud Computing V-H13-527 5.0备考资源（HCIP-云计算 5.0）"
+title: "2023年 HCIPCloud Computing VH13527 50备考资源HCIP云计算 50"
 date:   2020-01-28
 tags: [备考,HCIP,考试,5.0,大纲]
 comments: true

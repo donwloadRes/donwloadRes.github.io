@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【从原理到实战】文本识别经典算法CRNN+CTC"
+title: "从原理到实战文本识别经典算法CRNNCTC"
 date:   2024-07-29
 tags: [CRNN,CTC,文本,算法,识别]
 comments: true

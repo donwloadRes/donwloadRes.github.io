@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.9.0 32位编译库下载"
+title: "OpenCV 490 32位编译库下载"
 date:   2021-11-29
 tags: [编译,32,文件,OpenCV,4.9]
 comments: true

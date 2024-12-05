@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目实战 - tpshop商城项目环境搭建"
+title: "项目实战  tpshop商城项目环境搭建"
 date:   2024-06-27
 tags: [安装,Linux,虚拟机,项目,部署]
 comments: true

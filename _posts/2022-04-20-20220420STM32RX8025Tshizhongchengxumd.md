@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-RX8025T时钟程序"
+title: "STM32RX8025T时钟程序"
 date:   2020-10-12
 tags: [时钟,STM32,RX8025T,程序,硬件]
 comments: true

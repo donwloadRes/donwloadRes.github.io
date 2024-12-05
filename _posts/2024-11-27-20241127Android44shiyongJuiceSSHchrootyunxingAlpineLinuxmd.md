@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 4.4 使用 JuiceSSH（chroot）运行 Alpine Linux"
+title: "Android 44 使用 JuiceSSHchroot运行 Alpine Linux"
 date:   2022-07-17
 tags: [Linux,Alpine,安装,运行,Android]
 comments: true

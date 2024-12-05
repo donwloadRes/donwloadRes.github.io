@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口软件 VSPD 7.2.308 下载"
+title: "虚拟串口软件 VSPD 72308 下载"
 date:   2023-06-04
 tags: [串口,308,虚拟,VSPD,软件]
 comments: true

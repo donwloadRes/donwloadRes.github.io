@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能标准化白皮书（2018版） PDF 资源"
+title: "人工智能标准化白皮书2018版 PDF 资源"
 date:   2021-08-23
 tags: [人工智能,标准化,2018,白皮书,PDF]
 comments: true

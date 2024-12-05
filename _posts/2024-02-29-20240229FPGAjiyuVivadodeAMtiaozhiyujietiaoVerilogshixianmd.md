@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【FPGA】基于Vivado的AM调制与解调Verilog实现"
+title: "FPGA基于Vivado的AM调制与解调Verilog实现"
 date:   2024-08-20
 tags: [调制,FPGA,Vivado,AM,解调]
 comments: true

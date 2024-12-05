@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "让 Mac 像 Windows 一样使用 Alt + Tab 切换窗口 -- AltTab 工具介绍"
+title: "让 Mac 像 Windows 一样使用 Alt  Tab 切换窗口  AltTab 工具介绍"
 date:   2020-01-29
 tags: [Windows,Tab,AltTab,窗口,切换]
 comments: true

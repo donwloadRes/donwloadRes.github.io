@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Cartopy绘制中国地图"
+title: "PythonCartopy绘制中国地图"
 date:   2022-07-29
 tags: [Cartopy,绘制,示例,地图,Python]
 comments: true

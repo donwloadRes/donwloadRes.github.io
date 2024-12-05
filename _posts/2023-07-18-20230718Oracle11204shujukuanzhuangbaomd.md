@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.4 数据库安装包"
+title: "Oracle 11204 数据库安装包"
 date:   2021-02-16
 tags: [Oracle,数据库,安装,安装包,卸载]
 comments: true

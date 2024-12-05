@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库应用从入门到精通(第2版) 资源文件介绍"
+title: "MySQL数据库应用从入门到精通第2版 资源文件介绍"
 date:   2020-08-14
 tags: [MySQL,数据库,读者,资源,精通]
 comments: true

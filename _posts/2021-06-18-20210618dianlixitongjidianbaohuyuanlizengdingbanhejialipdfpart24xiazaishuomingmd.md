@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统继电保护原理(增订版)－贺家李.pdf part 2-4 下载说明"
+title: "电力系统继电保护原理增订版贺家李pdf part 24 下载说明"
 date:   2022-01-14
 tags: [继电保护,part,下载,解压,电力系统]
 comments: true

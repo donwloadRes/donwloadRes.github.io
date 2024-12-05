@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt读写Word：高效生成含图片和表格的文档"
+title: "Qt读写Word高效生成含图片和表格的文档"
 date:   2021-01-14
 tags: [文档,Word,Qt,生成,表格]
 comments: true

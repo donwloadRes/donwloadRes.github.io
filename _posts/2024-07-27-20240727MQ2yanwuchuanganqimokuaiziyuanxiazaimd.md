@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQ-2烟雾传感器模块资源下载"
+title: "MQ2烟雾传感器模块资源下载"
 date:   2024-01-21
 tags: [MQ,烟雾,传感器,例程,模块]
 comments: true

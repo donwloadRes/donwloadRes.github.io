@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标粒子群算法（MOPSO）Matlab程序-电机性能优化"
+title: "多目标粒子群算法MOPSOMatlab程序电机性能优化"
 date:   2024-01-01
 tags: [优化,程序,电机,Matlab,目标]
 comments: true

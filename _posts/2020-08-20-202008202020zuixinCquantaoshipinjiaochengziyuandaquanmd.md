@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020最新C++全套视频教程资源大全"
+title: "2020最新C全套视频教程资源大全"
 date:   2021-10-31
 tags: [C++,编程,视频教程,学习,课件]
 comments: true

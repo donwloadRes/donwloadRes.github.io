@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window丢失api-ms-win-crt-runtime-l1-1-0.dll 解决方案"
+title: "Window丢失apimswincrtruntimel110dll 解决方案"
 date:   2023-09-17
 tags: [runtime,api,ms,win,crt]
 comments: true

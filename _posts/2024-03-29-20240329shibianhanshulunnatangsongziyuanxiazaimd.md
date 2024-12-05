@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实变函数论（那汤松）资源下载"
+title: "实变函数论那汤松资源下载"
 date:   2024-02-17
 tags: [实变,汤松,函数,资源,下载]
 comments: true

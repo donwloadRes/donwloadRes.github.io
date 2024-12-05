@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu离线安装openssh-server安装包"
+title: "Ubuntu离线安装opensshserver安装包"
 date:   2024-01-23
 tags: [openssh,server,deb,安装,Ubuntu]
 comments: true

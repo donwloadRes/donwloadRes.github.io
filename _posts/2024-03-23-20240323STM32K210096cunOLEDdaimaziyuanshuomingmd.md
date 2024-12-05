@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+K210+0.96寸OLED代码资源说明"
+title: "STM32K210096寸OLED代码资源说明"
 date:   2021-10-16
 tags: [K210,STM32,OLED,识别,连接]
 comments: true

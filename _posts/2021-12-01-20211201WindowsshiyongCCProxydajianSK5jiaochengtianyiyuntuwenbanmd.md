@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows使用CCProxy搭建SK5教程（天翼云）图文版"
+title: "Windows使用CCProxy搭建SK5教程天翼云图文版"
 date:   2023-07-26
 tags: [搭建,教程,SK5,脚本,一键]
 comments: true

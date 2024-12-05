@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代数字信号处理 - 姚天任"
+title: "现代数字信号处理  姚天任"
 date:   2021-03-11
 tags: [信号处理,数字,姚天任,学习,现代]
 comments: true

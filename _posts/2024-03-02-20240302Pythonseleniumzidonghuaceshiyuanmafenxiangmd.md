@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+selenium自动化测试源码分享"
+title: "Pythonselenium自动化测试源码分享"
 date:   2021-11-25
 tags: [Python,selenium,源码,自动化,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 窗体四周阴影效果实现"
+title: "C WinForm 窗体四周阴影效果实现"
 date:   2021-03-13
 tags: [窗体,阴影,应用程序,效果,边框]
 comments: true

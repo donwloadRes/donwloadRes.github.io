@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONNX Runtime Windows x64 1.12.0 预编译包"
+title: "ONNX Runtime Windows x64 1120 预编译包"
 date:   2021-02-14
 tags: [ONNX,Runtime,x64,1.12,编译]
 comments: true

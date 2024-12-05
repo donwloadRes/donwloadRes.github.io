@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "imx6ull微处理器参考手册（中文版）分享"
+title: "imx6ull微处理器参考手册中文版分享"
 date:   2021-06-07
 tags: [imx6ull,微处理器,参考手册,中文版,文件]
 comments: true

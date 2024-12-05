@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog HDL 实现的数字下变频(DDC)设计"
+title: "Verilog HDL 实现的数字下变频DDC设计"
 date:   2022-09-08
 tags: [Verilog,下变频,HDL,DDC,ALTERA]
 comments: true

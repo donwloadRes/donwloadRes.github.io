@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAN8720A-LAN8720AI中文数据手册（带标签）"
+title: "LAN8720ALAN8720AI中文数据手册带标签"
 date:   2023-03-13
 tags: [手册,LAN8720A,LAN8720AI,以太网,中文]
 comments: true

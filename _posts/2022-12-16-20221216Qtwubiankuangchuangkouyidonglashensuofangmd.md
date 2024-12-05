@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt无边框窗口移动、拉伸、缩放"
+title: "Qt无边框窗口移动拉伸缩放"
 date:   2020-11-29
 tags: [窗口,Qt,鼠标,边框,移动]
 comments: true

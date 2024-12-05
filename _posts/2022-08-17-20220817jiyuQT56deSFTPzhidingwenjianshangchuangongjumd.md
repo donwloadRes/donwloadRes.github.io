@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT5.6的SFTP指定文件上传工具"
+title: "基于QT56的SFTP指定文件上传工具"
 date:   2023-04-15
 tags: [上传,SFTP,配置文件,配置,文件]
 comments: true

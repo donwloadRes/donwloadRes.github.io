@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用IntelliJ IDEA 配置安卓(Android)开发环境（一条龙服务，新手必读！）"
+title: "使用IntelliJ IDEA 配置安卓Android开发环境一条龙服务新手必读"
 date:   2024-11-23
 tags: [IntelliJ,IDEA,Android,安卓,配置]
 comments: true

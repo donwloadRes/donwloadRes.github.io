@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试用例设计方法--正交表法（工具allpairs）"
+title: "测试用例设计方法正交表法工具allpairs"
 date:   2021-12-06
 tags: [表法,allpairs,正交,测试用例,工具]
 comments: true

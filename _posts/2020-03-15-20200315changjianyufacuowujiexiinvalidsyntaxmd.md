@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常见语法错误解析：invalid syntax"
+title: "常见语法错误解析invalid syntax"
 date:   2023-04-08
 tags: [语法错误,print,括号,错误,python]
 comments: true

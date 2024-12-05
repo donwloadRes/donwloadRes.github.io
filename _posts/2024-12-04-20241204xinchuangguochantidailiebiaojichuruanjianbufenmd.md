@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信创国产替代列表-基础软件部分"
+title: "信创国产替代列表基础软件部分"
 date:   2023-02-26
 tags: [国产,中间件,软件,替代,信创]
 comments: true

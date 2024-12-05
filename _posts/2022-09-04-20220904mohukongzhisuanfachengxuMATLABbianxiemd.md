@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模糊控制算法程序（MATLAB编写）"
+title: "模糊控制算法程序MATLAB编写"
 date:   2024-11-25
 tags: [度表,MATLAB,隶属,模糊控制,个数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview视觉VDM、VAS 2020"
+title: "Labview视觉VDMVAS 2020"
 date:   2022-03-12
 tags: [VAS,视觉,VDM,2020,Vision]
 comments: true

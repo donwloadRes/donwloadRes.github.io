@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Spark+Hadoop大数据基于用户画像的电影推荐系统"
+title: "PythonSparkHadoop大数据基于用户画像的电影推荐系统"
 date:   2021-06-13
 tags: [推荐,用户,电影,Spark,Hadoop]
 comments: true

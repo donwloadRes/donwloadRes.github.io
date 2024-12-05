@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 6.43 下载、安装与使用指南"
+title: "Internet Download Manager IDM 643 下载安装与使用指南"
 date:   2023-07-19
 tags: [下载,IDM,安装,链接,Internet]
 comments: true

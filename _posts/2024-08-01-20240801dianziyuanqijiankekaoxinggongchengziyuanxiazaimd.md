@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子元器件可靠性工程 - 资源下载"
+title: "电子元器件可靠性工程  资源下载"
 date:   2020-05-31
 tags: [可靠性,元器件,电子,工程,装备]
 comments: true

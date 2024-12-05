@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FIR滤波器的C#实现"
+title: "FIR滤波器的C实现"
 date:   2020-01-28
 tags: [C#,滤波器,FIR,Matlab,文件]
 comments: true

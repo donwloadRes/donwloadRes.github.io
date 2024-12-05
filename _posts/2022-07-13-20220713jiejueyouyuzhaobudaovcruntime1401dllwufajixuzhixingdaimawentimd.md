@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“由于找不到vcruntime140_1.dll,无法继续执行代码”问题"
+title: "解决由于找不到vcruntime1401dll无法继续执行代码问题"
 date:   2021-05-10
 tags: [vcruntime140,dll,应用程序,文件,继续执行]
 comments: true

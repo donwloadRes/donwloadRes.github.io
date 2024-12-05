@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows上spy++的安装和使用指南"
+title: "Windows上spy的安装和使用指南"
 date:   2023-08-31
 tags: [窗口,++,Spy,消息,查看]
 comments: true

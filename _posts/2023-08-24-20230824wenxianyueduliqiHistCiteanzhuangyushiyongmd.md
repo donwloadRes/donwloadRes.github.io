@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文献阅读利器--HistCite安装与使用"
+title: "文献阅读利器HistCite安装与使用"
 date:   2022-10-05
 tags: [HistCite,文献,用户,引文,引用]
 comments: true

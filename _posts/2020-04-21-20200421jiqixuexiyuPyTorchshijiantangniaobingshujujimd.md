@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习与PyTorch实践：糖尿病数据集"
+title: "机器学习与PyTorch实践糖尿病数据集"
 date:   2024-03-04
 tags: [PyTorch,学习,博文,实践,机器]
 comments: true

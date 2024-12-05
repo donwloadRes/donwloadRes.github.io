@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD7124_STM32_ADI官网例程"
+title: "AD7124STM32ADI官网例程"
 date:   2023-08-06
 tags: [连接,STM32,热电偶,测量,ADI]
 comments: true

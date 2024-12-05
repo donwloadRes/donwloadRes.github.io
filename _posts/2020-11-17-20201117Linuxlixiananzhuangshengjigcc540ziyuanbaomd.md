@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux离线安装升级gcc5.4.0资源包"
+title: "Linux离线安装升级gcc540资源包"
 date:   2022-03-09
 tags: [gcc,安装,离线,Linux,5.4]
 comments: true

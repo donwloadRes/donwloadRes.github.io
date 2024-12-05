@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编环境搭建指南（Windows 10 + Debug）"
+title: "汇编环境搭建指南Windows 10  Debug"
 date:   2022-11-03
 tags: [exe,Debug,汇编语言,Windows,10]
 comments: true

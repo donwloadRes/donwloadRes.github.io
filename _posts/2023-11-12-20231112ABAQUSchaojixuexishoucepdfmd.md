@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS超级学习手册.pdf"
+title: "ABAQUS超级学习手册pdf"
 date:   2020-05-25
 tags: [ABAQUS,有限元,手册,学习,工程]
 comments: true

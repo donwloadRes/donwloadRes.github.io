@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为-配置密码的复杂度"
+title: "华为配置密码的复杂度"
 date:   2021-02-05
 tags: [密码,华为,复杂度,配置,设备]
 comments: true

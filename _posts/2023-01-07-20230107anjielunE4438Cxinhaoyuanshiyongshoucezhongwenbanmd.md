@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安捷伦E4438C信号源使用手册（中文版）"
+title: "安捷伦E4438C信号源使用手册中文版"
 date:   2023-02-17
 tags: [E4438C,安捷伦,信号源,中文版,本手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL9210-VB-CG-DEMO-V203 资源文件下载"
+title: "RTL9210VBCGDEMOV203 资源文件下载"
 date:   2023-07-31
 tags: [RTL9210,VB,CG,DEMO,V203]
 comments: true

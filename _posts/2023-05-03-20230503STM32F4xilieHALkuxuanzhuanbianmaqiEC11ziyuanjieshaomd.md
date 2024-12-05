@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4系列HAL库旋转编码器（EC11）资源介绍"
+title: "STM32F4系列HAL库旋转编码器EC11资源介绍"
 date:   2023-07-17
 tags: [GPIO,EC11,旋转,HAL,编码器]
 comments: true

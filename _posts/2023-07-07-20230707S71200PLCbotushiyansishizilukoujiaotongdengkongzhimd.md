@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7 1200 PLC - 博途 - 实验四十字路口交通灯控制"
+title: "S7 1200 PLC  博途  实验四十字路口交通灯控制"
 date:   2022-10-11
 tags: [PLC,编程,实验,逻辑,控制]
 comments: true

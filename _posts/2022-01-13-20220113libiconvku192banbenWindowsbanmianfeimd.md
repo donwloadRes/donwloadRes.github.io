@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libiconv库1.9.2版本（Windows版） - 免费"
+title: "libiconv库192版本Windows版  免费"
 date:   2020-07-16
 tags: [libiconv,Windows,1.9,版本,文件]
 comments: true

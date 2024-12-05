@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android SDK Platform android-34 资源文件下载"
+title: "Android SDK Platform android34 资源文件下载"
 date:   2020-08-06
 tags: [Android,SDK,34,解压,文件]
 comments: true

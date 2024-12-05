@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWTK开发手册-AWTK开发实践指南-中文手册"
+title: "AWTK开发手册AWTK开发实践指南中文手册"
 date:   2023-10-16
 tags: [AWTK,手册,开发,GUI,支持]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR 安装与环境变量配置指南"
+title: "TesseractOCR 安装与环境变量配置指南"
 date:   2023-10-05
 tags: [OCR,Tesseract,安装,环境变量,配置]
 comments: true

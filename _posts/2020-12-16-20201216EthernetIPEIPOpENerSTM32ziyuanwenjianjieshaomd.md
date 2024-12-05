@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethernet-IP(EIP) OpENer STM32 资源文件介绍"
+title: "EthernetIPEIP OpENer STM32 资源文件介绍"
 date:   2023-06-10
 tags: [IP,Ethernet,OpENer,STM32,自动化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500PLC Modbus-RTU 通信详解"
+title: "S71500PLC ModbusRTU 通信详解"
 date:   2020-08-21
 tags: [RTU,Modbus,通信,S7,1500PLC]
 comments: true

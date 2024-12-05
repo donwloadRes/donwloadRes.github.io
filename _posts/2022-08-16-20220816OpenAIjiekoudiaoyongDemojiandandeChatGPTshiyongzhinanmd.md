@@ -1,6 +1,53 @@
 ---
 layout: post
-title: "OpenAI接口调用Demo: 简单的ChatGPT使用指南"
+title: "OpenAI接口调用Demo 简单的ChatGPT使用指南
+date   20200927
+tags OpenAIChatGPTAPIapiPython
+comments true
+author admin
+
+ OpenAI接口调用Demo 简单的ChatGPT使用指南
+
+欢迎来到OpenAI接口调用的实践教程本资源专注于展示如何简单有效地利用OpenAI的API特别是通过其著名的对话模型ChatGPT进行交互ChatGPT以其强大的自然语言处理能力闻名能够进行复杂且近乎人类的对话是开发者和研究者探索人工智能应用的宝贵工具
+
+ 目录
+
+1 简介
+2 前置条件
+3 获取API密钥
+4 编写代码示例
+5 运行示例
+6 注意事项
+7 后续学习
+
+ 1 简介
+
+这个Demo旨在帮助你快速上手了解如何通过编程方式与ChatGPT进行沟通无论是进行产品开发研究分析还是日常娱乐这份指南都将引导你完成从设置环境到成功发送请求并接收回复的全过程
+
+ 2 前置条件
+
+ 你需要具备基础的Python编程知识
+ 安装Python环境推荐版本36及以上
+ 熟悉如何在Python中使用requests库或者准备安装它
+
+ 3 获取API密钥
+
+访问OpenAI官网注册账号并申请API访问权限得到你的专属API密钥这一步非常关键确保保管好密钥不对外泄露
+
+ 4 编写代码示例
+
+下面是一个简单的Python脚本示例展示了如何发送请求给ChatGPT并打印出它的响应
+
+python
+import requests
+
+def chatwithgptmessage
+    apikey  yourapikey   替换为你的实际API密钥
+    url  httpsapiopenaicomv1enginesdavincicodexcompletions
+    
+    headers  
+        ContentType applicationjson
+        Authorization fBearer apikey"
 date:   2020-09-27
 tags: [OpenAI,ChatGPT,API,api,Python]
 comments: true

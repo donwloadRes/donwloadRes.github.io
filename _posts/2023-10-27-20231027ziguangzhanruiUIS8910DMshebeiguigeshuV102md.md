@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "紫光展锐 UIS8910DM 设备规格书 V1.0.2"
+title: "紫光展锐 UIS8910DM 设备规格书 V102"
 date:   2021-11-28
 tags: [规格书,UIS8910DM,展锐,紫光,芯片]
 comments: true

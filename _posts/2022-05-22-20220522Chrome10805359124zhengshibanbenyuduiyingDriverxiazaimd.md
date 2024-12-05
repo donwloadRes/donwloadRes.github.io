@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome 108.0.5359.124（正式版本）与对应Driver下载"
+title: "Chrome 10805359124正式版本与对应Driver下载"
 date:   2021-05-18
 tags: [Chrome,ChromeDriver,下载,5359.124,Ubuntu]
 comments: true

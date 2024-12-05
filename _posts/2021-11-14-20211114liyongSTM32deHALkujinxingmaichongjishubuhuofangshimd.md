@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用STM32的HAL库进行脉冲计数（捕获方式）"
+title: "利用STM32的HAL库进行脉冲计数捕获方式"
 date:   2021-02-03
 tags: [上位,STM32,TFTLCD,计数,脉冲]
 comments: true

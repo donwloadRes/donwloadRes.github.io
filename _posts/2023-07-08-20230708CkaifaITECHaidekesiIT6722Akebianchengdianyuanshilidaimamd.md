@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 开发 ITECH 艾德克斯 IT6722A 可编程电源示例代码"
+title: "C 开发 ITECH 艾德克斯 IT6722A 可编程电源示例代码"
 date:   2022-12-26
 tags: [寄存器,示例,查询,STAtus,控制]
 comments: true

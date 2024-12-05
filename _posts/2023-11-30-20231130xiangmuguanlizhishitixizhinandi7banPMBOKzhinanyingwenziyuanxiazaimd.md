@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目管理知识体系指南（第7版）（PMBOK指南）英文资源下载"
+title: "项目管理知识体系指南第7版PMBOK指南英文资源下载"
 date:   2021-11-30
 tags: [项目管理,指南,PMBOK,资源,英文]
 comments: true

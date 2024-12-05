@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fritzing 0.9.8 Win64 版本分享"
+title: "Fritzing 098 Win64 版本分享"
 date:   2022-09-22
 tags: [Fritzing,电子设计,电子产品,爱好者,文件]
 comments: true

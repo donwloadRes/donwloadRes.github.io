@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#小波变换算法资源下载"
+title: "C小波变换算法资源下载"
 date:   2023-09-27
 tags: [算法,变换,小波,C#,资源]
 comments: true

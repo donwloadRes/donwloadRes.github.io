@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M3与Cortex-M4权威指南"
+title: "ARM CortexM3与CortexM4权威指南"
 date:   2022-05-11
 tags: [Cortex,ARM,M4,M3,DSP]
 comments: true

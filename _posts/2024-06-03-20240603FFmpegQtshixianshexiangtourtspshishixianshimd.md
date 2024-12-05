@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg+Qt实现摄像头(rtsp)实时显示"
+title: "FFmpegQt实现摄像头rtsp实时显示"
 date:   2022-01-27
 tags: [Qt,实时,摄像头,FFmpeg,ffmpeg]
 comments: true

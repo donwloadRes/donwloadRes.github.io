@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP MM用户操作手册-第三套"
+title: "SAP MM用户操作手册第三套"
 date:   2024-08-16
 tags: [doc,SAP,流程,文档,MM]
 comments: true

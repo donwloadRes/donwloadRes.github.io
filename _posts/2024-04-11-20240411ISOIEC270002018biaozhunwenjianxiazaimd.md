@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27000 2018 标准文件下载"
+title: "ISOIEC 27000 2018 标准文件下载"
 date:   2023-06-06
 tags: [2018,信息安全,ISO,IEC,27000]
 comments: true

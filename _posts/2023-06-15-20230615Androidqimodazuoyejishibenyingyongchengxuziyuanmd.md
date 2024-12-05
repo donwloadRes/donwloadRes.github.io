@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android期末大作业：记事本应用程序（资源）"
+title: "Android期末大作业记事本应用程序资源"
 date:   2024-02-03
 tags: [笔记,Android,Studio,导入,仿真器]
 comments: true

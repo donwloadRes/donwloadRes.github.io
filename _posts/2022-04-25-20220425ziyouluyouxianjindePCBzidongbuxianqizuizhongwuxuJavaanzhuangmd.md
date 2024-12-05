@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自由路由：先进的PCB自动布线器（最终，无需Java安装）"
+title: "自由路由先进的PCB自动布线器最终无需Java安装"
 date:   2021-01-04
 tags: [路由,PCB,布线,自由,Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BES开发环境搭建-Windows平台"
+title: "BES开发环境搭建Windows平台"
 date:   2020-09-05
 tags: [BES,Windows,开发,环境,文件]
 comments: true

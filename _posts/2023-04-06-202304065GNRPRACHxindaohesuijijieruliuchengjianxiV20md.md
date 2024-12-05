@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G NR PRACH信道和随机接入流程简析V2.0"
+title: "5G NR PRACH信道和随机接入流程简析V20"
 date:   2024-01-01
 tags: [NR,PRACH,信道,5G,接入]
 comments: true

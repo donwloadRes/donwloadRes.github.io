@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F30x 固件库用户指南 V1.0 下载仓库"
+title: "GD32F30x 固件库用户指南 V10 下载仓库"
 date:   2020-03-25
 tags: [GD32F30x,固件,V1.0,指南,下载]
 comments: true

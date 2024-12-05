@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SC035HGS 数据手册 V0.8 下载仓库"
+title: "SC035HGS 数据手册 V08 下载仓库"
 date:   2024-05-20
 tags: [SC035HGS,手册,V0.8,下载,数据]
 comments: true

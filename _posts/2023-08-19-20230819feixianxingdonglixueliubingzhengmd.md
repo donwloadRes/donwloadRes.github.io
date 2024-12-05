@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性动力学--刘秉正"
+title: "非线性动力学刘秉正"
 date:   2022-01-07
 tags: [非线性,秉正,动力学,--,理论]
 comments: true

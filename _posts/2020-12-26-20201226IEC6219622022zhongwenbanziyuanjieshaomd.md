@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 62196-2 2022中文版资源介绍"
+title: "IEC 621962 2022中文版资源介绍"
 date:   2023-01-29
 tags: [IEC,62196,2022,中文版,资源]
 comments: true

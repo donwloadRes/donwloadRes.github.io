@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小猫爪：PMSM之FOC控制04-电流环资源下载"
+title: "小猫爪PMSM之FOC控制04电流环资源下载"
 date:   2023-12-29
 tags: [FOC,PMSM,电流,Control,环控制]
 comments: true

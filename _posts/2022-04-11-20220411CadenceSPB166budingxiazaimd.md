@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence SPB 16.6 补丁下载"
+title: "Cadence SPB 166 补丁下载"
 date:   2020-05-13
 tags: [补丁,Cadence,SPB,16.6,安装]
 comments: true

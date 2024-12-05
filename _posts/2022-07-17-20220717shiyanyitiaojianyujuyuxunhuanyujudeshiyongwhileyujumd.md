@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验一：条件语句与循环语句的使用 - while语句"
+title: "实验一条件语句与循环语句的使用  while语句"
 date:   2021-12-31
 tags: [语句,循环,while,奇数,10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6.8实验报告1 资源下载"
+title: "68实验报告1 资源下载"
 date:   2021-04-20
 tags: [6.8,资源,文件,实验报告,下载]
 comments: true

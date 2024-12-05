@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPS五级流水线CPU+Cache设计资源下载"
+title: "MIPS五级流水线CPUCache设计资源下载"
 date:   2021-09-28
 tags: [CPU,测试程序,Verilog,文档,Cache]
 comments: true

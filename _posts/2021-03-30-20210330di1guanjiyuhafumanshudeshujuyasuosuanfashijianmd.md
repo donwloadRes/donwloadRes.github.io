@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第1关：基于哈夫曼树的数据压缩算法实践"
+title: "第1关基于哈夫曼树的数据压缩算法实践"
 date:   2022-06-01
 tags: [哈夫曼,编码,字符串,输入,字符]
 comments: true

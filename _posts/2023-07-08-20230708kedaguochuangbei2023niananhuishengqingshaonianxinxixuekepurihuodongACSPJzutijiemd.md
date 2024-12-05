@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“科大国创杯”2023 年安徽省青少年信息学科普日活动 ACSP-J 组题解"
+title: "科大国创杯2023 年安徽省青少年信息学科普日活动 ACSPJ 组题解"
 date:   2024-01-13
 tags: [题目,代码,信息学,题解,创杯]
 comments: true

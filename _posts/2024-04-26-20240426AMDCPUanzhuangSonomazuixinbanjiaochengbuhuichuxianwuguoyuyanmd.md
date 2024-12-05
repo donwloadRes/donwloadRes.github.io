@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMD CPU安装Sonoma最新版教程(不会出现五国语言)"
+title: "AMD CPU安装Sonoma最新版教程不会出现五国语言"
 date:   2021-05-16
 tags: [安装,macOS,AMD,Sonoma,VMware]
 comments: true

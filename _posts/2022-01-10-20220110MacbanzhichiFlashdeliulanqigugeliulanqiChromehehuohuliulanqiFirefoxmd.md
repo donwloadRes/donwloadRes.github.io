@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac版支持Flash的浏览器：谷歌浏览器Chrome和火狐浏览器Firefox"
+title: "Mac版支持Flash的浏览器谷歌浏览器Chrome和火狐浏览器Firefox"
 date:   2020-07-26
 tags: [浏览器,Flash,火狐,Mac,Chrome]
 comments: true

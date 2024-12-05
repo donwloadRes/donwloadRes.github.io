@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cnPuTTY 0.81.0.1 中文版本介绍"
+title: "cnPuTTY 08101 中文版本介绍"
 date:   2022-09-19
 tags: [0.81,中文,cnPuTTY,0.1,SSH]
 comments: true

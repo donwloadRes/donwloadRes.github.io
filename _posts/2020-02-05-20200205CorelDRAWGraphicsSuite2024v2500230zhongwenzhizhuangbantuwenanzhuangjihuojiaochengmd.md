@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2024 v25.0.0.230 中文直装版图文安装激活教程"
+title: "CorelDRAW Graphics Suite 2024 v2500230 中文直装版图文安装激活教程"
 date:   2023-09-10
 tags: [激活,CorelDRAW,Graphics,0.230,Suite]
 comments: true

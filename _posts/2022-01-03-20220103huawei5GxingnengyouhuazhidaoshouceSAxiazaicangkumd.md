@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为5G性能优化指导手册-SA 下载仓库"
+title: "华为5G性能优化指导手册SA 下载仓库"
 date:   2022-12-04
 tags: [5G,SA,性能,手册,华为]
 comments: true

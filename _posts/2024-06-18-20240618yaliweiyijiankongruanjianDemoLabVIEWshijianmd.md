@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "压力位移监控软件 Demo - LabVIEW 实践"
+title: "压力位移监控软件 Demo  LabVIEW 实践"
 date:   2022-12-22
 tags: [LabVIEW,位移,Demo,2018,PLC]
 comments: true

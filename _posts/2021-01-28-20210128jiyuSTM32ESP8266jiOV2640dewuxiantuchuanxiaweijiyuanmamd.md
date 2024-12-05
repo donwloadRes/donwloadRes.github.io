@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32、ESP8266及OV2640的无线图传下位机源码"
+title: "基于STM32ESP8266及OV2640的无线图传下位机源码"
 date:   2024-03-06
 tags: [图像,STM32,ESP8266,OV2640,无线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你学DSP：顾卫钢 全本458页"
+title: "手把手教你学DSP顾卫钢 全本458页"
 date:   2023-06-25
 tags: [DSP,本书,顾卫钢,458,手把手]
 comments: true

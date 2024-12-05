@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 数字软键盘"
+title: "C WinForm 数字软键盘"
 date:   2023-04-03
 tags: [软键盘,数字,C#,WinForm,输入]
 comments: true

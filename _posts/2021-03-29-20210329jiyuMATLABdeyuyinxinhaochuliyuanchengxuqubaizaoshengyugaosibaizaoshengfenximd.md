@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的语音信号处理源程序：去白噪声与高斯白噪声分析"
+title: "基于MATLAB的语音信号处理源程序去白噪声与高斯白噪声分析"
 date:   2022-09-11
 tags: [MATLAB,噪声,信号处理,语音,高斯]
 comments: true

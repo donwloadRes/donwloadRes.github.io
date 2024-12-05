@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IHO S-52电子海图显示与内容规范"
+title: "IHO S52电子海图显示与内容规范"
 date:   2021-03-04
 tags: [52,ECDIS,海图,规范,海道]
 comments: true

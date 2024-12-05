@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profibus协议手册(中文版)下载仓库"
+title: "Profibus协议手册中文版下载仓库"
 date:   2020-07-01
 tags: [Profibus,手册,中文版,下载,协议]
 comments: true

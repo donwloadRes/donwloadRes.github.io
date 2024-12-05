@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "注意力机制》教程资源下载"
+title: "注意力机制教程资源下载"
 date:   2020-06-19
 tags: [注意力,机制,教程,神经网络,应用]
 comments: true

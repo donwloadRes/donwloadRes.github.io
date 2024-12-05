@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .NET Core 3.1 强大高效的通用后台管理系统"
+title: "C NET Core 31 强大高效的通用后台管理系统"
 date:   2021-08-01
 tags: [开发,开发者,框架,后台,管理系统]
 comments: true

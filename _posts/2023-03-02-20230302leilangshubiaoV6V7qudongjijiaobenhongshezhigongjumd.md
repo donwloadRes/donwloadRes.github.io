@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷狼鼠标V6-V7驱动及脚本宏设置工具"
+title: "雷狼鼠标V6V7驱动及脚本宏设置工具"
 date:   2022-08-14
 tags: [鼠标,驱动,雷狼,驱动程序,V6]
 comments: true

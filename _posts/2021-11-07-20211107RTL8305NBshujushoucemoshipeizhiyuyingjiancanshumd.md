@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8305NB 数据手册 - 模式配置与硬件参数"
+title: "RTL8305NB 数据手册  模式配置与硬件参数"
 date:   2021-12-15
 tags: [RTL8305NB,手册,硬件,芯片,配置]
 comments: true

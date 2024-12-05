@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JunSkill-V1.1 资源文件下载"
+title: "JunSkillV11 资源文件下载"
 date:   2020-04-14
 tags: [文件,JunSkill,V1.1,光绘,设置]
 comments: true

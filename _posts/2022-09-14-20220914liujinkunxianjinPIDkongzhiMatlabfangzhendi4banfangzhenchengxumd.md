@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刘金琨-先进PID控制Matlab仿真第4版-仿真程序"
+title: "刘金琨先进PID控制Matlab仿真第4版仿真程序"
 date:   2022-04-14
 tags: [仿真,MATLAB,程序,PID,刘金琨]
 comments: true

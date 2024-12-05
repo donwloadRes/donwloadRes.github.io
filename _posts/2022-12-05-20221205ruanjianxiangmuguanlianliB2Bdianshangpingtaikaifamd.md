@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件项目管理案例 - B2B电商平台开发"
+title: "软件项目管理案例  B2B电商平台开发"
 date:   2022-07-08
 tags: [团队,项目管理,Sprint,案例,阶段]
 comments: true

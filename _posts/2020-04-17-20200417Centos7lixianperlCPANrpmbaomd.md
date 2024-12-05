@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7 离线perl-CPAN rpm包"
+title: "Centos7 离线perlCPAN rpm包"
 date:   2023-11-25
 tags: [rpm,CPAN,perl,离线,安装]
 comments: true

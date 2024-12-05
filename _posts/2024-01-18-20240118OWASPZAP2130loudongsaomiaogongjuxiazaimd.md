@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OWASP ZAP 2.13.0 漏洞扫描工具下载"
+title: "OWASP ZAP 2130 漏洞扫描工具下载"
 date:   2021-08-06
 tags: [ZAP,扫描,漏洞,测试,OWASP]
 comments: true

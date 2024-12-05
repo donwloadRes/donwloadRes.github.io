@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT698.45电能表管理软件(V1.1.0.67)发布201907"
+title: "DLT69845电能表管理软件V11067发布201907"
 date:   2020-06-08
 tags: [电能表,DLT698.45,软件,管理软件,V1.1]
 comments: true

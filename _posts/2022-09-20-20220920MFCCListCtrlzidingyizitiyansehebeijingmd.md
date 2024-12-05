@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC CListCtrl 自定义字体、颜色和背景"
+title: "MFC CListCtrl 自定义字体颜色和背景"
 date:   2021-06-06
 tags: [自定义,CListCtrl,字体,MFC,控件]
 comments: true

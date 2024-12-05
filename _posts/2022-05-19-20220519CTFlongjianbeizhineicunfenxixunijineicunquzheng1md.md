@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF-陇剑杯之内存分析-虚拟机内存取证1"
+title: "CTF陇剑杯之内存分析虚拟机内存取证1"
 date:   2021-09-06
 tags: [内存,安装,Volatility,CTF,虚拟机]
 comments: true

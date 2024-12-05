@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "荔枝派Nano新手学习踩坑记录——到手使用"
+title: "荔枝派Nano新手学习踩坑记录到手使用"
 date:   2022-05-02
 tags: [开发板,Nano,TF,烧录,荔枝]
 comments: true

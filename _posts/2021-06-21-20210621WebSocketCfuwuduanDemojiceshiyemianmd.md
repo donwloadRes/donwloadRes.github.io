@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebSocket C# 服务端 Demo 及测试页面"
+title: "WebSocket C 服务端 Demo 及测试页面"
 date:   2024-01-03
 tags: [WebSocket,服务端,页面,测试,C#]
 comments: true

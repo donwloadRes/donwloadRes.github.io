@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学 C++程序设计 noj习题答案"
+title: "西北工业大学 C程序设计 noj习题答案"
 date:   2022-09-22
 tags: [习题,C++,西北工业大学,答案,程序设计]
 comments: true

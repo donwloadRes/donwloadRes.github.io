@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS 有限元分析与应用 - 庄茁 资源下载"
+title: "ABAQUS 有限元分析与应用  庄茁 资源下载"
 date:   2024-11-11
 tags: [ABAQUS,文档,算例,有限元,应用]
 comments: true

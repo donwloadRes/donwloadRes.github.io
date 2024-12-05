@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++笔试题附带答案"
+title: "C笔试题附带答案"
 date:   2024-11-04
 tags: [C++,对象,构造函数,成员,拷贝]
 comments: true

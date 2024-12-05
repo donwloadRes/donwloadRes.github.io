@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021 CSP-J 初赛试题及答案获取"
+title: "2021 CSPJ 初赛试题及答案获取"
 date:   2024-03-30
 tags: [初赛,CSP,试题,2021,考生]
 comments: true

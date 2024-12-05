@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-HarmonyOS Application Developer2.0 最新考题资源介绍"
+title: "HCIAHarmonyOS Application Developer20 最新考题资源介绍"
 date:   2024-11-23
 tags: [考试,HCIA,HarmonyOS,Application,Developer2.0]
 comments: true

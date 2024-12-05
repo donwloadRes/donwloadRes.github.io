@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PDF iTextSharp教程（中文）+代码实例"
+title: "C PDF iTextSharp教程中文代码实例"
 date:   2020-10-03
 tags: [iTextSharp,PDF,教程,开发者,示例]
 comments: true

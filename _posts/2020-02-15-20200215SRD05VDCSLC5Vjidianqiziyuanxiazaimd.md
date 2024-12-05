@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SRD-05VDC-SL-C 5V继电器资源下载"
+title: "SRD05VDCSLC 5V继电器资源下载"
 date:   2021-07-22
 tags: [SRD,05VDC,SL,继电器,PCB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杜洋C#完整课程资料下载"
+title: "杜洋C完整课程资料下载"
 date:   2024-04-28
 tags: [课程,资料,杜洋,C#,下载]
 comments: true

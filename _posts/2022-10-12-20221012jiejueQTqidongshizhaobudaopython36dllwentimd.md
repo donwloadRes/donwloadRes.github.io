@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决QT启动时“找不到python36.dll”问题"
+title: "解决QT启动时找不到python36dll问题"
 date:   2023-12-06
 tags: [QT,python36,dll,应用程序,文件]
 comments: true

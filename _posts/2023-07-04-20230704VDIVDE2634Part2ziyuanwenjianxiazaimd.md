@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDI-VDE 2634 Part 2 资源文件下载"
+title: "VDIVDE 2634 Part 2 资源文件下载"
 date:   2021-01-13
 tags: [VDI,VDE,2634,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LED封装库（包含3D）"
+title: "LED封装库包含3D"
 date:   2020-04-25
 tags: [LED,封装,3D,Altium,Designer]
 comments: true

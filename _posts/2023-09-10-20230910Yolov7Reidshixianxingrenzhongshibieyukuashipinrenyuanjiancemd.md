@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolov7 Reid —— 实现行人重识别与跨视频人员检测"
+title: "Yolov7 Reid  实现行人重识别与跨视频人员检测"
 date:   2022-03-16
 tags: [行人,识别,检测,YOLOv7,模型]
 comments: true

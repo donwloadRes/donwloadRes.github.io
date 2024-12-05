@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人建模和控制》习题答案"
+title: "机器人建模和控制习题答案"
 date:   2023-10-14
 tags: [习题,建模,答案,机器人,控制]
 comments: true

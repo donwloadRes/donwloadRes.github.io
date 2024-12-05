@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享80个Html经典模板，总有一款适合您"
+title: "分享80个Html经典模板总有一款适合您"
 date:   2024-10-24
 tags: [模板,网页,80,Html,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UA-DETRAC数据集转YOLO格式"
+title: "UADETRAC数据集转YOLO格式"
 date:   2023-07-27
 tags: [格式,YOLO,标注,XML,文件]
 comments: true

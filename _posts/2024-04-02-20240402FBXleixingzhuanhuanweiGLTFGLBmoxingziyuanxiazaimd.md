@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FBX类型转换为GLTF-GLB模型资源下载"
+title: "FBX类型转换为GLTFGLB模型资源下载"
 date:   2024-09-03
 tags: [FBX,文件,模型,GLTF,GLB]
 comments: true

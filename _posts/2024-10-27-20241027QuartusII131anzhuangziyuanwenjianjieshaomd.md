@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 安装资源文件介绍"
+title: "Quartus II 131 安装资源文件介绍"
 date:   2023-01-19
 tags: [安装,Quartus,II,13.1,文件]
 comments: true

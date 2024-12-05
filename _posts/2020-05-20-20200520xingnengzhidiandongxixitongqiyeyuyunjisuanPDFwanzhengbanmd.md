@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "性能之巅：洞悉系统、企业与云计算PDF（完整版）"
+title: "性能之巅洞悉系统企业与云计算PDF完整版"
 date:   2020-12-24
 tags: [性能,PDF,优化,完整版,之巅]
 comments: true

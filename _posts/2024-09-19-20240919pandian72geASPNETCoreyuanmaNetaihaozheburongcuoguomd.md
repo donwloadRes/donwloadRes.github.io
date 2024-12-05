@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "盘点72个ASP.NET Core源码：Net爱好者不容错过"
+title: "盘点72个ASPNET Core源码Net爱好者不容错过"
 date:   2024-04-30
 tags: [源码,ASP,NET,Core,项目]
 comments: true

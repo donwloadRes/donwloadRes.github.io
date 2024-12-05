@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF杂项工具：SNOW隐写加解密"
+title: "CTF杂项工具SNOW隐写加解密"
 date:   2020-11-11
 tags: [snow,exe,SNOW,CTF,隐写]
 comments: true

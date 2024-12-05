@@ -1,6 +1,61 @@
 ---
 layout: post
-title: "AES-CMAC C语言实现编程"
+title: "AESCMAC C语言实现编程
+date   20220121
+tags AESaescmacCMAC16
+comments true
+author admin
+
+ AESCMAC C语言实现编程
+
+ 简介
+
+本仓库提供了一个AESCMAC基于AES的密码消息认证码的C语言实现该实现经过亲测确保其可靠性和实用性AESCMAC是一种广泛使用的消息认证码算法适用于需要数据完整性和认证的场景
+
+ 功能特点
+
+ 高效性采用C语言编写确保了算法的执行效率
+ 易用性提供了简洁的API接口方便开发者集成到项目中
+ 可靠性经过实际测试确保算法的正确性和稳定性
+
+ 使用方法
+
+1 克隆仓库
+   sh
+   git clone httpsgithubcomyourrepourlaescmaccgit
+   
+
+2 编译代码
+   sh
+   cd aescmacc
+   make
+   
+
+3 运行示例
+   sh
+   aescmacexample
+   
+
+4 集成到项目
+    将源文件 aescmacc 和头文件 aescmach 添加到你的项目中
+    根据需要调用提供的API函数
+
+ API文档
+
+ void aescmacconst uint8t key const uint8t input sizet length uint8t mac
+
+ 参数
+   keyAES密钥长度必须为16字节
+   input输入数据
+   length输入数据的长度
+   mac输出MAC值长度为16字节
+
+ 返回值无
+
+ 示例代码
+
+c
+include aescmach"
 date:   2022-01-21
 tags: [AES,aes,cmac,CMAC,16]
 comments: true

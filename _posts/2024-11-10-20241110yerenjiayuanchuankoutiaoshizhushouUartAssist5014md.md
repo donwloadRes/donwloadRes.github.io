@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野人家园串口调试助手UartAssist 5.0.14"
+title: "野人家园串口调试助手UartAssist 5014"
 date:   2023-12-02
 tags: [串口,助手,调试,发送,支持]
 comments: true

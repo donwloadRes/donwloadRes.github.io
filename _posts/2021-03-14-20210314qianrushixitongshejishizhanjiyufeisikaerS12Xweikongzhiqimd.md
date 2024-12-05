@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统设计实战：基于飞思卡尔S12X微控制器"
+title: "嵌入式系统设计实战基于飞思卡尔S12X微控制器"
 date:   2021-05-28
 tags: [嵌入式,编程,S12X,系统,实例]
 comments: true

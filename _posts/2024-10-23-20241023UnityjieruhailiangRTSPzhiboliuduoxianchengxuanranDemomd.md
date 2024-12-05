@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity接入海量RTSP直播流，多线程渲染Demo"
+title: "Unity接入海量RTSP直播流多线程渲染Demo"
 date:   2022-07-08
 tags: [RTSP,Unity,Demo,多线程,直播]
 comments: true

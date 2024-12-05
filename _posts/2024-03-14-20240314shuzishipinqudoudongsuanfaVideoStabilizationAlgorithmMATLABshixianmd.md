@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字视频去抖动算法（Video Stabilization Algorithm）MATLAB实现"
+title: "数字视频去抖动算法Video Stabilization AlgorithmMATLAB实现"
 date:   2021-07-11
 tags: [抖动,算法,视频,数字视频,MATLAB]
 comments: true

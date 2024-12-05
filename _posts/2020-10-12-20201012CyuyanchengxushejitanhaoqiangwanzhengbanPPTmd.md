@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计（谭浩强）完整版PPT"
+title: "C语言程序设计谭浩强完整版PPT"
 date:   2024-07-02
 tags: [C语言,PPT,程序设计,完整版,初学者]
 comments: true

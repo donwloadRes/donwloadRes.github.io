@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H7串口+DMA双缓存配置文件"
+title: "STM32H7串口DMA双缓存配置文件"
 date:   2022-11-10
 tags: [DMA,缓存,串口,配置文件,数据传输]
 comments: true

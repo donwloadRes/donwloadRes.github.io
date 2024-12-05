@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音降噪算法 - 噪音消除"
+title: "语音降噪算法  噪音消除"
 date:   2022-11-22
 tags: [降噪,语音,算法,噪音,音频]
 comments: true

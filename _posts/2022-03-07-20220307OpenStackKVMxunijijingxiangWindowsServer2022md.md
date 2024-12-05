@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenStack KVM虚拟机镜像 - Windows Server 2022"
+title: "OpenStack KVM虚拟机镜像  Windows Server 2022"
 date:   2022-08-04
 tags: [镜像,虚拟机,OpenStack,2022,iso]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漫画+图解 7天搞定微积分 书籍PDF"
+title: "漫画图解 7天搞定微积分 书籍PDF"
 date:   2022-02-02
 tags: [微积分,漫画,图解,学习,搞定]
 comments: true

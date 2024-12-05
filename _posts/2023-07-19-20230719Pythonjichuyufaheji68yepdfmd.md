@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基础语法合集68页.pdf"
+title: "Python基础语法合集68页pdf"
 date:   2023-10-20
 tags: [Python,语法,编程,运算符,基础]
 comments: true

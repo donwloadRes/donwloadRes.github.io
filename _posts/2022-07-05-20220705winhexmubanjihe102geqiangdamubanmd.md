@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "winhex模板集合 (102个强大模板)"
+title: "winhex模板集合 102个强大模板"
 date:   2020-02-12
 tags: [模板,文件系统,102,WinHex,数据恢复]
 comments: true

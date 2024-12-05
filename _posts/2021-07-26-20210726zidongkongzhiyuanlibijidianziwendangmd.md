@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理笔记（电子文档）"
+title: "自动控制原理笔记电子文档"
 date:   2024-11-14
 tags: [自动控制,笔记,文档,线性系统,原理]
 comments: true

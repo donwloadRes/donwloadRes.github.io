@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL2303TA USB转串口RS232，不支持Win11解决办法"
+title: "PL2303TA USB转串口RS232不支持Win11解决办法"
 date:   2020-01-02
 tags: [PL2303TA,驱动程序,安装,Windows,11]
 comments: true

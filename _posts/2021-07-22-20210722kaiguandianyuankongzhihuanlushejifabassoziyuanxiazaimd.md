@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源控制环路设计-法-basso 资源下载"
+title: "开关电源控制环路设计法basso 资源下载"
 date:   2023-08-26
 tags: [开关电源,环路,设计,basso,控制]
 comments: true

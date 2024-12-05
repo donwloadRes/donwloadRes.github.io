@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高斯消元法与因式分解：A = LU"
+title: "高斯消元法与因式分解A  LU"
 date:   2023-12-06
 tags: [矩阵,高斯消,元法,因式分解,三角]
 comments: true

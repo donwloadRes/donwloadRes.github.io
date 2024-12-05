@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自抗扰控制技术-韩京清-高清"
+title: "自抗扰控制技术韩京清高清"
 date:   2022-03-09
 tags: [自抗扰,控制,控制技术,高清,韩京清]
 comments: true

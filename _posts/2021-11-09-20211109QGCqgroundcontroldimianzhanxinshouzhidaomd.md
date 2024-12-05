@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGC(qgroundcontrol)地面站新手指导"
+title: "QGCqgroundcontrol地面站新手指导"
 date:   2024-02-25
 tags: [QGC,地面站,指导,飞控,新手]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FastAdmin的在线商城免费源代码 - Shopro 1.3.8"
+title: "基于FastAdmin的在线商城免费源代码  Shopro 138"
 date:   2020-04-17
 tags: [FastAdmin,Shopro,安装,源代码,插件]
 comments: true

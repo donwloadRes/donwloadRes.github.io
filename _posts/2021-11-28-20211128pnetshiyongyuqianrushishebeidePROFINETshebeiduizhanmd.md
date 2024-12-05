@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "p-net: 适用于嵌入式设备的PROFINET设备堆栈"
+title: "pnet 适用于嵌入式设备的PROFINET设备堆栈"
 date:   2021-12-18
 tags: [net,PROFINET,嵌入式,堆栈,设备]
 comments: true

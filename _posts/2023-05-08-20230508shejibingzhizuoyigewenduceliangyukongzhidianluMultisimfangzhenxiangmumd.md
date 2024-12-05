@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计并制作一个温度测量与控制电路 - Multisim仿真项目"
+title: "设计并制作一个温度测量与控制电路  Multisim仿真项目"
 date:   2021-05-09
 tags: [温度,设计,Multisim,报警,测量]
 comments: true

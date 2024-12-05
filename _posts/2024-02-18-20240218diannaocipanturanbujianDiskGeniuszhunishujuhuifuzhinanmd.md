@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑磁盘突然不见？DiskGenius助你数据恢复指南"
+title: "电脑磁盘突然不见DiskGenius助你数据恢复指南"
 date:   2020-12-16
 tags: [DiskGenius,丢失,数据恢复,分区,恢复]
 comments: true

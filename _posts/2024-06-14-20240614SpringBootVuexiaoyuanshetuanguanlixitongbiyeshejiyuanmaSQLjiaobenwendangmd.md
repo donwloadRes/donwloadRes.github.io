@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue校园社团管理系统 毕业设计 源码+SQL脚本+文档"
+title: "SpringBootVue校园社团管理系统 毕业设计 源码SQL脚本文档"
 date:   2021-06-27
 tags: [社团,数据库,MySQL,club,毕业设计]
 comments: true

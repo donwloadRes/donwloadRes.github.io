@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决pip-script.py文件不存在的问题"
+title: "解决pipscriptpy文件不存在的问题"
 date:   2023-11-22
 tags: [pip,script,py,文件,命令]
 comments: true

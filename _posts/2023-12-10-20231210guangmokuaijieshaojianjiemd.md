@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光模块介绍_简介"
+title: "光模块介绍简介"
 date:   2020-01-18
 tags: [模块,基本知识,文件,介绍,通信]
 comments: true

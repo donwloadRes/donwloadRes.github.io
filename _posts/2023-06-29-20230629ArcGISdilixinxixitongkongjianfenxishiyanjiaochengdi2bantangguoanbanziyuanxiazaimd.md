@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS地理信息系统空间分析实验教程 第2版(汤国安版) 资源下载"
+title: "ArcGIS地理信息系统空间分析实验教程 第2版汤国安版 资源下载"
 date:   2024-05-05
 tags: [ArcGIS,教程,实验,PDF,下载]
 comments: true

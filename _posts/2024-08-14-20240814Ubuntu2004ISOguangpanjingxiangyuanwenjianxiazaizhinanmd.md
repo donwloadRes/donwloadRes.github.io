@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 ISO 光盘镜像源文件下载指南"
+title: "Ubuntu 2004 ISO 光盘镜像源文件下载指南"
 date:   2021-07-28
 tags: [Ubuntu,20.04,ISO,安装,光盘]
 comments: true

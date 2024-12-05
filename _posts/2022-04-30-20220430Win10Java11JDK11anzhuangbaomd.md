@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 Java 11 (JDK 11) 安装包"
+title: "Win10 Java 11 JDK 11 安装包"
 date:   2024-01-13
 tags: [Java,11,JDK,安装包,Windows]
 comments: true

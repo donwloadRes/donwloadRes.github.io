@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARINC664协议中文版（第七部分）下载仓库"
+title: "ARINC664协议中文版第七部分下载仓库"
 date:   2020-03-31
 tags: [ARINC664,协议,ES,下载,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.3.0 龙芯平台编译版本"
+title: "Nacos 230 龙芯平台编译版本"
 date:   2021-09-15
 tags: [龙芯,2.3,Nacos,CPU,tar]
 comments: true

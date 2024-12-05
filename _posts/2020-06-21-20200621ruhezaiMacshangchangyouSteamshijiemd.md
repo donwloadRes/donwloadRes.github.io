@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在Mac上畅游Steam世界？"
+title: "如何在Mac上畅游Steam世界"
 date:   2023-02-18
 tags: [Mac,Steam,游戏,Windows,AI]
 comments: true

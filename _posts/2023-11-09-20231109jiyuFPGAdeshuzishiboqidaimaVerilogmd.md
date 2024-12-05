@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的数字示波器代码（Verilog）"
+title: "基于FPGA的数字示波器代码Verilog"
 date:   2021-01-31
 tags: [FPGA,VGA,波形,开发板,Verilog]
 comments: true

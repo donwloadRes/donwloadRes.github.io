@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新CHI协议，总线协议资源下载"
+title: "最新CHI协议总线协议资源下载"
 date:   2023-07-05
 tags: [CHI,总线,协议,资源,下载]
 comments: true

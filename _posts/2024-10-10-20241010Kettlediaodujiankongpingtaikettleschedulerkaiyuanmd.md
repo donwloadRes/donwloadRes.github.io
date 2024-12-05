@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle调度监控平台（kettle-scheduler）开源"
+title: "Kettle调度监控平台kettlescheduler开源"
 date:   2021-12-26
 tags: [Kettle,监控,kettle,QQ,scheduler]
 comments: true

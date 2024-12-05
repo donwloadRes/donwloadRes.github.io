@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 窗体程序：超级简单哄女朋友开心的小程序（送花）"
+title: "C WinForm 窗体程序超级简单哄女朋友开心的小程序送花"
 date:   2021-12-12
 tags: [程序,女朋友,按钮,窗体,送花]
 comments: true

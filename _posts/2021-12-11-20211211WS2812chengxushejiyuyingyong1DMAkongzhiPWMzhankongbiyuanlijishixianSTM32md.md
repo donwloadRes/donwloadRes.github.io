@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS2812 程序设计与应用（1）：DMA 控制 PWM 占空比原理及实现（STM32）"
+title: "WS2812 程序设计与应用1DMA 控制 PWM 占空比原理及实现STM32"
 date:   2020-03-05
 tags: [WS2812,DMA,PWM,STM32,占空比]
 comments: true

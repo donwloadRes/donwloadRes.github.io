@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据可视化项目：全球GDP分析"
+title: "数据可视化项目全球GDP分析"
 date:   2024-10-05
 tags: [可视化,文档,Jupyter,项目,答辩]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++课程设计：航空客运订票系统工程文件"
+title: "C课程设计航空客运订票系统工程文件"
 date:   2020-03-21
 tags: [乘客,管理员,购票,用户,系统]
 comments: true

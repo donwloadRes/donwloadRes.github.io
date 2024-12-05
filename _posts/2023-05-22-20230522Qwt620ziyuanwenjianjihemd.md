@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qwt 6.2.0 资源文件集合"
+title: "Qwt 620 资源文件集合"
 date:   2024-08-16
 tags: [Qwt,6.2,文件,安装包,文档]
 comments: true

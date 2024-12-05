@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "春考-C语言基础知识全套课件"
+title: "春考C语言基础知识全套课件"
 date:   2022-12-16
 tags: [C语言,课件,基础知识,春考,教学]
 comments: true

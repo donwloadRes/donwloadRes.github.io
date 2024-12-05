@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe体系结构标准教材(上)——Mindshare INC 下载仓库"
+title: "PCIe体系结构标准教材上Mindshare INC 下载仓库"
 date:   2022-09-29
 tags: [PCIe,体系结构,教材,Mindshare,INC]
 comments: true

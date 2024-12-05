@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT控制上位机: 实现高效电机控制与状态监控"
+title: "QT控制上位机 实现高效电机控制与状态监控"
 date:   2021-05-21
 tags: [电机,控制,QT,上位,状态]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机 VMware 17.5.2 下载及安装指南"
+title: "虚拟机 VMware 1752 下载及安装指南"
 date:   2022-12-15
 tags: [安装,VMware,下载,虚拟机,17.5]
 comments: true

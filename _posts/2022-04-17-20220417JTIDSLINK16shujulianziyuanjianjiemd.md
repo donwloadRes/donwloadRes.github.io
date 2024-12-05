@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTIDS-LINK16数据链资源简介"
+title: "JTIDSLINK16数据链资源简介"
 date:   2022-11-10
 tags: [JTIDS,LINK16,数据链,通信,系统]
 comments: true

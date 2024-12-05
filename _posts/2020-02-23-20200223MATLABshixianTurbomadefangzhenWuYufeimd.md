@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现Turbo码的仿真 - WuYufei"
+title: "MATLAB实现Turbo码的仿真  WuYufei"
 date:   2023-01-16
 tags: [代码,仿真,MATLAB,Turbo,WuYufei]
 comments: true

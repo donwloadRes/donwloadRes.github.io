@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+Django+MySQL实现Web版增删改查"
+title: "基于PythonDjangoMySQL实现Web版增删改查"
 date:   2021-01-08
 tags: [Django,MySQL,Python,Web,数据库]
 comments: true

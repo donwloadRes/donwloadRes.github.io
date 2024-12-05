@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TC264主板V1.0原理图资源"
+title: "TC264主板V10原理图资源"
 date:   2021-06-17
 tags: [原理图,TC264,主板,V1.0,智能]
 comments: true

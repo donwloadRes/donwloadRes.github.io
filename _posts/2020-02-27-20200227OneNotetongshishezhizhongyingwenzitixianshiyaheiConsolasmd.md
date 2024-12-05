@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【OneNote】同时设置中英文字体显示(雅黑+Consolas)"
+title: "OneNote同时设置中英文字体显示雅黑Consolas"
 date:   2020-09-14
 tags: [字体,OneNote,Consolas,设置,雅黑]
 comments: true

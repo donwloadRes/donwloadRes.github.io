@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易示波器-精英板资源文件"
+title: "简易示波器精英板资源文件"
 date:   2022-06-30
 tags: [示波器,博客,简易,精英,文件]
 comments: true

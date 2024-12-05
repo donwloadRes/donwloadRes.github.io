@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "晶创6 123扇区发卡、延期、改通卡软件"
+title: "晶创6 123扇区发卡延期改通卡软件"
 date:   2020-11-03
 tags: [通卡,发卡,扇区,延期,晶创]
 comments: true

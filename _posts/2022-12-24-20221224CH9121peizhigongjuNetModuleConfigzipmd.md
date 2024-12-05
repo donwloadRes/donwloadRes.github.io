@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CH9121配置工具NetModuleConfig.zip"
+title: "CH9121配置工具NetModuleConfigzip"
 date:   2023-05-18
 tags: [模块,配置,CH9121,TCP,参数]
 comments: true

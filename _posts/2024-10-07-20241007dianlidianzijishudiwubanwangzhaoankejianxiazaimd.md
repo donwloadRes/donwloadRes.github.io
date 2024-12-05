@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术第五版(王兆安)课件下载"
+title: "电力电子技术第五版王兆安课件下载"
 date:   2021-11-08
 tags: [课件,技术,电力,第五版,王兆安]
 comments: true

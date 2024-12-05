@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-TA-1002规范资源文件下载"
+title: "SFFTA1002规范资源文件下载"
 date:   2023-06-05
 tags: [SFF,TA,1002,规范,OCP]
 comments: true

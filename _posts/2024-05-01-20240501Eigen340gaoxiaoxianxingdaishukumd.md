@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eigen-3.4.0：高效线性代数库"
+title: "Eigen340高效线性代数库"
 date:   2024-06-10
 tags: [Eigen,线性代数,3.4,Visual,Studio]
 comments: true

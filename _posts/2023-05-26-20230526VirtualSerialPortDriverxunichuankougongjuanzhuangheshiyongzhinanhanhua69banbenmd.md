@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virtual Serial Port Driver 虚拟串口工具安装和使用指南（汉化6.9版本）"
+title: "Virtual Serial Port Driver 虚拟串口工具安装和使用指南汉化69版本"
 date:   2024-11-13
 tags: [串口,汉化,虚拟,通信,端口]
 comments: true

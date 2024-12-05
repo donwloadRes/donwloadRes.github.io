@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOV8-pose的姿态关键点检测项目"
+title: "基于YOLOV8pose的姿态关键点检测项目"
 date:   2023-03-02
 tags: [关键点,项目,YOLOV8,pose,your]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARIMA算法实现（基于Python）"
+title: "ARIMA算法实现基于Python"
 date:   2023-12-14
 tags: [ARIMA,模型,Python,序列,示例]
 comments: true

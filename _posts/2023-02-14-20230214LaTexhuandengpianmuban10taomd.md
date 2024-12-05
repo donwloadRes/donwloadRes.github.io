@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTex幻灯片模板10套+"
+title: "LaTex幻灯片模板10套"
 date:   2020-01-07
 tags: [模板,LaTex,幻灯片,学术报告,文件]
 comments: true

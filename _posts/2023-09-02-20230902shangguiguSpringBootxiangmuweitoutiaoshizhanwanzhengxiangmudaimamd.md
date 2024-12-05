@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "尚硅谷SpringBoot项目--微头条实战（完整项目代码）"
+title: "尚硅谷SpringBoot项目微头条实战完整项目代码"
 date:   2022-03-27
 tags: [头条,SpringBoot,项目,功能,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL MDK 5.20注册机使用指南"
+title: "KEIL MDK 520注册机使用指南"
 date:   2023-04-25
 tags: [注册机,KEIL,MDK,5.20,注册码]
 comments: true

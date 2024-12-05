@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学（第4版）中文版资源下载"
+title: "计算机图形学第4版中文版资源下载"
 date:   2022-04-21
 tags: [图形学,中文版,仓库,下载,计算机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMWare Tools for Windows 11.0.6"
+title: "VMWare Tools for Windows 1106"
 date:   2023-04-16
 tags: [虚拟机,Tools,VMware,VMWare,Windows]
 comments: true

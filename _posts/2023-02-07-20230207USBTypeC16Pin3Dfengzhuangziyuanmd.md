@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Type-C 16 Pin 3D 封装资源"
+title: "USB TypeC 16 Pin 3D 封装资源"
 date:   2022-01-03
 tags: [Type,封装,16,3D,USB]
 comments: true

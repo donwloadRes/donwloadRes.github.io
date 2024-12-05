@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据应用开发（Python）职业技能（中级）"
+title: "大数据应用开发Python职业技能中级"
 date:   2023-05-24
 tags: [Python,考生,职业技能,应用,开发]
 comments: true

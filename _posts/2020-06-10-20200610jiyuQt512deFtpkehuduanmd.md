@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt5.12的Ftp客户端"
+title: "基于Qt512的Ftp客户端"
 date:   2021-03-08
 tags: [Qt5.12,客户端,Ftp,Qt,QFtp]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J2012-DA故障诊断代码定义和故障类型字节定义"
+title: "J2012DA故障诊断代码定义和故障类型字节定义"
 date:   2024-07-06
 tags: [故障,J2012,DA,字节,定义]
 comments: true

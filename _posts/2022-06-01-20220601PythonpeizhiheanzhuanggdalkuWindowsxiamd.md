@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python配置和安装gdal库（Windows下）"
+title: "Python配置和安装gdal库Windows下"
 date:   2021-04-10
 tags: [GDAL,Python,whl,安装,gdal]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试工程师绩效考核方案(试行)"
+title: "测试工程师绩效考核方案试行"
 date:   2020-03-05
 tags: [测试,工程师,考核,绩效考核,方案]
 comments: true

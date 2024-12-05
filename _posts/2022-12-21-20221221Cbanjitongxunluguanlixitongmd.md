@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 班级通讯录管理系统"
+title: "C 班级通讯录管理系统"
 date:   2022-11-16
 tags: [通讯录,C++,班级,排序,备份]
 comments: true

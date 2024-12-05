@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Global Mapper 入门指南（中文）下载"
+title: "Global Mapper 入门指南中文下载"
 date:   2022-06-01
 tags: [Global,Mapper,指南,用户,入门]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "羊了个羊（100行Python代码）资源下载"
+title: "羊了个羊100行Python代码资源下载"
 date:   2021-06-30
 tags: [Python,代码,100,zip,pygame]
 comments: true

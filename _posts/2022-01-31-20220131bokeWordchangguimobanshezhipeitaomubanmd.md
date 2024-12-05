@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博客Word常规模板设置》配套模板"
+title: "博客Word常规模板设置配套模板"
 date:   2023-10-29
 tags: [模板,Word,文档,博客,设置]
 comments: true

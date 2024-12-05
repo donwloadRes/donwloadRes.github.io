@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEW-MDX61B 伺服中文操作手册下载"
+title: "SEWMDX61B 伺服中文操作手册下载"
 date:   2020-12-29
 tags: [SEW,MDX61B,操作手册,伺服,手册]
 comments: true

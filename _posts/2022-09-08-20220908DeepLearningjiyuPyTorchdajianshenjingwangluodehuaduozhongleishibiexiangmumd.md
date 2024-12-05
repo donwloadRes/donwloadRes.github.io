@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning：基于PyTorch搭建神经网络的花朵种类识别项目"
+title: "Deep Learning基于PyTorch搭建神经网络的花朵种类识别项目"
 date:   2020-02-05
 tags: [神经网络,PyTorch,训练,flower,模型]
 comments: true

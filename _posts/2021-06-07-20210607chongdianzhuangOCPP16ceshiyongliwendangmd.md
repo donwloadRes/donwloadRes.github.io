@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "充电桩OCPP 1.6测试用例文档"
+title: "充电桩OCPP 16测试用例文档"
 date:   2020-03-12
 tags: [文档,测试用例,充电,OCPP,1.6]
 comments: true

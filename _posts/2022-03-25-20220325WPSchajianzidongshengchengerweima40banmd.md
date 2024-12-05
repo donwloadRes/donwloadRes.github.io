@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS插件：自动生成二维码4.0版"
+title: "WPS插件自动生成二维码40版"
 date:   2024-09-12
 tags: [插件,二维码,生成,自动,WPS]
 comments: true

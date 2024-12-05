@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCIe-Rev1p0-Consortium-Feb24th-2022-Final 资源说明"
+title: "UCIeRev1p0ConsortiumFeb24th2022Final 资源说明"
 date:   2022-10-16
 tags: [UCIE,芯片,UCIe,文档,2022]
 comments: true

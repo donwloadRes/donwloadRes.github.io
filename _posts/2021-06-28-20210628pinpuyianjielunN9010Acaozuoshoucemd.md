@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "频谱仪——安捷伦N9010A操作手册"
+title: "频谱仪安捷伦N9010A操作手册"
 date:   2020-03-25
 tags: [频谱仪,安捷伦,N9010A,性能指标,测量]
 comments: true

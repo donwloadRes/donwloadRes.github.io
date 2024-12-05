@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十五届蓝桥杯大赛软件赛省赛-C++A组题目资源下载"
+title: "第十五届蓝桥杯大赛软件赛省赛CA组题目资源下载"
 date:   2022-09-27
 tags: [蓝桥,题目,赛省赛,软件,第十五届]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open CASCADE Sample Source C# 示例代码仓库"
+title: "Open CASCADE Sample Source C 示例代码仓库"
 date:   2020-12-15
 tags: [示例,Open,CASCADE,C#,代码]
 comments: true

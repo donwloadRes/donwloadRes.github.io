@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "UTF8-GBK编码互转(C)"
+title: "UTF8GBK编码互转C
+date   20221014
+tags 编码代码UTF8GBKgbk
+comments true
+author admin
+
+ UTF8GBK编码互转C
+
+ 介绍
+
+本仓库提供了一个用于UTF8和GBK编码之间互转的C语言代码资源该代码不依赖任何外部API可以直接调用方便开发者在自己的项目中集成和使用
+
+ 功能特点
+
+ 纯C语言实现代码完全使用C语言编写不依赖任何外部库或API
+ 编码互转支持UTF8和GBK编码之间的相互转换满足不同编码需求
+ 直接调用代码结构清晰可以直接集成到你的项目中无需额外配置
+
+ 使用方法
+
+1 下载代码将本仓库中的代码文件下载到你的项目目录中
+2 集成代码将下载的代码文件添加到你的C语言项目中
+3 调用函数根据需要调用相应的编码转换函数实现UTF8和GBK之间的互转
+
+ 示例代码
+
+以下是一个简单的示例展示了如何使用本代码进行UTF8到GBK的转换
+
+c
+include utf8gbkconverterh"
 date:   2022-10-14
 tags: [编码,代码,UTF8,GBK,gbk]
 comments: true

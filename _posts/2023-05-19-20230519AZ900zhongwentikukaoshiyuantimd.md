@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AZ-900中文题库考试原题"
+title: "AZ900中文题库考试原题"
 date:   2021-11-04
 tags: [题库,AZ,900,考试,题目]
 comments: true

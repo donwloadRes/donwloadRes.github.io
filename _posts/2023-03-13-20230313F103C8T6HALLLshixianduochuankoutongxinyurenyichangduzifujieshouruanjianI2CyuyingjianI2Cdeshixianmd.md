@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F103C8T6 HAL+LL 实现多串口通信与任意长度字符接收 —— 软件I2C与硬件I2C的实现"
+title: "F103C8T6 HALLL 实现多串口通信与任意长度字符接收  软件I2C与硬件I2C的实现"
 date:   2023-07-30
 tags: [I2C,串口,STM32,通信,接收]
 comments: true

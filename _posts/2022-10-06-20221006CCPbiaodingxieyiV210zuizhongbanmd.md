@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCP标定协议V2.1.0最终版"
+title: "CCP标定协议V210最终版"
 date:   2021-12-09
 tags: [标定,CCP,协议,V2.1,最终版]
 comments: true

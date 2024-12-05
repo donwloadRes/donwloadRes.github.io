@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "读书记录C++ Primer Plus（第六版）中文版》和源代码"
+title: "读书记录C Primer Plus第六版中文版和源代码"
 date:   2020-07-28
 tags: [C++,源代码,第六版,记录,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel UHD Graphics 630 驱动程序 (Win7 x64)"
+title: "Intel UHD Graphics 630 驱动程序 Win7 x64"
 date:   2023-08-07
 tags: [驱动程序,Windows,Intel,UHD,Graphics]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ MFC教程资源文件下载仓库"
+title: "C MFC教程资源文件下载仓库"
 date:   2021-01-06
 tags: [对话框,MFC,C++,Box,教程]
 comments: true

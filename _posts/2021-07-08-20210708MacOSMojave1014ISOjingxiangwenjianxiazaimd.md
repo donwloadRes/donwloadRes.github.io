@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac OS Mojave 10.14 ISO 镜像文件下载"
+title: "Mac OS Mojave 1014 ISO 镜像文件下载"
 date:   2021-10-11
 tags: [镜像文件,ISO,VMware,Workstation,Mojave]
 comments: true

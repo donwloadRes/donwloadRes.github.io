@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCODE C-C++ 插件离线包下载"
+title: "VSCODE CC 插件离线包下载"
 date:   2023-07-19
 tags: [插件,离线,C++,Visual,Studio]
 comments: true

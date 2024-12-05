@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speeded-Up Robust Feature (SURF)算法原论文全文翻译"
+title: "SpeededUp Robust Feature SURF算法原论文全文翻译"
 date:   2021-09-18
 tags: [SURF,算法,描述,翻译,Speeded]
 comments: true

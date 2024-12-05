@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二分类-乳腺癌数据集"
+title: "二分类乳腺癌数据集"
 date:   2021-02-21
 tags: [乳腺癌,数据,分类,学习,特征]
 comments: true

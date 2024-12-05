@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小甲鱼飞机大战（素材+代码）"
+title: "小甲鱼飞机大战素材代码"
 date:   2021-11-23
 tags: [游戏,代码,Python,飞机,素材]
 comments: true

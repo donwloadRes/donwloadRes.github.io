@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective Modern C++ 中文版 资源下载"
+title: "Effective Modern C 中文版 资源下载"
 date:   2020-07-01
 tags: [C++,本书,std,中文版,编程]
 comments: true

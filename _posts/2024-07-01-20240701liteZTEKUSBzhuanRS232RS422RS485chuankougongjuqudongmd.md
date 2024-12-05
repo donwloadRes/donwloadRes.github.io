@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "力特 Z-TEK USB 转 RS232-RS422-RS485 串口工具驱动"
+title: "力特 ZTEK USB 转 RS232RS422RS485 串口工具驱动"
 date:   2021-05-15
 tags: [驱动程序,串口,USB,力特,TEK]
 comments: true

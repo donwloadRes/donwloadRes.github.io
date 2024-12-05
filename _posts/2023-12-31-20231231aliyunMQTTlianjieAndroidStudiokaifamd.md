@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云MQTT连接-Android Studio开发"
+title: "阿里云MQTT连接Android Studio开发"
 date:   2020-03-02
 tags: [Android,Studio,应用程序,MQTT,项目]
 comments: true

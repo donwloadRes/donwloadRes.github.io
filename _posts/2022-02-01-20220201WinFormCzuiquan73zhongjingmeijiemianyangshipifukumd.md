@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm(C#) 最全73种精美界面样式皮肤库"
+title: "WinFormC 最全73种精美界面样式皮肤库"
 date:   2023-10-29
 tags: [皮肤,WinForm,73,C#,资源]
 comments: true

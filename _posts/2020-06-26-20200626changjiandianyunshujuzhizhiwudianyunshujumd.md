@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常见点云数据之-----植物点云数据"
+title: "常见点云数据之植物点云数据"
 date:   2021-08-24
 tags: [点云,数据,植物,数据处理,研究]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "腾讯云MySQL数据库产品认证答案（82分）"
+title: "腾讯云MySQL数据库产品认证答案82分"
 date:   2023-01-17
 tags: [MySQL,答案,认证,腾讯,数据库]
 comments: true

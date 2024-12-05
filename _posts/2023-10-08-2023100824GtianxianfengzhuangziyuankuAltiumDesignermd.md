@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2.4G天线封装资源库Altium Designer"
+title: "24G天线封装资源库Altium Designer"
 date:   2024-11-16
 tags: [PCB,2.4,文件,资源库,Altium]
 comments: true

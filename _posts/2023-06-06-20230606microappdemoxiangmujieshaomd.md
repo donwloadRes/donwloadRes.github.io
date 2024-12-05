@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "micro-app-demo 项目介绍"
+title: "microappdemo 项目介绍"
 date:   2020-02-25
 tags: [app,应用,micro,demo,项目]
 comments: true

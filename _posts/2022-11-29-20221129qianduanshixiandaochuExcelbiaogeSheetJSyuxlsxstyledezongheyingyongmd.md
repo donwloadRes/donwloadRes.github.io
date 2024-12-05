@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端实现导出Excel表格——SheetJS与xlsx-style的综合应用"
+title: "前端实现导出Excel表格SheetJS与xlsxstyle的综合应用"
 date:   2020-03-13
 tags: [xlsx,const,Excel,XLSX,导出]
 comments: true

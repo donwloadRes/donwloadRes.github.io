@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级多的C#辅助类大全"
+title: "超级多的C辅助类大全"
 date:   2023-01-25
 tags: [辅助,操作,C#,文件,帮助]
 comments: true

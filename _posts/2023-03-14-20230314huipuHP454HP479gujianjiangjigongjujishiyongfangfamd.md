@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惠普HP454-HP479固件降级工具及使用方法"
+title: "惠普HP454HP479固件降级工具及使用方法"
 date:   2023-02-25
 tags: [固件,降级,打印机,惠普,HP454]
 comments: true

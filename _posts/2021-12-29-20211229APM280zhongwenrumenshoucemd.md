@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APM 2.8.0 中文入门手册"
+title: "APM 280 中文入门手册"
 date:   2022-08-31
 tags: [APM2.8,手册,入门,APM,2.8]
 comments: true

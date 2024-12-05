@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动手学深度学习PyTorch》Windows 10环境搭建资源文件"
+title: "动手学深度学习PyTorchWindows 10环境搭建资源文件"
 date:   2024-09-19
 tags: [PyTorch,安装,Windows,10,搭建]
 comments: true

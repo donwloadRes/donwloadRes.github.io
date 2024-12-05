@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 音乐播放器：利用资源获取、可视化和数据库管理"
+title: "Python 音乐播放器利用资源获取可视化和数据库管理"
 date:   2022-07-01
 tags: [音乐,可视化,用户,播放,Python]
 comments: true

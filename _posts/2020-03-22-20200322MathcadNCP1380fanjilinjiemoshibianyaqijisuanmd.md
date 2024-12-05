@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathcad - NCP1380反激临界模式变压器计算"
+title: "Mathcad  NCP1380反激临界模式变压器计算"
 date:   2020-04-28
 tags: [Mathcad,NCP1380,反激,临界,变压器]
 comments: true

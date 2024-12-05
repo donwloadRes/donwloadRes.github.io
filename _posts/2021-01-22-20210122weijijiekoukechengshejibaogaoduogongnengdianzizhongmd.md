@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微机接口课程设计报告：多功能电子钟"
+title: "微机接口课程设计报告多功能电子钟"
 date:   2021-12-06
 tags: [课程设计,接口,闹钟,调试,按下]
 comments: true

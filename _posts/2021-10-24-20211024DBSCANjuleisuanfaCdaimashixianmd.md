@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBSCAN聚类算法C++代码实现"
+title: "DBSCAN聚类算法C代码实现"
 date:   2021-11-15
 tags: [DBSCAN,聚类,算法,C++,编译]
 comments: true

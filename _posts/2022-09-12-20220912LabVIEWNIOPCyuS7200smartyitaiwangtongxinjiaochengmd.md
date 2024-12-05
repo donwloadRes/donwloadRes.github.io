@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW NI OPC与S7-200smart以太网通信教程"
+title: "LabVIEW NI OPC与S7200smart以太网通信教程"
 date:   2021-11-22
 tags: [教程,OPC,S7,200smart,LabVIEW]
 comments: true

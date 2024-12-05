@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jce_policy-8.zip 说明文档"
+title: "jcepolicy8zip 说明文档"
 date:   2023-08-02
 tags: [policy,JDK,加密,文件,jce]
 comments: true

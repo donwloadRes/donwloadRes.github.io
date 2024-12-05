@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open3D点云数据处理：最小二乘多项式拟合"
+title: "Open3D点云数据处理最小二乘多项式拟合"
 date:   2024-04-22
 tags: [多项式,拟合,最小,点云,乘法]
 comments: true

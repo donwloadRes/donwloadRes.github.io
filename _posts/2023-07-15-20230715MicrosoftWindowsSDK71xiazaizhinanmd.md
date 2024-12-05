@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Windows SDK 7.1 下载指南"
+title: "Microsoft Windows SDK 71 下载指南"
 date:   2022-04-29
 tags: [Windows,SDK,应用程序,Microsoft,7.1]
 comments: true

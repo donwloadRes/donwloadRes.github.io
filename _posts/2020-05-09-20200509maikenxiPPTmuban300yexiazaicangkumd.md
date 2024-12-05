@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麦肯锡PPT模板(300页)下载仓库"
+title: "麦肯锡PPT模板300页下载仓库"
 date:   2023-06-01
 tags: [模板,PPT,300,麦肯锡,仓库]
 comments: true

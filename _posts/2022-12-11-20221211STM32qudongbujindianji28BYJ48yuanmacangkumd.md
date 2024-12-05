@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32驱动步进电机28BYJ-48源码仓库"
+title: "STM32驱动步进电机28BYJ48源码仓库"
 date:   2020-10-23
 tags: [步进,STM32,28BYJ,48,电机]
 comments: true

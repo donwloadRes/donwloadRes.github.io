@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理课程设计--中文情感分类"
+title: "自然语言处理课程设计中文情感分类"
 date:   2021-12-26
 tags: [情感,自然语言,文本,NLP,课程设计]
 comments: true

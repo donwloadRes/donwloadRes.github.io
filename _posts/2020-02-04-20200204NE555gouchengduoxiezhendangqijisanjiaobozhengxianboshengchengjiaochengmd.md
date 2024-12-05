@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NE555构成多谐振荡器及三角波、正弦波生成教程"
+title: "NE555构成多谐振荡器及三角波正弦波生成教程"
 date:   2022-03-10
 tags: [NE555,三角,波形,正弦波,生成]
 comments: true

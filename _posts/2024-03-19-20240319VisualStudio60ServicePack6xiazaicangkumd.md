@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 6.0 Service Pack 6 下载仓库"
+title: "Visual Studio 60 Service Pack 6 下载仓库"
 date:   2021-02-27
 tags: [Visual,6.0,Service,Pack,下载]
 comments: true

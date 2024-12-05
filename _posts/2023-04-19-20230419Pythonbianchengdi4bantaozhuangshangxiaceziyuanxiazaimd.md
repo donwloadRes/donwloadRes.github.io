@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程（第4版 套装上下册）资源下载"
+title: "Python编程第4版 套装上下册资源下载"
 date:   2023-06-21
 tags: [Python,编程,开发者,上下册,套装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U盘“请将磁盘插入U盘”问题的解决指南"
+title: "U盘请将磁盘插入U盘问题的解决指南"
 date:   2023-10-30
 tags: [U盘,磁盘,插入,量产,电脑]
 comments: true

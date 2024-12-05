@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning（中文版）"
+title: "Deep Learning中文版"
 date:   2021-09-04
 tags: [深度,学习,中文版,神经网络,Deep]
 comments: true

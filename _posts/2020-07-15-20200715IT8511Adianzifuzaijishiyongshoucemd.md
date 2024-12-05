@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT8511A+电子负载机使用手册"
+title: "IT8511A电子负载机使用手册"
 date:   2020-05-13
 tags: [IT8511A,电子负载,使用手册,手册,注意事项]
 comments: true

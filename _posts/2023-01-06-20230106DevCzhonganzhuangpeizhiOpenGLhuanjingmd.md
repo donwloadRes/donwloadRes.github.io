@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++中安装配置OpenGL环境"
+title: "DevC中安装配置OpenGL环境"
 date:   2020-12-27
 tags: [OpenGL,Dev,C++,配置,文件]
 comments: true

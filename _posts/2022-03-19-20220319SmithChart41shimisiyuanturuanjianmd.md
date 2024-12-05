@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smith Chart 4.1 史密斯圆图软件"
+title: "Smith Chart 41 史密斯圆图软件"
 date:   2021-11-16
 tags: [Smith,Chart,4.1,your,https]
 comments: true

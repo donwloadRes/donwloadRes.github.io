@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaEE 项目：用户信息管理系统"
+title: "JavaEE 项目用户信息管理系统"
 date:   2020-05-16
 tags: [信息管理系统,JavaEE,项目,用户,克隆]
 comments: true

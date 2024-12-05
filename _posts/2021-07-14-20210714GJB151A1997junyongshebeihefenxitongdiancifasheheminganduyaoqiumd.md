@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 151A-1997 军用设备和分系统电磁发射和敏感度要求"
+title: "GJB 151A1997 军用设备和分系统电磁发射和敏感度要求"
 date:   2024-08-19
 tags: [分系统,军用,电磁,敏感度,设备]
 comments: true

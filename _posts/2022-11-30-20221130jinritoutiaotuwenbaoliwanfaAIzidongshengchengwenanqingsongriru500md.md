@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "今日头条图文爆力玩法：AI自动生成文案，轻松日入500+"
+title: "今日头条图文爆力玩法AI自动生成文案轻松日入500"
 date:   2022-11-27
 tags: [头条,轻松,AI,500,文案]
 comments: true

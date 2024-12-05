@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-05蓝牙模块开发资料"
+title: "HC05蓝牙模块开发资料"
 date:   2023-02-14
 tags: [蓝牙,模块,HC,05,资料]
 comments: true

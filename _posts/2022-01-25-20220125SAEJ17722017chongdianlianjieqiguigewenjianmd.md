@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1772-2017 充电连接器规格文件"
+title: "SAE J17722017 充电连接器规格文件"
 date:   2022-10-13
 tags: [充电,文件,连接器,2017,SAE]
 comments: true

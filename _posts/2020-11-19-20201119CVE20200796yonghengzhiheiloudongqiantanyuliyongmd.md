@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CVE-2020-0796永恒之黑漏洞浅谈与利用"
+title: "CVE20200796永恒之黑漏洞浅谈与利用"
 date:   2020-12-03
 tags: [漏洞,Windows,CVE,2020,0796]
 comments: true

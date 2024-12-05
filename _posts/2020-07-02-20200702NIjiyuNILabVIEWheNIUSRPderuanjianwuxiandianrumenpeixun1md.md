@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI-基于NI_LabVIEW和NI_USRP的软件无线电入门培训1"
+title: "NI基于NILabVIEW和NIUSRP的软件无线电入门培训1"
 date:   2023-03-10
 tags: [NI,软件,无线电,USRP,硬件]
 comments: true

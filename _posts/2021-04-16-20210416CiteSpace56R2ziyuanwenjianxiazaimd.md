@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiteSpace 5.6.R2 资源文件下载"
+title: "CiteSpace 56R2 资源文件下载"
 date:   2022-08-15
 tags: [CiteSpace,R2,分析,5.6,文件]
 comments: true

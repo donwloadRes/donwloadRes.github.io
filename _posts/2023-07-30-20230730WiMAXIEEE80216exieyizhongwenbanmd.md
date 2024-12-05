@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WiMAX（IEEE802.16e）协议中文版"
+title: "WiMAXIEEE80216e协议中文版"
 date:   2021-04-18
 tags: [WiMAX,协议,OFDMA,物理层,资源]
 comments: true

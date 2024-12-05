@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSPM0 G系列 80-MHz 微控制器用户手册"
+title: "MSPM0 G系列 80MHz 微控制器用户手册"
 date:   2021-08-25
 tags: [外设,设备,手册,微控制器,MSPM0G]
 comments: true

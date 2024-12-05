@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量化交易之路—— 用Python做股票量化分析》源代码"
+title: "量化交易之路 用Python做股票量化分析源代码"
 date:   2023-01-28
 tags: [量化,代码,源代码,示例,Python]
 comments: true

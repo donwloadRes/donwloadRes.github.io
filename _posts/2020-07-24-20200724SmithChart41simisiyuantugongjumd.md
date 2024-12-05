@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smith Chart 4.1 斯密斯圆图工具"
+title: "Smith Chart 41 斯密斯圆图工具"
 date:   2024-11-20
 tags: [Smith,圆图,斯密斯,文件,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7运行.net6开发的应用程序所需安装的环境"
+title: "Win7运行net6开发的应用程序所需安装的环境"
 date:   2020-01-27
 tags: [应用程序,Windows,NET,安装,运行]
 comments: true

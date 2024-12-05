@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10环境下安装.Net Framework3.5（亲测可用）"
+title: "Win10环境下安装Net Framework35亲测可用"
 date:   2020-03-03
 tags: [Win10,Net,Framework,3.5,cab]
 comments: true

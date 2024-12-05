@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用FastReport-v5.3.17将fp3文件转换为Excel文件"
+title: "使用FastReportv5317将fp3文件转换为Excel文件"
 date:   2021-02-07
 tags: [FastReport,Excel,fp3,文件,v5.3]
 comments: true

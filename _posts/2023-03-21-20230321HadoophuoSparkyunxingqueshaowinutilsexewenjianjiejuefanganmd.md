@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop或Spark运行缺少winutils.exe文件解决方案"
+title: "Hadoop或Spark运行缺少winutilsexe文件解决方案"
 date:   2022-08-14
 tags: [Hadoop,winutils,exe,文件,Spark]
 comments: true

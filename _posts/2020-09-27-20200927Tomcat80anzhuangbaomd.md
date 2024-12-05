@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomcat 8.0 安装包"
+title: "Tomcat 80 安装包"
 date:   2020-08-06
 tags: [Tomcat,安装包,安装,解压,8.0]
 comments: true

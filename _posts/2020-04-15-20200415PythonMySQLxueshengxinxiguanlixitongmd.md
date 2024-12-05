@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python + MySQL 学生信息管理系统"
+title: "Python  MySQL 学生信息管理系统"
 date:   2022-02-13
 tags: [数据库,Python,学生,信息管理系统,信息]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus 13.1和Modelsim安装指南"
+title: "Quartus 131和Modelsim安装指南"
 date:   2021-06-06
 tags: [安装,Modelsim,Quartus,13.1,激活]
 comments: true

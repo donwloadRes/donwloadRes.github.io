@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "api-ms-win-core-path-l1-1-0.dll 下载（x86）"
+title: "apimswincorepathl110dll 下载x86"
 date:   2020-05-01
 tags: [DLL,文件,api,ms,win]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python离线安装numpy、matplotlib类库及其依赖包WHL合集"
+title: "Python离线安装numpymatplotlib类库及其依赖包WHL合集"
 date:   2023-02-11
 tags: [Python,numpy,whl,安装,matplotlib]
 comments: true

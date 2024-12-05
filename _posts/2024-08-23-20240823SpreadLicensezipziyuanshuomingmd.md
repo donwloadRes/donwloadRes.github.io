@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpreadLicense.zip 资源说明"
+title: "SpreadLicensezip 资源说明"
 date:   2021-08-26
 tags: [软件,SpreadLicense,zip,文件,替换]
 comments: true

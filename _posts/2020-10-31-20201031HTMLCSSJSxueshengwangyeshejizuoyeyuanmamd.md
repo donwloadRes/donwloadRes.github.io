@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JS 学生网页设计作业源码"
+title: "HTMLCSSJS 学生网页设计作业源码"
 date:   2024-10-19
 tags: [HTML,网页,CSS,文件,JavaScript]
 comments: true

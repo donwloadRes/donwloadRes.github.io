@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 Stop模式低功耗及唤醒（RTC+中断）"
+title: "STM32 Stop模式低功耗及唤醒RTC中断"
 date:   2023-11-21
 tags: [低功耗,RTC,唤醒,中断,模式]
 comments: true

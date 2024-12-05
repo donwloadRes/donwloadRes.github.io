@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Socket 实现简单聊天室（附源码）"
+title: "Android Socket 实现简单聊天室附源码"
 date:   2021-01-08
 tags: [客户端,服务器端,用户,java,聊天室]
 comments: true

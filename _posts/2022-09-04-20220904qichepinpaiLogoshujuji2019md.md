@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车品牌Logo数据集 (2019)"
+title: "汽车品牌Logo数据集 2019"
 date:   2023-10-10
 tags: [汽车品牌,Logo,数据,2019,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞思迈7.0.29：轻松访问SD卡数据"
+title: "瑞思迈7029轻松访问SD卡数据"
 date:   2021-10-11
 tags: [SD,7.0,29,瑞思迈,版本]
 comments: true

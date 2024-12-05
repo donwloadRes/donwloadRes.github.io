@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细西门子S7报文协议解析（新）.pdf"
+title: "最详细西门子S7报文协议解析新pdf"
 date:   2021-05-04
 tags: [S7,报文,西门子,协议,解析]
 comments: true

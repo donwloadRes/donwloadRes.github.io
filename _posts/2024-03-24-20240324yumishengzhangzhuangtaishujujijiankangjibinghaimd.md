@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玉米生长状态数据集(健康及病害)"
+title: "玉米生长状态数据集健康及病害"
 date:   2020-10-16
 tags: [玉米,状态,数据,图片,生长]
 comments: true

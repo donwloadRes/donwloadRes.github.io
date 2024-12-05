@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN-GRU-Attention多变量时间序列预测模型"
+title: "CNNGRUAttention多变量时间序列预测模型"
 date:   2021-10-03
 tags: [模型,序列,CNN,GRU,Attention]
 comments: true

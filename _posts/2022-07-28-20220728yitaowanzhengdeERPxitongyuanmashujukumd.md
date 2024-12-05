@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一套完整的ERP系统（源码+数据库）"
+title: "一套完整的ERP系统源码数据库"
 date:   2024-01-03
 tags: [源码,数据库,ERP,系统,企业]
 comments: true

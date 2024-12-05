@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 60958-1,3,4 音频标准资源下载"
+title: "IEC 60958134 音频标准资源下载"
 date:   2022-12-15
 tags: [音频,IEC,60958,音频设备,标准]
 comments: true

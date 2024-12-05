@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C#和SharpPcap开发直播App抓包工具获取直播地址"
+title: "使用C和SharpPcap开发直播App抓包工具获取直播地址"
 date:   2023-03-27
 tags: [直播,SharpPcap,device,udpPacket,视频]
 comments: true

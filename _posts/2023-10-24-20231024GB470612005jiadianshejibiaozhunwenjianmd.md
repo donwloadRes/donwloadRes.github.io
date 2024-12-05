@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB4706.1-2005 家电设计标准文件"
+title: "GB470612005 家电设计标准文件"
 date:   2024-07-01
 tags: [GB4706.1,2005,家电,标准文件,产品设计]
 comments: true

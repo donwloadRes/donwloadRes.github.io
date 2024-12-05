@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103R6仿真计数器程序+Proteus"
+title: "STM32F103R6仿真计数器程序Proteus"
 date:   2024-01-30
 tags: [头文件,数码管,数值,仿真,STM32F103R6]
 comments: true

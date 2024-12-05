@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法导论（英文原版教材）下载"
+title: "算法导论英文原版教材下载"
 date:   2021-12-10
 tags: [算法,英文原版,教材,导论,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Keil+51单片机的直流电机调速（源码+仿真）"
+title: "基于Keil51单片机的直流电机调速源码仿真"
 date:   2023-04-27
 tags: [仿真,单片机,直流电机,调速,源码]
 comments: true

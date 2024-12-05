@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟CMOS集成电路设计 拉扎维 Behzad.Razavi（英文版）资源下载"
+title: "模拟CMOS集成电路设计 拉扎维 BehzadRazavi英文版资源下载"
 date:   2022-01-12
 tags: [CMOS,集成电路,Behzad,Razavi,模拟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SSH.NET库Renci.SshNet.dll最新集合（8个）"
+title: "C SSHNET库RenciSshNetdll最新集合8个"
 date:   2020-11-16
 tags: [NET,SSH,dll,Renci,SshNet]
 comments: true

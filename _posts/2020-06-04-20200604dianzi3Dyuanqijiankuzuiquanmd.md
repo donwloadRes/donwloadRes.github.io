@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子3D元器件库（最全）"
+title: "电子3D元器件库最全"
 date:   2021-11-27
 tags: [3D,电路设计,封装,资源,元器件]
 comments: true

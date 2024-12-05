@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado使用教程V1.0 - 02-APPN103-PROCISE"
+title: "Vivado使用教程V10  02APPN103PROCISE"
 date:   2021-03-01
 tags: [Vivado,02,APPN103,PROCISE,教程]
 comments: true

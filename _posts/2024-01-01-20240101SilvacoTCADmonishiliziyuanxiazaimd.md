@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silvaco_TCAD模拟实例资源下载"
+title: "SilvacoTCAD模拟实例资源下载"
 date:   2023-04-28
 tags: [仿真,实例,Silvaco,TCAD,资源]
 comments: true

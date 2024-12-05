@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三维点云处理经典数据集 - 包含斯坦福兔子PCD及PLY格式文件"
+title: "三维点云处理经典数据集  包含斯坦福兔子PCD及PLY格式文件"
 date:   2024-08-23
 tags: [点云,斯坦福,3D,三维,兔子]
 comments: true

@@ -1,6 +1,51 @@
 ---
 layout: post
-title: "VS2019 找不到 ucrtbased.dll 解决方案"
+title: "VS2019 找不到 ucrtbaseddll 解决方案
+date   20220327
+tags ucrtbaseddll文件6432
+comments true
+author admin
+
+ VS2019 找不到 ucrtbaseddll 解决方案
+
+ 简介
+
+本仓库提供了一个资源文件用于解决在 Visual Studio 2019 中运行程序时出现的找不到 ucrtbaseddll无法继续执行代码的问题该问题通常是由于系统中缺少必要的运行时库文件导致的
+
+ 问题描述
+
+在使用 Visual Studio 2019 编译和运行程序时可能会遇到以下错误提示
+
+
+由于找不到 ucrtbaseddll无法继续执行代码
+
+
+此错误通常是由于系统中缺少 ucrtbaseddll 文件导致程序无法正常运行
+
+ 解决方案
+
+本仓库提供的资源文件包含了 ucrtbaseddll 文件用户可以根据自己的系统架构32位或64位下载相应的文件并将其放置在系统的正确路径下
+
+ 步骤
+
+1 下载文件
+    对于32位系统下载 ucrtbased32dll 文件
+    对于64位系统下载 ucrtbased64dll 文件
+
+2 放置文件
+    将下载的 ucrtbaseddll 文件放置在以下路径
+      32位系统CWindowsSystem32
+      64位系统CWindowsSystem32对于64位系统32位DLL文件应放置在 CWindowsSysWOW64
+
+3 注册DLL文件可选
+    以管理员身份运行命令提示符
+    输入以下命令并按回车
+     
+     regsvr32 路径ucrtbaseddll
+     
+    例如对于64位系统输入
+     
+     regsvr32 CWindowsSystem32ucrtbaseddll"
 date:   2022-03-27
 tags: [ucrtbased,dll,文件,64,32]
 comments: true

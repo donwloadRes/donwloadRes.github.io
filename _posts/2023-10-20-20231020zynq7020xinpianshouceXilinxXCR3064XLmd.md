@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zynq7020芯片手册Xilinx-XCR3064XL"
+title: "zynq7020芯片手册XilinxXCR3064XL"
 date:   2023-11-02
 tags: [手册,zynq7020,芯片,Xilinx,XCR3064XL]
 comments: true

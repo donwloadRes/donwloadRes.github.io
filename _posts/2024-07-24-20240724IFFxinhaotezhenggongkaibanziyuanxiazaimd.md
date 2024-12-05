@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IFF信号特征（公开版）资源下载"
+title: "IFF信号特征公开版资源下载"
 date:   2022-07-21
 tags: [IFF,文件,资源,系统,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266 2.7.2 离线安装包使用指南"
+title: "ESP8266 272 离线安装包使用指南"
 date:   2021-12-03
 tags: [安装包,离线,ESP8266,开发板,Arduino]
 comments: true

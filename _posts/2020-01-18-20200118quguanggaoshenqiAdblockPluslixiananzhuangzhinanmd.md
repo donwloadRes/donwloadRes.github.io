@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "去广告神器（Adblock Plus离线安装指南）"
+title: "去广告神器Adblock Plus离线安装指南"
 date:   2023-11-15
 tags: [离线,广告,浏览器,Adblock,Plus]
 comments: true

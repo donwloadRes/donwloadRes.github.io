@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++物联网管理平台"
+title: "QtC物联网管理平台"
 date:   2022-01-13
 tags: [用户,报警,平台,支持,Linux]
 comments: true

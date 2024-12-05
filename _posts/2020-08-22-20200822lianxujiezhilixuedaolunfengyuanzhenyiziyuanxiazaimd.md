@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "连续介质力学导论（冯元桢译）资源下载"
+title: "连续介质力学导论冯元桢译资源下载"
 date:   2024-08-02
 tags: [连续介质,冯元桢,力学,导论,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LS-MMSE-深度学习DNN的OFDM信道估计 - MATLAB实现"
+title: "基于LSMMSE深度学习DNN的OFDM信道估计  MATLAB实现"
 date:   2022-03-31
 tags: [OFDM,信道,深度,学习,估计]
 comments: true

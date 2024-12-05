@@ -1,6 +1,28 @@
 ---
 layout: post
-title: "GPIO模拟SPI通信主机代码"
+title: "GPIO模拟SPI通信主机代码
+date   20220723
+tags SPILCD初始化includeInit
+comments true
+author admin
+
+ GPIO模拟SPI通信主机代码
+
+ 描述
+
+本资源文件提供了一个使用GPIO模拟SPI通信的主机代码示例该代码展示了如何通过GPIO引脚模拟SPI通信协议实现数据的发送和接收代码中包含了多个外设的初始化如时钟延时串口LEDLCDSDRAM等并通过SPI协议发送和接收数据
+
+ 主函数代码
+
+c
+include sysh
+include delayh
+include usarth
+include ledh
+include keyh
+include spih
+include lcdh
+include sdramh"
 date:   2022-07-23
 tags: [SPI,LCD,初始化,include,Init]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FusionSphere 6.5.1 安装包下载"
+title: "FusionSphere 651 安装包下载"
 date:   2024-05-30
 tags: [6.5,安装包,下载,华为,FusionSphere]
 comments: true

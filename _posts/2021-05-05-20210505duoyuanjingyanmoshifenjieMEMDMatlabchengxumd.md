@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多元经验模式分解 (MEMD) Matlab程序"
+title: "多元经验模式分解 MEMD Matlab程序"
 date:   2024-08-14
 tags: [Matlab,MEMD,分解,用户,应用]
 comments: true

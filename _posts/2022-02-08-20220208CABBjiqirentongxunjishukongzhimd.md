@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ABB机器人通讯技术控制"
+title: "C ABB机器人通讯技术控制"
 date:   2024-06-21
 tags: [C#,BB机,器人,通讯,文件]
 comments: true

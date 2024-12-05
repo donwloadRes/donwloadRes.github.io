@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMCW雷达人体行为识别——多普勒谱提取资源介绍"
+title: "FMCW雷达人体行为识别多普勒谱提取资源介绍"
 date:   2022-03-22
 tags: [多普勒,数据,雷达,识别,行为]
 comments: true

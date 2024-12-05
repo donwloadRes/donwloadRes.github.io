@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析编程题（Matlab实现）"
+title: "数值分析编程题Matlab实现"
 date:   2023-07-17
 tags: [Matlab,编程,数值,代码,分析]
 comments: true

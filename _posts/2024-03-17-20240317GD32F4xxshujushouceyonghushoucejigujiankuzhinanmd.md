@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F4xx 数据手册、用户手册及固件库指南"
+title: "GD32F4xx 数据手册用户手册及固件库指南"
 date:   2022-11-20
 tags: [GD32F4xx,微控制器,固件,系列,手册]
 comments: true

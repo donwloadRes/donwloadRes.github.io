@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport v6.9.15 Enterprise FS for Delphi 11.0"
+title: "FastReport v6915 Enterprise FS for Delphi 110"
 date:   2021-10-12
 tags: [Delphi,FastReport,报表,FS,11.0]
 comments: true

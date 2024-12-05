@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电路与数字电路(林捷)电子书下载"
+title: "模拟电路与数字电路林捷电子书下载"
 date:   2021-11-05
 tags: [数字电路,电路,模拟,林捷,下载]
 comments: true

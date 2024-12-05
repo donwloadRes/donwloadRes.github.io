@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALINX_ZYNQ开发平台基础教程"
+title: "ALINXZYNQ开发平台基础教程"
 date:   2021-09-03
 tags: [Zynq,ALINX,开发,ZYNQ,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LoadRunner 12.6 免费下载链接"
+title: "LoadRunner 126 免费下载链接"
 date:   2022-12-26
 tags: [LoadRunner,12.6,下载,仓库,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面向对象与STL实现的贪吃蛇游戏"
+title: "C面向对象与STL实现的贪吃蛇游戏"
 date:   2021-07-04
 tags: [游戏,C++,STL,贪吃蛇,面向对象]
 comments: true

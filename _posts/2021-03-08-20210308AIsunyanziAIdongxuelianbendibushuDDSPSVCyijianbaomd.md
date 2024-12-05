@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI孙燕姿 & AI东雪莲 —— 本地部署DDSP-SVC一键包"
+title: "AI孙燕姿  AI东雪莲  本地部署DDSPSVC一键包"
 date:   2023-10-30
 tags: [AI,音频,训练,DDSP,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫：爬取网页视频并合成MP4文件"
+title: "Python爬虫爬取网页视频并合成MP4文件"
 date:   2022-08-15
 tags: [网页,文件,ts,视频,爬取]
 comments: true

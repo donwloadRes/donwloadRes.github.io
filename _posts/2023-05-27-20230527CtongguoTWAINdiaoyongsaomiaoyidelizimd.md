@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 通过 TWAIN 调用扫描仪的例子"
+title: "C 通过 TWAIN 调用扫描仪的例子"
 date:   2024-06-29
 tags: [示例,扫描仪,C#,代码,TWAIN]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：三调名称转用地用海名称"
+title: "CC工具箱使用指南三调名称转用地用海名称"
 date:   2020-09-28
 tags: [三调,转换,名称,CC,地类]
 comments: true

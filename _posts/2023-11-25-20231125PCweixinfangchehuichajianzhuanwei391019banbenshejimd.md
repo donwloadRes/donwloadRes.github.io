@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC微信防撤回插件 - 专为3.9.10.19版本设计"
+title: "PC微信防撤回插件  专为391019版本设计"
 date:   2024-03-18
 tags: [插件,撤回,PC,微信,3.9]
 comments: true

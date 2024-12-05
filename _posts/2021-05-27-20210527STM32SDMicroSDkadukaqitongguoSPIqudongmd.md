@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 SD-MicroSD卡读卡器（通过SPI驱动）"
+title: "STM32 SDMicroSD卡读卡器通过SPI驱动"
 date:   2020-11-19
 tags: [USB,STM32,SPI,SD,FatFs]
 comments: true

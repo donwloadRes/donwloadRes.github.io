@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exe文件转py文件详细步骤（例题）"
+title: "exe文件转py文件详细步骤例题"
 date:   2024-01-23
 tags: [py,文件,解包,exe,white]
 comments: true

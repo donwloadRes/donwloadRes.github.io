@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL编程指南(第8版)PDF资源介绍"
+title: "OpenGL编程指南第8版PDF资源介绍"
 date:   2021-08-19
 tags: [OpenGL,编程,PDF,资源,着色器]
 comments: true

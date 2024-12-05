@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度富文本编辑器UEditor 1.4.3版本"
+title: "百度富文本编辑器UEditor 143版本"
 date:   2022-05-27
 tags: [编辑器,--,ueditor,UEditor,百度]
 comments: true

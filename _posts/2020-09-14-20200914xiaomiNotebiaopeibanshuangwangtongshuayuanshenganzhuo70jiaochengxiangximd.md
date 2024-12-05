@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米Note标配版 双网通刷原生安卓7.0教程（详细）"
+title: "小米Note标配版 双网通刷原生安卓70教程详细"
 date:   2021-11-20
 tags: [安卓,7.0,刷机,教程,原生]
 comments: true

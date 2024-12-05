@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "兼容M1 & M2芯片 | FlowJo 10.8.1 MAC版 | 软件安装包与教程"
+title: "兼容M1  M2芯片  FlowJo 1081 MAC版  软件安装包与教程"
 date:   2022-07-27
 tags: [FlowJo,教程,10.8,软件,安装]
 comments: true

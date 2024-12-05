@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年工训赛-智能＋赛道省一视觉代码"
+title: "2023年工训赛智能赛道省一视觉代码"
 date:   2022-08-28
 tags: [识别,物块,视觉,OpenMV,色环]
 comments: true

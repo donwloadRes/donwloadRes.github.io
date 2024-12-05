@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F303 Keil 5.33 开发环境搭建指南"
+title: "GD32F303 Keil 533 开发环境搭建指南"
 date:   2024-09-03
 tags: [Keil,GD32F303,5.33,安装,开发]
 comments: true

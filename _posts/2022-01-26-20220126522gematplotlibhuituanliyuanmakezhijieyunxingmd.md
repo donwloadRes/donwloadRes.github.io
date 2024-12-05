@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "522个matplotlib绘图案例，源码可直接运行！"
+title: "522个matplotlib绘图案例源码可直接运行"
 date:   2024-09-29
 tags: [条形图,散点图,示例,3D,直方图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动终端软件开发大作业：记单词APP源码及报告"
+title: "移动终端软件开发大作业记单词APP源码及报告"
 date:   2020-07-10
 tags: [Android,Studio,源码,APP,单词]
 comments: true

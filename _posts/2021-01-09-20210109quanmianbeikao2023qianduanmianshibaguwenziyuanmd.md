@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全面备考！2023 前端面试八股文资源"
+title: "全面备考2023 前端面试八股文资源"
 date:   2024-10-02
 tags: [前端,面试,2023,八股文,文档]
 comments: true

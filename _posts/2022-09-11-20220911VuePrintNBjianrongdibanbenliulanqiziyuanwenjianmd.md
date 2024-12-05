@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue-Print-NB 兼容低版本浏览器资源文件"
+title: "VuePrintNB 兼容低版本浏览器资源文件"
 date:   2022-12-12
 tags: [print,低版本,vue,nb,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMSL 7.0 安装与使用指南"
+title: "IMSL 70 安装与使用指南"
 date:   2020-11-15
 tags: [IMSL,安装,7.0,gen,1e0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 2.6.1内核源码注释"
+title: "Linux 261内核源码注释"
 date:   2020-09-23
 tags: [内核,注释,源码,Linux,2.6]
 comments: true

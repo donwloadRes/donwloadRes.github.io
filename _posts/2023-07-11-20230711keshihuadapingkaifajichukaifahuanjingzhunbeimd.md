@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可视化大屏开发：基础开发环境准备"
+title: "可视化大屏开发基础开发环境准备"
 date:   2022-06-13
 tags: [开发,大屏,可视化,环境,指南]
 comments: true

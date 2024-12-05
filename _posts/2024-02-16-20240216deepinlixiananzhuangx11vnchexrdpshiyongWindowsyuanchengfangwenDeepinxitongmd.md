@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【deepin】离线安装x11vnc和xrdp，使用Windows远程访问Deepin系统"
+title: "deepin离线安装x11vnc和xrdp使用Windows远程访问Deepin系统"
 date:   2021-04-16
 tags: [x11vnc,xrdp,Windows,Deepin,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6标准例程-库函数版本"
+title: "STM32F407ZGT6标准例程库函数版本"
 date:   2023-03-09
 tags: [例程,STM32F407ZGT6,文档,外设,仓库]
 comments: true

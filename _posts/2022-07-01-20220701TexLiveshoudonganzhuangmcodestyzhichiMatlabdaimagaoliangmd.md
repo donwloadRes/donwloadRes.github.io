@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TexLive手动安装mcode.sty支持Matlab代码高亮"
+title: "TexLive手动安装mcodesty支持Matlab代码高亮"
 date:   2024-06-06
 tags: [mcode,sty,Matlab,TexLive,文档]
 comments: true

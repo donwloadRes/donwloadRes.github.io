@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kinetics-400数据集简介及下载"
+title: "Kinetics400数据集简介及下载"
 date:   2020-12-23
 tags: [400,Kinetics,compress,下载,tar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32与MPU-6050姿态角输出资源文件"
+title: "ESP32与MPU6050姿态角输出资源文件"
 date:   2022-09-05
 tags: [ESP32,MPU,6050,姿态,输出]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDY-31蓝牙模块串口配置与手机端工具使用指南"
+title: "JDY31蓝牙模块串口配置与手机端工具使用指南"
 date:   2020-07-19
 tags: [蓝牙,JDY,31,模块,接线]
 comments: true

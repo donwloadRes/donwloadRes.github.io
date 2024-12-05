@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 6.x 在 VMware 中安装及其基础配置(超详细)"
+title: "CentOS 6x 在 VMware 中安装及其基础配置超详细"
 date:   2021-10-31
 tags: [虚拟机,配置,点击,选择,安装]
 comments: true

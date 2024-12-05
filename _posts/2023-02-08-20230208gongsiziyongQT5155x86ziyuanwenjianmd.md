@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "公司自用 QT 5.15.5 x86 资源文件"
+title: "公司自用 QT 5155 x86 资源文件"
 date:   2024-04-08
 tags: [文件,QT,x86,资源,5.15]
 comments: true

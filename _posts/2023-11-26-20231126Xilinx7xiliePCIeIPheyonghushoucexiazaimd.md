@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx-7系列PCIe-IP核用户手册下载"
+title: "Xilinx7系列PCIeIP核用户手册下载"
 date:   2023-09-22
 tags: [PCIe,IP,手册,Xilinx,用户手册]
 comments: true

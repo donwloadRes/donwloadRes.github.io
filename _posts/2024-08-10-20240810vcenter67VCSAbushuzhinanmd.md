@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vcenter 6.7 (VCSA) 部署指南"
+title: "vcenter 67 VCSA 部署指南"
 date:   2020-11-10
 tags: [部署,配置,6.7,VCSA,指南]
 comments: true

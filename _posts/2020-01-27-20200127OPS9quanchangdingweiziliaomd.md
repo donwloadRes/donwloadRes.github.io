@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPS-9全场定位资料"
+title: "OPS9全场定位资料"
 date:   2023-09-25
 tags: [OPS,例程,机软件,说明书,上位]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#不规则图形分割可视化工具"
+title: "C不规则图形分割可视化工具"
 date:   2024-11-10
 tags: [矩形,内切,缩放,像素,分割]
 comments: true

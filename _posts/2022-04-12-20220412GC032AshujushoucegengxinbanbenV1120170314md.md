@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GC032A 数据手册 - 更新版本 V1.1 - 20170314"
+title: "GC032A 数据手册  更新版本 V11  20170314"
 date:   2020-08-28
 tags: [GC032A,10,低功耗,V1.1,20170314]
 comments: true

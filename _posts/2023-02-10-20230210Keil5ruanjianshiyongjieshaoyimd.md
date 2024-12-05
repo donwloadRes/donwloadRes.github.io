@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5软件使用介绍（一）"
+title: "Keil5软件使用介绍一"
 date:   2024-08-03
 tags: [Keil5,软件,安装,编译器,嵌入式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现KNN算法（附源码）"
+title: "Python实现KNN算法附源码"
 date:   2020-05-02
 tags: [KNN,算法,Python,源码,数据]
 comments: true

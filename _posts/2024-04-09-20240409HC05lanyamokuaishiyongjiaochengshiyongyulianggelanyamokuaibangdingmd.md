@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-05蓝牙模块使用教程（适用于两个蓝牙模块绑定）"
+title: "HC05蓝牙模块使用教程适用于两个蓝牙模块绑定"
 date:   2023-04-17
 tags: [蓝牙,从机,模块,绑定,主机]
 comments: true

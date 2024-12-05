@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "docker-compose一键部署环境包"
+title: "dockercompose一键部署环境包"
 date:   2021-10-01
 tags: [docker,compose,服务,Docker,部署]
 comments: true

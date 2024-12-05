@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synopsys-VCS安装指南"
+title: "SynopsysVCS安装指南"
 date:   2022-11-07
 tags: [VCS,安装,软件,Synopsys,Verdi]
 comments: true

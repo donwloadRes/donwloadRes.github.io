@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#基于TCP的Socket多线程通信示例"
+title: "C基于TCP的Socket多线程通信示例"
 date:   2024-09-28
 tags: [多线程,服务端,Socket,客户端,代码]
 comments: true

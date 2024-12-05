@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 窗体程序调用百度接口实现图片的文字识别"
+title: "C 窗体程序调用百度接口实现图片的文字识别"
 date:   2020-02-08
 tags: [百度,OCR,API,识别,Key]
 comments: true

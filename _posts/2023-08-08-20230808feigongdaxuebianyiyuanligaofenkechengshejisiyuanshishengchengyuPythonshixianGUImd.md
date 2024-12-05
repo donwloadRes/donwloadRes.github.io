@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "肥工大学编译原理高分课程设计：四元式生成与Python实现GUI"
+title: "肥工大学编译原理高分课程设计四元式生成与Python实现GUI"
 date:   2022-12-16
 tags: [四元,GUI,生成,项目,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse新建Java EE项目+配置Tomcat+部署项目教程"
+title: "Eclipse新建Java EE项目配置Tomcat部署项目教程"
 date:   2021-03-21
 tags: [Tomcat,项目,服务器,Eclipse,Java]
 comments: true

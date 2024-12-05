@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ikfast_c++逆运动学求解程序"
+title: "ikfastc逆运动学求解程序"
 date:   2021-11-06
 tags: [机器人,运动学,代码,ikfast,C++]
 comments: true

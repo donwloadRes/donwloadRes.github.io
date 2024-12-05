@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GraspNet for Win10 with Torch 1.12 and CUDA 11.6"
+title: "GraspNet for Win10 with Torch 112 and CUDA 116"
 date:   2022-03-04
 tags: [GraspNet,1.12,CUDA,11.6,模型]
 comments: true

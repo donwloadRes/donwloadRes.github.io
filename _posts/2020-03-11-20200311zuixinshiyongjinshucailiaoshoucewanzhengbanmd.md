@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新实用金属材料手册（完整版）"
+title: "最新实用金属材料手册完整版"
 date:   2020-07-11
 tags: [金属材料,手册,完整版,最新,实用]
 comments: true

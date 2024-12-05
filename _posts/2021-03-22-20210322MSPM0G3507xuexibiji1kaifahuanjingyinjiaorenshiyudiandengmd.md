@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSPM0G3507学习笔记1：开发环境-引脚认识与点灯"
+title: "MSPM0G3507学习笔记1开发环境引脚认识与点灯"
 date:   2022-04-04
 tags: [MSPM0G3507,引脚,笔记,单片机,点灯]
 comments: true

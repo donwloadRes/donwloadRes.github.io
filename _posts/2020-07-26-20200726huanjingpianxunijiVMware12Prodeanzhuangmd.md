@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "环境篇-虚拟机(VMware 12 Pro)的安装"
+title: "环境篇虚拟机VMware 12 Pro的安装"
 date:   2020-12-26
 tags: [VMware,12,Pro,Workstation,安装]
 comments: true

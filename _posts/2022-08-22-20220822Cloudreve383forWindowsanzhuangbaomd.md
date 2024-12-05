@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloudreve 3.8.3 for Windows 安装包"
+title: "Cloudreve 383 for Windows 安装包"
 date:   2024-09-30
 tags: [Cloudreve,3.8,安装包,Windows,安装程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer第四版【中文高清扫描版】.pdf"
+title: "C Primer第四版中文高清扫描版pdf"
 date:   2020-08-01
 tags: [C++,操作符,语句,容器,函数]
 comments: true

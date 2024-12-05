@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMTEmu v0.9.2 Painter 资源文件"
+title: "AMTEmu v092 Painter 资源文件"
 date:   2022-06-24
 tags: [v0.9,文件,AMTEmu,amtemu,painter.7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1+ESP8266(AT指令)+FreeRTOS实现温度和灯开关监测"
+title: "STM32F1ESP8266AT指令FreeRTOS实现温度和灯开关监测"
 date:   2021-03-25
 tags: [ESP8266,FreeRTOS,STM32F1,指令,阿里]
 comments: true

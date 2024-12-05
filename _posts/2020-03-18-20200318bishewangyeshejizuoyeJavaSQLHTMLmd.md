@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕设网页设计作业 - Java + SQL + HTML"
+title: "毕设网页设计作业  Java  SQL  HTML"
 date:   2020-05-27
 tags: [Java,HTML,SQL,数据库,网页]
 comments: true

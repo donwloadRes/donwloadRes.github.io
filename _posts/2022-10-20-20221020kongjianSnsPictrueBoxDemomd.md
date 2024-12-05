@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "控件-SnsPictrueBoxDemo"
+title: "控件SnsPictrueBoxDemo"
 date:   2022-06-23
 tags: [控件,SnsPictrueBoxDemo,图片,鼠标,拖动]
 comments: true

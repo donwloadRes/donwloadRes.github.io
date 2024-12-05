@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD79-4 DDR4 SDRAM 标准文档下载"
+title: "JESD794 DDR4 SDRAM 标准文档下载"
 date:   2021-11-21
 tags: [文档,DDR4,SDRAM,JESD79,下载]
 comments: true

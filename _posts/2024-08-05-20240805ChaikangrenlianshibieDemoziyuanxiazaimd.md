@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 海康人脸识别 Demo 资源下载"
+title: "C 海康人脸识别 Demo 资源下载"
 date:   2023-10-20
 tags: [Demo,人脸识别,海康,人脸,SDK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD7616_DEMO_sch+pcb+project 介绍"
+title: "AD7616DEMOschpcbproject 介绍"
 date:   2023-07-28
 tags: [AD7616,PCB,DEMO,原理图,项目]
 comments: true

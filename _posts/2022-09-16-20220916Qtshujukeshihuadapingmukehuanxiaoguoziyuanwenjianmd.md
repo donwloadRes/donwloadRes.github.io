@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt数据可视化：大屏幕科幻效果资源文件"
+title: "Qt数据可视化大屏幕科幻效果资源文件"
 date:   2021-08-01
 tags: [可视化,文件,Qt,大屏幕,科幻]
 comments: true

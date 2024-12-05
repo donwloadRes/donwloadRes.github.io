@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InfluxDB安装使用介绍（小白向）"
+title: "InfluxDB安装使用介绍小白向"
 date:   2021-09-27
 tags: [InfluxDB,安装包,可视化,安装,数据]
 comments: true

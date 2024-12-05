@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机VMware+Ubuntu系统的自定义安装教程"
+title: "虚拟机VMwareUbuntu系统的自定义安装教程"
 date:   2021-03-25
 tags: [VMware,Ubuntu,安装,教程,虚拟机]
 comments: true

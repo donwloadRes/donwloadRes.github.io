@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装VMware15.5+安装Win10虚拟机操作系统（非常详细）"
+title: "安装VMware155安装Win10虚拟机操作系统非常详细"
 date:   2024-05-30
 tags: [虚拟机,VMware,安装,Windows,10]
 comments: true

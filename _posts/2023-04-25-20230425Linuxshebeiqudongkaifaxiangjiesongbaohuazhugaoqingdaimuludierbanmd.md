@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux设备驱动开发详解_宋宝华著(高清带目录第二版)"
+title: "Linux设备驱动开发详解宋宝华著高清带目录第二版"
 date:   2020-05-22
 tags: [Linux,高清,宋宝华,目录,驱动]
 comments: true

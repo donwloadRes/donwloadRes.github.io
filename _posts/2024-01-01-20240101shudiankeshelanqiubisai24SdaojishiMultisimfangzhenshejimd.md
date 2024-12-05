@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-篮球比赛24S倒计时Multisim仿真设计"
+title: "数电课设篮球比赛24S倒计时Multisim仿真设计"
 date:   2020-12-06
 tags: [仿真,电路设计,Multisim,数字电路,设计]
 comments: true

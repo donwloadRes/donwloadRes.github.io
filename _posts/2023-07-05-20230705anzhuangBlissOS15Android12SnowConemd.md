@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Bliss OS 15（Android 12 SnowCone）"
+title: "安装Bliss OS 15Android 12 SnowCone"
 date:   2023-04-23
 tags: [Bliss,OS,安装,15,Android]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "父子进程交互演示：利用fork()创建多进程"
+title: "父子进程交互演示利用fork创建多进程"
 date:   2022-09-13
 tags: [进程,fork,forkExample,创建,printf]
 comments: true

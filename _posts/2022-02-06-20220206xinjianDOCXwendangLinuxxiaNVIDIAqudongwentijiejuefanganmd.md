@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新建 DOCX 文档 - Linux下NVIDIA驱动问题解决方案"
+title: "新建 DOCX 文档  Linux下NVIDIA驱动问题解决方案"
 date:   2021-07-10
 tags: [NVIDIA,文档,Linux,驱动,DOCX]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的温湿度检测报警器（数码管）"
+title: "基于STM32单片机的温湿度检测报警器数码管"
 date:   2022-04-06
 tags: [温湿度,单片机,数码管,STM32,Proteus]
 comments: true

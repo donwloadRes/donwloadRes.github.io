@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华科计算机组成原理实验 单总线CPU设计(定长指令周期3级时序)(HUST)解题报告"
+title: "华科计算机组成原理实验 单总线CPU设计定长指令周期3级时序HUST解题报告"
 date:   2024-08-30
 tags: [设计,单总线,CPU,时序,布线]
 comments: true

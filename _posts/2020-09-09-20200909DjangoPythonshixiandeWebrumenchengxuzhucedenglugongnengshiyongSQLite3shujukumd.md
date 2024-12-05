@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django+Python实现的Web入门程序：注册登录功能（使用SQLite3数据库）"
+title: "DjangoPython实现的Web入门程序注册登录功能使用SQLite3数据库"
 date:   2023-09-06
 tags: [py,SQLite3,数据库,Django,Python]
 comments: true

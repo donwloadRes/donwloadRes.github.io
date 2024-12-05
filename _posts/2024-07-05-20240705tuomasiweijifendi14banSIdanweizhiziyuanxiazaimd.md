@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "托马斯微积分第14版（SI单位制）资源下载"
+title: "托马斯微积分第14版SI单位制资源下载"
 date:   2021-12-24
 tags: [SI,14,单位制,微积分,托马斯]
 comments: true

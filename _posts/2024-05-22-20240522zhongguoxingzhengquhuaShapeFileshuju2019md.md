@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国行政区划ShapeFile数据（2019）"
+title: "中国行政区划ShapeFile数据2019"
 date:   2022-02-06
 tags: [ShapeFile,数据,2019,GIS,行政区划]
 comments: true

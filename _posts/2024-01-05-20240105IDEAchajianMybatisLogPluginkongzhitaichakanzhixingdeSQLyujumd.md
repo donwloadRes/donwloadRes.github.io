@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA插件—Mybatis Log Plugin（控制台查看执行的SQL语句）"
+title: "IDEA插件Mybatis Log Plugin控制台查看执行的SQL语句"
 date:   2021-05-10
 tags: [SQL,插件,Mybatis,IDEA,语句]
 comments: true

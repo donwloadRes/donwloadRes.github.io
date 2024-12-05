@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Compiler 5.06 for Keil 使用指南"
+title: "ARM Compiler 506 for Keil 使用指南"
 date:   2020-04-24
 tags: [编译器,ARM,Compiler,Keil,5.06]
 comments: true

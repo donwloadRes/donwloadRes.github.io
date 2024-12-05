@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Euro-NCAP测试标准2023"
+title: "EuroNCAP测试标准2023"
 date:   2021-03-16
 tags: [Euro,NCAP,测试,2023,标准]
 comments: true

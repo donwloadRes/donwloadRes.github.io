@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MP3-TF-16P模块使用说明书下载"
+title: "MP3TF16P模块使用说明书下载"
 date:   2022-01-08
 tags: [模块,MP3,TF,16P,说明书]
 comments: true

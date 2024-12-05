@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mingw-w64 -7.3.0版本百度网盘下载地址"
+title: "Mingww64 730版本百度网盘下载地址"
 date:   2024-09-05
 tags: [Mingw,w64,百度网,7.3,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RHEL 7.9 官方镜像ISO文件下载"
+title: "RHEL 79 官方镜像ISO文件下载"
 date:   2020-05-28
 tags: [文件,7.9,ISO,安装,镜像]
 comments: true

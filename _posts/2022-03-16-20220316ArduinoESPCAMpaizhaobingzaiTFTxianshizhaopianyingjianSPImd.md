@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino ESP-CAM拍照并在TFT显示照片（硬件SPI）"
+title: "Arduino ESPCAM拍照并在TFT显示照片硬件SPI"
 date:   2020-06-16
 tags: [CAM,SPI,拍照,TFT,硬件]
 comments: true

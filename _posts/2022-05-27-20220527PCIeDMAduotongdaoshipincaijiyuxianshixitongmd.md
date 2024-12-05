@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe-DMA多通道视频采集与显示系统"
+title: "PCIeDMA多通道视频采集与显示系统"
 date:   2023-09-18
 tags: [视频,DMA,多通道,PCIe,采集]
 comments: true

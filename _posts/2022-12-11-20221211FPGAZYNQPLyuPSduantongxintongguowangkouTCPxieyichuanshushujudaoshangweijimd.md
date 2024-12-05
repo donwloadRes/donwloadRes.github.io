@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA ZYNQ PL与PS端通信：通过网口TCP协议传输数据到上位机"
+title: "FPGA ZYNQ PL与PS端通信通过网口TCP协议传输数据到上位机"
 date:   2021-03-16
 tags: [PS,TCP,上位,PL,ZYNQ]
 comments: true

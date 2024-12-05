@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THD计算基于FFT: 正弦波、三角波、方波在STM32F103VET6上的实现"
+title: "THD计算基于FFT 正弦波三角波方波在STM32F103VET6上的实现"
 date:   2020-07-14
 tags: [THD,FFT,STM32F103VET6,方波,正弦波]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NumPy 1.22.4 + MKL 安装包下载"
+title: "NumPy 1224  MKL 安装包下载"
 date:   2022-12-27
 tags: [cp39,1.22,文件,numpy,mkl]
 comments: true

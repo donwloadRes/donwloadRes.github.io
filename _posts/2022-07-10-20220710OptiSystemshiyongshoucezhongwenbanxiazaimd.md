@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OptiSystem 使用手册（中文版）下载"
+title: "OptiSystem 使用手册中文版下载"
 date:   2021-07-13
 tags: [OptiSystem,中文版,使用手册,本手册,软件]
 comments: true

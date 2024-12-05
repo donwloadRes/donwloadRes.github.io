@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- ESP32智能环境监测（ESP32+云平台）"
+title: "物联网毕设  ESP32智能环境监测ESP32云平台"
 date:   2022-11-26
 tags: [ESP32,平台,数据,采集,联网]
 comments: true

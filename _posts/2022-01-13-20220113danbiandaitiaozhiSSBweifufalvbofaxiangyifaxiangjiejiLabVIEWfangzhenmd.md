@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单边带调制SSB维弗法-滤波法-相移法详解及LabVIEW仿真"
+title: "单边带调制SSB维弗法滤波法相移法详解及LabVIEW仿真"
 date:   2022-05-21
 tags: [调幅,仿真,维弗法,LabVIEW,单边]
 comments: true

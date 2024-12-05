@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PWM整流器及其控制（张崇巍，张兴著）资源下载"
+title: "PWM整流器及其控制张崇巍张兴著资源下载"
 date:   2023-08-05
 tags: [PWM,整流器,VSR,三相,CSR]
 comments: true

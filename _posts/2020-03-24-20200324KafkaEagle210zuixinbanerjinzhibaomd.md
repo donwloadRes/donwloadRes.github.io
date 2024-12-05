@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kafka-Eagle 2.1.0 最新版二进制包"
+title: "KafkaEagle 210 最新版二进制包"
 date:   2021-03-31
 tags: [Kafka,Eagle,2.1,解压,tar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++线程池经典实现方式Demo"
+title: "C线程池经典实现方式Demo"
 date:   2020-06-15
 tags: [线程,Demo,C++,经典,实现]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32连接MQTT服务器（基于Arduino环境）资源文件介绍"
+title: "ESP32连接MQTT服务器基于Arduino环境资源文件介绍"
 date:   2022-03-30
 tags: [MQTT,ESP32,服务器,Arduino,连接]
 comments: true

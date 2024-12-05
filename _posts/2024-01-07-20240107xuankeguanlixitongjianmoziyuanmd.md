@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "选课管理系统建模资源"
+title: "选课管理系统建模资源
+date   20211122
+tags 选课用例管理系统UML成绩
+comments true
+author admin
+
+
+layout post
+title 选课管理系统建模资源"
 date:   2021-11-22
 tags: [选课,用例,管理系统,UML,成绩]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "选课管理系统建模资源"
+title: "选课管理系统建模资源
+date   20211122
+tags 选课用例管理系统UML成绩
+comments true
+author admin
+
+
+layout post
+title 选课管理系统建模资源"
 date:   2021-01-16
 tags: [选课,用例,UML,管理系统,成绩]
 comments: true

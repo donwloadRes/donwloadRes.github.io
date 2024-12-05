@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光刻技术概述 - 中科大内部课程资源下载"
+title: "光刻技术概述  中科大内部课程资源下载"
 date:   2023-04-23
 tags: [光刻,技术,课程,中科大,工艺]
 comments: true

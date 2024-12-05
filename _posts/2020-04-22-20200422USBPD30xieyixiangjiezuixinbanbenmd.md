@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD3.0协议详解 最新版本"
+title: "USB PD30协议详解 最新版本"
 date:   2024-02-29
 tags: [USB,文件,PD3.0,PD,R3]
 comments: true

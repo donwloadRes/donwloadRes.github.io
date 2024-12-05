@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA Web + MySQL 学生信息管理系统"
+title: "JAVA Web  MySQL 学生信息管理系统"
 date:   2021-12-25
 tags: [数据库,Web,项目,开发,JAVA]
 comments: true

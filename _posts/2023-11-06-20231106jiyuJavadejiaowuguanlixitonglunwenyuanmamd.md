@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的教务管理系统 (论文+源码)"
+title: "基于Java的教务管理系统 论文源码"
 date:   2021-09-28
 tags: [模块,教务,Java,选课,管理系统]
 comments: true

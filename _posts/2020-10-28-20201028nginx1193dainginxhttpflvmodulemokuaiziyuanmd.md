@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nginx-1.19.3带nginx-http-flv-module模块资源"
+title: "nginx1193带nginxhttpflvmodule模块资源"
 date:   2023-02-10
 tags: [nginx,http,flv,module,1.19]
 comments: true

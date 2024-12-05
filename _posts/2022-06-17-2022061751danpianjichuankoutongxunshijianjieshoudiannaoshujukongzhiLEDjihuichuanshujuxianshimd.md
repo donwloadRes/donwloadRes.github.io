@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51 单片机串口通讯实践：接收电脑数据控制 LED 及回传数据显示"
+title: "51 单片机串口通讯实践接收电脑数据控制 LED 及回传数据显示"
 date:   2022-03-20
 tags: [串口,单片机,LED,51,引脚]
 comments: true

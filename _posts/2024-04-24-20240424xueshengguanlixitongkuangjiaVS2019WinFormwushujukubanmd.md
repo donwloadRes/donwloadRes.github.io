@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生管理系统框架 (VS2019 + WinForm + 无数据库版)"
+title: "学生管理系统框架 VS2019  WinForm  无数据库版"
 date:   2020-08-20
 tags: [txt,学生,教师,数据库,密码]
 comments: true

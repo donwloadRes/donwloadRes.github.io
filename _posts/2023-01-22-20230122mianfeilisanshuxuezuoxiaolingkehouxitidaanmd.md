@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费——离散数学（左孝凌）课后习题答案"
+title: "免费离散数学左孝凌课后习题答案"
 date:   2023-05-04
 tags: [习题,离散数学,课后,答案,章节]
 comments: true

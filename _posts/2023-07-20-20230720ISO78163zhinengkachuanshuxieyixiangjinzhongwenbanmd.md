@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO7816-3智能卡传输协议详尽中文版"
+title: "ISO78163智能卡传输协议详尽中文版"
 date:   2024-01-16
 tags: [智能卡,ISO7816,传输,详尽,中文版]
 comments: true

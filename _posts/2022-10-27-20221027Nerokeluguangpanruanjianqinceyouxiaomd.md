@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nero刻录光盘软件-亲测有效"
+title: "Nero刻录光盘软件亲测有效"
 date:   2023-11-30
 tags: [Nero,软件,刻录,安装包,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Matlab实现美颜功能（双边滤波器）"
+title: "使用Matlab实现美颜功能双边滤波器"
 date:   2023-11-17
 tags: [tempsize,滤波器,美颜,Img,filter]
 comments: true

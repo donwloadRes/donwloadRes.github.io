@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 高级教程"
+title: "Cadence Allegro 166 高级教程"
 date:   2022-02-09
 tags: [Allegro,教程,设计,Cadence,高级]
 comments: true

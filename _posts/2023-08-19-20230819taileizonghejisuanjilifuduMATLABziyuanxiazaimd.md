@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泰勒综合计算激励幅度（MATLAB）资源下载"
+title: "泰勒综合计算激励幅度MATLAB资源下载"
 date:   2020-12-10
 tags: [MATLAB,激励,泰勒,代码,幅度]
 comments: true

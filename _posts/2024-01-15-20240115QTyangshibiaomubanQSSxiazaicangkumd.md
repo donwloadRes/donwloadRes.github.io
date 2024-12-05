@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT样式表模板（QSS）下载仓库"
+title: "QT样式表模板QSS下载仓库"
 date:   2021-10-01
 tags: [QSS,QT,样式表,模板,文件]
 comments: true

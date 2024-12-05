@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA卡GP规范最新版 v2.3.1（目录部分中英对照版）"
+title: "JAVA卡GP规范最新版 v231目录部分中英对照版"
 date:   2023-09-20
 tags: [中英对照,JAVA,GP,最新版,资源]
 comments: true

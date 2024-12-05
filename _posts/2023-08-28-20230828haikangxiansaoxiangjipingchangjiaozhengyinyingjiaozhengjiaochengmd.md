@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康线扫相机平场校正-阴影校正教程"
+title: "海康线扫相机平场校正阴影校正教程"
 date:   2024-09-03
 tags: [校正,平场,图像,相机,线扫]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gat1400：基于SpringBoot的GAT-1400协议快速对接方案"
+title: "gat1400基于SpringBoot的GAT1400协议快速对接方案"
 date:   2023-12-18
 tags: [gat1400,对接,视频,SpringBoot,GAT]
 comments: true

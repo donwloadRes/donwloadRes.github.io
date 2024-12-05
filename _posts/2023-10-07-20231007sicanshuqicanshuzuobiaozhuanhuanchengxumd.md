@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四参数、七参数坐标转换程序"
+title: "四参数七参数坐标转换程序"
 date:   2023-06-03
 tags: [参数,坐标,程序,转换,反算]
 comments: true

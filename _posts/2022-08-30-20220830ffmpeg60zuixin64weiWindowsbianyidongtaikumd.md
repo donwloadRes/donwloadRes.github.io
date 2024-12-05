@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ffmpeg6.0最新64位Windows编译动态库"
+title: "ffmpeg60最新64位Windows编译动态库"
 date:   2022-11-19
 tags: [编译,Windows,ffmpeg,64,动态]
 comments: true

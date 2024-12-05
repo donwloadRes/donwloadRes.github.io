@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 0.01版本内核源代码+详细解释说明"
+title: "Linux 001版本内核源代码详细解释说明"
 date:   2021-08-17
 tags: [Linux,内核,源代码,0.01,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN多帧收发源码（STM32）说明文档"
+title: "CAN多帧收发源码STM32说明文档"
 date:   2022-11-29
 tags: [STM32,源码,通讯,收发,代码]
 comments: true

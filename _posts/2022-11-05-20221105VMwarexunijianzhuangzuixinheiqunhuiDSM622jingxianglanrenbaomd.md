@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装最新黑群晖DSM6.2.2镜像懒人包"
+title: "VMware虚拟机安装最新黑群晖DSM622镜像懒人包"
 date:   2023-08-17
 tags: [安装,虚拟机,黑群晖,磁盘,VMware]
 comments: true

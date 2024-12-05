@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC 51单片机经典实例程序100例(含仿真文件)"
+title: "STC 51单片机经典实例程序100例含仿真文件"
 date:   2022-03-08
 tags: [单片机,实例,仿真,100,程序]
 comments: true

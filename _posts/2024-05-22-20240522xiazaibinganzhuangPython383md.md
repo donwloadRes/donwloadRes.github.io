@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载并安装Python 3.8.3"
+title: "下载并安装Python 383"
 date:   2020-12-22
 tags: [Python,3.8,安装,下载,文档]
 comments: true

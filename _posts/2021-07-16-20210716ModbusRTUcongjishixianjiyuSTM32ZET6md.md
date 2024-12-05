@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus RTU 从机实现（基于STM32ZET6）"
+title: "Modbus RTU 从机实现基于STM32ZET6"
 date:   2024-03-03
 tags: [Modbus,从机,STM32ZET6,RTU,STM32]
 comments: true

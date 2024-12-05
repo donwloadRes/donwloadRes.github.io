@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ensemble - Vicetone MP3 下载资源介绍"
+title: "Ensemble  Vicetone MP3 下载资源介绍"
 date:   2023-07-11
 tags: [Ensemble,Vicetone,MP3,音乐文件,下载]
 comments: true

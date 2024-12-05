@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浙江大学_翁恺_c++_课件和源代码"
+title: "浙江大学翁恺c课件和源代码"
 date:   2023-07-09
 tags: [C++,翁恺,课件,学习,源代码]
 comments: true

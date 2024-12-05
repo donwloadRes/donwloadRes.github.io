@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "课程设计：基于Java的超级玛丽游戏的设计与实现"
+title: "课程设计基于Java的超级玛丽游戏的设计与实现"
 date:   2023-10-21
 tags: [游戏,Java,源码,超级玛丽,课程设计]
 comments: true

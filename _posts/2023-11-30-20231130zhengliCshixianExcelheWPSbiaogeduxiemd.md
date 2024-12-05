@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "整理C++实现Excel和WPS表格读写"
+title: "整理C实现Excel和WPS表格读写"
 date:   2022-03-17
 tags: [WPS,表格,Excel,C++,开发者]
 comments: true

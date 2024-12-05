@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华中科技大学计算机组成原理实验报告-CPU设计实验"
+title: "华中科技大学计算机组成原理实验报告CPU设计实验"
 date:   2022-12-02
 tags: [实验,CPU,实验报告,设计,华中科技大学]
 comments: true

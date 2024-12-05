@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字孪生灌区建设技术指南（试行）下载"
+title: "数字孪生灌区建设技术指南试行下载"
 date:   2021-07-25
 tags: [孪生,灌区,指南,试行,数字]
 comments: true

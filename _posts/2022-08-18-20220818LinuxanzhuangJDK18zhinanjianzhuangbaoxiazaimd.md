@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装JDK1.8指南及安装包下载"
+title: "Linux安装JDK18指南及安装包下载"
 date:   2024-02-06
 tags: [JDK,export,安装包,1.8,安装]
 comments: true

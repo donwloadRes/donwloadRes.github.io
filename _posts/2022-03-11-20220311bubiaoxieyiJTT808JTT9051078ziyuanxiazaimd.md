@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "部标协议JTT808-JTT905-1078资源下载"
+title: "部标协议JTT808JTT9051078资源下载"
 date:   2022-08-31
 tags: [JTT808,下载,部标,JTT905,1078]
 comments: true

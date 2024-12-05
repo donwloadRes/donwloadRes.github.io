@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 对 XML 文件读写教程及示例"
+title: "C 对 XML 文件读写教程及示例"
 date:   2022-10-14
 tags: [XML,C#,doc,文件,示例]
 comments: true

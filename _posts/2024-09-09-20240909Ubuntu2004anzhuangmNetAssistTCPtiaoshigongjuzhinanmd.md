@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu20.04 安装mNetAssist TCP调试工具指南"
+title: "Ubuntu2004 安装mNetAssist TCP调试工具指南"
 date:   2020-04-29
 tags: [mNetAssist,sudo,apt,安装,调试]
 comments: true

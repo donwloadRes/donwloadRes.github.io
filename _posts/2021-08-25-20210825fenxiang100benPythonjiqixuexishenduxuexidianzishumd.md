@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享100本Python机器学习、深度学习电子书"
+title: "分享100本Python机器学习深度学习电子书"
 date:   2023-02-27
 tags: [学习,Python,电子书,深度,机器]
 comments: true

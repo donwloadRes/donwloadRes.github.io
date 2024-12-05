@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS FLUENT官方培训教程【完整版】下载仓库"
+title: "ANSYS FLUENT官方培训教程完整版下载仓库"
 date:   2020-02-03
 tags: [教程,ANSYS,FLUENT,完整版,官方]
 comments: true

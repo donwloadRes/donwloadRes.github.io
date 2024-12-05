@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C-HCL大规模路由综合实验资源下载"
+title: "H3CHCL大规模路由综合实验资源下载"
 date:   2020-03-24
 tags: [实验,路由,H3C,HCL,大规模]
 comments: true

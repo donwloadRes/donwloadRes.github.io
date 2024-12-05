@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题及答案整理（2023年最新版）"
+title: "Java面试题及答案整理2023年最新版"
 date:   2021-12-24
 tags: [Java,答案,面试,面试题,2023]
 comments: true

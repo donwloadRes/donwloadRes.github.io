@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANeds 3.6.92 - 专业CAN总线EDS编辑与调试工具"
+title: "CANeds 3692  专业CAN总线EDS编辑与调试工具"
 date:   2020-11-05
 tags: [EDS,92,总线,CANeds,3.6]
 comments: true

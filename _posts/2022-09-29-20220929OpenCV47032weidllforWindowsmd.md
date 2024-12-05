@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.7.0 32位dll for Windows"
+title: "OpenCV 470 32位dll for Windows"
 date:   2021-01-09
 tags: [dll,OpenCV,Windows,32,4.7]
 comments: true

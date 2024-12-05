@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRC校验工具(CRC8, CRC16, CRC32)"
+title: "CRC校验工具CRC8 CRC16 CRC32"
 date:   2020-02-21
 tags: [CRC,16,校验,算法,MODBUS]
 comments: true

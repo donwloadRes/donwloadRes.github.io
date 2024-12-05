@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacOS Apple silicon Postman 9.12.2 Mac版"
+title: "MacOS Apple silicon Postman 9122 Mac版"
 date:   2024-05-16
 tags: [Postman,Apple,zip,版本,芯片]
 comments: true

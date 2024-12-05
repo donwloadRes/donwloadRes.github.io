@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "springboot医院导诊服务平台的研究与实现071732（附源码+数据库）"
+title: "springboot医院导诊服务平台的研究与实现071732附源码数据库"
 date:   2022-12-17
 tags: [数据库,导诊,医院,管理,医疗]
 comments: true

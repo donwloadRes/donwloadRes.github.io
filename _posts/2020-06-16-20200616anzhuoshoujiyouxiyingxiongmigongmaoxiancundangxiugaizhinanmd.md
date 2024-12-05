@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓手机游戏英雄迷宫冒险》存档修改指南"
+title: "安卓手机游戏英雄迷宫冒险存档修改指南"
 date:   2023-09-13
 tags: [修改,存档,游戏,素材,安卓]
 comments: true

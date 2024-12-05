@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "子比主题ACG美化插件[全开源]"
+title: "子比主题ACG美化插件全开源"
 date:   2024-08-05
 tags: [插件,网站,ACG,美化,WordPress]
 comments: true

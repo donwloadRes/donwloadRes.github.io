@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb毕业设计-智能家居（MQTT）物联网"
+title: "JavaWeb毕业设计智能家居MQTT物联网"
 date:   2021-03-04
 tags: [客户端,服务器,MQTT,智能家居,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全知识竞赛题库（有答案）"
+title: "网络安全知识竞赛题库有答案"
 date:   2022-03-09
 tags: [网络安全,题库,竞赛,知识,答案]
 comments: true

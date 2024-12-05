@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基于FFmpeg的音频解码和播放"
+title: "C基于FFmpeg的音频解码和播放"
 date:   2020-09-24
 tags: [音频,解码,FFmpeg,播放,音频文件]
 comments: true

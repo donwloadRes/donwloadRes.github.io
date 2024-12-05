@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你激活Airserver 7.2.6（Mac-Win专用投屏工具）"
+title: "手把手教你激活Airserver 726MacWin专用投屏工具"
 date:   2022-04-16
 tags: [AirServer,Mac,iOS,7.2,投屏]
 comments: true

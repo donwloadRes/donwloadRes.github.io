@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 离线安装Perl-IPC-Cmd模块指南"
+title: "Linux 离线安装PerlIPCCmd模块指南"
 date:   2023-04-19
 tags: [Cmd,IPC,模块,Perl,perl]
 comments: true

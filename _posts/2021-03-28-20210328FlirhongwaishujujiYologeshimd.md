@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flir红外数据集（Yolo格式）"
+title: "Flir红外数据集Yolo格式"
 date:   2020-11-03
 tags: [数据,Yolo,格式,红外,Flir]
 comments: true

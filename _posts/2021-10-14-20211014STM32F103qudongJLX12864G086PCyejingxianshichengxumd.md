@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103驱动JLX12864G-086-PC液晶显示程序"
+title: "STM32F103驱动JLX12864G086PC液晶显示程序"
 date:   2022-07-16
 tags: [STM32F103,JLX12864G,086,PC,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单项锁相环MATLAB Simulink仿真及C语言S-Function实现"
+title: "单项锁相环MATLAB Simulink仿真及C语言SFunction实现"
 date:   2021-10-08
 tags: [仿真,C语言,锁相环,Function,MATLAB]
 comments: true

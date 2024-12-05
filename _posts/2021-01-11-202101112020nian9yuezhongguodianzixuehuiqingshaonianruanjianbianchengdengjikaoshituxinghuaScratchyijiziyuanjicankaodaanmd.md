@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020年9月中国电子学会青少年软件编程等级考试（图形化Scratch一级）资源及参考答案"
+title: "2020年9月中国电子学会青少年软件编程等级考试图形化Scratch一级资源及参考答案"
 date:   2024-11-30
 tags: [参考答案,真题,Scratch,资源库,编程]
 comments: true

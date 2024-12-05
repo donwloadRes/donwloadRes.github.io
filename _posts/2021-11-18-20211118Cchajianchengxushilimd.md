@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#插件程序示例"
+title: "C插件程序示例"
 date:   2021-02-16
 tags: [插件,示例,C#,程序,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密算法 SM2_SM3_SM4 C语言实现"
+title: "国密算法 SM2SM3SM4 C语言实现"
 date:   2020-05-18
 tags: [算法,国密,SM2,SM3,SM4]
 comments: true

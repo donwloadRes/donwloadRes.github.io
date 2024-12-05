@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图灵面试宝典（最新版）- 重点资源下载"
+title: "图灵面试宝典最新版 重点资源下载"
 date:   2023-12-16
 tags: [面试,最新版,Java,图灵,宝典]
 comments: true

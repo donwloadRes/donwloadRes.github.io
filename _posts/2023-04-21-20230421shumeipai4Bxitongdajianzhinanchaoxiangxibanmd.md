@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派4B系统搭建指南（超详细版）"
+title: "树莓派4B系统搭建指南超详细版"
 date:   2022-06-30
 tags: [树莓,TF,烧录,4B,系统]
 comments: true

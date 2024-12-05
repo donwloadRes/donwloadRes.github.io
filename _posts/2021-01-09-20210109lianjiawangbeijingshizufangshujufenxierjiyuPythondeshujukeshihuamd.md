@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "链家网北京市租房数据分析（二）——基于Python的数据可视化"
+title: "链家网北京市租房数据分析二基于Python的数据可视化"
 date:   2022-06-18
 tags: [可视化,租房,租金,链家网,Python]
 comments: true

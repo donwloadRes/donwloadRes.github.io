@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十五届蓝桥选拔赛Scratch 2023-08-20 STEMA编程题素材及参考代码"
+title: "十五届蓝桥选拔赛Scratch 20230820 STEMA编程题素材及参考代码"
 date:   2023-07-08
 tags: [参考,编程,代码,素材,题目]
 comments: true

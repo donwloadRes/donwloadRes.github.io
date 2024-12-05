@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DWC_pcie_ref.pdf 读我文件"
+title: "DWCpcierefpdf 读我文件"
 date:   2020-09-21
 tags: [DWC,PCIe,pcie,ref,pdf]
 comments: true

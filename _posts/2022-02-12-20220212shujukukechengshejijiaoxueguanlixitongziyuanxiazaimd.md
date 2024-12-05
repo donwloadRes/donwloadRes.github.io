@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计（教学管理系统）资源下载"
+title: "数据库课程设计教学管理系统资源下载"
 date:   2021-07-28
 tags: [数据库,课程设计,SQLServer,项目,导入]
 comments: true

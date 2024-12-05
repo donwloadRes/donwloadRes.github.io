@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+Open CV的手势识别算法设计源代码材料"
+title: "基于PythonOpen CV的手势识别算法设计源代码材料"
 date:   2023-12-20
 tags: [手势,识别,图像,摄像头,PyCharm]
 comments: true

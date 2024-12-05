@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT之TCP网络数据（文本和图像数据）传输"
+title: "QT之TCP网络数据文本和图像数据传输"
 date:   2024-05-21
 tags: [图像,Qt,文本,网络,TCP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生打印机WF-7720清零软件下载"
+title: "爱普生打印机WF7720清零软件下载"
 date:   2021-02-05
 tags: [清零,图解,软件,爱普生,WF]
 comments: true

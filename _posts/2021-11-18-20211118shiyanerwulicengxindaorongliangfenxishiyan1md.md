@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验二：物理层信道容量分析实验1"
+title: "实验二物理层信道容量分析实验1"
 date:   2023-09-10
 tags: [信道容量,实验,物理层,CVX,优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SequenceDiagram 3.0.5 资源包"
+title: "SequenceDiagram 305 资源包"
 date:   2024-01-18
 tags: [序列图,3.0,SequenceDiagram,文档,zip]
 comments: true

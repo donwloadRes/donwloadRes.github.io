@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟v10安装MySQL5.7"
+title: "银河麒麟v10安装MySQL57"
 date:   2023-08-29
 tags: [MySQL,mysql,5.7,安装,命令]
 comments: true

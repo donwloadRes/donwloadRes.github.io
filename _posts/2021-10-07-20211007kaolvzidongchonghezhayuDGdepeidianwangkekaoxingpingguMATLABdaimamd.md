@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考虑自动重合闸与DG的配电网可靠性评估(MATLAB代码)"
+title: "考虑自动重合闸与DG的配电网可靠性评估MATLAB代码"
 date:   2022-05-29
 tags: [MATLAB,可靠性,重合,代码,配电网]
 comments: true

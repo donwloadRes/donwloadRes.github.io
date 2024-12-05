@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix 6.4 添加 Esxi 7.0 步骤及内存使用率、存储使用率配置指南"
+title: "Zabbix 64 添加 Esxi 70 步骤及内存使用率存储使用率配置指南"
 date:   2020-12-06
 tags: [使用率,Zabbix,Esxi,7.0,内存]
 comments: true

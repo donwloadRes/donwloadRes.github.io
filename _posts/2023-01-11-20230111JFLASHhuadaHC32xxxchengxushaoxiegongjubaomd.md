@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-FLASH 华大 HC32xxx 程序烧写工具包"
+title: "JFLASH 华大 HC32xxx 程序烧写工具包"
 date:   2023-11-19
 tags: [FLASH,华大,烧写,系列,MCU]
 comments: true

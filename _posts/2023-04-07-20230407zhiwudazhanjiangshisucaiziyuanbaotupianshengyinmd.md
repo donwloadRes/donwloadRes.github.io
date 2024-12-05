@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸素材资源包（图片-声音）"
+title: "植物大战僵尸素材资源包图片声音"
 date:   2022-11-29
 tags: [僵尸,资源,图片,植物,素材]
 comments: true

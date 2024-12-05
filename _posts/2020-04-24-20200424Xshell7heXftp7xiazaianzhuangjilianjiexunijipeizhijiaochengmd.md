@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell7 和 Xftp7 下载、安装及连接虚拟机配置教程"
+title: "Xshell7 和 Xftp7 下载安装及连接虚拟机配置教程"
 date:   2023-09-09
 tags: [虚拟机,安装,配置,下载,Xshell7]
 comments: true

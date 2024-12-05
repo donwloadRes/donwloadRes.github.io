@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 离线安装 SSH 指南"
+title: "Ubuntu 1804 离线安装 SSH 指南"
 date:   2023-03-10
 tags: [SSH,deb,ssh,安装,bash]
 comments: true

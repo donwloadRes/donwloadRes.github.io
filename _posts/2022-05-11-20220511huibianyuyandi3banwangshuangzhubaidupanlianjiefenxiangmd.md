@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言（第3版王爽著）》百度盘链接分享"
+title: "汇编语言第3版王爽著百度盘链接分享"
 date:   2024-08-03
 tags: [汇编语言,版王,爽著,链接,百度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050姿态解算STM32源码(互补滤波)"
+title: "MPU6050姿态解算STM32源码互补滤波"
 date:   2021-01-01
 tags: [STM32,MPU6050,解算,滤波,姿态]
 comments: true

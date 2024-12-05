@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPCOMM Delphi XE 10.4 兼容版"
+title: "SPCOMM Delphi XE 104 兼容版"
 date:   2020-09-07
 tags: [插件,Delphi,SPCOMM,XE,10.4]
 comments: true

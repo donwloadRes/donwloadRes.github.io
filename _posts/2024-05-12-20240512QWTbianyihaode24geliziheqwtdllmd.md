@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QWT编译好的24个例子和qwt.dll"
+title: "QWT编译好的24个例子和qwtdll"
 date:   2021-02-06
 tags: [示例,QWT,qwt,dll,程序]
 comments: true

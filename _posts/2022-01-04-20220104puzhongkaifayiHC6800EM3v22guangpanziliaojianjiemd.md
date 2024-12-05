@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普中开发仪 HC6800EM3-v22 光盘资料简介"
+title: "普中开发仪 HC6800EM3v22 光盘资料简介"
 date:   2023-07-30
 tags: [HC6800EM3,v22,资料,开发,普中]
 comments: true

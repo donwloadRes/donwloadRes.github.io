@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeIDE实现基于STM32的LoRa通信程序移植（SPI接口）"
+title: "STM32CubeIDE实现基于STM32的LoRa通信程序移植SPI接口"
 date:   2022-02-19
 tags: [LoRa,STM32,移植,开发,STM32CubeIDE]
 comments: true

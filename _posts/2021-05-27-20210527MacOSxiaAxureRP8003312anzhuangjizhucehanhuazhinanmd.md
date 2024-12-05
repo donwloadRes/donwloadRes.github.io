@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac OS下Axure RP 8.0.0.3312安装及注册&汉化指南"
+title: "Mac OS下Axure RP 8003312安装及注册汉化指南"
 date:   2021-03-21
 tags: [Axure,RP,安装,Mac,汉化]
 comments: true

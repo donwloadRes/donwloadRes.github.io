@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ke2700-DAQ6510测试软件安装包"
+title: "Ke2700DAQ6510测试软件安装包"
 date:   2021-06-05
 tags: [测试软件,Ke2700,DAQ6510,软件,实时]
 comments: true

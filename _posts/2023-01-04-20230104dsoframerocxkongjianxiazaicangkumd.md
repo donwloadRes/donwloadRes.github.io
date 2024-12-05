@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dsoframer.ocx控件下载仓库"
+title: "dsoframerocx控件下载仓库"
 date:   2024-03-26
 tags: [控件,Office,dsoframer,ocx,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# H264 格式视频解码"
+title: "C H264 格式视频解码"
 date:   2024-05-08
 tags: [解码,YUV,格式,文件,H264]
 comments: true

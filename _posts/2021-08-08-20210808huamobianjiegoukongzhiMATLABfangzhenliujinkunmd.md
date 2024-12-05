@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "滑模变结构控制MATLAB仿真（刘金锟）"
+title: "滑模变结构控制MATLAB仿真刘金锟"
 date:   2020-03-31
 tags: [仿真,MATLAB,滑模变,控制,刘金锟]
 comments: true

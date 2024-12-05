@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件工程师面经整理1-器件篇"
+title: "硬件工程师面经整理1器件篇"
 date:   2020-05-05
 tags: [三极管,工程师,硬件,器件,场效应管]
 comments: true

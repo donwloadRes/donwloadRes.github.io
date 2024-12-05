@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab的结构光三维重建（相移法）"
+title: "基于Matlab的结构光三维重建相移法"
 date:   2021-12-10
 tags: [相移,解包,Matlab,三维重建,代码]
 comments: true

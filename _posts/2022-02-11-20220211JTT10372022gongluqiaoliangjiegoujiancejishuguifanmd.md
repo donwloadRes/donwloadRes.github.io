@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTT 1037-2022 公路桥梁结构监测技术规范"
+title: "JTT 10372022 公路桥梁结构监测技术规范"
 date:   2021-01-18
 tags: [监测,2022,桥梁,规范,监测技术]
 comments: true

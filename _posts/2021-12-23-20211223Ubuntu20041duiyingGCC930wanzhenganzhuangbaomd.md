@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.1 对应 GCC-9.3.0 完整安装包"
+title: "Ubuntu 20041 对应 GCC930 完整安装包"
 date:   2021-07-24
 tags: [9.3,GCC,安装,文件,gcc]
 comments: true

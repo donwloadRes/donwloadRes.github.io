@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kinetics-Skeleton-Val-Sample 介绍"
+title: "KineticsSkeletonValSample 介绍"
 date:   2020-01-06
 tags: [数据,Kinetics,示例,Skeleton,骨架]
 comments: true

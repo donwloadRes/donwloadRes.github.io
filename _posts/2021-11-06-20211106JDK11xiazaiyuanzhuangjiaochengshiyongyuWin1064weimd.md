@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK11下载与安装教程（适用于Win10 64位）"
+title: "JDK11下载与安装教程适用于Win10 64位"
 date:   2023-06-07
 tags: [安装,JDK11,Java,环境变量,教程]
 comments: true

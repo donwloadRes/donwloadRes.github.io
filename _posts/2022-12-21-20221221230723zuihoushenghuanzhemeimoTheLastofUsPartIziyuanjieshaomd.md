@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【23.07.23】最后生还者-美末-The Last of Us™ Part I 资源介绍"
+title: "230723最后生还者美末The Last of Us Part I 资源介绍"
 date:   2021-07-11
 tags: [生还者,下载,美末,游戏,资源]
 comments: true

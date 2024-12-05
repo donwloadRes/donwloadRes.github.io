@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jxbrowser-6.21.jar 资源文件介绍"
+title: "jxbrowser621jar 资源文件介绍"
 date:   2023-08-24
 tags: [jxbrowser,6.21,jar,frame,浏览器]
 comments: true

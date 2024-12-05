@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUCK-BOOST双闭环电压电流设计资源文件"
+title: "BUCKBOOST双闭环电压电流设计资源文件"
 date:   2024-02-09
 tags: [BUCK,BOOST,电路,文档,闭环]
 comments: true

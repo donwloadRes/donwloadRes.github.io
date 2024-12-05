@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "傅里叶变换》资源下载"
+title: "傅里叶变换资源下载"
 date:   2023-04-16
 tags: [变换,傅里叶,下载,离散,仓库]
 comments: true

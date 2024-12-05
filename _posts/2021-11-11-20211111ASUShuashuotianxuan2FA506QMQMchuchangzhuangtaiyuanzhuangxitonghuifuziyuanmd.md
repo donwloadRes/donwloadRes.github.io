@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕天选2 FA506QM-QM出厂状态原装系统恢复资源"
+title: "ASUS华硕天选2 FA506QMQM出厂状态原装系统恢复资源"
 date:   2024-07-11
 tags: [华硕,天选,系统,原装,出厂]
 comments: true

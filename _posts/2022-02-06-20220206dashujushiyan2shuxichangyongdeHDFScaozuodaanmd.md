@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据实验2：熟悉常用的 HDFS 操作 答案"
+title: "大数据实验2熟悉常用的 HDFS 操作 答案"
 date:   2024-01-31
 tags: [HDFS,实验,操作,答案,参考答案]
 comments: true

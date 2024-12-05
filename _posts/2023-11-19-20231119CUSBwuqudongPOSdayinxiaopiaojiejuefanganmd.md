@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB 无驱动 POS 打印小票解决方案"
+title: "C USB 无驱动 POS 打印小票解决方案"
 date:   2023-07-08
 tags: [POS,USB,C#,打印机,打印]
 comments: true

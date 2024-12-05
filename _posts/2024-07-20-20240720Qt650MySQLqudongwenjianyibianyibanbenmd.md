@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt6.5.0 MySQL驱动文件已编译版本"
+title: "Qt650 MySQL驱动文件已编译版本"
 date:   2023-11-24
 tags: [qsqlmysql,lib,驱动,文件,dll]
 comments: true

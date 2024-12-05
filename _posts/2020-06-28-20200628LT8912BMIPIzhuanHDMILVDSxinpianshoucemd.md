@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT8912B MIPI转HDMI-LVDS芯片手册"
+title: "LT8912B MIPI转HDMILVDS芯片手册"
 date:   2024-04-12
 tags: [手册,芯片,LT8912B,MIPI,HDMI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 5.4.1 完整版下载仓库"
+title: "Gradle 541 完整版下载仓库"
 date:   2021-04-06
 tags: [解压,文件,下载,Gradle,5.4]
 comments: true

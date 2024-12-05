@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HX711官方资料(海芯)1"
+title: "HX711官方资料海芯1"
 date:   2022-08-04
 tags: [HX711,芯片,电子秤,文档,资料]
 comments: true

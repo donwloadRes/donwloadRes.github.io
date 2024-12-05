@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF+Mvvmlight 简单导航实例"
+title: "WPFMvvmlight 简单导航实例"
 date:   2023-03-23
 tags: [WPF,Mvvmlight,实例,导航,项目]
 comments: true

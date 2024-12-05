@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研究生数值分析》思维导图"
+title: "研究生数值分析思维导图"
 date:   2020-04-29
 tags: [导图,思维,数值,复习,研究生]
 comments: true

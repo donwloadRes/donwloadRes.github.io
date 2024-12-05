@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++中文版"
+title: "Notepad中文版"
 date:   2020-12-22
 tags: [Notepad,++,cn,中文版,插件]
 comments: true

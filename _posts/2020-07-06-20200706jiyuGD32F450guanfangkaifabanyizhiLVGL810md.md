@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于GD32F450官方开发板移植LVGL8.10"
+title: "基于GD32F450官方开发板移植LVGL810"
 date:   2020-07-12
 tags: [移植,开发板,GD32F450,LVGL8.10,Keil]
 comments: true

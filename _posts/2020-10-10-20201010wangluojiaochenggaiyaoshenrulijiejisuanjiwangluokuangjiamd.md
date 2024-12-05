@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络教程概要 - 深入理解计算机网络框架"
+title: "网络教程概要  深入理解计算机网络框架"
 date:   2020-11-08
 tags: [计算机网络,概要,---,文档,深入]
 comments: true

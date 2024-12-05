@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "贝叶斯GeNIe下载及用户手册（学术）"
+title: "贝叶斯GeNIe下载及用户手册学术"
 date:   2024-06-15
 tags: [贝叶斯,用户手册,GeNIe,软件,学术]
 comments: true

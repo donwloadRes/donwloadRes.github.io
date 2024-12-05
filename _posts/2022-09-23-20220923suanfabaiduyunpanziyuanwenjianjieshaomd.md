@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法-百度云盘资源文件介绍"
+title: "算法百度云盘资源文件介绍"
 date:   2024-07-20
 tags: [算法,文件,资源,云盘,学习者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XMind8 Pro安装教程（Win+Mac）- 升级至专业版指南"
+title: "XMind8 Pro安装教程WinMac 升级至专业版指南"
 date:   2024-04-12
 tags: [Pro,教程,XMind8,安装,升级]
 comments: true

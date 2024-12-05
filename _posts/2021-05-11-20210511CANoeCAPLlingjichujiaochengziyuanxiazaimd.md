@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe-CAPL零基础教程资源下载"
+title: "CANoeCAPL零基础教程资源下载"
 date:   2021-12-19
 tags: [CANoe,CAPL,基础教程,教程,CANalyzer]
 comments: true

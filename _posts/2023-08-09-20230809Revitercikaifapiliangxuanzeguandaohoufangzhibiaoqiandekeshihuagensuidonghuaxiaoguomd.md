@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revit二次开发：批量选择管道后放置标签的可视化跟随动画效果"
+title: "Revit二次开发批量选择管道后放置标签的可视化跟随动画效果"
 date:   2020-01-06
 tags: [Revit,标签,动画,放置,管道]
 comments: true

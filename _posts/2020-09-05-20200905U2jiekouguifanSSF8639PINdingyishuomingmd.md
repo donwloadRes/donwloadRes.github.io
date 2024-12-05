@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U.2接口规范（SSF-8639）PIN定义说明"
+title: "U2接口规范SSF8639PIN定义说明"
 date:   2021-10-01
 tags: [8639,接触点,U.2,SSF,接口]
 comments: true

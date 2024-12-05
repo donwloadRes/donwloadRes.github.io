@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5串口通信（Hex格式传输）资源文件介绍"
+title: "QT5串口通信Hex格式传输资源文件介绍"
 date:   2024-09-30
 tags: [串口,QT5,Hex,下位,格式]
 comments: true

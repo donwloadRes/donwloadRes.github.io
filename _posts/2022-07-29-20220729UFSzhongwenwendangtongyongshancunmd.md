@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UFS中文文档 - 通用闪存"
+title: "UFS中文文档  通用闪存"
 date:   2022-08-04
 tags: [UFS,文档,存储技术,存储,应用]
 comments: true

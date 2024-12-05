@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 安装 JDK 1.8 (版本号：jdk-8u181-linux-x64)"
+title: "CentOS 7 安装 JDK 18 版本号jdk8u181linuxx64"
 date:   2021-01-03
 tags: [bash,rpm,JDK,1.8,--]
 comments: true

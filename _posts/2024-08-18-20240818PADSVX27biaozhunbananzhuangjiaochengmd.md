@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS VX 2.7 标准版安装教程"
+title: "PADS VX 27 标准版安装教程"
 date:   2022-09-13
 tags: [安装,教程,标准版,PADS,VX]
 comments: true

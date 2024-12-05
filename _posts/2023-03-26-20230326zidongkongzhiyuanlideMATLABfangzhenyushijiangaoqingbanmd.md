@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理的MATLAB仿真与实践 - 高清版"
+title: "自动控制原理的MATLAB仿真与实践  高清版"
 date:   2020-02-10
 tags: [MATLAB,仿真,自动控制,高清,实践]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe U.2协议规范 SFF-8639 版本4.0 下载仓库"
+title: "PCIe U2协议规范 SFF8639 版本40 下载仓库"
 date:   2020-06-21
 tags: [U.2,PCIe,接口,SFF,8639]
 comments: true

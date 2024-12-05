@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel L76K 参考设计手册 V1.0 下载"
+title: "Quectel L76K 参考设计手册 V10 下载"
 date:   2023-07-13
 tags: [手册,Quectel,L76K,参考,V1.0]
 comments: true

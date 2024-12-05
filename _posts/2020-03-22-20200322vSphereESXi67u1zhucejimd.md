@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vSphere ESXi 6.7u1 注册机"
+title: "vSphere ESXi 67u1 注册机"
 date:   2024-09-20
 tags: [注册机,vSphere,u1,ESXi,6.7]
 comments: true

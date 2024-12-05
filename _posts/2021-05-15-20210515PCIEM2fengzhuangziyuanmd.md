@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE M.2 封装资源"
+title: "PCIE M2 封装资源"
 date:   2021-07-24
 tags: [封装,M.2,PCIE,设计,接口]
 comments: true

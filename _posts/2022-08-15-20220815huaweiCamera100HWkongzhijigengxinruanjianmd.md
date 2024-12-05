@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为 Camera 100-HW 控制及更新软件"
+title: "华为 Camera 100HW 控制及更新软件"
 date:   2021-10-17
 tags: [HW,对焦,Camera,100,华为]
 comments: true

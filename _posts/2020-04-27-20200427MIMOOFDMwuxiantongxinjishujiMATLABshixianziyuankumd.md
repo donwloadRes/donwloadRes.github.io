@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIMO-OFDM无线通信技术及MATLAB实现资源库"
+title: "MIMOOFDM无线通信技术及MATLAB实现资源库"
 date:   2023-11-25
 tags: [MATLAB,MIMO,OFDM,PDF,无线通信]
 comments: true

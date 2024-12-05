@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 CubeMx(四)ADC采样及简单的均值、中值、众数滤波方法"
+title: "STM32 CubeMx四ADC采样及简单的均值中值众数滤波方法"
 date:   2023-09-26
 tags: [ADC,滤波,STM32F4,采样,STM32]
 comments: true

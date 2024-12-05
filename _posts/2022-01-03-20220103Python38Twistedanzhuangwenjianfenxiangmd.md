@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 Twisted 安装文件分享"
+title: "Python 38 Twisted 安装文件分享"
 date:   2021-04-30
 tags: [Twisted,cp38,安装,文件,Python]
 comments: true

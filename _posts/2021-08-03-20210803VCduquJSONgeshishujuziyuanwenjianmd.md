@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++读取JSON格式数据资源文件"
+title: "VC读取JSON格式数据资源文件"
 date:   2020-04-24
 tags: [JSON,C++,读取,源代码,示例]
 comments: true

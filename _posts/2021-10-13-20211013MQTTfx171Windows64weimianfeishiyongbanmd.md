@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT.fx 1.7.1 Windows 64位免费使用版"
+title: "MQTTfx 171 Windows 64位免费使用版"
 date:   2024-09-23
 tags: [MQTT,fx,1.7,下载,使用版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "b站王道计算机网络.pdf"
+title: "b站王道计算机网络pdf"
 date:   2020-01-14
 tags: [计算机网络,考研,学习,王道,知识点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VAXVS2019番茄助手 - VS2019 & VS2010 通用辅助工具"
+title: "VAXVS2019番茄助手  VS2019  VS2010 通用辅助工具"
 date:   2023-01-07
 tags: [Visual,Studio,番茄,助手,VAXVS2019]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于电影知识图谱的智能问答系统（二） -- Neo4j导入CSV文件"
+title: "基于电影知识图谱的智能问答系统二  Neo4j导入CSV文件"
 date:   2021-05-16
 tags: [Neo4j,CSV,导入,Cypher,导入到]
 comments: true

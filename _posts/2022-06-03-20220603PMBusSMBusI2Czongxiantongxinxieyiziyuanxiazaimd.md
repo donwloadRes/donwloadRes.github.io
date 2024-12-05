@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMBus、SMBus、I2C 总线通信协议资源下载"
+title: "PMBusSMBusI2C 总线通信协议资源下载"
 date:   2024-08-26
 tags: [通信协议,总线,PMBus,SMBus,I2C]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "arris sbr-ac1900p-sbr-ac3200p梅林固件"
+title: "arris sbrac1900psbrac3200p梅林固件"
 date:   2024-04-07
 tags: [固件,华硕,Koolshare,备份,梅林]
 comments: true

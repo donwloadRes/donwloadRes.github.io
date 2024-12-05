@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8.10 的 pip 压缩包下载"
+title: "Python 3810 的 pip 压缩包下载"
 date:   2021-04-02
 tags: [pip,Python,10,安装,压缩包]
 comments: true

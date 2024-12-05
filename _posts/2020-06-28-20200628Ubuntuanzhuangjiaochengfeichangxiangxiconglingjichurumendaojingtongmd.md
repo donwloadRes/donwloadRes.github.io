@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu安装教程（非常详细）从零基础入门到精通"
+title: "Ubuntu安装教程非常详细从零基础入门到精通"
 date:   2024-04-12
 tags: [Ubuntu,教程,安装,学习,镜像文件]
 comments: true

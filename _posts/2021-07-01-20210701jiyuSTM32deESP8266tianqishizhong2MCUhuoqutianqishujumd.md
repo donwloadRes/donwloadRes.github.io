@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的ESP8266天气时钟(2) - MCU获取天气数据"
+title: "基于STM32的ESP8266天气时钟2  MCU获取天气数据"
 date:   2024-07-03
 tags: [ESP8266,天气,STM32,时钟,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103_永磁同步电机_PMSM_FOC软件库_用户手册_中文版"
+title: "STM32F103永磁同步电机PMSMFOC软件库用户手册中文版"
 date:   2024-04-29
 tags: [FOC,STM32F103,PMSM,软件,控制]
 comments: true

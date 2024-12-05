@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC、手机看地(DTMB）节目，支持AVS+和DRA"
+title: "PC手机看地DTMB节目支持AVS和DRA"
 date:   2023-03-08
 tags: [DTMB,节目,PC,AVS,DRA]
 comments: true

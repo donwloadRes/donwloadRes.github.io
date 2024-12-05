@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI4-master源码分析资源下载"
+title: "AXI4master源码分析资源下载"
 date:   2020-01-21
 tags: [AXI4,源码,master,文件,总线]
 comments: true

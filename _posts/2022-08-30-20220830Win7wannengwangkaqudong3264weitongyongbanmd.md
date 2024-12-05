@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7万能网卡驱动 32、64位 通用版"
+title: "Win7万能网卡驱动 3264位 通用版"
 date:   2023-03-15
 tags: [网卡,驱动程序,32,64,通用版]
 comments: true

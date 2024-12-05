@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现的服务器POST访问与JSON数据流解析"
+title: "C实现的服务器POST访问与JSON数据流解析"
 date:   2024-09-21
 tags: [C++,POST,JSON,解析,数据流]
 comments: true

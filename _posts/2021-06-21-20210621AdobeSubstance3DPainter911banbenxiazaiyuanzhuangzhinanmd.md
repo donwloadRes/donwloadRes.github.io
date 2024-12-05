@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Substance 3D Painter 9.1.1 版本下载与安装指南"
+title: "Adobe Substance 3D Painter 911 版本下载与安装指南"
 date:   2024-01-26
 tags: [3D,纹理,安装,Adobe,Substance]
 comments: true

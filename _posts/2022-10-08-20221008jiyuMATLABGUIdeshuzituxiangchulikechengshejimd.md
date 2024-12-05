@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-GUI的数字图像处理课程设计"
+title: "基于MATLABGUI的数字图像处理课程设计"
 date:   2022-12-28
 tags: [MATLAB,GUI,代码,数字图像处理,课程设计]
 comments: true

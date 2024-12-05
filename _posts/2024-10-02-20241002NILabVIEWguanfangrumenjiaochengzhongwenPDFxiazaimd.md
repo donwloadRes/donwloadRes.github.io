@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI LabVIEW 官方入门教程（中文PDF）下载"
+title: "NI LabVIEW 官方入门教程中文PDF下载"
 date:   2021-01-05
 tags: [LabVIEW,入门教程,pdf,中文,PDF]
 comments: true

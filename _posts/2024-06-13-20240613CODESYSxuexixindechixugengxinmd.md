@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CODESYS学习心得（持续更新）"
+title: "CODESYS学习心得持续更新"
 date:   2020-03-29
 tags: [CODESYS,编程,PLC,自动化,技巧]
 comments: true

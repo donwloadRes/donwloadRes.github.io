@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt使用Poppler-qt5操作PDF文件"
+title: "Qt使用Popplerqt5操作PDF文件"
 date:   2022-11-01
 tags: [PDF,Qt,Poppler,qt5,文件]
 comments: true

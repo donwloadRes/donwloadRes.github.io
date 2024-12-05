@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC_RED.MSI运行库安装包"
+title: "VCREDMSI运行库安装包"
 date:   2022-10-13
 tags: [安装,运行库,安装包,vc,red]
 comments: true

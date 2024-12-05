@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "室内场景识别数据集-indoorCVPR_09"
+title: "室内场景识别数据集indoorCVPR09"
 date:   2021-09-26
 tags: [场景,图像,数据,室内,txt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 2.0 环境安装资源"
+title: "NET 20 环境安装资源"
 date:   2024-03-01
 tags: [NET,2.0,安装,安装程序,环境]
 comments: true

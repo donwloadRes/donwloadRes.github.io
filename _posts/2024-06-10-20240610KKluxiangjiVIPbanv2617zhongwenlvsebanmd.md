@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KK录像机VIP版v2.6.1.7中文绿色版"
+title: "KK录像机VIP版v2617中文绿色版"
 date:   2023-10-24
 tags: [录制,无需,KK,v2.6,1.7]
 comments: true

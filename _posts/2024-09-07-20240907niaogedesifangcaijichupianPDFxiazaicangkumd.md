@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥的私房菜——基础篇PDF 下载仓库"
+title: "鸟哥的私房菜基础篇PDF 下载仓库"
 date:   2020-11-25
 tags: [Linux,PDF,鸟哥,下载,私房]
 comments: true

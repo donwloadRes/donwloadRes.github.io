@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nexus（Maven 私服）介绍、安装及使用教程"
+title: "NexusMaven 私服介绍安装及使用教程"
 date:   2023-05-27
 tags: [Nexus,Maven,私服,仓库,界面]
 comments: true

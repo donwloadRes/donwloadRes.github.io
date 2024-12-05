@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch实战案例：利用ResNet-18在CIFAR-10数据集上的图像分类实践"
+title: "Pytorch实战案例利用ResNet18在CIFAR10数据集上的图像分类实践"
 date:   2021-05-22
 tags: [ResNet,18,10,模型,残差]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数通HCIE-DATACOM-SRv6原理与配置资源下载"
+title: "数通HCIEDATACOMSRv6原理与配置资源下载"
 date:   2024-11-14
 tags: [SRv6,HCIE,DATACOM,配置,数通]
 comments: true

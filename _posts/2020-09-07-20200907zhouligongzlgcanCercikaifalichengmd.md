@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功zlgcan C#二次开发例程"
+title: "周立功zlgcan C二次开发例程"
 date:   2022-05-07
 tags: [zlgcan,示例,例程,二次开发,C#]
 comments: true

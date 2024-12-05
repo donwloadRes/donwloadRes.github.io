@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java自定义生成二维码（兼容你所有的需求）实现效果说明"
+title: "Java自定义生成二维码兼容你所有的需求实现效果说明"
 date:   2022-09-20
 tags: [二维码,生成,Java,https,定制]
 comments: true

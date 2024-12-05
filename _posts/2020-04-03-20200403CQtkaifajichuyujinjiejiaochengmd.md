@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt开发基础与进阶教程"
+title: "C Qt开发基础与进阶教程"
 date:   2022-07-12
 tags: [Qt,开发,C++,讲解,开发者]
 comments: true

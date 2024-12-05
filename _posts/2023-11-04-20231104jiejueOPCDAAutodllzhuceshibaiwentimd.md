@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决OPCDAAuto.dll注册失败问题"
+title: "解决OPCDAAutodll注册失败问题"
 date:   2020-05-13
 tags: [OPCDAAuto,dll,注册,失败,解决]
 comments: true

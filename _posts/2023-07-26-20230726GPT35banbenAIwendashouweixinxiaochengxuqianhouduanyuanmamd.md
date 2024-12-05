@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT3.5版本AI问答手微信小程序前后端源码"
+title: "GPT35版本AI问答手微信小程序前后端源码"
 date:   2024-02-28
 tags: [文档,AI,GPT,3.5,API]
 comments: true

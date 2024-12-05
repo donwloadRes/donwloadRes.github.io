@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "G_非接触物体尺寸形态测量1 资源文件介绍"
+title: "G非接触物体尺寸形态测量1 资源文件介绍"
 date:   2024-05-11
 tags: [测量,尺寸,物体,图表,形态]
 comments: true

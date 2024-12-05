@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NPcap发送数据包工具 - pcap-sendpacket"
+title: "NPcap发送数据包工具  pcapsendpacket"
 date:   2022-07-21
 tags: [数据包,发送,缓冲区,拼包,NPcap]
 comments: true

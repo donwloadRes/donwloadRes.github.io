@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双有源全桥DC-DC变换器PI闭环控制(Matlab仿真)"
+title: "双有源全桥DCDC变换器PI闭环控制Matlab仿真"
 date:   2022-08-13
 tags: [变换器,DC,仿真,全桥,PI]
 comments: true

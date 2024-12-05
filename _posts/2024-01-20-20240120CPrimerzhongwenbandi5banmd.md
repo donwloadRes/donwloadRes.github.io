@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 中文版 第5版"
+title: "C Primer 中文版 第5版"
 date:   2020-09-15
 tags: [C++,中文版,Primer,出版社,开发者]
 comments: true

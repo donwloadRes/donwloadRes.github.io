@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500 Modbus-RTU通讯资源下载"
+title: "S71500 ModbusRTU通讯资源下载"
 date:   2021-05-26
 tags: [S7,通讯,1500,RTU,Modbus]
 comments: true

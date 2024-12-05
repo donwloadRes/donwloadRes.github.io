@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InstantClient 基础包 for Windows x86-64"
+title: "InstantClient 基础包 for Windows x8664"
 date:   2024-01-10
 tags: [Oracle,Navicat,64,Instant,Client]
 comments: true

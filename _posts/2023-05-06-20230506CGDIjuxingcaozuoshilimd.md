@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI 矩形操作示例"
+title: "C GDI 矩形操作示例"
 date:   2024-10-22
 tags: [矩形,示例,鼠标,GDI,C#]
 comments: true

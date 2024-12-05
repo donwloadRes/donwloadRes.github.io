@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BluetoothCLTools 1.2.0.56 资源文件下载"
+title: "BluetoothCLTools 12056 资源文件下载"
 date:   2022-11-24
 tags: [0.56,1.2,工具集,蓝牙,BluetoothCLTools]
 comments: true

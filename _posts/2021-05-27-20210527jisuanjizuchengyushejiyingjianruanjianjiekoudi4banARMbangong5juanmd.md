@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计：硬件-软件接口 第4版 ARM版（共5卷）"
+title: "计算机组成与设计硬件软件接口 第4版 ARM版共5卷"
 date:   2021-02-23
 tags: [ARM,嵌入式,软件,计算机,处理器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【设计手册】LTspice"
+title: "设计手册LTspice"
 date:   2021-04-21
 tags: [LTspice,手册,设计,仿真,电路仿真]
 comments: true

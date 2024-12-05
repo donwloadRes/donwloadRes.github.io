@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-GD32 ARM单片机读写保护解除方法"
+title: "STM32GD32 ARM单片机读写保护解除方法"
 date:   2021-02-10
 tags: [读写,解除,STM32,保护,单片机]
 comments: true

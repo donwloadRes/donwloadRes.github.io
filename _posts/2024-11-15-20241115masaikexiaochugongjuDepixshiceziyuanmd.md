@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马赛克消除工具——Depix实测&资源"
+title: "马赛克消除工具Depix实测资源"
 date:   2024-04-01
 tags: [Depix,马赛克,图像,工具,使用]
 comments: true

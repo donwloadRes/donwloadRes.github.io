@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Star-CCM+ 用户手册下载"
+title: "StarCCM 用户手册下载"
 date:   2020-12-24
 tags: [用户手册,Star,CCM,下载,15.06]
 comments: true

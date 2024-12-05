@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT698-45抄表工具调试软件，网络版"
+title: "DLT69845抄表工具调试软件网络版"
 date:   2021-07-23
 tags: [抄表,调试,DLT698,45,网络版]
 comments: true

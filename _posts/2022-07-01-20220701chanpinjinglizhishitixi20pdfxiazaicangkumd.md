@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "产品经理知识体系2.0.pdf 下载仓库"
+title: "产品经理知识体系20pdf 下载仓库"
 date:   2021-08-18
 tags: [2.0,pdf,产品,经理,知识]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2019 安装步骤（超详细）"
+title: "SQL Server 2019 安装步骤超详细"
 date:   2024-01-26
 tags: [安装,SQL,Server,点击,2019]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目—天气预报"
+title: "QT项目天气预报"
 date:   2021-10-07
 tags: [QT,JSON,项目,天气,数据]
 comments: true

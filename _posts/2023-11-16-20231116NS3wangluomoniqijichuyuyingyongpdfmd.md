@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NS-3网络模拟器基础与应用.pdf"
+title: "NS3网络模拟器基础与应用pdf"
 date:   2021-04-15
 tags: [NS,网络,应用,pdf,模拟器]
 comments: true

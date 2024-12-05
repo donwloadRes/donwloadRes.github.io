@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python习题集（含答案）"
+title: "Python习题集含答案"
 date:   2023-07-11
 tags: [Python,编程,习题集,题目,答案]
 comments: true

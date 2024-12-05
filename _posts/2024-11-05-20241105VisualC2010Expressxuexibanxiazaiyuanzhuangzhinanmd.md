@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualC++ 2010 Express 学习版下载与安装指南"
+title: "VisualC 2010 Express 学习版下载与安装指南"
 date:   2023-05-11
 tags: [C++,Visual,2010,Express,安装]
 comments: true

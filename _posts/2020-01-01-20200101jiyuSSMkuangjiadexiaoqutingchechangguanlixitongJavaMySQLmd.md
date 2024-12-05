@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SSM框架的小区停车场管理系统（Java+MySQL）"
+title: "基于SSM框架的小区停车场管理系统JavaMySQL"
 date:   2020-02-29
 tags: [停车场,停车,SSM,管理系统,小区]
 comments: true

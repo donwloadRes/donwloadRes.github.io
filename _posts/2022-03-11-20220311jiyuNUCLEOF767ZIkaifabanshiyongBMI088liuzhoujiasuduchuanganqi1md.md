@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于NUCLEO-F767ZI开发板使用BMI088六轴加速度传感器1"
+title: "基于NUCLEOF767ZI开发板使用BMI088六轴加速度传感器1"
 date:   2022-12-26
 tags: [BMI088,NUCLEO,F767ZI,开发板,传感器]
 comments: true

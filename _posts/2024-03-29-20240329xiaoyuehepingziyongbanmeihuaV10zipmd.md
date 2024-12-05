@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小月和平自用版美化V10.zip"
+title: "小月和平自用版美化V10zip"
 date:   2021-02-08
 tags: [自用,V10,美化,小月,和平]
 comments: true

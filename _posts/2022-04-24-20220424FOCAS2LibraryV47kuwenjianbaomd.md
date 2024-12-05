@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOCAS2 Library V4.7 库文件包"
+title: "FOCAS2 Library V47 库文件包"
 date:   2020-06-12
 tags: [V4.7,FOCAS2,Library,文件,文档]
 comments: true

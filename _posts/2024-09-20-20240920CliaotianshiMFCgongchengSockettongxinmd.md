@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 聊天室 MFC 工程 - Socket 通信"
+title: "C 聊天室 MFC 工程  Socket 通信"
 date:   2024-05-15
 tags: [用户,聊天室,发送,消息,MFC]
 comments: true

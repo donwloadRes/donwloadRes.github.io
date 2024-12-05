@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现信号n倍插值（内插0）"
+title: "FPGA实现信号n倍插值内插0"
 date:   2023-11-30
 tags: [插值,FPGA,实现,信号,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1控制电磁阀、舵机及ADC推杆项目开源"
+title: "STM32F1控制电磁阀舵机及ADC推杆项目开源"
 date:   2021-12-31
 tags: [STM32F1,ADC,电磁阀,推杆,引脚]
 comments: true

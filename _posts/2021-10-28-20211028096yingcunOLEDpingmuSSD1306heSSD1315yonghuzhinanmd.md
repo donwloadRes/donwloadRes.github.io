@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96 英寸 OLED 屏幕（SSD1306 和 SSD1315）用户指南"
+title: "096 英寸 OLED 屏幕SSD1306 和 SSD1315用户指南"
 date:   2024-02-02
 tags: [OLED,0.96,SSD1306,显示屏,英寸]
 comments: true

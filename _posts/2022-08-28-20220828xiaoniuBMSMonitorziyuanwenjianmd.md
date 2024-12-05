@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小牛BMS-Monitor 资源文件"
+title: "小牛BMSMonitor 资源文件"
 date:   2023-03-10
 tags: [BMS,your,示例,Monitor,文件]
 comments: true

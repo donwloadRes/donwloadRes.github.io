@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy Save v3.5.3 Unity 插件 简单保存"
+title: "Easy Save v353 Unity 插件 简单保存"
 date:   2020-12-08
 tags: [Save,playerScore,Easy,ES3,加载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10丢失找不到msvbvm50.dll问题"
+title: "解决Win10丢失找不到msvbvm50dll问题"
 date:   2022-01-01
 tags: [Windows,文件,dll,丢失,msvbvm50]
 comments: true

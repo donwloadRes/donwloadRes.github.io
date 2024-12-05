@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neo4j-KGBuilder：知识图谱构建与可视化工具"
+title: "Neo4jKGBuilder知识图谱构建与可视化工具"
 date:   2021-08-13
 tags: [节点,图谱,Neo4j,导出,导入]
 comments: true

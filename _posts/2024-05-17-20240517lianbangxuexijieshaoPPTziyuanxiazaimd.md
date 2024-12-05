@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联邦学习介绍（PPT）资源下载"
+title: "联邦学习介绍PPT资源下载"
 date:   2024-11-27
 tags: [联邦,学习,PPT,文件,资源]
 comments: true

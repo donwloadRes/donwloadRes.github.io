@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微积分学教程（菲赫金哥尔茨第8版）"
+title: "微积分学教程菲赫金哥尔茨第8版"
 date:   2021-01-31
 tags: [微积分学,数学,尔茨,教程,学习]
 comments: true

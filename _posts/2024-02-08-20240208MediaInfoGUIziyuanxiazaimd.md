@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MediaInfo_GUI 资源下载"
+title: "MediaInfoGUI 资源下载"
 date:   2024-06-07
 tags: [MediaInfo,GUI,媒体文件,图形化,下载]
 comments: true

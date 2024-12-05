@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "真实可用制造业MES生产管理源码（Java）"
+title: "真实可用制造业MES生产管理源码Java"
 date:   2020-08-10
 tags: [MES,Java,源码,数据库,制造业]
 comments: true

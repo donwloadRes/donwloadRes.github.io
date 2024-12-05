@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Windows Socket 通讯资源文件介绍"
+title: "C Windows Socket 通讯资源文件介绍"
 date:   2021-07-15
 tags: [Socket,通讯,文件,Windows,示例]
 comments: true

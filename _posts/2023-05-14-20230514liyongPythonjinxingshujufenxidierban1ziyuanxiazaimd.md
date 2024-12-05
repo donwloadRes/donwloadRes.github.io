@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python进行数据分析(第二版)1 资源下载"
+title: "利用Python进行数据分析第二版1 资源下载"
 date:   2022-07-24
 tags: [数据分析,Python,资源,下载,进行]
 comments: true

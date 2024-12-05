@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS虚拟机解决方案：Parallels Desktop 19"
+title: "macOS虚拟机解决方案Parallels Desktop 19"
 date:   2021-06-05
 tags: [Windows,Parallels,Mac,Desktop,macOS]
 comments: true

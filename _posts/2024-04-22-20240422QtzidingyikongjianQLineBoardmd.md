@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt自定义控件：QLineBoard"
+title: "Qt自定义控件QLineBoard"
 date:   2023-02-24
 tags: [控件,QLineBoard,Qt,自定义,输入框]
 comments: true

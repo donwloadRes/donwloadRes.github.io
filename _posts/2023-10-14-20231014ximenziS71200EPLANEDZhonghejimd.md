@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 EPLAN EDZ宏合集"
+title: "西门子S71200 EPLAN EDZ宏合集"
 date:   2020-01-25
 tags: [EPLAN,P8,S7,1200,EDZ]
 comments: true

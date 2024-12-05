@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简闻新闻App - Android Studio项目"
+title: "简闻新闻App  Android Studio项目"
 date:   2022-03-11
 tags: [Android,Studio,项目,简闻,新闻]
 comments: true

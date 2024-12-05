@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机滑模控制仿真（基于MATLAB-Simulink）"
+title: "永磁同步电机滑模控制仿真基于MATLABSimulink"
 date:   2022-03-03
 tags: [仿真,同步电机,永磁,滑模,MATLAB]
 comments: true

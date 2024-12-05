@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200自编PID程序（没有使用其自带的PID指令）"
+title: "S7200自编PID程序没有使用其自带的PID指令"
 date:   2023-12-26
 tags: [PID,S7,200,自编,指令]
 comments: true

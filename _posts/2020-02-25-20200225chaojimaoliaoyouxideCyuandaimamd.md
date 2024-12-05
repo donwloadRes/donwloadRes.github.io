@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级猫里奥游戏的C++源代码"
+title: "超级猫里奥游戏的C源代码"
 date:   2023-02-08
 tags: [游戏,C++,编程,源代码,里奥]
 comments: true

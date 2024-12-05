@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32L110-HC32F003-HC32F005 远程在线IAP升级资源文件"
+title: "HC32L110HC32F003HC32F005 远程在线IAP升级资源文件"
 date:   2023-04-27
 tags: [程序,APP,远程,升级,HC32L110]
 comments: true

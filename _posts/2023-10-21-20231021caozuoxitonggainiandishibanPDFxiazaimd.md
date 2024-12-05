@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统概念（第十版）PDF下载"
+title: "操作系统概念第十版PDF下载"
 date:   2023-11-27
 tags: [PDF,操作系统,第十版,下载,文件大小]
 comments: true

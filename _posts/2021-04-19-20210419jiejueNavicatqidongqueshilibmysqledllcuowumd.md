@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Navicat启动缺失libmysql_e.dll错误"
+title: "解决Navicat启动缺失libmysqledll错误"
 date:   2021-08-02
 tags: [Navicat,libmysql,dll,文件,DLL]
 comments: true

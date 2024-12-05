@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞昱Realtek无线网卡8188GU驱动（Windows）"
+title: "瑞昱Realtek无线网卡8188GU驱动Windows"
 date:   2021-07-18
 tags: [网卡,Windows,Linux,驱动,驱动程序]
 comments: true

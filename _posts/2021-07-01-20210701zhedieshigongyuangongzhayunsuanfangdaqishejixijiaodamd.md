@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "折叠式共源共栅运算放大器设计-西交大"
+title: "折叠式共源共栅运算放大器设计西交大"
 date:   2020-07-02
 tags: [设计,放大器,共源,折叠式,运算]
 comments: true

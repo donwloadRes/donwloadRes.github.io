@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "配置Win10解决VMware Intel VT-x虚拟化问题指南"
+title: "配置Win10解决VMware Intel VTx虚拟化问题指南"
 date:   2024-04-04
 tags: [VMware,虚拟化,Intel,VT,文档]
 comments: true

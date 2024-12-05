@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用串口控制DMX512舞台灯光"
+title: "C 使用串口控制DMX512舞台灯光"
 date:   2020-08-20
 tags: [DMX512,舞台灯光,C#,串口,控制]
 comments: true

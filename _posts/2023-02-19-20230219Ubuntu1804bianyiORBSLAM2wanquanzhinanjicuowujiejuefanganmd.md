@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 编译 ORB-SLAM2 完全指南及错误解决方案"
+title: "Ubuntu 1804 编译 ORBSLAM2 完全指南及错误解决方案"
 date:   2021-03-26
 tags: [编译,ROS,ORB,SLAM2,错误]
 comments: true

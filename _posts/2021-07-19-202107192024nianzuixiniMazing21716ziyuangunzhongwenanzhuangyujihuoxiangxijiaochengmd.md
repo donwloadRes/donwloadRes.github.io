@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最新iMazing 2.17.16 资源丨中文安装与激活详细教程"
+title: "2024年最新iMazing 21716 资源丨中文安装与激活详细教程"
 date:   2022-05-30
 tags: [iMazing,激活,安装,16,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西工大_卢京潮_自控PPT资源介绍"
+title: "西工大卢京潮自控PPT资源介绍"
 date:   2024-01-19
 tags: [PPT,卢京潮,自动控制,西工大,自控]
 comments: true

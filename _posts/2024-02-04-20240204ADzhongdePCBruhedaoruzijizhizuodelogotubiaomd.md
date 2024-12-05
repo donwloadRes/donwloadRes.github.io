@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD中的PCB如何导入自己制作的logo图标？"
+title: "AD中的PCB如何导入自己制作的logo图标"
 date:   2021-09-04
 tags: [PCB,logo,图标,导入,AD]
 comments: true

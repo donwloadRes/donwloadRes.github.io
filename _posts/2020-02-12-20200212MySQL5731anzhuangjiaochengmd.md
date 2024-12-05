@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7.31安装教程"
+title: "MySQL 5731安装教程"
 date:   2022-07-17
 tags: [MySQL,安装,31,5.7,教程]
 comments: true

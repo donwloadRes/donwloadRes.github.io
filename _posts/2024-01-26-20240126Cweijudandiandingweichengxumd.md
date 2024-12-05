@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#伪距单点定位程序"
+title: "C伪距单点定位程序"
 date:   2023-11-07
 tags: [GPS,伪距,定位,单点,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】chromedriver下载与安装方法"
+title: "笔记chromedriver下载与安装方法"
 date:   2023-03-05
 tags: [ChromeDriver,自动化,浏览器,Chrome,下载]
 comments: true

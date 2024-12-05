@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "结构方程模型——AMOS的操作与应用（吴明隆）资源下载"
+title: "结构方程模型AMOS的操作与应用吴明隆资源下载"
 date:   2021-01-13
 tags: [AMOS,方程,模型,吴明隆,PDF]
 comments: true

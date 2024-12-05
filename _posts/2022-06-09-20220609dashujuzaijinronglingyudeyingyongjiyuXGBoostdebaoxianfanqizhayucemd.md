@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据在金融领域的应用：基于XGBoost的保险反欺诈预测"
+title: "大数据在金融领域的应用基于XGBoost的保险反欺诈预测"
 date:   2024-10-13
 tags: [欺诈,保险,XGBoost,模型,构建]
 comments: true

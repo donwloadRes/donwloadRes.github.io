@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "施耐德PLC编程软件Control Expert 14.1下载"
+title: "施耐德PLC编程软件Control Expert 141下载"
 date:   2023-02-06
 tags: [Control,PLC,Expert,14.1,编程]
 comments: true

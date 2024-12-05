@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S4HANA物料分类帐.pdf"
+title: "S4HANA物料分类帐pdf"
 date:   2023-04-14
 tags: [分类帐,物料,SAP,4HANA,S4HANA]
 comments: true

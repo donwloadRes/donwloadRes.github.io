@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Devtools调试工具安装和vue.js not detected解决办法"
+title: "Vue Devtools调试工具安装和vuejs not detected解决办法"
 date:   2024-07-16
 tags: [Vue,Devtools,插件,js,vue]
 comments: true

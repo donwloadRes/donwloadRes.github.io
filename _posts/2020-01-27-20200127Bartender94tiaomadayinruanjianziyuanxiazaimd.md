@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bartender 9.4 条码打印软件资源下载"
+title: "Bartender 94 条码打印软件资源下载"
 date:   2022-06-07
 tags: [Bartender,9.4,打印,软件,条码]
 comments: true

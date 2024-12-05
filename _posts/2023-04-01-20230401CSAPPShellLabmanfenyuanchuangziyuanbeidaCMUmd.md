@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSAPP Shell Lab 满分原创资源（北大&CMU）"
+title: "CSAPP Shell Lab 满分原创资源北大CMU"
 date:   2020-12-25
 tags: [Shell,Lab,资源,CSAPP,CMU]
 comments: true

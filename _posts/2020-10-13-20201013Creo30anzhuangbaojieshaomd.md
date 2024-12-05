@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creo 3.0 安装包介绍"
+title: "Creo 30 安装包介绍"
 date:   2021-08-18
 tags: [Creo,3.0,安装包,安装,CAD]
 comments: true

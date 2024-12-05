@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装和配置JDK（Java Development Kit Java开发工具包）"
+title: "安装和配置JDKJava Development Kit Java开发工具包"
 date:   2022-06-06
 tags: [JDK,Java,安装,配置,下载]
 comments: true

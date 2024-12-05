@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python界面图书管理系统—GUI界面版"
+title: "Python界面图书管理系统GUI界面版"
 date:   2022-07-04
 tags: [图书,Python,txt,界面,GUI]
 comments: true

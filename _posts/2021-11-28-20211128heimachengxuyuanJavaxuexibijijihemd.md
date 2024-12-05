@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员Java学习笔记——集合"
+title: "黑马程序员Java学习笔记集合"
 date:   2022-08-20
 tags: [Java,集合,笔记,框架,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Flash Player过期问题——谷歌浏览器Chrome 87.0.4270.0绿色免安装增强版"
+title: "解决Flash Player过期问题谷歌浏览器Chrome 87042700绿色免安装增强版"
 date:   2020-10-20
 tags: [Chrome,插件,备份,设置,绿色版]
 comments: true

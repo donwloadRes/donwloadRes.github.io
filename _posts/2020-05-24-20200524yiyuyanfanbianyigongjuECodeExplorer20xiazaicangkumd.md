@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言反编译工具(E-Code Explorer) 2.0 下载仓库"
+title: "易语言反编译工具ECode Explorer 20 下载仓库"
 date:   2021-09-30
 tags: [易语言,反编译,工具,软件,Code]
 comments: true

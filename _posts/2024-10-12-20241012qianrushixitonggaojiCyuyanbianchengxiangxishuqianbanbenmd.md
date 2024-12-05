@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统高级C语言编程（详细书签版本）"
+title: "嵌入式系统高级C语言编程详细书签版本"
 date:   2022-08-30
 tags: [嵌入式,C语言,书签,编程,学习]
 comments: true

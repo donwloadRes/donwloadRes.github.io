@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性系统习题解 (有目录) by Hassan K. Khalil"
+title: "非线性系统习题解 有目录 by Hassan K Khalil"
 date:   2024-11-02
 tags: [非线性,习题,系统,学习,Khalil]
 comments: true

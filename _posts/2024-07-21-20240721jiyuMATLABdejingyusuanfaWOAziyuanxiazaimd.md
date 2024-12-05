@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的鲸鱼算法（WOA）资源下载"
+title: "基于MATLAB的鲸鱼算法WOA资源下载"
 date:   2021-09-06
 tags: [算法,MATLAB,鲸鱼,代码,资源]
 comments: true

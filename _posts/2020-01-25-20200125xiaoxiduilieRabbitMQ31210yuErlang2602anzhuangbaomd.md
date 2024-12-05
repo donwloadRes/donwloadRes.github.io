@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "消息队列 RabbitMQ 3.12.10与Erlang 26.0.2 安装包"
+title: "消息队列 RabbitMQ 31210与Erlang 2602 安装包"
 date:   2022-10-02
 tags: [RabbitMQ,Erlang,安装,10,队列]
 comments: true

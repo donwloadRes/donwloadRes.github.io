@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高级编程(第7版) 资源下载"
+title: "C高级编程第7版 资源下载"
 date:   2020-03-25
 tags: [C#,下载,编程,百度,资源]
 comments: true

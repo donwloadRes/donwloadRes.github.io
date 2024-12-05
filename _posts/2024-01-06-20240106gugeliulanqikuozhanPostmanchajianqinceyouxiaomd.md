@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器扩展Postman插件，亲测有效"
+title: "谷歌浏览器扩展Postman插件亲测有效"
 date:   2020-04-01
 tags: [浏览器,插件,Postman,谷歌,亲测]
 comments: true

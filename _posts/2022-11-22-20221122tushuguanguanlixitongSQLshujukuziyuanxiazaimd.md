@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理系统(SQL数据库)资源下载"
+title: "图书馆管理系统SQL数据库资源下载"
 date:   2022-02-11
 tags: [管理系统,数据库,图书馆,文档,SQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缺失值处理：拉格朗日插值法.pdf"
+title: "缺失值处理拉格朗日插值法pdf"
 date:   2024-08-26
 tags: [插值法,缺失,拉格朗,数据,插值]
 comments: true

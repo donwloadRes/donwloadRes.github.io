@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FC-AE-ASM协议.pdf"
+title: "FCAEASM协议pdf"
 date:   2023-07-02
 tags: [FC,AE,ASM,协议,光纤]
 comments: true

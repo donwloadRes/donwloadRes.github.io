@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ComBox多列下拉框+自动完成+DataGridView自定义列"
+title: "C ComBox多列下拉框自动完成DataGridView自定义列"
 date:   2022-02-12
 tags: [下拉框,DataGridView,自定义,多列,自动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker+Jenkins+GitLab+Maven+Harbor+SpringBoot自动化构建指南"
+title: "DockerJenkinsGitLabMavenHarborSpringBoot自动化构建指南"
 date:   2022-11-11
 tags: [自动化,部署,构建,Jenkins,Docker]
 comments: true

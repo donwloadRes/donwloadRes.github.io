@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子SMART200系统编程手册完整版.pdf"
+title: "西门子SMART200系统编程手册完整版pdf"
 date:   2023-02-14
 tags: [编程,西门子,SMART,200,手册]
 comments: true

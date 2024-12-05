@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Landsat 7 ETM+影像条带修复ENVI补丁"
+title: "Landsat 7 ETM影像条带修复ENVI补丁"
 date:   2024-05-13
 tags: [补丁,ENVI,条带,影像,Landsat]
 comments: true

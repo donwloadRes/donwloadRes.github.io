@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国省、市、县、乡镇、村 KML 资源文件"
+title: "全国省市县乡镇村 KML 资源文件"
 date:   2022-12-28
 tags: [KML,文件,乡镇,地理信息,全国]
 comments: true

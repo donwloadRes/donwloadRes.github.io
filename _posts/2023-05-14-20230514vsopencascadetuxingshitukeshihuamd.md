@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vs+opencascade图形视图可视化"
+title: "vsopencascade图形视图可视化"
 date:   2024-07-27
 tags: [OpenCascade,3D,可视化,视图,图形]
 comments: true

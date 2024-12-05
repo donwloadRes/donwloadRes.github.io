@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue中使用Three.js的字体资源文件"
+title: "Vue中使用Threejs的字体资源文件"
 date:   2022-02-28
 tags: [js,字体,Three,文件,Vue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EGM96-2008模型高程异常计算资源文件"
+title: "EGM962008模型高程异常计算资源文件"
 date:   2022-09-25
 tags: [高程,模型,EGM96,2008,文件]
 comments: true

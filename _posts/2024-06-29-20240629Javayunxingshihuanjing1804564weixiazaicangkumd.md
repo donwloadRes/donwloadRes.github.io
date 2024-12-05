@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 运行时环境 1.8.0_45 64位 下载仓库"
+title: "Java 运行时环境 18045 64位 下载仓库"
 date:   2021-10-31
 tags: [Java,1.8,45,安装,64]
 comments: true

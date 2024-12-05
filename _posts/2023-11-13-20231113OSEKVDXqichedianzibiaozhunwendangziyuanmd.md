@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK-VDX 汽车电子标准文档资源"
+title: "OSEKVDX 汽车电子标准文档资源"
 date:   2021-05-13
 tags: [OSEK,文档,VDX,解压,汽车]
 comments: true

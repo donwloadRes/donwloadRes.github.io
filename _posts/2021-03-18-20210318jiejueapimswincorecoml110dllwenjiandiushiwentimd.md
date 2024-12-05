@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决api-ms-win-core-com-l1-1-0.dll文件丢失问题"
+title: "解决apimswincorecoml110dll文件丢失问题"
 date:   2024-10-04
 tags: [文件,dll,api,ms,win]
 comments: true

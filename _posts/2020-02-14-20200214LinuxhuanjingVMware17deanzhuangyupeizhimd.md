@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境-VMware17的安装与配置"
+title: "Linux环境VMware17的安装与配置"
 date:   2020-03-14
 tags: [VMware,17,Linux,安装,配置]
 comments: true

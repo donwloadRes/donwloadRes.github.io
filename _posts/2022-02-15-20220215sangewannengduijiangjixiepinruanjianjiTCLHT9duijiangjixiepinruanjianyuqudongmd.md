@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三个万能对讲机写频软件及TCL-HT9对讲机写频软件与驱动"
+title: "三个万能对讲机写频软件及TCLHT9对讲机写频软件与驱动"
 date:   2021-05-14
 tags: [对讲机,写频,软件,TCL,万能]
 comments: true

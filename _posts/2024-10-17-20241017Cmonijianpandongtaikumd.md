@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 模拟键盘动态库"
+title: "C 模拟键盘动态库"
 date:   2020-01-19
 tags: [模拟,输入,输入法,键盘,动态]
 comments: true

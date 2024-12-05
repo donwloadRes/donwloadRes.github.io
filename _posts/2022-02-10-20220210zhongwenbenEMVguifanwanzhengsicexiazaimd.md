@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文本EMV规范 - 完整四册下载"
+title: "中文本EMV规范  完整四册下载"
 date:   2020-05-01
 tags: [EMV,四册,规范,文本,下载]
 comments: true

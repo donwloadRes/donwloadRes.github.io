@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle数据库客户端Instant Client 21.6系列文件"
+title: "Oracle数据库客户端Instant Client 216系列文件"
 date:   2022-06-03
 tags: [Oracle,数据库,Instant,Client,21.6]
 comments: true

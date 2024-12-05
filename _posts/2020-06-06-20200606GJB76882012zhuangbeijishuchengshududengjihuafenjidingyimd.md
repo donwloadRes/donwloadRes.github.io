@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 7688-2012 装备技术成熟度等级划分及定义"
+title: "GJB 76882012 装备技术成熟度等级划分及定义"
 date:   2021-07-02
 tags: [成熟度,等级,文件,2012,PDF]
 comments: true

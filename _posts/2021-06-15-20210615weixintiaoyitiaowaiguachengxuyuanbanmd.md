@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信跳一跳外挂【程序员版】"
+title: "微信跳一跳外挂程序员版"
 date:   2021-08-24
 tags: [微信,源代码,js,程序员,脚本]
 comments: true

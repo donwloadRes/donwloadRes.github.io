@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费开源PCB设计工具--KiCad安装，FreeCAD下载方法"
+title: "免费开源PCB设计工具KiCad安装FreeCAD下载方法"
 date:   2022-11-19
 tags: [KiCad,FreeCAD,安装,下载,开源]
 comments: true

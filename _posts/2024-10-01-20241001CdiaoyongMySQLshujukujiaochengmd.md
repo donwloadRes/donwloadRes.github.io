@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用MySQL数据库教程"
+title: "C调用MySQL数据库教程"
 date:   2020-12-26
 tags: [数据库,MySQL,MySqlConnection,连接,服务器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI DPHY 2.5版规范"
+title: "MIPI DPHY 25版规范"
 date:   2021-01-09
 tags: [MIPI,PHY,2.5,文档,Alliance]
 comments: true

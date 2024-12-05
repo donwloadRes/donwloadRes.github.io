@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "easyx图形库自制RPG类型小游戏配套资源（免费）"
+title: "easyx图形库自制RPG类型小游戏配套资源免费"
 date:   2022-02-13
 tags: [RPG,资源,游戏,小游戏,图形库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jmeter导出性能测试报告（中文版）"
+title: "Jmeter导出性能测试报告中文版"
 date:   2023-06-20
 tags: [Jmeter,测试报告,性能,导出,生成]
 comments: true

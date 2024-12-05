@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫：自动获取招聘数据与代码"
+title: "Python爬虫自动获取招聘数据与代码"
 date:   2021-01-13
 tags: [爬虫,Python,代码,招聘,exe]
 comments: true

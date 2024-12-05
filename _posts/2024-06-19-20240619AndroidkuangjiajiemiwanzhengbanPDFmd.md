@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android框架揭秘 (完整版PDF)"
+title: "Android框架揭秘 完整版PDF"
 date:   2022-10-11
 tags: [Android,框架,Service,揭秘,完整版]
 comments: true

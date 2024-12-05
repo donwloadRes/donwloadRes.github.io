@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大模型语言模型：从理论到实践"
+title: "大模型语言模型从理论到实践"
 date:   2022-05-27
 tags: [模型,语言,实践,理论,文本]
 comments: true

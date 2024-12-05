@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T-S模糊模型与状态反馈控制 trollery payload模型 Matlab仿真"
+title: "TS模糊模型与状态反馈控制 trollery payload模型 Matlab仿真"
 date:   2022-08-25
 tags: [仿真,Matlab,模型,反馈,模糊]
 comments: true

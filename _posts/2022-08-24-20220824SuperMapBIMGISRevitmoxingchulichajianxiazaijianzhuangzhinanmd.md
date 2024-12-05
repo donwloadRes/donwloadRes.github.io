@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SuperMap BIM+GIS-Revit模型处理插件下载及安装指南"
+title: "SuperMap BIMGISRevit模型处理插件下载及安装指南"
 date:   2022-10-29
 tags: [插件,Revit,SuperMap,BIM,GIS]
 comments: true

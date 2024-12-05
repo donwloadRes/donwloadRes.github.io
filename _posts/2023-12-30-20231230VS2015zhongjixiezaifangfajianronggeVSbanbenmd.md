@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2015终极卸载方法（兼容各VS版本）"
+title: "VS2015终极卸载方法兼容各VS版本"
 date:   2023-05-28
 tags: [卸载,Visual,Studio,exe,版本]
 comments: true

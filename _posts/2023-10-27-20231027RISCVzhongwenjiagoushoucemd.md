@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V中文架构手册"
+title: "RISCV中文架构手册"
 date:   2022-02-21
 tags: [RISC,架构,手册,中文,Reader]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.1.1.17 中文版 2024 最新安装图文激活教程"
+title: "Guitar Pro 81117 中文版 2024 最新安装图文激活教程"
 date:   2022-07-13
 tags: [安装,8.1,1.17,中文版,Guitar]
 comments: true

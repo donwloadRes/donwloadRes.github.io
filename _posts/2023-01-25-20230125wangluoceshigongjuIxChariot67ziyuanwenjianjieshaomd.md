@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络测试工具IxChariot 6.7 资源文件介绍"
+title: "网络测试工具IxChariot 67 资源文件介绍"
 date:   2020-03-19
 tags: [IxChariot,6.7,Endpoint,文件,破解]
 comments: true

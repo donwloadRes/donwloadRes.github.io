@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AVL-CRUISE纯电动汽车动力性经济性仿真资源介绍"
+title: "AVLCRUISE纯电动汽车动力性经济性仿真资源介绍"
 date:   2023-12-20
 tags: [仿真,电动汽车,动力性,AVL,CRUISE]
 comments: true

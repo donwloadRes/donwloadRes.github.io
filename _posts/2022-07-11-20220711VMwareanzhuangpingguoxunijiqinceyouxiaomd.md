@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware安装苹果虚拟机-亲测有效"
+title: "VMware安装苹果虚拟机亲测有效"
 date:   2020-05-15
 tags: [VMware,苹果,安装,虚拟机,系统]
 comments: true

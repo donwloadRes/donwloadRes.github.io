@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot + Elasticsearch实战项目"
+title: "基于SpringBoot  Elasticsearch实战项目"
 date:   2020-02-09
 tags: [Elasticsearch,SpringBoot,查询,项目,搜索]
 comments: true

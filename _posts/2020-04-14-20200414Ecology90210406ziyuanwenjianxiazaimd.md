@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ecology9.0.2104.06 资源文件下载"
+title: "Ecology90210406 资源文件下载"
 date:   2020-07-22
 tags: [文件,Ecology,2104.06,Ecology9.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1800-2023 SystemVerilog新版本资源下载"
+title: "IEEE 18002023 SystemVerilog新版本资源下载"
 date:   2024-05-27
 tags: [IEEE,版本,1800,2023,SystemVerilog]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNAP处理Sentinel-1数据的详细指导"
+title: "SNAP处理Sentinel1数据的详细指导"
 date:   2020-05-11
 tags: [SNAP,Sentinel,指导,详细,数据]
 comments: true

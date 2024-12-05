@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPD04810数字控制AC-DC变换器（PFC-LLC）硬件设计报告"
+title: "LPD04810数字控制ACDC变换器PFCLLC硬件设计报告"
 date:   2023-02-07
 tags: [电路,LLC,PFC,DC,变换器]
 comments: true

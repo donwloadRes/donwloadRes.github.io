@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iperf3 网速测试工具 (Windows 64位 + Android)"
+title: "iperf3 网速测试工具 Windows 64位  Android"
 date:   2020-03-12
 tags: [iperf3,Android,网速,测试工具,Windows]
 comments: true

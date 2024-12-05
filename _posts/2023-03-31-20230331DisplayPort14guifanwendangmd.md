@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Display Port 1.4 规范文档"
+title: "Display Port 14 规范文档"
 date:   2020-09-20
 tags: [Display,1.4,Port,文档,技术]
 comments: true

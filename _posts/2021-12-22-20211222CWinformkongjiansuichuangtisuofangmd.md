@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform控件随窗体缩放"
+title: "C Winform控件随窗体缩放"
 date:   2023-09-11
 tags: [控件,缩放,窗体,Winform,C#]
 comments: true

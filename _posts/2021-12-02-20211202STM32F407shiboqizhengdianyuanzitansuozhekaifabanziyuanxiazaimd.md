@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407示波器 - 正点原子探索者开发板资源下载"
+title: "STM32F407示波器  正点原子探索者开发板资源下载"
 date:   2020-04-10
 tags: [波形,开发板,STM32F407,引脚,采集]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现基于TCP-IP的通信"
+title: "MATLAB实现基于TCPIP的通信"
 date:   2020-04-29
 tags: [MATLAB,示例,TCP,IP,传输]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "房测之友(BMF2018)免数据库版BMFse介绍"
+title: "房测之友BMF2018免数据库版BMFse介绍"
 date:   2024-09-19
 tags: [数据库,BMFse,房测,BMF2018,CAD]
 comments: true

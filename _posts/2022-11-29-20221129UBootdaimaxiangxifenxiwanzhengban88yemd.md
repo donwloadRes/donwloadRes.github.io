@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Boot代码详细分析完整版(88页)"
+title: "UBoot代码详细分析完整版88页"
 date:   2022-06-04
 tags: [Boot,理解,88,详细分析,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理（龙书）部分答案"
+title: "编译原理龙书部分答案"
 date:   2024-06-19
 tags: [编译,答案,原理,习题,龙书]
 comments: true

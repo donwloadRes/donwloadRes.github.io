@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTTP(web)文件分享软件HFS3介绍"
+title: "HTTPweb文件分享软件HFS3介绍"
 date:   2022-06-22
 tags: [分享,HFS3,文件,web,HTTP]
 comments: true

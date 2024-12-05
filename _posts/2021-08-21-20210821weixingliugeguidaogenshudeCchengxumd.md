@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卫星六个轨道根数的C++程序"
+title: "卫星六个轨道根数的C程序"
 date:   2020-12-27
 tags: [根数,卫星,轨道,程序,二体问题]
 comments: true

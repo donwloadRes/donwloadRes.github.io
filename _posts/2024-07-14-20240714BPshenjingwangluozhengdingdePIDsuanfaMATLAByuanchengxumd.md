@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络整定的PID算法_MATLAB源程序"
+title: "BP神经网络整定的PID算法MATLAB源程序"
 date:   2021-03-29
 tags: [PID,神经网络,BP,整定,源程序]
 comments: true

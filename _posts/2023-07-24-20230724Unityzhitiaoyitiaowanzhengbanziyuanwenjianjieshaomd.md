@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity之跳一跳（完整版）资源文件介绍"
+title: "Unity之跳一跳完整版资源文件介绍"
 date:   2022-01-24
 tags: [游戏,Unity,文件,资源,盒子]
 comments: true

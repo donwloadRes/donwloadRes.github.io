@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最好用的电子狗模拟器MultiKey Emulators18.0.2（x32 x64）"
+title: "最好用的电子狗模拟器MultiKey Emulators1802x32 x64"
 date:   2024-07-29
 tags: [模拟器,x32,x64,电子狗,MultiKey]
 comments: true

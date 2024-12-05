@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "scrcpy_1.16.zip - 解决MacOS 13.6 Scrcpy安装问题"
+title: "scrcpy116zip  解决MacOS 136 Scrcpy安装问题"
 date:   2022-01-12
 tags: [Scrcpy,scrcpy,1.16,zip,MacOS]
 comments: true

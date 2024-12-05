@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C IRF（堆叠）基础配置案例"
+title: "H3C IRF堆叠基础配置案例"
 date:   2023-01-22
 tags: [H3C,堆叠,IRF,案例,配置]
 comments: true

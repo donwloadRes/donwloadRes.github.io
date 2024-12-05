@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DATCOM 计算导弹气动参数（2011版示例）"
+title: "DATCOM 计算导弹气动参数2011版示例"
 date:   2022-05-05
 tags: [DATCOM,示例,气动,2011,文件]
 comments: true

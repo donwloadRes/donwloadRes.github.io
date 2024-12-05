@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADALM-Pluto Simulink 插件下载"
+title: "ADALMPluto Simulink 插件下载"
 date:   2020-06-01
 tags: [Simulink,插件,ADALM,Pluto,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell缺失mfc110u.dll文件解决指南"
+title: "Xshell缺失mfc110udll文件解决指南"
 date:   2022-05-17
 tags: [Xshell,dll,mfc110u,Redistributable,缺失]
 comments: true

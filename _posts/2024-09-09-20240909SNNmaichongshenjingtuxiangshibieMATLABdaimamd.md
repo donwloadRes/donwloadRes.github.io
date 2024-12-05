@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNN脉冲神经图像识别【MATLAB代码】"
+title: "SNN脉冲神经图像识别MATLAB代码"
 date:   2024-11-11
 tags: [SNN,MATLAB,脉冲,神经网络,Tempotron]
 comments: true

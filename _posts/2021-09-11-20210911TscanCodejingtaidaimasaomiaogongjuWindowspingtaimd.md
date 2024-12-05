@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TscanCode 静态代码扫描工具（Windows平台）"
+title: "TscanCode 静态代码扫描工具Windows平台"
 date:   2020-11-08
 tags: [TscanCode,代码,扫描,Windows,静态]
 comments: true

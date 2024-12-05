@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NHapi20 最新源码：C#解析HL7数据"
+title: "NHapi20 最新源码C解析HL7数据"
 date:   2024-05-31
 tags: [源码,HL7,NHapi20,C#,解析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD完全应用指南—AutoLISP DCL Visual LISP程序设计篇(随书光盘)"
+title: "AutoCAD完全应用指南AutoLISP DCL Visual LISP程序设计篇随书光盘"
 date:   2022-06-18
 tags: [AutoCAD,AutoLISP,DCL,Visual,LISP]
 comments: true

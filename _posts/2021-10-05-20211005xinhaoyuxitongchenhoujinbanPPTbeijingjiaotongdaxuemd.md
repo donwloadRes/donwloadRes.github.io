@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统（陈后金版）PPT_北京交通大学"
+title: "信号与系统陈后金版PPT北京交通大学"
 date:   2022-03-06
 tags: [信号,PPT,系统分析,系统,学习]
 comments: true

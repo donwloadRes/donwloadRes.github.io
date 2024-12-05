@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ABB PC SDK参考代码"
+title: "C ABB PC SDK参考代码"
 date:   2020-07-15
 tags: [二次开发,BB机,器人,代码,ABB]
 comments: true

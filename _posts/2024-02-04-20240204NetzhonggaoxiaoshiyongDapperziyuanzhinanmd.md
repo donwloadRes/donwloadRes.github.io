@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net 中高效使用 Dapper 资源指南"
+title: "Net 中高效使用 Dapper 资源指南"
 date:   2022-10-09
 tags: [Dapper,示例,数据库,代码,Net]
 comments: true

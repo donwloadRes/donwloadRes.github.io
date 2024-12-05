@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下安装VMware Workstation 14.0 Pro教程"
+title: "Windows下安装VMware Workstation 140 Pro教程"
 date:   2023-03-10
 tags: [安装,Pro,VMware,Workstation,Windows]
 comments: true

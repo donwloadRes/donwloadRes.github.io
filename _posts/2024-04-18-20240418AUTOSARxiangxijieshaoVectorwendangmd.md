@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR详细介绍（Vector文档）"
+title: "AUTOSAR详细介绍Vector文档"
 date:   2023-03-25
 tags: [AUTOSAR,Vector,文档,初学者,应用]
 comments: true

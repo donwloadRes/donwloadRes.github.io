@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雾霾图像数据集 - 大雾"
+title: "雾霾图像数据集  大雾"
 date:   2020-07-09
 tags: [图像,大雾,数据,图像处理,视觉]
 comments: true

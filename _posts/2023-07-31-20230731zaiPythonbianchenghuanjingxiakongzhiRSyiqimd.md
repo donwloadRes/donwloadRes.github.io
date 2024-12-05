@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Python编程环境下控制R&S仪器"
+title: "在Python编程环境下控制RS仪器"
 date:   2020-06-12
 tags: [Python,仪器,测试,自动化,编程]
 comments: true

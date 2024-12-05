@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装配置debug.exe和DOSBox指南"
+title: "Win10安装配置debugexe和DOSBox指南"
 date:   2021-06-25
 tags: [DOSBox,debug,exe,DOS,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "加载器和连接器（Linkers and Loaders）资源下载"
+title: "加载器和连接器Linkers and Loaders资源下载"
 date:   2024-02-11
 tags: [连接器,加载,PDF,资源,Linkers]
 comments: true

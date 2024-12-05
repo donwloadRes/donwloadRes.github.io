@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RADStudio12.1（DELPHI12.1）注册工具"
+title: "RADStudio121DELPHI121注册工具"
 date:   2020-06-27
 tags: [12.1,工具,注册,RADStudio,RADStudio12.1]
 comments: true

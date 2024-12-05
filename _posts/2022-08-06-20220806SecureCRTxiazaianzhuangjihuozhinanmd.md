@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 下载、安装、激活指南"
+title: "SecureCRT 下载安装激活指南"
 date:   2023-12-23
 tags: [SecureCRT,安装,下载,激活,指南]
 comments: true

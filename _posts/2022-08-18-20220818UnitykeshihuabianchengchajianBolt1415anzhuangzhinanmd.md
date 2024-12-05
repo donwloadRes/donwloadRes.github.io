@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity可视化编程插件Bolt 1.4.15 安装指南"
+title: "Unity可视化编程插件Bolt 1415 安装指南"
 date:   2024-04-07
 tags: [Unity,Bolt,导入,15,安装]
 comments: true

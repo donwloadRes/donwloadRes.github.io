@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform窗体嵌入Office，打开Excel和Word"
+title: "Winform窗体嵌入Office打开Excel和Word"
 date:   2024-01-31
 tags: [Office,Winform,窗体,Excel,Word]
 comments: true

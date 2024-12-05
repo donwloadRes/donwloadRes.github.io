@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA Runtime 11.0 动态链接库文件"
+title: "CUDA Runtime 110 动态链接库文件"
 date:   2020-10-11
 tags: [CUDA,11.0,文件,cudart64,110]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA仿真工具 Modelsim 10.7 下载"
+title: "FPGA仿真工具 Modelsim 107 下载"
 date:   2022-02-22
 tags: [下载,10.7,Modelsim,FPGA,链接]
 comments: true

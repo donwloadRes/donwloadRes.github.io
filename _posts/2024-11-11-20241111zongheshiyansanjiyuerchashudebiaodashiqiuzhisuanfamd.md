@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "综合实验三：基于二叉树的表达式求值算法"
+title: "综合实验三基于二叉树的表达式求值算法"
 date:   2023-01-23
 tags: [表达式,二叉树,求值,算法,实验]
 comments: true

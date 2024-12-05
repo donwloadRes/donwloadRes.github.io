@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN2.0B协议（中文版）资源下载"
+title: "CAN20B协议中文版资源下载"
 date:   2022-05-20
 tags: [CAN2.0,协议,中文版,系统,通信]
 comments: true

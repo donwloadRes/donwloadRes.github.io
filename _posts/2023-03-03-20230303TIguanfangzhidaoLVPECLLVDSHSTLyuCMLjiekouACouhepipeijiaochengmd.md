@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI官方指导：LVPECL、LVDS、HSTL与CML接口AC耦合匹配教程"
+title: "TI官方指导LVPECLLVDSHSTL与CML接口AC耦合匹配教程"
 date:   2021-06-30
 tags: [AC,耦合,接口,CML,LVPECL]
 comments: true

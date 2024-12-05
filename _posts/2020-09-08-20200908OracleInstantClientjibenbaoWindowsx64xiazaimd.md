@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle Instant Client 基本包 (Windows x64) 下载"
+title: "Oracle Instant Client 基本包 Windows x64 下载"
 date:   2022-07-08
 tags: [Oracle,x64,11.2,0.4,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁兼容设计指南 - 1088页PPT完整版"
+title: "电磁兼容设计指南  1088页PPT完整版"
 date:   2023-01-22
 tags: [电磁兼容,1088,PPT,设计,抗扰度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WebService 服务端与调用端实例"
+title: "C WebService 服务端与调用端实例"
 date:   2024-10-26
 tags: [WebService,调用,C#,服务端,实例]
 comments: true

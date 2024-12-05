@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为电磁兼容性结构设计规范V2.0+ 介绍"
+title: "华为电磁兼容性结构设计规范V20 介绍"
 date:   2020-08-03
 tags: [电磁兼容,V2.0,文档,华为,设计规范]
 comments: true

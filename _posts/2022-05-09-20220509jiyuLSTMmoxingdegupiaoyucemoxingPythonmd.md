@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LSTM模型的股票预测模型_Python"
+title: "基于LSTM模型的股票预测模型Python"
 date:   2023-04-29
 tags: [模型,LSTM,Python,https,your]
 comments: true

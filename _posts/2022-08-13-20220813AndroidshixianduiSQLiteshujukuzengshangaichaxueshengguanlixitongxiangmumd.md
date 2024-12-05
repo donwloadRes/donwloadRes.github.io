@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android实现对SQLite数据库增删改查(学生管理系统项目)"
+title: "Android实现对SQLite数据库增删改查学生管理系统项目"
 date:   2021-01-08
 tags: [number,cursor,数据库,Android,String]
 comments: true

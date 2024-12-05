@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021电赛F题智能送药机器人（国二）资源下载"
+title: "2021电赛F题智能送药机器人国二资源下载"
 date:   2024-04-28
 tags: [主控,资源,Arduinomega2560,代码,送药]
 comments: true

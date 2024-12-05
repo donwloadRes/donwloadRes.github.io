@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue药店管理系统毕业设计资源"
+title: "SpringBootVue药店管理系统毕业设计资源"
 date:   2024-06-07
 tags: [毕业设计,药店,管理系统,数据库,SpringBoot]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Kafka 发送与接收 Demo"
+title: "C Kafka 发送与接收 Demo"
 date:   2024-03-26
 tags: [Kafka,string,using,C#,Confluent]
 comments: true

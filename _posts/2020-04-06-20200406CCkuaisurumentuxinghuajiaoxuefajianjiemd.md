@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++快速入门图形化教学法简介"
+title: "CC快速入门图形化教学法简介"
 date:   2024-10-11
 tags: [编程,图形化,C++,GoC,文件]
 comments: true

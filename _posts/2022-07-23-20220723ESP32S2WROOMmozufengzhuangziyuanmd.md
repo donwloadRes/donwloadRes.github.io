@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S2-WROOM 模组封装资源"
+title: "ESP32S2WROOM 模组封装资源"
 date:   2022-03-06
 tags: [封装,ESP32,S2,WROOM,原理图]
 comments: true

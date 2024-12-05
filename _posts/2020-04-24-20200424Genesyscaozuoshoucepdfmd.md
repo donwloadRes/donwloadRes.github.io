@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genesys操作手册.pdf"
+title: "Genesys操作手册pdf"
 date:   2024-04-11
 tags: [Genesys,操作手册,Avaya,DEFINITY,ECS]
 comments: true

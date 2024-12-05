@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天融信防火墙配置手册（一本通）"
+title: "天融信防火墙配置手册一本通"
 date:   2024-05-18
 tags: [防火墙,天融信,配置,手册,一本]
 comments: true

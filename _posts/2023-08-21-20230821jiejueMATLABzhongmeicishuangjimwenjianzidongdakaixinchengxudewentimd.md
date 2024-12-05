@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决MATLAB中每次双击.m文件自动打开新程序的问题"
+title: "解决MATLAB中每次双击m文件自动打开新程序的问题"
 date:   2024-04-23
 tags: [MATLAB,文件,双击,注册表,程序]
 comments: true

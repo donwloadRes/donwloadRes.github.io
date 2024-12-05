@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMCA-P 偏最小二乘PLS使用手册(中文版)"
+title: "SIMCAP 偏最小二乘PLS使用手册中文版"
 date:   2022-09-23
 tags: [SIMCA,PLS,最小,本手册,分析]
 comments: true

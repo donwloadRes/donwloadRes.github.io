@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.9.0安装及更改组件过程"
+title: "Qt590安装及更改组件过程"
 date:   2020-10-07
 tags: [安装,组件,单击,Qt,Qt5.9]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品24-智能安防平台概述"
+title: "QtC项目作品24智能安防平台概述"
 date:   2022-08-10
 tags: [Qt,安防,报警,视频,C++]
 comments: true

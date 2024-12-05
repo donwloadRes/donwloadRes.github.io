@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere ESXi 6.5 U2 集成 RTL81xx 网卡驱动安装包 ISO 镜像"
+title: "VMware vSphere ESXi 65 U2 集成 RTL81xx 网卡驱动安装包 ISO 镜像"
 date:   2021-09-07
 tags: [网卡,ISO,镜像,VMware,6.5]
 comments: true

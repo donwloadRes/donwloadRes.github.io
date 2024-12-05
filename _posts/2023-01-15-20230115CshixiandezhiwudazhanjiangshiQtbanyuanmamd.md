@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现的植物大战僵尸Qt版源码"
+title: "C实现的植物大战僵尸Qt版源码"
 date:   2022-07-12
 tags: [Qt,C++,源码,僵尸,大战]
 comments: true

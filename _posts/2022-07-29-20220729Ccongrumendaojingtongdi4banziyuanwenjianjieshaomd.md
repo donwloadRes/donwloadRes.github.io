@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#从入门到精通(第4版) 资源文件介绍"
+title: "C从入门到精通第4版 资源文件介绍"
 date:   2022-03-16
 tags: [C#,源码,文件,编程,入门]
 comments: true

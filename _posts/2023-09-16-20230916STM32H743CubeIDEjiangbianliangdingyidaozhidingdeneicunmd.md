@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H743+CubeIDE：将变量定义到指定的内存"
+title: "STM32H743CubeIDE将变量定义到指定的内存"
 date:   2020-05-10
 tags: [内存,STM32H743,定义,变量,DTCM]
 comments: true

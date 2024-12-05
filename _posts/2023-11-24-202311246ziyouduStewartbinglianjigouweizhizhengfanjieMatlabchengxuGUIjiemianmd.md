@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6自由度Stewart并联机构位置正反解Matlab程序+GUI界面"
+title: "6自由度Stewart并联机构位置正反解Matlab程序GUI界面"
 date:   2020-10-22
 tags: [GUI,Stewart,界面,Matlab,程序]
 comments: true

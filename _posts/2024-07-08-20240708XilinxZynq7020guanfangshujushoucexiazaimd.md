@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq-7020 官方数据手册下载"
+title: "Xilinx Zynq7020 官方数据手册下载"
 date:   2022-11-18
 tags: [7020,Zynq,手册,Xilinx,硬件]
 comments: true

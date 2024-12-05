@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国青少年软件编程等级考试(Scratch)一级保过模拟题【5套】"
+title: "全国青少年软件编程等级考试Scratch一级保过模拟题5套"
 date:   2023-12-15
 tags: [模拟题,考试,编程,Scratch,知识点]
 comments: true

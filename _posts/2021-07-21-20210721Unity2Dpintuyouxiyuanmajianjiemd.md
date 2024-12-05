@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Unity2D】拼图游戏源码简介"
+title: "Unity2D拼图游戏源码简介"
 date:   2023-08-24
 tags: [Unity,拼图,拼图游戏,游戏,源代码]
 comments: true

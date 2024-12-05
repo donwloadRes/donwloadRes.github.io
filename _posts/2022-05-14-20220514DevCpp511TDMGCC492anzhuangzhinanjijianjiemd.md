@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-Cpp 5.11 TDM-GCC 4.9.2 安装指南及简介"
+title: "DevCpp 511 TDMGCC 492 安装指南及简介"
 date:   2023-01-06
 tags: [C++,Dev,Cpp,TDM,GCC]
 comments: true

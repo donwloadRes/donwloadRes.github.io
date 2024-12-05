@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NotePad++ 16进制显示与HexEditor插件安装指南"
+title: "NotePad 16进制显示与HexEditor插件安装指南"
 date:   2021-06-22
 tags: [插件,HexEditor,++,NotePad,16]
 comments: true

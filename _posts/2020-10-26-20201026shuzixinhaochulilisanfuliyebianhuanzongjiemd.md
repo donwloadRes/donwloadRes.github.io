@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理-离散傅里叶变换总结"
+title: "数字信号处理离散傅里叶变换总结"
 date:   2023-05-19
 tags: [傅里叶,变换,离散,卷积,信号处理]
 comments: true

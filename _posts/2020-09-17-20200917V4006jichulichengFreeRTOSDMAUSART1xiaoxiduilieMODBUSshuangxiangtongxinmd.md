@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "V4-006 基础例程 + FreeRTOS + DMA + USART1 + 消息队列 + MODBUS 双向通信"
+title: "V4006 基础例程  FreeRTOS  DMA  USART1  消息队列  MODBUS 双向通信"
 date:   2020-03-08
 tags: [MSG,MODBUS,任务,DI,队列]
 comments: true

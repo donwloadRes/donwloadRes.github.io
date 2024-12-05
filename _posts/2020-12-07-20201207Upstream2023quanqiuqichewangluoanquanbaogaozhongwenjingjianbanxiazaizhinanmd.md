@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Upstream 2023全球汽车网络安全报告（中文精简版）下载指南"
+title: "Upstream 2023全球汽车网络安全报告中文精简版下载指南"
 date:   2024-03-22
 tags: [网络安全,汽车行业,汽车,报告,2023]
 comments: true

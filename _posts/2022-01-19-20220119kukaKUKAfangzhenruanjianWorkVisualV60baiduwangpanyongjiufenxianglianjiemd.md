@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "库卡KUKA仿真软件 WorkVisual_V6.0 百度网盘 永久分享链接"
+title: "库卡KUKA仿真软件 WorkVisualV60 百度网盘 永久分享链接"
 date:   2023-03-11
 tags: [库卡,WorkVisual,V6.0,软件,仿真]
 comments: true

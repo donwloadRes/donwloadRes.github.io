@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink实现2PSK-2DPSK调制解调系统"
+title: "Simulink实现2PSK2DPSK调制解调系统"
 date:   2024-03-12
 tags: [Simulink,解调,调制,实验,2PSK]
 comments: true

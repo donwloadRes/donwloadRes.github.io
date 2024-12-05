@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200与ACS510变频器MODBUS通信完整版"
+title: "S7200与ACS510变频器MODBUS通信完整版"
 date:   2021-02-13
 tags: [变频器,S7,200,ACS510,MODBUS]
 comments: true

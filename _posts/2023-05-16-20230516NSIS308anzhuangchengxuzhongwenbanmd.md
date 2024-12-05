@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSIS 3.08 安装程序中文版"
+title: "NSIS 308 安装程序中文版"
 date:   2024-02-17
 tags: [安装程序,NSIS,3.08,安装,解压]
 comments: true

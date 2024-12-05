@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计（饭店点餐系统）"
+title: "数据库课程设计饭店点餐系统"
 date:   2021-08-28
 tags: [数据库,点餐,课程设计,SQL,饭店]
 comments: true

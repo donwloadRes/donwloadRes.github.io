@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBI DAX函数入门到精通教程【第二卷】.pdf"
+title: "PowerBI DAX函数入门到精通教程第二卷pdf"
 date:   2021-10-27
 tags: [DAX,函数,教程,数据分析,Power]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS插件 - 尤图工具"
+title: "ArcGIS插件  尤图工具"
 date:   2024-07-05
 tags: [ArcGIS,插件,尤图,制图,工具]
 comments: true

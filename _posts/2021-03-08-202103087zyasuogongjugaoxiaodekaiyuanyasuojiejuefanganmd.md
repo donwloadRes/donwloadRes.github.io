@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7z压缩工具 - 高效的开源压缩解决方案"
+title: "7z压缩工具  高效的开源压缩解决方案"
 date:   2021-10-25
 tags: [7z,压缩,高效,格式,压缩工具]
 comments: true

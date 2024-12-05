@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 下载、安装及配置指南"
+title: "JDK 下载安装及配置指南"
 date:   2022-09-28
 tags: [JDK,安装,下载,JAVA,HOME%]
 comments: true

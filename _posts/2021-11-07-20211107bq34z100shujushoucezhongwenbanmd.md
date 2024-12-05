@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bq34z100数据手册(中文版)"
+title: "bq34z100数据手册中文版"
 date:   2023-10-11
 tags: [手册,bq34z100,中文版,文件,芯片]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法工程面试必备：图像处理与OpenCV问题集锦"
+title: "算法工程面试必备图像处理与OpenCV问题集锦"
 date:   2020-10-01
 tags: [图像处理,OpenCV,面试,算法,工程]
 comments: true

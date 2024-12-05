@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2244LT_SM2250主控固态开盘工具"
+title: "SM2244LTSM2250主控固态开盘工具"
 date:   2020-07-10
 tags: [数据恢复,数据,工具,固态,硬盘]
 comments: true

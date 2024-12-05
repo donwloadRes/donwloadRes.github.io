@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 1909A-2009 装备可靠性维修性保障性要求论证"
+title: "GJB 1909A2009 装备可靠性维修性保障性要求论证"
 date:   2024-12-03
 tags: [维修性,文件,保障性,可靠性,2009]
 comments: true

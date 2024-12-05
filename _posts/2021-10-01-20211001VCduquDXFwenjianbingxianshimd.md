@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++读取DXF文件并显示"
+title: "VC读取DXF文件并显示"
 date:   2021-03-21
 tags: [DXF,C++,文件,图形,读取]
 comments: true

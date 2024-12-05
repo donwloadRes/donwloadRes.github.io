@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细！VMware Workstation Pro15.5 安装、创建虚拟机及安装CentOS 7教程"
+title: "超详细VMware Workstation Pro155 安装创建虚拟机及安装CentOS 7教程"
 date:   2021-04-06
 tags: [安装,CentOS,虚拟机,VMware,Workstation]
 comments: true

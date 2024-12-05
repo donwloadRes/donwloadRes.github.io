@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彩虹易支付系统源码 (2024年2月版) - 支持USDT支付"
+title: "彩虹易支付系统源码 2024年2月版  支持USDT支付"
 date:   2021-07-06
 tags: [支付,USDT,系统,插件,彩虹]
 comments: true

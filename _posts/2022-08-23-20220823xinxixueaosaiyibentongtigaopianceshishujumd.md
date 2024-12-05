@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息学奥赛一本通(提高篇)测试数据"
+title: "信息学奥赛一本通提高篇测试数据"
 date:   2023-06-21
 tags: [测试数据,信息学,奥赛,一本,算法]
 comments: true

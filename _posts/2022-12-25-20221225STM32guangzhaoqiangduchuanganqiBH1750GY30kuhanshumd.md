@@ -1,6 +1,59 @@
 ---
 layout: post
-title: "STM32 光照强度传感器 BH1750 GY-30 库函数"
+title: "STM32 光照强度传感器 BH1750 GY30 库函数
+date   20210608
+tags BH1750STM32光照强度传感器库函数
+comments true
+author admin
+
+ STM32 光照强度传感器 BH1750 GY30 库函数
+
+ 简介
+
+本仓库提供了一个用于STM32微控制器的光照强度传感器BH1750 GY30的库函数BH1750是一款数字式光照强度传感器广泛应用于各种光照检测项目中通过本库函数您可以轻松地在STM32平台上集成和使用BH1750传感器
+
+ 功能特点
+
+ 支持BH1750传感器的初始化和配置
+ 提供读取光照强度的函数
+ 兼容STM32标准库函数
+ 示例代码和详细文档
+
+ 目录结构
+
+
+STM32BH1750GY30
+ Inc
+    bh1750h
+    
+ Src
+    bh1750c
+    
+ Examples
+    mainc
+    
+ READMEmd
+ LICENSE
+
+
+ 使用方法
+
+1 克隆仓库
+    sh
+    git clone httpsgithubcomyourusernameSTM32BH1750GY30git
+    
+
+2 添加库文件
+     将Inc目录下的头文件添加到您的STM32项目中
+     将Src目录下的源文件添加到您的STM32项目中
+
+3 配置I2C接口
+     根据您的硬件配置在STM32项目中配置I2C接口
+
+4 初始化传感器
+     在您的mainc文件中包含bh1750h头文件并调用初始化函数
+    c
+    include bh1750h"
 date:   2021-06-08
 tags: [BH1750,STM32,光照强度,传感器,库函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无量寿经600全集MP3：程序员修心养性，静心专用"
+title: "无量寿经600全集MP3程序员修心养性静心专用"
 date:   2022-11-18
 tags: [MP3,程序员,600,寿经,静心]
 comments: true

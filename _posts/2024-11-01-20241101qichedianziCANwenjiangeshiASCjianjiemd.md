@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车电子 -- CAN文件格式ASC简介"
+title: "汽车电子  CAN文件格式ASC简介"
 date:   2022-02-25
 tags: [ASC,文件,文件格式,数据分析,CANoe]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J1939标准文档集合 - 英文原版 + 中文翻译"
+title: "J1939标准文档集合  英文原版  中文翻译"
 date:   2022-07-19
 tags: [J1939,SAE,文档,2004,标准]
 comments: true

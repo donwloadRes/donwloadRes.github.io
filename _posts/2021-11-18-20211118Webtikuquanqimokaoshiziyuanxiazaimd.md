@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web题库全（期末考试）资源下载"
+title: "Web题库全期末考试资源下载"
 date:   2023-11-25
 tags: [题库,Web,期末考试,题目,解压]
 comments: true

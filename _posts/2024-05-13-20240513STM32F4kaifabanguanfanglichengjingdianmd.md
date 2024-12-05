@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 F4 开发板 官方例程(经典)"
+title: "STM32 F4 开发板 官方例程经典"
 date:   2022-08-03
 tags: [例程,开发板,STM32,F4,外设]
 comments: true

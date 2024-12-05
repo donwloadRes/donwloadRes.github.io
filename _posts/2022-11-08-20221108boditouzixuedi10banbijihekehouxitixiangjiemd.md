@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博迪投资学》（第10版）笔记和课后习题详解"
+title: "博迪投资学第10版笔记和课后习题详解"
 date:   2023-10-09
 tags: [课后,习题,博迪,10,详解]
 comments: true

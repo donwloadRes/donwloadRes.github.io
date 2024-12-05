@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实现QQ聊天功能（超详细教程）"
+title: "Java实现QQ聊天功能超详细教程"
 date:   2023-09-27
 tags: [Java,客户端,聊天,编程,教程]
 comments: true

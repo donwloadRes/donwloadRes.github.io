@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT698.45 电能表管理软件"
+title: "DLT69845 电能表管理软件"
 date:   2024-07-17
 tags: [DLT698.45,电能表,管理软件,安装,MeterManager.7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产PHY芯片YT8521SH-CA技术文档"
+title: "国产PHY芯片YT8521SHCA技术文档"
 date:   2022-07-11
 tags: [YT8521SH,CA,芯片,PHY,文档]
 comments: true

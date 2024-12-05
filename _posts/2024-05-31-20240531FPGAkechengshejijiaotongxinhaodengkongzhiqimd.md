@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA课程设计：交通信号灯控制器"
+title: "FPGA课程设计交通信号灯控制器"
 date:   2024-02-28
 tags: [支道,信号灯,主干道,交通,控制器]
 comments: true

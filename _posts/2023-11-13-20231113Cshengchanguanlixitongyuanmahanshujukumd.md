@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 生产管理系统源码(含数据库)"
+title: "C 生产管理系统源码含数据库"
 date:   2024-11-25
 tags: [数据库,C#,管理系统,源码,文件]
 comments: true

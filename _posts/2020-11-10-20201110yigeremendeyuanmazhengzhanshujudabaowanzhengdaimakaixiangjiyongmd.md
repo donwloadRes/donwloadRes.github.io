@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一个热门的源码整站数据打包完整代码（开箱即用）"
+title: "一个热门的源码整站数据打包完整代码开箱即用"
 date:   2020-12-02
 tags: [网站,资源,整站,WordPress,打包]
 comments: true

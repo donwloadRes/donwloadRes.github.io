@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享119个Android手机应用源代码：总有一个是你想要的"
+title: "分享119个Android手机应用源代码总有一个是你想要的"
 date:   2022-08-20
 tags: [Android,源代码,应用,119,学习]
 comments: true

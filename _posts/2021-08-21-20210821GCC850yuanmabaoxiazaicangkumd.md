@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 8.5.0 源码包下载仓库"
+title: "GCC 850 源码包下载仓库"
 date:   2020-10-21
 tags: [8.5,GCC,编译,源码,gcc]
 comments: true

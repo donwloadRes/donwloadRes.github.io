@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoGebra5使用手册 - 唐家军1"
+title: "GeoGebra5使用手册  唐家军1"
 date:   2024-07-12
 tags: [GeoGebra,帮助,唐家军,用户,使用手册]
 comments: true

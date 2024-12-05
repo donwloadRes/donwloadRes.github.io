@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RobotStudio实现喷漆、打磨等功能（曲面路径生成与仿真）"
+title: "RobotStudio实现喷漆打磨等功能曲面路径生成与仿真"
 date:   2023-04-03
 tags: [RobotStudio,路径,喷漆,打磨,仿真]
 comments: true

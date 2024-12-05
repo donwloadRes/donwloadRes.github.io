@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "掌上题库小程序 V1.2.2 全开源版本"
+title: "掌上题库小程序 V122 全开源版本"
 date:   2020-02-15
 tags: [题库,掌上,V1.2,付费,支持]
 comments: true

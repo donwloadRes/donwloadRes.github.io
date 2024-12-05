@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM下载器使用方法详解：百度网盘下载，视频会员一网打尽！"
+title: "IDM下载器使用方法详解百度网盘下载视频会员一网打尽"
 date:   2022-11-25
 tags: [IDM,下载,百度网,视频,下载速度]
 comments: true

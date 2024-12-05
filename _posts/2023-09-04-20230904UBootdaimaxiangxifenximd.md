@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Boot 代码详细分析"
+title: "UBoot 代码详细分析"
 date:   2020-11-27
 tags: [boot,Boot,BOOT,文件,NAND]
 comments: true

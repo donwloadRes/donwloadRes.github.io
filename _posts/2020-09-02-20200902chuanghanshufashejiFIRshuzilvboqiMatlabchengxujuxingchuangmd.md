@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "窗函数法设计FIR数字滤波器Matlab程序——矩形窗"
+title: "窗函数法设计FIR数字滤波器Matlab程序矩形窗"
 date:   2022-12-18
 tags: [FIR,Matlab,滤波器,程序,矩形]
 comments: true

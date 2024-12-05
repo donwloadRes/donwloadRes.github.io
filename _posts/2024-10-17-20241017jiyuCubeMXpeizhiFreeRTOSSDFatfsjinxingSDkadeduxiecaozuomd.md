@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CubeMX配置 FreeRTOS + SD + Fatfs 进行SD卡的读写操作"
+title: "基于CubeMX配置 FreeRTOS  SD  Fatfs 进行SD卡的读写操作"
 date:   2020-11-10
 tags: [SD,FreeRTOS,Fatfs,Keil,CubeMX]
 comments: true

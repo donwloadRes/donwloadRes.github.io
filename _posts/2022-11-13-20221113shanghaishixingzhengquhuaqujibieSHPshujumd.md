@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上海市行政区划（区级别）SHP数据"
+title: "上海市行政区划区级别SHP数据"
 date:   2020-05-31
 tags: [数据,SHP,行政区划,坐标,GIS]
 comments: true

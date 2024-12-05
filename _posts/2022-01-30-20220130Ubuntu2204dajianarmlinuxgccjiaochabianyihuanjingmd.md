@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04 搭建arm-linux-gcc交叉编译环境"
+title: "Ubuntu 2204 搭建armlinuxgcc交叉编译环境"
 date:   2021-09-20
 tags: [arm,gcc,linux,bash,编译]
 comments: true

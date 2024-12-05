@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDAL+TIFF+SQLITE+PROJ开发环境搭建源码包"
+title: "GDALTIFFSQLITEPROJ开发环境搭建源码包"
 date:   2020-11-09
 tags: [源码,GDAL,TIFF,SQLITE,环境]
 comments: true

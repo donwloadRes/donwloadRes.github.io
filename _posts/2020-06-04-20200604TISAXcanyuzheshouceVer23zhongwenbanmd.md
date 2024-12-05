@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TISAX参与者手册-Ver2.3（中文版）"
+title: "TISAX参与者手册Ver23中文版"
 date:   2020-06-09
 tags: [TISAX,信息安全,评估,手册,Ver2.3]
 comments: true

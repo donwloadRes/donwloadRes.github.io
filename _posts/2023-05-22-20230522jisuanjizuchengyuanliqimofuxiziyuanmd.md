@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【计算机组成原理】期末复习资源"
+title: "计算机组成原理期末复习资源"
 date:   2020-11-25
 tags: [复习,原理,计算机,期末,试卷]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式软硬件+STM32L431RCT6+SPI Flash+STM32新手学习+MCU验证+使用STM32CubeMX"
+title: "嵌入式软硬件STM32L431RCT6SPI FlashSTM32新手学习MCU验证使用STM32CubeMX"
 date:   2023-01-21
 tags: [芯片,STM32L431RCT6,嵌入式,STM32CubeMX,新手]
 comments: true

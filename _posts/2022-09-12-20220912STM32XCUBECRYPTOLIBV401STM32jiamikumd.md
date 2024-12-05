@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 X-CUBE-CRYPTOLIB V4.0.1 STM32加密库"
+title: "STM32 XCUBECRYPTOLIB V401 STM32加密库"
 date:   2022-04-02
 tags: [加密,STM32,CUBE,4.0,全系列]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI S8-0307E 半導體製造設備人因工程"
+title: "SEMI S80307E 半導體製造設備人因工程"
 date:   2021-04-18
 tags: [SEMI,半導,0307E,S8,安全]
 comments: true

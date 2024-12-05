@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "645电表调试软件(兼容97与07规约)"
+title: "645电表调试软件兼容97与07规约"
 date:   2024-02-08
 tags: [电能表,07,调试,规约,软件]
 comments: true

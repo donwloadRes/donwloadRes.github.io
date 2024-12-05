@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++核心编程资源下载"
+title: "C核心编程资源下载"
 date:   2021-12-07
 tags: [C++,编程,文件,核心,仓库]
 comments: true

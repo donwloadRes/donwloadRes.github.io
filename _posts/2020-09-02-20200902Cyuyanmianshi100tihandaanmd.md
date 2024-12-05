@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言面试100题（含答案）"
+title: "C语言面试100题含答案"
 date:   2020-06-15
 tags: [C语言,面试,100,int,题目]
 comments: true

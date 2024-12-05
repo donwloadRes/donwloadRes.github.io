@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机矢量控制(FOC)—MTPA控制及Simulink仿真"
+title: "永磁同步电机矢量控制FOCMTPA控制及Simulink仿真"
 date:   2020-10-14
 tags: [仿真,MTPA,Simulink,控制,同步电机]
 comments: true

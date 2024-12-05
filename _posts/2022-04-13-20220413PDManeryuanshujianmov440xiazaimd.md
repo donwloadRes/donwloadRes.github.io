@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDManer [元数建模]-v4.4.0 下载"
+title: "PDManer 元数建模v440 下载"
 date:   2020-12-27
 tags: [PDManer,建模,v4.4,数据表,元数]
 comments: true

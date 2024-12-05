@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SR1F-15SA-1-2 资源文件下载"
+title: "SR1F15SA12 资源文件下载"
 date:   2021-01-14
 tags: [SR1F,15SA,文件,PDF,下载]
 comments: true

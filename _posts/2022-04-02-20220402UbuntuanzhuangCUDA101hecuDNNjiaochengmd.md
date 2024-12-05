@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 安装 CUDA 10.1 和 cuDNN 教程"
+title: "Ubuntu 安装 CUDA 101 和 cuDNN 教程"
 date:   2021-02-25
 tags: [CUDA,安装,cuDNN,10.1,教程]
 comments: true

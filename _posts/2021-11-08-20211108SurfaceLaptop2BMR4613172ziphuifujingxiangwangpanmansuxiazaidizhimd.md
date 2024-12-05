@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SurfaceLaptop2_BMR_46_13.1.7_2.zip恢复镜像网盘满速下载地址"
+title: "SurfaceLaptop2BMR4613172zip恢复镜像网盘满速下载地址"
 date:   2020-06-01
 tags: [镜像文件,Surface,恢复,Laptop,SurfaceLaptop2]
 comments: true

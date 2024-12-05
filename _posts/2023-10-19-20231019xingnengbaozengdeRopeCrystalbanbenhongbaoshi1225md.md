@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "性能暴增的Rope Crystal版本：红宝石（12.25）"
+title: "性能暴增的Rope Crystal版本红宝石1225"
 date:   2024-02-10
 tags: [版本,12.25,红宝石,模型,性能]
 comments: true

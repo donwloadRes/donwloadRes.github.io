@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Camera Raw 13.0.2 8bi替换文件"
+title: "Camera Raw 1302 8bi替换文件"
 date:   2020-10-12
 tags: [Camera,Raw,替换,文件,8bi]
 comments: true

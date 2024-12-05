@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-Simulink电力系统建模与仿真教程"
+title: "MATLABSimulink电力系统建模与仿真教程"
 date:   2020-07-13
 tags: [电力系统,Simulink,仿真,MATLAB,教程]
 comments: true

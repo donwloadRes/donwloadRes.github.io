@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值计算方法（第三版）"
+title: "数值计算方法第三版"
 date:   2021-08-02
 tags: [数值,嵌入式,第三版,计算方法,计算]
 comments: true

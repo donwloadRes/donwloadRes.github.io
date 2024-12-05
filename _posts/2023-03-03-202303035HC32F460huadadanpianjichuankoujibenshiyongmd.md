@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5-HC32F460（华大单片机）- 串口（基本使用）"
+title: "5HC32F460华大单片机 串口基本使用"
 date:   2024-03-25
 tags: [串口,HC32F460,华大,单片机,ESP8266]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斐讯K2-K2路由器-闪云联刷机包"
+title: "斐讯K2K2路由器闪云联刷机包"
 date:   2022-08-20
 tags: [路由器,刷机,机包,斐讯,K2]
 comments: true

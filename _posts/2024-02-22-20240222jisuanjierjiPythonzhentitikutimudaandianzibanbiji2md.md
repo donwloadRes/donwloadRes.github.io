@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机二级Python真题题库（题目+答案）电子版笔记2"
+title: "计算机二级Python真题题库题目答案电子版笔记2"
 date:   2021-12-09
 tags: [Python,编程,计算机,考试,真题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S905L（P212）ATV 6.0 7.1修复版固件（Android TV）"
+title: "S905LP212ATV 60 71修复版固件Android TV"
 date:   2023-12-28
 tags: [固件,7.1,刷机,花屏,ATV]
 comments: true

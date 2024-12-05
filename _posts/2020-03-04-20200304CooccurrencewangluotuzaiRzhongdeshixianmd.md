@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Co-occurrence网络图在R中的实现"
+title: "Cooccurrence网络图在R中的实现"
 date:   2020-05-23
 tags: [网络,共现,网络图,教程,构建]
 comments: true

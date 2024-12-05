@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面向STM32Cube的STM32 USB-PD（电力传输）软件扩展"
+title: "面向STM32Cube的STM32 USBPD电力传输软件扩展"
 date:   2023-11-08
 tags: [USB,PD,STM32,STM32Cube,文档]
 comments: true

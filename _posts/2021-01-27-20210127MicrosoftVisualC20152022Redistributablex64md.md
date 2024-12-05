@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2015-2022 Redistributable (x64)"
+title: "Microsoft Visual C 20152022 Redistributable x64"
 date:   2022-06-29
 tags: [C++,Visual,2015,2022,Redistributable]
 comments: true

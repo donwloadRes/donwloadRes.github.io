@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JEDEC HBM2 (高带宽内存动态随机存取存储器) 资源介绍"
+title: "JEDEC HBM2 高带宽内存动态随机存取存储器 资源介绍"
 date:   2022-01-11
 tags: [HBM2,内存,JEDEC,高带宽,技术]
 comments: true

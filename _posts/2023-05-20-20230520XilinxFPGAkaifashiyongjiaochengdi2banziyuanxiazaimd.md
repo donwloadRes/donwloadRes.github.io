@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA开发实用教程（第2版）资源下载"
+title: "Xilinx FPGA开发实用教程第2版资源下载"
 date:   2021-11-20
 tags: [Xilinx,FPGA,实用教程,教程,资源]
 comments: true

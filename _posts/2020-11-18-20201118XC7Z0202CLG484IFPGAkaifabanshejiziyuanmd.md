@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XC7Z020-2CLG484I FPGA开发板设计资源"
+title: "XC7Z0202CLG484I FPGA开发板设计资源"
 date:   2020-10-06
 tags: [设计,XC7Z020,PCB,FPGA,2CLG484I]
 comments: true

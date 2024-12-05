@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 参考手册下载"
+title: "MySQL 80 参考手册下载"
 date:   2022-09-10
 tags: [MySQL,8.0,参考手册,pdf,手册]
 comments: true

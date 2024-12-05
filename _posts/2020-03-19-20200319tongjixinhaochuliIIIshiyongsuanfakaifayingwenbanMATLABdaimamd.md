@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计信号处理III：实用算法开发(英文版) + MATLAB代码"
+title: "统计信号处理III实用算法开发英文版  MATLAB代码"
 date:   2024-07-12
 tags: [MATLAB,信号处理,代码,算法,英文版]
 comments: true

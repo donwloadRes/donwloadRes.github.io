@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统 Project4: 虚拟存储器管理实践"
+title: "操作系统 Project4 虚拟存储器管理实践"
 date:   2022-05-22
 tags: [操作系统,Project4,虚拟存储器,项目,虚拟存储]
 comments: true

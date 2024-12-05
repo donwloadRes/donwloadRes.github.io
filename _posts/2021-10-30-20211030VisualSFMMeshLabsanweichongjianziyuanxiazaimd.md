@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualSFM+MeshLab三维重建资源下载"
+title: "VisualSFMMeshLab三维重建资源下载"
 date:   2022-07-17
 tags: [三维重建,VisualSFM,MeshLab,资源,文件]
 comments: true

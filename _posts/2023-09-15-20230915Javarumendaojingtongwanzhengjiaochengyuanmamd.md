@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java入门到精通完整教程+源码"
+title: "Java入门到精通完整教程源码"
 date:   2022-07-28
 tags: [Java,源码,教程,入门,文件]
 comments: true

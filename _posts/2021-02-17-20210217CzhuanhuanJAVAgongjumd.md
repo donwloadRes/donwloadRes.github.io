@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++转换JAVA工具"
+title: "C转换JAVA工具"
 date:   2023-12-30
 tags: [JAVA,工具,C++,转换,代码]
 comments: true

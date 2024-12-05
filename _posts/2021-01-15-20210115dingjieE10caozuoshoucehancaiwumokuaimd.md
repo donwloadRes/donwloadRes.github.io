@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷E10操作手册(含财务模块)"
+title: "鼎捷E10操作手册含财务模块"
 date:   2024-12-01
 tags: [鼎捷,E10,操作手册,模块,财务]
 comments: true

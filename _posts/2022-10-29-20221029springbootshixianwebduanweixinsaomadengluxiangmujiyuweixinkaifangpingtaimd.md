@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "springboot实现web端微信扫码登录项目（基于微信开放平台）"
+title: "springboot实现web端微信扫码登录项目基于微信开放平台"
 date:   2023-08-17
 tags: [微信,扫码,开放平台,登录,Spring]
 comments: true

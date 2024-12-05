@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文文本分类实战系列：朴素贝叶斯实现THUCNews文本分类"
+title: "中文文本分类实战系列朴素贝叶斯实现THUCNews文本分类"
 date:   2022-08-07
 tags: [分类,模型,贝叶斯,文本,THUCNews]
 comments: true

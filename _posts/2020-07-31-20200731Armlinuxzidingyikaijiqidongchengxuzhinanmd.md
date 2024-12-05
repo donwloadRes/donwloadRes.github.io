@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arm-linux 自定义开机启动程序指南"
+title: "Armlinux 自定义开机启动程序指南"
 date:   2022-04-06
 tags: [Arm,自定义,linux,程序,开机]
 comments: true

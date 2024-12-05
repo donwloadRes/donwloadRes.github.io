@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM2596芯片24V转5V DC-DC 电源电路设计详解"
+title: "LM2596芯片24V转5V DCDC 电源电路设计详解"
 date:   2023-06-10
 tags: [DC,5V,电路,24V,原理图]
 comments: true

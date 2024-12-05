@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析习题课讲义(下册) 下载仓库"
+title: "数学分析习题课讲义下册 下载仓库"
 date:   2024-11-26
 tags: [数学分析,习题课,下册,讲义,级数]
 comments: true

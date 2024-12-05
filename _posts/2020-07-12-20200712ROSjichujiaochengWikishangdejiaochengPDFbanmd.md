@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS基础教程：Wiki上的教程，PDF版"
+title: "ROS基础教程Wiki上的教程PDF版"
 date:   2020-05-21
 tags: [ROS,教程,PDF,Wiki,基础教程]
 comments: true

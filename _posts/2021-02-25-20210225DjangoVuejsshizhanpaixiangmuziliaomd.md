@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django + Vue.js 实战派：项目资料"
+title: "Django  Vuejs 实战派项目资料"
 date:   2020-02-06
 tags: [Django,js,Vue,项目,Web]
 comments: true

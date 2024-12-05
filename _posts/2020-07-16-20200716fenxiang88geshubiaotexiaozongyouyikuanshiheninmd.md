@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享88个鼠标特效，总有一款适合您"
+title: "分享88个鼠标特效总有一款适合您"
 date:   2020-05-12
 tags: [特效,鼠标,文件,88,jQuery]
 comments: true

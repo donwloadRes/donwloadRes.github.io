@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2547A-2012 装备测试性工作通用要求"
+title: "GJB 2547A2012 装备测试性工作通用要求"
 date:   2023-07-13
 tags: [测试,文件,装备,2012,GJB]
 comments: true

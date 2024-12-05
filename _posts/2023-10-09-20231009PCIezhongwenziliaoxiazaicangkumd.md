@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI-e中文资料下载仓库"
+title: "PCIe中文资料下载仓库"
 date:   2020-02-28
 tags: [PCI,中文,资料,仓库,下载]
 comments: true

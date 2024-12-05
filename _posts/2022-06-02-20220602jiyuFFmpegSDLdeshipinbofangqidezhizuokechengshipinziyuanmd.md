@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 FFmpeg + SDL 的视频播放器的制作》课程视频资源"
+title: "基于 FFmpeg  SDL 的视频播放器的制作课程视频资源"
 date:   2021-01-09
 tags: [视频,FFmpeg,SDL,播放器,课程]
 comments: true

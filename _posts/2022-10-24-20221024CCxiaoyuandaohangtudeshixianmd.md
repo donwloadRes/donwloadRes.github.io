@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++校园导航图的实现"
+title: "CC校园导航图的实现"
 date:   2021-04-28
 tags: [景点,路径,校园,C++,系统]
 comments: true

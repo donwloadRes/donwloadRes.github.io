@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIM模型一键输出 3D Tiles (Cesium) 和 glTF-glb"
+title: "BIM模型一键输出 3D Tiles Cesium 和 glTFglb"
 date:   2024-09-20
 tags: [3D,BIM,模型,转换,Tiles]
 comments: true

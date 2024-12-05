@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验4_桶形移位器1 资源文件介绍"
+title: "实验4桶形移位器1 资源文件介绍"
 date:   2023-09-22
 tags: [移位,实验,Viva,原理图,验证]
 comments: true

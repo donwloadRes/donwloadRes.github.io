@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据实战——商品推荐系统（Spark、Scala、MongoDB）"
+title: "大数据实战商品推荐系统SparkScalaMongoDB"
 date:   2021-05-25
 tags: [Spark,Scala,推荐,MongoDB,系统]
 comments: true

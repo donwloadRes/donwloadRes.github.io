@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【最简单】STM32+ESP8266+MQTT+EMQX实现数据上传与设备控制"
+title: "最简单STM32ESP8266MQTTEMQX实现数据上传与设备控制"
 date:   2020-04-16
 tags: [STM32,ESP8266,MQTT,EMQX,连接]
 comments: true

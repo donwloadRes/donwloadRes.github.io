@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 451A-2005可靠性维修性保障性术语资源文件"
+title: "GJB 451A2005可靠性维修性保障性术语资源文件"
 date:   2024-11-30
 tags: [维修性,术语,文件,保障性,2005]
 comments: true

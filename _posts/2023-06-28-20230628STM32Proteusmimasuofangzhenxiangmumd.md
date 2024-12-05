@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 + Proteus 密码锁仿真项目"
+title: "STM32  Proteus 密码锁仿真项目"
 date:   2023-11-08
 tags: [STM32,Proteus,仿真,解锁,数码管]
 comments: true

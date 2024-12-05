@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBS转EXE工具（打包工具）"
+title: "VBS转EXE工具打包工具"
 date:   2021-07-15
 tags: [EXE,VBS,文件,打包,工具]
 comments: true

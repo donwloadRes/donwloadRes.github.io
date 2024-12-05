@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于纳什谈判理论的风–光–氢多主体能源系统合作运行方法"
+title: "MATLAB代码基于纳什谈判理论的风光氢多主体能源系统合作运行方法"
 date:   2023-09-29
 tags: [代码,MATLAB,运行,纳什,主体]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【正点原子】I.MX6U嵌入式Qt开发指南V1.0.21 资源下载"
+title: "正点原子IMX6U嵌入式Qt开发指南V1021 资源下载"
 date:   2021-03-06
 tags: [嵌入式,MX6U,Qt,C++,开发]
 comments: true

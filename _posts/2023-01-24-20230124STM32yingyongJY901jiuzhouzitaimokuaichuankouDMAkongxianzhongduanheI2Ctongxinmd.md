@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32应用：JY901九轴姿态模块（串口DMA空闲中断和I2C通信）"
+title: "STM32应用JY901九轴姿态模块串口DMA空闲中断和I2C通信"
 date:   2022-10-17
 tags: [JY901,I2C,串口,模块,STM32]
 comments: true

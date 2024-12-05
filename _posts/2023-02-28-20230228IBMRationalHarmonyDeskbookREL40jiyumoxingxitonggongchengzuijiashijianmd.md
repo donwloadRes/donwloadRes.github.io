@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM Rational Harmony Deskbook REL 4.0 基于模型系统工程最佳实践"
+title: "IBM Rational Harmony Deskbook REL 40 基于模型系统工程最佳实践"
 date:   2022-04-02
 tags: [2.3,系统工程,2.2,4.3,模型]
 comments: true

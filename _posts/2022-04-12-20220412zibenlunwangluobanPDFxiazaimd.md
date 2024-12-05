@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资本论》网络版PDF下载"
+title: "资本论网络版PDF下载"
 date:   2021-07-08
 tags: [资本论,网络版,PDF,数学,下载]
 comments: true

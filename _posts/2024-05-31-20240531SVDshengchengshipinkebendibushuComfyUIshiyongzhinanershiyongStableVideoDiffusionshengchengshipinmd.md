@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【SVD生成视频+可本地部署】ComfyUI使用指南（二）——使用Stable Video Diffusion生成视频"
+title: "SVD生成视频可本地部署ComfyUI使用指南二使用Stable Video Diffusion生成视频"
 date:   2021-09-27
 tags: [SVD,视频,生成,ComfyUI,显存]
 comments: true

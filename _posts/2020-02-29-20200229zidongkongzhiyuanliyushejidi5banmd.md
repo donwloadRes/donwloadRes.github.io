@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理与设计（第5版）"
+title: "自动控制原理与设计第5版"
 date:   2022-09-14
 tags: [自动控制,理论,实践,自动化,设计]
 comments: true

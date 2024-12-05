@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 大写字母转小写程序"
+title: "C 大写字母转小写程序"
 date:   2022-10-31
 tags: [大写字母,程序,C++,小写,小写字母]
 comments: true

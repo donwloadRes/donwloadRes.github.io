@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "v4l2中文手册(规范)全五章(包含驱动编写)pdf"
+title: "v4l2中文手册规范全五章包含驱动编写pdf"
 date:   2024-06-12
 tags: [五章,v4l2,编写,pdf,文件]
 comments: true

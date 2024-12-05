@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言指令大全(详解版) PDF 下载"
+title: "汇编语言指令大全详解版 PDF 下载"
 date:   2022-08-20
 tags: [汇编语言,指令,PDF,详解,大全]
 comments: true

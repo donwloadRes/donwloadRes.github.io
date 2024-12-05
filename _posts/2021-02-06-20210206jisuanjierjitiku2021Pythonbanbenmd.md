@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机二级题库（2021 Python版本）"
+title: "计算机二级题库2021 Python版本"
 date:   2023-02-18
 tags: [题库,Python,考试,计算机,二级]
 comments: true

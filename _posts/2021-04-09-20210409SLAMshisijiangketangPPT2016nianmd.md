@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLAM十四讲课堂PPT - 2016年"
+title: "SLAM十四讲课堂PPT  2016年"
 date:   2020-02-25
 tags: [SLAM,PPT,2016,学习,课堂]
 comments: true

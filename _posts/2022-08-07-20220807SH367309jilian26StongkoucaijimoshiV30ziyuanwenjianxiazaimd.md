@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SH367309级联_26S_同口_采集模式_V3.0 资源文件下载"
+title: "SH367309级联26S同口采集模式V30 资源文件下载"
 date:   2021-03-11
 tags: [V3.0,SH367309,26S,同口,级联]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.2.3914 中文绿色版免安装下载"
+title: "FL Studio 21223914 中文绿色版免安装下载"
 date:   2021-05-07
 tags: [软件,绿色版,2.3914,效果器,制作]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4-STM32F1手把手移植MPU6050欧拉角(HAL库，带源码)"
+title: "STM32F4STM32F1手把手移植MPU6050欧拉角HAL库带源码"
 date:   2023-08-23
 tags: [MPU6050,串口,欧拉角,源码,I2C]
 comments: true

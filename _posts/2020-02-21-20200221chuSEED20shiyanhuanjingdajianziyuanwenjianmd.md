@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初-SEED 2.0实验环境搭建资源文件"
+title: "初SEED 20实验环境搭建资源文件"
 date:   2023-10-05
 tags: [实验,虚拟机,SEED,文件,镜像]
 comments: true

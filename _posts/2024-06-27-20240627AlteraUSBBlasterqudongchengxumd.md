@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altera USB-Blaster 驱动程序"
+title: "Altera USBBlaster 驱动程序"
 date:   2020-04-23
 tags: [驱动程序,Altera,Blaster,USB,Windows]
 comments: true

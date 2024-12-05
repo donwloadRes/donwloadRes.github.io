@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shiro Attack 4.7.0 序列化验证工具"
+title: "Shiro Attack 470 序列化验证工具"
 date:   2022-05-17
 tags: [序列化,4.7,工具,SNAPSHOT,验证]
 comments: true

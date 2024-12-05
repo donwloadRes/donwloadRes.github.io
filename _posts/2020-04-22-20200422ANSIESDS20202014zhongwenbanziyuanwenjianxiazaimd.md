@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSI ESD S20.20-2014(中文版) 资源文件下载"
+title: "ANSI ESD S20202014中文版 资源文件下载"
 date:   2022-03-31
 tags: [文件,ESD,2014,ANSI,S20.20]
 comments: true

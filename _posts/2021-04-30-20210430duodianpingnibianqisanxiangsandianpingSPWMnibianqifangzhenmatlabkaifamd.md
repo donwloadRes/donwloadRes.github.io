@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多电平逆变器：三相三电平SPWM逆变器仿真-matlab开发"
+title: "多电平逆变器三相三电平SPWM逆变器仿真matlab开发"
 date:   2021-04-29
 tags: [电平,逆变器,仿真,三相,SPWM]
 comments: true

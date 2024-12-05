@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息学奥赛一本通（C++版）在线评测系统答案"
+title: "信息学奥赛一本通C版在线评测系统答案"
 date:   2024-02-21
 tags: [奥赛,信息学,1000,1009,C++]
 comments: true

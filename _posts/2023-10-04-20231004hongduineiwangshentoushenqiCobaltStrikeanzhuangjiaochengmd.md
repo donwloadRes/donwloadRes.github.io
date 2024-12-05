@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红队内网渗透神器--CobaltStrike安装教程"
+title: "红队内网渗透神器CobaltStrike安装教程"
 date:   2022-03-27
 tags: [CobaltStrike,安装,教程,渗透,队内]
 comments: true

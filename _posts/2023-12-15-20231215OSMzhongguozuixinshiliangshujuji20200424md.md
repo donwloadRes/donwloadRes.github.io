@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSM中国最新矢量数据集-2020.04.24"
+title: "OSM中国最新矢量数据集20200424"
 date:   2023-11-28
 tags: [数据,矢量,24,OSM,2020.04]
 comments: true

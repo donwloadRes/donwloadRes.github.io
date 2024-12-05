@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell7 & Xftp7 家庭版（免费使用指南）"
+title: "Xshell7  Xftp7 家庭版免费使用指南"
 date:   2021-01-05
 tags: [Xftp7,文件传输,家庭版,远程,Xshell7]
 comments: true

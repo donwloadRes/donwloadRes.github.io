@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xbox360 RGH3.0 刷机教程"
+title: "Xbox360 RGH30 刷机教程"
 date:   2021-05-23
 tags: [刷机,教程,Xbox360,RGH3.0,拆机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构 C++ 语言描述》电子书下载"
+title: "数据结构 C 语言描述电子书下载"
 date:   2021-08-28
 tags: [数据结构,C++,William,电子书,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenMVS详细安装教程(Ubuntu 18.04)"
+title: "OpenMVS详细安装教程Ubuntu 1804"
 date:   2022-02-06
 tags: [OpenMVS,安装,VCGLib,版本,源码]
 comments: true

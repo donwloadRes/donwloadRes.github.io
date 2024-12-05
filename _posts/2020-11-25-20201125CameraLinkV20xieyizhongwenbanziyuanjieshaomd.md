@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CameraLink V2.0协议中文版资源介绍"
+title: "CameraLink V20协议中文版资源介绍"
 date:   2022-02-06
 tags: [CameraLink,V2.0,协议,中文版,资源]
 comments: true

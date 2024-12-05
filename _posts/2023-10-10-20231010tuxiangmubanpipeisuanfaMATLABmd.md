@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像模板匹配算法(MATLAB)"
+title: "图像模板匹配算法MATLAB"
 date:   2022-10-22
 tags: [图像,模板,MATLAB,匹配,算法]
 comments: true

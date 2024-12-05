@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 与 MES 数据传输指南"
+title: "C 与 MES 数据传输指南"
 date:   2022-02-11
 tags: [MES,示例,数据传输,C#,代码]
 comments: true

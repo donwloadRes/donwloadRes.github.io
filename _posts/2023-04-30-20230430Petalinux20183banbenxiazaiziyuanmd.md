@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Petalinux 2018.3 版本下载资源"
+title: "Petalinux 20183 版本下载资源"
 date:   2022-06-08
 tags: [下载,百度网,链接,Petalinux,2018.3]
 comments: true

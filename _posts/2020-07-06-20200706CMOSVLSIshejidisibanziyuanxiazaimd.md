@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMOS VLSI设计（第四版）资源下载"
+title: "CMOS VLSI设计第四版资源下载"
 date:   2021-06-06
 tags: [VLSI,设计,CMOS,第四版,读者]
 comments: true

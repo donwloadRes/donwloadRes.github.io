@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HaRepacker 4.2.4 WZ解包和重打包工具"
+title: "HaRepacker 424 WZ解包和重打包工具"
 date:   2024-03-21
 tags: [WZ,文件,HaRepacker,4.2,解包]
 comments: true

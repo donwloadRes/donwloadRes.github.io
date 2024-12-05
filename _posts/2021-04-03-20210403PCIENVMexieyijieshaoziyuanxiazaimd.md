@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE_NVMe协议介绍资源下载"
+title: "PCIENVMe协议介绍资源下载"
 date:   2024-06-25
 tags: [PCIE,协议,介绍,NVMe,文件]
 comments: true

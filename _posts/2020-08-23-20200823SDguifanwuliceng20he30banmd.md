@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD规范（物理层）（2.0和3.0版）"
+title: "SD规范物理层20和30版"
 date:   2020-07-24
 tags: [SD,物理层,2.0,规范,3.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱OPC通信软件（MX OPC Server 6.10 & 7.04）"
+title: "三菱OPC通信软件MX OPC Server 610  704"
 date:   2022-09-12
 tags: [OPC,MX,Server,PLC,软件]
 comments: true

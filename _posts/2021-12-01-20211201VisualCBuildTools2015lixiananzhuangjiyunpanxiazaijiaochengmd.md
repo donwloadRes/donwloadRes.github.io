@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ Build Tools 2015 离线安装及云盘下载教程"
+title: "Visual C Build Tools 2015 离线安装及云盘下载教程"
 date:   2024-05-31
 tags: [安装,离线,Visual,C++,云盘]
 comments: true

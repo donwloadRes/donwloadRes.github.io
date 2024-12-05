@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link USB通信错误解决方法"
+title: "STLink USB通信错误解决方法"
 date:   2024-01-30
 tags: [ST,Link,USB,固件,点击]
 comments: true

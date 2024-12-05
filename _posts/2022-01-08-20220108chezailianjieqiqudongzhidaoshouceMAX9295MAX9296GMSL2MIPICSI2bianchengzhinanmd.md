@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载连接器驱动指导手册MAX9295-MAX9296 GMSL2–MIPI–CSI–2 编程指南"
+title: "车载连接器驱动指导手册MAX9295MAX9296 GMSL2MIPICSI2 编程指南"
 date:   2022-07-02
 tags: [编程,连接器,GMSL2,MIPI,CSI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sokit-1.3-win32-chs.zip 下载仓库"
+title: "sokit13win32chszip 下载仓库"
 date:   2021-05-29
 tags: [1.3,数据包,sokit,端口,win32]
 comments: true

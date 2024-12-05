@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电赛-基于STM32正弦波逆变器设计资源下载"
+title: "电赛基于STM32正弦波逆变器设计资源下载"
 date:   2023-05-26
 tags: [逆变器,正弦波,STM32,电赛,设计]
 comments: true

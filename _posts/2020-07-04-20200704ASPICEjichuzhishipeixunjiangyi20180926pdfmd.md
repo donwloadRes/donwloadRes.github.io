@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASPICE基础知识培训讲义20180926.pdf"
+title: "ASPICE基础知识培训讲义20180926pdf"
 date:   2020-11-05
 tags: [ASPICE,讲义,基础知识,软件开发,培训]
 comments: true

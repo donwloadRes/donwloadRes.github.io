@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与OPC通讯必备库文件"
+title: "C与OPC通讯必备库文件"
 date:   2021-11-08
 tags: [OPC,dll,文件,C#,Interop]
 comments: true

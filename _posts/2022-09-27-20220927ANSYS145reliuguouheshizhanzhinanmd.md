@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS 14.5热流固耦合实战指南"
+title: "ANSYS 145热流固耦合实战指南"
 date:   2020-03-06
 tags: [ANSYS,耦合,14.5,热流,本书]
 comments: true

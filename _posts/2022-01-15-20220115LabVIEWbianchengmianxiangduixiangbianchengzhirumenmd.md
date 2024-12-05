@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW编程：面向对象编程之入门"
+title: "LabVIEW编程面向对象编程之入门"
 date:   2021-09-08
 tags: [LabVIEW,面向对象编程,编程,OOP,入门]
 comments: true

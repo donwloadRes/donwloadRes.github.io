@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyFatAP（华为AP升级调整软件）"
+title: "EasyFatAP华为AP升级调整软件"
 date:   2023-07-04
 tags: [AP,EasyFatAP,华为,升级,调整]
 comments: true

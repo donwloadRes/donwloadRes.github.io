@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从应用到创新：手机硬件研发与设计 第2版"
+title: "从应用到创新手机硬件研发与设计 第2版"
 date:   2023-11-23
 tags: [硬件,手机,设计,应用,研发]
 comments: true

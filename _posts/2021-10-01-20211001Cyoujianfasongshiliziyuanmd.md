@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 邮件发送示例资源"
+title: "C 邮件发送示例资源"
 date:   2020-11-01
 tags: [C#,邮件,发送,资源,邮箱]
 comments: true

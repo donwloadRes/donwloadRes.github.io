@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HAL库的STM32F103单片机DMA+串口数据收发功能实现"
+title: "基于HAL库的STM32F103单片机DMA串口数据收发功能实现"
 date:   2024-04-26
 tags: [DMA,串口,代码,HAL,STM32F103]
 comments: true

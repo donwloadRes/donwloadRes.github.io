@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TortoiseSVN V1.14 SVN 图形客户端+中文语言包（32 位+64 位）"
+title: "TortoiseSVN V114 SVN 图形客户端中文语言包32 位64 位"
 date:   2022-02-01
 tags: [TortoiseSVN,语言包,中文,32,64]
 comments: true

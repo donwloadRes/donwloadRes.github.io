@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Flume + Kafka + Spark的大型电商网站日志分析系统"
+title: "基于Flume  Kafka  Spark的大型电商网站日志分析系统"
 date:   2023-01-06
 tags: [日志,Flume,Spark,Kafka,系统]
 comments: true

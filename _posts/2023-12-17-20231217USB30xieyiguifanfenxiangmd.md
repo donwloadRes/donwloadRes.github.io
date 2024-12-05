@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.0协议规范分享"
+title: "USB 30协议规范分享"
 date:   2024-08-14
 tags: [USB,3.0,文档,规范,技术细节]
 comments: true

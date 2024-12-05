@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-Mind 8 激活指南"
+title: "XMind 8 激活指南"
 date:   2020-04-03
 tags: [Mind,激活,安装包,插件,文件]
 comments: true

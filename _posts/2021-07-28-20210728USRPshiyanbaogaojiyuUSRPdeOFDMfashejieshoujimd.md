@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USRP实验报告 - 基于USRP的OFDM发射接收机"
+title: "USRP实验报告  基于USRP的OFDM发射接收机"
 date:   2021-02-10
 tags: [USRP,OFDM,实验,实验报告,信号]
 comments: true

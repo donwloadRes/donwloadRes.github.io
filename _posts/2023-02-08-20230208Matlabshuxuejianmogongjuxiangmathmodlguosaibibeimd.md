@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab数学建模工具箱（mathmodl）：国赛必备"
+title: "Matlab数学建模工具箱mathmodl国赛必备"
 date:   2024-11-18
 tags: [建模,Matlab,数学,mathmodl,工具箱]
 comments: true

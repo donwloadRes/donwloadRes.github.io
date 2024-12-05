@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁场与电磁波公式总结-谢处方版"
+title: "电磁场与电磁波公式总结谢处方版"
 date:   2024-01-03
 tags: [电磁场,电磁波,公式,处方,总结]
 comments: true

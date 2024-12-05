@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学人工智能（李晶晶）全套资料"
+title: "电子科技大学人工智能李晶晶全套资料"
 date:   2021-12-02
 tags: [实验,代码,人工智能,算法,课件]
 comments: true

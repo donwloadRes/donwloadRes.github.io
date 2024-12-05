@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AFUEFIx64 5.16.01.0109 资源文件介绍"
+title: "AFUEFIx64 516010109 资源文件介绍"
 date:   2022-09-10
 tags: [刷写,BIOS,01.0109,AFUEFIx64,5.16]
 comments: true

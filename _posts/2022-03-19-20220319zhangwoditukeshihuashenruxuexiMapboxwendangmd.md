@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "掌握地图可视化：深入学习Mapbox文档"
+title: "掌握地图可视化深入学习Mapbox文档"
 date:   2021-05-28
 tags: [地图,Mapbox,文档,可视化,学习]
 comments: true

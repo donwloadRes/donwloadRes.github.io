@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus仿真51单片机：8个数码管显示学号"
+title: "Proteus仿真51单片机8个数码管显示学号"
 date:   2020-12-06
 tags: [Proteus,仿真,Keil,51,单片机]
 comments: true

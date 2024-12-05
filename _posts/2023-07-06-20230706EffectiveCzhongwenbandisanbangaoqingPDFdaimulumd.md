@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective C++中文版第三版 高清PDF带目录"
+title: "Effective C中文版第三版 高清PDF带目录"
 date:   2020-01-24
 tags: [C++,PDF,第三版,Effective,中文版]
 comments: true

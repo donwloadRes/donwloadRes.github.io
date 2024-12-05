@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART 之间 PROFINET IO 通信 附源码"
+title: "S7200 SMART 之间 PROFINET IO 通信 附源码"
 date:   2022-04-12
 tags: [S7,200,SMART,PROFINET,IO]
 comments: true

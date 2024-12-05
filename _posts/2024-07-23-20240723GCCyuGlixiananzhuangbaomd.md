@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC与G++离线安装包"
+title: "GCC与G离线安装包"
 date:   2023-09-02
 tags: [安装包,GCC,安装,++,无网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabView与西门子S7-1200 PLC以太网通讯指南"
+title: "LabView与西门子S71200 PLC以太网通讯指南"
 date:   2021-12-04
 tags: [LabView,S7,PLC,以太网,通讯]
 comments: true

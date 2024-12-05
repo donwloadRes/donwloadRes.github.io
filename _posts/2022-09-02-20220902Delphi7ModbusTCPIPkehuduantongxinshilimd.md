@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi7 Modbus TCP-IP 客户端通信实例"
+title: "Delphi7 Modbus TCPIP 客户端通信实例"
 date:   2022-05-30
 tags: [Delphi7,Modbus,TCP,IP,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解厄尔尼诺现象-微课资源下载"
+title: "详解厄尔尼诺现象微课资源下载"
 date:   2020-04-30
 tags: [厄尔尼诺,现象,地理学,资源,研究]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop纯净版简单安装无需秘钥(附加PS教程)"
+title: "Photoshop纯净版简单安装无需秘钥附加PS教程"
 date:   2021-06-18
 tags: [Photoshop,教程,秘钥,安装,安装包]
 comments: true

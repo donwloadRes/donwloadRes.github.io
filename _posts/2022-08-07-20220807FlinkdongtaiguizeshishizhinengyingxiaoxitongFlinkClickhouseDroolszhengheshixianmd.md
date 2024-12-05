@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flink动态规则实时智能营销系统（Flink+Clickhouse+Drools整合实现）"
+title: "Flink动态规则实时智能营销系统FlinkClickhouseDrools整合实现"
 date:   2020-09-12
 tags: [实时,Flink,营销,Drools,ClickHouse]
 comments: true

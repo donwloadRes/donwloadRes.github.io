@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAK格式转换工具 - Switch-NS游戏文件互转神器"
+title: "SAK格式转换工具  SwitchNS游戏文件互转神器"
 date:   2024-03-18
 tags: [游戏,转换,SAK,格式,工具]
 comments: true

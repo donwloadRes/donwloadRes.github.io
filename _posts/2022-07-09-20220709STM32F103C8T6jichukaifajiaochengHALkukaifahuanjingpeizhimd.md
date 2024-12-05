@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6基础开发教程（HAL库）—开发环境配置"
+title: "STM32F103C8T6基础开发教程HAL库开发环境配置"
 date:   2024-05-22
 tags: [教程,STM32F103C8T6,安装,下载,开发]
 comments: true

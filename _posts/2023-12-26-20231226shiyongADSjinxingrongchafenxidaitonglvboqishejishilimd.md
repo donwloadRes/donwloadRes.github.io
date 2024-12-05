@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用ADS进行容差分析：带通滤波器设计实例"
+title: "使用ADS进行容差分析带通滤波器设计实例"
 date:   2022-11-06
 tags: [ADS,良率,分析,容差,带通]
 comments: true

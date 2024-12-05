@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应动态规划(近似动态规划)-ADP MATLAB 编程资源"
+title: "自适应动态规划近似动态规划ADP MATLAB 编程资源"
 date:   2024-03-30
 tags: [ADP,MATLAB,动态,规划,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知识图谱概念与技术 - 教学PPT"
+title: "知识图谱概念与技术  教学PPT"
 date:   2024-07-03
 tags: [图谱,知识,PPT,技术,概念]
 comments: true

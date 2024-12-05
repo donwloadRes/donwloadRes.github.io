@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理系统 (SQL数据库) 文档"
+title: "图书馆管理系统 SQL数据库 文档"
 date:   2021-12-11
 tags: [数据库,SQL,管理系统,图书馆,文档]
 comments: true

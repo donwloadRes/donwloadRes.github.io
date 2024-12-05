@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-MAPSS 航天发动机涡轮发动机数据集"
+title: "CMAPSS 航天发动机涡轮发动机数据集"
 date:   2023-01-16
 tags: [数据,发动机,特定条件,MAPSS,FD001]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源飞控之王--PIXHAWK教程V0.4.10 下载仓库"
+title: "开源飞控之王PIXHAWK教程V0410 下载仓库"
 date:   2020-08-03
 tags: [PIXHAWK,教程,开源,飞控,--]
 comments: true

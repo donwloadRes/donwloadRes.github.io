@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械臂柔顺控制基于ROS的C++实现"
+title: "机械臂柔顺控制基于ROS的C实现"
 date:   2022-04-20
 tags: [ROS,控制,示例,机械,文档]
 comments: true

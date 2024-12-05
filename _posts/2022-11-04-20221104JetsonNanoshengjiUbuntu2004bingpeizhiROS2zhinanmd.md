@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jetson Nano升级Ubuntu20.04并配置ROS2指南"
+title: "Jetson Nano升级Ubuntu2004并配置ROS2指南"
 date:   2021-05-12
 tags: [ROS2,Jetson,Nano,指南,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WwR-MTK 联发科手机平板自制刷机包工具包"
+title: "WwRMTK 联发科手机平板自制刷机包工具包"
 date:   2023-03-09
 tags: [工具包,机包,MTK,WwR,自定义]
 comments: true

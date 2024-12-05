@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "PCA算法应用于人脸降维（扩充版）"
+title: "PCA算法应用于人脸降维扩充版
+date   20220930
+tags PCA算法人脸降维数据
+comments true
+author admin
+
+
+layout post
+title PCA算法应用于人脸降维扩充版"
 date:   2022-09-30
 tags: [PCA,算法,人脸,降维,数据]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "PCA算法应用于人脸降维（扩充版）"
+title: "PCA算法应用于人脸降维扩充版
+date   20220930
+tags PCA算法人脸降维数据
+comments true
+author admin
+
+
+layout post
+title PCA算法应用于人脸降维扩充版"
 date:   2021-05-05
 tags: [PCA,算法,人脸,降维,数据]
 comments: true

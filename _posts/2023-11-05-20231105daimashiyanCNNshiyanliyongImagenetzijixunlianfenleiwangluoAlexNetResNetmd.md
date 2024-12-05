@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【代码实验】CNN实验——利用Imagenet子集训练分类网络（AlexNet-ResNet）"
+title: "代码实验CNN实验利用Imagenet子集训练分类网络AlexNetResNet"
 date:   2020-10-22
 tags: [训练,模型,Imagenet,实验,子集]
 comments: true

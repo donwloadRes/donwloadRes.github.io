@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计（陈希孺）习题答案"
+title: "概率论与数理统计陈希孺习题答案"
 date:   2024-08-05
 tags: [习题,数理统计,概率论,答案,学习]
 comments: true

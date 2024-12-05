@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验室信息管理系统(LIMS)操作手册"
+title: "实验室信息管理系统LIMS操作手册"
 date:   2024-04-10
 tags: [LIMS,信息管理系统,实验室,系统,版本]
 comments: true

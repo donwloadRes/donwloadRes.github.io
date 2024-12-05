@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ STL库函数总结（纯手打，面向ACM竞赛）"
+title: "C STL库函数总结纯手打面向ACM竞赛"
 date:   2023-08-12
 tags: [迭代,算法,STL,ACM,竞赛]
 comments: true

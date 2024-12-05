@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASPICE V3.1 中文版资源文件"
+title: "ASPICE V31 中文版资源文件"
 date:   2020-01-12
 tags: [pdf,文件,ASPICE,V3.1,中文版]
 comments: true

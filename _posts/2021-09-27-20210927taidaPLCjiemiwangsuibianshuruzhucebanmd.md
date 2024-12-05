@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台达PLC解密王(随便输入注册版)"
+title: "台达PLC解密王随便输入注册版"
 date:   2022-08-14
 tags: [PLC,台达,解密,工具,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA右侧Maven窗口不见了？教你如何调出来！"
+title: "IDEA右侧Maven窗口不见了教你如何调出来"
 date:   2020-09-26
 tags: [Maven,IDEA,窗口,右侧,不见]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 1.4版协会标准下载"
+title: "HDMI 14版协会标准下载"
 date:   2020-11-02
 tags: [HDMI,版本,文件,1.4,V1.4]
 comments: true

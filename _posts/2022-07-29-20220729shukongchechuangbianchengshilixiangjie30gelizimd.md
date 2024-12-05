@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数控车床编程实例详解(30个例子）"
+title: "数控车床编程实例详解30个例子"
 date:   2020-07-24
 tags: [数控车床,编程,实例,30,图档]
 comments: true

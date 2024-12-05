@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决 fatal error C1083: 无法打开包括文件 "stdint.h": No such file or directory"
+title: "解决 fatal error C1083 无法打开包括文件 stdinth No such file or directory"
 date:   2021-03-28
 tags: [stdint,Visual,Studio,头文件,遇到]
 comments: true

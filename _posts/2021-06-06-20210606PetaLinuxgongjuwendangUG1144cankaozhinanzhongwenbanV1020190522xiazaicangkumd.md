@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PetaLinux工具文档UG1144：参考指南 (中文版) (V1.0_2019_0522) 下载仓库"
+title: "PetaLinux工具文档UG1144参考指南 中文版 V1020190522 下载仓库"
 date:   2023-12-08
 tags: [PetaLinux,文档,2019,V1.0,工具]
 comments: true

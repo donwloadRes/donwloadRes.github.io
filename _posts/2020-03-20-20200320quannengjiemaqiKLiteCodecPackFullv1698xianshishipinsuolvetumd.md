@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全能解码器 K-Lite Codec Pack Full v1698 （显示视频缩略图）"
+title: "全能解码器 KLite Codec Pack Full v1698 显示视频缩略图"
 date:   2024-08-23
 tags: [缩略图,视频文件,解码器,安装,视频]
 comments: true

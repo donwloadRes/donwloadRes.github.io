@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理与技术（第二版）资源下载"
+title: "编译原理与技术第二版资源下载"
 date:   2024-11-19
 tags: [编译,原理,下载,编译器,技术]
 comments: true

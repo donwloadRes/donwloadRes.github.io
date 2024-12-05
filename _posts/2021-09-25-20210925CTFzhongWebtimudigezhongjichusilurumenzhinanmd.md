@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF中Web题目的各种基础思路——入门指南"
+title: "CTF中Web题目的各种基础思路入门指南"
 date:   2023-04-03
 tags: [Web,CTF,漏洞,进阶,HTTP]
 comments: true

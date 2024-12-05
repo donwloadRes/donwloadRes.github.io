@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++（中文版）"
+title: "Notepad中文版"
 date:   2024-01-02
 tags: [Notepad,++,中文版,文本编辑,解压]
 comments: true

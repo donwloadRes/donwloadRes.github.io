@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "以太网控制器Verilog源码(含MAC及MII接口)"
+title: "以太网控制器Verilog源码含MAC及MII接口"
 date:   2021-11-11
 tags: [Verilog,以太网,源码,MAC,MII]
 comments: true

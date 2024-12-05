@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L152数据手册_中文.pdf"
+title: "STM32L152数据手册中文pdf"
 date:   2022-03-09
 tags: [STM32L152,手册,开发者,中文,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++教师工作量管理系统"
+title: "CC教师工作量管理系统"
 date:   2023-12-13
 tags: [工作量,教师,录入,信息,统计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字成像系统21~32讲资源下载"
+title: "数字成像系统2132讲资源下载"
 date:   2020-10-31
 tags: [成像,数字,系统,ISP,下载]
 comments: true

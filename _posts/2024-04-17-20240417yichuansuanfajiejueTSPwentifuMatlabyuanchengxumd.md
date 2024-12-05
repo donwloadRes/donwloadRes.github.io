@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "遗传算法解决 TSP 问题（附Matlab源程序）"
+title: "遗传算法解决 TSP 问题附Matlab源程序"
 date:   2021-10-15
 tags: [遗传算法,TSP,文档,Matlab,源程序]
 comments: true

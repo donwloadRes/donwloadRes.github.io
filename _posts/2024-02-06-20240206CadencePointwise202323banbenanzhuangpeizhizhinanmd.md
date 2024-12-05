@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Pointwise 2023.2.3 版本安装配置指南"
+title: "Cadence Pointwise 202323 版本安装配置指南"
 date:   2024-02-01
 tags: [网格,安装,生成,Pointwise,几何]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RGB-T追踪数据集基准资源文件介绍"
+title: "RGBT追踪数据集基准资源文件介绍"
 date:   2021-04-09
 tags: [RGB,追踪,VOT,2019,视频]
 comments: true

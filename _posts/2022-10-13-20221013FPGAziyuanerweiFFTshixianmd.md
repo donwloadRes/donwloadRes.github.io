@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA资源：二维FFT实现"
+title: "FPGA资源二维FFT实现"
 date:   2021-06-16
 tags: [FPGA,FFT,实现,验证,仿真]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zend Studio 13.6.1 汉化及安装科学使用方法详解"
+title: "Zend Studio 1361 汉化及安装科学使用方法详解"
 date:   2022-04-03
 tags: [Zend,Studio,13.6,安装,点击]
 comments: true

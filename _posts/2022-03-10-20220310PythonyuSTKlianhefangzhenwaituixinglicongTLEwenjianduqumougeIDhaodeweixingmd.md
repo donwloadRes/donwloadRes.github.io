@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python与STK联合仿真：外推星历_从TLE文件读取某个ID号的卫星"
+title: "Python与STK联合仿真外推星历从TLE文件读取某个ID号的卫星"
 date:   2023-01-15
 tags: [STK,Python,文件,TLE,ID]
 comments: true

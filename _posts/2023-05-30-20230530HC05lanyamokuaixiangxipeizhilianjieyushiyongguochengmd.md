@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-05蓝牙模块详细配置、连接与使用过程"
+title: "HC05蓝牙模块详细配置连接与使用过程"
 date:   2023-03-08
 tags: [蓝牙,HC,05,模块,配置]
 comments: true

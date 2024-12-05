@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用VLC多窗体播放功能"
+title: "C调用VLC多窗体播放功能"
 date:   2022-12-09
 tags: [播放,VLC,窗体,RTSP,视频流]
 comments: true

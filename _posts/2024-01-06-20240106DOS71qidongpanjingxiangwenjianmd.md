@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOS 7.1启动盘镜像文件"
+title: "DOS 71启动盘镜像文件"
 date:   2022-08-10
 tags: [DOS,启动盘,虚拟机,操作系统,镜像文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-snap7 相关依赖文件说明"
+title: "Pythonsnap7 相关依赖文件说明"
 date:   2024-01-02
 tags: [Python,snap7,依赖,文件,安装]
 comments: true

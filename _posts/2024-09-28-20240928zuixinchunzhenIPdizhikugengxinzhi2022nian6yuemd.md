@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新纯真IP地址库（更新至2022年6月）"
+title: "最新纯真IP地址库更新至2022年6月"
 date:   2023-06-02
 tags: [IP地址,2022,纯真,更新,仓库]
 comments: true

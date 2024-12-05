@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "频谱仪、信号源的VISA手册下载"
+title: "频谱仪信号源的VISA手册下载"
 date:   2024-07-28
 tags: [频谱仪,手册,信号源,Python,VISA]
 comments: true

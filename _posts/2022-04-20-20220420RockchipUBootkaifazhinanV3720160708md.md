@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rockchip U-Boot 开发指南 V3.7-20160708"
+title: "Rockchip UBoot 开发指南 V3720160708"
 date:   2023-12-14
 tags: [Boot,指南,Rockchip,V3.7,20160708]
 comments: true

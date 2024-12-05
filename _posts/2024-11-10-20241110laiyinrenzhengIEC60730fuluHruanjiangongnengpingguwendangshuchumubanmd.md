@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "莱茵认证-IEC-60730附录H-软件功能评估-文档输出模板"
+title: "莱茵认证IEC60730附录H软件功能评估文档输出模板"
 date:   2020-08-22
 tags: [模板,认证,IEC,60730,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS Fluent 2021、2019帮助文件及案例库资源"
+title: "ANSYS Fluent 20212019帮助文件及案例库资源"
 date:   2020-11-24
 tags: [ANSYS,Fluent,帮助文件,案例库,用户]
 comments: true

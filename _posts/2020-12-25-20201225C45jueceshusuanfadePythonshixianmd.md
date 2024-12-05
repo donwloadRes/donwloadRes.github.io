@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C4.5决策树算法的Python实现"
+title: "C45决策树算法的Python实现"
 date:   2024-07-10
 tags: [决策树,算法,C4.5,Python,py]
 comments: true

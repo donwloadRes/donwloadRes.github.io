@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考中级系统集成-考试精炼笔记"
+title: "软考中级系统集成考试精炼笔记"
 date:   2020-04-06
 tags: [笔记,系统集成,考试,复习,考生]
 comments: true

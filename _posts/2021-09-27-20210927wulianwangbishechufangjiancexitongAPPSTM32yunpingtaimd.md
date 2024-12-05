@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 厨房监测系统（APP+STM32+云平台）"
+title: "物联网毕设  厨房监测系统APPSTM32云平台"
 date:   2024-04-03
 tags: [厨房,STM32,App,系统,联网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JetPack 4.6 刷机教程：英伟达 Jetson AGX Xavier 完整刷机记录"
+title: "JetPack 46 刷机教程英伟达 Jetson AGX Xavier 完整刷机记录"
 date:   2022-11-07
 tags: [刷机,教程,虚拟机,Jetson,AGX]
 comments: true

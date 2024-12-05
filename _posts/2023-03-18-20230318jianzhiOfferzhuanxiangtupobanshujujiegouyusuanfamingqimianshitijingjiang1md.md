@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "剑指Offer（专项突破版）数据结构与算法名企面试题精讲1"
+title: "剑指Offer专项突破版数据结构与算法名企面试题精讲1"
 date:   2024-08-08
 tags: [面试,算法,数据结构,Offer,名企]
 comments: true

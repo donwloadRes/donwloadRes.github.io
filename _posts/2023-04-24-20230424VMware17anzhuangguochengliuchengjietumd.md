@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 17 安装过程（流程截图）"
+title: "VMware 17 安装过程流程截图"
 date:   2024-04-11
 tags: [安装,VMware,17,截图,文字说明]
 comments: true

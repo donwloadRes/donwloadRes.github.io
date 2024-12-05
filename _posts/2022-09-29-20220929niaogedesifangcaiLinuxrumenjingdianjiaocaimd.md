@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥的私房菜 - Linux入门经典教材"
+title: "鸟哥的私房菜  Linux入门经典教材"
 date:   2020-12-10
 tags: [Linux,文件,学习,入门,鸟哥]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-EC5-U-EC6驱动下载"
+title: "UEC5UEC6驱动下载"
 date:   2023-01-27
 tags: [驱动,EC6,下载,文件,EC5]
 comments: true

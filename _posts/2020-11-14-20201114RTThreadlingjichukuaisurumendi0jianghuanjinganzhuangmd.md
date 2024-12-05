@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread零基础快速入门第0讲——环境安装"
+title: "RTThread零基础快速入门第0讲环境安装"
 date:   2024-04-17
 tags: [RT,Thread,安装,教程,配置]
 comments: true

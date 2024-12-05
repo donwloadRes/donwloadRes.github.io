@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DRIVE，CHASEDB1，HRF数据集"
+title: "DRIVECHASEDB1HRF数据集"
 date:   2023-05-25
 tags: [数据,DRIVE,HRF,血管,研究]
 comments: true

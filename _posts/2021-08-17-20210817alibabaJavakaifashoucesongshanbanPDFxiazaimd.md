@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册(嵩山版) PDF 下载"
+title: "阿里巴巴Java开发手册嵩山版 PDF 下载"
 date:   2023-04-01
 tags: [Java,阿里巴巴,手册,嵩山,下载]
 comments: true

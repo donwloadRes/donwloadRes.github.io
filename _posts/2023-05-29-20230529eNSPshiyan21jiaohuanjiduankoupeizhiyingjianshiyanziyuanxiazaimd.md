@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP实验2-1：交换机端口配置硬件实验资源下载"
+title: "eNSP实验21交换机端口配置硬件实验资源下载"
 date:   2020-03-25
 tags: [实验,eNSP,端口配置,交换机,硬件]
 comments: true

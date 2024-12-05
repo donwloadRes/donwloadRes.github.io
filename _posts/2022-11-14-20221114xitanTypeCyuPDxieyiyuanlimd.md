@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "细谈Type-C与PD协议原理"
+title: "细谈TypeC与PD协议原理"
 date:   2020-12-02
 tags: [Type,接口,PD,原理,Role]
 comments: true

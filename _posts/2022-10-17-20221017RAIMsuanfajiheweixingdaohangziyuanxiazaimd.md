@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAIM算法集合（卫星导航）资源下载"
+title: "RAIM算法集合卫星导航资源下载"
 date:   2020-02-11
 tags: [RAIM,算法,导航,卫星,资源]
 comments: true

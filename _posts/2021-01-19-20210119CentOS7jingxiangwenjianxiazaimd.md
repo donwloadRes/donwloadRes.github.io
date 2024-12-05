@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS-7镜像文件下载"
+title: "CentOS7镜像文件下载"
 date:   2020-04-06
 tags: [CentOS,镜像文件,下载,4G,文件]
 comments: true

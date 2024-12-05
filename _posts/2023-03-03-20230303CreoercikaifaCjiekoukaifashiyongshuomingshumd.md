@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creo二次开发 C++接口开发使用说明书"
+title: "Creo二次开发 C接口开发使用说明书"
 date:   2021-01-09
 tags: [Creo,二次开发,C++,说明书,开发]
 comments: true

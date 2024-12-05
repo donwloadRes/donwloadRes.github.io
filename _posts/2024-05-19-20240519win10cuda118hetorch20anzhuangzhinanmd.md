@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10 cuda11.8 和 torch2.0 安装指南"
+title: "win10 cuda118 和 torch20 安装指南"
 date:   2021-10-08
 tags: [CUDA,安装,11.8,cuDNN,环境]
 comments: true

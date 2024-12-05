@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理(第3版) PDF 下载"
+title: "自动控制原理第3版 PDF 下载"
 date:   2021-05-21
 tags: [PDF,自动控制,下载,原理,文件]
 comments: true

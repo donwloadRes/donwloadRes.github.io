@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 安装 Maven 3.6.3 资源文件介绍"
+title: "Linux 安装 Maven 363 资源文件介绍"
 date:   2024-10-20
 tags: [Maven,maven,3.6,bash,usr]
 comments: true

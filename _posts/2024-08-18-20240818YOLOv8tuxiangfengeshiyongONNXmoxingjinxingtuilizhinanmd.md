@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8图像分割：使用ONNX模型进行推理指南"
+title: "YOLOv8图像分割使用ONNX模型进行推理指南"
 date:   2020-11-27
 tags: [模型,YOLOv8,ONNX,分割,图像]
 comments: true

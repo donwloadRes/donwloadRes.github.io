@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10 Langchain-Chatchat 本地部署指南"
+title: "Windows10 LangchainChatchat 本地部署指南"
 date:   2021-05-25
 tags: [Chatchat,Langchain,conda,解决,虚拟环境]
 comments: true

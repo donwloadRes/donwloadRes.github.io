@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "因为无聊自制TXT小说阅读器 - PC版(WinFrom)"
+title: "因为无聊自制TXT小说阅读器  PC版WinFrom"
 date:   2021-03-26
 tags: [TXT,阅读器,小说,隐藏,老板键]
 comments: true

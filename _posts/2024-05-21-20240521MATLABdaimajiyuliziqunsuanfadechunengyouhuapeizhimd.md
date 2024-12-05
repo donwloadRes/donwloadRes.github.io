@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于粒子群算法的储能优化配置"
+title: "MATLAB代码基于粒子群算法的储能优化配置"
 date:   2021-02-28
 tags: [储能,优化,算法,代码,粒子]
 comments: true

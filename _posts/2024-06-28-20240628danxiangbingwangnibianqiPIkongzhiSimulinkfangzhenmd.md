@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单相并网逆变器PI控制 + Simulink仿真"
+title: "单相并网逆变器PI控制  Simulink仿真"
 date:   2020-04-25
 tags: [逆变器,PI,Simulink,仿真,并网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最好用的AI换脸软件：Rope下载介绍（支持CPU）"
+title: "最好用的AI换脸软件Rope下载介绍支持CPU"
 date:   2024-04-25
 tags: [人脸,Rope,换脸,视频,CPU]
 comments: true

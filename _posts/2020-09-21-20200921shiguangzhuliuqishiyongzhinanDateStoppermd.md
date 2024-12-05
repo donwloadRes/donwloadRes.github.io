@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时光驻留器使用指南 (DateStopper)"
+title: "时光驻留器使用指南 DateStopper"
 date:   2020-12-23
 tags: [DateStopper,驻留,软件,试用,时光]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi SuperObject 支持 XE10.3 JSON 资源文件"
+title: "Delphi SuperObject 支持 XE103 JSON 资源文件"
 date:   2020-06-07
 tags: [XE10.3,Delphi,文件,资源,JSON]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "压缩感知：理论与应用"
+title: "压缩感知理论与应用"
 date:   2022-12-27
 tags: [感知,压缩,理论,应用,文档]
 comments: true

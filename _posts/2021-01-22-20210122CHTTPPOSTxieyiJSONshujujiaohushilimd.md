@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HTTP POST 协议 JSON 数据交互示例"
+title: "C HTTP POST 协议 JSON 数据交互示例"
 date:   2022-03-09
 tags: [示例,JSON,C#,HTTP,POST]
 comments: true

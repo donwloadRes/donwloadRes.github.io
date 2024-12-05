@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gnuplot 5.4.1 安装包及用户手册（64位Windows）"
+title: "gnuplot 541 安装包及用户手册64位Windows"
 date:   2022-01-15
 tags: [gnuplot,用户手册,5.4,安装包,64]
 comments: true

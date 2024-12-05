@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab-Simulink的交流异步电机矢量控制系统"
+title: "基于MatlabSimulink的交流异步电机矢量控制系统"
 date:   2024-03-22
 tags: [异步电机,矢量,仿真,Matlab,Simulink]
 comments: true

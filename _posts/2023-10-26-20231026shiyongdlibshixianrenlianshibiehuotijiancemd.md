@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用dlib实现人脸识别+活体检测"
+title: "使用dlib实现人脸识别活体检测"
 date:   2023-10-03
 tags: [dlib,活体,人脸,检测,人脸识别]
 comments: true

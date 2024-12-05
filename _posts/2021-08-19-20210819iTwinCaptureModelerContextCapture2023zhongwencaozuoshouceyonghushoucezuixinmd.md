@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iTwin Capture Modeler（ContextCapture 2023）中文操作手册 用户手册 最新"
+title: "iTwin Capture ModelerContextCapture 2023中文操作手册 用户手册 最新"
 date:   2020-03-20
 tags: [iTwin,Capture,Modeler,建模,操作手册]
 comments: true

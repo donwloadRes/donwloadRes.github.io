@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统概论课后习题答案（全）"
+title: "数据库系统概论课后习题答案全"
 date:   2023-06-27
 tags: [习题,数据库系统,课后,答案,概论]
 comments: true

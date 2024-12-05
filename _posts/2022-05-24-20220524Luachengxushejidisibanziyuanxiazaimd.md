@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lua程序设计（第四版）资源下载"
+title: "Lua程序设计第四版资源下载"
 date:   2023-10-05
 tags: [Lua,第四版,程序设计,下载,版本]
 comments: true

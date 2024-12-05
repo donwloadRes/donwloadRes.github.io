@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Voice PRO 2.7.1 资源文件下载"
+title: "RTVoice PRO 271 资源文件下载"
 date:   2023-05-04
 tags: [RT,文件,Voice,PRO,2.7]
 comments: true

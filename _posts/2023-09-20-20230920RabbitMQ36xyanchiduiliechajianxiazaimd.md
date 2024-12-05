@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RabbitMQ 3.6.x 延迟队列插件下载"
+title: "RabbitMQ 36x 延迟队列插件下载"
 date:   2021-03-10
 tags: [插件,RabbitMQ,延迟,队列,3.6]
 comments: true

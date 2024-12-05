@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狗的品种识别实战（tf2.0）"
+title: "狗的品种识别实战tf20"
 date:   2023-10-18
 tags: [训练,模型,验证,识别,品种]
 comments: true

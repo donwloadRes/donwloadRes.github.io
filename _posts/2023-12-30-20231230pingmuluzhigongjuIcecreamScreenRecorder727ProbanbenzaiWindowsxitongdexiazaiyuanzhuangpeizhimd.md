@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "屏幕录制工具Icecream Screen Recorder 7.27Pro版本在Windows系统的下载与安装配置"
+title: "屏幕录制工具Icecream Screen Recorder 727Pro版本在Windows系统的下载与安装配置"
 date:   2022-01-17
 tags: [录制,安装,屏幕,音频,Icecream]
 comments: true

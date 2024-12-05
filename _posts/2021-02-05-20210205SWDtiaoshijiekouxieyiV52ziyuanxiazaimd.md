@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWD调试接口协议 V5.2 资源下载"
+title: "SWD调试接口协议 V52 资源下载"
 date:   2020-12-25
 tags: [SWD,调试,V5.2,ARM,MCU]
 comments: true

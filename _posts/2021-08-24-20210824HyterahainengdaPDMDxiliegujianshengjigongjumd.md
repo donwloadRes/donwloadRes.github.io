@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hytera 海能达 PD-MD 系列固件升级工具"
+title: "Hytera 海能达 PDMD 系列固件升级工具"
 date:   2021-09-17
 tags: [固件,升级,Hytera,海能,PD]
 comments: true

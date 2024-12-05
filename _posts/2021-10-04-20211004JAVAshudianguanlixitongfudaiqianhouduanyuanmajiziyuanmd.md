@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA书店管理系统（附带前后端源码及资源）"
+title: "JAVA书店管理系统附带前后端源码及资源"
 date:   2021-01-02
 tags: [书籍,借阅,数据库,管理,JAVA]
 comments: true

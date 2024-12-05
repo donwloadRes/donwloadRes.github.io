@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hadoop全分布式搭建教程(非常详细)"
+title: "hadoop全分布式搭建教程非常详细"
 date:   2022-05-31
 tags: [Hadoop,配置,教程,分布式,site]
 comments: true

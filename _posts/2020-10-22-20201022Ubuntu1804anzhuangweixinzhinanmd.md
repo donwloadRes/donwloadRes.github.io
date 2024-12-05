@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 安装微信指南"
+title: "Ubuntu 1804 安装微信指南"
 date:   2022-04-24
 tags: [微信,安装,Wine,sudo,apt]
 comments: true

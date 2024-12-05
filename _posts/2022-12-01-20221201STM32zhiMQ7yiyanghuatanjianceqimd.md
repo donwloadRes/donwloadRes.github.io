@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32之MQ-7一氧化碳检测器"
+title: "STM32之MQ7一氧化碳检测器"
 date:   2024-01-19
 tags: [一氧化碳,MQ,STM32,OLED,蜂鸣器]
 comments: true

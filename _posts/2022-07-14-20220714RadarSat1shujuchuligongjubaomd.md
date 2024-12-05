@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RadarSat-1 数据处理工具包"
+title: "RadarSat1 数据处理工具包"
 date:   2024-09-06
 tags: [RadarSat,工具包,MATLAB,数据处理,SAR]
 comments: true

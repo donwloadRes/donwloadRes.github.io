@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java JDK API 1.8 英文版与中文版分享"
+title: "Java JDK API 18 英文版与中文版分享"
 date:   2021-03-21
 tags: [API,Java,文档,1.8,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载、处理、加载ImageNet数据集（全网最详细）"
+title: "下载处理加载ImageNet数据集全网最详细"
 date:   2020-01-09
 tags: [ImageNet,下载,加载,解压,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于IBIS-AMI模型的DDR5仿真分析"
+title: "基于IBISAMI模型的DDR5仿真分析"
 date:   2023-05-16
 tags: [仿真,IBIS,AMI,DDR5,模型]
 comments: true

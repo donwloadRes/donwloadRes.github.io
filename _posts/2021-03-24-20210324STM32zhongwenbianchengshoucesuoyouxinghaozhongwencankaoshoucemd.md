@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32中文编程手册（所有型号中文参考手册）"
+title: "STM32中文编程手册所有型号中文参考手册"
 date:   2023-07-20
 tags: [STM32,开发者,中文,手册,微控制器]
 comments: true

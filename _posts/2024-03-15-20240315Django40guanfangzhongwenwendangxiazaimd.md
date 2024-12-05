@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django 4.0 官方中文文档下载"
+title: "Django 40 官方中文文档下载"
 date:   2020-05-13
 tags: [文档,Django,4.0,官方,中文]
 comments: true

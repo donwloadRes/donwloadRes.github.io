@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32-HAL库】CubeMX与Keil5环境配置指南"
+title: "STM32HAL库CubeMX与Keil5环境配置指南"
 date:   2021-05-01
 tags: [STM32,Keil5,HAL,安装,CubeMX]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSSQL数据库修复工具：Recovery Toolbox for SQL Server 2.2.11.0"
+title: "MSSQL数据库修复工具Recovery Toolbox for SQL Server 22110"
 date:   2020-01-03
 tags: [SQL,Server,数据库,恢复,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP-EWM 文档 (二) 技术篇，含SPRO配置"
+title: "SAPEWM 文档 二 技术篇含SPRO配置"
 date:   2020-11-11
 tags: [EWM,SAP,文档,SPRO,配置]
 comments: true

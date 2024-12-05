@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD3.0 PPS协议规范资源下载"
+title: "USB PD30 PPS协议规范资源下载"
 date:   2023-05-15
 tags: [USB,PPS,协议,PD3.0,Type]
 comments: true

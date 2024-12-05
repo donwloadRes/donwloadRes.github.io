@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装JDK 1.8教程"
+title: "Linux安装JDK 18教程"
 date:   2023-03-14
 tags: [JDK,安装,Linux,教程,卸载]
 comments: true

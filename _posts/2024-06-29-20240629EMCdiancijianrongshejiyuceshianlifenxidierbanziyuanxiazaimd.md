@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC电磁兼容设计与测试案例分析(第二版) 资源下载"
+title: "EMC电磁兼容设计与测试案例分析第二版 资源下载"
 date:   2024-10-01
 tags: [EMC,电磁兼容,测试,设计,案例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张一鸣微博记录.pdf"
+title: "张一鸣微博记录pdf"
 date:   2021-06-08
 tags: [张一鸣,微博,pdf,记录,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOB0.27全角色攻略下载"
+title: "SOB027全角色攻略下载"
 date:   2020-02-18
 tags: [SOB0.27,攻略,角色,文件,pdf]
 comments: true

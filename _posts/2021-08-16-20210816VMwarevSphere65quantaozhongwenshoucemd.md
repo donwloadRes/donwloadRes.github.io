@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.5 全套中文手册"
+title: "VMware vSphere 65 全套中文手册"
 date:   2021-03-29
 tags: [VMware,vSphere,文档,6.5,配置]
 comments: true

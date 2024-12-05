@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "又双叒叕更新的Rope Crystal版本：蓝宝石（12.04）"
+title: "又双叒叕更新的Rope Crystal版本蓝宝石1204"
 date:   2023-01-03
 tags: [Rope,Crystal,蓝宝石,版本,12.04]
 comments: true

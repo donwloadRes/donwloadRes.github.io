@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛头刨床机械原理课程设计-高分作业"
+title: "牛头刨床机械原理课程设计高分作业"
 date:   2022-10-09
 tags: [牛头刨床,课程设计,原理,作业,机械]
 comments: true

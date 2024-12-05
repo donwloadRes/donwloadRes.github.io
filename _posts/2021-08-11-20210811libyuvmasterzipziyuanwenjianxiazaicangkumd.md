@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libyuv-master.zip 资源文件下载仓库"
+title: "libyuvmasterzip 资源文件下载仓库"
 date:   2022-03-18
 tags: [libyuv,master,zip,文件,仓库]
 comments: true

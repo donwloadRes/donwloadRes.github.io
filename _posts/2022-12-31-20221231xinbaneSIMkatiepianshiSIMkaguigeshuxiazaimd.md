@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新版eSIM卡-贴片式SIM卡规格书下载"
+title: "新版eSIM卡贴片式SIM卡规格书下载"
 date:   2024-03-24
 tags: [SIM卡,规格书,贴片式,文件,手册]
 comments: true

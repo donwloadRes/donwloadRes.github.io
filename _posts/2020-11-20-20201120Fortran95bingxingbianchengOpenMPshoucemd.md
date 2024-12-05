@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fortran 95 并行编程 —— OpenMP 手册"
+title: "Fortran 95 并行编程  OpenMP 手册"
 date:   2020-09-16
 tags: [OpenMP,手册,Fortran,95,编程]
 comments: true

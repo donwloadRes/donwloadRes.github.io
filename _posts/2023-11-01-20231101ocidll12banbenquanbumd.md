@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oci.dll 12版本全部"
+title: "ocidll 12版本全部"
 date:   2021-10-08
 tags: [dll,oci,Oracle,12,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台湾高人图文解说S参数（基础篇）"
+title: "台湾高人图文解说S参数基础篇"
 date:   2022-12-08
 tags: [参数,图文,解说,高人,台湾]
 comments: true

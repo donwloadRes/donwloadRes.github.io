@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv4实战尝鲜：从零开始训练安全头盔佩戴识别检测数据集"
+title: "YOLOv4实战尝鲜从零开始训练安全头盔佩戴识别检测数据集"
 date:   2024-07-13
 tags: [训练,模型,数据,YOLOv4,文件]
 comments: true

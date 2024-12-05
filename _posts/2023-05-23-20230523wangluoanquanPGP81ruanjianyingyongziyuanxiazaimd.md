@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全—PGP8.1软件应用资源下载"
+title: "网络安全PGP81软件应用资源下载"
 date:   2023-10-26
 tags: [PGP8.1,加密,网络安全,安装,软件应用]
 comments: true

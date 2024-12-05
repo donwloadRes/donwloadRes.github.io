@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RINEX 3.02文件格式说明"
+title: "RINEX 302文件格式说明"
 date:   2020-01-16
 tags: [RINEX,文件格式,3.02,文件,GNSS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于「EPI」的练习 + 秋招笔试题库全面指南（持续更新）"
+title: "关于EPI的练习  秋招笔试题库全面指南持续更新"
 date:   2021-08-21
 tags: [题库,笔试,EPI,秋招,备考]
 comments: true

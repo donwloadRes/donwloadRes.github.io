@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实际海杂波数据统计特性分析 - MATLAB实现"
+title: "实际海杂波数据统计特性分析  MATLAB实现"
 date:   2020-11-12
 tags: [MATLAB,杂波,分布,数据,分析]
 comments: true

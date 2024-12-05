@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus TCP与Nmodbus开源库及C#上位机Demo"
+title: "Modbus TCP与Nmodbus开源库及C上位机Demo"
 date:   2024-07-29
 tags: [Modbus,Demo,TCP,Nmodbus,NET]
 comments: true

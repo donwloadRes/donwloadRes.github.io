@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的NRF24L01 2.4G通讯模块驱动实验代码（HAL库）"
+title: "基于STM32的NRF24L01 24G通讯模块驱动实验代码HAL库"
 date:   2020-02-27
 tags: [代码,STM32,HAL,NRF24L01,2.4]
 comments: true

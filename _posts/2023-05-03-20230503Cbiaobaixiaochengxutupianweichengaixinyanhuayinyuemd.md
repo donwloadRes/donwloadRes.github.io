@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++表白小程序：图片围成爱心+烟花+音乐"
+title: "C表白小程序图片围成爱心烟花音乐"
 date:   2022-01-14
 tags: [程序,表白,背景音乐,爱心,烟花]
 comments: true

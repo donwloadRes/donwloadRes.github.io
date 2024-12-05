@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "101、104电力规约资源解析工具"
+title: "101104电力规约资源解析工具"
 date:   2021-04-18
 tags: [报文,浮点数,规约,资源库,客户端]
 comments: true

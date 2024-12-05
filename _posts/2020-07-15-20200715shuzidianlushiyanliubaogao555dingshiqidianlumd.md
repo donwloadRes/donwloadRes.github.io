@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路实验六报告 - 555定时器电路"
+title: "数字电路实验六报告  555定时器电路"
 date:   2020-02-20
 tags: [555,定时器,数字电路,实验,电路]
 comments: true

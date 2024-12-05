@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.33 Winx64 绿色安装包"
+title: "MySQL 8033 Winx64 绿色安装包"
 date:   2023-11-19
 tags: [MySQL,安装包,8.0,文件,初始化]
 comments: true

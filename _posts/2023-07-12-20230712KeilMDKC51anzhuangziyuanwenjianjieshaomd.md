@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil (MDK + C51) 安装资源文件介绍"
+title: "Keil MDK  C51 安装资源文件介绍"
 date:   2023-03-21
 tags: [安装,MDK,Keil,C51,教程]
 comments: true

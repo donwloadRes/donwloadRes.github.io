@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB Logo 图标封装库（3D封装文件+原理图文件）"
+title: "PCB Logo 图标封装库3D封装文件原理图文件"
 date:   2023-11-18
 tags: [封装,图标,PCB,原理图,文件]
 comments: true

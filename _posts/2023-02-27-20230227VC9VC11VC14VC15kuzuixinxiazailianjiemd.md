@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC9、VC11、VC14、VC15库 最新下载链接"
+title: "VC9VC11VC14VC15库 最新下载链接"
 date:   2022-12-24
 tags: [版本,软件,PHP,VC9,VC11]
 comments: true

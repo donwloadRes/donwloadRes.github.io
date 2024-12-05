@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高斯16 B.01用户手册下载"
+title: "高斯16 B01用户手册下载"
 date:   2021-01-30
 tags: [16,B.01,高斯,用户手册,量子化学]
 comments: true

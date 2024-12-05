@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "App Inventor：使用BLE蓝牙指南"
+title: "App Inventor使用BLE蓝牙指南"
 date:   2022-04-30
 tags: [蓝牙,BLE,App,Inventor,设备]
 comments: true

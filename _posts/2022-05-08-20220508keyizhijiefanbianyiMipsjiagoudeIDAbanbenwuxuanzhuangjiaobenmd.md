@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可以直接反编译Mips架构的IDA版本(无需安装脚本)"
+title: "可以直接反编译Mips架构的IDA版本无需安装脚本"
 date:   2021-09-14
 tags: [反编译,Mips,IDA,版本,架构]
 comments: true

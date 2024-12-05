@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端性能测试工具 - Lighthouse (灯塔) 插件"
+title: "前端性能测试工具  Lighthouse 灯塔 插件"
 date:   2021-02-15
 tags: [Lighthouse,Web,Chrome,性能,开发者]
 comments: true

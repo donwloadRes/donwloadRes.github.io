@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog IEEE官方标准手册-2005 (IEEE P1364) 下载仓库"
+title: "Verilog IEEE官方标准手册2005 IEEE P1364 下载仓库"
 date:   2022-01-09
 tags: [Verilog,IEEE,文档,官方,标准]
 comments: true

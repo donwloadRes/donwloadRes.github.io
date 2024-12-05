@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot项目 - 个人博客系统静态页面"
+title: "SpringBoot项目  个人博客系统静态页面"
 date:   2023-06-13
 tags: [博客,页面,html,SpringBoot,blog]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acer宏碁暗影骑士擎笔记本AN515-58原厂Win11系统恢复指南"
+title: "Acer宏碁暗影骑士擎笔记本AN51558原厂Win11系统恢复指南"
 date:   2023-02-27
 tags: [Acer,宏碁,AN515,58,恢复]
 comments: true

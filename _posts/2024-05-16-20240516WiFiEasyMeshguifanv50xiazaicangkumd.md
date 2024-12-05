@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wi-Fi EasyMesh 规范 v5.0 下载仓库"
+title: "WiFi EasyMesh 规范 v50 下载仓库"
 date:   2023-05-25
 tags: [Wi,Fi,EasyMesh,v5.0,下载]
 comments: true

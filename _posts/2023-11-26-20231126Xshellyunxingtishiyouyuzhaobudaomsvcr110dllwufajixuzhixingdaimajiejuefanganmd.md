@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell运行提示：由于找不到msvcr110.dll 无法继续执行代码 解决方案"
+title: "Xshell运行提示由于找不到msvcr110dll 无法继续执行代码 解决方案"
 date:   2021-01-10
 tags: [Xshell,msvcr110,dll,Visual,文件]
 comments: true

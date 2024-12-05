@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT-2000四核CPU硬件设计指导手册"
+title: "FT2000四核CPU硬件设计指导手册"
 date:   2023-07-01
 tags: [CPU,FT,2000,硬件,四核]
 comments: true

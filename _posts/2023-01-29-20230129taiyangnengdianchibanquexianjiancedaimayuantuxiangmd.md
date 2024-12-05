@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太阳能电池板缺陷检测（代码+原图像）"
+title: "太阳能电池板缺陷检测代码原图像"
 date:   2020-02-26
 tags: [电池板,太阳能,代码,图像,缺陷]
 comments: true

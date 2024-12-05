@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HART协议 7.6 版本官方文档"
+title: "HART协议 76 版本官方文档"
 date:   2021-01-30
 tags: [文档,HART,7.6,协议,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.11.4(64-bit) 软件安装资源文件"
+title: "Python 311464bit 软件安装资源文件"
 date:   2020-04-24
 tags: [Python,3.11,安装,64,文件]
 comments: true

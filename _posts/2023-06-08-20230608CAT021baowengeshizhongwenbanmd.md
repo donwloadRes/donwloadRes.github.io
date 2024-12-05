@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAT021报文格式-中文版"
+title: "CAT021报文格式中文版"
 date:   2023-03-27
 tags: [CAT021,ADS,报文,航空,报文格式]
 comments: true

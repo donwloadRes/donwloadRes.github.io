@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathematica 使用教程（中文版）"
+title: "Mathematica 使用教程中文版"
 date:   2021-06-22
 tags: [Mathematica,教程,数学,建模,学习]
 comments: true

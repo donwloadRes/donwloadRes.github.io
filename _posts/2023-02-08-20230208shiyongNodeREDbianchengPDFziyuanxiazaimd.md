@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用Node-RED编程PDF资源下载"
+title: "实用NodeRED编程PDF资源下载"
 date:   2023-01-13
 tags: [Node,RED,PDF,应用程序,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cityscapes数据集：简介、安装与使用方法"
+title: "Cityscapes数据集简介安装与使用方法"
 date:   2022-06-17
 tags: [数据,Cityscapes,模型,训练,解压]
 comments: true

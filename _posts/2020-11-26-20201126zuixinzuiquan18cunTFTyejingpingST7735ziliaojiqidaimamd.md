@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新最全1.8寸TFT液晶屏ST7735资料及其代码"
+title: "最新最全18寸TFT液晶屏ST7735资料及其代码"
 date:   2024-04-17
 tags: [代码,液晶屏,示例,1.8,TFT]
 comments: true

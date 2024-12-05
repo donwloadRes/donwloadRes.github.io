@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS-SDR-SIM 资源文件下载"
+title: "GPSSDRSIM 资源文件下载"
 date:   2023-03-07
 tags: [GPS,SDR,SIM,文件,模拟信号]
 comments: true

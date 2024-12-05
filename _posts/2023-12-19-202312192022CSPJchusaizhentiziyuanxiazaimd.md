@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022CSP-J初赛真题资源下载"
+title: "2022CSPJ初赛真题资源下载"
 date:   2020-04-19
 tags: [初赛,真题,2022,CSP,资源]
 comments: true

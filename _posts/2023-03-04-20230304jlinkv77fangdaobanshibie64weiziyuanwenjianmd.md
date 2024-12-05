@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jlink v7.7防盗版识别 64位资源文件"
+title: "jlink v77防盗版识别 64位资源文件"
 date:   2024-06-09
 tags: [jlink,dll,文件,防盗版,x64]
 comments: true

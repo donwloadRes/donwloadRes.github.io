@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI-Express协议中文版资源下载"
+title: "PCIExpress协议中文版资源下载"
 date:   2020-06-05
 tags: [PCI,Express,协议,中文版,资源]
 comments: true

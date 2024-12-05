@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Midjourney手册 - 深入探索AI绘图的未来之路"
+title: "Midjourney手册  深入探索AI绘图的未来之路"
 date:   2022-08-11
 tags: [AI,绘图,手册,Midjourney,深入]
 comments: true

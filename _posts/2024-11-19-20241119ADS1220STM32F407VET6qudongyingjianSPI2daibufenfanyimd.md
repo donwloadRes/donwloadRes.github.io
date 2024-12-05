@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS1220 STM32F407VET6驱动（硬件SPI2带部分翻译）"
+title: "ADS1220 STM32F407VET6驱动硬件SPI2带部分翻译"
 date:   2022-07-21
 tags: [SPI2,ADS1220,驱动程序,翻译,STM32F407VET6]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "no ST-LINK detected解决方案（ST-LINK驱动安装教程）"
+title: "no STLINK detected解决方案STLINK驱动安装教程"
 date:   2022-03-27
 tags: [ST,LINK,驱动,安装,no]
 comments: true

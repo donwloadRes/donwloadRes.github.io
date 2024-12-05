@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019 .NET Framework 3.5 安装包"
+title: "Windows Server 2019 NET Framework 35 安装包"
 date:   2023-02-28
 tags: [安装,Windows,Server,2019,NET]
 comments: true

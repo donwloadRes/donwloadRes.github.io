@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM SPSS 25.0 PDF教程"
+title: "IBM SPSS 250 PDF教程"
 date:   2022-02-15
 tags: [SPSS,Statistics,教程,PDF,25.0]
 comments: true

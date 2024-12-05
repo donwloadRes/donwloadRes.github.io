@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF图片放大、缩小、拖动示例"
+title: "WPF图片放大缩小拖动示例"
 date:   2020-10-06
 tags: [WPF,图片,拖动,鼠标,示例]
 comments: true

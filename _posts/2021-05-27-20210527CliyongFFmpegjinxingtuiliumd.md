@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 利用 FFmpeg 进行推流"
+title: "C 利用 FFmpeg 进行推流"
 date:   2024-05-01
 tags: [FFmpeg,推流,C#,示例,API]
 comments: true

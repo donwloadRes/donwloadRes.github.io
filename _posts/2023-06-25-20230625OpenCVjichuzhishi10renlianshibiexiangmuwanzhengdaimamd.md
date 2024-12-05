@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV基础知识（10）- 人脸识别项目完整代码"
+title: "OpenCV基础知识10 人脸识别项目完整代码"
 date:   2022-01-08
 tags: [OpenCV,跟踪,代码,人脸识别,人脸]
 comments: true

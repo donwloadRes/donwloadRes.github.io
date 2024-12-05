@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于多时间尺度滚动优化的多能源微网双层调度模型"
+title: "MATLAB代码基于多时间尺度滚动优化的多能源微网双层调度模型"
 date:   2020-12-26
 tags: [微网,时间尺度,调度,优化,滚动]
 comments: true

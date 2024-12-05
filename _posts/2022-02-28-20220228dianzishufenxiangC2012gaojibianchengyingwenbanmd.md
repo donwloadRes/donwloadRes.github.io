@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[电子书分享] C# 2012 高级编程 (英文版)"
+title: "电子书分享 C 2012 高级编程 英文版"
 date:   2020-06-03
 tags: [NET,C#,编程,2012,英文版]
 comments: true

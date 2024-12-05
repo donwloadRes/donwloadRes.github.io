@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scala快速入门指南 - 专为Spark学习者打造"
+title: "Scala快速入门指南  专为Spark学习者打造"
 date:   2022-02-19
 tags: [Scala,Spark,文档,学习,升级版]
 comments: true

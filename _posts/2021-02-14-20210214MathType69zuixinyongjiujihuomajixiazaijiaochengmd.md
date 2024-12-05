@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType 6.9 最新永久激活码及下载教程"
+title: "MathType 69 最新永久激活码及下载教程"
 date:   2021-12-30
 tags: [MathType,6.9,公式,激活码,下载]
 comments: true

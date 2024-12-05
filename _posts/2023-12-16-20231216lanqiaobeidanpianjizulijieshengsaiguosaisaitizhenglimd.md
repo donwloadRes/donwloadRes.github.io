@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯单片机组历届省赛、国赛赛题整理"
+title: "蓝桥杯单片机组历届省赛国赛赛题整理"
 date:   2024-11-06
 tags: [蓝桥,单片机,参赛者,比赛,编程]
 comments: true

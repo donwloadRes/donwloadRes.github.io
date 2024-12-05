@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代机器人学：力学，规划与控制 资源下载"
+title: "现代机器人学力学规划与控制 资源下载"
 date:   2023-08-16
 tags: [机器人学,资源,现代,力学,规划]
 comments: true

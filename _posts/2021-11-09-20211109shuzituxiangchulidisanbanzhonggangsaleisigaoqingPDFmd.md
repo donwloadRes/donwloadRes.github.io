@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理_第三版_中_冈萨雷斯_高清PDF"
+title: "数字图像处理第三版中冈萨雷斯高清PDF"
 date:   2020-01-05
 tags: [PDF,数字图像处理,高清,冈萨雷斯,第三版]
 comments: true

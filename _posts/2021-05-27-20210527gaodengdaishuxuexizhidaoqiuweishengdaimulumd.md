@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等代数学习指导 丘维声（带目录）"
+title: "高等代数学习指导 丘维声带目录"
 date:   2024-09-10
 tags: [学习,代数,高等,指导,丘维声]
 comments: true

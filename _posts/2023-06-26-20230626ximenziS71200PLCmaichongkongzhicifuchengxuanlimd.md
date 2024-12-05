@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200PLC脉冲控制伺服程序案例"
+title: "西门子S71200PLC脉冲控制伺服程序案例"
 date:   2023-05-22
 tags: [文档,程序,S7,1200PLC,步进]
 comments: true

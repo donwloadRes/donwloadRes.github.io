@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 基于以太网用MX控件采集三菱Q系列PLC数据（源代码）全精华"
+title: "C 基于以太网用MX控件采集三菱Q系列PLC数据源代码全精华"
 date:   2024-02-09
 tags: [PLC,三菱,安装包,程序,控件]
 comments: true

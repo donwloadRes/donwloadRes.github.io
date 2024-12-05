@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信创-达梦数据库性能测试代码"
+title: "信创达梦数据库性能测试代码"
 date:   2022-02-06
 tags: [测试,中间件,信创,性能,数据库]
 comments: true

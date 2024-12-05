@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字滤波器的MATLAB与FPGA实现——杜勇(配套光盘)"
+title: "数字滤波器的MATLAB与FPGA实现杜勇配套光盘"
 date:   2023-10-14
 tags: [滤波器,FPGA,MATLAB,设计,实现]
 comments: true

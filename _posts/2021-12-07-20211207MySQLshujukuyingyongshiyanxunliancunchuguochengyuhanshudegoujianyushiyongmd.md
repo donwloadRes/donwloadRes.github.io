@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库应用-实验训练：存储过程与函数的构建与使用"
+title: "MySQL数据库应用实验训练存储过程与函数的构建与使用"
 date:   2022-01-18
 tags: [存储,数据库,函数,过程,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCN：图卷积网络PPT资源介绍"
+title: "GCN图卷积网络PPT资源介绍"
 date:   2020-09-04
 tags: [卷积,节点,网络,GCN,PPT]
 comments: true

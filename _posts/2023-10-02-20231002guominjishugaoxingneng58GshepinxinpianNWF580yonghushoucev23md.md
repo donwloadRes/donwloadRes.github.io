@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国民技术高性能5.8G射频芯片NWF580用户手册_v2.3"
+title: "国民技术高性能58G射频芯片NWF580用户手册v23"
 date:   2022-03-04
 tags: [NWF580,5.8,芯片,射频,用户手册]
 comments: true

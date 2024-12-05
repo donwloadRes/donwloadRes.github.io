@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labuladong的刷题笔记V5.0.pdf 下载仓库"
+title: "labuladong的刷题笔记V50pdf 下载仓库"
 date:   2020-09-01
 tags: [labuladong,刷题,笔记,下载,算法]
 comments: true

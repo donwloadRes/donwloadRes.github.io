@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DC工具中set_dont_touch与set_size_only的区别"
+title: "DC工具中setdonttouch与setsizeonly的区别"
 date:   2023-09-17
 tags: [set,DC,dont,touch,size]
 comments: true

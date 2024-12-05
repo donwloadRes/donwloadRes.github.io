@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Star CCM+ 中文教程资源下载"
+title: "Star CCM 中文教程资源下载"
 date:   2023-09-24
 tags: [Star,CCM,教程,实例,操作]
 comments: true

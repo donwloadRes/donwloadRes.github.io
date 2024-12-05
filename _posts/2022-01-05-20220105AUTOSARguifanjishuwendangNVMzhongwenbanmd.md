@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR规范技术文档 - NVM中文版"
+title: "AUTOSAR规范技术文档  NVM中文版"
 date:   2023-12-28
 tags: [NVM,AUTOSAR,文档,模块,设计]
 comments: true

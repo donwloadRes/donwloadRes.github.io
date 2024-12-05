@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST MC SDK5.x 电机库软件框架说明资料"
+title: "ST MC SDK5x 电机库软件框架说明资料"
 date:   2022-12-02
 tags: [ST,电机,文档,MC,SDK5]
 comments: true

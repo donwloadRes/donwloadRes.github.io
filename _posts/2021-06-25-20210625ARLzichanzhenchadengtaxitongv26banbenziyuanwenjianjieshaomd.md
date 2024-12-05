@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARL(资产侦察灯塔系统)v2.6版本 资源文件介绍"
+title: "ARL资产侦察灯塔系统v26版本 资源文件介绍"
 date:   2021-05-18
 tags: [ARL,资产,文件,IP,Docker]
 comments: true

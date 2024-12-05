@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OPC Client 资源文件介绍"
+title: "C OPC Client 资源文件介绍"
 date:   2020-08-21
 tags: [OPC,IP地址,Server,items,C#]
 comments: true

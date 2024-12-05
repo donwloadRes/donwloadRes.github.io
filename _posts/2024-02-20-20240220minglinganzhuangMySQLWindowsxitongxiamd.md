@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "命令安装MySQL（Windows系统下）"
+title: "命令安装MySQLWindows系统下"
 date:   2023-11-06
 tags: [MySQL,安装,mysql,解压,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPENGL三维场景搭建、漫游与交互教程（VS2015）"
+title: "OPENGL三维场景搭建漫游与交互教程VS2015"
 date:   2024-08-17
 tags: [OPENGL,场景,三维,交互,教程]
 comments: true

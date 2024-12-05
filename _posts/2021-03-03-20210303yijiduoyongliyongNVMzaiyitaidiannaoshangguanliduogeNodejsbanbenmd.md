@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一机多用：利用NVM在一台电脑上管理多个Node.js版本"
+title: "一机多用利用NVM在一台电脑上管理多个Nodejs版本"
 date:   2020-04-27
 tags: [Node,js,版本,NVM,安装]
 comments: true

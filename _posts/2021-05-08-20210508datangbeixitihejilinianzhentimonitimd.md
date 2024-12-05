@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大唐杯习题合集-历年真题模拟题"
+title: "大唐杯习题合集历年真题模拟题"
 date:   2020-02-05
 tags: [习题,仓库,模拟题,真题,大唐]
 comments: true

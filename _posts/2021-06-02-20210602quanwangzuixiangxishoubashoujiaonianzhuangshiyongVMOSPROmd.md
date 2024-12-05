@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最详细：手把手教你安装、使用VMOS PRO"
+title: "全网最详细手把手教你安装使用VMOS PRO"
 date:   2023-06-11
 tags: [VMOS,安卓,虚拟机,PRO,软件]
 comments: true

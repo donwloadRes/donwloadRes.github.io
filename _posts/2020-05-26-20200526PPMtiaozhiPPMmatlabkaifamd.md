@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPM 调制：PPM-matlab开发"
+title: "PPM 调制PPMmatlab开发"
 date:   2020-12-19
 tags: [PPM,调制,Matlab,文件,脚本]
 comments: true

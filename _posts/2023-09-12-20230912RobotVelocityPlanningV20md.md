@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robot Velocity Planning V2.0"
+title: "Robot Velocity Planning V20"
 date:   2022-10-16
 tags: [规划,速度,算法,V2.0,GUI]
 comments: true

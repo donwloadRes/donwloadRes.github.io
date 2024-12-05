@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美实现图片拖拽、旋转、放大缩小手势操作"
+title: "完美实现图片拖拽旋转放大缩小手势操作"
 date:   2024-10-12
 tags: [示例,hammer,js,旋转,拖拽]
 comments: true

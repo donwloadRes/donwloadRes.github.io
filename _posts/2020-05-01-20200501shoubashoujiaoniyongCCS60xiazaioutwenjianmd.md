@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你用CCS6.0下载.out文件"
+title: "手把手教你用CCS60下载out文件"
 date:   2023-02-19
 tags: [out,CCS6.0,下载,文件,文档]
 comments: true

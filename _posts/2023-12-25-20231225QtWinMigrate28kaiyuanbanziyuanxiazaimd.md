@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtWinMigrate 2.8 开源版资源下载"
+title: "QtWinMigrate 28 开源版资源下载"
 date:   2023-09-08
 tags: [2.8,qtwinmigrate,opensource,开源,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8与1.8寸ST7735彩屏中文编程资源"
+title: "STM32F103C8与18寸ST7735彩屏中文编程资源"
 date:   2020-02-10
 tags: [ST7735,彩屏,1.8,代码,中文]
 comments: true

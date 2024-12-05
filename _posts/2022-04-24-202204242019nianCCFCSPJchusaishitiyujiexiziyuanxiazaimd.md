@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019年CCF-CSP-J初赛试题与解析资源下载"
+title: "2019年CCFCSPJ初赛试题与解析资源下载"
 date:   2021-09-01
 tags: [初赛,试题,解析,CSP,练习]
 comments: true

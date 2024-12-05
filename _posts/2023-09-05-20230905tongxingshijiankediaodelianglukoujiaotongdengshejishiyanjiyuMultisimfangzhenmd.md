@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通行时间可调的两路口交通灯设计实验（基于Multisim仿真）"
+title: "通行时间可调的两路口交通灯设计实验基于Multisim仿真"
 date:   2021-04-07
 tags: [交通灯,黄灯,设计,Multisim,仿真]
 comments: true

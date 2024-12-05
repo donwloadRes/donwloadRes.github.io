@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙FH-FZ系列视觉CCD软件资源下载"
+title: "欧姆龙FHFZ系列视觉CCD软件资源下载"
 date:   2021-10-01
 tags: [欧姆龙,CCD,该软件,视觉,FH]
 comments: true

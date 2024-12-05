@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.1AS-2020 标准文件下载"
+title: "IEEE 8021AS2020 标准文件下载"
 date:   2023-11-18
 tags: [2020,IEEE,802.1,Std,pdf.7]
 comments: true

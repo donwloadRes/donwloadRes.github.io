@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread移植指南-RISC-V"
+title: "RTThread移植指南RISCV"
 date:   2022-09-12
 tags: [移植,RT,RISC,指南,Thread]
 comments: true

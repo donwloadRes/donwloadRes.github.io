@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021年MathorCup高校数学建模挑战赛——大数据竞赛赛道A复赛题目1"
+title: "2021年MathorCup高校数学建模挑战赛大数据竞赛赛道A复赛题目1"
 date:   2022-05-29
 tags: [题目,复赛,文件,数据,赛道]
 comments: true

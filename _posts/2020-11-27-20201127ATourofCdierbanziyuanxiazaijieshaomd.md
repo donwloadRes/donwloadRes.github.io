@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Tour of C++ 第二版 资源下载介绍"
+title: "A Tour of C 第二版 资源下载介绍"
 date:   2020-08-10
 tags: [C++,Stroustrup,编程,Tour,第二]
 comments: true

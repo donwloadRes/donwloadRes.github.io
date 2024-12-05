@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#反编译工具集合"
+title: "C反编译工具集合"
 date:   2020-08-28
 tags: [反编译,NET,工具,C#,IL]
 comments: true

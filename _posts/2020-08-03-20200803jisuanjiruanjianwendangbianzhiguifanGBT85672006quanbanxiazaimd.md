@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机软件文档编制规范 GB-T8567-2006 全版下载"
+title: "计算机软件文档编制规范 GBT85672006 全版下载"
 date:   2022-07-20
 tags: [文档,计算机软件,规范,2006,开发]
 comments: true

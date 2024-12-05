@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA数字信号处理（四）Quartus FIR IP核实现"
+title: "FPGA数字信号处理四Quartus FIR IP核实现"
 date:   2024-06-17
 tags: [FIR,FPGA,IP,仿真,滤波器]
 comments: true

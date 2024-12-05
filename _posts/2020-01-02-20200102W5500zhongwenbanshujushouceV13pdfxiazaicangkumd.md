@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "W5500中文版数据手册V1.3.pdf 下载仓库"
+title: "W5500中文版数据手册V13pdf 下载仓库"
 date:   2021-08-28
 tags: [W5500,芯片,手册,V1.3,pdf]
 comments: true

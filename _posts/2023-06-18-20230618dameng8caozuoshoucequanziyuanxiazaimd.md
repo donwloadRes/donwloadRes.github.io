@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "达梦8操作手册（全）资源下载"
+title: "达梦8操作手册全资源下载"
 date:   2020-10-02
 tags: [达梦,数据库,手册,文档,操作手册]
 comments: true

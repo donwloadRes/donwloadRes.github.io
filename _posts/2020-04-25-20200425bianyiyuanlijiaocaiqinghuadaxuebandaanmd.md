@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理教材（清华大学版）答案"
+title: "编译原理教材清华大学版答案"
 date:   2020-06-11
 tags: [编译,答案,教材,仓库,原理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xilinx_CORDIC算法详解"
+title: "xilinxCORDIC算法详解"
 date:   2022-04-30
 tags: [CORDIC,算法,FPGA,应用,理解]
 comments: true

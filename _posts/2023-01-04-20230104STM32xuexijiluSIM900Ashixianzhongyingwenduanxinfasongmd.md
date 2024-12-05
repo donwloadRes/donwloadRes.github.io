@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32学习记录——SIM900A实现中英文短信发送"
+title: "STM32学习记录SIM900A实现中英文短信发送"
 date:   2020-05-24
 tags: [SIM900A,短信,STM32,发送,模块]
 comments: true

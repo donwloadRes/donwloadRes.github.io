@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HPC+LSF 用户使用指南"
+title: "HPCLSF 用户使用指南"
 date:   2021-10-31
 tags: [LSF,用户,HPC,使用指南,指南]
 comments: true

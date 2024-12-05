@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信链路预算（Link Budget）资源文件介绍"
+title: "通信链路预算Link Budget资源文件介绍"
 date:   2022-07-01
 tags: [链路,预算,文件,资源,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVDS标准（VASA和JEIDA）资源下载"
+title: "LVDS标准VASA和JEIDA资源下载"
 date:   2021-05-16
 tags: [LVDS,VASA,JEIDA,文件,资源]
 comments: true

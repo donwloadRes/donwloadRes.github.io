@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高志强老师对LADRC的推导原理 - 2003ACC_LADRC1"
+title: "高志强老师对LADRC的推导原理  2003ACCLADRC1"
 date:   2020-06-09
 tags: [LADRC,推导,文件,高志强,应用]
 comments: true

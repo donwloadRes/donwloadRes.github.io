@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32移植机智云】超详细教程#1 ESP8266烧录机智云固件教程"
+title: "STM32移植机智云超详细教程1 ESP8266烧录机智云固件教程"
 date:   2023-04-20
 tags: [烧录,固件,ESP8266,机智,STM32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机S7.NET与PLC通信示例"
+title: "C上位机S7NET与PLC通信示例"
 date:   2023-08-18
 tags: [PLC,S7,NET,上位,示例]
 comments: true

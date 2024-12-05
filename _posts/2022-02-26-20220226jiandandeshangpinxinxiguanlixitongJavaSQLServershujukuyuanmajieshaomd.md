@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单的商品信息管理系统(Java & SQL Server数据库)源码介绍"
+title: "简单的商品信息管理系统Java  SQL Server数据库源码介绍"
 date:   2021-10-14
 tags: [数据库,Java,SQL,Server,商品信息]
 comments: true

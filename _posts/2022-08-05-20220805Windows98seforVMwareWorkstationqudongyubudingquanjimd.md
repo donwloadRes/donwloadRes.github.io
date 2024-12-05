@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 98se for VMware Workstation: 驱动与补丁全集"
+title: "Windows 98se for VMware Workstation 驱动与补丁全集"
 date:   2024-09-11
 tags: [Windows,98se,驱动,VMware,USB]
 comments: true

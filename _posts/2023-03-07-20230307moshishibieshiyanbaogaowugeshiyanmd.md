@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模式识别实验报告（五个实验）"
+title: "模式识别实验报告五个实验"
 date:   2023-04-20
 tags: [模式识别,实验报告,算法,应用,分类器]
 comments: true

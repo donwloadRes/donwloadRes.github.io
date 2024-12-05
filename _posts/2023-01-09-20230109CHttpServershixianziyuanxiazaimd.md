@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HttpServer 实现资源下载"
+title: "C HttpServer 实现资源下载"
 date:   2022-06-13
 tags: [HttpServer,C#,资源,初学者,代码]
 comments: true

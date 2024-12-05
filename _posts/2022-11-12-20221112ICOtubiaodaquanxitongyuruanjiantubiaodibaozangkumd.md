@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " ICO图标大全 —— 系统与软件图标的宝藏库"
+title: " ICO图标大全  系统与软件图标的宝藏库"
 date:   2020-10-13
 tags: [图标,ICO,资源库,游戏,软件]
 comments: true

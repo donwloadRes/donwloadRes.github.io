@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EhLib 11.0 第三方Grid控件"
+title: "EhLib 110 第三方Grid控件"
 date:   2023-02-23
 tags: [EhLib,11.0,控件,Grid,Delphi]
 comments: true

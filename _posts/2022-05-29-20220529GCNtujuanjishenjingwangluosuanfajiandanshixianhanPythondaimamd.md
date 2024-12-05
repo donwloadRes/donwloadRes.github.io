@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCN-图卷积神经网络算法简单实现（含Python代码）"
+title: "GCN图卷积神经网络算法简单实现含Python代码"
 date:   2020-08-30
 tags: [代码,GCN,Python,模型,数据]
 comments: true

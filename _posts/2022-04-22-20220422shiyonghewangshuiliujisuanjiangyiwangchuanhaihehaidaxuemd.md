@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用河网水流计算讲义 - 王船海（河海大学）"
+title: "实用河网水流计算讲义  王船海河海大学"
 date:   2021-05-29
 tags: [河网,水流,河海大学,讲义,实用]
 comments: true

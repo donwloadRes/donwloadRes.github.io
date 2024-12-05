@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D 高级汽车材质效果：Car Paint - Pro 3.1"
+title: "Unity3D 高级汽车材质效果Car Paint  Pro 31"
 date:   2020-03-18
 tags: [材质,涂层,着色器,Car,Paint]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA系统软件-系统变量表"
+title: "KUKA系统软件系统变量表"
 date:   2022-06-19
 tags: [库卡,变量,KUKA,机器人,系统软件]
 comments: true

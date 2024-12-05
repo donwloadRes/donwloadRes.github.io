@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享一个嘉立创封装库（内含AD和PADS两种格式）"
+title: "分享一个嘉立创封装库内含AD和PADS两种格式"
 date:   2020-11-25
 tags: [封装,AD,PADS,PCB,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS射频仿真设计实例大全（HFSS15）工程文件"
+title: "HFSS射频仿真设计实例大全HFSS15工程文件"
 date:   2022-10-13
 tags: [仿真,实例,HFSS,射频,设计]
 comments: true

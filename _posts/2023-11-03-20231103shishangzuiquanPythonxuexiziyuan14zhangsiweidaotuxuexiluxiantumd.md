@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最全Python学习资源：14张思维导图+学习路线图"
+title: "史上最全Python学习资源14张思维导图学习路线图"
 date:   2020-06-03
 tags: [Python,学习,导图,路线图,14]
 comments: true

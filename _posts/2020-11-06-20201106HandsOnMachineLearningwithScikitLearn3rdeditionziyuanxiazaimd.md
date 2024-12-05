@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hands-On Machine Learning with Scikit-Learn 3rd edition》资源下载"
+title: "HandsOn Machine Learning with ScikitLearn 3rd edition资源下载"
 date:   2022-06-08
 tags: [Hands,Scikit,Learn,学习,资源]
 comments: true

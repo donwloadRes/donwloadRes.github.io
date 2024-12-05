@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "商务英语 [初入职场] 资源文件介绍"
+title: "商务英语 初入职场 资源文件介绍"
 date:   2023-04-14
 tags: [商务英语,职场,商务,初入,英语]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch实战：基于Seq2seq模型处理机器翻译任务(模型训练及验证)"
+title: "PyTorch实战基于Seq2seq模型处理机器翻译任务模型训练及验证"
 date:   2024-08-25
 tags: [模型,训练,PyTorch,验证,机器翻译]
 comments: true

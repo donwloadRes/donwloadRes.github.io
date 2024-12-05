@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7 USB 3.0 驱动安装包"
+title: "Win7 USB 30 驱动安装包"
 date:   2024-09-10
 tags: [USB,3.0,安装,驱动,Windows]
 comments: true

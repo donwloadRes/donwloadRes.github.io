@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 安装与注册指南"
+title: "Quartus II 131 安装与注册指南"
 date:   2020-08-03
 tags: [Quartus,II,安装,点击,注册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为研发（PDF）下载"
+title: "华为研发PDF下载"
 date:   2023-07-04
 tags: [华为,研发,PDF,下载,example]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLink V9.5 固件资源包"
+title: "JLink V95 固件资源包"
 date:   2021-06-01
 tags: [固件,JLink,V9.5,SN,升级]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinHttp.WinHttpRequest.5.1中文参考手册"
+title: "WinHttpWinHttpRequest51中文参考手册"
 date:   2021-01-31
 tags: [WinHttp,WinHttpRequest.5,组件,参考手册,示例]
 comments: true

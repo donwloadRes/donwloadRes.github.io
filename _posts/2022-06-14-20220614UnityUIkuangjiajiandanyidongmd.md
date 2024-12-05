@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity UI 框架（简单易懂）"
+title: "Unity UI 框架简单易懂"
 date:   2022-10-31
 tags: [UI,框架,Unity,示例,文档]
 comments: true

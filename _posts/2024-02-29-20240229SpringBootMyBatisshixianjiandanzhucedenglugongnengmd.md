@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + MyBatis 实现简单注册登录功能"
+title: "Spring Boot  MyBatis 实现简单注册登录功能"
 date:   2021-01-10
 tags: [登录,Spring,Boot,注册,MyBatis]
 comments: true

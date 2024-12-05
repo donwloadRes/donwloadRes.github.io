@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink仿真资源：现代永磁同步电机控制原理及MATLAB仿真》全书配套仿真文件"
+title: "Simulink仿真资源现代永磁同步电机控制原理及MATLAB仿真全书配套仿真文件"
 date:   2023-08-15
 tags: [仿真,MATLAB,同步电机,永磁,Simulink]
 comments: true

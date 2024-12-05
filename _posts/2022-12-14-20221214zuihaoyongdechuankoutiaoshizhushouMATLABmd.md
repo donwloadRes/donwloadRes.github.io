@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最好用的串口调试助手_MATLAB"
+title: "最好用的串口调试助手MATLAB"
 date:   2020-03-13
 tags: [串口,调试,MATLAB,助手,收发]
 comments: true

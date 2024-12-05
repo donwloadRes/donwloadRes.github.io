@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maxwell 3D电机设计示例（详细过程说明）"
+title: "Maxwell 3D电机设计示例详细过程说明"
 date:   2022-05-09
 tags: [Maxwell,3D,示例,电机,初学者]
 comments: true

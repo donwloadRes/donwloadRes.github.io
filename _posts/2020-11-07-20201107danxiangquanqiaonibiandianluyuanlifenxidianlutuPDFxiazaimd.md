@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单相全桥逆变电路原理分析（电路图）PDF下载"
+title: "单相全桥逆变电路原理分析电路图PDF下载"
 date:   2021-10-03
 tags: [逆变,电路图,电路,全桥,单相]
 comments: true

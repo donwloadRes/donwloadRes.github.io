@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.4 LTS 升级至 22.04 LTS 教程"
+title: "Ubuntu 20044 LTS 升级至 2204 LTS 教程"
 date:   2024-11-04
 tags: [LTS,Ubuntu,sudo,升级,22.04]
 comments: true

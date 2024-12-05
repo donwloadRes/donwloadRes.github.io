@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink的双电机伺服控制系统仿真模型"
+title: "基于MATLABSimulink的双电机伺服控制系统仿真模型"
 date:   2024-06-01
 tags: [电机,仿真,Simulink,伺服,调节器]
 comments: true

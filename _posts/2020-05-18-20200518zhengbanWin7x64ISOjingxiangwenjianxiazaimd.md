@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正版Win7_x64 ISO镜像文件下载"
+title: "正版Win7x64 ISO镜像文件下载"
 date:   2024-10-10
 tags: [正版,镜像文件,ISO,USB3.0,Windows]
 comments: true

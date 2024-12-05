@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware&ESXI虚拟机黑群晖7.2 正式版 (懒人包) 使用指南"
+title: "VMwareESXI虚拟机黑群晖72 正式版 懒人包 使用指南"
 date:   2023-05-09
 tags: [虚拟机,懒人,群晖,用户,界面]
 comments: true

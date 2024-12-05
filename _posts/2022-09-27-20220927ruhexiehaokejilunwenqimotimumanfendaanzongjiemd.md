@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何写好科技论文：期末题目满分答案总结"
+title: "如何写好科技论文期末题目满分答案总结"
 date:   2022-04-02
 tags: [写作,满分,论文,科技,答案]
 comments: true

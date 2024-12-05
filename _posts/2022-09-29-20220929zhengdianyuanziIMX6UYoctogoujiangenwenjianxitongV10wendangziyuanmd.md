@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【正点原子】I.MX6U Yocto构建根文件系统V1.0 文档资源"
+title: "正点原子IMX6U Yocto构建根文件系统V10 文档资源"
 date:   2023-08-26
 tags: [Yocto,文档,MX6U,构建,文件系统]
 comments: true

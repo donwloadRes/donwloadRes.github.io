@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "忍者安全渗透系统（NINJUTSU OS v3）系统安装及中文包下载安装指南"
+title: "忍者安全渗透系统NINJUTSU OS v3系统安装及中文包下载安装指南"
 date:   2020-11-07
 tags: [安装,语言包,系统,中文,忍者]
 comments: true

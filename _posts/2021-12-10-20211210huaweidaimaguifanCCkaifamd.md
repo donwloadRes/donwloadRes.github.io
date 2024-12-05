@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为代码规范 - C-C++ 开发"
+title: "华为代码规范  CC 开发"
 date:   2021-01-16
 tags: [规范,代码,C++,文档,华为]
 comments: true

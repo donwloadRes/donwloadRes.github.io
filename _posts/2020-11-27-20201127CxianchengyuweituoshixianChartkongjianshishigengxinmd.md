@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 线程与委托实现Chart控件实时更新"
+title: "C 线程与委托实现Chart控件实时更新"
 date:   2023-10-15
 tags: [控件,线程,Chart,C#,更新]
 comments: true

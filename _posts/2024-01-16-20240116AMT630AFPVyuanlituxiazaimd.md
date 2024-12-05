@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMT630A_FPV原理图下载"
+title: "AMT630AFPV原理图下载"
 date:   2021-03-22
 tags: [原理图,FPV,AMT630A,文件,下载]
 comments: true

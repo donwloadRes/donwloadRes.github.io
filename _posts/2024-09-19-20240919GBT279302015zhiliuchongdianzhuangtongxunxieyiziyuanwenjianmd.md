@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 27930-2015 直流充电桩通讯协议资源文件"
+title: "GBT 279302015 直流充电桩通讯协议资源文件"
 date:   2020-11-05
 tags: [2015,充电,文件,通讯,GB]
 comments: true

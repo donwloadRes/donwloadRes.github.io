@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲁棒主成分分析（RPCA）资源仓库"
+title: "鲁棒主成分分析RPCA资源仓库"
 date:   2021-03-18
 tags: [RPCA,数据,分析,鲁棒主,成分]
 comments: true

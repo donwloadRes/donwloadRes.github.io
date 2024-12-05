@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动聚焦源程序(基于openCV)"
+title: "自动聚焦源程序基于openCV"
 date:   2022-01-19
 tags: [图像,OpenCV,导入,自动,程序]
 comments: true

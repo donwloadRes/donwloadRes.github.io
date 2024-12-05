@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link V4.6.0 最新版本固件下载"
+title: "STLink V460 最新版本固件下载"
 date:   2024-04-15
 tags: [ST,Link,固件,下载,LINK]
 comments: true

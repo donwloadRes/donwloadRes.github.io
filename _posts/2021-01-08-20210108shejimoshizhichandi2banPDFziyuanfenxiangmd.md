@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式之禅（第2版）PDF资源分享"
+title: "设计模式之禅第2版PDF资源分享"
 date:   2023-09-10
 tags: [设计模式,PDF,之禅,资源,编程]
 comments: true

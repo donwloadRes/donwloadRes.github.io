@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性分析（358页完整版）资源下载"
+title: "信号完整性分析358页完整版资源下载"
 date:   2023-02-24
 tags: [完整性,信号,设计,下载,本书]
 comments: true

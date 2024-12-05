@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于NI-DAQmx实现内部时钟连续采样模拟量的WinForm程序"
+title: "基于NIDAQmx实现内部时钟连续采样模拟量的WinForm程序"
 date:   2022-03-07
 tags: [NI,DAQmx,采样,模拟量,WinForm]
 comments: true

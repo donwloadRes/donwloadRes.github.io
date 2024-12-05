@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "html前端动态获取后端数据显示到表格，实现分页显示"
+title: "html前端动态获取后端数据显示到表格实现分页显示"
 date:   2024-07-18
 tags: [分页,前端,Docker,数据,your]
 comments: true

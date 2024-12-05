@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN-GRU-Attention负荷预测模型"
+title: "CNNGRUAttention负荷预测模型"
 date:   2020-04-26
 tags: [负荷,模型,CNN,GRU,Attention]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio Producer Edition 21.2.3 .4004中文版安装详解"
+title: "FL Studio Producer Edition 2123 4004中文版安装详解"
 date:   2021-11-15
 tags: [FL,Studio,安装,Producer,Edition]
 comments: true

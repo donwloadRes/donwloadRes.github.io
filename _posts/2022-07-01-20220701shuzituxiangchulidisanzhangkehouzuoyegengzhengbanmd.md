@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理第三章课后作业（更正版）"
+title: "数字图像处理第三章课后作业更正版"
 date:   2022-08-11
 tags: [数字图像处理,课后,正版,文件,作业]
 comments: true

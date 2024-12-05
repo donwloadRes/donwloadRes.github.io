@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 100元平板也能吃鸡玩王者！小米平板刷机神盾dot1.2保姆级教程"
+title: "Android 100元平板也能吃鸡玩王者小米平板刷机神盾dot12保姆级教程"
 date:   2022-12-08
 tags: [刷机,教程,平板,小米,神盾]
 comments: true

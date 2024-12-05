@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teigha.net 4.0 运行环境及示例代码"
+title: "Teighanet 40 运行环境及示例代码"
 date:   2020-01-04
 tags: [示例,代码,Teigha,net,4.0]
 comments: true

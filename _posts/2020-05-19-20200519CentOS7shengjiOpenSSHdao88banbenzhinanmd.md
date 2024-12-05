@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 升级 OpenSSH 到 8.8 版本指南"
+title: "CentOS 7 升级 OpenSSH 到 88 版本指南"
 date:   2022-06-18
 tags: [OpenSSH,升级,版本,SSH,8.8]
 comments: true

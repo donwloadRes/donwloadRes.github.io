@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "过零触发双硅输出光耦-MOC3061的应用"
+title: "过零触发双硅输出光耦MOC3061的应用"
 date:   2022-07-29
 tags: [MOC3061,应用,双硅,电子书,触发]
 comments: true

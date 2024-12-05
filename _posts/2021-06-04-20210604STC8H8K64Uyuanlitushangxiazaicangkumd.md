@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC8H8K64U原理图（上）下载仓库"
+title: "STC8H8K64U原理图上下载仓库"
 date:   2022-03-08
 tags: [原理图,STC8H8K64U,文件,仓库,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.4.2 安装步骤（仅用于教学）"
+title: "Delphi 1042 安装步骤仅用于教学"
 date:   2021-09-15
 tags: [Delphi,10.4,安装,步骤,教学]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 微软雅黑（Microsoft YaHei）+ Monaco 字体整合方案"
+title: "Windows 微软雅黑Microsoft YaHei Monaco 字体整合方案"
 date:   2021-01-28
 tags: [字体,Windows,Monaco,方案,文件]
 comments: true

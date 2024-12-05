@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装Oracle数据库依赖包：compat-libstdc++-33-3.2.3-72.el7.x86_64"
+title: "Linux安装Oracle数据库依赖包compatlibstdc3332372el7x8664"
 date:   2024-04-20
 tags: [安装,Oracle,compat,33,x86]
 comments: true

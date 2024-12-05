@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机矢量控制(FOC)—电流环及速度环PI参数整定"
+title: "永磁同步电机矢量控制FOC电流环及速度环PI参数整定"
 date:   2020-04-30
 tags: [PI,电流,矢量,同步电机,永磁]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8485 串行GPIO（SGPIO）总线规范-中文版"
+title: "SFF8485 串行GPIOSGPIO总线规范中文版"
 date:   2022-02-24
 tags: [SFF,8485,总线,串行,GPIO]
 comments: true

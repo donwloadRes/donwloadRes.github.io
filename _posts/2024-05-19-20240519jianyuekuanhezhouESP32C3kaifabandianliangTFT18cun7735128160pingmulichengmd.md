@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简约款合宙ESP32-C3开发板点亮TFT1.8寸7735128160屏幕例程"
+title: "简约款合宙ESP32C3开发板点亮TFT18寸7735128160屏幕例程"
 date:   2022-10-12
 tags: [开发板,例程,VSCode,插件,屏幕]
 comments: true

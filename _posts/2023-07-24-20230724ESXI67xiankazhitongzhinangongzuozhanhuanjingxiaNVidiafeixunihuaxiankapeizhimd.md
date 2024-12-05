@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXI 6.7 显卡直通指南 - ＤＥＬＬ工作站环境下NVidia非虚拟化显卡配置"
+title: "ESXI 67 显卡直通指南  工作站环境下NVidia非虚拟化显卡配置"
 date:   2023-01-02
 tags: [显卡,直通,NVIDIA,ESXI,ESXi]
 comments: true

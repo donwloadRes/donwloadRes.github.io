@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲁棒控制--线性矩阵不等式处理方法（带目录书签）"
+title: "鲁棒控制线性矩阵不等式处理方法带目录书签"
 date:   2022-09-03
 tags: [鲁棒控制,LMI,不等式,书签,矩阵]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王道考研-计算机网络笔记"
+title: "王道考研计算机网络笔记"
 date:   2023-07-08
 tags: [考研,计算机网络,笔记,王道,复习]
 comments: true

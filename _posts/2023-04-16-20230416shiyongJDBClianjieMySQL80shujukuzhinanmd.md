@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用JDBC连接MySQL 8.0数据库指南"
+title: "使用JDBC连接MySQL 80数据库指南"
 date:   2020-08-26
 tags: [MySQL,String,JDBC,conn,stmt]
 comments: true

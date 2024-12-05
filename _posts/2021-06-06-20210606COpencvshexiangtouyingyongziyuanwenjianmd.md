@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Opencv 摄像头应用资源文件"
+title: "C Opencv 摄像头应用资源文件"
 date:   2024-02-29
 tags: [C#,摄像头,OpenCV,示例,文件]
 comments: true

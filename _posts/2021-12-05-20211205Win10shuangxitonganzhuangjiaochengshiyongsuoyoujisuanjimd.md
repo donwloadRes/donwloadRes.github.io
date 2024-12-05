@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10双系统安装教程（适用所有计算机）"
+title: "Win10双系统安装教程适用所有计算机"
 date:   2022-11-29
 tags: [双系统,安装,Win10,教程,适用]
 comments: true

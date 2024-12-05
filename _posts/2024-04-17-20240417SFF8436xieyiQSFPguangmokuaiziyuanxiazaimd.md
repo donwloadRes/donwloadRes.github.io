@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8436协议 QSFP+光模块资源下载"
+title: "SFF8436协议 QSFP光模块资源下载"
 date:   2024-05-03
 tags: [QSFP,模块,SFF,8436,下载]
 comments: true

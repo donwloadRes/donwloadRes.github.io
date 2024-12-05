@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust程序设计语言 中文版（带完整目录）"
+title: "Rust程序设计语言 中文版带完整目录"
 date:   2021-01-06
 tags: [Rust,程序设计,目录,中文版,语言]
 comments: true

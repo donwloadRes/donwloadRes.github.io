@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "用 Word 资源转换替代手写作业教程"
+title: "用 Word 资源转换替代手写作业教程
+date   20221203
+tags 手写Word教程字体文档
+comments true
+author admin
+
+
+layout post
+title 用 Word 资源转换替代手写作业教程"
 date:   2022-12-03
 tags: [手写,Word,教程,字体,文档]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "用 Word 资源转换替代手写作业教程"
+title: "用 Word 资源转换替代手写作业教程
+date   20221203
+tags 手写Word教程字体文档
+comments true
+author admin
+
+
+layout post
+title 用 Word 资源转换替代手写作业教程"
 date:   2021-01-25
 tags: [手写,Word,字体,教程,文档]
 comments: true

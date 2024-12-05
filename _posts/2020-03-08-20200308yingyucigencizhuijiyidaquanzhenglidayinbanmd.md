@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英语词根词缀记忆大全（整理打印版）"
+title: "英语词根词缀记忆大全整理打印版"
 date:   2024-10-10
 tags: [学习者,词缀,词根,单词,记忆]
 comments: true

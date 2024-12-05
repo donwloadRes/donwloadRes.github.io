@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uCGUI中文指导手册（完整版）"
+title: "uCGUI中文指导手册完整版"
 date:   2022-04-11
 tags: [uCGUI,嵌入式,完整版,开发者,本手册]
 comments: true

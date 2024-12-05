@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPD7个TR评审表要素文字版（8P）资源下载"
+title: "IPD7个TR评审表要素文字版8P资源下载"
 date:   2022-10-15
 tags: [评审,TR,文件,要素,IPD]
 comments: true

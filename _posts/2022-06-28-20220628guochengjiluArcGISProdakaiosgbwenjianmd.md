@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【过程记录】ArcGIS Pro打开.osgb文件"
+title: "过程记录ArcGIS Pro打开osgb文件"
 date:   2021-07-31
 tags: [ArcGIS,Pro,OSGB,三维,文件]
 comments: true

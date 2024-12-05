@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出Yolo系列：Yolov3、Yolov4、Yolov5、Yolox核心基础知识完整讲解"
+title: "深入浅出Yolo系列Yolov3Yolov4Yolov5Yolox核心基础知识完整讲解"
 date:   2023-08-08
 tags: [Yolo,算法,系列,Yolov4,基础知识]
 comments: true

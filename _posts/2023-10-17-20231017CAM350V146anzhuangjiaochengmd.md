@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAM350 V14.6 安装教程"
+title: "CAM350 V146 安装教程"
 date:   2021-06-01
 tags: [CAM350,V14.6,安装,教程,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPT入门到精通全套视频教程，Word+Excel+PPT三合一教程（15G）"
+title: "PPT入门到精通全套视频教程WordExcelPPT三合一教程15G"
 date:   2022-08-15
 tags: [PPT,教程,Word,Excel,15G]
 comments: true

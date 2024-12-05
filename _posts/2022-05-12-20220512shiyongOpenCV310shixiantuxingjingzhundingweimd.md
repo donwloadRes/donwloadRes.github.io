@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用OpenCV 3.1.0实现图形精准定位"
+title: "使用OpenCV 310实现图形精准定位"
 date:   2021-07-24
 tags: [OpenCV,检测,圆形,定位,图像]
 comments: true

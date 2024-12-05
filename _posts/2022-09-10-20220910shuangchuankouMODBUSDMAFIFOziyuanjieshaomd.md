@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双串口MODBUS+DMA+FIFO 资源介绍"
+title: "双串口MODBUSDMAFIFO 资源介绍"
 date:   2023-09-16
 tags: [MODBUS,串口,DMA,嵌入式,FIFO]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品21 - 自定义委托大全"
+title: "QtC项目作品21  自定义委托大全"
 date:   2023-04-19
 tags: [下拉框,委托,校验,自定义,项目]
 comments: true

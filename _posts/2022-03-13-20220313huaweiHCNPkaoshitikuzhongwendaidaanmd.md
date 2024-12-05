@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为HCNP考试题库（中文带答案）"
+title: "华为HCNP考试题库中文带答案"
 date:   2020-09-19
 tags: [考试,华为,题库,认证,HCIP]
 comments: true

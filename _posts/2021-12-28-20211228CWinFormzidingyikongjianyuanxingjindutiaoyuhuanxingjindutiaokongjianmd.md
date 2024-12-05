@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 自定义控件：圆形进度条与环形进度条控件"
+title: "C WinForm 自定义控件圆形进度条与环形进度条控件"
 date:   2021-06-13
 tags: [控件,进度条,自定义,Visual,Studio]
 comments: true

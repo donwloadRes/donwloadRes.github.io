@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PE_Micro 工具资源文件下载"
+title: "PEMicro 工具资源文件下载"
 date:   2020-07-13
 tags: [PE,Micro,文件,安装,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openPDF - 实现PDF预览的强大工具库"
+title: "openPDF  实现PDF预览的强大工具库"
 date:   2024-04-18
 tags: [PDF,openPDF,预览,文档,pdf]
 comments: true

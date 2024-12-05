@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V中文架构手册开源指令集的指南"
+title: "RISCV中文架构手册开源指令集的指南"
 date:   2023-10-16
 tags: [RISC,指令集,架构,手册,开源]
 comments: true

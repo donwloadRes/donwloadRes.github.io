@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6-7-8-9代BIOS魔改工具 coffee time 0.99 下载"
+title: "6789代BIOS魔改工具 coffee time 099 下载"
 date:   2023-06-10
 tags: [BIOS,工具,魔改,coffee,time]
 comments: true

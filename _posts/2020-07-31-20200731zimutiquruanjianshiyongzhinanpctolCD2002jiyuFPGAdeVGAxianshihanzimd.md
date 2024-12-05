@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "字模提取软件使用指南（pctolCD2002，基于FPGA的VGA显示汉字）"
+title: "字模提取软件使用指南pctolCD2002基于FPGA的VGA显示汉字"
 date:   2024-05-13
 tags: [字模,FPGA,VGA,char,提取]
 comments: true

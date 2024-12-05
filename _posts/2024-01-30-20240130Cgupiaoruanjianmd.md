@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 股票软件"
+title: "C 股票软件"
 date:   2023-04-14
 tags: [C#,NET,软件,分析,确保您]
 comments: true

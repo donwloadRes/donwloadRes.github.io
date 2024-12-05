@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式FAT32文件系统设计与实现--振南znFAT上下全册"
+title: "嵌入式FAT32文件系统设计与实现振南znFAT上下全册"
 date:   2023-03-20
 tags: [FAT32,文件系统,嵌入式,振南,文件]
 comments: true

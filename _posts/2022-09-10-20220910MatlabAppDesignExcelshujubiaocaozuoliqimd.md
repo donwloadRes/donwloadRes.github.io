@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab App Design：Excel数据表操作利器"
+title: "Matlab App DesignExcel数据表操作利器"
 date:   2024-08-29
 tags: [Matlab,Excel,删除,数据,App]
 comments: true

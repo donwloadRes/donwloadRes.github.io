@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达系统分析与建模 - David K. Barton 中文版"
+title: "雷达系统分析与建模  David K Barton 中文版"
 date:   2021-05-30
 tags: [雷达,建模,系统分析,Barton,信号处理]
 comments: true

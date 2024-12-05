@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为AX3路由固件（鸿蒙3）"
+title: "华为AX3路由固件鸿蒙3"
 date:   2021-06-16
 tags: [固件,路由器,升级,AX3,华为]
 comments: true

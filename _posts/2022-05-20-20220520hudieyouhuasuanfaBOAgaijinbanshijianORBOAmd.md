@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蝴蝶优化算法(BOA)改进版实践-ORBOA"
+title: "蝴蝶优化算法BOA改进版实践ORBOA"
 date:   2020-12-16
 tags: [算法,BOA,优化,ORBOA,蝴蝶]
 comments: true

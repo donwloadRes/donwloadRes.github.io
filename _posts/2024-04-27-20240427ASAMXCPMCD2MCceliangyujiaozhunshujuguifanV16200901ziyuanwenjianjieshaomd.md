@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASAM XCP MCD-2 MC 测量与校准数据规范 V1.6 200901 资源文件介绍"
+title: "ASAM XCP MCD2 MC 测量与校准数据规范 V16 200901 资源文件介绍"
 date:   2021-10-21
 tags: [MCD,ASAM,MC,文件,标准]
 comments: true

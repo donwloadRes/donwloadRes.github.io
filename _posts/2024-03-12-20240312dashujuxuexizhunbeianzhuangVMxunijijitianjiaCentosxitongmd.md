@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据学习准备：安装VM虚拟机及添加Centos系统"
+title: "大数据学习准备安装VM虚拟机及添加Centos系统"
 date:   2022-05-22
 tags: [虚拟机,VM,Centos,安装,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "指标中台建设方法与实践 - 白皮书"
+title: "指标中台建设方法与实践  白皮书"
 date:   2021-06-12
 tags: [数据,指标,白皮书,实践,建设]
 comments: true

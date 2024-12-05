@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NBU 全模块 授权 7.6.1-8.1"
+title: "NBU 全模块 授权 76181"
 date:   2024-08-13
 tags: [授权,NBU,7.6,8.1,NetBackup]
 comments: true

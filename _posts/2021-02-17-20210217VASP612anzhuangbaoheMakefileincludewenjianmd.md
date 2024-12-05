@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VASP 6.1.2 安装包和 Makefile.include 文件"
+title: "VASP 612 安装包和 Makefileinclude 文件"
 date:   2023-08-31
 tags: [VASP,include,编译,安装包,6.1]
 comments: true

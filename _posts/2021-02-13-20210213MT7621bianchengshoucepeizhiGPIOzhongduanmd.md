@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7621编程手册&配置GPIO中断"
+title: "MT7621编程手册配置GPIO中断"
 date:   2022-02-27
 tags: [GPIO,MT7621,中断,寄存器,编程]
 comments: true

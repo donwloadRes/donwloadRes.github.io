@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纯HTML+CSS仿京东静态网页设计源码"
+title: "纯HTMLCSS仿京东静态网页设计源码"
 date:   2021-07-30
 tags: [CSS,HTML,京东,静态,网页]
 comments: true

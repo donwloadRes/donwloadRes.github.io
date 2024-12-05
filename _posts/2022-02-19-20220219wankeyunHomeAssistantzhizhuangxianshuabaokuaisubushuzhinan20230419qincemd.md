@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩客云 Home Assistant 直装线刷包 快速部署指南（2023-04-19亲测）"
+title: "玩客云 Home Assistant 直装线刷包 快速部署指南20230419亲测"
 date:   2022-12-21
 tags: [Home,Assistant,玩客,2023,19]
 comments: true

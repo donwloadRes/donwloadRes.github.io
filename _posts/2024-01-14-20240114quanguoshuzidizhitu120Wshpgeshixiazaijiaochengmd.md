@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国数字地质图1：20W shp格式下载教程"
+title: "全国数字地质图120W shp格式下载教程"
 date:   2021-12-17
 tags: [数据,下载,格式,地质图,shp]
 comments: true

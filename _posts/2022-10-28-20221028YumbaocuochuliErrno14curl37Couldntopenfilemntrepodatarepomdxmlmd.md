@@ -1,6 +1,19 @@
 ---
 layout: post
-title: "Yum 报错处理：Errno 14 curl#37 - "Couldn't open file -mnt-repodata-repomd.xml""
+title: "Yum 报错处理Errno 14 curl37  Couldnt open file mntrepodatarepomdxml
+date   20210512
+tags xmlrepomd报错文件mnt
+comments true
+author admin
+
+ Yum 报错处理Errno 14 curl37  Couldnt open file mntrepodatarepomdxml
+
+ 简介
+
+本仓库提供了一个资源文件用于解决在使用 yum 命令时遇到的报错问题具体报错信息为
+
+
+Errno 14 curl37  Couldnt open file mntrepodatarepomdxml"
 date:   2021-05-12
 tags: [xml,repomd,报错,文件,mnt]
 comments: true

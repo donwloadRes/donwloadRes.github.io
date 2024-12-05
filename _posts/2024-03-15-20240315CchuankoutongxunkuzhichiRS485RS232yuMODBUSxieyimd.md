@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口通讯库 - 支持RS485-RS232与MODBUS协议"
+title: "C串口通讯库  支持RS485RS232与MODBUS协议"
 date:   2023-07-27
 tags: [MODBUS,串口,通讯,寄存器,错误处理]
 comments: true

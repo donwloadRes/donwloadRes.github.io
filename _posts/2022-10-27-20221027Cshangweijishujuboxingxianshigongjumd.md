@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机 - 数据波形显示工具"
+title: "C 上位机  数据波形显示工具"
 date:   2020-06-21
 tags: [数据,波形,C#,Excel,显示]
 comments: true

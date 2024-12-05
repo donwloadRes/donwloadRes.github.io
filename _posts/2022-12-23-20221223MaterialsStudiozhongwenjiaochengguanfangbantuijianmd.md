@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Materials Studio中文教程（官方版推荐）"
+title: "Materials Studio中文教程官方版推荐"
 date:   2021-09-02
 tags: [Materials,Studio,教程,密度,CASTEP]
 comments: true

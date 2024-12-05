@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 PLC编程设计与案例分析"
+title: "S71200 PLC编程设计与案例分析"
 date:   2020-03-04
 tags: [S7,1200,PLC,编程设计,案例]
 comments: true

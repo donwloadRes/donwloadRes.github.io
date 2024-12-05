@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张贤达现代信号处理》习题与答案资源下载"
+title: "张贤达现代信号处理习题与答案资源下载"
 date:   2022-07-05
 tags: [习题,信号处理,贤达,下载,资源]
 comments: true

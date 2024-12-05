@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动汽车充电机 (OBC)车载电源与充电桩新技术"
+title: "电动汽车充电机 OBC车载电源与充电桩新技术"
 date:   2021-08-31
 tags: [充电,OBC,电动汽车,充电机,车载]
 comments: true

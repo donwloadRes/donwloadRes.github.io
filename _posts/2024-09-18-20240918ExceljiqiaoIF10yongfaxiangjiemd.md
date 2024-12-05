@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel技巧：IF{1,0}用法详解"
+title: "Excel技巧IF10用法详解"
 date:   2021-10-09
 tags: [Excel,函数,数组,用法,查找]
 comments: true

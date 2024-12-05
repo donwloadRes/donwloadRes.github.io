@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品17 - 数据库组件"
+title: "QtC项目作品17  数据库组件"
 date:   2022-07-03
 tags: [数据库,组件,自动,清理,数据]
 comments: true

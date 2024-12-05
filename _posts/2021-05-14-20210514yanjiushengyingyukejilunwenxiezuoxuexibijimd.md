@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研究生英语科技论文写作》学习笔记"
+title: "研究生英语科技论文写作学习笔记"
 date:   2023-03-17
 tags: [写作,论文,笔记,研究生,科技]
 comments: true

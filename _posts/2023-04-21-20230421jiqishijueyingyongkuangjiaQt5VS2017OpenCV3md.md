@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉应用框架 - Qt5 + VS2017 + OpenCV3"
+title: "机器视觉应用框架  Qt5  VS2017  OpenCV3"
 date:   2022-11-07
 tags: [视觉,开发者,机器,Qt5,框架]
 comments: true

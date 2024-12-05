@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome谷歌浏览器驱动最新版(107.0.5304.18)"
+title: "Chrome谷歌浏览器驱动最新版1070530418"
 date:   2022-02-02
 tags: [ChromeDriver,浏览器,版本,谷歌,107.0]
 comments: true

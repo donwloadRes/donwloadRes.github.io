@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenkins 2.346.1版本插件包"
+title: "Jenkins 23461版本插件包"
 date:   2021-03-13
 tags: [插件,Jenkins,插件包,2.346,版本]
 comments: true

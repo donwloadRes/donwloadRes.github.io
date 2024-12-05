@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.10.8 64位 Windows 安装包"
+title: "Python 3108 64位 Windows 安装包"
 date:   2020-03-13
 tags: [3.10,Python,Windows,安装包,64]
 comments: true

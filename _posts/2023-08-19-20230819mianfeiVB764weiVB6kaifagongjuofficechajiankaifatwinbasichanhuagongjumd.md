@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费VB7-64位VB6开发工具office插件开发-twinbasic汉化工具"
+title: "免费VB764位VB6开发工具office插件开发twinbasic汉化工具"
 date:   2022-03-19
 tags: [VB6,开发工具,汉化,工具,插件]
 comments: true

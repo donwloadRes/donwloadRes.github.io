@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "恩智浦S32K1x_FlexIO模拟通信和定时器外设中文手册"
+title: "恩智浦S32K1xFlexIO模拟通信和定时器外设中文手册"
 date:   2020-02-01
 tags: [FlexIO,模拟,模块,S32K1x,外设]
 comments: true

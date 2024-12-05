@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web前端Vue2.0 + Vue3.0 全套入门到精通教程"
+title: "Web前端Vue20  Vue30 全套入门到精通教程"
 date:   2023-01-08
 tags: [Vue2.0,Vue3.0,Web,教程,前端]
 comments: true

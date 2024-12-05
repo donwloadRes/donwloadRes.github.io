@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 16.6 培训教程（中文版）"
+title: "Allegro 166 培训教程中文版"
 date:   2020-03-15
 tags: [Allegro,16.6,教程,用户,中文版]
 comments: true

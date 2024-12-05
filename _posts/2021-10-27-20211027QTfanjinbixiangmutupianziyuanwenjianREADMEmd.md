@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【QT】翻金币项目图片资源文件 README"
+title: "QT翻金币项目图片资源文件 README"
 date:   2022-09-05
 tags: [QT,资源,金币,项目,文件]
 comments: true

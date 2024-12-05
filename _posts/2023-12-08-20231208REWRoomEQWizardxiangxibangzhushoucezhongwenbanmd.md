@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REW（Room EQ Wizard）详细帮助手册 - 中文版"
+title: "REWRoom EQ Wizard详细帮助手册  中文版"
 date:   2021-04-09
 tags: [REW,听音,手册,帮助,音响效果]
 comments: true

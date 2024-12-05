@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress VCL for Delphi 各版本收集下载（最新支持Delphi XE 7）"
+title: "DevExpress VCL for Delphi 各版本收集下载最新支持Delphi XE 7"
 date:   2022-07-24
 tags: [版本,DevExpress,Delphi,VCL,下载]
 comments: true

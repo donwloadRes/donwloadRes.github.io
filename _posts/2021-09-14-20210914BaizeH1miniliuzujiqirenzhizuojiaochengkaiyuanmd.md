@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baize_H1mini六足机器人制作教程（开源）"
+title: "BaizeH1mini六足机器人制作教程开源"
 date:   2023-11-10
 tags: [制作,教程,机器人,六足,Baize]
 comments: true

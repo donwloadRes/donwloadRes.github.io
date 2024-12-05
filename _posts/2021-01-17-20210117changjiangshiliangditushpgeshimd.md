@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "长江矢量地图 (shp格式)"
+title: "长江矢量地图 shp格式"
 date:   2021-01-20
 tags: [shp,GIS,地图,矢量,格式]
 comments: true

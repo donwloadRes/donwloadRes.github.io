@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hyres3.1分辨率计算软件下载"
+title: "Hyres31分辨率计算软件下载"
 date:   2022-12-18
 tags: [分辨率,软件,Hyres3.1,相机,测试]
 comments: true

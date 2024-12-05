@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vue.js的移动端购物商城网站资源下载"
+title: "基于Vuejs的移动端购物商城网站资源下载"
 date:   2022-06-09
 tags: [js,Vue,实验报告,数据库,源码]
 comments: true

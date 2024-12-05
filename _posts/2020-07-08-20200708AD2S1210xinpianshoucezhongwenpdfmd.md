@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD2S1210芯片手册-中文.pdf"
+title: "AD2S1210芯片手册中文pdf"
 date:   2021-05-21
 tags: [AD2S1210,芯片,手册,旋变,引脚]
 comments: true

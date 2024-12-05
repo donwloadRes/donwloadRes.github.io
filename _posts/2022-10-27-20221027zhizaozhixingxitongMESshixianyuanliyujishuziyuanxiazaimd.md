@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "制造执行系统（MES）实现原理与技术资源下载"
+title: "制造执行系统MES实现原理与技术资源下载"
 date:   2022-10-29
 tags: [MES,制造执行系统,技术,原理,271]
 comments: true

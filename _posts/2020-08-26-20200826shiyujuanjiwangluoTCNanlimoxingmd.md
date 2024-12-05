@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时域卷积网络（TCN）案例模型"
+title: "时域卷积网络TCN案例模型"
 date:   2023-02-18
 tags: [模型,卷积,TCN,序列,进行]
 comments: true

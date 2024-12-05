@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "连连看大作业_实验报告1"
+title: "连连看大作业实验报告1"
 date:   2022-10-02
 tags: [连连看,实验报告,MATLAB,游戏,编程]
 comments: true

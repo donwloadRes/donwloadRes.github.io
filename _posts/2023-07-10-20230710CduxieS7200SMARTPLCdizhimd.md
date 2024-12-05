@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读写S7-200 SMART PLC地址"
+title: "C读写S7200 SMART PLC地址"
 date:   2022-03-05
 tags: [PLC,S7,C#,200,SMART]
 comments: true

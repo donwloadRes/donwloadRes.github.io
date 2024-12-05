@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django + Vue 分离项目实战"
+title: "Django  Vue 分离项目实战"
 date:   2023-03-12
 tags: [Django,Vue,js,项目,UI]
 comments: true

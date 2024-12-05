@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dspace System Desk Tutorial 帮助手册 V4.7（中英文互译）"
+title: "Dspace System Desk Tutorial 帮助手册 V47中英文互译"
 date:   2023-05-12
 tags: [System,Desk,Dspace,Autosar,手册]
 comments: true

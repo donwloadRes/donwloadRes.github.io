@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# LIBUSB库应用示例"
+title: "C LIBUSB库应用示例"
 date:   2024-06-07
 tags: [示例,USB,LIBUSB,C#,设备]
 comments: true

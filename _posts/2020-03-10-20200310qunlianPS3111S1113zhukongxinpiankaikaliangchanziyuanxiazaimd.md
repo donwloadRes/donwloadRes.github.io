@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联PS3111-S11-13主控芯片 开卡,量产资源下载"
+title: "群联PS3111S1113主控芯片 开卡量产资源下载"
 date:   2023-04-24
 tags: [开卡,量产,固件,群联,PS3111]
 comments: true

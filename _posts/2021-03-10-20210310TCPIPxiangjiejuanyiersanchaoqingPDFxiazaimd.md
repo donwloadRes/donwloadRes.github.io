@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP详解(卷一、二、三)超清PDF下载"
+title: "TCPIP详解卷一二三超清PDF下载"
 date:   2020-02-15
 tags: [TCP,IP,超清,PDF,详解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 与三菱FX全系列的串口与PC串口通讯交互"
+title: "C 与三菱FX全系列的串口与PC串口通讯交互"
 date:   2020-12-27
 tags: [串口,通讯,FX,PC,三菱]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习-泰坦尼克号数据集"
+title: "机器学习泰坦尼克号数据集"
 date:   2020-03-13
 tags: [数据,模型,学习,泰坦尼克号,缺失]
 comments: true

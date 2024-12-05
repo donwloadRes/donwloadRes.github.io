@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML.NET中文版教程下载"
+title: "MLNET中文版教程下载"
 date:   2021-10-20
 tags: [NET,ML,教程,pdf,中文版]
 comments: true

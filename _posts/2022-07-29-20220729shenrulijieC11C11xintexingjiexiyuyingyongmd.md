@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解C++11：C++11新特性解析与应用"
+title: "深入理解C11C11新特性解析与应用"
 date:   2020-09-24
 tags: [C++,11,特性,编程,兼容性]
 comments: true

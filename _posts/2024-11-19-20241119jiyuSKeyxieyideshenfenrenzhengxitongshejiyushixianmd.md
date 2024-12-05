@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于S-Key协议的身份认证系统设计与实现"
+title: "基于SKey协议的身份认证系统设计与实现"
 date:   2024-03-29
 tags: [口令,Key,登录,用户名,认证]
 comments: true

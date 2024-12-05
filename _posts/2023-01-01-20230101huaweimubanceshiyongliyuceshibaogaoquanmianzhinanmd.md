@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为模板：测试用例与测试报告全面指南"
+title: "华为模板测试用例与测试报告全面指南"
 date:   2021-03-25
 tags: [模板,测试,测试报告,测试用例,文档]
 comments: true

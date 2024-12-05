@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为云Stack 8.0.3 网络配置最佳实践（Region Type I）02.zip 下载说明"
+title: "华为云Stack 803 网络配置最佳实践Region Type I02zip 下载说明"
 date:   2021-10-28
 tags: [华为,配置,Stack,8.0,Region]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "憨批的语义分割3——Unet模型详解及训练自己的Unet模型（划分斑马线）"
+title: "憨批的语义分割3Unet模型详解及训练自己的Unet模型划分斑马线"
 date:   2023-07-01
 tags: [Unet,模型,训练,斑马线,分割]
 comments: true

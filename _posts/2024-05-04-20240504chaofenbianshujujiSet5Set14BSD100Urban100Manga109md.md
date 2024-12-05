@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超分辨数据集：Set5 Set14 BSD100 Urban100 Manga109"
+title: "超分辨数据集Set5 Set14 BSD100 Urban100 Manga109"
 date:   2021-03-14
 tags: [分辨率,图像,数据,Manga109,算法]
 comments: true

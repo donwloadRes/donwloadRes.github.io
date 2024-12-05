@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flask Web全栈开发阶段 - Flask框架实战教程"
+title: "Flask Web全栈开发阶段  Flask框架实战教程"
 date:   2022-10-23
 tags: [Flask,Web,全栈,框架,开发阶段]
 comments: true

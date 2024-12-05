@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stc8_ws2812b驱动资源说明"
+title: "stc8ws2812b驱动资源说明"
 date:   2020-03-15
 tags: [单片机,WS2812B,stc8,ws2812b,LED]
 comments: true

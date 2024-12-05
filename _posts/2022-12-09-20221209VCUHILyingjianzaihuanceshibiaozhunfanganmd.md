@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCU-HIL硬件在环测试标准方案"
+title: "VCUHIL硬件在环测试标准方案"
 date:   2021-07-16
 tags: [测试,VCU,HIL,方案,验证]
 comments: true

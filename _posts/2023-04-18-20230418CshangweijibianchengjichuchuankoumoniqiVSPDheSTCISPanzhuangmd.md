@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机编程基础：串口模拟器VSPD和STC-ISP安装"
+title: "C上位机编程基础串口模拟器VSPD和STCISP安装"
 date:   2020-11-17
 tags: [串口,VSPD,STC,ISP,单片机]
 comments: true

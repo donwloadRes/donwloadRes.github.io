@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 项目模板：优雅的 Vue3 项目组织"
+title: "Vue3 项目模板优雅的 Vue3 项目组织"
 date:   2020-10-21
 tags: [项目,模板,Vue3,vue3,优雅]
 comments: true

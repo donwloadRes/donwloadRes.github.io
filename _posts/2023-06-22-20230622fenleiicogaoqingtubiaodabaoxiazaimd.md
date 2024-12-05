@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分类.ico高清图标打包下载"
+title: "分类ico高清图标打包下载"
 date:   2024-08-04
 tags: [图标,ico,下载,打包,文件]
 comments: true

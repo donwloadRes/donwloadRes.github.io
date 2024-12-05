@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级无敌大麦抢票脚本 V1.0"
+title: "超级无敌大麦抢票脚本 V10"
 date:   2023-06-29
 tags: [大麦,修改,脚本,抢票,Appium]
 comments: true

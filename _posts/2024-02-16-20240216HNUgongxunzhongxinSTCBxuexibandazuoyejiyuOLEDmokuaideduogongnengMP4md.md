@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HNU工训中心STC-B学习板大作业-基于OLED模块的多功能MP4"
+title: "HNU工训中心STCB学习板大作业基于OLED模块的多功能MP4"
 date:   2024-03-02
 tags: [OLED,项目,模块,编程,HNU]
 comments: true

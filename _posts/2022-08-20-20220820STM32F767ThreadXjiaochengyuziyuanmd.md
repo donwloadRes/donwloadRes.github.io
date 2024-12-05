@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_F767_ThreadX教程与资源"
+title: "STM32F767ThreadX教程与资源"
 date:   2020-10-14
 tags: [STM32,ThreadX,F767,FileX,DMA]
 comments: true

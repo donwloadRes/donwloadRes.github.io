@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "启明星辰防火墙配置手册-天清汉马"
+title: "启明星辰防火墙配置手册天清汉马"
 date:   2021-04-26
 tags: [手册,防火墙,配置,启明星,天清汉马]
 comments: true

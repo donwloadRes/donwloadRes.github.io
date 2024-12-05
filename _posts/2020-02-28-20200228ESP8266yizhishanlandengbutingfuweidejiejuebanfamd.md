@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266一直闪蓝灯，不停复位的解决办法"
+title: "ESP8266一直闪蓝灯不停复位的解决办法"
 date:   2024-02-04
 tags: [蓝灯,ESP8266,复位,eagle,bin]
 comments: true

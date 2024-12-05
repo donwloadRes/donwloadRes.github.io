@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信预编码MATLAB代码合集 - 毕设专用"
+title: "无线通信预编码MATLAB代码合集  毕设专用"
 date:   2021-04-05
 tags: [MATLAB,代码,无线通信,毕设,编码]
 comments: true

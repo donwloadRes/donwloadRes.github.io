@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密随机数检测工具GM-T 0005-2021 最新标准"
+title: "国密随机数检测工具GMT 00052021 最新标准"
 date:   2024-09-15
 tags: [随机数,国密,检测,2021,标准]
 comments: true

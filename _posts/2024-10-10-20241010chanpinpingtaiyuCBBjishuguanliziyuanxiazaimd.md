@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "产品平台与CBB-技术管理资源下载"
+title: "产品平台与CBB技术管理资源下载"
 date:   2020-05-20
 tags: [IPD,管理体系,CBB,下载,组织变革]
 comments: true

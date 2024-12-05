@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【数据安全治理精华】【高清】数据安全治理能力评估方法.pdf》"
+title: "数据安全治理精华高清数据安全治理能力评估方法pdf"
 date:   2023-01-23
 tags: [数据安全,治理,评估,高清,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性回归预测PM2.5（包括代码详解）"
+title: "线性回归预测PM25包括代码详解"
 date:   2022-04-18
 tags: [代码,线性,PM2.5,回归,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典（第7版）高清PDF下载指南"
+title: "C入门经典第7版高清PDF下载指南"
 date:   2024-08-26
 tags: [C#,编程,PDF,下载,入门]
 comments: true

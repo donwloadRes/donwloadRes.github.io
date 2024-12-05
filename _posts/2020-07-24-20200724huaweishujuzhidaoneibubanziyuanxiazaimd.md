@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为数据之道-内部版资源下载"
+title: "华为数据之道内部版资源下载"
 date:   2024-04-21
 tags: [华为,数据,治理,之道,数据管理]
 comments: true

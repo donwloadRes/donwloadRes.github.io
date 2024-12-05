@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为校招硬件岗、电源岗笔试题8套"
+title: "华为校招硬件岗电源岗笔试题8套"
 date:   2020-09-19
 tags: [校招,华为,硬件,题目,电源]
 comments: true

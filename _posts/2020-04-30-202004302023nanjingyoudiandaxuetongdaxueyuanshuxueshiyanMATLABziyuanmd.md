@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023南京邮电大学通达学院数学实验》MATLAB资源"
+title: "2023南京邮电大学通达学院数学实验MATLAB资源"
 date:   2024-06-03
 tags: [课程,实验,MATLAB,资源,参考]
 comments: true

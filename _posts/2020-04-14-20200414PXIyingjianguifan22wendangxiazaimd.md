@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PXI硬件规范2.2文档下载"
+title: "PXI硬件规范22文档下载"
 date:   2024-08-28
 tags: [PXI,文档,硬件,2.2,规范]
 comments: true

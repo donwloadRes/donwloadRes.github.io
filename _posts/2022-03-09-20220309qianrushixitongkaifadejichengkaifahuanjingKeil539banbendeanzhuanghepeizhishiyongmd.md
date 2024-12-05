@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统开发的集成开发环境Keil 5.39版本的安装和配置使用"
+title: "嵌入式系统开发的集成开发环境Keil 539版本的安装和配置使用"
 date:   2020-03-04
 tags: [Keil,5.39,安装,嵌入式,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JavaScript网页模板"
+title: "HTMLCSSJavaScript网页模板"
 date:   2020-11-20
 tags: [网页,JavaScript,模板,文件,HTML]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标跟踪评估绘图（2）：Windows10环境OTB100数据集配置与算法比较"
+title: "目标跟踪评估绘图2Windows10环境OTB100数据集配置与算法比较"
 date:   2021-06-05
 tags: [OTB100,算法,数据,跟踪,绘图]
 comments: true

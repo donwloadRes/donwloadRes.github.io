@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLAM技术在自动驾驶中的应用与难点-智行者高翔"
+title: "SLAM技术在自动驾驶中的应用与难点智行者高翔"
 date:   2020-08-12
 tags: [SLAM,驾驶,自动,技术,应用]
 comments: true

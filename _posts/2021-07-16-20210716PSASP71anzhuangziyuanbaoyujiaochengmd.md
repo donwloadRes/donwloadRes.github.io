@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSASP 7.1 安装资源包与教程"
+title: "PSASP 71 安装资源包与教程"
 date:   2023-05-04
 tags: [安装,软件,教程,资源,PSASP]
 comments: true

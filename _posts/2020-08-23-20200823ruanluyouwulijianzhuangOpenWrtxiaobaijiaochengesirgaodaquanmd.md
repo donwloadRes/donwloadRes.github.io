@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软路由物理机安装OpenWrt小白教程（esir高大全）"
+title: "软路由物理机安装OpenWrt小白教程esir高大全"
 date:   2021-01-12
 tags: [OpenWrt,PE,教程,启动盘,硬盘]
 comments: true

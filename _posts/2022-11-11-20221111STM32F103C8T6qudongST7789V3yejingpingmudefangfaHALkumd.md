@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6驱动ST7789V3液晶屏幕的方法（HAL库）"
+title: "STM32F103C8T6驱动ST7789V3液晶屏幕的方法HAL库"
 date:   2021-07-04
 tags: [液晶屏幕,ST7789V3,STM32F103C8T6,HAL,微控制器]
 comments: true

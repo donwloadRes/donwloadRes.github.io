@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDX-CMX计算机组成原理实验指导书"
+title: "TDXCMX计算机组成原理实验指导书"
 date:   2023-06-25
 tags: [实验,指导书,原理,TDX,CMX]
 comments: true

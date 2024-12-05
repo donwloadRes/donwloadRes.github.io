@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binwalk 2.2.0 固件分析工具下载"
+title: "Binwalk 220 固件分析工具下载"
 date:   2022-11-10
 tags: [Binwalk,固件,2.2,binwalk,zip]
 comments: true

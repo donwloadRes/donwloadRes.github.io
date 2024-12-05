@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跳过TPM 2.0检测无损升级Windows 11"
+title: "跳过TPM 20检测无损升级Windows 11"
 date:   2022-02-13
 tags: [Windows,11,TPM,2.0,升级]
 comments: true

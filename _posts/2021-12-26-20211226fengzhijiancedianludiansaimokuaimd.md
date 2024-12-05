@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "峰值检测电路（电赛模块）"
+title: "峰值检测电路电赛模块"
 date:   2021-04-03
 tags: [电路,电赛,峰值检测,模块,峰值]
 comments: true

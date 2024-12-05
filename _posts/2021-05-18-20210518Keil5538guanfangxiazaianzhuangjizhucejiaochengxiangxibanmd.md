@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5 5.38官方下载、安装及注册教程（详细版）"
+title: "Keil5 538官方下载安装及注册教程详细版"
 date:   2020-02-01
 tags: [教程,注册,安装,下载,Keil5]
 comments: true

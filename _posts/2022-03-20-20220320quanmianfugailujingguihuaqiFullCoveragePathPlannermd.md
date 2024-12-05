@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全面覆盖路径规划器（Full Coverage Path Planner）"
+title: "全面覆盖路径规划器Full Coverage Path Planner"
 date:   2020-08-02
 tags: [路径,插件,覆盖,Flex,规划]
 comments: true

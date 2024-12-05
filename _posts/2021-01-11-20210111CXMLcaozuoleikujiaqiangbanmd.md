@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# XML操作类库（加强版）"
+title: "C XML操作类库加强版"
 date:   2020-01-07
 tags: [类库,节点,XML,开发者,C#]
 comments: true

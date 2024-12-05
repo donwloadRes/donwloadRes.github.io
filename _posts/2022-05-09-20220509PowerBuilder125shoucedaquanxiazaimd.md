@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 12.5手册大全下载"
+title: "PowerBuilder 125手册大全下载"
 date:   2021-09-16
 tags: [PowerBuilder,12.5,手册,大全,PDF]
 comments: true

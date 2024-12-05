@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEC-8运算器组成实验报告模板"
+title: "TEC8运算器组成实验报告模板"
 date:   2023-10-23
 tags: [实验报告,模板,TEC,运算器,内容]
 comments: true

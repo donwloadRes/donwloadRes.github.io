@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机学报模板 - 论文发表参考格式"
+title: "计算机学报模板  论文发表参考格式"
 date:   2022-06-28
 tags: [模板,格式,学报,计算机,论文]
 comments: true

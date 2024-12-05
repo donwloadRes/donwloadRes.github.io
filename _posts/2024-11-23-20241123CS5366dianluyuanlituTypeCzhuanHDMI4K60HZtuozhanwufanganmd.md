@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5366电路原理图 - Type-C转HDMI 4K60HZ拓展坞方案"
+title: "CS5366电路原理图  TypeC转HDMI 4K60HZ拓展坞方案"
 date:   2021-02-28
 tags: [支持,拓展,CS5366,原理图,Type]
 comments: true

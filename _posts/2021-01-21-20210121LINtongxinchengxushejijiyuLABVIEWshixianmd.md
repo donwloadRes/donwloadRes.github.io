@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN通信程序设计 - 基于LABVIEW实现"
+title: "LIN通信程序设计  基于LABVIEW实现"
 date:   2020-09-22
 tags: [LIN,LABVIEW,通信,程序,车载]
 comments: true

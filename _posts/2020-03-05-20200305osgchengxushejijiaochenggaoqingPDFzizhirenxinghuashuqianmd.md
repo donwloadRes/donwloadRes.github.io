@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osg程序设计教程-高清PDF（自制人性化书签）"
+title: "osg程序设计教程高清PDF自制人性化书签"
 date:   2022-07-12
 tags: [osg,书签,教程,PDF,人性化]
 comments: true

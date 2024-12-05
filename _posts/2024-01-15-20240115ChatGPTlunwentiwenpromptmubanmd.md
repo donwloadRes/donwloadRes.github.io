@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT论文提问(prompt)模板"
+title: "ChatGPT论文提问prompt模板"
 date:   2020-10-19
 tags: [模板,ChatGPT,prompt,论文,润色]
 comments: true

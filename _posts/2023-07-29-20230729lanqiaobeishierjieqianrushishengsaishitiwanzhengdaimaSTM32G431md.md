@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯十二届嵌入式省赛试题完整代码（STM32G431）"
+title: "蓝桥杯十二届嵌入式省赛试题完整代码STM32G431"
 date:   2020-11-13
 tags: [代码,STM32G431,bilibili,蓝桥,省赛]
 comments: true

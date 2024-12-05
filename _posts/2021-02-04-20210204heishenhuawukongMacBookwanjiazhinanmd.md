@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑神话悟空：MacBook玩家指南"
+title: "黑神话悟空MacBook玩家指南"
 date:   2021-12-25
 tags: [CrossOver,Mac,安装,悟空,神话]
 comments: true

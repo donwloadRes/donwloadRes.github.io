@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autodesk Forge Viewer v7.52 离线脚本包"
+title: "Autodesk Forge Viewer v752 离线脚本包"
 date:   2020-12-26
 tags: [离线,Autodesk,Forge,Viewer,v7.52]
 comments: true

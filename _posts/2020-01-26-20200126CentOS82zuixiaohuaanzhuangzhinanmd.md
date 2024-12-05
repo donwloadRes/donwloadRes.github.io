@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 8.2 最小化安装指南"
+title: "CentOS 82 最小化安装指南"
 date:   2020-02-12
 tags: [安装,CentOS,8.2,系统,镜像]
 comments: true

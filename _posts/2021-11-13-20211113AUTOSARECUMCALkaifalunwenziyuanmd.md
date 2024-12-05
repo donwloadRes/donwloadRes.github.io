@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR-ECU-MCAL开发论文资源"
+title: "AUTOSARECUMCAL开发论文资源"
 date:   2024-04-01
 tags: [AUTOSAR,MCAL,论文,开发,ECU]
 comments: true

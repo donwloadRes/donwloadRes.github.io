@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统性能：企业与云端（排版精良）"
+title: "系统性能企业与云端排版精良"
 date:   2021-07-28
 tags: [排版,性能,本书,系统,云端]
 comments: true

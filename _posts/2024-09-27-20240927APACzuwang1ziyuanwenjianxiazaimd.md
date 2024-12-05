@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AP+AC组网1 资源文件下载"
+title: "APAC组网1 资源文件下载"
 date:   2022-10-27
 tags: [AC,组网,AP,路由器,文件]
 comments: true

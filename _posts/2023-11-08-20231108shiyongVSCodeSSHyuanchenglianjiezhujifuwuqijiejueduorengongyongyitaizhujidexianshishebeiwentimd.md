@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用VSCode+SSH远程连接主机-服务器，解决多人共用一台主机的显示设备问题"
+title: "使用VSCodeSSH远程连接主机服务器解决多人共用一台主机的显示设备问题"
 date:   2024-09-22
 tags: [主机,远程,VSCode,多人,文档]
 comments: true

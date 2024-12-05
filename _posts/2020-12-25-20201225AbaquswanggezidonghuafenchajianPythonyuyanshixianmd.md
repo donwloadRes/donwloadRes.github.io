@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abaqus 网格自动划分插件 - Python语言实现"
+title: "Abaqus 网格自动划分插件  Python语言实现"
 date:   2023-12-31
 tags: [插件,网格,Abaqus,划分,Python]
 comments: true

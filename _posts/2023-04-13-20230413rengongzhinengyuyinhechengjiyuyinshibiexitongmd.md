@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能：语音合成及语音识别系统"
+title: "人工智能语音合成及语音识别系统"
 date:   2022-11-07
 tags: [语音,API,腾讯,人工智能,云小微]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XY2-100协议标准下载"
+title: "XY2100协议标准下载"
 date:   2021-03-04
 tags: [XY2,100,协议,pdf,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在.NET Framework 4.7.2 WPF应用程序中使用CommunityToolkit.Mvvm工具库进行开发的源码"
+title: "在NET Framework 472 WPF应用程序中使用CommunityToolkitMvvm工具库进行开发的源码"
 date:   2021-06-23
 tags: [CommunityToolkit,Mvvm,应用程序,WPF,源码]
 comments: true

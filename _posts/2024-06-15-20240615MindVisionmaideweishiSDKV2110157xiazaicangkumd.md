@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MindVision迈德威视SDK V2.1.10.157 下载仓库"
+title: "MindVision迈德威视SDK V2110157 下载仓库"
 date:   2023-04-16
 tags: [SDK,安装包,开发,MindVision,10.157]
 comments: true

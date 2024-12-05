@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDXL-Turbo实时AI绘画整合包"
+title: "SDXLTurbo实时AI绘画整合包"
 date:   2023-06-07
 tags: [AI,SDXL,Turbo,绘画,实时]
 comments: true

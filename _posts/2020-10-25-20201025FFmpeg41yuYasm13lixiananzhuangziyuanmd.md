@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 4.1 与 Yasm 1.3 离线安装资源"
+title: "FFmpeg 41 与 Yasm 13 离线安装资源"
 date:   2023-08-06
 tags: [FFmpeg,安装,4.1,Yasm,1.3]
 comments: true

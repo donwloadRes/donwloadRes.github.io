@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xy2_100协议VERILOG实现源代码"
+title: "xy2100协议VERILOG实现源代码"
 date:   2021-01-16
 tags: [100,xy2,VERILOG,协议,源代码]
 comments: true

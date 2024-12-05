@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB灰度处理代码 - LSF与MTF数码相机测量指南"
+title: "MATLAB灰度处理代码  LSF与MTF数码相机测量指南"
 date:   2020-10-04
 tags: [MATLAB,LSF,MTF,数码相机,灰度]
 comments: true

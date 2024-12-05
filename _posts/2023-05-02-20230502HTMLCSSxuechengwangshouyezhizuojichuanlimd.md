@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS学成网首页制作基础案例"
+title: "HTMLCSS学成网首页制作基础案例"
 date:   2024-07-26
 tags: [HTML,CSS,案例,学成,学习]
 comments: true

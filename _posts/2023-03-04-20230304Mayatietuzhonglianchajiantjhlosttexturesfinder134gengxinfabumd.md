@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maya 贴图重链插件 tjh-lost-textures-finder 1.3.4 更新发布"
+title: "Maya 贴图重链插件 tjhlosttexturesfinder 134 更新发布"
 date:   2024-01-31
 tags: [贴图,插件,Maya,tjh,lost]
 comments: true

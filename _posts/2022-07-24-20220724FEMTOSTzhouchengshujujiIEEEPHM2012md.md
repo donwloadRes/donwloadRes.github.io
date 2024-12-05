@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FEMTO-ST轴承数据集（IEEE PHM 2012）"
+title: "FEMTOST轴承数据集IEEE PHM 2012"
 date:   2024-02-24
 tags: [数据,轴承,FEMTO,ST,IEEE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "笔记本EC源代码（ITE厂家提供的demo版）"
+title: "笔记本EC源代码ITE厂家提供的demo版"
 date:   2021-10-11
 tags: [源代码,EC,笔记本,demo,ITE]
 comments: true

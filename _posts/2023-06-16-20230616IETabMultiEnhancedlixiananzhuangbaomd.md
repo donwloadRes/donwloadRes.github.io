@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IE Tab Multi (Enhanced) 离线安装包"
+title: "IE Tab Multi Enhanced 离线安装包"
 date:   2024-10-31
 tags: [IE,Chrome,浏览器,离线,扩展]
 comments: true

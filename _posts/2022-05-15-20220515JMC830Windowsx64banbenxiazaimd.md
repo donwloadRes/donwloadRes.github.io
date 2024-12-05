@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMC 8.3.0 Windows x64 版本下载"
+title: "JMC 830 Windows x64 版本下载"
 date:   2022-12-18
 tags: [x64,8.3,JMC,Windows,jmc]
 comments: true

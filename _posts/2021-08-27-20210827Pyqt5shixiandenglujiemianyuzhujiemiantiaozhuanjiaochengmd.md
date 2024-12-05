@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Pyqt5】实现登录界面与主界面跳转教程"
+title: "Pyqt5实现登录界面与主界面跳转教程"
 date:   2021-05-13
 tags: [界面,登录,跳转,Pyqt5,UI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt6 跨平台开发（机翻）资源下载"
+title: "C Qt6 跨平台开发机翻资源下载"
 date:   2021-03-18
 tags: [Qt6,跨平台,C++,机翻,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的安全帽检测系统（YOLOv5清新界面版，Python代码）"
+title: "基于深度学习的安全帽检测系统YOLOv5清新界面版Python代码"
 date:   2022-05-16
 tags: [安全帽,检测,训练,视频,Python]
 comments: true

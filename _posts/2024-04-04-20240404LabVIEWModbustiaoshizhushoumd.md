@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW-Modbus-调试助手"
+title: "LabVIEWModbus调试助手"
 date:   2022-10-30
 tags: [Modbus,LabVIEW,调试,通讯,助手]
 comments: true

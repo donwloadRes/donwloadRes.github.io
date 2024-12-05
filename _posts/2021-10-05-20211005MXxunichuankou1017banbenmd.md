@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MX虚拟串口 1.0.1.7 版本"
+title: "MX虚拟串口 1017 版本"
 date:   2024-02-17
 tags: [串口,虚拟,MX,---,1.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F1的自动追光云台（代码开源）"
+title: "基于STM32F1的自动追光云台代码开源"
 date:   2023-01-21
 tags: [舵机,云台,光敏,PWM,追光]
 comments: true

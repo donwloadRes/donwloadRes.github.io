@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gdal 3.8.zip 资源文件下载"
+title: "Gdal 38zip 资源文件下载"
 date:   2023-03-28
 tags: [Gdal,3.8,文件,zip,下载]
 comments: true

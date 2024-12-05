@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Keil编译错误：代码大小超出限制"
+title: "解决Keil编译错误代码大小超出限制"
 date:   2020-01-27
 tags: [Keil,代码,编译,错误,文件]
 comments: true

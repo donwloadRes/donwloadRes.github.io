@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 2.0电机库 中文说明文档"
+title: "STM32 20电机库 中文说明文档"
 date:   2021-10-28
 tags: [文档,STM32,2.0,电机,同步电机]
 comments: true

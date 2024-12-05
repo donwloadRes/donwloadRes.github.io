@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Assist X 安装、使用与快捷键指南"
+title: "Visual Assist X 安装使用与快捷键指南"
 date:   2023-12-14
 tags: [Visual,Assist,快捷键,安装,代码]
 comments: true

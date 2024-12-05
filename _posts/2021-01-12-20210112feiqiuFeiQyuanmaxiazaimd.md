@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞秋(FeiQ)源码下载"
+title: "飞秋FeiQ源码下载"
 date:   2020-09-03
 tags: [飞秋,FeiQ,飞鸽传书,局域网,源码]
 comments: true

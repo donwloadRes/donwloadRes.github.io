@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python123.io平台题解资源库"
+title: "Python123io平台题解资源库"
 date:   2022-09-23
 tags: [io,Python,解答,学习,平台]
 comments: true

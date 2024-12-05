@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2008 R2 64位企业版集成USB 3.0镜像ISO"
+title: "Windows Server 2008 R2 64位企业版集成USB 30镜像ISO"
 date:   2022-12-07
 tags: [USB,3.0,ISO,2008,64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mir2源码完整版(服务端+客户端)"
+title: "Mir2源码完整版服务端客户端"
 date:   2024-03-04
 tags: [源码,Mir2,客户端,服务端,完整版]
 comments: true

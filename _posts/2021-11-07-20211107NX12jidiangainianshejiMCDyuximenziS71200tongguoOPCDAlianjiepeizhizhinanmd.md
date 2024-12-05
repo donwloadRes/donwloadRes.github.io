@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NX12机电概念设计MCD与西门子S7-1200通过OPC DA连接配置指南"
+title: "NX12机电概念设计MCD与西门子S71200通过OPC DA连接配置指南"
 date:   2024-11-22
 tags: [MCD,NX,PLC,S7,1200]
 comments: true

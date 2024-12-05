@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATGM336H-5N 原理图下载"
+title: "ATGM336H5N 原理图下载"
 date:   2024-07-20
 tags: [原理图,ATGM336H,5N,模块,ZIP]
 comments: true

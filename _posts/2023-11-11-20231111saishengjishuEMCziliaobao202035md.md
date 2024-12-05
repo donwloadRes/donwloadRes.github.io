@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛盛技术EMC资料包 (2020.3.5)"
+title: "赛盛技术EMC资料包 202035"
 date:   2022-07-21
 tags: [EMC,资料,赛盛,2020.3,进阶]
 comments: true

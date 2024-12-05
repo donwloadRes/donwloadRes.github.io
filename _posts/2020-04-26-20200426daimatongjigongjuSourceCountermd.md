@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码统计工具 - SourceCounter"
+title: "代码统计工具  SourceCounter"
 date:   2021-03-17
 tags: [统计,代码,SourceCounter,源码,解压]
 comments: true

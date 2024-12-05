@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Shader - 实现类似镜面反射与水面扰动效果"
+title: "Unity Shader  实现类似镜面反射与水面扰动效果"
 date:   2021-01-19
 tags: [Shader,镜面反射,Unity,效果,水面]
 comments: true

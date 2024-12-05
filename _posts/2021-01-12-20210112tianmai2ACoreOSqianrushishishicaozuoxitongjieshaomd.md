@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天脉2(ACoreOS)嵌入式实时操作系统介绍"
+title: "天脉2ACoreOS嵌入式实时操作系统介绍"
 date:   2022-10-13
 tags: [ACoreOS,嵌入式,实时操作系统,天脉,操作系统]
 comments: true

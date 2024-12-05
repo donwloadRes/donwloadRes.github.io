@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab修改字体方法，解决中文乱码问题"
+title: "Matlab修改字体方法解决中文乱码问题"
 date:   2024-10-26
 tags: [字体,Matlab,乱码,安装,中文]
 comments: true

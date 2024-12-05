@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 安装详细图文教程"
+title: "Ubuntu 2004 安装详细图文教程"
 date:   2023-01-12
 tags: [Ubuntu,教程,安装,20.04,图文]
 comments: true

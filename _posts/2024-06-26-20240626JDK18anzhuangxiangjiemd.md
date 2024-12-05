@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 安装详解"
+title: "JDK 18 安装详解"
 date:   2020-03-20
 tags: [安装,JDK,1.8,Java,路径]
 comments: true

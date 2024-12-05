@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb 后台管理系统 - 管理员管理"
+title: "Javaweb 后台管理系统  管理员管理"
 date:   2024-10-05
 tags: [Javaweb,管理系统,后台,管理员,学习者]
 comments: true

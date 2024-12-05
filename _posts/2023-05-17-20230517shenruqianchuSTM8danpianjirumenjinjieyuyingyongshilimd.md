@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出STM8单片机入门、进阶与应用实例"
+title: "深入浅出STM8单片机入门进阶与应用实例"
 date:   2021-04-04
 tags: [STM8,单片机,进阶,入门,实例]
 comments: true

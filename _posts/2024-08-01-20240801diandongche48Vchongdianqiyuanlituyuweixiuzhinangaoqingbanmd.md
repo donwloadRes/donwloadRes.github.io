@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动车48V充电器原理图与维修指南（高清版）"
+title: "电动车48V充电器原理图与维修指南高清版"
 date:   2021-08-26
 tags: [维修,原理图,充电器,48V,电动车]
 comments: true

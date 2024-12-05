@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "启用LPD打印共享服务，解决局域网共享打印机报错709、11B等问题"
+title: "启用LPD打印共享服务解决局域网共享打印机报错70911B等问题"
 date:   2023-12-18
 tags: [共享,LPD,报错,打印机,局域网]
 comments: true

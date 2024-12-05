@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEVExpress中文帮助文档.CHM版"
+title: "DEVExpress中文帮助文档CHM版"
 date:   2021-08-26
 tags: [文档,控件,DEVExpress,开发者,CHM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere P2V操作文档 图文版（VMware vCenter Converter 6.0）"
+title: "VMware vSphere P2V操作文档 图文版VMware vCenter Converter 60"
 date:   2022-05-14
 tags: [迁移,VMware,虚拟机,vSphere,Converter]
 comments: true

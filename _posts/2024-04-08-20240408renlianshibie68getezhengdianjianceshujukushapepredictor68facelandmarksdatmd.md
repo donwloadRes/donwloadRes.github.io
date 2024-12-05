@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸识别68个特征点检测数据库shape_predictor_68_face_landmarks.dat"
+title: "人脸识别68个特征点检测数据库shapepredictor68facelandmarksdat"
 date:   2021-03-03
 tags: [shape,68,cv2,face,predictor]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RobotStudio 6.08 + ABB机器人全套资料"
+title: "RobotStudio 608  ABB机器人全套资料"
 date:   2020-12-08
 tags: [RobotStudio,BB机,器人,6.08,软件]
 comments: true

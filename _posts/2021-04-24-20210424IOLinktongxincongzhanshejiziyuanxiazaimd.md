@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IO-Link通信从站设计资源下载"
+title: "IOLink通信从站设计资源下载"
 date:   2024-03-19
 tags: [IO,Link,通信,从机,设计方案]
 comments: true

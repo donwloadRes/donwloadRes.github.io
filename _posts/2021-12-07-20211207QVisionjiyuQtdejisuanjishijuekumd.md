@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QVision-基于Qt的计算机视觉库"
+title: "QVision基于Qt的计算机视觉库"
 date:   2022-06-23
 tags: [QVision,视觉,计算机,应用程序,QT]
 comments: true

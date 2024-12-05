@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32从入门到精通-经典电子书"
+title: "STM32从入门到精通经典电子书"
 date:   2021-09-15
 tags: [STM32,学习,电子书,入门,精通]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab 绘图超级经典.pdf"
+title: "Matlab 绘图超级经典pdf"
 date:   2020-05-30
 tags: [绘图,Matlab,图形,图表,函数]
 comments: true

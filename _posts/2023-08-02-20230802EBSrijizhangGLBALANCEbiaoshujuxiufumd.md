@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EBS 日记账GL-BALANCE表数据修复"
+title: "EBS 日记账GLBALANCE表数据修复"
 date:   2023-03-09
 tags: [GL,BALANCE,修复,EBS,数据]
 comments: true

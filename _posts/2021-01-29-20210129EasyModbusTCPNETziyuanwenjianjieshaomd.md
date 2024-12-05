@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyModbusTCP.NET 资源文件介绍"
+title: "EasyModbusTCPNET 资源文件介绍"
 date:   2023-12-31
 tags: [NET,Modbus,PLC,EasyModbusTCP,该库]
 comments: true

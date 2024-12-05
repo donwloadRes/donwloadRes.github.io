@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零起步，全程指导：ChatGPT全方位实战手册"
+title: "从零起步全程指导ChatGPT全方位实战手册"
 date:   2023-01-24
 tags: [ChatGPT,教程,AI,NLP,手把手]
 comments: true

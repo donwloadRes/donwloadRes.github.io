@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小甲鱼Python小游戏“飞机大战”源码素材"
+title: "小甲鱼Python小游戏飞机大战源码素材"
 date:   2022-04-16
 tags: [Python,源码,游戏,素材,安装包]
 comments: true

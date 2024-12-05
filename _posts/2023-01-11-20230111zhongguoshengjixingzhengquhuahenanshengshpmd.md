@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国省级行政区划-河南省shp"
+title: "中国省级行政区划河南省shp"
 date:   2020-01-12
 tags: [GIS,shp,数据,Shapefile,河南省]
 comments: true

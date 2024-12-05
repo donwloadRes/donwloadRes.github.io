@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机端H5裁剪头像Base64上传 - Cropper.js"
+title: "手机端H5裁剪头像Base64上传  Cropperjs"
 date:   2023-02-04
 tags: [上传,裁剪,H5,Base64,Cropper]
 comments: true

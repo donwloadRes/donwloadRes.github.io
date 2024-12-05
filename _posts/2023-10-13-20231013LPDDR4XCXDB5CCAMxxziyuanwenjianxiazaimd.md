@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR4X_CXDB5CCAM-xx 资源文件下载"
+title: "LPDDR4XCXDB5CCAMxx 资源文件下载"
 date:   2024-02-21
 tags: [LPDDR4X,文件,CXDB5CCAM,xx,下载]
 comments: true

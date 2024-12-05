@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL图书管理系统资源下载"
+title: "JavaMySQL图书管理系统资源下载"
 date:   2020-12-11
 tags: [数据库,MySQL,导入,Java,管理系统]
 comments: true

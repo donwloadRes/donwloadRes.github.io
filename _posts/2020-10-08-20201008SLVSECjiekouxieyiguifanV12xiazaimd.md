@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLVS-EC 接口协议规范 V1.2 下载"
+title: "SLVSEC 接口协议规范 V12 下载"
 date:   2021-11-04
 tags: [SLVS,EC,接口协议,数据传输,接口]
 comments: true

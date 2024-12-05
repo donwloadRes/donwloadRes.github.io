@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 最小化安装指南"
+title: "CentOS 76 最小化安装指南"
 date:   2021-02-11
 tags: [安装,CentOS,最小化,虚拟机,7.6]
 comments: true

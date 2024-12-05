@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO-Fastest嵌入式部署开发环境配置流程1"
+title: "YOLOFastest嵌入式部署开发环境配置流程1"
 date:   2020-12-29
 tags: [YOLO,Fastest,配置,嵌入式,文件]
 comments: true

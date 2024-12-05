@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DoDAF 2.0 标准文档下载"
+title: "DoDAF 20 标准文档下载"
 date:   2020-03-29
 tags: [2.0,DoDAF,文档,下载,架构]
 comments: true

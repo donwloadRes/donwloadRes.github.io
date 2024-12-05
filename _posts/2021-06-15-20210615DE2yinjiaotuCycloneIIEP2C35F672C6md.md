@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DE2引脚图 - Cyclone II EP2C35F672C6"
+title: "DE2引脚图  Cyclone II EP2C35F672C6"
 date:   2023-01-31
 tags: [引脚,DE2,硬件,文件,Cyclone]
 comments: true

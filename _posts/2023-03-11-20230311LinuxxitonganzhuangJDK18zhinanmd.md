@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统安装JDK 1.8指南"
+title: "Linux系统安装JDK 18指南"
 date:   2024-05-27
 tags: [JDK,Linux,1.8,安装包,解压]
 comments: true

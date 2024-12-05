@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用栈求解n皇后问题（C语言实现）"
+title: "用栈求解n皇后问题C语言实现"
 date:   2023-09-18
 tags: [皇后,C语言,queens,用栈,棋盘]
 comments: true

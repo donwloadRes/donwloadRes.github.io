@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战：决策树与数据集"
+title: "机器学习实战决策树与数据集"
 date:   2024-03-09
 tags: [决策树,算法,数据,Python,实战]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "和利时PLC编程软件AutoThink V3.1.7B2 下载仓库"
+title: "和利时PLC编程软件AutoThink V317B2 下载仓库"
 date:   2024-09-19
 tags: [AutoThink,7B2,V3.1,利时,PLC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ swap函数介绍及使用指南"
+title: "C swap函数介绍及使用指南"
 date:   2022-10-23
 tags: [swap,示例,函数,代码,C++]
 comments: true

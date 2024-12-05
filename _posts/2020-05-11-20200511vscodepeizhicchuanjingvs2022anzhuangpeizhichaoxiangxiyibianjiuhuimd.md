@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vscode配置c-c++环境-vs2022安装配置（超详细，一遍就会）"
+title: "vscode配置cc环境vs2022安装配置超详细一遍就会"
 date:   2023-11-12
 tags: [VSCode,C++,安装,配置,调试]
 comments: true

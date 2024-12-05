@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RoseMirrorHA7.0安装文档"
+title: "RoseMirrorHA70安装文档"
 date:   2024-06-26
 tags: [文档,安装,RoseMirrorHA7.0,步骤,技术支持]
 comments: true

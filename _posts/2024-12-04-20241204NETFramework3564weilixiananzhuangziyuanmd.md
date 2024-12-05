@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 64位离线安装资源"
+title: "NET Framework 35 64位离线安装资源"
 date:   2024-05-26
 tags: [安装,NET,3.5,Framework,离线]
 comments: true

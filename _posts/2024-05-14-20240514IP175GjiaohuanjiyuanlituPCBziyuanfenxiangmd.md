@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IP175G交换机原理图+PCB资源分享"
+title: "IP175G交换机原理图PCB资源分享"
 date:   2022-02-16
 tags: [IP175G,原理图,PCB,交换机,芯片]
 comments: true

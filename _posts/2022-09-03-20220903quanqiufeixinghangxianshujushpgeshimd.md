@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球飞行航线数据（shp格式）"
+title: "全球飞行航线数据shp格式"
 date:   2020-04-11
 tags: [shp,GIS,航线,飞行,数据]
 comments: true

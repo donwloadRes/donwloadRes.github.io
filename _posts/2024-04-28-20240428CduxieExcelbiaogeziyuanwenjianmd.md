@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++读写Excel表格资源文件"
+title: "C读写Excel表格资源文件"
 date:   2024-10-11
 tags: [Excel,表格,C++,文件,写入]
 comments: true

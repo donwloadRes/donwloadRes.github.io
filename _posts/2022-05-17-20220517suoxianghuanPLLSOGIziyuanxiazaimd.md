@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锁相环PLL（SOGI）资源下载"
+title: "锁相环PLLSOGI资源下载"
 date:   2023-02-27
 tags: [锁相环,SOGI,PLL,文件,pdf]
 comments: true

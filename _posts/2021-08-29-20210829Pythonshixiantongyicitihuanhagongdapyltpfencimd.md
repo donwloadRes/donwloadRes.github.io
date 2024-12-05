@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现同义词替换（哈工大pyltp分词）"
+title: "Python实现同义词替换哈工大pyltp分词"
 date:   2020-07-01
 tags: [path,self,synonyms,file,分词]
 comments: true

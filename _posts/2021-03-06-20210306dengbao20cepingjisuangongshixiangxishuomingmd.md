@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等保2.0测评计算公式详细说明"
+title: "等保20测评计算公式详细说明"
 date:   2021-11-22
 tags: [计算公式,2.0,测评,详细,文件]
 comments: true

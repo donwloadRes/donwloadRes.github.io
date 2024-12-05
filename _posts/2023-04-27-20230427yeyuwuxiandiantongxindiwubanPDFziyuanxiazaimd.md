@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "业余无线电通信（第五版）PDF资源下载"
+title: "业余无线电通信第五版PDF资源下载"
 date:   2023-09-05
 tags: [业余,无线电通信,无线电,第五版,PDF]
 comments: true

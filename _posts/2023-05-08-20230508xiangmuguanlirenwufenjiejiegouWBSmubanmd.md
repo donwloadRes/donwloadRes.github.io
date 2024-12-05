@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目管理-任务分解结构(WBS)模板"
+title: "项目管理任务分解结构WBS模板"
 date:   2020-07-14
 tags: [模板,任务,项目,分解,项目管理]
 comments: true

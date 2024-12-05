@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ARM的Linux+Xenomai实时系统搭建及igh主站配置"
+title: "基于ARM的LinuxXenomai实时系统搭建及igh主站配置"
 date:   2024-08-14
 tags: [主站,实时,igh,Xenomai,搭建]
 comments: true

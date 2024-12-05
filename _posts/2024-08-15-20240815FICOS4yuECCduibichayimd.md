@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FICO-S4与ECC对比差异"
+title: "FICOS4与ECC对比差异"
 date:   2023-11-01
 tags: [4HANA,ECC,FICO,SAP,S4]
 comments: true

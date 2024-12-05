@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21天学通C++第8版：高清完整带书签PDF + 源代码"
+title: "21天学通C第8版高清完整带书签PDF  源代码"
 date:   2021-03-09
 tags: [C++,源代码,PDF,书签,编程]
 comments: true

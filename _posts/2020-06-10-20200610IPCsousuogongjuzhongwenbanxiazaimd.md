@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC搜索工具（中文版）下载"
+title: "IPC搜索工具中文版下载"
 date:   2020-02-07
 tags: [IPC,B1122.2,3.2,L02,中文版]
 comments: true

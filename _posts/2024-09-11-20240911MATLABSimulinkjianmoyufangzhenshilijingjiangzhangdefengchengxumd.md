@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-Simulink建模与仿真实例精讲 - 张德丰（程序）"
+title: "MATLABSimulink建模与仿真实例精讲  张德丰程序"
 date:   2023-08-02
 tags: [仿真,Simulink,MATLAB,建模,文件]
 comments: true

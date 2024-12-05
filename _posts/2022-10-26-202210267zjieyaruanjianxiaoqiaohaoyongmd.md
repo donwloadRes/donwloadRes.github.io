@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7z解压软件（小巧好用）"
+title: "7z解压软件小巧好用"
 date:   2024-07-01
 tags: [解压,7z,软件,小巧,高效]
 comments: true

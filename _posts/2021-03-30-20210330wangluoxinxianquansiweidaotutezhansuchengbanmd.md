@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络信息安全思维导图(特战速成版)"
+title: "网络信息安全思维导图特战速成版"
 date:   2023-03-27
 tags: [信息安全,导图,特战,网络,思维]
 comments: true

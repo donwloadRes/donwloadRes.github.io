@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最完整的Scrum敏捷软件开发过程.ppt"
+title: "最完整的Scrum敏捷软件开发过程ppt"
 date:   2023-09-06
 tags: [Scrum,敏捷,软件开发,团队,ppt]
 comments: true

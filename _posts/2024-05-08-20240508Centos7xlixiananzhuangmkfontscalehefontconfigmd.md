@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7.x离线安装mkfontscale和fontconfig"
+title: "Centos7x离线安装mkfontscale和fontconfig"
 date:   2021-06-06
 tags: [安装,mkfontscale,fontconfig,Centos7,离线]
 comments: true

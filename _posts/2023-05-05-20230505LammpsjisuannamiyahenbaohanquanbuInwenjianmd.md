@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lammps计算纳米压痕—包含全部In文件"
+title: "Lammps计算纳米压痕包含全部In文件"
 date:   2021-03-14
 tags: [压痕,纳米,模拟,文件,LAMMPS]
 comments: true

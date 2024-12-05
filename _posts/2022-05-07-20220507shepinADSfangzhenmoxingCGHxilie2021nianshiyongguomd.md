@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "射频ADS仿真模型（CGH系列，2021年使用过）"
+title: "射频ADS仿真模型CGH系列2021年使用过"
 date:   2023-10-07
 tags: [ADS,仿真,模型,射频,2021]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA高速串行收发器_GTP_GTX 资源下载"
+title: "FPGA高速串行收发器GTPGTX 资源下载"
 date:   2024-05-04
 tags: [串行,收发器,GTP,GTX,FPGA]
 comments: true

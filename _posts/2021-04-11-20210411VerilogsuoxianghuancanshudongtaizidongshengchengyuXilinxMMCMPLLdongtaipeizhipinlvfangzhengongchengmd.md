@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog 锁相环参数动态自动生成与Xilinx MMCM-PLL动态配置频率仿真工程"
+title: "Verilog 锁相环参数动态自动生成与Xilinx MMCMPLL动态配置频率仿真工程"
 date:   2021-10-08
 tags: [PLL,仿真,Verilog,频率,VIVADO]
 comments: true

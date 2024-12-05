@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# + AnyCAD 实现三维模型展示"
+title: "C  AnyCAD 实现三维模型展示"
 date:   2021-05-11
 tags: [AnyCAD,模型,三维,C#,加载]
 comments: true

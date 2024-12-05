@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS版图优化方法：使用EM-Cosimulation进行OPTIM的ADS工程"
+title: "ADS版图优化方法使用EMCosimulation进行OPTIM的ADS工程"
 date:   2022-02-25
 tags: [ADS,EM,Cosimulation,工程,版图]
 comments: true

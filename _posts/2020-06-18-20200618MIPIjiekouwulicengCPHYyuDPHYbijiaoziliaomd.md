@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI接口物理层C-PHY与D-PHY比较资料"
+title: "MIPI接口物理层CPHY与DPHY比较资料"
 date:   2022-05-26
 tags: [PHY,MIPI,物理层,资料,接口技术]
 comments: true

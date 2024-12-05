@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麦子学院-嵌入式视频（全）资源下载"
+title: "麦子学院嵌入式视频全资源下载"
 date:   2024-05-28
 tags: [视频,嵌入式,下载,视频文件,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用ARIMA模型预测股票价格：实战案例分析"
+title: "使用ARIMA模型预测股票价格实战案例分析"
 date:   2023-02-02
 tags: [模型,ARIMA,预测,股票价格,股票市场]
 comments: true

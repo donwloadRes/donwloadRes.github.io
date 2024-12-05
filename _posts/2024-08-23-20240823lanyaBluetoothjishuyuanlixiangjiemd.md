@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙（Bluetooth）技术原理详解"
+title: "蓝牙Bluetooth技术原理详解"
 date:   2022-09-09
 tags: [蓝牙,技术,设备,通信,原理]
 comments: true

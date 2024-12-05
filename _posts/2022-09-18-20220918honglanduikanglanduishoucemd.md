@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红蓝对抗——蓝队手册"
+title: "红蓝对抗蓝队手册"
 date:   2024-09-23
 tags: [蓝队,红蓝,对抗,手册,本手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "姿态传感器SC7A20代码与应用说明 (GD32F303平台)"
+title: "姿态传感器SC7A20代码与应用说明 GD32F303平台"
 date:   2021-01-19
 tags: [代码,GD32F303,姿态,SC7A20,传感器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NUC8 i5beh 黑苹果 macOS Monterey 12.3.1 安装教程"
+title: "NUC8 i5beh 黑苹果 macOS Monterey 1231 安装教程"
 date:   2024-01-14
 tags: [macOS,安装,教程,NUC8,i5beh]
 comments: true

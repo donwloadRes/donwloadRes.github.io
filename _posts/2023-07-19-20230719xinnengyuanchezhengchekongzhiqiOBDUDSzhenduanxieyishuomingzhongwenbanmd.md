@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新能源车整车控制器OBD+UDS诊断协议说明中文版"
+title: "新能源车整车控制器OBDUDS诊断协议说明中文版"
 date:   2024-05-16
 tags: [控制器,诊断,协议,整车,新能源]
 comments: true

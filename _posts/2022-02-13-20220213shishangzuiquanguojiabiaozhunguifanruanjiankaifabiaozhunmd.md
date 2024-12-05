@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最全国家标准规范——软件开发标准"
+title: "史上最全国家标准规范软件开发标准"
 date:   2022-04-07
 tags: [doc,--,规范,编写,说明书]
 comments: true

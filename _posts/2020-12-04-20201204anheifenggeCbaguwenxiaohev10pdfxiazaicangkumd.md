@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "暗黑风格-C++八股文-小贺-v1.0.pdf 下载仓库"
+title: "暗黑风格C八股文小贺v10pdf 下载仓库"
 date:   2024-11-04
 tags: [C++,暗黑,v1.0,小贺,八股文]
 comments: true

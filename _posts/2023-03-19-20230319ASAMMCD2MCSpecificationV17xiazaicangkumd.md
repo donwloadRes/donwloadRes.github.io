@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASAM MCD-2 MC Specification V1.7 下载仓库"
+title: "ASAM MCD2 MC Specification V17 下载仓库"
 date:   2023-11-29
 tags: [文档,标定,ASAM,MCD,MC]
 comments: true

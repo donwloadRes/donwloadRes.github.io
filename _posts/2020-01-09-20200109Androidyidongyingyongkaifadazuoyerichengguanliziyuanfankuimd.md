@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Android移动应用开发大作业——日程管理+资源反馈"
+title: "Android移动应用开发大作业日程管理资源反馈
+date   20220924
+tags 反馈日程Android应用开发者
+comments true
+author admin
+
+
+layout post
+title Android移动应用开发大作业日程管理资源反馈"
 date:   2022-09-24
 tags: [反馈,日程,Android,应用,开发者]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Android移动应用开发大作业——日程管理+资源反馈"
+title: "Android移动应用开发大作业日程管理资源反馈
+date   20220924
+tags 反馈日程Android应用开发者
+comments true
+author admin
+
+
+layout post
+title Android移动应用开发大作业日程管理资源反馈"
 date:   2021-10-27
 tags: [反馈,日程,应用,Android,开发者]
 comments: true

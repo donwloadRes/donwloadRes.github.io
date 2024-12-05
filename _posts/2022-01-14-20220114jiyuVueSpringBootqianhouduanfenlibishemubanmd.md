@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vue+SpringBoot前后端分离毕设模板"
+title: "基于VueSpringBoot前后端分离毕设模板"
 date:   2021-12-05
 tags: [模板,文档,导出,前端,Vue]
 comments: true

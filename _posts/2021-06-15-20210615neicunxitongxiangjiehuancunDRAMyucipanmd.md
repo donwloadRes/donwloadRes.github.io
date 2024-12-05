@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "内存系统详解：缓存、DRAM 与磁盘"
+title: "内存系统详解缓存DRAM 与磁盘"
 date:   2024-02-16
 tags: [DRAM,内存,缓存,磁盘,系统]
 comments: true

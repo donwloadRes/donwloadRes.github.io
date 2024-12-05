@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VLC播放器(Winform) 直接调用Vlc库文件"
+title: "VLC播放器Winform 直接调用Vlc库文件"
 date:   2020-01-19
 tags: [Vlc,文件,示例,播放,VLC]
 comments: true

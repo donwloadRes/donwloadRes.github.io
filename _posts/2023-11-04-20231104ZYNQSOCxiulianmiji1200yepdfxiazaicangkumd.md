@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ SOC修炼秘籍1200页.pdf 下载仓库"
+title: "ZYNQ SOC修炼秘籍1200页pdf 下载仓库"
 date:   2024-03-23
 tags: [ZYNQ,SOC,1200,秘籍,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++遗传算法解决柔性作业车间调度问题"
+title: "C遗传算法解决柔性作业车间调度问题"
 date:   2022-09-24
 tags: [遗传算法,柔性,调度,C++,车间]
 comments: true

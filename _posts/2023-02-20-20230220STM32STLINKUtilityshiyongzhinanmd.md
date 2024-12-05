@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ST-LINK Utility 使用指南"
+title: "STM32 STLINK Utility 使用指南"
 date:   2024-09-19
 tags: [STM32,ST,HEX,点击,LINK]
 comments: true

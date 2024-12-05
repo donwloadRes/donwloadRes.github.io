@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XCP协议ASAM版V1.1全资源下载"
+title: "XCP协议ASAM版V11全资源下载"
 date:   2023-05-25
 tags: [Part,XCP,ASAM,传输层,规范]
 comments: true

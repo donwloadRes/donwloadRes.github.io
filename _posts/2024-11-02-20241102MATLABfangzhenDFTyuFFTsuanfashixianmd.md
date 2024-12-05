@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真：DFT与FFT算法实现"
+title: "MATLAB仿真DFT与FFT算法实现"
 date:   2021-07-10
 tags: [MATLAB,DFT,FFT,算法,傅里叶]
 comments: true

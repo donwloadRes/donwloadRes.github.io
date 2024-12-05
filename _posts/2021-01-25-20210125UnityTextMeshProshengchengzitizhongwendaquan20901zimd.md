@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity TextMeshPro生成字体，中文大全20901字"
+title: "Unity TextMeshPro生成字体中文大全20901字"
 date:   2020-03-24
 tags: [字体,生成,分辨率,Unity,中文字体]
 comments: true

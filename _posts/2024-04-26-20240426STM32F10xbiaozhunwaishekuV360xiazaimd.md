@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F10x标准外设库V3.6.0下载"
+title: "STM32F10x标准外设库V360下载"
 date:   2024-01-05
 tags: [下载,外设,文件,STM32F10x,V3.6]
 comments: true

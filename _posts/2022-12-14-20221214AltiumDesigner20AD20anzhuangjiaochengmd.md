@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 20 (AD20) 安装教程"
+title: "Altium Designer 20 AD20 安装教程"
 date:   2024-02-13
 tags: [教程,安装,AD20,软件,步骤]
 comments: true

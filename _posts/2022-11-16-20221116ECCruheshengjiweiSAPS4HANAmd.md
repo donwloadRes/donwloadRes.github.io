@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECC如何升级为 SAP S4 HANA？"
+title: "ECC如何升级为 SAP S4 HANA"
 date:   2022-12-17
 tags: [SAP,ECC,4HANA,升级,迁移]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轩禹CTF_RSA工具3.6.1.zip 介绍"
+title: "轩禹CTFRSA工具361zip 介绍"
 date:   2021-03-14
 tags: [CTF,RSA,工具,工具集,轩禹]
 comments: true

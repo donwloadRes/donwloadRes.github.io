@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏盒子专用EMUELEC各种版本自选、联邦游电局（S905L3A镜像包）"
+title: "游戏盒子专用EMUELEC各种版本自选联邦游电局S905L3A镜像包"
 date:   2023-07-03
 tags: [EMUELEC,S905L3A,版本,镜像,盒子]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代信号谱分析（Stoica）资源下载"
+title: "现代信号谱分析Stoica资源下载"
 date:   2022-05-03
 tags: [谱分析,英文原版,Stoica,信号,下载]
 comments: true

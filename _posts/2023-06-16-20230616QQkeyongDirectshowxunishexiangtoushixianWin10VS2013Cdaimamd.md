@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QQ可用Directshow虚拟摄像头实现（Win10+VS2013, C++代码）"
+title: "QQ可用Directshow虚拟摄像头实现Win10VS2013 C代码"
 date:   2023-08-29
 tags: [QQ,摄像头,自定义,虚拟,视频]
 comments: true

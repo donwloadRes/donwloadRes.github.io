@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity面试题30题含答案——C#基础"
+title: "Unity面试题30题含答案C基础"
 date:   2022-03-20
 tags: [Unity,题目,面试,30,C#]
 comments: true

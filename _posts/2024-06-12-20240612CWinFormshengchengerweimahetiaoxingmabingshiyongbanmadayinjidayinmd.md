@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 生成二维码和条形码并使用斑马打印机打印"
+title: "C WinForm 生成二维码和条形码并使用斑马打印机打印"
 date:   2022-08-22
 tags: [打印机,条形码,ZPL,二维码,斑马]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SunloginClient 11.0.1.44968 下载仓库"
+title: "SunloginClient 110144968 下载仓库"
 date:   2020-02-25
 tags: [SunloginClient,1.44968,11.0,amd64,deb]
 comments: true

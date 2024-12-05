@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework资源卸载工具 - 彻底解决安装问题"
+title: "NET Framework资源卸载工具  彻底解决安装问题"
 date:   2023-03-28
 tags: [NET,Framework,卸载,安装,工具]
 comments: true

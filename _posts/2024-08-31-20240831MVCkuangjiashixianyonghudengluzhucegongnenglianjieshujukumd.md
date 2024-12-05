@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MVC框架实现用户登录注册功能（连接数据库）"
+title: "MVC框架实现用户登录注册功能连接数据库"
 date:   2022-12-15
 tags: [登录,用户,数据库,MVC,页面]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANOe系列讲解 - DBC-CDD文件指南"
+title: "CANOe系列讲解  DBCCDD文件指南"
 date:   2022-06-29
 tags: [CANOe,DBC,CDD,文件,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从网络抓包中提取RTP包，RTP解包为HEVC-H265裸流"
+title: "从网络抓包中提取RTP包RTP解包为HEVCH265裸流"
 date:   2022-12-19
 tags: [RTP,HEVC,裸流,提取,解码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mycat 1.6.7.3 版本下载仓库"
+title: "Mycat 1673 版本下载仓库"
 date:   2020-02-26
 tags: [Mycat,7.3,1.6,版本,下载]
 comments: true

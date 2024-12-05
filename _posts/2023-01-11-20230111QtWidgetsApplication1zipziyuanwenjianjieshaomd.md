@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtWidgetsApplication1.zip 资源文件介绍"
+title: "QtWidgetsApplication1zip 资源文件介绍"
 date:   2024-08-13
 tags: [自定义,Qt,QListWidget,文件,示例]
 comments: true

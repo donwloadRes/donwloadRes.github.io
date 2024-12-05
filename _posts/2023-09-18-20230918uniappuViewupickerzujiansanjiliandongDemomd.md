@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp uView u-picker组件三级联动Demo"
+title: "uniapp uView upicker组件三级联动Demo"
 date:   2024-11-13
 tags: [uView,Demo,uniapp,picker,联动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电表376.1协议Java版"
+title: "电力电表3761协议Java版"
 date:   2021-09-18
 tags: [376.1,Java,电表,协议,电力]
 comments: true

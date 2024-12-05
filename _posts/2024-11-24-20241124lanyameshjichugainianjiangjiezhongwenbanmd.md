@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙mesh基础概念讲解（中文版）"
+title: "蓝牙mesh基础概念讲解中文版"
 date:   2020-02-27
 tags: [mesh,蓝牙,网络,节点,概念]
 comments: true

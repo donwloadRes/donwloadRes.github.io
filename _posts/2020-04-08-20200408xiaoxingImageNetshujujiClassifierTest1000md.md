@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小型ImageNet数据集：ClassifierTest1000"
+title: "小型ImageNet数据集ClassifierTest1000"
 date:   2021-12-25
 tags: [图像,ImageNet,数据,读取,1000]
 comments: true

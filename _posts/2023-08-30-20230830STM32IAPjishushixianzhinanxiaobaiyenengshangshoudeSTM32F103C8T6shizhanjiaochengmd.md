@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32 IAP技术实现指南】—— 小白也能上手的STM32F103C8T6实战教程"
+title: "STM32 IAP技术实现指南 小白也能上手的STM32F103C8T6实战教程"
 date:   2023-08-08
 tags: [IAP,STM32,STM32F103C8T6,APP,Bootloader]
 comments: true

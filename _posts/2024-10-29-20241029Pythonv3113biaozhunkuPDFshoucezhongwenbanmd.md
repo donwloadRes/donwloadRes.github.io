@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python v3.11.3 标准库 PDF手册 中文版"
+title: "Python v3113 标准库 PDF手册 中文版"
 date:   2020-01-21
 tags: [Python,手册,v3.11,PDF,中文版]
 comments: true

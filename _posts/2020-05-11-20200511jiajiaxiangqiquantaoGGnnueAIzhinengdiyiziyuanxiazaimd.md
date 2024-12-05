@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "佳佳象棋全套（GGnnue）AI智能第一资源下载"
+title: "佳佳象棋全套GGnnueAI智能第一资源下载"
 date:   2021-06-18
 tags: [佳佳,象棋,全套,GGnnue,AI]
 comments: true

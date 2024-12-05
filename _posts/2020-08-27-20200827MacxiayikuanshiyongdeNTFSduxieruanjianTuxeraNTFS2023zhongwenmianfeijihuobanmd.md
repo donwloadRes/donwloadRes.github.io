@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac下一款实用的NTFS读写软件——Tuxera NTFS2023中文免费激活版"
+title: "Mac下一款实用的NTFS读写软件Tuxera NTFS2023中文免费激活版"
 date:   2023-01-26
 tags: [NTFS,Mac,软件,Tuxera,激活]
 comments: true

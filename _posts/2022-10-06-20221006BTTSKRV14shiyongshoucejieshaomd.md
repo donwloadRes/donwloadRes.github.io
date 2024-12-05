@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BTT SKR V1.4使用手册介绍"
+title: "BTT SKR V14使用手册介绍"
 date:   2021-02-09
 tags: [SKR,V1.4,打印,BTT,接口]
 comments: true

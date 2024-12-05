@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link v9.3 至 v9.5 固件升级及原理图资料"
+title: "JLink v93 至 v95 固件升级及原理图资料"
 date:   2023-01-07
 tags: [固件,原理图,操作步骤,Link,升级]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EA汉化包+注册码"
+title: "EA汉化包注册码"
 date:   2020-11-04
 tags: [EA,注册码,汉化包,Enterprise,Architect]
 comments: true

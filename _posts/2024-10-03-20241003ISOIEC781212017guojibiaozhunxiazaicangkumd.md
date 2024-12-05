@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 7812-1-2017 国际标准下载仓库"
+title: "ISOIEC 781212017 国际标准下载仓库"
 date:   2022-12-04
 tags: [ISO,2017,IEC,7812,下载]
 comments: true

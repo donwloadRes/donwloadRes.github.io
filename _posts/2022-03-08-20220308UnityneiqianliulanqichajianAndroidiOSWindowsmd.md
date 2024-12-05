@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity内嵌浏览器插件（Android、iOS、Windows）"
+title: "Unity内嵌浏览器插件AndroidiOSWindows"
 date:   2022-07-09
 tags: [Unity,插件,支持,自定义,JavaScript]
 comments: true

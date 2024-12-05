@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享68个Html相册模板，总有一款适合您"
+title: "分享68个Html相册模板总有一款适合您"
 date:   2023-02-10
 tags: [模板,Html,展示,相册,68]
 comments: true

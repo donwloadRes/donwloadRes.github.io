@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++Builder5 和 C++Builder6 编程实例精解资源下载"
+title: "CBuilder5 和 CBuilder6 编程实例精解资源下载"
 date:   2024-02-20
 tags: [C++,Builder6,精解,编程,实例]
 comments: true

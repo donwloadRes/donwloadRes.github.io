@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "freeSSHd.exe 下载"
+title: "freeSSHdexe 下载"
 date:   2024-05-14
 tags: [freeSSHd,exe,下载,SSH,服务器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 实现带指示灯的按钮 Button"
+title: "C Winform 实现带指示灯的按钮 Button"
 date:   2023-06-08
 tags: [指示灯,代码,按钮,Winform,示例]
 comments: true

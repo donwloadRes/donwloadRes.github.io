@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线模块-RTL8821CU规格书"
+title: "无线模块RTL8821CU规格书"
 date:   2020-06-08
 tags: [规格书,RTL8821CU,模块,无线,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP432P401R中文说明.pdf"
+title: "MSP432P401R中文说明pdf"
 date:   2022-12-23
 tags: [MSP432P401R,开发者,文档,手册,中文]
 comments: true

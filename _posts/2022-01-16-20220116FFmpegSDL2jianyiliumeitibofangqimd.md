@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg+SDL2 简易流媒体播放器"
+title: "FFmpegSDL2 简易流媒体播放器"
 date:   2023-03-18
 tags: [流媒体,媒体播放器,FFmpeg,SDL2,技术]
 comments: true

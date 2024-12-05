@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机射频WIFI-BT-GPS基本概念和测试指标"
+title: "手机射频WIFIBTGPS基本概念和测试指标"
 date:   2022-11-18
 tags: [GPS,WiFi,蓝牙,测试,基础知识]
 comments: true

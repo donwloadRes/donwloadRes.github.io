@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WampServer3.2.0 下载安装教程详解版"
+title: "WampServer320 下载安装教程详解版"
 date:   2023-06-20
 tags: [点击,安装,WampServer3.2,PHP,Next]
 comments: true

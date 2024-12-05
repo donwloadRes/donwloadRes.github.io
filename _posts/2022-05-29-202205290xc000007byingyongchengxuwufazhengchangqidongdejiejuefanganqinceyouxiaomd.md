@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0xc000007b：应用程序无法正常启动的解决方案（亲测有效）"
+title: "0xc000007b应用程序无法正常启动的解决方案亲测有效"
 date:   2021-12-29
 tags: [应用程序,修复,0xc000007b,运行,DLL]
 comments: true

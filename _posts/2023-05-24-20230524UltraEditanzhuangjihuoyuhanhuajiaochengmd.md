@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UltraEdit安装、激活与汉化教程"
+title: "UltraEdit安装激活与汉化教程"
 date:   2024-07-13
 tags: [UltraEdit,教程,激活,汉化,安装]
 comments: true

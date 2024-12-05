@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摄像头测试-图像与镜头质量测试规范"
+title: "摄像头测试图像与镜头质量测试规范"
 date:   2020-08-17
 tags: [摄像头,测试,规范,图像,镜头]
 comments: true

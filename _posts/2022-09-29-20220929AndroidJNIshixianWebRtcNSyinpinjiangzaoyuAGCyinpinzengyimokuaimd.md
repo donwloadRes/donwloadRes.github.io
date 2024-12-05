@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android JNI 实现 WebRtc-NS 音频降噪与 AGC 音频增益模块"
+title: "Android JNI 实现 WebRtcNS 音频降噪与 AGC 音频增益模块"
 date:   2020-09-22
 tags: [音频,Android,降噪,WebRtc,增益]
 comments: true

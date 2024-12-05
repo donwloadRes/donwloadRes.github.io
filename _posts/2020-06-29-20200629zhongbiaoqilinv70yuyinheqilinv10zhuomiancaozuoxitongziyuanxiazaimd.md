@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中标麒麟v7.0与银河麒麟v10桌面操作系统资源下载"
+title: "中标麒麟v70与银河麒麟v10桌面操作系统资源下载"
 date:   2021-08-08
 tags: [麒麟,v10,安装,v7.0,虚拟机]
 comments: true

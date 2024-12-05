@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity线框着色器 Wireframe Shader DirectX 11 1.0"
+title: "Unity线框着色器 Wireframe Shader DirectX 11 10"
 date:   2022-10-14
 tags: [着色器,线框,Unity,DirectX,11]
 comments: true

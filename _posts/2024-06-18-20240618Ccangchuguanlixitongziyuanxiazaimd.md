@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#仓储管理系统资源下载"
+title: "C仓储管理系统资源下载"
 date:   2020-06-18
 tags: [C#,数据库,管理系统,仓储,下载]
 comments: true

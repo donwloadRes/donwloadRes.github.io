@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vue项目中使用echarts和china.js实现中国地图"
+title: "vue项目中使用echarts和chinajs实现中国地图"
 date:   2022-06-08
 tags: [china,echarts,js,Vue,地图]
 comments: true

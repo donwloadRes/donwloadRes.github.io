@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "排针-排母封装（三维PCB封装库）AD用PCB封装库"
+title: "排针排母封装三维PCB封装库AD用PCB封装库"
 date:   2022-11-12
 tags: [封装,排针,排母,PCB,AD]
 comments: true

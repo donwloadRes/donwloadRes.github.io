@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品10：自定义界面大全"
+title: "QtC项目作品10自定义界面大全"
 date:   2022-05-22
 tags: [自定义,皮肤,项目,界面,Qt]
 comments: true

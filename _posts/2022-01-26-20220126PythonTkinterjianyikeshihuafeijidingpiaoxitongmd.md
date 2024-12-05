@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Tkinter简易可视化飞机订票系统"
+title: "PythonTkinter简易可视化飞机订票系统"
 date:   2024-10-21
 tags: [系统,航班信息,订票,用户,航班]
 comments: true

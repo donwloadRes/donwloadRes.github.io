@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "皮尔逊P-Ⅲ曲线应用软件"
+title: "皮尔逊P曲线应用软件"
 date:   2022-12-08
 tags: [曲线,软件,拟合,皮尔逊,应用软件]
 comments: true

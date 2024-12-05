@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "32位汇编语言程序设计（钱晓捷）资源"
+title: "32位汇编语言程序设计钱晓捷资源"
 date:   2024-10-23
 tags: [汇编语言,32,程序设计,资源,钱晓捷]
 comments: true

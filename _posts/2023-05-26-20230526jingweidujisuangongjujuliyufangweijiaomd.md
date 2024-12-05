@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经纬度计算工具：距离与方位角"
+title: "经纬度计算工具距离与方位角"
 date:   2024-08-18
 tags: [经纬度,文件,方位角,计算,测试]
 comments: true

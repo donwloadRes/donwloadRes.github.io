@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103串口IAP + Ymodem 升级"
+title: "STM32F103串口IAP  Ymodem 升级"
 date:   2024-06-02
 tags: [BootLoader,串口,固件,App,开发板]
 comments: true

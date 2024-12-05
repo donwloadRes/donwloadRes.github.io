@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2716: 最新SENT协议通信标准文档"
+title: "SAE J2716 最新SENT协议通信标准文档"
 date:   2023-06-28
 tags: [SENT,文档,SAE,J2716,协议]
 comments: true

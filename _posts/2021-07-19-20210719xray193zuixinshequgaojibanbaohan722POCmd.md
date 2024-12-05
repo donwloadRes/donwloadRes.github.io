@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xray1.9.3最新社区高级版包含722POC"
+title: "xray193最新社区高级版包含722POC"
 date:   2021-10-26
 tags: [扫描,域名,文件,xray1.9,722POC]
 comments: true

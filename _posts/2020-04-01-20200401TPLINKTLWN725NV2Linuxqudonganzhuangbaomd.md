@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TP-LINK TL-WN725N V2 Linux 驱动安装包"
+title: "TPLINK TLWN725N V2 Linux 驱动安装包"
 date:   2023-07-17
 tags: [驱动,TL,WN725N,V2,Linux]
 comments: true

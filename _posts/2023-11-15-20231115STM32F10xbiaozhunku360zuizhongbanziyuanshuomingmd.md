@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F10x标准库（3.6.0最终版）资源说明"
+title: "STM32F10x标准库360最终版资源说明"
 date:   2020-11-10
 tags: [STM32F10x,库函数,示例,3.6,最终版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核设计与实现_第三版 PDF 下载"
+title: "Linux内核设计与实现第三版 PDF 下载"
 date:   2020-08-08
 tags: [Linux,内核,PDF,第三版,设计]
 comments: true

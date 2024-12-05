@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USR-TCP232-Test 串口转网络调试工具"
+title: "USRTCP232Test 串口转网络调试工具"
 date:   2024-06-06
 tags: [串口,USR,调试,TCP232,Test]
 comments: true

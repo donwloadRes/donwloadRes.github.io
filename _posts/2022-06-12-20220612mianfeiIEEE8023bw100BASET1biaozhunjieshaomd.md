@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费IEEE802.3bw 100BASE-T1 标准介绍"
+title: "免费IEEE8023bw 100BASET1 标准介绍"
 date:   2020-03-29
 tags: [IEEE802.3,T1,以太网,标准,bw]
 comments: true

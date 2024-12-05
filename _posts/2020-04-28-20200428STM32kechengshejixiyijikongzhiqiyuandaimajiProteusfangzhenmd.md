@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32课程设计：洗衣机控制器（源代码及Proteus仿真）"
+title: "STM32课程设计洗衣机控制器源代码及Proteus仿真"
 date:   2020-07-17
 tags: [STM32,Proteus,仿真,模拟,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杜比DOLBY 5.1声道测试视频"
+title: "杜比DOLBY 51声道测试视频"
 date:   2021-07-05
 tags: [声道,视频,5.1,杜比,测试]
 comments: true

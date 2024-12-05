@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective C++ 资源下载"
+title: "Effective C 资源下载"
 date:   2024-06-26
 tags: [C++,Effective,编程,下载,Scott]
 comments: true

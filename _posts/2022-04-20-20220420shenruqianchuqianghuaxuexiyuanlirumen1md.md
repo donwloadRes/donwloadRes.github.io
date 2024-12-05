@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出强化学习：原理入门1"
+title: "深入浅出强化学习原理入门1"
 date:   2021-03-03
 tags: [学习,强化,深入浅出,入门,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机矢量控制（六）——MTPA最大转矩电流比控制"
+title: "永磁同步电机矢量控制六MTPA最大转矩电流比控制"
 date:   2021-01-01
 tags: [MTPA,控制,仿真,同步电机,转矩]
 comments: true

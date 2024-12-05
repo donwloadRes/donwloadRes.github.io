@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF与G-CODE转换程序及仿真工具"
+title: "DXF与GCODE转换程序及仿真工具"
 date:   2020-10-20
 tags: [CODE,DXF,仿真,加工,转换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT从站代码生成工具SSC_v5.12"
+title: "EtherCAT从站代码生成工具SSCv512"
 date:   2022-03-25
 tags: [EtherCAT,v5.12,SSC,代码,工具]
 comments: true

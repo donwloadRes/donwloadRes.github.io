@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第四课 Python Web企业门户网站 - 路由和富文本"
+title: "第四课 Python Web企业门户网站  路由和富文本"
 date:   2023-02-24
 tags: [路由,页面,Web,Python,视图]
 comments: true

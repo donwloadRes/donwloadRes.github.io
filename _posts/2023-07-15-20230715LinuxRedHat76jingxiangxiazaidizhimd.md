@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux RedHat 7.6 镜像下载地址"
+title: "Linux RedHat 76 镜像下载地址"
 date:   2024-06-28
 tags: [镜像,下载,Linux,7.6,Red]
 comments: true

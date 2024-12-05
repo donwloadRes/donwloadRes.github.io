@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 6.0 Windows 完整编译版（共享库）下载"
+title: "FFmpeg 60 Windows 完整编译版共享库下载"
 date:   2021-10-27
 tags: [FFmpeg,6.0,Windows,编译,共享]
 comments: true

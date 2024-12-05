@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载、安装及环境变量配置指南"
+title: "JDK 18 下载安装及环境变量配置指南"
 date:   2022-01-27
 tags: [JDK,点击,1.8,安装,Java]
 comments: true

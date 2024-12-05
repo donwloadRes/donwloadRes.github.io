@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 使用 Boost 库发送 POST-GET 请求"
+title: "CC 使用 Boost 库发送 POSTGET 请求"
 date:   2022-11-11
 tags: [Boost,请求,POST,GET,Asio]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C高级编程：基于模块化设计思想的C语言开发"
+title: "C高级编程基于模块化设计思想的C语言开发"
 date:   2023-05-14
 tags: [C语言,模块化,编程,书签,设计]
 comments: true

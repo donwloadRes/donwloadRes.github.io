@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaCV摄像头实战之十二：性别与年龄检测资源文件"
+title: "JavaCV摄像头实战之十二性别与年龄检测资源文件"
 date:   2023-12-15
 tags: [检测,JavaCV,性别,年龄,文件]
 comments: true

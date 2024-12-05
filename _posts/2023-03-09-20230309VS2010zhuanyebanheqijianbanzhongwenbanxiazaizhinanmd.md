@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2010专业版和旗舰版（中文版）下载指南"
+title: "VS2010专业版和旗舰版中文版下载指南"
 date:   2023-07-01
 tags: [专业版,旗舰版,VS2010,下载,开发]
 comments: true

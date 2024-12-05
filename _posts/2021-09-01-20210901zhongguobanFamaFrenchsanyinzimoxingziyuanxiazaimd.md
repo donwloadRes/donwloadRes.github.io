@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国版 Fama-French 三因子模型资源下载"
+title: "中国版 FamaFrench 三因子模型资源下载"
 date:   2023-11-13
 tags: [因子,模型,Fama,French,中国]
 comments: true

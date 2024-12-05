@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家中小学智慧教育平台下载器 1.0.2 - 专为Win10-Win11 64位系统设计"
+title: "国家中小学智慧教育平台下载器 102  专为Win10Win11 64位系统设计"
 date:   2022-09-22
 tags: [下载,开源,Windows,智慧,中小学]
 comments: true

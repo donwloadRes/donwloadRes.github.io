@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017+Fortran（Intel Parallel Studio XE 2018）+MPI 资源文件介绍"
+title: "VS2017FortranIntel Parallel Studio XE 2018MPI 资源文件介绍"
 date:   2024-09-08
 tags: [Studio,Fortran,Intel,Parallel,XE]
 comments: true

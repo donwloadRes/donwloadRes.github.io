@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+MySQL人力资源管理系统"
+title: "PythonMySQL人力资源管理系统"
 date:   2024-05-26
 tags: [Python,数据库,MySQL,学习,信息]
 comments: true

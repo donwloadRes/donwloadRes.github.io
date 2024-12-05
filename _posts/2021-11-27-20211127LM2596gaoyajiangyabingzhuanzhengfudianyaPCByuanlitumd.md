@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM2596高压降压并转正负电压PCB+原理图"
+title: "LM2596高压降压并转正负电压PCB原理图"
 date:   2021-04-02
 tags: [PCB,电压,原理图,降压,电路]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#利用S7netplus读写西门子PLC数据"
+title: "C利用S7netplus读写西门子PLC数据"
 date:   2020-01-28
 tags: [PLC,S7netplus,C#,数据,西门子]
 comments: true

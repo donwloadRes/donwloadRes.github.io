@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32L136华大单片机开发套件 - HC32L136-IDE-Rev1.0.0"
+title: "HC32L136华大单片机开发套件  HC32L136IDERev100"
 date:   2020-03-10
 tags: [HC32L136,IDE,单片机,开发,Rev1.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整英飞凌AURIX_TC3XX用户手册"
+title: "完整英飞凌AURIXTC3XX用户手册"
 date:   2022-07-29
 tags: [英飞凌,AURIX,TC3XX,用户手册,文档]
 comments: true

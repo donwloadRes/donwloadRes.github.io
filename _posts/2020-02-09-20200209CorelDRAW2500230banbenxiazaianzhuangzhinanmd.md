@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 25.0.0.230 版本下载安装指南"
+title: "CorelDRAW 2500230 版本下载安装指南"
 date:   2024-10-28
 tags: [安装,0.230,CorelDRAW,25.0,版本]
 comments: true

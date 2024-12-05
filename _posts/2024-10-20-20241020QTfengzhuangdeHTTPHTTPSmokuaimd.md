@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT封装的HTTP-HTTPS模块"
+title: "QT封装的HTTPHTTPS模块"
 date:   2023-09-28
 tags: [模块,QT,网络,HTTP,HTTPS]
 comments: true

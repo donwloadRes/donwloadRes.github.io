@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA57.4标准相关文件下载"
+title: "VITA574标准相关文件下载"
 date:   2022-11-07
 tags: [VITA57.4,FMC,文件,笔记,samtec]
 comments: true

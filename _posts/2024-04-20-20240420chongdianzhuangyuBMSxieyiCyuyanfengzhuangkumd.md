@@ -1,6 +1,54 @@
 ---
 layout: post
-title: "充电桩与BMS协议C语言封装库"
+title: "充电桩与BMS协议C语言封装库
+date   20200224
+tags 充电BMS封装C语言单片机
+comments true
+author admin
+
+ 充电桩与BMS协议C语言封装库
+
+ 简介
+
+本仓库提供了一个使用C语言编写的封装库用于处理直流充电桩中充电模块与电池管理系统BMS之间的标准CAN协议通信该封装库不仅实现了CAN协议的封装还包含了充电流程的调用逻辑适用于单片机Linux以及FreeRTOS等平台
+
+ 功能特点
+
+ CAN协议封装实现了充电桩与BMS之间的标准CAN协议通信确保数据传输的准确性和可靠性
+ 充电流程控制封装了充电流程的调用逻辑简化了充电桩与BMS之间的交互过程
+ 多平台支持支持在单片机Linux以及FreeRTOS等平台上运行具有良好的兼容性和可移植性
+
+ 使用说明
+
+ 环境要求
+
+ 支持C语言编译器如GCCKeil等
+ 支持CAN总线通信的硬件平台
+ 适用于单片机Linux或FreeRTOS操作系统
+
+ 编译与运行
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourrepourlgit
+   
+
+2 编译
+    对于Linux或FreeRTOS平台进入项目目录并执行
+     bash
+     make
+     
+    对于单片机平台请参考相应的编译工具链进行编译
+
+3 运行
+    根据具体平台的要求将编译生成的可执行文件或库文件部署到目标设备上并配置CAN总线参数
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用本封装库进行充电桩与BMS的通信
+
+c
+include canprotocolh"
 date:   2020-02-24
 tags: [充电,BMS,封装,C语言,单片机]
 comments: true

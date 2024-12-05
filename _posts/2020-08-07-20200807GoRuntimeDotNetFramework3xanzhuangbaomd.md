@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GoRuntime_DotNetFramework_3.x 安装包"
+title: "GoRuntimeDotNetFramework3x 安装包"
 date:   2021-12-08
 tags: [NET,Framework,3.0,安装包,GoRuntime]
 comments: true

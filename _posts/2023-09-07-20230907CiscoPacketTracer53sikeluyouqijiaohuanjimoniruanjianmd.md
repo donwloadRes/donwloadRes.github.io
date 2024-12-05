@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer 5.3 思科路由器交换机模拟软件"
+title: "Cisco Packet Tracer 53 思科路由器交换机模拟软件"
 date:   2023-04-29
 tags: [网络,5.3,模拟,Cisco,Packet]
 comments: true

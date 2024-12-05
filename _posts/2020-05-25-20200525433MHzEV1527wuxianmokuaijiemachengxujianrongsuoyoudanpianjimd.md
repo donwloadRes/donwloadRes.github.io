@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "433MHz EV1527 无线模块解码程序 - 兼容所有单片机"
+title: "433MHz EV1527 无线模块解码程序  兼容所有单片机"
 date:   2022-11-25
 tags: [解码程序,单片机,教程,移植,433MHz]
 comments: true

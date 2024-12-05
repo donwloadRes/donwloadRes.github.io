@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孤胆枪手-秘籍资源文件介绍"
+title: "孤胆枪手秘籍资源文件介绍"
 date:   2024-01-29
 tags: [游戏,秘籍,玩家,孤胆,枪手]
 comments: true

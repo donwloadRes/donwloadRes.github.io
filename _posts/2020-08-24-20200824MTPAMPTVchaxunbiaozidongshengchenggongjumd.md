@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTPA-MPTV查询表自动生成工具"
+title: "MTPAMPTV查询表自动生成工具"
 date:   2020-03-01
 tags: [MATLAB,生成,电机,MTPA,MPTV]
 comments: true

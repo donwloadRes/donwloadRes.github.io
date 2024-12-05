@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Babylon.js 官方虚拟展厅 GLB 模型资源"
+title: "Babylonjs 官方虚拟展厅 GLB 模型资源"
 date:   2021-06-01
 tags: [Babylon,js,官方,glb,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 绘制流程图示例程序——Diagram"
+title: "Qt 绘制流程图示例程序Diagram"
 date:   2024-04-10
 tags: [Qt,示例,节点,Diagram,流程图]
 comments: true

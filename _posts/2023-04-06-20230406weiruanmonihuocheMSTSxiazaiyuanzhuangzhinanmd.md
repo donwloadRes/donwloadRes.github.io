@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软模拟火车(MSTS) 下载与安装指南"
+title: "微软模拟火车MSTS 下载与安装指南"
 date:   2024-07-30
 tags: [下载,游戏,模拟,火车,安装]
 comments: true

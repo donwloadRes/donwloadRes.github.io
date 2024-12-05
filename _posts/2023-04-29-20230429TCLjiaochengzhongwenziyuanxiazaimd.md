@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCL教程（中文）资源下载"
+title: "TCL教程中文资源下载"
 date:   2020-07-28
 tags: [TCL,教程,中文,文件,pdf]
 comments: true

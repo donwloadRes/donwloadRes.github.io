@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS通讯之数据帧格式解读（附资料下载）"
+title: "MODBUS通讯之数据帧格式解读附资料下载"
 date:   2020-03-13
 tags: [MODBUS,数据,格式,主站,仓库]
 comments: true

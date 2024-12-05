@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "教你使用U盘制作Centos7.9系统安装盘"
+title: "教你使用U盘制作Centos79系统安装盘"
 date:   2021-09-11
 tags: [U盘,镜像,Centos7.9,UltraISO,安装盘]
 comments: true

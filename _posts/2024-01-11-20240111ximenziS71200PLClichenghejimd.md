@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子 S7-1200 PLC 例程合集"
+title: "西门子 S71200 PLC 例程合集"
 date:   2024-06-26
 tags: [例程,S7,1200,PLC,西门子]
 comments: true

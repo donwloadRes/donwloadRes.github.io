@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HKDVR(海康视频控件) 7.55版本"
+title: "HKDVR海康视频控件 755版本"
 date:   2022-07-14
 tags: [控件,海康,HKDVR,视频,功能]
 comments: true

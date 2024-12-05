@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VirtualBox 7.0.6 for Windows 安装程序"
+title: "VirtualBox 706 for Windows 安装程序"
 date:   2023-11-16
 tags: [VirtualBox,虚拟机,Windows,安装,7.0]
 comments: true

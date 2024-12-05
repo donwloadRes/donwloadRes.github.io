@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows 11家庭版无法远程问题（无需任何升级即可mstsc）"
+title: "解决Windows 11家庭版无法远程问题无需任何升级即可mstsc"
 date:   2020-11-22
 tags: [Windows,家庭版,远程,点击,配置文件]
 comments: true

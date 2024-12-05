@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上位机（C#）以太网连接三菱PLC资源下载"
+title: "上位机C以太网连接三菱PLC资源下载"
 date:   2024-02-28
 tags: [PLC,三菱,文档,C#,上位]
 comments: true

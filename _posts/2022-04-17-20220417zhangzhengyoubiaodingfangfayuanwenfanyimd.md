@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张正友标定方法原文（翻译）"
+title: "张正友标定方法原文翻译"
 date:   2023-04-22
 tags: [标定,张正友,相机,翻译,文档]
 comments: true

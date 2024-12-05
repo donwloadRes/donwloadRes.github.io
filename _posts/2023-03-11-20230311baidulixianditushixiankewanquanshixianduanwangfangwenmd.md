@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度离线地图实现（可完全实现断网访问）"
+title: "百度离线地图实现可完全实现断网访问"
 date:   2023-04-01
 tags: [离线,地图,Demo,标点,网页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人口增长模型：指数模型与Logistic模型五种求解方法数学建模"
+title: "人口增长模型指数模型与Logistic模型五种求解方法数学建模"
 date:   2020-06-07
 tags: [模型,Matlab,文档,Word,求解]
 comments: true

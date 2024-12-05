@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2015编译的OpenCV4.5.3带freetype模块"
+title: "VS2015编译的OpenCV453带freetype模块"
 date:   2020-09-12
 tags: [OpenCV,编译,模块,freetype,VS2015]
 comments: true

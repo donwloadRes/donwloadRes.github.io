@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多线程UI窗体控件显示方案"
+title: "C多线程UI窗体控件显示方案"
 date:   2021-02-03
 tags: [多线程,UI,C#,线程,控件]
 comments: true

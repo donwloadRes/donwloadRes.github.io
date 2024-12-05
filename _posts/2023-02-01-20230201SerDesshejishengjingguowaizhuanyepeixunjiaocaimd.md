@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SerDes设计圣经：国外专业培训教材"
+title: "SerDes设计圣经国外专业培训教材"
 date:   2021-11-26
 tags: [SerDes,培训教材,设计,圣经,国外]
 comments: true

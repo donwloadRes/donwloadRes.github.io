@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 多边形相交与合并算法"
+title: "C 多边形相交与合并算法"
 date:   2020-06-27
 tags: [多边形,算法,相交,C++,合并]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音情感识别基本原理及应用场景-Python（课设报告）"
+title: "语音情感识别基本原理及应用场景Python课设报告"
 date:   2021-04-05
 tags: [语音,情感,识别,Python,应用]
 comments: true

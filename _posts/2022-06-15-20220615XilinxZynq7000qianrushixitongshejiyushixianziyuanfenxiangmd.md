@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq-7000 嵌入式系统设计与实现 资源分享"
+title: "Xilinx Zynq7000 嵌入式系统设计与实现 资源分享"
 date:   2020-01-07
 tags: [嵌入式,资源,7000,设计,分享]
 comments: true

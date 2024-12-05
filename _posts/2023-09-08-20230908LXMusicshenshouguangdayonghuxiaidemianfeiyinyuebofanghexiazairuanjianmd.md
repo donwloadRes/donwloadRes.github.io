@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LX Music：深受广大用户喜爱的免费音乐播放和下载软件"
+title: "LX Music深受广大用户喜爱的免费音乐播放和下载软件"
 date:   2020-09-08
 tags: [音乐,支持,自定义,LX,Music]
 comments: true

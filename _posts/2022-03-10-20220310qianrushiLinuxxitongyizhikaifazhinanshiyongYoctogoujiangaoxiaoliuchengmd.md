@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Linux系统移植开发指南 - 使用Yocto构建高效流程"
+title: "嵌入式Linux系统移植开发指南  使用Yocto构建高效流程"
 date:   2021-04-09
 tags: [嵌入式,Linux,Yocto,构建,移植]
 comments: true

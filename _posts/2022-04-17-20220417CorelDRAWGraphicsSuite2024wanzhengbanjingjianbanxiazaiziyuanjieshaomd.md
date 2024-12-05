@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2024 完整版-精简版 下载资源介绍"
+title: "CorelDRAW Graphics Suite 2024 完整版精简版 下载资源介绍"
 date:   2020-01-31
 tags: [完整版,CorelDRAW,Graphics,Suite,2024]
 comments: true

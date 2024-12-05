@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国土壤侵蚀数据（1km分辨率）"
+title: "全国土壤侵蚀数据1km分辨率"
 date:   2021-05-07
 tags: [土壤侵蚀,数据,分辨率,tif,GIS]
 comments: true

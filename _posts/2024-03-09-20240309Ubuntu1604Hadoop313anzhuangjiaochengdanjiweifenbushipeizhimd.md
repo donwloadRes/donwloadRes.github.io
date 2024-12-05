@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu16.04-Hadoop3.1.3安装教程_单机-伪分布式配置"
+title: "Ubuntu1604Hadoop313安装教程单机伪分布式配置"
 date:   2024-05-04
 tags: [Hadoop,教程,安装,配置,分布式]
 comments: true

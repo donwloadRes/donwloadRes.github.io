@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决MySQL安装过程中找不到VCRUNTIME140_1.dll的问题"
+title: "解决MySQL安装过程中找不到VCRUNTIME1401dll的问题"
 date:   2022-10-27
 tags: [MySQL,安装,VCRUNTIME140,dll,合集]
 comments: true

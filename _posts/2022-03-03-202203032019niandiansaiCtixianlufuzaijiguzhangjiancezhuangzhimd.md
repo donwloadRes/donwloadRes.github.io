@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019年电赛C题：线路负载及故障检测装置"
+title: "2019年电赛C题线路负载及故障检测装置"
 date:   2024-06-06
 tags: [2019,电赛,装置,故障,负载]
 comments: true

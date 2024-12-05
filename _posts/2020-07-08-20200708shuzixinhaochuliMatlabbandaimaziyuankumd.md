@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理（Matlab版）》代码资源库"
+title: "数字信号处理Matlab版代码资源库"
 date:   2024-04-30
 tags: [代码,Matlab,信号处理,资源库,数字]
 comments: true

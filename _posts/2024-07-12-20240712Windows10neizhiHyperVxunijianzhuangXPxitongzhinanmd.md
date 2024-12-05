@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10内置Hyper-V虚拟机安装XP系统指南"
+title: "Windows 10内置HyperV虚拟机安装XP系统指南"
 date:   2020-07-15
 tags: [虚拟机,安装,XP,Windows,网卡]
 comments: true

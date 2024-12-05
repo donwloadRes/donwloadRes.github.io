@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZLM流媒体服务器（支持WebRTC）下载"
+title: "ZLM流媒体服务器支持WebRTC下载"
 date:   2021-06-30
 tags: [服务器,ZLM,流媒体,WebRTC,编译]
 comments: true

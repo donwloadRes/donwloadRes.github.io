@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一芯量产工具（FirstChip_MpTools）使用指南"
+title: "一芯量产工具FirstChipMpTools使用指南"
 date:   2023-08-04
 tags: [U盘,工具,一芯,FirstChip,MpTools]
 comments: true

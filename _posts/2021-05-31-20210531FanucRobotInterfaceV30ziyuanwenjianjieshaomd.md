@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fanuc Robot Interface V3.0 资源文件介绍"
+title: "Fanuc Robot Interface V30 资源文件介绍"
 date:   2020-01-18
 tags: [机械,寄存器,读取,Fanuc,写入]
 comments: true

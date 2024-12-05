@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通泰 CODESYS OPC UA 驱动 - 标签通讯指南"
+title: "昆仑通泰 CODESYS OPC UA 驱动  标签通讯指南"
 date:   2021-05-25
 tags: [CODESYS,通泰,昆仑,OPC,UA]
 comments: true

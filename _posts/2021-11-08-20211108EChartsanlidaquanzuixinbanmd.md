@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECharts案例大全（最新版）"
+title: "ECharts案例大全最新版"
 date:   2024-03-21
 tags: [ECharts,案例,最新版,图表,可视化]
 comments: true

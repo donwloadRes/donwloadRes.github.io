@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转RS232串口驱动_PL2303_v1.7.0"
+title: "USB转RS232串口驱动PL2303v170"
 date:   2020-05-13
 tags: [USB,RS232,驱动,v1.7,PL2303]
 comments: true

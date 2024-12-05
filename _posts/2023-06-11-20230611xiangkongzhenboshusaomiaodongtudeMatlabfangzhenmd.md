@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相控阵波束扫描“动图”的Matlab仿真"
+title: "相控阵波束扫描动图的Matlab仿真"
 date:   2023-09-13
 tags: [波束,相控阵,仿真,扫描,动图]
 comments: true

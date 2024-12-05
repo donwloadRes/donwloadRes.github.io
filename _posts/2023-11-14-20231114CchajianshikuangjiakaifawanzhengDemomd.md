@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#插件式框架开发完整Demo"
+title: "C插件式框架开发完整Demo"
 date:   2024-11-23
 tags: [插件,加载,示例,C#,框架]
 comments: true

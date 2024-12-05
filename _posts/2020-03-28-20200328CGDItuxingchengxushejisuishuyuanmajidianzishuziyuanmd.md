@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI+图形程序设计随书源码及电子书资源"
+title: "C GDI图形程序设计随书源码及电子书资源"
 date:   2024-03-31
 tags: [源码,C#,GDI,程序设计,压缩文件]
 comments: true

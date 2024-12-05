@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AVPro Video Unity 插件版本 1.9.14"
+title: "AVPro Video Unity 插件版本 1914"
 date:   2024-10-22
 tags: [播放,视频,插件,Unity,AVPro]
 comments: true

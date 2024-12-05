@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2.4G 资源设计指南"
+title: "24G 资源设计指南"
 date:   2022-06-22
 tags: [2.4,设计,GHz,资源,指南]
 comments: true

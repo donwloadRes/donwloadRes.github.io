@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# R485 串口通讯资源下载"
+title: "C R485 串口通讯资源下载"
 date:   2021-01-08
 tags: [哈哈哈,串口,资源,C#,通讯]
 comments: true

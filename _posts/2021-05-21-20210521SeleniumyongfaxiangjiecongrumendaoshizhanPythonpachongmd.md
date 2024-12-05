@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selenium用法详解：从入门到实战（Python爬虫）"
+title: "Selenium用法详解从入门到实战Python爬虫"
 date:   2021-12-10
 tags: [Selenium,爬虫,Python,文件,入门]
 comments: true

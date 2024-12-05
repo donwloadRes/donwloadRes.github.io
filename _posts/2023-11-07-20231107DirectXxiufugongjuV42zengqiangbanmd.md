@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具V4.2增强版"
+title: "DirectX修复工具V42增强版"
 date:   2020-05-29
 tags: [修复,DirectX,工具,增强版,V4.2]
 comments: true

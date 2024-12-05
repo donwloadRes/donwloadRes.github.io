@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco USGMII 规范 Rev4.2 下载仓库"
+title: "Cisco USGMII 规范 Rev42 下载仓库"
 date:   2024-05-05
 tags: [Rev4.2,Cisco,USGMII,仓库,文件]
 comments: true

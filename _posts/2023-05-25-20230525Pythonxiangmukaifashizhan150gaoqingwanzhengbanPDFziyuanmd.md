@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python项目开发实战1-50高清完整版PDF资源"
+title: "Python项目开发实战150高清完整版PDF资源"
 date:   2021-12-11
 tags: [Python,项目,50,学习,高清]
 comments: true

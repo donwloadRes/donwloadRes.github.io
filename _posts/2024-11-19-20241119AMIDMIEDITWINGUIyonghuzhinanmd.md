@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMI DMIEDIT-WINGUI 用户指南"
+title: "AMI DMIEDITWINGUI 用户指南"
 date:   2023-10-27
 tags: [DMIEDIT,WINGUI,DMI,AptioV,指南]
 comments: true

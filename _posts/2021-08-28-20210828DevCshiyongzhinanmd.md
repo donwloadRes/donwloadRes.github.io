@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 使用指南"
+title: "Dev C 使用指南"
 date:   2022-06-08
 tags: [C++,Dev,调试程序,代码,安装包]
 comments: true

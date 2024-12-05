@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD卡、TF卡、MMC卡协议及规范资源下载"
+title: "SD卡TF卡MMC卡协议及规范资源下载"
 date:   2023-02-26
 tags: [SD,MMC,TF,规范,协议]
 comments: true

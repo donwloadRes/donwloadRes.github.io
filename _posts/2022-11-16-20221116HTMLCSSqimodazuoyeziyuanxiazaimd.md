@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS期末大作业资源下载"
+title: "HTMLCSS期末大作业资源下载"
 date:   2021-04-02
 tags: [HTML,CSS,文件,网页,期末]
 comments: true

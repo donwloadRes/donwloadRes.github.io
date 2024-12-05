@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32实用Bootloader IAP升级例程(实测可用)"
+title: "STM32实用Bootloader IAP升级例程实测可用"
 date:   2021-02-04
 tags: [例程,STM32,IAP,Bootloader,升级]
 comments: true

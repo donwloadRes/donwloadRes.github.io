@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue商城实战项目：高仿京东，包含后台管理系统"
+title: "Vue商城实战项目高仿京东包含后台管理系统"
 date:   2021-02-05
 tags: [Vue,项目,商城,Vue3,管理系统]
 comments: true

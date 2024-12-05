@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Godot 4.1 和 4.2 游戏引擎 Windows 安装包"
+title: "Godot 41 和 42 游戏引擎 Windows 安装包"
 date:   2023-04-25
 tags: [Godot,安装包,Windows,4.2,4.1]
 comments: true

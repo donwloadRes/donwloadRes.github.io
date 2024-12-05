@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM75数据手册（中文）下载"
+title: "LM75数据手册中文下载"
 date:   2020-11-02
 tags: [LM75,手册,中文,温度传感器,数据]
 comments: true

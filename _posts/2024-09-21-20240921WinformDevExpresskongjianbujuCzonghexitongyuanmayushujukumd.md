@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform DevExpress控件布局C#综合系统源码与数据库"
+title: "Winform DevExpress控件布局C综合系统源码与数据库"
 date:   2023-12-08
 tags: [数据库,控件,源码,DevExpress,Winform]
 comments: true

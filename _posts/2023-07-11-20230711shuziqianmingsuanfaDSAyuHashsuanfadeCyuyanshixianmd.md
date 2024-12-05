@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字签名算法（DSA）与Hash算法的C语言实现"
+title: "数字签名算法DSA与Hash算法的C语言实现"
 date:   2021-01-26
 tags: [DSA,算法,C++,数字签名,填充]
 comments: true

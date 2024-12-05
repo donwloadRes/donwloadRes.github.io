@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61131-10:2019 可编程序控制器 第10部分：开放的 PLC XML交互格式 英文版"
+title: "IEC 61131102019 可编程序控制器 第10部分开放的 PLC XML交互格式 英文版"
 date:   2022-12-09
 tags: [PLC,10,编程序,IEC,XML]
 comments: true

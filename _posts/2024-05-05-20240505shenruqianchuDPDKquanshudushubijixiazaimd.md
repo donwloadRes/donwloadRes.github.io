@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出DPDK》全书读书笔记下载"
+title: "深入浅出DPDK全书读书笔记下载"
 date:   2022-10-27
 tags: [DPDK,读书笔记,深入浅出,下载,全书]
 comments: true

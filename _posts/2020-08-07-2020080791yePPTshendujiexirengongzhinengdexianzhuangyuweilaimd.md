@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "91页PPT深度解析：人工智能的现状与未来"
+title: "91页PPT深度解析人工智能的现状与未来"
 date:   2021-08-31
 tags: [人工智能,PPT,91,AI,未来]
 comments: true

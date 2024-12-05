@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 第一行代码(第2版) PDF 资源介绍"
+title: "Android 第一行代码第2版 PDF 资源介绍"
 date:   2022-08-14
 tags: [Android,PDF,代码,第一行,初学者]
 comments: true

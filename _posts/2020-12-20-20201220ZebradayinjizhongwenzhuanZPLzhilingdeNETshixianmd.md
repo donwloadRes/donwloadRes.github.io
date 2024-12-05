@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zebra打印机中文转ZPL指令的.NET实现"
+title: "Zebra打印机中文转ZPL指令的NET实现"
 date:   2020-07-20
 tags: [ZPL,NET,API,指令,压缩]
 comments: true

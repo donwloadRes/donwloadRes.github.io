@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 0.9.98 免费版本 (兼容Windows 11)"
+title: "Typora 0998 免费版本 兼容Windows 11"
 date:   2024-08-05
 tags: [Typora,版本,98,免费,兼容]
 comments: true

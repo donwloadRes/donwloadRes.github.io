@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统缺失api-ms-win-crt-runtime-l1-1-0.dll文件的完美解决方法"
+title: "Windows系统缺失apimswincrtruntimel110dll文件的完美解决方法"
 date:   2022-03-27
 tags: [DLL,文件,Windows,api,ms]
 comments: true

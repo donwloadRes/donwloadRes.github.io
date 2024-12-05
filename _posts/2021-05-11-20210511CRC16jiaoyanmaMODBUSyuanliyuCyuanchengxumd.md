@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRC16校验码(MODBUS)原理与C#源程序"
+title: "CRC16校验码MODBUS原理与C源程序"
 date:   2022-02-11
 tags: [校验码,CRC16,crc,CRC,MODBUS]
 comments: true

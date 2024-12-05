@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实时曲线显示"
+title: "C实时曲线显示"
 date:   2021-03-16
 tags: [曲线,实时,程序,C#,随机数]
 comments: true

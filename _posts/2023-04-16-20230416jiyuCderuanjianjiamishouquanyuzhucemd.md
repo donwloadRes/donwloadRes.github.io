@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的软件加密、授权与注册"
+title: "基于C的软件加密授权与注册"
 date:   2020-12-11
 tags: [软件加密,授权,注册,C#,软件]
 comments: true

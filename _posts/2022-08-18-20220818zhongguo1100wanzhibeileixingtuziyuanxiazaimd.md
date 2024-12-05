@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国1:100万植被类型图资源下载"
+title: "中国1100万植被类型图资源下载"
 date:   2021-07-04
 tags: [100,类型图,下载,文件格式,植被]
 comments: true

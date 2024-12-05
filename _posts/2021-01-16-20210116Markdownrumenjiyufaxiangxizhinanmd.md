@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown 入门及语法详细指南 ★"
+title: "Markdown 入门及语法详细指南 "
 date:   2021-04-28
 tags: [Markdown,语法,指南,GitHub,文档]
 comments: true

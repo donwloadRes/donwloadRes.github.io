@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然哲学的数学原理 - 牛顿著作下载"
+title: "自然哲学的数学原理  牛顿著作下载"
 date:   2023-10-06
 tags: [数学原理,数学,自然哲学,牛顿,学习]
 comments: true

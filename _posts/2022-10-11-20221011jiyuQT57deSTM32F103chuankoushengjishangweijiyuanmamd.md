@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT5.7的STM32F103串口升级上位机源码"
+title: "基于QT57的STM32F103串口升级上位机源码"
 date:   2021-09-24
 tags: [固件,升级,串口,源码,上位]
 comments: true

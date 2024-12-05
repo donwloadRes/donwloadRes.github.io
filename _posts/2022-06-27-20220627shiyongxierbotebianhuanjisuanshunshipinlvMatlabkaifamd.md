@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用希尔伯特变换计算瞬时频率：Matlab开发"
+title: "使用希尔伯特变换计算瞬时频率Matlab开发"
 date:   2024-11-11
 tags: [瞬时,信号,希尔伯特,Matlab,频率]
 comments: true

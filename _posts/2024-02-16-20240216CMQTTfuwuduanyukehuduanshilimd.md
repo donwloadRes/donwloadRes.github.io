@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MQTT 服务端与客户端示例"
+title: "C MQTT 服务端与客户端示例"
 date:   2024-11-09
 tags: [MQTT,示例,服务端,客户端,C#]
 comments: true

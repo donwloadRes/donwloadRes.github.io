@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 8.0 密钥生成器"
+title: "VMware 80 密钥生成器"
 date:   2023-06-23
 tags: [8.0,密钥,生成器,VMware,vmware]
 comments: true

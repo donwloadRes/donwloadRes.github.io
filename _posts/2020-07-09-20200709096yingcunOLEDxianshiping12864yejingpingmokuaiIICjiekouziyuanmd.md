@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96英寸OLED显示屏12864液晶屏模块IIC接口资源"
+title: "096英寸OLED显示屏12864液晶屏模块IIC接口资源"
 date:   2023-05-28
 tags: [OLED,模块,显示屏,示例,0.96]
 comments: true

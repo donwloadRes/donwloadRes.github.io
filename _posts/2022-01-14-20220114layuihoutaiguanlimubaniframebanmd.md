@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "layui后台管理模板-iframe版"
+title: "layui后台管理模板iframe版"
 date:   2020-10-04
 tags: [layui,后台,iframe,模板,管理]
 comments: true

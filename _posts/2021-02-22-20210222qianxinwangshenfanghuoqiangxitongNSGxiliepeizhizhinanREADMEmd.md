@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奇安信网神防火墙系统（NSG系列）配置指南 README"
+title: "奇安信网神防火墙系统NSG系列配置指南 README"
 date:   2023-12-03
 tags: [防火墙,网神,配置,指南,安信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 6.42.7.1 下载安装激活教程"
+title: "Internet Download Manager IDM 64271 下载安装激活教程"
 date:   2023-12-10
 tags: [IDM,激活,教程,7.1,下载]
 comments: true

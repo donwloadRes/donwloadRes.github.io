@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F10xxx参考手册(中文)"
+title: "STM32F10xxx参考手册中文"
 date:   2024-01-16
 tags: [STM32F10xxx,外设,参考手册,STM32,文档]
 comments: true

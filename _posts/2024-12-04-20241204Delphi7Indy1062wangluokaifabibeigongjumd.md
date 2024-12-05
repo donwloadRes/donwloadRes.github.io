@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 7 Indy 10.6.2 网络开发必备工具"
+title: "Delphi 7 Indy 1062 网络开发必备工具"
 date:   2023-06-09
 tags: [开发,Delphi,工具,Indy,10.6]
 comments: true

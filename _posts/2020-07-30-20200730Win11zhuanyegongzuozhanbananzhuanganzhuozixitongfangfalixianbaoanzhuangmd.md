@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11 专业工作站版安装安卓子系统方法 (离线包安装)"
+title: "Win11 专业工作站版安装安卓子系统方法 离线包安装"
 date:   2022-11-18
 tags: [安卓,安装,子系统,工作站,Win11]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "spconv1.2.1安装错误解决指南"
+title: "spconv121安装错误解决指南"
 date:   2022-01-30
 tags: [spconv1.2,安装,版本,解决方案,subprocess]
 comments: true

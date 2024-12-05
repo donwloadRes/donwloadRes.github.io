@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDBC-impala驱动包下载"
+title: "JDBCimpala驱动包下载"
 date:   2020-09-19
 tags: [JDBC,Impala,驱动,jar,Java]
 comments: true

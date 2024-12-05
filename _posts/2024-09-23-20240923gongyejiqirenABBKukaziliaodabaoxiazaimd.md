@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业机器人（ABB+Kuka）资料打包下载"
+title: "工业机器人ABBKuka资料打包下载"
 date:   2020-03-01
 tags: [机器人,工业,资料,下载,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware15.1.0详细安装教程"
+title: "VMware1510详细安装教程"
 date:   2024-03-24
 tags: [安装,VMware,用户,教程,Workstation]
 comments: true

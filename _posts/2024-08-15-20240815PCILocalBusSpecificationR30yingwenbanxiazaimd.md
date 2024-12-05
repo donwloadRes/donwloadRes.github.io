@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Local Bus Specification R3.0英文版下载"
+title: "PCI Local Bus Specification R30英文版下载"
 date:   2023-04-04
 tags: [PCI,英文版,Local,Bus,Specification]
 comments: true

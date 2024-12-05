@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ASP.NET电子购物商城系统资源下载"
+title: "基于ASPNET电子购物商城系统资源下载"
 date:   2020-05-19
 tags: [毕业设计,ASP,NET,项目,商城]
 comments: true

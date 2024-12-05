@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 Linux和Win安装包"
+title: "JDK 18 Linux和Win安装包"
 date:   2023-09-10
 tags: [Java,JDK,安装,Linux,1.8]
 comments: true

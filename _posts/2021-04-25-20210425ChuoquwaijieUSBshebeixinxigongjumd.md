@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#获取外接USB设备信息工具"
+title: "C获取外接USB设备信息工具"
 date:   2021-10-01
 tags: [USB,设备,获取,信息,VID]
 comments: true

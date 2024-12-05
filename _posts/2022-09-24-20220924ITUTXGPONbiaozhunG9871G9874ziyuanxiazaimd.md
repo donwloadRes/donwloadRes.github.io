@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITU-T XG-PON 标准 G.987.1-G.987.4 资源下载"
+title: "ITUT XGPON 标准 G9871G9874 资源下载"
 date:   2022-01-15
 tags: [G.987,PON,XG,文档,ITU]
 comments: true

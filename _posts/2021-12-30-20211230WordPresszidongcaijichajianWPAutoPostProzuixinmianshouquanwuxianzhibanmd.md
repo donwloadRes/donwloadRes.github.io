@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WordPress自动采集插件WP-AutoPost-Pro最新免授权无限制版"
+title: "WordPress自动采集插件WPAutoPostPro最新免授权无限制版"
 date:   2022-03-07
 tags: [插件,采集,WordPress,WP,AutoPost]
 comments: true

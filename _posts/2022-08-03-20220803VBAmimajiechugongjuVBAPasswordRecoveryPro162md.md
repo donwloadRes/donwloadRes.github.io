@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA密码解除工具（VBA Password Recovery Pro 1.62）"
+title: "VBA密码解除工具VBA Password Recovery Pro 162"
 date:   2023-11-09
 tags: [VBA,密码,1.62,Office,文档]
 comments: true

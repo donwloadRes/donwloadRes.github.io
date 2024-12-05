@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET与ECharts数据交互教程"
+title: "ASPNET与ECharts数据交互教程"
 date:   2020-02-20
 tags: [ASP,NET,ECharts,交互,Ajax]
 comments: true

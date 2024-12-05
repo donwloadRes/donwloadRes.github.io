@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "搜索引擎强引蜘蛛程序（易语言版）"
+title: "搜索引擎强引蜘蛛程序易语言版"
 date:   2023-01-04
 tags: [搜索引擎,易语言,蜘蛛,网站,程序]
 comments: true

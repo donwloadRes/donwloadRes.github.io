@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP S-4 HANA SD模块官方教材 S4600_EN_Col08 下载仓库"
+title: "SAP S4 HANA SD模块官方教材 S4600ENCol08 下载仓库"
 date:   2024-10-14
 tags: [SAP,HANA,SD,教材,模块]
 comments: true

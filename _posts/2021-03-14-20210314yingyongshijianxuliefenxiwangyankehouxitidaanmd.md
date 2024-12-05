@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用时间序列分析》王燕 课后习题答案"
+title: "应用时间序列分析王燕 课后习题答案"
 date:   2023-09-20
 tags: [习题,序列,分析,课后,答案]
 comments: true

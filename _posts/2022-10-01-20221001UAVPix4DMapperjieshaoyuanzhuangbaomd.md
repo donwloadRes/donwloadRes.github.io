@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【UAV】Pix4D Mapper介绍与安装包"
+title: "UAVPix4D Mapper介绍与安装包"
 date:   2022-10-13
 tags: [Pix4D,Mapper,安装包,安装,射影]
 comments: true

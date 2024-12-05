@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "戴睿R12pro-N5100 Win10驱动下载"
+title: "戴睿R12proN5100 Win10驱动下载"
 date:   2022-12-30
 tags: [驱动,驱动程序,戴睿,R12pro,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 双系统安装详细图文教程"
+title: "Ubuntu 2004 双系统安装详细图文教程"
 date:   2021-08-21
 tags: [Ubuntu,安装,双系统,设置,教程]
 comments: true

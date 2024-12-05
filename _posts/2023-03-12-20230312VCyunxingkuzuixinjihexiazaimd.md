@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++运行库最新集合下载"
+title: "VC运行库最新集合下载"
 date:   2022-07-05
 tags: [运行库,C++,2010,2022,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车联网与C-V2X技术介绍PPT下载"
+title: "车联网与CV2X技术介绍PPT下载"
 date:   2021-03-22
 tags: [PPT,V2X,技术,联网,下载]
 comments: true

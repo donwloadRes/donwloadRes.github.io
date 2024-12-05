@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ INI文件读写工具"
+title: "C INI文件读写工具"
 date:   2022-04-04
 tags: [INI,文件,读写操作,读写,C++]
 comments: true

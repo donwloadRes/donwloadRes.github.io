@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT的滤波器设计（FFT、IIR、FIR）"
+title: "基于QT的滤波器设计FFTIIRFIR"
 date:   2022-09-09
 tags: [QT,滤波器,项目,信号处理,设计]
 comments: true

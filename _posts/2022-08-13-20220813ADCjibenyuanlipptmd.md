@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC基本原理.ppt"
+title: "ADC基本原理ppt"
 date:   2020-06-06
 tags: [ADC,ppt,基本原理,文档,模拟]
 comments: true

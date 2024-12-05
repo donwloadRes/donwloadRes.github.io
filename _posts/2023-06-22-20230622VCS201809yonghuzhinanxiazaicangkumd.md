@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCS 2018.09 用户指南下载仓库"
+title: "VCS 201809 用户指南下载仓库"
 date:   2020-07-13
 tags: [VCS,仿真器,用户,指南,2018.09]
 comments: true

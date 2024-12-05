@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA19下载 - JAVA JDK19安装包"
+title: "JAVA19下载  JAVA JDK19安装包"
 date:   2020-09-21
 tags: [Java,安装包,安装,JDK,JAVA]
 comments: true

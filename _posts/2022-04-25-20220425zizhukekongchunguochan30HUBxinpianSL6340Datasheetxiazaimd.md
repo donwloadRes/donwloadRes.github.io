@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自主可控纯国产3.0HUB芯片 SL6340 Datasheet 下载"
+title: "自主可控纯国产30HUB芯片 SL6340 Datasheet 下载"
 date:   2023-10-03
 tags: [3.0,SL6340,芯片,Datasheet,自主]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django-Rest-Framework 学生信息查询 RESTFul API 实现代码"
+title: "DjangoRestFramework 学生信息查询 RESTFul API 实现代码"
 date:   2021-05-22
 tags: [API,api,学生,信息,Django]
 comments: true

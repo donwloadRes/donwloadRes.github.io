@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF+MVVM+Datagrid 实战项目"
+title: "WPFMVVMDatagrid 实战项目"
 date:   2022-12-05
 tags: [MVVM,WPF,Datagrid,DataGrid,Visual]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据仓库知识：数仓建模与分层详解"
+title: "数据仓库知识数仓建模与分层详解"
 date:   2023-10-24
 tags: [数据仓库,建模,分层,数仓,文件]
 comments: true

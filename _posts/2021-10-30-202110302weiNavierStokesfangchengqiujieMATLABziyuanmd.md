@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2维 Navier-Stokes 方程求解 MATLAB 资源"
+title: "2维 NavierStokes 方程求解 MATLAB 资源"
 date:   2023-03-28
 tags: [MATLAB,网格,资源,求解,资源库]
 comments: true

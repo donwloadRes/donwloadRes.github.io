@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 场景切换资源文件"
+title: "Threejs 场景切换资源文件"
 date:   2020-07-07
 tags: [切换,场景,Three,js,实现]
 comments: true

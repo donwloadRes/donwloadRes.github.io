@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Mybatis+CXF框架大实验：实现Restful API与WebService API接口"
+title: "SpringBootMybatisCXF框架大实验实现Restful API与WebService API接口"
 date:   2021-06-26
 tags: [API,接口,Restful,WebService,项目]
 comments: true

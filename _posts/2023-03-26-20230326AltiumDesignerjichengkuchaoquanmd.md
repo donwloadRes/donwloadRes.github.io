@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 集成库（超全）"
+title: "Altium Designer 集成库超全"
 date:   2023-12-13
 tags: [Altium,Designer,原理图,PCB,电子设计]
 comments: true

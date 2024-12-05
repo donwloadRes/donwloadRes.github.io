@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICP算法加速优化--多线程和GPU"
+title: "ICP算法加速优化多线程和GPU"
 date:   2020-04-26
 tags: [GPU,多线程,ICP,算法,编译]
 comments: true

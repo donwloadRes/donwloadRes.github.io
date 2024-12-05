@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel I219-V网卡芯片MAC修改工具"
+title: "Intel I219V网卡芯片MAC修改工具"
 date:   2023-09-17
 tags: [MAC,网卡,DOS,U盘,修改]
 comments: true

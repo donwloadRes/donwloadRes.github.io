@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从 Simulink 到 DLL - 教程：构建 DLL 或共享库"
+title: "从 Simulink 到 DLL  教程构建 DLL 或共享库"
 date:   2024-06-28
 tags: [DLL,Simulink,教程,编译,控制器]
 comments: true

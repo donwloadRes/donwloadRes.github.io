@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新手入门：使用Sunshine和Moonlight解决黑神话悟空HDMI线问题"
+title: "新手入门使用Sunshine和Moonlight解决黑神话悟空HDMI线问题"
 date:   2020-02-25
 tags: [Sunshine,Moonlight,HDMI,配置,悟空]
 comments: true

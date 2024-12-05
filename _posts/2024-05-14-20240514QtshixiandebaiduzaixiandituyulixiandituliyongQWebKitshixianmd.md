@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现的百度在线地图与离线地图（利用QWebKit实现）"
+title: "Qt实现的百度在线地图与离线地图利用QWebKit实现"
 date:   2022-11-26
 tags: [地图,离线,Qt,坐标,切换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPCDAAuto.dll组件"
+title: "OPCDAAutodll组件"
 date:   2021-08-22
 tags: [OPC,dll,组件,注册,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音频快速傅里叶变换（FFT）的C语言实现"
+title: "音频快速傅里叶变换FFT的C语言实现"
 date:   2022-05-16
 tags: [FFT,变换,幅值,fft,文件]
 comments: true

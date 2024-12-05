@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter进阶：获取图形验证码"
+title: "JMeter进阶获取图形验证码"
 date:   2022-12-09
 tags: [验证码,HTTP,JMeter,Base64,请求]
 comments: true

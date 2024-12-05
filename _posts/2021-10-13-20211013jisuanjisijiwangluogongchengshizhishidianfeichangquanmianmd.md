@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机四级网络工程师知识点（非常全面！）"
+title: "计算机四级网络工程师知识点非常全面"
 date:   2024-09-06
 tags: [知识点,复习,资源,Internet,文件]
 comments: true

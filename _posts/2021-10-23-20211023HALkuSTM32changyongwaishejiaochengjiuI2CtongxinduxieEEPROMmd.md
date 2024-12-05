@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库STM32常用外设教程（九）—— I2C通信（读写EEPROM）"
+title: "HAL库STM32常用外设教程九 I2C通信读写EEPROM"
 date:   2021-09-09
 tags: [I2C,STM32,EEPROM,HAL,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flexray 总线2.1标准中文翻译版"
+title: "Flexray 总线21标准中文翻译版"
 date:   2021-04-08
 tags: [Flexray,总线,中文翻译,2.1,标准]
 comments: true

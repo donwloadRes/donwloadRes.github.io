@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO格式的DOTA遥感数据集(HBB水平框)"
+title: "YOLO格式的DOTA遥感数据集HBB水平框"
 date:   2022-09-25
 tags: [YOLO,DOTA,格式,数据,转换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于灰狼算法(GWO)优化的高斯过程回归(GWO-GPR)数据回归预测 Matlab 实现"
+title: "基于灰狼算法GWO优化的高斯过程回归GWOGPR数据回归预测 Matlab 实现"
 date:   2024-12-03
 tags: [GWO,GPR,回归,算法,灰狼]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST—FOC4.2电机库全中文指南"
+title: "STFOC42电机库全中文指南"
 date:   2023-02-08
 tags: [电机,FOC,STM32,指南,全中文]
 comments: true

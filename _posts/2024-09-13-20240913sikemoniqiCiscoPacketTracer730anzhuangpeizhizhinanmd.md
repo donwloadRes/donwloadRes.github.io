@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思科模拟器Cisco Packet Tracer 7.3.0安装配置指南"
+title: "思科模拟器Cisco Packet Tracer 730安装配置指南"
 date:   2024-11-19
 tags: [Cisco,Packet,Tracer,安装,7.3]
 comments: true

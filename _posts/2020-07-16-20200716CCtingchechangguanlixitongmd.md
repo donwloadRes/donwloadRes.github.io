@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++停车场管理系统"
+title: "CC停车场管理系统"
 date:   2021-12-23
 tags: [停车场,车位,停车费,车辆,计算]
 comments: true

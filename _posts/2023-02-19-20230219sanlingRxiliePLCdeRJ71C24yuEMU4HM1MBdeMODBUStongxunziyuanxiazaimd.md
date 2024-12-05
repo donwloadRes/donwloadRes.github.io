@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱R系列PLC的RJ71C24与EMU4-HM1-MB的MODBUS通讯资源下载"
+title: "三菱R系列PLC的RJ71C24与EMU4HM1MB的MODBUS通讯资源下载"
 date:   2024-07-04
 tags: [通讯,MODBUS,EMU4,HM1,MB]
 comments: true

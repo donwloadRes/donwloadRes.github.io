@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "血泪经验总结：Win10离线安装.NET Framework 3.5完全指南"
+title: "血泪经验总结Win10离线安装NET Framework 35完全指南"
 date:   2022-06-05
 tags: [NET,3.5,Windows,离线,安装]
 comments: true

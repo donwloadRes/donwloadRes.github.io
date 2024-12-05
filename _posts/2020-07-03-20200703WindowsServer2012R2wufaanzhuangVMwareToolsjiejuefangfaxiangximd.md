@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012 R2 无法安装 VMware Tools 解决方法（详细）"
+title: "Windows Server 2012 R2 无法安装 VMware Tools 解决方法详细"
 date:   2024-03-29
 tags: [VMware,安装,Tools,Windows,Server]
 comments: true

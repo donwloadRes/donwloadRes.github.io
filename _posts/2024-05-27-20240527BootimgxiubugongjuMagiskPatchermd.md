@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boot.img 修补工具 - Magisk Patcher"
+title: "Bootimg 修补工具  Magisk Patcher"
 date:   2024-03-20
 tags: [修补,BOOT,工具,Boot,img]
 comments: true

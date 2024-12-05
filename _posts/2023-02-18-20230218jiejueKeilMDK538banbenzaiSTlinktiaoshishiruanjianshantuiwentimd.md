@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Keil MDK 5.38版本在STlink调试时软件闪退问题"
+title: "解决Keil MDK 538版本在STlink调试时软件闪退问题"
 date:   2024-01-21
 tags: [Keil,MDK,5.38,STlink,闪退]
 comments: true

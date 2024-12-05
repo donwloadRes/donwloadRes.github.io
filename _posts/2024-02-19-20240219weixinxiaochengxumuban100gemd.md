@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序模板-100个"
+title: "微信小程序模板100个"
 date:   2023-03-24
 tags: [模板,微信,100,程序,开发者]
 comments: true

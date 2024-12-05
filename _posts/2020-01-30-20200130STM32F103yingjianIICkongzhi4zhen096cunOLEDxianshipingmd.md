@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103硬件IIC控制4针0.96寸OLED显示屏"
+title: "STM32F103硬件IIC控制4针096寸OLED显示屏"
 date:   2022-08-02
 tags: [OLED,STM32F103,IIC,硬件,显示屏]
 comments: true

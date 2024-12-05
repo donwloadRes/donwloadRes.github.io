@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoJSON、SHP、Shapefile 转 3D 城市模型（OBJ、GLTF、STL）带贴图和 UV 坐标导出"
+title: "GeoJSONSHPShapefile 转 3D 城市模型OBJGLTFSTL带贴图和 UV 坐标导出"
 date:   2020-11-19
 tags: [模型,导出,贴图,UV,格式]
 comments: true

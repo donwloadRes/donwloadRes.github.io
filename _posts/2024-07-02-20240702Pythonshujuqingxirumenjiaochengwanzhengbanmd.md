@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据清洗入门教程（完整版）"
+title: "Python数据清洗入门教程完整版"
 date:   2020-08-26
 tags: [数据,清洗,Python,入门教程,数据分析]
 comments: true

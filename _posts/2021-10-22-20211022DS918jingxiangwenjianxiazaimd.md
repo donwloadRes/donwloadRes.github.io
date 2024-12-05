@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS918+ 镜像文件下载"
+title: "DS918 镜像文件下载"
 date:   2024-02-17
 tags: [镜像文件,DS918,6.2,23824,下载]
 comments: true

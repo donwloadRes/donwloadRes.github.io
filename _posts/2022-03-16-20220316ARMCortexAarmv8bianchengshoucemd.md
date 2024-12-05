@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-A(armv8)编程手册"
+title: "ARM CortexAarmv8编程手册"
 date:   2021-03-09
 tags: [Cortex,ARM,A8,编程,架构]
 comments: true

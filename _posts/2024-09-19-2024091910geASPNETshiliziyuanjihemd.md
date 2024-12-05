@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10个ASP.NET示例资源集合"
+title: "10个ASPNET示例资源集合"
 date:   2021-09-16
 tags: [NET,ASP,项目,学习,开发者]
 comments: true

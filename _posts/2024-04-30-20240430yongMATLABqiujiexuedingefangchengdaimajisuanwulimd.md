@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用MATLAB求解薛定谔方程代码 - 计算物理"
+title: "用MATLAB求解薛定谔方程代码  计算物理"
 date:   2021-05-02
 tags: [代码,MATLAB,求解,薛定谔,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22 资源文件下载"
+title: "TDCGP22 资源文件下载"
 date:   2021-09-27
 tags: [TDC,GP22,芯片,文件,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球船舶MMSI IMO name callsign 19万+数据下载仓库"
+title: "全球船舶MMSI IMO name callsign 19万数据下载仓库"
 date:   2021-10-25
 tags: [SQL,MySQL,导入,文件,船舶]
 comments: true

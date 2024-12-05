@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Sensors Journal期刊模板（WORD版）下载"
+title: "IEEE Sensors Journal期刊模板WORD版下载"
 date:   2024-05-28
 tags: [模板,IEEE,Sensors,Journal,WOR]
 comments: true

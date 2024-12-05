@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析可视化-期末大作业-从获取到实现"
+title: "Python数据分析可视化期末大作业从获取到实现"
 date:   2024-07-29
 tags: [可视化,数据,Python,采集器,数据分析]
 comments: true

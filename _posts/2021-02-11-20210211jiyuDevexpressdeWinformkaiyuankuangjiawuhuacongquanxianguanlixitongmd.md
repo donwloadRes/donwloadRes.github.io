@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Devexpress的Winform开源框架 - 伍华聪权限管理系统"
+title: "基于Devexpress的Winform开源框架  伍华聪权限管理系统"
 date:   2020-02-13
 tags: [资源,下载,Devexpress,Winform,开源]
 comments: true

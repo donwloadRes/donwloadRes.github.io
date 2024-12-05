@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue人力资源管理系统答辩PPT"
+title: "SpringBootVue人力资源管理系统答辩PPT"
 date:   2022-02-12
 tags: [PPT,答辩,SpringBoot,Vue,毕业设计]
 comments: true

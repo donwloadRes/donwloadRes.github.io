@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".trc 文件转换为 .asc 文件的资源"
+title: "trc 文件转换为 asc 文件的资源"
 date:   2023-12-24
 tags: [转换,trc,asc,文件,资源库]
 comments: true

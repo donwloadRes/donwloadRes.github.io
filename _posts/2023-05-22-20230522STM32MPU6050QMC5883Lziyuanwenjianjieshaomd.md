@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+MPU6050+QMC5883L 资源文件介绍"
+title: "STM32MPU6050QMC5883L 资源文件介绍"
 date:   2021-06-22
 tags: [代码,角度,数据,文件,STM32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抢课脚本(Python代码实现)"
+title: "抢课脚本Python代码实现"
 date:   2023-08-14
 tags: [脚本,抢课,Python,湘潭,确保您]
 comments: true

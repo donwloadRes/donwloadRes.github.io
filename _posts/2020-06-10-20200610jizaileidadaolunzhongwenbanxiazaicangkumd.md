@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机载雷达导论（中文版）下载仓库"
+title: "机载雷达导论中文版下载仓库"
 date:   2022-05-21
 tags: [中文版,机载雷达,导论,雷达,仓库]
 comments: true

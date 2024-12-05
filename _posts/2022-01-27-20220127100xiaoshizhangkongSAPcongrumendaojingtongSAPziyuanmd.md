@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100小时掌控SAP - 从入门到精通SAP资源"
+title: "100小时掌控SAP  从入门到精通SAP资源"
 date:   2020-11-30
 tags: [SAP,100,精通,入门,小时]
 comments: true

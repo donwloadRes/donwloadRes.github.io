@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC电脑播放DV(Dolby Vision)视频片源，windows10安装包"
+title: "PC电脑播放DVDolby Vision视频片源windows10安装包"
 date:   2024-04-22
 tags: [播放,插件,Dolby,Vision,Windows]
 comments: true

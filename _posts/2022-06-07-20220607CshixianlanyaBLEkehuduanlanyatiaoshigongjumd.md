@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 实现 蓝牙BLE客户端（蓝牙调试工具）"
+title: "C 实现 蓝牙BLE客户端蓝牙调试工具"
 date:   2021-07-02
 tags: [蓝牙,BLE,ID,代码,调试]
 comments: true

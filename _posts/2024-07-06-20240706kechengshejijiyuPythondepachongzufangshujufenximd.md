@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "课程设计：基于Python的爬虫租房数据分析"
+title: "课程设计基于Python的爬虫租房数据分析"
 date:   2020-12-19
 tags: [Python,数据分析,租房,数据,爬虫]
 comments: true

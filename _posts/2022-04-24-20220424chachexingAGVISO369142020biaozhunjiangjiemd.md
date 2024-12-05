@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "叉车型AGV - ISO 3691-4-2020标准讲解"
+title: "叉车型AGV  ISO 369142020标准讲解"
 date:   2021-01-26
 tags: [AGV,叉车,ISO,3691,2020]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse+MySQL+JavaSwing选课成绩管理系统"
+title: "EclipseMySQLJavaSwing选课成绩管理系统"
 date:   2021-03-05
 tags: [数据库,Java,MySQL,选课,Eclipse]
 comments: true

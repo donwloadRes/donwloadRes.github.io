@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序案例：本地生活"
+title: "微信小程序案例本地生活"
 date:   2024-07-26
 tags: [微信,页面,本地,程序,项目]
 comments: true

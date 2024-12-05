@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024电赛STM32+OpenMV版完整资源（小车控制方案展示）"
+title: "2024电赛STM32OpenMV版完整资源小车控制方案展示"
 date:   2023-05-11
 tags: [小车,传感器,电赛,灰度,摄像头]
 comments: true

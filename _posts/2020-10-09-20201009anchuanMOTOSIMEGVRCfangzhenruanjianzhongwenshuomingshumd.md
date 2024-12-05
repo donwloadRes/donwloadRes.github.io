@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川MOTOSIM-EG-VRC仿真软件中文说明书"
+title: "安川MOTOSIMEGVRC仿真软件中文说明书"
 date:   2022-06-26
 tags: [机器人,仿真,安川,软件,MOTOSIM]
 comments: true

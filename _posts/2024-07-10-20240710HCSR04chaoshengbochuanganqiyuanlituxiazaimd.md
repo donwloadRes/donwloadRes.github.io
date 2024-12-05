@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-SR04超声波传感器原理图下载"
+title: "HCSR04超声波传感器原理图下载"
 date:   2024-04-12
 tags: [原理图,HC,SR04,超声波,传感器]
 comments: true

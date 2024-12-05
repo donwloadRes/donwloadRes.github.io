@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于贝叶斯理论的图像分割实现（MATLAB）"
+title: "基于贝叶斯理论的图像分割实现MATLAB"
 date:   2020-09-12
 tags: [MATLAB,贝叶斯,图像,分割,算法]
 comments: true

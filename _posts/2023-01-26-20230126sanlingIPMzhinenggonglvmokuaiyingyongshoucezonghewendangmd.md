@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱IPM智能功率模块应用手册-综合文档"
+title: "三菱IPM智能功率模块应用手册综合文档"
 date:   2023-10-13
 tags: [IPM,模块,应用,本手册,三菱]
 comments: true

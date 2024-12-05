@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 镜像下载"
+title: "CentOS 76 镜像下载"
 date:   2020-10-01
 tags: [CentOS,7.6,镜像,下载,镜像文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全Python netmiko库实现自动化备份网络设备配置、路由、CPU、内存、电源等"
+title: "全网最全Python netmiko库实现自动化备份网络设备配置路由CPU内存电源等"
 date:   2022-09-20
 tags: [Python,1.1,网络设备,设备,CPU]
 comments: true

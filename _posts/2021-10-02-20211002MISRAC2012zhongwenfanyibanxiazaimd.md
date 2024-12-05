@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISRA-C 2012 中文翻译版下载"
+title: "MISRAC 2012 中文翻译版下载"
 date:   2023-09-22
 tags: [MISRA,2012,中文翻译,嵌入式,C语言]
 comments: true

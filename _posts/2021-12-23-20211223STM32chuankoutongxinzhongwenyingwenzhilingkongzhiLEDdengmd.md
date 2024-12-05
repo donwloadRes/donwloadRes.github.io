@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口通信：中文英文指令控制LED灯"
+title: "STM32串口通信中文英文指令控制LED灯"
 date:   2023-09-15
 tags: [串口,单片机,指令,STM32,绿灯]
 comments: true

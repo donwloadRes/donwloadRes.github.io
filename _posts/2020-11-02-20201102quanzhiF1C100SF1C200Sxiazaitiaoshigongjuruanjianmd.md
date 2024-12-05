@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志F1C100S、F1C200S下载调试工具软件"
+title: "全志F1C100SF1C200S下载调试工具软件"
 date:   2021-11-22
 tags: [调试,全志,固件,串口,SD]
 comments: true

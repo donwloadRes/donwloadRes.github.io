@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 生成 QXlsx 库，亲测可用"
+title: "QT 生成 QXlsx 库亲测可用"
 date:   2022-12-07
 tags: [QT,QXlsx,文件,生成,资源]
 comments: true

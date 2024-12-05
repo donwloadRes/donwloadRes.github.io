@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测—基于Yolov5的目标检测项目（学习笔记）"
+title: "目标检测基于Yolov5的目标检测项目学习笔记"
 date:   2023-01-07
 tags: [训练,Yolov5,模型,检测,目标]
 comments: true

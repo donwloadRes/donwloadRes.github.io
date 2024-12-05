@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++项目实例案例资源库"
+title: "C项目实例案例资源库"
 date:   2024-05-21
 tags: [资源库,实例,C++,com,项目]
 comments: true

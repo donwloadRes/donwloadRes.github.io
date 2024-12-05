@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python移动APP开发之Kivy（二）——第一个APP"
+title: "Python移动APP开发之Kivy二第一个APP"
 date:   2022-04-16
 tags: [Kivy,APP,打包,Python,文件]
 comments: true

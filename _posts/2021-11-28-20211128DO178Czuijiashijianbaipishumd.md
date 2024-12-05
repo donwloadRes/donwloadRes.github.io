@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DO-178C 最佳实践白皮书"
+title: "DO178C 最佳实践白皮书"
 date:   2022-04-10
 tags: [DO,178C,白皮书,最佳,实践]
 comments: true

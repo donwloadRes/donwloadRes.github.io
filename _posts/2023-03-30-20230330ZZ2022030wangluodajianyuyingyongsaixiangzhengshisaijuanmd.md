@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZZ-2022030 网络搭建与应用赛项正式赛卷"
+title: "ZZ2022030 网络搭建与应用赛项正式赛卷"
 date:   2022-09-07
 tags: [赛卷,赛项,搭建,网络,应用]
 comments: true

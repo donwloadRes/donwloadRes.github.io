@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GR-468-CORE V.2 光通信测试标准文件"
+title: "GR468CORE V2 光通信测试标准文件"
 date:   2020-03-01
 tags: [GR,468,CORE,V.2,光通信]
 comments: true

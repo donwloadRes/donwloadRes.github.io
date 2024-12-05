@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iPerf3.apk：高效网络带宽测试工具"
+title: "iPerf3apk高效网络带宽测试工具"
 date:   2021-12-25
 tags: [iPerf3,网络,测试,apk,Android]
 comments: true

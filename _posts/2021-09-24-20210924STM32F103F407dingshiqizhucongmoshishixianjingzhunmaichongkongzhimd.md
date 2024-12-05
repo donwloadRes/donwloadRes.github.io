@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32：F103-F407定时器主从模式实现精准脉冲控制"
+title: "STM32F103F407定时器主从模式实现精准脉冲控制"
 date:   2020-12-28
 tags: [STM32,定时器,脉冲,主从,控制]
 comments: true

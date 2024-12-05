@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#二维码解析库整合：ZXing、ZBar、ThoughtWorks QRCode"
+title: "C二维码解析库整合ZXingZBarThoughtWorks QRCode"
 date:   2023-01-03
 tags: [二维码,NET,ZXing,源码,ZBar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android使用libvlc播放流媒体、视频示例"
+title: "Android使用libvlc播放流媒体视频示例"
 date:   2020-11-29
 tags: [libvlc,Android,demo,播放,视频]
 comments: true

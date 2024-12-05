@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus TCP连接PLC寄存器读取与写入源代码"
+title: "C Modbus TCP连接PLC寄存器读取与写入源代码"
 date:   2023-02-12
 tags: [C#,PLC,源代码,Modbus,TCP]
 comments: true

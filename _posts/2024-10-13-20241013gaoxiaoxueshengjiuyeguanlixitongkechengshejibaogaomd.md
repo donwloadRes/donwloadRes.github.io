@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高校学生就业管理系统 - 课程设计报告"
+title: "高校学生就业管理系统  课程设计报告"
 date:   2022-06-21
 tags: [就业,高校学生,课程设计,管理系统,报告]
 comments: true

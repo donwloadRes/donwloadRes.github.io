@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人C++库（最新版Robot Library）"
+title: "机器人C库最新版Robot Library"
 date:   2022-07-27
 tags: [机器人,最新版,该库,向量,C++]
 comments: true

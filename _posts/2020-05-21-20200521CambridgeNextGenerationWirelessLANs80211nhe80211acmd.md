@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cambridge.Next Generation Wireless LANs.802.11n和802.11ac"
+title: "CambridgeNext Generation Wireless LANs80211n和80211ac"
 date:   2022-01-02
 tags: [802.11,ac,Cambridge,11n,Next]
 comments: true

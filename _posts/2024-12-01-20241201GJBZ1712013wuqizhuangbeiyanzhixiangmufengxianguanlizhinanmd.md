@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJBZ 171-2013 武器装备研制项目风险管理指南"
+title: "GJBZ 1712013 武器装备研制项目风险管理指南"
 date:   2022-07-23
 tags: [指南,项目,武器装备,风险管理,研制]
 comments: true

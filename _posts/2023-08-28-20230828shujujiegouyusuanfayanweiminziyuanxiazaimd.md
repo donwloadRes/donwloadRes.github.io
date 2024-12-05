@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法(严蔚敏) 资源下载"
+title: "数据结构与算法严蔚敏 资源下载"
 date:   2021-10-21
 tags: [数据结构,严蔚敏,算法,下载,资源]
 comments: true

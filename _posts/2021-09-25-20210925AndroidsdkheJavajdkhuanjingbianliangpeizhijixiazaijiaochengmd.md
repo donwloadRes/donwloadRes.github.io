@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android-sdk和Java-jdk环境变量配置及下载教程"
+title: "Androidsdk和Javajdk环境变量配置及下载教程"
 date:   2023-12-02
 tags: [Android,SDK,Java,环境变量,JDK]
 comments: true

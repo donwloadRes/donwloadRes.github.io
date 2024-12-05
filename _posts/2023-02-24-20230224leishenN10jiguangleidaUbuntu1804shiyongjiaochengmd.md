@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "镭神N10激光雷达Ubuntu18.04使用教程"
+title: "镭神N10激光雷达Ubuntu1804使用教程"
 date:   2020-09-22
 tags: [N10,激光雷达,launch,ROS,lslidar]
 comments: true

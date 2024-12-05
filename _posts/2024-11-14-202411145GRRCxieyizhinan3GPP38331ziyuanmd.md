@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G RRC协议指南：3GPP 38.331 资源"
+title: "5G RRC协议指南3GPP 38331 资源"
 date:   2023-06-28
 tags: [5G,3GPP,RRC,38.331,资源]
 comments: true

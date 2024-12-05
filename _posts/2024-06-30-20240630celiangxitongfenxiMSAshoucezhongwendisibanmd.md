@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测量系统分析(MSA)手册 中文第四版"
+title: "测量系统分析MSA手册 中文第四版"
 date:   2021-02-10
 tags: [测量,手册,系统分析,MSA,第四版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDS诊断入门.pdf"
+title: "UDS诊断入门pdf"
 date:   2020-10-25
 tags: [UDS,诊断,pdf,入门,车辆]
 comments: true

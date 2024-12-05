@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战：异常检测方法详解"
+title: "机器学习实战异常检测方法详解"
 date:   2024-04-27
 tags: [可视化,异常,检测,模型,数据]
 comments: true

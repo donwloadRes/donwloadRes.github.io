@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tesseract4.1 OCR 64位DLL库资源"
+title: "tesseract41 OCR 64位DLL库资源"
 date:   2022-01-05
 tags: [64,DLL,Tesseract,tesseract4.1,OCR]
 comments: true

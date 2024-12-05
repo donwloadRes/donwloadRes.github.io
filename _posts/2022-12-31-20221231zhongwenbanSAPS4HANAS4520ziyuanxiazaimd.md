@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文版-SAP-S4-HANA-S4520 资源下载"
+title: "中文版SAPS4HANAS4520 资源下载"
 date:   2022-10-15
 tags: [SAP,HANA,S4520,中文版,S4]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4 远程升级（IAP）示例工程"
+title: "STM32L4 远程升级IAP示例工程"
 date:   2022-07-30
 tags: [IAP,STM32L4,文件,示例,工程]
 comments: true

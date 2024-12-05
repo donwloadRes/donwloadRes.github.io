@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【网页设计作业】利用HTML搭建个人博客网页"
+title: "网页设计作业利用HTML搭建个人博客网页"
 date:   2021-06-05
 tags: [网页,HTML,CSS,md,博客]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凸优化（课后答案）"
+title: "凸优化课后答案"
 date:   2020-12-09
 tags: [优化,学习,课后,答案,资源]
 comments: true

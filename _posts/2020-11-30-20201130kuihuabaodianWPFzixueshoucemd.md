@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "葵花宝典--WPF自学手册"
+title: "葵花宝典WPF自学手册"
 date:   2021-12-24
 tags: [WPF,葵花宝典,--,手册,自学]
 comments: true

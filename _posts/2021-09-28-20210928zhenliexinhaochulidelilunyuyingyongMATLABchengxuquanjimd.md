@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阵列信号处理的理论与应用——MATLAB程序全集"
+title: "阵列信号处理的理论与应用MATLAB程序全集"
 date:   2020-06-05
 tags: [MATLAB,阵列,信号处理,代码,理论]
 comments: true

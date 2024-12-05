@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "匿名凌霄FC资料包-20200503"
+title: "匿名凌霄FC资料包20200503"
 date:   2021-10-27
 tags: [飞控,凌霄,资料,FC,20200503]
 comments: true

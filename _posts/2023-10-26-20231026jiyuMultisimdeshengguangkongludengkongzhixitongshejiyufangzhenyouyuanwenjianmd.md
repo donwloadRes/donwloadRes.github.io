@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Multisim的声光控路灯控制系统设计与仿真（有源文件）"
+title: "基于Multisim的声光控路灯控制系统设计与仿真有源文件"
 date:   2020-06-20
 tags: [Multisim,仿真,源文件,路灯,光控]
 comments: true

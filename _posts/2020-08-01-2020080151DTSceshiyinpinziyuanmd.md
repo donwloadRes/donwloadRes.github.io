@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5.1 DTS 测试音频资源"
+title: "51 DTS 测试音频资源"
 date:   2023-03-04
 tags: [5.1,DTS,音箱,音频,输出]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VM Pro V0.0.1.2 - 视觉检测与运动控制平台源码"
+title: "VM Pro V0012  视觉检测与运动控制平台源码"
 date:   2021-11-13
 tags: [Halcon,1.2,视觉,源码,V0.0]
 comments: true

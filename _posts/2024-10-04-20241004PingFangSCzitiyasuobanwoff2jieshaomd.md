@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PingFang SC 字体压缩版 (woff2) 介绍"
+title: "PingFang SC 字体压缩版 woff2 介绍"
 date:   2022-04-27
 tags: [字体,woff2,PingFangSC,CSS,font]
 comments: true

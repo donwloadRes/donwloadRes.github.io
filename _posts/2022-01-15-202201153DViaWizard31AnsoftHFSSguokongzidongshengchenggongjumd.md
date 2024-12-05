@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D Via Wizard 3.1 - Ansoft HFSS 过孔自动生成工具"
+title: "3D Via Wizard 31  Ansoft HFSS 过孔自动生成工具"
 date:   2022-01-31
 tags: [Ansoft,HFSS,设计,3D,Via]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes（K8S）集群部署搭建图文教程（最全）"
+title: "KubernetesK8S集群部署搭建图文教程最全"
 date:   2023-03-19
 tags: [Kubernetes,部署,教程,集群,Harbor]
 comments: true

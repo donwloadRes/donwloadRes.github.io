@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "进程间同步互斥问题——银行柜员服务问题1"
+title: "进程间同步互斥问题银行柜员服务问题1"
 date:   2022-05-09
 tags: [柜员,互斥,代码,同步,顾客]
 comments: true

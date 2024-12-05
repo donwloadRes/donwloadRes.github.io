@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习框架PyTorch：入门与实践_高清1"
+title: "深度学习框架PyTorch入门与实践高清1"
 date:   2022-02-15
 tags: [PyTorch,深度,学习,实践,入门]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nRF52832 中文芯片手册 V1.4 下载"
+title: "nRF52832 中文芯片手册 V14 下载"
 date:   2022-10-23
 tags: [手册,nRF52832,中文,芯片,V1.4]
 comments: true

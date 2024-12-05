@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1939协议文档库（完整版，双语对照）"
+title: "SAE J1939协议文档库完整版双语对照"
 date:   2022-02-12
 tags: [J1939,SAE,文档,协议,双语]
 comments: true

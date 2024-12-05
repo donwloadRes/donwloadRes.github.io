@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "万众期待：Guitarpro 8.1.1.17全新简谱模式强力上线！"
+title: "万众期待Guitarpro 81117全新简谱模式强力上线"
 date:   2024-06-04
 tags: [简谱,Guitarpro,1.17,8.1,用户]
 comments: true

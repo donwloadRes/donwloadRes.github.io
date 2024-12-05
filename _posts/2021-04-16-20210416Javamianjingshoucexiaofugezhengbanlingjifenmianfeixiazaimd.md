@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 面经手册·小傅哥正版零积分免费下载"
+title: "Java 面经手册小傅哥正版零积分免费下载"
 date:   2021-10-27
 tags: [Java,源码,面经,面试,实践]
 comments: true

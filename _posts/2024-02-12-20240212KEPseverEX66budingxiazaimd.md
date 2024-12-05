@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEPsever EX6.6补丁下载"
+title: "KEPsever EX66补丁下载"
 date:   2020-10-19
 tags: [补丁,KEPsever,安装,EX6.6,下载]
 comments: true

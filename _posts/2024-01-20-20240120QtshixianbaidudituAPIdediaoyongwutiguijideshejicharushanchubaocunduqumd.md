@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现百度地图API的调用——物体轨迹的设计、插入、删除、保存、读取"
+title: "Qt实现百度地图API的调用物体轨迹的设计插入删除保存读取"
 date:   2021-02-12
 tags: [轨迹,API,地图,Qt,读取]
 comments: true

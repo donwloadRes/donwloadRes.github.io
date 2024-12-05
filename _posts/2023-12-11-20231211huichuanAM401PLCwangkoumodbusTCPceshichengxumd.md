@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川AM401PLC网口modbus-TCP测试程序"
+title: "汇川AM401PLC网口modbusTCP测试程序"
 date:   2022-03-26
 tags: [PLC,测试程序,TCP,汇川,modbus]
 comments: true

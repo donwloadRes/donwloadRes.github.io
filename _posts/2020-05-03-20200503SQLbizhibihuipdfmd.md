@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL必知必会.pdf"
+title: "SQL必知必会pdf"
 date:   2021-08-18
 tags: [SQL,必知,查询,必会,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVI接口协议1.0版本中文版资源下载"
+title: "DVI接口协议10版本中文版资源下载"
 date:   2022-02-14
 tags: [DVI,接口协议,1.0,中文版,docx]
 comments: true

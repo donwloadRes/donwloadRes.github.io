@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop 2022 增效工具：ICOFormat.8bi（PS ico插件）"
+title: "Photoshop 2022 增效工具ICOFormat8biPS ico插件"
 date:   2024-05-20
 tags: [Photoshop,ico,插件,文件,2022]
 comments: true

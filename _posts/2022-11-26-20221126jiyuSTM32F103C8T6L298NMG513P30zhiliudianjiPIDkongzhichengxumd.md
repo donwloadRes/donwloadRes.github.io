@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6 + L298N + MG513P30直流电机PID控制程序"
+title: "基于STM32F103C8T6  L298N  MG513P30直流电机PID控制程序"
 date:   2020-08-04
 tags: [PID,直流电机,L298N,STM32F103C8T6,MG513P30]
 comments: true

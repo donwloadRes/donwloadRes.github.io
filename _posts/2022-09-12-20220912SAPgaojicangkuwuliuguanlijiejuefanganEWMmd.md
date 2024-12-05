@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP 高级仓库物流管理解决方案——EWM"
+title: "SAP 高级仓库物流管理解决方案EWM"
 date:   2021-06-29
 tags: [EWM,仓库,SAP,物流,解决方案]
 comments: true

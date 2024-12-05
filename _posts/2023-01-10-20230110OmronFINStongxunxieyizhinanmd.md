@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Omron-FINS通讯协议指南"
+title: "OmronFINS通讯协议指南"
 date:   2022-04-06
 tags: [Omron,FINS,通讯,指南,文档]
 comments: true

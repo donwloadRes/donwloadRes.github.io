@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "web网页设计作业 - 旅游网"
+title: "web网页设计作业  旅游网"
 date:   2021-12-31
 tags: [网页,设计,CSS,旅游网,页面]
 comments: true

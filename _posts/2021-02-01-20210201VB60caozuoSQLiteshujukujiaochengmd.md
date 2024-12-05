@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB 6.0操作SQLite数据库教程"
+title: "VB 60操作SQLite数据库教程"
 date:   2024-07-12
 tags: [SQLite,VB,6.0,数据库,教程]
 comments: true

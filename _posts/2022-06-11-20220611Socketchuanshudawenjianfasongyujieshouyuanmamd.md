@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socket传输大文件(发送与接收源码)"
+title: "Socket传输大文件发送与接收源码"
 date:   2021-11-06
 tags: [文件,服务端,客户端,传输,Socket]
 comments: true

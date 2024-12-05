@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 下 Qt5 开发环境搭建指南"
+title: "Ubuntu 1804 下 Qt5 开发环境搭建指南"
 date:   2020-05-15
 tags: [Qt5,指南,安装,Ubuntu,美化]
 comments: true

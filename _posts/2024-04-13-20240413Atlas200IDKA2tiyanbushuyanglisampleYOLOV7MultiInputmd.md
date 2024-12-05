@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atlas 200I DK A2 体验：部署样例 sampleYOLOV7MultiInput"
+title: "Atlas 200I DK A2 体验部署样例 sampleYOLOV7MultiInput"
 date:   2020-12-04
 tags: [Atlas,200I,DK,A2,样例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT开发框架+插件模式+客户端服务端及插件调用示例"
+title: "QT开发框架插件模式客户端服务端及插件调用示例"
 date:   2021-05-20
 tags: [插件,示例,QT,开发,服务端]
 comments: true

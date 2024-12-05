@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNIST数据集（含jpg格式照片）下载仓库"
+title: "MNIST数据集含jpg格式照片下载仓库"
 date:   2022-12-21
 tags: [MNIST,文件,数据,格式,jpg]
 comments: true

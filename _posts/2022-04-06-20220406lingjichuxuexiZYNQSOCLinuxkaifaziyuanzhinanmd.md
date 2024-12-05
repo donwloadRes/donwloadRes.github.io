@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础学习ZYNQ+SOC+Linux开发资源指南"
+title: "零基础学习ZYNQSOCLinux开发资源指南"
 date:   2020-07-13
 tags: [ZYNQ,Linux,学习,编译,SOC]
 comments: true

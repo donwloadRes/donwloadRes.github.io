@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯 C++ 历年真题题解"
+title: "蓝桥杯 C 历年真题题解"
 date:   2021-11-28
 tags: [蓝桥,题解,编程,C++,真题]
 comments: true

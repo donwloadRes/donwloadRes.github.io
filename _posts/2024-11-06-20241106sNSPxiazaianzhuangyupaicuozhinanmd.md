@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sNSP 下载、安装与排错指南"
+title: "sNSP 下载安装与排错指南"
 date:   2024-07-09
 tags: [sNSP,安装,exe,下载,eNSP]
 comments: true

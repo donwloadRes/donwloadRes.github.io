@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT+C++的语音识别项目说明"
+title: "基于QTC的语音识别项目说明"
 date:   2020-08-11
 tags: [语音,识别,编码,QT,FLAC]
 comments: true

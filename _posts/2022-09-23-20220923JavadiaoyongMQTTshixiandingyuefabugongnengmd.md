@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java调用MQTT实现订阅-发布功能"
+title: "Java调用MQTT实现订阅发布功能"
 date:   2022-06-27
 tags: [MQTT,订阅,Java,MQTTUtils,测试代码]
 comments: true

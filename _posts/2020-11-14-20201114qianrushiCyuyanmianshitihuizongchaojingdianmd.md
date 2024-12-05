@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式C语言面试题汇总(超经典)"
+title: "嵌入式C语言面试题汇总超经典"
 date:   2020-09-22
 tags: [C语言,面试题,嵌入式,汇总,指针]
 comments: true

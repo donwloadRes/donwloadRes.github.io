@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle EBS 平均成本法（PAC）手册"
+title: "Oracle EBS 平均成本法PAC手册"
 date:   2020-01-08
 tags: [Oracle,EBS,PAC,手册,成本法]
 comments: true

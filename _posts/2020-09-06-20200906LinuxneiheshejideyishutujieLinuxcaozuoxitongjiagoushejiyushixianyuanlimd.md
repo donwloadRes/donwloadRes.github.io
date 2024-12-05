@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理"
+title: "Linux内核设计的艺术图解Linux操作系统架构设计与实现原理"
 date:   2022-11-28
 tags: [Linux,内核,操作系统,图解,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exocad 数字化牙科CAD-CAM软件介绍文档"
+title: "Exocad 数字化牙科CADCAM软件介绍文档"
 date:   2022-09-04
 tags: [Exocad,牙科,软件,数字化,文档]
 comments: true

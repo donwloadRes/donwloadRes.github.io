@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Vue+Django前后端分离项目实战"
+title: "PythonVueDjango前后端分离项目实战"
 date:   2024-09-23
 tags: [Vue,Django,js,前后,实战]
 comments: true

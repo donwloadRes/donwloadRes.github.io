@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon联合C#视觉框架资源下载"
+title: "Halcon联合C视觉框架资源下载"
 date:   2021-10-07
 tags: [Halcon,C#,视觉,开发者,文件]
 comments: true

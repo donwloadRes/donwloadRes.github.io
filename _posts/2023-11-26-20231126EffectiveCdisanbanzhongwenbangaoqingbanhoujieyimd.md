@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective C++ 第三版中文版高清版（侯捷 译）"
+title: "Effective C 第三版中文版高清版侯捷 译"
 date:   2023-01-26
 tags: [C++,编程,第三版,Effective,中文版]
 comments: true

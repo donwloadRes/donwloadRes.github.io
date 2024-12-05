@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记（5）——数码管驱动TM1650使用"
+title: "STM32F103学习笔记5数码管驱动TM1650使用"
 date:   2021-07-28
 tags: [TM1650,数码管,I2C,STM32F103,驱动]
 comments: true

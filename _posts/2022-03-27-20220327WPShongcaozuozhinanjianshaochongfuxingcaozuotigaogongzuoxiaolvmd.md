@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS宏操作指南：减少重复性操作，提高工作效率"
+title: "WPS宏操作指南减少重复性操作提高工作效率"
 date:   2020-04-15
 tags: [WPS,重复性,操作,使用,资源]
 comments: true

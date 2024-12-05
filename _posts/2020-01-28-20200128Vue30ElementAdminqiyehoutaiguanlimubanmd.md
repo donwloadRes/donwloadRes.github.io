@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3.0 Element Admin 企业后台管理模板"
+title: "Vue30 Element Admin 企业后台管理模板"
 date:   2024-07-06
 tags: [js,bash,Element,vue3.0,element]
 comments: true

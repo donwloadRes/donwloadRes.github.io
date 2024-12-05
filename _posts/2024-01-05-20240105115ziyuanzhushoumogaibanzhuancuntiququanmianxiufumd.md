@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "115资源助手魔改版 - 转存提取全面修复"
+title: "115资源助手魔改版  转存提取全面修复"
 date:   2022-01-24
 tags: [转存,115,扩展,提取,程序]
 comments: true

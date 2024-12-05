@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN总线标准ISO 11898-1-2015资源下载"
+title: "CAN总线标准ISO 1189812015资源下载"
 date:   2020-08-21
 tags: [总线,2015,文件,ISO11898,标准]
 comments: true

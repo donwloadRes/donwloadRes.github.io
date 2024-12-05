@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coremail-0day敏感文件泄露漏洞批量检测脚本"
+title: "Coremail0day敏感文件泄露漏洞批量检测脚本"
 date:   2020-11-25
 tags: [Coremail,漏洞,脚本,邮件系统,敏感]
 comments: true

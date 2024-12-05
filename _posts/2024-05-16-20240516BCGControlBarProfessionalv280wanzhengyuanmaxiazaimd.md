@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCGControlBar Professional v.28.0 完整源码下载"
+title: "BCGControlBar Professional v280 完整源码下载"
 date:   2021-02-04
 tags: [源码,BCGControlBar,Professional,Visual,Studio]
 comments: true

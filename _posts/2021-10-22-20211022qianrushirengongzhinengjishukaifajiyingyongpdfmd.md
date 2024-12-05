@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式人工智能技术开发及应用.pdf"
+title: "嵌入式人工智能技术开发及应用pdf"
 date:   2024-11-24
 tags: [嵌入式,AI,人工智能,应用,技术开发]
 comments: true

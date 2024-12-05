@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3 中安装 LTP 解决“Failed building wheel for pyltp”报错指南"
+title: "Python3 中安装 LTP 解决Failed building wheel for pyltp报错指南"
 date:   2023-05-11
 tags: [pyltp,Python,whl,安装,pip]
 comments: true

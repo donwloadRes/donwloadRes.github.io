@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计（第4版）》课件资源"
+title: "C语言程序设计第4版课件资源"
 date:   2021-04-06
 tags: [课件,C语言,程序设计,仓库,内容]
 comments: true

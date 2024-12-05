@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学大作业：OpenGL物联网小屋"
+title: "计算机图形学大作业OpenGL物联网小屋"
 date:   2022-05-25
 tags: [小屋,OpenGL,Visual,Studio,下载]
 comments: true

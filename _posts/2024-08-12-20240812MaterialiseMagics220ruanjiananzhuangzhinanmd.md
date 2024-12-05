@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Materialise Magics 22.0软件安装指南"
+title: "Materialise Magics 220软件安装指南"
 date:   2024-04-15
 tags: [Materialise,22.0,Magics,点击,选项]
 comments: true

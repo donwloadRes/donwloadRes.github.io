@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KPG-169D(C) V3.03 编程软件下载"
+title: "KPG169DC V303 编程软件下载"
 date:   2024-03-04
 tags: [编程,KPG,软件,169D,V3.03]
 comments: true

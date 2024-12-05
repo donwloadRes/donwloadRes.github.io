@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设项目：智能窗帘系统（WIFI+云平台+STM32）"
+title: "物联网毕设项目智能窗帘系统WIFI云平台STM32"
 date:   2022-01-18
 tags: [窗帘,APP,WIFI,STM32,控制]
 comments: true

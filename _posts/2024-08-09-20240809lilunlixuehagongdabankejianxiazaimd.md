@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "理论力学（哈工大版）课件下载"
+title: "理论力学哈工大版课件下载"
 date:   2021-12-02
 tags: [课件,力学,哈工大,理论,下载]
 comments: true

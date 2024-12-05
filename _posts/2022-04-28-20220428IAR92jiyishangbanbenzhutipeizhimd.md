@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR9.2及以上版本主题配置"
+title: "IAR92及以上版本主题配置"
 date:   2023-11-17
 tags: [主题,IAR9.2,配置文件,版本,以上]
 comments: true

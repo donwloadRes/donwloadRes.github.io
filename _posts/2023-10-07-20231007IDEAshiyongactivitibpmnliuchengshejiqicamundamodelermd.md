@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA使用activiti bpmn流程设计器camunda-modeler"
+title: "IDEA使用activiti bpmn流程设计器camundamodeler"
 date:   2022-01-04
 tags: [camunda,modeler,IDEA,流程,设计]
 comments: true

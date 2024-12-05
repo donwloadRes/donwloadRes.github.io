@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手（中英文版）"
+title: "串口调试助手中英文版"
 date:   2021-04-25
 tags: [串口,调试,助手,英文版,测试]
 comments: true

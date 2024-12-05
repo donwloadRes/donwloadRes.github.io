@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web安全漏洞加固手册 V2.0 下载仓库"
+title: "Web安全漏洞加固手册 V20 下载仓库"
 date:   2023-12-18
 tags: [Web,安全漏洞,手册,V2.0,加固]
 comments: true

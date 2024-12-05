@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轴承故障诊断Matlab代码实现（四种高效方法）"
+title: "轴承故障诊断Matlab代码实现四种高效方法"
 date:   2024-10-12
 tags: [轴承,故障,分析,代码,方法]
 comments: true

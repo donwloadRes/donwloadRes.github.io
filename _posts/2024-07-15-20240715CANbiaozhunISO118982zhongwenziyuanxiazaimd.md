@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN标准ISO11898-2-中文资源下载"
+title: "CAN标准ISO118982中文资源下载"
 date:   2024-01-02
 tags: [总线,文档,资源,下载,ISO11898]
 comments: true

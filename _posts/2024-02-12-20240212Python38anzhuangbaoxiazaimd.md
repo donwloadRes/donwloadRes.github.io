@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 安装包下载"
+title: "Python 38 安装包下载"
 date:   2024-11-12
 tags: [Python,3.8,安装包,python3.8,下载]
 comments: true

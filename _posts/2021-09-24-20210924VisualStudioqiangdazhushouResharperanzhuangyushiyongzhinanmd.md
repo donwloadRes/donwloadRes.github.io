@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 强大助手：Resharper 安装与使用指南"
+title: "Visual Studio 强大助手Resharper 安装与使用指南"
 date:   2020-02-23
 tags: [代码,Resharper,Visual,Studio,安装]
 comments: true

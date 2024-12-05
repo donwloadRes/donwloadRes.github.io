@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HALCON各种定位方法-大恒.pdf 资源介绍"
+title: "HALCON各种定位方法大恒pdf 资源介绍"
 date:   2021-12-09
 tags: [HALCON,视觉,定位,大恒,pdf]
 comments: true

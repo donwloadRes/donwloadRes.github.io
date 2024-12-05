@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 7637-2-2011 汽车电子EMC测试标准文件"
+title: "ISO 763722011 汽车电子EMC测试标准文件"
 date:   2023-09-03
 tags: [ISO,2011,7637,文件,汽车]
 comments: true

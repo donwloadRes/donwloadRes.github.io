@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL入门经典（第5版）资源下载"
+title: "SQL入门经典第5版资源下载"
 date:   2022-09-09
 tags: [SQL,入门,初学者,书中,读者]
 comments: true

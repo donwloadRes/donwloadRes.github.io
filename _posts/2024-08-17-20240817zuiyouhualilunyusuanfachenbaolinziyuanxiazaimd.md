@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化理论与算法》－陈宝林 资源下载"
+title: "最优化理论与算法陈宝林 资源下载"
 date:   2022-11-18
 tags: [最优化,算法,理论,宝林,研究生]
 comments: true

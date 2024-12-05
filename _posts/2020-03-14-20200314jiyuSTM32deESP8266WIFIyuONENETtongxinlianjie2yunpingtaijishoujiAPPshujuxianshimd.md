@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的ESP8266 WIFI与ONENET通信连接（2）：云平台及手机APP数据显示"
+title: "基于STM32的ESP8266 WIFI与ONENET通信连接2云平台及手机APP数据显示"
 date:   2023-04-07
 tags: [ONENET,APP,STM32,ESP8266,WIFI]
 comments: true

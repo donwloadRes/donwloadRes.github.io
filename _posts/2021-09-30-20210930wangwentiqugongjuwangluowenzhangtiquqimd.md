@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网文提取工具 - 网络文章提取器"
+title: "网文提取工具  网络文章提取器"
 date:   2024-03-08
 tags: [提取,文本,网络,工具,优化]
 comments: true

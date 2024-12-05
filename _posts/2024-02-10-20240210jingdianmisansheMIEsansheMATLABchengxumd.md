@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典米散射（MIE散射）MATLAB程序"
+title: "经典米散射MIE散射MATLAB程序"
 date:   2024-05-07
 tags: [散射,程序,MATLAB,计算,散射系数]
 comments: true

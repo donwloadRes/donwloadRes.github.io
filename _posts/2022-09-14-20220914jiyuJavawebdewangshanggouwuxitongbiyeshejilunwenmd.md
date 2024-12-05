@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Javaweb的网上购物系统（毕业设计论文）"
+title: "基于Javaweb的网上购物系统毕业设计论文"
 date:   2023-02-15
 tags: [毕业设计,系统,设计,论文,Javaweb]
 comments: true

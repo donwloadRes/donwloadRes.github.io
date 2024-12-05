@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【嵌入式学习】STM32通过SPI协议驱动OLED显示屏实战指南"
+title: "嵌入式学习STM32通过SPI协议驱动OLED显示屏实战指南"
 date:   2024-09-13
 tags: [OLED,SPI,STM32,显示,嵌入式]
 comments: true

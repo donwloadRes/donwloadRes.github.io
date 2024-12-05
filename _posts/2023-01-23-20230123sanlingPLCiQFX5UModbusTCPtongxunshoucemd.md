@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC_iQ-FX5U-Modbus-TCP通讯手册"
+title: "三菱PLCiQFX5UModbusTCP通讯手册"
 date:   2024-01-15
 tags: [PLC,TCP,通讯,Modbus,iQ]
 comments: true

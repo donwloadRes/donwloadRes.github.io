@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十九届智能车竞赛-信标越野组方案分享"
+title: "十九届智能车竞赛信标越野组方案分享"
 date:   2021-06-27
 tags: [竞赛,信标,越野,智能,方案设计]
 comments: true

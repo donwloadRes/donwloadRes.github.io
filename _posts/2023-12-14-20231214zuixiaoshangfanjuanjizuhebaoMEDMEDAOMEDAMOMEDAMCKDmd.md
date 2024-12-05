@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小熵反卷积组合包（MED、MEDA、OMEDA、MOMEDA、MCKD）"
+title: "最小熵反卷积组合包MEDMEDAOMEDAMOMEDAMCKD"
 date:   2020-02-07
 tags: [卷积,最小,函数,文件,最优]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东方通 TongWeb7.0.4.2 企业版 64位 Linux-Windows系统双安装包"
+title: "东方通 TongWeb7042 企业版 64位 LinuxWindows系统双安装包"
 date:   2023-09-30
 tags: [安装包,TongWeb7.0,4.2,Key,Linux]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JD-GUI 反编译查看工具包官方绿色版"
+title: "JDGUI 反编译查看工具包官方绿色版"
 date:   2023-03-19
 tags: [反编译,查看,jar,绿色版,官方]
 comments: true

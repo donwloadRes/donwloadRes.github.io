@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全面了解DFT技术：如何测试一颗芯片"
+title: "全面了解DFT技术如何测试一颗芯片"
 date:   2021-02-13
 tags: [DFT,测试,芯片,技术,文件]
 comments: true

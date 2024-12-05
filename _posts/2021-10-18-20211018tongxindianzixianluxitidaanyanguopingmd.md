@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信电子线路习题答案(严国萍)"
+title: "通信电子线路习题答案严国萍"
 date:   2020-09-05
 tags: [习题,答案,电子线路,严国萍,解析]
 comments: true

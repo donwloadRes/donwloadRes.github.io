@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.x+Pyqt5实现界面左侧树形导航栏"
+title: "Python3xPyqt5实现界面左侧树形导航栏"
 date:   2021-10-31
 tags: [Pyqt5,Python3,示例,树形,导航]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普中DSP28335开发攻略.pdf"
+title: "普中DSP28335开发攻略pdf"
 date:   2022-06-20
 tags: [DSP28335,开发,普中,攻略,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.15.2在线下载工具"
+title: "Qt 5152在线下载工具"
 date:   2022-10-22
 tags: [Qt,下载,5.15,跨平台,下载工具]
 comments: true

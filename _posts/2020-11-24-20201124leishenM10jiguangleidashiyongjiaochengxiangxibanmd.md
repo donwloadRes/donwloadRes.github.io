@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "镭神M10激光雷达使用教程（详细版）"
+title: "镭神M10激光雷达使用教程详细版"
 date:   2021-04-21
 tags: [激光雷达,M10,编译,ROS,教程]
 comments: true

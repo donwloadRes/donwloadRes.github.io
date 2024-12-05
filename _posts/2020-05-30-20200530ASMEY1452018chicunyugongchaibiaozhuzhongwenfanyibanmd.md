@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASME Y14.5-2018 尺寸与公差标注-中文翻译版"
+title: "ASME Y1452018 尺寸与公差标注中文翻译版"
 date:   2024-08-15
 tags: [2018,ASME,Y14.5,公差,标注]
 comments: true

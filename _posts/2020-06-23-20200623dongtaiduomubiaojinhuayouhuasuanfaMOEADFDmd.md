@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动态多目标进化优化算法——MOEA-D-FD"
+title: "动态多目标进化优化算法MOEADFD"
 date:   2023-02-25
 tags: [算法,FD,MOEA,动态,优化]
 comments: true

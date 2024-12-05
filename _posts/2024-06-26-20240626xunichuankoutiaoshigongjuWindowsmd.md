@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口调试工具（Windows）"
+title: "虚拟串口调试工具Windows"
 date:   2023-01-08
 tags: [串口,虚拟,调试,VSPD,工具]
 comments: true

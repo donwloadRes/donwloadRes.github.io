@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 17 下载与安装指南（Windows）"
+title: "JDK 17 下载与安装指南Windows"
 date:   2022-11-05
 tags: [JDK,17,安装,下载,路径]
 comments: true

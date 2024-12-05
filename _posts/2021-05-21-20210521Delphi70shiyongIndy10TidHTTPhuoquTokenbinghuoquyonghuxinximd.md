@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 7.0 使用 Indy10 (TidHTTP) 获取 Token 并获取用户信息"
+title: "Delphi 70 使用 Indy10 TidHTTP 获取 Token 并获取用户信息"
 date:   2024-02-04
 tags: [Token,Delphi,Indy10,获取,7.0]
 comments: true

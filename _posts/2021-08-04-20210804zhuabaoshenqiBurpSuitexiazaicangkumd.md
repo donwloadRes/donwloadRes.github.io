@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抓包神器-Burp Suite 下载仓库"
+title: "抓包神器Burp Suite 下载仓库"
 date:   2023-02-13
 tags: [Burp,Suite,文件,测试,仓库]
 comments: true

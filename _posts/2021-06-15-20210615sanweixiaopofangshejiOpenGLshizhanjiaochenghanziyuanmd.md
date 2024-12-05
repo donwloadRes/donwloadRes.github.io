@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三维小破房设计：OpenGL实战教程（含资源）"
+title: "三维小破房设计OpenGL实战教程含资源"
 date:   2024-10-25
 tags: [OpenGL,教程,小破房,https,三维]
 comments: true

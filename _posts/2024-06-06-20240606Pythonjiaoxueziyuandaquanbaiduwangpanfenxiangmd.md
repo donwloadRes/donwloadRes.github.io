@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python教学资源大全 - 百度网盘分享"
+title: "Python教学资源大全  百度网盘分享"
 date:   2021-10-27
 tags: [Python,百度网,教学资源,编程,学习]
 comments: true

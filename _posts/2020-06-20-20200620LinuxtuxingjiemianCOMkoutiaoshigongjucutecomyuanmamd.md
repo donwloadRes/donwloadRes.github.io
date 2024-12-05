@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux图形界面COM口调试工具－cutecom源码"
+title: "Linux图形界面COM口调试工具cutecom源码"
 date:   2021-01-21
 tags: [串口,cutecom,调试,图形界面,源码]
 comments: true

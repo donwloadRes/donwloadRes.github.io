@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 自动化教程(3 & 4) 配套源码：自动生成PPT文件"
+title: "Python 自动化教程3  4 配套源码自动生成PPT文件"
 date:   2024-05-31
 tags: [Python,PPT,教程,示例,生成]
 comments: true

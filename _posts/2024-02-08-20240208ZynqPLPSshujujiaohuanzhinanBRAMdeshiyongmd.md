@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq PL-PS 数据交换指南：BRAM 的使用"
+title: "Zynq PLPS 数据交换指南BRAM 的使用"
 date:   2022-12-12
 tags: [BRAM,Zynq,PL,PS,数据交换]
 comments: true

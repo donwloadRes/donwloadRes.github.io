@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch安装教程（超详细）"
+title: "Elasticsearch安装教程超详细"
 date:   2024-05-16
 tags: [教程,Elasticsearch,安装,详细,配置]
 comments: true

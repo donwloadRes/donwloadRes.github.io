@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD7124-8 片内寄存器详解（中文版）"
+title: "AD71248 片内寄存器详解中文版"
 date:   2023-07-01
 tags: [AD7124,寄存器,芯片,这份,pdf]
 comments: true

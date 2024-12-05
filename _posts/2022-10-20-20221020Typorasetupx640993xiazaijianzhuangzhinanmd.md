@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora-setup-x64 0.9.93 下载及安装指南"
+title: "Typorasetupx64 0993 下载及安装指南"
 date:   2024-08-13
 tags: [Typora,安装,93,setup,0.9]
 comments: true

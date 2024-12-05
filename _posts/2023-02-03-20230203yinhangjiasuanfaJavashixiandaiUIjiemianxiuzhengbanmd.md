@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银行家算法Java实现带UI界面（修正版）"
+title: "银行家算法Java实现带UI界面修正版"
 date:   2020-10-06
 tags: [UI,算法,银行家,Java,java]
 comments: true

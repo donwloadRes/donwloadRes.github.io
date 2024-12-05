@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现从麦克风读入音频并保存"
+title: "C实现从麦克风读入音频并保存"
 date:   2023-10-19
 tags: [音频,麦克风,保存,程序,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "js+html+css实现简易商城项目"
+title: "jshtmlcss实现简易商城项目"
 date:   2022-06-24
 tags: [用户,项目,HTML,页面,JavaScript]
 comments: true

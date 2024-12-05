@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小型超市运营资源：优化效率，提升盈利能力"
+title: "小型超市运营资源优化效率提升盈利能力"
 date:   2023-02-21
 tags: [库存,超市,销售,管理,帮助]
 comments: true

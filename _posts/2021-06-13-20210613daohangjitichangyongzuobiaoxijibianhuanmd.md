@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "导航、机体常用坐标系及变换"
+title: "导航机体常用坐标系及变换"
 date:   2023-09-08
 tags: [坐标系,转换方法,导航,机体,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PINN_Simple：一维中的物理 informed 神经网络探索"
+title: "PINNSimple一维中的物理 informed 神经网络探索"
 date:   2023-08-07
 tags: [PINN,PINNs,物理,一维,Simple]
 comments: true

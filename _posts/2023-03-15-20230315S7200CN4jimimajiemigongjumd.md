@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200CN 4级密码解密工具"
+title: "S7200CN 4级密码解密工具"
 date:   2020-10-05
 tags: [解密,PLC,S7,200CN,密码]
 comments: true

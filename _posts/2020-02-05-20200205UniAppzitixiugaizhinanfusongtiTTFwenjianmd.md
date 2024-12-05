@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UniApp 字体修改指南（附宋体 TTF 文件）"
+title: "UniApp 字体修改指南附宋体 TTF 文件"
 date:   2021-05-09
 tags: [字体,文件,宋体,TTF,Base64]
 comments: true

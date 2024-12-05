@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Edge v92.0.902.67 官方正式版离线包 (谷歌92内核)"
+title: "Microsoft Edge v92090267 官方正式版离线包 谷歌92内核"
 date:   2024-02-25
 tags: [离线,Edge,浏览器,902.67,92]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCS7深入浅出 V8_2013.05 资源下载"
+title: "PCS7深入浅出 V8201305 资源下载"
 date:   2024-08-13
 tags: [PCS7,V8,2013.05,深入浅出,组态]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端素材|游戏设计UI|精选252个UI组件打包"
+title: "前端素材游戏设计UI精选252个UI组件打包"
 date:   2024-07-11
 tags: [UI,组件,252,游戏,精选]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狗狗图片数据集（20种，每种180张）"
+title: "狗狗图片数据集20种每种180张"
 date:   2023-05-05
 tags: [狗狗,20,180,数据,图片]
 comments: true

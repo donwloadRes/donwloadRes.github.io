@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC6.0（完整绿色版）资源介绍"
+title: "VC60完整绿色版资源介绍"
 date:   2023-03-27
 tags: [VC6.0,绿色版,Windows,解压,汉化]
 comments: true

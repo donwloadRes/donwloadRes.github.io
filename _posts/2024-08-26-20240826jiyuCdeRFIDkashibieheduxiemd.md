@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的RFID卡识别和读写"
+title: "基于C的RFID卡识别和读写"
 date:   2020-10-15
 tags: [RFID,串口,读写,C#,识别]
 comments: true

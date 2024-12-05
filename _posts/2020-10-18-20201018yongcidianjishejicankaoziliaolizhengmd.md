@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁电机设计参考资料 - 李正"
+title: "永磁电机设计参考资料  李正"
 date:   2023-05-12
 tags: [永磁,电机,设计,李正,仿真]
 comments: true

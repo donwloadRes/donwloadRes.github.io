@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+FFMPEG+SDL实现的视频播放器"
+title: "QtFFMPEGSDL实现的视频播放器"
 date:   2023-06-08
 tags: [Qt,项目,播放,视频,FFMPEG]
 comments: true

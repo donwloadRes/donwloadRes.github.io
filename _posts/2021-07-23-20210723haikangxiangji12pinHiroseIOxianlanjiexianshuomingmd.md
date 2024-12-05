@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康相机12-pin Hirose IO线缆接线说明"
+title: "海康相机12pin Hirose IO线缆接线说明"
 date:   2021-02-25
 tags: [接线,线缆,海康,12,pin]
 comments: true

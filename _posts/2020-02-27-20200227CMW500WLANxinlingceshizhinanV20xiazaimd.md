@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMW500 WLAN信令测试指南 V2.0 下载"
+title: "CMW500 WLAN信令测试指南 V20 下载"
 date:   2024-09-08
 tags: [信令,测试,CMW500,WLAN,指南]
 comments: true

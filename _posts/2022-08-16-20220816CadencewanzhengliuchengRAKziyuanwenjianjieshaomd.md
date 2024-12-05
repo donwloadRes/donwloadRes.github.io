@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence - 完整流程RAK资源文件介绍"
+title: "Cadence  完整流程RAK资源文件介绍"
 date:   2023-02-10
 tags: [ECO,Cadence,RTL,文件,R1]
 comments: true

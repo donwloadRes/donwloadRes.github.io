@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 11.3.0 及其依赖包下载仓库"
+title: "GCC 1130 及其依赖包下载仓库"
 date:   2020-10-28
 tags: [11.3,安装,gcc,依赖,文件]
 comments: true

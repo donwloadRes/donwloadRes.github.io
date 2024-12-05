@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seata 1.7.0 安装包下载"
+title: "Seata 170 安装包下载"
 date:   2020-07-17
 tags: [Seata,1.7,安装包,下载,分布式]
 comments: true

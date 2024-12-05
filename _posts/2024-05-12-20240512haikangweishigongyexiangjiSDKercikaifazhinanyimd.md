@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视工业相机SDK二次开发指南（一）"
+title: "海康威视工业相机SDK二次开发指南一"
 date:   2021-11-21
 tags: [SDK,海康,威视,OpenCV,Qt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哥斯拉4.0.1 资源文件下载"
+title: "哥斯拉401 资源文件下载"
 date:   2021-12-05
 tags: [哥斯拉,资源,4.0,文件,下载]
 comments: true

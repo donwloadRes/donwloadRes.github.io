@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达老师DeepLearning.ai系列课程课件下载"
+title: "吴恩达老师DeepLearningai系列课程课件下载"
 date:   2024-03-16
 tags: [课件,课程,吴恩达,DeepLearning,ai]
 comments: true

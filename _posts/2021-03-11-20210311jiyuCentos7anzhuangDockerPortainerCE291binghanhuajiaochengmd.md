@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Centos7安装Docker Portainer-CE 2.9.1并汉化教程"
+title: "基于Centos7安装Docker PortainerCE 291并汉化教程"
 date:   2023-05-01
 tags: [Portainer,拉取,汉化,容器,镜像]
 comments: true

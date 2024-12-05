@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 调用库函数（DLL、LIB）资源文件介绍"
+title: "Qt 调用库函数DLLLIB资源文件介绍"
 date:   2022-11-06
 tags: [文件,库函数,testdll,Qt,工程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raize 6.2.3 仅支持 Delphi 10.4 资源文件"
+title: "Raize 623 仅支持 Delphi 104 资源文件"
 date:   2023-05-05
 tags: [10.4,文件,Delphi,组件,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiddle 抓包小白一步带过超详细教程（含汉化）"
+title: "Fiddle 抓包小白一步带过超详细教程含汉化"
 date:   2024-10-29
 tags: [Fiddle,汉化,教程,HTTPS,配置]
 comments: true

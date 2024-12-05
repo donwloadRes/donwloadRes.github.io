@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议规范（中文）下载仓库"
+title: "Modbus协议规范中文下载仓库"
 date:   2021-06-18
 tags: [Modbus,中文,协议,规范,仓库]
 comments: true

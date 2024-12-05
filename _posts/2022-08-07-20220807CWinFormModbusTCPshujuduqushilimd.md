@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Modbus TCP 数据读取示例"
+title: "C WinForm Modbus TCP 数据读取示例"
 date:   2021-07-15
 tags: [Modbus,TCP,示例,C#,读取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm手写签名解决方案"
+title: "C WinForm手写签名解决方案"
 date:   2023-05-06
 tags: [签名,开发者,C#,手写,WinForm]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准库工程模板（Keil）"
+title: "STM32标准库工程模板Keil"
 date:   2022-10-23
 tags: [模板,STM32,Keil,工程,开发者]
 comments: true

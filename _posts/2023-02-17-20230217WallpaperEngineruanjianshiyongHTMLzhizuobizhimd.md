@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wallpaper Engine软件——使用HTML制作壁纸"
+title: "Wallpaper Engine软件使用HTML制作壁纸"
 date:   2021-09-06
 tags: [壁纸,HTML,Wallpaper,Engine,软件]
 comments: true

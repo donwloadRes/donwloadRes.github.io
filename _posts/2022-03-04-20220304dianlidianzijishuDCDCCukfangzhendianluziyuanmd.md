@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术DC-DC Cuk仿真电路资源"
+title: "电力电子技术DCDC Cuk仿真电路资源"
 date:   2021-06-29
 tags: [仿真,电路,DC,Cuk,Simulink]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年9月计算机二级C++试题及答案解析"
+title: "2023年9月计算机二级C试题及答案解析"
 date:   2023-07-28
 tags: [C++,试题,答案,解析,2023]
 comments: true

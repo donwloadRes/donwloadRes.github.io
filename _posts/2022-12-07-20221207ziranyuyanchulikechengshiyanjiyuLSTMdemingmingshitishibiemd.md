@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理课程实验：基于LSTM的命名实体识别"
+title: "自然语言处理课程实验基于LSTM的命名实体识别"
 date:   2021-11-24
 tags: [LSTM,实验,课程,处理,自然语言]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jetson Nano 安装 Ubuntu 20.04 系统指南"
+title: "Jetson Nano 安装 Ubuntu 2004 系统指南"
 date:   2024-10-18
 tags: [Ubuntu,20.04,安装,Jetson,Nano]
 comments: true

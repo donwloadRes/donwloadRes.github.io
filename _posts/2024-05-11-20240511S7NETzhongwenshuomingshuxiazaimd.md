@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7.NET中文说明书下载"
+title: "S7NET中文说明书下载"
 date:   2022-03-08
 tags: [S7,NET,文件,中文,pdf]
 comments: true

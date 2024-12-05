@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "勤哲EXCEL服务器2017 9.2.335版无限用户安装指南"
+title: "勤哲EXCEL服务器2017 92335版无限用户安装指南"
 date:   2021-07-18
 tags: [勤哲,安装,EXCEL,9.2,335]
 comments: true

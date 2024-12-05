@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转TTL（CH340）模块使用指南"
+title: "USB转TTLCH340模块使用指南"
 date:   2021-02-23
 tags: [模块,串口,CH340,引脚,设备]
 comments: true

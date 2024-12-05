@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SJA1000-CAN协议芯片数据手册下载"
+title: "SJA1000CAN协议芯片数据手册下载"
 date:   2023-05-23
 tags: [手册,芯片,SJA1000,下载,数据]
 comments: true

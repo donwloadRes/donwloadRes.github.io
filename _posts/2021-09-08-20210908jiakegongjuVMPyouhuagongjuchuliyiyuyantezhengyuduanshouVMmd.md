@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "加壳工具 VMP优化工具 - 处理易语言特征与段首VM"
+title: "加壳工具 VMP优化工具  处理易语言特征与段首VM"
 date:   2020-11-18
 tags: [VMP,工具,加密,标记,易语言]
 comments: true

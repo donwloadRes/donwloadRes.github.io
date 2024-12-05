@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宝兰德中间件BES9.5.2 单实例快速安装手册"
+title: "宝兰德中间件BES952 单实例快速安装手册"
 date:   2020-06-28
 tags: [BES9.5,手册,安装,实例,中间件]
 comments: true

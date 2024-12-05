@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UD10331B-综合安防平台（服务器）DS-VE22S-B系列配置指南 (3) 操作手册下载"
+title: "UD10331B综合安防平台服务器DSVE22SB系列配置指南 3 操作手册下载"
 date:   2021-04-13
 tags: [DS,VE22S,操作手册,服务器,安防]
 comments: true

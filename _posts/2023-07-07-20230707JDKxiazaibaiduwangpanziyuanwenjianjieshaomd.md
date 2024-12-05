@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK下载(百度网盘) 资源文件介绍"
+title: "JDK下载百度网盘 资源文件介绍"
 date:   2020-03-27
 tags: [JDK,百度网,下载,文件,Java]
 comments: true

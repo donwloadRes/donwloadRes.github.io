@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Echarts+Vue3.0 大数据可视化项目"
+title: "EchartsVue30 大数据可视化项目"
 date:   2022-01-11
 tags: [效果,设置,基本参数,实现,学习]
 comments: true

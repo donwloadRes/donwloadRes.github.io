@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "and-design-vue 3.2.20 官方离线文档(中文)"
+title: "anddesignvue 3220 官方离线文档中文"
 date:   2020-12-05
 tags: [文档,design,离线,vue,20]
 comments: true

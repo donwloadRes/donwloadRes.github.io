@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AppServ 下载与安装教程（Windows）"
+title: "AppServ 下载与安装教程Windows"
 date:   2020-09-11
 tags: [AppServ,安装,下载,PHP,MySQL]
 comments: true

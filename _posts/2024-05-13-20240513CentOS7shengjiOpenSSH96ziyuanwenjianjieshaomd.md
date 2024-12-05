@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 升级 OpenSSH 9.6 资源文件介绍"
+title: "CentOS 7 升级 OpenSSH 96 资源文件介绍"
 date:   2020-07-14
 tags: [升级,OpenSSH,CentOS,9.6,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口转USB驱动程序（Z-TEK）免费版"
+title: "串口转USB驱动程序ZTEK免费版"
 date:   2022-11-22
 tags: [驱动程序,串口,USB,TEK,macOS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件信息获取工具 (适用于 Delphi XE10.2)"
+title: "硬件信息获取工具 适用于 Delphi XE102"
 date:   2024-11-16
 tags: [Delphi,硬件,源码,XE10.2,编译]
 comments: true

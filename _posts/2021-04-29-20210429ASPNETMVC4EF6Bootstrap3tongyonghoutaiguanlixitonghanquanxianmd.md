@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET MVC4+EF6+Bootstrap3 通用后台管理系统(含权限)"
+title: "ASPNET MVC4EF6Bootstrap3 通用后台管理系统含权限"
 date:   2022-08-01
 tags: [权限,ASP,NET,管理系统,后台]
 comments: true

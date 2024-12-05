@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10系统下msvcp140_atomic_wait.dll文件缺失问题"
+title: "解决Win10系统下msvcp140atomicwaitdll文件缺失问题"
 date:   2021-02-26
 tags: [dll,文件,msvcp140,atomic,wait]
 comments: true

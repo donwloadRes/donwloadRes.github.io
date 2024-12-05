@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习入门：Kaggle房价预测精讲（含代码）"
+title: "机器学习入门Kaggle房价预测精讲含代码"
 date:   2020-12-22
 tags: [Kaggle,学习,代码,入门,机器]
 comments: true

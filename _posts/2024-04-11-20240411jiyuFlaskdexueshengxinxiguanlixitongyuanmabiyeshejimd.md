@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Flask的学生信息管理系统源码（毕业设计）"
+title: "基于Flask的学生信息管理系统源码毕业设计"
 date:   2020-09-25
 tags: [Flask,数据库,学生,毕业设计,源码]
 comments: true

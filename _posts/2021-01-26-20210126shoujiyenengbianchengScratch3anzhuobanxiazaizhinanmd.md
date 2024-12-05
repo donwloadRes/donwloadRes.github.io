@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机也能编程！Scratch3安卓版下载指南"
+title: "手机也能编程Scratch3安卓版下载指南"
 date:   2020-05-31
 tags: [编程,Scratch3,下载,安卓版,apk]
 comments: true

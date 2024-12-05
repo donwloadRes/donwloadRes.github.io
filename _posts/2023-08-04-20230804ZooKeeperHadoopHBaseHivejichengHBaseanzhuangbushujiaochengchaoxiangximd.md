@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZooKeeper、Hadoop、HBase、Hive（集成HBase）安装部署教程（超详细）"
+title: "ZooKeeperHadoopHBaseHive集成HBase安装部署教程超详细"
 date:   2021-05-07
 tags: [安装,HBase,教程,配置,ZooKeeper]
 comments: true

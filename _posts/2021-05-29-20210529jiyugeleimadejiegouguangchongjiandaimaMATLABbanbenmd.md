@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于格雷码的结构光重建代码（MATLAB版本）"
+title: "基于格雷码的结构光重建代码MATLAB版本"
 date:   2023-11-13
 tags: [代码,MATLAB,3D,学习,格雷]
 comments: true

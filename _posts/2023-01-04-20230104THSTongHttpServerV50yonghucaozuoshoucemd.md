@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THS（TongHttpServerV5.0）用户操作手册"
+title: "THSTongHttpServerV50用户操作手册"
 date:   2024-01-08
 tags: [THS,服务器,本手册,确保您,用户]
 comments: true

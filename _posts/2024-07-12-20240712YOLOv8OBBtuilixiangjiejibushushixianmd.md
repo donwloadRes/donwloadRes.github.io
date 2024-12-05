@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8-OBB推理详解及部署实现"
+title: "YOLOv8OBB推理详解及部署实现"
 date:   2024-10-21
 tags: [YOLOv8,OBB,推理,模型,部署]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 5.0 基础规范 1.0 版本下载"
+title: "PCIe 50 基础规范 10 版本下载"
 date:   2020-05-21
 tags: [5.0,1.0,PCI,Express,文档]
 comments: true

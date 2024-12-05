@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Pro 和 Player 16.0 下载资源介绍"
+title: "VMware Pro 和 Player 160 下载资源介绍"
 date:   2020-11-22
 tags: [VMware,Pro,16.0,Workstation,版本]
 comments: true

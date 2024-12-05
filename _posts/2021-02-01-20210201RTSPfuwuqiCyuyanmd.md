@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTSP服务器（C语言）"
+title: "RTSP服务器C语言"
 date:   2024-06-13
 tags: [RTSP,服务器,C语言,hi3516A,芯片]
 comments: true

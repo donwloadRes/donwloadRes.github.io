@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xdma_driver_win_bin_x64_12052020.zip - 最新Xilinx官方驱动（2020.1）"
+title: "xdmadriverwinbinx6412052020zip  最新Xilinx官方驱动20201"
 date:   2021-03-12
 tags: [Xilinx,驱动,安装,2020.1,xdma]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino框架ESP8266和ESP32 SDK安装包（2022年9月1日最新稳定版）"
+title: "Arduino框架ESP8266和ESP32 SDK安装包2022年9月1日最新稳定版"
 date:   2024-11-26
 tags: [Arduino,SDK,ESP8266,安装包,ESP32]
 comments: true

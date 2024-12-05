@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高校实验室设备管理系统（数据库）"
+title: "高校实验室设备管理系统数据库"
 date:   2024-08-05
 tags: [实验室,数据库,设备,管理,高校]
 comments: true

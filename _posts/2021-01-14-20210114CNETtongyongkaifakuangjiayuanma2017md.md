@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#.NET通用开发框架源码2017"
+title: "CNET通用开发框架源码2017"
 date:   2020-01-27
 tags: [源码,数据库,框架,开发,开源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HMAC-SHA256在C-C++中的极简实现"
+title: "HMACSHA256在CC中的极简实现"
 date:   2024-11-11
 tags: [HMAC,密钥,SHA256,哈希,hmac]
 comments: true

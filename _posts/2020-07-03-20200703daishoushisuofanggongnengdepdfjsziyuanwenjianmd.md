@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带手势缩放功能的pdf.js资源文件"
+title: "带手势缩放功能的pdfjs资源文件"
 date:   2022-03-03
 tags: [缩放,pdf,js,手势,文件]
 comments: true

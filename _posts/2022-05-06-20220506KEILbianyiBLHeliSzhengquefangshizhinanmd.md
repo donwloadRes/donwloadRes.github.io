@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL编译BLHeli_S正确方式指南"
+title: "KEIL编译BLHeliS正确方式指南"
 date:   2020-06-03
 tags: [KEIL,编译,BLHeli,MDK,固件]
 comments: true

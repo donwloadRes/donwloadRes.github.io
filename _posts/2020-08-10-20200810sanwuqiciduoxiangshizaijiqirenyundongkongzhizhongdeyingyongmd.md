@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三、五、七次多项式在机器人运动控制中的应用"
+title: "三五七次多项式在机器人运动控制中的应用"
 date:   2022-03-09
 tags: [多项式,机器人,轨迹,应用,Polynomial]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶云星空数据字典V7.5"
+title: "金蝶云星空数据字典V75"
 date:   2022-08-23
 tags: [金蝶,字典,星空,V7.5,数据]
 comments: true

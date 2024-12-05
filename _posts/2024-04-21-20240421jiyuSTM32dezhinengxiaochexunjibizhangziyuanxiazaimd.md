@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的智能小车（寻迹、避障）资源下载"
+title: "基于STM32的智能小车寻迹避障资源下载"
 date:   2022-11-17
 tags: [STM32,小车,寻迹,避障,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD模块化电路 - 常用电路原理图"
+title: "AD模块化电路  常用电路原理图"
 date:   2020-09-11
 tags: [电路,AD,原理图,USB,模块化]
 comments: true

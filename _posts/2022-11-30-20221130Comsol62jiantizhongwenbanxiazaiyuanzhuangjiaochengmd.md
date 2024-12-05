@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comsol 6.2 简体中文版下载与安装教程"
+title: "Comsol 62 简体中文版下载与安装教程"
 date:   2021-06-07
 tags: [Comsol,6.2,安装,教程,简体中文版]
 comments: true

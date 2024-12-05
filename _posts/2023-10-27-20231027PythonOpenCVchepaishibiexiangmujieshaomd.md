@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+OpenCV 车牌识别项目介绍"
+title: "PythonOpenCV 车牌识别项目介绍"
 date:   2020-10-18
 tags: [车牌,识别,OpenCV,图像,字符]
 comments: true

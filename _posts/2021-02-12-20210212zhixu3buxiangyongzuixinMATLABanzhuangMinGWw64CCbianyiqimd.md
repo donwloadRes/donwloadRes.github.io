@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "只需3步享用最新MATLAB安装MinGW-w64 C-C++编译器"
+title: "只需3步享用最新MATLAB安装MinGWw64 CC编译器"
 date:   2020-05-27
 tags: [MATLAB,解压,编译器,MinGW,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus & Modelsim 安装及配置指南"
+title: "Quartus  Modelsim 安装及配置指南"
 date:   2021-02-20
 tags: [Quartus,Modelsim,安装,配置,路径]
 comments: true

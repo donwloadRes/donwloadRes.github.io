@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Desktop 10.2（ArcMap）安装教程"
+title: "ArcGIS Desktop 102ArcMap安装教程"
 date:   2022-05-25
 tags: [安装,ArcGIS,点击,Desktop,10.2]
 comments: true

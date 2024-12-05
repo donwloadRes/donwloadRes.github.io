@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32基础实验：蜂鸣器发声"
+title: "STM32基础实验蜂鸣器发声"
 date:   2022-08-05
 tags: [蜂鸣器,STM32,发声,无源,实验]
 comments: true

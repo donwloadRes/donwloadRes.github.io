@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "010Editor Win64 便携版 14.0 - 二次优化版"
+title: "010Editor Win64 便携版 140  二次优化版"
 date:   2021-07-21
 tags: [010Editor,二进制,文件,编辑,便携]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "edp1.4协议 中文版本 下载仓库"
+title: "edp14协议 中文版本 下载仓库"
 date:   2024-09-27
 tags: [edp1.4,版本,协议,中文,仓库]
 comments: true

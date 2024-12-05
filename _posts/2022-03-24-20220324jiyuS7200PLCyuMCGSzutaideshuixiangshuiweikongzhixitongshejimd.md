@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于S7-200 PLC与MCGS组态的水箱水位控制系统设计"
+title: "基于S7200 PLC与MCGS组态的水箱水位控制系统设计"
 date:   2023-04-12
 tags: [PLC,MCGS,组态,S7,设计]
 comments: true

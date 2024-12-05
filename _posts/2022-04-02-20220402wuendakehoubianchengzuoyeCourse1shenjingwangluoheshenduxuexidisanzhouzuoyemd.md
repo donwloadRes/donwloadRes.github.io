@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达课后编程作业：Course 1 - 神经网络和深度学习 - 第三周作业"
+title: "吴恩达课后编程作业Course 1  神经网络和深度学习  第三周作业"
 date:   2022-11-01
 tags: [神经网络,作业,课后,吴恩达,Python]
 comments: true

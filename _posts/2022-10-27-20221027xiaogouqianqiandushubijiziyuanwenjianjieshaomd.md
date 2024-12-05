@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小狗钱钱》读书笔记资源文件介绍"
+title: "小狗钱钱读书笔记资源文件介绍"
 date:   2021-02-18
 tags: [读书笔记,小狗,理财,文件,资源]
 comments: true

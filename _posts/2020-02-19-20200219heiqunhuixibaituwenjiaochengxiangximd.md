@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑群晖洗白图文教程（详细）"
+title: "黑群晖洗白图文教程详细"
 date:   2023-07-18
 tags: [教程,洗白,黑群晖,图文,详细]
 comments: true

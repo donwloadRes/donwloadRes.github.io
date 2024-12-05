@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python深度学习实战：人脸关键点(15点)检测pytorch实现"
+title: "Python深度学习实战人脸关键点15点检测pytorch实现"
 date:   2022-03-05
 tags: [人脸,关键点,训练,检测,Python]
 comments: true

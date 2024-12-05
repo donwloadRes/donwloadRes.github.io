@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机二级C语言上机题库及答案(100套)"
+title: "计算机二级C语言上机题库及答案100套"
 date:   2020-01-27
 tags: [题库,C语言,学习,考试,计算机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "莫烦老师 走迷宫 智能强化学习DQN算法实现，开箱即用"
+title: "莫烦老师 走迷宫 智能强化学习DQN算法实现开箱即用"
 date:   2021-10-17
 tags: [DQN,算法,代码,迷宫,资源]
 comments: true

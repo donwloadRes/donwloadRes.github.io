@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ-XC7Z020开发板原理图和原理图库"
+title: "ZYNQXC7Z020开发板原理图和原理图库"
 date:   2022-05-06
 tags: [原理图,图库,原理,文件,ZYNQ]
 comments: true

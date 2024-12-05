@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APK图像提取器 v2.0 使用指南"
+title: "APK图像提取器 v20 使用指南"
 date:   2023-10-18
 tags: [图标,提取,APK,图像,v2.0]
 comments: true

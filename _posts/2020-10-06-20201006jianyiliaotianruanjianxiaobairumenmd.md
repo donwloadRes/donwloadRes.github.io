@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易聊天软件（小白入门）"
+title: "简易聊天软件小白入门"
 date:   2023-03-11
 tags: [Qt,聊天,软件,界面,登录]
 comments: true

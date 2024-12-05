@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012-2016 .NET Framework 3.5 离线安装包"
+title: "Windows Server 20122016 NET Framework 35 离线安装包"
 date:   2020-07-23
 tags: [安装包,离线,NET,Framework,3.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核源代码情景分析(全册高清带书签) PDF 资源介绍"
+title: "Linux内核源代码情景分析全册高清带书签 PDF 资源介绍"
 date:   2024-06-06
 tags: [Linux,内核,书签,全册,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm: Python开发的强大IDE"
+title: "PyCharm Python开发的强大IDE"
 date:   2020-09-01
 tags: [PyCharm,Python,代码,集成,开发]
 comments: true

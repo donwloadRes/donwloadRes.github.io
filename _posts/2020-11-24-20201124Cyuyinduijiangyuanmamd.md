@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语音对讲源码"
+title: "C语音对讲源码"
 date:   2022-03-24
 tags: [语音,源码,网络,二次开发,杂音]
 comments: true

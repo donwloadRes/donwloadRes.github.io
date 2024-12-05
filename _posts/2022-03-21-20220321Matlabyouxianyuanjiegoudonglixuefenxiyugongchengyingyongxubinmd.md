@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab有限元结构动力学分析与工程应用-徐斌"
+title: "Matlab有限元结构动力学分析与工程应用徐斌"
 date:   2021-03-08
 tags: [Matlab,有限元,动力学,分析,工程]
 comments: true

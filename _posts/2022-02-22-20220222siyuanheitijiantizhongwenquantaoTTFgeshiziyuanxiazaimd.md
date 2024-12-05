@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思源黑体、简体、中文全套TTF格式资源下载"
+title: "思源黑体简体中文全套TTF格式资源下载"
 date:   2023-10-06
 tags: [字体,黑体,思源,TTF,下载]
 comments: true

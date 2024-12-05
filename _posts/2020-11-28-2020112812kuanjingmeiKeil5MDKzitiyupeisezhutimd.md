@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12 款精美 Keil5 (MDK) 字体与配色主题"
+title: "12 款精美 Keil5 MDK 字体与配色主题"
 date:   2022-12-18
 tags: [Keil5,配色,字体,12,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青少年软件编程(Python)等级考试一级答案快捷指南"
+title: "青少年软件编程Python等级考试一级答案快捷指南"
 date:   2020-05-12
 tags: [指南,Python,编程,青少年,考试]
 comments: true

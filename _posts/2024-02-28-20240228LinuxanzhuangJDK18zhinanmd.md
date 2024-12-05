@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装JDK1.8指南"
+title: "Linux安装JDK18指南"
 date:   2021-01-08
 tags: [JDK,1.8,export,bash,安装包]
 comments: true

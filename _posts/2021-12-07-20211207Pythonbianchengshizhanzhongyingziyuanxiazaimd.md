@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程实战(中英) 资源下载"
+title: "Python编程实战中英 资源下载"
 date:   2023-10-18
 tags: [Python,编程,实战,下载,资源]
 comments: true

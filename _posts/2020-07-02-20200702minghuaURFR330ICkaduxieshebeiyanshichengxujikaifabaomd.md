@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "明华URF-R330IC卡读写设备演示程序及开发包"
+title: "明华URFR330IC卡读写设备演示程序及开发包"
 date:   2024-06-27
 tags: [URF,R330,开发者,IC卡,开发包]
 comments: true

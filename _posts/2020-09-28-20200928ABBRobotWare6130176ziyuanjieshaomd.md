@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB RobotWare 6.13.0176 资源介绍"
+title: "ABB RobotWare 6130176 资源介绍"
 date:   2022-06-10
 tags: [RobotWare,ABB,6.13,0176,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm ListView控件美化资源文件"
+title: "C WinForm ListView控件美化资源文件"
 date:   2024-03-27
 tags: [ListView,控件,美化,文件,资源]
 comments: true

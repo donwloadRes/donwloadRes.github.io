@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一个牛人提供的GIS源码(很好)"
+title: "一个牛人提供的GIS源码很好"
 date:   2023-02-08
 tags: [SQL,数据库,系统,文件,源码]
 comments: true

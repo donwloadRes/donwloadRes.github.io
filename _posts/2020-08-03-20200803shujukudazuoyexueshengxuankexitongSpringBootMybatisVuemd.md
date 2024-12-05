@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库大作业：学生选课系统（SpringBoot+Mybatis+Vue）"
+title: "数据库大作业学生选课系统SpringBootMybatisVue"
 date:   2023-12-07
 tags: [选课,学生,教师,数据库,项目]
 comments: true

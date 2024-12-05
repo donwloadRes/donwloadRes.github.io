@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HBuilder实现蓝牙通讯 - 亲测可用html5-bluetooth-demo-HBuilderX"
+title: "HBuilder实现蓝牙通讯  亲测可用html5bluetoothdemoHBuilderX"
 date:   2022-09-11
 tags: [蓝牙,HBuilderX,调试,通讯,串口]
 comments: true

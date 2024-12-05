@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简明微波（西电）PPT 资源下载"
+title: "简明微波西电PPT 资源下载"
 date:   2023-07-26
 tags: [微波,课件,天线,西安电子科技大学,简明]
 comments: true

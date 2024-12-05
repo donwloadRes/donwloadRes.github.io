@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker CE 20.10.12 安装包及依赖包"
+title: "Docker CE 201012 安装包及依赖包"
 date:   2023-07-29
 tags: [Docker,12,20.10,CE,docker]
 comments: true

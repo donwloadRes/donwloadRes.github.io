@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-SRIO模块在Vivado中连接示意图"
+title: "AXISRIO模块在Vivado中连接示意图"
 date:   2024-06-13
 tags: [SRIO,AXI,Vivado,示意图,连接]
 comments: true

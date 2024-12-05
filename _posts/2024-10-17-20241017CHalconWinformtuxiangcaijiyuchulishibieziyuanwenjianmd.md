@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#+Halcon Winform 图像采集与处理识别资源文件"
+title: "CHalcon Winform 图像采集与处理识别资源文件"
 date:   2020-05-26
 tags: [Halcon,图像,采集,Winform,识别]
 comments: true

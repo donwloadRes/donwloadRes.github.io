@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 21.2 中文便携版"
+title: "MobaXterm 212 中文便携版"
 date:   2020-02-18
 tags: [MobaXterm,便携,解压,21.2,中文]
 comments: true

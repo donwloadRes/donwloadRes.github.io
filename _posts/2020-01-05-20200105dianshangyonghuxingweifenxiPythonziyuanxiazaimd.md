@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电商用户行为分析---Python 资源下载"
+title: "电商用户行为分析Python 资源下载"
 date:   2023-11-17
 tags: [Python,用户,电商,行为,分析]
 comments: true

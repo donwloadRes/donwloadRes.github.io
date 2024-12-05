@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球与中国玻璃通孔（TGV）衬底市场现状及未来发展趋势（2024版）"
+title: "全球与中国玻璃通孔TGV衬底市场现状及未来发展趋势2024版"
 date:   2021-01-16
 tags: [通孔,TGV,衬底,玻璃,现状及]
 comments: true

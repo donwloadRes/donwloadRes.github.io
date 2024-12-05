@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计技巧与分析（沙特）答案"
+title: "算法设计技巧与分析沙特答案"
 date:   2022-07-15
 tags: [算法,答案,沙特,学习者,设计]
 comments: true

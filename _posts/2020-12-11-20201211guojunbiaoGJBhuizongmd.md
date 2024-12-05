@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国军标(GJB) 汇总"
+title: "国军标GJB 汇总"
 date:   2023-09-06
 tags: [GJB,试验,86,军用,设备]
 comments: true

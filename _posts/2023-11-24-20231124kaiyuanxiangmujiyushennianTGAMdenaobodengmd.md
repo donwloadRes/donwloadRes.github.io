@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【开源项目】基于神念TGAM的脑波灯"
+title: "开源项目基于神念TGAM的脑波灯"
 date:   2023-12-10
 tags: [脑波,TGAM,项目,神念,数据]
 comments: true

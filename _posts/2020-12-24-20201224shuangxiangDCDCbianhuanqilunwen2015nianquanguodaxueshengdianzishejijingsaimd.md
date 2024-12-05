@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双向 DC-DC 变换器论文：2015 年全国大学生电子设计竞赛"
+title: "双向 DCDC 变换器论文2015 年全国大学生电子设计竞赛"
 date:   2020-09-03
 tags: [DC,变换器,双向,系统,电子设计]
 comments: true

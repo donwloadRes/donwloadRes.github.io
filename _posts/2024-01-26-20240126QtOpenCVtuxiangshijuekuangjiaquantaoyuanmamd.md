@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+OpenCV图像视觉框架全套源码"
+title: "QtOpenCV图像视觉框架全套源码"
 date:   2024-04-14
 tags: [OpenCV,Qt,源码,视觉,图像]
 comments: true

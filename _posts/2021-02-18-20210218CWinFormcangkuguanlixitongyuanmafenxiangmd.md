@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 仓库管理系统源码分享"
+title: "C WinForm 仓库管理系统源码分享"
 date:   2024-01-12
 tags: [源码,仓库,C#,管理系统,WinForm]
 comments: true

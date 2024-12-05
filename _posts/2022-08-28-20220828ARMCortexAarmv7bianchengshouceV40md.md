@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-A(armv7)编程手册V4.0"
+title: "ARM CortexAarmv7编程手册V40"
 date:   2021-03-02
 tags: [ARM,Cortex,编程,A7,V4.0]
 comments: true

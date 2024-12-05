@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# CefSharp71 浏览器支持视频播放（Winform & WPF）"
+title: "C CefSharp71 浏览器支持视频播放Winform  WPF"
 date:   2021-02-19
 tags: [Demo,播放,视频,浏览器,Winform]
 comments: true

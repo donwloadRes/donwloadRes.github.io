@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 绘图软件使用教程"
+title: "Cadence Allegro 166 绘图软件使用教程"
 date:   2021-02-21
 tags: [Cadence,Allegro,教程,资源,16.6]
 comments: true

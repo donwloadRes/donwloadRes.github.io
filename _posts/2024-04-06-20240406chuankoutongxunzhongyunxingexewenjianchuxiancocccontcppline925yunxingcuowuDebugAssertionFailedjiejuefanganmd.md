@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口通讯中运行exe文件出现c++ occcont.cpp line 925运行错误 Debug Assertion Failed解决方案"
+title: "串口通讯中运行exe文件出现c occcontcpp line 925运行错误 Debug Assertion Failed解决方案"
 date:   2023-12-14
 tags: [组件,exe,运行,串口,c++]
 comments: true

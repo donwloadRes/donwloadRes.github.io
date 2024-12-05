@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可以表白的生日祝福（附源码与修改教程）"
+title: "可以表白的生日祝福附源码与修改教程"
 date:   2021-12-12
 tags: [修改,祝福,生日,教程,浏览器]
 comments: true

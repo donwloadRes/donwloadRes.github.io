@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USB虚拟串口驱动 V1.5.0"
+title: "STM32 USB虚拟串口驱动 V150"
 date:   2023-04-10
 tags: [Windows,串口,V1.5,安装,STM32]
 comments: true

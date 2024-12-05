@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发实战1200例（第2卷完整版）资源下载"
+title: "C开发实战1200例第2卷完整版资源下载"
 date:   2020-03-15
 tags: [C#,解压缩,下载,文件,1200]
 comments: true

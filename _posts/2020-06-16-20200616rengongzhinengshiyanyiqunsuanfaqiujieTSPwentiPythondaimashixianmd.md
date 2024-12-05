@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能实验：蚁群算法求解TSP问题（Python代码实现）"
+title: "人工智能实验蚁群算法求解TSP问题Python代码实现"
 date:   2024-02-26
 tags: [算法,蚁群,py,TSP,实验报告]
 comments: true

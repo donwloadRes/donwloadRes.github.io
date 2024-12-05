@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB界面美化 - BSkin界面开发控件V2.0"
+title: "VB界面美化  BSkin界面开发控件V20"
 date:   2020-11-22
 tags: [控件,界面,VB,开发者,BSkin]
 comments: true

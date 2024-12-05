@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 窗体应用程序实例"
+title: "C 窗体应用程序实例"
 date:   2022-01-05
 tags: [C#,窗体,实例,编程,应用程序]
 comments: true

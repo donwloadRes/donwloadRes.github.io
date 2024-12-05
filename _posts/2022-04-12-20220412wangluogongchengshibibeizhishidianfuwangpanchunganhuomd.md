@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络工程师必背知识点（附网盘纯干货）"
+title: "网络工程师必背知识点附网盘纯干货"
 date:   2024-07-25
 tags: [知识点,资源,工程师,学习,网络]
 comments: true

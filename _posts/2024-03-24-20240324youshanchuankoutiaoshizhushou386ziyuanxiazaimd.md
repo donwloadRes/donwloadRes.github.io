@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "友善串口调试助手3.8.6资源下载"
+title: "友善串口调试助手386资源下载"
 date:   2022-08-17
 tags: [下载,串口,文件,3.8,压缩包]
 comments: true

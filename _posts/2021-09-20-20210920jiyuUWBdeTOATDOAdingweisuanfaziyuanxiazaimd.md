@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于UWB的TOA-TDOA定位算法资源下载"
+title: "基于UWB的TOATDOA定位算法资源下载"
 date:   2022-08-23
 tags: [算法,定位,UWB,TOA,TDOA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十二届蓝桥杯青少年组省赛C++真题下载"
+title: "第十二届蓝桥杯青少年组省赛C真题下载"
 date:   2022-07-02
 tags: [蓝桥,组省赛,C++,真题,第十二届]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi D11 + Skia4Delphi 仪表盘控件"
+title: "Delphi D11  Skia4Delphi 仪表盘控件"
 date:   2020-08-09
 tags: [控件,仪表盘,Delphi,Dashboard,Skia4Delphi]
 comments: true

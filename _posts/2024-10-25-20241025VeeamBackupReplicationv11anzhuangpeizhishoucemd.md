@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veeam Backup & Replication v11 安装配置手册"
+title: "Veeam Backup  Replication v11 安装配置手册"
 date:   2024-07-18
 tags: [Veeam,Backup,Replication,v11,安装]
 comments: true

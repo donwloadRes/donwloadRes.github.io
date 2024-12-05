@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103R6开发：模拟交通灯课程设计"
+title: "STM32F103R6开发模拟交通灯课程设计"
 date:   2023-06-24
 tags: [交通灯,源代码,仿真,Proteus,控制]
 comments: true

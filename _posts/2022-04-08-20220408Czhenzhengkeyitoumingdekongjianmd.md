@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 真正可以透明的控件"
+title: "C 真正可以透明的控件"
 date:   2023-08-01
 tags: [控件,透明,C#,UI,真正]
 comments: true

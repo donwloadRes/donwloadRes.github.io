@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer 7.3湖科大教书匠中文语言包"
+title: "Cisco Packet Tracer 73湖科大教书匠中文语言包"
 date:   2021-11-15
 tags: [语言包,7.3,Cisco,Packet,Tracer]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIA 402 2.0 CiA Draft Standard Proposal 402 资源介绍"
+title: "CIA 402 20 CiA Draft Standard Proposal 402 资源介绍"
 date:   2024-11-06
 tags: [402,CiA,CIA,2.0,运动]
 comments: true

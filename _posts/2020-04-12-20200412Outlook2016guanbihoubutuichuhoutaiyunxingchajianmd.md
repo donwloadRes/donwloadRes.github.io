@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Outlook 2016 关闭后不退出，后台运行插件"
+title: "Outlook 2016 关闭后不退出后台运行插件"
 date:   2020-09-24
 tags: [Outlook,插件,后台,关闭,运行]
 comments: true

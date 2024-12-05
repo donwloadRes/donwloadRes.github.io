@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Book of Why》中文版1简介"
+title: "The Book of Why中文版1简介"
 date:   2023-11-21
 tags: [因果,因果关系,中文版,读者,本书]
 comments: true

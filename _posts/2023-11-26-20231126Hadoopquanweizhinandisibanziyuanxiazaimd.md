@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop权威指南（第四版）资源下载"
+title: "Hadoop权威指南第四版资源下载"
 date:   2024-09-04
 tags: [Hadoop,PDF,源代码,第四版,指南]
 comments: true

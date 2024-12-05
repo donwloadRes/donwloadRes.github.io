@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 IIC通信读取两个JY-901模块数据"
+title: "STM32 IIC通信读取两个JY901模块数据"
 date:   2024-12-02
 tags: [JY,901,IIC,STM32,模块]
 comments: true

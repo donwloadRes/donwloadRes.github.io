@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2015-2019 运行库合集"
+title: "Microsoft Visual C 20152019 运行库合集"
 date:   2024-04-30
 tags: [2019,Microsoft,Visual,C++,2015]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "字模提取器软件 V2.2 版本"
+title: "字模提取器软件 V22 版本"
 date:   2024-06-16
 tags: [字模,V2.2,软件,提取,版本]
 comments: true

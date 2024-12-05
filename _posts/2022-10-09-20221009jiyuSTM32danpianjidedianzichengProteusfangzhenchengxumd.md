@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的电子秤（Proteus仿真+程序）"
+title: "基于STM32单片机的电子秤Proteus仿真程序"
 date:   2021-02-19
 tags: [电子秤,仿真,STM32,单片机,Proteus]
 comments: true

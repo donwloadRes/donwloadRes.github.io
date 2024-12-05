@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习入门（Python）资源下载"
+title: "深度学习入门Python资源下载"
 date:   2021-11-20
 tags: [Python,学习,深度,入门,pdf]
 comments: true

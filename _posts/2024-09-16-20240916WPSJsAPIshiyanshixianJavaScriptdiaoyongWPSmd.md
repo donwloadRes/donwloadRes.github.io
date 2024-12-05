@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS JsAPI 试验 - 实现JavaScript调用WPS"
+title: "WPS JsAPI 试验  实现JavaScript调用WPS"
 date:   2022-07-29
 tags: [WPS,Tomcat,JavaScript,安装,服务器]
 comments: true

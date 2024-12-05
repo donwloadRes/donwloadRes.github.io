@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R-Studio数据恢复工具（附注册码）"
+title: "RStudio数据恢复工具附注册码"
 date:   2023-09-07
 tags: [Studio,数据恢复,注册码,5.0,网络版]
 comments: true

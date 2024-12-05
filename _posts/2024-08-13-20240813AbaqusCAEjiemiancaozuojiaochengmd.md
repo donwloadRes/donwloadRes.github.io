@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abaqus-CAE界面操作教程"
+title: "AbaqusCAE界面操作教程"
 date:   2022-08-21
 tags: [教程,Abaqus,CAE,界面,操作]
 comments: true

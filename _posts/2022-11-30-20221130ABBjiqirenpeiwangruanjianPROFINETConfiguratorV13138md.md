@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人配网软件：PROFINET Configurator V1.31.38"
+title: "ABB机器人配网软件PROFINET Configurator V13138"
 date:   2024-05-18
 tags: [配置,文件,IPPNIO,xml,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue前后端分离的Java快速开发框架"
+title: "SpringBootVue前后端分离的Java快速开发框架"
 date:   2020-05-29
 tags: [框架,Vue,Java,https,权限]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TrinityCore魔兽世界服务器-环境搭建（Debian11）"
+title: "TrinityCore魔兽世界服务器环境搭建Debian11"
 date:   2024-07-27
 tags: [TrinityCore,服务器,魔兽,游戏,客户端]
 comments: true

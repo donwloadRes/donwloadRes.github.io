@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome插件XPath Helper 2.0.2的下载安装与使用指南"
+title: "Chrome插件XPath Helper 202的下载安装与使用指南"
 date:   2020-04-14
 tags: [XPath,Helper,Chrome,插件,网页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB项目实战：基于SPI指数的某地区干旱时空特征分析"
+title: "MATLAB项目实战基于SPI指数的某地区干旱时空特征分析"
 date:   2021-11-23
 tags: [SPI,MATLAB,干旱,时间尺度,特征分析]
 comments: true

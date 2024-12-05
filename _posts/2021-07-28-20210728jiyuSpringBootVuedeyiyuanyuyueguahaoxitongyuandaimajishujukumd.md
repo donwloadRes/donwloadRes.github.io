@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的医院预约挂号系统源代码及数据库"
+title: "基于SpringBootVue的医院预约挂号系统源代码及数据库"
 date:   2020-01-28
 tags: [数据库,项目,挂号,预约,前端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPPT综述——MPPT原理与常用算法"
+title: "MPPT综述MPPT原理与常用算法"
 date:   2023-04-10
 tags: [MPPT,光伏,算法,发电,技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "搭建网站源码优质资料包【附视频教程】"
+title: "搭建网站源码优质资料包附视频教程"
 date:   2022-05-10
 tags: [网站,源码,搭建,模板,视频教程]
 comments: true

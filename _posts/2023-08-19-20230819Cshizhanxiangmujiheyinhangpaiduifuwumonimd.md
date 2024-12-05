@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实战项目集合：银行排队服务模拟"
+title: "C实战项目集合银行排队服务模拟"
 date:   2023-09-30
 tags: [编程,C++,项目,模拟,实战]
 comments: true

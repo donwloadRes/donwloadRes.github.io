@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 学习笔记资料 - 菜鸟入门"
+title: "Vuejs 学习笔记资料  菜鸟入门"
 date:   2023-09-27
 tags: [Vue,js,学习,笔记,这份]
 comments: true

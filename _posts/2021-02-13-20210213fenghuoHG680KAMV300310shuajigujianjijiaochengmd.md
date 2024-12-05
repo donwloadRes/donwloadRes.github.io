@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "烽火HG680-KA-MV300-310 刷机固件及教程"
+title: "烽火HG680KAMV300310 刷机固件及教程"
 date:   2023-04-06
 tags: [刷机,固件,系统,HG680,KA]
 comments: true

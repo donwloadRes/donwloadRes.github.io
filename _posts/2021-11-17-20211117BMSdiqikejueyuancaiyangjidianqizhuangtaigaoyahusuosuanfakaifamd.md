@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS第七课：绝缘采样继电器状态高压互锁算法开发"
+title: "BMS第七课绝缘采样继电器状态高压互锁算法开发"
 date:   2023-12-12
 tags: [互锁,采样,继电器,算法,绝缘]
 comments: true

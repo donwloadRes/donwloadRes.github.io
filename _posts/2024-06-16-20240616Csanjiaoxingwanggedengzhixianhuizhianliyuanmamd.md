@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 三角形网格等值线绘制案例源码"
+title: "C 三角形网格等值线绘制案例源码"
 date:   2023-11-04
 tags: [等值线,网格,绘制,三角形,查看]
 comments: true

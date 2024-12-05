@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Image2Lcd与PCtoLCD2002】实现stm32上接OLED显示图片"
+title: "Image2Lcd与PCtoLCD2002实现stm32上接OLED显示图片"
 date:   2024-08-21
 tags: [OLED,STM32,图片,显示屏,Image2Lcd]
 comments: true

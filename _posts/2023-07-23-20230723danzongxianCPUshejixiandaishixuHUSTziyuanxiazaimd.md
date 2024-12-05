@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单总线CPU设计(现代时序)(HUST) 资源下载"
+title: "单总线CPU设计现代时序HUST 资源下载"
 date:   2021-03-10
 tags: [CPU,单总线,HUST,时序,设计]
 comments: true

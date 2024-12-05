@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "发那科机器人 EtherNet-IP 设置手册"
+title: "发那科机器人 EtherNetIP 设置手册"
 date:   2020-06-28
 tags: [EtherNet,IP,发那科,手册,机器人]
 comments: true

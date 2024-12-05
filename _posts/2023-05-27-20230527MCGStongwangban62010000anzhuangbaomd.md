@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCGS_通网版6.2(01.0000)安装包"
+title: "MCGS通网版62010000安装包"
 date:   2022-05-29
 tags: [MCGS,通网,6.2,01.0000,安装包]
 comments: true

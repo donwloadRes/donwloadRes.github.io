@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕ROG游戏本R7-幻14-GA401IV原装出厂系统恢复文件"
+title: "ASUS华硕ROG游戏本R7幻14GA401IV原装出厂系统恢复文件"
 date:   2023-12-12
 tags: [ASUS,ROG,R7,14,GA401IV]
 comments: true

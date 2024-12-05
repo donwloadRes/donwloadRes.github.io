@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信原理课后答案（第二版）周冬梅"
+title: "数字通信原理课后答案第二版周冬梅"
 date:   2021-12-11
 tags: [数字通信,答案,课后,周冬梅,原理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA课程设计--员工信息管理系统"
+title: "JAVA课程设计员工信息管理系统"
 date:   2024-03-10
 tags: [JAVA,课程设计,员工,信息管理系统,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J2022入门组二轮补赛试题（山东）"
+title: "CSPJ2022入门组二轮补赛试题山东"
 date:   2020-03-27
 tags: [试题,CSP,J2022,补赛,二轮]
 comments: true

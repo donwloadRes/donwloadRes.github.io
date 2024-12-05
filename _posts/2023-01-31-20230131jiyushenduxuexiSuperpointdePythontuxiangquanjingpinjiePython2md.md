@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习Superpoint的Python图像全景拼接（Python2）"
+title: "基于深度学习Superpoint的Python图像全景拼接Python2"
 date:   2021-05-04
 tags: [图像,拼接,Superpoint,Python2,Python]
 comments: true

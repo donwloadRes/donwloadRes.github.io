@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP习题题库（2023）下载仓库"
+title: "CISP习题题库2023下载仓库"
 date:   2024-01-23
 tags: [CISP,习题,题库,2023,练习]
 comments: true

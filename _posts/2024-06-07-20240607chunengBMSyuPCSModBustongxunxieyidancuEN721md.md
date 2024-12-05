@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "储能BMS与PCS ModBus通讯协议_单簇EN_7.21"
+title: "储能BMS与PCS ModBus通讯协议单簇EN721"
 date:   2020-08-11
 tags: [通讯,储能,BMS,PCS,ModBus]
 comments: true

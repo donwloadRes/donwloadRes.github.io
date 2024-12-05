@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Titanic数据集（CSV格式）下载仓库"
+title: "Titanic数据集CSV格式下载仓库"
 date:   2022-05-23
 tags: [数据,Titanic,CSV,仓库,csv]
 comments: true

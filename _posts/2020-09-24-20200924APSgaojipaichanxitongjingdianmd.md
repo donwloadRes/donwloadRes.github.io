@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APS高级排产系统(经典)"
+title: "APS高级排产系统经典"
 date:   2022-08-20
 tags: [APS,排产,系统,高级,ILog]
 comments: true

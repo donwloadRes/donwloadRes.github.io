@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS2812B全彩LED灯（PWM+DMA控制）资源仓库"
+title: "WS2812B全彩LED灯PWMDMA控制资源仓库"
 date:   2023-04-30
 tags: [LED,PWM,DMA,breathing,WS2812B]
 comments: true

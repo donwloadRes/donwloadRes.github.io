@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8.10 支持 Windows 7 32位-64位系统"
+title: "Python 3810 支持 Windows 7 32位64位系统"
 date:   2022-05-20
 tags: [10,Python,3.8,Windows,64]
 comments: true

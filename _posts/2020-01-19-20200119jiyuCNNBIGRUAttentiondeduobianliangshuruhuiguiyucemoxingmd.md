@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-BIGRU-Attention的多变量输入回归预测模型"
+title: "基于CNNBIGRUAttention的多变量输入回归预测模型"
 date:   2022-04-03
 tags: [模型,CNN,BIGRU,Attention,输入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows提示找不到comctl32.ocx文件"
+title: "解决Windows提示找不到comctl32ocx文件"
 date:   2022-09-05
 tags: [文件,Windows,comctl32,ocx,32]
 comments: true

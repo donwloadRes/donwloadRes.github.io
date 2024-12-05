@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX配置STM32F103C8TX进行SPI双机通信（DMA方式）+串口输出"
+title: "STM32CubeMX配置STM32F103C8TX进行SPI双机通信DMA方式串口输出"
 date:   2022-01-15
 tags: [SPI,串口,双机,DMA,通信]
 comments: true

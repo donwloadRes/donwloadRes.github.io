@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K+FreeRTOS学习笔记下载"
+title: "S32KFreeRTOS学习笔记下载"
 date:   2024-05-14
 tags: [FreeRTOS,学习,笔记,S32K,文件]
 comments: true

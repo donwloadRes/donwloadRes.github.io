@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "N_m3u8DL-CLI简明使用教程"
+title: "Nm3u8DLCLI简明使用教程"
 date:   2021-08-04
 tags: [下载,m3u8DL,CLI,m3u8,视频]
 comments: true

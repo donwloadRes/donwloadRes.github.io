@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC62368-1-2018版标准资源下载"
+title: "IEC6236812018版标准资源下载"
 date:   2021-07-14
 tags: [IEC62368,2018,充电器,标准,pdf]
 comments: true

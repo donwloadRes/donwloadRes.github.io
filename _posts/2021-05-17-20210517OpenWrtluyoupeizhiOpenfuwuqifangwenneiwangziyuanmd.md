@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenWrt路由配置Openνρη服务器访问内网资源"
+title: "OpenWrt路由配置Open服务器访问内网资源"
 date:   2023-04-21
 tags: [路由器,OpenWrt,Open,配置,内网资源]
 comments: true

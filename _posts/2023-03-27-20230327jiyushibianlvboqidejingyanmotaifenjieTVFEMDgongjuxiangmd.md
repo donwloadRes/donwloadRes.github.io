@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于时变滤波器的经验模态分解(TVF-EMD)工具箱"
+title: "基于时变滤波器的经验模态分解TVFEMD工具箱"
 date:   2024-09-04
 tags: [时变,EMD,TVF,Matlab,模态]
 comments: true

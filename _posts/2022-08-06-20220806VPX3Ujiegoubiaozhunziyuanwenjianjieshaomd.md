@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX-3U结构标准资源文件介绍"
+title: "VPX3U结构标准资源文件介绍"
 date:   2024-11-01
 tags: [板卡,VPX,3U,设计,文件]
 comments: true

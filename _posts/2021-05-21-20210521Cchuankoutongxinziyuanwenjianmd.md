@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++串口通信资源文件"
+title: "C串口通信资源文件"
 date:   2024-08-22
 tags: [串口,C++,通信,代码,文件]
 comments: true

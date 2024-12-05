@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RFSoC选型手册 - ZYNQ UltraScale+"
+title: "RFSoC选型手册  ZYNQ UltraScale"
 date:   2020-09-10
 tags: [RFSoC,选型,手册,ZYNQ,UltraScale]
 comments: true

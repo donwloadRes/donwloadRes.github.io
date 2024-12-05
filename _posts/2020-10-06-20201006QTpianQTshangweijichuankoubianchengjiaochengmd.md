@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 篇：QT上位机串口编程教程"
+title: "QT 篇QT上位机串口编程教程"
 date:   2023-12-03
 tags: [串口,QT,上位,编程,教程]
 comments: true

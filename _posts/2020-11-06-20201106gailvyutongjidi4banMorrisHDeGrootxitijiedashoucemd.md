@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率与统计（第4版）Morris H. DeGroot 习题解答手册"
+title: "概率与统计第4版Morris H DeGroot 习题解答手册"
 date:   2023-04-04
 tags: [习题,解答,手册,DeGroot,概率]
 comments: true

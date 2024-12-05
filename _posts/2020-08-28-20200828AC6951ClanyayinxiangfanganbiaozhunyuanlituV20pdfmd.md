@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AC6951C蓝牙音箱方案标准原理图V2.0.pdf"
+title: "AC6951C蓝牙音箱方案标准原理图V20pdf"
 date:   2023-03-09
 tags: [原理图,蓝牙,V2.0,音箱,AC6951C]
 comments: true

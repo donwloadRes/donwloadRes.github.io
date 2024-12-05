@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSOC-SA 泰合信息安全运营中心系统 日志审计系统V3.0.10.1用户手册"
+title: "TSOCSA 泰合信息安全运营中心系统 日志审计系统V30101用户手册"
 date:   2023-09-07
 tags: [日志,信息安全,泰合,审计,系统]
 comments: true

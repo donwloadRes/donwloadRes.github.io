@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5各类控件合集包（QML）"
+title: "QT5各类控件合集包QML"
 date:   2021-04-30
 tags: [控件,QT5,QML,QT,开发者]
 comments: true

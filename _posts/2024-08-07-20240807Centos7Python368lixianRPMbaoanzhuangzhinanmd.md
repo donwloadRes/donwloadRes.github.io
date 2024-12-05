@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7 Python 3.6.8 离线 RPM 包安装指南"
+title: "Centos7 Python 368 离线 RPM 包安装指南"
 date:   2022-05-31
 tags: [安装,离线,Python,3.6,--]
 comments: true

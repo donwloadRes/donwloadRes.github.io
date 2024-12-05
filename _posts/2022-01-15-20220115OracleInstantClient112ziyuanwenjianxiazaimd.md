@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle Instant Client 11.2 资源文件下载"
+title: "Oracle Instant Client 112 资源文件下载"
 date:   2021-10-14
 tags: [Oracle,资源,Instant,Client,文件]
 comments: true

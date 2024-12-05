@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LogicFlow + Vue 流程可视化开箱即用 Demo 模板"
+title: "LogicFlow  Vue 流程可视化开箱即用 Demo 模板"
 date:   2021-04-02
 tags: [可视化,模板,Vue,vue,流程]
 comments: true

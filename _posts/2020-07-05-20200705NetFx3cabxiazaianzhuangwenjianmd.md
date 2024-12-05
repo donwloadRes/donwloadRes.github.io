@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetFx3.cab 下载安装文件"
+title: "NetFx3cab 下载安装文件"
 date:   2021-10-10
 tags: [文件,NetFx3,cab,Windows,下载安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医疗商务平台需求说明书（SRS）下载"
+title: "医疗商务平台需求说明书SRS下载"
 date:   2022-05-13
 tags: [文档,SRS,需求,商务平台,说明书]
 comments: true

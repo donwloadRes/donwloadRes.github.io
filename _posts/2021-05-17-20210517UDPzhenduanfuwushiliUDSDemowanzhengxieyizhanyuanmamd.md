@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDP诊断服务示例（UDSDemo）- 完整协议栈源码"
+title: "UDP诊断服务示例UDSDemo 完整协议栈源码"
 date:   2020-05-23
 tags: [UDS,源码,UDSDemo,协议,示例]
 comments: true

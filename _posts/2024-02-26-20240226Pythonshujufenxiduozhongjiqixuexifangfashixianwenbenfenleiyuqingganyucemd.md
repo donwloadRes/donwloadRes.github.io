@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析：多种机器学习方法实现文本分类与情感预测"
+title: "Python数据分析多种机器学习方法实现文本分类与情感预测"
 date:   2022-11-04
 tags: [文本,Python,数据,情感,代码]
 comments: true

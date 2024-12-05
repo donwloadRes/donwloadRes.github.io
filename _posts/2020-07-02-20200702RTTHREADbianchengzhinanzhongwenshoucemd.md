@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-THREAD 编程指南 中文手册"
+title: "RTTHREAD 编程指南 中文手册"
 date:   2022-06-02
 tags: [RT,THREAD,编程,指南,操作系统]
 comments: true

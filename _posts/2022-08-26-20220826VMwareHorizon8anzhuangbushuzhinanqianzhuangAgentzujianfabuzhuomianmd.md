@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Horizon 8 安装部署指南（七）：安装Agent组件发布桌面"
+title: "VMware Horizon 8 安装部署指南七安装Agent组件发布桌面"
 date:   2022-10-25
 tags: [虚拟机,桌面,安装,Agent,组件]
 comments: true

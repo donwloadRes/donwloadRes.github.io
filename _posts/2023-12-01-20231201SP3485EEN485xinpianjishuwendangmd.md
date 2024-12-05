@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SP3485EEN_485芯片技术文档"
+title: "SP3485EEN485芯片技术文档"
 date:   2024-03-26
 tags: [芯片,485,SP3485,文档,SP3485EEN]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "字节跳动Python入门知识背记手册 - 高清PDF下载"
+title: "字节跳动Python入门知识背记手册  高清PDF下载"
 date:   2021-07-11
 tags: [Python,手册,背记,语句,入门]
 comments: true

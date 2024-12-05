@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北航数理统计作业（第一二次）"
+title: "北航数理统计作业第一二次"
 date:   2020-08-01
 tags: [作业,北航,数理统计,课程,内容]
 comments: true

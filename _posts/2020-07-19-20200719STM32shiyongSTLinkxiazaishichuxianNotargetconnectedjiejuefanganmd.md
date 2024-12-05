@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32使用ST-Link下载时出现No target connected解决方案"
+title: "STM32使用STLink下载时出现No target connected解决方案"
 date:   2020-01-26
 tags: [ST,Link,STM32,确保,正确]
 comments: true

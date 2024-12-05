@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉ADAS功能、硬件需求、评价标准资料下载"
+title: "视觉ADAS功能硬件需求评价标准资料下载"
 date:   2020-03-11
 tags: [ADAS,视觉,硬件,摄像头,提供商]
 comments: true

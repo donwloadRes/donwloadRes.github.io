@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ Runtime 下载指南"
+title: "Microsoft Visual C Runtime 下载指南"
 date:   2023-10-23
 tags: [C++,Runtime,Visual,下载,版本]
 comments: true

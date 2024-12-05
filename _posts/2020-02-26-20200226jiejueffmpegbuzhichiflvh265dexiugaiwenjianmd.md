@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决ffmpeg不支持flv+h265的修改文件"
+title: "解决ffmpeg不支持flvh265的修改文件"
 date:   2024-08-24
 tags: [ffmpeg,文件,修改,FLV,H.265]
 comments: true

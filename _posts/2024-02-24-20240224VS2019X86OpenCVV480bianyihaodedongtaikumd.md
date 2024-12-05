@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019, X86, OpenCV V4.8.0 编译好的动态库"
+title: "VS2019 X86 OpenCV V480 编译好的动态库"
 date:   2020-10-25
 tags: [OpenCV,V4.8,32,Visual,Studio]
 comments: true

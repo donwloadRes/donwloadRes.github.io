@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity插件 Stylized Water 2 v1.5.0"
+title: "Unity插件 Stylized Water 2 v150"
 date:   2024-06-12
 tags: [插件,游戏,Unity,风格化,Stylized]
 comments: true

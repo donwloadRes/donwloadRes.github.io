@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt线程控制源码：开始、暂停、恢复、停止"
+title: "Qt线程控制源码开始暂停恢复停止"
 date:   2020-06-01
 tags: [线程,Qt,源码,暂停,停止]
 comments: true

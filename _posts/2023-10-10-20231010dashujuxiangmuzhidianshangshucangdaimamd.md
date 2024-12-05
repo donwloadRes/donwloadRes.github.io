@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据项目之电商数仓-代码"
+title: "大数据项目之电商数仓代码"
 date:   2021-05-21
 tags: [数据,代码,电商,数据处理,项目]
 comments: true

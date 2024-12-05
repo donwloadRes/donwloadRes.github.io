@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023网络建设与运维-网络搭建与应用-网搭Linux部分题解方法-Part4"
+title: "2023网络建设与运维网络搭建与应用网搭Linux部分题解方法Part4"
 date:   2020-07-05
 tags: [简洁,Linux,运维,做法,网络]
 comments: true

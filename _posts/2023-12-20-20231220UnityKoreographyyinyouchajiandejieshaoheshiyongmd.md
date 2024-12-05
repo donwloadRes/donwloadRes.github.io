@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity-Koreography音游插件的介绍和使用"
+title: "UnityKoreography音游插件的介绍和使用"
 date:   2021-12-04
 tags: [游戏,音乐,Unity,Koreography,插件]
 comments: true

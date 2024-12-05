@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB开发大全，第5版（USB Complete - Jan Axelson, 5th Edition）"
+title: "USB开发大全第5版USB Complete  Jan Axelson 5th Edition"
 date:   2021-09-13
 tags: [USB,开发,大全,本书,Jan]
 comments: true

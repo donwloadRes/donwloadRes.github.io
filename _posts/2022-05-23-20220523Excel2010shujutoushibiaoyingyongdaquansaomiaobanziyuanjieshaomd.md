@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel 2010数据透视表应用大全 - 扫描版资源介绍"
+title: "Excel 2010数据透视表应用大全  扫描版资源介绍"
 date:   2020-06-25
 tags: [Excel,透视,数据,资源,数据分析]
 comments: true

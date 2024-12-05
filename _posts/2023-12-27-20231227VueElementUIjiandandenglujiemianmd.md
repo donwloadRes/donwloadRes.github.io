@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue + ElementUI 简单登录界面"
+title: "Vue  ElementUI 简单登录界面"
 date:   2023-09-11
 tags: [登录,界面,Vue,ElementUI,预览]
 comments: true

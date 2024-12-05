@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Linux内核（第三版.中文.PDF）下载仓库"
+title: "深入理解Linux内核第三版中文PDF下载仓库"
 date:   2022-07-28
 tags: [Linux,内核,PDF,中文,第三版]
 comments: true

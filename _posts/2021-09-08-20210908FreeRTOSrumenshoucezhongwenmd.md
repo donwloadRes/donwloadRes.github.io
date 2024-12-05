@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS入门手册_中文"
+title: "FreeRTOS入门手册中文"
 date:   2021-02-08
 tags: [FreeRTOS,实时操作系统,嵌入式,中文,入门]
 comments: true

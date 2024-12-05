@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32系列微控制器入门开发指南 V1.0"
+title: "GD32系列微控制器入门开发指南 V10"
 date:   2020-05-16
 tags: [GD32,微控制器,指南,开发,MCU]
 comments: true

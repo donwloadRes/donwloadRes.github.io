@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Control-M 资源配置指南"
+title: "ControlM 资源配置指南"
 date:   2020-09-28
 tags: [资源,指南,CTM,定义,Control]
 comments: true

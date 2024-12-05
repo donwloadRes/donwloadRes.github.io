@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#联合Halcon通过图像设定九点标定"
+title: "C联合Halcon通过图像设定九点标定"
 date:   2023-12-06
 tags: [Halcon,C#,标定,图像处理,九点]
 comments: true

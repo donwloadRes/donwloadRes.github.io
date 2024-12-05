@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-LINK固件修复指南"
+title: "JLINK固件修复指南"
 date:   2021-12-28
 tags: [固件,LINK,更新,修复,指南]
 comments: true

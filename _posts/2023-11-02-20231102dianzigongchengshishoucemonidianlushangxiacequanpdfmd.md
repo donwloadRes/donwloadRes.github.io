@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子工程师手册 - 模拟电路（上下册全）.pdf"
+title: "电子工程师手册  模拟电路上下册全pdf"
 date:   2021-12-01
 tags: [电路,模拟,电子,工程师,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel 接入Wind、iFind 数据查询指南"
+title: "Excel 接入WindiFind 数据查询指南"
 date:   2022-05-13
 tags: [Excel,Wind,数据,iFind,插件]
 comments: true

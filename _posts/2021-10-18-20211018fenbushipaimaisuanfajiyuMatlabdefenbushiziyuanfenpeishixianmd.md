@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分布式拍卖算法：基于Matlab的分布式资源分配实现"
+title: "分布式拍卖算法基于Matlab的分布式资源分配实现"
 date:   2020-07-07
 tags: [算法,Matlab,分布式,资源分配,拍卖]
 comments: true

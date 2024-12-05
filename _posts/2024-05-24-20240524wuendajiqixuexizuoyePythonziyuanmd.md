@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "吴恩达机器学习作业Python资源"
+title: "吴恩达机器学习作业Python资源
+date   20210703
+tags 作业Python机器学习代码
+comments true
+author admin
+
+
+layout post
+title 吴恩达机器学习作业Python资源"
 date:   2021-07-03
 tags: [作业,Python,机器,学习,代码]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "吴恩达机器学习作业Python资源"
+title: "吴恩达机器学习作业Python资源
+date   20210703
+tags 作业Python机器学习代码
+comments true
+author admin
+
+
+layout post
+title 吴恩达机器学习作业Python资源"
 date:   2020-08-14
 tags: [作业,Python,机器,学习,代码]
 comments: true

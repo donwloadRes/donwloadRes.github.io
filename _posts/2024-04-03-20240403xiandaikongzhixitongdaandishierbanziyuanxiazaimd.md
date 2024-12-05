@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制系统答案（第十二版）资源下载"
+title: "现代控制系统答案第十二版资源下载"
 date:   2024-07-02
 tags: [答案,控制系统,手册,第十二,现代]
 comments: true

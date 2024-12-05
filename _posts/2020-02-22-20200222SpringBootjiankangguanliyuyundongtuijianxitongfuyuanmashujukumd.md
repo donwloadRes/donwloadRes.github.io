@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot健康管理与运动推荐系统（附源码+数据库）"
+title: "SpringBoot健康管理与运动推荐系统附源码数据库"
 date:   2024-09-04
 tags: [用户,数据库,健康,信息,食物]
 comments: true

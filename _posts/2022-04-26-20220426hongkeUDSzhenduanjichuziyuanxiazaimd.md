@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虹科-UDS诊断基础资源下载"
+title: "虹科UDS诊断基础资源下载"
 date:   2021-05-13
 tags: [UDS,诊断,虹科,文件,pdf]
 comments: true

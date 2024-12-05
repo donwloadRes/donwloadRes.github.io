@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIMO-NOMA的Sum Rate仿真资源介绍"
+title: "MIMONOMA的Sum Rate仿真资源介绍"
 date:   2020-01-30
 tags: [MIMO,NOMA,Sum,Rate,仿真]
 comments: true

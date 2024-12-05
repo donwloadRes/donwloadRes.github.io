@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-61850 中文完整版资源下载"
+title: "IEC61850 中文完整版资源下载"
 date:   2022-03-14
 tags: [IEC,61850,完整版,资源,文件]
 comments: true

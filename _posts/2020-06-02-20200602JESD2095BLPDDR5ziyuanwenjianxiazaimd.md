@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD209-5B LPDDR5 资源文件下载"
+title: "JESD2095B LPDDR5 资源文件下载"
 date:   2021-07-14
 tags: [JESD209,5B,LPDDR5,文件,下载]
 comments: true

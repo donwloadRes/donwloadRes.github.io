@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS 2022 扩展插件安装包：GitHub Copilot"
+title: "VS 2022 扩展插件安装包GitHub Copilot"
 date:   2024-09-25
 tags: [2022,插件,GitHub,Copilot,Visual]
 comments: true

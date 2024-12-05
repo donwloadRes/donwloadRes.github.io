@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vCenter 6.0 下载地址"
+title: "VMware vCenter 60 下载地址"
 date:   2023-03-10
 tags: [VMware,vCenter,6.0,下载,百度网]
 comments: true

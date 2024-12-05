@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KepOPC DA2UA中间件：实现OPCDA与OPCUA的转换及互操作"
+title: "KepOPC DA2UA中间件实现OPCDA与OPCUA的转换及互操作"
 date:   2021-08-08
 tags: [OPCDA,OPCUA,中间件,KepOPC,DA2UA]
 comments: true

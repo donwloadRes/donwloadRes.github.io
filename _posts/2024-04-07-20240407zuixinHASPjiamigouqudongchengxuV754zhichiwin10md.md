@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新HASP加密狗驱动程序V7.54（支持win10）"
+title: "最新HASP加密狗驱动程序V754支持win10"
 date:   2020-02-08
 tags: [HASP,加密狗,驱动程序,V7.54,安装]
 comments: true

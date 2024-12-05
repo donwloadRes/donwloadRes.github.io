@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN 2.2A协议规范文件"
+title: "LIN 22A协议规范文件"
 date:   2024-04-21
 tags: [LIN,规范,协议,文件,2.2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动泊车垂直车位路径规划仿真（Matlab代码）"
+title: "自动泊车垂直车位路径规划仿真Matlab代码"
 date:   2020-02-24
 tags: [泊车,Matlab,代码,仿真,车位]
 comments: true

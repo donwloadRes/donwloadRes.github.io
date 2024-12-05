@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典 VB.NET 中的 Socket 通讯范例"
+title: "经典 VBNET 中的 Socket 通讯范例"
 date:   2022-05-22
 tags: [NET,VB,Socket,客户端,范例]
 comments: true

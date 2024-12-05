@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言基础（全）PDF下载"
+title: "C语言基础全PDF下载"
 date:   2021-12-08
 tags: [PDF,C语言,下载,文件,基础]
 comments: true

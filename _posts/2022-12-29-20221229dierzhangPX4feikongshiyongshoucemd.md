@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第二章: PX4飞控使用手册"
+title: "第二章 PX4飞控使用手册"
 date:   2024-04-02
 tags: [PX4,PX4IO,焊接,使用手册,接插件]
 comments: true

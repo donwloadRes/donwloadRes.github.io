@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb JSP通过JDBC访问数据库（MySQL为例）"
+title: "JavaWeb JSP通过JDBC访问数据库MySQL为例"
 date:   2021-04-09
 tags: [JDBC,数据库,MySQL,JSP,sql]
 comments: true

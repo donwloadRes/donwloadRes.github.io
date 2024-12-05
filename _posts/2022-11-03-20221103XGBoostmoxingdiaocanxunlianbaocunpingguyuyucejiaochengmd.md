@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XGBoost模型调参、训练、保存、评估与预测教程"
+title: "XGBoost模型调参训练保存评估与预测教程"
 date:   2021-03-09
 tags: [XGBoost,模型,调参,评估,训练]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高空抛物监测Opencv+SORT"
+title: "高空抛物监测OpencvSORT"
 date:   2024-04-19
 tags: [抛物,检测,高空,算法,监测]
 comments: true

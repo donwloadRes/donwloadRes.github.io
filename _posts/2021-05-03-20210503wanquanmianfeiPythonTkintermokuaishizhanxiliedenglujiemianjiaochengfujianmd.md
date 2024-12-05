@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【完全免费】Python Tkinter模块实战系列 - 登录界面教程附件"
+title: "完全免费Python Tkinter模块实战系列  登录界面教程附件"
 date:   2022-01-05
 tags: [Python,Tkinter,教程,界面,资源]
 comments: true

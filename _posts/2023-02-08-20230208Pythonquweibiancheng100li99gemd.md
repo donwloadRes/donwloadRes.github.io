@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python趣味编程100例（99个）"
+title: "Python趣味编程100例99个"
 date:   2024-02-06
 tags: [Python,编程,代码,99,案例]
 comments: true

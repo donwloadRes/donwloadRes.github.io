@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + Vue 学生选课管理系统"
+title: "SpringBoot  Vue 学生选课管理系统"
 date:   2021-06-15
 tags: [选课,bash,学生,查询,com]
 comments: true

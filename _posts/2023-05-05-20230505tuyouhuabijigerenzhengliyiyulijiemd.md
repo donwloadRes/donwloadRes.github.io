@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凸优化笔记-个人整理，易于理解"
+title: "凸优化笔记个人整理易于理解"
 date:   2024-08-09
 tags: [笔记,优化,理解,Boyd,整理]
 comments: true

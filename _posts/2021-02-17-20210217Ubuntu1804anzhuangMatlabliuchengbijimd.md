@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04安装Matlab流程笔记"
+title: "Ubuntu 1804安装Matlab流程笔记"
 date:   2022-09-06
 tags: [Matlab,R2018a,破解,root,matlab]
 comments: true

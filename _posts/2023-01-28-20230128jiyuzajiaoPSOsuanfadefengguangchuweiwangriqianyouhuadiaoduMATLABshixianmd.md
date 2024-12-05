@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于杂交PSO算法的风光储微网日前优化调度(MATLAB实现)"
+title: "基于杂交PSO算法的风光储微网日前优化调度MATLAB实现"
 date:   2022-12-08
 tags: [粒子,杂交,PSO,优化,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "myplot_dem 演示资源包"
+title: "myplotdem 演示资源包"
 date:   2024-12-01
 tags: [信号,myplot,dem,QCustomPlot,FFT]
 comments: true

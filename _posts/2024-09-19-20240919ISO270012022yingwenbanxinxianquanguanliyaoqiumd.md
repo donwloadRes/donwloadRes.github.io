@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 27001-2022英文版信息安全管理要求"
+title: "ISO 270012022英文版信息安全管理要求"
 date:   2023-10-21
 tags: [信息安全,ISO,27001,2022,标准]
 comments: true

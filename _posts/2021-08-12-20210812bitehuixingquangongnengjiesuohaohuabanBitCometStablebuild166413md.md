@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "比特彗星全功能解锁豪华版 (BitComet Stable build 1.66.4.13)"
+title: "比特彗星全功能解锁豪华版 BitComet Stable build 166413"
 date:   2020-10-02
 tags: [比特,彗星,下载,全功能,解锁]
 comments: true

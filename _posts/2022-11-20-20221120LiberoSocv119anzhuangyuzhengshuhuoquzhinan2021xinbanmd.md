@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Libero Soc v11.9 安装与证书获取指南（2021新版）"
+title: "Libero Soc v119 安装与证书获取指南2021新版"
 date:   2020-04-15
 tags: [Libero,Soc,v11.9,证书,获取]
 comments: true

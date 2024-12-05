@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ws2812b+PWM+TIM+DMA资源库"
+title: "ws2812bPWMTIMDMA资源库"
 date:   2021-11-26
 tags: [LED,PWM,DMA,STM32F1,TIM]
 comments: true

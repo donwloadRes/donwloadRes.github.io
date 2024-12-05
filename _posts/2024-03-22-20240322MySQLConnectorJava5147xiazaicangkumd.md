@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-Java 5.1.47 下载仓库"
+title: "MySQL ConnectorJava 5147 下载仓库"
 date:   2020-01-15
 tags: [MySQL,Java,47,5.1,Connector]
 comments: true

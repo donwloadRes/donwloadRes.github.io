@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛函分析讲义（下册）第六章习题解答"
+title: "泛函分析讲义下册第六章习题解答"
 date:   2022-06-21
 tags: [习题,泛函,解答,下册,算子]
 comments: true

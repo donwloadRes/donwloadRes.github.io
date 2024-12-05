@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享66个Java游戏源码，总有一个是你想要的"
+title: "分享66个Java游戏源码总有一个是你想要的"
 date:   2020-03-08
 tags: [源码,Java,游戏,66,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt资源库 - 图片"
+title: "Qt资源库  图片"
 date:   2022-05-08
 tags: [图标,Qt,资源库,应用,开发者]
 comments: true

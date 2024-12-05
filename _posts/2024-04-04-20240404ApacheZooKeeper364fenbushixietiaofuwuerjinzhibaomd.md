@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache ZooKeeper 3.6.4 分布式协调服务二进制包"
+title: "Apache ZooKeeper 364 分布式协调服务二进制包"
 date:   2022-04-09
 tags: [ZooKeeper,分布式,Apache,服务,3.6]
 comments: true

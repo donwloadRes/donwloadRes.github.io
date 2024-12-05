@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C++ Qt 5.15 的B样条曲线绘制程序"
+title: "基于C Qt 515 的B样条曲线绘制程序"
 date:   2021-08-28
 tags: [曲线,样条,控制点,绘制,C++]
 comments: true

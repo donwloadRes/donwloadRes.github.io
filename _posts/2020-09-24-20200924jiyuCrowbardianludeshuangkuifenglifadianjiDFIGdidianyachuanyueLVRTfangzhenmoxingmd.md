@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Crowbar电路的双馈风力发电机（DFIG）低电压穿越（LVRT）仿真模型"
+title: "基于Crowbar电路的双馈风力发电机DFIG低电压穿越LVRT仿真模型"
 date:   2021-05-07
 tags: [电路,Crowbar,发电机,低电压,电压]
 comments: true

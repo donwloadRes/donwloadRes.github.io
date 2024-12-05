@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolo训练数据标注工具-Yolo_mark"
+title: "Yolo训练数据标注工具Yolomark"
 date:   2023-05-25
 tags: [标注,Yolo,mark,工具,YOLO]
 comments: true

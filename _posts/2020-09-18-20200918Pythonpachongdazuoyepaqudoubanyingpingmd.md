@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫大作业：爬取豆瓣影评"
+title: "Python爬虫大作业爬取豆瓣影评"
 date:   2020-05-10
 tags: [豆瓣,影评,Excel,Python,表格]
 comments: true

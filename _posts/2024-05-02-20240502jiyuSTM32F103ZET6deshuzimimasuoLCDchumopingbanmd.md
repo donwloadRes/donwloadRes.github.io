@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103ZET6的数字密码锁（LCD触摸屏版）"
+title: "基于STM32F103ZET6的数字密码锁LCD触摸屏版"
 date:   2020-03-11
 tags: [LCD,触摸屏,STM32F103ZET6,开发板,基于]
 comments: true

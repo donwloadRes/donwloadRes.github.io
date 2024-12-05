@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux虚拟机网络配置-桥接网络配置"
+title: "Linux虚拟机网络配置桥接网络配置"
 date:   2022-10-28
 tags: [虚拟机,网络,桥接,Linux,配置]
 comments: true

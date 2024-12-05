@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老毛子、华硕固件USB连接打印机：将普通打印机变身无线打印机"
+title: "老毛子华硕固件USB连接打印机将普通打印机变身无线打印机"
 date:   2022-04-02
 tags: [打印机,固件,USB,无线,路由器]
 comments: true

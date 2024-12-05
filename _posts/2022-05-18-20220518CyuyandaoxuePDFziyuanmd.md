@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言导学PDF资源"
+title: "C语言导学PDF资源"
 date:   2021-11-25
 tags: [C++,PDF,导学,学习,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LittleVGL (LVGL) 移植到 STM32F429IG 野火开发板"
+title: "LittleVGL LVGL 移植到 STM32F429IG 野火开发板"
 date:   2022-01-12
 tags: [开发板,演示,移植,LittleVGL,STM32F429IG]
 comments: true

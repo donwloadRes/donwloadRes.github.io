@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标跟踪数据集：MOT16与MOT17介绍及评测指标"
+title: "多目标跟踪数据集MOT16与MOT17介绍及评测指标"
 date:   2022-03-23
 tags: [跟踪,MOT16,MOT17,目标,数据]
 comments: true

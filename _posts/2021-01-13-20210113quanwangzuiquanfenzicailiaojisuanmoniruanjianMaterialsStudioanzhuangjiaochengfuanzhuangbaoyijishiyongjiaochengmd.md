@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全！分子材料计算模拟软件Materials Studio安装教程（附安装包），以及使用教程！"
+title: "全网最全分子材料计算模拟软件Materials Studio安装教程附安装包以及使用教程"
 date:   2024-02-17
 tags: [Materials,Studio,安装,教程,安装包]
 comments: true

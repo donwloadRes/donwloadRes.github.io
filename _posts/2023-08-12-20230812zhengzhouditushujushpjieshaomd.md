@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "郑州地图数据.shp 介绍"
+title: "郑州地图数据shp 介绍"
 date:   2024-08-15
 tags: [GIS,数据,shp,城市,软件]
 comments: true

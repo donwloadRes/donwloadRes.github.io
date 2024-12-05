@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STlink V2 烧录器使用教学 【STM32篇】"
+title: "STlink V2 烧录器使用教学 STM32篇"
 date:   2022-01-01
 tags: [烧录,STM32,STlink,V2,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的数字密码锁设计（EGO1开发板）（Vivado）"
+title: "基于FPGA的数字密码锁设计EGO1开发板Vivado"
 date:   2023-02-08
 tags: [EGO1,密码锁,开发板,设计,Vivado]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFCC算法讲解及实现（Matlab）"
+title: "MFCC算法讲解及实现Matlab"
 date:   2021-06-16
 tags: [MFCC,Matlab,语音,算法,文档]
 comments: true

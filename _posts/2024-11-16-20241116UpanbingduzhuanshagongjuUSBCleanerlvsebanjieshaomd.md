@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U盘病毒专杀工具（USBCleaner）绿色版介绍"
+title: "U盘病毒专杀工具USBCleaner绿色版介绍"
 date:   2020-08-15
 tags: [U盘,病毒,软件,USBCleaner,绿色版]
 comments: true

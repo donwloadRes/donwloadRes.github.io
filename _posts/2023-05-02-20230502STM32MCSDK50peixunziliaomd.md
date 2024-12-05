@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 MC SDK5.0 培训资料"
+title: "STM32 MC SDK50 培训资料"
 date:   2021-08-17
 tags: [STM32,电机,SDK5.0,MC,SDK]
 comments: true

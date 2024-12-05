@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIS基线合集-常用版本操作系统、数据库及中间件"
+title: "CIS基线合集常用版本操作系统数据库及中间件"
 date:   2023-09-16
 tags: [CIS,基线,中间件,数据库,操作系统]
 comments: true

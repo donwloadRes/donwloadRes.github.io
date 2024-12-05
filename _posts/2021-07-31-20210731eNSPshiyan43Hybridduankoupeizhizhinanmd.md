@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP实验4-3：Hybrid端口配置指南"
+title: "eNSP实验43Hybrid端口配置指南"
 date:   2024-08-01
 tags: [Hybrid,VLAN,端口,eNSP,端口配置]
 comments: true

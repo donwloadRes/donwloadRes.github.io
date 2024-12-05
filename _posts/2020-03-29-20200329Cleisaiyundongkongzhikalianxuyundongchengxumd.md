@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 雷塞运动控制卡连续运动程序"
+title: "C 雷塞运动控制卡连续运动程序"
 date:   2020-12-13
 tags: [运动,雷塞,控制卡,程序,C#]
 comments: true

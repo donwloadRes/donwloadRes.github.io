@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android使用Netty网络框架实践（客户端、服务端）"
+title: "Android使用Netty网络框架实践客户端服务端"
 date:   2022-07-02
 tags: [Netty,Android,客户端,服务端,框架]
 comments: true

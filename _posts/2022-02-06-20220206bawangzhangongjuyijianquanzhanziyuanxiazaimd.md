@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "扒网站工具(一键全站资源下载)"
+title: "扒网站工具一键全站资源下载"
 date:   2020-12-23
 tags: [下载,网站,工具,资源,全站]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GraphPad Prism v9.4.0.673 Win64 下载仓库"
+title: "GraphPad Prism v940673 Win64 下载仓库"
 date:   2021-05-10
 tags: [GraphPad,Prism,0.673,v9.4,Win64]
 comments: true

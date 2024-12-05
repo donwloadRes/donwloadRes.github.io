@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICM-40607 中文数据手册"
+title: "ICM40607 中文数据手册"
 date:   2021-10-28
 tags: [ICM,40607,手册,传感器,中文]
 comments: true

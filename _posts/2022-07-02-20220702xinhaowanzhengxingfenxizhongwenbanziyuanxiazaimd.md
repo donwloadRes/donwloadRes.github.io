@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性分析(中文版) 资源下载"
+title: "信号完整性分析中文版 资源下载"
 date:   2023-04-07
 tags: [完整性,信号,中文版,本书,下载]
 comments: true

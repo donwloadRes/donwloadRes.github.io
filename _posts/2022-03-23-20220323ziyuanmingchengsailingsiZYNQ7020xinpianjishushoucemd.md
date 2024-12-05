@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资源名称：赛灵思ZYNQ7020芯片技术手册"
+title: "资源名称赛灵思ZYNQ7020芯片技术手册"
 date:   2021-04-10
 tags: [ZYNQ7020,手册,开发者,赛灵思,系统]
 comments: true

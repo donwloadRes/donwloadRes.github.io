@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32读取SD卡图片并通过1.8寸TFT显示"
+title: "STM32读取SD卡图片并通过18寸TFT显示"
 date:   2022-10-23
 tags: [SD,STM32,TFT,1.8,读取]
 comments: true

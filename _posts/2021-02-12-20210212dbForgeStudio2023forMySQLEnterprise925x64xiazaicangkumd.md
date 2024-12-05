@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dbForge Studio 2023 for MySQL Enterprise 9.2.5 x64 下载仓库"
+title: "dbForge Studio 2023 for MySQL Enterprise 925 x64 下载仓库"
 date:   2024-02-13
 tags: [MySQL,添加,dbForge,Studio,9.2]
 comments: true

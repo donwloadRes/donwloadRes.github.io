@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精品 ICO 图标素材库：17292 个创意视觉资源"
+title: "精品 ICO 图标素材库17292 个创意视觉资源"
 date:   2020-06-13
 tags: [图标,ICO,17292,创意,设计]
 comments: true

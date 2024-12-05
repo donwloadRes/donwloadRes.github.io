@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SiI9022A-SiI9024A程序员参考指南"
+title: "SiI9022ASiI9024A程序员参考指南"
 date:   2024-02-27
 tags: [寄存器,控制器,开发者,程序员,编程]
 comments: true

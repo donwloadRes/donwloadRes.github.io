@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT C++ 检测计算机软硬件信息"
+title: "QT C 检测计算机软硬件信息"
 date:   2022-10-20
 tags: [信息,计算机,检测,软硬件,操作系统]
 comments: true

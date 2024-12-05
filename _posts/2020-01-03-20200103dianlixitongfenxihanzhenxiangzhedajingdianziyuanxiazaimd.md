@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统分析韩祯祥（浙大经典）资源下载"
+title: "电力系统分析韩祯祥浙大经典资源下载"
 date:   2022-01-19
 tags: [系统分析,韩祯祥,考研,电力,教材]
 comments: true

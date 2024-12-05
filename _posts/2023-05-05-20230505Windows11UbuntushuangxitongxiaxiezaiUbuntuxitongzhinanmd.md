@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 11 + Ubuntu 双系统下卸载 Ubuntu 系统指南"
+title: "Windows 11  Ubuntu 双系统下卸载 Ubuntu 系统指南"
 date:   2024-07-15
 tags: [Ubuntu,Windows,卸载,双系统,删除]
 comments: true

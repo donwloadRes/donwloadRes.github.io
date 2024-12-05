@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt之Post方法上传图片到服务器两种方式：Base64流和File"
+title: "Qt之Post方法上传图片到服务器两种方式Base64流和File"
 date:   2020-10-02
 tags: [上传,Qt,Base64,图片,文件]
 comments: true

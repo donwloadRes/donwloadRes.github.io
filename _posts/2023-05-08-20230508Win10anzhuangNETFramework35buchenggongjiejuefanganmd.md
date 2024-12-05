@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装NET Framework 3.5不成功解决方案"
+title: "Win10安装NET Framework 35不成功解决方案"
 date:   2020-02-20
 tags: [安装,NET,Framework,3.5,离线]
 comments: true

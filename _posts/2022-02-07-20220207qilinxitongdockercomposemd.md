@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟系统docker-compose"
+title: "麒麟系统dockercompose"
 date:   2022-04-23
 tags: [docker,compose,麒麟,Docker,bash]
 comments: true

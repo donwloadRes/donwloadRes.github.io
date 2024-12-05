@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt 5.9.1 调用周立功CAN卡第三方库实例"
+title: "qt 591 调用周立功CAN卡第三方库实例"
 date:   2023-09-02
 tags: [Qt,示例,立功,实例,5.9]
 comments: true

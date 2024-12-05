@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VOFA+ 插件库：Vodka"
+title: "VOFA 插件库Vodka"
 date:   2021-11-07
 tags: [VOFA,插件,仓库,Vodka,控件]
 comments: true

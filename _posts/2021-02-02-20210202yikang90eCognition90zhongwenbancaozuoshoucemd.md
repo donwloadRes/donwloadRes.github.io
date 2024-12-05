@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易康9.0（eCognition 9.0）中文版操作手册"
+title: "易康90eCognition 90中文版操作手册"
 date:   2021-02-03
 tags: [9.0,易康,操作手册,图像,分析]
 comments: true

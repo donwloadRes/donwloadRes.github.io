@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++飞机票订购系统"
+title: "CC飞机票订购系统"
 date:   2023-07-29
 tags: [飞机票,系统,数据,C++,订票]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 开发常用图标资源"
+title: "C WinForm 开发常用图标资源"
 date:   2020-11-04
 tags: [图标,WinForm,C#,文件,资源]
 comments: true

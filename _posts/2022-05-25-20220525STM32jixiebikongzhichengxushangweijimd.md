@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32机械臂控制程序（上位机）"
+title: "STM32机械臂控制程序上位机"
 date:   2024-08-07
 tags: [上位,蓝牙,STM32,机械,连接]
 comments: true

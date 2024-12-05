@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机载电子设备硬件设计保证指南 DO-254标准"
+title: "机载电子设备硬件设计保证指南 DO254标准"
 date:   2020-08-23
 tags: [硬件,文档,设计,机载,DO]
 comments: true

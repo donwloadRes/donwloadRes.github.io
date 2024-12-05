@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aqua Data Studio v19.0 安装使用指南"
+title: "Aqua Data Studio v190 安装使用指南"
 date:   2024-03-02
 tags: [安装,Aqua,Data,Studio,数据库]
 comments: true

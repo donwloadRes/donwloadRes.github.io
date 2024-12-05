@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白手机Python编程指南：Pydroid 3安装与难题攻克"
+title: "小白手机Python编程指南Pydroid 3安装与难题攻克"
 date:   2022-11-22
 tags: [Python,Pydroid,pip,安装,编程]
 comments: true

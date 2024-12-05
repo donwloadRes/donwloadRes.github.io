@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet和PointNet++的Pytorch实现"
+title: "PointNet和PointNet的Pytorch实现"
 date:   2020-01-31
 tags: [--,PointNet,分割,代码,模型]
 comments: true

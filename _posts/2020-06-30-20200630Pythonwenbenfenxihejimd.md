@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+文本分析合集"
+title: "Python文本分析合集"
 date:   2020-05-11
 tags: [Python,文本,合集,UNICODE,分析]
 comments: true

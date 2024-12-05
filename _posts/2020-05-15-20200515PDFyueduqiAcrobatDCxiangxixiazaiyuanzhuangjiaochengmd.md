@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF阅读器｜Acrobat DC详细下载与安装教程"
+title: "PDF阅读器Acrobat DC详细下载与安装教程"
 date:   2024-01-12
 tags: [Acrobat,DC,PDF,下载,安装]
 comments: true

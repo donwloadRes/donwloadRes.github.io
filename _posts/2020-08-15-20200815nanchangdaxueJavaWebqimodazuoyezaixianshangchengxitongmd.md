@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南昌大学JavaWeb期末大作业-在线商城系统"
+title: "南昌大学JavaWeb期末大作业在线商城系统"
 date:   2021-07-30
 tags: [JavaWeb,项目,期末,实战,作业]
 comments: true

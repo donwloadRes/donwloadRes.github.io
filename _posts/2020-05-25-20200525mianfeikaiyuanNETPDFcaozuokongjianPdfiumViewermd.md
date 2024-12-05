@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费开源.NET PDF操作控件PdfiumViewer"
+title: "免费开源NET PDF操作控件PdfiumViewer"
 date:   2021-08-17
 tags: [PDF,PdfiumViewer,NET,文件,开源]
 comments: true

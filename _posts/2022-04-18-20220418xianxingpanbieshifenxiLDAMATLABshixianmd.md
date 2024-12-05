@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性判别式分析(LDA) MATLAB实现"
+title: "线性判别式分析LDA MATLAB实现"
 date:   2021-09-10
 tags: [LDA,MATLAB,判别式,算法,代码]
 comments: true

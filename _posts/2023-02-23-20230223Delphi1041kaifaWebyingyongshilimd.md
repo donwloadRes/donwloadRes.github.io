@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.4.1 开发Web应用示例"
+title: "Delphi 1041 开发Web应用示例"
 date:   2023-06-14
 tags: [Delphi,Web,IntraWeb,应用,开发]
 comments: true

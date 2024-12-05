@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "phpstudy+靶场sqli-labs-master下载"
+title: "phpstudy靶场sqlilabsmaster下载"
 date:   2024-08-22
 tags: [phpstudy,sqli,labs,master,靶场]
 comments: true

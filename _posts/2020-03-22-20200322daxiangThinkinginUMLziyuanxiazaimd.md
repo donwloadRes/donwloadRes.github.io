@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大象－Thinking in UML 资源下载"
+title: "大象Thinking in UML 资源下载"
 date:   2024-11-20
 tags: [UML,文件,Thinking,大象,pdf]
 comments: true

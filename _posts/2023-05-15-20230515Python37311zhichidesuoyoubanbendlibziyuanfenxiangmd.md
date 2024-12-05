@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7-3.11 支持的所有版本 dlib 资源分享"
+title: "Python 37311 支持的所有版本 dlib 资源分享"
 date:   2023-01-01
 tags: [版本,dlib,3.11,安装,Python]
 comments: true

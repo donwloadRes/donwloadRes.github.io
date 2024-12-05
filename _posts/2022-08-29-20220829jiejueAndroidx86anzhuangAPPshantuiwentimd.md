@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Android-x86安装APP闪退问题"
+title: "解决Androidx86安装APP闪退问题"
 date:   2024-04-02
 tags: [闪退,Android,x86,APP,步骤]
 comments: true

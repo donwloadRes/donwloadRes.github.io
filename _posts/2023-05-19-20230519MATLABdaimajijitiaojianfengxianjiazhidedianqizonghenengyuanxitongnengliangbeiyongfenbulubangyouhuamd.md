@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：计及条件风险价值的电-气综合能源系统能量-备用分布鲁棒优化"
+title: "MATLAB代码计及条件风险价值的电气综合能源系统能量备用分布鲁棒优化"
 date:   2024-08-22
 tags: [代码,鲁棒,调度,优化,MATLAB]
 comments: true

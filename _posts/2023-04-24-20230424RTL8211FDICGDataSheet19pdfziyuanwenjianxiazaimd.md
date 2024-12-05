@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8211F(D)(I)-CG_DataSheet_1.9.pdf 资源文件下载"
+title: "RTL8211FDICGDataSheet19pdf 资源文件下载"
 date:   2020-06-26
 tags: [SDK,刷机,编译,CG,说明]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE各节点系统接线图（VISIO版）"
+title: "IEEE各节点系统接线图VISIO版"
 date:   2021-11-20
 tags: [接线图,节点,文档,资源,电力系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIA-422-B-1994(R-2005) 标准文档下载"
+title: "TIA422B1994R2005 标准文档下载"
 date:   2024-06-02
 tags: [TIA,文档,422,2005,1994]
 comments: true

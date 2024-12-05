@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台湾威锋VL222+VL161方案参考原理图"
+title: "台湾威锋VL222VL161方案参考原理图"
 date:   2024-06-12
 tags: [原理图,电路设计,VL222,VL161,方案]
 comments: true

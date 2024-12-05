@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE 3.0性能测试资源文件介绍"
+title: "PCIE 30性能测试资源文件介绍"
 date:   2020-02-10
 tags: [测试,码型,preset,CEM,眼图]
 comments: true

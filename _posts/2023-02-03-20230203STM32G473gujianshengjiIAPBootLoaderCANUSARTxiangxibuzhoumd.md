@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G473 固件升级IAP（BootLoader）CAN-USART 详细步骤"
+title: "STM32G473 固件升级IAPBootLoaderCANUSART 详细步骤"
 date:   2022-11-11
 tags: [固件,USART,配置,IAP,BootLoader]
 comments: true

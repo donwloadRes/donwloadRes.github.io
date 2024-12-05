@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "amlogic晶晨 A311D2 数据手册 V0.3版本"
+title: "amlogic晶晨 A311D2 数据手册 V03版本"
 date:   2023-12-04
 tags: [V0.3,A311D2,手册,amlogic,晶晨]
 comments: true

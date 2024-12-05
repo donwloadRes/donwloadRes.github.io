@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统（30节点）机组组合优化调度"
+title: "电力系统30节点机组组合优化调度"
 date:   2020-09-21
 tags: [机组,优化,30,电力系统,节点]
 comments: true

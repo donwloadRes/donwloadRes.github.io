@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新阿里巴巴Java开发手册全套（华山版、泰山版、嵩山版、黄山版等）"
+title: "最新阿里巴巴Java开发手册全套华山版泰山版嵩山版黄山版等"
 date:   2023-08-04
 tags: [Java,手册,pdf,开发,全套]
 comments: true

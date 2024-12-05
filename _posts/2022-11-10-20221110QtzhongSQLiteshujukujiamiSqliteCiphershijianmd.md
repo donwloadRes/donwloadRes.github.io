@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt中SQLite数据库加密-SqliteCipher实践"
+title: "Qt中SQLite数据库加密SqliteCipher实践"
 date:   2024-08-09
 tags: [数据库,加密,SqliteCipher,Qt,SQLite]
 comments: true

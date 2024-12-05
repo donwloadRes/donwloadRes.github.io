@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-LAB 实时仿真系统基础介绍"
+title: "RTLAB 实时仿真系统基础介绍"
 date:   2022-07-02
 tags: [RT,LAB,仿真,实时,软件]
 comments: true

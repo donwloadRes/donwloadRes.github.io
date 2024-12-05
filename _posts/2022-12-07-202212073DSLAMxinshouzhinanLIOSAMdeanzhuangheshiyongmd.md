@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D SLAM新手指南：LIO-SAM的安装和使用"
+title: "3D SLAM新手指南LIOSAM的安装和使用"
 date:   2020-11-28
 tags: [LIO,SAM,SLAM,bash,激光雷达]
 comments: true

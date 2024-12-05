@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMSM无感FOC控制原理推导（基于传统SMO算法）"
+title: "PMSM无感FOC控制原理推导基于传统SMO算法"
 date:   2024-10-22
 tags: [FOC,无感,SMO,PMSM,控制]
 comments: true

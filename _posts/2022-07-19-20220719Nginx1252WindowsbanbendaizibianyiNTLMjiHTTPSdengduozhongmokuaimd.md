@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx 1.25.2 Windows版本，带自编译NTLM及HTTPS等多种模块"
+title: "Nginx 1252 Windows版本带自编译NTLM及HTTPS等多种模块"
 date:   2023-03-11
 tags: [Nginx,版本,模块,1.25,Windows]
 comments: true

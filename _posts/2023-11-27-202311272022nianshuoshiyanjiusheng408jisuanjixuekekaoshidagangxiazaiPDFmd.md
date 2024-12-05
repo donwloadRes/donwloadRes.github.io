@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年硕士研究生408计算机学科考试大纲（下载PDF）"
+title: "2022年硕士研究生408计算机学科考试大纲下载PDF"
 date:   2020-06-29
 tags: [408,PDF,大纲,2022,学科考试]
 comments: true

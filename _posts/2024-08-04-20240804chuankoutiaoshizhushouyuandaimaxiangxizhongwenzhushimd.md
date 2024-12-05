@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手源代码（详细中文注释）"
+title: "串口调试助手源代码详细中文注释"
 date:   2023-10-24
 tags: [源代码,串口,注释,可执行文件,代码]
 comments: true

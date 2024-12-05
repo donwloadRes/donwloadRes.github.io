@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAR-CCM+ 13.02 官方中文帮助文档"
+title: "STARCCM 1302 官方中文帮助文档"
 date:   2021-07-20
 tags: [STAR,CCM,文档,13.02,中文]
 comments: true

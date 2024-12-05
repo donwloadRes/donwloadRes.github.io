@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32与K210-OpenMV串口通信+源码"
+title: "STM32与K210OpenMV串口通信源码"
 date:   2022-10-20
 tags: [串口,STM32,K210,OpenMV,通信]
 comments: true

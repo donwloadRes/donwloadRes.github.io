@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VOS3000 8.0 安装包、注册机及教程"
+title: "VOS3000 80 安装包注册机及教程"
 date:   2020-03-29
 tags: [VOS3000,安装包,8.0,安装,注册机]
 comments: true

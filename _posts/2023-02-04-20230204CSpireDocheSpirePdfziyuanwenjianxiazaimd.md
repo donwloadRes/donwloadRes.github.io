@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Spire.Doc 和 Spire.Pdf 资源文件下载"
+title: "C SpireDoc 和 SpirePdf 资源文件下载"
 date:   2022-01-20
 tags: [Spire,Doc,Pdf,文件,C#]
 comments: true

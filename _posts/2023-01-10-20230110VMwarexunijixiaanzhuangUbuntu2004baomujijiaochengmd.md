@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机下安装Ubuntu20.04（保姆级教程）"
+title: "VMware虚拟机下安装Ubuntu2004保姆级教程"
 date:   2020-12-13
 tags: [虚拟机,Ubuntu,VMware,安装,教程]
 comments: true

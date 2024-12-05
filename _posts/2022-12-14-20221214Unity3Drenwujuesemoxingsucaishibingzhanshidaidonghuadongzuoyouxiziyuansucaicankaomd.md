@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D人物角色模型素材：士兵战士带动画动作游戏资源素材参考"
+title: "Unity3D人物角色模型素材士兵战士带动画动作游戏资源素材参考"
 date:   2020-11-12
 tags: [Unity3D,资源,动画,模型,素材]
 comments: true

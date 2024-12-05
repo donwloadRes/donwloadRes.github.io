@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL社区交流系统资源包"
+title: "PHPMySQL社区交流系统资源包"
 date:   2023-03-31
 tags: [系统,PHP,社区,MySQL,服务器]
 comments: true

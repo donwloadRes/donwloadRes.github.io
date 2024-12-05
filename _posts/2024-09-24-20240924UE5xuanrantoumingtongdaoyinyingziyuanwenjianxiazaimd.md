@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UE5 渲染透明通道+阴影资源文件下载"
+title: "UE5 渲染透明通道阴影资源文件下载"
 date:   2021-09-01
 tags: [UE5,渲染,阴影,透明,资源]
 comments: true

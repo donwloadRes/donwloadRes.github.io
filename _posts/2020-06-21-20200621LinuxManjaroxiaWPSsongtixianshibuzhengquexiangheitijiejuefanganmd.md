@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux-Manjaro下 WPS 宋体显示不正确(像黑体)解决方案"
+title: "LinuxManjaro下 WPS 宋体显示不正确像黑体解决方案"
 date:   2024-04-17
 tags: [宋体,字体,WPS,Linux,Manjaro]
 comments: true

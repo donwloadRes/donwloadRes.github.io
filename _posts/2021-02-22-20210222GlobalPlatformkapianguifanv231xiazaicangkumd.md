@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Global Platform 卡片规范 v2.3.1 下载仓库"
+title: "Global Platform 卡片规范 v231 下载仓库"
 date:   2023-03-05
 tags: [Global,Platform,卡片,v2.3,文件]
 comments: true

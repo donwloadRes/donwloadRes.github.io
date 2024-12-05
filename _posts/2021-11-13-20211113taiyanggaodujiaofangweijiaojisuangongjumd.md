@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太阳高度角-方位角计算工具"
+title: "太阳高度角方位角计算工具"
 date:   2023-02-03
 tags: [计算,方位角,数据,输入,太阳]
 comments: true

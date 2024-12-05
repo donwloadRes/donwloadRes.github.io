@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 实战教程资源下载"
+title: "Vuejs 实战教程资源下载"
 date:   2023-05-03
 tags: [Vue,js,实战,组件,讲解]
 comments: true

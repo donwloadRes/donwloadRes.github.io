@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通信解决方案"
+title: "C 串口通信解决方案"
 date:   2024-07-09
 tags: [串口,C#,文件,通信,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE7~10 串口控件：ComPort Library V4.14"
+title: "Delphi XE710 串口控件ComPort Library V414"
 date:   2020-11-26
 tags: [XE7,控件,串口,Delphi,ComPort]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SideWidget.zip 项目说明"
+title: "SideWidgetzip 项目说明"
 date:   2023-09-05
 tags: [Qt,SideWidget,动画,项目,zip]
 comments: true

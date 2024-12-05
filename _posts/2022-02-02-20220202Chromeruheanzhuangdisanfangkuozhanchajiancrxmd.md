@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome如何安装第三方扩展插件(crx)"
+title: "Chrome如何安装第三方扩展插件crx"
 date:   2021-07-11
 tags: [Chrome,插件,扩展,crx,组策略]
 comments: true

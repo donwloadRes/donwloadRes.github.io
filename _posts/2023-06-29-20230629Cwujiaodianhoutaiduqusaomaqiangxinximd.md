@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#无焦点后台读取扫码枪信息"
+title: "C无焦点后台读取扫码枪信息"
 date:   2021-08-10
 tags: [扫码,读取,焦点,后台,开发者]
 comments: true

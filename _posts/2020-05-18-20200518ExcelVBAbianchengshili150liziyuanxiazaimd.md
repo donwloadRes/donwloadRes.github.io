@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel VBA编程实例(150例) 资源下载"
+title: "Excel VBA编程实例150例 资源下载"
 date:   2020-03-23
 tags: [VBA,Excel,编程,实例,150]
 comments: true

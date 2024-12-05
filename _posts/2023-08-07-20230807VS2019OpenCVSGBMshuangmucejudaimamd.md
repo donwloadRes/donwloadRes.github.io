@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019 + OpenCV SGBM 双目测距代码"
+title: "VS2019  OpenCV SGBM 双目测距代码"
 date:   2022-10-08
 tags: [双目,测距,代码,SGBM,OpenCV]
 comments: true

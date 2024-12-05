@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机操作系统（第4版）高清PDF资源"
+title: "计算机操作系统第4版高清PDF资源"
 date:   2023-08-17
 tags: [PDF,高清,操作系统,每章,书签]
 comments: true

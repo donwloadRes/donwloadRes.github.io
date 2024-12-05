@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP MES功能介绍（吐血推荐）"
+title: "SAP MES功能介绍吐血推荐"
 date:   2020-03-10
 tags: [SAP,MES,文档,功能,生产]
 comments: true

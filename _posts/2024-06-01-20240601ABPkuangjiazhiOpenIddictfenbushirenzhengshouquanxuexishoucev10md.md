@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABP框架之OpenIddict分布式认证授权学习手册v1.0"
+title: "ABP框架之OpenIddict分布式认证授权学习手册v10"
 date:   2024-07-02
 tags: [ABP,OpenIddict,分布式,手册,框架]
 comments: true

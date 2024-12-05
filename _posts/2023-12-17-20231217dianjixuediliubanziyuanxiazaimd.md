@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机学（第六版）资源下载"
+title: "电机学第六版资源下载"
 date:   2021-07-14
 tags: [电机学,第六版,下载,资源,仓库]
 comments: true

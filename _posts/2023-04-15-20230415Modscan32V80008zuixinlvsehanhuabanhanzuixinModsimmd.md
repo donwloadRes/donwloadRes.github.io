@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modscan32 V8-00.08 最新绿色汉化版（含最新Modsim）"
+title: "Modscan32 V80008 最新绿色汉化版含最新Modsim"
 date:   2023-10-16
 tags: [Modsim,Modscan32,汉化版,MODBUS,汉化]
 comments: true

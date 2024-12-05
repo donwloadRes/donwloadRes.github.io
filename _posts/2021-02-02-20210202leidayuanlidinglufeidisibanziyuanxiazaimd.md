@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达原理 丁鹭飞（第四版）资源下载"
+title: "雷达原理 丁鹭飞第四版资源下载"
 date:   2020-08-19
 tags: [雷达,丁鹭飞,原理,第四版,下载]
 comments: true

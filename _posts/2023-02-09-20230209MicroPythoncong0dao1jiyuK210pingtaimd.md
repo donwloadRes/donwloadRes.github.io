@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MicroPython从0到1》基于K210平台"
+title: "MicroPython从0到1基于K210平台"
 date:   2024-11-07
 tags: [MicroPython,K210,AI,教程,嵌入式]
 comments: true

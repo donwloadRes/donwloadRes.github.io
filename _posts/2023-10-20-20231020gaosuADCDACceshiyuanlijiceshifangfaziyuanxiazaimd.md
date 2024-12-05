@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速ADC-DAC测试原理及测试方法资源下载"
+title: "高速ADCDAC测试原理及测试方法资源下载"
 date:   2023-03-26
 tags: [ADC,DAC,测试方法,测试,文件]
 comments: true

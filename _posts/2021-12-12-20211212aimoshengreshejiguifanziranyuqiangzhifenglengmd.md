@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "艾默生热设计规范：自然与强制风冷"
+title: "艾默生热设计规范自然与强制风冷"
 date:   2021-03-02
 tags: [风冷,艾默生,文件,强制,设计规范]
 comments: true

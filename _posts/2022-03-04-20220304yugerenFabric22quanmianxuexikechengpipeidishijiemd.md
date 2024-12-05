@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "与个人Fabric2.2全面学习课程匹配（第十节）"
+title: "与个人Fabric22全面学习课程匹配第十节"
 date:   2024-11-19
 tags: [Fabric,学习,第十节,Hyperledger,2.2]
 comments: true

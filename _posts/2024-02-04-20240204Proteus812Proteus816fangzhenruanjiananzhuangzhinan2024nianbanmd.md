@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.12 & Proteus 8.16 仿真软件安装指南 - 2024年版"
+title: "Proteus 812  Proteus 816 仿真软件安装指南  2024年版"
 date:   2022-02-17
 tags: [Proteus,指南,软件,安装,8.12]
 comments: true

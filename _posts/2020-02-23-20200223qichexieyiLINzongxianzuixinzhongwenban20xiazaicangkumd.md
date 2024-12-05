@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车协议LIN总线最新中文版2.0 下载仓库"
+title: "汽车协议LIN总线最新中文版20 下载仓库"
 date:   2022-07-20
 tags: [LIN,2.0,总线,中文版,文档]
 comments: true

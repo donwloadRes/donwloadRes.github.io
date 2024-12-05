@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运筹学习题答案 (第四版) 下载仓库"
+title: "运筹学习题答案 第四版 下载仓库"
 date:   2024-11-08
 tags: [运筹学,答案,习题,这份,下载]
 comments: true

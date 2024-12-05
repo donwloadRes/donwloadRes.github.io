@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "星闪1.0空口技术性能评估报告"
+title: "星闪10空口技术性能评估报告"
 date:   2024-01-11
 tags: [1.0,空口,评估,报告,技术]
 comments: true

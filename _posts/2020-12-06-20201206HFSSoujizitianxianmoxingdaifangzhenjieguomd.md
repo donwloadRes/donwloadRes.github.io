@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS 偶极子天线模型（带仿真结果）"
+title: "HFSS 偶极子天线模型带仿真结果"
 date:   2022-12-23
 tags: [仿真,模型,HFSS,天线,偶极子]
 comments: true

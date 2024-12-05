@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Chart 控件绘制 3D 柱状图与折线图教程"
+title: "C Chart 控件绘制 3D 柱状图与折线图教程"
 date:   2024-08-04
 tags: [控件,Chart,Series,chart1,C#]
 comments: true

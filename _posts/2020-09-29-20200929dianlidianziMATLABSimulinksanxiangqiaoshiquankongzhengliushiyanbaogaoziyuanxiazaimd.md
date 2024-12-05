@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子MATLAB-Simulink三相桥式全控整流实验报告资源下载"
+title: "电力电子MATLABSimulink三相桥式全控整流实验报告资源下载"
 date:   2022-03-28
 tags: [仿真,全控,桥式,电路,三相]
 comments: true

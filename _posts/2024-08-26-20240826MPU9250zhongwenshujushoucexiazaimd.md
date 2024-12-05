@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU-9250中文数据手册下载"
+title: "MPU9250中文数据手册下载"
 date:   2024-11-28
 tags: [MPU,9250,中文,手册,传感器]
 comments: true

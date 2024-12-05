@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFView.ocx 文档说明"
+title: "PDFViewocx 文档说明"
 date:   2024-06-12
 tags: [PDF,PDFView,ocx,控件,文档]
 comments: true

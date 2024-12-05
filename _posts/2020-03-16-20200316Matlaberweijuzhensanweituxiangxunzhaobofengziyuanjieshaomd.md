@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab二维矩阵(三维图像)寻找波峰资源介绍"
+title: "Matlab二维矩阵三维图像寻找波峰资源介绍"
 date:   2024-10-19
 tags: [Matlab,波峰,示例,矩阵,图像]
 comments: true

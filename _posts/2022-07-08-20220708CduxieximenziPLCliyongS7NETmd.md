@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读写西门子PLC（利用S7.NET）"
+title: "C读写西门子PLC利用S7NET"
 date:   2021-11-20
 tags: [S7,PLC,Net,dll,西门子]
 comments: true

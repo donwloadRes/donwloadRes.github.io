@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLAM经典入门教程（入门）"
+title: "SLAM经典入门教程入门"
 date:   2022-09-26
 tags: [SLAM,算法,教程,卡尔曼滤波,入门教程]
 comments: true

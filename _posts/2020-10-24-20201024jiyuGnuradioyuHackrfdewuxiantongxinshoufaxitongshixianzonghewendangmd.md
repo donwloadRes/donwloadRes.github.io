@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Gnuradio与Hackrf的无线通信收发系统实现 - 综合文档"
+title: "基于Gnuradio与Hackrf的无线通信收发系统实现  综合文档"
 date:   2023-07-26
 tags: [Gnuradio,Hackrf,无线通信,文档,系统]
 comments: true

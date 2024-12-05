@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "荣耀路由Pro(WS851)固件下载"
+title: "荣耀路由ProWS851固件下载"
 date:   2024-04-08
 tags: [固件,路由,荣耀,Pro,WS851]
 comments: true

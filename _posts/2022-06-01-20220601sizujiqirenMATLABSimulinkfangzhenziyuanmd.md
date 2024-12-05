@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四足机器人MATLAB-Simulink仿真资源"
+title: "四足机器人MATLABSimulink仿真资源"
 date:   2023-04-17
 tags: [源码,MATLAB,Simulink,博主,毕业设计]
 comments: true

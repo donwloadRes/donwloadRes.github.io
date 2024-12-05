@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exe软件修改工具：永久性调整软件界面元素"
+title: "exe软件修改工具永久性调整软件界面元素"
 date:   2024-06-22
 tags: [软件,界面,修改,工具,exe]
 comments: true

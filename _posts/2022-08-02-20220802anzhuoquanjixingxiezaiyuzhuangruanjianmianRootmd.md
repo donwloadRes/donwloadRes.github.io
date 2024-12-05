@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓全机型卸载预装软件（免Root）"
+title: "安卓全机型卸载预装软件免Root"
 date:   2023-10-30
 tags: [卸载,Root,预装,安卓全,安卓]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国最新省市县区SQL数据（拿来即用）"
+title: "全国最新省市县区SQL数据拿来即用"
 date:   2021-06-30
 tags: [区域,SQL,县区,名称,数据库]
 comments: true

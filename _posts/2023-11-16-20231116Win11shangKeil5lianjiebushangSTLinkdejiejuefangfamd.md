@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11上Keil5连接不上ST-Link的解决方法"
+title: "Win11上Keil5连接不上STLink的解决方法"
 date:   2023-12-20
 tags: [Keil5,ST,Link,串口,驱动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手动修改美化7zip图标 - 附替换文件"
+title: "手动修改美化7zip图标  附替换文件"
 date:   2020-04-07
 tags: [图标,7zip,文件,替换,资源]
 comments: true

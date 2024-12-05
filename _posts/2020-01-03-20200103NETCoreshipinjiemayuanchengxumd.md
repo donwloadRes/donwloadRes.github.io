@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core 视频解码源程序"
+title: "NET Core 视频解码源程序"
 date:   2021-03-25
 tags: [解码,视频,播放,摄像头,实时]
 comments: true

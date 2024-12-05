@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PotPlayer 播放器 - 七月更新"
+title: "PotPlayer 播放器  七月更新"
 date:   2022-07-08
 tags: [PotPlayer,体验,七月,字幕,播放]
 comments: true

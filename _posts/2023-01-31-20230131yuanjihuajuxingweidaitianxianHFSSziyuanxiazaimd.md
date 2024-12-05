@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圆极化矩形微带天线 - HFSS 资源下载"
+title: "圆极化矩形微带天线  HFSS 资源下载"
 date:   2023-08-28
 tags: [仿真,HFSS,设计,文件,圆极化]
 comments: true

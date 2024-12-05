@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 LTSB-LTSC 录音机、图片查看器、便签安装指南"
+title: "Win10 LTSBLTSC 录音机图片查看器便签安装指南"
 date:   2023-09-16
 tags: [便签,查看器,录音机,安装,LTSB]
 comments: true

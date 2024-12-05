@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++20 完全指南 (2022) 资源下载"
+title: "C20 完全指南 2022 资源下载"
 date:   2024-12-01
 tags: [C++,20,开发者,资源,编程]
 comments: true

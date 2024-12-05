@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Online3DViewer示例：在网页中显示3D模型"
+title: "Online3DViewer示例在网页中显示3D模型"
 date:   2021-06-04
 tags: [3D,网页,Online3DViewer,模型,示例]
 comments: true

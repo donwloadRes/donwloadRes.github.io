@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMM中的CV-CA-CT模型集构建"
+title: "IMM中的CVCACT模型集构建"
 date:   2023-02-02
 tags: [模型,IMM,算法,CT,CV]
 comments: true

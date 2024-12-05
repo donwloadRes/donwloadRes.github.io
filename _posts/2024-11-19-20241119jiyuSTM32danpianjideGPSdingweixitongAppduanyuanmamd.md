@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的GPS定位系统（App端源码）"
+title: "基于STM32单片机的GPS定位系统App端源码"
 date:   2020-12-15
 tags: [App,经纬度,模块,STM32,GPS]
 comments: true

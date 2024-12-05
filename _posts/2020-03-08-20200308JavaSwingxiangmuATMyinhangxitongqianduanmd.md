@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Swing项目：ATM银行系统前端"
+title: "Java Swing项目ATM银行系统前端"
 date:   2024-09-27
 tags: [用户,界面,ATM,项目,登录]
 comments: true

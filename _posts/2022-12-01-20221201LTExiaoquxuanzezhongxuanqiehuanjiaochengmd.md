@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTE小区选择、重选、切换教程"
+title: "LTE小区选择重选切换教程"
 date:   2022-12-25
 tags: [重选,LTE,小区,切换,选择]
 comments: true

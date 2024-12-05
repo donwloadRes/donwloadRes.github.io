@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGMII Serial-GMII 规范说明文档"
+title: "SGMII SerialGMII 规范说明文档"
 date:   2024-02-05
 tags: [GMII,Serial,文件,SGMII,文档]
 comments: true

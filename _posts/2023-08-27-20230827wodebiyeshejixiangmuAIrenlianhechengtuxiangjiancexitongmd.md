@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的毕业设计项目：AI人脸合成图像检测系统"
+title: "我的毕业设计项目AI人脸合成图像检测系统"
 date:   2020-07-09
 tags: [人脸,AI,图像,项目,训练]
 comments: true

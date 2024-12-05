@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT5 Windows远程桌面控制工具"
+title: "C QT5 Windows远程桌面控制工具"
 date:   2022-08-02
 tags: [Windows,远程桌面,工具,组策略,C++]
 comments: true

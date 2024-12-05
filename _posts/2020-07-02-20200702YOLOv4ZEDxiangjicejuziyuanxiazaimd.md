@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv4 + ZED相机测距资源下载"
+title: "YOLOv4  ZED相机测距资源下载"
 date:   2021-11-10
 tags: [相机,ZED,测距,YOLOv4,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式调试工具-网络调试工具V3.44"
+title: "嵌入式调试工具网络调试工具V344"
 date:   2023-10-27
 tags: [调试,嵌入式,工具,IAP,网络]
 comments: true

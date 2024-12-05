@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLX PCI9052 开发详解（中文）"
+title: "PLX PCI9052 开发详解中文"
 date:   2020-03-01
 tags: [PCI9052,总线,开发,PCI,开发者]
 comments: true

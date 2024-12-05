@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkBook 14 G3 ACL-ITLC(21A2, 21A3) 原厂Win11系统恢复指南"
+title: "ThinkBook 14 G3 ACLITLC21A2 21A3 原厂Win11系统恢复指南"
 date:   2021-06-24
 tags: [ThinkBook,21A2,21A3,Windows,系统]
 comments: true

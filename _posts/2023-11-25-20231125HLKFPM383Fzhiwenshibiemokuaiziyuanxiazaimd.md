@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HLK-FPM383F指纹识别模块资源下载"
+title: "HLKFPM383F指纹识别模块资源下载"
 date:   2020-03-10
 tags: [指纹识别,模块,HLK,FPM383F,用户手册]
 comments: true

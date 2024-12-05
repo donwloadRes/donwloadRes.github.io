@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi控件界面布局教程 (一)"
+title: "Delphi控件界面布局教程 一"
 date:   2022-07-02
 tags: [Delphi,控件,界面,开发者,布局]
 comments: true

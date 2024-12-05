@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#学生信息管理系统 无数据库版"
+title: "C学生信息管理系统 无数据库版"
 date:   2021-11-18
 tags: [学生,信息,信息管理系统,系统,用户]
 comments: true

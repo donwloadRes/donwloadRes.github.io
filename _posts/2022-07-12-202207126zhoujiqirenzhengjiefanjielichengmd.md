@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6轴机器人正解、反解例程"
+title: "6轴机器人正解反解例程"
 date:   2024-10-06
 tags: [例程,机器人,代码,运动学,反解]
 comments: true

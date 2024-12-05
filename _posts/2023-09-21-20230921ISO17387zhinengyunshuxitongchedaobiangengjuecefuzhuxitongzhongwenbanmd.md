@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 17387 智能运输系统-车道变更决策辅助系统(中文版)"
+title: "ISO 17387 智能运输系统车道变更决策辅助系统中文版"
 date:   2023-08-21
 tags: [运输系统,文件,车道,辅助,智能]
 comments: true

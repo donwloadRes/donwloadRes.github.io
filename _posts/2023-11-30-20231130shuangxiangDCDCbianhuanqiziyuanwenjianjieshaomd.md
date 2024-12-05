@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双向DC-DC变换器资源文件介绍"
+title: "双向DCDC变换器资源文件介绍"
 date:   2020-08-10
 tags: [DC,双向,变换器,电能,电路]
 comments: true

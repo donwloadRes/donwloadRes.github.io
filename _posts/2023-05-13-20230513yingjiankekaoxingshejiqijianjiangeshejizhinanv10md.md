@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件可靠性设计-器件降额设计指南v1.0"
+title: "硬件可靠性设计器件降额设计指南v10"
 date:   2021-09-16
 tags: [降额,设计,硬件,可靠性,v1.0]
 comments: true

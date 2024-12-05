@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++饮品自动贩卖机系统"
+title: "CC饮品自动贩卖机系统"
 date:   2021-01-03
 tags: [饮品,C++,贩卖机,源码,系统]
 comments: true

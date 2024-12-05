@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPWM三相六路互补输出+死区+调频调压"
+title: "SPWM三相六路互补输出死区调频调压"
 date:   2020-01-17
 tags: [SPWM,三相,电机,互补,六路]
 comments: true

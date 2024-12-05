@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 串口助手源码"
+title: "C WinForm 串口助手源码"
 date:   2020-01-09
 tags: [串口,源码,助手,开发者,配置]
 comments: true

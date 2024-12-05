@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反相器的版图与DRC、LVS仿真1"
+title: "反相器的版图与DRCLVS仿真1"
 date:   2022-03-28
 tags: [仿真,反相器,版图,DRC,设计]
 comments: true

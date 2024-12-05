@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实分析第四版（Royden H.L）资源下载"
+title: "实分析第四版Royden HL资源下载"
 date:   2022-09-12
 tags: [Royden,第四版,PDF,下载,分析]
 comments: true

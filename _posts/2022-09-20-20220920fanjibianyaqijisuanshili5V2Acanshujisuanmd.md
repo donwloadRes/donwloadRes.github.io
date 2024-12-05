@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反激变压器计算实例：5V2A参数计算"
+title: "反激变压器计算实例5V2A参数计算"
 date:   2023-09-01
 tags: [反激,变压器,计算,5V2A,实例]
 comments: true

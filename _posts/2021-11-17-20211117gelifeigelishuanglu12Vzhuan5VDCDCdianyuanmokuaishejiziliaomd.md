@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "隔离+非隔离双路12V转5V DCDC电源模块设计资料"
+title: "隔离非隔离双路12V转5V DCDC电源模块设计资料"
 date:   2023-08-12
 tags: [设计,隔离,原理图,12V,PCB]
 comments: true

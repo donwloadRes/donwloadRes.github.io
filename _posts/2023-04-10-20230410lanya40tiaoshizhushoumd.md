@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙4.0调试助手"
+title: "蓝牙40调试助手"
 date:   2023-10-04
 tags: [蓝牙,调试,4.0,低功耗,工具]
 comments: true

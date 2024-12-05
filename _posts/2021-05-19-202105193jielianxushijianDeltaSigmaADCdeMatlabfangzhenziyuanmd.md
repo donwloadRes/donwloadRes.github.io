@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3阶连续时间 Delta-Sigma ADC 的 Matlab 仿真资源"
+title: "3阶连续时间 DeltaSigma ADC 的 Matlab 仿真资源"
 date:   2020-12-24
 tags: [ADC,仿真,Delta,Matlab,Sigma]
 comments: true

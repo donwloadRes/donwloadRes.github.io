@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频修复软件（MP4格式修复工具）"
+title: "视频修复软件MP4格式修复工具"
 date:   2021-02-15
 tags: [修复,MP4,软件,视频,视频文件]
 comments: true

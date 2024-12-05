@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COM Express Module Base Specification 3.0 标准文档"
+title: "COM Express Module Base Specification 30 标准文档"
 date:   2024-12-03
 tags: [3.0,COM,Express,硬件,文档]
 comments: true

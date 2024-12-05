@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS 必学：SwiftUI 与 Combine编程（最新版）资源下载"
+title: "iOS 必学SwiftUI 与 Combine编程最新版资源下载"
 date:   2023-10-02
 tags: [SwiftUI,Combine,iOS,编程,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离职证明Word模板（免费下载）"
+title: "离职证明Word模板免费下载"
 date:   2020-12-22
 tags: [模板,离职,Word,下载,证明]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI Multisim 14.0电路设计套件入门教程"
+title: "NI Multisim 140电路设计套件入门教程"
 date:   2024-08-09
 tags: [电路设计,NI,Multisim,14.0,教程]
 comments: true

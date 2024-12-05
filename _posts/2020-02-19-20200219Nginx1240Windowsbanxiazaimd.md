@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx 1.24.0 Windows版下载"
+title: "Nginx 1240 Windows版下载"
 date:   2021-08-13
 tags: [Nginx,Windows,1.24,nginx,下载]
 comments: true

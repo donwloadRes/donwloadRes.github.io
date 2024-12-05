@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSDN Library - October 2001 安装镜像及安装步骤"
+title: "MSDN Library  October 2001 安装镜像及安装步骤"
 date:   2020-02-25
 tags: [安装,步骤,Lynsey,txt,MSDN]
 comments: true

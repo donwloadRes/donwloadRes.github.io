@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB Z 35-93 元器件降额准则下载"
+title: "GJB Z 3593 元器件降额准则下载"
 date:   2020-08-31
 tags: [降额,元器件,93,准则,GJB]
 comments: true

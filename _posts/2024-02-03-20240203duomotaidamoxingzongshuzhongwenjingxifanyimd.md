@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多模态大模型综述：中文精细翻译"
+title: "多模态大模型综述中文精细翻译"
 date:   2022-08-10
 tags: [模态,模型,视觉,章节,综述]
 comments: true

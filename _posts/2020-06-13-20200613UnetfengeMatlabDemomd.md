@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unet分割(Matlab)Demo"
+title: "Unet分割MatlabDemo"
 date:   2023-10-21
 tags: [Unet,Matlab,训练,分割,示例]
 comments: true

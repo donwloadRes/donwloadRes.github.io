@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动汽车永磁同步电机MTPA-MTPV控制用dq电流查询表自动生成开源程序"
+title: "电动汽车永磁同步电机MTPAMTPV控制用dq电流查询表自动生成开源程序"
 date:   2021-04-28
 tags: [电动汽车,MTPA,dq,源程序,MTPV]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无感FOC风机控制原理.pdf"
+title: "无感FOC风机控制原理pdf"
 date:   2020-08-05
 tags: [FOC,无感,风机,pdf,控制]
 comments: true

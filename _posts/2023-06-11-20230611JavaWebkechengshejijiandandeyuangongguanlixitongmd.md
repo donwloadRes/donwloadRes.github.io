@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb课程设计：简单的员工管理系统"
+title: "JavaWeb课程设计简单的员工管理系统"
 date:   2021-05-12
 tags: [员工,JavaWeb,课程设计,Eclipse,数据库]
 comments: true

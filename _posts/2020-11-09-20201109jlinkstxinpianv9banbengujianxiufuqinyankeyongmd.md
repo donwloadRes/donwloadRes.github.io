@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jlink_st芯片_v9版本固件修复（亲验可用）"
+title: "jlinkst芯片v9版本固件修复亲验可用"
 date:   2024-03-18
 tags: [修复,固件,jlink,设备,方法]
 comments: true

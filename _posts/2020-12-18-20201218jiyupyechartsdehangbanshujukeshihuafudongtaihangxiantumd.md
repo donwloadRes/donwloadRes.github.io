@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于pyecharts的航班数据可视化（附动态航线图）"
+title: "基于pyecharts的航班数据可视化附动态航线图"
 date:   2022-05-20
 tags: [航班,可视化,航线,pyecharts,数据]
 comments: true

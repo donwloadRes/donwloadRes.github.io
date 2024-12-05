@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0硬件开发指南中文版"
+title: "USB30硬件开发指南中文版"
 date:   2020-04-13
 tags: [USB3.0,硬件,芯片,文档,开发]
 comments: true

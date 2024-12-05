@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpireDll - C#中轻松操作WORD和PDF文档"
+title: "SpireDll  C中轻松操作WORD和PDF文档"
 date:   2024-12-01
 tags: [PDF,Spire,文档,dll,SpireDll]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 4.8.2 安装包下载"
+title: "Qt 482 安装包下载"
 date:   2021-07-07
 tags: [4.8,Qt,tar,gz,下载]
 comments: true

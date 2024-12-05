@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.0 汉化包实用指南"
+title: "Proteus 80 汉化包实用指南"
 date:   2022-10-08
 tags: [汉化包,Proteus,8.0,文件夹,translations]
 comments: true

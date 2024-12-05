@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3588-kernel中按键驱动代码解析"
+title: "RK3588kernel中按键驱动代码解析"
 date:   2021-09-15
 tags: [按键,驱动,RK3588,代码,kernel]
 comments: true

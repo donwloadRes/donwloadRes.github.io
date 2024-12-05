@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle、PL-SQL、Informatica安装包及安装教程"
+title: "OraclePLSQLInformatica安装包及安装教程"
 date:   2021-07-19
 tags: [安装包,安装,教程,PL,SQL]
 comments: true

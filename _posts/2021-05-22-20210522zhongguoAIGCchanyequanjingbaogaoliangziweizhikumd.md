@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国AIGC产业全景报告-量子位智库"
+title: "中国AIGC产业全景报告量子位智库"
 date:   2022-04-18
 tags: [AIGC,智库,量子,产业,报告]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven安装及配置（详细版）"
+title: "Maven安装及配置详细版"
 date:   2021-06-28
 tags: [Maven,Java,bash,配置,安装]
 comments: true

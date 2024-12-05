@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "业界第一本“电磁信息论白皮书”正式发布"
+title: "业界第一本电磁信息论白皮书正式发布"
 date:   2021-03-25
 tags: [白皮书,信息论,电磁,第一本,业界]
 comments: true

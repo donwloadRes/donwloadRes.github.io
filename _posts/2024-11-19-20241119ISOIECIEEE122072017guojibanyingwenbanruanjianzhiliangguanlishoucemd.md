@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC-IEEE 12207 2017 国际版英文版软件质量管理手册"
+title: "ISOIECIEEE 12207 2017 国际版英文版软件质量管理手册"
 date:   2021-01-27
 tags: [2017,ISO,IEC,IEEE,软件]
 comments: true

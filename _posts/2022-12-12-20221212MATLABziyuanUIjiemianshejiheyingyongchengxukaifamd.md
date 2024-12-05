@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 资源：UI 界面设计和应用程序开发"
+title: "MATLAB 资源UI 界面设计和应用程序开发"
 date:   2023-03-14
 tags: [MATLAB,界面设计,UI,程序开发,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAMMPS后处理——MATLAB子函数合集整理"
+title: "LAMMPS后处理MATLAB子函数合集整理"
 date:   2023-08-23
 tags: [LAMMPS,子函数,data,MATLAB,后处理]
 comments: true

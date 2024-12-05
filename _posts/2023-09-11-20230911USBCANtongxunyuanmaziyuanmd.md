@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-CAN通讯源码资源"
+title: "USBCAN通讯源码资源"
 date:   2020-04-11
 tags: [源码,USB,通讯,实例,二次开发]
 comments: true

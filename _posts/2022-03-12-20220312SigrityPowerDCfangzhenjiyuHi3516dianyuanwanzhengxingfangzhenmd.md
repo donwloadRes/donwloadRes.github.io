@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sigrity Power DC仿真-基于Hi3516电源完整性仿真"
+title: "Sigrity Power DC仿真基于Hi3516电源完整性仿真"
 date:   2020-09-10
 tags: [仿真,Hi3516,电源,完整性,Sigrity]
 comments: true

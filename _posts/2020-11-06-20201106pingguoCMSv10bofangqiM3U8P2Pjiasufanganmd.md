@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果CMS v10 播放器：M3U8 + P2P加速方案"
+title: "苹果CMS v10 播放器M3U8  P2P加速方案"
 date:   2020-06-04
 tags: [播放器,视频,M3U8,P2P,CMSv10]
 comments: true

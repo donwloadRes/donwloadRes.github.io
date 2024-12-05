@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pixhawk 2.4.8安装PX4固件与QGroundControl操作详细指南"
+title: "Pixhawk 248安装PX4固件与QGroundControl操作详细指南"
 date:   2023-03-14
 tags: [固件,PX4,QGroundControl,Pixhawk,2.4]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想服务器R530-8I阵列卡驱动及系统安装指南"
+title: "联想服务器R5308I阵列卡驱动及系统安装指南"
 date:   2023-06-25
 tags: [R530,8I,安装,驱动,服务器]
 comments: true

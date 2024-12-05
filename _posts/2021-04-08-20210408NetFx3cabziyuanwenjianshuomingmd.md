@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetFx3.cab 资源文件说明"
+title: "NetFx3cab 资源文件说明"
 date:   2020-02-15
 tags: [NetFx3,cab,Windows,文件,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波工程（中文版）资源下载"
+title: "微波工程中文版资源下载"
 date:   2024-07-07
 tags: [微波,中文版,工程,资源,仓库]
 comments: true

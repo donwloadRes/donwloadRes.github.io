@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1000BASE-X、SGMII、GMII、RGMII、MII 及 1000BASE-T 接口定义指南"
+title: "1000BASEXSGMIIGMIIRGMIIMII 及 1000BASET 接口定义指南"
 date:   2024-07-13
 tags: [1000BASE,接口,文档,指南,千兆]
 comments: true

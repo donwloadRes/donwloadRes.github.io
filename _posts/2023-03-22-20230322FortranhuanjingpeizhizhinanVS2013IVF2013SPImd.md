@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fortran环境配置指南：VS 2013 + IVF 2013 SPI"
+title: "Fortran环境配置指南VS 2013  IVF 2013 SPI"
 date:   2020-04-01
 tags: [2013,IVF,SPI,VS,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTCA DO-160G 2010 资源文件下载"
+title: "RTCA DO160G 2010 资源文件下载"
 date:   2021-07-13
 tags: [文件,电子设备,RTCA,航空,测试]
 comments: true

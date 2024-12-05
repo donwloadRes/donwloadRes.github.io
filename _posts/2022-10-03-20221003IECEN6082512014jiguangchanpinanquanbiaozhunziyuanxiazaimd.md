@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-EN 60825-1：2014 激光产品安全标准资源下载"
+title: "IECEN 6082512014 激光产品安全标准资源下载"
 date:   2021-04-03
 tags: [激光,标准,IEC,EN,产品安全]
 comments: true

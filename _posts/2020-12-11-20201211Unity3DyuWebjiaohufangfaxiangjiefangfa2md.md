@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D与Web交互方法详解（方法2）"
+title: "Unity3D与Web交互方法详解方法2"
 date:   2023-08-01
 tags: [Web,Unity3D,JavaScript,函数,MyFunction3]
 comments: true

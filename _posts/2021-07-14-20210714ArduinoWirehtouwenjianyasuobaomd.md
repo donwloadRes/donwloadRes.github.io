@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino Wire.h 头文件压缩包"
+title: "Arduino Wireh 头文件压缩包"
 date:   2024-07-09
 tags: [Arduino,头文件,压缩包,wire,确保您]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文乱码翻译器 README.md"
+title: "中文乱码翻译器 READMEmd"
 date:   2020-12-10
 tags: [乱码,编码,中文,翻译器,转换]
 comments: true

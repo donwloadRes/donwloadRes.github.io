@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浪潮英信服务器 NF5280M5 用户手册 V1.5"
+title: "浪潮英信服务器 NF5280M5 用户手册 V15"
 date:   2022-02-03
 tags: [服务器,NF5280M5,浪潮,英信,用户手册]
 comments: true

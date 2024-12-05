@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAMA数据管理知识体系-CDGA模拟题五套"
+title: "DAMA数据管理知识体系CDGA模拟题五套"
 date:   2020-08-13
 tags: [模拟题,数据管理,CDGA,知识点,备考]
 comments: true

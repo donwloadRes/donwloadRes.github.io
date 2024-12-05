@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机reg52.h 资源文件下载"
+title: "单片机reg52h 资源文件下载"
 date:   2024-04-07
 tags: [单片机,文件,reg52,寄存器,详解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下一代无线局域网 802.11n 资源下载"
+title: "下一代无线局域网 80211n 资源下载"
 date:   2022-02-12
 tags: [802.11,无线,局域网,下载,可靠性]
 comments: true

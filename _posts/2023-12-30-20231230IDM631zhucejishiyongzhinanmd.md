@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM 6.31 注册机使用指南"
+title: "IDM 631 注册机使用指南"
 date:   2023-09-02
 tags: [注册机,IDM,6.31,注册,下载]
 comments: true

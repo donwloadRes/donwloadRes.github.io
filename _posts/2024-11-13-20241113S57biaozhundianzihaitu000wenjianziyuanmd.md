@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S57标准电子海图(.000文件)资源"
+title: "S57标准电子海图000文件资源"
 date:   2023-05-08
 tags: [海图,S57,000,电子,资源]
 comments: true

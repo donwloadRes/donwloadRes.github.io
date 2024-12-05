@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React开发者工具 v4.27.4"
+title: "React开发者工具 v4274"
 date:   2020-07-27
 tags: [React,开发者,工具,v4.27,调试]
 comments: true

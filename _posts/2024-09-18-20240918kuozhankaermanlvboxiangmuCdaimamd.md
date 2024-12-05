@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "扩展卡尔曼滤波项目C++代码"
+title: "扩展卡尔曼滤波项目C代码"
 date:   2024-10-07
 tags: [卡尔曼滤波,代码,扩展,项目,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtXlsx：强大的Qt平台Excel文件操作库"
+title: "QtXlsx强大的Qt平台Excel文件操作库"
 date:   2023-05-17
 tags: [QtXlsx,Qt,Excel,文件,示例]
 comments: true

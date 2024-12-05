@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-DETR推理详解及部署实现"
+title: "RTDETR推理详解及部署实现"
 date:   2022-12-18
 tags: [RT,DETR,模型,部署,开发者]
 comments: true

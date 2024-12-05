@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Vivado-Vitis 2020.1 MicroBlaze工程教程"
+title: "Xilinx VivadoVitis 20201 MicroBlaze工程教程"
 date:   2020-09-22
 tags: [MicroBlaze,Vivado,教程,固化,SPI]
 comments: true

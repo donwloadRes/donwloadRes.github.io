@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派4B-WiringPi库的安装和使用 (C和Python版)"
+title: "树莓派4BWiringPi库的安装和使用 C和Python版"
 date:   2024-03-27
 tags: [WiringPi,树莓,安装,4B,Python]
 comments: true

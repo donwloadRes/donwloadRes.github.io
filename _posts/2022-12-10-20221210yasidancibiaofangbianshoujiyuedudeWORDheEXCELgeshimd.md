@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雅思单词表 - 方便手机阅读的WORD和EXCEL格式"
+title: "雅思单词表  方便手机阅读的WORD和EXCEL格式"
 date:   2024-11-19
 tags: [格式,单词表,WORD,EXCEL,手机]
 comments: true

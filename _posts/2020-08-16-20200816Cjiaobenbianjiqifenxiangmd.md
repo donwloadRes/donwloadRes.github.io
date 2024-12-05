@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#脚本编辑器分享"
+title: "C脚本编辑器分享"
 date:   2020-08-02
 tags: [C#,编辑器,脚本,开发者,代码]
 comments: true

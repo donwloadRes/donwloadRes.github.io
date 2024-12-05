@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UEFI-Chipsec 资源文件下载"
+title: "UEFIChipsec 资源文件下载"
 date:   2023-01-07
 tags: [UEFI,Chipsec,U盘,文件,Shell]
 comments: true

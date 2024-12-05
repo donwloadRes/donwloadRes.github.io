@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iFIX v6.0 中文版资源下载"
+title: "iFIX v60 中文版资源下载"
 date:   2024-11-06
 tags: [iFIX,v6.0,中文版,安装,下载]
 comments: true

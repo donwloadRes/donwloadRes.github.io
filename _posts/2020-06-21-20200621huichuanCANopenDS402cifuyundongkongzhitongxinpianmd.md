@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川 CANopen（DS402伺服运动控制）通信篇"
+title: "汇川 CANopenDS402伺服运动控制通信篇"
 date:   2020-01-16
 tags: [汇川,CANopen,说明书,通信,伺服]
 comments: true

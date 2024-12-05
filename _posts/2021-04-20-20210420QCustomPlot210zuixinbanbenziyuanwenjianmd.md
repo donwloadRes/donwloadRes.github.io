@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QCustomPlot 2.1.0 最新版本资源文件"
+title: "QCustomPlot 210 最新版本资源文件"
 date:   2024-08-07
 tags: [QCustomPlot,示例,源代码,文档,git]
 comments: true

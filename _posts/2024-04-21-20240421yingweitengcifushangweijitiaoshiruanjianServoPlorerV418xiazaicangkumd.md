@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英威腾伺服上位机调试软件 ServoPlorer V4.18 下载仓库"
+title: "英威腾伺服上位机调试软件 ServoPlorer V418 下载仓库"
 date:   2022-12-23
 tags: [伺服,软件,驱动器,调试,上位]
 comments: true

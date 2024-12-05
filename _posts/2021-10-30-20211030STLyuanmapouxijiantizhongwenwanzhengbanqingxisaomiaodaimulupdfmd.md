@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STL源码剖析简体中文完整版(清晰扫描带目录).pdf"
+title: "STL源码剖析简体中文完整版清晰扫描带目录pdf"
 date:   2023-03-19
 tags: [STL,C++,学习,简体中文,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRMediav1.0.1.2 - 超低延时直播测试工具"
+title: "CRMediav1012  超低延时直播测试工具"
 date:   2024-02-21
 tags: [直播,延时,CRMediav1.0,1.2,开发者]
 comments: true

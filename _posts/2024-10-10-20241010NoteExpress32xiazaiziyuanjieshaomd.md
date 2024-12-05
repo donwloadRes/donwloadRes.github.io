@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NoteExpress 3.2 下载资源介绍"
+title: "NoteExpress 32 下载资源介绍"
 date:   2023-10-21
 tags: [知识,NoteExpress,3.2,Windows,文献检索]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6模拟IIC控制4针0.96寸OLED显示屏"
+title: "STM32F103C8T6模拟IIC控制4针096寸OLED显示屏"
 date:   2020-05-12
 tags: [IIC,OLED,STM32F103C8T6,0.96,STM32]
 comments: true

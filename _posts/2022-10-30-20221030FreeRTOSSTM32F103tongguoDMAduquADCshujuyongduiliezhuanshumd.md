@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS+STM32F103通过DMA读取ADC数据，用队列传输"
+title: "FreeRTOSSTM32F103通过DMA读取ADC数据用队列传输"
 date:   2020-09-04
 tags: [ADC,串口,队列,FreeRTOS,DMA]
 comments: true

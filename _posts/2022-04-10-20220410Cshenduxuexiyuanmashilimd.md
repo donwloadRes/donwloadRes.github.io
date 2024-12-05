@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#深度学习源码示例"
+title: "C深度学习源码示例"
 date:   2024-08-27
 tags: [源码,学习,示例,Visual,Studio]
 comments: true

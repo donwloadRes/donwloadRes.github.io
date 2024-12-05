@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR3简介和量测规范（个人见过写的最好DDR3介绍）"
+title: "DDR3简介和量测规范个人见过写的最好DDR3介绍"
 date:   2023-05-31
 tags: [DDR3,和量,规范,简介,初学者]
 comments: true

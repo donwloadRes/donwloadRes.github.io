@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EarMaster Pro V7.4.64中文版2024年激活指南"
+title: "EarMaster Pro V7464中文版2024年激活指南"
 date:   2022-02-13
 tags: [激活,EarMaster,Pro,64,V7.4]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "好书推荐--态度》-吴军著"
+title: "好书推荐态度吴军著"
 date:   2020-02-03
 tags: [吴军,读者,态度,人际关系,智慧]
 comments: true

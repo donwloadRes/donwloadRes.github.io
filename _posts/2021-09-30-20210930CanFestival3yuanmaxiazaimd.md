@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CanFestival-3 源码下载"
+title: "CanFestival3 源码下载"
 date:   2022-10-24
 tags: [源码,CanFestival,下载,2021.01,23]
 comments: true

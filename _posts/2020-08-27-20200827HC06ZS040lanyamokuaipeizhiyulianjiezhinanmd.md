@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-06(ZS-040)蓝牙模块配置与连接指南"
+title: "HC06ZS040蓝牙模块配置与连接指南"
 date:   2022-10-18
 tags: [模块,蓝牙,HC,06,040]
 comments: true

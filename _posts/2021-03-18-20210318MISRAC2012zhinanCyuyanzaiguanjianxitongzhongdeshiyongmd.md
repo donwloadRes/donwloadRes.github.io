@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISRA C 2012 指南 - C语言在关键系统中的使用"
+title: "MISRA C 2012 指南  C语言在关键系统中的使用"
 date:   2023-04-20
 tags: [MISRA,C语言,2012,编程,安全性]
 comments: true

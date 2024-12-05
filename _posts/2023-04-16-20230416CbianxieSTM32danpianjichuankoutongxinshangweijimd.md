@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写STM32单片机串口通信上位机"
+title: "C编写STM32单片机串口通信上位机"
 date:   2024-07-24
 tags: [串口,单片机,C#,STM32,通信]
 comments: true

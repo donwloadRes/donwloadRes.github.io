@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "产品经理认证（NPDP）知识体系指南"
+title: "产品经理认证NPDP知识体系指南"
 date:   2023-07-08
 tags: [NPDP,认证,指南,电子版,学习]
 comments: true

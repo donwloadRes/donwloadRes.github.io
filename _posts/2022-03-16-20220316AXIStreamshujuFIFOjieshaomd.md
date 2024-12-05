@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-Stream 数据 FIFO 介绍"
+title: "AXIStream 数据 FIFO 介绍"
 date:   2023-01-26
 tags: [AXI,Stream,FIFO,数据,设计]
 comments: true

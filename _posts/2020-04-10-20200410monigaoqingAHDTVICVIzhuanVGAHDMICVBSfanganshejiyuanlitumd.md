@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟高清AHD-TVI-CVI转VGA-HDMI-CVBS方案设计原理图"
+title: "模拟高清AHDTVICVI转VGAHDMICVBS方案设计原理图"
 date:   2023-02-21
 tags: [信号,原理图,AHD,TVI,CVI]
 comments: true

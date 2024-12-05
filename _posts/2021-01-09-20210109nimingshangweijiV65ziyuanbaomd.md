@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "匿名上位机V6.5资源包"
+title: "匿名上位机V65资源包"
 date:   2022-06-07
 tags: [软件,源码,V6.5,教程,调试]
 comments: true

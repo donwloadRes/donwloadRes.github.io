@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞思卡尔BDM驱动（WIN10可用）"
+title: "飞思卡尔BDM驱动WIN10可用"
 date:   2024-04-18
 tags: [驱动,驱动程序,电脑,飞思,BDM]
 comments: true

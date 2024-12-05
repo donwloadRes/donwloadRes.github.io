@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LX Music Mobile v1.2.0 Beta 2 通用版资源文件"
+title: "LX Music Mobile v120 Beta 2 通用版资源文件"
 date:   2024-04-08
 tags: [v1.2,lx,music,mobile,beta.2]
 comments: true

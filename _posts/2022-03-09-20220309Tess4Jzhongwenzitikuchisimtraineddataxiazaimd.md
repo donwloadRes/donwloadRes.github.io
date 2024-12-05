@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tess4J中文字体库chi-sim.traineddata下载"
+title: "Tess4J中文字体库chisimtraineddata下载"
 date:   2022-12-07
 tags: [chi,sim,traineddata,文件,Tess4J]
 comments: true

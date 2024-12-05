@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus模拟器 - 全能Master与Slave仿真工具"
+title: "Modbus模拟器  全能Master与Slave仿真工具"
 date:   2024-04-28
 tags: [Modbus,Master,Slave,模拟器,测试]
 comments: true

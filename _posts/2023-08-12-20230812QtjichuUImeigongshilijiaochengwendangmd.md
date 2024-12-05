@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt基础-UI美工实例教程文档"
+title: "Qt基础UI美工实例教程文档"
 date:   2020-07-23
 tags: [控件,Qt,UI,文档,美工]
 comments: true

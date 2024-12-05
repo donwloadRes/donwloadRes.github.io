@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式STM32单片机ARM烧录工具：ST-LINK V2-1固件制作资料"
+title: "嵌入式STM32单片机ARM烧录工具STLINK V21固件制作资料"
 date:   2024-07-31
 tags: [烧录,ST,LINK,V2,STM32]
 comments: true

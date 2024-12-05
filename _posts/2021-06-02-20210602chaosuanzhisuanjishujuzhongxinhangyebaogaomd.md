@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超算、智算及数据中心行业报告"
+title: "超算智算及数据中心行业报告"
 date:   2022-05-01
 tags: [数据中心,超算,智算及,算力,行业]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机直接转矩控制入门MATLAB-Simulink仿真模型"
+title: "永磁同步电机直接转矩控制入门MATLABSimulink仿真模型"
 date:   2020-05-24
 tags: [仿真,PMSM,DTC,模型,MATLAB]
 comments: true

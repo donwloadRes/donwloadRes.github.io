@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源代码项目：Langchain-ChatChat - 基于langchain的大模型本地知识库系统"
+title: "开源代码项目LangchainChatChat  基于langchain的大模型本地知识库系统"
 date:   2022-08-30
 tags: [模型,开源,知识库,Langchain,ChatChat]
 comments: true

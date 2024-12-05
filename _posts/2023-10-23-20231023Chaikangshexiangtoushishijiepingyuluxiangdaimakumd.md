@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#海康摄像头实时截屏与录像代码库"
+title: "C海康摄像头实时截屏与录像代码库"
 date:   2024-06-20
 tags: [海康,摄像头,SDK,代码,实时]
 comments: true

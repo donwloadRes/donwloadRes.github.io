@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I2C总线协议（中文版PDF）"
+title: "I2C总线协议中文版PDF"
 date:   2022-09-22
 tags: [I2C,总线,PDF,---,中文版]
 comments: true

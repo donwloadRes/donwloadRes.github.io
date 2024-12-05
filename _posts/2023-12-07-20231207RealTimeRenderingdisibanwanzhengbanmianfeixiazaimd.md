@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real-Time Rendering 第四版 完整版 免费下载"
+title: "RealTime Rendering 第四版 完整版 免费下载"
 date:   2024-04-18
 tags: [渲染,Real,第四版,完整版,Time]
 comments: true

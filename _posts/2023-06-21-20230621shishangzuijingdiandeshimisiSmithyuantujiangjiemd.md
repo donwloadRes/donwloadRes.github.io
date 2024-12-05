@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最经典的史密斯（Smith）圆图讲解"
+title: "史上最经典的史密斯Smith圆图讲解"
 date:   2024-02-17
 tags: [圆图,史密斯,电路设计,射频,讲解]
 comments: true

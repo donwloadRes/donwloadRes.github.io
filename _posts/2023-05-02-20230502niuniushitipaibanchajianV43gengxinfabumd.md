@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛牛试题排版插件V4.3更新发布"
+title: "牛牛试题排版插件V43更新发布"
 date:   2021-10-21
 tags: [插件,排版,设置,牛牛,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始的目标检测和关键点检测（一）：用LabelMe标注数据集"
+title: "从零开始的目标检测和关键点检测一用LabelMe标注数据集"
 date:   2020-01-02
 tags: [标注,LabelMe,关键点,检测,数据]
 comments: true

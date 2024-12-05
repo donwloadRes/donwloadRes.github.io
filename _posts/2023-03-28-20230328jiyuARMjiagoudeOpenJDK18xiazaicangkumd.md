@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ARM架构的OpenJDK1.8 下载仓库"
+title: "基于ARM架构的OpenJDK18 下载仓库"
 date:   2022-04-15
 tags: [ARM,架构,OpenJDK1.8,鲲鹏,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vulkan图形编程精通教程（2023）资源下载"
+title: "Vulkan图形编程精通教程2023资源下载"
 date:   2023-04-23
 tags: [Vulkan,教程,图形,编程,2023]
 comments: true

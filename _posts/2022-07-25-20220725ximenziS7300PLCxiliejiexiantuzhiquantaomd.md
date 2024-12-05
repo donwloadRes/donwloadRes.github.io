@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-300PLC系列接线图纸（全套）"
+title: "西门子S7300PLC系列接线图纸全套"
 date:   2021-02-05
 tags: [接线,图纸,S7,300PLC,西门子]
 comments: true

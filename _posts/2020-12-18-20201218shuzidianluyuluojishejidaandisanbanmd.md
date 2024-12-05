@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计 答案(第三版)"
+title: "数字电路与逻辑设计 答案第三版"
 date:   2022-02-21
 tags: [逻辑设计,数字电路,第三版,习题,答案]
 comments: true

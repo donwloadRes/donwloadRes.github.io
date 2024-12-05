@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation Pro 16 安装 MacOS 10.14 虚拟机教程"
+title: "VMware Workstation Pro 16 安装 MacOS 1014 虚拟机教程"
 date:   2020-05-30
 tags: [虚拟机,VMware,MacOS,安装,10.14]
 comments: true

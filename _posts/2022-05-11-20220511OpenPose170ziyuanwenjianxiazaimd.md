@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenPose 1.7.0 资源文件下载"
+title: "OpenPose 170 资源文件下载"
 date:   2020-10-03
 tags: [关键点,OpenPose,检测,支持,1.7]
 comments: true

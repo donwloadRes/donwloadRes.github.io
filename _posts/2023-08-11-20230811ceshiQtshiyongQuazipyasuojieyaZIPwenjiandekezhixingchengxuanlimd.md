@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试 Qt 使用 Quazip 压缩-解压 ZIP 文件的可执行程序案例"
+title: "测试 Qt 使用 Quazip 压缩解压 ZIP 文件的可执行程序案例"
 date:   2023-04-04
 tags: [可执行程序,解压,Qt,Quazip,ZIP]
 comments: true

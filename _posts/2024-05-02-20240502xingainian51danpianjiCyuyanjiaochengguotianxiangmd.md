@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新概念51单片机C语言教程》- 郭天祥"
+title: "新概念51单片机C语言教程 郭天祥"
 date:   2024-07-28
 tags: [单片机,C语言,教程,51,硬件]
 comments: true

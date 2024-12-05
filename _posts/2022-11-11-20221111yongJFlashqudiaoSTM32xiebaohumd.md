@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用J-Flash去掉STM32写保护"
+title: "用JFlash去掉STM32写保护"
 date:   2020-07-01
 tags: [STM32,保护,Flash,确保,---]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NRF52832学习笔记（1）——搭建环境、编译烧写"
+title: "NRF52832学习笔记1搭建环境编译烧写"
 date:   2021-09-19
 tags: [烧录,编译,NRF52832,Keil,搭建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标优化NSGA-II算法代码及详细解释"
+title: "多目标优化NSGAII算法代码及详细解释"
 date:   2021-04-28
 tags: [算法,II,NSGA,目标,代码]
 comments: true

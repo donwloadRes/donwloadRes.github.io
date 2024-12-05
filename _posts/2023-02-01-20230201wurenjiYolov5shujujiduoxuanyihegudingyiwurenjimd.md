@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无人机Yolov5数据集（多旋翼和固定翼无人机）"
+title: "无人机Yolov5数据集多旋翼和固定翼无人机"
 date:   2021-03-10
 tags: [无人机,Yolov5,数据,旋翼,训练]
 comments: true

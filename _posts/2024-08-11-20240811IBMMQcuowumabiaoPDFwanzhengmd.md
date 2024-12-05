@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBMMQ 错误码表 PDF（完整）"
+title: "IBMMQ 错误码表 PDF完整"
 date:   2024-10-30
 tags: [IBMMQ,错误码,PDF,文件,文件大小]
 comments: true

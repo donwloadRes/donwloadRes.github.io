@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5Core.dll 资源文件下载"
+title: "Qt5Coredll 资源文件下载"
 date:   2022-10-17
 tags: [Qt5Core,dll,文件,Qt,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6-0.96寸OLED驱动函数模块"
+title: "STM32F103C8T6096寸OLED驱动函数模块"
 date:   2021-04-20
 tags: [OLED,STM32F103C8T6,SPI,显示屏,模块]
 comments: true

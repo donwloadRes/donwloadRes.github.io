@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC国标 GB-T17626  IEC61000 电磁干扰资源文件"
+title: "EMC国标 GBT17626  IEC61000 电磁干扰资源文件"
 date:   2023-03-23
 tags: [GB,抗扰度,电磁兼容,实验,EMC]
 comments: true

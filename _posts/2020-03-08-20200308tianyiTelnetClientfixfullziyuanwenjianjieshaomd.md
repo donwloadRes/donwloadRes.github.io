@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天邑TelnetClient-fix-full 资源文件介绍"
+title: "天邑TelnetClientfixfull 资源文件介绍"
 date:   2022-05-10
 tags: [天邑,TelnetClient,Telnet,fix,full]
 comments: true

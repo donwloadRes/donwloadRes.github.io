@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabWindows学习资料、方法及安装包"
+title: "LabWindows学习资料方法及安装包"
 date:   2022-06-11
 tags: [LabWindows,安装包,学习,文档,CVI]
 comments: true

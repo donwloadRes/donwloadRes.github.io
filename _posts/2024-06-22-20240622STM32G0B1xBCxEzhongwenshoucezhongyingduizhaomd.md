@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G0B1 xB-C-xE中文手册，中英对照"
+title: "STM32G0B1 xBCxE中文手册中英对照"
 date:   2023-10-08
 tags: [手册,中英对照,本手册,STM32G0B1,xB]
 comments: true

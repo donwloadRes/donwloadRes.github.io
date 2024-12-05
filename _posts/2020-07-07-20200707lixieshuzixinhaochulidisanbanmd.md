@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "理解数字信号处理（第三版）"
+title: "理解数字信号处理第三版"
 date:   2021-09-11
 tags: [信号处理,数字,理解,第三版,Lyons]
 comments: true

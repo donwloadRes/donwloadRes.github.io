@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#人脸识别、人脸比对"
+title: "C人脸识别人脸比对"
 date:   2023-04-11
 tags: [人脸识别,Demo,开发者,C#,Visual]
 comments: true

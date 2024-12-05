@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下命令行及Java+Tesseract-OCR对图像进行（字母+数字+中文）识别，亲测可行"
+title: "Windows下命令行及JavaTesseractOCR对图像进行字母数字中文识别亲测可行"
 date:   2020-04-15
 tags: [OCR,Tesseract,识别,Java,命令行]
 comments: true

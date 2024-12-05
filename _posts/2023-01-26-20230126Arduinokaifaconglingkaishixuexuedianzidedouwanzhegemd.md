@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino开发从零开始学：学电子的都玩这个"
+title: "Arduino开发从零开始学学电子的都玩这个"
 date:   2020-08-11
 tags: [Arduino,电子,类库,开发,本书]
 comments: true

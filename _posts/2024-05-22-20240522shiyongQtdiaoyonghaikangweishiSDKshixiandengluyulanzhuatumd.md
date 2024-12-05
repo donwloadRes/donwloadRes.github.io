@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Qt调用海康威视SDK实现登陆、预览、抓图"
+title: "使用Qt调用海康威视SDK实现登陆预览抓图"
 date:   2023-05-10
 tags: [SDK,Qt,海康,威视,预览]
 comments: true

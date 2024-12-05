@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink平台下TI C2000 DSP代码的自动生成"
+title: "基于MATLABSimulink平台下TI C2000 DSP代码的自动生成"
 date:   2020-07-28
 tags: [DSP,Simulink,TI,C2000,嵌入式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 安装及使用指南"
+title: "Quartus II 131 安装及使用指南"
 date:   2021-09-28
 tags: [Quartus,II,13.1,安装包,文件]
 comments: true

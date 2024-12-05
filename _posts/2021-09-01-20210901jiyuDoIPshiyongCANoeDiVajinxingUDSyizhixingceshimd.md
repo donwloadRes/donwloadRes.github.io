@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DoIP使用CANoe.DiVa进行UDS一致性测试"
+title: "基于DoIP使用CANoeDiVa进行UDS一致性测试"
 date:   2020-02-11
 tags: [CANoe,DiVa,UDS,测试,测试用例]
 comments: true

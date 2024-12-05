@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT倒车线实现（利用QPainter绘制）"
+title: "QT倒车线实现利用QPainter绘制"
 date:   2020-12-13
 tags: [QT,倒车,QPainter,绘图,文件]
 comments: true

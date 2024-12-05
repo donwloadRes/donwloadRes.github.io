@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab学习笔记：解决函数‘Link’调用中的参数缺失或数据类型不正确问题"
+title: "Matlab学习笔记解决函数Link调用中的参数缺失或数据类型不正确问题"
 date:   2020-03-22
 tags: [Link,数据类型,standard,参数,Matlab]
 comments: true

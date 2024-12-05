@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySql+Swing购物系统项目资源下载"
+title: "JavaMySqlSwing购物系统项目资源下载"
 date:   2020-09-28
 tags: [数据库,Java,项目,课程设计,毕业设计]
 comments: true

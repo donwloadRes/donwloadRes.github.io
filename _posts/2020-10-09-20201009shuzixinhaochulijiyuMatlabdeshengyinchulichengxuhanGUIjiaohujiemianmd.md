@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理--基于Matlab的声音处理程序（含GUI交互界面）"
+title: "数字信号处理基于Matlab的声音处理程序含GUI交互界面"
 date:   2022-11-21
 tags: [Matlab,声音,声纹识别,用户,相位]
 comments: true

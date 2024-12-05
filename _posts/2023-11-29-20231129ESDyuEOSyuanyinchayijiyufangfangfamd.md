@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESD与EOS原因、差异及预防方法"
+title: "ESD与EOS原因差异及预防方法"
 date:   2023-07-18
 tags: [ESD,EOS,静电,预防,单片机]
 comments: true

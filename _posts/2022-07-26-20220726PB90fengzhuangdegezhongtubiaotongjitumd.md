@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PB9.0封装的各种图表统计图"
+title: "PB90封装的各种图表统计图"
 date:   2022-06-22
 tags: [图表,展示,封装,PB9.0,统计图]
 comments: true

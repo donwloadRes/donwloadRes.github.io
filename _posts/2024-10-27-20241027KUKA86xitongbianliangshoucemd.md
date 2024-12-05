@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA 8.6系统变量手册"
+title: "KUKA 86系统变量手册"
 date:   2020-02-24
 tags: [库卡,8.6,手册,系统,变量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2012 下载、安装与启动指南"
+title: "SQL Server 2012 下载安装与启动指南"
 date:   2021-04-23
 tags: [SQL,Server,安装,2012,下载]
 comments: true

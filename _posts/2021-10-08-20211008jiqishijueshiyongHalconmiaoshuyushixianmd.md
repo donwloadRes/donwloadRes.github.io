@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉-使用Halcon描述与实现"
+title: "机器视觉使用Halcon描述与实现"
 date:   2020-02-09
 tags: [Halcon,视觉,机器,文件,资源]
 comments: true

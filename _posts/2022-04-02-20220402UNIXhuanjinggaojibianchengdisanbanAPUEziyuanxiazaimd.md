@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIX环境高级编程 第三版 (APUE) 资源下载"
+title: "UNIX环境高级编程 第三版 APUE 资源下载"
 date:   2022-05-30
 tags: [PDF,UNIX,APUE,第三版,编程]
 comments: true

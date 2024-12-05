@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA中JUnit的导入指南及解决@Test问题"
+title: "IDEA中JUnit的导入指南及解决Test问题"
 date:   2020-10-31
 tags: [JUnit,Test,导入,IDEA,模块]
 comments: true

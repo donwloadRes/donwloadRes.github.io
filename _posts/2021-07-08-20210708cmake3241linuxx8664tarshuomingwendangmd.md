@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cmake-3.24.1-linux-x86_64.tar 说明文档"
+title: "cmake3241linuxx8664tar 说明文档"
 date:   2022-04-20
 tags: [cmake,64,3.24,x86,linux]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多类别语义分割C++实现（ONNX部署）详细教程"
+title: "多类别语义分割C实现ONNX部署详细教程"
 date:   2022-05-23
 tags: [C++,ONNX,语义,分割,模型]
 comments: true

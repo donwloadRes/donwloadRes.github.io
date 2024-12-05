@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人动力学-基于拉格朗日方法的Matlab实现"
+title: "机器人动力学基于拉格朗日方法的Matlab实现"
 date:   2024-12-03
 tags: [Matlab,机器人,动力学,拉格朗,代码]
 comments: true

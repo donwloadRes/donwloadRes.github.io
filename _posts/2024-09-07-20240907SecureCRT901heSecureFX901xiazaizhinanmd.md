@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 9.0.1 和 SecureFX 9.0.1 下载指南"
+title: "SecureCRT 901 和 SecureFX 901 下载指南"
 date:   2021-10-05
 tags: [SecureCRT,9.0,SecureFX,Windows,macOS]
 comments: true

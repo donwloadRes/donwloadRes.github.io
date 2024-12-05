@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云Java视频点播上传SDK 1.4.14"
+title: "阿里云Java视频点播上传SDK 1414"
 date:   2020-10-03
 tags: [SDK,上传,14,阿里,视频点播]
 comments: true

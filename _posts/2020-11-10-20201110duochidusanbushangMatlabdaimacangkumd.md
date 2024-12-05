@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多尺度散布熵(Matlab)代码仓库"
+title: "多尺度散布熵Matlab代码仓库"
 date:   2022-04-06
 tags: [散布,尺度,Matlab,代码,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyMesh Multi-AP 规范文档翻译"
+title: "EasyMesh MultiAP 规范文档翻译"
 date:   2020-09-02
 tags: [AP,翻译,文档,Multi,EasyMesh]
 comments: true

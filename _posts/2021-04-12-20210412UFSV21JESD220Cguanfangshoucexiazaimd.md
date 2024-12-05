@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UFS V2.1-JESD220C 官方手册下载"
+title: "UFS V21JESD220C 官方手册下载"
 date:   2020-12-29
 tags: [UFS,手册,V2.1,JESD220C,官方]
 comments: true

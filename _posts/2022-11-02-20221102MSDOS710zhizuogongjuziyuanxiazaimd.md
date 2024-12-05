@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSDOS7.10制作工具资源下载"
+title: "MSDOS710制作工具资源下载"
 date:   2023-08-21
 tags: [MSDOS7.10,工具,制作,DOS,镜像文件]
 comments: true

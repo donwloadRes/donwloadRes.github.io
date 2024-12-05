@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARINC653中文版-200305翻译标准资源下载"
+title: "ARINC653中文版200305翻译标准资源下载"
 date:   2021-10-06
 tags: [文件,ARINC653,200305,中文版,翻译]
 comments: true

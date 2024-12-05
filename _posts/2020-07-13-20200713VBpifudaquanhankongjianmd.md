@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB皮肤大全（含控件）"
+title: "VB皮肤大全含控件"
 date:   2021-03-07
 tags: [控件,VB,皮肤,文件,演示]
 comments: true

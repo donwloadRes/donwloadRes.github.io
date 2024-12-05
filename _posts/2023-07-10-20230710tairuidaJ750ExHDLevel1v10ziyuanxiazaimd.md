@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泰瑞达J750Ex-HD Level1 v1.0 资源下载"
+title: "泰瑞达J750ExHD Level1 v10 资源下载"
 date:   2024-08-19
 tags: [泰瑞达,J750Ex,v1.0,HD,Level1]
 comments: true

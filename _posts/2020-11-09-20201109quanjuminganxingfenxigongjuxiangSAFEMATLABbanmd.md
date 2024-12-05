@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全局敏感性分析工具箱SAFE（MATLAB版）"
+title: "全局敏感性分析工具箱SAFEMATLAB版"
 date:   2022-06-11
 tags: [敏感性,SAFE,工具箱,MATLAB,分析]
 comments: true

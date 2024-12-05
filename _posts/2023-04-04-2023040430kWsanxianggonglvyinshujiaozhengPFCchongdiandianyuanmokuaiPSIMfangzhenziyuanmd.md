@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30kW 三相功率因数校正 (PFC) 充电电源模块 PSIM 仿真资源"
+title: "30kW 三相功率因数校正 PFC 充电电源模块 PSIM 仿真资源"
 date:   2024-01-03
 tags: [仿真,PFC,PSIM,三相,功率因数]
 comments: true

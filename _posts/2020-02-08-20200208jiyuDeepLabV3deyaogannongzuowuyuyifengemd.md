@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DeepLabV3+的遥感农作物语义分割"
+title: "基于DeepLabV3的遥感农作物语义分割"
 date:   2024-01-23
 tags: [模型,分割,图像,遥感,农作物]
 comments: true

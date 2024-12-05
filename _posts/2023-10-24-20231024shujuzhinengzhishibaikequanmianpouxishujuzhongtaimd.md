@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据智能知识百科：全面剖析数据中台"
+title: "数据智能知识百科全面剖析数据中台"
 date:   2021-10-11
 tags: [数据,中台,架构,知识,智能]
 comments: true

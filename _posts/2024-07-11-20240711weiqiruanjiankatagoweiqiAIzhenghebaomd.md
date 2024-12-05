@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "围棋软件：katago 围棋AI 整合包"
+title: "围棋软件katago 围棋AI 整合包"
 date:   2024-08-15
 tags: [KataGo,AI,围棋,配置文件,引擎]
 comments: true

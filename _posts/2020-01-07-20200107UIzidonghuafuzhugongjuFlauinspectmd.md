@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UI自动化辅助工具 - Flauinspect"
+title: "UI自动化辅助工具  Flauinspect"
 date:   2020-03-25
 tags: [UI,元素,Flauinspect,XPath,自动化]
 comments: true

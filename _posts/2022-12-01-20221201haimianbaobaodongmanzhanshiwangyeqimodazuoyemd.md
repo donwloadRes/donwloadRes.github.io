@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海绵宝宝动漫展示网页 - 期末大作业"
+title: "海绵宝宝动漫展示网页  期末大作业"
 date:   2023-02-24
 tags: [网页,海绵,宝宝,展示,动漫]
 comments: true

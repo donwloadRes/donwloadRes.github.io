@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通用产品需求文档(PRD)模板（附完整案例）"
+title: "通用产品需求文档PRD模板附完整案例"
 date:   2024-04-16
 tags: [模板,PRD,文档,产品,需求]
 comments: true

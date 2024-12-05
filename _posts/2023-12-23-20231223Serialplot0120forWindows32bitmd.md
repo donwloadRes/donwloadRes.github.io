@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Serialplot 0.12.0 for Windows 32-bit"
+title: "Serialplot 0120 for Windows 32bit"
 date:   2021-07-23
 tags: [Serialplot,串行,端口,0.12,Windows]
 comments: true

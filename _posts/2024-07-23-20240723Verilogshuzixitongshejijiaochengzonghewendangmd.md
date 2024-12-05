@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog数字系统设计教程 - 综合文档"
+title: "Verilog数字系统设计教程  综合文档"
 date:   2023-03-21
 tags: [Verilog,设计,教程,数字,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MP4Reader v0.9.0.6 资源文件下载"
+title: "MP4Reader v0906 资源文件下载"
 date:   2023-05-30
 tags: [文件,MP4,0.6,v0.9,MP4Reader]
 comments: true

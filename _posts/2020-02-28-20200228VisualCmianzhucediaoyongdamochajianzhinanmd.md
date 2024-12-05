@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 免注册调用大漠插件指南"
+title: "Visual C 免注册调用大漠插件指南"
 date:   2023-09-03
 tags: [插件,大漠,注册,C++,调用]
 comments: true

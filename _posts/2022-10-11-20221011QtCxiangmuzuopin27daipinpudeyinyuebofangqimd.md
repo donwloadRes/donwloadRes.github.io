@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品27 - 带频谱的音乐播放器"
+title: "QtC项目作品27  带频谱的音乐播放器"
 date:   2023-06-18
 tags: [音频,频谱,播放,播放器,项目]
 comments: true

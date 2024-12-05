@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ Redistributable for Visual Studio 2015 下载仓库"
+title: "Visual C Redistributable for Visual Studio 2015 下载仓库"
 date:   2021-05-19
 tags: [Visual,Studio,2015,C++,Redistributable]
 comments: true

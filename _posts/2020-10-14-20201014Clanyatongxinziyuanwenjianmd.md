@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 蓝牙通信资源文件"
+title: "C 蓝牙通信资源文件"
 date:   2022-04-18
 tags: [蓝牙,C#,代码,通信,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【自用】深度学习期末复习资料"
+title: "自用深度学习期末复习资料"
 date:   2024-02-27
 tags: [学习,深度,期末,神经网络,复习]
 comments: true

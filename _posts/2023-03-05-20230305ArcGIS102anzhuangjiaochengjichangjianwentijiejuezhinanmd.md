@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.2 安装教程及常见问题解决指南"
+title: "ArcGIS 102 安装教程及常见问题解决指南"
 date:   2023-02-04
 tags: [安装,License,ArcGIS,10.2,教程]
 comments: true

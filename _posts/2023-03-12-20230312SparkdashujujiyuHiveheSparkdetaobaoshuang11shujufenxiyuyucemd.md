@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spark大数据-基于Hive和Spark的淘宝双11数据分析与预测"
+title: "Spark大数据基于Hive和Spark的淘宝双11数据分析与预测"
 date:   2024-01-05
 tags: [数据,Spark,Hive,11,预测]
 comments: true

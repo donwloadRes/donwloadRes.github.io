@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英特尔® 智音技术音频控制器驱动程序"
+title: "英特尔 智音技术音频控制器驱动程序"
 date:   2022-12-22
 tags: [音频,英特尔,驱动程序,智音,安装]
 comments: true

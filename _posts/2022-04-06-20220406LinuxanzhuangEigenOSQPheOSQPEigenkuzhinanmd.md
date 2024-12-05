@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装Eigen、OSQP和OSQP-Eigen库指南"
+title: "Linux安装EigenOSQP和OSQPEigen库指南"
 date:   2021-09-21
 tags: [Eigen,OSQP,build,安装,文件夹]
 comments: true

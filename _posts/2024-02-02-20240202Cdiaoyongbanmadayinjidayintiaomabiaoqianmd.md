@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用斑马打印机打印条码标签"
+title: "C调用斑马打印机打印条码标签"
 date:   2024-08-09
 tags: [C#,打印机,项目,斑马,支持]
 comments: true

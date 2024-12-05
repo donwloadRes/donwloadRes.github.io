@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "弹道图绘制-MATLAB代码"
+title: "弹道图绘制MATLAB代码"
 date:   2024-11-10
 tags: [MATLAB,弹道,GUI,绘制,追击]
 comments: true

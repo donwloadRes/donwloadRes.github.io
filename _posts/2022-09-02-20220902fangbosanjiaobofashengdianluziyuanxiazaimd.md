@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "方波-三角波发生电路资源下载"
+title: "方波三角波发生电路资源下载"
 date:   2020-10-22
 tags: [电路,原理图,方波,PCB,三角]
 comments: true

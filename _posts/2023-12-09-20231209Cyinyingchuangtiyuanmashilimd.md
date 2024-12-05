@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#阴影窗体源码示例"
+title: "C阴影窗体源码示例"
 date:   2021-11-10
 tags: [窗体,源码,阴影,自定义,C#]
 comments: true

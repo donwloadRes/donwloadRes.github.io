@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸识别（基于OpenCV 完整代码）"
+title: "人脸识别基于OpenCV 完整代码"
 date:   2024-05-26
 tags: [人脸识别,代码,OpenCV,https,文件]
 comments: true

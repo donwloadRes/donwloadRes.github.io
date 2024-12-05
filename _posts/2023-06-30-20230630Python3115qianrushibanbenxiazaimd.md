@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.11.5 嵌入式版本下载"
+title: "Python 3115 嵌入式版本下载"
 date:   2022-07-01
 tags: [Python,3.11,嵌入式,版本,python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InstaSPIN-FOC™ 和 InstaSPIN-MOTION™ 用户手册下载"
+title: "InstaSPINFOC 和 InstaSPINMOTION 用户手册下载"
 date:   2020-11-19
 tags: [InstaSPIN,FOC,MOTION,用户手册,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue 开发者工具 (谷歌浏览器插件)"
+title: "Vue 开发者工具 谷歌浏览器插件"
 date:   2024-08-19
 tags: [Vue,插件,开发者,版本,浏览器]
 comments: true

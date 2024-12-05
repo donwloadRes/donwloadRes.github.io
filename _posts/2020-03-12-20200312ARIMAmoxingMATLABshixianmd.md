@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARIMA模型-MATLAB实现"
+title: "ARIMA模型MATLAB实现"
 date:   2023-02-14
 tags: [ARIMA,模型,MATLAB,代码,序列]
 comments: true

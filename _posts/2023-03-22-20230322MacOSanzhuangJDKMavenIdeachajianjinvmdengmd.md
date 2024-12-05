@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacOS安装JDK、Maven、Idea插件及nvm等"
+title: "MacOS安装JDKMavenIdea插件及nvm等"
 date:   2023-06-03
 tags: [安装,MacOS,插件,Maven,nvm]
 comments: true

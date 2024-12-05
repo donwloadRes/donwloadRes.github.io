@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代信号分析 - 张贤达高清PDF资源共享"
+title: "现代信号分析  张贤达高清PDF资源共享"
 date:   2022-10-11
 tags: [PDF,贤达,高清,分析,信号]
 comments: true

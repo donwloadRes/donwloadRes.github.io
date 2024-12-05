@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10共享打印机补丁(0x00000709)"
+title: "WIN10共享打印机补丁0x00000709"
 date:   2023-08-10
 tags: [打印机,补丁,共享,0x00000709,安装]
 comments: true

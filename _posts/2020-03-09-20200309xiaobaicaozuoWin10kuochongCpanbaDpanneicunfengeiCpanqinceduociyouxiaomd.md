@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白操作Win10扩充C盘（把D盘内存分给C盘）亲测多次有效"
+title: "小白操作Win10扩充C盘把D盘内存分给C盘亲测多次有效"
 date:   2020-02-05
 tags: [C盘,D盘,空间,分配,分区]
 comments: true

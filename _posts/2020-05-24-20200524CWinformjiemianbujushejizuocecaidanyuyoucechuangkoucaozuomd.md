@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 界面布局设计：左侧菜单与右侧窗口操作"
+title: "C Winform 界面布局设计左侧菜单与右侧窗口操作"
 date:   2022-10-26
 tags: [控件,自定义,菜单,界面,右侧]
 comments: true

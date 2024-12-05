@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023第六届“泰迪杯”数据分析技能赛A题"
+title: "2023第六届泰迪杯数据分析技能赛A题"
 date:   2021-09-20
 tags: [数据分析,泰迪杯,数据,技能,提交]
 comments: true

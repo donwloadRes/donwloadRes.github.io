@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB演化博弈与Lotka-Volterra模型资源下载"
+title: "MATLAB演化博弈与LotkaVolterra模型资源下载"
 date:   2022-09-13
 tags: [MATLAB,演化,博弈,Lotka,Volterra]
 comments: true

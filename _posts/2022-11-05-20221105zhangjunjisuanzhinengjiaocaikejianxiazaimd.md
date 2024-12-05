@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张军计算智能》教材课件下载"
+title: "张军计算智能教材课件下载"
 date:   2021-06-10
 tags: [课件,教材,智能,下载,计算]
 comments: true

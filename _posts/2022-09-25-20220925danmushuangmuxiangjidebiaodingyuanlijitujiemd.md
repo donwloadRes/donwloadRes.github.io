@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单目、双目相机的标定原理及图解"
+title: "单目双目相机的标定原理及图解"
 date:   2022-09-17
 tags: [标定,相机,双目,单目,图解]
 comments: true

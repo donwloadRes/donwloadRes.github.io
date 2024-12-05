@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 自动升级程序（含客户端和服务端）"
+title: "C 自动升级程序含客户端和服务端"
 date:   2020-06-03
 tags: [应用程序,UpdateServer,Client,版本,程序]
 comments: true

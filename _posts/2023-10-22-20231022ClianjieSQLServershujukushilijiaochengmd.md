@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接SQL Server数据库实例教程"
+title: "C连接SQL Server数据库实例教程"
 date:   2023-07-25
 tags: [C#,SQL,Server,数据库,文档]
 comments: true

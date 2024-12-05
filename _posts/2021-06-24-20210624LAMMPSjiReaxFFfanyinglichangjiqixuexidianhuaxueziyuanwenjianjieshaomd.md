@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAMMPS及ReaxFF反应力场、机器学习、电化学资源文件介绍"
+title: "LAMMPS及ReaxFF反应力场机器学习电化学资源文件介绍"
 date:   2020-07-26
 tags: [模拟,ReaxFF,LAMMPS,力场,学习]
 comments: true

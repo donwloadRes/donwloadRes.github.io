@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prolific USB-to-Serial Comm Port 驱动资源"
+title: "Prolific USBtoSerial Comm Port 驱动资源"
 date:   2023-10-18
 tags: [USB,Prolific,驱动,驱动程序,Serial]
 comments: true

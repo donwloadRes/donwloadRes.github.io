@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Xilinx FPGA的OFDM通信系统基带设计（代码）"
+title: "基于Xilinx FPGA的OFDM通信系统基带设计代码"
 date:   2020-11-15
 tags: [OFDM,FPGA,代码,Xilinx,基带]
 comments: true

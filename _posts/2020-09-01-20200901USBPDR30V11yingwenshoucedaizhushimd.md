@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-PD-R3-0 V1.1 英文手册带注释"
+title: "USBPDR30 V11 英文手册带注释"
 date:   2020-05-25
 tags: [USB,PD,R3,V1.1,pdf]
 comments: true

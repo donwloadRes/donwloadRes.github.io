@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构笔记-考研王道笔记知识点整理》"
+title: "数据结构笔记考研王道笔记知识点整理"
 date:   2021-01-19
 tags: [数据结构,笔记,知识点,考研,查找]
 comments: true

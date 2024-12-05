@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS9.4安装指南"
+title: "SAS94安装指南"
 date:   2021-12-21
 tags: [安装,SAS9.4,指南,SID,常见问题]
 comments: true

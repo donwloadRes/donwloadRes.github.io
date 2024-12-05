@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSM 03.40中文版资源文件介绍"
+title: "GSM 0340中文版资源文件介绍"
 date:   2021-03-31
 tags: [GSM,短消息,03.40,传输,文件]
 comments: true

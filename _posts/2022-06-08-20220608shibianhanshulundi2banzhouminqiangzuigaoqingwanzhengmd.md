@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实变函数论(第2版)周民强 最高清 完整"
+title: "实变函数论第2版周民强 最高清 完整"
 date:   2024-08-24
 tags: [实变,函数,周民强,数学系,Lebesgue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch版Mask R-CNN图像实例分割实战：训练自己的数据集【331018】网盘文件说明"
+title: "PyTorch版Mask RCNN图像实例分割实战训练自己的数据集331018网盘文件说明"
 date:   2020-10-19
 tags: [文件,CNN,Mask,训练,PyTorch]
 comments: true

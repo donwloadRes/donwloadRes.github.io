@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++“超级玛丽”游戏源代码仓库"
+title: "C超级玛丽游戏源代码仓库"
 date:   2024-08-23
 tags: [源代码,C++,超级玛丽,游戏,仓库]
 comments: true

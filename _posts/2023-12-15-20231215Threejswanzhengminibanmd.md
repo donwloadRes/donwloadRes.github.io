@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 完整迷你版"
+title: "Threejs 完整迷你版"
 date:   2021-12-10
 tags: [js,Three,3D,下载,three]
 comments: true

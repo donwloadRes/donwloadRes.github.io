@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的上位机源码"
+title: "基于C的上位机源码"
 date:   2024-08-18
 tags: [源码,上位,C#,VS2013,开发者]
 comments: true

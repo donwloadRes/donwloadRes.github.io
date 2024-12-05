@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HTTP 请求源码：GET 和 POST 示例"
+title: "C HTTP 请求源码GET 和 POST 示例"
 date:   2020-10-25
 tags: [HTTP,源码,示例,C#,GET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新的EmBitz-2.60：强大且免费的嵌入式开发工具"
+title: "最新的EmBitz260强大且免费的嵌入式开发工具"
 date:   2021-02-12
 tags: [EmBitz,Link,嵌入式,2.60,IDE]
 comments: true

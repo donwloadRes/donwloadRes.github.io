@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++程序设计语言（原书第四版）资源下载"
+title: "C程序设计语言原书第四版资源下载"
 date:   2021-07-10
 tags: [C++,原书,第四版,编程,程序设计]
 comments: true

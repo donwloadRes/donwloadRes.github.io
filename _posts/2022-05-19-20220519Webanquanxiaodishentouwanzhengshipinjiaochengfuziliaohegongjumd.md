@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web安全-小迪渗透完整视频教程附资料和工具"
+title: "Web安全小迪渗透完整视频教程附资料和工具"
 date:   2021-05-27
 tags: [Web,安全,视频教程,学习者,漏洞]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "眼底图像数据集汇总：RETOUCH, REFUGE, IDRiD"
+title: "眼底图像数据集汇总RETOUCH REFUGE IDRiD"
 date:   2020-07-23
 tags: [图像,数据,眼底,分割,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perl 5.28 + QtXlsx 资源文件下载"
+title: "Perl 528  QtXlsx 资源文件下载"
 date:   2024-02-18
 tags: [QtXlsx,Perl,5.28,模块,Qxlsx]
 comments: true

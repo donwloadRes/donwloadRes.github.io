@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音乐律动：局域网实现拾音灯方案"
+title: "音乐律动局域网实现拾音灯方案"
 date:   2024-09-23
 tags: [响度,ESP32,灯效,音频,项目]
 comments: true

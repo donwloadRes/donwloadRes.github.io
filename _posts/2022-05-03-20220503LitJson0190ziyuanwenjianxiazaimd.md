@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LitJson 0.19.0 资源文件下载"
+title: "LitJson 0190 资源文件下载"
 date:   2020-03-16
 tags: [LitJson,0.19,文件,序列化,下载]
 comments: true

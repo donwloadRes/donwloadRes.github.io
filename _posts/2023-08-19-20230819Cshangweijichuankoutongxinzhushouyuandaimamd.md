@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机串口通信助手源代码"
+title: "C 上位机串口通信助手源代码"
 date:   2023-07-11
 tags: [串口,C#,源代码,16,发送]
 comments: true

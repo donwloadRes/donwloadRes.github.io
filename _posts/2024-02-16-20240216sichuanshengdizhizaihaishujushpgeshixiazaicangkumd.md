@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四川省地质灾害数据（shp格式）下载仓库"
+title: "四川省地质灾害数据shp格式下载仓库"
 date:   2020-05-17
 tags: [shp,数据,GIS,地质灾害,格式]
 comments: true

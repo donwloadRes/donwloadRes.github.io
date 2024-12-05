@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#操作OPC完全指南：含KepServer4.5、OPCAutomation.dll及实践C#项目"
+title: "C操作OPC完全指南含KepServer45OPCAutomationdll及实践C项目"
 date:   2022-01-31
 tags: [C#,OPC,PLC,OPCAutomation,dll]
 comments: true

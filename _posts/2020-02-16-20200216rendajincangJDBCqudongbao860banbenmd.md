@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人大金仓 JDBC 驱动包 (8.6.0 版本)"
+title: "人大金仓 JDBC 驱动包 860 版本"
 date:   2021-05-11
 tags: [8.6,数据库,金仓,驱动,JDBC]
 comments: true

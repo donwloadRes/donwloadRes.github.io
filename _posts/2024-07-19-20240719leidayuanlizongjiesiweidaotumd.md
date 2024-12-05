@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达原理总结-思维导图"
+title: "雷达原理总结思维导图"
 date:   2021-05-05
 tags: [导图,思维,雷达,原理,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boot-Example-Shiro-Separate"
+title: "BootExampleShiroSeparate"
 date:   2022-08-02
 tags: [Shiro,Token,SpringBoot,前端,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "P-III曲线软件下载"
+title: "PIII曲线软件下载"
 date:   2021-12-13
 tags: [曲线拟合,软件,III,曲线,导入]
 comments: true

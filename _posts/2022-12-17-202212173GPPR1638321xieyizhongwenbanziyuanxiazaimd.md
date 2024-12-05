@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3GPP R16 38.321 协议中文版资源下载"
+title: "3GPP R16 38321 协议中文版资源下载"
 date:   2023-07-19
 tags: [38.321,协议,资源,3GPP,下载]
 comments: true

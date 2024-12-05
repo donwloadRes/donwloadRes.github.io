@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "50个完整项目BIM（Revit）资源包"
+title: "50个完整项目BIMRevit资源包"
 date:   2023-05-05
 tags: [BIM,资源,从业者,项目,50]
 comments: true

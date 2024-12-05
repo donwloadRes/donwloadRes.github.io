@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图片帧转换为MP4格式视频"
+title: "C 图片帧转换为MP4格式视频"
 date:   2020-01-24
 tags: [源码,jpg,格式,转换,图片]
 comments: true

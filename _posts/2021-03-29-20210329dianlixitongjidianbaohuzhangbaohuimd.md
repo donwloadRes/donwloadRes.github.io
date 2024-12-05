@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统继电保护-张保会"
+title: "电力系统继电保护张保会"
 date:   2021-12-11
 tags: [电力系统,继电保护,张保会,教材,本书]
 comments: true

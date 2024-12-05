@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCA算法用于人脸降维Python实现（吴恩达机器学习作业）"
+title: "PCA算法用于人脸降维Python实现吴恩达机器学习作业"
 date:   2020-07-06
 tags: [PCA,人脸,算法,降维,Python]
 comments: true

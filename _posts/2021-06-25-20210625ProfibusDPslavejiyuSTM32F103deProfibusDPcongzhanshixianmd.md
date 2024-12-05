@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profibus_DP_slave: 基于STM32F103的Profibus DP从站实现"
+title: "ProfibusDPslave 基于STM32F103的Profibus DP从站实现"
 date:   2022-08-26
 tags: [Profibus,DP,Keil,VPC3,编译]
 comments: true

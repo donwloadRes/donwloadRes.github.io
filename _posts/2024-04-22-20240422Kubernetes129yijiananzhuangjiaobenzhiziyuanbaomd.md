@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes 1.29 一键安装脚本之资源包"
+title: "Kubernetes 129 一键安装脚本之资源包"
 date:   2020-05-14
 tags: [一键,Kubernetes,资源,脚本,安装]
 comments: true

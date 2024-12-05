@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebSocketApplication-V1.0"
+title: "WebSocketApplicationV10"
 date:   2020-01-22
 tags: [WebSocketApplication,V1.0,WebSocket,Qt,C++]
 comments: true

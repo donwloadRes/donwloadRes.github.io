@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细Hadoop安装教程（单机版、伪分布式）"
+title: "超详细Hadoop安装教程单机版伪分布式"
 date:   2020-01-16
 tags: [Hadoop,配置,分布式,教程,单机版]
 comments: true

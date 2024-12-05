@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD安装失败解决方案：三步完美卸载CAD软件"
+title: "CAD安装失败解决方案三步完美卸载CAD软件"
 date:   2020-07-24
 tags: [卸载,CAD,重新安装,软件,安装]
 comments: true

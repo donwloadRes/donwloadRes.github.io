@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与欧姆龙PLC-FINS通信资源文件"
+title: "C与欧姆龙PLCFINS通信资源文件"
 date:   2022-04-05
 tags: [PLC,C#,欧姆龙,FINS,通信]
 comments: true

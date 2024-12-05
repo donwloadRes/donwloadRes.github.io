@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNETCracker-超级弱口令检查工具"
+title: "SNETCracker超级弱口令检查工具"
 date:   2021-11-11
 tags: [扫描,口令,工具,SNETCracker,系统]
 comments: true

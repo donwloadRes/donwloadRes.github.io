@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFP+协议规范下载仓库"
+title: "SFP协议规范下载仓库"
 date:   2021-01-25
 tags: [SFP,文档,协议,规范,接口]
 comments: true

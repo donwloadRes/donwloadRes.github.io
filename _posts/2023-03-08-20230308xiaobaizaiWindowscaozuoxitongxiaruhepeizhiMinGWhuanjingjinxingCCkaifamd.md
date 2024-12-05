@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白在Windows操作系统下如何配置MinGW环境进行C++-C开发"
+title: "小白在Windows操作系统下如何配置MinGW环境进行CC开发"
 date:   2021-10-08
 tags: [MinGW,Windows,C++,操作系统,配置]
 comments: true

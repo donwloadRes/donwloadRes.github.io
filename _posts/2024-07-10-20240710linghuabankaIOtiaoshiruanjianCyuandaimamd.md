@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凌华板卡IO调试软件C#源代码"
+title: "凌华板卡IO调试软件C源代码"
 date:   2024-11-19
 tags: [IO,源代码,凌华,板卡,调试]
 comments: true

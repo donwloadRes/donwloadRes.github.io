@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastAdmin 易支付、码支付、源支付免签个人支付插件"
+title: "FastAdmin 易支付码支付源支付免签个人支付插件"
 date:   2024-06-14
 tags: [支付,插件,免签,功能,FastAdmin]
 comments: true

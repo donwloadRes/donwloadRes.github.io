@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言GBK与UTF-8编码转换资源"
+title: "C语言GBK与UTF8编码转换资源"
 date:   2023-03-08
 tags: [编码,GBK,转换,C语言,UTF]
 comments: true

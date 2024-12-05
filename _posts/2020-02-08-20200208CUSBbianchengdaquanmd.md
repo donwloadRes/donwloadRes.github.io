@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB编程大全"
+title: "C USB编程大全"
 date:   2024-02-05
 tags: [USB,C#,串口,U盘,编程]
 comments: true

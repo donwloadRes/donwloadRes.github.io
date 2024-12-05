@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下安装UEFI引导工具Refind引导Ubuntu+Win10（解决新版refind无界面问题）"
+title: "Windows下安装UEFI引导工具Refind引导UbuntuWin10解决新版refind无界面问题"
 date:   2022-06-17
 tags: [rEFInd,引导,Windows,UEFI,refind]
 comments: true

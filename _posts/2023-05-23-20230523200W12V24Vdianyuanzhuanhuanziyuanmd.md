@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "200W 12V-24V 电源转换资源"
+title: "200W 12V24V 电源转换资源"
 date:   2021-11-02
 tags: [电源,参数,设计,资源,电感]
 comments: true

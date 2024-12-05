@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验二：DOS-DDOS拒绝服务攻击"
+title: "实验二DOSDDOS拒绝服务攻击"
 date:   2022-01-22
 tags: [攻击,拒绝服务,Wireshark,DDoS,--]
 comments: true

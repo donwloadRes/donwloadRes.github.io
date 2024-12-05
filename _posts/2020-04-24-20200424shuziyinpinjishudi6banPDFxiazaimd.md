@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字音频技术(第6版) PDF 下载"
+title: "数字音频技术第6版 PDF 下载"
 date:   2023-11-15
 tags: [数字音频,PDF,下载,仓库,技术]
 comments: true

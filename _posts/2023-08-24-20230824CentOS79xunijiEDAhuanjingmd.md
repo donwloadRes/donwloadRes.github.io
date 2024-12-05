@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7.9虚拟机EDA环境"
+title: "CentOS79虚拟机EDA环境"
 date:   2024-01-26
 tags: [虚拟机,EDA,设计,工具,环境]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI-IDL 高分1号pms1-2批量预处理工具"
+title: "ENVIIDL 高分1号pms12批量预处理工具"
 date:   2022-08-13
 tags: [ENVI,校正,IDL,影像,工具]
 comments: true

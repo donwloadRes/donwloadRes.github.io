@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jlink驱动 V7.96 资源文件"
+title: "Jlink驱动 V796 资源文件"
 date:   2022-05-16
 tags: [Jlink,V7.96,驱动,文件,解压]
 comments: true

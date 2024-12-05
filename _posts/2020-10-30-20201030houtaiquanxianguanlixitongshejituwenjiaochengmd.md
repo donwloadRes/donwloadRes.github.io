@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "后台权限管理系统设计（图文教程）"
+title: "后台权限管理系统设计图文教程"
 date:   2022-08-11
 tags: [权限,管理系统,教程,示例,后台]
 comments: true

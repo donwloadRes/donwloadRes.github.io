@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSVCR120.DLL 资源文件下载"
+title: "MSVCR120DLL 资源文件下载"
 date:   2024-11-25
 tags: [MSVCR120,DLL,文件,应用程序,下载]
 comments: true

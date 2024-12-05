@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据科学导论实验报告：常用Linux操作和Hadoop操作"
+title: "数据科学导论实验报告常用Linux操作和Hadoop操作"
 date:   2020-06-22
 tags: [Hadoop,Linux,操作,实验报告,安装]
 comments: true

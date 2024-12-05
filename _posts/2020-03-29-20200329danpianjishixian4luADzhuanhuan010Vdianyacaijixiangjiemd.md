@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机实现4路AD转换，0-10V电压采集详解"
+title: "单片机实现4路AD转换010V电压采集详解"
 date:   2021-11-21
 tags: [单片机,AD,电压,10V,51]
 comments: true

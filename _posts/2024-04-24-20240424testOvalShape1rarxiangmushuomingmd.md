@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "testOvalShape1.rar 项目说明"
+title: "testOvalShape1rar 项目说明"
 date:   2022-10-29
 tags: [指示灯,项目,OvalShape,引用,Visual]
 comments: true

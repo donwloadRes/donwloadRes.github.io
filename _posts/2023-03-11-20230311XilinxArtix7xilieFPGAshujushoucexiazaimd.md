@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Artix-7系列FPGA数据手册下载"
+title: "Xilinx Artix7系列FPGA数据手册下载"
 date:   2021-01-06
 tags: [FPGA,手册,Xilinx,Artix,系列]
 comments: true

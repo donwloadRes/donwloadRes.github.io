@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10系统下复现Pointnet++（pytorch）"
+title: "Win10系统下复现Pointnetpytorch"
 date:   2022-03-15
 tags: [Pointnet,++,训练,模型,测试]
 comments: true

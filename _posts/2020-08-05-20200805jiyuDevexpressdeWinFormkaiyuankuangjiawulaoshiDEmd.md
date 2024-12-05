@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Devexpress的WinForm开源框架（伍老师DE）"
+title: "基于Devexpress的WinForm开源框架伍老师DE"
 date:   2023-02-14
 tags: [Devexpress,WinForm,框架,开源,开发]
 comments: true

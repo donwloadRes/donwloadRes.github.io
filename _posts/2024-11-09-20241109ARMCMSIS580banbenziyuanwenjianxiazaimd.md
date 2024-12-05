@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM CMSIS 5.80 版本资源文件下载"
+title: "ARM CMSIS 580 版本资源文件下载"
 date:   2023-09-13
 tags: [ARM,CMSIS,版本,5.80,文件]
 comments: true

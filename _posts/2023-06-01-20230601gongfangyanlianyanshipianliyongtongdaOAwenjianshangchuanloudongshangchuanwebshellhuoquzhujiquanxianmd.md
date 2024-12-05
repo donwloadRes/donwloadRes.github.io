@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "攻防演练演示篇：利用通达OA文件上传漏洞上传webshell获取主机权限"
+title: "攻防演练演示篇利用通达OA文件上传漏洞上传webshell获取主机权限"
 date:   2022-10-23
 tags: [OA,上传,通达,漏洞,webshell]
 comments: true

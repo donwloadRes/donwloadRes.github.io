@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新国标-2015GB_T 27930 直流充电桩原理图解"
+title: "新国标2015GBT 27930 直流充电桩原理图解"
 date:   2023-07-26
 tags: [充电,直流,图解,2015GB,接口定义]
 comments: true

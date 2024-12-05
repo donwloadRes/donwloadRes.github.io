@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Acrobat Pro DC自动生成PDF目录——知网硕博论文为例"
+title: "用Acrobat Pro DC自动生成PDF目录知网硕博论文为例"
 date:   2024-02-22
 tags: [PDF,目录,知网,格式,硕博]
 comments: true

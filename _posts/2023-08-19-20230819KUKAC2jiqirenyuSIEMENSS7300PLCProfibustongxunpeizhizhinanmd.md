@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA C2 机器人与 SIEMENS S7-300 PLC Profibus 通讯配置指南"
+title: "KUKA C2 机器人与 SIEMENS S7300 PLC Profibus 通讯配置指南"
 date:   2020-06-20
 tags: [配置,KUKA,SIEMENS,PLC,Profibus]
 comments: true

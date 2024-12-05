@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus_II使用教程"
+title: "QuartusII使用教程"
 date:   2023-12-25
 tags: [Quartus,II,FPGA,CPLD,仿真]
 comments: true

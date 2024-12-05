@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动机的DSP控制-TI公司DSP应用(第2版) 资源下载"
+title: "电动机的DSP控制TI公司DSP应用第2版 资源下载"
 date:   2021-11-23
 tags: [DSP,电动机,TI,控制,应用]
 comments: true

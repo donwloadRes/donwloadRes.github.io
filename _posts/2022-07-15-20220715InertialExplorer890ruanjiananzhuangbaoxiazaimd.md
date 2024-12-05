@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inertial Explorer 8.90 软件安装包下载"
+title: "Inertial Explorer 890 软件安装包下载"
 date:   2024-07-13
 tags: [GNSS,Inertial,Explorer,8.90,耦合]
 comments: true

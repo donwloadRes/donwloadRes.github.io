@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Celeb-DF人脸伪造数据集下载地址"
+title: "CelebDF人脸伪造数据集下载地址"
 date:   2023-04-01
 tags: [Celeb,DF,视频,伪造,数据]
 comments: true

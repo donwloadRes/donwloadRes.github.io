@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cartographer安装指南：轻松跟随，一次成功！"
+title: "Cartographer安装指南轻松跟随一次成功"
 date:   2023-05-23
 tags: [安装,Cartographer,ROS,fishros,依赖]
 comments: true

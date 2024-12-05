@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++大学教程(第九版) 中文版资源介绍"
+title: "C大学教程第九版 中文版资源介绍"
 date:   2023-07-17
 tags: [C++,第九版,教程,Deitel,特尔]
 comments: true

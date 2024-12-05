@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中使用双缓冲及BitBlt提高GDI+绘图效率的示例程序"
+title: "C中使用双缓冲及BitBlt提高GDI绘图效率的示例程序"
 date:   2024-09-24
 tags: [绘图,示例,BitBlt,缓冲,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSP 3.71 升级固件包"
+title: "PSP 371 升级固件包"
 date:   2021-09-03
 tags: [固件,升级,PSP,3.71,仓库]
 comments: true

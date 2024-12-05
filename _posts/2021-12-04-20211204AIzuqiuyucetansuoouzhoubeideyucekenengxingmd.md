@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI足球预测：探索欧洲杯的预测可能性"
+title: "AI足球预测探索欧洲杯的预测可能性"
 date:   2022-12-06
 tags: [AI,预测,足球,欧洲杯,模型]
 comments: true

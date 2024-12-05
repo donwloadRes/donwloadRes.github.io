@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity GIS Terrain Loader 2.4 插件介绍"
+title: "Unity GIS Terrain Loader 24 插件介绍"
 date:   2024-04-12
 tags: [插件,加载,Unity,GIS,数据]
 comments: true

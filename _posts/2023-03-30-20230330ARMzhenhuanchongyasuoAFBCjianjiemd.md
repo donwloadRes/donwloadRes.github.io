@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM帧缓冲压缩（AFBC）简介"
+title: "ARM帧缓冲压缩AFBC简介"
 date:   2023-02-25
 tags: [AFBC,ARM,压缩,文件,缓冲]
 comments: true

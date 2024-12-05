@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JSP+Servlet图书管理（增删改查）项目介绍"
+title: "JSPServlet图书管理增删改查项目介绍"
 date:   2021-09-10
 tags: [项目,设计模式,JSP,Servlet,改查]
 comments: true

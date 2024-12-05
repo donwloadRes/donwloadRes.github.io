@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabWindows-CVIa开发入门和进阶"
+title: "LabWindowsCVIa开发入门和进阶"
 date:   2020-08-17
 tags: [LabWindows,CVI,进阶,开发,入门]
 comments: true

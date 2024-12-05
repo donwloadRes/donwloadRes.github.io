@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Sigrity PowerDC 2023.1 用户手册下载"
+title: "Cadence Sigrity PowerDC 20231 用户手册下载"
 date:   2022-02-28
 tags: [PowerDC,用户手册,Sigrity,Cadence,2023.1]
 comments: true

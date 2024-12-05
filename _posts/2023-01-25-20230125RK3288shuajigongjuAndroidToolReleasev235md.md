@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3288刷机工具 - AndroidTool_Release_v2.35"
+title: "RK3288刷机工具  AndroidToolReleasev235"
 date:   2022-07-07
 tags: [刷机,RK3288,AndroidTool,刷入,Release]
 comments: true

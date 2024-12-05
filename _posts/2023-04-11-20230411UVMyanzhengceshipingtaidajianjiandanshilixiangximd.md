@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM验证测试平台搭建简单示例（详细）"
+title: "UVM验证测试平台搭建简单示例详细"
 date:   2024-02-27
 tags: [UVM,验证,示例,文档,测试]
 comments: true

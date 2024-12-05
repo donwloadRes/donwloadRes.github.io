@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIP.js + FreeSWITCH + WebRTC 电话应用示例"
+title: "SIPjs  FreeSWITCH  WebRTC 电话应用示例"
 date:   2021-06-03
 tags: [示例,SIP,js,FreeSWITCH,浏览器]
 comments: true

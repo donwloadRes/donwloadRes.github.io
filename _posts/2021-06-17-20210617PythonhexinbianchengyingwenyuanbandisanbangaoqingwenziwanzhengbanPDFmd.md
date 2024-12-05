@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python核心编程英文原版（第三版）高清文字完整版PDF"
+title: "Python核心编程英文原版第三版高清文字完整版PDF"
 date:   2020-05-03
 tags: [PDF,Python,英文原版,编程,完整版]
 comments: true

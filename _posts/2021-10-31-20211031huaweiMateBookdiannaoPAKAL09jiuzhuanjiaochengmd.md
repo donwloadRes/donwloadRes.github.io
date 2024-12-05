@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为MateBook电脑PAK-AL09救砖教程"
+title: "华为MateBook电脑PAKAL09救砖教程"
 date:   2024-09-20
 tags: [教程,启动盘,Rufus,PE,电脑]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "esp32-cam WiFi图像传输项目"
+title: "esp32cam WiFi图像传输项目"
 date:   2024-09-07
 tags: [ESP32,TFT,传输,CAM,UDP]
 comments: true

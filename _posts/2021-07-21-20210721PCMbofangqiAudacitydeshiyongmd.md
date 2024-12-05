@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCM播放器--Audacity的使用"
+title: "PCM播放器Audacity的使用"
 date:   2024-04-03
 tags: [PCM,Audacity,音频,音频文件,播放]
 comments: true

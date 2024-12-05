@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5软件安装与开发环境搭建教程（MDK, C51通用）"
+title: "Keil5软件安装与开发环境搭建教程MDK C51通用"
 date:   2020-05-30
 tags: [安装,C51,MDK,Keil5,教程]
 comments: true

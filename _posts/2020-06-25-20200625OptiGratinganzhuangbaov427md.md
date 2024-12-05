@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OptiGrating安装包v4.2.7"
+title: "OptiGrating安装包v427"
 date:   2022-02-24
 tags: [光栅,OptiGrating,v4.2,光纤,软件]
 comments: true

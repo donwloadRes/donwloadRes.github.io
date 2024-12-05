@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb卖淘乐》后台管理系统课程设计"
+title: "Javaweb卖淘乐后台管理系统课程设计"
 date:   2024-09-29
 tags: [Javaweb,管理系统,课程设计,后台,项目]
 comments: true

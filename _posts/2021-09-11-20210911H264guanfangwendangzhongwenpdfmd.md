@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H264官方文档(中文).pdf"
+title: "H264官方文档中文pdf"
 date:   2021-08-08
 tags: [文档,H.264,官方,中文,H264]
 comments: true

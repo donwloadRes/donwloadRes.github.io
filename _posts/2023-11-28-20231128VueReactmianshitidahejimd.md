@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue、React面试题大合集"
+title: "VueReact面试题大合集"
 date:   2021-03-06
 tags: [面试题,面试,Vue,React,题目]
 comments: true

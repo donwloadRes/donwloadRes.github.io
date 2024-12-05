@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Max2Babylon-1.3.33（max导出glb）插件使用指南"
+title: "Max2Babylon1333max导出glb插件使用指南"
 date:   2023-04-30
 tags: [插件,3ds,Max,导出,glb]
 comments: true

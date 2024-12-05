@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChromeDriver 116版本 全系统兼容 (Windows, macOS, Linux)"
+title: "ChromeDriver 116版本 全系统兼容 Windows macOS Linux"
 date:   2021-08-13
 tags: [ChromeDriver,版本,浏览器,谷歌,Windows]
 comments: true

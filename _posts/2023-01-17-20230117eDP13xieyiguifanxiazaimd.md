@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eDP 1.3协议规范下载"
+title: "eDP 13协议规范下载"
 date:   2022-08-04
 tags: [1.3,规范,eDP,嵌入式,选项]
 comments: true

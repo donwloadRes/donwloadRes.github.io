@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学物理习题分析与解答（PDF）"
+title: "大学物理习题分析与解答PDF"
 date:   2024-09-19
 tags: [大学物理,习题,PDF,解答,复习]
 comments: true

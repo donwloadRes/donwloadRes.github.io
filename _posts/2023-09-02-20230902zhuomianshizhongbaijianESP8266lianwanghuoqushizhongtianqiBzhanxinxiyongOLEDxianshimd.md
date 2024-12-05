@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "桌面时钟摆件（ESP8266联网获取时钟，天气，B站信息用OLED显示）"
+title: "桌面时钟摆件ESP8266联网获取时钟天气B站信息用OLED显示"
 date:   2021-12-19
 tags: [ESP8266,OLED,天气,时钟,摆件]
 comments: true

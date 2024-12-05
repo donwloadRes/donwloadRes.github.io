@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "澜海AI-1.0.11 资源文件下载"
+title: "澜海AI1011 资源文件下载"
 date:   2024-09-02
 tags: [澜海,AI,1.0,11,zip]
 comments: true

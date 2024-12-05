@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sigma-Delta ADC 设计资源下载"
+title: "SigmaDelta ADC 设计资源下载"
 date:   2020-07-09
 tags: [滤波器,模型,VHDL,Simulink,设计]
 comments: true

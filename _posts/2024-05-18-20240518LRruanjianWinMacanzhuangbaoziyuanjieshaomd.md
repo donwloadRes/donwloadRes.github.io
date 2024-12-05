@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LR软件Win-Mac安装包资源介绍"
+title: "LR软件WinMac安装包资源介绍"
 date:   2023-02-18
 tags: [安装包,Lightroom,Mac,软件,LR]
 comments: true

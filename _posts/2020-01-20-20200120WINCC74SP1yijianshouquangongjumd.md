@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINCC 7.4SP1一键授权工具"
+title: "WINCC 74SP1一键授权工具"
 date:   2023-07-02
 tags: [授权,SP1,WINCC,7.4,一键]
 comments: true

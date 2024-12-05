@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMMC转TF卡（Altium工程文件）"
+title: "EMMC转TF卡Altium工程文件"
 date:   2022-08-30
 tags: [文件,EMMC,TF,Altium,PCB]
 comments: true

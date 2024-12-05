@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thinking in Java - Java编程思想 (中英文版 第四版)"
+title: "Thinking in Java  Java编程思想 中英文版 第四版"
 date:   2023-07-22
 tags: [Java,编程,Thinking,第四版,英文版]
 comments: true

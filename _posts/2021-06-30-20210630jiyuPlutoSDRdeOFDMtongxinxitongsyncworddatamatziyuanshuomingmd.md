@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Pluto SDR的OFDM通信系统 - sync_word_data.mat资源说明"
+title: "基于Pluto SDR的OFDM通信系统  syncworddatamat资源说明"
 date:   2024-04-18
 tags: [OFDM,SDR,mat,Pluto,sync]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CH341A的多功能USB转I2C、SPI、UART适配器说明书"
+title: "基于CH341A的多功能USB转I2CSPIUART适配器说明书"
 date:   2024-01-16
 tags: [适配器,接口,设备,CH341A,I2C]
 comments: true

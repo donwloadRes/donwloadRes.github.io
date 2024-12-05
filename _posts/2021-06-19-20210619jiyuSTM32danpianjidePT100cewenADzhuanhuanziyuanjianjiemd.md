@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的PT100测温（AD转换）资源简介"
+title: "基于STM32单片机的PT100测温AD转换资源简介"
 date:   2022-04-09
 tags: [STM32,PT100,仿真,单片机,AD]
 comments: true

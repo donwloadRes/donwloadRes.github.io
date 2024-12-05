@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统信UOS 用g++ (64位)"
+title: "统信UOS 用g 64位"
 date:   2022-06-08
 tags: [统信,UOS,++,C++,安装]
 comments: true

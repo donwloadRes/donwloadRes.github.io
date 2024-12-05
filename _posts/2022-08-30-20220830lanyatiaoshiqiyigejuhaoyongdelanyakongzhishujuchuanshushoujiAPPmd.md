@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙调试器 - 一个巨好用的蓝牙控制数据传输手机APP"
+title: "蓝牙调试器  一个巨好用的蓝牙控制数据传输手机APP"
 date:   2021-10-11
 tags: [蓝牙,设备,调试器,数据传输,调试]
 comments: true

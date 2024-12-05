@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI4_master_slave源码对应分析"
+title: "AXI4masterslave源码对应分析"
 date:   2022-05-20
 tags: [AXI4,源码,master,slave,文件]
 comments: true

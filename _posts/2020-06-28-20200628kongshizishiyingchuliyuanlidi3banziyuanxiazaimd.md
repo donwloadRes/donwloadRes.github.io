@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "空时自适应处理原理（第3版）资源下载"
+title: "空时自适应处理原理第3版资源下载"
 date:   2024-05-06
 tags: [空时,适应,下载,处理,资源]
 comments: true

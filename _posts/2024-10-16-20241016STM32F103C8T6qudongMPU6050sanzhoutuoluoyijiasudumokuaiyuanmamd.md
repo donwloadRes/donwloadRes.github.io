@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6驱动MPU6050三轴陀螺仪、加速度模块源码"
+title: "STM32F103C8T6驱动MPU6050三轴陀螺仪加速度模块源码"
 date:   2022-08-15
 tags: [MPU6050,STM32F103C8T6,三轴,模块,源码]
 comments: true

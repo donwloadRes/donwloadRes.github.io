@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与三菱PLC通讯资源文件介绍"
+title: "C与三菱PLC通讯资源文件介绍"
 date:   2022-12-02
 tags: [PLC,读写操作,三菱,C#,通讯]
 comments: true

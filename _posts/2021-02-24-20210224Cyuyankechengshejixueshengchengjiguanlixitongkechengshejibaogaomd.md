@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言课程设计：学生成绩管理系统课程设计报告"
+title: "C语言课程设计学生成绩管理系统课程设计报告"
 date:   2023-01-15
 tags: [学生,成绩,void,int,课程设计]
 comments: true

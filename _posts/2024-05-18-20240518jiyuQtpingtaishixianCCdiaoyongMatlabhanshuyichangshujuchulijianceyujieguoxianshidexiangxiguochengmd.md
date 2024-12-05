@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt平台实现C-C++调用Matlab函数：异常数据处理、检测与结果显示的详细过程"
+title: "基于Qt平台实现CC调用Matlab函数异常数据处理检测与结果显示的详细过程"
 date:   2023-07-01
 tags: [Matlab,Qt,调用,开发者,平台]
 comments: true

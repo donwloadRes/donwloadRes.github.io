@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vbyone接口标准 1.3版本资源文件介绍"
+title: "vbyone接口标准 13版本资源文件介绍"
 date:   2023-10-26
 tags: [vbyone,接口标准,1.3,文件,文档]
 comments: true

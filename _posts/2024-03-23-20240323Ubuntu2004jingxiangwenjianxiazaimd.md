@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 镜像文件下载"
+title: "Ubuntu 2004 镜像文件下载"
 date:   2020-01-10
 tags: [镜像文件,20.04,下载,ubuntu20,..]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "私家云二代-比特米盒安装Armbian Blueseye到Emmc"
+title: "私家云二代比特米盒安装Armbian Blueseye到Emmc"
 date:   2021-08-08
 tags: [教程,比特,私家,二代,工具]
 comments: true

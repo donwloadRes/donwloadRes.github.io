@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模糊控制倒立摆系统设计 (MATLAB源码)"
+title: "模糊控制倒立摆系统设计 MATLAB源码"
 date:   2022-07-10
 tags: [模糊控制,MATLAB,倒立,源码,控制]
 comments: true

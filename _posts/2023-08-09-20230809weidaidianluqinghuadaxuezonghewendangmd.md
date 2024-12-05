@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微带电路(清华大学) - 综合文档"
+title: "微带电路清华大学  综合文档"
 date:   2022-05-13
 tags: [文档,微带,电路,学习,清华大学]
 comments: true

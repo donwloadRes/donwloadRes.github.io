@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#远程控制软件项目代码发布"
+title: "C远程控制软件项目代码发布"
 date:   2022-08-12
 tags: [远程,C#,控制软件,代码,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圣诞节代码合集（圣诞树+圣诞老人）"
+title: "圣诞节代码合集圣诞树圣诞老人"
 date:   2023-02-24
 tags: [圣诞老人,圣诞树,HTML,CSS,JavaScript]
 comments: true

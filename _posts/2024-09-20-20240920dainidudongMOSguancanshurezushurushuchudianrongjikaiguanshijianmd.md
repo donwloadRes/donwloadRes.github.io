@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带你读懂MOS管参数「热阻、输入输出电容及开关时间」"
+title: "带你读懂MOS管参数热阻输入输出电容及开关时间"
 date:   2023-09-18
 tags: [MOS,开关时间,热阻,电容,参数]
 comments: true

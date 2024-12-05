@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学计算机学院计算机操作系统实验报告一：创建GeekOS"
+title: "西北工业大学计算机学院计算机操作系统实验报告一创建GeekOS"
 date:   2024-06-14
 tags: [线程,创建,GeekOS,实验报告,实验]
 comments: true

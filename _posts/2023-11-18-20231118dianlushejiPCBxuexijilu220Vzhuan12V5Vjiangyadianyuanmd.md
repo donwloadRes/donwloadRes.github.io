@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路设计PCB学习记录——220V转12V-5V降压电源"
+title: "电路设计PCB学习记录220V转12V5V降压电源"
 date:   2021-12-03
 tags: [PCB,电路设计,设计,220V,原理图]
 comments: true

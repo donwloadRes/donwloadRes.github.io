@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF开发的3D效果 - 源码附带"
+title: "WPF开发的3D效果  源码附带"
 date:   2024-08-31
 tags: [3D,WPF,源码,开发者,示例]
 comments: true

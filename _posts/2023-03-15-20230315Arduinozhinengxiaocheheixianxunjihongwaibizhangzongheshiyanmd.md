@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino智能小车黑线循迹&红外避障综合实验"
+title: "Arduino智能小车黑线循迹红外避障综合实验"
 date:   2024-08-31
 tags: [Arduino,小车,循迹,避障,实验]
 comments: true

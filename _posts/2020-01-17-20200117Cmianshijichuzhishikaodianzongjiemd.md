@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面试基础知识考点总结"
+title: "C面试基础知识考点总结"
 date:   2020-02-18
 tags: [C++,面试,设计模式,这份,技术]
 comments: true

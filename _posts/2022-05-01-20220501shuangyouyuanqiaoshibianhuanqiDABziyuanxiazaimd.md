@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双有源桥式变换器--DAB 资源下载"
+title: "双有源桥式变换器DAB 资源下载"
 date:   2023-08-24
 tags: [桥式,变换器,有源,DAB,--]
 comments: true

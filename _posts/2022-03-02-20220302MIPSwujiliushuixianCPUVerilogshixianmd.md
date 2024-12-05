@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPS五级流水线CPU（Verilog实现）"
+title: "MIPS五级流水线CPUVerilog实现"
 date:   2022-09-16
 tags: [CPU,MIPS,流水线,实验,五级]
 comments: true

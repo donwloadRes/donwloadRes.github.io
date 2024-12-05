@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt4中学习使用QtCharts绘图五：绘制折线图"
+title: "Qt4中学习使用QtCharts绘图五绘制折线图"
 date:   2024-03-11
 tags: [Qt4,折线图,QtCharts,绘制,源码]
 comments: true

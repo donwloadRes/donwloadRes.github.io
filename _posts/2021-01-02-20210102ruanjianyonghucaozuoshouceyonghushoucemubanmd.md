@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件用户操作手册（用户手册模板）"
+title: "软件用户操作手册用户手册模板"
 date:   2023-10-03
 tags: [用户,软件,操作手册,模板,用户手册]
 comments: true

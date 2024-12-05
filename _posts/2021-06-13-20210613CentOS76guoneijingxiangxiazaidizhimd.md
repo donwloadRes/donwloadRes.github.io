@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 国内镜像下载地址"
+title: "CentOS 76 国内镜像下载地址"
 date:   2022-10-15
 tags: [CentOS,下载,7.6,镜像,文件]
 comments: true

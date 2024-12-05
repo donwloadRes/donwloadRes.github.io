@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CVE-2023-38831 WinRAR代码执行漏洞复现资源文件"
+title: "CVE202338831 WinRAR代码执行漏洞复现资源文件"
 date:   2020-11-23
 tags: [文件,漏洞,WinRAR,test,png]
 comments: true

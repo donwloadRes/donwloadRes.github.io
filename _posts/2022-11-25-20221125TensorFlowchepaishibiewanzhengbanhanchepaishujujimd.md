@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow车牌识别完整版（含车牌数据集）"
+title: "TensorFlow车牌识别完整版含车牌数据集"
 date:   2020-03-02
 tags: [车牌,TensorFlow,识别,训练,代码]
 comments: true

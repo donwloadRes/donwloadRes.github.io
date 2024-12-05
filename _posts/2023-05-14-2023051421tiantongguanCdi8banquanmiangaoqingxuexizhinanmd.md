@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21天通关C++（第8版）全面高清学习指南"
+title: "21天通关C第8版全面高清学习指南"
 date:   2020-03-06
 tags: [C++,21,学习,书签,高清]
 comments: true

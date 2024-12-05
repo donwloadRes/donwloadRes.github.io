@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性磁链观测器-本杰明"
+title: "非线性磁链观测器本杰明"
 date:   2022-05-25
 tags: [观测器,磁链,非线性,电机,本杰明]
 comments: true

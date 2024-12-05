@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理课程设计报告：基于Logisim的仿真实验"
+title: "计算机组成原理课程设计报告基于Logisim的仿真实验"
 date:   2020-08-21
 tags: [Logisim,课程设计,报告,计算机,MIPS]
 comments: true

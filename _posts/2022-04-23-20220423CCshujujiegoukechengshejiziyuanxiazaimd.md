@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++数据结构课程设计资源下载"
+title: "CC数据结构课程设计资源下载"
 date:   2023-07-20
 tags: [课程设计,数据结构,实验,指导书,资源]
 comments: true

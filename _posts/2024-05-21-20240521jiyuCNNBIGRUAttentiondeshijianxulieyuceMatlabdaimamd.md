@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-BIGRU-Attention的时间序列预测Matlab代码"
+title: "基于CNNBIGRUAttention的时间序列预测Matlab代码"
 date:   2021-07-07
 tags: [Matlab,代码,序列,CNN,BIGRU]
 comments: true

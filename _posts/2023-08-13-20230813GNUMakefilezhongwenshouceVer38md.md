@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNU-Makefile中文手册-Ver3.8"
+title: "GNUMakefile中文手册Ver38"
 date:   2024-04-16
 tags: [GNU,make,用法,Ver3.8,版本]
 comments: true

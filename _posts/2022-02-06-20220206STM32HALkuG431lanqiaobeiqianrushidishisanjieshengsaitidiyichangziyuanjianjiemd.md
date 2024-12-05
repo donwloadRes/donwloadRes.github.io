@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32HAL库【G431】--【蓝桥杯嵌入式第十三届省赛题】第一场资源简介"
+title: "STM32HAL库G431蓝桥杯嵌入式第十三届省赛题第一场资源简介"
 date:   2024-08-09
 tags: [密码,LCD,串口,蓝桥,输入]
 comments: true

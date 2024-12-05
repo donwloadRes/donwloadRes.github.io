@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 自用黑色配色主题"
+title: "Source Insight 40 自用黑色配色主题"
 date:   2021-12-20
 tags: [Source,Insight,主题,4.0,配色]
 comments: true

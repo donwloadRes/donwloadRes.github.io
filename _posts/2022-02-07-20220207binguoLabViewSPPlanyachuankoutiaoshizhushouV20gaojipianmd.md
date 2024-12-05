@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缤果LabView_SPP蓝牙串口调试助手V2.0 (高级篇)"
+title: "缤果LabViewSPP蓝牙串口调试助手V20 高级篇"
 date:   2020-03-28
 tags: [蓝牙,调试,LabView,串口,SPP]
 comments: true

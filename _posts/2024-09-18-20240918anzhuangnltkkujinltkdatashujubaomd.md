@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装nltk库及nltk_data数据包"
+title: "安装nltk库及nltkdata数据包"
 date:   2024-10-01
 tags: [nltk,data,数据包,安装,Python]
 comments: true

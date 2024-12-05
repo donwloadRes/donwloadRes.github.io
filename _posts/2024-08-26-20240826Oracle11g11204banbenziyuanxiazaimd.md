@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11g 11.2.0.4 版本资源下载"
+title: "Oracle 11g 11204 版本资源下载"
 date:   2024-05-29
 tags: [Oracle,11g,0.4,11.2,安装]
 comments: true

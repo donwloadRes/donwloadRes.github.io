@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 点云数据读取工具"
+title: "C 点云数据读取工具"
 date:   2021-09-03
 tags: [点云,C#,读取,源码,文档]
 comments: true

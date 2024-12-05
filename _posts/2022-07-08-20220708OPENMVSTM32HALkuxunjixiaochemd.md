@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPENMV＋STM32HAL库循迹小车"
+title: "OPENMVSTM32HAL库循迹小车"
 date:   2020-06-14
 tags: [小车,STM32,串口,OPENMV,循迹]
 comments: true

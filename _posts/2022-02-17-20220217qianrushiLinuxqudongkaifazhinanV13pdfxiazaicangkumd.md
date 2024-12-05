@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Linux驱动开发指南V1.3.pdf 下载仓库"
+title: "嵌入式Linux驱动开发指南V13pdf 下载仓库"
 date:   2021-07-18
 tags: [Linux,嵌入式,指南,V1.3,驱动]
 comments: true

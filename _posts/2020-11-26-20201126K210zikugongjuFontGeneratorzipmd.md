@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K210 字库工具 - FontGenerator.zip"
+title: "K210 字库工具  FontGeneratorzip"
 date:   2020-10-20
 tags: [K210,FontGenerator,生成,zip,字库文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kali 2021.3 安装 DVWA 靶场教程"
+title: "Kali 20213 安装 DVWA 靶场教程"
 date:   2023-01-30
 tags: [DVWA,Kali,教程,靶场,安装]
 comments: true

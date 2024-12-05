@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言（第四版）苏小红PPT 下载仓库"
+title: "C语言第四版苏小红PPT 下载仓库"
 date:   2024-08-24
 tags: [C语言,PPT,第四版,苏小红,仓库]
 comments: true

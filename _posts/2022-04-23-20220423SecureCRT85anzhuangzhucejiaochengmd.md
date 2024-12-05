@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.5 安装注册教程"
+title: "SecureCRT 85 安装注册教程"
 date:   2024-10-20
 tags: [SecureCRT,注册机,安装,exe,教程]
 comments: true

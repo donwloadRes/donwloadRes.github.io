@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机串口通讯控制STM32步进电机"
+title: "C上位机串口通讯控制STM32步进电机"
 date:   2020-02-04
 tags: [串口,STM32,步进,C#,电机]
 comments: true

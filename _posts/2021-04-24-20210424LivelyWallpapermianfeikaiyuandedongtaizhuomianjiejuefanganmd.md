@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lively Wallpaper：免费开源的动态桌面解决方案"
+title: "Lively Wallpaper免费开源的动态桌面解决方案"
 date:   2022-10-04
 tags: [Wallpaper,Lively,开源,桌面,动态桌面]
 comments: true

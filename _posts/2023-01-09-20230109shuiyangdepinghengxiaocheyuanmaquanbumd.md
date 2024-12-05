@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水羊的平衡小车源码（全部）"
+title: "水羊的平衡小车源码全部"
 date:   2023-11-13
 tags: [平衡,小车,代码,源码,水羊]
 comments: true

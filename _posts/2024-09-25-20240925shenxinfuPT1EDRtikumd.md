@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深信服PT1-EDR题库"
+title: "深信服PT1EDR题库"
 date:   2023-12-20
 tags: [题库,EDR,信服,PT1,知识点]
 comments: true

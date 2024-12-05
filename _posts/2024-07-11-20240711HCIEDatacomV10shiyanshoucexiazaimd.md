@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-Datacom V1.0 实验手册下载"
+title: "HCIEDatacom V10 实验手册下载"
 date:   2021-07-06
 tags: [HCIE,手册,Datacom,实验,V1.0]
 comments: true

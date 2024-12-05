@@ -1,6 +1,20 @@
 ---
 layout: post
-title: "解决Win系统缺少msvcr71.dll无法运行软件或游戏问题"
+title: "解决Win系统缺少msvcr71dll无法运行软件或游戏问题
+date   20220607
+tags msvcr71dll文件Windows系统
+comments true
+author admin
+
+ 解决Win系统缺少msvcr71dll无法运行软件或游戏问题
+
+ 简介
+本资源文件旨在帮助解决Windows系统中因缺少msvcr71dll文件而无法运行软件或游戏的问题msvcr71dll是Microsoft Visual C Runtime Library的一部分许多应用程序和游戏依赖于这个文件来正常运行如果系统中缺少该文件可能会导致程序无法启动并提示错误信息
+
+ 问题描述
+在使用某些软件或游戏时可能会遇到以下错误提示
+ 找不到msvcr71dll
+ 无法启动此程序因为计算机中丢失msvcr71dll"
 date:   2022-06-07
 tags: [msvcr71,dll,文件,Windows,系统]
 comments: true

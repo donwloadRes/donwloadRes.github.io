@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27017:2015 信息安全管理标准资源下载"
+title: "ISOIEC 270172015 信息安全管理标准资源下载"
 date:   2022-06-10
 tags: [ISO,IEC,27017,2015,信息安全]
 comments: true

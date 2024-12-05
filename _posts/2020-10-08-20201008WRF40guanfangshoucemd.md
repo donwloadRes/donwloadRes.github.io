@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WRF4.0官方手册"
+title: "WRF40官方手册"
 date:   2022-06-11
 tags: [WRF4.0,手册,WRF,官方,下载]
 comments: true

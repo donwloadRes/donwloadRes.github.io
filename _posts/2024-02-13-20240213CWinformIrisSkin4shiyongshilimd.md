@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform IrisSkin4 使用示例"
+title: "C Winform IrisSkin4 使用示例"
 date:   2022-04-19
 tags: [皮肤,IrisSkin4,Winform,示例,应用程序]
 comments: true

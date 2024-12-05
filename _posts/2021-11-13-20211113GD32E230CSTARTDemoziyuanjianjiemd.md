@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32E230C_START_Demo资源简介"
+title: "GD32E230CSTARTDemo资源简介"
 date:   2021-04-21
 tags: [例程,Demo,GD32E230,GD32E230C,START]
 comments: true

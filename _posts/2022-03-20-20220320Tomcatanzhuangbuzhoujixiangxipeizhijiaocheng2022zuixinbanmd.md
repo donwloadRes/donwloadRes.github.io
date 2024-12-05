@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomcat安装步骤及详细配置教程（2022最新版）"
+title: "Tomcat安装步骤及详细配置教程2022最新版"
 date:   2023-01-09
 tags: [Tomcat,CATALINA,配置,2022,Java]
 comments: true

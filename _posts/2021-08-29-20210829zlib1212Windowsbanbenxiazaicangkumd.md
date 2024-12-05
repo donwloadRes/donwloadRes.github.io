@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zlib-1.2.12 Windows版本下载仓库"
+title: "zlib1212 Windows版本下载仓库"
 date:   2023-06-14
 tags: [zlib,头文件,1.2,静态,文件]
 comments: true

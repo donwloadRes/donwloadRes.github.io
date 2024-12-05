@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyPlayer.js H5播放器资源下载"
+title: "EasyPlayerjs H5播放器资源下载"
 date:   2023-05-12
 tags: [EasyPlayer,HTTP,播放器,视频,直播]
 comments: true

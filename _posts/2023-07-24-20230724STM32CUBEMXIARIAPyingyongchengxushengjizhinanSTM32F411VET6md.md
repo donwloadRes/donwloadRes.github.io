@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CUBEMX + IAR + IAP应用程序升级指南 (STM32F411VET6)"
+title: "STM32CUBEMX  IAR  IAP应用程序升级指南 STM32F411VET6"
 date:   2022-02-01
 tags: [IAP,IAR,Bootloader,STM32CubeMX,STM32F411VET6]
 comments: true

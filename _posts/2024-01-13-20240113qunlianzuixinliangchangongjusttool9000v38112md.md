@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联最新量产工具st-tool 9000 v3.81.12"
+title: "群联最新量产工具sttool 9000 v38112"
 date:   2021-05-23
 tags: [12,v3.81,量产,群联,st]
 comments: true

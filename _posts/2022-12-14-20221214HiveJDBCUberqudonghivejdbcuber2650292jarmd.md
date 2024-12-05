@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hive JDBC Uber驱动：hive-jdbc-uber-2.6.5.0-292.jar"
+title: "Hive JDBC Uber驱动hivejdbcuber2650292jar"
 date:   2022-02-28
 tags: [Hive,jdbc,JDBC,hive,2.6]
 comments: true

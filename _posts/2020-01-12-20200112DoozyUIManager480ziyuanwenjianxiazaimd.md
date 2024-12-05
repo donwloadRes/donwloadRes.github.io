@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Doozy UI Manager 4.8.0 资源文件下载"
+title: "Doozy UI Manager 480 资源文件下载"
 date:   2024-10-17
 tags: [Doozy,UI,Manager,用户界面,4.8]
 comments: true

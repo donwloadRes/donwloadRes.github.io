@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "流体力学（庄礼贤）——一本优秀的教材"
+title: "流体力学庄礼贤一本优秀的教材"
 date:   2021-05-04
 tags: [流体力学,庄礼贤,学习,物理,数学]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11be（WiFi7）协议原文PDF文档"
+title: "IEEE 80211beWiFi7协议原文PDF文档"
 date:   2022-11-05
 tags: [文档,IEEE,802.11,WiFi7,PDF]
 comments: true

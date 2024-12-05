@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.12.9多线程双缓冲串口类使用"
+title: "Qt5129多线程双缓冲串口类使用"
 date:   2020-03-04
 tags: [版本,Qt5.12,动态,多线程,串口]
 comments: true

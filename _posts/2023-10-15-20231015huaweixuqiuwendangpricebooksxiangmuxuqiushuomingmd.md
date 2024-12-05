@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为需求文档 - price_books项目需求说明"
+title: "华为需求文档  pricebooks项目需求说明"
 date:   2023-02-21
 tags: [文档,price,books,需求,项目]
 comments: true

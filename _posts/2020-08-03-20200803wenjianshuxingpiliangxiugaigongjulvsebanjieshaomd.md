@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文件属性批量修改工具（绿色版）介绍"
+title: "文件属性批量修改工具绿色版介绍"
 date:   2023-08-05
 tags: [批量,文件,文件属性,绿色版,修改]
 comments: true

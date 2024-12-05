@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java+MySQL的餐厅点餐系统"
+title: "基于JavaMySQL的餐厅点餐系统"
 date:   2020-09-02
 tags: [MySQL,Java,菜品,点餐,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通C#（第6版）资源文件下载"
+title: "精通C第6版资源文件下载"
 date:   2024-02-03
 tags: [C#,NET,编程,开发者,下载]
 comments: true

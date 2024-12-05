@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD Memory Card Formatter - SD卡格式化工具"
+title: "SD Memory Card Formatter  SD卡格式化工具"
 date:   2022-01-12
 tags: [SD,格式化,存储卡,Memory,Card]
 comments: true

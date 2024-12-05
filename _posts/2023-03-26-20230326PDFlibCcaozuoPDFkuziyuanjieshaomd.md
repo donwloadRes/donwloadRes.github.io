@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFlib C++ 操作 PDF 库资源介绍"
+title: "PDFlib C 操作 PDF 库资源介绍"
 date:   2021-03-17
 tags: [PDF,C++,操作,资源,PDFlib]
 comments: true

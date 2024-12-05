@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_FOC_SDK2.0 开源版本"
+title: "STM32FOCSDK20 开源版本"
 date:   2023-04-30
 tags: [STM32,FOC,开源,SDK2.0,7z]
 comments: true

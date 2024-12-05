@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文件批量改名高手V3 - 批量翻译文件名利器"
+title: "文件批量改名高手V3  批量翻译文件名利器"
 date:   2020-11-08
 tags: [文件名,批量,文件批量,V3,文件]
 comments: true

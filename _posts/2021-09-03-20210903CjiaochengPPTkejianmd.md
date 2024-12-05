@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++教程-PPT课件"
+title: "C教程PPT课件"
 date:   2020-10-22
 tags: [C++,课件,PPT,模板,学习]
 comments: true

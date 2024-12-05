@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS2 Control + Gazebo + 机械臂"
+title: "ROS2 Control  Gazebo  机械臂"
 date:   2022-09-07
 tags: [ROS2,Gazebo,机械,控制,ros2]
 comments: true

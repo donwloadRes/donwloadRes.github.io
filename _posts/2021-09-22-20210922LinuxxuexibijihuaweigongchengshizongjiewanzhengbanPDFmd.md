@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux学习笔记 (华为工程师总结) 完整版PDF"
+title: "Linux学习笔记 华为工程师总结 完整版PDF"
 date:   2022-10-18
 tags: [Linux,笔记,学习,这份,操作]
 comments: true

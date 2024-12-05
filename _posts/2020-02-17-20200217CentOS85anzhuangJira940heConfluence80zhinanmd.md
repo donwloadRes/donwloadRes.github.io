@@ -1,6 +1,81 @@
 ---
 layout: post
-title: "CentOS8.5安装Jira 9.40和Confluence 8.0指南"
+title: "CentOS85安装Jira 940和Confluence 80指南
+date   20230403
+tags bashmysql80etcusr
+comments true
+author admin
+
+ CentOS85安装Jira 940和Confluence 80指南
+
+本仓库提供了一个详细的安装指南帮助你在CentOS 85系统上安装Jira 940和Confluence 80以下是安装步骤的简要概述
+
+ 系统准备
+1 关闭防火墙
+   bash
+   systemctl stop firewalld
+   systemctl disable firewalld
+   
+
+2 关闭SELinux
+   bash
+   vi etcselinuxconfig
+   SELINUXdisabled
+   
+
+ 安装JDK
+1 解压JDK
+   bash
+   tar zxvf jdk8u241linuxx64targz C usrlocal
+   
+
+2 配置环境变量
+   bash
+   vi etcprofile
+   export JAVAHOMEusrlocaljava
+   export CLASSPATHCLASSPATHJAVAHOMElib
+   export PATHPATHJAVAHOMEbin
+   source etcprofile
+   
+
+ 安装MySQL 8
+1 手动安装MySQL
+   bash
+   mkdir p usrlocalmysql
+   xz d mysql8031linuxglibc212x8664tarxz
+   tar xvf mysql8031linuxglibc212x8664tar C usrlocal
+   ln s mysql8031linuxglibc212x8664 mysql
+   
+
+2 配置MySQL
+   bash
+   vi etcmycnf
+   mysqld
+   port3306
+   basedirusrlocalmysql
+   datadirdatamysqldata
+   
+
+3 初始化MySQL
+   bash
+   usrlocalmysqlmysql8031binmysqld defaultsfileetcmycnf initialize usermysql basedirusrlocalmysqlmysql8031 datadirdatamysqldata
+   
+
+ 安装Jira
+1 创建Jira用户
+   bash
+   useradd u 2000 jira
+   
+
+2 安装Jira
+   bash
+   bash atlassianjirasoftware940x64bin
+   
+
+3 配置Jira
+   bash
+   vi setenvsh
+   export JAVAOPTSjavaagenthomejiraatlassianagentjar JAVAOPTS"
 date:   2023-04-03
 tags: [bash,mysql,8.0,etc,usr]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express Technology 3.0 资源下载"
+title: "PCI Express Technology 30 资源下载"
 date:   2023-11-07
 tags: [PCI,Express,3.0,Technology,下载]
 comments: true

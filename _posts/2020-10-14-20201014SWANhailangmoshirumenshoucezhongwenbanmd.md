@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWAN海浪模式入门手册 - 中文版"
+title: "SWAN海浪模式入门手册  中文版"
 date:   2023-10-08
 tags: [SWAN,海浪,手册,入门,中文版]
 comments: true

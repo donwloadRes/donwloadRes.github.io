@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++常用运行库集合"
+title: "C常用运行库集合"
 date:   2022-05-13
 tags: [运行库,DLL,安装,集合,文件]
 comments: true

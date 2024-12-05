@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink仿真教程：从入门到入土"
+title: "Simulink仿真教程从入门到入土"
 date:   2020-02-06
 tags: [仿真,Simulink,电焊机,模糊控制,教程]
 comments: true

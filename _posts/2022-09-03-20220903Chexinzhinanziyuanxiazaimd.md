@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++核心指南资源下载"
+title: "C核心指南资源下载"
 date:   2020-09-02
 tags: [C++,指南,CppCoreGuidelines,PDF,核心]
 comments: true

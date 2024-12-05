@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSPF和IS-IS详解资源下载"
+title: "OSPF和ISIS详解资源下载"
 date:   2021-03-03
 tags: [OSPF,文档,详解,PDF,协议]
 comments: true

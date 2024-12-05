@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电交通灯 Multisim 13.0 仿真程序（已验证通过）"
+title: "数电交通灯 Multisim 130 仿真程序已验证通过"
 date:   2021-09-04
 tags: [仿真,黄灯,交通灯,Multisim,支干]
 comments: true

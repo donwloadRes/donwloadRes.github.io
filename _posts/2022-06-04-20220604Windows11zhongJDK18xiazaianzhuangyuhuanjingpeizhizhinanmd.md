@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 11 中 JDK 1.8 下载、安装与环境配置指南"
+title: "Windows 11 中 JDK 18 下载安装与环境配置指南"
 date:   2021-12-20
 tags: [JDK,安装,配置,1.8,变量]
 comments: true

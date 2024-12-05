@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 2015 构建工具下载"
+title: "Visual C 2015 构建工具下载"
 date:   2021-12-01
 tags: [Visual,C++,2015,文件,visualcppbuildtools]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "adb1.0.39 资源下载说明"
+title: "adb1039 资源下载说明"
 date:   2023-11-22
 tags: [39,Android,设备,adb1.0,下载]
 comments: true

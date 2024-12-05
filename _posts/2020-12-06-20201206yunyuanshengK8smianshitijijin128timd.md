@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云原生+K8s面试题集锦（128题）"
+title: "云原生K8s面试题集锦128题"
 date:   2024-10-09
 tags: [K8s,原生,面试,面试题,128]
 comments: true

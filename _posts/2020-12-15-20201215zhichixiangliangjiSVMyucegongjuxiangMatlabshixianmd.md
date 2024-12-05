@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持向量机(SVM)预测工具箱 - Matlab实现"
+title: "支持向量机SVM预测工具箱  Matlab实现"
 date:   2023-01-11
 tags: [Matlab,SVM,预测,向量,代码]
 comments: true

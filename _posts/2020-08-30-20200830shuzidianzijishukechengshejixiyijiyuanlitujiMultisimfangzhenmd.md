@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术课程设计——洗衣机原理图及Multisim仿真"
+title: "数字电子技术课程设计洗衣机原理图及Multisim仿真"
 date:   2021-01-11
 tags: [Multisim,仿真,原理图,课程设计,洗衣机]
 comments: true

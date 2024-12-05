@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD79-4 DDR4 SDRAM标准协议-2012 下载仓库"
+title: "JESD794 DDR4 SDRAM标准协议2012 下载仓库"
 date:   2022-12-09
 tags: [DDR4,SDRAM,标准协议,JESD79,2012]
 comments: true

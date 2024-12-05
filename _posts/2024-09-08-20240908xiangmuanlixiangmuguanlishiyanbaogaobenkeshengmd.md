@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目案例项目管理实验报告——本科生"
+title: "项目案例项目管理实验报告本科生"
 date:   2023-10-16
 tags: [项目管理,项目,报告,学习,案例]
 comments: true

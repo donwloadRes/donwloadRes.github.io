@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Honor笔记本 (2018款intel版本) Win11升级教程（TPM2.0）"
+title: "Honor笔记本 2018款intel版本 Win11升级教程TPM20"
 date:   2022-05-10
 tags: [Windows,11,教程,BIOS,版本]
 comments: true

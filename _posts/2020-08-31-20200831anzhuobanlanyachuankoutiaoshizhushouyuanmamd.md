@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓版蓝牙串口调试助手（源码）"
+title: "安卓版蓝牙串口调试助手源码"
 date:   2022-07-30
 tags: [串口,蓝牙,源码,调试,安卓]
 comments: true

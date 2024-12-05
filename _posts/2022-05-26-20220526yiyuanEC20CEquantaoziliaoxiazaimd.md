@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移远EC20-CE全套资料下载"
+title: "移远EC20CE全套资料下载"
 date:   2023-02-23
 tags: [EC20,CE,模块,移远,3D]
 comments: true

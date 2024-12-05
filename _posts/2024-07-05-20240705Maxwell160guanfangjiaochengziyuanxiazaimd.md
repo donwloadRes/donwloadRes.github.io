@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maxwell 16.0 官方教程资源下载"
+title: "Maxwell 160 官方教程资源下载"
 date:   2024-02-22
 tags: [教程,Maxwell,16.0,资源,学习]
 comments: true

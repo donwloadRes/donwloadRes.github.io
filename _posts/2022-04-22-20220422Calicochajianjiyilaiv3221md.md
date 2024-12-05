@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calico 插件及依赖: v3.22.1"
+title: "Calico 插件及依赖 v3221"
 date:   2024-03-03
 tags: [Calico,v3.22,镜像,calico,Kubernetes]
 comments: true

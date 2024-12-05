@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO7816-1-2-3-4 完全中文版 资源下载"
+title: "ISO78161234 完全中文版 资源下载"
 date:   2024-03-27
 tags: [ISO7816,智能卡,中文版,下载,标准]
 comments: true

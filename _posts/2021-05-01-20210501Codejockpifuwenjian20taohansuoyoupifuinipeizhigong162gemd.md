@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Codejock皮肤文件20套（含所有皮肤ini配置共162个）"
+title: "Codejock皮肤文件20套含所有皮肤ini配置共162个"
 date:   2021-06-02
 tags: [皮肤,ini,20,配置文件,文件]
 comments: true

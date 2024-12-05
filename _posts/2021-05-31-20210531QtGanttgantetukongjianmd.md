@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtGantt: 甘特图控件"
+title: "QtGantt 甘特图控件"
 date:   2023-05-14
 tags: [甘特图,Qt,QtGantt,控件,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统安装L2TP-IPSec一键安装脚本"
+title: "Linux系统安装L2TPIPSec一键安装脚本"
 date:   2021-03-06
 tags: [IPSec,Linux,脚本,安装,L2TP]
 comments: true

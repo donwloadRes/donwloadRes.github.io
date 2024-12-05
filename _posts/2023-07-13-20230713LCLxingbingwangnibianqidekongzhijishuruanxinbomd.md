@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCL型并网逆变器的控制技术--阮新波"
+title: "LCL型并网逆变器的控制技术阮新波"
 date:   2023-01-06
 tags: [LCL,逆变器,控制技术,阮新波,文件]
 comments: true

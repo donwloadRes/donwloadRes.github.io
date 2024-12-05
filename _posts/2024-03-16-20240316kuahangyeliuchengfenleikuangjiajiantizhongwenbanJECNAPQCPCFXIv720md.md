@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跨行业流程分类框架简体中文版 JECN-APQC-PCF(XI) v7.2.0"
+title: "跨行业流程分类框架简体中文版 JECNAPQCPCFXI v720"
 date:   2021-10-21
 tags: [流程,跨行业,简体中文版,JECN,APQC]
 comments: true

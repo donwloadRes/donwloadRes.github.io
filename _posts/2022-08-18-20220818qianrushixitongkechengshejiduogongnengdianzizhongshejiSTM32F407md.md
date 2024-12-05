@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统课程设计--多功能电子钟设计（STM32F407）"
+title: "嵌入式系统课程设计多功能电子钟设计STM32F407"
 date:   2020-03-29
 tags: [串口,STM32F407,RTC,LCD,STM32]
 comments: true

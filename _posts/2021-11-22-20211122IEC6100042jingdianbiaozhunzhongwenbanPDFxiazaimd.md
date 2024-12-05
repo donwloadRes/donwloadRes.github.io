@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-2 静电标准中文版 PDF 下载"
+title: "IEC 6100042 静电标准中文版 PDF 下载"
 date:   2021-08-23
 tags: [静电,61000,PDF,中文版,IEC]
 comments: true

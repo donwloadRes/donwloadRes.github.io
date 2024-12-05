@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐系统必备数据集——ml-100k"
+title: "推荐系统必备数据集ml100k"
 date:   2021-05-23
 tags: [数据,ID,电影,包含,ml]
 comments: true

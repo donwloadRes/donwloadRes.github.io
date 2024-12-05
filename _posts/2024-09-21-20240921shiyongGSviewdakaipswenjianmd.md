@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用GSview打开.ps文件"
+title: "使用GSview打开ps文件"
 date:   2024-07-19
 tags: [GSview,ps,Ghostscript,文件,打开]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tessy培训：如何进行单元测试"
+title: "Tessy培训如何进行单元测试"
 date:   2023-09-29
 tags: [单元测试,Tessy,资源,文件,常见问题]
 comments: true

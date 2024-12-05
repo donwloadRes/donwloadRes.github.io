@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装程序无法打开注册表项 UNKNOWN\Components\…解决办法"
+title: "安装程序无法打开注册表项 UNKNOWNComponents解决办法"
 date:   2020-08-20
 tags: [注册表,权限,打开,安装程序,命令提示符]
 comments: true

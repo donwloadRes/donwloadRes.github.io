@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap-Select 使用示例"
+title: "BootstrapSelect 使用示例"
 date:   2022-03-11
 tags: [示例,Bootstrap,Select,组件,使用]
 comments: true

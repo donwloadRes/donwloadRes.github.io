@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IFIX5.5 历史库配置指南 - Proficy Historian"
+title: "IFIX55 历史库配置指南  Proficy Historian"
 date:   2022-12-14
 tags: [Proficy,Historian,安装,配置,Windows]
 comments: true

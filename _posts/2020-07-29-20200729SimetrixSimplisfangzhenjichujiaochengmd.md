@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simetrix-Simplis仿真基础教程"
+title: "SimetrixSimplis仿真基础教程"
 date:   2024-02-05
 tags: [Simetrix,Simplis,仿真,教程,电子电路]
 comments: true

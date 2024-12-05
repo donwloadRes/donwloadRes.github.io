@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础DSP实战TMS320F28035：第一节，开发环境与新建工程"
+title: "零基础DSP实战TMS320F28035第一节开发环境与新建工程"
 date:   2024-03-03
 tags: [工程,DSP,模板,开发,环境]
 comments: true

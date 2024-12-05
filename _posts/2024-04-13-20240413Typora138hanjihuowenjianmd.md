@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora-1.3.8（含激活文件）"
+title: "Typora138含激活文件"
 date:   2020-04-23
 tags: [Typora,激活,文件夹,1.3,Markdown]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Cesium+Vue3.x 技术栈的300多个功能示例源码"
+title: "基于CesiumVue3x 技术栈的300多个功能示例源码"
 date:   2020-11-21
 tags: [示例,Cesium,Vue3,源码,开发者]
 comments: true

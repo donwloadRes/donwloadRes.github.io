@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python分析学生成绩（完整版）"
+title: "利用Python分析学生成绩完整版"
 date:   2021-10-03
 tags: [代码,Python,plt,最高分,成绩]
 comments: true

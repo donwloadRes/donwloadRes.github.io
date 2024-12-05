@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习：图像分类（ViT, Vision Transformer）"
+title: "深度学习图像分类ViT Vision Transformer"
 date:   2022-09-05
 tags: [模型,Transformer,图像,学习,ViT]
 comments: true

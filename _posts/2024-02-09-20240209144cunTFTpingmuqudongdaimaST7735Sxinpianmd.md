@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.44寸 TFT 屏幕驱动代码 (ST7735S 芯片)"
+title: "144寸 TFT 屏幕驱动代码 ST7735S 芯片"
 date:   2021-01-16
 tags: [屏幕,ST7735S,代码,1.44,驱动]
 comments: true

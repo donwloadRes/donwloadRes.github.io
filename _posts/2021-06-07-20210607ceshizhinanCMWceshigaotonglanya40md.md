@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试指南：CMW测试高通蓝牙4.0"
+title: "测试指南CMW测试高通蓝牙40"
 date:   2022-07-24
 tags: [测试,蓝牙,4.0,高通,CMW]
 comments: true

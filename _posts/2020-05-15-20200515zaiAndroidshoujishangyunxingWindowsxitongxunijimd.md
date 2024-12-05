@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Android手机上运行Windows系统(虚拟机)"
+title: "在Android手机上运行Windows系统虚拟机"
 date:   2020-08-24
 tags: [虚拟机,Windows,镜像,Android,系统]
 comments: true

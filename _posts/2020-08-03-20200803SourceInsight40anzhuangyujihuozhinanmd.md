@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 安装与激活指南"
+title: "Source Insight 40 安装与激活指南"
 date:   2020-11-27
 tags: [Source,Insight,4.0,安装,安装文件]
 comments: true

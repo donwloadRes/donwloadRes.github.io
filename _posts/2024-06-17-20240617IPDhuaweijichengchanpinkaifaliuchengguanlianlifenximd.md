@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPD-华为集成产品开发流程管理案例分析"
+title: "IPD华为集成产品开发流程管理案例分析"
 date:   2022-09-24
 tags: [IPD,华为,流程,产品开发,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDK 找不到 include xgpio.h 解决办法"
+title: "SDK 找不到 include xgpioh 解决办法"
 date:   2021-06-22
 tags: [SDK,xgpio,Xilinx,文件,BSP]
 comments: true

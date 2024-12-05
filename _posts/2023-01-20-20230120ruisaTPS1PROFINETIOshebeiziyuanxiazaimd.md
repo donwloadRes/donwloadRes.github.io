@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞萨TPS-1 PROFINET IO设备资源下载"
+title: "瑞萨TPS1 PROFINET IO设备资源下载"
 date:   2022-11-10
 tags: [TPS,IO,设备,套件,瑞萨]
 comments: true

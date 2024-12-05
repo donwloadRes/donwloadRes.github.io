@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wi-Fi 7 IEEE 802.11be Draft 2.0 资源下载"
+title: "WiFi 7 IEEE 80211be Draft 20 资源下载"
 date:   2021-09-20
 tags: [Wi,Fi,文件,IEEE,2.0]
 comments: true

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Windows安装pycocotools库和pycocotools._mask报错解决方案"
+title: "Windows安装pycocotools库和pycocotoolsmask报错解决方案"
 date:   2023-03-15
-tags: [pycocotools,安装,._,mask,报错]
+tags: [pycocotools,安装,mask,报错]
 comments: true
 author: admin
 ---

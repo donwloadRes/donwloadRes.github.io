@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 9.1.1 资源下载及使用指南"
+title: "SecureCRT 911 资源下载及使用指南"
 date:   2022-02-12
 tags: [破解,SecureCRT,使用,9.1,下载]
 comments: true

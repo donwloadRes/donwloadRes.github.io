@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript API 中文离线手册(CHM版)"
+title: "JavaScript API 中文离线手册CHM版"
 date:   2024-10-06
 tags: [JavaScript,CHM,API,手册,离线]
 comments: true

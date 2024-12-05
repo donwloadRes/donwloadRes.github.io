@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.9 下载与安装详细指南"
+title: "Proteus 89 下载与安装详细指南"
 date:   2021-12-31
 tags: [安装,Proteus,8.9,确保,文件]
 comments: true

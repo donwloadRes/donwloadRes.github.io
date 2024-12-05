@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用多元统计分析》答案"
+title: "应用多元统计分析答案"
 date:   2024-06-08
 tags: [统计分析,答案,多元,学习,习题]
 comments: true

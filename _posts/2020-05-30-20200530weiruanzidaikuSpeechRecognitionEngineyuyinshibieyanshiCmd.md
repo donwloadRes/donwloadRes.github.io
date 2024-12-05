@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软自带库SpeechRecognitionEngine语音识别演示C#"
+title: "微软自带库SpeechRecognitionEngine语音识别演示C"
 date:   2023-05-23
 tags: [识别,语音,SpeechRecognitionEngine,程序,演示]
 comments: true

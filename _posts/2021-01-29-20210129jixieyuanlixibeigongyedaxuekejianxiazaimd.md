@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械原理(西北工业大学)课件下载"
+title: "机械原理西北工业大学课件下载"
 date:   2024-09-05
 tags: [课件,西北工业大学,原理,机械,下载]
 comments: true

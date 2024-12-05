@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术英文原版_第11版_Digital_Fundamentals 下载仓库"
+title: "数字电子技术英文原版第11版DigitalFundamentals 下载仓库"
 date:   2022-05-06
 tags: [英文原版,11,Digital,Fundamentals,资源]
 comments: true

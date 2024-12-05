@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM32工程模板 - STM32F103RCT6标准库工程模板"
+title: "SM32工程模板  STM32F103RCT6标准库工程模板"
 date:   2023-01-20
 tags: [模板,STM32F103RCT6,工程,SM32,标准]
 comments: true

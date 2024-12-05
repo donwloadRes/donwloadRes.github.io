@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据资产管理实践白皮书（5.0版）下载"
+title: "数据资产管理实践白皮书50版下载"
 date:   2020-01-19
 tags: [白皮书,资产,数据,管理,实践]
 comments: true

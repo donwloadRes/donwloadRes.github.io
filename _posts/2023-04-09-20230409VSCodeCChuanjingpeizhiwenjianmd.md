@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode C-C++ 环境配置文件"
+title: "VSCode CC 环境配置文件"
 date:   2022-11-07
 tags: [VSCode,vscode,配置文件,C++,rar]
 comments: true

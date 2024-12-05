@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基础训练100题(带答案)"
+title: "Python基础训练100题带答案"
 date:   2020-03-02
 tags: [Python,实例,100,基础训练,题目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualSVN-Server V5.0.2 Windows SVN 服务端软件（32 位 + 64 位）"
+title: "VisualSVNServer V502 Windows SVN 服务端软件32 位  64 位"
 date:   2021-10-07
 tags: [Windows,SVN,VisualSVN,Server,安装]
 comments: true

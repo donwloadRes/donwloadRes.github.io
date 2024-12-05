@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学操作系统课设Lab3：使用信号量解决N线程屏障问题"
+title: "山东大学操作系统课设Lab3使用信号量解决N线程屏障问题"
 date:   2020-08-03
 tags: [实验报告,源代码,信号量,线程,测试用例]
 comments: true

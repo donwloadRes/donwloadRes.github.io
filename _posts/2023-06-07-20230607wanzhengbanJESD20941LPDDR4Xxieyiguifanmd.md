@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整版JESD209-4-1 LPDDR4X 协议规范"
+title: "完整版JESD20941 LPDDR4X 协议规范"
 date:   2020-10-30
 tags: [LPDDR4X,完整版,JESD209,规范,积分]
 comments: true

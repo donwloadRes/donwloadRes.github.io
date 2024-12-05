@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯单片机（CT107S）原理图解析资源下载"
+title: "蓝桥杯单片机CT107S原理图解析资源下载"
 date:   2022-05-14
 tags: [单片机,原理图,CT107S,模块,蓝桥]
 comments: true

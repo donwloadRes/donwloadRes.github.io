@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "边缘计算与云计算白皮书3.0"
+title: "边缘计算与云计算白皮书30"
 date:   2023-02-27
 tags: [计算,边云,白皮书,边缘,协同]
 comments: true

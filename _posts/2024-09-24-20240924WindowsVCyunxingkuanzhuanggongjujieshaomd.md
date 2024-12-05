@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows VC++ 运行库安装工具介绍"
+title: "Windows VC 运行库安装工具介绍"
 date:   2021-11-22
 tags: [运行库,安装,C++,工具,Microsoft]
 comments: true

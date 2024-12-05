@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python全套教程：2023年最新【樵夫教你学Python】"
+title: "Python全套教程2023年最新樵夫教你学Python"
 date:   2022-04-22
 tags: [Python,编程,代码,教程,文档]
 comments: true

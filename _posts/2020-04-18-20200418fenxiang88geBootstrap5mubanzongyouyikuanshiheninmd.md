@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享88个Bootstrap5模板，总有一款适合您"
+title: "分享88个Bootstrap5模板总有一款适合您"
 date:   2021-09-20
 tags: [模板,88,Bootstrap,项目,Bootstrap5]
 comments: true

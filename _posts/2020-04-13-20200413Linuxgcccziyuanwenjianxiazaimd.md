@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux gcc-c++ 资源文件下载"
+title: "Linux gccc 资源文件下载"
 date:   2023-05-24
 tags: [Linux,gcc,c++,文件,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记（25）——FatFs文件系统使用（操作SPI Flash）"
+title: "STM32CubeMX学习笔记25FatFs文件系统使用操作SPI Flash"
 date:   2020-03-03
 tags: [SPI,文件系统,Flash,STM32CubeMX,FatFs]
 comments: true

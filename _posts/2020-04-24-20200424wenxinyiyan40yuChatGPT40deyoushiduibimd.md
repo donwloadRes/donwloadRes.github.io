@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文心一言4.0与ChatGPT4.0的优势对比"
+title: "文心一言40与ChatGPT40的优势对比"
 date:   2022-08-27
 tags: [文心,4.0,ChatGPT4.0,一言,适合]
 comments: true

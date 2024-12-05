@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCNA网络技术实验指南无水印有目录.pdf"
+title: "HCNA网络技术实验指南无水印有目录pdf"
 date:   2022-04-13
 tags: [HCNA,网络,实验,指南,pdf]
 comments: true

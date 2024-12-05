@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN7-WIN10（32-64位）安装VB6.0后加载MSCOMCTL.OCX时提示对象库未注册最终解决办法"
+title: "WIN7WIN103264位安装VB60后加载MSCOMCTLOCX时提示对象库未注册最终解决办法"
 date:   2024-04-30
 tags: [OCX,未注册,VB6.0,MSCOMCTL,操作系统]
 comments: true

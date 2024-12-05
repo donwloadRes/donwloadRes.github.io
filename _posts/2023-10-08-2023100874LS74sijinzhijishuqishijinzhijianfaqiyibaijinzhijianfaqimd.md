@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "74LS74 四进制计数器、十进制减法器、一百进制减法器"
+title: "74LS74 四进制计数器十进制减法器一百进制减法器"
 date:   2022-10-24
 tags: [减法器,进制,74LS74,十进制,计数器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-USB Pro 驱动下载"
+title: "PCANUSB Pro 驱动下载"
 date:   2023-01-31
 tags: [PCAN,USB,Pro,驱动,驱动程序]
 comments: true

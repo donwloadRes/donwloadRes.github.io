@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESL高清彩色英文+中文：The Elements of Statistical Learning 下载仓库"
+title: "ESL高清彩色英文中文The Elements of Statistical Learning 下载仓库"
 date:   2023-06-12
 tags: [学习,中文,高清,数据挖掘,彩色]
 comments: true

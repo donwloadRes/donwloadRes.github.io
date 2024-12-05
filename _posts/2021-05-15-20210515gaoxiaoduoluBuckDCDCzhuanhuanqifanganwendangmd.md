@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高效多路Buck-DCDC转换器方案文档"
+title: "高效多路BuckDCDC转换器方案文档"
 date:   2024-01-05
 tags: [EA3059,转换器,Buck,DCDC,EA3036]
 comments: true

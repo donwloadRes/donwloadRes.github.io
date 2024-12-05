@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt中英文切换（涉及多种场景）资源文件介绍"
+title: "Qt中英文切换涉及多种场景资源文件介绍"
 date:   2024-02-26
 tags: [中英文,切换,Qt,文件,示例]
 comments: true

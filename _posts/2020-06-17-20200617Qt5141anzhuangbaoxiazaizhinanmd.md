@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.14.1 安装包下载指南"
+title: "Qt 5141 安装包下载指南"
 date:   2023-10-19
 tags: [5.14,Qt,安装,下载,安装包]
 comments: true

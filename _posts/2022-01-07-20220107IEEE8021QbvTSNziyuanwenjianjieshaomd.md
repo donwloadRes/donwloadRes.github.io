@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.1Qbv TSN 资源文件介绍"
+title: "IEEE 8021Qbv TSN 资源文件介绍"
 date:   2020-11-28
 tags: [IEEE,802.1,Qbv,TSN,网络]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "叶炫清-九张机 资源文件介绍"
+title: "叶炫清九张机 资源文件介绍"
 date:   2022-01-24
 tags: [九张,叶炫清,歌曲,MP3,文件]
 comments: true

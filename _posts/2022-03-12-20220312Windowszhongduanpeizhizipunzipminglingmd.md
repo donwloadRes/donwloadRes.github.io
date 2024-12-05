@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows终端配置zip、unzip命令"
+title: "Windows终端配置zipunzip命令"
 date:   2021-08-22
 tags: [zip,unzip,exe,终端,Windows]
 comments: true

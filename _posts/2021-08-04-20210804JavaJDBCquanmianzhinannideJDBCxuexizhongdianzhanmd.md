@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Java】JDBC全面指南 —— 你的JDBC学习终点站"
+title: "JavaJDBC全面指南  你的JDBC学习终点站"
 date:   2023-12-26
 tags: [JDBC,数据库,Java,SQL,连接池]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新 Molecular Operating Environment (MOE) Linux Windows 下载指南"
+title: "最新 Molecular Operating Environment MOE Linux Windows 下载指南"
 date:   2023-09-20
 tags: [MOE,0102,安装,Windows,Linux]
 comments: true

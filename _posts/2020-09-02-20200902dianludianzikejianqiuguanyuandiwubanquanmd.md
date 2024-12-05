@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路电子课件邱关源第五版（全）"
+title: "电路电子课件邱关源第五版全"
 date:   2021-02-27
 tags: [课件,电路,邱关源,第五版,学习者]
 comments: true

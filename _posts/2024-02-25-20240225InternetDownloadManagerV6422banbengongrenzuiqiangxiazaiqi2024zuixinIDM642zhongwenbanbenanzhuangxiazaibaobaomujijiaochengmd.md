@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager V6.42.2版本公认最强下载器2024最新IDM 6.42中文版本安装下载包保姆级教程"
+title: "Internet Download Manager V6422版本公认最强下载器2024最新IDM 642中文版本安装下载包保姆级教程"
 date:   2021-10-10
 tags: [下载,IDM,浏览器,V6.42,版本]
 comments: true

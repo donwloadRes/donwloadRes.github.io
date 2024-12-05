@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+opencv+libdmtx+海康相机 QR码与DM码识别软件"
+title: "Qtopencvlibdmtx海康相机 QR码与DM码识别软件"
 date:   2023-12-27
 tags: [相机,海康,识别,Qt,libdmtx]
 comments: true

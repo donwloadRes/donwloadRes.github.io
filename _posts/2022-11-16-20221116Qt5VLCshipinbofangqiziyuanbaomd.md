@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5+VLC视频播放器资源包"
+title: "Qt5VLC视频播放器资源包"
 date:   2022-01-16
 tags: [VLC,源代码,SDK,开发者,可执行程序]
 comments: true

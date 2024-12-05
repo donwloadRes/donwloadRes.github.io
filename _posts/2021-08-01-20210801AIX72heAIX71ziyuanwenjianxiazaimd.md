@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIX 7.2 和 AIX 7.1 资源文件下载"
+title: "AIX 72 和 AIX 71 资源文件下载"
 date:   2020-02-08
 tags: [AIX,7.1,7.2,iso,镜像文件]
 comments: true

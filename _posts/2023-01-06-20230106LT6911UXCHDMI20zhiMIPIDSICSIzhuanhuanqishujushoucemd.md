@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT6911UXC HDMI2.0至MIPI DSI-CSI转换器数据手册"
+title: "LT6911UXC HDMI20至MIPI DSICSI转换器数据手册"
 date:   2021-02-25
 tags: [LT6911UXC,芯片,手册,R0.9,HDMI2.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LS-DYNA模拟炸药在无限空域中的爆炸 - 博文附件"
+title: "LSDYNA模拟炸药在无限空域中的爆炸  博文附件"
 date:   2024-09-14
 tags: [LS,DYNA,模拟,壁面,边界条件]
 comments: true

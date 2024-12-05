@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件需求分析报告模板(完整版)"
+title: "软件需求分析报告模板完整版"
 date:   2020-07-23
 tags: [模板,需求,完整版,软件,分析]
 comments: true

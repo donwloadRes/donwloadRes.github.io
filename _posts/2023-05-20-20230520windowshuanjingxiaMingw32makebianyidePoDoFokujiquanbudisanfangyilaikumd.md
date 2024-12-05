@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows环境下Mingw32-make编译的PoDoFo库及全部第三方依赖库"
+title: "windows环境下Mingw32make编译的PoDoFo库及全部第三方依赖库"
 date:   2024-01-25
 tags: [编译,PoDoFo,版本,Mingw32,make]
 comments: true

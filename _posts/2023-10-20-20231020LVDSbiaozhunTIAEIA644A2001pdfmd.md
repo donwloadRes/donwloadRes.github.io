@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVDS标准TIA-EIA-644-A-2001.pdf"
+title: "LVDS标准TIAEIA644A2001pdf"
 date:   2023-02-08
 tags: [LVDS,TIA,EIA,644,2001]
 comments: true

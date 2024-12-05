@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++11-14 新特性教程"
+title: "C1114 新特性教程"
 date:   2020-04-20
 tags: [C++,14,11,教程,开发者]
 comments: true

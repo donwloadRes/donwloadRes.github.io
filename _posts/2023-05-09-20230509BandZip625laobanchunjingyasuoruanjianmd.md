@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BandZip 6.2.5 老版纯净压缩软件"
+title: "BandZip 625 老版纯净压缩软件"
 date:   2021-03-22
 tags: [BandZip,版本,6.2,解压,压缩]
 comments: true

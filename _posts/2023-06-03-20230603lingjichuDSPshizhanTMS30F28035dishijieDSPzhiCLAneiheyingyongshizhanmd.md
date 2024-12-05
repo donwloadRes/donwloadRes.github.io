@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础DSP实战TMS30F28035：第十节，DSP之CLA内核应用实战"
+title: "零基础DSP实战TMS30F28035第十节DSP之CLA内核应用实战"
 date:   2024-10-27
 tags: [CLA,内核,DSP,实战,TMS320F28035]
 comments: true

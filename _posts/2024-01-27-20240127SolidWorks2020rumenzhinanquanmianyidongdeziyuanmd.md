@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SolidWorks 2020 入门指南：全面易懂的资源"
+title: "SolidWorks 2020 入门指南全面易懂的资源"
 date:   2020-12-03
 tags: [SolidWorks,资源,软件,学习,确保您]
 comments: true

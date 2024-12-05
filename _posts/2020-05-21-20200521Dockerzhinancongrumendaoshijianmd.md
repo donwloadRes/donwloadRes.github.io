@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker指南：从入门到实践"
+title: "Docker指南从入门到实践"
 date:   2021-09-23
 tags: [Docker,容器,pdf,技术,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太原理工大学软件测试》实验报告课设"
+title: "太原理工大学软件测试实验报告课设"
 date:   2022-05-23
 tags: [课设,实验报告,软件测试,资源,理工大学]
 comments: true

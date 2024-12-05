@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G核心网部署教程（基于openairinterface）"
+title: "5G核心网部署教程基于openairinterface"
 date:   2022-08-19
 tags: [5G,核心网,教程,openairinterface,部署]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows虚拟网卡驱动 - 基于WireGuard的WinTun接口"
+title: "Windows虚拟网卡驱动  基于WireGuard的WinTun接口"
 date:   2020-10-20
 tags: [驱动,网卡,WireGuard,开源,虚拟]
 comments: true

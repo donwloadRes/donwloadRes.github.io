@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-WROOM数据手册.PDF"
+title: "ESP32WROOM数据手册PDF"
 date:   2020-08-09
 tags: [ESP32,WROOM,模块,手册,PDF]
 comments: true

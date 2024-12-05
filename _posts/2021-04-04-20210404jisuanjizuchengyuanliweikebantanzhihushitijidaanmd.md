@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理（微课版 谭志虎）试题及答案"
+title: "计算机组成原理微课版 谭志虎试题及答案"
 date:   2021-10-31
 tags: [微课,谭志虎,学习,原理,试题]
 comments: true

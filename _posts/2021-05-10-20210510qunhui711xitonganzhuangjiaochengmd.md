@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群辉7.11系统安装教程"
+title: "群辉711系统安装教程"
 date:   2024-11-28
 tags: [群辉,安装,7.11,系统,DSM]
 comments: true

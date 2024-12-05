@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "提升 Web 前端技能：使用 HTML + CSS 仿写资源"
+title: "提升 Web 前端技能使用 HTML  CSS 仿写资源
+date   20221003
+tags HTMLCSS仿写页面资源
+comments true
+author admin
+
+
+layout post
+title 提升 Web 前端技能使用 HTML  CSS 仿写资源"
 date:   2022-10-03
 tags: [HTML,CSS,仿写,页面,资源]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "提升 Web 前端技能：使用 HTML + CSS 仿写资源"
+title: "提升 Web 前端技能使用 HTML  CSS 仿写资源
+date   20221003
+tags HTMLCSS仿写页面资源
+comments true
+author admin
+
+
+layout post
+title 提升 Web 前端技能使用 HTML  CSS 仿写资源"
 date:   2022-01-13
 tags: [HTML,CSS,仿写,页面,资源]
 comments: true

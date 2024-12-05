@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#仪表控件(含源代码)"
+title: "C仪表控件含源代码"
 date:   2022-11-04
 tags: [控件,仪表,源代码,C#,自定义]
 comments: true

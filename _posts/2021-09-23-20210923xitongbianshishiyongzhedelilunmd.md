@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统辨识：使用者的理论"
+title: "系统辨识使用者的理论"
 date:   2020-03-09
 tags: [辨识,系统,资源,文件,使用者]
 comments: true

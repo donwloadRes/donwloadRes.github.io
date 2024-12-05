@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读取tif格式图片"
+title: "C读取tif格式图片"
 date:   2023-08-01
 tags: [TIFF,图像,C#,NET,读取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库串口空闲中断+DMA+FIFO实现"
+title: "HAL库串口空闲中断DMAFIFO实现"
 date:   2020-04-26
 tags: [串口,DMA,FIFO,空闲,HAL]
 comments: true

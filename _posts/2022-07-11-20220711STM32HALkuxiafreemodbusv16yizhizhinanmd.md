@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库下freemodbus v1.6移植指南"
+title: "STM32 HAL库下freemodbus v16移植指南"
 date:   2023-05-28
 tags: [移植,STM32,freemodbus,IDE,编译]
 comments: true

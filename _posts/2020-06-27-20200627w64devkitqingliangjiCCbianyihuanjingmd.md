@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "w64devkit：轻量级C-C++编译环境"
+title: "w64devkit轻量级CC编译环境"
 date:   2020-09-02
 tags: [w64devkit,轻量级,C++,解压,编译]
 comments: true

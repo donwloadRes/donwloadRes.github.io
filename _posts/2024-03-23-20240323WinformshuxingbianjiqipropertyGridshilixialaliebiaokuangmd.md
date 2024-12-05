@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform属性编辑器propertyGrid示例：下拉列表框"
+title: "Winform属性编辑器propertyGrid示例下拉列表框"
 date:   2020-08-22
 tags: [属性,PropertyGrid,编辑器,自定义,示例]
 comments: true

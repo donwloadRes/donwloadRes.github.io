@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# x64 讯飞离线语音指令封装"
+title: "C x64 讯飞离线语音指令封装"
 date:   2021-05-05
 tags: [封装,文件,离线,C#,语音指令]
 comments: true

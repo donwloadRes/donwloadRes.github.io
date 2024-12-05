@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学及其应用（英文版 第7版）及答案"
+title: "离散数学及其应用英文版 第7版及答案"
 date:   2024-04-17
 tags: [离散数学,英文版,答案,及其,应用]
 comments: true

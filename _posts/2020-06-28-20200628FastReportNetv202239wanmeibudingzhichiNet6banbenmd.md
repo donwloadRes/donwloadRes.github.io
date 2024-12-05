@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport.Net v2022.3.9 完美补丁 - 支持.Net6版本"
+title: "FastReportNet v202239 完美补丁  支持Net6版本"
 date:   2023-12-17
 tags: [补丁,FastReport,Net,v2022.3,Net6]
 comments: true

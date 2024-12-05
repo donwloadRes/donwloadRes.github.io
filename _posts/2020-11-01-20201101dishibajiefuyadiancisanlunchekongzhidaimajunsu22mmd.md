@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十八届负压电磁三轮车控制代码 - 均速2.2m"
+title: "第十八届负压电磁三轮车控制代码  均速22m"
 date:   2023-01-20
 tags: [三轮车,控制代码,编译,负压,电磁]
 comments: true

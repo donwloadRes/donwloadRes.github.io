@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "☆老师官方版STM32题库★1 下载仓库"
+title: "老师官方版STM32题库1 下载仓库"
 date:   2021-03-16
 tags: [题库,STM32,官方版,下载,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI 图片显示、拖动、缩放自定义控件"
+title: "C GDI 图片显示拖动缩放自定义控件"
 date:   2020-02-02
 tags: [控件,图片,缩放,拖动,自定义]
 comments: true

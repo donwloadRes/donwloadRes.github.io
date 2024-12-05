@@ -1,6 +1,53 @@
 ---
 layout: post
-title: "VantUI下拉搜索框实现方法基于Vue的教程"
+title: "VantUI下拉搜索框实现方法基于Vue的教程
+date   20220322
+tags VueVantUIvanvalue搜索
+comments true
+author admin
+
+ VantUI下拉搜索框实现方法基于Vue的教程
+
+欢迎来到本教程我们将一起学习如何在Vue项目中集成一个具备搜索功能的下拉选择框使用流行的移动端UI框架VantUI如果你正寻找一个简易且高效的方式为你的移动应用增添这一实用功能那么你来对地方了
+
+ 示例概述
+
+本文档指导你通过简单的步骤实现一个VantUI的下拉搜索框组件该组件结合了vanfield作为输入框和vanpicker作为选择器并通过自定义逻辑完成搜索过滤功能
+
+ 快速开始
+
+ 步骤 1  准备工作
+
+确保你已安装了VantUI并正确配置在你的Vue项目中如果没有请访问VantUI官方文档httpsvantcontribgiteeiovantzhCN来了解如何开始
+
+ 步骤 2  HTML 结构
+
+在你的Vue组件模板中添加以下结构
+
+html
+div
+  vanfield
+    label所属部门
+    readonly
+    clickable
+    required
+    placeholder点击选择所在部门
+    clickshowPickertrue
+    valuevalue
+  
+  vanpopup vmodelshowPicker positionbottom
+    vanfield
+      clickable
+      vmodeltrimkeyvalue
+      lefticonsearch
+      placeholder搜索所在部门
+      inputsearch
+    
+    vanpicker
+      showtoolbar
+      columnsfilterdepartments
+      confirmonConfirm
+      cancelshowPickerfalse"
 date:   2022-03-22
 tags: [Vue,VantUI,van,value,搜索]
 comments: true

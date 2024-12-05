@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于IMDB评论数据集的情感分析-LSTM-Pytorch"
+title: "基于IMDB评论数据集的情感分析LSTMPytorch"
 date:   2021-06-22
 tags: [LSTM,评论,万条,IMDB,模型]
 comments: true

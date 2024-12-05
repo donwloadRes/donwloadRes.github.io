@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.0 安装教程"
+title: "Proteus 80 安装教程"
 date:   2024-10-26
 tags: [Proteus,安装,8.0,文件夹,文件]
 comments: true

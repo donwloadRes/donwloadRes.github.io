@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UniversalMediaPlayer 视频播放器Demo（含插件）"
+title: "UniversalMediaPlayer 视频播放器Demo含插件"
 date:   2022-09-30
 tags: [插件,视频,播放,Demo,功能]
 comments: true

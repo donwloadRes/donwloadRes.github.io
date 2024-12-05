@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E4A(易安卓) WiFi通信资源文件介绍"
+title: "E4A易安卓 WiFi通信资源文件介绍"
 date:   2021-06-24
 tags: [WiFi,单片机,E4A,代码,通信]
 comments: true

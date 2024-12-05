@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE SystemVerilog 3.1a 语言参考手册 中文版"
+title: "IEEE SystemVerilog 31a 语言参考手册 中文版"
 date:   2021-07-28
 tags: [SystemVerilog,语言,参考手册,中文版,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据资产管理实践白皮书6.0 下载仓库"
+title: "数据资产管理实践白皮书60 下载仓库"
 date:   2022-08-01
 tags: [数据,资产,管理,白皮书,6.0]
 comments: true

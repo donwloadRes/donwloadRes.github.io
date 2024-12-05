@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform与VisionPro9.0混合编程教程"
+title: "C Winform与VisionPro90混合编程教程"
 date:   2022-05-13
 tags: [教程,VisionPro9.0,Winform,C#,编程]
 comments: true

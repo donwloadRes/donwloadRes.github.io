@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "科研论文写作指南（非母语者适用）"
+title: "科研论文写作指南非母语者适用"
 date:   2022-03-08
 tags: [科研,写作,论文,母语,本书]
 comments: true

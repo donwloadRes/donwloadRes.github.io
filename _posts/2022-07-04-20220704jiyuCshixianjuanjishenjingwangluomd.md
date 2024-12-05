@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C++实现卷积神经网络"
+title: "基于C实现卷积神经网络"
 date:   2023-09-15
 tags: [神经网络,卷积,C++,代码,实现]
 comments: true

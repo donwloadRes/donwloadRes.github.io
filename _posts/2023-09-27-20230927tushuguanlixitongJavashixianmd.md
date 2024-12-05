@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书管理系统（Java实现）"
+title: "图书管理系统Java实现"
 date:   2020-05-15
 tags: [图书,git,your,feature,Java]
 comments: true

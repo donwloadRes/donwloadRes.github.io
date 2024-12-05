@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW宝典_陈树学，刘萱编著"
+title: "LabVIEW宝典陈树学刘萱编著"
 date:   2020-09-14
 tags: [LabVIEW,宝典,陈树学,刘萱,仓库]
 comments: true

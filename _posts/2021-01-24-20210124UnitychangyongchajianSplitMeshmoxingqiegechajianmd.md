@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity常用插件——SplitMesh模型切割插件"
+title: "Unity常用插件SplitMesh模型切割插件"
 date:   2021-03-26
 tags: [切割,插件,物体,脚本,挂载]
 comments: true

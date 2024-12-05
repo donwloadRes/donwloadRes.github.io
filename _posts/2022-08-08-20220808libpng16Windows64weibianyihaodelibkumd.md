@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libpng 1.6 Windows 64位 编译好的lib库"
+title: "libpng 16 Windows 64位 编译好的lib库"
 date:   2024-09-11
 tags: [libpng,编译,64,Windows,lib]
 comments: true

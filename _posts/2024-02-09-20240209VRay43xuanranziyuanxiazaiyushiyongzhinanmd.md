@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VRay 4.3渲染资源下载与使用指南"
+title: "VRay 43渲染资源下载与使用指南"
 date:   2020-05-21
 tags: [VRay,4.3,下载,渲染,安装]
 comments: true

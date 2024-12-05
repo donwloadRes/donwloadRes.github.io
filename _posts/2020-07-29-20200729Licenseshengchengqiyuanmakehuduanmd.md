@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "License生成器(源码+客户端)"
+title: "License生成器源码客户端"
 date:   2024-09-27
 tags: [license,源码,客户端,授权,软件]
 comments: true

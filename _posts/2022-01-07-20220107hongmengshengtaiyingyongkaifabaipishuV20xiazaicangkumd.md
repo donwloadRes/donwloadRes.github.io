@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸿蒙生态应用开发白皮书V2.0 下载仓库"
+title: "鸿蒙生态应用开发白皮书V20 下载仓库"
 date:   2020-05-04
 tags: [鸿蒙,白皮书,V2.0,生态,下载]
 comments: true

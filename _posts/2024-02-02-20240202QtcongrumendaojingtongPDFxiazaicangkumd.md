@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt从入门到精通（PDF）下载仓库"
+title: "Qt从入门到精通PDF下载仓库"
 date:   2023-03-18
 tags: [Qt,PDF,入门,下载,精通]
 comments: true

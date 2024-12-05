@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙鑫 VC++ 深入详解书中源码"
+title: "孙鑫 VC 深入详解书中源码"
 date:   2021-10-28
 tags: [源码,孙鑫,C++,书中,文件]
 comments: true

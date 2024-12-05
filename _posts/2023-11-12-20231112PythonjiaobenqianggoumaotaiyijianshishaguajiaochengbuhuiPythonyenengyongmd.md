@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python脚本抢购茅台：一键式傻瓜教程，不会Python也能用"
+title: "Python脚本抢购茅台一键式傻瓜教程不会Python也能用"
 date:   2023-10-10
 tags: [抢购,Python,脚本,教程,一键]
 comments: true

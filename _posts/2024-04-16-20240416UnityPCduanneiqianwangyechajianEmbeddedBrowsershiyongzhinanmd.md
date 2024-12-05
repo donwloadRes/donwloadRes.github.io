@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity PC端内嵌网页插件：Embedded Browser使用指南"
+title: "Unity PC端内嵌网页插件Embedded Browser使用指南"
 date:   2021-04-13
 tags: [Unity,插件,Browser,网页,Embedded]
 comments: true

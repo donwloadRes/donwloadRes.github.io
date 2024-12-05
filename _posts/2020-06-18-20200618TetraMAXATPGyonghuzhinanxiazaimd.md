@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TetraMAX® ATPG 用户指南下载"
+title: "TetraMAX ATPG 用户指南下载"
 date:   2022-12-18
 tags: [TetraMAX,ATPG,指南,测试,tmax]
 comments: true

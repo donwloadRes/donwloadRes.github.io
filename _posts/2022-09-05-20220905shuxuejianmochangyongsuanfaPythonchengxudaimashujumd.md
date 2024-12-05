@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模常用算法 Python 程序代码+数据"
+title: "数学建模常用算法 Python 程序代码数据"
 date:   2022-01-19
 tags: [Python,建模,数学,算法,程序代码]
 comments: true

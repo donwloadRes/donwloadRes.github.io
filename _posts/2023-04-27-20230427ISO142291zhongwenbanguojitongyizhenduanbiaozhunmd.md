@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO14229-1中文版 - 国际统一诊断标准"
+title: "ISO142291中文版  国际统一诊断标准"
 date:   2022-02-23
 tags: [ISO14229,中文版,诊断,标准,资源]
 comments: true

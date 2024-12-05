@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Converter Standalone 6.1.1"
+title: "VMware Converter Standalone 611"
 date:   2021-04-05
 tags: [VMware,迁移,虚拟机,Converter,Standalone]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5801AN HDMI to eDP-DP 转换方案电路原理图"
+title: "CS5801AN HDMI to eDPDP 转换方案电路原理图"
 date:   2022-04-25
 tags: [HDMI,eDP,DP,原理图,电路设计]
 comments: true

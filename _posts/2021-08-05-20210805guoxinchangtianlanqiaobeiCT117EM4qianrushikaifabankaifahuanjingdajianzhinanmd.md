@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国信长天蓝桥杯CT117E-M4嵌入式开发板开发环境搭建指南"
+title: "国信长天蓝桥杯CT117EM4嵌入式开发板开发环境搭建指南"
 date:   2020-07-25
 tags: [安装,Keil,蓝桥,STM32CubeMX,软件]
 comments: true

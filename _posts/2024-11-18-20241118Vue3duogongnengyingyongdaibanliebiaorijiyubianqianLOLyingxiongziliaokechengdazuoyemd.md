@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3多功能应用：待办列表、日记与便签、LOL英雄资料-课程大作业"
+title: "Vue3多功能应用待办列表日记与便签LOL英雄资料课程大作业"
 date:   2021-08-14
 tags: [便签,待办,Vue3,日记,项目]
 comments: true

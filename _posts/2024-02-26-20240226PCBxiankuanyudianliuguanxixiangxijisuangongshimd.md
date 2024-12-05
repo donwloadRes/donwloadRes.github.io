@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB线宽与电流关系（详细计算公式）"
+title: "PCB线宽与电流关系详细计算公式"
 date:   2022-01-21
 tags: [PCB,线宽,电流,设计,电路板]
 comments: true

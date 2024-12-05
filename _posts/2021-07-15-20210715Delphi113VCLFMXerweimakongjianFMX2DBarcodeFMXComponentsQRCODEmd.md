@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 11.3 VCL-FMX 二维码控件(FMX)2D.Barcode.FMX.Components. QRCODE"
+title: "Delphi 113 VCLFMX 二维码控件FMX2DBarcodeFMXComponents QRCODE"
 date:   2021-09-08
 tags: [控件,FMX,二维码,Delphi,11.3]
 comments: true

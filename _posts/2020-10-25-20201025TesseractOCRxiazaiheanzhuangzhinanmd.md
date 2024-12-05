@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR下载和安装指南"
+title: "TesseractOCR下载和安装指南"
 date:   2021-09-16
 tags: [Tesseract,OCR,安装,Windows,指南]
 comments: true

@@ -1,6 +1,57 @@
 ---
 layout: post
-title: "轻量级C++ HTTP工具箱：基于mongoose的HTTP Server与Client"
+title: "轻量级C HTTP工具箱基于mongoose的HTTP Server与Client
+date   20200605
+tags HTTPmongooseC轻量级Client
+comments true
+author admin
+
+ 轻量级C HTTP工具箱基于mongoose的HTTP Server与Client
+
+ 概述
+
+本仓库提供了一套轻量级的C解决方案用于快速在您的项目中集成HTTP服务和支持利用mongoose库的精简高效特性我们封装了既简单又强大的HTTP服务器httpserver和客户端httpclient这套工具旨在减少内存占用和依赖性适合对性能敏感资源有限或希望避免引入大型库的C开发场景
+
+ 特点
+
+ 轻量级相比libcurl等全面但较重的库此实现更适合嵌入式系统及小型项目
+ 易于集成代码结构简洁明了轻松加入现有工程快速扩展HTTP功能
+ mongoose基础依托mongoose库提供稳定而高效的网络处理能力
+ 多功能性支持基本的HTTP请求处理与响应发送满足多数简单的HTTP交互需求
+ 学习友好适合理解HTTP协议基础和C网络编程的新手入门
+
+ 快速上手
+
+ 安装mongoose
+
+首先确保你的开发环境已准备好mongoose库如果未安装可以通过Git克隆其源码或通过包管理器如aptget brew等安装
+
+ 引入到项目
+
+1 将本仓库的代码文件复制到你的项目中
+2 配置你的编译选项包含mongoose库路径以及相关头文件路径
+
+ 示例
+
+ 启动HTTP Server
+
+  示例代码展示如何快速搭建一个监听特定端口的基本HTTP服务器
+
+  cpp
+  include httpserverh
+  int main 
+      httpserver server8080
+       注册路由处理函数等操作
+      serverstart
+  
+  
+
+ 发起HTTP Client请求
+
+  如何使用客户端向远程服务器发送GET请求的示例
+
+  cpp
+  include httpclienth"
 date:   2020-06-05
 tags: [HTTP,mongoose,C++,轻量级,Client]
 comments: true

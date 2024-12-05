@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 操作 Excel 文档：创建、读取与写入"
+title: "C 操作 Excel 文档创建读取与写入"
 date:   2022-02-27
 tags: [Excel,写入,文件,C#,文档]
 comments: true

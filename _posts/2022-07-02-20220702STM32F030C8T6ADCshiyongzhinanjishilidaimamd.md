@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F030C8T6_ADC 使用指南及示例代码"
+title: "STM32F030C8T6ADC 使用指南及示例代码"
 date:   2024-12-02
 tags: [ADC,STM32F030C8T6,STM32,示例,采样]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL编程指南（原书第八版2013年最新）"
+title: "OpenGL编程指南原书第八版2013年最新"
 date:   2021-07-01
 tags: [OpenGL,编程,原书,指南,图形]
 comments: true

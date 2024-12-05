@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 实现简单截图功能（一）"
+title: "Qt 实现简单截图功能一"
 date:   2021-07-08
 tags: [Qt,截图,示例,功能,实现]
 comments: true

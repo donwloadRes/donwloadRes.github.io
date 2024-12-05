@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC重绘标题栏、菜单栏并更改状态栏背景色"
+title: "MFC重绘标题栏菜单栏并更改状态栏背景色"
 date:   2020-10-25
 tags: [背景色,MFC,重绘,标题栏,菜单栏]
 comments: true

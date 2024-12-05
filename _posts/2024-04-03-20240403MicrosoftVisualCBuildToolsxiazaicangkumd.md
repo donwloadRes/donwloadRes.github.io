@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ Build Tools 下载仓库"
+title: "Microsoft Visual C Build Tools 下载仓库"
 date:   2024-03-25
 tags: [安装,C++,Microsoft,Visual,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB函数速查手册(修订版) - 电子书下载"
+title: "MATLAB函数速查手册修订版  电子书下载"
 date:   2024-11-24
 tags: [MATLAB,人员,手册,速查,函数]
 comments: true

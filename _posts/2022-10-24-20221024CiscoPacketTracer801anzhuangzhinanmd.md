@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer 8.0.1 安装指南"
+title: "Cisco Packet Tracer 801 安装指南"
 date:   2021-06-02
 tags: [Cisco,Packet,Tracer,安装,8.0]
 comments: true

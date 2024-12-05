@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自动化程序框架项目实例"
+title: "C自动化程序框架项目实例"
 date:   2023-03-30
 tags: [C#,模块,自动化,通讯,框架]
 comments: true

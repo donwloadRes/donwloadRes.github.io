@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN总线错误处理机制及Bus-off问题现象分析"
+title: "CAN总线错误处理机制及Busoff问题现象分析"
 date:   2024-02-29
 tags: [总线,Bus,off,错误处理,现象]
 comments: true

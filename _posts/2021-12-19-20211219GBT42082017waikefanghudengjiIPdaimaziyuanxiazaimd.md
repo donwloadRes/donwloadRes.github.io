@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 4208-2017 外壳防护等级（IP代码）资源下载"
+title: "GBT 42082017 外壳防护等级IP代码资源下载"
 date:   2023-09-24
 tags: [外壳,防护,2017,等级,GB]
 comments: true

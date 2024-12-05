@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "各类USB封装大全 - Altium Designer"
+title: "各类USB封装大全  Altium Designer"
 date:   2020-06-02
 tags: [USB,封装,Altium,Designer,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL ES 3.0编程指南第2版[中文][PDF]"
+title: "OpenGL ES 30编程指南第2版中文PDF"
 date:   2020-03-11
 tags: [OpenGL,ES,3.0,着色器,API]
 comments: true

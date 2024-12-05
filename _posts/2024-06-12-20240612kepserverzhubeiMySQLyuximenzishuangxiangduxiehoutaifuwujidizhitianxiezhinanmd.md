@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kepserver主备、MySQL与西门子双向读写、后台服务及地址填写指南"
+title: "kepserver主备MySQL与西门子双向读写后台服务及地址填写指南"
 date:   2024-11-11
 tags: [PLC,西门子,服务器,配置,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 插件：Compare"
+title: "Notepad 插件Compare"
 date:   2022-10-13
 tags: [插件,Notepad,++,Compare,下载]
 comments: true

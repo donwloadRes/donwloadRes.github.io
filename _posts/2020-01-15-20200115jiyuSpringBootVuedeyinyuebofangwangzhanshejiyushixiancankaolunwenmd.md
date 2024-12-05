@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的音乐播放网站设计与实现参考论文"
+title: "基于SpringBootVue的音乐播放网站设计与实现参考论文"
 date:   2022-02-22
 tags: [音乐网站,用户,音乐,网站,歌曲]
 comments: true

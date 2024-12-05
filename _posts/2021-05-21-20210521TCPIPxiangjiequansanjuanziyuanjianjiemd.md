@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP详解全三卷资源简介"
+title: "TCPIP详解全三卷资源简介"
 date:   2021-04-15
 tags: [TCP,IP,协议,详解,网络]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享【无人驾驶系列】基于ROS的无人驾驶系统 PPT教材"
+title: "分享无人驾驶系列基于ROS的无人驾驶系统 PPT教材"
 date:   2021-07-10
 tags: [无人驾驶,ROS,PPT,系统,基于]
 comments: true

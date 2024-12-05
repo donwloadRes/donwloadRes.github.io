@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity模型高亮插件Highlighting System 5.0"
+title: "Unity模型高亮插件Highlighting System 50"
 date:   2023-06-04
 tags: [Unity,插件,高亮,Highlighting,System]
 comments: true

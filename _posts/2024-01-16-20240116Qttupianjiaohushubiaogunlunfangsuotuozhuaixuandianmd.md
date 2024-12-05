@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 图片交互 - 鼠标滚轮放缩、拖拽、选点"
+title: "Qt 图片交互  鼠标滚轮放缩拖拽选点"
 date:   2023-01-21
 tags: [Qt,图片,鼠标,滚轮,选点]
 comments: true

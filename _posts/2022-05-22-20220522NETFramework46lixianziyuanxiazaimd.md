@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.6 离线资源下载"
+title: "NET Framework 46 离线资源下载"
 date:   2024-01-05
 tags: [4.6,NET,Framework,离线,安装]
 comments: true

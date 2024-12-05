@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品04：推流综合应用"
+title: "QtC项目作品04推流综合应用"
 date:   2021-05-16
 tags: [推流,音视频,重连,支持,文件]
 comments: true

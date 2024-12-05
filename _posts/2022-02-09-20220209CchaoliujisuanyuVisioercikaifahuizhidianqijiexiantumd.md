@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#潮流计算与Visio二次开发绘制电气接线图"
+title: "C潮流计算与Visio二次开发绘制电气接线图"
 date:   2021-01-16
 tags: [接线图,Visio,绘制,潮流,二次开发]
 comments: true

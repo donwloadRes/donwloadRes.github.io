@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微9.0后端操作手册下载"
+title: "泛微90后端操作手册下载"
 date:   2024-10-27
 tags: [9.0,泛微,后台,模块,操作手册]
 comments: true

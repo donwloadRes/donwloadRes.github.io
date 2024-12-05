@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity5.x从入门到精通资源（电子版+书内项目）"
+title: "Unity5x从入门到精通资源电子版书内项目"
 date:   2023-02-25
 tags: [Unity5,资源,书内,Unity,学习]
 comments: true

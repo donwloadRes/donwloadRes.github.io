@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏（太阳能）带Boost升压的MPPT控制资源介绍"
+title: "光伏太阳能带Boost升压的MPPT控制资源介绍"
 date:   2022-11-04
 tags: [光伏,模型,Boost,MPPT,DC]
 comments: true

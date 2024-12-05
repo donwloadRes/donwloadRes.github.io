@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 离线开发文档（中文版 & 英文版）"
+title: "JDK 18 离线开发文档中文版  英文版"
 date:   2022-09-12
 tags: [文档,JDK,1.8,离线,中文版]
 comments: true

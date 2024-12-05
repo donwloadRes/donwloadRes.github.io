@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QCA7000_V2.PDF 资源文件介绍"
+title: "QCA7000V2PDF 资源文件介绍"
 date:   2020-04-23
 tags: [QCA7000,文档,PDF,载波通信,V2]
 comments: true

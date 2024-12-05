@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6位半多功能万用表说明书 - Keysight Truevolt 34465A 中文版"
+title: "6位半多功能万用表说明书  Keysight Truevolt 34465A 中文版"
 date:   2020-08-08
 tags: [说明书,万用表,位半,Keysight,Truevolt]
 comments: true

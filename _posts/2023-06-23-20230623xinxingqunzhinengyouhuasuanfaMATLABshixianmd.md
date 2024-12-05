@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新型群智能优化算法（MATLAB实现）"
+title: "新型群智能优化算法MATLAB实现"
 date:   2021-07-31
 tags: [算法,MATLAB,使用手册,优化,代码]
 comments: true

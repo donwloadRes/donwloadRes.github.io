@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RealsenseD435i+Python+PyQt窗体应用程序(基础篇)"
+title: "RealsenseD435iPythonPyQt窗体应用程序基础篇"
 date:   2021-07-05
 tags: [相机,PyQt,窗体,RealsenseD435i,深度]
 comments: true

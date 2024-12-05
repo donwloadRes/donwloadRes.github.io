@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享130个中国风PPT模板，总有一款适合你"
+title: "分享130个中国风PPT模板总有一款适合你"
 date:   2024-09-26
 tags: [模板,PPT,130,下载,适合]
 comments: true

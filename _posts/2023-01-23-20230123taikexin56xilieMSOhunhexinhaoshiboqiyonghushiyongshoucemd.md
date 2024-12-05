@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泰克新-5-6 系列 MSO 混合信号示波器用户使用手册"
+title: "泰克新56 系列 MSO 混合信号示波器用户使用手册"
 date:   2020-04-05
 tags: [示波器,泰克,MSO,使用手册,本手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+PHP+MySQL实现注册、登录和修改密码（附完整代码）"
+title: "HTMLCSSPHPMySQL实现注册登录和修改密码附完整代码"
 date:   2021-04-27
 tags: [MySQL,密码,PHP,代码,登录]
 comments: true

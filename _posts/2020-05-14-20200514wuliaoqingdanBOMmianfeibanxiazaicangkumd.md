@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物料清单BOM（免费版）下载仓库"
+title: "物料清单BOM免费版下载仓库"
 date:   2022-05-16
 tags: [物料,BOM,清单,免费版,下载]
 comments: true

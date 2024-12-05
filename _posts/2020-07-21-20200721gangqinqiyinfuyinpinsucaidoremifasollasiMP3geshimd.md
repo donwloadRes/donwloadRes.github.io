@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "钢琴七音符音频素材 - do+re+mi+fa+sol+la+si (MP3格式)"
+title: "钢琴七音符音频素材  doremifasollasi MP3格式"
 date:   2020-09-10
 tags: [音频,钢琴,音符,素材,MP3]
 comments: true

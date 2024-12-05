@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4xx DMA+PWM 控制 WS2812 灯带示例"
+title: "STM32F4xx DMAPWM 控制 WS2812 灯带示例"
 date:   2023-03-23
 tags: [PWM,灯带,WS2812,STM32F4xx,DMA]
 comments: true

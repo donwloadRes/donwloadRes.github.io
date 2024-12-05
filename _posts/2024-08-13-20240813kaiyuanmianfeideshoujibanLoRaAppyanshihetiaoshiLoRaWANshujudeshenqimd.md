@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源免费的手机版 LoRa App - 演示和调试 LoRaWAN 数据的神器"
+title: "开源免费的手机版 LoRa App  演示和调试 LoRaWAN 数据的神器"
 date:   2024-11-21
 tags: [App,LoRaWAN,LoRa,调试,开源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tent+麻雀搜索算法（SSA）优化BP网络资源介绍"
+title: "Tent麻雀搜索算法SSA优化BP网络资源介绍"
 date:   2020-03-02
 tags: [SSA,搜索算法,BP,Tent,Matlab]
 comments: true

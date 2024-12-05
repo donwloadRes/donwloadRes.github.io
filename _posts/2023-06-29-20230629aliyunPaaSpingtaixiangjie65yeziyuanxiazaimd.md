@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云PaaS平台详解（65页）资源下载"
+title: "阿里云PaaS平台详解65页资源下载"
 date:   2024-01-14
 tags: [PaaS,阿里,平台,架构,读者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-24L01 全双工对讲机项目"
+title: "STM3224L01 全双工对讲机项目"
 date:   2024-03-16
 tags: [STM32,全双工,24L01,对讲机,模块]
 comments: true

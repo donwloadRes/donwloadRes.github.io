@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锐捷无线地勘工具V1.2"
+title: "锐捷无线地勘工具V12"
 date:   2023-04-16
 tags: [无线网络,无线,锐捷,地勘,V1.2]
 comments: true

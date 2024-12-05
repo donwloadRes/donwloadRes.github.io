@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件 kchmviewer 改进版本 - 中文编码CHM文档阅读器 (202202)"
+title: "软件 kchmviewer 改进版本  中文编码CHM文档阅读器 202202"
 date:   2020-03-02
 tags: [CHM,编码,版本,文档,中文]
 comments: true

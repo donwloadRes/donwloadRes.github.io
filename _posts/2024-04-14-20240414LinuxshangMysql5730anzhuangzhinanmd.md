@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux上Mysql-5.7.30安装指南"
+title: "Linux上Mysql5730安装指南"
 date:   2022-04-04
 tags: [MySQL,Linux,5.7,30,mysql]
 comments: true

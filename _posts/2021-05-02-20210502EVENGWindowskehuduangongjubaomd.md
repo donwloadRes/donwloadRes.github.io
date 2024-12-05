@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVE-NG Windows 客户端工具包"
+title: "EVENG Windows 客户端工具包"
 date:   2022-11-29
 tags: [抓包,客户端,软件,EVE,VNC]
 comments: true

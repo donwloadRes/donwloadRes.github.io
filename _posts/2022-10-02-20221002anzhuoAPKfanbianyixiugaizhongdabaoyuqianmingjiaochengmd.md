@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓APK反编译、修改、重打包与签名教程"
+title: "安卓APK反编译修改重打包与签名教程"
 date:   2023-05-28
 tags: [APK,反编译,文件,教程,修改]
 comments: true

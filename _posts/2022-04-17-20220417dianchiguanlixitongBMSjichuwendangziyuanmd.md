@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电池管理系统（BMS）基础文档资源"
+title: "电池管理系统BMS基础文档资源"
 date:   2022-10-28
 tags: [BMS,电池,管理系统,读者,帮助]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GraphPad Prism v8.0.2.263 中文版 - 免安装资源介绍"
+title: "GraphPad Prism v802263 中文版  免安装资源介绍"
 date:   2021-03-20
 tags: [科研,曲线拟合,GraphPad,Prism,2.263]
 comments: true

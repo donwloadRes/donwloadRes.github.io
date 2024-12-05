@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCL脚本学习资料——入门必看"
+title: "TCL脚本学习资料入门必看"
 date:   2023-06-28
 tags: [TCL,脚本语言,学习,入门,脚本]
 comments: true

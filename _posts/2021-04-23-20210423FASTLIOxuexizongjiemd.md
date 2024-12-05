@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FAST-LIO学习总结"
+title: "FASTLIO学习总结"
 date:   2023-06-12
 tags: [FAST,LIO,SLAM,学习,总结]
 comments: true

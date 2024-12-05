@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D Studio Max 2009 安装指南：开启您的创意之旅"
+title: "3D Studio Max 2009 安装指南开启您的创意之旅"
 date:   2022-05-15
 tags: [安装,3D,Studio,Max,2009]
 comments: true

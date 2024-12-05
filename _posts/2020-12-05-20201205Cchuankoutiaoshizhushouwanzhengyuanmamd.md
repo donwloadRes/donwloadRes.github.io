@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口调试助手完整源码"
+title: "C 串口调试助手完整源码"
 date:   2020-08-24
 tags: [串口,调试,源码,助手,C#]
 comments: true

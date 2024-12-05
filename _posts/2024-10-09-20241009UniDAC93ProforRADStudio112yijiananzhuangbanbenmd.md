@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UniDAC 9.3 Pro for RAD Studio 11.2 一键安装版本"
+title: "UniDAC 93 Pro for RAD Studio 112 一键安装版本"
 date:   2022-10-05
 tags: [RAD,Studio,11.2,安装,UniDAC]
 comments: true

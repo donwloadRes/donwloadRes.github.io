@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决PR或AE启动不了：桌面弹出Crash文件指南"
+title: "解决PR或AE启动不了桌面弹出Crash文件指南"
 date:   2022-07-07
 tags: [文件,Adobe,dll,PR,AE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 项目资源：50 款精选源代码"
+title: "Android Studio 项目资源50 款精选源代码"
 date:   2022-07-27
 tags: [Android,项目,Studio,源码,50]
 comments: true

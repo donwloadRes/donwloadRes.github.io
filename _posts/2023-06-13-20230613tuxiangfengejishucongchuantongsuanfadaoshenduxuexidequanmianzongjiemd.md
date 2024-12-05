@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像分割技术：从传统算法到深度学习的全面总结"
+title: "图像分割技术从传统算法到深度学习的全面总结"
 date:   2024-05-07
 tags: [分割,图像,算法,阈值,CNN]
 comments: true

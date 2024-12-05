@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python程序设计【第3版】完整高清电子书资源"
+title: "Python程序设计第3版完整高清电子书资源"
 date:   2023-09-02
 tags: [Python,电子书,高清,编程,书签]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CommonAPI、CommonAPI-SOMEIP及VSomeIP的AutoSAR SOMEIP Demo"
+title: "基于CommonAPICommonAPISOMEIP及VSomeIP的AutoSAR SOMEIP Demo"
 date:   2022-11-06
 tags: [SOMEIP,Adaptive,AutoSAR,客户端,Demo]
 comments: true

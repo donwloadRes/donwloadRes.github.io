@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOv8-Pose的姿态识别项目"
+title: "基于YOLOv8Pose的姿态识别项目"
 date:   2023-01-13
 tags: [姿态,识别,YOLOv8,Pose,--]
 comments: true

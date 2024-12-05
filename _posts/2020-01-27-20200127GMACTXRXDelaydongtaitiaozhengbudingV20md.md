@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMAC TX RX Delay 动态调整补丁V2.0"
+title: "GMAC TX RX Delay 动态调整补丁V20"
 date:   2023-02-10
 tags: [补丁,内核,延时,应用,V2.0]
 comments: true

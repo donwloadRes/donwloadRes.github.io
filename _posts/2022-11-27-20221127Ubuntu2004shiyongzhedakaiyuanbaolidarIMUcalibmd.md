@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 使用浙大开源包 lidar_IMU_calib"
+title: "Ubuntu 2004 使用浙大开源包 lidarIMUcalib"
 date:   2024-02-01
 tags: [标定,IMU,源码,calib,Lidar]
 comments: true

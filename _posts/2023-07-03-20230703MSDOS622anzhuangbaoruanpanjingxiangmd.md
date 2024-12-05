@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MS-DOS 6.22 安装包软盘镜像"
+title: "MSDOS 622 安装包软盘镜像"
 date:   2023-08-09
 tags: [MS,DOS,6.22,镜像,虚拟机]
 comments: true

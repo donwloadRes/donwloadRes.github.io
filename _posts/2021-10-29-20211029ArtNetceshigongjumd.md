@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Art-Net测试工具"
+title: "ArtNet测试工具"
 date:   2020-03-03
 tags: [Art,Net,测试,设备,测试工具]
 comments: true

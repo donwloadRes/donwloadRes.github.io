@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop基础操作（学习笔记二）"
+title: "Hadoop基础操作学习笔记二"
 date:   2021-09-23
 tags: [hdfs,Hadoop,dfs,email,log]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为S7706双机虚拟化CSS配置指导（案列）"
+title: "华为S7706双机虚拟化CSS配置指导案列"
 date:   2020-11-17
 tags: [CSS,配置,S7706,虚拟化,华为]
 comments: true

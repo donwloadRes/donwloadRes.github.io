@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "orCAD10.3-capture(免安装精简版) 资源介绍"
+title: "orCAD103capture免安装精简版 资源介绍"
 date:   2020-08-15
 tags: [精简版,安装,orCAD10.3,capture,完全版]
 comments: true

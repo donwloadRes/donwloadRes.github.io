@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAD Studio 10.4.2 密钥补丁下载"
+title: "RAD Studio 1042 密钥补丁下载"
 date:   2021-08-04
 tags: [RAD,Studio,10.4,密钥,补丁]
 comments: true

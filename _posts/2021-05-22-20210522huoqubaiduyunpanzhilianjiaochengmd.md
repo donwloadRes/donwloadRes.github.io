@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【获取百度云盘直链教程】"
+title: "获取百度云盘直链教程"
 date:   2021-01-09
 tags: [直链,云盘,百度,下载,Chrome]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速串行I-O Made Simple (中文版)：深入理解千兆位级串行通信"
+title: "高速串行IO Made Simple 中文版深入理解千兆位级串行通信"
 date:   2020-02-17
 tags: [串行,高速,千兆,通信,技术]
 comments: true

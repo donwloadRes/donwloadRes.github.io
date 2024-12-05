@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LSTM-Attention模型的光伏电站发电量预估"
+title: "基于LSTMAttention模型的光伏电站发电量预估"
 date:   2024-04-09
 tags: [光伏,发电量,LSTM,模型,预测]
 comments: true

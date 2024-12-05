@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F407的DMA + DAC定时器触发实现的任意波形发生器"
+title: "基于STM32F407的DMA  DAC定时器触发实现的任意波形发生器"
 date:   2022-09-25
 tags: [波形,定时器,生成,DMA,DAC]
 comments: true

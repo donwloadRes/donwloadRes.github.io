@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 11898-1 中文标准下载仓库"
+title: "ISO 118981 中文标准下载仓库"
 date:   2023-05-20
 tags: [ISO,11898,仓库,下载,中文]
 comments: true

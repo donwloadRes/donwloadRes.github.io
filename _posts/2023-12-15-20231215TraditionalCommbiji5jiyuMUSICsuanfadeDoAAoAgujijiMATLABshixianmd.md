@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Traditional Comm 笔记【5】：基于MUSIC算法的DoA-AoA估计及MATLAB实现"
+title: "Traditional Comm 笔记5基于MUSIC算法的DoAAoA估计及MATLAB实现"
 date:   2021-11-12
 tags: [算法,MUSIC,DoA,MATLAB,信号]
 comments: true

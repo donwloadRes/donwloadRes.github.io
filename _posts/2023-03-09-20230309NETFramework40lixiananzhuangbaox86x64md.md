@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NET Framework 4.0 离线安装包（x86-x64）"
+title: "NET Framework 40 离线安装包x86x64"
 date:   2023-11-26
 tags: [安装包,离线,x86,x64,NET]
 comments: true

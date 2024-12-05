@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoppeliaSim(V-rep)手册中文翻译"
+title: "CoppeliaSimVrep手册中文翻译"
 date:   2022-11-21
 tags: [CoppeliaSim,中文翻译,手册,软件,用户手册]
 comments: true

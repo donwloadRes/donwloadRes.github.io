@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.3寸4针OLED屏12C协议STM32F103C8T6程序资源"
+title: "13寸4针OLED屏12C协议STM32F103C8T6程序资源"
 date:   2024-08-08
 tags: [STM32F103C8T6,OLED,引脚,1.3,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Servlet+JSP的学生成绩管理系统"
+title: "基于ServletJSP的学生成绩管理系统"
 date:   2022-09-06
 tags: [推荐,JSP,版本,Servlet,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGraphicsItem、QGraphicsView、QGraphicsScene封装自定义"
+title: "QGraphicsItemQGraphicsViewQGraphicsScene封装自定义"
 date:   2024-01-04
 tags: [封装,Qt,图形界面,自定义,QGraphicsItem]
 comments: true

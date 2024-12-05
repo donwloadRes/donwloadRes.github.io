@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模竞赛：木板最优切割方案"
+title: "数学建模竞赛木板最优切割方案"
 date:   2021-01-09
 tags: [代码,建模,论文,Matlab,最优]
 comments: true

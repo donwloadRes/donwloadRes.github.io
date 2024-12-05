@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川AC伺服驱动器SGDV用户手册（中文）"
+title: "安川AC伺服驱动器SGDV用户手册中文"
 date:   2022-08-19
 tags: [驱动器,AC,安川,伺服电机,伺服]
 comments: true

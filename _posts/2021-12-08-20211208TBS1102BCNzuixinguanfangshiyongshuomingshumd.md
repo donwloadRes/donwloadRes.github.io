@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TBS1102B-CN 最新官方使用说明书"
+title: "TBS1102BCN 最新官方使用说明书"
 date:   2023-01-18
 tags: [TBS1102B,CN,说明书,使用,示波器]
 comments: true

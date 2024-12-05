@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "重构：改善既有代码的设计》第二版 资源下载"
+title: "重构改善既有代码的设计第二版 资源下载"
 date:   2023-03-08
 tags: [重构,代码,示例,既有,改善]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北邮计算机原理与应用期末复习PPT（基于cortexM4，田辉第三版）"
+title: "北邮计算机原理与应用期末复习PPT基于cortexM4田辉第三版"
 date:   2022-12-06
 tags: [复习,PPT,Cortex,M4,原理]
 comments: true

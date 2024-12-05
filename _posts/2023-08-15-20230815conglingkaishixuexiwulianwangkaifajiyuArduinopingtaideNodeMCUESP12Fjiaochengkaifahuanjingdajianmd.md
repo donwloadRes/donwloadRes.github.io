@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学习物联网开发：基于Arduino平台的NodeMCU_ESP-12F教程——开发环境搭建"
+title: "从零开始学习物联网开发基于Arduino平台的NodeMCUESP12F教程开发环境搭建"
 date:   2023-04-03
 tags: [开发,NodeMCU,ESP,12F,搭建]
 comments: true

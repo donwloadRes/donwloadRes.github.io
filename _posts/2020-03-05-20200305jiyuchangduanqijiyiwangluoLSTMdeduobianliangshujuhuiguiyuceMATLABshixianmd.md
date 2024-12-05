@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于长短期记忆网络(LSTM)的多变量数据回归预测 MATLAB 实现"
+title: "基于长短期记忆网络LSTM的多变量数据回归预测 MATLAB 实现"
 date:   2023-12-22
 tags: [MATLAB,LSTM,预测,数据,变量]
 comments: true

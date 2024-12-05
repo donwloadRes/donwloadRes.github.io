@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7 与 Python 2.7 共存安装指南"
+title: "Python 37 与 Python 27 共存安装指南"
 date:   2023-01-10
 tags: [Python,3.7,2.7,指南,环境变量]
 comments: true

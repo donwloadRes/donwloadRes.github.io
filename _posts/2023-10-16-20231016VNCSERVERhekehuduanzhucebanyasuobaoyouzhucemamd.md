@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VNC SERVER和客户端注册版(压缩包有注册码)"
+title: "VNC SERVER和客户端注册版压缩包有注册码"
 date:   2020-08-23
 tags: [VNC,注册码,客户端,SERVER,压缩包]
 comments: true

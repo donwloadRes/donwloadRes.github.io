@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB电力系统模块库Simpowersystems使用指南（中文版）"
+title: "MATLAB电力系统模块库Simpowersystems使用指南中文版"
 date:   2021-09-20
 tags: [电力系统,Simpowersystems,MATLAB,仿真,模块]
 comments: true

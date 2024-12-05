@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Motorcad“一”字型永磁同步电机设计案例"
+title: "Motorcad一字型永磁同步电机设计案例"
 date:   2023-09-23
 tags: [设计,电机,Motorcad,永磁,案例]
 comments: true

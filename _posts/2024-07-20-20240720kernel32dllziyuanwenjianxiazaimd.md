@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kernel32.dll 资源文件下载"
+title: "kernel32dll 资源文件下载"
 date:   2021-03-26
 tags: [文件,kernel32,dll,下载,替换]
 comments: true

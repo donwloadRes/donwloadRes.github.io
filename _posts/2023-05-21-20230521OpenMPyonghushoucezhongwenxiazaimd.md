@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenMP用户手册(中文)下载"
+title: "OpenMP用户手册中文下载"
 date:   2024-10-14
 tags: [OpenMP,编程,并行,用户手册,教程]
 comments: true

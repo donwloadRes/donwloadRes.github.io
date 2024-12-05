@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源甘特图Gantt_Chart(C#版本)"
+title: "开源甘特图GanttChartC版本"
 date:   2021-11-11
 tags: [甘特图,C#,开源,项目,源代码]
 comments: true

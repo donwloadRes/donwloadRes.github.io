@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_181 Windows 64位 下载仓库"
+title: "JDK 180181 Windows 64位 下载仓库"
 date:   2024-08-31
 tags: [JDK,Windows,64,下载,1.8]
 comments: true

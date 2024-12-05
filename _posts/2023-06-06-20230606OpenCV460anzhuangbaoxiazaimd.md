@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.6.0 安装包下载"
+title: "OpenCV 460 安装包下载"
 date:   2023-12-07
 tags: [OpenCV,4.6,安装包,下载,安装]
 comments: true

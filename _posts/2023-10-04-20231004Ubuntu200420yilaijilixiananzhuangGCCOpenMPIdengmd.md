@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.2.0 依赖及离线安装 GCC、OpenMPI 等"
+title: "Ubuntu 200420 依赖及离线安装 GCCOpenMPI 等"
 date:   2021-12-06
 tags: [离线,安装,GCC,OpenMPI,2.0]
 comments: true

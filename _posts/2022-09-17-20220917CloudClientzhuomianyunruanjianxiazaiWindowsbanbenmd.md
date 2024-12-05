@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CloudClient 桌面云软件下载（Windows 版本）"
+title: "CloudClient 桌面云软件下载Windows 版本"
 date:   2020-09-13
 tags: [CloudClient,桌面,软件,下载,版本]
 comments: true

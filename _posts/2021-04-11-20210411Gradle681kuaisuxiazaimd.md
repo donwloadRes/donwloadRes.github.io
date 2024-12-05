@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 6.8.1 快速下载"
+title: "Gradle 681 快速下载"
 date:   2022-05-23
 tags: [6.8,Gradle,构建,下载,解压]
 comments: true

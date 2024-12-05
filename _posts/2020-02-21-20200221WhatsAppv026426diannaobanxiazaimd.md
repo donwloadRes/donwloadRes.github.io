@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WhatsApp v0.2.6426 电脑版下载"
+title: "WhatsApp v026426 电脑版下载"
 date:   2024-06-03
 tags: [WhatsApp,6426,电脑,发送,v0.2]
 comments: true

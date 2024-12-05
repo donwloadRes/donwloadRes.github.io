@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D游戏特效、插件、特效资源包大合集"
+title: "Unity3D游戏特效插件特效资源包大合集"
 date:   2020-06-12
 tags: [特效,插件,Unity,资源,2D]
 comments: true

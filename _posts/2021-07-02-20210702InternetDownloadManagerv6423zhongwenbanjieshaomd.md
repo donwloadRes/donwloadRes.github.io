@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager v6.42.3 中文版介绍"
+title: "Internet Download Manager v6423 中文版介绍"
 date:   2021-06-13
 tags: [下载,IDM,v6.42,浏览器,中文版]
 comments: true

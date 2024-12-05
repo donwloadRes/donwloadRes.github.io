@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理课程设计 - COP2000指令系统设计"
+title: "计算机组成原理课程设计  COP2000指令系统设计"
 date:   2022-06-09
 tags: [指令系统,课程设计,计算机,设计,COP2000]
 comments: true

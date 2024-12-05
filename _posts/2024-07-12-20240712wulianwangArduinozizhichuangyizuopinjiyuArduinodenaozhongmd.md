@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网Arduino自制创意作品 - 基于Arduino的闹钟"
+title: "物联网Arduino自制创意作品  基于Arduino的闹钟"
 date:   2023-11-29
 tags: [闹钟,按钮,Arduino,按压,设置]
 comments: true

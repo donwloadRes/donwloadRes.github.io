@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu Qt 连接 MySQL 出现 libmysqlclient_r.so.16 找不到的解决办法"
+title: "Ubuntu Qt 连接 MySQL 出现 libmysqlclientrso16 找不到的解决办法"
 date:   2022-10-15
 tags: [libmysqlclient,so.16,MySQL,文件,下载]
 comments: true

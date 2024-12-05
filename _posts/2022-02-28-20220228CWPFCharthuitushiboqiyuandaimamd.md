@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF Chart绘图示波器源代码"
+title: "C WPF Chart绘图示波器源代码"
 date:   2023-02-05
 tags: [示波器,绘图,Chart,feature,源代码]
 comments: true

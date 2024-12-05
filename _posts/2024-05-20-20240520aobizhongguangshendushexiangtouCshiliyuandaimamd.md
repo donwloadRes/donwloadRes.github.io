@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奥比中光深度摄像头 C#实例+源代码"
+title: "奥比中光深度摄像头 C实例源代码"
 date:   2021-01-08
 tags: [源代码,摄像头,C#,深度,中光]
 comments: true

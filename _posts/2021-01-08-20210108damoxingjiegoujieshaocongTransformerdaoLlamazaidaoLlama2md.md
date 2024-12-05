@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大模型结构介绍：从Transformer到Llama，再到Llama2"
+title: "大模型结构介绍从Transformer到Llama再到Llama2"
 date:   2020-04-01
 tags: [Llama,模型,Transformer,语言,AI]
 comments: true

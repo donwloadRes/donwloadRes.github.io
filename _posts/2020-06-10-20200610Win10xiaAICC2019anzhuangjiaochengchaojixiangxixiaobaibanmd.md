@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10下AI CC 2019安装教程(超级详细-小白版)"
+title: "Win10下AI CC 2019安装教程超级详细小白版"
 date:   2022-11-12
 tags: [CC,2019,安装,AI,破解]
 comments: true

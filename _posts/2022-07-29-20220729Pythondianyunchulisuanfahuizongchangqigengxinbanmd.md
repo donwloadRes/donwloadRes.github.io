@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python点云处理算法汇总(长期更新版)"
+title: "Python点云处理算法汇总长期更新版"
 date:   2023-12-07
 tags: [点云,算法,Python,处理,示例]
 comments: true

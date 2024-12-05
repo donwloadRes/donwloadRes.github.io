@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语言自动化程序框架"
+title: "C语言自动化程序框架"
 date:   2021-04-10
 tags: [C#,自动化,框架,示例,文件]
 comments: true

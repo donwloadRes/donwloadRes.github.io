@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有源滤波器性能测试仿真（Multisim）"
+title: "有源滤波器性能测试仿真Multisim"
 date:   2021-04-21
 tags: [仿真,滤波器,Multisim,有源,设计]
 comments: true

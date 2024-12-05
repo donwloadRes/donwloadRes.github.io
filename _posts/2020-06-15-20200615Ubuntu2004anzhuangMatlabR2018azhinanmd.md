@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04安装Matlab R2018a指南"
+title: "Ubuntu 2004安装Matlab R2018a指南"
 date:   2023-07-30
 tags: [安装,Matlab,R2018a,MATLAB,Ubuntu]
 comments: true

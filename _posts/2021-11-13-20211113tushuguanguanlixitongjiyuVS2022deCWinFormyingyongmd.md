@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理系统 - 基于VS2022的C# WinForm应用"
+title: "图书馆管理系统  基于VS2022的C WinForm应用"
 date:   2020-06-04
 tags: [图书,数据库,C#,Visual,Studio]
 comments: true

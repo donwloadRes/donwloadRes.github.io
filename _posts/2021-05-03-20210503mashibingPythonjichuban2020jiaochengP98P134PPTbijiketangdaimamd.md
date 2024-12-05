@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马士兵Python基础版2020教程P98-P134PPT笔记+课堂代码"
+title: "马士兵Python基础版2020教程P98P134PPT笔记课堂代码"
 date:   2020-07-02
 tags: [Python,课堂,笔记,P98,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简数采集器Discuz免登录采集发布插件接口 - 支持论坛和门户"
+title: "简数采集器Discuz免登录采集发布插件接口  支持论坛和门户"
 date:   2022-05-15
 tags: [简数,Discuz,采集器,采集,插件]
 comments: true

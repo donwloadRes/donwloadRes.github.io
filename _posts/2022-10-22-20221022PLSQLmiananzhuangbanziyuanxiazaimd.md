@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL-SQL 免安装版资源下载"
+title: "PLSQL 免安装版资源下载"
 date:   2024-06-22
 tags: [PL,SQL,解压,安装版,TNS]
 comments: true

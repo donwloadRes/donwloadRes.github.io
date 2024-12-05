@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PreSonus Studio One 6.6 安装激活图文教程"
+title: "PreSonus Studio One 66 安装激活图文教程"
 date:   2023-05-19
 tags: [激活,Studio,6.6,教程,安装]
 comments: true

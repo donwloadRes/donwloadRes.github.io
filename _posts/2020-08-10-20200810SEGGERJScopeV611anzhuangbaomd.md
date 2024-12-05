@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEGGER J-Scope V6.11 安装包"
+title: "SEGGER JScope V611 安装包"
 date:   2020-06-20
 tags: [Scope,安装包,SEGGER,V6.11,MCU]
 comments: true

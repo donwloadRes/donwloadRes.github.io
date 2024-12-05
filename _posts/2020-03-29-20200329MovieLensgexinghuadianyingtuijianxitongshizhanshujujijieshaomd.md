@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MovieLens个性化电影推荐系统实战-数据集介绍"
+title: "MovieLens个性化电影推荐系统实战数据集介绍"
 date:   2022-05-21
 tags: [MovieLens,电影,数据,用户,评分]
 comments: true

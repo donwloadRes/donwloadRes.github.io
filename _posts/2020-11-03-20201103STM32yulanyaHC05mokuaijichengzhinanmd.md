@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32与蓝牙HC-05模块集成指南"
+title: "STM32与蓝牙HC05模块集成指南"
 date:   2022-10-16
 tags: [蓝牙,STM32,HC,05,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino配置ESP32开发环境（免运行get.exe）"
+title: "Arduino配置ESP32开发环境免运行getexe"
 date:   2022-06-07
 tags: [ESP32,Arduino,开发板,IDE,安装]
 comments: true

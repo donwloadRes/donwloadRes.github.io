@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP432学习笔记3：多路串口通信收发工程下载"
+title: "MSP432学习笔记3多路串口通信收发工程下载"
 date:   2024-09-22
 tags: [串口,收发,多路,MSP432,工程]
 comments: true

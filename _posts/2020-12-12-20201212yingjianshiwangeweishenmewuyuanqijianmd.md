@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件十万个为什么-无源器件"
+title: "硬件十万个为什么无源器件"
 date:   2024-10-18
 tags: [本书,硬件,十万个,无源,理论]
 comments: true

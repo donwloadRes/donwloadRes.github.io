@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D飞机操纵游戏源码(完整版)"
+title: "Unity3D飞机操纵游戏源码完整版"
 date:   2023-04-07
 tags: [源码,Unity,游戏,Unity3D,飞机]
 comments: true

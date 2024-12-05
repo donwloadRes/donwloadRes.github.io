@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB28181平台测试程序对接（上下级）下载"
+title: "GB28181平台测试程序对接上下级下载"
 date:   2020-03-28
 tags: [GB28181,对接,平台,测试程序,下载]
 comments: true

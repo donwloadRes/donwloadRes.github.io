@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Web 网页制作期末作业共享"
+title: "Web 网页制作期末作业共享
+date   20230502
+tags 网页WebHTMLCSSJavaScript
+comments true
+author admin
+
+
+layout post
+title Web 网页制作期末作业共享"
 date:   2023-05-02
 tags: [网页,Web,HTML,CSS,JavaScript]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Web 网页制作期末作业共享"
+title: "Web 网页制作期末作业共享
+date   20230502
+tags 网页WebHTMLCSSJavaScript
+comments true
+author admin
+
+
+layout post
+title Web 网页制作期末作业共享"
 date:   2020-12-14
 tags: [网页,Web,HTML,CSS,JavaScript]
 comments: true

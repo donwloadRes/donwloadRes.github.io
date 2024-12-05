@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT Creator快速入门第3版+源码高清PDF"
+title: "QT Creator快速入门第3版源码高清PDF"
 date:   2023-01-04
 tags: [Qt,源码,QT,Creator,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103模拟IIC程序（亲测可用）"
+title: "STM32F103模拟IIC程序亲测可用"
 date:   2022-05-03
 tags: [IIC,STM32F103,模拟,通信,程序]
 comments: true

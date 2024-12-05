@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新路由3 newifi-d2 刷breed web控制台教程"
+title: "新路由3 newifid2 刷breed web控制台教程"
 date:   2022-12-25
 tags: [路由器,控制台,breed,web,SSH]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenDDS官方用户手册（中英文版）下载"
+title: "OpenDDS官方用户手册中英文版下载"
 date:   2022-06-07
 tags: [OpenDDS,用户手册,Java,英文版,官方]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-基于TuShare的A股自动选股程序"
+title: "Python基于TuShare的A股自动选股程序"
 date:   2022-05-06
 tags: [选股,TuShare,A股,程序,自动]
 comments: true

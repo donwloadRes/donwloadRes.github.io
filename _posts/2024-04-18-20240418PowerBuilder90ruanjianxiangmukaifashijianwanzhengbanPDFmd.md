@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 9.0软件项目开发实践完整版(PDF)"
+title: "PowerBuilder 90软件项目开发实践完整版PDF"
 date:   2020-05-18
 tags: [应用程序,数据库,小结,9.0,设计]
 comments: true

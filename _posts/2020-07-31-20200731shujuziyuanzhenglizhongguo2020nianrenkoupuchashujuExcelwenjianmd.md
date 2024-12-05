@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据资源整理：中国2020年人口普查数据Excel文件"
+title: "数据资源整理中国2020年人口普查数据Excel文件"
 date:   2023-06-25
 tags: [数据,人口普查,2020,Excel,下载]
 comments: true

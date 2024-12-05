@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序签到弹窗(动画效果)"
+title: "微信小程序签到弹窗动画效果"
 date:   2021-08-01
 tags: [签到,弹窗,动画,--,示例]
 comments: true

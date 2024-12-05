@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13.56MHz RFID 天线设计及 HFSS 仿真教程"
+title: "1356MHz RFID 天线设计及 HFSS 仿真教程"
 date:   2023-06-22
 tags: [HFSS,天线,教程,仿真,RFID]
 comments: true

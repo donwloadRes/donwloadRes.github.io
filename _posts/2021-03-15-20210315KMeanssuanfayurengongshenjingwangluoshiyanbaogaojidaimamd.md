@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-Means算法与人工神经网络实验报告及代码"
+title: "KMeans算法与人工神经网络实验报告及代码"
 date:   2024-06-30
 tags: [实验报告,算法,实验,代码,Means]
 comments: true

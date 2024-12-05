@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rational Rose 7.0安装及科学使用教程"
+title: "Rational Rose 70安装及科学使用教程"
 date:   2021-04-29
 tags: [安装,教程,Rational,Rose,7.0]
 comments: true

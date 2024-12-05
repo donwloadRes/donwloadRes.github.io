@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3CSE-WLAN 最新题库资源介绍"
+title: "H3CSEWLAN 最新题库资源介绍"
 date:   2020-05-29
 tags: [题库,题型,H3CSE,WLAN,资源]
 comments: true

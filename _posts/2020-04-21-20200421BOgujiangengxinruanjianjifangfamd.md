@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B&O固件更新软件及方法"
+title: "BO固件更新软件及方法"
 date:   2022-05-22
 tags: [Beoplay,固件,更新,设备,软件]
 comments: true

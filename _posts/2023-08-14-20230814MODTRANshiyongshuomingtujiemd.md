@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODTRAN使用说明(图解)"
+title: "MODTRAN使用说明图解"
 date:   2021-02-27
 tags: [MODTRAN,图解,使用,大气,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四边面自动重布线拓扑工具 - Exoside QuadRemesher 1.0 for 3ds Max"
+title: "四边面自动重布线拓扑工具  Exoside QuadRemesher 10 for 3ds Max"
 date:   2024-08-08
 tags: [布线,3ds,Max,四边,拓扑]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# VLC播放RTSP流源码"
+title: "C VLC播放RTSP流源码"
 date:   2022-11-22
 tags: [RTSP,播放,源码,VLC,编译]
 comments: true

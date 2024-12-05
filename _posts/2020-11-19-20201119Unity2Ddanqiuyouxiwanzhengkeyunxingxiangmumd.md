@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity2D弹球游戏 - 完整可运行项目"
+title: "Unity2D弹球游戏  完整可运行项目"
 date:   2024-02-23
 tags: [游戏,Unity,弹球,2D,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGis制作中国地图（附实验数据）"
+title: "ArcGis制作中国地图附实验数据"
 date:   2023-03-05
 tags: [ArcGis,地图,精修,导入,数据]
 comments: true

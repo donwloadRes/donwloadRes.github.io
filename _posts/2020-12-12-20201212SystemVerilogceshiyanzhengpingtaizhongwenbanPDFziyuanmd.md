@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog测试验证平台（中文版）PDF资源"
+title: "SystemVerilog测试验证平台中文版PDF资源"
 date:   2020-12-27
 tags: [验证,SystemVerilog,测试,PDF,学习]
 comments: true

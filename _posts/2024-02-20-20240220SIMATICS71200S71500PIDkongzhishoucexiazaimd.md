@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMATIC S7-1200, S7-1500 PID 控制手册下载"
+title: "SIMATIC S71200 S71500 PID 控制手册下载"
 date:   2023-08-03
 tags: [S7,PID,手册,1200,SIMATIC]
 comments: true

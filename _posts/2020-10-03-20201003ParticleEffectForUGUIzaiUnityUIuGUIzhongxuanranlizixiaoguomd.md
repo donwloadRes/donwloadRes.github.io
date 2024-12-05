@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ParticleEffectForUGUI：在UnityUI（uGUI）中渲染粒子效果"
+title: "ParticleEffectForUGUI在UnityUIuGUI中渲染粒子效果"
 date:   2020-05-06
 tags: [uGUI,粒子,渲染,效果,遮罩]
 comments: true

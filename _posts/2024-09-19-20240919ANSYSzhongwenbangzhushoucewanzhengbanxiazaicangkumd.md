@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS中文帮助手册(完整版)下载仓库"
+title: "ANSYS中文帮助手册完整版下载仓库"
 date:   2021-08-13
 tags: [ANSYS,手册,完整版,中文,帮助]
 comments: true

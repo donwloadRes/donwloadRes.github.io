@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64 10.0.0 + GCC 12 百度云盘下载"
+title: "MinGWw64 1000  GCC 12 百度云盘下载"
 date:   2021-08-17
 tags: [MinGW,w64,GCC,12,10.0]
 comments: true

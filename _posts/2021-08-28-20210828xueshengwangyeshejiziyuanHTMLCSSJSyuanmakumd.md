@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生网页设计资源：HTML、CSS、JS 源码库"
+title: "学生网页设计资源HTMLCSSJS 源码库"
 date:   2021-11-08
 tags: [HTML,网页,CSS,源码,JavaScript]
 comments: true

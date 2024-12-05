@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ucrtbase.dll 修复文件"
+title: "ucrtbasedll 修复文件"
 date:   2022-01-06
 tags: [ucrtbase,dll,文件,修复,替换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ser2pl64.sys - 串口转USB关键驱动程序"
+title: "ser2pl64sys  串口转USB关键驱动程序"
 date:   2023-11-01
 tags: [驱动程序,sys,ser2pl64,USB,串口]
 comments: true

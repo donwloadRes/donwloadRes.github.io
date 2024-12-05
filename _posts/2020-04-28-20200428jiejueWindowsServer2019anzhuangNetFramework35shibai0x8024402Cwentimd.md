@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows Server 2019安装.Net Framework 3.5失败0x8024402C问题"
+title: "解决Windows Server 2019安装Net Framework 35失败0x8024402C问题"
 date:   2022-05-24
 tags: [Net,Framework,3.5,Windows,Server]
 comments: true

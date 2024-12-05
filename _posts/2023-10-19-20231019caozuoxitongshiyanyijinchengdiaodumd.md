@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统实验一: 进程调度"
+title: "操作系统实验一 进程调度"
 date:   2023-08-05
 tags: [进程,调度,运行,优先级,时间]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Flume 1.9.0 安装包"
+title: "Apache Flume 190 安装包"
 date:   2022-01-21
 tags: [Flume,Apache,1.9,conf,flume]
 comments: true

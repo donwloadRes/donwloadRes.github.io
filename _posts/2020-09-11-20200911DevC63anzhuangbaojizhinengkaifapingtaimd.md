@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 6.3 安装包及智能开发平台"
+title: "Dev C 63 安装包及智能开发平台"
 date:   2024-09-12
 tags: [C++,Dev,6.3,安装包,安装]
 comments: true

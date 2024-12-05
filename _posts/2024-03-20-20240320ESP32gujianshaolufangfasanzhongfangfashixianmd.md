@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32固件烧录方法（三种方法实现）"
+title: "ESP32固件烧录方法三种方法实现"
 date:   2023-01-02
 tags: [固件,烧录,ESP32,--,esptool]
 comments: true

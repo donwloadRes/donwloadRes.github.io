@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6.6.1 新功能及2024安装教程操作系统要求"
+title: "Studio One 661 新功能及2024安装教程操作系统要求"
 date:   2023-08-23
 tags: [Studio,6.6,2024,安装,制作]
 comments: true

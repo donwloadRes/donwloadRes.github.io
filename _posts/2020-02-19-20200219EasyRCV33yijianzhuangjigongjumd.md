@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyRCV 3.3 一键装机工具"
+title: "EasyRCV 33 一键装机工具"
 date:   2021-06-09
 tags: [装机,EasyRCV,3.3,一键,备份]
 comments: true

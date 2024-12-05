@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "McgsPro 3.3.6.7041 SP1.3 运行环境升级包"
+title: "McgsPro 3367041 SP13 运行环境升级包"
 date:   2023-09-28
 tags: [McgsPro,6.7041,升级,3.3,SP1.3]
 comments: true

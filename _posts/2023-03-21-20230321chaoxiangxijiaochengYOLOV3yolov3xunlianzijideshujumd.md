@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细教程：YOLO_V3（yolov3）训练自己的数据"
+title: "超详细教程YOLOV3yolov3训练自己的数据"
 date:   2022-01-03
 tags: [训练,教程,YOLOv3,数据,标注]
 comments: true

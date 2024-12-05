@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 6 升级 OpenSSH 9.8 最新版 (tar 包方式)"
+title: "CentOS 6 升级 OpenSSH 98 最新版 tar 包方式"
 date:   2024-06-25
 tags: [OpenSSH,升级,9.8,tar,最新版]
 comments: true

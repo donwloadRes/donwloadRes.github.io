@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "显微镜下的大明》电子书资源"
+title: "显微镜下的大明电子书资源"
 date:   2024-06-12
 tags: [大明,显微镜,资源,历史,链接]
 comments: true

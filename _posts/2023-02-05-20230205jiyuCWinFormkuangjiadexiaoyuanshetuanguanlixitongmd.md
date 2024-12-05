@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C# WinForm框架的校园社团管理系统"
+title: "基于C WinForm框架的校园社团管理系统"
 date:   2022-11-29
 tags: [社团,数据库,积分,C#,管理]
 comments: true

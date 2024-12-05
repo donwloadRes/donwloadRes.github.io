@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ Redistributable for Visual Studio 2019 资源文件"
+title: "Microsoft Visual C Redistributable for Visual Studio 2019 资源文件"
 date:   2020-08-01
 tags: [Visual,文件,资源,C++,Redistributable]
 comments: true

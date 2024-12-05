@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高清完整版！2022 吴恩达机器学习课程资源下载"
+title: "高清完整版2022 吴恩达机器学习课程资源下载"
 date:   2021-10-05
 tags: [学习,机器,PPT,课程,吴恩达]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点云库PCL学习教程（PDF版免费下载）"
+title: "点云库PCL学习教程PDF版免费下载"
 date:   2020-11-26
 tags: [PCL,点云,教程,点云库,配准]
 comments: true

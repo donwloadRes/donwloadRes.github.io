@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册（泰山版）PDF资源"
+title: "阿里巴巴Java开发手册泰山版PDF资源"
 date:   2020-07-16
 tags: [Java,手册,阿里巴巴,泰山,开发]
 comments: true

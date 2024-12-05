@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国矢量地图（SHP格式）下载"
+title: "中国矢量地图SHP格式下载"
 date:   2024-02-18
 tags: [SHP,矢量,下载,地图,格式]
 comments: true

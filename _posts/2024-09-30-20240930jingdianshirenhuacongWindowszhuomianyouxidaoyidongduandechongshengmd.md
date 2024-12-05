@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典食人花：从Windows桌面游戏到移动端的重生"
+title: "经典食人花从Windows桌面游戏到移动端的重生"
 date:   2023-08-14
 tags: [食人花,iOS,游戏,经典,存档]
 comments: true

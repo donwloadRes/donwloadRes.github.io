@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理》冈萨雷斯 中文+英文 PDF 资源"
+title: "数字图像处理冈萨雷斯 中文英文 PDF 资源"
 date:   2020-12-02
 tags: [数字图像处理,PDF,图像处理,图像,资源]
 comments: true

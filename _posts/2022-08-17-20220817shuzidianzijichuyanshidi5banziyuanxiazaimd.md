@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子基础(阎石第5版) 资源下载"
+title: "数字电子基础阎石第5版 资源下载"
 date:   2023-09-25
 tags: [教材,基础,数字,电子,下载]
 comments: true

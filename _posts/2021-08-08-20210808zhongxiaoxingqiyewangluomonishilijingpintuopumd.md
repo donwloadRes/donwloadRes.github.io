@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中小型企业网络模拟实例（精品拓扑）"
+title: "中小型企业网络模拟实例精品拓扑"
 date:   2022-01-23
 tags: [网络,拓扑,文件,VLAN,配置]
 comments: true

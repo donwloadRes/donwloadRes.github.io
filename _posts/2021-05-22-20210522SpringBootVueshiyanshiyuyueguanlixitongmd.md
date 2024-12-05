@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue实验室预约管理系统"
+title: "SpringBootVue实验室预约管理系统"
 date:   2020-07-18
 tags: [实验室,预约,项目,数据库,SpringBoot]
 comments: true

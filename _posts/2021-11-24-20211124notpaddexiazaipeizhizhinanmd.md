@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notpad++的下载配置指南"
+title: "notpad的下载配置指南"
 date:   2024-10-24
 tags: [++,插件,Notepad,下载,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理：原理、算法与应用资源下载"
+title: "数字信号处理原理算法与应用资源下载"
 date:   2021-04-04
 tags: [信号处理,数字,资源,算法,文件]
 comments: true

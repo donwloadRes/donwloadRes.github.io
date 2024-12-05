@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现IRIG-B（DC）码编码和解码的设计"
+title: "FPGA实现IRIGBDC码编码和解码的设计"
 date:   2024-09-13
 tags: [FPGA,IRIG,同步,解码,时钟]
 comments: true

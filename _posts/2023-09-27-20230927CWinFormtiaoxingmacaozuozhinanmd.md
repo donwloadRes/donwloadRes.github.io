@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 条形码操作指南"
+title: "C WinForm 条形码操作指南"
 date:   2020-07-05
 tags: [条形码,C#,WinForm,读取,生成]
 comments: true

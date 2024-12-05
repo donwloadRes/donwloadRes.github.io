@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达信号处理基础（英文版）资源下载"
+title: "雷达信号处理基础英文版资源下载"
 date:   2022-10-08
 tags: [雷达,信号处理,英文版,本书,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音信号处理（C++）课件及语音资源"
+title: "语音信号处理C课件及语音资源"
 date:   2021-09-18
 tags: [语音,信号处理,课件,C++,算法]
 comments: true

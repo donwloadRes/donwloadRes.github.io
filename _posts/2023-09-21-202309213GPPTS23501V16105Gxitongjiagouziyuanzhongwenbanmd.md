@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3GPP TS 23.501 V16.1.0 5G 系统架构资源中文版"
+title: "3GPP TS 23501 V1610 5G 系统架构资源中文版"
 date:   2022-07-26
 tags: [5G,架构,功能,网络,文档]
 comments: true

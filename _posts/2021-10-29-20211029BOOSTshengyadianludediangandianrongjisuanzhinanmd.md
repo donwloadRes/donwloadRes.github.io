@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BOOST 升压电路的电感、电容计算指南"
+title: "BOOST 升压电路的电感电容计算指南"
 date:   2024-04-02
 tags: [BOOST,升压,电感,电容,电路]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决 Windows 7 安装 .NET Framework 时证书链错误"
+title: "解决 Windows 7 安装 NET Framework 时证书链错误"
 date:   2024-05-06
 tags: [证书,点击,导入,Windows,NET]
 comments: true

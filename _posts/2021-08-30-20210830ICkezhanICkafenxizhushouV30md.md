@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC客栈-IC卡分析助手V3.0"
+title: "IC客栈IC卡分析助手V30"
 date:   2022-08-03
 tags: [IC卡,IC,V3.0,助手,客栈]
 comments: true

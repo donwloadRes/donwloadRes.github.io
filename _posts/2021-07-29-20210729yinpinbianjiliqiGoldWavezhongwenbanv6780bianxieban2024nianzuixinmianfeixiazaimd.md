@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音频编辑利器：GoldWave中文版v6.78.0 便携版 —— 2024年最新免费下载"
+title: "音频编辑利器GoldWave中文版v6780 便携版  2024年最新免费下载"
 date:   2023-05-17
 tags: [音频,音频编辑,GoldWave,便携,v6.78]
 comments: true

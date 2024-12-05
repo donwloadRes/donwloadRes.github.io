@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2556T eDP+LVDS显示芯片原理图下载"
+title: "RTD2556T eDPLVDS显示芯片原理图下载"
 date:   2021-08-20
 tags: [原理图,RTD2556T,eDP,LVDS,芯片]
 comments: true

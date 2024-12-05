@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为C&C++语言安全编程规范 V3.1"
+title: "华为CC语言安全编程规范 V31"
 date:   2022-11-10
 tags: [安全,编程,C++,规范,V3.1]
 comments: true

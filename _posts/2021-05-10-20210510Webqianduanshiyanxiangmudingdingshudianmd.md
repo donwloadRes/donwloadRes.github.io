@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web前端实验项目：叮叮书店"
+title: "Web前端实验项目叮叮书店"
 date:   2022-04-12
 tags: [项目,文件,书店,叮叮,Web]
 comments: true

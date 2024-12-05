@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "blinker-library-dev_3.0.zip"
+title: "blinkerlibrarydev30zip"
 date:   2021-07-11
 tags: [blinker,library,dev,3.0,zip]
 comments: true

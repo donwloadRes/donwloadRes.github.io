@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据Hive学习案例(2)——基于汽车销售的日志数据分析"
+title: "大数据Hive学习案例2基于汽车销售的日志数据分析"
 date:   2023-12-11
 tags: [Hive,数据,数据分析,案例,加载]
 comments: true

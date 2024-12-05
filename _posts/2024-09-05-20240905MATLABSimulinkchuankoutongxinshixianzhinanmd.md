@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-Simulink串口通信实现指南"
+title: "MATLABSimulink串口通信实现指南"
 date:   2023-09-29
 tags: [串口,Simulink,STM32,单片机,通信]
 comments: true

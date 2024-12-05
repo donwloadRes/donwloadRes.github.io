@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI 5.3 缺失 idl.dll 解决方法"
+title: "ENVI 53 缺失 idldll 解决方法"
 date:   2021-12-30
 tags: [dll,ENVI,5.3,idl,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核探秘：深入解析文件系统和设备驱动的架构与设计"
+title: "Linux内核探秘深入解析文件系统和设备驱动的架构与设计"
 date:   2023-01-26
 tags: [文件系统,Linux,内核,设备,驱动程序]
 comments: true

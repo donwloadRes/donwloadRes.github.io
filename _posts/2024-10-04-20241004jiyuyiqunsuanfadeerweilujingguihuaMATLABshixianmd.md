@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于蚁群算法的二维路径规划(MATLAB实现)"
+title: "基于蚁群算法的二维路径规划MATLAB实现"
 date:   2020-12-03
 tags: [路径,算法,规划,蚁群,MATLAB]
 comments: true

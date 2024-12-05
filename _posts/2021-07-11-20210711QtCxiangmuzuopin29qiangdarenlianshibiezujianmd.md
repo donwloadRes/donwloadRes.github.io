@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品29 - 强大人脸识别组件"
+title: "QtC项目作品29  强大人脸识别组件"
 date:   2020-05-30
 tags: [Qt,人脸识别,组件,29,嵌入式]
 comments: true

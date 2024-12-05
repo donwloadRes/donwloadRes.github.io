@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VECTOR CCP源码（CAN标定协议代码）"
+title: "VECTOR CCP源码CAN标定协议代码"
 date:   2021-07-04
 tags: [源码,CCP,标定,VECTOR,CANape]
 comments: true

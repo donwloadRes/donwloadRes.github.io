@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学 左孝凌-教材与习题解析-分享"
+title: "离散数学 左孝凌教材与习题解析分享"
 date:   2023-11-02
 tags: [离散数学,习题,教材,解析,左孝凌]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "外卖订餐软件分析文档(SD)1"
+title: "外卖订餐软件分析文档SD1"
 date:   2021-02-08
 tags: [订餐,外卖,文档,系统,分析]
 comments: true

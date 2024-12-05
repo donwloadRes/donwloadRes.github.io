@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git 2.40.0 最新安装包下载"
+title: "Git 2400 最新安装包下载"
 date:   2024-03-07
 tags: [安装包,Git,下载,32,64]
 comments: true

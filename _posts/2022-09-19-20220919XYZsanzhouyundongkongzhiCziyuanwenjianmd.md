@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XYZ三轴运动控制C#资源文件"
+title: "XYZ三轴运动控制C资源文件"
 date:   2021-02-01
 tags: [三轴,XYZ,C#,仓库,自动检测]
 comments: true

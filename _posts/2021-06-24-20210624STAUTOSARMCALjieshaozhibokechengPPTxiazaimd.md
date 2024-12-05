@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST AUTOSAR MCAL 介绍（直播课程PPT）下载"
+title: "ST AUTOSAR MCAL 介绍直播课程PPT下载"
 date:   2023-04-25
 tags: [MCAL,AUTOSAR,PPT,ST,直播]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适用于I219-v网卡的e1000e-3.8.4驱动程序及安装指南"
+title: "适用于I219v网卡的e1000e384驱动程序及安装指南"
 date:   2021-10-29
 tags: [网卡,I219,驱动,安装,e1000e]
 comments: true

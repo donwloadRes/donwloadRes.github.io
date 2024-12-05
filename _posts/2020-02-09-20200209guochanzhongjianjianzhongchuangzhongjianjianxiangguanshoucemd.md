@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产中间件-中创中间件相关手册"
+title: "国产中间件中创中间件相关手册"
 date:   2021-02-07
 tags: [中间件,中创,手册,国产,相关]
 comments: true

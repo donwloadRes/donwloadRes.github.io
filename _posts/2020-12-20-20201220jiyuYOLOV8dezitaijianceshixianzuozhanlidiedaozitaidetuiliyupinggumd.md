@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOV8的姿态检测：实现坐、站立、跌倒姿态的推理与评估"
+title: "基于YOLOV8的姿态检测实现坐站立跌倒姿态的推理与评估"
 date:   2020-07-23
 tags: [YOLOV8,姿态,模型,检测,跌倒]
 comments: true

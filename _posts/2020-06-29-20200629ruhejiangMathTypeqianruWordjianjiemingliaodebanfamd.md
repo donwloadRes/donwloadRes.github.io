@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何将MathType嵌入Word：简洁明了的办法"
+title: "如何将MathType嵌入Word简洁明了的办法"
 date:   2023-09-13
 tags: [MathType,Word,嵌入,加载,文档]
 comments: true

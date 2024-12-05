@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法的波束形成优化 - 仿真实践代码说明"
+title: "基于遗传算法的波束形成优化  仿真实践代码说明"
 date:   2021-02-24
 tags: [遗传算法,代码,波束,MATLAB,仿真]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CBAM注意力机制（MatLab代码实现）"
+title: "CBAM注意力机制MatLab代码实现"
 date:   2023-04-22
 tags: [CBAM,MatLab,注意力,仓库,机制]
 comments: true

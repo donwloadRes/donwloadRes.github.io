@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-通过Python脚本自动巡检网络设备"
+title: "Python通过Python脚本自动巡检网络设备"
 date:   2021-07-27
 tags: [巡检,网络设备,脚本,Python,邮件]
 comments: true

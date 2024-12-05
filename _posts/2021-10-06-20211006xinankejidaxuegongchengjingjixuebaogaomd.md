@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西南科技大学-工程经济学报告"
+title: "西南科技大学工程经济学报告"
 date:   2022-07-11
 tags: [报告,经济学,工程,仓库,下载]
 comments: true

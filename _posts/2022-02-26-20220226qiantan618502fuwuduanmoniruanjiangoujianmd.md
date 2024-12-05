@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浅谈-61850-2-服务端模拟软件构建"
+title: "浅谈618502服务端模拟软件构建"
 date:   2021-01-13
 tags: [服务端,61850,软件,IEC,模拟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能割草机专用标准 - IEC 60335-2-107 (第一版，2012)"
+title: "智能割草机专用标准  IEC 603352107 第一版2012"
 date:   2024-01-14
 tags: [标准,割草机,IEC,60335,107]
 comments: true

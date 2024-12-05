@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL DBA实战视频教程（2023完结新课）资源下载"
+title: "PostgreSQL DBA实战视频教程2023完结新课资源下载"
 date:   2021-06-25
 tags: [PostgreSQL,视频教程,DBA,2023,新课]
 comments: true

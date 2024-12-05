@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaFX+SpringBoot2.7+JDK17+Launch4j+InnoSetup实现JVMTI的Jar包加密-H2数据"
+title: "JavaFXSpringBoot27JDK17Launch4jInnoSetup实现JVMTI的Jar包加密H2数据"
 date:   2024-02-08
 tags: [加密,编译,Jar,JavaFX,序列号]
 comments: true

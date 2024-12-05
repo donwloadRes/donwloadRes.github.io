@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圆形标志点中心提取C++工程"
+title: "圆形标志点中心提取C工程"
 date:   2020-03-26
 tags: [标志点,C++,圆形,提取,编译]
 comments: true

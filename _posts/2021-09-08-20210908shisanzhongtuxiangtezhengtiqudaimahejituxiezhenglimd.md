@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十三种图像特征提取代码合集（吐血整理）"
+title: "十三种图像特征提取代码合集吐血整理"
 date:   2020-09-06
 tags: [特征提取,代码,合集,13,FAST]
 comments: true

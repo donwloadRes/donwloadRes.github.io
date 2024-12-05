@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD规范-MSL测试规范"
+title: "JESD规范MSL测试规范"
 date:   2022-05-17
 tags: [MSL,规范,JESD,测试,电子]
 comments: true

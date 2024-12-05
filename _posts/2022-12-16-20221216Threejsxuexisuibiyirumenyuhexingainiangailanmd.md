@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js学习随笔（一）—— 入门与核心概念概览"
+title: "Threejs学习随笔一 入门与核心概念概览"
 date:   2024-01-23
 tags: [Three,js,3D,随笔,场景]
 comments: true

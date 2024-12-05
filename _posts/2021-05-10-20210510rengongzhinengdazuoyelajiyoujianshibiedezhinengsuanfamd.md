@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能大作业：垃圾邮件识别的智能算法"
+title: "人工智能大作业垃圾邮件识别的智能算法"
 date:   2022-03-10
 tags: [垃圾邮件,模型,识别,数据,学习]
 comments: true

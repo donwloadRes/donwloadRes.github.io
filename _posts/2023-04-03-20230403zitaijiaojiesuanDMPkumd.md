@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "姿态角解算（DMP库）"
+title: "姿态角解算DMP库"
 date:   2020-08-30
 tags: [姿态,DMP,角解算,https,项目]
 comments: true

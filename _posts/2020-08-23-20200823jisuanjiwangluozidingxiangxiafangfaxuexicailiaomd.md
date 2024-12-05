@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络：自顶向下方法》学习材料"
+title: "计算机网络自顶向下方法学习材料"
 date:   2022-07-31
 tags: [计算机网络,习题,读者,自顶向下,学习]
 comments: true

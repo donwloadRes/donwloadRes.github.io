@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像增强-Retinex算法Matlab代码"
+title: "图像增强Retinex算法Matlab代码"
 date:   2020-09-15
 tags: [Matlab,代码,Retinex,算法,图像增强]
 comments: true

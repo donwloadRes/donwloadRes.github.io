@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "plcopen_motion_control 最新版"
+title: "plcopenmotioncontrol 最新版"
 date:   2023-04-04
 tags: [plcopen,motion,control,最新版,控制]
 comments: true

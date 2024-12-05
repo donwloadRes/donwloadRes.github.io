@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文字转语音app（tts-vue微软语音合成工具）"
+title: "文字转语音appttsvue微软语音合成工具"
 date:   2020-08-18
 tags: [语音,用户,vue,tts,合成]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050姿态解算STM32源码（卡尔曼滤波）"
+title: "MPU6050姿态解算STM32源码卡尔曼滤波"
 date:   2021-04-15
 tags: [源码,STM32,MPU6050,解算,卡尔曼滤波]
 comments: true

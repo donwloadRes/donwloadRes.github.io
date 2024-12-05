@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小二乘法拟合圆曲线（Matlab程序）"
+title: "最小二乘法拟合圆曲线Matlab程序"
 date:   2024-06-02
 tags: [拟合,Matlab,乘法,程序,最小]
 comments: true

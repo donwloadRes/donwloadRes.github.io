@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android实现自动点击 - 无障碍服务"
+title: "Android实现自动点击  无障碍服务"
 date:   2021-05-05
 tags: [无障碍,点击,Android,示例,自动]
 comments: true

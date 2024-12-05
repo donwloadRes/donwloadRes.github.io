@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Criminisi算法（图像修复）Matlab实现"
+title: "Criminisi算法图像修复Matlab实现"
 date:   2020-06-03
 tags: [Matlab,Criminisi,图像,算法,程序运行]
 comments: true

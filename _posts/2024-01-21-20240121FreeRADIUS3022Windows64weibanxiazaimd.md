@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRADIUS 3.0.22 Windows 64位版下载"
+title: "FreeRADIUS 3022 Windows 64位版下载"
 date:   2021-06-09
 tags: [FreeRADIUS,Windows,3.0,22,64]
 comments: true

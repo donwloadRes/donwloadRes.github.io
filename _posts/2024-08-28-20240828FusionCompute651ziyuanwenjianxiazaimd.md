@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FusionCompute 6.5.1 资源文件下载"
+title: "FusionCompute 651 资源文件下载"
 date:   2021-03-05
 tags: [FusionCompute,6.5,CNA,下载,文件]
 comments: true

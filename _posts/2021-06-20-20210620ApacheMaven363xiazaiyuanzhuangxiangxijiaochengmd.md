@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven 3.6.3 下载与安装详细教程"
+title: "Apache Maven 363 下载与安装详细教程"
 date:   2023-04-22
 tags: [Maven,maven,3.6,Apache,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信同步技术的MATLAB与FPGA实现——Xilinx_VHDL版"
+title: "数字通信同步技术的MATLAB与FPGA实现XilinxVHDL版"
 date:   2024-08-13
 tags: [MATLAB,FPGA,仿真,数字通信,同步]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Latex模板 - 由小小の灰色脑细胞提供"
+title: "Latex模板  由小小灰色脑细胞提供"
 date:   2022-02-06
 tags: [模板,文档,LaTeX,Latex,专业]
 comments: true

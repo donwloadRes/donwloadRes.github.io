@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 2.0 协议规范下载仓库"
+title: "PCI Express 20 协议规范下载仓库"
 date:   2023-09-19
 tags: [PCI,Express,2.0,规范,仓库]
 comments: true

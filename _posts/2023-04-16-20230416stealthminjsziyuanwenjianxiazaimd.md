@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stealth.min.js 资源文件下载"
+title: "stealthminjs 资源文件下载"
 date:   2022-06-17
 tags: [文件,stealth,min,js,浏览器]
 comments: true

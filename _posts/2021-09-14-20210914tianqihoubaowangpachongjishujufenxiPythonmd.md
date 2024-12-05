@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天气后报网爬虫及数据分析（Python）"
+title: "天气后报网爬虫及数据分析Python"
 date:   2022-12-14
 tags: [data,csv,爬虫,天气,文件]
 comments: true

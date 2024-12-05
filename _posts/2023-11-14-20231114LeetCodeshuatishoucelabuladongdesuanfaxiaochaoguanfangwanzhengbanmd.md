@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LeetCode 刷题手册 - labuladong的算法小抄官方完整版"
+title: "LeetCode 刷题手册  labuladong的算法小抄官方完整版"
 date:   2021-09-22
 tags: [算法,LeetCode,手册,labuladong,学习]
 comments: true

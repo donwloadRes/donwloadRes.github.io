@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马肯依玛士9410喷码机C#源码"
+title: "马肯依玛士9410喷码机C源码"
 date:   2022-09-15
 tags: [喷码机,源码,马肯,依玛士,9410]
 comments: true

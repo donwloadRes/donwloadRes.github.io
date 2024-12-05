@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Element UI 2.15.12 离线包下载"
+title: "Element UI 21512 离线包下载"
 date:   2021-02-18
 tags: [UI,Element,Vue,12,版本]
 comments: true

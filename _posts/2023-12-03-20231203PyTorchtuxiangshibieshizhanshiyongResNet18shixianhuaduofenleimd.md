@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch图像识别实战：使用ResNet18实现花朵分类"
+title: "PyTorch图像识别实战使用ResNet18实现花朵分类"
 date:   2022-08-01
 tags: [模型,PyTorch,ResNet18,训练,数据]
 comments: true

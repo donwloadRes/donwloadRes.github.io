@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康视觉平台 VM4.3 二次开发完整示例"
+title: "海康视觉平台 VM43 二次开发完整示例"
 date:   2022-08-31
 tags: [示例,二次开发,海康,视觉,流程]
 comments: true

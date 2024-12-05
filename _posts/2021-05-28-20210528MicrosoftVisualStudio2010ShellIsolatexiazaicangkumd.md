@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual Studio 2010 Shell(Isolate) 下载仓库"
+title: "Microsoft Visual Studio 2010 ShellIsolate 下载仓库"
 date:   2023-10-20
 tags: [Visual,Studio,2010,Shell,SQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "罗技G系列Lua API参考文档（中文版）"
+title: "罗技G系列Lua API参考文档中文版"
 date:   2022-04-26
 tags: [罗技,文档,API,Lua,编程]
 comments: true

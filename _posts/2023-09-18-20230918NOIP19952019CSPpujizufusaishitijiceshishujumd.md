@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NOIP（1995-2019）CSP普及组复赛试题及测试数据"
+title: "NOIP19952019CSP普及组复赛试题及测试数据"
 date:   2020-12-17
 tags: [试题,测试数据,复赛,NOIP,CSP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自定义下拉框：搜索、多选与全选功能"
+title: "自定义下拉框搜索多选与全选功能"
 date:   2020-04-02
 tags: [下拉框,自定义,全选,功能,多选]
 comments: true

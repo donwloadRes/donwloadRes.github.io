@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat for MySQL v11.0.10绿色版 解压可用"
+title: "Navicat for MySQL v11010绿色版 解压可用"
 date:   2021-11-16
 tags: [10,绿色版,解压,v11.0,Navicat]
 comments: true

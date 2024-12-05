@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 11.3 SuperObject 跨平台 JSON 处理单元"
+title: "Delphi 113 SuperObject 跨平台 JSON 处理单元"
 date:   2022-10-18
 tags: [Delphi,JSON,11.3,SuperObject,处理单元]
 comments: true

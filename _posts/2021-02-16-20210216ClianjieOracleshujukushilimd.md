@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接Oracle数据库实例"
+title: "C连接Oracle数据库实例"
 date:   2021-02-01
 tags: [数据库,Oracle,连接,确保,项目]
 comments: true

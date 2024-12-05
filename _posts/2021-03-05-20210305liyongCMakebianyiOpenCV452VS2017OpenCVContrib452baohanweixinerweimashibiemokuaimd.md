@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用CMake编译OpenCV 4.5.2 + VS2017 + OpenCV-Contrib 4.5.2（包含微信二维码识别模块）"
+title: "利用CMake编译OpenCV 452  VS2017  OpenCVContrib 452包含微信二维码识别模块"
 date:   2022-02-02
 tags: [OpenCV,4.5,微信,文件,模块]
 comments: true

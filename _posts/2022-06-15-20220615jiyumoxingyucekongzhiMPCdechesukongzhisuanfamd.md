@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型预测控制（MPC）的车速控制算法"
+title: "基于模型预测控制MPC的车速控制算法"
 date:   2022-11-30
 tags: [MPC,车速,控制,算法,控制算法]
 comments: true

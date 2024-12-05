@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华三交换机MIB库（标准和私有）"
+title: "华三交换机MIB库标准和私有"
 date:   2021-02-24
 tags: [MIB,交换机,监控,华三,SNMP]
 comments: true

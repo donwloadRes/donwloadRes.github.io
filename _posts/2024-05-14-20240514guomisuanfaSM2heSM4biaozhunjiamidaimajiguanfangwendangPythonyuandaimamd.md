@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密算法SM2和SM4标准加密代码及官方文档 (Python 源代码)"
+title: "国密算法SM2和SM4标准加密代码及官方文档 Python 源代码"
 date:   2020-11-22
 tags: [源码,文档,Python,官方,SM2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview按钮自定义控件素材（png图片）"
+title: "Labview按钮自定义控件素材png图片"
 date:   2024-06-24
 tags: [Labview,控件,按钮,素材,自定义]
 comments: true

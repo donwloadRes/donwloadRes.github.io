@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java中级程序员面试题(重点) 资源下载"
+title: "Java中级程序员面试题重点 资源下载"
 date:   2023-02-09
 tags: [Java,面试题,Spring,Boot,多线程]
 comments: true

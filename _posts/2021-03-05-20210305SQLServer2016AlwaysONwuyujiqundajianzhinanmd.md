@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2016+AlwaysON无域集群搭建指南"
+title: "SQL Server 2016AlwaysON无域集群搭建指南"
 date:   2021-01-20
 tags: [集群,无域,SQL,AlwaysON,Server]
 comments: true

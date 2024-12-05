@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS仿写京东页面附代码（web前端作业）"
+title: "HTMLCSS仿写京东页面附代码web前端作业"
 date:   2021-11-22
 tags: [页面,HTML,京东,CSS,仿写]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Air780E 硬件设计手册 V1.2.1 下载仓库"
+title: "Air780E 硬件设计手册 V121 下载仓库"
 date:   2020-08-16
 tags: [Air780E,硬件,V1.2,手册,设计]
 comments: true

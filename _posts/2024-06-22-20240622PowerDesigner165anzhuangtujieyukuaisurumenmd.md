@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner 16.5 安装图解与快速入门"
+title: "PowerDesigner 165 安装图解与快速入门"
 date:   2024-07-12
 tags: [PowerDesigner,数据模型,安装,数据库,16.5]
 comments: true

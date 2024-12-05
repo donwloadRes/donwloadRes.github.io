@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版Socket通信示例代码"
+title: "C版Socket通信示例代码"
 date:   2022-09-30
 tags: [代码,服务端,WebSocket,Socket,客户端]
 comments: true

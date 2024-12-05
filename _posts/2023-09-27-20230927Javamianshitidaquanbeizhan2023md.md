@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题大全（备战2023）"
+title: "Java面试题大全备战2023"
 date:   2024-03-13
 tags: [Java,Spring,讲解,常用,介绍]
 comments: true

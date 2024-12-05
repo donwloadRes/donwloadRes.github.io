@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF_snow_隐写工具"
+title: "CTFsnow隐写工具"
 date:   2022-12-24
 tags: [CTF,隐写,工具,snow,写术]
 comments: true

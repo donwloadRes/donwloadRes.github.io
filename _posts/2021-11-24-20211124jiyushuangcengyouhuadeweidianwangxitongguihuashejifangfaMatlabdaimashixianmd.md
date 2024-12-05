@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于双层优化的微电网系统规划设计方法（Matlab代码实现）"
+title: "基于双层优化的微电网系统规划设计方法Matlab代码实现"
 date:   2022-08-21
 tags: [Matlab,优化,系统,双层,电网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第1关: 8位可控加减法电路设计"
+title: "第1关 8位可控加减法电路设计"
 date:   2022-02-03
 tags: [电路设计,减法,加减法,电路,控制]
 comments: true

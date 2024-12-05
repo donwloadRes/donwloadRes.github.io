@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "办公室人员必备可视化图表大全(模板）"
+title: "办公室人员必备可视化图表大全模板"
 date:   2023-04-12
 tags: [图表,模板,设计,Excel,可视化]
 comments: true

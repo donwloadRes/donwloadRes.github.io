@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0 PIPE总线协议简介"
+title: "USB30 PIPE总线协议简介"
 date:   2023-08-24
 tags: [USB3.0,PIPE,总线,USB,协议]
 comments: true

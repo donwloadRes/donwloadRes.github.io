@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接西门子PLC源码"
+title: "C连接西门子PLC源码"
 date:   2024-09-13
 tags: [PLC,西门子,源码,S7,C#]
 comments: true

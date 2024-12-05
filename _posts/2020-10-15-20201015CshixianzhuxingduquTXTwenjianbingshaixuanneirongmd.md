@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 实现逐行读取TXT文件并筛选内容"
+title: "C 实现逐行读取TXT文件并筛选内容"
 date:   2024-02-26
 tags: [文件,TXT,std,筛选,读取]
 comments: true

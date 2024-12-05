@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB电流计算工具 - ProPCB"
+title: "PCB电流计算工具  ProPCB"
 date:   2023-01-07
 tags: [PCB,电流,工具,计算,设计]
 comments: true

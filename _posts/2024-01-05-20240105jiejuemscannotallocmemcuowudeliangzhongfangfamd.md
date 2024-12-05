@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决ms_cannot_allocmem错误的两种方法"
+title: "解决mscannotallocmem错误的两种方法"
 date:   2022-10-05
 tags: [ms,cannot,allocmem,图片格式,错误]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Swing + MySQL 简易图书管理系统"
+title: "Java Swing  MySQL 简易图书管理系统"
 date:   2021-03-24
 tags: [数据库,Java,管理系统,Swing,简易]
 comments: true

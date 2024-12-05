@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266开发板刷WI-PWN固件（WiFi杀手）详细教程"
+title: "ESP8266开发板刷WIPWN固件WiFi杀手详细教程"
 date:   2024-05-11
 tags: [固件,烧录,ESP8266,PWN,WI]
 comments: true

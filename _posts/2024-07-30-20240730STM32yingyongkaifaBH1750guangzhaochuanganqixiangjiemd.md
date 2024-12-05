@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32应用开发——BH1750光照传感器详解"
+title: "STM32应用开发BH1750光照传感器详解"
 date:   2020-03-19
 tags: [STM32,BH1750,测量,传感器,模式]
 comments: true

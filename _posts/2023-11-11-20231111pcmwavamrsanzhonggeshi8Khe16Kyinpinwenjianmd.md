@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pcm、wav、amr三种格式8K和16K音频文件"
+title: "pcmwavamr三种格式8K和16K音频文件"
 date:   2024-05-12
 tags: [语音,采样率,音频,音频文件,格式]
 comments: true

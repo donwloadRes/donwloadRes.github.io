@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人Robotstudio5.14搬运码垛仿真资源介绍"
+title: "ABB机器人Robotstudio514搬运码垛仿真资源介绍"
 date:   2020-07-04
 tags: [仿真,BB机,器人,Robotstudio,码垛]
 comments: true

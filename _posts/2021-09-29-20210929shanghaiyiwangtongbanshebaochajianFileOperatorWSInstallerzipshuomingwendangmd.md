@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上海一网通办 社保插件: FileOperatorWSInstaller.zip 说明文档"
+title: "上海一网通办 社保插件 FileOperatorWSInstallerzip 说明文档"
 date:   2022-11-24
 tags: [插件,一网通,社保,FileOperatorWSInstaller,zip]
 comments: true

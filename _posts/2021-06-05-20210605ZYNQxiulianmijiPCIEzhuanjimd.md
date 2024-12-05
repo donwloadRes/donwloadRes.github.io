@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ修炼秘籍：PCIE专辑"
+title: "ZYNQ修炼秘籍PCIE专辑"
 date:   2023-07-05
 tags: [ZYNQ,PCIE,专辑,秘籍,修炼]
 comments: true

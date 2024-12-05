@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC OPC UA通讯测试软件 - UaExpert-bin-win32-x86-vs2008sp1-v1.6.3-448"
+title: "西门子PLC OPC UA通讯测试软件  UaExpertbinwin32x86vs2008sp1v163448"
 date:   2020-02-12
 tags: [OPC,UA,PLC,软件,西门子]
 comments: true

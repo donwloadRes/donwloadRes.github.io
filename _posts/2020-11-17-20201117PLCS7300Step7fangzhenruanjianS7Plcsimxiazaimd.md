@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC S7-300 Step7 仿真软件 S7-Plcsim 下载"
+title: "PLC S7300 Step7 仿真软件 S7Plcsim 下载"
 date:   2020-03-05
 tags: [S7,Plcsim,PLC,Step7,32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘图：掌握图生图流程与derfuu插件在ComfyUI中的应用"
+title: "AI绘图掌握图生图流程与derfuu插件在ComfyUI中的应用"
 date:   2023-05-02
 tags: [图生,图像,插件,AI,derfuu]
 comments: true

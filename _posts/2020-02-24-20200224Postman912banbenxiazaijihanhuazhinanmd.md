@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postman 9.12 版本下载及汉化指南"
+title: "Postman 912 版本下载及汉化指南"
 date:   2022-08-23
 tags: [Postman,9.12,汉化,版本,汉化包]
 comments: true

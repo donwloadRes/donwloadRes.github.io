@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可爱的代打小猫：让你的电脑打字时与众不同"
+title: "可爱的代打小猫让你的电脑打字时与众不同"
 date:   2021-01-30
 tags: [小猫,软件,解压,可爱,代打]
 comments: true

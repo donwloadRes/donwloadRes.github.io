@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5+CSS实现猫眼界面资源下载"
+title: "HTML5CSS实现猫眼界面资源下载"
 date:   2024-04-26
 tags: [CSS,界面,文件,猫眼,HTML5]
 comments: true

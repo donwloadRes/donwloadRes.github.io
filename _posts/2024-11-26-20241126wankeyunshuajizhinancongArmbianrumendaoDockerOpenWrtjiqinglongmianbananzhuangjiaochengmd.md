@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩客云刷机指南：从Armbian入门到Docker、OpenWrt及青龙面板安装教程"
+title: "玩客云刷机指南从Armbian入门到DockerOpenWrt及青龙面板安装教程"
 date:   2020-04-08
 tags: [Docker,Armbian,---,教程,玩客]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 15622 2018 自适应巡航控制系统(ACC) 国际标准文档"
+title: "ISO 15622 2018 自适应巡航控制系统ACC 国际标准文档"
 date:   2021-02-03
 tags: [ACC,巡航,适应,文档,国际标准]
 comments: true

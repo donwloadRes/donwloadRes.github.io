@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow 1.x 和 TensorFlow 2.0 函数对比表"
+title: "TensorFlow 1x 和 TensorFlow 20 函数对比表"
 date:   2022-05-11
 tags: [TensorFlow,2.0,函数,对比,迁移]
 comments: true

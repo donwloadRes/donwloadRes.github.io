@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB HID读写源码"
+title: "C USB HID读写源码"
 date:   2022-09-18
 tags: [源码,USB,HID,C#,读写]
 comments: true

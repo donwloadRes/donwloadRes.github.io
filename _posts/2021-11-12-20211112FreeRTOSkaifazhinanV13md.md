@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS开发指南-V1.3"
+title: "FreeRTOS开发指南V13"
 date:   2022-07-19
 tags: [FreeRTOS,指南,V1.3,开发,开发者]
 comments: true

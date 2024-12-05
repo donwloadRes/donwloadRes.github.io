@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言在线聊天室（含群聊、私聊、发送文件等功能）"
+title: "C语言在线聊天室含群聊私聊发送文件等功能"
 date:   2023-09-30
 tags: [C语言,私聊,多线程,编程,客户端]
 comments: true

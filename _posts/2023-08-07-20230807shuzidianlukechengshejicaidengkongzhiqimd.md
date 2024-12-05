@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路课程设计——彩灯控制器"
+title: "数字电路课程设计彩灯控制器"
 date:   2024-05-10
 tags: [控制器,彩灯,数字电路,课程设计,数列]
 comments: true

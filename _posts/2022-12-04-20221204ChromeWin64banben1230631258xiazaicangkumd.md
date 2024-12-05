@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome Win64 版本 123.0.6312.58 下载仓库"
+title: "Chrome Win64 版本 1230631258 下载仓库"
 date:   2024-06-17
 tags: [123.0,6312.58,Windows,仓库,版本]
 comments: true

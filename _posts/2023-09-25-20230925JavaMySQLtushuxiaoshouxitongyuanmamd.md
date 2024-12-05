@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL图书销售系统源码"
+title: "JavaMySQL图书销售系统源码"
 date:   2023-05-25
 tags: [图书,商家,数据库,Java,MySQL]
 comments: true

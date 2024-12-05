@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus TCP-RTU基于C#的源码实现"
+title: "Modbus TCPRTU基于C的源码实现"
 date:   2021-11-04
 tags: [源码,Modbus,C#,NET,TCP]
 comments: true

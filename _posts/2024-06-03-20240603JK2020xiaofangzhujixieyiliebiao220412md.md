@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JK-2020消防主机协议列表_220412"
+title: "JK2020消防主机协议列表220412"
 date:   2023-09-26
 tags: [消防,JK,2020,协议,列表]
 comments: true

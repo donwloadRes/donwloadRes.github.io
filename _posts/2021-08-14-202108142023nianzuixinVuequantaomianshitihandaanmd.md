@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年最新Vue全套面试题（含答案）"
+title: "2023年最新Vue全套面试题含答案"
 date:   2024-09-23
 tags: [Vue,面试题,面试,资源,2023]
 comments: true

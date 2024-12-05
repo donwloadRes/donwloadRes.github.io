@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform TCP-UDP 通讯工具"
+title: "C Winform TCPUDP 通讯工具"
 date:   2020-08-23
 tags: [TCP,UDP,C#,客户端,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言经典程序100题(习题+答案)"
+title: "C语言经典程序100题习题答案"
 date:   2020-07-29
 tags: [C语言,题目,编程,100,习题]
 comments: true

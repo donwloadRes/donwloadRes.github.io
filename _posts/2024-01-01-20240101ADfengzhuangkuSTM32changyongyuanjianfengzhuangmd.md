@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD 封装库 - STM32 常用元件封装"
+title: "AD 封装库  STM32 常用元件封装"
 date:   2022-02-03
 tags: [封装,Altium,Designer,STM32,元件]
 comments: true

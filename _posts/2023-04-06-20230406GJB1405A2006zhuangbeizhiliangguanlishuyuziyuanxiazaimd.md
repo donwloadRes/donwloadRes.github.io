@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB1405A-2006装备质量管理术语资源下载"
+title: "GJB1405A2006装备质量管理术语资源下载"
 date:   2024-08-01
 tags: [术语,GJB1405A,2006,装备,质量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue图书管理系统答辩PPT"
+title: "SpringBootVue图书管理系统答辩PPT"
 date:   2021-08-04
 tags: [PPT,答辩,SpringBoot,Vue,图书]
 comments: true

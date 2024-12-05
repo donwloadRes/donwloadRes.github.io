@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#操作摄像头资源下载"
+title: "C操作摄像头资源下载"
 date:   2020-07-03
 tags: [C#,摄像头,资源,确保您,操作]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyEclipse 2019安装包（亲测可用）"
+title: "MyEclipse 2019安装包亲测可用"
 date:   2021-12-13
 tags: [MyEclipse,开发者,开发,Java,支持]
 comments: true

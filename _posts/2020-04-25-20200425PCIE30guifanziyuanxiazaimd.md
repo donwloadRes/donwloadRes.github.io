@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE 3.0规范资源下载"
+title: "PCIE 30规范资源下载"
 date:   2024-04-06
 tags: [PCIE,3.0,规范,文档,资源]
 comments: true

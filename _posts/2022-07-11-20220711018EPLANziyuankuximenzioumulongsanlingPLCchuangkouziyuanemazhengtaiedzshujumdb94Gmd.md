@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "018 EPLAN 资源库 西门子 欧姆龙 三菱PLC窗口资源 ema 正泰 edz 数据 mdb（94G）"
+title: "018 EPLAN 资源库 西门子 欧姆龙 三菱PLC窗口资源 ema 正泰 edz 数据 mdb94G"
 date:   2021-09-24
 tags: [资源库,PLC,欧姆龙,正泰,西门子]
 comments: true

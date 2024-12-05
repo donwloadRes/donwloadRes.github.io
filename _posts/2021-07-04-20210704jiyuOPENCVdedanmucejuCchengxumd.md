@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OPENCV的单目测距C++程序"
+title: "基于OPENCV的单目测距C程序"
 date:   2023-08-08
 tags: [相机,OpenCV,标定,单目,C++]
 comments: true

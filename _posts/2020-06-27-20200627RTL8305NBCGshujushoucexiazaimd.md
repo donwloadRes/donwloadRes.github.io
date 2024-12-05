@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8305NB-CG 数据手册下载"
+title: "RTL8305NBCG 数据手册下载"
 date:   2021-08-07
 tags: [RTL8305NB,手册,CG,芯片,下载]
 comments: true

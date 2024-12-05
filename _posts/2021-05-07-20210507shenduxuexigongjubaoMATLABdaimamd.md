@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习工具包（MATLAB代码）"
+title: "深度学习工具包MATLAB代码"
 date:   2023-12-30
 tags: [MATLAB,深度,学习,工具包,代码]
 comments: true

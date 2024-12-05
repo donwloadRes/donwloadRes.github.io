@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "省市区乡镇村五级数据区域编码数据库SQL脚本（含表结构）"
+title: "省市区乡镇村五级数据区域编码数据库SQL脚本含表结构"
 date:   2020-07-13
 tags: [SQL,数据库,脚本,省市区,五级]
 comments: true

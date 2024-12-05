@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pylon界面中文说明 - 德国Basler工业相机"
+title: "Pylon界面中文说明  德国Basler工业相机"
 date:   2021-02-08
 tags: [界面,Pylon,相机,Basler,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D点云资源：CloudCompare下载及指南"
+title: "3D点云资源CloudCompare下载及指南"
 date:   2023-12-30
 tags: [CloudCompare,点云,3D,安装包,工具]
 comments: true

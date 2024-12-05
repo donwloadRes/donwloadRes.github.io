@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最强音乐制作资源：FL Studio 24.0.99.4094中文版全面解析"
+title: "2024年最强音乐制作资源FL Studio 240994094中文版全面解析"
 date:   2020-09-29
 tags: [音乐,FL,Studio,制作,99.4094]
 comments: true

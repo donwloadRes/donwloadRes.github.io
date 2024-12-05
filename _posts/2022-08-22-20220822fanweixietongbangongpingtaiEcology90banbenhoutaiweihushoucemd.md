@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微协同办公平台E-cology9.0版本后台维护手册"
+title: "泛微协同办公平台Ecology90版本后台维护手册"
 date:   2022-02-14
 tags: [cology9.0,手册,泛微,后台,版本]
 comments: true

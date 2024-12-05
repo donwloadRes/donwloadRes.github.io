@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 无迹卡尔曼滤波（UKF）实现"
+title: "C 无迹卡尔曼滤波UKF实现"
 date:   2024-06-12
 tags: [代码,卡尔曼滤波,无迹,C++,编译]
 comments: true

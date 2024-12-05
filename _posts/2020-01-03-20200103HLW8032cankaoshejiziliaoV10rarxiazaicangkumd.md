@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HLW8032参考设计资料V10.rar 下载仓库"
+title: "HLW8032参考设计资料V10rar 下载仓库"
 date:   2021-08-13
 tags: [HLW8032,资料,调试程序,V10,rar]
 comments: true

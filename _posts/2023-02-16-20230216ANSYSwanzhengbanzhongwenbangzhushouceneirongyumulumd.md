@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS 完整版中文帮助手册 - 内容与目录"
+title: "ANSYS 完整版中文帮助手册  内容与目录"
 date:   2022-10-04
 tags: [ANSYS,手册,求解,完整版,载荷]
 comments: true

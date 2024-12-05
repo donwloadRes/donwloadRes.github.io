@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++跨平台插件实例"
+title: "C跨平台插件实例"
 date:   2024-05-16
 tags: [插件,跨平台,C++,机制,资源]
 comments: true

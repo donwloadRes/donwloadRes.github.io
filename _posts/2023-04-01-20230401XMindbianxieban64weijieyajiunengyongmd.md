@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XMind 便携版-64位-解压就能用"
+title: "XMind 便携版64位解压就能用"
 date:   2021-02-04
 tags: [解压,XMind,思维,64,导图]
 comments: true

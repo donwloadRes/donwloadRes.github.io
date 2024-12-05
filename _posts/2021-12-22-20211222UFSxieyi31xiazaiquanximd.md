@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UFS协议3.1下载全细"
+title: "UFS协议31下载全细"
 date:   2020-03-28
 tags: [UFS,3.1,协议,下载,文档]
 comments: true

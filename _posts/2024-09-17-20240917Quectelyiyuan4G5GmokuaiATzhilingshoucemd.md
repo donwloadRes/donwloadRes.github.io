@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel 移远4G-5G模块 AT指令手册"
+title: "Quectel 移远4G5G模块 AT指令手册"
 date:   2024-04-11
 tags: [手册,模块,移远,指令,Quectel]
 comments: true

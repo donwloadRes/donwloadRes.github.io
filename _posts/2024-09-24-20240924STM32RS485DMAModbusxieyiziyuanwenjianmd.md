@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+RS485+DMA+Modbus协议资源文件"
+title: "STM32RS485DMAModbus协议资源文件"
 date:   2021-02-02
 tags: [Modbus,从机,寄存器,读取,写入]
 comments: true

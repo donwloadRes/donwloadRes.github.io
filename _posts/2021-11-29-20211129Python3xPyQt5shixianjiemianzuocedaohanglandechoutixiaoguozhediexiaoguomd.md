@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.x + PyQt5 实现界面左侧导航栏的抽屉效果（折叠效果）"
+title: "Python3x  PyQt5 实现界面左侧导航栏的抽屉效果折叠效果"
 date:   2024-07-27
 tags: [界面,源代码,效果,导航,Python3]
 comments: true

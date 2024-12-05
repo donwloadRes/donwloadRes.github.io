@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt加载OsgEarth的新方式——osgQOpenGL简介"
+title: "Qt加载OsgEarth的新方式osgQOpenGL简介"
 date:   2024-04-08
 tags: [Qt,osg,osgQt,加载,OsgEarth]
 comments: true

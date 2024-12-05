@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "温度传感器DS18B20传感器单片机实验报告+程序+Proteus仿真资源"
+title: "温度传感器DS18B20传感器单片机实验报告程序Proteus仿真资源"
 date:   2020-11-27
 tags: [单片机,仿真,实验报告,温度传感器,Proteus]
 comments: true

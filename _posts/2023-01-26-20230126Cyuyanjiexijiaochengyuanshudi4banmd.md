@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言解析教程（原书第4版）"
+title: "C语言解析教程原书第4版"
 date:   2020-08-01
 tags: [C语言,学习,编程,示例,原书]
 comments: true

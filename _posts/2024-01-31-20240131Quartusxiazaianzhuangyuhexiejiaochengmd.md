@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus下载、安装与和谐教程"
+title: "Quartus下载安装与和谐教程"
 date:   2021-03-29
 tags: [Quartus,和谐,下载,安装,教程]
 comments: true

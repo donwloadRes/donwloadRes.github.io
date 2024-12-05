@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.11.1 中文帮助文档"
+title: "Qt 5111 中文帮助文档"
 date:   2022-04-13
 tags: [文档,Qt,5.11,中文,帮助]
 comments: true

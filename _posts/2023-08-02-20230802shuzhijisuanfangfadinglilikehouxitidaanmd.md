@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值计算方法》丁丽丽 课后习题答案"
+title: "数值计算方法丁丽丽 课后习题答案"
 date:   2022-01-08
 tags: [课后,习题,答案,计算方法,数值]
 comments: true

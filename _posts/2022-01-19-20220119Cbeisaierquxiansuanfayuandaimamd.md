@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#贝塞尔曲线算法源代码"
+title: "C贝塞尔曲线算法源代码"
 date:   2023-01-22
 tags: [曲线,贝塞尔,源代码,C#,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows 11下无法安装.NET Framework 3.5（包括.NET 2.0和3.0）"
+title: "解决Windows 11下无法安装NET Framework 35包括NET 20和30"
 date:   2024-03-21
 tags: [NET,安装,Windows,Framework,3.5]
 comments: true

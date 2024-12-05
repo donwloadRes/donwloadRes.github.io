@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络安全题库(67道)"
+title: "计算机网络安全题库67道"
 date:   2023-09-29
 tags: [题库,网络安全,67,题目,计算机]
 comments: true

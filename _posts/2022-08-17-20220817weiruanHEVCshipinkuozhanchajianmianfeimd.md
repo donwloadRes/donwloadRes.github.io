@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软HEVC视频扩展插件（免费）"
+title: "微软HEVC视频扩展插件免费"
 date:   2021-07-04
 tags: [HEVC,视频,插件,Windows,10]
 comments: true

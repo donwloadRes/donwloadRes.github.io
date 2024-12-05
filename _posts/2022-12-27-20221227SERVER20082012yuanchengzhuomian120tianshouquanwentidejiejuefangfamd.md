@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SERVER2008-2012远程桌面120天授权问题的解决方法"
+title: "SERVER20082012远程桌面120天授权问题的解决方法"
 date:   2024-02-13
 tags: [远程桌面,SERVER2008,2012,120,授权]
 comments: true

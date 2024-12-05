@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4 HAL库函数手册(英文版) 下载仓库"
+title: "STM32F4 HAL库函数手册英文版 下载仓库"
 date:   2020-04-04
 tags: [库函数,STM32F4,HAL,手册,英文版]
 comments: true

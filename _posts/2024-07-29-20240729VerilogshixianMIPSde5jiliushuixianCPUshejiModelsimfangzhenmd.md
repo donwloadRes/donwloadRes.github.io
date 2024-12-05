@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog实现MIPS的5级流水线CPU设计（Modelsim仿真）"
+title: "Verilog实现MIPS的5级流水线CPU设计Modelsim仿真"
 date:   2021-10-24
 tags: [仿真,Modelsim,MIPS,流水线,Verilog]
 comments: true

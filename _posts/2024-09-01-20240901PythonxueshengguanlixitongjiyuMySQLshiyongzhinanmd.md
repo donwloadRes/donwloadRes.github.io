@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学生管理系统（基于MySQL）使用指南"
+title: "Python学生管理系统基于MySQL使用指南"
 date:   2024-02-15
 tags: [MySQL,数据库,学生,Python,信息]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统概论（第5版）学习资源"
+title: "数据库系统概论第5版学习资源"
 date:   2023-10-06
 tags: [数据库系统,学习,课后,习题,详解]
 comments: true

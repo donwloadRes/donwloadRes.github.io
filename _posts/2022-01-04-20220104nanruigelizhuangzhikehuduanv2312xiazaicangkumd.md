@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南瑞隔离装置客户端v2.3.12 下载仓库"
+title: "南瑞隔离装置客户端v2312 下载仓库"
 date:   2024-04-01
 tags: [客户端,南瑞,隔离,v2.3,12]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "六轴机械臂运动学正、逆解及轨迹规划带源码"
+title: "六轴机械臂运动学正逆解及轨迹规划带源码"
 date:   2020-07-21
 tags: [轨迹,运动学,git,your,feature]
 comments: true

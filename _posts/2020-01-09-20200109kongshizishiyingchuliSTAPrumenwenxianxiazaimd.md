@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "空时自适应处理（STAP）入门文献下载"
+title: "空时自适应处理STAP入门文献下载"
 date:   2022-11-05
 tags: [STAP,空时,文献,适应,入门]
 comments: true

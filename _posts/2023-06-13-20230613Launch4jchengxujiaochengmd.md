@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launch4j程序+教程"
+title: "Launch4j程序教程"
 date:   2020-08-09
 tags: [Launch4j,Java,教程,exe,打包]
 comments: true

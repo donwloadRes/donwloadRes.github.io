@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NATAPP内网穿透：实现两个不同网段主机的连通"
+title: "NATAPP内网穿透实现两个不同网段主机的连通"
 date:   2024-07-05
 tags: [NATAPP,SSH,穿透,主机,远程]
 comments: true

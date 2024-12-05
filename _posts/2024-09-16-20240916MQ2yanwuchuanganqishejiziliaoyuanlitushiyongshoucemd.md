@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQ-2烟雾传感器设计资料原理图使用手册"
+title: "MQ2烟雾传感器设计资料原理图使用手册"
 date:   2023-03-17
 tags: [MQ,传感器,原理图,烟雾,使用手册]
 comments: true

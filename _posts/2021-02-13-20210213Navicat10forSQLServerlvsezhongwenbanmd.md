@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat 10 for SQL Server - 绿色中文版"
+title: "Navicat 10 for SQL Server  绿色中文版"
 date:   2020-06-26
 tags: [SQL,Server,数据库,解压,Navicat]
 comments: true

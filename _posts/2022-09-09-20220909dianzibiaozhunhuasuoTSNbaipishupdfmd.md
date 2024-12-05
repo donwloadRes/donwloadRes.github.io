@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子标准化所-TSN 白皮书.pdf"
+title: "电子标准化所TSN 白皮书pdf"
 date:   2020-10-04
 tags: [TSN,白皮书,标准化,pdf,技术]
 comments: true

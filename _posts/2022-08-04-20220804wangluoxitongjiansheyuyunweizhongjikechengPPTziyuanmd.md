@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络系统建设与运维（中级）课程PPT资源"
+title: "网络系统建设与运维中级课程PPT资源"
 date:   2020-04-01
 tags: [运维,网络系统,PPT,中级,课程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地震数据SEGY格式介绍及其查看分析（附示例地震数据）"
+title: "地震数据SEGY格式介绍及其查看分析附示例地震数据"
 date:   2021-12-26
 tags: [SEGY,格式,数据,地震,示例]
 comments: true

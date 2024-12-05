@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生静态网页大作业：仿新浪微博首页代码（HTML + CSS）"
+title: "学生静态网页大作业仿新浪微博首页代码HTML  CSS"
 date:   2024-11-23
 tags: [HTML,CSS,网页,代码,样式]
 comments: true

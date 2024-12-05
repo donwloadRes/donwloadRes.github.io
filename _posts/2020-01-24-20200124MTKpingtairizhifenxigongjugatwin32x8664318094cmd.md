@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK平台日志分析工具 gat-win32-x86_64-3.1809.4.c"
+title: "MTK平台日志分析工具 gatwin32x8664318094c"
 date:   2021-08-25
 tags: [MTK,日志,工具,gat,win32]
 comments: true

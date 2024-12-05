@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RFID原理与应用（第二版）资源下载"
+title: "RFID原理与应用第二版资源下载"
 date:   2021-10-16
 tags: [RFID,下载,应用,文件,rar]
 comments: true

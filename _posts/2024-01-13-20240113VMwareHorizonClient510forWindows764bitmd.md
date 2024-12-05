@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Horizon Client 5.1.0 for Windows 7 64-bit"
+title: "VMware Horizon Client 510 for Windows 7 64bit"
 date:   2023-06-26
 tags: [VMware,Horizon,Client,安装,5.1]
 comments: true

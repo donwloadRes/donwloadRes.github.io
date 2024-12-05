@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“神刊”CA再回巅峰！2024年JCR正式发布，共21848本期刊，附完整版EXCEL版下载！"
+title: "神刊CA再回巅峰2024年JCR正式发布共21848本期刊附完整版EXCEL版下载"
 date:   2022-05-20
 tags: [2024,JCR,EXCEL,文件,期刊]
 comments: true

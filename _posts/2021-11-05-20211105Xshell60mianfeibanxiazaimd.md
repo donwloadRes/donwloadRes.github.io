@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell-6.0免费版下载"
+title: "Xshell60免费版下载"
 date:   2022-02-04
 tags: [Xshell,6.0,免费版,服务器,下载]
 comments: true

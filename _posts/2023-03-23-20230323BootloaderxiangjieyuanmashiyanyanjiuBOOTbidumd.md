@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootloader详解(源码+实验)研究BOOT必读"
+title: "Bootloader详解源码实验研究BOOT必读"
 date:   2020-04-26
 tags: [BootLoader,Bootloader,编译,程序,操作系统]
 comments: true

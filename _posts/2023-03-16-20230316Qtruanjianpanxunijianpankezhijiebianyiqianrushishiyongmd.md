@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 软键盘（虚拟键盘） 可直接编译，嵌入式使用"
+title: "Qt 软键盘虚拟键盘 可直接编译嵌入式使用"
 date:   2020-12-07
 tags: [Qt,软键盘,嵌入式,编译,键盘]
 comments: true

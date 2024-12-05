@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理(MATLAB版) - 冈萨雷斯 中文高清版"
+title: "数字图像处理MATLAB版  冈萨雷斯 中文高清版"
 date:   2021-08-23
 tags: [数字图像处理,MATLAB,高清,冈萨雷斯,图像处理]
 comments: true

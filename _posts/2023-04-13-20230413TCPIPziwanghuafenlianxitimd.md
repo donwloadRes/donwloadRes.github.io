@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP子网划分练习题"
+title: "TCPIP子网划分练习题"
 date:   2023-03-27
 tags: [练习题,子网,TCP,IP,划分]
 comments: true

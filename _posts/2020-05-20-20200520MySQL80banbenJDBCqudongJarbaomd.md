@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0版本JDBC驱动Jar包"
+title: "MySQL 80版本JDBC驱动Jar包"
 date:   2023-12-31
 tags: [JDBC,MySQL,8.0,版本,驱动]
 comments: true

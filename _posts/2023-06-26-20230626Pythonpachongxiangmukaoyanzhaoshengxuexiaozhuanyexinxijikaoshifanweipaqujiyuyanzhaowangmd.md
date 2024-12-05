@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫项目：考研招生学校专业信息及考试范围爬取（基于研招网）"
+title: "Python爬虫项目考研招生学校专业信息及考试范围爬取基于研招网"
 date:   2021-04-05
 tags: [Python,爬取,考研,爬虫,考试]
 comments: true

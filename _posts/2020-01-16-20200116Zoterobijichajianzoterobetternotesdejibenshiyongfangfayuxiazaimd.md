@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero笔记插件zotero-better-notes的基本使用方法与下载"
+title: "Zotero笔记插件zoterobetternotes的基本使用方法与下载"
 date:   2024-09-17
 tags: [笔记,Zotero,同步,插件,zotero]
 comments: true

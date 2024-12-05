@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太原理工大学Web系统课程设计》资源下载"
+title: "太原理工大学Web系统课程设计资源下载"
 date:   2022-05-24
 tags: [课程设计,Web,资源,理工大学,仓库]
 comments: true

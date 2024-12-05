@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB基于遗传算法优化BP神经网络（GA-BP）的预测模型"
+title: "MATLAB基于遗传算法优化BP神经网络GABP的预测模型"
 date:   2024-06-04
 tags: [BP,模型,遗传算法,MATLAB,预测]
 comments: true

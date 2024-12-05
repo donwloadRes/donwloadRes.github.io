@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32实现PWM输出频率1kHz占空比50%的方波和呼吸灯"
+title: "STM32实现PWM输出频率1kHz占空比50的方波和呼吸灯"
 date:   2024-06-01
 tags: [TIM,GPIO,TIM3,PWM,TimeBaseStructure]
 comments: true

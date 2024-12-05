@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SATA协议总结_中文"
+title: "SATA协议总结中文"
 date:   2022-03-18
 tags: [SATA,协议,传输层,链路层,物理层]
 comments: true

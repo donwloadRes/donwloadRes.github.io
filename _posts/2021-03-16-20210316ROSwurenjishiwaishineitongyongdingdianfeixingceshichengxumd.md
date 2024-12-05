@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS无人机室外-室内通用定点飞行测试程序"
+title: "ROS无人机室外室内通用定点飞行测试程序"
 date:   2024-11-17
 tags: [无人机,飞行,ROS,室外,源码]
 comments: true

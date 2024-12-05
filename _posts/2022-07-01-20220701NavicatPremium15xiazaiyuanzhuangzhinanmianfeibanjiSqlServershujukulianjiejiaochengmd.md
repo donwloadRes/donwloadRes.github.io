@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 15 下载与安装指南（免费版）及SqlServer数据库连接教程"
+title: "Navicat Premium 15 下载与安装指南免费版及SqlServer数据库连接教程"
 date:   2023-12-21
 tags: [Navicat,SqlServer,安装,数据库,连接]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon的3D点云数据处理案例 - 基于Halcon与C#的深度实践"
+title: "Halcon的3D点云数据处理案例  基于Halcon与C的深度实践"
 date:   2021-03-18
 tags: [Halcon,3D,点云,C#,示例]
 comments: true

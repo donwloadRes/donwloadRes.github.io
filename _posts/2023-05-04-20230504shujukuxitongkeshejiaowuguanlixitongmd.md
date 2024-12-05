@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统课设——教务管理系统"
+title: "数据库系统课设教务管理系统"
 date:   2023-08-09
 tags: [课程,管理员,选课,教师,教务]
 comments: true

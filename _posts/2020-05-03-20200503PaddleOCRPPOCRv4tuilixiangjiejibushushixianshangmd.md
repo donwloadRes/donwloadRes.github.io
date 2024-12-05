@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PaddleOCR-PP-OCRv4推理详解及部署实现（上）"
+title: "PaddleOCRPPOCRv4推理详解及部署实现上"
 date:   2021-01-13
 tags: [PaddleOCR,PP,OCRv4,ONNX,模型]
 comments: true

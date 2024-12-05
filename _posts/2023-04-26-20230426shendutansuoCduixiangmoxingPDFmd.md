@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度探索C++对象模型 PDF"
+title: "深度探索C对象模型 PDF"
 date:   2024-02-03
 tags: [C++,对象,PDF,模型,内存]
 comments: true

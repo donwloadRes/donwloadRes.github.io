@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 U-Net 网络的遥感图像语义分割 - 郭子睿1"
+title: "基于 UNet 网络的遥感图像语义分割  郭子睿1"
 date:   2020-06-08
 tags: [分割,网络,图像,遥感,Net]
 comments: true

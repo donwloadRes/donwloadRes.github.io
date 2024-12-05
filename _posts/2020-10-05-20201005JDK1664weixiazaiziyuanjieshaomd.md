@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.6 64位下载资源介绍"
+title: "JDK 16 64位下载资源介绍"
 date:   2022-06-12
 tags: [Java,JDK,1.6,64,版本]
 comments: true

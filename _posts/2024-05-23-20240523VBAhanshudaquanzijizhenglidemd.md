@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA函数大全(自己整理的)"
+title: "VBA函数大全自己整理的"
 date:   2023-07-20
 tags: [VBA,函数,大全,整理,文件]
 comments: true

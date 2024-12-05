@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mysql数据库课程设计作业-机票预订系统"
+title: "Mysql数据库课程设计作业机票预订系统"
 date:   2022-08-19
 tags: [数据库,机票,预订,课程设计,视图]
 comments: true

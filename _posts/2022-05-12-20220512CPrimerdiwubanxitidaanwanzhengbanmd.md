@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 第五版习题答案(完整版)"
+title: "C Primer 第五版习题答案完整版"
 date:   2023-01-08
 tags: [习题,C++,答案,第五版,Primer]
 comments: true

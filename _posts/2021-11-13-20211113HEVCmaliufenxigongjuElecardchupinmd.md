@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEVC 码流分析工具（Elecard出品）"
+title: "HEVC 码流分析工具Elecard出品"
 date:   2020-05-08
 tags: [HEVC,码流,工具,Elecard,GitHub]
 comments: true

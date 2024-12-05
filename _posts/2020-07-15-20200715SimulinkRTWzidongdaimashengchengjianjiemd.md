@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink —— RTW自动代码生成简介"
+title: "Simulink  RTW自动代码生成简介"
 date:   2023-06-09
 tags: [代码生成,RTW,Simulink,代码,文档]
 comments: true

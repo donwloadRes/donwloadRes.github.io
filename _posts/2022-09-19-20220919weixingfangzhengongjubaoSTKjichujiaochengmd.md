@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卫星仿真工具包-STK基础教程"
+title: "卫星仿真工具包STK基础教程"
 date:   2020-12-29
 tags: [STK,软件,卫星,航天,应用]
 comments: true

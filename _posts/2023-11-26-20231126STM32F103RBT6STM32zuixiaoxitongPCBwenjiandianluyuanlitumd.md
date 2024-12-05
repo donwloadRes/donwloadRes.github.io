@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103RBT6 STM32最小系统 - PCB文件+电路原理图"
+title: "STM32F103RBT6 STM32最小系统  PCB文件电路原理图"
 date:   2022-09-29
 tags: [PCB,原理图,STM32F103RBT6,STM32,文件]
 comments: true

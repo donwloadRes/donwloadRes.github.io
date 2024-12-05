@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWVS安装与使用指南（最新版2022.12.27更新）"
+title: "AWVS安装与使用指南最新版20221227更新"
 date:   2021-02-12
 tags: [AWVS,安装,用户,Web,扫描]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的智能小车作品（循迹避障蓝牙）（上）"
+title: "基于STM32的智能小车作品循迹避障蓝牙上"
 date:   2020-04-24
 tags: [蓝牙,STM32,小车,循迹,避障]
 comments: true

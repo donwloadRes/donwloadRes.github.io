@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米8刷入Magisk 24.0并安装riru和EdXposed之刷机指南"
+title: "小米8刷入Magisk 240并安装riru和EdXposed之刷机指南"
 date:   2020-09-22
 tags: [刷入,Magisk,教程,24.0,刷机]
 comments: true

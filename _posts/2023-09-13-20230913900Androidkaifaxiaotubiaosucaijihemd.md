@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "900+ Android开发小图标素材集合"
+title: "900 Android开发小图标素材集合"
 date:   2021-10-19
 tags: [图标,Android,900,小图标,素材]
 comments: true

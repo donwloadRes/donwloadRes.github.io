@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kernel-Pandora-GKI-5.15-Beta9 内核下载"
+title: "KernelPandoraGKI515Beta9 内核下载"
 date:   2022-10-09
 tags: [内核,Pandora,GKI,5.15,Kernel]
 comments: true

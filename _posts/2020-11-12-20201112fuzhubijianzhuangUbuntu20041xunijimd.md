@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "辅助笔记-安装Ubuntu 20.04.1虚拟机"
+title: "辅助笔记安装Ubuntu 20041虚拟机"
 date:   2022-05-20
 tags: [虚拟机,Ubuntu,笔记,安装,VMware]
 comments: true

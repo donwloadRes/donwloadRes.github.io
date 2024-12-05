@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP 28035例程 ( SXD28035A) 资源下载"
+title: "DSP 28035例程  SXD28035A 资源下载"
 date:   2021-12-31
 tags: [例程,DSP,28035,SXD28035A,芯片]
 comments: true

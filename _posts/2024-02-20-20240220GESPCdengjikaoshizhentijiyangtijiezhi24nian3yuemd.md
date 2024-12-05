@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GESP C++ 等级考试真题及样题（截止24年3月）"
+title: "GESP C 等级考试真题及样题截止24年3月"
 date:   2020-04-07
 tags: [真题,样题,GESP,C++,考试]
 comments: true

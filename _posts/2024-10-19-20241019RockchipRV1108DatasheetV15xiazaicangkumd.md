@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rockchip RV1108 Datasheet V1.5 下载仓库"
+title: "Rockchip RV1108 Datasheet V15 下载仓库"
 date:   2023-09-08
 tags: [RV1108,V1.5,Rockchip,开发人员,手册]
 comments: true

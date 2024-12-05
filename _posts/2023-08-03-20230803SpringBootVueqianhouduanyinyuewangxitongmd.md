@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + Vue 前后端音乐网系统"
+title: "SpringBoot  Vue 前后端音乐网系统"
 date:   2023-12-17
 tags: [SpringBoot,Vue,音乐网,前后,前端]
 comments: true

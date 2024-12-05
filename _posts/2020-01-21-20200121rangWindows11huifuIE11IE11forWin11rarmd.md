@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "让Windows 11恢复IE 11：IE11_for_Win11.rar"
+title: "让Windows 11恢复IE 11IE11forWin11rar"
 date:   2024-10-15
 tags: [11,Windows,IE,Win11,rar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5系列教程二：基于qcustomplot的QT5 GUI串口收发绘图软件实现"
+title: "QT5系列教程二基于qcustomplot的QT5 GUI串口收发绘图软件实现"
 date:   2024-02-02
 tags: [串口,QT5,qcustomplot,绘图,接收数据]
 comments: true

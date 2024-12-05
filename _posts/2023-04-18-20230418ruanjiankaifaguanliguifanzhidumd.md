@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发管理规范(制度)"
+title: "软件开发管理规范制度"
 date:   2024-12-03
 tags: [软件开发,团队,规范,管理,文档]
 comments: true

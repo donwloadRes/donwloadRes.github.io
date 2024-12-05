@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CelebA-HQ数据集下载指南"
+title: "CelebAHQ数据集下载指南"
 date:   2022-09-11
 tags: [img,数据,图像,celeba.7,下载]
 comments: true

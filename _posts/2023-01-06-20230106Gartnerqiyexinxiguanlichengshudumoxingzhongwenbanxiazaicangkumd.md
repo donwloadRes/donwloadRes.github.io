@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gartner企业信息管理成熟度模型（中文版）下载仓库"
+title: "Gartner企业信息管理成熟度模型中文版下载仓库"
 date:   2020-04-11
 tags: [信息管理,Gartner,成熟度,模型,中文版]
 comments: true

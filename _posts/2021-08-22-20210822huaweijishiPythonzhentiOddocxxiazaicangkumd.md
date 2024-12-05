@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为机试（Python）真题Od.docx 下载仓库"
+title: "华为机试Python真题Oddocx 下载仓库"
 date:   2021-04-17
 tags: [机试,华为,Python,真题,docx]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学习记录：使用TensorFlow 2.8完成猫狗识别"
+title: "Python学习记录使用TensorFlow 28完成猫狗识别"
 date:   2024-04-03
 tags: [模型,训练,Python,使用,TensorFlow]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNKI文献题录识别提取插件 - Zotero插件"
+title: "CNKI文献题录识别提取插件  Zotero插件"
 date:   2020-05-10
 tags: [插件,Zotero,CNKI,文献,题录]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType数学公式编辑器 v7.7.1.258 特别版介绍"
+title: "MathType数学公式编辑器 v771258 特别版介绍"
 date:   2020-05-18
 tags: [MathType,数学公式,v7.7,1.258,公式]
 comments: true

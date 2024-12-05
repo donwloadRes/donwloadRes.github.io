@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R3300L, Q7 SlimBoxTV-ATV Android9固件 README"
+title: "R3300L Q7 SlimBoxTVATV Android9固件 README"
 date:   2023-05-17
 tags: [固件,刷机,R3300L,Q7,Google]
 comments: true

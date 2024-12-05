@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "佐思汽研-汽车智能座舱白皮书（2021）"
+title: "佐思汽研汽车智能座舱白皮书2021"
 date:   2021-01-14
 tags: [座舱,智能,2.9,HUD,AR]
 comments: true

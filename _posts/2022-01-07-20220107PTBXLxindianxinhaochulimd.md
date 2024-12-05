@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTB-XL心电信号处理"
+title: "PTBXL心电信号处理"
 date:   2023-11-17
 tags: [PTB,XL,数据,预处理,心电图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.1 Berlin FireDAC 数据库开发手册 高清版 V2017-05-12"
+title: "Delphi 101 Berlin FireDAC 数据库开发手册 高清版 V20170512"
 date:   2020-04-05
 tags: [Delphi,FireDAC,手册,10.1,Berlin]
 comments: true

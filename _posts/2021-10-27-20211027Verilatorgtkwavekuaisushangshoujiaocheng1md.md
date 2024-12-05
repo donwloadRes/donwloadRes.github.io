@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilator+gtkwave快速上手教程1"
+title: "Verilatorgtkwave快速上手教程1"
 date:   2022-12-06
 tags: [gtkwave,仿真,Verilator,文件,Verilog]
 comments: true

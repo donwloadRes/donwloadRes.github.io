@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用TIBCO中间件通信：发送、接收"
+title: "C 使用TIBCO中间件通信发送接收"
 date:   2022-09-10
 tags: [TIBCO,EMS,C#,中间件,session]
 comments: true

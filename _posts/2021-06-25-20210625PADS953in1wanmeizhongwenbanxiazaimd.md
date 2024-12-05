@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS9.5_3in1 完美中文版下载"
+title: "PADS953in1 完美中文版下载"
 date:   2024-04-01
 tags: [PADS9.5,中文版,安装,3in1,完美]
 comments: true

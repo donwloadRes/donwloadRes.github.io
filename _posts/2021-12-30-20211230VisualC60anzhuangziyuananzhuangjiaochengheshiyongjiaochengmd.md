@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0 安装资源、安装教程和使用教程"
+title: "Visual C 60 安装资源安装教程和使用教程"
 date:   2020-10-13
 tags: [C++,Visual,6.0,教程,安装]
 comments: true

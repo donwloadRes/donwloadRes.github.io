@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人3D模型：6轴机械臂SolidWorks文件"
+title: "机器人3D模型6轴机械臂SolidWorks文件"
 date:   2022-07-18
 tags: [SolidWorks,模型,3D,机械,设计]
 comments: true

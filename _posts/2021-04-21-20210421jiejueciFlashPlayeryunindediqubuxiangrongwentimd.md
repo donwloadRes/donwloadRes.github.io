@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“此Flash Player与您的地区不相容”问题"
+title: "解决此Flash Player与您的地区不相容问题"
 date:   2023-12-11
 tags: [Flash,Player,29.0,版本,卸载]
 comments: true

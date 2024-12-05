@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5模型训练自己的数据集—动物检测"
+title: "YOLOv5模型训练自己的数据集动物检测"
 date:   2020-12-02
 tags: [训练,模型,YOLOv5,推理,评估]
 comments: true

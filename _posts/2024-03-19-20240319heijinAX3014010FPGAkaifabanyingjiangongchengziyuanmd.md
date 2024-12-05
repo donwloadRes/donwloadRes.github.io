@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑金AX301-4010FPGA开发板硬件工程资源"
+title: "黑金AX3014010FPGA开发板硬件工程资源"
 date:   2023-08-01
 tags: [开发板,硬件,文件,PCB,原理图]
 comments: true

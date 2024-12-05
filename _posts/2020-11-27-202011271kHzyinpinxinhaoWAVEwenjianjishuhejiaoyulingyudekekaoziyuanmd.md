@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1 kHz 音频信号 WAVE 文件：技术和教育领域的可靠资源"
+title: "1 kHz 音频信号 WAVE 文件技术和教育领域的可靠资源"
 date:   2022-02-13
 tags: [kHz,音频,信号,WAVE,文件]
 comments: true

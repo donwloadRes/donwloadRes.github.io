@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用ENVI 5.3读取哨兵2号数据教程"
+title: "利用ENVI 53读取哨兵2号数据教程"
 date:   2023-10-30
 tags: [ENVI,5.3,哨兵,教程,数据]
 comments: true

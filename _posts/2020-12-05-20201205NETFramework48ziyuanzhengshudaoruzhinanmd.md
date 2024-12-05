@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.8 资源证书导入指南"
+title: "NET Framework 48 资源证书导入指南"
 date:   2020-12-22
 tags: [证书,导入,点击,NET,Framework]
 comments: true

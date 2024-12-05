@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FinalShell便携绿化版：高效远程管理工具"
+title: "FinalShell便携绿化版高效远程管理工具"
 date:   2022-05-23
 tags: [服务器,FinalShell,SSH,远程桌面,解压]
 comments: true

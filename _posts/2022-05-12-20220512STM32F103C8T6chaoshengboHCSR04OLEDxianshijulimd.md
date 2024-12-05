@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 超声波HCSR04+OLED显示距离"
+title: "STM32F103C8T6 超声波HCSR04OLED显示距离"
 date:   2024-09-22
 tags: [OLED,超声波,STM32F103C8T6,传感器,HCSR04]
 comments: true

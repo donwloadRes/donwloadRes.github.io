@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版 Windows JDK 11.0.22 下载"
+title: "最新版 Windows JDK 11022 下载"
 date:   2023-05-28
 tags: [JDK,Java,22,11.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超市管理系统 - VS2019 + WinForm + SQL Server"
+title: "超市管理系统  VS2019  WinForm  SQL Server"
 date:   2021-10-07
 tags: [超市,管理员,SQL,Server,密码]
 comments: true

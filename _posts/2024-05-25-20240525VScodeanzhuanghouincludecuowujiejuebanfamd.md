@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode 安装后 #include 错误解决办法"
+title: "VScode 安装后 include 错误解决办法"
 date:   2022-05-08
 tags: [VScode,include,错误,C++,MinGW]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 高级篇笔记（P96-P199）"
+title: "MySQL 高级篇笔记P96P199"
 date:   2020-03-31
 tags: [MySQL,笔记,P96,P199,高级]
 comments: true

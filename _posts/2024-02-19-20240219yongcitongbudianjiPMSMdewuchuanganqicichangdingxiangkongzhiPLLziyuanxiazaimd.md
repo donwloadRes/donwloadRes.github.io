@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机（PMSM）的无传感器磁场定向控制+PLL资源下载"
+title: "永磁同步电机PMSM的无传感器磁场定向控制PLL资源下载"
 date:   2021-02-22
 tags: [PLL,PMSM,传感器,磁场,定向]
 comments: true

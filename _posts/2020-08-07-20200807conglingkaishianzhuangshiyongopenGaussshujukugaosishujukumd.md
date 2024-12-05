@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始安装使用openGauss数据库（高斯数据库）"
+title: "从零开始安装使用openGauss数据库高斯数据库"
 date:   2024-07-01
 tags: [数据库,openGauss,虚拟机,Docker,安装]
 comments: true

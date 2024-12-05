@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现小游戏——植物大战僵尸（魔改版本）"
+title: "Python实现小游戏植物大战僵尸魔改版本"
 date:   2021-08-22
 tags: [Python,游戏,僵尸,pygame,小游戏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD卡读写与FATFS文件系统移植（SPI模式）"
+title: "SD卡读写与FATFS文件系统移植SPI模式"
 date:   2021-08-16
 tags: [SD,FATFS,SPI,文件系统,STM32F4]
 comments: true

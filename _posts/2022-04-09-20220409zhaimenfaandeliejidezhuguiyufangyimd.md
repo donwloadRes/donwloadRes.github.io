@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "窄门 - [法] 安德烈·纪德 著 | 桂裕芳 译"
+title: "窄门  法 安德烈纪德 著  桂裕芳 译"
 date:   2023-05-05
 tags: [窄门,纪德,安德烈,上海译文出版社,热罗姆]
 comments: true

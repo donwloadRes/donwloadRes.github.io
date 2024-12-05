@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉SLAM十四讲(高翔第二版) 资源下载"
+title: "视觉SLAM十四讲高翔第二版 资源下载"
 date:   2022-03-04
 tags: [SLAM,视觉,高翔,算法,书中]
 comments: true

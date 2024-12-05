@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "aPC Matlab工具箱：数据驱动的任意多项式混沌扩展"
+title: "aPC Matlab工具箱数据驱动的任意多项式混沌扩展"
 date:   2024-01-05
 tags: [工具箱,aPC,扩展,多项式,任意]
 comments: true

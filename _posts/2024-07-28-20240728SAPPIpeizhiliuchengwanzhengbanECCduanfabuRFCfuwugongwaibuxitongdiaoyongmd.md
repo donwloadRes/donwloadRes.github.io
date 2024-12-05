@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP PI配置流程完整版（ECC端发布RFC服务供外部系统调用）"
+title: "SAP PI配置流程完整版ECC端发布RFC服务供外部系统调用"
 date:   2024-07-03
 tags: [RFC,PI,SAP,ECC,配置]
 comments: true

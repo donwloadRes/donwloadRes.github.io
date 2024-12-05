@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pyth数学实验与建模（司守奎）程序及数据"
+title: "pyth数学实验与建模司守奎程序及数据"
 date:   2024-12-03
 tags: [程序,建模,实验,数学,书中]
 comments: true

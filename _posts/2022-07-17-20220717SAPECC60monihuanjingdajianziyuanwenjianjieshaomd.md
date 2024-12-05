@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP ECC 6.0模拟环境搭建资源文件介绍"
+title: "SAP ECC 60模拟环境搭建资源文件介绍"
 date:   2021-10-15
 tags: [SAP,ECC,6.0,文件,模拟]
 comments: true

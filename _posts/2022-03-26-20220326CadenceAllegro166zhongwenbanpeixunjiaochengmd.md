@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 中文版培训教程"
+title: "Cadence Allegro 166 中文版培训教程"
 date:   2023-10-28
 tags: [教程,Cadence,Allegro,16.6,中文版]
 comments: true

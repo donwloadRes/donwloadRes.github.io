@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.15.4z-2020 标准下载仓库"
+title: "IEEE 802154z2020 标准下载仓库"
 date:   2022-04-28
 tags: [IEEE,4z,2020,802.15,标准]
 comments: true

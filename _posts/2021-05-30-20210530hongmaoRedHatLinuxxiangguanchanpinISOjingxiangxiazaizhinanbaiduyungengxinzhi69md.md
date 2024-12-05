@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红帽 Red Hat Linux 相关产品 ISO 镜像下载指南 [百度云更新至 6.9]"
+title: "红帽 Red Hat Linux 相关产品 ISO 镜像下载指南 百度云更新至 69"
 date:   2023-07-31
 tags: [红帽,Linux,RHEL,下载,镜像]
 comments: true

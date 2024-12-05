@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运算器设计(HUST)万能代码"
+title: "运算器设计HUST万能代码"
 date:   2022-04-16
 tags: [设计,乘法器,运算器,电路设计,加法器]
 comments: true

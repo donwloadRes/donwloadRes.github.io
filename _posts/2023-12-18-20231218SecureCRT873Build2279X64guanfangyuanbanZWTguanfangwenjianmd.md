@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.7.3 Build 2279(X64) 官方原版 + ZWT官方文件"
+title: "SecureCRT 873 Build 2279X64 官方原版  ZWT官方文件"
 date:   2023-03-03
 tags: [SecureCRT,2279,官方,软件,8.7]
 comments: true

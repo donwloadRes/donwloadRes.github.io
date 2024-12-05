@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 62443-4-2-2019 高清正版英文原版资源介绍"
+title: "IEC 62443422019 高清正版英文原版资源介绍"
 date:   2022-12-31
 tags: [安全,IEC,62443,2019,工业]
 comments: true

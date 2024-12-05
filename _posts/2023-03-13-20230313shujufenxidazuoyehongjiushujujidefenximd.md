@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据分析大作业-红酒数据集的分析"
+title: "数据分析大作业红酒数据集的分析"
 date:   2020-10-08
 tags: [数据分析,红酒,文件,分析,代码]
 comments: true

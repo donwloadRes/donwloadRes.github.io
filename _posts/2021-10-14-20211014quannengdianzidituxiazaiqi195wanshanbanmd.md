@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全能电子地图下载器 1.9.5 完善版"
+title: "全能电子地图下载器 195 完善版"
 date:   2022-09-30
 tags: [地图,下载,电子地图,全能,拼接]
 comments: true

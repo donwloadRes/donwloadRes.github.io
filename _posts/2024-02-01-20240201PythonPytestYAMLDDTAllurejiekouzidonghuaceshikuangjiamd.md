@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python + Pytest + YAML + DDT + Allure 接口自动化测试框架"
+title: "Python  Pytest  YAML  DDT  Allure 接口自动化测试框架"
 date:   2023-03-20
 tags: [测试,接口,测试用例,pytest,allure]
 comments: true

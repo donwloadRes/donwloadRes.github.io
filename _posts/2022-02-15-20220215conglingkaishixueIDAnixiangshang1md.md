@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学IDA逆向（上）1"
+title: "从零开始学IDA逆向上1"
 date:   2022-08-18
 tags: [IDA,逆向,十六进制,二进制,软件]
 comments: true

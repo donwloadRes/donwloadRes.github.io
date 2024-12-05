@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP-IP 服务器和客户端源代码"
+title: "C TCPIP 服务器和客户端源代码"
 date:   2024-11-12
 tags: [客户端,TCP,IP,源代码,服务器]
 comments: true

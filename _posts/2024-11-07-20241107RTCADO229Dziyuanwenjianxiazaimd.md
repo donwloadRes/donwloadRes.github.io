@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTCA DO-229D 资源文件下载"
+title: "RTCA DO229D 资源文件下载"
 date:   2020-01-23
 tags: [GPS,文件,WAAS,229D,RTCA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARCHPR 4.54 简体中文注册版"
+title: "ARCHPR 454 简体中文注册版"
 date:   2020-12-28
 tags: [简体中文,注册版,ARCHPR,4.54,软件]
 comments: true

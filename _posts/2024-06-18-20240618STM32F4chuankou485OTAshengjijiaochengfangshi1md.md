@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4 串口-485 OTA 升级教程（方式1）"
+title: "STM32F4 串口485 OTA 升级教程方式1"
 date:   2022-08-17
 tags: [OTA,升级,串口,源码,STM32F4]
 comments: true

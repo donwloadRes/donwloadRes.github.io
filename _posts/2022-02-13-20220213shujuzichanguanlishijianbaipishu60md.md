@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据资产管理实践白皮书6.0"
+title: "数据资产管理实践白皮书60"
 date:   2023-08-12
 tags: [数据,资产,白皮书,管理,实践]
 comments: true

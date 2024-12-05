@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP 1.3.00.100版本交换机（CE）启动异常问题解决方案"
+title: "eNSP 1300100版本交换机CE启动异常问题解决方案"
 date:   2024-04-08
 tags: [CE,设备,模块,交换机,eNSP]
 comments: true

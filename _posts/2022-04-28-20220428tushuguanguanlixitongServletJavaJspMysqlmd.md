@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理系统（Servlet+Java+Jsp+Mysql）"
+title: "图书馆管理系统ServletJavaJspMysql"
 date:   2020-01-11
 tags: [Java,图书,借阅,数据库,Web]
 comments: true

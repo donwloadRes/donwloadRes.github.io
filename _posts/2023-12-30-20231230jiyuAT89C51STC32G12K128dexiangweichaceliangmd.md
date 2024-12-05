@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于AT89C51-STC32G12K128的相位差测量"
+title: "基于AT89C51STC32G12K128的相位差测量"
 date:   2021-08-08
 tags: [仿真,相位差,单片机,Proteus,AT89C51]
 comments: true

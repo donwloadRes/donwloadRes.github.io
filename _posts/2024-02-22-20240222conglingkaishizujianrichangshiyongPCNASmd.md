@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始组建日常使用PC+NAS"
+title: "从零开始组建日常使用PCNAS"
 date:   2022-10-09
 tags: [NAS,硬件,安装,系统,从零开始]
 comments: true

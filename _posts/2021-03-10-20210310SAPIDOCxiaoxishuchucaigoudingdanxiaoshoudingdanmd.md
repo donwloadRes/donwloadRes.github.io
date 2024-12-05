@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP IDOC - 消息输出 - 采购订单<->销售订单"
+title: "SAP IDOC  消息输出  采购订单销售订单"
 date:   2023-11-17
 tags: [订单,系统,输出,采购,消息]
 comments: true

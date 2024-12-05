@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity自制多级树型菜单：实现分层次列表展开，仿Unity编辑界面Hierarchy窗口"
+title: "Unity自制多级树型菜单实现分层次列表展开仿Unity编辑界面Hierarchy窗口"
 date:   2021-01-12
 tags: [Unity,菜单,树型,多级,Hierarchy]
 comments: true

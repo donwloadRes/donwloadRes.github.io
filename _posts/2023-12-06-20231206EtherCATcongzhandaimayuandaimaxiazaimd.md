@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT从站代码-源代码下载"
+title: "EtherCAT从站代码源代码下载"
 date:   2021-09-07
 tags: [源代码,EtherCAT,代码,文件,Ethercat]
 comments: true

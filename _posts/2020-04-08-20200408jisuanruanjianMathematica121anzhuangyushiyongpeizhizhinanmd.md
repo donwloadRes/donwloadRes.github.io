@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算软件Mathematica 12.1 安装与使用配置指南"
+title: "计算软件Mathematica 121 安装与使用配置指南"
 date:   2022-05-02
 tags: [安装,Mathematica,软件,12.1,激活]
 comments: true

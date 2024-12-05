@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 环境安装包下载"
+title: "JDK 18 环境安装包下载"
 date:   2022-08-15
 tags: [JDK,安装包,1.8,环境变量,下载]
 comments: true

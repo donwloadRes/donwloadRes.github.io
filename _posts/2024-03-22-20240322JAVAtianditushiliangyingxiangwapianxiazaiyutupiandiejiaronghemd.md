@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA 天地图矢量、影像瓦片下载与图片叠加融合"
+title: "JAVA 天地图矢量影像瓦片下载与图片叠加融合"
 date:   2024-09-27
 tags: [瓦片,图片,叠加,融合,下载]
 comments: true

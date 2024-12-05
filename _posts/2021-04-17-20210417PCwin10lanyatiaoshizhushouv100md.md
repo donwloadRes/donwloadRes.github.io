@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCwin10蓝牙调试助手v1.00"
+title: "PCwin10蓝牙调试助手v100"
 date:   2022-11-05
 tags: [蓝牙,调试,PCwin10,助手,v1.00]
 comments: true

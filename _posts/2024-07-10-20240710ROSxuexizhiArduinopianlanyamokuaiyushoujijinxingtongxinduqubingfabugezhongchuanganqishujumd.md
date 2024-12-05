@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS学习之Arduino篇——蓝牙模块与手机进行通信&&读取并发布各种传感器数据"
+title: "ROS学习之Arduino篇蓝牙模块与手机进行通信读取并发布各种传感器数据"
 date:   2024-08-03
 tags: [Arduino,ROS,蓝牙,模块,读取]
 comments: true

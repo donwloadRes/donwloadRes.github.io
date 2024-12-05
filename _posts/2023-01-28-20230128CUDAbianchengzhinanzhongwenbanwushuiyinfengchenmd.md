@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA编程指南中文版无水印（风尘）"
+title: "CUDA编程指南中文版无水印风尘"
 date:   2020-02-02
 tags: [CUDA,编程,学习,5.0,版本]
 comments: true

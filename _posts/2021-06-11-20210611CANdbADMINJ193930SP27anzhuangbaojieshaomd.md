@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANdb++_ADMIN.J1939_3.0SP27安装包介绍"
+title: "CANdbADMINJ193930SP27安装包介绍"
 date:   2021-12-21
 tags: [CANdb,ADMIN,++_,J1939,安装包]
 comments: true

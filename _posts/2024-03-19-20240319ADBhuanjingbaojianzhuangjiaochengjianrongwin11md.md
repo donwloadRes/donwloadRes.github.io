@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADB环境包及安装教程(兼容win11)"
+title: "ADB环境包及安装教程兼容win11"
 date:   2023-05-31
 tags: [ADB,安装,设备,安卓,USB]
 comments: true

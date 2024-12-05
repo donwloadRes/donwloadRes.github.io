@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GuitarPro8.1 官方中文解锁版激活许可证24位下载"
+title: "GuitarPro81 官方中文解锁版激活许可证24位下载"
 date:   2021-05-17
 tags: [软件,乐谱,用户,激活,编辑]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WSL2 Linux 内核更新包（适用于 x64 计算机）"
+title: "WSL2 Linux 内核更新包适用于 x64 计算机"
 date:   2023-11-15
 tags: [内核,Linux,x64,WSL2,更新包]
 comments: true

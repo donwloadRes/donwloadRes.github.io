@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jacob-1.18-x64.dll 文件下载及使用说明"
+title: "jacob118x64dll 文件下载及使用说明"
 date:   2020-07-30
 tags: [Java,jacob,dll,Windows,Jacob]
 comments: true

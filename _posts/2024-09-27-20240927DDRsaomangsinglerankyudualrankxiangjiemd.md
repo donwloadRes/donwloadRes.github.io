@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR扫盲——single rank与dual-rank详解"
+title: "DDR扫盲single rank与dualrank详解"
 date:   2020-02-27
 tags: [rank,内存,dual,single,DDR]
 comments: true

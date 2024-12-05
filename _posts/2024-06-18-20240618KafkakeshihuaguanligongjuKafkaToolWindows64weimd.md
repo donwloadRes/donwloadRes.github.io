@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kafka 可视化管理工具 (Kafka Tool - Windows 64位)"
+title: "Kafka 可视化管理工具 Kafka Tool  Windows 64位"
 date:   2023-11-15
 tags: [Kafka,Topic,可视化,Tool,集群]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink 报告生成器示例：自动化测试与需求验证"
+title: "Simulink 报告生成器示例自动化测试与需求验证"
 date:   2022-04-25
 tags: [Simulink,测试用例,示例,Microsoft,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA数字信号处理（六）直接型IIR滤波器Verilog设计"
+title: "FPGA数字信号处理六直接型IIR滤波器Verilog设计"
 date:   2020-12-13
 tags: [滤波器,仿真,IIR,Verilog,Vivado]
 comments: true

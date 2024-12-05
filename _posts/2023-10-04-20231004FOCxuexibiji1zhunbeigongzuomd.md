@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOC学习笔记1——准备工作"
+title: "FOC学习笔记1准备工作"
 date:   2022-08-07
 tags: [FOC,电机,电流,变换,转子]
 comments: true

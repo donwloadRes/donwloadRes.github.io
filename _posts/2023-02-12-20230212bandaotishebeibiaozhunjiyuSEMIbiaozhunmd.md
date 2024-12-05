@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体设备标准 - 基于SEMI标准"
+title: "半导体设备标准  基于SEMI标准"
 date:   2024-03-12
 tags: [半导体,SEMI,标准,设备,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCP NIC 3.0 PCIe Gen3 规格套件 (原理图、布局及物料清单)"
+title: "OCP NIC 30 PCIe Gen3 规格套件 原理图布局及物料清单"
 date:   2021-11-10
 tags: [设计,原理图,OCP,3.0,PCIe]
 comments: true

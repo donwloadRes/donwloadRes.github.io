@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edge浏览器畅玩4399Flash小游戏：告别广告弹窗"
+title: "Edge浏览器畅玩4399Flash小游戏告别广告弹窗"
 date:   2023-07-31
 tags: [浏览器,Edge,游戏,4399Flash,小游戏]
 comments: true

@@ -1,6 +1,48 @@
 ---
 layout: post
-title: "STM32F103 HAL库驱动0.96寸OLED显示屏"
+title: "STM32F103 HAL库驱动096寸OLED显示屏
+date   20230408
+tags OLEDHAL代码IICSTM32CubeMX
+comments true
+author admin
+
+ STM32F103 HAL库驱动096寸OLED显示屏
+
+ 简介
+本仓库提供了一个基于STM32F103微控制器的096寸OLED显示屏驱动程序该程序已从标准库移植至HAL库使用模拟IIC接口引脚配置灵活可调方便用户根据实际需求进行二次开发驱动程序通过STM32CubeMX进行配置简化了开发流程
+
+ 功能特点
+ HAL库移植将原本基于标准库的OLED驱动代码移植到HAL库提高了代码的可读性和可维护性
+ 模拟IIC接口采用模拟IIC通信方式用户可以根据需要灵活配置IIC引脚
+ STM32CubeMX配置使用STM32CubeMX进行硬件配置简化了初始化过程便于快速上手
+ 易于二次开发代码结构清晰注释详细方便用户进行功能扩展和定制
+
+ 使用说明
+1 硬件准备
+    STM32F103开发板
+    096寸OLED显示屏
+    连接线若干
+
+2 软件准备
+    STM32CubeMX
+    Keil uVision或其他STM32开发环境
+
+3 配置步骤
+    使用STM32CubeMX生成基础的HAL库工程
+    将本仓库提供的驱动代码文件添加到工程中
+    根据实际硬件连接情况配置IIC引脚
+    编译并下载程序到STM32F103开发板
+
+4 代码结构
+    oledc 和 oledhOLED显示屏驱动核心代码
+    mainc主程序文件包含初始化和示例显示代码
+
+ 示例代码
+以下是一个简单的示例代码展示如何在OLED显示屏上显示文本
+
+c
+include mainh
+include oledh"
 date:   2023-04-08
 tags: [OLED,HAL,代码,IIC,STM32CubeMX]
 comments: true

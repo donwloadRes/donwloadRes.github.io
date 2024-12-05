@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于最小二乘法的定位算法——Matlab仿真"
+title: "基于最小二乘法的定位算法Matlab仿真"
 date:   2022-06-07
 tags: [节点,仿真,Matlab,随机,定位]
 comments: true

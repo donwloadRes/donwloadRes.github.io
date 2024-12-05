@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Python PyTorch CUDA 11.7 TensorRT 环境配置指南"
+title: "Windows Python PyTorch CUDA 117 TensorRT 环境配置指南"
 date:   2023-08-17
 tags: [CUDA,TensorRT,py,detect,PyTorch]
 comments: true

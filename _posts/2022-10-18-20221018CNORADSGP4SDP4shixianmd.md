@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ NORAD SGP4-SDP4 实现"
+title: "C NORAD SGP4SDP4 实现"
 date:   2021-09-25
 tags: [SGP4,SDP4,轨道,C++,模型]
 comments: true

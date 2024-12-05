@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0 Win7 适用版下载"
+title: "Visual C 60 Win7 适用版下载"
 date:   2020-03-12
 tags: [C++,6.0,Win7,安装,Visual]
 comments: true

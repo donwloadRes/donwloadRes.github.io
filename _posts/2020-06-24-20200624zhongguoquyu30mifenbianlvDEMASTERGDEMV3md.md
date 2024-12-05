@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国区域30米分辨率DEM（ASTER GDEM V3）"
+title: "中国区域30米分辨率DEMASTER GDEM V3"
 date:   2021-06-13
 tags: [DEM,ASTER,30,GDEM,V3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 17626电磁兼容全套标准资源下载"
+title: "GBT 17626电磁兼容全套标准资源下载"
 date:   2020-10-12
 tags: [电磁兼容,GB,试验,抗扰度,测量]
 comments: true

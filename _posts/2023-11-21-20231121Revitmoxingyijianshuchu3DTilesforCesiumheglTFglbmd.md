@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revit 模型一键输出 3D Tiles (for Cesium) 和 glTF-glb"
+title: "Revit 模型一键输出 3D Tiles for Cesium 和 glTFglb"
 date:   2021-12-11
 tags: [Revit,3D,模型,格式,glb]
 comments: true

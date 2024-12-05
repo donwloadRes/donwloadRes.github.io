@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光信道MATLAB代码 - FSO仿真器"
+title: "光信道MATLAB代码  FSO仿真器"
 date:   2020-08-05
 tags: [模拟,代码,FSO,文件,定义]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川伺服SV660N系列伺服手册-说明书下载"
+title: "汇川伺服SV660N系列伺服手册说明书下载"
 date:   2024-11-01
 tags: [伺服,汇川,手册,SV660N,系列]
 comments: true

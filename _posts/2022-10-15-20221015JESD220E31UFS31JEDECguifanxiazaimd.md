@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD220E-3.1 UFS 3.1 JEDEC规范下载"
+title: "JESD220E31 UFS 31 JEDEC规范下载"
 date:   2024-09-30
 tags: [3.1,UFS,JESD220E,JEDEC,规范]
 comments: true

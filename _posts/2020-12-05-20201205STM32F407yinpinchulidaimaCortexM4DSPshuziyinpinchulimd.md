@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407音频处理代码-Cortex-M4 DSP数字音频处理"
+title: "STM32F407音频处理代码CortexM4 DSP数字音频处理"
 date:   2024-05-11
 tags: [音频,Cortex,M4,DSP,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拿走即用的产品需求文档（PRD）"
+title: "拿走即用的产品需求文档PRD"
 date:   2023-04-17
 tags: [文档,需求,产品,PRD,用户]
 comments: true

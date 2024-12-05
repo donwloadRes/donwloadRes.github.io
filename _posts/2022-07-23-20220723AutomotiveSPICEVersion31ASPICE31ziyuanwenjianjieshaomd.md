@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automotive SPICE Version3.1 (ASPICE 3.1) 资源文件介绍"
+title: "Automotive SPICE Version31 ASPICE 31 资源文件介绍"
 date:   2020-06-27
 tags: [ASPICE,3.1,软件开发,文件,流程]
 comments: true

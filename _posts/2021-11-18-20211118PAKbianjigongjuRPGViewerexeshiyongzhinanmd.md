@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PAK编辑工具 RPGViewer.exe 使用指南"
+title: "PAK编辑工具 RPGViewerexe 使用指南"
 date:   2021-12-30
 tags: [文件,工具,解密,客户端,RPGViewer]
 comments: true

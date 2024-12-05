@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微分几何初步 - 陈维桓"
+title: "微分几何初步  陈维桓"
 date:   2022-07-16
 tags: [几何,曲面,微分,曲率,学习]
 comments: true

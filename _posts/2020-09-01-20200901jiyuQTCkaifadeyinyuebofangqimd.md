@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT C++开发的音乐播放器"
+title: "基于QT C开发的音乐播放器"
 date:   2024-05-01
 tags: [播放,QT,音乐,播放器,C++]
 comments: true

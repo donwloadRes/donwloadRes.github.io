@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF编辑工具福昕编辑器2023.03版本下载与安装配置"
+title: "PDF编辑工具福昕编辑器202303版本下载与安装配置"
 date:   2023-09-12
 tags: [PDF,安装,文件,福昕,安装程序]
 comments: true

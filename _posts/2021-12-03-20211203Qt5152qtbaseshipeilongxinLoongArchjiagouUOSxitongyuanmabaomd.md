@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.15.2 qtbase 适配龙芯（LoongArch）架构UOS系统源码包"
+title: "Qt 5152 qtbase 适配龙芯LoongArch架构UOS系统源码包"
 date:   2020-05-07
 tags: [源码,Qt,5.15,LoongArch,龙芯]
 comments: true

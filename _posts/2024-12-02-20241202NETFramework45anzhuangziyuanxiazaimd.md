@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.5 安装资源下载"
+title: "NET Framework 45 安装资源下载"
 date:   2023-10-26
 tags: [Framework,NET,4.5,安装,文件夹]
 comments: true

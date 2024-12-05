@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jetbra.zip 资源仓库"
+title: "jetbrazip 资源仓库"
 date:   2021-07-21
 tags: [zip,jetbra,文件,仓库,下载]
 comments: true

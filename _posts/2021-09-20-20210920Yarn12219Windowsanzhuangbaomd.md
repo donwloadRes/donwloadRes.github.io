@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yarn 1.22.19 Windows 安装包"
+title: "Yarn 12219 Windows 安装包"
 date:   2021-12-18
 tags: [1.22,19,Yarn,安装包,安装]
 comments: true

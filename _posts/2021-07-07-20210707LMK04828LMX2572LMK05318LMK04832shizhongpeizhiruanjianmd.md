@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LMK04828_LMX2572_LMK05318_LMK04832时钟配置软件"
+title: "LMK04828LMX2572LMK05318LMK04832时钟配置软件"
 date:   2024-04-03
 tags: [时钟,配置,芯片,软件,LMK04828]
 comments: true

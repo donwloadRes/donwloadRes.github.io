@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现Web服务器加载Vue应用进行C++和HTML混合编程 - 连载【6】源码"
+title: "Qt实现Web服务器加载Vue应用进行C和HTML混合编程  连载6源码"
 date:   2021-07-06
 tags: [Qt,Vue,源码,Web,C++]
 comments: true

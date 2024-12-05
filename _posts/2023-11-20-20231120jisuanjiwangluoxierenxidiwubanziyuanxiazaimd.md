@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络（谢仁希）第五版资源下载"
+title: "计算机网络谢仁希第五版资源下载"
 date:   2020-09-24
 tags: [计算机网络,谢仁希,第五版,下载,资源]
 comments: true

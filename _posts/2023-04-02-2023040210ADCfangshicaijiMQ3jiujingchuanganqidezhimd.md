@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10.ADC方式采集MQ-3酒精传感器的值"
+title: "10ADC方式采集MQ3酒精传感器的值"
 date:   2023-01-12
 tags: [ADC,传感器,MQ,酒精,微控制器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD Type C 封装库 6Pin 24Pin分享（带3D视图）"
+title: "AD Type C 封装库 6Pin 24Pin分享带3D视图"
 date:   2024-02-11
 tags: [封装,Type,https,24Pin,Altium]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO26262标准(中文版)下载"
+title: "ISO26262标准中文版下载"
 date:   2020-07-04
 tags: [中文版,安全,标准,ISO,26262]
 comments: true

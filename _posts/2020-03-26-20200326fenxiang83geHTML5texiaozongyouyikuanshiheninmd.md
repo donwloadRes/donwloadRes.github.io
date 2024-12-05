@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享83个HTML5特效，总有一款适合您"
+title: "分享83个HTML5特效总有一款适合您"
 date:   2022-07-24
 tags: [特效,HTML5,83,动画,浏览器]
 comments: true

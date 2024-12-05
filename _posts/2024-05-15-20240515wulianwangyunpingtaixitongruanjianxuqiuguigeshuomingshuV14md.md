@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网云平台系统软件需求规格说明书(V1.4)"
+title: "物联网云平台系统软件需求规格说明书V14"
 date:   2024-07-08
 tags: [文档,V1.4,需求,规格,系统软件]
 comments: true

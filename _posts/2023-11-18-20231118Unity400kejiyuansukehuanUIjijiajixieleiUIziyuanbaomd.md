@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 400+ 科技元素 科幻UI 机甲机械类UI 资源包"
+title: "Unity 400 科技元素 科幻UI 机甲机械类UI 资源包"
 date:   2022-02-14
 tags: [UI,科幻,资源,机甲,Unity]
 comments: true

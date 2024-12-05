@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12V 转 5V 降压电路图和 12V 转 3.3V 稳压电路图资源"
+title: "12V 转 5V 降压电路图和 12V 转 33V 稳压电路图资源"
 date:   2023-01-08
 tags: [电路图,12V,降压,5V,3.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘论文合集-242篇（part1）"
+title: "数据挖掘论文合集242篇part1"
 date:   2023-04-30
 tags: [数据挖掘,基于,探讨,研究,技术]
 comments: true

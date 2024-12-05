@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1KHz 10KHz 20Hz 音频0dB测试资源 - WAV格式"
+title: "1KHz 10KHz 20Hz 音频0dB测试资源  WAV格式"
 date:   2023-03-16
 tags: [测试,音频,WAV,0dB,音频设备]
 comments: true

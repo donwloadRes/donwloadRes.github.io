@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TC8 ECU测试规范：车载以太网物理层协议测试 PMA IOP"
+title: "TC8 ECU测试规范车载以太网物理层协议测试 PMA IOP"
 date:   2021-02-06
 tags: [以太网,测试,车载,物理层,ECU]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6库函数模板（网上买的最小系统板）"
+title: "STM32F103C8T6库函数模板网上买的最小系统板"
 date:   2022-07-04
 tags: [初始化,STM32F103C8T6,模板,中断,库函数]
 comments: true

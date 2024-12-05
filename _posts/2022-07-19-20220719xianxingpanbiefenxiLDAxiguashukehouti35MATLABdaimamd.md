@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性判别分析LDA—西瓜书课后题3.5—MATLAB代码"
+title: "线性判别分析LDA西瓜书课后题35MATLAB代码"
 date:   2020-06-24
 tags: [代码,MATLAB,判别分析,LDA,线性]
 comments: true

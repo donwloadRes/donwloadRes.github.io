@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mysql-5.7.26在Linux上的安装与配置教程"
+title: "mysql5726在Linux上的安装与配置教程"
 date:   2022-10-06
 tags: [mysql,MySQL,5.7,26,安装]
 comments: true

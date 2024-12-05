@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three.js天空盒资源"
+title: "threejs天空盒资源"
 date:   2021-12-04
 tags: [path,jpg,天空,three,js]
 comments: true

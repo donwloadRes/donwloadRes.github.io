@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lshort-zh-cn.pdf - LaTeX入门指南中文版"
+title: "lshortzhcnpdf  LaTeX入门指南中文版"
 date:   2022-12-08
 tags: [LaTeX,文档,cn,lshort,zh]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.6 解压缩版下载及安装教程"
+title: "MySQL 56 解压缩版下载及安装教程"
 date:   2023-11-04
 tags: [MySQL,5.6,mysql,压缩版,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Win7平台上搭建基于MinGW-w64的VSCode开发C++环境"
+title: "在Win7平台上搭建基于MinGWw64的VSCode开发C环境"
 date:   2021-02-07
 tags: [VSCode,C++,MinGW,w64,配置]
 comments: true

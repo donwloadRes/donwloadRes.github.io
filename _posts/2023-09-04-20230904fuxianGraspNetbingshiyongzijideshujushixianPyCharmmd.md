@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复现GraspNet并使用自己的数据实现（PyCharm）"
+title: "复现GraspNet并使用自己的数据实现PyCharm"
 date:   2023-12-13
 tags: [抓取,GraspNet,数据,安装,代码]
 comments: true

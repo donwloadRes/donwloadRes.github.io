@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程控安捷伦频谱分析仪 C++ 封装类库"
+title: "程控安捷伦频谱分析仪 C 封装类库"
 date:   2020-06-28
 tags: [类库,分析仪,安捷伦,C++,频谱]
 comments: true

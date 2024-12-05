@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新能源 T-Box GB-T 32960 标准资源文件"
+title: "新能源 TBox GBT 32960 标准资源文件"
 date:   2021-11-14
 tags: [GB,32960,文件,新能源,Box]
 comments: true

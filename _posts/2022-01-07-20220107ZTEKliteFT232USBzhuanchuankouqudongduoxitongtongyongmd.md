@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Z-TEK 力特 FT-232 USB转串口驱动--多系统通用"
+title: "ZTEK 力特 FT232 USB转串口驱动多系统通用"
 date:   2022-07-13
 tags: [驱动,串口,FT,232,操作系统]
 comments: true

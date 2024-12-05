@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D 游戏插件：Mesh Explosion 物体破碎特效"
+title: "Unity3D 游戏插件Mesh Explosion 物体破碎特效"
 date:   2023-03-20
 tags: [Unity3D,破碎,物体,插件,Mesh]
 comments: true

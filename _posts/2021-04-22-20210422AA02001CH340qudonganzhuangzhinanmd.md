@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A_A02_001 CH340驱动安装指南"
+title: "AA02001 CH340驱动安装指南"
 date:   2021-01-04
 tags: [安装,CH340,驱动,解压,串口]
 comments: true

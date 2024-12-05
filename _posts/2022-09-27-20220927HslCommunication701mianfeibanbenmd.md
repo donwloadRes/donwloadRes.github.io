@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HslCommunication 7.0.1 免费版本"
+title: "HslCommunication 701 免费版本"
 date:   2024-09-04
 tags: [版本,示例,HslCommunication,7.0,NET]
 comments: true

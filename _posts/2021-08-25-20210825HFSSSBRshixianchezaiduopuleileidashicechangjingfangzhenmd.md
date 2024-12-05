@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS SBR+ 实现车载多普勒雷达实测场景-仿真"
+title: "HFSS SBR 实现车载多普勒雷达实测场景仿真"
 date:   2024-04-28
 tags: [仿真,场景,多普勒,HFSS,SBR]
 comments: true

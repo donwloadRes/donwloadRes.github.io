@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT滚动数字选择器 - 支持循环滑动"
+title: "QT滚动数字选择器  支持循环滑动"
 date:   2021-01-16
 tags: [选择器,数字,文件,QT,滚动]
 comments: true

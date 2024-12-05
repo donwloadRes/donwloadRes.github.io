@@ -1,6 +1,56 @@
 ---
 layout: post
-title: "Python趣味编程100例（99个）"
+title: "Python趣味编程100例99个
+date   20240911
+tags 示例编程Pythongityour
+comments true
+author admin
+
+ Python趣味编程100例99个
+
+ 简介
+
+Python如今很流行AI的首选工具Python趣味编程100例99个学习编程不枯燥本仓库提供了99个有趣的Python编程示例旨在帮助初学者和编程爱好者通过实践提升编程技能同时享受编程的乐趣
+
+ 内容概览
+
+本仓库包含以下内容
+
+ Python趣味编程示例99个精心挑选的Python编程示例涵盖基础语法数据结构算法图形界面网络编程等多个领域
+ 示例代码每个示例都提供了完整的Python代码方便直接运行和学习
+ 说明文档每个示例都附有详细的说明文档解释代码的功能和实现原理
+
+ 如何使用
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourrepourlgit
+   
+
+2 浏览示例
+   进入仓库目录查看各个示例的代码和说明文档
+
+3 运行示例
+   选择感兴趣的示例运行Python代码进行学习和实践
+
+ 贡献
+
+欢迎大家贡献更多的Python趣味编程示例或者对现有示例进行改进和优化请遵循以下步骤
+
+1 Fork仓库
+   点击右上角的Fork按钮将仓库复制到自己的GitHub账户
+
+2 创建分支
+   在本地创建一个新的分支进行开发
+   bash
+   git checkout b yournewfeature
+   
+
+3 提交更改
+   完成开发后提交更改并推送到自己的仓库
+   bash
+   git add 
+   git commit m Add your commit message here"
 date:   2024-09-11
 tags: [示例,编程,Python,git,your]
 comments: true

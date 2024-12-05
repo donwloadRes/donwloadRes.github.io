@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML页面转PDF资源：html2canvas.js + jspdf.debug.js"
+title: "HTML页面转PDF资源html2canvasjs  jspdfdebugjs"
 date:   2022-08-30
 tags: [PDF,HTML,html2canvas,Canvas,页面]
 comments: true

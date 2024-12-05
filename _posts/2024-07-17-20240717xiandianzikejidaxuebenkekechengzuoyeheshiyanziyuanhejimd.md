@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "西安电子科技大学本科课程作业和实验资源合集"
+title: "西安电子科技大学本科课程作业和实验资源合集
+date   20240425
+tags 作业实验课程源码西安电子科技大学
+comments true
+author admin
+
+
+layout post
+title 西安电子科技大学本科课程作业和实验资源合集"
 date:   2024-04-25
 tags: [作业,实验,课程,源码,西安电子科技大学]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "西安电子科技大学本科课程作业和实验资源合集"
+title: "西安电子科技大学本科课程作业和实验资源合集
+date   20240425
+tags 作业实验课程源码西安电子科技大学
+comments true
+author admin
+
+
+layout post
+title 西安电子科技大学本科课程作业和实验资源合集"
 date:   2022-12-09
 tags: [作业,实验,课程,源码,提供]
 comments: true

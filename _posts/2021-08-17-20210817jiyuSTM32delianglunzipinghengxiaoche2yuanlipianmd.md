@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的两轮自平衡小车2（原理篇）"
+title: "基于STM32的两轮自平衡小车2原理篇"
 date:   2020-07-03
 tags: [小车,STM32,平衡,PID,定时器]
 comments: true

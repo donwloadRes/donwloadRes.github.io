@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 实现哈利波特文本检索及查询开发"
+title: "CC 实现哈利波特文本检索及查询开发"
 date:   2020-04-07
 tags: [查询,哈利波,读取,文本,结果]
 comments: true

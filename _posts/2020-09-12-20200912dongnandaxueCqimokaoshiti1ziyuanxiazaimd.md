@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东南大学C++期末考试题1资源下载"
+title: "东南大学C期末考试题1资源下载"
 date:   2022-09-15
 tags: [资源,C++,下载,期末考试,文件]
 comments: true

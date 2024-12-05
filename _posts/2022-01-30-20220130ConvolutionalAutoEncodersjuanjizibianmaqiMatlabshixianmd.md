@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Convolutional Auto-Encoders (卷积自编码器) Matlab实现"
+title: "Convolutional AutoEncoders 卷积自编码器 Matlab实现"
 date:   2021-04-11
 tags: [MATLAB,卷积,编码器,代码,CAE]
 comments: true

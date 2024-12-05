@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国省级行政区划-北京市shp 资源文件下载"
+title: "中国省级行政区划北京市shp 资源文件下载"
 date:   2024-05-02
 tags: [shp,GIS,行政区划,省级,文件]
 comments: true

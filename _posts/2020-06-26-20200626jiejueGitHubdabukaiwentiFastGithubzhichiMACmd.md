@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决GitHub打不开问题（FastGithub，支持MAC）"
+title: "解决GitHub打不开问题FastGithub支持MAC"
 date:   2020-09-20
 tags: [FastGithub,GitHub,IP,访问,双击]
 comments: true

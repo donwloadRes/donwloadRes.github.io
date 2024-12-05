@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 RTT学习笔记（一）RT移植到STM32F407VET6"
+title: "STM32 RTT学习笔记一RT移植到STM32F407VET6"
 date:   2020-06-09
 tags: [移植,RT,Thread,STM32F407VET6,笔记]
 comments: true

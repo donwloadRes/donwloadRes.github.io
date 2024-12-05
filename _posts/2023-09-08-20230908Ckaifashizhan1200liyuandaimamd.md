@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发实战1200例源代码"
+title: "C开发实战1200例源代码"
 date:   2020-04-08
 tags: [C#,1200,NET,源代码,示例]
 comments: true

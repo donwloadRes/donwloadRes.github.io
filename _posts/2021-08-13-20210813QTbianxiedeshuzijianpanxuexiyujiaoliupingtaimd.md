@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT编写的数字键盘 - 学习与交流平台"
+title: "QT编写的数字键盘  学习与交流平台"
 date:   2021-01-26
 tags: [QT,数字键盘,开发者,项目,GUI]
 comments: true

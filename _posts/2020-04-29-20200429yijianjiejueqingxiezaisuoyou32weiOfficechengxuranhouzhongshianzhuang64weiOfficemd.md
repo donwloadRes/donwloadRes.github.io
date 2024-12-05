@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键解决“请卸载所有32位Office程序，然后重试安装64位Office”"
+title: "一键解决请卸载所有32位Office程序然后重试安装64位Office"
 date:   2022-12-02
 tags: [Office,卸载,64,32,安装]
 comments: true

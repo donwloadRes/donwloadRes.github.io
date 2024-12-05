@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CelebA数据集(StarGAN)分享"
+title: "CelebA数据集StarGAN分享"
 date:   2021-01-15
 tags: [StarGAN,CelebA,链接,数据,图像]
 comments: true

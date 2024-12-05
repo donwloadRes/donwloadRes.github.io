@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkServer RD650 用户手册 V1.7 下载"
+title: "ThinkServer RD650 用户手册 V17 下载"
 date:   2022-05-17
 tags: [V1.7,用户手册,ThinkServer,RD650,下载]
 comments: true

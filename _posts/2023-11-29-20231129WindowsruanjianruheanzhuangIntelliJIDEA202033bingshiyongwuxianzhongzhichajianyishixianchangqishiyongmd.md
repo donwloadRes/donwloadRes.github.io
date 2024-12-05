@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows软件：如何安装IntelliJ IDEA 2020.3.3并使用无限重置插件以实现长期使用"
+title: "Windows软件如何安装IntelliJ IDEA 202033并使用无限重置插件以实现长期使用"
 date:   2023-02-16
 tags: [插件,重置,IntelliJ,IDEA,安装]
 comments: true

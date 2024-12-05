@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL安装与配置指南（含Navicat 12安装资源）"
+title: "MySQL安装与配置指南含Navicat 12安装资源"
 date:   2024-03-31
 tags: [MySQL,安装,Navicat,12,配置]
 comments: true

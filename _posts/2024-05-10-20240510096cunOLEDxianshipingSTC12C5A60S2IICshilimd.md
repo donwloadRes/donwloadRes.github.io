@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸OLED显示屏STC12C5A60S2 IIC示例"
+title: "096寸OLED显示屏STC12C5A60S2 IIC示例"
 date:   2020-06-08
 tags: [示例,OLED,IIC,显示屏,0.96]
 comments: true

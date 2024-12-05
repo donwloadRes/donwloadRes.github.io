@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .net6.0+FFmpeg对海康摄像机进行m3u8拉流转码"
+title: "C net60FFmpeg对海康摄像机进行m3u8拉流转码"
 date:   2023-12-09
 tags: [拉流,FFmpeg,net6.0,m3u8,海康]
 comments: true

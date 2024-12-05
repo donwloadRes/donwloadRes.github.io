@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考高级 - 信息系统项目管理师备考大全"
+title: "软考高级  信息系统项目管理师备考大全"
 date:   2023-02-18
 tags: [备考,项目管理,信息系统,软考,真题]
 comments: true

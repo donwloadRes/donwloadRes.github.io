@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 安装教程（史上最详细版本）"
+title: "SQL Server 安装教程史上最详细版本"
 date:   2021-02-22
 tags: [安装,SQL,Server,教程,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASIA-FaceV5亚洲人脸数据集及测试pairs文件介绍"
+title: "CASIAFaceV5亚洲人脸数据集及测试pairs文件介绍"
 date:   2024-04-06
 tags: [pairs,文件夹,测试,文件,CASIA]
 comments: true

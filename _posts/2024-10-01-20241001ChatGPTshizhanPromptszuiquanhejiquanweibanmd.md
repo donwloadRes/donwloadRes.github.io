@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT实战：Prompts最全合集（权威版）"
+title: "ChatGPT实战Prompts最全合集权威版"
 date:   2023-10-17
 tags: [Prompts,ChatGPT,合集,使用指南,文件]
 comments: true

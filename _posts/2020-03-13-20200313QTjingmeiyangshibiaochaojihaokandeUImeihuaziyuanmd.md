@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT精美样式表 - 超级好看的UI美化资源"
+title: "QT精美样式表  超级好看的UI美化资源"
 date:   2023-07-11
 tags: [样式表,QT,控件,应用,美化]
 comments: true

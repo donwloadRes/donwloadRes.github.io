@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringSecurity 6.x 实战学习笔记"
+title: "SpringSecurity 6x 实战学习笔记"
 date:   2023-06-10
 tags: [SpringSecurity,SpringBoot,学习,应用,笔记]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.4 数据库全资源安装包"
+title: "Oracle 11204 数据库全资源安装包"
 date:   2022-05-02
 tags: [Oracle,安装包,数据库,0.4,11.2]
 comments: true

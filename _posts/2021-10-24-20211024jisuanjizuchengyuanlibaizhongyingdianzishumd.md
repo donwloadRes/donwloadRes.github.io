@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理-白中英-电子书"
+title: "计算机组成原理白中英电子书"
 date:   2022-05-17
 tags: [计算机,原理,白中英,组成,电子书]
 comments: true

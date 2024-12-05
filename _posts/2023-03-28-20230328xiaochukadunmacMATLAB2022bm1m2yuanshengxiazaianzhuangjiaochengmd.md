@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "消除卡顿：mac MATLAB2022b m1-m2原生下载安装教程"
+title: "消除卡顿mac MATLAB2022b m1m2原生下载安装教程"
 date:   2024-07-18
 tags: [MATLAB,安装,教程,Java,JRE]
 comments: true

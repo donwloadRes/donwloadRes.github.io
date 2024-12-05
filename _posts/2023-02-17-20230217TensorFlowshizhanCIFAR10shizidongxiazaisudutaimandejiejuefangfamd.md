@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow实战CIFAR-10时自动下载速度太慢的解决方法"
+title: "TensorFlow实战CIFAR10时自动下载速度太慢的解决方法"
 date:   2024-08-30
 tags: [10,压缩包,CIFAR,下载,下载速度]
 comments: true

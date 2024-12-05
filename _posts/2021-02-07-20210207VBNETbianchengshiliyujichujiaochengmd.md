@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB.NET编程实例与基础教程"
+title: "VBNET编程实例与基础教程"
 date:   2021-05-17
 tags: [VB,NET,实例,开发者,编程]
 comments: true

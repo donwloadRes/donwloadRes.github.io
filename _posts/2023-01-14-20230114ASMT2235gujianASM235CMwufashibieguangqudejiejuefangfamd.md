@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASMT-2235固件(ASM235CM)无法识别光驱的解决方法"
+title: "ASMT2235固件ASM235CM无法识别光驱的解决方法"
 date:   2020-09-22
 tags: [固件,光驱,识别,驱线,ASMT]
 comments: true

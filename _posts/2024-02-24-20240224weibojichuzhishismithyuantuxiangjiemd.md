@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波基础知识-smith圆图详解"
+title: "微波基础知识smith圆图详解"
 date:   2024-01-25
 tags: [圆图,Smith,微波,smith,基础知识]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 扁平化自定义风格界面 - 以 TabWidget 为核心的UI设计"
+title: "QT 扁平化自定义风格界面  以 TabWidget 为核心的UI设计"
 date:   2022-10-19
 tags: [扁平化,QT,TabWidget,Qt,界面]
 comments: true

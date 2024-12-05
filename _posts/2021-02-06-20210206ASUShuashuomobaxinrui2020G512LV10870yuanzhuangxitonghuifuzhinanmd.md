@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕魔霸新锐2020-G512LV10870原装系统恢复指南"
+title: "ASUS华硕魔霸新锐2020G512LV10870原装系统恢复指南"
 date:   2023-09-12
 tags: [华硕,系统,恢复,魔霸,2020]
 comments: true

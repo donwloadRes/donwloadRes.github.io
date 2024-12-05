@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLINK 7.70 - HDSC 支持包"
+title: "JLINK 770  HDSC 支持包"
 date:   2023-06-10
 tags: [Link,HDSC,支持,7.70,华大]
 comments: true

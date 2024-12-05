@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIFI6 (802.11ax) 协议资源下载"
+title: "WIFI6 80211ax 协议资源下载"
 date:   2023-08-24
 tags: [ax,WIFI6,802.11,协议,资源]
 comments: true

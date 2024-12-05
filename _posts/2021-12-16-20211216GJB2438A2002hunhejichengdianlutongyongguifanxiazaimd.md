@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB2438A-2002混合集成电路通用规范下载"
+title: "GJB2438A2002混合集成电路通用规范下载"
 date:   2020-05-10
 tags: [集成电路,GJB2438A,2002,混合,规范]
 comments: true

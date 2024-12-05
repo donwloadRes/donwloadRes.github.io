@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx 全能HTTP+Web 指南 完整版pdf"
+title: "Nginx 全能HTTPWeb 指南 完整版pdf"
 date:   2022-03-06
 tags: [Nginx,指南,服务器,全能,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实践(1.2)XGBoost回归任务"
+title: "机器学习实践12XGBoost回归任务"
 date:   2024-09-05
 tags: [模型,XGBoost,数据,训练,参数]
 comments: true

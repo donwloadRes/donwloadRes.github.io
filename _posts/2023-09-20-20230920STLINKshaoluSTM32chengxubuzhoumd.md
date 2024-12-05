@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LINK烧录STM32程序步骤"
+title: "STLINK烧录STM32程序步骤"
 date:   2021-12-29
 tags: [ST,LINK,烧录,Keil5,STM32]
 comments: true

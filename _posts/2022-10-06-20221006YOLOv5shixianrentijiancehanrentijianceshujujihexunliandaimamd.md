@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5实现人体检测（含人体检测数据集和训练代码）"
+title: "YOLOv5实现人体检测含人体检测数据集和训练代码"
 date:   2021-03-31
 tags: [检测,人体,YOLOv5,训练,数据]
 comments: true

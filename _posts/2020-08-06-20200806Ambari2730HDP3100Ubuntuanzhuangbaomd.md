@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ambari-2.7.3.0 + HDP-3.1.0.0 Ubuntu安装包"
+title: "Ambari2730  HDP3100 Ubuntu安装包"
 date:   2023-09-19
 tags: [安装包,Ubuntu,版本,安装,Ambari]
 comments: true

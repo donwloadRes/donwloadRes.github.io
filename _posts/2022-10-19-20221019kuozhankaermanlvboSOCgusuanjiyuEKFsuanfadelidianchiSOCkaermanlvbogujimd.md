@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "扩展卡尔曼滤波SOC估算 - 基于EKF算法的锂电池SOC卡尔曼滤波估计"
+title: "扩展卡尔曼滤波SOC估算  基于EKF算法的锂电池SOC卡尔曼滤波估计"
 date:   2020-05-29
 tags: [SOC,卡尔曼滤波,估算,锂电池,模型]
 comments: true

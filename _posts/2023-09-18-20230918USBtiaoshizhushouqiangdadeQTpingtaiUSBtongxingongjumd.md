@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB调试助手 - 强大的QT平台USB通信工具"
+title: "USB调试助手  强大的QT平台USB通信工具"
 date:   2023-03-28
 tags: [USB,调试,设备,QT,ID]
 comments: true

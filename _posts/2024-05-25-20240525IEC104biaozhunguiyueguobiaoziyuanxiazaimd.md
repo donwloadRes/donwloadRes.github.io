@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC104 标准规约（国标）资源下载"
+title: "IEC104 标准规约国标资源下载"
 date:   2023-08-14
 tags: [IEC104,标准,资源,规约,文件]
 comments: true

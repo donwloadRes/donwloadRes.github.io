@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLL源码-让通达信实时发短信"
+title: "DLL源码让通达信实时发短信"
 date:   2024-02-29
 tags: [DLL,通达信,源代码,短信,实时]
 comments: true

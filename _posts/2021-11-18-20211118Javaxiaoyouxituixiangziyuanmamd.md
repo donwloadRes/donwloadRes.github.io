@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java小游戏-推箱子源码"
+title: "Java小游戏推箱子源码"
 date:   2020-02-27
 tags: [源码,Java,关卡,箱子,游戏]
 comments: true

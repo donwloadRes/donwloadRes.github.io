@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考-信息安全工程师(汇总1000题)"
+title: "软考信息安全工程师汇总1000题"
 date:   2024-02-09
 tags: [信息安全,题目,软考,1000,考试]
 comments: true

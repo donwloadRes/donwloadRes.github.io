@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB开发：用Matlab测量阻抗频率响应"
+title: "MATLAB开发用Matlab测量阻抗频率响应"
 date:   2021-03-08
 tags: [MATLAB,频率响应,测量,阻抗,NIUSB]
 comments: true

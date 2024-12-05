@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xposed+FDex2 应用脱壳资源文件介绍"
+title: "XposedFDex2 应用脱壳资源文件介绍"
 date:   2024-07-17
 tags: [FDex2,Xposed,脱壳,应用,框架]
 comments: true

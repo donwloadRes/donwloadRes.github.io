@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "验证码几乎100%识别-基于完美验证码识别库3.2.1和Python实现"
+title: "验证码几乎100识别基于完美验证码识别库321和Python实现"
 date:   2020-12-07
 tags: [验证码,Python,识别,路径,下载]
 comments: true

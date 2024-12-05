@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 + FreeRTOS + Keil5 代码（亲测完美）"
+title: "STM32F103C8T6  FreeRTOS  Keil5 代码亲测完美"
 date:   2020-02-23
 tags: [Keil5,调试,STM32F103C8T6,代码,FreeRTOS]
 comments: true

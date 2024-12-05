@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计——图书管理系统"
+title: "Java课程设计图书管理系统"
 date:   2024-04-21
 tags: [数据库,图书,管理系统,Java,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SBUS调试助手(含Delphi源码)"
+title: "SBUS调试助手含Delphi源码"
 date:   2021-06-19
 tags: [SBUS,源码,Delphi,解析,串口]
 comments: true

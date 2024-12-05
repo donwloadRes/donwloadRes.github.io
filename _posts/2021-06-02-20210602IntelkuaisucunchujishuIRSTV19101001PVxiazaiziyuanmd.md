@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel 快速存储技术(IRST) V19.1.0.1001-PV 下载资源"
+title: "Intel 快速存储技术IRST V19101001PV 下载资源"
 date:   2024-12-02
 tags: [IRST,Intel,RAID,0.1001,PV]
 comments: true

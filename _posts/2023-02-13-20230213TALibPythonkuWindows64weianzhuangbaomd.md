@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TA-Lib Python 库 Windows 64位安装包"
+title: "TALib Python 库 Windows 64位安装包"
 date:   2020-07-30
 tags: [TA,Lib,Python,Windows,安装包]
 comments: true

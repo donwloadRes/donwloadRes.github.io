@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB转原理图、PCB反推SCH教程"
+title: "PCB转原理图PCB反推SCH教程"
 date:   2021-09-12
 tags: [PCB,原理图,教程,反推,文件]
 comments: true

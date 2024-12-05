@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机体验NAS私人云：安装群晖DSM7.01系统"
+title: "虚拟机体验NAS私人云安装群晖DSM701系统"
 date:   2021-10-10
 tags: [虚拟机,群晖,系统,DSM7.01,网卡]
 comments: true

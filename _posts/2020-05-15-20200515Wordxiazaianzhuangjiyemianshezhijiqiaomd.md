@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Word下载、安装及页面设置技巧"
+title: "Word下载安装及页面设置技巧"
 date:   2020-06-09
 tags: [Word,页面设置,技巧,安装,下载]
 comments: true

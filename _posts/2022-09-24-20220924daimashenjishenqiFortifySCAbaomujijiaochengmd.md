@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码审计神器：Fortify SCA 保姆级教程"
+title: "代码审计神器Fortify SCA 保姆级教程"
 date:   2022-08-31
 tags: [Fortify,SCA,代码,漏洞,安全漏洞]
 comments: true

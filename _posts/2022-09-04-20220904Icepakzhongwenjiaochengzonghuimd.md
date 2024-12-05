@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Icepak中文教程（总汇）"
+title: "Icepak中文教程总汇"
 date:   2020-10-08
 tags: [Icepak,教程,仿真,用户,技巧]
 comments: true

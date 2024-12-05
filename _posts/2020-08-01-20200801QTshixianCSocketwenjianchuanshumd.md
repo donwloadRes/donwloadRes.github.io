@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现C++ Socket文件传输"
+title: "QT实现C Socket文件传输"
 date:   2024-06-29
 tags: [QT,Socket,文件传输,示例,客户端]
 comments: true

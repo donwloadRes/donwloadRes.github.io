@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于主从博弈的电热综合能源系统动态定价与能量管理"
+title: "MATLAB代码基于主从博弈的电热综合能源系统动态定价与能量管理"
 date:   2020-06-25
 tags: [代码,主从,电热,博弈,MATLAB]
 comments: true

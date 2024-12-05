@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法分析与设计（Python）》课后习题答案"
+title: "算法分析与设计Python课后习题答案"
 date:   2024-01-07
 tags: [Python,答案,算法,课后,习题]
 comments: true

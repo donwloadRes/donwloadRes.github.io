@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级VMware虚拟机安装Linux(CentOS7)"
+title: "保姆级VMware虚拟机安装LinuxCentOS7"
 date:   2023-09-12
 tags: [虚拟机,VMware,安装,CentOS,BIOS]
 comments: true

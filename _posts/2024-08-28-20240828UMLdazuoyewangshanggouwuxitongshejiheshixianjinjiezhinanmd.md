@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML大作业：网上购物系统设计和实现进阶指南"
+title: "UML大作业网上购物系统设计和实现进阶指南"
 date:   2021-06-05
 tags: [UML,设计,系统,代码,文档]
 comments: true

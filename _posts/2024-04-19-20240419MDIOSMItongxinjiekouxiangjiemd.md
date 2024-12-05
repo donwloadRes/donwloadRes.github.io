@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDIO-SMI通信接口详解"
+title: "MDIOSMI通信接口详解"
 date:   2022-05-12
 tags: [通信接口,MDIO,SMI,资源,文件]
 comments: true

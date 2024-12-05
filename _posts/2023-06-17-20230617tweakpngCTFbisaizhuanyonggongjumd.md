@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tweakpng - CTF比赛专用工具"
+title: "tweakpng  CTF比赛专用工具"
 date:   2022-11-17
 tags: [tweakpng,CTF,PNG,图像,隐藏]
 comments: true

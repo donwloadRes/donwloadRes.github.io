@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java学生管理系统（GUI和数据库）"
+title: "Java学生管理系统GUI和数据库"
 date:   2020-09-23
 tags: [数据库,学生,信息,课程,Java]
 comments: true

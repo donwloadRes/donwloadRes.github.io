@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 8.1 安装指南"
+title: "CentOS 81 安装指南"
 date:   2023-07-23
 tags: [CentOS,8.1,安装,虚拟机,教程]
 comments: true

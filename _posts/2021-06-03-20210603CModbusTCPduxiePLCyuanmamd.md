@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus TCP 读写 PLC 源码"
+title: "C Modbus TCP 读写 PLC 源码"
 date:   2022-11-16
 tags: [TCP,PLC,C#,读写,源码]
 comments: true

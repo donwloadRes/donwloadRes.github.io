@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GVIM Verilog 插件：Automatic 改进版！"
+title: "GVIM Verilog 插件Automatic 改进版"
 date:   2023-02-24
 tags: [插件,GVIM,Verilog,快捷键,自动]
 comments: true

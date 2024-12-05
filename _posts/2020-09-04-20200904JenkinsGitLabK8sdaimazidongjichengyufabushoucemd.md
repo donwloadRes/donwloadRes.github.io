@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenkins+GitLab+K8s 代码自动集成与发布手册"
+title: "JenkinsGitLabK8s 代码自动集成与发布手册"
 date:   2024-02-23
 tags: [Jenkins,GitLab,Kubernetes,配置,集成]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第23届国电赛E题省一论文：基于资源的动态目标追踪系统"
+title: "第23届国电赛E题省一论文基于资源的动态目标追踪系统"
 date:   2024-01-10
 tags: [系统,MCU,论文,追踪,23]
 comments: true

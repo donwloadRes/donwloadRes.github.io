@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Linux驱动开发实战指南——基于i.MX6ULL系列》"
+title: "嵌入式Linux驱动开发实战指南基于iMX6ULL系列"
 date:   2020-02-01
 tags: [Linux,嵌入式,驱动,MX6ULL,实战]
 comments: true

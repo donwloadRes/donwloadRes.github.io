@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBERT测试指南：高速接口前的必备步骤"
+title: "IBERT测试指南高速接口前的必备步骤"
 date:   2021-08-11
 tags: [IBERT,测试,高速接口,常见问题,设计]
 comments: true

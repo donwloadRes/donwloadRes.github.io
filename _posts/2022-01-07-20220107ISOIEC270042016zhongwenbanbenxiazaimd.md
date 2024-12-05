@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27004-2016 中文版本下载"
+title: "ISOIEC 270042016 中文版本下载"
 date:   2021-09-15
 tags: [ISO,IEC,27004,2016,中文]
 comments: true

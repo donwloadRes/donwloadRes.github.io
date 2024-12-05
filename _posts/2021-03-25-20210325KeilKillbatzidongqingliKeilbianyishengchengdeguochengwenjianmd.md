@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KeilKill.bat：自动清理Keil编译生成的过程文件"
+title: "KeilKillbat自动清理Keil编译生成的过程文件"
 date:   2022-08-25
 tags: [KeilKill,bat,文件,Keil,工程]
 comments: true

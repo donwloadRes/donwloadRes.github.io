@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙 Cx-One 卸载软件"
+title: "欧姆龙 CxOne 卸载软件"
 date:   2022-10-18
 tags: [卸载,Cx,软件,工具,欧姆龙]
 comments: true

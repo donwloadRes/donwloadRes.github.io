@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq UltraScale+ MPSOC XCZU4EV 核心板原理图"
+title: "Xilinx Zynq UltraScale MPSOC XCZU4EV 核心板原理图"
 date:   2023-02-22
 tags: [原理图,Xilinx,Zynq,UltraScale,MPSOC]
 comments: true

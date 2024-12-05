@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python-3.9.0b5-amd64 DLL错误解决方案：api-ms-win-core-path-l1-1-0.dll缺失问题修复"
+title: "python390b5amd64 DLL错误解决方案apimswincorepathl110dll缺失问题修复"
 date:   2022-05-31
 tags: [dll,api,ms,win,core]
 comments: true

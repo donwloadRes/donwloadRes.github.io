@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 (Linux) 详细安装教程（图文详解）+ 报错解析"
+title: "CentOS 7 Linux 详细安装教程图文详解 报错解析"
 date:   2020-09-24
 tags: [CentOS,安装,Linux,教程,报错]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager 6.42 Build 3 全球最佳下载利器"
+title: "Internet Download Manager 642 Build 3 全球最佳下载利器"
 date:   2022-01-20
 tags: [下载,IDM,6.42,Build,自动]
 comments: true

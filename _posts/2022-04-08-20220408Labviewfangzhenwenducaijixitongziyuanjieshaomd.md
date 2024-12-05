@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview仿真-温度采集系统资源介绍"
+title: "Labview仿真温度采集系统资源介绍"
 date:   2022-03-06
 tags: [温度,采集,设计,LabVIEW,VI]
 comments: true

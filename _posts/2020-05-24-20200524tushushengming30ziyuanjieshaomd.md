@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书生命3.0》资源介绍"
+title: "图书生命30资源介绍"
 date:   2023-05-26
 tags: [3.0,资源,生命,人工智能,百度网]
 comments: true

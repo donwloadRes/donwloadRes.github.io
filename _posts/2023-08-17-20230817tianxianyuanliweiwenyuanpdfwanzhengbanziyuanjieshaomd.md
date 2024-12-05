@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线原理（魏文元）.pdf - 完整版资源介绍"
+title: "天线原理魏文元pdf  完整版资源介绍"
 date:   2020-05-27
 tags: [天线,原理,魏文元,pdf,学习]
 comments: true

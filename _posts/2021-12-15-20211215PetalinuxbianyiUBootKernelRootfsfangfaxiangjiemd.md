@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Petalinux编译U-Boot、Kernel、Rootfs方法详解"
+title: "Petalinux编译UBootKernelRootfs方法详解"
 date:   2021-10-30
 tags: [Petalinux,编译,Boot,Kernel,Rootfs]
 comments: true

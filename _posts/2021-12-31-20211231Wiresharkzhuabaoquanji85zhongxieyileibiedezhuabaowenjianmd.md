@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark抓包全集（85种协议、类别的抓包文件）"
+title: "Wireshark抓包全集85种协议类别的抓包文件"
 date:   2022-04-18
 tags: [Wireshark,抓包,文件,85,协议]
 comments: true

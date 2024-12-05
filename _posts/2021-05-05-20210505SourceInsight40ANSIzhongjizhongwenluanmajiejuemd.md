@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 ANSI 终极中文乱码解决"
+title: "Source Insight 40 ANSI 终极中文乱码解决"
 date:   2022-04-22
 tags: [文件,乱码,Source,Insight,4.0]
 comments: true

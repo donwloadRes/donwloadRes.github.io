@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【PyQt5】图元建立、操作与连接实战指南"
+title: "PyQt5图元建立操作与连接实战指南"
 date:   2022-03-20
 tags: [PyQt5,图形界面,示例,QGraphicsItem,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB S-Function编写指导"
+title: "MATLAB SFunction编写指导"
 date:   2022-05-14
 tags: [Function,编写,MATLAB,初学者,文档]
 comments: true

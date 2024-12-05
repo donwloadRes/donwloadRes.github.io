@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拉扎维射频微电子第二版》英文原版资源"
+title: "拉扎维射频微电子第二版英文原版资源"
 date:   2022-10-05
 tags: [射频,英文原版,微电子,拉扎,资源]
 comments: true

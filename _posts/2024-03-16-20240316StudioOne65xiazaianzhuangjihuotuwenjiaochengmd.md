@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6.5 下载安装激活图文教程"
+title: "Studio One 65 下载安装激活图文教程"
 date:   2024-06-20
 tags: [Studio,6.5,教程,激活,软件]
 comments: true

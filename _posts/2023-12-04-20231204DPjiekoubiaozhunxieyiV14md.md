@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DP 接口标准协议 V1.4"
+title: "DP 接口标准协议 V14"
 date:   2022-11-07
 tags: [DP,接口标准,V1.4,协议,音频]
 comments: true

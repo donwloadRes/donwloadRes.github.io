@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件课程设计——模拟自动洗衣机"
+title: "硬件课程设计模拟自动洗衣机"
 date:   2020-06-11
 tags: [课程设计,硬件,微控制器,仿真,洗衣机]
 comments: true

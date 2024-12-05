@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT基础之QT5.12下载与安装指南"
+title: "QT基础之QT512下载与安装指南"
 date:   2022-11-24
 tags: [安装,QT,Qt,5.12,Android]
 comments: true

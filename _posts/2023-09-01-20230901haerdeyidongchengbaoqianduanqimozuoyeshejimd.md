@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈尔的移动城堡 - 前端期末作业设计"
+title: "哈尔的移动城堡  前端期末作业设计"
 date:   2020-02-24
 tags: [JavaScript,CSS,卡片,图片,页面]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用DBCView编辑DBC文件过程（一）"
+title: "使用DBCView编辑DBC文件过程一"
 date:   2023-05-23
 tags: [DBCView,DBC,文件,编辑,工具]
 comments: true

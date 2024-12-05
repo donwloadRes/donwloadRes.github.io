@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "放大器非线性失真研究装置（E题）资源"
+title: "放大器非线性失真研究装置E题资源"
 date:   2022-01-29
 tags: [采样,电子设计,源码,ADC,FFT]
 comments: true

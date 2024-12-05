@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费下载：makecert.exe 和 pvk2pfx.exe"
+title: "免费下载makecertexe 和 pvk2pfxexe"
 date:   2020-08-20
 tags: [exe,makecert,pvk2pfx,文件,下载]
 comments: true

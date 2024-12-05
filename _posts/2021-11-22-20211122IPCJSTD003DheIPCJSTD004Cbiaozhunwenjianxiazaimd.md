@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-J-STD-003D 和 IPC-J-STD-004C 标准文件下载"
+title: "IPCJSTD003D 和 IPCJSTD004C 标准文件下载"
 date:   2024-05-05
 tags: [IPC,STD,003D,004C,印制板]
 comments: true

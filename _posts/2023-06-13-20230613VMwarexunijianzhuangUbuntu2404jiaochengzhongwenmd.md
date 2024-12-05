@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装Ubuntu 24.04 教程（中文）"
+title: "VMware虚拟机安装Ubuntu 2404 教程中文"
 date:   2024-10-26
 tags: [VMware,Ubuntu,虚拟机,安装,24.04]
 comments: true

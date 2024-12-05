@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战OpenPose项目3：PyTorch实现OpenPose（包括手和身体姿态估计）"
+title: "实战OpenPose项目3PyTorch实现OpenPose包括手和身体姿态估计"
 date:   2020-10-25
 tags: [OpenPose,PyTorch,bash,姿态,python]
 comments: true

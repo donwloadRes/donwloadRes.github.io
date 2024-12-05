@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论基础中文版 by Thomas M.cover——原书第二版"
+title: "信息论基础中文版 by Thomas Mcover原书第二版"
 date:   2020-06-11
 tags: [信息论,原书,cover,中文版,研究]
 comments: true

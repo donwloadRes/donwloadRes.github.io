@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言x86-x64注入驱动 源码"
+title: "易语言x86x64注入驱动 源码"
 date:   2023-01-09
 tags: [DLL,注入,进程,源码,目标]
 comments: true

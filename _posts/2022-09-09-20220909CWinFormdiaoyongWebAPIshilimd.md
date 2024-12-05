@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 调用 WebAPI 示例"
+title: "C WinForm 调用 WebAPI 示例"
 date:   2020-03-14
 tags: [WebAPI,JSON,示例,C#,字符串]
 comments: true

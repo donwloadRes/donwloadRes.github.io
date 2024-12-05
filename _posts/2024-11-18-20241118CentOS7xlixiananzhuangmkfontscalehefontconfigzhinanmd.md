@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.x 离线安装mkfontscale和fontconfig指南"
+title: "CentOS 7x 离线安装mkfontscale和fontconfig指南"
 date:   2021-02-13
 tags: [rpm,mkfontscale,字体,fontconfig,离线]
 comments: true

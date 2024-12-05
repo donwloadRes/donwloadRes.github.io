@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕天选2-天选2Plus笔记本电脑原装Win10系统工厂安装包下载"
+title: "ASUS华硕天选2天选2Plus笔记本电脑原装Win10系统工厂安装包下载"
 date:   2021-04-20
 tags: [天选,安装包,笔记本电脑,系统,出厂]
 comments: true

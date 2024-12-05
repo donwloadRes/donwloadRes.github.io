@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源八位半万用表 - 欧洲原子能机构"
+title: "开源八位半万用表  欧洲原子能机构"
 date:   2022-07-17
 tags: [万用表,开源,测量,八位,爱好者]
 comments: true

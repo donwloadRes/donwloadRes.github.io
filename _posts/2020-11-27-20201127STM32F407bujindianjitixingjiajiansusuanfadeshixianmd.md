@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32：F407步进电机梯形加减速算法的实现"
+title: "STM32F407步进电机梯形加减速算法的实现"
 date:   2022-10-04
 tags: [步进,电机,STM32,减速,梯形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three-dxf：基于Three.js的浏览器端DXF查看器"
+title: "threedxf基于Threejs的浏览器端DXF查看器"
 date:   2022-04-15
 tags: [DXF,dxf,js,three,Three]
 comments: true

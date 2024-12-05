@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机（PMSM）数学模型建立与仿真"
+title: "永磁同步电机PMSM数学模型建立与仿真"
 date:   2023-09-18
 tags: [仿真,PMSM,数学模型,示例,文件]
 comments: true

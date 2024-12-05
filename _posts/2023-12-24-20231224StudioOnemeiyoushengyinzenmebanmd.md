@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One没有声音怎么办？"
+title: "Studio One没有声音怎么办"
 date:   2024-05-02
 tags: [Studio,插件,音频设备,音频,问题]
 comments: true

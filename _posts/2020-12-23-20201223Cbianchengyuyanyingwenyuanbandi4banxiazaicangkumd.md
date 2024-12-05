@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程语言 英文原版 第4版 下载仓库"
+title: "C编程语言 英文原版 第4版 下载仓库"
 date:   2022-05-27
 tags: [C++,英文原版,PDF,仓库,编程语言]
 comments: true

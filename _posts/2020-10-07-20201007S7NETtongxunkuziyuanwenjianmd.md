@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7.NET 通讯库资源文件"
+title: "S7NET 通讯库资源文件"
 date:   2023-11-25
 tags: [PLC,DLL,文件,通讯,西门子]
 comments: true

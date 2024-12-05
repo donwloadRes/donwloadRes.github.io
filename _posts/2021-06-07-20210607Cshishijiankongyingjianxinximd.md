@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实时监控硬件信息"
+title: "C实时监控硬件信息"
 date:   2022-07-21
 tags: [硬件,代码,C#,监控,实时]
 comments: true

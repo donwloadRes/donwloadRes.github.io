@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 数据库编程：SQLite实现学生信息管理应用"
+title: "Android 数据库编程SQLite实现学生信息管理应用"
 date:   2020-06-27
 tags: [Android,SQLite,学生,数据库,https]
 comments: true

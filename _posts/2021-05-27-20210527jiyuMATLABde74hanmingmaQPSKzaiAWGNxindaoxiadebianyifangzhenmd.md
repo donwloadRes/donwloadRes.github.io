@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的(7,4)汉明码QPSK在AWGN信道下的编译仿真"
+title: "基于MATLAB的74汉明码QPSK在AWGN信道下的编译仿真"
 date:   2022-01-18
 tags: [汉明码,仿真,MATLAB,Hamming,QPSK]
 comments: true

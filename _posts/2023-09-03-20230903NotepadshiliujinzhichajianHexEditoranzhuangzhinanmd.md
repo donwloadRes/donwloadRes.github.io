@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 十六进制插件 Hex Editor 安装指南"
+title: "Notepad 十六进制插件 Hex Editor 安装指南"
 date:   2021-11-08
 tags: [插件,Notepad,++,Editor,十六进制]
 comments: true

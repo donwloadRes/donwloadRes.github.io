@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEPServerEX 6.9 Fanuc Focas CNC数据中文版资源下载"
+title: "KEPServerEX 69 Fanuc Focas CNC数据中文版资源下载"
 date:   2023-05-11
 tags: [cnc,KEPServerEX,6.9,Fanuc,Focas]
 comments: true

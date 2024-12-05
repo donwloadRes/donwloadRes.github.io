@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC设计Spyglass lint-CDC 讲义下载"
+title: "IC设计Spyglass lintCDC 讲义下载"
 date:   2020-01-24
 tags: [IC,Spyglass,讲义,lint,CDC]
 comments: true

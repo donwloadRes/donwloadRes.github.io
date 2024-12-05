@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity TMP(TextMesh Pro)中文输入问题解决方案"
+title: "Unity TMPTextMesh Pro中文输入问题解决方案"
 date:   2021-09-17
 tags: [字体,中文,Unity,TMP,资源]
 comments: true

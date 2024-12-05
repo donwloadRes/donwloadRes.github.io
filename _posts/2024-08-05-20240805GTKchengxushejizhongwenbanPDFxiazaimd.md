@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTK+程序设计中文版 PDF 下载"
+title: "GTK程序设计中文版 PDF 下载"
 date:   2022-03-11
 tags: [GTK,程序设计,中文版,PDF,文件]
 comments: true

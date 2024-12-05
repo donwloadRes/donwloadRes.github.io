@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fama-Macbeth小组第一次汇报资源下载"
+title: "FamaMacbeth小组第一次汇报资源下载"
 date:   2024-11-11
 tags: [Fama,Macbeth,Stata,实证,方法]
 comments: true

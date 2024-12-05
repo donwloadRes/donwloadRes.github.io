@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在IntelliJ IDEA 2020.1中配置Android开发环境踩过的坑"
+title: "在IntelliJ IDEA 20201中配置Android开发环境踩过的坑"
 date:   2023-03-11
 tags: [配置,IDEA,IntelliJ,2020.1,Android]
 comments: true

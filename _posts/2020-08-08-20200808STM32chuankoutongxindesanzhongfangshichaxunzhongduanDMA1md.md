@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口通信的三种方式：查询、中断、DMA1"
+title: "STM32串口通信的三种方式查询中断DMA1"
 date:   2024-03-24
 tags: [串口,STM32,通信,USART,中断]
 comments: true

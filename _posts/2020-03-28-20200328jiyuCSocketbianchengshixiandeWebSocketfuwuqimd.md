@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C++ Socket编程实现的WebSocket服务器"
+title: "基于C Socket编程实现的WebSocket服务器"
 date:   2021-09-24
 tags: [WebSocket,C++,websocket,server,服务器]
 comments: true

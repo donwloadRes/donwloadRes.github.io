@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HLW8110-HLW8112电压电流电量采集芯片全套资料下载"
+title: "HLW8110HLW8112电压电流电量采集芯片全套资料下载"
 date:   2020-11-24
 tags: [芯片,原理图,程序代码,HLW8110,HLW8112]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android-BLE框架"
+title: "AndroidBLE框架"
 date:   2024-03-22
 tags: [蓝牙,Android,BLE,框架,开发者]
 comments: true

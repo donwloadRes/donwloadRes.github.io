@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GUIFormat：FAT32格式化工具"
+title: "GUIFormatFAT32格式化工具"
 date:   2021-07-23
 tags: [格式化,SD,GUIFormat,工具,Windows]
 comments: true

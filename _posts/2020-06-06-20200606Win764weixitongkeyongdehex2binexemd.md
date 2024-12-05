@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7 64位系统可用的hex2bin.exe"
+title: "Win7 64位系统可用的hex2binexe"
 date:   2021-12-19
 tags: [hex2bin,64,exe,Windows,mot2bin]
 comments: true

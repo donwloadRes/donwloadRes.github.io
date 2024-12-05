@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+OLED最小系统板资源汇总"
+title: "STM32OLED最小系统板资源汇总"
 date:   2020-05-29
 tags: [STM32,示例,OLED,最小,硬件]
 comments: true

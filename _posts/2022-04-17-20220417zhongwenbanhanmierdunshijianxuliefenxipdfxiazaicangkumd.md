@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【中文版】汉密尔顿--时间序列分析.pdf 下载仓库"
+title: "中文版汉密尔顿时间序列分析pdf 下载仓库"
 date:   2020-10-03
 tags: [序列,汉密尔顿,中文版,--,pdf]
 comments: true

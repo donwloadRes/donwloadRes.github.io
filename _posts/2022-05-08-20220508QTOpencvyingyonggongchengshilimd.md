@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+Opencv应用工程示例"
+title: "QTOpencv应用工程示例"
 date:   2021-08-04
 tags: [示例,QT,OpenCV,应用,RK3568]
 comments: true

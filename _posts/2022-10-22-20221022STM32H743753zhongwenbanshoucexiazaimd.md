@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H743-753中文版手册下载"
+title: "STM32H743753中文版手册下载"
 date:   2022-06-16
 tags: [手册,中文版,STM32H7,STM32H743,这份]
 comments: true

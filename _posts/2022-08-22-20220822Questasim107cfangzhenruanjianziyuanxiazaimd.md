@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Questasim 10.7c 仿真软件资源下载"
+title: "Questasim 107c 仿真软件资源下载"
 date:   2021-01-28
 tags: [10.7,下载,Questasim,仿真,文件]
 comments: true

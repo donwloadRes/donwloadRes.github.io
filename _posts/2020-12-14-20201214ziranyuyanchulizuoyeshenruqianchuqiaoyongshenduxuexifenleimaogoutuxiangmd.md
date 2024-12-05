@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理作业：深入浅出，巧用深度学习分类猫狗图像"
+title: "自然语言处理作业深入浅出巧用深度学习分类猫狗图像"
 date:   2024-10-31
 tags: [图像,模型,分类,DNN,RNN]
 comments: true

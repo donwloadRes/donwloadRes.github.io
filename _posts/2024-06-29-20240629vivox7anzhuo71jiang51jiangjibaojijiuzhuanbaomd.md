@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vivo x7 安卓7.1降5.1降级包及救砖包"
+title: "vivo x7 安卓71降51降级包及救砖包"
 date:   2021-04-17
 tags: [降级,手机,vivo,x7,安卓]
 comments: true

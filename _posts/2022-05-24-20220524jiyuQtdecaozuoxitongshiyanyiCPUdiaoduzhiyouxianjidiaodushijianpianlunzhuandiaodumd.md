@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt的操作系统实验一：CPU调度之优先级调度&时间片轮转调度"
+title: "基于Qt的操作系统实验一CPU调度之优先级调度时间片轮转调度"
 date:   2022-11-27
 tags: [调度,Qt,优先级,CPU,操作系统]
 comments: true

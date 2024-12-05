@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-DataCom实验资料下载"
+title: "HCIEDataCom实验资料下载"
 date:   2023-04-03
 tags: [HCIE,DataCom,实验,资料,zip]
 comments: true

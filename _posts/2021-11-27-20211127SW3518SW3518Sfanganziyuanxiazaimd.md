@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SW3518 & SW3518S方案资源下载"
+title: "SW3518  SW3518S方案资源下载"
 date:   2020-11-23
 tags: [设计,SW3518,SW3518S,PCB,原理图]
 comments: true

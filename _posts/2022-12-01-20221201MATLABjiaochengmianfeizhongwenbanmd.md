@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 教程（免费中文版）"
+title: "MATLAB 教程免费中文版"
 date:   2022-05-04
 tags: [MATLAB,教程,中文版,免费,仓库]
 comments: true

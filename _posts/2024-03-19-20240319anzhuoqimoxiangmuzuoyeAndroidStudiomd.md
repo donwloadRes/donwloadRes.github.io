@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓期末项目作业 - Android Studio"
+title: "安卓期末项目作业  Android Studio"
 date:   2020-01-01
 tags: [安卓,Android,Studio,项目,源代码]
 comments: true

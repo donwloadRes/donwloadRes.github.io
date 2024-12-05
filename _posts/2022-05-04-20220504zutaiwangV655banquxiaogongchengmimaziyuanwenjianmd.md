@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王V6.55版取消工程密码资源文件"
+title: "组态王V655版取消工程密码资源文件"
 date:   2024-02-21
 tags: [密码,组态王,V6.55,取消,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 3.0 电气机械规范资源下载"
+title: "PCI Express 30 电气机械规范资源下载"
 date:   2024-01-20
 tags: [3.0,PCIe,文档,规范,PCI]
 comments: true

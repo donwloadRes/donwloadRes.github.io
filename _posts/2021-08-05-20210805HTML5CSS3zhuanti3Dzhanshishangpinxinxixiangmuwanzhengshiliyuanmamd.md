@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5 CSS3 专题：3D展示商品信息项目完整实例源码"
+title: "HTML5 CSS3 专题3D展示商品信息项目完整实例源码"
 date:   2021-09-24
 tags: [3D,源码,商品信息,HTML5,CSS3]
 comments: true

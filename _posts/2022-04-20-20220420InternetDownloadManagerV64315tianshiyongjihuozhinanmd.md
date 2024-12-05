@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager V6.43 15天试用激活指南"
+title: "Internet Download Manager V643 15天试用激活指南"
 date:   2023-08-31
 tags: [IDM,激活,下载,试用期,V6.43]
 comments: true

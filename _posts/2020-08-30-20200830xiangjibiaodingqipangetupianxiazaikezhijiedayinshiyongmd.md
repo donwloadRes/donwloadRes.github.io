@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相机标定棋盘格图片下载（可直接打印使用）"
+title: "相机标定棋盘格图片下载可直接打印使用"
 date:   2024-02-29
 tags: [标定,相机,棋盘,图片,打印]
 comments: true

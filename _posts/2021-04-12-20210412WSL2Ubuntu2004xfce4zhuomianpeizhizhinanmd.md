@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WSL2-Ubuntu20.04 xfce4桌面配置指南"
+title: "WSL2Ubuntu2004 xfce4桌面配置指南"
 date:   2020-09-18
 tags: [配置,xfce4,WSL2,桌面,安装]
 comments: true

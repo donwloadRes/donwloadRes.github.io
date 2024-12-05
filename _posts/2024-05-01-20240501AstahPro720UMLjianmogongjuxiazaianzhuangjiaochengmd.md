@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astah Pro 7.2.0 UML建模工具下载安装教程"
+title: "Astah Pro 720 UML建模工具下载安装教程"
 date:   2021-08-31
 tags: [Astah,建模,Pro,7.2,UML]
 comments: true

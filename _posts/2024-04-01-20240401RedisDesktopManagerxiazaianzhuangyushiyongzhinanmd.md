@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis Desktop Manager 下载、安装与使用指南"
+title: "Redis Desktop Manager 下载安装与使用指南"
 date:   2024-10-11
 tags: [Redis,Desktop,Manager,下载,连接]
 comments: true

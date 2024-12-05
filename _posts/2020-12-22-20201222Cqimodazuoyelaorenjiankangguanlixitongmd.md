@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++期末大作业：老人健康管理系统"
+title: "C期末大作业老人健康管理系统"
 date:   2024-10-11
 tags: [健康,老人,操作,期末,系统]
 comments: true

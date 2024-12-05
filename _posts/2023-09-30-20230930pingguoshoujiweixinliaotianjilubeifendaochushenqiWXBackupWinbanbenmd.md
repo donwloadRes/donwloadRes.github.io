@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果手机微信聊天记录备份导出神器：WX Backup（Win版本）"
+title: "苹果手机微信聊天记录备份导出神器WX BackupWin版本"
 date:   2021-07-17
 tags: [聊天记录,导出,备份,WX,Backup]
 comments: true

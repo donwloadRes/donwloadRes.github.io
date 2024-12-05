@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为数通HCIA-Datacom H12-811题库下载"
+title: "华为数通HCIADatacom H12811题库下载"
 date:   2021-04-16
 tags: [题库,HCIA,Datacom,数通,华为]
 comments: true

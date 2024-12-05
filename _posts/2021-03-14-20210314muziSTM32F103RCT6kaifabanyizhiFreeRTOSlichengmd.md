@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "木子STM32F103RCT6开发板·移植FreeRTOS例程"
+title: "木子STM32F103RCT6开发板移植FreeRTOS例程"
 date:   2022-10-10
 tags: [开发板,任务,例程,STM32F103RCT6,FreeRTOS]
 comments: true

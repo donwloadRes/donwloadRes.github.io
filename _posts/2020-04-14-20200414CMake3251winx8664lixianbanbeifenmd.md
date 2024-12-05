@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake-3.25.1-win-x86-64 离线版备份"
+title: "CMake3251winx8664 离线版备份"
 date:   2020-09-24
 tags: [CMake,3.25,x86,64,离线]
 comments: true

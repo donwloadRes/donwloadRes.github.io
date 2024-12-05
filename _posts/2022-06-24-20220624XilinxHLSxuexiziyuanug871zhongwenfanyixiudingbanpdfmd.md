@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx HLS学习资源： ug871(中文翻译修订版).pdf"
+title: "Xilinx HLS学习资源 ug871中文翻译修订版pdf"
 date:   2022-06-22
 tags: [HLS,修订版,Xilinx,学习,中文翻译]
 comments: true

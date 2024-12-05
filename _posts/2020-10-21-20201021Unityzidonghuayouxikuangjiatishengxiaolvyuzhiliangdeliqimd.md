@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity自动化游戏框架：提升效率与质量的利器"
+title: "Unity自动化游戏框架提升效率与质量的利器"
 date:   2023-01-30
 tags: [自动化,游戏,Unity,框架,提升]
 comments: true

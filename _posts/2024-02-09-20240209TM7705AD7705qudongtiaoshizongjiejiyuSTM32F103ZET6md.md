@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TM7705(AD7705)驱动调试总结 - 基于STM32F103ZET6"
+title: "TM7705AD7705驱动调试总结  基于STM32F103ZET6"
 date:   2024-05-10
 tags: [TM7705,调试,AD7705,STM32F103ZET6,代码]
 comments: true

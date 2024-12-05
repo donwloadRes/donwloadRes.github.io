@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++代码资源下载"
+title: "C代码资源下载"
 date:   2022-08-05
 tags: [代码,C++,文件,下载,示例]
 comments: true

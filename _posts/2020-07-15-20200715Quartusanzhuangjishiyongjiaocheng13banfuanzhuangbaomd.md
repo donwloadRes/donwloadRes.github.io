@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus 安装及使用教程（13版附安装包）"
+title: "Quartus 安装及使用教程13版附安装包"
 date:   2022-05-14
 tags: [安装,Quartus,教程,安装包,13.0]
 comments: true

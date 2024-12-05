@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STC89C51单片机的双通道DHT11实时温湿度显示系统（LCD1602）"
+title: "基于STC89C51单片机的双通道DHT11实时温湿度显示系统LCD1602"
 date:   2020-03-08
 tags: [温湿度,STC89C51,单片机,DHT11,LCD1602]
 comments: true

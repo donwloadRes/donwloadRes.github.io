@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StirMarkBenchmark——图像攻击软件简介与资源"
+title: "StirMarkBenchmark图像攻击软件简介与资源"
 date:   2022-12-06
 tags: [StirMarkBenchmark,攻击,图像,数字水印,目录]
 comments: true

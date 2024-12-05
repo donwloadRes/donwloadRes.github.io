@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点云配准Super-4PCS资源下载"
+title: "点云配准Super4PCS资源下载"
 date:   2020-11-01
 tags: [4PCS,点云,配准,Super,代码]
 comments: true

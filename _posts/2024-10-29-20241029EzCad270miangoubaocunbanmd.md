@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EzCad2.7.0 免狗保存版"
+title: "EzCad270 免狗保存版"
 date:   2022-11-29
 tags: [EzCad2.7,免狗,zip,加密狗,软件]
 comments: true

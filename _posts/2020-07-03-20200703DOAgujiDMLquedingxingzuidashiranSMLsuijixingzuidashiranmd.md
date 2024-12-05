@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOA估计 - DML(确定性最大似然) & SML(随机性最大似然)"
+title: "DOA估计  DML确定性最大似然  SML随机性最大似然"
 date:   2021-12-23
 tags: [似然,DOA,DML,SML,Matlab]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSIM入门教程：简单实例讲解PSIM基本操作"
+title: "PSIM入门教程简单实例讲解PSIM基本操作"
 date:   2023-06-06
 tags: [PSIM,基本操作,教程,实例,讲解]
 comments: true

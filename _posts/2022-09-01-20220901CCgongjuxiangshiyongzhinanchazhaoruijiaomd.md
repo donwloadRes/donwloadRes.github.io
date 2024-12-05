@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：查找锐角"
+title: "CC工具箱使用指南查找锐角"
 date:   2024-05-14
 tags: [要素,锐角,查找,工具,CC]
 comments: true

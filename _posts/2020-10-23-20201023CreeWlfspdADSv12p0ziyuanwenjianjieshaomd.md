@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cree_Wlfspd_ADS_v12p0 资源文件介绍"
+title: "CreeWlfspdADSv12p0 资源文件介绍"
 date:   2020-05-18
 tags: [文件,Cree,Wlfspd,ADS,v12p0]
 comments: true

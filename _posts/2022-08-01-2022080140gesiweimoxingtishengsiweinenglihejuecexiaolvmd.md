@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "40个思维模型：提升思维能力和决策效率"
+title: "40个思维模型提升思维能力和决策效率"
 date:   2024-02-09
 tags: [模型,思维,40,文档,思维能力]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红米1s 刷入魔趣（Mokee）ROM（Android 7.1）"
+title: "红米1s 刷入魔趣MokeeROMAndroid 71"
 date:   2020-01-06
 tags: [刷机,ROM,入魔,红米,1s]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L-BFGS算法 MATLAB版本"
+title: "LBFGS算法 MATLAB版本"
 date:   2024-06-03
 tags: [BFGS,算法,MATLAB,优化,内存]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023第十四届蓝桥杯大赛软件赛省赛（研究生组Python）真题下载"
+title: "2023第十四届蓝桥杯大赛软件赛省赛研究生组Python真题下载"
 date:   2023-11-12
 tags: [真题,蓝桥,研究生,下载,编程]
 comments: true

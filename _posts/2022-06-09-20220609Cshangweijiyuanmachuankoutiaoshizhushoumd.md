@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机源码串口调试助手"
+title: "C上位机源码串口调试助手"
 date:   2022-08-21
 tags: [上位,下位,温度,源码,实时]
 comments: true

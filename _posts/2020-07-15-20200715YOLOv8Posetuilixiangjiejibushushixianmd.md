@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8-Pose推理详解及部署实现"
+title: "YOLOv8Pose推理详解及部署实现"
 date:   2020-12-12
 tags: [YOLOv8,Pose,推理,模型,详解]
 comments: true

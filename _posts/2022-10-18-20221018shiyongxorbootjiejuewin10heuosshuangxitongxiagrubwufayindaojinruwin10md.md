@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用xorboot解决“win10和uos双系统下grub无法引导进入win10“"
+title: "使用xorboot解决win10和uos双系统下grub无法引导进入win10"
 date:   2023-10-23
 tags: [xorboot,Windows,10,引导,双系统]
 comments: true

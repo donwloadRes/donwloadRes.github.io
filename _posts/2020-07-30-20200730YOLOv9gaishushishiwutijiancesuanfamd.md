@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv9概述 - 实时物体检测算法"
+title: "YOLOv9概述  实时物体检测算法"
 date:   2022-10-31
 tags: [YOLOv9,物体,检测,PGI,GELAN]
 comments: true

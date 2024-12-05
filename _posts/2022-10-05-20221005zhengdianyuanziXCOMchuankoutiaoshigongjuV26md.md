@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子XCOM串口调试工具 V2.6"
+title: "正点原子XCOM串口调试工具 V26"
 date:   2024-10-30
 tags: [串口,V2.6,调试,XCOM,正点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于NRF52832蓝牙芯片的电子价签（电子墨水屏）"
+title: "基于NRF52832蓝牙芯片的电子价签电子墨水屏"
 date:   2022-06-27
 tags: [价签,电子,NRF52832,芯片,固件]
 comments: true

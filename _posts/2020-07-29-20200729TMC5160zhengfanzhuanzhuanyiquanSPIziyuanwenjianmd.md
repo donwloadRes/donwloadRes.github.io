@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMC5160正反转转一圈（SPI）资源文件"
+title: "TMC5160正反转转一圈SPI资源文件"
 date:   2023-11-30
 tags: [TMC5160,SPI,代码,正反,一圈]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈工大-概率论与数理统计大作业（论文）"
+title: "哈工大概率论与数理统计大作业论文"
 date:   2023-02-07
 tags: [数理统计,概率论,作业,哈工大,学习]
 comments: true

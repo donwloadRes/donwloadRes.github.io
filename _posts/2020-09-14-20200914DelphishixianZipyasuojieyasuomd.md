@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi实现Zip压缩-解压缩"
+title: "Delphi实现Zip压缩解压缩"
 date:   2024-10-27
 tags: [Delphi,Zip,解压缩,XE4,源码]
 comments: true

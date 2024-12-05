@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Odin Inspector V3.2.1.0 资源下载"
+title: "Unity Odin Inspector V3210 资源下载"
 date:   2024-02-18
 tags: [Odin,Unity,Inspector,1.0,V3.2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profili翼型设计软件v2.21中文版"
+title: "Profili翼型设计软件v221中文版"
 date:   2022-03-15
 tags: [翼型,Profili,软件,设计,解压]
 comments: true

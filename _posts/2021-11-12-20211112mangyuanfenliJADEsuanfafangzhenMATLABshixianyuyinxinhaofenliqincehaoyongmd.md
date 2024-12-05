@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "盲源分离+JADE算法仿真+MATLAB实现+语音信号分离+亲测好用"
+title: "盲源分离JADE算法仿真MATLAB实现语音信号分离亲测好用"
 date:   2021-01-12
 tags: [分离,信号,盲源,JADE,算法]
 comments: true

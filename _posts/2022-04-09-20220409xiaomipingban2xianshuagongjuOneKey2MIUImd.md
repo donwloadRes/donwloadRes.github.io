@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米平板2线刷工具 - OneKey2MIUI"
+title: "小米平板2线刷工具  OneKey2MIUI"
 date:   2023-05-07
 tags: [平板,小米,线刷,OneKey2MIUI,工具]
 comments: true

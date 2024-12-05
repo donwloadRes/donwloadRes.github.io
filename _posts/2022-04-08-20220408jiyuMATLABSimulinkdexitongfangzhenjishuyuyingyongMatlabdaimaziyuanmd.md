@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink的系统仿真技术与应用》Matlab代码资源"
+title: "基于MATLABSimulink的系统仿真技术与应用Matlab代码资源"
 date:   2022-11-21
 tags: [仿真,MATLAB,Simulink,仿真技术,系统]
 comments: true

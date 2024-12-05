@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARMCC编译器 for Keil - ARMCompiler-506-Windows-x86-b960"
+title: "ARMCC编译器 for Keil  ARMCompiler506Windowsx86b960"
 date:   2020-01-17
 tags: [编译器,Keil,Windows,x86,ARM]
 comments: true

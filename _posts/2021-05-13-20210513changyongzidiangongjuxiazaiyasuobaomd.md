@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用字典工具下载（压缩包）"
+title: "常用字典工具下载压缩包"
 date:   2020-02-10
 tags: [字典,压缩包,工具,下载,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB App Designer 小白学习（二）资源下载"
+title: "MATLAB App Designer 小白学习二资源下载"
 date:   2023-01-24
 tags: [MATLAB,App,Designer,学习,小白]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "和家亲CS-MY3摄像头刷萤石云固件教程"
+title: "和家亲CSMY3摄像头刷萤石云固件教程"
 date:   2020-06-24
 tags: [刷机,教程,摄像头,萤石,固件]
 comments: true

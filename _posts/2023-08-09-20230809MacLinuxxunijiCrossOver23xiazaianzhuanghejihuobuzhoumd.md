@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac-Linux虚拟机CrossOver 23下载、安装和激活步骤"
+title: "MacLinux虚拟机CrossOver 23下载安装和激活步骤"
 date:   2024-02-11
 tags: [CrossOver,23,Mac,激活码,Windows]
 comments: true

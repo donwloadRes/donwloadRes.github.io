@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "御剑后台扫描工具下载、安装、使用教程"
+title: "御剑后台扫描工具下载安装使用教程"
 date:   2020-03-08
 tags: [扫描,工具,御剑,后台,字典]
 comments: true

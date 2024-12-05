@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTI-DDS-Qos 中文介绍"
+title: "RTIDDSQos 中文介绍"
 date:   2023-02-07
 tags: [QoS,DDS,文件,RTI,Qos]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue + Cesium 小项目"
+title: "Vue  Cesium 小项目"
 date:   2021-04-18
 tags: [Vue,Cesium,项目,Webpack,js]
 comments: true

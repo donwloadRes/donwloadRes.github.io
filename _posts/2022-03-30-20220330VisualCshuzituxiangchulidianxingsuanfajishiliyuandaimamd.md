@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 数字图像处理典型算法及实例源代码"
+title: "Visual C 数字图像处理典型算法及实例源代码"
 date:   2020-04-21
 tags: [图像,算法,实现,变换,源代码]
 comments: true

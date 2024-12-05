@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27002-2022 信息安全、网络安全和隐私保护"
+title: "ISOIEC 270022022 信息安全网络安全和隐私保护"
 date:   2022-09-27
 tags: [信息安全,2022,ISO,IEC,27002]
 comments: true

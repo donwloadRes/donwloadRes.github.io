@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Font Awesome Pro v6.5.1 专业零售版 网站开发必备图标库"
+title: "Font Awesome Pro v651 专业零售版 网站开发必备图标库"
 date:   2022-08-19
 tags: [图标,v6.5,零售版,Font,Awesome]
 comments: true

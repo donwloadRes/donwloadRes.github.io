@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "农产品价格可视化系统 - 使用Flask + PyEcharts"
+title: "农产品价格可视化系统  使用Flask  PyEcharts"
 date:   2023-09-11
 tags: [可视化,数据,项目,PyEcharts,农产品]
 comments: true

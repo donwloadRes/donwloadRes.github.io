@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jetson Nano-NX 使用麒麟 ARM 版向日葵实现远程控制"
+title: "Jetson NanoNX 使用麒麟 ARM 版向日葵实现远程控制"
 date:   2022-11-23
 tags: [向日葵,Jetson,Nano,NX,指南]
 comments: true

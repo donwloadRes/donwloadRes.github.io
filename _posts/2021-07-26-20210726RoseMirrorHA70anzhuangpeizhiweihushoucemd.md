@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RoseMirrorHA7.0 安装配置维护手册"
+title: "RoseMirrorHA70 安装配置维护手册"
 date:   2020-08-02
 tags: [RoseMirrorHA7.0,手册,Windows,Linux,安装]
 comments: true

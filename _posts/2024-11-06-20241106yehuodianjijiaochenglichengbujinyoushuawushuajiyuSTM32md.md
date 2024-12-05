@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野火-电机教程例程-步进-有刷-无刷（基于STM32）"
+title: "野火电机教程例程步进有刷无刷基于STM32"
 date:   2024-02-21
 tags: [电机,有刷,直流,PID,控制]
 comments: true

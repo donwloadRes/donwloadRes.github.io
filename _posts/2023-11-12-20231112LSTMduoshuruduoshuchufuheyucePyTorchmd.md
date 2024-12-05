@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM多输入多输出负荷预测（PyTorch）"
+title: "LSTM多输入多输出负荷预测PyTorch"
 date:   2022-11-27
 tags: [LSTM,负荷,输入,输出,PyTorch]
 comments: true

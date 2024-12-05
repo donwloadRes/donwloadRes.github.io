@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式期末大作业：ToFu 豆腐商店"
+title: "设计模式期末大作业ToFu 豆腐商店"
 date:   2020-09-12
 tags: [设计模式,豆腐,模式,项目,主程序]
 comments: true

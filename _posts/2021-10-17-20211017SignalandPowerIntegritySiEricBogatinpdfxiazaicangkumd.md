@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Signal and Power Integrity - Si - Eric Bogatin.pdf 下载仓库"
+title: "Signal and Power Integrity  Si  Eric Bogatinpdf 下载仓库"
 date:   2022-07-09
 tags: [Signal,Power,Integrity,完整性,Si]
 comments: true

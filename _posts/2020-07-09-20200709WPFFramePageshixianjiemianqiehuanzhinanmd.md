@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF Frame+Page实现界面切换指南"
+title: "WPF FramePage实现界面切换指南"
 date:   2022-02-23
 tags: [WPF,界面,导航,页面,Frame]
 comments: true

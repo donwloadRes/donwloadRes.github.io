@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸢尾花数据集（xlsx格式）"
+title: "鸢尾花数据集xlsx格式"
 date:   2021-07-27
 tags: [学习,数据,鸢尾花,Excel,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验三 - 时序电路设计实验报告"
+title: "实验三  时序电路设计实验报告"
 date:   2022-09-09
 tags: [时序电路,设计,实验,实验报告,学生]
 comments: true

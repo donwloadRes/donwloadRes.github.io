@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 360B-2009 电子及电气元件试验方法"
+title: "GJB 360B2009 电子及电气元件试验方法"
 date:   2020-06-06
 tags: [元件,试验,电气,2009,电子]
 comments: true

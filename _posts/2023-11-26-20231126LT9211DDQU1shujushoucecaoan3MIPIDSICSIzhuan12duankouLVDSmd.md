@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT9211D-DQ-U1 数据手册草案3：MIPI DSI-CSI 转 1-2 端口 LVDS"
+title: "LT9211DDQU1 数据手册草案3MIPI DSICSI 转 12 端口 LVDS"
 date:   2022-03-03
 tags: [LT9211D,LVDS,MIPI,DSI,端口]
 comments: true

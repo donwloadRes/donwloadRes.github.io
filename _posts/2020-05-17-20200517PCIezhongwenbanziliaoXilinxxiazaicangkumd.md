@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe中文版资料（Xilinx）下载仓库"
+title: "PCIe中文版资料Xilinx下载仓库"
 date:   2020-04-14
 tags: [PCIe,Xilinx,资料,中文版,仓库]
 comments: true

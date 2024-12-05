@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10、win7安装SQLServer2000最详细教程"
+title: "win10win7安装SQLServer2000最详细教程"
 date:   2021-09-03
 tags: [SQL,Server,2000,安装,Windows]
 comments: true

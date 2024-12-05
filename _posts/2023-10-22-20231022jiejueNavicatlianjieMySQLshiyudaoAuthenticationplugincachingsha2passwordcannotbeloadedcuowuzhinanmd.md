@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Navicat连接MySQL时遇到“Authentication plugin 'caching_sha2_password' cannot be loaded”错误指南"
+title: "解决Navicat连接MySQL时遇到Authentication plugin cachingsha2password cannot be loaded错误指南"
 date:   2020-06-20
 tags: [Navicat,MySQL,password,sha2,caching]
 comments: true

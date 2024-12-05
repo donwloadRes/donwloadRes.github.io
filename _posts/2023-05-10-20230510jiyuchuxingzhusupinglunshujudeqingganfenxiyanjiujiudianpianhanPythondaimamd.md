@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于出行住宿评论数据的情感分析研究（酒店篇，含Python代码）"
+title: "基于出行住宿评论数据的情感分析研究酒店篇含Python代码"
 date:   2022-03-08
 tags: [情感,评论,py,数据,可视化]
 comments: true

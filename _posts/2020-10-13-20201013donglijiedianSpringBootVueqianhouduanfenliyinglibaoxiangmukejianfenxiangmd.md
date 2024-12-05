@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动力节点Spring Boot + Vue前后端分离盈利宝项目课件分享"
+title: "动力节点Spring Boot  Vue前后端分离盈利宝项目课件分享"
 date:   2021-11-25
 tags: [项目,架构,Spring,Boot,Vue]
 comments: true

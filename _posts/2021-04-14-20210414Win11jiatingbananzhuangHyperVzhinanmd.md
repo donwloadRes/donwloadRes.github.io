@@ -1,6 +1,30 @@
 ---
 layout: post
-title: "Win11家庭版安装Hyper-V指南"
+title: "Win11家庭版安装HyperV指南
+date   20211102
+tags Hyper家庭版安装Windowshyper
+comments true
+author admin
+
+ Win11家庭版安装HyperV指南
+
+ 资源简介
+本文档为您提供详细指导帮助那些使用Windows 11家庭版的用户成功安装HyperVHyperV是一款强大的虚拟机管理程序通常预装在Windows的专业版及以上版本中然而对于家庭版用户来说原生并不支持此功能幸运的是通过一些技巧您也可以在家庭版上激活并使用HyperV
+
+ 文章来源
+本指南基于CSDN博客httpsblogcsdnnetalang10241024articledetails136431123上的文章该文提供了详细的步骤和一个简便的CMD脚本使得家庭版用户无需升级系统即可享受HyperV带来的便利
+
+ 安装前提条件
+ 确保您的CPU支持虚拟化技术并在BIOS中已启用
+ 操作系统应为最新状态以便兼容所有必需的组件
+
+ 安装步骤简述
+1 准备脚本 首先您需要下载或手动创建一个批处理文件bat其中包含必要的Dism命令来添加HyperV功能
+   
+   batch
+   pushd dp0
+   dir b SystemRootservicingPackagesHyperV mum hypervtxt
+   for f i in findstr i  hypervtxt 2nul do dism online norestart addpackageSystemRootservicingPackagesi"
 date:   2021-11-02
 tags: [Hyper,家庭版,安装,Windows,hyper]
 comments: true

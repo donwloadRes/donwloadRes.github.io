@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework V4.0.30319 资源下载"
+title: "NET Framework V4030319 资源下载"
 date:   2022-01-06
 tags: [NET,Framework,30319,V4.0,安装]
 comments: true

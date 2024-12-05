@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ai智能客服系统在线客服源码+多语言+桌面推送"
+title: "Ai智能客服系统在线客服源码多语言桌面推送"
 date:   2023-10-22
 tags: [客服,源码,系统,语言,Ai]
 comments: true

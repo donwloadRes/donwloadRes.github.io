@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft .NET Framework 3.5 Sp1离线安装 （中文清晰版）"
+title: "Microsoft NET Framework 35 Sp1离线安装 中文清晰版"
 date:   2020-04-05
 tags: [Sp1,安装,NET,Framework,3.5]
 comments: true

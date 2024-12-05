@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "科大讯飞语音唤醒及语音听写服务 C#开发资源文件"
+title: "科大讯飞语音唤醒及语音听写服务 C开发资源文件"
 date:   2024-05-19
 tags: [语音,听写,唤醒,文件,科大]
 comments: true

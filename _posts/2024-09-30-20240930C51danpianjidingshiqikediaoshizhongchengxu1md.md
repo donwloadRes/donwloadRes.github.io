@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C51单片机-定时器可调时钟-程序1"
+title: "C51单片机定时器可调时钟程序1"
 date:   2022-06-04
 tags: [C51,定时器,单片机,时钟,可调]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 7637-2：2011 电气瞬态传导标准文件"
+title: "ISO 763722011 电气瞬态传导标准文件"
 date:   2020-09-16
 tags: [瞬态,电气,传导,ISO,7637]
 comments: true

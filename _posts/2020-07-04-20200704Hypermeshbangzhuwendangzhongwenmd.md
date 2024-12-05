@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hypermesh帮助文档（中文）"
+title: "Hypermesh帮助文档中文"
 date:   2022-02-03
 tags: [Hypermesh,文档,用户,中文,CAE]
 comments: true

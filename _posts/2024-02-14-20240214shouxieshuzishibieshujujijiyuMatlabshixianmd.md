@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手写数字识别数据集（基于Matlab实现）"
+title: "手写数字识别数据集基于Matlab实现"
 date:   2022-11-24
 tags: [手写,数字,识别,Matlab,代码]
 comments: true

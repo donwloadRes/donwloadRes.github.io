@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF.js 最新资源下载"
+title: "PDFjs 最新资源下载"
 date:   2024-09-07
 tags: [PDF,js,文件,最新,资源]
 comments: true

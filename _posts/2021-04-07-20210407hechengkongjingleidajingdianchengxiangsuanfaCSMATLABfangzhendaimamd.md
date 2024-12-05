@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "合成孔径雷达经典成像算法CS（MATLAB）仿真代码"
+title: "合成孔径雷达经典成像算法CSMATLAB仿真代码"
 date:   2023-09-25
 tags: [代码,MATLAB,合成孔径雷达,成像,算法]
 comments: true

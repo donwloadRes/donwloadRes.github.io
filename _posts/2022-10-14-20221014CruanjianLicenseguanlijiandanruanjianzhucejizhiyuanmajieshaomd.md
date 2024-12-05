@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#软件License管理（简单软件注册机制）源码介绍"
+title: "C软件License管理简单软件注册机制源码介绍"
 date:   2021-05-20
 tags: [加密,软件,注册,文件,硬件]
 comments: true

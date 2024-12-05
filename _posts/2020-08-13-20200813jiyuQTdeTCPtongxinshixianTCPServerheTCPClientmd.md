@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT的TCP通信实现(TCPServer和TCPClient)"
+title: "基于QT的TCP通信实现TCPServer和TCPClient"
 date:   2024-10-16
 tags: [QT,TCP,客户端,服务端,通信]
 comments: true

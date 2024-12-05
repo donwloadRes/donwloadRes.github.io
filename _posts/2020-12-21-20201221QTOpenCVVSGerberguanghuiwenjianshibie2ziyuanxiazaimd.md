@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenCV+VS Gerber光绘文件识别2 资源下载"
+title: "QTOpenCVVS Gerber光绘文件识别2 资源下载"
 date:   2021-04-22
 tags: [文件,Gerber,光绘,QT,OpenCV]
 comments: true

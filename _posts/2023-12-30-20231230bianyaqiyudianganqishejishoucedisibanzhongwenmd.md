@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "变压器与电感器设计手册-第四版（中文）"
+title: "变压器与电感器设计手册第四版中文"
 date:   2020-07-24
 tags: [变压器,设计,电感器,第四版,本书]
 comments: true

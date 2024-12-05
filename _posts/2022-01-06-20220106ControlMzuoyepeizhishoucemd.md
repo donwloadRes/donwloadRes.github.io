@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Control-M 作业配置手册"
+title: "ControlM 作业配置手册"
 date:   2020-02-29
 tags: [Control,作业,CTM,本手册,用户]
 comments: true

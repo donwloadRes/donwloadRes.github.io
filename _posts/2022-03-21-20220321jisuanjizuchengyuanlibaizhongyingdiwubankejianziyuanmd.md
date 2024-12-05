@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理（白中英第五版）课件资源"
+title: "计算机组成原理白中英第五版课件资源"
 date:   2023-09-13
 tags: [课件,计算机,第五版,白中英,学习]
 comments: true

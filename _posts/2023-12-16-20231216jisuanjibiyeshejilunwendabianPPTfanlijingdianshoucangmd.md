@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机毕业设计论文答辩PPT范例（经典收藏）"
+title: "计算机毕业设计论文答辩PPT范例经典收藏"
 date:   2023-12-24
 tags: [PPT,答辩,毕业设计,论文答辩,内容]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "处理后的SFEW 2.0数据集介绍"
+title: "处理后的SFEW 20数据集介绍"
 date:   2020-05-06
 tags: [数据,SFEW,2.0,图像,处理]
 comments: true

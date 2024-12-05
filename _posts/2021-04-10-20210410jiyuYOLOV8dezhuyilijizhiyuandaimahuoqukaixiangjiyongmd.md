@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOV8的注意力机制源代码获取，开箱即用"
+title: "基于YOLOV8的注意力机制源代码获取开箱即用"
 date:   2023-04-14
 tags: [YOLOV8,注意力,Attention,源代码,机制]
 comments: true

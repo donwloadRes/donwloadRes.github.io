@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果开发- iOS-邓白氏-编码申请"
+title: "苹果开发 iOS邓白氏编码申请"
 date:   2022-03-12
 tags: [申请,邓白氏,编码,文件,iOS]
 comments: true

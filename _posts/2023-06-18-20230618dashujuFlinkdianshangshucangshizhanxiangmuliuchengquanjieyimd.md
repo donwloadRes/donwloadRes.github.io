@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据Flink电商数仓实战项目流程全解（一）"
+title: "大数据Flink电商数仓实战项目流程全解一"
 date:   2021-02-18
 tags: [Flink,数据,项目,数仓,实时]
 comments: true

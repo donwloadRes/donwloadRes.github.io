@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛客大数据面试题集锦+答案"
+title: "牛客大数据面试题集锦答案"
 date:   2022-04-11
 tags: [面试题,面试,答案,集锦,牛客]
 comments: true

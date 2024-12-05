@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InfiniBand架构和技术实战总结(第二版) 资源下载"
+title: "InfiniBand架构和技术实战总结第二版 资源下载"
 date:   2023-03-07
 tags: [InfiniBand,架构,技术,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 读取USB HID设备测试软件"
+title: "C 读取USB HID设备测试软件"
 date:   2020-02-15
 tags: [HID,设备,读取,该软件,VID]
 comments: true

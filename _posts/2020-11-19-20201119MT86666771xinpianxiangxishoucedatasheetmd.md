@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT8666(6771) 芯片详细手册(datasheet)"
+title: "MT86666771 芯片详细手册datasheet"
 date:   2021-07-18
 tags: [芯片,手册,MT8666,datasheet,开发]
 comments: true

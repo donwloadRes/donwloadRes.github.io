@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "各省三农数据面板（1999-2020）"
+title: "各省三农数据面板19992020"
 date:   2024-01-05
 tags: [农村,数据,1999,2020,各省]
 comments: true

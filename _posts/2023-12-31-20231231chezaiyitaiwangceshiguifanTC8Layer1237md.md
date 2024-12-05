@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载以太网测试规范TC8：Layer 1、2、3~7"
+title: "车载以太网测试规范TC8Layer 1237"
 date:   2021-06-06
 tags: [测试,以太网,Layer,规范,车载]
 comments: true

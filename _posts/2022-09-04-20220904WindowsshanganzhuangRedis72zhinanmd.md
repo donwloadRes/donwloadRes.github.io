@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 上安装 Redis 7.2 指南"
+title: "Windows 上安装 Redis 72 指南"
 date:   2024-03-17
 tags: [Redis,7.2,Windows,安装,内存]
 comments: true

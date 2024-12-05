@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "逻辑分析仪软件（Logic+Setup+1.1.34）安装及界面初识"
+title: "逻辑分析仪软件LogicSetup1134安装及界面初识"
 date:   2023-07-25
 tags: [软件,安装,34,分析仪,Logic]
 comments: true

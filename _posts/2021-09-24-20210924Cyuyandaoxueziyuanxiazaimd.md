@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言导学资源下载"
+title: "C语言导学资源下载"
 date:   2020-06-27
 tags: [C++,语言,导学,下载,资源]
 comments: true

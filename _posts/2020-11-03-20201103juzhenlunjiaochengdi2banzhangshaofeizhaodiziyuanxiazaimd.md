@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵论教程第2版（张绍飞、赵迪）资源下载"
+title: "矩阵论教程第2版张绍飞赵迪资源下载"
 date:   2021-09-03
 tags: [矩阵,手写,参考答案,赵迪,北航]
 comments: true

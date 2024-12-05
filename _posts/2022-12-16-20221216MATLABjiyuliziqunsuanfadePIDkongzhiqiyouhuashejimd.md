@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB——基于粒子群算法的PID控制器优化设计"
+title: "MATLAB基于粒子群算法的PID控制器优化设计"
 date:   2020-04-11
 tags: [MATLAB,PID,控制器,优化,算法]
 comments: true

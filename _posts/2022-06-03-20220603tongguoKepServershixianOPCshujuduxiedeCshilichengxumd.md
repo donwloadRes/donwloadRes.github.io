@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通过KepServer实现OPC数据读写的C#实例程序"
+title: "通过KepServer实现OPC数据读写的C实例程序"
 date:   2024-10-17
 tags: [OPC,OPCAutomation,服务器,C#,列举]
 comments: true

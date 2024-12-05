@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil 5(C51) 下载安装指南"
+title: "Keil 5C51 下载安装指南"
 date:   2021-01-15
 tags: [安装,文件夹,点击,解压,Keil]
 comments: true

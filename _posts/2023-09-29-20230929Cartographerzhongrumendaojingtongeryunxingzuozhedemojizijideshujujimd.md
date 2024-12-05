@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cartographer重入门到精通（二）：运行作者demo及自己的数据集"
+title: "Cartographer重入门到精通二运行作者demo及自己的数据集"
 date:   2024-02-13
 tags: [Cartographer,demo,运行,数据,文件]
 comments: true

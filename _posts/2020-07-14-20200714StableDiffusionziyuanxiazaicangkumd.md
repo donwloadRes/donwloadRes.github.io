@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stable-Diffusion 资源下载仓库"
+title: "StableDiffusion 资源下载仓库"
 date:   2021-04-05
 tags: [Stable,Diffusion,下载,forge,example]
 comments: true

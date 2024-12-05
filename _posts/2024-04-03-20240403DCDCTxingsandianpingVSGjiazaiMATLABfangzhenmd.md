@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DCDC+T型三电平VSG加载MATLAB仿真"
+title: "DCDCT型三电平VSG加载MATLAB仿真"
 date:   2023-11-04
 tags: [仿真,电路,VSG,电平,加载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最好用的Markdown神器：Typora"
+title: "最好用的Markdown神器Typora"
 date:   2024-12-03
 tags: [Typora,Markdown,上传,预览,用户]
 comments: true

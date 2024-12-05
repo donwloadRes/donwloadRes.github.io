@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL酒店管理系统设计与实现源码"
+title: "JavaMySQL酒店管理系统设计与实现源码"
 date:   2024-12-04
 tags: [房间,MySQL,酒店,预订,项目]
 comments: true

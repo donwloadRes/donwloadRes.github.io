@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO3.0 物理层规格书中文版"
+title: "SDIO30 物理层规格书中文版"
 date:   2020-05-25
 tags: [SDIO3.0,物理层,规格书,中文版,文件]
 comments: true

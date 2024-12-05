@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMBus（系统管理总线）规范"
+title: "SMBus系统管理总线规范"
 date:   2022-09-01
 tags: [SMBus,总线,规范,系统管理,管理]
 comments: true

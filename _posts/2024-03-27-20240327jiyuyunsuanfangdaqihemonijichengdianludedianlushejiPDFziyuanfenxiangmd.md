@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于运算放大器和模拟集成电路的电路设计》PDF资源分享"
+title: "基于运算放大器和模拟集成电路的电路设计PDF资源分享"
 date:   2023-08-29
 tags: [电路设计,PDF,放大器,集成电路,运算]
 comments: true

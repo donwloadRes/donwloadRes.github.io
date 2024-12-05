@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "内存取微信2.5.5.26的好友微信号、wxid、v1-易语言"
+title: "内存取微信25526的好友微信号wxidv1易语言"
 date:   2023-05-10
 tags: [易语言,微信,2.5,5.26,好友]
 comments: true

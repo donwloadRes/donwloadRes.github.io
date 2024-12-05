@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版远程桌面工具 - 类似于TeamViewer"
+title: "C版远程桌面工具  类似于TeamViewer"
 date:   2023-04-10
 tags: [服务端,连接,字符串,远程桌面,TeamViewer]
 comments: true

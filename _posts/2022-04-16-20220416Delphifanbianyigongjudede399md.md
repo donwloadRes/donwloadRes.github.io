@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi反编译工具 dede3.99"
+title: "Delphi反编译工具 dede399"
 date:   2022-04-18
 tags: [Delphi,反编译,dede3.99,Windows,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机程序设计艺术-第3版-中文版 PDF 下载"
+title: "计算机程序设计艺术第3版中文版 PDF 下载"
 date:   2020-04-03
 tags: [程序设计,中文版,PDF,计算机,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualC++ 6.0中文版百度云下载"
+title: "VisualC 60中文版百度云下载"
 date:   2024-06-30
 tags: [C++,Visual,6.0,中文版,安装]
 comments: true

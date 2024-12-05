@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA Verilog HDL 生成任意频率、占空比的完美方波 PWM"
+title: "FPGA Verilog HDL 生成任意频率占空比的完美方波 PWM"
 date:   2024-06-13
 tags: [占空比,FPGA,频率,方波,引脚]
 comments: true

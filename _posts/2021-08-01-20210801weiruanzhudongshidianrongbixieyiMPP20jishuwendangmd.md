@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软主动式电容笔协议MPP 2.0技术文档"
+title: "微软主动式电容笔协议MPP 20技术文档"
 date:   2020-12-12
 tags: [文档,MPP,2.0,电容,主动式]
 comments: true

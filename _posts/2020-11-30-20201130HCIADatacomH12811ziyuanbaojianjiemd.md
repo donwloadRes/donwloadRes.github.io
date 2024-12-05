@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-Datacom (H12-811) 资源包简介"
+title: "HCIADatacom H12811 资源包简介"
 date:   2020-12-28
 tags: [华为,HCIA,SDN,认证,Datacom]
 comments: true

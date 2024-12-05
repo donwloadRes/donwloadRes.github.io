@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于滚动优化的大规模电动汽车随机充放电策略优化"
+title: "MATLAB代码基于滚动优化的大规模电动汽车随机充放电策略优化"
 date:   2024-02-15
 tags: [充放电,电动汽车,优化,代码,MATLAB]
 comments: true

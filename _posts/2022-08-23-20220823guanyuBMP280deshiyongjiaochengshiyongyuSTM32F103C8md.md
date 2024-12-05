@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于BMP280的使用教程（适用于STM32F103C8）"
+title: "关于BMP280的使用教程适用于STM32F103C8"
 date:   2021-05-12
 tags: [BMP280,初始化,I2C,SPI,STM32F103C8T6]
 comments: true

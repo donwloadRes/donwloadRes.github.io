@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pro ASP.NET Core MVC 第六版 PDF 下载"
+title: "Pro ASPNET Core MVC 第六版 PDF 下载"
 date:   2021-03-30
 tags: [NET,Core,ASP,MVC,第六版]
 comments: true

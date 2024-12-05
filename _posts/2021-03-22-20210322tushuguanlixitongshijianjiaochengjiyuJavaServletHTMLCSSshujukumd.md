@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书管理系统实践教程：基于Java + Servlet + HTML + CSS + 数据库"
+title: "图书管理系统实践教程基于Java  Servlet  HTML  CSS  数据库"
 date:   2021-05-24
 tags: [Java,数据库,Web,Servlet,图书]
 comments: true

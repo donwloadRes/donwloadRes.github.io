@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构课设：排序算法的可视化演示（QT+C++）"
+title: "数据结构课设排序算法的可视化演示QTC"
 date:   2021-08-15
 tags: [排序,算法,演示,QT,项目]
 comments: true

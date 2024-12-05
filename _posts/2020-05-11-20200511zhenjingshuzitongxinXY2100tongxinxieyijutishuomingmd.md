@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "振镜数字通信XY2-100通信协议具体说明"
+title: "振镜数字通信XY2100通信协议具体说明"
 date:   2024-12-03
 tags: [通信协议,XY2,100,振镜,数字通信]
 comments: true

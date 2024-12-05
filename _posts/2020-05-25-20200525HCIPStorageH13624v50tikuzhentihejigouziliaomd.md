@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Storage-H13-624 v5.0 题库真题和机构资料"
+title: "HCIPStorageH13624 v50 题库真题和机构资料"
 date:   2023-04-16
 tags: [HCIP,Storage,真题,题库,存储系统]
 comments: true

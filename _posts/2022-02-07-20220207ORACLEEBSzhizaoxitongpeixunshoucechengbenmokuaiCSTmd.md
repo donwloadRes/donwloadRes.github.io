@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ORACLE EBS制造系统培训手册— 成本模块（CST）"
+title: "ORACLE EBS制造系统培训手册 成本模块CST"
 date:   2024-11-27
 tags: [ORACLE,EBS,成本,模块,本手册]
 comments: true

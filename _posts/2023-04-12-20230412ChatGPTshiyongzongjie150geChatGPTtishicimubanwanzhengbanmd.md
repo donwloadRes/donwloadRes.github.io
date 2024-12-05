@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT使用总结：150个ChatGPT提示词模板（完整版）"
+title: "ChatGPT使用总结150个ChatGPT提示词模板完整版"
 date:   2024-04-27
 tags: [ChatGPT,模板,150,提示,完整版]
 comments: true

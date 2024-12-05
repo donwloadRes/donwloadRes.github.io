@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#蓝牙客户端与服务器通讯资源文件"
+title: "C蓝牙客户端与服务器通讯资源文件"
 date:   2022-08-04
 tags: [蓝牙,C#,通讯,客户端,服务器]
 comments: true

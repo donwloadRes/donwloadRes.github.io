@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为认证数通HCIE3.0笔试题库完美整理H12-261"
+title: "华为认证数通HCIE30笔试题库完美整理H12261"
 date:   2020-05-25
 tags: [题库,HCIE3.0,数通,华为,H12]
 comments: true

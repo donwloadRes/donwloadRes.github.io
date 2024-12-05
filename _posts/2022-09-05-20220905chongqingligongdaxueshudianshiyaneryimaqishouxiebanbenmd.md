@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "重庆理工大学-数电实验二-译码器（手写版本）"
+title: "重庆理工大学数电实验二译码器手写版本"
 date:   2021-06-10
 tags: [译码器,实验,数码管,数字,LED]
 comments: true

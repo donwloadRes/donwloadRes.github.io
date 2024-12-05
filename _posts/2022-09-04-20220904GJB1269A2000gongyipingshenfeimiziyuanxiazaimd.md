@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB1269A-2000工艺评审（非密）资源下载"
+title: "GJB1269A2000工艺评审非密资源下载"
 date:   2020-11-19
 tags: [GJB1269A,2000,非密,评审,工艺]
 comments: true

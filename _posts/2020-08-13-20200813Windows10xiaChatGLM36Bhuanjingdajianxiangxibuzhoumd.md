@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10下ChatGLM3-6B环境搭建详细步骤"
+title: "Windows10下ChatGLM36B环境搭建详细步骤"
 date:   2024-11-13
 tags: [步骤,搭建,ChatGLM3,6B,Windows10]
 comments: true

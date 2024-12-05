@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS信号产生、捕获与追踪的Matlab程序大集合"
+title: "GPS信号产生捕获与追踪的Matlab程序大集合"
 date:   2020-02-19
 tags: [GPS,Matlab,信号,程序,捕获]
 comments: true

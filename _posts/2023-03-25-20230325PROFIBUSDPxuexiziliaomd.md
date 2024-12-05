@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROFIBUS-DP学习资料"
+title: "PROFIBUSDP学习资料"
 date:   2021-02-13
 tags: [DP,PROFIBUS,例程,STM32,学习]
 comments: true

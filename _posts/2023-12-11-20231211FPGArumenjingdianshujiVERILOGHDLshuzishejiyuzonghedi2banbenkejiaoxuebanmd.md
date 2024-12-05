@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA入门经典书籍：VERILOG HDL数字设计与综合 第2版 本科教学版"
+title: "FPGA入门经典书籍VERILOG HDL数字设计与综合 第2版 本科教学版"
 date:   2022-12-24
 tags: [FPGA,VERILOG,HDL,数字,教学版]
 comments: true

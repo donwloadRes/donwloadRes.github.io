@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java飞行棋源码【飞行棋2023】"
+title: "Java飞行棋源码飞行棋2023"
 date:   2023-11-06
 tags: [飞行棋,Java,游戏,源码,2023]
 comments: true

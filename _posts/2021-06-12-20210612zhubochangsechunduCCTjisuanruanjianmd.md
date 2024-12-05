@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "主波长&色纯度&CCT计算软件"
+title: "主波长色纯度CCT计算软件"
 date:   2024-11-20
 tags: [主波长,CCT,纯度,计算,软件]
 comments: true

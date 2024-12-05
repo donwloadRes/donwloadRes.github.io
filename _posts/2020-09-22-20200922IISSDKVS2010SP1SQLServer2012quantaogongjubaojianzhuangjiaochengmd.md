@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IIS+SDK+VS2010+SP1+SQL Server 2012 全套工具包及安装教程"
+title: "IISSDKVS2010SP1SQL Server 2012 全套工具包及安装教程"
 date:   2020-02-11
 tags: [安装,IIS,SDK,SQL,Server]
 comments: true

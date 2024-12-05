@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "千万字肝翻Linux内核源码，对底层原理深耕深分析，从入门到入狱"
+title: "千万字肝翻Linux内核源码对底层原理深耕深分析从入门到入狱"
 date:   2024-01-14
 tags: [Linux,内核,内存,机制,底层]
 comments: true

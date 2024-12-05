@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT5 电子书教程"
+title: "C QT5 电子书教程"
 date:   2022-10-21
 tags: [1.1,1.2,1.3,控件,1.4]
 comments: true

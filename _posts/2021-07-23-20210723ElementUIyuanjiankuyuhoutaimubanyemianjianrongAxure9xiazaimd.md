@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ElementUI元件库与后台模板页面（兼容Axure9）下载"
+title: "ElementUI元件库与后台模板页面兼容Axure9下载"
 date:   2023-06-23
 tags: [元件库,页面,模板,ElementUI,Axure9]
 comments: true

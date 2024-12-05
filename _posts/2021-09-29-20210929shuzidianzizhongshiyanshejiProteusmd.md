@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子钟实验设计（Proteus）"
+title: "数字电子钟实验设计Proteus"
 date:   2023-11-23
 tags: [Proteus,电子钟,数字,文件,电路设计]
 comments: true

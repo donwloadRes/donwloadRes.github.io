@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-用PyTorch实现Faster R-CNN"
+title: "Python用PyTorch实现Faster RCNN"
 date:   2021-05-06
 tags: [CNN,Faster,PyTorch,模型,配置文件]
 comments: true

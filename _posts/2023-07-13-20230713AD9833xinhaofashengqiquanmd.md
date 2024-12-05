@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD9833信号发生器（全）"
+title: "AD9833信号发生器全"
 date:   2023-11-07
 tags: [AD9833,信号,发生器,频率,用户手册]
 comments: true

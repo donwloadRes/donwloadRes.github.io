@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI基础：图解Transformer"
+title: "AI基础图解Transformer"
 date:   2021-02-18
 tags: [Transformer,AI,图解,学习,基础]
 comments: true

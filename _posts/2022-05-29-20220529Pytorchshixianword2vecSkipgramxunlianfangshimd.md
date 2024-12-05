@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch实现word2vec(Skip-gram训练方式)"
+title: "Pytorch实现word2vecSkipgram训练方式"
 date:   2022-08-18
 tags: [训练,模型,Pytorch,word2vec,gram]
 comments: true

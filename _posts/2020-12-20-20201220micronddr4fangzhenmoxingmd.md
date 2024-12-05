@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "micron_ddr4_仿真模型"
+title: "micronddr4仿真模型"
 date:   2021-01-21
 tags: [仿真,DDR4,模型,Verilog,Micron]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5 新手教程（中文版）下载"
+title: "QT5 新手教程中文版下载"
 date:   2024-03-28
 tags: [教程,QT5,QT,新手,中文版]
 comments: true

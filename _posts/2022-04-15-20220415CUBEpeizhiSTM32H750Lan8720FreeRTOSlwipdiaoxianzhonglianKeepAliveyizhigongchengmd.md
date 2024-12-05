@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUBE配置STM32H750+Lan8720+FreeRTOS+lwip+掉线重连+KeepAlive移植工程"
+title: "CUBE配置STM32H750Lan8720FreeRTOSlwip掉线重连KeepAlive移植工程"
 date:   2023-05-15
 tags: [掉线,KeepAlive,STM32H750,Lan8720,FreeRTOS]
 comments: true

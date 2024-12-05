@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD209-4D - LPDDR4 协议标准资源下载"
+title: "JESD2094D  LPDDR4 协议标准资源下载"
 date:   2023-01-12
 tags: [LPDDR4,JESD209,4D,协议,文件]
 comments: true

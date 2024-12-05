@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cmake-3.18.0-rc3-win64-x64 资源介绍"
+title: "cmake3180rc3win64x64 资源介绍"
 date:   2024-05-10
 tags: [CMake,构建,3.18,安装,cmake]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q200 REV D中英文资源文件下载"
+title: "AECQ200 REV D中英文资源文件下载"
 date:   2021-05-29
 tags: [AEC,Q200,文件,REV,中英文]
 comments: true

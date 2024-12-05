@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Idea使用指南：编写Java代码的基本方法"
+title: "Idea使用指南编写Java代码的基本方法"
 date:   2022-09-08
 tags: [Idea,Java,文件,编写,代码]
 comments: true

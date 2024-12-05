@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库操作系统——Visual FoxPro 6.0安装指南"
+title: "数据库操作系统Visual FoxPro 60安装指南"
 date:   2023-10-14
 tags: [安装,Visual,FoxPro,6.0,数据库]
 comments: true

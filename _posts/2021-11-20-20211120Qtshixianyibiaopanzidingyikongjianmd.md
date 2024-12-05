@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现仪表盘-自定义控件"
+title: "Qt实现仪表盘自定义控件"
 date:   2021-10-08
 tags: [Qt,仪表盘,控件,绘制,QPainter]
 comments: true

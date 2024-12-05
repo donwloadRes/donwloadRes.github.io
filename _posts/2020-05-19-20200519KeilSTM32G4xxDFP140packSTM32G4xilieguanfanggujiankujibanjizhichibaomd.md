@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.STM32G4xx_DFP.1.4.0.pack - STM32G4系列官方固件库及板级支持包"
+title: "KeilSTM32G4xxDFP140pack  STM32G4系列官方固件库及板级支持包"
 date:   2024-01-18
 tags: [STM32G4,Keil,固件,示例,pack]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实现Zebra打印机标签打印（含二维码及中文支持）"
+title: "Java实现Zebra打印机标签打印含二维码及中文支持"
 date:   2022-09-25
 tags: [中文,源码,ZPL,打印,二维码]
 comments: true

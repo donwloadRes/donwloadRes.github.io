@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA 64位除法器(Verilog)"
+title: "FPGA 64位除法器Verilog"
 date:   2022-06-11
 tags: [运算,除法器,Verilog,64,FPGA]
 comments: true

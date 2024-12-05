@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计(浙大四版) 资源下载"
+title: "概率论与数理统计浙大四版 资源下载"
 date:   2022-07-01
 tags: [数理统计,概率论,四版,浙大,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR 4.3 规范简介"
+title: "AUTOSAR 43 规范简介"
 date:   2020-01-12
 tags: [AUTOSAR,规范,4.3,汽车,学习]
 comments: true

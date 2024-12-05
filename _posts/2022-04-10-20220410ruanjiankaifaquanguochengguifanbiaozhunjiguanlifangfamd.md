@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发全过程规范、标准及管理方法"
+title: "软件开发全过程规范标准及管理方法"
 date:   2023-03-27
 tags: [软件开发,文档,团队,确保,规范]
 comments: true

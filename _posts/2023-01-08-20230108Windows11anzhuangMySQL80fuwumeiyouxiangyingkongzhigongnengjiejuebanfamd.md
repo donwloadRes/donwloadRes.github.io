@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 11 安装 MySQL 8.0 服务没有响应控制功能解决办法"
+title: "Windows 11 安装 MySQL 80 服务没有响应控制功能解决办法"
 date:   2023-06-24
 tags: [MySQL,没有响应,安装,点击,服务]
 comments: true

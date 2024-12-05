@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .NET Web API 完整 Demo"
+title: "C NET Web API 完整 Demo"
 date:   2020-05-03
 tags: [API,Web,Model,数据库,git]
 comments: true

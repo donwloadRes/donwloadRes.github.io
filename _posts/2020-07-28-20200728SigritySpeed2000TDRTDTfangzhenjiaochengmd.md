@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sigrity Speed2000 TDR-TDT仿真教程"
+title: "Sigrity Speed2000 TDRTDT仿真教程"
 date:   2021-05-08
 tags: [Sigrity,仿真,TDR,TDT,教程]
 comments: true

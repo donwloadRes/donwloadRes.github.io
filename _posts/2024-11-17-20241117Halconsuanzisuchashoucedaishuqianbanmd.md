@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon算子速查手册(带书签版)"
+title: "Halcon算子速查手册带书签版"
 date:   2023-04-03
 tags: [算子,Halcon,书签,手册,速查]
 comments: true

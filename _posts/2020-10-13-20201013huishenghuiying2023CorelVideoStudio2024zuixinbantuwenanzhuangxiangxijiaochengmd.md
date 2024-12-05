@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "会声会影2023(Corel VideoStudio) 2024最新版图文安装详细教程"
+title: "会声会影2023Corel VideoStudio 2024最新版图文安装详细教程"
 date:   2022-05-11
 tags: [安装,会声,会影,2023,教程]
 comments: true

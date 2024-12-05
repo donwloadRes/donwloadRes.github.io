@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议 中文版+英文版 下载仓库"
+title: "Modbus协议 中文版英文版 下载仓库"
 date:   2021-11-19
 tags: [Modbus,协议,仓库,中文版,英文版]
 comments: true

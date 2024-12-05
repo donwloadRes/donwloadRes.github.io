@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++入门到精通的四本书超经典"
+title: "C入门到精通的四本书超经典"
 date:   2020-07-06
 tags: [C++,入门,书籍,经典,精通]
 comments: true

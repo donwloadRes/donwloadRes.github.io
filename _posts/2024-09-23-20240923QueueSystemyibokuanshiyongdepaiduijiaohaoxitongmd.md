@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QueueSystem: 已拨款使用的排队叫号系统"
+title: "QueueSystem 已拨款使用的排队叫号系统"
 date:   2021-12-21
 tags: [排队,服务,取号,系统,集成]
 comments: true

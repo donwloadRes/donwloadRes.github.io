@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "体测成绩数据分析 README.md"
+title: "体测成绩数据分析 READMEmd"
 date:   2021-09-06
 tags: [体测,成绩,数据分析,Python,Pandas]
 comments: true

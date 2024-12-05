@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++17标准 ISOIEC 14882:2017 官方PDF文档"
+title: "C17标准 ISOIEC 148822017 官方PDF文档"
 date:   2020-03-20
 tags: [C++,文档,17,PDF,标准]
 comments: true

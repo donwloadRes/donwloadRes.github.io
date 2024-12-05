@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K均值聚类即K-Means算法详解PPT"
+title: "K均值聚类即KMeans算法详解PPT"
 date:   2023-06-02
 tags: [Means,算法,PPT,应用,聚类]
 comments: true

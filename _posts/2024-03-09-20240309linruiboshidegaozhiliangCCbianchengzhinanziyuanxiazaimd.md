@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "林锐博士的高质量 C++-C 编程指南》资源下载"
+title: "林锐博士的高质量 CC 编程指南资源下载"
 date:   2023-06-29
 tags: [C++,编程,高质量,指南,PDF]
 comments: true

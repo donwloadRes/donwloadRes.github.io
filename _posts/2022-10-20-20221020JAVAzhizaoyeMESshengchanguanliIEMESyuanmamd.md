@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA制造业MES生产管理 IE-MES 源码"
+title: "JAVA制造业MES生产管理 IEMES 源码"
 date:   2020-10-11
 tags: [MES,源码,feature,生产,JAVA]
 comments: true

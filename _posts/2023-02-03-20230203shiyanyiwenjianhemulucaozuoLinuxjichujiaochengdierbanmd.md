@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验一 文件和目录操作（Linux基础教程 第二版）"
+title: "实验一 文件和目录操作Linux基础教程 第二版"
 date:   2022-08-23
 tags: [Linux,目录,文件,命令,操作]
 comments: true

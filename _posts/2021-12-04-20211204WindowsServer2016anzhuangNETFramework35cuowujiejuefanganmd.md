@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2016 安装.NET Framework 3.5 错误解决方案"
+title: "Windows Server 2016 安装NET Framework 35 错误解决方案"
 date:   2024-08-06
 tags: [NetFx3,cab,文件,NET,Framework]
 comments: true

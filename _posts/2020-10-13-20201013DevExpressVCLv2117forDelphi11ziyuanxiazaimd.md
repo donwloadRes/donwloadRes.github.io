@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress VCL v21.1.7 for Delphi 11 资源下载"
+title: "DevExpress VCL v2117 for Delphi 11 资源下载"
 date:   2021-10-04
 tags: [控件,Delphi,11,VCL,DevExpress]
 comments: true

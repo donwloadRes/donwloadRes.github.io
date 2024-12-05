@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 DirectShowLib 读取相机数据"
+title: "C 使用 DirectShowLib 读取相机数据"
 date:   2023-11-18
 tags: [相机,DirectShowLib,读取,代码,C#]
 comments: true

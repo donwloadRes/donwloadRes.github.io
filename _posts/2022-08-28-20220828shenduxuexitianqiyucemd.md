@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习——天气预测"
+title: "深度学习天气预测"
 date:   2020-07-17
 tags: [模型,数据,天气,学习,深度]
 comments: true

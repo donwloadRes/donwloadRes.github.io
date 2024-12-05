@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOXA串口服务器NPORT-5130详细配置指南"
+title: "MOXA串口服务器NPORT5130详细配置指南"
 date:   2024-02-08
 tags: [配置,NPORT,5130,指南,MOXA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt QTreeView使用-QStandardItemModel的使用"
+title: "Qt QTreeView使用QStandardItemModel的使用"
 date:   2023-06-05
 tags: [节点,QTreeView,Qt,QStandardItemModel,遍历]
 comments: true

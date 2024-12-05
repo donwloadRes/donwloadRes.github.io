@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenCV调用大恒相机进行实时采集和单帧采集"
+title: "QTOpenCV调用大恒相机进行实时采集和单帧采集"
 date:   2024-11-21
 tags: [采集,单帧,相机,QT,图像]
 comments: true

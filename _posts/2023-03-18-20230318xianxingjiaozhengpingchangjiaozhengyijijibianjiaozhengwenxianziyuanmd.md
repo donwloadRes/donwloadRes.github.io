@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性校正、平场校正以及畸变校正文献资源"
+title: "线性校正平场校正以及畸变校正文献资源"
 date:   2020-03-23
 tags: [校正,亮度,平场,数码相机,相机]
 comments: true

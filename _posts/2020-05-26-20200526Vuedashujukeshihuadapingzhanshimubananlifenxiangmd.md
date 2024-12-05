@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue大数据可视化（大屏展示） 模板案例分享"
+title: "Vue大数据可视化大屏展示 模板案例分享"
 date:   2022-01-08
 tags: [模板,可视化,Vue,大屏,展示]
 comments: true

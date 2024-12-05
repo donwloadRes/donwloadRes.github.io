@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF-CSP认证考试历年真题解答"
+title: "CCFCSP认证考试历年真题解答"
 date:   2023-12-18
 tags: [解答,真题,CCF,CSP,考试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正序与负序分量分离模型 - MATLAB开发"
+title: "正序与负序分量分离模型  MATLAB开发"
 date:   2020-11-08
 tags: [正序,MATLAB,模型,负序,分量]
 comments: true

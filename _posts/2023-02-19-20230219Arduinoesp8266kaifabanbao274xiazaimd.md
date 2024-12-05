@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino esp8266开发板包（2.7.4）下载"
+title: "Arduino esp8266开发板包274下载"
 date:   2021-09-21
 tags: [开发板,Arduino,2.7,esp8266,开源]
 comments: true

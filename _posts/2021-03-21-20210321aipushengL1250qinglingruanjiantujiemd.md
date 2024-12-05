@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L1250清零软件+图解"
+title: "爱普生L1250清零软件图解"
 date:   2024-02-25
 tags: [清零,打印机,爱普生,L1250,软件]
 comments: true

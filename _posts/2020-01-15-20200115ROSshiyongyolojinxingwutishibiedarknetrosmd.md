@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS使用yolo进行物体识别 - darknet-ros"
+title: "ROS使用yolo进行物体识别  darknetros"
 date:   2022-07-11
 tags: [ROS,物体,识别,OpenCV,YOLO]
 comments: true

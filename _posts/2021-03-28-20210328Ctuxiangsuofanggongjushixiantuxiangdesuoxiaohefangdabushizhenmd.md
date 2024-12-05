@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图像缩放工具 - 实现图像的缩小和放大，不失真！"
+title: "C 图像缩放工具  实现图像的缩小和放大不失真"
 date:   2020-12-23
 tags: [缩放,图像,工具,C#,缩小]
 comments: true

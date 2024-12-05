@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audacity 中文便携版 V3.0.2 下载"
+title: "Audacity 中文便携版 V302 下载"
 date:   2022-04-30
 tags: [Audacity,便携,V3.0,软件,中文]
 comments: true

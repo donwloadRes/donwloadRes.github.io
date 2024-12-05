@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "巴鲁夫BNI PG3-508-0C5-Z015说明书、手册与组态方法资源"
+title: "巴鲁夫BNI PG35080C5Z015说明书手册与组态方法资源"
 date:   2022-04-28
 tags: [508,0C5,Z015,巴鲁,组态]
 comments: true

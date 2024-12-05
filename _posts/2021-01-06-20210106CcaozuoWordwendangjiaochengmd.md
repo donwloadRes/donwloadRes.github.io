@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++操作Word文档教程"
+title: "C操作Word文档教程"
 date:   2020-08-03
 tags: [Word,文档,教程,C++,插入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 18 Tech Preview - 增强的 Windows 11 虚拟机安全性"
+title: "VMware Workstation 18 Tech Preview  增强的 Windows 11 虚拟机安全性"
 date:   2023-01-14
 tags: [Windows,虚拟机,11,VMware,安全]
 comments: true

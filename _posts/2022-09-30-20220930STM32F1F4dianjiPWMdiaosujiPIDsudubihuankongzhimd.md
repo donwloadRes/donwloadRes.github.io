@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1、F4电机PWM调速及PID速度闭环控制"
+title: "STM32F1F4电机PWM调速及PID速度闭环控制"
 date:   2020-11-29
 tags: [PID,PWM,电机,STM32,代码]
 comments: true

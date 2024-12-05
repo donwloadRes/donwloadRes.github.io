@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国计算机学会CCF推荐的国际会议（图像处理方向）"
+title: "中国计算机学会CCF推荐的国际会议图像处理方向"
 date:   2021-11-17
 tags: [图像处理,投稿,CCF,会议,学术]
 comments: true

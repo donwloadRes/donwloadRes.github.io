@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析基础（第三版课后答案）"
+title: "算法设计与分析基础第三版课后答案"
 date:   2020-12-02
 tags: [算法,课后,答案,第三版,学习]
 comments: true

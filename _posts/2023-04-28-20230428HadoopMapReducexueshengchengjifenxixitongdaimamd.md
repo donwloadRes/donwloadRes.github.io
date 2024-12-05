@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop-MapReduce学生成绩分析系统代码"
+title: "HadoopMapReduce学生成绩分析系统代码"
 date:   2020-03-29
 tags: [Hadoop,代码,MapReduce,ZIP,压缩包]
 comments: true

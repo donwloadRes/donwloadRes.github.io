@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web安全扫描工具AWVS（全部功能可用）"
+title: "Web安全扫描工具AWVS全部功能可用"
 date:   2020-10-31
 tags: [AWVS,Web,扫描,应用程序,工具]
 comments: true

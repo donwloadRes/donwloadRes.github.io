@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计报告——音乐管理系统"
+title: "数据库课程设计报告音乐管理系统"
 date:   2023-12-22
 tags: [数据库,音乐,设计,歌单,用户]
 comments: true

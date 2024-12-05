@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB点云工具箱的点云处理：欧式聚类与外接矩形提取"
+title: "基于MATLAB点云工具箱的点云处理欧式聚类与外接矩形提取"
 date:   2021-06-30
 tags: [点云,聚类,MATLAB,外接,工具箱]
 comments: true

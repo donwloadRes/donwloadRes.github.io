@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lena.raw图片文件下载及打开方式"
+title: "lenaraw图片文件下载及打开方式"
 date:   2020-11-16
 tags: [raw,lena,文件,图像,cv2]
 comments: true

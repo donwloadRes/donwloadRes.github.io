@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子串口调试助手 XCOM V2.6 下载"
+title: "正点原子串口调试助手 XCOM V26 下载"
 date:   2024-08-20
 tags: [串口,XCOM,V2.6,调试,下载]
 comments: true

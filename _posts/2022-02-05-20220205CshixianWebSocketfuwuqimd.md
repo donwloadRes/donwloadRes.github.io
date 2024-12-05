@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 实现WebSocket服务器"
+title: "C 实现WebSocket服务器"
 date:   2022-08-14
 tags: [WebSocket,C++,libuv,服务器,gbase]
 comments: true

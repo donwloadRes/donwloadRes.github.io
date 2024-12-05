@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu22.04下在Spark2.4.0中采用Local模式配置并启动pyspark（附Ubuntu更改默认Python版本）"
+title: "Ubuntu2204下在Spark240中采用Local模式配置并启动pyspark附Ubuntu更改默认Python版本"
 date:   2024-04-12
 tags: [Spark,Python,Ubuntu,版本,Local]
 comments: true

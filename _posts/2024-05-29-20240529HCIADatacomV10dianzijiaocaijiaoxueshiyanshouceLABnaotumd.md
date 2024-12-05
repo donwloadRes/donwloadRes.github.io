@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-Datacom V1.0 电子教材+教学实验手册+LAB脑图"
+title: "HCIADatacom V10 电子教材教学实验手册LAB脑图"
 date:   2023-06-15
 tags: [HCIA,Datacom,脑图,教学实验,LAB]
 comments: true

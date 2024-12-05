@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Pytorch】DCGAN实战（三）：二次元动漫头像生成"
+title: "PytorchDCGAN实战三二次元动漫头像生成"
 date:   2020-12-16
 tags: [训练,py,生成,二次元,头像]
 comments: true

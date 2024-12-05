@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装了千百遍的Microsoft Visual Studio 2010 Service Pack 1，终于成功了！"
+title: "安装了千百遍的Microsoft Visual Studio 2010 Service Pack 1终于成功了"
 date:   2021-01-23
 tags: [下载,Visual,Studio,2010,Service]
 comments: true

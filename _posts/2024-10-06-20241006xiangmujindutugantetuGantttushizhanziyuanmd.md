@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目进度图-甘特图(Gantt图)实战资源"
+title: "项目进度图甘特图Gantt图实战资源"
 date:   2021-04-02
 tags: [甘特图,源代码,项目,进度,项目管理]
 comments: true

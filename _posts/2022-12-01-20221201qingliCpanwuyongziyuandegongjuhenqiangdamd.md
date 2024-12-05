@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清理C盘无用资源的工具（很强大）"
+title: "清理C盘无用资源的工具很强大"
 date:   2020-07-20
 tags: [Windows,清理,C盘,工具,无用]
 comments: true

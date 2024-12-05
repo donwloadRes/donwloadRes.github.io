@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim 10.5 下载指南"
+title: "Modelsim 105 下载指南"
 date:   2021-02-02
 tags: [Modelsim,安装,10.5,安装包,下载]
 comments: true

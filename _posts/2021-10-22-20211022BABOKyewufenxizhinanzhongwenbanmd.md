@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BABOK-业务分析指南（中文版）"
+title: "BABOK业务分析指南中文版"
 date:   2024-07-23
 tags: [业务,分析,指南,BABOK,中文版]
 comments: true

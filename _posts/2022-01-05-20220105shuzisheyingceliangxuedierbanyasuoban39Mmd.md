@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字摄影测量学（第二版） 压缩版 39M"
+title: "数字摄影测量学第二版 压缩版 39M"
 date:   2024-10-31
 tags: [学习,摄影,数字,测量学,下载]
 comments: true

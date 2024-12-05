@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何修改文件的“创建时间”和“修改时间” (macOS, Linux, Windows)"
+title: "如何修改文件的创建时间和修改时间 macOS Linux Windows"
 date:   2023-03-04
 tags: [文件,修改,属性,时间,Linux]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统分析师教程 - 张友生最新版2019"
+title: "系统分析师教程  张友生最新版2019"
 date:   2023-04-12
 tags: [教程,分析师,系统,张友生,PDF]
 comments: true

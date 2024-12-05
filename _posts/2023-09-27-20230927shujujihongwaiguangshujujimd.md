@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据集——红外光数据集"
+title: "数据集红外光数据集"
 date:   2020-12-21
 tags: [Dataset,数据,图像,红外光,检测]
 comments: true

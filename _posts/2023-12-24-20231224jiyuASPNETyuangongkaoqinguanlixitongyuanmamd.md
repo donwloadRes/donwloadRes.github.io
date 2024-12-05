@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ASP.NET员工考勤管理系统源码"
+title: "基于ASPNET员工考勤管理系统源码"
 date:   2020-10-20
 tags: [考勤,员工,NET,ASP,Server]
 comments: true

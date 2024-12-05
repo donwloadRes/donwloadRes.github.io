@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt(C++) 实现的海康威视监控摄像头调用程序例程"
+title: "QtC 实现的海康威视监控摄像头调用程序例程"
 date:   2023-01-28
 tags: [威视,海康,Qt,摄像头,例程]
 comments: true

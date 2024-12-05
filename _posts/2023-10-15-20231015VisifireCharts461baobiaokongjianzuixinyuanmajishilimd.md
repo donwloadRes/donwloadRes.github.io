@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visifire.Charts 4.6.1 报表控件最新源码及示例"
+title: "VisifireCharts 461 报表控件最新源码及示例"
 date:   2020-10-04
 tags: [源码,动画,Visifire,控件,4.6]
 comments: true

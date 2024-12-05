@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 5.9.1 下载资源介绍"
+title: "QT 591 下载资源介绍"
 date:   2023-01-19
 tags: [安装,QT,5.9,安装包,安装程序]
 comments: true

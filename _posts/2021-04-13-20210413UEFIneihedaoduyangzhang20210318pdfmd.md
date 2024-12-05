@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UEFI内核导读》-样章20210318.pdf"
+title: "UEFI内核导读样章20210318pdf"
 date:   2022-07-01
 tags: [UEFI,固件,样章,BIOS,内核]
 comments: true

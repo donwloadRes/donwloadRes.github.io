@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++图书管理系统课程设计报告分享"
+title: "C图书管理系统课程设计报告分享"
 date:   2022-06-29
 tags: [课程设计,C++,管理系统,图书,报告]
 comments: true

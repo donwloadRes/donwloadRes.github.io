@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决matplotlib、numpy出现DLL load failed:找不到模块"
+title: "完美解决matplotlibnumpy出现DLL load failed找不到模块"
 date:   2020-05-01
 tags: [matplotlib,numpy,DLL,文件,资源]
 comments: true

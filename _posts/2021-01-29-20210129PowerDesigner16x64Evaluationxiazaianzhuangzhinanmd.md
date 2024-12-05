@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner16x64_Evaluation 下载安装指南"
+title: "PowerDesigner16x64Evaluation 下载安装指南"
 date:   2020-01-27
 tags: [PowerDesigner,PowerDesigner16x64,Evaluation,安装,下载]
 comments: true

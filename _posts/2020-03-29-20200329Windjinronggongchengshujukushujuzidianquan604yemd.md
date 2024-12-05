@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wind金融工程数据库数据字典（全604页）"
+title: "Wind金融工程数据库数据字典全604页"
 date:   2022-10-16
 tags: [Wind,字典,金融,数据库,工程]
 comments: true

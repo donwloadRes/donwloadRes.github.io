@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL学习笔记①：环境配置与Hello World绘制"
+title: "OpenGL学习笔记环境配置与Hello World绘制"
 date:   2022-06-02
 tags: [OpenGL,Hello,World,配置,教程]
 comments: true

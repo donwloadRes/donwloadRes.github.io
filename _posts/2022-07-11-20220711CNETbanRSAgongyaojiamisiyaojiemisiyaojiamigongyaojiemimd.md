@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .NET版 RSA 公钥加密私钥解密 私钥加密公钥解密"
+title: "C NET版 RSA 公钥加密私钥解密 私钥加密公钥解密"
 date:   2020-05-13
 tags: [公钥,私钥,解密,加密,NET]
 comments: true

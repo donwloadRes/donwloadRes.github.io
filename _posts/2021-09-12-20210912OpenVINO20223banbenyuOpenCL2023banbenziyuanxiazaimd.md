@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenVINO 2022.3 版本与 OpenCL 2023 版本资源下载"
+title: "OpenVINO 20223 版本与 OpenCL 2023 版本资源下载"
 date:   2022-05-05
 tags: [OpenVINO,OpenCL,版本,2022.3,2023]
 comments: true

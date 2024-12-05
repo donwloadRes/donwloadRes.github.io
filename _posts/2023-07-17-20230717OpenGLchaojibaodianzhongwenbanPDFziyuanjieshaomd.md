@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL超级宝典(中文版) PDF资源介绍"
+title: "OpenGL超级宝典中文版 PDF资源介绍"
 date:   2021-10-31
 tags: [OpenGL,宝典,中文版,图形,PDF]
 comments: true

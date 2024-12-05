@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNSS与惯性及多传感器组合导航系统原理(第二版) PDF资源"
+title: "GNSS与惯性及多传感器组合导航系统原理第二版 PDF资源"
 date:   2023-04-21
 tags: [导航系统,GNSS,PDF,组合,传感器]
 comments: true

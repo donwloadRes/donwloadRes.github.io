@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode 超级有用插件打包 - 离线安装"
+title: "VSCode 超级有用插件打包  离线安装"
 date:   2022-06-21
 tags: [插件,VSCode,离线,安装,文件]
 comments: true

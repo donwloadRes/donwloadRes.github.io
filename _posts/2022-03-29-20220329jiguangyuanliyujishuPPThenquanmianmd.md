@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "激光原理与技术PPT(很全面)"
+title: "激光原理与技术PPT很全面"
 date:   2020-08-06
 tags: [激光,激光器,PPT,技术,特性]
 comments: true

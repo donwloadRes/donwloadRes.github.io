@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费开源 Java + SQL Server 学生成绩管理系统"
+title: "免费开源 Java  SQL Server 学生成绩管理系统"
 date:   2024-05-02
 tags: [成绩,学生,数据库,SQL,Server]
 comments: true

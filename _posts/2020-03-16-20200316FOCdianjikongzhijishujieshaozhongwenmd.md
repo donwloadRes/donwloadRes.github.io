@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOC电机控制技术介绍(中文)"
+title: "FOC电机控制技术介绍中文"
 date:   2020-08-13
 tags: [FOC,电机,控制技术,文档,中文]
 comments: true

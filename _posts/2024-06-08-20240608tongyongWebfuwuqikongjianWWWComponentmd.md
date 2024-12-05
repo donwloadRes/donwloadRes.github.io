@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通用 Web 服务器控件（WWW_Component）"
+title: "通用 Web 服务器控件WWWComponent"
 date:   2022-08-13
 tags: [Web,WWW,Component,服务,请求]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arm Compiler 5.06 编译器资源"
+title: "Arm Compiler 506 编译器资源"
 date:   2024-01-20
 tags: [Arm,Compiler,5.06,编译器,开发者]
 comments: true

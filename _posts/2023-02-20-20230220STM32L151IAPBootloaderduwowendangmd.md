@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L151_IAP_Bootloader 读我文档"
+title: "STM32L151IAPBootloader 读我文档"
 date:   2022-08-19
 tags: [IAP,固件,STM32L151,Bootloader,升级]
 comments: true

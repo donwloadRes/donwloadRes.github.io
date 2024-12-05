@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labview课程设计-成绩管理系统"
+title: "labview课程设计成绩管理系统"
 date:   2023-01-10
 tags: [成绩,LabVIEW,绩点,管理系统,学生]
 comments: true

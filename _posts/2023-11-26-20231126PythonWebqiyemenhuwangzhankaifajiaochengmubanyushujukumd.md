@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Web企业门户网站开发教程：模板与数据库"
+title: "Python Web企业门户网站开发教程模板与数据库"
 date:   2020-07-07
 tags: [Django,模板,门户网站,Python,数据库]
 comments: true

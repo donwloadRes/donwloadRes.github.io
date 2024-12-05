@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HBase 2.4.16 二进制包下载"
+title: "HBase 2416 二进制包下载"
 date:   2021-06-01
 tags: [16,2.4,HBase,下载,二进制]
 comments: true

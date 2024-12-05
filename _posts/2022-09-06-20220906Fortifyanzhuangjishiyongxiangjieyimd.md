@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fortify 安装及使用详解（一）"
+title: "Fortify 安装及使用详解一"
 date:   2021-01-22
 tags: [Fortify,中文,安装,导出,语言]
 comments: true

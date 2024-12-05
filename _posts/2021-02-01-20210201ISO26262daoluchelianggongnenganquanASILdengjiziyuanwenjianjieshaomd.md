@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 26262道路车辆功能安全》ASIL等级资源文件介绍"
+title: "ISO 26262道路车辆功能安全ASIL等级资源文件介绍"
 date:   2024-03-21
 tags: [安全,ISO,26262,ASIL,功能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "步骤1: VSCode安装"
+title: "步骤1 VSCode安装"
 date:   2021-09-16
 tags: [C++,VSCode,安装,配置,插件]
 comments: true

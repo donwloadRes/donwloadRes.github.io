@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "压电换能器和换能器阵【上下册1990】"
+title: "压电换能器和换能器阵上下册1990"
 date:   2023-08-16
 tags: [压电,换能器,材料,1990,应用]
 comments: true

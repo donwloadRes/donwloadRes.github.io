@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000 Soc 技术参考手册下载"
+title: "Zynq7000 Soc 技术参考手册下载"
 date:   2020-05-28
 tags: [Zynq,7000,Soc,参考手册,手册]
 comments: true

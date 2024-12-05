@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "慧荣SMI万能开卡量产工具smV2.5.47"
+title: "慧荣SMI万能开卡量产工具smV2547"
 date:   2021-08-29
 tags: [SSD,工具,主控,开卡,smV2.5]
 comments: true

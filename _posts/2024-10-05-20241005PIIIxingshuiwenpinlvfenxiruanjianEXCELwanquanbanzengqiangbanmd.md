@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "P-III型水文频率分析软件——EXCEL完全版（增强版）"
+title: "PIII型水文频率分析软件EXCEL完全版增强版"
 date:   2023-11-20
 tags: [Excel,III,分析,频率,水文]
 comments: true

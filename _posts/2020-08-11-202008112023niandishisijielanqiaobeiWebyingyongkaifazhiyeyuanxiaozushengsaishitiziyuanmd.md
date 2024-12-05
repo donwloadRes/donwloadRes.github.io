@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年第十四届蓝桥杯Web应用开发（职业院校组）省赛试题资源"
+title: "2023年第十四届蓝桥杯Web应用开发职业院校组省赛试题资源"
 date:   2023-06-05
 tags: [蓝桥,Web,职业院校,资源,2023]
 comments: true

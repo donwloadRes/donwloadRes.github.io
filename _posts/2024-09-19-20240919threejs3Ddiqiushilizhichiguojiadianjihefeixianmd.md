@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three.js 3D地球实例：支持国家点击和飞线"
+title: "threejs 3D地球实例支持国家点击和飞线"
 date:   2020-02-19
 tags: [飞线,three,3D,点击,地球]
 comments: true

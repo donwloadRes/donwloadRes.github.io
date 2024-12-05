@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 串口+网口TCP+Modbus 资源文件介绍"
+title: "Qt 串口网口TCPModbus 资源文件介绍"
 date:   2024-06-14
 tags: [Modbus,串口,Qt,网口,TCP]
 comments: true

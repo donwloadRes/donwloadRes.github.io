@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android super.img 镜像解包工具"
+title: "Android superimg 镜像解包工具"
 date:   2023-04-30
 tags: [解包,img,super,镜像文件,image]
 comments: true

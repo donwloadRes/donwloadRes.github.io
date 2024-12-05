@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用MATLAB-Simulink做锂电池建模"
+title: "用MATLABSimulink做锂电池建模"
 date:   2024-01-17
 tags: [建模,锂电池,MATLAB,Simulink,电池]
 comments: true

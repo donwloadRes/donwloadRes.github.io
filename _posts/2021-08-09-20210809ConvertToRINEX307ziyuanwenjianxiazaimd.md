@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Convert To RINEX 3.07 资源文件下载"
+title: "Convert To RINEX 307 资源文件下载"
 date:   2020-11-20
 tags: [RINEX,3.07,Convert,安装,TrimbleCFGUpdate]
 comments: true

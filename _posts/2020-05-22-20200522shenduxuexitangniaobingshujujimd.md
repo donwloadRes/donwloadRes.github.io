@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习-糖尿病数据集"
+title: "深度学习糖尿病数据集"
 date:   2023-10-17
 tags: [糖尿病,模型,数据,diabetes,csv]
 comments: true

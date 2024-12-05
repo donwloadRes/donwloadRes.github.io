@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JT808 服务端程序：实时兼容多版本协议，支持音视频与主动安防协议"
+title: "JT808 服务端程序实时兼容多版本协议支持音视频与主动安防协议"
 date:   2021-12-27
 tags: [协议,JT808,jt808,server,Web]
 comments: true

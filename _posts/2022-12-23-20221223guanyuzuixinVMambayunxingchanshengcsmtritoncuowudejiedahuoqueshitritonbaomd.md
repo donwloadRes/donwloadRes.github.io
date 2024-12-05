@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于最新VMamba运行产生csm_triton错误的解答（或缺失triton包）"
+title: "关于最新VMamba运行产生csmtriton错误的解答或缺失triton包"
 date:   2023-04-27
 tags: [triton,csm,安装,VMamba,Windows]
 comments: true

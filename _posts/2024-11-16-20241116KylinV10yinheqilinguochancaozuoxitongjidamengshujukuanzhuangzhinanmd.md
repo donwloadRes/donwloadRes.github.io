@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KylinV10（银河麒麟国产操作系统）及达梦数据库安装指南"
+title: "KylinV10银河麒麟国产操作系统及达梦数据库安装指南"
 date:   2022-06-16
 tags: [数据库,安装,KylinV10,达梦,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Servlet+jsp+MySQL的JavaWeb新闻发布管理系统"
+title: "基于ServletjspMySQL的JavaWeb新闻发布管理系统"
 date:   2022-07-05
 tags: [新闻,MySQL,Java,Servlet,Web]
 comments: true

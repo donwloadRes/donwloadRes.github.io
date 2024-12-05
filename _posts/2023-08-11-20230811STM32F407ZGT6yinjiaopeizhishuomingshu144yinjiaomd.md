@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6 引脚配置说明书 - 144引脚"
+title: "STM32F407ZGT6 引脚配置说明书  144引脚"
 date:   2021-09-02
 tags: [引脚,STM32F407ZGT6,文档,144,外设]
 comments: true

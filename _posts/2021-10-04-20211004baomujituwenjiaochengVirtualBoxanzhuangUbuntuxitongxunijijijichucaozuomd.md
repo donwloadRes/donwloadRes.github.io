@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级图文教程：VirtualBox安装Ubuntu系统虚拟机及基础操作"
+title: "保姆级图文教程VirtualBox安装Ubuntu系统虚拟机及基础操作"
 date:   2023-07-31
 tags: [虚拟机,VirtualBox,Ubuntu,教程,安装]
 comments: true

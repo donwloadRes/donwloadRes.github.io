@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARMv8 和 ARMv8-A 架构参考手册"
+title: "ARMv8 和 ARMv8A 架构参考手册"
 date:   2022-10-20
 tags: [ARMv8,架构,指令集,参考手册,寄存器]
 comments: true

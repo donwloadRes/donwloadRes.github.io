@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 极化码仿真（SC、SCL译码）"
+title: "MATLAB 极化码仿真SCSCL译码"
 date:   2022-12-12
 tags: [极化,译码,代码,仿真,MATLAB]
 comments: true

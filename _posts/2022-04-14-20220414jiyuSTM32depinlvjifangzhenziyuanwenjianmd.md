@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的频率计+仿真资源文件"
+title: "基于STM32的频率计仿真资源文件"
 date:   2020-01-02
 tags: [STM32,仿真,频率计,信号源,文件]
 comments: true

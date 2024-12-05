@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Source Insight 3.5不支持中文UTF-8问题"
+title: "解决Source Insight 35不支持中文UTF8问题"
 date:   2024-10-03
 tags: [UTF,Source,Insight,3.5,中文]
 comments: true

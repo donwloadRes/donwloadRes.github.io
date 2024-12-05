@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GStreamer插件开发指南（中文）"
+title: "GStreamer插件开发指南中文"
 date:   2021-09-02
 tags: [插件,GStreamer,多媒体,开发,指南]
 comments: true

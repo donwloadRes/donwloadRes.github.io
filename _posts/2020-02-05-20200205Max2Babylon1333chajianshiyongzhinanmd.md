@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Max2Babylon-1.3.33 插件使用指南"
+title: "Max2Babylon1333 插件使用指南"
 date:   2022-02-16
 tags: [插件,3ds,Max,导出,文件]
 comments: true

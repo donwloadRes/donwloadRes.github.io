@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP的MPU芯片i.MX RT1064整套资料"
+title: "NXP的MPU芯片iMX RT1064整套资料"
 date:   2022-06-19
 tags: [MX,芯片,NXP,RT1064,开发]
 comments: true

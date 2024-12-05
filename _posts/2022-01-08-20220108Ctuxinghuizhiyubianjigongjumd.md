@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图形绘制与编辑工具"
+title: "C 图形绘制与编辑工具"
 date:   2021-07-02
 tags: [图形,绘制,拖动,工具,缩放]
 comments: true

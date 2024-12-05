@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx HTTP-FLV 模块（Windows版）"
+title: "Nginx HTTPFLV 模块Windows版"
 date:   2021-02-16
 tags: [Nginx,Windows,文件,nginx,http]
 comments: true

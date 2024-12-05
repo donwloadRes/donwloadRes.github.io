@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++视频播放综合应用示例"
+title: "QtC视频播放综合应用示例"
 date:   2022-03-17
 tags: [播放,内核,视频,支持,示例]
 comments: true

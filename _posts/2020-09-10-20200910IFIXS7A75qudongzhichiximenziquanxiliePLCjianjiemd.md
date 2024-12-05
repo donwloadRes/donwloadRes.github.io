@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IFIX S7A 7.5 驱动 支持西门子全系列PLC简介"
+title: "IFIX S7A 75 驱动 支持西门子全系列PLC简介"
 date:   2020-12-22
 tags: [S7,PLC,西门子,驱动,IFIX]
 comments: true

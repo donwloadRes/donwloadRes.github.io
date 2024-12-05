@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM7指令集及汇编（经典完整版）资源下载"
+title: "ARM7指令集及汇编经典完整版资源下载"
 date:   2020-04-26
 tags: [ARM7,ARM,指令集,完整版,架构]
 comments: true

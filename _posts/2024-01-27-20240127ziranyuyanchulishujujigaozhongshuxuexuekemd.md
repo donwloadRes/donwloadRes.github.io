@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理数据集——高中数学学科"
+title: "自然语言处理数据集高中数学学科"
 date:   2021-01-28
 tags: [高中数学,实体,数据,自然语言,文本]
 comments: true

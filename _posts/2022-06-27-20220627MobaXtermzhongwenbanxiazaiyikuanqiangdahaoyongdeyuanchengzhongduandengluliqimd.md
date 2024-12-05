@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 中文版下载 - 一款强大好用的远程终端登录利器"
+title: "MobaXterm 中文版下载  一款强大好用的远程终端登录利器"
 date:   2021-12-18
 tags: [MobaXterm,远程,神器,终端,插件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "07 - 等保三级 - Ubuntu 16 合规性资源检查"
+title: "07  等保三级  Ubuntu 16 合规性资源检查"
 date:   2024-07-06
 tags: [Ubuntu,16,检查,合规性,三级]
 comments: true

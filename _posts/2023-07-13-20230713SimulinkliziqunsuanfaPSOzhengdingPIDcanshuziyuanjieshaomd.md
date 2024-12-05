@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink粒子群算法（PSO）整定PID参数资源介绍"
+title: "Simulink粒子群算法PSO整定PID参数资源介绍"
 date:   2021-01-13
 tags: [PSO,PID,Simulink,算法,整定]
 comments: true

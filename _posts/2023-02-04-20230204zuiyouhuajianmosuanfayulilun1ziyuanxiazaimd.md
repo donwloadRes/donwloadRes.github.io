@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化建模、算法与理论1 资源下载"
+title: "最优化建模算法与理论1 资源下载"
 date:   2022-08-13
 tags: [最优化,资源,算法,建模,下载]
 comments: true

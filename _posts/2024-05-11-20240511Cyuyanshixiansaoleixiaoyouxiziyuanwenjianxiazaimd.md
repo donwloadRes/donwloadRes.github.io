@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现——“扫雷小游戏”资源文件下载"
+title: "C语言实现扫雷小游戏资源文件下载"
 date:   2023-11-21
 tags: [C语言,小游戏,下载,文件,资源]
 comments: true

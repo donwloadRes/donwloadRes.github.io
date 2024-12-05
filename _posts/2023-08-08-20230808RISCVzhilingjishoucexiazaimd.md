@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 指令集手册下载"
+title: "RISCV 指令集手册下载"
 date:   2023-02-17
 tags: [RISC,指令集,手册,架构,体系结构]
 comments: true

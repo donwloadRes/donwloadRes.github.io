@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 6.1 KB2533623 x64 更新包下载"
+title: "Windows 61 KB2533623 x64 更新包下载"
 date:   2023-11-08
 tags: [Windows,更新包,下载,6.1,KB2533623]
 comments: true

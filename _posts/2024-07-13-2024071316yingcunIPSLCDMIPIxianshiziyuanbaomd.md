@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.6英寸 IPS LCD MIPI 显示资源包"
+title: "16英寸 IPS LCD MIPI 显示资源包"
 date:   2021-03-02
 tags: [1.6,LCD,IPS,显示屏,连接]
 comments: true

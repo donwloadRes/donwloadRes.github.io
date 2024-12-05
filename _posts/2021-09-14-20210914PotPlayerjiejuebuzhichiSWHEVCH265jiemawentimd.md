@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PotPlayer：解决不支持S-W HEVC(H265)解码问题"
+title: "PotPlayer解决不支持SW HEVCH265解码问题"
 date:   2024-03-23
 tags: [解码器,PotPlayer,解码,H265,文件]
 comments: true

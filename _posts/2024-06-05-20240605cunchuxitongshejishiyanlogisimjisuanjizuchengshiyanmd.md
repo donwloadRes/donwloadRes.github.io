@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "存储系统设计实验（logisim）计算机组成实验"
+title: "存储系统设计实验logisim计算机组成实验"
 date:   2024-05-13
 tags: [设计,实验,扩展,MIPS,字库]
 comments: true

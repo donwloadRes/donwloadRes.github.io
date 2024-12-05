@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SRIO规范rev2.1 下载仓库"
+title: "SRIO规范rev21 下载仓库"
 date:   2020-02-11
 tags: [SRIO,规范,rev2.1,RapidIO,技术]
 comments: true

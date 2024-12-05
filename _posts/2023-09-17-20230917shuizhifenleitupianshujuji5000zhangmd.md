@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水质分类图片数据集（5000张）"
+title: "水质分类图片数据集5000张"
 date:   2022-11-07
 tags: [5000,水质,分类,数据,图片]
 comments: true

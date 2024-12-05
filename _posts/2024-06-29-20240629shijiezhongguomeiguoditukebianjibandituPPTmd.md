@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "世界、中国、美国地图可编辑版地图PPT"
+title: "世界中国美国地图可编辑版地图PPT"
 date:   2022-07-18
 tags: [地图,PPT,PowerPoint,编辑,展示]
 comments: true

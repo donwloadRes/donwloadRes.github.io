@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制系统（第十三版）配套资料"
+title: "现代控制系统第十三版配套资料"
 date:   2024-04-11
 tags: [仓库,资源,控制系统,第十三,配套]
 comments: true

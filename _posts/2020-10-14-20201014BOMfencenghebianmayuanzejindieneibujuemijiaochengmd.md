@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BOM分层和编码原则(金蝶内部绝密教程)"
+title: "BOM分层和编码原则金蝶内部绝密教程"
 date:   2023-04-02
 tags: [BOM,教程,分层,编码,金蝶]
 comments: true

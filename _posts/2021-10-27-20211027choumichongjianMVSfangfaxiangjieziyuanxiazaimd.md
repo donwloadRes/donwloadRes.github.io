@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "稠密重建（MVS）方法详解资源下载"
+title: "稠密重建MVS方法详解资源下载"
 date:   2023-12-30
 tags: [稠密,重建,MVS,方法,基于]
 comments: true

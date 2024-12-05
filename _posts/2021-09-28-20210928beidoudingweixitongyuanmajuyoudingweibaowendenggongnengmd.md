@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗定位系统源码（具有定位报文等功能）"
+title: "北斗定位系统源码具有定位报文等功能"
 date:   2021-04-25
 tags: [北斗,报文,定位,代码,串口]
 comments: true

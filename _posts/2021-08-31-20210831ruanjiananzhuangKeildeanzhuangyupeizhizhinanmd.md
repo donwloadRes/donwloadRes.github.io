@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件安装 - Keil的安装与配置指南"
+title: "软件安装  Keil的安装与配置指南"
 date:   2023-09-14
 tags: [安装,Keil,自定义,STM32,配置]
 comments: true

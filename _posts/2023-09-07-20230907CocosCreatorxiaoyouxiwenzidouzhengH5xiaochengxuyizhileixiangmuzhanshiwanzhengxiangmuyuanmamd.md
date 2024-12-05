@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cocos Creator小游戏-文字斗争（H5、小程序）益智类 项目展示+完整项目源码"
+title: "Cocos Creator小游戏文字斗争H5小程序益智类 项目展示完整项目源码"
 date:   2024-02-17
 tags: [项目,玩家,H5,源码,Cocos]
 comments: true

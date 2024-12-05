@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 7816-3 标准文档下载"
+title: "ISOIEC 78163 标准文档下载"
 date:   2021-11-27
 tags: [ISO,IEC,7816,智能卡,标准]
 comments: true

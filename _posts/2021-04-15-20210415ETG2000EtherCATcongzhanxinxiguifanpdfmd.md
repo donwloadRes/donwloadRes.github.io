@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETG.2000 EtherCAT从站信息规范.pdf"
+title: "ETG2000 EtherCAT从站信息规范pdf"
 date:   2021-02-13
 tags: [EtherCAT,ETG.2000,规范,信息,pdf]
 comments: true

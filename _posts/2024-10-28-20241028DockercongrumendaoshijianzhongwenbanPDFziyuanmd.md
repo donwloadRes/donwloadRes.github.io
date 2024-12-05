@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker从入门到实践（中文版）PDF资源"
+title: "Docker从入门到实践中文版PDF资源"
 date:   2022-11-11
 tags: [Docker,PDF,学习,容器,实践]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TeeChart8.OCX 控件下载"
+title: "TeeChart8OCX 控件下载"
 date:   2021-11-25
 tags: [OCX,控件,TeeChart8,应用程序,图形]
 comments: true

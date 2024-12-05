@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDAPython手册(中文版)"
+title: "IDAPython手册中文版"
 date:   2022-05-09
 tags: [IDAPython,手册,逆向,IDA,Pro]
 comments: true

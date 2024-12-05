@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java串口通信详细教程（附源码）"
+title: "Java串口通信详细教程附源码"
 date:   2020-05-10
 tags: [串口,Java,通信,教程,源代码]
 comments: true

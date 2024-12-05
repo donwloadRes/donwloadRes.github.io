@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sapi5.inf下载 - 解决微软语音注册表问题 0x80040154"
+title: "sapi5inf下载  解决微软语音注册表问题 0x80040154"
 date:   2024-01-01
 tags: [inf,语音,sapi5,微软,0x80040154]
 comments: true

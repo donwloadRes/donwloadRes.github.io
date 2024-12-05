@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAA（CATIA二次开发）入门宝典"
+title: "CAACATIA二次开发入门宝典"
 date:   2022-06-25
 tags: [CAA,二次开发,CATIA,宝典,入门]
 comments: true

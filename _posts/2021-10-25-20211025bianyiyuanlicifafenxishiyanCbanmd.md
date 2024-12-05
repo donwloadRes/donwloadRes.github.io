@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理-词法分析实验（C++版）"
+title: "编译原理词法分析实验C版"
 date:   2024-09-08
 tags: [词法,单词,C++,编译,实验]
 comments: true

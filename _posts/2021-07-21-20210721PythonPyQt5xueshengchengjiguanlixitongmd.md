@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-PyQt5 学生成绩管理系统"
+title: "PythonPyQt5 学生成绩管理系统"
 date:   2023-05-27
 tags: [成绩,学生,Python,管理系统,文件]
 comments: true

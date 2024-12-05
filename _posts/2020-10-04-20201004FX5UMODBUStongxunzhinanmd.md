@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FX5U-MODBUS通讯指南"
+title: "FX5UMODBUS通讯指南"
 date:   2022-07-05
 tags: [MODBUS,FX5U,PLC,RTU,通讯]
 comments: true

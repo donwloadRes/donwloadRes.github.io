@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "集成电路课程设计-Hspice仿真+课程设计报告"
+title: "集成电路课程设计Hspice仿真课程设计报告"
 date:   2022-06-18
 tags: [仿真,电路,课程设计,Hspice,集成电路]
 comments: true

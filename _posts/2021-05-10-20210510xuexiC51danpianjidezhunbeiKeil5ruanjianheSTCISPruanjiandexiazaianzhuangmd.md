@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习 C51 单片机的准备：Keil5软件和STC-ISP软件的下载安装"
+title: "学习 C51 单片机的准备Keil5软件和STCISP软件的下载安装"
 date:   2023-03-27
 tags: [软件,STC,单片机,ISP,安装]
 comments: true

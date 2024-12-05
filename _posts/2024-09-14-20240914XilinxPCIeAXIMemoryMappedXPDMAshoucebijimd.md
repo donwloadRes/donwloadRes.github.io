@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx PCIe AXI Memory Mapped（XPDMA）手册笔记"
+title: "Xilinx PCIe AXI Memory MappedXPDMA手册笔记"
 date:   2021-02-16
 tags: [XPDMA,IP,笔记,Xilinx,PCIe]
 comments: true

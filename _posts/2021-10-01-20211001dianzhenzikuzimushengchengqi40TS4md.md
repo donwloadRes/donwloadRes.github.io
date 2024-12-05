@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点阵字库(字模）生成器 4.0 TS4"
+title: "点阵字库字模生成器 40 TS4"
 date:   2022-05-10
 tags: [字模,生成器,点阵字库,版本,斜线]
 comments: true

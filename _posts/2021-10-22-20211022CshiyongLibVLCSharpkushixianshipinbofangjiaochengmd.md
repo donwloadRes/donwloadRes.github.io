@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用LibVLCSharp库实现视频播放教程"
+title: "C使用LibVLCSharp库实现视频播放教程"
 date:   2020-07-26
 tags: [播放,视频,LibVLCSharp,mediaPlayer,var]
 comments: true

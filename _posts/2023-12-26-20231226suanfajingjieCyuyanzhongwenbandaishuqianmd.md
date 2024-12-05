@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法精解：C语言(中文版)_带书签"
+title: "算法精解C语言中文版带书签"
 date:   2024-11-29
 tags: [C语言,算法,书签,中文版,精解]
 comments: true

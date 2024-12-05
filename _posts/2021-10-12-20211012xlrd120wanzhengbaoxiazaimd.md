@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xlrd-1.2.0 完整包下载"
+title: "xlrd120 完整包下载"
 date:   2020-05-30
 tags: [xlrd,1.2,whl,完整包,文件]
 comments: true

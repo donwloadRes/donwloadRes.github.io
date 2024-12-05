@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NISIS 3.0 资源文件下载"
+title: "NISIS 30 资源文件下载"
 date:   2024-09-18
 tags: [NISIS,3.0,资源,文件,下载]
 comments: true

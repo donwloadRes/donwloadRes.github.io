@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tera Term：一款功能强大的远程终端连接软件"
+title: "Tera Term一款功能强大的远程终端连接软件"
 date:   2023-08-28
 tags: [Tera,Term,远程,终端,连接]
 comments: true

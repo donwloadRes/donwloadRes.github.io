@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用YOLOv5进行人体检测"
+title: "C使用YOLOv5进行人体检测"
 date:   2021-03-08
 tags: [YOLOv5,模型,C#,人体,检测]
 comments: true

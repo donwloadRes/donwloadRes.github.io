@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多线程编程实战资源下载"
+title: "C多线程编程实战资源下载"
 date:   2024-11-19
 tags: [多线程,C#,编程,开发者,实战]
 comments: true

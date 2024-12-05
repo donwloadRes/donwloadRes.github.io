@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLyog 10.42 下载与安装指南"
+title: "SQLyog 1042 下载与安装指南"
 date:   2024-09-29
 tags: [SQLyog,MySQL,安装,10.42,下载]
 comments: true

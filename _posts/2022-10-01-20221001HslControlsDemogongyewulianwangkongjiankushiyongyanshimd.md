@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HslControlsDemo：工业物联网控件库使用演示"
+title: "HslControlsDemo工业物联网控件库使用演示"
 date:   2020-10-03
 tags: [控件,HslControlsDemo,模拟,工业,HslControls]
 comments: true

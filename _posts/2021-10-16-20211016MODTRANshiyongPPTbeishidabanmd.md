@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODTRAN使用PPT（北师大版）"
+title: "MODTRAN使用PPT北师大版"
 date:   2022-01-26
 tags: [MODTRAN,PPT,北师大,大气,使用]
 comments: true

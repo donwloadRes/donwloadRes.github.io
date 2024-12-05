@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理第一次作业：DNN、RNN、CNN 实现猫狗分类"
+title: "自然语言处理第一次作业DNNRNNCNN 实现猫狗分类"
 date:   2022-11-14
 tags: [DNN,RNN,CNN,代码,自然语言]
 comments: true

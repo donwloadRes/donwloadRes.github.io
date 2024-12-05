@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinDbg(x64) 解压直接使用"
+title: "WinDbgx64 解压直接使用"
 date:   2022-10-03
 tags: [解压,WinDbg,文件,x64,调试]
 comments: true

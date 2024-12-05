@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro16.6约束规则设置详解-SCC"
+title: "Allegro166约束规则设置详解SCC"
 date:   2023-04-27
 tags: [Allegro16.6,约束,规则,设置,SCC]
 comments: true

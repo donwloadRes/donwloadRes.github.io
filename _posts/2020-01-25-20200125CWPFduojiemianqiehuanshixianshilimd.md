@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 多界面切换实现示例"
+title: "C WPF 多界面切换实现示例"
 date:   2021-11-10
 tags: [WPF,示例,切换,界面,实现]
 comments: true

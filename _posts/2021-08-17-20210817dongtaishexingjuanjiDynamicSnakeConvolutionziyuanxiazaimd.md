@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动态蛇形卷积(Dynamic Snake Convolution)资源下载"
+title: "动态蛇形卷积Dynamic Snake Convolution资源下载"
 date:   2020-02-17
 tags: [卷积,蛇形,管状,模型,动态]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T19582-2008通信协议资源下载"
+title: "GBT195822008通信协议资源下载"
 date:   2023-08-30
 tags: [Modbus,文件,通信协议,GB,T19582]
 comments: true

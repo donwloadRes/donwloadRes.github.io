@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 进程间通信：共享内存"
+title: "C 进程间通信共享内存"
 date:   2023-03-18
 tags: [共享内存,进程,间通信,C#,数据]
 comments: true

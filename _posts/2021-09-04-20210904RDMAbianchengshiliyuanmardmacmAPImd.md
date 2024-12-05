@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RDMA编程实例源码（rdma_cm API）"
+title: "RDMA编程实例源码rdmacm API"
 date:   2022-09-02
 tags: [RDMA,源码,rdma,cm,API]
 comments: true

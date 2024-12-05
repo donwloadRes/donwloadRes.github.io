@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10下安装ISE 14.7 指南"
+title: "win10下安装ISE 147 指南"
 date:   2020-03-04
 tags: [ISE,安装,14.7,兼容性,步骤]
 comments: true

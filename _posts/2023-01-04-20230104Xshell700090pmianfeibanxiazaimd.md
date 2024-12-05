@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell 7.0.0090p 免费版下载"
+title: "Xshell 700090p 免费版下载"
 date:   2021-09-25
 tags: [免费版,0090p,7.0,Xshell,zip]
 comments: true

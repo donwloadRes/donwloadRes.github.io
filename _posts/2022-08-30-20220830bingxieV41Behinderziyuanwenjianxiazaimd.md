@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "冰蝎V4.1Behinder 资源文件下载"
+title: "冰蝎V41Behinder 资源文件下载"
 date:   2022-08-06
 tags: [V4.1,Behinder,冰蝎,文件,资源]
 comments: true

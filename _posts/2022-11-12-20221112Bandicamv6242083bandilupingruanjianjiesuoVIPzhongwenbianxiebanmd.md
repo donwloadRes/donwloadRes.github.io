@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bandicam v6.2.4.2083 班迪录屏软件解锁VIP中文便携版"
+title: "Bandicam v6242083 班迪录屏软件解锁VIP中文便携版"
 date:   2022-07-24
 tags: [录制,解压,便携,软件,屏蔽]
 comments: true

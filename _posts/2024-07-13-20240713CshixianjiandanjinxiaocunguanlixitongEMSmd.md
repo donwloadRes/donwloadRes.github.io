@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现简单进销存管理系统EMS"
+title: "C实现简单进销存管理系统EMS"
 date:   2020-08-30
 tags: [进销存,登录,EMS,项目,功能]
 comments: true

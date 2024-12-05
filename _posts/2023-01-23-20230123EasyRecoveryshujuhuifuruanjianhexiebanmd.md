@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy Recovery 数据恢复软件（和谐版）"
+title: "Easy Recovery 数据恢复软件和谐版"
 date:   2021-07-27
 tags: [数据恢复,软件,文件,Windows,Easy]
 comments: true

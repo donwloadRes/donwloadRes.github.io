@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EGM2008地球重力场模型（WGS84_2.5X2.5）"
+title: "EGM2008地球重力场模型WGS8425X25"
 date:   2022-02-27
 tags: [WGS84,2.5,X2.5,文件,EGM2008]
 comments: true

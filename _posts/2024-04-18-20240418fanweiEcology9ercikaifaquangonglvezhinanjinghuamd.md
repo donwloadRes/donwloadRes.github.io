@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微Ecology9二次开发全攻略指南(精华)"
+title: "泛微Ecology9二次开发全攻略指南精华"
 date:   2023-05-30
 tags: [泛微,Ecology9,二次开发,开发,实例]
 comments: true

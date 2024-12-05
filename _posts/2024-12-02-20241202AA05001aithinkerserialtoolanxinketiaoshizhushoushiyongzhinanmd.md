@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A_A05_001 aithinker_serial_tool_安信可调试助手使用指南"
+title: "AA05001 aithinkerserialtool安信可调试助手使用指南"
 date:   2024-01-16
 tags: [串口,调试,发送,安信,助手]
 comments: true

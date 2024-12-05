@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python执行Selenium报错解决方案：ChromeDriver版本不匹配问题"
+title: "Python执行Selenium报错解决方案ChromeDriver版本不匹配问题"
 date:   2022-03-14
 tags: [ChromeDriver,Chrome,版本,浏览器,点击]
 comments: true

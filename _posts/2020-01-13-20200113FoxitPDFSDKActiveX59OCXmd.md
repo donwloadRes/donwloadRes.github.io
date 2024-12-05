@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foxit PDF SDK ActiveX 5.9 OCX"
+title: "Foxit PDF SDK ActiveX 59 OCX"
 date:   2023-11-01
 tags: [PDF,SDK,ActiveX,Foxit,OCX]
 comments: true

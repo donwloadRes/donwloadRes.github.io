@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于逐飞RT1064开源库3.5.0的MPU6050，DMP的移植与使用"
+title: "基于逐飞RT1064开源库350的MPU6050DMP的移植与使用"
 date:   2023-12-24
 tags: [MPU6050,DMP,逐飞,RT1064,移植]
 comments: true

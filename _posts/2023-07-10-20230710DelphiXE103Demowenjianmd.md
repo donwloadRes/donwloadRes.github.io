@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE 10.3 Demo 文件"
+title: "Delphi XE 103 Demo 文件"
 date:   2021-07-29
 tags: [Delphi,XE,10.3,文件,demo]
 comments: true

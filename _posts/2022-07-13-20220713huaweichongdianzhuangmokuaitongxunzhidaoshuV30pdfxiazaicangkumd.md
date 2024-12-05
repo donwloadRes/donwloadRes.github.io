@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为充电桩模块通讯指导书-V3.0.pdf 下载仓库"
+title: "华为充电桩模块通讯指导书V30pdf 下载仓库"
 date:   2022-12-24
 tags: [充电,V3.0,模块,指导书,pdf]
 comments: true

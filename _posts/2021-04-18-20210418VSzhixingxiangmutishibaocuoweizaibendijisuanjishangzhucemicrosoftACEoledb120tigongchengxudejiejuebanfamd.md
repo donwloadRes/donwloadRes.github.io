@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS执行项目提示报错“未在本地计算机上注册“microsoft.ACE.oledb.12.0”提供程序”的解决办法"
+title: "VS执行项目提示报错未在本地计算机上注册microsoftACEoledb120提供程序的解决办法"
 date:   2024-12-01
 tags: [ACE,microsoft,oledb.12,Access,32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9.4分-体验引擎：游戏设计全景探秘"
+title: "94分体验引擎游戏设计全景探秘"
 date:   2024-06-17
 tags: [游戏,9.4,探秘,设计,体验]
 comments: true

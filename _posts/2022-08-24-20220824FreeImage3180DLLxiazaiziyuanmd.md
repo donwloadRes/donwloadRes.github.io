@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeImage 3.18.0 DLL下载资源"
+title: "FreeImage 3180 DLL下载资源"
 date:   2020-05-31
 tags: [FreeImage,DLL,3.18,下载,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ Windows运行环境合集(VC++2005-VC++2022)"
+title: "VC Windows运行环境合集VC2005VC2022"
 date:   2024-11-04
 tags: [C++,运行库,合集,运行,2005]
 comments: true

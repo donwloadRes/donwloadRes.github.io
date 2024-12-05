@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.5.5 编译后的Java依赖包及Linux平台SO文件"
+title: "OpenCV 455 编译后的Java依赖包及Linux平台SO文件"
 date:   2021-06-26
 tags: [Java,OpenCV,Linux,4.5,编译]
 comments: true

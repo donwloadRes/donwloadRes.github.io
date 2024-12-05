@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何丝滑解决Windows 10系统Hyper-V虚拟机互传文件"
+title: "如何丝滑解决Windows 10系统HyperV虚拟机互传文件"
 date:   2023-10-16
 tags: [虚拟机,文件夹,共享,主机,Hyper]
 comments: true

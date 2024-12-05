@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt on Android核心编程.pdf"
+title: "Qt on Android核心编程pdf"
 date:   2024-08-19
 tags: [Qt,Android,开发,本书,学习]
 comments: true

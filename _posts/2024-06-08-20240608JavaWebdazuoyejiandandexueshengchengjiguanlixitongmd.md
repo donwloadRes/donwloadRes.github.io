@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb大作业——简单的学生成绩管理系统"
+title: "JavaWeb大作业简单的学生成绩管理系统"
 date:   2022-05-04
 tags: [数据库,成绩,管理系统,JavaWeb,语句]
 comments: true

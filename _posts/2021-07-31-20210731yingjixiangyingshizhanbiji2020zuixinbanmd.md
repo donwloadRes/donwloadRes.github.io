@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应急响应实战笔记_2020最新版"
+title: "应急响应实战笔记2020最新版"
 date:   2023-07-07
 tags: [2020,应急,最新版,响应,日志]
 comments: true

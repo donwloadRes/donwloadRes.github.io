@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK学习资源：从零开始学习VTK.pdf"
+title: "VTK学习资源从零开始学习VTKpdf"
 date:   2022-03-20
 tags: [VTK,文档,从零开始,学习,pdf]
 comments: true

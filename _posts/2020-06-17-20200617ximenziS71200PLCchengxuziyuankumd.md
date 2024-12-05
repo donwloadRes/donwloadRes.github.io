@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 PLC程序资源库"
+title: "西门子S71200 PLC程序资源库"
 date:   2021-05-13
 tags: [PLC,编程,西门子,S7,1200]
 comments: true

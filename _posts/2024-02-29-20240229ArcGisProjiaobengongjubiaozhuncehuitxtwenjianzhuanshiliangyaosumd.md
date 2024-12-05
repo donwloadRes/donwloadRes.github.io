@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGisPro脚本工具：标准测绘txt文件转矢量要素"
+title: "ArcGisPro脚本工具标准测绘txt文件转矢量要素"
 date:   2023-10-27
 tags: [txt,要素,文件,工具,文件夹]
 comments: true

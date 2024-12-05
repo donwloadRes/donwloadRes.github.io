@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dr.CAN自动控制原理》课程笔记13期全"
+title: "DrCAN自动控制原理课程笔记13期全"
 date:   2023-03-18
 tags: [笔记,自动控制,Dr,学习,课程]
 comments: true

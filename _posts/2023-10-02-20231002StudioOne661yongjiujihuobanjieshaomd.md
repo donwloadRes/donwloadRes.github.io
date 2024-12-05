@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6.6.1 永久激活版介绍"
+title: "Studio One 661 永久激活版介绍"
 date:   2020-07-25
 tags: [Studio,音频,点击,PreSonus,效果器]
 comments: true

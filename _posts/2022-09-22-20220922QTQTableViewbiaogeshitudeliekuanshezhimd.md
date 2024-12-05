@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT - QTableView表格视图的列宽设置"
+title: "QT  QTableView表格视图的列宽设置"
 date:   2021-09-14
 tags: [设置,表格,列宽,QTableView,setSectionResizeMode]
 comments: true

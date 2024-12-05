@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vue&ElementUI的企业官网资源下载"
+title: "基于VueElementUI的企业官网资源下载"
 date:   2023-07-23
 tags: [Vue,官网,ElementUI,企业,基于]
 comments: true

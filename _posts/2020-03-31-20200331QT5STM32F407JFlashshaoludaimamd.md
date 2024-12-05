@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5 STM32F407 J-Flash烧录代码"
+title: "QT5 STM32F407 JFlash烧录代码"
 date:   2024-07-07
 tags: [烧录,Link,QT5,ID,秘钥]
 comments: true

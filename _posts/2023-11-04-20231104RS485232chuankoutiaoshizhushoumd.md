@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS485-232串口调试助手"
+title: "RS485232串口调试助手"
 date:   2022-08-05
 tags: [串口,调试,RS485,232,助手]
 comments: true

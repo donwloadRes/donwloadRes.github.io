@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring动态添加数据源（全自动）"
+title: "Spring动态添加数据源全自动"
 date:   2021-07-18
 tags: [数据源,数据库,添加,动态,连接]
 comments: true

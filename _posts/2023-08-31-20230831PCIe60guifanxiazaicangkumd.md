@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 6.0 规范下载仓库"
+title: "PCIe 60 规范下载仓库"
 date:   2021-07-12
 tags: [PCIe,6.0,仓库,规范,文件]
 comments: true

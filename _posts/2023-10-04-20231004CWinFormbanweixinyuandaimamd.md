@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 版微信源代码"
+title: "C WinForm 版微信源代码"
 date:   2024-07-18
 tags: [微信,源代码,好友,获取,C#]
 comments: true

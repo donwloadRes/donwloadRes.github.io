@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xshell7+xftp7社区版下载"
+title: "xshell7xftp7社区版下载"
 date:   2021-08-27
 tags: [xshell7,xftp7,下载,社区,文件传输]
 comments: true

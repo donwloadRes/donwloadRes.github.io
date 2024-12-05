@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGDW 12184-2021 输变电设备物联网传感器数据规范"
+title: "QGDW 121842021 输变电设备物联网传感器数据规范"
 date:   2021-04-10
 tags: [输变电,传感器,联网,2021,规范]
 comments: true

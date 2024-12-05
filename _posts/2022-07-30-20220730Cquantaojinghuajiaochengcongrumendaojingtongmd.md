@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 全套精华教程 - 从入门到精通"
+title: "C 全套精华教程  从入门到精通"
 date:   2022-03-21
 tags: [C#,编程,教程,学习,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁直流电机实用设计及应用技术.pdf"
+title: "永磁直流电机实用设计及应用技术pdf"
 date:   2020-06-29
 tags: [永磁,直流电机,电机,应用,pdf]
 comments: true

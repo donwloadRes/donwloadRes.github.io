@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DB2 V10.5 Linux 64位 免费版 资源下载"
+title: "DB2 V105 Linux 64位 免费版 资源下载"
 date:   2021-04-27
 tags: [下载,资源,DB2,免费版,V10.5]
 comments: true

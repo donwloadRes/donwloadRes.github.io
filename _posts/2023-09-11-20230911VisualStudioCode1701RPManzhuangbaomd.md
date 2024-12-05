@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio Code 1.70.1 RPM 安装包"
+title: "Visual Studio Code 1701 RPM 安装包"
 date:   2021-01-13
 tags: [1.70,安装包,Visual,Studio,Code]
 comments: true

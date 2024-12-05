@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理笔记(下) PDF 下载"
+title: "数字信号处理笔记下 PDF 下载"
 date:   2021-05-08
 tags: [信号处理,PDF,笔记,数字,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Equation Editor 3.0 公式编辑器 安装包"
+title: "Microsoft Equation Editor 30 公式编辑器 安装包"
 date:   2020-04-10
 tags: [Office,公式,Equation,Editor,3.0]
 comments: true

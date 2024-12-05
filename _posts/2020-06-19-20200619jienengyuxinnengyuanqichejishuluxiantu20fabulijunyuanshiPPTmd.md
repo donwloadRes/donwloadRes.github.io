@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "节能与新能源汽车技术路线图2.0发布李骏院士PPT"
+title: "节能与新能源汽车技术路线图20发布李骏院士PPT"
 date:   2020-02-28
 tags: [李骏,新能源,2.0,PPT,汽车]
 comments: true

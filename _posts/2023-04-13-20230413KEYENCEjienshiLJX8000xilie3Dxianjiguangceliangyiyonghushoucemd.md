@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEYENCE基恩士LJ-X8000系列3D线激光测量仪用户手册"
+title: "KEYENCE基恩士LJX8000系列3D线激光测量仪用户手册"
 date:   2021-07-13
 tags: [测量仪,KEYENCE,用户手册,LJ,X8000]
 comments: true

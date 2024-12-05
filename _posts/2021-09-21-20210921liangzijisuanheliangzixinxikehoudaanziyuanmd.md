@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量子计算和量子信息》课后答案资源"
+title: "量子计算和量子信息课后答案资源"
 date:   2022-04-30
 tags: [量子,课后,资源,答案,计算]
 comments: true

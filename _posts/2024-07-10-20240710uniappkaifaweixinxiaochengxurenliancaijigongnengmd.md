@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp开发微信小程序-人脸采集功能"
+title: "uniapp开发微信小程序人脸采集功能"
 date:   2022-09-16
 tags: [微信,人脸,程序,UniApp,采集]
 comments: true

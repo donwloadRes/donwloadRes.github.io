@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Aurora 64b-66b 协议资源文件"
+title: "Xilinx Aurora 64b66b 协议资源文件"
 date:   2024-05-08
 tags: [Xilinx,Aurora,64b,66b,协议]
 comments: true

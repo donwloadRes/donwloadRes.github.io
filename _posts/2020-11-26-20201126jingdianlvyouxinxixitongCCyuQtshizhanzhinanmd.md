@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "景点旅游信息系统 - C-C++与Qt实战指南"
+title: "景点旅游信息系统  CC与Qt实战指南"
 date:   2023-06-05
 tags: [Qt,C++,景点,算法,信息系统]
 comments: true

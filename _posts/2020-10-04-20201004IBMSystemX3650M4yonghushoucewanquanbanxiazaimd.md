@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM System X3650 M4 用户手册（完全版）下载"
+title: "IBM System X3650 M4 用户手册完全版下载"
 date:   2024-08-14
 tags: [IBM,安装,服务器,用户手册,硬件]
 comments: true

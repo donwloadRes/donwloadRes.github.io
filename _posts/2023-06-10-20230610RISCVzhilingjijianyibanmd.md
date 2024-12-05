@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V指令集 简易版"
+title: "RISCV指令集 简易版"
 date:   2023-08-09
 tags: [指令,RISC,32,16,指令集]
 comments: true

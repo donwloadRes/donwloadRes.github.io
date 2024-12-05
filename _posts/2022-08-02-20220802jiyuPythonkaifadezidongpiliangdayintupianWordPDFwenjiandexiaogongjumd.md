@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python开发的自动批量打印图片、Word、PDF文件的小工具"
+title: "基于Python开发的自动批量打印图片WordPDF文件的小工具"
 date:   2022-09-28
 tags: [打印,文件夹,文件格式,工具,PDF]
 comments: true

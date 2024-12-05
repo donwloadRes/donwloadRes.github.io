@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.12 多功能上位机工具集合"
+title: "QT512 多功能上位机工具集合"
 date:   2020-10-28
 tags: [调试,串口,QT5.12,适用,工具]
 comments: true

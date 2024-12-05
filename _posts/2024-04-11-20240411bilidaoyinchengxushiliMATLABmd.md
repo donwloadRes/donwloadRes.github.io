@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "比例导引程序实例（MATLAB）"
+title: "比例导引程序实例MATLAB"
 date:   2023-12-10
 tags: [MATLAB,导引,比例,实例,程序]
 comments: true

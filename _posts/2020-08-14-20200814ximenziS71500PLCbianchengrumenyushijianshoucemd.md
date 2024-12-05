@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500 PLC编程入门与实践手册"
+title: "西门子S71500 PLC编程入门与实践手册"
 date:   2020-01-02
 tags: [PLC,编程,S7,1500,西门子]
 comments: true

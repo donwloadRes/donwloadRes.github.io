@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek RTL8305NB-CG 数据手册下载"
+title: "Realtek RTL8305NBCG 数据手册下载"
 date:   2022-09-21
 tags: [RTL8305NB,手册,Realtek,芯片,CG]
 comments: true

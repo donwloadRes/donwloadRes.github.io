@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PotPlayer不支持S-W HEVC(H.265)解码的解决办法"
+title: "PotPlayer不支持SW HEVCH265解码的解决办法"
 date:   2024-04-17
 tags: [PotPlayer,FFmpeg64,dll,H.265,解码]
 comments: true

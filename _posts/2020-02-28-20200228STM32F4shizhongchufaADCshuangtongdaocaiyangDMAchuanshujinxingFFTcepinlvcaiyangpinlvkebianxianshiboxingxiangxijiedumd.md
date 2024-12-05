@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4时钟触发ADC双通道采样DMA传输进行FFT+测频率+采样频率可变+显示波形（详细解读）"
+title: "STM32F4时钟触发ADC双通道采样DMA传输进行FFT测频率采样频率可变显示波形详细解读"
 date:   2022-04-24
 tags: [采样,频率,波形,ADC,FFT]
 comments: true

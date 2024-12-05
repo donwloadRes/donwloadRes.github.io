@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE-J1850 CRC8校验算法代码"
+title: "SAEJ1850 CRC8校验算法代码"
 date:   2021-03-08
 tags: [代码,校验,SAE,CRC8,算法]
 comments: true

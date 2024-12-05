@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day11-作业（SpringBootWeb案例）资源文件介绍"
+title: "Day11作业SpringBootWeb案例资源文件介绍"
 date:   2021-03-26
 tags: [SpringBoot,文件,项目,Web,案例]
 comments: true

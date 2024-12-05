@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张量分析》简明教程 资源下载"
+title: "张量分析简明教程 资源下载"
 date:   2024-11-02
 tags: [张量分析,下载,教程,简明,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BOSCH CAN 2.0 规范中英版 V01 下载仓库"
+title: "BOSCH CAN 20 规范中英版 V01 下载仓库"
 date:   2024-11-03
 tags: [文件,2.0,V01,仓库,版本]
 comments: true

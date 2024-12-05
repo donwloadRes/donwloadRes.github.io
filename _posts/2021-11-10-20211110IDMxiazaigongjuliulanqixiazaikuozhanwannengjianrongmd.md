@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM下载工具：浏览器下载扩展，万能兼容"
+title: "IDM下载工具浏览器下载扩展万能兼容"
 date:   2023-10-17
 tags: [浏览器,IDM,下载工具,下载,兼容]
 comments: true

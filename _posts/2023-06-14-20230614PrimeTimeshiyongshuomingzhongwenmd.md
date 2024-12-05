@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PrimeTime使用说明(中文)"
+title: "PrimeTime使用说明中文"
 date:   2021-08-06
 tags: [PrimeTime,时序,验证,Formality,Tcl]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正交设计助手 - 实验设计利器"
+title: "正交设计助手  实验设计利器"
 date:   2023-01-05
 tags: [正交,实验设计,链接,软件,设计]
 comments: true

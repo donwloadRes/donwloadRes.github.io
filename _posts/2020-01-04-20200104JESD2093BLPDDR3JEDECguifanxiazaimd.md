@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD209-3B LPDDR3 JEDEC 规范下载"
+title: "JESD2093B LPDDR3 JEDEC 规范下载"
 date:   2021-05-03
 tags: [JESD209,LPDDR3,3B,JEDEC,仓库]
 comments: true

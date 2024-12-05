@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 通过 Modbus TCP 连接 Codesys 控制器"
+title: "C 通过 Modbus TCP 连接 Codesys 控制器"
 date:   2020-12-31
 tags: [控制器,Codesys,C#,Modbus,TCP]
 comments: true

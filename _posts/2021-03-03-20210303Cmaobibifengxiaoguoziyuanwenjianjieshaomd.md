@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#毛笔笔锋效果资源文件介绍"
+title: "C毛笔笔锋效果资源文件介绍"
 date:   2022-03-30
 tags: [C#,毛笔,笔锋,效果,文件]
 comments: true

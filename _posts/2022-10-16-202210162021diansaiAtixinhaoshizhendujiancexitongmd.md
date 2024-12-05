@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021电赛A题_信号失真度检测系统"
+title: "2021电赛A题信号失真度检测系统"
 date:   2023-08-23
 tags: [模块,失真度,无线通信,信号,电赛]
 comments: true

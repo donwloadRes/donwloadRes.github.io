@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交互式多模型 IMM（CT-CV混合）及代码实现"
+title: "交互式多模型 IMMCTCV混合及代码实现"
 date:   2020-07-15
 tags: [代码,仿真,IMM,CT,CV]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 OpenCV + Python 的人脸识别上课签到系统"
+title: "基于 OpenCV  Python 的人脸识别上课签到系统"
 date:   2020-04-18
 tags: [签到,人脸,人脸识别,图像,采集]
 comments: true

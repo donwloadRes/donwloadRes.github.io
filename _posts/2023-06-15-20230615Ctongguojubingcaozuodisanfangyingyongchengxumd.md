@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过句柄操作“第三方应用程序“"
+title: "C通过句柄操作第三方应用程序"
 date:   2022-01-08
 tags: [句柄,应用程序,第三方,C#,操作]
 comments: true

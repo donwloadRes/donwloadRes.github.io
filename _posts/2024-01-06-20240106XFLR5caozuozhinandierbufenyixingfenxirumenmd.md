@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XFLR5操作指南 - 第二部分：翼型分析入门"
+title: "XFLR5操作指南  第二部分翼型分析入门"
 date:   2023-10-30
 tags: [翼型,XFLR5,分析,气动,界面]
 comments: true

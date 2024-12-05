@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 绘图板程序：矩形、椭圆、直线绘制与操作"
+title: "C 绘图板程序矩形椭圆直线绘制与操作"
 date:   2024-09-19
 tags: [绘制,图形,读取,用户,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three.js加载坦克3D模型源码实例"
+title: "threejs加载坦克3D模型源码实例"
 date:   2021-06-05
 tags: [js,three,模型,3D,加载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java入门指南：JDK 1.8超详细下载、安装与环境配置教程"
+title: "Java入门指南JDK 18超详细下载安装与环境配置教程"
 date:   2020-10-30
 tags: [Java,JDK,安装,JAVA,教程]
 comments: true

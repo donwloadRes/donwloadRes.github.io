@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFD极速阅读器 - 永久免费使用，功能齐全"
+title: "OFD极速阅读器  永久免费使用功能齐全"
 date:   2020-05-29
 tags: [OFD,文档,极速,阅读器,XML]
 comments: true

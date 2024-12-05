@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP详解（第2版卷2）完美英文版"
+title: "TCPIP详解第2版卷2完美英文版"
 date:   2022-02-06
 tags: [TCP,IP,英文版,版卷,详解]
 comments: true

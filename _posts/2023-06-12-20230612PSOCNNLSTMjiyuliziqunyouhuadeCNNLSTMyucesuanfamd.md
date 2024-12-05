@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSO-CNN-LSTM：基于粒子群优化的CNN-LSTM预测算法"
+title: "PSOCNNLSTM基于粒子群优化的CNNLSTM预测算法"
 date:   2020-12-17
 tags: [CNN,LSTM,PSO,算法,优化]
 comments: true

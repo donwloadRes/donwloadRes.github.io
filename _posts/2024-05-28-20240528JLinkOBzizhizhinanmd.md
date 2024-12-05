@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link OB自制指南"
+title: "JLink OB自制指南"
 date:   2020-06-11
 tags: [Link,自制,调试,固件,指南]
 comments: true

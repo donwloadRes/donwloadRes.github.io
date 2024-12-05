@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D小游戏：卡牌消消乐"
+title: "Unity3D小游戏卡牌消消乐"
 date:   2021-10-31
 tags: [Unity3D,游戏,C#,项目,学习]
 comments: true

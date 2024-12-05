@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "use7z的demo：简单封装的压缩与解压缩函数"
+title: "use7z的demo简单封装的压缩与解压缩函数"
 date:   2021-01-16
 tags: [C++,解压缩,封装,文件,use7z]
 comments: true

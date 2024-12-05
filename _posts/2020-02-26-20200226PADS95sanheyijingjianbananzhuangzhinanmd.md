@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS9.5三合一精简版安装指南"
+title: "PADS95三合一精简版安装指南"
 date:   2024-10-02
 tags: [安装,精简版,PADS,PADS9.5,三合一]
 comments: true

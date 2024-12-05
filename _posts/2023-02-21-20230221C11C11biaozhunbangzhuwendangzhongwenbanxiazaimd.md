@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C11 C++11 标准帮助文档中文版下载"
+title: "C11 C11 标准帮助文档中文版下载"
 date:   2024-06-20
 tags: [文档,C++,中文版,C11,11]
 comments: true

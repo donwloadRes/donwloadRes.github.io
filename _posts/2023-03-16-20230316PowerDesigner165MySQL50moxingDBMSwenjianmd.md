@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner 16.5 MySQL5.0 模型DBMS文件"
+title: "PowerDesigner 165 MySQL50 模型DBMS文件"
 date:   2020-04-21
 tags: [文件,PowerDesigner,16.5,MySQL5.0,DBMS]
 comments: true

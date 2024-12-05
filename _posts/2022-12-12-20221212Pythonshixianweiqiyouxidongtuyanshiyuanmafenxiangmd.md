@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现围棋游戏（动图演示+源码分享）"
+title: "Python实现围棋游戏动图演示源码分享"
 date:   2023-06-06
 tags: [游戏,Python,动图,围棋,源码]
 comments: true

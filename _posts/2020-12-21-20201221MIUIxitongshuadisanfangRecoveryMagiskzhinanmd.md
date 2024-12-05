@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIUI系统刷第三方Recovery+Magisk指南"
+title: "MIUI系统刷第三方RecoveryMagisk指南"
 date:   2023-04-09
 tags: [Magisk,Recovery,刷入,TWRP,手机]
 comments: true

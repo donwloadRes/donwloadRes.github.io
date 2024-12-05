@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200smart Modbus通信例程"
+title: "S7200smart Modbus通信例程"
 date:   2024-06-21
 tags: [Modbus,S7,200smart,例程,PLC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本地运行AI绘画：ComfyUI的安装与使用（一）（Windows+1660ti 6G显存）"
+title: "本地运行AI绘画ComfyUI的安装与使用一Windows1660ti 6G显存"
 date:   2020-01-10
 tags: [ComfyUI,AI,下载,显存,Windows]
 comments: true

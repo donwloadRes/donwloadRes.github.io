@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OpenCV-Python的车道线检测（高级）"
+title: "基于OpenCVPython的车道线检测高级"
 date:   2022-02-01
 tags: [车道,检测,Python,OpenCV,图像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-LVGL-GIF动态图片测试"
+title: "ESP32LVGLGIF动态图片测试"
 date:   2023-02-27
 tags: [ESP32,开发板,GIF,测试,LVGL]
 comments: true

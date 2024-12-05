@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stata 15.1 下载资源介绍"
+title: "Stata 151 下载资源介绍"
 date:   2021-04-20
 tags: [Stata,15.1,安装,数据分析,安装文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD封装库 3D模型之FPGA、STM32、常用元器件"
+title: "AD封装库 3D模型之FPGASTM32常用元器件"
 date:   2021-03-21
 tags: [封装,3D,模型,设计,元器件]
 comments: true

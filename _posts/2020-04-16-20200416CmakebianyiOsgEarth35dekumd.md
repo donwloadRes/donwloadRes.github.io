@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cmake编译OsgEarth3.5的库"
+title: "Cmake编译OsgEarth35的库"
 date:   2021-08-20
 tags: [编译,Cmake,OsgEarth3.5,包含,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SATA-AHCI规范学习"
+title: "SATAAHCI规范学习"
 date:   2020-05-25
 tags: [SATA,AHCI,寄存器,接口,硬盘]
 comments: true

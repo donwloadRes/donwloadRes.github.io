@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTFshow 电子取证：JiaJia-PC-1-2-3 图文详解"
+title: "CTFshow 电子取证JiaJiaPC123 图文详解"
 date:   2020-02-07
 tags: [取证,图文,PC,镜像文件,CTFshow]
 comments: true

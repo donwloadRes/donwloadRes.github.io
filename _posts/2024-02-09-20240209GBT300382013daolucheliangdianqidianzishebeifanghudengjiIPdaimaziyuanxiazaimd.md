@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 30038-2013 道路车辆 电气电子设备防护等级(IP代码) 资源下载"
+title: "GBT 300382013 道路车辆 电气电子设备防护等级IP代码 资源下载"
 date:   2022-11-25
 tags: [电子设备,2013,IP,防护,电气]
 comments: true

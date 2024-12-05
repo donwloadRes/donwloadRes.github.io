@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB Simulink仿真：蓄电池SOC均衡与下垂控制"
+title: "MATLAB Simulink仿真蓄电池SOC均衡与下垂控制"
 date:   2021-12-17
 tags: [仿真,SOC,蓄电池,MATLAB,Simulink]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PbootCMS标签生成器 - 开发助手"
+title: "PbootCMS标签生成器  开发助手"
 date:   2024-11-11
 tags: [PbootCMS,标签,生成器,开发,生成]
 comments: true

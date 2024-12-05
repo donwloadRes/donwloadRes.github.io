@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CameraLink协议 - Camera Link Specification v2.1"
+title: "CameraLink协议  Camera Link Specification v21"
 date:   2022-07-03
 tags: [Camera,Link,CameraLink,协议,视觉]
 comments: true

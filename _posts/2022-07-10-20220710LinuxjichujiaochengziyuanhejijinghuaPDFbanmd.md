@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux基础教程资源合集(精华)PDF版"
+title: "Linux基础教程资源合集精华PDF版"
 date:   2023-02-09
 tags: [Linux,合集,学习,资源,基础知识]
 comments: true

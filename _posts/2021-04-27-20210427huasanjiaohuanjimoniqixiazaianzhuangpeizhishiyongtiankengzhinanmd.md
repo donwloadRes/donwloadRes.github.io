@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华三交换机模拟器下载、安装、配置、使用填坑指南"
+title: "华三交换机模拟器下载安装配置使用填坑指南"
 date:   2020-05-09
 tags: [模拟器,华三,安装,VirtualBox,下载]
 comments: true

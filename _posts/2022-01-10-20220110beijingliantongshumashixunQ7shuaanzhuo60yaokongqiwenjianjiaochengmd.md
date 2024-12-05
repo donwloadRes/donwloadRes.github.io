@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京联通数码视讯Q7刷安卓6.0+遥控器文件教程"
+title: "北京联通数码视讯Q7刷安卓60遥控器文件教程"
 date:   2024-05-29
 tags: [刷机,教程,文件,遥控器,Q7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【BACnet-IP协议实践指南 - 利用Bacnet4j进行点位数据读取】"
+title: "BACnetIP协议实践指南  利用Bacnet4j进行点位数据读取"
 date:   2020-07-30
 tags: [BACnet,IP,Bacnet4j,设备,读取]
 comments: true

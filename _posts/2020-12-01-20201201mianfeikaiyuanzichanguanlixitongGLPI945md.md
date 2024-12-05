@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费开源资产管理系统GLPI 9.4.5"
+title: "免费开源资产管理系统GLPI 945"
 date:   2022-05-03
 tags: [GLPI,管理,9.4,开源,文档]
 comments: true

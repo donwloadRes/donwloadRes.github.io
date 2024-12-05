@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视摄像头IP搜索工具SADPTool V3.0.4.2build20200808"
+title: "海康威视摄像头IP搜索工具SADPTool V3042build20200808"
 date:   2022-07-17
 tags: [威视,海康,4.2,build20200808,IP地址]
 comments: true

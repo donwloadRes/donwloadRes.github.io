@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xftp7免费版（个人）下载链接"
+title: "Xftp7免费版个人下载链接"
 date:   2021-12-19
 tags: [Xftp7,文件传输,免费版,下载,链接]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI规范3.0版下载仓库"
+title: "CPCI规范30版下载仓库"
 date:   2022-05-31
 tags: [CPCI,3.0,文件,规范,下载]
 comments: true

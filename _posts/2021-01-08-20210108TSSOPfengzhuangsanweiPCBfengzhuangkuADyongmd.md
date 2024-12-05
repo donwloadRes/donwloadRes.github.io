@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSSOP封装三维PCB封装库（AD用）"
+title: "TSSOP封装三维PCB封装库AD用"
 date:   2024-05-19
 tags: [封装,TSSOP,PCB,AD,Altium]
 comments: true

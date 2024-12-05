@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑主板电路图(全).pdf 免费下载"
+title: "电脑主板电路图全pdf 免费下载"
 date:   2023-11-02
 tags: [电路图,电脑主板,pdf,文件,下载]
 comments: true

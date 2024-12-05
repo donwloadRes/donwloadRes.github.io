@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华大九天模拟设计全流程套件-实验指导"
+title: "华大九天模拟设计全流程套件实验指导"
 date:   2020-07-23
 tags: [华大,九天,套件,流程,模拟]
 comments: true

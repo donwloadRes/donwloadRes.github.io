@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32单片机作TCP服务器，实现PC多客户端连接Demo"
+title: "STM32单片机作TCP服务器实现PC多客户端连接Demo"
 date:   2020-09-24
 tags: [STM32,客户端,TCP,PC,开发板]
 comments: true

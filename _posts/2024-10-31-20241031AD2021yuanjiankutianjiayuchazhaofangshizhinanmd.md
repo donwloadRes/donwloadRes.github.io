@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD20-21元件库添加与查找方式指南"
+title: "AD2021元件库添加与查找方式指南"
 date:   2023-05-18
 tags: [元件库,查找,AD20,21,添加]
 comments: true

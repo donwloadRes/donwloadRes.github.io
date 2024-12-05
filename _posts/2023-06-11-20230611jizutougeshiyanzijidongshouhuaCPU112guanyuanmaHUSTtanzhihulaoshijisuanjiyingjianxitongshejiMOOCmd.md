@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计组头歌实验：自己动手画CPU 1-12关源码 - HUST谭志虎老师计算机硬件系统设计MOOC"
+title: "计组头歌实验自己动手画CPU 112关源码  HUST谭志虎老师计算机硬件系统设计MOOC"
 date:   2023-07-17
 tags: [设计,CPU,实验,MIPS,源码]
 comments: true

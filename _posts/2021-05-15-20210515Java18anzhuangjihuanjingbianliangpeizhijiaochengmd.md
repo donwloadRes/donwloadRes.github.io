@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 1.8 安装及环境变量配置教程"
+title: "Java 18 安装及环境变量配置教程"
 date:   2023-09-13
 tags: [Java,JDK,环境变量,教程,安装]
 comments: true

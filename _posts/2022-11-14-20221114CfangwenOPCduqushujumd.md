@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 访问 OPC 读取数据"
+title: "C 访问 OPC 读取数据"
 date:   2024-10-01
 tags: [OPC,C#,服务器,读取数据,示例]
 comments: true

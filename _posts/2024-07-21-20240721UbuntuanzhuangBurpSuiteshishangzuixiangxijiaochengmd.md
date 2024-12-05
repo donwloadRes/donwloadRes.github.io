@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu安装Burp Suite--史上最详细教程"
+title: "Ubuntu安装Burp Suite史上最详细教程"
 date:   2023-04-13
 tags: [Burp,Suite,安装,虚拟机,Ubuntu]
 comments: true

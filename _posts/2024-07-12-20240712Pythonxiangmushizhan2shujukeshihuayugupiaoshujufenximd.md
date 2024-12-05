@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python项目实战2：数据可视化与股票数据分析"
+title: "Python项目实战2数据可视化与股票数据分析"
 date:   2020-11-22
 tags: [Python,23.1,可视化,数据分析,Matplotlib]
 comments: true

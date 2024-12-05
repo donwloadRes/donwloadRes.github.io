@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【一站式深度学习环境配置指南】"
+title: "一站式深度学习环境配置指南"
 date:   2023-10-23
 tags: [深度,环境,CUDA,学习,Python]
 comments: true

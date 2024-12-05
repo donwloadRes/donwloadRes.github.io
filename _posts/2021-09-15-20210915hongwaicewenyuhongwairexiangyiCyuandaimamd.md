@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外测温与红外热像仪C#源代码"
+title: "红外测温与红外热像仪C源代码"
 date:   2023-09-17
 tags: [红外,测温,热像仪,源代码,代码]
 comments: true

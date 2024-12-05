@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Spider ApkScan-PKID 查壳工具下载使用及技术介绍"
+title: "Android Spider ApkScanPKID 查壳工具下载使用及技术介绍"
 date:   2020-05-01
 tags: [加壳,APK,Android,查壳,PKID]
 comments: true

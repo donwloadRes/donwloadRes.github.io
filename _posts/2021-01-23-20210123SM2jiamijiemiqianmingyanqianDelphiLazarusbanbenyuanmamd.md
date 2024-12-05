@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2加密解密、签名验签Delphi Lazarus版本源码"
+title: "SM2加密解密签名验签Delphi Lazarus版本源码"
 date:   2023-04-04
 tags: [Delphi,源码,解密,SM2,验签]
 comments: true

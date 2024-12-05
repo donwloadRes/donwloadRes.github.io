@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5+DeepSort实现目标跟踪"
+title: "YOLOv5DeepSort实现目标跟踪"
 date:   2020-06-20
 tags: [目标,跟踪,YOLOv5,DeepSort,视频]
 comments: true

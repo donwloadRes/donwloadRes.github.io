@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电赛Altium Designer元件大全 - 原理图+PCB封装库"
+title: "电赛Altium Designer元件大全  原理图PCB封装库"
 date:   2020-02-20
 tags: [元件,Altium,Designer,电路设计,封装]
 comments: true

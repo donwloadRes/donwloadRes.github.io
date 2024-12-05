@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HIKVISION ISAPI 2.0 PTZ 服务规范"
+title: "HIKVISION ISAPI 20 PTZ 服务规范"
 date:   2021-06-12
 tags: [ISAPI,PTZ,2.0,文档,HIKVISION]
 comments: true

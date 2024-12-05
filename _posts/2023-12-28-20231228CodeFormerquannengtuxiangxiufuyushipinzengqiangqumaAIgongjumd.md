@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeFormer：全能图像修复与视频增强去码AI工具"
+title: "CodeFormer全能图像修复与视频增强去码AI工具"
 date:   2024-09-12
 tags: [CodeFormer,视频,图像,AI,修复]
 comments: true

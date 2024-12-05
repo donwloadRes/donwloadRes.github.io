@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Serv-U FTP服务器安装带绿化版工具"
+title: "ServU FTP服务器安装带绿化版工具"
 date:   2022-01-21
 tags: [Serv,FTP,绿化,服务器,安装]
 comments: true

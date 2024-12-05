@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity RT-Voice PRO 2020.1.2 文字转语音（支持中文）"
+title: "Unity RTVoice PRO 202012 文字转语音支持中文"
 date:   2023-04-21
 tags: [语音,Unity,音频,生成,支持]
 comments: true

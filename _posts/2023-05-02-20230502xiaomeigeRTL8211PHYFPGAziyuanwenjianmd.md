@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小梅哥RTL8211PHY+FPGA资源文件"
+title: "小梅哥RTL8211PHYFPGA资源文件"
 date:   2022-09-25
 tags: [FPGA,文件,RTL8211PHY,使用手册,小梅哥]
 comments: true

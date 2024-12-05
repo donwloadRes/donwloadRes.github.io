@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI DS90UB953-DS90UB954调试总结配置及资料"
+title: "TI DS90UB953DS90UB954调试总结配置及资料"
 date:   2021-06-14
 tags: [调试,DS90UB954,DS90UB953,TI,芯片]
 comments: true

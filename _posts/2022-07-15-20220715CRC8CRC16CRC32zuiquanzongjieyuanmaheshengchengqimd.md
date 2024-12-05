@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRC8-CRC16-CRC32最全总结（源码和生成器）"
+title: "CRC8CRC16CRC32最全总结源码和生成器"
 date:   2022-07-18
 tags: [CRC,源码,算法,生成器,源代码]
 comments: true

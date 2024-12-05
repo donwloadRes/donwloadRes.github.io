@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 入门到高级项目实战教程 v3.1 下载"
+title: "Vuejs 入门到高级项目实战教程 v31 下载"
 date:   2024-07-11
 tags: [Vue,js,教程,实战,高级]
 comments: true

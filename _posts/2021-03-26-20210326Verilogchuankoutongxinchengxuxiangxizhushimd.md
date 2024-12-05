@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog串口通信程序(详细注释)"
+title: "Verilog串口通信程序详细注释"
 date:   2020-11-22
 tags: [串口,程序,注释,Verilog,代码]
 comments: true

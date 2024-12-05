@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dism安装.NET3.5 资源文件"
+title: "Dism安装NET35 资源文件"
 date:   2021-08-09
 tags: [安装,NET3.5,Dism,文件,NET]
 comments: true

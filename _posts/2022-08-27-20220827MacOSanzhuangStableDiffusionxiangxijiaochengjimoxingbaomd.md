@@ -1,6 +1,21 @@
 ---
 layout: post
-title: "Mac OS 安装 Stable Diffusion 详细教程及模型包"
+title: "Mac OS 安装 Stable Diffusion 详细教程及模型包
+date   20210313
+tags StableDiffusion安装教程模型
+comments true
+author admin
+
+ Mac OS 安装 Stable Diffusion 详细教程及模型包
+
+本资源文件提供了在 Mac OS 上安装 Stable Diffusion 的详细教程并附带了所需的模型包Stable Diffusion 是一款强大的 AI 绘画工具本文将指导您完成从安装 Home Brew依赖包拉取 Web UI 存储库下载模型启动项目测试安装汉化包及配置语言等全过程
+
+ 内容概述
+
+1 安装 Home Brew
+    在终端中执行以下命令安装 Home Brew
+     bash
+     binbash c curl fsSL httpsrawgithubusercontentcomHomebrewinstallHEADinstallsh"
 date:   2021-03-13
 tags: [Stable,Diffusion,安装,教程,模型]
 comments: true

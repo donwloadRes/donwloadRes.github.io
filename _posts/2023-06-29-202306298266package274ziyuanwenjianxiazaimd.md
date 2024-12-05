@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8266_package_2.7.4 资源文件下载"
+title: "8266package274 资源文件下载"
 date:   2023-06-28
 tags: [8266,2.7,package,软件包,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超强下载器！Internet Download Manager 6.42.7下载工具软件安装使用指南"
+title: "超强下载器Internet Download Manager 6427下载工具软件安装使用指南"
 date:   2021-03-23
 tags: [Internet,Download,Manager,下载,安装]
 comments: true

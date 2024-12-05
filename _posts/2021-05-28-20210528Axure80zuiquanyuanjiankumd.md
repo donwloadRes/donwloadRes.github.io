@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure 8.0 最全元件库"
+title: "Axure 80 最全元件库"
 date:   2022-08-28
 tags: [元件库,Axure,8.0,图标,元件]
 comments: true

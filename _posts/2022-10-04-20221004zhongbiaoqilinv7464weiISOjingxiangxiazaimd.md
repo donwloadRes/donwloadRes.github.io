@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中标麒麟 v7.4 64位 ISO镜像下载"
+title: "中标麒麟 v74 64位 ISO镜像下载"
 date:   2021-11-01
 tags: [ISO,麒麟,中标,64,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch-UNet：高质量图像语义分割的PyTorch实现"
+title: "PytorchUNet高质量图像语义分割的PyTorch实现"
 date:   2024-01-24
 tags: [图像,jpg,模型,分割,语义]
 comments: true

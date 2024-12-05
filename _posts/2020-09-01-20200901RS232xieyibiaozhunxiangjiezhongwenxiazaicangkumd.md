@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS232协议标准详解（中文）下载仓库"
+title: "RS232协议标准详解中文下载仓库"
 date:   2022-11-26
 tags: [RS232,协议,文件,详解,PDF]
 comments: true

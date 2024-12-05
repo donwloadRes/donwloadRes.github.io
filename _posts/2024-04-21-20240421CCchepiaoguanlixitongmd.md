@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 车票管理系统"
+title: "CC 车票管理系统"
 date:   2024-07-05
 tags: [班次,C++,文件,退票,车票]
 comments: true

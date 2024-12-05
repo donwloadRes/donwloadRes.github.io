@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微带天线理论与工程(完整版) 资源下载"
+title: "微带天线理论与工程完整版 资源下载"
 date:   2022-08-13
 tags: [微带天线,天线,完整版,介绍,理论]
 comments: true

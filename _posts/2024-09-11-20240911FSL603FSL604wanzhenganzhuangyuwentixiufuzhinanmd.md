@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FSL6.0.3-FSL6.0.4 完整安装与问题修复指南"
+title: "FSL603FSL604 完整安装与问题修复指南"
 date:   2021-04-17
 tags: [FSL,安装,FSLeyes,环境变量,FSL6.0]
 comments: true

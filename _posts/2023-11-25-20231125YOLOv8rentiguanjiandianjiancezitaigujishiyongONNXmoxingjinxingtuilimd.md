@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8人体关键点检测（姿态估计）：使用ONNX模型进行推理"
+title: "YOLOv8人体关键点检测姿态估计使用ONNX模型进行推理"
 date:   2023-05-15
 tags: [YOLOv8,检测,模型,代码,关键点]
 comments: true

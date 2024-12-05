@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp-h5多选模糊搜索下拉框使用指南"
+title: "uniapph5多选模糊搜索下拉框使用指南"
 date:   2022-06-04
 tags: [组件,多选,下拉框,搜索,uniapp]
 comments: true

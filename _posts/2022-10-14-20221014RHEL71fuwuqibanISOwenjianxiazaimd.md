@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RHEL 7.1 服务器版 ISO 文件下载"
+title: "RHEL 71 服务器版 ISO 文件下载"
 date:   2021-10-14
 tags: [文件,7.1,ISO,x86,64]
 comments: true

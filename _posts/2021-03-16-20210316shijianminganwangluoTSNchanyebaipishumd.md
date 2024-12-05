@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间敏感网络(TSN)产业白皮书"
+title: "时间敏感网络TSN产业白皮书"
 date:   2020-03-23
 tags: [TSN,白皮书,网络,敏感,技术]
 comments: true

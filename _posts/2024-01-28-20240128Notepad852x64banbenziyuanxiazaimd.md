@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 8.5.2 x64 版本资源下载"
+title: "Notepad 852 x64 版本资源下载"
 date:   2022-09-04
 tags: [Notepad,++,8.5,x64,下载]
 comments: true

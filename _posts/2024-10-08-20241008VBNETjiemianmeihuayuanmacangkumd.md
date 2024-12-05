@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB.NET界面美化源码仓库"
+title: "VBNET界面美化源码仓库"
 date:   2024-10-02
 tags: [源码,界面,VB,NET,控件]
 comments: true

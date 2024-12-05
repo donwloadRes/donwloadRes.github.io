@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb学习笔记——B站尚硅谷"
+title: "JavaWeb学习笔记B站尚硅谷"
 date:   2021-09-11
 tags: [JavaWeb,笔记,HTML,标签,文件]
 comments: true

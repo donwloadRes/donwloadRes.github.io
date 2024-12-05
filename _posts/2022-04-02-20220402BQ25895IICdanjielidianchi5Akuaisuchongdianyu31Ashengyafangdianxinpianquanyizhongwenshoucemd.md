@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BQ25895 IIC 单节锂电池 5A快速充电与3.1A升压放电芯片 全译中文手册"
+title: "BQ25895 IIC 单节锂电池 5A快速充电与31A升压放电芯片 全译中文手册"
 date:   2021-04-20
 tags: [手册,芯片,BQ25895,5A,3.1]
 comments: true

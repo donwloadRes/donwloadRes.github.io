@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BYD烧录仿真软件 BYD-Debug-V1.0.4.13a"
+title: "BYD烧录仿真软件 BYDDebugV10413a"
 date:   2021-05-30
 tags: [仿真,BYD,软件,V1.0,4.13]
 comments: true

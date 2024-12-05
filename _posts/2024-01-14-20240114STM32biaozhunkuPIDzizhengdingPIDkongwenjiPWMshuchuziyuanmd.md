@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 标准库：PID自整定、PID控温及PWM输出资源"
+title: "STM32 标准库PID自整定PID控温及PWM输出资源"
 date:   2020-09-20
 tags: [PID,STM32,PWM,自整定,控温]
 comments: true

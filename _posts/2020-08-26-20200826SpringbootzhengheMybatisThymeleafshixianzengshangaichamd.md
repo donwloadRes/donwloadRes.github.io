@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot 整合 Mybatis + Thymeleaf 实现增删改查"
+title: "Springboot 整合 Mybatis  Thymeleaf 实现增删改查"
 date:   2024-06-05
 tags: [Springboot,改查,增删,项目,页面]
 comments: true

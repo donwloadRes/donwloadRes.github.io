@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "茆诗松贝叶斯统计》第二版课后答案下载"
+title: "茆诗松贝叶斯统计第二版课后答案下载"
 date:   2022-10-03
 tags: [课后,贝叶斯,茆诗松,答案,下载]
 comments: true

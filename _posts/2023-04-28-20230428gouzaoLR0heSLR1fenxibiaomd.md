@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "构造LR(0)和SLR(1)分析表"
+title: "构造LR0和SLR1分析表"
 date:   2022-11-16
 tags: [LR,SLR,归约,分析,文法]
 comments: true

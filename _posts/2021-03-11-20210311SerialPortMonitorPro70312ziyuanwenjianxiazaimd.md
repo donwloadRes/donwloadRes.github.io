@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Serial Port Monitor Pro 7.0.312 资源文件下载"
+title: "Serial Port Monitor Pro 70312 资源文件下载"
 date:   2023-01-09
 tags: [312,文件,原版,Serial,Port]
 comments: true

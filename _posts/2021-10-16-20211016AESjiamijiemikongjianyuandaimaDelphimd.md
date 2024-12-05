@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AES 加密解密控件源代码（Delphi）"
+title: "AES 加密解密控件源代码Delphi"
 date:   2021-07-15
 tags: [控件,AES,加密,源代码,解密]
 comments: true

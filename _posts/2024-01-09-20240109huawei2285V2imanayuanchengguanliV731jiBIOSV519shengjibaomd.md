@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为2285V2imana远程管理V731及BIOS-V519升级包"
+title: "华为2285V2imana远程管理V731及BIOSV519升级包"
 date:   2024-06-16
 tags: [升级包,BIOS,远程管理,升级,华为]
 comments: true

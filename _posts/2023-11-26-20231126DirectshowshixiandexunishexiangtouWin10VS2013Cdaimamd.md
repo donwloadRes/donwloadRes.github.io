@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Directshow实现的虚拟摄像头（Win10+VS2013, C++代码）"
+title: "Directshow实现的虚拟摄像头Win10VS2013 C代码"
 date:   2024-11-22
 tags: [Directshow,摄像头,Visual,Studio,2013]
 comments: true

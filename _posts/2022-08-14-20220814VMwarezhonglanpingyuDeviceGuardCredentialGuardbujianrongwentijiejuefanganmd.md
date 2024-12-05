@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware中蓝屏与Device Guard-Credential Guard不兼容问题解决方案"
+title: "VMware中蓝屏与Device GuardCredential Guard不兼容问题解决方案"
 date:   2020-04-10
 tags: [Guard,Device,VMware,Credential,解决方案]
 comments: true

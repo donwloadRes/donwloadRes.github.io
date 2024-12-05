@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZedBoard+AD9361 FPGA配置控制方案：寄存器脚本到Verilog函数转换指南"
+title: "ZedBoardAD9361 FPGA配置控制方案寄存器脚本到Verilog函数转换指南"
 date:   2023-05-15
 tags: [AD9361,FPGA,脚本,Verilog,寄存器]
 comments: true

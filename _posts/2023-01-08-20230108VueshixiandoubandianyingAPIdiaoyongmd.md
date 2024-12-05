@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue实现豆瓣电影（API调用）"
+title: "Vue实现豆瓣电影API调用"
 date:   2023-01-25
 tags: [API,豆瓣,电影,页面,Vue]
 comments: true

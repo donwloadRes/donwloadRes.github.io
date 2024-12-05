@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V嵌入式开发资源下载"
+title: "RISCV嵌入式开发资源下载"
 date:   2020-05-31
 tags: [嵌入式,RISC,开发,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "磁盘检测工具 - ChipGenius"
+title: "磁盘检测工具  ChipGenius"
 date:   2022-09-07
 tags: [ChipGenius,芯片型号,设备,U盘,检测工具]
 comments: true

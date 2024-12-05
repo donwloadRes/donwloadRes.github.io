@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页设计期末作业：模仿网易云音乐网页"
+title: "网页设计期末作业模仿网易云音乐网页"
 date:   2020-04-21
 tags: [网页,项目,代码,Bootstrap,设计]
 comments: true

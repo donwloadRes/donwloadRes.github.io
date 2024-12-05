@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械动力学（张策版）资源下载"
+title: "机械动力学张策版资源下载"
 date:   2021-11-07
 tags: [张策,动力学,学习,资源,机械]
 comments: true

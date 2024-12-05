@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MES系统：基于C#的制造执行系统"
+title: "MES系统基于C的制造执行系统"
 date:   2024-04-13
 tags: [订单,立库,状态,界面,MES]
 comments: true

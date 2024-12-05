@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB.net + MQTTnet 实现的 MQTT 客户端示例"
+title: "VBnet  MQTTnet 实现的 MQTT 客户端示例"
 date:   2022-08-13
 tags: [MQTT,示例,客户端,VB,net]
 comments: true

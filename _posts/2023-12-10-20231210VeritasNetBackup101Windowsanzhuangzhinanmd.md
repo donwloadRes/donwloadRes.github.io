@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veritas NetBackup 10.1 Windows 安装指南"
+title: "Veritas NetBackup 101 Windows 安装指南"
 date:   2022-01-30
 tags: [安装,Veritas,NetBackup,Windows,10.1]
 comments: true

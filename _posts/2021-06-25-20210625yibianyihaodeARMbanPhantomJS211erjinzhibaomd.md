@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "已编译好的ARM版 PhantomJS 2.1.1 二进制包"
+title: "已编译好的ARM版 PhantomJS 211 二进制包"
 date:   2020-09-01
 tags: [ARM,PhantomJS,二进制,编译,2.1]
 comments: true

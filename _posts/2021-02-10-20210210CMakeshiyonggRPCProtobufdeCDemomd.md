@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake使用gRPC(Protobuf) 的C++ Demo"
+title: "CMake使用gRPCProtobuf 的C Demo"
 date:   2024-05-02
 tags: [gRPC,CMake,Protobuf,构建,Demo]
 comments: true

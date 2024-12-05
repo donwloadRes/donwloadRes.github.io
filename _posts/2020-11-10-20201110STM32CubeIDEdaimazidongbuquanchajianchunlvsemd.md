@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeIDE代码自动补全插件（纯绿色）"
+title: "STM32CubeIDE代码自动补全插件纯绿色"
 date:   2021-06-13
 tags: [插件,STM32CubeIDE,代码,自动,补全]
 comments: true

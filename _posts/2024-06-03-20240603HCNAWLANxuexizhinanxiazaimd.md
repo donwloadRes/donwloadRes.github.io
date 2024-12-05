@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCNA-WLAN学习指南下载"
+title: "HCNAWLAN学习指南下载"
 date:   2023-03-13
 tags: [WLAN,HCNA,学习指南,pdf,下载]
 comments: true

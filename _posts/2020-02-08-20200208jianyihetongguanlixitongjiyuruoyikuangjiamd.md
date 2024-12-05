@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易合同管理系统（基于若依框架）"
+title: "简易合同管理系统基于若依框架"
 date:   2023-07-27
 tags: [合同,信息,业务员,管理,可下]
 comments: true

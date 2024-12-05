@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "畅捷通T+13-17一键授权资源下载"
+title: "畅捷通T1317一键授权资源下载"
 date:   2024-10-27
 tags: [捷通,17,授权,一键,13]
 comments: true

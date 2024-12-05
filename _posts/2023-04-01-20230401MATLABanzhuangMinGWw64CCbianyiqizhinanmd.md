@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB安装MinGW-w64 C-C++编译器指南"
+title: "MATLAB安装MinGWw64 CC编译器指南"
 date:   2022-11-02
 tags: [MATLAB,编译器,MinGW,w64,C++]
 comments: true

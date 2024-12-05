@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H7xx参考手册（V3中文版）"
+title: "STM32H7xx参考手册V3中文版"
 date:   2023-01-24
 tags: [STM32H7xx,系列,本手册,微控制器,外设]
 comments: true

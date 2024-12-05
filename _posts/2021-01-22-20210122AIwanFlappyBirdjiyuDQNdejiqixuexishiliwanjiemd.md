@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI玩Flappy Bird：基于DQN的机器学习实例【完结】"
+title: "AI玩Flappy Bird基于DQN的机器学习实例完结"
 date:   2020-11-30
 tags: [AI,Flappy,Bird,DQN,万次]
 comments: true

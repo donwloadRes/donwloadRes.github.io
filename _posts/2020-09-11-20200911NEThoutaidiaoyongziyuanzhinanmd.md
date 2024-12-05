@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 后台调用资源 指南"
+title: "NET 后台调用资源 指南"
 date:   2023-08-28
 tags: [using,request,var,response,System]
 comments: true

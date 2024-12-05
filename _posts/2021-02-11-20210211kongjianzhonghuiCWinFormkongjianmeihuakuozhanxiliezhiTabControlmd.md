@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "控件重绘 C# WinForm控件美化扩展系列之TabControl"
+title: "控件重绘 C WinForm控件美化扩展系列之TabControl"
 date:   2022-06-09
 tags: [控件,TabControl,美化,重绘,示例]
 comments: true

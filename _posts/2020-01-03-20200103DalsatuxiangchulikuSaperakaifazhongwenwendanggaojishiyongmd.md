@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dalsa图像处理库Sapera开发中文文档--高级使用"
+title: "Dalsa图像处理库Sapera开发中文文档高级使用"
 date:   2021-08-30
 tags: [Sapera,开发者,图像处理,文档,Dalsa]
 comments: true

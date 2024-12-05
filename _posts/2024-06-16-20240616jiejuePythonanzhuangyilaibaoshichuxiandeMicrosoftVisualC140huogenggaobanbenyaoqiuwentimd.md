@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Python安装依赖包时出现的Microsoft Visual C++ 14.0或更高版本要求问题"
+title: "解决Python安装依赖包时出现的Microsoft Visual C 140或更高版本要求问题"
 date:   2021-10-03
 tags: [C++,Microsoft,安装,Visual,Python]
 comments: true

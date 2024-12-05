@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE SystemVerilog 语言标准 1800-2009 下载"
+title: "IEEE SystemVerilog 语言标准 18002009 下载"
 date:   2021-12-26
 tags: [SystemVerilog,标准,IEEE,1800,2009]
 comments: true

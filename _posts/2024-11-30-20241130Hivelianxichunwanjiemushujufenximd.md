@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hive练习：春晚节目数据分析"
+title: "Hive练习春晚节目数据分析"
 date:   2023-03-09
 tags: [Hive,节目,数据分析,春晚,party]
 comments: true

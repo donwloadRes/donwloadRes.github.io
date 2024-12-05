@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "京东自动抢购脚本-抢购茅台"
+title: "京东自动抢购脚本抢购茅台"
 date:   2023-03-16
 tags: [抢购,京东,登录,自动,requirements]
 comments: true

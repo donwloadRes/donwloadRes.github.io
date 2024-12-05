@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringCloud+MySQL+Vue实现人脸识别智能考勤管理系统"
+title: "SpringCloudMySQLVue实现人脸识别智能考勤管理系统"
 date:   2020-03-19
 tags: [考勤,人脸识别,模块,MySQL,教务]
 comments: true

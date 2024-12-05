@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++头文件大全（超全）"
+title: "C头文件大全超全"
 date:   2022-01-03
 tags: [头文件,C++,编程,资源库,大全]
 comments: true

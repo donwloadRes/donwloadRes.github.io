@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多线程4相机测量资源文件介绍"
+title: "C多线程4相机测量资源文件介绍"
 date:   2024-11-18
 tags: [相机,多线程,C#,SDK,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "友善电子RK3399安卓8.1镜像下载"
+title: "友善电子RK3399安卓81镜像下载"
 date:   2021-10-10
 tags: [镜像文件,RK3399,安卓,8.1,烧录]
 comments: true

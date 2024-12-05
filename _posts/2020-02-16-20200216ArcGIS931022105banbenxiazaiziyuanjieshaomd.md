@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 9.3-10.2.2-10.5版本下载资源介绍"
+title: "ArcGIS 931022105版本下载资源介绍"
 date:   2022-01-23
 tags: [ArcGIS,版本,9.3,Desktop,Engine]
 comments: true

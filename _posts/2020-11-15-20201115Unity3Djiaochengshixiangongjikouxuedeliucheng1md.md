@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：实现攻击扣血的流程1"
+title: "Unity3D教程实现攻击扣血的流程1"
 date:   2021-11-01
 tags: [玩家,血量,重生,DecreaseLive,函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA机器人TCP-IP通讯参数配置方法"
+title: "KUKA机器人TCPIP通讯参数配置方法"
 date:   2020-05-15
 tags: [KUKA,通讯,机器人,TCP,IP]
 comments: true

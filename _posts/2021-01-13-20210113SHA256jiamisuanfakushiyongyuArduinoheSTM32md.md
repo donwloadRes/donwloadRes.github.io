@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SHA256加密算法库（适用于Arduino和STM32）"
+title: "SHA256加密算法库适用于Arduino和STM32"
 date:   2024-01-10
 tags: [SHA256,Arduino,STM32,加密算法,文件]
 comments: true

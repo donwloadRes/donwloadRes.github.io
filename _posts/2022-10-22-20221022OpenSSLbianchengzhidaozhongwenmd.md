@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL编程指导（中文）"
+title: "OpenSSL编程指导中文"
 date:   2020-01-26
 tags: [OpenSSL,手册,数字签名,开发者,加密]
 comments: true

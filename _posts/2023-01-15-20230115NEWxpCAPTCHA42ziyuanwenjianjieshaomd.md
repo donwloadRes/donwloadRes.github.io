@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEW-xp-CAPTCHA-4.2 资源文件介绍"
+title: "NEWxpCAPTCHA42 资源文件介绍"
 date:   2021-05-31
 tags: [验证码,插件,4.2,JDK,NEW]
 comments: true

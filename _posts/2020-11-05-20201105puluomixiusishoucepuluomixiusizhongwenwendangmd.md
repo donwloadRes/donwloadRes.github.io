@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普罗米修斯手册：普罗米修斯中文文档"
+title: "普罗米修斯手册普罗米修斯中文文档"
 date:   2021-01-01
 tags: [普罗米修斯,文档,中文,本手册,使用]
 comments: true

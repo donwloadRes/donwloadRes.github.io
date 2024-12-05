@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图片标注工具LabelImg.exe 直接运行版"
+title: "图片标注工具LabelImgexe 直接运行版"
 date:   2021-02-23
 tags: [LabelImg,exe,标注,版本,类别]
 comments: true

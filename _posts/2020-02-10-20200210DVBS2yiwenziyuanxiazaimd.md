@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVB-S2译文资源下载"
+title: "DVBS2译文资源下载"
 date:   2023-02-02
 tags: [DVB,S2,译文,协议,下载]
 comments: true

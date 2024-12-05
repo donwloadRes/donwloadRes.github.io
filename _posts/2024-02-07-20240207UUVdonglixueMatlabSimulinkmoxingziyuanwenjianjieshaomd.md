@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UUV动力学Matlab-Simulink模型资源文件介绍"
+title: "UUV动力学MatlabSimulink模型资源文件介绍"
 date:   2021-12-28
 tags: [Matlab,Simulink,UUV,功能,动力学]
 comments: true

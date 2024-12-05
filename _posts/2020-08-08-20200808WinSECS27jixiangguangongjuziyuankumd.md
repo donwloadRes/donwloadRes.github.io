@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinSECS 2.7 及相关工具资源库"
+title: "WinSECS 27 及相关工具资源库"
 date:   2021-04-25
 tags: [---,WinSECS,2.7,FASTsim,设备]
 comments: true

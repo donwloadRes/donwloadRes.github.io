@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows中mfc100.dll文件缺少问题"
+title: "解决Windows中mfc100dll文件缺少问题"
 date:   2020-10-20
 tags: [mfc100,dll,文件,Windows,32]
 comments: true

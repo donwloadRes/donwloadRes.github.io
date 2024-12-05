@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL超级宝典第七版（英文高清带目录版）下载"
+title: "OpenGL超级宝典第七版英文高清带目录版下载"
 date:   2024-04-04
 tags: [OpenGL,PDF,第七版,宝典,高清]
 comments: true

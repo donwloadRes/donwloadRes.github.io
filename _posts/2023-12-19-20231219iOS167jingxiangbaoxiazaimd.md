@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS 16.7 镜像包下载"
+title: "iOS 167 镜像包下载"
 date:   2024-08-05
 tags: [镜像,Xcode,iOS,16.7,调试]
 comments: true

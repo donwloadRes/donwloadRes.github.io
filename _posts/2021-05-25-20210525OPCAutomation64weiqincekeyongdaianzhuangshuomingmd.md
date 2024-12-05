@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPCAutomation 64位亲测可用（带安装说明）"
+title: "OPCAutomation 64位亲测可用带安装说明"
 date:   2023-12-28
 tags: [OPCAutomation,安装,64,说明,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMPIRE__128X64中文手册示例代码2"
+title: "AMPIRE128X64中文手册示例代码2"
 date:   2021-02-12
 tags: [示例,显示屏,AMPIRE,__,128X64]
 comments: true

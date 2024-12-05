@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手 UartAssist V5.0.2（2022最新版）"
+title: "串口调试助手 UartAssist V5022022最新版"
 date:   2020-01-06
 tags: [串口,调试,COM,发送,V5.0]
 comments: true

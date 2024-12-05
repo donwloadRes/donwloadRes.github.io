@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面向对象程序设计第2版编程题答案"
+title: "C面向对象程序设计第2版编程题答案"
 date:   2024-09-20
 tags: [编程,C++,面向对象,参考答案,程序设计]
 comments: true

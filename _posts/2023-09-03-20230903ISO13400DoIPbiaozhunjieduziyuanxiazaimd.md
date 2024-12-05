@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 13400（DoIP）标准解读资源下载"
+title: "ISO 13400DoIP标准解读资源下载"
 date:   2023-11-19
 tags: [DoIP,ISO,13400,诊断,标准]
 comments: true

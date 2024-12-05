@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 开机出现 "welcome to emergency mode!" 的解决方法"
+title: "CentOS 7 开机出现 welcome to emergency mode 的解决方法"
 date:   2023-11-04
 tags: [启动,bash,系统,模式,单用户]
 comments: true

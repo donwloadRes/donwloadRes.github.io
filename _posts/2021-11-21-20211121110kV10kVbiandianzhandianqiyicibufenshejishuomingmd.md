@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "110kV-10kV变电站电气一次部分设计说明"
+title: "110kV10kV变电站电气一次部分设计说明"
 date:   2021-05-30
 tags: [110kV,母线,间隔,断面图,电气]
 comments: true

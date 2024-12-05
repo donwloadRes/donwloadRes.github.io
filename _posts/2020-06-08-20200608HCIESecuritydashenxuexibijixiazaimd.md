@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-Security大神学习笔记下载"
+title: "HCIESecurity大神学习笔记下载"
 date:   2022-09-17
 tags: [HCIE,Security,笔记,学习,大神]
 comments: true

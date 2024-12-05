@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解VAE(变分自编码器)"
+title: "深入理解VAE变分自编码器"
 date:   2021-05-24
 tags: [VAE,编码器,变分,生成,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "年薪40W的C++八股文资源下载"
+title: "年薪40W的C八股文资源下载"
 date:   2021-10-06
 tags: [C++,知识点,编程,40W,数据结构]
 comments: true

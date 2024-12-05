@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIA 402轴控制相关培训V3.pdf 下载仓库"
+title: "CIA 402轴控制相关培训V3pdf 下载仓库"
 date:   2023-11-21
 tags: [CIA,402,V3,pdf,文件]
 comments: true

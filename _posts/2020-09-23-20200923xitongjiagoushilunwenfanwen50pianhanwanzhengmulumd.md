@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构师论文范文50篇（含完整目录）"
+title: "系统架构师论文范文50篇含完整目录"
 date:   2023-03-21
 tags: [架构师,论文范文,50,系统,架构]
 comments: true

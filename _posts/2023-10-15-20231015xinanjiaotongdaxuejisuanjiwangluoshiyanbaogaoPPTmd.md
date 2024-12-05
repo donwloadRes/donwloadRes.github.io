@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西南交通大学计算机网络实验报告+PPT"
+title: "西南交通大学计算机网络实验报告PPT"
 date:   2020-03-27
 tags: [实验,实验报告,PPT,计算机网络,学生]
 comments: true

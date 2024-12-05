@@ -1,6 +1,21 @@
 ---
 layout: post
-title: "api-ms-win-core-file-l1-2-0.dll文件丢失的完美解决方法"
+title: "apimswincorefilel120dll文件丢失的完美解决方法
+date   20230427
+tags 文件apimswincore
+comments true
+author admin
+
+ apimswincorefilel120dll文件丢失的完美解决方法
+
+ 简介
+本仓库提供了一个资源文件用于解决Windows系统中常见的apimswincorefilel120dll文件丢失问题该文件是Windows操作系统中的一个重要组件如果丢失或损坏可能会导致某些应用程序无法正常运行
+
+ 问题描述
+在使用某些软件或游戏时可能会遇到以下错误提示
+ 找不到apimswincorefilel120dll
+ 无法继续执行代码
+ 重新安装程序可能会解决此问题"
 date:   2023-04-27
 tags: [文件,api,ms,win,core]
 comments: true

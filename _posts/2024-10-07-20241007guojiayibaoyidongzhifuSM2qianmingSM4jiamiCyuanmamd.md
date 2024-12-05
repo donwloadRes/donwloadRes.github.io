@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家医保移动支付SM2签名SM4加密C#源码"
+title: "国家医保移动支付SM2签名SM4加密C源码"
 date:   2021-05-21
 tags: [源码,SM2,SM4,微信,支付]
 comments: true

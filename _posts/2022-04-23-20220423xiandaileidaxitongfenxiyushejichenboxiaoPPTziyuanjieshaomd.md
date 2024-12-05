@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代雷达系统分析与设计(陈伯孝)PPT资源介绍"
+title: "现代雷达系统分析与设计陈伯孝PPT资源介绍"
 date:   2023-05-28
 tags: [雷达,PPT,系统分析,学习,陈伯孝]
 comments: true

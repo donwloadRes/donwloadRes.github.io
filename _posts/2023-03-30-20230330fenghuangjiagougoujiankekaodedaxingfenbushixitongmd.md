@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凤凰架构：构建可靠的大型分布式系统"
+title: "凤凰架构构建可靠的大型分布式系统"
 date:   2024-09-03
 tags: [分布式系统,架构,构建,凤凰,可靠]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 64位 qpress-11.1 RPM 包下载"
+title: "CentOS 7 64位 qpress111 RPM 包下载"
 date:   2024-01-22
 tags: [qpress,64,rpm,CentOS,RPM]
 comments: true

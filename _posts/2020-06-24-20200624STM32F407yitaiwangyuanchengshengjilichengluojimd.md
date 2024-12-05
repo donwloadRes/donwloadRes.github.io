@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407以太网远程升级例程（裸机）"
+title: "STM32F407以太网远程升级例程裸机"
 date:   2022-01-22
 tags: [以太网,STM32F407,例程,远程,裸机]
 comments: true

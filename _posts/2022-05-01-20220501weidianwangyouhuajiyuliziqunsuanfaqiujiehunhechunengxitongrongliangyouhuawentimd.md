@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微电网优化：基于粒子群算法求解混合储能系统容量优化问题"
+title: "微电网优化基于粒子群算法求解混合储能系统容量优化问题"
 date:   2022-10-25
 tags: [算法,优化,Matlab,储能,粒子]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabView教程：按行读取txt文件至Excel"
+title: "LabView教程按行读取txt文件至Excel"
 date:   2023-09-19
 tags: [Excel,LabVIEW,读取,TXT,文件]
 comments: true

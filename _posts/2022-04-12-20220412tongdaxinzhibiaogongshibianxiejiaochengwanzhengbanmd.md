@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通达信指标公式编写教程[完整版]"
+title: "通达信指标公式编写教程完整版"
 date:   2023-05-30
 tags: [通达信,教程,公式,指标,编写]
 comments: true

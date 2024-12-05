@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面向对象程序设计课程设计资源文件介绍"
+title: "C面向对象程序设计课程设计资源文件介绍"
 date:   2022-03-24
 tags: [课程设计,题目,C++,文件,资源]
 comments: true

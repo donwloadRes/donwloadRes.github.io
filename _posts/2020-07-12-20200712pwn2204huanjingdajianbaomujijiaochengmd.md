@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★pwn 22.04环境搭建保姆级教程★"
+title: "pwn 2204环境搭建保姆级教程"
 date:   2024-03-26
 tags: [教程,虚拟机,22.04,安装,Ubuntu]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【干货书】因果推理导论-机器学习角度》下载仓库"
+title: "干货书因果推理导论机器学习角度下载仓库"
 date:   2024-03-31
 tags: [因果,推理,PDF,学习,仓库]
 comments: true

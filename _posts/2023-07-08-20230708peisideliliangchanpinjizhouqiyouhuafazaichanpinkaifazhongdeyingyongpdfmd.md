@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "培思的力量 - 产品及周期优化法在产品开发中的应用.pdf"
+title: "培思的力量  产品及周期优化法在产品开发中的应用pdf"
 date:   2020-09-11
 tags: [产品开发,培思,优化,产品,法在]
 comments: true

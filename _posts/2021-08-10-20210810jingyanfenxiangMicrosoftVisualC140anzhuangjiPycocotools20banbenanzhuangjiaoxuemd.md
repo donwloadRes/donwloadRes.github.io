@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【经验分享】Microsoft Visual C++ 14.0 安装及Pycocotools2.0版本安装教学"
+title: "经验分享Microsoft Visual C 140 安装及Pycocotools20版本安装教学"
 date:   2020-04-07
 tags: [安装,C++,Visual,Python,Pycocotools]
 comments: true

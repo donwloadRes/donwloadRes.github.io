@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySql.Data.dll（.NET4.0版本）免费下载仓库"
+title: "MySqlDatadllNET40版本免费下载仓库"
 date:   2022-06-14
 tags: [MySql,Data,dll,NET4.0,下载]
 comments: true

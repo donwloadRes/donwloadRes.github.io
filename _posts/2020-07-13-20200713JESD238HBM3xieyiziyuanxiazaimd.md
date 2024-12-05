@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD238-HBM3 协议资源下载"
+title: "JESD238HBM3 协议资源下载"
 date:   2021-01-23
 tags: [HBM3,JESD238,协议,文件,下载]
 comments: true

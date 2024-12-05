@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子 I.MX6U Yocto 根文件系统 V1.31 下载"
+title: "正点原子 IMX6U Yocto 根文件系统 V131 下载"
 date:   2020-08-19
 tags: [文件系统,Yocto,正点,MX6U,V1.31]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 4.7.3 版本下载资源"
+title: "Qt 473 版本下载资源"
 date:   2024-02-05
 tags: [下载,Qt,4.7,qt,安装]
 comments: true

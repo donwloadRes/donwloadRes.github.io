@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ-7Z020 AX7Z020 FPGA用户手册中文版"
+title: "ZYNQ7Z020 AX7Z020 FPGA用户手册中文版"
 date:   2022-05-26
 tags: [ZYNQ,7Z020,用户手册,开发板,硬件]
 comments: true

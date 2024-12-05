@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图片识别文字工具 - OCR技术"
+title: "图片识别文字工具  OCR技术"
 date:   2023-05-08
 tags: [OCR,识别,工具,图片,文字]
 comments: true

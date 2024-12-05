@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_60M示波器与万用表DIY项目"
+title: "STM3260M示波器与万用表DIY项目"
 date:   2020-09-29
 tags: [STM32,万用表,示波器,DIY,开源]
 comments: true

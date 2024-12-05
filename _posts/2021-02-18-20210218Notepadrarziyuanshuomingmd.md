@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad.rar 资源说明"
+title: "Notepadrar 资源说明"
 date:   2022-02-02
 tags: [Notepad,rar,资源,编译,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD 3.0 协议资源下载"
+title: "SD 30 协议资源下载"
 date:   2022-07-06
 tags: [SD,3.0,协议,PDF,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拯救者Legion R9000X 2021(82HN)原装出厂Win10系统镜像ISO下载"
+title: "拯救者Legion R9000X 202182HN原装出厂Win10系统镜像ISO下载"
 date:   2023-09-22
 tags: [ISO,Legion,R9000X,2021,82HN]
 comments: true

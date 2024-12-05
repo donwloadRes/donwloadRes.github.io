@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【AndroidStudio】经典蓝牙+BLE蓝牙搜索APP"
+title: "AndroidStudio经典蓝牙BLE蓝牙搜索APP"
 date:   2023-03-02
 tags: [蓝牙,Android,BLE,搜索,AndroidStudio]
 comments: true

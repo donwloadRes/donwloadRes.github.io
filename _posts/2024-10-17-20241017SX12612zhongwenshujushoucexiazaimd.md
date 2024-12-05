@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SX1261-2 中文数据手册下载"
+title: "SX12612 中文数据手册下载"
 date:   2022-04-22
 tags: [SX1261,芯片,手册,应用,SX1262]
 comments: true

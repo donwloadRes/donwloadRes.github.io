@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.0 参考程序集下载资源"
+title: "NET Framework 40 参考程序集下载资源"
 date:   2022-11-20
 tags: [Framework,NET,4.0,版本,解压]
 comments: true

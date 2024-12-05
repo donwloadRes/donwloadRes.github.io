@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTE_5G频点频率转换工具"
+title: "LTE5G频点频率转换工具"
 date:   2020-03-05
 tags: [频点,LTE,5G,工具,频率]
 comments: true

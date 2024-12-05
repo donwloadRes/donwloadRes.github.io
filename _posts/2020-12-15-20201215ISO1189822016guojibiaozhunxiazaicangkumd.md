@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 11898-2 2016 国际标准下载仓库"
+title: "ISO 118982 2016 国际标准下载仓库"
 date:   2023-03-18
 tags: [仓库,ISO,11898,2016,下载]
 comments: true

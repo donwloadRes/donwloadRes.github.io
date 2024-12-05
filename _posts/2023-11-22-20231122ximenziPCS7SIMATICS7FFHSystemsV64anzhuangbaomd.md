@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PCS7 SIMATIC S7 F-FH Systems V6.4 安装包"
+title: "西门子PCS7 SIMATIC S7 FFH Systems V64 安装包"
 date:   2023-09-15
 tags: [安装包,西门子,PCS7,V6.4,授权]
 comments: true

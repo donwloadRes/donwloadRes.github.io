@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cocos Creator 2.4 推箱子源码"
+title: "Cocos Creator 24 推箱子源码"
 date:   2021-04-16
 tags: [源码,Cocos,Creator,2.4,关卡]
 comments: true

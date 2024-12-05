@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AT1846SD_CN 资源文件下载"
+title: "AT1846SDCN 资源文件下载"
 date:   2022-09-28
 tags: [AT1846SD,CN,解压,文件,rar]
 comments: true

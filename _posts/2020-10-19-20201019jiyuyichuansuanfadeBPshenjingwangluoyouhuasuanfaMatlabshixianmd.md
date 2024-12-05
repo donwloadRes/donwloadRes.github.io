@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法的BP神经网络优化算法——Matlab实现"
+title: "基于遗传算法的BP神经网络优化算法Matlab实现"
 date:   2023-11-19
 tags: [Matlab,神经网络,遗传算法,BP,优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入解析ATL（第2版）PDF资源下载"
+title: "深入解析ATL第2版PDF资源下载"
 date:   2023-07-25
 tags: [ATL,开发人员,COM,控件,PDF]
 comments: true

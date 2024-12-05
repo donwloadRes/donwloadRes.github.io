@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反编译完全版EX4-MQL 4.0.509.5"
+title: "反编译完全版EX4MQL 405095"
 date:   2020-10-30
 tags: [反编译,EX4,MQL,509.5,完全版]
 comments: true

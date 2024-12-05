@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学 - 熊有伦"
+title: "机器人学  熊有伦"
 date:   2021-04-30
 tags: [机器人学,熊有伦,机器人,学习,资源]
 comments: true

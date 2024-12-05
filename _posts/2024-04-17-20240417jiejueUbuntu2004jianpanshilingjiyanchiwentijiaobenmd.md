@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Ubuntu 20.04键盘失灵及延迟问题脚本"
+title: "解决Ubuntu 2004键盘失灵及延迟问题脚本"
 date:   2023-02-10
 tags: [脚本,Ubuntu,20.04,键盘,fix]
 comments: true

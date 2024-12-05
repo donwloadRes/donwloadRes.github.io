@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鱼c小甲鱼-零基础学Python视频码源+全套课后题附详细解析"
+title: "鱼c小甲鱼零基础学Python视频码源全套课后题附详细解析"
 date:   2022-07-24
 tags: [Python,学习,课后,课件,视频]
 comments: true

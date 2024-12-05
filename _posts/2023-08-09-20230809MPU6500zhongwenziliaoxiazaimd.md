@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU-6500 中文资料下载"
+title: "MPU6500 中文资料下载"
 date:   2021-04-16
 tags: [MPU,6500,资料,传感器,中文]
 comments: true

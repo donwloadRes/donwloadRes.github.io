@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3CIE 2023 年最新版本LAB-A版本分解-末班车（年底变题）"
+title: "H3CIE 2023 年最新版本LABA版本分解末班车年底变题"
 date:   2021-06-05
 tags: [LAB,考试,H3CIE,实验,分解]
 comments: true

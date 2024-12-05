@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自制Modbus解析DEMO_Delphi7"
+title: "自制Modbus解析DEMODelphi7"
 date:   2021-05-16
 tags: [Modbus,控件,Delphi7,DEMO,代码]
 comments: true

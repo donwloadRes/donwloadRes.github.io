@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械振动（全美经典）资源下载"
+title: "机械振动全美经典资源下载"
 date:   2024-10-04
 tags: [振动,机械振动,经典,全美,介绍]
 comments: true

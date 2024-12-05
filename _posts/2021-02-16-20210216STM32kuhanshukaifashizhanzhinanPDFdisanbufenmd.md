@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32库函数开发实战指南PDF（第三部分）"
+title: "STM32库函数开发实战指南PDF第三部分"
 date:   2023-10-13
 tags: [STM32,库函数,PDF,指南,开发]
 comments: true

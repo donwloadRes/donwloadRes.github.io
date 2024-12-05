@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天若OCR文字识别V4.48（翻译功能免费）"
+title: "天若OCR文字识别V448翻译功能免费"
 date:   2021-12-14
 tags: [识别,天若,翻译,OCR,文字]
 comments: true

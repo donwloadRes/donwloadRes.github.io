@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Surfer11 中文教程(无水印版) 下载仓库"
+title: "Surfer11 中文教程无水印版 下载仓库"
 date:   2021-06-21
 tags: [Surfer11,教程,印版,建模,中文]
 comments: true

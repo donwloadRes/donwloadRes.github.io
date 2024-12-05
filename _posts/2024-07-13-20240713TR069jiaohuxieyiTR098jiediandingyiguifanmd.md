@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TR069交互协议-TR098节点定义规范"
+title: "TR069交互协议TR098节点定义规范"
 date:   2022-11-08
 tags: [TR098,规范,节点,设备,定义]
 comments: true

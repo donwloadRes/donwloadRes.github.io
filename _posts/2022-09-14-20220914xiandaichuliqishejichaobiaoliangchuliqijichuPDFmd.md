@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代处理器设计 - 超标量处理器基础 PDF"
+title: "现代处理器设计  超标量处理器基础 PDF"
 date:   2023-06-13
 tags: [处理器,超标,PDF,设计,指令]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1-8阶贝塞尔曲线拟合Matlab资源及评价标准"
+title: "18阶贝塞尔曲线拟合Matlab资源及评价标准"
 date:   2020-11-30
 tags: [Matlab,拟合,代码,贝塞尔,曲线拟合]
 comments: true

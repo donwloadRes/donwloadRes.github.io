@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程监控西门子S7-1200PLC的实施方案"
+title: "远程监控西门子S71200PLC的实施方案"
 date:   2024-06-03
 tags: [监控,远程,微信,展示,推送]
 comments: true

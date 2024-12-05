@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用LSTM+CNN+glove词向量预训练模型进行微博评论情感分析（二分类）"
+title: "利用LSTMCNNglove词向量预训练模型进行微博评论情感分析二分类"
 date:   2020-06-16
 tags: [模型,训练,微博,向量,情感]
 comments: true

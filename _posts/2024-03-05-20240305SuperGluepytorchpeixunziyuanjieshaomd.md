@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SuperGlue-pytorch培训资源介绍"
+title: "SuperGluepytorch培训资源介绍"
 date:   2024-02-20
 tags: [--,训练,SuperGlue,资源,pytorch]
 comments: true

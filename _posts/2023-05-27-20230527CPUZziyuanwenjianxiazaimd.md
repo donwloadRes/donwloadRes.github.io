@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPU-Z 资源文件下载"
+title: "CPUZ 资源文件下载"
 date:   2024-08-12
 tags: [CPU,下载,文件,资源,仓库]
 comments: true

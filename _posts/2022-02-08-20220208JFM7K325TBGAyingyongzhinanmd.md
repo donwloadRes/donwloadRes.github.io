@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JFM7K325T-BGA应用指南"
+title: "JFM7K325TBGA应用指南"
 date:   2020-10-17
 tags: [芯片,JFM7K325T,开发者,BGA,指南]
 comments: true

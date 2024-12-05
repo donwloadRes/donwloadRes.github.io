@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通Qt 5（第二版）PDF资源下载"
+title: "精通Qt 5第二版PDF资源下载"
 date:   2023-11-01
 tags: [Qt,PDF,源代码,Mastering,开发]
 comments: true

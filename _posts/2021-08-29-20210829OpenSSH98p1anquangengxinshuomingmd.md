@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.8p1 安全更新说明"
+title: "OpenSSH 98p1 安全更新说明"
 date:   2020-05-22
 tags: [p1,OpenSSH,9.8,rpm,升级]
 comments: true

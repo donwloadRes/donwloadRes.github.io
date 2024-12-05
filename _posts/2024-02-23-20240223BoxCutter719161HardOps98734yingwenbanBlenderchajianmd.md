@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BoxCutter 719.161 & Hard Ops 987.34 英文版 Blender 插件"
+title: "BoxCutter 719161  Hard Ops 98734 英文版 Blender 插件"
 date:   2023-06-04
 tags: [Blender,插件,建模,BoxCutter,Hard]
 comments: true

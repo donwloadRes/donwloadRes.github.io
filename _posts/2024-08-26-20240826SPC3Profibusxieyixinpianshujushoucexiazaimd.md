@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPC3-Profibus协议芯片数据手册下载"
+title: "SPC3Profibus协议芯片数据手册下载"
 date:   2023-12-03
 tags: [SPC3,手册,Profibus,芯片,仓库]
 comments: true

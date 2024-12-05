@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview调用Windows下user32.dll实现模拟界面操作"
+title: "Labview调用Windows下user32dll实现模拟界面操作"
 date:   2022-10-15
 tags: [句柄,串口,实例,Labview,user32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SKN青龙3.0驱动文件下载"
+title: "SKN青龙30驱动文件下载"
 date:   2022-01-15
 tags: [3.0,SKN,驱动,青龙,文件]
 comments: true

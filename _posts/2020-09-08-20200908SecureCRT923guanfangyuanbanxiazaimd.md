@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 9.2.3 官方原版下载"
+title: "SecureCRT 923 官方原版下载"
 date:   2021-11-26
 tags: [SecureCRT,原版,安装,官方,9.2]
 comments: true

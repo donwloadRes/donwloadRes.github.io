@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB App Designer 小白学习指南（一）"
+title: "MATLAB App Designer 小白学习指南一"
 date:   2020-08-06
 tags: [MATLAB,App,Designer,小白,应用程序]
 comments: true

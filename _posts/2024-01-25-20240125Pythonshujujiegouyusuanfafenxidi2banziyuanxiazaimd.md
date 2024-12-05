@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据结构与算法分析（第2版）资源下载"
+title: "Python数据结构与算法分析第2版资源下载"
 date:   2023-04-29
 tags: [资源,示例,Python,下载,数据结构]
 comments: true

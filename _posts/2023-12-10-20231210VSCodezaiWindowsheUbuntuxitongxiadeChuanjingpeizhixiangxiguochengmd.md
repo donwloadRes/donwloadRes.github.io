@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode在Windows和Ubuntu系统下的C++环境配置详细过程"
+title: "VSCode在Windows和Ubuntu系统下的C环境配置详细过程"
 date:   2024-09-19
 tags: [C++,VSCode,配置,json,文件夹]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32通过一线串口通信控制JQ8900-16P语音模块"
+title: "STM32通过一线串口通信控制JQ890016P语音模块"
 date:   2021-01-11
 tags: [模块,语音,STM32,JQ8900,16P]
 comments: true

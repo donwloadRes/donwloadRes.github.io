@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新版RHCSA9+RHCE9超详细PPT资源下载"
+title: "新版RHCSA9RHCE9超详细PPT资源下载"
 date:   2020-11-27
 tags: [运维,RHCSA9,RHCE9,Shell,编程]
 comments: true

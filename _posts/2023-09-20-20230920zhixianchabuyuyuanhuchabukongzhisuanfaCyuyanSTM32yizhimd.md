@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直线插补与圆弧插补控制算法（C语言 & STM32移植）"
+title: "直线插补与圆弧插补控制算法C语言  STM32移植"
 date:   2020-10-05
 tags: [插补,STM32,步进,C语言,电机]
 comments: true

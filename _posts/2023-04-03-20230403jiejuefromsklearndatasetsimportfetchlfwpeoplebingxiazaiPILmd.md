@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决from sklearn.datasets import fetch_lfw_people,并下载PIL"
+title: "解决from sklearndatasets import fetchlfwpeople并下载PIL"
 date:   2020-01-09
 tags: [lfw,people,PIL,Pillow,下载]
 comments: true

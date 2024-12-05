@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python入门必背：基础知识点合集与背记手册"
+title: "Python入门必背基础知识点合集与背记手册"
 date:   2022-01-27
 tags: [Python,编程,讲解,知识点,介绍]
 comments: true

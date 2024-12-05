@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS(Code Composer Studio)软件中文教程"
+title: "CCSCode Composer Studio软件中文教程"
 date:   2020-10-10
 tags: [CCS,教程,软件,中文,Code]
 comments: true

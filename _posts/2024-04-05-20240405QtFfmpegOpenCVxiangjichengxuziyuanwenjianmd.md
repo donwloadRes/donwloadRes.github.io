@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+Ffmpeg+OpenCV相机程序资源文件"
+title: "QtFfmpegOpenCV相机程序资源文件"
 date:   2021-07-20
 tags: [Qt,文件,相机,Ffmpeg,OpenCV]
 comments: true

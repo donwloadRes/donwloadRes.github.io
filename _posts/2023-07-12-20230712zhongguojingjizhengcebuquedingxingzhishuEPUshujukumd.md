@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国经济政策不确定性指数(EPU) 数据库"
+title: "中国经济政策不确定性指数EPU 数据库"
 date:   2020-08-21
 tags: [不确定性,数据,政策,https,经济]
 comments: true

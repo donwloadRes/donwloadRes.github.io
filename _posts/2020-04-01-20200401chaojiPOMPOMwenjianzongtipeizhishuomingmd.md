@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级POM_POM文件总体配置说明"
+title: "超级POMPOM文件总体配置说明"
 date:   2021-01-21
 tags: [POM,配置,文件,xml,文档]
 comments: true

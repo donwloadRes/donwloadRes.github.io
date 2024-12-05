@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3DS MAX 2022.3 安装教程及资源"
+title: "3DS MAX 20223 安装教程及资源"
 date:   2021-11-16
 tags: [3DS,MAX,2022.3,安装,视频教程]
 comments: true

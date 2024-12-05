@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持向量机通俗导论（理解SVM的三层境界）"
+title: "支持向量机通俗导论理解SVM的三层境界"
 date:   2022-02-20
 tags: [SVM,文件,理解,向量,资源]
 comments: true

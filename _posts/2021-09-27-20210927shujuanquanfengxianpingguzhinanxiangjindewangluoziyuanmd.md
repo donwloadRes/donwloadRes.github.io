@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据安全风险评估指南：详尽的网络资源"
+title: "数据安全风险评估指南详尽的网络资源"
 date:   2023-01-14
 tags: [数据安全,评估,指南,风险,识别]
 comments: true

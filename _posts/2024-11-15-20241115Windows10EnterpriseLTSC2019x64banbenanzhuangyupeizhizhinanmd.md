@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 Enterprise LTSC 2019 (x64) 版本 安装与配置指南"
+title: "Windows 10 Enterprise LTSC 2019 x64 版本 安装与配置指南"
 date:   2020-03-18
 tags: [安装,10,LTSC,激活,Windows]
 comments: true

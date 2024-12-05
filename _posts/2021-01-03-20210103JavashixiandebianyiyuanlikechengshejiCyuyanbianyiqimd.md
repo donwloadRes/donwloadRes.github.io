@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实现的编译原理课程设计 - C语言编译器"
+title: "Java实现的编译原理课程设计  C语言编译器"
 date:   2023-11-25
 tags: [C语言,编译,编译器,Java,界面]
 comments: true

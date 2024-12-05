@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字化转型白皮书.pdf"
+title: "数字化转型白皮书pdf"
 date:   2021-02-14
 tags: [数字化,转型,白皮书,pdf,趋势]
 comments: true

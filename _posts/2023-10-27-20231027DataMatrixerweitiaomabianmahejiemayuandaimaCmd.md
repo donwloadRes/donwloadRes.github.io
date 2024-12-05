@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DataMatrix二维条码编码和解码源代码（C#）"
+title: "DataMatrix二维条码编码和解码源代码C"
 date:   2020-05-19
 tags: [DataMatrix,解码,源代码,条码,C#]
 comments: true

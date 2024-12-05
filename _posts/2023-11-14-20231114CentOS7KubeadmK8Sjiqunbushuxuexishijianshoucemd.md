@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7+Kubeadm+K8S集群部署学习实践手册"
+title: "CentOS7KubeadmK8S集群部署学习实践手册"
 date:   2023-10-02
 tags: [集群,K8S,部署,Kubeadm,手册]
 comments: true

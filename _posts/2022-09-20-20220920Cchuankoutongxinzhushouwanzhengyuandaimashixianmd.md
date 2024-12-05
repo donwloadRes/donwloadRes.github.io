@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通信助手 - 完整源代码实现"
+title: "C 串口通信助手  完整源代码实现"
 date:   2023-08-27
 tags: [串口,源代码,C#,Visual,Studio]
 comments: true

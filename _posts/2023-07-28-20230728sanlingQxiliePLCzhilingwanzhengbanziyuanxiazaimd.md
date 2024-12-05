@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱Q系列PLC指令（完整版）资源下载"
+title: "三菱Q系列PLC指令完整版资源下载"
 date:   2022-09-06
 tags: [PLC,指令,编程,三菱,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康H5Player 2.1.3 监控播放插件"
+title: "海康H5Player 213 监控播放插件"
 date:   2020-06-18
 tags: [插件,播放,海康,监控,---]
 comments: true

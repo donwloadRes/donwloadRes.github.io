@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.9 SSH 9.7p1 和 SSL 1.1.1w RPM 升级加固脚本"
+title: "CentOS 79 SSH 97p1 和 SSL 111w RPM 升级加固脚本"
 date:   2020-09-06
 tags: [OpenSSH,OpenSSL,升级,p1,1.1]
 comments: true

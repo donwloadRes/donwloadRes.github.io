@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM MicroPython 视频网络服务器资源文件介绍"
+title: "ESP32CAM MicroPython 视频网络服务器资源文件介绍"
 date:   2023-06-06
 tags: [ESP32,CAM,MicroPython,代码,视频流]
 comments: true

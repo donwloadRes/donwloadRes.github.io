@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的停车场信息管理系统设计与实现【附源码】"
+title: "基于Python的停车场信息管理系统设计与实现附源码"
 date:   2021-05-28
 tags: [车位,停车场,管理,用户,Python]
 comments: true

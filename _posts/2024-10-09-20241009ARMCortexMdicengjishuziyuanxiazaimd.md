@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM-Cortex-M底层技术资源下载"
+title: "ARMCortexM底层技术资源下载"
 date:   2020-11-07
 tags: [ARM,Cortex,处理器,技术,资源]
 comments: true

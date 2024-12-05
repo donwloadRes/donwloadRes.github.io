@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记一次tp5.0.24 getshell1 资源文件下载"
+title: "记一次tp5024 getshell1 资源文件下载"
 date:   2024-01-20
 tags: [文件,漏洞,24,ThinkPHP,5.0]
 comments: true

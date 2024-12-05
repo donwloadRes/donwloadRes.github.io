@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D-2D游戏开发从0到1"
+title: "Unity3D2D游戏开发从0到1"
 date:   2024-07-05
 tags: [Unity,游戏,开发,3D,Unity3D]
 comments: true

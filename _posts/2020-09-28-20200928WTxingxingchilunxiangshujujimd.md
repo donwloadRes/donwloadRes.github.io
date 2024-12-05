@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WT-行星齿轮箱数据集"
+title: "WT行星齿轮箱数据集"
 date:   2021-12-16
 tags: [齿轮箱,数据,齿轮,行星,WT]
 comments: true

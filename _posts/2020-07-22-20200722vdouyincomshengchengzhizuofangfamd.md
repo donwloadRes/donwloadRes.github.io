@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "v.douyin.com生成制作方法"
+title: "vdouyincom生成制作方法"
 date:   2022-05-15
 tags: [douyin,com,生成,PHP,JavaScript]
 comments: true

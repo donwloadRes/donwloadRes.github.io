@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MikuMikuEffect v0.37 资源文件下载"
+title: "MikuMikuEffect v037 资源文件下载"
 date:   2023-09-04
 tags: [MMD,下载,v0.37,MME,文件]
 comments: true

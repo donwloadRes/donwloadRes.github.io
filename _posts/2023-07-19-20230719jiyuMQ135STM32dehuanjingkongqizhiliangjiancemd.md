@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MQ135+STM32的环境空气质量检测"
+title: "基于MQ135STM32的环境空气质量检测"
 date:   2024-01-30
 tags: [传感器,MQ135,STM32F103C8T6,检测,空气质量]
 comments: true

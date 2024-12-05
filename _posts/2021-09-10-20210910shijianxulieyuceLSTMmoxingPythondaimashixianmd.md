@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列预测：LSTM模型Python代码实现"
+title: "时间序列预测LSTM模型Python代码实现"
 date:   2021-03-17
 tags: [LSTM,序列,模型,代码,预测]
 comments: true

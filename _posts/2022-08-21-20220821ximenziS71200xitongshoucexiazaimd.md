@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200系统手册下载"
+title: "西门子S71200系统手册下载"
 date:   2021-04-24
 tags: [S7,1200,PLC,西门子,手册]
 comments: true

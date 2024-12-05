@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZCANPRO 2.26 驱动安装包"
+title: "ZCANPRO 226 驱动安装包"
 date:   2024-06-06
 tags: [安装包,2.26,安装,ZCANPRO,ZCANPRO.7]
 comments: true

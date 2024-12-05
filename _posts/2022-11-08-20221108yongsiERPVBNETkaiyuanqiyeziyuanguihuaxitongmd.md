@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永思ERP - VB.NET开源企业资源规划系统"
+title: "永思ERP  VBNET开源企业资源规划系统"
 date:   2023-09-29
 tags: [永思,ERP,开源,VB,NET]
 comments: true

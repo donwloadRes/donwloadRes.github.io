@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux-Ubuntu 7z文件解压库离线安装指南"
+title: "LinuxUbuntu 7z文件解压库离线安装指南"
 date:   2023-11-21
 tags: [解压,7z,文件,安装,离线]
 comments: true

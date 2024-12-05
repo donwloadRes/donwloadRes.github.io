@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密SM2算法加密解密VB6-VB2005 COM类接口资源库"
+title: "国密SM2算法加密解密VB6VB2005 COM类接口资源库"
 date:   2021-04-03
 tags: [接口,COM,SM2,资源库,国密]
 comments: true

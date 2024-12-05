@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视-MAC iVMS-4200客户端（最新版）"
+title: "海康威视MAC iVMS4200客户端最新版"
 date:   2022-04-04
 tags: [4200,监控,iVMS,客户端,威视]
 comments: true

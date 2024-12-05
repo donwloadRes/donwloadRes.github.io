@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-脉搏心率测量电路Multisim仿真设计"
+title: "数电课设脉搏心率测量电路Multisim仿真设计"
 date:   2021-03-09
 tags: [Multisim,电路设计,仿真,课程设计,文档]
 comments: true

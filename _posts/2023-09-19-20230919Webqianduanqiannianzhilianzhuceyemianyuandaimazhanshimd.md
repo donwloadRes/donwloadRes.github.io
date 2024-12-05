@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Web前端】千年之恋注册页面——源代码展示"
+title: "Web前端千年之恋注册页面源代码展示"
 date:   2024-04-11
 tags: [页面,HTML,源代码,CSS,Web]
 comments: true

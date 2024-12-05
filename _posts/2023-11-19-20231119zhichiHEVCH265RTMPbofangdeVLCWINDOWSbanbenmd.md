@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持HEVC-H265 RTMP播放的VLC WINDOWS版本"
+title: "支持HEVCH265 RTMP播放的VLC WINDOWS版本"
 date:   2022-08-06
 tags: [RTMP,HEVC,H265,播放器,VLC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE2.0 3.0协议与Xlinx DMA-Bridge系统配置手册"
+title: "PCIE20 30协议与Xlinx DMABridge系统配置手册"
 date:   2024-01-25
 tags: [FPGA,Xlinx,协议,文档,PCIE2.0]
 comments: true

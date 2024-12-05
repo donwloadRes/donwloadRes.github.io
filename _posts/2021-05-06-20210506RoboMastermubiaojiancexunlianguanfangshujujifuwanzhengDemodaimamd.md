@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RoboMaster 目标检测训练（官方数据集）附完整Demo代码"
+title: "RoboMaster 目标检测训练官方数据集附完整Demo代码"
 date:   2021-04-24
 tags: [训练,RoboMaster,代码,检测,数据]
 comments: true

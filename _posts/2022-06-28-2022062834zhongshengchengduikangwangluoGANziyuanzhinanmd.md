@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "34 种生成对抗网络 (GAN) 资源指南"
+title: "34 种生成对抗网络 GAN 资源指南"
 date:   2023-12-13
 tags: [GAN,34,代码,网络,应用]
 comments: true

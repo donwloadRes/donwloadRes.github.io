@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Echarts中国地图china.js文件下载"
+title: "Echarts中国地图chinajs文件下载"
 date:   2021-12-28
 tags: [china,Echarts,js,script,地图]
 comments: true

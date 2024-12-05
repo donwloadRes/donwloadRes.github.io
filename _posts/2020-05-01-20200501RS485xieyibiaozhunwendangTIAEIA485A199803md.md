@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS485协议标准文档 TIA-EIA-485-A-1998-03"
+title: "RS485协议标准文档 TIAEIA485A199803"
 date:   2023-01-12
 tags: [RS485,1998,485,03,通信]
 comments: true

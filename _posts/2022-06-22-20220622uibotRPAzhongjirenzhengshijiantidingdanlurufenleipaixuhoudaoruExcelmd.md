@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uibot RPA中级认证实践题：订单录入-分类排序后导入Excel"
+title: "uibot RPA中级认证实践题订单录入分类排序后导入Excel"
 date:   2021-12-24
 tags: [uibot,RPA,Excel,排序,订单]
 comments: true

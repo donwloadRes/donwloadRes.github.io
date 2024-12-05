@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIGC开放社区：AIGC产业图谱 V2.0 资源下载"
+title: "AIGC开放社区AIGC产业图谱 V20 资源下载"
 date:   2021-09-09
 tags: [AIGC,开放,技术,社区,应用]
 comments: true

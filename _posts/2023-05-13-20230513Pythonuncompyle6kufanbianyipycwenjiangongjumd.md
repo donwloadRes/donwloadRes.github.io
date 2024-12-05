@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python uncompyle6库：反编译pyc文件工具"
+title: "Python uncompyle6库反编译pyc文件工具"
 date:   2022-03-11
 tags: [反编译,pyc,文件,uncompile,py]
 comments: true

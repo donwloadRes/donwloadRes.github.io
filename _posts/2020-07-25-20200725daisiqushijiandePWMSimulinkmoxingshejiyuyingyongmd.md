@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带死区时间的PWM：Simulink模型设计与应用"
+title: "带死区时间的PWMSimulink模型设计与应用"
 date:   2020-05-25
 tags: [PWM,模型,---,Simulink,生成]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git版本管理使用规范-团队开发规范文档"
+title: "Git版本管理使用规范团队开发规范文档"
 date:   2020-05-30
 tags: [master,分支,开发,主干,规范]
 comments: true

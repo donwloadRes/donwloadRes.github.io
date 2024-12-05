@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "世界500强Excel经典图表模板（完整版）"
+title: "世界500强Excel经典图表模板完整版"
 date:   2021-01-27
 tags: [模板,Excel,图表,数据,完整版]
 comments: true

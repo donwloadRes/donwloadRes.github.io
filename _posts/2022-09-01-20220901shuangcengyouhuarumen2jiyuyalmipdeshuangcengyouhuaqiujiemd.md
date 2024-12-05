@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双层优化入门(2)-基于yalmip的双层优化求解"
+title: "双层优化入门2基于yalmip的双层优化求解"
 date:   2022-10-07
 tags: [yalmip,KKT,函数,工具箱,优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANopen轻松入门（周立功）资源下载"
+title: "CANopen轻松入门周立功资源下载"
 date:   2022-06-06
 tags: [CANopen,立功,入门,pdf,轻松]
 comments: true

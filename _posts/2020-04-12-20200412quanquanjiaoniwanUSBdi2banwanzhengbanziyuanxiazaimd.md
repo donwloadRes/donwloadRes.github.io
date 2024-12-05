@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB（第2版）完整版资源下载"
+title: "圈圈教你玩USB第2版完整版资源下载"
 date:   2023-05-11
 tags: [完整版,USB,圈圈,下载,书签]
 comments: true

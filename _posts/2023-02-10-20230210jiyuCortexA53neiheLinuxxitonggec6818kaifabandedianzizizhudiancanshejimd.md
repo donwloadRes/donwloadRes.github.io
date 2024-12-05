@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Cortex-A53内核Linux系统gec6818开发板的电子自助点餐设计"
+title: "基于CortexA53内核Linux系统gec6818开发板的电子自助点餐设计"
 date:   2024-03-14
 tags: [文件,开发板,菜品,编译,点餐]
 comments: true

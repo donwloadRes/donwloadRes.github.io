@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux离线部署.NET Core环境（以CentOS 7为例）"
+title: "Linux离线部署NET Core环境以CentOS 7为例"
 date:   2020-12-31
 tags: [NET,Core,安装,离线,文件]
 comments: true

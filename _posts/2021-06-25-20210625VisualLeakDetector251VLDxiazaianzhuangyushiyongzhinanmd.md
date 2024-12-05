@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Leak Detector 2.5.1 (VLD) 下载、安装与使用指南"
+title: "Visual Leak Detector 251 VLD 下载安装与使用指南"
 date:   2023-01-14
 tags: [Visual,VLD,内存,泄漏,Leak]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习案例：银行营销策略分析"
+title: "机器学习案例银行营销策略分析"
 date:   2023-05-29
 tags: [数据,模型,营销,案例,分析]
 comments: true

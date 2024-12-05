@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙开发笔记—— Nordic篇：1. 开发环境搭建(软件安装和配置)"
+title: "蓝牙开发笔记 Nordic篇1 开发环境搭建软件安装和配置"
 date:   2021-05-27
 tags: [搭建,开发,安装,Nordic,笔记]
 comments: true

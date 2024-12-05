@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计&课设-使用Matlab代码实现LBM流体模拟以模拟多孔介质中的流动"
+title: "毕业设计课设使用Matlab代码实现LBM流体模拟以模拟多孔介质中的流动"
 date:   2022-03-01
 tags: [Matlab,代码,模拟,LBM,博主]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理（第四版）资源下载"
+title: "数字图像处理第四版资源下载"
 date:   2022-05-02
 tags: [数字图像处理,第四版,本书,Pearson,下载]
 comments: true

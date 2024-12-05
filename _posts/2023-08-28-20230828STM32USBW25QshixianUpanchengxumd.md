@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+USB+W25Q实现U盘程序"
+title: "STM32USBW25Q实现U盘程序"
 date:   2023-08-25
 tags: [U盘,USB,W25Q,STM32F103,容量]
 comments: true

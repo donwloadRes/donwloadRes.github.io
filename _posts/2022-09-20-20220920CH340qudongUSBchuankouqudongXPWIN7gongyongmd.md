@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CH340驱动(USB串口驱动)_XP_WIN7共用"
+title: "CH340驱动USB串口驱动XPWIN7共用"
 date:   2023-04-26
 tags: [驱动,串口,CH340,USB,安装]
 comments: true

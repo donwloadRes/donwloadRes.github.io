@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "C++ 串口类 SerialPort 源码"
+title: "C 串口类 SerialPort 源码
+date   20210505
+tags 串口SerialPortserialstdC
+comments true
+author admin
+
+ C 串口类 SerialPort 源码
+
+ 简介
+
+本仓库提供了一个用于C串口通信的类 SerialPort 的源代码该类是对 CSerialPort 类进行封装旨在简化串口通信的实现过程方便开发者在项目中快速集成串口通信功能
+
+ 功能特点
+
+ 封装简洁对底层串口通信进行了封装开发者无需关心底层细节只需调用简单的接口即可实现串口通信
+ 易于集成源代码结构清晰易于集成到现有的C项目中
+ 跨平台支持代码设计考虑了跨平台特性支持在Windows和Linux系统上运行
+
+ 使用方法
+
+1 下载源码将本仓库中的源代码文件下载到您的项目目录中
+2 包含头文件在您的C项目中包含 SerialPorth 头文件
+3 实例化对象创建 SerialPort 类的实例并根据需要配置串口参数如波特率数据位停止位等
+4 调用接口使用 SerialPort 类提供的接口进行串口数据的读写操作
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用 SerialPort 类进行串口通信
+
+cpp
+include SerialPorth"
 date:   2021-05-05
 tags: [串口,SerialPort,serial,std,C++]
 comments: true

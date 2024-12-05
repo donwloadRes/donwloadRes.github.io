@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb图书项目2.0：Vue axios Servlet Lombok JDBC MySQL"
+title: "JavaWeb图书项目20Vue axios Servlet Lombok JDBC MySQL"
 date:   2020-10-08
 tags: [图书,信息,数据库,用户,项目]
 comments: true

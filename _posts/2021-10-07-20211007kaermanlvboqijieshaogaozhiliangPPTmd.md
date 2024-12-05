@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡尔曼滤波器介绍（高质量PPT）"
+title: "卡尔曼滤波器介绍高质量PPT"
 date:   2020-04-13
 tags: [卡尔曼滤波,PPT,介绍,高质量,仓库]
 comments: true

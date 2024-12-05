@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UOS统信系统MySQL 5.7数据库安装资源"
+title: "UOS统信系统MySQL 57数据库安装资源"
 date:   2021-06-15
 tags: [安装,5.7,MySQL,教程,UOS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二维码驱动（C语言）"
+title: "二维码驱动C语言"
 date:   2024-01-24
 tags: [C语言,二维码,驱动,博客,http]
 comments: true

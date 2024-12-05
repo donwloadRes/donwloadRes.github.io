@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++必知必会资源下载"
+title: "C必知必会资源下载"
 date:   2021-06-27
 tags: [C++,必知,必会,pdf,PDF]
 comments: true

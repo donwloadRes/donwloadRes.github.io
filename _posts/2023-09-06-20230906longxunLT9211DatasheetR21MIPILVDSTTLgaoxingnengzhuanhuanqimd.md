@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "龙讯LT9211 Datasheet R2.1  MIPI LVDS TTL高性能转换器"
+title: "龙讯LT9211 Datasheet R21  MIPI LVDS TTL高性能转换器"
 date:   2023-02-23
 tags: [MIPI,LVDS,TTL,LT9211,龙讯]
 comments: true

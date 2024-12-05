@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统模板 - 清新简约HTML全套模板"
+title: "学生信息管理系统模板  清新简约HTML全套模板"
 date:   2020-10-07
 tags: [模板,HTML,信息管理系统,CSS,班级]
 comments: true

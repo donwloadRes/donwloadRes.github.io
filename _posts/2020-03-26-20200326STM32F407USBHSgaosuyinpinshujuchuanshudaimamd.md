@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407+USB_HS 高速音频数据传输代码"
+title: "STM32F407USBHS 高速音频数据传输代码"
 date:   2024-07-14
 tags: [数据传输,USB,音频,STM32F407,代码]
 comments: true

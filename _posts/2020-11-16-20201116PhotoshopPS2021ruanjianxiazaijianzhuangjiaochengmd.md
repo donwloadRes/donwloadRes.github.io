@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop (PS)2021软件下载及安装教程"
+title: "Photoshop PS2021软件下载及安装教程"
 date:   2024-11-14
 tags: [Photoshop,2021,安装,教程,下载]
 comments: true

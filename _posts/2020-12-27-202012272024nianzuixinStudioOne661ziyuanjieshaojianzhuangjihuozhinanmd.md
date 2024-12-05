@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最新Studio One 6.6.1资源介绍及安装激活指南"
+title: "2024年最新Studio One 661资源介绍及安装激活指南"
 date:   2024-06-09
 tags: [Studio,激活,6.6,点击,注册机]
 comments: true

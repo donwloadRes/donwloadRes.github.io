@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MINI_ADC多通道采集资源文件介绍"
+title: "MINIADC多通道采集资源文件介绍"
 date:   2023-01-05
 tags: [ADC,采集,多通道,文件,MINI]
 comments: true

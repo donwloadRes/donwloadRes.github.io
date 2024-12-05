@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件设计师历年真题（2016-2021）"
+title: "软件设计师历年真题20162021"
 date:   2023-09-11
 tags: [真题,考试,解析,2021,题目]
 comments: true

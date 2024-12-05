@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIL-STD-810H 环境试验标准"
+title: "MILSTD810H 环境试验标准"
 date:   2021-12-20
 tags: [MIL,STD,810H,标准,环境]
 comments: true

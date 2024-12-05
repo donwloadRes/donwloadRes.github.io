@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aris 流程管理工具介绍完整版（500多页）"
+title: "Aris 流程管理工具介绍完整版500多页"
 date:   2024-10-30
 tags: [Aris,流程,管理工具,完整版,500]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wgrib2：grib2文件解析工具"
+title: "wgrib2grib2文件解析工具"
 date:   2024-03-20
 tags: [wgrib2,grib2,文件,工具,解析]
 comments: true

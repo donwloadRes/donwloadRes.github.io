@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列分析及应用：R语言（原书第2版）PDF资源介绍"
+title: "时间序列分析及应用R语言原书第2版PDF资源介绍"
 date:   2020-02-01
 tags: [序列,模型,分析,时间,原书]
 comments: true

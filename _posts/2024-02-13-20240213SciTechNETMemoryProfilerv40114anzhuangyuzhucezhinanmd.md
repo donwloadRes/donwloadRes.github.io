@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SciTech.NET.Memory.Profiler.v4.0.114 安装与注册指南"
+title: "SciTechNETMemoryProfilerv40114 安装与注册指南"
 date:   2023-03-21
 tags: [软件,SciTech,NET,Memory,Profiler]
 comments: true

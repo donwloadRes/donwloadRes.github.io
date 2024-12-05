@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.1.0 下载、安装与启动配置指南"
+title: "Nacos 210 下载安装与启动配置指南"
 date:   2023-09-23
 tags: [Nacos,2.1,启动,下载,解压]
 comments: true

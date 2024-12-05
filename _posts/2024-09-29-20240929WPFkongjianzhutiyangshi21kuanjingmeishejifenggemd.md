@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF控件主题样式 - 21款精美设计风格"
+title: "WPF控件主题样式  21款精美设计风格"
 date:   2023-10-02
 tags: [WPF,控件,样式,主题,21]
 comments: true

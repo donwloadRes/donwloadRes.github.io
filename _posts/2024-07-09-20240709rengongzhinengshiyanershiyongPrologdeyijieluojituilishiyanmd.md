@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能实验二：使用Prolog的一阶逻辑推理实验"
+title: "人工智能实验二使用Prolog的一阶逻辑推理实验"
 date:   2021-05-25
 tags: [Prolog,实验,一阶,逻辑推理,实验报告]
 comments: true

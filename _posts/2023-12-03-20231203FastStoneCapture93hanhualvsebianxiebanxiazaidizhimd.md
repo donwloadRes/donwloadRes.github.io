@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastStone Capture 9.3 汉化绿色便携版下载地址"
+title: "FastStone Capture 93 汉化绿色便携版下载地址"
 date:   2023-09-29
 tags: [屏幕,解压,便携,汉化,下载]
 comments: true

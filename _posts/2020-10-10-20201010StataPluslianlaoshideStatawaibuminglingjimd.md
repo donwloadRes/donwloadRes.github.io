@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StataPlus：连老师的Stata外部命令集"
+title: "StataPlus连老师的Stata外部命令集"
 date:   2021-06-14
 tags: [外部命令,Stata,StataPlus,plus,plus2]
 comments: true

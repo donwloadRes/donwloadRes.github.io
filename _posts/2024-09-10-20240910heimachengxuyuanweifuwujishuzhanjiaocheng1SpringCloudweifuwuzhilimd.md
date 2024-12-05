@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员微服务技术栈教程 - 1. SpringCloud 微服务治理"
+title: "黑马程序员微服务技术栈教程  1 SpringCloud 微服务治理"
 date:   2021-03-29
 tags: [服务,教程,SpringCloud,架构,治理]
 comments: true

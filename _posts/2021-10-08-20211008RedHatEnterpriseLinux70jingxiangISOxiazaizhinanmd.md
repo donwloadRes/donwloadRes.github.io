@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Enterprise Linux 7.0 镜像 ISO 下载指南"
+title: "Red Hat Enterprise Linux 70 镜像 ISO 下载指南"
 date:   2024-06-22
 tags: [下载,ISO,Red,Hat,Enterprise]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All Of Statistics - 统计学全面指南 中英文高清版"
+title: "All Of Statistics  统计学全面指南 中英文高清版"
 date:   2024-03-25
 tags: [统计学,推断,统计,中英文,高清]
 comments: true

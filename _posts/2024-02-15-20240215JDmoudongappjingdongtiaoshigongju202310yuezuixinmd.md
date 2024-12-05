@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JD某东app京东调试工具2023-10月最新"
+title: "JD某东app京东调试工具202310月最新"
 date:   2023-01-31
 tags: [京东,调试,功能,修复,2023]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联 PS3111 开卡工具 SSD MP Tool v2.2.70"
+title: "群联 PS3111 开卡工具 SSD MP Tool v2270"
 date:   2021-07-24
 tags: [SSD,群联,PS3111,开卡,70]
 comments: true

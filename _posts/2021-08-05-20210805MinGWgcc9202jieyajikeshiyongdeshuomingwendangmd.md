@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW (gcc9.2.0-2) 解压即可使用的说明文档"
+title: "MinGW gcc9202 解压即可使用的说明文档"
 date:   2021-12-26
 tags: [MinGW,解压,C++,环境变量,下载]
 comments: true

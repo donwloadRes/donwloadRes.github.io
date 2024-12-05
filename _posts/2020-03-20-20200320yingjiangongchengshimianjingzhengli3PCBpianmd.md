@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件工程师面经整理3-PCB篇"
+title: "硬件工程师面经整理3PCB篇"
 date:   2022-06-29
 tags: [PCB,设计,走线,信号,线宽]
 comments: true

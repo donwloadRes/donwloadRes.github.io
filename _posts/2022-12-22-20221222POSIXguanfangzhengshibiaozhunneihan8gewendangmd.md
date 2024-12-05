@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "POSIX官方正式标准（内含8个文档）"
+title: "POSIX官方正式标准内含8个文档"
 date:   2023-12-14
 tags: [POSIX,文档,Unix,标准,操作系统]
 comments: true

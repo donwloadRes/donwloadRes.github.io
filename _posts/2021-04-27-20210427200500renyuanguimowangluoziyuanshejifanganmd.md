@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "200-500人员规模网络资源设计方案"
+title: "200500人员规模网络资源设计方案"
 date:   2021-09-14
 tags: [网络,VLAN,200,500,STP]
 comments: true

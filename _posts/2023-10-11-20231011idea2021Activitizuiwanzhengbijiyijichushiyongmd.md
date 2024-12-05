@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "idea2021+Activiti【最完整笔记一(基础使用)】"
+title: "idea2021Activiti最完整笔记一基础使用"
 date:   2021-07-22
 tags: [Activiti,Camunda,Modeler,使用,数据库]
 comments: true

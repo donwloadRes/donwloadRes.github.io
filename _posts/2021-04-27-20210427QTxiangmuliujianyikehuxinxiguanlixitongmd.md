@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目六：简易客户信息管理系统"
+title: "QT项目六简易客户信息管理系统"
 date:   2020-10-15
 tags: [Qt,数据库,SQLite,项目,客户]
 comments: true

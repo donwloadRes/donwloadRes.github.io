@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-水箱水位控制系统Multisim仿真设计"
+title: "数电课设水箱水位控制系统Multisim仿真设计"
 date:   2024-10-08
 tags: [Multisim,水位,仿真,水箱,控制系统]
 comments: true

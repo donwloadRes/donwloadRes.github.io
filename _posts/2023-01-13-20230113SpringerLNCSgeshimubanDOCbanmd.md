@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springer LNCS格式模板（DOC版）"
+title: "Springer LNCS格式模板DOC版"
 date:   2023-07-31
 tags: [模板,Springer,格式,LNCS,doc]
 comments: true

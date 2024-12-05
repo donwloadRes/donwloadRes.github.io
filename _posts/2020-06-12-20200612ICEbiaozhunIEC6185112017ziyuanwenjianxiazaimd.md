@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICE 标准IEC 61851-1-2017 资源文件下载"
+title: "ICE 标准IEC 6185112017 资源文件下载"
 date:   2023-10-24
 tags: [电动汽车,文件,2017,充电,标准]
 comments: true

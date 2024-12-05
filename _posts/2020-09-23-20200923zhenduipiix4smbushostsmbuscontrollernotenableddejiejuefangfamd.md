@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "针对piix4_smbus host smbus controller not enabled的解决方法"
+title: "针对piix4smbus host smbus controller not enabled的解决方法"
 date:   2021-10-20
 tags: [smbus,piix4,host,controller,enabled]
 comments: true

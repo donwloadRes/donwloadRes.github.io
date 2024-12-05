@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 11 中访问 Android-data 目录的几种方式"
+title: "Android 11 中访问 Androiddata 目录的几种方式"
 date:   2021-06-08
 tags: [Android,data,目录,访问,FilesActivity]
 comments: true

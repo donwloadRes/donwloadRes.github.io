@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据恢复利器：DiskGenius v4.9.1 绿色专业版及单文件"
+title: "数据恢复利器DiskGenius v491 绿色专业版及单文件"
 date:   2021-01-15
 tags: [数据恢复,分区,DiskGenius,专业版,备份]
 comments: true

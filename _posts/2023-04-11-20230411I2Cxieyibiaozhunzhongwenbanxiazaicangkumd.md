@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I2C协议标准(中文版) 下载仓库"
+title: "I2C协议标准中文版 下载仓库"
 date:   2024-04-01
 tags: [I2C,中文版,协议,仓库,PDF]
 comments: true

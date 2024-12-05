@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派4B从开箱到连接电脑(超级小白)"
+title: "树莓派4B从开箱到连接电脑超级小白"
 date:   2022-11-08
 tags: [树莓,PC,连接,烧录,4B]
 comments: true

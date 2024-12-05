@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW与S7-1200 PLC以太网通信源码"
+title: "LabVIEW与S71200 PLC以太网通信源码"
 date:   2023-05-06
 tags: [PLC,LabVIEW,源码,S7,1200]
 comments: true

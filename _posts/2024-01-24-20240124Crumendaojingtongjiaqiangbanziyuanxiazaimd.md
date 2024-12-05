@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门到精通加强版资源下载"
+title: "C入门到精通加强版资源下载"
 date:   2023-05-02
 tags: [C#,资源,加强版,下载,入门]
 comments: true

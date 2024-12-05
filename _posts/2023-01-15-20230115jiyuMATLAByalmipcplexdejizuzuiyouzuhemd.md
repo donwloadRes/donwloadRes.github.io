@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-yalmip-cplex的机组最优组合"
+title: "基于MATLAByalmipcplex的机组最优组合"
 date:   2024-02-12
 tags: [机组,求解,MATLAB,CPLEX,yalmip]
 comments: true

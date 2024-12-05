@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-means聚类与多维矩阵可视化（Matlab实现）"
+title: "Kmeans聚类与多维矩阵可视化Matlab实现"
 date:   2021-03-03
 tags: [聚类,means,可视化,Matlab,代码]
 comments: true

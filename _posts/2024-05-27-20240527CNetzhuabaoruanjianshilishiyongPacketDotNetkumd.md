@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .Net 抓包软件示例：使用 PacketDotNet 库"
+title: "C Net 抓包软件示例使用 PacketDotNet 库"
 date:   2021-10-25
 tags: [示例,抓包,PacketDotNet,数据包,捕获]
 comments: true

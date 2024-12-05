@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科院亚洲人脸数据集（计算机视觉人脸识别）Part 4 下载"
+title: "中科院亚洲人脸数据集计算机视觉人脸识别Part 4 下载"
 date:   2022-02-05
 tags: [Part,数据,编号,人脸识别,300]
 comments: true

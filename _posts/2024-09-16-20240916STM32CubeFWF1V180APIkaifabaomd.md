@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32Cube_FW_F1_V1.8.0 API开发包"
+title: "STM32CubeFWF1V180 API开发包"
 date:   2021-10-12
 tags: [V1.8,STM32Cube,FW,F1,API]
 comments: true

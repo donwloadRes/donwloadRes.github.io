@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 OTA 升级教程（方式2）"
+title: "STM32 OTA 升级教程方式2"
 date:   2023-08-29
 tags: [源码,升级,STM32,OTA,固件]
 comments: true

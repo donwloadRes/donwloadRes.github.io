@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nvm的简介、安装与使用指南"
+title: "nvm的简介安装与使用指南"
 date:   2023-09-10
 tags: [nvm,NVM,Node,安装,版本]
 comments: true

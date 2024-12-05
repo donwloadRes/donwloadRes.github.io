@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优秀论文：基于三菱FX2N-PLC控制的立体车库及组态王仿真"
+title: "优秀论文基于三菱FX2NPLC控制的立体车库及组态王仿真"
 date:   2024-01-10
 tags: [立体车库,PLC,组态王,仿真,FX2N]
 comments: true

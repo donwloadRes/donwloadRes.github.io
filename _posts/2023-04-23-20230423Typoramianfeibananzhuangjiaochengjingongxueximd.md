@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora免费版安装教程（仅供学习）"
+title: "Typora免费版安装教程仅供学习"
 date:   2022-08-19
 tags: [Typora,Markdown,文本,安装,补丁]
 comments: true

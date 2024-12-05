@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Chart控件中绘制曲线并拖动鼠标改变Y轴值"
+title: "C Chart控件中绘制曲线并拖动鼠标改变Y轴值"
 date:   2021-10-05
 tags: [控件,鼠标,Chart,拖动,曲线]
 comments: true

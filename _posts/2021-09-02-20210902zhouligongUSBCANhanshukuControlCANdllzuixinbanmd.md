@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功USBCAN函数库ControlCAN.dll最新版"
+title: "周立功USBCAN函数库ControlCANdll最新版"
 date:   2021-01-10
 tags: [dll,USBCAN,ControlCAN,函数库,立功]
 comments: true

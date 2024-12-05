@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA参考手册(chm)"
+title: "VBA参考手册chm"
 date:   2020-10-21
 tags: [VBA,参考手册,CHM,文件格式,chm]
 comments: true

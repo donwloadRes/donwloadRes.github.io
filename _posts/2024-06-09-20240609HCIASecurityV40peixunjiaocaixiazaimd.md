@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-Security V4.0 培训教材下载"
+title: "HCIASecurity V40 培训教材下载"
 date:   2021-05-08
 tags: [HCIA,Security,培训教材,V4.0,认证]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Radmin 3.5.2 支持 Win10 资源下载"
+title: "Radmin 352 支持 Win10 资源下载"
 date:   2023-03-23
 tags: [下载,Radmin,3.5,Windows,10]
 comments: true

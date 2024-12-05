@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32C8T6基于Keil5：实现printf重定向到串口1的三种方法"
+title: "STM32C8T6基于Keil5实现printf重定向到串口1的三种方法"
 date:   2022-02-23
 tags: [串口,USART1,重定向,输出,Keil5]
 comments: true

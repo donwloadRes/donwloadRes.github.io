@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python测试开发实战：自动化平台测试开发指南"
+title: "Python测试开发实战自动化平台测试开发指南"
 date:   2023-03-28
 tags: [测试,开发,自动化,Python,平台]
 comments: true

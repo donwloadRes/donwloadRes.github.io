@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GC9503V-DS IC规格书下载"
+title: "GC9503VDS IC规格书下载"
 date:   2022-02-10
 tags: [规格书,GC9503V,DS,IC,下载]
 comments: true

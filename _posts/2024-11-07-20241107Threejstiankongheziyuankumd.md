@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 天空盒资源库"
+title: "Threejs 天空盒资源库"
 date:   2024-06-08
 tags: [天空,Three,js,资源,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 3.2 安装教程详细指南"
+title: "Android Studio 32 安装教程详细指南"
 date:   2022-12-11
 tags: [安装,Android,Studio,教程,3.2]
 comments: true

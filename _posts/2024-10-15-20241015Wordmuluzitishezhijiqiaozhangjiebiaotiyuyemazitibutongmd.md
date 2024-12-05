@@ -1,6 +1,58 @@
 ---
 layout: post
-title: "Word 目录字体设置技巧：章节标题与页码字体不同"
+title: "Word 目录字体设置技巧章节标题与页码字体不同
+date   20210819
+tags 字体目录页码Word章节
+comments true
+author admin
+
+ Word 目录字体设置技巧章节标题与页码字体不同
+
+ 资源描述
+
+在撰写论文或其他文档时目录的格式要求往往比较严格例如有些论文要求目录中的章节标题中的数字使用 Arial 字体而页码则需要使用 Times New Roman 字体Word 默认情况下目录中的字体是统一的无法直接设置不同部分使用不同的字体本资源文件将详细介绍如何在 Word 中实现这一需求让目录中的章节标题与页码使用不同的字体
+
+ 解决方案
+
+ 1 手动调整目录字体
+
+虽然 Word 无法直接设置目录中不同部分的字体但可以通过手动调整来实现这一效果具体步骤如下
+
+1 生成目录首先按照常规方法生成目录
+2 选择目录中的数字在生成的目录中选择章节标题中的数字部分
+3 更改字体将选中的数字字体更改为 Arial
+4 选择页码接下来选择目录中的页码部分
+5 更改字体将页码的字体更改为 Times New Roman
+
+ 2 使用 VBA 宏自动化
+
+如果你需要频繁地进行这种操作手动调整可能会比较繁琐此时可以使用 VBA 宏来自动化这一过程以下是一个简单的 VBA 代码示例
+
+vba
+Sub ChangeTOCFont
+    Dim toc As TableOfContents
+    Dim rng As Range
+    Dim i As Integer
+    
+     选择目录
+    Set toc  ActiveDocumentTablesOfContents1
+    Set rng  tocRange
+    
+     遍历目录中的每一项
+    For i  1 To rngParagraphsCount
+         选择章节标题中的数字
+        With rngParagraphsiRange
+            FindExecute FindTextd ForwardTrue WrapwdFindStop
+            If FindFound Then
+                FontName  Arial
+            End If
+        End With
+        
+         选择页码
+        With rngParagraphsiRange
+            FindExecute FindTextd ForwardTrue WrapwdFindStop
+            If FindFound Then
+                FontName  Times New Roman"
 date:   2021-08-19
 tags: [字体,目录,页码,Word,章节]
 comments: true

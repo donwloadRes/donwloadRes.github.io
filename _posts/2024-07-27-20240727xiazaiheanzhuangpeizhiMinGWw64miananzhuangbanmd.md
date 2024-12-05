@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载和安装配置 MinGW-w64（免安装版）"
+title: "下载和安装配置 MinGWw64免安装版"
 date:   2020-11-03
 tags: [MinGW,w64,配置,安装,版本]
 comments: true

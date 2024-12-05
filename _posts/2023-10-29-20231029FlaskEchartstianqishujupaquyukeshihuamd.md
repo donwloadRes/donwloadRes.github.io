@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flask+Echarts 天气数据爬取与可视化"
+title: "FlaskEcharts 天气数据爬取与可视化"
 date:   2023-03-25
 tags: [可视化,Flask,爬取,天气,Echarts]
 comments: true

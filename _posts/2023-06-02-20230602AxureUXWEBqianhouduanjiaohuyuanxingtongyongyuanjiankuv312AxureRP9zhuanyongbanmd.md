@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AxureUX WEB前后端交互原型通用元件库 v3.12 (Axure RP9专用版)"
+title: "AxureUX WEB前后端交互原型通用元件库 v312 Axure RP9专用版"
 date:   2022-07-09
 tags: [交互,模板,WEB,组件,原型]
 comments: true

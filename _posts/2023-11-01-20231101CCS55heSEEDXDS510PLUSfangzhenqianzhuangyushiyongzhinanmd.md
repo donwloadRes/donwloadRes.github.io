@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS5.5 和 SEED XDS510PLUS 仿真器安装与使用指南"
+title: "CCS55 和 SEED XDS510PLUS 仿真器安装与使用指南"
 date:   2020-06-02
 tags: [仿真器,CCS5.5,安装,SEED,XDS510PLUS]
 comments: true

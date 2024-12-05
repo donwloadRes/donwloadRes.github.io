@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoBarleyTicketBooking: 大麦网自动抢票程序"
+title: "AutoBarleyTicketBooking 大麦网自动抢票程序"
 date:   2020-11-22
 tags: [抢票,油猴,程序,脚本,oliwang]
 comments: true

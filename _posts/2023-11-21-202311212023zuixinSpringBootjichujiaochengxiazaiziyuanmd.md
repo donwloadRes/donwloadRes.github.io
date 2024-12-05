@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新Spring Boot基础教程》下载资源"
+title: "2023最新Spring Boot基础教程下载资源"
 date:   2022-08-18
 tags: [Spring,Boot,基础教程,教程,版本]
 comments: true

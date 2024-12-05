@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D C# 信号FFT分析之5MHz超声波信号处理"
+title: "Unity3D C 信号FFT分析之5MHz超声波信号处理"
 date:   2020-05-08
 tags: [FFT,信号,Unity3D,频谱,fftData]
 comments: true

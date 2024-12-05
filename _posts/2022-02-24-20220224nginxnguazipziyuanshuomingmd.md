@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nginx(ngua).zip 资源说明"
+title: "nginxnguazip 资源说明"
 date:   2020-06-30
 tags: [Nginx,nginx,zip,ngua,配置]
 comments: true

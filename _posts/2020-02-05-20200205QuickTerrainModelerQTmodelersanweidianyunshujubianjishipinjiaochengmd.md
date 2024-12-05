@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick_Terrain_Modeler(QT modeler)三维点云数据编辑视频教程"
+title: "QuickTerrainModelerQT modeler三维点云数据编辑视频教程"
 date:   2022-08-14
 tags: [点云,三维,编辑,数据,教程]
 comments: true

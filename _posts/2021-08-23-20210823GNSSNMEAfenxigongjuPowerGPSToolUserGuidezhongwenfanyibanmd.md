@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNSS NMEA 分析工具 - PowerGPS-Tool-User-Guide 中文翻译版"
+title: "GNSS NMEA 分析工具  PowerGPSToolUserGuide 中文翻译版"
 date:   2023-07-24
 tags: [NMEA,GNSS,Tool,User,Guide]
 comments: true

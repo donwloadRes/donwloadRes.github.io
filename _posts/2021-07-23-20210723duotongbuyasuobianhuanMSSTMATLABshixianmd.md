@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多同步压缩变换（MSST）MATLAB实现"
+title: "多同步压缩变换MSSTMATLAB实现"
 date:   2024-02-01
 tags: [示例,Example,MSST,代码,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA控制ADS1256的ADC采集（三）"
+title: "FPGA控制ADS1256的ADC采集三"
 date:   2023-10-26
 tags: [FPGA,ADS1256,采集,ADC,高精度]
 comments: true

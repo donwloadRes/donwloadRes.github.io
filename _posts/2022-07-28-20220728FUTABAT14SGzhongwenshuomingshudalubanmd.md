@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FUTABA T14SG 中文说明书（大陆版）"
+title: "FUTABA T14SG 中文说明书大陆版"
 date:   2022-07-25
 tags: [FUTABA,T14SG,说明书,航模,PDF]
 comments: true

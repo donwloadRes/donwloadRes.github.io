@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3和Node.js可用的OPC客户端（OPC DA）"
+title: "Python3和Nodejs可用的OPC客户端OPC DA"
 date:   2022-09-08
 tags: [OPC,client,value,Node,js]
 comments: true

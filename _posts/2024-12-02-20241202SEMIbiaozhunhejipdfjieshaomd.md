@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI标准合集.pdf 介绍"
+title: "SEMI标准合集pdf 介绍"
 date:   2020-07-16
 tags: [SEMI,设备,标准,通讯,pdf]
 comments: true

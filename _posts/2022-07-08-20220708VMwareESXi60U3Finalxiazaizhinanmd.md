@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 6.0 U3 Final 下载指南"
+title: "VMware ESXi 60 U3 Final 下载指南"
 date:   2024-04-04
 tags: [ESXi,VMware,6.0,下载,镜像文件]
 comments: true

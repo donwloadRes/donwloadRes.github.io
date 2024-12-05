@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等代数习题解答 - 丘维声"
+title: "高等代数习题解答  丘维声"
 date:   2021-09-11
 tags: [习题,代数,高等,丘维声,解答]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1722-2016 AVTP传输层协议标准文档"
+title: "IEEE 17222016 AVTP传输层协议标准文档"
 date:   2024-03-23
 tags: [2016,文档,AVTP,传输层,音视频]
 comments: true

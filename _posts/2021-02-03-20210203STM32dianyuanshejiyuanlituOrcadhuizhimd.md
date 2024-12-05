@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32电源设计原理图（Orcad绘制）"
+title: "STM32电源设计原理图Orcad绘制"
 date:   2021-11-27
 tags: [原理图,Orcad,STM32,电源,设计]
 comments: true

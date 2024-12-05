@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IE11离线升级包+所需补丁 win7 32位"
+title: "IE11离线升级包所需补丁 win7 32位"
 date:   2024-10-26
 tags: [IE11,补丁,离线,升级,安装]
 comments: true

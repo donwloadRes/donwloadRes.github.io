@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F407开发板的ILI9341 软SPI驱动 Keil 篇(兼容正点原子)"
+title: "基于STM32F407开发板的ILI9341 软SPI驱动 Keil 篇兼容正点原子"
 date:   2023-02-08
 tags: [开发板,驱动,STM32F407,ILI9341,SPI]
 comments: true

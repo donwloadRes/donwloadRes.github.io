@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ubuntu18.04安装微信指南"
+title: "ubuntu1804安装微信指南"
 date:   2020-03-19
 tags: [微信,安装,deepin,wine,Ubuntu]
 comments: true

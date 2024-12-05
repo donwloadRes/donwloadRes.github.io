@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 179A-1996 计数抽样检查程序及表"
+title: "GJB 179A1996 计数抽样检查程序及表"
 date:   2023-08-19
 tags: [抽样检查,文件,1996,质量,管理体系]
 comments: true

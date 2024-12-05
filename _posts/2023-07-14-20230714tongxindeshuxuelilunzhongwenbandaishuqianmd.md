@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信的数学理论（中文版带书签）"
+title: "通信的数学理论中文版带书签"
 date:   2022-03-27
 tags: [通信,香农,理论,书签,数学]
 comments: true

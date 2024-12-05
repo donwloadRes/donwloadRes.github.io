@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi -facesdk 离线版人脸识别源码"
+title: "Delphi facesdk 离线版人脸识别源码"
 date:   2023-01-26
 tags: [源码,Delphi,人脸识别,离线,识别]
 comments: true

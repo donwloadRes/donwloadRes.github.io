@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络课件(最完整版)-谢希仁.ppt"
+title: "计算机网络课件最完整版谢希仁ppt"
 date:   2023-01-29
 tags: [课件,计算机网络,希仁,完整版,ppt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 通过 Windows API 捕获窗口并获取窗口文本"
+title: "C 通过 Windows API 捕获窗口并获取窗口文本"
 date:   2020-05-12
 tags: [窗口,Windows,API,文本,函数]
 comments: true

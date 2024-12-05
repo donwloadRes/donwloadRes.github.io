@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML面向对象建模与设计（第二版）PDF资源下载"
+title: "UML面向对象建模与设计第二版PDF资源下载"
 date:   2020-06-28
 tags: [PDF,建模,面向对象,UML,设计]
 comments: true

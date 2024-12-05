@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计：通讯录管理系统"
+title: "Java课程设计通讯录管理系统"
 date:   2024-10-26
 tags: [Java,数据库,通讯录,Swing,JDBC]
 comments: true

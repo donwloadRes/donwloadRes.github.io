@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 游戏手柄控制代码"
+title: "C 游戏手柄控制代码"
 date:   2021-11-05
 tags: [手柄,DirectInput,游戏,代码,编译]
 comments: true

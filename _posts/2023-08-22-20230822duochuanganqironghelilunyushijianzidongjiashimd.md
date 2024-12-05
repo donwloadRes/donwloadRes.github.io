@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多传感器融合理论与实践：自动驾驶"
+title: "多传感器融合理论与实践自动驾驶"
 date:   2022-01-11
 tags: [融合,传感器,IMU,相机,同步]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 资源下载"
+title: "Internet Download Manager IDM 资源下载"
 date:   2020-06-27
 tags: [IDM,下载,序列号,仓库,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.15在线安装工具"
+title: "Qt515在线安装工具"
 date:   2020-03-16
 tags: [Qt,安装,在线,版本,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 智能投喂器（STM32+APP+单片机定时+云）"
+title: "物联网毕设  智能投喂器STM32APP单片机定时云"
 date:   2022-05-14
 tags: [APP,宠物,设备,喂器,毕设]
 comments: true

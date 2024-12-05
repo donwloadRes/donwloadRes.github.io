@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "贝叶斯模型平均（BMA）例程"
+title: "贝叶斯模型平均BMA例程"
 date:   2020-05-21
 tags: [BMA,模型,例程,py,贝叶斯]
 comments: true

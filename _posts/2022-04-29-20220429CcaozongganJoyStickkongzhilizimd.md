@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 操纵杆(JoyStick)控制例子"
+title: "C 操纵杆JoyStick控制例子"
 date:   2024-11-01
 tags: [C#,示例,手柄,JoyStick,代码]
 comments: true

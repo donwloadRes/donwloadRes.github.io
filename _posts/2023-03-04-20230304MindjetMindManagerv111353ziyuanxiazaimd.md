@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mindjet MindManager v11.1.353 资源下载"
+title: "Mindjet MindManager v111353 资源下载"
 date:   2021-12-26
 tags: [353,Mindjet,MindManager,v11.1,Keymaker]
 comments: true

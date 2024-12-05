@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hspice 2016安装手册(最详细)"
+title: "Hspice 2016安装手册最详细"
 date:   2023-09-14
 tags: [Hspice,2016,安装,手册,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.5p1 RPM 包下载"
+title: "OpenSSH 95p1 RPM 包下载"
 date:   2020-05-05
 tags: [9.5,p1,OpenSSH,RPM,rpm]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序-考试小程序-答题小程序-源码"
+title: "微信小程序考试小程序答题小程序源码"
 date:   2022-08-29
 tags: [源码,答题,程序,微信,考试]
 comments: true

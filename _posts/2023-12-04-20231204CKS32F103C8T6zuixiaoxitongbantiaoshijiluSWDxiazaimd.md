@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CKS32F103C8T6最小系统板调试记录——SWD下载"
+title: "CKS32F103C8T6最小系统板调试记录SWD下载"
 date:   2020-07-28
 tags: [CKS32F103C8T6,Keil,ST,调试,SWD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用海康摄像头资源文件介绍"
+title: "C调用海康摄像头资源文件介绍"
 date:   2022-08-14
 tags: [海康,摄像头,PlatFormSDK,文件,输入]
 comments: true

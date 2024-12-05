@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决J-LINK报错：“the connected J-LINK is defective” - MDK5.25及以上版本适用"
+title: "解决JLINK报错the connected JLINK is defective  MDK525及以上版本适用"
 date:   2021-11-20
 tags: [LINK,MDK,版本,固件,解决]
 comments: true

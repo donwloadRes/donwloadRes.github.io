@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应滤波器原理(答案与代码) 资源下载"
+title: "自适应滤波器原理答案与代码 资源下载"
 date:   2023-10-30
 tags: [滤波器,适应,信号处理,LMS,格型]
 comments: true

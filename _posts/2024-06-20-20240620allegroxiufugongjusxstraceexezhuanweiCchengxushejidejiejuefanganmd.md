@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "allegro修复工具 - sxstrace.exe专为C++程序设计的解决方案"
+title: "allegro修复工具  sxstraceexe专为C程序设计的解决方案"
 date:   2023-09-14
 tags: [sxstrace,exe,C++,工具,修复]
 comments: true

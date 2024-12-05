@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10平板将SD卡-U盘识别为本地磁盘"
+title: "Win10平板将SD卡U盘识别为本地磁盘"
 date:   2020-10-24
 tags: [文件,识别,SD,U盘,存储设备]
 comments: true

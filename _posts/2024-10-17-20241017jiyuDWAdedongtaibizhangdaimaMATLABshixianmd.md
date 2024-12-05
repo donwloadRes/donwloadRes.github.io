@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DWA的动态避障代码【MATLAB】实现"
+title: "基于DWA的动态避障代码MATLAB实现"
 date:   2024-01-24
 tags: [避障,MATLAB,代码,DWA,动态]
 comments: true

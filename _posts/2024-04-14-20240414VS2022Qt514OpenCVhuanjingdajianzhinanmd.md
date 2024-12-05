@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2022+Qt 5.14+OpenCV环境搭建指南"
+title: "VS2022Qt 514OpenCV环境搭建指南"
 date:   2021-04-19
 tags: [Qt,OpenCV,5.14,环境,搭建]
 comments: true

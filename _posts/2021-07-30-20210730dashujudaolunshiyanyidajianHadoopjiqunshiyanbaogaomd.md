@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据导论实验一：搭建Hadoop集群实验报告"
+title: "大数据导论实验一搭建Hadoop集群实验报告"
 date:   2023-12-04
 tags: [Hadoop,集群,实验,搭建,实验报告]
 comments: true

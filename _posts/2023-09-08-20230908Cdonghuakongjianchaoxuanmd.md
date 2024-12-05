@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#动画控件（超炫）"
+title: "C动画控件超炫"
 date:   2020-07-29
 tags: [控件,C#,动画,WinForms,超炫]
 comments: true

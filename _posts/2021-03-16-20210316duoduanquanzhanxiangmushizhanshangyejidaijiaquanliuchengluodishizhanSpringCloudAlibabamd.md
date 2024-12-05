@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多端全栈项目实战：商业级代驾全流程落地实战（SpringCloud Alibaba）"
+title: "多端全栈项目实战商业级代驾全流程落地实战SpringCloud Alibaba"
 date:   2022-04-30
 tags: [项目,实战,全栈,级代,驾全]
 comments: true

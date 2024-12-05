@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "buck-boost电路公式推导"
+title: "buckboost电路公式推导"
 date:   2022-06-22
 tags: [电压,电感,Buck,Boost,开关]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Arduino的循迹小车（含PID算法）"
+title: "基于Arduino的循迹小车含PID算法"
 date:   2020-12-13
 tags: [循迹,Arduino,PID,赛道,小车]
 comments: true

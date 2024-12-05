@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RATA-Raster-(BMP)To-Allegro(IPF) 工具介绍"
+title: "RATARasterBMPToAllegroIPF 工具介绍"
 date:   2023-11-23
 tags: [BMP,IPF,Allegro,工具,RATA]
 comments: true

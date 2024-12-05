@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMBUS_PMBUS堆栈中间件移植指南"
+title: "SMBUSPMBUS堆栈中间件移植指南"
 date:   2024-06-09
 tags: [SMBUS,PMBUS,堆栈,文件,STM32F407]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彻底解决vcruntime140.dll找不到的问题"
+title: "彻底解决vcruntime140dll找不到的问题"
 date:   2024-02-02
 tags: [安装,vcruntime140,dll,版本,C++]
 comments: true

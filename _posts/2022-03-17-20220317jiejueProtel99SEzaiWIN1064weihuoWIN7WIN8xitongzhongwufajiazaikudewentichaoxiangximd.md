@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Protel99 SE在WIN10 64位或WIN7 WIN8系统中无法加载库的问题（超详细）"
+title: "解决Protel99 SE在WIN10 64位或WIN7 WIN8系统中无法加载库的问题超详细"
 date:   2024-09-07
 tags: [Windows,Protel99,SE,文件,安装]
 comments: true

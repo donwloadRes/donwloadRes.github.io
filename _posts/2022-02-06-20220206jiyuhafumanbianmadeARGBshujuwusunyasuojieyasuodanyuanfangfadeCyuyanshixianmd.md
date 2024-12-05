@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于哈弗曼编码的ARGB数据无损压缩-解压缩单元（方法）的C语言实现"
+title: "基于哈弗曼编码的ARGB数据无损压缩解压缩单元方法的C语言实现"
 date:   2022-06-03
 tags: [ARGB,解压,数据,解压缩,argb]
 comments: true

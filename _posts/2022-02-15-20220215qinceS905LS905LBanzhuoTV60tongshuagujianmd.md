@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【亲测】S905L-S905L-B安卓TV6.0通刷固件"
+title: "亲测S905LS905LB安卓TV60通刷固件"
 date:   2021-12-18
 tags: [固件,S905L,刷机,开机,USB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 部署 Oracle 完整教程（命令行）"
+title: "CentOS 7 部署 Oracle 完整教程命令行"
 date:   2022-12-16
 tags: [Oracle,教程,CentOS,配置,数据库]
 comments: true

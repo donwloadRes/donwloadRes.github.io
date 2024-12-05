@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 17虚拟机安装教程 - 深入指南以安装Linux CentOS系统"
+title: "VMware 17虚拟机安装教程  深入指南以安装Linux CentOS系统"
 date:   2021-05-01
 tags: [CentOS,安装,虚拟机,VMware,17]
 comments: true

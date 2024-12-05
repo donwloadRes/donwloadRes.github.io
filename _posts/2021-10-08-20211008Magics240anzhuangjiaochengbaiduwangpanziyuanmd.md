@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magics 24.0 安装教程 & 百度网盘资源"
+title: "Magics 240 安装教程  百度网盘资源"
 date:   2022-02-10
 tags: [Magics,24.0,安装,百度网,教程]
 comments: true

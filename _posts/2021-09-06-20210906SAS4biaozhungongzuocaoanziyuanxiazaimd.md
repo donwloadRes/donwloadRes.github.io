@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS-4 标准工作草案资源下载"
+title: "SAS4 标准工作草案资源下载"
 date:   2022-10-03
 tags: [SAS,草案,SCSI,文件,标准]
 comments: true

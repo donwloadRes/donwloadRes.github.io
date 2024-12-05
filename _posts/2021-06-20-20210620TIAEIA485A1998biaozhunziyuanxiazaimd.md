@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIA EIA-485-A-1998 标准资源下载"
+title: "TIA EIA485A1998 标准资源下载"
 date:   2023-04-18
 tags: [485,EIA,1998,标准,TIA]
 comments: true

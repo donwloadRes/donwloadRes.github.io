@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "批量下载ERA5数据（Python+IDM）"
+title: "批量下载ERA5数据PythonIDM
+date   20220402
+tags 00ERA5IDM下载批量
+comments true
+author admin
+
+ 批量下载ERA5数据PythonIDM
+
+ 简介
+本资源文件详细介绍了如何通过Python脚本结合Internet Download ManagerIDM软件实现对ERA5气候数据的批量下载ERA5是第五代ECMWF大气再分析全球气候数据提供了每小时的大气陆地和海洋气候变量的估计值通过本教程您可以高效地下载ERA5数据提高下载速度和效率
+
+ 准备工作
+1 注册CDS帐号在Climate Data StoreCDS网站上注册帐号获取API key
+2 配置并安装CDS API在本地配置CDS API安装cdsapi第三方库
+3 安装和配置IDM软件安装Internet Download ManagerIDM并进行相关配置
+
+ 批量下载步骤
+1 下载单个数据通过Python脚本创建下载任务利用CDSAPI获取下载链接
+2 批量下载数据通过循环批量下载ERA5数据并使用IDM软件进行快速下载
+
+ 代码示例
+以下是批量下载ERA5数据的Python代码示例
+
+python
+import cdsapi
+import calendar
+from subprocess import call
+
+def idmDownloadertaskurl folderpath filename
+     IDM下载器 
+    idmengine  CProgram Files x86Internet Download ManagerIDManexe"
 date:   2022-04-02
 tags: [00,ERA5,IDM,下载,批量]
 comments: true

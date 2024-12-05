@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "房卡麻将客户端+服务端源码基于CocosCreator"
+title: "房卡麻将客户端服务端源码基于CocosCreator"
 date:   2020-10-12
 tags: [CocosCreator,游戏,服务端,客户端,房卡]
 comments: true

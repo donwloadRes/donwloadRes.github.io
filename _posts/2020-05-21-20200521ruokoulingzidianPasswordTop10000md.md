@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "弱口令字典 - Password Top 10000"
+title: "弱口令字典  Password Top 10000"
 date:   2021-10-20
 tags: [口令,密码,文件,字典,10000]
 comments: true

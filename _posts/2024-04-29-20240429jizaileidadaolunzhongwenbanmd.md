@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机载雷达导论(中文版)"
+title: "机载雷达导论中文版"
 date:   2022-07-20
 tags: [雷达,中文版,机载雷达,导论,技术]
 comments: true

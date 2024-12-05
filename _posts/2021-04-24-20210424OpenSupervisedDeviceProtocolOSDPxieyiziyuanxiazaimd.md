@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Supervised Device Protocol (OSDP) 协议资源下载"
+title: "Open Supervised Device Protocol OSDP 协议资源下载"
 date:   2020-07-01
 tags: [OSDP,协议,门禁,读卡器,设备]
 comments: true

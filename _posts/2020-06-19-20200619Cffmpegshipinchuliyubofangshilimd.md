@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ffmpeg 视频处理与播放示例"
+title: "C ffmpeg 视频处理与播放示例"
 date:   2023-08-31
 tags: [示例,C#,ffmpeg,视频,autogen]
 comments: true

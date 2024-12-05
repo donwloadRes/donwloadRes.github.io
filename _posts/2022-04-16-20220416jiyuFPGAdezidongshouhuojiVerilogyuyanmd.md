@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的自动售货机（Verilog语言）"
+title: "基于FPGA的自动售货机Verilog语言"
 date:   2022-02-12
 tags: [投币,按键,数码管,余额,购买]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.Office.Interop.Word.dll 下载仓库"
+title: "MicrosoftOfficeInteropWorddll 下载仓库"
 date:   2022-07-06
 tags: [Microsoft,Office,Word,版本,Interop]
 comments: true

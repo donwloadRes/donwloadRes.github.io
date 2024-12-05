@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全+RockyLinux 9.3+OpenSSH 9.7p1+漏洞修复资源下载"
+title: "信息安全RockyLinux 93OpenSSH 97p1漏洞修复资源下载"
 date:   2020-06-01
 tags: [OpenSSH,p1,漏洞,修复,RockyLinux]
 comments: true

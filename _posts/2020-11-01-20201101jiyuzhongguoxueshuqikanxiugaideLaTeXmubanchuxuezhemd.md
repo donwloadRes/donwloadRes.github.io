@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于中国学术期刊修改的 LaTeX 模板（初学者）"
+title: "基于中国学术期刊修改的 LaTeX 模板初学者"
 date:   2023-10-01
 tags: [LaTeX,模板,学术期刊,初学者,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN-GRU多变量回归预测（Matlab）工具包"
+title: "CNNGRU多变量回归预测Matlab工具包"
 date:   2023-04-18
 tags: [CNN,GRU,预测,MATLAB,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "垃圾分类助手APP - 安卓期末大作业"
+title: "垃圾分类助手APP  安卓期末大作业"
 date:   2022-09-26
 tags: [垃圾,分类,界面,Android,用户]
 comments: true

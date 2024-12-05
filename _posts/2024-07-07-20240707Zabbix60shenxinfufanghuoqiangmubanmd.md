@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix 6.0 深信服防火墙模板"
+title: "Zabbix 60 深信服防火墙模板"
 date:   2023-08-26
 tags: [模板,防火墙,信服,SNMP,监控]
 comments: true

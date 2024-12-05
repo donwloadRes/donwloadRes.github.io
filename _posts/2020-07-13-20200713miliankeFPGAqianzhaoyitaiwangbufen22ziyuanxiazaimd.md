@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联客FPGA 千兆以太网部分（2-2）资源下载"
+title: "米联客FPGA 千兆以太网部分22资源下载"
 date:   2022-05-10
 tags: [千兆,以太网,联客,FPGA,部分]
 comments: true

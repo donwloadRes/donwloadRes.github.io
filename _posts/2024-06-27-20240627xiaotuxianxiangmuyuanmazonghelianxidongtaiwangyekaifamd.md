@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小兔鲜项目源码：综合练习动态网页开发"
+title: "小兔鲜项目源码综合练习动态网页开发"
 date:   2021-08-17
 tags: [项目,页面,HTML,CSS,小兔]
 comments: true

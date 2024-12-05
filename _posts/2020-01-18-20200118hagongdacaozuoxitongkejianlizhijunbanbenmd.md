@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈工大操作系统课件（李治军版本）"
+title: "哈工大操作系统课件李治军版本"
 date:   2020-01-06
 tags: [课件,操作系统,学习,治军,初学者]
 comments: true

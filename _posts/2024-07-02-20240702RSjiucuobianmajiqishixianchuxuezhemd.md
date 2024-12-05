@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS纠错编码及其实现（初学者）"
+title: "RS纠错编码及其实现初学者"
 date:   2023-04-12
 tags: [RS,纠错,编码,初学者,原理]
 comments: true

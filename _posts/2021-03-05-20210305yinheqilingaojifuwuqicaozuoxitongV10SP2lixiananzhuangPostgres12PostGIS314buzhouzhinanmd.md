@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟高级服务器操作系统V10SP2离线安装Postgres12+PostGIS3.1.4步骤指南"
+title: "银河麒麟高级服务器操作系统V10SP2离线安装Postgres12PostGIS314步骤指南"
 date:   2022-09-23
 tags: [麒麟,PostgreSQL,12,rpm,数据库]
 comments: true

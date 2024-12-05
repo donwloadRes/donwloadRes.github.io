@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最方便的C#调用三菱PLC MX方式"
+title: "最方便的C调用三菱PLC MX方式"
 date:   2020-01-05
 tags: [PLC,C#,三菱,MX,开发者]
 comments: true

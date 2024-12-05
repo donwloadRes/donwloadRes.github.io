@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BELLHOP 手册和用户指南（中文版）"
+title: "BELLHOP 手册和用户指南中文版"
 date:   2024-07-12
 tags: [BELLHOP,手册,水声,作业,本手册]
 comments: true

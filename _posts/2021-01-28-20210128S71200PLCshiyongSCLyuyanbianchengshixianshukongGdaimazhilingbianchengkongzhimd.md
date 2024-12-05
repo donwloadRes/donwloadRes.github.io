@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200PLC使用SCL语言编程实现数控G代码指令编程控制"
+title: "S71200PLC使用SCL语言编程实现数控G代码指令编程控制"
 date:   2021-03-21
 tags: [编程,S7,1200PLC,代码,SCL]
 comments: true

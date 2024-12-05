@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR5 SDRAM标准 - JESD79-5A 资源下载"
+title: "DDR5 SDRAM标准  JESD795A 资源下载"
 date:   2023-04-20
 tags: [DDR5,JESD79,5A,SDRAM,内存]
 comments: true

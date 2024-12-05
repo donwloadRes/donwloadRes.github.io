@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁兼容合集.pdf"
+title: "电磁兼容合集pdf"
 date:   2020-10-31
 tags: [电磁兼容,合集,课件,解答,学习]
 comments: true

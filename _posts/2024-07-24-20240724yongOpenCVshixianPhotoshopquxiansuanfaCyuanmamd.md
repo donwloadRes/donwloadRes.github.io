@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用OpenCV实现Photoshop曲线算法C++源码"
+title: "用OpenCV实现Photoshop曲线算法C源码"
 date:   2022-10-28
 tags: [源码,OpenCV,曲线,Photoshop,C++]
 comments: true

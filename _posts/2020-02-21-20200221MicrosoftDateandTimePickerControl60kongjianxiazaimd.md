@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Date and Time Picker Control 6.0 控件下载"
+title: "Microsoft Date and Time Picker Control 60 控件下载"
 date:   2024-01-07
 tags: [控件,日期,Microsoft,Date,Time]
 comments: true

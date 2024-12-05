@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType 7.6 汉化补丁包下载介绍"
+title: "MathType 76 汉化补丁包下载介绍"
 date:   2024-04-23
 tags: [MathType,补丁包,7.6,汉化,用户]
 comments: true

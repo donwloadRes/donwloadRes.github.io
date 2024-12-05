@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "强化学习：一种入门介绍（第二版答案）"
+title: "强化学习一种入门介绍第二版答案"
 date:   2021-09-18
 tags: [学习,答案,强化,理解,Introduction]
 comments: true

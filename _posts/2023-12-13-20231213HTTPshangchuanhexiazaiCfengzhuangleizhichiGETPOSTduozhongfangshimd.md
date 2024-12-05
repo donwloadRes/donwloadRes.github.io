@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTTP上传和下载C++封装类支持GET、POST多种方式"
+title: "HTTP上传和下载C封装类支持GETPOST多种方式"
 date:   2022-03-29
 tags: [HTTP,C++,GET,POST,上传]
 comments: true

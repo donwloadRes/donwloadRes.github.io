@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++程序设计实践综合题目[2023-07-06]"
+title: "CC程序设计实践综合题目20230706"
 date:   2020-01-18
 tags: [C++,成绩,学生,题目,实践]
 comments: true

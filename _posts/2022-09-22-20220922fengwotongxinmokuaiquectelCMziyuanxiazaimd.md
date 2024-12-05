@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜂窝通信模块quectel-CM资源下载"
+title: "蜂窝通信模块quectelCM资源下载"
 date:   2023-07-09
 tags: [模块,文件,资源,蜂窝,quectel]
 comments: true

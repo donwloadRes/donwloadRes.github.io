@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "参考作物蒸散量计算器（ET0）工具"
+title: "参考作物蒸散量计算器ET0工具"
 date:   2021-07-19
 tags: [蒸散,ET0,时间尺度,工具,科研人员]
 comments: true

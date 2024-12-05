@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PN532用户手册中文版（含详细命令）"
+title: "PN532用户手册中文版含详细命令"
 date:   2022-08-27
 tags: [PN532,本手册,芯片,用户手册,固件]
 comments: true

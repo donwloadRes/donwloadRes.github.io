@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP28335 + AD7606 SVPWM电路原理与PCB设计资源"
+title: "DSP28335  AD7606 SVPWM电路原理与PCB设计资源"
 date:   2024-04-22
 tags: [PCB,SVPWM,设计,电路,原理图]
 comments: true

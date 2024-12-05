@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.CS32F1xx-DFP 资源文件下载"
+title: "KeilCS32F1xxDFP 资源文件下载"
 date:   2022-01-28
 tags: [芯片,KEIL,Keil,CS32F1xx,DFP]
 comments: true

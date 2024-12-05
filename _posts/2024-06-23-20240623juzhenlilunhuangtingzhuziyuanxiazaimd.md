@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵理论_黄廷祝 资源下载"
+title: "矩阵理论黄廷祝 资源下载"
 date:   2022-12-11
 tags: [矩阵,黄廷,理论,下载,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js城市道路管道流光效果资源文件"
+title: "Threejs城市道路管道流光效果资源文件"
 date:   2021-07-19
 tags: [管道,流光,Three,js,效果]
 comments: true

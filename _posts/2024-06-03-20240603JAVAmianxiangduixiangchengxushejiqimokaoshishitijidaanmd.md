@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA面向对象程序设计（期末考试试题及答案）"
+title: "JAVA面向对象程序设计期末考试试题及答案"
 date:   2024-09-25
 tags: [期末考试,面向对象,试题,JAVA,答案]
 comments: true

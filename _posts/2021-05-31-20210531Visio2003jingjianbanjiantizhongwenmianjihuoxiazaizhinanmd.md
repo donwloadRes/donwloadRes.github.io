@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visio 2003 精简版(简体中文,免激活)下载指南"
+title: "Visio 2003 精简版简体中文免激活下载指南"
 date:   2024-10-12
 tags: [2003,Visio,精简版,安装,下载]
 comments: true

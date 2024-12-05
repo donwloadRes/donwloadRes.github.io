@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview串口读取数据-CRC16校验后-波形图表显示"
+title: "Labview串口读取数据CRC16校验后波形图表显示"
 date:   2021-06-12
 tags: [串口,校验,Labview,CRC16,波形]
 comments: true

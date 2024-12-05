@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口助手源码"
+title: "C串口助手源码"
 date:   2020-10-28
 tags: [串口,源码,C#,收发,十六进制]
 comments: true

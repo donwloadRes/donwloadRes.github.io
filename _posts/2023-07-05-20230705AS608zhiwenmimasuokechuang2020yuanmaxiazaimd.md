@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AS608指纹密码锁-科创2020源码下载"
+title: "AS608指纹密码锁科创2020源码下载"
 date:   2020-12-28
 tags: [源码,AS608,指纹,接线,密码锁]
 comments: true

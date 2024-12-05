@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于趋动云部署秋葉aaaki的Stable Diffusion整合包v4--linux版"
+title: "基于趋动云部署秋葉aaaki的Stable Diffusion整合包v4linux版"
 date:   2024-06-11
 tags: [部署,Stable,Diffusion,Linux,整合]
 comments: true

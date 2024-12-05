@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘画——ControlNet扩展安装教程"
+title: "AI绘画ControlNet扩展安装教程"
 date:   2022-08-26
 tags: [ControlNet,安装,AI,模型,下载]
 comments: true

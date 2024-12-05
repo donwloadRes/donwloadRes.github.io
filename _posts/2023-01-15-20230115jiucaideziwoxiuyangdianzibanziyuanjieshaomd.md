@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韭菜的自我修养》电子版资源介绍"
+title: "韭菜的自我修养电子版资源介绍"
 date:   2021-03-28
 tags: [韭菜,修养,自我,电子版,资源]
 comments: true

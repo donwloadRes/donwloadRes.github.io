@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Typora 0.9.98 免费版本"
+title: "Windows Typora 0998 免费版本"
 date:   2022-12-28
 tags: [Typora,版本,98,0.9,Windows]
 comments: true

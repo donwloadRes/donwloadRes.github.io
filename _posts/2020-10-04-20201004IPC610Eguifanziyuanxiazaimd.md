@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-610E規範资源下载"
+title: "IPC610E規範资源下载"
 date:   2024-01-27
 tags: [規範,IPC,610E,下载,电子]
 comments: true

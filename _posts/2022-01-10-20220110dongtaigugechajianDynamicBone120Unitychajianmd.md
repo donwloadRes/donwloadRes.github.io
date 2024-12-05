@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动态骨骼插件 DynamicBone 1.2.0 - Unity 插件"
+title: "动态骨骼插件 DynamicBone 120  Unity 插件"
 date:   2024-02-23
 tags: [插件,Unity,动画,骨骼,动态]
 comments: true

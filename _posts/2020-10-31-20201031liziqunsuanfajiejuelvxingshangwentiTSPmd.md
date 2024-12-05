@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "粒子群算法解决旅行商问题(TSP)"
+title: "粒子群算法解决旅行商问题TSP"
 date:   2021-04-03
 tags: [粒子,TSP,算法,全局,优化]
 comments: true

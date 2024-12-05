@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGMII 规范 V1.8 下载仓库"
+title: "SGMII 规范 V18 下载仓库"
 date:   2023-03-27
 tags: [SGMII,文件,V1.8,仓库,下载]
 comments: true

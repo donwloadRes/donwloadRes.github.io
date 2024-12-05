@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python环境配置教程（最新超详细图文版）"
+title: "Python环境配置教程最新超详细图文版"
 date:   2020-11-23
 tags: [Python,环境,教程,配置,PyCharm]
 comments: true

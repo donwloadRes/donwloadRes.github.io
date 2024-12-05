@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021 年 CSP-J 初赛试题与解答资源"
+title: "2021 年 CSPJ 初赛试题与解答资源"
 date:   2023-09-25
 tags: [初赛,CSP,试题,解答,信息学]
 comments: true

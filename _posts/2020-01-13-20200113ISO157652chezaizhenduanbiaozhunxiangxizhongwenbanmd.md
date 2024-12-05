@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-15765-2车载诊断标准-详细中文版"
+title: "ISO157652车载诊断标准详细中文版"
 date:   2020-04-20
 tags: [车载,ISO,15765,文件,诊断]
 comments: true

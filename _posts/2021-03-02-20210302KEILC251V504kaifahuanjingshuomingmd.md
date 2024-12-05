@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL C251 V5.04 开发环境说明"
+title: "KEIL C251 V504 开发环境说明"
 date:   2020-07-30
 tags: [KEIL,C251,开发,开发者,调试]
 comments: true

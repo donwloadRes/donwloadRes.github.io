@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker+K8S 集群环境搭建及分布式应用部署教程"
+title: "DockerK8S 集群环境搭建及分布式应用部署教程"
 date:   2020-07-15
 tags: [Docker,Kubernetes,教程,集群,分布式应用]
 comments: true

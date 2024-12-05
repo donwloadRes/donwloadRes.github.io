@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix 6.4.6 资源文件下载"
+title: "Zabbix 646 资源文件下载"
 date:   2020-03-28
 tags: [Zabbix,安装,文件,6.4,下载]
 comments: true

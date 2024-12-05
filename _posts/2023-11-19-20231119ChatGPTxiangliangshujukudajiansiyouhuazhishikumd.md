@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT+向量数据库搭建私有化知识库"
+title: "ChatGPT向量数据库搭建私有化知识库"
 date:   2020-06-11
 tags: [知识库,ChatGPT,向量,数据库,私有化]
 comments: true

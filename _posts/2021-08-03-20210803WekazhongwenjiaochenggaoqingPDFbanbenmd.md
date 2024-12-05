@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weka中文教程（高清PDF版本）"
+title: "Weka中文教程高清PDF版本"
 date:   2021-12-24
 tags: [Weka,PDF,教程,软件,高清]
 comments: true

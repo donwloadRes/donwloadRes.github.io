@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统（基于STM32）徐灵飞版书后习题资源下载"
+title: "嵌入式系统基于STM32徐灵飞版书后习题资源下载"
 date:   2022-05-13
 tags: [习题,嵌入式,STM32,徐灵,飞版]
 comments: true

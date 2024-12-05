@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DO260B-1090MHz ADS-B 最低操作性能标准"
+title: "DO260B1090MHz ADSB 最低操作性能标准"
 date:   2022-03-03
 tags: [ADS,文件,性能,DO260B,1090MHz]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL模拟冰花形成（相场凝固模型）"
+title: "COMSOL模拟冰花形成相场凝固模型"
 date:   2020-04-03
 tags: [COMSOL,相场,模型,冰花,模拟]
 comments: true

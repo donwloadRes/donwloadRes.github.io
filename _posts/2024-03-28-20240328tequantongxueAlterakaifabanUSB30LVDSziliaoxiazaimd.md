@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "特权同学_Altera开发板（USB3.0+LVDS）资料下载"
+title: "特权同学Altera开发板USB30LVDS资料下载"
 date:   2024-04-04
 tags: [开发板,Altera,USB3.0,LVDS,特权]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q100中文版资源下载"
+title: "AECQ100中文版资源下载"
 date:   2020-11-10
 tags: [AEC,Q100,文件,中文版,资源]
 comments: true

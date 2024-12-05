@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJBZ 142-2004 军用软件安全性分析指南"
+title: "GJBZ 1422004 军用软件安全性分析指南"
 date:   2023-06-15
 tags: [安全性,军用,软件,指南,2004]
 comments: true

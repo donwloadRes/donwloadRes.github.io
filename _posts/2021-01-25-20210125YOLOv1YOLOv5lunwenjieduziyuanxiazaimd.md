@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv1-YOLOv5论文解读资源下载"
+title: "YOLOv1YOLOv5论文解读资源下载"
 date:   2022-09-10
 tags: [YOLOv1,YOLOv5,解读,论文,YOLO]
 comments: true

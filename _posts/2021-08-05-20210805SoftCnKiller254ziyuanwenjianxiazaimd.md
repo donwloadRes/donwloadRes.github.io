@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SoftCnKiller 2.54 资源文件下载"
+title: "SoftCnKiller 254 资源文件下载"
 date:   2022-12-25
 tags: [2.54,启动项,SoftCnKiller,工具,下载]
 comments: true

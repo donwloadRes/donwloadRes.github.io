@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delta机器人运动学算法C#源代码与VS工程文件"
+title: "Delta机器人运动学算法C源代码与VS工程文件"
 date:   2023-01-29
 tags: [源代码,文件,运动学,算法,Delta]
 comments: true

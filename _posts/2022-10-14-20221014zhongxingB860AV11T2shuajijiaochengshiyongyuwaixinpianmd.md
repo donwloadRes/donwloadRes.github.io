@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴B860AV1.1-T2刷机教程 适用于歪芯片"
+title: "中兴B860AV11T2刷机教程 适用于歪芯片"
 date:   2023-03-11
 tags: [刷机,教程,B860AV1.1,T2,机顶盒]
 comments: true

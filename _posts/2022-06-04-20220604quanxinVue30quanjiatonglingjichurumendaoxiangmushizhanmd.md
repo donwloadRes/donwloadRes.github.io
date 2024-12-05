@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全新Vue3.0全家桶 零基础入门到项目实战"
+title: "全新Vue30全家桶 零基础入门到项目实战"
 date:   2021-01-22
 tags: [Vue3.0,Vue,项目,组件,开发]
 comments: true

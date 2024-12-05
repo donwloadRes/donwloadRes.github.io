@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Windows美化指南】：轻松定制磁盘与U盘图标"
+title: "Windows美化指南轻松定制磁盘与U盘图标"
 date:   2024-11-25
 tags: [图标,磁盘,U盘,inf,Windows]
 comments: true

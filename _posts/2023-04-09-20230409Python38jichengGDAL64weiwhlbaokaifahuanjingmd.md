@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.8集成GDAL 64位whl包开发环境"
+title: "Python38集成GDAL 64位whl包开发环境"
 date:   2022-06-26
 tags: [GDAL,示例,Python3.8,64,whl]
 comments: true

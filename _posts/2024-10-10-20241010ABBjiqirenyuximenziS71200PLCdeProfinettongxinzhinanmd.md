@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人与西门子S7-1200 PLC的Profinet通信指南"
+title: "ABB机器人与西门子S71200 PLC的Profinet通信指南"
 date:   2024-02-24
 tags: [BB机,器人,PLC,Profinet,S7]
 comments: true

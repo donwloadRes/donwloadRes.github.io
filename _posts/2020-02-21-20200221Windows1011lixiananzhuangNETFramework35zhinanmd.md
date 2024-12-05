@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10-11 离线安装 .NET Framework 3.5 指南"
+title: "Windows 1011 离线安装 NET Framework 35 指南"
 date:   2020-09-29
 tags: [Windows,离线,安装,NET,Framework]
 comments: true

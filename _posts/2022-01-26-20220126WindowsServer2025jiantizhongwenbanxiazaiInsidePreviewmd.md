@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2025 简体中文版下载（Inside Preview）"
+title: "Windows Server 2025 简体中文版下载Inside Preview"
 date:   2023-04-28
 tags: [Windows,Server,2025,简体中文版,预览版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq UltraScale+ RFSoC 资源下载"
+title: "Zynq UltraScale RFSoC 资源下载"
 date:   2022-10-14
 tags: [UltraScale,RFSoC,射频,Zynq,RF]
 comments: true

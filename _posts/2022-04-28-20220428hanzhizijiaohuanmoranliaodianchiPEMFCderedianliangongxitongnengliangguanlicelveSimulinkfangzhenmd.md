@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "含质子交换膜燃料电池(PEMFC)的热电联供系统能量管理策略Simulink仿真"
+title: "含质子交换膜燃料电池PEMFC的热电联供系统能量管理策略Simulink仿真"
 date:   2020-08-16
 tags: [仿真,Simulink,PEMFC,电联,管理策略]
 comments: true

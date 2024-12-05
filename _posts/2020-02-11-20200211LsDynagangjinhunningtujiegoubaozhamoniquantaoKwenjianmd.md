@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ls-Dyna钢筋混凝土结构爆炸模拟全套K文件"
+title: "LsDyna钢筋混凝土结构爆炸模拟全套K文件"
 date:   2022-05-03
 tags: [Ls,Dyna,钢筋,文件,混凝土]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯省赛嵌入式设计与开发大学组（G431）完整实现代码"
+title: "蓝桥杯省赛嵌入式设计与开发大学组G431完整实现代码"
 date:   2022-05-26
 tags: [代码,CubeMX,蓝桥,省赛,嵌入式]
 comments: true

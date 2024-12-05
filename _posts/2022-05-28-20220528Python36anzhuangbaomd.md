@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6 安装包"
+title: "Python 36 安装包"
 date:   2022-01-25
 tags: [Python,3.6,安装包,安装,python3.6]
 comments: true

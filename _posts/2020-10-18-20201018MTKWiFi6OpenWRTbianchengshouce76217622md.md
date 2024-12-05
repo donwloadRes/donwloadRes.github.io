@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK WiFi6 OpenWRT 编程手册7621-7622"
+title: "MTK WiFi6 OpenWRT 编程手册76217622"
 date:   2024-04-22
 tags: [芯片,MTK,开发,WiFi6,编程]
 comments: true

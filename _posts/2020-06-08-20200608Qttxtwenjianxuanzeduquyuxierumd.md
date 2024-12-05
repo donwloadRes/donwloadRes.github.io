@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt——txt文件选择、读取与写入"
+title: "Qttxt文件选择读取与写入"
 date:   2021-05-21
 tags: [Qt,文件,读取,写入,txt]
 comments: true

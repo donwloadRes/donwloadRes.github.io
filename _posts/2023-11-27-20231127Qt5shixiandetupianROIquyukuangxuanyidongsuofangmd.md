@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5实现的图片ROI区域框选、移动、缩放"
+title: "Qt5实现的图片ROI区域框选移动缩放"
 date:   2022-10-16
 tags: [ROI,Qt5,缩放,框选,Visual]
 comments: true

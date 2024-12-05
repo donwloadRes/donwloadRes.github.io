@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abaqus分析用户手册 - 指定条件、约束与相互作用卷"
+title: "Abaqus分析用户手册  指定条件约束与相互作用卷"
 date:   2022-03-02
 tags: [Abaqus,分析,相互作用,用户手册,约束]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 2.0 规范文档下载"
+title: "USB 20 规范文档下载"
 date:   2023-08-19
 tags: [文档,USB,2.0,规范,PDF]
 comments: true

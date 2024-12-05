@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员用HTML5制作的3D相册免费下载（附源码）"
+title: "程序员用HTML5制作的3D相册免费下载附源码"
 date:   2024-08-23
 tags: [3D,HTML5,相册,程序员,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot 自习室座位预约系统（源码+数据库）"
+title: "SpringBoot 自习室座位预约系统源码数据库"
 date:   2020-06-30
 tags: [自习室,信息,数据库,预约,管理员]
 comments: true

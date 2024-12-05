@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法之美 - 电子书下载"
+title: "算法之美  电子书下载"
 date:   2020-07-03
 tags: [算法,之美,PDF,EPUB,下载]
 comments: true

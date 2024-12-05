@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA程序设计教程 第7版》PDF资源介绍"
+title: "JAVA程序设计教程 第7版PDF资源介绍"
 date:   2022-10-19
 tags: [Java,PDF,教程,学习,JAVA]
 comments: true

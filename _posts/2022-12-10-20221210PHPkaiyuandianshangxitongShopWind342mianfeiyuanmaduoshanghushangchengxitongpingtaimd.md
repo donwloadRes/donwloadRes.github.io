@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP开源电商系统ShopWind 3.4.2 免费源码多商户商城系统平台"
+title: "PHP开源电商系统ShopWind 342 免费源码多商户商城系统平台"
 date:   2021-02-02
 tags: [电商,ShopWind,体验,文档,源码]
 comments: true

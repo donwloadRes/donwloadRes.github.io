@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【MFC 控件美化教程】如何修改 ComboBox 样式 - 下拉列表背景色与按钮样式定制"
+title: "MFC 控件美化教程如何修改 ComboBox 样式  下拉列表背景色与按钮样式定制"
 date:   2023-03-28
 tags: [MFC,控件,ComboBox,自定义,样式]
 comments: true

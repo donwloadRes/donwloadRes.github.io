@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EC800M-NC模组MQTT协议连接阿里云物联网平台指导"
+title: "EC800MNC模组MQTT协议连接阿里云物联网平台指导"
 date:   2020-11-11
 tags: [云物,模组,阿里,联网,平台]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理——胡寿松第四版 PDF 下载"
+title: "自动控制原理胡寿松第四版 PDF 下载"
 date:   2020-08-17
 tags: [自动控制,下载,胡寿松,学习,理论]
 comments: true

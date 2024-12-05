@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载SOA软件架构技术规范1.0.pdf 下载仓库"
+title: "车载SOA软件架构技术规范10pdf 下载仓库"
 date:   2023-03-30
 tags: [软件架构,1.0,SOA,车载,技术规范]
 comments: true

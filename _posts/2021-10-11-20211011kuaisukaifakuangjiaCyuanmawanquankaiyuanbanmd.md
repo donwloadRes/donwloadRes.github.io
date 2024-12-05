@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速开发框架C#源码完全开源版"
+title: "快速开发框架C源码完全开源版"
 date:   2023-12-28
 tags: [开发,框架,开源,NET,开发者]
 comments: true

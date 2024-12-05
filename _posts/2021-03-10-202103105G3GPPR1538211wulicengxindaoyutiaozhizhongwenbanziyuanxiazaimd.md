@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G 3GPP R15 38.211物理层信道与调制（中文版）资源下载"
+title: "5G 3GPP R15 38211物理层信道与调制中文版资源下载"
 date:   2021-09-26
 tags: [5G,物理层,中文版,信道,资源]
 comments: true

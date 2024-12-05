@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用 Python 代码并使用第三方库的解决方案"
+title: "C 调用 Python 代码并使用第三方库的解决方案"
 date:   2022-06-26
 tags: [Python,调用,C#,Process,第三方]
 comments: true

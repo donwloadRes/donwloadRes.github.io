@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 版本驱动包下载"
+title: "MySQL 57 版本驱动包下载"
 date:   2023-09-13
 tags: [MySQL,JDBC,驱动,版本,5.7]
 comments: true

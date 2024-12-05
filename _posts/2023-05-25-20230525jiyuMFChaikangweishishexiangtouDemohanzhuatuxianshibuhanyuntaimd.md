@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MFC海康威视摄像头Demo（含抓图显示|不含云台）"
+title: "基于MFC海康威视摄像头Demo含抓图显示不含云台"
 date:   2022-03-05
 tags: [Demo,摄像头,云台,MFC,威视]
 comments: true

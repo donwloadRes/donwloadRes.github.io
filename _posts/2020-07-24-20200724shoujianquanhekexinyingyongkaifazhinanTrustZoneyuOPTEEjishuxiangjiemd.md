@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机安全和可信应用开发指南：TrustZone与OP-TEE技术详解"
+title: "手机安全和可信应用开发指南TrustZone与OPTEE技术详解"
 date:   2021-08-29
 tags: [TEE,可信,安全,手机,文件]
 comments: true

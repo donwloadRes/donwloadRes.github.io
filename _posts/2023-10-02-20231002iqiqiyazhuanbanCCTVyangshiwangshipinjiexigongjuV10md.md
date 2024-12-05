@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【iqiqiya专版】CCTV(央视网)视频解析工具V1.0"
+title: "iqiqiya专版CCTV央视网视频解析工具V10"
 date:   2021-02-27
 tags: [解析,视频,下载,工具,iqiqiya]
 comments: true

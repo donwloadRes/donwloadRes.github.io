@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019 C# 版本 YOLOv5 视觉检测"
+title: "VS2019 C 版本 YOLOv5 视觉检测"
 date:   2023-12-25
 tags: [YOLOv5,C#,NET,检测,Visual]
 comments: true

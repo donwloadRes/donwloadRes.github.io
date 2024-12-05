@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ORCAD 10.3 许可证生成程序"
+title: "ORCAD 103 许可证生成程序"
 date:   2024-10-11
 tags: [ORCAD,10.3,许可证,生成,文件]
 comments: true

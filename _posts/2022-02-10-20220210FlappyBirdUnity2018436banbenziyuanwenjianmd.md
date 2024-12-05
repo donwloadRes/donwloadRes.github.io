@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flappy Bird Unity 2018.4.36 版本资源文件"
+title: "Flappy Bird Unity 2018436 版本资源文件"
 date:   2022-08-03
 tags: [Unity,游戏,文件,资源,36]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AvalonEdit文本器+NRefactory代码提示+Roslyn动态编译"
+title: "AvalonEdit文本器NRefactory代码提示Roslyn动态编译"
 date:   2022-01-29
 tags: [代码,Roslyn,AvalonEdit,NRefactory,编译]
 comments: true

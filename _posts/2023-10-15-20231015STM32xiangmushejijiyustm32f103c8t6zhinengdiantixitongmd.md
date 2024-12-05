@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32项目设计：基于stm32f103c8t6智能电梯系统"
+title: "STM32项目设计基于stm32f103c8t6智能电梯系统"
 date:   2024-09-24
 tags: [电梯,STM32F103C8T6,电路,项目,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HarmonyOS 4.0 实战小项目：后端数据库探索"
+title: "HarmonyOS 40 实战小项目后端数据库探索"
 date:   2023-07-01
 tags: [HarmonyOS,MongoDB,数据库,数据,导入]
 comments: true

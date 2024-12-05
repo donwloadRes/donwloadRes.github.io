@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLITE3-SqlCipher-Openssl-ActiveTcl"
+title: "SQLITE3SqlCipherOpensslActiveTcl"
 date:   2020-10-21
 tags: [SqlCipher,SQLite3,ActiveTcl,编译,加密]
 comments: true

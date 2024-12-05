@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机串口接收数据并绘图"
+title: "C上位机串口接收数据并绘图"
 date:   2022-05-20
 tags: [串口,下位,接收数据,数据,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信跳转接口 - 引导用户在微信内打开外部浏览器进行APP下载"
+title: "微信跳转接口  引导用户在微信内打开外部浏览器进行APP下载"
 date:   2024-05-03
 tags: [微信,APP,跳转,下载,用户]
 comments: true

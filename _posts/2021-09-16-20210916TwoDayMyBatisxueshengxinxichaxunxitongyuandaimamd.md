@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwoDay-MyBatis 学生信息查询系统源代码"
+title: "TwoDayMyBatis 学生信息查询系统源代码"
 date:   2024-01-14
 tags: [MyBatis,源代码,项目,数据库,查询]
 comments: true

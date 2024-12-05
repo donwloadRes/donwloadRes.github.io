@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三相并网逆变器PSIM仿真模型：电流单环LCL滤波设计"
+title: "三相并网逆变器PSIM仿真模型电流单环LCL滤波设计"
 date:   2024-08-03
 tags: [PSIM,LCL,仿真,逆变器,模型]
 comments: true

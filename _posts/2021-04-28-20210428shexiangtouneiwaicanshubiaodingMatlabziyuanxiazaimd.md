@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摄像头内外参数标定（Matlab）资源下载"
+title: "摄像头内外参数标定Matlab资源下载"
 date:   2022-05-23
 tags: [标定,摄像头,Matlab,参数,内外]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Struts2框架漏洞总结与复现(上) 含Struts2检测工具"
+title: "Struts2框架漏洞总结与复现上 含Struts2检测工具"
 date:   2023-04-26
 tags: [Struts2,检测工具,漏洞,复现,框架]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用FSCapture工具录屏、截屏"
+title: "使用FSCapture工具录屏截屏"
 date:   2021-10-17
 tags: [录屏,FSCapture,截屏,截图,录制]
 comments: true

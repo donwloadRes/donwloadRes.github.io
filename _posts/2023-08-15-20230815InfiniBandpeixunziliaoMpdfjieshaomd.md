@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InfiniBand 培训资料 - M.pdf 介绍"
+title: "InfiniBand 培训资料  Mpdf 介绍"
 date:   2020-08-23
 tags: [InfiniBand,介绍,技术,这份,培训资料]
 comments: true

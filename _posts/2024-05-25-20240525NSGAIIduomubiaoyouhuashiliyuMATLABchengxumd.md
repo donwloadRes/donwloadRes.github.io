@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSGA-II 多目标优化实例与 MATLAB 程序"
+title: "NSGAII 多目标优化实例与 MATLAB 程序"
 date:   2024-07-19
 tags: [NSGA,II,优化,MATLAB,实例]
 comments: true

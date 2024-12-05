@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能原理：深入理解 AI 的基础知识"
+title: "人工智能原理深入理解 AI 的基础知识"
 date:   2024-03-19
 tags: [AI,人工智能,白皮书,原理,挑战]
 comments: true

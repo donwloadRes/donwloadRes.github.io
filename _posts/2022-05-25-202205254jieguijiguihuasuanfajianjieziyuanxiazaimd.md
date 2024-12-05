@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4 阶轨迹规划算法简介 - 资源下载"
+title: "4 阶轨迹规划算法简介  资源下载"
 date:   2020-09-17
 tags: [轨迹,速度限制,算法,规划,最大]
 comments: true

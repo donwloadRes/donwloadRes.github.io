@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C51（Keil4）软件安装指南"
+title: "Keil C51Keil4软件安装指南"
 date:   2024-11-17
 tags: [软件,C51,Keil,Keil4,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode 配置 Java 开发环境(纯小白图文教程)"
+title: "VScode 配置 Java 开发环境纯小白图文教程"
 date:   2024-06-28
 tags: [Java,Code,VS,VScode,配置]
 comments: true

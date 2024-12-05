@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Accelerator Infrastructure 项目概览 (OAM+UBB)"
+title: "Open Accelerator Infrastructure 项目概览 OAMUBB"
 date:   2024-08-13
 tags: [v2.0,模块,设计,规格,OAM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JxBrowser-6.21 资源文件下载"
+title: "JxBrowser621 资源文件下载"
 date:   2024-04-11
 tags: [JxBrowser,6.21,Java,文件,资源]
 comments: true

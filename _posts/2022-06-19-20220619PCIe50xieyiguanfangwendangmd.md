@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 5.0 协议官方文档"
+title: "PCIe 50 协议官方文档"
 date:   2021-05-03
 tags: [文档,PCIe,5.0,PCI,仓库]
 comments: true

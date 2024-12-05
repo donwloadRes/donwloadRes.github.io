@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFP-10G-LR 光模块数据手册"
+title: "SFP10GLR 光模块数据手册"
 date:   2024-07-09
 tags: [模块,SFP,10G,LR,手册]
 comments: true

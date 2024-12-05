@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android C++高级编程：使用NDK(完整版带书签) 下载仓库"
+title: "Android C高级编程使用NDK完整版带书签 下载仓库"
 date:   2021-07-26
 tags: [Android,C++,书签,编程,NDK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA开发资源：Lattice Diamond安装文件及License说明"
+title: "FPGA开发资源Lattice Diamond安装文件及License说明"
 date:   2020-05-10
 tags: [FPGA,Diamond,License,Lattice,安装]
 comments: true

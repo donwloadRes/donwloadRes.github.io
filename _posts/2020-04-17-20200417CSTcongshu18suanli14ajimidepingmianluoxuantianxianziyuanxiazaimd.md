@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CST丛书18算例14_阿基米德平面螺旋天线资源下载"
+title: "CST丛书18算例14阿基米德平面螺旋天线资源下载"
 date:   2021-03-17
 tags: [CST,18,14,阿基米德,天线]
 comments: true

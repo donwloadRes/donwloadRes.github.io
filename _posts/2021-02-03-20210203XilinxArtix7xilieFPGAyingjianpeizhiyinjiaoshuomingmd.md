@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Artix-7系列FPGA硬件配置引脚说明"
+title: "Xilinx Artix7系列FPGA硬件配置引脚说明"
 date:   2020-06-23
 tags: [FPGA,引脚,硬件,Artix,配置]
 comments: true

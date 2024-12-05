@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拉扎维射频微电子学》中文版资源共享"
+title: "拉扎维射频微电子学中文版资源共享"
 date:   2022-05-30
 tags: [射频,微电子学,中文版,拉扎,仓库]
 comments: true

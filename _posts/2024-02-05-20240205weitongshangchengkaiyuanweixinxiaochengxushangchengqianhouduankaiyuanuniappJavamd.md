@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微同商城开源微信小程序商城（前后端开源：uniapp+Java）"
+title: "微同商城开源微信小程序商城前后端开源uniappJava"
 date:   2024-03-29
 tags: [商城,开源,项目,微信,platform]
 comments: true

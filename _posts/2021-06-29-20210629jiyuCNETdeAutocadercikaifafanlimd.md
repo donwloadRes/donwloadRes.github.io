@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#.NET的Autocad二次开发范例"
+title: "基于CNET的Autocad二次开发范例"
 date:   2022-09-20
 tags: [Autocad,二次开发,C#,范例,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform数据库应用设计 (附开发案例)"
+title: "C Winform数据库应用设计 附开发案例"
 date:   2021-03-27
 tags: [C#,数据库,应用,案例,窗体]
 comments: true

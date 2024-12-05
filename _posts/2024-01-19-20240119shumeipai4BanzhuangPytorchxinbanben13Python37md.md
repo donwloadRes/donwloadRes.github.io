@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派4B+安装Pytorch新版本1.3（Python 3.7）"
+title: "树莓派4B安装Pytorch新版本13Python 37"
 date:   2024-03-23
 tags: [树莓,Pytorch,安装,1.3,4B]
 comments: true

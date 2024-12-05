@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Matlab下mex不到 MinGW-w64 编译器问题"
+title: "解决Matlab下mex不到 MinGWw64 编译器问题"
 date:   2021-03-03
 tags: [MinGW,w64,编译器,Matlab,mex]
 comments: true

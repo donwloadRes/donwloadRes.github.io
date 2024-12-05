@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NOC核桃编程马拉松真题解析（2020-2021）"
+title: "NOC核桃编程马拉松真题解析20202021"
 date:   2023-08-04
 tags: [编程,NOC,真题,马拉松,2020]
 comments: true

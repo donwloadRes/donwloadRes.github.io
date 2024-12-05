@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传智播客.NET就业班全套视频教程"
+title: "传智播客NET就业班全套视频教程"
 date:   2020-03-02
 tags: [NET,传智播,视频教程,开发,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 5.1 源码增强版 - 增加 FLV 对 H265-HEVC 支持"
+title: "FFmpeg 51 源码增强版  增加 FLV 对 H265HEVC 支持"
 date:   2023-11-16
 tags: [H265,FFmpeg,视频,FLV,编译]
 comments: true

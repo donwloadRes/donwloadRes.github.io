@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动力节点-SpringBoot3 资源下载"
+title: "动力节点SpringBoot3 资源下载"
 date:   2020-05-30
 tags: [SpringBoot3,文件,Spring,Boot,PDF]
 comments: true

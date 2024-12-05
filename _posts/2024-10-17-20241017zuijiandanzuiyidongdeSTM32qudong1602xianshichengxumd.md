@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单，最易懂的STM32驱动1602显示程序"
+title: "最简单最易懂的STM32驱动1602显示程序"
 date:   2022-05-19
 tags: [STM32,1602,易懂,下载,连接]
 comments: true

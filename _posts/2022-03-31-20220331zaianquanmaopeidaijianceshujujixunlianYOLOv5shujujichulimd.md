@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在安全帽佩戴检测数据集训练YOLOv5--数据集处理"
+title: "在安全帽佩戴检测数据集训练YOLOv5数据集处理"
 date:   2020-07-09
 tags: [数据,YOLOv5,训练,格式,安全帽]
 comments: true

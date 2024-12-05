@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴ZXV10 B863AV3.1-M2 线刷教程教学ROM下载"
+title: "中兴ZXV10 B863AV31M2 线刷教程教学ROM下载"
 date:   2024-05-12
 tags: [M2,刷机,机顶盒,B863AV3.1,线刷]
 comments: true

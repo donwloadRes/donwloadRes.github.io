@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LL库的STM32F030 GPIO、TIM和PWM例程"
+title: "基于LL库的STM32F030 GPIOTIM和PWM例程"
 date:   2022-01-05
 tags: [例程,LL,STM32F030,PWM,GPIO]
 comments: true

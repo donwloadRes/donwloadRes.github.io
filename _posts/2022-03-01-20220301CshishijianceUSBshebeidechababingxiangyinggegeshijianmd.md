@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实时检测USB设备的插拔并响应各个事件"
+title: "C 实时检测USB设备的插拔并响应各个事件"
 date:   2020-10-11
 tags: [USB,设备,事件处理,插拔,插入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国省级产业结构数据（2022-2000 年）"
+title: "中国省级产业结构数据20222000 年"
 date:   2024-01-27
 tags: [产业结构,增加值,GDP,高级化,数据]
 comments: true

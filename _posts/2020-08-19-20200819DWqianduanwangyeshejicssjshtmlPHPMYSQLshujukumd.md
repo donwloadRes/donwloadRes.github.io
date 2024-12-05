@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DW+前端网页设计(css+js+html)+PHP+MYSQL数据库"
+title: "DW前端网页设计cssjshtmlPHPMYSQL数据库"
 date:   2023-04-07
 tags: [网页,PHP,数据库,DW,学习]
 comments: true

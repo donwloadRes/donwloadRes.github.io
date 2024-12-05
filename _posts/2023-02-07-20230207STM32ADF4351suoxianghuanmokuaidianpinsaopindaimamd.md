@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ADF4351锁相环模块：点频扫频代码"
+title: "STM32ADF4351锁相环模块点频扫频代码"
 date:   2021-11-17
 tags: [ADF4351,STM32,点频,扫频,模块]
 comments: true

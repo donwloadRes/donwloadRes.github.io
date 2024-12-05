@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 苹果CMS 超级播放器资源 V1.0.8 专业无授权无加密版带资源列表 API"
+title: "2023 苹果CMS 超级播放器资源 V108 专业无授权无加密版带资源列表 API"
 date:   2024-03-17
 tags: [资源,播放器,列表,API,加密]
 comments: true

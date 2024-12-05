@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-GaussDB V1.0 培训教材下载"
+title: "HCIAGaussDB V10 培训教材下载"
 date:   2020-08-04
 tags: [数据库,GaussDB,华为,培训教材,HCIA]
 comments: true

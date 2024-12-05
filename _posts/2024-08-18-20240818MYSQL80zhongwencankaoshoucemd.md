@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MYSQL 8.0 中文参考手册"
+title: "MYSQL 80 中文参考手册"
 date:   2023-09-28
 tags: [MYSQL,8.0,参考手册,本手册,中文]
 comments: true

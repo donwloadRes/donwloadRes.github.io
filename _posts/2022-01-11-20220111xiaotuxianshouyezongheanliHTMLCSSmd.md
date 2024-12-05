@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小兔鲜首页综合案例（HTML+CSS）"
+title: "小兔鲜首页综合案例HTMLCSS"
 date:   2021-01-24
 tags: [CSS,HTML,项目,图片素材,样式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机软件文档编制规范》GB-T 8567-2016 资源下载"
+title: "计算机软件文档编制规范GBT 85672016 资源下载"
 date:   2024-09-24
 tags: [文档,软件开发,2016,规范,资源]
 comments: true

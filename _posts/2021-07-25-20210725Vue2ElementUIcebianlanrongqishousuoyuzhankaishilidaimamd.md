@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue2+Element-UI: 侧边栏容器收缩与展开示例代码"
+title: "Vue2ElementUI 侧边栏容器收缩与展开示例代码"
 date:   2024-08-23
 tags: [UI,侧边,Element,Vue,示例]
 comments: true

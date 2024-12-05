@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ORB-SLAM2详细安装教程(Ubuntu 18.04)"
+title: "ORBSLAM2详细安装教程Ubuntu 1804"
 date:   2024-04-19
 tags: [ORB,SLAM2,安装,Ubuntu,18.04]
 comments: true

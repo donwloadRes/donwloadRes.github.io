@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 Matlab2018a下SPM12 + CAT安装与使用指南（小白级）"
+title: "Win10 Matlab2018a下SPM12  CAT安装与使用指南小白级"
 date:   2021-02-14
 tags: [SPM12,CAT,Matlab,安装,图像]
 comments: true

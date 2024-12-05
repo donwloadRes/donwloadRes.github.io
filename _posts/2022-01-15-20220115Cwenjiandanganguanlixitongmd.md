@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#文件档案管理系统"
+title: "C文件档案管理系统"
 date:   2020-11-30
 tags: [文件,档案,管理系统,C#,系统]
 comments: true

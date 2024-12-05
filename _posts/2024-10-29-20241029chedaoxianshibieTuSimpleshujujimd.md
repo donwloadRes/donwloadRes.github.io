@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车道线识别--TuSimple数据集"
+title: "车道线识别TuSimple数据集"
 date:   2021-02-22
 tags: [数据,车道,标注,TuSimple,解压]
 comments: true

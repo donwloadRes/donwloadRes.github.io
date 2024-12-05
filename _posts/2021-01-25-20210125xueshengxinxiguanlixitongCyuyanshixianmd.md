@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统C++语言实现"
+title: "学生信息管理系统C语言实现"
 date:   2023-08-21
 tags: [学生,C++,信息管理系统,信息,管理]
 comments: true

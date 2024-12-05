@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus通用读取电表数据源码（STM32F103）"
+title: "Modbus通用读取电表数据源码STM32F103"
 date:   2020-09-01
 tags: [源码,STM32F103,Modbus,电表,读取]
 comments: true

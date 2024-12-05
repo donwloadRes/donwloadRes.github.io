@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川机器人TCP-IP通信指令代码"
+title: "安川机器人TCPIP通信指令代码"
 date:   2024-02-24
 tags: [安川,机器人,指令,TCP,IP]
 comments: true

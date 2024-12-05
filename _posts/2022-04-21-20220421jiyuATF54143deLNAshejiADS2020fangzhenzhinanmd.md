@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ATF54143的LNA设计 - ADS2020仿真指南"
+title: "基于ATF54143的LNA设计  ADS2020仿真指南"
 date:   2023-03-20
 tags: [设计,仿真,LNA,ATF54143,ADS2020]
 comments: true

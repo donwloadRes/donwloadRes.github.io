@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMAKE 3.25 Windows 版本"
+title: "CMAKE 325 Windows 版本"
 date:   2021-10-04
 tags: [Windows,3.25,CMake,构建,cmake]
 comments: true

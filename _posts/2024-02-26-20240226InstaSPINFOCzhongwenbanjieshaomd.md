@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InstaSPIN-FOC 中文版介绍"
+title: "InstaSPINFOC 中文版介绍"
 date:   2024-11-18
 tags: [FOC,InstaSPIN,软件,文件,中文版]
 comments: true

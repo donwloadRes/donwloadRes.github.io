@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言学习前期准备：安装和使用QT"
+title: "C语言学习前期准备安装和使用QT"
 date:   2023-04-27
 tags: [QT,安装,乱码,编译,C语言]
 comments: true

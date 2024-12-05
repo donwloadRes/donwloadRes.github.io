@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD二次开发API全文档（英文）"
+title: "AutoCAD二次开发API全文档英文"
 date:   2021-03-06
 tags: [文档,二次开发,AutoCAD,API,资源]
 comments: true

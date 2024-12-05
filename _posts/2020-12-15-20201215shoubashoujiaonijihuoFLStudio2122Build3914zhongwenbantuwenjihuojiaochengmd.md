@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你激活FL Studio 21.2.2 Build 3914中文版图文激活教程"
+title: "手把手教你激活FL Studio 2122 Build 3914中文版图文激活教程"
 date:   2021-07-26
 tags: [FL,Studio,激活,21.2,Build]
 comments: true

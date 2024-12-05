@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX 修复工具 【DirectX_Repair-v3.3】"
+title: "DirectX 修复工具 DirectXRepairv33"
 date:   2024-02-13
 tags: [DirectX,修复,工具,v3.3,Repair]
 comments: true

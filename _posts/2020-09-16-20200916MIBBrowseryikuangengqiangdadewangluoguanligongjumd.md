@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIB Browser：一款更强大的网络管理工具"
+title: "MIB Browser一款更强大的网络管理工具"
 date:   2024-11-01
 tags: [MIB,Browser,网络管理,用户,一款]
 comments: true

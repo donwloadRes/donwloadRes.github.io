@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Step7 V5.6 中文版下载"
+title: "Step7 V56 中文版下载"
 date:   2022-04-07
 tags: [中文版,Step7,V5.6,Windows,10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOSFET原理详解及实用指南-完整版"
+title: "MOSFET原理详解及实用指南完整版"
 date:   2020-08-14
 tags: [MOSFET,原理,驱动器,完整版,MOS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为IPD流程管理全攻略（2020最新完整版）"
+title: "华为IPD流程管理全攻略2020最新完整版"
 date:   2020-07-27
 tags: [IPD,流程,管理,华为,指南]
 comments: true

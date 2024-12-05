@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你下载ILSVRC2012（ImageNet2012）分类部分数据集以及使用Pytorch训练"
+title: "手把手教你下载ILSVRC2012ImageNet2012分类部分数据集以及使用Pytorch训练"
 date:   2020-02-06
 tags: [下载,Pytorch,ILSVRC2012,账号,训练]
 comments: true

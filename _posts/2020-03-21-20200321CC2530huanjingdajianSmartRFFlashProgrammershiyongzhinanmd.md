@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC2530环境搭建 - SmartRF Flash Programmer 使用指南"
+title: "CC2530环境搭建  SmartRF Flash Programmer 使用指南"
 date:   2020-11-26
 tags: [SmartRF,Flash,Programmer,固件,编程]
 comments: true

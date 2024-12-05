@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link弹出"The connected J-Link is defective"解决方法"
+title: "JLink弹出The connected JLink is defective解决方法"
 date:   2024-03-31
 tags: [Link,文档,固件,步骤,解决]
 comments: true

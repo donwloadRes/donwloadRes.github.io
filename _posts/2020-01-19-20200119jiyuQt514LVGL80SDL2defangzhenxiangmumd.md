@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt 5.14 + LVGL 8.0 + SDL2的仿真项目"
+title: "基于Qt 514  LVGL 80  SDL2的仿真项目"
 date:   2024-10-23
 tags: [Qt,LVGL,嵌入式,SDL2,UI]
 comments: true

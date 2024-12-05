@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 360°全方面性能调优指南"
+title: "Android 360全方面性能调优指南"
 date:   2022-01-03
 tags: [优化,应用,性能,Android,内存]
 comments: true

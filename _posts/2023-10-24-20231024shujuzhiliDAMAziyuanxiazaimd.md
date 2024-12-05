@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据治理-DAMA 资源下载"
+title: "数据治理DAMA 资源下载"
 date:   2022-06-04
 tags: [DAMA,治理,文件,数据,pdf]
 comments: true

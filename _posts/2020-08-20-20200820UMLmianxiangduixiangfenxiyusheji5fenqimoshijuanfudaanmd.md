@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML面向对象分析与设计 5份期末试卷（附答案）"
+title: "UML面向对象分析与设计 5份期末试卷附答案"
 date:   2021-10-12
 tags: [UML,试卷,学习,面向对象分析,设计]
 comments: true

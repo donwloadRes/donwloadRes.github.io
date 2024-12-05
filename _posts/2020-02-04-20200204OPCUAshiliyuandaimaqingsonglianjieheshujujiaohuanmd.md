@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC UA 示例源代码：轻松连接和数据交换"
+title: "OPC UA 示例源代码轻松连接和数据交换"
 date:   2022-10-01
 tags: [UA,OPC,源代码,示例,客户端]
 comments: true

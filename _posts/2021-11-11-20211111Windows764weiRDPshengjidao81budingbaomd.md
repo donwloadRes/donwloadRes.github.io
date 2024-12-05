@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7 64位 RDP升级到8.1补丁包"
+title: "Windows 7 64位 RDP升级到81补丁包"
 date:   2024-07-28
 tags: [补丁包,Windows,RDP,64,8.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速解决使用IDEA快速搭建SpringBoot项目（超详细）资源下载"
+title: "快速解决使用IDEA快速搭建SpringBoot项目超详细资源下载"
 date:   2022-09-05
 tags: [SpringBoot,IDEA,示例,快速,项目]
 comments: true

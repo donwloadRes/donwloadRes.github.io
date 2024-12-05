@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veeam ONE 11.0 补丁与许可证安装指南"
+title: "Veeam ONE 110 补丁与许可证安装指南"
 date:   2023-05-01
 tags: [VEEAM,许可证,补丁,Veeam,文件]
 comments: true

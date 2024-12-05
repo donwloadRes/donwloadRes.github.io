@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 重绘滚动条实现换皮肤"
+title: "C WinForm 重绘滚动条实现换皮肤"
 date:   2020-08-06
 tags: [滚动条,WinForm,重绘,皮肤,自定义]
 comments: true

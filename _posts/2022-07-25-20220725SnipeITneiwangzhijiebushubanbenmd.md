@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snipe-IT 内网直接部署版本"
+title: "SnipeIT 内网直接部署版本"
 date:   2024-01-12
 tags: [Snipe,文件,内网,数据库,部署]
 comments: true

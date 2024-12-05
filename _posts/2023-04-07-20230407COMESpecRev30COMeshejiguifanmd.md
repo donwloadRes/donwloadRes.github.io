@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COM-E Spec Rev3.0 - COMe设计规范"
+title: "COME Spec Rev30  COMe设计规范"
 date:   2022-04-26
 tags: [COM,Express,Rev3.0,Spec,设计规范]
 comments: true

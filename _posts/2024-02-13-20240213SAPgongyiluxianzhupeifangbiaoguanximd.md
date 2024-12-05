@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP 工艺路线（主配方）表关系"
+title: "SAP 工艺路线主配方表关系"
 date:   2021-03-09
 tags: [SAP,路线,工艺,Tables,关系]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全双麦克风降噪消回音芯片NR-2047设计文档"
+title: "全双麦克风降噪消回音芯片NR2047设计文档"
 date:   2022-09-08
 tags: [NR,2047,芯片,音频,文档]
 comments: true

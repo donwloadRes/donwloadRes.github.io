@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 C# 读取.nc 文件资源获取"
+title: "2023 C 读取nc 文件资源获取"
 date:   2020-04-15
 tags: [nc,文件,C#,读取,Visual]
 comments: true

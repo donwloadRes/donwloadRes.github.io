@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART编程示例集合"
+title: "S7200 SMART编程示例集合"
 date:   2023-02-25
 tags: [S7,200,SMART,示例,编程]
 comments: true

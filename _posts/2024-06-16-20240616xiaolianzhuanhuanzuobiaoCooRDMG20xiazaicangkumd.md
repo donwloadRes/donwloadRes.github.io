@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "笑脸转换坐标CooRD-MG2.0 下载仓库"
+title: "笑脸转换坐标CooRDMG20 下载仓库"
 date:   2021-06-30
 tags: [坐标,笑脸,转换,CooRD,MG2.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文字转语音软件VoiceReader（免安装版）"
+title: "文字转语音软件VoiceReader免安装版"
 date:   2022-05-14
 tags: [语音,文字,软件,转换,人声]
 comments: true

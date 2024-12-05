@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI固件规范修订版3.2（2015年1月26日）资源下载"
+title: "PCI固件规范修订版322015年1月26日资源下载"
 date:   2023-04-13
 tags: [固件,PCI,规范,26,修订版]
 comments: true

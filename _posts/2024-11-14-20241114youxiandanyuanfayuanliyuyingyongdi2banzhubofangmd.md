@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限单元法原理与应用（第2版）- 朱伯芳"
+title: "有限单元法原理与应用第2版 朱伯芳"
 date:   2023-12-16
 tags: [朱伯芳,PDF,单元,有限,应用]
 comments: true

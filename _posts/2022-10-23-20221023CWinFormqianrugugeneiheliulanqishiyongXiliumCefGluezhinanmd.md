@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 嵌入谷歌内核浏览器：使用Xilium.CefGlue指南"
+title: "C WinForm 嵌入谷歌内核浏览器使用XiliumCefGlue指南"
 date:   2024-09-17
 tags: [Xilium,CefGlue,浏览器,NET,WinForm]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 破解资源下载"
+title: "Source Insight 40 破解资源下载"
 date:   2023-04-21
 tags: [Source,Insight,4.0,破解,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android模仿手机京东商城实训小项目（含源码）"
+title: "Android模仿手机京东商城实训小项目含源码"
 date:   2022-06-29
 tags: [Android,商城,项目,源码,实训]
 comments: true

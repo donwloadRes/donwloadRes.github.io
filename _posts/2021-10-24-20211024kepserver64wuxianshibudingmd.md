@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kepserver 6.4 无限时补丁"
+title: "kepserver 64 无限时补丁"
 date:   2024-01-08
 tags: [补丁,KEPServerEX,6.4,使用,仓库]
 comments: true

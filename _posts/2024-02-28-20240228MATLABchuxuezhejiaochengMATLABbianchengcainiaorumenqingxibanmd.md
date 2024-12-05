@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB初学者教程 MATLAB编程-菜鸟入门（清晰版）"
+title: "MATLAB初学者教程 MATLAB编程菜鸟入门清晰版"
 date:   2020-02-09
 tags: [MATLAB,编程,初学者,教程,入门]
 comments: true

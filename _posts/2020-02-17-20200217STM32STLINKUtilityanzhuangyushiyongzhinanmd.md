@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ST-LINK Utility安装与使用指南"
+title: "STM32 STLINK Utility安装与使用指南"
 date:   2020-10-23
 tags: [STM32,ST,LINK,Utility,安装]
 comments: true

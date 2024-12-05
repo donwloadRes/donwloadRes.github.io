@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "注记转宗地属性（CAD-CASS插件）"
+title: "注记转宗地属性CADCASS插件"
 date:   2023-02-03
 tags: [插件,注记,CASS,CAD,刷写]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Approaching (Almost) Any Machine Learning Problem》资源下载"
+title: "Approaching Almost Any Machine Learning Problem资源下载"
 date:   2021-09-02
 tags: [Approaching,Almost,Any,Machine,Learning]
 comments: true

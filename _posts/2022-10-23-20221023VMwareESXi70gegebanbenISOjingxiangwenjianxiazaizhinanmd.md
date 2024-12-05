@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 7.0 各个版本 ISO 镜像文件下载指南"
+title: "VMware ESXi 70 各个版本 ISO 镜像文件下载指南"
 date:   2021-06-21
 tags: [7.0,版本,ESXi,下载,VMware]
 comments: true

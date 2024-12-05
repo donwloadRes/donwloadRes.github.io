@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ WebSocket 实现：轻量级服务器与客户端库"
+title: "CC WebSocket 实现轻量级服务器与客户端库"
 date:   2024-02-03
 tags: [客户端,WebSocket,C++,++,服务器]
 comments: true

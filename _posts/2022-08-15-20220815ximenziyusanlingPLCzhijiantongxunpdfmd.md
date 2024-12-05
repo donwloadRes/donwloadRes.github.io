@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子与三菱PLC之间通讯.pdf"
+title: "西门子与三菱PLC之间通讯pdf"
 date:   2021-08-22
 tags: [PLC,通讯,文档,西门子,IGT]
 comments: true

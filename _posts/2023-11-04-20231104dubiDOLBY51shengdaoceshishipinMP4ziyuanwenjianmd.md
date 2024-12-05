@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杜比DOLBY 5.1声道测试视频MP4资源文件"
+title: "杜比DOLBY 51声道测试视频MP4资源文件"
 date:   2022-09-06
 tags: [声道,测试,5.1,MP4,视频]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS 9.5 3合一版本资源下载"
+title: "PADS 95 3合一版本资源下载"
 date:   2023-08-13
 tags: [9.5,PADS,版本,合一,安装]
 comments: true

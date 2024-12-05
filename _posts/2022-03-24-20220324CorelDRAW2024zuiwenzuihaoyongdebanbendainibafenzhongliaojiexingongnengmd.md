@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW2024最稳最好用的版本，带你八分钟了解新功能"
+title: "CorelDRAW2024最稳最好用的版本带你八分钟了解新功能"
 date:   2023-05-18
 tags: [CorelDRAW2024,设计,用户,实时,功能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于卷积神经网络(CNN)的数据回归预测 MATLAB实现"
+title: "基于卷积神经网络CNN的数据回归预测 MATLAB实现"
 date:   2023-01-26
 tags: [MATLAB,CNN,卷积,代码,神经网络]
 comments: true

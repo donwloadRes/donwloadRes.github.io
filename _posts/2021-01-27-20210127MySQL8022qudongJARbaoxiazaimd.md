@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.22 驱动 JAR 包下载"
+title: "MySQL 8022 驱动 JAR 包下载"
 date:   2021-10-04
 tags: [MySQL,22,JAR,8.0,jar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言学习资源：Microsoft Visual C++ 2010 学习版软件包"
+title: "C语言学习资源Microsoft Visual C 2010 学习版软件包"
 date:   2021-08-04
 tags: [C++,C语言,学习,安装,软件包]
 comments: true

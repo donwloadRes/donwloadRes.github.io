@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtCharts 5.7.0 开源源码包"
+title: "QtCharts 570 开源源码包"
 date:   2022-09-05
 tags: [5.7,源码,QtCharts,文件,qtcharts]
 comments: true

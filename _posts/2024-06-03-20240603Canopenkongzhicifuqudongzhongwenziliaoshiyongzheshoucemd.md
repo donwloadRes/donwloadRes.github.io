@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Canopen控制伺服驱动中文资料（使用者手册）"
+title: "Canopen控制伺服驱动中文资料使用者手册"
 date:   2021-03-12
 tags: [Canopen,伺服,手册,协议,使用者]
 comments: true

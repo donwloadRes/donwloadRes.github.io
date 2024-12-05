@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BANDZIP 6.29版本：高效免费压缩工具"
+title: "BANDZIP 629版本高效免费压缩工具"
 date:   2022-09-19
 tags: [压缩,解压,BandZip,格式,压缩包]
 comments: true

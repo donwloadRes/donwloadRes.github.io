@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理（龙书）资源下载"
+title: "编译原理龙书资源下载"
 date:   2021-12-05
 tags: [编译,龙书,原理,PDF,下载]
 comments: true

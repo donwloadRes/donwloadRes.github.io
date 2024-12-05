@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC18004 2006 QR二维码标准 中文翻译版"
+title: "ISOIEC18004 2006 QR二维码标准 中文翻译版"
 date:   2021-04-06
 tags: [二维码,QR,中文翻译,翻译,ISO]
 comments: true

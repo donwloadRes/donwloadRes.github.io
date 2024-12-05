@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bioage：使用标准算法计算生物年龄"
+title: "bioage使用标准算法计算生物年龄"
 date:   2022-03-09
 tags: [bioage,年龄,生物,使用,估算]
 comments: true

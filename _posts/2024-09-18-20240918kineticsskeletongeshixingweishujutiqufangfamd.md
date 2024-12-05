@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kinetics-skeleton格式行为数据提取方法"
+title: "kineticsskeleton格式行为数据提取方法"
 date:   2023-10-11
 tags: [格式,kinetics,skeleton,提取,行为]
 comments: true

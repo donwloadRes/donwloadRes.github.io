@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD二次开发：ObjectARX侧边工具栏示例"
+title: "AutoCAD二次开发ObjectARX侧边工具栏示例"
 date:   2020-09-03
 tags: [AutoCAD,ObjectARX,示例,二次开发,工具栏]
 comments: true

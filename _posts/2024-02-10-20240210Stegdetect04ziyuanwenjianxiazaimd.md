@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stegdetect 0.4 资源文件下载"
+title: "Stegdetect 04 资源文件下载"
 date:   2023-03-07
 tags: [下载,文件,0.4,stegdetect0.4,zip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费C#解析DXF netdxf DXF类库"
+title: "免费C解析DXF netdxf DXF类库"
 date:   2024-08-28
 tags: [类库,DXF,解析,文件,C#]
 comments: true

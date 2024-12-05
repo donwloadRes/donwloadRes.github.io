@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现R-CNN目标检测"
+title: "MATLAB实现RCNN目标检测"
 date:   2023-03-22
 tags: [训练,CNN,stop,sign,图像]
 comments: true

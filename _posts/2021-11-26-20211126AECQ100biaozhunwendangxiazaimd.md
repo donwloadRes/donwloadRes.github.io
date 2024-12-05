@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q100 标准文档下载"
+title: "AECQ100 标准文档下载"
 date:   2021-01-09
 tags: [Q100,AEC,文档,器件,工作温度]
 comments: true

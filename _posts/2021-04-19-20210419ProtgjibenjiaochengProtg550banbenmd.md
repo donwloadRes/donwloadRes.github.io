@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protégé基本教程【Protégé5.5.0版本】"
+title: "Protg基本教程Protg550版本"
 date:   2024-04-15
 tags: [Prot,本体,属性,教程,版本]
 comments: true

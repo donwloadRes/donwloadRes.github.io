@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SolVES 4.1模型安装教程"
+title: "SolVES 41模型安装教程"
 date:   2024-05-19
 tags: [安装,教程,SolVES,4.1,模型]
 comments: true

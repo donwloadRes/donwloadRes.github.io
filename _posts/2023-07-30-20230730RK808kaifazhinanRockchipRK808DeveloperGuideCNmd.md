@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK808开发指南 Rockchip_RK808_Developer_Guide_CN"
+title: "RK808开发指南 RockchipRK808DeveloperGuideCN"
 date:   2023-12-23
 tags: [RK808,LDO,DCDC,指南,开发]
 comments: true

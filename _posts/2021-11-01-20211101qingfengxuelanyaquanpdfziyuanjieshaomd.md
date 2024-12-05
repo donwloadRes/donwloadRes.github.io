@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青风学蓝牙(全).pdf 资源介绍"
+title: "青风学蓝牙全pdf 资源介绍"
 date:   2021-10-28
 tags: [蓝牙,青风,pdf,文件,学习]
 comments: true

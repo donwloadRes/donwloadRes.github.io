@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I2C英文原版协议 Version 2.1"
+title: "I2C英文原版协议 Version 21"
 date:   2024-11-19
 tags: [I2C,设备,总线,英文原版,Version]
 comments: true

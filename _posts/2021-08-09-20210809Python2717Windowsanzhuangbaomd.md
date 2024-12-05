@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 2.7.17 Windows 安装包"
+title: "Python 2717 Windows 安装包"
 date:   2023-06-30
 tags: [Python,安装包,安装,2.7,17]
 comments: true

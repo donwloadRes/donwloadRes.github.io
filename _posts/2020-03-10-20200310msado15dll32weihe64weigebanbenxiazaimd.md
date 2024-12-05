@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "msado15.dll 32位和64位各版本下载"
+title: "msado15dll 32位和64位各版本下载"
 date:   2022-01-08
 tags: [Windows,msado15,dll,版本号,文件]
 comments: true

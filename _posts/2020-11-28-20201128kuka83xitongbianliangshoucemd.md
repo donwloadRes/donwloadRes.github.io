@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "库卡8.3系统变量手册"
+title: "库卡83系统变量手册"
 date:   2023-08-09
 tags: [库卡,8.3,手册,变量,系统]
 comments: true

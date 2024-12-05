@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I3C 总线规范 v1.0 下载仓库"
+title: "I3C 总线规范 v10 下载仓库"
 date:   2024-04-29
 tags: [I3C,总线,v1.0,板级,文档]
 comments: true

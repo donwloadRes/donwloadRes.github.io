@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Posix标准接口文档(英文版)下载"
+title: "Posix标准接口文档英文版下载"
 date:   2022-12-14
 tags: [文档,Posix,标准接口,英文版,操作系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 通过FFmpeg将RTSP视频流保存为本地MP4文件"
+title: "C 通过FFmpeg将RTSP视频流保存为本地MP4文件"
 date:   2021-04-30
 tags: [视频流,FFmpeg,C++,文件,源代码]
 comments: true

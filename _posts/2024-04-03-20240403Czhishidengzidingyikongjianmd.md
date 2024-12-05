@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#指示灯自定义控件"
+title: "C指示灯自定义控件"
 date:   2024-03-12
 tags: [控件,指示灯,自定义,闪烁,C#]
 comments: true

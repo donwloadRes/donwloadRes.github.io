@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统规划与管理师真题讲解(最新版)"
+title: "系统规划与管理师真题讲解最新版"
 date:   2023-11-07
 tags: [讲解,最新版,规划,师真题,考试]
 comments: true

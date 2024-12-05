@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现USB HID设备读写代码"
+title: "C实现USB HID设备读写代码"
 date:   2021-10-21
 tags: [USB,HID,设备,代码,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 14.1 中文手册下载"
+title: "PostgreSQL 141 中文手册下载"
 date:   2022-05-12
 tags: [PostgreSQL,手册,中文,14.1,下载]
 comments: true

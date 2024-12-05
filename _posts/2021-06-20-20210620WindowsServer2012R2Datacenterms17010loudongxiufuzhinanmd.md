@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012 R2 Datacenter ms17-010漏洞修复指南"
+title: "Windows Server 2012 R2 Datacenter ms17010漏洞修复指南"
 date:   2022-06-04
 tags: [x64,msu,安装,Windows8.1,windows8.1]
 comments: true

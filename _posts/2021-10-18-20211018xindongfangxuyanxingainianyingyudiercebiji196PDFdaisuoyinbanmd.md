@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新东方 徐燕 新概念英语第二册 笔记（1-96）PDF 带索引版"
+title: "新东方 徐燕 新概念英语第二册 笔记196PDF 带索引版"
 date:   2023-07-04
 tags: [笔记,索引,第二册,PDF,课文]
 comments: true

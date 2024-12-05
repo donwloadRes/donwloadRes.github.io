@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于AT89C52单片机的八路抢答器-2"
+title: "基于AT89C52单片机的八路抢答器2"
 date:   2023-06-30
 tags: [单片机,AT89C52,抢答器,八路,HEX]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 4728电气简图用图形符号资源下载"
+title: "GBT 4728电气简图用图形符号资源下载"
 date:   2020-10-18
 tags: [图形符号,简图,电气,文件,GB]
 comments: true

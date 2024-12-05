@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSNR和SSIM-MATLAB实现"
+title: "PSNR和SSIMMATLAB实现"
 date:   2023-02-26
 tags: [图像,PSNR,SSIM,MATLAB,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethercat从站协议代码工具SSC_V5.12 介绍"
+title: "Ethercat从站协议代码工具SSCV512 介绍"
 date:   2024-05-21
 tags: [Ethercat,代码,工具,V5.12,SSC]
 comments: true

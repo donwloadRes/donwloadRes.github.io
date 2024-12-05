@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思 DDR3 IP核（MIG）详细文档"
+title: "赛灵思 DDR3 IP核MIG详细文档"
 date:   2020-02-14
 tags: [文档,DDR3,IP,赛灵思,MIG]
 comments: true

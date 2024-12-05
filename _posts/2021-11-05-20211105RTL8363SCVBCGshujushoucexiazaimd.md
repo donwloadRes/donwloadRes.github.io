@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8363SC-VB-CG 数据手册下载"
+title: "RTL8363SCVBCG 数据手册下载"
 date:   2021-08-29
 tags: [RTL8363SC,VB,CG,文件,下载]
 comments: true

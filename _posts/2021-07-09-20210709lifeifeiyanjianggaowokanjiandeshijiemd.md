@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李飞飞演讲稿：我看见的世界"
+title: "李飞飞演讲稿我看见的世界"
 date:   2023-03-25
 tags: [李飞飞,演讲稿,Fei,文件,R213]
 comments: true

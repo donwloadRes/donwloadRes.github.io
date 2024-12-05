@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tftpd32+ tftpd64文件传输安装和使用教程"
+title: "tftpd32 tftpd64文件传输安装和使用教程"
 date:   2024-03-08
 tags: [教程,文件传输,tftpd32,tftpd64,安装]
 comments: true

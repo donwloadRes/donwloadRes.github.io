@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kivy打包apk教程（含kivydev64)2022最新可用"
+title: "Kivy打包apk教程含kivydev642022最新可用"
 date:   2022-01-14
 tags: [Kivy,打包,教程,APK,kivydev64]
 comments: true

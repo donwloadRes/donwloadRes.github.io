@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++游戏开发经典案例详解.pdf"
+title: "Visual C游戏开发经典案例详解pdf"
 date:   2021-12-05
 tags: [游戏,C++,开发,Visual,案例]
 comments: true

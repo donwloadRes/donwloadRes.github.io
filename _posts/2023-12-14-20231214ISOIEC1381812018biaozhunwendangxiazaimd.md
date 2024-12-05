@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 13818-1 2018 标准文档下载"
+title: "ISOIEC 138181 2018 标准文档下载"
 date:   2023-12-09
 tags: [2018,文件,ISO,IEC,PDF]
 comments: true

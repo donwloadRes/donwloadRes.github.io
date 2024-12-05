@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 一去丶二三里 Blog（一）"
+title: "Qt 一去丶二三里 Blog一"
 date:   2020-11-03
 tags: [Qt,Blog,二三里,PDF,一去]
 comments: true

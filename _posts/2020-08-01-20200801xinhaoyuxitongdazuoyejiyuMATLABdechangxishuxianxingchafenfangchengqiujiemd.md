@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统大作业：基于MATLAB的常系数线性差分方程求解"
+title: "信号与系统大作业基于MATLAB的常系数线性差分方程求解"
 date:   2020-11-17
 tags: [MATLAB,差分,方程,文档,求解]
 comments: true

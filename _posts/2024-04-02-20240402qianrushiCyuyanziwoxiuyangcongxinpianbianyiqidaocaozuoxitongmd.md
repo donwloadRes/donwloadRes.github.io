@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式C语言自我修养 从芯片、编译器到操作系统"
+title: "嵌入式C语言自我修养 从芯片编译器到操作系统"
 date:   2023-12-22
 tags: [编译器,嵌入式,C语言,芯片,操作系统]
 comments: true

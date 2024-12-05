@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacOS 安装 VMware Fusion 及 CentOS7 (ARM 64 版本) 教程"
+title: "MacOS 安装 VMware Fusion 及 CentOS7 ARM 64 版本 教程"
 date:   2023-01-19
 tags: [虚拟机,CentOS,VMware,Fusion,安装]
 comments: true

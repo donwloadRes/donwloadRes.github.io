@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非结构数据分析与建模——垃圾短信数据集"
+title: "非结构数据分析与建模垃圾短信数据集"
 date:   2022-08-19
 tags: [短信,垃圾,数据,mescon,模型]
 comments: true

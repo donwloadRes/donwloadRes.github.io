@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医学图像算法U-Net和U-Net++的Darknet开源实现"
+title: "医学图像算法UNet和UNet的Darknet开源实现"
 date:   2022-11-15
 tags: [Net,训练,Darknet,配置文件,模型]
 comments: true

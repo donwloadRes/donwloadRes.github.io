@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MQTTnet 快速实现 MQTT 通信示例"
+title: "C MQTTnet 快速实现 MQTT 通信示例"
 date:   2023-10-14
 tags: [MQTT,示例,MQTTnet,C#,NET]
 comments: true

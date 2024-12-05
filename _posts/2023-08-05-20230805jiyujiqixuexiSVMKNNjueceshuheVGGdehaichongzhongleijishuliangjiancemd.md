@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于机器学习SVM、KNN、决策树和VGG的害虫种类及数量检测"
+title: "基于机器学习SVMKNN决策树和VGG的害虫种类及数量检测"
 date:   2023-08-17
 tags: [毕业设计,害虫,数据,VGG,Python]
 comments: true

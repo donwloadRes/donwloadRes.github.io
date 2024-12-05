@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海洋目标检测数据集 - Trash-ICRA19 Dataset"
+title: "海洋目标检测数据集  TrashICRA19 Dataset"
 date:   2023-01-15
 tags: [数据,检测,目标,数据量,Trash]
 comments: true

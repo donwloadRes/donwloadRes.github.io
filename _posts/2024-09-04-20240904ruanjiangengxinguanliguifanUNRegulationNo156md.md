@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件更新管理规范 - UN Regulation No.156"
+title: "软件更新管理规范  UN Regulation No156"
 date:   2024-03-29
 tags: [软件,更新,UN,Regulation,No.156]
 comments: true

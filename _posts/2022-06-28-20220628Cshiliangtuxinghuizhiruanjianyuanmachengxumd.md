@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#矢量图形绘制软件——源码程序"
+title: "C矢量图形绘制软件源码程序"
 date:   2020-03-02
 tags: [图形,支持,绘制,修改,要素]
 comments: true

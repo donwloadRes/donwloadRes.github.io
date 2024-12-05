@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openGL期末大作业——行走的机器人"
+title: "openGL期末大作业行走的机器人"
 date:   2022-03-23
 tags: [机器人,OpenGL,绘制,实验报告,模型]
 comments: true

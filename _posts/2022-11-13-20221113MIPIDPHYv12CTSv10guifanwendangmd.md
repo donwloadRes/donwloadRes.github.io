@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY v1.2 CTS v1.0 规范文档"
+title: "MIPI DPHY v12 CTS v10 规范文档"
 date:   2023-10-15
 tags: [PHY,MIPI,文档,v1.2,CTS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tanner EDA L-Edit V13 安装包资源"
+title: "Tanner EDA LEdit V13 安装包资源"
 date:   2022-09-19
 tags: [安装包,Edit,V13,Tanner,EDA]
 comments: true

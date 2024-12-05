@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高级自动排产系统(带实例) 资源下载"
+title: "高级自动排产系统带实例 资源下载"
 date:   2024-10-24
 tags: [实例,APS,排产,资源,文件]
 comments: true

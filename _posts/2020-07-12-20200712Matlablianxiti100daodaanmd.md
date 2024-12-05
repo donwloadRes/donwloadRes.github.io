@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab练习题（100道）答案"
+title: "Matlab练习题100道答案"
 date:   2022-07-11
 tags: [Matlab,练习题,编程,100,答案]
 comments: true

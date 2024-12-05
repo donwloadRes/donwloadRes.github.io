@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器驱动 - ChromeDriver 116.0.5845.96"
+title: "谷歌浏览器驱动  ChromeDriver 1160584596"
 date:   2020-01-16
 tags: [ChromeDriver,5845.96,浏览器,116.0,chromedriver]
 comments: true

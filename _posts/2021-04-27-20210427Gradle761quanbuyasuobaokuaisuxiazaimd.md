@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.6.1 全部压缩包快速下载"
+title: "Gradle 761 全部压缩包快速下载"
 date:   2022-02-27
 tags: [Gradle,7.6,版本,下载,压缩包]
 comments: true

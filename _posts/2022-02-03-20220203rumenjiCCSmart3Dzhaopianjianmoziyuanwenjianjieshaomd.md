@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "入门级CC(Smart3D)照片建模资源文件介绍"
+title: "入门级CCSmart3D照片建模资源文件介绍"
 date:   2021-05-06
 tags: [照片,建模,模型,CC,软件]
 comments: true

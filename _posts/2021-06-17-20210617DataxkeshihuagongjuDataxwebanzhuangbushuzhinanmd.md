@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Datax可视化工具Datax-web安装部署指南"
+title: "Datax可视化工具Dataxweb安装部署指南"
 date:   2020-11-11
 tags: [任务,Datax,web,支持,同步]
 comments: true

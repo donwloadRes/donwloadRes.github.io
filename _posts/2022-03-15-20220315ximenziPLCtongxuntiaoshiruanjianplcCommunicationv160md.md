@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC通讯调试软件 plcCommunication v1.6.0"
+title: "西门子PLC通讯调试软件 plcCommunication v160"
 date:   2022-06-26
 tags: [PLC,通讯,调试,西门子,v1.6]
 comments: true

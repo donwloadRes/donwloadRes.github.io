@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 窗体（WInform）界面开发大全"
+title: "C 窗体WInform界面开发大全"
 date:   2021-06-01
 tags: [WInform,模块,开发,界面,字典]
 comments: true

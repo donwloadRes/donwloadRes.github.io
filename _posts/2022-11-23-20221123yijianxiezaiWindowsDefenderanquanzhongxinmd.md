@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键卸载Windows Defender、安全中心"
+title: "一键卸载Windows Defender安全中心"
 date:   2023-09-04
 tags: [Windows,卸载,Defender,文件,安全]
 comments: true

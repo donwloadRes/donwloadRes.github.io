@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台达PLC Modbus通信上位机64位C#实例"
+title: "台达PLC Modbus通信上位机64位C实例"
 date:   2022-05-09
 tags: [PLC,台达,Modbus,64,Visual]
 comments: true

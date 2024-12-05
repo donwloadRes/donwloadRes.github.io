@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB EMD-EEMD 计算项目"
+title: "MATLAB EMDEEMD 计算项目"
 date:   2022-09-26
 tags: [EMD,EEMD,MATLAB,模态,IMF]
 comments: true

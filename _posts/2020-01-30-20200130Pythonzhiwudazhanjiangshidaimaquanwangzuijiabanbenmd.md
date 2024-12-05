@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python植物大战僵尸代码 - 全网最佳版本"
+title: "Python植物大战僵尸代码  全网最佳版本"
 date:   2020-05-27
 tags: [僵尸,植物,关卡,版本,射手]
 comments: true

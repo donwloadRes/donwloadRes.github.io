@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 安装及使用指南"
+title: "Quartus II 131 安装及使用指南"
 date:   2023-01-14
 tags: [Quartus,II,13.1,安装,仿真]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows子系统WSL - LxRunOffline v3.5.0-11-gfdab71a-msvc"
+title: "Windows子系统WSL  LxRunOffline v35011gfdab71amsvc"
 date:   2021-12-07
 tags: [WSL,LxRunOffline,Windows,11,gfdab71a]
 comments: true

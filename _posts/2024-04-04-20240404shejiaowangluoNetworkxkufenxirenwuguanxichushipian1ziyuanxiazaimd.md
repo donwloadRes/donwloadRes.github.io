@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "社交网络Networkx库分析人物关系（初识篇）1 资源下载"
+title: "社交网络Networkx库分析人物关系初识篇1 资源下载"
 date:   2023-01-18
 tags: [Networkx,社交,网络分析,资源,示例]
 comments: true

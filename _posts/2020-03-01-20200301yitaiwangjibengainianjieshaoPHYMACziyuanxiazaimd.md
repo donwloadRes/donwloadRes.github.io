@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "以太网基本概念介绍 - PHY & MAC 资源下载"
+title: "以太网基本概念介绍  PHY  MAC 资源下载"
 date:   2022-01-23
 tags: [以太网,PHY,MAC,基本概念,下载]
 comments: true

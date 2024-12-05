@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赤兔Bitlocker分区解密恢复工具 v10.3"
+title: "赤兔Bitlocker分区解密恢复工具 v103"
 date:   2020-04-28
 tags: [Bitlocker,分区,解密,分区表,赤兔]
 comments: true

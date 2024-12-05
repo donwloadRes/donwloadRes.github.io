@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZC706+AD9371 标准应用程序"
+title: "ZC706AD9371 标准应用程序"
 date:   2024-07-07
 tags: [myk,文件,编译,SDK,替换]
 comments: true

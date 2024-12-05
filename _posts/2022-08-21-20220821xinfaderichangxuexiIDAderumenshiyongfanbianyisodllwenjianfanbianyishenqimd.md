@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新发的日常学习——IDA的入门使用，反编译so-dll文件（反编译神器）"
+title: "新发的日常学习IDA的入门使用反编译sodll文件反编译神器"
 date:   2021-10-19
 tags: [IDA,反编译,so,文件,入门]
 comments: true

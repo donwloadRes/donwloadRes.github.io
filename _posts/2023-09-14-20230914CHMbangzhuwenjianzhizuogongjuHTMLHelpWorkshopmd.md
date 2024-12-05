@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHM帮助文件制作工具 - HTML Help Workshop"
+title: "CHM帮助文件制作工具  HTML Help Workshop"
 date:   2023-02-12
 tags: [CHM,HTML,帮助文件,用户,Help]
 comments: true

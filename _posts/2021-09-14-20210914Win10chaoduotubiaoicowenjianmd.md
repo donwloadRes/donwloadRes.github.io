@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10超多图标.ico文件"
+title: "Win10超多图标ico文件"
 date:   2021-08-23
 tags: [图标,ico,替换,Windows,10]
 comments: true

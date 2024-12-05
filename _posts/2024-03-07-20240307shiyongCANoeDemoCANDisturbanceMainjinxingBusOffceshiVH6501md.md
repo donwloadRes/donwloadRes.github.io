@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用CANoe Demo - CANDisturbanceMain进行Bus Off测试（VH6501）"
+title: "使用CANoe Demo  CANDisturbanceMain进行Bus Off测试VH6501"
 date:   2021-09-29
 tags: [测试,CANoe,Bus,Off,配置文件]
 comments: true

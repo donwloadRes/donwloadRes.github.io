@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用户需求规格说明书模板（非常完美）"
+title: "用户需求规格说明书模板非常完美"
 date:   2021-12-01
 tags: [需求,模板,文档,用户,规格]
 comments: true

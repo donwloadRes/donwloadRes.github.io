@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMMI标准文档模板(最全)"
+title: "CMMI标准文档模板最全"
 date:   2024-08-30
 tags: [CMMI,文档,标准,清单,组织]
 comments: true

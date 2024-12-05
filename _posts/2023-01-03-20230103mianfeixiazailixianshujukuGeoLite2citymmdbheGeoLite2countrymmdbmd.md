@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费下载离线数据库：GeoLite2-city.mmdb 和 GeoLite2-country.mmdb"
+title: "免费下载离线数据库GeoLite2citymmdb 和 GeoLite2countrymmdb"
 date:   2022-10-03
 tags: [GeoLite2,mmdb,数据库,city,country]
 comments: true

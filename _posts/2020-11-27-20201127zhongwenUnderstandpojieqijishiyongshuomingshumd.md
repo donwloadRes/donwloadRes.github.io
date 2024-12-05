@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文Understand+破解器及使用说明书"
+title: "中文Understand破解器及使用说明书"
 date:   2024-09-03
 tags: [Understand,破解器,中文,使用,说明书]
 comments: true

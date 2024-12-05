@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTA习题：基础编程题目集-函数题1"
+title: "PTA习题基础编程题目集函数题1"
 date:   2022-09-01
 tags: [函数,题目,代码,编程,求值]
 comments: true

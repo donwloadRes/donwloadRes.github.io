@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5范例开发大全（完整目录版）资源下载"
+title: "Qt5范例开发大全完整目录版资源下载"
 date:   2023-08-11
 tags: [Qt5,应用,开发,文件,讲解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.9 上安装 Oracle 11g 详解"
+title: "CentOS 79 上安装 Oracle 11g 详解"
 date:   2021-01-15
 tags: [安装,文件,Oracle,修改,CentOS]
 comments: true

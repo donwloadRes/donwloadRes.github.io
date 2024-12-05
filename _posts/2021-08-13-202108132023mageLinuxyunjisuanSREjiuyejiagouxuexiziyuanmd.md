@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023马哥Linux云计算SRE就业+架构学习资源"
+title: "2023马哥Linux云计算SRE就业架构学习资源"
 date:   2023-04-10
 tags: [Linux,SRE,学习,资源,计算]
 comments: true

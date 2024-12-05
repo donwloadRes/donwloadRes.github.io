@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDMS官方Dll开发包及C#调用示例"
+title: "TDMS官方Dll开发包及C调用示例"
 date:   2022-12-26
 tags: [TDMS,示例,代码,文件,C#]
 comments: true

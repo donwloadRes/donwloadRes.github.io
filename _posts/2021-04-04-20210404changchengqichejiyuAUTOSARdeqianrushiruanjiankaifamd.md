@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "长城汽车_基于AUTOSAR的嵌入式软件开发"
+title: "长城汽车基于AUTOSAR的嵌入式软件开发"
 date:   2021-08-18
 tags: [AUTOSAR,嵌入式软件,开发,体系结构,代码]
 comments: true

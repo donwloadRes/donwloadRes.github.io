@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 5.15.2 安装MySQL驱动指南"
+title: "QT 5152 安装MySQL驱动指南"
 date:   2023-03-06
 tags: [QT,MySQL,5.15,驱动,安装]
 comments: true

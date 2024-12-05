@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记：USB接口使用（MSC基于外部Flash模拟U盘）"
+title: "STM32CubeMX学习笔记USB接口使用MSC基于外部Flash模拟U盘"
 date:   2023-12-19
 tags: [USB,Flash,接口,STM32CubeMX,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "年会抽奖程序：全自主定制的Web端互动解决方案"
+title: "年会抽奖程序全自主定制的Web端互动解决方案"
 date:   2020-03-08
 tags: [抽奖,浏览器,程序,JavaScript,定制]
 comments: true

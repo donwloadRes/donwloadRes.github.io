@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-Datacom V1.0 实验指导手册"
+title: "HCIEDatacom V10 实验指导手册"
 date:   2024-11-21
 tags: [HCIE,实验,Datacom,手册,华为技术有限公司]
 comments: true

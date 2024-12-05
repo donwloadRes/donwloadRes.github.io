@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agilent 66319B-D 66321B-D 使用手册（含控制命令）"
+title: "Agilent 66319BD 66321BD 使用手册含控制命令"
 date:   2022-01-01
 tags: [设备,控制,命令,使用手册,用户手册]
 comments: true

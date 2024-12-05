@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turn.js 与 PDF.js 资源下载"
+title: "Turnjs 与 PDFjs 资源下载"
 date:   2023-12-10
 tags: [js,turn,pdf,PDF,下载]
 comments: true

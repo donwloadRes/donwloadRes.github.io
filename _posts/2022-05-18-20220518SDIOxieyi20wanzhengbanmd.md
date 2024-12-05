@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO协议2.0完整版"
+title: "SDIO协议20完整版"
 date:   2024-08-28
 tags: [SDIO,接口,完整版,2.0,文档]
 comments: true

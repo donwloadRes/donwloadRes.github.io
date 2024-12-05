@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DQO 框架中的有功和无功功率教程 - MATLAB 开发"
+title: "DQO 框架中的有功和无功功率教程  MATLAB 开发"
 date:   2023-04-03
 tags: [MATLAB,教程,无功功率,DQ,框架]
 comments: true

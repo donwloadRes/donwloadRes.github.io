@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软HEIC-HEIF-HEVC插件下载仓库"
+title: "微软HEICHEIFHEVC插件下载仓库"
 date:   2023-10-30
 tags: [版本,HEIC,HEIF,HEVC,插件]
 comments: true

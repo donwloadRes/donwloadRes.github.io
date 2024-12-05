@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU-6050寄存器手册中文版"
+title: "MPU6050寄存器手册中文版"
 date:   2024-02-22
 tags: [MPU,6050,寄存器,手册,感谢您]
 comments: true

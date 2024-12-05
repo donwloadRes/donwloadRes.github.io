@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KingSCADA3.7初级培训教材下载"
+title: "KingSCADA37初级培训教材下载"
 date:   2021-05-22
 tags: [培训教材,KingSCADA3.7,初级,pdf,PDF]
 comments: true

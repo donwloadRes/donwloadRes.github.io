@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#海康实时预览Demo"
+title: "C海康实时预览Demo"
 date:   2021-03-12
 tags: [海康,C#,预览,实时,Demo]
 comments: true

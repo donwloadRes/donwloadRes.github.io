@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力传输规约IEC60870-5-104资源下载"
+title: "电力传输规约IEC608705104资源下载"
 date:   2020-02-13
 tags: [规约,104,IEC104,传输,IEC60870]
 comments: true

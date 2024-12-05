@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LINK Utility 4.6.0 资源文件"
+title: "STLINK Utility 460 资源文件"
 date:   2021-12-12
 tags: [ST,LINK,STM32,Flash,Utility]
 comments: true

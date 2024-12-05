@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于TensorFlow的数码管识别（7段数字识别）"
+title: "基于TensorFlow的数码管识别7段数字识别"
 date:   2020-04-07
 tags: [识别,训练,模型,数码管,测试代码]
 comments: true

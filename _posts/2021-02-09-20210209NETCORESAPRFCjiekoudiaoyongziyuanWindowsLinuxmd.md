@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET CORE SAP RFC 接口调用资源（Windows、Linux）"
+title: "NET CORE SAP RFC 接口调用资源WindowsLinux"
 date:   2021-08-05
 tags: [SAP,RFC,接口,NET,CORE]
 comments: true

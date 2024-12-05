@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装指南：VMware Workstation 16 Pro与Ubuntu18.04及ROS Melodic一键完美配置"
+title: "安装指南VMware Workstation 16 Pro与Ubuntu1804及ROS Melodic一键完美配置"
 date:   2023-09-16
 tags: [安装,ROS,VMware,Melodic,Ubuntu]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双目立体视差图三维点云重建【OpenCV3.4.1+PCL1.8】"
+title: "双目立体视差图三维点云重建OpenCV341PCL18"
 date:   2022-05-08
 tags: [点云,视差,重建,双目,三维]
 comments: true

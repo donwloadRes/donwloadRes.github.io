@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS烧写.Out文件方法步骤"
+title: "CCS烧写Out文件方法步骤"
 date:   2020-11-24
 tags: [烧写,CCS,文档,步骤,out]
 comments: true

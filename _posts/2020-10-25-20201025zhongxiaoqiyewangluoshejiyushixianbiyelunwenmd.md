@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中小企业网络设计与实现(毕业论文)"
+title: "中小企业网络设计与实现毕业论文"
 date:   2022-01-18
 tags: [服务器,校园网,DNS,2.1,设计]
 comments: true

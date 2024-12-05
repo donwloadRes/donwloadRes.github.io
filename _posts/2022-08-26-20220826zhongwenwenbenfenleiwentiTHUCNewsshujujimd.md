@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文文本分类问题：THUCNews数据集"
+title: "中文文本分类问题THUCNews数据集"
 date:   2022-05-23
 tags: [THUCNews,数据,文本,分类,中文]
 comments: true

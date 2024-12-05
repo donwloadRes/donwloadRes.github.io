@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Unity3D期末大作业：梦境奇缘闯关之旅"
+title: "Unity3D期末大作业梦境奇缘闯关之旅
+date   20200326
+tags 奇缘闯关梦境源代码Unity3D
+comments true
+author admin
+
+
+layout post
+title Unity3D期末大作业梦境奇缘闯关之旅"
 date:   2020-03-26
 tags: [奇缘,闯关,梦境,源代码,Unity3D]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Unity3D期末大作业：梦境奇缘闯关之旅"
+title: "Unity3D期末大作业梦境奇缘闯关之旅
+date   20200326
+tags 奇缘闯关梦境源代码Unity3D
+comments true
+author admin
+
+
+layout post
+title Unity3D期末大作业梦境奇缘闯关之旅"
 date:   2020-05-26
 tags: [闯关,奇缘,梦境,项目,源代码]
 comments: true

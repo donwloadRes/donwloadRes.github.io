@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200PLC与ABB机器人Profinet通信指南"
+title: "S71200PLC与ABB机器人Profinet通信指南"
 date:   2024-03-08
 tags: [Profinet,通信,S7,1200PLC,BB机]
 comments: true

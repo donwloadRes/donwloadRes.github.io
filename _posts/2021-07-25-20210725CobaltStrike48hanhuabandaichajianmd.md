@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CobaltStrike 4.8 汉化版带插件"
+title: "CobaltStrike 48 汉化版带插件"
 date:   2024-01-14
 tags: [插件,CobaltStrike,渗透,汉化版,4.8]
 comments: true

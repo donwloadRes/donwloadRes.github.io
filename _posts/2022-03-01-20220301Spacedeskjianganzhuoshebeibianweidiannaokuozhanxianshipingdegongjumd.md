@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spacedesk：将安卓设备变为电脑扩展显示屏的工具"
+title: "Spacedesk将安卓设备变为电脑扩展显示屏的工具"
 date:   2021-10-12
 tags: [Spacedesk,电脑,设备,扩展,安卓]
 comments: true

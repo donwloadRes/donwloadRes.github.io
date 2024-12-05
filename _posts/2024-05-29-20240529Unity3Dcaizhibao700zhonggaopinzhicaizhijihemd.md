@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 3D 材质包：700+种高品质材质集合"
+title: "Unity 3D 材质包700种高品质材质集合"
 date:   2023-12-31
 tags: [材质,Unity,3D,700,项目]
 comments: true

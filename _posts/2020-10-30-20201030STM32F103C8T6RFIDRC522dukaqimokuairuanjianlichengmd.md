@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 RFID-RC522读卡器模块软件例程"
+title: "STM32F103C8T6 RFIDRC522读卡器模块软件例程"
 date:   2022-04-12
 tags: [RC522,例程,STM32F103C8T6,RFID,模块]
 comments: true

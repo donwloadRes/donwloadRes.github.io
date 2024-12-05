@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astar(C++) 算法实现"
+title: "AstarC 算法实现"
 date:   2023-01-08
 tags: [C++,算法,博客,实现,https]
 comments: true

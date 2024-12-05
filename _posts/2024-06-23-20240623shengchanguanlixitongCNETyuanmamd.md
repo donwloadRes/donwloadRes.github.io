@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生产管理系统(C#.NET源码)"
+title: "生产管理系统CNET源码"
 date:   2024-03-31
 tags: [NET,生产,源码,C#,SQL]
 comments: true

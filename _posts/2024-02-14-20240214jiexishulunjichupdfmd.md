@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解析数论基础.pdf"
+title: "解析数论基础pdf"
 date:   2022-06-15
 tags: [数论,解析数论,数学,潘氏,pdf]
 comments: true

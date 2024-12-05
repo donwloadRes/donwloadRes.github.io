@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川机器人 YRC1000 CC-Link 通讯使用说明书中文"
+title: "安川机器人 YRC1000 CCLink 通讯使用说明书中文"
 date:   2020-12-20
 tags: [安川,机器人,PLC,通讯,Link]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现Everything——UI与查询 附源码"
+title: "C实现EverythingUI与查询 附源码"
 date:   2023-08-28
 tags: [UI,查询,文件,源码,C#]
 comments: true

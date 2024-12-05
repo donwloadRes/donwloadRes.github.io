@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微 9.0 REST接口调用说明"
+title: "泛微 90 REST接口调用说明"
 date:   2021-03-08
 tags: [接口,泛微,9.0,REST,调用]
 comments: true

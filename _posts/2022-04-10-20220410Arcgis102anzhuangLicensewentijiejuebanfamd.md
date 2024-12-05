@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arcgis 10.2 安装 License 问题解决办法"
+title: "Arcgis 102 安装 License 问题解决办法"
 date:   2020-12-30
 tags: [Arcgis,安装,10.2,License,解决办法]
 comments: true

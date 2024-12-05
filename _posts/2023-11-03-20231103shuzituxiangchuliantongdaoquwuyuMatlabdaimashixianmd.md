@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理-暗通道去雾与Matlab代码实现"
+title: "数字图像处理暗通道去雾与Matlab代码实现"
 date:   2022-06-05
 tags: [代码,Matlab,通道,数字图像处理,算法]
 comments: true

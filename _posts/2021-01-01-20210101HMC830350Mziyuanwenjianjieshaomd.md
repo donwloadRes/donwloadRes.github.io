@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HMC830_350M 资源文件介绍"
+title: "HMC830350M 资源文件介绍"
 date:   2020-10-06
 tags: [HMC830,寄存器,文件,锁相环,350M]
 comments: true

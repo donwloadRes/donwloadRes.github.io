@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口助手SSCOM32-中英版下载"
+title: "串口助手SSCOM32中英版下载"
 date:   2020-05-13
 tags: [串口,助手,SSCOM32,中英版,中文版]
 comments: true

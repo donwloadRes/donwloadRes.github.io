@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL2303HXA USB转232串口驱动（支持Win10 64位）"
+title: "PL2303HXA USB转232串口驱动支持Win10 64位"
 date:   2024-11-17
 tags: [驱动,PL2303HXA,串口,232,USB]
 comments: true

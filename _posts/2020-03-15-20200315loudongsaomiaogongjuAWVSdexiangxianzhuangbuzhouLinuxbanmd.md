@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漏洞扫描工具——AWVS的详细安装步骤(Linux版)"
+title: "漏洞扫描工具AWVS的详细安装步骤Linux版"
 date:   2024-11-16
 tags: [AWVS,安装,Linux,破解,安装文件]
 comments: true

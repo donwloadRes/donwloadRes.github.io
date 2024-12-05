@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 连接 SSH 服务（源码、实例）"
+title: "C 连接 SSH 服务源码实例"
 date:   2022-01-02
 tags: [SSH,C#,源码,实例,连接]
 comments: true

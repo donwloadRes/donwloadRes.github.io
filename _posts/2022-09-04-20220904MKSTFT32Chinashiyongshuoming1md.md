@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MKS-TFT32-China使用说明1"
+title: "MKSTFT32China使用说明1"
 date:   2023-12-08
 tags: [MKS,TFT32,使用,China,说明]
 comments: true

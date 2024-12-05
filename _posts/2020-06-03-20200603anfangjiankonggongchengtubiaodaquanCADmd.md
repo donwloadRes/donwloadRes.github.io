@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安防监控工程图标大全（CAD）"
+title: "安防监控工程图标大全CAD"
 date:   2020-10-07
 tags: [图标,CAD,安防,监控,大全]
 comments: true

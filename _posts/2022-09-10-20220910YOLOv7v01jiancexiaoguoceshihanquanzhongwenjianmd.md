@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv7-v0.1 检测效果测试（含权重文件）"
+title: "YOLOv7v01 检测效果测试含权重文件"
 date:   2021-07-05
 tags: [YOLOv7,v0.1,权重,源码,文件]
 comments: true

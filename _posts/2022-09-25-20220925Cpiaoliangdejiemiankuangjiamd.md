@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 漂亮的界面框架"
+title: "C 漂亮的界面框架"
 date:   2023-10-13
 tags: [C#,界面,UI,框架,文档]
 comments: true

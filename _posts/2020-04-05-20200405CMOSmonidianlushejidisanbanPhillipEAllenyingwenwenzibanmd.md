@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMOS模拟电路设计（第三版）- Phillip E. Allen 英文文字版"
+title: "CMOS模拟电路设计第三版 Phillip E Allen 英文文字版"
 date:   2024-08-09
 tags: [CMOS,电路设计,模拟,Allen,资源]
 comments: true

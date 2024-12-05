@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单电压比较器_迟滞比较器_窗口比较器"
+title: "简单电压比较器迟滞比较器窗口比较器"
 date:   2024-11-24
 tags: [比较,电压,迟滞,设计,窗口]
 comments: true

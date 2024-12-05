@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士LJ-X8000A软件（LJ-X Navigator）下载仓库"
+title: "基恩士LJX8000A软件LJX Navigator下载仓库"
 date:   2023-06-02
 tags: [LJ,基恩,X8000A,软件,Navigator]
 comments: true

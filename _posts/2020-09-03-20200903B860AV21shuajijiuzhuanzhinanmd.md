@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B860AV2.1刷机-救砖指南"
+title: "B860AV21刷机救砖指南"
 date:   2020-12-19
 tags: [刷机,B860AV2.1,USB,机顶盒,安装]
 comments: true

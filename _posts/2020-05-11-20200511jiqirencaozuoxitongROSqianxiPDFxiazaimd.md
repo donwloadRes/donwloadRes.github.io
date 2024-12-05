@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人操作系统（ROS）浅析 PDF 下载"
+title: "机器人操作系统ROS浅析 PDF 下载"
 date:   2021-06-24
 tags: [ROS,机器人,PDF,浅析,操作系统]
 comments: true

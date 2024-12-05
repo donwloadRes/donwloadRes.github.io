@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cuDNN 10.0 for Windows 10 x64 (v7.6.5.32) 下载仓库"
+title: "cuDNN 100 for Windows 10 x64 v76532 下载仓库"
 date:   2020-03-01
 tags: [10.0,CUDA,x64,5.32,下载]
 comments: true

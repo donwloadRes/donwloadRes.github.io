@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想Thinklife SSD ST600 120G变satafirms11修复步骤（亲测心得2023.10.06）"
+title: "联想Thinklife SSD ST600 120G变satafirms11修复步骤亲测心得20231006"
 date:   2024-09-13
 tags: [硬盘,固态,修复,固件,步骤]
 comments: true

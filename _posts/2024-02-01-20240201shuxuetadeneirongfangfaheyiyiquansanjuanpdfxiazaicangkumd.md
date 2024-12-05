@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学—它的内容、方法和意义-全三卷.pdf 下载仓库"
+title: "数学它的内容方法和意义全三卷pdf 下载仓库"
 date:   2023-08-27
 tags: [数学,全三卷,pdf,意义,下载]
 comments: true

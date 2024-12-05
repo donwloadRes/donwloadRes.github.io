@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anaconda：一站式科学计算与数据分析平台"
+title: "Anaconda一站式科学计算与数据分析平台"
 date:   2024-08-17
 tags: [Anaconda,Python,数据分析,环境,科学计算]
 comments: true

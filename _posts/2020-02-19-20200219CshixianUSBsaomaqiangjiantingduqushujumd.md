@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现USB扫码枪监听读取数据"
+title: "C实现USB扫码枪监听读取数据"
 date:   2020-08-10
 tags: [条码,读取,C#,USB,代码]
 comments: true

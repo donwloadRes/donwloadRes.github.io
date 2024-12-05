@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程_朴勇_周勇1 资源下载"
+title: "软件工程朴勇周勇1 资源下载"
 date:   2024-10-26
 tags: [软件工程,软件开发,资源,周勇,朴勇]
 comments: true

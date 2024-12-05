@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fo-dicom 库及示例"
+title: "fodicom 库及示例"
 date:   2023-09-24
 tags: [DICOM,fo,dicom,示例,医疗]
 comments: true

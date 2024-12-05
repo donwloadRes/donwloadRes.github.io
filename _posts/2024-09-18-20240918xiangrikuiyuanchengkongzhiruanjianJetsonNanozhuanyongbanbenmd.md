@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "向日葵远程控制软件 - Jetson Nano 专用版本"
+title: "向日葵远程控制软件  Jetson Nano 专用版本"
 date:   2023-09-27
 tags: [远程,Jetson,Nano,控制软件,向日葵]
 comments: true

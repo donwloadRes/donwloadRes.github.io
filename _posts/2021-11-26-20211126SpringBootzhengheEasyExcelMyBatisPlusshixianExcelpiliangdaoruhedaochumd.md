@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot整合EasyExcel+MyBatis-Plus实现Excel批量导入和导出"
+title: "SpringBoot整合EasyExcelMyBatisPlus实现Excel批量导入和导出"
 date:   2024-01-19
 tags: [Excel,导入,SpringBoot,数据库,导出]
 comments: true

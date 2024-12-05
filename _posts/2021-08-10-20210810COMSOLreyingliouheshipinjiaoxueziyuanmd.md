@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL热-应力耦合视频教学资源"
+title: "COMSOL热应力耦合视频教学资源"
 date:   2023-02-10
 tags: [COMSOL,耦合,应力,视频,算例]
 comments: true

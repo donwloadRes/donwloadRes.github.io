@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD204B协议串行接收模块代码（Vivado带仿真）"
+title: "JESD204B协议串行接收模块代码Vivado带仿真"
 date:   2023-03-23
 tags: [仿真,Vivado,模块,JESD204B,串行]
 comments: true

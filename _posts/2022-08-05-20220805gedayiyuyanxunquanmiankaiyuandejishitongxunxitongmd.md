@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸽哒伊语言讯：全面开源的即时通讯系统"
+title: "鸽哒伊语言讯全面开源的即时通讯系统"
 date:   2021-12-31
 tags: [即时通讯,鸽哒,开源,部署,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++物联网平台项目作品02"
+title: "QtC物联网平台项目作品02"
 date:   2024-05-16
 tags: [报警,设备,控制器,探测器,记录]
 comments: true

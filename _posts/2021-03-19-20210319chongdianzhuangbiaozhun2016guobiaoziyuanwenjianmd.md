@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "充电桩标准(2016国标) 资源文件"
+title: "充电桩标准2016国标 资源文件"
 date:   2022-11-01
 tags: [充电,标准,文件,2016,资源]
 comments: true

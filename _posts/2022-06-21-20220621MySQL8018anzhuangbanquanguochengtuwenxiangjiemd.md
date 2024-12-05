@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.18 安装版全过程图文详解"
+title: "MySQL 8018 安装版全过程图文详解"
 date:   2024-08-15
 tags: [MySQL,安装,18,自定义,选择]
 comments: true

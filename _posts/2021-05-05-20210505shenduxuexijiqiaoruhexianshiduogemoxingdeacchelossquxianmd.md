@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习技巧：如何显示多个模型的acc和loss曲线？"
+title: "深度学习技巧如何显示多个模型的acc和loss曲线"
 date:   2022-08-02
 tags: [模型,TensorBoard,曲线,plt,csv]
 comments: true

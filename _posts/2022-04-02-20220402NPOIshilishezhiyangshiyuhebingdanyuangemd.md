@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NPOI示例：设置样式与合并单元格"
+title: "NPOI示例设置样式与合并单元格"
 date:   2024-06-23
 tags: [示例,NPOI,Excel,单元格,文件]
 comments: true

@@ -1,6 +1,50 @@
 ---
 layout: post
-title: "VScode中配置使用Fortran"
+title: "VScode中配置使用Fortran
+date   20240209
+tags FortranVScode安装gfortran代码
+comments true
+author admin
+
+ VScode中配置使用Fortran
+
+本文将详细介绍如何在VScode中配置和使用Fortran编程语言通过本文的指导您将能够轻松地在VScode中设置Fortran开发环境并开始编写和调试Fortran代码
+
+ 配置步骤
+
+ 1 安装VScode
+首先确保您已经安装了最新版本的VScode如果尚未安装请访问VScode官方网站下载并安装
+
+ 2 安装Fortran扩展
+在VScode中打开扩展视图快捷键CtrlShiftX搜索并安装以下扩展
+ Modern Fortran提供Fortran语言支持包括语法高亮代码补全等功能
+ Code Runner用于运行Fortran代码
+
+ 3 安装Fortran编译器
+为了在VScode中编译和运行Fortran代码您需要安装一个Fortran编译器推荐使用GNU Fortran编译器gfortran
+
+ 在Windows上安装gfortran
+1 下载并安装MinGWMinimalist GNU for Windows
+2 在MinGW安装过程中确保选择安装gfortran
+3 将MinGW的bin目录添加到系统的环境变量PATH中
+
+ 在Linux上安装gfortran
+打开终端并运行以下命令
+bash
+sudo aptget install gfortran
+
+
+ 在macOS上安装gfortran
+使用Homebrew安装gfortran
+bash
+brew install gcc
+
+
+ 4 配置VScode
+在VScode中打开设置快捷键Ctrl搜索coderunnerexecutorMap找到并编辑该设置添加以下内容
+json
+coderunnerexecutorMap 
+    fortran cd dir  gfortran fileName o fileNameWithoutExt  dirfileNameWithoutExt"
 date:   2024-02-09
 tags: [Fortran,VScode,安装,gfortran,代码]
 comments: true

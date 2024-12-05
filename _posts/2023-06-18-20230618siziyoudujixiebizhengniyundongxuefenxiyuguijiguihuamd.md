@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四自由度机械臂：正逆运动学分析与轨迹规划"
+title: "四自由度机械臂正逆运动学分析与轨迹规划"
 date:   2022-07-26
 tags: [运动学,机械,轨迹,分析,Matlab]
 comments: true

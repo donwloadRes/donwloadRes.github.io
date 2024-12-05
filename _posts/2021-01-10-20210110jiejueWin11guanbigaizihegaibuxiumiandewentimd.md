@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win11关闭盖子（合盖）不休眠的问题"
+title: "解决Win11关闭盖子合盖不休眠的问题"
 date:   2023-01-29
 tags: [合盖,Win11,盖子,解决,休眠]
 comments: true

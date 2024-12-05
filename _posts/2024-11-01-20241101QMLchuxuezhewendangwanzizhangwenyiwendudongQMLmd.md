@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QML初学者文档：万字长文，一文读懂QML"
+title: "QML初学者文档万字长文一文读懂QML"
 date:   2023-09-06
 tags: [QML,文档,初学者,这份,Qt]
 comments: true

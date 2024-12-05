@@ -1,6 +1,20 @@
 ---
 layout: post
-title: "完美解决Window即点即用安装程序遇到问题"
+title: "完美解决Window即点即用安装程序遇到问题
+date   20201005
+tags Office即点安装卸载遇到
+comments true
+author admin
+
+ 完美解决Window即点即用安装程序遇到问题
+
+本资源文件旨在帮助用户解决在Windows系统中使用即点即用ClicktoRun安装Office程序时遇到的问题即点即用是一种快速安装Office的方式但在某些情况下用户可能会遇到安装失败或冲突的问题
+
+ 问题描述
+
+在安装Office时用户可能会遇到以下错误提示
+ Office即点即用安装程序遇到问题
+ 因为你的计算机安装了这些基于即点即用的Office程序"
 date:   2020-10-05
 tags: [Office,即点,安装,卸载,遇到]
 comments: true

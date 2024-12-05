@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "JQ插件调用打印机实现打印功能"
+title: "JQ插件调用打印机实现打印功能
+date   20200310
+tags 打印插件jqueryjsscript
+comments true
+author admin
+
+ JQ插件调用打印机实现打印功能
+
+本仓库提供了一套简单的解决方案用于在网页端通过jQuery插件实现打印功能该方案主要适用于需要从浏览器直接打印页面部分内容的场景下面简要介绍包含的文件及如何使用
+
+ 文件说明
+
+1 jquery1113minjs  这是jQuery的一个版本用于提供基础的JavaScript库支持
+2 jqueryjqprint03js  主角插件基于jQuery的打印插件简化了网页元素的打印过程
+3 jquerymigrate121minjs  该文件帮助迁移旧版jQuery代码到新版本确保插件兼容性
+
+ 使用步骤
+
+ 引入文件
+
+首先在您的HTML文档的head部分引入这三个JavaScript文件确保正确的顺序
+
+html
+script srcpathtojquery1113minjsscript
+script srcpathtojquerymigrate121minjsscript
+script srcpathtojqueryjqprint03jsscript
+
+
+这里的pathto应替换为实际文件所在的路径
+
+ 调用打印功能
+
+一旦这些脚本被正确引入您便可以轻松地调用jqPrint插件来打印指定的元素以下是一个基本示例
+
+javascript
+documentreadyfunction
+     假设您想打印的元素ID为printArea"
 date:   2020-03-10
 tags: [打印,插件,jquery,js,script]
 comments: true

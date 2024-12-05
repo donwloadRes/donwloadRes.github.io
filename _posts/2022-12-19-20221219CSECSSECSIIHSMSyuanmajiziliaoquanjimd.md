@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SECS-SECS-II-HSMS 源码及资料全集"
+title: "C SECSSECSIIHSMS 源码及资料全集"
 date:   2024-05-20
 tags: [SECS,源码,II,示例,HSMS]
 comments: true

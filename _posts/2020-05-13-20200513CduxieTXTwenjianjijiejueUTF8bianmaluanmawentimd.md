@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 读写TXT文件及解决UTF-8编码乱码问题"
+title: "C 读写TXT文件及解决UTF8编码乱码问题"
 date:   2022-09-09
 tags: [编码,C++,文件,UTF,inFile]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟Kylin桌面操作系统 V10 (SP1) X86-64 下载仓库"
+title: "银河麒麟Kylin桌面操作系统 V10 SP1 X8664 下载仓库"
 date:   2023-03-06
 tags: [桌面操作系统,V10,麒麟,Kylin,SP1]
 comments: true

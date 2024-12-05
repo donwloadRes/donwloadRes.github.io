@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战：Logistic回归（附数据集）"
+title: "机器学习实战Logistic回归附数据集"
 date:   2020-06-03
 tags: [Logistic,回归,数据,实战,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基础入门教程资源下载"
+title: "C基础入门教程资源下载"
 date:   2022-03-12
 tags: [C++,编程,pdf,入门,文件]
 comments: true

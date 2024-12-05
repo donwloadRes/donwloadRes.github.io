@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab离散傅里叶变换(DFT与FFT)及频谱分析教程资源包"
+title: "Matlab离散傅里叶变换DFT与FFT及频谱分析教程资源包"
 date:   2022-05-31
 tags: [傅里叶,示例,Matlab,DFT,FFT]
 comments: true

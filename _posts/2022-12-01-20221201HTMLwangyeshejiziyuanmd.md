@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "HTML 网页设计资源"
+title: "HTML 网页设计资源
+date   20231111
+tags 网页HTMLCSS页面植物
+comments true
+author admin
+
+
+layout post
+title HTML 网页设计资源"
 date:   2023-11-11
 tags: [网页,HTML,CSS,页面,植物]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "HTML 网页设计资源"
+title: "HTML 网页设计资源
+date   20231111
+tags 网页HTMLCSS页面植物
+comments true
+author admin
+
+
+layout post
+title HTML 网页设计资源"
 date:   2021-08-04
 tags: [网页,HTML,CSS,页面,植物]
 comments: true

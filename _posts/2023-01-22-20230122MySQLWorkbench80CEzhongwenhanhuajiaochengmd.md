@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Workbench 8.0 CE 中文汉化教程"
+title: "MySQL Workbench 80 CE 中文汉化教程"
 date:   2020-11-30
 tags: [MySQL,Workbench,CE,8.0,汉化]
 comments: true

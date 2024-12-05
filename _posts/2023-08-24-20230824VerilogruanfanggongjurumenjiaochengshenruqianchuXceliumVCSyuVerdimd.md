@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog软仿工具入门教程 - 深入浅出Xcelium, VCS与Verdi"
+title: "Verilog软仿工具入门教程  深入浅出Xcelium VCS与Verdi"
 date:   2022-09-26
 tags: [Verilog,Xcelium,仿真,工具,软仿]
 comments: true

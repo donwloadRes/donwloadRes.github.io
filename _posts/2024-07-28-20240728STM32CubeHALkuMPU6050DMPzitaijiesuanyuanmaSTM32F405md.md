@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32Cube HAL库 - MPU6050 DMP姿态解算源码 (STM32F405)"
+title: "STM32Cube HAL库  MPU6050 DMP姿态解算源码 STM32F405"
 date:   2021-12-23
 tags: [MPU6050,蓝牙,DMP,解算,HAL]
 comments: true

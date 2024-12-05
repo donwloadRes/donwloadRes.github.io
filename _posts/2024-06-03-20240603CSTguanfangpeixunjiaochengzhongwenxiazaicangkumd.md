@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CST官方培训教程（中文）下载仓库"
+title: "CST官方培训教程中文下载仓库"
 date:   2020-07-30
 tags: [CST,教程,用户,仓库,高级]
 comments: true

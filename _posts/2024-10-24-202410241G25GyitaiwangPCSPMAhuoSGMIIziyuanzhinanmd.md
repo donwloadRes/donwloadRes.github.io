@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1G-2.5G以太网PCS-PMA或SGMII资源指南"
+title: "1G25G以太网PCSPMA或SGMII资源指南"
 date:   2020-09-10
 tags: [以太网,指南,1G,2.5,PCS]
 comments: true

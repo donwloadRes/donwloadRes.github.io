@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SiI9022-SiI9024 编程手册下载仓库"
+title: "SiI9022SiI9024 编程手册下载仓库"
 date:   2022-07-01
 tags: [手册,编程,SiI9022,SiI9024,仓库]
 comments: true

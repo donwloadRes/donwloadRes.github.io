@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HALCON 与 C# 联合编程：读取并显示 CAD 文件"
+title: "HALCON 与 C 联合编程读取并显示 CAD 文件"
 date:   2024-07-14
 tags: [HALCON,CAD,C#,文件,读取]
 comments: true

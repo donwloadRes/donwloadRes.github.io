@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC技术标准（中文版）下载仓库"
+title: "IEC技术标准中文版下载仓库"
 date:   2020-03-23
 tags: [IEC,下载,技术标准,电工,中文版]
 comments: true

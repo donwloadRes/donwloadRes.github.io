@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线原理(魏文元) - 老书新读，经典不衰"
+title: "天线原理魏文元  老书新读经典不衰"
 date:   2024-01-13
 tags: [天线,魏文元,原理,老书,经典]
 comments: true

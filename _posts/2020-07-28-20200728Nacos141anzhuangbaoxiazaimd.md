@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 1.4.1 安装包下载"
+title: "Nacos 141 安装包下载"
 date:   2024-04-04
 tags: [1.4,Nacos,安装包,tar,gz]
 comments: true

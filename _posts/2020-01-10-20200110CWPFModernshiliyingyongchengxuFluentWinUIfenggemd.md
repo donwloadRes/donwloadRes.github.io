@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF Modern 示例应用程序（Fluent-WinUI 风格）"
+title: "C WPF Modern 示例应用程序FluentWinUI 风格"
 date:   2020-09-08
 tags: [示例,WPF,应用程序,控件,Modern]
 comments: true

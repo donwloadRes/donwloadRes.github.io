@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64 v11.0.0 资源文件下载"
+title: "MinGWw64 v1100 资源文件下载"
 date:   2020-07-05
 tags: [MinGW,w64,Windows,v11.0,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验报告（1-4）"
+title: "计算机组成原理实验报告14"
 date:   2020-04-07
 tags: [电路,实验,Logisim,电路设计,国标码]
 comments: true

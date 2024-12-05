@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6超声波测距源码及接线（已调）"
+title: "STM32F103C8T6超声波测距源码及接线已调"
 date:   2020-05-05
 tags: [接线,源码,STM32F103C8T6,超声波,测距]
 comments: true

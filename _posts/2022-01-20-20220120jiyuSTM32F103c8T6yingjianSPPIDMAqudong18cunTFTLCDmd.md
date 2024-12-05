@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103c8T6硬件SPPI+DMA驱动1.8寸TFTLCD"
+title: "基于STM32F103c8T6硬件SPPIDMA驱动18寸TFTLCD"
 date:   2024-03-26
 tags: [STM32F103c8T6,1.8,LCD,TFT,硬件]
 comments: true

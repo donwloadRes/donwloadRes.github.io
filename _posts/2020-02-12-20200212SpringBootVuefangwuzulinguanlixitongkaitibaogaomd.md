@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue房屋租赁管理系统开题报告"
+title: "SpringBootVue房屋租赁管理系统开题报告"
 date:   2023-06-08
 tags: [开题,毕业设计,SpringBoot,Vue,报告]
 comments: true

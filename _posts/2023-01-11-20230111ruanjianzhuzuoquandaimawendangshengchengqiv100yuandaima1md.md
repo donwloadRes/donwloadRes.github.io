@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件著作权代码文档生成器v1.0.0源代码1"
+title: "软件著作权代码文档生成器v100源代码1"
 date:   2023-08-31
 tags: [源代码,v1.0,著作权,文档,生成器]
 comments: true

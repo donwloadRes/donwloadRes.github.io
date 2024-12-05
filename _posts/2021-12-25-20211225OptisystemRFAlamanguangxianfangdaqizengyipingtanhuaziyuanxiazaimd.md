@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optisystem+RFA（拉曼光纤放大器）增益平坦化资源下载"
+title: "OptisystemRFA拉曼光纤放大器增益平坦化资源下载"
 date:   2020-08-24
 tags: [Optisystem,拉曼,光纤,放大器,增益]
 comments: true

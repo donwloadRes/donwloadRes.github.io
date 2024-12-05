@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DP-1.2-1.4以及CTS-1.1 资源文件下载"
+title: "DP1214以及CTS11 资源文件下载"
 date:   2023-06-22
 tags: [DP,DisplayPort,CTS,文件,文档]
 comments: true

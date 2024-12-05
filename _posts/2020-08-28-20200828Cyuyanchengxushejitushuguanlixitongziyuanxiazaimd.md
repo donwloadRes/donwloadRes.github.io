@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计--图书管理系统资源下载"
+title: "C语言程序设计图书管理系统资源下载"
 date:   2020-04-02
 tags: [C语言,管理系统,图书,文档,--]
 comments: true

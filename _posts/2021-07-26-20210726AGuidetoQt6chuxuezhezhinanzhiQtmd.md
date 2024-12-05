@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Guide to Qt 6 - 初学者指南至Qt"
+title: "A Guide to Qt 6  初学者指南至Qt"
 date:   2023-03-15
 tags: [Qt,Guide,跨平台,编程,初学者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术课程设计——数字频率计的设计"
+title: "电子技术课程设计数字频率计的设计"
 date:   2021-02-02
 tags: [频率计,测量,输入,频率,量程]
 comments: true

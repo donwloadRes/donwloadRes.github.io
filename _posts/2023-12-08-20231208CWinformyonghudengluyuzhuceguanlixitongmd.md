@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 用户登录与注册管理系统"
+title: "C Winform 用户登录与注册管理系统"
 date:   2022-03-08
 tags: [数据库,Access,用户,窗体,连接]
 comments: true

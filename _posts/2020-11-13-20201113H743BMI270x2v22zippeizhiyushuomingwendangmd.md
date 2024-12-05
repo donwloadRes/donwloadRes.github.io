@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H743-BMI270x2-v22.zip 配置与说明文档"
+title: "H743BMI270x2v22zip 配置与说明文档"
 date:   2023-04-17
 tags: [测试,H743,BMI270x2,v22,zip]
 comments: true

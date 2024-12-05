@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的电子时钟设计（DS1302）：时钟、秒表与倒计时综合系统"
+title: "基于STM32的电子时钟设计DS1302时钟秒表与倒计时综合系统"
 date:   2024-09-25
 tags: [STM32,时钟,DS1302,模块,倒计时]
 comments: true

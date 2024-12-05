@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.x OpenSSH 与 OpenSSL 1.1.x 自定义版本 RPM 包构建脚本"
+title: "CentOS 7x OpenSSH 与 OpenSSL 11x 自定义版本 RPM 包构建脚本"
 date:   2021-01-29
 tags: [OpenSSH,版本,OpenSSL,RPM,脚本]
 comments: true

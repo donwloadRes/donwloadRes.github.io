@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ShadowEditor Ver 012+ 授权工具"
+title: "ShadowEditor Ver 012 授权工具"
 date:   2020-03-11
 tags: [工具,012,授权,zip,文件]
 comments: true

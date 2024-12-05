@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET MAUI 资源文件：中文翻译版"
+title: "NET MAUI 资源文件中文翻译版"
 date:   2020-08-22
 tags: [NET,MAUI,开发者,C#,翻译]
 comments: true

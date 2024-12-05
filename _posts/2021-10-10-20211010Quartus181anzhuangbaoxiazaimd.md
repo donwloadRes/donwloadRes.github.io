@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus 18.1 安装包下载"
+title: "Quartus 181 安装包下载"
 date:   2024-08-29
 tags: [Quartus,18.1,Prime,安装,下载]
 comments: true

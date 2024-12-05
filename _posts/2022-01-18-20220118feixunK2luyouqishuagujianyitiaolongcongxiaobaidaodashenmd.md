@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斐讯K2路由器刷固件一条龙——从小白到大神"
+title: "斐讯K2路由器刷固件一条龙从小白到大神"
 date:   2020-06-08
 tags: [刷机,路由器,教程,固件,K2]
 comments: true

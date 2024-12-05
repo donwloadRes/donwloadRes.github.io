@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TXT格式现代汉语词典》下载仓库"
+title: "TXT格式现代汉语词典下载仓库"
 date:   2024-03-27
 tags: [TXT,现代汉语,格式,下载,词典]
 comments: true

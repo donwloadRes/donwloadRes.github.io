@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广义测量平差（新版）资源下载"
+title: "广义测量平差新版资源下载"
 date:   2021-04-30
 tags: [平差,新版,下载,资源,精修]
 comments: true

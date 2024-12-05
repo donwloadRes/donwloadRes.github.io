@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ufsxpci软件：Windows读取Linux XFS外接硬盘"
+title: "ufsxpci软件Windows读取Linux XFS外接硬盘"
 date:   2022-09-02
 tags: [硬盘,ufsxpci,XFS,读取,Windows]
 comments: true

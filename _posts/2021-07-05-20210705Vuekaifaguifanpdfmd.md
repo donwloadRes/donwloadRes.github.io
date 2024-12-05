@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue开发规范.pdf"
+title: "Vue开发规范pdf"
 date:   2023-05-24
 tags: [Vue,规范,团队,pdf,开发]
 comments: true

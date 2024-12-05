@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500与S7-1200 Profinet通讯指南"
+title: "西门子S71500与S71200 Profinet通讯指南"
 date:   2020-09-15
 tags: [S7,通讯,Profinet,1500,1200]
 comments: true

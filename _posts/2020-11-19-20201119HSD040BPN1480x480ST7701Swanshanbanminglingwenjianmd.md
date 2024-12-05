@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HSD040BPN1(480x480)-ST7701S 完善版命令文件"
+title: "HSD040BPN1480x480ST7701S 完善版命令文件"
 date:   2023-08-18
 tags: [文件,ST7701S,HSD040BPN1,480x480,命令]
 comments: true

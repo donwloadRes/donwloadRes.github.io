@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双屏神器——UltraMon，提升工作效率"
+title: "双屏神器UltraMon提升工作效率"
 date:   2023-10-25
 tags: [UltraMon,多屏,显示器,壁纸,用户]
 comments: true

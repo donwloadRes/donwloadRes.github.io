@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACPI SPEC 6.5 英文原版下载仓库"
+title: "ACPI SPEC 65 英文原版下载仓库"
 date:   2022-11-23
 tags: [ACPI,SPEC,6.5,英文原版,仓库]
 comments: true

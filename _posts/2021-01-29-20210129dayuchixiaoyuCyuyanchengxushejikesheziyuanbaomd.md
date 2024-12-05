@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大鱼吃小鱼 - C语言程序设计课设资源包"
+title: "大鱼吃小鱼  C语言程序设计课设资源包"
 date:   2022-05-31
 tags: [C语言,源代码,游戏,资源,课程设计]
 comments: true

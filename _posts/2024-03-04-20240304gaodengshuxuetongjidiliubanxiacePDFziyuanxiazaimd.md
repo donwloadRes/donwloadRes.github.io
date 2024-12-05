@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数学-同济第六版-下册 PDF 资源下载"
+title: "高等数学同济第六版下册 PDF 资源下载"
 date:   2022-01-07
 tags: [高等数学,PDF,第六版,下册,同济]
 comments: true

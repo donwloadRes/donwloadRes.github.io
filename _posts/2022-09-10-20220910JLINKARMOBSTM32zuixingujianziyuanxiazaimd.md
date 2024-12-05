@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLINK-ARM-OB-STM32最新固件资源下载"
+title: "JLINKARMOBSTM32最新固件资源下载"
 date:   2023-07-04
 tags: [固件,JLINK,ARM,OB,STM32]
 comments: true

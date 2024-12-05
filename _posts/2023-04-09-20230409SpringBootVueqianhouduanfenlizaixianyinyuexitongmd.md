@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue前后端分离在线音乐系统"
+title: "SpringBootVue前后端分离在线音乐系统"
 date:   2020-12-06
 tags: [歌单,用户,歌曲,Vue,管理]
 comments: true

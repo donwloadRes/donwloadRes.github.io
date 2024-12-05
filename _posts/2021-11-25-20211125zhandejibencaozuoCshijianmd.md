@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "栈的基本操作C++实践"
+title: "栈的基本操作C实践"
 date:   2021-04-25
 tags: [基本操作,C++,实践,编程,示例]
 comments: true

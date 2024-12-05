@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10系统下MySQL 8.0.20安装和配置超详细教程"
+title: "Win10系统下MySQL 8020安装和配置超详细教程"
 date:   2020-02-28
 tags: [MySQL,安装,20,教程,8.0]
 comments: true

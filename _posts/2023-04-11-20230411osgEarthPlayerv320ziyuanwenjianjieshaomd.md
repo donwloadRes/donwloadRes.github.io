@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osgEarthPlayer v3.2.0 资源文件介绍"
+title: "osgEarthPlayer v320 资源文件介绍"
 date:   2020-03-31
 tags: [三维,地球,球体,贴图,v3.2]
 comments: true

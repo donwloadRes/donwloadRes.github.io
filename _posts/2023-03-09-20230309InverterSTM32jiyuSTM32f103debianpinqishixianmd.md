@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inverter_STM32：基于STM32f103的变频器实现"
+title: "InverterSTM32基于STM32f103的变频器实现"
 date:   2022-10-02
 tags: [变频器,STM32f103,2014,电机,STM32]
 comments: true

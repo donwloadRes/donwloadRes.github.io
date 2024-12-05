@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB电磁场计算代码 - 电磁学项目"
+title: "MATLAB电磁场计算代码  电磁学项目"
 date:   2020-07-28
 tags: [MATLAB,电磁,代码,计算,电磁学]
 comments: true

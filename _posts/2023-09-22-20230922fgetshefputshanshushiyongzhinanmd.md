@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fgets( )和fputs( )函数使用指南"
+title: "fgets 和fputs 函数使用指南"
 date:   2022-12-31
 tags: [fgets,fputs,函数,使用,C语言]
 comments: true

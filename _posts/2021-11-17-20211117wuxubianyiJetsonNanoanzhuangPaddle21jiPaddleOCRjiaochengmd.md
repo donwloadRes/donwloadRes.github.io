@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无需编译：Jetson Nano 安装 Paddle 2.1 及 PaddleOCR 教程"
+title: "无需编译Jetson Nano 安装 Paddle 21 及 PaddleOCR 教程"
 date:   2022-07-19
 tags: [PaddleOCR,Paddle,安装,Jetson,Nano]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能无人集群系统发展白皮书 - CESI（2021）"
+title: "智能无人集群系统发展白皮书  CESI2021"
 date:   2022-02-08
 tags: [无人,集群,智能,白皮书,系统]
 comments: true

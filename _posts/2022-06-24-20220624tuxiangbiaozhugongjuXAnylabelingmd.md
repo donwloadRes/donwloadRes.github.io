@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像标注工具X-Anylabeling"
+title: "图像标注工具XAnylabeling"
 date:   2020-03-11
 tags: [标注,Anylabeling,模型,图像,下载]
 comments: true

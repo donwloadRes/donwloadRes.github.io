@@ -1,6 +1,26 @@
 ---
 layout: post
-title: "WinCC中使用VBS脚本实现弹窗和画面切换"
+title: "WinCC中使用VBS脚本实现弹窗和画面切换
+date   20200425
+tags WinCCVBS画面脚本切换
+comments true
+author admin
+
+ WinCC中使用VBS脚本实现弹窗和画面切换
+
+在工业自动化领域WinCC是一款强大的过程可视化软件广泛应用于监控与数据采集系统为了提升系统的交互性和功能性通过Visual Basic Script VBS脚本可以极大地增强WinCC项目的灵活性本文档旨在指导用户如何在WinCC环境中利用VBS脚本来实现弹出信息窗口以及自动进行画面之间的切换这两个功能对于创建更加用户友好的界面至关重要
+
+ 一VBS脚本基础
+
+VBS是轻量级的脚本语言易于学习且在WinCC项目中可以直接嵌入到图形元素的属性中或通过事件触发执行掌握基本的VBS语法对实现高级操作十分关键
+
+ 二实现弹窗功能
+
+在WinCC项目中可以通过编写VBS脚本来弹出消息框显示自定义信息以下是一个简单的示例代码
+
+vbs
+ 弹窗示例脚本
+msgbox 这是来自WinCC的消息提示 vbInformation 信息提示"
 date:   2020-04-25
 tags: [WinCC,VBS,画面,脚本,切换]
 comments: true

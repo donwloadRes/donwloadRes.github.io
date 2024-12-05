@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tuxera2023 NTFS for Mac 下载、安装与序列号激活指南"
+title: "Tuxera2023 NTFS for Mac 下载安装与序列号激活指南"
 date:   2021-06-22
 tags: [NTFS,Mac,Tuxera2023,下载,序列号]
 comments: true

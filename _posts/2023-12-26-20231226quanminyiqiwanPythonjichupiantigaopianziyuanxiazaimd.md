@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全民一起玩Python 基础篇+提高篇 资源下载"
+title: "全民一起玩Python 基础篇提高篇 资源下载"
 date:   2023-04-02
 tags: [Python,编程,学习,课程,全民]
 comments: true

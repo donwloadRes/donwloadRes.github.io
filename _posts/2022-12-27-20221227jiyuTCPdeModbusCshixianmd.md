@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于TCP的Modbus C#实现"
+title: "基于TCP的Modbus C实现"
 date:   2022-11-18
 tags: [Modbus,TCP,C#,NET,client]
 comments: true

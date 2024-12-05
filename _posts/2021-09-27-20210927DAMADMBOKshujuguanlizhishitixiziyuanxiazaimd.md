@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAMA—DMBOK数据管理知识体系资源下载"
+title: "DAMADMBOK数据管理知识体系资源下载"
 date:   2021-04-01
 tags: [数据管理,文件,DAMA,DMBOK,知识]
 comments: true

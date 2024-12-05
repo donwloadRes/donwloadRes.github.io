@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王道操作系统》学习笔记总目录+思维导图"
+title: "王道操作系统学习笔记总目录思维导图"
 date:   2023-01-18
 tags: [操作系统,导图,总目录,思维,王道]
 comments: true

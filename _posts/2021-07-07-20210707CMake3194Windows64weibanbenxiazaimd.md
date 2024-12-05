@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake 3.19.4 Windows 64位版本下载"
+title: "CMake 3194 Windows 64位版本下载"
 date:   2024-02-09
 tags: [CMake,3.19,下载,版本,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager v6.42.3 中文绿色特别版"
+title: "Internet Download Manager v6423 中文绿色特别版"
 date:   2021-10-04
 tags: [下载,Internet,Download,Manager,多线程]
 comments: true

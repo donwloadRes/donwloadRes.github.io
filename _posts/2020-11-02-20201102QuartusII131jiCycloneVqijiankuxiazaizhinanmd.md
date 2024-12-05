@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 及 Cyclone V 器件库下载指南"
+title: "Quartus II 131 及 Cyclone V 器件库下载指南"
 date:   2024-09-15
 tags: [Quartus,II,13.1,破解,安装]
 comments: true

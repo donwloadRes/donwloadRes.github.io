@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的CORDIC算法实现——Verilog版"
+title: "基于FPGA的CORDIC算法实现Verilog版"
 date:   2020-02-28
 tags: [CORDIC,FPGA,算法,Verilog,实现]
 comments: true

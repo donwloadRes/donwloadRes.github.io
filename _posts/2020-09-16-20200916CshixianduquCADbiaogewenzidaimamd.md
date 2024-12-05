@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现读取CAD表格文字代码"
+title: "C实现读取CAD表格文字代码"
 date:   2024-03-18
 tags: [CAD,代码,表格,读取,文件]
 comments: true

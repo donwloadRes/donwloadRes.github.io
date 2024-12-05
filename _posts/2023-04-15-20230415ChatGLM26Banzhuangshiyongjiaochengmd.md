@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGLM2-6B安装使用教程"
+title: "ChatGLM26B安装使用教程"
 date:   2020-02-10
 tags: [6B,ChatGLM2,对话,模型,教程]
 comments: true

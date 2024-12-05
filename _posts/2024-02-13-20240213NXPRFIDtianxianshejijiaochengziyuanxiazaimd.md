@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP-RFID天线设计教程资源下载"
+title: "NXPRFID天线设计教程资源下载"
 date:   2023-12-31
 tags: [RFID,天线,设计,NXP,参数]
 comments: true

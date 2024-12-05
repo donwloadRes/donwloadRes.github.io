@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家医保SM2、SM4测试工具"
+title: "国家医保SM2SM4测试工具"
 date:   2024-07-04
 tags: [SM2,SM4,源码,JAVA,C#]
 comments: true

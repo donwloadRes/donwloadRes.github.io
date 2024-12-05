@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为云业务中台&数据中台技术方案"
+title: "华为云业务中台数据中台技术方案"
 date:   2022-02-07
 tags: [运维,中台,华为,方案,架构]
 comments: true

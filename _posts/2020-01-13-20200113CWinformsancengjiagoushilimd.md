@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 三层架构示例"
+title: "C Winform 三层架构示例"
 date:   2024-06-29
 tags: [架构,三层,示例,C#,帖子]
 comments: true

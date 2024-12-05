@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP28335程序实例集合 - 初学者友好型开发学习资源"
+title: "DSP28335程序实例集合  初学者友好型开发学习资源"
 date:   2022-07-27
 tags: [DSP28335,DSP,示例,开发板,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JGB28181: 基于Java实现的GB28181平台"
+title: "JGB28181 基于Java实现的GB28181平台"
 date:   2020-07-17
 tags: [GB28181,JGB28181,Java,视频,监控]
 comments: true

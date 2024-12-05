@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DigitalSignCheck —— 批量验证微软数字签名工具"
+title: "DigitalSignCheck  批量验证微软数字签名工具"
 date:   2020-06-22
 tags: [文件,DigitalSignCheck,签名,批量,工具]
 comments: true

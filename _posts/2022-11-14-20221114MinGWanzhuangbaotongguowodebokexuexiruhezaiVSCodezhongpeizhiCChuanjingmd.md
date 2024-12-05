@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW安装包 - 通过我的博客学习如何在VSCode中配置C-C++环境"
+title: "MinGW安装包  通过我的博客学习如何在VSCode中配置CC环境"
 date:   2024-05-26
 tags: [MinGW,C++,VSCode,安装包,安装]
 comments: true

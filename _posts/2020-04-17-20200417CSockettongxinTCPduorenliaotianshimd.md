@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 通信 TCP 多人聊天室"
+title: "C Socket 通信 TCP 多人聊天室"
 date:   2024-10-16
 tags: [聊天室,服务端,客户端,TCP,文件]
 comments: true

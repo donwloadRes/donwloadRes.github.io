@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDBC连接Oracle11g（附jar包）"
+title: "JDBC连接Oracle11g附jar包"
 date:   2023-01-02
 tags: [数据库,Oracle,JDBC,连接,jar]
 comments: true

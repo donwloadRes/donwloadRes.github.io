@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小型企⽂网三层架构指南(基于CISCO设备)"
+title: "小型企网三层架构指南基于CISCO设备"
 date:   2024-01-02
 tags: [网络,三层,VLAN,路由,配置]
 comments: true

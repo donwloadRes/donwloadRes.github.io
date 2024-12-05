@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK1.8免安装解压缩版"
+title: "JDK18免安装解压缩版"
 date:   2024-10-24
 tags: [JDK1.8,点击,安装,环境变量,压缩版]
 comments: true

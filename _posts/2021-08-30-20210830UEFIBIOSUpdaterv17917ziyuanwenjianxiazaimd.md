@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UEFI BIOS Updater v1.79.17 资源文件下载"
+title: "UEFI BIOS Updater v17917 资源文件下载"
 date:   2024-02-18
 tags: [BIOS,17,文件,v1.79,UEFI]
 comments: true

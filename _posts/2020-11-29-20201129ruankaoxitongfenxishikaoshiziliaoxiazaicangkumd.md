@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考-系统分析师考试资料下载仓库"
+title: "软考系统分析师考试资料下载仓库"
 date:   2023-06-03
 tags: [考试,仓库,软考,真题,精讲]
 comments: true

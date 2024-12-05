@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库课程设计报告 - 人事管理系统"
+title: "MySQL数据库课程设计报告  人事管理系统"
 date:   2020-10-16
 tags: [数据库,课程设计,MySQL,存储,报告]
 comments: true

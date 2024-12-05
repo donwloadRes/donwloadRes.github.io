@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266 V3 开发板 - CH340G 封装图 + 原理图 & PCB图"
+title: "ESP8266 V3 开发板  CH340G 封装图  原理图  PCB图"
 date:   2022-05-02
 tags: [PCB,ESP8266,原理图,开发板,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "傅里叶分析及其应用(潘文杰) 资源下载"
+title: "傅里叶分析及其应用潘文杰 资源下载"
 date:   2023-01-30
 tags: [傅里叶,文件,PDF,潘文杰,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 课程设计期末大作业：学生管理系统"
+title: "Python 课程设计期末大作业学生管理系统"
 date:   2021-11-17
 tags: [Python,管理系统,学生,课程设计,私聊]
 comments: true

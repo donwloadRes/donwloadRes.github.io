@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java学生信息管理系统项目源码（毕业设计）"
+title: "Java学生信息管理系统项目源码毕业设计"
 date:   2020-09-27
 tags: [成绩,Java,查询,项目,信息管理系统]
 comments: true

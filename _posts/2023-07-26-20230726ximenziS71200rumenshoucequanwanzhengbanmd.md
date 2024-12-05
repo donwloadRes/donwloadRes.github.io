@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 入门手册（全）完整版"
+title: "西门子S71200 入门手册全完整版"
 date:   2022-04-25
 tags: [S7,1200,手册,编程,西门子]
 comments: true

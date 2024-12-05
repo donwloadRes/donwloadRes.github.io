@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.6.2 离线资源"
+title: "NET Framework 462 离线资源"
 date:   2024-04-25
 tags: [NET,Framework,4.6,离线,安装]
 comments: true

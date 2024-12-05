@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design Patterns in Modern C++20 2022 资源下载"
+title: "Design Patterns in Modern C20 2022 资源下载"
 date:   2021-05-14
 tags: [C++,设计模式,20,资源,2022]
 comments: true

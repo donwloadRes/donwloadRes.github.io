@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "递推最小二乘法辨识不同阶次ARMAX模型-MATLAB实现（附带实验报告）"
+title: "递推最小二乘法辨识不同阶次ARMAX模型MATLAB实现附带实验报告"
 date:   2022-01-16
 tags: [模型,辨识,递推,ARMAX,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Palo Alto PAN-OS 11.0 虚拟机镜像下载"
+title: "Palo Alto PANOS 110 虚拟机镜像下载"
 date:   2021-01-15
 tags: [虚拟机,Palo,Alto,PAN,OS]
 comments: true

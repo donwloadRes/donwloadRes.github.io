@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 DMA中断模式下ADC多通道数据采集+均值滤波"
+title: "STM32 DMA中断模式下ADC多通道数据采集均值滤波"
 date:   2021-02-12
 tags: [ADC,DMA,STM32,滤波,中断]
 comments: true

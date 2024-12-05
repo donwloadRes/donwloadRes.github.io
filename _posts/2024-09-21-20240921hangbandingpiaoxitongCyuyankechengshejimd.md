@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "航班订票系统 - C语言课程设计"
+title: "航班订票系统  C语言课程设计"
 date:   2022-04-09
 tags: [C语言,航班,订票,课程设计,数据文件]
 comments: true

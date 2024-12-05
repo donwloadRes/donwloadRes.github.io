@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN-FlexRay汽车总线ASC标准格式说明"
+title: "CANFlexRay汽车总线ASC标准格式说明"
 date:   2024-05-27
 tags: [总线,格式,FlexRay,ASC,文件]
 comments: true

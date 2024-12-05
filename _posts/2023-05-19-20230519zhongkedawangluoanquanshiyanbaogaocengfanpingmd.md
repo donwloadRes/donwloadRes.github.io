@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科大网络安全实验报告 - 曾凡平"
+title: "中科大网络安全实验报告  曾凡平"
 date:   2023-06-03
 tags: [网络安全,实验,学习,实验报告,中科大]
 comments: true

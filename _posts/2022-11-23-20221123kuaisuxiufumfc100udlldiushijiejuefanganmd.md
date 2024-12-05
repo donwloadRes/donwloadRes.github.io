@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速修复mfc100u.dll丢失解决方案"
+title: "快速修复mfc100udll丢失解决方案"
 date:   2022-08-02
 tags: [mfc100u,dll,修复,丢失,系统文件]
 comments: true

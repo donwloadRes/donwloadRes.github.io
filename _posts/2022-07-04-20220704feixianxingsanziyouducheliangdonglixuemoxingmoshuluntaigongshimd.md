@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性三自由度车辆动力学模型（魔术轮胎公式）"
+title: "非线性三自由度车辆动力学模型魔术轮胎公式"
 date:   2020-04-22
 tags: [模型,车辆,魔术,MATLAB,Simulink]
 comments: true

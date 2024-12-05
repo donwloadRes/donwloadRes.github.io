@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "股票大作手回忆录.pdf"
+title: "股票大作手回忆录pdf"
 date:   2022-01-21
 tags: [回忆录,大作,利弗莫,pdf,读者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TL494逆变器电路图(400瓦)资源介绍"
+title: "TL494逆变器电路图400瓦资源介绍"
 date:   2021-01-26
 tags: [TL494,电路图,逆变器,400,PWM]
 comments: true

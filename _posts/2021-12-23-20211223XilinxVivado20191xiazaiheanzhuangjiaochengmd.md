@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx_Vivado_2019.1下载和安装教程"
+title: "XilinxVivado20191下载和安装教程"
 date:   2022-01-17
 tags: [安装,Vivado,Xilinx,2019.1,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UEA多元时间序列数据集（CSV格式）"
+title: "UEA多元时间序列数据集CSV格式"
 date:   2024-11-23
 tags: [csv,数据,test,train,label]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "禁满天堂：提升个人生产力与自我管理的秘籍"
+title: "禁满天堂提升个人生产力与自我管理的秘籍"
 date:   2020-06-03
 tags: [禁满,天堂,时间,管理,生活]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rational Rose 7.0 安装教程"
+title: "Rational Rose 70 安装教程"
 date:   2023-11-14
 tags: [安装,Rational,Rose,文件,双击]
 comments: true

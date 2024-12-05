@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Echarts + Web实现大屏展示效果"
+title: "Echarts  Web实现大屏展示效果"
 date:   2020-05-09
 tags: [Echarts,大屏,Web,资源,可视化]
 comments: true

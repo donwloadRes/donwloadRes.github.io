@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理》第三版课后答案资源下载"
+title: "数字信号处理第三版课后答案资源下载"
 date:   2024-09-27
 tags: [课后,信号处理,第三版,数字,资源]
 comments: true

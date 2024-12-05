@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ API 手册下载仓库"
+title: "C API 手册下载仓库"
 date:   2021-07-29
 tags: [C++,API,手册,PDF,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费 WINDOWS 下的 SIP 服务器软件 - miniSipServer V2.8.12 (支持100客户端)"
+title: "免费 WINDOWS 下的 SIP 服务器软件  miniSipServer V2812 支持100客户端"
 date:   2020-12-27
 tags: [SIP,miniSipServer,客户端,12,100]
 comments: true

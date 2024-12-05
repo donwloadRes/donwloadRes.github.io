@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++11标准库（第二版）"
+title: "C11标准库第二版"
 date:   2023-06-22
 tags: [C++,11,std,标准,编程]
 comments: true

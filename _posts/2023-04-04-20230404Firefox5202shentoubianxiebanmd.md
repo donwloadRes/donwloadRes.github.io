@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Firefox 52.0.2 渗透便携版"
+title: "Firefox 5202 渗透便携版"
 date:   2021-01-23
 tags: [渗透,插件,Firefox,便携,测试]
 comments: true

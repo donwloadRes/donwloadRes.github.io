@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现任意控件的拖拽"
+title: "C 实现任意控件的拖拽"
 date:   2021-10-10
 tags: [拖拽,控件,C#,功能,项目]
 comments: true

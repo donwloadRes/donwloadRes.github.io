@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCGS_ModBusTCP样例工程介绍"
+title: "MCGSModBusTCP样例工程介绍"
 date:   2022-02-15
 tags: [MCGS,样例,ModBusTCP,HMI,工程]
 comments: true

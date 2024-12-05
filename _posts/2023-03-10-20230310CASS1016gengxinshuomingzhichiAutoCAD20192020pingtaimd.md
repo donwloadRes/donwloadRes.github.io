@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASS10.1.6更新说明 - 支持AutoCAD2019、2020平台"
+title: "CASS1016更新说明  支持AutoCAD20192020平台"
 date:   2023-10-14
 tags: [软件,AutoCAD,CASS10.1,更新,平台]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT4API接口开发手册1.0.0.11"
+title: "MT4API接口开发手册10011"
 date:   2021-01-12
 tags: [API,MT4,4.4,交易,开发者]
 comments: true

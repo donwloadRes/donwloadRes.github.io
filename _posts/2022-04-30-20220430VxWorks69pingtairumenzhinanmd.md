@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VxWorks 6.9 平台入门指南"
+title: "VxWorks 69 平台入门指南"
 date:   2020-01-27
 tags: [6.9,VxWorks,指南,平台,文件]
 comments: true

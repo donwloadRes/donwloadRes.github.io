@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2024.v25.0.0.230 完整直装版"
+title: "CorelDRAW Graphics Suite 2024v2500230 完整直装版"
 date:   2021-03-25
 tags: [装版,版本,软件,CorelDRAW,Graphics]
 comments: true

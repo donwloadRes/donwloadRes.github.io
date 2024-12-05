@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Debug Bridge（安卓调试桥）工具下载仓库"
+title: "Android Debug Bridge安卓调试桥工具下载仓库"
 date:   2022-03-17
 tags: [ADB,Android,安装,设备,下载]
 comments: true

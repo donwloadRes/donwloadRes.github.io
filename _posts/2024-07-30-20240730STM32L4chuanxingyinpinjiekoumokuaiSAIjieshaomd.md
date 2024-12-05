@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4串行音频接口模块(SAI)介绍"
+title: "STM32L4串行音频接口模块SAI介绍"
 date:   2021-07-30
 tags: [SAI,模块,STM32L4,音频接口,串行]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-ray图像增强v3 资源文件介绍"
+title: "Xray图像增强v3 资源文件介绍"
 date:   2023-09-02
 tags: [文件,图像增强,ray,资源,v3]
 comments: true

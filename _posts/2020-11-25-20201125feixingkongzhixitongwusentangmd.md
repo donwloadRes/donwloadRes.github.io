@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞行控制系统，吴森堂"
+title: "飞行控制系统吴森堂"
 date:   2021-02-12
 tags: [吴森堂,控制系统,飞行,仓库,书籍]
 comments: true

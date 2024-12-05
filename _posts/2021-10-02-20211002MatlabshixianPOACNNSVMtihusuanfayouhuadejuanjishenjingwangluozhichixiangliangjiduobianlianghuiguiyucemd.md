@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现POA-CNN-SVM：鹈鹕算法优化的卷积神经网络-支持向量机多变量回归预测"
+title: "Matlab实现POACNNSVM鹈鹕算法优化的卷积神经网络支持向量机多变量回归预测"
 date:   2020-12-23
 tags: [Matlab,算法,POA,CNN,鹈鹕]
 comments: true

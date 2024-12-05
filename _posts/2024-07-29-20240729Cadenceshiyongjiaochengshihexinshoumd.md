@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence使用教程（适合新手）"
+title: "Cadence使用教程适合新手"
 date:   2024-11-18
 tags: [Cadence,教程,仿真,电路设计,新手]
 comments: true

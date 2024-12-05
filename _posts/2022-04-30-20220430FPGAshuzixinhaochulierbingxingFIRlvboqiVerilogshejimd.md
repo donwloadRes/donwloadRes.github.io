@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA数字信号处理（二）并行FIR滤波器Verilog设计"
+title: "FPGA数字信号处理二并行FIR滤波器Verilog设计"
 date:   2020-05-24
 tags: [FPGA,FIR,Vivado,滤波器,仿真]
 comments: true

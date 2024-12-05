@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fooocus：一站式开源AI绘画解决方案"
+title: "Fooocus一站式开源AI绘画解决方案"
 date:   2021-04-17
 tags: [Fooocus,AI,绘画,用户,下载]
 comments: true

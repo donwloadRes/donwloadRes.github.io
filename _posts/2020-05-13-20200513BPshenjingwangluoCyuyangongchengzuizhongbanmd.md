@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络C语言工程（最终版）"
+title: "BP神经网络C语言工程最终版"
 date:   2024-01-04
 tags: [C语言,BP,工程,神经网络,平台]
 comments: true

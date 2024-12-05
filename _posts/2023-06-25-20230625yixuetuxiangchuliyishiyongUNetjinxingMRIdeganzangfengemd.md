@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医学图像处理（一）：使用U-Net进行MRI的肝脏分割"
+title: "医学图像处理一使用UNet进行MRI的肝脏分割"
 date:   2022-02-22
 tags: [分割,Net,肝脏,MRI,图像处理]
 comments: true

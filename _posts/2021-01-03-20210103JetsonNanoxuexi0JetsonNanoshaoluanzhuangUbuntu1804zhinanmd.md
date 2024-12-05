@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Jetson Nano】学习（0）——Jetson Nano烧录安装Ubuntu 18.04指南"
+title: "Jetson Nano学习0Jetson Nano烧录安装Ubuntu 1804指南"
 date:   2021-05-04
 tags: [烧录,Nano,Jetson,SD,镜像文件]
 comments: true

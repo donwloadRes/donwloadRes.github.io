@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F7 + USB3300 USB-HS 枚举为复合设备 MSC+CDC"
+title: "基于STM32F7  USB3300 USBHS 枚举为复合设备 MSCCDC"
 date:   2024-04-06
 tags: [USB,设备,STM32,STM32F7,USB3300]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷E10 6.0 自定义报表设计器"
+title: "鼎捷E10 60 自定义报表设计器"
 date:   2022-05-11
 tags: [报表,鼎捷,自定义,E10,6.0]
 comments: true

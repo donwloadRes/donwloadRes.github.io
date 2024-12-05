@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AB PLC程序例子(RSLogix5000)"
+title: "AB PLC程序例子RSLogix5000"
 date:   2022-09-21
 tags: [PLC,RSLogix5000,程序,AB,例子]
 comments: true

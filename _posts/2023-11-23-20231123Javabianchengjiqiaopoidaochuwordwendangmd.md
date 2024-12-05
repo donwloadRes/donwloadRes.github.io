@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java编程技巧：poi导出word文档"
+title: "Java编程技巧poi导出word文档"
 date:   2023-10-31
 tags: [Java,文档,导出,Word,Maven]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陈邦媛射频通信电路》资源下载"
+title: "陈邦媛射频通信电路资源下载"
 date:   2020-10-25
 tags: [射频,电路,陈邦媛,课件,通信]
 comments: true

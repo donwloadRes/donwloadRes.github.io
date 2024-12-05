@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pdf.js预览pdf文件流（base64），对pdf源码的更改"
+title: "pdfjs预览pdf文件流base64对pdf源码的更改"
 date:   2024-10-13
 tags: [pdf,js,文件,base64,预览]
 comments: true

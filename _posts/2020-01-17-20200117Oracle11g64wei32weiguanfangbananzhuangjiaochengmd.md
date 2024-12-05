@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11g 64位-32位官方版安装教程"
+title: "Oracle 11g 64位32位官方版安装教程"
 date:   2024-10-10
 tags: [安装,Oracle,11g,教程,安装包]
 comments: true

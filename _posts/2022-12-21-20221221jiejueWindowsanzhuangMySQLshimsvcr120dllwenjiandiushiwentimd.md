@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows安装MySQL时msvcr120.dll文件丢失问题"
+title: "解决Windows安装MySQL时msvcr120dll文件丢失问题"
 date:   2024-11-14
 tags: [MySQL,文件,msvcr120,dll,安装]
 comments: true

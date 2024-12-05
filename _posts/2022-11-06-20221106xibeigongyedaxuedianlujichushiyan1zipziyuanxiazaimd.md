@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学-电路基础实验1.zip 资源下载"
+title: "西北工业大学电路基础实验1zip 资源下载"
 date:   2021-09-02
 tags: [西北工业大学,电路,实验,zip,下载]
 comments: true

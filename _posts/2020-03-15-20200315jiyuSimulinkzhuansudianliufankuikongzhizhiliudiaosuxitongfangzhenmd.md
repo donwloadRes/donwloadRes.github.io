@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Simulink转速、电流反馈控制直流调速系统仿真"
+title: "基于Simulink转速电流反馈控制直流调速系统仿真"
 date:   2022-07-16
 tags: [仿真,Simulink,调速,系统,直流]
 comments: true

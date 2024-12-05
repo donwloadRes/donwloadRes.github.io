@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红色警戒2兼容性补丁、联网补丁、全屏显示设置"
+title: "红色警戒2兼容性补丁联网补丁全屏显示设置"
 date:   2024-08-22
 tags: [补丁,全屏,dll,游戏,红色警戒]
 comments: true

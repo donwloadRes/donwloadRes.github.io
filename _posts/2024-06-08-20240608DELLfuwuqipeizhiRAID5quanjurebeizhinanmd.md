@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELL服务器配置RAID5+全局热备指南"
+title: "DELL服务器配置RAID5全局热备指南"
 date:   2024-04-07
 tags: [RAID5,DELL,热备,服务器,配置]
 comments: true

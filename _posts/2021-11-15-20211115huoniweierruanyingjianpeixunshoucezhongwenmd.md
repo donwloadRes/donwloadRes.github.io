@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "霍尼韦尔软硬件培训手册（中文）"
+title: "霍尼韦尔软硬件培训手册中文"
 date:   2020-02-17
 tags: [手册,霍尼韦尔,软硬件,培训,初学者]
 comments: true

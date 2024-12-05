@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV循迹完成版（实际小车循迹验证可行）"
+title: "OpenCV循迹完成版实际小车循迹验证可行"
 date:   2023-10-28
 tags: [循迹,图像,OpenCV,小车,边缘]
 comments: true

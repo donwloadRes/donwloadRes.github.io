@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二进制到十进制转换（Verilog代码实现）"
+title: "二进制到十进制转换Verilog代码实现"
 date:   2021-12-07
 tags: [二进制,十进制,Verilog,转换,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路设计与制作实用教程（基于立创EDA）》资料包"
+title: "电路设计与制作实用教程基于立创EDA资料包"
 date:   2021-05-09
 tags: [电路设计,立创,EDA,实用教程,制作]
 comments: true

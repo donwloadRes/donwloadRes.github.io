@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学基础 - 第五版"
+title: "计算机图形学基础  第五版"
 date:   2021-03-04
 tags: [图形学,计算机,第五版,虚拟现实,知识]
 comments: true

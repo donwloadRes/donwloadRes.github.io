@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10下VS配置CGAL-5.3.1指南"
+title: "Win10下VS配置CGAL531指南"
 date:   2021-10-03
 tags: [CGAL,5.3,VS,安装,测试代码]
 comments: true

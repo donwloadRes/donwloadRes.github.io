@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gerrit使用文档手册 - 新手入门指南"
+title: "Gerrit使用文档手册  新手入门指南"
 date:   2023-02-25
 tags: [Gerrit,代码,本手册,审查,指南]
 comments: true

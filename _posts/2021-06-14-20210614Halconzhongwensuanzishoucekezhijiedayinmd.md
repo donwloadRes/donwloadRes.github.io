@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon中文算子手册（可直接打印）"
+title: "Halcon中文算子手册可直接打印"
 date:   2022-04-08
 tags: [Halcon,算子,手册,文档,打印]
 comments: true

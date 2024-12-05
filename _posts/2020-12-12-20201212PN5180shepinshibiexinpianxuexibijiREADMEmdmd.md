@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PN5180射频识别芯片学习笔记 README.md"
+title: "PN5180射频识别芯片学习笔记 READMEmd"
 date:   2021-11-15
 tags: [PN5180,NFC,芯片,寄存器,射频]
 comments: true

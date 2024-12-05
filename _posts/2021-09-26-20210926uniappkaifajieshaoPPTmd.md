@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app开发介绍PPT"
+title: "uniapp开发介绍PPT"
 date:   2020-12-30
 tags: [uni,app,PPT,开发,开发者]
 comments: true

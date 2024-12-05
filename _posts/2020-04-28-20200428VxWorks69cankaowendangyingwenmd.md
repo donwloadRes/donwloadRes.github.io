@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VxWorks 6.9 参考文档（英文）"
+title: "VxWorks 69 参考文档英文"
 date:   2023-03-03
 tags: [VxWorks,文档,6.9,开发,指南]
 comments: true

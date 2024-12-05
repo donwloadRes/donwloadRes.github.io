@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINCC C、VB加密脚本解密工具"
+title: "WINCC CVB加密脚本解密工具"
 date:   2020-11-08
 tags: [解密,加密,WINCC,VB,脚本]
 comments: true

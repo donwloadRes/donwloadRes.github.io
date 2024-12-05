@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手边酒店多店版1.0.47安装指南"
+title: "手边酒店多店版1047安装指南"
 date:   2020-10-30
 tags: [多店,手边,1.0,47,安装]
 comments: true

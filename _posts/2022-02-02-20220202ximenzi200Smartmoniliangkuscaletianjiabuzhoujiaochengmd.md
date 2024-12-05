@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子200Smart模拟量库scale+添加步骤教程"
+title: "西门子200Smart模拟量库scale添加步骤教程"
 date:   2022-04-15
 tags: [200Smart,scale,模拟量,教程,西门子]
 comments: true

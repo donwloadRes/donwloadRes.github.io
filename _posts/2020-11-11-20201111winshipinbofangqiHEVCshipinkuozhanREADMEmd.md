@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【win视频播放器】HEVC视频扩展 README"
+title: "win视频播放器HEVC视频扩展 README"
 date:   2023-10-04
 tags: [HEVC,视频,扩展,Windows,安装]
 comments: true

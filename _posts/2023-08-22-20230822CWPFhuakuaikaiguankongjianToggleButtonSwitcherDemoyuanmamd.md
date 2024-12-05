@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 滑块开关控件 ToggleButton Switcher Demo 源码"
+title: "C WPF 滑块开关控件 ToggleButton Switcher Demo 源码"
 date:   2020-02-29
 tags: [控件,WPF,自定义,开关,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GigE Vision 2.0标准文档下载仓库"
+title: "GigE Vision 20标准文档下载仓库"
 date:   2023-07-27
 tags: [文档,GigE,Vision,2.0,标准]
 comments: true

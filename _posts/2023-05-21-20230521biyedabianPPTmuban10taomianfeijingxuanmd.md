@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业答辩PPT模板（10套免费+精选）"
+title: "毕业答辩PPT模板10套免费精选"
 date:   2020-12-29
 tags: [模板,答辩,PPT,10,毕业]
 comments: true

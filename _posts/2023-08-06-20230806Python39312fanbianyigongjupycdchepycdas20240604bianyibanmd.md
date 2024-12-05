@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.9-3.12 反编译工具 pycdc 和 pycdas (2024.06.04 编译版)"
+title: "Python 39312 反编译工具 pycdc 和 pycdas 20240604 编译版"
 date:   2024-03-18
 tags: [pycdc,编译,反编译,pycdas,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "服务器硬件工程师从入门到精通－基础篇"
+title: "服务器硬件工程师从入门到精通基础篇"
 date:   2022-02-13
 tags: [服务器,硬件,工程师,入门,文件]
 comments: true

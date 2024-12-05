@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版黑苹果MacOS 10.14 Mojave安装教程"
+title: "最新版黑苹果MacOS 1014 Mojave安装教程"
 date:   2022-09-09
 tags: [安装,U盘,教程,Mojave,最新版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记（27）——FatFs文件系统使用（操作SD卡）"
+title: "STM32CubeMX学习笔记27FatFs文件系统使用操作SD卡"
 date:   2021-12-06
 tags: [文件系统,FatFs,SD,STM32CubeMX,文件]
 comments: true

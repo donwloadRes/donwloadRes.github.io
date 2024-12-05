@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP VC9-VC14运行库分享及localhost访问404问题解决方案"
+title: "PHP VC9VC14运行库分享及localhost访问404问题解决方案"
 date:   2024-06-13
 tags: [运行库,PHP,安装,VC14,localhost]
 comments: true

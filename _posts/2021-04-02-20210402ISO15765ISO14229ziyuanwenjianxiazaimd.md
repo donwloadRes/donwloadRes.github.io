@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO15765、ISO 14229 资源文件下载"
+title: "ISO15765ISO 14229 资源文件下载"
 date:   2023-01-23
 tags: [ISO15765,ISO14229,诊断系统,文件,诊断]
 comments: true

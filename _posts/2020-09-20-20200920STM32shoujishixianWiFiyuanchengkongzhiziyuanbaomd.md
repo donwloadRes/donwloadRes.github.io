@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+手机实现WiFi远程控制资源包"
+title: "STM32手机实现WiFi远程控制资源包"
 date:   2021-12-13
 tags: [STM32,ATK,ESP8266,WIFI,原理图]
 comments: true

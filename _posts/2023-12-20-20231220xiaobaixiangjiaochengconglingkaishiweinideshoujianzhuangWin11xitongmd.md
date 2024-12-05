@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白向教程：从零开始为你的手机安装Win11系统"
+title: "小白向教程从零开始为你的手机安装Win11系统"
 date:   2024-01-25
 tags: [教程,手机,安装,本文,Windows]
 comments: true

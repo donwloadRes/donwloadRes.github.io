@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "糖尿病数据集diabetes.csv（免费）"
+title: "糖尿病数据集diabetescsv免费"
 date:   2023-02-27
 tags: [diabetes,csv,数据,糖尿病,模型]
 comments: true

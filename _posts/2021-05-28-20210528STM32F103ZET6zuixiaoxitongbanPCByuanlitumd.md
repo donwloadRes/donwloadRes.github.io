@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103ZET6最小系统板PCB+原理图"
+title: "STM32F103ZET6最小系统板PCB原理图"
 date:   2023-10-02
 tags: [STM32F103ZET6,PCB,原理图,设计,文件]
 comments: true

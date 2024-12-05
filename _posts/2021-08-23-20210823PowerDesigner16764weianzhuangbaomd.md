@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner 16.7（64位）安装包"
+title: "PowerDesigner 16764位安装包"
 date:   2020-06-14
 tags: [数据库,PowerDesigner,设计,数据模型,64]
 comments: true

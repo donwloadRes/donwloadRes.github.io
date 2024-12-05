@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Docker部署Web在线聊天室Rocket.Chat"
+title: "使用Docker部署Web在线聊天室RocketChat"
 date:   2021-07-17
 tags: [Docker,Rocket,Chat,部署,团队]
 comments: true

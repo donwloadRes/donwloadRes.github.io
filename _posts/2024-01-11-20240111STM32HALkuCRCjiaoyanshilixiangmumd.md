@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库-CRC校验示例项目"
+title: "STM32 HAL库CRC校验示例项目"
 date:   2023-10-02
 tags: [校验,CRC,STM32,HAL,串口]
 comments: true

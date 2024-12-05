@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "方述诚老师线性规划》课程资源"
+title: "方述诚老师线性规划课程资源"
 date:   2024-10-06
 tags: [线性规划,方述,教材,学习,课程]
 comments: true

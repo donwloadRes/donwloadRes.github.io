@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA Pro权威指南(第二版)中文完美版下载"
+title: "IDA Pro权威指南第二版中文完美版下载"
 date:   2021-06-10
 tags: [IDA,Pro,PDF,完美版,指南]
 comments: true

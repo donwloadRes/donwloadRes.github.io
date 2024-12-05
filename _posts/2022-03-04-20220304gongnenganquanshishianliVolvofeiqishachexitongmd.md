@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功能安全实施案例：Volvo废气刹车系统"
+title: "功能安全实施案例Volvo废气刹车系统"
 date:   2022-07-13
 tags: [Volvo,安全,功能,案例,刹车]
 comments: true

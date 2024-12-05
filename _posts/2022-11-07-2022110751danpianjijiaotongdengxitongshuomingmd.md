@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机——交通灯系统说明"
+title: "51单片机交通灯系统说明"
 date:   2020-08-29
 tags: [单片机,交通灯,51,数码管,控制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSO-X3034A示波器用户使用手册说明"
+title: "DSOX3034A示波器用户使用手册说明"
 date:   2024-05-31
 tags: [示波器,DSO,X3034A,本手册,使用手册]
 comments: true

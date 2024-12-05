@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可编辑LIN数据库的免费软件-LDFtool软件"
+title: "可编辑LIN数据库的免费软件LDFtool软件"
 date:   2020-01-23
 tags: [LIN,数据库,LDFtool,软件,编辑]
 comments: true

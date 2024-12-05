@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Server 5.5 软件和安装配置教程"
+title: "MySQL Server 55 软件和安装配置教程"
 date:   2023-03-31
 tags: [MySQL,安装,选择,配置,Server]
 comments: true

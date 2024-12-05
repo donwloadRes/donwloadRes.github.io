@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经济学原理第七版 - N. Gregory Mankiw 高清资源下载"
+title: "经济学原理第七版  N Gregory Mankiw 高清资源下载"
 date:   2022-01-16
 tags: [经济学,第七版,高清,Gregory,Mankiw]
 comments: true

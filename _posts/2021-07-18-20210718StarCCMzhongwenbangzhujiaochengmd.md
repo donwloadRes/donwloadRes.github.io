@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StarCCM+ 中文帮助教程"
+title: "StarCCM 中文帮助教程"
 date:   2022-06-19
 tags: [StarCCM,教程,帮助,中文,这份]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联客2020版FPGA PCIE通信方案(XDMA-win) MPSOC ZYNQ 资源下载"
+title: "米联客2020版FPGA PCIE通信方案XDMAwin MPSOC ZYNQ 资源下载"
 date:   2022-12-10
 tags: [E通,PCI,FPGA,联客,2020]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验2：理解子网掩码、网关和ARP协议的作用1"
+title: "实验2理解子网掩码网关和ARP协议的作用1"
 date:   2023-04-04
 tags: [子网掩码,实验,网关,ARP,网络]
 comments: true

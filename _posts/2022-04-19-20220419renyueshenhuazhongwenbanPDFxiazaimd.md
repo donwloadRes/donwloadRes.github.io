@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人月神话(中文版) PDF 下载"
+title: "人月神话中文版 PDF 下载"
 date:   2020-09-02
 tags: [PDF,中文版,下载,文件,神话]
 comments: true

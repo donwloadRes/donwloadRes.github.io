@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTCA DO-160E中文版资源介绍"
+title: "RTCA DO160E中文版资源介绍"
 date:   2024-06-06
 tags: [160E,RTCA,DO,中文版,航空]
 comments: true

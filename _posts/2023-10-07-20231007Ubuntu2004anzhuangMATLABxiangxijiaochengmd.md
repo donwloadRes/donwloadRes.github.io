@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 安装 MATLAB 详细教程"
+title: "Ubuntu 2004 安装 MATLAB 详细教程"
 date:   2022-05-29
 tags: [MATLAB,教程,安装,Ubuntu,快捷方式]
 comments: true

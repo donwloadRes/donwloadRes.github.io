@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI+实时动态曲线绘制"
+title: "C GDI实时动态曲线绘制"
 date:   2023-04-24
 tags: [绘制,串口,曲线,实时,代码]
 comments: true

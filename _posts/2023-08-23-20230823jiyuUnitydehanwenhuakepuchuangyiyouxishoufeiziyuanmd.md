@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Unity的汉文化科普创意游戏（收费资源）"
+title: "基于Unity的汉文化科普创意游戏收费资源"
 date:   2022-10-22
 tags: [游戏,Unity,文化,玩家,资源]
 comments: true

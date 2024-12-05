@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "白鲸优化算法应用于VMD参数优化：以最小包络熵为目标的特征提取方法"
+title: "白鲸优化算法应用于VMD参数优化以最小包络熵为目标的特征提取方法"
 date:   2020-11-10
 tags: [算法,白鲸,VMD,优化,特征提取]
 comments: true

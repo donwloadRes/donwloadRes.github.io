@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能行业从CHAT-GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力"
+title: "人工智能行业从CHATGPT到生成式AIGenerative AI人工智能新范式重新定义生产力"
 date:   2024-09-24
 tags: [AI,生成式,人工智能,CHAT,GPT]
 comments: true

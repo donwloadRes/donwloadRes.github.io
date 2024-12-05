@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 甘特图控件源代码"
+title: "C 甘特图控件源代码"
 date:   2022-07-09
 tags: [源代码,控件,甘特图,C#,整合]
 comments: true

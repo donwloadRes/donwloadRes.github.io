@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab计算Zernike36项系数（OSA）源码"
+title: "Matlab计算Zernike36项系数OSA源码"
 date:   2023-08-03
 tags: [Zernike,系数,源码,计算,Matlab]
 comments: true

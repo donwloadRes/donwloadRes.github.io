@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DL-t698.45国南网报文解析工具"
+title: "DLt69845国南网报文解析工具"
 date:   2022-11-28
 tags: [报文,解析,DL,规约,t698.45]
 comments: true

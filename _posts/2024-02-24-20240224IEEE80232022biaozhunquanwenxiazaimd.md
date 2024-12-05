@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE802.3-2022标准全文下载"
+title: "IEEE80232022标准全文下载"
 date:   2024-09-03
 tags: [IEEE802.3,2022,PDF,文件,下载]
 comments: true

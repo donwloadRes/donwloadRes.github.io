@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QUARTUS II 编译报错：top level design entity “...” is undefined 解决方法"
+title: "QUARTUS II 编译报错top level design entity  is undefined 解决方法"
 date:   2023-12-13
 tags: [QUARTUS,II,编译,顶层,...]
 comments: true

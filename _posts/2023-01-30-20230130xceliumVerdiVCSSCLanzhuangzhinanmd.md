@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xcelium、Verdi、VCS、SCL安装指南"
+title: "xceliumVerdiVCSSCL安装指南"
 date:   2023-05-05
 tags: [安装,SCL,VCS,xcelium,环境变量]
 comments: true

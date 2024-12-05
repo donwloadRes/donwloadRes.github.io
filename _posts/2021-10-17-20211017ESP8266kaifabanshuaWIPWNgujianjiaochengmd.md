@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266开发板刷WI-PWN固件教程"
+title: "ESP8266开发板刷WIPWN固件教程"
 date:   2023-01-08
 tags: [固件,烧录,ESP8266,WiFi,攻击]
 comments: true

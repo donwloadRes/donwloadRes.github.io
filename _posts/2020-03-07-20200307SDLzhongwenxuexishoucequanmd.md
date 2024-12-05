@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDL中文学习手册（全）"
+title: "SDL中文学习手册全"
 date:   2022-01-22
 tags: [SDL,手册,学习,中文,这份]
 comments: true

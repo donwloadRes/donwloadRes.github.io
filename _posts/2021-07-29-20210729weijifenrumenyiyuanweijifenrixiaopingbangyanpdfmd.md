@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微积分入门Ⅰ  一元微积分 -(日）小平邦彦.pdf"
+title: "微积分入门  一元微积分 日小平邦彦pdf"
 date:   2022-11-14
 tags: [微积分,平邦彦,入门,pdf,一元]
 comments: true

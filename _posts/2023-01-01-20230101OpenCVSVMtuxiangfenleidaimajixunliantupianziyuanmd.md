@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV+SVM图像分类代码及训练图片资源"
+title: "OpenCVSVM图像分类代码及训练图片资源"
 date:   2024-06-24
 tags: [OpenCV,代码,SVM,图像,分类]
 comments: true

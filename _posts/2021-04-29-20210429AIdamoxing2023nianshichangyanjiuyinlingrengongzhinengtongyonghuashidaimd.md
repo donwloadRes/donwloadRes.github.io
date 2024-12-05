@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI大模型：2023年市场研究，引领人工智能通用化时代"
+title: "AI大模型2023年市场研究引领人工智能通用化时代"
 date:   2021-08-07
 tags: [模型,人工智能,AI,应用,技术]
 comments: true

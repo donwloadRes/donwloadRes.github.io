@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 25010:2011 软件质量模型标准文档"
+title: "ISOIEC 250102011 软件质量模型标准文档"
 date:   2021-11-02
 tags: [文档,质量,ISO,IEC,25010]
 comments: true

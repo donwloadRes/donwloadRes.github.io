@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "去广告神器——李跳跳"
+title: "去广告神器李跳跳"
 date:   2020-09-25
 tags: [广告,跳跳,下载,版本,无广告]
 comments: true

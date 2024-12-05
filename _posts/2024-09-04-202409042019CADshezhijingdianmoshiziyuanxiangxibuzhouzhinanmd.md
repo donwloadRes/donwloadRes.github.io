@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019 CAD 设置经典模式资源 & 详细步骤指南"
+title: "2019 CAD 设置经典模式资源  详细步骤指南"
 date:   2024-03-16
 tags: [AutoCAD,2019,经典,界面,模板]
 comments: true

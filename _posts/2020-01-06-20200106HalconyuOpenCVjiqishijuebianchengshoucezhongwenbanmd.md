@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 与 OpenCV 机器视觉编程手册——中文版"
+title: "Halcon 与 OpenCV 机器视觉编程手册中文版"
 date:   2022-04-14
 tags: [视觉,OpenCV,机器,手册,Halcon]
 comments: true

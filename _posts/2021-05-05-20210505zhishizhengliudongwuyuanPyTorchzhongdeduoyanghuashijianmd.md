@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知识蒸馏动物园：PyTorch中的多样化实践"
+title: "知识蒸馏动物园PyTorch中的多样化实践"
 date:   2020-08-05
 tags: [蒸馏,知识,模型,PyTorch,转移]
 comments: true

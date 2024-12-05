@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm上位机框架 - 练手项目"
+title: "WinForm上位机框架  练手项目"
 date:   2024-04-10
 tags: [练手,feature,项目,框架,功能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI的FAST观测器：无感零速带载启动算法"
+title: "TI的FAST观测器无感零速带载启动算法"
 date:   2021-01-16
 tags: [观测器,FAST,零速,带载,电机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言中缀算术表达式求值练习题（附答案）"
+title: "C语言中缀算术表达式求值练习题附答案"
 date:   2023-11-09
 tags: [中缀,C语言,求值,表达式,练习题]
 comments: true

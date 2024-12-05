@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-基于JAVA的SpringBoot私人健身与教练预约管理系统（源代码+论文）"
+title: "毕业设计基于JAVA的SpringBoot私人健身与教练预约管理系统源代码论文"
 date:   2021-04-08
 tags: [教练,健身,预约,系统,管理]
 comments: true

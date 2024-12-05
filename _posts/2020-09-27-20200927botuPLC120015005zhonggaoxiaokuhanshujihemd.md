@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博途PLC 1200-1500 - 5种高效库函数集合"
+title: "博途PLC 12001500  5种高效库函数集合"
 date:   2023-12-11
 tags: [库函数,博途,PLC,Portal,编程]
 comments: true

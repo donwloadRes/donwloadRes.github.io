@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波技术与天线习题答案（王新稳第四版）"
+title: "微波技术与天线习题答案王新稳第四版"
 date:   2024-05-11
 tags: [习题,天线,微波,答案,王新稳]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.6.2 离线安装资源及证书安装指南"
+title: "NET Framework 462 离线安装资源及证书安装指南"
 date:   2023-03-10
 tags: [证书,NET,Framework,4.6,点击]
 comments: true

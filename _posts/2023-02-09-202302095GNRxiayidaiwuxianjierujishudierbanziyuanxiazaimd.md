@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G NR: 下一代无线接入技术 第二版 资源下载"
+title: "5G NR 下一代无线接入技术 第二版 资源下载"
 date:   2024-06-07
 tags: [5G,NR,下载,技术,第二]
 comments: true

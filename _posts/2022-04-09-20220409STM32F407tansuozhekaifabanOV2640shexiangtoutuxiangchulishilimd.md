@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407探索者开发板+OV2640摄像头图像处理示例"
+title: "STM32F407探索者开发板OV2640摄像头图像处理示例"
 date:   2021-10-06
 tags: [STM32F407,开发板,图像,OV2640,摄像头]
 comments: true

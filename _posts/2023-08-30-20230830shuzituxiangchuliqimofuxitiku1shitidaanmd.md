@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理》期末复习题库1 + 试题答案"
+title: "数字图像处理期末复习题库1  试题答案"
 date:   2020-05-01
 tags: [复习,题库,排版,知识点,题型]
 comments: true

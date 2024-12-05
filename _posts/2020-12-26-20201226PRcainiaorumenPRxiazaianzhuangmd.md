@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PR菜鸟入门 -- PR下载安装"
+title: "PR菜鸟入门  PR下载安装"
 date:   2022-03-12
 tags: [PR,安装,下载,软件,步骤]
 comments: true

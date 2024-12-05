@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Django的Python毕业设计项目：就业系统源码"
+title: "基于Django的Python毕业设计项目就业系统源码"
 date:   2023-04-17
 tags: [Django,Python,项目,py,毕业设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA设计实战演练(高级技巧篇) 资源下载"
+title: "FPGA设计实战演练高级技巧篇 资源下载"
 date:   2024-02-08
 tags: [FPGA,设计,演练,资源,实战]
 comments: true

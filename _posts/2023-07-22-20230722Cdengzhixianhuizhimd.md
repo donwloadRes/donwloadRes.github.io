@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#等值线绘制"
+title: "C等值线绘制"
 date:   2022-01-26
 tags: [等高线,绘制,TIN,保存,数据]
 comments: true

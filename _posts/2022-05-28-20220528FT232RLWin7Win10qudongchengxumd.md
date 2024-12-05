@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT232RL Win7-Win10 驱动程序"
+title: "FT232RL Win7Win10 驱动程序"
 date:   2024-06-04
 tags: [驱动程序,FT232RL,Windows,压缩包,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "容川串口通信调试助手 V5.22 下载"
+title: "容川串口通信调试助手 V522 下载"
 date:   2020-11-28
 tags: [串口,调试,通信,容川,V5.22]
 comments: true

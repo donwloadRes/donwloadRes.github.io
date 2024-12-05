@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCTV_Viewer 电视浏览器"
+title: "CCTVViewer 电视浏览器"
 date:   2021-01-03
 tags: [CCTV,Viewer,频道,电视,Android]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TortoiseSVN 1.14.1 版本管理软件及中文语言包"
+title: "TortoiseSVN 1141 版本管理软件及中文语言包"
 date:   2020-01-18
 tags: [TortoiseSVN,1.14,右键,版本,语言包]
 comments: true

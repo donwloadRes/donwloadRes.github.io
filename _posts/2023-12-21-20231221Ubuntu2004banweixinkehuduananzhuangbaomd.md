@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 版微信客户端安装包"
+title: "Ubuntu 2004 版微信客户端安装包"
 date:   2022-05-15
 tags: [客户端,Ubuntu,微信,安装包,20.04]
 comments: true

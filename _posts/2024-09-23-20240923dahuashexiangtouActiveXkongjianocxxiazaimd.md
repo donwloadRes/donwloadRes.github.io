@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大华摄像头ActiveX控件（ocx）下载"
+title: "大华摄像头ActiveX控件ocx下载"
 date:   2024-09-02
 tags: [控件,ActiveX,ocx,摄像头,大华]
 comments: true

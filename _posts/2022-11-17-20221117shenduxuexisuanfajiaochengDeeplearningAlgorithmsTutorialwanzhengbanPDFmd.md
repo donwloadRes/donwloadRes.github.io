@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习算法教程(Deeplearning Algorithms Tutorial) 完整版PDF"
+title: "深度学习算法教程Deeplearning Algorithms Tutorial 完整版PDF"
 date:   2022-04-01
 tags: [学习,深度,PDF,教程,算法]
 comments: true

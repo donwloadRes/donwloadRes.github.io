@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIX环境高级编程中文第三版PDF+文中源码"
+title: "UNIX环境高级编程中文第三版PDF文中源码"
 date:   2024-02-26
 tags: [编程,源码,PDF,编译,源代码]
 comments: true

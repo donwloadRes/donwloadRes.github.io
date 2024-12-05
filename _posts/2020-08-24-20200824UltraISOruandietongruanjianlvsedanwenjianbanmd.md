@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UltraISO软碟通软件（绿色单文件版）"
+title: "UltraISO软碟通软件绿色单文件版"
 date:   2024-01-28
 tags: [文件,映像,光盘,ISO,UltraISO]
 comments: true

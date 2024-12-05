@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET图书馆管理信息系统"
+title: "ASPNET图书馆管理信息系统"
 date:   2024-05-27
 tags: [图书,管理员,管理,读者,NET]
 comments: true

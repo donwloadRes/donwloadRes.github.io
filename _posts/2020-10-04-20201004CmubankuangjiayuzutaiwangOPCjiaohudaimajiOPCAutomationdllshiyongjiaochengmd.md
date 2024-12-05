@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#模板框架与组态王OPC交互代码及OPCAutomation.dll使用教程"
+title: "C模板框架与组态王OPC交互代码及OPCAutomationdll使用教程"
 date:   2023-08-16
 tags: [OPC,OPCAutomation,dll,组态王,C#]
 comments: true

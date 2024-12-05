@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1400 道 CISSP 考试模拟题（含答案和解析）"
+title: "1400 道 CISSP 考试模拟题含答案和解析"
 date:   2024-08-07
 tags: [CISSP,资源库,考试,1400,模拟题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus 上位机源码"
+title: "C Modbus 上位机源码"
 date:   2024-07-15
 tags: [Modbus,数据库,源码,RTU,TCP]
 comments: true

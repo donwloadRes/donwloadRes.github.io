@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计信号处理基础：估计理论资源下载"
+title: "统计信号处理基础估计理论资源下载"
 date:   2022-05-22
 tags: [信号处理,资源,文件,工程师,下载]
 comments: true

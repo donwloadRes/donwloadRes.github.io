@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 应用源码包_3 介绍"
+title: "VC 应用源码包3 介绍"
 date:   2024-06-11
 tags: [源码,C++,VC,控件,编程]
 comments: true

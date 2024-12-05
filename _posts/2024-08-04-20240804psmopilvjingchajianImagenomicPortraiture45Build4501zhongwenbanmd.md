@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ps磨皮滤镜插件Imagenomic Portraiture 4.5 Build 4501中文版"
+title: "ps磨皮滤镜插件Imagenomic Portraiture 45 Build 4501中文版"
 date:   2023-09-21
 tags: [插件,磨皮,4.5,滤镜,Imagenomic]
 comments: true

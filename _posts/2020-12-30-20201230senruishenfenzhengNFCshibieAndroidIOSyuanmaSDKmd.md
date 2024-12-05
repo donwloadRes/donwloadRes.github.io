@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "森锐身份证 NFC识别Android+IOS源码+SDK"
+title: "森锐身份证 NFC识别AndroidIOS源码SDK"
 date:   2023-10-28
 tags: [NFC,源码,SDK,身份证,Android]
 comments: true

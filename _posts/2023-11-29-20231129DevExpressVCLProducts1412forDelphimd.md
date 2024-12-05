@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress VCL Products 14.1.2 for Delphi"
+title: "DevExpress VCL Products 1412 for Delphi"
 date:   2020-07-20
 tags: [Delphi,DevExpress,版本,安装,VCL]
 comments: true

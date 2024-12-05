@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro 2.5 安装指南及资源下载"
+title: "ArcGIS Pro 25 安装指南及资源下载"
 date:   2020-11-25
 tags: [安装,ArcGIS,Pro,安装包,2.5]
 comments: true

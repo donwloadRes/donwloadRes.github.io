@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达机器学习课程笔记（黄海广博士）"
+title: "吴恩达机器学习课程笔记黄海广博士"
 date:   2023-04-29
 tags: [学习,笔记,吴恩达,机器,课程]
 comments: true

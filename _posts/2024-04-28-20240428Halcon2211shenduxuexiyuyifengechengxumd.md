@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 22.11 深度学习语义分割程序"
+title: "Halcon 2211 深度学习语义分割程序"
 date:   2020-03-27
 tags: [Halcon,语义,分割,22.11,模型]
 comments: true

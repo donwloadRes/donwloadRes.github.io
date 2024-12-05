@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张正友相机标定Opencv实现（带棋盘格打印PDF和测试图片）"
+title: "张正友相机标定Opencv实现带棋盘格打印PDF和测试图片"
 date:   2022-12-14
 tags: [标定,相机,拍摄,棋盘,代码]
 comments: true

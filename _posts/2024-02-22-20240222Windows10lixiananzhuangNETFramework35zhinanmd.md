@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 离线安装 .NET Framework 3.5 指南"
+title: "Windows 10 离线安装 NET Framework 35 指南"
 date:   2022-01-09
 tags: [离线,安装,安装包,Windows,10]
 comments: true

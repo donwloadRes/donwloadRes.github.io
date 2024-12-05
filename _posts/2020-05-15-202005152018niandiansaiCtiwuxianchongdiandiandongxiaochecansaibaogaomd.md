@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018年电赛C题：无线充电电动小车参赛报告"
+title: "2018年电赛C题无线充电电动小车参赛报告"
 date:   2024-04-21
 tags: [无线,充电,小车,报告,2018]
 comments: true

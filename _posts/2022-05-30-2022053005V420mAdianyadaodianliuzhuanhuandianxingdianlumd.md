@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0~5V 4~20mA 电压到电流转换典型电路"
+title: "05V 420mA 电压到电流转换典型电路"
 date:   2023-10-28
 tags: [电路,电路设计,信号,元件,原理图]
 comments: true

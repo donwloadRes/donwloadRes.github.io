@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iperf丢包率不准确？深入解析iperf使用经验"
+title: "iperf丢包率不准确深入解析iperf使用经验"
 date:   2022-06-06
 tags: [iperf,包率,文档,网络,准确]
 comments: true

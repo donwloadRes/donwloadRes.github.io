@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“No module named ‘tensorflow.examples’”问题"
+title: "解决No module named tensorflowexamples问题"
 date:   2024-03-10
 tags: [TensorFlow,examples,确保您,示例,文件]
 comments: true

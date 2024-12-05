@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决eNsp路由器AR一直出现###的问题"
+title: "解决eNsp路由器AR一直出现的问题"
 date:   2021-10-30
 tags: [eNsp,AR,VirtualBox,路由器,防火墙]
 comments: true

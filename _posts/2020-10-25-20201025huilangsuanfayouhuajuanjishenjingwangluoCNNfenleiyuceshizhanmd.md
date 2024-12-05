@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "灰狼算法优化卷积神经网络(CNN)分类预测实战"
+title: "灰狼算法优化卷积神经网络CNN分类预测实战"
 date:   2022-11-21
 tags: [CNN,分类,算法,灰狼,卷积]
 comments: true

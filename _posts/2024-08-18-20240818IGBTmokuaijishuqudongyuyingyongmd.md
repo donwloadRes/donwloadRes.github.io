@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IGBT模块技术、驱动与应用"
+title: "IGBT模块技术驱动与应用"
 date:   2024-06-01
 tags: [IGBT,应用,本书,技术,驱动]
 comments: true

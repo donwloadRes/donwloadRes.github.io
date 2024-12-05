@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim-win64-10.6d-se 资源文件介绍"
+title: "Modelsimwin64106dse 资源文件介绍"
 date:   2020-10-28
 tags: [Modelsim,10.6,破解,win64,se]
 comments: true

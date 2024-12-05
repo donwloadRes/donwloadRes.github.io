@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim仿真资源库：涵盖200个电子电路设计案例"
+title: "Multisim仿真资源库涵盖200个电子电路设计案例"
 date:   2021-01-03
 tags: [Multisim,资源库,仿真,案例,200]
 comments: true

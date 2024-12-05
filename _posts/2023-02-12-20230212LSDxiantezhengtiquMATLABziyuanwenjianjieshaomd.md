@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSD线特征提取（MATLAB）资源文件介绍"
+title: "LSD线特征提取MATLAB资源文件介绍"
 date:   2023-01-31
 tags: [MATLAB,特征提取,LSD,example,函数]
 comments: true

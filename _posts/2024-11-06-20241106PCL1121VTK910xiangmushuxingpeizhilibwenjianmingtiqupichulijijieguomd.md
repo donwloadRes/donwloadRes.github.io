@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCL1.12.1+VTK9.1.0项目属性配置lib文件名提取批处理及结果"
+title: "PCL1121VTK910项目属性配置lib文件名提取批处理及结果"
 date:   2022-03-01
 tags: [lib,文件名,批处理,PCL,VTK]
 comments: true

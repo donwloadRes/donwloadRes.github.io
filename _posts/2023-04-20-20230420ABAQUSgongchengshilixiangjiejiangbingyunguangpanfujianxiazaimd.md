@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS工程实例详解（江丙云）+光盘附件下载"
+title: "ABAQUS工程实例详解江丙云光盘附件下载"
 date:   2024-09-19
 tags: [ABAQUS,江丙,实例,详解,光盘]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "恒温箱PID温度控制Proteus_C51仿真实验"
+title: "恒温箱PID温度控制ProteusC51仿真实验"
 date:   2022-08-25
 tags: [仿真,PID,Proteus,PWM,温度]
 comments: true

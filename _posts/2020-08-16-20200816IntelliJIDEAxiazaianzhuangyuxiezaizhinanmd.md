@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA 下载、安装与卸载指南"
+title: "IntelliJ IDEA 下载安装与卸载指南"
 date:   2023-04-10
 tags: [IntelliJ,IDEA,卸载,安装,指南]
 comments: true

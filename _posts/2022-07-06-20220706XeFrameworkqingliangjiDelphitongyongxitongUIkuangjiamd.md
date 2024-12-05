@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XeFramework - 轻量级Delphi通用系统UI框架"
+title: "XeFramework  轻量级Delphi通用系统UI框架"
 date:   2024-07-12
 tags: [窗体,界面,UI,包含,代码]
 comments: true

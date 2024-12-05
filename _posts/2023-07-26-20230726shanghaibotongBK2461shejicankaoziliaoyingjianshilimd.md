@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上海博通BK2461设计参考资料+硬件+示例"
+title: "上海博通BK2461设计参考资料硬件示例"
 date:   2021-09-16
 tags: [BK2461,原理图,开发板,程序,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04 笔记本安装 RTX 3080 Ti NVIDIA 显卡驱动指南"
+title: "Ubuntu 2204 笔记本安装 RTX 3080 Ti NVIDIA 显卡驱动指南"
 date:   2021-02-22
 tags: [驱动,安装,显卡,Ubuntu,RTX]
 comments: true

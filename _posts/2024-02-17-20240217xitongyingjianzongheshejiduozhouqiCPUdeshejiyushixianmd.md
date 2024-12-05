@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统硬件综合设计 - 多周期CPU的设计与实现"
+title: "系统硬件综合设计  多周期CPU的设计与实现"
 date:   2021-12-11
 tags: [CPU,设计,指令,Verilog,周期]
 comments: true

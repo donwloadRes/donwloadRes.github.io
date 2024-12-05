@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vmware安装Kali Linux 2020.2 教程"
+title: "Vmware安装Kali Linux 20202 教程"
 date:   2023-02-24
 tags: [Kali,安装,Vmware,Linux,虚拟机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 调用 Java：资源库 IKVM-8.1.5717.1"
+title: "NET 调用 Java资源库 IKVM8157171"
 date:   2022-03-21
 tags: [NET,Java,IKVM,8.1,5717.1]
 comments: true

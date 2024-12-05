@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL实验八：犹他茶壶光照、阴影、纹理"
+title: "OpenGL实验八犹他茶壶光照阴影纹理"
 date:   2023-02-03
 tags: [OpenGL,纹理,阴影,光照,源码]
 comments: true

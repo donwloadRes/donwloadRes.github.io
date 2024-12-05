@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware安装Red Hat 7.6操作系统指南"
+title: "VMware安装Red Hat 76操作系统指南"
 date:   2020-03-14
 tags: [Red,Hat,操作系统,7.6,虚拟机]
 comments: true

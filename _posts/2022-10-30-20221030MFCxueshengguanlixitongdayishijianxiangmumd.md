@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC学生管理系统 - 大一实践项目"
+title: "MFC学生管理系统  大一实践项目"
 date:   2021-08-17
 tags: [MFC,学习,学生,管理系统,大一]
 comments: true

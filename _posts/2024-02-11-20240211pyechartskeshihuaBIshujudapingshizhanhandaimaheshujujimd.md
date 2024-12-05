@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pyecharts可视化BI数据大屏实战(含代码和数据集)"
+title: "pyecharts可视化BI数据大屏实战含代码和数据集"
 date:   2021-03-15
 tags: [pyecharts,数据,可视化,代码,柱状图]
 comments: true

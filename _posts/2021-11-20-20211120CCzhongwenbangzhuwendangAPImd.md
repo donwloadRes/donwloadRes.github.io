@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 中文帮助文档（API）"
+title: "CC 中文帮助文档API"
 date:   2021-04-10
 tags: [文档,C++,函数,库函数,中文]
 comments: true

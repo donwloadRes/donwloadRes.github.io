@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QMLBook（中文版）下载仓库"
+title: "QMLBook中文版下载仓库"
 date:   2020-08-19
 tags: [文档,QML,QMLBook,中文版,PDF]
 comments: true

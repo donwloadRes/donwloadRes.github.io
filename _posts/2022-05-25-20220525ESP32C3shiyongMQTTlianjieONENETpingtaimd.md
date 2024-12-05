@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-C3 使用 MQTT 连接 ONENET 平台"
+title: "ESP32C3 使用 MQTT 连接 ONENET 平台"
 date:   2024-04-15
 tags: [ESP32,C3,MQTT,ONENET,开发板]
 comments: true

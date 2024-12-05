@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 4.0 Gradle 插件及依赖包下载"
+title: "Android Studio 40 Gradle 插件及依赖包下载"
 date:   2020-04-04
 tags: [Gradle,gradle,zip,版本,下载]
 comments: true

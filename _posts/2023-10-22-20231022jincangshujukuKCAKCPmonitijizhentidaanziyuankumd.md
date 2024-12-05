@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金仓数据库KCA、KCP模拟题及真题答案资源库"
+title: "金仓数据库KCAKCP模拟题及真题答案资源库"
 date:   2021-09-27
 tags: [KCP,模拟题,数据库,真题,题目]
 comments: true

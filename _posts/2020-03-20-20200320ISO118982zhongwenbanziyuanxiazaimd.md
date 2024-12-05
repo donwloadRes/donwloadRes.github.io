@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 11898-2 中文版资源下载"
+title: "ISO 118982 中文版资源下载"
 date:   2020-02-25
 tags: [ISO,11898,下载,中文版,文件]
 comments: true

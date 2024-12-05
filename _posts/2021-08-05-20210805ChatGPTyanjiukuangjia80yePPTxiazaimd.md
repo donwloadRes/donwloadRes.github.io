@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT研究框架（80页PPT）下载"
+title: "ChatGPT研究框架80页PPT下载"
 date:   2021-10-10
 tags: [ChatGPT,PPT,80,框架,文件]
 comments: true

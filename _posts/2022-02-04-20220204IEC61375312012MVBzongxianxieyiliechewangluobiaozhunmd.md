@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61375-3-1-2012 MVB总线协议 - 列车网络标准"
+title: "IEC 61375312012 MVB总线协议  列车网络标准"
 date:   2021-04-11
 tags: [总线,MVB,列车,文档,IEC]
 comments: true

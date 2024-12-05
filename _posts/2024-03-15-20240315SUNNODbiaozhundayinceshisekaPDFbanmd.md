@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SUNNOD标准打印测试色卡-PDF版"
+title: "SUNNOD标准打印测试色卡PDF版"
 date:   2021-02-10
 tags: [打印,色卡,打印机,SUNNOD,PDF]
 comments: true

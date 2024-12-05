@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F-Ram 自动内存释放工具（含源码）"
+title: "FRam 自动内存释放工具含源码"
 date:   2022-10-11
 tags: [Ram,内存,清理,图形界面,源码]
 comments: true

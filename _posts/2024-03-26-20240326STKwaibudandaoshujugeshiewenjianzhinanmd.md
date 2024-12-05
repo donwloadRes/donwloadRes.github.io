@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STK外部弹道数据格式(e文件)指南"
+title: "STK外部弹道数据格式e文件指南"
 date:   2023-01-03
 tags: [STK,弹道,导入,数据,文件]
 comments: true

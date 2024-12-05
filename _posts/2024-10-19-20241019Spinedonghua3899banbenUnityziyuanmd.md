@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spine动画3.8.99版本Unity资源"
+title: "Spine动画3899版本Unity资源"
 date:   2021-07-30
 tags: [动画,Unity,Spine,3.8,99]
 comments: true

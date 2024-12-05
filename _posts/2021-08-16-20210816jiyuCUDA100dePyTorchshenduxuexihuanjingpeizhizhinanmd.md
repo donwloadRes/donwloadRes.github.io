@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CUDA 10.0的PyTorch深度学习环境配置指南"
+title: "基于CUDA 100的PyTorch深度学习环境配置指南"
 date:   2024-06-27
 tags: [PyTorch,CUDA,10.0,环境,GPU]
 comments: true

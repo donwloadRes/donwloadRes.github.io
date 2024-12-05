@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境下安装jdk1.8（安装包版）"
+title: "Linux环境下安装jdk18安装包版"
 date:   2024-04-04
 tags: [JDK,bash,安装,环境变量,安装包]
 comments: true

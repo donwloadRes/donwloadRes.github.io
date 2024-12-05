@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "领域驱动设计：软件核心复杂性应对之道.pdf 下载指南"
+title: "领域驱动设计软件核心复杂性应对之道pdf 下载指南"
 date:   2024-06-24
 tags: [驱动,DDD,设计,复杂性,领域]
 comments: true

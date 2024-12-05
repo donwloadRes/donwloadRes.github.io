@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 14229-1-2020 道路车辆统一诊断设备规范与要求"
+title: "ISO 1422912020 道路车辆统一诊断设备规范与要求"
 date:   2021-02-18
 tags: [ISO,诊断,2020,UDS,车辆]
 comments: true

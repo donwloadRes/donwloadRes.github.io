@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "帝国CMS7.5后台模板美化版V2.2.5"
+title: "帝国CMS75后台模板美化版V225"
 date:   2020-11-11
 tags: [模板,后台,美化版,CMS7.5,预览]
 comments: true

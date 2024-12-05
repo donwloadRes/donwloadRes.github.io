@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无人机设计基本原理 (Unmanned Aircraft Design, 英文pdf文字版) 说明文档"
+title: "无人机设计基本原理 Unmanned Aircraft Design 英文pdf文字版 说明文档"
 date:   2021-11-14
 tags: [无人机,设计,PDF,基本原理,英文]
 comments: true

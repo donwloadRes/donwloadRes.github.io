@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HPE ProLiant DL380-DL360 Gen9 系统 ROM 3.08 - P89 下载"
+title: "HPE ProLiant DL380DL360 Gen9 系统 ROM 308  P89 下载"
 date:   2020-01-19
 tags: [ROM,更新,版本,HPE,3.08]
 comments: true

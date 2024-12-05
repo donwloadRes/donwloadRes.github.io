@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "风灵月影捆绑软件解决办法（修改器）"
+title: "风灵月影捆绑软件解决办法修改器"
 date:   2020-02-22
 tags: [修改器,软件,安装,风灵,捆绑]
 comments: true

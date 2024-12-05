@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kindle刷安卓系统，安装微信读书教程"
+title: "Kindle刷安卓系统安装微信读书教程"
 date:   2021-06-27
 tags: [Kindle,微信,安装,教程,读书]
 comments: true

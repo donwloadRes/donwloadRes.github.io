@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.11.1 中文帮助文档下载"
+title: "Qt 5111 中文帮助文档下载"
 date:   2021-10-13
 tags: [Qt,文档,5.11,帮助,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JSplacement：高效随机置换贴图生成工具"
+title: "JSplacement高效随机置换贴图生成工具"
 date:   2024-03-18
 tags: [贴图,JSplacement,3D,置换,生成]
 comments: true

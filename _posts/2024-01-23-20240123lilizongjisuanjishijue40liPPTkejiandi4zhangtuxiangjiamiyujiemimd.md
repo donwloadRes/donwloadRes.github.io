@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李立宗计算机视觉40例》PPT课件：第4章图像加密与解密》"
+title: "李立宗计算机视觉40例PPT课件第4章图像加密与解密"
 date:   2021-09-15
 tags: [加密,课件,解密,图像,PPT]
 comments: true

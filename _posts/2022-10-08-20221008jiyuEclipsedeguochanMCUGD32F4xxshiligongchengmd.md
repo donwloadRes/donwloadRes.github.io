@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Eclipse的国产MCU——GD32F4xx实例工程"
+title: "基于Eclipse的国产MCUGD32F4xx实例工程"
 date:   2023-01-11
 tags: [Eclipse,示例,GD32F4xx,代码,工程]
 comments: true

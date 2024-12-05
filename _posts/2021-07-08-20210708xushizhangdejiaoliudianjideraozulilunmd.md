@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "许实章的交流电机的绕组理论》"
+title: "许实章的交流电机的绕组理论"
 date:   2020-01-10
 tags: [电机,绕组,设计,交流,谐波]
 comments: true

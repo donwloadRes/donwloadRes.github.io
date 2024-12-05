@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP算法在ISAR成像中的应用——基于FEKO仿真模型"
+title: "BP算法在ISAR成像中的应用基于FEKO仿真模型"
 date:   2020-04-04
 tags: [BP,ISAR,FEKO,成像,算法]
 comments: true

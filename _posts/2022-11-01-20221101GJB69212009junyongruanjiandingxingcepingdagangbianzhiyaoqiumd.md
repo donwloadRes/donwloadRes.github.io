@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 6921-2009 军用软件定型测评大纲编制要求"
+title: "GJB 69212009 军用软件定型测评大纲编制要求"
 date:   2022-01-10
 tags: [测评,定型,军用,软件,2009]
 comments: true

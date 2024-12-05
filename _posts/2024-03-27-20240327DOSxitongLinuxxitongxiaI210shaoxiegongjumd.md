@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOS系统、Linux系统下I210烧写工具"
+title: "DOS系统Linux系统下I210烧写工具"
 date:   2022-09-10
 tags: [烧写,DOS,Linux,I210,eeupdate]
 comments: true

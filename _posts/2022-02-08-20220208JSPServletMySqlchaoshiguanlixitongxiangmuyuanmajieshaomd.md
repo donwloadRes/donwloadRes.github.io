@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JSP+Servlet+MySql超市管理系统项目源码介绍"
+title: "JSPServletMySql超市管理系统项目源码介绍"
 date:   2022-09-24
 tags: [项目,源码,MySQL,数据库,Servlet]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：在VM虚拟机中安装Windows Server 2008操作系统"
+title: "保姆级教程在VM虚拟机中安装Windows Server 2008操作系统"
 date:   2024-05-19
 tags: [虚拟机,操作系统,教程,安装,镜像文件]
 comments: true

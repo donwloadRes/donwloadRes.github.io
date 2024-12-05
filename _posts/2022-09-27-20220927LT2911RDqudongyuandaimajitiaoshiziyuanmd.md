@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT2911R-D驱动源代码及调试资源"
+title: "LT2911RD驱动源代码及调试资源"
 date:   2023-05-20
 tags: [LT2911R,源代码,90,800,1280]
 comments: true

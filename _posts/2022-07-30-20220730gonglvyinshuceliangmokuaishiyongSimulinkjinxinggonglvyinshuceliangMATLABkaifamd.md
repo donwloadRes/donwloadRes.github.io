@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功率因数测量模块：使用Simulink进行功率因数测量 - MATLAB开发"
+title: "功率因数测量模块使用Simulink进行功率因数测量  MATLAB开发"
 date:   2022-07-12
 tags: [功率因数,Simulink,模块,MATLAB,测量]
 comments: true

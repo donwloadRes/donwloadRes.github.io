@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 游戏编程大师指南：新手入门指南"
+title: "3D 游戏编程大师指南新手入门指南"
 date:   2021-09-11
 tags: [3D,编程,游戏,指南,大师]
 comments: true

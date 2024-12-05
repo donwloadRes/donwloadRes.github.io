@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edge WebView2 运行时安装程序 (x64) - 支持 Windows 7 的最后一个版本"
+title: "Edge WebView2 运行时安装程序 x64  支持 Windows 7 的最后一个版本"
 date:   2022-11-03
 tags: [Windows,版本,Edge,WebView2,安装程序]
 comments: true

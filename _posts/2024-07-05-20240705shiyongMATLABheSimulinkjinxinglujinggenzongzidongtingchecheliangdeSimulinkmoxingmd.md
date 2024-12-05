@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用 MATLAB 和 Simulink 进行路径跟踪：自动停车车辆的 Simulink 模型"
+title: "使用 MATLAB 和 Simulink 进行路径跟踪自动停车车辆的 Simulink 模型"
 date:   2020-02-28
 tags: [路径,模型,Simulink,车辆,MATLAB]
 comments: true

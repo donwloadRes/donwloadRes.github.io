@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为模拟器eNSP-HCIA综合实验2资源下载"
+title: "华为模拟器eNSPHCIA综合实验2资源下载"
 date:   2021-07-04
 tags: [华为,配置,eNSP,模拟器,HCIA]
 comments: true

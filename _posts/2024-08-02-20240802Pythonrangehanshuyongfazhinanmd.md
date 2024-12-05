@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python range() 函数用法指南"
+title: "Python range 函数用法指南"
 date:   2020-11-10
 tags: [range,函数,Python,用法,指南]
 comments: true

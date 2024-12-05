@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6 安装 PCL 指南"
+title: "Python 36 安装 PCL 指南"
 date:   2021-02-17
 tags: [PCL,安装,指南,Python,PyCharm]
 comments: true

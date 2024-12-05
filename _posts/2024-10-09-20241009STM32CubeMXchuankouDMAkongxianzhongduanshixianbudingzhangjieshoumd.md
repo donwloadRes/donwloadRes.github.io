@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX 串口 DMA+空闲中断实现不定长接收"
+title: "STM32CubeMX 串口 DMA空闲中断实现不定长接收"
 date:   2023-02-10
 tags: [STM32CubeMX,不定,代码,串口,DMA]
 comments: true

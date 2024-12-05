@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "micro-app在vue-element-admin中的使用"
+title: "microapp在vueelementadmin中的使用"
 date:   2024-08-31
 tags: [应用,micro,app,基座,vue]
 comments: true

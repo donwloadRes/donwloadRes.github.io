@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT从入门到精通-压缩版.pdf 资源介绍"
+title: "ChatGPT从入门到精通压缩版pdf 资源介绍"
 date:   2020-04-16
 tags: [ChatGPT,自然语言,应用,压缩版,本书]
 comments: true

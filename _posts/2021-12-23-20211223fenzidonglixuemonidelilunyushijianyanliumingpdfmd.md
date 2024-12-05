@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分子动力学模拟的理论与实践 - 严六明.pdf"
+title: "分子动力学模拟的理论与实践  严六明pdf"
 date:   2022-05-11
 tags: [严六明,动力学,模拟,pdf,分子]
 comments: true

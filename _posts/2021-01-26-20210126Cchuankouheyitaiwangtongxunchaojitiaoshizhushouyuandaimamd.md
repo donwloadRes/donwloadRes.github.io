@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口和以太网通讯超级调试助手 源代码"
+title: "C 串口和以太网通讯超级调试助手 源代码"
 date:   2024-02-24
 tags: [调试,串口,以太网,通讯,源代码]
 comments: true

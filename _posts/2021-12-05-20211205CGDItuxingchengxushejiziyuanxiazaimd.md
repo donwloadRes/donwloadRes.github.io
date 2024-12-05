@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI+图形程序设计资源下载"
+title: "C GDI图形程序设计资源下载"
 date:   2023-07-19
 tags: [解压,压缩包,下载,C#,GDI]
 comments: true

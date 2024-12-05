@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子WINCC入门教程 - 手把手实例教学"
+title: "西门子WINCC入门教程  手把手实例教学"
 date:   2023-10-23
 tags: [WINCC,教程,自动化,过程,西门子]
 comments: true

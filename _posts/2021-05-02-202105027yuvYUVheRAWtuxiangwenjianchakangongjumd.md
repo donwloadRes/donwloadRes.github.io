@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7yuv - YUV 和 RAW 图像文件查看工具"
+title: "7yuv  YUV 和 RAW 图像文件查看工具"
 date:   2024-02-06
 tags: [7yuv,图像文件,图像,YUV,RAW]
 comments: true

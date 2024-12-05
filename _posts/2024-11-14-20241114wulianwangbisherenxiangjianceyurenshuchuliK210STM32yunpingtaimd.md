@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 人像检测与人数处理（K210+STM32+云平台）"
+title: "物联网毕设  人像检测与人数处理K210STM32云平台"
 date:   2021-09-22
 tags: [设备,人数,APP,获取,MQTT]
 comments: true

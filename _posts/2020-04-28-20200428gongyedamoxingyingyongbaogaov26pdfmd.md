@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业大模型应用报告v2.6.pdf"
+title: "工业大模型应用报告v26pdf"
 date:   2023-11-26
 tags: [模型,工业,报告,智能化,v2.6]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ PREMIER 中文PDF高清电子书下载"
+title: "C PREMIER 中文PDF高清电子书下载"
 date:   2020-10-20
 tags: [PDF,C++,高清,电子书,中文]
 comments: true

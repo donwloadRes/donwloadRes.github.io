@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spy4Win(Spy for Window) 资源下载"
+title: "Spy4WinSpy for Window 资源下载"
 date:   2020-05-02
 tags: [窗口,Windows,开发者,控件,读取]
 comments: true

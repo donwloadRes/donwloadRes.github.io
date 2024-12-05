@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK安装教程（Win11环境）"
+title: "JDK安装教程Win11环境"
 date:   2024-04-05
 tags: [JDK,安装,环境变量,教程,Windows]
 comments: true

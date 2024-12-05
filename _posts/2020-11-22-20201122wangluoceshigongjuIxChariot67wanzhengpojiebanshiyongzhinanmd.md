@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络测试工具IxChariot 6.7 完整破解版使用指南"
+title: "网络测试工具IxChariot 67 完整破解版使用指南"
 date:   2021-04-02
 tags: [IxChariot,测试,6.7,网络,Endpoint]
 comments: true

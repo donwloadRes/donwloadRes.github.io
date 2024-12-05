@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt6 跨平台开发 完整版PDF资源介绍"
+title: "C Qt6 跨平台开发 完整版PDF资源介绍"
 date:   2021-03-28
 tags: [Qt,跨平台,应用,PDF,开发]
 comments: true

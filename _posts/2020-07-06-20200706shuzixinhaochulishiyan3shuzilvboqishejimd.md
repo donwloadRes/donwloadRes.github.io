@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理实验3-数字滤波器设计"
+title: "数字信号处理实验3数字滤波器设计"
 date:   2021-11-12
 tags: [实验,滤波器,数字,实验报告,指导书]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微电网交直流混合（含STATCOM） MATLAB 仿真"
+title: "微电网交直流混合含STATCOM MATLAB 仿真"
 date:   2020-07-08
 tags: [仿真,MATLAB,交直流,STATCOM,电网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出Kubernetes项目实战手册 - 阿里云版"
+title: "深入浅出Kubernetes项目实战手册  阿里云版"
 date:   2022-06-23
 tags: [Kubernetes,手册,实战,深入浅出,本手册]
 comments: true

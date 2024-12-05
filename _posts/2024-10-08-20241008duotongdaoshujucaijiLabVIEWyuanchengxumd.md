@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多通道数据采集（LabVIEW源程序）"
+title: "多通道数据采集LabVIEW源程序"
 date:   2024-08-13
 tags: [多通道,LabVIEW,采集,源程序,数据]
 comments: true

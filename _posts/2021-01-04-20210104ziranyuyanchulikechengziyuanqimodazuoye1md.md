@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "自然语言处理课程资源：期末大作业 1"
+title: "自然语言处理课程资源期末大作业 1
+date   20200717
+tags 预处理资源句子处理数据
+comments true
+author admin
+
+
+layout post
+title 自然语言处理课程资源期末大作业 1"
 date:   2020-07-17
 tags: [预处理,资源,句子,处理,数据]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "自然语言处理课程资源：期末大作业 1"
+title: "自然语言处理课程资源期末大作业 1
+date   20200717
+tags 预处理资源句子处理数据
+comments true
+author admin
+
+
+layout post
+title 自然语言处理课程资源期末大作业 1"
 date:   2023-08-14
 tags: [预处理,资源,数据,句子,处理]
 comments: true

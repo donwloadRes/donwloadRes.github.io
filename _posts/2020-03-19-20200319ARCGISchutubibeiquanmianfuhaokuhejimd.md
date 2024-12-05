@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARCGIS出图必备：全面符号库合集"
+title: "ARCGIS出图必备全面符号库合集"
 date:   2020-02-17
 tags: [符号库,地图,ARCGIS,符号,出图]
 comments: true

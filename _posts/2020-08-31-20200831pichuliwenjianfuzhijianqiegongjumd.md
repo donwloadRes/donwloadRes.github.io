@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "批处理文件复制-剪切工具"
+title: "批处理文件复制剪切工具"
 date:   2021-01-01
 tags: [txt,剪切,文件,复制,文件夹]
 comments: true

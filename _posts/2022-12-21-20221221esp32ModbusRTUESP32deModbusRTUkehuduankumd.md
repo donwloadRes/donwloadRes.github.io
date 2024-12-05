@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "esp32ModbusRTU：ESP32的Modbus RTU客户端库"
+title: "esp32ModbusRTUESP32的Modbus RTU客户端库"
 date:   2021-02-27
 tags: [Modbus,ESP32,示例,RTU,代码]
 comments: true

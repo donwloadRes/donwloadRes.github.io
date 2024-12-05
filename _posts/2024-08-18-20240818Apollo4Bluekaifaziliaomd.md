@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apollo 4（Blue）开发资料"
+title: "Apollo 4Blue开发资料"
 date:   2020-12-20
 tags: [芯片,开发,Blue,开发者,源码]
 comments: true

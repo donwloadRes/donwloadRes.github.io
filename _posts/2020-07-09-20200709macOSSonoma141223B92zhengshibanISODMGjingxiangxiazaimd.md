@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS Sonoma 14.1.2(23B92)正式版 ISO、DMG镜像下载"
+title: "macOS Sonoma 141223B92正式版 ISODMG镜像下载"
 date:   2023-12-29
 tags: [安装,ISO,镜像文件,DMG,虚拟机]
 comments: true

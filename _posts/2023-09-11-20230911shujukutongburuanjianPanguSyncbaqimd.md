@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库同步软件 - PanguSync 霸气!!!"
+title: "数据库同步软件  PanguSync 霸气"
 date:   2024-10-03
 tags: [PanguSync,数据库,同步,霸气,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlexRay通信系统电气物理层规范ISO 17458-4:2013"
+title: "FlexRay通信系统电气物理层规范ISO 1745842013"
 date:   2022-07-16
 tags: [FlexRay,ISO,17458,2013,物理层]
 comments: true

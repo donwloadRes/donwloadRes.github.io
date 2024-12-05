@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统实验报告：观察Linux的行为与SHELL编程"
+title: "操作系统实验报告观察Linux的行为与SHELL编程"
 date:   2023-05-01
 tags: [Linux,proc,文件,目录,查看]
 comments: true

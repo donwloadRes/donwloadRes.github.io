@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 17626 最新版本（14个部分）上 资源下载"
+title: "GBT 17626 最新版本14个部分上 资源下载"
 date:   2022-10-18
 tags: [文件,下载,资源,GB,17626]
 comments: true

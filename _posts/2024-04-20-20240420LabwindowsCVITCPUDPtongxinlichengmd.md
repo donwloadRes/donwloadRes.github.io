@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labwindows-CVI TCP UDP通信例程"
+title: "LabwindowsCVI TCP UDP通信例程"
 date:   2022-09-07
 tags: [示例,Labwindows,CVI,TCP,UDP]
 comments: true

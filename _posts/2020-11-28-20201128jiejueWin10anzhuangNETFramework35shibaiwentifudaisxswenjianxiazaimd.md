@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10安装.NET Framework 3.5失败问题（附带sxs文件下载）"
+title: "解决Win10安装NET Framework 35失败问题附带sxs文件下载"
 date:   2023-03-16
 tags: [sxs,Win10,安装包,NET,Framework]
 comments: true

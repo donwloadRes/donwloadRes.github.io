@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inter(R) Ethernet Connection (10) l219-V网卡驱动下载与安装指南"
+title: "InterR Ethernet Connection 10 l219V网卡驱动下载与安装指南"
 date:   2022-02-08
 tags: [驱动,安装,下载,网卡,l219]
 comments: true

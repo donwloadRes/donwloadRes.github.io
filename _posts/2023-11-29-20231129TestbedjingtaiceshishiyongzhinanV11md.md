@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testbed静态测试使用指南V1.1"
+title: "Testbed静态测试使用指南V11"
 date:   2024-09-28
 tags: [Testbed,指南,V1.1,静态,工具]
 comments: true

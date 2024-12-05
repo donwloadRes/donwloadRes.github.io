@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python机器学习：K-means聚类算法（基于顾客购物订单数据集）"
+title: "Python机器学习Kmeans聚类算法基于顾客购物订单数据集"
 date:   2023-04-10
 tags: [means,聚类,算法,Python,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GL3510原理图-已验证"
+title: "GL3510原理图已验证"
 date:   2020-07-24
 tags: [原理图,GL3510,验证,文件,文件大小]
 comments: true

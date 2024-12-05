@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 操作系统中下载、安装、运行 Sentinel 指南"
+title: "Windows 操作系统中下载安装运行 Sentinel 指南"
 date:   2022-09-03
 tags: [Sentinel,jar,下载,sentinel,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RTSP流媒体播放器"
+title: "C RTSP流媒体播放器"
 date:   2021-10-01
 tags: [RTSP,播放器,播放,媒体播放器,地址]
 comments: true

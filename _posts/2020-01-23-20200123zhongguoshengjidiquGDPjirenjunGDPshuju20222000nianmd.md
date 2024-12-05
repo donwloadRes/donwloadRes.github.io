@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国省级地区GDP及人均GDP数据（2022-2000年）"
+title: "中国省级地区GDP及人均GDP数据20222000年"
 date:   2024-09-13
 tags: [GDP,数据,2000,2022,人均]
 comments: true

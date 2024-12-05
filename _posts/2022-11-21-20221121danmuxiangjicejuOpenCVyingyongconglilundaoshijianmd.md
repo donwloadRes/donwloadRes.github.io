@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单目相机测距（OpenCV应用）：从理论到实践"
+title: "单目相机测距OpenCV应用从理论到实践"
 date:   2021-12-27
 tags: [单目,相机,OpenCV,测距,视觉]
 comments: true

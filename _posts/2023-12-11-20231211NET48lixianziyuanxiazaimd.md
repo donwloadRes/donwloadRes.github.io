@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 4.8 离线资源下载"
+title: "NET 48 离线资源下载"
 date:   2021-02-26
 tags: [NET,4.8,安装,NET4.8,离线]
 comments: true

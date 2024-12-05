@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手 XCOM、SSCOM 资源下载"
+title: "串口调试助手 XCOMSSCOM 资源下载"
 date:   2020-06-30
 tags: [串口,调试,XCOM,SSCOM,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux部署Kettle（超详细）"
+title: "Linux部署Kettle超详细"
 date:   2024-05-15
 tags: [Kettle,Linux,部署,文件,资源]
 comments: true

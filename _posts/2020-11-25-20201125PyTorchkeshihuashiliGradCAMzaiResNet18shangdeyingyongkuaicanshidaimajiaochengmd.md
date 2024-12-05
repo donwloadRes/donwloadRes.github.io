@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch可视化实例：Grad-CAM在ResNet18上的应用（快餐式代码教程）"
+title: "PyTorch可视化实例GradCAM在ResNet18上的应用快餐式代码教程"
 date:   2023-06-10
 tags: [Grad,CAM,可视化,模型,PyTorch]
 comments: true

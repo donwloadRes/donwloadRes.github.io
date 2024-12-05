@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记（9）——NB-IoT模块BC26使用"
+title: "STM32F103学习笔记9NBIoT模块BC26使用"
 date:   2022-06-27
 tags: [模块,BC26,STM32F103,IoT,TCP]
 comments: true

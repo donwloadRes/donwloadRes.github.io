@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sentinel Dashboard 1.8.0 资源文件介绍"
+title: "Sentinel Dashboard 180 资源文件介绍"
 date:   2020-06-25
 tags: [sentinel,1.8,jar,控制面板,文件]
 comments: true

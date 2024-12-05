@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb项目：航班信息管理系统（tomcat+jsp）"
+title: "JavaWeb项目航班信息管理系统tomcatjsp"
 date:   2021-09-23
 tags: [航班信息,页面,管理员,登录,数据库]
 comments: true

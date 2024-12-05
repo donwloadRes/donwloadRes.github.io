@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32开发环境搭建指南：Keil5安装教程"
+title: "STM32开发环境搭建指南Keil5安装教程"
 date:   2023-05-18
 tags: [STM32,安装,Keil5,点击,MDK]
 comments: true

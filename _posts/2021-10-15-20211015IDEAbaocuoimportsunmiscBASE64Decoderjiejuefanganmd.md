@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA报错：import sun.misc.BASE64Decoder 解决方案"
+title: "IDEA报错import sunmiscBASE64Decoder 解决方案"
 date:   2022-11-17
 tags: [misc,sun,BASE64Decoder,JDK,IDEA]
 comments: true

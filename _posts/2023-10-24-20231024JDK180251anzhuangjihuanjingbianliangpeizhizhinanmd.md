@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_251 安装及环境变量配置指南"
+title: "JDK 180251 安装及环境变量配置指南"
 date:   2022-06-02
 tags: [JDK,251,Java,安装,环境变量]
 comments: true

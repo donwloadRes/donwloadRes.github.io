@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome爬虫必备插件：Xpath Helper高效解析网页内容"
+title: "Chrome爬虫必备插件Xpath Helper高效解析网页内容"
 date:   2023-05-12
 tags: [XPath,网页,Helper,Chrome,爬虫]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 代码：由振动信号求速度和位移"
+title: "MATLAB 代码由振动信号求速度和位移"
 date:   2021-03-30
 tags: [MATLAB,代码,振动,原始数据,位移]
 comments: true

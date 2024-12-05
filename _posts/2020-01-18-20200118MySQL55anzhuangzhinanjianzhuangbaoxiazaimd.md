@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.5 安装指南及安装包下载"
+title: "MySQL 55 安装指南及安装包下载"
 date:   2020-03-09
 tags: [安装,安装包,MySQL,5.5,下载]
 comments: true

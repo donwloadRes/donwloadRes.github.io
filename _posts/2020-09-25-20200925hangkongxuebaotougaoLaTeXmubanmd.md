@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "航空学报》投稿 LaTeX 模板"
+title: "航空学报投稿 LaTeX 模板"
 date:   2024-10-22
 tags: [模板,LaTeX,学报,投稿,template]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联邦学习-杨强1 资源下载"
+title: "联邦学习杨强1 资源下载"
 date:   2022-03-13
 tags: [杨强,人工智能,资源,文件,联邦]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 32位 FFMPEG 4.2.2 库资源下载"
+title: "Windows 32位 FFMPEG 422 库资源下载"
 date:   2022-06-07
 tags: [Windows,FFMPEG,4.2,32,头文件]
 comments: true

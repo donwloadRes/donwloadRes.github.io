@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows 7 64位系统运行Python时丢失api-ms-win-crt-process-l1-1-0.dll文件的问题"
+title: "解决Windows 7 64位系统运行Python时丢失apimswincrtprocessl110dll文件的问题"
 date:   2021-04-16
 tags: [Python,64,运行,文件,Windows]
 comments: true

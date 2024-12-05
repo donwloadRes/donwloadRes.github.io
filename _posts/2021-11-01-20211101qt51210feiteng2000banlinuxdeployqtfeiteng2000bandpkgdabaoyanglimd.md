@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt5.12.10飞腾2000版+linuxdeployqt飞腾2000版+dpkg打包样例"
+title: "qt51210飞腾2000版linuxdeployqt飞腾2000版dpkg打包样例"
 date:   2021-05-05
 tags: [2000,飞腾,Qt,打包,10]
 comments: true

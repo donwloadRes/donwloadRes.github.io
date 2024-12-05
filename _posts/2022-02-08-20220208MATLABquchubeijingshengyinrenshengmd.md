@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB去除背景声音--人声"
+title: "MATLAB去除背景声音人声"
 date:   2021-09-21
 tags: [MATLAB,代码,音频文件,去除,人声]
 comments: true

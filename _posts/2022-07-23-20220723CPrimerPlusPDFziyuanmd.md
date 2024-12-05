@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer Plus PDF资源"
+title: "C Primer Plus PDF资源"
 date:   2020-01-30
 tags: [C++,PDF,编程,Primer,Plus]
 comments: true

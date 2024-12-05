@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纯C#矢量图形绘制系统"
+title: "纯C矢量图形绘制系统"
 date:   2022-03-28
 tags: [图形,鼠标,C#,绘制,矢量]
 comments: true

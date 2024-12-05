@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM Data Server .NET Provider 驱动 - C# .NET 连接DB2数据库教程"
+title: "IBM Data Server NET Provider 驱动  C NET 连接DB2数据库教程"
 date:   2023-08-29
 tags: [NET,IBM,DB2,Data,数据库]
 comments: true

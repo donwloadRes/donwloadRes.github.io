@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 特效源码：无边框窗体四边阴影、圆角、淡入淡出"
+title: "C WinForm 特效源码无边框窗体四边阴影圆角淡入淡出"
 date:   2024-04-30
 tags: [窗体,源码,特效,C#,淡入淡出]
 comments: true

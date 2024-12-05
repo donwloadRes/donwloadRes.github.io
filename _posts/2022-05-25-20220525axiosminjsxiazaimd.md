@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "axios.min.js 下载"
+title: "axiosminjs 下载"
 date:   2022-03-21
 tags: [axios,js,min,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8367S-CG 数据手册下载"
+title: "RTL8367SCG 数据手册下载"
 date:   2020-11-21
 tags: [RTL8367S,CG,Pre,0.94,手册]
 comments: true

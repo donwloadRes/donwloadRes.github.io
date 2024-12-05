@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITE-IT8987单片机资源下载"
+title: "ITEIT8987单片机资源下载"
 date:   2021-03-03
 tags: [单片机,IT8987,ITE,笔记本电脑,文件]
 comments: true

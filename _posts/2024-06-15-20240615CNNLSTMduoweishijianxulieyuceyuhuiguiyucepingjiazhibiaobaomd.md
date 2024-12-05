@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN-LSTM多维时间序列预测与回归预测评价指标包"
+title: "CNNLSTM多维时间序列预测与回归预测评价指标包"
 date:   2023-03-24
 tags: [模型,预测,多维,序列,预测值]
 comments: true

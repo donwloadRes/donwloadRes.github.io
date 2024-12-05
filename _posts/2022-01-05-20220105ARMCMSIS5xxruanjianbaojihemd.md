@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM CMSIS 5.x.x 软件包集合"
+title: "ARM CMSIS 5xx 软件包集合"
 date:   2022-05-17
 tags: [ARM,pack,CMSIS.5,CMSIS,软件包]
 comments: true

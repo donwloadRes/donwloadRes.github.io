@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Datacom（H12-831）复习题资料"
+title: "HCIPDatacomH12831复习题资料"
 date:   2024-02-04
 tags: [HCIP,831,Datacom,H12,资料]
 comments: true

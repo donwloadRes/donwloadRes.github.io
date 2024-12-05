@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【张飞硬件1-10学习资料+笔记分享】全面指南"
+title: "张飞硬件110学习资料笔记分享全面指南"
 date:   2020-03-09
 tags: [PCB,硬件,设计,原理图,10]
 comments: true

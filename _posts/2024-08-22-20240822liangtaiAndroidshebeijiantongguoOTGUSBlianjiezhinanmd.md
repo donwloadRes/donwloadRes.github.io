@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两台Android设备间通过OTG-USB连接指南"
+title: "两台Android设备间通过OTGUSB连接指南"
 date:   2024-06-18
 tags: [OTG,Android,设备,两台,USB]
 comments: true

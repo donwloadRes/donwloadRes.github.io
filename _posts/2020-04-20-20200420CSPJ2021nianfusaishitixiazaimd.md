@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J 2021年复赛试题下载"
+title: "CSPJ 2021年复赛试题下载"
 date:   2023-03-20
 tags: [试题,文件,CSP,复赛,下载]
 comments: true

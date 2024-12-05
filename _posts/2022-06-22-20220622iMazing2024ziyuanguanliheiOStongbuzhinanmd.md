@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iMazing 2024：资源管理和iOS同步指南"
+title: "iMazing 2024资源管理和iOS同步指南"
 date:   2024-05-24
 tags: [iMazing,备份,设备,iOS,2024]
 comments: true

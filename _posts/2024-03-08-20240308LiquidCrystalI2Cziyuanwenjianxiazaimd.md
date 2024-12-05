@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LiquidCrystal_I2C 资源文件下载"
+title: "LiquidCrystalI2C 资源文件下载"
 date:   2020-07-18
 tags: [I2C,LiquidCrystal,文件,rar,示例]
 comments: true

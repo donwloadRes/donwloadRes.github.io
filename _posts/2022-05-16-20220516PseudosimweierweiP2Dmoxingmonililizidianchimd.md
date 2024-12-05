@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pseudo_sim: 伪二维（P2D）模型模拟锂离子电池"
+title: "Pseudosim 伪二维P2D模型模拟锂离子电池"
 date:   2024-01-10
 tags: [Pseudo,sim,MATLAB,电池,求解]
 comments: true

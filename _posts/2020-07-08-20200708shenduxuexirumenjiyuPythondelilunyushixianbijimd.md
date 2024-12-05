@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习入门——基于Python的理论与实现笔记"
+title: "深度学习入门基于Python的理论与实现笔记"
 date:   2020-10-30
 tags: [学习,笔记,深度,Python,神经网络]
 comments: true

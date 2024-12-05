@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础（第五版）阎石清华大学 PDF 资源下载"
+title: "数字电子技术基础第五版阎石清华大学 PDF 资源下载"
 date:   2024-10-05
 tags: [PDF,第五版,阎石,资源,下载]
 comments: true

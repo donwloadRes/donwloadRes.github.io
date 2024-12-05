@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目一：俄罗斯方块游戏"
+title: "QT项目一俄罗斯方块游戏"
 date:   2024-03-27
 tags: [游戏,方块,QT,下落,链接]
 comments: true

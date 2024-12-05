@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交通灯设计（基于Multisim仿真）"
+title: "交通灯设计基于Multisim仿真"
 date:   2022-01-21
 tags: [交通灯,倒计时,设计,仿真,Multisim]
 comments: true

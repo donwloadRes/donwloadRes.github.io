@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 安装及配置指南 (适用于 Windows 11)"
+title: "JDK 18 安装及配置指南 适用于 Windows 11"
 date:   2021-10-29
 tags: [JDK,1.8,配置,安装,环境变量]
 comments: true

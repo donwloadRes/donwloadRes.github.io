@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE 4.0 Base 1.0 规范下载仓库"
+title: "PCIE 40 Base 10 规范下载仓库"
 date:   2021-12-03
 tags: [4.0,规范,PCIE,Base,1.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero使用分享：添加新的引用样式（附中国标准GB-T 7714-2015）"
+title: "Zotero使用分享添加新的引用样式附中国标准GBT 77142015"
 date:   2020-03-10
 tags: [样式,Zotero,2015,添加,GB]
 comments: true

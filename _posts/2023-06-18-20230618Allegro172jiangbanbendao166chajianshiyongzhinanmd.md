@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 17.2 降版本到 16.6 插件使用指南"
+title: "Allegro 172 降版本到 166 插件使用指南"
 date:   2023-06-29
 tags: [版本,Allegro,17.2,16.6,插件]
 comments: true

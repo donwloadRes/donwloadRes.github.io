@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django+Hadoop+Scrapy租房可视化推荐系统源码分享"
+title: "DjangoHadoopScrapy租房可视化推荐系统源码分享"
 date:   2023-01-16
 tags: [租房,Django,Hadoop,Scrapy,抓取]
 comments: true

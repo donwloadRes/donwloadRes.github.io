@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于three.js的超酷线条动画特效"
+title: "基于threejs的超酷线条动画特效"
 date:   2023-06-13
 tags: [示例,线条,three,js,动画]
 comments: true

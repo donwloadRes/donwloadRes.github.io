@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "捕鱼达人Java源码（完整功能）"
+title: "捕鱼达人Java源码完整功能"
 date:   2020-09-14
 tags: [源码,Java,游戏,完整,捕鱼]
 comments: true

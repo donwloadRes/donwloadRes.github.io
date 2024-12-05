@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟高级服务器操作系统(LoongArch版)V10SP3-Nacos适配包"
+title: "银河麒麟高级服务器操作系统LoongArch版V10SP3Nacos适配包"
 date:   2023-07-01
 tags: [适配,操作系统,LoongArch,V10SP3,麒麟]
 comments: true

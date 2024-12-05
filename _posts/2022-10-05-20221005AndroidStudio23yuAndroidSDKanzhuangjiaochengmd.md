@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 2.3 与 Android SDK 安装教程"
+title: "Android Studio 23 与 Android SDK 安装教程"
 date:   2020-05-16
 tags: [Android,Studio,SDK,2.3,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱以太网模块FX3U-ENET-L 中文手册下载"
+title: "三菱以太网模块FX3UENETL 中文手册下载"
 date:   2024-11-04
 tags: [FX3U,ENET,以太网,手册,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FIR 高级应用：多通道滤波器设计"
+title: "FIR 高级应用多通道滤波器设计"
 date:   2021-11-23
 tags: [FIR,多通道,滤波,滤波器,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ MFC 串口调试助手源代码"
+title: "C MFC 串口调试助手源代码"
 date:   2023-01-30
 tags: [串口,源代码,调试,发送,MFC]
 comments: true

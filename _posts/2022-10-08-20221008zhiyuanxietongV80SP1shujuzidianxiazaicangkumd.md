@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "致远协同 V8.0SP1 数据字典下载仓库"
+title: "致远协同 V80SP1 数据字典下载仓库"
 date:   2020-09-17
 tags: [V8.0,SP1,字典,致远,协同]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB GUI设计学习手记(第2版) 资源下载"
+title: "MATLAB GUI设计学习手记第2版 资源下载"
 date:   2020-06-02
 tags: [GUI,MATLAB,设计,本书,学习]
 comments: true

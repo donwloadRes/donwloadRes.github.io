@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5-MDK代码格式化工具及快捷方式设置指南"
+title: "Keil5MDK代码格式化工具及快捷方式设置指南"
 date:   2022-03-20
 tags: [格式化,代码,Keil5,Astyle,MDK]
 comments: true

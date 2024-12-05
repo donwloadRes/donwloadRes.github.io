@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5 简易软键盘 - 支持中文输入"
+title: "Qt5 简易软键盘  支持中文输入"
 date:   2022-06-19
 tags: [软键盘,输入,Qt5,集成,中文]
 comments: true

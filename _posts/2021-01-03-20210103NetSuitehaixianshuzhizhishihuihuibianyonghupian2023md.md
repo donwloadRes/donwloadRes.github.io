@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetSuite海鲜书 之 知识会汇编-用户篇2023"
+title: "NetSuite海鲜书 之 知识会汇编用户篇2023"
 date:   2020-07-25
 tags: [NetSuite,用户,2023,模块,汇编]
 comments: true

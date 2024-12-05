@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构期末考试题目（10套含答案）"
+title: "数据结构期末考试题目10套含答案"
 date:   2023-11-24
 tags: [题目,数据结构,解析,10,期末考试]
 comments: true

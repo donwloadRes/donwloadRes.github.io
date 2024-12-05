@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考-软件设计师（中级）笔记（完整版）"
+title: "软考软件设计师中级笔记完整版"
 date:   2024-02-24
 tags: [笔记,软件,复习,软考,设计师]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ypay源支付V6.9 新版源码简介"
+title: "Ypay源支付V69 新版源码简介"
 date:   2021-10-18
 tags: [源码,V6.9,Ypay,支付,教程]
 comments: true

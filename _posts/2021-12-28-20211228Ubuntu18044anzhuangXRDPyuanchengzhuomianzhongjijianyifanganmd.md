@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04.4 安装XRDP远程桌面终极、简易方案"
+title: "Ubuntu 18044 安装XRDP远程桌面终极简易方案"
 date:   2024-11-03
 tags: [Ubuntu,远程桌面,18.04,XRDP,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常见蓝牙2.4GHz天线设计指导"
+title: "常见蓝牙24GHz天线设计指导"
 date:   2023-03-24
 tags: [蓝牙,天线,设计,文件,2.4]
 comments: true

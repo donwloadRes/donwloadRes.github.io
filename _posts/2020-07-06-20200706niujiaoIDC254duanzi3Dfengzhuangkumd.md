@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛角IDC2.54端子3D封装库"
+title: "牛角IDC254端子3D封装库"
 date:   2020-08-04
 tags: [封装,3D,端子,设计,软件]
 comments: true

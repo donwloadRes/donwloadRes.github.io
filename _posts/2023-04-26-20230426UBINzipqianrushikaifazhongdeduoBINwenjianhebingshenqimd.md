@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UBIN zip: 嵌入式开发中的多BIN文件合并神器"
+title: "UBIN zip 嵌入式开发中的多BIN文件合并神器"
 date:   2021-01-11
 tags: [BIN,文件,UBIN,合并,固件]
 comments: true

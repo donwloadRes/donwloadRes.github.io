@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率 随机变量 随机过程习题解答（第4版）"
+title: "概率 随机变量 随机过程习题解答第4版"
 date:   2024-02-14
 tags: [习题,随机,解答,过程,随机变量]
 comments: true

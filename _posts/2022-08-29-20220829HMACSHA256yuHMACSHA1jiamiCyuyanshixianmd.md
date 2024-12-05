@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HMAC-SHA256与HMAC-SHA1加密C语言实现"
+title: "HMACSHA256与HMACSHA1加密C语言实现"
 date:   2022-09-10
 tags: [HMAC,SHA1,SHA256,C语言,加密]
 comments: true

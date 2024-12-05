@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模预测模型实例（一）---大学生体测数据模型"
+title: "数学建模预测模型实例一大学生体测数据模型"
 date:   2020-12-30
 tags: [模型,体测,建模,Python,数据分析]
 comments: true

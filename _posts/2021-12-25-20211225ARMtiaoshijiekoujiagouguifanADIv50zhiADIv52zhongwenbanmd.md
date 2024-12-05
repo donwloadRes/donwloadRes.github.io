@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM调试接口架构规范ADIv5.0至ADIv5.2_中文版"
+title: "ARM调试接口架构规范ADIv50至ADIv52中文版"
 date:   2022-11-21
 tags: [ARM,调试,接口,ADIv5.0,ADIv5.2]
 comments: true

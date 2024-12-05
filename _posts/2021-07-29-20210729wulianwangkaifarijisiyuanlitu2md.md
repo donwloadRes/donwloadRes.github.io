@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网开发日记四：原理图2"
+title: "物联网开发日记四原理图2"
 date:   2020-11-06
 tags: [SIM800C,原理图,开发者,联网,天线]
 comments: true

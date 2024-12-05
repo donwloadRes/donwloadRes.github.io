@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATP-EMTP 7.3 安装包资源"
+title: "ATPEMTP 73 安装包资源"
 date:   2022-06-24
 tags: [ATP,EMTP,7.3,文档,软件]
 comments: true

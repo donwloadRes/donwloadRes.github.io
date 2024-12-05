@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 3206B-2022 技术状态管理》资源下载"
+title: "GJB 3206B2022 技术状态管理资源下载"
 date:   2024-04-07
 tags: [状态,技术,2022,管理,资源]
 comments: true

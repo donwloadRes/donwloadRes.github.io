@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "兆能ZN90-mv310强刷包带教程 当贝桌面纯净版安卓系统"
+title: "兆能ZN90mv310强刷包带教程 当贝桌面纯净版安卓系统"
 date:   2023-12-19
 tags: [刷机,教程,当贝,版安卓,桌面]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "福建省行政区划及道路网SHP文件（2022年7月版）"
+title: "福建省行政区划及道路网SHP文件2022年7月版"
 date:   2024-09-04
 tags: [SHP,道路网,文件,2022,GIS]
 comments: true

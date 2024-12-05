@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus 协议实现源代码"
+title: "C Modbus 协议实现源代码"
 date:   2021-08-07
 tags: [源代码,C#,Modbus,协议,实现]
 comments: true

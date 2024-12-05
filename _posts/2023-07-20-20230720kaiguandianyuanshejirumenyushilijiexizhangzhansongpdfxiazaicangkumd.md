@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源设计入门与实例解析 张占松.pdf 下载仓库"
+title: "开关电源设计入门与实例解析 张占松pdf 下载仓库"
 date:   2020-09-17
 tags: [开关电源,张占松,pdf,设计,实例]
 comments: true

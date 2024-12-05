@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIN 70121 非扫码-影印版 资源下载"
+title: "DIN 70121 非扫码影印版 资源下载"
 date:   2021-01-29
 tags: [DIN,70121,影印版,文件,非扫码]
 comments: true

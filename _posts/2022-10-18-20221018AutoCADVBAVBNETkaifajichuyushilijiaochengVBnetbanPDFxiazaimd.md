@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD VBA & VB.NET 开发基础与实例教程（VB.net版）PDF 下载"
+title: "AutoCAD VBA  VBNET 开发基础与实例教程VBnet版PDF 下载"
 date:   2020-10-22
 tags: [VB,NET,AutoCAD,VBA,实例教程]
 comments: true

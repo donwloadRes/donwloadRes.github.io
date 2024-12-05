@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real-Time Rendering 第四版 全彩892M 百度网盘下载地址"
+title: "RealTime Rendering 第四版 全彩892M 百度网盘下载地址"
 date:   2022-05-17
 tags: [下载,解压,百度网,全彩,Real]
 comments: true

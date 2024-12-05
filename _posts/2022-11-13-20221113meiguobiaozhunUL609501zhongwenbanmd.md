@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国标准UL60950-1 中文版"
+title: "美国标准UL609501 中文版"
 date:   2023-07-02
 tags: [UL60950,标准,技术设备,中文版,安全]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hluda-server-16.2.1魔改版Frida介绍"
+title: "hludaserver1621魔改版Frida介绍"
 date:   2020-02-15
 tags: [Frida,hluda,server,16.2,改版]
 comments: true

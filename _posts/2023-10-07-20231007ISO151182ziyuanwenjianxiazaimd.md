@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 15118-2 资源文件下载"
+title: "ISO 151182 资源文件下载"
 date:   2023-11-27
 tags: [ISO,15118,文件,电网,下载]
 comments: true

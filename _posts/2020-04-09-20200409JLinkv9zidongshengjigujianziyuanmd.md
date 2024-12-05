@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLink-v9 自动升级固件资源"
+title: "JLinkv9 自动升级固件资源"
 date:   2021-01-20
 tags: [JLink,v9,固件,文件,升级]
 comments: true

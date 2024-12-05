@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 9283-1998 工业机器人性能标准与测试方法"
+title: "ISO 92831998 工业机器人性能标准与测试方法"
 date:   2022-02-21
 tags: [机器人,ISO,1998,标准,9283]
 comments: true

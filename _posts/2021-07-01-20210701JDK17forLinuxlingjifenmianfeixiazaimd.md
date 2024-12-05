@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.7 for Linux 零积分免费下载"
+title: "JDK 17 for Linux 零积分免费下载"
 date:   2021-11-19
 tags: [Linux,JDK,1.7,下载,安装]
 comments: true

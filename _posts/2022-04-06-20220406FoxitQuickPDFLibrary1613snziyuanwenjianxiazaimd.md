@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foxit Quick PDF Library 16.13 sn 资源文件下载"
+title: "Foxit Quick PDF Library 1613 sn 资源文件下载"
 date:   2020-06-06
 tags: [版本,sn,64,PDF,C++]
 comments: true

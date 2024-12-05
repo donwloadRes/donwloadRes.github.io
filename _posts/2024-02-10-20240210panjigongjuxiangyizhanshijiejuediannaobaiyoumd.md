@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "盘姬工具箱：一站式解决电脑百忧！"
+title: "盘姬工具箱一站式解决电脑百忧"
 date:   2022-07-24
 tags: [工具箱,---,盘姬,电脑,使用]
 comments: true

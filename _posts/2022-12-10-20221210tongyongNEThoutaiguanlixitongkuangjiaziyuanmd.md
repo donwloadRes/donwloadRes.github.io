@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通用.NET后台管理系统框架资源"
+title: "通用NET后台管理系统框架资源"
 date:   2022-04-21
 tags: [NET,管理系统,后台,框架,数据库]
 comments: true

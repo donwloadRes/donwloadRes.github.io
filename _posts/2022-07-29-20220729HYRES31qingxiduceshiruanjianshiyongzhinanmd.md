@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HYRES3.1清晰度测试软件使用指南"
+title: "HYRES31清晰度测试软件使用指南"
 date:   2022-02-26
 tags: [清晰度,软件,兼容性,测试,测试软件]
 comments: true

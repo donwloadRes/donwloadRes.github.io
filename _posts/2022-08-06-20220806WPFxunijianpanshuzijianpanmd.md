@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF虚拟键盘 - 数字键盘"
+title: "WPF虚拟键盘  数字键盘"
 date:   2020-04-01
 tags: [键盘,WPF,数字键盘,虚拟,确保]
 comments: true

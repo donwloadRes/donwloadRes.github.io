@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微 ecology9.0 文档（DocService）WebService接口使用说明"
+title: "泛微 ecology90 文档DocServiceWebService接口使用说明"
 date:   2023-07-06
 tags: [接口,文档,ecology9.0,泛微,WebService]
 comments: true

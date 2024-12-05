@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享40个Python游戏源代码，总有一个是你想要的"
+title: "分享40个Python游戏源代码总有一个是你想要的"
 date:   2020-05-02
 tags: [游戏,源代码,Python,仓库,40]
 comments: true

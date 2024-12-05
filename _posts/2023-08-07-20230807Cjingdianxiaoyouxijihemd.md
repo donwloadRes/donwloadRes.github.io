@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++经典小游戏集合"
+title: "C经典小游戏集合"
 date:   2022-05-05
 tags: [游戏,C++,小游戏,仓库,编程]
 comments: true

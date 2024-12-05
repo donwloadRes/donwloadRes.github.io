@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小新 Pro-16 2021 AMD款ACH版(82L5)原装出厂Windows11-Win10系统镜像安装包下载"
+title: "小新 Pro16 2021 AMD款ACH版82L5原装出厂Windows11Win10系统镜像安装包下载"
 date:   2023-10-20
 tags: [小新,Pro,ACH,82L5,U盘]
 comments: true

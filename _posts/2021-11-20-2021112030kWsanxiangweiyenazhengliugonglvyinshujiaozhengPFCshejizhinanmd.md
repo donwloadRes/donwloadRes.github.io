@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30kW 三相维也纳整流功率因数校正 (PFC) 设计指南"
+title: "30kW 三相维也纳整流功率因数校正 PFC 设计指南"
 date:   2023-09-30
 tags: [PFC,整流,仿真,设计,30kW]
 comments: true

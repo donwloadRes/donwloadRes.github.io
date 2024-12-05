@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【无人机分配】救灾无人机机队任务分配问题研究附MATLAB代码"
+title: "无人机分配救灾无人机机队任务分配问题研究附MATLAB代码"
 date:   2023-10-12
 tags: [任务分配,无人机,MATLAB,算法,救灾]
 comments: true

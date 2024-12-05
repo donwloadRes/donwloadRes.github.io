@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟集成电路设计精粹(中文完整版)"
+title: "模拟集成电路设计精粹中文完整版"
 date:   2022-05-04
 tags: [模拟,集成电路,完整版,设计,精粹]
 comments: true

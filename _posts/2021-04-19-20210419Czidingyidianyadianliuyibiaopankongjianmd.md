@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 自定义电压电流仪表盘控件"
+title: "C 自定义电压电流仪表盘控件"
 date:   2023-05-17
 tags: [控件,分度,自定义,最大值,仪表盘]
 comments: true

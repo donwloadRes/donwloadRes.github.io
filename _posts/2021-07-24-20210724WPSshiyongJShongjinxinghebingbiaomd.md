@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【WPS】使用JS宏进行合并表"
+title: "WPS使用JS宏进行合并表"
 date:   2022-05-16
 tags: [合并,JS,WPS,工作,表中]
 comments: true

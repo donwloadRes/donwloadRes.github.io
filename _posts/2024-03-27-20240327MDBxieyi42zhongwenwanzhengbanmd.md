@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDB协议 4.2中文完整版"
+title: "MDB协议 42中文完整版"
 date:   2020-04-13
 tags: [MDB,协议,文档,4.2,中文]
 comments: true

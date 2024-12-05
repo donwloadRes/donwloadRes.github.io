@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细！“看图说话”（Image Caption）项目实战"
+title: "超详细看图说话Image Caption项目实战"
 date:   2021-09-27
 tags: [图像,生成,模型,描述,训练]
 comments: true

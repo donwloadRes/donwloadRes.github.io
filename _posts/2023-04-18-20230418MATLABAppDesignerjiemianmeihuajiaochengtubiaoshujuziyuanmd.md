@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB AppDesigner 界面美化教程：图标数据资源"
+title: "MATLAB AppDesigner 界面美化教程图标数据资源"
 date:   2021-04-09
 tags: [图标,MATLAB,AppDesigner,界面,icon]
 comments: true

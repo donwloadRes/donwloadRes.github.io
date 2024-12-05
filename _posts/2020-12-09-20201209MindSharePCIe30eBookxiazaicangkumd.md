@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MindShare-PCIe30-eBook 下载仓库"
+title: "MindSharePCIe30eBook 下载仓库"
 date:   2022-12-21
 tags: [MindShare,PCIe30,eBook,PCIe,文件]
 comments: true

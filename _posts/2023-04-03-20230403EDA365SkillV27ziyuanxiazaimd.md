@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDA365 Skill V2.7 资源下载"
+title: "EDA365 Skill V27 资源下载"
 date:   2021-08-01
 tags: [V2.7,Skill,EDA365,版本,资源]
 comments: true

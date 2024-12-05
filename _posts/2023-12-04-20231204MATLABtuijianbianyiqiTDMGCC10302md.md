@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB推荐编译器 - TDM-GCC 10.3.0-2"
+title: "MATLAB推荐编译器  TDMGCC 10302"
 date:   2023-01-22
 tags: [编译器,MATLAB,10.3,安装,tdm64]
 comments: true

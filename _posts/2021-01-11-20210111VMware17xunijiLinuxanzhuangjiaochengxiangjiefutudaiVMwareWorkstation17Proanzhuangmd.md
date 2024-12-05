@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware17虚拟机Linux安装教程(详解附图，带VMware Workstation 17 Pro安装）"
+title: "VMware17虚拟机Linux安装教程详解附图带VMware Workstation 17 Pro安装"
 date:   2020-10-26
 tags: [虚拟机,安装,Linux,VMware,配置]
 comments: true

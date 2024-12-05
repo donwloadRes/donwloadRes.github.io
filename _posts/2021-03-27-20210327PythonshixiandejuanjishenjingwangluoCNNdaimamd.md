@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现的卷积神经网络(CNN)代码"
+title: "Python实现的卷积神经网络CNN代码"
 date:   2020-03-06
 tags: [卷积,CNN,ReLU,实现,算法]
 comments: true

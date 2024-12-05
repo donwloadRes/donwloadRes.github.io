@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCL3300-D01 三轴倾角计资源文件"
+title: "SCL3300D01 三轴倾角计资源文件"
 date:   2020-06-22
 tags: [SCL3300,D01,STM32F4,代码,三轴]
 comments: true

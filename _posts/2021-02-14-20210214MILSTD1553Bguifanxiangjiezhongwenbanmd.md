@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIL-STD-1553B规范详解中文版"
+title: "MILSTD1553B规范详解中文版"
 date:   2021-03-19
 tags: [1553B,MIL,STD,协议,中文版]
 comments: true

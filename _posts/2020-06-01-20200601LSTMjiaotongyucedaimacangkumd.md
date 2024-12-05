@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM-交通预测 代码仓库"
+title: "LSTM交通预测 代码仓库"
 date:   2020-04-11
 tags: [模型,训练,LSTM,代码,仓库]
 comments: true

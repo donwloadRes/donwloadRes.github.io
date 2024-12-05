@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANFD&CAN TJA1153驱动资源下载"
+title: "CANFDCAN TJA1153驱动资源下载"
 date:   2020-11-12
 tags: [NXP,调试,CANFD,S32K3,通信]
 comments: true

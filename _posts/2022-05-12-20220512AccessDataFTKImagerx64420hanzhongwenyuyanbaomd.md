@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AccessData FTK Imager_x64_4.2.0 含中文语言包"
+title: "AccessData FTK Imagerx64420 含中文语言包"
 date:   2020-05-27
 tags: [FTK,Imager,硬盘,中文,取证]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python 车牌识别工具"
+title: "OpenCVPython 车牌识别工具"
 date:   2024-09-18
 tags: [识别,车牌,OpenCV,工具,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音识别：原理与应用课件下载"
+title: "语音识别原理与应用课件下载"
 date:   2021-06-03
 tags: [课件,语音,识别,PDF,原理]
 comments: true

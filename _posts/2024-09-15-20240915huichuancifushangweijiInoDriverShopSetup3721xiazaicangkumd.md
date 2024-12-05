@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川伺服上位机 InoDriverShop-Setup-3.7.2.1 下载仓库"
+title: "汇川伺服上位机 InoDriverShopSetup3721 下载仓库"
 date:   2022-02-18
 tags: [汇川,3.7,2.1,伺服,InoDriverShop]
 comments: true

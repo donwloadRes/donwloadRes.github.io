@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志A33 Android 4.4.2 Root权限获取工具"
+title: "全志A33 Android 442 Root权限获取工具"
 date:   2024-05-11
 tags: [Root,工具,权限,全志,获取]
 comments: true

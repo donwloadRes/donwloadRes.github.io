@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# FTP 客户端程序自动更新源代码"
+title: "C FTP 客户端程序自动更新源代码"
 date:   2024-04-19
 tags: [源代码,客户端程序,自动更新,FTP,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PyTorch的RNN、LSTM回归预测项目"
+title: "基于PyTorch的RNNLSTM回归预测项目"
 date:   2024-11-01
 tags: [预测,LSTM,PyTorch,py,RNN]
 comments: true

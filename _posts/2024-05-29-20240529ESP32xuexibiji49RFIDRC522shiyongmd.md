@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32学习笔记（49）——RFID RC522使用"
+title: "ESP32学习笔记49RFID RC522使用"
 date:   2023-02-07
 tags: [ESP32,mfrc522,RC522,RFID,Serial]
 comments: true

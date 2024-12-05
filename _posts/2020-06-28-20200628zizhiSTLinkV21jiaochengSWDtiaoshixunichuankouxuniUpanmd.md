@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自制ST-Link V2.1教程（SWD调试+虚拟串口+虚拟U盘）"
+title: "自制STLink V21教程SWD调试虚拟串口虚拟U盘"
 date:   2022-12-20
 tags: [ST,固件,烧录,LINK,串口]
 comments: true

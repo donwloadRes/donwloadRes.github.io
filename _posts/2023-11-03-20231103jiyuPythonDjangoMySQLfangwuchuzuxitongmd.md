@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+Django+MySQL房屋出租系统"
+title: "基于PythonDjangoMySQL房屋出租系统"
 date:   2021-05-08
 tags: [系统,源代码,文档,Python,Django]
 comments: true

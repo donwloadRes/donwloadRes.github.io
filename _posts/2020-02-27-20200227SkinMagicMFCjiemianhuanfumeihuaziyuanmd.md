@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SkinMagic —— MFC界面换肤美化资源"
+title: "SkinMagic  MFC界面换肤美化资源"
 date:   2023-08-13
 tags: [换肤,SkinMagic,MFC,皮肤,界面]
 comments: true

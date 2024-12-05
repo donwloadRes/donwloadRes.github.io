@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LS-DYNA范例解析：炸药在土壤内部爆炸分析"
+title: "LSDYNA范例解析炸药在土壤内部爆炸分析"
 date:   2021-03-08
 tags: [LS,DYNA,仿真,范例,解析]
 comments: true

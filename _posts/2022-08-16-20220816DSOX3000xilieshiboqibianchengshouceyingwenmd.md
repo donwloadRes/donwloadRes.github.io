@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSO-X 3000系列示波器编程手册(英文)"
+title: "DSOX 3000系列示波器编程手册英文"
 date:   2022-11-27
 tags: [DSO,MSO,示波器,手册,3000]
 comments: true

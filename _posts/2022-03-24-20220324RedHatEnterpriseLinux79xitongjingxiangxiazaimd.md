@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Enterprise Linux 7-9 系统镜像下载"
+title: "Red Hat Enterprise Linux 79 系统镜像下载"
 date:   2024-02-29
 tags: [Red,Hat,Enterprise,Linux,镜像]
 comments: true

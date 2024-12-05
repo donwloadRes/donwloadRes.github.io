@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Cut Pro 安装教程及软件下载包（MAC专用，支持M1+M2+Intel）"
+title: "Final Cut Pro 安装教程及软件下载包MAC专用支持M1M2Intel"
 date:   2023-06-03
 tags: [Final,Cut,Pro,安装,下载]
 comments: true

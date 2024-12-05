@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZK可视化工具 ZKUI2.0 资源下载"
+title: "ZK可视化工具 ZKUI20 资源下载"
 date:   2024-04-01
 tags: [ZKUI2.0,配置文件,工具,jar,ZK]
 comments: true

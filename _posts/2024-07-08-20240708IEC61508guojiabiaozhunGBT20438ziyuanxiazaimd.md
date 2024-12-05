@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61508国家标准 - GB-T 20438 资源下载"
+title: "IEC61508国家标准  GBT 20438 资源下载"
 date:   2022-12-22
 tags: [IEC61508,GB,安全,20438,下载]
 comments: true

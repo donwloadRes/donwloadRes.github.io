@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决PB读取PDF文件问题PDFViewOCX-2020更新pb9版本"
+title: "完美解决PB读取PDF文件问题PDFViewOCX2020更新pb9版本"
 date:   2023-10-30
 tags: [PDF,读取,文件,PB,pb9]
 comments: true

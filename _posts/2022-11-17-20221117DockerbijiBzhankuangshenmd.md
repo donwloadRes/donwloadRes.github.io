@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker笔记 - B站狂神"
+title: "Docker笔记  B站狂神"
 date:   2024-03-09
 tags: [Docker,笔记,狂神,这份,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QSFP-DD管理接口协议资源下载"
+title: "QSFPDD管理接口协议资源下载"
 date:   2022-10-09
 tags: [QSFP,DD,接口协议,文件,OSFP]
 comments: true

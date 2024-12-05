@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "商业计划书-互联网项目（包含Word和PPT）"
+title: "商业计划书互联网项目包含Word和PPT"
 date:   2021-05-09
 tags: [计划书,项目,PPT,商业,Word]
 comments: true

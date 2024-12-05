@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT2911R-D驱动代码：LVDS转MIPI旋转90度画面"
+title: "LT2911RD驱动代码LVDS转MIPI旋转90度画面"
 date:   2022-04-14
 tags: [LT2911R,LVDS,MIPI,接口,代码]
 comments: true

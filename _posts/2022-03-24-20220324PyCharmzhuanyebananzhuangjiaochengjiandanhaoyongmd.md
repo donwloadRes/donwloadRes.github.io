@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm专业版安装教程 - 简单好用"
+title: "PyCharm专业版安装教程  简单好用"
 date:   2023-11-15
 tags: [PyCharm,安装,专业版,教程,Python]
 comments: true

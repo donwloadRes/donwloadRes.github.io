@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言入门至精通(全集) 资源下载"
+title: "C语言入门至精通全集 资源下载"
 date:   2022-09-10
 tags: [C语言,入门,精通,学习,资源]
 comments: true

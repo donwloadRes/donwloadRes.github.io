@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBSync 1.0版本 - 通用数据库同步工具"
+title: "DBSync 10版本  通用数据库同步工具"
 date:   2024-05-02
 tags: [数据库,同步,DBSync,数据,1.0]
 comments: true

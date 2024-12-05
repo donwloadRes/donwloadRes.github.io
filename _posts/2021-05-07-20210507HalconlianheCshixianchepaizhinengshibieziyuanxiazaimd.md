@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon联合C#实现车牌智能识别资源下载"
+title: "Halcon联合C实现车牌智能识别资源下载"
 date:   2024-07-26
 tags: [下载,Halcon,车牌,资源,C#]
 comments: true

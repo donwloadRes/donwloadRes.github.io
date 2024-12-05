@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch 3.0 指令大全下载"
+title: "Scratch 30 指令大全下载"
 date:   2020-06-21
 tags: [Scratch,3.0,指令,大全,文件]
 comments: true

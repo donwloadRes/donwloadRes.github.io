@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST7565驱动12864驱动程序（调试成功的）"
+title: "ST7565驱动12864驱动程序调试成功的"
 date:   2020-12-25
 tags: [驱动程序,12864,ST7565,调试,芯片]
 comments: true

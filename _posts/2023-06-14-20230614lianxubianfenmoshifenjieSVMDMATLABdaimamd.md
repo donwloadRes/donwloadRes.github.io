@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "连续变分模式分解（SVMD）MATLAB代码"
+title: "连续变分模式分解SVMDMATLAB代码"
 date:   2023-03-20
 tags: [SVMD,模式,MATLAB,VMD,代码]
 comments: true

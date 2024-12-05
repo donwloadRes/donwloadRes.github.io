@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神经网络模型结构图（Visio格式）"
+title: "神经网络模型结构图Visio格式"
 date:   2023-01-06
 tags: [Visio,神经网络,结构图,模型,格式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 软件注册试用期限代码"
+title: "C 软件注册试用期限代码"
 date:   2024-11-21
 tags: [试用,代码,期限,C#,软件]
 comments: true

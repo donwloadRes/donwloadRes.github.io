@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四线风扇风速测量和控制代码（PID控制）"
+title: "四线风扇风速测量和控制代码PID控制"
 date:   2022-09-13
 tags: [PID,风扇,风速,代码,微机]
 comments: true

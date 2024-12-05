@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-7095C BGA设计与组装工艺标准资源下载"
+title: "IPC7095C BGA设计与组装工艺标准资源下载"
 date:   2023-08-15
 tags: [IPC,BGA,组装,工艺,文件]
 comments: true

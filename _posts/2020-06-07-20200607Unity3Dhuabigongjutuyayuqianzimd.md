@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D画笔工具 - 涂鸦与签字"
+title: "Unity3D画笔工具  涂鸦与签字"
 date:   2024-05-11
 tags: [Unity,画笔,工具,涂鸦,Unity3D]
 comments: true

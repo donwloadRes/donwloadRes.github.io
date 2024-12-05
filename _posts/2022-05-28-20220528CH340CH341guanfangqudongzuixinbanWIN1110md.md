@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CH340-CH341 官方驱动最新版 WIN11-10"
+title: "CH340CH341 官方驱动最新版 WIN1110"
 date:   2020-11-16
 tags: [Windows,驱动程序,CH340,CH341,串口]
 comments: true

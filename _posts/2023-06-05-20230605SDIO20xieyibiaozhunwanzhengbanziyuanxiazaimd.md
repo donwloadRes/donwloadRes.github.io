@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO2.0协议标准完整版资源下载"
+title: "SDIO20协议标准完整版资源下载"
 date:   2023-03-10
 tags: [SD,SDIO,SDIO2.0,完整版,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SrtEdit 7.0 — 字幕编辑软件11年后再次升级"
+title: "SrtEdit 70  字幕编辑软件11年后再次升级"
 date:   2021-06-13
 tags: [字幕,编辑,视频,特效,SrtEdit]
 comments: true

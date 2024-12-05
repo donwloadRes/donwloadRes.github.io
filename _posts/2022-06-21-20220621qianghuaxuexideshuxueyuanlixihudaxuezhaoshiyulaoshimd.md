@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "强化学习的数学原理 - 西湖大学赵世钰老师"
+title: "强化学习的数学原理  西湖大学赵世钰老师"
 date:   2020-04-09
 tags: [Chapter,强化,学习,数学原理,Methods]
 comments: true

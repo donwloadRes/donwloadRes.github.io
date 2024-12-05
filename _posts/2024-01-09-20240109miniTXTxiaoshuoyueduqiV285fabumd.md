@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迷你TXT小说阅读器 V2.85 发布！"
+title: "迷你TXT小说阅读器 V285 发布"
 date:   2021-07-21
 tags: [TXT,阅读器,迷你,V2.85,小说]
 comments: true

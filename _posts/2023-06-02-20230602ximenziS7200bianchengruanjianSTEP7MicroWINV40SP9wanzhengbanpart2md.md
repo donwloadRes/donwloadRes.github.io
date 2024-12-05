@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200编程软件STEP7 MicroWIN V4.0 SP9完整版.part2"
+title: "西门子S7200编程软件STEP7 MicroWIN V40 SP9完整版part2"
 date:   2024-01-18
 tags: [软件,S7,200,编程,STEP7]
 comments: true

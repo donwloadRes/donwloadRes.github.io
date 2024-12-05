@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win11+RTX4070Ti 安装 CUDA + cuDNN 图文教程"
+title: "win11RTX4070Ti 安装 CUDA  cuDNN 图文教程"
 date:   2020-09-26
 tags: [CUDA,安装,cuDNN,教程,显卡]
 comments: true

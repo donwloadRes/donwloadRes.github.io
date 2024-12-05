@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于VLC的C#开发视频播放器"
+title: "基于VLC的C开发视频播放器"
 date:   2020-04-19
 tags: [播放器,Vlc,DotNet,视频,Forms]
 comments: true

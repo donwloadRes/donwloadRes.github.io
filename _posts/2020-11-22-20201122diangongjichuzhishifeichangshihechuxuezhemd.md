@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电工基础知识(非常适合初学者)"
+title: "电工基础知识非常适合初学者"
 date:   2020-04-09
 tags: [电工,基础知识,初学者,资源,非常适合]
 comments: true

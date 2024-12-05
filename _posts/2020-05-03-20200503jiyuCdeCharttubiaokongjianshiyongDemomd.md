@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的Chart图表控件使用Demo"
+title: "基于C的Chart图表控件使用Demo"
 date:   2021-01-14
 tags: [控件,Chart,Demo,图表,C#]
 comments: true

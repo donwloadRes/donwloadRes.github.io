@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络知识点总结(谢希仁第八版)"
+title: "计算机网络知识点总结谢希仁第八版"
 date:   2021-03-21
 tags: [知识点,计算机网络,第八版,总结,复习]
 comments: true

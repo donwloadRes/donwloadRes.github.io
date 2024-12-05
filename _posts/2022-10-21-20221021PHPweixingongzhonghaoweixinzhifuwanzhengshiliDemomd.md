@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP微信公众号微信支付完整示例-Demo"
+title: "PHP微信公众号微信支付完整示例Demo"
 date:   2022-05-22
 tags: [微信,支付,示例,PHP,公众]
 comments: true

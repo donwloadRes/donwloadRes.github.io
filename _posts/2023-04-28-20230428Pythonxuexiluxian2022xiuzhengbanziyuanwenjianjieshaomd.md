@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学习路线（2022修正版）资源文件介绍"
+title: "Python学习路线2022修正版资源文件介绍"
 date:   2024-07-07
 tags: [Python,学习,资源,文件,文件夹]
 comments: true

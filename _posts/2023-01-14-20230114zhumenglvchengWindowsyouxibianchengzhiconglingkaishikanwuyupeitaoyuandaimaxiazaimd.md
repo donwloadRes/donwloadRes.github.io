@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "逐梦旅程：Windows游戏编程之从零开始》勘误与配套源代码下载"
+title: "逐梦旅程Windows游戏编程之从零开始勘误与配套源代码下载"
 date:   2022-09-20
 tags: [源代码,勘误,编程,示例,Windows]
 comments: true

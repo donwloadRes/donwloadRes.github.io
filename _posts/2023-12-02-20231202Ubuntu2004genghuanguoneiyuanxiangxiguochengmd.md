@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 更换国内源详细过程"
+title: "Ubuntu 2004 更换国内源详细过程"
 date:   2024-05-06
 tags: [更换,源文件,备份,软件包,国内]
 comments: true

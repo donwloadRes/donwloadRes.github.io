@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L2Dwidget.js 动漫人物"
+title: "L2Dwidgetjs 动漫人物"
 date:   2021-11-23
 tags: [动漫,L2Dwidget,js,人物,html]
 comments: true

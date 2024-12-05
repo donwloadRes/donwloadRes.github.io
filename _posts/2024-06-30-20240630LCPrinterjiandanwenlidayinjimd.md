@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCPrinter - 简单纹理打印机"
+title: "LCPrinter  简单纹理打印机"
 date:   2021-05-22
 tags: [打印,插件,打印机,LCPrinter,Unity]
 comments: true

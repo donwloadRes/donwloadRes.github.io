@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3588-kernel中RK806驱动代码解析"
+title: "RK3588kernel中RK806驱动代码解析"
 date:   2024-07-21
 tags: [RK806,驱动,RK3588,代码,内核]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATK-IMU901模块：HAL库例程转库函数代码"
+title: "ATKIMU901模块HAL库例程转库函数代码"
 date:   2022-05-28
 tags: [库函数,例程,HAL,代码,ATK]
 comments: true

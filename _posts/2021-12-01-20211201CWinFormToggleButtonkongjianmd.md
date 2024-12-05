@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm ToggleButton 控件"
+title: "C WinForm ToggleButton 控件"
 date:   2024-07-29
 tags: [控件,ToggleButton,按钮,WinForm,点击]
 comments: true

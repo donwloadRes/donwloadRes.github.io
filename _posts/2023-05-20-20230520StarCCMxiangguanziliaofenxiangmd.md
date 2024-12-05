@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Star CCM+相关资料分享"
+title: "Star CCM相关资料分享"
 date:   2023-03-10
 tags: [CCM,Star,仿真,教程,案例]
 comments: true

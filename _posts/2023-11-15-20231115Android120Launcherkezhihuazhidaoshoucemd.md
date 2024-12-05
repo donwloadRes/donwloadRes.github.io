@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 12.0 Launcher 客制化指导手册"
+title: "Android 120 Launcher 客制化指导手册"
 date:   2021-11-01
 tags: [客制化,Launcher,图标,Android,12.0]
 comments: true

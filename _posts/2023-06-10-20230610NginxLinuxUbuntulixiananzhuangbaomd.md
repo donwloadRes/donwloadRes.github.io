@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx Linux_Ubuntu 离线安装包"
+title: "Nginx LinuxUbuntu 离线安装包"
 date:   2023-03-24
 tags: [Nginx,离线,安装,Ubuntu,版本]
 comments: true

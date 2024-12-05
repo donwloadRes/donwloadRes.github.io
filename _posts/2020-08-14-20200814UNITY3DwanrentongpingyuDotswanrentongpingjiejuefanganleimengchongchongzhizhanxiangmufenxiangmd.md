@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNITY3D万人同屏与Dots万人同屏解决方案 - 类萌宠宠之战项目分享"
+title: "UNITY3D万人同屏与Dots万人同屏解决方案  类萌宠宠之战项目分享"
 date:   2022-05-04
 tags: [同屏,游戏,万人,DOTS,类萌]
 comments: true

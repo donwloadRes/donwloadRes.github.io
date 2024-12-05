@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机PWM信号转换为工业标准电流输出4-20mA"
+title: "单片机PWM信号转换为工业标准电流输出420mA"
 date:   2023-06-13
 tags: [信号,单片机,PWM,20mA,电流]
 comments: true

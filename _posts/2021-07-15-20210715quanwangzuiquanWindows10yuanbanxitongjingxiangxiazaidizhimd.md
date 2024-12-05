@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全Windows 1.0原版系统镜像下载地址"
+title: "全网最全Windows 10原版系统镜像下载地址"
 date:   2023-07-18
 tags: [版本,Windows,1.0,1.01,下载]
 comments: true

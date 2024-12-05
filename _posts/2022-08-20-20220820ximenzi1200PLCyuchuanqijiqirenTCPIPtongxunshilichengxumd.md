@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子1200 PLC与川崎机器人TCP-IP通讯实例程序"
+title: "西门子1200 PLC与川崎机器人TCPIP通讯实例程序"
 date:   2020-01-15
 tags: [PLC,机器人,通讯,川崎,TCP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe DMA 部分文件及重要模块代码（含注释）"
+title: "PCIe DMA 部分文件及重要模块代码含注释"
 date:   2024-05-22
 tags: [PCIe,注释,DMA,代码,文件]
 comments: true

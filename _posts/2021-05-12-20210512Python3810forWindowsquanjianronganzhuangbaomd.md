@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8.10 for Windows - 全兼容安装包"
+title: "Python 3810 for Windows  全兼容安装包"
 date:   2023-12-17
 tags: [Python,安装,Windows,安装包,3.8]
 comments: true

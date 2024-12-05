@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理理论算法与实现（胡广书）Matlab代码及参考文献"
+title: "数字信号处理理论算法与实现胡广书Matlab代码及参考文献"
 date:   2021-01-05
 tags: [参考文献,Matlab,信号处理,代码,算法]
 comments: true

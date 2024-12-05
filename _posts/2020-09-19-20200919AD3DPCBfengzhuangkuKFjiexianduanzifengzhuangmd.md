@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD 3D PCB封装库：KF接线端子封装"
+title: "AD 3D PCB封装库KF接线端子封装"
 date:   2024-06-15
 tags: [封装,端子,接线,KF,PCB]
 comments: true

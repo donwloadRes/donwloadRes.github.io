@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-RNDIS Win10 64位驱动"
+title: "USBRNDIS Win10 64位驱动"
 date:   2023-07-26
 tags: [驱动,USB,Windows,安装,文件]
 comments: true

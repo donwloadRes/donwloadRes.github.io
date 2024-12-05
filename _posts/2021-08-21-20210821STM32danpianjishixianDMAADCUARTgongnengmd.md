@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32单片机实现DMA+ADC+UART功能"
+title: "STM32单片机实现DMAADCUART功能"
 date:   2023-07-16
 tags: [ADC,串口,DMA,单片机,采集]
 comments: true

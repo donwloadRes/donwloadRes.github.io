@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++与C语言经典编程资源合集"
+title: "C与C语言经典编程资源合集"
 date:   2020-09-11
 tags: [编程,C++,C语言,经典,资源]
 comments: true

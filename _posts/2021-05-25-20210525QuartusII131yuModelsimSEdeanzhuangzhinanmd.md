@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1与Modelsim SE的安装指南"
+title: "Quartus II 131与Modelsim SE的安装指南"
 date:   2020-05-16
 tags: [安装,Quartus,II,13.1,dll]
 comments: true

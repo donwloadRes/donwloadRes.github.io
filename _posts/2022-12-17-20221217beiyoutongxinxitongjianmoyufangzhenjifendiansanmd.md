@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北邮-通信系统建模与仿真-积分点三"
+title: "北邮通信系统建模与仿真积分点三"
 date:   2024-02-13
 tags: [仿真,建模,积分,文件,北邮]
 comments: true

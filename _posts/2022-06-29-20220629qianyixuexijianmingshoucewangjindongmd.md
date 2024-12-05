@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迁移学习简明手册（王晋东）"
+title: "迁移学习简明手册王晋东"
 date:   2020-02-25
 tags: [迁移,手册,学习,晋东,简明]
 comments: true

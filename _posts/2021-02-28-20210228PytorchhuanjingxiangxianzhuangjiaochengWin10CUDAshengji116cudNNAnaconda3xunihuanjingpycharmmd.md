@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch环境详细安装教程【Win10+CUDA升级11.6+cudNN+Anaconda3虚拟环境+pycharm】"
+title: "Pytorch环境详细安装教程Win10CUDA升级116cudNNAnaconda3虚拟环境pycharm"
 date:   2023-10-12
 tags: [CUDA,11.6,虚拟环境,PyTorch,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新安江模型PEST++参数率定资源包"
+title: "新安江模型PEST参数率定资源包"
 date:   2020-10-30
 tags: [率定,新安江,模型,PEST,++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口VSPD 8.0.412（含注册码）"
+title: "虚拟串口VSPD 80412含注册码"
 date:   2020-08-28
 tags: [串口,虚拟,注册码,VSPD,412]
 comments: true

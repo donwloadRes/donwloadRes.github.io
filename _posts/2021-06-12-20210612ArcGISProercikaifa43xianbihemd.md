@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ArcGIS Pro二次开发】(43)：线闭合"
+title: "ArcGIS Pro二次开发43线闭合"
 date:   2023-02-15
 tags: [闭合,要素,ArcGIS,Pro,二次开发]
 comments: true

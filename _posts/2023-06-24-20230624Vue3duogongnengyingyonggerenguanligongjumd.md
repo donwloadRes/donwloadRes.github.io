@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Vue3多功能应用：个人管理工具"
+title: "Vue3多功能应用个人管理工具
+date   20220822
+tags 便签英雄Vue3待办用户
+comments true
+author admin
+
+
+layout post
+title Vue3多功能应用个人管理工具"
 date:   2022-08-22
 tags: [便签,英雄,Vue3,待办,用户]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Vue3多功能应用：个人管理工具"
+title: "Vue3多功能应用个人管理工具
+date   20220822
+tags 便签英雄Vue3待办用户
+comments true
+author admin
+
+
+layout post
+title Vue3多功能应用个人管理工具"
 date:   2023-08-08
 tags: [英雄,便签,用户,待办,Vue3]
 comments: true

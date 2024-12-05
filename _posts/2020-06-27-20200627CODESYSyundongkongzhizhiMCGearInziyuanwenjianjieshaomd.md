@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CODESYS运动控制之MC_GearIn资源文件介绍"
+title: "CODESYS运动控制之MCGearIn资源文件介绍"
 date:   2022-08-21
 tags: [MC,CODESYS,GearIn,运动,控制]
 comments: true

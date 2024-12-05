@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Qt开发项目教程》源码"
+title: "嵌入式Qt开发项目教程源码"
 date:   2020-06-10
 tags: [Qt,嵌入式,教程,项目,开发]
 comments: true

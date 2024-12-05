@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIX环境高级编程（中文第三版）PDF下载"
+title: "UNIX环境高级编程中文第三版PDF下载"
 date:   2020-09-29
 tags: [PDF,UNIX,第三版,编程,中文]
 comments: true

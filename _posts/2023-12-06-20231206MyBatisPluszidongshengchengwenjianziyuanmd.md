@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyBatis-Plus 自动生成文件资源"
+title: "MyBatisPlus 自动生成文件资源"
 date:   2021-10-15
 tags: [MyBatis,Plus,文件,操作,资源]
 comments: true

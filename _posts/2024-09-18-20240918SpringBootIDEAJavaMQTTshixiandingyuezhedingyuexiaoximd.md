@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + IDEA + Java + MQTT 实现订阅者订阅消息"
+title: "SpringBoot  IDEA  Java  MQTT 实现订阅者订阅消息"
 date:   2020-04-17
 tags: [MQTT,消息,IDEA,Java,订阅]
 comments: true

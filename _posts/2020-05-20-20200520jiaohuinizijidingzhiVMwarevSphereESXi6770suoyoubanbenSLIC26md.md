@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "教会你自己定制 VMware vSphere ESXi 6.7-7.0 所有版本 SLIC2.6"
+title: "教会你自己定制 VMware vSphere ESXi 6770 所有版本 SLIC26"
 date:   2023-08-17
 tags: [定制,安装盘,6.7,7.0,VMware]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1394b-2008协议标准下载"
+title: "IEEE 1394b2008协议标准下载"
 date:   2024-01-26
 tags: [IEEE,1394b,2008,文件,标准]
 comments: true

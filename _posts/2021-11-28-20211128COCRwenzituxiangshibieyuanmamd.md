@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ OCR 文字图像识别源码"
+title: "C OCR 文字图像识别源码"
 date:   2020-08-04
 tags: [源码,C++,源代码,编译,OCR]
 comments: true

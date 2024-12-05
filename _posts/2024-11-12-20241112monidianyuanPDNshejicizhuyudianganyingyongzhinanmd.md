@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电源PDN设计：磁珠与电感应用指南"
+title: "模拟电源PDN设计磁珠与电感应用指南"
 date:   2020-11-09
 tags: [磁珠,PDN,电源,文档,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与ABB机器人虚拟通讯资源包"
+title: "C与ABB机器人虚拟通讯资源包"
 date:   2023-07-06
 tags: [BB机,器人,通讯,C#,SDK]
 comments: true

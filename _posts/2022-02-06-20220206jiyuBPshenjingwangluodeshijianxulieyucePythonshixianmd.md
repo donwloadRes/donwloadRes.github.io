@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于BP神经网络的时间序列预测（Python实现）"
+title: "基于BP神经网络的时间序列预测Python实现"
 date:   2023-04-25
 tags: [神经网络,BP,预测,序列,Python]
 comments: true

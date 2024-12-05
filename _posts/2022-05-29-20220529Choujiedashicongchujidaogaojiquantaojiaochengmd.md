@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++侯捷大师从初级到高级全套教程"
+title: "C侯捷大师从初级到高级全套教程"
 date:   2023-04-06
 tags: [C++,教程,高级,编程,侯捷]
 comments: true

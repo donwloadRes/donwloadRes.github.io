@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cheat Engine 增强版本 - CE-Enhanced-Version"
+title: "Cheat Engine 增强版本  CEEnhancedVersion"
 date:   2021-03-18
 tags: [Cheat,Engine,版本,CE,Enhanced]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KingSCADA 3.8 帮助手册下载"
+title: "KingSCADA 38 帮助手册下载"
 date:   2020-10-05
 tags: [KingSCADA,帮助,手册,文档,3.8]
 comments: true

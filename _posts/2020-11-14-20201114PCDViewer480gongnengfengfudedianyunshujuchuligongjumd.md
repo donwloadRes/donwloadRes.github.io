@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCDViewer 4.8.0 - 功能丰富的点云数据处理工具"
+title: "PCDViewer 480  功能丰富的点云数据处理工具"
 date:   2022-07-11
 tags: [点云,PCDViewer,4.8,数据处理,Windows]
 comments: true

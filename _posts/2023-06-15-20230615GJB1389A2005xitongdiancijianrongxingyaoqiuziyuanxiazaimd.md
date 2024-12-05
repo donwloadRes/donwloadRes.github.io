@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 1389A-2005 系统电磁兼容性要求 资源下载"
+title: "GJB 1389A2005 系统电磁兼容性要求 资源下载"
 date:   2024-10-22
 tags: [电磁兼容,文件,GJB,2005,下载]
 comments: true

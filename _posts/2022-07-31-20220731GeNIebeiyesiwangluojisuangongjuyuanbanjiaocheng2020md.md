@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeNIe贝叶斯网络计算工具原版教程（2020）"
+title: "GeNIe贝叶斯网络计算工具原版教程2020"
 date:   2022-06-04
 tags: [贝叶斯,GeNIe,教程,网络,2020]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计 硬件-软件接口（原书第五版 RISC-V版）课后习题答案"
+title: "计算机组成与设计 硬件软件接口原书第五版 RISCV版课后习题答案"
 date:   2020-07-30
 tags: [习题,课后,答案,RISC,第五版]
 comments: true

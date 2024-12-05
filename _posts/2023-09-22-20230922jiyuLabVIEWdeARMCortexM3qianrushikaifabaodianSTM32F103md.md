@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LabVIEW的ARM Cortex-M3嵌入式开发宝典---STM32F103"
+title: "基于LabVIEW的ARM CortexM3嵌入式开发宝典STM32F103"
 date:   2022-10-04
 tags: [LabVIEW,STM32F103,嵌入式,M3,开发]
 comments: true

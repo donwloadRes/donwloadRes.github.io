@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 + ULN2003 驱动步进电机实现正反转"
+title: "STM32F103  ULN2003 驱动步进电机实现正反转"
 date:   2024-09-16
 tags: [步进,电机,STM32F103,ULN2003,开发板]
 comments: true

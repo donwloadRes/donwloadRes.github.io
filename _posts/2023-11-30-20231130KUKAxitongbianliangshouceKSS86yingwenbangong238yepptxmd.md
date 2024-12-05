@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA系统变量手册（KSS 8.6 英文版共238页）.pptx"
+title: "KUKA系统变量手册KSS 86 英文版共238页pptx"
 date:   2020-03-04
 tags: [KUKA,手册,变量,机器人,KSS]
 comments: true

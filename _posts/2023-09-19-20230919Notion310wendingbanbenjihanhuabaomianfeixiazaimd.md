@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notion 3.1.0 稳定版本及汉化包免费下载"
+title: "Notion 310 稳定版本及汉化包免费下载"
 date:   2023-08-08
 tags: [Notion,汉化包,3.1,版本,软件]
 comments: true

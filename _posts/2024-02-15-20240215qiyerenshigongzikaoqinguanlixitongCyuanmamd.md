@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业人事工资考勤管理系统(C#源码)"
+title: "企业人事工资考勤管理系统C源码"
 date:   2020-08-20
 tags: [考勤,源码,feature,工资,数据库]
 comments: true

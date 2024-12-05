@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H.265-HEVC 视频编码新标准及其扩展"
+title: "H265HEVC 视频编码新标准及其扩展"
 date:   2022-06-17
 tags: [H.265,HEVC,编码,视频,PDF]
 comments: true

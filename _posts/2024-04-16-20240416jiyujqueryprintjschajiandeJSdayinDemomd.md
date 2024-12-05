@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于jquery.print.js插件的JS打印Demo"
+title: "基于jqueryprintjs插件的JS打印Demo"
 date:   2023-03-30
 tags: [插件,print,js,Demo,打印]
 comments: true

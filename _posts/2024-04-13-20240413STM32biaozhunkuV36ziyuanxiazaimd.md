@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准库V3.6 资源下载"
+title: "STM32标准库V36 资源下载"
 date:   2022-05-11
 tags: [STM32,V3.6,文件,资源,下载]
 comments: true

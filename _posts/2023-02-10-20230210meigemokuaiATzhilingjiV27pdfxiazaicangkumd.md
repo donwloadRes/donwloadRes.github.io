@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美格模块AT指令集V2.7.pdf 下载仓库"
+title: "美格模块AT指令集V27pdf 下载仓库"
 date:   2023-08-25
 tags: [美格,模块,指令,文档,指令集]
 comments: true

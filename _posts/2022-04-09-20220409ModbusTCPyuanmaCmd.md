@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus TCP源码(C#)"
+title: "Modbus TCP源码C"
 date:   2024-01-16
 tags: [Modbus,TCP,示例,源码,C#]
 comments: true

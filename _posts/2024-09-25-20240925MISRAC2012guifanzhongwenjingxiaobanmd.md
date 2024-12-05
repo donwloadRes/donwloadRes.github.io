@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISRA C 2012规范—中文精校版"
+title: "MISRA C 2012规范中文精校版"
 date:   2023-11-15
 tags: [MISRA,2012,精校,220,校对]
 comments: true

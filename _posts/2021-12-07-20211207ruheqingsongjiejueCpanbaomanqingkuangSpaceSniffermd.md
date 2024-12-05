@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何轻松解决C盘爆满情况——SpaceSniffer"
+title: "如何轻松解决C盘爆满情况SpaceSniffer"
 date:   2022-09-29
 tags: [SpaceSniffer,扫描,磁盘,文件,C盘]
 comments: true

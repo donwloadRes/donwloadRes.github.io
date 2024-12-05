@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川DX100-DX200通信接口手册下载"
+title: "安川DX100DX200通信接口手册下载"
 date:   2023-05-23
 tags: [通信接口,安川,DX200,本手册,手册]
 comments: true

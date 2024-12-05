@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FIBOCOM FM650-CN系列硬件指南 V1.0.1"
+title: "FIBOCOM FM650CN系列硬件指南 V101"
 date:   2021-04-08
 tags: [CN,FIBOCOM,FM650,指南,系列]
 comments: true

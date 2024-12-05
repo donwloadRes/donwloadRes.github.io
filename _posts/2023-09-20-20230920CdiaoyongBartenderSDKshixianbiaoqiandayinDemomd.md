@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用Bartender SDK实现标签打印Demo"
+title: "C调用Bartender SDK实现标签打印Demo"
 date:   2020-01-11
 tags: [Bartender,SDK,打印,C#,文件]
 comments: true

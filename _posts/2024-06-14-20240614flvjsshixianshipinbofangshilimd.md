@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flv.js实现视频播放——示例"
+title: "flvjs实现视频播放示例"
 date:   2023-03-15
 tags: [flv,播放,js,视频,FLV]
 comments: true

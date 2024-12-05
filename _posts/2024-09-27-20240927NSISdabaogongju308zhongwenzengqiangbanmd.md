@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSIS打包工具3.0.8中文增强版"
+title: "NSIS打包工具308中文增强版"
 date:   2023-04-03
 tags: [打包,NSIS,中文,增强版,工具]
 comments: true

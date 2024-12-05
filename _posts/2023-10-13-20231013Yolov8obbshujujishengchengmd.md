@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolov8-obb数据集生成"
+title: "Yolov8obb数据集生成"
 date:   2024-08-14
 tags: [数据,obb,生成,YOLOv8,Yolov8]
 comments: true

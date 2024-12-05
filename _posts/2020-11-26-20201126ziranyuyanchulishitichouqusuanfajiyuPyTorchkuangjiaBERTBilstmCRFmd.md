@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理实体抽取算法基于PyTorch框架BERT+Bilstm+CRF"
+title: "自然语言处理实体抽取算法基于PyTorch框架BERTBilstmCRF"
 date:   2023-05-23
 tags: [实体,PyTorch,BERT,CRF,模型]
 comments: true

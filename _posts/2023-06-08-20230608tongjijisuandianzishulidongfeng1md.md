@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计计算电子书-李东风1"
+title: "统计计算电子书李东风1"
 date:   2021-03-21
 tags: [计算,统计,电子书,文件,算法]
 comments: true

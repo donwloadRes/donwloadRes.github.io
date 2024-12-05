@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BERT手把手实现分类任务-Pytorch"
+title: "BERT手把手实现分类任务Pytorch"
 date:   2020-08-13
 tags: [BERT,NLP,模型,分类,教程]
 comments: true

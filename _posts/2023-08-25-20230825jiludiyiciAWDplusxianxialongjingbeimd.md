@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记录第一次AWDplus线下--“陇警杯”"
+title: "记录第一次AWDplus线下陇警杯"
 date:   2024-04-15
 tags: [漏洞,防御,比赛,AWDplus,题目]
 comments: true

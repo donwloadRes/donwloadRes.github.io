@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QTabWidget标签拖拽出窗口，又可还原"
+title: "QTabWidget标签拖拽出窗口又可还原"
 date:   2022-02-17
 tags: [标签,拖拽,QTabWidget,窗口,还原]
 comments: true

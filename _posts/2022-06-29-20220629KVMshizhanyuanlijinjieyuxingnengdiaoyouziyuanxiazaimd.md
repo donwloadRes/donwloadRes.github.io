@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KVM实战：原理、进阶与性能调优 资源下载"
+title: "KVM实战原理进阶与性能调优 资源下载"
 date:   2024-05-18
 tags: [KVM,虚拟化,调优,进阶,性能]
 comments: true

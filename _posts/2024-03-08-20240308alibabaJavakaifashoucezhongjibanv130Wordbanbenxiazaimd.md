@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册终极版v1.3.0 Word版本下载"
+title: "阿里巴巴Java开发手册终极版v130 Word版本下载"
 date:   2023-10-19
 tags: [Java,手册,终极版,v1.3,Word]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RDPWrap-v1.6.2 资源文件下载"
+title: "RDPWrapv162 资源文件下载"
 date:   2022-03-14
 tags: [RDPWrap,v1.6,版本,下载,文件]
 comments: true

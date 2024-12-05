@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用模拟电路设计 第2版（美）Marc Thompson著 高清完整版"
+title: "实用模拟电路设计 第2版美Marc Thompson著 高清完整版"
 date:   2022-01-16
 tags: [电路设计,模拟,完整版,高清,实用]
 comments: true

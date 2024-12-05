@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC客户端工具 - 高效实用的OPC通信解决方案"
+title: "OPC客户端工具  高效实用的OPC通信解决方案"
 date:   2022-03-28
 tags: [OPC,客户端,工具,文档,高效]
 comments: true

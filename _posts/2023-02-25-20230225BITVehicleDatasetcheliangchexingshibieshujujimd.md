@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BITVehicle-Dataset 车辆车型识别数据集"
+title: "BITVehicleDataset 车辆车型识别数据集"
 date:   2024-04-12
 tags: [XML,标注,BITVehicle,Dataset,数据]
 comments: true

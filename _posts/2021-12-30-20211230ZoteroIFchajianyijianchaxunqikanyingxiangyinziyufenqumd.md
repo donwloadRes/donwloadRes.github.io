@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero IF 插件：一键查询期刊影响因子与分区"
+title: "Zotero IF 插件一键查询期刊影响因子与分区"
 date:   2020-08-09
 tags: [插件,Zotero,文献,因子,分区]
 comments: true

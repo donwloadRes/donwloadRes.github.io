@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF数据可视化大屏展示：实现地图仿Echarts模拟迁移效果与Telerik图表仪表盘"
+title: "WPF数据可视化大屏展示实现地图仿Echarts模拟迁移效果与Telerik图表仪表盘"
 date:   2021-05-09
 tags: [可视化,Telerik,数据,图表,WPF]
 comments: true

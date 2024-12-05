@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "连续体和结构的非线性有限元（中文版）下载"
+title: "连续体和结构的非线性有限元中文版下载"
 date:   2020-06-16
 tags: [有限元,非线性,中文版,版本,PDF]
 comments: true

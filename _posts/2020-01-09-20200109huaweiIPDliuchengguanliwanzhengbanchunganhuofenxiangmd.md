@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为IPD流程管理(完整版) - 纯干货分享"
+title: "华为IPD流程管理完整版  纯干货分享"
 date:   2022-09-02
 tags: [华为,流程,IPD,团队,研发]
 comments: true

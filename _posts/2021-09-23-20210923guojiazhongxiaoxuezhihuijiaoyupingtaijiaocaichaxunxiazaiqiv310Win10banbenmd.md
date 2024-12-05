@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家中小学智慧教育平台 教材查询下载器 v3.1.0 - Win10 版本"
+title: "国家中小学智慧教育平台 教材查询下载器 v310  Win10 版本"
 date:   2023-01-24
 tags: [下载,教材,v3.1,查询,中小学]
 comments: true

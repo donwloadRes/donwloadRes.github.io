@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNSS-SDR手动文档 (v0.0.9)"
+title: "GNSSSDR手动文档 v009"
 date:   2021-04-02
 tags: [GNSS,SDR,手册,v0.0,文档]
 comments: true

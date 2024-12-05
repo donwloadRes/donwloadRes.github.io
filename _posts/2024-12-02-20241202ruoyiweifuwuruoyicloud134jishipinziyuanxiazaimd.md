@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依微服务ruoyi-cloud 134集视频资源下载"
+title: "若依微服务ruoyicloud 134集视频资源下载"
 date:   2022-06-13
 tags: [依微,源码,视频,下载,服务]
 comments: true

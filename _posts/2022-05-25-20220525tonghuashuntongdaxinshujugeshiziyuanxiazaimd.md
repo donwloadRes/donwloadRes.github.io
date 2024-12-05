@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "同花顺、通达信数据格式资源下载"
+title: "同花顺通达信数据格式资源下载"
 date:   2022-11-14
 tags: [数据格式,通达信,同花顺,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI热插拔规范1.1版本PDF文件下载"
+title: "PCI热插拔规范11版本PDF文件下载"
 date:   2022-12-06
 tags: [PCI,热插拔,1.1,PDF,文件]
 comments: true

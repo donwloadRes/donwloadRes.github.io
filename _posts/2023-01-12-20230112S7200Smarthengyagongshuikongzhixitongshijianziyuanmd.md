@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200Smart 恒压供水控制系统实践资源"
+title: "S7200Smart 恒压供水控制系统实践资源"
 date:   2021-04-06
 tags: [PLC,恒压,S7,200Smart,触摸屏]
 comments: true

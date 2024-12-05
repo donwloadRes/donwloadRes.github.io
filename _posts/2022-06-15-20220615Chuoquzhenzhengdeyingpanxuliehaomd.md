@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 获取真正的硬盘序列号"
+title: "C 获取真正的硬盘序列号"
 date:   2020-05-23
 tags: [序列号,硬盘,C#,获取,代码]
 comments: true

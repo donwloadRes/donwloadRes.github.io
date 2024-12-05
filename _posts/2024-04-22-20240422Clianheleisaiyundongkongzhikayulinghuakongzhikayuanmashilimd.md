@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#联合雷赛运动控制卡与凌华控制卡源码示例"
+title: "C联合雷赛运动控制卡与凌华控制卡源码示例"
 date:   2020-08-30
 tags: [C#,控制卡,雷赛,运动,示例]
 comments: true

@@ -1,6 +1,40 @@
 ---
 layout: post
-title: "黑苹果无法登录Apple ID解决方案"
+title: "黑苹果无法登录Apple ID解决方案
+date   20221222
+tags reflectHostboardid苹果文件夹
+comments true
+author admin
+
+ 黑苹果无法登录Apple ID解决方案
+
+本资源文件提供了一个详细的解决方案帮助用户解决在黑苹果系统中无法登录Apple ID的问题通过以下步骤您可以成功登录Apple ID并享受相关服务
+
+ 解决方案步骤
+
+1 下载Chameleon Wizard
+    由于黑苹果系统无法安装百度云盘您需要在电脑上下载Chameleon Wizard
+
+2 解压文件到共享文件夹
+    将下载的文件解压到共享文件夹中设置共享文件夹的方法可以参考相关文档
+
+3 定位共享文件夹并运行Chameleon Wizard
+    根据相关文档定位到共享文件夹双击运行Chameleon Wizard
+
+4 编辑SMBios信息
+    依次点击SMBios  编辑然后点击蓝色箭头
+    选择与您电脑配置相近的型号例如MacBookPro92
+
+5 创建并编辑txt文件
+    在自己的电脑上创建一个txt文件内容如下
+     
+     boardid reflectHost  FALSE
+     boardid  
+     hwmodel reflectHost  FALSE
+     hwmodel  
+     serialNumber reflectHost  FALSE
+     serialNumber  
+     smbios reflectHost  FALSE"
 date:   2022-12-22
 tags: [reflectHost,board,id,苹果,文件夹]
 comments: true

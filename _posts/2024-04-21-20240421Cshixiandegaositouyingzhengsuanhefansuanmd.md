@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现的高斯投影正算和反算"
+title: "C实现的高斯投影正算和反算"
 date:   2020-02-21
 tags: [高斯,投影,正算,反算,平面坐标]
 comments: true

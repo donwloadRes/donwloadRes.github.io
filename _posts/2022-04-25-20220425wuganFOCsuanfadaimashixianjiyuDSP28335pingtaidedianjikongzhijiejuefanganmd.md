@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无感FOC算法代码实现 - 基于DSP28335平台的电机控制解决方案"
+title: "无感FOC算法代码实现  基于DSP28335平台的电机控制解决方案"
 date:   2020-11-11
 tags: [无感,FOC,算法,代码,DSP28335]
 comments: true

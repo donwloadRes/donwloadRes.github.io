@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog数字系统设计教程(第2版) 资源下载"
+title: "Verilog数字系统设计教程第2版 资源下载"
 date:   2021-09-04
 tags: [Verilog,PDF,教程,下载,设计]
 comments: true

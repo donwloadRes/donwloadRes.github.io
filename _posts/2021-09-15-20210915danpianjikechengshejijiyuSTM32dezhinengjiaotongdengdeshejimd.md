@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机课程设计：基于STM32的智能交通灯的设计"
+title: "单片机课程设计基于STM32的智能交通灯的设计"
 date:   2022-06-19
 tags: [交通灯,STM32,仿真,单片机,智能]
 comments: true

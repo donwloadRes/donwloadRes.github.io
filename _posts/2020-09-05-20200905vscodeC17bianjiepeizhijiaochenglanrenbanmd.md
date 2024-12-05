@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vscode C++17便捷配置教程（懒人版）"
+title: "vscode C17便捷配置教程懒人版"
 date:   2023-04-27
 tags: [C++,17,VSCode,配置,配置文件]
 comments: true

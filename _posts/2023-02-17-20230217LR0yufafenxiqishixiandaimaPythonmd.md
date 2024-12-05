@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LR(0)语法分析器实现代码（Python）"
+title: "LR0语法分析器实现代码Python"
 date:   2022-07-09
 tags: [语法分析,代码,LR,Python,状态]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EV2400用于TI电量计应用高级使用指导（专业学习）"
+title: "EV2400用于TI电量计应用高级使用指导专业学习"
 date:   2022-03-02
 tags: [EV2400,电量计,TI,应用,高级]
 comments: true

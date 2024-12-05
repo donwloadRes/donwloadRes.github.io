@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 16.04 系统安装指南"
+title: "Ubuntu 1604 系统安装指南"
 date:   2022-08-03
 tags: [安装,Ubuntu,16.04,系统,显卡]
 comments: true

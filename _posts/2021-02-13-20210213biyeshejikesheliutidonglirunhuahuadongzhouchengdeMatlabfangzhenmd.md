@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计&课设-流体动力润滑滑动轴承的Matlab仿真"
+title: "毕业设计课设流体动力润滑滑动轴承的Matlab仿真"
 date:   2024-09-25
 tags: [Matlab,流体动力,润滑,毕业设计,滑动轴承]
 comments: true

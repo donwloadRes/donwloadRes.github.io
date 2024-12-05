@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 12.5 在银河麒麟V10服务器版本上的安装与配置指南"
+title: "PostgreSQL 125 在银河麒麟V10服务器版本上的安装与配置指南"
 date:   2020-03-01
 tags: [PostgreSQL,数据库,安装,12.5,V10]
 comments: true

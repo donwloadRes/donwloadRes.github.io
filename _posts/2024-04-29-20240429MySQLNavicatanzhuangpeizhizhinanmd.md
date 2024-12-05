@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL+Navicat安装配置指南"
+title: "MySQLNavicat安装配置指南"
 date:   2020-07-13
 tags: [MySQL,Navicat,安装,数据库,配置]
 comments: true

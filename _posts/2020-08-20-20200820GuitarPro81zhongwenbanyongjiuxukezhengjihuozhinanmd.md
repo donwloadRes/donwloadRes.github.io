@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.1中文版永久许可证激活指南"
+title: "Guitar Pro 81中文版永久许可证激活指南"
 date:   2022-03-31
 tags: [Guitar,Pro,8.1,激活码,激活]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-可调稳压电源Multisim仿真设计"
+title: "数电课设可调稳压电源Multisim仿真设计"
 date:   2020-10-22
 tags: [仿真,Multisim,稳压电源,电路设计,数电]
 comments: true

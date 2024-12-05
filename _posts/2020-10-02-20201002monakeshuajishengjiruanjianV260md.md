@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "默纳克刷机升级软件V2.6.0"
+title: "默纳克刷机升级软件V260"
 date:   2023-02-19
 tags: [升级,纳克,刷机,软件,V2.6]
 comments: true

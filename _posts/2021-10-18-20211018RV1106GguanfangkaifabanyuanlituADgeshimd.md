@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RV1106G官方开发板原理图（AD格式）"
+title: "RV1106G官方开发板原理图AD格式"
 date:   2020-11-21
 tags: [原理图,RV1106G,AD,开发板,Altium]
 comments: true

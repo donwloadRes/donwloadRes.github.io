@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-W64GCC 下载仓库"
+title: "MinGWW64GCC 下载仓库"
 date:   2021-09-02
 tags: [MinGW,VSCode,W64GCC,仓库,C++]
 comments: true

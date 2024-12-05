@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C# WinForm框架的校园图书管理系统"
+title: "基于C WinForm框架的校园图书管理系统"
 date:   2021-01-19
 tags: [图书,数据库,借书,续借,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自用-NeRF合成数据集制作流程"
+title: "自用NeRF合成数据集制作流程"
 date:   2020-09-14
 tags: [数据,NeRF,合成,文档,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FICO模块SAP-S4与ECC区别资源下载"
+title: "FICO模块SAPS4与ECC区别资源下载"
 date:   2024-01-22
 tags: [SAP,FICO,模块,S4,ECC]
 comments: true

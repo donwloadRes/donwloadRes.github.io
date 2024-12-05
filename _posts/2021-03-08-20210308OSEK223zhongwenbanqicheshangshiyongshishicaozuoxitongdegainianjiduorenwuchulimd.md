@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK 2.23中文版 - 汽车上使用实时操作系统的概念及多任务处理"
+title: "OSEK 223中文版  汽车上使用实时操作系统的概念及多任务处理"
 date:   2020-09-05
 tags: [实时操作系统,多任务处理,OSEK,汽车,VDX]
 comments: true

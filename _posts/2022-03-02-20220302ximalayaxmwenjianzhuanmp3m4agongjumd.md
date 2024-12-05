@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "喜马拉雅xm文件转mp3-m4a工具"
+title: "喜马拉雅xm文件转mp3m4a工具"
 date:   2023-04-19
 tags: [xm,文件,转换,mp3,批量]
 comments: true

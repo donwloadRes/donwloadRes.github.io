@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 年美赛论文撰写（H 奖）资源库分享"
+title: "2022 年美赛论文撰写H 奖资源库分享"
 date:   2024-11-03
 tags: [论文,美赛,撰写,配色,进度]
 comments: true

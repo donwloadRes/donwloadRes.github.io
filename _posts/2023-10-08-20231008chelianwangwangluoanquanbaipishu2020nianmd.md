@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车联网网络安全白皮书(2020年)"
+title: "车联网网络安全白皮书2020年"
 date:   2021-10-02
 tags: [联网,网络安全,白皮书,2020,现状及]
 comments: true

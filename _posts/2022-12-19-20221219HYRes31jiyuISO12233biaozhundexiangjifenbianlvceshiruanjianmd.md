@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HYRes 3.1：基于ISO12233标准的相机分辨率测试软件"
+title: "HYRes 31基于ISO12233标准的相机分辨率测试软件"
 date:   2020-09-21
 tags: [分辨率,HYRes,3.1,ISO12233,相机]
 comments: true

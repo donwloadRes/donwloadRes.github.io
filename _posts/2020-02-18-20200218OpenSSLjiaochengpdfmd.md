@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL教程.pdf"
+title: "OpenSSL教程pdf"
 date:   2024-03-18
 tags: [OpenSSL,教程,pdf,SSL,TLS]
 comments: true

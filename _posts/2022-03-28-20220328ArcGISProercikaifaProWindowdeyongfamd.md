@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：ProWindow的用法"
+title: "ArcGIS Pro二次开发ProWindow的用法"
 date:   2024-04-28
 tags: [ProWindow,ArcGIS,Pro,二次开发,UI]
 comments: true

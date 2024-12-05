@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "成像原理、视差图以及UV视差计算资源包"
+title: "成像原理视差图以及UV视差计算资源包"
 date:   2023-09-24
 tags: [视差,UV,PPT,成像,代码]
 comments: true

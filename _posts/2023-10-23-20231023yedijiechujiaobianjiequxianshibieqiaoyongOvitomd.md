@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "液滴接触角边界曲线识别—巧用Ovito"
+title: "液滴接触角边界曲线识别巧用Ovito"
 date:   2020-06-01
 tags: [Ovito,Matlab,接触角,液滴,文件]
 comments: true

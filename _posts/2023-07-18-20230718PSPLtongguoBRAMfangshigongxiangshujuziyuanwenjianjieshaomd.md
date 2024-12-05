@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS-PL通过BRAM方式共享数据资源文件介绍"
+title: "PSPL通过BRAM方式共享数据资源文件介绍"
 date:   2023-01-28
 tags: [BRAM,PS,PL,文件,资源]
 comments: true

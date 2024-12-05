@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 实现路由算法详细教程（完整代码+数据）"
+title: "MATLAB 实现路由算法详细教程完整代码数据"
 date:   2023-06-07
 tags: [MATLAB,算法,路由,教程,代码]
 comments: true

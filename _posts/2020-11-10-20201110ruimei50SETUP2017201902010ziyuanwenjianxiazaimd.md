@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞美5.0SETUP2017 201902010 资源文件下载"
+title: "瑞美50SETUP2017 201902010 资源文件下载"
 date:   2022-09-05
 tags: [瑞美,5.0,文件,SETUP2017,201902010]
 comments: true

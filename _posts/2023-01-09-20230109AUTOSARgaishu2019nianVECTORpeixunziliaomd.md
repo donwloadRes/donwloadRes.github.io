@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR概述（2019年VECTOR培训资料）"
+title: "AUTOSAR概述2019年VECTOR培训资料"
 date:   2024-04-24
 tags: [AUTOSAR,2019,VECTOR,培训资料,文件]
 comments: true

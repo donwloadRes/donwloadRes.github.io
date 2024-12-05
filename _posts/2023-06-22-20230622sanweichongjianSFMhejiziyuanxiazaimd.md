@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三维重建-SFM（合集）资源下载"
+title: "三维重建SFM合集资源下载"
 date:   2020-02-02
 tags: [三维重建,合集,SFM,资源,文档]
 comments: true

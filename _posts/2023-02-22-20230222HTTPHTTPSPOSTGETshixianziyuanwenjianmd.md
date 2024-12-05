@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTTP-HTTPS POST-GET 实现资源文件"
+title: "HTTPHTTPS POSTGET 实现资源文件"
 date:   2021-09-08
 tags: [HTTP,HTTPS,Windows,实现,POST]
 comments: true

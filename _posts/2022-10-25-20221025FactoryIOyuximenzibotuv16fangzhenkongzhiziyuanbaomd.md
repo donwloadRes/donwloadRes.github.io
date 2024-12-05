@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Factory.IO与西门子博途v16仿真控制资源包"
+title: "FactoryIO与西门子博途v16仿真控制资源包"
 date:   2022-08-14
 tags: [博途,v16,仿真,Factory,IO]
 comments: true

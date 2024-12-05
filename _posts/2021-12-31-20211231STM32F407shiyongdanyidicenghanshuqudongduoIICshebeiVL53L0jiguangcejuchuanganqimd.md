@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 使用单一底层函数驱动多IIC设备：VL53L0激光测距传感器"
+title: "STM32F407 使用单一底层函数驱动多IIC设备VL53L0激光测距传感器"
 date:   2023-04-06
 tags: [IIC,VL53L0,传感器,驱动,底层]
 comments: true

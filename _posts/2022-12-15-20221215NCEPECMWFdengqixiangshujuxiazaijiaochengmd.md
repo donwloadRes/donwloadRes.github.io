@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NCEP、ECMWF等气象数据下载教程"
+title: "NCEPECMWF等气象数据下载教程"
 date:   2022-07-24
 tags: [下载,教程,数据,气象,NCEP]
 comments: true

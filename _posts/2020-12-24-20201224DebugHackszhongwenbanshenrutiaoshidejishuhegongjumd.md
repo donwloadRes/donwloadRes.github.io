@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Debug Hacks中文版—深入调试的技术和工具"
+title: "Debug Hacks中文版深入调试的技术和工具"
 date:   2024-06-25
 tags: [调试,中文版,技术,版权,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 编写的 Modbus 协议类及串口通信类 SerialPort"
+title: "VC 编写的 Modbus 协议类及串口通信类 SerialPort"
 date:   2024-01-09
 tags: [串口,Modbus,SerialPort,通信,C++]
 comments: true

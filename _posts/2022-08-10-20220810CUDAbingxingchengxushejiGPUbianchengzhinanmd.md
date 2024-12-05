@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA并行程序设计：GPU编程指南"
+title: "CUDA并行程序设计GPU编程指南"
 date:   2020-09-21
 tags: [CUDA,GPU,编程,读者,并行程序]
 comments: true

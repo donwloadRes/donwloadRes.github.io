@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLAP技术选型：DorisDB Vs ClickHouse Vs GreenPlum"
+title: "OLAP技术选型DorisDB Vs ClickHouse Vs GreenPlum"
 date:   2023-11-10
 tags: [OLAP,Vs,选型,DorisDB,ClickHouse]
 comments: true

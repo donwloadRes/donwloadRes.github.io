@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4系列HAL库自制库WS2812软件部分(PWM+DMA)"
+title: "STM32F4系列HAL库自制库WS2812软件部分PWMDMA"
 date:   2022-06-03
 tags: [WS2812,PWM,DMA,STM32F4,库函数]
 comments: true

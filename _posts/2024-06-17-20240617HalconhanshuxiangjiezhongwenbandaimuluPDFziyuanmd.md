@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon函数详解中文版(带目录) PDF资源"
+title: "Halcon函数详解中文版带目录 PDF资源"
 date:   2021-06-29
 tags: [Halcon,函数,PDF,目录,中文版]
 comments: true

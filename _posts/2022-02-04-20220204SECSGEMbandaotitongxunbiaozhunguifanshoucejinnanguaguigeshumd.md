@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS-GEM半导体通讯标准规范手册 - 金南瓜规格书"
+title: "SECSGEM半导体通讯标准规范手册  金南瓜规格书"
 date:   2021-01-04
 tags: [SECS,通讯,GEM,SEMI,半导体]
 comments: true

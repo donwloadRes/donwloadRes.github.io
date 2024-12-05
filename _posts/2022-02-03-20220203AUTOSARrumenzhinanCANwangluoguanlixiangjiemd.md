@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR入门指南：CAN网络管理详解"
+title: "AUTOSAR入门指南CAN网络管理详解"
 date:   2023-12-05
 tags: [节点,Sleep,Bus,Mode,总线]
 comments: true

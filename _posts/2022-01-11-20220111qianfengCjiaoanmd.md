@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "千锋C++教案"
+title: "千锋C教案"
 date:   2022-07-23
 tags: [C++,教案,千锋,学习,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "utf8_gb2312.zip 资源说明"
+title: "utf8gb2312zip 资源说明"
 date:   2020-11-25
 tags: [ESP8266,zip,编码,utf8,gb2312]
 comments: true

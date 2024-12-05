@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort Alt Mode v2.0 资源文件下载"
+title: "DisplayPort Alt Mode v20 资源文件下载"
 date:   2024-10-07
 tags: [DisplayPort,Alt,Mode,v2.0,文件]
 comments: true

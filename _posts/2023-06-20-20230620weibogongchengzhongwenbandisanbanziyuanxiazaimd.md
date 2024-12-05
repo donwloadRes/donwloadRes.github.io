@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波工程中文版（第三版）资源下载"
+title: "微波工程中文版第三版资源下载"
 date:   2021-08-23
 tags: [微波,工程,中文版,第三版,本书]
 comments: true

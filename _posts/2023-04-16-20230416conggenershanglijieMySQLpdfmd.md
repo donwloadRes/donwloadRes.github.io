@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从根儿上理解MySQL.pdf"
+title: "从根儿上理解MySQLpdf"
 date:   2021-04-24
 tags: [MySQL,数据库,根儿,理解,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SrtEdit 8.0 发布（2024年09月06日更新）"
+title: "SrtEdit 80 发布2024年09月06日更新"
 date:   2024-02-29
 tags: [字幕,用户,SrtEdit,3D,版本]
 comments: true

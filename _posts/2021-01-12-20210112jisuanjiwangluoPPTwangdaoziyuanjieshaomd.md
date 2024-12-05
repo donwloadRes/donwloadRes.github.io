@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络PPT(王道)资源介绍"
+title: "计算机网络PPT王道资源介绍"
 date:   2023-12-08
 tags: [计算机网络,PPT,王道,学习,资源]
 comments: true

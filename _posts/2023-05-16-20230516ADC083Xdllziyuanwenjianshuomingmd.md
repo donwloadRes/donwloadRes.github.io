@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC083X.dll 资源文件说明"
+title: "ADC083Xdll 资源文件说明"
 date:   2020-03-01
 tags: [ADC083X,Proteus,dll,文件,DLL]
 comments: true

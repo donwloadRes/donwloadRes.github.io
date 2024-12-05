@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摄像头工具 v1.1.0 下载仓库"
+title: "摄像头工具 v110 下载仓库"
 date:   2022-02-25
 tags: [摄像头,v1.1,Qt,OpenCV,下载]
 comments: true

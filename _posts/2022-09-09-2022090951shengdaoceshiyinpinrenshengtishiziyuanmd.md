@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5.1 声道测试音频：人声提示资源"
+title: "51 声道测试音频人声提示资源"
 date:   2023-01-19
 tags: [扬声器,5.1,声道,提示,音频]
 comments: true

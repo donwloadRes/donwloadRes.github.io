@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "msvcr71.dll 资源文件下载"
+title: "msvcr71dll 资源文件下载"
 date:   2020-02-09
 tags: [msvcr71,dll,文件,应用程序,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 4.0内核设备驱动书籍资源"
+title: "Linux 40内核设备驱动书籍资源"
 date:   2020-05-14
 tags: [Linux,内核,资源,仓库,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PyTorch实现Seq2Seq + Attention的英汉神经机器翻译"
+title: "基于PyTorch实现Seq2Seq  Attention的英汉神经机器翻译"
 date:   2024-09-08
 tags: [机器翻译,模型,Seq2Seq,序列,PyTorch]
 comments: true

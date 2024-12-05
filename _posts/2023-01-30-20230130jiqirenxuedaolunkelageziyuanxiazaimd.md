@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学导论_克拉格 资源下载"
+title: "机器人学导论克拉格 资源下载"
 date:   2021-12-15
 tags: [机器人学,学习,导论,克拉,机器人]
 comments: true

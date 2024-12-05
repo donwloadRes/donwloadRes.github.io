@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.6.2 完整版快速下载"
+title: "Gradle 762 完整版快速下载"
 date:   2021-05-28
 tags: [修复,Gradle,7.6,下载,版本]
 comments: true

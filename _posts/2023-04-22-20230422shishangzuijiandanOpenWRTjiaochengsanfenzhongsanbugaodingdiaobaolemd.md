@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最简单OpenWRT教程！三分钟三步搞定！碉堡了"
+title: "史上最简单OpenWRT教程三分钟三步搞定碉堡了"
 date:   2023-11-22
 tags: [固件,教程,OpenWRT,路由器,写盘]
 comments: true

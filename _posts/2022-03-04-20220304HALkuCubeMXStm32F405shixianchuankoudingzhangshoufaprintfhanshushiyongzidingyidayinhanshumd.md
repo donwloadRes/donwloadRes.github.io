@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库+CubeMX+Stm32F405 实现串口定长收发、printf函数使用、自定义打印函数"
+title: "HAL库CubeMXStm32F405 实现串口定长收发printf函数使用自定义打印函数"
 date:   2024-04-17
 tags: [串口,打印函数,自定义,printf,收发]
 comments: true

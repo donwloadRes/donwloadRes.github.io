@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "导出dbf文件“未在本地计算机上注册“vfpoledb.1”提供程序”解决方案"
+title: "导出dbf文件未在本地计算机上注册vfpoledb1提供程序解决方案"
 date:   2021-09-23
 tags: [dbf,vfpoledb.1,32,解决方案,文件]
 comments: true

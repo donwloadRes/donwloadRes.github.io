@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "按键长按、短按、双击检测资源文件"
+title: "按键长按短按双击检测资源文件"
 date:   2021-08-23
 tags: [按键,检测,状态机,双击,短按]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeSoft 7.10 安装包"
+title: "CodeSoft 710 安装包"
 date:   2024-01-15
 tags: [安装,安装包,CodeSoft,7.10,打印]
 comments: true

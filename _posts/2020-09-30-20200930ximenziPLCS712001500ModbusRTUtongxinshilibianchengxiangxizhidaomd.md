@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC S7-1200-1500 Modbus-RTU通信实例编程详细指导"
+title: "西门子PLC S712001500 ModbusRTU通信实例编程详细指导"
 date:   2021-04-05
 tags: [IO,PLC,文档,通信,模块]
 comments: true

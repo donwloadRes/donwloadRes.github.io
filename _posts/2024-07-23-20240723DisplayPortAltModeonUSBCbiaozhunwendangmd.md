@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort-Alt-Mode-on-USB-C 标准文档"
+title: "DisplayPortAltModeonUSBC 标准文档"
 date:   2023-11-11
 tags: [USB,DisplayPort,Type,连接器,文档]
 comments: true

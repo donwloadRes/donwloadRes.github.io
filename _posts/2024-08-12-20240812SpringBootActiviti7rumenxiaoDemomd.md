@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + Activiti 7 入门小Demo"
+title: "Spring Boot  Activiti 7 入门小Demo"
 date:   2024-01-26
 tags: [流程,Demo,执行,审批,Spring]
 comments: true

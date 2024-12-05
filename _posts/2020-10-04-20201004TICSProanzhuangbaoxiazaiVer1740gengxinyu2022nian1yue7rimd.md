@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TICS Pro 安装包下载 | Ver 1.7.4.0, 更新于2022年1月7日"
+title: "TICS Pro 安装包下载  Ver 1740 更新于2022年1月7日"
 date:   2022-02-17
 tags: [时钟,TICS,Pro,安装包,4.0]
 comments: true

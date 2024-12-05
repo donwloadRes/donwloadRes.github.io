@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT8618SX低功耗HDMI发送器数据手册 R1.3"
+title: "LT8618SX低功耗HDMI发送器数据手册 R13"
 date:   2022-04-24
 tags: [低功耗,HDMI,LT8618SX,输入,R1.3]
 comments: true

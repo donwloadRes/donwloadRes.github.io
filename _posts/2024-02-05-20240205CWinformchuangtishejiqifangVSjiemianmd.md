@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform窗体设计器(仿VS界面)"
+title: "C Winform窗体设计器仿VS界面"
 date:   2021-01-02
 tags: [窗体,设计,开发者,源码,Winform]
 comments: true

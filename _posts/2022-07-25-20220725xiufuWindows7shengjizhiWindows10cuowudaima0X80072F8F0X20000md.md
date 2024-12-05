@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "修复 Windows 7 升级至 Windows 10 错误代码 0X80072F8F - 0X20000"
+title: "修复 Windows 7 升级至 Windows 10 错误代码 0X80072F8F  0X20000"
 date:   2021-03-08
 tags: [Windows,错误代码,0X80072F8F,0X20000,10]
 comments: true

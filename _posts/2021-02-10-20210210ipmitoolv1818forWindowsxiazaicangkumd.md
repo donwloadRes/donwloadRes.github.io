@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ipmitool v1.8.18 for Windows 下载仓库"
+title: "ipmitool v1818 for Windows 下载仓库"
 date:   2020-03-04
 tags: [18,Windows,ipmitool,v1.8,BMC]
 comments: true

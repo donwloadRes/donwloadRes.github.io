@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多国文字点阵字库生成器 3.8注册机"
+title: "多国文字点阵字库生成器 38注册机"
 date:   2021-11-30
 tags: [生成,生成器,字体,点阵字库,注册机]
 comments: true

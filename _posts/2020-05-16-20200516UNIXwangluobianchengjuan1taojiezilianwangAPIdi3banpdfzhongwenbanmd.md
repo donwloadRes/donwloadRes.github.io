@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIX网络编程卷1：套接字联网API 第3版 pdf 中文版"
+title: "UNIX网络编程卷1套接字联网API 第3版 pdf 中文版"
 date:   2022-11-07
 tags: [编程,接字,UNIX,网络,API]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB151B-2003 国家军用标准目录"
+title: "GJB151B2003 国家军用标准目录"
 date:   2022-06-28
 tags: [电磁兼容,GJB151B,2003,标准,子系统]
 comments: true

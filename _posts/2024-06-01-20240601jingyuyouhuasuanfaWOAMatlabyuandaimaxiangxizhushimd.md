@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲸鱼优化算法 WOA Matlab源代码（详细注释）"
+title: "鲸鱼优化算法 WOA Matlab源代码详细注释"
 date:   2021-04-12
 tags: [算法,源代码,鲸鱼,注释,Matlab]
 comments: true

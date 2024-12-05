@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMRON NJ-NX系列PLC指令基准手册 - 基本篇"
+title: "OMRON NJNX系列PLC指令基准手册  基本篇"
 date:   2024-01-01
 tags: [PLC,OMRON,NJ,NX,指令]
 comments: true

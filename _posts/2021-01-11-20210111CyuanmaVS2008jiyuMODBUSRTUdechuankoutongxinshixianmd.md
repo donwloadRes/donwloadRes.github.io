@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 源码 VS2008 - 基于MODBUS RTU的串口通信实现"
+title: "C 源码 VS2008  基于MODBUS RTU的串口通信实现"
 date:   2022-08-22
 tags: [串口,MODBUS,源码,C#,RTU]
 comments: true

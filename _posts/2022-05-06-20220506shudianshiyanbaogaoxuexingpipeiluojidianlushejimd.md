@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电实验报告：血型匹配逻辑电路设计"
+title: "数电实验报告血型匹配逻辑电路设计"
 date:   2022-01-27
 tags: [血型,逻辑电路,输血,受血者,选择器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python——EM(期望极大算法)实战(附详细代码与注解)(一)"
+title: "PythonEM期望极大算法实战附详细代码与注解一"
 date:   2020-10-17
 tags: [算法,EM,代码,Python,注解]
 comments: true

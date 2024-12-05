@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "城市天际线DLC补丁（Steam）下载"
+title: "城市天际线DLC补丁Steam下载"
 date:   2024-07-19
 tags: [补丁,天际线,Steam,游戏,文件]
 comments: true

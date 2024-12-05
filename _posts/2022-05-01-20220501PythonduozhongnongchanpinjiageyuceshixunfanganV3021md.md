@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python多种农产品价格预测实训方案V3.0.21"
+title: "Python多种农产品价格预测实训方案V3021"
 date:   2022-09-18
 tags: [Python,农产品,预测,价格,学习]
 comments: true

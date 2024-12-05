@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI 6.6kW车载充电器设计参考指南"
+title: "TI 66kW车载充电器设计参考指南"
 date:   2020-09-04
 tags: [设计,kW,充电器,6.6,车载]
 comments: true

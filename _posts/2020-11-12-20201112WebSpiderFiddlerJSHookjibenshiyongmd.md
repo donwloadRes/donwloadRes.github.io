@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Spider Fiddler - JS Hook 基本使用"
+title: "Web Spider Fiddler  JS Hook 基本使用"
 date:   2024-11-07
 tags: [Hook,Fiddler,插件,JS,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C语言的快速傅里叶变换FFT算法（含详细注释）"
+title: "基于C语言的快速傅里叶变换FFT算法含详细注释"
 date:   2022-07-05
 tags: [算法,注释,代码,C语言,FFT]
 comments: true

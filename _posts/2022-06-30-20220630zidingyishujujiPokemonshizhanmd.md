@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自定义数据集（Pokemon）实战"
+title: "自定义数据集Pokemon实战"
 date:   2023-06-25
 tags: [Pokemon,数据,定义数据,加载,实战]
 comments: true

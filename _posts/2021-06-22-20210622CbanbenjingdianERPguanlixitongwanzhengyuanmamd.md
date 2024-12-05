@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版本经典ERP管理系统完整源码"
+title: "C版本经典ERP管理系统完整源码"
 date:   2023-03-31
 tags: [源码,ERP,C#,开发,二次开发]
 comments: true

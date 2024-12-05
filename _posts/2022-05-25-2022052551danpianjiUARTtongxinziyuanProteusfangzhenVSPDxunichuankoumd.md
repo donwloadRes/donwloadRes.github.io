@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51 单片机 UART 通信资源 + Proteus 仿真 + VSPD 虚拟串口"
+title: "51 单片机 UART 通信资源  Proteus 仿真  VSPD 虚拟串口"
 date:   2020-01-29
 tags: [串口,仿真,单片机,Proteus,虚拟]
 comments: true

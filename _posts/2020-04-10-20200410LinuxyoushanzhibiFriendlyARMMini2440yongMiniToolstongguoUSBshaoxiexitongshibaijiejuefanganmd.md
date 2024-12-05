@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux：友善之臂FriendlyARM Mini2440用MiniTools通过USB烧写系统失败解决方案"
+title: "Linux友善之臂FriendlyARM Mini2440用MiniTools通过USB烧写系统失败解决方案"
 date:   2022-05-15
 tags: [USB,烧写,MiniTools,之臂,开发板]
 comments: true

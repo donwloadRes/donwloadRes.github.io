@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水下机器人（潜艇STM32源码）"
+title: "水下机器人潜艇STM32源码"
 date:   2021-11-13
 tags: [STM32,机器人,源码,水下,项目]
 comments: true

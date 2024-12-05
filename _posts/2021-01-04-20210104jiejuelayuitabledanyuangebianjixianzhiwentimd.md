@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决layui-table单元格编辑限制问题"
+title: "解决layuitable单元格编辑限制问题"
 date:   2022-03-22
 tags: [layui,table,单元格,编辑,laydate]
 comments: true

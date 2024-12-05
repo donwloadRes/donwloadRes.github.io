@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机CentOS服务器-安装部署Nginx README.md"
+title: "虚拟机CentOS服务器安装部署Nginx READMEmd"
 date:   2023-12-31
 tags: [Nginx,CentOS,安装,nginx,编译]
 comments: true

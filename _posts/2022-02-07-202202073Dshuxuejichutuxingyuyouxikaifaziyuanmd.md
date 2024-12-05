@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 数学基础：图形与游戏开发资源"
+title: "3D 数学基础图形与游戏开发资源"
 date:   2021-02-08
 tags: [3D,图形,游戏,数学,资源]
 comments: true

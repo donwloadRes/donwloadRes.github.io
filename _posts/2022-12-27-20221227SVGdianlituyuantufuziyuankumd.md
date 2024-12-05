@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVG电力图元-图符资源库"
+title: "SVG电力图元图符资源库"
 date:   2023-03-16
 tags: [SVG,电力系统,图元,图符,文档]
 comments: true

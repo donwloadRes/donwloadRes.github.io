@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 Keil开发环境搭建指南（一）"
+title: "STM32 Keil开发环境搭建指南一"
 date:   2022-11-05
 tags: [STM32,Keil,指南,开发,搭建]
 comments: true

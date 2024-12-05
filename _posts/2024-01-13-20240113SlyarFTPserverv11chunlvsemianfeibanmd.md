@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slyar FTPserver v1.1 纯绿色免费版"
+title: "Slyar FTPserver v11 纯绿色免费版"
 date:   2023-03-10
 tags: [FTP,Slyar,FTPserver,文件共享,v1.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "脱机语音识别库：speech-recognition zh-CN"
+title: "脱机语音识别库speechrecognition zhCN"
 date:   2021-05-16
 tags: [脱机,识别,语音,speech,recognition]
 comments: true

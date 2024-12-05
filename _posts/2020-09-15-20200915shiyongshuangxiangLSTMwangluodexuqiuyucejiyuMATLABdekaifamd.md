@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用双向 LSTM 网络的需求预测：基于 MATLAB 的开发"
+title: "使用双向 LSTM 网络的需求预测基于 MATLAB 的开发"
 date:   2020-01-02
 tags: [模型,需求预测,双向,LSTM,预测]
 comments: true

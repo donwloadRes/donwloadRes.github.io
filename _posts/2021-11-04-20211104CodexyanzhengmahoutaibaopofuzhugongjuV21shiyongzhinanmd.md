@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Codex验证码后台爆破辅助工具V2.1 使用指南"
+title: "Codex验证码后台爆破辅助工具V21 使用指南"
 date:   2021-02-24
 tags: [验证码,爆破,后台,Codex,V2.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "渲染管线升级URP、HDRP资源包"
+title: "渲染管线升级URPHDRP资源包"
 date:   2024-06-10
 tags: [URP,资源,渲染,Unity,HDRP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图解HTTP》完整彩色版1"
+title: "图解HTTP完整彩色版1"
 date:   2024-08-04
 tags: [HTTP,Web,图解,彩色版,协议]
 comments: true

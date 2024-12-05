@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎博、立林、康拓一卡一密生成器"
+title: "鼎博立林康拓一卡一密生成器"
 date:   2022-01-05
 tags: [鼎博,立林,生成器,一密,秘钥]
 comments: true

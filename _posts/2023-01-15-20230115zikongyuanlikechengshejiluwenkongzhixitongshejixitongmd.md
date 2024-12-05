@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自控原理课程设计-炉温控制系统设计系统"
+title: "自控原理课程设计炉温控制系统设计系统"
 date:   2021-04-04
 tags: [系统,课程设计,设计,炉温,自控]
 comments: true

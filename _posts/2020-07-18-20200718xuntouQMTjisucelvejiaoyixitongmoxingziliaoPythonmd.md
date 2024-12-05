@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迅投QMT极速策略交易系统 - 模型资料_Python"
+title: "迅投QMT极速策略交易系统  模型资料Python"
 date:   2021-06-25
 tags: [Python,策略,QMT,迅投,交易]
 comments: true

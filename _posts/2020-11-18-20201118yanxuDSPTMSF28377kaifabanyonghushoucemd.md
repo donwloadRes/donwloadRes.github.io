@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研旭DSP_TMSF28377开发板用户手册"
+title: "研旭DSPTMSF28377开发板用户手册"
 date:   2021-02-25
 tags: [开发板,用户手册,研旭,DSP,TMSF28377]
 comments: true

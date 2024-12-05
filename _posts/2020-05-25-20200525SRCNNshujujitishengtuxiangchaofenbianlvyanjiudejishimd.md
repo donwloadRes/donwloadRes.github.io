@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SRCNN数据集 - 提升图像超分辨率研究的基石"
+title: "SRCNN数据集  提升图像超分辨率研究的基石"
 date:   2023-06-10
 tags: [图像,SRCNN,数据,模型,分辨率]
 comments: true

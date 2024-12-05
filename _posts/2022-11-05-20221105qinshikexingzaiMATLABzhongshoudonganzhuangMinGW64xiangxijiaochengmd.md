@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亲试可行！在MATLAB中手动安装MinGW64详细教程"
+title: "亲试可行在MATLAB中手动安装MinGW64详细教程"
 date:   2020-07-30
 tags: [MATLAB,MinGW64,安装,---,手动]
 comments: true

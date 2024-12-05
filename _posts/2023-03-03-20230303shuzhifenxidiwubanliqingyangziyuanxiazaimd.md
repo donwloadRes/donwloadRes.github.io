@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析（第五版）李庆扬 资源下载"
+title: "数值分析第五版李庆扬 资源下载"
 date:   2020-10-05
 tags: [数值,分析,章节,第五版,李庆扬]
 comments: true

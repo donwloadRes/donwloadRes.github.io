@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONVIF 中文协议文档 - 开发者学习必备"
+title: "ONVIF 中文协议文档  开发者学习必备"
 date:   2023-11-12
 tags: [ONVIF,文档,开发者,协议,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "40 个精选 H5 小游戏资源，助力开发与学习"
+title: "40 个精选 H5 小游戏资源助力开发与学习"
 date:   2023-06-20
 tags: [小游戏,开发者,H5,源码,资源]
 comments: true

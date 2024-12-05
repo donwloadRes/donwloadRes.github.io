@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Flask + Vue3 + SQLite 前后端分离 简单个人博客网站项目源码"
+title: "Python Flask  Vue3  SQLite 前后端分离 简单个人博客网站项目源码"
 date:   2021-07-21
 tags: [bash,Flask,Vue3,cd,项目]
 comments: true

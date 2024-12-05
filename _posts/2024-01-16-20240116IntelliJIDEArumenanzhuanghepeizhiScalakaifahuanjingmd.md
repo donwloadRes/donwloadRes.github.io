@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA 入门：安装和配置 Scala 开发环境"
+title: "IntelliJ IDEA 入门安装和配置 Scala 开发环境"
 date:   2021-09-18
 tags: [IDEA,安装,IntelliJ,Scala,单击]
 comments: true

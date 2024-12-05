@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现NFC相关操作，利用libNFC类库"
+title: "C实现NFC相关操作利用libNFC类库"
 date:   2021-05-28
 tags: [NFC,类库,C#,libNFC,示例]
 comments: true

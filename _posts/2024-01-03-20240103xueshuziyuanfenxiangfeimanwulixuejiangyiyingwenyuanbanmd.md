@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学术资源分享：费曼物理学讲义英文原版"
+title: "学术资源分享费曼物理学讲义英文原版"
 date:   2020-05-18
 tags: [费曼,物理学,讲义,英文原版,学习]
 comments: true

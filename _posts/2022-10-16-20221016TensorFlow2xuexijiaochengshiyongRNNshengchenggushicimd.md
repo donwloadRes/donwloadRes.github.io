@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow2 学习教程：使用RNN生成古诗词"
+title: "TensorFlow2 学习教程使用RNN生成古诗词"
 date:   2021-09-15
 tags: [古诗词,TensorFlow,教程,生成,学习]
 comments: true

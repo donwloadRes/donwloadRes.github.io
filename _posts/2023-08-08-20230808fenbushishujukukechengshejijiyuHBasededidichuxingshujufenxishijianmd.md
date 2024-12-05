@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分布式数据库课程设计：基于HBase的滴滴出行数据分析实践"
+title: "分布式数据库课程设计基于HBase的滴滴出行数据分析实践"
 date:   2021-06-13
 tags: [数据,HBase,Hive,Hadoop,数据分析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot框架整合SSM案例 - 图书管理系统源码分享"
+title: "SpringBoot框架整合SSM案例  图书管理系统源码分享"
 date:   2021-03-15
 tags: [页面,SpringBoot,MyBatisPlus,接口,开发]
 comments: true

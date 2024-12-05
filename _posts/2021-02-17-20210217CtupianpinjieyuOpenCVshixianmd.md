@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图片拼接与 OpenCV 实现"
+title: "C 图片拼接与 OpenCV 实现"
 date:   2020-07-17
 tags: [拼接,OpenCV,图片,文件,C#]
 comments: true

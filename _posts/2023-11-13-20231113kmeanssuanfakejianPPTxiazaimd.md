@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "k-means算法课件PPT下载"
+title: "kmeans算法课件PPT下载"
 date:   2022-07-08
 tags: [PPT,means,算法,这份,课件]
 comments: true

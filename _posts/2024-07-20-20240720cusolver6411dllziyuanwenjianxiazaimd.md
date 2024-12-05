@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cusolver64_11.dll 资源文件下载"
+title: "cusolver6411dll 资源文件下载"
 date:   2022-05-06
 tags: [cusolver64,11,dll,文件,下载]
 comments: true

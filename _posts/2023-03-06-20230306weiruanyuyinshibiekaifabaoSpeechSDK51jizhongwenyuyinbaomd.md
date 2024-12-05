@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软语音识别开发包 Speech SDK 5.1 及 中文语音包"
+title: "微软语音识别开发包 Speech SDK 51 及 中文语音包"
 date:   2024-01-15
 tags: [语音,SDK,中文,Speech,5.1]
 comments: true

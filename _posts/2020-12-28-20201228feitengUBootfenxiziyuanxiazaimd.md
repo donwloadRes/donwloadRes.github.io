@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞腾U-Boot分析资源下载"
+title: "飞腾UBoot分析资源下载"
 date:   2021-08-17
 tags: [Boot,飞腾,芯片,开发,资源]
 comments: true

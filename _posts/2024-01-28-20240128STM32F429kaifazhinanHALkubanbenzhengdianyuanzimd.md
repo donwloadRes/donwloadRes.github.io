@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F429开发指南-HAL库版本（正点原子）"
+title: "STM32F429开发指南HAL库版本正点原子"
 date:   2021-08-18
 tags: [HAL,STM32F429,开发,开发者,指南]
 comments: true

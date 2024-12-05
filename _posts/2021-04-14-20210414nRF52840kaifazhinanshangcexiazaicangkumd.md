@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nRF52840开发指南-上册 下载仓库"
+title: "nRF52840开发指南上册 下载仓库"
 date:   2021-05-24
 tags: [nRF52840,上册,开发,指南,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "风、光、负荷场景生成与削减资源文件"
+title: "风光负荷场景生成与削减资源文件"
 date:   2021-08-04
 tags: [场景,负荷,削减,样本,生成]
 comments: true

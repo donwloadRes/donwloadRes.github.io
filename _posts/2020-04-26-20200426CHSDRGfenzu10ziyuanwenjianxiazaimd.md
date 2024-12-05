@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHS-DRG分组1.0 资源文件下载"
+title: "CHSDRG分组10 资源文件下载"
 date:   2023-02-16
 tags: [1.0,CHS,DRG,分组,文件]
 comments: true

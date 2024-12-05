@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First 深入浅出面向对象分析与设计》资源下载"
+title: "Head First 深入浅出面向对象分析与设计资源下载"
 date:   2022-09-20
 tags: [面向对象分析,书签,深入浅出,本书,软件]
 comments: true

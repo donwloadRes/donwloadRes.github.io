@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN总线C++实现源代码"
+title: "CAN总线C实现源代码"
 date:   2024-07-09
 tags: [总线,C++,源代码,代码,实现]
 comments: true

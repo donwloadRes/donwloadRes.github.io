@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AForge.NET SDK 2.2.5 完整资源包"
+title: "AForgeNET SDK 225 完整资源包"
 date:   2020-06-13
 tags: [NET,AForge,示例,学习,资源]
 comments: true

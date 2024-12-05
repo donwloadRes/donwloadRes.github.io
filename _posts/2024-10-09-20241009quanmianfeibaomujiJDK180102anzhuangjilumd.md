@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全免费、保姆级JDK 1.8.0_102安装记录"
+title: "全免费保姆级JDK 180102安装记录"
 date:   2021-08-19
 tags: [JDK,安装,102,1.8,环境变量]
 comments: true

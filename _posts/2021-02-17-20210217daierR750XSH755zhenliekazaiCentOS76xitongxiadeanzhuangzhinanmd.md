@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "戴尔R750XS+H755阵列卡在CentOS 7.6系统下的安装指南"
+title: "戴尔R750XSH755阵列卡在CentOS 76系统下的安装指南"
 date:   2022-12-23
 tags: [CentOS,戴尔,系统,阵列卡,7.6]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 11 下 Dev-C++ 超详细下载安装与使用教程"
+title: "Windows 11 下 DevC 超详细下载安装与使用教程"
 date:   2023-07-28
 tags: [Dev,C++,安装,下载,下载安装]
 comments: true

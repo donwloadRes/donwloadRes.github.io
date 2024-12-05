@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银行信息科技岗面试面经整理【含答案】PDF"
+title: "银行信息科技岗面试面经整理含答案PDF"
 date:   2021-11-14
 tags: [面试,问题,科技,答案,信息]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "递推最小二乘法在MATLAB中的实现：解决超定线性方程组Ax=b"
+title: "递推最小二乘法在MATLAB中的实现解决超定线性方程组Axb"
 date:   2024-08-12
 tags: [MATLAB,递推,超定,乘法,线性方程组]
 comments: true

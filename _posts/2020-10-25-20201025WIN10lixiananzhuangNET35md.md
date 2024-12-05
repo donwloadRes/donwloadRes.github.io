@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10离线安装.NET 3.5"
+title: "WIN10离线安装NET 35"
 date:   2024-07-27
 tags: [安装,NET,3.5,离线,Framework]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字上下变频 FPGA 设计详细介绍资料（中文版）"
+title: "数字上下变频 FPGA 设计详细介绍资料中文版"
 date:   2023-01-25
 tags: [数字,设计,下变频,FPGA,基带]
 comments: true

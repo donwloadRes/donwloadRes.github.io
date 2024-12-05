@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Std 802.15.4z-2020 超宽带UWB定位技术标准"
+title: "IEEE Std 802154z2020 超宽带UWB定位技术标准"
 date:   2023-09-22
 tags: [UWB,技术,定位,4z,2020]
 comments: true

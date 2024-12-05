@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103xx I2S功能应用：使用外部编解码器播放音频文件"
+title: "STM32F103xx I2S功能应用使用外部编解码器播放音频文件"
 date:   2024-04-13
 tags: [I2S,编解码器,STM32F103xx,音频文件,音频]
 comments: true

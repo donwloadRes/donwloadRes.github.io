@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-VAR: Python中的向量自回归模型"
+title: "PythonVAR Python中的向量自回归模型"
 date:   2022-01-14
 tags: [Python,VAR,模型,示例,向量]
 comments: true

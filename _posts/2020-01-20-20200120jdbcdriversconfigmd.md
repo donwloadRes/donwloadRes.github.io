@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jdbc-drivers-config"
+title: "jdbcdriversconfig"
 date:   2021-02-19
 tags: [DataGrip,配置,数据库,驱动,JDBC]
 comments: true

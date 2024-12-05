@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager v6.42.3 绿色中文特别版"
+title: "Internet Download Manager v6423 绿色中文特别版"
 date:   2024-06-26
 tags: [下载,IDM,特别版,下载速度,文件]
 comments: true

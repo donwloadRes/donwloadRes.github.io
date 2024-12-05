@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理 存储系统设计(HUST)实训代码"
+title: "计算机组成原理 存储系统设计HUST实训代码"
 date:   2023-11-06
 tags: [代码,实训,存储系统,计算机,设计]
 comments: true

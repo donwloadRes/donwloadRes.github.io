@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与三菱Q系列PLC通过MC协议通信"
+title: "C与三菱Q系列PLC通过MC协议通信"
 date:   2024-11-19
 tags: [PLC,寄存器,C#,MC,三菱]
 comments: true

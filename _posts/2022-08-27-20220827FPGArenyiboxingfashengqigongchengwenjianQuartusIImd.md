@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA任意波形发生器工程文件（Quartus II）"
+title: "FPGA任意波形发生器工程文件Quartus II"
 date:   2020-09-19
 tags: [波形,文件,工程,FPGA,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows离线安装 .NET Framework 3.5 教程"
+title: "Windows离线安装 NET Framework 35 教程"
 date:   2023-01-05
 tags: [Windows,NET,Framework,3.5,离线]
 comments: true

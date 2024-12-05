@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现的串口助手（有界面，C++）"
+title: "QT实现的串口助手有界面C"
 date:   2020-01-21
 tags: [串口,收发,清零,助手,自定义]
 comments: true

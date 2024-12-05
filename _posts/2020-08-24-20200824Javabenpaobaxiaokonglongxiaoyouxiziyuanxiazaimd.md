@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 奔跑吧小恐龙 - 小游戏资源下载"
+title: "Java 奔跑吧小恐龙  小游戏资源下载"
 date:   2021-09-11
 tags: [Java,游戏,音效,源码,小游戏]
 comments: true

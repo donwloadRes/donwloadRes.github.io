@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统学习与考试系统(XOSCATS)自主学习指南"
+title: "操作系统学习与考试系统XOSCATS自主学习指南"
 date:   2022-12-30
 tags: [XOSCATS,考试,操作系统,学习,系统]
 comments: true

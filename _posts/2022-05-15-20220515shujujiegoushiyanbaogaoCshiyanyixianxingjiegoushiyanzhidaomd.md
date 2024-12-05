@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构实验报告(C++) 实验一 线性结构实验指导"
+title: "数据结构实验报告C 实验一 线性结构实验指导"
 date:   2023-06-03
 tags: [题目,单链,顺序,差集,实验]
 comments: true

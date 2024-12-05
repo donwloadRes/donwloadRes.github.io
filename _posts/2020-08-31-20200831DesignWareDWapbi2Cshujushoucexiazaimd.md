@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DesignWare DW_apb_i2C 数据手册下载"
+title: "DesignWare DWapbi2C 数据手册下载"
 date:   2020-12-18
 tags: [apb,DW,i2c,DesignWare,手册]
 comments: true

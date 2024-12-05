@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tvnjviewer-2.8.3-bin-gnugpl"
+title: "tvnjviewer283bingnugpl"
 date:   2020-07-13
 tags: [2.8,tvnjviewer,开源,bin,gnugpl]
 comments: true

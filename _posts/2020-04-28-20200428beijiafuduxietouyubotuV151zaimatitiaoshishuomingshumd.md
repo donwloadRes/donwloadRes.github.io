@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倍加福读写头与博图V15.1载码体调试说明书"
+title: "倍加福读写头与博图V151载码体调试说明书"
 date:   2020-01-22
 tags: [读写,博图,V15.1,倍加福,载码体]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST官方开源电机库FOC5.0 下载仓库"
+title: "ST官方开源电机库FOC50 下载仓库"
 date:   2023-12-13
 tags: [ST,FOC5.0,电机,下载,开源]
 comments: true

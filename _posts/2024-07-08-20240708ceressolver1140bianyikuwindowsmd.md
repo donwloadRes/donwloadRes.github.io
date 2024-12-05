@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ceres-solver-1.14.0编译库(windows)"
+title: "ceressolver1140编译库windows"
 date:   2023-04-08
 tags: [编译,ceres,Visual,Studio,solver]
 comments: true

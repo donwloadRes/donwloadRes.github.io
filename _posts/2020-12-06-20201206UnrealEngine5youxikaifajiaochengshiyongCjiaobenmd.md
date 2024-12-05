@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unreal Engine 5 游戏开发教程 - 使用C++脚本"
+title: "Unreal Engine 5 游戏开发教程  使用C脚本"
 date:   2021-04-10
 tags: [C++,UE5,游戏,教程,开发]
 comments: true

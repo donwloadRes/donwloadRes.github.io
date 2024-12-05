@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CORE-ESP32-C3设计原理图下载"
+title: "COREESP32C3设计原理图下载"
 date:   2020-05-04
 tags: [原理图,ESP32,C3,CORE,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GVDP-整车开发流程2.0介绍"
+title: "GVDP整车开发流程20介绍"
 date:   2020-03-28
 tags: [2.0,流程,开发,整车,GVDP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机过程（张灏）资源下载"
+title: "随机过程张灏资源下载"
 date:   2023-08-20
 tags: [随机,过程,文件,资源,下载]
 comments: true

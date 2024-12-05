@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue实现简单用户管理平台"
+title: "SpringBootVue实现简单用户管理平台"
 date:   2020-10-03
 tags: [Vue,SpringBoot,用户,简单,开发者]
 comments: true

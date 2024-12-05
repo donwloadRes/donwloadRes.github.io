@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue+SpringBoot员工管理系统 带毕业论文"
+title: "VueSpringBoot员工管理系统 带毕业论文"
 date:   2024-10-20
 tags: [毕业论文,前端,Vue,Spring,Boot]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火狐视频下载插件 VdhCoAppSetup-2.0.10"
+title: "火狐视频下载插件 VdhCoAppSetup2010"
 date:   2024-05-07
 tags: [插件,火狐,VdhCoAppSetup,2.0,10]
 comments: true

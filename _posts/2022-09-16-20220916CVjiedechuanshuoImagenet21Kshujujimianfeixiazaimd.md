@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CV界的传说：Imagenet21K数据集免费下载"
+title: "CV界的传说Imagenet21K数据集免费下载"
 date:   2024-11-10
 tags: [数据,Imagenet21K,CV,1TB,下载]
 comments: true

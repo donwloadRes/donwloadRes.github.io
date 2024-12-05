@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PELCO-D协议调试助手绿色版"
+title: "PELCOD协议调试助手绿色版"
 date:   2021-01-04
 tags: [调试,PELCO,绿色版,串行口,协议]
 comments: true

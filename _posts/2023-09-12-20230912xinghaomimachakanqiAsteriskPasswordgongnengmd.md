@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "星号密码查看器 - AsteriskPassword功能"
+title: "星号密码查看器  AsteriskPassword功能"
 date:   2024-06-28
 tags: [密码,星号,查看,工具,查看器]
 comments: true

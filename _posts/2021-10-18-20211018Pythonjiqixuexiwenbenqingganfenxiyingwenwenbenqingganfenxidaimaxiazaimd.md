@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python机器学习——文本情感分析（英文文本情感分析）代码下载"
+title: "Python机器学习文本情感分析英文文本情感分析代码下载"
 date:   2020-06-02
 tags: [文本,代码,情感,Python,分析]
 comments: true

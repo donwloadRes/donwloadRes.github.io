@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scrpy工具：电脑投屏操作安卓电视盒子的最佳实践"
+title: "Scrpy工具电脑投屏操作安卓电视盒子的最佳实践"
 date:   2021-02-04
 tags: [安卓,盒子,Scrpy,电视,电脑]
 comments: true

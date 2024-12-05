@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下Kiwi_Syslog日志服务器的搭建指南"
+title: "Windows下KiwiSyslog日志服务器的搭建指南"
 date:   2021-05-20
 tags: [日志,Syslog,点击,Kiwi,安装]
 comments: true

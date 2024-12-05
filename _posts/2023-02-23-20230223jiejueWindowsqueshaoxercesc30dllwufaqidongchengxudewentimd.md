@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows缺少xerces-c_3_0.dll无法启动程序的问题"
+title: "解决Windows缺少xercesc30dll无法启动程序的问题"
 date:   2023-08-10
 tags: [文件,xerces,dll,Windows,DLL]
 comments: true

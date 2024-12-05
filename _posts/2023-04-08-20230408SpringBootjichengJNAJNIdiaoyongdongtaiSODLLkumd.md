@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot 集成 JNA-JNI 调用动态 SO-DLL 库"
+title: "Spring Boot 集成 JNAJNI 调用动态 SODLL 库"
 date:   2023-02-19
 tags: [调用,Spring,Boot,示例,JNA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows平台C++ FTP-SFTP文件和文件夹下载上传工程源代码"
+title: "Windows平台C FTPSFTP文件和文件夹下载上传工程源代码"
 date:   2021-07-24
 tags: [文件夹,文档,FTP,SFTP,上传]
 comments: true

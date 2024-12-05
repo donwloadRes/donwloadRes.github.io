@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32F460 PETB 硬件SPI驱动LCD及LVGL V8.0.1移植模板"
+title: "HC32F460 PETB 硬件SPI驱动LCD及LVGL V801移植模板"
 date:   2020-08-19
 tags: [HC32F460,SPI,LCD,LVGL,硬件]
 comments: true

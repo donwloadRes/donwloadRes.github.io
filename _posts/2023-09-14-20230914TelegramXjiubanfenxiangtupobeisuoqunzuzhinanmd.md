@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Telegram X]旧版分享 - 突破被锁群组指南"
+title: "Telegram X旧版分享  突破被锁群组指南"
 date:   2024-04-20
 tags: [Telegram,旧版,群组,用户,下载]
 comments: true

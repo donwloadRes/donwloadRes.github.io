@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AxGlyph v12.25 免费安装版 - 矢量图绘制软件"
+title: "AxGlyph v1225 免费安装版  矢量图绘制软件"
 date:   2020-09-26
 tags: [AxGlyph,矢量图,绘制,绘图,图形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++核心编程指南中文版下载"
+title: "C核心编程指南中文版下载"
 date:   2023-08-04
 tags: [C++,编程,中文版,指南,核心]
 comments: true

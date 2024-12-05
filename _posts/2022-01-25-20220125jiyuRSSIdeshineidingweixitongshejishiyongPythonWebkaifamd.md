@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于RSSI的室内定位系统设计——使用PythonWeb开发"
+title: "基于RSSI的室内定位系统设计使用PythonWeb开发"
 date:   2020-06-21
 tags: [KNN,指纹,信号强度,RSSI,定位]
 comments: true

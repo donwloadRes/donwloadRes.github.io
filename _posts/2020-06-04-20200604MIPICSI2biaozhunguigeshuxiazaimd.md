@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI-CSI-2 标准规格书下载"
+title: "MIPICSI2 标准规格书下载"
 date:   2023-04-06
 tags: [CSI,MIPI,规格书,接口,文档]
 comments: true

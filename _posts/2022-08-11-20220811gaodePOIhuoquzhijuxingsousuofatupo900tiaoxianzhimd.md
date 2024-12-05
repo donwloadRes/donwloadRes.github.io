@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高德POI获取之矩形搜索法（突破900条限制）"
+title: "高德POI获取之矩形搜索法突破900条限制"
 date:   2024-08-29
 tags: [POI,高德,获取,900,API]
 comments: true

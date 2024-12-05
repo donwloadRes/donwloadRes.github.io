@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度点石充电桩数据集+源码（acc=1）"
+title: "百度点石充电桩数据集源码acc1"
 date:   2024-01-11
 tags: [源码,充电,数据,模型,点石]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPL06-001气压计和LIS3DH加速度计的IIC驱动"
+title: "SPL06001气压计和LIS3DH加速度计的IIC驱动"
 date:   2021-05-13
 tags: [IIC,代码,SPL06,001,气压计]
 comments: true

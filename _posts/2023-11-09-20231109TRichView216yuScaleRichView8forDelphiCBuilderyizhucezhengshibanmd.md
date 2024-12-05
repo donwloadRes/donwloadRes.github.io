@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TRichView 21.6 与 ScaleRichView 8 for Delphi-CBuilder 已注册正式版"
+title: "TRichView 216 与 ScaleRichView 8 for DelphiCBuilder 已注册正式版"
 date:   2020-07-13
 tags: [源代码,TRichView,组件,ScaleRichView,正式版]
 comments: true

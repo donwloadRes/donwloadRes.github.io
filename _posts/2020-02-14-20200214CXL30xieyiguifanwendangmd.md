@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL 3.0协议规范文档"
+title: "CXL 30协议规范文档"
 date:   2023-07-05
 tags: [CXL,3.0,文档,技术,规范]
 comments: true

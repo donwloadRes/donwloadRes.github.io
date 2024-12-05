@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自控课设-双手协调机器人控制系统设计资源"
+title: "自控课设双手协调机器人控制系统设计资源"
 date:   2023-09-20
 tags: [仿真,系统,校正,设计,课设]
 comments: true

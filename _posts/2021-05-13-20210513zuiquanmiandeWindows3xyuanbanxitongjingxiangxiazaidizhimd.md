@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全面的Windows 3.x原版系统镜像下载地址"
+title: "最全面的Windows 3x原版系统镜像下载地址"
 date:   2022-04-08
 tags: [Windows,3.1,系统,Workgroups,原版]
 comments: true

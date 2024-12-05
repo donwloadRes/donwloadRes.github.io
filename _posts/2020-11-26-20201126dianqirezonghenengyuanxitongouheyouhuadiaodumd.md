@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电-气-热综合能源系统耦合优化调度"
+title: "电气热综合能源系统耦合优化调度"
 date:   2020-11-08
 tags: [调度,优化,气网,耦合,能源]
 comments: true

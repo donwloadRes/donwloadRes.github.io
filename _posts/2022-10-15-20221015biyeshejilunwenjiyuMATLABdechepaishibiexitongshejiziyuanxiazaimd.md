@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计论文-基于MATLAB的车牌识别系统设计资源下载"
+title: "毕业设计论文基于MATLAB的车牌识别系统设计资源下载"
 date:   2022-12-15
 tags: [毕业设计,MATLAB,车牌,识别系统,论文]
 comments: true

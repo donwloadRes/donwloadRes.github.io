@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop（PS）2024最新版下载与安装教程"
+title: "PhotoshopPS2024最新版下载与安装教程"
 date:   2024-07-25
 tags: [Photoshop,安装,2024,教程,安装包]
 comments: true

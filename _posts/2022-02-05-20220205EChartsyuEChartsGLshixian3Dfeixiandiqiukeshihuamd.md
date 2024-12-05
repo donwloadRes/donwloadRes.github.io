@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECharts与ECharts-GL实现3D飞线地球可视化"
+title: "ECharts与EChartsGL实现3D飞线地球可视化"
 date:   2020-11-06
 tags: [ECharts,3D,飞线,GL,可视化]
 comments: true

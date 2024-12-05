@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "湖北移动B863AV3.1-M2_S905L3A_UWE5621DS_安卓9语音线刷包"
+title: "湖北移动B863AV31M2S905L3AUWE5621DS安卓9语音线刷包"
 date:   2021-01-17
 tags: [线刷包,刷机,语音,B863AV3.1,M2]
 comments: true

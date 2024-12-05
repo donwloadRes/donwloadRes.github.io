@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 5.11.0.0 简体中文-English版 下载仓库"
+title: "Dev C 51100 简体中文English版 下载仓库"
 date:   2020-09-17
 tags: [C++,解压,Dev,简体中文,English]
 comments: true

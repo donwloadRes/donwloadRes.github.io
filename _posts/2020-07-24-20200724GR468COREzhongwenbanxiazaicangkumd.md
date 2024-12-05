@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GR-468-CORE中文版下载仓库"
+title: "GR468CORE中文版下载仓库"
 date:   2024-08-24
 tags: [GR,468,CORE,中文版,文件]
 comments: true

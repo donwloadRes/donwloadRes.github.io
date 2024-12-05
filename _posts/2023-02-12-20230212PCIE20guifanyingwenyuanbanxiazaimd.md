@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE2.0规范英文原版下载"
+title: "PCIE20规范英文原版下载"
 date:   2023-09-30
 tags: [PCI,Express,规范,英文原版,PCIE2.0]
 comments: true

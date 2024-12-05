@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 2.0 规格书中文版"
+title: "HDMI 20 规格书中文版"
 date:   2020-03-05
 tags: [2.0,HDMI,规格书,中文版,文件]
 comments: true

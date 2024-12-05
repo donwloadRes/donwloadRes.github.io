@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx 7系列FPGA手册[打包下载]"
+title: "Xilinx 7系列FPGA手册打包下载"
 date:   2020-08-21
 tags: [FPGA,7Series,pdf,Xilinx,系列]
 comments: true

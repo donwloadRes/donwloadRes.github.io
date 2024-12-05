@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCD12864结合Arduino显示图片、文字教程和源码"
+title: "LCD12864结合Arduino显示图片文字教程和源码"
 date:   2022-06-02
 tags: [Arduino,教程,LCD12864,源码,显示屏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验五 存储器实验报告+答案"
+title: "实验五 存储器实验报告答案"
 date:   2020-07-10
 tags: [存储器,扩展,学习者,logisim,实验报告]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6-30节点系统潮流计算Matlab程序"
+title: "630节点系统潮流计算Matlab程序"
 date:   2022-04-02
 tags: [节点,MATLAB,程序,潮流,计算]
 comments: true

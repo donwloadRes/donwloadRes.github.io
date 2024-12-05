@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beckhoff EtherCAT SSC 5.13 XML生成工具"
+title: "Beckhoff EtherCAT SSC 513 XML生成工具"
 date:   2023-11-07
 tags: [5.13,XML,生成,Beckhoff,EtherCAT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华南理工大学信号与系统》Signal and Systems 期末考试资料"
+title: "华南理工大学信号与系统Signal and Systems 期末考试资料"
 date:   2020-12-15
 tags: [学习,期末考试,华南理工大学,信号,理解]
 comments: true

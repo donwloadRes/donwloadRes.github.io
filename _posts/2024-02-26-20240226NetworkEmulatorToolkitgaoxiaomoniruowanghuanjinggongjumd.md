@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Network Emulator Toolkit：高效模拟弱网环境工具"
+title: "Network Emulator Toolkit高效模拟弱网环境工具"
 date:   2023-02-16
 tags: [模拟,Network,Emulator,Toolkit,弱网]
 comments: true

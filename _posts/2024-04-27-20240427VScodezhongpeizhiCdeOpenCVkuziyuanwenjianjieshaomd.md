@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode中配置C++的OpenCV库资源文件介绍"
+title: "VScode中配置C的OpenCV库资源文件介绍"
 date:   2021-11-20
 tags: [OpenCV,VScode,配置,示例,开发者]
 comments: true

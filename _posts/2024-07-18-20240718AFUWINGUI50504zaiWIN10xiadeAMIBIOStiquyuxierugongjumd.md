@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AFUWINGUI 5.05.04 在WIN10下的AMI BIOS提取与写入工具"
+title: "AFUWINGUI 50504 在WIN10下的AMI BIOS提取与写入工具"
 date:   2023-03-04
 tags: [BIOS,写入,提取,AMI,工具]
 comments: true

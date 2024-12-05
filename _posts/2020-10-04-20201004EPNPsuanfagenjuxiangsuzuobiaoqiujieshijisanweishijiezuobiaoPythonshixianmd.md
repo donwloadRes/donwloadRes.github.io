@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPNP算法：根据像素坐标求解实际三维世界坐标Python实现"
+title: "EPNP算法根据像素坐标求解实际三维世界坐标Python实现"
 date:   2021-02-27
 tags: [EPNP,算法,世界坐标,Python,像素]
 comments: true

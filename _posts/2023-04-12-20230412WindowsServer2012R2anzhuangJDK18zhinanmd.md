@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012R2 安装 JDK1.8 指南"
+title: "Windows Server 2012R2 安装 JDK18 指南"
 date:   2024-07-09
 tags: [安装,JDK,Windows,JAVA,Server]
 comments: true

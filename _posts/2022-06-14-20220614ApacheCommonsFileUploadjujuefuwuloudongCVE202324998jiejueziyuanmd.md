@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Commons FileUpload 拒绝服务漏洞(CVE-2023-24998) 解决资源"
+title: "Apache Commons FileUpload 拒绝服务漏洞CVE202324998 解决资源"
 date:   2023-12-28
 tags: [Apache,Commons,FileUpload,漏洞,版本]
 comments: true

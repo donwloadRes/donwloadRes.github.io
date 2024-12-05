@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "成都市医保局加解密方法工具类及调用Demo（医保电子处方中心）V1.0"
+title: "成都市医保局加解密方法工具类及调用Demo医保电子处方中心V10"
 date:   2020-11-12
 tags: [加解密,Demo,医保,调用,工具]
 comments: true

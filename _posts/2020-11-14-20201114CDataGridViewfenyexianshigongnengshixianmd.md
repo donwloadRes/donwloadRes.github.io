@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DataGridView 分页显示功能实现"
+title: "C DataGridView 分页显示功能实现"
 date:   2023-08-22
 tags: [DataGridView,WinForm,分页,功能,文件]
 comments: true

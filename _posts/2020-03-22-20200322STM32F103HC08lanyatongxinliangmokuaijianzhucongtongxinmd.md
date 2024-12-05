@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103-HC08 蓝牙通信（两模块间主从通信）"
+title: "STM32F103HC08 蓝牙通信两模块间主从通信"
 date:   2020-11-01
 tags: [蓝牙,通信,STM32F103,HC08,模块]
 comments: true

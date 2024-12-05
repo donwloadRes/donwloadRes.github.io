@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电源电路学习设计-----两级联调稳压电源PCB"
+title: "电源电路学习设计两级联调稳压电源PCB"
 date:   2023-09-16
 tags: [PCB,电源,原理图,设计,联调]
 comments: true

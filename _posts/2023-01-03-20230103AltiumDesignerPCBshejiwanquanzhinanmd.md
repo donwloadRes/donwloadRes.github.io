@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer - PCB设计完全指南"
+title: "Altium Designer  PCB设计完全指南"
 date:   2022-12-22
 tags: [PCB,Altium,Designer,设计,布线]
 comments: true

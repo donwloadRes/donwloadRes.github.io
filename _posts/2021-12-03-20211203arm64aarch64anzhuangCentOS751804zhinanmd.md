@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "arm64(aarch64)安装CentOS 7.5.1804 指南"
+title: "arm64aarch64安装CentOS 751804 指南"
 date:   2020-05-05
 tags: [CentOS,1804,7.5,ISO,YUM]
 comments: true

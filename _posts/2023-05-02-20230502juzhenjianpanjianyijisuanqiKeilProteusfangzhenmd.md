@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵键盘简易计算器（Keil+Proteus仿真）"
+title: "矩阵键盘简易计算器KeilProteus仿真"
 date:   2020-10-10
 tags: [Keil,数码管,仿真,Proteus,矩阵]
 comments: true

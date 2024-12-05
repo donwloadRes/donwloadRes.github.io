@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.06 虚拟机版安装及飞控开发环境搭建指南"
+title: "Ubuntu 200406 虚拟机版安装及飞控开发环境搭建指南"
 date:   2021-04-03
 tags: [飞控,06,虚拟机,搭建,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WebService与MES系统实例"
+title: "C WebService与MES系统实例"
 date:   2022-03-02
 tags: [MES,WebService,C#,示例,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯单片机9~12届客观真题资源"
+title: "蓝桥杯单片机912届客观真题资源"
 date:   2023-10-14
 tags: [蓝桥,单片机,习题,真题,资源]
 comments: true

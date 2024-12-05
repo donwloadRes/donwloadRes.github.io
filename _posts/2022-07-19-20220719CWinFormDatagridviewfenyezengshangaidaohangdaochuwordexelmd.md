@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Datagridview分页+增删改+导航+导出word-exel"
+title: "C WinForm Datagridview分页增删改导航导出wordexel"
 date:   2022-05-24
 tags: [数据库,Datagridview,导出,增删,分页]
 comments: true

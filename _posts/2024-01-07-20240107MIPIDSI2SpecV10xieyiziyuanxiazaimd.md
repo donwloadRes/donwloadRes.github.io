@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI DSI-2 Spec V1.0 协议资源下载"
+title: "MIPI DSI2 Spec V10 协议资源下载"
 date:   2024-08-25
 tags: [MIPI,DSI,V1.0,Spec,协议]
 comments: true

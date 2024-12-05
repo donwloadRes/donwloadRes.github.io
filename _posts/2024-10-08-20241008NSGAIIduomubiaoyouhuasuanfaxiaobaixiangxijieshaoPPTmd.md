@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSGA-II多目标优化算法小白详细介绍PPT"
+title: "NSGAII多目标优化算法小白详细介绍PPT"
 date:   2020-04-07
 tags: [NSGA,II,算法,PPT,支配]
 comments: true

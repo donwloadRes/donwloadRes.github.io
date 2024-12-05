@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP28335入门教程：官方例程的下载指南"
+title: "DSP28335入门教程官方例程的下载指南"
 date:   2023-07-25
 tags: [例程,下载,DSP28335,指南,入门教程]
 comments: true

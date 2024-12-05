@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTPS技术规范（DDS）简介"
+title: "RTPS技术规范DDS简介"
 date:   2022-07-24
 tags: [RTPS,DDS,技术规范,实时,网络]
 comments: true

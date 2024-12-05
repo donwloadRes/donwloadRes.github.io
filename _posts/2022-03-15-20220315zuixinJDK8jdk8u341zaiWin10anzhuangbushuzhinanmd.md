@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新JDK8（jdk-8u341）在Win10安装部署指南"
+title: "最新JDK8jdk8u341在Win10安装部署指南"
 date:   2020-04-03
 tags: [安装,8u341,JDK8,jdk,JAVA]
 comments: true

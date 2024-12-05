@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 句柄操作与自动输入功能实现"
+title: "C 句柄操作与自动输入功能实现"
 date:   2020-03-27
 tags: [句柄,程序,示例,C#,发送]
 comments: true

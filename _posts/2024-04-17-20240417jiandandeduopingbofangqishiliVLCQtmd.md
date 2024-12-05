@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单的多屏播放器示例（VLC+Qt）"
+title: "简单的多屏播放器示例VLCQt"
 date:   2022-05-07
 tags: [示例,多屏,Qt,播放,VLC]
 comments: true

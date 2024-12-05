@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟集成电路设计拉扎维课本答案（答案大全分章节版本）"
+title: "模拟集成电路设计拉扎维课本答案答案大全分章节版本"
 date:   2023-07-28
 tags: [答案,章节,feature,仓库,git]
 comments: true

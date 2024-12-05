@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MaxEnt 最大熵模型：物种分布预测工具"
+title: "MaxEnt 最大熵模型物种分布预测工具"
 date:   2024-11-26
 tags: [物种,预测,分布,文件,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 2.1 规范文档"
+title: "HDMI 21 规范文档"
 date:   2024-02-13
 tags: [HDMI,2.1,文档,技术,传输]
 comments: true

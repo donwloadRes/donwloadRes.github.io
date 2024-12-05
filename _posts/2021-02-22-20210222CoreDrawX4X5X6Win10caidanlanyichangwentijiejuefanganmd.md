@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoreDraw X4、X5、X6 Win10 菜单栏异常问题解决方案"
+title: "CoreDraw X4X5X6 Win10 菜单栏异常问题解决方案"
 date:   2024-05-10
 tags: [X4,X5,X6,文件,CoreDraw]
 comments: true

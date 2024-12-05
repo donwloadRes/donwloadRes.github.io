@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2019 详细安装教程（图文版）"
+title: "Visual Studio 2019 详细安装教程图文版"
 date:   2020-08-16
 tags: [安装,Visual,Studio,2019,教程]
 comments: true

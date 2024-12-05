@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C认证路由交换网络工程师 GB0-192 2023-05-30题库"
+title: "H3C认证路由交换网络工程师 GB0192 20230530题库"
 date:   2020-05-25
 tags: [题库,H3C,路由,考试,认证]
 comments: true

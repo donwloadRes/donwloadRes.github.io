@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEWESoftV7.0软件使用手册中文版"
+title: "DEWESoftV70软件使用手册中文版"
 date:   2024-08-01
 tags: [DEWESoftV7.0,软件,使用手册,中文版,采集]
 comments: true

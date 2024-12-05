@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SafeNet MicroDog 加密狗驱动（支持 WIN7-64 位）"
+title: "SafeNet MicroDog 加密狗驱动支持 WIN764 位"
 date:   2023-05-16
 tags: [驱动程序,MicroDog,加密狗,64,SafeNet]
 comments: true

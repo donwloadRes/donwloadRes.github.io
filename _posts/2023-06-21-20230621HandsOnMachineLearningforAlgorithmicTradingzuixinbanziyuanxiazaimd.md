@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hands-On Machine Learning for Algorithmic Trading 最新版 资源下载"
+title: "HandsOn Machine Learning for Algorithmic Trading 最新版 资源下载"
 date:   2023-10-22
 tags: [最新版,Hands,学习,下载,资源]
 comments: true

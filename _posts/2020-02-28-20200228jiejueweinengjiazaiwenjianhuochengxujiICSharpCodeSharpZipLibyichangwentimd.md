@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“未能加载文件或程序集‘ICSharpCode.SharpZipLib’”异常问题"
+title: "解决未能加载文件或程序集ICSharpCodeSharpZipLib异常问题"
 date:   2020-01-15
 tags: [NET,DLL,ICSharpCode,SharpZipLib,版本]
 comments: true

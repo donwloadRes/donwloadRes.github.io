@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音识别算法设计 - 基于MFCC+DTW算法定点数C代码版本"
+title: "语音识别算法设计  基于MFCCDTW算法定点数C代码版本"
 date:   2023-03-26
 tags: [识别,语音,DTW,算法,定点数]
 comments: true

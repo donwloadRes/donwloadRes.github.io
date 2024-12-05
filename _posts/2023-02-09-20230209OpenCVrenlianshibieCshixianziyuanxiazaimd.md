@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV人脸识别（C++实现）资源下载"
+title: "OpenCV人脸识别C实现资源下载"
 date:   2020-02-06
 tags: [OpenCV,人脸识别,采集,人脸,训练]
 comments: true

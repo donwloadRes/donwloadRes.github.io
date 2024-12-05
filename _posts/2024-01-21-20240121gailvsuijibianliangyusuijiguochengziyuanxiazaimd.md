@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率、随机变量与随机过程 资源下载"
+title: "概率随机变量与随机过程 资源下载"
 date:   2023-09-01
 tags: [随机,随机变量,过程,概率论,下载]
 comments: true

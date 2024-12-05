@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch、Kibana、IK分词器各版本免费下载"
+title: "ElasticsearchKibanaIK分词器各版本免费下载"
 date:   2020-12-07
 tags: [Elasticsearch,版本,分词器,下载,Kibana]
 comments: true

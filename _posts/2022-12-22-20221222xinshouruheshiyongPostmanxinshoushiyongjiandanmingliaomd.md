@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新手如何使用Postman（新手使用，简单明了）"
+title: "新手如何使用Postman新手使用简单明了"
 date:   2020-01-16
 tags: [Postman,接口,新手,GET,POST]
 comments: true

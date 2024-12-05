@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 连接 Oracle 数据库示例"
+title: "C WinForm 连接 Oracle 数据库示例"
 date:   2020-03-17
 tags: [Oracle,连接,数据库,示例,C#]
 comments: true

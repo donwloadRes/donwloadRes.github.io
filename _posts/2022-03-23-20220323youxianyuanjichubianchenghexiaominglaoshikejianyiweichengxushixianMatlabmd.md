@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限元基础编程 - 何晓明老师课件 - 一维程序实现（Matlab）"
+title: "有限元基础编程  何晓明老师课件  一维程序实现Matlab"
 date:   2022-06-24
 tags: [有限元,Matlab,编程,一维,课件]
 comments: true

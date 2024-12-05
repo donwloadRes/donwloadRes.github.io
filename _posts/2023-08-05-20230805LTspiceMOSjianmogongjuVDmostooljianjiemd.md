@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTspice MOS建模工具 - VDmostool简介"
+title: "LTspice MOS建模工具  VDmostool简介"
 date:   2020-12-21
 tags: [LTspice,仿真,VDmostool,MOSFET,模型]
 comments: true

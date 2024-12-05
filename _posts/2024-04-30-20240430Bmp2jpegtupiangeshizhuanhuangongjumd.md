@@ -1,6 +1,28 @@
 ---
 layout: post
-title: "Bmp2jpeg图片格式转换工具"
+title: "Bmp2jpeg图片格式转换工具
+date   20230729
+tags BMPJPEGCBmp2Jpeg转换格式
+comments true
+author admin
+
+ Bmp2jpeg图片格式转换工具
+
+ 简介
+
+本仓库提供了一个C代码资源用于将BMP格式的图片转换为JPEG格式代码已经封装成一个名为CBmp2Jpeg的C类用户可以直接调用该类进行图片格式转换
+
+ 功能描述
+
+ BMP转JPEG支持将BMP格式的图片文件转换为JPEG格式
+ 封装好的类代码已经封装成CBmp2Jpeg类用户只需实例化该类并调用相应的方法即可完成转换
+
+ 使用示例
+
+以下是一个简单的使用示例展示了如何使用CBmp2Jpeg类将BMP图片转换为JPEG格式
+
+cpp
+include CBmp2Jpegh"
 date:   2023-07-29
 tags: [BMP,JPEG,CBmp2Jpeg,转换,格式]
 comments: true

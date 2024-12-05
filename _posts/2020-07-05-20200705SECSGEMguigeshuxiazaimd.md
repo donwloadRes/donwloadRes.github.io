@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS-GEM规格书下载"
+title: "SECSGEM规格书下载"
 date:   2022-03-15
 tags: [SECS,规格书,GEM,文档,doc]
 comments: true

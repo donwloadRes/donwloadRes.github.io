@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP超级BOM配置文档+测试文档"
+title: "SAP超级BOM配置文档测试文档"
 date:   2020-04-14
 tags: [BOM,SAP,超级,文档,配置]
 comments: true

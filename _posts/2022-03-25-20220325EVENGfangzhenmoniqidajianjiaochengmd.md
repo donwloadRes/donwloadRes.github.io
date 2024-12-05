@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVE-NG仿真模拟器搭建教程"
+title: "EVENG仿真模拟器搭建教程"
 date:   2024-09-05
 tags: [EVE,NG,安装,教程,仿真]
 comments: true

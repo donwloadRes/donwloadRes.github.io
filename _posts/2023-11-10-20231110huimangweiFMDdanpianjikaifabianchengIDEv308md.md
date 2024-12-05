@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "辉芒微(FMD)单片机开发编程IDE v3.0.8"
+title: "辉芒微FMD单片机开发编程IDE v308"
 date:   2021-05-11
 tags: [辉芒,单片机,FMD,IDE,开发]
 comments: true

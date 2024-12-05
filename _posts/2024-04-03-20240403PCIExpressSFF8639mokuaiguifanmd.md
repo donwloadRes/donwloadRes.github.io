@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express SFF-8639 模块规范"
+title: "PCI Express SFF8639 模块规范"
 date:   2024-03-18
 tags: [模块,8639,PCI,Express,SFF]
 comments: true

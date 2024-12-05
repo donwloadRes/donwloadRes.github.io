@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeModbus V1.5 & V1.6 资源文件"
+title: "FreeModbus V15  V16 资源文件"
 date:   2020-06-08
 tags: [FreeModbus,源代码,版本,资源,V1.6]
 comments: true

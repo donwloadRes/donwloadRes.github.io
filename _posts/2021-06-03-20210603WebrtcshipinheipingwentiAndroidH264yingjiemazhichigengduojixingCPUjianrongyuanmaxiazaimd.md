@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Webrtc视频黑屏问题 Android H264 硬解码支持更多机型（CPU）- 兼容源码下载"
+title: "Webrtc视频黑屏问题 Android H264 硬解码支持更多机型CPU 兼容源码下载"
 date:   2020-12-07
 tags: [OMX,CPU,黑屏,Webrtc,视频]
 comments: true

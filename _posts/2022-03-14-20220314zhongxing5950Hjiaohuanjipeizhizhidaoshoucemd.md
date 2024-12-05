@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴5950-H交换机配置指导手册"
+title: "中兴5950H交换机配置指导手册"
 date:   2021-07-04
 tags: [手册,交换机,配置,中兴,5950]
 comments: true

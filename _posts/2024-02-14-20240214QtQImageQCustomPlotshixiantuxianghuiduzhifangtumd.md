@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt QImage+QCustomPlot实现图像灰度直方图"
+title: "Qt QImageQCustomPlot实现图像灰度直方图"
 date:   2022-12-31
 tags: [直方图,灰度,图像,QCustomPlot,Qt]
 comments: true

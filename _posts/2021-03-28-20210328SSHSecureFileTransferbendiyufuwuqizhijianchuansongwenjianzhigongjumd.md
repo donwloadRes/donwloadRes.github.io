@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSH Secure File Transfer -- 本地与服务器之间传送文件之工具"
+title: "SSH Secure File Transfer  本地与服务器之间传送文件之工具"
 date:   2023-11-07
 tags: [SSH,文件传输,Secure,File,Transfer]
 comments: true

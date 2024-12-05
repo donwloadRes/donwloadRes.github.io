@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银行管理系统QT(c++)"
+title: "银行管理系统QTc"
 date:   2020-02-25
 tags: [git,feature,bank,management,system]
 comments: true

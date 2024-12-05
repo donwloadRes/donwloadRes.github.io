@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32库-GPS模块驱动代码"
+title: "GD32库GPS模块驱动代码"
 date:   2021-11-05
 tags: [GPS,模块,串口,GD32,GD32F103c8t6]
 comments: true

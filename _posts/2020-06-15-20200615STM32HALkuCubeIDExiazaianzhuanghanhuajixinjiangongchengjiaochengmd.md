@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-HAL库 Cube IDE 下载、安装、汉化及新建工程教程"
+title: "STM32HAL库 Cube IDE 下载安装汉化及新建工程教程"
 date:   2023-11-15
 tags: [Cube,IDE,安装,点击,STM32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VME总线规范(中文说明) 下载仓库"
+title: "VME总线规范中文说明 下载仓库"
 date:   2020-03-15
 tags: [VME,总线,文件,中文,规范]
 comments: true

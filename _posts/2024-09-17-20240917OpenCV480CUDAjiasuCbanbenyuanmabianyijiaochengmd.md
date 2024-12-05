@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.0 CUDA 加速 C++ 版本源码编译教程"
+title: "OpenCV 480 CUDA 加速 C 版本源码编译教程"
 date:   2022-07-15
 tags: [OpenCV,编译,教程,CUDA,源码]
 comments: true

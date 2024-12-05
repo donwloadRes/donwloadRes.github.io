@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毫米波雷达技术在FMCW、MIMO及多天线处理中的Matlab实现"
+title: "毫米波雷达技术在FMCWMIMO及多天线处理中的Matlab实现"
 date:   2020-03-16
 tags: [雷达,毫米波,MATLAB,算法,FMCW]
 comments: true

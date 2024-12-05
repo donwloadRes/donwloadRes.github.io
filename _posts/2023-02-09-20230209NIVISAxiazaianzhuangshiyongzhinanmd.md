@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI-VISA下载安装使用指南"
+title: "NIVISA下载安装使用指南"
 date:   2024-07-13
 tags: [VISA,NI,安装,LabVIEW,下载安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "期货程序化交易入门资源 - C++版CTP开发指南"
+title: "期货程序化交易入门资源  C版CTP开发指南"
 date:   2023-04-15
 tags: [C++,CTP,量化,交易,期货]
 comments: true

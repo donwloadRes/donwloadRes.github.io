@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 Camtasia Studio 最新下载安装激活图文教程（SEO优化）"
+title: "2024 Camtasia Studio 最新下载安装激活图文教程SEO优化"
 date:   2021-08-22
 tags: [激活,Camtasia,Studio,教程,安装]
 comments: true

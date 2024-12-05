@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "参考书现代声学理论基础》"
+title: "参考书现代声学理论基础"
 date:   2023-03-31
 tags: [声学,声波,参考书,学习,基础]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 安装 MT7921无线网卡驱动指南"
+title: "Ubuntu 1804 安装 MT7921无线网卡驱动指南"
 date:   2021-09-15
 tags: [安装,驱动,网卡,MT7921,make]
 comments: true

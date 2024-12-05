@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lee滤波、Kuan滤波和Frost滤波MATLAB实现"
+title: "Lee滤波Kuan滤波和Frost滤波MATLAB实现"
 date:   2021-03-08
 tags: [滤波,图像,MATLAB,滤波器,噪声]
 comments: true

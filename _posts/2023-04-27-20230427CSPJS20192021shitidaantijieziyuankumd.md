@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J-S 2019-2021试题+答案+题解资源库"
+title: "CSPJS 20192021试题答案题解资源库"
 date:   2021-09-09
 tags: [CSP,题解,试题,2021,初赛]
 comments: true

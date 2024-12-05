@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 DAC+TIM+DMA 配置教程"
+title: "STM32 DACTIMDMA 配置教程"
 date:   2024-04-20
 tags: [DAC,DMA,TIM,配置,STM32]
 comments: true

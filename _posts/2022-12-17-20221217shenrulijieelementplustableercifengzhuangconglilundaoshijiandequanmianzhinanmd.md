@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解element-plus table二次封装：从理论到实践的全面指南"
+title: "深入理解elementplus table二次封装从理论到实践的全面指南"
 date:   2020-01-03
 tags: [Element,Plus,自定义,组件,插槽]
 comments: true

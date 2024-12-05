@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转232串口驱动程序(usb2.0-serial) 驱动合集"
+title: "USB转232串口驱动程序usb20serial 驱动合集"
 date:   2021-08-23
 tags: [驱动程序,USB,串口,232,usb2.0]
 comments: true

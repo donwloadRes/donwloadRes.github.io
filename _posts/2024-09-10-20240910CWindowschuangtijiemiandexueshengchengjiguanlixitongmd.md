@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Windows窗体界面的学生成绩管理系统"
+title: "C Windows窗体界面的学生成绩管理系统"
 date:   2023-10-13
 tags: [学生,成绩,系统,信息,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费版.NET Excel组件 - Free Spire.XLS for .NET 8.3"
+title: "免费版NET Excel组件  Free SpireXLS for NET 83"
 date:   2023-11-17
 tags: [Excel,NET,Free,Spire,XLS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS优化工具：BeamOff介绍"
+title: "macOS优化工具BeamOff介绍"
 date:   2024-05-12
 tags: [BeamOff,优化,macOS,Mac,解压]
 comments: true

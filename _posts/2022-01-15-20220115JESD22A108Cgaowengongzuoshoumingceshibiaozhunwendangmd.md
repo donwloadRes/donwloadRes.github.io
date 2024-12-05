@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD22-A108C 高温工作寿命测试标准文档"
+title: "JESD22A108C 高温工作寿命测试标准文档"
 date:   2024-01-11
 tags: [JESD22,A108C,文档,标准,测试]
 comments: true

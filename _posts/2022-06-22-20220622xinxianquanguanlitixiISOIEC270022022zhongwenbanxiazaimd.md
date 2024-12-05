@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全管理体系ISO_IEC 27002_2022中文版下载"
+title: "信息安全管理体系ISOIEC 270022022中文版下载"
 date:   2023-10-25
 tags: [信息安全,ISO,IEC,2022,管理体系]
 comments: true

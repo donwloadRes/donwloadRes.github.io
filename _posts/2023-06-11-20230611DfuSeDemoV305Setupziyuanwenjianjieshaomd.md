@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DfuSe_Demo_V3.0.5_Setup 资源文件介绍"
+title: "DfuSeDemoV305Setup 资源文件介绍"
 date:   2023-01-21
 tags: [DfuSe,Demo,V3.0,Setup,固件]
 comments: true

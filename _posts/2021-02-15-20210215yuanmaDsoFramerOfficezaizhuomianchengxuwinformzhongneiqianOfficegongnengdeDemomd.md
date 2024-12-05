@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "源码DsoFramerOffice：在桌面程序(winform)中内嵌Office功能的Demo"
+title: "源码DsoFramerOffice在桌面程序winform中内嵌Office功能的Demo"
 date:   2023-09-11
 tags: [控件,Office,dsoframer,ocx,内嵌]
 comments: true

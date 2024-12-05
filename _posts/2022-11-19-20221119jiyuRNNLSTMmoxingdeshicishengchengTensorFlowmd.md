@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于RNN-LSTM模型的诗词生成-TensorFlow"
+title: "基于RNNLSTM模型的诗词生成TensorFlow"
 date:   2021-10-25
 tags: [模型,生成,LSTM,古诗词,RNN]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SkyWalking 9.4.0 安装包及 Java Agent 下载"
+title: "SkyWalking 940 安装包及 Java Agent 下载"
 date:   2024-02-04
 tags: [SkyWalking,9.4,Agent,Java,版本]
 comments: true

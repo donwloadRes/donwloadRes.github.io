@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCHunter V1.6 版 已签名 下载"
+title: "PCHunter V16 版 已签名 下载"
 date:   2020-05-07
 tags: [版本,PCHunter,下载,签名,V1.6]
 comments: true

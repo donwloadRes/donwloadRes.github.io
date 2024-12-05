@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle全版本Windows、Linux、macOS (10g~12c) 32位与64位 OCI（Oracle Call Interface）下载指南"
+title: "Oracle全版本WindowsLinuxmacOS 10g12c 32位与64位 OCIOracle Call Interface下载指南"
 date:   2020-04-27
 tags: [Oracle,64,版本,32,OCI]
 comments: true

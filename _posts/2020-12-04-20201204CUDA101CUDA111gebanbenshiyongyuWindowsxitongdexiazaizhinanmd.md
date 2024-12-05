@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA 10.1 - CUDA 11.1 各版本适用于Windows系统的下载指南"
+title: "CUDA 101  CUDA 111 各版本适用于Windows系统的下载指南"
 date:   2024-08-21
 tags: [CUDA,CuDNN,Toolkit,安装,10.1]
 comments: true

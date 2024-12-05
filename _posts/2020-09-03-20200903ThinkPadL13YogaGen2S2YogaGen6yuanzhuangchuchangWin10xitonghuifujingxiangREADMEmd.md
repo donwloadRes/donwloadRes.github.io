@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPad L13 Yoga Gen2 & S2 Yoga Gen6 原装出厂Win10系统恢复镜像README"
+title: "ThinkPad L13 Yoga Gen2  S2 Yoga Gen6 原装出厂Win10系统恢复镜像README"
 date:   2020-03-03
 tags: [系统,ThinkPad,Yoga,镜像,出厂]
 comments: true

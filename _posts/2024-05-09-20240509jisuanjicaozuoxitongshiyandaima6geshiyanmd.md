@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机操作系统实验代码（6个实验）"
+title: "计算机操作系统实验代码6个实验"
 date:   2024-09-22
 tags: [算法,实验,代码,调度,磁盘]
 comments: true

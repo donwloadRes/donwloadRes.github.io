@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现Socket：一个服务器对应多个客户端相互传递信息"
+title: "C实现Socket一个服务器对应多个客户端相互传递信息"
 date:   2021-06-16
 tags: [客户端,服务器,C++,连接,Socket]
 comments: true

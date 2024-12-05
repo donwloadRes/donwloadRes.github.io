@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023电赛A题（国二）CW32 资源库分享"
+title: "2023电赛A题国二CW32 资源库分享"
 date:   2021-11-01
 tags: [电路,逆变器,逆变,运行,并联]
 comments: true

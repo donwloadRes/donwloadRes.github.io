@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO 3.0协议规范中文版"
+title: "SDIO 30协议规范中文版"
 date:   2020-07-09
 tags: [SDIO,3.0,中文版,规范,协议]
 comments: true

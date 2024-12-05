@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FTDI FT4232HL UART 驱动程序 V2.8.14"
+title: "FTDI FT4232HL UART 驱动程序 V2814"
 date:   2023-08-22
 tags: [驱动程序,FTDI,FT4232HL,UART,V2.8]
 comments: true

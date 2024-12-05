@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SoC设计之AMBA总线-AHB总线详解，中文版！"
+title: "SoC设计之AMBA总线AHB总线详解中文版"
 date:   2023-02-22
 tags: [总线,AHB,SoC,AMBA,设计]
 comments: true

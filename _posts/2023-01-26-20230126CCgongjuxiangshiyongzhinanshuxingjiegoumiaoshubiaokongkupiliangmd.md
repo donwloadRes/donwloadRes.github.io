@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：属性结构描述表空库(批量)"
+title: "CC工具箱使用指南属性结构描述表空库批量"
 date:   2020-01-29
 tags: [属性,CC,工具箱,表空库,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "循迹小车+Proteus仿真资源下载"
+title: "循迹小车Proteus仿真资源下载"
 date:   2024-06-18
 tags: [仿真,Proteus,循迹,小车,文件]
 comments: true

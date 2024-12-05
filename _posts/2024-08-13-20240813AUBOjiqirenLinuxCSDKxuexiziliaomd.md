@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUBO机器人Linux+C++ SDK学习资料"
+title: "AUBO机器人LinuxC SDK学习资料"
 date:   2022-05-11
 tags: [SDK,AUBO,机器人,C++,学习]
 comments: true

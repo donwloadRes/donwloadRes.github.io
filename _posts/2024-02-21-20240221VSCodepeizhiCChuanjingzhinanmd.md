@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode配置C-C++环境指南"
+title: "VSCode配置CC环境指南"
 date:   2022-10-20
 tags: [VSCode,C++,配置,插件,指南]
 comments: true

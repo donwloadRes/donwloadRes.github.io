@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EFS解密工具Advanced EFS Data Recovery V4.30注册版"
+title: "EFS解密工具Advanced EFS Data Recovery V430注册版"
 date:   2024-03-06
 tags: [解密,EFS,注册版,Advanced,Data]
 comments: true

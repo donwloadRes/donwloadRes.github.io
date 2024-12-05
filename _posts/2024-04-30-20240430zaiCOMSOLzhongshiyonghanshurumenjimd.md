@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在COMSOL中使用函数-入门级"
+title: "在COMSOL中使用函数入门级"
 date:   2022-02-04
 tags: [COMSOL,函数,用户,教程,自定义]
 comments: true

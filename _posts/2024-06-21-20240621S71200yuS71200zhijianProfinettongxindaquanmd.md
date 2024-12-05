@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 与 S7-1200 之间 Profinet 通信大全"
+title: "S71200 与 S71200 之间 Profinet 通信大全"
 date:   2020-01-02
 tags: [S7,1200,Profinet,通信,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制理论（第2版）资源下载"
+title: "现代控制理论第2版资源下载"
 date:   2024-08-11
 tags: [理论,学习,现代,资源,控制]
 comments: true

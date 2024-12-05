@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EN 301 893 v2.1.1 CE RF法规资源下载"
+title: "EN 301 893 v211 CE RF法规资源下载"
 date:   2021-10-27
 tags: [EN,301,893,v2.1,法规]
 comments: true

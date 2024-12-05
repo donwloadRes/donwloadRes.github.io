@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#国密加密算法SM2, SM3, SM4实现案例"
+title: "C国密加密算法SM2 SM3 SM4实现案例"
 date:   2024-10-23
 tags: [加密算法,C#,国密,SM2,SM3]
 comments: true

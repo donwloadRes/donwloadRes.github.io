@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Station P2(ROC-RK3568-PC) 裸机开发之最简裸机代码"
+title: "Station P2ROCRK3568PC 裸机开发之最简裸机代码"
 date:   2021-07-13
 tags: [裸机,代码,运行,RK3568,PC]
 comments: true

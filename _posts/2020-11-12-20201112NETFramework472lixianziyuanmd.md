@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.7.2 离线 资源"
+title: "NET Framework 472 离线 资源"
 date:   2022-05-06
 tags: [安装程序,Windows,x64,离线,x86]
 comments: true

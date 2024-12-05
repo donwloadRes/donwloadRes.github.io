@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interlaken_v1.2协议理解"
+title: "Interlakenv12协议理解"
 date:   2022-09-04
 tags: [Interlaken,v1.2,协议,文件,理解]
 comments: true

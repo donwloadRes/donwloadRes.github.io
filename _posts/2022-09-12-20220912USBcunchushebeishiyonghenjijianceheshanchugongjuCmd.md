@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 存储设备使用痕迹检测和删除工具（C#）"
+title: "USB 存储设备使用痕迹检测和删除工具C"
 date:   2023-10-14
 tags: [USB,存储设备,C#,使用,痕迹]
 comments: true

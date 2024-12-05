@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于V-REP和MATLAB的七自由度机械臂跟踪控制"
+title: "基于VREP和MATLAB的七自由度机械臂跟踪控制"
 date:   2023-02-16
 tags: [REP,MATLAB,机械,自由度,跟踪]
 comments: true

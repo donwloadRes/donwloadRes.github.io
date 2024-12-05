@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux C-C++后端服务器架构开发1 资源下载"
+title: "Linux CC后端服务器架构开发1 资源下载"
 date:   2022-06-15
 tags: [专栏,开发者,服务器,开发,Linux]
 comments: true

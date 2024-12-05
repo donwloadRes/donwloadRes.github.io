@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roche480软件安装指南（适用于Windows 10）"
+title: "Roche480软件安装指南适用于Windows 10"
 date:   2020-02-16
 tags: [安装,软件,Roche480,Program,Files]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源设计软件 PI Expert Suite V10.3"
+title: "开关电源设计软件 PI Expert Suite V103"
 date:   2023-01-20
 tags: [软件,设计,开关电源,PI,Expert]
 comments: true

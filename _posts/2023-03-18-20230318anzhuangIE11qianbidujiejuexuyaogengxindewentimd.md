@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装IE11前必读：解决“需要更新”的问题"
+title: "安装IE11前必读解决需要更新的问题"
 date:   2022-09-19
 tags: [IE11,补丁,安装,更新,Windows]
 comments: true

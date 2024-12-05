@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Vivado SDK 2019.1 下载链接"
+title: "Xilinx Vivado SDK 20191 下载链接"
 date:   2020-03-31
 tags: [Xilinx,下载,链接,Vivado,SDK]
 comments: true

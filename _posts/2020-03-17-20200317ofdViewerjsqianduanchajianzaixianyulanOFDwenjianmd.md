@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ofdViewer.js前端插件：在线预览OFD文件"
+title: "ofdViewerjs前端插件在线预览OFD文件"
 date:   2022-04-28
 tags: [插件,OFD,预览,ofdViewer,js]
 comments: true

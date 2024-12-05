@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADB安装与使用教程：小米手机连接ADB实例演示"
+title: "ADB安装与使用教程小米手机连接ADB实例演示"
 date:   2024-04-08
 tags: [ADB,小米,手机,连接,安装]
 comments: true

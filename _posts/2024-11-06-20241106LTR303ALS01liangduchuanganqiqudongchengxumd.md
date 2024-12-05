@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTR-303ALS-01 亮度传感器驱动程序"
+title: "LTR303ALS01 亮度传感器驱动程序"
 date:   2021-05-23
 tags: [驱动程序,文档,LTR,303ALS,01]
 comments: true

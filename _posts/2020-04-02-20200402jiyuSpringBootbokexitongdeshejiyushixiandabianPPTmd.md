@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring Boot博客系统的设计与实现 - 答辩PPT"
+title: "基于Spring Boot博客系统的设计与实现  答辩PPT"
 date:   2024-06-15
 tags: [PPT,答辩,Spring,Boot,博客]
 comments: true

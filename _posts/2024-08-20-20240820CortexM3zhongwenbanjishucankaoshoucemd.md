@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M3（中文版）技术参考手册"
+title: "CortexM3中文版技术参考手册"
 date:   2023-07-24
 tags: [Cortex,M3,参考手册,本手册,嵌入式]
 comments: true

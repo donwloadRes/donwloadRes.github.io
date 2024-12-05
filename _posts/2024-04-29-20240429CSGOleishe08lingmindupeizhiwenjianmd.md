@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSGO 雷蛇0.8灵敏度配置文件"
+title: "CSGO 雷蛇08灵敏度配置文件"
 date:   2024-06-06
 tags: [配置文件,0.8,CSGO,雷蛇,鼠标]
 comments: true

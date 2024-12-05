@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink实现随机方波到随机三角波转换（附MATLAB代码）"
+title: "Simulink实现随机方波到随机三角波转换附MATLAB代码"
 date:   2022-08-28
 tags: [随机,方波,Simulink,采样,转换]
 comments: true

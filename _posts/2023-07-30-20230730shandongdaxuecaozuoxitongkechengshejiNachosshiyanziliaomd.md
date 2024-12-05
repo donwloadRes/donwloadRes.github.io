@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学操作系统课程设计 - Nachos 实验资料"
+title: "山东大学操作系统课程设计  Nachos 实验资料"
 date:   2022-10-31
 tags: [Nachos,操作系统,实验,课程设计,编译]
 comments: true

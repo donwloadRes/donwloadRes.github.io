@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6的ADC+DMA实现"
+title: "基于STM32F103C8T6的ADCDMA实现"
 date:   2021-01-14
 tags: [ADC,DMA,STM32F103C8T6,光敏,传感器]
 comments: true

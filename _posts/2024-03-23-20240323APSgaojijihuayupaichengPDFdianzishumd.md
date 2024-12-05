@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APS高级计划与排程(PDF电子书)"
+title: "APS高级计划与排程PDF电子书"
 date:   2023-05-20
 tags: [APS,排程,PDF,供应链,计划]
 comments: true

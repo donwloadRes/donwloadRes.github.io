@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA实现Modbus RTU或Modbus TCP-IP数据采集"
+title: "JAVA实现Modbus RTU或Modbus TCPIP数据采集"
 date:   2023-09-04
 tags: [Modbus,线程,多线程,同步,Java]
 comments: true

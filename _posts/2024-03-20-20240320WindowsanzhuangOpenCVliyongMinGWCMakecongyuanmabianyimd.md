@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows安装OpenCV——利用MinGW+CMake从源码编译"
+title: "Windows安装OpenCV利用MinGWCMake从源码编译"
 date:   2022-09-18
 tags: [OpenCV,编译,安装,CMake,contrib]
 comments: true

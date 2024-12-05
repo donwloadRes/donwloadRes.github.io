@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM3886双声道2x68W高保真功放PCB+原理图"
+title: "LM3886双声道2x68W高保真功放PCB原理图"
 date:   2024-11-20
 tags: [PCB,原理图,双声道,LM3886,跳线]
 comments: true

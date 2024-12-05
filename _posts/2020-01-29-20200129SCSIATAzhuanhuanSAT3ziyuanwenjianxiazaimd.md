@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCSI ATA 转换（SAT3）资源文件下载"
+title: "SCSI ATA 转换SAT3资源文件下载"
 date:   2022-04-20
 tags: [SAT3,SCSI,ATA,文件,资源]
 comments: true

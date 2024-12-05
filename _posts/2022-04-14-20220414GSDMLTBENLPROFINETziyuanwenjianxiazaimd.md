@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSDML-TBEN-L-PROFINET 资源文件下载"
+title: "GSDMLTBENLPROFINET 资源文件下载"
 date:   2022-10-03
 tags: [TBEN,Turck,GSDML,V2.3,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neuracle EEG RecorderV2与eeglab14_1_2b工具箱资源下载"
+title: "Neuracle EEG RecorderV2与eeglab1412b工具箱资源下载"
 date:   2023-11-11
 tags: [工具箱,EEG,eeglab14,2b,Neuracle]
 comments: true

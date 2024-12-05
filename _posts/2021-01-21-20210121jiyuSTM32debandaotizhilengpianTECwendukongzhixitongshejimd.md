@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的半导体制冷片(TEC)温度控制系统设计"
+title: "基于STM32的半导体制冷片TEC温度控制系统设计"
 date:   2022-03-23
 tags: [STM32,TEC,制冷,温度控制,温度]
 comments: true

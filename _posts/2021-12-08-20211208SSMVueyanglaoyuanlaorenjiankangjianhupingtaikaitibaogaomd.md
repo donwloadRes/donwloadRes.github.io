@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSM+Vue养老院老人健康监护平台开题报告"
+title: "SSMVue养老院老人健康监护平台开题报告"
 date:   2021-08-13
 tags: [开题,监护,养老院,SSM,Vue]
 comments: true

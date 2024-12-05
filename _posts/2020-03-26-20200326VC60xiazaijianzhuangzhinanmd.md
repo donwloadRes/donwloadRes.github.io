@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC6.0下载及安装指南"
+title: "VC60下载及安装指南"
 date:   2024-08-01
 tags: [VC6.0,安装,Windows,安装包,C++]
 comments: true

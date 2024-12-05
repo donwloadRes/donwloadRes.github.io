@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UN Regulation No.155 - 汽车网络安全与管理标准"
+title: "UN Regulation No155  汽车网络安全与管理标准"
 date:   2021-12-15
 tags: [网络安全,车辆,法规,No.155,L6]
 comments: true

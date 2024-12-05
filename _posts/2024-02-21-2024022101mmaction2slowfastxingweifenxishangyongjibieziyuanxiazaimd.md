@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "01【mmaction2 slowfast 行为分析(商用级别)】资源下载"
+title: "01mmaction2 slowfast 行为分析商用级别资源下载"
 date:   2022-06-19
 tags: [模型,训练,资源,mmaction2,数据]
 comments: true

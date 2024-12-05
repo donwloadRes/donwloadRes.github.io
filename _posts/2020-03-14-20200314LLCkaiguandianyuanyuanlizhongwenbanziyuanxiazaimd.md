@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LLC开关电源原理(中文版) 资源下载"
+title: "LLC开关电源原理中文版 资源下载"
 date:   2022-08-16
 tags: [开关电源,LLC,中文版,原理,文件]
 comments: true

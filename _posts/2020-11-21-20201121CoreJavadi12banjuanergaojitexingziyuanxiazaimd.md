@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Core Java 第12版卷二：高级特性资源下载"
+title: "Core Java 第12版卷二高级特性资源下载"
 date:   2020-11-27
 tags: [Java,编程,PDF,资源,Core]
 comments: true

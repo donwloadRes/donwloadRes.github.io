@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rapid SCADA示例：Modbus和MQTT"
+title: "Rapid SCADA示例Modbus和MQTT"
 date:   2020-08-05
 tags: [Rapid,SCADA,Modbus,MQTT,配置]
 comments: true

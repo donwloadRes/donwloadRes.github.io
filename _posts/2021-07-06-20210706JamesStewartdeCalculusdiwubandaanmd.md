@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "James Stewart的Calculus》第五版答案"
+title: "James Stewart的Calculus第五版答案"
 date:   2021-12-02
 tags: [第五版,Calculus,学习,答案,微积分]
 comments: true

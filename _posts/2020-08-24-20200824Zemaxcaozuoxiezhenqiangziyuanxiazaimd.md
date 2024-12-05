@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zemax操作--谐振腔资源下载"
+title: "Zemax操作谐振腔资源下载"
 date:   2024-04-27
 tags: [Zemax,谐振腔,文件,--,下载]
 comments: true

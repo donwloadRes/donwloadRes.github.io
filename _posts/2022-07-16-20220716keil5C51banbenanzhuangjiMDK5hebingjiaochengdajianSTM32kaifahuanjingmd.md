@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "keil5 C51版本安装及MDK5合并教程 - 搭建STM32开发环境"
+title: "keil5 C51版本安装及MDK5合并教程  搭建STM32开发环境"
 date:   2022-08-27
 tags: [C51,STM32,ARM,安装,Keil]
 comments: true

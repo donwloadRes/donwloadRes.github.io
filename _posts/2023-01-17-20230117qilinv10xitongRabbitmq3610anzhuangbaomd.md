@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟v10系统Rabbitmq 3.6.10安装包"
+title: "麒麟v10系统Rabbitmq 3610安装包"
 date:   2022-01-15
 tags: [安装包,v10,10,ky10,3.6]
 comments: true

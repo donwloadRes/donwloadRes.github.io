@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络工程师（中级）知识点记录"
+title: "网络工程师中级知识点记录"
 date:   2024-05-06
 tags: [知识点,网络,工程师,中级,资源]
 comments: true

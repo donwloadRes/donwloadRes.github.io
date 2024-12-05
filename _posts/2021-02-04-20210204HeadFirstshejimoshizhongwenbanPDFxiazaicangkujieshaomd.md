@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First设计模式（中文版）PDF 下载仓库介绍"
+title: "Head First设计模式中文版PDF 下载仓库介绍"
 date:   2021-02-05
 tags: [设计模式,PDF,中文版,Head,First]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学(第二版)最全课后习题答案详解"
+title: "离散数学第二版最全课后习题答案详解"
 date:   2021-10-02
 tags: [离散数学,课后,习题,复习,最全]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++串口读写实例源代码"
+title: "C串口读写实例源代码"
 date:   2022-09-05
 tags: [串口,源代码,C++,数据,解析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生产制造执行管理系统（MES）解决方案"
+title: "生产制造执行管理系统MES解决方案"
 date:   2024-11-05
 tags: [MES,生产,解决方案,响应,管理系统]
 comments: true

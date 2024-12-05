@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL2303HXA 自2012已停产，请联系供货商"
+title: "PL2303HXA 自2012已停产请联系供货商"
 date:   2022-06-01
 tags: [PL2303HXA,供货商,2012,停产,联系]
 comments: true

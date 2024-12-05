@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5880-2006军用软件配置管理资源下载"
+title: "GJB 58802006军用软件配置管理资源下载"
 date:   2021-03-24
 tags: [软件配置管理,军用,2006,文件,GJB]
 comments: true

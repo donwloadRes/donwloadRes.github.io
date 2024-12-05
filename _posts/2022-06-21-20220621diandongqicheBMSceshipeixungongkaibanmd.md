@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动汽车BMS测试培训(公开版)"
+title: "电动汽车BMS测试培训公开版"
 date:   2024-10-10
 tags: [BMS,测试方法,电动汽车,管理系统,电池]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 软件试用期设置实现"
+title: "C 软件试用期设置实现"
 date:   2024-03-18
 tags: [试用期,软件,注册表,已过期,实现]
 comments: true

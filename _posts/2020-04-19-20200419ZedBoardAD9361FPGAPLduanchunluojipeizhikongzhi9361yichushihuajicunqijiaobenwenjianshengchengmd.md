@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZedBoard+AD9361 FPGA PL端纯逻辑配置控制9361（一）：初始化寄存器脚本文件生成"
+title: "ZedBoardAD9361 FPGA PL端纯逻辑配置控制9361一初始化寄存器脚本文件生成"
 date:   2022-05-21
 tags: [FPGA,配置,脚本,AD9361,文件]
 comments: true

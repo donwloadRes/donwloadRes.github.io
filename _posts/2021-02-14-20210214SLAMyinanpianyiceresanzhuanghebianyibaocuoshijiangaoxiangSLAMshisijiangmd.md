@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLAM疑难篇一：ceres安装和编译报错——实践高翔SLAM十四讲"
+title: "SLAM疑难篇一ceres安装和编译报错实践高翔SLAM十四讲"
 date:   2022-02-20
 tags: [Ceres,编译,SLAM,安装,报错]
 comments: true

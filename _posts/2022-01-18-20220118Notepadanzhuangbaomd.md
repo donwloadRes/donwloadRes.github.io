@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 安装包"
+title: "Notepad 安装包"
 date:   2024-08-21
 tags: [安装包,Notepad,++,Plugin,Manager]
 comments: true

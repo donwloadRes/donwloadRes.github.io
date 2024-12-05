@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3.x + ElementPlus + Swiper + Vuedraggable 自定义装修页面资源文件"
+title: "Vue3x  ElementPlus  Swiper  Vuedraggable 自定义装修页面资源文件"
 date:   2020-03-19
 tags: [示例,自定义,页面,文件,组件]
 comments: true

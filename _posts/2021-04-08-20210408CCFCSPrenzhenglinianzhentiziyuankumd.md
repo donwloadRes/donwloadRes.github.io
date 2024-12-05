@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF-CSP认证历年真题资源库"
+title: "CCFCSP认证历年真题资源库"
 date:   2021-02-18
 tags: [复习,CSP,真题,CCF,考生]
 comments: true

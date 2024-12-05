@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抢滩登陆-秘籍资源文件介绍"
+title: "抢滩登陆秘籍资源文件介绍"
 date:   2022-03-22
 tags: [游戏,文件,抢滩,资源,秘籍]
 comments: true

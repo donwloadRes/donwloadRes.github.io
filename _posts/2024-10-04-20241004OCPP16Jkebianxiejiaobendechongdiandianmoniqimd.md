@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 1.6J 可编写脚本的充电点模拟器"
+title: "OCPP 16J 可编写脚本的充电点模拟器"
 date:   2021-08-13
 tags: [OCPP,1.6,模拟器,支持,JavaScript]
 comments: true

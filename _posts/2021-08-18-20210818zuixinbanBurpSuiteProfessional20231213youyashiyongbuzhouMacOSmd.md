@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版 Burp Suite Professional 2023.12.1.3 优雅使用步骤【MacOS】"
+title: "最新版 Burp Suite Professional 20231213 优雅使用步骤MacOS"
 date:   2023-08-31
 tags: [Burp,Suite,Professional,app,1.3]
 comments: true

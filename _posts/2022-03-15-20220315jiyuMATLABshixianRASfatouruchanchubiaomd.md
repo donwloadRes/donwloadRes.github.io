@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB实现RAS法（投入产出表）"
+title: "基于MATLAB实现RAS法投入产出表"
 date:   2022-02-24
 tags: [RAS,投入产出,MATLAB,数据格式,代码]
 comments: true

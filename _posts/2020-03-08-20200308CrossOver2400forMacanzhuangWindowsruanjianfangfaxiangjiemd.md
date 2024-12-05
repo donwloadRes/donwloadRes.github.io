@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrossOver 24.0.0 for Mac 安装 Windows 软件方法详解"
+title: "CrossOver 2400 for Mac 安装 Windows 软件方法详解"
 date:   2021-11-10
 tags: [Windows,Mac,CrossOver,应用程序,安装]
 comments: true

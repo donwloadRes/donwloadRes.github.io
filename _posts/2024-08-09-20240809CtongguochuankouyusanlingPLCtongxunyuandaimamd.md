@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过串口与三菱PLC通讯源代码"
+title: "C通过串口与三菱PLC通讯源代码"
 date:   2024-06-12
 tags: [串口,PLC,源代码,C#,三菱]
 comments: true

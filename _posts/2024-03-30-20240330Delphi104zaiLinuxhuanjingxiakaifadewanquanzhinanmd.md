@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.4 在Linux环境下开发的完全指南"
+title: "Delphi 104 在Linux环境下开发的完全指南"
 date:   2024-06-04
 tags: [Linux,Delphi,10.4,环境,开发]
 comments: true

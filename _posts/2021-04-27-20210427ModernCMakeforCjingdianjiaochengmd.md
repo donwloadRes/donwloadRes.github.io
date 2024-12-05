@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modern CMake for C++: 经典教程"
+title: "Modern CMake for C 经典教程"
 date:   2023-08-04
 tags: [CMake,教程,C++,下载,开发者]
 comments: true

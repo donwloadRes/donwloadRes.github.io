@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6生成二维码：纯代码实现，无需控件"
+title: "VB6生成二维码纯代码实现无需控件"
 date:   2022-02-20
 tags: [VB6,二维码,控件,生成,开发者]
 comments: true

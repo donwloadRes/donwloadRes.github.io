@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOGAF 9.1 中文电子版"
+title: "TOGAF 91 中文电子版"
 date:   2021-06-28
 tags: [架构,TOGAF,电子版,9.1,中文]
 comments: true

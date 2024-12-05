@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KNX编程软件 ETS6 Professional 版本 6.0.6 下载"
+title: "KNX编程软件 ETS6 Professional 版本 606 下载"
 date:   2024-11-08
 tags: [KNX,软件,Windows,USB,硬件]
 comments: true

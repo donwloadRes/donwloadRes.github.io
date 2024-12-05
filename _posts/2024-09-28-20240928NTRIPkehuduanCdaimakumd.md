@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NTRIP客户端C++代码库"
+title: "NTRIP客户端C代码库"
 date:   2023-03-15
 tags: [代码,NTRIP,C++,caster,编译]
 comments: true

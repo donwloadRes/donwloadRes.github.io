@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pyautotrade_tdx: 股票自动化交易工具"
+title: "pyautotradetdx 股票自动化交易工具"
 date:   2022-01-09
 tags: [pyautotrade,交易,tdx,Python,股票]
 comments: true

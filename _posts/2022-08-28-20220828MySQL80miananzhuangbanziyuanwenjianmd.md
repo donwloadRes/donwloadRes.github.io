@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 免安装版资源文件"
+title: "MySQL 80 免安装版资源文件"
 date:   2021-07-05
 tags: [MySQL,解压,文件,安装版,root]
 comments: true

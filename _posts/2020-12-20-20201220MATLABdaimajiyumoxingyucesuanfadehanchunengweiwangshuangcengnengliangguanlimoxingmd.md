@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于模型预测算法的含储能微网双层能量管理模型"
+title: "MATLAB代码基于模型预测算法的含储能微网双层能量管理模型"
 date:   2023-03-22
 tags: [微网,模型,代码,储能,最小化]
 comments: true

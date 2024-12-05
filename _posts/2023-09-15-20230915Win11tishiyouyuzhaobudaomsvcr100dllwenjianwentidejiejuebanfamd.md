@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11提示由于找不到msvcr100.dll文件问题的解决办法"
+title: "Win11提示由于找不到msvcr100dll文件问题的解决办法"
 date:   2021-11-13
 tags: [dll,msvcr100,文件,Windows,Win11]
 comments: true

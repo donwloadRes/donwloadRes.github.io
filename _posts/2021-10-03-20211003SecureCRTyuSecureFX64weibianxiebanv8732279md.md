@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT与SecureFX 64位便携版 v8.7.3.2279"
+title: "SecureCRT与SecureFX 64位便携版 v8732279"
 date:   2023-06-09
 tags: [SecureCRT,SecureFX,便携,3.2279,远程]
 comments: true

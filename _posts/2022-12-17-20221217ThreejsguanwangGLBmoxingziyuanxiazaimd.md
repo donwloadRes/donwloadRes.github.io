@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 官网 GLB 模型资源下载"
+title: "Threejs 官网 GLB 模型资源下载"
 date:   2021-07-01
 tags: [官网,GLB,模型,文件,Three]
 comments: true

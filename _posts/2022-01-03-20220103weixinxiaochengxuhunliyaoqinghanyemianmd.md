@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序-婚礼邀请函页面"
+title: "微信小程序婚礼邀请函页面"
 date:   2021-09-07
 tags: [微信,婚礼,页面,邀请函,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "湖南省乡镇级区划图（SHP格式）"
+title: "湖南省乡镇级区划图SHP格式"
 date:   2023-01-18
 tags: [SHP,乡镇级,湖南省,区划图,GIS]
 comments: true

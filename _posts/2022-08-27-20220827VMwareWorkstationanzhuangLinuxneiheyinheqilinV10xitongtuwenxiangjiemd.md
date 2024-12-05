@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation安装(Linux内核)银河麒麟V10系统图文详解"
+title: "VMware Workstation安装Linux内核银河麒麟V10系统图文详解"
 date:   2023-12-10
 tags: [V10,安装,虚拟机,麒麟,银河]
 comments: true

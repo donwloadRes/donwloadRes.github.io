@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线版Android人脸检测、识别与活体检测SDK封装交流"
+title: "离线版Android人脸检测识别与活体检测SDK封装交流"
 date:   2024-10-23
 tags: [活体,检测,SDK,人脸识别,人脸]
 comments: true

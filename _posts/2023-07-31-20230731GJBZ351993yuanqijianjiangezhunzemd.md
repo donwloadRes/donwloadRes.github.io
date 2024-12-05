@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB-Z 35-1993 元器件降额准则"
+title: "GJBZ 351993 元器件降额准则"
 date:   2021-09-30
 tags: [降额,元器件,准则,GJB,1993]
 comments: true

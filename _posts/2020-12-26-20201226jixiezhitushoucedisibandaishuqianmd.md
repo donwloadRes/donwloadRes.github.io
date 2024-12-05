@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械制图手册 (第四版) (带书签)"
+title: "机械制图手册 第四版 带书签"
 date:   2023-01-09
 tags: [第四版,机械设计,机械制图,书签,手册]
 comments: true

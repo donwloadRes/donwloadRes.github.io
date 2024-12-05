@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UA-DETRAC BITVehicle车辆检测数据集"
+title: "UADETRAC BITVehicle车辆检测数据集"
 date:   2020-09-30
 tags: [数据,类别,标注,车辆,检测]
 comments: true

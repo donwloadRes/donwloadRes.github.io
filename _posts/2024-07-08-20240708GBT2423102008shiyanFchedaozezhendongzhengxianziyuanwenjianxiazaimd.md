@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T2423.10-2008试验Fc和导则：振动（正弦）资源文件下载"
+title: "GBT2423102008试验Fc和导则振动正弦资源文件下载"
 date:   2021-07-23
 tags: [GB,T2423.10,2008,导则,正弦]
 comments: true

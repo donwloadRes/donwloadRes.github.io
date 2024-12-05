@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 22H2 X64 官方正式版【四月更新】"
+title: "Windows 10 22H2 X64 官方正式版四月更新"
 date:   2021-05-05
 tags: [安装,更新,Windows,正式版,硬盘]
 comments: true

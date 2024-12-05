@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L18050清零软件+图解"
+title: "爱普生L18050清零软件图解"
 date:   2024-09-01
 tags: [清零,软件,图解,下载,爱普生]
 comments: true

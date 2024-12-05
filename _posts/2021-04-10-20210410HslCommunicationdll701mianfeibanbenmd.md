@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HslCommunication.dll 7.0.1 免费版本"
+title: "HslCommunicationdll 701 免费版本"
 date:   2024-01-07
 tags: [HslCommunication,版本,dll,7.0,Visual]
 comments: true

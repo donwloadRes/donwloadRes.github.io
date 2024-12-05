@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SW材质库 - GB有限元材料489种材质"
+title: "SW材质库  GB有限元材料489种材质"
 date:   2021-12-15
 tags: [材质,材质库,有限元,SolidWorks,GB]
 comments: true

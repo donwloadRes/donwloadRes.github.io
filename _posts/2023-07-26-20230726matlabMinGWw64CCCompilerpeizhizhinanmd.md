@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "matlab MinGW-w64 C-C++ Compiler配置指南"
+title: "matlab MinGWw64 CC Compiler配置指南"
 date:   2020-06-24
 tags: [MATLAB,编译器,MinGW,w64,配置]
 comments: true

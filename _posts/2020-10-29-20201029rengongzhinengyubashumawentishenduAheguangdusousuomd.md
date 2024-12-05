@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能与八数码问题：深度、A和广度搜索"
+title: "人工智能与八数码问题深度A和广度搜索"
 date:   2022-07-09
 tags: [搜索,搜索算法,数码,人工智能,优先]
 comments: true

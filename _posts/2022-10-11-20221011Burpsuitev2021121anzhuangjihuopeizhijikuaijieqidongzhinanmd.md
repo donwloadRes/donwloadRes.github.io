@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Burpsuite v2021.12.1 安装、激活、配置及快捷启动指南"
+title: "Burpsuite v2021121 安装激活配置及快捷启动指南"
 date:   2023-09-03
 tags: [Burpsuite,激活,启动,JDK11,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinServer2008 R2 SP1 补丁包 - windows6.1-KB976932-X64"
+title: "WinServer2008 R2 SP1 补丁包  windows61KB976932X64"
 date:   2021-06-24
 tags: [安装,R2,SP1,windows6.1,KB976932]
 comments: true

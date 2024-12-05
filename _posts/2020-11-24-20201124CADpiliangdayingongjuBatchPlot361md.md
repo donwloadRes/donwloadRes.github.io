@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD批量打印工具 - BatchPlot 3.6.1"
+title: "CAD批量打印工具  BatchPlot 361"
 date:   2020-01-03
 tags: [打印,CAD,批量,BatchPlot,3.6]
 comments: true

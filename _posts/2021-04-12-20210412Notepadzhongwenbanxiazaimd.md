@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 中文版下载"
+title: "Notepad 中文版下载"
 date:   2020-02-03
 tags: [Notepad,++,中文版,下载,安装]
 comments: true

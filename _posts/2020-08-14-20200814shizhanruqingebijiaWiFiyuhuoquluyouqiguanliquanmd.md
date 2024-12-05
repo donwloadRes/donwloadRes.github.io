@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战！入侵隔壁家WiFi与获取路由器管理权！"
+title: "实战入侵隔壁家WiFi与获取路由器管理权"
 date:   2024-11-05
 tags: [路由器,WiFi,获取,密码,网卡]
 comments: true

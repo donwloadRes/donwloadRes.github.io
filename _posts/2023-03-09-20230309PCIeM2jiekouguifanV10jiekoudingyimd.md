@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe-M.2 接口规范 V1.0 接口定义"
+title: "PCIeM2 接口规范 V10 接口定义"
 date:   2020-09-28
 tags: [PCIe,M.2,接口,文件,V1.0]
 comments: true

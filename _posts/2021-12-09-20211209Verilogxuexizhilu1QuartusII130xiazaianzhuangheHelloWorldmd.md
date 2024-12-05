@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog学习之路（1）— Quartus II 13.0下载安装和HelloWorld"
+title: "Verilog学习之路1 Quartus II 130下载安装和HelloWorld"
 date:   2021-08-25
 tags: [Quartus,II,13.0,安装,仿真]
 comments: true

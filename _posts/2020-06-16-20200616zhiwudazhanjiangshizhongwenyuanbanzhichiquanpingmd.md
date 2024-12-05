@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸 中文原版（支持全屏）"
+title: "植物大战僵尸 中文原版支持全屏"
 date:   2022-04-23
 tags: [游戏,全屏,原版,中文,僵尸]
 comments: true

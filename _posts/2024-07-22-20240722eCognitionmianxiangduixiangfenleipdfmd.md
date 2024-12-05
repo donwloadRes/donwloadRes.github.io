@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eCognition面向对象分类.pdf"
+title: "eCognition面向对象分类pdf"
 date:   2021-08-16
 tags: [eCognition,面向对象,分类,遥感,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++校园超市商品信息管理系统"
+title: "CC校园超市商品信息管理系统"
 date:   2024-11-05
 tags: [商品信息,用户,C++,商品编号,商品]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVE工具下载链接(学网络用)"
+title: "EVE工具下载链接学网络用"
 date:   2021-11-06
 tags: [模拟器,EVE,网络,学习,搭建]
 comments: true

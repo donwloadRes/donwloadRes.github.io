@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT9818 6-18节串联电池高性能保护芯片资料"
+title: "MT9818 618节串联电池高性能保护芯片资料"
 date:   2023-02-05
 tags: [MT9818,芯片,18,电池,串联]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB R2022a 安装教程(超详细！附下载链接）"
+title: "MATLAB R2022a 安装教程超详细附下载链接"
 date:   2023-10-04
 tags: [MATLAB,R2022a,安装,教程,常见问题]
 comments: true

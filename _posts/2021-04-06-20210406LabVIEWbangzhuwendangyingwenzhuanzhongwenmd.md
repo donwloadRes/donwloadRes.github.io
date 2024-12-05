@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW帮助文档：英文转中文"
+title: "LabVIEW帮助文档英文转中文"
 date:   2020-01-28
 tags: [LabVIEW,文档,中文,帮助,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "六西格玛（6σ）手册下载仓库"
+title: "六西格玛6手册下载仓库"
 date:   2024-06-07
 tags: [六西格玛,手册,PDF,绿带,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200与EPSON机器人TCPIP通讯资源文件介绍"
+title: "S71200与EPSON机器人TCPIP通讯资源文件介绍"
 date:   2023-03-17
 tags: [S7,1200,EPSON,通讯,机器人]
 comments: true

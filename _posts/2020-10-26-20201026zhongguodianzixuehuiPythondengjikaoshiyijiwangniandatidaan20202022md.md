@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国电子学会Python等级考试一级往年大题答案（2020-2022）"
+title: "中国电子学会Python等级考试一级往年大题答案20202022"
 date:   2023-05-13
 tags: [Python,考试,2020,2022,答案]
 comments: true

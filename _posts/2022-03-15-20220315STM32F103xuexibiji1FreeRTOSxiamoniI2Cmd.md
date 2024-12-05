@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记（1）——FreeRTOS下模拟I2C"
+title: "STM32F103学习笔记1FreeRTOS下模拟I2C"
 date:   2021-05-30
 tags: [FreeRTOS,I2C,STM32F103,笔记,代码]
 comments: true

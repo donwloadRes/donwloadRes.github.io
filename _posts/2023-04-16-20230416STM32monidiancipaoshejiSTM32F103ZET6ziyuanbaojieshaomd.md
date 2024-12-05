@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32模拟电磁炮设计_STM32F103ZET6资源包介绍"
+title: "STM32模拟电磁炮设计STM32F103ZET6资源包介绍"
 date:   2024-09-14
 tags: [STM32,电磁炮,设计,STM32F103ZET6,原理图]
 comments: true

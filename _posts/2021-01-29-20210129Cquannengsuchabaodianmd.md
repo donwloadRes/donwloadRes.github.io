@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#全能速查宝典"
+title: "C全能速查宝典"
 date:   2023-10-27
 tags: [控件,C#,编程,速查,Windows]
 comments: true

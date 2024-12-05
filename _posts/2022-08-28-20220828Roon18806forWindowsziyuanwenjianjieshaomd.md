@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roon 1.8(806) for Windows 资源文件介绍"
+title: "Roon 18806 for Windows 资源文件介绍"
 date:   2022-02-24
 tags: [Roon,Windows,文件,1.8,806]
 comments: true

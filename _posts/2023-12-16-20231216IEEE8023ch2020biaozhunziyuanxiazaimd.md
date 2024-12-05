@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3ch-2020 标准资源下载"
+title: "IEEE 8023ch2020 标准资源下载"
 date:   2020-05-26
 tags: [2020,IEEE,802.3,ch,下载]
 comments: true

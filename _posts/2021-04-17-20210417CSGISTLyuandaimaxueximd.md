@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ SGI STL源代码学习"
+title: "C SGI STL源代码学习"
 date:   2024-04-20
 tags: [STL,C++,源代码,SGI,源码]
 comments: true

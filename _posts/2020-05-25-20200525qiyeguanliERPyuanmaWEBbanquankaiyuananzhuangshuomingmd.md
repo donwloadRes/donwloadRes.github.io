@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业管理ERP源码（WEB版）全开源+安装说明"
+title: "企业管理ERP源码WEB版全开源安装说明"
 date:   2022-10-27
 tags: [数据库,源码,系统,文档,ERP]
 comments: true

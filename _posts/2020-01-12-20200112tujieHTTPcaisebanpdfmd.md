@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图解HTTP-彩色版.pdf"
+title: "图解HTTP彩色版pdf"
 date:   2020-05-09
 tags: [HTTP,图解,彩色版,HTTPS,协议]
 comments: true

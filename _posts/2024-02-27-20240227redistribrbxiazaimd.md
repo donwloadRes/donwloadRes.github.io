@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "redis-trib.rb 下载"
+title: "redistribrb 下载"
 date:   2022-12-07
 tags: [redis,trib,rb,集群,Redis]
 comments: true

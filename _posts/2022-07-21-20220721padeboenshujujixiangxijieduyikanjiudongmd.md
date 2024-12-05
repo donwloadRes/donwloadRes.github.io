@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "帕德博恩数据集详细解读（一看就懂）"
+title: "帕德博恩数据集详细解读一看就懂"
 date:   2021-08-13
 tags: [帕德博恩,数据,详细,解读,资源]
 comments: true

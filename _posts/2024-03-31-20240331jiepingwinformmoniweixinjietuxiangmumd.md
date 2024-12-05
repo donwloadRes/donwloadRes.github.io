@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "截屏(winform)模拟微信截图项目"
+title: "截屏winform模拟微信截图项目"
 date:   2023-02-11
 tags: [截图,微信,C#,项目,Windows]
 comments: true

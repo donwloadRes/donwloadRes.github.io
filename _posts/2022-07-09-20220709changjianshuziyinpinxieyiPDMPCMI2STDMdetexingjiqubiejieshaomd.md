@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常见数字音频协议（PDM-PCM-I2S-TDM）的特性及区别介绍"
+title: "常见数字音频协议PDMPCMI2STDM的特性及区别介绍"
 date:   2020-07-03
 tags: [数字音频,传输,PDM,PCM,TDM]
 comments: true

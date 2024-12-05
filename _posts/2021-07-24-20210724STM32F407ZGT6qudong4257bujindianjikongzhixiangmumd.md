@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6驱动42-57步进电机控制项目"
+title: "STM32F407ZGT6驱动4257步进电机控制项目"
 date:   2020-06-04
 tags: [电机,步进,STM32F407ZGT6,限位,TB6600]
 comments: true

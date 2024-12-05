@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAMMPS实例教程—In文件详解"
+title: "LAMMPS实例教程In文件详解"
 date:   2022-07-04
 tags: [LAMMPS,专题,教程,模拟,文件]
 comments: true

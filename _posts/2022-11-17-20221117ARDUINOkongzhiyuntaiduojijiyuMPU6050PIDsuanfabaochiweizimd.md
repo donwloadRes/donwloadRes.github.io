@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARDUINO控制云台舵机：基于MPU6050+PID算法保持位姿"
+title: "ARDUINO控制云台舵机基于MPU6050PID算法保持位姿"
 date:   2020-02-03
 tags: [PID,MPU6050,舵机,err,leijia]
 comments: true

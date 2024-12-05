@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 多年积累的类库集合"
+title: "C 多年积累的类库集合"
 date:   2021-07-07
 tags: [类库,C#,操作,示例,集合]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知识图谱实战：Neo4j入门与示例"
+title: "知识图谱实战Neo4j入门与示例"
 date:   2020-06-19
 tags: [Neo4j,示例,图谱,Cypher,Java]
 comments: true

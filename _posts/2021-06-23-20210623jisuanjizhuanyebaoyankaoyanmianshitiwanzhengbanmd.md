@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机专业保研-考研面试题（完整版）"
+title: "计算机专业保研考研面试题完整版"
 date:   2024-11-23
 tags: [面试题,考研,保研,面试,计算机科学]
 comments: true

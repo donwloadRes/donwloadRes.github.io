@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装教程：在Windows环境下安装虚拟机以体验FusionOS"
+title: "安装教程在Windows环境下安装虚拟机以体验FusionOS"
 date:   2021-03-09
 tags: [虚拟机,FusionOS,安装,Windows,体验]
 comments: true

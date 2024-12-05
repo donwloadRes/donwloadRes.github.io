@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDR2024免费永久无限版下载 —— CorelDRAW安装包分享"
+title: "CDR2024免费永久无限版下载  CorelDRAW安装包分享"
 date:   2021-10-27
 tags: [CorelDRAW,2024,软件,设计,下载]
 comments: true

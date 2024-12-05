@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 3.5 下载及安装指南"
+title: "Android Studio 35 下载及安装指南"
 date:   2021-01-12
 tags: [Android,Studio,安装,3.5,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年最新Visual Studio Code（VSCode）资源指南"
+title: "2023年最新Visual Studio CodeVSCode资源指南"
 date:   2020-07-20
 tags: [VSCode,zip,代码,扩展,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士PLC-EtherCAT三十一轴控制案例程序"
+title: "基恩士PLCEtherCAT三十一轴控制案例程序"
 date:   2024-04-07
 tags: [PLC,基恩,人机界面,程序,BOM]
 comments: true

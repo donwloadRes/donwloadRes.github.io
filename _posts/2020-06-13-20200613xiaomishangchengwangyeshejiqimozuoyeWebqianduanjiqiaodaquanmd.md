@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米商城网页设计期末作业：Web 前端技巧大全"
+title: "小米商城网页设计期末作业Web 前端技巧大全"
 date:   2021-01-04
 tags: [CSS,HTML,网页,页面,设计]
 comments: true

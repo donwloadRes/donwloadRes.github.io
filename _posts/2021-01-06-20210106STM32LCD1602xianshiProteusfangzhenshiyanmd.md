@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-LCD1602显示Proteus仿真实验"
+title: "STM32LCD1602显示Proteus仿真实验"
 date:   2020-08-18
 tags: [仿真,STM32,LCD1602,Proteus,电路图]
 comments: true

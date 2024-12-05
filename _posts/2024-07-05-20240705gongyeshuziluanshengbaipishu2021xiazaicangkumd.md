@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业数字孪生白皮书 (2021) 下载仓库"
+title: "工业数字孪生白皮书 2021 下载仓库"
 date:   2022-11-25
 tags: [孪生,白皮书,2021,数字,文件]
 comments: true

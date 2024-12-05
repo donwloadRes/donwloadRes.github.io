@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JPEG2000图像压缩基础、标准和实践——部分2.pdf 下载仓库"
+title: "JPEG2000图像压缩基础标准和实践部分2pdf 下载仓库"
 date:   2020-06-29
 tags: [JPEG2000,图像压缩,pdf,文件,实践]
 comments: true

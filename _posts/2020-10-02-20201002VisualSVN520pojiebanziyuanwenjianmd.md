@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualSVN-5.2.0破解版资源文件"
+title: "VisualSVN520破解版资源文件"
 date:   2024-04-16
 tags: [文件,VisualSVN,TortoiseSVN,破解,5.2]
 comments: true

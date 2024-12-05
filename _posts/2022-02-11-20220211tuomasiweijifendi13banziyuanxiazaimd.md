@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "托马斯微积分（第13版）资源下载"
+title: "托马斯微积分第13版资源下载"
 date:   2024-09-11
 tags: [微积分,13,练习题,读者,托马斯]
 comments: true

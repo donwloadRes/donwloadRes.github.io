@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "力学（理论力学部分）（梁昆淼）"
+title: "力学理论力学部分梁昆淼"
 date:   2024-04-06
 tags: [力学,PDF,梁昆淼,解压,理论]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最强悍-15本最佳的Linux从新手到高手速成培训书籍集合"
+title: "史上最强悍15本最佳的Linux从新手到高手速成培训书籍集合"
 date:   2020-05-25
 tags: [Linux,pdf,高手,学习,系统]
 comments: true

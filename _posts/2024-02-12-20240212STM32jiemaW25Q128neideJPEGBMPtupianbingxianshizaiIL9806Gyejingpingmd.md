@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32解码W25Q128内的JPEG-BMP图片并显示在IL9806G液晶屏"
+title: "STM32解码W25Q128内的JPEGBMP图片并显示在IL9806G液晶屏"
 date:   2024-09-01
 tags: [STM32,W25Q128,液晶屏,闪存,解码]
 comments: true

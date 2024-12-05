@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ibaPDA-V6中文版手册下载"
+title: "ibaPDAV6中文版手册下载"
 date:   2021-03-13
 tags: [ibaPDA,中文版,V6,ibaAnalyzer,手册]
 comments: true

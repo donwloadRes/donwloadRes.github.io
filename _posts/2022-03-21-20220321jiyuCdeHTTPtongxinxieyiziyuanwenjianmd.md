@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的HTTP通信协议资源文件"
+title: "基于C的HTTP通信协议资源文件"
 date:   2022-07-03
 tags: [HTTP,C#,示例,文件,通信协议]
 comments: true

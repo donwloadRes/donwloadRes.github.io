@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页设计期末作业资源分享：涵盖完整流程"
+title: "网页设计期末作业资源分享涵盖完整流程"
 date:   2021-07-24
 tags: [网页,设计,前端开发,项目,学习]
 comments: true

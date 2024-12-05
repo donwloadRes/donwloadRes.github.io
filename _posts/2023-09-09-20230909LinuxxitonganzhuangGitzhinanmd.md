@@ -1,6 +1,65 @@
 ---
 layout: post
-title: "Linux系统安装Git指南"
+title: "Linux系统安装Git指南
+date   20230620
+tags Gitgitbash安装sudo
+comments true
+author admin
+
+ Linux系统安装Git指南
+
+本文详细介绍了在Linux系统上安装Git的不同方法包括使用包管理器如aptdnfyum和pacman进行安装以及从GitHub下载后手动解压安装的步骤安装完成后文章还指导读者如何配置Git的用户名和邮箱并查看配置信息此外还简要介绍了Git在软件开发中的重要性及其常用版本管理平台
+
+ 一Git的安装方式
+
+ 1 使用包管理器安装
+
+ DebianUbuntu 使用apt命令进行安装
+  bash
+  sudo apt install git
+  
+
+ Fedora 使用dnf命令进行安装
+  bash
+  sudo dnf install git
+  
+
+ CentOSRHEL 使用yum命令进行安装
+  bash
+  sudo yum install git
+  
+
+ Arch Linux 使用pacman命令进行安装
+  bash
+  sudo pacman S git
+  
+
+ 2 从GitHub下载并手动安装
+
+1 下载最新版本的Git压缩包
+2 解压到指定目录例如usr路径下
+   bash
+   tar zxvf git2410targz C usr
+   
+3 进入解压后的目录进行源码编译
+   bash
+   cd usrgit2410
+   sudo make prefixusrlocal all
+   sudo make prefixusrlocal install
+   
+4 编译完成后使用以下命令查看Git版本
+   bash
+   git version
+   
+
+ 二配置Git
+
+ 1 配置用户名和邮箱
+
+在提交代码时Git会使用这些信息进行识别配置命令如下
+bash
+git config global username Your Name
+git config global useremail youremailexamplecom"
 date:   2023-06-20
 tags: [Git,git,bash,安装,sudo]
 comments: true

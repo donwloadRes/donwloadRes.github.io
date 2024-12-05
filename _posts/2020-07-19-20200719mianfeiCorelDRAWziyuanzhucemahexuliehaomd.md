@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费CorelDRAW资源：注册码和序列号"
+title: "免费CorelDRAW资源注册码和序列号"
 date:   2020-12-23
 tags: [CorelDRAW,序列号,注册码,软件,2024]
 comments: true

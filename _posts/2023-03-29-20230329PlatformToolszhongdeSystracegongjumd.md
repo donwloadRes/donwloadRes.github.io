@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Platform-Tools 中的 Systrace 工具"
+title: "PlatformTools 中的 Systrace 工具"
 date:   2024-08-29
 tags: [Systrace,工具,文件,性能,资源]
 comments: true

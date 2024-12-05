@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW AI视觉工具包（非NI Vision）下载与安装教程"
+title: "LabVIEW AI视觉工具包非NI Vision下载与安装教程"
 date:   2023-09-12
 tags: [VIPM,安装,LabVIEW,工具包,视觉]
 comments: true

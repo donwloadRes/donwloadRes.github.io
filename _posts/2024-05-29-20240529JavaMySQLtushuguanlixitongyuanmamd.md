@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL 图书管理系统源码"
+title: "JavaMySQL 图书管理系统源码"
 date:   2024-10-04
 tags: [图书,MySQL,Java,数据库,借阅]
 comments: true

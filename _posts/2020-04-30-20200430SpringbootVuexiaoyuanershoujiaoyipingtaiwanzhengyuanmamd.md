@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot+Vue校园二手交易平台 完整源码"
+title: "SpringbootVue校园二手交易平台 完整源码"
 date:   2023-07-03
 tags: [二手交易,二手物品,校园,Springboot,src]
 comments: true

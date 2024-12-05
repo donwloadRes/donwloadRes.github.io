@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7可用版Kicad8-自己编译打包"
+title: "Win7可用版Kicad8自己编译打包"
 date:   2022-04-09
 tags: [编译,Win7,打包,Kicad8,Windows]
 comments: true

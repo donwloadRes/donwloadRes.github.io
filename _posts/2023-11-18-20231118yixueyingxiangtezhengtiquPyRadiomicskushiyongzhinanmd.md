@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医学影像特征提取：PyRadiomics库使用指南"
+title: "医学影像特征提取PyRadiomics库使用指南"
 date:   2021-10-08
 tags: [path,print,PyRadiomics,特征提取,name]
 comments: true

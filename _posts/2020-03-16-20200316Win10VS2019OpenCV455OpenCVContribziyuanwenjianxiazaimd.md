@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 + VS2019 + OpenCV 4.5.5 + OpenCV_Contrib 资源文件下载"
+title: "Win10  VS2019  OpenCV 455  OpenCVContrib 资源文件下载"
 date:   2024-07-02
 tags: [OpenCV,Visual,Studio,文件,4.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.6 下载与安装教程（超详细）"
+title: "Proteus 86 下载与安装教程超详细"
 date:   2020-02-08
 tags: [安装,文件夹,Proteus,下载,解压]
 comments: true

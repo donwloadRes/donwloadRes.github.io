@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266固件烧录软件flash_download_tools安装指南"
+title: "ESP8266固件烧录软件flashdownloadtools安装指南"
 date:   2024-02-10
 tags: [烧录,ESP8266,安装,固件,flash]
 comments: true

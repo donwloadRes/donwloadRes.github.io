@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML和模式应用(原书第3版) 资源下载"
+title: "UML和模式应用原书第3版 资源下载"
 date:   2022-05-07
 tags: [迭代,UML,面向对象分析,用例,建模]
 comments: true

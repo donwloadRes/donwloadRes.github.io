@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现整数提升5-3小波变换的分解与重构"
+title: "Matlab实现整数提升53小波变换的分解与重构"
 date:   2020-02-23
 tags: [小波,变换,代码,Matlab,重构]
 comments: true

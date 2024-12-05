@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "以色列ELMO驱动器 Gold DC系列手册 - 支持EtherCAT和CAN"
+title: "以色列ELMO驱动器 Gold DC系列手册  支持EtherCAT和CAN"
 date:   2023-09-02
 tags: [驱动器,ELMO,Gold,DC,EtherCAT]
 comments: true

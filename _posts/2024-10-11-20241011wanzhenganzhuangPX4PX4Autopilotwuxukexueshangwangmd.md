@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整安装PX4-PX4-Autopilot，无需科学上网"
+title: "完整安装PX4PX4Autopilot无需科学上网"
 date:   2021-08-12
 tags: [PX4,下载,Autopilot,教程,安装]
 comments: true

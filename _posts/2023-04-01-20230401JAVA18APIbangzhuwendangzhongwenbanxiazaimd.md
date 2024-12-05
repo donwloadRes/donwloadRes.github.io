@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA 1.8 API帮助文档中文版下载"
+title: "JAVA 18 API帮助文档中文版下载"
 date:   2022-09-23
 tags: [文档,API,中文版,JAVA,1.8]
 comments: true

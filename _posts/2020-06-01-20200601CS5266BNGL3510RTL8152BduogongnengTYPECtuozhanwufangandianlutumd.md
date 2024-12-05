@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5266BN+GL3510+RTL8152B多功能TYPEC拓展坞方案电路图"
+title: "CS5266BNGL3510RTL8152B多功能TYPEC拓展坞方案电路图"
 date:   2020-02-21
 tags: [电路图,Type,USB3.0,快充,方案]
 comments: true

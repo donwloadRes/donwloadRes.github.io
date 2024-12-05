@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java JDK 8 帮助文档（中文版，谷歌翻译）"
+title: "Java JDK 8 帮助文档中文版谷歌翻译"
 date:   2021-02-02
 tags: [文档,翻译,文件,谷歌,Java]
 comments: true

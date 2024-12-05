@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MMTool-5.07 刷主板工具"
+title: "MMTool507 刷主板工具"
 date:   2023-09-12
 tags: [主板,MMTool,5.07,NVMe,刷写]
 comments: true

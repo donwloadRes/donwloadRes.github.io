@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "u-center中文用户指南"
+title: "ucenter中文用户指南"
 date:   2024-03-20
 tags: [center,GNSS,指南,用户,评估]
 comments: true

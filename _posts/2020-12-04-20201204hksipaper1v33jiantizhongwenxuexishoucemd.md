@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hksi paper 1 v3.3 简体中文学习手册"
+title: "hksi paper 1 v33 简体中文学习手册"
 date:   2023-09-28
 tags: [手册,考试,学习,简体中文,v3.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery手册下载(CHM版)"
+title: "jQuery手册下载CHM版"
 date:   2024-03-10
 tags: [CHM,jQuery,手册,下载,文件]
 comments: true

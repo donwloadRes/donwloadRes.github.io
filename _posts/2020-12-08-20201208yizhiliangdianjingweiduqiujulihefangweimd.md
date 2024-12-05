@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "已知两点经纬度，求距离和方位"
+title: "已知两点经纬度求距离和方位"
 date:   2020-09-14
 tags: [Qt,计算,距离,经纬度,方位角]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏逆变器简介(完整版)"
+title: "光伏逆变器简介完整版"
 date:   2020-08-23
 tags: [逆变器,光伏,逆变,完整版,整流]
 comments: true

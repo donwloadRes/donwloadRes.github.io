@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计 - RISC-V 版本 课后习题答案"
+title: "计算机组成与设计  RISCV 版本 课后习题答案"
 date:   2023-01-03
 tags: [RISC,习题,课后,学习,计算机]
 comments: true

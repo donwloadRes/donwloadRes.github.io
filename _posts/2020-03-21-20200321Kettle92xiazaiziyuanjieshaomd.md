@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle 9.2 下载资源介绍"
+title: "Kettle 92 下载资源介绍"
 date:   2020-07-01
 tags: [Kettle,9.2,亲测,pdi,ce]
 comments: true

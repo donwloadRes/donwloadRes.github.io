@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2258XT-59XT工厂级全套固件下载仓库"
+title: "SM2258XT59XT工厂级全套固件下载仓库"
 date:   2024-03-08
 tags: [固件,SM2258XT,59XT,仓库,下载]
 comments: true

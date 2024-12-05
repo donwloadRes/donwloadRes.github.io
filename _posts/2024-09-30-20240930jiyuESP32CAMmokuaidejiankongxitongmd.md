@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ESP32-CAM模块的监控系统"
+title: "基于ESP32CAM模块的监控系统"
 date:   2022-05-23
 tags: [ESP32,CAM,Wi,Fi,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-Pytorch实现用于图像语义分割UNet"
+title: "PythonPytorch实现用于图像语义分割UNet"
 date:   2020-07-04
 tags: [Pytorch,Net,后处理,分割,语义]
 comments: true

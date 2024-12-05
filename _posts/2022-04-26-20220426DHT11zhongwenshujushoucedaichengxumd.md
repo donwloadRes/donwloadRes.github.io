@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DHT11中文数据手册（带程序）"
+title: "DHT11中文数据手册带程序"
 date:   2023-05-18
 tags: [DHT11,示例,C语言,手册,传感器]
 comments: true

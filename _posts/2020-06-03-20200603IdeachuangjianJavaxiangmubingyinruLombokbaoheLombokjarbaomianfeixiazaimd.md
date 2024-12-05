@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Idea创建Java项目并引入Lombok包和Lombok.jar包免费下载"
+title: "Idea创建Java项目并引入Lombok包和Lombokjar包免费下载"
 date:   2023-06-12
 tags: [Lombok,Java,IDEA,jar,IntelliJ]
 comments: true

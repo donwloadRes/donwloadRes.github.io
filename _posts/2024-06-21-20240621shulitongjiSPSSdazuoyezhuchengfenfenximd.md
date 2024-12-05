@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数理统计SPSS大作业-主成分分析"
+title: "数理统计SPSS大作业主成分分析"
 date:   2023-07-21
 tags: [成分,SPSS,研究,分析,数理统计]
 comments: true

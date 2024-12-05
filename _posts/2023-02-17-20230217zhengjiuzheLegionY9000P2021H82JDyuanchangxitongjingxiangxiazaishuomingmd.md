@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拯救者Legion Y9000P 2021H(82JD)原厂系统镜像下载说明"
+title: "拯救者Legion Y9000P 2021H82JD原厂系统镜像下载说明"
 date:   2024-03-03
 tags: [原厂,预装,Y9000P,安装,镜像]
 comments: true

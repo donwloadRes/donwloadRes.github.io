@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现简易图书管理系统（链表）"
+title: "C实现简易图书管理系统链表"
 date:   2021-09-23
 tags: [图书,链表,your,源代码,管理系统]
 comments: true

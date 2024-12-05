@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dnSpy6.19 强大的 .NET 程序集反编译和调试工具"
+title: "dnSpy619 强大的 NET 程序集反编译和调试工具"
 date:   2023-01-15
 tags: [NET,反编译,dnSpy,dnSpy6.19,代码]
 comments: true

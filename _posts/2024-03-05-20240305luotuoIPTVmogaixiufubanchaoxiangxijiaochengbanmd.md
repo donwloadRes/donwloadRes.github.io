@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "骆驼IPTV魔改修复版（超详细教程版）"
+title: "骆驼IPTV魔改修复版超详细教程版"
 date:   2021-04-22
 tags: [IPTV,魔改,搭建,教程,修复]
 comments: true

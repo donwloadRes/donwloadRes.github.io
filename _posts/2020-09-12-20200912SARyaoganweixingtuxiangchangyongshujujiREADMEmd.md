@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR（遥感、卫星）图像常用数据集 README"
+title: "SAR遥感卫星图像常用数据集 README"
 date:   2020-07-28
 tags: [数据,遥感,图像,SAR,Dataset]
 comments: true

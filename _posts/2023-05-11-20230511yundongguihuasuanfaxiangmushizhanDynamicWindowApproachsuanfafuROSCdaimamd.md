@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运动规划算法项目实战：Dynamic Window Approach算法（附ROS C++代码）"
+title: "运动规划算法项目实战Dynamic Window Approach算法附ROS C代码"
 date:   2023-07-10
 tags: [算法,代码,DWA,机器人,ROS]
 comments: true

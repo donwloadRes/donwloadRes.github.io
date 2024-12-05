@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFium.dll for Windows x64"
+title: "PDFiumdll for Windows x64"
 date:   2024-10-15
 tags: [PDF,PDFium,dll,pdfium,文件]
 comments: true

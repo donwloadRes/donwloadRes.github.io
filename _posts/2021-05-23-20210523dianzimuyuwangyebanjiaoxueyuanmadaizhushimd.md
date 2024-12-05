@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子木鱼网页版(教学+源码带注释)"
+title: "电子木鱼网页版教学源码带注释"
 date:   2021-02-01
 tags: [网页,木鱼,源码,注释,电子]
 comments: true

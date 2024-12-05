@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手眼标定C++代码仓库"
+title: "手眼标定C代码仓库"
 date:   2021-03-07
 tags: [标定,手眼,函数,自定义,OpenCV]
 comments: true

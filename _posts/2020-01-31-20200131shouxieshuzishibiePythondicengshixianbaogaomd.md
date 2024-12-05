@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手写数字识别（Python底层实现）报告"
+title: "手写数字识别Python底层实现报告"
 date:   2020-05-24
 tags: [手写,Python,识别,感知机,数字]
 comments: true

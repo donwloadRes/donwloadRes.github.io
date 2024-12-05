@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版支持Visual Studio 2022的番茄助手Visual Assist X_10.9.2440"
+title: "最新版支持Visual Studio 2022的番茄助手Visual Assist X1092440"
 date:   2024-03-06
 tags: [Visual,Studio,Assist,代码,最新版]
 comments: true

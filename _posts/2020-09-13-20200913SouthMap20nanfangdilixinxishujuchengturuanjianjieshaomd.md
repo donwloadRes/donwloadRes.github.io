@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SouthMap2.0 南方地理信息数据成图软件介绍"
+title: "SouthMap20 南方地理信息数据成图软件介绍"
 date:   2022-11-19
 tags: [成图,地理信息,数据,软件,SouthMap2.0]
 comments: true

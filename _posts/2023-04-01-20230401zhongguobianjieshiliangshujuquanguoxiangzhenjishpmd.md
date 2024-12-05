@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国边界矢量数据（全国乡镇级shp）"
+title: "中国边界矢量数据全国乡镇级shp"
 date:   2023-07-06
 tags: [数据,乡镇级,shp,矢量,GIS]
 comments: true

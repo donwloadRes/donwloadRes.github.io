@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EGM2008 2.5°插值资源文件"
+title: "EGM2008 25插值资源文件"
 date:   2024-02-27
 tags: [EGM2008,2.5,插值,文件,数据]
 comments: true

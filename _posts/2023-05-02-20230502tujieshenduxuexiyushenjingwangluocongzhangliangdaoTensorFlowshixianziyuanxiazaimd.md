@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图解深度学习与神经网络：从张量到TensorFlow实现》资源下载"
+title: "图解深度学习与神经网络从张量到TensorFlow实现资源下载"
 date:   2022-08-13
 tags: [TensorFlow,示例,神经网络,学习,张量]
 comments: true

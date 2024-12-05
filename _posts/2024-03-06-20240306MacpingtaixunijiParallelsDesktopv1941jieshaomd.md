@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac平台虚拟机 Parallels Desktop v19.4.1 介绍"
+title: "Mac平台虚拟机 Parallels Desktop v1941 介绍"
 date:   2024-06-05
 tags: [Mac,Parallels,虚拟机,Desktop,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR4 JEDEC 规范下载 - JESD209-4D 最新版（2021年6月1日）"
+title: "LPDDR4 JEDEC 规范下载  JESD2094D 最新版2021年6月1日"
 date:   2022-02-26
 tags: [LPDDR4,JESD209,4D,Gb,2021]
 comments: true

@@ -1,6 +1,39 @@
 ---
 layout: post
-title: "JDK 8 Update 191 Linux x64 下载仓库"
+title: "JDK 8 Update 191 Linux x64 下载仓库
+date   20230223
+tags JDKx64191tar文件
+comments true
+author admin
+
+ JDK 8 Update 191 Linux x64 下载仓库
+
+ 资源文件介绍
+
+本仓库提供了一个资源文件的下载文件名为 jdk8u191linuxx64targz该文件是适用于 Linux x64 系统的 JDK 8 Update 191 版本
+
+ 文件描述
+
+jdk8u191linuxx64targz 是一个压缩包包含了 JDK 8 Update 191 的安装文件该版本适用于 Linux x64 系统用户可以通过解压该文件来安装 JDK 8
+
+ 使用说明
+
+1 下载文件首先下载 jdk8u191linuxx64targz 文件到您的本地系统
+
+2 解压文件使用以下命令解压文件
+   bash
+   tar xzf jdk8u191linuxx64targz
+   
+
+3 配置环境变量解压后您可以将 JDK 的路径添加到系统的环境变量中以便在终端中直接使用 java 和 javac 命令
+
+4 验证安装运行以下命令验证 JDK 是否安装成功
+   bash
+   java version
+   
+   如果安装成功您将看到类似以下的输出
+   
+   java version 180191"
 date:   2023-02-23
 tags: [JDK,x64,191,tar,文件]
 comments: true

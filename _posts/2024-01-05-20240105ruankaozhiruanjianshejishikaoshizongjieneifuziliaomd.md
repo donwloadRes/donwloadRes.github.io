@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考之软件设计师考试总结（内附资料）"
+title: "软考之软件设计师考试总结内附资料"
 date:   2020-04-01
 tags: [考试,备考,软考,学习,设计师]
 comments: true

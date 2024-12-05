@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows文件夹浏览器Q-Dir"
+title: "Windows文件夹浏览器QDir"
 date:   2020-09-25
 tags: [Dir,窗口,文件夹,文件,用户]
 comments: true

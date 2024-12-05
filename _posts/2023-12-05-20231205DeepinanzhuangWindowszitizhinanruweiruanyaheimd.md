@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deepin安装Windows字体指南 (如微软雅黑)"
+title: "Deepin安装Windows字体指南 如微软雅黑"
 date:   2023-10-04
 tags: [字体,Deepin,Windows,安装,雅黑]
 comments: true

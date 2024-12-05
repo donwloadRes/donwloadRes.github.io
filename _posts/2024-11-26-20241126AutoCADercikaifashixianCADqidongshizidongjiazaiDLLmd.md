@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD二次开发：实现CAD启动时自动加载DLL"
+title: "AutoCAD二次开发实现CAD启动时自动加载DLL"
 date:   2021-07-15
 tags: [AutoCAD,文件,DLL,ACAD,LSP]
 comments: true

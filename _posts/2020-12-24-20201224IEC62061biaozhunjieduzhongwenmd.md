@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC62061标准解读（中文）"
+title: "IEC62061标准解读中文"
 date:   2024-08-11
 tags: [IEC62061,文档,标准,解读,读者]
 comments: true

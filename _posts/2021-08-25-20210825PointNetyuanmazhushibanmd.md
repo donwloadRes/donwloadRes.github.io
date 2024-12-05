@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet++ 源码注释版"
+title: "PointNet 源码注释版"
 date:   2023-05-09
 tags: [PointNet,++,源码,批注,模型]
 comments: true

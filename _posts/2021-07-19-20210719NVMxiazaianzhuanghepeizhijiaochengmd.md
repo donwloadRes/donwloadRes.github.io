@@ -1,6 +1,62 @@
 ---
 layout: post
-title: "NVM下载、安装和配置教程"
+title: "NVM下载安装和配置教程
+date   20220321
+tags NVMnpmNodejsnode
+comments true
+author admin
+
+ NVM下载安装和配置教程
+
+本文详细指导如何在Windows系统上下载安装NVMNode Version Manager包括选择版本配置环境变量设置镜像源以及测试和使用Nodejs的过程
+
+ 一下载
+
+1 访问NVM的GitHub发布页面选择适合Windows系统的版本
+2 下载zip版本的安装包解压后即可使用
+
+ 二安装
+
+1 双击解压后的exe文件
+2 选择安装位置点击next
+3 选择Nodejs的安装位置点击next
+4 点击install完成安装
+
+ 三配置环境
+
+1 右击我的电脑选择属性
+2 点击高级系统设置进入环境变量设置
+3 新建系统变量NVMHOME变量值为NVM的安装目录
+4 新建系统变量NVMSYMLINK变量值为Nodejs的安装目录
+5 在Path变量中添加NVMSYMLINK和NVMHOME
+
+ 四配置镜像源
+
+1 打开NVM安装目录下的settingtxt文件
+2 添加以下两行代码
+   
+   nodemirror httpsnpmtaobaoorgmirrorsnode
+   npmmirror httpsnpmtaobaoorgmirrorsnpm
+   
+3 保存并退出
+
+ 五测试安装与使用
+
+1 打开命令提示符输入nvm v显示版本号表示安装成功
+2 输入nvm ls查看已安装的Nodejs版本
+3 输入nvm list available查看可安装的所有Nodejs版本
+4 输入nvm install 版本号安装指定版本的Nodejs
+5 输入nvm use 版本号切换使用的Nodejs版本
+6 输入node v查看当前Nodejs版本
+7 输入npm v查看当前npm版本
+
+ 六Nodejs配置与使用
+
+1 在NVM安装目录下创建nodecache和nodeglobal两个文件夹
+2 打开命令提示符执行以下命令配置npm
+   
+   npm config set prefix DEnvironmentnodejsnodeglobal
+   npm config set cache DEnvironmentnodejsnodecache"
 date:   2022-03-21
 tags: [NVM,npm,Node,js,node]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-拔河游戏带比赛计分Multisim仿真设计"
+title: "数电课设拔河游戏带比赛计分Multisim仿真设计"
 date:   2023-10-12
 tags: [仿真,拔河,Multisim,原理,讲解]
 comments: true

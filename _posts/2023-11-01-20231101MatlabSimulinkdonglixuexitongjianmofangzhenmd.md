@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab_Simulink动力学系统建模仿真"
+title: "MatlabSimulink动力学系统建模仿真"
 date:   2022-07-24
 tags: [Simulink,仿真,动力学,MATLAB,模型]
 comments: true

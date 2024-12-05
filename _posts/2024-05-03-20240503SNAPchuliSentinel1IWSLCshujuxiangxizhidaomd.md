@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNAP处理Sentinel-1 IW SLC数据详细指导"
+title: "SNAP处理Sentinel1 IW SLC数据详细指导"
 date:   2021-11-02
 tags: [SNAP,Sentinel,技术细节,IW,SLC]
 comments: true

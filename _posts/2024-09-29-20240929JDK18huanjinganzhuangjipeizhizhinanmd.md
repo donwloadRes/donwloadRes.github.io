@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 环境安装及配置指南"
+title: "JDK 18 环境安装及配置指南"
 date:   2024-01-14
 tags: [安装,JAVA,JDK,HOME%,1.8]
 comments: true

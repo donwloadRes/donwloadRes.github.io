@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【一看就懂】机器学习之L1和L2正则化1"
+title: "一看就懂机器学习之L1和L2正则化1"
 date:   2022-09-20
 tags: [正则,L1,L2,模型,拟合]
 comments: true

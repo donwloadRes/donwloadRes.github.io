@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "k-近邻算法实现鸢尾花分类"
+title: "k近邻算法实现鸢尾花分类"
 date:   2023-02-04
 tags: [鸢尾花,实例,分类,近邻,算法]
 comments: true

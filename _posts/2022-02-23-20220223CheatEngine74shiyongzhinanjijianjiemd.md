@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CheatEngine 7.4 使用指南及简介"
+title: "CheatEngine 74 使用指南及简介"
 date:   2020-01-17
 tags: [CheatEngine,游戏,7.4,修改,内存]
 comments: true

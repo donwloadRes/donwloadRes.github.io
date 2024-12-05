@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地理加权回归软件 gwr4.09(含运行库) 下载仓库"
+title: "地理加权回归软件 gwr409含运行库 下载仓库"
 date:   2022-11-06
 tags: [软件,gwr4.09,运行库,安装,文件]
 comments: true

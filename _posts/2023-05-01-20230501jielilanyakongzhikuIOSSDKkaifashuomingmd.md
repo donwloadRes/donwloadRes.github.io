@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杰理蓝牙控制库_IOS_SDK开发说明"
+title: "杰理蓝牙控制库IOSSDK开发说明"
 date:   2023-06-22
 tags: [SDK,蓝牙,杰理,语音,连接]
 comments: true

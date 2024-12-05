@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSL扫描工具 - sslscan"
+title: "SSL扫描工具  sslscan"
 date:   2021-08-10
 tags: [SSL,TLS,服务器,sslscan,扫描]
 comments: true

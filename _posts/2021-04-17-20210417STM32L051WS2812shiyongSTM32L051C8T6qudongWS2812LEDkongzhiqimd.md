@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L051_WS2812 - 使用STM32L051C8T6驱动WS2812 LED控制器"
+title: "STM32L051WS2812  使用STM32L051C8T6驱动WS2812 LED控制器"
 date:   2020-09-19
 tags: [WS2812,LED,STM32L051C8T6,---,HAL]
 comments: true

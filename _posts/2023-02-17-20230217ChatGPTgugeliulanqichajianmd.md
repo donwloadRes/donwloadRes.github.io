@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT + 谷歌浏览器插件"
+title: "ChatGPT  谷歌浏览器插件"
 date:   2021-01-07
 tags: [插件,ChatGPT,浏览器,谷歌,网页]
 comments: true

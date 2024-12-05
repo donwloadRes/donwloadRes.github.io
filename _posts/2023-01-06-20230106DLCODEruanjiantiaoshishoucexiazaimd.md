@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DL.CODE 软件调试手册下载"
+title: "DLCODE 软件调试手册下载"
 date:   2020-02-24
 tags: [调试,手册,软件,DL,CODE]
 comments: true

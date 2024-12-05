@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测标注：路面积水检测数据集"
+title: "目标检测标注路面积水检测数据集"
 date:   2022-09-05
 tags: [数据,标注,检测,目标,积水]
 comments: true

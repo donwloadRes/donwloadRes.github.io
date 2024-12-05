@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统下Dev-C++配置OpenCV 4.0.0及扩展包——小白指南"
+title: "Windows系统下DevC配置OpenCV 400及扩展包小白指南"
 date:   2020-09-28
 tags: [OpenCV,C++,Dev,4.0,Windows]
 comments: true

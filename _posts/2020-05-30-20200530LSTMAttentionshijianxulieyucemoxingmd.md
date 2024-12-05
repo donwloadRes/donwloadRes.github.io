@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM-Attention时间序列预测模型"
+title: "LSTMAttention时间序列预测模型"
 date:   2023-07-12
 tags: [序列,模型,LSTM,预测,MATLAB]
 comments: true

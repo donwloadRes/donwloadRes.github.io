@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "主成分分析法（PCA）原理介绍课件下载"
+title: "主成分分析法PCA原理介绍课件下载"
 date:   2021-03-14
 tags: [PCA,课件,应用,分析法,操作步骤]
 comments: true

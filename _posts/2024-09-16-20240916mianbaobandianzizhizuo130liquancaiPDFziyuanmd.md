@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面包板电子制作130例 - 全彩PDF资源"
+title: "面包板电子制作130例  全彩PDF资源"
 date:   2024-09-12
 tags: [制作,130,电子,面包,实验]
 comments: true

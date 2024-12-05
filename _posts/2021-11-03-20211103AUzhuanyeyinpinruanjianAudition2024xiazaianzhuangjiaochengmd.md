@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「AU专业音频软件」Audition2024下载安装教程"
+title: "AU专业音频软件Audition2024下载安装教程"
 date:   2022-11-14
 tags: [音频,软件,教程,Adobe,Audition]
 comments: true

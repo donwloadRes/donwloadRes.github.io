@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK标准_ISO 17356-4-2005_Part 4 OSEKVDX Communication (COM)"
+title: "OSEK标准ISO 1735642005Part 4 OSEKVDX Communication COM"
 date:   2021-04-18
 tags: [通信,ECU,2005,ISO,17356]
 comments: true

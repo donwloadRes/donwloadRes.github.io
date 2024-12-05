@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 离线安装 NTP 时间同步所需的 RPM 包（x86）"
+title: "CentOS 7 离线安装 NTP 时间同步所需的 RPM 包x86"
 date:   2020-01-28
 tags: [NTP,RPM,离线,安装,x86]
 comments: true

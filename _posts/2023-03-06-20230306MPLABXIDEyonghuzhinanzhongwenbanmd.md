@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPLAB X IDE用户指南(中文版)"
+title: "MPLAB X IDE用户指南中文版"
 date:   2020-11-25
 tags: [IDE,MPLAB,指南,用户,使用]
 comments: true

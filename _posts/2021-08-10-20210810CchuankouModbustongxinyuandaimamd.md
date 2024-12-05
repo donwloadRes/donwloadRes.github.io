@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口 Modbus 通信源代码"
+title: "C 串口 Modbus 通信源代码"
 date:   2021-03-19
 tags: [串口,代码,Modbus,源代码,C#]
 comments: true

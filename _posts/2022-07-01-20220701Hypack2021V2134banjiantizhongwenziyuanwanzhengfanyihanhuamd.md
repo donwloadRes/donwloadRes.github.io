@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hypack 2021 V21.3.4版简体中文资源完整翻译汉化"
+title: "Hypack 2021 V2134版简体中文资源完整翻译汉化"
 date:   2020-12-16
 tags: [资源,汉化,文件,Hypack,简体中文]
 comments: true

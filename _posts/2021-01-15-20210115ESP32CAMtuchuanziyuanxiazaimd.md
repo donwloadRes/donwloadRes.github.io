@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM 图传资源下载"
+title: "ESP32CAM 图传资源下载"
 date:   2024-04-03
 tags: [ESP32,CAM,图传,资源,示例]
 comments: true

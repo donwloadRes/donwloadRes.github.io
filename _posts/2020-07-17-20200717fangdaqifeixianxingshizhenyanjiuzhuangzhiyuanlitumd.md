@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "放大器非线性失真研究装置_原理图"
+title: "放大器非线性失真研究装置原理图"
 date:   2024-03-23
 tags: [失真,波形,放大器,非线性失,装置]
 comments: true

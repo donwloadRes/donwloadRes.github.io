@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光纤通信技术（Fiber-Optic Communications Technology）中文版"
+title: "光纤通信技术FiberOptic Communications Technology中文版"
 date:   2022-04-21
 tags: [光纤通信,中文版,Fiber,技术,资源]
 comments: true

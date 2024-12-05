@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应卡尔曼滤波C++代码"
+title: "自适应卡尔曼滤波C代码"
 date:   2022-10-19
 tags: [卡尔曼滤波,滤波,代码,适应,C++]
 comments: true

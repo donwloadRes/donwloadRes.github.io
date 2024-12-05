@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理词法分析器（C++版）源代码"
+title: "编译原理词法分析器C版源代码"
 date:   2020-12-28
 tags: [编译,词法,源代码,Visual,Studio]
 comments: true

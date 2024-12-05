@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL语句大全(很全)sql语句用法"
+title: "SQL语句大全很全sql语句用法"
 date:   2024-08-10
 tags: [SQL,语句,数据库,文件,用法]
 comments: true

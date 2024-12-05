@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++封装Curl实现Get、Post、Download功能"
+title: "C封装Curl实现GetPostDownload功能"
 date:   2020-03-17
 tags: [Curl,curl,C++,cpp,封装]
 comments: true

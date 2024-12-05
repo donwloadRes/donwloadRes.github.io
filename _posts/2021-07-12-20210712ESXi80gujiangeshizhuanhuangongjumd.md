@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXi 8.0 固件格式转换工具"
+title: "ESXi 80 固件格式转换工具"
 date:   2021-06-01
 tags: [固件,ESXi,转换,OpenWRT,8.0]
 comments: true

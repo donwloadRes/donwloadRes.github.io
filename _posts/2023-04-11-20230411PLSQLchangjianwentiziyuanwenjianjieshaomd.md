@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL-SQL常见问题资源文件介绍"
+title: "PLSQL常见问题资源文件介绍"
 date:   2023-09-16
 tags: [PL,SQL,文件,常见问题,资源]
 comments: true

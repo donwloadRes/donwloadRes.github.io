@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理》MATLAB实验指导书"
+title: "自动控制原理MATLAB实验指导书"
 date:   2024-02-02
 tags: [MATLAB,仿真,控制系统,自动控制,指导书]
 comments: true

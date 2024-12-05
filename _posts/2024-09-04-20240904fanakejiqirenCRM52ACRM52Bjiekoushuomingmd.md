@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "发那科机器人CRM52A、CRM52B接口说明"
+title: "发那科机器人CRM52ACRM52B接口说明"
 date:   2024-10-12
 tags: [接口,CRM52A,CRM52B,引脚,发那科]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL运行原理详解：从基础到深入"
+title: "MySQL运行原理详解从基础到深入"
 date:   2021-10-08
 tags: [MySQL,理解,运行,数据库,原理]
 comments: true

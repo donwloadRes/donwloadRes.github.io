@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS-B监视系统软件"
+title: "ADSB监视系统软件"
 date:   2023-04-11
 tags: [ADS,数据,回放,GIS,解码]
 comments: true

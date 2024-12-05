@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "致远OA A8 2017最新教程（800页）"
+title: "致远OA A8 2017最新教程800页"
 date:   2020-08-10
 tags: [致远,OA,A8,教程,系统]
 comments: true

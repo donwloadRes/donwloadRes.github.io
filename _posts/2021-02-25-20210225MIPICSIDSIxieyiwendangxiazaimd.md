@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-DSI 协议文档下载"
+title: "MIPI CSIDSI 协议文档下载"
 date:   2022-07-16
 tags: [文档,DSI,CSI,协议,MIPI]
 comments: true

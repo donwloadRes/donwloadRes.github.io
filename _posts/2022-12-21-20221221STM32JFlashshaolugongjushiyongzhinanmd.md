@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 J-Flash烧录工具使用指南"
+title: "STM32 JFlash烧录工具使用指南"
 date:   2021-02-12
 tags: [烧录,Flash,STM32,点击,程序]
 comments: true

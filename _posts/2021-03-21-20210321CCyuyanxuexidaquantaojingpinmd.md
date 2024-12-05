@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C&C++语言学习大全套【精品】"
+title: "CC语言学习大全套精品"
 date:   2023-04-19
 tags: [C++,C语言,语言,学习,资源]
 comments: true

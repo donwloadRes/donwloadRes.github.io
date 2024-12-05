@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式之美—学习笔记"
+title: "设计模式之美学习笔记"
 date:   2021-09-21
 tags: [设计模式,笔记,学习,这份,之美]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407VET6_OV2640_Barcode_Common 开发资源"
+title: "STM32F407VET6OV2640BarcodeCommon 开发资源"
 date:   2023-09-29
 tags: [STM32,OV2640,解码,上位,STM32F407VET6]
 comments: true

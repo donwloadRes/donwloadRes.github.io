@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高固运动控制卡Demo源码"
+title: "C高固运动控制卡Demo源码"
 date:   2021-09-16
 tags: [源码,控制卡,C#,运动,Demo]
 comments: true

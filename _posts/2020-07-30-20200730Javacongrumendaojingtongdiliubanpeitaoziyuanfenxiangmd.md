@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java从入门到精通（第六版）配套资源分享"
+title: "Java从入门到精通第六版配套资源分享"
 date:   2020-03-14
 tags: [Java,PPT,入门,资源,学习]
 comments: true

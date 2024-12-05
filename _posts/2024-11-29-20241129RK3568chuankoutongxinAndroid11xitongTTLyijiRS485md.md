@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3568串口通信（Android 11系统）（TTL以及RS485）"
+title: "RK3568串口通信Android 11系统TTL以及RS485"
 date:   2023-06-10
 tags: [串口,通信,RS485,开发板,RK3568]
 comments: true

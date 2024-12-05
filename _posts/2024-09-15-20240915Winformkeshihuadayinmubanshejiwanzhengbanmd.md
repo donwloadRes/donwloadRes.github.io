@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform可视化打印模板设计--完整版"
+title: "Winform可视化打印模板设计完整版"
 date:   2022-01-09
 tags: [Winform,模板,可视化,打印,文件]
 comments: true

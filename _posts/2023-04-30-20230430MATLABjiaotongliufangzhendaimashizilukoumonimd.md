@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB交通流仿真代码 - 十字路口模拟"
+title: "MATLAB交通流仿真代码  十字路口模拟"
 date:   2021-04-22
 tags: [MATLAB,十字路口,交通流,模拟,仿真]
 comments: true

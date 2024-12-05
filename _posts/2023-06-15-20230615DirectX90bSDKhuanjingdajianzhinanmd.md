@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX 9.0b SDK 环境搭建指南"
+title: "DirectX 90b SDK 环境搭建指南"
 date:   2021-09-23
 tags: [DirectX,9.0,SDK,文件,目录]
 comments: true

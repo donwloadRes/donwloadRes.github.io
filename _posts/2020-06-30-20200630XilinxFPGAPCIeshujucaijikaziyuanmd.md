@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA + PCIe 数据采集卡资源"
+title: "Xilinx FPGA  PCIe 数据采集卡资源"
 date:   2021-06-16
 tags: [测试程序,驱动程序,bash,your,repo]
 comments: true

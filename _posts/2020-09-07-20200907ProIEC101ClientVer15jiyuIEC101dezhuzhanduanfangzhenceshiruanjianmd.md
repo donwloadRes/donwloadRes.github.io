@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ProIEC101ClientVer1.5 基于IEC101的主站端仿真测试软件"
+title: "ProIEC101ClientVer15 基于IEC101的主站端仿真测试软件"
 date:   2023-03-11
 tags: [通讯,仿真,IEC101,报文,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 安装与基本使用指南"
+title: "DevC 安装与基本使用指南"
 date:   2024-07-25
 tags: [Dev,C++,安装,编译,点击]
 comments: true

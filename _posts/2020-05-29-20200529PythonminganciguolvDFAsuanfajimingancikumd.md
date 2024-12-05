@@ -1,6 +1,39 @@
 ---
 layout: post
-title: "Python敏感词过滤DFA算法及敏感词库"
+title: "Python敏感词过滤DFA算法及敏感词库
+date   20240119
+tags 敏感词库Python算法DFA
+comments true
+author admin
+
+ Python敏感词过滤DFA算法及敏感词库
+
+ 简介
+本资源文件提供了一个基于DFADeterministic Finite Automaton确定有限状态自动机算法的Python敏感词过滤解决方案并附带了一个免费的敏感词库该算法能够高效地检测和过滤文本中的敏感词汇适用于各种需要内容审核的场景如社交媒体论坛博客等
+
+ 功能特点
+ DFA算法采用DFA算法进行敏感词过滤具有高效快速的特点
+ 敏感词库附带一个免费的敏感词库用户可以根据需要进行扩展和更新
+ 灵活替换支持自定义敏感词替换字符如将敏感词替换为或其他字符
+ 易于集成代码结构清晰易于集成到现有的Python项目中
+
+ 使用方法
+1 下载资源文件下载本资源文件包含Python代码和敏感词库
+2 导入敏感词库将敏感词库文件加载到Python项目中
+3 初始化过滤器使用提供的代码初始化敏感词过滤器
+4 检测和替换调用相关函数对文本进行敏感词检测和替换
+
+ 示例代码
+以下是一个简单的示例代码展示了如何使用本资源文件中的敏感词过滤器
+
+python
+from sensitivefilter import SensitiveFilter
+
+ 初始化敏感词过滤器
+filter  SensitiveFilter
+
+ 待检测的文本
+text  这是一个包含敏感词的测试文本"
 date:   2024-01-19
 tags: [敏感,词库,Python,算法,DFA]
 comments: true

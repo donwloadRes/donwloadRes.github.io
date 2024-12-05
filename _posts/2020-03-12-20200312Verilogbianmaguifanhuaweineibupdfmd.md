@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog编码规范华为内部.pdf"
+title: "Verilog编码规范华为内部pdf"
 date:   2024-07-09
 tags: [Verilog,编码,华为,规范,pdf]
 comments: true

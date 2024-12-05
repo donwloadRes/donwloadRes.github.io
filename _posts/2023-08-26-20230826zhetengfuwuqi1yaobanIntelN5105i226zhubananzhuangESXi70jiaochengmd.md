@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【折腾服务器 1】妖板 Intel N5105 + i226 主板安装 ESXi 7.0 教程"
+title: "折腾服务器 1妖板 Intel N5105  i226 主板安装 ESXi 70 教程"
 date:   2020-08-02
 tags: [ESXi,7.0,服务器,安装,U盘]
 comments: true

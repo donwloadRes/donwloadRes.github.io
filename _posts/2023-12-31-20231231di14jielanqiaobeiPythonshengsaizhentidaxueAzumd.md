@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第14届蓝桥杯Python省赛真题-大学A组"
+title: "第14届蓝桥杯Python省赛真题大学A组"
 date:   2024-04-13
 tags: [Python,蓝桥,真题,编程,题目]
 comments: true

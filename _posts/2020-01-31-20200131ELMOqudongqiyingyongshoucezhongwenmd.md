@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ELMO驱动器应用手册（中文）"
+title: "ELMO驱动器应用手册中文"
 date:   2021-04-16
 tags: [驱动器,ELMO,本手册,用户,手册]
 comments: true

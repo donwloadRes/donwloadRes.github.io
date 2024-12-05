@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电赛-嵌入式-课程设计-使用MSP432P401R实现遥感小车"
+title: "电赛嵌入式课程设计使用MSP432P401R实现遥感小车"
 date:   2020-07-12
 tags: [小车,MSP432P401R,遥控器,单片机,JSON]
 comments: true

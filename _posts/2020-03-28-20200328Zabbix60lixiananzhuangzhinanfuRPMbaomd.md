@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix 6.0 离线安装指南（附RPM包）"
+title: "Zabbix 60 离线安装指南附RPM包"
 date:   2021-01-02
 tags: [mysql,Zabbix,RPM,mysqld,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "印刷电路板(PCB)设计与制作(第二版) 资源下载"
+title: "印刷电路板PCB设计与制作第二版 资源下载"
 date:   2023-10-04
 tags: [PCB,下载,制作,设计,电路板]
 comments: true

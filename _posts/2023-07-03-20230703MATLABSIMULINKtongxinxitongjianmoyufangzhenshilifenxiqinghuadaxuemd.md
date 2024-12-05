@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-SIMULINK通信系统建模与仿真实例分析-清华大学"
+title: "MATLABSIMULINK通信系统建模与仿真实例分析清华大学"
 date:   2021-09-28
 tags: [仿真,MATLAB,SIMULINK,建模,实例]
 comments: true

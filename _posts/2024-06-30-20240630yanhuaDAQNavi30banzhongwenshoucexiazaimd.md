@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研华DAQNavi 3.0版中文手册下载"
+title: "研华DAQNavi 30版中文手册下载"
 date:   2021-11-03
 tags: [研华,DAQNavi,3.0,手册,中文]
 comments: true

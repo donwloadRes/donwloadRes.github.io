@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP教程及各行业解决方案.pdf"
+title: "SAP教程及各行业解决方案pdf"
 date:   2024-01-20
 tags: [SAP,解决方案,教程,pdf,行业]
 comments: true

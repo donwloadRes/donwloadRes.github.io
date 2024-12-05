@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下UDP组播（多播）发送和接收程序"
+title: "Windows下UDP组播多播发送和接收程序"
 date:   2020-08-18
 tags: [组播,UDP,Windows,接收,发送]
 comments: true

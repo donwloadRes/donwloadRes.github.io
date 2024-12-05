@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2115-1994军用软件项目管理规程》资源下载"
+title: "GJB 21151994军用软件项目管理规程资源下载"
 date:   2021-03-08
 tags: [规程,军用,软件,项目管理,1994]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTC Creo 3.0 安装教程"
+title: "PTC Creo 30 安装教程"
 date:   2020-08-22
 tags: [Creo,安装,3.0,物理地址,PTC]
 comments: true

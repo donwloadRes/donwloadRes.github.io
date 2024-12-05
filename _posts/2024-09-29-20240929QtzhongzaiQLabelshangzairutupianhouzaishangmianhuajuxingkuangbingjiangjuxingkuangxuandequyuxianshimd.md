@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt中在QLabel上载入图片后在上面画矩形框，并将矩形框选的区域显示"
+title: "Qt中在QLabel上载入图片后在上面画矩形框并将矩形框选的区域显示"
 date:   2022-11-03
 tags: [矩形框,Qt,QLabel,载入,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window版Redis 5.0.14.1 64 bit 下载仓库"
+title: "Window版Redis 50141 64 bit 下载仓库"
 date:   2020-10-02
 tags: [Redis,redis,5.0,14.1,64]
 comments: true

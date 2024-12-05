@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 明华读卡器读写IC卡源码及DLL动态库"
+title: "C 明华读卡器读写IC卡源码及DLL动态库"
 date:   2023-01-14
 tags: [读卡器,DLL,串口,明华,源码]
 comments: true

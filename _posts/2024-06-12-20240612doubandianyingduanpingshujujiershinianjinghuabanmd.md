@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "豆瓣电影短评数据集 - 二十年精华版"
+title: "豆瓣电影短评数据集  二十年精华版"
 date:   2022-02-17
 tags: [数据,豆瓣,电影,SQLite,评论]
 comments: true

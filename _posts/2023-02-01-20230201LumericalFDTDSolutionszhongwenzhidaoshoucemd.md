@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lumerical-FDTD Solutions 中文指导手册"
+title: "LumericalFDTD Solutions 中文指导手册"
 date:   2024-11-30
 tags: [手册,软件,建模,Lumerical,FDTD]
 comments: true

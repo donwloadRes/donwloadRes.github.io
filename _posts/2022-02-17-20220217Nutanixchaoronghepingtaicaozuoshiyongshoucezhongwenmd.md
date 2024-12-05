@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nutanix超融合平台操作使用手册-中文"
+title: "Nutanix超融合平台操作使用手册中文"
 date:   2021-11-03
 tags: [Nutanix,平台,本手册,使用手册,融合]
 comments: true

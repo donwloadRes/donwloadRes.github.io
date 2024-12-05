@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch中文文档 - API查询与使用"
+title: "PyTorch中文文档  API查询与使用"
 date:   2023-02-05
 tags: [API,文档,PyTorch,中文,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下串口通讯程序C++源代码"
+title: "Linux下串口通讯程序C源代码"
 date:   2020-09-10
 tags: [串口,源代码,Linux,C++,程序]
 comments: true

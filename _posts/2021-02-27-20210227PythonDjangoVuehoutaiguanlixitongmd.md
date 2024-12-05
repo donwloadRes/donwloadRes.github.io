@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Django+Vue 后台管理系统"
+title: "PythonDjangoVue 后台管理系统"
 date:   2023-08-22
 tags: [bash,Python,Vue,js,数据库]
 comments: true

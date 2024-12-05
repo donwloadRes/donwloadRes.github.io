@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 DMA+DAC 正弦波生成教程"
+title: "STM32F103 DMADAC 正弦波生成教程"
 date:   2021-05-14
 tags: [DAC,正弦波,DMA,STM32F103,频率]
 comments: true

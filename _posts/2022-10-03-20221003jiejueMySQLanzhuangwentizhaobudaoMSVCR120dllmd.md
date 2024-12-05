@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决MySQL安装问题：找不到MSVCR120.dll"
+title: "解决MySQL安装问题找不到MSVCR120dll"
 date:   2021-11-19
 tags: [MySQL,安装,dll,MSVCR120,Microsoft]
 comments: true

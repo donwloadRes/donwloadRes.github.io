@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用C++ DLL实战工程"
+title: "C调用C DLL实战工程"
 date:   2024-11-27
 tags: [DLL,C#,C++,调用,函数]
 comments: true

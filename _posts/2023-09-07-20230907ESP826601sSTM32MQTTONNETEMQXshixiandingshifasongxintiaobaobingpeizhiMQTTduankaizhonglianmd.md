@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266-01s+STM32+MQTT+ONNET+EMQX实现定时发送心跳包并配置MQTT断开重连"
+title: "ESP826601sSTM32MQTTONNETEMQX实现定时发送心跳包并配置MQTT断开重连"
 date:   2021-09-14
 tags: [MQTT,ESP8266,01s,STM32,重连]
 comments: true

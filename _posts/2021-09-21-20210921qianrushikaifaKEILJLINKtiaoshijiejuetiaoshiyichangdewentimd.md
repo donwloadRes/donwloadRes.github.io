@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式开发 KEIL+JLINK调试解决调试异常的问题"
+title: "嵌入式开发 KEILJLINK调试解决调试异常的问题"
 date:   2024-06-27
 tags: [调试,KEIL,文件,替换,嵌入式]
 comments: true

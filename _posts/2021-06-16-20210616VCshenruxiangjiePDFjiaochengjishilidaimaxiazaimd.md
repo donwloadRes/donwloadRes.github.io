@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++深入详解 PDF教程及示例代码下载"
+title: "VC深入详解 PDF教程及示例代码下载"
 date:   2021-11-08
 tags: [C++,编程,示例,详解,PDF]
 comments: true

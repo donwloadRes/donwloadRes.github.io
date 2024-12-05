@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVN Adapter V1.0 签名认证与 secoClient 连接问题解决方案"
+title: "SVN Adapter V10 签名认证与 secoClient 连接问题解决方案"
 date:   2024-07-06
 tags: [secoClient,SVN,Adapter,V1.0,文件]
 comments: true

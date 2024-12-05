@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Windows】PPT播放视频提示媒体不可用的解决方法"
+title: "WindowsPPT播放视频提示媒体不可用的解决方法"
 date:   2020-11-13
 tags: [播放,视频,PowerPoint,PPT,Office]
 comments: true

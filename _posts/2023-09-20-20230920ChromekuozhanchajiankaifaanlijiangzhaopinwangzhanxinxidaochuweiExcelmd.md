@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome扩展插件开发案例：将招聘网站信息导出为Excel"
+title: "Chrome扩展插件开发案例将招聘网站信息导出为Excel"
 date:   2022-07-01
 tags: [Excel,插件,招聘,Chrome,导出]
 comments: true

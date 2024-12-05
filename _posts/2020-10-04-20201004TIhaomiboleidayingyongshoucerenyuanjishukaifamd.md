@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI毫米波雷达应用手册--人员计数开发"
+title: "TI毫米波雷达应用手册人员计数开发"
 date:   2022-12-16
 tags: [毫米波,雷达,TI,计数,应用]
 comments: true

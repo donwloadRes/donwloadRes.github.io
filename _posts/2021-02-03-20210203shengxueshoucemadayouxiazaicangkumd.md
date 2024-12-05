@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "声学手册（马大猷）下载仓库"
+title: "声学手册马大猷下载仓库"
 date:   2022-01-15
 tags: [声学,马大猷,手册,仓库,下载]
 comments: true

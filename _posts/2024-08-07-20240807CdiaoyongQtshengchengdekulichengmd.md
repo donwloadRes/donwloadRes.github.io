@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用Qt生成的库例程"
+title: "C调用Qt生成的库例程"
 date:   2020-09-17
 tags: [Qt,C#,调用,例程,程序]
 comments: true

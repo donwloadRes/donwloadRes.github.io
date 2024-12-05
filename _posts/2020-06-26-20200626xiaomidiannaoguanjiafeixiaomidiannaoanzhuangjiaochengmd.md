@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米电脑管家-非小米电脑安装教程"
+title: "小米电脑管家非小米电脑安装教程"
 date:   2022-09-07
 tags: [小米,电脑,管家,安装,插件]
 comments: true
