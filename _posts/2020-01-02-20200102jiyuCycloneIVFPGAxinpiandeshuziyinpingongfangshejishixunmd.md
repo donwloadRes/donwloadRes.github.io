@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Cyclone-IV FPGA芯片的数字音频功放设计实训"
+title: "基于CycloneIV FPGA芯片的数字音频功放设计实训"
 date:   2021-01-28
 tags: [FPGA,代码,电位器,Cyclone,实训]
 comments: true

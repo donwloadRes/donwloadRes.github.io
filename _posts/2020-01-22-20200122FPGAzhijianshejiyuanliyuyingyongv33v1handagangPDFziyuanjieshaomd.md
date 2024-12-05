@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA至简设计原理与应用_v3.3_v1(含大纲) PDF资源介绍"
+title: "FPGA至简设计原理与应用v33v1含大纲 PDF资源介绍"
 date:   2024-12-02
 tags: [FPGA,大纲,v3.3,v1,设计]
 comments: true

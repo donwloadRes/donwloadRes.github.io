@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL入门指南2（SQLyog使用，增删改查）"
+title: "MySQL入门指南2SQLyog使用增删改查"
 date:   2021-06-18
 tags: [SQLyog,MySQL,演示,注意事项,操作]
 comments: true

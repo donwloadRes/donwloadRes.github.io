@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python教案----教学设计"
+title: "Python教案教学设计"
 date:   2024-09-23
 tags: [编程,Python,教案,----,学习]
 comments: true

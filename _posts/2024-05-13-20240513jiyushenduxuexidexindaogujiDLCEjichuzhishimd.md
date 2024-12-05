@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的信道估计（DL-CE）基础知识"
+title: "基于深度学习的信道估计DLCE基础知识"
 date:   2020-10-04
 tags: [信道,学习,深度,估计,导频]
 comments: true

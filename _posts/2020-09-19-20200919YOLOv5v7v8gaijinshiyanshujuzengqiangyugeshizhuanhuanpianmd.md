@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5-v7-v8改进实验：数据增强与格式转换篇"
+title: "YOLOv5v7v8改进实验数据增强与格式转换篇"
 date:   2023-04-21
 tags: [YOLO,格式,数据,转换,VOC]
 comments: true

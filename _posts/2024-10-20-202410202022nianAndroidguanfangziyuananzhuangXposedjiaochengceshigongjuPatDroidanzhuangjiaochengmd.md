@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年Android官方资源安装Xposed教程+测试工具PatDroid安装教程"
+title: "2022年Android官方资源安装Xposed教程测试工具PatDroid安装教程"
 date:   2022-08-13
 tags: [Android,Xposed,安装,PatDroid,教程]
 comments: true

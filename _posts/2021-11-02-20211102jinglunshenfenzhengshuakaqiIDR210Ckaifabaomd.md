@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精伦身份证刷卡器IDR210C#开发包"
+title: "精伦身份证刷卡器IDR210C开发包"
 date:   2021-08-08
 tags: [刷卡器,SDK,IDR210,文件,精伦]
 comments: true

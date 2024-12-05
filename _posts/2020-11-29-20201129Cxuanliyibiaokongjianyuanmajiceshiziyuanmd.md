@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 绚丽仪表控件源码及测试资源"
+title: "C 绚丽仪表控件源码及测试资源"
 date:   2023-10-17
 tags: [控件,源码,测试,开关,仪表]
 comments: true

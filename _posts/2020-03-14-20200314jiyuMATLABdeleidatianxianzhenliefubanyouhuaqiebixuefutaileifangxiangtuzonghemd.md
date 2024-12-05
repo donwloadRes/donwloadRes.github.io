@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的雷达天线阵列副瓣优化 - 切比雪夫-泰勒方向图综合"
+title: "基于MATLAB的雷达天线阵列副瓣优化  切比雪夫泰勒方向图综合"
 date:   2022-07-27
 tags: [MATLAB,副瓣,代码,优化,阵列]
 comments: true

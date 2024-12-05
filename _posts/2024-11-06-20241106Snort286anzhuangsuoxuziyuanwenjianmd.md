@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snort 2.8.6 安装所需资源文件"
+title: "Snort 286 安装所需资源文件"
 date:   2021-11-21
 tags: [安装,Snort,2.8,文件,资源]
 comments: true

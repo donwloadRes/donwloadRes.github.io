@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3技术参考手册中文版"
+title: "ESP32S3技术参考手册中文版"
 date:   2022-04-03
 tags: [ESP32,S3,参考手册,中文版,手册]
 comments: true

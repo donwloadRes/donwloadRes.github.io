@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的密码锁（Proteus仿真、程序）"
+title: "基于STM32单片机的密码锁Proteus仿真程序"
 date:   2021-07-23
 tags: [STM32,密码锁,仿真,单片机,Proteus]
 comments: true

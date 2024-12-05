@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双节7.4V锂电池充电管理IC和电路图"
+title: "双节74V锂电池充电管理IC和电路图"
 date:   2020-03-13
 tags: [电路图,PW5300,充电,7.4,双节]
 comments: true

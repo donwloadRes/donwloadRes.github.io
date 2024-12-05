@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22 激光测距仪应用指南及示例代码"
+title: "TDCGP22 激光测距仪应用指南及示例代码"
 date:   2023-11-11
 tags: [TDC,GP22,示例,指南,激光测距仪]
 comments: true

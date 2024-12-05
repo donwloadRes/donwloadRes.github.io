@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统概论第五版（王珊）高清无水印PDF下载"
+title: "数据库系统概论第五版王珊高清无水印PDF下载"
 date:   2023-11-02
 tags: [PDF,水印,数据库系统,高清,第五版]
 comments: true

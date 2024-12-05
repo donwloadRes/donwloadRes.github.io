@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MediaPipeUnityPlugin：基于MediaPipe的Unity插件"
+title: "MediaPipeUnityPlugin基于MediaPipe的Unity插件"
 date:   2023-03-29
 tags: [MediaPipe,Unity,插件,MediaPipeUnityPlugin,CPU]
 comments: true

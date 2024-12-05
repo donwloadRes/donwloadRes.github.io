@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业视觉缺陷检测系统V1.0"
+title: "工业视觉缺陷检测系统V10"
 date:   2024-11-18
 tags: [检测,系统,V1.0,缺陷,视觉]
 comments: true

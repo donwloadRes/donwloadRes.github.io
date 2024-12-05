@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 运行库文件下载"
+title: "Visual C 运行库文件下载"
 date:   2022-02-25
 tags: [dll,Visual,文件,下载,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ WebSocket Demo 资源下载"
+title: "C WebSocket Demo 资源下载"
 date:   2024-10-31
 tags: [WebSocket,C++,示例,Demo,资源]
 comments: true

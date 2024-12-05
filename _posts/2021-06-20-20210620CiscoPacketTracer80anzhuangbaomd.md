@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer 8.0 安装包"
+title: "Cisco Packet Tracer 80 安装包"
 date:   2021-07-16
 tags: [Packet,Cisco,Tracer,安装包,8.0]
 comments: true

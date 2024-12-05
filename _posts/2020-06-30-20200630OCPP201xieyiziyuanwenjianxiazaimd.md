@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 2.0.1 协议资源文件下载"
+title: "OCPP 201 协议资源文件下载"
 date:   2023-08-18
 tags: [OCPP,2.0,协议,充电,文件]
 comments: true

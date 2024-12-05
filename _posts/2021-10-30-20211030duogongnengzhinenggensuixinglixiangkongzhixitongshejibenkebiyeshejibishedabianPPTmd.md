@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多功能智能跟随行李箱控制系统设计 本科毕业设计 [毕设答辩PPT]"
+title: "多功能智能跟随行李箱控制系统设计 本科毕业设计 毕设答辩PPT"
 date:   2022-08-18
 tags: [答辩,PPT,行李箱,设计,本科毕业]
 comments: true

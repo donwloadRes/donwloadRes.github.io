@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口显示屏HMI与STM32相互通信，点亮小灯"
+title: "串口显示屏HMI与STM32相互通信点亮小灯"
 date:   2024-07-21
 tags: [串口,STM32,HMI,显示屏,单片机]
 comments: true

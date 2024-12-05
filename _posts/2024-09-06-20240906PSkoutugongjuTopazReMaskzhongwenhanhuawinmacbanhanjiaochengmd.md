@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS抠图工具Topaz ReMask中文汉化(win-mac版,含教程)"
+title: "PS抠图工具Topaz ReMask中文汉化winmac版含教程"
 date:   2022-11-09
 tags: [汉化,Topaz,ReMask,安装,注册码]
 comments: true

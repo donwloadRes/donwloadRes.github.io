@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 SCL编程指令手册"
+title: "西门子S71200 SCL编程指令手册"
 date:   2020-01-18
 tags: [SCL,编程,指令,1200,西门子]
 comments: true

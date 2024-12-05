@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio开发实战 从零基础到App上线(第3版)》资源下载及内容勘误指南"
+title: "Android Studio开发实战 从零基础到App上线第3版资源下载及内容勘误指南"
 date:   2023-08-16
 tags: [Android,开发,实战,App,Gitee]
 comments: true

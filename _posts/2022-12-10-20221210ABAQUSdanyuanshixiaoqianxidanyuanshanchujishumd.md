@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS单元失效浅析（单元删除技术）"
+title: "ABAQUS单元失效浅析单元删除技术"
 date:   2023-05-07
 tags: [单元,失效,删除,ABAQUS,模拟]
 comments: true

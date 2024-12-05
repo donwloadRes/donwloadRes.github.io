@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio Code 使用教程 - 最全的中文教程资料"
+title: "Visual Studio Code 使用教程  最全的中文教程资料"
 date:   2024-09-01
 tags: [Code,教程,Visual,Studio,VS]
 comments: true

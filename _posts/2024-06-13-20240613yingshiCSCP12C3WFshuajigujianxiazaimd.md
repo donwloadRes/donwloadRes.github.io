@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "萤石CS-CP1-2C3WF刷机固件下载"
+title: "萤石CSCP12C3WF刷机固件下载"
 date:   2020-10-03
 tags: [刷机,固件,CS,CP1,2C3WF]
 comments: true

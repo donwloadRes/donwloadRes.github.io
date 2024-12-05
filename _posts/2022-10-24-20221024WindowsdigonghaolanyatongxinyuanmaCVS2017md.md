@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 低功耗蓝牙通信源码（C#，VS2017）"
+title: "Windows 低功耗蓝牙通信源码CVS2017"
 date:   2020-02-06
 tags: [蓝牙,低功耗,源码,Windows,通信]
 comments: true

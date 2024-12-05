@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF常用工具_实时更新"
+title: "CTF常用工具实时更新"
 date:   2021-02-21
 tags: [工具,CTF,隐写,分析,文件]
 comments: true

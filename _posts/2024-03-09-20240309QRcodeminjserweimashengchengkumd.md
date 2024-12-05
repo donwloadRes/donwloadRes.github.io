@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QRcode.min.js 二维码生成库"
+title: "QRcodeminjs 二维码生成库"
 date:   2022-07-25
 tags: [二维码,qrcode,min,js,生成]
 comments: true

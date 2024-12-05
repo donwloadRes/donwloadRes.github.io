@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Spy++ v7.1 中文版下载"
+title: "Microsoft Spy v71 中文版下载"
 date:   2022-08-18
 tags: [查看,Microsoft,Spy,++,中文版]
 comments: true

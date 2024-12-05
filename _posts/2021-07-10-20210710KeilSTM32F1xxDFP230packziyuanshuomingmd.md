@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.STM32F1xx_DFP.2.3.0.pack资源说明"
+title: "KeilSTM32F1xxDFP230pack资源说明"
 date:   2021-11-14
 tags: [Keil,pack,STM32F1,STM32F1xx,DFP.2]
 comments: true

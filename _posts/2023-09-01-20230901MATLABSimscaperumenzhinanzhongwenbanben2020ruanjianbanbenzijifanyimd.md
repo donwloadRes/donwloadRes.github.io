@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB Simscape 入门指南（中文版本）2020软件版本 自己翻译"
+title: "MATLAB Simscape 入门指南中文版本2020软件版本 自己翻译"
 date:   2024-06-12
 tags: [Simscape,MATLAB,指南,2020,版本]
 comments: true

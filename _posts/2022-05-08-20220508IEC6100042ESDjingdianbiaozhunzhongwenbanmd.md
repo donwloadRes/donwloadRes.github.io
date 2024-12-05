@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-61000-4-2-ESD静电标准中文版"
+title: "IEC6100042ESD静电标准中文版"
 date:   2021-02-13
 tags: [静电,放电,IEC,ESD,标准]
 comments: true

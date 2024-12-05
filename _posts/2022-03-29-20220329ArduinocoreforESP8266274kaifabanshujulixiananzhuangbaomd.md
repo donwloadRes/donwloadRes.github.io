@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino core for ESP8266 2.7.4 开发板数据离线安装包"
+title: "Arduino core for ESP8266 274 开发板数据离线安装包"
 date:   2020-07-22
 tags: [开发板,Arduino,ESP8266,安装包,2.7]
 comments: true

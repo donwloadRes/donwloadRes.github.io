@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软著源程序实例模板-参考"
+title: "软著源程序实例模板参考"
 date:   2024-05-04
 tags: [模板,源程序,文件,源代码,著作权]
 comments: true

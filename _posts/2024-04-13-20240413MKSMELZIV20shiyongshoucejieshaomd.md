@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MKS MELZI V2.0使用手册介绍"
+title: "MKS MELZI V20使用手册介绍"
 date:   2023-10-17
 tags: [MKS,V2.0,3D,打印,使用手册]
 comments: true

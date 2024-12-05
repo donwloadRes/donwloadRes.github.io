@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3+Vite+TypeScript+Ant Design Vue+Pinia后台管理系统项目"
+title: "Vue3ViteTypeScriptAnt Design VuePinia后台管理系统项目"
 date:   2021-07-04
 tags: [Vue,Vite,项目,Ant,Design]
 comments: true

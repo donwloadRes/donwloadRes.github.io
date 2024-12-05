@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【python-sklearn】中文文本处理LDA主题模型分析"
+title: "pythonsklearn中文文本处理LDA主题模型分析"
 date:   2021-04-29
 tags: [LDA,模型,sklearn,主题,文本处理]
 comments: true

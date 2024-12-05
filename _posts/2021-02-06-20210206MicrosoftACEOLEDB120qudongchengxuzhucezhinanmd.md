@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.ACE.OLEDB.12.0驱动程序注册指南"
+title: "MicrosoftACEOLEDB120驱动程序注册指南"
 date:   2024-01-20
 tags: [Microsoft,ACE,OLEDB.12,安装,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus RTU 完整源代码"
+title: "C Modbus RTU 完整源代码"
 date:   2020-12-03
 tags: [github,your,源代码,错误判断,C#]
 comments: true

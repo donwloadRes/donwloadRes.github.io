@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kafka Tool 2.0.8资源介绍"
+title: "Kafka Tool 208资源介绍"
 date:   2021-04-15
 tags: [Kafka,Tool,2.0,数据,连接]
 comments: true

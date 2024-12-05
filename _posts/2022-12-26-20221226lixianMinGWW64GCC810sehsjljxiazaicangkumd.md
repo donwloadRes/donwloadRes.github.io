@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线MinGW-W64 GCC-8.1.0 (seh+sjlj) 下载仓库"
+title: "离线MinGWW64 GCC810 sehsjlj 下载仓库"
 date:   2022-03-17
 tags: [环境变量,MinGW,GCC,解压,路径]
 comments: true

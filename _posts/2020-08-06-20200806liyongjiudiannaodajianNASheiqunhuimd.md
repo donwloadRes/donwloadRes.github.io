@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用旧电脑搭建NAS(黑群晖)"
+title: "利用旧电脑搭建NAS黑群晖"
 date:   2023-10-14
 tags: [旧电脑,NAS,U盘,文件,DSM]
 comments: true

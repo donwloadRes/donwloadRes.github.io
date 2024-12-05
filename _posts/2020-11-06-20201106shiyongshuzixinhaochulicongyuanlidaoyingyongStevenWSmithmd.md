@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用数字信号处理—从原理到应用（Steven W. Smith）"
+title: "实用数字信号处理从原理到应用Steven W Smith"
 date:   2024-08-12
 tags: [DSP,信号处理,数字,应用,读者]
 comments: true

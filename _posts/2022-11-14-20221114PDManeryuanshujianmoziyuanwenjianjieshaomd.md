@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDManer(元数建模) 资源文件介绍"
+title: "PDManer元数建模 资源文件介绍"
 date:   2023-10-16
 tags: [PDManer,数据库,建模,数据表,用户]
 comments: true

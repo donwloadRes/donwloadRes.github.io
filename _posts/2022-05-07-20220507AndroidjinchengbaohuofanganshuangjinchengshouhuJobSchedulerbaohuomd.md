@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 进程保活方案：双进程守护 + JobScheduler 保活"
+title: "Android 进程保活方案双进程守护  JobScheduler 保活"
 date:   2022-09-20
 tags: [保活,进程,Android,JobScheduler,守护]
 comments: true

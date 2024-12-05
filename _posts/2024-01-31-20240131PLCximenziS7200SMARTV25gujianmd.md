@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC西门子S7-200 SMART V2.5固件"
+title: "PLC西门子S7200 SMART V25固件"
 date:   2024-06-21
 tags: [固件,6ES7,288,0AA0,V02.05]
 comments: true

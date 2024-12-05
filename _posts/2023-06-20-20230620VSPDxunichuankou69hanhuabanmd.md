@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSPD虚拟串口 6.9 汉化版"
+title: "VSPD虚拟串口 69 汉化版"
 date:   2021-07-18
 tags: [串口,虚拟,VSPD,6.9,汉化版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：手把手搭建OPCDA-UA服务器"
+title: "保姆级教程手把手搭建OPCDAUA服务器"
 date:   2024-05-05
 tags: [UA,串口,Modbus,OPC,KEPServer]
 comments: true

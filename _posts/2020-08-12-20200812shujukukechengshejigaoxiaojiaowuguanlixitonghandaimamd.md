@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计：高校教务管理系统（含代码）"
+title: "数据库课程设计高校教务管理系统含代码"
 date:   2020-02-17
 tags: [数据库,Java,课程设计,SQL,代码]
 comments: true

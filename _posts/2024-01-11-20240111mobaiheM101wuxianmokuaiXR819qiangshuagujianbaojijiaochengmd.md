@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔百和M101-无线模块XR819-强刷固件包及教程"
+title: "魔百和M101无线模块XR819强刷固件包及教程"
 date:   2022-03-06
 tags: [固件,刷机,教程,魔百,M101]
 comments: true

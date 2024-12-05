@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MessageBox 消息提示框方法测试器"
+title: "C MessageBox 消息提示框方法测试器"
 date:   2023-11-13
 tags: [测试,MessageBox,C#,提示框,样式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenMV线性回归循迹小车（MSP430F5529）资源下载"
+title: "OpenMV线性回归循迹小车MSP430F5529资源下载"
 date:   2021-11-20
 tags: [OpenMV,MSP430F5529,小车,硬件,循迹]
 comments: true

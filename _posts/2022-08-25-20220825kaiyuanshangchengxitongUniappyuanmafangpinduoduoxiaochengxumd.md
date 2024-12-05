@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源商城系统：Uniapp源码 - 仿拼多多小程序"
+title: "开源商城系统Uniapp源码  仿拼多多小程序"
 date:   2020-01-16
 tags: [开发者,快速,系统,电商,源码]
 comments: true

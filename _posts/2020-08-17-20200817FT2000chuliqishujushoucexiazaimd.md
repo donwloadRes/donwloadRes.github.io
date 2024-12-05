@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT-2000处理器数据手册下载"
+title: "FT2000处理器数据手册下载"
 date:   2023-02-25
 tags: [FT,2000,手册,处理器,数据]
 comments: true

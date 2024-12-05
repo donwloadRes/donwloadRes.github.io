@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度、马蜂窝和大众点评数据集（情感分析）"
+title: "百度马蜂窝和大众点评数据集情感分析"
 date:   2024-04-11
 tags: [情感,分析,文本,数据,马蜂窝]
 comments: true

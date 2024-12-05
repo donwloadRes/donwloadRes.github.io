@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GC-PowerStation 中文版资源下载"
+title: "GCPowerStation 中文版资源下载"
 date:   2023-03-15
 tags: [文件,GC,PowerStation,中文版,SMT]
 comments: true

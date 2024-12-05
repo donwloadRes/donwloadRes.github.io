@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "俄版SimpleBGC、Storm32开源三轴云台软硬件及调参软件说明书"
+title: "俄版SimpleBGCStorm32开源三轴云台软硬件及调参软件说明书"
 date:   2024-11-23
 tags: [开源,源代码,调参,云台,商业用途]
 comments: true

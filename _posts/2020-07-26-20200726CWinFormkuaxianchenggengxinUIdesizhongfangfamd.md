@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 跨线程更新UI的四种方法"
+title: "C WinForm 跨线程更新UI的四种方法"
 date:   2024-01-15
 tags: [UI,线程,更新,private,控件]
 comments: true

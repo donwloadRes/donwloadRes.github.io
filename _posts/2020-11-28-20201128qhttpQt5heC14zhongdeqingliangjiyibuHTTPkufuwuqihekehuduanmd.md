@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "qhttp：Qt5和C++14中的轻量级异步HTTP库（服务器和客户端）"
+title: "qhttpQt5和C14中的轻量级异步HTTP库服务器和客户端
+date   20230619
+tags qhttpHTTP服务器异步客户端
+comments true
+author admin
+
+ qhttpQt5和C14中的轻量级异步HTTP库服务器和客户端
+
+ 介绍
+
+qhttp 是一个基于 Qt5 和 C14 的轻量级异步 HTTP 库支持 HTTP 服务器和客户端的实现该库旨在提供一个简单高效且易于使用的接口帮助开发者快速构建基于 HTTP 的应用程序
+
+ 主要特性
+
+ 轻量级qhttp 设计简洁代码量少易于集成到现有项目中
+ 异步处理基于 Qt 的事件循环机制支持异步请求和响应处理避免阻塞主线程
+ 支持服务器和客户端既可以作为 HTTP 服务器使用也可以作为 HTTP 客户端发送请求
+ 跨平台基于 Qt5支持多种操作系统包括 WindowsLinux 和 macOS
+ 易于扩展提供灵活的接口方便开发者根据需求进行扩展和定制
+
+ 使用示例
+
+以下是一个简单的 HTTP 服务器示例展示了如何使用 qhttp 创建一个基本的 HTTP 服务器
+
+cpp
+include qhttph"
 date:   2023-06-19
 tags: [qhttp,HTTP,服务器,异步,客户端]
 comments: true

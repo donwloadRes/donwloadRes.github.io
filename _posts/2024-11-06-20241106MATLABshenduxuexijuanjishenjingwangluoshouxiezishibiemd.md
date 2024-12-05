@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB深度学习：卷积神经网络手写字识别"
+title: "MATLAB深度学习卷积神经网络手写字识别"
 date:   2022-11-01
 tags: [MATLAB,卷积,代码,神经网络,训练]
 comments: true

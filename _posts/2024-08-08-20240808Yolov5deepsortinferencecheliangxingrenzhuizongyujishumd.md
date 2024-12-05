@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolov5-deepsort-inference: 车辆行人追踪与计数"
+title: "Yolov5deepsortinference 车辆行人追踪与计数"
 date:   2020-09-24
 tags: [self,YOLOv5,Detector,init,行人]
 comments: true

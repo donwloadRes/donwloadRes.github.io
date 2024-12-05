@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计计算_李东风1 介绍"
+title: "统计计算李东风1 介绍"
 date:   2023-07-05
 tags: [统计,计算,向量,误差,语言]
 comments: true

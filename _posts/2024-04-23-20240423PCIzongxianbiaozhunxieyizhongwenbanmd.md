@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI总线标准协议（中文版）"
+title: "PCI总线标准协议中文版"
 date:   2021-11-24
 tags: [PCIe,PCI,总线,标准协议,文档]
 comments: true

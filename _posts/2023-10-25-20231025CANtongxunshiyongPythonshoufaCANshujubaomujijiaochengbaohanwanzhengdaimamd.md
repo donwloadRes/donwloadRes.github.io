@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN通讯-使用Python收发CAN数据保姆级教程（包含完整代码）"
+title: "CAN通讯使用Python收发CAN数据保姆级教程包含完整代码"
 date:   2023-07-27
 tags: [Python,接收数据,发送数据,教程,Kvaser]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL 学生选课信息管理系统（含实验报告）"
+title: "JavaMySQL 学生选课信息管理系统含实验报告"
 date:   2022-11-16
 tags: [数据库,MySQL,选课,信息管理系统,课程]
 comments: true

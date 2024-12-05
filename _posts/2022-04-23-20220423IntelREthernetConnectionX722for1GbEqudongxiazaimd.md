@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel(R) Ethernet Connection X722 for 1GbE 驱动下载"
+title: "IntelR Ethernet Connection X722 for 1GbE 驱动下载"
 date:   2021-02-27
 tags: [驱动程序,文件,Intel,Ethernet,Connection]
 comments: true

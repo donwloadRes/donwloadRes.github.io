@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小二乘法简单求解（附Matlab源代码和过程可视化，容易理解）"
+title: "最小二乘法简单求解附Matlab源代码和过程可视化容易理解"
 date:   2020-07-29
 tags: [乘法,最小,源代码,Matlab,可视化]
 comments: true

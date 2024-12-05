@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALTERA器件选型指南（中文版）下载"
+title: "ALTERA器件选型指南中文版下载"
 date:   2020-10-16
 tags: [选型,ALTERA,器件,指南,中文版]
 comments: true

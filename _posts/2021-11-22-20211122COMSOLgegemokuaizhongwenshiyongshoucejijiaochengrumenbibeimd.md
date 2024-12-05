@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL各个模块中文使用手册及教程 - 入门必备"
+title: "COMSOL各个模块中文使用手册及教程  入门必备"
 date:   2024-11-17
 tags: [模块,COMSOL,仿真,教程,Multiphysics]
 comments: true

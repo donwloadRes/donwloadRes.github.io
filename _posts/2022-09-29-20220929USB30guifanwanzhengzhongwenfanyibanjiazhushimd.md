@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0规范完整中文翻译版加注释"
+title: "USB30规范完整中文翻译版加注释"
 date:   2022-05-25
 tags: [USB3.0,中文翻译,规范,注释,资源]
 comments: true

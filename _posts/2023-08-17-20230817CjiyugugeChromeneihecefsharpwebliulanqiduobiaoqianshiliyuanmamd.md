@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 基于谷歌Chrome内核 cefsharp web浏览器 多标签实例源码"
+title: "C 基于谷歌Chrome内核 cefsharp web浏览器 多标签实例源码"
 date:   2023-09-28
 tags: [浏览器,标签,源码,C#,CefSharp]
 comments: true

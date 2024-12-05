@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NAND Flash 中文版资料（很全）"
+title: "NAND Flash 中文版资料很全"
 date:   2021-11-22
 tags: [Flash,NAND,中文版,资料,仓库]
 comments: true

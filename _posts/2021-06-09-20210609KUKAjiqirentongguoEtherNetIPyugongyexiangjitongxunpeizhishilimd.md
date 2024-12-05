@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA机器人通过EtherNet-IP与工业相机通讯配置实例"
+title: "KUKA机器人通过EtherNetIP与工业相机通讯配置实例"
 date:   2021-04-09
 tags: [机器人,EtherNet,IP,库卡,相机]
 comments: true

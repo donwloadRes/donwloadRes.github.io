@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈里德物理学基础第六版》答案下载"
+title: "哈里德物理学基础第六版答案下载"
 date:   2024-10-22
 tags: [第六版,哈里,答案,物理学,文件]
 comments: true

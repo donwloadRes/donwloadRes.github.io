@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超简单的Notepad++安装Visimulator插件教程"
+title: "超简单的Notepad安装Visimulator插件教程"
 date:   2024-07-16
 tags: [插件,Notepad,++,Visimulator,安装]
 comments: true

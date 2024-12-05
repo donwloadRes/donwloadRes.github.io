@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICM-20948 官方全部资料下载"
+title: "ICM20948 官方全部资料下载"
 date:   2023-09-16
 tags: [ICM,20948,下载,资料,官方]
 comments: true

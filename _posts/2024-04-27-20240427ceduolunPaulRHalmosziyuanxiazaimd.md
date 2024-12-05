@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测度论（Paul R.Halmos）资源下载"
+title: "测度论Paul RHalmos资源下载"
 date:   2021-12-09
 tags: [测度论,Halmos,概率论,Paul,教材]
 comments: true

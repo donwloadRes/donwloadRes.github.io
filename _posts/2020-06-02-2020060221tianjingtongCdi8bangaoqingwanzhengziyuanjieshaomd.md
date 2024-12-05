@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21天精通C++第8版 高清完整资源介绍"
+title: "21天精通C第8版 高清完整资源介绍"
 date:   2022-05-06
 tags: [C++,高清,21,PDF,学习者]
 comments: true

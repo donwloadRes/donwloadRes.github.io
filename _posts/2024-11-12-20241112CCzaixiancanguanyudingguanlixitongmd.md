@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++在线餐馆预订管理系统"
+title: "CC在线餐馆预订管理系统"
 date:   2023-05-30
 tags: [餐馆,预订,查询,系统,管理系统]
 comments: true

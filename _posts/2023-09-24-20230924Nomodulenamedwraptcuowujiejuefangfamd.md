@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No module named ‘wrapt‘错误解决方法"
+title: "No module named wrapt错误解决方法"
 date:   2020-01-09
 tags: [wrapt,模块,pip,whl,安装]
 comments: true

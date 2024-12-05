@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10运行红色警戒2尤里的复仇联机技巧+防守地图"
+title: "Win10运行红色警戒2尤里的复仇联机技巧防守地图"
 date:   2022-07-04
 tags: [联机,Win10,红色警戒,防守,对战]
 comments: true

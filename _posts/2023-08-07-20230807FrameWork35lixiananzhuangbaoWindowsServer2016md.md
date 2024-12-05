@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FrameWork 3.5 离线安装包 Windows Server 2016"
+title: "FrameWork 35 离线安装包 Windows Server 2016"
 date:   2023-01-25
 tags: [安装包,FrameWork,3.5,离线,安装]
 comments: true

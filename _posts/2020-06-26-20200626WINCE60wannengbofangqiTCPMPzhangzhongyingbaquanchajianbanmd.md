@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINCE 6.0 万能播放器 - TCPMP 掌中影霸 全插件版"
+title: "WINCE 60 万能播放器  TCPMP 掌中影霸 全插件版"
 date:   2023-08-09
 tags: [播放器,插件,Windows,CE,TCPMP]
 comments: true

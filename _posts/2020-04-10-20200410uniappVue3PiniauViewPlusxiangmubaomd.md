@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app + Vue3 + Pinia + uView-Plus 项目包"
+title: "uniapp  Vue3  Pinia  uViewPlus 项目包"
 date:   2020-01-12
 tags: [uni,app,npm,Pinia,Plus]
 comments: true

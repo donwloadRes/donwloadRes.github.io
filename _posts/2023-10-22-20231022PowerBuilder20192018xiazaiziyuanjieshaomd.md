@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 2019-2018 下载资源介绍"
+title: "PowerBuilder 20192018 下载资源介绍"
 date:   2020-11-15
 tags: [PowerBuilder2017,R3,版本,文件,资源]
 comments: true

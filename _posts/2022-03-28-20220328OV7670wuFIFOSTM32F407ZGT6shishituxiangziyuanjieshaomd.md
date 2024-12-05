@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OV7670无FIFO+STM32F407ZGT6实时图像资源介绍"
+title: "OV7670无FIFOSTM32F407ZGT6实时图像资源介绍"
 date:   2022-01-31
 tags: [OV7670,STM32F407ZGT6,实时,图像,摄像头]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A++浏览器资源文件"
+title: "A浏览器资源文件"
 date:   2021-08-04
 tags: [浏览器,++,下载,浏览,安装]
 comments: true

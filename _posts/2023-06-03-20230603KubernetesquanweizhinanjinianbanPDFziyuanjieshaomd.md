@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes权威指南（纪念版）PDF资源介绍"
+title: "Kubernetes权威指南纪念版PDF资源介绍"
 date:   2022-12-16
 tags: [Kubernetes,PDF,纪念版,指南,分享]
 comments: true

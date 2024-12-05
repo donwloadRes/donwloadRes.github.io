@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#重写MessageBox对话框资源下载"
+title: "C重写MessageBox对话框资源下载"
 date:   2023-08-06
 tags: [对话框,C#,MessageBox,重写,资源]
 comments: true

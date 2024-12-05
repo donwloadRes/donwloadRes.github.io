@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7.Net.DLL + 中文使用手册"
+title: "S7NetDLL  中文使用手册"
 date:   2023-11-24
 tags: [DLL,S7,Net,使用手册,PLC]
 comments: true

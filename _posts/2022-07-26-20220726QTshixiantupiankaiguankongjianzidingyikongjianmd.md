@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现图片开关控件-自定义控件"
+title: "QT实现图片开关控件自定义控件"
 date:   2021-09-30
 tags: [控件,自定义,QT,图片,开关]
 comments: true

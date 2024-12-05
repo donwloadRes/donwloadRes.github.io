@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全！AFM数据处理软件Nanoscope Analysis安装教程（附安装包）及使用教程"
+title: "全网最全AFM数据处理软件Nanoscope Analysis安装教程附安装包及使用教程"
 date:   2023-03-04
 tags: [软件,安装,AFM,Analysis,教程]
 comments: true

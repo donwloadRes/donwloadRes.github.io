@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-HarmonyOS应用开发能力认证V2.0模拟考试答案参考"
+title: "HCIAHarmonyOS应用开发能力认证V20模拟考试答案参考"
 date:   2022-11-02
 tags: [HCIA,HarmonyOS,模拟考试,答案,认证]
 comments: true

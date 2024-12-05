@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB信号处理教程PPT（完整版）"
+title: "MATLAB信号处理教程PPT完整版"
 date:   2023-05-19
 tags: [信号处理,MATLAB,工具箱,教程,完整版]
 comments: true

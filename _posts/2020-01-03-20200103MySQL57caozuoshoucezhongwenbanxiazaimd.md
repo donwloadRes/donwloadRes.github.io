@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 操作手册中文版下载"
+title: "MySQL 57 操作手册中文版下载"
 date:   2020-04-02
 tags: [5.7,操作手册,中文版,MySQL,mysql]
 comments: true

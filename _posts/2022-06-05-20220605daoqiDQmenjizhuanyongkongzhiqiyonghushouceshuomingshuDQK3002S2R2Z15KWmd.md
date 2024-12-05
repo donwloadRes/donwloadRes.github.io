@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "道奇（DQ）门机专用控制器用户手册 说明书 DQ -K300-2S2R2Z-1.5KW"
+title: "道奇DQ门机专用控制器用户手册 说明书 DQ K3002S2R2Z15KW"
 date:   2023-12-18
 tags: [DQ,控制器,用户手册,K300,2S2R2Z]
 comments: true

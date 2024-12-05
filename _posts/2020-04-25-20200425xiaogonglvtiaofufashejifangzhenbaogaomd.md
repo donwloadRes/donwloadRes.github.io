@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小功率调幅发射机（仿真+报告）"
+title: "小功率调幅发射机仿真报告"
 date:   2022-03-21
 tags: [仿真,Multisim,发射机,调幅,功率]
 comments: true

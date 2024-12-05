@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python简易爬虫：爬取肖申克的救赎》豆瓣热评"
+title: "Python简易爬虫爬取肖申克的救赎豆瓣热评"
 date:   2020-10-20
 tags: [爬取,Python,热评,爬虫,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android记事本 (附apk和源码)"
+title: "Android记事本 附apk和源码"
 date:   2023-12-17
 tags: [Android,笔记,源码,记事本,SQLite]
 comments: true

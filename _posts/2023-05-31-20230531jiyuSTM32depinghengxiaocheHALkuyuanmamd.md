@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的平衡小车(HAL库源码)"
+title: "基于STM32的平衡小车HAL库源码"
 date:   2023-07-02
 tags: [STM32,源码,HAL,小车,基于]
 comments: true

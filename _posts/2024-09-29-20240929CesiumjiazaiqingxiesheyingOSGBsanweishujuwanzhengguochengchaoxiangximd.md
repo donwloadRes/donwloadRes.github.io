@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium加载倾斜摄影OSGB三维数据完整过程（超详细）"
+title: "Cesium加载倾斜摄影OSGB三维数据完整过程超详细"
 date:   2023-07-30
 tags: [OSGB,Cesium,数据,加载,格式]
 comments: true

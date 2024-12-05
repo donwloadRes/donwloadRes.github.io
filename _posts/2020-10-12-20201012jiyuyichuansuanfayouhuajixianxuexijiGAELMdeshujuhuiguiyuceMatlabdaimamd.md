@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法优化极限学习机(GA-ELM)的数据回归预测Matlab代码"
+title: "基于遗传算法优化极限学习机GAELM的数据回归预测Matlab代码"
 date:   2024-10-18
 tags: [遗传算法,Matlab,学习机,GA,ELM]
 comments: true

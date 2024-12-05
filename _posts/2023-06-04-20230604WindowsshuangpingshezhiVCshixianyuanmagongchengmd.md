@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows双屏设置VC++实现源码工程"
+title: "Windows双屏设置VC实现源码工程"
 date:   2024-03-17
 tags: [双屏,源码,Windows,C++,工程]
 comments: true

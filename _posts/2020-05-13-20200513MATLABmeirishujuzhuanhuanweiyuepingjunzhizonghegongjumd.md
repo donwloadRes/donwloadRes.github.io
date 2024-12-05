@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 每日数据转换为月平均值-总和工具"
+title: "MATLAB 每日数据转换为月平均值总和工具"
 date:   2023-07-20
 tags: [数据,MATLAB,平均值,文件名,总和]
 comments: true

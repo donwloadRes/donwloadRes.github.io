@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "极2路由器刷Padavan(老毛子)固件并设置无线中继"
+title: "极2路由器刷Padavan老毛子固件并设置无线中继"
 date:   2023-02-26
 tags: [固件,Padavan,路由器,无线,刷入]
 comments: true

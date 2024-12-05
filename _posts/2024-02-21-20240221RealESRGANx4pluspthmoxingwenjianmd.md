@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RealESRGAN-x4plus.pth 模型文件"
+title: "RealESRGANx4pluspth 模型文件"
 date:   2020-03-16
 tags: [RealESRGAN,x4plus,模型,pth,分辨率]
 comments: true

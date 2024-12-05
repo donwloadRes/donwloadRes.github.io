@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代示波器高级应用：测试及使用技巧"
+title: "现代示波器高级应用测试及使用技巧"
 date:   2022-10-23
 tags: [示波器,测试,技巧,高级,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF MVVM模式完整实例(比较不错）"
+title: "C WPF MVVM模式完整实例比较不错"
 date:   2023-06-10
 tags: [实例,WPF,MVVM,C#,开发者]
 comments: true

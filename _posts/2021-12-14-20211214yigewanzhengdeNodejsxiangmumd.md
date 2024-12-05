@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一个完整的Node.js项目"
+title: "一个完整的Nodejs项目"
 date:   2021-02-07
 tags: [项目,Node,js,完整,练习]
 comments: true

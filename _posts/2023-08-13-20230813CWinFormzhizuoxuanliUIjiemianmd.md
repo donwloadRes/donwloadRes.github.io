@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 制作绚丽UI界面"
+title: "C WinForm 制作绚丽UI界面"
 date:   2022-06-19
 tags: [界面,UI,DLL,WinForm,NET]
 comments: true

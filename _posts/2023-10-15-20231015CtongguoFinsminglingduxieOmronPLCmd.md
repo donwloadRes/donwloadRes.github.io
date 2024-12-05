@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过Fins命令读写Omron PLC"
+title: "C通过Fins命令读写Omron PLC"
 date:   2021-11-26
 tags: [PLC,C#,Omron,Fins,文件]
 comments: true

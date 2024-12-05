@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.2.3 官方文档（中文版）高清完整PDF"
+title: "Python 323 官方文档中文版高清完整PDF"
 date:   2023-12-21
 tags: [文档,Python,3.2,PDF,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "肺部数据集（标注以及原图）一一对应"
+title: "肺部数据集标注以及原图一一对应"
 date:   2023-05-29
 tags: [肺部,图像,标注,数据,一一对应]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习OpenCV(中文版) PDF 下载"
+title: "学习OpenCV中文版 PDF 下载"
 date:   2022-07-26
 tags: [OpenCV,学习,中文版,pdf,下载]
 comments: true

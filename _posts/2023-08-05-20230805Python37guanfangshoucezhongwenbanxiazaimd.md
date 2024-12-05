@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7 官方手册中文版下载"
+title: "Python 37 官方手册中文版下载"
 date:   2022-08-21
 tags: [Python,3.7,手册,中文版,下载]
 comments: true

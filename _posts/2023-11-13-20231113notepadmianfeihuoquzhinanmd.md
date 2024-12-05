@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notepad++免费获取指南"
+title: "notepad免费获取指南"
 date:   2023-10-25
 tags: [++,Notepad,下载,获取,notepad]
 comments: true

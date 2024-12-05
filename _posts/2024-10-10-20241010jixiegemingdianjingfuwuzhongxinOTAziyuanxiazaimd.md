@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械革命电竞服务中心(OTA) 资源下载"
+title: "机械革命电竞服务中心OTA 资源下载"
 date:   2023-10-01
 tags: [服务中心,下载,资源,电竞,旧版本]
 comments: true

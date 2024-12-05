@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VirtualXpose两个测试包.zip 介绍"
+title: "VirtualXpose两个测试包zip 介绍"
 date:   2022-01-08
 tags: [测试,VirtualXpose,zip,操作系统,测试工具]
 comments: true

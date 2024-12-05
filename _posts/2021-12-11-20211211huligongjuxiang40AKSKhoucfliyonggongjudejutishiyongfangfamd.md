@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狐狸工具箱4.0：AK-SK后cf利用工具的具体使用方法"
+title: "狐狸工具箱40AKSK后cf利用工具的具体使用方法"
 date:   2020-06-15
 tags: [工具箱,Key,cf,AK,SK]
 comments: true

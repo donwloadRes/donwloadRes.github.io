@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSI-TIA-568-C.2-2009 网线标准资源下载"
+title: "ANSITIA568C22009 网线标准资源下载"
 date:   2023-12-17
 tags: [网线,ANSI,TIA,568,C.2]
 comments: true

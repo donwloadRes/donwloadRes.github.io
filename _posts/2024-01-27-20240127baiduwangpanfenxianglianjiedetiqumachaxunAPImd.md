@@ -1,6 +1,43 @@
 ---
 layout: post
-title: "百度网盘分享链接的提取码查询API"
+title: "百度网盘分享链接的提取码查询API
+date   20220827
+tags API百度网链接提取分享
+comments true
+author admin
+
+ 百度网盘分享链接的提取码查询API
+
+本资源文件提供了一个用于查询百度网盘分享链接提取码的API接口通过该API用户可以方便地获取百度网盘分享链接的提取码从而简化下载过程
+
+ 功能介绍
+
+ API地址 提供了一个特定的URL用户可以通过该URL查询百度网盘分享链接的提取码
+ 使用方法 用户只需在API地址后附加百度网盘分享链接即可获取相应的提取码
+ 返回格式 API返回的提取码信息以JSON格式呈现包含提取码链接状态等详细信息
+
+ 示例
+
+假设百度网盘分享链接为httpspanbaiducoms1FOX8GE1qQ0H9VK5M4nZeDQ
+
+组合API地址后为httpsnuexinigqbdpphpurlhttpspanbaiducoms1FOX8GE1qQ0H9VK5M4nZeDQ
+
+返回的JSON文本中包含提取码信息例如
+json
+
+  id 5c59338a4b3f411eac7a6375
+  type BDY
+  pid FOX8GE1qQ0H9VK5M4nZeDQ
+  invalidcount 0
+  state VALID
+  updatedat 20190205 152828
+  createdat 20190205 145610
+  accesscode rie7
+  referrer 
+    
+      0363d7f8c949b9b4d516e014d1f03dcf 
+        url httpwwwgscqmethread10276htm
+        title GSCQ湖南卫视歌手2019第四期齐豫洒泪唱今世忆三毛 波琳娜炸裂高音强势补位1080ITS720PMP4696G203G音乐综艺乐赏 GSCQME"
 date:   2022-08-27
 tags: [API,百度网,链接,提取,分享]
 comments: true

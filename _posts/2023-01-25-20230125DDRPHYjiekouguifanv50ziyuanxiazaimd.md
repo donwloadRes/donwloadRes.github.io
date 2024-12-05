@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR PHY 接口规范 v5.0 资源下载"
+title: "DDR PHY 接口规范 v50 资源下载"
 date:   2023-10-07
 tags: [PHY,DDR,接口,DFI,文件]
 comments: true

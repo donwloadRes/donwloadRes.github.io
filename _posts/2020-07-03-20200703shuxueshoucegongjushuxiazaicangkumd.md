@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学手册（工具书）下载仓库"
+title: "数学手册工具书下载仓库"
 date:   2020-04-01
 tags: [数学,手册,下载,仓库,数学知识]
 comments: true

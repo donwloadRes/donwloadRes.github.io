@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.8.1 下载资源介绍"
+title: "Maven 381 下载资源介绍"
 date:   2020-06-10
 tags: [Maven,3.8,配置文件,安装包,下载]
 comments: true

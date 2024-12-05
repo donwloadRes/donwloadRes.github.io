@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决WPS VBA支持库安装问题（亲测有效）"
+title: "解决WPS VBA支持库安装问题亲测有效"
 date:   2021-05-15
 tags: [WPS,VBA,安装,插件,亲测]
 comments: true

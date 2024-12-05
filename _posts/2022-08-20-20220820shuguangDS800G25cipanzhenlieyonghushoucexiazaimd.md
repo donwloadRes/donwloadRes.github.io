@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "曙光DS800-G25磁盘阵列用户手册下载"
+title: "曙光DS800G25磁盘阵列用户手册下载"
 date:   2020-05-26
 tags: [磁盘阵列,DS800,G25,曙光,用户手册]
 comments: true

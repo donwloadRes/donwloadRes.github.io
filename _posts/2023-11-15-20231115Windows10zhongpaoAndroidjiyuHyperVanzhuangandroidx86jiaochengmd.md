@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10 中跑 Android（基于 Hyper-V）安装android-x86教程"
+title: "Windows10 中跑 Android基于 HyperV安装androidx86教程"
 date:   2021-08-08
 tags: [Android,x86,虚拟机,Hyper,Windows]
 comments: true

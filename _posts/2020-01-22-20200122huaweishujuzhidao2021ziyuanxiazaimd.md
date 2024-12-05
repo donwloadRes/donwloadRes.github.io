@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为数据之道_2021 资源下载"
+title: "华为数据之道2021 资源下载"
 date:   2020-01-08
 tags: [数据管理,华为,2021,文件,pptx]
 comments: true

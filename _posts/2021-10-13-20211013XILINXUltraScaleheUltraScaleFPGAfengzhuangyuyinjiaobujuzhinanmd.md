@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XILINX UltraScale 和 UltraScale+ FPGA 封装与引脚布局指南"
+title: "XILINX UltraScale 和 UltraScale FPGA 封装与引脚布局指南"
 date:   2024-03-09
 tags: [UltraScale,引脚,封装,XILINX,FPGA]
 comments: true

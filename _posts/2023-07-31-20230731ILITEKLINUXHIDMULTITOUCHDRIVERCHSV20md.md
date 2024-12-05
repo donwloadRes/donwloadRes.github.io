@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILITEK LINUX HID MULTITOUCH DRIVER CHS V2.0"
+title: "ILITEK LINUX HID MULTITOUCH DRIVER CHS V20"
 date:   2023-02-08
 tags: [驱动,ILITEK,触摸屏,文档,HID]
 comments: true

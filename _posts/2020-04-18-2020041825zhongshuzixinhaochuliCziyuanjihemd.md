@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25种数字信号处理C++资源集合"
+title: "25种数字信号处理C资源集合"
 date:   2020-03-26
 tags: [滤波器,信号处理,25,C++,变换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络实验三：编程实现可靠传输协议"
+title: "计算机网络实验三编程实现可靠传输协议"
 date:   2023-04-08
 tags: [实验,编程,可靠,Go,Back]
 comments: true

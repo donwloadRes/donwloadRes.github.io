@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fping5.1 for Windows 下载仓库"
+title: "fping51 for Windows 下载仓库"
 date:   2024-10-12
 tags: [fping,192.168,IP,fping5.1,ping]
 comments: true

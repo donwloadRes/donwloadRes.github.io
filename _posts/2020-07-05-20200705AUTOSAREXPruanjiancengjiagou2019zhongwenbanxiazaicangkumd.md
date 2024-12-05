@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR_EXP_软件层架构(2019)(中文版) 下载仓库"
+title: "AUTOSAREXP软件层架构2019中文版 下载仓库"
 date:   2021-10-23
 tags: [AUTOSAR,架构,2019,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载以太网测试标准TC8 2.0版"
+title: "车载以太网测试标准TC8 20版"
 date:   2024-01-11
 tags: [测试,以太网,车载,IP,测试用例]
 comments: true

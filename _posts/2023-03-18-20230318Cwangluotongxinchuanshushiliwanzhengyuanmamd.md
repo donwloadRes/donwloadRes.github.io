@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++网络通信传输实例 完整源码"
+title: "C网络通信传输实例 完整源码"
 date:   2024-05-30
 tags: [客户端,服务器端,C++,接字,网络通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云快充平台协议V1.5-二维码远程下发指令补充"
+title: "云快充平台协议V15二维码远程下发指令补充"
 date:   2021-03-30
 tags: [云快,二维码,指令,远程,下发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB设计过孔、铜厚、线宽与电流计算工具"
+title: "PCB设计过孔铜厚线宽与电流计算工具"
 date:   2023-10-15
 tags: [PCB,设计,铜厚,线宽,计算]
 comments: true

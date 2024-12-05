@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现 EmguCV4.2 QRcode 二维码检测与识别"
+title: "C 实现 EmguCV42 QRcode 二维码检测与识别"
 date:   2022-09-14
 tags: [二维码,识别,图像,检测,EmguCV4.2]
 comments: true

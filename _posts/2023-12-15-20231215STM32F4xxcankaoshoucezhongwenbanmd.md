@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4xx参考手册--中文版"
+title: "STM32F4xx参考手册中文版"
 date:   2024-06-21
 tags: [参考手册,STM32F4xx,手册,中文版,--]
 comments: true

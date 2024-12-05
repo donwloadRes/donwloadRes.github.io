@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC电磁兼容设计.pdf"
+title: "EMC电磁兼容设计pdf"
 date:   2024-05-30
 tags: [电磁兼容,EMC,设计,文档,这份]
 comments: true

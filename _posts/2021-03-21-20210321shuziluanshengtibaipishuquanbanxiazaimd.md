@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字孪生体白皮书（全版）下载"
+title: "数字孪生体白皮书全版下载"
 date:   2021-03-23
 tags: [孪生,白皮书,全版,数字,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Five-Bus-Load-Flow：基于MATLAB Simulink的IEEE 5节点潮流计算仿真模型"
+title: "FiveBusLoadFlow基于MATLAB Simulink的IEEE 5节点潮流计算仿真模型"
 date:   2023-09-04
 tags: [潮流,母线,MATLAB,Simulink,模型]
 comments: true

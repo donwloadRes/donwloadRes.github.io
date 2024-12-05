@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW编程指南：十年工程师经验分享"
+title: "LabVIEW编程指南十年工程师经验分享"
 date:   2023-12-07
 tags: [编程,LabVIEW,PDF,工程师,本书]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLiteDatabaseBrowser - 3.12.2 win64 便携版"
+title: "SQLiteDatabaseBrowser  3122 win64 便携版"
 date:   2024-05-14
 tags: [SQLite,数据库,便携,开源,3.12]
 comments: true

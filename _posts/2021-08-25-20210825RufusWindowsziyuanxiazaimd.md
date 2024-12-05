@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rufus（Windows）资源下载"
+title: "RufusWindows资源下载"
 date:   2020-07-30
 tags: [Rufus,USB,Windows,驱动器,镜像文件]
 comments: true

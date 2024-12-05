@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023届蓝桥杯试题【Python B组】资源下载"
+title: "2023届蓝桥杯试题Python B组资源下载"
 date:   2020-01-13
 tags: [试题,蓝桥,资源库,2023,参考答案]
 comments: true

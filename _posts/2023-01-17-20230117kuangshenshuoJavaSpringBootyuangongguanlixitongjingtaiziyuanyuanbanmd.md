@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狂神说Java SpringBoot员工管理系统静态资源(原版)"
+title: "狂神说Java SpringBoot员工管理系统静态资源原版"
 date:   2020-04-03
 tags: [SpringBoot,静态,资源,页面,狂神]
 comments: true

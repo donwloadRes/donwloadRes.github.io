@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年全国大学生数据分析大赛 - 医药电商销售数据资源分析"
+title: "2022年全国大学生数据分析大赛  医药电商销售数据资源分析"
 date:   2024-01-22
 tags: [数据分析,电商,https,2022,Python]
 comments: true

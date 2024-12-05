@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应控制课件（北航研究生PPT）"
+title: "自适应控制课件北航研究生PPT"
 date:   2020-01-03
 tags: [课件,适应控制,PPT,北航,研究生]
 comments: true

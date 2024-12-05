@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 封装与硅通孔 (TSV) 工艺技术指南"
+title: "3D 封装与硅通孔 TSV 工艺技术指南"
 date:   2022-06-28
 tags: [TSV,3D,通孔,封装,技术]
 comments: true

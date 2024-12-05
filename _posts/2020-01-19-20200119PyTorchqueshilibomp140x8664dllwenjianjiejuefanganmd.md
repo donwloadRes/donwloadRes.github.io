@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch 缺失 libomp140.x86_64.dll 文件解决方案"
+title: "PyTorch 缺失 libomp140x8664dll 文件解决方案"
 date:   2020-11-06
 tags: [PyTorch,dll,64,文件,libomp140]
 comments: true

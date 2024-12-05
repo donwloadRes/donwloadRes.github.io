@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用C++ DLL结构体或函数声明代码生成工具"
+title: "C调用C DLL结构体或函数声明代码生成工具"
 date:   2021-10-26
 tags: [C#,C++,工具,DLL,开发者]
 comments: true

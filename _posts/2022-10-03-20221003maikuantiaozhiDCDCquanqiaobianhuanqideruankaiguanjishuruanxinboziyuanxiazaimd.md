@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "脉宽调制DC／DC全桥变换器的软开关技术(阮新波) 资源下载"
+title: "脉宽调制DCDC全桥变换器的软开关技术阮新波 资源下载"
 date:   2023-06-28
 tags: [DC,脉宽调制,全桥,变换器,技术]
 comments: true

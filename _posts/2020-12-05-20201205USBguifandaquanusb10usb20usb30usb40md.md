@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB规范大全(usb1.0 usb2.0 usb3.0 usb4.0)"
+title: "USB规范大全usb10 usb20 usb30 usb40"
 date:   2024-04-03
 tags: [USB,规范,1.0,4.0,资源]
 comments: true

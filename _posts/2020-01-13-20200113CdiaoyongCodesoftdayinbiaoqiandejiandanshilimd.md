@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用Codesoft打印标签的简单示例"
+title: "C 调用Codesoft打印标签的简单示例"
 date:   2024-03-04
 tags: [示例,C#,Codesoft,打印,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学计算机组成原理实验【合集】"
+title: "山东大学计算机组成原理实验合集"
 date:   2021-05-18
 tags: [实验,合集,山东大学,文件,学习]
 comments: true

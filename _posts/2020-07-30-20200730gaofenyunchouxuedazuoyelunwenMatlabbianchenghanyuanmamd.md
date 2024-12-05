@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高分运筹学大作业论文（Matlab编程，含源码）"
+title: "高分运筹学大作业论文Matlab编程含源码"
 date:   2021-06-10
 tags: [运筹学,源码,论文,Matlab,求解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于概率距离的场景快速削减法的风光场景生成与削减方法"
+title: "MATLAB代码基于概率距离的场景快速削减法的风光场景生成与削减方法"
 date:   2020-06-29
 tags: [场景,削减,代码,生成,概率距离]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS1.5 + CS1.6 联机对战优化资源包"
+title: "CS15  CS16 联机对战优化资源包"
 date:   2023-04-12
 tags: [游戏,CS1.5,CS1.6,玩家,资源]
 comments: true

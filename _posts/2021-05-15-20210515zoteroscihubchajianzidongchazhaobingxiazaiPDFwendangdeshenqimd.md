@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zotero-scihub插件：自动查找并下载PDF文档的神器"
+title: "zoteroscihub插件自动查找并下载PDF文档的神器"
 date:   2022-02-15
 tags: [插件,PDF,zotero,scihub,Zotero]
 comments: true

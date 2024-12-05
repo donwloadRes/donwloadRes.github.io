@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LinkV2.0 烧录器固件包"
+title: "STLinkV20 烧录器固件包"
 date:   2020-05-01
 tags: [固件,ST,烧录,LinkV2.0,烧录器]
 comments: true

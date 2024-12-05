@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【毕业设计】在线学习平台"
+title: "毕业设计在线学习平台"
 date:   2021-04-14
 tags: [毕业设计,在线,源码,项目,学习]
 comments: true

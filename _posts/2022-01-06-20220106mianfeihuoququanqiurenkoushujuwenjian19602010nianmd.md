@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费获取全球人口数据文件（1960-2010年）"
+title: "免费获取全球人口数据文件19602010年"
 date:   2023-12-28
 tags: [Python,1960,2010,文件,JSON]
 comments: true

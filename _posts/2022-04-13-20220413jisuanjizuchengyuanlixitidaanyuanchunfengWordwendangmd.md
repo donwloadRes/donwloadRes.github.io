@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理习题答案_袁春风_Word文档"
+title: "计算机组成原理习题答案袁春风Word文档"
 date:   2024-03-23
 tags: [习题,Word,文档,计算机,原理]
 comments: true

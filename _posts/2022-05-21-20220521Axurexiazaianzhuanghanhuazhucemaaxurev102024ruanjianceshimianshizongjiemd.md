@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure下载安装-汉化-注册码_axurev10，2024软件测试面试总结"
+title: "Axure下载安装汉化注册码axurev102024软件测试面试总结"
 date:   2020-03-23
 tags: [Axure,汉化,软件测试,面试,注册码]
 comments: true

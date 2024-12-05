@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel-VBA 编程教程(完整版)"
+title: "ExcelVBA 编程教程完整版"
 date:   2020-01-20
 tags: [VBA,Excel,自动化,编程,应用程序]
 comments: true

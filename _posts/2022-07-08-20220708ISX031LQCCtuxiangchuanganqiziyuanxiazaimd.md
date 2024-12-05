@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISX031LQC-C 图像传感器资源下载"
+title: "ISX031LQCC 图像传感器资源下载"
 date:   2023-06-29
 tags: [驱动程序,ISX031LQC,Xilinx,传感器,图像]
 comments: true

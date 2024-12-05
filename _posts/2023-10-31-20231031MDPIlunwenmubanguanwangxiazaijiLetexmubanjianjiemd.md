@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDPI论文模板 - 官网下载及Letex模板简介"
+title: "MDPI论文模板  官网下载及Letex模板简介"
 date:   2022-07-14
 tags: [模板,MDPI,LaTeX,格式,期刊]
 comments: true

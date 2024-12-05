@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phison PS2251_UP19 量产工具 CTool v3.05"
+title: "Phison PS2251UP19 量产工具 CTool v305"
 date:   2024-08-12
 tags: [量产,格式化,UP19,软件,PS2251]
 comments: true

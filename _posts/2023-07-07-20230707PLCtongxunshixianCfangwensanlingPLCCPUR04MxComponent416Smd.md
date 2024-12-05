@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC通讯实现 - C#访问三菱PLC（CPU-R04）- MxComponent4.16S"
+title: "PLC通讯实现  C访问三菱PLCCPUR04 MxComponent416S"
 date:   2024-03-22
 tags: [PLC,通讯,三菱,C#,MxComponent4.16]
 comments: true

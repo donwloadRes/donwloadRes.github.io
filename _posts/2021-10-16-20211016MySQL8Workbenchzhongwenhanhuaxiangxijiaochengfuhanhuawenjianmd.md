@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL8 Workbench 中文汉化详细教程（附汉化文件）"
+title: "MySQL8 Workbench 中文汉化详细教程附汉化文件"
 date:   2024-03-27
 tags: [汉化,Workbench,文件,教程,MySQL8]
 comments: true

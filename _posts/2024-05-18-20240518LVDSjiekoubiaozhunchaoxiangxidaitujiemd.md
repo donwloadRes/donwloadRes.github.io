@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVDS接口标准（超详细，带图解）"
+title: "LVDS接口标准超详细带图解"
 date:   2020-07-04
 tags: [LVDS,文档,接口标准,接口,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pg066-jesd204.pdf - Xilinx JESD204 IP手册简介"
+title: "pg066jesd204pdf  Xilinx JESD204 IP手册简介"
 date:   2020-05-13
 tags: [JESD204,IP,Xilinx,FPGA,文档]
 comments: true

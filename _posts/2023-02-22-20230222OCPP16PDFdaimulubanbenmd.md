@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 1.6 PDF带目录版本"
+title: "OCPP 16 PDF带目录版本"
 date:   2020-12-03
 tags: [OCPP,1.6,PDF,目录,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页显示3D模型(obj和mtl格式)"
+title: "网页显示3D模型obj和mtl格式"
 date:   2024-04-25
 tags: [3D,模型,浏览器,网页,文件]
 comments: true

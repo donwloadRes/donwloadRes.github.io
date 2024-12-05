@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无限强度加密策略文件 jce-policy-8.zip"
+title: "无限强度加密策略文件 jcepolicy8zip"
 date:   2024-03-04
 tags: [Java,policy,加密,文件,jce]
 comments: true

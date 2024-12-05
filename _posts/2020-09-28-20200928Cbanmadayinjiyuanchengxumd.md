@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#斑马打印机源程序"
+title: "C斑马打印机源程序"
 date:   2021-12-10
 tags: [C#,打印机,源程序,开发者,打印]
 comments: true

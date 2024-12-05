@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二总线通信-POWERbus总线讲解"
+title: "二总线通信POWERbus总线讲解"
 date:   2024-11-03
 tags: [总线,POWERbus,通信,讲解,技术]
 comments: true

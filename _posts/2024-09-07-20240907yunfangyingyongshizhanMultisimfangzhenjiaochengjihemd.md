@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运放应用实战：Multisim仿真教程集合"
+title: "运放应用实战Multisim仿真教程集合"
 date:   2020-01-26
 tags: [运放,仿真,Multisim,电路,电路设计]
 comments: true

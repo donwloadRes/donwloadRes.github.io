@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI DSI - V1-3 协议标准资源文件"
+title: "MIPI DSI  V13 协议标准资源文件"
 date:   2021-01-31
 tags: [文件,DSI,MIPI,V1,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于改进遗传算法的交通信号优化（Python代码实现）"
+title: "基于改进遗传算法的交通信号优化Python代码实现"
 date:   2023-04-05
 tags: [交通信号,代码,Python,遗传算法,优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP Gui 7.7 Smartforms 插件"
+title: "SAP Gui 77 Smartforms 插件"
 date:   2024-08-18
 tags: [插件,SAP,Smartforms,Gui,安装]
 comments: true

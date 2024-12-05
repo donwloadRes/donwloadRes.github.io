@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-XFOIL调用程序及翼型参数化设计"
+title: "MATLABXFOIL调用程序及翼型参数化设计"
 date:   2022-10-04
 tags: [翼型,MATLAB,XFOIL,参数,程序]
 comments: true

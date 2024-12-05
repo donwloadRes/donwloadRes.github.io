@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Python编写我的世界》简版游戏"
+title: "用Python编写我的世界简版游戏"
 date:   2021-07-20
 tags: [游戏,Python,编程,方块,纹理]
 comments: true

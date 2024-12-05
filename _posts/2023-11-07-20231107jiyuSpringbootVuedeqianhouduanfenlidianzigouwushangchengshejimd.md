@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Springboot+Vue的前后端分离电子购物商城设计"
+title: "基于SpringbootVue的前后端分离电子购物商城设计"
 date:   2021-10-20
 tags: [订单,商品,管理,轮播,商城]
 comments: true

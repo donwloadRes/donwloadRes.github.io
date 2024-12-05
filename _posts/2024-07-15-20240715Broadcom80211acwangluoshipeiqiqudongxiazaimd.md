@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Broadcom 802.11ac 网络适配器驱动下载"
+title: "Broadcom 80211ac 网络适配器驱动下载"
 date:   2020-08-08
 tags: [驱动程序,Windows,网络适配器,ac,8.1]
 comments: true

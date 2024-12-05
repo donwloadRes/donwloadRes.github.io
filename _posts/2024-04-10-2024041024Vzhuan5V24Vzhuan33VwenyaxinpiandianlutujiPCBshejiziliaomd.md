@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24V转5V, 24V转3.3V稳压芯片电路图及PCB设计资料"
+title: "24V转5V 24V转33V稳压芯片电路图及PCB设计资料"
 date:   2020-01-29
 tags: [PCB,24V,电路图,5V,设计]
 comments: true

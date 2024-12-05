@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP存储 H13-624 V5.0 Q730题库资源介绍"
+title: "HCIP存储 H13624 V50 Q730题库资源介绍"
 date:   2020-10-11
 tags: [HCIP,题库,存储,H13,Q730]
 comments: true

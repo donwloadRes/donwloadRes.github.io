@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "学生网页设计资源：HTML、CSS、JS 源码库"
+title: "学生网页设计资源HTMLCSSJS 源码库
+date   20200710
+tags HTML网页CSS源码JavaScript
+comments true
+author admin
+
+
+layout post
+title 学生网页设计资源HTMLCSSJS 源码库"
 date:   2020-07-10
 tags: [HTML,网页,CSS,源码,JavaScript]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "学生网页设计资源：HTML、CSS、JS 源码库"
+title: "学生网页设计资源HTMLCSSJS 源码库
+date   20200710
+tags HTML网页CSS源码JavaScript
+comments true
+author admin
+
+
+layout post
+title 学生网页设计资源HTMLCSSJS 源码库"
 date:   2021-11-08
 tags: [HTML,网页,CSS,源码,JavaScript]
 comments: true

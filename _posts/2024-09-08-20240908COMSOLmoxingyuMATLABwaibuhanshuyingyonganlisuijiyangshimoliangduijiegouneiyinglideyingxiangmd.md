@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL模型与MATLAB外部函数应用案例：随机杨氏模量对结构内应力的影响"
+title: "COMSOL模型与MATLAB外部函数应用案例随机杨氏模量对结构内应力的影响"
 date:   2020-05-11
 tags: [杨氏模量,COMSOL,MATLAB,函数,模型]
 comments: true

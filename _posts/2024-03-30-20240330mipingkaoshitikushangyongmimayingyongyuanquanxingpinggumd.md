@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "密评考试题库：商用密码应用与安全性评估"
+title: "密评考试题库商用密码应用与安全性评估"
 date:   2020-11-07
 tags: [密钥,题目,密评,考试,密码]
 comments: true

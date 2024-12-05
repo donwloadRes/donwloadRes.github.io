@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "强大的C#控件类库，助你打造高能应用"
+title: "强大的C控件类库助你打造高能应用"
 date:   2021-10-22
 tags: [控件,类库,C#,源代码,资源]
 comments: true

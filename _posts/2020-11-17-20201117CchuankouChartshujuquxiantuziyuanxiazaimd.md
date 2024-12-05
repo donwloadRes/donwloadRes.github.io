@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口Chart数据曲线图资源下载"
+title: "C串口Chart数据曲线图资源下载"
 date:   2024-09-11
 tags: [串口,Chart,曲线图,C#,数据]
 comments: true

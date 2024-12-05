@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准外设库更新（F0,F1,F3,F4,L1）"
+title: "STM32标准外设库更新F0F1F3F4L1"
 date:   2022-08-12
 tags: [STM32,外设,微控制器,2021,更新]
 comments: true

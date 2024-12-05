@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPU编程实战-基于Python和CUDA 资源下载"
+title: "GPU编程实战基于Python和CUDA 资源下载"
 date:   2024-06-21
 tags: [CUDA,编程,GPU,Python,实战]
 comments: true

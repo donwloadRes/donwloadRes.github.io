@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI遥感图像处理方法 第2版（带pdf目录书签）"
+title: "ENVI遥感图像处理方法 第2版带pdf目录书签"
 date:   2023-10-23
 tags: [ENVI,遥感,书签,图像处理,PDF]
 comments: true

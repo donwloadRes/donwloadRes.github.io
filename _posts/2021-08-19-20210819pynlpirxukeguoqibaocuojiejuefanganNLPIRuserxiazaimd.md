@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pynlpir许可过期报错解决方案&&NLPIR.user下载"
+title: "pynlpir许可过期报错解决方案NLPIRuser下载"
 date:   2022-09-18
 tags: [pynlpir,NLPIR,user,报错,下载]
 comments: true

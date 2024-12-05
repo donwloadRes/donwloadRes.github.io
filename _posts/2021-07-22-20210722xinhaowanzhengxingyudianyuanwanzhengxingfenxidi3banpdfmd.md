@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性与电源完整性分析 第3版.pdf"
+title: "信号完整性与电源完整性分析 第3版pdf"
 date:   2021-10-25
 tags: [完整性,电源,信号,pdf,分析]
 comments: true

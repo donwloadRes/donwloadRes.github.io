@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议规范(中文详细)"
+title: "Modbus协议规范中文详细"
 date:   2020-10-10
 tags: [Modbus,协议,通信,通讯,中文]
 comments: true

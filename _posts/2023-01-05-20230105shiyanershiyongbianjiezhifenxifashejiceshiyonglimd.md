@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验二：使用边界值分析法设计测试用例"
+title: "实验二使用边界值分析法设计测试用例"
 date:   2023-06-07
 tags: [实验,测试用例,边界值,分析法,设计]
 comments: true

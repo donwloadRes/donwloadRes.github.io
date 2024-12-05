@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功单片机：分散加载文件浅释"
+title: "周立功单片机分散加载文件浅释"
 date:   2022-05-12
 tags: [加载,文件,单片机,分散,立功]
 comments: true

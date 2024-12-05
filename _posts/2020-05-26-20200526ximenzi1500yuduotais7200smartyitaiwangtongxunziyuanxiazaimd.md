@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子1500与多台s7-200smart以太网通讯资源下载"
+title: "西门子1500与多台s7200smart以太网通讯资源下载"
 date:   2020-07-05
 tags: [通讯,以太网,编程,西门子,示例]
 comments: true

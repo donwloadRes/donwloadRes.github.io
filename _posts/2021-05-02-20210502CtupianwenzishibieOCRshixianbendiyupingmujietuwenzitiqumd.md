@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图片文字识别 OCR - 实现本地与屏幕截图文字提取"
+title: "C 图片文字识别 OCR  实现本地与屏幕截图文字提取"
 date:   2022-09-26
 tags: [识别,文字,PaddleOCR,截图,屏幕]
 comments: true

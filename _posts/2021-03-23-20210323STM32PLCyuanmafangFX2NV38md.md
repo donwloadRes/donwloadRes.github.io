@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 PLC 源码 - 仿FX2N V3.8"
+title: "STM32 PLC 源码  仿FX2N V38"
 date:   2023-12-14
 tags: [PLC,STM32,源码,确保,FX2N]
 comments: true

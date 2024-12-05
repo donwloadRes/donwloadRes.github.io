@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微电子电路答案全集 - 第五版 Microelectronic Circuits Solution"
+title: "微电子电路答案全集  第五版 Microelectronic Circuits Solution"
 date:   2021-02-11
 tags: [第五版,学习,电子电路,习题,理解]
 comments: true

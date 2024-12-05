@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP PP-PI流程订单管理培训课件-珍藏版"
+title: "SAP PPPI流程订单管理培训课件珍藏版"
 date:   2024-09-30
 tags: [流程,SAP,课件,PI,订单]
 comments: true

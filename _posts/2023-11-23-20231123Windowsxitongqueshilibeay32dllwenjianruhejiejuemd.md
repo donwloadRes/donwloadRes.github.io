@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统缺失libeay32.dll文件如何解决？"
+title: "Windows系统缺失libeay32dll文件如何解决"
 date:   2020-09-03
 tags: [dll,Windows,libeay32,文件,软件]
 comments: true

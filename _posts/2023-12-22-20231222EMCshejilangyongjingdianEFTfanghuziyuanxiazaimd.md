@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC设计-浪涌、静电、EFT防护资源下载"
+title: "EMC设计浪涌静电EFT防护资源下载"
 date:   2023-03-27
 tags: [EMC,防护,EFT,静电,浪涌]
 comments: true

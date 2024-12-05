@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP实验0-2：eNSP设备基础配置-路由器"
+title: "eNSP实验02eNSP设备基础配置路由器"
 date:   2022-11-19
 tags: [eNSP,配置,实验,路由器,资源]
 comments: true

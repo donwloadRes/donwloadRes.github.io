@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++魔塔游戏实现"
+title: "C魔塔游戏实现"
 date:   2023-10-10
 tags: [地图,游戏,魔塔,图形库,C++]
 comments: true

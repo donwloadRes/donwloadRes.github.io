@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103系列HAL库函数说明（中文版）"
+title: "STM32F103系列HAL库函数说明中文版"
 date:   2023-12-02
 tags: [HAL,库函数,STM32F103,函数库,微控制器]
 comments: true

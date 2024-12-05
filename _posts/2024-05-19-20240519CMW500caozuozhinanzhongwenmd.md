@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMW500操作指南-中文"
+title: "CMW500操作指南中文"
 date:   2020-06-02
 tags: [CMW500,中文,指南,操作,PDF]
 comments: true

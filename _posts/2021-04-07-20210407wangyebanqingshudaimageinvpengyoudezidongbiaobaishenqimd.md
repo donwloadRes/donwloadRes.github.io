@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页版情书代码：给女朋友的自动表白神器"
+title: "网页版情书代码给女朋友的自动表白神器"
 date:   2023-08-16
 tags: [情书,HTML,表白,代码,女朋友]
 comments: true

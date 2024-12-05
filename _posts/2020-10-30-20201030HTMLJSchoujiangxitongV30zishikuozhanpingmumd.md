@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+JS抽奖系统V3.0 （自识扩展屏幕）"
+title: "HTMLJS抽奖系统V30 自识扩展屏幕"
 date:   2024-10-28
 tags: [抽奖,分屏,系统,V3.0,Windows]
 comments: true

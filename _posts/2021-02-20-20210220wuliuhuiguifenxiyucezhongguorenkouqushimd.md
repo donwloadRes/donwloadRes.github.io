@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物流回归分析：预测中国人口趋势"
+title: "物流回归分析预测中国人口趋势"
 date:   2022-12-19
 tags: [模型,预测,人口,物流,回归]
 comments: true

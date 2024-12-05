@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI软件对Sentinel-2数据进行大气校正流程整理"
+title: "ENVI软件对Sentinel2数据进行大气校正流程整理"
 date:   2022-08-20
 tags: [ENVI,Sentinel,校正,大气,软件]
 comments: true

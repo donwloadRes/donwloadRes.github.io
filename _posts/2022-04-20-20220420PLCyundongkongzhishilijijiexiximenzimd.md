@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC运动控制实例及解析（西门子）"
+title: "PLC运动控制实例及解析西门子"
 date:   2023-10-26
 tags: [PLC,西门子,控制,实例,运动]
 comments: true

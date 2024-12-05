@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#窗体TabControl控件美化版源代码TabControlEx"
+title: "C窗体TabControl控件美化版源代码TabControlEx"
 date:   2024-03-01
 tags: [TabControlEx,TabControl,C#,控件,源代码]
 comments: true

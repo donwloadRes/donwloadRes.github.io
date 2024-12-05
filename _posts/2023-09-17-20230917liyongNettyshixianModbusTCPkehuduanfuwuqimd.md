@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Netty实现Modbus TCP客户端-服务器"
+title: "利用Netty实现Modbus TCP客户端服务器"
 date:   2020-01-10
 tags: [Modbus,TCP,客户端,服务器,Netty]
 comments: true

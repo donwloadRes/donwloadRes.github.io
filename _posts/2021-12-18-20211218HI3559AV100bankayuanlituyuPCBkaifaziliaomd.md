@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HI3559A_V100板卡原理图与PCB开发资料"
+title: "HI3559AV100板卡原理图与PCB开发资料"
 date:   2024-04-14
 tags: [HI3559A,PCB,原理图,设计,V100]
 comments: true

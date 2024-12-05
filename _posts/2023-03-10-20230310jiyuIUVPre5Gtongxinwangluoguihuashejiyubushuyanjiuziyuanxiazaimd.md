@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于IUV-Pre5G通信网络规划设计与部署研究资源下载"
+title: "基于IUVPre5G通信网络规划设计与部署研究资源下载"
 date:   2023-06-26
 tags: [IUV,Pre5G,网络,通信,规划设计]
 comments: true

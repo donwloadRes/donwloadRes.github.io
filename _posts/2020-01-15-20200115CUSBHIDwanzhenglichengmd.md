@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB HID 完整例程"
+title: "C USB HID 完整例程"
 date:   2020-08-14
 tags: [USB,HID,C#,例程,设备]
 comments: true

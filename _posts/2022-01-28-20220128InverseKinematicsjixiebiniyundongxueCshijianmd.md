@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InverseKinematics: 机械臂逆运动学C++实践"
+title: "InverseKinematics 机械臂逆运动学C实践"
 date:   2023-04-02
 tags: [运动学,C++,机器人学,示例,机械]
 comments: true

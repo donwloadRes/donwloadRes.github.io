@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文维修手册 - DCP_T220_T420W_T425W_T428W_T520W_T720DW_T7"
+title: "中文维修手册  DCPT220T420WT425WT428WT520WT720DWT7"
 date:   2022-10-02
 tags: [DCP,维修,手册,T220,T420W]
 comments: true

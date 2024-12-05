@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSD1306-OLED驱动芯片中文手册"
+title: "SSD1306OLED驱动芯片中文手册"
 date:   2020-11-29
 tags: [OLED,手册,SSD1306,芯片,中文]
 comments: true

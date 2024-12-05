@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek RTL8762C-Realtek RTL8762D学习记录"
+title: "Realtek RTL8762CRealtek RTL8762D学习记录"
 date:   2020-05-24
 tags: [Realtek,芯片,常见问题,RTL8762C,RTL8762D]
 comments: true

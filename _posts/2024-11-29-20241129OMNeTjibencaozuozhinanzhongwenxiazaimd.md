@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMNeT++基本操作指南（中文）下载"
+title: "OMNeT基本操作指南中文下载"
 date:   2022-11-16
 tags: [OMNeT,++,指南,基本操作,中文]
 comments: true

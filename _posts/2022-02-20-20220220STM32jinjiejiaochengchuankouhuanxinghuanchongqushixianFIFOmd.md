@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32进阶教程：串口环形缓冲区实现(FIFO)"
+title: "STM32进阶教程串口环形缓冲区实现FIFO"
 date:   2022-12-07
 tags: [缓冲区,STM32,串口,环形,代码]
 comments: true

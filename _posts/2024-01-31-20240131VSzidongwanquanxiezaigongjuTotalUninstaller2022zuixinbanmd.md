@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS自动完全卸载工具 - TotalUninstaller2022最新版"
+title: "VS自动完全卸载工具  TotalUninstaller2022最新版"
 date:   2020-03-12
 tags: [卸载,TotalUninstaller2022,Visual,Studio,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel EC200T-CN LTE 模块产品规格书下载"
+title: "Quectel EC200TCN LTE 模块产品规格书下载"
 date:   2024-06-20
 tags: [EC200T,CN,规格书,模块,Quectel]
 comments: true

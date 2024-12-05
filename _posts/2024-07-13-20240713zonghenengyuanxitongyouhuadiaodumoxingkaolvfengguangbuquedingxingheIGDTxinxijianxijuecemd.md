@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "综合能源系统优化调度模型：考虑风光不确定性和IGDT信息间隙决策"
+title: "综合能源系统优化调度模型考虑风光不确定性和IGDT信息间隙决策"
 date:   2024-07-10
 tags: [模型,IGDT,系统优化,调度,热电站]
 comments: true

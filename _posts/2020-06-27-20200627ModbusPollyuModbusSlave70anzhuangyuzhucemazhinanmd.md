@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus Poll与Modbus Slave 7.0安装与注册码指南"
+title: "Modbus Poll与Modbus Slave 70安装与注册码指南"
 date:   2022-10-16
 tags: [Modbus,Poll,Slave,安装文件,注册码]
 comments: true

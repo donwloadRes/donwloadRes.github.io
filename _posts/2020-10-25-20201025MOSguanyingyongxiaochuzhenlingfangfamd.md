@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOS管应用--消除振铃方法"
+title: "MOS管应用消除振铃方法"
 date:   2021-03-16
 tags: [振铃,MOS,电路,文件,--]
 comments: true

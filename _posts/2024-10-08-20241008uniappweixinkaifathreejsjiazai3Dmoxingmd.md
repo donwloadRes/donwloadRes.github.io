@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp微信开发+three.js加载3D模型"
+title: "uniapp微信开发threejs加载3D模型"
 date:   2023-08-13
 tags: [three,js,3D,uniapp,微信]
 comments: true

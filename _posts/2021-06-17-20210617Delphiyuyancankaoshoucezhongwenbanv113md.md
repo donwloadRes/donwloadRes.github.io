@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi语言参考手册-中文版-v11.3"
+title: "Delphi语言参考手册中文版v113"
 date:   2020-08-06
 tags: [Delphi,参考手册,语言,v11.3,中文版]
 comments: true

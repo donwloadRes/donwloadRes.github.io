@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正大杯省级二论文正文（仅供参考）"
+title: "正大杯省级二论文正文仅供参考"
 date:   2024-08-23
 tags: [商圈,电商,佛山,认知,论文]
 comments: true

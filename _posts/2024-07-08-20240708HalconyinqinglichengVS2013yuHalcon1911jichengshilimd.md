@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon引擎例程：VS2013与Halcon 19.11集成示例"
+title: "Halcon引擎例程VS2013与Halcon 1911集成示例"
 date:   2023-10-12
 tags: [www,skcircle,com,http,id]
 comments: true

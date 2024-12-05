@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一款非常漂亮的C#-WPF管理系统源码与搭建指南"
+title: "一款非常漂亮的CWPF管理系统源码与搭建指南"
 date:   2020-05-14
 tags: [源码,2019,管理系统,EntityFramework,Visual]
 comments: true

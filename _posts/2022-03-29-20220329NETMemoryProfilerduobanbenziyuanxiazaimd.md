@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Memory Profiler 多版本资源下载"
+title: "NET Memory Profiler 多版本资源下载"
 date:   2020-06-14
 tags: [内存,NET,版本,Memory,Profiler]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5_pose-opencv人体骨骼推理资源下载"
+title: "yolov5poseopencv人体骨骼推理资源下载"
 date:   2024-02-16
 tags: [yolov5,pose,推理,骨骼,opencv]
 comments: true

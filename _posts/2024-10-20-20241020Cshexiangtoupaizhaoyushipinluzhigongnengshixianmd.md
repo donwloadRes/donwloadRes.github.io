@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 摄像头拍照与视频录制功能实现"
+title: "C 摄像头拍照与视频录制功能实现"
 date:   2021-12-11
 tags: [录制,摄像头,播放,预览,拍照]
 comments: true

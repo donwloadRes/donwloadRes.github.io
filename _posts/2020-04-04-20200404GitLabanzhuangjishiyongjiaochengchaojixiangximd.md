@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitLab安装及使用教程（超级详细）"
+title: "GitLab安装及使用教程超级详细"
 date:   2021-10-30
 tags: [GitLab,安装,配置,使用,教程]
 comments: true

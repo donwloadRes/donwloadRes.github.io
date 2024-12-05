@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程需求分析报告-图书管理系统"
+title: "软件工程需求分析报告图书管理系统"
 date:   2024-07-25
 tags: [还书,报告,系统,分析,管理系统]
 comments: true

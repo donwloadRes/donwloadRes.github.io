@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机微分方程（胡适耕）PDF 下载仓库"
+title: "随机微分方程胡适耕PDF 下载仓库"
 date:   2021-10-15
 tags: [PDF,微分方程,随机,胡适,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理实验报告 - 离散傅里叶变换（DFT）"
+title: "数字信号处理实验报告  离散傅里叶变换DFT"
 date:   2022-03-15
 tags: [DFT,信号处理,代码,傅里叶,实验报告]
 comments: true

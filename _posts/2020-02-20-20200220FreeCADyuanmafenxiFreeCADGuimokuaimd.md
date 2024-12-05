@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeCAD源码分析：FreeCADGui模块"
+title: "FreeCAD源码分析FreeCADGui模块"
 date:   2021-04-25
 tags: [FreeCAD,文档,视图,源码,FreeCADGui]
 comments: true

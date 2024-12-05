@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SSM+Layui的图书管理系统"
+title: "基于SSMLayui的图书管理系统"
 date:   2024-03-09
 tags: [图书,数据库,管理,借阅,项目]
 comments: true

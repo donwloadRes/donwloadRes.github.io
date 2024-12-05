@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt案例：利用QPaint实现自定义加载中动画控件"
+title: "Qt案例利用QPaint实现自定义加载中动画控件"
 date:   2021-04-18
 tags: [动画,Qt,painter,QPaint,自定义]
 comments: true

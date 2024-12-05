@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软常用运行库合集（VC2015-2022）及dll修复工具"
+title: "微软常用运行库合集VC20152022及dll修复工具"
 date:   2023-02-19
 tags: [运行库,DLL,修复,安装,2022]
 comments: true

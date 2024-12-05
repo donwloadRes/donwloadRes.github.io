@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络（第8版）-PPT课件（全9章）"
+title: "计算机网络第8版PPT课件全9章"
 date:   2023-08-11
 tags: [课件,章节,计算机网络,PPT,仓库]
 comments: true

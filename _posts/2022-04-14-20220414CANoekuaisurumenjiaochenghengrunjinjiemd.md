@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe 快速入门教程 - 恒润（进阶）"
+title: "CANoe 快速入门教程  恒润进阶"
 date:   2024-03-06
 tags: [CANoe,恒润,进阶,入门教程,快速]
 comments: true

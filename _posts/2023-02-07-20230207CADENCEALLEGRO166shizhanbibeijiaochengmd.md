@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CADENCE ALLEGRO 16.6实战必备教程"
+title: "CADENCE ALLEGRO 166实战必备教程"
 date:   2024-07-31
 tags: [教程,ALLEGRO,CADENCE,16.6,必备]
 comments: true

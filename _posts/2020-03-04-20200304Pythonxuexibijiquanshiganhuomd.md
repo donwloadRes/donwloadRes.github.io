@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学习笔记（全是干货）"
+title: "Python学习笔记全是干货"
 date:   2023-05-11
 tags: [Python,编程,笔记,学习,视频教程]
 comments: true

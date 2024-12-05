@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 应用源码包_5"
+title: "VC 应用源码包5"
 date:   2020-02-25
 tags: [图象,变换,程序,源码,C++]
 comments: true

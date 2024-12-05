@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化理论与方法-袁亚湘.pdf 下载仓库"
+title: "最优化理论与方法袁亚湘pdf 下载仓库"
 date:   2021-05-27
 tags: [最优化,袁亚,理论,pdf,仓库]
 comments: true

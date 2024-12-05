@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bellhop-二维海水声速环境下的声线仿真代码及相关学习资料"
+title: "Bellhop二维海水声速环境下的声线仿真代码及相关学习资料"
 date:   2021-04-17
 tags: [Bellhop,仿真,声线,声速,二维]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玄恒2300YP软件开发工具包（BES-YP2300SDK）"
+title: "玄恒2300YP软件开发工具包BESYP2300SDK"
 date:   2021-02-24
 tags: [示例,开发者,玄恒,2300YP,BES]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC-ISP串口调试助手使用指南"
+title: "STCISP串口调试助手使用指南"
 date:   2024-03-23
 tags: [串口,STC,调试,发送,单片机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloud Compare用户手册（中文+英文版）"
+title: "Cloud Compare用户手册中文英文版"
 date:   2020-11-18
 tags: [Cloud,Compare,用户手册,点云,英文版]
 comments: true

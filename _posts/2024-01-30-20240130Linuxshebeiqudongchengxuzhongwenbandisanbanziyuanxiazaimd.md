@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux设备驱动程序(中文版第三版) 资源下载"
+title: "Linux设备驱动程序中文版第三版 资源下载"
 date:   2022-03-29
 tags: [驱动程序,Linux,设备,内核,本书]
 comments: true

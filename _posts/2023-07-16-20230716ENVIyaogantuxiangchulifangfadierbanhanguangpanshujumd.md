@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI遥感图像处理方法 第二版（含光盘数据）"
+title: "ENVI遥感图像处理方法 第二版含光盘数据"
 date:   2021-05-25
 tags: [ENVI,遥感,图像处理,光盘,资源]
 comments: true

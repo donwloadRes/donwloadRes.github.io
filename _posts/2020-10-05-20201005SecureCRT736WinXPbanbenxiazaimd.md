@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 7.3.6 WinXP版本下载"
+title: "SecureCRT 736 WinXP版本下载"
 date:   2022-11-07
 tags: [SecureCRT,连接,版本,远程,7.3]
 comments: true

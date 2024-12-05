@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO31000:2018风险管理指南》最新中文版下载"
+title: "ISO310002018风险管理指南最新中文版下载"
 date:   2023-07-03
 tags: [风险管理,2018,中文版,指南,ISO]
 comments: true

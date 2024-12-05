@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字调制解调技术的MATLAB与FPGA实现新版 Xilinx_VHDL版 程序源代码"
+title: "数字调制解调技术的MATLAB与FPGA实现新版 XilinxVHDL版 程序源代码"
 date:   2022-04-24
 tags: [MATLAB,FPGA,Xilinx,VHDL,解调]
 comments: true

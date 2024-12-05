@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI（CSI-DSI）全套官方资料下载"
+title: "MIPICSIDSI全套官方资料下载"
 date:   2021-06-20
 tags: [MIPI,文档,Version,specification,Display]
 comments: true

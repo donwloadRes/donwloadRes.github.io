@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EI会议论文发表流程剖析(史上最详细!经典!)"
+title: "EI会议论文发表流程剖析史上最详细经典"
 date:   2022-04-17
 tags: [EI,发表,会议,论文,流程]
 comments: true

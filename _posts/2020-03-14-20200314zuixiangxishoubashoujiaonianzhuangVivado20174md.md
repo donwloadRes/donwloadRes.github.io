@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细手把手教你安装 Vivado2017.4"
+title: "最详细手把手教你安装 Vivado20174"
 date:   2021-03-02
 tags: [Vivado,点击,安装,2017.4,Next]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ModbusRTU通讯库及示例：硬件设备通讯全方位解决方案"
+title: "C ModbusRTU通讯库及示例硬件设备通讯全方位解决方案"
 date:   2020-08-01
 tags: [通讯,示例,硬件,设备,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt + FFmpeg 视频播放器源码"
+title: "Qt  FFmpeg 视频播放器源码"
 date:   2023-05-01
 tags: [播放器,Qt,视频,源码,播放]
 comments: true

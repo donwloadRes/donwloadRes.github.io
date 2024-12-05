@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对利用Python爬取到的房价信息做数据可视化（附完整代码）"
+title: "对利用Python爬取到的房价信息做数据可视化附完整代码"
 date:   2023-07-04
 tags: [数据,可视化,Python,代码,词云]
 comments: true

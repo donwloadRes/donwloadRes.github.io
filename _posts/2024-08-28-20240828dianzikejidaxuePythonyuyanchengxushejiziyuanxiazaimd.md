@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学Python语言程序设计》资源下载"
+title: "电子科技大学Python语言程序设计资源下载"
 date:   2024-03-20
 tags: [源代码,课程设计,Python,电子科技,程序设计]
 comments: true

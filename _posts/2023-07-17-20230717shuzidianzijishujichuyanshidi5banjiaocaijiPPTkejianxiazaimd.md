@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础(阎石 第5版) 教材及PPT课件下载"
+title: "数字电子技术基础阎石 第5版 教材及PPT课件下载"
 date:   2020-04-02
 tags: [PPT,课件,教材,电子,阎石]
 comments: true

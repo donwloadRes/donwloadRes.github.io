@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K8s中yaml文件详解（超详细）"
+title: "K8s中yaml文件详解超详细"
 date:   2024-04-15
 tags: [yaml,Kubernetes,文件,示例,K8s]
 comments: true

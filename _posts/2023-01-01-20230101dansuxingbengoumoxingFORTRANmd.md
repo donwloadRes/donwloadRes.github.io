@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "弹塑性本构模型(FORTRAN)"
+title: "弹塑性本构模型FORTRAN"
 date:   2023-11-13
 tags: [FORTRAN,本构,程序,弹塑性,模型]
 comments: true

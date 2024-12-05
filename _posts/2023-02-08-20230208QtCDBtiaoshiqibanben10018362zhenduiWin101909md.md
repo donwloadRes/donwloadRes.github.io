@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt CDB 调试器 版本 10.0.18362 - 针对Win10 1909"
+title: "Qt CDB 调试器 版本 10018362  针对Win10 1909"
 date:   2024-05-17
 tags: [调试器,Qt,CDB,Windows,Creator]
 comments: true

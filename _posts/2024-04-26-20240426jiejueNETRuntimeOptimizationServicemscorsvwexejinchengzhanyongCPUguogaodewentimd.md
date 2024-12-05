@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决.NET Runtime Optimization Service(mscorsvw.exe)进程占用CPU过高的问题"
+title: "解决NET Runtime Optimization Servicemscorsvwexe进程占用CPU过高的问题"
 date:   2023-09-01
 tags: [NET,Runtime,Optimization,Service,CPU]
 comments: true

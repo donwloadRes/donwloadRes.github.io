@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python自制“超级马里奥”小游戏资源文件介绍"
+title: "Python自制超级马里奥小游戏资源文件介绍"
 date:   2021-01-19
 tags: [Python,游戏,马里奥,背景音乐,小游戏]
 comments: true

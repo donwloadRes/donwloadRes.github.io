@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口扫码枪收发数据样例及串口监控实现 - C# WinForm应用"
+title: "串口扫码枪收发数据样例及串口监控实现  C WinForm应用"
 date:   2020-05-21
 tags: [串口,扫码,C#,WinForm,数据]
 comments: true

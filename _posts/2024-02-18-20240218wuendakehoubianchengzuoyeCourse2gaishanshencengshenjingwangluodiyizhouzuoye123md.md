@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达课后编程作业：Course 2 - 改善深层神经网络 - 第一周作业(1&2&3)"
+title: "吴恩达课后编程作业Course 2  改善深层神经网络  第一周作业123"
 date:   2023-07-20
 tags: [初始化,作业,梯度,神经网络,正则]
 comments: true

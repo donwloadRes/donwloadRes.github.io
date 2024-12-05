@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Tracker Oracle跟踪工具(支持64位)"
+title: "SQL Tracker Oracle跟踪工具支持64位"
 date:   2024-06-15
 tags: [SQL,数据库,64,Oracle,Tracker]
 comments: true

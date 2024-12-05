@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与台达PLC通信资源下载"
+title: "C与台达PLC通信资源下载"
 date:   2020-11-21
 tags: [PLC,C#,台达,通信,文档]
 comments: true

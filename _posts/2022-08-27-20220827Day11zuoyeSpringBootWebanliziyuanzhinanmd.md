@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Day11 作业（SpringBoot Web 案例）资源指南"
+title: "Day11 作业SpringBoot Web 案例资源指南
+date   20220618
+tags SpringBootWeb开发项目资源
+comments true
+author admin
+
+
+layout post
+title Day11 作业SpringBoot Web 案例资源指南"
 date:   2022-06-18
 tags: [SpringBoot,Web,开发,项目,资源]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Day11 作业（SpringBoot Web 案例）资源指南"
+title: "Day11 作业SpringBoot Web 案例资源指南
+date   20220618
+tags SpringBootWeb开发项目资源
+comments true
+author admin
+
+
+layout post
+title Day11 作业SpringBoot Web 案例资源指南"
 date:   2021-07-18
 tags: [SpringBoot,Web,开发,项目,资源]
 comments: true

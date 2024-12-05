@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国范围1:5万标准分幅"
+title: "全国范围15万标准分幅"
 date:   2021-08-04
 tags: [GIS,标准分,比例尺,软件,Shp]
 comments: true

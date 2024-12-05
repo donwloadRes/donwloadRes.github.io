@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源30余套STM32单片机、嵌入式Linux、物联网、人工智能项目案例及入门学习资源包"
+title: "开源30余套STM32单片机嵌入式Linux物联网人工智能项目案例及入门学习资源包"
 date:   2021-01-15
 tags: [嵌入式,案例,Linux,项目,STM32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云资源图书管理系统：Java Web 结课作业"
+title: "云资源图书管理系统Java Web 结课作业"
 date:   2024-05-30
 tags: [图书,借阅,数据库,Java,Tomcat]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 镜像文件下载"
+title: "Ubuntu 1804 镜像文件下载"
 date:   2021-06-21
 tags: [镜像文件,18.04,Ubuntu,ubuntu18.04,txt]
 comments: true

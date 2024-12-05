@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于物理渲染从理论到实现.第二版 资源下载"
+title: "基于物理渲染从理论到实现第二版 资源下载"
 date:   2022-05-16
 tags: [渲染,物理,资源,PBR,基于]
 comments: true

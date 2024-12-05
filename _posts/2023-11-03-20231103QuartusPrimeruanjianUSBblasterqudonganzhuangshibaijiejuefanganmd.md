@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus Prime 软件 USB-blaster 驱动安装失败解决方案"
+title: "Quartus Prime 软件 USBblaster 驱动安装失败解决方案"
 date:   2022-05-18
 tags: [Quartus,安装,驱动,USB,blaster]
 comments: true

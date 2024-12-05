@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通QFIL(QDloader)烧录驱动程序(Qualcomm HS-USB Driver 9008)"
+title: "高通QFILQDloader烧录驱动程序Qualcomm HSUSB Driver 9008"
 date:   2020-12-19
 tags: [驱动程序,烧录,高通,QFIL,QDloader]
 comments: true

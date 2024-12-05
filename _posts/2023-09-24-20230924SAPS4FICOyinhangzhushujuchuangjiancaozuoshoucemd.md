@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP S-4 FICO银行主数据创建操作手册"
+title: "SAP S4 FICO银行主数据创建操作手册"
 date:   2022-02-05
 tags: [账户,银行,SAP,数据,FICO]
 comments: true

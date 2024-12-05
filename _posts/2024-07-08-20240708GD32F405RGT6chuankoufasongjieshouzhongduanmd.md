@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F405RGT6串口发送接收--中断"
+title: "GD32F405RGT6串口发送接收中断"
 date:   2022-03-29
 tags: [GD32F405RGT6,串口,中断,发送,接收]
 comments: true

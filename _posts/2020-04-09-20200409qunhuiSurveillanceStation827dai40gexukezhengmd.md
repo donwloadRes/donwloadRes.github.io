@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群晖 Surveillance Station 8.2.7 带40个许可证"
+title: "群晖 Surveillance Station 827 带40个许可证"
 date:   2021-01-24
 tags: [群晖,Surveillance,Station,40,安装]
 comments: true

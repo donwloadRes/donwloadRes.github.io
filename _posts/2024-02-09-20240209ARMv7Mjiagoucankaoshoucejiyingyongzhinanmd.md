@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARMv7-M架构参考手册及应用指南"
+title: "ARMv7M架构参考手册及应用指南"
 date:   2021-08-02
 tags: [ARMv7,架构,ARM,嵌入式,Cortex]
 comments: true

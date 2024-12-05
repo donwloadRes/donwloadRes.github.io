@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "将图片公式快速转为Word可编辑的方法（Windows和Mac都支持）"
+title: "将图片公式快速转为Word可编辑的方法Windows和Mac都支持"
 date:   2022-11-02
 tags: [Word,LaTeX,Mathpix,公式,Windows]
 comments: true

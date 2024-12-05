@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电池管理系统(BMS)国内外生产厂家名录及简介"
+title: "电池管理系统BMS国内外生产厂家名录及简介"
 date:   2022-11-05
 tags: [BMS,管理系统,生产厂家,电池,简介]
 comments: true

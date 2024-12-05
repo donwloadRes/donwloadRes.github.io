@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "集成电路掩模设计－基础版图技术"
+title: "集成电路掩模设计基础版图技术"
 date:   2022-10-11
 tags: [掩模,集成电路,设计,版图,本书]
 comments: true

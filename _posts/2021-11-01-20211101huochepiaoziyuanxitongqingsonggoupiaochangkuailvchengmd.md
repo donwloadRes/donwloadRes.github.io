@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火车票资源系统：轻松购票，畅快旅程"
+title: "火车票资源系统轻松购票畅快旅程"
 date:   2022-07-13
 tags: [系统,UML,购票,用户,退票]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电赛8组设计报告》文档说明"
+title: "电赛8组设计报告文档说明"
 date:   2021-12-14
 tags: [电赛,电子设计,文档,设计,报告]
 comments: true

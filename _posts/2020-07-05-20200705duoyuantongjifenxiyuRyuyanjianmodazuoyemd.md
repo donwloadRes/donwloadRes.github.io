@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多元统计分析与R语言建模-大作业"
+title: "多元统计分析与R语言建模大作业"
 date:   2023-01-24
 tags: [统计分析,多元,语言,建模,分析]
 comments: true

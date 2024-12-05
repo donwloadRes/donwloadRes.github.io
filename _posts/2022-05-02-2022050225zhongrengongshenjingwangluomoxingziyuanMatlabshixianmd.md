@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25种人工神经网络模型资源（Matlab实现）"
+title: "25种人工神经网络模型资源Matlab实现"
 date:   2021-03-25
 tags: [神经网络,模型,Matlab,资源,人工神经网络]
 comments: true

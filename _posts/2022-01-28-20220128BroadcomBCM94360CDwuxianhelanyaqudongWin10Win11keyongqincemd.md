@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Broadcom BCM94360CD无线和蓝牙驱动（Win10-Win11可用亲测）"
+title: "Broadcom BCM94360CD无线和蓝牙驱动Win10Win11可用亲测"
 date:   2021-06-07
 tags: [驱动程序,安装,蓝牙,无线,解压]
 comments: true

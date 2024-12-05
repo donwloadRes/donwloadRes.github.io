@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse安装教程 ——史上最详细安装Java &Python教程说明"
+title: "Eclipse安装教程 史上最详细安装Java Python教程说明"
 date:   2023-08-27
 tags: [Python,安装,Eclipse,教程,JDK]
 comments: true

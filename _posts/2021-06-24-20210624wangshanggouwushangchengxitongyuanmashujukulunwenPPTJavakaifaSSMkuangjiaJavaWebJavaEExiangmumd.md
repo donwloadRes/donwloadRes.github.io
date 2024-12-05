@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网上购物商城系统(源码+数据库+论文+PPT) Java开发SSM框架JavaWeb JavaEE项目"
+title: "网上购物商城系统源码数据库论文PPT Java开发SSM框架JavaWeb JavaEE项目"
 date:   2023-01-15
 tags: [用户,管理员,项目,数据库,商品]
 comments: true

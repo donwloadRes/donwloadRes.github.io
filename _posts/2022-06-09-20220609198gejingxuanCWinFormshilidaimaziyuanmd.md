@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "198 个精选 C# WinForm 实例代码资源"
+title: "198 个精选 C WinForm 实例代码资源"
 date:   2023-09-16
 tags: [控件,实例,C#,WinForm,文件]
 comments: true

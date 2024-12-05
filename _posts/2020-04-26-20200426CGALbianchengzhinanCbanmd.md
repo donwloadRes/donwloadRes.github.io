@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CGAL编程指南（C++版）"
+title: "CGAL编程指南C版"
 date:   2022-07-12
 tags: [CGAL,C++,指南,编程,几何]
 comments: true

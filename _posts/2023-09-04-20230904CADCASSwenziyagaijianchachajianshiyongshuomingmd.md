@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-CASS文字压盖检查插件使用说明"
+title: "CADCASS文字压盖检查插件使用说明"
 date:   2022-06-07
 tags: [压盖,插件,文字,检查,CAD]
 comments: true

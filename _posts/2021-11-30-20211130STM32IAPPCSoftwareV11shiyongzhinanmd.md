@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 IAP PC Software V1.1 使用指南"
+title: "STM32 IAP PC Software V11 使用指南"
 date:   2024-04-21
 tags: [STM32,IAP,PC,Software,V1.1]
 comments: true

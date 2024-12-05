@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#程序打包成可执行文件教程"
+title: "C程序打包成可执行文件教程"
 date:   2020-03-18
 tags: [教程,打包,可执行文件,C#,开发者]
 comments: true

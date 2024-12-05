@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500PLC大型程序资源下载"
+title: "西门子S71500PLC大型程序资源下载"
 date:   2021-05-23
 tags: [PLC,程序,西门子,触摸屏,S7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达手册（第3版）下载仓库"
+title: "雷达手册第3版下载仓库"
 date:   2023-03-03
 tags: [雷达,手册,仓库,IEEE,下载]
 comments: true

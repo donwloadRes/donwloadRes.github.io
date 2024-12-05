@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+Onvif+FFmpeg 实时显示控制球机"
+title: "QtOnvifFFmpeg 实时显示控制球机"
 date:   2024-05-31
 tags: [球机,Onvif,FFmpeg,Qt,预置]
 comments: true

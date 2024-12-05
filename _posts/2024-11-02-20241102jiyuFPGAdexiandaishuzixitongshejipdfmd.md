@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的现代数字系统设计.pdf"
+title: "基于FPGA的现代数字系统设计pdf"
 date:   2024-01-02
 tags: [FPGA,设计,数字,pdf,系统]
 comments: true

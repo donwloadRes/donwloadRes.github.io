@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN终端电阻详解 - 综合文档"
+title: "CAN终端电阻详解  综合文档"
 date:   2020-11-10
 tags: [电阻,终端,总线,反射,文档]
 comments: true

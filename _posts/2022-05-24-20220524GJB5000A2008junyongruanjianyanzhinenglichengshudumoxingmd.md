@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5000A-2008 军用软件研制能力成熟度模型"
+title: "GJB 5000A2008 军用软件研制能力成熟度模型"
 date:   2022-12-12
 tags: [软件,军用,附录,成熟度,研制]
 comments: true

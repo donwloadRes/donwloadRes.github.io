@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 桌面程序自动更新程序"
+title: "C 桌面程序自动更新程序"
 date:   2024-02-27
 tags: [exe,程序,版本,自动更新,版本号]
 comments: true

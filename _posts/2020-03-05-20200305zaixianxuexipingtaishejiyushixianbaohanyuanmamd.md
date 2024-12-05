@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在线学习平台设计与实现（包含源码）"
+title: "在线学习平台设计与实现包含源码"
 date:   2021-11-11
 tags: [源码,界面,在线,前台,学习]
 comments: true

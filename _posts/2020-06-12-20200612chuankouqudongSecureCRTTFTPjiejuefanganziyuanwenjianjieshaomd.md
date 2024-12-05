@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口驱动、SecureCRT、TFTP解决方案资源文件介绍"
+title: "串口驱动SecureCRTTFTP解决方案资源文件介绍"
 date:   2020-08-14
 tags: [串口,TFTP,SecureCRT,驱动,文件传输]
 comments: true

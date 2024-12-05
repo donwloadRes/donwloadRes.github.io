@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cocos2dx + JS 棋牌麻将源代码"
+title: "Cocos2dx  JS 棋牌麻将源代码"
 date:   2021-09-08
 tags: [源代码,Cocos2dx,棋牌,麻将,JavaScript]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口虚拟示波器 - serial_port_plotter_Win_1.3.0"
+title: "串口虚拟示波器  serialportplotterWin130"
 date:   2020-01-11
 tags: [串口,1.3,波特率,serial,port]
 comments: true

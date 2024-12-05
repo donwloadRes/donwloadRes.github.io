@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407开发板标准例程-HAL库版本"
+title: "STM32F407开发板标准例程HAL库版本"
 date:   2023-09-08
 tags: [例程,开发板,STM32F407,HAL,调试]
 comments: true

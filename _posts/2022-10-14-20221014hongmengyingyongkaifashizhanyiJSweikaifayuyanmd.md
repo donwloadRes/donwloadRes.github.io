@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸿蒙应用开发实战（以JS为开发语言）》"
+title: "鸿蒙应用开发实战以JS为开发语言"
 date:   2023-12-17
 tags: [鸿蒙,开发,HarmonyOS,JS,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序毕业设计：校园地图定位导航系统"
+title: "微信小程序毕业设计校园地图定位导航系统"
 date:   2024-07-18
 tags: [微信,地图,校内,用户,校园]
 comments: true

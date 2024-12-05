@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vCenter(vcsa6.7)安装配置教程及其安装包"
+title: "vCentervcsa67安装配置教程及其安装包"
 date:   2020-02-29
 tags: [6.7,vCenter,教程,Server,安装]
 comments: true

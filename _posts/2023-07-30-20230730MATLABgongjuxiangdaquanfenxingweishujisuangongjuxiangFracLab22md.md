@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB工具箱大全 - 分形维数计算工具箱FracLab 2.2"
+title: "MATLAB工具箱大全  分形维数计算工具箱FracLab 22"
 date:   2020-09-27
 tags: [工具箱,分形,维数,MATLAB,FracLab]
 comments: true

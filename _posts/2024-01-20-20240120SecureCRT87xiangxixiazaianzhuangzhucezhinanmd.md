@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Secure CRT 8.7 详细下载安装注册指南"
+title: "Secure CRT 87 详细下载安装注册指南"
 date:   2021-05-15
 tags: [Secure,CRT,8.7,注册,下载]
 comments: true

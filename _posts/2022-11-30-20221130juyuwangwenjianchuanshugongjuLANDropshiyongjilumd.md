@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "局域网文件传输工具——LANDrop 使用记录"
+title: "局域网文件传输工具LANDrop 使用记录"
 date:   2021-09-23
 tags: [局域网,文件传输,LANDrop,https,download]
 comments: true

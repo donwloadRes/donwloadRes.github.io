@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "源码及素材 Three.js前端三维图形开发案例集锦"
+title: "源码及素材 Threejs前端三维图形开发案例集锦"
 date:   2024-08-19
 tags: [js,Three,贴图,3D,案例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-AS608指纹锁程序"
+title: "STM32AS608指纹锁程序"
 date:   2020-12-23
 tags: [STM32,AS608,指纹,指纹识别,指纹锁]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence17.4Capture 初学者小册子"
+title: "Cadence174Capture 初学者小册子"
 date:   2021-09-29
 tags: [Cadence17.4,Capture,初学者,小册子,基本操作]
 comments: true

@@ -1,6 +1,51 @@
 ---
 layout: post
-title: "Java 1.7.0 OpenJDK 1.7.0.261 for ARM64 资源文件下载"
+title: "Java 170 OpenJDK 170261 for ARM64 资源文件下载
+date   20200820
+tags 170261javaopenjdkaarch64
+comments true
+author admin
+
+ Java 170 OpenJDK 170261 for ARM64 资源文件下载
+
+ 资源文件介绍
+
+该资源文件为 java170openjdk17026126222el78aarch64targz适用于基于 ARM64 架构的 CentOS 792009 AltArch 版本系统该文件是通过在 CentOS 792009 AltArch 系统上执行 yum install java179openjdkdevelaarch64 命令后打包 usrlibjvmjava170openjdk17026126222el78aarch64 目录生成的
+
+ 使用说明
+
+1 下载资源文件
+   您可以直接下载 java170openjdk17026126222el78aarch64targz 文件
+
+2 解压文件
+   下载完成后使用以下命令解压文件
+   bash
+   tar xzvf java170openjdk17026126222el78aarch64targz
+   
+
+3 配置环境变量
+   解压后您可以将解压后的目录路径添加到系统的环境变量中以便系统能够识别并使用该 Java 版本编辑 bashrc 或 etcprofile 文件添加以下内容
+   bash
+   export JAVAHOMEpathtojava170openjdk17026126222el78aarch64
+   export PATHJAVAHOMEbinPATH
+   
+   保存并退出后执行以下命令使配置生效
+   bash
+   source bashrc
+   
+   或
+   bash
+   source etcprofile
+   
+
+4 验证安装
+   您可以通过以下命令验证 Java 是否安装成功
+   bash
+   java version
+   
+   如果安装成功您将看到类似以下的输出
+   
+   openjdk version 170261"
 date:   2020-08-20
 tags: [1.7,0.261,java,openjdk,aarch64]
 comments: true

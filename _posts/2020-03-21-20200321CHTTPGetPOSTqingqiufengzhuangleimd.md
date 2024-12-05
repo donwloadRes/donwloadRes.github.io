@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HTTP Get-POST 请求封装类"
+title: "C HTTP GetPOST 请求封装类"
 date:   2020-01-14
 tags: [请求,Get,封装,POST,HTTP]
 comments: true

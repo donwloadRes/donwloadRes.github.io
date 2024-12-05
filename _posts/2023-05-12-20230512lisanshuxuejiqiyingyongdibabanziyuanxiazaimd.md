@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学及其应用（第八版）资源下载"
+title: "离散数学及其应用第八版资源下载"
 date:   2022-09-22
 tags: [离散数学,第八版,下载,资源,教材]
 comments: true

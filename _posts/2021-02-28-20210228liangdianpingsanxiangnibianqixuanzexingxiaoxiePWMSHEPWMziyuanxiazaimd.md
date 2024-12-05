@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两电平三相逆变器选择性消谐PWM (SHEPWM) 资源下载"
+title: "两电平三相逆变器选择性消谐PWM SHEPWM 资源下载"
 date:   2021-02-16
 tags: [SHEPWM,Simulink,模型,加载,逆变器]
 comments: true

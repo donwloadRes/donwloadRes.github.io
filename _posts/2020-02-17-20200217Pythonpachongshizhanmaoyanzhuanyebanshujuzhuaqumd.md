@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战：猫眼专业版数据抓取"
+title: "Python爬虫实战猫眼专业版数据抓取"
 date:   2022-09-19
 tags: [Python,爬虫,专业版,猫眼,数据]
 comments: true

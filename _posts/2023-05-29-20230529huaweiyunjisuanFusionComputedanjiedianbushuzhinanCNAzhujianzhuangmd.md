@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为云计算 - FusionCompute 单节点部署指南（CNA主机安装）"
+title: "华为云计算  FusionCompute 单节点部署指南CNA主机安装"
 date:   2020-11-12
 tags: [安装,CNA,FusionCompute,服务器,主机]
 comments: true

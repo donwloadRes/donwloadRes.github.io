@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EndNote X 9.3.3 安装指南"
+title: "EndNote X 933 安装指南"
 date:   2020-08-03
 tags: [EndNote,安装,9.3,安装程序,指南]
 comments: true

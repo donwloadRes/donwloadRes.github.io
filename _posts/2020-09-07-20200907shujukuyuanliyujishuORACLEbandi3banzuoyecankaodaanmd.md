@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库原理与技术（ORACLE版）第3版作业参考答案"
+title: "数据库原理与技术ORACLE版第3版作业参考答案"
 date:   2021-03-24
 tags: [参考答案,数据库,资源,课后,习题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5 + JS 实现二维码扫描"
+title: "HTML5  JS 实现二维码扫描"
 date:   2023-09-08
 tags: [二维码,JavaScript,扫描,HTML5,文件]
 comments: true

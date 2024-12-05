@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.2.0 编译所需资源文件下载仓库"
+title: "OpenCV 420 编译所需资源文件下载仓库"
 date:   2024-01-23
 tags: [编译,OpenCV,opencv,videoio,ffmpeg]
 comments: true

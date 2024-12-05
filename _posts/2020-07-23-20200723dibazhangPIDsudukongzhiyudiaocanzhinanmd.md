@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第八章 - PID 速度控制与调参指南"
+title: "第八章  PID 速度控制与调参指南"
 date:   2022-07-03
 tags: [PID,调参,指南,蓝桥,单片机]
 comments: true

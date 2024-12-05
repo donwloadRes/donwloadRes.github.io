@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题大全（备战2021）"
+title: "Java面试题大全备战2021"
 date:   2021-09-22
 tags: [Java,面试,2021,Spring,原理]
 comments: true

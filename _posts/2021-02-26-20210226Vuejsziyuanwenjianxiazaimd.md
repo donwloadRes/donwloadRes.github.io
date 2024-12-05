@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 资源文件下载"
+title: "Vuejs 资源文件下载"
 date:   2021-07-30
 tags: [Vue,js,DOM,文件,构建]
 comments: true

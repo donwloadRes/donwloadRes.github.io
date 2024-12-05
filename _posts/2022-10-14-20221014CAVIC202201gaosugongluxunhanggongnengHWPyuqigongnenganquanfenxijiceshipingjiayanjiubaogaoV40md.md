@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAVIC 2022-01 高速公路巡航功能（HWP）预期功能安全分析及测试评价研究报告_V4.0"
+title: "CAVIC 202201 高速公路巡航功能HWP预期功能安全分析及测试评价研究报告V40"
 date:   2024-08-07
 tags: [巡航,功能,高速公路,评价,HWP]
 comments: true

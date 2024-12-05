@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通达信公式教程大全(函数+指标+实例)"
+title: "通达信公式教程大全函数指标实例"
 date:   2020-03-19
 tags: [通达信,公式,函数,实例,指标]
 comments: true

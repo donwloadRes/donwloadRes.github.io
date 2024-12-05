@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlantUML语法官方参考手册中文版（最新版）"
+title: "PlantUML语法官方参考手册中文版最新版"
 date:   2021-01-26
 tags: [PlantUML,语法,参考手册,中文版,UML]
 comments: true

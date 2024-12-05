@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle(9.3.0)连接ClickHouse指南"
+title: "Kettle930连接ClickHouse指南"
 date:   2021-11-15
 tags: [ClickHouse,Kettle,连接,数据库,驱动]
 comments: true

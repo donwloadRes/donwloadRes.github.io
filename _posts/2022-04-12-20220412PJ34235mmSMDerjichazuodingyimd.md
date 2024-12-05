@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PJ-342 3.5mm SMD 耳机插座 定义"
+title: "PJ342 35mm SMD 耳机插座 定义"
 date:   2023-09-06
 tags: [插座,文件,定义,引脚,PJ]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学 PDF 版本 - Peter Shirley"
+title: "计算机图形学 PDF 版本  Peter Shirley"
 date:   2021-03-11
 tags: [图形学,PDF,计算机,Peter,Shirley]
 comments: true

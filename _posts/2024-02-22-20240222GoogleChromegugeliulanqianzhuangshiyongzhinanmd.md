@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Chrome（谷歌浏览器）安装使用指南"
+title: "Google Chrome谷歌浏览器安装使用指南"
 date:   2021-08-05
 tags: [Google,Chrome,浏览器,安装,使用指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 2.0 中文离线官网文档"
+title: "Vuejs 20 中文离线官网文档"
 date:   2023-09-30
 tags: [Vue,js,文档,离线,2.0]
 comments: true

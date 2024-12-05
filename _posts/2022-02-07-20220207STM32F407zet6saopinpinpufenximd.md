@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407zet6扫频+频谱分析"
+title: "STM32F407zet6扫频频谱分析"
 date:   2024-11-17
 tags: [扫频,STM32F407zet6,DMA,正弦波,频谱]
 comments: true

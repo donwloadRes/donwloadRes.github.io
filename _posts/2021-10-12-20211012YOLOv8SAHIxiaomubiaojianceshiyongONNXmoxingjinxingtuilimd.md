@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8+SAHI小目标检测：使用ONNX模型进行推理"
+title: "YOLOv8SAHI小目标检测使用ONNX模型进行推理"
 date:   2022-11-30
 tags: [检测,图像,模型,YOLOv8,pip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享46个JS抽奖转盘，总有一款适合您"
+title: "分享46个JS抽奖转盘总有一款适合您"
 date:   2021-11-07
 tags: [转盘,模板,抽奖,46,JS]
 comments: true

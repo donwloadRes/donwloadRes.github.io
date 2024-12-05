@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ankh-VSIX-2022-anksvn 支持 VS2022 下载仓库"
+title: "AnkhVSIX2022anksvn 支持 VS2022 下载仓库"
 date:   2021-10-10
 tags: [2022,Visual,Studio,插件,Ankh]
 comments: true

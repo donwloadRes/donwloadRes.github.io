@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘实战：利用Python深入分析出租车轨迹"
+title: "数据挖掘实战利用Python深入分析出租车轨迹"
 date:   2021-05-26
 tags: [数据,Python,出租车,轨迹,数据挖掘]
 comments: true

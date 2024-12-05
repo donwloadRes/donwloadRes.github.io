@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机使用和配置HC-05蓝牙资源"
+title: "51单片机使用和配置HC05蓝牙资源"
 date:   2020-12-09
 tags: [蓝牙,单片机,HC,05,引脚]
 comments: true

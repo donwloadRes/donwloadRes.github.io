@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCN图卷积实现人体行为识别-摔倒行为识别源码分享"
+title: "GCN图卷积实现人体行为识别摔倒行为识别源码分享"
 date:   2023-11-27
 tags: [识别,Python,Pytorch,卷积,行为]
 comments: true

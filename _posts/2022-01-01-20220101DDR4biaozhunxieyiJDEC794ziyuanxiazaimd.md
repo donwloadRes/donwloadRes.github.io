@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR4标准协议-JDEC79-4 资源下载"
+title: "DDR4标准协议JDEC794 资源下载"
 date:   2020-07-17
 tags: [DDR4,内存,文档,标准协议,JDEC79]
 comments: true

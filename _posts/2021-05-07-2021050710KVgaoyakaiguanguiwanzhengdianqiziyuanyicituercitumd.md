@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10KV高压开关柜完整电气资源：一次图+二次图"
+title: "10KV高压开关柜完整电气资源一次图二次图"
 date:   2023-01-21
 tags: [开关柜,高压,电气,二次,电气设计]
 comments: true

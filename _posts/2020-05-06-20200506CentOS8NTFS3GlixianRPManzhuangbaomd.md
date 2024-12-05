@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 8 NTFS-3G 离线 RPM 安装包"
+title: "CentOS 8 NTFS3G 离线 RPM 安装包"
 date:   2021-09-20
 tags: [NTFS,3G,安装,CentOS,安装包]
 comments: true

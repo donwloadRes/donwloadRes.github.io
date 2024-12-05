@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动灌溉系统 keil5（stm32+esp8266+onenet+mqtt）"
+title: "自动灌溉系统 keil5stm32esp8266onenetmqtt"
 date:   2023-02-17
 tags: [微信,ESP8266,OneNet,STM32,Wi]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONENET虚拟MQTT设备 simulate-device 使用指南"
+title: "ONENET虚拟MQTT设备 simulatedevice 使用指南"
 date:   2023-02-05
 tags: [设备,ONENET,simulate,device,MQTT]
 comments: true

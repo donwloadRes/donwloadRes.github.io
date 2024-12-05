@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5 和 PyQt5-sip 快速安装资源"
+title: "PyQt5 和 PyQt5sip 快速安装资源"
 date:   2020-11-06
 tags: [PyQt5,sip,whl,版本号,pyqt5]
 comments: true

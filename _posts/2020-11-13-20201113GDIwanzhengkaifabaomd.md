@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDI+ 完整开发包"
+title: "GDI 完整开发包"
 date:   2020-11-19
 tags: [GDI,GdiPlus,开发包,Windows,dll]
 comments: true

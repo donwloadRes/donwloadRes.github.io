@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发实战1200例第一卷资源文件介绍"
+title: "C开发实战1200例第一卷资源文件介绍"
 date:   2024-06-19
 tags: [C#,编程,文件,控件,资源]
 comments: true

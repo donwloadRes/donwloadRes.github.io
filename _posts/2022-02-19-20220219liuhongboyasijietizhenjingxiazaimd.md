@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刘洪波-雅思解题真经下载"
+title: "刘洪波雅思解题真经下载"
 date:   2021-12-26
 tags: [听力,雅思,口语,解题,刘洪波]
 comments: true

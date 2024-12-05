@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 鼠标控制场景：旋转、放大、缩小、平移等功能"
+title: "Unity 鼠标控制场景旋转放大缩小平移等功能"
 date:   2023-10-24
 tags: [鼠标,场景,平移,Unity,旋转]
 comments: true

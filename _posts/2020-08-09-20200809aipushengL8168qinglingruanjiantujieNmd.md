@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L8168清零软件+图解N"
+title: "爱普生L8168清零软件图解N"
 date:   2021-11-12
 tags: [清零,图解,软件,爱普生,L8168]
 comments: true

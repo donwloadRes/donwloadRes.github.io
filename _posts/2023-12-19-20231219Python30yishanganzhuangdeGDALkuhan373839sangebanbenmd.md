@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.0以上安装的GDAL库（含3.7、3.8、3.9三个版本）"
+title: "Python 30以上安装的GDAL库含373839三个版本"
 date:   2023-04-16
 tags: [GDAL,版本,Python,下载,3.0]
 comments: true

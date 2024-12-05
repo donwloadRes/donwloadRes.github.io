@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "boot-example-base-mqtt-server-2.0.5"
+title: "bootexamplebasemqttserver205"
 date:   2024-06-26
 tags: [MQTT,Spring,Netty,Boot,boot]
 comments: true

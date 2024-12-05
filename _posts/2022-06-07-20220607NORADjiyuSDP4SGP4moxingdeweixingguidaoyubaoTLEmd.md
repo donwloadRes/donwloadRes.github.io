@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NORAD基于SDP4-SGP4模型的卫星轨道预报TLE"
+title: "NORAD基于SDP4SGP4模型的卫星轨道预报TLE"
 date:   2021-08-16
 tags: [工具包,卫星,轨道,测站,TLE]
 comments: true

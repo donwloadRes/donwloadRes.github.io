@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "基于STM32平台的BMP180测试（模拟IIC）"
+title: "基于STM32平台的BMP180测试模拟IIC
+date   20200505
+tags IICBMP180Byteuint8Send
+comments true
+author admin
+
+ 基于STM32平台的BMP180测试模拟IIC
+
+ 简介
+本资源文件详细记录了基于STM32平台使用模拟IIC通信协议测试BMP180传感器的过程内容包括测试描述硬件准备数据手册解读测试代码展示遇到的问题及解决方法最终得出稳定可靠的测试结果
+
+ 测试描述
+使用模拟IIC从BMP180中获取ID号温度值气压值以及计算海拔高度
+
+ 测试准备
+ 硬件平台原子战舰V3开发板
+ 测试工具逻辑分析仪串口调试工具
+
+ 数据手册解读
+1 多个字节的读取时序图BMP180芯片的地址写信号是0xEE地址读信号为0xEF
+2 测试时默认使用低功耗模式OSS的值需注意因为后期的计算需要这个并且读取UT值时也要做对应的处理
+3 手册里给出的利用BMP180里的参数计算气压和温度的流程图特别注意流程里的OSS
+
+ 测试代码
+由于本工程是直接使用原子战舰的标准例程库函数版本实验23 IIC实验源码改过来的所以模拟IIC部分使用的原子这块的代码BMP180部分由本人编写
+
+ BMP180 C代码片
+c
+include bmp180h
+include delayh
+include mathh"
 date:   2020-05-05
 tags: [IIC,BMP180,Byte,uint8,Send]
 comments: true

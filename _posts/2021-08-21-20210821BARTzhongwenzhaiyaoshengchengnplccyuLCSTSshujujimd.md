@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BART中文摘要生成（nplcc与LCSTS数据集）"
+title: "BART中文摘要生成nplcc与LCSTS数据集"
 date:   2020-12-05
 tags: [摘要,中文,示例,BART,nplcc]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence 16.6 教程资源下载"
+title: "Cadence 166 教程资源下载"
 date:   2020-07-22
 tags: [教程,Cadence,16.6,学习,下载]
 comments: true

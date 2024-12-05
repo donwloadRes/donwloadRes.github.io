@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vs2019兼容的Qt 5.15.2 64位静态库"
+title: "vs2019兼容的Qt 5152 64位静态库"
 date:   2024-12-02
 tags: [Qt,静态,5.15,64,Visual]
 comments: true

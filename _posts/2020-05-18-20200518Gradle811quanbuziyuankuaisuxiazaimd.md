@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 8.1.1 全部资源快速下载"
+title: "Gradle 811 全部资源快速下载"
 date:   2020-01-09
 tags: [Gradle,8.1,构建,下载,gradle]
 comments: true

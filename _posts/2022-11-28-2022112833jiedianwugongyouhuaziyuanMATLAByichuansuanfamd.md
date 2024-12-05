@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "33节点无功优化资源：MATLAB遗传算法"
+title: "33节点无功优化资源MATLAB遗传算法"
 date:   2023-09-27
 tags: [MATLAB,遗传算法,33,资源,节点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPLUNK8.2.0中文手册下载"
+title: "SPLUNK820中文手册下载"
 date:   2023-08-21
 tags: [SPLUNK8.2,中文,手册,下载,检索]
 comments: true

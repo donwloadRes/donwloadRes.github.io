@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32升降压DC-DC Buck设计（0-18V可调）"
+title: "基于STM32升降压DCDC Buck设计018V可调"
 date:   2021-08-02
 tags: [PCB,STM32,原理图,DC,代码]
 comments: true

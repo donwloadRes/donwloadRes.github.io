@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2010 Redistributable Package 资源文件"
+title: "Microsoft Visual C 2010 Redistributable Package 资源文件"
 date:   2024-04-26
 tags: [文件,Microsoft,Visual,C++,2010]
 comments: true

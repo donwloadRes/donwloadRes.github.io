@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EO.WebBrowser 清洁版本"
+title: "EOWebBrowser 清洁版本"
 date:   2023-08-12
 tags: [版本,EO,WebBrowser,提示框,清洁]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-QFtp下载文件夹类"
+title: "QtQFtp下载文件夹类"
 date:   2021-09-08
 tags: [文件夹,下载,Qt,QFtp,构造函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux DTS详解.pdf"
+title: "Linux DTS详解pdf"
 date:   2024-10-30
 tags: [DTS,Linux,内核,硬件,Device]
 comments: true

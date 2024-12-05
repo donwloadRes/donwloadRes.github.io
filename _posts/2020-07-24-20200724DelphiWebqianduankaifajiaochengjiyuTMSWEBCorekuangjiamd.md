@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi Web前端开发教程——基于TMS WEB Core框架"
+title: "Delphi Web前端开发教程基于TMS WEB Core框架"
 date:   2020-12-21
 tags: [Web,Delphi,TMS,WEB,Core]
 comments: true

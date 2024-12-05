@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis for Windows x64-5.0.14.1 下载仓库"
+title: "Redis for Windows x6450141 下载仓库"
 date:   2022-11-24
 tags: [Redis,Windows,5.0,14.1,x64]
 comments: true

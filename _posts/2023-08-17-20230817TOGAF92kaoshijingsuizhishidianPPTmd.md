@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOGAF9.2 考试精髓知识点PPT"
+title: "TOGAF92 考试精髓知识点PPT"
 date:   2024-04-07
 tags: [PPT,知识点,TOGAF9.2,考试,备考]
 comments: true

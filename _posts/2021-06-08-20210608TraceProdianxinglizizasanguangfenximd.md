@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TracePro典型例子-杂散光分析"
+title: "TracePro典型例子杂散光分析"
 date:   2021-08-03
 tags: [TracePro,散光,分析,软件,文件]
 comments: true

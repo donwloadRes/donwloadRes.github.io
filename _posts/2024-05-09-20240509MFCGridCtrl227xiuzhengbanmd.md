@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC GridCtrl 2.27修正版"
+title: "MFC GridCtrl 227修正版"
 date:   2020-04-12
 tags: [MFC,修正版,GridCtrl,2.27,表格]
 comments: true

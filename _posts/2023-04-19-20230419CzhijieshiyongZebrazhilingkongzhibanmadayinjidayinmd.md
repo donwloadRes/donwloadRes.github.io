@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 直接使用Zebra指令控制斑马打印机打印"
+title: "C 直接使用Zebra指令控制斑马打印机打印"
 date:   2021-01-13
 tags: [打印机,代码,打印,斑马,条码]
 comments: true

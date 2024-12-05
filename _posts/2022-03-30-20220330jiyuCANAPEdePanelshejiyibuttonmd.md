@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CANAPE的Panel设计（一）--button"
+title: "基于CANAPE的Panel设计一button"
 date:   2020-05-30
 tags: [CANAPE,Panel,按钮,教程,设计]
 comments: true

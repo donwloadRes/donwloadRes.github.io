@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统 - 基于Python3 tkinterGUI界面"
+title: "学生信息管理系统  基于Python3 tkinterGUI界面"
 date:   2020-03-10
 tags: [界面,文件,Excel,改查,本地]
 comments: true

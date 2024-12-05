@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HTML5+CSS+JS饿了么实战项目"
+title: "基于HTML5CSSJS饿了么实战项目"
 date:   2021-08-23
 tags: [页面,项目,首页,官网,点餐]
 comments: true

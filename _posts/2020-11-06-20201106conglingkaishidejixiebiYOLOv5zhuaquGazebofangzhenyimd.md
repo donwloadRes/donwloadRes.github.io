@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始的机械臂YOLOv5抓取Gazebo仿真（一）"
+title: "从零开始的机械臂YOLOv5抓取Gazebo仿真一"
 date:   2021-12-08
 tags: [Gazebo,仿真,抓取,YOLOv5,教程]
 comments: true

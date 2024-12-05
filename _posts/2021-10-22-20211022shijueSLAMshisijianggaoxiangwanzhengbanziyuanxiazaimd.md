@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉SLAM十四讲-高翔 完整版 资源下载"
+title: "视觉SLAM十四讲高翔 完整版 资源下载"
 date:   2020-05-12
 tags: [SLAM,高翔,视觉,完整版,资源]
 comments: true

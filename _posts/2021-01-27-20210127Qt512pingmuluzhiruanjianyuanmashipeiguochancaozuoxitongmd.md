@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.12 屏幕录制软件源码 - 适配国产操作系统"
+title: "Qt512 屏幕录制软件源码  适配国产操作系统"
 date:   2020-02-29
 tags: [源码,Qt5.12,操作系统,录制,国产]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Flash 软件安装包及版本兼容说明"
+title: "JFlash 软件安装包及版本兼容说明"
 date:   2021-05-01
 tags: [Link,Flash,调试器,版本,适用]
 comments: true

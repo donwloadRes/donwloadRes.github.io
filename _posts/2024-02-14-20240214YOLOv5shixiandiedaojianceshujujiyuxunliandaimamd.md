@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5实现跌倒检测：数据集与训练代码"
+title: "YOLOv5实现跌倒检测数据集与训练代码"
 date:   2020-01-12
 tags: [跌倒,检测,训练,YOLOv5,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 11 在 Ubuntu 22.04 离线安装包"
+title: "PostgreSQL 11 在 Ubuntu 2204 离线安装包"
 date:   2022-10-22
 tags: [11,PostgreSQL,离线,安装,Ubuntu]
 comments: true

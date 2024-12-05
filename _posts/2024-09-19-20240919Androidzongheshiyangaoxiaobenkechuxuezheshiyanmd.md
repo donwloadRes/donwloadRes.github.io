@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android综合实验（高校本科初学者实验）"
+title: "Android综合实验高校本科初学者实验"
 date:   2021-04-04
 tags: [Android,组件,初学者,实验,开发]
 comments: true

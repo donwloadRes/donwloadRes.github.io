@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS2251-09（PS2309）量产工具使用指南"
+title: "PS225109PS2309量产工具使用指南"
 date:   2020-05-07
 tags: [量产,U盘,工具,PS2251,3.0]
 comments: true

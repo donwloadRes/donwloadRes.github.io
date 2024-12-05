@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "平衡小车制作：串级PID调参及平衡成果展示"
+title: "平衡小车制作串级PID调参及平衡成果展示"
 date:   2021-08-05
 tags: [Kp,小车,Kd,Ki,平衡]
 comments: true

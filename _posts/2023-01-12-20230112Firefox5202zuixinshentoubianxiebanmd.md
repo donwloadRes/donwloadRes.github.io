@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Firefox 52.0.2 最新渗透便携版"
+title: "Firefox 5202 最新渗透便携版"
 date:   2022-07-26
 tags: [Firefox,渗透,插件,测试,便携]
 comments: true

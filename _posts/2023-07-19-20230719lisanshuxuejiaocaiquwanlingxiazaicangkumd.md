@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学教材（屈婉玲）下载仓库"
+title: "离散数学教材屈婉玲下载仓库"
 date:   2023-03-19
 tags: [离散数学,下载,仓库,教材内容,教材]
 comments: true

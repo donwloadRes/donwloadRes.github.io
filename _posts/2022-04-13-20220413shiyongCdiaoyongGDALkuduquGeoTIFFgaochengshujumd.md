@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C#调用GDAL库读取GeoTIFF高程数据"
+title: "使用C调用GDAL库读取GeoTIFF高程数据"
 date:   2021-07-27
 tags: [GDAL,GeoTIFF,C#,高程,读取]
 comments: true

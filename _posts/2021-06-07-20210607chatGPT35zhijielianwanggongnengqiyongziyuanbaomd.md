@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chatGPT-3.5 直接联网功能启用资源包"
+title: "chatGPT35 直接联网功能启用资源包"
 date:   2022-08-25
 tags: [3.5,ChatGPT,chatGPT,API,联网]
 comments: true

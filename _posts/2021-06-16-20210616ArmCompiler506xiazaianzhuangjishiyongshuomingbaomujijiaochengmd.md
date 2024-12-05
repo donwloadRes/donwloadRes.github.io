@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arm Compiler 5.06 下载、安装及使用说明（保姆级教程）"
+title: "Arm Compiler 506 下载安装及使用说明保姆级教程"
 date:   2023-11-30
 tags: [下载,安装,Arm,Compiler,5.06]
 comments: true

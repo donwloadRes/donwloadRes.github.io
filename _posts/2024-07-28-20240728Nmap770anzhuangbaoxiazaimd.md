@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nmap 7.70 安装包下载"
+title: "Nmap 770 安装包下载"
 date:   2023-01-02
 tags: [Nmap,7.70,安装包,nmap,setup]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 软件安装教程"
+title: "DevC 软件安装教程"
 date:   2023-10-11
 tags: [C++,Dev,点击,安装,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复分析：可视化方法"
+title: "复分析可视化方法"
 date:   2020-07-22
 tags: [复分析,可视化,方法,资料,学习]
 comments: true

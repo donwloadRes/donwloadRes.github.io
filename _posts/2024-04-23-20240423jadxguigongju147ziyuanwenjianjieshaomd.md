@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jadx-gui 工具1.4.7 资源文件介绍"
+title: "jadxgui 工具147 资源文件介绍"
 date:   2020-02-15
 tags: [工具,jadx,gui,文件,1.4]
 comments: true

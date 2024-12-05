@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【自己动手做一台SLAM导航机器人】项目指南"
+title: "自己动手做一台SLAM导航机器人项目指南"
 date:   2023-07-26
 tags: [机器人,SLAM,导航,ROS,动手做]
 comments: true

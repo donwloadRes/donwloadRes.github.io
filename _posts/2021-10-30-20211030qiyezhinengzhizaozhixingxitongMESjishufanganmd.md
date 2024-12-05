@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业智能制造执行系统（MES）技术方案"
+title: "企业智能制造执行系统MES技术方案"
 date:   2022-06-22
 tags: [MES,智能,制造执行系统,企业,技术]
 comments: true

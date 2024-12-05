@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典C-C++面试题目大汇总(全附答案)"
+title: "经典CC面试题目大汇总全附答案"
 date:   2023-11-18
 tags: [引用,C++,操作符,int,函数]
 comments: true

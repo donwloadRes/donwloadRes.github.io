@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四、JAVA调用海康威视SDK实现摄像头内网推流到阿里云"
+title: "四JAVA调用海康威视SDK实现摄像头内网推流到阿里云"
 date:   2021-04-12
 tags: [JAVA,威视,SDK,海康,阿里]
 comments: true

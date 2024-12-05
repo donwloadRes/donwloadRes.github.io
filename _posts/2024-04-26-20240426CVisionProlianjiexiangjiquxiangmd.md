@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#+VisionPro连接相机取像"
+title: "CVisionPro连接相机取像"
 date:   2024-06-14
 tags: [相机,C#,VisionPro,SDK,连接]
 comments: true

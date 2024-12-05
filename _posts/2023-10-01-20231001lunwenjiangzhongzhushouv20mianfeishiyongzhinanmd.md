@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "论文降重助手v2.0（免费）使用指南"
+title: "论文降重助手v20免费使用指南"
 date:   2024-02-06
 tags: [降重,语义,论文,v2.0,专有名词]
 comments: true

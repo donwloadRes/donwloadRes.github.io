@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LoRa SX1278-76驱动源码下载"
+title: "LoRa SX127876驱动源码下载"
 date:   2023-09-26
 tags: [LoRa,源码,SX1278,驱动程序,76]
 comments: true

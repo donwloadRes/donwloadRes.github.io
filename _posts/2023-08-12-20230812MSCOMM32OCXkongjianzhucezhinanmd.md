@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSCOMM32.OCX 控件注册指南"
+title: "MSCOMM32OCX 控件注册指南"
 date:   2023-07-24
 tags: [控件,MSCOMM32,OCX,注册,命令提示符]
 comments: true

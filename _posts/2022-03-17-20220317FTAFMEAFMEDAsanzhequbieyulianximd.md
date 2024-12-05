@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FTA、FMEA、FMEDA三者区别与联系"
+title: "FTAFMEAFMEDA三者区别与联系"
 date:   2022-11-16
 tags: [失效,FTA,FMEA,FMEDA,系统]
 comments: true

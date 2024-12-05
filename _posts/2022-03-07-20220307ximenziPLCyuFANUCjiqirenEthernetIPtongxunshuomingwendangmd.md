@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC与FANUC机器人Ethernet-IP通讯说明文档"
+title: "西门子PLC与FANUC机器人EthernetIP通讯说明文档"
 date:   2024-01-17
 tags: [文档,PLC,FANUC,通讯,西门子]
 comments: true

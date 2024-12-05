@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JVC、Sony、Canon 摄像机视频格式转换方法"
+title: "JVCSonyCanon 摄像机视频格式转换方法"
 date:   2023-09-22
 tags: [视频格式,转换,摄像机,JVC,Sony]
 comments: true

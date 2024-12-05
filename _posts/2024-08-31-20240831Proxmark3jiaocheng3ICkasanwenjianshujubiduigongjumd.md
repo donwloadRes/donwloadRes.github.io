@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proxmark3教程3：IC卡三文件数据比对工具"
+title: "Proxmark3教程3IC卡三文件数据比对工具"
 date:   2024-04-08
 tags: [IC卡,数据,工具,文件,Proxmark3]
 comments: true

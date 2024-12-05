@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# NAudio 录音与播放示例项目"
+title: "C NAudio 录音与播放示例项目"
 date:   2024-07-24
 tags: [录音,播放,NAudio,项目,WPF]
 comments: true

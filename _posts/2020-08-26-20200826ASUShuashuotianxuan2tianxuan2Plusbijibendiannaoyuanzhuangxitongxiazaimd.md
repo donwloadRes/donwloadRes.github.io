@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕天选2-天选2Plus笔记本电脑原装系统下载"
+title: "ASUS华硕天选2天选2Plus笔记本电脑原装系统下载"
 date:   2024-02-09
 tags: [天选,华硕,系统,ASUS,系统文件]
 comments: true

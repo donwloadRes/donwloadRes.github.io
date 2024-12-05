@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_291 64位离线安装包"
+title: "JDK 180291 64位离线安装包"
 date:   2020-06-11
 tags: [JDK,安装包,64,安装,离线]
 comments: true

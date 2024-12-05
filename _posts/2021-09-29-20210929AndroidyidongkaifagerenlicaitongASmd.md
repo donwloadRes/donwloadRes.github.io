@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android移动开发——个人理财通AS"
+title: "Android移动开发个人理财通AS"
 date:   2021-11-18
 tags: [Android,Eclipse,项目,开发,文件]
 comments: true

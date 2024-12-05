@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GOOSE，SV报文解析工具"
+title: "GOOSESV报文解析工具"
 date:   2021-09-07
 tags: [报文,解析,工具,GOOSE,SV]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8636 标准文档下载"
+title: "SFF8636 标准文档下载"
 date:   2021-12-10
 tags: [模块,文档,SFF,8636,I2C]
 comments: true

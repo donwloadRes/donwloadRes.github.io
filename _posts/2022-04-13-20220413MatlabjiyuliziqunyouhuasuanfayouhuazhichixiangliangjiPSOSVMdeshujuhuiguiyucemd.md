@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab 基于粒子群优化算法优化支持向量机(PSO-SVM)的数据回归预测"
+title: "Matlab 基于粒子群优化算法优化支持向量机PSOSVM的数据回归预测"
 date:   2024-02-21
 tags: [Matlab,优化,预测,回归,数据]
 comments: true

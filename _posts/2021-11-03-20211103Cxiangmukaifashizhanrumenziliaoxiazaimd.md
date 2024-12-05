@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++项目开发实战入门资料下载"
+title: "C项目开发实战入门资料下载"
 date:   2023-02-27
 tags: [C++,入门,下载,实战,资料]
 comments: true

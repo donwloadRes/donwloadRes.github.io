@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品28 - 简易视频播放器"
+title: "QtC项目作品28  简易视频播放器"
 date:   2022-02-14
 tags: [播放,播放器,视频,解码,Qt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Navicat时遇到“Missing required library libmysql_e.dll 126”错误的解决方案"
+title: "安装Navicat时遇到Missing required library libmysqledll 126错误的解决方案"
 date:   2023-03-23
 tags: [Navicat,dll,文件,libmysql,放置]
 comments: true

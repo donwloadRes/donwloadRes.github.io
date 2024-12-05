@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM 实时传输源码"
+title: "ESP32CAM 实时传输源码"
 date:   2022-04-11
 tags: [ESP32,CAM,源码,视频流,MQTT]
 comments: true

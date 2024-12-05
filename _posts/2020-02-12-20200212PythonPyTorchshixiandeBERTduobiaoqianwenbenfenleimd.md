@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-PyTorch实现的BERT多标签文本分类"
+title: "PythonPyTorch实现的BERT多标签文本分类"
 date:   2024-06-27
 tags: [标签,BERT,模型,文本,PyTorch]
 comments: true

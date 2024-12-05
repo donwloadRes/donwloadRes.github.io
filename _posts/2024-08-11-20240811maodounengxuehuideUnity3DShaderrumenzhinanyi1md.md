@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "猫都能学会的Unity3D Shader入门指南（一）1"
+title: "猫都能学会的Unity3D Shader入门指南一1"
 date:   2020-12-22
 tags: [Shader,Unity3D,编程,资源,指南]
 comments: true

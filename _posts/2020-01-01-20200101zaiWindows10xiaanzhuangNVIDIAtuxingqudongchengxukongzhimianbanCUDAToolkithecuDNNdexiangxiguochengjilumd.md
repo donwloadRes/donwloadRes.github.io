@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Windows 10下安装NVIDIA图形驱动程序、控制面板、CUDA Toolkit和cuDNN的详细过程记录"
+title: "在Windows 10下安装NVIDIA图形驱动程序控制面板CUDA Toolkit和cuDNN的详细过程记录"
 date:   2020-03-09
 tags: [NVIDIA,CUDA,安装,cuDNN,驱动程序]
 comments: true

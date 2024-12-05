@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#系列知识点梳理资源下载"
+title: "C系列知识点梳理资源下载"
 date:   2020-12-15
 tags: [C#,知识点,梳理,编程,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 27930 新能源汽车充电协议解析源代码"
+title: "GBT 27930 新能源汽车充电协议解析源代码"
 date:   2020-12-19
 tags: [源代码,GB,27930,文件,示例]
 comments: true

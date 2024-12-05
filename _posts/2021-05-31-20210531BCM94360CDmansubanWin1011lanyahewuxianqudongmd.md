@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCM94360CD满速版 Win10-11 蓝牙和无线驱动"
+title: "BCM94360CD满速版 Win1011 蓝牙和无线驱动"
 date:   2020-11-30
 tags: [驱动,BCM94360CD,无线,驱动程序,满速版]
 comments: true

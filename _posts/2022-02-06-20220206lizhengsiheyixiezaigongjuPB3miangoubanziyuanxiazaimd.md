@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "理正四合一+卸载工具（PB3免狗版）资源下载"
+title: "理正四合一卸载工具PB3免狗版资源下载"
 date:   2020-02-13
 tags: [理正,卸载,软件,资源,PB3]
 comments: true

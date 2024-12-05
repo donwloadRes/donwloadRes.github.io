@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "充电桩欧标DIN70121 第一层协议分析(中文版)"
+title: "充电桩欧标DIN70121 第一层协议分析中文版"
 date:   2020-02-28
 tags: [充电,欧标,DIN70121,第一层,协议]
 comments: true

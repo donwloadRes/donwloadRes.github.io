@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狂神说Java系列笔记：从基础到微服务全攻略"
+title: "狂神说Java系列笔记从基础到微服务全攻略"
 date:   2020-09-09
 tags: [Java,Spring,学习,狂神,编程]
 comments: true

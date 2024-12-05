@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stata命令：国际贸易引力模型Stata代码"
+title: "Stata命令国际贸易引力模型Stata代码"
 date:   2022-03-27
 tags: [Stata,代码,引力,模型,国际贸易]
 comments: true

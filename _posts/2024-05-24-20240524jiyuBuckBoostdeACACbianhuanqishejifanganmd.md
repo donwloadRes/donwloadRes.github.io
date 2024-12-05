@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Buck-Boost的AC-AC变换器设计方案"
+title: "基于BuckBoost的ACAC变换器设计方案"
 date:   2023-09-17
 tags: [AC,Buck,Boost,变换器,设计方案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch多层神经网络预测房价(回归模型)+GPU的使用"
+title: "PyTorch多层神经网络预测房价回归模型GPU的使用"
 date:   2020-06-19
 tags: [GPU,PyTorch,模型,训练,使用]
 comments: true

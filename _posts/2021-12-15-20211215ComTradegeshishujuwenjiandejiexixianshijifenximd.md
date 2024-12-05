@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ComTrade格式数据文件的解析、显示及分析"
+title: "ComTrade格式数据文件的解析显示及分析"
 date:   2024-10-06
 tags: [ComTrade,格式,解析,电力系统,数据]
 comments: true

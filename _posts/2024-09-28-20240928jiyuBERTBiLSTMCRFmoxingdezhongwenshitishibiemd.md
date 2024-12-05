@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于BERT-BiLSTM-CRF模型的中文实体识别"
+title: "基于BERTBiLSTMCRF模型的中文实体识别"
 date:   2024-08-07
 tags: [识别,模型,BERT,BiLSTM,CRF]
 comments: true

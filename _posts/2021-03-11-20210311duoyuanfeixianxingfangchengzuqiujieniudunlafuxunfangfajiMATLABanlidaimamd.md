@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多元非线性方程组求解：牛顿-拉夫逊方法及MATLAB案例代码"
+title: "多元非线性方程组求解牛顿拉夫逊方法及MATLAB案例代码"
 date:   2023-07-30
 tags: [线性方程组,拉夫,求解,MATLAB,牛顿]
 comments: true

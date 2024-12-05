@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLTC-EPA-NEDC-WLTC-CHTC 工况文件"
+title: "CLTCEPANEDCWLTCCHTC 工况文件"
 date:   2022-11-26
 tags: [工况,NEDC,Matlab,数据,行驶]
 comments: true

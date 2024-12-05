@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字后端面试题集锦 - 数字芯片实验室"
+title: "数字后端面试题集锦  数字芯片实验室"
 date:   2022-03-17
 tags: [数字,面试题,集锦,芯片,实验室]
 comments: true

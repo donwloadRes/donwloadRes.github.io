@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF全套教程视频教程下载"
+title: "C WPF全套教程视频教程下载"
 date:   2021-06-18
 tags: [WPF,C#,视频教程,下载,教程]
 comments: true

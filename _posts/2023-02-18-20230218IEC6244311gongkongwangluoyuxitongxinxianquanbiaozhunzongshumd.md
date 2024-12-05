@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 62443-1-1 工控网络与系统信息安全标准综述"
+title: "IEC 6244311 工控网络与系统信息安全标准综述"
 date:   2020-01-13
 tags: [IEC,62443,工控,信息安全,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机与松下PLC通信示例"
+title: "C 上位机与松下PLC通信示例"
 date:   2023-07-18
 tags: [PLC,松下,C#,通讯,示例]
 comments: true

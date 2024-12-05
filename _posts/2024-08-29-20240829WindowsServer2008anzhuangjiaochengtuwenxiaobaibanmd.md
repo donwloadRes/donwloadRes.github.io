@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2008 安装教程——图文小白版"
+title: "Windows Server 2008 安装教程图文小白版"
 date:   2022-03-06
 tags: [Windows,Server,2008,安装,教程]
 comments: true

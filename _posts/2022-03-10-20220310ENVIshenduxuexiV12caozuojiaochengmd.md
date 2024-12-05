@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI 深度学习 V1.2 操作教程"
+title: "ENVI 深度学习 V12 操作教程"
 date:   2024-05-01
 tags: [ENVI,深度,学习,教程,1.2]
 comments: true

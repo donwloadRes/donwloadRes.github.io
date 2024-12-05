@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "白话机器学习的数学 - 立石贤吾 源代码下载"
+title: "白话机器学习的数学  立石贤吾 源代码下载"
 date:   2022-06-15
 tags: [源代码,立石贤,白话,学习,机器]
 comments: true

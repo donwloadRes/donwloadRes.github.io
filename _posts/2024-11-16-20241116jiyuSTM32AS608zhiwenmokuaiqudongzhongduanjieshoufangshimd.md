@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32 AS608指纹模块驱动(中断接收方式)"
+title: "基于STM32 AS608指纹模块驱动中断接收方式"
 date:   2023-05-28
 tags: [STM32,模块,AS608,中断,驱动]
 comments: true

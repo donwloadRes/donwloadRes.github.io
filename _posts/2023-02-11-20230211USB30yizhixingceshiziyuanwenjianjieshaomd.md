@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0一致性测试资源文件介绍"
+title: "USB30一致性测试资源文件介绍"
 date:   2022-07-01
 tags: [USB3.0,一致性,测试,文件,常见问题]
 comments: true

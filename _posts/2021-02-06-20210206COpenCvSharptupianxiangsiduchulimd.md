@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OpenCvSharp 图片相似度处理"
+title: "C OpenCvSharp 图片相似度处理"
 date:   2024-11-20
 tags: [相似,图片,直方图,灰度,两张]
 comments: true

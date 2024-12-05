@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 09-23版安装包网盘资源下载"
+title: "Altium Designer 0923版安装包网盘资源下载"
 date:   2023-04-11
 tags: [安装,Altium,Designer,软件,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OllyDBG v2.01 中文汉化绿色版"
+title: "OllyDBG v201 中文汉化绿色版"
 date:   2023-01-19
 tags: [OllyDBG,插件,中文,绿色版,汉化]
 comments: true

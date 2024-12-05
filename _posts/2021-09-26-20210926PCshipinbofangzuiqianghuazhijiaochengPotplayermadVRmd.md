@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC视频播放最强画质教程（Potplayer + madVR）"
+title: "PC视频播放最强画质教程Potplayer  madVR"
 date:   2020-11-27
 tags: [madVR,视频,Potplayer,安装,画质]
 comments: true

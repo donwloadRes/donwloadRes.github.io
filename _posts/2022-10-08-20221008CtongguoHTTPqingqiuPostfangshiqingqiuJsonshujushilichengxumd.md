@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++通过HTTP请求Post方式请求Json数据示例程序"
+title: "C通过HTTP请求Post方式请求Json数据示例程序"
 date:   2020-09-23
 tags: [Json,示例,HTTP,rapidjson,Post]
 comments: true

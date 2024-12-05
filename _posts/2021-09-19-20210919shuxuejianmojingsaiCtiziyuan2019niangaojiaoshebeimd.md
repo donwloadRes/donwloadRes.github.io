@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模竞赛C题资源：2019年高教社杯"
+title: "数学建模竞赛C题资源2019年高教社杯"
 date:   2022-06-22
 tags: [建模,题目,2019,数据文件,出租车]
 comments: true

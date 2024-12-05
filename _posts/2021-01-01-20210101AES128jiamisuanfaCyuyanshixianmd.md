@@ -1,6 +1,51 @@
 ---
 layout: post
-title: "AES-128加密算法C语言实现"
+title: "AES128加密算法C语言实现
+date   20211201
+tags AESdatactx16printf
+comments true
+author admin
+
+ AES128加密算法C语言实现
+
+ 简介
+本仓库提供了一个AES128加密算法的C语言实现该实现已在STM32平台上验证通过采用ECB加密模式方便移植到其他平台
+
+ 功能特点
+ AES128加密算法实现了AES128标准的加密算法
+ C语言实现代码完全使用C语言编写便于理解和修改
+ STM32平台验证已在STM32平台上进行了验证确保算法的正确性和可靠性
+ ECB加密模式采用ECB电子密码本模式进行加密适合简单的加密需求
+ 易于移植代码结构清晰便于移植到其他嵌入式平台或系统
+
+ 使用方法
+1 克隆仓库
+   sh
+   git clone httpsgithubcomyourrepourlgit
+   
+2 包含头文件
+   c
+   include aesh
+   
+3 初始化AES上下文
+   c
+   AESctx ctx
+   AESinitctxctx key
+   
+4 加密数据
+   c
+   AESECBencryptctx inputdata
+   
+5 解密数据
+   c
+   AESECBdecryptctx encrypteddata
+   
+
+ 示例代码
+以下是一个简单的示例代码展示了如何使用本仓库中的AES128加密算法
+
+c
+include aesh"
 date:   2021-12-01
 tags: [AES,data,ctx,16,printf]
 comments: true

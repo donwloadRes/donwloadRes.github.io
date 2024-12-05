@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK1.8 32位 Windows安装包"
+title: "JDK18 32位 Windows安装包"
 date:   2021-11-19
 tags: [安装包,Windows,32,Java,环境变量]
 comments: true

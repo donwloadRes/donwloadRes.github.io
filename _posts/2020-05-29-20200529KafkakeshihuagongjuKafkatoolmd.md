@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kafka可视化工具--Kafkatool"
+title: "Kafka可视化工具Kafkatool"
 date:   2021-06-06
 tags: [Kafka,Kafkatool,集群,Topic,监控]
 comments: true

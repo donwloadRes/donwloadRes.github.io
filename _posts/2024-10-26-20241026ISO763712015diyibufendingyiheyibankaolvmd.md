@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 7637-1：2015 第一部分：定义和一般考虑"
+title: "ISO 763712015 第一部分定义和一般考虑"
 date:   2023-07-23
 tags: [干扰,车辆,ISO,7637,电气]
 comments: true

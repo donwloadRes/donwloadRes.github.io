@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java程序员简历模板-求职应聘必备"
+title: "Java程序员简历模板求职应聘必备"
 date:   2023-04-23
 tags: [Java,程序员,简历,模板,求职]
 comments: true

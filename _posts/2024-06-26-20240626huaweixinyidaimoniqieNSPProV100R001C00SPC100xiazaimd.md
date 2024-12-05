@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为新一代模拟器eNSP-Pro-V100R001C00SPC100下载"
+title: "华为新一代模拟器eNSPProV100R001C00SPC100下载"
 date:   2020-12-31
 tags: [eNSP,Pro,V100R001C00SPC100,模拟器,下载]
 comments: true

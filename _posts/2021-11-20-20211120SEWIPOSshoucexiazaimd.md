@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEW-IPOS手册下载"
+title: "SEWIPOS手册下载"
 date:   2024-09-07
 tags: [手册,SEW,编程,IPOS,下载]
 comments: true

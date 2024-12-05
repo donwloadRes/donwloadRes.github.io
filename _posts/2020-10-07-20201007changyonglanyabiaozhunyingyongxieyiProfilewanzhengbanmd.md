@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用蓝牙标准应用协议（Profile）完整版"
+title: "常用蓝牙标准应用协议Profile完整版"
 date:   2023-12-27
 tags: [蓝牙,协议,应用,资源,这份]
 comments: true

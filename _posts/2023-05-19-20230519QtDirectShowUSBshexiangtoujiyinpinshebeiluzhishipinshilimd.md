@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt + DirectShow USB摄像头及音频设备录制视频示例"
+title: "Qt  DirectShow USB摄像头及音频设备录制视频示例"
 date:   2020-11-02
 tags: [示例,Qt,录制,音频设备,DirectShow]
 comments: true

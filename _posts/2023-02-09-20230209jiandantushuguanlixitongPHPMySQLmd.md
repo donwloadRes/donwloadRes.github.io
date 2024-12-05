@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单图书管理系统（PHP+MySQL）"
+title: "简单图书管理系统PHPMySQL"
 date:   2024-07-19
 tags: [管理系统,PHP,MySQL,图书,较为简单]
 comments: true

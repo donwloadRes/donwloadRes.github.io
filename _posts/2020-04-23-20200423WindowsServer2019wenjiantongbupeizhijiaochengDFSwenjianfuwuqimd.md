@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019 文件同步配置教程：DFS文件服务器"
+title: "Windows Server 2019 文件同步配置教程DFS文件服务器"
 date:   2024-04-14
 tags: [DFS,服务器,配置,文件,域控]
 comments: true

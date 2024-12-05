@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt: 在TreeModel+QTreeView中使用复选框(checkbox)"
+title: "Qt 在TreeModelQTreeView中使用复选框checkbox"
 date:   2020-02-07
 tags: [复选框,节点,Qt,TreeModel,TreeView]
 comments: true

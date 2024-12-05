@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMMI3规范最全，最新文档，特别好"
+title: "CMMI3规范最全最新文档特别好"
 date:   2021-04-20
 tags: [CMMI3,文档,规范,最全,最新]
 comments: true

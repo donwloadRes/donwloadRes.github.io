@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：按范围裁剪GDB数据库"
+title: "CC工具箱使用指南按范围裁剪GDB数据库"
 date:   2020-08-19
 tags: [GDB,数据库,分割,选择,要素]
 comments: true

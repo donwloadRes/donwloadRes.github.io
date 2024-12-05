@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水下图像增强 - Ancuti方法：结合水下白平衡与图像融合技术"
+title: "水下图像增强  Ancuti方法结合水下白平衡与图像融合技术"
 date:   2020-04-04
 tags: [水下,图像,白平衡,论文,代码]
 comments: true

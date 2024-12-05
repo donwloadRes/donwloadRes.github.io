@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04下PX4开发环境搭建指南(v1.14.0)"
+title: "Ubuntu 2004下PX4开发环境搭建指南v1140"
 date:   2022-09-18
 tags: [PX4,安装,ROS,v1.14,搭建]
 comments: true

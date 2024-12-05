@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像配准利器：基于傅里叶变换的MATLAB实现"
+title: "图像配准利器基于傅里叶变换的MATLAB实现"
 date:   2023-07-07
 tags: [配准,图像,MATLAB,傅里叶,图像处理]
 comments: true

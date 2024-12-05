@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统原理与应用-基于ARM Cortex-M3的STM32微控制器PPT资源下载"
+title: "嵌入式系统原理与应用基于ARM CortexM3的STM32微控制器PPT资源下载"
 date:   2024-11-09
 tags: [PPT,嵌入式,M3,STM32,微控制器]
 comments: true

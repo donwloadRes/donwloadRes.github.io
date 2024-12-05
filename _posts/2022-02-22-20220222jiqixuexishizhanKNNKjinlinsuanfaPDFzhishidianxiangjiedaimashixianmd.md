@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战 - KNN（K近邻）算法PDF知识点详解 + 代码实现"
+title: "机器学习实战  KNNK近邻算法PDF知识点详解  代码实现"
 date:   2022-08-15
 tags: [KNN,算法,样本,学习,知识点]
 comments: true

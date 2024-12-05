@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet++的源码运行指南"
+title: "PointNet的源码运行指南"
 date:   2024-01-28
 tags: [PointNet,++,源码,运行,CUDA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全系列双向储能电源解决方案：2kw、2.4kw、3.6kw"
+title: "全系列双向储能电源解决方案2kw24kw36kw"
 date:   2022-09-07
 tags: [储能,2kw,kw,逆变,仿真]
 comments: true

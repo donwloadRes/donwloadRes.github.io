@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Enterprise 10.7 全套资源下载"
+title: "ArcGIS Enterprise 107 全套资源下载"
 date:   2021-07-02
 tags: [ArcGIS,Enterprise,10.7,Server,资源]
 comments: true

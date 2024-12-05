@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plant Simulation基础培训教程（中文）"
+title: "Plant Simulation基础培训教程中文"
 date:   2020-12-28
 tags: [教程,Plant,Simulation,学习,基础]
 comments: true

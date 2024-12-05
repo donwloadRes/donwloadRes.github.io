@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "读取并可视化DICOM图像（VTK & OpenCV）"
+title: "读取并可视化DICOM图像VTK  OpenCV"
 date:   2024-08-04
 tags: [DICOM,图像,读取,VTK,OpenCV]
 comments: true

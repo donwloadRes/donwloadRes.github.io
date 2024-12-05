@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于VLC的网络播放器 C# Winform"
+title: "基于VLC的网络播放器 C Winform"
 date:   2020-01-09
 tags: [播放,播放器,控制,视频,局域网]
 comments: true

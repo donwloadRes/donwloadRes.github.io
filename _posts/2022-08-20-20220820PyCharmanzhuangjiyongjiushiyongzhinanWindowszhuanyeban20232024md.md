@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 安装及永久使用指南 (Windows专业版2023-2024)"
+title: "PyCharm 安装及永久使用指南 Windows专业版20232024"
 date:   2020-09-16
 tags: [PyCharm,安装,安装包,Windows,专业版]
 comments: true

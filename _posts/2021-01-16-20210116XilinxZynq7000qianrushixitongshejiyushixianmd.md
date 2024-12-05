@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq-7000 嵌入式系统设计与实现"
+title: "Xilinx Zynq7000 嵌入式系统设计与实现"
 date:   2021-02-15
 tags: [7000,Zynq,嵌入式,设计,Xilinx]
 comments: true

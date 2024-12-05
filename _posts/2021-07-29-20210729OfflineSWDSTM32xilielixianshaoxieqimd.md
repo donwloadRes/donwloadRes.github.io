@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OfflineSWD: STM32系列离线烧写器"
+title: "OfflineSWD STM32系列离线烧写器"
 date:   2021-09-21
 tags: [烧写,离线,写器,DAP,支持]
 comments: true

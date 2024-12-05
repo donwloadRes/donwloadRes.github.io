@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DX200 安川机器人EtherNet-IP通讯功能说明书"
+title: "DX200 安川机器人EtherNetIP通讯功能说明书"
 date:   2022-10-02
 tags: [DX200,安川,机器人,通讯,EtherNet]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐一款点阵字库生成工具-点阵生成器"
+title: "推荐一款点阵字库生成工具点阵生成器"
 date:   2021-03-24
 tags: [字库,导出,点阵字库,生成,自定义]
 comments: true

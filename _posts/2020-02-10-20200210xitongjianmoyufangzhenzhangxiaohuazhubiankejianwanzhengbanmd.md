@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统建模与仿真 - 张晓华主编 课件完整版"
+title: "系统建模与仿真  张晓华主编 课件完整版"
 date:   2020-06-16
 tags: [课件,仿真,建模,张晓华,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "G711A-G711U 音频播放器和原始音频参考文件"
+title: "G711AG711U 音频播放器和原始音频参考文件"
 date:   2024-03-06
 tags: [播放,音频文件,G711,播放器,音频]
 comments: true

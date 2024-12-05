@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "office2010安装需MSXML版本6.10.1129.0详解解决方案"
+title: "office2010安装需MSXML版本61011290详解解决方案"
 date:   2023-12-05
 tags: [安装,msxml6,注册表,1129.0,Office]
 comments: true

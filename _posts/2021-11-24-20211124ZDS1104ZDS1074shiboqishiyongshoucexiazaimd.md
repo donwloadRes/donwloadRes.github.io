@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZDS1104、ZDS1074示波器使用手册下载"
+title: "ZDS1104ZDS1074示波器使用手册下载"
 date:   2021-10-09
 tags: [使用手册,示波器,ZDS1104,ZDS1074,PDF]
 comments: true

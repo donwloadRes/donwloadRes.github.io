@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WEB用户令牌TOKEN验证防止HTTP GET-POST等提交"
+title: "C WEB用户令牌TOKEN验证防止HTTP GETPOST等提交"
 date:   2023-07-11
 tags: [Nginx,令牌,源码,服务端,SSL]
 comments: true

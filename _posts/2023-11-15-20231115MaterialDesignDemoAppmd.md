@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MaterialDesign-DemoApp"
+title: "MaterialDesignDemoApp"
 date:   2024-06-28
 tags: [Material,Design,MaterialDesign,DemoApp,组件]
 comments: true

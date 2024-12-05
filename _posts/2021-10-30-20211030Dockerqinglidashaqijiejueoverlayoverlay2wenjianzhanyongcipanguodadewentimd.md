@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker清理大杀器：解决overlay、overlay2文件占用磁盘过大的问题"
+title: "Docker清理大杀器解决overlayoverlay2文件占用磁盘过大的问题"
 date:   2021-05-11
 tags: [清理,Docker,文件,overlay,overlay2]
 comments: true

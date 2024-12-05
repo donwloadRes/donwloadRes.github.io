@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于BP神经网络的人脸识别源码（Matlab实现）"
+title: "基于BP神经网络的人脸识别源码Matlab实现"
 date:   2021-06-16
 tags: [神经网络,BP,人脸识别,源码,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TeeChart Pro 2022.34 支持 RAD11 资源下载"
+title: "TeeChart Pro 202234 支持 RAD11 资源下载"
 date:   2022-09-13
 tags: [RAD11,TeeChart,Pro,2022.34,资源]
 comments: true

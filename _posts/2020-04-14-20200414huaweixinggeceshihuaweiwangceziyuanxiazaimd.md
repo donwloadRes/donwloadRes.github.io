@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为性格测试(华为网测) 资源下载"
+title: "华为性格测试华为网测 资源下载"
 date:   2020-05-31
 tags: [华为,测试,性格,资源,文件]
 comments: true

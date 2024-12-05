@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适用于Windows的msvcrtd.dll安装包"
+title: "适用于Windows的msvcrtddll安装包"
 date:   2024-06-12
 tags: [Windows,msvcrtd,dll,安装包,文件]
 comments: true

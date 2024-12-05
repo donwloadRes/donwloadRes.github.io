@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库ODBC驱动安装包（32位与64位Windows系统）"
+title: "MySQL数据库ODBC驱动安装包32位与64位Windows系统"
 date:   2020-11-20
 tags: [MySQL,ODBC,数据库,Windows,JDBC]
 comments: true

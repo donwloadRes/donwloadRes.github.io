@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-MAPSS航空发动机模拟数据集"
+title: "CMAPSS航空发动机模拟数据集"
 date:   2024-02-09
 tags: [数据,发动机,MAPSS,模拟,航空]
 comments: true

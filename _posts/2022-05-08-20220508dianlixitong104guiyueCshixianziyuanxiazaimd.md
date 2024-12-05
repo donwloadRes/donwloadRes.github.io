@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统104规约C#实现资源下载"
+title: "电力系统104规约C实现资源下载"
 date:   2021-05-25
 tags: [示例,104,C#,开发,UI]
 comments: true

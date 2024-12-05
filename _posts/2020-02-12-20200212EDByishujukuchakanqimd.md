@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDB - 易数据库查看器"
+title: "EDB  易数据库查看器"
 date:   2024-03-24
 tags: [EDB,数据库,易语言,文件,查看]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "湘源控规7.0 CAD2014 补丁下载"
+title: "湘源控规70 CAD2014 补丁下载"
 date:   2021-08-03
 tags: [补丁,湘源,控规,CAD2014,7.0]
 comments: true

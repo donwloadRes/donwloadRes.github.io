@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习》综合实验五资源文件介绍"
+title: "机器学习综合实验五资源文件介绍"
 date:   2020-05-30
 tags: [模型,实验,训练,文件,特征提取]
 comments: true

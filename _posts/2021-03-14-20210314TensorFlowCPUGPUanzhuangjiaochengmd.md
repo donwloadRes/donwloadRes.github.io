@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow CPU-GPU 安装教程"
+title: "TensorFlow CPUGPU 安装教程"
 date:   2020-04-25
 tags: [TensorFlow,安装,文件,源码,whl]
 comments: true

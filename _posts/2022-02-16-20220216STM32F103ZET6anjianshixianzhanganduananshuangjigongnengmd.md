@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103ZET6按键实现长按、短按、双击功能"
+title: "STM32F103ZET6按键实现长按短按双击功能"
 date:   2022-09-18
 tags: [按键,双击,短按,STM32F103ZET6,会亮]
 comments: true

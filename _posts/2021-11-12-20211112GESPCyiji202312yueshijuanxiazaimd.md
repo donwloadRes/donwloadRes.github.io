@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GESP C++ 一级2023 12月 试卷下载"
+title: "GESP C 一级2023 12月 试卷下载"
 date:   2020-03-06
 tags: [试卷,GESP,C++,2023,12]
 comments: true

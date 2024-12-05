@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TurboC 2.0 下载及使用方法"
+title: "TurboC 20 下载及使用方法"
 date:   2024-08-23
 tags: [方向键,TurboC,2.0,CSDN,下载]
 comments: true

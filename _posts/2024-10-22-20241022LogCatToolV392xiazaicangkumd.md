@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LogCatTool V3.9.2 下载仓库"
+title: "LogCatTool V392 下载仓库"
 date:   2021-09-02
 tags: [日志,LogCatTool,V3.9,ADB,工具]
 comments: true

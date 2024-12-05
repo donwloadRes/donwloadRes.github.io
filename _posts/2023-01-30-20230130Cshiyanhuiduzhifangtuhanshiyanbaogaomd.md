@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实验：灰度直方图含实验报告"
+title: "C实验灰度直方图含实验报告"
 date:   2024-09-12
 tags: [灰度,直方图,图像,实验报告,读取]
 comments: true

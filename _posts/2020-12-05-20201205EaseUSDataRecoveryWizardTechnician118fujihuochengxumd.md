@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EaseUS Data Recovery Wizard Technician 11.8 附激活程序"
+title: "EaseUS Data Recovery Wizard Technician 118 附激活程序"
 date:   2023-05-04
 tags: [Windows,软件,EaseUS,Data,Recovery]
 comments: true

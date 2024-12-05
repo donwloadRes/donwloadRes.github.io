@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国际系统工程学会-系统工程手册（V4.0）下载"
+title: "国际系统工程学会系统工程手册V40下载"
 date:   2023-05-21
 tags: [系统工程,手册,V4.0,下载,学会]
 comments: true

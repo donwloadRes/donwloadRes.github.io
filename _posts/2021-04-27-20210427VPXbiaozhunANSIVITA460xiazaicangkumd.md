@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX标准（ANSI_VITA_46.0）下载仓库"
+title: "VPX标准ANSIVITA460下载仓库"
 date:   2024-04-22
 tags: [VPX,ANSI,VITA,46.0,标准]
 comments: true

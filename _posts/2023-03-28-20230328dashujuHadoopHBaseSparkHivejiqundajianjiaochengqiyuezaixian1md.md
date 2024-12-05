@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据Hadoop+HBase+Spark+Hive集群搭建教程(七月在线)1"
+title: "大数据HadoopHBaseSparkHive集群搭建教程七月在线1"
 date:   2022-08-05
 tags: [教程,Hadoop,Spark,Hive,HBase]
 comments: true

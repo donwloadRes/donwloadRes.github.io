@@ -1,6 +1,37 @@
 ---
 layout: post
-title: "SAS安装后无法使用增强型编辑器问题解决方法"
+title: "SAS安装后无法使用增强型编辑器问题解决方法
+date   20240217
+tags SAS编辑器增强型EnhancedEditorocx
+comments true
+author admin
+
+ SAS安装后无法使用增强型编辑器问题解决方法
+
+ 简介
+本资源文件旨在帮助解决SAS安装后无法使用增强型编辑器的问题通过详细的步骤和必要的文件替换用户可以顺利恢复增强型编辑器的功能
+
+ 问题描述
+在重新安装SAS后用户可能会遇到增强型编辑器无法使用的情况打开时会报错提示OLE错误本文将提供详细的解决方法帮助用户恢复增强型编辑器的正常使用
+
+ 解决步骤
+
+ 第一步安装mscomctlocx
+1 下载mscomctlocx文件
+2 根据电脑系统选择32位或64位版本
+3 将文件拷贝到相应的系统目录32位CWindowssystem3264位CWindowsSysWOW64
+4 以管理员身份运行命令提示符输入相应的注册命令32位regsvr32 windirsystem32mscomctlocx64位regsvr32 windirSysWOW64mscomctlocx
+
+ 第二步替换EnhancedEditor文件夹
+1 在SAS安装目录下找到EnhancedEditor文件夹通常位于DProgram FilesSASHome
+2 使用本资源文件中的EnhancedEditor文件夹替换原有的文件夹
+
+ 第三步安装控件
+1 以管理员身份运行命令提示符
+2 依次输入以下两行代码
+   
+   CWindowsMicrosoftNETFramework64v2050727RegAsmexe codebase DProgram FilesSASHomeEnhancedEditorSASEnhancedEditordll
+   regsvr32 DProgram FilesSASHomeEnhancedEditorEditorControlocx"
 date:   2024-02-17
 tags: [SAS,编辑器,增强型,EnhancedEditor,ocx]
 comments: true

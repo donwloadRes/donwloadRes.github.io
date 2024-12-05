@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux远程连接工具SecureCRSecureFX_x64下载与使用指南"
+title: "Linux远程连接工具SecureCRSecureFXx64下载与使用指南"
 date:   2022-07-02
 tags: [连接,Linux,SecureCRSecureFX,x64,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#类库查询手册下载"
+title: "C类库查询手册下载"
 date:   2024-03-05
 tags: [C#,类库,手册,PDF,开发者]
 comments: true

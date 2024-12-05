@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件功能详细设计文档（示范）.doc"
+title: "软件功能详细设计文档示范doc"
 date:   2022-06-27
 tags: [文档,软件,设计,功能,项目]
 comments: true

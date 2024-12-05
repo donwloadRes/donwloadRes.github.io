@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT3 教程：倍福软件安装与使用指南"
+title: "TwinCAT3 教程倍福软件安装与使用指南"
 date:   2021-08-04
 tags: [TwinCAT3,软件,教程,使用,介绍]
 comments: true

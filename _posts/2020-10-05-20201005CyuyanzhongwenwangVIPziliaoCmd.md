@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言中文网VIP资料(C++)"
+title: "C语言中文网VIP资料C"
 date:   2024-11-04
 tags: [C++,编程,VIP,C语言,学习]
 comments: true

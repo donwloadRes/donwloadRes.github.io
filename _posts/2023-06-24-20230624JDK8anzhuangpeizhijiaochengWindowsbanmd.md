@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 8 安装配置教程（Windows版）"
+title: "JDK 8 安装配置教程Windows版"
 date:   2024-10-19
 tags: [JDK,安装,教程,配置,Windows]
 comments: true

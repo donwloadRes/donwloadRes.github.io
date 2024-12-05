@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 插件 Statistic 4.1.7 版本"
+title: "IDEA 插件 Statistic 417 版本"
 date:   2022-06-18
 tags: [插件,IDEA,Statistic,IntelliJ,代码]
 comments: true

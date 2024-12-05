@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能计算系统（AICS）书面作业资源下载"
+title: "智能计算系统AICS书面作业资源下载"
 date:   2020-11-07
 tags: [作业,智能,学习,深度,神经网络]
 comments: true

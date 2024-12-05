@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "尚硅谷大数据技术之ClickHouse入门V1.01"
+title: "尚硅谷大数据技术之ClickHouse入门V101"
 date:   2022-08-25
 tags: [ClickHouse,整型,数据类型,符号,存储]
 comments: true

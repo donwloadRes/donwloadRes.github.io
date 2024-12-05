@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制陈虹.pdf 下载仓库"
+title: "模型预测控制陈虹pdf 下载仓库"
 date:   2021-05-03
 tags: [陈虹,pdf,文件,模型,预测]
 comments: true

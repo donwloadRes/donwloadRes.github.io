@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "旅游网站网页设计资源"
+title: "旅游网站网页设计资源
+date   20201121
+tags 网页设计CSSHTML页面
+comments true
+author admin
+
+
+layout post
+title 旅游网站网页设计资源"
 date:   2020-11-21
 tags: [网页,设计,CSS,HTML,页面]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "旅游网站网页设计资源"
+title: "旅游网站网页设计资源
+date   20201121
+tags 网页设计CSSHTML页面
+comments true
+author admin
+
+
+layout post
+title 旅游网站网页设计资源"
 date:   2021-12-31
 tags: [网页,设计,CSS,页面,HTML]
 comments: true

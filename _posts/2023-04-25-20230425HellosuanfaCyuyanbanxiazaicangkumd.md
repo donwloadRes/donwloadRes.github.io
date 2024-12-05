@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello 算法 C++ 语言版 下载仓库"
+title: "Hello 算法 C 语言版 下载仓库"
 date:   2022-07-22
 tags: [C++,算法,Hello,数据结构,仓库]
 comments: true

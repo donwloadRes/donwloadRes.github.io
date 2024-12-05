@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL环境配置（超全整合版）"
+title: "OpenGL环境配置超全整合版"
 date:   2023-04-30
 tags: [OpenGL,文件夹,glad,配置,Visual]
 comments: true

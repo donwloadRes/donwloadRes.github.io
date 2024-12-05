@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "每天5分钟玩转OpenStack、Docker和Kubernetes资源下载"
+title: "每天5分钟玩转OpenStackDocker和Kubernetes资源下载"
 date:   2021-07-17
 tags: [Docker,OpenStack,Kubernetes,玩转,分钟]
 comments: true

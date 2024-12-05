@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜣螂优化算法（DBO）资源包"
+title: "蜣螂优化算法DBO资源包"
 date:   2024-04-21
 tags: [DBO,算法,测试函数,优化,蜣螂]
 comments: true

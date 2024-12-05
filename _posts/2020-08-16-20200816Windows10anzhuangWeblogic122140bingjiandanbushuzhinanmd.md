@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 安装 Weblogic 12.2.1.4.0 并简单部署指南"
+title: "Windows 10 安装 Weblogic 122140 并简单部署指南"
 date:   2022-08-18
 tags: [安装,Weblogic,1.4,12.2,JDK]
 comments: true

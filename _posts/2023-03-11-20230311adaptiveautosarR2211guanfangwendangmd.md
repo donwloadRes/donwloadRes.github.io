@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "adaptive autosar R22-11 官方文档"
+title: "adaptive autosar R2211 官方文档"
 date:   2023-03-08
 tags: [AUTOSAR,文档,适应,11,平台]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为认证高斯数据库HCIA-GaussDB资源下载"
+title: "华为认证高斯数据库HCIAGaussDB资源下载"
 date:   2020-03-22
 tags: [数据库,GaussDB,华为,SQL,HCIA]
 comments: true

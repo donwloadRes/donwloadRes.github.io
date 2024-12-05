@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XtraBackup 8.0 版本安装教程"
+title: "XtraBackup 80 版本安装教程"
 date:   2021-01-21
 tags: [安装,XtraBackup,Percona,备份,8.0]
 comments: true

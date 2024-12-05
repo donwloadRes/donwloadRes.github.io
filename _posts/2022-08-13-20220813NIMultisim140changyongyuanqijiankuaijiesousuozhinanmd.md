@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI Multisim 14.0常用元器件快捷搜索指南"
+title: "NI Multisim 140常用元器件快捷搜索指南"
 date:   2022-05-22
 tags: [元器件,NI,Multisim,14.0,文档]
 comments: true

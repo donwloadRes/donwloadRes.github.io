@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大智慧股票本地数据读取接口（含源码）"
+title: "大智慧股票本地数据读取接口含源码"
 date:   2021-09-05
 tags: [num,FxjData2FinData,dm,char,rq]
 comments: true

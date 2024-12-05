@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML302 OpenCPU使用说明V2.2.2"
+title: "ML302 OpenCPU使用说明V222"
 date:   2021-06-14
 tags: [OpenCPU,ML302,模组,示例,文档]
 comments: true

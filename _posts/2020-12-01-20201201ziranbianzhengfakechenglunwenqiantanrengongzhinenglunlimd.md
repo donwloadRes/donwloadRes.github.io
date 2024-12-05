@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然辩证法课程论文 - 浅谈人工智能伦理"
+title: "自然辩证法课程论文  浅谈人工智能伦理"
 date:   2022-01-25
 tags: [伦理,AI,自然辩证法,人工智能,课程]
 comments: true

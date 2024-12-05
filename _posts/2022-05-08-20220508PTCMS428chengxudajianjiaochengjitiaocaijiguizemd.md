@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTCMS4.2.8程序+搭建教程+几条采集规则"
+title: "PTCMS428程序搭建教程几条采集规则"
 date:   2020-06-24
 tags: [采集,PTCMS,规则,搭建,教程]
 comments: true

@@ -1,6 +1,23 @@
 ---
 layout: post
-title: "无HTTPS证书调用摄像头及精伦读卡器IDR210-1安装指南"
+title: "无HTTPS证书调用摄像头及精伦读卡器IDR2101安装指南
+date   20201004
+tags 精伦浏览器摄像头安装读卡器
+comments true
+author admin
+
+ 无HTTPS证书调用摄像头及精伦读卡器IDR2101安装指南
+
+本资源文件提供了如何在无HTTPS证书的情况下调用摄像头以及安装精伦读卡器IDR2101的详细步骤以下是具体内容
+
+ 1 调用摄像头
+
+ 11 安装360极速浏览器
+ 下载并安装360极速浏览器
+ 右击桌面上的360极速浏览器快捷方式选择属性
+ 在目标栏中光标定位到最后添加以下内容
+  
+  unsafelytreatinsecureoriginassecurehttp1921682112"
 date:   2020-10-04
 tags: [精伦,浏览器,摄像头,安装,读卡器]
 comments: true

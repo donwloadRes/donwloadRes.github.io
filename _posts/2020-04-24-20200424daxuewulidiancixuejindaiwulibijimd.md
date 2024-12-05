@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学物理电磁学+近代物理笔记"
+title: "大学物理电磁学近代物理笔记"
 date:   2021-03-06
 tags: [物理,大学物理,笔记,电磁学,学习]
 comments: true

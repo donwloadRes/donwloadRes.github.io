@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-J 8.0.29 驱动包下载"
+title: "MySQL ConnectorJ 8029 驱动包下载"
 date:   2023-10-25
 tags: [MySQL,29,java,8.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link V8仿真器驱动安装包及安装教程"
+title: "JLink V8仿真器驱动安装包及安装教程"
 date:   2024-03-06
 tags: [仿真器,Link,V8,教程,安装]
 comments: true

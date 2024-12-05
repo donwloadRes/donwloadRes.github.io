@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用IDM 6.42.3下载百度网盘文件的最新方法"
+title: "使用IDM 6423下载百度网盘文件的最新方法"
 date:   2021-05-13
 tags: [IDM,下载,百度网,6.42,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-Ways Forensics v20.0 SR-3 完整版下载"
+title: "XWays Forensics v200 SR3 完整版下载"
 date:   2020-02-04
 tags: [Ways,Forensics,SR,v20.0,x86]
 comments: true

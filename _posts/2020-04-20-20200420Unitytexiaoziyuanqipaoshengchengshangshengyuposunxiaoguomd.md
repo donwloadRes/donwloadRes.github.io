@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 特效资源：气泡生成、上升与破损效果"
+title: "Unity 特效资源气泡生成上升与破损效果"
 date:   2024-06-02
 tags: [气泡,特效,Unity,资源,效果]
 comments: true

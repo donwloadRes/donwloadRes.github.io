@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++并发编程实战中文PDF下载"
+title: "C并发编程实战中文PDF下载"
 date:   2024-10-13
 tags: [C++,PDF,并发,编程,std]
 comments: true

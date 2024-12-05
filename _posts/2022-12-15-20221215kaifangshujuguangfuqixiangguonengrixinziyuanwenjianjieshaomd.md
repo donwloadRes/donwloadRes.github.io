@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开放数据_光伏气象_国能日新 资源文件介绍"
+title: "开放数据光伏气象国能日新 资源文件介绍"
 date:   2023-02-02
 tags: [数据,训练,数据量,测试,光伏]
 comments: true

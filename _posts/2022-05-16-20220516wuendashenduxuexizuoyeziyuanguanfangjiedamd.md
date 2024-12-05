@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达深度学习作业资源：官方解答"
+title: "吴恩达深度学习作业资源官方解答"
 date:   2024-09-26
 tags: [代码,学习,吴恩达,作业,课程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶K3-Cloud云星空数据库表字典"
+title: "金蝶K3Cloud云星空数据库表字典"
 date:   2020-10-09
 tags: [K3,Cloud,金蝶,星空,数据库]
 comments: true

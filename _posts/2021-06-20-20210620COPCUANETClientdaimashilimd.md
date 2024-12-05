@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OPC UA .NET Client代码实例"
+title: "C OPC UA NET Client代码实例"
 date:   2023-04-08
 tags: [OPC,UA,NET,PLC,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MateBook X Pro 2019款 集显(MACHR-WX9) 工厂模式原装出厂Win10系统带F10智能还原"
+title: "MateBook X Pro 2019款 集显MACHRWX9 工厂模式原装出厂Win10系统带F10智能还原"
 date:   2021-09-19
 tags: [系统,F10,安装,出厂,MateBook]
 comments: true

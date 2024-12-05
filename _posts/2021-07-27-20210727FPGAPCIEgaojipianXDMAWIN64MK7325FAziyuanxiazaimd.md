@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA PCIE高级篇-XDMA WIN64 MK7325FA 资源下载"
+title: "FPGA PCIE高级篇XDMA WIN64 MK7325FA 资源下载"
 date:   2024-06-06
 tags: [PCIE,FPGA,XDMA,WIN64,文件]
 comments: true

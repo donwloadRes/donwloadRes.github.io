@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio C++-C 教程：四步安装Graphics图形库"
+title: "Visual Studio CC 教程四步安装Graphics图形库"
 date:   2020-02-22
 tags: [Visual,Studio,C++,Graphics,图形库]
 comments: true

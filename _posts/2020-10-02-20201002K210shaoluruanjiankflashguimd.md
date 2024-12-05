@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K210烧录软件kflash_gui"
+title: "K210烧录软件kflashgui"
 date:   2022-08-05
 tags: [烧录,K210,kflash,gui,固件]
 comments: true

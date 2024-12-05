@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner16.5安装教程资源文件介绍"
+title: "PowerDesigner165安装教程资源文件介绍"
 date:   2021-01-05
 tags: [文件,软件,安装,PowerDesigner16.5,汉化包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ControlCenter 3.17.42.0 - 锐捷版"
+title: "ControlCenter 317420  锐捷版"
 date:   2022-06-01
 tags: [Mechrevo,42.0,3.17,ControlCenter,锐捷]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "巴鲁夫IO-LINK资源手册"
+title: "巴鲁夫IOLINK资源手册"
 date:   2023-06-23
 tags: [IO,Link,本手册,手册,LINK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++参考手册中文版chm及Boost库中文版chm资源介绍"
+title: "C参考手册中文版chm及Boost库中文版chm资源介绍"
 date:   2024-07-14
 tags: [C++,Boost,中文版,chm,参考手册]
 comments: true

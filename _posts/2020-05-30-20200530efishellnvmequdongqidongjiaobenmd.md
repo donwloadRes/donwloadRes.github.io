@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "efishell+nvme驱动+启动脚本"
+title: "efishellnvme驱动启动脚本"
 date:   2020-03-16
 tags: [NVMe,启动,BIOS,脚本,加载]
 comments: true

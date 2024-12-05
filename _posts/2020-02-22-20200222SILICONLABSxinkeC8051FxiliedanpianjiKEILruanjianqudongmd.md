@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SILICON LABS (芯科) C8051F 系列单片机KEIL软件驱动"
+title: "SILICON LABS 芯科 C8051F 系列单片机KEIL软件驱动"
 date:   2024-09-18
 tags: [KEIL,驱动,单片机,C8051F,SILICON]
 comments: true

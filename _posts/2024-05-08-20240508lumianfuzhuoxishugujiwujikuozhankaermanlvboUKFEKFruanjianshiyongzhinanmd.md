@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "路面附着系数估计-无迹-扩展卡尔曼滤波（UKF-EKF）软件使用指南"
+title: "路面附着系数估计无迹扩展卡尔曼滤波UKFEKF软件使用指南"
 date:   2021-05-28
 tags: [路面,Simulink,估计,卡尔曼滤波,附着]
 comments: true

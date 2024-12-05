@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 编小游戏资源下载"
+title: "DevC 编小游戏资源下载"
 date:   2024-07-25
 tags: [C++,Dev,游戏,下载,发送]
 comments: true

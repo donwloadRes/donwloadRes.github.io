@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微PE安装Win10、Win11资源文件介绍"
+title: "微PE安装Win10Win11资源文件介绍"
 date:   2020-07-17
 tags: [PE,Windows,U盘,安装,工具箱]
 comments: true

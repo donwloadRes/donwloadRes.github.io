@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高程点批量垂直移动到多个断面线插件（CAD-CASS增强版）"
+title: "高程点批量垂直移动到多个断面线插件CADCASS增强版"
 date:   2020-07-08
 tags: [插件,高程,移动,阈值,批量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "System Design 面试指南（第二版）PDF 下载"
+title: "System Design 面试指南第二版PDF 下载"
 date:   2023-01-15
 tags: [面试,PDF,设计,系统,下载]
 comments: true

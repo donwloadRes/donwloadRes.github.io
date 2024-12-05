@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "Qt下AES-128 CBC模式加密解密实现"
+title: "Qt下AES128 CBC模式加密解密实现
+date   20210808
+tags 解密加密AES128Qt
+comments true
+author admin
+
+ Qt下AES128 CBC模式加密解密实现
+
+ 简介
+
+本仓库提供了一个在Qt环境下实现的AES128 CBC模式加密解密资源文件该资源文件包含了完整的代码实现帮助开发者快速理解和使用AES128 CBC模式进行数据加密和解密
+
+ 功能特点
+
+ AES128 CBC模式支持AES128加密算法使用CBCCipher Block Chaining模式进行加密和解密
+ Qt实现代码完全基于Qt框架编写方便Qt开发者集成和使用
+ 易于使用提供了简洁的API接口开发者可以轻松调用加密和解密功能
+
+ 使用说明
+
+1 下载资源文件从本仓库下载包含AES128 CBC模式加密解密实现的资源文件
+2 集成到项目将下载的资源文件集成到你的Qt项目中
+3 调用API根据提供的API文档调用加密和解密函数进行数据处理
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用本资源文件中的加密解密功能
+
+cpp
+include aes128cbch"
 date:   2021-08-08
 tags: [解密,加密,AES,128,Qt]
 comments: true

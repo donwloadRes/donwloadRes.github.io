@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韩顺平 Java工程师课程-SpringBoot.pdf 下载仓库"
+title: "韩顺平 Java工程师课程SpringBootpdf 下载仓库"
 date:   2021-06-10
 tags: [SpringBoot,Java,顺平,pdf,工程师]
 comments: true

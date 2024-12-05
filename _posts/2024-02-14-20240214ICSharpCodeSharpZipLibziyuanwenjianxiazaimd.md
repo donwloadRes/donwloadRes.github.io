@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICSharpCode.SharpZipLib 资源文件下载"
+title: "ICSharpCodeSharpZipLib 资源文件下载"
 date:   2020-05-08
 tags: [ICSharpCode,SharpZipLib,下载,文件,0.86]
 comments: true

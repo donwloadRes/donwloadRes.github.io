@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小波特征分解（Python语言实现）"
+title: "小波特征分解Python语言实现"
 date:   2021-01-21
 tags: [Python,分解,示例,小波,特征]
 comments: true

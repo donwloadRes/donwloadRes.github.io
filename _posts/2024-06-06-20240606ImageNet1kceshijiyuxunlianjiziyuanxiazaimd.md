@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ImageNet-1k 测试集与训练集资源下载"
+title: "ImageNet1k 测试集与训练集资源下载"
 date:   2024-05-10
 tags: [ImageNet,1k,训练,数据,下载]
 comments: true

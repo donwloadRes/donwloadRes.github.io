@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue2 实现可拖拽甘特图（基于Element-UI的Gantt图）"
+title: "Vue2 实现可拖拽甘特图基于ElementUI的Gantt图"
 date:   2021-07-07
 tags: [Element,UI,甘特图,拖拽,任务]
 comments: true

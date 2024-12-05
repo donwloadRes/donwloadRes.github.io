@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为ICT大赛2023-2024云赛道大纲下载"
+title: "华为ICT大赛20232024云赛道大纲下载"
 date:   2020-12-16
 tags: [赛道,ICT,2023,2024,华为]
 comments: true

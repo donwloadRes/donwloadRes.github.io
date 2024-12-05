@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机课程设计：基于AT89C51和LCD-12864的贪吃蛇游戏"
+title: "单片机课程设计基于AT89C51和LCD12864的贪吃蛇游戏"
 date:   2021-10-09
 tags: [LCD,单片机,游戏,AT89C51,贪吃蛇]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视网口工业线阵相机用户手册V2.0.2.pdf"
+title: "海康威视网口工业线阵相机用户手册V202pdf"
 date:   2022-01-07
 tags: [相机,线阵,海康,手册,视网]
 comments: true

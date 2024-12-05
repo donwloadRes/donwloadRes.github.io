@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DW9714_spec_v0.4.pdf - 10位分辨率VCM驱动IC规格书"
+title: "DW9714specv04pdf  10位分辨率VCM驱动IC规格书"
 date:   2021-08-08
 tags: [IC,DW9714,驱动,spec,pdf]
 comments: true

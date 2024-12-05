@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIA博途软件与S7-1200-1500 PLC应用详解"
+title: "TIA博途软件与S712001500 PLC应用详解"
 date:   2021-01-05
 tags: [PLC,S7,TIA,博途,1200]
 comments: true

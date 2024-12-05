@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能OCR文字识别程序(VB源代码)"
+title: "人工智能OCR文字识别程序VB源代码"
 date:   2022-04-20
 tags: [OCR,源代码,人工智能,识别,VB]
 comments: true

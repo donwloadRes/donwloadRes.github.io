@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌插件-axhub-可快速复制图标到Axure中使用"
+title: "谷歌插件axhub可快速复制图标到Axure中使用"
 date:   2023-06-22
 tags: [图标,插件,Axure,复制,axhub]
 comments: true

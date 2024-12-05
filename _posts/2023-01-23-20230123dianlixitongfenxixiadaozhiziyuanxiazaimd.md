@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统分析（夏道止）资源下载"
+title: "电力系统分析夏道止资源下载"
 date:   2023-10-16
 tags: [系统分析,电力,教材,夏道止,下载]
 comments: true

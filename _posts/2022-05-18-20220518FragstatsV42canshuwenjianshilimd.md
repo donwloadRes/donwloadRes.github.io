@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fragstats V4.2 参数文件示例"
+title: "Fragstats V42 参数文件示例"
 date:   2020-02-29
 tags: [Fragstats,示例,文件,参数,V4.2]
 comments: true

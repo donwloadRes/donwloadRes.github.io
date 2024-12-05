@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More Effective C++ 侯捷 PDF 下载"
+title: "More Effective C 侯捷 PDF 下载"
 date:   2020-02-26
 tags: [C++,PDF,侯捷,下载,More]
 comments: true

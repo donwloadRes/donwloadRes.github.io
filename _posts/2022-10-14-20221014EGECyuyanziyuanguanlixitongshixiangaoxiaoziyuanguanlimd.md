@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EGE C 语言 资源 管理系统：实现高效 资源 管理"
+title: "EGE C 语言 资源 管理系统实现高效 资源 管理"
 date:   2024-04-29
 tags: [资源,用户,系统,鼠标,EGE]
 comments: true

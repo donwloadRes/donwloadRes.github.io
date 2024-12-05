@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中南大学毕业设计（论文）LaTeX模板"
+title: "中南大学毕业设计论文LaTeX模板"
 date:   2024-08-05
 tags: [模板,LaTeX,中南大学,毕业设计,论文]
 comments: true

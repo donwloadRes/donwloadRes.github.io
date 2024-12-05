@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXI6.7.0 至 7.0U3f 升级指南 (2022年7月更新)"
+title: "ESXI670 至 70U3f 升级指南 2022年7月更新"
 date:   2022-10-30
 tags: [升级,ESXi,7.0,U3f,SSH]
 comments: true

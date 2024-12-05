@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDM-625 调制解调器中文版说明书下载"
+title: "CDM625 调制解调器中文版说明书下载"
 date:   2020-04-04
 tags: [625,调制解调器,说明书,CDM,中文版]
 comments: true

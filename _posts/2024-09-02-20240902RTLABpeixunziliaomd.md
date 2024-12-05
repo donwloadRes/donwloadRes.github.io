@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-LAB培训资料"
+title: "RTLAB培训资料"
 date:   2024-01-21
 tags: [RT,LAB,仿真,培训资料,实时]
 comments: true

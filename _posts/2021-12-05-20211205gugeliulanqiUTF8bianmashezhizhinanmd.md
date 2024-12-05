@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器UTF-8编码设置指南"
+title: "谷歌浏览器UTF8编码设置指南"
 date:   2020-01-13
 tags: [插件,浏览器,编码,谷歌,UTF]
 comments: true

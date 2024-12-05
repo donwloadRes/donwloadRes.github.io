@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复旦微电子PSOC资料-FMQL10S400"
+title: "复旦微电子PSOC资料FMQL10S400"
 date:   2023-06-23
 tags: [FMQL10S400,芯片,开发者,资料,手册]
 comments: true

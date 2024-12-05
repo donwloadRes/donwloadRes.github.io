@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偏微分方程简明教程（ZJU）PDF资源"
+title: "偏微分方程简明教程ZJUPDF资源"
 date:   2023-10-15
 tags: [微分方程,方程,教程,PDF,Cauchy]
 comments: true

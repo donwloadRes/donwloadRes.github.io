@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生成对抗网络GAN（Generative Adversarial Networks）63页PPT资源下载"
+title: "生成对抗网络GANGenerative Adversarial Networks63页PPT资源下载"
 date:   2020-11-21
 tags: [GAN,PPT,学习,资源,文件]
 comments: true

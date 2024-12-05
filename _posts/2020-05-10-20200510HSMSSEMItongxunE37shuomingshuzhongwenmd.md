@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HSMS-SEMI通讯E37说明书中文"
+title: "HSMSSEMI通讯E37说明书中文"
 date:   2024-09-05
 tags: [E37,HSMS,SEMI,翻译,说明书]
 comments: true

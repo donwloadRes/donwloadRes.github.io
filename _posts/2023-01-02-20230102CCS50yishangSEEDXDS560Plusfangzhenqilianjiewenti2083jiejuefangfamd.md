@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS5.0以上SEED XDS560Plus仿真器连接问题（-2083）解决方法"
+title: "CCS50以上SEED XDS560Plus仿真器连接问题2083解决方法"
 date:   2021-12-03
 tags: [仿真器,CCS5.0,SEED,XDS560Plus,2083]
 comments: true

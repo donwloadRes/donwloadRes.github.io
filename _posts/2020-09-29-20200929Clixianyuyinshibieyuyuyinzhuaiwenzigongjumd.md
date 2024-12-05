@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 离线语音识别与语音转文字工具"
+title: "C 离线语音识别与语音转文字工具"
 date:   2022-10-15
 tags: [识别,语音,离线,工具,C#]
 comments: true

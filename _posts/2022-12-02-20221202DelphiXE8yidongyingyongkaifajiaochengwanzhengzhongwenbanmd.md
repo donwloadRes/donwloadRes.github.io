@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE8移动应用开发教程[完整中文版]"
+title: "Delphi XE8移动应用开发教程完整中文版"
 date:   2020-08-13
 tags: [教程,Delphi,XE8,开发,移动]
 comments: true

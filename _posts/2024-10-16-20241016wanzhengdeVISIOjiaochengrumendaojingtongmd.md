@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整的VISIO教程-入门到精通"
+title: "完整的VISIO教程入门到精通"
 date:   2020-05-19
 tags: [教程,Visio,VISIO,入门,精通]
 comments: true

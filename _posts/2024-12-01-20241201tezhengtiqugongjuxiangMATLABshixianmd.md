@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "特征提取工具箱 - MATLAB实现"
+title: "特征提取工具箱  MATLAB实现"
 date:   2023-07-28
 tags: [MATLAB,特征,峭度,信号,频率]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础_哈尔滨工业大学配套课件PPT"
+title: "数字电子技术基础哈尔滨工业大学配套课件PPT"
 date:   2024-04-27
 tags: [课件,PPT,课程,数字,电子]
 comments: true

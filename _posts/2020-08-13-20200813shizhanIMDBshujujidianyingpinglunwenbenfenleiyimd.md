@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战IMDB数据集电影评论文本分类（一）"
+title: "实战IMDB数据集电影评论文本分类一"
 date:   2022-05-04
 tags: [评论,data,加载,数据,IMDB]
 comments: true

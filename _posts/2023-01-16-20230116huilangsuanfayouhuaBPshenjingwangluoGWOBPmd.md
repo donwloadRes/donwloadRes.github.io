@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "灰狼算法优化BP神经网络（GWO-BP）"
+title: "灰狼算法优化BP神经网络GWOBP"
 date:   2023-01-28
 tags: [BP,算法,神经网络,GWO,灰狼]
 comments: true

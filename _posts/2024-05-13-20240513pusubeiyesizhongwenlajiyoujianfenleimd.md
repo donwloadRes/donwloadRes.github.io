@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【朴素贝叶斯】中文垃圾邮件分类"
+title: "朴素贝叶斯中文垃圾邮件分类"
 date:   2020-08-09
 tags: [垃圾邮件,贝叶斯,朴素,特征向量,训练]
 comments: true

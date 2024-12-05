@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前后端入门：用IDEA运行一个前后端Web项目（开源源码＋配置教程）"
+title: "前后端入门用IDEA运行一个前后端Web项目开源源码配置教程"
 date:   2023-03-17
 tags: [IDEA,前后,项目,Web,源码]
 comments: true

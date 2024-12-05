@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.8 库文件集合"
+title: "Python38 库文件集合"
 date:   2022-09-01
 tags: [Python,pip,文件,3.8,安装]
 comments: true

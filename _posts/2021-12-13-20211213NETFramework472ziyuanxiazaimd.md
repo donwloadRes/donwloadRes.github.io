@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.7.2 资源下载"
+title: "NET Framework 472 资源下载"
 date:   2024-02-21
 tags: [NET,Framework,4.7,Windows,安装包]
 comments: true

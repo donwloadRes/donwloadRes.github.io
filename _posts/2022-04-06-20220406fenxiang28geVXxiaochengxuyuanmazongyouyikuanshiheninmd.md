@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享28个VX小程序源码，总有一款适合您"
+title: "分享28个VX小程序源码总有一款适合您"
 date:   2024-11-21
 tags: [源码,微信,28,程序,在线]
 comments: true

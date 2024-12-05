@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTAG 标准 IEEE STD 1149.1-2013 (高清，非扫描版，带 TOC )"
+title: "JTAG 标准 IEEE STD 114912013 高清非扫描版带 TOC "
 date:   2022-12-08
 tags: [测试,JTAG,IEEE,2013,扫描]
 comments: true

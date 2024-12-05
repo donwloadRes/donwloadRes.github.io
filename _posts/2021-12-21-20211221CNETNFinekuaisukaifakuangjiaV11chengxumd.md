@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#.NET NFine快速开发框架_V1.1 程序"
+title: "CNET NFine快速开发框架V11 程序"
 date:   2023-01-22
 tags: [NFine,开发,框架,开发者,快速]
 comments: true

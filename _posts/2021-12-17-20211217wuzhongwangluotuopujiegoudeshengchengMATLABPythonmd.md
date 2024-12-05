@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "五种网络拓扑结构的生成（MATLAB+Python）"
+title: "五种网络拓扑结构的生成MATLABPython"
 date:   2024-04-15
 tags: [网络拓扑,Python,结构,拓扑,节点]
 comments: true

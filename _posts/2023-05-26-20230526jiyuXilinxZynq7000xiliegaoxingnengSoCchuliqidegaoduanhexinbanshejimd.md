@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Xilinx Zynq-7000系列高性能SoC处理器的高端核心板设计"
+title: "基于Xilinx Zynq7000系列高性能SoC处理器的高端核心板设计"
 date:   2022-04-03
 tags: [SoC,处理器,7000,高性能,设计]
 comments: true

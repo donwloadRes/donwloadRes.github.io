@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt--QML中文手册"
+title: "QtQML中文手册"
 date:   2022-11-10
 tags: [QML,手册,开发者,中文,Qt]
 comments: true

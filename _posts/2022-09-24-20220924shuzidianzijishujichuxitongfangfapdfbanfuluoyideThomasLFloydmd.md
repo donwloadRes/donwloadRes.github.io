@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础·系统方法--pdf版 弗洛伊德 (Thomas L.Floyd)"
+title: "数字电子技术基础系统方法pdf版 弗洛伊德 Thomas LFloyd"
 date:   2023-08-17
 tags: [数字,电子,技术,Floyd,数据传输]
 comments: true

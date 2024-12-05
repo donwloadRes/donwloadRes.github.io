@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python视觉实战项目31讲.pdf 介绍"
+title: "Python视觉实战项目31讲pdf 介绍"
 date:   2023-11-05
 tags: [视觉,OpenCV,Python,31,实战]
 comments: true

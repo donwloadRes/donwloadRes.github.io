@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-CASS批量提取三维多段线坐标和高程插件"
+title: "CADCASS批量提取三维多段线坐标和高程插件"
 date:   2024-01-20
 tags: [插件,提取,CAD,多段,三维]
 comments: true

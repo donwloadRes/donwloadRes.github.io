@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理（第4版）[Rafael C. Gonzalez]"
+title: "数字图像处理第4版Rafael C Gonzalez"
 date:   2021-09-09
 tags: [数字图像处理,Gonzalez,Rafael,PDF,学习]
 comments: true

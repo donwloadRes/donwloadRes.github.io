@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XMind 8 Update 9 安装教程（亲测有效）"
+title: "XMind 8 Update 9 安装教程亲测有效"
 date:   2022-02-16
 tags: [XMind,Update,安装,教程,激活]
 comments: true

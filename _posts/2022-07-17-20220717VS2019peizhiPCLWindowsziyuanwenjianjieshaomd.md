@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019配置PCL（Windows）资源文件介绍"
+title: "VS2019配置PCLWindows资源文件介绍"
 date:   2021-06-12
 tags: [PCL,pcl,VS2019,1.10,cloud]
 comments: true

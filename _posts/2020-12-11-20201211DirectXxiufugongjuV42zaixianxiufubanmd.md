@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具V4.2在线修复版"
+title: "DirectX修复工具V42在线修复版"
 date:   2024-11-03
 tags: [DirectX,修复,Windows,程序,工具]
 comments: true

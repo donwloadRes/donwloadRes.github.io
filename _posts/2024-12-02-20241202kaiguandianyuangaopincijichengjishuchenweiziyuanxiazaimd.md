@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源高频磁集成技术（陈为）资源下载"
+title: "开关电源高频磁集成技术陈为资源下载"
 date:   2023-07-21
 tags: [开关电源,高频,陈为,集成,技术]
 comments: true

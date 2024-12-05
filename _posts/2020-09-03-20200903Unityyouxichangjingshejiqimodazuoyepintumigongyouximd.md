@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity游戏场景设计期末大作业：拼图、迷宫游戏"
+title: "Unity游戏场景设计期末大作业拼图迷宫游戏"
 date:   2021-01-02
 tags: [游戏,Unity,迷宫,期末,拼图游戏]
 comments: true

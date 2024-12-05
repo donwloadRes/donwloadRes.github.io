@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙安全继电器EPLAN宏 - EDZ文件"
+title: "欧姆龙安全继电器EPLAN宏  EDZ文件"
 date:   2024-03-27
 tags: [EPLAN,欧姆龙,继电器,设计,安全]
 comments: true

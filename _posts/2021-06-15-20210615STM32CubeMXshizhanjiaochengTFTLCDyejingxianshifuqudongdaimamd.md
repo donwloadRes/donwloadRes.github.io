@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX实战教程：TFT_LCD液晶显示（附驱动代码）"
+title: "STM32CubeMX实战教程TFTLCD液晶显示附驱动代码"
 date:   2020-10-01
 tags: [LCD,TFT,驱动,教程,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA图像处理功能仿真：Modelsim与Matlab联合应用"
+title: "FPGA图像处理功能仿真Modelsim与Matlab联合应用"
 date:   2024-06-27
 tags: [FPGA,图像处理,MATLAB,仿真,ModelSim]
 comments: true

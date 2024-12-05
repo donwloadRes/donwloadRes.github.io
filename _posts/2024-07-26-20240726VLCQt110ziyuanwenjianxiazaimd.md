@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VLC-Qt 1.1.0 资源文件下载"
+title: "VLCQt 110 资源文件下载"
 date:   2024-04-23
 tags: [Qt,VLC,文件,1.1,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IR-MLX90640-V4.0 英文版 MLX90640热成像软件 热力图软件"
+title: "IRMLX90640V40 英文版 MLX90640热成像软件 热力图软件"
 date:   2024-05-15
 tags: [MLX90640,软件,成像,力图,IR]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达信号处理基础（第二版）资源下载"
+title: "雷达信号处理基础第二版资源下载"
 date:   2022-06-30
 tags: [雷达,信号处理,下载,文件大小,第二]
 comments: true

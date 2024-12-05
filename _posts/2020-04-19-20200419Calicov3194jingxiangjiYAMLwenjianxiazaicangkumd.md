@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calico v3.19.4 镜像及 YAML 文件下载仓库"
+title: "Calico v3194 镜像及 YAML 文件下载仓库"
 date:   2023-08-07
 tags: [镜像,tar,Calico,YAML,docker]
 comments: true

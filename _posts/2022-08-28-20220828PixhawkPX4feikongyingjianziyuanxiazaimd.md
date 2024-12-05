@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pixhawk-PX4 飞控硬件资源下载"
+title: "PixhawkPX4 飞控硬件资源下载"
 date:   2022-08-18
 tags: [飞控,PCB,Pixhawk,PX4,SCH]
 comments: true

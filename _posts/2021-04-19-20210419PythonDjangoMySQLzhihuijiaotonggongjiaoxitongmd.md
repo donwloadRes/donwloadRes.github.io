@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Django+MySQL智慧交通公交系统"
+title: "PythonDjangoMySQL智慧交通公交系统"
 date:   2023-03-14
 tags: [公交系统,Python,Django,MySQL,智慧]
 comments: true

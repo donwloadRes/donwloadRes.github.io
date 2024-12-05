@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计实验A - 实验二：基于FPGA的分频器设计"
+title: "数字电路与逻辑设计实验A  实验二基于FPGA的分频器设计"
 date:   2024-03-17
 tags: [FPGA,分频,分频器,设计,1KHz]
 comments: true

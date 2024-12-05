@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码实现：多能微网在含P2G与碳捕集技术下的低碳经济调度"
+title: "MATLAB代码实现多能微网在含P2G与碳捕集技术下的低碳经济调度"
 date:   2022-02-27
 tags: [MATLAB,捕集,调度,代码,微网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO协议4.0 资源文件下载"
+title: "SDIO协议40 资源文件下载"
 date:   2021-08-07
 tags: [SDIO,4.0,协议,通信,文件]
 comments: true

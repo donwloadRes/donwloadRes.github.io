@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python整理凯斯西储大学（CWRU）轴承数据，制作数据集"
+title: "利用Python整理凯斯西储大学CWRU轴承数据制作数据集"
 date:   2021-01-14
 tags: [数据,Python,西储,凯斯,轴承]
 comments: true

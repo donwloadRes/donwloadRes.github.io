@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 与西门子1200PLC通信实战教程 - 利用S7.NET库"
+title: "C 与西门子1200PLC通信实战教程  利用S7NET库"
 date:   2020-10-07
 tags: [PLC,S7,NET,C#,西门子]
 comments: true

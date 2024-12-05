@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEW MOVIDRIVE MDX61B调试步骤(binary setpoint)资源介绍"
+title: "SEW MOVIDRIVE MDX61B调试步骤binary setpoint资源介绍"
 date:   2022-05-06
 tags: [调试,变频器,MDX61B,SEW,MOVIDRIVE]
 comments: true

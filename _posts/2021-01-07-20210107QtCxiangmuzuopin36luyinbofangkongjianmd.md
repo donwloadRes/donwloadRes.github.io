@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品36 - 录音播放控件"
+title: "QtC项目作品36  录音播放控件"
 date:   2020-06-21
 tags: [音频,录音,播放,频谱,控件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于NORAD的SGP4和SDP4轨道预报C++源程序"
+title: "基于NORAD的SGP4和SDP4轨道预报C源程序"
 date:   2023-03-04
 tags: [预报,轨道,SGP4,SDP4,C++]
 comments: true

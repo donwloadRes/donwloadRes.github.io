@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马点评项目-短信登录功能"
+title: "黑马点评项目短信登录功能"
 date:   2023-01-28
 tags: [Nginx,登录,验证码,短信,项目]
 comments: true

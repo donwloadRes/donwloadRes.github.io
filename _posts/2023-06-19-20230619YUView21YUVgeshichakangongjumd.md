@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YUView 2.1 - YUV格式查看工具"
+title: "YUView 21  YUV格式查看工具"
 date:   2020-01-04
 tags: [YUV,格式,查看,YUView,2.1]
 comments: true

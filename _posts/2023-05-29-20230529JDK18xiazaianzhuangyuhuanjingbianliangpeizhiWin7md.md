@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载安装与环境变量配置（Win7）"
+title: "JDK 18 下载安装与环境变量配置Win7"
 date:   2021-03-03
 tags: [JDK,点击,安装,Java,镜像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB查找矩阵最大（小）值及所在位置"
+title: "MATLAB查找矩阵最大小值及所在位置"
 date:   2024-05-16
 tags: [脚本,矩阵,查找,最小值,最大值]
 comments: true

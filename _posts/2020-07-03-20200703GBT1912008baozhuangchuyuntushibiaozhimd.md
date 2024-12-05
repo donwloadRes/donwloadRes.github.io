@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 191-2008 包装储运图示标志"
+title: "GBT 1912008 包装储运图示标志"
 date:   2020-11-04
 tags: [图示,储运,包装,GB,2008]
 comments: true

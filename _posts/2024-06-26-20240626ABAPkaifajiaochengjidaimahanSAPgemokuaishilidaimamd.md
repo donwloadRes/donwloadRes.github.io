@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAP开发教程及代码（含SAP各模块实例代码）"
+title: "ABAP开发教程及代码含SAP各模块实例代码"
 date:   2024-11-03
 tags: [ABAP,代码,开发,实例,教程]
 comments: true

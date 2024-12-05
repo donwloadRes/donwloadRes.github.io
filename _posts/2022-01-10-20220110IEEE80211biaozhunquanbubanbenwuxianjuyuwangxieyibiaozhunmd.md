@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11标准全部版本(无线局域网协议标准)"
+title: "IEEE 80211标准全部版本无线局域网协议标准"
 date:   2021-11-10
 tags: [IEEE,802.11,版本,标准,局域网]
 comments: true

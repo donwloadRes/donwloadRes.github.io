@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD-Link 编程器 V3.0.0.5950 资源下载"
+title: "GDLink 编程器 V3005950 资源下载"
 date:   2020-06-16
 tags: [烧录,脱机,GD,Link,编程]
 comments: true

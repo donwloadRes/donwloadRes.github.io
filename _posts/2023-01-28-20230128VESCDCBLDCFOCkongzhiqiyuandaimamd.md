@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESC DC_BLDC_FOC控制器源代码"
+title: "VESC DCBLDCFOC控制器源代码"
 date:   2022-02-05
 tags: [源代码,电机,VESC,FOC,BLDC]
 comments: true

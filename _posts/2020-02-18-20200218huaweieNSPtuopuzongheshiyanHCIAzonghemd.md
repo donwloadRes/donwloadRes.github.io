@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为eNSP拓扑综合实验-HCIA综合"
+title: "华为eNSP拓扑综合实验HCIA综合"
 date:   2022-12-18
 tags: [实验,eNSP,华为,配置,文件]
 comments: true

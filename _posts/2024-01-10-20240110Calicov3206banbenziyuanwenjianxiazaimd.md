@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calico v3.20.6 版本资源文件下载"
+title: "Calico v3206 版本资源文件下载"
 date:   2022-10-19
 tags: [Calico,v3.20,calico,文件,版本]
 comments: true

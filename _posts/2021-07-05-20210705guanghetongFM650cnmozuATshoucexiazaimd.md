@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广和通FM650-cn 模组AT手册下载"
+title: "广和通FM650cn 模组AT手册下载"
 date:   2024-03-15
 tags: [cn,手册,FM650,模组,广和通]
 comments: true

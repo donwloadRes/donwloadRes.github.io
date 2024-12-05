@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写Modbus TCP客户端程序"
+title: "C编写Modbus TCP客户端程序"
 date:   2023-08-30
 tags: [Modbus,C#,TCP,客户端程序,NET]
 comments: true

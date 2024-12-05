@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的0.96寸OLED显示屏显示汉字+数字"
+title: "基于STM32的096寸OLED显示屏显示汉字数字"
 date:   2023-08-11
 tags: [OLED,STM32,屏幕,汉字,代码]
 comments: true

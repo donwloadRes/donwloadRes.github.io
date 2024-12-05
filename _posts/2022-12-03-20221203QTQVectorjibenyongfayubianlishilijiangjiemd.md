@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT, QVector 基本用法与遍历实例讲解"
+title: "QT QVector 基本用法与遍历实例讲解"
 date:   2022-03-27
 tags: [QVector,QT,遍历,讲解,实例]
 comments: true

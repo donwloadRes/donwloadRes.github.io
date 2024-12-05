@@ -1,6 +1,34 @@
 ---
 layout: post
-title: "Win10本地安装深度学习框架Pytorch（CPU版），超简单只需三步！！！"
+title: "Win10本地安装深度学习框架PytorchCPU版超简单只需三步
+date   20230112
+tags whlPytorch安装cp38文件
+comments true
+author admin
+
+ Win10本地安装深度学习框架PytorchCPU版超简单只需三步
+
+ 简介
+本资源文件提供了一个详细的指南帮助你在Windows 10系统上本地安装深度学习框架Pytorch的CPU版本整个过程仅需三步操作简单适合初学者
+
+ 安装步骤
+
+ 第一步检查支持的whl文件类型
+在命令提示符cmd中输入以下代码查看你的电脑支持的whl文件类型
+
+python m pip debug verbose
+
+运行后你会看到支持的whl文件类型请务必记录下这些信息以便后续下载正确的whl文件
+
+ 第二步下载相应的whl文件
+根据第一步中查看到的支持的whl文件类型下载对应的Pytorch whl文件如果你使用的是Python 38版本可以直接从提供的百度网盘地址提取相应文件如果是其他版本的Python请访问官方网站下载对应版本的whl文件
+
+ 第三步安装Pytorch
+1 以管理员身份打开命令提示符并进入whl文件所在的目录
+2 输入以下两行代码进行安装
+   
+   pip install torch180cpucp38cp38winamd64whl
+   pip install torchvision090cpucp38cp38winamd64whl"
 date:   2023-01-12
 tags: [whl,Pytorch,安装,cp38,文件]
 comments: true

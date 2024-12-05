@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多国文字点阵字库生成器 V3.8 下载仓库"
+title: "多国文字点阵字库生成器 V38 下载仓库"
 date:   2023-05-17
 tags: [点阵字库,生成器,V3.8,注册机,文字]
 comments: true

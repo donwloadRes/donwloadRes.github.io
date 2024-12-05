@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Panasonic压力传感器DP-100资源下载"
+title: "Panasonic压力传感器DP100资源下载"
 date:   2020-11-21
 tags: [Panasonic,DP,100,传感器,文件]
 comments: true

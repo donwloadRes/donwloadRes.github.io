@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应滤波器原理(中文第四版) 资源下载"
+title: "自适应滤波器原理中文第四版 资源下载"
 date:   2021-08-09
 tags: [滤波器,适应,原理,第四版,文件]
 comments: true

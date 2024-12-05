@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN图片分类(Pytorch)资源文件介绍"
+title: "CNN图片分类Pytorch资源文件介绍"
 date:   2021-02-25
 tags: [CNN,Pytorch,训练,图片,模型]
 comments: true

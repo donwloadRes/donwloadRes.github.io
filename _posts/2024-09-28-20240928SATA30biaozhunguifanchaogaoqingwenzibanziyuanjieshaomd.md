@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SATA 3.0标准规范 - 超高清文字版资源介绍"
+title: "SATA 30标准规范  超高清文字版资源介绍"
 date:   2023-12-16
 tags: [SATA,3.0,文档,资源,标准规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用STM32初探边界扫描（Boundary Scan）资源下载"
+title: "使用STM32初探边界扫描Boundary Scan资源下载"
 date:   2021-02-26
 tags: [STM32,JTAG,扫描,PDF,边界]
 comments: true

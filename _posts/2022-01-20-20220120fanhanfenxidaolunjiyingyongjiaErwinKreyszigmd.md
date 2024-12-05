@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛函分析导论及应用 - [加]Erwin Kreyszig"
+title: "泛函分析导论及应用  加Erwin Kreyszig"
 date:   2023-09-16
 tags: [泛函,分析,应用,导论,空间]
 comments: true

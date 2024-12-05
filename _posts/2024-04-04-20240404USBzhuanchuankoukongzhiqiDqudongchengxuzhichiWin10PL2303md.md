@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转串口控制器D驱动程序（支持Win10 - PL2303）"
+title: "USB转串口控制器D驱动程序支持Win10  PL2303"
 date:   2023-12-13
 tags: [串口,USB,安装,驱动,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纠错码 - 原理与方法 资源下载"
+title: "纠错码  原理与方法 资源下载"
 date:   2021-01-11
 tags: [纠错码,资源,文件,下载,原理]
 comments: true

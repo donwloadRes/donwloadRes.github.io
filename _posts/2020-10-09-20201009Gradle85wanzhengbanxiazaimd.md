@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 8.5 完整版下载"
+title: "Gradle 85 完整版下载"
 date:   2021-11-30
 tags: [Gradle,8.5,完整版,gradle,下载]
 comments: true

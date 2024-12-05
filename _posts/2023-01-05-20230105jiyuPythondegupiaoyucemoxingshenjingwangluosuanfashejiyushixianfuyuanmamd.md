@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的股票预测模型（神经网络算法）设计与实现【附源码】"
+title: "基于Python的股票预测模型神经网络算法设计与实现附源码"
 date:   2021-12-31
 tags: [模型,RNN,Python,LSTM,神经网络]
 comments: true

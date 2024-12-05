@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS2812_STM32：通过STM32的SPI控制WS2812b"
+title: "WS2812STM32通过STM32的SPI控制WS2812b"
 date:   2022-04-12
 tags: [SPI,STM32,WS2812,WS2812b,HAL]
 comments: true

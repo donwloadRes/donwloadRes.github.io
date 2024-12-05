@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 2020 标准文档下载"
+title: "C 2020 标准文档下载"
 date:   2024-07-08
 tags: [文档,ISO,C++,2020,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polygon Cruncher v12.25 - Maya-3Ds Max模型优化插件"
+title: "Polygon Cruncher v1225  Maya3Ds Max模型优化插件"
 date:   2020-03-06
 tags: [Polygon,Cruncher,优化,模型,插件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件系统详细设计文档模板（超级正规）"
+title: "软件系统详细设计文档模板超级正规"
 date:   2024-01-02
 tags: [文档,模板,设计,详细,软件系统]
 comments: true

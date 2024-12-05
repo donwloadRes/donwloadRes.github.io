@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python高性能编程（高清版本）资源下载"
+title: "Python高性能编程高清版本资源下载"
 date:   2023-08-11
 tags: [Python,高清,编程,版本,高性能]
 comments: true

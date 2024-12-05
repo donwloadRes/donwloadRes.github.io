@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无法安装VC++运行库的解决方法"
+title: "无法安装VC运行库的解决方法"
 date:   2024-04-17
 tags: [运行库,C++,安装,尝试,Windows]
 comments: true

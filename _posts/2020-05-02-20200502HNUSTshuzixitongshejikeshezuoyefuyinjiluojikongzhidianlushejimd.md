@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HNUST 数字系统设计课设作业 - 复印机逻辑控制电路设计"
+title: "HNUST 数字系统设计课设作业  复印机逻辑控制电路设计"
 date:   2021-08-29
 tags: [课设,设计,控制电路,复印机,文档]
 comments: true

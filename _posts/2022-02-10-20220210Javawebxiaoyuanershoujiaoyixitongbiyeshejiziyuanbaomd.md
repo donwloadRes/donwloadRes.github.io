@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb校园二手交易系统 - 毕业设计资源包"
+title: "Javaweb校园二手交易系统  毕业设计资源包"
 date:   2020-03-27
 tags: [项目,系统,数据库,毕业设计,MySQL]
 comments: true

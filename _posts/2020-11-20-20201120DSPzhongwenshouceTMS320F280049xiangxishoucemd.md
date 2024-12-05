@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP中文手册 - TMS320F280049详细手册"
+title: "DSP中文手册  TMS320F280049详细手册"
 date:   2023-06-27
 tags: [手册,DSP,TMS320F280049,详细,280049C]
 comments: true

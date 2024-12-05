@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 二次开发C#源代码图文教程"
+title: "ArcGIS 二次开发C源代码图文教程"
 date:   2021-05-18
 tags: [教程,应用程序,ArcGIS,二次开发,菜单]
 comments: true

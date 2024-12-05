@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0驱动安装工具（适用于WinPE环境）"
+title: "USB30驱动安装工具适用于WinPE环境"
 date:   2023-09-26
 tags: [WinPE,USB3.0,工具,安装,驱动]
 comments: true

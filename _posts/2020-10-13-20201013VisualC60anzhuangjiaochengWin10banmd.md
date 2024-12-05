@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0 安装教程（Win10版）"
+title: "Visual C 60 安装教程Win10版"
 date:   2024-04-24
 tags: [C++,6.0,Visual,安装,教程]
 comments: true

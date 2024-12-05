@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI使用教程（用户手册）"
+title: "ENVI使用教程用户手册"
 date:   2024-11-21
 tags: [ENVI,教程,遥感,用户手册,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iData数据工厂V2.2试用版介绍"
+title: "iData数据工厂V22试用版介绍"
 date:   2023-02-25
 tags: [试用版,数据,iData,V2.2,数据处理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义窗体美化"
+title: "C自定义窗体美化"
 date:   2021-03-15
 tags: [美化,窗体,GDI,自定义,示例]
 comments: true

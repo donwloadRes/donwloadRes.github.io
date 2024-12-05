@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KNN算法及实现（鸢尾花分类）附带数据集"
+title: "KNN算法及实现鸢尾花分类附带数据集"
 date:   2023-01-29
 tags: [KNN,鸢尾花,算法,数据,代码]
 comments: true

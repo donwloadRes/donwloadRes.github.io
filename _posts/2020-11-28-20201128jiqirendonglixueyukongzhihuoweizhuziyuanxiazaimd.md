@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人动力学与控制——霍伟 著 资源下载"
+title: "机器人动力学与控制霍伟 著 资源下载"
 date:   2020-09-11
 tags: [机器人,资源,学习,霍伟,下载]
 comments: true

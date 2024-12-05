@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++6.0 安装包（免费安装包）（中文）"
+title: "VC60 安装包免费安装包中文"
 date:   2024-01-03
 tags: [点击,安装包,C++,6.0,安装]
 comments: true

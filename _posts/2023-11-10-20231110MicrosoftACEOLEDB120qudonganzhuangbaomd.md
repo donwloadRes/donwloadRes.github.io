@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft ACE OLEDB 12.0 驱动安装包"
+title: "Microsoft ACE OLEDB 120 驱动安装包"
 date:   2022-10-27
 tags: [Microsoft,ACE,文件,未注册,OLEDB.12]
 comments: true

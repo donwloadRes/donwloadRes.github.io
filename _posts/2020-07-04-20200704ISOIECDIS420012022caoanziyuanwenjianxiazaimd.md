@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO IEC DIS 42001-2022（草案）资源文件下载"
+title: "ISO IEC DIS 420012022草案资源文件下载"
 date:   2022-03-02
 tags: [草案,文件,ISO,IEC,2022]
 comments: true

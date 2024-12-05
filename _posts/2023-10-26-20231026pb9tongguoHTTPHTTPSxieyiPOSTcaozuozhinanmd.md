@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pb9通过HTTP、HTTPS协议POST操作指南"
+title: "pb9通过HTTPHTTPS协议POST操作指南"
 date:   2022-02-20
 tags: [PB9,HTTP,POST,HTTPS,JSON]
 comments: true

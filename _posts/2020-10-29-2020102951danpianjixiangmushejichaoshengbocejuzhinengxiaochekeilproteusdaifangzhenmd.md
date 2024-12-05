@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机项目设计：超声波测距、智能小车（keil+proteus）带仿真"
+title: "51单片机项目设计超声波测距智能小车keilproteus带仿真"
 date:   2020-08-27
 tags: [仿真,硬件,小车,超声波,模块]
 comments: true

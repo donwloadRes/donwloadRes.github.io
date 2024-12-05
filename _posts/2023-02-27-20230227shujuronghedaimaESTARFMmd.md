@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据融合代码-ESTARFM"
+title: "数据融合代码ESTARFM"
 date:   2024-05-29
 tags: [代码,ESTARFM,测试数据,算法,GPU]
 comments: true

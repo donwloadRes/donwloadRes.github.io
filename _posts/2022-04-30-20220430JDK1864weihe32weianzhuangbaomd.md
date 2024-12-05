@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK1.8 64位和32位安装包"
+title: "JDK18 64位和32位安装包"
 date:   2022-08-12
 tags: [安装包,JDK1.8,Java,32,安装]
 comments: true

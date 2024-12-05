@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unified Functional Testing(UFT)15.0.2入门保姆级教程（一）"
+title: "Unified Functional TestingUFT1502入门保姆级教程一"
 date:   2022-12-23
 tags: [UFT,安装,教程,基本操作,帮助]
 comments: true

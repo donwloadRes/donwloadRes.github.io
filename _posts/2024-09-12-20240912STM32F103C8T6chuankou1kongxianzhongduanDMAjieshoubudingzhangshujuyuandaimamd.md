@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6串口1空闲中断+DMA接收不定长数据源代码"
+title: "STM32F103C8T6串口1空闲中断DMA接收不定长数据源代码"
 date:   2023-10-06
 tags: [串口,DMA,空闲,中断,STM32F103C8T6]
 comments: true

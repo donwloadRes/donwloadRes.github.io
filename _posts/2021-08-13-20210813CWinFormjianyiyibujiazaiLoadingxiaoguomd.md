@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm简易异步加载Loading效果"
+title: "C WinForm简易异步加载Loading效果"
 date:   2023-11-10
 tags: [异步,UI,加载,操作,耗时]
 comments: true

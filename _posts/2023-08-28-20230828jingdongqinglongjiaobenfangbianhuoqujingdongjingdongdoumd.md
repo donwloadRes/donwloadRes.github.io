@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "京东青龙脚本 - 方便获取京东京东豆"
+title: "京东青龙脚本  方便获取京东京东豆"
 date:   2023-12-31
 tags: [青龙,sh,京东,东豆,部署]
 comments: true

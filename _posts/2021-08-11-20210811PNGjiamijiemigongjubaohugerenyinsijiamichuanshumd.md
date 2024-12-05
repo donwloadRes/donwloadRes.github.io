@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PNG加密解密工具：保护个人隐私，加密传输"
+title: "PNG加密解密工具保护个人隐私加密传输"
 date:   2023-07-29
 tags: [加密,工具,PNG,解密,个人隐私]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2023 v24.5.0.686 x64 中文免激活直装特别版"
+title: "CorelDRAW Graphics Suite 2023 v2450686 x64 中文免激活直装特别版"
 date:   2021-12-24
 tags: [免激活,直装,软件,安装,特别版]
 comments: true

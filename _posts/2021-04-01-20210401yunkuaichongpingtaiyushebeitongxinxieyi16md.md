@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云快充平台与设备通信协议1.6"
+title: "云快充平台与设备通信协议16"
 date:   2021-09-03
 tags: [通信协议,云快,1.6,平台,设备]
 comments: true

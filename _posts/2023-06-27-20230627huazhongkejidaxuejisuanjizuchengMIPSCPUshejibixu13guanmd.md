@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华中科技大学计算机组成MIPS CPU设计（必须）1-3关"
+title: "华中科技大学计算机组成MIPS CPU设计必须13关"
 date:   2021-01-07
 tags: [CPU,MIPS,微程序,设计,华中科技大学]
 comments: true

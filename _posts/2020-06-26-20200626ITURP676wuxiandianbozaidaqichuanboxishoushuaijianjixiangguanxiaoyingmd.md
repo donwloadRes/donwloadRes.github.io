@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITU-R P.676 无线电波在大气传播吸收衰减及相关效应"
+title: "ITUR P676 无线电波在大气传播吸收衰减及相关效应"
 date:   2023-08-02
 tags: [ITU,传播,无线电波,衰减,P.676]
 comments: true

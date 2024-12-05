@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx-Ego1(FPGA)寻迹小车资源下载"
+title: "XilinxEgo1FPGA寻迹小车资源下载"
 date:   2022-05-05
 tags: [FPGA,小车,寻迹,Xilinx,下载]
 comments: true

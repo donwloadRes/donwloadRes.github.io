@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#实现ONVIF协议之云台控制"
+title: "基于C实现ONVIF协议之云台控制"
 date:   2023-04-01
 tags: [ONVIF,云台,C#,摄像机,协议]
 comments: true

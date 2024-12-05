@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows下 Kiwi_Syslog日志服务器搭建指南"
+title: "windows下 KiwiSyslog日志服务器搭建指南"
 date:   2022-02-21
 tags: [日志,Kiwi,Syslog,搭建,服务器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avizo软件基础知识教程 - 珍稀资源分享"
+title: "Avizo软件基础知识教程  珍稀资源分享"
 date:   2021-06-20
 tags: [Avizo,软件,资源,学习,3D]
 comments: true

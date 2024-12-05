@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kindle Paperwhite 2 (KPW2) 越狱资源下载"
+title: "Kindle Paperwhite 2 KPW2 越狱资源下载"
 date:   2024-07-17
 tags: [Kindle,越狱,Paperwhite,zip,文件]
 comments: true

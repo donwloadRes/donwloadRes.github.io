@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek Audio Console 1.41.290 资源文件"
+title: "Realtek Audio Console 141290 资源文件"
 date:   2023-09-06
 tags: [Realtek,文件,290,Audio,Console]
 comments: true

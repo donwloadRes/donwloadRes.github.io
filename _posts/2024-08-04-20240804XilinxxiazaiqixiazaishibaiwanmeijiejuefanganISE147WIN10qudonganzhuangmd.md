@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx下载器下载失败完美解决方案（ISE14.7）（WIN10）（驱动安装）"
+title: "Xilinx下载器下载失败完美解决方案ISE147WIN10驱动安装"
 date:   2021-10-22
 tags: [下载,Xilinx,安装,驱动程序,Windows]
 comments: true

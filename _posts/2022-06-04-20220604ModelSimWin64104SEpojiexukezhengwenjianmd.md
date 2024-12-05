@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModelSim Win64 10.4 SE 破解许可证文件"
+title: "ModelSim Win64 104 SE 破解许可证文件"
 date:   2020-06-03
 tags: [ModelSim,许可证,文件,破解,软件]
 comments: true

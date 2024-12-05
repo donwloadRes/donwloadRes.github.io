@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "充电桩模块电路VIENNA.docx 资源介绍"
+title: "充电桩模块电路VIENNAdocx 资源介绍"
 date:   2021-01-19
 tags: [充电,拓扑,维也纳,VIENNA,docx]
 comments: true

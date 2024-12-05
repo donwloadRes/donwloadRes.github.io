@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医学图像三维重建和可视化-VC++实现实例源码"
+title: "医学图像三维重建和可视化VC实现实例源码"
 date:   2023-09-02
 tags: [三维重建,可视化,源码,C++,医学]
 comments: true

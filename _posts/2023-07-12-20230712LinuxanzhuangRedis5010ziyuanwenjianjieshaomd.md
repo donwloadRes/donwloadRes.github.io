@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装Redis 5.0.10 资源文件介绍"
+title: "Linux安装Redis 5010 资源文件介绍"
 date:   2023-02-02
 tags: [Redis,10,5.0,redis,bash]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学基础教程（VisualC++）(第二版) 孔令德 配套教程源码"
+title: "计算机图形学基础教程VisualC第二版 孔令德 配套教程源码"
 date:   2024-08-16
 tags: [图形学,Visual,源代码,C++,计算机]
 comments: true

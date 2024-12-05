@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第15届蓝桥杯Scratch选拔赛初级及中级（STEMA）真题2024年1月28日资源下载"
+title: "第15届蓝桥杯Scratch选拔赛初级及中级STEMA真题2024年1月28日资源下载"
 date:   2021-05-20
 tags: [真题,蓝桥,Scratch,选拔赛,文件]
 comments: true

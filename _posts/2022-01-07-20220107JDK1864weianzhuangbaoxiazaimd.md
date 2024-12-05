@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "JDK 1.8 64位安装包下载"
+title: "JDK 18 64位安装包下载
+date   20230502
+tags 安装包JDK64Linuxjdk18
+comments true
+author admin
+
+ JDK 18 64位安装包下载
+
+ 资源描述
+
+本仓库提供了一个适用于Linux系统的64位版本的JDK 18安装包该安装包是开发Java应用程序所必需的工具适用于需要在Linux环境下进行Java开发的开发者
+
+ 资源内容
+
+ 文件名 jdk1864bittargz
+ 文件类型 压缩包
+ 适用系统 Linux 64位
+
+ 使用说明
+
+1 下载文件 点击仓库中的jdk1864bittargz文件进行下载
+2 解压文件 使用以下命令解压下载的文件
+   bash
+   tar xzvf jdk1864bittargz
+   
+3 配置环境变量 解压后根据你的Linux发行版将JDK的路径添加到系统的环境变量中例如在bashrc或zshrc文件中添加以下内容
+   bash
+   export JAVAHOMEpathtojdk18
+   export PATHJAVAHOMEbinPATH
+   
+4 验证安装 运行以下命令验证JDK是否安装成功
+   bash
+   java version
+   
+   如果安装成功你应该会看到类似以下的输出
+   
+   java version 180xxx"
 date:   2023-05-02
 tags: [安装包,JDK,64,Linux,jdk1.8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习-西瓜书笔记汇总1"
+title: "机器学习西瓜书笔记汇总1"
 date:   2020-12-12
 tags: [学习,机器,笔记,西瓜,基础知识]
 comments: true

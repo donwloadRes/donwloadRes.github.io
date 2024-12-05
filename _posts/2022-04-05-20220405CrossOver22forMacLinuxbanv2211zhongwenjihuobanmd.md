@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrossOver 22 for Mac-Linux版 v22.1.1中文激活版"
+title: "CrossOver 22 for MacLinux版 v2211中文激活版"
 date:   2021-01-13
 tags: [Windows,激活,安装,Mac,Linux]
 comments: true

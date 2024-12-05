@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于卷积神经网络(CNN)时间序列预测"
+title: "基于卷积神经网络CNN时间序列预测"
 date:   2022-12-04
 tags: [代码,CNN,卷积,神经网络,序列]
 comments: true

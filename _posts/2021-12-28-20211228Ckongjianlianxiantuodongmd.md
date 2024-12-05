@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 控件连线拖动"
+title: "C 控件连线拖动"
 date:   2020-11-22
 tags: [控件,连线,C#,拖动,NET]
 comments: true

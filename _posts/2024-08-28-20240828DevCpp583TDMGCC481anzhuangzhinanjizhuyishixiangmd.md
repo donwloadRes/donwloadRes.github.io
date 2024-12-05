@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-Cpp 5.8.3 TDM-GCC 4.8.1 安装指南及注意事项"
+title: "DevCpp 583 TDMGCC 481 安装指南及注意事项"
 date:   2022-02-27
 tags: [安装,Dev,Cpp,GCC,Windows]
 comments: true

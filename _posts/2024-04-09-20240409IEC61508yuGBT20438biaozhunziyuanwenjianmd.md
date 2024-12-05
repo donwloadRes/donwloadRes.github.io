@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61508与GB-T20438标准资源文件"
+title: "IEC61508与GBT20438标准资源文件"
 date:   2021-09-06
 tags: [pdf,IEC61508,文件,GBT20438,GB]
 comments: true

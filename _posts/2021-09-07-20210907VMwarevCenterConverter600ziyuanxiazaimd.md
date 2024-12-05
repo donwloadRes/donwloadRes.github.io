@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vCenter Converter 6.0.0 资源下载"
+title: "VMware vCenter Converter 600 资源下载"
 date:   2020-01-20
 tags: [VMware,虚拟机,转换,vCenter,Converter]
 comments: true

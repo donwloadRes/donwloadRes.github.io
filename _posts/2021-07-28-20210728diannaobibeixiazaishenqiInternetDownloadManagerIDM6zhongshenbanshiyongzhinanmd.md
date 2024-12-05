@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑必备下载神器 - Internet Download Manager (IDM) 6 终身版使用指南"
+title: "电脑必备下载神器  Internet Download Manager IDM 6 终身版使用指南"
 date:   2024-11-11
 tags: [IDM,下载,下载速度,终身,激活]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 安装 JDK 的两种方法：手动安装和 yum 安装"
+title: "Linux 安装 JDK 的两种方法手动安装和 yum 安装"
 date:   2023-08-26
 tags: [JDK,安装,bash,Linux,yum]
 comments: true

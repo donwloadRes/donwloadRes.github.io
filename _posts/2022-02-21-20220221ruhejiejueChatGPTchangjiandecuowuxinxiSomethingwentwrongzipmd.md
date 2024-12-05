@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何解决ChatGPT常见的错误信息Something went wrong.zip"
+title: "如何解决ChatGPT常见的错误信息Something went wrongzip"
 date:   2023-04-12
 tags: [ChatGPT,错误信息,Something,went,wrong]
 comments: true

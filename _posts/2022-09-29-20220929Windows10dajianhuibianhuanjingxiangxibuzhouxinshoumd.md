@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10搭建汇编环境详细步骤（新手）"
+title: "Windows10搭建汇编环境详细步骤新手"
 date:   2021-07-26
 tags: [DOSBox,文件夹,汇编程序,MASM,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.9.0 + 扩展模块 + WITH_QT（Qt6）模块编译教程（Windows）"
+title: "OpenCV 490  扩展模块  WITHQTQt6模块编译教程Windows"
 date:   2020-08-05
 tags: [OpenCV,编译,Qt6,模块,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMOS模拟集成电路设计课件 - 东南大学吴金"
+title: "CMOS模拟集成电路设计课件  东南大学吴金"
 date:   2021-04-09
 tags: [课件,CMOS,模拟,集成电路,设计]
 comments: true

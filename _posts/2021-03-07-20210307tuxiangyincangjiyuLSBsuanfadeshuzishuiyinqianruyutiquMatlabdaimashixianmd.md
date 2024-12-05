@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像隐藏：基于LSB算法的数字水印嵌入与提取 - Matlab代码实现"
+title: "图像隐藏基于LSB算法的数字水印嵌入与提取  Matlab代码实现"
 date:   2022-03-12
 tags: [图像,LSB,算法,嵌入,数字水印]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HslCommunication 7.0 源码介绍"
+title: "HslCommunication 70 源码介绍"
 date:   2024-02-04
 tags: [源码,PLC,开源,通信,7.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黎曼曲面导引》资源介绍"
+title: "黎曼曲面导引资源介绍"
 date:   2022-07-21
 tags: [曲面,黎曼,定理,几何,Riemann]
 comments: true

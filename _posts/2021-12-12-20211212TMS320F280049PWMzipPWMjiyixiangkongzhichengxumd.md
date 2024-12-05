@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320F280049_PWM.zip - PWM及移相控制程序"
+title: "TMS320F280049PWMzip  PWM及移相控制程序"
 date:   2023-04-04
 tags: [PWM,TMS320F280049,DSP,zip,TI]
 comments: true

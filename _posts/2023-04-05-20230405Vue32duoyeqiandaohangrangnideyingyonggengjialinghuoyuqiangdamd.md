@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3.2多页签导航：让你的应用更加灵活与强大！"
+title: "Vue32多页签导航让你的应用更加灵活与强大"
 date:   2020-12-25
 tags: [多页,导航,store,添加,跳转]
 comments: true

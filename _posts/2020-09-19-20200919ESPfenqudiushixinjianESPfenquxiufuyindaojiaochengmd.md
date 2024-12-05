@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP分区丢失：新建ESP分区修复引导教程"
+title: "ESP分区丢失新建ESP分区修复引导教程"
 date:   2024-01-23
 tags: [ESP,分区,修复,引导,EFI]
 comments: true

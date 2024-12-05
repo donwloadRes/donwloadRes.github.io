@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王福军-计算流体动力学分析：CFD软件原理与应用"
+title: "王福军计算流体动力学分析CFD软件原理与应用"
 date:   2024-09-19
 tags: [CFD,流体力学,软件,计算,应用]
 comments: true

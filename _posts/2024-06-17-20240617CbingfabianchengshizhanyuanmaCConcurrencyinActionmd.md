@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++并发编程实战 源码 (C++ Concurrency in Action)"
+title: "C并发编程实战 源码 C Concurrency in Action"
 date:   2021-03-27
 tags: [C++,示例,代码,源码,并发]
 comments: true

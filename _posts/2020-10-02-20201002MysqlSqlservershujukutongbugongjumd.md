@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mysql-Sqlserver数据库同步工具"
+title: "MysqlSqlserver数据库同步工具"
 date:   2023-04-12
 tags: [数据库,同步,Mysql,Sqlserver,工具]
 comments: true

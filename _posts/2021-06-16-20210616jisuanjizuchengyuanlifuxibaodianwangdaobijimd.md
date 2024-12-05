@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理复习宝典 - 王道笔记"
+title: "计算机组成原理复习宝典  王道笔记"
 date:   2022-09-02
 tags: [复习,笔记,王道,知识点,这份]
 comments: true

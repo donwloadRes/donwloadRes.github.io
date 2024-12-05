@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ MFC 简易计算器（免积分）"
+title: "C MFC 简易计算器免积分"
 date:   2023-08-22
 tags: [计算器,运算,取余,支持,简易]
 comments: true

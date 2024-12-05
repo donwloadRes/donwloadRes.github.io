@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的简易示波器程序（带显示屏）"
+title: "基于STM32的简易示波器程序带显示屏"
 date:   2020-12-24
 tags: [示波器,波形,STM32,信号,采集]
 comments: true

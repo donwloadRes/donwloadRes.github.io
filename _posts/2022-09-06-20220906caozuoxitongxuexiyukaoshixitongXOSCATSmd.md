@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统学习与考试系统(XOSCATS)"
+title: "操作系统学习与考试系统XOSCATS"
 date:   2022-05-18
 tags: [XOSCATS,CATS,操作系统,考试,目录]
 comments: true

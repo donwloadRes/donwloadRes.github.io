@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML图 - 机票预订系统"
+title: "UML图  机票预订系统"
 date:   2020-10-21
 tags: [UML,系统,机票,用例,预订]
 comments: true

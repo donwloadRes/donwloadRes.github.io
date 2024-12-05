@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minimum Snap轨迹规划详解（1）轨迹规划入门"
+title: "Minimum Snap轨迹规划详解1轨迹规划入门"
 date:   2020-01-26
 tags: [轨迹,Minimum,Snap,规划,入门]
 comments: true

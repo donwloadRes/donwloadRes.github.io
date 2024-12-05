@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSGB-OBJ-IVE 格式相互转换工具"
+title: "OSGBOBJIVE 格式相互转换工具"
 date:   2023-05-09
 tags: [转换,格式,工具,osgb,obj]
 comments: true

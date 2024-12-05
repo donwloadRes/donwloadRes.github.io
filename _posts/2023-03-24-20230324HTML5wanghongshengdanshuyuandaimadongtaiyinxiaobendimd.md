@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5网红圣诞树源代码（动态音效）- 本地"
+title: "HTML5网红圣诞树源代码动态音效 本地"
 date:   2023-09-16
 tags: [音效,圣诞树,本地,加载,HTML5]
 comments: true

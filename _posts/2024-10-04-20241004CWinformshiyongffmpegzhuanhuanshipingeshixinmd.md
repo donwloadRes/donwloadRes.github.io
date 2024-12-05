@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 使用 ffmpeg 转换视频格式 (新)"
+title: "C Winform 使用 ffmpeg 转换视频格式 新"
 date:   2021-12-30
 tags: [ffmpeg,视频格式,示例,视频压缩,转换]
 comments: true

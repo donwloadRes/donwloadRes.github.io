@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等级保护-商用密码相关标准规范24个资源"
+title: "等级保护商用密码相关标准规范24个资源"
 date:   2020-05-10
 tags: [密码,GMT,2012,算法,SM2]
 comments: true

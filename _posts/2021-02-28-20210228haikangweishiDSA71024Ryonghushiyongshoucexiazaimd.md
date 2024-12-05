@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视DS-A71024R用户使用手册下载"
+title: "海康威视DSA71024R用户使用手册下载"
 date:   2021-12-12
 tags: [威视,DS,A71024R,海康,使用手册]
 comments: true

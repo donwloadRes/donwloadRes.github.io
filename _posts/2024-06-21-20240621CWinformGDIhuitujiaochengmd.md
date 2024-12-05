@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform GDI+ 绘图教程"
+title: "C Winform GDI 绘图教程"
 date:   2021-05-25
 tags: [GDI,绘图,C#,绘制,教程]
 comments: true

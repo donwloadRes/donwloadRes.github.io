@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32的TIM3输出相位差0~360可调的PWM波形"
+title: "STM32的TIM3输出相位差0360可调的PWM波形"
 date:   2020-08-22
 tags: [STM32,PWM,TIM3,开发板,相位差]
 comments: true

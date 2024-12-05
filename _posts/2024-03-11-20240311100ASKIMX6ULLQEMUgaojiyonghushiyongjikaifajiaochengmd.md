@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100ASK_IMX6ULL-QEMU 高级用户使用及开发教程"
+title: "100ASKIMX6ULLQEMU 高级用户使用及开发教程"
 date:   2021-05-24
 tags: [QEMU,教程,模拟,100ASK,IMX6ULL]
 comments: true

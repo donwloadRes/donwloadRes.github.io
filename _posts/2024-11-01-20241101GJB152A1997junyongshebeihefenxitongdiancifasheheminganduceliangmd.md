@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 152A-1997 军用设备和分系统电磁发射和敏感度测量"
+title: "GJB 152A1997 军用设备和分系统电磁发射和敏感度测量"
 date:   2022-04-02
 tags: [敏感度,电磁,设备,1997,发射]
 comments: true

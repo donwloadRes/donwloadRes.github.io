@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI E090-0706_STS 标准规范资源"
+title: "SEMI E0900706STS 标准规范资源"
 date:   2023-11-10
 tags: [SEMI,E090,半导体,文档,0706]
 comments: true

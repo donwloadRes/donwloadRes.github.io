@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精简版 JRE 64位 1.8.0 压缩后仅20M"
+title: "精简版 JRE 64位 180 压缩后仅20M"
 date:   2024-04-01
 tags: [Java,JRE,1.8,精简版,64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光学原理第七版 - M.Born & E.Wolf 电子书下载"
+title: "光学原理第七版  MBorn  EWolf 电子书下载"
 date:   2021-08-27
 tags: [光学,Wolf,Born,第七版,Principles]
 comments: true

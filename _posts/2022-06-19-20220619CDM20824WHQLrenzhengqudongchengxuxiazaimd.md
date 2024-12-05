@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDM 2.08.24 WHQL 认证驱动程序下载"
+title: "CDM 20824 WHQL 认证驱动程序下载"
 date:   2023-09-04
 tags: [驱动程序,2.08,24,WHQL,Windows]
 comments: true

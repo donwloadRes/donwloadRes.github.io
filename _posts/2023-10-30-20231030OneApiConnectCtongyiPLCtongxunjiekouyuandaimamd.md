@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OneApiConnect C++ 统一PLC通讯接口源代码"
+title: "OneApiConnect C 统一PLC通讯接口源代码"
 date:   2021-12-30
 tags: [PLC,通讯,源代码,接口,OneApiConnect]
 comments: true

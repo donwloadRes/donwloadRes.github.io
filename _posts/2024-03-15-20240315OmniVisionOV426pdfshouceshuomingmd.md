@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OmniVision_OV426.pdf手册说明"
+title: "OmniVisionOV426pdf手册说明"
 date:   2024-05-11
 tags: [OV426,OmniVision,传感器,手册,pdf]
 comments: true

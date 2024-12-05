@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3~7串锂电保护板资源下载"
+title: "37串锂电保护板资源下载"
 date:   2024-03-01
 tags: [保护,单组过,0.01,电压,锂电池]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT2232H 中文手册 - 480Mb-s 双通道USB FIFO芯片 完整有道付费翻译"
+title: "FT2232H 中文手册  480Mbs 双通道USB FIFO芯片 完整有道付费翻译"
 date:   2022-08-22
 tags: [FT2232H,手册,FIFO,双通道,芯片]
 comments: true

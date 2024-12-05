@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2015安装教程（带图解+下载指南）"
+title: "VS2015安装教程带图解下载指南"
 date:   2021-06-06
 tags: [安装,VS2015,虚拟光驱,ISO,下载]
 comments: true

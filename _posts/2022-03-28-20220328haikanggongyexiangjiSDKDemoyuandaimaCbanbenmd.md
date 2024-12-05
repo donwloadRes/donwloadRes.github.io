@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康工业相机SDK Demo源代码（C++版本）"
+title: "海康工业相机SDK Demo源代码C版本"
 date:   2022-11-03
 tags: [海康,相机,SDK,Demo,源代码]
 comments: true

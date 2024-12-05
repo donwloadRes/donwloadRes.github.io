@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB MPT 3.2.1工具箱安装指南"
+title: "MATLAB MPT 321工具箱安装指南"
 date:   2021-09-30
 tags: [工具箱,MPT,MATLAB,安装,3.2]
 comments: true

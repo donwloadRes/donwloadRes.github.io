@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 学习笔记"
+title: "MIPI CSI2 学习笔记"
 date:   2024-02-24
 tags: [MIPI,CSI,笔记,协议,掌握]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EFM8SB1+ADS1120实现PT100温度传感器采集程序"
+title: "EFM8SB1ADS1120实现PT100温度传感器采集程序"
 date:   2020-07-30
 tags: [EFM8SB1,ADS1120,PT100,采集,温度传感器]
 comments: true

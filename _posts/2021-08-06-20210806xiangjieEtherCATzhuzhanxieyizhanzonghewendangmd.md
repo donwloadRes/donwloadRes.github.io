@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解EtherCAT主站协议栈-综合文档"
+title: "详解EtherCAT主站协议栈综合文档"
 date:   2021-05-12
 tags: [主站,EtherCAT,文档,协议,详解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch版Mask R-CNN图像实例分割实战：训练自己的数据集【331003】安装项目1"
+title: "PyTorch版Mask RCNN图像实例分割实战训练自己的数据集331003安装项目1"
 date:   2022-06-14
 tags: [安装,训练,CNN,图像,Mask]
 comments: true

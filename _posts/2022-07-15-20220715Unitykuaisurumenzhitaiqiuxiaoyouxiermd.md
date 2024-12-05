@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity快速入门之台球小游戏（二）"
+title: "Unity快速入门之台球小游戏二"
 date:   2021-12-15
 tags: [小球,Unity,文件夹,脚本,编写]
 comments: true

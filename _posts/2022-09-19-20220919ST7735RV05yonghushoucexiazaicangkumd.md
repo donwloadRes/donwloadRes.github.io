@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST7735R_V0.5用户手册下载仓库"
+title: "ST7735RV05用户手册下载仓库"
 date:   2022-05-23
 tags: [ST7735R,用户手册,V0.5,仓库,开发者]
 comments: true

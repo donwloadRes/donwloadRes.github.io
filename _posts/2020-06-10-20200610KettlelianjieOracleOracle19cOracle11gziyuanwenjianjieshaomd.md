@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle连接Oracle(Oracle19c&Oracle11g) 资源文件介绍"
+title: "Kettle连接OracleOracle19cOracle11g 资源文件介绍"
 date:   2022-12-12
 tags: [Oracle,jar,Kettle,数据库,连接]
 comments: true

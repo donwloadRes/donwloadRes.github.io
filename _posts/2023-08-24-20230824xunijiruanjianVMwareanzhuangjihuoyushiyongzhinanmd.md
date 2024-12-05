@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机软件VMware安装、激活与使用指南"
+title: "虚拟机软件VMware安装激活与使用指南"
 date:   2021-05-01
 tags: [虚拟机,VMware,激活,安装,虚拟化]
 comments: true

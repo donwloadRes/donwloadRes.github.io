@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器驱动Chromedriver（114-120版本）下载及Selenium配置指南"
+title: "谷歌浏览器驱动Chromedriver114120版本下载及Selenium配置指南"
 date:   2023-02-27
 tags: [Chromedriver,Selenium,版本,测试,自动化]
 comments: true

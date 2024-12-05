@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA并行程序设计：GPU编程指南（shanecook 中文版全522页 高清完整版）"
+title: "CUDA并行程序设计GPU编程指南shanecook 中文版全522页 高清完整版"
 date:   2024-03-26
 tags: [CUDA,GPU,编程,并行程序,shanecook]
 comments: true

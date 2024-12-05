@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习调参指南（炼丹）"
+title: "深度学习调参指南炼丹"
 date:   2021-11-12
 tags: [调参,指南,学习,深度,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NX10.0安装教程"
+title: "NX100安装教程"
 date:   2020-07-03
 tags: [安装,NX10.0,教程,文件,许可证]
 comments: true

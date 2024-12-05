@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于GL3224的USB3.0 TF读卡器原理图与PCB"
+title: "基于GL3224的USB30 TF读卡器原理图与PCB"
 date:   2021-07-09
 tags: [TF,GL3224,USB3.0,PCB,原理图]
 comments: true

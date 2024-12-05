@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407工程——SGP30测量CO2浓度数据"
+title: "STM32F407工程SGP30测量CO2浓度数据"
 date:   2023-11-08
 tags: [STM32F407,SGP30,CO2,工程,浓度]
 comments: true

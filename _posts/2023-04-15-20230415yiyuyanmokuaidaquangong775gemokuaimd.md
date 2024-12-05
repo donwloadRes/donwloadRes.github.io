@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言模块大全（共775个模块）"
+title: "易语言模块大全共775个模块"
 date:   2022-07-19
 tags: [zip,1.0,模块,列表框,超级]
 comments: true

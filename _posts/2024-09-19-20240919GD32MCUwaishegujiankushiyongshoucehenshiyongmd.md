@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32 MCU外设固件库使用手册(很实用)"
+title: "GD32 MCU外设固件库使用手册很实用"
 date:   2021-09-27
 tags: [GD32,外设,MCU,固件,GPIO]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Spy++ 工具获取、安装和简单使用指南"
+title: "Windows Spy 工具获取安装和简单使用指南"
 date:   2022-03-28
 tags: [Spy,++,Windows,窗口,属性]
 comments: true

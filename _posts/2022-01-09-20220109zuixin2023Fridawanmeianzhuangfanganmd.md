@@ -1,6 +1,58 @@
 ---
 layout: post
-title: "最新2023：Frida完美安装方案"
+title: "最新2023Frida完美安装方案
+date   20210212
+tags FridafridaAndroid安装server
+comments true
+author admin
+
+ 最新2023Frida完美安装方案
+
+
+
+ 概述
+
+本文档提供了详细的指南帮助开发者和逆向工程师在2023年顺利安装Frida一个强大的动态代码插桩工具Frida允许你用JavaScript来探索和操纵运行中的进程适用于多种操作系统包括Android和iOS本教程特别适合那些对Android应用进行逆向工程或安全研究的用户
+
+ 安装步骤
+
+ 1 准备环境
+
+ Python环境 确保你的系统已安装Python 3106以上版本并将其添加到环境变量
+ pip安装 使用pipPython的包管理器确保它是最新的
+
+ 2 安装Frida Core和Tools
+
+ 通过pip安装Frida和Fridatools
+  
+  bash
+  pip install fridatools i httpspypitunatsinghuaeducnsimple
+  
+  
+  若遇到安装问题可能需要特定版本匹配或处理依赖冲突
+
+ 3 ADB工具
+
+ 下载并设置ADB工具用于与Android设备通讯
+
+ 4 Fridaserver下载与部署
+
+ 根据你的Android设备的CPU架构armeabiv7aarm64v8ax86x8664下载相应版本的fridaserver
+ 将fridaserver推送至设备的 datalocaltmp 目录并赋予执行权限
+  
+  bash
+  adb push fridaserver datalocaltmp
+  adb shell chmod 777 datalocaltmpfridaserver
+  
+
+ 5 运行与测试
+
+ 在设备上启动fridaserver并在PC端建立端口转发
+  
+  bash
+  adb shell datalocaltmpfridaserver 
+  adb forward tcp27042 tcp27042
+  adb forward tcp27043 tcp27043"
 date:   2021-02-12
 tags: [Frida,frida,Android,安装,server]
 comments: true

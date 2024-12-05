@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB28181协议测试工具 - 批量IPC对NVR压力测试利器"
+title: "GB28181协议测试工具  批量IPC对NVR压力测试利器"
 date:   2024-01-10
 tags: [GB28181,IPC,NVR,测试,测试工具]
 comments: true

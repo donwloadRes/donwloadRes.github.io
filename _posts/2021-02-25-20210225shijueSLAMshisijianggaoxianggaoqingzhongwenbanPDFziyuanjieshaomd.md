@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉SLAM十四讲（高翔）高清中文版PDF资源介绍"
+title: "视觉SLAM十四讲高翔高清中文版PDF资源介绍"
 date:   2021-12-22
 tags: [SLAM,PDF,视觉,高翔,中文版]
 comments: true

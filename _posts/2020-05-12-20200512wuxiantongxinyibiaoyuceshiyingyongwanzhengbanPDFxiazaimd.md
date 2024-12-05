@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信仪表与测试应用(完整版) PDF 下载"
+title: "无线通信仪表与测试应用完整版 PDF 下载"
 date:   2020-04-28
 tags: [无线通信,仪表,完整版,PDF,下载]
 comments: true

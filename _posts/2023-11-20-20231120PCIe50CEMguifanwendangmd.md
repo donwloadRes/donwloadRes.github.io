@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 5.0 CEM 规范文档"
+title: "PCIe 50 CEM 规范文档"
 date:   2022-04-07
 tags: [PCIe,5.0,文档,连接器,CEM]
 comments: true

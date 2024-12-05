@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "MySQL 指南：第 6 天作业指南"
+title: "MySQL 指南第 6 天作业指南
+date   20230202
+tags 指南MySQLSQL作业数据库
+comments true
+author admin
+
+
+layout post
+title MySQL 指南第 6 天作业指南"
 date:   2023-02-02
 tags: [指南,MySQL,SQL,作业,数据库]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "MySQL 指南：第 6 天作业指南"
+title: "MySQL 指南第 6 天作业指南
+date   20230202
+tags 指南MySQLSQL作业数据库
+comments true
+author admin
+
+
+layout post
+title MySQL 指南第 6 天作业指南"
 date:   2024-07-04
 tags: [SQL,指南,作业,数据库,MySQL]
 comments: true

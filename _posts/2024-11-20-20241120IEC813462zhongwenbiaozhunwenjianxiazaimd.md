@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 81346-2 中文标准文件下载"
+title: "IEC 813462 中文标准文件下载"
 date:   2022-03-14
 tags: [标准文件,IEC,中文,81346,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro830、Micro850、和 Micro870 可编程控制器用户手册"
+title: "Micro830Micro850和 Micro870 可编程控制器用户手册"
 date:   2023-11-09
 tags: [用户手册,控制器,Micro870,可编程,Micro830]
 comments: true

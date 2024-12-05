@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 自定义DateTime控件：美化日历与农历实现"
+title: "Qt 自定义DateTime控件美化日历与农历实现"
 date:   2021-05-12
 tags: [Qt,控件,自定义,农历,DateTime]
 comments: true

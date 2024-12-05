@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qtpdfium：基于福昕PDF开源的谷歌PDF阅读引擎"
+title: "qtpdfium基于福昕PDF开源的谷歌PDF阅读引擎"
 date:   2020-12-28
 tags: [PDF,Qt,qtpdfium,开源,福昕]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析（第5版）习题解答"
+title: "数值分析第5版习题解答"
 date:   2020-10-03
 tags: [习题,数值,解答,分析,课后]
 comments: true

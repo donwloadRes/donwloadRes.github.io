@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GraphPad Prism v9.0.0.121 Win10安装指南"
+title: "GraphPad Prism v900121 Win10安装指南"
 date:   2022-10-13
 tags: [安装,Prism,GraphPad,0.121,补丁]
 comments: true

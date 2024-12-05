@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生管理系统：C++ 资源和范例"
+title: "学生管理系统C 资源和范例"
 date:   2022-01-21
 tags: [学生,信息,C++,资源库,管理系统]
 comments: true

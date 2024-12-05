@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS-7-x86_64-Minimal-2009.iso镜像下载"
+title: "CentOS7x8664Minimal2009iso镜像下载"
 date:   2022-12-18
 tags: [CentOS,64,安装,x86,Minimal]
 comments: true

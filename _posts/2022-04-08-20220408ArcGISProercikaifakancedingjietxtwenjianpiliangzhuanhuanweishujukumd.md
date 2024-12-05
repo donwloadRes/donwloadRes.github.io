@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：勘测定界txt文件批量转换为数据库"
+title: "ArcGIS Pro二次开发勘测定界txt文件批量转换为数据库"
 date:   2024-01-21
 tags: [TXT,文件,要素,txt,数据库]
 comments: true

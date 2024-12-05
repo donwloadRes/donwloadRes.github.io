@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下ROS2与PyCharm、C++ QT5环境配置及实践案例"
+title: "Windows下ROS2与PyCharmC QT5环境配置及实践案例"
 date:   2024-02-04
 tags: [ROS2,C++,Windows,PyCharm,QT5]
 comments: true

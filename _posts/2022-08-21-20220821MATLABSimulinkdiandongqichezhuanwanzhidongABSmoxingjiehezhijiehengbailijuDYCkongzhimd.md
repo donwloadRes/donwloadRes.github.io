@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-Simulink 电动汽车转弯制动ABS模型结合直接横摆力矩DYC控制"
+title: "MATLABSimulink 电动汽车转弯制动ABS模型结合直接横摆力矩DYC控制"
 date:   2021-05-03
 tags: [制动,电动汽车,模型,MATLAB,Simulink]
 comments: true

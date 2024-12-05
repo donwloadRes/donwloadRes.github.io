@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPMN 2.02 规范中文版下载"
+title: "BPMN 202 规范中文版下载"
 date:   2022-02-28
 tags: [BPMN,2.02,规范,中文版,翻译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer M.2接口封装资源"
+title: "Altium Designer M2接口封装资源"
 date:   2021-11-10
 tags: [封装,MKey,BKey,Altium,Designer]
 comments: true

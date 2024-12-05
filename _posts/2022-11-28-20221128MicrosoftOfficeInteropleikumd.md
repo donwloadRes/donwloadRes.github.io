@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.Office.Interop类库"
+title: "MicrosoftOfficeInterop类库"
 date:   2024-07-22
 tags: [Office,Microsoft,Interop,类库,Excel]
 comments: true

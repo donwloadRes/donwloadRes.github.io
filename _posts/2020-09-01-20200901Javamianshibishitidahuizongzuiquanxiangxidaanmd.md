@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试笔试题大汇总(最全+详细答案)"
+title: "Java面试笔试题大汇总最全详细答案"
 date:   2023-08-22
 tags: [Java,面试,答案,题目,笔试]
 comments: true

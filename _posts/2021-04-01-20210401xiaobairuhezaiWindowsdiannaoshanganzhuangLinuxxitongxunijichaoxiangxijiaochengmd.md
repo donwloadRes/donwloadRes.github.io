@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白如何在Windows电脑上安装Linux系统（虚拟机）超详细教程"
+title: "小白如何在Windows电脑上安装Linux系统虚拟机超详细教程"
 date:   2024-05-26
 tags: [Linux,安装,虚拟机,Windows,教程]
 comments: true

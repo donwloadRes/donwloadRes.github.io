@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vCenter 6.5 Windows版本下载"
+title: "VMware vCenter 65 Windows版本下载"
 date:   2024-08-09
 tags: [VMware,vCenter,6.5,Windows,安装]
 comments: true

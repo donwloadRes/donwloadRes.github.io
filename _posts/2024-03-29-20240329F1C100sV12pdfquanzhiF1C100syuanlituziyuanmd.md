@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F1C100s-V1.2.pdf - 全志F1C100s原理图资源"
+title: "F1C100sV12pdf  全志F1C100s原理图资源"
 date:   2020-04-25
 tags: [F1C100s,原理图,V1.2,pdf,全志]
 comments: true

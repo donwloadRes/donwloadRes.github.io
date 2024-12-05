@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEV C++安装包"
+title: "DEV C安装包"
 date:   2021-01-26
 tags: [C++,DEV,安装包,IDE,编译器]
 comments: true

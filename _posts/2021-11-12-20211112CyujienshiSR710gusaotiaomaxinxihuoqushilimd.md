@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与基恩士SR710固扫条码信息获取示例"
+title: "C与基恩士SR710固扫条码信息获取示例"
 date:   2020-02-26
 tags: [SR710,固扫,基恩,示例,C#]
 comments: true

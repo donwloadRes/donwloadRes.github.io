@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ultra-Fast-Lane-Detection 自定义模型测试指南"
+title: "UltraFastLaneDetection 自定义模型测试指南"
 date:   2021-07-31
 tags: [测试,自定义,模型,Ultra,Fast]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 OpenSSH 升级至 9.7p1 简单详细教程（傻瓜教学方式）"
+title: "CentOS 7 OpenSSH 升级至 97p1 简单详细教程傻瓜教学方式"
 date:   2024-02-01
 tags: [升级,配置文件,OpenSSH,备份,9.7]
 comments: true

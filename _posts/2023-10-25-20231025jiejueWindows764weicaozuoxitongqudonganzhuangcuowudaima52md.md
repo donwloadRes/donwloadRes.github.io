@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows 7(64位)操作系统驱动安装错误（代码52）"
+title: "解决Windows 764位操作系统驱动安装错误代码52"
 date:   2020-11-01
 tags: [驱动程序,补丁,安装,Windows,52]
 comments: true

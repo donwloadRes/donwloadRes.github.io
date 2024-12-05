@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8-seg 实例分割模型源码及数据集"
+title: "YOLOv8seg 实例分割模型源码及数据集"
 date:   2022-05-16
 tags: [seg,--,模型,实例,YOLOv8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白手把手保姆级教程：操作Win11扩充C盘（把D盘内存分给C盘）及分盘操作、BitLocker解密"
+title: "小白手把手保姆级教程操作Win11扩充C盘把D盘内存分给C盘及分盘操作BitLocker解密"
 date:   2024-08-31
 tags: [C盘,磁盘,教程,BitLocker,操作]
 comments: true

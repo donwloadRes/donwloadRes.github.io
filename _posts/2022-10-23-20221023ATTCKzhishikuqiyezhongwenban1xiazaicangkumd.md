@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATT&CK 知识库（企业）中文版1 下载仓库"
+title: "ATTCK 知识库企业中文版1 下载仓库"
 date:   2024-04-22
 tags: [攻击,文件,下载,知识库,中文版]
 comments: true

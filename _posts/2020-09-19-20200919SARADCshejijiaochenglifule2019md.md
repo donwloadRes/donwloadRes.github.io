@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR ADC设计教程 - 李福乐（2019）"
+title: "SAR ADC设计教程  李福乐2019"
 date:   2021-02-22
 tags: [SAR,ADC,设计,教程,福乐]
 comments: true

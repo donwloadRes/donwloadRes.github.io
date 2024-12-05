@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML建模工具Enterprise Architect(EA) -- 安装及简单使用"
+title: "UML建模工具Enterprise ArchitectEA  安装及简单使用"
 date:   2024-09-19
 tags: [EA,建模,UML,安装,视图]
 comments: true

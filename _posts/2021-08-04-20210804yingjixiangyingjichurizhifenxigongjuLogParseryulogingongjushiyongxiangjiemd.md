@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应急响应基础：日志分析工具Log Parser与login工具使用详解"
+title: "应急响应基础日志分析工具Log Parser与login工具使用详解"
 date:   2020-08-29
 tags: [Log,Parser,日志,login,工具]
 comments: true

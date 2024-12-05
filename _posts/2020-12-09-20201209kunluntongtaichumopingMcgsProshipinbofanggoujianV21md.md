@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通泰触摸屏 McgsPro 视频播放构件 V2.1"
+title: "昆仑通泰触摸屏 McgsPro 视频播放构件 V21"
 date:   2024-08-06
 tags: [McgsPro,构件,视频,触摸屏,通泰]
 comments: true

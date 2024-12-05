@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试器 - SSCOM32 英文及繁体中文版"
+title: "串口调试器  SSCOM32 英文及繁体中文版"
 date:   2022-04-15
 tags: [串口,繁体中文,SSCOM32,调试,软件]
 comments: true

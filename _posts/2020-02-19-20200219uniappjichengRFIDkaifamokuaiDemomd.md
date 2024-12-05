@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app集成RFID开发模块Demo"
+title: "uniapp集成RFID开发模块Demo"
 date:   2022-09-19
 tags: [RFID,uni,app,Demo,读取]
 comments: true

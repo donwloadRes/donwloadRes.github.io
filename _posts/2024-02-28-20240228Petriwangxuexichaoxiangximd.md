@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Petri网学习（超详细）"
+title: "Petri网学习超详细"
 date:   2024-06-11
 tags: [Petri,学习,PPT,分析,研究]
 comments: true

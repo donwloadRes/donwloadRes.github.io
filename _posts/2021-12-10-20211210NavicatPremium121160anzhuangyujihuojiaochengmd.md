@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12.1.16.0 安装与激活教程"
+title: "Navicat Premium 121160 安装与激活教程"
 date:   2022-09-27
 tags: [Navicat,Premium,16.0,注册机,激活]
 comments: true

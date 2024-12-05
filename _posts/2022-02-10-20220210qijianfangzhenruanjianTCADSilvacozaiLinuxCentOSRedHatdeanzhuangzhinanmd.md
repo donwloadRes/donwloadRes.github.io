@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "器件仿真软件TCAD Silvaco在Linux（CentOS, RedHat）的安装指南"
+title: "器件仿真软件TCAD Silvaco在LinuxCentOS RedHat的安装指南"
 date:   2020-04-14
 tags: [Silvaco,安装,TCAD,silvaco,软件包]
 comments: true

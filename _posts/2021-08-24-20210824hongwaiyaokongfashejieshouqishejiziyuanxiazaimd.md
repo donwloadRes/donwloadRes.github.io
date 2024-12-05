@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外遥控发射-接收器设计资源下载"
+title: "红外遥控发射接收器设计资源下载"
 date:   2021-08-25
 tags: [设计,红外,遥控,接收器,资源]
 comments: true

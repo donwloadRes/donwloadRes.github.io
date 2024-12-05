@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达系统分析与设计（MATLAB）第二版 资源下载"
+title: "雷达系统分析与设计MATLAB第二版 资源下载"
 date:   2023-07-21
 tags: [MATLAB,系统分析,雷达,第二,设计]
 comments: true

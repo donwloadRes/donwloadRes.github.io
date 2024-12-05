@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF+EF+SQLite开发环境配置指南"
+title: "WPFEFSQLite开发环境配置指南"
 date:   2020-11-23
 tags: [数据库,SQLite,WPF,写入,文件]
 comments: true

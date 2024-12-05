@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASN.1编码规则详解资源下载"
+title: "ASN1编码规则详解资源下载"
 date:   2023-12-31
 tags: [ASN.1,编码,规则,详解,文件]
 comments: true

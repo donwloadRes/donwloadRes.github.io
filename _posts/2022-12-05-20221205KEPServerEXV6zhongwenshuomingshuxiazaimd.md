@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEPServerEX-V6中文说明书下载"
+title: "KEPServerEXV6中文说明书下载"
 date:   2024-01-27
 tags: [KEPServerEX,V6,说明书,配置,应用]
 comments: true

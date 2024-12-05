@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux设备树使用手册(注释版)"
+title: "Linux设备树使用手册注释版"
 date:   2022-06-29
 tags: [设备,注释,源文件,Linux,dts]
 comments: true

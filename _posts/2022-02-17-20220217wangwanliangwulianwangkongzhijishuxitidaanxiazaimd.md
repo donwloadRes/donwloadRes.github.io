@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王万良物联网控制技术》习题答案下载"
+title: "王万良物联网控制技术习题答案下载"
 date:   2022-02-22
 tags: [习题,答案,控制技术,第五章,联网]
 comments: true

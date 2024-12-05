@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "铁虎发卡软件 单元+通卡 使用指南及资源下载"
+title: "铁虎发卡软件 单元通卡 使用指南及资源下载"
 date:   2024-07-30
 tags: [通卡,铁虎,软件,发卡,单元]
 comments: true

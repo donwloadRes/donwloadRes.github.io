@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思 XCKU040-2FFVA1156l 相关资料下载"
+title: "赛灵思 XCKU0402FFVA1156l 相关资料下载"
 date:   2022-06-16
 tags: [XCKU040,2FFVA1156l,笔记,文档,注释]
 comments: true

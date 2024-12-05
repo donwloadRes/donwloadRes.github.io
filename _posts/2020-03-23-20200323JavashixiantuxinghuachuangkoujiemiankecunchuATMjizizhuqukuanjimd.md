@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实现图形化窗口界面可存储ATM机（自助取款机）"
+title: "Java实现图形化窗口界面可存储ATM机自助取款机"
 date:   2024-11-22
 tags: [用户,Java,ATM,登录,取款]
 comments: true

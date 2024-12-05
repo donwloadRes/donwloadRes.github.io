@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3-2022 以太网标准资源下载"
+title: "IEEE 80232022 以太网标准资源下载"
 date:   2024-05-12
 tags: [以太网,IEEE,2022,802.3,文件]
 comments: true

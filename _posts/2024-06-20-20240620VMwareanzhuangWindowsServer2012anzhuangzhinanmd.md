@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware安装&Windows Server 2012安装指南"
+title: "VMware安装Windows Server 2012安装指南"
 date:   2023-12-16
 tags: [安装,虚拟机,VMware,Windows,Server]
 comments: true

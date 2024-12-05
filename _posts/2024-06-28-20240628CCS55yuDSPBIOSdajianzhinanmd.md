@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS5.5与DSP-BIOS搭建指南"
+title: "CCS55与DSPBIOS搭建指南"
 date:   2021-01-11
 tags: [DSP,BIOS,CCS5.5,示例,指南]
 comments: true

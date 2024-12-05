@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeBlocks安装包（下载后直接用）免费"
+title: "CodeBlocks安装包下载后直接用免费"
 date:   2020-02-15
 tags: [下载,CodeBlocks,安装包,编程,安装]
 comments: true

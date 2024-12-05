@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPC0.5座子封装库（AD格式）—— 常用元件3D接插件封装库"
+title: "FPC05座子封装库AD格式 常用元件3D接插件封装库"
 date:   2021-04-20
 tags: [封装,FPC0.5,3D,Altium,Designer]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Packet.dll 动态库文件修复指南"
+title: "Packetdll 动态库文件修复指南"
 date:   2020-10-06
 tags: [dll,Packet,eNSP,文件,软件]
 comments: true

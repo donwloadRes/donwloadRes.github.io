@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "猎人猎物优化算法(HPO)及函数测试MATLAB代码"
+title: "猎人猎物优化算法HPO及函数测试MATLAB代码"
 date:   2023-03-08
 tags: [HPO,算法,MATLAB,测试函数,代码]
 comments: true

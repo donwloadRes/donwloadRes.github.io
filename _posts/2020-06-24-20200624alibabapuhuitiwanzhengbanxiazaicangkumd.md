@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴普惠体（完整版）下载仓库"
+title: "阿里巴巴普惠体完整版下载仓库"
 date:   2024-02-18
 tags: [完整版,普惠体,字体,阿里巴巴,下载]
 comments: true

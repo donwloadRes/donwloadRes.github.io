@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab_Simulink的曲柄滑块机构运动学分析及仿真"
+title: "基于MatlabSimulink的曲柄滑块机构运动学分析及仿真"
 date:   2020-01-23
 tags: [仿真,滑块,Simulink,曲柄,Matlab]
 comments: true

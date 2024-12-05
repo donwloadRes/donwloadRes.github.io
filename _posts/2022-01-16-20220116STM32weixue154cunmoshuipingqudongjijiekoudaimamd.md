@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32微雪1.54寸墨水屏驱动及接口代码"
+title: "STM32微雪154寸墨水屏驱动及接口代码"
 date:   2023-09-29
 tags: [STM32,墨水,代码,初始化,微雪]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "查杀磁盘U盘Synaptics（蠕虫病毒）工具"
+title: "查杀磁盘U盘Synaptics蠕虫病毒工具"
 date:   2022-05-26
 tags: [扫描,U盘,文件,病毒,查杀]
 comments: true

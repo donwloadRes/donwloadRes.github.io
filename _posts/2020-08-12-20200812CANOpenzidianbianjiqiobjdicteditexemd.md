@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANOpen字典编辑器 - objdictedit.exe"
+title: "CANOpen字典编辑器  objdicteditexe"
 date:   2020-09-30
 tags: [objdictedit,exe,CANopen,字典,编辑]
 comments: true

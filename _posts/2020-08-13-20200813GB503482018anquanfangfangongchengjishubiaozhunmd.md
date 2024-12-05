@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB50348-2018 安全防范工程技术标准"
+title: "GB503482018 安全防范工程技术标准"
 date:   2021-09-23
 tags: [防范,GB50348,2018,安全,工程技术]
 comments: true

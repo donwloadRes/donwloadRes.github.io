@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "调试备忘录：SWD协议解析 - 洛神殇 - 博客园1"
+title: "调试备忘录SWD协议解析  洛神殇  博客园1"
 date:   2020-02-27
 tags: [SWD,调试,协议,文件,博客园]
 comments: true

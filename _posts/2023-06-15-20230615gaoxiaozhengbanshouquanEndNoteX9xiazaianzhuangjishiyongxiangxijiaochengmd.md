@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高校正版授权EndNote X9下载、安装及使用详细教程"
+title: "高校正版授权EndNote X9下载安装及使用详细教程"
 date:   2024-03-21
 tags: [EndNote,X9,正版,安装,安装包]
 comments: true

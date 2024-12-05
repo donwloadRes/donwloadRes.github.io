@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMT2300A_DemoEasy_v1.1实例程序stm32"
+title: "CMT2300ADemoEasyv11实例程序stm32"
 date:   2021-03-05
 tags: [CMT2300A,v1.1,实例,程序,DemoEasy]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt高级窗口停靠系统：开源Dock资源"
+title: "Qt高级窗口停靠系统开源Dock资源"
 date:   2020-12-24
 tags: [窗口,停靠,Qt,开源,用户]
 comments: true

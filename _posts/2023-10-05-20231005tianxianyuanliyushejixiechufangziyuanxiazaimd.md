@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线原理与设计-谢处方 资源下载"
+title: "天线原理与设计谢处方 资源下载"
 date:   2020-07-07
 tags: [天线,资源,原理,设计,处方]
 comments: true

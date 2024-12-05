@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCL脚本语言手册(很详细)"
+title: "TCL脚本语言手册很详细"
 date:   2021-03-30
 tags: [TCL,脚本语言,硬件,调试,本手册]
 comments: true

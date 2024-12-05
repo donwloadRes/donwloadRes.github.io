@@ -1,6 +1,48 @@
 ---
 layout: post
-title: "Microsoft.Jet.OLEDB.4.0 及 Microsoft.ACE.OLEDB.12.0 未注册解决方法"
+title: "MicrosoftJetOLEDB40 及 MicrosoftACEOLEDB120 未注册解决方法
+date   20210620
+tags MicrosoftFilesdll未注册Jet
+comments true
+author admin
+
+ MicrosoftJetOLEDB40 及 MicrosoftACEOLEDB120 未注册解决方法
+
+ 资源文件描述
+
+在使用C开发过程中有时会遇到以下错误提示
+
+ 未在本地计算机上注册MicrosoftJetOLEDB40提供程序
+ 未在本地计算机上注册MicrosoftACEOLEDB120提供程序
+
+这些错误通常是由于系统中缺少相应的OLE DB提供程序导致的本资源文件提供了解决这些问题的详细步骤和所需文件
+
+ 解决方法
+
+ 1 安装 Microsoft Access Database Engine
+
+首先确保你的系统中安装了Microsoft Access Database Engine你可以从微软官方网站下载并安装适合你系统的版本
+
+ 2 注册 OLE DB 提供程序
+
+如果你已经安装了Microsoft Access Database Engine但仍然遇到未注册的错误可以尝试手动注册这些提供程序
+
+ 注册 MicrosoftJetOLEDB40
+
+1 打开命令提示符以管理员身份运行
+2 输入以下命令并按回车键
+   
+   regsvr32 CProgram FilesCommon FilesSystemadomsjrodll
+   regsvr32 CProgram FilesCommon FilesSystemadomsado15dll
+   
+
+ 注册 MicrosoftACEOLEDB120
+
+1 打开命令提示符以管理员身份运行
+2 输入以下命令并按回车键
+   
+   regsvr32 CProgram FilesCommon FilesSystemadomsjrodll
+   regsvr32 CProgram FilesCommon FilesSystemadomsado15dll"
 date:   2021-06-20
 tags: [Microsoft,Files,dll,未注册,Jet]
 comments: true

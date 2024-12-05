@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7 安装 Dlib 库指南"
+title: "Python 37 安装 Dlib 库指南"
 date:   2021-09-03
 tags: [Dlib,安装,Python,下载,3.7]
 comments: true

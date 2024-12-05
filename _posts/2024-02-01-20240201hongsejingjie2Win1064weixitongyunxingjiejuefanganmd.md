@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红色警戒2 Win10&64位系统运行解决方案"
+title: "红色警戒2 Win1064位系统运行解决方案"
 date:   2022-09-02
 tags: [红色警戒,文件,exe,游戏,64]
 comments: true

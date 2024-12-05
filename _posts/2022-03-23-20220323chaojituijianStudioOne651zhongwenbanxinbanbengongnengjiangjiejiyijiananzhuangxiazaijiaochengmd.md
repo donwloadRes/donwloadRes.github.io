@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【超级推荐】 Studio One 6.5.1中文版新版本功能讲解及一键安装下载教程"
+title: "超级推荐 Studio One 651中文版新版本功能讲解及一键安装下载教程"
 date:   2022-10-11
 tags: [Studio,6.5,教程,安装,中文版]
 comments: true

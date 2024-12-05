@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习Python 第5版(影印版) PDF 资源下载"
+title: "学习Python 第5版影印版 PDF 资源下载"
 date:   2024-07-08
 tags: [Python,PDF,影印版,学习,下载]
 comments: true

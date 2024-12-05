@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agilent_PLTS2014 资源文件介绍"
+title: "AgilentPLTS2014 资源文件介绍"
 date:   2020-05-19
 tags: [Agilent,PLTS2014,高速,互连,测量]
 comments: true

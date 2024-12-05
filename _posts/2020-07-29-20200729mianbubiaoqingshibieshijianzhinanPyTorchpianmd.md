@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面部表情识别实践指南 - PyTorch篇"
+title: "面部表情识别实践指南  PyTorch篇"
 date:   2020-11-23
 tags: [识别,表情,面部,PyTorch,学习]
 comments: true

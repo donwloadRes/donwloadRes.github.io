@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VM ware 虚拟机安装与配置Linux系统教程（详细图解！）"
+title: "VM ware 虚拟机安装与配置Linux系统教程详细图解"
 date:   2024-09-14
 tags: [虚拟机,Linux,VM,ware,安装]
 comments: true

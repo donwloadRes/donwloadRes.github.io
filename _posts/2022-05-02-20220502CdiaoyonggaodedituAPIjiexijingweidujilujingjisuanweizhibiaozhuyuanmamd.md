@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用高德地图API解析经纬度及路径计算、位置标注源码"
+title: "C调用高德地图API解析经纬度及路径计算位置标注源码"
 date:   2024-09-05
 tags: [API,高德,源码,地图,经纬度]
 comments: true

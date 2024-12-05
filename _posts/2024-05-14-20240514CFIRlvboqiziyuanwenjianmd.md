@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# FIR滤波器资源文件"
+title: "C FIR滤波器资源文件"
 date:   2023-12-20
 tags: [滤波器,C#,FIR,文件,资源]
 comments: true

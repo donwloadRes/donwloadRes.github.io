@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS LS-DYNA动力分析方法与工程实例（第二版）资源下载"
+title: "ANSYS LSDYNA动力分析方法与工程实例第二版资源下载"
 date:   2021-05-16
 tags: [DYNA,ANSYS,LS,实例,资源]
 comments: true

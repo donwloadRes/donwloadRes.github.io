@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功-S32DS快速入门.pdf"
+title: "周立功S32DS快速入门pdf"
 date:   2024-07-06
 tags: [S32DS,pdf,S32,开发,学习]
 comments: true

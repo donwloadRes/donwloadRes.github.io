@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kylin Server 10 SP1 Release Build20 - 银河麒麟V10 鲲鹏ARM版本"
+title: "Kylin Server 10 SP1 Release Build20  银河麒麟V10 鲲鹏ARM版本"
 date:   2020-02-13
 tags: [Kylin,V10,Server,10,SP1]
 comments: true

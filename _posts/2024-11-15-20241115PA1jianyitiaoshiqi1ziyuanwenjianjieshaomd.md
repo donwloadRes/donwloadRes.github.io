@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PA1-简易调试器1 资源文件介绍"
+title: "PA1简易调试器1 资源文件介绍"
 date:   2023-04-24
 tags: [调试器,实验,代码,实验报告,简易]
 comments: true

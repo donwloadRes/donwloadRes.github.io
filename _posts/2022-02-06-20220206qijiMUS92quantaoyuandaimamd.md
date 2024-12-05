@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奇迹MU-S9.2全套源代码"
+title: "奇迹MUS92全套源代码"
 date:   2024-03-01
 tags: [源代码,客户端,Visual,Studio,服务端]
 comments: true

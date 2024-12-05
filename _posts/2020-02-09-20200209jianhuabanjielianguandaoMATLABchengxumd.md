@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简化版捷联惯导+MATLAB程序"
+title: "简化版捷联惯导MATLAB程序"
 date:   2022-07-29
 tags: [MATLAB,惯导,捷联,仿真,简化版]
 comments: true

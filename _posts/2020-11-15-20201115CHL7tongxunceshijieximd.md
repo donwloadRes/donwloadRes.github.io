@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HL7 通讯测试解析"
+title: "C HL7 通讯测试解析"
 date:   2024-12-02
 tags: [HL7,解析,示例,文件,代码]
 comments: true

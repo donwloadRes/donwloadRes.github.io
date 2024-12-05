@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITE_EC_Demo 资源文件介绍"
+title: "ITEECDemo 资源文件介绍"
 date:   2024-05-06
 tags: [EC,ITE,代码,Demo,学习]
 comments: true

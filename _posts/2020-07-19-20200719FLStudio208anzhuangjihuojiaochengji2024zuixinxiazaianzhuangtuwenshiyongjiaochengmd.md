@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 20.8 安装激活教程及2024最新下载安装图文使用教程"
+title: "FL Studio 208 安装激活教程及2024最新下载安装图文使用教程"
 date:   2020-04-04
 tags: [FL,Studio,20.8,教程,激活]
 comments: true

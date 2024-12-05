@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200SMART常用库文件"
+title: "S7200SMART常用库文件"
 date:   2024-05-27
 tags: [S7,200SMART,文件,编程,PLC]
 comments: true

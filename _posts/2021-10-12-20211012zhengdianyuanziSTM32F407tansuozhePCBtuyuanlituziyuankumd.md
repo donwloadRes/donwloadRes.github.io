@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子STM32F407探索者PCB图+原理图资源库"
+title: "正点原子STM32F407探索者PCB图原理图资源库"
 date:   2023-08-24
 tags: [PCB,原理图,探索者,STM32F407,3D]
 comments: true

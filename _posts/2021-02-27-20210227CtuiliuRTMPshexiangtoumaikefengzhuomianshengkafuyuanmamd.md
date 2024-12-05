@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#推流RTMP：摄像头、麦克风、桌面、声卡（附源码）"
+title: "C推流RTMP摄像头麦克风桌面声卡附源码"
 date:   2023-07-21
 tags: [服务器,RTMP,推流,浏览器,Nginx]
 comments: true

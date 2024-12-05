@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用与操作USB摄像头指南"
+title: "C调用与操作USB摄像头指南"
 date:   2023-12-23
 tags: [摄像头,USB,C#,连接,代码]
 comments: true

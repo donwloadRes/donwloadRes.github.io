@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualStudio2019 配置点云库 PCL1.11.1+斯坦福兔子测试"
+title: "VisualStudio2019 配置点云库 PCL1111斯坦福兔子测试"
 date:   2022-06-14
 tags: [PCL1.11,配置,VisualStudio2019,斯坦福,教程]
 comments: true

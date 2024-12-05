@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typecho 1.2.0 最新通用发布插件 - 免登录版本"
+title: "Typecho 120 最新通用发布插件  免登录版本"
 date:   2020-11-03
 tags: [插件,Typecho,1.2,发布,版本]
 comments: true

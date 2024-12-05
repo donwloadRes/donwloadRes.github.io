@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "五子棋大作业（C++资源实现）"
+title: "五子棋大作业C资源实现"
 date:   2020-11-06
 tags: [对战,AI,黑屏,玩家,人机]
 comments: true

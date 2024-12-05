@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5实战项目：武汉大学建筑知识系统源代码"
+title: "PyQt5实战项目武汉大学建筑知识系统源代码"
 date:   2020-03-30
 tags: [PyQt5,Python,模型,建筑,源代码]
 comments: true

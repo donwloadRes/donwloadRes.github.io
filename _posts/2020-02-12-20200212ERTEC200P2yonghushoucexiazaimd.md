@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ERTEC200P-2用户手册下载"
+title: "ERTEC200P2用户手册下载"
 date:   2021-02-05
 tags: [ERTEC200P,用户手册,芯片,手册,下载]
 comments: true

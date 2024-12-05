@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "c# UDP通讯示例Demo"
+title: "c UDP通讯示例Demo"
 date:   2023-03-31
 tags: [UDP,示例,Demo,C#,通讯]
 comments: true

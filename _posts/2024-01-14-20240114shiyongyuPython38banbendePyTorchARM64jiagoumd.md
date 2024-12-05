@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适用于Python 3.8版本的PyTorch（ARM64架构）"
+title: "适用于Python 38版本的PyTorchARM64架构"
 date:   2021-06-21
 tags: [Python,PyTorch,3.8,Yolo,ARM64]
 comments: true

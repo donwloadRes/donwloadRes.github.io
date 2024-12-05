@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斑马扫描枪设置说明书（官方图纸）"
+title: "斑马扫描枪设置说明书官方图纸"
 date:   2020-07-02
 tags: [扫描枪,设置,说明书,斑马,图纸]
 comments: true

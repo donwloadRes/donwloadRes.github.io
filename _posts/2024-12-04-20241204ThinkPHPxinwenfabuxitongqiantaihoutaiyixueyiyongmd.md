@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPHP新闻发布系统（前台+后台）易学易用"
+title: "ThinkPHP新闻发布系统前台后台易学易用"
 date:   2021-09-14
 tags: [ThinkPHP,后台,前台,发布,系统]
 comments: true

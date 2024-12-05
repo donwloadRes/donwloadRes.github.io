@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新USB转串口驱动：Silicon Labs CP210x USB to UART Bridge"
+title: "最新USB转串口驱动Silicon Labs CP210x USB to UART Bridge"
 date:   2022-08-25
 tags: [驱动程序,USB,CP210x,串口,Silicon]
 comments: true

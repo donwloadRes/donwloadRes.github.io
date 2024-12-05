@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCANLAB激光控制卡-RTC6 说明书"
+title: "SCANLAB激光控制卡RTC6 说明书"
 date:   2024-10-29
 tags: [控制卡,激光,SCANLAB,说明书,RTC6]
 comments: true

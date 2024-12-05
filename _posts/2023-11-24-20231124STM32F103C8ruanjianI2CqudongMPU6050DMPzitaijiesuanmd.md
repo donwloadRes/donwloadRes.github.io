@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8 - 软件I2C驱动MPU6050（DMP姿态解算）"
+title: "STM32F103C8  软件I2C驱动MPU6050DMP姿态解算"
 date:   2023-05-27
 tags: [I2C,STM32F103C8,姿态,MPU6050,OLED]
 comments: true

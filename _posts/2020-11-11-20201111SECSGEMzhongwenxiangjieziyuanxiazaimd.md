@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS-GEM 中文详解资源下载"
+title: "SECSGEM 中文详解资源下载"
 date:   2023-08-08
 tags: [SECS,GEM,数据传输,介绍,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hillstone山石配置手册（全）下载"
+title: "Hillstone山石配置手册全下载"
 date:   2020-03-31
 tags: [配置,Hillstone,手册,防火墙,山石]
 comments: true

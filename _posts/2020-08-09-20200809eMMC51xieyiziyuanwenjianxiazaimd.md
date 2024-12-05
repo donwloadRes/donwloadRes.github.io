@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC5.1协议资源文件下载"
+title: "eMMC51协议资源文件下载"
 date:   2021-09-11
 tags: [eMMC5.1,文件,协议,资源,嵌入式]
 comments: true

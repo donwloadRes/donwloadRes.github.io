@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新CCNP实验手册_完整版"
+title: "最新CCNP实验手册完整版"
 date:   2020-06-10
 tags: [CCNP,手册,完整版,实验,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADXL354-355低功耗3轴MEMS加速度计中文数据手册"
+title: "ADXL354355低功耗3轴MEMS加速度计中文数据手册"
 date:   2020-10-16
 tags: [加速度计,低功耗,ADXL354,MEMS,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口在线升级IAP+ymodemDown资源介绍"
+title: "STM32串口在线升级IAPymodemDown资源介绍"
 date:   2022-08-05
 tags: [STM32,固件,串口,源码,PC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞思迈呼吸机数据读取分析软件 ResScan 5.9 下载"
+title: "瑞思迈呼吸机数据读取分析软件 ResScan 59 下载"
 date:   2020-10-02
 tags: [ResScan,5.9,软件,读取,瑞思迈]
 comments: true

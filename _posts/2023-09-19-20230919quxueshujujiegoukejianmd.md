@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "趣学数据结构》课件"
+title: "趣学数据结构课件"
 date:   2021-01-12
 tags: [课件,数据结构,趣学,学习,RAR]
 comments: true

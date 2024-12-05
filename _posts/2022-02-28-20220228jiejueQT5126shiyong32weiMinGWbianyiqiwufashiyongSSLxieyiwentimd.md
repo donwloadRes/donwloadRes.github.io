@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决QT5.12.6使用32位MinGW编译器无法使用SSL协议问题"
+title: "解决QT5126使用32位MinGW编译器无法使用SSL协议问题"
 date:   2021-06-21
 tags: [SSL,32,MinGW,编译器,QT5.12]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO26262汽车功能安全学习笔记(纯手绘版-思维导图)"
+title: "ISO26262汽车功能安全学习笔记纯手绘版思维导图"
 date:   2023-12-03
 tags: [ISO26262,导图,思维,手绘,功能]
 comments: true

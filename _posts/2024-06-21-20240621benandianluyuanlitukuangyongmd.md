@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本安电路原理图-矿用"
+title: "本安电路原理图矿用"
 date:   2024-10-11
 tags: [电路,原理图,本安,安全,本质]
 comments: true

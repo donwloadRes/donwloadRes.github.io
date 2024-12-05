@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件设计模式与体系结构（讲解+代码）"
+title: "软件设计模式与体系结构讲解代码"
 date:   2020-02-14
 tags: [模式,架构,体系结构,过滤器,软件设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功能强大的有源滤波器设计软件 - Filter Design Wizard"
+title: "功能强大的有源滤波器设计软件  Filter Design Wizard"
 date:   2023-01-31
 tags: [滤波器,设计,有源,软件,Filter]
 comments: true

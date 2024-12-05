@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ORCAD 16.3 绿色免安装版"
+title: "ORCAD 163 绿色免安装版"
 date:   2024-06-16
 tags: [ORCAD,电路设计,解压,16.3,绿色]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb搭建学生管理系统（手把手）"
+title: "JavaWeb搭建学生管理系统手把手"
 date:   2024-09-08
 tags: [JavaWeb,界面,创建,存放,学生]
 comments: true

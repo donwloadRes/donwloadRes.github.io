@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ORB-SLAM2源码中文详解"
+title: "ORBSLAM2源码中文详解"
 date:   2023-12-08
 tags: [ORB,源码,SLAM2,SLAM,详解]
 comments: true

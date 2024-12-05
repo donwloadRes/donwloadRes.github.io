@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python计算机视觉（中英文版本）pdf+源代码"
+title: "Python计算机视觉中英文版本pdf源代码"
 date:   2024-05-09
 tags: [视觉,Python,计算机,源代码,文档]
 comments: true

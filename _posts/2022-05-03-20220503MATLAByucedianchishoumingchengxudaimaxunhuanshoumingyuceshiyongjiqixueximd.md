@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB预测电池寿命程序代码 - 循环寿命预测使用机器学习"
+title: "MATLAB预测电池寿命程序代码  循环寿命预测使用机器学习"
 date:   2024-08-13
 tags: [数据,寿命,MATLAB,循环,电池]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-金牌讲师课件及其代码"
+title: "Python金牌讲师课件及其代码"
 date:   2021-09-18
 tags: [Python,课件,编程,学习,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CubeMX STM32通过ESP8266实现WIFI控制小车（HAL库）"
+title: "CubeMX STM32通过ESP8266实现WIFI控制小车HAL库"
 date:   2021-10-02
 tags: [ESP8266,WIFI,串口,STM32,HAL]
 comments: true

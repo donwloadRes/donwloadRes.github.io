@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven工程的MapReduce程序3 --- 实现统计各部门员工薪水总和功能(优化)"
+title: "Maven工程的MapReduce程序3  实现统计各部门员工薪水总和功能优化"
 date:   2020-08-03
 tags: [MapReduce,Maven,Hadoop,薪水,员工]
 comments: true

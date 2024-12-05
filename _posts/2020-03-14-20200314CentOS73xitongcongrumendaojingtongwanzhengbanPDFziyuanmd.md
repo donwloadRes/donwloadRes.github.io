@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.3系统从入门到精通完整版PDF资源"
+title: "CentOS 73系统从入门到精通完整版PDF资源"
 date:   2024-02-15
 tags: [CentOS,7.3,PDF,Linux,系统]
 comments: true

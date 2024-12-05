@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows PowerShell 2.0 安装包"
+title: "Windows PowerShell 20 安装包"
 date:   2024-02-11
 tags: [Windows,PowerShell,2.0,安装包,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sentinel-2 L1C数据预处理教程"
+title: "Sentinel2 L1C数据预处理教程"
 date:   2021-11-04
 tags: [ENVI,波段,Sen2Cor,采样,教程]
 comments: true

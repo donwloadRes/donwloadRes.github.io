@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Signal Processing Toolbox for MATLAB - 信号处理工具箱"
+title: "Signal Processing Toolbox for MATLAB  信号处理工具箱"
 date:   2022-09-12
 tags: [工具箱,MATLAB,信号处理,signal,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPS类游戏辅助工具：一键断网瞬移器"
+title: "FPS类游戏辅助工具一键断网瞬移器"
 date:   2024-01-26
 tags: [断网,瞬移,游戏,玩家,盾牌]
 comments: true

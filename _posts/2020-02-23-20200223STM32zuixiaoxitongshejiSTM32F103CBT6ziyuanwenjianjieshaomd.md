@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32最小系统设计（STM32F103CBT6）资源文件介绍"
+title: "STM32最小系统设计STM32F103CBT6资源文件介绍"
 date:   2020-12-19
 tags: [设计,原理图,STM32,文档,文件]
 comments: true

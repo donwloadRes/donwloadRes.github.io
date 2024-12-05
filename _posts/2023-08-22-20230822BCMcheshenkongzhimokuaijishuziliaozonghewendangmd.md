@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCM车身控制模块技术资料-综合文档"
+title: "BCM车身控制模块技术资料综合文档"
 date:   2024-06-23
 tags: [BCM,文档,模块,车身,技术]
 comments: true

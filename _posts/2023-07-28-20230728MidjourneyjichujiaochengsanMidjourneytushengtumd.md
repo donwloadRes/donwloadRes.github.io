@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Midjourney 基础教程（三）：Midjourney 图生图"
+title: "Midjourney 基础教程三Midjourney 图生图"
 date:   2023-06-14
 tags: [Midjourney,图生,AI,图像,基础教程]
 comments: true

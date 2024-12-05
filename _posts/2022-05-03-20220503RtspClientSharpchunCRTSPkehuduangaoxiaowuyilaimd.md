@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RtspClientSharp：纯C# RTSP客户端，高效、无依赖"
+title: "RtspClientSharp纯C RTSP客户端高效无依赖"
 date:   2024-10-26
 tags: [RtspClientSharp,C#,RTSP,NET,客户端]
 comments: true

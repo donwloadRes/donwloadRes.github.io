@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机森林工具包randomforest-matlab介绍"
+title: "随机森林工具包randomforestmatlab介绍"
 date:   2024-07-16
 tags: [工具包,randomforest,matlab,Matlab,随机]
 comments: true

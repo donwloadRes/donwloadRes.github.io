@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人内部培训资料（中文版）"
+title: "ABB机器人内部培训资料中文版"
 date:   2022-04-29
 tags: [BB机,器人,培训资料,应用,中文版]
 comments: true

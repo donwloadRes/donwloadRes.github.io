@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双同步解耦坐标系锁相环--DDSRFSPLL 资源下载"
+title: "双同步解耦坐标系锁相环DDSRFSPLL 资源下载"
 date:   2022-04-18
 tags: [锁相环,DDSRFSPLL,坐标系,下载,--]
 comments: true

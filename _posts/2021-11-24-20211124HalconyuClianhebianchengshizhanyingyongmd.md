@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon与C#联合编程实战应用"
+title: "Halcon与C联合编程实战应用"
 date:   2024-02-11
 tags: [Halcon,C#,图像处理,https,海康]
 comments: true

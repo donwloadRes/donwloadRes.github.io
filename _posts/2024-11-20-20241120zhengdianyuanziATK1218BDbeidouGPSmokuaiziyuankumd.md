@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子 ATK-1218-BD 北斗GPS模块资源库"
+title: "正点原子 ATK1218BD 北斗GPS模块资源库"
 date:   2024-05-01
 tags: [模块,资源库,ATK,1218,BD]
 comments: true

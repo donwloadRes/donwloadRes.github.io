@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm 60种非常漂亮界面样式\皮肤(经典无偿奉献)"
+title: "WinForm 60种非常漂亮界面样式皮肤经典无偿奉献"
 date:   2021-10-30
 tags: [样式,界面,WinForm,应用程序,皮肤]
 comments: true

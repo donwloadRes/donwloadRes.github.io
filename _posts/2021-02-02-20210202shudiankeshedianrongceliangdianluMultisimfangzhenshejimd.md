@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-电容测量电路Multisim仿真设计"
+title: "数电课设电容测量电路Multisim仿真设计"
 date:   2021-03-20
 tags: [电容,仿真,电路,测量,设计]
 comments: true

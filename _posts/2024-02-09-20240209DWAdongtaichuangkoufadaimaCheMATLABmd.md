@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DWA动态窗口法代码C++和MATLAB"
+title: "DWA动态窗口法代码C和MATLAB"
 date:   2022-12-07
 tags: [MATLAB,代码,DWA,C++,算法]
 comments: true

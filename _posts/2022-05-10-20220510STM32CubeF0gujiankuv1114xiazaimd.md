@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeF0 固件库 v1.11.4 下载"
+title: "STM32CubeF0 固件库 v1114 下载"
 date:   2020-03-03
 tags: [v1.11,STM32CubeF0,固件,下载,版本]
 comments: true

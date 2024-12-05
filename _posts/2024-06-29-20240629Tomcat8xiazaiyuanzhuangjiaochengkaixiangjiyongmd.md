@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomcat8下载与安装教程 - 开箱即用"
+title: "Tomcat8下载与安装教程  开箱即用"
 date:   2023-01-21
 tags: [安装,Tomcat8,Tomcat,下载,教程]
 comments: true

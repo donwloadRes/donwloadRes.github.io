@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android TextToSpeech TTS：中文文本转语音合成指南"
+title: "Android TextToSpeech TTS中文文本转语音合成指南"
 date:   2020-09-04
 tags: [TextToSpeech,语音,Android,中文,文本]
 comments: true

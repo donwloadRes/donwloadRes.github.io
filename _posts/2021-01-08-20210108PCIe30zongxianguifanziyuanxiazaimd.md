@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 3.0 总线规范资源下载"
+title: "PCIe 30 总线规范资源下载"
 date:   2023-03-25
 tags: [总线,3.0,PCIe,规范,文件]
 comments: true

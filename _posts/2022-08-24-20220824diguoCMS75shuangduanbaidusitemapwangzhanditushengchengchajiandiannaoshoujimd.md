@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "帝国CMS 7.5 双端百度sitemap网站地图生成插件（电脑+手机）"
+title: "帝国CMS 75 双端百度sitemap网站地图生成插件电脑手机"
 date:   2020-09-07
 tags: [插件,sitemap,生成,菜单,网站]
 comments: true

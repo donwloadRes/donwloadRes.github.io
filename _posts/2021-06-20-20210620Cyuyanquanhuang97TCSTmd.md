@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言拳皇97(TCS~T)"
+title: "C语言拳皇97TCST"
 date:   2020-12-07
 tags: [拳皇,97,C语言,玩家,游戏]
 comments: true

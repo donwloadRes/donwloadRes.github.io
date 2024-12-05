@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX6D&IMX6Q官方技术文档合集"
+title: "IMX6DIMX6Q官方技术文档合集"
 date:   2022-03-16
 tags: [文档,IMX6D,处理器,IMX6Q,手册]
 comments: true

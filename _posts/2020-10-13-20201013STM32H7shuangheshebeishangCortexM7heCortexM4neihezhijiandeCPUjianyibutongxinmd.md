@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H7双核设备上Cortex-M7和Cortex-M4内核之间的CPU间异步通信"
+title: "STM32H7双核设备上CortexM7和CortexM4内核之间的CPU间异步通信"
 date:   2024-01-16
 tags: [Cortex,示例,STM32H7,双核,内核]
 comments: true

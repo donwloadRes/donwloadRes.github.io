@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GRBL 0.8源码在STM32上的移植"
+title: "GRBL 08源码在STM32上的移植"
 date:   2021-07-31
 tags: [STM32,GRBL,源码,开源,移植]
 comments: true

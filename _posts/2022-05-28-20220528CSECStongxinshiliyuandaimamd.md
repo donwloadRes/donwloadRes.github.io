@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SECS 通信实例源代码"
+title: "C SECS 通信实例源代码"
 date:   2020-10-27
 tags: [SECS,C#,通信,源代码,实例]
 comments: true

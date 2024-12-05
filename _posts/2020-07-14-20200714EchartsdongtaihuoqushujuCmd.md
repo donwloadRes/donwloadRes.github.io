@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Echarts动态获取数据（C#）"
+title: "Echarts动态获取数据C"
 date:   2020-08-26
 tags: [Echarts,data,数据,C#,序列化]
 comments: true

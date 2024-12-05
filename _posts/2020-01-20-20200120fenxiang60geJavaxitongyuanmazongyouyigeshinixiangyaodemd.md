@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享60个Java系统源码，总有一个是你想要的"
+title: "分享60个Java系统源码总有一个是你想要的"
 date:   2022-10-19
 tags: [Java,源码,管理系统,学习,系统]
 comments: true

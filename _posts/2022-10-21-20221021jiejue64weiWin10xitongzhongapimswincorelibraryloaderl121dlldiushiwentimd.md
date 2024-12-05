@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决64位Win10系统中api-ms-win-core-libraryloader-l1-2-1.dll丢失问题"
+title: "解决64位Win10系统中apimswincorelibraryloaderl121dll丢失问题"
 date:   2022-05-22
 tags: [api,ms,win,core,libraryloader]
 comments: true

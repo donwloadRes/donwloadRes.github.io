@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用原理图元件符号、PCB封装及所在库资源文件介绍"
+title: "常用原理图元件符号PCB封装及所在库资源文件介绍"
 date:   2024-11-24
 tags: [封装,PCB,原理图,元件,符号]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EXE解包工具 V5.1 资源介绍"
+title: "EXE解包工具 V51 资源介绍"
 date:   2022-09-25
 tags: [EXE,解包,工具,V5.1,解压]
 comments: true

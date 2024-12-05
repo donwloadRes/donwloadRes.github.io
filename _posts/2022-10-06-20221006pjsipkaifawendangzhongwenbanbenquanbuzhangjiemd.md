@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pjsip开发文档中文版本(全部章节)"
+title: "pjsip开发文档中文版本全部章节"
 date:   2020-04-04
 tags: [文档,pjsip,章节,开发,中文]
 comments: true

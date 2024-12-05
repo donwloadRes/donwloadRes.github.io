@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机+ADC0809数字电压表仿真设计"
+title: "基于51单片机ADC0809数字电压表仿真设计"
 date:   2021-08-05
 tags: [仿真,电压表,文件,51,单片机]
 comments: true

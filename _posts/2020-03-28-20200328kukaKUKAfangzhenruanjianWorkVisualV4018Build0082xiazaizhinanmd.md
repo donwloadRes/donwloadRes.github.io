@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "库卡KUKA仿真软件 WorkVisual_V4.0.18_Build0082 下载指南"
+title: "库卡KUKA仿真软件 WorkVisualV4018Build0082 下载指南"
 date:   2024-01-19
 tags: [库卡,下载,仿真,WorkVisual,V4.0]
 comments: true

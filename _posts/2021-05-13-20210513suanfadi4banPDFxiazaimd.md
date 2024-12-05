@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法-第4版 PDF 下载"
+title: "算法第4版 PDF 下载"
 date:   2024-07-16
 tags: [PDF,算法,复制,Java,文字版]
 comments: true

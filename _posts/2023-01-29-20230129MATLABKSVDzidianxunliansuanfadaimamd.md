@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB K-SVD字典训练算法代码"
+title: "MATLAB KSVD字典训练算法代码"
 date:   2023-11-23
 tags: [SVD,字典,代码,MATLAB,训练]
 comments: true

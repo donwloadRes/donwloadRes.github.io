@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ STL教程PDF"
+title: "C STL教程PDF"
 date:   2023-11-03
 tags: [STL,C++,教程,容器,编程]
 comments: true

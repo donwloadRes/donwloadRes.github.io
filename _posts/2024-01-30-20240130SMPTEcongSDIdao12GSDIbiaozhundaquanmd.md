@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMPTE从SDI到12G-SDI标准大全"
+title: "SMPTE从SDI到12GSDI标准大全"
 date:   2023-03-17
 tags: [SDI,SMPTE,标准,音视频,12G]
 comments: true

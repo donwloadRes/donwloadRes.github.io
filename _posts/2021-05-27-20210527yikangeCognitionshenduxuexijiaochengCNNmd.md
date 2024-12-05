@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易康eCognition深度学习教程 - CNN"
+title: "易康eCognition深度学习教程  CNN"
 date:   2021-06-01
 tags: [eCognition,教程,深度,易康,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.2 Android 调用摄像头示例"
+title: "Delphi 102 Android 调用摄像头示例"
 date:   2021-02-03
 tags: [摄像头,示例,Delphi,10.2,Android]
 comments: true

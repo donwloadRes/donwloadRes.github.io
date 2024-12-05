@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WIN10 WinForm调用大漠插件3.1233 最后免费版示例工程"
+title: "C WIN10 WinForm调用大漠插件31233 最后免费版示例工程"
 date:   2020-03-03
 tags: [插件,示例,大漠,C#,WinForm]
 comments: true

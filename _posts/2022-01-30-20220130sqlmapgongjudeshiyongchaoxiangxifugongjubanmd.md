@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sqlmap工具的使用 (超详细附工具版)"
+title: "sqlmap工具的使用 超详细附工具版"
 date:   2024-07-09
 tags: [sqlmap,工具,使用,详细,文件]
 comments: true

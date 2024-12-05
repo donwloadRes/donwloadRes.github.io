@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业机器人KUKA仿真软件 KUKA.Simpro"
+title: "工业机器人KUKA仿真软件 KUKASimpro"
 date:   2020-01-09
 tags: [KUKA,Simpro,机器人,https,仿真]
 comments: true

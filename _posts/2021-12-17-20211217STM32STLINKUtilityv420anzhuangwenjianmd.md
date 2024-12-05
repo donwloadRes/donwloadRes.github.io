@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ST-LINK Utility v4.2.0 安装文件"
+title: "STM32 STLINK Utility v420 安装文件"
 date:   2022-05-16
 tags: [ST,STM32,LINK,烧录,Utility]
 comments: true

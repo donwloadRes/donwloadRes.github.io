@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络工程师教程-完整书签版 第五版PDF"
+title: "网络工程师教程完整书签版 第五版PDF"
 date:   2024-06-21
 tags: [书签,第五版,PDF,教程,网络工程]
 comments: true

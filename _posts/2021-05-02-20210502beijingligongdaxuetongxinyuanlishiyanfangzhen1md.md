@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京理工大学通信原理实验-仿真1"
+title: "北京理工大学通信原理实验仿真1"
 date:   2023-11-20
 tags: [仿真,实验,原理,通信,北京理工大学]
 comments: true

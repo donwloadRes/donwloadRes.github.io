@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享66个Java源码，总有一款适合您"
+title: "分享66个Java源码总有一款适合您"
 date:   2023-09-10
 tags: [源码,Java,66,开发者,项目]
 comments: true

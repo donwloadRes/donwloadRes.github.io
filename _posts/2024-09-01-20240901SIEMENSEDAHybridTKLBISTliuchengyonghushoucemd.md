@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIEMENS EDA Hybrid TK-LBIST 流程用户手册"
+title: "SIEMENS EDA Hybrid TKLBIST 流程用户手册"
 date:   2020-08-07
 tags: [SIEMENS,EDA,LBIST,Hybrid,TK]
 comments: true

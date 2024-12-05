@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PingFang（苹方）字体引用资源文件介绍"
+title: "PingFang苹方字体引用资源文件介绍"
 date:   2020-03-15
 tags: [苹方,font,PingFang,字体,文件]
 comments: true

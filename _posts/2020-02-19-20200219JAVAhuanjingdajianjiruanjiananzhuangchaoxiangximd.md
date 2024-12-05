@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA环境搭建及软件安装（超详细）"
+title: "JAVA环境搭建及软件安装超详细"
 date:   2020-02-16
 tags: [JDK,JAVA,安装,环境变量,搭建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德国-帕德博恩大学轴承数据集解读"
+title: "德国帕德博恩大学轴承数据集解读"
 date:   2021-01-12
 tags: [损伤,轴承,数据,信号,故障诊断]
 comments: true

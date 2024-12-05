@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-OpenCV Haar LBP级联分类器下载与训练模型"
+title: "PythonOpenCV Haar LBP级联分类器下载与训练模型"
 date:   2024-10-13
 tags: [分类器,级联,模型,Python,OpenCV]
 comments: true

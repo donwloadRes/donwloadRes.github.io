@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复分析可视化方法 - Tristan Needham 扫描版"
+title: "复分析可视化方法  Tristan Needham 扫描版"
 date:   2024-07-24
 tags: [复分析,可视化,Tristan,Needham,PDF]
 comments: true

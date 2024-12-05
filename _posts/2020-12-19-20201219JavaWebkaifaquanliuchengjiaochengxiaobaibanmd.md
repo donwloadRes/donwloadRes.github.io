@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Web开发全流程教程（小白版）"
+title: "Java Web开发全流程教程小白版"
 date:   2020-07-15
 tags: [Web,Java,教程,开发,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-PCA降维人脸识别"
+title: "PythonPCA降维人脸识别"
 date:   2023-11-05
 tags: [PCA,Python,人脸识别,人脸,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.5.2 安装程序下载"
+title: "NET Framework 452 安装程序下载"
 date:   2024-07-11
 tags: [4.5,NET,Framework,安装,安装程序]
 comments: true

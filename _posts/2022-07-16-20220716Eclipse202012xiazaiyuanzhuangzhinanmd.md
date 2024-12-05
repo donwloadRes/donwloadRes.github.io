@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 2020-12 下载与安装指南"
+title: "Eclipse 202012 下载与安装指南"
 date:   2020-05-20
 tags: [Eclipse,下载,12,2020,安装]
 comments: true

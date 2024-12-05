@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摸鱼-效率神器：window2clear 任意窗口透明化工具"
+title: "摸鱼效率神器window2clear 任意窗口透明化工具"
 date:   2021-01-20
 tags: [window2clear,方向键,Alt,摸鱼,窗口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows事件ID及解释大全(非常完整)"
+title: "Windows事件ID及解释大全非常完整"
 date:   2020-04-14
 tags: [Windows,ID,事件,文档,操作系统]
 comments: true

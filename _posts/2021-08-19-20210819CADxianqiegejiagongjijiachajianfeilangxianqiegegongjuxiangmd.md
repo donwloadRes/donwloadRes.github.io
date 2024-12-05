@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD线切割加工计价插件 - 飞狼线切割工具箱"
+title: "CAD线切割加工计价插件  飞狼线切割工具箱"
 date:   2020-02-06
 tags: [线切割,CAD,工具箱,飞狼,加工]
 comments: true

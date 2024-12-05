@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用灰狼优化算法（GWO）增强支持向量机（SVM）性能：Python实现指南"
+title: "利用灰狼优化算法GWO增强支持向量机SVM性能Python实现指南"
 date:   2023-07-21
 tags: [GWO,SVM,优化,灰狼,算法]
 comments: true

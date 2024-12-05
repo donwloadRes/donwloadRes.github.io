@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双向全桥DC-DC双重移相控制 28335程序"
+title: "双向全桥DCDC双重移相控制 28335程序"
 date:   2021-12-13
 tags: [DC,移相,全桥,程序,双重]
 comments: true

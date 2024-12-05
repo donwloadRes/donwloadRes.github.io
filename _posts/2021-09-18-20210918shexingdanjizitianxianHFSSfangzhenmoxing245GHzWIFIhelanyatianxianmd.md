@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蛇形单极子天线HFSS仿真模型（2.45GHz WIFI和蓝牙天线）"
+title: "蛇形单极子天线HFSS仿真模型245GHz WIFI和蓝牙天线"
 date:   2021-04-10
 tags: [天线,仿真,HFSS,蛇形,模型]
 comments: true

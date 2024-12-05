@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA入门学习系列教程（含视频）"
+title: "FPGA入门学习系列教程含视频"
 date:   2020-10-04
 tags: [FPGA,源码,视频教程,学习,入门]
 comments: true

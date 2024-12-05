@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#图形化逻辑控制软件资源介绍"
+title: "C图形化逻辑控制软件资源介绍"
 date:   2021-04-08
 tags: [图形化,C#,GDI,逻辑,控制软件]
 comments: true

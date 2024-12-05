@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BT射频测试规范V5.4 资源下载"
+title: "BT射频测试规范V54 资源下载"
 date:   2020-06-15
 tags: [测试,射频,蓝牙,V5.4,规范]
 comments: true

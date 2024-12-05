@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新LIN2.2通讯协议资源下载"
+title: "最新LIN22通讯协议资源下载"
 date:   2020-09-01
 tags: [通讯,LIN2.2,资源,LIN,PDF]
 comments: true

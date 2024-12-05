@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HLW8032芯片的电能参数采集--附测试软件"
+title: "基于HLW8032芯片的电能参数采集附测试软件"
 date:   2022-03-29
 tags: [HLW8032,芯片,测试软件,电能,参数]
 comments: true

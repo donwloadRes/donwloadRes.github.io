@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米便签（MiNotes）APP维护再开发源代码"
+title: "小米便签MiNotesAPP维护再开发源代码"
 date:   2024-10-03
 tags: [便签,源代码,小米,MiNotes,维护]
 comments: true

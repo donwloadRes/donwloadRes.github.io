@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiddler+Proxifier实现exe抓包功能工具包"
+title: "FiddlerProxifier实现exe抓包功能工具包"
 date:   2022-07-13
 tags: [Proxifier,Fiddler,exe,抓取,抓包]
 comments: true

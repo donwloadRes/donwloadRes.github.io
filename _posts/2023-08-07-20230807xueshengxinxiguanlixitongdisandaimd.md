@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统（第三代）"
+title: "学生信息管理系统第三代"
 date:   2022-04-30
 tags: [学生,Tomcat,信息管理系统,MySQL,Eclipse]
 comments: true

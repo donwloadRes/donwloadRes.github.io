@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YUV Eye 3.0.0 资源下载"
+title: "YUV Eye 300 资源下载"
 date:   2024-09-04
 tags: [图像,YUV,Eye,直方图,3.0]
 comments: true

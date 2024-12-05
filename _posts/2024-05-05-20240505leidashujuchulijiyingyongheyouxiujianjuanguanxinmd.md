@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达数据处理及应用_何友，修建娟，关欣"
+title: "雷达数据处理及应用何友修建娟关欣"
 date:   2020-05-27
 tags: [雷达,数据处理,何友,关欣,目标]
 comments: true

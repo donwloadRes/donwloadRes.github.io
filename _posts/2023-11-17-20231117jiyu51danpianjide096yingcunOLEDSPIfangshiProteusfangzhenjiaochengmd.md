@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的0.96英寸OLED (SPI方式) Proteus仿真教程"
+title: "基于51单片机的096英寸OLED SPI方式 Proteus仿真教程"
 date:   2021-12-01
 tags: [单片机,OLED,Proteus,仿真,51]
 comments: true

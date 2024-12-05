@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单总线CPU设计(现代时序)补充资源"
+title: "单总线CPU设计现代时序补充资源"
 date:   2024-06-26
 tags: [CPU,单总线,时序,设计,资源]
 comments: true

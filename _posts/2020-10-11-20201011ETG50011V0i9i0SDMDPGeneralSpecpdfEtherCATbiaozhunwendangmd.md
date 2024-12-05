@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETG5001_1_V0i9i0_S_D_MDP_GeneralSpec.pdf - EtherCAT标准文档"
+title: "ETG50011V0i9i0SDMDPGeneralSpecpdf  EtherCAT标准文档"
 date:   2023-08-05
 tags: [EtherCAT,文档,以太网,V0i9i0,技术]
 comments: true

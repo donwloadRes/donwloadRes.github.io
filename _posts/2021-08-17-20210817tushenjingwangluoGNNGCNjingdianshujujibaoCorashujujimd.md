@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图神经网络 GNN、GCN经典数据集包 Cora数据集"
+title: "图神经网络 GNNGCN经典数据集包 Cora数据集"
 date:   2020-03-14
 tags: [数据,Cora,神经网络,特征向量,论文]
 comments: true

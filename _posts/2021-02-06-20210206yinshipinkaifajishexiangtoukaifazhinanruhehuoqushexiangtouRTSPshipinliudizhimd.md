@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音视频开发及摄像头开发指南：如何获取摄像头RTSP视频流地址"
+title: "音视频开发及摄像头开发指南如何获取摄像头RTSP视频流地址"
 date:   2024-08-25
 tags: [RTSP,摄像头,ONVIF,地址,音视频]
 comments: true

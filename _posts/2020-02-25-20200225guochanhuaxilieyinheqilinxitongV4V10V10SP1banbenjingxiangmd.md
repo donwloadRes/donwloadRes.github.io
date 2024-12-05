@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【国产化系列】银河麒麟系统V4-V10-V10SP1版本镜像"
+title: "国产化系列银河麒麟系统V4V10V10SP1版本镜像"
 date:   2023-06-14
 tags: [版本,麒麟,操作系统,银河,下载]
 comments: true

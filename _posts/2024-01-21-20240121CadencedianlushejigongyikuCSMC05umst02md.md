@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence电路设计工艺库-CSMC0.5um-st02"
+title: "Cadence电路设计工艺库CSMC05umst02"
 date:   2021-02-13
 tags: [电路设计,工艺,Cadence,um,st02]
 comments: true

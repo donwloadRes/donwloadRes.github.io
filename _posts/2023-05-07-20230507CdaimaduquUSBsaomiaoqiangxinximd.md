@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#代码读取USB扫描枪信息"
+title: "C代码读取USB扫描枪信息"
 date:   2024-03-18
 tags: [TextBox,USB,扫描枪,读取,扫描]
 comments: true

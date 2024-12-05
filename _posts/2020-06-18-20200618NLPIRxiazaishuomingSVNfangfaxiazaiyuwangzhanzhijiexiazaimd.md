@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLPIR下载说明【SVN方法下载与网站直接下载】"
+title: "NLPIR下载说明SVN方法下载与网站直接下载"
 date:   2020-09-24
 tags: [NLPIR,下载,SVN,官方网站,安装]
 comments: true

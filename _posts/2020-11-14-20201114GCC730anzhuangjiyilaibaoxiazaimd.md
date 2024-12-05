@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 7.3.0 安装及依赖包下载"
+title: "GCC 730 安装及依赖包下载"
 date:   2024-04-17
 tags: [安装,GCC,7.3,依赖,说明]
 comments: true

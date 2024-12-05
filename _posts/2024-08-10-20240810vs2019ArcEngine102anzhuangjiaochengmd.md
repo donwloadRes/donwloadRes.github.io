@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vs2019+ArcEngine10.2安装教程"
+title: "vs2019ArcEngine102安装教程"
 date:   2024-05-09
 tags: [Visual,Studio,2019,ArcGIS,安装]
 comments: true

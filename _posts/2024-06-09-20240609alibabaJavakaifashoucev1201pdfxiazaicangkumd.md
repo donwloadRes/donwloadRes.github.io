@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册v1.2.0-1.pdf 下载仓库"
+title: "阿里巴巴Java开发手册v1201pdf 下载仓库"
 date:   2023-04-19
 tags: [Java,手册,v1.2,阿里巴巴,pdf]
 comments: true

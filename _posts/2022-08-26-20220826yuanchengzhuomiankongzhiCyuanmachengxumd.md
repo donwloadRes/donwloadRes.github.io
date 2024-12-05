@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程桌面控制(C++)源码+程序"
+title: "远程桌面控制C源码程序"
 date:   2022-03-25
 tags: [服务器端,源码,远程桌面,远程,客户端]
 comments: true

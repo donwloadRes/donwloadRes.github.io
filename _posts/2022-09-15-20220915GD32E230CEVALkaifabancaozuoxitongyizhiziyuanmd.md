@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32E230C_EVAL 开发板操作系统移植资源"
+title: "GD32E230CEVAL 开发板操作系统移植资源"
 date:   2021-07-17
 tags: [GD32E230C,EVAL,操作系统,开发板,实时操作系统]
 comments: true

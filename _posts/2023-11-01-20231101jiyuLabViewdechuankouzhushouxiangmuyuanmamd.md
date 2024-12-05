@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LabView的串口助手（项目源码）"
+title: "基于LabView的串口助手项目源码"
 date:   2023-07-04
 tags: [串口,数据,设置,波形,数据格式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "发射本振泄漏—零中频架构中令人烦恼的问题"
+title: "发射本振泄漏零中频架构中令人烦恼的问题"
 date:   2023-05-23
 tags: [LOL,发射,中频,校准,令人烦恼]
 comments: true

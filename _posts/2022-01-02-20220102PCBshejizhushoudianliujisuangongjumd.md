@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB设计助手 - 电流计算工具"
+title: "PCB设计助手  电流计算工具"
 date:   2022-02-12
 tags: [PCB,设计,工具,计算,布线]
 comments: true

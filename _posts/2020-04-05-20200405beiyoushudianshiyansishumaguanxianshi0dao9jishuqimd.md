@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北邮数电实验四：数码管显示0到9计数器"
+title: "北邮数电实验四数码管显示0到9计数器"
 date:   2023-11-03
 tags: [计数器,计数,按钮,数码管,按下]
 comments: true

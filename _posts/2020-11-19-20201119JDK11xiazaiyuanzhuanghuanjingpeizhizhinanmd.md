@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK11 下载与安装、环境配置指南"
+title: "JDK11 下载与安装环境配置指南"
 date:   2022-10-17
 tags: [JDK11,Java,配置,指南,下载]
 comments: true

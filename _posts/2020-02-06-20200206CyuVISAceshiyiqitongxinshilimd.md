@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与VISA测试仪器通信实例"
+title: "C与VISA测试仪器通信实例"
 date:   2024-09-26
 tags: [VISA,C#,仪器,测试,代码]
 comments: true

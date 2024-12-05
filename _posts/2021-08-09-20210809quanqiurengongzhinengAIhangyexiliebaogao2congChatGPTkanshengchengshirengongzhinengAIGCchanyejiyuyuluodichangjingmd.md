@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球人工智能AI行业系列报告2：从Chat_GPT看生成式人工智能AIGC产业机遇与落地场景"
+title: "全球人工智能AI行业系列报告2从ChatGPT看生成式人工智能AIGC产业机遇与落地场景"
 date:   2021-09-27
 tags: [人工智能,生成式,AI,Chat,GPT]
 comments: true

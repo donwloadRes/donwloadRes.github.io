@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "心电图HL7-XML文件"
+title: "心电图HL7XML文件"
 date:   2024-03-23
 tags: [XML,HL7,心电图,文件,医疗]
 comments: true

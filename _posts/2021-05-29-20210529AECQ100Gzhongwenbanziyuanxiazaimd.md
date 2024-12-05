@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q100G中文版资源下载"
+title: "AECQ100G中文版资源下载"
 date:   2024-07-16
 tags: [AEC,Q100G,中文版,下载,资源]
 comments: true

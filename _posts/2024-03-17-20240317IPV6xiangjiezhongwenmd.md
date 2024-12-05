@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPV6详解(中文)"
+title: "IPV6详解中文"
 date:   2021-01-18
 tags: [IPv6,地址,IPv4,IPV6,学习]
 comments: true

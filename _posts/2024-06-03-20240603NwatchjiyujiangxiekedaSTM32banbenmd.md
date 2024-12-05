@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nwatch-基于江协科大STM32版本"
+title: "Nwatch基于江协科大STM32版本"
 date:   2023-04-20
 tags: [Nwatch,STM32,江协科,大S,TM32]
 comments: true

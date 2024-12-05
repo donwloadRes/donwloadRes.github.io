@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere Client 6.0 安装教程"
+title: "VMware vSphere Client 60 安装教程"
 date:   2024-04-14
 tags: [VMware,vSphere,Client,6.0,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L8050清零软件+图解"
+title: "爱普生L8050清零软件图解"
 date:   2023-08-02
 tags: [清零,软件,打印机,图解,爱普生]
 comments: true

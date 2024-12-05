@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Artnet4中文版 - 基于最新协议的灯光控制解决方案"
+title: "Artnet4中文版  基于最新协议的灯光控制解决方案"
 date:   2022-05-22
 tags: [Artnet4,中文版,灯光,控制,协议]
 comments: true

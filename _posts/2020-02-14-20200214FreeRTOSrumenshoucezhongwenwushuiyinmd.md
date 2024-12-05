@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS入门手册_中文无水印"
+title: "FreeRTOS入门手册中文无水印"
 date:   2021-01-18
 tags: [FreeRTOS,水印,入门,手册,中文]
 comments: true

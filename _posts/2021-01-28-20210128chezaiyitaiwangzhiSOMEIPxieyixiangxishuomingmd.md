@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载以太网之SOME-IP协议详细说明"
+title: "车载以太网之SOMEIP协议详细说明"
 date:   2020-12-22
 tags: [SOME,IP,协议,以太网,车载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HTTPS POST 接口实现资源下载"
+title: "C HTTPS POST 接口实现资源下载"
 date:   2024-10-08
 tags: [HTTPS,POST,C#,接口,实现]
 comments: true

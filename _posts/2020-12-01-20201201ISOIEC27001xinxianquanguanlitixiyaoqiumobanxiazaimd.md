@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27001 信息安全管理体系要求模版下载"
+title: "ISOIEC 27001 信息安全管理体系要求模版下载"
 date:   2022-10-20
 tags: [信息安全,模版,管理体系,ISO,IEC]
 comments: true

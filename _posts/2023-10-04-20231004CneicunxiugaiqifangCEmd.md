@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#内存修改器(仿CE)"
+title: "C内存修改器仿CE"
 date:   2021-04-26
 tags: [内存,修改器,CE,bug,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统(html + js + css)"
+title: "学生信息管理系统html  js  css"
 date:   2020-03-19
 tags: [学生,信息,JavaScript,信息管理系统,html]
 comments: true

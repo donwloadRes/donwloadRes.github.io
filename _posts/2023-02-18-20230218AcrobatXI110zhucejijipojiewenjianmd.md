@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acrobat XI 11.0 注册机及破解文件"
+title: "Acrobat XI 110 注册机及破解文件"
 date:   2022-04-28
 tags: [破解,Acrobat,XI,11.0,注册机]
 comments: true

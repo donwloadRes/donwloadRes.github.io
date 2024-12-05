@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.0编程宝典(文字版) - 全面掌握USB接口技术"
+title: "USB 30编程宝典文字版  全面掌握USB接口技术"
 date:   2022-11-01
 tags: [USB,接口技术,编程,宝典,3.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "课堂练习6.2：对字符设备的访问——速通"
+title: "课堂练习62对字符设备的访问速通"
 date:   2021-02-11
 tags: [字符,访问,设备,文档,Linux]
 comments: true

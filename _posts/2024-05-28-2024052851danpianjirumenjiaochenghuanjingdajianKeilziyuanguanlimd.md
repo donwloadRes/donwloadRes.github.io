@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机入门教程：环境搭建（Keil+资源管理）"
+title: "51单片机入门教程环境搭建Keil资源管理"
 date:   2023-09-16
 tags: [单片机,51,资源管理,教程,Keil]
 comments: true

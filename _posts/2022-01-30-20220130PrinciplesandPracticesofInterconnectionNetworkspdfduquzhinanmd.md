@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Principles and Practices of Interconnection Networks.pdf 读取指南"
+title: "Principles and Practices of Interconnection Networkspdf 读取指南"
 date:   2020-11-06
 tags: [互联网络,Principles,Practices,Interconnection,Networks]
 comments: true

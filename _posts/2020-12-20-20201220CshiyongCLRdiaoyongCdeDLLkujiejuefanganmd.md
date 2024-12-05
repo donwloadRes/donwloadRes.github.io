@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用CLR调用C++的DLL库解决方案"
+title: "C使用CLR调用C的DLL库解决方案"
 date:   2023-08-18
 tags: [C++,DLL,CLR,类库,C#]
 comments: true

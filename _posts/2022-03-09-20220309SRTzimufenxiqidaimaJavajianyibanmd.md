@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SRT字幕分析器代码 - Java简易版"
+title: "SRT字幕分析器代码  Java简易版"
 date:   2023-01-19
 tags: [SRT,Java,字幕,文件,代码]
 comments: true

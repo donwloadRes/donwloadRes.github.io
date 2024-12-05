@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用S7.net连接西门子S1200PLC"
+title: "C使用S7net连接西门子S1200PLC"
 date:   2020-02-24
 tags: [PLC,C#,S7,西门子,写入]
 comments: true

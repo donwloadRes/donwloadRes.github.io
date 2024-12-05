@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mysql+Navicat16长期免费直连数据库安装教程"
+title: "MysqlNavicat16长期免费直连数据库安装教程"
 date:   2022-05-23
 tags: [MySQL,安装,教程,Mysql,Navicat16]
 comments: true

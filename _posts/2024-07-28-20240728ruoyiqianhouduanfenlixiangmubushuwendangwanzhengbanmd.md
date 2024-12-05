@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依前后端分离项目部署文档（完整版）"
+title: "若依前后端分离项目部署文档完整版"
 date:   2021-08-10
 tags: [部署,项目,若依,前后,分离]
 comments: true

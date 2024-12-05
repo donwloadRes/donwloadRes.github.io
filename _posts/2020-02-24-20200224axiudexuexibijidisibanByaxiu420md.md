@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿秀的学习笔记》第四版By阿秀-420"
+title: "阿秀的学习笔记第四版By阿秀420"
 date:   2020-04-26
 tags: [阿秀,学习,笔记,第四版,知识]
 comments: true

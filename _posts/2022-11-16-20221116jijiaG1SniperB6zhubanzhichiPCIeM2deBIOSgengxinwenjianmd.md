@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "技嘉G1.Sniper B6主板支持PCIe M.2的BIOS更新文件"
+title: "技嘉G1Sniper B6主板支持PCIe M2的BIOS更新文件"
 date:   2020-01-23
 tags: [BIOS,技嘉,更新,G1,Sniper]
 comments: true

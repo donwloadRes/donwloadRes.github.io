@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+C++实战：车牌识别与停车场管理系统"
+title: "QTC实战车牌识别与停车场管理系统"
 date:   2020-09-06
 tags: [Qt,车牌,C++,MySQL,OpenCV]
 comments: true

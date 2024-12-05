@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密算法 SM2、SM3、SM4 加解密及签名验签 C# 实现"
+title: "国密算法 SM2SM3SM4 加解密及签名验签 C 实现"
 date:   2020-01-01
 tags: [算法,国密,SM2,SM3,SM4]
 comments: true

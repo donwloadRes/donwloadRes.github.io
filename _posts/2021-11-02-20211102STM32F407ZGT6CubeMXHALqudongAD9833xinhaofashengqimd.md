@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6+CubeMX+HAL驱动AD9833信号发生器"
+title: "STM32F407ZGT6CubeMXHAL驱动AD9833信号发生器"
 date:   2022-12-27
 tags: [AD9833,信号,频率,STM32F407ZGT6,HAL]
 comments: true

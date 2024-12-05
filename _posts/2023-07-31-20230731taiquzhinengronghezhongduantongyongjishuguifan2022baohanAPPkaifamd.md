@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台区智能融合终端通用技术规范 2022 (包含APP开发)"
+title: "台区智能融合终端通用技术规范 2022 包含APP开发"
 date:   2022-03-29
 tags: [台区,APP,2022,终端,融合]
 comments: true

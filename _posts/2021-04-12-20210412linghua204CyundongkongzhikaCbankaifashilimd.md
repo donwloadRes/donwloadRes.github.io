@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凌华204C运动控制卡C#版开发实例"
+title: "凌华204C运动控制卡C版开发实例"
 date:   2022-08-08
 tags: [实例,凌华,204C,控制卡,C#]
 comments: true

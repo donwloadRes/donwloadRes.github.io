@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6的直流无刷电机程序-调试好的带PID反馈"
+title: "基于STM32F103C8T6的直流无刷电机程序调试好的带PID反馈"
 date:   2022-11-21
 tags: [电机,PID,STM32F103C8T6,无刷电机,调试]
 comments: true

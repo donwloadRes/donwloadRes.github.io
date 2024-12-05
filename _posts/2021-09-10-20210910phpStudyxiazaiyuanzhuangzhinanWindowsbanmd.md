@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "phpStudy下载与安装指南（Windows版）"
+title: "phpStudy下载与安装指南Windows版"
 date:   2023-12-02
 tags: [phpStudy,安装,PHP,下载,安装包]
 comments: true

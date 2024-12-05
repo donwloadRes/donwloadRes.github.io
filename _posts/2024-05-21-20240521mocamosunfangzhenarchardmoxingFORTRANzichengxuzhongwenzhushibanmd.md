@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摩擦磨损仿真archard模型 - FORTRAN子程序中文注释版"
+title: "摩擦磨损仿真archard模型  FORTRAN子程序中文注释版"
 date:   2021-10-08
 tags: [子程序,FORTRAN,磨损,摩擦,模型]
 comments: true

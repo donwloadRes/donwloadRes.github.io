@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTC7132h.pdf 资源文件介绍"
+title: "CTC7132hpdf 资源文件介绍"
 date:   2022-09-11
 tags: [芯片,CTC7132h,pdf,CTC7132,OAM]
 comments: true

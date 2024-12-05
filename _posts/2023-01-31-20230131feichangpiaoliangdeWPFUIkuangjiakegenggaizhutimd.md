@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常漂亮的WPF UI框架 - 可更改主题"
+title: "非常漂亮的WPF UI框架  可更改主题"
 date:   2021-10-02
 tags: [控件,主题,自定义,框架,WPF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用root的旧手机搭建青龙面板-2022.5.9"
+title: "用root的旧手机搭建青龙面板202259"
 date:   2020-09-07
 tags: [面板,青龙,搭建,教程,手机]
 comments: true

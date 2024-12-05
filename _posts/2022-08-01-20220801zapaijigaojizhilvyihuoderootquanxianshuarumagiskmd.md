@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杂牌机搞机之旅（一）——获得root权限（刷入magisk）"
+title: "杂牌机搞机之旅一获得root权限刷入magisk"
 date:   2024-11-14
 tags: [boot,Magisk,img,root,fastboot]
 comments: true

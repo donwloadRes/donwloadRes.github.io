@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Codesys案例实践：带可视化视图的源码分享"
+title: "Codesys案例实践带可视化视图的源码分享"
 date:   2024-11-03
 tags: [Codesys,可视化,源码,学习,视图]
 comments: true

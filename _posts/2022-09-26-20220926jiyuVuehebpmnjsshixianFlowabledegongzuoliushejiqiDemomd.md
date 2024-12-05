@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 Vue 和 bpmn.js 实现 Flowable 的工作流设计器 Demo"
+title: "基于 Vue 和 bpmnjs 实现 Flowable 的工作流设计器 Demo"
 date:   2021-11-22
 tags: [Vue,bpmn,js,Flowable,Demo]
 comments: true

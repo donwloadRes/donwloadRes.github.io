@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPFS文件系统安装文档（超详细版）"
+title: "GPFS文件系统安装文档超详细版"
 date:   2022-06-07
 tags: [GPFS,文件系统,文档,安装,详细]
 comments: true

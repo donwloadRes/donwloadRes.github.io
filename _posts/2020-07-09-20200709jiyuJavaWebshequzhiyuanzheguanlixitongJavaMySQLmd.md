@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于JavaWeb社区志愿者管理系统（Java+MySQL）"
+title: "基于JavaWeb社区志愿者管理系统JavaMySQL"
 date:   2022-10-17
 tags: [志愿,社区,项目,用户,志愿者]
 comments: true

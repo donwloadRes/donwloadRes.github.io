@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超全爆破字典合集85M.rar"
+title: "超全爆破字典合集85Mrar"
 date:   2023-11-17
 tags: [85M,字典,超全,合集,rar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10-32位系统下PCIE运动控制卡驱动开发示例"
+title: "Win1032位系统下PCIE运动控制卡驱动开发示例"
 date:   2020-02-11
 tags: [示例,32,PCIE,控制卡,WinDriver]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE-1394 标准英文文档下载仓库"
+title: "IEEE1394 标准英文文档下载仓库"
 date:   2024-04-24
 tags: [IEEE,1394,文档,标准,1394b]
 comments: true

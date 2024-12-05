@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK帮助文档（中文版）"
+title: "JDK帮助文档中文版"
 date:   2022-08-07
 tags: [文档,JDK,Java,开发者,中文版]
 comments: true

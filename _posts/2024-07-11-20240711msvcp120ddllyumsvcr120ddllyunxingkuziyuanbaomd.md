@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "msvcp120d.dll与msvcr120d.dll运行库资源包"
+title: "msvcp120ddll与msvcr120ddll运行库资源包"
 date:   2023-10-15
 tags: [dll,msvcp120d,msvcr120d,Visual,DLL]
 comments: true

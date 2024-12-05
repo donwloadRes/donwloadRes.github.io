@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偏振光学（廖延彪编写）资源下载"
+title: "偏振光学廖延彪编写资源下载"
 date:   2024-03-06
 tags: [偏振光,本书,下载,资源,文件]
 comments: true

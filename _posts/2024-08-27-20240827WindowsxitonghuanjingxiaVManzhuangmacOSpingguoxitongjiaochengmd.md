@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统环境下VM安装macOS(苹果)系统教程"
+title: "Windows系统环境下VM安装macOS苹果系统教程"
 date:   2020-11-05
 tags: [macOS,VMware,安装,虚拟机,系统]
 comments: true

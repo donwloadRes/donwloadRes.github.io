@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记录ENVI5.6和SARscape5.6.2处理时遇到的问题"
+title: "记录ENVI56和SARscape562处理时遇到的问题"
 date:   2024-11-27
 tags: [ENVI,ENVI5.6,遇到,SARscape5.6,SARscape]
 comments: true

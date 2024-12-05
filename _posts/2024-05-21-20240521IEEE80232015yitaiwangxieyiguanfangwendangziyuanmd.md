@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3-2015 以太网协议官方文档资源"
+title: "IEEE 80232015 以太网协议官方文档资源"
 date:   2023-10-18
 tags: [2015,文档,以太网,IEEE,802.3]
 comments: true

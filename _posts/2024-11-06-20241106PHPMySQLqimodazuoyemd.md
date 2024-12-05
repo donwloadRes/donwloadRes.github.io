@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP + MySQL 期末大作业"
+title: "PHP  MySQL 期末大作业"
 date:   2021-11-02
 tags: [数据库,MySQL,PHP,项目,Web]
 comments: true

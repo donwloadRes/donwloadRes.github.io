@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity-Addressable Demo工程介绍"
+title: "UnityAddressable Demo工程介绍"
 date:   2020-09-20
 tags: [Post,Release,Unity,Demo,Addressable]
 comments: true

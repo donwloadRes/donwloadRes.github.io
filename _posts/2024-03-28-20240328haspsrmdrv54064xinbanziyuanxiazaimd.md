@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hasp_srm_drv_540_64新版资源下载"
+title: "haspsrmdrv54064新版资源下载"
 date:   2021-04-26
 tags: [hasp,srm,drv,64,EPLAN]
 comments: true

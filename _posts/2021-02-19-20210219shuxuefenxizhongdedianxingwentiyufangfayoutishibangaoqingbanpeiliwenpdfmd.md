@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析中的典型问题与方法 有提示版 高清版裴礼文.pdf"
+title: "数学分析中的典型问题与方法 有提示版 高清版裴礼文pdf"
 date:   2023-09-19
 tags: [数学分析,裴礼文,高清,提示,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Type-C 规范说明文档"
+title: "USB TypeC 规范说明文档"
 date:   2023-07-24
 tags: [文档,USB,Type,规范,章节]
 comments: true

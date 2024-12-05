@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Linux中安装Pentaho Server 9.1并使用MySQL作为存储库"
+title: "在Linux中安装Pentaho Server 91并使用MySQL作为存储库"
 date:   2020-08-03
 tags: [MySQL,pentaho,配置文件,安装包,安装]
 comments: true

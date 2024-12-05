@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子MATLAB-Simulink仿真模块化多电平变换器技术详解"
+title: "电力电子MATLABSimulink仿真模块化多电平变换器技术详解"
 date:   2020-12-28
 tags: [变换器,电压,仿真,Simulink,电容]
 comments: true

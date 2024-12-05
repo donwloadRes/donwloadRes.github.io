@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于tx-1c郭天祥开发板实现精度为 0.01s 的秒表"
+title: "基于tx1c郭天祥开发板实现精度为 001s 的秒表"
 date:   2020-03-27
 tags: [秒表,实验报告,tx,1c,郭天祥]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link驱动安装指南"
+title: "STLink驱动安装指南"
 date:   2020-11-11
 tags: [ST,Link,管理器,驱动,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019年电赛D题：简易电路特性测试仪"
+title: "2019年电赛D题简易电路特性测试仪"
 date:   2024-02-11
 tags: [2019,电赛,测试仪,文件,简易]
 comments: true

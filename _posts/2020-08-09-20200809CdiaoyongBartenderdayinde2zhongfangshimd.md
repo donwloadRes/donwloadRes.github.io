@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用Bartender打印的2种方式"
+title: "C 调用Bartender打印的2种方式"
 date:   2020-10-10
 tags: [Bartender,打印,调用,C#,方式]
 comments: true

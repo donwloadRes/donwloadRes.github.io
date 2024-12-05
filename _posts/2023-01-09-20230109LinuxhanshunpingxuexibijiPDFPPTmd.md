@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux-韩顺平学习笔记 - PDF-PPT"
+title: "Linux韩顺平学习笔记  PDFPPT"
 date:   2020-04-29
 tags: [笔记,Linux,PDF,PPT,编程语言]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MXM3.0硬件设计建议"
+title: "MXM30硬件设计建议"
 date:   2022-05-14
 tags: [硬件,MXM3.0,设计,建议,文件]
 comments: true

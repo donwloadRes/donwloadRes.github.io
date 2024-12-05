@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 安装包"
+title: "Source Insight 40 安装包"
 date:   2024-02-10
 tags: [Source,Insight,源代码,安装包,4.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+libcurl实现FTP文件上传和下载"
+title: "Qtlibcurl实现FTP文件上传和下载"
 date:   2020-12-19
 tags: [FTP,Qt,文件,libcurl,上传]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUB-200-2011鸟类数据集下载与PyTorch实现指南"
+title: "CUB2002011鸟类数据集下载与PyTorch实现指南"
 date:   2020-10-27
 tags: [200,数据,2011,CUB,__]
 comments: true

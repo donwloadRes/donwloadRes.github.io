@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "frp-0.48.0-linux-amd64.zip 资源文件介绍"
+title: "frp0480linuxamd64zip 资源文件介绍"
 date:   2023-04-04
 tags: [frps,frp,0.48,linux,amd64]
 comments: true

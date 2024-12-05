@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++会员卡计费管理系统[2023-04-13]"
+title: "CC会员卡计费管理系统20230413"
 date:   2022-10-09
 tags: [会员卡,会员,C++,消费,manager]
 comments: true

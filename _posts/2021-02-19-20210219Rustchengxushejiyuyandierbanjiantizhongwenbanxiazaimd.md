@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust程序设计语言(第二版) 简体中文版下载"
+title: "Rust程序设计语言第二版 简体中文版下载"
 date:   2021-06-22
 tags: [Rust,简体中文版,PDF,程序设计,下载]
 comments: true

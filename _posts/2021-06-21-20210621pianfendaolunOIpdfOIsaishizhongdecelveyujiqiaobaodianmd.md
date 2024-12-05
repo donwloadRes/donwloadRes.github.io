@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "骗分导论(OI).pdf - OI赛事中的策略与技巧宝典"
+title: "骗分导论OIpdf  OI赛事中的策略与技巧宝典"
 date:   2024-10-21
 tags: [OI,骗分,pdf,技巧,导论]
 comments: true

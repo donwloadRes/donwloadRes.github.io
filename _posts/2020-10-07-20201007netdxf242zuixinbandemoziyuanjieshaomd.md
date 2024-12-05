@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "netdxf2.4.2最新版demo资源介绍"
+title: "netdxf242最新版demo资源介绍"
 date:   2022-05-09
 tags: [文件,图元,demo,资源,图形]
 comments: true

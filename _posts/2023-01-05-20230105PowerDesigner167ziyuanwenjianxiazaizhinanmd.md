@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner 16.7 资源文件下载指南"
+title: "PowerDesigner 167 资源文件下载指南"
 date:   2021-08-29
 tags: [下载,解压,文件,PowerDesigner,压缩包]
 comments: true

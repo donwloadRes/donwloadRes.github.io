@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#引用Visa读取示波器数据"
+title: "C引用Visa读取示波器数据"
 date:   2021-11-29
 tags: [示波器,Visa,C#,读取,会话]
 comments: true

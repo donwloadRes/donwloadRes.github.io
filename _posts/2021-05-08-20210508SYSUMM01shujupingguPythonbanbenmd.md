@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SYSU_MM01数据评估（Python版本）"
+title: "SYSUMM01数据评估Python版本"
 date:   2023-01-03
 tags: [SYSU,MM01,shot,评估,Python]
 comments: true

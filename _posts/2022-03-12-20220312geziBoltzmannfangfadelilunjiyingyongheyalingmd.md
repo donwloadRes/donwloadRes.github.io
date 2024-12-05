@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "格子Boltzmann方法的理论及应用（何雅玲）"
+title: "格子Boltzmann方法的理论及应用何雅玲"
 date:   2022-07-04
 tags: [Boltzmann,格子,LBM,应用,方法]
 comments: true

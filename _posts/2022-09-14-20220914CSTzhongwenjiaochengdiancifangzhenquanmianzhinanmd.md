@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CST中文教程 - 电磁仿真全面指南"
+title: "CST中文教程  电磁仿真全面指南"
 date:   2021-03-14
 tags: [CST,仿真,电磁,教程,软件]
 comments: true

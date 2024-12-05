@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用WebService实例和开发（wsdl）"
+title: "C调用WebService实例和开发wsdl"
 date:   2022-05-24
 tags: [WebService,调用,C#,Visual,Studio]
 comments: true

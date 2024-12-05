@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMB585数据手册（修订版1.1）"
+title: "JMB585数据手册修订版11"
 date:   2023-09-07
 tags: [JMB585,1.1,手册,下载,修订版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雅思词汇表(2021整理完整版)"
+title: "雅思词汇表2021整理完整版"
 date:   2020-08-09
 tags: [词汇表,雅思考试,2021,雅思,词汇]
 comments: true

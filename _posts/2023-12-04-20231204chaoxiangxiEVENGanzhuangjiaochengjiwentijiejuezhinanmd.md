@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细EVE-NG安装教程及问题解决指南"
+title: "超详细EVENG安装教程及问题解决指南"
 date:   2021-10-19
 tags: [EVE,NG,安装,Wireshark,教程]
 comments: true

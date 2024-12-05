@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt飞机大战 - 期末课设完美解决方案"
+title: "Qt飞机大战  期末课设完美解决方案"
 date:   2023-02-03
 tags: [Qt,飞机,编程,大战,游戏]
 comments: true

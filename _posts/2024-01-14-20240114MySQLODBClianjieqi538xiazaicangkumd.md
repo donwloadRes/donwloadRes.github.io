@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL ODBC 连接器 5.3.8 下载仓库"
+title: "MySQL ODBC 连接器 538 下载仓库"
 date:   2020-06-22
 tags: [连接器,ODBC,运行库,安装,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模块化多电平变流器(MMC) MATLAB & Simulink仿真项目"
+title: "模块化多电平变流器MMC MATLAB  Simulink仿真项目"
 date:   2020-04-19
 tags: [仿真,MATLAB,Simulink,电平,MMC]
 comments: true

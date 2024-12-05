@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 条码打印测试：解决图片打印模糊问题"
+title: "C 条码打印测试解决图片打印模糊问题"
 date:   2020-05-06
 tags: [打印,C#,模糊,图片,条码]
 comments: true

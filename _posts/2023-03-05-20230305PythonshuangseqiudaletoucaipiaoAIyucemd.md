@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python双色球+大乐透彩票AI预测"
+title: "Python双色球大乐透彩票AI预测"
 date:   2020-10-20
 tags: [bash,双色球,大乐透,彩票,python]
 comments: true

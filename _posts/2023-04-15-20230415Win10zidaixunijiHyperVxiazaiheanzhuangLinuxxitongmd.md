@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10自带虚拟机Hyper-V下载和安装Linux系统"
+title: "Win10自带虚拟机HyperV下载和安装Linux系统"
 date:   2023-04-24
 tags: [虚拟机,Hyper,Linux,安装,Windows]
 comments: true

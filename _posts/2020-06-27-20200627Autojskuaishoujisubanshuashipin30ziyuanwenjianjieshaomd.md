@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Auto.js 快手极速版刷视频3.0 资源文件介绍"
+title: "Autojs 快手极速版刷视频30 资源文件介绍"
 date:   2023-08-10
 tags: [视频,Auto,js,脚本,快手]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.STM32F1xx_DFP.2.2.0.pack 下载与使用指南"
+title: "KeilSTM32F1xxDFP220pack 下载与使用指南"
 date:   2020-05-22
 tags: [Keil,STM32F1xx,DFP.2,2.0,pack]
 comments: true

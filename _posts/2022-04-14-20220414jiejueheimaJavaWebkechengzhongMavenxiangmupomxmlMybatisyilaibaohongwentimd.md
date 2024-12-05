@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决黑马JavaWeb课程中Maven项目pom.xml Mybatis依赖报红问题"
+title: "解决黑马JavaWeb课程中Maven项目pomxml Mybatis依赖报红问题"
 date:   2021-04-03
 tags: [Maven,报红,JavaWeb,依赖,Mybatis]
 comments: true

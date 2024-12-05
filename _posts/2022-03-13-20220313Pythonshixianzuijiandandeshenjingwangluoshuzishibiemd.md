@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现最简单的神经网络（数字识别）"
+title: "Python实现最简单的神经网络数字识别"
 date:   2022-02-28
 tags: [神经网络,Python,代码,识别,项目]
 comments: true

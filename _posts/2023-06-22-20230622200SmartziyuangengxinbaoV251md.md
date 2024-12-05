@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "200Smart 资源更新包 V2.5.1"
+title: "200Smart 资源更新包 V251"
 date:   2022-02-13
 tags: [200Smart,更新,更新包,设备,资源]
 comments: true

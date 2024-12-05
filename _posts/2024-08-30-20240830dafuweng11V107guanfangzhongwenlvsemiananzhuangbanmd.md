@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大富翁11 V1.0.7 官方中文绿色免安装版"
+title: "大富翁11 V107 官方中文绿色免安装版"
 date:   2022-09-03
 tags: [大富翁,11,V1.0,安装版,解压]
 comments: true

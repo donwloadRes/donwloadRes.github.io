@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# VS2019 实现SplitContainer控件上下左右折叠隐藏与显示"
+title: "C VS2019 实现SplitContainer控件上下左右折叠隐藏与显示"
 date:   2023-10-25
 tags: [SplitContainer,折叠,面板,Visible,控件]
 comments: true

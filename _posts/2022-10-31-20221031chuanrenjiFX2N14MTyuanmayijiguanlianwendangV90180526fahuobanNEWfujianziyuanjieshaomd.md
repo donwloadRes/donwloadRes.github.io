@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传人记_FX2N-14MT源码以及关联文档_V9.0.180526_发货版 -NEW - 复件》资源介绍"
+title: "传人记FX2N14MT源码以及关联文档V90180526发货版 NEW  复件资源介绍"
 date:   2022-01-16
 tags: [FX2N,源码,14MT,文档,PLC]
 comments: true

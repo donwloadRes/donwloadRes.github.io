@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMGUI.pdf》- 入门向导与实战指南"
+title: "IMGUIpdf 入门向导与实战指南"
 date:   2024-04-10
 tags: [IMGUI,pdf,UI,学习,GUI]
 comments: true

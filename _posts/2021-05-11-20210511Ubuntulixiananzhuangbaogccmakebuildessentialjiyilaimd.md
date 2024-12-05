@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 离线安装包：gcc、make、build-essential 及依赖"
+title: "Ubuntu 离线安装包gccmakebuildessential 及依赖"
 date:   2022-09-30
 tags: [essential,build,gcc,make,deb]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理课后答案(白中英主编第五版)"
+title: "计算机组成原理课后答案白中英主编第五版"
 date:   2021-01-19
 tags: [课后,第五版,白中英,PDF,计算机]
 comments: true

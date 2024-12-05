@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康相机SDK+QT二次开发资源"
+title: "海康相机SDKQT二次开发资源"
 date:   2024-04-26
 tags: [海康,QT,SDK,相机,威视]
 comments: true

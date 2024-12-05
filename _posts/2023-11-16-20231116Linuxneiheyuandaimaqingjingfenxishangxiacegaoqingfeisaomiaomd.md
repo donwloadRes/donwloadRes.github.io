@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核源代码情景分析 (上下册 高清非扫描)"
+title: "Linux内核源代码情景分析 上下册 高清非扫描"
 date:   2020-11-07
 tags: [Linux,内核,调用,系统,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国计算机二级WPS Office精选350道选择题题库（含答案）"
+title: "全国计算机二级WPS Office精选350道选择题题库含答案"
 date:   2022-08-17
 tags: [WPS,题库,文档,Office,选择题]
 comments: true

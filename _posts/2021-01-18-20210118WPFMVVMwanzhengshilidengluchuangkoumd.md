@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF MVVM完整示例（登录窗口）"
+title: "WPF MVVM完整示例登录窗口"
 date:   2024-05-16
 tags: [MVVM,示例,绑定,WPF,NET]
 comments: true

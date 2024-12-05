@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NBA数据分析（数据可视化）活动数据包"
+title: "NBA数据分析数据可视化活动数据包"
 date:   2021-11-24
 tags: [数据分析,可视化,Excel,数据包,NBA]
 comments: true

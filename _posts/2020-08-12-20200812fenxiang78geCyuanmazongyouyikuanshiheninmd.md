@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享78个C++源码，总有一款适合您"
+title: "分享78个C源码总有一款适合您"
 date:   2021-03-14
 tags: [源码,78,C++,开发者,编译]
 comments: true

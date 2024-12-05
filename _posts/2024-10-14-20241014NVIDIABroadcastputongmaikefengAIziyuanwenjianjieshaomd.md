@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVIDIA Broadcast + 普通麦克风 + AI 资源文件介绍"
+title: "NVIDIA Broadcast  普通麦克风  AI 资源文件介绍"
 date:   2020-06-24
 tags: [AI,麦克风,NVIDIA,Broadcast,摄像头]
 comments: true

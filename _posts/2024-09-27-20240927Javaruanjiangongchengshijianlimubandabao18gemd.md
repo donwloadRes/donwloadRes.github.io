@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java软件工程师简历模板（打包18个）"
+title: "Java软件工程师简历模板打包18个"
 date:   2023-10-28
 tags: [模板,Java,简历,工程师,软件]
 comments: true

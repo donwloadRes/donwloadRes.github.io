@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gilbert Strang线性代数导论》教师用书"
+title: "Gilbert Strang线性代数导论教师用书"
 date:   2021-01-30
 tags: [线性代数,教师,用书,Strang,导论]
 comments: true

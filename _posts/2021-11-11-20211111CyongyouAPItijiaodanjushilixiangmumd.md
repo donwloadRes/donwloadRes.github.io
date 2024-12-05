@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 用友API提交单据示例项目"
+title: "C 用友API提交单据示例项目"
 date:   2024-04-25
 tags: [用友,API,示例,U8,U8Login]
 comments: true

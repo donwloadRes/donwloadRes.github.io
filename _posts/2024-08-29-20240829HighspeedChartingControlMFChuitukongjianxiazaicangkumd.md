@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High-speed Charting Control（MFC绘图控件）下载仓库"
+title: "Highspeed Charting ControlMFC绘图控件下载仓库"
 date:   2021-03-03
 tags: [MFC,控件,绘图,High,博主]
 comments: true

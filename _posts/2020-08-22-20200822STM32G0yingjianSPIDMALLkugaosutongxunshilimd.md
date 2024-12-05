@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G0 硬件SPI+DMA+LL库高速通讯示例"
+title: "STM32G0 硬件SPIDMALL库高速通讯示例"
 date:   2021-12-24
 tags: [数据传输,STM32G0,SPI,DMA,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID算法说明，精辟生动！"
+title: "PID算法说明精辟生动"
 date:   2021-11-19
 tags: [PID,算法,文档,积分,生动]
 comments: true

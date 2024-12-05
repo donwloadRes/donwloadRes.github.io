@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人重识别(ReID)基础知识入门"
+title: "行人重识别ReID基础知识入门"
 date:   2021-03-17
 tags: [行人,识别,ReID,摄像头,检索]
 comments: true

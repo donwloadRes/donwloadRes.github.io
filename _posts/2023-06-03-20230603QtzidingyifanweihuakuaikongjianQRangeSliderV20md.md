@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt自定义范围滑块控件 QRangeSlider V2.0"
+title: "Qt自定义范围滑块控件 QRangeSlider V20"
 date:   2021-01-07
 tags: [控件,自定义,滑块,Qt,压缩包]
 comments: true

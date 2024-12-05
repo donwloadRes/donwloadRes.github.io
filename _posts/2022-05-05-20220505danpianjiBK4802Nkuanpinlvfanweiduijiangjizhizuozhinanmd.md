@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机+BK4802N宽频率范围对讲机制作指南"
+title: "单片机BK4802N宽频率范围对讲机制作指南"
 date:   2024-05-09
 tags: [源程序,对讲机,BK4802N,芯片,单片机]
 comments: true

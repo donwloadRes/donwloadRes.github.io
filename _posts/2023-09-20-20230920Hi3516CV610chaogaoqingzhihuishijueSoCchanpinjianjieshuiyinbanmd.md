@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hi3516CV610 超高清智慧视觉 SoC 产品简介-水印版"
+title: "Hi3516CV610 超高清智慧视觉 SoC 产品简介水印版"
 date:   2020-11-22
 tags: [Hi3516CV610,SoC,文件,超高,产品简介]
 comments: true

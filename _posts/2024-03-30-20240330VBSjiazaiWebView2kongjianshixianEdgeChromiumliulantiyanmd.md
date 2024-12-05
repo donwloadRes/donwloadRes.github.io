@@ -1,6 +1,27 @@
 ---
 layout: post
-title: "VBS加载WebView2控件实现Edge-Chromium浏览体验"
+title: "VBS加载WebView2控件实现EdgeChromium浏览体验
+date   20200603
+tags WebView2控件VBSChromiumWeb
+comments true
+author admin
+
+ VBS加载WebView2控件实现EdgeChromium浏览体验
+
+在现代Web应用日益复杂和对新Web技术需求不断增长的背景下Internet Explorer及其经典的WebBrowser控件已难以满足开发和浏览的需求为了跟上时代的步伐并利用更先进的浏览器功能本资源提供了通过VBS脚本来加载Microsoft WebView2控件的方法WebView2是基于EdgeChromium使用与Google Chrome相同的 Chromium 引擎的全新控件它不仅提升了性能还支持最新的Web标准
+
+ 概述
+
+此资源旨在替换传统的IE WebBrowser对象通过VBS脚本直接调用WebView2实现更加流畅兼容性更好的Web内容显示如果您需要在VBScript环境中嵌入现代网页界面或者希望升级旧系统以利用Chromium内核的高级特性如更快的渲染速度更好的JavaScript执行以及改进的安全性那么这个解决方案将是您的理想选择
+
+ 使用示例
+
+传统上我们可能这样使用IE浏览器控件
+
+vbscript
+Set IE  CreateObjectInternetExplorerApplication
+IEVisible  True
+IENavigate httpswwwbaiducom"
 date:   2020-06-03
 tags: [WebView2,控件,VBS,Chromium,Web]
 comments: true

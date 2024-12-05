@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 SDK编程：利用RMT驱动WS2812七彩灯实现彩虹渐变效果"
+title: "ESP32 SDK编程利用RMT驱动WS2812七彩灯实现彩虹渐变效果"
 date:   2020-04-29
 tags: [ESP32,WS2812,RMT,灯带,渐变]
 comments: true

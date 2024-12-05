@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTSP 简单服务器：即用型RTSP-RTMP服务器和代理"
+title: "RTSP 简单服务器即用型RTSPRTMP服务器和代理"
 date:   2024-05-18
 tags: [RTSP,服务器,流媒体,实时,RTMP]
 comments: true

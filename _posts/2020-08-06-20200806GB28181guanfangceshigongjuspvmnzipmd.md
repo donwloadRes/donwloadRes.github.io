@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB28181官方测试工具spvmn.zip"
+title: "GB28181官方测试工具spvmnzip"
 date:   2022-03-10
 tags: [GB28181,spvmn,zip,测试工具,测试]
 comments: true

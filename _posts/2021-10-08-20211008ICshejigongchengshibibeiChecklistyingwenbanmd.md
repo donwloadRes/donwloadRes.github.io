@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC设计工程师必备Checklist（英文版）"
+title: "IC设计工程师必备Checklist英文版"
 date:   2020-03-02
 tags: [设计,IC,Checklist,工程师,英文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero入门——安装插件"
+title: "Zotero入门安装插件"
 date:   2024-10-23
 tags: [插件,Zotero,安装,文献,组件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神策数据：科学构建用户标签体系"
+title: "神策数据科学构建用户标签体系"
 date:   2024-11-12
 tags: [标签,用户,神策,体系,构建]
 comments: true

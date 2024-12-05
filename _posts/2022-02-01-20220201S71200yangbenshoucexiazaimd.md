@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 样本手册下载"
+title: "S71200 样本手册下载"
 date:   2022-03-24
 tags: [S7,1200,手册,样本,文件]
 comments: true

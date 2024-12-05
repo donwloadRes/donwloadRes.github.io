@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Emgu.CV制作的实时播放RTSP例子"
+title: "使用EmguCV制作的实时播放RTSP例子"
 date:   2022-02-16
 tags: [RTSP,播放,示例,实时,摄像头]
 comments: true

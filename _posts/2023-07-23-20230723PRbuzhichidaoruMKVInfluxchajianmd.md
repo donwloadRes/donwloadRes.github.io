@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PR不支持导入MKV【Influx插件】"
+title: "PR不支持导入MKVInflux插件"
 date:   2020-04-01
 tags: [插件,Influx,MKV,导入,格式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence印刷电路板设计  Allegro PCB Editor设计指南 (2)"
+title: "Cadence印刷电路板设计  Allegro PCB Editor设计指南 2"
 date:   2022-09-03
 tags: [设计,PCB,Cadence,本书,Allegro]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于RTT移植LittleFs并挂载到外部W25Q64的SPI_Flash上的总结"
+title: "基于RTT移植LittleFs并挂载到外部W25Q64的SPIFlash上的总结"
 date:   2020-02-06
 tags: [挂载,RTT,W25Q64,SPI,Flash]
 comments: true

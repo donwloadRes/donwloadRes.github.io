@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于航拍图像的甘蔗-杂草目标检测数据集"
+title: "基于航拍图像的甘蔗杂草目标检测数据集"
 date:   2020-01-01
 tags: [图像,甘蔗,算法,数据,农业]
 comments: true

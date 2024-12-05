@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter 5.5 下载仓库"
+title: "JMeter 55 下载仓库"
 date:   2022-08-05
 tags: [JMeter,5.5,测试,jmeter,测试计划]
 comments: true

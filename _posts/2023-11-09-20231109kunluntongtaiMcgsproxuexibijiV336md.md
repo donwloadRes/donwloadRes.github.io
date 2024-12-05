@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通态Mcgspro学习笔记（V3.3.6）"
+title: "昆仑通态Mcgspro学习笔记V336"
 date:   2023-01-13
 tags: [Mcgspro,V3.3,学习,通态,笔记]
 comments: true

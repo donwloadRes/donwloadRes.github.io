@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "吴恩达课后实践作业：第一课程 - 神经网络和深度学习 - 第三周资源"
+title: "吴恩达课后实践作业第一课程  神经网络和深度学习  第三周资源
+date   20240912
+tags 神经网络py深度资源学习
+comments true
+author admin
+
+
+layout post
+title 吴恩达课后实践作业第一课程  神经网络和深度学习  第三周资源"
 date:   2024-09-12
 tags: [神经网络,py,深度,资源,学习]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "吴恩达课后实践作业：第一课程 - 神经网络和深度学习 - 第三周资源"
+title: "吴恩达课后实践作业第一课程  神经网络和深度学习  第三周资源
+date   20240912
+tags 神经网络py深度资源学习
+comments true
+author admin
+
+
+layout post
+title 吴恩达课后实践作业第一课程  神经网络和深度学习  第三周资源"
 date:   2023-12-31
 tags: [神经网络,py,资源,深度,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "旋转机械阶次跟踪（阶比分析）程序"
+title: "旋转机械阶次跟踪阶比分析程序"
 date:   2021-04-10
 tags: [阶次,轴承,阶比,程序,信号]
 comments: true

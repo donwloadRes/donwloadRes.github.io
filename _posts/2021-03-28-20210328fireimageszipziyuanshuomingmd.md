@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fireimages.zip资源说明"
+title: "fireimageszip资源说明"
 date:   2020-11-09
 tags: [fireimages,zip,火源,训练,解压]
 comments: true

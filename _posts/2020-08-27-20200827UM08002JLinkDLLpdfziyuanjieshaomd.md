@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UM08002_JLinkDLL.pdf资源介绍"
+title: "UM08002JLinkDLLpdf资源介绍"
 date:   2020-08-14
 tags: [Link,DLL,UM08002,JLinkDLL,pdf]
 comments: true

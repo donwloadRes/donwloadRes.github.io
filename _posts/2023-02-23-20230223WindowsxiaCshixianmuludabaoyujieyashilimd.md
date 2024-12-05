@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下C++实现目录打包与解压示例"
+title: "Windows下C实现目录打包与解压示例"
 date:   2022-10-04
 tags: [zip,文件,解压,示例,目录]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optiwave OptiSystem v7.0 资源下载"
+title: "Optiwave OptiSystem v70 资源下载"
 date:   2022-06-04
 tags: [Optiwave,OptiSystem,v7.0,软件,文件]
 comments: true

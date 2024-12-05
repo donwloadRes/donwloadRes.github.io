@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LoRa+LLCC68+STM32+STM32Cube HAL库收发程序源码"
+title: "LoRaLLCC68STM32STM32Cube HAL库收发程序源码"
 date:   2020-07-11
 tags: [LoRa,STM32,源码,LLCC68,HAL]
 comments: true

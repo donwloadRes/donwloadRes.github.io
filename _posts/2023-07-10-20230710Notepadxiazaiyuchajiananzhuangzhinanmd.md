@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 下载与插件安装指南"
+title: "Notepad 下载与插件安装指南"
 date:   2022-08-14
 tags: [插件,Notepad,++,安装,下载]
 comments: true

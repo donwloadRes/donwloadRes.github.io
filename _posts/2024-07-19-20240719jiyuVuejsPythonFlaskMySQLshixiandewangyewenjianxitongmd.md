@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vue.js + Python Flask + MySQL实现的网页文件系统"
+title: "基于Vuejs  Python Flask  MySQL实现的网页文件系统"
 date:   2021-03-31
 tags: [Vue,文件,js,Flask,数据库]
 comments: true

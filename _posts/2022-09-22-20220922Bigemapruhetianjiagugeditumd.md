@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bigemap如何添加谷歌地图？"
+title: "Bigemap如何添加谷歌地图"
 date:   2022-10-29
 tags: [地图,谷歌,添加,Bigemap,离线]
 comments: true

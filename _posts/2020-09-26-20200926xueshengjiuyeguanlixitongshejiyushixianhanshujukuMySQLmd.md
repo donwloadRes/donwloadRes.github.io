@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生就业管理系统设计与实现（含数据库MySQL）"
+title: "学生就业管理系统设计与实现含数据库MySQL"
 date:   2022-01-18
 tags: [数据库,MySQL,就业,学生,招聘]
 comments: true

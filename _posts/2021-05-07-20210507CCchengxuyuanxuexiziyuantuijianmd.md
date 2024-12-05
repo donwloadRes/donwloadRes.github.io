@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++程序员学习资源推荐"
+title: "CC程序员学习资源推荐"
 date:   2021-09-23
 tags: [C++,学习,编程,资源,技能]
 comments: true

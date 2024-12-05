@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生活垃圾分类训练图像数据集（二）"
+title: "生活垃圾分类训练图像数据集二"
 date:   2023-06-29
 tags: [垃圾,分类,数据,图像,模型]
 comments: true

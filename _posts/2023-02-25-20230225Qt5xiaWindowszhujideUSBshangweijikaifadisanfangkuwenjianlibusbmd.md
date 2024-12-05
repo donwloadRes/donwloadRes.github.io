@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5下Windows主机的USB上位机开发第三方库文件（libusb）"
+title: "Qt5下Windows主机的USB上位机开发第三方库文件libusb"
 date:   2021-07-21
 tags: [libusb,HID,文件,USB,开发]
 comments: true

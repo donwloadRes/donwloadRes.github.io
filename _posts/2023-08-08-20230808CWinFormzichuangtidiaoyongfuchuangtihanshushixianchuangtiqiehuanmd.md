@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 子窗体调用父窗体函数实现窗体切换"
+title: "C WinForm 子窗体调用父窗体函数实现窗体切换"
 date:   2024-05-28
 tags: [窗体,panel1,From2,form,From3]
 comments: true

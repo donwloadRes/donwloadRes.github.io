@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96 寸 OLED 显示资源文件详解"
+title: "096 寸 OLED 显示资源文件详解"
 date:   2023-01-02
 tags: [引脚,OLED,SPI,显示,模式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#常用工业控件及使用方法"
+title: "C常用工业控件及使用方法"
 date:   2023-08-26
 tags: [控件,表格,按钮,使用,常用]
 comments: true

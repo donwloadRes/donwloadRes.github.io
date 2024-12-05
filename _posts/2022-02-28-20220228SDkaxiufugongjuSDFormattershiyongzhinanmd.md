@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD卡修复工具：SDFormatter使用指南"
+title: "SD卡修复工具SDFormatter使用指南"
 date:   2020-08-08
 tags: [SD,格式化,SDFormatter,文件系统,修复]
 comments: true

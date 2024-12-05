@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 启动分析工具 bootchart.jar"
+title: "Android 启动分析工具 bootchartjar"
 date:   2024-01-25
 tags: [Android,bootchart,jar,启动,工具]
 comments: true

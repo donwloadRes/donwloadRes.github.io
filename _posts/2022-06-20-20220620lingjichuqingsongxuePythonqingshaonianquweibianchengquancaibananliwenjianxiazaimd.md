@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础轻松学Python：青少年趣味编程（全彩版）》案例文件下载"
+title: "零基础轻松学Python青少年趣味编程全彩版案例文件下载"
 date:   2022-04-21
 tags: [Python,编程,案例,全彩,青少年]
 comments: true

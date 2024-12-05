@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【YOLO基于Pytorch的视频车流量检测】"
+title: "YOLO基于Pytorch的视频车流量检测"
 date:   2023-10-29
 tags: [YOLO,检测,Pytorch,车流量,视频]
 comments: true

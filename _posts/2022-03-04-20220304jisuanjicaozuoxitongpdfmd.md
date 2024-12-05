@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机操作系统.pdf"
+title: "计算机操作系统pdf"
 date:   2020-06-09
 tags: [操作系统,pdf,文档,计算机,学习]
 comments: true

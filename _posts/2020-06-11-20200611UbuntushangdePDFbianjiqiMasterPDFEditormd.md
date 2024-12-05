@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu上的PDF编辑器——Master PDF Editor"
+title: "Ubuntu上的PDF编辑器Master PDF Editor"
 date:   2023-05-02
 tags: [PDF,Master,Editor,文件,Ubuntu]
 comments: true

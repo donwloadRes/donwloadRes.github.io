@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缤果Qt5串口网络蓝牙调试助手V3.1.0.9(高级篇)"
+title: "缤果Qt5串口网络蓝牙调试助手V3109高级篇"
 date:   2020-03-29
 tags: [串口,蓝牙,调试,缤果,0.9]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECE-R10-Rev.6最新版本欧标认证规范"
+title: "ECER10Rev6最新版本欧标认证规范"
 date:   2024-10-20
 tags: [ECE,R10,Rev.6,版本,文件]
 comments: true

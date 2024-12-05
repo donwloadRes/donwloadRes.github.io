@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle源码（Web版）下载仓库"
+title: "Kettle源码Web版下载仓库"
 date:   2024-02-09
 tags: [Kettle,源码,Web,文件,ETL]
 comments: true

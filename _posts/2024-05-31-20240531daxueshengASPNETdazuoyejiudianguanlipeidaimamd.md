@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学生ASP.NET大作业（酒店管理）配代码"
+title: "大学生ASPNET大作业酒店管理配代码"
 date:   2022-10-14
 tags: [作业,ASP,NET,大学生,代码]
 comments: true

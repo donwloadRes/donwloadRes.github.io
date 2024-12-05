@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 1.4b 规范文件下载"
+title: "HDMI 14b 规范文件下载"
 date:   2021-06-11
 tags: [HDMI,1.4,文件,规范,PDF]
 comments: true

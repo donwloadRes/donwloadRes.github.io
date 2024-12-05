@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸OLED屏幕显示示例程序（基于STM32F103VE开发）"
+title: "096寸OLED屏幕显示示例程序基于STM32F103VE开发"
 date:   2020-12-15
 tags: [OLED,示例,0.96,屏幕,滚动]
 comments: true

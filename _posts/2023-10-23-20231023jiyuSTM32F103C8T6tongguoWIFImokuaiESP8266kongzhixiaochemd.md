@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6通过WIFI模块（ESP8266）控制小车"
+title: "基于STM32F103C8T6通过WIFI模块ESP8266控制小车"
 date:   2024-03-05
 tags: [WIFI,ESP8266,小车,模块,STM32F103C8T6]
 comments: true

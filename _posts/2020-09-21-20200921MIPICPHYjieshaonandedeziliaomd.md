@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI C-PHY介绍：难得的资料"
+title: "MIPI CPHY介绍难得的资料"
 date:   2023-10-08
 tags: [PHY,MIPI,资料,应用,接口技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch 实现 Image to Image (pix2pix)"
+title: "PyTorch 实现 Image to Image pix2pix"
 date:   2021-01-03
 tags: [图像,训练,模型,Image,pix2pix]
 comments: true

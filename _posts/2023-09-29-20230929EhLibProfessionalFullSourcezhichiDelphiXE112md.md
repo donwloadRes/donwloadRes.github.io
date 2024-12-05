@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EhLib Professional Full Source 支持 Delphi XE11.2"
+title: "EhLib Professional Full Source 支持 Delphi XE112"
 date:   2024-05-10
 tags: [Delphi,EhLib,XE11.2,资源,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学做机器人 —— 第三章 安装烧写软件和下载器USB-ISP驱动"
+title: "从零开始学做机器人  第三章 安装烧写软件和下载器USBISP驱动"
 date:   2024-04-06
 tags: [ISP,烧写,USB,机器人,软件]
 comments: true

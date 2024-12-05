@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP-IP与基恩士PLC通讯的最简方式"
+title: "C TCPIP与基恩士PLC通讯的最简方式"
 date:   2022-03-30
 tags: [PLC,基恩,C#,通讯,示例]
 comments: true

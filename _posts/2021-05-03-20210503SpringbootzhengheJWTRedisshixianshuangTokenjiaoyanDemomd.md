@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot 整合 JWT + Redis 实现双Token校验Demo"
+title: "Springboot 整合 JWT  Redis 实现双Token校验Demo"
 date:   2023-12-11
 tags: [令牌,Redis,JWT,Token,Spring]
 comments: true

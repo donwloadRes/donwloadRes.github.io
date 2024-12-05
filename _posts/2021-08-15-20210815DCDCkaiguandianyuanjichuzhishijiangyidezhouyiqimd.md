@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DC-DC开关电源基础知识讲义（德州仪器）"
+title: "DCDC开关电源基础知识讲义德州仪器"
 date:   2024-04-24
 tags: [DC,开关电源,讲义,电源,德州仪器]
 comments: true

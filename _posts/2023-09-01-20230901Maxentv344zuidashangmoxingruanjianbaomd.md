@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maxent v3.4.4 最大熵模型软件包"
+title: "Maxent v344 最大熵模型软件包"
 date:   2024-11-25
 tags: [Maxent,物种,v3.4,模型,生态]
 comments: true

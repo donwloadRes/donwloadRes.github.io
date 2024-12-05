@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker安装RocketMQ 5.1.4 官方镜像详细指南"
+title: "Docker安装RocketMQ 514 官方镜像详细指南"
 date:   2024-10-22
 tags: [Docker,镜像,官方,指南,RocketMQ]
 comments: true

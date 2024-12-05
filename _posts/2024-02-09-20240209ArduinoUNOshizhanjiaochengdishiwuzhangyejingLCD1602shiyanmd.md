@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino UNO实战教程：第十五章 - 液晶LCD1602实验"
+title: "Arduino UNO实战教程第十五章  液晶LCD1602实验"
 date:   2024-03-10
 tags: [LCD1602,Arduino,LCD,UNO,I2C]
 comments: true

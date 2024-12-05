@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最全信号与系统》研究生总结考研笔记"
+title: "史上最全信号与系统研究生总结考研笔记"
 date:   2024-05-23
 tags: [笔记,考研,系统,信号,研究生]
 comments: true

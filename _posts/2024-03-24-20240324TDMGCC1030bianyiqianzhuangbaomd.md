@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDM-GCC 10.3.0 编译器安装包"
+title: "TDMGCC 1030 编译器安装包"
 date:   2024-09-01
 tags: [编译器,10.3,TDM,GCC,安装包]
 comments: true

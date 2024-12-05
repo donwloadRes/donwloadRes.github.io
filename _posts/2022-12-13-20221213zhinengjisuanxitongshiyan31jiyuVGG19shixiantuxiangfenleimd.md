@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能计算系统实验3-1-基于 VGG19 实现图像分类"
+title: "智能计算系统实验31基于 VGG19 实现图像分类"
 date:   2023-03-28
 tags: [实验,VGG19,模型,实验报告,训练]
 comments: true

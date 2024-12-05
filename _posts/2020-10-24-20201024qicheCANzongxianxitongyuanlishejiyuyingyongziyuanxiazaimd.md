@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车CAN总线系统原理、设计与应用资源下载"
+title: "汽车CAN总线系统原理设计与应用资源下载"
 date:   2022-11-22
 tags: [总线,下载,原理,应用,设计]
 comments: true

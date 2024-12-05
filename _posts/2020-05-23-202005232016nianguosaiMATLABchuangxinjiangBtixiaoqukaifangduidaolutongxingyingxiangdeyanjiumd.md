@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016 年国赛 MATLAB 创新奖 B 题：小区开放对道路通行影响的研究"
+title: "2016 年国赛 MATLAB 创新奖 B 题小区开放对道路通行影响的研究"
 date:   2023-09-21
 tags: [小区,通行,道路,MATLAB,开放]
 comments: true

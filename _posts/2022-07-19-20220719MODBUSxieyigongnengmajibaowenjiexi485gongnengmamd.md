@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS协议(功能码及报文解析)-485功能码"
+title: "MODBUS协议功能码及报文解析485功能码"
 date:   2024-04-23
 tags: [MODBUS,485,报文,功能,解析]
 comments: true

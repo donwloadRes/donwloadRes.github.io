@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车LIN通信规范(2.2a版本) 下载仓库"
+title: "汽车LIN通信规范22a版本 下载仓库"
 date:   2022-12-20
 tags: [LIN,2.2,规范,汽车,版本]
 comments: true

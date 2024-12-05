@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值实验代码：RaytrAMP - 发射和弹跳射线方法用于雷达横截面计算"
+title: "数值实验代码RaytrAMP  发射和弹跳射线方法用于雷达横截面计算"
 date:   2023-06-07
 tags: [BVH,RaytrAMP,GPU,计算,代码]
 comments: true

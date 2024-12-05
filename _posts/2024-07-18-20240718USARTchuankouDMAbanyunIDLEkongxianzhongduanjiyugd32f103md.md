@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USART串口+DMA搬运+IDLE空闲中断（基于gd32f103）"
+title: "USART串口DMA搬运IDLE空闲中断基于gd32f103"
 date:   2022-05-02
 tags: [串口,USART,DMA,gd32f103,IDLE]
 comments: true

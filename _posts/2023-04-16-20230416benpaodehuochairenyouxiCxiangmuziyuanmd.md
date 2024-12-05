@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奔跑的火柴人游戏 - C++ 项目资源"
+title: "奔跑的火柴人游戏  C 项目资源"
 date:   2020-09-28
 tags: [C++,项目,游戏,火柴,奔跑]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK1.8安装教程（保姆式）"
+title: "JDK18安装教程保姆式"
 date:   2023-06-28
 tags: [安装,JDK,Java,教程,1.8]
 comments: true

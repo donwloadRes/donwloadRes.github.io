@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS1256-STM32 数据采集板资料"
+title: "ADS1256STM32 数据采集板资料"
 date:   2022-02-19
 tags: [串口,源代码,采集,固件,数据]
 comments: true

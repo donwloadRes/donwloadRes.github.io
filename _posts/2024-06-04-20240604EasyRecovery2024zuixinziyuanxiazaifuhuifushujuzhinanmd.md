@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyRecovery 2024 最新资源下载（附恢复数据指南）"
+title: "EasyRecovery 2024 最新资源下载附恢复数据指南"
 date:   2021-11-10
 tags: [EasyRecovery,恢复,安装程序,数据,丢失]
 comments: true

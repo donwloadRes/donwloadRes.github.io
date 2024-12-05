@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTex转Word神器Pandoc 3.1.12.2及兼容版本插件pandoc-crossref安装包"
+title: "LaTex转Word神器Pandoc 31122及兼容版本插件pandoccrossref安装包"
 date:   2021-09-13
 tags: [Pandoc,安装包,插件,pandoc,crossref]
 comments: true

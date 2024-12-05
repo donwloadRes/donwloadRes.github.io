@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4kW+ 数字 LLC 谐振软开关电路资源"
+title: "4kW 数字 LLC 谐振软开关电路资源"
 date:   2024-05-14
 tags: [LLC,电路设计,4kW,仿真,谐振]
 comments: true

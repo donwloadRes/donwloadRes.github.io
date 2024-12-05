@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PanguHA：Windows双机热备工具"
+title: "PanguHAWindows双机热备工具"
 date:   2022-07-24
 tags: [Windows,PanguHA,高可用性,主备,服务器之间]
 comments: true

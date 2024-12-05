@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机顶盒全网通固件 - 中兴B760HV2-S805-8188WF 线刷带教程及短接点"
+title: "机顶盒全网通固件  中兴B760HV2S8058188WF 线刷带教程及短接点"
 date:   2020-05-22
 tags: [固件,机顶盒,教程,刷机,接点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemC经典教程（课件代码完整版第二部分）-参考代码"
+title: "SystemC经典教程课件代码完整版第二部分参考代码"
 date:   2024-06-18
 tags: [SystemC,代码,片上,课件,参考]
 comments: true

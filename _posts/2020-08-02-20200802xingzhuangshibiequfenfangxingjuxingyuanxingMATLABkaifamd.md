@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "形状识别：区分方形、矩形、圆形 - MATLAB开发"
+title: "形状识别区分方形矩形圆形  MATLAB开发"
 date:   2023-04-08
 tags: [形状,图像,识别,RGB,MATLAB]
 comments: true

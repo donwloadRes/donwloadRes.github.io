@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件原理图设计规范（精华版）"
+title: "硬件原理图设计规范精华版"
 date:   2023-01-23
 tags: [设计,硬件,原理图,设计规范,精华版]
 comments: true

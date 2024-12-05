@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言再学习：单精度(float)和双精度(double)浮点数与十六进制(HEX)之间转换"
+title: "C语言再学习单精度float和双精度double浮点数与十六进制HEX之间转换"
 date:   2023-05-26
 tags: [浮点数,十六进制,C语言,单精度,转换]
 comments: true

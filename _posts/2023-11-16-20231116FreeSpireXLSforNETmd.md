@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Free Spire.XLS for .NET"
+title: "Free SpireXLS for NET"
 date:   2022-04-08
 tags: [Excel,Free,Spire,XLS,NET]
 comments: true

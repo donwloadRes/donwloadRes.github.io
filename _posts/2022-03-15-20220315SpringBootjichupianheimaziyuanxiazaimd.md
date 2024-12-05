@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot基础篇--黑马 资源下载"
+title: "SpringBoot基础篇黑马 资源下载"
 date:   2024-02-29
 tags: [SpringBoot,资源,--,学习,黑马]
 comments: true

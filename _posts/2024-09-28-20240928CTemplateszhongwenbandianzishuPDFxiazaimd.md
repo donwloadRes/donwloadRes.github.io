@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Templates中文版电子书PDF下载"
+title: "C Templates中文版电子书PDF下载"
 date:   2022-10-26
 tags: [模板,C++,编程,Templates,PDF]
 comments: true

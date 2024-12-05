@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LENOVO联想ThinkBook 16p G4 IRH(21J8)笔记本电脑原装出厂Windows11系统镜像"
+title: "LENOVO联想ThinkBook 16p G4 IRH21J8笔记本电脑原装出厂Windows11系统镜像"
 date:   2023-09-23
 tags: [镜像,U盘,系统,出厂,联想]
 comments: true

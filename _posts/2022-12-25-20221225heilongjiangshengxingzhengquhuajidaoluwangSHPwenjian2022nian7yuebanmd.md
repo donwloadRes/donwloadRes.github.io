@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑龙江省行政区划及道路网SHP文件（2022年7月版）"
+title: "黑龙江省行政区划及道路网SHP文件2022年7月版"
 date:   2023-12-10
 tags: [SHP,道路网,GIS,2022,文件]
 comments: true

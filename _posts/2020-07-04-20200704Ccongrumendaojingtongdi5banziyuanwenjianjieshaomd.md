@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#从入门到精通(第5版) 资源文件介绍"
+title: "C从入门到精通第5版 资源文件介绍"
 date:   2022-05-24
 tags: [C#,源码,文件,编程,讲解]
 comments: true

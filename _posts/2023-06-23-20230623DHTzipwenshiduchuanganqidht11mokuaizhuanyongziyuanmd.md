@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DHT.zip 温湿度传感器dht11模块专用资源"
+title: "DHTzip 温湿度传感器dht11模块专用资源"
 date:   2021-11-30
 tags: [Arduino,温湿度,传感器,DHT11,zip]
 comments: true

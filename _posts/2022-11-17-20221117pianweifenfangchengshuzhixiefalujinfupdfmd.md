@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偏微分方程数值解法 - 陆金甫.pdf"
+title: "偏微分方程数值解法  陆金甫pdf"
 date:   2021-12-31
 tags: [数值,微分方程,有限元,方法,陆金]
 comments: true

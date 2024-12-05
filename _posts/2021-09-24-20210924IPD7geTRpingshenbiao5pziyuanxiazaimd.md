@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPD7个TR评审表（5p）资源下载"
+title: "IPD7个TR评审表5p资源下载"
 date:   2020-12-16
 tags: [评审,TR,文件,IPD7,5p]
 comments: true

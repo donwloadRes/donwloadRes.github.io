@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 卡尔曼滤波多目标跟踪实现"
+title: "C 卡尔曼滤波多目标跟踪实现"
 date:   2021-02-01
 tags: [卡尔曼滤波,C++,跟踪,bash,目标]
 comments: true

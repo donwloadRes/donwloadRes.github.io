@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像分类数据集：hymenoptera-data"
+title: "图像分类数据集hymenopteradata"
 date:   2021-10-08
 tags: [图像,数据,hymenoptera,data,ants]
 comments: true

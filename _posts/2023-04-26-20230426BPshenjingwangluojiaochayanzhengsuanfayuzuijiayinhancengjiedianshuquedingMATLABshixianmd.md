@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络交叉验证算法与最佳隐含层节点数确定 - MATLAB实现"
+title: "BP神经网络交叉验证算法与最佳隐含层节点数确定  MATLAB实现"
 date:   2023-04-11
 tags: [MATLAB,神经网络,BP,节点,验证]
 comments: true

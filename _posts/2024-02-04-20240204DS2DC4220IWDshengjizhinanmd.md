@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS-2DC4220IW-D 升级指南"
+title: "DS2DC4220IWD 升级指南"
 date:   2021-08-13
 tags: [升级,萤石,绑定,5.5,IPD]
 comments: true

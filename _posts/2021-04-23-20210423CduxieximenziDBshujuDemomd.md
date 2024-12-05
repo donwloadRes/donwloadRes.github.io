@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读写西门子DB数据Demo"
+title: "C读写西门子DB数据Demo"
 date:   2020-07-28
 tags: [Demo,snap7,类库,PLC,DB]
 comments: true

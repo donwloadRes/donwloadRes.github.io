@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kindle Paperwhite 2（KPW2，第6代）多看系统最后一版下载"
+title: "Kindle Paperwhite 2KPW2第6代多看系统最后一版下载"
 date:   2021-08-20
 tags: [Kindle,KPW2,Paperwhite,系统,一版]
 comments: true

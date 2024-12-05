@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft C++ Build Tools"
+title: "Microsoft C Build Tools"
 date:   2022-05-13
 tags: [C++,Microsoft,Build,Tools,Visual]
 comments: true

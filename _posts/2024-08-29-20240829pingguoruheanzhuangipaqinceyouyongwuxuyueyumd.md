@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果如何安装ipa（亲测有用，无需越狱）"
+title: "苹果如何安装ipa亲测有用无需越狱"
 date:   2023-12-30
 tags: [ipa,安装,苹果,Apple,ID]
 comments: true

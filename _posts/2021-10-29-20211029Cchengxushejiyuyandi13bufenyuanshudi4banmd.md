@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 程序设计语言（第 1 - 3 部分）（原书第 4 版）"
+title: "C 程序设计语言第 1  3 部分原书第 4 版"
 date:   2021-10-15
 tags: [C++,编程,原书,编程语言,语言]
 comments: true

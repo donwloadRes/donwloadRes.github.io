@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mastercam车铣复合后处理4+4 动力刀塔 走心机通用版本！多功能中文版！"
+title: "Mastercam车铣复合后处理44 动力刀塔 走心机通用版本多功能中文版"
 date:   2022-05-21
 tags: [后处理,Mastercam,刀塔,心机,复合]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenJDK 1.8 下载与安装指南"
+title: "OpenJDK 18 下载与安装指南"
 date:   2020-07-14
 tags: [1.8,OpenJDK,安装包,安装,下载]
 comments: true

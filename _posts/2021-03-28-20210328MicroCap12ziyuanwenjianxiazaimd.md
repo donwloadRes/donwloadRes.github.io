@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MicroCap_12 资源文件下载"
+title: "MicroCap12 资源文件下载"
 date:   2022-01-30
 tags: [MicroCap,12,解压,软件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.7.0 库文件下载"
+title: "OpenCV 470 库文件下载"
 date:   2020-03-30
 tags: [文件,OpenCV,4.7,Visual,Studio]
 comments: true

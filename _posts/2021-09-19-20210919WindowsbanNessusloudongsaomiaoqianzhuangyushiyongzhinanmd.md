@@ -1,6 +1,52 @@
 ---
 layout: post
-title: "Windows版Nessus漏洞扫描器安装与使用指南"
+title: "Windows版Nessus漏洞扫描器安装与使用指南
+date   20230605
+tags Nessus安装插件Windows路径
+comments true
+author admin
+
+ Windows版Nessus漏洞扫描器安装与使用指南
+
+本仓库提供了一个资源文件用于Windows版Nessus漏洞扫描器的安装与使用Nessus是一款广泛使用的系统漏洞扫描与分析软件能够帮助用户快速检测和解决网络中的安全漏洞
+
+ 资源文件内容
+
+ Nessus版本 8131
+ 适用系统 Windows 10 64位
+ 插件版本 all2020220618tar
+
+ 安装步骤
+
+1 下载资源文件 从本仓库下载Nessus安装包及相关插件
+2 安装Nessus
+    双击安装包点击Next
+    选择安装路径建议自定义路径点击Install
+    安装完成后点击Finish
+3 配置Nessus
+    安装完成后浏览器会自动访问Nessus管理界面httpslocalhost8834
+    选择Connect via SSL然后选择Managed Scanner
+    继续操作注册账号并输入用户名和密码
+4 加载插件
+    等待插件加载完成完成后即可开始使用Nessus进行漏洞扫描
+
+ 破解步骤可选
+
+1 停止Nessus服务 以管理员身份打开命令提示符输入net stop Tenable Nessus
+2 更改文件属性 输入以下命令更改文件属性
+   
+   attrib s r h 安装路径Nessusnessusplugins
+   attrib s r h 安装路径Nessusnessuspluginfeedinfoinc
+   
+3 更新插件 将下载的插件文件复制到Nessus安装目录下然后输入以下命令更新插件
+   
+   nessuscliexe update all2020220618targz
+   
+4 复制文件 将pluginfeedinfoinc文件复制到plugins目录下
+5 更改文件属性 输入以下命令恢复文件属性
+   
+   attrib s r h 安装路径Nessusnessusplugins
+   attrib s r h 安装路径Nessusnessuspluginfeedinfoinc"
 date:   2023-06-05
 tags: [Nessus,安装,插件,Windows,路径]
 comments: true

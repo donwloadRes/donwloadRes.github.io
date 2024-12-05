@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT付费创作系统源码独立版 V2.1.0 介绍"
+title: "ChatGPT付费创作系统源码独立版 V210 介绍"
 date:   2023-08-30
 tags: [版本,ChatGPT,开源,付费,源码]
 comments: true

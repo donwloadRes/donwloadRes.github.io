@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常好用的均衡器（EQ）源码"
+title: "非常好用的均衡器EQ源码"
 date:   2023-08-02
 tags: [均衡器,源码,集成,EQ,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt样式表使用大全(中文整理资料)"
+title: "Qt样式表使用大全中文整理资料"
 date:   2023-06-20
 tags: [Qt,样式表,QSS,学习,应用]
 comments: true

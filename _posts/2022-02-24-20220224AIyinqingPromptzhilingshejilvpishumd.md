@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI引擎：Prompt指令设计绿皮书"
+title: "AI引擎Prompt指令设计绿皮书"
 date:   2021-12-27
 tags: [Prompt,AI,指令,设计,引擎]
 comments: true

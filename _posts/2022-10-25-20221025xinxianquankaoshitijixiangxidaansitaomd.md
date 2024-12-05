@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全考试题及详细答案（四套）"
+title: "信息安全考试题及详细答案四套"
 date:   2020-12-25
 tags: [信息安全,题目,答案,四套,详细]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EEG信号处理与分类CNN模型集合+样例运行训练"
+title: "EEG信号处理与分类CNN模型集合样例运行训练"
 date:   2021-04-30
 tags: [EEG,模型,训练,CNN,信号处理]
 comments: true

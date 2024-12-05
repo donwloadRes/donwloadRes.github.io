@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoDeSys中文教程.pdf"
+title: "CoDeSys中文教程pdf"
 date:   2024-10-12
 tags: [CoDeSys,教程,学习者,中文,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019 安装 NET Framework 3.5 失败解决方案"
+title: "Windows Server 2019 安装 NET Framework 35 失败解决方案"
 date:   2021-01-29
 tags: [Windows,安装,NET,Framework,3.5]
 comments: true

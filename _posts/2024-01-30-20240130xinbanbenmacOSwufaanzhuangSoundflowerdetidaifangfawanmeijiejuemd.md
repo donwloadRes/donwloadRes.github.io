@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新版本macOS无法安装Soundflower的替代方法「完美解决」"
+title: "新版本macOS无法安装Soundflower的替代方法完美解决"
 date:   2024-03-31
 tags: [BlackHole,音频,macOS,Soundflower,2ch]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wasatch Softrip 喷墨印花RIP软件 V 7.4 For Win7 下载指南"
+title: "Wasatch Softrip 喷墨印花RIP软件 V 74 For Win7 下载指南"
 date:   2024-06-04
 tags: [RIP,软件,喷墨,Wasatch,Softrip]
 comments: true

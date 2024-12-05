@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetApp存储安装、配置和维护手册"
+title: "NetApp存储安装配置和维护手册"
 date:   2021-05-01
 tags: [配置,NetApp,维护,3.2,3.5]
 comments: true

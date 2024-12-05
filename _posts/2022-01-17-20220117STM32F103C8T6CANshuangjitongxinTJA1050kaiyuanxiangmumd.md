@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 CAN双机通信（TJA1050）开源项目"
+title: "STM32F103C8T6 CAN双机通信TJA1050开源项目"
 date:   2022-05-01
 tags: [TJA1050,开源,双机,通信,STM32F103C8T6]
 comments: true

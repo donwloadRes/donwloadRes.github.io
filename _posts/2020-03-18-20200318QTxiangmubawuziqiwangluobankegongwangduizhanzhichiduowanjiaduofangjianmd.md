@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目八：五子棋网络版（可公网对战，支持多玩家多房间）"
+title: "QT项目八五子棋网络版可公网对战支持多玩家多房间"
 date:   2024-11-02
 tags: [玩家,QT,房间,对战,公网]
 comments: true

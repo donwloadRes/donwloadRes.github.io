@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6的USB-HID键盘示例程序"
+title: "基于STM32F103C8T6的USBHID键盘示例程序"
 date:   2020-06-18
 tags: [USB,键盘,STM32F103C8T6,HID,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java工具类：轻松实现Excel转PDF，效果逼真"
+title: "Java工具类轻松实现Excel转PDF效果逼真"
 date:   2024-06-04
 tags: [Excel,PDF,转换,Java,工具]
 comments: true

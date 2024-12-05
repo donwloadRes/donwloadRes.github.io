@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言编译器完全攻略：VS2017下载与安装教程"
+title: "C语言编译器完全攻略VS2017下载与安装教程"
 date:   2020-09-14
 tags: [安装,下载,2017,社区,C语言]
 comments: true

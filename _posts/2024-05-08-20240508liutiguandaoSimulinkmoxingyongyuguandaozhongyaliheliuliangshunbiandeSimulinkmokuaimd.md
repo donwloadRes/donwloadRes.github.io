@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "流体管道 Simulink 模型：用于管道中压力和流量瞬变的 Simulink 模块"
+title: "流体管道 Simulink 模型用于管道中压力和流量瞬变的 Simulink 模块"
 date:   2021-10-14
 tags: [Simulink,管道,模块,流量,模型]
 comments: true

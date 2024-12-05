@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优秀毕业论文：智能避障遥控小车设计"
+title: "优秀毕业论文智能避障遥控小车设计"
 date:   2020-03-21
 tags: [小车,设计,避障,硬件,智能]
 comments: true

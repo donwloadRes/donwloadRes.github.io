@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计SQL Server图书馆管理系统》"
+title: "数据库课程设计SQL Server图书馆管理系统"
 date:   2023-02-25
 tags: [数据库,SQL,源代码,Server,管理系统]
 comments: true

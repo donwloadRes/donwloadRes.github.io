@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EndNote x9下载、安装及使用详细教程"
+title: "EndNote x9下载安装及使用详细教程"
 date:   2021-04-16
 tags: [EndNote,x9,下载,安装,文献]
 comments: true

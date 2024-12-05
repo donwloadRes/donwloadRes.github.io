@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国高速公路.shp资源介绍"
+title: "中国高速公路shp资源介绍"
 date:   2021-02-23
 tags: [高速公路,数据,shp,GIS,更新]
 comments: true

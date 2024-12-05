@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现Halcon标定助手源代码"
+title: "C 实现Halcon标定助手源代码"
 date:   2022-09-15
 tags: [标定,Halcon,C#,助手,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现可折叠展开的DataGridView（提供DLL源码及调用示例）"
+title: "C实现可折叠展开的DataGridView提供DLL源码及调用示例"
 date:   2024-05-28
 tags: [控件,示例,CollapseDataGridView,调用,DataGridView]
 comments: true

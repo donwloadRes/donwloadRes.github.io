@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现SPI接口（1）--什么是SPI接口？"
+title: "FPGA实现SPI接口1什么是SPI接口"
 date:   2020-04-24
 tags: [SPI,协议,FPGA,接口,通信]
 comments: true

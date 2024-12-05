@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁电机教材_高清PDF资源介绍"
+title: "永磁电机教材高清PDF资源介绍"
 date:   2023-06-11
 tags: [永磁,电机,PDF,教材,高清]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱MR-JE-A伺服说明书"
+title: "三菱MRJEA伺服说明书"
 date:   2022-08-20
 tags: [JE,控制,MR,MELSERVO,伺服]
 comments: true

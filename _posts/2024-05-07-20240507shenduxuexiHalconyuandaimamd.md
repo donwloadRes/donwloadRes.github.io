@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习_Halcon源代码"
+title: "深度学习Halcon源代码"
 date:   2021-09-08
 tags: [分类器,Halcon,源代码,深度,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISA-95 权威官方标准资源下载"
+title: "ISA95 权威官方标准资源下载"
 date:   2023-01-13
 tags: [ISA,95,定义,S95,部分]
 comments: true

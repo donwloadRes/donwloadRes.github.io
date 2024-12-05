@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB中的偏最小二乘回归(PLSR)与主成分回归(PCR)分析报告"
+title: "MATLAB中的偏最小二乘回归PLSR与主成分回归PCR分析报告"
 date:   2021-08-03
 tags: [MATLAB,PLSR,PCR,代码,回归]
 comments: true

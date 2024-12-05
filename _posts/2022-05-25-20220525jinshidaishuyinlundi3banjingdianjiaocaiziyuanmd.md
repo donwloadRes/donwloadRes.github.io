@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "近世代数引论(第3版) - 经典教材资源"
+title: "近世代数引论第3版  经典教材资源"
 date:   2021-04-12
 tags: [近世,代数,数学,教材,引论]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Passper for Excel v3.7.0.4 多语言版"
+title: "Passper for Excel v3704 多语言版"
 date:   2020-08-16
 tags: [Excel,文件,0.4,Passper,v3.7]
 comments: true

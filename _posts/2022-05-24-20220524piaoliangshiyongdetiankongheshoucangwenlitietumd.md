@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漂亮实用的天空盒收藏（纹理贴图）"
+title: "漂亮实用的天空盒收藏纹理贴图"
 date:   2021-12-15
 tags: [天空,纹理,贴图,实用,下载]
 comments: true

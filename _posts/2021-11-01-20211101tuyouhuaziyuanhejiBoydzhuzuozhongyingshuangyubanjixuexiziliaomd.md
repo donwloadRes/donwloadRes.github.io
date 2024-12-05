@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凸优化资源合集 - Boyd著作中英双语版及学习资料"
+title: "凸优化资源合集  Boyd著作中英双语版及学习资料"
 date:   2020-03-16
 tags: [优化,学习,Boyd,资源,英文版]
 comments: true

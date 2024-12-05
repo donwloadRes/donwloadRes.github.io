@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android SDK Platforms: android-33"
+title: "Android SDK Platforms android33"
 date:   2023-03-26
 tags: [Android,SDK,33,android,13]
 comments: true

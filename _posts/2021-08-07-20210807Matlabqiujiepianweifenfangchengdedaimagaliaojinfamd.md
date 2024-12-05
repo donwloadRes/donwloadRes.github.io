@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab求解偏微分方程的代码-伽辽金法"
+title: "Matlab求解偏微分方程的代码伽辽金法"
 date:   2021-06-14
 tags: [代码,求解,辽金,Python,微分方程]
 comments: true

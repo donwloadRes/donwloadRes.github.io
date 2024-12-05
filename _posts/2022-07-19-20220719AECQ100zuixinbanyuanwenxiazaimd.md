@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q100最新版原文下载"
+title: "AECQ100最新版原文下载"
 date:   2020-04-18
 tags: [AEC,Q100,最新版,原文,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 扫描蓝牙 WinForm 示例"
+title: "C 扫描蓝牙 WinForm 示例"
 date:   2021-09-08
 tags: [蓝牙,示例,扫描,C#,WinForm]
 comments: true

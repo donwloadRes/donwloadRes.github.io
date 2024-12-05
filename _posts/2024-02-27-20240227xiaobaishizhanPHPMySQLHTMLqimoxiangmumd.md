@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白实战：PHP+MySQL+HTML期末项目"
+title: "小白实战PHPMySQLHTML期末项目"
 date:   2020-05-07
 tags: [PHP,MySQL,数据库,HTML,项目]
 comments: true

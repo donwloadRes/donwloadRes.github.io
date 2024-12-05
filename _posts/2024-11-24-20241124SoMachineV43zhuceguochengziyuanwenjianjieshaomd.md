@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SoMachine V4.3注册过程资源文件介绍"
+title: "SoMachine V43注册过程资源文件介绍"
 date:   2023-08-07
 tags: [SoMachine,V4.3,注册,文件,过程]
 comments: true

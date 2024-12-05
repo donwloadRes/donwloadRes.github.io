@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "制作CHM离线手册文件——以W3School为例"
+title: "制作CHM离线手册文件以W3School为例"
 date:   2021-12-10
 tags: [CHM,离线,文件,W3School,HTML]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cocos2d-x C++ 3.4 游戏源码大合集"
+title: "Cocos2dx C 34 游戏源码大合集"
 date:   2023-06-09
 tags: [源码,Cocos2d,游戏,3.4,文件]
 comments: true

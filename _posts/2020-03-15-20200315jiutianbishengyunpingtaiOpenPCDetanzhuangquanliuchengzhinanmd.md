@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "九天毕昇云平台：OpenPCDet安装全流程指南"
+title: "九天毕昇云平台OpenPCDet安装全流程指南"
 date:   2022-01-18
 tags: [安装,指南,OpenPCDet,spconv,训练]
 comments: true

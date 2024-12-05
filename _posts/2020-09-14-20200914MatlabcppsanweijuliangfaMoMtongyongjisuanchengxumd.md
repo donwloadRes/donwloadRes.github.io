@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab+cpp三维矩量法（MoM）通用计算程序"
+title: "Matlabcpp三维矩量法MoM通用计算程序"
 date:   2021-06-30
 tags: [波参数,程序,网格,计算,矩量]
 comments: true

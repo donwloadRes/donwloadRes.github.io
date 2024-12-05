@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CryptoJS v4.0.0 加密库下载"
+title: "CryptoJS v400 加密库下载"
 date:   2020-01-05
 tags: [js,CryptoJS,加密,hmac,密码]
 comments: true

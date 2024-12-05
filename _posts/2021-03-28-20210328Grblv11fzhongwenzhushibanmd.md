@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grbl v1.1f 中文注释版"
+title: "Grbl v11f 中文注释版"
 date:   2022-03-09
 tags: [Grbl,注释,中文,v1.1,Arduino]
 comments: true

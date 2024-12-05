@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密SM2,SM3,SM4计算工具"
+title: "国密SM2SM3SM4计算工具"
 date:   2021-05-26
 tags: [国密,SM2,算法,SM3,SM4]
 comments: true

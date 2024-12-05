@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可编程语言标准IEC61131-3中文版"
+title: "可编程语言标准IEC611313中文版"
 date:   2022-10-28
 tags: [IEC61131,编程语言,标准,文件,中文版]
 comments: true

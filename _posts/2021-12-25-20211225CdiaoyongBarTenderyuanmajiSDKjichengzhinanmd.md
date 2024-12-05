@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用BarTender源码及SDK集成指南"
+title: "C调用BarTender源码及SDK集成指南"
 date:   2021-08-16
 tags: [源码,BarTender,SDK,集成,C#]
 comments: true

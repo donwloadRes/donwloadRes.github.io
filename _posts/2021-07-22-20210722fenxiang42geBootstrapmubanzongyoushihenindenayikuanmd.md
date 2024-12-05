@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享42个Bootstrap模板，总有适合您的那一款"
+title: "分享42个Bootstrap模板总有适合您的那一款"
 date:   2020-08-24
 tags: [模板,Bootstrap,适合,42,下载]
 comments: true

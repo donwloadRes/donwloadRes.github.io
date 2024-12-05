@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DICOM测试工具（SCU）"
+title: "DICOM测试工具SCU"
 date:   2020-12-26
 tags: [DICOM,测试工具,PACS,SCP,工具]
 comments: true

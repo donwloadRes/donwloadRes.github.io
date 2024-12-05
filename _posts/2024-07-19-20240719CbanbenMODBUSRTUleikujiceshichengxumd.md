@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版本MODBUS RTU类库及测试程序"
+title: "C版本MODBUS RTU类库及测试程序"
 date:   2021-08-29
 tags: [类库,测试程序,MODBUS,C#,RTU]
 comments: true

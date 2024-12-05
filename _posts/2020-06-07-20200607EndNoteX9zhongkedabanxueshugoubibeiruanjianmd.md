@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EndNote X9 中科大版 - 学术狗必备软件"
+title: "EndNote X9 中科大版  学术狗必备软件"
 date:   2020-02-06
 tags: [中科大,EndNote,X9,学术,仓库]
 comments: true

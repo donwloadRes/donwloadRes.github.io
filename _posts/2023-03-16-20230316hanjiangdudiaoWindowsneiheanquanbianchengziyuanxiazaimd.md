@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "寒江独钓Windows内核安全编程》资源下载"
+title: "寒江独钓Windows内核安全编程资源下载"
 date:   2021-01-11
 tags: [Windows,内核,编程,驱动,本书]
 comments: true

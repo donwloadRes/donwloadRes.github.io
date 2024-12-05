@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMSpeech 1.0 免费实时语音转字幕软件"
+title: "TMSpeech 10 免费实时语音转字幕软件"
 date:   2024-02-10
 tags: [字幕,实时,TMSpeech,1.0,语音]
 comments: true

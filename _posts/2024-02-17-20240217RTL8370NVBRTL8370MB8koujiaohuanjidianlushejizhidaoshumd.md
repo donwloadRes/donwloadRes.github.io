@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8370N-VB-RTL8370MB 8口交换机电路设计指导书"
+title: "RTL8370NVBRTL8370MB 8口交换机电路设计指导书"
 date:   2023-06-18
 tags: [电路设计,指导书,RTL8370N,交换机,VB]
 comments: true

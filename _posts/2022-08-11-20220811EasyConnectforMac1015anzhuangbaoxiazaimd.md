@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyConnect for Mac 10.15 安装包下载"
+title: "EasyConnect for Mac 1015 安装包下载"
 date:   2024-02-05
 tags: [EasyConnect,安装包,安装,下载,Mac]
 comments: true

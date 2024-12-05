@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Logistic回归预测糖尿病得病率：多变量逻辑回归的Python实现"
+title: "使用Logistic回归预测糖尿病得病率多变量逻辑回归的Python实现"
 date:   2021-07-19
 tags: [Logistic,Python,模型,回归,糖尿病]
 comments: true

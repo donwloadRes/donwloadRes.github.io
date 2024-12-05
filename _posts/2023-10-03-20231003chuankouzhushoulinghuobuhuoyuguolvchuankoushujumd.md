@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口助手：灵活捕获与过滤串口数据"
+title: "串口助手灵活捕获与过滤串口数据"
 date:   2022-08-04
 tags: [串口,捕获,数据,过滤,工具]
 comments: true

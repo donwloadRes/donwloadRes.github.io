@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python二维码识别实验1"
+title: "OpenCVPython二维码识别实验1"
 date:   2021-04-18
 tags: [二维码,实验,OpenCV,条形码,识别]
 comments: true

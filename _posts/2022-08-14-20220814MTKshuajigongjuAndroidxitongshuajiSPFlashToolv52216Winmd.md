@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK 刷机工具 Android系统刷机 SP_Flash_Tool_v5.2216_Win"
+title: "MTK 刷机工具 Android系统刷机 SPFlashToolv52216Win"
 date:   2021-07-04
 tags: [刷机,SP,Flash,Tool,v5.2216]
 comments: true

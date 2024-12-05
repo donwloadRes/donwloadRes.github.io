@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express M.2 Specification Revision 1.1"
+title: "PCI Express M2 Specification Revision 11"
 date:   2023-12-25
 tags: [M.2,接口,文档,规范,PCI]
 comments: true

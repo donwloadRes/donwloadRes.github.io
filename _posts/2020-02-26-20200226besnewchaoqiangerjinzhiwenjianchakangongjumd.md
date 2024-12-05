@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "besnew - 超强二进制文件查看工具"
+title: "besnew  超强二进制文件查看工具"
 date:   2022-06-02
 tags: [进制,查看,besnew,二进制,文件]
 comments: true

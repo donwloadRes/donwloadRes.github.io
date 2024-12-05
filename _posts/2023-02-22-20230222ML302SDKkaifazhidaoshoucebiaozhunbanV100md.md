@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML302-SDK开发指导手册（标准版）-V1.0.0"
+title: "ML302SDK开发指导手册标准版V100"
 date:   2022-02-04
 tags: [SDK,ML302,模组,手册,V1.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon学习资料链接仓库 README.md"
+title: "Halcon学习资料链接仓库 READMEmd"
 date:   2024-10-10
 tags: [Halcon,学习,链接,视觉,进阶]
 comments: true

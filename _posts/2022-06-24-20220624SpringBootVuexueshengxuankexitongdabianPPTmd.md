@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue学生选课系统答辩PPT"
+title: "SpringBootVue学生选课系统答辩PPT"
 date:   2021-12-16
 tags: [答辩,PPT,SpringBoot,Vue,选课]
 comments: true

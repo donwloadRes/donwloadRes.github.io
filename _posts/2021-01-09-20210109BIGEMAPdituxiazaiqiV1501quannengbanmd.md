@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIGEMAP地图下载器V15.01全能版"
+title: "BIGEMAP地图下载器V1501全能版"
 date:   2022-05-15
 tags: [地图,下载,BIGEMAP,V15.01,软件]
 comments: true

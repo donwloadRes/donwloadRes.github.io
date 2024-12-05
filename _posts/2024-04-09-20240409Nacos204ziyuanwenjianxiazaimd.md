@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.0.4 资源文件下载"
+title: "Nacos 204 资源文件下载"
 date:   2023-01-09
 tags: [Nacos,2.0,下载,文件,nacos]
 comments: true

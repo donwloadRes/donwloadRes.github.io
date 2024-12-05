@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RJ45线序详解（含千兆）"
+title: "RJ45线序详解含千兆"
 date:   2023-10-14
 tags: [双绞线,接头,RJ45,标准,线序]
 comments: true

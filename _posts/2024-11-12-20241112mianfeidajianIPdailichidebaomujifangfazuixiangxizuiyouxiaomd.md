@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费搭建IP代理池的保姆级方法（最详细最有效）"
+title: "免费搭建IP代理池的保姆级方法最详细最有效"
 date:   2024-08-22
 tags: [IP,代理,Redis,搭建,IP地址]
 comments: true

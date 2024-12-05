@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用可靠性工程（第四版）PDF资源下载"
+title: "实用可靠性工程第四版PDF资源下载"
 date:   2023-02-01
 tags: [PDF,可靠性,工程,第四版,实用]
 comments: true

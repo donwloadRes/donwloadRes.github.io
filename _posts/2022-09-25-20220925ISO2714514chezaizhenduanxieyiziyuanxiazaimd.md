@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO27145(1-4) 车载诊断协议资源下载"
+title: "ISO2714514 车载诊断协议资源下载"
 date:   2023-07-10
 tags: [ISO27145,诊断,资源,协议,车载]
 comments: true

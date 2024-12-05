@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惠民白嫖版Elecard StreamEye：高效H.264码流分析利器"
+title: "惠民白嫖版Elecard StreamEye高效H264码流分析利器"
 date:   2023-08-11
 tags: [H.264,码流,视频,白嫖版,分析]
 comments: true

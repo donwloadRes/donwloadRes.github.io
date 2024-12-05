@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程伦理作业：新能源汽车产生的伦理问题"
+title: "工程伦理作业新能源汽车产生的伦理问题"
 date:   2024-04-24
 tags: [伦理,汽车,新能源,驾驶,自动]
 comments: true

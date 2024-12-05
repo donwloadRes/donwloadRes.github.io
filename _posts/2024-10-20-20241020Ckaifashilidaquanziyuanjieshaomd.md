@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发实例大全资源介绍"
+title: "C开发实例大全资源介绍"
 date:   2022-04-26
 tags: [C#,实例,学习,编程,大全]
 comments: true

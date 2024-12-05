@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典 第十版 附录练习题答案"
+title: "C入门经典 第十版 附录练习题答案"
 date:   2022-01-08
 tags: [练习题,答案,C#,第十版,附录]
 comments: true

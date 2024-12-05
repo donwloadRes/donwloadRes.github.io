@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "未来教育NCRE考试客户端V1.0 资源下载"
+title: "未来教育NCRE考试客户端V10 资源下载"
 date:   2023-07-14
 tags: [客户端,考试,NCRE,V1.0,机房]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB设计工具Altium Designer 24.1.2版本在Windows系统上的下载与安装配置"
+title: "PCB设计工具Altium Designer 2412版本在Windows系统上的下载与安装配置"
 date:   2024-04-18
 tags: [Altium,Designer,24.1,安装,PCB]
 comments: true

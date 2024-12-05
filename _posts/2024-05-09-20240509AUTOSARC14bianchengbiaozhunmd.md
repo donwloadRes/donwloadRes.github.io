@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR C++14 编程标准"
+title: "AUTOSAR C14 编程标准"
 date:   2023-07-20
 tags: [C++,14,---,标准,安全]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV入门教程(基础原理讲解C++版)"
+title: "OpenCV入门教程基础原理讲解C版"
 date:   2024-04-01
 tags: [OpenCV,C++,视觉,教程,入门教程]
 comments: true

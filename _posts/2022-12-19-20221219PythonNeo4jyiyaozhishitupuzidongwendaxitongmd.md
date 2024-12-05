@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Neo4j医药知识图谱自动问答系统"
+title: "PythonNeo4j医药知识图谱自动问答系统"
 date:   2022-12-01
 tags: [图谱,知识,Neo4j,问答,数据库]
 comments: true

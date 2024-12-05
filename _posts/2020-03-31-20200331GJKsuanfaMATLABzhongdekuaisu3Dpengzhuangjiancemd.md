@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJK 算法：MATLAB 中的快速 3D 碰撞检测"
+title: "GJK 算法MATLAB 中的快速 3D 碰撞检测"
 date:   2020-07-01
 tags: [GJK,碰撞检测,算法,MATLAB,凸形]
 comments: true

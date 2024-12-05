@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5366带PD充电2lane 4K60HZ TypeC转HDMI2.0扩展坞方案原理图"
+title: "CS5366带PD充电2lane 4K60HZ TypeC转HDMI20扩展坞方案原理图"
 date:   2023-02-25
 tags: [原理图,CS5366,视频,PD,4K60]
 comments: true

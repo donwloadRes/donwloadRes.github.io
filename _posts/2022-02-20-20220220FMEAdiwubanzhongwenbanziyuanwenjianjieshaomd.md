@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMEA（第五版）中文版资源文件介绍"
+title: "FMEA第五版中文版资源文件介绍"
 date:   2020-07-08
 tags: [FMEA,文件,失效,第五版,分析]
 comments: true

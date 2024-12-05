@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高性能计算：Windows下MPI环境安装与VSCode配置指南"
+title: "高性能计算Windows下MPI环境安装与VSCode配置指南"
 date:   2020-07-21
 tags: [MPI,VSCode,安装,插件,Code]
 comments: true

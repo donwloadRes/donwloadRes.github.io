@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus-II 安装教程资源文件介绍"
+title: "QuartusII 安装教程资源文件介绍"
 date:   2022-09-10
 tags: [Quartus,II,安装,教程,下载]
 comments: true

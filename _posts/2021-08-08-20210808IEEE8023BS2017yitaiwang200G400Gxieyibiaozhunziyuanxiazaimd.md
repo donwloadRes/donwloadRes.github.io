@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3BS-2017 以太网200G-400G协议标准资源下载"
+title: "IEEE 8023BS2017 以太网200G400G协议标准资源下载"
 date:   2021-04-09
 tags: [以太网,BS,2017,200G,400G]
 comments: true

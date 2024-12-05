@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息技术服务标准（ITSS）体系建设报告4.0+中文版终稿"
+title: "信息技术服务标准ITSS体系建设报告40中文版终稿"
 date:   2024-01-04
 tags: [信息技术,服务,标准化,报告,ITSS]
 comments: true

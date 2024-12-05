@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA Pro权威指南(第二版) 资源下载"
+title: "IDA Pro权威指南第二版 资源下载"
 date:   2021-05-26
 tags: [IDA,Pro,指南,调试器,权威]
 comments: true

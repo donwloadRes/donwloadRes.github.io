@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 6.0 支持 H265 的 RTMP 推流 Windows 版本"
+title: "FFmpeg 60 支持 H265 的 RTMP 推流 Windows 版本"
 date:   2020-11-07
 tags: [FFmpeg,H265,RTMP,推流,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决webpack4+升级webpack5+ vue-pdf不可用问题"
+title: "解决webpack4升级webpack5 vuepdf不可用问题"
 date:   2024-03-10
 tags: [pdf,vue,node,modules,webpack]
 comments: true

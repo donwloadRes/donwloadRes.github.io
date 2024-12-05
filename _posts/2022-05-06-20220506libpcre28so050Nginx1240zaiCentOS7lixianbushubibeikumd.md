@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libpcre2-8.so.0.5.0 - Nginx 1.24.0 在 CentOS 7 离线部署必备库"
+title: "libpcre28so050  Nginx 1240 在 CentOS 7 离线部署必备库"
 date:   2020-10-13
 tags: [libpcre2,so.0,5.0,Nginx,离线]
 comments: true

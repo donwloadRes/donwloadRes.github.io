@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（中文版+英文版）Core-v5.3 蓝牙5.3核心规范"
+title: "中文版英文版Corev53 蓝牙53核心规范"
 date:   2021-01-10
 tags: [蓝牙,5.3,中文版,英文版,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HIS系统东华、天健表结构及实施计划"
+title: "HIS系统东华天健表结构及实施计划"
 date:   2023-09-11
 tags: [HIS,系统,东华,天健,结构]
 comments: true

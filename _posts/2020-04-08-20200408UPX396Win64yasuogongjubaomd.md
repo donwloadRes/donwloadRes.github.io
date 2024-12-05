@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UPX 3.96 Win64 压缩工具包"
+title: "UPX 396 Win64 压缩工具包"
 date:   2023-09-29
 tags: [UPX,upx,可执行文件,压缩,压缩工具]
 comments: true

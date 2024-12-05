@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink模型导入Veristand PXI RT平台上位机环境搭建指南（Win10篇）"
+title: "Simulink模型导入Veristand PXI RT平台上位机环境搭建指南Win10篇"
 date:   2024-04-05
 tags: [Veristand,Simulink,模型,PXI,RT]
 comments: true

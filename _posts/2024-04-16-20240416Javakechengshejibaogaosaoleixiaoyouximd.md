@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计报告-扫雷小游戏"
+title: "Java课程设计报告扫雷小游戏"
 date:   2024-08-24
 tags: [小游戏,扫雷,课程设计,Java,报告]
 comments: true

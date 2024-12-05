@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCI论文模板：CVPR、IEEE、TPAMI、ICCV等通用模板"
+title: "SCI论文模板CVPRIEEETPAMIICCV等通用模板"
 date:   2024-06-05
 tags: [模板,格式,期刊,仓库,论文]
 comments: true

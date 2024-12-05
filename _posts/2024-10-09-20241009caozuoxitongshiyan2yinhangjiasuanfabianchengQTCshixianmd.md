@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统实验2：银行家算法编程（QT+C++实现）"
+title: "操作系统实验2银行家算法编程QTC实现"
 date:   2024-08-06
 tags: [状态,算法,银行家,程序,死锁]
 comments: true

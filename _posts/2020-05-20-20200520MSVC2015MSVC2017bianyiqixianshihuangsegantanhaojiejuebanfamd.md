@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSVC2015(MSVC2017)编译器显示黄色感叹号解决办法"
+title: "MSVC2015MSVC2017编译器显示黄色感叹号解决办法"
 date:   2020-07-17
 tags: [感叹号,Visual,Studio,编译器,黄色]
 comments: true

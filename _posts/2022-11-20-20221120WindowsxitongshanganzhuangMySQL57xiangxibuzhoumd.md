@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统上安装MySQL 5.7详细步骤"
+title: "Windows系统上安装MySQL 57详细步骤"
 date:   2022-05-22
 tags: [MySQL,5.7,Windows,mysql,数据库]
 comments: true

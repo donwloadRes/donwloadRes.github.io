@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【实用工具】Gephi下载与安装指南"
+title: "实用工具Gephi下载与安装指南"
 date:   2021-03-05
 tags: [Gephi,Java,安装,下载,可视化]
 comments: true

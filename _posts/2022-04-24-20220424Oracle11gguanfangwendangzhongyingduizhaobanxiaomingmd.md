@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle11g官方文档中英对照版_xiaoming"
+title: "Oracle11g官方文档中英对照版xiaoming"
 date:   2021-02-10
 tags: [Oracle,11g,Oracle11g,数据库,文档]
 comments: true

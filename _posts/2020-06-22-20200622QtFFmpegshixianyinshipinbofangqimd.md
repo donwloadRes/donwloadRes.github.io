@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt + FFmpeg 实现音视频播放器"
+title: "Qt  FFmpeg 实现音视频播放器"
 date:   2020-01-22
 tags: [解码,音视频,FFmpeg,播放器,MP4]
 comments: true

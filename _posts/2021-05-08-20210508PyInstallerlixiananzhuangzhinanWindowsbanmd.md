@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyInstaller离线安装指南（Windows版）"
+title: "PyInstaller离线安装指南Windows版"
 date:   2021-05-01
 tags: [Python,PyInstaller,离线,安装,Windows]
 comments: true

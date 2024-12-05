@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMT2300A无线收发模块Demo基于STM32程序源码 V1.0.1"
+title: "CMT2300A无线收发模块Demo基于STM32程序源码 V101"
 date:   2024-02-02
 tags: [STM32,CMT2300A,无线,V1.0,模块]
 comments: true

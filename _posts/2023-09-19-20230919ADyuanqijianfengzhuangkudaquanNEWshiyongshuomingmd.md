@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD元器件封装库(大全-NEW) 使用说明"
+title: "AD元器件封装库大全NEW 使用说明"
 date:   2024-02-20
 tags: [封装,AD,NEW,Altium,Designer]
 comments: true

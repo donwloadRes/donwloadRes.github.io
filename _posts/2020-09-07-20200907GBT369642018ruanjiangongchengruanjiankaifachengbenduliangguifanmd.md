@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 36964-2018 软件工程软件开发成本度量规范"
+title: "GBT 369642018 软件工程软件开发成本度量规范"
 date:   2022-06-16
 tags: [度量,规范,软件开发,成本,2018]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京邮电大学信通院模电实验六 JFET-CS放大电路测试报告"
+title: "北京邮电大学信通院模电实验六 JFETCS放大电路测试报告"
 date:   2023-10-22
 tags: [实验,北京邮电大学,测试报告,模电,信通]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 2024 中文版发布：最新精简版绿色版"
+title: "CorelDRAW 2024 中文版发布最新精简版绿色版"
 date:   2020-05-01
 tags: [2024,CorelDRAW,精简版,绿色版,排版]
 comments: true

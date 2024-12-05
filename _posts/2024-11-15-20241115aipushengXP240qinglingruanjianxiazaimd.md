@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生XP-240清零软件下载"
+title: "爱普生XP240清零软件下载"
 date:   2020-10-24
 tags: [清零,图解,爱普生,XP,240]
 comments: true

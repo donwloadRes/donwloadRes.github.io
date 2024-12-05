@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 11898-1 2015 CAN 总线标准文件"
+title: "ISO 118981 2015 CAN 总线标准文件"
 date:   2024-09-23
 tags: [总线,ISO,文件,11898,2015]
 comments: true

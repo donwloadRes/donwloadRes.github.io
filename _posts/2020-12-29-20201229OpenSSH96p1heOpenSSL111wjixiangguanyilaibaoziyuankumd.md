@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.6p1 和 OpenSSL 1.1.1w 及相关依赖包资源库"
+title: "OpenSSH 96p1 和 OpenSSL 111w 及相关依赖包资源库"
 date:   2022-09-06
 tags: [OpenSSH,p1,OpenSSL,1w,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ OpenSSL支持库(一键安装版，兼容win32与x64)"
+title: "C OpenSSL支持库一键安装版兼容win32与x64"
 date:   2022-05-26
 tags: [OpenSSL,C++,编译,路径,win32]
 comments: true

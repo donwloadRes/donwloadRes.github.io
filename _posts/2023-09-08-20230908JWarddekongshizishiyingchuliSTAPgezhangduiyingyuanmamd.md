@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J_Ward的空时自适应处理STAP各章对应源码"
+title: "JWard的空时自适应处理STAP各章对应源码"
 date:   2022-08-10
 tags: [源码,STAP,空时,Matlab,代码]
 comments: true

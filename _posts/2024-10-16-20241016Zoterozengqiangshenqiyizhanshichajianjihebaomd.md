@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero增强神器：一站式插件集合包"
+title: "Zotero增强神器一站式插件集合包"
 date:   2023-04-08
 tags: [Zotero,PDF,文献,插件,PDFtk]
 comments: true

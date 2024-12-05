@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24V至12V、5V转换电路设计资源"
+title: "24V至12V5V转换电路设计资源"
 date:   2022-08-05
 tags: [24V,转换,资源库,12V,5V]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform TabControl选项卡 动态添加、删除、修改"
+title: "C Winform TabControl选项卡 动态添加删除修改"
 date:   2023-06-21
 tags: [选项卡,C#,示例,动态,TabControl]
 comments: true

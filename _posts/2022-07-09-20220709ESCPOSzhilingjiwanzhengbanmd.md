@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESC-POS指令集完整版"
+title: "ESCPOS指令集完整版"
 date:   2023-07-21
 tags: [指令集,打印机,ESC,POS,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 64位与32位免费下载指南"
+title: "JDK 18 64位与32位免费下载指南"
 date:   2022-07-23
 tags: [JDK,1.8,Java,下载,32]
 comments: true

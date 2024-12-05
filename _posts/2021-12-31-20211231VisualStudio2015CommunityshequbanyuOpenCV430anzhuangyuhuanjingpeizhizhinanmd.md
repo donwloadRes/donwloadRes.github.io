@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2015 Community社区版与OpenCV 4.3.0安装与环境配置指南"
+title: "Visual Studio 2015 Community社区版与OpenCV 430安装与环境配置指南"
 date:   2023-09-19
 tags: [OpenCV,安装,Visual,Studio,4.3]
 comments: true

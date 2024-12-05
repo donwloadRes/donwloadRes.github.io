@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统课程设计-进程调度程序的实现（JAVA语言）"
+title: "操作系统课程设计进程调度程序的实现JAVA语言"
 date:   2023-05-03
 tags: [调度,进程,文件,模拟,算法]
 comments: true

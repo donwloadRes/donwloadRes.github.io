@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于列约束生成法CCG的两阶段鲁棒问题求解"
+title: "MATLAB代码基于列约束生成法CCG的两阶段鲁棒问题求解"
 date:   2020-08-22
 tags: [CCG,鲁棒,代码,算法,优化]
 comments: true

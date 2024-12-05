@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轻量级、便捷截图软件FastStone Capture使用演示"
+title: "轻量级便捷截图软件FastStone Capture使用演示"
 date:   2020-08-14
 tags: [截图,捕捉,FastStone,Capture,软件]
 comments: true

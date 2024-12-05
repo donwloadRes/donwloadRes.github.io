@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32Cube_FW_F1_V1.8.0 资源文件下载"
+title: "STM32CubeFWF1V180 资源文件下载"
 date:   2021-01-23
 tags: [HAL,V1.8,STM32Cube,FW,F1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 开发手册下载"
+title: "CC 开发手册下载"
 date:   2022-11-18
 tags: [C++,手册,API,开发,开发者]
 comments: true

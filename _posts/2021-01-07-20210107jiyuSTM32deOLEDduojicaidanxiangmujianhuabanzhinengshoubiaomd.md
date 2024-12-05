@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的OLED多级菜单项目（简化版智能手表）"
+title: "基于STM32的OLED多级菜单项目简化版智能手表"
 date:   2021-02-16
 tags: [STM32,菜单,OLED,博主,多级]
 comments: true

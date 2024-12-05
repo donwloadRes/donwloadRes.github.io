@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyEclipse安装指南（含视频教程）"
+title: "MyEclipse安装指南含视频教程"
 date:   2022-08-16
 tags: [Java,MyEclipse,安装,视频教程,Web]
 comments: true

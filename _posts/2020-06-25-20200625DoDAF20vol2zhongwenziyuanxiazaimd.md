@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DoDAF 2.0 vol2 中文资源下载"
+title: "DoDAF 20 vol2 中文资源下载"
 date:   2022-01-09
 tags: [DoDAF,2.0,vol2,中文,资源]
 comments: true

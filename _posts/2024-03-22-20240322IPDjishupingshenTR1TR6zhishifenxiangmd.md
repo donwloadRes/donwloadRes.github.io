@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPD技术评审(TR1-TR6)知识分享"
+title: "IPD技术评审TR1TR6知识分享"
 date:   2024-12-02
 tags: [IPD,评审,技术,产品开发,TR1]
 comments: true

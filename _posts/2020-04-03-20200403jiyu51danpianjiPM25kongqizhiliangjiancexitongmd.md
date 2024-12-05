@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机PM2.5空气质量检测系统"
+title: "基于51单片机PM25空气质量检测系统"
 date:   2021-01-12
 tags: [PM2.5,单片机,51,浓度,系统]
 comments: true

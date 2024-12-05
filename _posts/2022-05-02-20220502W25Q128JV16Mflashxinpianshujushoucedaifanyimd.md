@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "W25Q128JV 16Mflash芯片数据手册（带翻译）"
+title: "W25Q128JV 16Mflash芯片数据手册带翻译"
 date:   2022-08-20
 tags: [芯片,W25Q128JV,16Mflash,手册,注释]
 comments: true

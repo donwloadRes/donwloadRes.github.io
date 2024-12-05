@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于人脸识别的门禁管理系统（Python实现）"
+title: "基于人脸识别的门禁管理系统Python实现"
 date:   2022-04-02
 tags: [人脸识别,门禁,宿舍,管理,Dlib]
 comments: true

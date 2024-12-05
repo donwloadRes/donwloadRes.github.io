@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-DrawingTool：基于Qt的Diagram-Scene-Example的绘图工具"
+title: "QtDrawingTool基于Qt的DiagramSceneExample的绘图工具"
 date:   2021-06-18
 tags: [Qt,图形,DrawingTool,图层,绘图]
 comments: true

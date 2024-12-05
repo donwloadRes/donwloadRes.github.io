@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解C++11 PDF 资源下载"
+title: "深入理解C11 PDF 资源下载"
 date:   2023-04-21
 tags: [C++,11,PDF,示例,理解]
 comments: true

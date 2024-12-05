@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java生成下载PPT之路：一次独特的业务需求之旅（PPTUtil工具包）"
+title: "Java生成下载PPT之路一次独特的业务需求之旅PPTUtil工具包"
 date:   2023-10-11
 tags: [PPT,工具包,PPTUtil,Java,下载]
 comments: true

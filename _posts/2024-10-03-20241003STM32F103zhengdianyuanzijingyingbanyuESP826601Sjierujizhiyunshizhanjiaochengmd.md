@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103（正点原子精英版）与ESP8266-01S接入机智云实战教程"
+title: "STM32F103正点原子精英版与ESP826601S接入机智云实战教程"
 date:   2023-11-21
 tags: [ESP8266,机智,STM32,教程,温湿度]
 comments: true

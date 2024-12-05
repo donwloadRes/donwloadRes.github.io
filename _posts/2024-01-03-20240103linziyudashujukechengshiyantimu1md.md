@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "林子雨-大数据课程实验题目1"
+title: "林子雨大数据课程实验题目1"
 date:   2023-09-27
 tags: [实验,指导书,林子,操作系统,题目]
 comments: true

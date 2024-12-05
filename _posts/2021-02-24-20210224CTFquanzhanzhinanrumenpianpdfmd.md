@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF全栈指南（入门篇）.pdf"
+title: "CTF全栈指南入门篇pdf"
 date:   2023-02-14
 tags: [CTF,指南,全栈,入门篇,密码学]
 comments: true

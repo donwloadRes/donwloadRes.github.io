@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摔倒检测+yolov5 资源文件介绍"
+title: "摔倒检测yolov5 资源文件介绍"
 date:   2022-08-14
 tags: [训练,yolov5,摔倒,格式,文件]
 comments: true

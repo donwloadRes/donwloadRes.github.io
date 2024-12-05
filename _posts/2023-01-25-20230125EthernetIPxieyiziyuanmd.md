@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethernet-IP协议资源"
+title: "EthernetIP协议资源"
 date:   2020-08-05
 tags: [IP,EtherNet,工业,自动化,协议]
 comments: true

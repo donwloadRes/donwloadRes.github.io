@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【反编译系列】反编译so文件（IDA_Pro）"
+title: "反编译系列反编译so文件IDAPro"
 date:   2021-04-12
 tags: [反编译,IDA,Pro,so,文件]
 comments: true

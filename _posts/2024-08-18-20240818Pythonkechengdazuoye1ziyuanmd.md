@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Python课程大作业1 资源"
+title: "Python课程大作业1 资源
+date   20220826
+tags Pythonhttpswww作业指南
+comments true
+author admin
+
+
+layout post
+title Python课程大作业1 资源"
 date:   2022-08-26
 tags: [Python,https,www,作业,指南]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Python课程大作业1 资源"
+title: "Python课程大作业1 资源
+date   20220826
+tags Pythonhttpswww作业指南
+comments true
+author admin
+
+
+layout post
+title Python课程大作业1 资源"
 date:   2020-12-12
 tags: [Python,https,www,作业,指南]
 comments: true

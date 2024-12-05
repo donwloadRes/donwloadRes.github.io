@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ANSI】汉字转机内码工具"
+title: "ANSI汉字转机内码工具"
 date:   2024-05-19
 tags: [工具,机内码,汉字,用户,ANSI]
 comments: true

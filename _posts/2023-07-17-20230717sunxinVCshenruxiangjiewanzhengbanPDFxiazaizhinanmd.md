@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙鑫VC++深入详解》完整版PDF 下载指南"
+title: "孙鑫VC深入详解完整版PDF 下载指南"
 date:   2021-08-08
 tags: [C++,详解,孙鑫,完整版,编程]
 comments: true

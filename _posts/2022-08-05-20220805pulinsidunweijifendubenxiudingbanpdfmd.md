@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普林斯顿微积分读本.修订版.pdf"
+title: "普林斯顿微积分读本修订版pdf"
 date:   2024-09-19
 tags: [微积分,修订版,读本,普林斯顿,pdf]
 comments: true

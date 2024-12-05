@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS VX2.4 安装教程"
+title: "PADS VX24 安装教程"
 date:   2020-05-09
 tags: [教程,安装,PADS,VX2.4,下载]
 comments: true

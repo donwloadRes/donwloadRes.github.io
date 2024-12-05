@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何利用VScode打造优雅的STM32开发环境(超详细，新手向)——Keil Assistant插件"
+title: "如何利用VScode打造优雅的STM32开发环境超详细新手向Keil Assistant插件"
 date:   2022-07-24
 tags: [VScode,插件,Keil,STM32,Assistant]
 comments: true

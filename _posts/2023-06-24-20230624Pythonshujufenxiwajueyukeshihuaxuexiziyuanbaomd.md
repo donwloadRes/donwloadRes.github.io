@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析、挖掘与可视化学习资源包"
+title: "Python数据分析挖掘与可视化学习资源包"
 date:   2020-01-11
 tags: [数据分析,Python,可视化,资源,学习]
 comments: true

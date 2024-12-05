@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT开发的串口、UDP、TCP通信上位机软件"
+title: "QT开发的串口UDPTCP通信上位机软件"
 date:   2022-07-11
 tags: [串口,QT,通信,UDP,TCP]
 comments: true

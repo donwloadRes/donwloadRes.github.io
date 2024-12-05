@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(STM32) 2.8寸TFTLCD屏虚拟键盘触摸程序"
+title: "STM32 28寸TFTLCD屏虚拟键盘触摸程序"
 date:   2021-07-11
 tags: [触摸,num,AS608,key,STM32]
 comments: true

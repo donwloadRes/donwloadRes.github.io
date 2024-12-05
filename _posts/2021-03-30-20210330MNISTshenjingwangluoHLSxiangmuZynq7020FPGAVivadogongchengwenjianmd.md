@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNIST神经网络HLS项目 - Zynq 7020 FPGA Vivado工程文件"
+title: "MNIST神经网络HLS项目  Zynq 7020 FPGA Vivado工程文件"
 date:   2024-01-05
 tags: [FPGA,文件,MNIST,Zynq,7020]
 comments: true

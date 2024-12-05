@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8中文参考手册 - MySQL DBA必备"
+title: "MySQL 8中文参考手册  MySQL DBA必备"
 date:   2021-12-18
 tags: [MySQL,本手册,DBA,版本,参考手册]
 comments: true

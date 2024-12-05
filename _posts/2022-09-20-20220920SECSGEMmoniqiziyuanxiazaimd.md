@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS_GEM 模拟器资源下载"
+title: "SECSGEM 模拟器资源下载"
 date:   2023-06-05
 tags: [模拟器,SECS,GEM,设备,通讯]
 comments: true

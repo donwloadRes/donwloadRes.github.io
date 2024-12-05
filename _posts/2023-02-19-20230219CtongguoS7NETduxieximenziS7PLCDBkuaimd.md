@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过S7.NET读写西门子S7PLC(DB块)"
+title: "C通过S7NET读写西门子S7PLCDB块"
 date:   2024-11-20
 tags: [读写,S7,NET,DB,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 完整教程资源下载"
+title: "C 完整教程资源下载"
 date:   2022-02-12
 tags: [控件,习题,C#,线程,XML]
 comments: true

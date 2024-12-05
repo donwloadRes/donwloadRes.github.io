@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大神U盘工具（Win10PE）UEFI纯净版启动盘制作工具"
+title: "大神U盘工具Win10PEUEFI纯净版启动盘制作工具"
 date:   2020-08-04
 tags: [U盘,启动盘,UEFI,大神,工具]
 comments: true

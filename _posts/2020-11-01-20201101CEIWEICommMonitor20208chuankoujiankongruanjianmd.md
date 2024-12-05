@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEIWEI_CommMonitor_20208 - 串口监控软件"
+title: "CEIWEICommMonitor20208  串口监控软件"
 date:   2022-07-20
 tags: [串口,CEIWEI,CommMonitor,20208,软件]
 comments: true

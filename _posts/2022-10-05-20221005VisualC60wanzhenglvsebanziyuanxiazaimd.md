@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0 完整绿色版资源下载"
+title: "Visual C 60 完整绿色版资源下载"
 date:   2022-04-01
 tags: [Visual,C++,6.0,下载,文件]
 comments: true

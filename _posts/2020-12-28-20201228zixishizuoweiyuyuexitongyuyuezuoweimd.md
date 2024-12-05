@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自习室座位预约系统（预约座位）"
+title: "自习室座位预约系统预约座位"
 date:   2022-09-12
 tags: [座位,预约,系统,读者,空闲]
 comments: true

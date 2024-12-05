@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLL动态链接库和C++依赖库缺失修复工具"
+title: "DLL动态链接库和C依赖库缺失修复工具"
 date:   2024-09-15
 tags: [修复,DLL,依赖,动态链接库,C++]
 comments: true

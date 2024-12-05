@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB28181测试客户端(模拟IPC功能)"
+title: "GB28181测试客户端模拟IPC功能"
 date:   2021-12-20
 tags: [客户端,GB28181,编译,测试,5.3]
 comments: true

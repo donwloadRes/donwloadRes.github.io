@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蒲公英优化算法Dandelion-Optimizer源代码及原文整合"
+title: "蒲公英优化算法DandelionOptimizer源代码及原文整合"
 date:   2021-08-26
 tags: [算法,源代码,Dandelion,Optimizer,原文]
 comments: true

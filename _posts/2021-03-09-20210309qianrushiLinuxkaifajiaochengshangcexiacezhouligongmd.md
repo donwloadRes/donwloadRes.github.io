@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Linux开发教程(上册 & 下册) - 周立功"
+title: "嵌入式Linux开发教程上册  下册  周立功"
 date:   2020-05-25
 tags: [嵌入式,Linux,教程,下册,上册]
 comments: true

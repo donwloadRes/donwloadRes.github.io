@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 2.0 规范下载仓库"
+title: "HDMI 20 规范下载仓库"
 date:   2020-08-09
 tags: [HDMI,2.0,仓库,文件,规范]
 comments: true

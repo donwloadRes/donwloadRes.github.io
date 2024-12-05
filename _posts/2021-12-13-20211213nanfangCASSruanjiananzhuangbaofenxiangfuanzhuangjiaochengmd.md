@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南方CASS软件安装包分享（附安装教程）"
+title: "南方CASS软件安装包分享附安装教程"
 date:   2022-07-30
 tags: [测量,软件,CASS,设计,安装]
 comments: true

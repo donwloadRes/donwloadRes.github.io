@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "产品经理必懂的技术那点事儿 - PDF下载"
+title: "产品经理必懂的技术那点事儿  PDF下载"
 date:   2021-08-07
 tags: [必懂,PDF,产品,经理,技术]
 comments: true

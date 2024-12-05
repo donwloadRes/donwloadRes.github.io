@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt + FFmpeg 视频播放器资源文件介绍"
+title: "Qt  FFmpeg 视频播放器资源文件介绍"
 date:   2022-01-06
 tags: [播放器,视频,Qt,播放,文件]
 comments: true

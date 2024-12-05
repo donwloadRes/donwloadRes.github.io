@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模论文：饮酒驾车模型"
+title: "数学建模论文饮酒驾车模型"
 date:   2021-03-02
 tags: [饮酒,驾车,模型,建模,论文]
 comments: true

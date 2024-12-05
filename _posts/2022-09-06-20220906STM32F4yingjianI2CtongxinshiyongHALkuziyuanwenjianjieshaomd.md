@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4硬件I2C通信（使用HAL库）资源文件介绍"
+title: "STM32F4硬件I2C通信使用HAL库资源文件介绍"
 date:   2021-04-28
 tags: [HAL,代码,I2C,文件,放置]
 comments: true

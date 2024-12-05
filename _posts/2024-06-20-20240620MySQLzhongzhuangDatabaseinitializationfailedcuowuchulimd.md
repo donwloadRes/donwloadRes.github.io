@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL重装——Database initialization failed错误处理"
+title: "MySQL重装Database initialization failed错误处理"
 date:   2020-03-17
 tags: [MySQL,卸载,安装,重装,Database]
 comments: true

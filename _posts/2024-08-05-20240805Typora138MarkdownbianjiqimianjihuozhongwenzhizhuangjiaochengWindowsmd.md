@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 1.3.8 Markdown 编辑器免激活中文直装教程（Windows）"
+title: "Typora 138 Markdown 编辑器免激活中文直装教程Windows"
 date:   2020-07-08
 tags: [Typora,1.3,教程,Windows,版本]
 comments: true

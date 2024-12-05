@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3 Build 4004 免费下载与激活教程"
+title: "FL Studio 2123 Build 4004 免费下载与激活教程"
 date:   2024-01-02
 tags: [FL,Studio,21.2,Build,4004]
 comments: true

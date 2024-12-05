@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件需求规格说明书模板(超详细)"
+title: "软件需求规格说明书模板超详细"
 date:   2023-02-21
 tags: [模板,需求,软件,文档,编写]
 comments: true

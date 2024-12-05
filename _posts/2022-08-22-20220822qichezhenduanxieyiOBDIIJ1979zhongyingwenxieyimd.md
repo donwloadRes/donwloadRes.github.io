@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车诊断协议 - OBD-II J1979中英文协议"
+title: "汽车诊断协议  OBDII J1979中英文协议"
 date:   2020-01-15
 tags: [OBD,II,车辆,协议,中英文]
 comments: true

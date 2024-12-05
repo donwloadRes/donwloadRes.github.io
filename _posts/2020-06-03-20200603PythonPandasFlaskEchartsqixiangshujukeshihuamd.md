@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python + Pandas + Flask + Echarts 气象数据可视化"
+title: "Python  Pandas  Flask  Echarts 气象数据可视化"
 date:   2021-07-27
 tags: [可视化,数据,Python,Flask,爬取]
 comments: true

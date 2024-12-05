@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习与Python实战：理论与实现"
+title: "机器学习与Python实战理论与实现"
 date:   2021-05-10
 tags: [学习,机器,Python,算法,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新概念英语第一册课文(英文版)下载"
+title: "新概念英语第一册课文英文版下载"
 date:   2022-12-29
 tags: [第一册,英文版,英语,课文,概念]
 comments: true

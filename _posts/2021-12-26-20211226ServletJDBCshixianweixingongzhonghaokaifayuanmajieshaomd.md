@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Servlet + JDBC 实现微信公众号开发 源码介绍"
+title: "Servlet  JDBC 实现微信公众号开发 源码介绍"
 date:   2020-03-30
 tags: [微信,公众,JDBC,数据库,Servlet]
 comments: true

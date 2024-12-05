@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT.fx 1.7.1 64位免费版本"
+title: "MQTTfx 171 64位免费版本"
 date:   2024-03-04
 tags: [MQTT,fx,64,版本,1.7]
 comments: true

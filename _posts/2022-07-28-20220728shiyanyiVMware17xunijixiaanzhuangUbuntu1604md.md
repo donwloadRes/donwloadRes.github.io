@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验一：VMware 17 虚拟机下安装Ubuntu16.04"
+title: "实验一VMware 17 虚拟机下安装Ubuntu1604"
 date:   2024-06-11
 tags: [Ubuntu,VMware,17,Ubuntu16.04,安装]
 comments: true

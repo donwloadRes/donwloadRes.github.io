@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XSP06_受电端协议芯片数据手册"
+title: "XSP06受电端协议芯片数据手册"
 date:   2022-03-10
 tags: [XSP06,受电端,芯片,快充,协议]
 comments: true

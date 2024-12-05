@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unreal Engine 4 Scripting with C++ Cookbook - 2016.pdf"
+title: "Unreal Engine 4 Scripting with C Cookbook  2016pdf"
 date:   2022-11-22
 tags: [C++,2016,Unreal,Engine,UE4]
 comments: true

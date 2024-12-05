@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis下载安装教程（详细步骤）"
+title: "Redis下载安装教程详细步骤"
 date:   2021-05-20
 tags: [Redis,安装,教程,数据,下载安装]
 comments: true

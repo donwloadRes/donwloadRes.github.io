@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H.264标准协议(官方中文版) 下载仓库"
+title: "H264标准协议官方中文版 下载仓库"
 date:   2022-06-29
 tags: [H.264,标准协议,中文版,视频压缩,仓库]
 comments: true

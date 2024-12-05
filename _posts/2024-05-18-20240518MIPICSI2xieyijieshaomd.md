@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 协议介绍"
+title: "MIPI CSI2 协议介绍"
 date:   2020-02-23
 tags: [MIPI,CSI,文件,协议,资源]
 comments: true

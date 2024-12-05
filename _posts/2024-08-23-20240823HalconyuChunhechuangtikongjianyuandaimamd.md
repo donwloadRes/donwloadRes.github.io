@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon与C#混合窗体控件源代码"
+title: "Halcon与C混合窗体控件源代码"
 date:   2024-09-16
 tags: [源代码,Halcon,C#,控件,代码]
 comments: true

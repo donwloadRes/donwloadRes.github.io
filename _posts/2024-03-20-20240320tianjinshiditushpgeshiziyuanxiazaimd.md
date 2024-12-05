@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天津市地图（shp格式）资源下载"
+title: "天津市地图shp格式资源下载"
 date:   2021-12-15
 tags: [shp,GIS,地图,地理信息,天津市]
 comments: true

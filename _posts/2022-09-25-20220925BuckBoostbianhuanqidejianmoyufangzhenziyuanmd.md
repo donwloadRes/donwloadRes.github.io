@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buck-Boost变换器的建模与仿真资源"
+title: "BuckBoost变换器的建模与仿真资源"
 date:   2022-04-05
 tags: [建模,变换器,Buck,Boost,仿真]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全资源库：字典文件下载"
+title: "网络安全资源库字典文件下载"
 date:   2020-04-17
 tags: [字典,文件,网络安全,资源库,下载]
 comments: true

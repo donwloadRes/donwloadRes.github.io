@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Honeywell扫码枪及数据库资源文件介绍"
+title: "C Honeywell扫码枪及数据库资源文件介绍"
 date:   2023-03-07
 tags: [数据库,扫码,条形码,Honeywell,读取]
 comments: true

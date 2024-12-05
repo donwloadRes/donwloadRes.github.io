@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app插件开发资源下载"
+title: "uniapp插件开发资源下载"
 date:   2022-09-03
 tags: [uni,app,插件,文件,开发]
 comments: true

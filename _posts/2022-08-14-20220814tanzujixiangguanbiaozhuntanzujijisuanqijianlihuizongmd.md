@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "碳足迹相关标准、碳足迹计算器及案例汇总"
+title: "碳足迹相关标准碳足迹计算器及案例汇总"
 date:   2024-09-29
 tags: [足迹,案例,标准,核算,PAS2050]
 comments: true

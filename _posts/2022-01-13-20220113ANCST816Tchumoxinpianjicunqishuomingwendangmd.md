@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AN-CST816T触摸芯片寄存器说明文档"
+title: "ANCST816T触摸芯片寄存器说明文档"
 date:   2022-07-30
 tags: [文档,寄存器,CST816T,芯片,触摸]
 comments: true

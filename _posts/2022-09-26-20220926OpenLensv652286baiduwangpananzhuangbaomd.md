@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenLens-v6.5.2.286 百度网盘安装包"
+title: "OpenLensv652286 百度网盘安装包"
 date:   2024-11-06
 tags: [OpenLens,Kubernetes,百度网,安装包,2.286]
 comments: true

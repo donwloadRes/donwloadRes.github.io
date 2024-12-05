@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt TCP-UDP通讯封装示例"
+title: "Qt TCPUDP通讯封装示例"
 date:   2020-04-15
 tags: [客户端,示例,TCP,UDP,服务端]
 comments: true

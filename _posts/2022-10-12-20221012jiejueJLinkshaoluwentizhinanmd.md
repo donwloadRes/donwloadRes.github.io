@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决J-Link烧录问题指南"
+title: "解决JLink烧录问题指南"
 date:   2022-10-09
 tags: [Link,固件,烧录,Keil,解决]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "商品信息管理系统（Java实现+MySQL数据库）"
+title: "商品信息管理系统Java实现MySQL数据库"
 date:   2024-06-13
 tags: [数据库,MySQL,Java,项目,信息管理系统]
 comments: true

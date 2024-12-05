@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APDS-9930姿态传感器模块中文资料"
+title: "APDS9930姿态传感器模块中文资料"
 date:   2024-02-13
 tags: [APDS,9930,传感器,模块,姿态]
 comments: true

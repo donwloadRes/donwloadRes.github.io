@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW64 下无 Guile 的 make 4.4 扩展工具包"
+title: "MinGW64 下无 Guile 的 make 44 扩展工具包"
 date:   2021-06-04
 tags: [文件,MinGW64,make,工具包,解压]
 comments: true

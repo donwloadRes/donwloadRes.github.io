@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.7 打包 whl 库资源"
+title: "Python37 打包 whl 库资源"
 date:   2023-11-14
 tags: [whl,pip,Python3.7,Python,资源]
 comments: true

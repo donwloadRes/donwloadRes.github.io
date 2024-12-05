@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PFC电感计算方法(非常实用)"
+title: "PFC电感计算方法非常实用"
 date:   2021-10-19
 tags: [电感,PFC,设计,电源,计算方法]
 comments: true

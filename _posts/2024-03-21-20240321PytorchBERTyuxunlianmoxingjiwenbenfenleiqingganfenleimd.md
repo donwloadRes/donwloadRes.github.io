@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch——BERT 预训练模型及文本分类（情感分类）"
+title: "PytorchBERT 预训练模型及文本分类情感分类"
 date:   2021-08-08
 tags: [模型,BERT,训练,分类,情感]
 comments: true

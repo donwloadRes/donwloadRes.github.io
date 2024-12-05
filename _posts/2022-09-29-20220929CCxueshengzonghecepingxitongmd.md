@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++学生综合测评系统"
+title: "CC学生综合测评系统"
 date:   2024-08-12
 tags: [学生,测评,系统,数据,成绩]
 comments: true

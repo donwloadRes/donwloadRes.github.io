@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prism 7.1.0.431 WPF 官方中文文档"
+title: "Prism 710431 WPF 官方中文文档"
 date:   2021-10-30
 tags: [文档,Prism,WPF,翻译,框架]
 comments: true

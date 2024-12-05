@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETS 5.6.6 和谐版下载仓库"
+title: "ETS 566 和谐版下载仓库"
 date:   2022-08-02
 tags: [ETS,5.6,仓库,和谐,下载]
 comments: true

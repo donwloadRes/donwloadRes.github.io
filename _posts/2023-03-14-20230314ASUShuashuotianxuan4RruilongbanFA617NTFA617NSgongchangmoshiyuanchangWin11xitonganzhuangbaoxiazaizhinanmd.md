@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASUS华硕天选4R锐龙版FA617NT, FA617NS 工厂模式原厂Win11系统安装包下载指南"
+title: "ASUS华硕天选4R锐龙版FA617NT FA617NS 工厂模式原厂Win11系统安装包下载指南"
 date:   2021-01-08
 tags: [华硕,天选,4R,安装包,安装]
 comments: true

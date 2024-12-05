@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#纵横断面计算2023"
+title: "C纵横断面计算2023"
 date:   2020-01-03
 tags: [计算,横断面,格式,程序,C#]
 comments: true

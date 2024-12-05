@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI工业质检应用发展白皮书（2023）- 工信安全中心"
+title: "AI工业质检应用发展白皮书2023 工信安全中心"
 date:   2021-04-28
 tags: [AI,质检,工业,白皮书,技术]
 comments: true

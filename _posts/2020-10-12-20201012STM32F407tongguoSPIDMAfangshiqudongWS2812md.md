@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407通过SPI+DMA方式驱动WS2812"
+title: "STM32F407通过SPIDMA方式驱动WS2812"
 date:   2023-11-02
 tags: [SPI,WS2812,DMA,STM32F407,STM32]
 comments: true

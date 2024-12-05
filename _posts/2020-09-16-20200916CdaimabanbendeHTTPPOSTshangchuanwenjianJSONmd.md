@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C代码版本的HTTP POST上传文件-JSON"
+title: "C代码版本的HTTP POST上传文件JSON"
 date:   2021-07-26
 tags: [代码,上传,文件,JSON,C语言]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence ORCAD Allegro 16.6及17.2 CIS配置说明"
+title: "Cadence ORCAD Allegro 166及172 CIS配置说明"
 date:   2024-06-23
 tags: [Cadence,Allegro,CIS,17.2,配置]
 comments: true

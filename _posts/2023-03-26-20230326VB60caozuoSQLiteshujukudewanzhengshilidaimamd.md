@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 操作 SQLite 数据库的完整示例代码"
+title: "VB60 操作 SQLite 数据库的完整示例代码"
 date:   2020-07-09
 tags: [示例,VB6.0,SQLite,控件,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SATA3.0协议标准资源下载"
+title: "SATA30协议标准资源下载"
 date:   2022-11-19
 tags: [SATA3.0,协议,资源,下载,英文版]
 comments: true

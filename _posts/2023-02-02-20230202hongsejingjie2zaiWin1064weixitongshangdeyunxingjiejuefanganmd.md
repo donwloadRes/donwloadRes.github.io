@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红色警戒2在Win10&64位系统上的运行解决方案"
+title: "红色警戒2在Win1064位系统上的运行解决方案"
 date:   2020-07-12
 tags: [红色警戒,exe,游戏,文件,64]
 comments: true

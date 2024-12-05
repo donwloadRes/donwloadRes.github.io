@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hyperworks——Optistruct学习分享"
+title: "HyperworksOptistruct学习分享"
 date:   2022-07-25
 tags: [Optistruct,优化,Hyperworks,高级,案例]
 comments: true

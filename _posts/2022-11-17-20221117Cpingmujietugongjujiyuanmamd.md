@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#屏幕截图工具及源码"
+title: "C屏幕截图工具及源码"
 date:   2023-10-27
 tags: [截图,C#,屏幕,边框,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 下编译 OpenCV 4.7.0详细全过程，包含xfeatures2d"
+title: "Win10 下编译 OpenCV 470详细全过程包含xfeatures2d"
 date:   2024-03-31
 tags: [OpenCV,4.7,编译,xfeatures2d,opencv]
 comments: true

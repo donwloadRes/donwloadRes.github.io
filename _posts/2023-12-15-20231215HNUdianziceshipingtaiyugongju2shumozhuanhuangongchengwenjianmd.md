@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HNU-电子测试平台与工具2-数模转换工程文件"
+title: "HNU电子测试平台与工具2数模转换工程文件"
 date:   2022-01-08
 tags: [ADC,数模转换,仿真,电子,文件]
 comments: true

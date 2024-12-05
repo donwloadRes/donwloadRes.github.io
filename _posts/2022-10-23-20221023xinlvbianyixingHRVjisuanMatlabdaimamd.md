@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "心率变异性（HRV）计算Matlab代码"
+title: "心率变异性HRV计算Matlab代码"
 date:   2022-05-24
 tags: [HRV,心率,代码,计算,Matlab]
 comments: true

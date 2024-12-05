@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC60730-1 Class B 安全标准资源文件"
+title: "IEC607301 Class B 安全标准资源文件"
 date:   2023-09-24
 tags: [IEC60730,示例,代码,文件,标准]
 comments: true

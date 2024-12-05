@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法技术手册 - 中文版"
+title: "算法技术手册  中文版"
 date:   2021-06-28
 tags: [算法,本书,性能,提升,解决方案]
 comments: true

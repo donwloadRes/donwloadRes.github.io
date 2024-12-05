@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NTU-RGB+D数据集介绍"
+title: "NTURGBD数据集介绍"
 date:   2020-01-08
 tags: [数据,动作,NTU,RGB,40]
 comments: true

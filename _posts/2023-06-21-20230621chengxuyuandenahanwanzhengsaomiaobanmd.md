@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员的呐喊，完整扫描版"
+title: "程序员的呐喊完整扫描版"
 date:   2021-05-12
 tags: [程序员,Google,编程语言,扫描,热点话题]
 comments: true

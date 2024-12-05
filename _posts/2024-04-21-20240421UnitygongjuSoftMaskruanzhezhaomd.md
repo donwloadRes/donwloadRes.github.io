@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 工具 - SoftMask 软遮罩"
+title: "Unity 工具  SoftMask 软遮罩"
 date:   2023-05-07
 tags: [遮罩,SoftMask,Unity,灰度,UI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派使用手册4.pdf"
+title: "树莓派使用手册4pdf"
 date:   2023-07-04
 tags: [树莓,使用手册,编程,本手册,pdf]
 comments: true

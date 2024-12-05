@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-Datacom 实验LAB（含论述题解法）完美版"
+title: "HCIEDatacom 实验LAB含论述题解法完美版"
 date:   2022-09-15
 tags: [HCIE,Datacom,论述题,解法,LAB]
 comments: true

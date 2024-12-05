@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC 以太网传输DNC-FTP软件"
+title: "FANUC 以太网传输DNCFTP软件"
 date:   2020-10-10
 tags: [FANUC,以太网,FTP,DNC,软件]
 comments: true

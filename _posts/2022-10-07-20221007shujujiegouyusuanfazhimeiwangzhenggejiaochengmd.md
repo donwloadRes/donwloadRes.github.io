@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法之美 - 王争哥教程"
+title: "数据结构与算法之美  王争哥教程"
 date:   2024-02-09
 tags: [数据结构,算法,之美,王争哥,学习]
 comments: true

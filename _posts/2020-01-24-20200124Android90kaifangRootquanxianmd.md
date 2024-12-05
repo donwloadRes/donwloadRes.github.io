@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 9.0 开放Root权限"
+title: "Android 90 开放Root权限"
 date:   2022-06-22
 tags: [root,Android,权限,Root,开发者]
 comments: true

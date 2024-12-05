@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UR机械臂与PC通讯程序（Socket实现）说明文档"
+title: "UR机械臂与PC通讯程序Socket实现说明文档"
 date:   2023-10-08
 tags: [UR,Socket,通讯,PC,机械]
 comments: true

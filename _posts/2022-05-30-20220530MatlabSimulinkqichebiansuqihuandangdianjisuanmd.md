@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab-Simulink 汽车变速器换挡点计算"
+title: "MatlabSimulink 汽车变速器换挡点计算"
 date:   2022-03-27
 tags: [换挡,Simulink,Matlab,汽车,交点]
 comments: true

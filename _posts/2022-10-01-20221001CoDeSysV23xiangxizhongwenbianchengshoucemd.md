@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoDeSys V2.3 详细中文编程手册"
+title: "CoDeSys V23 详细中文编程手册"
 date:   2020-07-07
 tags: [CoDeSys,V2.3,编程,本手册,手册]
 comments: true

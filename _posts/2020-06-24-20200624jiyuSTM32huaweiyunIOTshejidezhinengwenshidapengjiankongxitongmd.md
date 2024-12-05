@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32+华为云IOT设计的智能温室大棚监控系统"
+title: "基于STM32华为云IOT设计的智能温室大棚监控系统"
 date:   2024-10-22
 tags: [系统,大棚,传感器,温室,监控]
 comments: true

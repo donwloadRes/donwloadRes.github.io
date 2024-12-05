@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为HCIA-Datacom实验手册下载"
+title: "华为HCIADatacom实验手册下载"
 date:   2024-01-01
 tags: [手册,HCIA,Datacom,华为,实验]
 comments: true

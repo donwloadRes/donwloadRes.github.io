@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisionPro联合C#界面结果显示"
+title: "VisionPro联合C界面结果显示"
 date:   2022-06-15
 tags: [VisionPro,C#,文件,资源,示例]
 comments: true

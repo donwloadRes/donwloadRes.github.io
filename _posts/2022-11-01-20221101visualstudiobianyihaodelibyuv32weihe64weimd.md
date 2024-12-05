@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "visual studio编译好的libyuv，32位和64位"
+title: "visual studio编译好的libyuv32位和64位"
 date:   2023-11-09
 tags: [64,LibYUV,32,编译,视频]
 comments: true

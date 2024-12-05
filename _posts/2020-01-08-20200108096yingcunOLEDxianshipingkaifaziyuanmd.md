@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96英寸OLED显示屏开发资源"
+title: "096英寸OLED显示屏开发资源"
 date:   2022-04-05
 tags: [OLED,0.96,IIC,显示屏,资源库]
 comments: true

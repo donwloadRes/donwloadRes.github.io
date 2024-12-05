@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械振动.pdf"
+title: "机械振动pdf"
 date:   2024-11-02
 tags: [振动,机械振动,pdf,新能源,噪声]
 comments: true

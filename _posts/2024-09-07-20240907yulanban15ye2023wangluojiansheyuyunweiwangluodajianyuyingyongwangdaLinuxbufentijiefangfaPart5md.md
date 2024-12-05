@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（预览版1-5页）2023网络建设与运维-网络搭建与应用-网搭Linux部分题解方法 - Part 5"
+title: "预览版15页2023网络建设与运维网络搭建与应用网搭Linux部分题解方法  Part 5"
 date:   2021-11-22
 tags: [Linux,运维,网络,极简,配置]
 comments: true

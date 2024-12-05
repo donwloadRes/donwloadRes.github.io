@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析（张筑生版）资源下载"
+title: "数学分析张筑生版资源下载"
 date:   2022-05-10
 tags: [数学分析,数学,张筑生,资源,张筑]
 comments: true

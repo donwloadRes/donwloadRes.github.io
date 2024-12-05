@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水温恒温控制程序——基于PID控制的单片机项目"
+title: "水温恒温控制程序基于PID控制的单片机项目"
 date:   2020-07-14
 tags: [PID,单片机,控制,水温,温度]
 comments: true

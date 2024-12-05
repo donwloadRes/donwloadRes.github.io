@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡尔曼滤波估算车辆质量——MATLAB Simulink仿真"
+title: "卡尔曼滤波估算车辆质量MATLAB Simulink仿真"
 date:   2021-07-23
 tags: [卡尔曼滤波,仿真,估算,Simulink,模型]
 comments: true

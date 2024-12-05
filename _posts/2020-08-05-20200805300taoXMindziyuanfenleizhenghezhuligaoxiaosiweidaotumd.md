@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "300套XMind资源【分类整合】助力高效思维导图"
+title: "300套XMind资源分类整合助力高效思维导图"
 date:   2024-02-20
 tags: [资源,XMind,300,导图,高效]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验：基于C#的学生管理系统"
+title: "实验基于C的学生管理系统"
 date:   2022-04-04
 tags: [学生,数据库,C#,MySQL,管理系统]
 comments: true

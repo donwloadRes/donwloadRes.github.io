@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-LINK 固件更新与解决盗版问题合集"
+title: "JLINK 固件更新与解决盗版问题合集"
 date:   2023-03-12
 tags: [固件,调试器,LINK,盗版,更新]
 comments: true

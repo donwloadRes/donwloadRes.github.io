@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java前端笔试题目（带答案）"
+title: "Java前端笔试题目带答案"
 date:   2024-11-06
 tags: [题目,Java,前端,面试,答案]
 comments: true

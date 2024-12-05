@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN协议规范LIN Specification Package Revision 2.2A》"
+title: "LIN协议规范LIN Specification Package Revision 22A"
 date:   2021-05-09
 tags: [LIN,从机,主机,发送,响应]
 comments: true

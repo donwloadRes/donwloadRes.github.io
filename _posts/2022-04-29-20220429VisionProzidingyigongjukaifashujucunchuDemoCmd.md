@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisionPro自定义工具开发-数据存储Demo（C#）"
+title: "VisionPro自定义工具开发数据存储DemoC"
 date:   2022-11-15
 tags: [存储,VisionPro,工具,自定义,C#]
 comments: true

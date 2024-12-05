@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现特征模态分解（FMD）"
+title: "Python实现特征模态分解FMD"
 date:   2021-02-01
 tags: [模态,FMD,分解,滤波器,信号]
 comments: true

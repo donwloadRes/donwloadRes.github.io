@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "附件程序：解决VMware 16 在Win10及Server2016上安装报错问题"
+title: "附件程序解决VMware 16 在Win10及Server2016上安装报错问题"
 date:   2022-06-05
 tags: [安装,VMware,16,附件,Windows]
 comments: true

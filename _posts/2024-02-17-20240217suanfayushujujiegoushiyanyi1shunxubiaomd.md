@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法与数据结构实验一（1）顺序表"
+title: "算法与数据结构实验一1顺序表"
 date:   2023-07-26
 tags: [顺序,算法,元素,题目,线性表]
 comments: true

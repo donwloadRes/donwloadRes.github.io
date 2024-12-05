@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot2.0整合WebSocket实现服务器主动推送消息"
+title: "SpringBoot20整合WebSocket实现服务器主动推送消息"
 date:   2021-03-02
 tags: [推送,WebSocket,前端,消息,服务器]
 comments: true

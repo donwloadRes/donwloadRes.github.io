@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "期末大作业：电子钟及扩展功能"
+title: "期末大作业电子钟及扩展功能"
 date:   2023-03-01
 tags: [电子钟,功能,资源,期末,扩展]
 comments: true

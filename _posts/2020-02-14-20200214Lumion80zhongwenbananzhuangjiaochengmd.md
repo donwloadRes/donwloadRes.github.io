@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lumion 8.0 中文版安装教程"
+title: "Lumion 80 中文版安装教程"
 date:   2021-10-17
 tags: [Lumion,安装,8.0,中文版,激活]
 comments: true

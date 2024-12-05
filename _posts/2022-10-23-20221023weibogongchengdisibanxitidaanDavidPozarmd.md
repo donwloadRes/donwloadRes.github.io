@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波工程第四版习题答案 - David Pozar"
+title: "微波工程第四版习题答案  David Pozar"
 date:   2021-04-15
 tags: [习题,答案,微波,David,Pozar]
 comments: true

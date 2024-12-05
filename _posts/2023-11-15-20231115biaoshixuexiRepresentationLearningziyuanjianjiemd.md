@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "表示学习(Representation Learning)资源简介"
+title: "表示学习Representation Learning资源简介"
 date:   2022-05-15
 tags: [学习,表示,编码器,深度,自动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "滑模控制Simulink模型(入门必备)"
+title: "滑模控制Simulink模型入门必备"
 date:   2022-05-07
 tags: [滑模,Simulink,控制,模型,MATLAB]
 comments: true

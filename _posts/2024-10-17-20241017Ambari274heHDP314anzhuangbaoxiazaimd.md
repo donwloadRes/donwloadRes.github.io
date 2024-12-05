@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ambari-2.7.4和HDP-3.1.4安装包下载"
+title: "Ambari274和HDP314安装包下载"
 date:   2024-06-16
 tags: [安装包,Ambari,HDP,2.7,3.1]
 comments: true

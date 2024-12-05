@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发文档说明(完整流程) 下载仓库"
+title: "软件开发文档说明完整流程 下载仓库"
 date:   2022-02-16
 tags: [文档,软件开发,软件,流程,项目]
 comments: true

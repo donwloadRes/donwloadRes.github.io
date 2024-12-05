@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN+MFCC的语音情感识别"
+title: "基于CNNMFCC的语音情感识别"
 date:   2022-04-26
 tags: [语音,情感,模型,训练,数据]
 comments: true

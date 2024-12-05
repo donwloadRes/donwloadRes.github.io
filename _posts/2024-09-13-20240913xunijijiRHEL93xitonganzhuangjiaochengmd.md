@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机及RHEL 9.3系统安装教程"
+title: "虚拟机及RHEL 93系统安装教程"
 date:   2020-01-30
 tags: [虚拟机,RHEL,9.3,安装,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DPMR的4FSK数字调制系统仿真设计（Matlab源码）"
+title: "基于DPMR的4FSK数字调制系统仿真设计Matlab源码"
 date:   2022-08-10
 tags: [仿真,Matlab,DPMR,信号,设计]
 comments: true

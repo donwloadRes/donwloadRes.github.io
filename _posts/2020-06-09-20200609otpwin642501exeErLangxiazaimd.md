@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "otp-win64-25.0.1.exe ErLang 下载"
+title: "otpwin642501exe ErLang 下载"
 date:   2020-06-13
 tags: [Erlang,安装,版本,25.0,Windows]
 comments: true

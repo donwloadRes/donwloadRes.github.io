@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2602-2-2012 LIN总线一致性测试标准"
+title: "SAE J260222012 LIN总线一致性测试标准"
 date:   2022-08-16
 tags: [LIN,测试,总线,一致性,SAE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC UA通讯-kepserver配置指南"
+title: "OPC UA通讯kepserver配置指南"
 date:   2022-05-13
 tags: [OPC,UA,Kepserver,配置,数据传输]
 comments: true

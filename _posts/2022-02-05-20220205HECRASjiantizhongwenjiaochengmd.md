@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEC-RAS简体中文教程"
+title: "HECRAS简体中文教程"
 date:   2020-03-05
 tags: [HEC,RAS,教程,学习者,水利]
 comments: true

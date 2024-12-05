@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈佛教材电子学（第二版 吴利民译）下载"
+title: "哈佛教材电子学第二版 吴利民译下载"
 date:   2022-10-27
 tags: [电子学,利民,教材,哈佛,文件]
 comments: true

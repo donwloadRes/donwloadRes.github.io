@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新一代高效视频编码H.265+HEVC++资源下载"
+title: "新一代高效视频编码H265HEVC资源下载"
 date:   2023-03-28
 tags: [编码,H.265,HEVC,视频,新一代]
 comments: true

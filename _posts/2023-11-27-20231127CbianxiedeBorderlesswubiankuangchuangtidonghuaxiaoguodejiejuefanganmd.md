@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写的Borderless无边框窗体动画效果的解决方案"
+title: "C编写的Borderless无边框窗体动画效果的解决方案"
 date:   2023-04-20
 tags: [动画,窗体,边框,C#,NET]
 comments: true

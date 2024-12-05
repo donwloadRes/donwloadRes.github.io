@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HAL库的两个STM32F103C8T6-HC05主从一体通信"
+title: "基于HAL库的两个STM32F103C8T6HC05主从一体通信"
 date:   2023-01-16
 tags: [蓝牙,HAL,STM32,HC05,主从]
 comments: true

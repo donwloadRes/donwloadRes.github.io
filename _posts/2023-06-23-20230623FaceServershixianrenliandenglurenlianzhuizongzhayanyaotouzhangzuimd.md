@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Face-Server 实现人脸登录、人脸追踪、眨眼、摇头、张嘴"
+title: "FaceServer 实现人脸登录人脸追踪眨眼摇头张嘴"
 date:   2020-08-06
 tags: [人脸,Face,Server,登录,验证]
 comments: true

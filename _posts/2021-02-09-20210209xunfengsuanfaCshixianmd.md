@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "寻峰算法 - C# 实现"
+title: "寻峰算法  C 实现"
 date:   2020-12-07
 tags: [算法,寻峰,C#,源代码,数据]
 comments: true

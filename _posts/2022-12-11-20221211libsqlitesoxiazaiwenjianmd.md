@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libsqlite.so 下载文件"
+title: "libsqliteso 下载文件"
 date:   2020-05-27
 tags: [文件,libsqlite,so,下载,版本]
 comments: true

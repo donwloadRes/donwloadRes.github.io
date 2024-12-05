@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB强化学习实战：训练Biped机器人行走"
+title: "MATLAB强化学习实战训练Biped机器人行走"
 date:   2020-02-06
 tags: [MATLAB,学习,强化,Biped,机器人]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信基础》(David Tse) PDF资源"
+title: "无线通信基础David Tse PDF资源"
 date:   2021-09-14
 tags: [无线通信,David,Tse,PDF,资源]
 comments: true

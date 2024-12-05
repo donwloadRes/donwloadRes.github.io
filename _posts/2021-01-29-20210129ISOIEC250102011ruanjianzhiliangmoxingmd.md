@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISOIEC25010-2011软件质量模型"
+title: "ISOIEC250102011软件质量模型"
 date:   2023-08-14
 tags: [质量,软件,模型,2011,ISOIEC25010]
 comments: true

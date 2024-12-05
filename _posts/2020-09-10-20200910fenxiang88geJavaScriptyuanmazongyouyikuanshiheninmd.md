@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享88个JavaScript源码，总有一款适合您"
+title: "分享88个JavaScript源码总有一款适合您"
 date:   2023-08-24
 tags: [源码,JavaScript,88,example,下载]
 comments: true

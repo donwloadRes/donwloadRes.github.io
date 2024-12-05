@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 数据加密类库"
+title: "C 数据加密类库"
 date:   2021-04-30
 tags: [加密,类库,DES,解密,加密算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAID驱动（Windows Server版）"
+title: "RAID驱动Windows Server版"
 date:   2020-01-21
 tags: [RAID,驱动,Windows,Server,安装]
 comments: true

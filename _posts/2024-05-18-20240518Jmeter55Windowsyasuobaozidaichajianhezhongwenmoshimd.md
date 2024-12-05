@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jmeter 5.5 Windows 压缩包（自带插件和中文模式）"
+title: "Jmeter 55 Windows 压缩包自带插件和中文模式"
 date:   2023-10-24
 tags: [压缩包,Jmeter,插件,5.5,中文]
 comments: true

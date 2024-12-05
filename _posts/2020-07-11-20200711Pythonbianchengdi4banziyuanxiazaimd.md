@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程(第4版) 资源下载"
+title: "Python编程第4版 资源下载"
 date:   2024-05-08
 tags: [Python,编程,资源,下载,PDF]
 comments: true

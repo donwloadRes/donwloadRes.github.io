@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "baichuan2-7B-base 大模型 百度网盘资源下载"
+title: "baichuan27Bbase 大模型 百度网盘资源下载"
 date:   2024-10-20
 tags: [下载,百度网,模型,baichuan2,7B]
 comments: true

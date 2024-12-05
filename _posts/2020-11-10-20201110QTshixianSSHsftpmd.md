@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现SSH，sftp"
+title: "QT实现SSHsftp"
 date:   2024-01-09
 tags: [Qt,SSH,文件,SFTP,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典手眼标定方法汇总（Matlab程序）"
+title: "经典手眼标定方法汇总Matlab程序"
 date:   2024-01-09
 tags: [标定,手眼,Eye,Hand,Matlab]
 comments: true

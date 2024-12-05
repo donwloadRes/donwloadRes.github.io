@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "读取两行元素星历文件：从 NORAD 两行元素 (TLE) 文件中读取卫星星历数据 - MATLAB 开发"
+title: "读取两行元素星历文件从 NORAD 两行元素 TLE 文件中读取卫星星历数据  MATLAB 开发"
 date:   2022-09-05
 tags: [TLE,文件,星历,读取,卫星]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Mini-ImageNet训练分类网络"
+title: "使用MiniImageNet训练分类网络"
 date:   2024-03-21
 tags: [ImageNet,训练,Mini,数据,GPU]
 comments: true

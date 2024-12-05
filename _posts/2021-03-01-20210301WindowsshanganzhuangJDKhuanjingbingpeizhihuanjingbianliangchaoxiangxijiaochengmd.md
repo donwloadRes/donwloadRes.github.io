@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows上安装JDK环境并配置环境变量（超详细教程）"
+title: "Windows上安装JDK环境并配置环境变量超详细教程"
 date:   2022-12-10
 tags: [JDK,环境变量,安装,Windows,配置]
 comments: true

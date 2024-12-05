@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN报文Excel分析说明V1.21.pdf"
+title: "CAN报文Excel分析说明V121pdf"
 date:   2024-07-30
 tags: [Excel,报文,V1.21,pdf,分析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32实现类稚晖君的丝滑菜单（WOUO UI）"
+title: "基于STM32实现类稚晖君的丝滑菜单WOUO UI"
 date:   2023-09-12
 tags: [STM32,稚晖,菜单,丝滑,体验]
 comments: true

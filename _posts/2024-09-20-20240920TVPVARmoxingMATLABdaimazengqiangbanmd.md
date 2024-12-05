@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TVP-VAR模型MATLAB代码增强版"
+title: "TVPVAR模型MATLAB代码增强版"
 date:   2020-11-09
 tags: [VAR,代码,TVP,MATLAB,增强版]
 comments: true

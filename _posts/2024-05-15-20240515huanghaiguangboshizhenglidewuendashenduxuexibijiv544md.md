@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黄海广博士整理的吴恩达深度学习笔记 v5.44"
+title: "黄海广博士整理的吴恩达深度学习笔记 v544"
 date:   2024-07-18
 tags: [吴恩达,学习,笔记,深度,v5.44]
 comments: true

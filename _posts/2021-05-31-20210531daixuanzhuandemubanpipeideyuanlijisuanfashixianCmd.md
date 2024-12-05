@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带旋转的模板匹配的原理及算法实现(C++)"
+title: "带旋转的模板匹配的原理及算法实现C"
 date:   2023-03-22
 tags: [OpenCV,匹配,模板,算法,C++]
 comments: true

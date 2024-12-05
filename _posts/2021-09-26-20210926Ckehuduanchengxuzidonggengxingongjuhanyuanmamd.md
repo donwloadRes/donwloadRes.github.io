@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 客户端程序自动更新工具（含源码）"
+title: "C 客户端程序自动更新工具含源码"
 date:   2021-05-11
 tags: [自动更新,UpdateList,xml,客户端程序,服务器]
 comments: true

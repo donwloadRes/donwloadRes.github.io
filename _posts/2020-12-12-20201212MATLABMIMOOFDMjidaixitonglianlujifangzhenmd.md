@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB MIMO-OFDM 基带系统链路级仿真"
+title: "MATLAB MIMOOFDM 基带系统链路级仿真"
 date:   2023-04-30
 tags: [MIMO,OFDM,信道,仿真,系统]
 comments: true

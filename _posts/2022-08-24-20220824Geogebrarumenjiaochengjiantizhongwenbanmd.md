@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Geogebra入门教程 - 简体中文版"
+title: "Geogebra入门教程  简体中文版"
 date:   2024-04-15
 tags: [Geogebra,简体中文,文件,入门教程,pdf]
 comments: true

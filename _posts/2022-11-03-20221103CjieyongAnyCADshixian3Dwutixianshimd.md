@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#借用AnyCAD实现3D物体显示"
+title: "C借用AnyCAD实现3D物体显示"
 date:   2023-08-08
 tags: [AnyCAD,3D,C#,视图,代码]
 comments: true

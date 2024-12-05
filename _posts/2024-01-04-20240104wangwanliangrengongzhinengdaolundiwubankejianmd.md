@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王万良-人工智能导论（第五版）课件"
+title: "王万良人工智能导论第五版课件"
 date:   2024-09-21
 tags: [人工智能,课件,第五版,王万良,学习]
 comments: true

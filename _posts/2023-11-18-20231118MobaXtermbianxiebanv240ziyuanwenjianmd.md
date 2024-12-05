@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 便携版 v24.0 资源文件"
+title: "MobaXterm 便携版 v240 资源文件"
 date:   2023-01-01
 tags: [MobaXterm,v24.0,文件,Portable,便携]
 comments: true

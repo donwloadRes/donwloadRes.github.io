@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS协议中文完整版+资料"
+title: "MODBUS协议中文完整版资料"
 date:   2021-03-12
 tags: [MODBUS,调试,协议,完整版,FreeMODBUS]
 comments: true

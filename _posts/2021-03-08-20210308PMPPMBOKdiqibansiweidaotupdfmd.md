@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMP-PMBOK第七版思维导图.pdf"
+title: "PMPPMBOK第七版思维导图pdf"
 date:   2021-04-27
 tags: [导图,PMBOK,第七版,PMP,项目管理]
 comments: true

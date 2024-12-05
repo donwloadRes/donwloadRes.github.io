@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验2：熟悉常用的HDFS操作"
+title: "实验2熟悉常用的HDFS操作"
 date:   2023-12-14
 tags: [HDFS,实验,学习者,操作,Hadoop]
 comments: true

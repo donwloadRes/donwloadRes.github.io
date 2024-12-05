@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Enterprise Linux 8.1-8.0 官方下载及百度云下载资源介绍"
+title: "Red Hat Enterprise Linux 8180 官方下载及百度云下载资源介绍"
 date:   2023-07-31
 tags: [下载,Red,Hat,Enterprise,Linux]
 comments: true

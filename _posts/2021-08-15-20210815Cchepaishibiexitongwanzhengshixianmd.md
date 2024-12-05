@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#车牌识别系统完整实现"
+title: "C车牌识别系统完整实现"
 date:   2020-11-25
 tags: [车牌,识别系统,测试,C#,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统工程(第4版) 汪应洛 资源下载"
+title: "系统工程第4版 汪应洛 资源下载"
 date:   2024-06-07
 tags: [系统工程,汪应洛,下载,资源,本书]
 comments: true

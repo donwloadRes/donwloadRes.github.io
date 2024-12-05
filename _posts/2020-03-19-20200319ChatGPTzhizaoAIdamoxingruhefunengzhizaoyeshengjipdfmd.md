@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT+制造：AI大模型如何赋能制造业升级.pdf"
+title: "ChatGPT制造AI大模型如何赋能制造业升级pdf"
 date:   2024-07-29
 tags: [AI,制造业,ChatGPT,技术,赋能]
 comments: true

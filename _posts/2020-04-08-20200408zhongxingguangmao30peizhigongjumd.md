@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴光猫3.0配置工具"
+title: "中兴光猫30配置工具"
 date:   2021-12-16
 tags: [光猫,中兴,工具,配置,3.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天邑光猫MAC、SN及设备标识修改指南"
+title: "天邑光猫MACSN及设备标识修改指南"
 date:   2024-07-18
 tags: [光猫,修改,MAC,SN,Telnet]
 comments: true

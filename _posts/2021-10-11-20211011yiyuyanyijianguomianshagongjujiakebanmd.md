@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言一键过免杀工具（加壳版）"
+title: "易语言一键过免杀工具加壳版"
 date:   2024-08-16
 tags: [加壳,易语言,程序,一键,工具]
 comments: true

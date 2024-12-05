@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQLHelper类 C# 资源下载"
+title: "MySQLHelper类 C 资源下载"
 date:   2020-05-10
 tags: [MySQLHelper,C#,连接,资源,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core 3.1 运行 Java 代码资源"
+title: "NET Core 31 运行 Java 代码资源"
 date:   2021-01-06
 tags: [Java,NET,Core,3.1,IKVM]
 comments: true

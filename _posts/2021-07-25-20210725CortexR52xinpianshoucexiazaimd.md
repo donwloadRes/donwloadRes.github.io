@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-R52芯片手册下载"
+title: "CortexR52芯片手册下载"
 date:   2024-09-23
 tags: [Cortex,R52,PDF,手册,芯片]
 comments: true

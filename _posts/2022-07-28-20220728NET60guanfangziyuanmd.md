@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 6.0 官方资源"
+title: "NET 60 官方资源"
 date:   2024-10-09
 tags: [NET,6.0,开发者,资源,编程]
 comments: true

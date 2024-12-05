@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+JS 扫一扫条形码和二维码的插件"
+title: "HTMLJS 扫一扫条形码和二维码的插件"
 date:   2024-01-19
 tags: [插件,scanner,script,html,扫描]
 comments: true

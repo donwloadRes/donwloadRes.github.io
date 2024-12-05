@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZXing for DelphiXE7-XE12"
+title: "ZXing for DelphiXE7XE12"
 date:   2022-04-22
 tags: [条码,ZXing,XE12,Delphi,https]
 comments: true

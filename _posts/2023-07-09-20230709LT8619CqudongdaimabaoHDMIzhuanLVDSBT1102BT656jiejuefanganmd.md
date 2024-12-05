@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT8619C驱动代码包 - HDMI转LVDS-BT1102-BT656解决方案"
+title: "LT8619C驱动代码包  HDMI转LVDSBT1102BT656解决方案"
 date:   2024-03-04
 tags: [代码,HDMI,LT8619C,驱动,LVDS]
 comments: true

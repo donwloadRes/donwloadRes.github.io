@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIMO-OFDM无线通信技术及MATLAB实现"
+title: "MIMOOFDM无线通信技术及MATLAB实现"
 date:   2022-02-15
 tags: [MIMO,OFDM,无线通信,MATLAB,技术]
 comments: true

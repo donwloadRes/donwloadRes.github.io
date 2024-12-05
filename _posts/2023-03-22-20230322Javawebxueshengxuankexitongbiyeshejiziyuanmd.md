@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb学生选课系统 - 毕业设计资源"
+title: "Javaweb学生选课系统  毕业设计资源"
 date:   2020-06-23
 tags: [数据库,毕业设计,选课,学生,源码]
 comments: true

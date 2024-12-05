@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新疆乡镇级区划图（shp格式）"
+title: "新疆乡镇级区划图shp格式"
 date:   2022-11-17
 tags: [shp,乡镇级,ArcGIS,区划图,GIS]
 comments: true

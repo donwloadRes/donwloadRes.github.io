@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtAppTest220104.zip 项目说明"
+title: "QtAppTest220104zip 项目说明"
 date:   2021-08-19
 tags: [Qt,QtAppTest220104,视图,自定义,缩放]
 comments: true

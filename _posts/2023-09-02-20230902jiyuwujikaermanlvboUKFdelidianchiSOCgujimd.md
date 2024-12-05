@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于无迹卡尔曼滤波（UKF）的锂电池SOC估计"
+title: "基于无迹卡尔曼滤波UKF的锂电池SOC估计"
 date:   2023-06-10
 tags: [仿真,参数,UKF,锂电池,代码]
 comments: true

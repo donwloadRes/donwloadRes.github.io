@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年智能优化算法：蛇优化算法MATLAB资源"
+title: "2022年智能优化算法蛇优化算法MATLAB资源"
 date:   2021-01-16
 tags: [算法,MATLAB,代码,优化,测试函数]
 comments: true

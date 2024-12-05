@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil调试仿真技巧 - 从入门到精通"
+title: "Keil调试仿真技巧  从入门到精通"
 date:   2024-02-23
 tags: [调试,Keil,仿真,技巧,入门]
 comments: true

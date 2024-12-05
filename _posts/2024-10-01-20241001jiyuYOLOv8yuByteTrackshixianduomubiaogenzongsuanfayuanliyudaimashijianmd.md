@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOv8与ByteTrack实现多目标跟踪——算法原理与代码实践"
+title: "基于YOLOv8与ByteTrack实现多目标跟踪算法原理与代码实践"
 date:   2024-06-22
 tags: [YOLOv8,ByteTrack,目标,算法,跟踪]
 comments: true

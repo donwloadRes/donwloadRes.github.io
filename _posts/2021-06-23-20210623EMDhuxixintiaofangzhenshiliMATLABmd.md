@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMD呼吸心跳仿真实例（MATLAB）"
+title: "EMD呼吸心跳仿真实例MATLAB"
 date:   2023-02-11
 tags: [信号,心跳,EMD,CEEMDAN,MATLAB]
 comments: true

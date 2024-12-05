@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++银行账户管理系统"
+title: "CC银行账户管理系统"
 date:   2021-05-03
 tags: [账户,C++,用户,操作,系统]
 comments: true

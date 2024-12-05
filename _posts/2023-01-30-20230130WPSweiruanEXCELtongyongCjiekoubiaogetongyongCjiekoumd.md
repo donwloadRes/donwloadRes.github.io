@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS、微软EXCEL通用C++接口表格通用C++接口"
+title: "WPS微软EXCEL通用C接口表格通用C接口"
 date:   2024-10-31
 tags: [接口,C++,使用,代码,表格]
 comments: true

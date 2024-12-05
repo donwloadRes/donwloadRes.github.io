@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "噪声控制学（马大猷著）"
+title: "噪声控制学马大猷著"
 date:   2022-09-25
 tags: [噪声控制,声学,马大猷,理论,噪声]
 comments: true

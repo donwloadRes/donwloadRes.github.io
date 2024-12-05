@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MicroBlaze AXI-IIC 示例项目"
+title: "MicroBlaze AXIIIC 示例项目"
 date:   2022-09-30
 tags: [IIC,MicroBlaze,AXI,EEPROM,AT24C02]
 comments: true

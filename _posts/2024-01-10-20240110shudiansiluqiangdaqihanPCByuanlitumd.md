@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电四路抢答器（含PCB原理图）"
+title: "数电四路抢答器含PCB原理图"
 date:   2020-09-26
 tags: [PCB,抢答器,设计,原理图,四路]
 comments: true

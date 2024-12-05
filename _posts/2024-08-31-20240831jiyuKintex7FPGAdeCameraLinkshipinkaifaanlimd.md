@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Kintex-7 FPGA的CameraLink视频开发案例"
+title: "基于Kintex7 FPGA的CameraLink视频开发案例"
 date:   2021-11-24
 tags: [FPGA,CameraLink,Kintex,视频,案例]
 comments: true

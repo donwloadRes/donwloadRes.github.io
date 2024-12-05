@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNN之SimGNN源代码（可直接运行）（CCF-B）"
+title: "GNN之SimGNN源代码可直接运行CCFB"
 date:   2022-03-13
 tags: [SimGNN,源代码,代码,运行,GNN]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Discrete-Time Signal Processing - 第三版"
+title: "DiscreteTime Signal Processing  第三版"
 date:   2023-02-10
 tags: [信号处理,Discrete,第三版,离散,习题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐系统实战（基于机器学习-深度学习）"
+title: "推荐系统实战基于机器学习深度学习"
 date:   2021-08-19
 tags: [推荐,学习,系统,实战,深度]
 comments: true

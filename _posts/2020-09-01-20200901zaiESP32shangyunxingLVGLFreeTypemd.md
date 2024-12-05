@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在 ESP32 上运行 LVGL + FreeType"
+title: "在 ESP32 上运行 LVGL  FreeType"
 date:   2023-10-15
 tags: [ESP32,LVGL,FreeType,运行,源代码]
 comments: true

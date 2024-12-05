@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线工具检测（安全基线检查工具）"
+title: "离线工具检测安全基线检查工具"
 date:   2022-06-30
 tags: [工具,检测,安全,离线,基线]
 comments: true

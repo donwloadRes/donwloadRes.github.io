@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu CDH6.3.2 完整安装包网盘下载地址"
+title: "Ubuntu CDH632 完整安装包网盘下载地址"
 date:   2024-01-28
 tags: [CDH,6.3,parcel,cdh6.3,p0.1605554]
 comments: true

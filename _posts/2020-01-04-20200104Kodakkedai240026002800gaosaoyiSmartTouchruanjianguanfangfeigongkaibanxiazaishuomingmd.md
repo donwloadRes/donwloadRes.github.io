@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kodak 柯达i2400-2600-2800 高扫仪Smart Touch软件官方非公开版下载说明"
+title: "Kodak 柯达i240026002800 高扫仪Smart Touch软件官方非公开版下载说明"
 date:   2022-10-17
 tags: [软件,柯达,ST,i2000,exe]
 comments: true

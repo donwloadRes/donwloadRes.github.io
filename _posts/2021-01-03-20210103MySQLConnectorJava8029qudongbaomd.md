@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-Java 8.0.29 驱动包"
+title: "MySQL ConnectorJava 8029 驱动包"
 date:   2024-10-23
 tags: [29,8.0,java,MySQL,Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CODESYS 面向对象编程：方法、属性与动作接口详解"
+title: "CODESYS 面向对象编程方法属性与动作接口详解"
 date:   2020-12-07
 tags: [CODESYS,面向对象编程,属性,接口,方法]
 comments: true

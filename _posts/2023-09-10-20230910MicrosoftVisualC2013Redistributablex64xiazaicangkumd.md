@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2013 Redistributable (x64) 下载仓库"
+title: "Microsoft Visual C 2013 Redistributable x64 下载仓库"
 date:   2020-07-27
 tags: [Microsoft,安装,组件,Visual,C++]
 comments: true

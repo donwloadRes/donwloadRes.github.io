@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【C51单片机】简易计算器设计(仿真) README"
+title: "C51单片机简易计算器设计仿真 README"
 date:   2024-11-12
 tags: [单片机,计算器,C51,仿真,硬件]
 comments: true

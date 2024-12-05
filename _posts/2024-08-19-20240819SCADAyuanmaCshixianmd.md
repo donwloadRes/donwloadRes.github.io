@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCADA源码 - C#实现"
+title: "SCADA源码  C实现"
 date:   2023-10-05
 tags: [源码,SCADA,C#,NET,工业]
 comments: true

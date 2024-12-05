@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广东联通UNT400G_S905L3_XR819双内存线刷包 README"
+title: "广东联通UNT400GS905L3XR819双内存线刷包 README"
 date:   2023-10-30
 tags: [刷机,固件,设备,UNT400G,S905L3]
 comments: true

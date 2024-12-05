@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 1.6 协议 JSON 部分中文版"
+title: "OCPP 16 协议 JSON 部分中文版"
 date:   2021-01-08
 tags: [OCPP,1.6,中文版,JSON,文档]
 comments: true

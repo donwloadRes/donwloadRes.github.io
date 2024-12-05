@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 急速狂飙：字符画小游戏（免费）"
+title: "C 急速狂飙字符画小游戏免费"
 date:   2024-07-17
 tags: [游戏,字符,C++,狂飙,小游戏]
 comments: true

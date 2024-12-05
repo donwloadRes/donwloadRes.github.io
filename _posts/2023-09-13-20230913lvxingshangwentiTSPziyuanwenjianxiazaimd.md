@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "旅行商问题（TSP）资源文件下载"
+title: "旅行商问题TSP资源文件下载"
 date:   2021-03-30
 tags: [TSP,问题,旅行,文件,下载]
 comments: true

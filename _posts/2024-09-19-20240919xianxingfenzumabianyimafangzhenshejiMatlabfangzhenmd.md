@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性分组码编译码仿真设计（Matlab仿真）"
+title: "线性分组码编译码仿真设计Matlab仿真"
 date:   2023-09-14
 tags: [仿真,Matlab,分组码,线性,实验报告]
 comments: true

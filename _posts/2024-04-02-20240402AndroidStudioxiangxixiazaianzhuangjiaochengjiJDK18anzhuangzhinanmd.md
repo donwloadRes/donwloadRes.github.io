@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 详细下载安装教程及 JDK 1.8 安装指南"
+title: "Android Studio 详细下载安装教程及 JDK 18 安装指南"
 date:   2021-06-12
 tags: [Android,Studio,JDK,1.8,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "总谐波失真（THD）及其相关参数测量指南"
+title: "总谐波失真THD及其相关参数测量指南"
 date:   2022-06-01
 tags: [THD,测量,失真,参数,谐波]
 comments: true

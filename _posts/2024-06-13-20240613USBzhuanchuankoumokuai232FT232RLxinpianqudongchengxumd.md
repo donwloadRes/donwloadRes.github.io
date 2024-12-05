@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转串口模块232（FT232RL 芯片驱动程序）"
+title: "USB转串口模块232FT232RL 芯片驱动程序"
 date:   2024-06-02
 tags: [驱动程序,USB,串口,模块,FT232RL]
 comments: true

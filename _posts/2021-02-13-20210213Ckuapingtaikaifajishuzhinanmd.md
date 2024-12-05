@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++跨平台开发技术指南"
+title: "C跨平台开发技术指南"
 date:   2022-04-11
 tags: [跨平台,开发技术,C++,指南,pdf]
 comments: true

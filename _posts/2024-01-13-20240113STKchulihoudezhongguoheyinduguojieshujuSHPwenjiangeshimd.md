@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STK处理后的中国和印度国界数据（SHP文件格式）"
+title: "STK处理后的中国和印度国界数据SHP文件格式"
 date:   2020-07-28
 tags: [STK,国界,SHP,AGI,文件格式]
 comments: true

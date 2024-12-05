@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体物理讲义 - 复旦大学 - 蒋玉龙"
+title: "半导体物理讲义  复旦大学  蒋玉龙"
 date:   2023-06-28
 tags: [半导体,讲义,物理,玉龙,复旦大学]
 comments: true

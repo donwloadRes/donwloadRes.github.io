@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JUNIPER SRX配置手册（中文）"
+title: "JUNIPER SRX配置手册中文"
 date:   2021-01-26
 tags: [SRX,JUNIPER,配置,防火墙,本手册]
 comments: true

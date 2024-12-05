@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zlib库的使用：压缩与解压文件夹"
+title: "zlib库的使用压缩与解压文件夹"
 date:   2024-10-19
 tags: [解压,zlib,文件夹,zip,压缩]
 comments: true

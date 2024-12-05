@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "椭圆检测（Ellipse Detection）算法资源文件"
+title: "椭圆检测Ellipse Detection算法资源文件"
 date:   2024-04-12
 tags: [算法,椭圆,检测,博客,Ellipse]
 comments: true

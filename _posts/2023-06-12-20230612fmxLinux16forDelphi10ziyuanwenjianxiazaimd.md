@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "fmxLinux1.6 for Delphi 10 资源文件下载"
+title: "fmxLinux16 for Delphi 10 资源文件下载"
 date:   2021-02-20
 tags: [10,文件,Delphi,fmxLinux1.6,安装]
 comments: true

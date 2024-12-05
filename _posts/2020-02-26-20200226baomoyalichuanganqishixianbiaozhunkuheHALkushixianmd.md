@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "薄膜压力传感器实现（标准库和HAL库实现）"
+title: "薄膜压力传感器实现标准库和HAL库实现"
 date:   2023-03-18
 tags: [HAL,传感器,薄膜,实现,压力]
 comments: true

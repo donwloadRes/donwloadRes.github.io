@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2-SM3-SM4计算工具"
+title: "SM2SM3SM4计算工具"
 date:   2021-10-20
 tags: [SM2,SM3,SM4,工具,算法]
 comments: true

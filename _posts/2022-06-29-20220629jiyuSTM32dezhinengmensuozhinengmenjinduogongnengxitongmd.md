@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的智能门锁-智能门禁多功能系统"
+title: "基于STM32的智能门锁智能门禁多功能系统"
 date:   2020-11-06
 tags: [蓝牙,RFID,模块,指纹,门锁]
 comments: true

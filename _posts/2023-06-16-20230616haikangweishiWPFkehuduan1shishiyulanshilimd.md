@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视WPF客户端1 - 实时预览示例"
+title: "海康威视WPF客户端1  实时预览示例"
 date:   2020-09-12
 tags: [预览,威视,海康,WPF,SDK]
 comments: true

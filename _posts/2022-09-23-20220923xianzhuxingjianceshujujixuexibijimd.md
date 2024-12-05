@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "显著性检测数据集—学习笔记"
+title: "显著性检测数据集学习笔记"
 date:   2022-02-17
 tags: [显著性,图像,检测,数据,像素]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态软件7.2补丁下载"
+title: "组态软件72补丁下载"
 date:   2021-06-15
 tags: [补丁,组态,7.2,软件,仅供]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员的思维修炼 - 中文版.pdf"
+title: "程序员的思维修炼  中文版pdf"
 date:   2021-09-06
 tags: [程序员,思维,修炼,pdf,中文版]
 comments: true

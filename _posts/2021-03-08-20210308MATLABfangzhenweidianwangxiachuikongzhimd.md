@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真：微电网下垂控制"
+title: "MATLAB仿真微电网下垂控制"
 date:   2022-03-11
 tags: [仿真,MATLAB,下垂,电网,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.4p1 资源文件下载"
+title: "OpenSSH 94p1 资源文件下载"
 date:   2022-04-23
 tags: [p1,9.4,OpenSSH,tar,文件]
 comments: true

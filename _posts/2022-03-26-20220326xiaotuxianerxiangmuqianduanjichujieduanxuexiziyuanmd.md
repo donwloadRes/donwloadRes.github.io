@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小兔鲜儿项目：前端基础阶段学习资源"
+title: "小兔鲜儿项目前端基础阶段学习资源"
 date:   2023-07-06
 tags: [源码,项目,HTML,CSS,设计]
 comments: true

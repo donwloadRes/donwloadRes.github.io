@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live-Charts源码实例（C#多语言）"
+title: "LiveCharts源码实例C多语言"
 date:   2024-11-17
 tags: [Live,Charts,实例,源码,C#]
 comments: true

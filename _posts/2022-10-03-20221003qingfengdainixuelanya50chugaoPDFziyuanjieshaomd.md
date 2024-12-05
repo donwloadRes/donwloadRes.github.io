@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青风带你学蓝牙5.0（初稿) PDF资源介绍"
+title: "青风带你学蓝牙50初稿 PDF资源介绍"
 date:   2021-01-15
 tags: [蓝牙,5.0,Nordic,PDF,青风]
 comments: true

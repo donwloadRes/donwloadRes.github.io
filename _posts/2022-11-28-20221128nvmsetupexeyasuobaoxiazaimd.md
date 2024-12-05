@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nvm-setup.exe 压缩包下载"
+title: "nvmsetupexe 压缩包下载"
 date:   2023-11-18
 tags: [压缩包,nvm,setup,exe,解压]
 comments: true

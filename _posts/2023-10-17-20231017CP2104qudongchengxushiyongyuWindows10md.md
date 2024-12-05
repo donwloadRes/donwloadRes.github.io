@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CP2104 驱动程序（适用于 Windows 10）"
+title: "CP2104 驱动程序适用于 Windows 10"
 date:   2020-09-23
 tags: [驱动程序,CP2104,Windows,10,USB]
 comments: true

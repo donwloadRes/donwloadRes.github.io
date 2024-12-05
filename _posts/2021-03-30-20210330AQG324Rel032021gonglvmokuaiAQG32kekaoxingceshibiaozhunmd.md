@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AQG324-Rel-03-2021 功率模块AQG32可靠性测试标准"
+title: "AQG324Rel032021 功率模块AQG32可靠性测试标准"
 date:   2022-04-24
 tags: [测试,2021,可靠性,模块,AQG324]
 comments: true

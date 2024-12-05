@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC课程设计（四层电梯模型PLC控制系统）"
+title: "PLC课程设计四层电梯模型PLC控制系统"
 date:   2021-04-04
 tags: [PLC,电梯,TIA,Portal,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统实验：编程实现银行家算法（有界面 QT 可视化）"
+title: "操作系统实验编程实现银行家算法有界面 QT 可视化"
 date:   2022-01-26
 tags: [QT,资源,死锁,算法,银行家]
 comments: true

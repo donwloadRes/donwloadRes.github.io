@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 16.6 约束规则设置详解(图文并茂)"
+title: "Allegro 166 约束规则设置详解图文并茂"
 date:   2021-11-22
 tags: [Allegro,规则,16.6,设置,PCB]
 comments: true

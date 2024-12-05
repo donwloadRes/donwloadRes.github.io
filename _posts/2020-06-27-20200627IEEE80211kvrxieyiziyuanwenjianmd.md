@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11k-v-r 协议资源文件"
+title: "IEEE 80211kvr 协议资源文件"
 date:   2020-12-31
 tags: [IEEE,802.11,漫游,文件,WiFi]
 comments: true

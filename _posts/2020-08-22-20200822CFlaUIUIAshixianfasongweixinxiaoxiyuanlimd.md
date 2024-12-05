@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# FlaUI.UIA 实现发送微信消息原理"
+title: "C FlaUIUIA 实现发送微信消息原理"
 date:   2020-08-10
 tags: [微信,FlaUI,代码,FlaUInspect,发送]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业数据采集工具 - ibaPdaSetup授权.zip"
+title: "工业数据采集工具  ibaPdaSetup授权zip"
 date:   2021-08-19
 tags: [采集,ibaPdaSetup,zip,工业,授权]
 comments: true

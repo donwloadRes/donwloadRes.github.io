@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT 简介、安装与使用指南"
+title: "MQTT 简介安装与使用指南"
 date:   2021-02-24
 tags: [MQTT,安装,指南,示例,使用]
 comments: true

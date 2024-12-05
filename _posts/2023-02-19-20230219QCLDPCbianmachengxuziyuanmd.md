@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QC-LDPC编码程序资源"
+title: "QCLDPC编码程序资源"
 date:   2020-12-19
 tags: [QC,LDPC,编码,程序,MATLAB]
 comments: true

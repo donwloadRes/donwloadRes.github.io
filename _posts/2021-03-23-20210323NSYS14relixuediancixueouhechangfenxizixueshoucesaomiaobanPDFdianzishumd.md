@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSYS 14热力学-电磁学-耦合场分析自学手册 [扫描版PDF电子书]"
+title: "NSYS 14热力学电磁学耦合场分析自学手册 扫描版PDF电子书"
 date:   2023-10-31
 tags: [ANSYS,电磁学,耦合,分析,热力学]
 comments: true

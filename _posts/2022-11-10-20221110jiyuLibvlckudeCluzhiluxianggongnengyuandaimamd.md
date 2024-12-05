@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Libvlc库的C#录制-录像功能源代码"
+title: "基于Libvlc库的C录制录像功能源代码"
 date:   2020-08-31
 tags: [录制,代码,C#,源代码,Libvlc]
 comments: true

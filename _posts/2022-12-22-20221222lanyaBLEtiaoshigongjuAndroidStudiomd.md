@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙BLE调试工具（Android Studio）"
+title: "蓝牙BLE调试工具Android Studio"
 date:   2023-03-30
 tags: [蓝牙,调试,BLE,Android,设备]
 comments: true

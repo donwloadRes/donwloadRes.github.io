@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S905L3-3B root直播桌面完美版固件包"
+title: "S905L33B root直播桌面完美版固件包"
 date:   2021-10-29
 tags: [固件,直播,刷机,USB,root]
 comments: true

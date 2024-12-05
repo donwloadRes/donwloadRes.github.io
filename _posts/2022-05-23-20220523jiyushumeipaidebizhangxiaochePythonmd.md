@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于树莓派的避障小车（Python）"
+title: "基于树莓派的避障小车Python"
 date:   2022-09-27
 tags: [树莓,避障,Python,小车,代码]
 comments: true

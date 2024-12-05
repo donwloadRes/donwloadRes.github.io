@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双二阶广义积分器（SOGI）软件锁相(基于双线性变换)代码"
+title: "双二阶广义积分器SOGI软件锁相基于双线性变换代码"
 date:   2024-03-26
 tags: [代码,锁相,积分器,软件,SOGI]
 comments: true

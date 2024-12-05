@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMSIS-DSP软件库"
+title: "CMSISDSP软件库"
 date:   2022-08-18
 tags: [DSP,CMSIS,Cortex,嵌入式,文档]
 comments: true

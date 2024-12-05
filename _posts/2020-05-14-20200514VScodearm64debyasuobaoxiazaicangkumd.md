@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode_arm64.deb压缩包下载仓库"
+title: "VScodearm64deb压缩包下载仓库"
 date:   2021-10-18
 tags: [压缩包,VScode,arm64,deb,ARM64]
 comments: true

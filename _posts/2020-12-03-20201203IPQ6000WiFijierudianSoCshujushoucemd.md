@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPQ6000 Wi-Fi 接入点SoC数据手册"
+title: "IPQ6000 WiFi 接入点SoC数据手册"
 date:   2021-01-13
 tags: [Fi,Wi,IPQ6000,SoC,手册]
 comments: true

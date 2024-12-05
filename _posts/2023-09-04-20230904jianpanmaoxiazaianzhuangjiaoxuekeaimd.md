@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "键盘猫下载安装教学(可爱)"
+title: "键盘猫下载安装教学可爱"
 date:   2024-09-25
 tags: [键盘,解压,软件,模式,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于XY2-100协议的振镜控制转换板设计与实现"
+title: "基于XY2100协议的振镜控制转换板设计与实现"
 date:   2023-10-19
 tags: [XY2,100,振镜,设计,协议]
 comments: true

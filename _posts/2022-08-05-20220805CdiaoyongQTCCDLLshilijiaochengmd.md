@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用 QT C++ - C# DLL实例教程"
+title: "C 调用 QT C  C DLL实例教程"
 date:   2020-09-23
 tags: [C#,C++,DLL,Qt,调用]
 comments: true

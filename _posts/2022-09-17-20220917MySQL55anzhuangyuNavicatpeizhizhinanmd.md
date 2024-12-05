@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.5安装与Navicat配置指南"
+title: "MySQL 55安装与Navicat配置指南"
 date:   2020-12-30
 tags: [Navicat,MySQL,安装,5.5,数据库]
 comments: true

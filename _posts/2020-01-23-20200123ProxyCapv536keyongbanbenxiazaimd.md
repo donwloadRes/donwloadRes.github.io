@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ProxyCap v5.36 可用版本下载"
+title: "ProxyCap v536 可用版本下载"
 date:   2020-02-07
 tags: [ProxyCap,v5.36,版本,SSH,可用]
 comments: true

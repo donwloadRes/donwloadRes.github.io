@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易PID自调节程序（基于STM32）"
+title: "简易PID自调节程序基于STM32"
 date:   2022-05-28
 tags: [PID,STM32,调节,程序,参数]
 comments: true

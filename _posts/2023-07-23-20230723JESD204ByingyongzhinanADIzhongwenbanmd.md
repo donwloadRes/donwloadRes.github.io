@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD204B应用指南-ADI-中文版"
+title: "JESD204B应用指南ADI中文版"
 date:   2022-11-29
 tags: [JESD204B,指南,应用,ADI,中文版]
 comments: true

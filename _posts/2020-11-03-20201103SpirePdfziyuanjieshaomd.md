@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spire.Pdf 资源介绍"
+title: "SpirePdf 资源介绍"
 date:   2023-12-10
 tags: [PDF,打印,Spire,Pdf,文档]
 comments: true

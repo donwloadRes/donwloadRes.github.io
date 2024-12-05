@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的大气压强检测仪（Proteus仿真+程序）"
+title: "基于STM32单片机的大气压强检测仪Proteus仿真程序"
 date:   2022-01-27
 tags: [STM32,仿真,Proteus,传感器,单片机]
 comments: true

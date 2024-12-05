@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞桨PaddlePaddle深度学习实战》实践代码合集 - 百度AI Studio"
+title: "飞桨PaddlePaddle深度学习实战实践代码合集  百度AI Studio"
 date:   2023-07-25
 tags: [PaddlePaddle,实践,学习,AI,Studio]
 comments: true

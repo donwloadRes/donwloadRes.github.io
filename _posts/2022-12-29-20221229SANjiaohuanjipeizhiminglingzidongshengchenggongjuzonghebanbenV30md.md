@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAN交换机配置命令自动生成工具 - 综合版本V3.0"
+title: "SAN交换机配置命令自动生成工具  综合版本V30"
 date:   2023-11-21
 tags: [交换机,SAN,生成,命令,配置]
 comments: true

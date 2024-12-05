@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常漂亮的导航菜单(html)资源介绍"
+title: "非常漂亮的导航菜单html资源介绍"
 date:   2023-09-17
 tags: [菜单,导航,用户,资源,体验]
 comments: true

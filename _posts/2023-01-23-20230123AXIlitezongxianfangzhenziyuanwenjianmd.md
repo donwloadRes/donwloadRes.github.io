@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-lite总线仿真资源文件"
+title: "AXIlite总线仿真资源文件"
 date:   2020-03-20
 tags: [lite,仿真,AXI,Vivado,文件]
 comments: true

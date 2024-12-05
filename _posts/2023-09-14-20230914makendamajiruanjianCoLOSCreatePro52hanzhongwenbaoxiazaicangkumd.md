@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马肯打码机软件CoLOS Create Pro 5.2（含中文包）下载仓库"
+title: "马肯打码机软件CoLOS Create Pro 52含中文包下载仓库"
 date:   2021-07-11
 tags: [试用期,软件,仓库,马肯,打码机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS移植到STM32F103C8T6超详细教程（基于标准库）"
+title: "FreeRTOS移植到STM32F103C8T6超详细教程基于标准库"
 date:   2024-03-07
 tags: [FreeRTOS,教程,STM32F103C8T6,移植,模板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车操纵动力学原理-郭孔辉 资源下载"
+title: "汽车操纵动力学原理郭孔辉 资源下载"
 date:   2023-02-18
 tags: [操纵,动力学,汽车,郭孔辉,下载]
 comments: true

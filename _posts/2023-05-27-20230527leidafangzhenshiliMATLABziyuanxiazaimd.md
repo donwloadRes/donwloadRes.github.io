@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达仿真实例（MATLAB）资源下载"
+title: "雷达仿真实例MATLAB资源下载"
 date:   2022-05-05
 tags: [MATLAB,仿真,实例,雷达,资源]
 comments: true

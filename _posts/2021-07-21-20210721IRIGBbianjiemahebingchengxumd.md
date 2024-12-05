@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IRIG-B编解码合并程序"
+title: "IRIGB编解码合并程序"
 date:   2022-08-02
 tags: [IRIG,编解码,程序,解码,STM32C8T6]
 comments: true

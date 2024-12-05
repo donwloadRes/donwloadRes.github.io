@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RBF神经网络在线自适应源码（带注释）"
+title: "RBF神经网络在线自适应源码带注释"
 date:   2020-05-15
 tags: [源码,RBF,Simulink,注释,神经网络]
 comments: true

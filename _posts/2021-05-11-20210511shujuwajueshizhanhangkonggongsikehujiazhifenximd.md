@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘实战—航空公司客户价值分析"
+title: "数据挖掘实战航空公司客户价值分析"
 date:   2023-12-28
 tags: [客户,分析,数据挖掘,聚类,价值]
 comments: true

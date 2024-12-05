@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java期末小项目：Java+GUI+MySQL 学生管理系统"
+title: "Java期末小项目JavaGUIMySQL 学生管理系统"
 date:   2021-10-25
 tags: [Java,学生,信息,用户,MySQL]
 comments: true

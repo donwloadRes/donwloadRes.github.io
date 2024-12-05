@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter 压力测试报告模板 - 超细版"
+title: "JMeter 压力测试报告模板  超细版"
 date:   2021-07-13
 tags: [模板,测试报告,JMeter,超细,测试]
 comments: true

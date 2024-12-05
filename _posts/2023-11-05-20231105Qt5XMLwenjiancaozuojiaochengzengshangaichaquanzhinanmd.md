@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5 XML文件操作教程：增删改查全指南"
+title: "Qt5 XML文件操作教程增删改查全指南"
 date:   2022-06-28
 tags: [XML,Qt5,教程,节点,文档]
 comments: true

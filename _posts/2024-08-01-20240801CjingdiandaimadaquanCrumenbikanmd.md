@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++经典代码大全（C++入门必看）"
+title: "C经典代码大全C入门必看"
 date:   2023-12-23
 tags: [C++,示例,编程,代码,资源]
 comments: true

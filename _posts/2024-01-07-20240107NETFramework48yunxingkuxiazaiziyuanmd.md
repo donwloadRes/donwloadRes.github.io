@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.8 运行库 下载资源"
+title: "NET Framework 48 运行库 下载资源"
 date:   2021-04-03
 tags: [安装包,NET,Framework,4.8,运行库]
 comments: true

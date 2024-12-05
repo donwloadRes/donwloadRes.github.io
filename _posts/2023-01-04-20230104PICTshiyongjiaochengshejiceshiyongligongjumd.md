@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PICT使用教程（设计测试用例工具）"
+title: "PICT使用教程设计测试用例工具"
 date:   2023-02-01
 tags: [PICT,测试用例,教程,设计,使用]
 comments: true

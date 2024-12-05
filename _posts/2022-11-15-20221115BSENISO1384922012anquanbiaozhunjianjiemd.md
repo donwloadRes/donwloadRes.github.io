@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BSEN ISO 13849-2-2012 安全标准简介"
+title: "BSEN ISO 1384922012 安全标准简介"
 date:   2023-09-01
 tags: [2012,验证,安全,ISO,13849]
 comments: true

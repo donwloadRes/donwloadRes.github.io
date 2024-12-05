@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500系列ePlan部件文件下载"
+title: "西门子S71500系列ePlan部件文件下载"
 date:   2022-06-25
 tags: [ePlan,S7,1500,模块,EDZ]
 comments: true

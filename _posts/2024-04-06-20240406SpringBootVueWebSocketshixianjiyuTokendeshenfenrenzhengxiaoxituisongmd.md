@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + Vue + WebSocket 实现基于Token的身份认证消息推送"
+title: "Spring Boot  Vue  WebSocket 实现基于Token的身份认证消息推送"
 date:   2022-03-15
 tags: [WebSocket,Vue,Spring,身份验证,推送]
 comments: true

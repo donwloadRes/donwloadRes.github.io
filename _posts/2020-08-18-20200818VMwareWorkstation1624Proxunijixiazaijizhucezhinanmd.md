@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 16.2.4 Pro 虚拟机下载及注册指南"
+title: "VMware Workstation 1624 Pro 虚拟机下载及注册指南"
 date:   2021-11-19
 tags: [VMware,下载,链接,Workstation,Pro]
 comments: true

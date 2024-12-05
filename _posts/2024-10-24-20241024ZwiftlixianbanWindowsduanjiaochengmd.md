@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zwift离线版-Windows端教程"
+title: "Zwift离线版Windows端教程"
 date:   2020-06-28
 tags: [Zwift,离线,Windows,教程,Python]
 comments: true

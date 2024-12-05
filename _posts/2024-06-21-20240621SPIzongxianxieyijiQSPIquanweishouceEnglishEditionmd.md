@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPI总线协议及QSPI权威手册 (English Edition)"
+title: "SPI总线协议及QSPI权威手册 English Edition"
 date:   2022-11-01
 tags: [SPI,QSPI,手册,总线,NXP]
 comments: true

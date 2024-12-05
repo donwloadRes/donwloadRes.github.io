@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "表情识别-情绪识别：ExpW表情数据集"
+title: "表情识别情绪识别ExpW表情数据集"
 date:   2024-07-08
 tags: [人脸,表情,ExpW,数据,图像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flask项目实战-超市商品管理平台"
+title: "Flask项目实战超市商品管理平台"
 date:   2022-08-22
 tags: [Flask,项目,商品信息,商品,用户]
 comments: true

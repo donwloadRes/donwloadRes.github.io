@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解C++11 资源下载"
+title: "深入理解C11 资源下载"
 date:   2024-10-28
 tags: [C++,11,下载,编译器,深入]
 comments: true

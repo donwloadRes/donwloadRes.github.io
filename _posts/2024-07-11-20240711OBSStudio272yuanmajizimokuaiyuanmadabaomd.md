@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OBS Studio 27.2 源码及子模块源码打包"
+title: "OBS Studio 272 源码及子模块源码打包"
 date:   2020-12-19
 tags: [源码,模块,OBS,及子,打包]
 comments: true

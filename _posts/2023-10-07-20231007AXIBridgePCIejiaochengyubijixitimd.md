@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-Bridge-PCIe 教程与笔记习题"
+title: "AXIBridgePCIe 教程与笔记习题"
 date:   2021-04-19
 tags: [AXI,Bridge,PCIe,教程,习题]
 comments: true

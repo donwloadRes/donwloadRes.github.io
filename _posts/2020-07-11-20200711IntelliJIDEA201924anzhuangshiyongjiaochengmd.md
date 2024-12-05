@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA 2019.2.4 安装使用教程"
+title: "IntelliJ IDEA 201924 安装使用教程"
 date:   2024-07-10
 tags: [IntelliJ,IDEA,安装,教程,2019.2]
 comments: true

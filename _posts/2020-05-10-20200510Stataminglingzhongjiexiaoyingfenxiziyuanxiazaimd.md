@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stata命令：中介效应分析资源下载"
+title: "Stata命令中介效应分析资源下载"
 date:   2023-12-02
 tags: [Stata,中介,文件,效应,分析]
 comments: true

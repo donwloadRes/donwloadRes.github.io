@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink_RBF神经网络PID控制"
+title: "SimulinkRBF神经网络PID控制"
 date:   2020-01-21
 tags: [RBF,PID,神经网络,Simulink,MATLAB]
 comments: true

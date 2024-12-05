@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 DAC + DMA + Timer 实现任意波形发生器"
+title: "STM32F407 DAC  DMA  Timer 实现任意波形发生器"
 date:   2022-03-15
 tags: [STM32F407,DMA,波形,DAC,定时器]
 comments: true

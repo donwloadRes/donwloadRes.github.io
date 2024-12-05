@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 SDK开发：手机连接ESP32热点，使用微信小程序查看摄像头图像"
+title: "ESP32 SDK开发手机连接ESP32热点使用微信小程序查看摄像头图像"
 date:   2020-05-27
 tags: [ESP32,微信,摄像头,图像,连接]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOV4的绝缘子检测（开源模型、数据集及源码）"
+title: "基于YOLOV4的绝缘子检测开源模型数据集及源码"
 date:   2023-03-10
 tags: [绝缘子,模型,检测,源码,YOLOV4]
 comments: true

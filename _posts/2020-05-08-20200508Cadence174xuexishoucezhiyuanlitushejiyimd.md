@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence17.4学习手册之原理图设计(一)"
+title: "Cadence174学习手册之原理图设计一"
 date:   2023-10-30
 tags: [原理图,Cadence17.4,元件库,设计,手册]
 comments: true

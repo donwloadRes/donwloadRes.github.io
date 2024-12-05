@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Control Expert v14.0 补丁"
+title: "Control Expert v140 补丁"
 date:   2024-05-11
 tags: [补丁,Control,Expert,v14.0,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluetooth® 测试规范：RF-PHY.TS.5.0.1"
+title: "Bluetooth 测试规范RFPHYTS501"
 date:   2020-10-08
 tags: [测试,蓝牙,RF,文档,Bluetooth]
 comments: true

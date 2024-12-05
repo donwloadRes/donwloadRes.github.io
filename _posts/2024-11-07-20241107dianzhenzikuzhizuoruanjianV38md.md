@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点阵字库制作软件V3.8"
+title: "点阵字库制作软件V38"
 date:   2022-08-02
 tags: [软件,点阵字库,V3.8,字体,编码]
 comments: true

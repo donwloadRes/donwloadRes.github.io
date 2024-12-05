@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GigE Vision 2.0 中文版资源下载"
+title: "GigE Vision 20 中文版资源下载"
 date:   2021-11-13
 tags: [GigE,Vision,2.0,中文版,pdf]
 comments: true

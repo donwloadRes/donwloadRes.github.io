@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言+8259中断实验+Proteus仿真资源"
+title: "汇编语言8259中断实验Proteus仿真资源"
 date:   2022-12-25
 tags: [Proteus,仿真,中断,汇编语言,8259]
 comments: true

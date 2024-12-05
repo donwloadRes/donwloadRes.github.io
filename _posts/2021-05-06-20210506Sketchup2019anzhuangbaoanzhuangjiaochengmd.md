@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sketchup 2019 安装包 & 安装教程"
+title: "Sketchup 2019 安装包  安装教程"
 date:   2021-03-22
 tags: [安装,2019,SketchUp,软件,解压]
 comments: true

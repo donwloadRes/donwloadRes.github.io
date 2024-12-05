@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AxMath 2.5 功能完全可用版"
+title: "AxMath 25 功能完全可用版"
 date:   2024-04-05
 tags: [公式,AxMath,编辑,2.5,LaTeX]
 comments: true

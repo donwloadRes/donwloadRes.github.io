@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义控件之-winform美化指南"
+title: "C自定义控件之winform美化指南"
 date:   2021-08-05
 tags: [控件,窗体,自定义,文件,美化]
 comments: true

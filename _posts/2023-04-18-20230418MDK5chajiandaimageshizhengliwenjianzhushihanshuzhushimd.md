@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK5插件：代码格式整理、文件注释、函数注释"
+title: "MDK5插件代码格式整理文件注释函数注释"
 date:   2020-08-28
 tags: [插件,注释,代码,文件,函数]
 comments: true

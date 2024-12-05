@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZED + YOLO 双目测距项目介绍"
+title: "ZED  YOLO 双目测距项目介绍"
 date:   2022-02-25
 tags: [ZED,测距,numpy,YOLO,zedceju]
 comments: true

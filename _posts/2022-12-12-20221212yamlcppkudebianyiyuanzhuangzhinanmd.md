@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yaml-cpp库的编译与安装指南"
+title: "yamlcpp库的编译与安装指南"
 date:   2023-03-10
 tags: [yaml,cpp,编译,安装,源码]
 comments: true

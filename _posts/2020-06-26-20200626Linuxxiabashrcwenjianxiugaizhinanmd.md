@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 下 .bashrc 文件修改指南"
+title: "Linux 下 bashrc 文件修改指南"
 date:   2021-01-18
 tags: [bashrc,文件,修改,Linux,Shell]
 comments: true

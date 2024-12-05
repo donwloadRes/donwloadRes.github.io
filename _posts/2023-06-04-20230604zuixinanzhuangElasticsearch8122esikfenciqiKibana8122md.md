@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新安装Elasticsearch 8.12.2、es-ik分词器、Kibana 8.12.2"
+title: "最新安装Elasticsearch 8122esik分词器Kibana 8122"
 date:   2023-10-30
 tags: [Elasticsearch,ik,分词器,Kibana,8.12]
 comments: true

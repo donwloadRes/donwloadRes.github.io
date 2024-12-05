@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学最优化方法期末整合（多套）"
+title: "山东大学最优化方法期末整合多套"
 date:   2021-12-16
 tags: [期末考试,题目,最优化,期末,山东大学]
 comments: true

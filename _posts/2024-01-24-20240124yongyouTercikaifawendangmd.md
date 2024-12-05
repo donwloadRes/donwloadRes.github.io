@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友T+二次开发文档"
+title: "用友T二次开发文档"
 date:   2022-04-18
 tags: [用友,二次开发,文档,PDF,开发者]
 comments: true

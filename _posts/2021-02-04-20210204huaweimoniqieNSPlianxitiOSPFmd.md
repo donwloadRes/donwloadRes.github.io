@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为模拟器eNSP练习题-OSPF"
+title: "华为模拟器eNSP练习题OSPF"
 date:   2022-07-15
 tags: [OSPF,eNSP,华为,模拟器,练习题]
 comments: true

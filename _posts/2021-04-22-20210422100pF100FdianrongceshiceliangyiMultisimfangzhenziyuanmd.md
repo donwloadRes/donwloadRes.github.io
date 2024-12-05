@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100pF-100μF电容测试测量仪Multisim仿真资源"
+title: "100pF100F电容测试测量仪Multisim仿真资源"
 date:   2020-08-23
 tags: [电容,Multisim,仿真,100pF,100]
 comments: true

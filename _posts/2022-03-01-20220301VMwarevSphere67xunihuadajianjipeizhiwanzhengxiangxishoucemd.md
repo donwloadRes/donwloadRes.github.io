@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.7 虚拟化搭建及配置完整详细手册"
+title: "VMware vSphere 67 虚拟化搭建及配置完整详细手册"
 date:   2020-07-17
 tags: [虚拟化,VMware,vSphere,6.7,手册]
 comments: true

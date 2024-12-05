@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dspace System Desk 5.1 帮助手册（中英文互译）"
+title: "Dspace System Desk 51 帮助手册中英文互译"
 date:   2023-06-15
 tags: [Dspace,System,Desk,5.1,手册]
 comments: true

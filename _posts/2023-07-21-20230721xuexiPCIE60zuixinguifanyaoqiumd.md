@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习PCIE6.0最新规范要求"
+title: "学习PCIE60最新规范要求"
 date:   2023-10-19
 tags: [PCIE6.0,PCIE5.0,规范,用户,要求]
 comments: true

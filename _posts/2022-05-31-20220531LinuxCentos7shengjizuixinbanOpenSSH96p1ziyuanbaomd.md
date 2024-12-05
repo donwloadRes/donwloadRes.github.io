@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux Centos7 升级最新版 OpenSSH-9.6p1 资源包"
+title: "Linux Centos7 升级最新版 OpenSSH96p1 资源包"
 date:   2022-04-15
 tags: [tar,升级,9.6,p1,gz]
 comments: true

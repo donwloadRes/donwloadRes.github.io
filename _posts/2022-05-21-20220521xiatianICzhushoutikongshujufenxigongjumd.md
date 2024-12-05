@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "夏天IC助手 - 梯控数据分析工具"
+title: "夏天IC助手  梯控数据分析工具"
 date:   2021-10-20
 tags: [梯控,数据分析,IC,工具,数据]
 comments: true

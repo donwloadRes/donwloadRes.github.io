@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱1.2.0更新介绍"
+title: "CC工具箱120更新介绍"
 date:   2022-12-19
 tags: [工具箱,模块,CC,1.2,右键]
 comments: true

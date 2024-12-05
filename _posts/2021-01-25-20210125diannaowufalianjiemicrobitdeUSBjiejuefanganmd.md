@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑无法连接micro:bit的USB解决方案"
+title: "电脑无法连接microbit的USB解决方案"
 date:   2021-12-11
 tags: [micro,bit,电脑,USB,固件]
 comments: true

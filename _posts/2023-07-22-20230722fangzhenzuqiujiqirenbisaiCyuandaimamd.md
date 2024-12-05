@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿真足球机器人比赛C++源代码"
+title: "仿真足球机器人比赛C源代码"
 date:   2024-01-29
 tags: [仿真,机器人,源代码,足球,比赛]
 comments: true

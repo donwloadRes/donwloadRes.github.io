@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 2022入门(DotNetCore 版本) PDF资源介绍"
+title: "C 2022入门DotNetCore 版本 PDF资源介绍"
 date:   2021-01-13
 tags: [C#,Core,编程,NET,DotNetCore]
 comments: true

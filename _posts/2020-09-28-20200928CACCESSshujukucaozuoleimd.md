@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ACCESS 数据库操作类"
+title: "C ACCESS 数据库操作类"
 date:   2020-11-20
 tags: [数据库,类库,SQL,DataSet,C#]
 comments: true

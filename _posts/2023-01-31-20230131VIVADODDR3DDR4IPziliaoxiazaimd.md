@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO DDR3-DDR4 IP资料下载"
+title: "VIVADO DDR3DDR4 IP资料下载"
 date:   2023-07-28
 tags: [VIVADO,DDR3,DDR4,IP,文档]
 comments: true

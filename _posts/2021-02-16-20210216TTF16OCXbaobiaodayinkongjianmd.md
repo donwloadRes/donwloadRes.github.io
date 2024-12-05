@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TTF16.OCX报表打印控件"
+title: "TTF16OCX报表打印控件"
 date:   2020-11-19
 tags: [控件,Windows,TTF16,OCX,64]
 comments: true

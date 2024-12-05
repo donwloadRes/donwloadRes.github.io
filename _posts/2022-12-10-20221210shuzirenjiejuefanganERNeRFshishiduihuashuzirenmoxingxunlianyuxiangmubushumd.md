@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字人解决方案——ER-NeRF实时对话数字人模型训练与项目部署"
+title: "数字人解决方案ERNeRF实时对话数字人模型训练与项目部署"
 date:   2020-02-08
 tags: [NeRF,ER,数字,实时,模型]
 comments: true

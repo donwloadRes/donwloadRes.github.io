@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM开发：使用MDK编译STM32简单程序"
+title: "ARM开发使用MDK编译STM32简单程序"
 date:   2024-09-04
 tags: [MDK,教程,STM32,调试,程序]
 comments: true

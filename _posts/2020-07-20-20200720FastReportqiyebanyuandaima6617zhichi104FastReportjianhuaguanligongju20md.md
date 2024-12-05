@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport企业版源代码6.6.17 支持10.4+ FastReport 简化管理工具2.0"
+title: "FastReport企业版源代码6617 支持104 FastReport 简化管理工具20"
 date:   2020-10-14
 tags: [文件夹,FastReport,文件,bat,res]
 comments: true

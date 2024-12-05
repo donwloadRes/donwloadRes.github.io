@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理（第三版）答案资源下载"
+title: "编译原理第三版答案资源下载"
 date:   2022-02-12
 tags: [编译,第三版,原理,答案,资源]
 comments: true

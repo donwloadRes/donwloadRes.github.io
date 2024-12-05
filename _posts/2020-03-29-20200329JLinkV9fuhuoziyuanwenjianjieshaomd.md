@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link V9 复活资源文件介绍"
+title: "JLink V9 复活资源文件介绍"
 date:   2021-10-13
 tags: [Link,V9,固件,仿真器,文件]
 comments: true

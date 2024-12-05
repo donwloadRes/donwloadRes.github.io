@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+TCP通信Server端资源文件介绍"
+title: "QTTCP通信Server端资源文件介绍"
 date:   2020-01-17
 tags: [TCP,QT,文件,服务器,资源]
 comments: true

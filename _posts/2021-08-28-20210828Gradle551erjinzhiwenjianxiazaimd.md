@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 5.5.1 二进制文件下载"
+title: "Gradle 551 二进制文件下载"
 date:   2021-04-02
 tags: [Gradle,5.5,二进制,文件,gradle]
 comments: true

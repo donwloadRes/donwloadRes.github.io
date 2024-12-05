@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDID编辑工具（Windows）"
+title: "EDID编辑工具Windows"
 date:   2020-11-23
 tags: [EDID,编辑,工具,显示器,Windows]
 comments: true

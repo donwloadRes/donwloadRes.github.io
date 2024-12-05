@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 34943-2017 C-C++语言源代码漏洞测试规范"
+title: "GBT 349432017 CC语言源代码漏洞测试规范"
 date:   2020-09-04
 tags: [源代码,漏洞,测试,C++,规范]
 comments: true

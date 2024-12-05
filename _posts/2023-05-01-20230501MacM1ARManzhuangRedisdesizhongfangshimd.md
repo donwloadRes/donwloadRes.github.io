@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac M1 (ARM) 安装 Redis 的四种方式"
+title: "Mac M1 ARM 安装 Redis 的四种方式"
 date:   2024-06-08
 tags: [Redis,安装,ARM,安装包,版本]
 comments: true

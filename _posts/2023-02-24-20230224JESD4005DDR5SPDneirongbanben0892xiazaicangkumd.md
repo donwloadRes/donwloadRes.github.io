@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD400-5 DDR5 SPD 内容版本 0.89 (2) 下载仓库"
+title: "JESD4005 DDR5 SPD 内容版本 089 2 下载仓库"
 date:   2021-08-20
 tags: [仓库,文件,DDR5,SPD,下载]
 comments: true

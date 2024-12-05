@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言-C++ 烟花表白代码"
+title: "C语言C 烟花表白代码"
 date:   2021-09-02
 tags: [代码,C语言,C++,烟花,表白]
 comments: true

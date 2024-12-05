@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "看牛人如何学习JAVA（重新上传）"
+title: "看牛人如何学习JAVA重新上传"
 date:   2022-08-07
 tags: [Java,学习,---,牛人,看牛人]
 comments: true

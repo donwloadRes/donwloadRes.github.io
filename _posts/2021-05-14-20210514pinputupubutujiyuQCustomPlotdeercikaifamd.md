@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "频谱图、瀑布图基于QCustomPlot的二次开发"
+title: "频谱图瀑布图基于QCustomPlot的二次开发"
 date:   2023-09-14
 tags: [频谱,QCustomPlot,Qt,二次开发,瀑布]
 comments: true

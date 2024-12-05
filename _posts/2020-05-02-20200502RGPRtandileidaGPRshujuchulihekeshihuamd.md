@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RGPR: 探地雷达 (GPR) 数据处理和可视化"
+title: "RGPR 探地雷达 GPR 数据处理和可视化"
 date:   2024-04-18
 tags: [RGPR,GPR,可视化,数据处理,读取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Xshell 7 更新提示及nslicense.dll文件无效问题"
+title: "解决Xshell 7 更新提示及nslicensedll文件无效问题"
 date:   2024-05-28
 tags: [Xshell,nslicense,dll,版本,文件]
 comments: true

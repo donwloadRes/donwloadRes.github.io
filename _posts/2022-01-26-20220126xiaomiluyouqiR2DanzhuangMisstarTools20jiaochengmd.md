@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米路由器R2D安装Misstar Tools2.0教程"
+title: "小米路由器R2D安装Misstar Tools20教程"
 date:   2021-07-13
 tags: [路由器,R2D,小米,插件,misstar]
 comments: true

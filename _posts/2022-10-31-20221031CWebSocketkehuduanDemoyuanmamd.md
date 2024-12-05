@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WebSocket 客户端 Demo 源码"
+title: "C WebSocket 客户端 Demo 源码"
 date:   2020-06-01
 tags: [WebSocket,源码,Demo,C#,客户端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET C# 资源管理系统"
+title: "NET C 资源管理系统"
 date:   2024-03-10
 tags: [管理,报表,报损,出库,入库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统稳定与控制-Kundur(中文版) 资源下载"
+title: "电力系统稳定与控制Kundur中文版 资源下载"
 date:   2021-02-01
 tags: [电力系统,中文版,Kundur,下载,稳定]
 comments: true

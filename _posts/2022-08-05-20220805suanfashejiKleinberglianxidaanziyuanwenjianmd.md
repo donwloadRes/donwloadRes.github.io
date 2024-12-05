@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计》Kleinberg 练习答案资源文件"
+title: "算法设计Kleinberg 练习答案资源文件"
 date:   2021-01-14
 tags: [算法,答案,练习题,文件,设计]
 comments: true

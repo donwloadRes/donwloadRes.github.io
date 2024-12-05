@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI 5.6 安装教程 - 新手入门指南（超详细）"
+title: "ENVI 56 安装教程  新手入门指南超详细"
 date:   2024-04-08
 tags: [ENVI,安装,教程,5.6,破解]
 comments: true

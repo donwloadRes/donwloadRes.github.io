@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6与I2C协议连接OLED（0.96寸12864）CuBeMX资源文件介绍"
+title: "STM32F407ZGT6与I2C协议连接OLED096寸12864CuBeMX资源文件介绍"
 date:   2020-08-18
 tags: [STM32F407ZGT6,OLED,代码,I2C,CuBeMX]
 comments: true

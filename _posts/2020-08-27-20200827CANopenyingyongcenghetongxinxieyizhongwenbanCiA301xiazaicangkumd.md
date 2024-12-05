@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANopen应用层和通信协议（中文版）_CiA301 下载仓库"
+title: "CANopen应用层和通信协议中文版CiA301 下载仓库"
 date:   2024-11-14
 tags: [通信协议,CANopen,CiA301,应用层,文件]
 comments: true

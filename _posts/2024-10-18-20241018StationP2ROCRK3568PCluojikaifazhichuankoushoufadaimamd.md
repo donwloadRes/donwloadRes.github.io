@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Station P2(ROC-RK3568-PC) 裸机开发之串口收发代码"
+title: "Station P2ROCRK3568PC 裸机开发之串口收发代码"
 date:   2022-10-31
 tags: [串口,开发板,代码,裸机,RK3568]
 comments: true

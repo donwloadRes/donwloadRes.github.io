@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSS、PAC、PNoise仿真方法详解"
+title: "PSSPACPNoise仿真方法详解"
 date:   2022-11-15
 tags: [PAC,仿真,PSS,PNoise,Spectre]
 comments: true

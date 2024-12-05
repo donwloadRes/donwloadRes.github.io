@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资源文件 README.md 介绍"
+title: "资源文件 READMEmd 介绍"
 date:   2024-12-02
 tags: [识别,行人,数据,场景,视角]
 comments: true

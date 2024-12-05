@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能现状与未来 - 99页PPT资源下载"
+title: "人工智能现状与未来  99页PPT资源下载"
 date:   2023-11-13
 tags: [人工智能,PPT,99,现状,未来]
 comments: true

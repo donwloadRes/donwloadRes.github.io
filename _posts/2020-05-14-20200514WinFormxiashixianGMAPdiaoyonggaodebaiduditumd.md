@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm下实现GMAP调用高德、百度地图"
+title: "WinForm下实现GMAP调用高德百度地图"
 date:   2022-12-10
 tags: [地图,高德,WinForm,API,百度]
 comments: true

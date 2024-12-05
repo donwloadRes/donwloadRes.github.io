@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10位高速SAR ADC基于0.18um工艺的电路资源"
+title: "10位高速SAR ADC基于018um工艺的电路资源"
 date:   2020-12-24
 tags: [仿真,0.18,um,10,Virtuoso]
 comments: true

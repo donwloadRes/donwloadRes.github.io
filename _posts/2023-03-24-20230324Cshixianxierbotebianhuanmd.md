@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现希尔伯特变换"
+title: "C实现希尔伯特变换"
 date:   2024-01-23
 tags: [希尔伯特,变换,文件,C++,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵理论期末试卷（北航）资源下载"
+title: "矩阵理论期末试卷北航资源下载"
 date:   2023-11-06
 tags: [北航,矩阵,期末试卷,文件,理论]
 comments: true

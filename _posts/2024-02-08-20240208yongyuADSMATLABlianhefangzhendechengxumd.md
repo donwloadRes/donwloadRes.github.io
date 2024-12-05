@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用于ADS-MATLAB联合仿真的程序"
+title: "用于ADSMATLAB联合仿真的程序"
 date:   2021-08-15
 tags: [仿真,MATLAB,ADS,程序,联合]
 comments: true

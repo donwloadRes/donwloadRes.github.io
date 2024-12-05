@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APP渗透—微信小程序、解包反编译、数据抓包"
+title: "APP渗透微信小程序解包反编译数据抓包"
 date:   2024-06-30
 tags: [反编译,微信,抓包,程序,证书]
 comments: true

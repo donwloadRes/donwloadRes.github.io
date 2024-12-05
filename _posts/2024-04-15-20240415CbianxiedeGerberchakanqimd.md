@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写的Gerber查看器"
+title: "C编写的Gerber查看器"
 date:   2021-12-04
 tags: [Gerber,查看器,代码,导入,提交]
 comments: true

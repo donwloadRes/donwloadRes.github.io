@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小柒鼠标连点器 v1.7 电脑版下载"
+title: "小柒鼠标连点器 v17 电脑版下载"
 date:   2022-02-22
 tags: [点击,鼠标,小柒,连点器,v1.7]
 comments: true

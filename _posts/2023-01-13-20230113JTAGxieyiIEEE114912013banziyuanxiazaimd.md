@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTAG协议_IEEE 1149.1（2013版）资源下载"
+title: "JTAG协议IEEE 114912013版资源下载"
 date:   2022-02-01
 tags: [文档,JTAG,Word,IEEE,1149.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAC和PHY详解(含重点标注)"
+title: "MAC和PHY详解含重点标注"
 date:   2020-07-29
 tags: [MAC,PHY,以太网,标注,读者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos 7.6 安装 Oracle 11g 实例指南"
+title: "Centos 76 安装 Oracle 11g 实例指南"
 date:   2021-02-21
 tags: [Oracle,安装,数据库,11g,用户]
 comments: true

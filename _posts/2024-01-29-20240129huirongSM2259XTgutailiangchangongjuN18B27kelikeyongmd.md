@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "慧荣SM2259XT固态量产工具N18，B27颗粒可用"
+title: "慧荣SM2259XT固态量产工具N18B27颗粒可用"
 date:   2021-06-14
 tags: [量产,N18,1V8,颗粒,慧荣]
 comments: true

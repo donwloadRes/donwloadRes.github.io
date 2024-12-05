@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉：伯特霍尔德·霍恩著作中文版PDF下载"
+title: "机器视觉伯特霍尔德霍恩著作中文版PDF下载"
 date:   2020-11-08
 tags: [视觉,PDF,伯特,机器,图像]
 comments: true

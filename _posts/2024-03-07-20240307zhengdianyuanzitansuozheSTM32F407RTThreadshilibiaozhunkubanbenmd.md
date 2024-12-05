@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子-探索者STM32F407-RT-Thread示例-标准库版本"
+title: "正点原子探索者STM32F407RTThread示例标准库版本"
 date:   2022-08-29
 tags: [探索者,STM32F407,RT,Thread,正点]
 comments: true

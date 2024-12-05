@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qualcomm QCC3040双Mic cVc通话降噪+ANC主动降噪TWS耳机方案-综合文档"
+title: "基于Qualcomm QCC3040双Mic cVc通话降噪ANC主动降噪TWS耳机方案综合文档"
 date:   2023-04-26
 tags: [降噪,文档,TWS,ANC,耳机]
 comments: true

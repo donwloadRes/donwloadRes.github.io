@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS Office 10.1.0.7346 绿色版（无联网功能）"
+title: "WPS Office 10107346 绿色版无联网功能"
 date:   2024-03-02
 tags: [WPS,绿色版,联网,无需,Office]
 comments: true

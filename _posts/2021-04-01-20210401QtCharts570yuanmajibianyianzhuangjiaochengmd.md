@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtCharts 5.7.0 源码及编译安装教程"
+title: "QtCharts 570 源码及编译安装教程"
 date:   2022-05-28
 tags: [Qt,编译,QtCharts,源码,安装]
 comments: true

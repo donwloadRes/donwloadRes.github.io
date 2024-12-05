@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中文离线手册"
+title: "C中文离线手册"
 date:   2021-10-06
 tags: [离线,C#,手册,解压,编程]
 comments: true

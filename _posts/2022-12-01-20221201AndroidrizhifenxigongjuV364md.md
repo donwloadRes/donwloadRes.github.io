@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android日志分析工具-V3.6.4"
+title: "Android日志分析工具V364"
 date:   2023-12-02
 tags: [日志,Android,V3.6,分析,工具]
 comments: true

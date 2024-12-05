@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "隔离输出4～20mA原理图"
+title: "隔离输出420mA原理图"
 date:   2021-12-13
 tags: [隔离,原理图,电路,输出,20mA]
 comments: true

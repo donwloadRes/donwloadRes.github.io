@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SW转DWG[CAD]完美无乱码（另附输出DWG宏）"
+title: "SW转DWGCAD完美无乱码另附输出DWG宏"
 date:   2024-11-26
 tags: [DWG,转换,乱码,CAD,SolidWorks]
 comments: true

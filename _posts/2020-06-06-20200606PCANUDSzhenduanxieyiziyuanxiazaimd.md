@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-UDS诊断协议资源下载"
+title: "PCANUDS诊断协议资源下载"
 date:   2024-09-22
 tags: [PCAN,UDS,诊断,协议,资源]
 comments: true

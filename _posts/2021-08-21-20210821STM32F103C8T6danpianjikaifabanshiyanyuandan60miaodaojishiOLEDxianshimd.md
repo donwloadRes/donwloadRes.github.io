@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6单片机开发板实验：元旦60秒倒计时 OLED显示"
+title: "STM32F103C8T6单片机开发板实验元旦60秒倒计时 OLED显示"
 date:   2022-09-26
 tags: [OLED,开发板,STM32,单片机,倒计时]
 comments: true

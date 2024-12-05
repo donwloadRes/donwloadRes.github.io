@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design-Expert中文教程资源下载"
+title: "DesignExpert中文教程资源下载"
 date:   2020-02-18
 tags: [Design,Expert,教程,实验设计,中文]
 comments: true

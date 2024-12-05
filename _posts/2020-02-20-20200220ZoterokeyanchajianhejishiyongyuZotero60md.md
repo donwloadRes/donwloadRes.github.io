@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero科研插件合集 (适用于Zotero 6.0)"
+title: "Zotero科研插件合集 适用于Zotero 60"
 date:   2022-03-11
 tags: [插件,Zotero,科研,合集,6.0]
 comments: true

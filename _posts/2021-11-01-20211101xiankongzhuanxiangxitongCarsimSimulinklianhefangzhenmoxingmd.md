@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线控转向系统 Carsim-Simulink 联合仿真模型"
+title: "线控转向系统 CarsimSimulink 联合仿真模型"
 date:   2024-09-30
 tags: [Carsim,仿真,转向,Simulink,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jmeter-plugins-manager 下载安装和使用指南"
+title: "Jmeterpluginsmanager 下载安装和使用指南"
 date:   2021-11-01
 tags: [插件,plugins,JMeter,Jmeter,manager]
 comments: true

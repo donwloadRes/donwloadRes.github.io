@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kali系统-工具-中文手册-html版"
+title: "Kali系统工具中文手册html版"
 date:   2022-06-28
 tags: [Nmap,网络,工具,网络安全,中文]
 comments: true

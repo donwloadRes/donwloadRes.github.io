@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通信入门教程及配套工具"
+title: "C 串口通信入门教程及配套工具"
 date:   2022-04-26
 tags: [串口,通信,工具,虚拟,C#]
 comments: true

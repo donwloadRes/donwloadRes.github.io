@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python可视化打包工具auto-py-to-exe 增强版"
+title: "Python可视化打包工具autopytoexe 增强版"
 date:   2024-04-19
 tags: [Python,打包,增强版,可视化,auto]
 comments: true

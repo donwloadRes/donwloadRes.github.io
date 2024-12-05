@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECharts可视化大屏资源：免费源码及效果图"
+title: "ECharts可视化大屏资源免费源码及效果图"
 date:   2023-12-19
 tags: [大屏,可视化,源码,ECharts,效果图]
 comments: true

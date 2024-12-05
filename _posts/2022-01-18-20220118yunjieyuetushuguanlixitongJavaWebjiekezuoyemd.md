@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云借阅图书管理系统 - Java Web 结课作业"
+title: "云借阅图书管理系统  Java Web 结课作业"
 date:   2020-03-08
 tags: [借阅,图书,Java,项目,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3253清零软件+图解"
+title: "爱普生L3253清零软件图解"
 date:   2020-06-22
 tags: [清零,软件,图解,无需,打印机]
 comments: true

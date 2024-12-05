@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 TIM3通道1(PA6) PWM输入捕获方波程序"
+title: "STM32F103 TIM3通道1PA6 PWM输入捕获方波程序"
 date:   2023-08-28
 tags: [PWM,捕获,TIM3,STM32,占空比]
 comments: true

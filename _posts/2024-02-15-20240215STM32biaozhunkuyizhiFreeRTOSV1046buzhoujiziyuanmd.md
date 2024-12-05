@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准库移植FreeRTOS V10.4.6步骤及资源"
+title: "STM32标准库移植FreeRTOS V1046步骤及资源"
 date:   2022-08-22
 tags: [FreeRTOS,移植,STM32,V10.4,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO14229-1 UDS 道路车辆统一诊断服务（中文版）资源介绍"
+title: "ISO142291 UDS 道路车辆统一诊断服务中文版资源介绍"
 date:   2024-06-03
 tags: [诊断,UDS,车辆,服务,应用层]
 comments: true

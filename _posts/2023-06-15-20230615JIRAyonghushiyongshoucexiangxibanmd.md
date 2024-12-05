@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JIRA用户使用手册（详细版）"
+title: "JIRA用户使用手册详细版"
 date:   2023-12-08
 tags: [JIRA,使用手册,用户,详细,手册]
 comments: true

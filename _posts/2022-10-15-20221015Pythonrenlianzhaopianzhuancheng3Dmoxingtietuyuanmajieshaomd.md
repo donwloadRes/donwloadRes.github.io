@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python人脸照片转成3D模型（贴图）源码介绍"
+title: "Python人脸照片转成3D模型贴图源码介绍"
 date:   2024-11-15
 tags: [人脸,贴图,二维,图像,Python]
 comments: true

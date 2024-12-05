@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视ISAPI-2.0-IPMD服务文档下载"
+title: "海康威视ISAPI20IPMD服务文档下载"
 date:   2021-11-18
 tags: [API,HTTP,文档,摄像机,威视]
 comments: true

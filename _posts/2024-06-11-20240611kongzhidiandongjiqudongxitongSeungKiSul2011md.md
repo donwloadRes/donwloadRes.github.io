@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "控制电动机驱动系统 - Seung-Ki Sul 2011"
+title: "控制电动机驱动系统  SeungKi Sul 2011"
 date:   2022-03-14
 tags: [电机,Seung,控制,Ki,Sul]
 comments: true

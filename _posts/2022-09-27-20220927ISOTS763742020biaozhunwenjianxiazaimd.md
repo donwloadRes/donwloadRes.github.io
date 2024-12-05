@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO_TS_7637-4：2020 标准文件下载"
+title: "ISOTS763742020 标准文件下载"
 date:   2021-08-22
 tags: [ISO,TS,7637,文件,2020]
 comments: true

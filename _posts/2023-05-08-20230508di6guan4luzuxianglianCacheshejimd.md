@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第6关：4路组相连Cache设计"
+title: "第6关4路组相连Cache设计"
 date:   2022-03-09
 tags: [Cache,缓存,相连,组内,设计]
 comments: true

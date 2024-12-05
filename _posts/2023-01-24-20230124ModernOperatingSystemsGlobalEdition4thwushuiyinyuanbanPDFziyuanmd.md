@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modern Operating Systems Global Edition (4th) 无水印原版PDF资源"
+title: "Modern Operating Systems Global Edition 4th 无水印原版PDF资源"
 date:   2020-12-10
 tags: [PDF,水印,Modern,Operating,Systems]
 comments: true

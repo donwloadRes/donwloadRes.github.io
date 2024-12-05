@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5+CSS3+JS入门教程及源代码下载"
+title: "HTML5CSS3JS入门教程及源代码下载"
 date:   2024-05-18
 tags: [源代码,HTML5,CSS3,教程,入门教程]
 comments: true

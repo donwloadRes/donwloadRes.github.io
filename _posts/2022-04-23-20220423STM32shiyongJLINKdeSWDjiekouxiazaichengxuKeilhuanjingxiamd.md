@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32使用JLINK的SWD接口下载程序(Keil环境下)"
+title: "STM32使用JLINK的SWD接口下载程序Keil环境下"
 date:   2020-03-02
 tags: [STM32,SWD,Keil,下载,LINK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAT1400.4-2017 公安视频图像信息应用系统协议 PDF 下载"
+title: "GAT140042017 公安视频图像信息应用系统协议 PDF 下载"
 date:   2023-02-17
 tags: [应用,GAT1400.4,2017,公安,视频]
 comments: true

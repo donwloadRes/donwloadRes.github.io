@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017 C++ 访问蓝牙程序"
+title: "VS2017 C 访问蓝牙程序"
 date:   2021-04-27
 tags: [蓝牙,VS2017,C++,程序,开发者]
 comments: true

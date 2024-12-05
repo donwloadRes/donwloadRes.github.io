@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCR+SecureFX 8.1.4 绿色汉化便携版"
+title: "SecureCRSecureFX 814 绿色汉化便携版"
 date:   2020-10-03
 tags: [便携,SecureCR,SecureFX,8.1,绿色]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "武汉大学GPS作业：根据广播星历文件计算卫星位置"
+title: "武汉大学GPS作业根据广播星历文件计算卫星位置"
 date:   2020-04-23
 tags: [星历,GPS,广播,卫星,文件]
 comments: true

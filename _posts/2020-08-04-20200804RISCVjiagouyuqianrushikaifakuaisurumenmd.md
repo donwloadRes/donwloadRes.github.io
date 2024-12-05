@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V架构与嵌入式开发快速入门"
+title: "RISCV架构与嵌入式开发快速入门"
 date:   2023-04-20
 tags: [RISC,嵌入式,架构,开发,系统]
 comments: true

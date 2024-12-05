@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jre-7u17-windows-i586 安装包"
+title: "jre7u17windowsi586 安装包"
 date:   2021-05-11
 tags: [Java,Windows,版本,安装,安装包]
 comments: true

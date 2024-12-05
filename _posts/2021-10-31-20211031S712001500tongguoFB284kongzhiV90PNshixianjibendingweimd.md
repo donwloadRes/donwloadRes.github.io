@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200-1500 通过FB284 控制V90 PN 实现基本定位"
+title: "S712001500 通过FB284 控制V90 PN 实现基本定位"
 date:   2022-08-13
 tags: [S7,FB284,定位,1200,1500]
 comments: true

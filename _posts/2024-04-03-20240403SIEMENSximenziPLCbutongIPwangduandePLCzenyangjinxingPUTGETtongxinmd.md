@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIEMENS-西门子PLC不同IP网段的PLC怎样进行PUT_GET通信？"
+title: "SIEMENS西门子PLC不同IP网段的PLC怎样进行PUTGET通信"
 date:   2023-03-03
 tags: [PLC,网段,IP,PUT,GET]
 comments: true

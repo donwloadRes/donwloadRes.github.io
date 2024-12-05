@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost电路建模与仿真（闭环计算）"
+title: "Boost电路建模与仿真闭环计算"
 date:   2021-02-26
 tags: [仿真,Boost,MATLAB,电路,Simulink]
 comments: true

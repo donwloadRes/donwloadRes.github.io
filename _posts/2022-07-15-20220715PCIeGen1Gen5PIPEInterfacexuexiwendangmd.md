@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe Gen1~Gen5 PIPE Interface学习文档"
+title: "PCIe Gen1Gen5 PIPE Interface学习文档"
 date:   2022-12-19
 tags: [PCIe,文档,PIPE,Interface,Gen1]
 comments: true

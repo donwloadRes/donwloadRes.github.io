@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 数据分析实践系列 - 收入预测分析入门"
+title: "Python 数据分析实践系列  收入预测分析入门"
 date:   2023-08-30
 tags: [Python,数据分析,模型,数据,预测]
 comments: true

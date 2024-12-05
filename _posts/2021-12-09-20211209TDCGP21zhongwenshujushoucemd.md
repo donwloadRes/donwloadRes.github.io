@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP21中文数据手册"
+title: "TDCGP21中文数据手册"
 date:   2023-10-21
 tags: [TDC,GP21,测量,超声波,热量表]
 comments: true

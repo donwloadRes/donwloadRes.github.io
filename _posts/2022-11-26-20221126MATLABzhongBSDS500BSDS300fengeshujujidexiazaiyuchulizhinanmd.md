@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB中BSDS500-BSDS300分割数据集的下载与处理指南"
+title: "MATLAB中BSDS500BSDS300分割数据集的下载与处理指南"
 date:   2020-04-19
 tags: [分割,下载,MATLAB,BSDS500,可视化]
 comments: true

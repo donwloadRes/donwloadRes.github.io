@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于JSP+Servlet+JDBC+MySQL的学生管理系统"
+title: "基于JSPServletJDBCMySQL的学生管理系统"
 date:   2024-01-02
 tags: [MySQL,项目,数据库,JSP,Servlet]
 comments: true

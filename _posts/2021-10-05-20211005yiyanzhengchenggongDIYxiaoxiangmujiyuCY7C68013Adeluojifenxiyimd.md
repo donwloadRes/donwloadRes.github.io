@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【已验证成功】DIY小项目：基于CY7C68013A的逻辑分析仪"
+title: "已验证成功DIY小项目基于CY7C68013A的逻辑分析仪"
 date:   2024-11-20
 tags: [分析仪,CY7C68013A,烧录,焊接,逻辑]
 comments: true

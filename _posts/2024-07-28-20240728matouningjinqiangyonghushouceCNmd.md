@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马头拧紧枪用户手册-CN"
+title: "马头拧紧枪用户手册CN"
 date:   2021-12-15
 tags: [拧紧,ECPHT,扭矩,系列,马头]
 comments: true

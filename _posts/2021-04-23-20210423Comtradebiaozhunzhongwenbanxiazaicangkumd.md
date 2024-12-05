@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comtrade标准（中文版）下载仓库"
+title: "Comtrade标准中文版下载仓库"
 date:   2024-04-30
 tags: [Comtrade,文档,中文版,下载,标准]
 comments: true

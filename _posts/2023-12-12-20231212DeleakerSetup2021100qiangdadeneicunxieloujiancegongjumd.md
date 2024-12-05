@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeleakerSetup_2021.1.0.0 - 强大的内存泄露检测工具"
+title: "DeleakerSetup2021100  强大的内存泄露检测工具"
 date:   2021-04-01
 tags: [内存,Deleaker,泄露,DeleakerSetup,2021.1]
 comments: true

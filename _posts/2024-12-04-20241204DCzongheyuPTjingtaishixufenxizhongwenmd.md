@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DC综合与PT静态时序分析（中文）"
+title: "DC综合与PT静态时序分析中文"
 date:   2022-01-02
 tags: [DC,PT,时序,静态,综合]
 comments: true

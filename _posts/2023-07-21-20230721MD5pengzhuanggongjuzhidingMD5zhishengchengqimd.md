@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MD5碰撞工具：指定MD5值生成器"
+title: "MD5碰撞工具指定MD5值生成器"
 date:   2021-10-18
 tags: [MD5,工具,文件,生成,碰撞]
 comments: true

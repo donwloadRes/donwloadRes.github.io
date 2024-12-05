@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP协议服务器客户端通信源码（服务器多线程处理数据）"
+title: "C TCP协议服务器客户端通信源码服务器多线程处理数据"
 date:   2024-04-18
 tags: [客户端,服务器端,服务器,多线程,源码]
 comments: true

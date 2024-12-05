@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polar SI9000 v7.1 资源文件介绍"
+title: "Polar SI9000 v71 资源文件介绍"
 date:   2020-10-02
 tags: [PCB,阻抗,传输线,Polar,SI9000]
 comments: true

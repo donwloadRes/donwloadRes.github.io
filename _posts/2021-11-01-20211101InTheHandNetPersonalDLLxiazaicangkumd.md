@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InTheHand.Net.Personal DLL 下载仓库"
+title: "InTheHandNetPersonal DLL 下载仓库"
 date:   2022-01-10
 tags: [DLL,InTheHand,Net,蓝牙,Personal]
 comments: true

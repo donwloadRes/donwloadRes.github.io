@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国职业技能大赛大数据赛项十套赛题（shtd）"
+title: "全国职业技能大赛大数据赛项十套赛题shtd"
 date:   2023-12-22
 tags: [info,user,Hive,ods,分区]
 comments: true

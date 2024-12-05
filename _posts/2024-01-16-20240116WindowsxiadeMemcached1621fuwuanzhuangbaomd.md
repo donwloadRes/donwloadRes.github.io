@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下的Memcached 1.6.21服务安装包"
+title: "Windows下的Memcached 1621服务安装包"
 date:   2023-07-22
 tags: [Windows,服务,Memcached,命令提示符,21]
 comments: true

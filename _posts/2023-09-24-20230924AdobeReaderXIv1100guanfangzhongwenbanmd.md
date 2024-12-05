@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Reader XI v11.0.0 官方中文版"
+title: "Adobe Reader XI v1100 官方中文版"
 date:   2024-01-29
 tags: [Adobe,Reader,XI,中文版,v11.0]
 comments: true

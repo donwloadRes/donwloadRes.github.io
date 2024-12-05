@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32贪吃蛇项目-库函数版本"
+title: "STM32贪吃蛇项目库函数版本"
 date:   2024-01-24
 tags: [STM32,贪吃蛇,项目,库函数,版本]
 comments: true

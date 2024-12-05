@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Boss直聘-zp-stoken-加密算法"
+title: "最新Boss直聘zpstoken加密算法"
 date:   2020-08-28
 tags: [加密算法,加密,文件,Boss,直聘]
 comments: true

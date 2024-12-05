@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 优秀主题资源下载"
+title: "Notepad 优秀主题资源下载"
 date:   2024-07-11
 tags: [主题,Notepad,++,文本编辑,优秀]
 comments: true

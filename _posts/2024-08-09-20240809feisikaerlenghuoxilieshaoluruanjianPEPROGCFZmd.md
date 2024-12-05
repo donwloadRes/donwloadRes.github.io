@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞思卡尔冷火系列烧录软件 P&E PROGCFZ"
+title: "飞思卡尔冷火系列烧录软件 PE PROGCFZ"
 date:   2024-08-07
 tags: [烧录,芯片,PROGCFZ,软件,飞思]
 comments: true

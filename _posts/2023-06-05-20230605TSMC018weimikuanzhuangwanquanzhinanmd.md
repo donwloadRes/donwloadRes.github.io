@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSMC 0.18微米库安装完全指南"
+title: "TSMC 018微米库安装完全指南"
 date:   2020-03-11
 tags: [安装,教程,TSMC,0.18,视频]
 comments: true

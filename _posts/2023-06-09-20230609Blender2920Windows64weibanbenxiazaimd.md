@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blender 2.92.0 Windows 64位版本下载"
+title: "Blender 2920 Windows 64位版本下载"
 date:   2020-10-15
 tags: [Blender,下载,文件,2.92,Windows]
 comments: true

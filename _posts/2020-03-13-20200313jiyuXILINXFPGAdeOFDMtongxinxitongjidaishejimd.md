@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于XILINX+FPGA的OFDM通信系统基带设计"
+title: "基于XILINXFPGA的OFDM通信系统基带设计"
 date:   2023-07-26
 tags: [FPGA,OFDM,XILINX,基带,设计]
 comments: true

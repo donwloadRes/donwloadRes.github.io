@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程光学设计 - 萧泽新"
+title: "工程光学设计  萧泽新"
 date:   2022-01-23
 tags: [设计,光学,光学系统,光纤,部件]
 comments: true

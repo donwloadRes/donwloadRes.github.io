@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake 3.26.4 Windows x86-64 资源文件"
+title: "CMake 3264 Windows x8664 资源文件"
 date:   2022-08-25
 tags: [文件,cmake,3.26,64,CMake]
 comments: true

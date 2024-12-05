@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android框架揭秘(完全版) PDF 资源介绍"
+title: "Android框架揭秘完全版 PDF 资源介绍"
 date:   2021-11-20
 tags: [Android,开发者,完全版,揭秘,PDF]
 comments: true

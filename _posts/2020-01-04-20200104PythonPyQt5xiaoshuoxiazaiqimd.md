@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+PyQt5 小说下载器"
+title: "PythonPyQt5 小说下载器"
 date:   2024-07-19
 tags: [小说,EXE,下载,在线,语音]
 comments: true

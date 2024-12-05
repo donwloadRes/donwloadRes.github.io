@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 项目实战：俄罗斯方块"
+title: "Qt 项目实战俄罗斯方块"
 date:   2021-04-04
 tags: [Qt,方块,项目,俄罗斯,文件]
 comments: true

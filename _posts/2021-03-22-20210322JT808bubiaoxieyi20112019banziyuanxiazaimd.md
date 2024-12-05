@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JT-808部标协议2011-2019版资源下载"
+title: "JT808部标协议20112019版资源下载"
 date:   2022-02-21
 tags: [JT,808,部标,2011,2019]
 comments: true

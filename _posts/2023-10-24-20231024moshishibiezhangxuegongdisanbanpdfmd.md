@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模式识别(张学工)第三版.pdf"
+title: "模式识别张学工第三版pdf"
 date:   2024-12-01
 tags: [模式识别,第三版,学工,pdf,PDF]
 comments: true

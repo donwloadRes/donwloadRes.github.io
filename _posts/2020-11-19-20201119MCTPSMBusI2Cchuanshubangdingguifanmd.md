@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCTP SMBus-I2C传输绑定规范"
+title: "MCTP SMBusI2C传输绑定规范"
 date:   2021-04-08
 tags: [MCTP,SMBus,I2C,绑定,规范]
 comments: true

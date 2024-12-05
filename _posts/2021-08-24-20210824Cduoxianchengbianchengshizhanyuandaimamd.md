@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多线程编程实战  源代码"
+title: "C多线程编程实战  源代码"
 date:   2020-01-18
 tags: [多线程,C#,源代码,异步,编程]
 comments: true

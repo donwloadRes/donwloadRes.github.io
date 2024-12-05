@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#界面美化第三方控件资源库"
+title: "C界面美化第三方控件资源库"
 date:   2023-01-05
 tags: [控件,资源库,第三方,C#,WinForm]
 comments: true

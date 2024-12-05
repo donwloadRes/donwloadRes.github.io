@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyBatis 3.4.6 Jar包下载"
+title: "MyBatis 346 Jar包下载"
 date:   2021-11-18
 tags: [MyBatis,3.4,Jar,下载,依赖]
 comments: true

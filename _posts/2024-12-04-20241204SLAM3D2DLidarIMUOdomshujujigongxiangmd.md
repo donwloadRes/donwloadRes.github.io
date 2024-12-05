@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLAM-3D-2D Lidar-IMU-Odom数据集共享"
+title: "SLAM3D2D LidarIMUOdom数据集共享"
 date:   2020-03-09
 tags: [数据,3D,Lidar,SLAM,测试数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AccessDatabaseEngine (32位) 安装指南"
+title: "AccessDatabaseEngine 32位 安装指南"
 date:   2022-11-05
 tags: [32,安装,Excel,64,版本]
 comments: true

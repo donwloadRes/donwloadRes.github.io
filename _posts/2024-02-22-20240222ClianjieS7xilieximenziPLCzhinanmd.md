@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接S7系列西门子PLC指南"
+title: "C连接S7系列西门子PLC指南"
 date:   2021-11-24
 tags: [PLC,S7,C#,西门子,通讯]
 comments: true

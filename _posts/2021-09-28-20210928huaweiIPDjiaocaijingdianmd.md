@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为IPD教材(经典)"
+title: "华为IPD教材经典"
 date:   2020-08-29
 tags: [IPD,华为,教材,流程,仓库]
 comments: true

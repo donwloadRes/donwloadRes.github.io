@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103（正点原子开发板）移植LVGL模板"
+title: "STM32F103正点原子开发板移植LVGL模板"
 date:   2024-03-13
 tags: [LVGL,STM32F103,开发板,LCD,文件]
 comments: true

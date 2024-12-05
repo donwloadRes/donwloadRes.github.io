@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HALCON C# 涂胶机运动控制源码"
+title: "HALCON C 涂胶机运动控制源码"
 date:   2024-01-18
 tags: [涂胶机,源码,HALCON,C#,控制卡]
 comments: true

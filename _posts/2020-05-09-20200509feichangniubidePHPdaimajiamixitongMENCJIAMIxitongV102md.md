@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常牛逼的PHP代码加密系统MENC – JIAMI系统 V1.0.2"
+title: "非常牛逼的PHP代码加密系统MENC  JIAMI系统 V102"
 date:   2020-12-30
 tags: [加密,PHP,自定义,访问,限制]
 comments: true

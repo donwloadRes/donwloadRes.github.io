@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考高级-系统架构师论文范文50篇"
+title: "软考高级系统架构师论文范文50篇"
 date:   2023-07-30
 tags: [架构师,论文范文,PDF,文件,50]
 comments: true

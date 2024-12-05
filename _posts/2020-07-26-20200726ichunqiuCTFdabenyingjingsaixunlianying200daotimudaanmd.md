@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "i春秋 CTF大本营 竞赛训练营 200+道题目答案"
+title: "i春秋 CTF大本营 竞赛训练营 200道题目答案"
 date:   2021-05-31
 tags: [题目,CTF,200,竞赛,答案]
 comments: true

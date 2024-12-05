@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.7 虚拟化完整详细配置手册"
+title: "VMware vSphere 67 虚拟化完整详细配置手册"
 date:   2023-03-05
 tags: [vSphere,VMware,6.7,配置,安装]
 comments: true

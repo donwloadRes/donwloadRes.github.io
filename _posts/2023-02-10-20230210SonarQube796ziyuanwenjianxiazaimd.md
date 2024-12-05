@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SonarQube 7.9.6 资源文件下载"
+title: "SonarQube 796 资源文件下载"
 date:   2021-01-23
 tags: [SonarQube,7.9,文件,下载,sonarqube]
 comments: true

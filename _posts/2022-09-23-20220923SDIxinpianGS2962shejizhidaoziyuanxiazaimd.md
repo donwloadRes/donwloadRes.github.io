@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDI芯片（GS2962）设计指导资源下载"
+title: "SDI芯片GS2962设计指导资源下载"
 date:   2023-04-24
 tags: [SDI,芯片,设计,GS2962,文档]
 comments: true

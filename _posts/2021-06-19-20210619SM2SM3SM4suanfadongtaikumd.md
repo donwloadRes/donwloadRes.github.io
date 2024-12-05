@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2-SM3-SM4算法动态库"
+title: "SM2SM3SM4算法动态库"
 date:   2021-09-16
 tags: [文档,PB,DLL,算法,加密算法]
 comments: true

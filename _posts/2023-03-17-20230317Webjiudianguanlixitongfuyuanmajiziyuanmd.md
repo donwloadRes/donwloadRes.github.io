@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web酒店管理系统（附源码及资源）"
+title: "Web酒店管理系统附源码及资源"
 date:   2020-08-11
 tags: [酒店,页面,客房,界面,预订]
 comments: true

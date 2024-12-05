@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HIKVISION iSecure Center 综合安防管理平台 安装部署指南 V1.1.0"
+title: "HIKVISION iSecure Center 综合安防管理平台 安装部署指南 V110"
 date:   2022-01-03
 tags: [指南,平台,HIKVISION,V1.1,安装]
 comments: true

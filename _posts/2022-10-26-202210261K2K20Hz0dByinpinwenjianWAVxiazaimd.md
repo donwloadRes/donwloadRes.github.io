@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1K-2K-20Hz 0dB 音频文件 (WAV) 下载"
+title: "1K2K20Hz 0dB 音频文件 WAV 下载"
 date:   2021-02-15
 tags: [音频文件,音频设备,20Hz,WAV,1KHz]
 comments: true

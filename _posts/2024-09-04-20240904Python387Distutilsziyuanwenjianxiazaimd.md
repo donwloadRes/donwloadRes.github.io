@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8(7) Distutils 资源文件下载"
+title: "Python 387 Distutils 资源文件下载"
 date:   2023-06-17
 tags: [distutils,python3.8,文件,安装,tar]
 comments: true

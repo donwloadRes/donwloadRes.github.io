@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "暗黑破坏神II 1.11B BOT下载"
+title: "暗黑破坏神II 111B BOT下载"
 date:   2021-08-27
 tags: [BOT,破坏神,游戏,1.11,版本]
 comments: true

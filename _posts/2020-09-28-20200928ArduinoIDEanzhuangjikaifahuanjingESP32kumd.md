@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino IDE 安装及开发环境、ESP32库"
+title: "Arduino IDE 安装及开发环境ESP32库"
 date:   2023-10-17
 tags: [ESP32,Arduino,IDE,安装,下载]
 comments: true

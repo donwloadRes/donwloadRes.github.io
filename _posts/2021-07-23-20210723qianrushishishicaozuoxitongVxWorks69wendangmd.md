@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式实时操作系统VxWorks 6.9文档"
+title: "嵌入式实时操作系统VxWorks 69文档"
 date:   2020-04-23
 tags: [文档,VxWorks,嵌入式,6.9,开发者]
 comments: true

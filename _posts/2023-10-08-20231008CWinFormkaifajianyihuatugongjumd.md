@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 开发简易画图工具"
+title: "C WinForm 开发简易画图工具"
 date:   2022-03-15
 tags: [WinForm,C#,画图,绘图,工具]
 comments: true

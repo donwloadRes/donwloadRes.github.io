@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#仓库管理系统源代码"
+title: "C仓库管理系统源代码"
 date:   2024-05-04
 tags: [C#,源代码,仓库,管理系统,编程]
 comments: true

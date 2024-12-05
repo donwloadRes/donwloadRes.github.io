@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸢尾花（iris）数据集 - 专为Matlab用户优化"
+title: "鸢尾花iris数据集  专为Matlab用户优化"
 date:   2022-05-02
 tags: [Matlab,iris,txt,cm,数据]
 comments: true

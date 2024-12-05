@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++（QT5）实现新版任意阶贝塞尔曲线绘制（完整工程）"
+title: "CQT5实现新版任意阶贝塞尔曲线绘制完整工程"
 date:   2024-07-25
 tags: [QT,贝塞尔,曲线,C++,控制点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1-STM32液晶显示任意IO控制数据"
+title: "1STM32液晶显示任意IO控制数据"
 date:   2021-06-06
 tags: [STM32,TFTLCD,硬件,LCD,液晶显示]
 comments: true

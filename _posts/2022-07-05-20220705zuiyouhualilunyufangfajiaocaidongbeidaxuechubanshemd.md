@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化理论与方法教材（东北大学出版社）"
+title: "最优化理论与方法教材东北大学出版社"
 date:   2021-12-20
 tags: [最优化,教材,理论,东北大学,方法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA-DMT-2013 视频开发必备资料"
+title: "VESADMT2013 视频开发必备资料"
 date:   2022-11-27
 tags: [VESA,视频,DMT,2013,标准]
 comments: true

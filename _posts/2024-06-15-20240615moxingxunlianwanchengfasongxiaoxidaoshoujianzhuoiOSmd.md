@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型训练完成发送消息到手机(安卓-iOS)"
+title: "模型训练完成发送消息到手机安卓iOS"
 date:   2024-09-22
 tags: [ntfy,安卓,模型,训练,iOS]
 comments: true

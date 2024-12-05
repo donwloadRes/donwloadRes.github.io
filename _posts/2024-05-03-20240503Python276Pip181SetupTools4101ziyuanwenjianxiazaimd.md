@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 2.7.6 + Pip 18.1 + SetupTools 41.0.1 资源文件下载"
+title: "Python 276  Pip 181  SetupTools 4101 资源文件下载"
 date:   2022-12-23
 tags: [Python,2.7,文件,Pip,18.1]
 comments: true

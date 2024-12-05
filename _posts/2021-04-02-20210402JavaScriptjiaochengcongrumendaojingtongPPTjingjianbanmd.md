@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript教程--从入门到精通(PPT精简版)"
+title: "JavaScript教程从入门到精通PPT精简版"
 date:   2020-02-19
 tags: [JavaScript,PPT,教程,精简版,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视停车场收费控制终端PMS-v5.1.0安装程序包"
+title: "海康威视停车场收费控制终端PMSv510安装程序包"
 date:   2022-11-27
 tags: [威视,海康,v5.1,PMS,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Timeline 插件 Cinemachine 2.9.0"
+title: "Unity Timeline 插件 Cinemachine 290"
 date:   2024-01-29
 tags: [Cinemachine,Unity,相机,插件,动画]
 comments: true

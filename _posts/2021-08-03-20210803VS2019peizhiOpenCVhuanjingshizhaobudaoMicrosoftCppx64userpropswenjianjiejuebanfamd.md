@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019配置OpenCV环境时找不到Microsoft.Cpp.x64.user.props文件解决办法"
+title: "VS2019配置OpenCV环境时找不到MicrosoftCppx64userprops文件解决办法"
 date:   2020-06-05
 tags: [Microsoft,VS2019,文件,Cpp,x64]
 comments: true

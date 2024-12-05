@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC系统变量列表（中文版翻译）.pdf"
+title: "FANUC系统变量列表中文版翻译pdf"
 date:   2022-04-04
 tags: [FANUC,变量,机器人,编程,系统]
 comments: true

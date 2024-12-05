@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL 1.1.1g 安装包"
+title: "OpenSSL 111g 安装包"
 date:   2024-01-30
 tags: [1g,1.1,OpenSSL,bash,安装包]
 comments: true

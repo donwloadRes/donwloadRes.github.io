@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 下运行 .sh 文件及解决脚本异常问题指南"
+title: "Ubuntu 下运行 sh 文件及解决脚本异常问题指南"
 date:   2020-10-25
 tags: [sh,bash,filename,文件,Ubuntu]
 comments: true

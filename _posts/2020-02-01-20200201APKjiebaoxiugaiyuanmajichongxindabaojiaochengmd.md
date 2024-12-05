@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APK解包、修改源码及重新打包教程"
+title: "APK解包修改源码及重新打包教程"
 date:   2021-12-06
 tags: [APK,文件,源码,SMALI,修改]
 comments: true

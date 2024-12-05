@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反编译so文件指南（使用IDA Pro）"
+title: "反编译so文件指南使用IDA Pro"
 date:   2023-12-13
 tags: [IDA,so,Pro,反编译,文件]
 comments: true

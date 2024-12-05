@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil 5.38 ST-Link调试配置及软件闪退解决方案"
+title: "Keil 538 STLink调试配置及软件闪退解决方案"
 date:   2020-11-09
 tags: [ST,Link,Keil,调试,5.38]
 comments: true

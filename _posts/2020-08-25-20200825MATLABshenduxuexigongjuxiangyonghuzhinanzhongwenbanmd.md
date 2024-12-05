@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB深度学习工具箱用户指南（中文版）"
+title: "MATLAB深度学习工具箱用户指南中文版"
 date:   2022-09-03
 tags: [MATLAB,工具箱,深度,指南,学习]
 comments: true

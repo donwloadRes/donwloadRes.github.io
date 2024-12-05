@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vCenter 6.7 命令行手册"
+title: "vCenter 67 命令行手册"
 date:   2023-02-14
 tags: [CLI,6.7,vSphere,vCenter,本手册]
 comments: true

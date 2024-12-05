@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IOI国家集训队论文集1999-2019"
+title: "IOI国家集训队论文集19992019"
 date:   2020-10-13
 tags: [信息学,浅谈,应用,竞赛,算法]
 comments: true

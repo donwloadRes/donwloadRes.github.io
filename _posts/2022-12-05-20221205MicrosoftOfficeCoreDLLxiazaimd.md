@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.Office.Core.DLL 下载"
+title: "MicrosoftOfficeCoreDLL 下载"
 date:   2021-06-19
 tags: [Microsoft,Office,Core,DLL,Excel]
 comments: true

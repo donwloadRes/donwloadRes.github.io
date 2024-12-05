@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenkins简介及安装配置详解：开启持续集成之旅"
+title: "Jenkins简介及安装配置详解开启持续集成之旅"
 date:   2023-04-21
 tags: [Jenkins,插件,构建,集成,配置]
 comments: true

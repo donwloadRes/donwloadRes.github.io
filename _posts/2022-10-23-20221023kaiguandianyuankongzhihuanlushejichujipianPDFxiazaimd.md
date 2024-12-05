@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源控制环路设计(初级篇) PDF 下载"
+title: "开关电源控制环路设计初级篇 PDF 下载"
 date:   2021-11-02
 tags: [开关电源,环路,设计,文件,控制]
 comments: true

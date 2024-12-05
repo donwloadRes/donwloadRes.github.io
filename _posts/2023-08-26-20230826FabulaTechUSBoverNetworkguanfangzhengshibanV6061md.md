@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FabulaTech USB over Network 官方正式版 V6.0.6.1"
+title: "FabulaTech USB over Network 官方正式版 V6061"
 date:   2021-02-15
 tags: [USB,设备,over,FabulaTech,Network]
 comments: true

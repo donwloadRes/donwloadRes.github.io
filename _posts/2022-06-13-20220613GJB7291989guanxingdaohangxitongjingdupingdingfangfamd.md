@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 729-1989 惯性导航系统精度评定方法"
+title: "GJB 7291989 惯性导航系统精度评定方法"
 date:   2024-02-24
 tags: [评定,惯性导航,精度,文件,1989]
 comments: true

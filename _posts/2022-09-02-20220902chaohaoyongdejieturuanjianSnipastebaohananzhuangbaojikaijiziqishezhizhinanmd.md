@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超好用的截图软件Snipaste（包含安装包）及开机自启设置指南"
+title: "超好用的截图软件Snipaste包含安装包及开机自启设置指南"
 date:   2022-03-25
 tags: [截图,Snipaste,安装包,开机,自启]
 comments: true

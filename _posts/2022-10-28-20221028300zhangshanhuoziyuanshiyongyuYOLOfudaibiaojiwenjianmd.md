@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "300张山火资源（适用于YOLO）附带标记文件"
+title: "300张山火资源适用于YOLO附带标记文件"
 date:   2024-02-14
 tags: [资源库,标记,YOLO,图像,300]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息奥赛一本通解题题库.pdf"
+title: "信息奥赛一本通解题题库pdf"
 date:   2021-05-06
 tags: [算法,奥赛,题库,解题,编程]
 comments: true

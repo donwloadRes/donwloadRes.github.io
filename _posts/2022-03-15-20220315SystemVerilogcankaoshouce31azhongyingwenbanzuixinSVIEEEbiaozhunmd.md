@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog参考手册3.1a（中英文版）+最新SV IEEE标准"
+title: "SystemVerilog参考手册31a中英文版最新SV IEEE标准"
 date:   2023-12-12
 tags: [信息性,引言,数组,数据类型,时钟]
 comments: true

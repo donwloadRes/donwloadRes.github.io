@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "充电桩欧标DIN70121 协议分析(Layer2, Layer3) (中文精简版)"
+title: "充电桩欧标DIN70121 协议分析Layer2 Layer3 中文精简版"
 date:   2022-07-05
 tags: [充电,协议,Layer2,欧标,DIN70121]
 comments: true

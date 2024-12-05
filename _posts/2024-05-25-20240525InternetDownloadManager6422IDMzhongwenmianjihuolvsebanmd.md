@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager 6.42.2 (IDM) 中文免激活绿色版"
+title: "Internet Download Manager 6422 IDM 中文免激活绿色版"
 date:   2024-02-17
 tags: [下载,IDM,免激活,绿色版,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析中英文第2版[Timothy Sauer] 资源下载"
+title: "数值分析中英文第2版Timothy Sauer 资源下载"
 date:   2021-03-06
 tags: [数值,中英文,分析,Timothy,Sauer]
 comments: true

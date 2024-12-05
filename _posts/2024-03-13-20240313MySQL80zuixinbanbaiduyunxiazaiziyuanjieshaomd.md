@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 最新版百度云下载资源介绍"
+title: "MySQL 80 最新版百度云下载资源介绍"
 date:   2021-02-09
 tags: [MySQL,8.0,下载,最新版,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言坦克大战小游戏（纯控制台显示）"
+title: "C语言坦克大战小游戏纯控制台显示"
 date:   2021-12-28
 tags: [C语言,控制台,游戏,小游戏,坦克]
 comments: true

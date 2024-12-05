@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pexports-0.47-mingw32-bin.7z 下载仓库"
+title: "pexports047mingw32bin7z 下载仓库"
 date:   2021-12-19
 tags: [pexports,0.47,mingw32,bin.7,MinGW32]
 comments: true

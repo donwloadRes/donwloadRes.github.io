@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR9.30以上版本安装、注册、新建工程和配置详细指南"
+title: "IAR930以上版本安装注册新建工程和配置详细指南"
 date:   2023-06-18
 tags: [IAR,配置,注册,正确,文件]
 comments: true

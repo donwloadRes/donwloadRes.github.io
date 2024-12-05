@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子学会C++语言等级考试题库及参考答案"
+title: "电子学会C语言等级考试题库及参考答案"
 date:   2024-11-19
 tags: [参考答案,题目,题库,考试,考生]
 comments: true

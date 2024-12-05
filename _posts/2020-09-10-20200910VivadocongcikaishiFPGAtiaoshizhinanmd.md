@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado从此开始：FPGA调试指南"
+title: "Vivado从此开始FPGA调试指南"
 date:   2020-09-06
 tags: [FPGA,Vivado,设计,本书,调试]
 comments: true

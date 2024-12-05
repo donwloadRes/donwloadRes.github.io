@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口IAP源码 - 基于XMODEM协议的固件升级解决方案"
+title: "STM32串口IAP源码  基于XMODEM协议的固件升级解决方案"
 date:   2022-03-14
 tags: [STM32,串口,固件,XMODEM,IAP]
 comments: true

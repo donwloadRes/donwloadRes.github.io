@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origin Pro简体中文版百度云下载（附详细教程）"
+title: "Origin Pro简体中文版百度云下载附详细教程"
 date:   2024-08-27
 tags: [Origin,Pro,教程,简体中文版,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMW3122 2020 - 双线CAN物理层及数据链路层规范"
+title: "GMW3122 2020  双线CAN物理层及数据链路层规范"
 date:   2022-06-15
 tags: [GMW3122,2020,链路层,物理层,双线]
 comments: true

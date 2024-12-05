@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF中Canvas上实现控件的拖动、缩放"
+title: "WPF中Canvas上实现控件的拖动缩放"
 date:   2023-11-28
 tags: [控件,Canvas,缩放,WPF,拖动]
 comments: true

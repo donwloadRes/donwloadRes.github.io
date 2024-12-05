@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD3.0 规范注释版资源下载"
+title: "USB PD30 规范注释版资源下载"
 date:   2020-07-08
 tags: [USB,注释,PD3.0,PD,规范]
 comments: true

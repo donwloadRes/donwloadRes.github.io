@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NTU_RGB+D数据集介绍及骨架数据可视化"
+title: "NTURGBD数据集介绍及骨架数据可视化"
 date:   2022-07-26
 tags: [数据,RGB,NTU,可视化,骨架]
 comments: true

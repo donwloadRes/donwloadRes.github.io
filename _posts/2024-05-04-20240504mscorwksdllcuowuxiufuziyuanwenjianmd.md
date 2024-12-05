@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mscorwks.dll 错误修复资源文件"
+title: "mscorwksdll 错误修复资源文件"
 date:   2021-04-22
 tags: [mscorwks,dll,文件,Windows,错误]
 comments: true

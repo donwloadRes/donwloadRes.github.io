@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你如何利用Python + OpenCV 实时识别指定（或自定义）物体"
+title: "手把手教你如何利用Python  OpenCV 实时识别指定或自定义物体"
 date:   2020-05-16
 tags: [cv2,OpenCV,识别,物体,Python]
 comments: true

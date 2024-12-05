@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "window版的gunzip+gzip工具：轻松实现文件压缩与解压缩"
+title: "window版的gunzipgzip工具轻松实现文件压缩与解压缩"
 date:   2022-06-25
 tags: [gzip,txt,gunzip,gz,文件]
 comments: true

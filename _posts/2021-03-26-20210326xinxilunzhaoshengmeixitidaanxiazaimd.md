@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论（赵生妹）习题答案下载"
+title: "信息论赵生妹习题答案下载"
 date:   2022-08-03
 tags: [习题,信息论,答案,赵生妹,文件]
 comments: true

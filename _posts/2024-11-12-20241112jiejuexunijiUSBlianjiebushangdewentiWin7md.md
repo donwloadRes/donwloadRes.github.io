@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决虚拟机USB连接不上的问题（Win7）"
+title: "解决虚拟机USB连接不上的问题Win7"
 date:   2021-01-07
 tags: [USB,虚拟机,VMware,Files,设备]
 comments: true

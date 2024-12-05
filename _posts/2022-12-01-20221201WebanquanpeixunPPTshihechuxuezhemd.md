@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web安全培训PPT（适合初学者）"
+title: "Web安全培训PPT适合初学者"
 date:   2021-10-14
 tags: [Web,漏洞,安全,PPT,XSS]
 comments: true

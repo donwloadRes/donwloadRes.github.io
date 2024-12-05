@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO7816-1234 协议标准中文版"
+title: "ISO78161234 协议标准中文版"
 date:   2022-12-01
 tags: [ISO7816,1234,中文版,zip,下载]
 comments: true

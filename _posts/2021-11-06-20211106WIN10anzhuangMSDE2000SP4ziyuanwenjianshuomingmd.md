@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10安装MSDE2000_SP4资源文件说明"
+title: "WIN10安装MSDE2000SP4资源文件说明"
 date:   2021-02-14
 tags: [SP4,安装,MSDE2000,WIN10,MSDE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用平板当电脑副屏（spacedesk）双端分享"
+title: "用平板当电脑副屏spacedesk双端分享"
 date:   2024-04-23
 tags: [spacedesk,电脑,平板,PC,显示器]
 comments: true

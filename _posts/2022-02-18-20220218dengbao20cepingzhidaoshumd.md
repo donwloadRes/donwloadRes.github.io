@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等保2.0测评指导书"
+title: "等保20测评指导书"
 date:   2023-04-07
 tags: [安全,信息安全,2.0,指导书,测评]
 comments: true

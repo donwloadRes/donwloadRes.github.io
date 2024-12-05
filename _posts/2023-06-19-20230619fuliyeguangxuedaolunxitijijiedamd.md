@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "傅里叶光学导论（习题及解答）"
+title: "傅里叶光学导论习题及解答"
 date:   2021-01-12
 tags: [光学,傅里叶,习题,解答,导论]
 comments: true

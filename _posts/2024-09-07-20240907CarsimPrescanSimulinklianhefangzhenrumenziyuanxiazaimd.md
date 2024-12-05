@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carsim+Prescan+Simulink联合仿真入门资源下载"
+title: "CarsimPrescanSimulink联合仿真入门资源下载"
 date:   2020-10-05
 tags: [仿真,Carsim,Prescan,Simulink,入门]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.1AS 时间同步协议文档"
+title: "IEEE 8021AS 时间同步协议文档"
 date:   2022-04-23
 tags: [文档,同步,IEEE,802.1,时间]
 comments: true

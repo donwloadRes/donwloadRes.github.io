@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx 7系列FPGA功耗估计工具(XPE)简介"
+title: "Xilinx 7系列FPGA功耗估计工具XPE简介"
 date:   2021-07-18
 tags: [功耗,FPGA,Xilinx,工具,XPE]
 comments: true

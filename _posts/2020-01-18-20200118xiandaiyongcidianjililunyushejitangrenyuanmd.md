@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代永磁电机理论与设计--唐任远"
+title: "现代永磁电机理论与设计唐任远"
 date:   2023-11-23
 tags: [永磁,唐任,电机,--,设计]
 comments: true

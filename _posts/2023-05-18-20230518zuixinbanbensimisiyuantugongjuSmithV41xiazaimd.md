@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版本斯密斯圆图工具 Smith V4.1 下载"
+title: "最新版本斯密斯圆图工具 Smith V41 下载"
 date:   2024-07-28
 tags: [版本,安装,Smith,V4.1,下载]
 comments: true

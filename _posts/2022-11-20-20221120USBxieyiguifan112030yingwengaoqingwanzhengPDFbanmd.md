@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB协议规范1.1-2.0-3.0 英文高清完整PDF版"
+title: "USB协议规范112030 英文高清完整PDF版"
 date:   2020-10-08
 tags: [USB,协议,PDF,规范,1.1]
 comments: true

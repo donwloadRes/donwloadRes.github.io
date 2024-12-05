@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JavaScript网页制作案例教程第2版 - 第7章动手实践"
+title: "HTMLCSSJavaScript网页制作案例教程第2版  第7章动手实践"
 date:   2020-10-09
 tags: [CSS,HTML,网页,案例,代码]
 comments: true

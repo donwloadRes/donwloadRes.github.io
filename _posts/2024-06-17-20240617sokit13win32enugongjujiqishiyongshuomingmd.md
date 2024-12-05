@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sokit-1.3-win32-enu工具及其使用说明"
+title: "sokit13win32enu工具及其使用说明"
 date:   2022-01-03
 tags: [sokit,工具,使用,说明,1.3]
 comments: true

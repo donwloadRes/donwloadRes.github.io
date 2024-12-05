@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通达信day格式文件转换工具（含港股和基金等）"
+title: "通达信day格式文件转换工具含港股和基金等"
 date:   2020-03-09
 tags: [通达信,day,格式文件,港股,转换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32结合ESP8266、OneNet实现温湿度监控与远程灯光控制"
+title: "STM32结合ESP8266OneNet实现温湿度监控与远程灯光控制"
 date:   2023-06-14
 tags: [OneNet,STM32,温湿度,ESP8266,远程]
 comments: true

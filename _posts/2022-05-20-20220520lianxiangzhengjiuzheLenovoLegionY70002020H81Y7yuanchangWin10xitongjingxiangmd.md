@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想拯救者Lenovo Legion Y7000 2020H(81Y7)原厂Win10系统镜像"
+title: "联想拯救者Lenovo Legion Y7000 2020H81Y7原厂Win10系统镜像"
 date:   2021-04-07
 tags: [安装,镜像,Y7000,2020H,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CST屏蔽机箱完整算例 - 电磁兼容指南"
+title: "CST屏蔽机箱完整算例  电磁兼容指南"
 date:   2020-04-10
 tags: [CST,机箱,电磁兼容,屏蔽,算例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "剑指大数据——Flink学习精要（Java版）》（最终修订版）下载仓库"
+title: "剑指大数据Flink学习精要Java版最终修订版下载仓库"
 date:   2020-02-26
 tags: [Flink,Java,指大,学习,修订版]
 comments: true

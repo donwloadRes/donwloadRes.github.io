@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium 3D Tiles 数据：大雁塔场景模型"
+title: "Cesium 3D Tiles 数据大雁塔场景模型"
 date:   2022-03-30
 tags: [Cesium,加载,3D,Tiles,大雁塔]
 comments: true

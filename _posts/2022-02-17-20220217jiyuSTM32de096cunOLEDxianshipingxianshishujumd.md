@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的0.96寸OLED显示屏显示数据"
+title: "基于STM32的096寸OLED显示屏显示数据"
 date:   2022-02-02
 tags: [STM32,OLED,显示屏,烧录,0.96]
 comments: true

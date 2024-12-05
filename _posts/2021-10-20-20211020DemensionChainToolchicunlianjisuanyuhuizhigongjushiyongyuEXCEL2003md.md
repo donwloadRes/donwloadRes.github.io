@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demension Chain Tool - 尺寸链计算与绘制工具（适用于EXCEL2003）"
+title: "Demension Chain Tool  尺寸链计算与绘制工具适用于EXCEL2003"
 date:   2022-05-06
 tags: [尺寸,计算,绘制,工具,Demension]
 comments: true

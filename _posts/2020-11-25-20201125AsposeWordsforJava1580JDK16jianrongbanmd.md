@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspose.Words for Java 15.8.0 - JDK 16兼容版"
+title: "AsposeWords for Java 1580  JDK 16兼容版"
 date:   2022-11-22
 tags: [文档,Aspose,Words,Java,15.8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现各大厂商PLC通讯"
+title: "C实现各大厂商PLC通讯"
 date:   2023-07-06
 tags: [PLC,通讯,串口,示例,NET]
 comments: true

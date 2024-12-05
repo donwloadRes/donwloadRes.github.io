@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单实用的直流电源短路、过载保护电路"
+title: "简单实用的直流电源短路过载保护电路"
 date:   2022-06-02
 tags: [电路,保护,短路,过载,电源]
 comments: true

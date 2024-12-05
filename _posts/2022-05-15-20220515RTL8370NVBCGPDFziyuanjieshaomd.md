@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8370N-VB-CG PDF 资源介绍"
+title: "RTL8370NVBCG PDF 资源介绍"
 date:   2020-02-23
 tags: [RTL8370N,VB,CG,网络,文档]
 comments: true

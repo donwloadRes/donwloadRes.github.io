@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.5.4 资源下载"
+title: "OpenCV 454 资源下载"
 date:   2023-01-16
 tags: [下载,OpenCV,4.5,百度网,文件大小]
 comments: true

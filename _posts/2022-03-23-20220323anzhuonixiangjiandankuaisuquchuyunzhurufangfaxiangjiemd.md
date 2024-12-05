@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓逆向：简单快速去除云注入方法详解"
+title: "安卓逆向简单快速去除云注入方法详解"
 date:   2022-11-23
 tags: [Application,大佬,注入,代码,链接]
 comments: true

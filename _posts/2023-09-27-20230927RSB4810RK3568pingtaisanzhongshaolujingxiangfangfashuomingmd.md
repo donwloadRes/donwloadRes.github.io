@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RSB-4810 RK3568平台三种烧录镜像方法说明"
+title: "RSB4810 RK3568平台三种烧录镜像方法说明"
 date:   2021-11-16
 tags: [烧录,升级,镜像,SD,OTA]
 comments: true

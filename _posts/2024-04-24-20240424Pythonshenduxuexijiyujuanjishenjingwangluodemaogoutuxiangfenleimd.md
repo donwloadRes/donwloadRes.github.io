@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python深度学习：基于卷积神经网络的猫狗图像分类"
+title: "Python深度学习基于卷积神经网络的猫狗图像分类"
 date:   2021-06-09
 tags: [py,data,图像,模型,文件夹]
 comments: true

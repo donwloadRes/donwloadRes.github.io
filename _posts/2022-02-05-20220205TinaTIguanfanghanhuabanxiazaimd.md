@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tina-TI 官方汉化版下载"
+title: "TinaTI 官方汉化版下载"
 date:   2022-10-01
 tags: [TI,Tina,汉化版,官方,电路仿真]
 comments: true

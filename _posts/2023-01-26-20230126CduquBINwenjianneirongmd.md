@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读取BIN文件内容"
+title: "C读取BIN文件内容"
 date:   2022-12-29
 tags: [文件,BIN,读取,C#,解析]
 comments: true

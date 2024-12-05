@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V指令集手册-v2.1中文版"
+title: "RISCV指令集手册v21中文版"
 date:   2024-02-01
 tags: [RISC,指令集,v2.1,架构,中文版]
 comments: true

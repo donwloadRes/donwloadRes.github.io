@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BERT-IMDB电影评论情感分类实战"
+title: "BERTIMDB电影评论情感分类实战"
 date:   2024-03-23
 tags: [BERT,IMDB,模型,情感,评论]
 comments: true

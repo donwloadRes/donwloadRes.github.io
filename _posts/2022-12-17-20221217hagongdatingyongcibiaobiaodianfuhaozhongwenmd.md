@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈工大停用词表（标点符号+中文）"
+title: "哈工大停用词表标点符号中文"
 date:   2022-04-18
 tags: [词表,停用,哈工大,标点符号,中文]
 comments: true

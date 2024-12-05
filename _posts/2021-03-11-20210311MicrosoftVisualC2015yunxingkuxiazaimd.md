@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2015 运行库下载"
+title: "Microsoft Visual C 2015 运行库下载"
 date:   2022-04-08
 tags: [运行库,Visual,C++,2015,Microsoft]
 comments: true

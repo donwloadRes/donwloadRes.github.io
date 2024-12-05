@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线安装LVM2-CentOS分区工具"
+title: "离线安装LVM2CentOS分区工具"
 date:   2021-05-23
 tags: [LVM2,CentOS,磁盘分区,安装,分区]
 comments: true

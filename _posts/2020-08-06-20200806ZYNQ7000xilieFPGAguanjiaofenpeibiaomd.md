@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ-7000系列FPGA管脚分配表"
+title: "ZYNQ7000系列FPGA管脚分配表"
 date:   2020-06-05
 tags: [ZYNQ,7000,管脚,SOC,系列]
 comments: true

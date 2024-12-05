@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全开源点大商城V2 v2.4.5 商城系统源码SAAS多开"
+title: "全开源点大商城V2 v245 商城系统源码SAAS多开"
 date:   2021-05-13
 tags: [用户,商城,开源,源码,点大]
 comments: true

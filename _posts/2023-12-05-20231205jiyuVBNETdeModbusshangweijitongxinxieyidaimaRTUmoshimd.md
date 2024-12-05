@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于VB.NET的Modbus上位机通信协议代码（RTU模式）"
+title: "基于VBNET的Modbus上位机通信协议代码RTU模式"
 date:   2021-09-01
 tags: [Modbus,NET,VB,RTU,通信协议]
 comments: true

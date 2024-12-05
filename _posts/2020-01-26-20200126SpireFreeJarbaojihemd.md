@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spire.Free Jar包集合"
+title: "SpireFree Jar包集合"
 date:   2020-09-15
 tags: [文档,Spire,jar,Excel,spire]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtXlsx + QtCreator：Excel文件操作小案例"
+title: "QtXlsx  QtCreatorExcel文件操作小案例"
 date:   2020-05-14
 tags: [QtXlsx,Excel,QtCreator,文件,案例]
 comments: true

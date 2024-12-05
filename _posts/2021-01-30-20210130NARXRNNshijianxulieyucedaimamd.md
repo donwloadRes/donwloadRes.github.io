@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NARX-RNN时间序列预测代码"
+title: "NARXRNN时间序列预测代码"
 date:   2024-09-08
 tags: [预测,序列,代码,NARX,RNN]
 comments: true

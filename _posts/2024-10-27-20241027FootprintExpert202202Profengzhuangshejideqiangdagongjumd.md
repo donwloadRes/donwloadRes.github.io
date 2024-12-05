@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Footprint Expert 2022-02 Pro - 封装设计的强大工具"
+title: "Footprint Expert 202202 Pro  封装设计的强大工具"
 date:   2024-06-21
 tags: [封装,PCB,设计,Footprint,Expert]
 comments: true

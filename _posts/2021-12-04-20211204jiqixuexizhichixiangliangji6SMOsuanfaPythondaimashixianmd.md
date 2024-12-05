@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【机器学习】支持向量机（6）——SMO算法Python代码实现"
+title: "机器学习支持向量机6SMO算法Python代码实现"
 date:   2021-05-16
 tags: [SMO,算法,代码,Python,测试代码]
 comments: true

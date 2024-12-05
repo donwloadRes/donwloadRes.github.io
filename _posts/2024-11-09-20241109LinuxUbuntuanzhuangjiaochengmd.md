@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux（Ubuntu）安装教程"
+title: "LinuxUbuntu安装教程"
 date:   2020-03-04
 tags: [Ubuntu,安装,虚拟机,教程,VMware]
 comments: true

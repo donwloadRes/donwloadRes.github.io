@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西电讲义-雷达对抗原理"
+title: "西电讲义雷达对抗原理"
 date:   2023-11-07
 tags: [雷达,对抗,讲义,学习者,学习]
 comments: true

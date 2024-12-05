@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HyperLynx 9.0信号与电源完整性分析的IBIS模型资源"
+title: "基于HyperLynx 90信号与电源完整性分析的IBIS模型资源"
 date:   2021-05-18
 tags: [IBIS,HyperLynx,模型,完整性,9.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 安装 Node.js 14.19.0 教程"
+title: "Linux 安装 Nodejs 14190 教程"
 date:   2022-01-14
 tags: [Node,bash,usr,local,js]
 comments: true

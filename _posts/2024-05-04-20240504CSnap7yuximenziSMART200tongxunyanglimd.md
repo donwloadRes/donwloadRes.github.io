@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Snap7与西门子SMART200通讯样例"
+title: "C Snap7与西门子SMART200通讯样例"
 date:   2022-07-23
 tags: [PLC,Snap7,西门子,SMART200,C#]
 comments: true

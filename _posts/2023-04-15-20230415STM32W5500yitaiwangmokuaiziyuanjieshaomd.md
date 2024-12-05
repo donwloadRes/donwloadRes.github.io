@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+W5500以太网模块资源介绍"
+title: "STM32W5500以太网模块资源介绍"
 date:   2022-05-14
 tags: [引脚,W5500,模块,以太网,STM32]
 comments: true

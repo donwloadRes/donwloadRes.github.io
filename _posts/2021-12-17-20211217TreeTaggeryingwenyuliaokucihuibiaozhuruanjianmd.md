@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TreeTagger：英文语料库词汇标注软件"
+title: "TreeTagger英文语料库词汇标注软件"
 date:   2020-08-03
 tags: [语料库,标注,文本,TreeTagger,词汇]
 comments: true

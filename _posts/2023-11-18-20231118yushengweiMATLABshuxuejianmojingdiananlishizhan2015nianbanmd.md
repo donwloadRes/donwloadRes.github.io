@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "余胜威MATLAB数学建模经典案例实战》2015年版"
+title: "余胜威MATLAB数学建模经典案例实战2015年版"
 date:   2023-04-21
 tags: [建模,MATLAB,数学,问题,案例]
 comments: true

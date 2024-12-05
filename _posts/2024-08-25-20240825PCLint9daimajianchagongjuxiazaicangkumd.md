@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC-Lint9代码检查工具下载仓库"
+title: "PCLint9代码检查工具下载仓库"
 date:   2023-09-11
 tags: [PC,Lint9,代码,检查,工具]
 comments: true

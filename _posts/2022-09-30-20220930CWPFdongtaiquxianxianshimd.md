@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 动态曲线显示"
+title: "C WPF 动态曲线显示"
 date:   2023-01-20
 tags: [C#,WPF,曲线,NET,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 串口通讯线程 扫码枪"
+title: "C 串口通讯线程 扫码枪"
 date:   2021-03-07
 tags: [串口,扫码,线程,C++,通讯]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟服务器系统 MariaDB 离线安装资源（兼容国产架构）"
+title: "银河麒麟服务器系统 MariaDB 离线安装资源兼容国产架构"
 date:   2024-09-12
 tags: [安装,数据库,离线,MariaDB,ARM64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为5G网管操作指导-图文详细介绍"
+title: "华为5G网管操作指导图文详细介绍"
 date:   2021-11-01
 tags: [5G,网管,文件,华为,详细]
 comments: true

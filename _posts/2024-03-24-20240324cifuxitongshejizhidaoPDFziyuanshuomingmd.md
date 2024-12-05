@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "伺服系统设计指导》PDF资源说明"
+title: "伺服系统设计指导PDF资源说明"
 date:   2024-07-12
 tags: [伺服系统,设计,指导,PDF,电机]
 comments: true

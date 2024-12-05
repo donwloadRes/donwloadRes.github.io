@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性调频（LFM）脉冲压缩雷达仿真"
+title: "线性调频LFM脉冲压缩雷达仿真"
 date:   2021-09-27
 tags: [脉冲,调频,仿真,线性,压缩]
 comments: true

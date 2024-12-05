@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“Microsoft.ACE.OLEDB.16.0”提供程序未在本地计算机上注册的问题"
+title: "解决MicrosoftACEOLEDB160提供程序未在本地计算机上注册的问题"
 date:   2021-02-22
 tags: [Microsoft,安装,ACE,AccessDatabaseEngine,OLEDB.16]
 comments: true

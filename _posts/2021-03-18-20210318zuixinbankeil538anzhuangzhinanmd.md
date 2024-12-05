@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版keil（5.38）安装指南"
+title: "最新版keil538安装指南"
 date:   2022-09-09
 tags: [Keil,安装,最新版,编译器,5.38]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "邱锡鹏神经网络与深度学习》PDF资源"
+title: "邱锡鹏神经网络与深度学习PDF资源"
 date:   2020-11-27
 tags: [学习,神经网络,深度,PDF,邱锡鹏]
 comments: true

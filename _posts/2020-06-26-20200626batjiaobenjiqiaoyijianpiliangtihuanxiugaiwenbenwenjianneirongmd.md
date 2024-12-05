@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bat脚本技巧：一键批量替换修改文本文件内容"
+title: "bat脚本技巧一键批量替换修改文本文件内容"
 date:   2023-07-30
 tags: [替换,脚本,bat,文件,文本文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RTSP 及 FFmpeg 视频传输 Demo"
+title: "C RTSP 及 FFmpeg 视频传输 Demo"
 date:   2022-03-18
 tags: [RTSP,FFmpeg,视频流,传输,Demo]
 comments: true

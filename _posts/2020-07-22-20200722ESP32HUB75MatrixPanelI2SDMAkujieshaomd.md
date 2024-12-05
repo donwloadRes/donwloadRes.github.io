@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-HUB75-MatrixPanel-I2S-DMA 库介绍"
+title: "ESP32HUB75MatrixPanelI2SDMA 库介绍"
 date:   2023-06-19
 tags: [矩阵,DMA,I2S,ESP32,LED]
 comments: true

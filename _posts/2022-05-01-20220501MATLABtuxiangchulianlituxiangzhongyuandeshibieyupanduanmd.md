@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB图像处理案例：图像中圆的识别与判断"
+title: "MATLAB图像处理案例图像中圆的识别与判断"
 date:   2020-06-14
 tags: [MATLAB,图像处理,案例,图像,圆形]
 comments: true

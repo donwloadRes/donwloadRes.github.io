@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HeFTy 2.0 低温年代学模拟软件"
+title: "HeFTy 20 低温年代学模拟软件"
 date:   2022-01-26
 tags: [2.0,模拟,HeFTy,年代学,软件]
 comments: true

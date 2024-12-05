@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtitanRibbon 4.8 源码"
+title: "QtitanRibbon 48 源码"
 date:   2022-12-03
 tags: [Qt,编译,QtitanRibbon,Creator,ribbon]
 comments: true

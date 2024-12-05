@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白指路：CentOS7、IC618、SPECTRE18、Calibre2019及CMOS反相器仿真工艺库PDK安装指南"
+title: "小白指路CentOS7IC618SPECTRE18Calibre2019及CMOS反相器仿真工艺库PDK安装指南"
 date:   2024-01-10
 tags: [安装,PDK,CentOS7,教程,工艺]
 comments: true

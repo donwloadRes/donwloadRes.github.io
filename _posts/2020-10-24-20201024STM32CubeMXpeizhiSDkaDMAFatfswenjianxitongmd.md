@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX配置SD卡+DMA+Fatfs文件系统"
+title: "STM32CubeMX配置SD卡DMAFatfs文件系统"
 date:   2021-09-24
 tags: [SD,配置,DMA,Fatfs,文件系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能》(蔡自兴著)课后答案完整版"
+title: "人工智能蔡自兴著课后答案完整版"
 date:   2023-06-29
 tags: [人工智能,课后,完整版,蔡自兴,pdf]
 comments: true

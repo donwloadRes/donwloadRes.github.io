@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计（浙江大学）课件完整版"
+title: "概率论与数理统计浙江大学课件完整版"
 date:   2022-09-24
 tags: [数理统计,课件,概率论,完整版,RAR]
 comments: true

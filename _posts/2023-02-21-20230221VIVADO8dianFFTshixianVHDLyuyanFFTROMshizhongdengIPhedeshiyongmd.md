@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO 8点FFT实现（VHDL语言-FFT、ROM、时钟等IP核的使用）"
+title: "VIVADO 8点FFT实现VHDL语言FFTROM时钟等IP核的使用"
 date:   2022-03-27
 tags: [IP,FFT,VHDL,VIVADO,时钟]
 comments: true

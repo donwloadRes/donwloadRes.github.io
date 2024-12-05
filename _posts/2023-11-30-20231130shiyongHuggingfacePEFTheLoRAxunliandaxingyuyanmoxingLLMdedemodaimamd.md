@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Huggingface、PEFT和LoRA训练大型语言模型（LLM）的demo代码"
+title: "使用HuggingfacePEFT和LoRA训练大型语言模型LLM的demo代码"
 date:   2024-06-19
 tags: [LoRA,模型,脚本,训练,LLM]
 comments: true

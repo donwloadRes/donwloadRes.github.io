@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载网络测试 - CAPL(vTESTStudio) - CAN-CANFD - 自动化开发"
+title: "车载网络测试  CAPLvTESTStudio  CANCANFD  自动化开发"
 date:   2020-11-18
 tags: [CAPL,报文,CANFD,脚本,试读]
 comments: true

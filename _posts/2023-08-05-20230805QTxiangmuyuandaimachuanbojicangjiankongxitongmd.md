@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目源代码：船舶机舱监控系统"
+title: "QT项目源代码船舶机舱监控系统"
 date:   2024-10-30
 tags: [QT,机舱,源代码,Creator,监控]
 comments: true

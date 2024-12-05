@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID调试软件（模拟工具）C#源码"
+title: "PID调试软件模拟工具C源码"
 date:   2021-09-03
 tags: [PID,源码,C#,模拟,软件]
 comments: true

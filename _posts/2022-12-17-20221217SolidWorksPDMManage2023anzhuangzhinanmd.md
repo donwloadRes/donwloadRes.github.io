@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SolidWorks PDM-Manage2023 安装指南"
+title: "SolidWorks PDMManage2023 安装指南"
 date:   2020-06-10
 tags: [安装,指南,SolidWorks,PDM,Manage2023]
 comments: true

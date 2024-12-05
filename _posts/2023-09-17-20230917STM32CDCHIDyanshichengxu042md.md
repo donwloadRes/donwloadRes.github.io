@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 CDC+HID 演示程序 0.42"
+title: "STM32 CDCHID 演示程序 042"
 date:   2024-10-08
 tags: [CDC,HID,STM32,通信,设备]
 comments: true

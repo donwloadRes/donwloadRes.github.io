@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32单片机+L298N电机驱动实战指南"
+title: "STM32单片机L298N电机驱动实战指南"
 date:   2021-05-06
 tags: [STM32,L298N,电机,驱动,单片机]
 comments: true

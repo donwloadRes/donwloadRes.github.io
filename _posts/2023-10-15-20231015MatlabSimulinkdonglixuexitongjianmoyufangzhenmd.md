@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab_Simulink动力学系统建模与仿真"
+title: "MatlabSimulink动力学系统建模与仿真"
 date:   2021-02-10
 tags: [动力学,仿真,Matlab,Simulink,模型]
 comments: true

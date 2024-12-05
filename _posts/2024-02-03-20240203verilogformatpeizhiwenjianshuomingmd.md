@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "verilog-format配置文件说明"
+title: "verilogformat配置文件说明"
 date:   2020-09-26
 tags: [Verilog,配置文件,Format,verilog,格式化]
 comments: true

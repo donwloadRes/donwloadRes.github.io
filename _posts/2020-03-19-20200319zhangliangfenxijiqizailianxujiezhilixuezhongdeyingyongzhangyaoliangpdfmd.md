@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张量分析及其在连续介质力学中的应用 - 张耀良.pdf"
+title: "张量分析及其在连续介质力学中的应用  张耀良pdf"
 date:   2024-07-08
 tags: [张量分析,力学,连续介质,张量,张耀良]
 comments: true

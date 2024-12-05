@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信的MATLAB与FPGA实现 - 西瑞克斯教材"
+title: "无线通信的MATLAB与FPGA实现  西瑞克斯教材"
 date:   2022-05-11
 tags: [MATLAB,FPGA,无线通信,教材,瑞克斯]
 comments: true

@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "前端开发学习指南：从入门到精通的前端设计之旅"
+title: "前端开发学习指南从入门到精通的前端设计之旅
+date   20210219
+tags 前端前端开发Bootstrap网页学习
+comments true
+author admin
+
+
+layout post
+title 前端开发学习指南从入门到精通的前端设计之旅"
 date:   2021-02-19
 tags: [前端,前端开发,Bootstrap,网页,学习]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "前端开发学习指南：从入门到精通的前端设计之旅"
+title: "前端开发学习指南从入门到精通的前端设计之旅
+date   20210219
+tags 前端前端开发Bootstrap网页学习
+comments true
+author admin
+
+
+layout post
+title 前端开发学习指南从入门到精通的前端设计之旅"
 date:   2021-01-13
 tags: [前端,前端开发,Bootstrap,学习,网页]
 comments: true

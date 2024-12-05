@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch2.0 编程全套教学资源"
+title: "Scratch20 编程全套教学资源"
 date:   2024-06-10
 tags: [Scratch2.0,编程,课件,学习者,每节课]
 comments: true

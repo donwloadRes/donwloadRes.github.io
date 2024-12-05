@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app从入门到精通资源下载"
+title: "uniapp从入门到精通资源下载"
 date:   2021-09-03
 tags: [uni,app,文档,入门,精通]
 comments: true

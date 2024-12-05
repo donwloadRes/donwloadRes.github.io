@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV4.5.4-X86-MSVC2019 32位动态库编译成果分享"
+title: "OpenCV454X86MSVC2019 32位动态库编译成果分享"
 date:   2021-09-01
 tags: [编译,X86,32,MSVC2019,OpenCV]
 comments: true

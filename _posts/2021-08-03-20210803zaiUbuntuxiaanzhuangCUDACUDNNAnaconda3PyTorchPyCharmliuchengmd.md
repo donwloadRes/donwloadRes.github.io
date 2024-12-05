@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Ubuntu下安装CUDA+CUDNN+Anaconda3+PyTorch+PyCharm流程"
+title: "在Ubuntu下安装CUDACUDNNAnaconda3PyTorchPyCharm流程"
 date:   2023-07-23
 tags: [安装,CUDA,Ubuntu,PyTorch,PyCharm]
 comments: true

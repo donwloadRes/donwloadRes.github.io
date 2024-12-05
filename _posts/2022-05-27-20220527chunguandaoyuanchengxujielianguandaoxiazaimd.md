@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纯惯导源程序（捷联惯导）下载"
+title: "纯惯导源程序捷联惯导下载"
 date:   2023-06-22
 tags: [惯导,纯惯导,解算,捷联,Matlab]
 comments: true

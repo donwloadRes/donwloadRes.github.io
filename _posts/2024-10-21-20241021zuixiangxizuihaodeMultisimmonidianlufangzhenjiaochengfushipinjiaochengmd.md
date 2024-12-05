@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细最好的Multisim模拟电路仿真教程（附视频教程）"
+title: "最详细最好的Multisim模拟电路仿真教程附视频教程"
 date:   2023-05-21
 tags: [电路,Multisim,仿真,电路仿真,教程]
 comments: true

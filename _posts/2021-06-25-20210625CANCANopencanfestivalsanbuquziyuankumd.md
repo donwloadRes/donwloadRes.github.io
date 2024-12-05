@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN-CANopen-canfestival三部曲资源库"
+title: "CANCANopencanfestival三部曲资源库"
 date:   2020-09-22
 tags: [canfestival,CANopen,STM32F1,学习,文档]
 comments: true

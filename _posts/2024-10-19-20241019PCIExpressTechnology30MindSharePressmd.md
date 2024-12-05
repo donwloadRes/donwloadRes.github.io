@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express Technology 3.0 - MindShare Press"
+title: "PCI Express Technology 30  MindShare Press"
 date:   2020-08-17
 tags: [PCIe,PCI,Express,3.0,技术]
 comments: true

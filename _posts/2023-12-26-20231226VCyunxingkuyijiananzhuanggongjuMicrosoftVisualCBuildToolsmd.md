@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++运行库一键安装工具：Microsoft Visual C++ Build Tools"
+title: "VC运行库一键安装工具Microsoft Visual C Build Tools"
 date:   2021-04-01
 tags: [C++,Visual,安装,运行库,Microsoft]
 comments: true

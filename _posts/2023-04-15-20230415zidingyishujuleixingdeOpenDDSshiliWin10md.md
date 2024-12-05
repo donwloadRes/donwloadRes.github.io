@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自定义数据类型的OpenDDS实例（Win10）"
+title: "自定义数据类型的OpenDDS实例Win10"
 date:   2024-06-07
 tags: [OpenDDS,配置文件,自定义,实例,数据类型]
 comments: true

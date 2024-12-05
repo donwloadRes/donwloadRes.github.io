@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USCAR-2中文第5版资源下载"
+title: "USCAR2中文第5版资源下载"
 date:   2023-01-22
 tags: [USCAR,文件,中文,连接器,PDF]
 comments: true

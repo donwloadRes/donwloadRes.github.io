@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vCenter 6.7安装及群集配置介绍（一）"
+title: "VMware vCenter 67安装及群集配置介绍一"
 date:   2024-02-15
 tags: [vCenter,Server,配置,群集,部署]
 comments: true

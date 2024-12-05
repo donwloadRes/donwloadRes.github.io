@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS2812B彩灯 STM32HAL库开发：PWM+DMA（stm32f103c8t6）"
+title: "WS2812B彩灯 STM32HAL库开发PWMDMAstm32f103c8t6"
 date:   2021-05-03
 tags: [PWM,WS2812B,DMA,彩灯,STM32F103C8T6]
 comments: true

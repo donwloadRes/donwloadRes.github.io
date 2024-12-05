@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread在STM32F429上的应用-驱动篇"
+title: "RTThread在STM32F429上的应用驱动篇"
 date:   2024-06-23
 tags: [STM32F429,驱动,RT,Thread,如何]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件工程师面经整理2-电源篇"
+title: "硬件工程师面经整理2电源篇"
 date:   2022-11-11
 tags: [开关电源,LDO,Buck,电源,电路]
 comments: true

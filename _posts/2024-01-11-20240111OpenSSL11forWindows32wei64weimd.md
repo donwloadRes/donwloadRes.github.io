@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL 1.1 for Windows (32位 + 64位)"
+title: "OpenSSL 11 for Windows 32位  64位"
 date:   2023-12-27
 tags: [OpenSSL,Windows,64,32,编译]
 comments: true

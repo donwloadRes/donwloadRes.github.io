@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 高级设计（工控与界面）资源下载"
+title: "C WinForm 高级设计工控与界面资源下载"
 date:   2022-02-09
 tags: [工控,C#,资源,WinForm,文件]
 comments: true

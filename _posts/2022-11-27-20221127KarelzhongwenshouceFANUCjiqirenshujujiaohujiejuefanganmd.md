@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karel中文手册 - FANUC机器人数据交互解决方案"
+title: "Karel中文手册  FANUC机器人数据交互解决方案"
 date:   2023-03-28
 tags: [机器人,FANUC,KAREL,手册,交互]
 comments: true

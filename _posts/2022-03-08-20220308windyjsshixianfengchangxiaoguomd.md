@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windy.js实现风场效果"
+title: "windyjs实现风场效果"
 date:   2022-10-24
 tags: [风场,文件,js,windy,效果]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0 官方文件与中文规范"
+title: "USB20 官方文件与中文规范"
 date:   2020-12-18
 tags: [USB,文件,USB2.0,中文,官方]
 comments: true

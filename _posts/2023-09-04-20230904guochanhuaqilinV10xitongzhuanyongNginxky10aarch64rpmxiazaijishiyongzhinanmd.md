@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产化麒麟V10系统专用：Nginx ky10.aarch64.rpm 下载及使用指南"
+title: "国产化麒麟V10系统专用Nginx ky10aarch64rpm 下载及使用指南"
 date:   2021-06-25
 tags: [Nginx,rpm,aarch64,V10,安装]
 comments: true

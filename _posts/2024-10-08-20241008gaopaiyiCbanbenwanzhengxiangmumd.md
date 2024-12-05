@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高拍仪C#版本完整项目"
+title: "高拍仪C版本完整项目"
 date:   2021-11-23
 tags: [拍仪,C#,项目,文档,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何打开.ipynb文件"
+title: "如何打开ipynb文件"
 date:   2021-07-17
 tags: [ipynb,文件,Jupyter,Notebook,打开]
 comments: true

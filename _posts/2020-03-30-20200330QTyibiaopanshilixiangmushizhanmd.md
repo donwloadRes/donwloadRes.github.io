@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT仪表盘实例(项目实战)"
+title: "QT仪表盘实例项目实战"
 date:   2023-08-17
 tags: [QT,仪表盘,源代码,实例,项目]
 comments: true

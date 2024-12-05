@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果CMS v10 海螺影视主题模板 M3.1 全解密版本 + 萌芽采集插件"
+title: "苹果CMS v10 海螺影视主题模板 M31 全解密版本  萌芽采集插件"
 date:   2020-09-24
 tags: [插件,模板,采集,影视,海螺]
 comments: true

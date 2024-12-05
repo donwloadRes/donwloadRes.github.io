@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哨兵二号预处理指南 - Sentinel-2A 数据处理教程"
+title: "哨兵二号预处理指南  Sentinel2A 数据处理教程"
 date:   2024-09-22
 tags: [预处理,哨兵,Sentinel,二号,指南]
 comments: true

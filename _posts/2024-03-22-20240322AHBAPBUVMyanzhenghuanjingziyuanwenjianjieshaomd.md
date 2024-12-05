@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AHB-APB UVM验证环境资源文件介绍"
+title: "AHBAPB UVM验证环境资源文件介绍"
 date:   2023-04-12
 tags: [验证,AHB,APB,UVM,环境]
 comments: true

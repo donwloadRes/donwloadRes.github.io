@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arm Cortex-R 系列处理器功能对比表"
+title: "Arm CortexR 系列处理器功能对比表"
 date:   2024-09-11
 tags: [Arm,处理器,Cortex,系列,对比]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android：仿美团外卖菜单"
+title: "Android仿美团外卖菜单"
 date:   2020-11-30
 tags: [外卖,Android,Fragment,菜单,仿美团]
 comments: true

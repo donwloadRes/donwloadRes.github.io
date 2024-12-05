@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASIA-WEBFACE数据集介绍"
+title: "CASIAWEBFACE数据集介绍"
 date:   2023-06-22
 tags: [数据,CASIA,WEBFACE,人脸,图像]
 comments: true

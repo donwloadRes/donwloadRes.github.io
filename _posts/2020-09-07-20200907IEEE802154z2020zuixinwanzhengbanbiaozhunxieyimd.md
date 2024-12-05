@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE802.15.4z-2020 最新完整版标准协议"
+title: "IEEE802154z2020 最新完整版标准协议"
 date:   2021-07-12
 tags: [IEEE802.15,4z,2020,完整版,联网]
 comments: true

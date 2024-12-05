@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-Cloud Computing 云计算 PPT"
+title: "HCIACloud Computing 云计算 PPT"
 date:   2023-12-03
 tags: [计算,PPT,HCIA,Cloud,Computing]
 comments: true

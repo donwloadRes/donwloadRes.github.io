@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GA-LSTM：遗传算法优化的LSTM预测代码"
+title: "GALSTM遗传算法优化的LSTM预测代码"
 date:   2023-11-29
 tags: [LSTM,py,GA,加载,遗传算法]
 comments: true

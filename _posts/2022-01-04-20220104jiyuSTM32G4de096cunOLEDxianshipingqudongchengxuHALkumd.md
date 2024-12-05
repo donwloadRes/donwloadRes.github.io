@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32G4的0.96寸OLED显示屏驱动程序（HAL库）"
+title: "基于STM32G4的096寸OLED显示屏驱动程序HAL库"
 date:   2024-03-30
 tags: [I2C,OLED,驱动程序,0.96,define]
 comments: true

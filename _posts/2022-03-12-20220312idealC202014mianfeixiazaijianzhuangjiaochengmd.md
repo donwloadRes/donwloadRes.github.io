@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "idealC-2020.1.4 免费下载及安装教程"
+title: "idealC202014 免费下载及安装教程"
 date:   2024-02-20
 tags: [安装,2020.1,Java,点击,idealC]
 comments: true

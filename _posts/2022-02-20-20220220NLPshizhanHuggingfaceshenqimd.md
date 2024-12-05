@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLP实战-Huggingface神器"
+title: "NLP实战Huggingface神器"
 date:   2021-10-14
 tags: [Huggingface,NLP,实例,文本,模型]
 comments: true

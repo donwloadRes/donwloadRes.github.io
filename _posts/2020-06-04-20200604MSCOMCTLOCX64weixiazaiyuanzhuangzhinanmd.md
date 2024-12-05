@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSCOMCTL.OCX 64位 下载与安装指南"
+title: "MSCOMCTLOCX 64位 下载与安装指南"
 date:   2020-09-22
 tags: [MSCOMCTL,OCX,文件,命令提示符,64]
 comments: true

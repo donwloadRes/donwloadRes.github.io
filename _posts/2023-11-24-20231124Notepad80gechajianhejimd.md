@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 80个插件合集"
+title: "Notepad 80个插件合集"
 date:   2024-05-06
 tags: [插件,Notepad,++,合集,80]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop+Hive数据仓库与Django+Echarts前端可视化毕业设计资源"
+title: "HadoopHive数据仓库与DjangoEcharts前端可视化毕业设计资源"
 date:   2024-01-08
 tags: [毕业设计,Hadoop,Hive,数据仓库,Django]
 comments: true

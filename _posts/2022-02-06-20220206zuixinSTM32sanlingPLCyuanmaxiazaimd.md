@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新STM32-三菱PLC源码下载"
+title: "最新STM32三菱PLC源码下载"
 date:   2022-02-04
 tags: [PLC,源码,三菱,文件,STM32]
 comments: true

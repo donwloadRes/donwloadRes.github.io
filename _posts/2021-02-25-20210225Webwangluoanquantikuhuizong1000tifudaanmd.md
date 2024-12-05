@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web网络安全题库(汇总1000题附答案)"
+title: "Web网络安全题库汇总1000题附答案"
 date:   2023-01-10
 tags: [网络安全,Web,题库,1000,安全]
 comments: true

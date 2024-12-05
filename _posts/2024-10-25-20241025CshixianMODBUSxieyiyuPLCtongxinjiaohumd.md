@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现MODBUS协议与PLC通信交互"
+title: "C实现MODBUS协议与PLC通信交互"
 date:   2022-05-16
 tags: [PLC,MODBUS,交互,C#,通信]
 comments: true

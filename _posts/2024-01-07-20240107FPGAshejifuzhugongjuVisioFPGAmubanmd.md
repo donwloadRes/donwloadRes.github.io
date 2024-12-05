@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA设计辅助工具：Visio FPGA模板"
+title: "FPGA设计辅助工具Visio FPGA模板"
 date:   2024-11-22
 tags: [FPGA,模板,Visio,状态机,设计]
 comments: true

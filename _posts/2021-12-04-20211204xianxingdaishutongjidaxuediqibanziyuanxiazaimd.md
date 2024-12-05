@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数-同济大学第七版 资源下载"
+title: "线性代数同济大学第七版 资源下载"
 date:   2020-10-31
 tags: [线性代数,第七版,同济大学,资源,下载]
 comments: true

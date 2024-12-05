@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASS11.0.0.8 for AutoCAD2024 非官方手工修改版"
+title: "CASS11008 for AutoCAD2024 非官方手工修改版"
 date:   2020-02-24
 tags: [CASS11.0,0.8,AutoCAD2024,非官方,修改版]
 comments: true

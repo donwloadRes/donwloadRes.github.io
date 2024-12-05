@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ron Patton软件测试》读书笔记（二）资源文件介绍"
+title: "Ron Patton软件测试读书笔记二资源文件介绍"
 date:   2022-06-25
 tags: [软件测试,测试,读书笔记,文件,笔记]
 comments: true

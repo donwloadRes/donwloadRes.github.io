@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络》笔记专栏配套课件合集"
+title: "计算机网络笔记专栏配套课件合集"
 date:   2022-11-05
 tags: [计算机网络,网络,课件,合集,学习]
 comments: true

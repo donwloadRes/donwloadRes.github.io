@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 标准库 实现6路串口配置，DMA发送，中断接收"
+title: "STM32F407 标准库 实现6路串口配置DMA发送中断接收"
 date:   2023-02-20
 tags: [串口,DMA,中断,配置,STM32F407]
 comments: true

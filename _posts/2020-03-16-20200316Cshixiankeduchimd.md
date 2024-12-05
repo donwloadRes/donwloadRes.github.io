@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现刻度尺"
+title: "C 实现刻度尺"
 date:   2024-10-14
 tags: [刻度尺,刻度,像素,Visual,Studio]
 comments: true

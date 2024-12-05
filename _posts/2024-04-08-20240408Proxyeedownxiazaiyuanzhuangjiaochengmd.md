@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proxyee-down 下载与安装教程"
+title: "Proxyeedown 下载与安装教程"
 date:   2024-04-18
 tags: [down,Proxyee,下载,文件,Chrome]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer 7.2.1 for Windows 思科模拟器"
+title: "Cisco Packet Tracer 721 for Windows 思科模拟器"
 date:   2024-06-05
 tags: [网络,思科,Packet,Tracer,Cisco]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 带宽度线的动态箭头线示例"
+title: "Threejs 带宽度线的动态箭头线示例"
 date:   2023-05-19
 tags: [示例,箭头,Three,js,宽度]
 comments: true

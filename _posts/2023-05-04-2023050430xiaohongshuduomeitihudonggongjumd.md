@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3.0小红书多媒体互动工具"
+title: "30小红书多媒体互动工具"
 date:   2022-01-04
 tags: [小红书,账号,互动,使用,工具]
 comments: true

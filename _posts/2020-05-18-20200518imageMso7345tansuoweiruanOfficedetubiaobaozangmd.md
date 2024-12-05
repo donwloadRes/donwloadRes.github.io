@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "imageMso7345：探索微软Office的图标宝藏"
+title: "imageMso7345探索微软Office的图标宝藏"
 date:   2020-02-16
 tags: [Office,图标,imageMso,微软,资源]
 comments: true

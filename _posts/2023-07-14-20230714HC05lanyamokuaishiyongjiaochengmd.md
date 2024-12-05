@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-05蓝牙模块使用教程"
+title: "HC05蓝牙模块使用教程"
 date:   2023-01-09
 tags: [蓝牙,模块,教程,HC,05]
 comments: true

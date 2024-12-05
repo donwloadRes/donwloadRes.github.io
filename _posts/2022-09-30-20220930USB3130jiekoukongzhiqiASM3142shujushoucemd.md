@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.1-3.0接口控制器ASM3142数据手册"
+title: "USB3130接口控制器ASM3142数据手册"
 date:   2024-06-03
 tags: [USB3.1,ASM3142,接口,控制器,文档]
 comments: true

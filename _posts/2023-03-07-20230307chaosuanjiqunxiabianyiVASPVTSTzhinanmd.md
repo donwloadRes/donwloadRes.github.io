@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超算集群下编译 VASP + VTST 指南"
+title: "超算集群下编译 VASP  VTST 指南"
 date:   2024-02-25
 tags: [VASP,VTST,编译,集群,超算]
 comments: true

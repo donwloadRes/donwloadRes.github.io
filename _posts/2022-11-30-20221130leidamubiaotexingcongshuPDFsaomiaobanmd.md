@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达目标特性丛书（PDF扫描版）"
+title: "雷达目标特性丛书PDF扫描版"
 date:   2023-06-22
 tags: [雷达,散射截面,目标,特性,宽带]
 comments: true

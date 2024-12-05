@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DataMatrix 二维码生成与解码 C# 程序"
+title: "DataMatrix 二维码生成与解码 C 程序"
 date:   2022-08-23
 tags: [二维码,解码,DataMatrix,C#,生成]
 comments: true

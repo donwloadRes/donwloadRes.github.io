@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT软件界面框架及精美样式（PC端）"
+title: "QT软件界面框架及精美样式PC端"
 date:   2024-07-17
 tags: [界面,PC,QT,软件,拖动]
 comments: true

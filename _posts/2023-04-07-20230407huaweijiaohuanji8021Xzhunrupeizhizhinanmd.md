@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为交换机802.1X准入配置指南"
+title: "华为交换机8021X准入配置指南"
 date:   2024-01-10
 tags: [802.1,配置,交换机,准入,华为]
 comments: true

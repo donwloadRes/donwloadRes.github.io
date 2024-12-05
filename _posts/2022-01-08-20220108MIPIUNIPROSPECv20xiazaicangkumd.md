@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI UNIPRO SPEC v2.0 下载仓库"
+title: "MIPI UNIPRO SPEC v20 下载仓库"
 date:   2023-05-23
 tags: [MIPI,v2.0,下载,仓库,文件]
 comments: true

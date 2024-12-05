@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析讲义(全三册)-陈天权"
+title: "数学分析讲义全三册陈天权"
 date:   2023-10-17
 tags: [数学分析,陈天权,讲义,全三册,文件]
 comments: true

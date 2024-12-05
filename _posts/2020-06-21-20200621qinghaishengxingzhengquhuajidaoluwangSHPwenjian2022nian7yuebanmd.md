@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青海省行政区划及道路网SHP文件（2022年7月版）"
+title: "青海省行政区划及道路网SHP文件2022年7月版"
 date:   2023-11-11
 tags: [SHP,道路网,2022,GIS,文件]
 comments: true

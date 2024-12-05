@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "save-ps-to-svg使用小插件"
+title: "savepstosvg使用小插件"
 date:   2020-05-08
 tags: [插件,Photoshop,save,ps,svg]
 comments: true

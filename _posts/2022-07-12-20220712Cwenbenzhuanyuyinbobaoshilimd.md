@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#文本转语音播报实例"
+title: "C文本转语音播报实例"
 date:   2023-01-12
 tags: [语音,文本,项目,播报,Net]
 comments: true

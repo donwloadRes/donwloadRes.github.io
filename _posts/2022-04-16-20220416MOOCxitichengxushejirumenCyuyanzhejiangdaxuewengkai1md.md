@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOOC习题：程序设计入门——C语言-浙江大学-翁恺1"
+title: "MOOC习题程序设计入门C语言浙江大学翁恺1"
 date:   2022-05-24
 tags: [习题,C语言,参考答案,题目,描述]
 comments: true

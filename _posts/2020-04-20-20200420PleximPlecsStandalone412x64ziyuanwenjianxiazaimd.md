@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plexim Plecs Standalone 4.1.2 x64 资源文件下载"
+title: "Plexim Plecs Standalone 412 x64 资源文件下载"
 date:   2022-02-19
 tags: [解压,文件,下载,Plexim,Plecs]
 comments: true

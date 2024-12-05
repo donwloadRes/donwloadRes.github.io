@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现基于线程的UDP通信（亲测可用）"
+title: "QT实现基于线程的UDP通信亲测可用"
 date:   2024-06-04
 tags: [线程,UDP,QT,数据,实时性]
 comments: true

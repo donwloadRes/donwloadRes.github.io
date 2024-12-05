@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python教程3.11.0中文版A4 PDF完整版"
+title: "Python教程3110中文版A4 PDF完整版"
 date:   2024-10-08
 tags: [Python,3.11,A4,PDF,中文版]
 comments: true

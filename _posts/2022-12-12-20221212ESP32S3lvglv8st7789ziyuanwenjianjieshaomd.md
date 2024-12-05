@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3 lvgl-v8-st7789 资源文件介绍"
+title: "ESP32S3 lvglv8st7789 资源文件介绍"
 date:   2023-02-05
 tags: [ESP32,S3,ST7789,LVGL,图形库]
 comments: true

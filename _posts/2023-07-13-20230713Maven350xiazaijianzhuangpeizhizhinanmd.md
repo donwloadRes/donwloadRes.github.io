@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.5.0 下载及安装配置指南"
+title: "Maven 350 下载及安装配置指南"
 date:   2020-09-03
 tags: [Maven,3.5,安装,下载,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信 第五版 课后答案 (John G.Proakis)"
+title: "数字通信 第五版 课后答案 John GProakis"
 date:   2024-01-26
 tags: [课后,数字通信,第五版,答案,Proakis]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等概率论讲义（港中文）下载"
+title: "高等概率论讲义港中文下载"
 date:   2021-10-03
 tags: [概率论,讲义,高等,学习者,中文]
 comments: true

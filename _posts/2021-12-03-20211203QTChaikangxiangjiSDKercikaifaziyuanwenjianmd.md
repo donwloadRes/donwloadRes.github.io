@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT C++ 海康相机SDK二次开发资源文件"
+title: "QT C 海康相机SDK二次开发资源文件"
 date:   2024-10-04
 tags: [SDK,海康,QT,相机,二次开发]
 comments: true

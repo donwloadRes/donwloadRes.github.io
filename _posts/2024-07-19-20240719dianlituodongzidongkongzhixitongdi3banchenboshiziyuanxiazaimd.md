@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力拖动自动控制系统(第3版) 陈伯时 资源下载"
+title: "电力拖动自动控制系统第3版 陈伯时 资源下载"
 date:   2021-01-28
 tags: [PDF,陈伯时,拖动,下载,控制系统]
 comments: true

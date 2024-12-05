@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序毕业设计：饿了吗（源码+截图）"
+title: "微信小程序毕业设计饿了吗源码截图"
 date:   2021-05-28
 tags: [微信,截图,源码,项目,毕业设计]
 comments: true

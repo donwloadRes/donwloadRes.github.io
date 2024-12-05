@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发者成长指南：从学徒到高手"
+title: "软件开发者成长指南从学徒到高手"
 date:   2021-12-25
 tags: [开发者,资源,高手,完整版,软件]
 comments: true

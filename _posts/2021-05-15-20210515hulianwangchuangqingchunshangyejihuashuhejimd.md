@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "互联网+创青春商业计划书合集"
+title: "互联网创青春商业计划书合集"
 date:   2023-01-19
 tags: [计划书,doc,创业,商业,ppt]
 comments: true

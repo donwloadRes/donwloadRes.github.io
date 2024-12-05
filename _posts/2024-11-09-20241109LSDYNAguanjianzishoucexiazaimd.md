@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LS-DYNA关键字手册下载"
+title: "LSDYNA关键字手册下载"
 date:   2021-06-27
 tags: [LS,DYNA,关键字,手册,下载]
 comments: true

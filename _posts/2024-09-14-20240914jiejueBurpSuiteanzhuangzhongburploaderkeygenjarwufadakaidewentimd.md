@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决BurpSuite安装中burp-loader-keygen.jar无法打开的问题"
+title: "解决BurpSuite安装中burploaderkeygenjar无法打开的问题"
 date:   2020-03-07
 tags: [jar,burp,loader,keygen,BurpSuite]
 comments: true

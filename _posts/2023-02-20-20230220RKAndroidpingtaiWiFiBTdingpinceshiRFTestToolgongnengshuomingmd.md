@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK_Android平台WiFi&BT定频测试（RFTestTool）功能说明"
+title: "RKAndroid平台WiFiBT定频测试RFTestTool功能说明"
 date:   2022-08-29
 tags: [定频,测试,WiFi,Android,APK]
 comments: true

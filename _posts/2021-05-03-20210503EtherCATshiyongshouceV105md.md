@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT使用手册 V1.05"
+title: "EtherCAT使用手册 V105"
 date:   2022-07-13
 tags: [EtherCAT,章节,使用手册,本手册,V1.05]
 comments: true

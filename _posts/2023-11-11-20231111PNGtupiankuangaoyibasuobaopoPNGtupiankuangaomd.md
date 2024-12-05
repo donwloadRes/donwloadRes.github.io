@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PNG图片宽高一把梭，爆破PNG图片宽高"
+title: "PNG图片宽高一把梭爆破PNG图片宽高"
 date:   2024-06-26
 tags: [PNG,图片,宽高,尺寸,处理]
 comments: true

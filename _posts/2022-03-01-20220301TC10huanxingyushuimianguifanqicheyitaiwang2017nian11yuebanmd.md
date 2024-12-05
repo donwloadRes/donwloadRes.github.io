@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TC10唤醒与睡眠规范：汽车以太网（2017年11月版）"
+title: "TC10唤醒与睡眠规范汽车以太网2017年11月版"
 date:   2023-09-11
 tags: [以太网,汽车,TC10,2017,11]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为电脑管家PJ版（101版本）下载"
+title: "华为电脑管家PJ版101版本下载"
 date:   2020-03-26
 tags: [101,版本,PJ,华为,huawai]
 comments: true

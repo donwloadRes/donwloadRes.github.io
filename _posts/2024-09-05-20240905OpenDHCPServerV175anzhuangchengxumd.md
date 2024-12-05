@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open DHCP Server V1.75 安装程序"
+title: "Open DHCP Server V175 安装程序"
 date:   2020-08-07
 tags: [Open,DHCP,Server,V1.75,安装程序]
 comments: true

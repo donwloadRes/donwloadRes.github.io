@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CV数据格式转换：Visdrone2019 DET和VID转换为COCO格式"
+title: "CV数据格式转换Visdrone2019 DET和VID转换为COCO格式"
 date:   2023-10-21
 tags: [数据格式,转换,COCO,代码,文档]
 comments: true

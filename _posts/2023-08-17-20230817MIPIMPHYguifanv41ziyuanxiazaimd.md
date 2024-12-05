@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI M-PHY 规范 v4.1 资源下载"
+title: "MIPI MPHY 规范 v41 资源下载"
 date:   2022-02-10
 tags: [PHY,MIPI,规范,v4.1,文档]
 comments: true

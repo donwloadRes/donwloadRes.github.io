@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB SCI绘图配色第三期：二维柱状图 - 一人之下"
+title: "MATLAB SCI绘图配色第三期二维柱状图  一人之下"
 date:   2021-09-01
 tags: [配色,MATLAB,柱状图,SCI,二维]
 comments: true

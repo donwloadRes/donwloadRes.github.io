@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL编程指南第九版源码（红宝书）"
+title: "OpenGL编程指南第九版源码红宝书"
 date:   2021-06-25
 tags: [源码,OpenGL,编程,第九版,示例]
 comments: true

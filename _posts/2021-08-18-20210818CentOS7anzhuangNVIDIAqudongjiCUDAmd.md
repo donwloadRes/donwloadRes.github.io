@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7+ 安装 NVIDIA 驱动及 CUDA"
+title: "CentOS7 安装 NVIDIA 驱动及 CUDA"
 date:   2024-04-04
 tags: [CUDA,安装,NVIDIA,CentOS,文件]
 comments: true

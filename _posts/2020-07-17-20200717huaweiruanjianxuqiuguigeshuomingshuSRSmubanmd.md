@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为软件需求规格说明书(SRS)模板"
+title: "华为软件需求规格说明书SRS模板"
 date:   2021-07-31
 tags: [模板,需求,规格,说明书,SRS]
 comments: true

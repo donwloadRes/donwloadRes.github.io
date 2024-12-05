@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【安全测试】AppScan：下载与安装"
+title: "安全测试AppScan下载与安装"
 date:   2021-05-05
 tags: [AppScan,安装,下载,Web,安装文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TAIITRE 20001-2020 数字化转型 新型能力体系建设指南.pdf"
+title: "TAIITRE 200012020 数字化转型 新型能力体系建设指南pdf"
 date:   2024-08-26
 tags: [数字化,转型,指南,2020,新型]
 comments: true

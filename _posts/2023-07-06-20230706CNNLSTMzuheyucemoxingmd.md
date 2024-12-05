@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN-LSTM组合预测模型"
+title: "CNNLSTM组合预测模型"
 date:   2021-07-05
 tags: [代码,模型,CNN,LSTM,预测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应卡尔曼滤波实例：MATLAB实现"
+title: "自适应卡尔曼滤波实例MATLAB实现"
 date:   2022-03-25
 tags: [卡尔曼滤波,MATLAB,适应,变形,数据处理]
 comments: true

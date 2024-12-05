@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硕飞编程器 量产烧录 Flash芯片（W25Q16DV）Bin文件流程说明"
+title: "硕飞编程器 量产烧录 Flash芯片W25Q16DVBin文件流程说明"
 date:   2024-11-16
 tags: [烧录,芯片,编程器,硕飞,Flash]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陆奇深圳演讲-ChatGPT新机遇分享-PPT"
+title: "陆奇深圳演讲ChatGPT新机遇分享PPT"
 date:   2020-10-24
 tags: [数字化,ChatGPT,新机遇,陆奇,演讲]
 comments: true

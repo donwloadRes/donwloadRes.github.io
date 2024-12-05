@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【IDM】Internet Download Manager v6.42 Build 3 下载神器"
+title: "IDMInternet Download Manager v642 Build 3 下载神器"
 date:   2022-08-17
 tags: [下载,IDM,v6.42,Build,文件]
 comments: true

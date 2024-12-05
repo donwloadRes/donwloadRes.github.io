@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT绘图工具实例：C++实现的2D图形绘制与编辑"
+title: "QT绘图工具实例C实现的2D图形绘制与编辑"
 date:   2020-12-27
 tags: [QT,图形,2D,C++,绘制]
 comments: true

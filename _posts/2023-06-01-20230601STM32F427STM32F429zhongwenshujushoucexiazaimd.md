@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F427-STM32F429 中文数据手册下载"
+title: "STM32F427STM32F429 中文数据手册下载"
 date:   2020-06-10
 tags: [手册,STM32F427,STM32F429,下载,芯片]
 comments: true

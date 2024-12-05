@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞机大战图片素材（全）"
+title: "飞机大战图片素材全"
 date:   2020-06-10
 tags: [游戏,图片素材,界面,飞机,大战]
 comments: true

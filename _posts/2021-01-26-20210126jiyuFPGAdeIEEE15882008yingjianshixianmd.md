@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的IEEE1588-2008硬件实现"
+title: "基于FPGA的IEEE15882008硬件实现"
 date:   2021-09-15
 tags: [FPGA,IEEE,1588,硬件,2008]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构设计师教程（第4版）资源下载"
+title: "系统架构设计师教程第4版资源下载"
 date:   2024-10-01
 tags: [架构设计,教程,架构,系统,资源]
 comments: true

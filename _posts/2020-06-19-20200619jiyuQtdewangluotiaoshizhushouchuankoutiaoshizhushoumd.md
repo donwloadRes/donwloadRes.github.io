@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt的网络调试助手、串口调试助手"
+title: "基于Qt的网络调试助手串口调试助手"
 date:   2024-06-22
 tags: [调试,串口,Qt,助手,开发者]
 comments: true

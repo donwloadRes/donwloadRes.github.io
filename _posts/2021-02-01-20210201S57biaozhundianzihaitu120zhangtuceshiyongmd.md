@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S57标准电子海图（120张图测试用）"
+title: "S57标准电子海图120张图测试用"
 date:   2021-06-20
 tags: [海图,缩放,S57,120,文件]
 comments: true

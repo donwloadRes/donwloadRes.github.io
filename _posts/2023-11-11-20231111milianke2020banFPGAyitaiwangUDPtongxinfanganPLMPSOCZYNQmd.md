@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联客2020版FPGA以太网UDP通信方案(PL) MPSOC ZYNQ"
+title: "米联客2020版FPGA以太网UDP通信方案PL MPSOC ZYNQ"
 date:   2020-07-05
 tags: [FPGA,ZYNQ,UDP,以太网,联客]
 comments: true

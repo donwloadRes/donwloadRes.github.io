@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双目+YOLOV5测距资源文件"
+title: "双目YOLOV5测距资源文件"
 date:   2020-10-09
 tags: [测距,摄像头,YOLOV5,bash,双目]
 comments: true

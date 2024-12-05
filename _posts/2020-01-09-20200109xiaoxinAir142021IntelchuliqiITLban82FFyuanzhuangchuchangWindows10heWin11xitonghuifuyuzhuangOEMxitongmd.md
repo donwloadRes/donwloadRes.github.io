@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小新 Air-14 2021 Intel处理器ITL版(82FF)原装出厂Windows10和Win11系统恢复预装OEM系统"
+title: "小新 Air14 2021 Intel处理器ITL版82FF原装出厂Windows10和Win11系统恢复预装OEM系统"
 date:   2023-09-22
 tags: [系统,预装,硬盘,小新,出厂]
 comments: true

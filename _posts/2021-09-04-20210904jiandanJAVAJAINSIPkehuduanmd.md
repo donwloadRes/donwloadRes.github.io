@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单JAVA-JAIN-SIP客户端"
+title: "简单JAVAJAINSIP客户端"
 date:   2023-11-22
 tags: [SIP,客户端,JAVA,JAIN,呼叫]
 comments: true

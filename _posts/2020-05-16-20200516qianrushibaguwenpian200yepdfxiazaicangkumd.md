@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式八股文篇(200页).pdf 下载仓库"
+title: "嵌入式八股文篇200页pdf 下载仓库"
 date:   2023-10-04
 tags: [嵌入式,200,pdf,文件,八股文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自定义Rake工具：增强Halcon直线检测与处理"
+title: "自定义Rake工具增强Halcon直线检测与处理"
 date:   2024-05-05
 tags: [Halcon,直线,自定义,Rake,检测]
 comments: true

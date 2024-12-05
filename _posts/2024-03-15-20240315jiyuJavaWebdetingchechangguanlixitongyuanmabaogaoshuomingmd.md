@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于JavaWeb的停车场管理系统源码+报告+说明"
+title: "基于JavaWeb的停车场管理系统源码报告说明"
 date:   2020-07-08
 tags: [JavaWeb,数据库,停车场,项目,管理系统]
 comments: true

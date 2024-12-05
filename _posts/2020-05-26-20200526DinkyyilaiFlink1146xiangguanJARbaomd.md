@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dinky依赖Flink 1.14.6相关JAR包"
+title: "Dinky依赖Flink 1146相关JAR包"
 date:   2024-01-04
 tags: [Flink,Dinky,1.14,jar,JAR]
 comments: true

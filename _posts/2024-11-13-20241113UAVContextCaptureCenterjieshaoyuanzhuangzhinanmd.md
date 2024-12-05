@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【UAV】ContextCapture Center介绍与安装指南"
+title: "UAVContextCapture Center介绍与安装指南"
 date:   2021-06-09
 tags: [ContextCapture,Center,安装,软件,三维]
 comments: true

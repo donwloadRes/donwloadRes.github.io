@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlowJo 10.8.1 WIN版本软件安装包下载与安装教程"
+title: "FlowJo 1081 WIN版本软件安装包下载与安装教程"
 date:   2023-04-17
 tags: [安装,FlowJo,10.8,版本,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Krpano 1.21.2 最新使用教程"
+title: "Krpano 1212 最新使用教程"
 date:   2023-01-17
 tags: [Krpano,教程,全景,使用,1.21]
 comments: true

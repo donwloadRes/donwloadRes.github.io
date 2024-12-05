@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11g数据库详细安装步骤图解，附带安装包"
+title: "Oracle 11g数据库详细安装步骤图解附带安装包"
 date:   2023-05-19
 tags: [Oracle,安装,11g,数据库,安装包]
 comments: true

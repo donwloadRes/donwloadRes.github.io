@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口模拟器VSPD（附VSPD安装包）"
+title: "串口模拟器VSPD附VSPD安装包"
 date:   2024-09-26
 tags: [串口,VSPD,虚拟,调试,创建]
 comments: true

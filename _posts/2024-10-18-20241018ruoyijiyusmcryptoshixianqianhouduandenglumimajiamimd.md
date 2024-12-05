@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依基于sm-crypto实现前后端登录密码加密"
+title: "若依基于smcrypto实现前后端登录密码加密"
 date:   2022-08-20
 tags: [加密,密码,解密,sm,crypto]
 comments: true

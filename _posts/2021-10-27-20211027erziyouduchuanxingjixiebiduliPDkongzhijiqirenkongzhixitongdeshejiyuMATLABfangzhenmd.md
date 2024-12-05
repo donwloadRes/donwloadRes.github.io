@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二自由度串行机械臂独立PD控制-机器人控制系统的设计与MATLAB仿真"
+title: "二自由度串行机械臂独立PD控制机器人控制系统的设计与MATLAB仿真"
 date:   2021-10-31
 tags: [仿真,MATLAB,程序,PD,参考文献]
 comments: true

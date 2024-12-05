@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统中进行锐捷有线校园网认证 + 开机启动认证"
+title: "Linux系统中进行锐捷有线校园网认证  开机启动认证"
 date:   2023-11-08
 tags: [认证,Linux,校园网,开机,步骤]
 comments: true

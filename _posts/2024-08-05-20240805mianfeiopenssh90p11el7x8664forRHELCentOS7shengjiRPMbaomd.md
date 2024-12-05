@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费 openssh-9.0p1-1.el7.x86_64 for RHEL-CentOS 7 升级RPM包"
+title: "免费 openssh90p11el7x8664 for RHELCentOS 7 升级RPM包"
 date:   2020-02-03
 tags: [rpm,9.0,p1,openssh,x86]
 comments: true

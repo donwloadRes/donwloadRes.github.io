@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus与LabVIEW联合仿真：串口数据传输与波形显示实战教程"
+title: "Proteus与LabVIEW联合仿真串口数据传输与波形显示实战教程"
 date:   2024-04-26
 tags: [LabVIEW,Proteus,串口,单片机,仿真]
 comments: true

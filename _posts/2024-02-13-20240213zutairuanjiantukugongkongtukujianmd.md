@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态软件图库 - 工控图库件"
+title: "组态软件图库  工控图库件"
 date:   2024-01-11
 tags: [图库,组态,工控,软件,设计]
 comments: true

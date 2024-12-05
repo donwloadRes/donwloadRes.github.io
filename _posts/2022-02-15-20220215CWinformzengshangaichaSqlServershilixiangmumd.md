@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 增删改查 SqlServer 示例项目"
+title: "C Winform 增删改查 SqlServer 示例项目"
 date:   2023-03-05
 tags: [数据库,SqlServer,学生,项目,成绩]
 comments: true

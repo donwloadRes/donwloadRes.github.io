@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SwitchHosts下载及使用方法：一键管理hosts，无缝切换环境"
+title: "SwitchHosts下载及使用方法一键管理hosts无缝切换环境"
 date:   2022-06-11
 tags: [hosts,SwitchHosts,---,切换,环境]
 comments: true

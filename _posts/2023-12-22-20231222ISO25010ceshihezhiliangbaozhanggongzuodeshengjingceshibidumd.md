@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 25010：测试和质量保障工作的圣经！！！测试必读！！！"
+title: "ISO 25010测试和质量保障工作的圣经测试必读"
 date:   2024-10-15
 tags: [ISO,质量,25010,测试,保障]
 comments: true

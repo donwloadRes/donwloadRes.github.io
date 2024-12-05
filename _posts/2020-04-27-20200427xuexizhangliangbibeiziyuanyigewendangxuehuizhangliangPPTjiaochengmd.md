@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习张量必备资源：一个文档学会张量》PPT教程"
+title: "学习张量必备资源一个文档学会张量PPT教程"
 date:   2022-08-29
 tags: [张量,文档,PPT,学习,教程]
 comments: true

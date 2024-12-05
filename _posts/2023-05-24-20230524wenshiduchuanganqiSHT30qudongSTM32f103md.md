@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "温湿度传感器SHT30驱动（STM32f103）"
+title: "温湿度传感器SHT30驱动STM32f103"
 date:   2022-03-23
 tags: [STM32F103,SHT30,IIC,传感器,引脚]
 comments: true

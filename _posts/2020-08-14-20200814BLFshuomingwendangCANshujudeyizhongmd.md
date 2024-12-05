@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLF说明文档-CAN数据的一种"
+title: "BLF说明文档CAN数据的一种"
 date:   2024-02-26
 tags: [文档,BLF,数据,格式,说明]
 comments: true

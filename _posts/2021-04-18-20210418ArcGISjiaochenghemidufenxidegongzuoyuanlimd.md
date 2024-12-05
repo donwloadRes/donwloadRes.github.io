@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS教程：核密度分析的工作原理"
+title: "ArcGIS教程核密度分析的工作原理"
 date:   2023-06-21
 tags: [密度,分析,ArcGIS,教程,要素]
 comments: true

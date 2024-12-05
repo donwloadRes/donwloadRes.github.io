@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能AI麻将 - 麻将AlphaGo"
+title: "人工智能AI麻将  麻将AlphaGo"
 date:   2024-09-29
 tags: [麻将,AI,人工智能,代码,AlphaGo]
 comments: true

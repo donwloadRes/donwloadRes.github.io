@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱Q系列 EIP功能模块--CIM通讯说明书"
+title: "三菱Q系列 EIP功能模块CIM通讯说明书"
 date:   2023-01-29
 tags: [CIM,通讯,说明书,三菱,EIP]
 comments: true

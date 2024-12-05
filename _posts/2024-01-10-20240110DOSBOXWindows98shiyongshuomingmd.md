@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOSBOX-Windows98 使用说明"
+title: "DOSBOXWindows98 使用说明"
 date:   2021-09-25
 tags: [Windows98,DOSBOX,Windows,98,DOSBox]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCS SystemC 用户指南（2019年6月版）"
+title: "VCS SystemC 用户指南2019年6月版"
 date:   2023-07-10
 tags: [SystemC,VCS,仿真,文档,2019]
 comments: true

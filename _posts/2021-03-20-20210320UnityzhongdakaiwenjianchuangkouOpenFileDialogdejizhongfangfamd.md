@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity中打开文件窗口（OpenFileDialog）的几种方法"
+title: "Unity中打开文件窗口OpenFileDialog的几种方法"
 date:   2023-06-30
 tags: [Unity,文件,插件,OpenFileDialog,Windows]
 comments: true

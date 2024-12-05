@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM架构参考手册（ARMv7-A和ARMv7-R版）"
+title: "ARM架构参考手册ARMv7A和ARMv7R版"
 date:   2021-04-03
 tags: [ARMv7,ARM,架构,参考手册,系统]
 comments: true

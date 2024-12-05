@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的温度报警器（数码管）"
+title: "基于STM32单片机的温度报警器数码管"
 date:   2022-03-13
 tags: [STM32,数码管,仿真,程序代码,Proteus]
 comments: true

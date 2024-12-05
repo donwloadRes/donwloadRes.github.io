@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HD Tune Pro 5.75 中文免安装版"
+title: "HD Tune Pro 575 中文免安装版"
 date:   2022-04-14
 tags: [硬盘,HD,Tune,Pro,安装版]
 comments: true

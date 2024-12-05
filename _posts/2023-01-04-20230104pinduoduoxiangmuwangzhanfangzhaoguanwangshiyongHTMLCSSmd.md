@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拼多多项目 - 网站仿照官网 使用HTML+CSS"
+title: "拼多多项目  网站仿照官网 使用HTMLCSS"
 date:   2024-03-20
 tags: [HTML,CSS,官网,项目,仿照]
 comments: true

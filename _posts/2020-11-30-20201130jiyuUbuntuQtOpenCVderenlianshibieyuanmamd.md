@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Ubuntu+Qt+OpenCV的人脸识别源码"
+title: "基于UbuntuQtOpenCV的人脸识别源码"
 date:   2022-03-28
 tags: [Qt,OpenCV,人脸识别,源码,Ubuntu]
 comments: true

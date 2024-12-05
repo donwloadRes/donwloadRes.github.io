@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Netica（贝叶斯）操作步骤图详解"
+title: "Netica贝叶斯操作步骤图详解"
 date:   2020-06-18
 tags: [贝叶斯,Netica,操作步骤,软件,截图]
 comments: true

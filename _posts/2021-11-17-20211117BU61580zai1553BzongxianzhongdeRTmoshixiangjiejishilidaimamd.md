@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BU-61580 在 1553B 总线中的 RT 模式详解及示例代码"
+title: "BU61580 在 1553B 总线中的 RT 模式详解及示例代码"
 date:   2021-02-07
 tags: [RT,软件设计,示例,1553B,总线]
 comments: true

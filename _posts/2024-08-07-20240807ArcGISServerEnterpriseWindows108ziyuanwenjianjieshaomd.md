@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Server Enterprise Windows 10.8 资源文件介绍"
+title: "ArcGIS Server Enterprise Windows 108 资源文件介绍"
 date:   2023-04-25
 tags: [ArcGIS,Enterprise,Web,Windows,GIS]
 comments: true

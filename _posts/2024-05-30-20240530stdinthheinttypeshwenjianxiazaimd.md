@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdint.h 和 inttypes.h 文件下载"
+title: "stdinth 和 inttypesh 文件下载"
 date:   2022-03-13
 tags: [stdint,inttypes,文件,头文件,Visual]
 comments: true

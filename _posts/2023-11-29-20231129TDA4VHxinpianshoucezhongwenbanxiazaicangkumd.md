@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDA4VH芯片手册（中文版）下载仓库"
+title: "TDA4VH芯片手册中文版下载仓库"
 date:   2024-05-11
 tags: [手册,TDA4VH,Q1,中文翻译,芯片]
 comments: true

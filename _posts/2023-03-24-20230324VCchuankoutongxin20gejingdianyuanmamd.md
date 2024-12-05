@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++串口通信20个经典源码"
+title: "VC串口通信20个经典源码"
 date:   2020-06-28
 tags: [串口,C++,通信,源码,rar]
 comments: true

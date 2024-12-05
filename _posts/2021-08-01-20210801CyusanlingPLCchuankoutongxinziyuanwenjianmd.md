@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与三菱PLC串口通信资源文件"
+title: "C与三菱PLC串口通信资源文件"
 date:   2023-06-08
 tags: [串口,PLC,C#,三菱,通信]
 comments: true

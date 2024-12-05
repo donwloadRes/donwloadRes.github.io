@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot面试题（92题）资源下载"
+title: "Spring Boot面试题92题资源下载"
 date:   2022-10-27
 tags: [Spring,Boot,面试题,92,面试]
 comments: true

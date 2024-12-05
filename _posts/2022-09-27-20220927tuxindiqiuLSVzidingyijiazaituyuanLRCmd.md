@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图新地球（LSV）自定义加载：图源LRC"
+title: "图新地球LSV自定义加载图源LRC"
 date:   2022-06-25
 tags: [图源,LRC,图新,自定义,地球]
 comments: true

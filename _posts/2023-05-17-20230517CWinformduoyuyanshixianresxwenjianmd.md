@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform多语言实现（resx文件）"
+title: "C Winform多语言实现resx文件"
 date:   2020-06-23
 tags: [语言,resx,文件,切换,资源]
 comments: true

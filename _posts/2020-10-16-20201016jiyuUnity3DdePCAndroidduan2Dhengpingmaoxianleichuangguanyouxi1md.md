@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Unity 3D的PC&Android端2D横屏冒险类闯关游戏1"
+title: "基于Unity 3D的PCAndroid端2D横屏冒险类闯关游戏1"
 date:   2020-09-08
 tags: [游戏,Unity,2D,闯关,3D]
 comments: true

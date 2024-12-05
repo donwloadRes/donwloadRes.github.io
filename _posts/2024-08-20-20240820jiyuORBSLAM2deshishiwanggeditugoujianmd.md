@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ORB-SLAM2的实时网格地图构建"
+title: "基于ORBSLAM2的实时网格地图构建"
 date:   2023-10-15
 tags: [网格地图,ORB,SLAM2,算法,构建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直流无刷电动机原理及应用.pdf"
+title: "直流无刷电动机原理及应用pdf"
 date:   2022-02-17
 tags: [无刷,直流,电动机,电机,应用]
 comments: true

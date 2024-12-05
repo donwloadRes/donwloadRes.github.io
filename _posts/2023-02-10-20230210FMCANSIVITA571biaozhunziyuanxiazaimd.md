@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMC ANSI-VITA 57.1标准资源下载"
+title: "FMC ANSIVITA 571标准资源下载"
 date:   2024-08-13
 tags: [FMC,英文原版,资源,ANSI,VITA]
 comments: true

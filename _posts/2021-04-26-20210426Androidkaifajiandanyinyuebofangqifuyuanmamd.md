@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android开发--简单音乐播放器（附源码）"
+title: "Android开发简单音乐播放器附源码"
 date:   2023-01-25
 tags: [音乐,Android,播放器,功能,项目]
 comments: true

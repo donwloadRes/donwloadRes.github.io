@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 图解教程下载"
+title: "C WinForm 图解教程下载"
 date:   2022-01-06
 tags: [WinForm,教程,C#,图解,开发]
 comments: true

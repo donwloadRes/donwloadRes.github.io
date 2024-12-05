@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCM格式音频播放器（可技术支持）"
+title: "PCM格式音频播放器可技术支持"
 date:   2022-06-01
 tags: [音频,PCM,裁剪,播放,播放器]
 comments: true

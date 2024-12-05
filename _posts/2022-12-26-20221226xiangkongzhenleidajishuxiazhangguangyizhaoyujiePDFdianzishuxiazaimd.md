@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相控阵雷达技术（下） 张光义，赵玉洁 PDF电子书下载"
+title: "相控阵雷达技术下 张光义赵玉洁 PDF电子书下载"
 date:   2020-05-09
 tags: [相控阵,PDF,雷达,下载,张光义]
 comments: true

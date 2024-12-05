@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HoRNDIS - 安卓（华为）手机通过USB共享网络至Mac的插件"
+title: "HoRNDIS  安卓华为手机通过USB共享网络至Mac的插件"
 date:   2023-03-26
 tags: [Mac,插件,安卓,USB,华为]
 comments: true

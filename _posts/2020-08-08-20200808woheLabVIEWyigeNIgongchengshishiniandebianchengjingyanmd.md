@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我和LabVIEW：一个NI工程师十年的编程经验"
+title: "我和LabVIEW一个NI工程师十年的编程经验"
 date:   2023-04-14
 tags: [LabVIEW,编程,工程师,NI,这份]
 comments: true

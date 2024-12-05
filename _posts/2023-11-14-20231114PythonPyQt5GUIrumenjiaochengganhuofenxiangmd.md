@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python PyQt5 GUI 入门教程：干货分享"
+title: "Python PyQt5 GUI 入门教程干货分享"
 date:   2021-09-21
 tags: [PyQt5,GUI,教程,开发,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现的希尔伯特变换教程及代码"
+title: "C实现的希尔伯特变换教程及代码"
 date:   2022-05-15
 tags: [希尔伯特,C++,变换,代码,信号]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teigha (ODA) SDK 4.2 官方文档及使用示例"
+title: "Teigha ODA SDK 42 官方文档及使用示例"
 date:   2023-04-05
 tags: [SDK,示例,Teigha,文档,4.2]
 comments: true

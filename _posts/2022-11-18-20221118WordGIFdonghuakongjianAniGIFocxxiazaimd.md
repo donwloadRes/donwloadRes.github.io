@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Word GIF 动画控件 AniGIF.ocx 下载"
+title: "Word GIF 动画控件 AniGIFocx 下载"
 date:   2022-05-09
 tags: [控件,Word,AniGIF,ocx,GIF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拉扎维模拟CMOS集成电路设计》习题答案（手写版）简介"
+title: "拉扎维模拟CMOS集成电路设计习题答案手写版简介"
 date:   2020-07-02
 tags: [手写,习题,答案,模拟,CMOS]
 comments: true

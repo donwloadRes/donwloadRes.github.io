@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32蓝牙音频支持aptX-aptX HD-aptX LL-LDAC编码格式"
+title: "ESP32蓝牙音频支持aptXaptX HDaptX LLLDAC编码格式"
 date:   2022-11-29
 tags: [aptX,ESP32,蓝牙,音频,编码]
 comments: true

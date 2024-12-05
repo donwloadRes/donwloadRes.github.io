@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超完整 Python 基础入门知识教程 - 1885页"
+title: "超完整 Python 基础入门知识教程  1885页"
 date:   2021-10-22
 tags: [Python,编程,教程,学习,1885]
 comments: true

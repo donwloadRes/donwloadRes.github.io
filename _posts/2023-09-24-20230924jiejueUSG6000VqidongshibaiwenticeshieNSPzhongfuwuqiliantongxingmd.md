@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决USG6000V启动失败问题&测试eNSP中服务器连通性"
+title: "解决USG6000V启动失败问题测试eNSP中服务器连通性"
 date:   2023-03-03
 tags: [连通性,eNSP,USG6000V,服务器,配置]
 comments: true

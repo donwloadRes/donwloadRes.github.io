@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东体-左斜-水域标注字体资源"
+title: "东体左斜水域标注字体资源"
 date:   2021-02-03
 tags: [字体,标注,安装,左斜,水域]
 comments: true

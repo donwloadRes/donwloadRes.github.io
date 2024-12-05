@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音去噪算法实现：基于谱减法和维纳滤波的Matlab源码"
+title: "语音去噪算法实现基于谱减法和维纳滤波的Matlab源码"
 date:   2024-11-16
 tags: [语音,Matlab,维纳滤波,源码,减法]
 comments: true

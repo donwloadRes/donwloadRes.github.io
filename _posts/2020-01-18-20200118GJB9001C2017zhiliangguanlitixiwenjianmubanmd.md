@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB9001C-2017 质量管理体系文件模板"
+title: "GJB9001C2017 质量管理体系文件模板"
 date:   2021-08-07
 tags: [文件,GJB9001C,2017,管理体系,模板]
 comments: true

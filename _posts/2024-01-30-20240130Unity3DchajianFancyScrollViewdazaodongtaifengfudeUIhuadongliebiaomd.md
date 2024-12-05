@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D插件FancyScrollView - 打造动态丰富的UI滑动列表"
+title: "Unity3D插件FancyScrollView  打造动态丰富的UI滑动列表"
 date:   2023-07-12
 tags: [UI,FancyScrollView,---,Unity,示例]
 comments: true

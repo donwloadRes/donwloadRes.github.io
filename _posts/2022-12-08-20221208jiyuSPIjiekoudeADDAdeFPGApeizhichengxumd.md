@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SPI接口的AD、DA的FPGA配置程序"
+title: "基于SPI接口的ADDA的FPGA配置程序"
 date:   2022-01-12
 tags: [FPGA,SPI,AD,DA,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 OCP应试必备指南"
+title: "MySQL 80 OCP应试必备指南"
 date:   2021-02-10
 tags: [指南,OCP,MySQL,8.0,应试]
 comments: true

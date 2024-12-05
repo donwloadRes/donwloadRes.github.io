@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iData数据工厂V3.0：提升工作效率与用户体验"
+title: "iData数据工厂V30提升工作效率与用户体验"
 date:   2022-04-21
 tags: [数据,测绘,iData,V3.0,用户]
 comments: true

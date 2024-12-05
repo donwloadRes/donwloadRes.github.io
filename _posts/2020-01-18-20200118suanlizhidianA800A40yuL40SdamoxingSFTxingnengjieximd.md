@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算力之巅：A800、A40与L40S大模型SFT性能解析"
+title: "算力之巅A800A40与L40S大模型SFT性能解析"
 date:   2023-08-25
 tags: [L40S,模型,A800,A40,SFT]
 comments: true

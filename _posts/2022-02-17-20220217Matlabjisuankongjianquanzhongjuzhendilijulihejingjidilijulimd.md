@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab计算空间权重矩阵（地理距离和经济地理距离）"
+title: "Matlab计算空间权重矩阵地理距离和经济地理距离"
 date:   2021-06-14
 tags: [地理,距离,矩阵,Matlab,权重]
 comments: true

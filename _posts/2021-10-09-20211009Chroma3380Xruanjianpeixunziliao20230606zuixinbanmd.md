@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chroma 3380X 软件培训资料 (20230606 最新版)"
+title: "Chroma 3380X 软件培训资料 20230606 最新版"
 date:   2023-04-06
 tags: [Chroma,3380X,软件,培训资料,最新版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 5.1 编译资源文件"
+title: "FFmpeg 51 编译资源文件"
 date:   2024-05-06
 tags: [编译,FFmpeg,文件,代码生成,资源]
 comments: true

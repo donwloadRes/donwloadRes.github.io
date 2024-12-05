@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEEMD程序+注释matlab+python资源下载"
+title: "CEEMD程序注释matlabpython资源下载"
 date:   2022-07-03
 tags: [CEEMD,注释,Matlab,Python,代码]
 comments: true

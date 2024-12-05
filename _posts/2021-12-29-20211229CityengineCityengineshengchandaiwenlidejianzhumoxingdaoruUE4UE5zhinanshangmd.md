@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Cityengine】Cityengine生产带纹理的建筑模型导入UE4-UE5指南（上）"
+title: "CityengineCityengine生产带纹理的建筑模型导入UE4UE5指南上"
 date:   2020-04-06
 tags: [CityEngine,UE,导入,教程,模型]
 comments: true

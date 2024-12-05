@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库STM32F4-光栅尺和编码器读取例程"
+title: "HAL库STM32F4光栅尺和编码器读取例程"
 date:   2020-08-14
 tags: [光栅尺,STM32F4,编码器,HAL,例程]
 comments: true

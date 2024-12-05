@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机保研面试-考研复试常见问题整理"
+title: "计算机保研面试考研复试常见问题整理"
 date:   2020-11-08
 tags: [面试,保研,复试,考研,常见问题]
 comments: true

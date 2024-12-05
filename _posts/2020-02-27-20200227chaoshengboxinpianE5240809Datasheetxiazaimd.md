@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超声波芯片E524.08(09) Datasheet下载"
+title: "超声波芯片E5240809 Datasheet下载"
 date:   2023-08-07
 tags: [E524.08,09,芯片,Datasheet,下载]
 comments: true

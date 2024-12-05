@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "丘维声-抽象代数资源下载"
+title: "丘维声抽象代数资源下载"
 date:   2024-08-21
 tags: [抽象代数,丘维声,文件,资源,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express M.2 规范 5.0 版本 1.0 下载"
+title: "PCI Express M2 规范 50 版本 10 下载"
 date:   2020-11-12
 tags: [文档,PCI,Express,M.2,5.0]
 comments: true

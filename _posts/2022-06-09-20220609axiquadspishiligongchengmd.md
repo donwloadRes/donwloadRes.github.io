@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "axi-quad-spi 示例工程"
+title: "axiquadspi 示例工程"
 date:   2023-02-03
 tags: [SPI,示例,AXI,FPGA,Quad]
 comments: true

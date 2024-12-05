@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103官方标准库固件库文件3.5版本最新版"
+title: "STM32F103官方标准库固件库文件35版本最新版"
 date:   2024-11-17
 tags: [固件,STM32F103,开发,3.5,文档]
 comments: true

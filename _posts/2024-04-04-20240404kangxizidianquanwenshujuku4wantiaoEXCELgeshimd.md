@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "康熙字典全文数据库(4万条EXCEL格式)"
+title: "康熙字典全文数据库4万条EXCEL格式"
 date:   2020-03-30
 tags: [数据库,汉字,EXCEL,康熙字典,格式]
 comments: true

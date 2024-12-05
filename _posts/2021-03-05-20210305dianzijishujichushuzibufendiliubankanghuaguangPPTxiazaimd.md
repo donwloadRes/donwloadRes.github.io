@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术基础数字部分（第六版）康华光PPT下载"
+title: "电子技术基础数字部分第六版康华光PPT下载"
 date:   2024-11-03
 tags: [PPT,课件,第六版,压缩包,数字]
 comments: true

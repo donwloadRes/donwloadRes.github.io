@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统实验：动态分区算法实现"
+title: "操作系统实验动态分区算法实现"
 date:   2022-10-18
 tags: [Fit,算法,分区,空闲,适应]
 comments: true

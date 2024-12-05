@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "购物网站首页设计（Html+CSS+Javascript）"
+title: "购物网站首页设计HtmlCSSJavascript"
 date:   2024-08-26
 tags: [网页,Html,CSS,Javascript,设计]
 comments: true

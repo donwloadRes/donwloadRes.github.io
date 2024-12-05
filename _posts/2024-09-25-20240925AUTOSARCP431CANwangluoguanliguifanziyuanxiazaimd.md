@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR CP 4.3.1 CAN 网络管理规范资源下载"
+title: "AUTOSAR CP 431 CAN 网络管理规范资源下载"
 date:   2023-09-16
 tags: [AUTOSAR,CP,4.3,网络管理,规范]
 comments: true

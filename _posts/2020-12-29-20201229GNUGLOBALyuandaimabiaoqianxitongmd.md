@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNU GLOBAL: 源代码标签系统"
+title: "GNU GLOBAL 源代码标签系统"
 date:   2020-03-24
 tags: [GNU,GLOBAL,源代码,标签,代码]
 comments: true

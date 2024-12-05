@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用HTML+CSS代码制作3D旋转相册"
+title: "用HTMLCSS代码制作3D旋转相册"
 date:   2020-03-07
 tags: [相册,3D,html,图片,代码]
 comments: true

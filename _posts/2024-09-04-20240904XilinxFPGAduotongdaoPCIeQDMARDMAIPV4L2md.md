@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA 多通道PCIe QDMA&RDMA IP，V4L2"
+title: "Xilinx FPGA 多通道PCIe QDMARDMA IPV4L2"
 date:   2021-12-22
 tags: [多通道,FPGA,DMA,数据传输,PCIe]
 comments: true

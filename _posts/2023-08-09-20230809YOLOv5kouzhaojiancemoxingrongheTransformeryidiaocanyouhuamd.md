@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5口罩检测模型 (融合Transformer+已调参优化)"
+title: "YOLOv5口罩检测模型 融合Transformer已调参优化"
 date:   2020-03-13
 tags: [模型,YOLOv5,Transformer,优化,文件]
 comments: true

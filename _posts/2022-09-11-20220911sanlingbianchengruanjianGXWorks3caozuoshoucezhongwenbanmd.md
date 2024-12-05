@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱编程软件GX Works3 操作手册（中文版）"
+title: "三菱编程软件GX Works3 操作手册中文版"
 date:   2021-12-12
 tags: [GX,Works3,编程,软件,操作手册]
 comments: true

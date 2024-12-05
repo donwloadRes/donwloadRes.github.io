@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM393红外避障PCB+原理图资源下载"
+title: "LM393红外避障PCB原理图资源下载"
 date:   2023-01-08
 tags: [PCB,原理图,避障,LM393,红外]
 comments: true

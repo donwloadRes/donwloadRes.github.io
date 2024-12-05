@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#浮点数与16进制字节数互相转换工具"
+title: "C浮点数与16进制字节数互相转换工具"
 date:   2021-10-15
 tags: [浮点数,16,进制,转换,C#]
 comments: true

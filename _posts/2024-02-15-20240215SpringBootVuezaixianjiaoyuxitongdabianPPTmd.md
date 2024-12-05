@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue在线教育系统答辩PPT"
+title: "SpringBootVue在线教育系统答辩PPT"
 date:   2024-06-08
 tags: [PPT,答辩,SpringBoot,Vue,在线教育]
 comments: true

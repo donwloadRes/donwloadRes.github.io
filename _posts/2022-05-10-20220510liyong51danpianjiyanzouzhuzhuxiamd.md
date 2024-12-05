@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用51单片机演奏猪猪侠》"
+title: "利用51单片机演奏猪猪侠"
 date:   2024-08-21
 tags: [单片机,乐谱,51,播放,猪猪]
 comments: true

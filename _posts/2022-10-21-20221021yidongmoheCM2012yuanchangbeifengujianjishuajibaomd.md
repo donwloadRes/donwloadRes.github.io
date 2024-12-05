@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动魔盒CM201-2原厂备份固件及刷机包"
+title: "移动魔盒CM2012原厂备份固件及刷机包"
 date:   2023-09-24
 tags: [固件,刷机,机包,HITOOL,设备]
 comments: true

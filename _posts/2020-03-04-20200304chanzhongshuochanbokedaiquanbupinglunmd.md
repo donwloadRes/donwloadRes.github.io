@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缠中说禅博客（带全部评论）"
+title: "缠中说禅博客带全部评论"
 date:   2022-09-22
 tags: [缠中,博客,缠论,评论,存档]
 comments: true

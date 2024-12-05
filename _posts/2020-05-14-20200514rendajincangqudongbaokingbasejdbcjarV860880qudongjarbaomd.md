@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人大金仓驱动包 kingbasejdbc.jar V8.6.0、8.8.0 驱动 jar 包"
+title: "人大金仓驱动包 kingbasejdbcjar V860880 驱动 jar 包"
 date:   2021-12-26
 tags: [jar,kingbasejdbc,kingbase8,驱动,金仓]
 comments: true

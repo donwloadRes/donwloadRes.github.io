@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 12 AudioFlinger 分析（RK3588）资源下载"
+title: "Android 12 AudioFlinger 分析RK3588资源下载"
 date:   2022-09-20
 tags: [AudioFlinger,Android,RK3588,12,示例]
 comments: true

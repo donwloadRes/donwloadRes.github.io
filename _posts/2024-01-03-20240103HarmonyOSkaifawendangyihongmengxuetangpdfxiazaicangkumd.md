@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HarmonyOS开发文档（一）_鸿蒙学堂.pdf 下载仓库"
+title: "HarmonyOS开发文档一鸿蒙学堂pdf 下载仓库"
 date:   2020-01-21
 tags: [HarmonyOS,鸿蒙,文档,开发,pdf]
 comments: true

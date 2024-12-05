@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你安装Camtasia Studio 8！！！"
+title: "手把手教你安装Camtasia Studio 8"
 date:   2021-01-17
 tags: [Camtasia,Studio,安装,解压,安装包]
 comments: true

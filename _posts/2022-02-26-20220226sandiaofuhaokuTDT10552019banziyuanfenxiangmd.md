@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三调符号库TD-T1055-2019版资源分享"
+title: "三调符号库TDT10552019版资源分享"
 date:   2021-09-23
 tags: [符号库,三调,预览,2019,TD]
 comments: true

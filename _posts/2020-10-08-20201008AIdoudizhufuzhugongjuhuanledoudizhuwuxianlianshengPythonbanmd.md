@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI斗地主辅助工具：欢乐斗地主无限连胜 Python版"
+title: "AI斗地主辅助工具欢乐斗地主无限连胜 Python版"
 date:   2021-12-28
 tags: [斗地主,游戏,AI,Python,辅助工具]
 comments: true

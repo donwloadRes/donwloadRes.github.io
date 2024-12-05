@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2018.3 和 Modelsim 10.6c 下载与安装指南"
+title: "Vivado 20183 和 Modelsim 106c 下载与安装指南"
 date:   2021-12-12
 tags: [Vivado,Modelsim,仿真,安装,2018.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux-Windows Redis 下载与安装指南"
+title: "LinuxWindows Redis 下载与安装指南"
 date:   2022-04-19
 tags: [Redis,下载,安装包,Linux,Windows]
 comments: true

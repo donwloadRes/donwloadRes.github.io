@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构学习笔记（王道）"
+title: "数据结构学习笔记王道"
 date:   2022-01-13
 tags: [数据结构,笔记,王道,考研,学习]
 comments: true

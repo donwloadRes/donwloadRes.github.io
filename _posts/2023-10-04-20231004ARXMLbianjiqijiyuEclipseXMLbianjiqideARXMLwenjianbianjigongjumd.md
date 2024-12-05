@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARXML编辑器：基于Eclipse XML编辑器的ARXML文件编辑工具"
+title: "ARXML编辑器基于Eclipse XML编辑器的ARXML文件编辑工具"
 date:   2020-12-16
 tags: [ARXML,编辑器,Eclipse,文件,XML]
 comments: true

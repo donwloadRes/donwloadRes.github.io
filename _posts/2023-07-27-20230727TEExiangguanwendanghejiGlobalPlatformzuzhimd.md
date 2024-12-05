@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEE相关文档合集（GlobalPlatform组织）"
+title: "TEE相关文档合集GlobalPlatform组织"
 date:   2022-06-10
 tags: [TEE,文档,API,GlobalPlatform,pdf]
 comments: true

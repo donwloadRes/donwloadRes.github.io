@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FTP客户端FileZilla Pro 3.64版本在Windows系统的下载与安装配置"
+title: "FTP客户端FileZilla Pro 364版本在Windows系统的下载与安装配置"
 date:   2022-03-27
 tags: [安装,FileZilla,FTP,Pro,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NRF24L01 2.4G无线模块原理及PCB文件资源"
+title: "NRF24L01 24G无线模块原理及PCB文件资源"
 date:   2024-08-12
 tags: [PCB,NRF24L01,设计,无线,模块]
 comments: true

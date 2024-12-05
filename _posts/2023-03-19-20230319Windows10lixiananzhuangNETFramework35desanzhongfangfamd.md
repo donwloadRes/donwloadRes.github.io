@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 离线安装 .NET Framework 3.5 的三种方法"
+title: "Windows 10 离线安装 NET Framework 35 的三种方法"
 date:   2023-04-26
 tags: [Windows,NET,Framework,3.5,离线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS使用记录之E类功放设计基于CGH40010F（上篇）"
+title: "ADS使用记录之E类功放设计基于CGH40010F上篇"
 date:   2020-03-19
 tags: [功放,仿真,设计,资源,ADS]
 comments: true

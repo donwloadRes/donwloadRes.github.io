@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 控制电脑USB摄像头"
+title: "C Winform 控制电脑USB摄像头"
 date:   2020-05-27
 tags: [摄像头,USB,程序,C#,控制]
 comments: true

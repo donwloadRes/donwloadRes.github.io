@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件架构基础：英文原版资源下载"
+title: "软件架构基础英文原版资源下载"
 date:   2022-10-16
 tags: [架构,软件架构,英文原版,指南,模式]
 comments: true

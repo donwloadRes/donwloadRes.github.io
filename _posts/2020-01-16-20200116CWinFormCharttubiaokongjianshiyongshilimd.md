@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Chart 图表控件使用示例"
+title: "C WinForm Chart 图表控件使用示例"
 date:   2024-02-16
 tags: [图表,示例,控件,WinForm,C#]
 comments: true

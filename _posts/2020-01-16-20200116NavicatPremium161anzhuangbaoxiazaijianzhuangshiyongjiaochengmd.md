@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 16.1 安装包下载及安装使用教程"
+title: "Navicat Premium 161 安装包下载及安装使用教程"
 date:   2023-01-02
 tags: [Navicat,Premium,16.1,教程,安装包]
 comments: true

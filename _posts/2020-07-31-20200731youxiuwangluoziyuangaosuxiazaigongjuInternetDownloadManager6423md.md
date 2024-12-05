@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "优秀网络资源高速下载工具 - Internet Download Manager 6.42.3"
+title: "优秀网络资源高速下载工具  Internet Download Manager 6423"
 date:   2023-04-07
 tags: [下载,IDM,网络资源,浏览器,下载速度]
 comments: true

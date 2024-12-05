@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用C#绘制实时曲线图资源文件介绍"
+title: "用C绘制实时曲线图资源文件介绍"
 date:   2024-11-16
 tags: [曲线图,C#,绘制,实时,文件]
 comments: true

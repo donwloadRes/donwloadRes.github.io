@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Flash 许可证生成工具"
+title: "JFlash 许可证生成工具"
 date:   2022-02-28
 tags: [Flash,许可证,工具,生成,文件]
 comments: true

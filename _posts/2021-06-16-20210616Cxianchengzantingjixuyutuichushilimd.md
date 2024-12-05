@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 线程暂停、继续与退出示例"
+title: "C 线程暂停继续与退出示例"
 date:   2023-06-09
 tags: [线程,暂停,示例,C++,Visual]
 comments: true

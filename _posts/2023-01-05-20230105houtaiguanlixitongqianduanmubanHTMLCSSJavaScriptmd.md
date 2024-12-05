@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "后台管理系统前端模板（HTML + CSS + JavaScript）"
+title: "后台管理系统前端模板HTML  CSS  JavaScript"
 date:   2024-03-07
 tags: [模板,JavaScript,管理系统,后台,HTML]
 comments: true

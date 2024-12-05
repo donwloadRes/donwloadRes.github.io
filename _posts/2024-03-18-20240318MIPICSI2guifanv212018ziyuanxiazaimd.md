@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 规范 v2.1 (2018) 资源下载"
+title: "MIPI CSI2 规范 v21 2018 资源下载"
 date:   2022-08-22
 tags: [文档,MIPI,CSI,2018,规范]
 comments: true

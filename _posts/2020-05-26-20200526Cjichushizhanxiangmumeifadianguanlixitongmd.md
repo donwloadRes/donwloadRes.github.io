@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基础实战项目：美发店管理系统"
+title: "C基础实战项目美发店管理系统"
 date:   2024-03-26
 tags: [C++,美发店,管理系统,项目,代码]
 comments: true

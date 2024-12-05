@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 安装 numpy+mkl 资源文件介绍"
+title: "Windows 安装 numpymkl 资源文件介绍"
 date:   2021-04-06
 tags: [numpy,mkl,安装,Windows,Python]
 comments: true

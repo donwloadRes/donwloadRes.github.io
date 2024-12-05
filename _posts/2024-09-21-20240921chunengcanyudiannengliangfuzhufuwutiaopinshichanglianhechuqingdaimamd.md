@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "储能参与电能量-辅助服务调频市场联合出清代码"
+title: "储能参与电能量辅助服务调频市场联合出清代码"
 date:   2023-02-18
 tags: [代码,储能,调频,Matlab,市场]
 comments: true

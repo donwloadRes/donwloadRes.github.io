@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIFI 7 IEEE 802.11BE 标准文档下载"
+title: "WIFI 7 IEEE 80211BE 标准文档下载"
 date:   2023-05-04
 tags: [WIFI,文档,IEEE,802.11,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISAPI 开发手册(海康球形摄像机)"
+title: "ISAPI 开发手册海康球形摄像机"
 date:   2021-10-09
 tags: [ISAPI,开发,海康,摄像机,球形]
 comments: true

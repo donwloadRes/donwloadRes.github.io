@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用TensorRT C++部署YOLOv10实现GPU加速 - C++源码与模型"
+title: "使用TensorRT C部署YOLOv10实现GPU加速  C源码与模型"
 date:   2021-11-24
 tags: [TensorRT,YOLOv10,模型,推理,源码]
 comments: true

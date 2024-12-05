@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "晶晨固件解包工具AMlogic Tools 7.1.0"
+title: "晶晨固件解包工具AMlogic Tools 710"
 date:   2020-01-23
 tags: [固件,解包,img,工具,修改]
 comments: true

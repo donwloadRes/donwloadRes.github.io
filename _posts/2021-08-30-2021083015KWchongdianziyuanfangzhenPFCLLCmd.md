@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15KW充电资源仿真（PFC_LLC）"
+title: "15KW充电资源仿真PFCLLC"
 date:   2024-08-16
 tags: [仿真,LLC,后级,PFC,输出]
 comments: true

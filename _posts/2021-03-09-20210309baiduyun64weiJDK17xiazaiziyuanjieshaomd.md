@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度云 64位 JDK 1.7 下载资源介绍"
+title: "百度云 64位 JDK 17 下载资源介绍"
 date:   2021-12-23
 tags: [JDK,Java,64,1.7,下载]
 comments: true

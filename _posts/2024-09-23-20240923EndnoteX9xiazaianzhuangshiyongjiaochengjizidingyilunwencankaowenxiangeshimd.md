@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Endnote X9下载、安装、使用教程及自定义论文参考文献格式"
+title: "Endnote X9下载安装使用教程及自定义论文参考文献格式"
 date:   2020-02-22
 tags: [Endnote,安装,X9,参考文献,自定义]
 comments: true

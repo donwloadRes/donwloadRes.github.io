@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "glaux.h glaux.lib glaux.dll 下载与安装指南"
+title: "glauxh glauxlib glauxdll 下载与安装指南"
 date:   2022-10-05
 tags: [glaux,lib,dll,路径,安装]
 comments: true

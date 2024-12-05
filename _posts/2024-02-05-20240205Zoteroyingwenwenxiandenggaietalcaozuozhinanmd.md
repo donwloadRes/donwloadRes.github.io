@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero英文文献“等”改“et al”操作指南"
+title: "Zotero英文文献等改et al操作指南"
 date:   2020-12-24
 tags: [Zotero,文献,样式,引用,英文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 3D模型加载器（修改版）"
+title: "Threejs 3D模型加载器修改版"
 date:   2022-11-25
 tags: [Three,加载,js,3D,真机]
 comments: true

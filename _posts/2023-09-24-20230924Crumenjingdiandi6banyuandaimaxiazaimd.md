@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典第6版源代码下载"
+title: "C入门经典第6版源代码下载"
 date:   2024-11-07
 tags: [源代码,C#,下载,入门,编程]
 comments: true

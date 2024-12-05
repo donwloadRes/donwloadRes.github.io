@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌计组运算器设计(HUST) 1-11关实验答案"
+title: "头歌计组运算器设计HUST 111关实验答案"
 date:   2020-06-26
 tags: [设计,加法器,乘法器,乘法,运算]
 comments: true

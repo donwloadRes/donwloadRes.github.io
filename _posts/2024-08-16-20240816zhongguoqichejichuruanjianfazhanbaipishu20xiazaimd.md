@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国汽车基础软件发展白皮书 2.0 下载"
+title: "中国汽车基础软件发展白皮书 20 下载"
 date:   2023-12-26
 tags: [白皮书,2.0,软件,pdf,下载]
 comments: true

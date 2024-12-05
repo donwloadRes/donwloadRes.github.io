@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMT 6.0.0 安装包资源文件"
+title: "GMT 600 安装包资源文件"
 date:   2020-04-07
 tags: [exe,安装包,安装,GMT,Ghostscript]
 comments: true

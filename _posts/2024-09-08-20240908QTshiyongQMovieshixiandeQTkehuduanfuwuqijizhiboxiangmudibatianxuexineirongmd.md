@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 使用QMovie实现的QT客户端服务器及直播项目——第八天学习内容"
+title: "QT 使用QMovie实现的QT客户端服务器及直播项目第八天学习内容"
 date:   2020-12-31
 tags: [QMovie,QT,客户端,服务器,Qt]
 comments: true

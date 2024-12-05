@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC编译环境配置指南（VSCode）"
+title: "GCC编译环境配置指南VSCode"
 date:   2023-09-12
 tags: [GCC,VSCode,配置,编译,C++]
 comments: true

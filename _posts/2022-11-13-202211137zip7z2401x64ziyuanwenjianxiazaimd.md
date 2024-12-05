@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7zip(7z2401-x64) 资源文件下载"
+title: "7zip7z2401x64 资源文件下载"
 date:   2024-11-19
 tags: [x64,7zip,7z2401,文件,下载]
 comments: true

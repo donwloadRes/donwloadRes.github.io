@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "路由器4G拨号资料（支持移远EC20、EC25、AG35等）"
+title: "路由器4G拨号资料支持移远EC20EC25AG35等"
 date:   2023-04-25
 tags: [路由器,4G,拨号,资料,移远]
 comments: true

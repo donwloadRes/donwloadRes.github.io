@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医保卡、社保卡读卡器T6&D6&Z90&Z9-SDK-201902开发包"
+title: "医保卡社保卡读卡器T6D6Z90Z9SDK201902开发包"
 date:   2023-03-25
 tags: [读卡器,SDK,社保卡,开发包,医保卡]
 comments: true

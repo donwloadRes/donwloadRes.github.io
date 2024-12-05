@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL+Bootstrap 美食主题博客项目"
+title: "PHPMySQLBootstrap 美食主题博客项目"
 date:   2020-08-28
 tags: [美食,用户,项目,PHP,MySQL]
 comments: true

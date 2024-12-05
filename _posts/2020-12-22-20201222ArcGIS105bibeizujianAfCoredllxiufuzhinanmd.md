@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ArcGIS 10.5 必备组件】AfCore.dll修复指南"
+title: "ArcGIS 105 必备组件AfCoredll修复指南"
 date:   2023-07-23
 tags: [AfCore,dll,ArcGIS,10.5,文件]
 comments: true

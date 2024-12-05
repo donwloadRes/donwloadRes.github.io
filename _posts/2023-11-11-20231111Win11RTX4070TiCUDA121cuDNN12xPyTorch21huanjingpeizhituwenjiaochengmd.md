@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11 + RTX 4070Ti + CUDA 12.1 + cuDNN 12.x + PyTorch 2.1 环境配置（图文教程）"
+title: "Win11  RTX 4070Ti  CUDA 121  cuDNN 12x  PyTorch 21 环境配置图文教程"
 date:   2022-08-15
 tags: [教程,CUDA,12.1,cuDNN,12]
 comments: true

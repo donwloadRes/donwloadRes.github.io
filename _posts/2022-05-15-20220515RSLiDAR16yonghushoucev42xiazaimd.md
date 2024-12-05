@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS-LiDAR-16用户手册v4.2 下载"
+title: "RSLiDAR16用户手册v42 下载"
 date:   2023-12-07
 tags: [16,激光雷达,RS,LiDAR,用户手册]
 comments: true

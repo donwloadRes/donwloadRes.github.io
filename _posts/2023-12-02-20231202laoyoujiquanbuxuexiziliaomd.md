@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老友记》全部学习资料"
+title: "老友记全部学习资料"
 date:   2024-05-09
 tags: [老友记,学习,英语,听力,资源]
 comments: true

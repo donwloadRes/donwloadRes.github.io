@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32使用ST-Link下载器指南及故障排除"
+title: "STM32使用STLink下载器指南及故障排除"
 date:   2024-06-20
 tags: [ST,Link,STM32,下载,SWD]
 comments: true

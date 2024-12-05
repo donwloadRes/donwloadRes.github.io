@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享AutoCAD 2025百度云资源：安装包+教程+详细步骤下载"
+title: "分享AutoCAD 2025百度云资源安装包教程详细步骤下载"
 date:   2023-03-03
 tags: [AutoCAD,2025,安装,教程,安装包]
 comments: true

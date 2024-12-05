@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫：爬取2023中国软科大学排行榜"
+title: "Python爬虫爬取2023中国软科大学排行榜"
 date:   2023-01-18
 tags: [Python,爬取,爬虫,2023,软科]
 comments: true

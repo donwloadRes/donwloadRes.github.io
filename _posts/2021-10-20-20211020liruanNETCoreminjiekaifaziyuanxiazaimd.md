@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "力软.NET Core 敏捷开发资源下载"
+title: "力软NET Core 敏捷开发资源下载"
 date:   2022-07-28
 tags: [力软,NET,Core,资源,下载]
 comments: true

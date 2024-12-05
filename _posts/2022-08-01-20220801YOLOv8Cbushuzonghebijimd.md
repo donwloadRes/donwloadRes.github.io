@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8 C++部署综合笔记"
+title: "YOLOv8 C部署综合笔记"
 date:   2021-06-10
 tags: [YOLOv8,C++,模型,ONNX,笔记]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cartographer激光雷达建图与定位实战 - Livox Mid-360集成指南"
+title: "Cartographer激光雷达建图与定位实战  Livox Mid360集成指南"
 date:   2023-05-05
 tags: [Cartographer,Livox,360,launch,Mid]
 comments: true

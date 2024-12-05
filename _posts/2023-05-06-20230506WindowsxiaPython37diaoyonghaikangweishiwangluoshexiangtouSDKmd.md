@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下Python 3.7调用海康威视网络摄像头SDK"
+title: "Windows下Python 37调用海康威视网络摄像头SDK"
 date:   2021-04-04
 tags: [SDK,威视,海康,Windows,Python]
 comments: true

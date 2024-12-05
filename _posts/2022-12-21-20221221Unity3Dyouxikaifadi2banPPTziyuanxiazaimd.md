@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 3D游戏开发（第2版）PPT资源下载"
+title: "Unity 3D游戏开发第2版PPT资源下载"
 date:   2022-07-09
 tags: [PPT,Unity,3D,游戏,zip]
 comments: true

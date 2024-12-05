@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 断开重连及循环接收数据"
+title: "C Socket 断开重连及循环接收数据"
 date:   2020-05-04
 tags: [接收数据,断开,Socket,连接,代码]
 comments: true

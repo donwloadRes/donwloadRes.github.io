@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据技术之数据安全与网络安全——CMS靶场(文章管理系统)实训"
+title: "大数据技术之数据安全与网络安全CMS靶场文章管理系统实训"
 date:   2021-05-09
 tags: [CMS,数据安全,实训,网络安全,实战]
 comments: true

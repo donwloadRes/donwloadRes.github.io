@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "布谷鸟算法源代码（带注释）"
+title: "布谷鸟算法源代码带注释"
 date:   2021-10-12
 tags: [算法,布谷鸟,源代码,适应度,优化]
 comments: true

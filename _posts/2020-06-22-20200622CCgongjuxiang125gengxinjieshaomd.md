@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱1.2.5更新介绍"
+title: "CC工具箱125更新介绍"
 date:   2022-05-09
 tags: [CC,工具箱,1.2,工具,更新]
 comments: true

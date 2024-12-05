@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据期末课设：基于Spark的气象数据处理与分析"
+title: "大数据期末课设基于Spark的气象数据处理与分析"
 date:   2021-10-27
 tags: [Spark,文档,数据处理,数据,分析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB图论工具箱（Graph Theory Toolbox）"
+title: "MATLAB图论工具箱Graph Theory Toolbox"
 date:   2020-05-21
 tags: [工具箱,MATLAB,图论,导入,文件]
 comments: true

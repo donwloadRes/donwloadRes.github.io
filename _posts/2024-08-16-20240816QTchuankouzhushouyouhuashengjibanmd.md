@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【QT】串口助手 - 优化升级版"
+title: "QT串口助手  优化升级版"
 date:   2021-10-07
 tags: [串口,QT,QT5,优化,助手]
 comments: true

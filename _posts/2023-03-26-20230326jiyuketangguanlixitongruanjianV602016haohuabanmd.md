@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "极域课堂管理系统软件V6.0 2016 豪华版"
+title: "极域课堂管理系统软件V60 2016 豪华版"
 date:   2023-09-27
 tags: [安装,屏幕,学生,极域,录制]
 comments: true

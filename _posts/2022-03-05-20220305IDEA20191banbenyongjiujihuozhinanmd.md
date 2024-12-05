@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 2019.1版本 永久激活指南"
+title: "IDEA 20191版本 永久激活指南"
 date:   2024-05-22
 tags: [激活,IDEA,激活码,jar,2019.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析（第五版）部分上机实习题报告和源代码"
+title: "数值分析第五版部分上机实习题报告和源代码"
 date:   2022-01-12
 tags: [源代码,题目,报告,数值,Chapter]
 comments: true

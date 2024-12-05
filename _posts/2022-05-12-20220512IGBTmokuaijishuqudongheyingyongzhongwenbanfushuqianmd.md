@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IGBT模块技术驱动和应用（中文版）（附书签）"
+title: "IGBT模块技术驱动和应用中文版附书签"
 date:   2023-08-02
 tags: [IGBT,驱动,书签,模块,技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EndNote导入参考文献及国标（Chinese standard）"
+title: "EndNote导入参考文献及国标Chinese standard"
 date:   2020-07-25
 tags: [参考文献,EndNote,样式,文件,格式]
 comments: true

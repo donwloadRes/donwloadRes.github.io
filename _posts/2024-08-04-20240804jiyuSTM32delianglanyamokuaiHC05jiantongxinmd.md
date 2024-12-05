@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的两蓝牙模块（HC-05）间通信"
+title: "基于STM32的两蓝牙模块HC05间通信"
 date:   2023-07-19
 tags: [STM32,HC,05,模块,蓝牙]
 comments: true

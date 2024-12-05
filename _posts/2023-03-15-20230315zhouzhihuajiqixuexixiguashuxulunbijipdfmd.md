@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周志华机器学习》西瓜书绪论笔记.pdf"
+title: "周志华机器学习西瓜书绪论笔记pdf"
 date:   2023-02-12
 tags: [学习,绪论,机器,笔记,周志华]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 2018.3 中文翻译包"
+title: "IDEA 20183 中文翻译包"
 date:   2021-06-04
 tags: [汉化包,IDEA,2018.3,版本,下载]
 comments: true

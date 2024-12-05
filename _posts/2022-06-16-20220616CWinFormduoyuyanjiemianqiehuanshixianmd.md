@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 多语言界面切换实现"
+title: "C WinForm 多语言界面切换实现"
 date:   2022-04-14
 tags: [语言,XML,切换,文件,界面]
 comments: true

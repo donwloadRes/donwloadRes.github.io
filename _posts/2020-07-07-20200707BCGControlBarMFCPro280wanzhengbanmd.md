@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCGControlBar MFC Pro 28.0 完整版"
+title: "BCGControlBar MFC Pro 280 完整版"
 date:   2022-03-06
 tags: [MFC,控件,安装,BCGControlBar,UI]
 comments: true

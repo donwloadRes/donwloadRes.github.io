@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号／电源完整性仿真分析与实践》资料下载"
+title: "信号电源完整性仿真分析与实践资料下载"
 date:   2023-03-17
 tags: [仿真,下载,资料,书中,完整性]
 comments: true

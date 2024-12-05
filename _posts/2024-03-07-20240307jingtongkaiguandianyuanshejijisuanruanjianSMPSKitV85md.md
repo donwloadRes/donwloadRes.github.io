@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精通开关电源设计计算软件SMPSKitV8.5"
+title: "精通开关电源设计计算软件SMPSKitV85"
 date:   2024-08-29
 tags: [设计,参数,软件,计算,开关电源]
 comments: true

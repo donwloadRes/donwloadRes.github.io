@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA解析GBT32960协议 - 原创示例代码（第一部分）"
+title: "JAVA解析GBT32960协议  原创示例代码第一部分"
 date:   2020-11-05
 tags: [报文,解析,JAVA,示例,GBT32960]
 comments: true

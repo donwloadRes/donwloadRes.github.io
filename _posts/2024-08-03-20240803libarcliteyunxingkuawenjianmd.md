@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libarclite运行库.a文件"
+title: "libarclite运行库a文件"
 date:   2023-02-21
 tags: [libarclite,文件,编译,使用,项目]
 comments: true

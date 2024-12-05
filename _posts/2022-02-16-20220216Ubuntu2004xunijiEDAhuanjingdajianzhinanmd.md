@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu20.04虚拟机EDA环境搭建指南"
+title: "Ubuntu2004虚拟机EDA环境搭建指南"
 date:   2021-11-17
 tags: [虚拟机,EDA,工具,环境,解压]
 comments: true

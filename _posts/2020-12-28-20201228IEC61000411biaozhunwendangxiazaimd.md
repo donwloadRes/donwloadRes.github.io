@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-11 标准文档下载"
+title: "IEC 61000411 标准文档下载"
 date:   2021-01-07
 tags: [IEC,11,61000,Test,文档]
 comments: true

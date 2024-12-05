@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2775QT-RTD2795T 显示驱动芯片规格书"
+title: "RTD2775QTRTD2795T 显示驱动芯片规格书"
 date:   2021-08-19
 tags: [规格书,芯片,RTD2775QT,RTD2795T,驱动]
 comments: true

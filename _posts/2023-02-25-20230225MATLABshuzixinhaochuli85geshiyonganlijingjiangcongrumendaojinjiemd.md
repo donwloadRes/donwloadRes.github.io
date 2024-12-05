@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数字信号处理85个实用案例精讲：从入门到进阶"
+title: "MATLAB数字信号处理85个实用案例精讲从入门到进阶"
 date:   2024-05-22
 tags: [MATLAB,案例,85,进阶,信号处理]
 comments: true

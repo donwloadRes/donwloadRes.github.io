@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Multisim 14.1的八路智力竞赛抢答器资源下载"
+title: "基于Multisim 141的八路智力竞赛抢答器资源下载"
 date:   2023-02-28
 tags: [抢答,抢答器,智力竞赛,电路图,选手]
 comments: true

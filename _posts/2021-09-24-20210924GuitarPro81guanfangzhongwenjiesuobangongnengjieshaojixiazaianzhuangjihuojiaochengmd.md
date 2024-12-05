@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.1 官方中文解锁版功能介绍及下载安装激活教程"
+title: "Guitar Pro 81 官方中文解锁版功能介绍及下载安装激活教程"
 date:   2022-09-29
 tags: [Guitar,Pro,8.1,音乐,解锁]
 comments: true

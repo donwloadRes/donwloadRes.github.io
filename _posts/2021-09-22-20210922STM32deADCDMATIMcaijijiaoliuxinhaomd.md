@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32的ADC+DMA+TIM采集交流信号"
+title: "STM32的ADCDMATIM采集交流信号"
 date:   2023-03-01
 tags: [ADC,STM32,DMA,采集,TIM]
 comments: true

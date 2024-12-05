@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "启明星辰IDS设备-天阗入侵检测与管理系统用户手册"
+title: "启明星辰IDS设备天阗入侵检测与管理系统用户手册"
 date:   2024-05-27
 tags: [天阗,启明星,管理系统,用户手册,本手册]
 comments: true

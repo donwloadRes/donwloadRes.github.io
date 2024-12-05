@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于支持向量机（SVM）的PPT讲解"
+title: "关于支持向量机SVM的PPT讲解"
 date:   2023-08-14
 tags: [SVM,PPT,向量,讲解,学习]
 comments: true

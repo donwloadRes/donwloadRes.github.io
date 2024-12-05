@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三甲医院管理系统HIS（C#版）"
+title: "三甲医院管理系统HISC版"
 date:   2022-12-07
 tags: [NET,Application,管理系统,自动更新,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP试题及答案(515多题整理版)文档介绍"
+title: "CISP试题及答案515多题整理版文档介绍"
 date:   2022-05-29
 tags: [CISP,515,多题,试题,答案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 1.3.8 中文直装版"
+title: "Typora 138 中文直装版"
 date:   2024-05-17
 tags: [装版,Typora,1.3,中文,安装]
 comments: true

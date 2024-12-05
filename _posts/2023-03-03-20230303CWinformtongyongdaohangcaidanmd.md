@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 通用导航菜单"
+title: "C Winform 通用导航菜单"
 date:   2024-01-21
 tags: [菜单,Winform,导航,C#,通用]
 comments: true

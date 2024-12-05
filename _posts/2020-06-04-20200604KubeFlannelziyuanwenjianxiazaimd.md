@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kube-Flannel 资源文件下载"
+title: "KubeFlannel 资源文件下载"
 date:   2021-04-19
 tags: [Flannel,Kubernetes,文件,kube,flannel]
 comments: true

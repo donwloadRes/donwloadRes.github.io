@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "字母哥毕业后端项目介绍方案(SpringBoot版)"
+title: "字母哥毕业后端项目介绍方案SpringBoot版"
 date:   2020-08-03
 tags: [数据库,feature,项目,Spring,git]
 comments: true

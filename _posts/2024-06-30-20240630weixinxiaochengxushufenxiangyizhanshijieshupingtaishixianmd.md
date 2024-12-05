@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序书分享：一站式借书平台实现"
+title: "微信小程序书分享一站式借书平台实现"
 date:   2020-03-10
 tags: [微信,程序,开发者,数据库,借书]
 comments: true

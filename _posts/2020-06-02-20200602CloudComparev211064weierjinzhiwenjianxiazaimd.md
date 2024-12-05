@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CloudCompare v2.11.0 64位二进制文件下载"
+title: "CloudCompare v2110 64位二进制文件下载"
 date:   2022-05-31
 tags: [CloudCompare,文件,v2.11,64,下载]
 comments: true

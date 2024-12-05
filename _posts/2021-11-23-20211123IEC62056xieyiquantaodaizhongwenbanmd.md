@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 62056协议全套(带中文版)"
+title: "IEC 62056协议全套带中文版"
 date:   2023-05-14
 tags: [IEC,62056,文档,协议,中文版]
 comments: true

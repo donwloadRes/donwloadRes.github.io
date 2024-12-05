@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓离线语音识别模块 - lib-share-asr.zip"
+title: "安卓离线语音识别模块  libshareasrzip"
 date:   2021-05-05
 tags: [安卓,语音,离线,识别,模块]
 comments: true

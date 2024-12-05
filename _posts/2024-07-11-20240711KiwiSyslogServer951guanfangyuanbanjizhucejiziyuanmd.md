@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kiwi Syslog Server 9.5.1 官方原版及注册机资源"
+title: "Kiwi Syslog Server 951 官方原版及注册机资源"
 date:   2022-11-03
 tags: [注册机,Kiwi,Syslog,Server,原版]
 comments: true

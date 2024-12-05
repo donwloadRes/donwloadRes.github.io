@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Esxi 6.7.0版本导出虚拟机OVF网络错误问题解决办法"
+title: "Esxi 670版本导出虚拟机OVF网络错误问题解决办法"
 date:   2024-07-30
 tags: [虚拟机,导出,VMware,OVF,ESXi]
 comments: true

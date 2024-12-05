@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法交易、制胜策略与原理"
+title: "算法交易制胜策略与原理"
 date:   2024-04-17
 tags: [算法,交易,策略,制胜,原理]
 comments: true

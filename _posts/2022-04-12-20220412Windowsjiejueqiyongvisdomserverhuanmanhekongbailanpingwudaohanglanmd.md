@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows解决启用visdom.server缓慢和空白蓝屏(无导航栏)"
+title: "Windows解决启用visdomserver缓慢和空白蓝屏无导航栏"
 date:   2021-12-15
 tags: [visdom,server,文件,蓝屏,Windows]
 comments: true

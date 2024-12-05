@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实验四：K-Means聚类"
+title: "机器学习实验四KMeans聚类"
 date:   2022-09-21
 tags: [聚类,Means,算法,实验,可视化]
 comments: true

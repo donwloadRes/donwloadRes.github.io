@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现中值滤波(非medfilt2函数)"
+title: "MATLAB实现中值滤波非medfilt2函数"
 date:   2024-09-23
 tags: [滤波,MATLAB,窗口,函数,图像]
 comments: true

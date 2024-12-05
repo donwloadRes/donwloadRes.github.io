@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码编辑神器——Source Insight 4.0"
+title: "代码编辑神器Source Insight 40"
 date:   2024-02-08
 tags: [代码,自定义,Source,Insight,4.0]
 comments: true

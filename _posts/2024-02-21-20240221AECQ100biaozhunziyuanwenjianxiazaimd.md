@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q100标准资源文件下载"
+title: "AECQ100标准资源文件下载"
 date:   2022-09-24
 tags: [文档,AEC,Q100,标准,下载]
 comments: true

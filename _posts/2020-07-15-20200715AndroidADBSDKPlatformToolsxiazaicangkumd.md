@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android ADB SDK Platform-Tools 下载仓库"
+title: "Android ADB SDK PlatformTools 下载仓库"
 date:   2022-06-09
 tags: [Android,ADB,SDK,调试,设备]
 comments: true

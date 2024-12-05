@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解MATLAB-Simulink通信系统建模与仿真代码及PPT"
+title: "详解MATLABSimulink通信系统建模与仿真代码及PPT"
 date:   2021-05-20
 tags: [MATLAB,PPT,仿真,代码,Simulink]
 comments: true

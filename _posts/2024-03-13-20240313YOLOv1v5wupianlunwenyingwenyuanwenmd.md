@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv1~v5五篇论文英文原文"
+title: "YOLOv1v5五篇论文英文原文"
 date:   2021-02-03
 tags: [论文,YOLOv1,YOLO,算法,检测]
 comments: true

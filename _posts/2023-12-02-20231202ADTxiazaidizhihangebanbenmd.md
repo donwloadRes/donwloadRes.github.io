@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADT下载地址（含各版本）"
+title: "ADT下载地址含各版本"
 date:   2021-04-15
 tags: [ADT,版本,Android,Eclipse,插件]
 comments: true

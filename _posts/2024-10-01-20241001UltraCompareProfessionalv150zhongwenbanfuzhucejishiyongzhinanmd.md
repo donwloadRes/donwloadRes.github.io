@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UltraCompare Professional v15.0中文版(附注册机) 使用指南"
+title: "UltraCompare Professional v150中文版附注册机 使用指南"
 date:   2022-05-18
 tags: [注册机,UltraCompare,激活,中文版,Professional]
 comments: true

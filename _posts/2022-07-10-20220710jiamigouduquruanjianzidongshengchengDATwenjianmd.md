@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "加密狗读取软件 - 自动生成DAT文件"
+title: "加密狗读取软件  自动生成DAT文件"
 date:   2020-06-29
 tags: [加密狗,读取,软件,DAT,文件]
 comments: true

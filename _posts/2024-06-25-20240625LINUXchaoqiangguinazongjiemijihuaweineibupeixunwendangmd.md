@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LINUX超强归纳总结秘籍 [华为内部培训文档]"
+title: "LINUX超强归纳总结秘籍 华为内部培训文档"
 date:   2020-11-26
 tags: [Linux,文档,技巧,秘籍,华为]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车辆动力学及控制（拉贾马尼）资源下载"
+title: "车辆动力学及控制拉贾马尼资源下载"
 date:   2022-11-11
 tags: [车辆,动力学,纵向,控制,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 截屏程序（全屏、区域、窗体）"
+title: "C 截屏程序全屏区域窗体"
 date:   2021-10-02
 tags: [截图,窗体,C#,截屏,全屏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sublime Text 4.0.0 Build 4126 中文绿色特别版"
+title: "Sublime Text 400 Build 4126 中文绿色特别版"
 date:   2022-01-01
 tags: [特别版,编程,代码,Sublime,Text]
 comments: true

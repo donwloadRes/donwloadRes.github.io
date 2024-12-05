@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决 bug: Could not locate zlibwapi.dll 问题"
+title: "解决 bug Could not locate zlibwapidll 问题"
 date:   2021-12-19
 tags: [dll,zlibwapi,文件,解决,目录]
 comments: true

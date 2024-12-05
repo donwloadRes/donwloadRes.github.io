@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "腾讯产品需求文档（PRD）下载"
+title: "腾讯产品需求文档PRD下载"
 date:   2023-03-22
 tags: [文档,腾讯,需求,PRD,下载]
 comments: true

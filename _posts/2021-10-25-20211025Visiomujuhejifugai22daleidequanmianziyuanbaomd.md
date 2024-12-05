@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visio模具合集：覆盖22大类的全面资源包"
+title: "Visio模具合集覆盖22大类的全面资源包"
 date:   2021-10-29
 tags: [Visio,模具,合集,22,大类]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO-World完整代码资源"
+title: "YOLOWorld完整代码资源"
 date:   2023-12-28
 tags: [YOLO,World,训练,模型,脚本]
 comments: true

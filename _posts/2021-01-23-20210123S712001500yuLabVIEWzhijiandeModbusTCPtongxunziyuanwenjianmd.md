@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200,1500与LabVIEW之间的Modbus TCP通讯资源文件"
+title: "S712001500与LabVIEW之间的Modbus TCP通讯资源文件"
 date:   2020-12-10
 tags: [S7,LabVIEW,1200,Modbus,TCP]
 comments: true

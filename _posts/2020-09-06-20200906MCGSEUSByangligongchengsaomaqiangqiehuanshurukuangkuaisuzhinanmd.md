@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCGSE_USB样例工程 - 扫码枪切换输入框快速指南"
+title: "MCGSEUSB样例工程  扫码枪切换输入框快速指南"
 date:   2022-12-28
 tags: [扫码,输入框,工程,样例,输入]
 comments: true

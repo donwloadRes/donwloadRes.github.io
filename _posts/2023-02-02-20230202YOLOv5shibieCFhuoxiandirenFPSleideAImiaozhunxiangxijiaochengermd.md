@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5识别CF火线敌人（FPS类的AI瞄准）详细教程二"
+title: "YOLOv5识别CF火线敌人FPS类的AI瞄准详细教程二"
 date:   2024-04-13
 tags: [教程,YOLOv5,瞄准,代码,实时]
 comments: true

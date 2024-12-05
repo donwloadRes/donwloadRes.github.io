@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偏微分方程经典教材：Lawrence C. Evans偏微分方程》第二版PDF资源"
+title: "偏微分方程经典教材Lawrence C Evans偏微分方程第二版PDF资源"
 date:   2020-01-21
 tags: [微分方程,---,Evans,资源,Lawrence]
 comments: true

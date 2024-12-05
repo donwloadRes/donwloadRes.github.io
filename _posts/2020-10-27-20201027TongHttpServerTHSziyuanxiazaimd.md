@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TongHttpServer（THS）资源下载"
+title: "TongHttpServerTHS资源下载"
 date:   2023-05-23
 tags: [THS,TongHttpServer,tar,解压,维护]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 课后习题解答完整版"
+title: "C Primer 课后习题解答完整版"
 date:   2023-10-05
 tags: [习题,解答,课后,C++,Primer]
 comments: true

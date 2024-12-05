@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX标准-VITA46 介绍"
+title: "VPX标准VITA46 介绍"
 date:   2020-05-31
 tags: [VPX,VITA46,标准,设计,仓库]
 comments: true

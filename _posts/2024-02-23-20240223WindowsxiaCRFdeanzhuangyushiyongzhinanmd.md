@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下CRF++的安装与使用指南"
+title: "Windows下CRF的安装与使用指南"
 date:   2024-03-14
 tags: [CRF,++,模型,Windows,crf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "冒险岛079物品掉落查询器 (GM必备)"
+title: "冒险岛079物品掉落查询器 GM必备"
 date:   2024-11-02
 tags: [冒险岛,查询器,物品,怪物,游戏]
 comments: true

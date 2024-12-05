@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erdas9.2安装常见问题汇总"
+title: "Erdas92安装常见问题汇总"
 date:   2022-09-16
 tags: [安装,Erdas9.2,ERDAS,软件,常见问题]
 comments: true

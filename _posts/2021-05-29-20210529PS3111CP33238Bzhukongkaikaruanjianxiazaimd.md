@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS3111(CP33238B)主控开卡软件下载"
+title: "PS3111CP33238B主控开卡软件下载"
 date:   2022-11-04
 tags: [主控,开卡,PS3111,CP33238B,软件]
 comments: true

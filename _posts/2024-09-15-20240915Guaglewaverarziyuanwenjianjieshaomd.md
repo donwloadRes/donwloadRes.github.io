@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guagle_wave.rar 资源文件介绍"
+title: "Guaglewaverar 资源文件介绍"
 date:   2024-11-05
 tags: [波形,ROM,绘制,文件,Guagle]
 comments: true

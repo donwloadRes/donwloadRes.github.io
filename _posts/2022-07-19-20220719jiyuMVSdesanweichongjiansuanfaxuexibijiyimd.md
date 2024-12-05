@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MVS的三维重建算法学习笔记（一）"
+title: "基于MVS的三维重建算法学习笔记一"
 date:   2023-08-01
 tags: [MVS,OpenMVS,三维重建,重建,笔记]
 comments: true

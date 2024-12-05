@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置指南：Windows下的TensorFlow-GPU 1.13.2"
+title: "深度学习环境配置指南Windows下的TensorFlowGPU 1132"
 date:   2022-03-23
 tags: [TensorFlow,安装,GPU,CUDA,1.13]
 comments: true

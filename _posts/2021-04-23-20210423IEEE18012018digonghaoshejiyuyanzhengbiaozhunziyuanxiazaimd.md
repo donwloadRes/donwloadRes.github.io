@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1801-2018 低功耗设计与验证标准资源下载"
+title: "IEEE 18012018 低功耗设计与验证标准资源下载"
 date:   2021-04-12
 tags: [低功耗,2018,IEEE,1801,验证]
 comments: true

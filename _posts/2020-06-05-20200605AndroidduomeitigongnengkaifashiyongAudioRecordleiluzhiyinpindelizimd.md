@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android多媒体功能开发：使用AudioRecord类录制音频的例子"
+title: "Android多媒体功能开发使用AudioRecord类录制音频的例子"
 date:   2021-12-16
 tags: [音频,Android,录制,AudioRecord,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OWASP安全测试指南第四版（中文版）下载"
+title: "OWASP安全测试指南第四版中文版下载"
 date:   2023-11-13
 tags: [OWASP,安全,指南,测试,第四版]
 comments: true

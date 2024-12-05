@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remote Sensing of Environment期刊投稿模板（Word版）"
+title: "Remote Sensing of Environment期刊投稿模板Word版"
 date:   2020-11-07
 tags: [模板,投稿,期刊,Remote,Sensing]
 comments: true

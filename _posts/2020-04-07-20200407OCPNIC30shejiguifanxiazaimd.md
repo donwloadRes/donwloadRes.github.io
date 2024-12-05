@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCP NIC 3.0 设计规范下载"
+title: "OCP NIC 30 设计规范下载"
 date:   2023-12-21
 tags: [OCP,NIC,3.0,规范,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王昊奋-知识图谱全套视频+代码+课件"
+title: "王昊奋知识图谱全套视频代码课件"
 date:   2023-07-11
 tags: [图谱,知识,课件,王昊奋,代码]
 comments: true

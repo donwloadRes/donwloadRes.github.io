@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安奈特SNMPc7.0内网管理工具下载仓库"
+title: "安奈特SNMPc70内网管理工具下载仓库"
 date:   2021-06-17
 tags: [网络管理,安奈特,SNMPc7.0,内网,管理工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minimal BASH-like line editing is supported 解决方法"
+title: "Minimal BASHlike line editing is supported 解决方法"
 date:   2022-08-18
 tags: [Windows,Ubuntu,efi,分区,Minimal]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 MQTTnet 快速实现 MQTT 通信 Demo"
+title: "C 使用 MQTTnet 快速实现 MQTT 通信 Demo"
 date:   2020-09-22
 tags: [MQTT,Demo,MQTTnet,通信,C#]
 comments: true

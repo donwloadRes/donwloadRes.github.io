@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的电子钟（Proteus仿真+程序）"
+title: "基于STM32单片机的电子钟Proteus仿真程序"
 date:   2023-01-09
 tags: [STM32,单片机,仿真,Proteus,电子钟]
 comments: true

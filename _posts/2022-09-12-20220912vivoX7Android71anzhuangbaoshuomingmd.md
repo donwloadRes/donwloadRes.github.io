@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vivo X7 Android 7.1 安装包说明"
+title: "vivo X7 Android 71 安装包说明"
 date:   2020-07-10
 tags: [安装包,升级,vivo,Android,7.1]
 comments: true

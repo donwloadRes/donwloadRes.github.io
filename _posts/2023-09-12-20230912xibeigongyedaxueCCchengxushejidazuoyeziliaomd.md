@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学C-C++程序设计大作业资料"
+title: "西北工业大学CC程序设计大作业资料"
 date:   2024-09-30
 tags: [作业,示例,学习者,代码,答疑]
 comments: true

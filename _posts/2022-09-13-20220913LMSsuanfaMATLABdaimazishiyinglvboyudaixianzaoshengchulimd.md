@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LMS算法MATLAB代码：自适应滤波与带限噪声处理"
+title: "LMS算法MATLAB代码自适应滤波与带限噪声处理"
 date:   2020-07-10
 tags: [LMS,算法,滤波,MATLAB,噪声]
 comments: true

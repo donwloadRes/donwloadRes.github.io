@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圣诞节特别呈现：HTML+CSS3+JS 3D雪花飘落相册（附背景音乐）"
+title: "圣诞节特别呈现HTMLCSS3JS 3D雪花飘落相册附背景音乐"
 date:   2023-04-18
 tags: [相册,背景音乐,雪花,3D,飘落]
 comments: true

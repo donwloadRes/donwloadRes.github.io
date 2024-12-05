@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iperf-3.1.3-win64 使用指南及资源下载"
+title: "iperf313win64 使用指南及资源下载"
 date:   2020-02-26
 tags: [iperf,3.1,win64,下载,教程]
 comments: true

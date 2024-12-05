@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "万能驱动VIP版(EasyDrv) v7.23.317.2 正式版"
+title: "万能驱动VIP版EasyDrv v7233172 正式版"
 date:   2021-10-06
 tags: [驱动,硬件,VIP,安装,万能]
 comments: true

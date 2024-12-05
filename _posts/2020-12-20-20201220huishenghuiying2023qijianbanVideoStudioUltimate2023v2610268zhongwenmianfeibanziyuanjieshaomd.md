@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "会声会影2023旗舰版VideoStudio Ultimate 2023 v26.1.0.268 中文免费版资源介绍"
+title: "会声会影2023旗舰版VideoStudio Ultimate 2023 v2610268 中文免费版资源介绍"
 date:   2021-07-13
 tags: [视频,2023,会声,会影,编辑]
 comments: true

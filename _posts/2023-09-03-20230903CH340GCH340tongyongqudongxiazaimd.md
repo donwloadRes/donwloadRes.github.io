@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CH340G-CH340 通用驱动下载"
+title: "CH340GCH340 通用驱动下载"
 date:   2022-10-09
 tags: [驱动,CH340,安装,CH340G,64]
 comments: true

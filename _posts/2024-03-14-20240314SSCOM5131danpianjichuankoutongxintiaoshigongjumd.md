@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSCOM 5.13.1 - 单片机串口通信调试工具"
+title: "SSCOM 5131  单片机串口通信调试工具"
 date:   2020-11-04
 tags: [串口,单片机,调试,SSCOM,5.13]
 comments: true

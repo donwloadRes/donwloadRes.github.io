@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM-Cortex-M4内核参考手册"
+title: "ARMCortexM4内核参考手册"
 date:   2020-02-11
 tags: [Cortex,M4,ARM,内核,参考手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFDM仿真(matlab)完整可运行"
+title: "OFDM仿真matlab完整可运行"
 date:   2024-10-03
 tags: [OFDM,仿真,交织,运行,信道]
 comments: true

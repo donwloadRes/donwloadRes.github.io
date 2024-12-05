@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国行政区划数据（含经纬度边界）"
+title: "全国行政区划数据含经纬度边界"
 date:   2021-07-24
 tags: [行政区划,数据,经纬度,边界,地图]
 comments: true

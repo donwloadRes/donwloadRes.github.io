@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础Python入门 - 课件与代码整合包"
+title: "零基础Python入门  课件与代码整合包"
 date:   2020-06-20
 tags: [Python,课件,代码,编程,学习]
 comments: true

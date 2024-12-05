@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPHP 6.0.2 完整下载包介绍"
+title: "ThinkPHP 602 完整下载包介绍"
 date:   2022-04-23
 tags: [ThinkPHP,6.0,Composer,下载,phpstudy]
 comments: true

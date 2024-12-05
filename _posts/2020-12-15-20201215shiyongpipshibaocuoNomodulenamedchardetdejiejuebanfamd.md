@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用pip时报错：No module named ‘chardet‘ 的解决办法"
+title: "使用pip时报错No module named chardet 的解决办法"
 date:   2024-03-31
 tags: [chardet,模块,pip,安装,install]
 comments: true

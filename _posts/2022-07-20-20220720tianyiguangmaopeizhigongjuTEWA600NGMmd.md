@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天邑光猫配置工具TEWA-600NGM"
+title: "天邑光猫配置工具TEWA600NGM"
 date:   2021-11-13
 tags: [TEWA,光猫,600NGM,密码,软件]
 comments: true

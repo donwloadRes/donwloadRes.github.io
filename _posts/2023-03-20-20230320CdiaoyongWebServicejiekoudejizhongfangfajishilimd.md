@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++调用WebService接口的几种方法及实例"
+title: "C调用WebService接口的几种方法及实例"
 date:   2022-06-05
 tags: [WebService,调用,生成,头文件,接口]
 comments: true

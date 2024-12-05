@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP事务代码大全(珍藏版)"
+title: "SAP事务代码大全珍藏版"
 date:   2021-02-15
 tags: [SAP,代码,事务,大全,查找]
 comments: true

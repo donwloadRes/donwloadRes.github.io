@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学PPT（东北大学MOOC课件）"
+title: "离散数学PPT东北大学MOOC课件"
 date:   2022-04-12
 tags: [离散数学,课件,MOOC,东北大学,PPT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源CANopen源代码 - Festival3.0 STM32使用"
+title: "开源CANopen源代码  Festival30 STM32使用"
 date:   2021-07-12
 tags: [STM32,CANopen,源代码,开源,Festival3.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "商品库存管理系统 - Java + SQL 初学者天堂"
+title: "商品库存管理系统  Java  SQL 初学者天堂"
 date:   2024-05-06
 tags: [数据库,Java,MySQL,编程,管理系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "遗传算法+MATLAB实现：原理详解与示例源码"
+title: "遗传算法MATLAB实现原理详解与示例源码"
 date:   2021-12-04
 tags: [遗传算法,MATLAB,示例,算法,代码]
 comments: true

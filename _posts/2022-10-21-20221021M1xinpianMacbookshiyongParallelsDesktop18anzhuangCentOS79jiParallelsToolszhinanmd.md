@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M1芯片Macbook使用Parallels Desktop 18安装CentOS 7.9及Parallels Tools指南"
+title: "M1芯片Macbook使用Parallels Desktop 18安装CentOS 79及Parallels Tools指南"
 date:   2023-03-27
 tags: [Parallels,CentOS,安装,M1,Desktop]
 comments: true

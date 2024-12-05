@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silvaco TCAD（Win版）学习资料"
+title: "Silvaco TCADWin版学习资料"
 date:   2024-08-21
 tags: [Silvaco,TCAD,学习,仿真,资料]
 comments: true

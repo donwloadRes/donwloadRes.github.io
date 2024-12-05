@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学、机器视觉与控制 MATLAB算法基础 资源下载"
+title: "机器人学机器视觉与控制 MATLAB算法基础 资源下载"
 date:   2020-01-22
 tags: [机器人学,MATLAB,视觉,算法,机器]
 comments: true

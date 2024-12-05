@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语义分割模型 DeeplabV3+ 复现代码"
+title: "语义分割模型 DeeplabV3 复现代码"
 date:   2023-08-04
 tags: [模型,语义,代码,DeeplabV3,PyTorch]
 comments: true

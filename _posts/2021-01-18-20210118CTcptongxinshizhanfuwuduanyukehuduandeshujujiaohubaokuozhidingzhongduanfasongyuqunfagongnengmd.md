@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Tcp通信实战：服务端与客户端的数据交互，包括指定终端发送与群发功能"
+title: "C Tcp通信实战服务端与客户端的数据交互包括指定终端发送与群发功能"
 date:   2020-10-08
 tags: [客户端,服务端,C#,群发,TCP]
 comments: true

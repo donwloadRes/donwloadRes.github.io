@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab R2012a-b反复激活无效+license checkout failed解决方案"
+title: "Matlab R2012ab反复激活无效license checkout failed解决方案"
 date:   2020-08-12
 tags: [Matlab,激活,文件,许可证,解决方案]
 comments: true

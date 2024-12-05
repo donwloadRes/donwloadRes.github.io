@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程 (第4版) 学习辅导与习题解析"
+title: "软件工程 第4版 学习辅导与习题解析"
 date:   2022-09-28
 tags: [软件工程,习题,学习,辅导,解析]
 comments: true

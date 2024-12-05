@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# NMODBUS API 中文说明书"
+title: "C NMODBUS API 中文说明书"
 date:   2023-08-27
 tags: [NMODBUS,C#,API,Modbus,说明书]
 comments: true

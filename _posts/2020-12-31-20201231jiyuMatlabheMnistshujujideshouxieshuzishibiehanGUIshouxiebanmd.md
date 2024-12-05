@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab和Mnist数据集的手写数字识别（含GUI手写板）"
+title: "基于Matlab和Mnist数据集的手写数字识别含GUI手写板"
 date:   2023-05-25
 tags: [手写板,Matlab,Mnist,GUI,数字]
 comments: true

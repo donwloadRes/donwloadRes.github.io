@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手 sscom3.2"
+title: "串口调试助手 sscom32"
 date:   2022-01-01
 tags: [串口,发送,调试,选择,数据]
 comments: true

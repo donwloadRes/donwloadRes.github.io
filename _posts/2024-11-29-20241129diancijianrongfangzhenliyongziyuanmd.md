@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁兼容仿真：利用资源"
+title: "电磁兼容仿真利用资源"
 date:   2020-09-29
 tags: [仿真,资源,电磁兼容,优化,屏蔽]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 2018a Simulink生成CCS代码教程+软件+案例"
+title: "MATLAB 2018a Simulink生成CCS代码教程软件案例"
 date:   2020-04-17
 tags: [CCS,教程,MATLAB,案例,软件]
 comments: true

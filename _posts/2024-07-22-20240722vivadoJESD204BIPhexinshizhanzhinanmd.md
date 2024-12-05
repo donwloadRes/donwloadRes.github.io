@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vivado_JESD204B_IP_核心实战指南"
+title: "vivadoJESD204BIP核心实战指南"
 date:   2024-09-24
 tags: [JESD204B,IP,Vivado,仿真,FPGA]
 comments: true

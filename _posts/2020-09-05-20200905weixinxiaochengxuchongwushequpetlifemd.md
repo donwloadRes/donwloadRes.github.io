@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序宠物社区pet-life"
+title: "微信小程序宠物社区petlife"
 date:   2022-02-13
 tags: [宠物,微信,程序,用户,pet]
 comments: true

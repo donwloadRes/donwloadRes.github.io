@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写的HTTP服务器资源文件介绍"
+title: "C编写的HTTP服务器资源文件介绍"
 date:   2024-08-07
 tags: [HTTP,监控,C#,服务器,文件]
 comments: true

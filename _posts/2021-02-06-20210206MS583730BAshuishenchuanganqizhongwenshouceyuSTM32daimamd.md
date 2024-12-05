@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MS5837-30BA水深传感器中文手册与STM32代码"
+title: "MS583730BA水深传感器中文手册与STM32代码"
 date:   2021-09-30
 tags: [MS5837,30BA,STM32,传感器,手册]
 comments: true

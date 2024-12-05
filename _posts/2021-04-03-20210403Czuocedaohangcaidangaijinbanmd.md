@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 左侧导航菜单改进版"
+title: "C 左侧导航菜单改进版"
 date:   2024-08-06
 tags: [菜单,导航,C#,Panel,改进版]
 comments: true

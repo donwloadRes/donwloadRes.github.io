@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云计算概述PPT - 深入理解云计算的五大核心科技"
+title: "云计算概述PPT  深入理解云计算的五大核心科技"
 date:   2023-12-08
 tags: [计算,PPT,概述,五大,深入]
 comments: true

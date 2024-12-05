@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计-员工工资管理系统"
+title: "数据库课程设计员工工资管理系统"
 date:   2021-12-24
 tags: [数据库,薪资,管理系统,员工,员工工资]
 comments: true

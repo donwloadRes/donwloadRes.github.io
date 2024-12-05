@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "航空标准DO-160G资源下载"
+title: "航空标准DO160G资源下载"
 date:   2021-07-01
 tags: [航空,DO,160G,标准,资源]
 comments: true

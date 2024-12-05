@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UartAssist 5.0.9 串口调试助手软件"
+title: "UartAssist 509 串口调试助手软件"
 date:   2020-08-30
 tags: [串口,调试,发送,助手,支持]
 comments: true

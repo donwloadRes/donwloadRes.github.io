@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32移植FreeModbus RTU教程2（FreeModbus的移植）"
+title: "STM32移植FreeModbus RTU教程2FreeModbus的移植"
 date:   2023-11-03
 tags: [FreeModbus,移植,STM32,RTU,教程]
 comments: true

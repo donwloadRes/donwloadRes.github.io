@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机下载与安装指南（附Win10简易安装教程）"
+title: "VMware虚拟机下载与安装指南附Win10简易安装教程"
 date:   2024-09-30
 tags: [VMware,虚拟机,安装,下载,Windows]
 comments: true

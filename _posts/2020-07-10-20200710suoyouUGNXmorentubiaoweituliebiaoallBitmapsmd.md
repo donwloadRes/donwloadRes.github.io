@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "所有UG NX默认图标（位图）列表 - allBitmaps"
+title: "所有UG NX默认图标位图列表  allBitmaps"
 date:   2024-02-17
 tags: [图标,NX,UG,软件,默认]
 comments: true

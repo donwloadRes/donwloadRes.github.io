@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 数学基础：图形和游戏开发资源"
+title: "3D 数学基础图形和游戏开发资源"
 date:   2024-06-17
 tags: [3D,数学,游戏,几何,C++]
 comments: true

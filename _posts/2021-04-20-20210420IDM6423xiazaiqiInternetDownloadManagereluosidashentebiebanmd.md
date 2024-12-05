@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM6.42.3下载器（Internet Download Manager）—— 俄罗斯大神特别版"
+title: "IDM6423下载器Internet Download Manager 俄罗斯大神特别版"
 date:   2023-05-24
 tags: [下载,大神,IDM,使用,安装]
 comments: true

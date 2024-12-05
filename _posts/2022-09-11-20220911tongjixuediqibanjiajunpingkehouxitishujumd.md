@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计学（第七版）贾俊平课后习题数据"
+title: "统计学第七版贾俊平课后习题数据"
 date:   2023-10-17
 tags: [习题,统计学,课后,数据,第七版]
 comments: true

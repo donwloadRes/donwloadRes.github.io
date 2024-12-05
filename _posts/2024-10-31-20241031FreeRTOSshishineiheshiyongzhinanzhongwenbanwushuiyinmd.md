@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS实时内核实用指南(中文版无水印)"
+title: "FreeRTOS实时内核实用指南中文版无水印"
 date:   2021-09-06
 tags: [FreeRTOS,内核,水印,实时,中文版]
 comments: true

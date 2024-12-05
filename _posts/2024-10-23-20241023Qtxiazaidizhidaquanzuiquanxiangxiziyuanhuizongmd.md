@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt下载地址大全 - 最全详细资源汇总"
+title: "Qt下载地址大全  最全详细资源汇总"
 date:   2021-02-24
 tags: [Qt,版本,下载,开发者,资源]
 comments: true

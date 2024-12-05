@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32延迟(休眠)函数delay-sleep资源文件介绍"
+title: "STM32延迟休眠函数delaysleep资源文件介绍"
 date:   2023-01-28
 tags: [延迟,STM32,休眠,函数,低功耗]
 comments: true

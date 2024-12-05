@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA程序设计教程（第7版）英文版》PDF资源介绍"
+title: "JAVA程序设计教程第7版英文版PDF资源介绍"
 date:   2020-05-22
 tags: [Java,JAVA,PDF,英文版,编程]
 comments: true

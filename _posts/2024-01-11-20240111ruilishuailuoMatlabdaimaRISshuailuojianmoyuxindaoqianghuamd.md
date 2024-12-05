@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞利衰落Matlab代码 - RIS衰落建模与信道强化"
+title: "瑞利衰落Matlab代码  RIS衰落建模与信道强化"
 date:   2020-10-23
 tags: [Matlab,RIS,信道,代码,瑞利]
 comments: true

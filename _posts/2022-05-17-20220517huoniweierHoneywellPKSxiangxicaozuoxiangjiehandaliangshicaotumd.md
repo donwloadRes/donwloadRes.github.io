@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "霍尼韦尔(Honeywell PKS)详细操作详解(含大量实操图)"
+title: "霍尼韦尔Honeywell PKS详细操作详解含大量实操图"
 date:   2020-07-01
 tags: [实操,Honeywell,PKS,霍尼韦尔,操作]
 comments: true

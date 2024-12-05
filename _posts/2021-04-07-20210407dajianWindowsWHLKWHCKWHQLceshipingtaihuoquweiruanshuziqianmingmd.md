@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "搭建Windows WHLK-WHCK-WHQL测试平台，获取微软数字签名"
+title: "搭建Windows WHLKWHCKWHQL测试平台获取微软数字签名"
 date:   2024-09-23
 tags: [WHLK,Windows,测试,数字签名,驱动程序]
 comments: true

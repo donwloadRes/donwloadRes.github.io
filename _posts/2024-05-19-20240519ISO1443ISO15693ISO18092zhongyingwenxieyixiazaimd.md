@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO1443+ISO15693+ISO18092 中英文协议下载"
+title: "ISO1443ISO15693ISO18092 中英文协议下载"
 date:   2020-10-20
 tags: [中英文,协议,ISO15693,ISO18092,下载]
 comments: true

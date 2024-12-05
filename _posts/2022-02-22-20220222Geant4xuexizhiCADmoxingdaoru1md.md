@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Geant4学习之CAD模型导入(1)"
+title: "Geant4学习之CAD模型导入1"
 date:   2023-07-08
 tags: [CAD,导入,Geant4,模型,教程]
 comments: true

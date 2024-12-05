@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音频文件分贝数(dB)计算验证配套代码(C语言）"
+title: "音频文件分贝数dB计算验证配套代码C语言"
 date:   2024-04-28
 tags: [分贝,音频文件,音频,代码,C语言]
 comments: true

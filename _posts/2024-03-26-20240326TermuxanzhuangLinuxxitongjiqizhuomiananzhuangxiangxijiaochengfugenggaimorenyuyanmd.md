@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Termux安装Linux系统及其桌面安装详细教程(附更改默认语言)"
+title: "Termux安装Linux系统及其桌面安装详细教程附更改默认语言"
 date:   2023-09-10
 tags: [安装,Linux,Termux,教程,桌面环境]
 comments: true

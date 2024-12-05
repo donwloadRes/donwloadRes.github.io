@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio Code安装教程（超详细）"
+title: "Visual Studio Code安装教程超详细"
 date:   2023-06-20
 tags: [安装,Code,教程,Visual,Studio]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NModbus4测试：实现Modbus TCP主站和从站的读写"
+title: "NModbus4测试实现Modbus TCP主站和从站的读写"
 date:   2024-05-16
 tags: [主站,NModbus4,测试代码,Modbus,TCP]
 comments: true

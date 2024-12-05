@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOLIDWORKS GB型材库(完整版)"
+title: "SOLIDWORKS GB型材库完整版"
 date:   2021-10-29
 tags: [SOLIDWORKS,型材,设计,B型,材库]
 comments: true

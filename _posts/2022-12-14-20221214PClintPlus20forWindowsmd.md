@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC-lint Plus 2.0 for Windows"
+title: "PClint Plus 20 for Windows"
 date:   2021-06-09
 tags: [PC,lint,Plus,C++,编码标准]
 comments: true

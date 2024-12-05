@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗2.1通信协议资源下载"
+title: "北斗21通信协议资源下载"
 date:   2020-03-26
 tags: [通信协议,北斗,2.1,文件,资源]
 comments: true

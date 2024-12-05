@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6的平衡车（避障+蓝牙遥控）资源下载"
+title: "基于STM32F103C8T6的平衡车避障蓝牙遥控资源下载"
 date:   2024-10-15
 tags: [STM32F103C8T6,PCB,蓝牙,平衡,原理图]
 comments: true

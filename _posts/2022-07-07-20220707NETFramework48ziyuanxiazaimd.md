@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.8 资源下载"
+title: "NET Framework 48 资源下载"
 date:   2023-12-23
 tags: [NET,Framework,4.8,安装,下载]
 comments: true

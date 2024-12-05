@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习（Goodfellow, Bengio, 花书）开源版PDF，v5最新版"
+title: "深度学习Goodfellow Bengio 花书开源版PDFv5最新版"
 date:   2024-05-02
 tags: [学习,深度,最新版,Goodfellow,Bengio]
 comments: true

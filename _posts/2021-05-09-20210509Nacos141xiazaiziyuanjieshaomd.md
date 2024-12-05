@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 1.4.1 下载资源介绍"
+title: "Nacos 141 下载资源介绍"
 date:   2020-04-02
 tags: [Nacos,安装包,1.4,下载,Windows]
 comments: true

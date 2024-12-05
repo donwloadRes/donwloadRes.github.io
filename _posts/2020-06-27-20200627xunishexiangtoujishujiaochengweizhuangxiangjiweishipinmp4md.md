@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟摄像头技术教程：伪装相机为视频mp4"
+title: "虚拟摄像头技术教程伪装相机为视频mp4"
 date:   2023-11-25
 tags: [教程,摄像头,视频,虚拟,视频文件]
 comments: true

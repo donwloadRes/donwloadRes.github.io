@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I2C通信协议-I2C总线规范"
+title: "I2C通信协议I2C总线规范"
 date:   2021-04-26
 tags: [I2C,通信协议,总线,文件,资源]
 comments: true

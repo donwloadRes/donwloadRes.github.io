@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车UDS诊断传输协议（新增CAN_FD）"
+title: "汽车UDS诊断传输协议新增CANFD"
 date:   2022-08-04
 tags: [FD,UDS,诊断,汽车,技术]
 comments: true

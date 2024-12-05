@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RM M3508直流无刷减速电机 + C620无刷电机调速器 使用说明V1.0"
+title: "RM M3508直流无刷减速电机  C620无刷电机调速器 使用说明V10"
 date:   2022-11-22
 tags: [电机,C620,调速器,M3508,无刷电机]
 comments: true

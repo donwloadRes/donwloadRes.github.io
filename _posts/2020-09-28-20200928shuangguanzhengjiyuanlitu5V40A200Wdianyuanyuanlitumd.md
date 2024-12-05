@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双管正激原理图_5V_40A_200W电源原理图"
+title: "双管正激原理图5V40A200W电源原理图"
 date:   2020-08-10
 tags: [原理图,电源,正激,5V,40A]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的MetaShape（Photoscan）源代码介绍"
+title: "基于Python的MetaShapePhotoscan源代码介绍"
 date:   2023-06-28
 tags: [MetaShape,Python,源代码,API,代码]
 comments: true

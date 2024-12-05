@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Postman安装失败：.NET Framework安装问题指南"
+title: "解决Postman安装失败NET Framework安装问题指南"
 date:   2021-09-21
 tags: [Postman,安装,NET,Framework,安装包]
 comments: true

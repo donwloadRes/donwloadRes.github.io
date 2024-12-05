@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "体感技术Kinect 2.0开发体感游戏资源文件"
+title: "体感技术Kinect 20开发体感游戏资源文件"
 date:   2022-05-25
 tags: [Kinect,体感,2.0,开发,开发者]
 comments: true

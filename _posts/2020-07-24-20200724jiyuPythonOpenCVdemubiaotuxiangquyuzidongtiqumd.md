@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+OpenCV的目标图像区域自动提取"
+title: "基于PythonOpenCV的目标图像区域自动提取"
 date:   2020-12-11
 tags: [图像,代码,提取,区域,自动检测]
 comments: true

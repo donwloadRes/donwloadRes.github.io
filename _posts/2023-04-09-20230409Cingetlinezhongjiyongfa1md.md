@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cin.getline终极用法1"
+title: "Cingetline终极用法1"
 date:   2022-06-13
 tags: [getline,C++,编程,cin,用法]
 comments: true

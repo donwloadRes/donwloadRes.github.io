@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初学QT（一）：Windows端QT的下载与安装教程（保姆级）"
+title: "初学QT一Windows端QT的下载与安装教程保姆级"
 date:   2022-11-21
 tags: [QT,安装,教程,下载,Windows]
 comments: true

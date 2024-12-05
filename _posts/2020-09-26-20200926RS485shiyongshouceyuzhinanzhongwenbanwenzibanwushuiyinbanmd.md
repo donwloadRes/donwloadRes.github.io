@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS485使用手册与指南[中文版、文字版、无水印版]"
+title: "RS485使用手册与指南中文版文字版无水印版"
 date:   2021-11-14
 tags: [RS,485,RS485,印版,中文版]
 comments: true

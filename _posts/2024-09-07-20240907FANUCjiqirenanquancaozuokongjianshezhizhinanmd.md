@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "FANUC 机器人安全操作空间设置指南"
+title: "FANUC 机器人安全操作空间设置指南
+date   20231006
+tags 机器人安全操作FANUC空间
+comments true
+author admin
+
+
+layout post
+title FANUC 机器人安全操作空间设置指南"
 date:   2023-10-06
 tags: [机器人,安全,操作,FANUC,空间]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "FANUC 机器人安全操作空间设置指南"
+title: "FANUC 机器人安全操作空间设置指南
+date   20231006
+tags 机器人安全操作FANUC空间
+comments true
+author admin
+
+
+layout post
+title FANUC 机器人安全操作空间设置指南"
 date:   2023-09-23
 tags: [机器人,安全,操作,空间,FANUC]
 comments: true

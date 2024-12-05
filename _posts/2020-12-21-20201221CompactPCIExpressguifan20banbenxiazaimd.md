@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CompactPCI® Express 规范 2.0 版本下载"
+title: "CompactPCI Express 规范 20 版本下载"
 date:   2022-08-12
 tags: [CompactPCI,Express,2.0,规范,文件]
 comments: true

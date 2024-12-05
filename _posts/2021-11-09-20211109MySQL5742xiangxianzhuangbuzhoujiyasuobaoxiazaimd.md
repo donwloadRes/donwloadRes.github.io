@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7.42 详细安装步骤及压缩包下载"
+title: "MySQL 5742 详细安装步骤及压缩包下载"
 date:   2021-04-21
 tags: [MySQL,安装,42,5.7,压缩包]
 comments: true

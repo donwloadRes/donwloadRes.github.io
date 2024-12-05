@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5235-2004军用软件配置管理"
+title: "GJB 52352004军用软件配置管理"
 date:   2022-09-19
 tags: [软件配置管理,军用,2004,GJB,5235]
 comments: true

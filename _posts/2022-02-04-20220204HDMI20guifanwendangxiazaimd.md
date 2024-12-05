@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 2.0 规范文档下载"
+title: "HDMI 20 规范文档下载"
 date:   2020-02-16
 tags: [HDMI,文档,2.0,文件,Specification]
 comments: true

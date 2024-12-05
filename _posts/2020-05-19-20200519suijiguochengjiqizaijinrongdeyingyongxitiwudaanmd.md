@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机过程及其在金融的应用》习题五答案"
+title: "随机过程及其在金融的应用习题五答案"
 date:   2022-03-13
 tags: [习题,随机,答案,应用,金融]
 comments: true

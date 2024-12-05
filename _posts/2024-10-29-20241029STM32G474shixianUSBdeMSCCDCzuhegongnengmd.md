@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G474实现USB的MSC+CDC组合功能"
+title: "STM32G474实现USB的MSCCDC组合功能"
 date:   2021-01-22
 tags: [USB,STM32G474,MSC,CDC,代码]
 comments: true

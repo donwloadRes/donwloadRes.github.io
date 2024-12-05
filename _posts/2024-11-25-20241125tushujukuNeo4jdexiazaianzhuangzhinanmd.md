@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图数据库-Neo4j的下载安装指南"
+title: "图数据库Neo4j的下载安装指南"
 date:   2020-04-18
 tags: [Neo4j,数据库,JDK,安装,版本]
 comments: true

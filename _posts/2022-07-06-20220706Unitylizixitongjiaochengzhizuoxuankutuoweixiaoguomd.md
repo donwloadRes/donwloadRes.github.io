@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity粒子系统教程：制作炫酷拖尾效果"
+title: "Unity粒子系统教程制作炫酷拖尾效果"
 date:   2022-12-14
 tags: [Unity,粒子系统,效果,教程,炫酷]
 comments: true

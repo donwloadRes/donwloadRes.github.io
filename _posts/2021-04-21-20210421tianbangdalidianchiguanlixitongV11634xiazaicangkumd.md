@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天邦达锂电池管理系统V1.1.634 下载仓库"
+title: "天邦达锂电池管理系统V11634 下载仓库"
 date:   2022-03-14
 tags: [邦达,V1.1,634,BMS,板件]
 comments: true

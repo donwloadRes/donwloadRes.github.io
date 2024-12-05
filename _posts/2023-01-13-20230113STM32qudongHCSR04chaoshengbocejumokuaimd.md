@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32驱动HC_SR04超声波测距模块"
+title: "STM32驱动HCSR04超声波测距模块"
 date:   2024-04-25
 tags: [高电平,测距,HC,SR04,ECHO]
 comments: true

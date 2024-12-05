@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tcp-Ip入门经典第5版 资源下载"
+title: "TcpIp入门经典第5版 资源下载"
 date:   2024-05-20
 tags: [入门,本书,Tcp,Ip,经典]
 comments: true

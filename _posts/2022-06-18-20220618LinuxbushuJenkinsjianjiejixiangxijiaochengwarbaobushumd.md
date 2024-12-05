@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Linux】部署Jenkins（简介及详细教程【war包部署】）"
+title: "Linux部署Jenkins简介及详细教程war包部署"
 date:   2021-06-18
 tags: [Jenkins,部署,Linux,war,教程]
 comments: true

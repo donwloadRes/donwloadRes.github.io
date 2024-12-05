@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++地铁线路查询系统介绍"
+title: "CC地铁线路查询系统介绍"
 date:   2020-04-09
 tags: [系统,换乘,线路,地铁,查询]
 comments: true

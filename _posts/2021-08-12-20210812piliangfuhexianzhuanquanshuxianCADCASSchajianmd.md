@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "批量复合线转权属线（CAD-CASS插件）"
+title: "批量复合线转权属线CADCASS插件"
 date:   2024-04-22
 tags: [插件,多段,权属,CAD,CASS]
 comments: true

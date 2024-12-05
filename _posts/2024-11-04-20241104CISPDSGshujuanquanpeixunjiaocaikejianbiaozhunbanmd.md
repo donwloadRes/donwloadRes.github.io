@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP-DSG 数据安全培训教材课件标准版"
+title: "CISPDSG 数据安全培训教材课件标准版"
 date:   2024-08-04
 tags: [数据安全,信息安全,知识,CISP,DSG]
 comments: true

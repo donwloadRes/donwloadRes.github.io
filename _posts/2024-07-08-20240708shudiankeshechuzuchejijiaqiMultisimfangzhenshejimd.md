@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-出租车计价器Multisim仿真设计"
+title: "数电课设出租车计价器Multisim仿真设计"
 date:   2024-02-09
 tags: [仿真,Multisim,计价器,设计,出租车]
 comments: true

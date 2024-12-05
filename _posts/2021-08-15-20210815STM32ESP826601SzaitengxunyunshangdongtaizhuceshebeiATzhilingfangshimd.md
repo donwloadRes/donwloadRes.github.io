@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266-01S在腾讯云上动态注册设备(AT指令方式)"
+title: "STM32ESP826601S在腾讯云上动态注册设备AT指令方式"
 date:   2020-12-23
 tags: [设备,STM32,注册,动态,密钥]
 comments: true

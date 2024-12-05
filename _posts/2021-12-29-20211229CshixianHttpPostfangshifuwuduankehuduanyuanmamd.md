@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现Http Post方式 服务端+客户端源码"
+title: "C实现Http Post方式 服务端客户端源码"
 date:   2020-02-28
 tags: [服务端,客户端,端口号,Http,Post]
 comments: true

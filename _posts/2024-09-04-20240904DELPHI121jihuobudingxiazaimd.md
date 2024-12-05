@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELPHI 12.1 激活补丁下载"
+title: "DELPHI 121 激活补丁下载"
 date:   2021-02-12
 tags: [12.1,RADStudio,补丁,DELPHI,激活]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMESIM Simulink联合仿真模型：弹球仿真+PID位置控制"
+title: "AMESIM Simulink联合仿真模型弹球仿真PID位置控制"
 date:   2021-03-26
 tags: [仿真,PID,模型,弹球,Simulink]
 comments: true

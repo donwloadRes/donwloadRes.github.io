@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32获取北斗GPS双模传感器数据+OLED显示"
+title: "STM32获取北斗GPS双模传感器数据OLED显示"
 date:   2023-01-02
 tags: [OLED,传感器,STM32F103C8T6,GPS,双模]
 comments: true

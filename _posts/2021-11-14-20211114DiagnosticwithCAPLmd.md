@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diagnostic_with_CAPL"
+title: "DiagnosticwithCAPL"
 date:   2020-12-05
 tags: [CAPL,诊断,车载,汽车,Diagnostic]
 comments: true

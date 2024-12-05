@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美军标 MIL-STD-810G 资源下载"
+title: "美军标 MILSTD810G 资源下载"
 date:   2021-11-20
 tags: [MIL,STD,810G,标准,下载]
 comments: true

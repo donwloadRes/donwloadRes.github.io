@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IRIS鸢尾花数据集(多种格式)-下载指南"
+title: "IRIS鸢尾花数据集多种格式下载指南"
 date:   2023-04-21
 tags: [鸢尾花,数据,下载,IRIS,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超简单的Java贪吃蛇实现（附源代码）"
+title: "超简单的Java贪吃蛇实现附源代码"
 date:   2023-02-11
 tags: [源代码,Java,贪吃蛇,游戏,java]
 comments: true

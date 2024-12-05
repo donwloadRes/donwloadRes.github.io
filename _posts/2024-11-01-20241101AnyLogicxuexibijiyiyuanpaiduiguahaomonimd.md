@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AnyLogic 学习笔记：医院排队挂号模拟"
+title: "AnyLogic 学习笔记医院排队挂号模拟"
 date:   2020-05-24
 tags: [AnyLogic,挂号,仿真,模拟,学习]
 comments: true

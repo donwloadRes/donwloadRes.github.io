@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式16：STM32+OLED屏显应用实例"
+title: "嵌入式16STM32OLED屏显应用实例"
 date:   2022-01-04
 tags: [STM32,OLED,屏幕,代码,示例]
 comments: true

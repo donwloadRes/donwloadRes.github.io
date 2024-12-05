@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APP自动化测试——Appium环境搭建及基础脚本编写（极其详细）"
+title: "APP自动化测试Appium环境搭建及基础脚本编写极其详细"
 date:   2021-01-12
 tags: [Appium,编写,测试,模拟器,自动化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+JS樱花飘落特效与鼠标点击特效源码"
+title: "HTMLJS樱花飘落特效与鼠标点击特效源码"
 date:   2022-06-19
 tags: [特效,樱花,飘落,html,鼠标]
 comments: true

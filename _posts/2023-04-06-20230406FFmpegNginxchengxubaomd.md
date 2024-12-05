@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg + Nginx 程序包"
+title: "FFmpeg  Nginx 程序包"
 date:   2020-01-18
 tags: [Nginx,程序包,FFmpeg,流媒体,RTSP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓手机投屏工具 scrcpy-win64 使用指南"
+title: "安卓手机投屏工具 scrcpywin64 使用指南"
 date:   2024-08-16
 tags: [scrcpy,安卓,投屏,win64,设备]
 comments: true

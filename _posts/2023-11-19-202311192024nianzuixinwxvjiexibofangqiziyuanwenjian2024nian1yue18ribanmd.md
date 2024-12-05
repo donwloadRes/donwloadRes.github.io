@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最新wxv解析播放器资源文件【2024年1月18日版】"
+title: "2024年最新wxv解析播放器资源文件2024年1月18日版"
 date:   2022-11-16
 tags: [播放器,2024,wxv,18,文件]
 comments: true

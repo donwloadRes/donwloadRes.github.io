@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vim软件安装包（80-586版本）"
+title: "Vim软件安装包80586版本"
 date:   2024-10-14
 tags: [Vim,安装包,80,586,安装]
 comments: true

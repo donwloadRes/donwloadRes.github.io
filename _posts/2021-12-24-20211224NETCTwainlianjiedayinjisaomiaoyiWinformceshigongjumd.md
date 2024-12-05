@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET C# Twain连接打印机扫描仪Winform测试工具"
+title: "NET C Twain连接打印机扫描仪Winform测试工具"
 date:   2022-12-21
 tags: [Twain,连接,扫描仪,打印机,系统]
 comments: true

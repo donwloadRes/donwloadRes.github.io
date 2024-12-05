@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件架构实践（第三版）林巴斯 资源下载"
+title: "软件架构实践第三版林巴斯 资源下载"
 date:   2021-07-23
 tags: [软件架构,巴斯,第三版,实践,下载]
 comments: true

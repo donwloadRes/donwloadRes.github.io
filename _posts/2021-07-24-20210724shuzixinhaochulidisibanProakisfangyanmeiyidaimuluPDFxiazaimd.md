@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理--第四版(Proakis 方艳梅译) 带目录PDF下载"
+title: "数字信号处理第四版Proakis 方艳梅译 带目录PDF下载"
 date:   2023-05-22
 tags: [PDF,信号处理,目录,数字,--]
 comments: true

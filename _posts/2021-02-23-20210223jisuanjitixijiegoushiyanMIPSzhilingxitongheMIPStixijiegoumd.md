@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机体系结构》实验-MIPS指令系统和MIPS体系结构"
+title: "计算机体系结构实验MIPS指令系统和MIPS体系结构"
 date:   2022-01-25
 tags: [MIPS,体系结构,指令系统,实验,计算机]
 comments: true

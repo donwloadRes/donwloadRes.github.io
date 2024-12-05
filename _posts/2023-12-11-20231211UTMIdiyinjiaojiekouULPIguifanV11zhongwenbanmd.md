@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UTMI +低引脚接口（ULPI）规范V1.1(中文版)"
+title: "UTMI 低引脚接口ULPI规范V11中文版"
 date:   2022-09-02
 tags: [ULPI,引脚,中文版,UTMI,V1.1]
 comments: true

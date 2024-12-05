@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川PLC指令指南（通讯部分）"
+title: "汇川PLC指令指南通讯部分"
 date:   2024-09-23
 tags: [PLC,汇川,通讯,指令,指南]
 comments: true

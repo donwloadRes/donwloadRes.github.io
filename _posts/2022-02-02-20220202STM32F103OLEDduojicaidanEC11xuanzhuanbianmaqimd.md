@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103-OLED多级菜单-EC11旋转编码器"
+title: "STM32F103OLED多级菜单EC11旋转编码器"
 date:   2024-10-25
 tags: [编码器,菜单,STM32F103,OLED,EC11]
 comments: true

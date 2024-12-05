@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新能源车充电协议OCPP2.0"
+title: "新能源车充电协议OCPP20"
 date:   2024-09-26
 tags: [充电,OCPP,2.0,协议,新能源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX13487E、MAX13488E芯片中文资料下载"
+title: "MAX13487EMAX13488E芯片中文资料下载"
 date:   2020-09-16
 tags: [芯片,MAX13487E,MAX13488E,下载,资料]
 comments: true

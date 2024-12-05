@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link最新驱动 v6.32 下载仓库"
+title: "JLink最新驱动 v632 下载仓库"
 date:   2020-04-03
 tags: [驱动,v6.32,安装,Link,官方]
 comments: true

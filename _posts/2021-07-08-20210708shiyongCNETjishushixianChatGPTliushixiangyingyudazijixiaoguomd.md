@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C#.NET技术实现ChatGPT流式响应与打字机效果"
+title: "使用CNET技术实现ChatGPT流式响应与打字机效果"
 date:   2024-11-08
 tags: [ChatGPT,流式,NET,C#,打字机]
 comments: true

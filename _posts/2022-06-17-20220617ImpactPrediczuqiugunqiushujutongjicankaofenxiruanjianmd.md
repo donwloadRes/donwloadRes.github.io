@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ImpactPredic - 足球滚球数据统计参考分析软件"
+title: "ImpactPredic  足球滚球数据统计参考分析软件"
 date:   2021-02-19
 tags: [ImpactPredic,软件,数据分析,足球,用户]
 comments: true

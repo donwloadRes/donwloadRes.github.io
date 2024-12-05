@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二十四节气计算——C程序"
+title: "二十四节气计算C程序"
 date:   2024-02-21
 tags: [程序,二十四节气,计算,C语言,com]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISE 14.7 安装包下载"
+title: "ISE 147 安装包下载"
 date:   2021-01-28
 tags: [ISE,14.7,安装包,安装,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF(Misc)工具~stegsolve图片隐写解析器使用指南"
+title: "CTFMisc工具stegsolve图片隐写解析器使用指南"
 date:   2020-03-21
 tags: [stegsolve,隐写,图片,Java,隐藏]
 comments: true

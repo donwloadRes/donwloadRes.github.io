@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screen-Capture-Recorder 升级 DXGI 版本安装包"
+title: "ScreenCaptureRecorder 升级 DXGI 版本安装包"
 date:   2024-03-03
 tags: [安装包,DXGI,screen,capture,Windows]
 comments: true

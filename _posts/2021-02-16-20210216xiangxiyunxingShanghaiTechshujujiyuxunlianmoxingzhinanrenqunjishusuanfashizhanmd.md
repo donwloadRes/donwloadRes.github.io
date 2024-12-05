@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（详细）运行ShanghaiTech数据集预训练模型指南 —— 人群计数算法实战"
+title: "详细运行ShanghaiTech数据集预训练模型指南  人群计数算法实战"
 date:   2024-11-18
 tags: [--,ShanghaiTech,ped2,模型,计数]
 comments: true

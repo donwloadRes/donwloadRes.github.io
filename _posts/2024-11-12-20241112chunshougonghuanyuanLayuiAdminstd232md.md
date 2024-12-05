@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纯手工还原LayuiAdmin std 2.3.2"
+title: "纯手工还原LayuiAdmin std 232"
 date:   2022-08-12
 tags: [LayuiAdmin,https,纯手工,学习,还原]
 comments: true

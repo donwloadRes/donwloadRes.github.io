@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS 14.0 许可证过期及安装问题解决方法"
+title: "ANSYS 140 许可证过期及安装问题解决方法"
 date:   2020-04-11
 tags: [过期,许可证,安装,ANSYS,14.0]
 comments: true

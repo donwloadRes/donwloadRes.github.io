@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全聚焦法：全矩阵捕捉（FMC）的全聚焦法（TFM） - MATLAB实现"
+title: "全聚焦法全矩阵捕捉FMC的全聚焦法TFM  MATLAB实现"
 date:   2022-12-14
 tags: [TFM,domain,函数,FMC,矩阵]
 comments: true

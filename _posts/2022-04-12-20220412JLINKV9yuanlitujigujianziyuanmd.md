@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLINK-V9 原理图及固件资源"
+title: "JLINKV9 原理图及固件资源"
 date:   2021-03-16
 tags: [固件,原理图,JLINK,V9,电路设计]
 comments: true

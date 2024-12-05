@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信多开教程：安装多个微信应用"
+title: "微信多开教程安装多个微信应用"
 date:   2022-10-04
 tags: [微信,多开,管理器,教程,安装包]
 comments: true

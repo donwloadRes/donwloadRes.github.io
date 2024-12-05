@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sscom5.13.1串口调试助手百度云免费下载说明"
+title: "sscom5131串口调试助手百度云免费下载说明"
 date:   2024-11-30
 tags: [串口,调试,通信,SSCOM5.13,下载]
 comments: true

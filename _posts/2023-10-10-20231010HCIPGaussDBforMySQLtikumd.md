@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-GaussDB for MySQL题库"
+title: "HCIPGaussDB for MySQL题库"
 date:   2020-01-15
 tags: [题库,HCIP,GaussDB,MySQL,考试]
 comments: true

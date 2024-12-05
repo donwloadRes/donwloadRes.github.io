@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MMS-Lite中文参考手册下载"
+title: "MMSLite中文参考手册下载"
 date:   2021-11-28
 tags: [MMS,Lite,参考手册,中文,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java排序算法实现：冒泡与选择排序示例代码"
+title: "Java排序算法实现冒泡与选择排序示例代码"
 date:   2022-05-16
 tags: [排序,算法,示例,冒泡排序,Java]
 comments: true

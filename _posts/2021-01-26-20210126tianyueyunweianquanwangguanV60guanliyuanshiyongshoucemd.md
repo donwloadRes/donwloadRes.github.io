@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天玥运维安全网关V6.0 管理员使用手册"
+title: "天玥运维安全网关V60 管理员使用手册"
 date:   2023-06-27
 tags: [运维,网关,天玥,V6.0,管理员]
 comments: true

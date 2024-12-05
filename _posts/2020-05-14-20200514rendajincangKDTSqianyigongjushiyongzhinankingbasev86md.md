@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人大金仓-KDTS迁移工具使用指南_kingbase_v8.6"
+title: "人大金仓KDTS迁移工具使用指南kingbasev86"
 date:   2023-11-23
 tags: [迁移,金仓,KDTS,工具,指南]
 comments: true

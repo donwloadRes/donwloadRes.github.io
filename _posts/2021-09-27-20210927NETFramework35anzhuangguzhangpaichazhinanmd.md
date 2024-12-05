@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 安装故障排查指南"
+title: "NET Framework 35 安装故障排查指南"
 date:   2021-10-27
 tags: [Windows,映像,文件,安装,驱动器]
 comments: true

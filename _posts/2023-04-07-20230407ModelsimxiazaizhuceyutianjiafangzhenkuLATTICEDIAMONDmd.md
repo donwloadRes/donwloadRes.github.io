@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim下载、注册与添加仿真库（LATTICE DIAMOND）"
+title: "Modelsim下载注册与添加仿真库LATTICE DIAMOND"
 date:   2024-04-27
 tags: [Modelsim,仿真,LATTICE,添加,注册]
 comments: true

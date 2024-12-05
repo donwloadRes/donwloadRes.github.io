@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv7-Pose姿态估计代码+权重"
+title: "YOLOv7Pose姿态估计代码权重"
 date:   2021-02-07
 tags: [YOLOv7,Pose,姿态,权重,代码]
 comments: true

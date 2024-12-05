@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.1Qbv 2015 标准资源文件"
+title: "IEEE 8021Qbv 2015 标准资源文件"
 date:   2020-03-15
 tags: [802.1,Qbv,IEEE,流量,标准]
 comments: true

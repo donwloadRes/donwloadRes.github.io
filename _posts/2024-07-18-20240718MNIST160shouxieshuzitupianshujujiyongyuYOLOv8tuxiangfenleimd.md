@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNIST160 手写数字图片数据集 - 用于 YOLOv8 图像分类"
+title: "MNIST160 手写数字图片数据集  用于 YOLOv8 图像分类"
 date:   2024-06-20
 tags: [图像,YOLOv8,手写,MNIST160,数字]
 comments: true

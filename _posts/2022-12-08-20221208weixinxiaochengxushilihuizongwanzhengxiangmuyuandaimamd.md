@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序实例汇总 - 完整项目源代码"
+title: "微信小程序实例汇总  完整项目源代码"
 date:   2023-02-05
 tags: [微信,程序,项目,仓库,源代码]
 comments: true

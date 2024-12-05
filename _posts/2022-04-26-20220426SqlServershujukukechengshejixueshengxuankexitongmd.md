@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SqlServer数据库课程设计-学生选课系统"
+title: "SqlServer数据库课程设计学生选课系统"
 date:   2021-03-31
 tags: [数据库,SQL,Server,学生,触发器]
 comments: true

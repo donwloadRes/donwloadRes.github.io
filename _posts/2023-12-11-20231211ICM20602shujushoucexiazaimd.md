@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICM-20602 数据手册下载"
+title: "ICM20602 数据手册下载"
 date:   2024-07-05
 tags: [ICM,20602,手册,下载,数据]
 comments: true

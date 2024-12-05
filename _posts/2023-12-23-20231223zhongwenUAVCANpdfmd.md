@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文UAVCAN.pdf"
+title: "中文UAVCANpdf"
 date:   2020-06-08
 tags: [UAVCAN,中文,文档,pdf,https]
 comments: true

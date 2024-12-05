@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "88E6320_DB_QFN108_REV2 1.pdf 资源文件下载"
+title: "88E6320DBQFN108REV2 1pdf 资源文件下载"
 date:   2021-01-20
 tags: [88E6320,DB,文件,QFN108,pdf]
 comments: true

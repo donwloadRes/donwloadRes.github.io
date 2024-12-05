@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jdk-8u241-windows-x64 软件包下载说明"
+title: "jdk8u241windowsx64 软件包下载说明"
 date:   2021-10-08
 tags: [Java,8u241,下载,jdk,windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装Docker及Docker-Compose资源文件介绍"
+title: "Linux安装Docker及DockerCompose资源文件介绍"
 date:   2022-03-23
 tags: [Docker,Compose,安装,文件,Linux]
 comments: true

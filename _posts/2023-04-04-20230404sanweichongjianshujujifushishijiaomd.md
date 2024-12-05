@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三维重建数据集(俯视视角)"
+title: "三维重建数据集俯视视角"
 date:   2022-03-30
 tags: [三维重建,数据,俯视,视角,集以]
 comments: true

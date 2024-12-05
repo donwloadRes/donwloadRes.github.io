@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java设计模式（刘伟）资源下载"
+title: "Java设计模式刘伟资源下载"
 date:   2023-12-22
 tags: [设计模式,Java,PDF,文件,下载]
 comments: true

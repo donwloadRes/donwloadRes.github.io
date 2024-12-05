@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++串口通信技术详解"
+title: "Visual C串口通信技术详解"
 date:   2021-08-14
 tags: [串口,Visual,C++,控制,编程]
 comments: true

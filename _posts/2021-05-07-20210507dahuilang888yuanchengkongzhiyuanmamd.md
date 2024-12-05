@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大灰狼8.88远程控制源码"
+title: "大灰狼888远程控制源码"
 date:   2022-07-01
 tags: [源码,远程,大灰狼,8.88,控制]
 comments: true

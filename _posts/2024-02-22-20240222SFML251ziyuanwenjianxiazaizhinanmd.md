@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFML 2.5.1 资源文件下载指南"
+title: "SFML 251 资源文件下载指南"
 date:   2023-02-01
 tags: [64,下载,SFML,C++,32]
 comments: true

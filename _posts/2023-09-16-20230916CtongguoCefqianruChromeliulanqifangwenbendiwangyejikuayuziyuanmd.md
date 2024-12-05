@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过Cef嵌入Chrome浏览器访问本地网页及跨域资源"
+title: "C通过Cef嵌入Chrome浏览器访问本地网页及跨域资源"
 date:   2021-08-19
 tags: [跨域,网页,资源,Chrome,Framework]
 comments: true

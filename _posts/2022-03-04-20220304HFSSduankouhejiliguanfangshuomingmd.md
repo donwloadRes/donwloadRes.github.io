@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS端口和激励(官方说明)"
+title: "HFSS端口和激励官方说明"
 date:   2022-08-27
 tags: [HFSS,ports,端口,Lumped,仿真]
 comments: true

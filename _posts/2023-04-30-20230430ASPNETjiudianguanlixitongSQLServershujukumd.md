@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET 酒店管理系统 - SQL Server 数据库"
+title: "ASPNET 酒店管理系统  SQL Server 数据库"
 date:   2020-07-23
 tags: [ASP,NET,SQL,Server,数据库]
 comments: true

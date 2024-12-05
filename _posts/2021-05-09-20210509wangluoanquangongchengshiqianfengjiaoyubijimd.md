@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全工程师（千峰教育）笔记"
+title: "网络安全工程师千峰教育笔记"
 date:   2023-12-02
 tags: [网络安全,笔记,学习,千峰,课程]
 comments: true

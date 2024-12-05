@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运动控制：双闭环直流控制调速系统设计"
+title: "运动控制双闭环直流控制调速系统设计"
 date:   2020-02-03
 tags: [调节器,设计,转速,仿真,系统]
 comments: true

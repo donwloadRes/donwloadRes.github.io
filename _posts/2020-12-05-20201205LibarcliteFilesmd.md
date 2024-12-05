@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Libarclite-Files"
+title: "LibarcliteFiles"
 date:   2024-08-08
 tags: [Xcode,libarclite,编译,项目,iphonesimulator]
 comments: true

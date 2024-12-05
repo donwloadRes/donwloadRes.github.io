@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验4：MIPS CPU设计"
+title: "计算机组成原理实验4MIPS CPU设计"
 date:   2021-03-31
 tags: [实验,代码,MIPS,CPU,文件]
 comments: true

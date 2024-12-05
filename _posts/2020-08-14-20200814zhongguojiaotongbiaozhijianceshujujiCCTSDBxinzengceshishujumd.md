@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国交通标志检测数据集（CCTSDB）【新增测试数据】"
+title: "中国交通标志检测数据集CCTSDB新增测试数据"
 date:   2024-11-09
 tags: [交通标志,数据,测试数据,检测,CCTSDB]
 comments: true

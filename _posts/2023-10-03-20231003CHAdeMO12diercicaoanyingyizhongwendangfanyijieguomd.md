@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHAdeMO 1.2 第二次草案 - 英译中文档翻译结果"
+title: "CHAdeMO 12 第二次草案  英译中文档翻译结果"
 date:   2021-06-01
 tags: [CHAdeMO,文档,翻译,1.2,电动汽车]
 comments: true

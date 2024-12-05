@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程大作业-日记管理系统资源下载"
+title: "软件工程大作业日记管理系统资源下载"
 date:   2024-08-05
 tags: [软件工程,系统,资源,设计,作业]
 comments: true

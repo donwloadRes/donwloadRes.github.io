@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCI投稿必备：Title page、Highlights及Cover Letter通用模板"
+title: "SCI投稿必备Title pageHighlights及Cover Letter通用模板"
 date:   2023-03-26
 tags: [投稿,模板,Cover,期刊,格式]
 comments: true

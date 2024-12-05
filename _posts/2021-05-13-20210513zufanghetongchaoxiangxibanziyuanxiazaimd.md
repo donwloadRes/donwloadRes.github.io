@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "租房合同（超详细版）资源下载"
+title: "租房合同超详细版资源下载"
 date:   2020-12-11
 tags: [合同,租房,详细,下载,docx]
 comments: true

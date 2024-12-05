@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus Slave 7.0 资源文件下载"
+title: "Modbus Slave 70 资源文件下载"
 date:   2020-08-28
 tags: [Modbus,32,Slave,7.0,下载]
 comments: true

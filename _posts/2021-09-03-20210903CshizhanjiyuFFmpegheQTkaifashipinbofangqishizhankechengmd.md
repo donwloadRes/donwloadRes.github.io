@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实战：基于FFmpeg和QT开发视频播放器实战课程"
+title: "C实战基于FFmpeg和QT开发视频播放器实战课程"
 date:   2021-08-27
 tags: [QT,FFmpeg,播放器,音视频,实战]
 comments: true

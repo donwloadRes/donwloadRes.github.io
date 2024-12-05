@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下运行AlphaPose+yolov5资源文件介绍"
+title: "Windows下运行AlphaPoseyolov5资源文件介绍"
 date:   2020-07-19
 tags: [AlphaPose,Windows,yolov5,https,运行]
 comments: true

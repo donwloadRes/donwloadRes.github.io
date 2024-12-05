@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 12.0 下载资源介绍"
+title: "Halcon 120 下载资源介绍"
 date:   2023-04-10
 tags: [Halcon,12.0,破解补丁,安装包,下载]
 comments: true

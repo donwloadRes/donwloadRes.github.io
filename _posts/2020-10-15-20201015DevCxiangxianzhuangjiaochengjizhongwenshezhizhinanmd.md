@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++详细安装教程及中文设置指南"
+title: "DevC详细安装教程及中文设置指南"
 date:   2023-12-14
 tags: [C++,Dev,安装,中文,设置]
 comments: true

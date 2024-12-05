@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ibaPDA v7.1.7 资源文件下载"
+title: "ibaPDA v717 资源文件下载"
 date:   2020-12-18
 tags: [ibaPDA,v7.1,采集,下载,维护]
 comments: true

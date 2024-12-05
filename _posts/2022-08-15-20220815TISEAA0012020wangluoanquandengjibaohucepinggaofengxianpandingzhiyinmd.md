@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T-ISEAA 001-2020 网络安全等级保护测评高风险判定指引"
+title: "TISEAA 0012020 网络安全等级保护测评高风险判定指引"
 date:   2023-11-01
 tags: [测评,高风险,判定,网络安全,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "架构整洁之道》读书笔记下载"
+title: "架构整洁之道读书笔记下载"
 date:   2024-06-08
 tags: [读书笔记,整洁,架构,之道,软件开发]
 comments: true

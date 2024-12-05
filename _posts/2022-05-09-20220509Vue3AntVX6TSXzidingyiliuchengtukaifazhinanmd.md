@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 + AntV X6 + TSX 自定义流程图开发指南"
+title: "Vue3  AntV X6  TSX 自定义流程图开发指南"
 date:   2021-12-31
 tags: [流程图,Vue3,AntV,X6,TypeScript]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【QT】通过配置.pro封装动态链接库（dll）的简单实现"
+title: "QT通过配置pro封装动态链接库dll的简单实现"
 date:   2020-10-26
 tags: [动态链接库,QT,pro,封装,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012 R2 .NET Framework 3.5 安装包"
+title: "Windows Server 2012 R2 NET Framework 35 安装包"
 date:   2020-09-22
 tags: [Windows,Server,2012,R2,NET]
 comments: true

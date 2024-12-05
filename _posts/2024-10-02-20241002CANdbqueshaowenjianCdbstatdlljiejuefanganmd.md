@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANdb++ 缺少文件 Cdbstat.dll 解决方案"
+title: "CANdb 缺少文件 Cdbstatdll 解决方案"
 date:   2021-05-11
 tags: [Cdbstat,dll,CANdb,文件,++]
 comments: true

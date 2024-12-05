@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS分析用户手册 卷4——单元卷"
+title: "ABAQUS分析用户手册 卷4单元卷"
 date:   2023-02-05
 tags: [ABAQUS,单元,用户手册,软件,分析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO14229 UDS中文翻译版-542页-无水印.pdf"
+title: "ISO14229 UDS中文翻译版542页无水印pdf"
 date:   2022-01-04
 tags: [中文翻译,UDS,ISO14229,水印,文件]
 comments: true

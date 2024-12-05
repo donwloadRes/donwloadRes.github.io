@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像超分——Real-ESRGAN快速上手"
+title: "图像超分RealESRGAN快速上手"
 date:   2024-05-05
 tags: [图像,Real,ESRGAN,超分,分辨率]
 comments: true

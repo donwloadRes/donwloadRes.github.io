@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性分析及设计-高速电路设计"
+title: "信号完整性分析及设计高速电路设计"
 date:   2020-02-05
 tags: [电路设计,完整性,信号,设计,高速]
 comments: true

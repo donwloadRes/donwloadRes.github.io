@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10-11家庭版无本地组策略编辑器解决方法"
+title: "Windows 1011家庭版无本地组策略编辑器解决方法"
 date:   2024-07-15
 tags: [gpedit,bat,Windows,家庭版,组策略]
 comments: true

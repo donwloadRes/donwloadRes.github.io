@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计-订餐系统（PowerBuilder+SQL Server）"
+title: "数据库课程设计订餐系统PowerBuilderSQL Server"
 date:   2022-05-03
 tags: [PowerBuilder,your,SQL,Server,git]
 comments: true

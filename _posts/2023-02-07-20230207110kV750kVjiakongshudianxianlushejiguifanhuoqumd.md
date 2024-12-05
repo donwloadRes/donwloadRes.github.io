@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "110kV～750kV架空输电线路设计规范获取"
+title: "110kV750kV架空输电线路设计规范获取"
 date:   2020-10-26
 tags: [输电,架空,110kV,750kV,线路]
 comments: true

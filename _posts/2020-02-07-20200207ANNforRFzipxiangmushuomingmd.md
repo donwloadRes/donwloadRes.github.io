@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANNforRF.zip 项目说明"
+title: "ANNforRFzip 项目说明"
 date:   2023-01-24
 tags: [神经网络,功放,非线性,ANNforRF,zip]
 comments: true

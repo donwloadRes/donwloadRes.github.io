@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亚洲人脸数据库 CASIA-FaceV5"
+title: "亚洲人脸数据库 CASIAFaceV5"
 date:   2024-02-19
 tags: [人脸识别,数据库,人脸,CASIA,FaceV5]
 comments: true

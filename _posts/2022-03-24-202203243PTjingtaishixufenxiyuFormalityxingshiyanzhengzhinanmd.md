@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3-PT 静态时序分析与 Formality 形式验证指南"
+title: "3PT 静态时序分析与 Formality 形式验证指南"
 date:   2021-12-24
 tags: [时序,验证,指南,静态,Formality]
 comments: true

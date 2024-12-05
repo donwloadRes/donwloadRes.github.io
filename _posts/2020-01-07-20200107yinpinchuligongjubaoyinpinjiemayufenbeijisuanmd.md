@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音频处理工具包: 音频解码与分贝计算"
+title: "音频处理工具包 音频解码与分贝计算"
 date:   2021-07-13
 tags: [音频,解码,分贝,音频文件,格式]
 comments: true

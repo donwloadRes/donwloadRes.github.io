@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus 消息实现指南 V1.0b 下载"
+title: "Modbus 消息实现指南 V10b 下载"
 date:   2020-03-09
 tags: [Modbus,文件,指南,Messaging,Implementation]
 comments: true

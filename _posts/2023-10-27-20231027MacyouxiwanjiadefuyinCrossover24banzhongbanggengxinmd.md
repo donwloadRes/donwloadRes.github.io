@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac游戏玩家的福音：Crossover 24版重磅更新"
+title: "Mac游戏玩家的福音Crossover 24版重磅更新"
 date:   2023-11-22
 tags: [24,Crossover,Mac,游戏,Windows]
 comments: true

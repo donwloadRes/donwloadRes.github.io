@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火鸟7.8 多端资源下载"
+title: "火鸟78 多端资源下载"
 date:   2021-11-14
 tags: [文件,7.8,资源,火鸟,仓库]
 comments: true

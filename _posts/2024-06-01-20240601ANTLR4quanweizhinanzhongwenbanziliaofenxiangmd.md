@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANTLR4权威指南（中文版）资料分享"
+title: "ANTLR4权威指南中文版资料分享"
 date:   2022-07-21
 tags: [ANTLR4,指南,中文版,权威,分享]
 comments: true

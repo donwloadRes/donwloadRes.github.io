@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-HAL库 CubeIDE 代码自动补全功能配置教程"
+title: "STM32HAL库 CubeIDE 代码自动补全功能配置教程"
 date:   2021-10-16
 tags: [补全,插件,STM32CubeIDE,教程,自动]
 comments: true

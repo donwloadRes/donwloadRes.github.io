@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-PD3.1充电最新协议资源下载"
+title: "USBPD31充电最新协议资源下载"
 date:   2023-03-27
 tags: [USB,PD3.1,充电,电源,协议]
 comments: true

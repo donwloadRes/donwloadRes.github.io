@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT4免费白嫖方法 - GPT4 API调用及使用说明"
+title: "GPT4免费白嫖方法  GPT4 API调用及使用说明"
 date:   2024-06-29
 tags: [ChatGPT,GPT4,文档,应用,服务]
 comments: true

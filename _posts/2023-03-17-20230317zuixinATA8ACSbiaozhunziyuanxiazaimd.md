@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新ATA8-ACS标准资源下载"
+title: "最新ATA8ACS标准资源下载"
 date:   2023-07-30
 tags: [ACS,ATA8,ATA,标准,ATAPI]
 comments: true

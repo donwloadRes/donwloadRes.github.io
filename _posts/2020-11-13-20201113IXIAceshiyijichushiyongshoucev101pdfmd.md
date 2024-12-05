@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IXIA测试仪基础使用手册v1.0(1).pdf"
+title: "IXIA测试仪基础使用手册v101pdf"
 date:   2024-03-03
 tags: [IXIA,测试仪,测试,使用手册,v1.0]
 comments: true

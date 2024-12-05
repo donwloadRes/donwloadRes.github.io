@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C++实现的GRPC服务端Demo"
+title: "基于C实现的GRPC服务端Demo"
 date:   2020-07-01
 tags: [GRPC,服务端,C++,Demo,编译器]
 comments: true

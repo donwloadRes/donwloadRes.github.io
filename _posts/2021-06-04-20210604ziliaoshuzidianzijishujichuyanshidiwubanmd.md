@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【资料】数字电子技术基础》阎石第五版"
+title: "资料数字电子技术基础阎石第五版"
 date:   2022-10-10
 tags: [学习,电子,数字,第五版,阎石]
 comments: true

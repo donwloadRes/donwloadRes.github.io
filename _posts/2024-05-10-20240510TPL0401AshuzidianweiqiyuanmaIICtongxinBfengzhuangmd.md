@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TPL0401A数字电位器源码 (IIC通信) (B封装)"
+title: "TPL0401A数字电位器源码 IIC通信 B封装"
 date:   2022-06-04
 tags: [电位器,源码,IIC,STM32F4,TPL0401A]
 comments: true

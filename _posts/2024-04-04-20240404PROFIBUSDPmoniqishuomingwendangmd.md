@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROFIBUS-DP模拟器说明文档"
+title: "PROFIBUSDP模拟器说明文档"
 date:   2020-02-15
 tags: [PROFIBUS,DP,模拟器,文档,通讯]
 comments: true

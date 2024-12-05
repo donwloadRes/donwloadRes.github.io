@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE-Storage华为存储精英实验手册完整汇总版 V2.0"
+title: "HCIEStorage华为存储精英实验手册完整汇总版 V20"
 date:   2021-04-24
 tags: [HCIE,Storage,手册,华为,2.0]
 comments: true

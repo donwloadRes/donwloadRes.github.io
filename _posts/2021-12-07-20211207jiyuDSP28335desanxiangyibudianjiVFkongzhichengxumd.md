@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DSP28335的三相异步电机V-F控制程序"
+title: "基于DSP28335的三相异步电机VF控制程序"
 date:   2024-07-01
 tags: [DSP28335,调试,三相,电机,TI]
 comments: true

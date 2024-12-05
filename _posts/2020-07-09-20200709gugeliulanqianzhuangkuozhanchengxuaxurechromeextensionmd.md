@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器安装扩展程序axure-chrome-extension"
+title: "谷歌浏览器安装扩展程序axurechromeextension"
 date:   2023-01-09
 tags: [浏览器,扩展,chrome,程序,谷歌]
 comments: true

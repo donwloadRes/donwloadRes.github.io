@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前馈-反馈控制系统的具体分析及其MATLAB_Simulink仿真"
+title: "前馈反馈控制系统的具体分析及其MATLABSimulink仿真"
 date:   2021-01-10
 tags: [Simulink,前馈,MATLAB,控制系统,仿真]
 comments: true

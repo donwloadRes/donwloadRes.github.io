@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGC 4.0.4 稳定版本资源文件"
+title: "QGC 404 稳定版本资源文件"
 date:   2022-09-08
 tags: [编译,文件,QGC,qgc,stab]
 comments: true

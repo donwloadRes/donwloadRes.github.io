@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONVIF2.0协议珍藏版"
+title: "ONVIF20协议珍藏版"
 date:   2020-06-11
 tags: [ONVIF2.0,珍藏版,文件,资源,协议]
 comments: true

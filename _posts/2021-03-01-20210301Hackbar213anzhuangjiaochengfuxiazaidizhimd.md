@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hackbar2.1.3 安装教程（附下载地址）"
+title: "Hackbar213 安装教程附下载地址"
 date:   2023-07-16
 tags: [Hackbar2.1,浏览器,插件,Hackbar,安装]
 comments: true

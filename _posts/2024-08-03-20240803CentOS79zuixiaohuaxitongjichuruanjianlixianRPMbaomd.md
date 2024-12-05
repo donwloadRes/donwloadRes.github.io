@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.9 最小化系统基础软件离线RPM包"
+title: "CentOS 79 最小化系统基础软件离线RPM包"
 date:   2022-05-05
 tags: [RPM,devel,CentOS,7.9,离线]
 comments: true

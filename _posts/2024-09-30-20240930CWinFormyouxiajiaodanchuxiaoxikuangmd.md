@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 右下角弹出消息框"
+title: "C WinForm 右下角弹出消息框"
 date:   2020-01-03
 tags: [源码,关闭,C#,消息,自动]
 comments: true

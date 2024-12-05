@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract最新中文语言包chi-sim.traineddata"
+title: "Tesseract最新中文语言包chisimtraineddata"
 date:   2022-06-03
 tags: [Tesseract,语言包,中文,chi,sim]
 comments: true

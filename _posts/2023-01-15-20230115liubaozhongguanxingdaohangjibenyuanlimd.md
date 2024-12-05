@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刘保中-惯性导航基本原理"
+title: "刘保中惯性导航基本原理"
 date:   2021-11-18
 tags: [惯性导航,刘保中,分享,基本原理,积分]
 comments: true

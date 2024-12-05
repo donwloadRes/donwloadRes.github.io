@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++模拟校园卡项目介绍"
+title: "CC模拟校园卡项目介绍"
 date:   2020-10-30
 tags: [校园卡,上机,C++,模拟,代码]
 comments: true

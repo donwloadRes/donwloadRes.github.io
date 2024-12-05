@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QX完美驱动 V10.6+ 下载仓库"
+title: "QX完美驱动 V106 下载仓库"
 date:   2020-07-07
 tags: [V10.6,QX,驱动,驱动程序,完美]
 comments: true

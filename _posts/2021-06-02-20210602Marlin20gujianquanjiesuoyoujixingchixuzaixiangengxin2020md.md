@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marlin2.0固件全解（所有机型）持续在线更新2020"
+title: "Marlin20固件全解所有机型持续在线更新2020"
 date:   2023-07-10
 tags: [固件,更新,配置文件,Marlin2.0,2020]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 上位机与西门子PLC通讯系统"
+title: "C WPF 上位机与西门子PLC通讯系统"
 date:   2022-08-18
 tags: [PLC,实时,IO,通讯,西门子]
 comments: true

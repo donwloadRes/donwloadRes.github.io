@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL5安装缺失CMSIS 4.5.0 pack错误解决方案"
+title: "KEIL5安装缺失CMSIS 450 pack错误解决方案"
 date:   2022-04-04
 tags: [KEIL5,CMSIS,pack,4.5,安装]
 comments: true

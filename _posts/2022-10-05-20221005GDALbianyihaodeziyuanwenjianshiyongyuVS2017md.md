@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDAL 编译好的资源文件（适用于 VS2017）"
+title: "GDAL 编译好的资源文件适用于 VS2017"
 date:   2021-02-18
 tags: [GDAL,编译,VS2017,文件,资源]
 comments: true

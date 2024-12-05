@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 协议资源下载"
+title: "MIPI CSI2 协议资源下载"
 date:   2021-07-03
 tags: [MIPI,CSI,资源,协议,文件]
 comments: true

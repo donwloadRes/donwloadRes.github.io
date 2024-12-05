@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bulk Rename Utility（BRU）——大批量重命名实用程序"
+title: "Bulk Rename UtilityBRU大批量重命名实用程序"
 date:   2023-03-25
 tags: [重命名,BRU,Bulk,Rename,Utility]
 comments: true

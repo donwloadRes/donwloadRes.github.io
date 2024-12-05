@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python开发的聊天室（单聊、群聊、GUI界面、自动回复）"
+title: "基于Python开发的聊天室单聊群聊GUI界面自动回复"
 date:   2022-06-11
 tags: [聊天室,回复,自动,Python,单聊]
 comments: true

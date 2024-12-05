@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "服务器-Spring Boot-仿美团外卖服务器全部资源"
+title: "服务器Spring Boot仿美团外卖服务器全部资源"
 date:   2023-01-27
 tags: [Spring,数据库,Boot,外卖,API]
 comments: true

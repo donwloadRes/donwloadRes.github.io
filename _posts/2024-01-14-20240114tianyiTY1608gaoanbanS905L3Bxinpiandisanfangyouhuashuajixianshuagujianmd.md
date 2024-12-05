@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天邑TY1608-高安版S905L3B芯片第三方优化刷机线刷固件"
+title: "天邑TY1608高安版S905L3B芯片第三方优化刷机线刷固件"
 date:   2024-04-09
 tags: [固件,刷机,天邑,TY1608,S905L3B]
 comments: true

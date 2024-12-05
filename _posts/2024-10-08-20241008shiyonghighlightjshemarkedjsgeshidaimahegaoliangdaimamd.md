@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用highlight.js和marked.js格式代码和高亮代码"
+title: "使用highlightjs和markedjs格式代码和高亮代码"
 date:   2024-06-16
 tags: [js,highlight,marked,代码,高亮]
 comments: true

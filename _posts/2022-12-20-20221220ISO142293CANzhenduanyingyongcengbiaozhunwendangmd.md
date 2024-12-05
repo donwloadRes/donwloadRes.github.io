@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 14229-3 CAN诊断应用层标准文档"
+title: "ISO 142293 CAN诊断应用层标准文档"
 date:   2023-05-28
 tags: [ISO,14229,文档,应用层,诊断]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO 2017.4 FPGA烧写文件下载及操作指南"
+title: "VIVADO 20174 FPGA烧写文件下载及操作指南"
 date:   2022-11-03
 tags: [VIVADO,FPGA,文档,烧写,MCS]
 comments: true

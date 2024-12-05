@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOGAF 9.2 标准资源下载"
+title: "TOGAF 92 标准资源下载"
 date:   2023-08-19
 tags: [架构,架构师,TOGAF,9.2,TOGAF9.2]
 comments: true

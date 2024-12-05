@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python语言程序设计基础（第二版）—— 嵩天等课件与电子书"
+title: "Python语言程序设计基础第二版 嵩天等课件与电子书"
 date:   2024-03-08
 tags: [Python,学习,编程,程序设计,课件]
 comments: true

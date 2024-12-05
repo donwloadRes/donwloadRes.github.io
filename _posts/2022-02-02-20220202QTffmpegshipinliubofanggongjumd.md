@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT + ffmpeg 视频流播放工具"
+title: "QT  ffmpeg 视频流播放工具"
 date:   2020-12-10
 tags: [视频流,播放,QT,ffmpeg,项目]
 comments: true

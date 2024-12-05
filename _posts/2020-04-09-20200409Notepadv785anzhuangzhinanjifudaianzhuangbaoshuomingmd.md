@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ v7.8.5 安装指南及附带安装包说明"
+title: "Notepad v785 安装指南及附带安装包说明"
 date:   2021-05-18
 tags: [安装,安装包,Notepad,++,版本]
 comments: true

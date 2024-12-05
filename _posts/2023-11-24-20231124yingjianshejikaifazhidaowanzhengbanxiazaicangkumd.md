@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件设计开发指导（完整版）下载仓库"
+title: "硬件设计开发指导完整版下载仓库"
 date:   2020-09-28
 tags: [硬件,单板,设计,开发,指导]
 comments: true

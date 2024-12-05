@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化导论第四版答案 - 免费资源"
+title: "最优化导论第四版答案  免费资源"
 date:   2020-11-24
 tags: [最优化,第四版,导论,学习,答案]
 comments: true

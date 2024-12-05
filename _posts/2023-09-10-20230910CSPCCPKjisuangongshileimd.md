@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SPC CPK计算公式类"
+title: "C SPC CPK计算公式类"
 date:   2023-03-04
 tags: [double,calculator,指标,USL,LSL]
 comments: true

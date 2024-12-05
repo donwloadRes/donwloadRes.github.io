@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的超声波测距SRF04 Proteus仿真（仿真+代码）"
+title: "基于STM32的超声波测距SRF04 Proteus仿真仿真代码"
 date:   2024-03-18
 tags: [测距,仿真,SRF04,STM32,Proteus]
 comments: true

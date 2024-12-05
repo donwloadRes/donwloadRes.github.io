@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王V6.52版取消工程密码专用工具"
+title: "组态王V652版取消工程密码专用工具"
 date:   2020-06-11
 tags: [组态王,工具,V6.52,专用工具,工程]
 comments: true

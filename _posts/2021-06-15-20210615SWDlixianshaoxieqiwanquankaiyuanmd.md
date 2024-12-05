@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWD离线烧写器（完全开源）"
+title: "SWD离线烧写器完全开源"
 date:   2022-08-08
 tags: [离线,烧写,DAP,串口,写器]
 comments: true

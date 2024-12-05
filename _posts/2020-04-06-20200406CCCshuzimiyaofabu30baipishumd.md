@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCC 数字密钥发布3.0白皮书"
+title: "CCC 数字密钥发布30白皮书"
 date:   2023-07-08
 tags: [密钥,数字,白皮书,CCC,3.0]
 comments: true

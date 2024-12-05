@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知识图谱实战案例完全剖析（附完整源码和数据集）Python与Neo4j的集成 -- 独家"
+title: "知识图谱实战案例完全剖析附完整源码和数据集Python与Neo4j的集成  独家"
 date:   2023-02-06
 tags: [源码,图谱,Python,Neo4j,知识]
 comments: true

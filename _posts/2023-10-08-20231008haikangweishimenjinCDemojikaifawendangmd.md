@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视门禁C# Demo及开发文档"
+title: "海康威视门禁C Demo及开发文档"
 date:   2022-08-23
 tags: [Demo,文档,开发,威视,C#]
 comments: true

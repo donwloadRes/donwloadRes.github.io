@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5716-2006 开发库、受控库、产品库通用要求"
+title: "GJB 57162006 开发库受控库产品库通用要求"
 date:   2024-11-10
 tags: [产品库,受控,2006,文档,开发]
 comments: true

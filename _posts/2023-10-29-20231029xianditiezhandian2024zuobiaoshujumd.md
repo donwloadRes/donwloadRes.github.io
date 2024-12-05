@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西安地铁站点（2024）坐标数据"
+title: "西安地铁站点2024坐标数据"
 date:   2023-05-03
 tags: [站点,坐标,2024,数据,西安]
 comments: true

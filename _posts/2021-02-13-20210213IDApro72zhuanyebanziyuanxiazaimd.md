@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDApro7.2专业版资源下载"
+title: "IDApro72专业版资源下载"
 date:   2020-12-04
 tags: [IDApro7.2,专业版,IDA,下载,资源]
 comments: true

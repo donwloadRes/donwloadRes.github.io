@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware银河麒麟系统虚拟机+VMware Tools安装指南"
+title: "VMware银河麒麟系统虚拟机VMware Tools安装指南"
 date:   2022-04-23
 tags: [虚拟机,VMware,Tools,安装,麒麟]
 comments: true

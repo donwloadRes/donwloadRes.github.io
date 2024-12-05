@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 专业版 - 无Session限制免费版"
+title: "MobaXterm 专业版  无Session限制免费版"
 date:   2023-11-21
 tags: [MobaXterm,专业版,远程,Session,软件]
 comments: true

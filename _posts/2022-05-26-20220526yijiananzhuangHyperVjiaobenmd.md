@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键安装 Hyper-V 脚本"
+title: "一键安装 HyperV 脚本"
 date:   2023-08-14
 tags: [脚本,Hyper,Windows,安装,家庭版]
 comments: true

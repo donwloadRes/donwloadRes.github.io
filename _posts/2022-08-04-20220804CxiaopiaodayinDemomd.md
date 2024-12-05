@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#小票打印Demo"
+title: "C小票打印Demo"
 date:   2022-09-06
 tags: [打印,小票,打印机,C#,Demo]
 comments: true

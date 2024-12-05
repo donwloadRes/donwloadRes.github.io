@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【安装指南】Ubuntu 20.04下ROS完全安装教程及虚拟机资源"
+title: "安装指南Ubuntu 2004下ROS完全安装教程及虚拟机资源"
 date:   2021-10-28
 tags: [ROS,虚拟机,安装,Ubuntu,链接]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F334同步整流BUCK-BOOST数字电源设计"
+title: "基于STM32F334同步整流BUCKBOOST数字电源设计"
 date:   2021-03-04
 tags: [BUCK,BOOST,整流,同步,能量]
 comments: true

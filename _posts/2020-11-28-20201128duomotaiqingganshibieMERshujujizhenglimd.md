@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多模态情感识别（MER）数据集整理"
+title: "多模态情感识别MER数据集整理"
 date:   2024-01-04
 tags: [数据,模态,情感,MER,识别]
 comments: true

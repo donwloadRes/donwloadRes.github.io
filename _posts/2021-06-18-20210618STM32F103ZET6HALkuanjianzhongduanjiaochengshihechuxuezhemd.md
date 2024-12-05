@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103ZET6 HAL库按键中断教程（适合初学者）"
+title: "STM32F103ZET6 HAL库按键中断教程适合初学者"
 date:   2023-10-24
 tags: [按键,中断,STM32F103ZET6,CubeMX,初学者]
 comments: true

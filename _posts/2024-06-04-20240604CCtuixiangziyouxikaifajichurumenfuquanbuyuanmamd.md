@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++推箱子游戏开发基础入门（附全部源码）"
+title: "CC推箱子游戏开发基础入门附全部源码"
 date:   2023-03-31
 tags: [游戏,箱子,源码,项目,Visual]
 comments: true

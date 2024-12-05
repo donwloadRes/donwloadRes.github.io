@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue健身房管理系统 Java毕业设计 源码+SQL脚本+论文完整版"
+title: "SpringBootVue健身房管理系统 Java毕业设计 源码SQL脚本论文完整版"
 date:   2023-12-19
 tags: [健身房,管理,毕业设计,Java,管理系统]
 comments: true

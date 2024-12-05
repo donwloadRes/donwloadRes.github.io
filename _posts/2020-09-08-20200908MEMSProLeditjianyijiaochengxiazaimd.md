@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEMS Pro L-edit 简易教程下载"
+title: "MEMS Pro Ledit 简易教程下载"
 date:   2023-08-19
 tags: [edit,教程,MEMS,Pro,简易]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA 和 cuDNN 安装指南（12-2）"
+title: "CUDA 和 cuDNN 安装指南122"
 date:   2023-01-04
 tags: [CUDA,cuDNN,安装,版本,指南]
 comments: true

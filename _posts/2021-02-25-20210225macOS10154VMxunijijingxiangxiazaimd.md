@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS 10.15.4 VM虚拟机镜像下载"
+title: "macOS 10154 VM虚拟机镜像下载"
 date:   2022-03-11
 tags: [虚拟机,镜像文件,macOS,10.15,example]
 comments: true

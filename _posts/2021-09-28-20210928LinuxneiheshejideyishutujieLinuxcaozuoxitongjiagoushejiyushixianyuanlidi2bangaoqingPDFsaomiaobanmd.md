@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核设计的艺术 - 图解Linux操作系统架构设计与实现原理（第2版）高清PDF扫描版"
+title: "Linux内核设计的艺术  图解Linux操作系统架构设计与实现原理第2版高清PDF扫描版"
 date:   2024-10-21
 tags: [Linux,操作系统,内核,设计,图解]
 comments: true

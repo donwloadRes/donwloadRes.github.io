@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验一——多数表决器的设计与实现"
+title: "实验一多数表决器的设计与实现"
 date:   2020-03-27
 tags: [表决器,设计,Vivado,SystemVerilog,HDL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB9001C-2017理解与实施资源文件介绍"
+title: "GJB9001C2017理解与实施资源文件介绍"
 date:   2023-06-28
 tags: [GJB9001C,2017,文件,实施,资源]
 comments: true

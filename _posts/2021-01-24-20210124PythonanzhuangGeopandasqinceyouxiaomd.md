@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 安装 Geopandas (亲测有效)"
+title: "Python 安装 Geopandas 亲测有效"
 date:   2024-05-01
 tags: [Python,Geopandas,安装,pip,install]
 comments: true

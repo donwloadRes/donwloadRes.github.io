@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TFTLCD实时绘制曲线（曲线动态更新）"
+title: "TFTLCD实时绘制曲线曲线动态更新"
 date:   2022-12-08
 tags: [曲线,代码,TFTLCD,屏幕,实时]
 comments: true

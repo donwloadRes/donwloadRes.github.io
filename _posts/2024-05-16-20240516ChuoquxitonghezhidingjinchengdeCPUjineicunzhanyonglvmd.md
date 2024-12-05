@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 获取系统和指定进程的CPU及内存占用率"
+title: "C 获取系统和指定进程的CPU及内存占用率"
 date:   2020-03-26
 tags: [进程,CPU,占用率,内存,获取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-A7官方技术手册下载"
+title: "CortexA7官方技术手册下载"
 date:   2024-03-11
 tags: [Cortex,A7,手册,处理器,技术]
 comments: true

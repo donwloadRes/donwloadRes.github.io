@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌Xpath-helper插件安装及使用指南"
+title: "谷歌Xpathhelper插件安装及使用指南"
 date:   2020-04-30
 tags: [插件,helper,Xpath,快捷键,XPath]
 comments: true

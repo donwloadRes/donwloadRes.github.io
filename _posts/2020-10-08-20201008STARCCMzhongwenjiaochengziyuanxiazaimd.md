@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAR-CCM+ 中文教程资源下载"
+title: "STARCCM 中文教程资源下载"
 date:   2021-12-21
 tags: [STAR,CCM,教程,V9.06,中文]
 comments: true

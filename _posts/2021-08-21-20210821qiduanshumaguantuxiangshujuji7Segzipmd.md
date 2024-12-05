@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "七段数码管图像数据集 - 7Seg.zip"
+title: "七段数码管图像数据集  7Segzip"
 date:   2020-04-16
 tags: [七段,数码管,7Seg,zip,数据]
 comments: true

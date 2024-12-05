@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗卫星导航系统信号生成代码（MATLAB）"
+title: "北斗卫星导航系统信号生成代码MATLAB"
 date:   2023-01-08
 tags: [MATLAB,代码,北斗,生成,信号]
 comments: true

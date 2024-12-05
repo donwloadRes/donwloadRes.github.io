@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEF 111.0.5563.148 Windows 非官方编译版（支持MP4, MP3等多媒体格式）- 32位"
+title: "CEF 11105563148 Windows 非官方编译版支持MP4 MP3等多媒体格式 32位"
 date:   2022-08-20
 tags: [CEF,开发者,多媒体,版本,Windows]
 comments: true

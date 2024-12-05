@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue学习02：VSCode配置Vue环境"
+title: "Vue学习02VSCode配置Vue环境"
 date:   2020-03-17
 tags: [Vue,VSCode,配置,文件,环境]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3288、RK3188在Android平台双屏异显异触开发说明"
+title: "RK3288RK3188在Android平台双屏异显异触开发说明"
 date:   2020-02-07
 tags: [双屏,异触,异显,文档,RK3288]
 comments: true

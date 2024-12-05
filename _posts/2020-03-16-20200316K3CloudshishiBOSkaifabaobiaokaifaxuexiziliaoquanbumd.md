@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K3Cloud实施、BOS开发、报表开发学习资料-全部"
+title: "K3Cloud实施BOS开发报表开发学习资料全部"
 date:   2023-08-10
 tags: [BOS,K3,Cloud,插件,开发]
 comments: true

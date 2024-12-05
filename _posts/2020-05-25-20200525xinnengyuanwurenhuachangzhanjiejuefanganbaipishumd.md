@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新能源“无人化”场站解决方案白皮书"
+title: "新能源无人化场站解决方案白皮书"
 date:   2024-03-17
 tags: [无人化,场站,白皮书,新能源,解决方案]
 comments: true

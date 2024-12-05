@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark使用经典教程（带书签）下载"
+title: "Wireshark使用经典教程带书签下载"
 date:   2021-05-28
 tags: [Wireshark,教程,书签,使用,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "G6K-2F-Y 继电器说明书下载"
+title: "G6K2FY 继电器说明书下载"
 date:   2023-05-19
 tags: [G6K,2F,继电器,说明书,下载]
 comments: true

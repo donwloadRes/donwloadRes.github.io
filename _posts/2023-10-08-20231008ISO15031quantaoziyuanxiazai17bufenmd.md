@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 15031 全套资源下载 (1-7部分)"
+title: "ISO 15031 全套资源下载 17部分"
 date:   2021-09-09
 tags: [ISO,15031,文档,资源,诊断系统]
 comments: true

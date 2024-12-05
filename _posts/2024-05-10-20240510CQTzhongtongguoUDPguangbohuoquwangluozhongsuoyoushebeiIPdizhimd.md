@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT中通过UDP广播获取网络中所有设备IP地址"
+title: "C QT中通过UDP广播获取网络中所有设备IP地址"
 date:   2021-02-02
 tags: [UDP,广播,IP地址,网络,QT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏三相逆变并网与MPPT控制Matlab-Simulink仿真指南"
+title: "光伏三相逆变并网与MPPT控制MatlabSimulink仿真指南"
 date:   2020-03-27
 tags: [仿真,Simulink,MATLAB,光伏,MPPT]
 comments: true

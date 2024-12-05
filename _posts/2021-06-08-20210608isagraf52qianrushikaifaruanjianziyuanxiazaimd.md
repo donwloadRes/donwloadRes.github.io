@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "isagraf5.2 嵌入式开发软件资源下载"
+title: "isagraf52 嵌入式开发软件资源下载"
 date:   2022-02-01
 tags: [isagraf5.2,嵌入式,开发软件,资源,下载]
 comments: true

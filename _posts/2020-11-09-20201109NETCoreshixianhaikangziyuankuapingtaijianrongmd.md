@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core 实现海康资源跨平台兼容"
+title: "NET Core 实现海康资源跨平台兼容"
 date:   2021-07-27
 tags: [海康,跨平台,Linux,资源,视频文件]
 comments: true

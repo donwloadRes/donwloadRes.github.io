@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeX 文件“elsarticle.cls”缺失解决方案"
+title: "LaTeX 文件elsarticlecls缺失解决方案"
 date:   2020-04-11
 tags: [elsarticle,LaTeX,cls,文件,文档]
 comments: true

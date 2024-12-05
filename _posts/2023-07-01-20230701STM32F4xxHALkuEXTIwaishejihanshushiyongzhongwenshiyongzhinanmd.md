@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4xx HAL库（EXTI外设及函数使用）中文使用指南"
+title: "STM32F4xx HAL库EXTI外设及函数使用中文使用指南"
 date:   2023-05-15
 tags: [EXTI,外设,指南,STM32F4xx,HAL]
 comments: true

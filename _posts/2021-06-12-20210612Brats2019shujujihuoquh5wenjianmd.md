@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brats-2019数据集获取(.h5文件）"
+title: "Brats2019数据集获取h5文件"
 date:   2020-01-10
 tags: [Brats,2019,h5,数据,文件]
 comments: true

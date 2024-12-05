@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计：仓库物资管理系统（JAVAweb源码+mysql+设计报告）"
+title: "数据库课程设计仓库物资管理系统JAVAweb源码mysql设计报告"
 date:   2024-04-09
 tags: [数据库,设计,系统,课程设计,仓库]
 comments: true

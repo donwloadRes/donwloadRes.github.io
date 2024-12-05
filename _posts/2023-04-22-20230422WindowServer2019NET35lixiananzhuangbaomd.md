@@ -1,6 +1,30 @@
 ---
 layout: post
-title: "Window Server 2019 .NET 3.5 离线安装包"
+title: "Window Server 2019 NET 35 离线安装包
+date   20200517
+tags NET352019离线安装
+comments true
+author admin
+
+ Window Server 2019 NET 35 离线安装包
+
+ 资源说明
+
+本存储库提供的是专为Windows Server 2019设计的NET Framework 35离线安装文件window server2019net35sxszip在部署或配置Windows Server 2019环境时若系统需要NET 35框架支持但在线服务不可用或者出于网络隔离的安全考虑此资源将极为关键
+
+ 使用场景
+
+ 离线安装当您的服务器没有互联网连接时使用此文件作为源进行NET 35的安装
+ 快速部署在多台服务器上部署NET 35时避免逐一在线下载提升效率
+ 安全环境适用于对网络安全有严格要求的环境如内部服务器和高度监管的IT基础设施
+
+ 使用方法
+
+1 下载资源首先从本仓库下载window server2019net35sxszip压缩包
+2 解压文件将下载的ZIP文件解压缩到您易于访问的文件夹
+3 执行安装在Windows Server 2019上通过控制面板或命令提示符使用DISM工具Deployment Image Servicing and Management指向您刚刚解压的目录进行NET 35的添加典型的命令示例如下
+   cmd
+   dism online addpackage packagepath解压路径sourcessxs"
 date:   2020-05-17
 tags: [NET,3.5,2019,离线,安装]
 comments: true

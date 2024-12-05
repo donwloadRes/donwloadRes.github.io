@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOLIDWORKS 型材库 GB 焊件轮廓 各种标准件（十分齐全）"
+title: "SOLIDWORKS 型材库 GB 焊件轮廓 各种标准件十分齐全"
 date:   2021-06-08
 tags: [SOLIDWORKS,标准件,型材,焊件,文件]
 comments: true

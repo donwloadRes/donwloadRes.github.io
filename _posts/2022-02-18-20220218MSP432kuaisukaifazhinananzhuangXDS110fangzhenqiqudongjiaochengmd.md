@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP432快速开发指南：安装XDS110仿真器驱动教程"
+title: "MSP432快速开发指南安装XDS110仿真器驱动教程"
 date:   2024-11-26
 tags: [安装,MSP432,XDS110,驱动,仿真器]
 comments: true

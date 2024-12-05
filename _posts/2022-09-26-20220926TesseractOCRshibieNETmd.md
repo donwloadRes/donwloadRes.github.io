@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR识别(.NET)"
+title: "TesseractOCR识别NET"
 date:   2024-08-28
 tags: [OCR,识别,NET,DLL,文件]
 comments: true

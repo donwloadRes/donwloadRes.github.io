@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSC-AMS434各类PCB天线集合434Mhz天线"
+title: "MSCAMS434各类PCB天线集合434Mhz天线"
 date:   2020-05-10
 tags: [01,文件,天线,PADS,原理图]
 comments: true

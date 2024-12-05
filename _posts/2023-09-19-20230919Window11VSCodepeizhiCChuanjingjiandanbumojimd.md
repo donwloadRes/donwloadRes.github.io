@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window 11 VSCode配置C-C++环境（简单不墨迹）"
+title: "Window 11 VSCode配置CC环境简单不墨迹"
 date:   2023-07-26
 tags: [VSCode,C++,mingw64,配置,11]
 comments: true

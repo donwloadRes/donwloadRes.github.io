@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XLSReadWriteII 6.00.68 For Delphi10.4.2 下载及安装说明"
+title: "XLSReadWriteII 60068 For Delphi1042 下载及安装说明"
 date:   2022-05-06
 tags: [XLSReadWriteII,组件,Delphi10.4,Excel,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32参考手册（最新中文版）"
+title: "STM32参考手册最新中文版"
 date:   2020-06-25
 tags: [STM32,模块,参考手册,手册,最新]
 comments: true

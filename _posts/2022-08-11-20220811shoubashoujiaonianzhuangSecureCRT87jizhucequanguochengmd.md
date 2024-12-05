@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你安装SecureCRT 8.7及注册全过程"
+title: "手把手教你安装SecureCRT 87及注册全过程"
 date:   2024-10-07
 tags: [SecureCRT,8.7,注册,安装,安装包]
 comments: true

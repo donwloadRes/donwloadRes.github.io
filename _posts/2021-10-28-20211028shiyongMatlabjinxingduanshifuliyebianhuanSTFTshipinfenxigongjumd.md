@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用 Matlab 进行短时傅立叶变换 (STFT)：时频分析工具"
+title: "使用 Matlab 进行短时傅立叶变换 STFT时频分析工具"
 date:   2024-02-14
 tags: [STFT,Matlab,函数,参数,示例]
 comments: true

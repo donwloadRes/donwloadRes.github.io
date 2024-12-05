@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt交叉编译后aarch64-linux-gnu-成功运行在Zynq UltraScale+MPSoC上"
+title: "Qt交叉编译后aarch64linuxgnu成功运行在Zynq UltraScaleMPSoC上"
 date:   2021-07-02
 tags: [Qt,编译,交叉,软键盘,Zynq]
 comments: true

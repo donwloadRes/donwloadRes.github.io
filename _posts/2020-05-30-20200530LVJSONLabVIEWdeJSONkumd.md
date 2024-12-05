@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVJSON: LabVIEW 的 JSON 库"
+title: "LVJSON LabVIEW 的 JSON 库"
 date:   2022-02-20
 tags: [LVJSON,LabVIEW,JSON,配置文件,VI]
 comments: true

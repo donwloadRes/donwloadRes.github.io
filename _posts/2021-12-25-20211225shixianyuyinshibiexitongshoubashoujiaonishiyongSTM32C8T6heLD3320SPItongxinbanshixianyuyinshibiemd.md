@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实现语音识别系统：手把手教你使用STM32C8T6和LD3320（SPI通信版）实现语音识别"
+title: "实现语音识别系统手把手教你使用STM32C8T6和LD3320SPI通信版实现语音识别"
 date:   2023-10-27
 tags: [LD3320,语音,STM32C8T6,SPI,代码]
 comments: true

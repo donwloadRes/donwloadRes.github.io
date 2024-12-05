@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试用例模板——完整版"
+title: "测试用例模板完整版"
 date:   2023-07-28
 tags: [模板,测试,测试用例,功能测试,确保]
 comments: true

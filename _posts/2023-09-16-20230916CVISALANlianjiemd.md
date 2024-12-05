@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# VISA_LAN连接"
+title: "C VISALAN连接"
 date:   2020-03-05
 tags: [VISA,C#,LAN,仪器,session]
 comments: true

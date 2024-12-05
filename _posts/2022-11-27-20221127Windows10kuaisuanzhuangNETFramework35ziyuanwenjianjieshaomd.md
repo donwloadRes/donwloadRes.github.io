@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 快速安装 .NET Framework 3.5 资源文件介绍"
+title: "Windows 10 快速安装 NET Framework 35 资源文件介绍"
 date:   2021-10-27
 tags: [NET,Framework,3.5,文件,安装]
 comments: true

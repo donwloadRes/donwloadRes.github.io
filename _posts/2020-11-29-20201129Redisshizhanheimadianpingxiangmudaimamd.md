@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis实战黑马点评》项目代码"
+title: "Redis实战黑马点评项目代码"
 date:   2023-11-10
 tags: [Redis,缓存,项目,实现,分布式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500 样本手册下载"
+title: "S71500 样本手册下载"
 date:   2023-08-07
 tags: [1500,手册,S7,PLC,样本]
 comments: true

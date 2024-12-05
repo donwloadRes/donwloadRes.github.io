@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 仿人行走动画效果"
+title: "Threejs 仿人行走动画效果"
 date:   2020-01-20
 tags: [动画,js,Three,3D,模型]
 comments: true

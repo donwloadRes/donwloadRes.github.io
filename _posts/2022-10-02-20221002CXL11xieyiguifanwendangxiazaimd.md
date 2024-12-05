@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL1.1协议规范文档下载"
+title: "CXL11协议规范文档下载"
 date:   2024-11-15
 tags: [CXL1.1,文档,协议,下载,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "遥感软件初学者资源：ENVI与ArcMap实践指南"
+title: "遥感软件初学者资源ENVI与ArcMap实践指南"
 date:   2023-07-08
 tags: [ENVI,ArcMap,遥感,分类,迹地]
 comments: true

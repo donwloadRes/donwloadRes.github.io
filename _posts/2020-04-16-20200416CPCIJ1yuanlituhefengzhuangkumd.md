@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI_J1原理图和封装库"
+title: "CPCIJ1原理图和封装库"
 date:   2022-04-05
 tags: [CPCI,J1,封装,原理图,Altium]
 comments: true

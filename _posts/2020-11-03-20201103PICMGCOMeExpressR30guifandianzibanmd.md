@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PICMG COMe Express R3.0 规范电子版"
+title: "PICMG COMe Express R30 规范电子版"
 date:   2023-06-15
 tags: [COMe,Express,电子版,R3.0,文件]
 comments: true

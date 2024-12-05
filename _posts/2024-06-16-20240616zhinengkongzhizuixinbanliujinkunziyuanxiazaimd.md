@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能控制最新版（刘金琨）资源下载"
+title: "智能控制最新版刘金琨资源下载"
 date:   2020-12-25
 tags: [智能,刘金琨,PDF,控制,最新版]
 comments: true

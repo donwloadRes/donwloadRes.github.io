@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++串口调试助手源代码"
+title: "VC串口调试助手源代码"
 date:   2024-06-17
 tags: [串口,源代码,调试,feature,波特率]
 comments: true

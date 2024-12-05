@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "路由器刷OpenWrt固件（超详细包救回）"
+title: "路由器刷OpenWrt固件超详细包救回"
 date:   2020-03-02
 tags: [路由器,OpenWrt,固件,Breed,刷入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "预瞄跟随（Carsim与Simulink联合仿真）"
+title: "预瞄跟随Carsim与Simulink联合仿真"
 date:   2022-03-13
 tags: [Simulink,仿真,Carsim,驾驶,自动]
 comments: true

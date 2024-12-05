@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB_Simulink的航空发动机仿真建模"
+title: "基于MATLABSimulink的航空发动机仿真建模"
 date:   2022-02-22
 tags: [MATLAB,Simulink,仿真,建模,航空]
 comments: true

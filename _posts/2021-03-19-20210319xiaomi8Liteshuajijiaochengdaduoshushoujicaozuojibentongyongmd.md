@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米8 Lite 刷机教程 (大多数手机操作基本通用)"
+title: "小米8 Lite 刷机教程 大多数手机操作基本通用"
 date:   2020-03-20
 tags: [刷机,Lite,小米,Mi,Flash]
 comments: true

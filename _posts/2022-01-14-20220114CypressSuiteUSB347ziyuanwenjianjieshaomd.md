@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cypress Suite USB 3.4.7 资源文件介绍"
+title: "Cypress Suite USB 347 资源文件介绍"
 date:   2020-03-11
 tags: [USB,开发者,开发,示例,C++]
 comments: true

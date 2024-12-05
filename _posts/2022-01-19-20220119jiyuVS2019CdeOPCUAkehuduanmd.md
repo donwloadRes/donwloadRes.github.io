@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于VS2019 C# 的OPC UA客户端"
+title: "基于VS2019 C 的OPC UA客户端"
 date:   2023-11-18
 tags: [OPC,UA,客户端,VS2019,C#]
 comments: true

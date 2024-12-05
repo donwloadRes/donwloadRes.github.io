@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "球的光照模型完整实现代码（图形学）"
+title: "球的光照模型完整实现代码图形学"
 date:   2023-02-17
 tags: [光照,球体,VC6.0,模型,图形学]
 comments: true

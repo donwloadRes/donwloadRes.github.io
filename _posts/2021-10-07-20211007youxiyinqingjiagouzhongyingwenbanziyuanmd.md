@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏引擎架构》中英文版资源"
+title: "游戏引擎架构中英文版资源"
 date:   2024-06-06
 tags: [游戏,引擎,资源,架构,开发者]
 comments: true

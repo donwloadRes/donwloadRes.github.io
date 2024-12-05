@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "导线、平面位移原始数据处理资源文件介绍"
+title: "导线平面位移原始数据处理资源文件介绍"
 date:   2021-09-09
 tags: [模版,软件,测角,测回,1.0]
 comments: true

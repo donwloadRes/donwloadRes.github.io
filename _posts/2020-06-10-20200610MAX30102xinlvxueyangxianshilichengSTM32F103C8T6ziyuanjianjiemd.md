@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX30102心率血氧显示例程-STM32F103C8T6 资源简介"
+title: "MAX30102心率血氧显示例程STM32F103C8T6 资源简介"
 date:   2023-01-17
 tags: [例程,MAX30102,心率,STM32F103C8T6,串口]
 comments: true

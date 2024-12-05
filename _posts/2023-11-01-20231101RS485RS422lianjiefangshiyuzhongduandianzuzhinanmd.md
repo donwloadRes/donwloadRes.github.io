@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS485-RS422 连接方式与终端电阻指南"
+title: "RS485RS422 连接方式与终端电阻指南"
 date:   2020-12-10
 tags: [串口,RS485,RS422,通信,双绞线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑苹果使用Clover Configurator修改config.plist配置文件"
+title: "黑苹果使用Clover Configurator修改configplist配置文件"
 date:   2022-01-09
 tags: [config,plist,Clover,Configurator,配置文件]
 comments: true

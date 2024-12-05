@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战：使用YOLOv3完成肺结节检测（Luna16数据集）及肺实质分割"
+title: "实战使用YOLOv3完成肺结节检测Luna16数据集及肺实质分割"
 date:   2023-09-19
 tags: [YOLOv3,Luna16,模型,数据,训练]
 comments: true

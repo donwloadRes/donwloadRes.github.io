@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序最新获取头像方法：onChooseAvatar"
+title: "微信小程序最新获取头像方法onChooseAvatar"
 date:   2021-04-20
 tags: [头像,获取,链接,微信,onChooseAvatar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LangChain知识库与Lora微调ChatGLM2-6B模型指南"
+title: "LangChain知识库与Lora微调ChatGLM26B模型指南"
 date:   2021-09-12
 tags: [微调,知识库,模型,LangChain,ChatGLM2]
 comments: true

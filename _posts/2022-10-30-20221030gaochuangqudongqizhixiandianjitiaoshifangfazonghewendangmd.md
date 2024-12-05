@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高创驱动器直线电机调试方法-综合文档"
+title: "高创驱动器直线电机调试方法综合文档"
 date:   2022-06-18
 tags: [调试,文档,高创,电机,驱动器]
 comments: true

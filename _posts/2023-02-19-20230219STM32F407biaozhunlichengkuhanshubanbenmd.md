@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407标准例程-库函数版本"
+title: "STM32F407标准例程库函数版本"
 date:   2023-07-14
 tags: [例程,STM32F407,库函数,版本,STM32]
 comments: true

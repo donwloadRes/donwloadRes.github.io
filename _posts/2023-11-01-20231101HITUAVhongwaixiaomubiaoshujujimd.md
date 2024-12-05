@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HIT-UAV红外小目标数据集"
+title: "HITUAV红外小目标数据集"
 date:   2020-06-07
 tags: [HIT,UAV,数据,红外,目标]
 comments: true

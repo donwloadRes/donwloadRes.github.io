@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-vip 中文详解"
+title: "AXIvip 中文详解"
 date:   2021-11-15
 tags: [AXI,vip,详解,文件,中文]
 comments: true

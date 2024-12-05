@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET与Echarts实现前后端数据的交互"
+title: "ASPNET与Echarts实现前后端数据的交互"
 date:   2023-08-15
 tags: [ASP,NET,数据,Echarts,SQL]
 comments: true

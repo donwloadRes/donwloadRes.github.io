@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机数据表示实验(HUST)"
+title: "计算机数据表示实验HUST"
 date:   2022-12-07
 tags: [实验,计算机,数据表示,HUST,理解]
 comments: true

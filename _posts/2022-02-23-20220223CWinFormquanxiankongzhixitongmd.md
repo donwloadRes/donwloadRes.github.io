@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 权限控制系统"
+title: "C WinForm 权限控制系统"
 date:   2023-04-06
 tags: [权限,角色,用户,控制系统,数据库]
 comments: true

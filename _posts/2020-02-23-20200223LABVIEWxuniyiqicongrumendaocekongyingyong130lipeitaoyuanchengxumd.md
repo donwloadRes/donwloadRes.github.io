@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LABVIEW虚拟仪器从入门到测控应用130例+配套源程序"
+title: "LABVIEW虚拟仪器从入门到测控应用130例配套源程序"
 date:   2021-06-27
 tags: [测控,LabVIEW,应用,数据,讲解]
 comments: true

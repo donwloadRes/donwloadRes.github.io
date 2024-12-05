@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Industrial Gadgets ActiveX Pro - WINCC 动画插件终极解决方案"
+title: "Industrial Gadgets ActiveX Pro  WINCC 动画插件终极解决方案"
 date:   2022-12-25
 tags: [ActiveX,WINCC,动画,插件,Industrial]
 comments: true

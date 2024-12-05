@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普吉岛最后的黄昏，中文字幕"
+title: "普吉岛最后的黄昏中文字幕"
 date:   2020-08-16
 tags: [普吉岛,中文字幕,电影,文件,字幕]
 comments: true

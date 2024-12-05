@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迅速入门Android内核编译 & 一加5 DC调光1"
+title: "迅速入门Android内核编译  一加5 DC调光1"
 date:   2021-10-06
 tags: [内核,编译,Android,一加,DC]
 comments: true

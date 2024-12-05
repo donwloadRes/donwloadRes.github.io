@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android串口通信（Android Studio）示例"
+title: "Android串口通信Android Studio示例"
 date:   2022-07-10
 tags: [Android,串口,示例,Studio,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB_KUKA6D 六自由度机械臂正逆解资源"
+title: "MATLABKUKA6D 六自由度机械臂正逆解资源"
 date:   2021-12-19
 tags: [MATLAB,代码,KUKA6D,正逆解,自由度]
 comments: true

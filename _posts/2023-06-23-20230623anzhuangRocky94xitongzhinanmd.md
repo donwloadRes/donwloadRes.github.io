@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Rocky-9.4系统指南"
+title: "安装Rocky94系统指南"
 date:   2021-11-30
 tags: [Rocky,9.4,Linux,安装,虚拟机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【微网格优化调度资源】- 基于改进粒子群算法的微电网优化策略(Matlab实现)"
+title: "微网格优化调度资源 基于改进粒子群算法的微电网优化策略Matlab实现"
 date:   2023-07-20
 tags: [算法,优化,电网,Matlab,调度]
 comments: true

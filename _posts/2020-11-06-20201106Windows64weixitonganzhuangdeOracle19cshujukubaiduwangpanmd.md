@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 64位系统安装的Oracle 19c数据库（百度网盘）"
+title: "Windows 64位系统安装的Oracle 19c数据库百度网盘"
 date:   2021-03-07
 tags: [安装,Oracle,解压,百度网,Windows]
 comments: true

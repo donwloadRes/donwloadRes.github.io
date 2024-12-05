@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jsencrypt.js 下载"
+title: "jsencryptjs 下载"
 date:   2021-01-14
 tags: [jsencrypt,js,加密,解密,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32KDS平台SDK3.0 Bootloader与CAN总线实现例程"
+title: "S32KDS平台SDK30 Bootloader与CAN总线实现例程"
 date:   2024-06-21
 tags: [总线,Bootloader,例程,S32KDS,SDK3.0]
 comments: true

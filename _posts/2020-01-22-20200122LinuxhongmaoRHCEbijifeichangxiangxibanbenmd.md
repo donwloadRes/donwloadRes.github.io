@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux红帽RHCE笔记 - 非常详细版本"
+title: "Linux红帽RHCE笔记  非常详细版本"
 date:   2022-05-03
 tags: [RHCE,Linux,认证,考试,系统管理]
 comments: true

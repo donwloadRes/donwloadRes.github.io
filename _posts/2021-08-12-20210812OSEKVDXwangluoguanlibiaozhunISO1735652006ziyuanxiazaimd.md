@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK-VDX网络管理标准ISO 17356-5:2006资源下载"
+title: "OSEKVDX网络管理标准ISO 1735652006资源下载"
 date:   2021-08-25
 tags: [OSEK,ISO,2006,网络管理,标准]
 comments: true

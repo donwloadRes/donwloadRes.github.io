@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5 6.0 版本 YOLOv5-Nano 训练自己的数据集"
+title: "YOLOv5 60 版本 YOLOv5Nano 训练自己的数据集"
 date:   2021-06-26
 tags: [YOLOv5,训练,Nano,模型,数据]
 comments: true

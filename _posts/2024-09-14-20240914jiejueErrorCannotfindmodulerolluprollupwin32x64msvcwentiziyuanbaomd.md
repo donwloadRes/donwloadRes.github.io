@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“Error: Cannot find module @rollup-rollup-win32-x64-msvc”问题资源包"
+title: "解决Error Cannot find module rolluprollupwin32x64msvc问题资源包"
 date:   2020-07-30
 tags: [rollup,win32,x64,msvc,依赖]
 comments: true

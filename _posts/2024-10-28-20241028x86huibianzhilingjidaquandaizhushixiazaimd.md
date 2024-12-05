@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "x86汇编指令集大全（带注释）下载"
+title: "x86汇编指令集大全带注释下载"
 date:   2023-04-26
 tags: [指令集,x86,汇编,注释,文件]
 comments: true

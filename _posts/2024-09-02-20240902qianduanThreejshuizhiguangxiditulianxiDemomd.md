@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端+Three.js+绘制广西地图+练习Demo"
+title: "前端Threejs绘制广西地图练习Demo"
 date:   2021-05-18
 tags: [js,Demo,Three,地图,广西]
 comments: true

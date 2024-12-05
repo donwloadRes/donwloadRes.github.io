@@ -1,6 +1,40 @@
 ---
 layout: post
-title: "QT Linux下dump错误日志生成库"
+title: "QT Linux下dump错误日志生成库
+date   20211219
+tags dump生成文件日志应用程序
+comments true
+author admin
+
+ QT Linux下dump错误日志生成库
+
+ 简介
+
+本仓库提供了一个在QT Linux环境下使用的dump错误日志生成库通过引入该库您可以轻松地在应用程序中生成错误日志文件便于调试和问题排查
+
+ 功能特点
+
+ 简单易用只需在项目中声明类库位置并在maincpp中设置dump文件生成位置即可快速集成
+ 自动生成日志当应用程序发生崩溃或异常时自动生成dump文件记录详细的错误信息
+ 跨平台支持虽然本库主要针对Linux环境但也可以在其他平台上进行适配和使用
+
+ 使用方法
+
+ 1 引入类库
+
+在您的QT项目中打开pro文件并在其中声明类库的位置例如
+
+pro
+ 在pro文件中声明类库位置
+LIBS  Lpathtolibrary lmydump
+
+
+ 2 设置dump文件生成位置
+
+在maincpp文件中声明dump文件的生成位置例如
+
+cpp
+include QBreakpadInstanceh"
 date:   2021-12-19
 tags: [dump,生成,文件,日志,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7621+MT7612+MT7602无线路由方案全套资料"
+title: "MT7621MT7612MT7602无线路由方案全套资料"
 date:   2021-11-10
 tags: [设计,PCB,原理图,接口,SDK]
 comments: true

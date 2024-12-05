@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子学艺术 - The Art of Electronics 中文版（清晰版）吴利民译 第二部分"
+title: "电子学艺术  The Art of Electronics 中文版清晰版吴利民译 第二部分"
 date:   2021-10-10
 tags: [电子学,中文版,清晰版,利民,部分]
 comments: true

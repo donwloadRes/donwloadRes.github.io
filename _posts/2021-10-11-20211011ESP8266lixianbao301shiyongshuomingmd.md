@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266离线包3.0.1 使用说明"
+title: "ESP8266离线包301 使用说明"
 date:   2023-08-11
 tags: [离线,ESP8266,3.0,Arduino,开发软件]
 comments: true

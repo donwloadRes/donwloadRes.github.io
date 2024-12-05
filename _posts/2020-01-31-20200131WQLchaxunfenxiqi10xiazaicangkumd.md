@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WQL查询分析器 1.0 下载仓库"
+title: "WQL查询分析器 10 下载仓库"
 date:   2023-12-09
 tags: [WQL,查询,分析器,1.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络》第八版 谢希仁 复习资料"
+title: "计算机网络第八版 谢希仁 复习资料"
 date:   2023-07-11
 tags: [复习资料,第八版,计算机网络,复习,希仁]
 comments: true

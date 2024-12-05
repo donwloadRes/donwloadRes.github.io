@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 线程池(QThreadPool)的使用"
+title: "Qt 线程池QThreadPool的使用"
 date:   2022-10-09
 tags: [Qt,线程,QThreadPool,示例,代码]
 comments: true

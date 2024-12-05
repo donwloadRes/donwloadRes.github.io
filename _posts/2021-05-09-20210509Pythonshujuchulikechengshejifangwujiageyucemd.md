@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据处理课程设计-房屋价格预测"
+title: "Python数据处理课程设计房屋价格预测"
 date:   2020-02-26
 tags: [预测,房屋,模型,Python,数据处理]
 comments: true

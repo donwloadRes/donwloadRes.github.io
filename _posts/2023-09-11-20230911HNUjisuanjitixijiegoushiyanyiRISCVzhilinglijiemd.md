@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HNU计算机体系结构实验一：RISC-V指令理解"
+title: "HNU计算机体系结构实验一RISCV指令理解"
 date:   2022-09-22
 tags: [RISC,指令,实验,体系结构,流水线]
 comments: true

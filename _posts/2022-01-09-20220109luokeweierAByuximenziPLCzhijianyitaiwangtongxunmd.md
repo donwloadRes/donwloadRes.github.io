@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "罗克韦尔(AB)与西门子PLC之间以太网通讯"
+title: "罗克韦尔AB与西门子PLC之间以太网通讯"
 date:   2020-09-20
 tags: [PLC,AB,通讯,罗克韦尔,以太网]
 comments: true

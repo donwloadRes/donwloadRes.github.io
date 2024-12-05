@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HUAWEI ME909s-821 LTE 最全资料整理"
+title: "HUAWEI ME909s821 LTE 最全资料整理"
 date:   2023-12-30
 tags: [模块,HUAWEI,ME909s,821,LTE]
 comments: true

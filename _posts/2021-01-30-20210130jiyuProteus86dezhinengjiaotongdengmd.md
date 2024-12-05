@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Proteus 8.6的智能交通灯"
+title: "基于Proteus 86的智能交通灯"
 date:   2024-02-04
 tags: [Proteus,8.6,交通灯,工程,仿真]
 comments: true

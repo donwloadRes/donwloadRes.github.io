@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMS1117 3.3V稳压芯片中文资料下载"
+title: "AMS1117 33V稳压芯片中文资料下载"
 date:   2023-06-07
 tags: [电路设计,稳压,芯片,AMS1117,3.3]
 comments: true

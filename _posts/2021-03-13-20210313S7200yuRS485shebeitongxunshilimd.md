@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200与RS485设备通讯实例"
+title: "S7200与RS485设备通讯实例"
 date:   2020-10-24
 tags: [RS485,S7,200,PLC,通讯]
 comments: true

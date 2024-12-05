@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.7p1 RPM包下载"
+title: "OpenSSH 97p1 RPM包下载"
 date:   2024-07-13
 tags: [RPM,OpenEuler,OpenSSH,9.7,p1]
 comments: true

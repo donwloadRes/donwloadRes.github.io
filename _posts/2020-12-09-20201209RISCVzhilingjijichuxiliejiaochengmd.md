@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V指令集基础系列教程"
+title: "RISCV指令集基础系列教程"
 date:   2020-09-25
 tags: [RISC,指令集,教程,指令,系列]
 comments: true

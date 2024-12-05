@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt PDF预览示例 - 使用QPrintPreviewWidget"
+title: "Qt PDF预览示例  使用QPrintPreviewWidget"
 date:   2020-07-20
 tags: [Qt,PDF,预览,示例,QPrintPreviewWidget]
 comments: true

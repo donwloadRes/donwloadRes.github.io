@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信IC设计（上）  李庆华著 资源下载"
+title: "通信IC设计上  李庆华著 资源下载"
 date:   2022-06-27
 tags: [IC,通信,设计,李庆华,FPGA]
 comments: true

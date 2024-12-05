@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++通过OpenSSL实现RSA加密解密【Windows版】"
+title: "C通过OpenSSL实现RSA加密解密Windows版"
 date:   2021-04-28
 tags: [Windows,RSA,源码,解密,加密]
 comments: true

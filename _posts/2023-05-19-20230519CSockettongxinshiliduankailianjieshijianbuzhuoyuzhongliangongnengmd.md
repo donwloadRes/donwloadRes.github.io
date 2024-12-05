@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 通信示例 - 断开连接事件捕捉与重连功能"
+title: "C Socket 通信示例  断开连接事件捕捉与重连功能"
 date:   2023-04-30
 tags: [示例,Socket,代码,通信,断开连接]
 comments: true

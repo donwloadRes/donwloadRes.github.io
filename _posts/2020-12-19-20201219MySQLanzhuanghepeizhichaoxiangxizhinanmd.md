@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL安装和配置（超详细指南）"
+title: "MySQL安装和配置超详细指南"
 date:   2023-08-15
 tags: [MySQL,安装,指南,配置,下载]
 comments: true

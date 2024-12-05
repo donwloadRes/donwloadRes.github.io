@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200-1500 PLC与Modbus485主站DCS系统通讯资源下载"
+title: "西门子S712001500 PLC与Modbus485主站DCS系统通讯资源下载"
 date:   2021-02-18
 tags: [PLC,DCS,Modbus,通讯,主站]
 comments: true

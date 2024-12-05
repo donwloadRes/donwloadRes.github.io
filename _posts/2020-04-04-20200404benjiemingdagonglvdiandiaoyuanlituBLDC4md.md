@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本杰明-大功率电调原理图BLDC_4"
+title: "本杰明大功率电调原理图BLDC4"
 date:   2020-11-27
 tags: [原理图,电机,电调,BLDC,无感]
 comments: true

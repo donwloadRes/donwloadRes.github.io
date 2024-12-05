@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言TC2.0环境-带图形库资源介绍"
+title: "C语言TC20环境带图形库资源介绍"
 date:   2022-12-17
 tags: [TC2.0,C语言,DOS,编程,图形库]
 comments: true

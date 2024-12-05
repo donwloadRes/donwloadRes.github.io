@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR 5.0 编译文件下载"
+title: "TesseractOCR 50 编译文件下载"
 date:   2024-12-04
 tags: [Tesseract,OCR,文件,5.0,编译]
 comments: true

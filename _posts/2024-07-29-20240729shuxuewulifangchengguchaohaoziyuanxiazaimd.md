@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学物理方程（谷超豪）资源下载"
+title: "数学物理方程谷超豪资源下载"
 date:   2023-08-08
 tags: [谷超豪,方程,下载,物理,数学]
 comments: true

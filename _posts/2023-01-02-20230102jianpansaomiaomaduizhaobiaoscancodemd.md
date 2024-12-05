@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "键盘扫描码对照表（scancode）"
+title: "键盘扫描码对照表scancode"
 date:   2023-02-17
 tags: [扫描,键盘,对照表,键盘输入,scancode]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3588-UBOOT关机充电流程"
+title: "RK3588UBOOT关机充电流程"
 date:   2022-09-29
 tags: [UBOOT,充电,RK3588,动画,关机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 11.3 调用阿里云OSS的FMX版本（华为Mate60测试通过）"
+title: "Delphi 113 调用阿里云OSS的FMX版本华为Mate60测试通过"
 date:   2020-02-20
 tags: [OSS,阿里,Delphi,Mate60,11.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actel-ProASIC3中文器件手册下载"
+title: "ActelProASIC3中文器件手册下载"
 date:   2022-09-13
 tags: [Actel,ProASIC3,手册,器件,中文版]
 comments: true

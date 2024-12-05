@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim14：交流数字电压表系统设计与仿真资源"
+title: "Multisim14交流数字电压表系统设计与仿真资源"
 date:   2021-08-13
 tags: [电压表,仿真,数字,Multisim14,设计]
 comments: true

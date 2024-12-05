@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用FFMPEG+LIVE555在Windows下实现屏幕录制与RTSP服务器"
+title: "使用FFMPEGLIVE555在Windows下实现屏幕录制与RTSP服务器"
 date:   2023-02-14
 tags: [RTSP,FFMPEG,LIVE555,服务器,录制]
 comments: true

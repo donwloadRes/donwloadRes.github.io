@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新GJB-Z 299C-2006电子设备可靠性预计手册（电子版）3M 281P.pdf"
+title: "最新GJBZ 299C2006电子设备可靠性预计手册电子版3M 281Ppdf"
 date:   2024-07-06
 tags: [可靠性,电子设备,2006,电子版,GJB]
 comments: true

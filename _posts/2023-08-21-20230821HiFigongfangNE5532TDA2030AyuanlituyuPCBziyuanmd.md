@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HiFi功放NE5532+TDA2030A原理图与PCB资源"
+title: "HiFi功放NE5532TDA2030A原理图与PCB资源"
 date:   2023-10-28
 tags: [功放,音频,HiFi,NE5532,PCB]
 comments: true

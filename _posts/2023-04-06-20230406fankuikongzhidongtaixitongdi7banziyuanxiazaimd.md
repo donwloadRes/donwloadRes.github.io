@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反馈控制动态系统（第7版）资源下载"
+title: "反馈控制动态系统第7版资源下载"
 date:   2021-06-25
 tags: [反馈,动态,控制,下载,资源]
 comments: true

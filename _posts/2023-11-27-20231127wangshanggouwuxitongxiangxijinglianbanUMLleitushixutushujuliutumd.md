@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网上购物系统详细精炼版（UML, 类图，时序图，数据流图）"
+title: "网上购物系统详细精炼版UML 类图时序图数据流图"
 date:   2023-09-23
 tags: [UML,设计,系统,购物,精炼]
 comments: true

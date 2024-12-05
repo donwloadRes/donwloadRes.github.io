@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：收敛交叉映射算法实现"
+title: "MATLAB代码收敛交叉映射算法实现"
 date:   2024-09-15
 tags: [映射,收敛,算法,交叉,序列]
 comments: true

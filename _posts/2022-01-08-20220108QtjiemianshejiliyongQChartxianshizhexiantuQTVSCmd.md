@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt界面设计：利用QChart显示折线图（QT+VS C++）"
+title: "Qt界面设计利用QChart显示折线图QTVS C"
 date:   2023-01-22
 tags: [Qt,折线图,Visual,Studio,界面设计]
 comments: true

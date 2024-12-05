@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libgcc-s.so.1 资源文件下载"
+title: "libgccsso1 资源文件下载"
 date:   2021-12-22
 tags: [libgcc,so.1,文件,下载,GCC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seed-XDS560V2 & Seed-XDS560V2Plus 驱动程序"
+title: "SeedXDS560V2  SeedXDS560V2Plus 驱动程序"
 date:   2020-11-30
 tags: [Seed,驱动程序,XDS560V2Plus,开发板,驱动]
 comments: true

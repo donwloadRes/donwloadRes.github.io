@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F030 HAL库驱动程序：24C32存储芯片与DS1307时钟芯片"
+title: "STM32F030 HAL库驱动程序24C32存储芯片与DS1307时钟芯片"
 date:   2022-05-05
 tags: [存储芯片,24C32,DS1307,STM32F030,IIC]
 comments: true

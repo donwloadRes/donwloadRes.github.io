@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osg+Qt结合（实现各种事件重写）示例程序"
+title: "osgQt结合实现各种事件重写示例程序"
 date:   2023-09-06
 tags: [示例,osg,Qt,自定义,QWidgetViewer]
 comments: true

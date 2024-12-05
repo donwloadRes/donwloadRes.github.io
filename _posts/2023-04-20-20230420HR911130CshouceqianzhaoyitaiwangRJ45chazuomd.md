@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HR911130C手册 - 千兆以太网RJ45插座"
+title: "HR911130C手册  千兆以太网RJ45插座"
 date:   2022-03-06
 tags: [手册,插座,千兆,以太网,RJ45]
 comments: true

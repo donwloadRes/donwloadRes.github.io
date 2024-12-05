@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用开发-程序接口设计文档模板"
+title: "应用开发程序接口设计文档模板"
 date:   2020-03-08
 tags: [接口,模板,文档,程序接口,设计]
 comments: true

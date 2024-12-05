@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生日快乐网站模板(HTML5+JS+CSS) 带音效"
+title: "生日快乐网站模板HTML5JSCSS 带音效"
 date:   2021-05-07
 tags: [模板,音效,网页,修改,背景音乐]
 comments: true

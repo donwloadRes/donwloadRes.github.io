@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 2015-2022 Redistributable (x64) 资源文件"
+title: "Visual C 20152022 Redistributable x64 资源文件"
 date:   2023-06-01
 tags: [文件,Visual,C++,2015,2022]
 comments: true

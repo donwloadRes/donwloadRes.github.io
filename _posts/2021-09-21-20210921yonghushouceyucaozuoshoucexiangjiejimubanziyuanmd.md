@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用户手册》与操作手册》详解及模板资源"
+title: "用户手册与操作手册详解及模板资源"
 date:   2022-05-05
 tags: [文档,用户手册,操作手册,模板,用户]
 comments: true

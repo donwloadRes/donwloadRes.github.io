@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Menter PADS VX2.7 资源文件下载"
+title: "Menter PADS VX27 资源文件下载"
 date:   2022-11-02
 tags: [下载,PADS,文件,资源,VX2.7]
 comments: true

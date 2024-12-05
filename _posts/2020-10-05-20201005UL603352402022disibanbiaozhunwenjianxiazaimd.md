@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UL 60335-2-40-2022 第四版标准文件下载"
+title: "UL 603352402022 第四版标准文件下载"
 date:   2020-01-19
 tags: [UL,2022,40,第四版,60335]
 comments: true

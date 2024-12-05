@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8153 USB3.0转千兆网卡设计资源"
+title: "RTL8153 USB30转千兆网卡设计资源"
 date:   2020-03-19
 tags: [网卡,千兆,RTL8153,设计,芯片]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+MQTT协议功能实现"
+title: "STM32MQTT协议功能实现"
 date:   2024-02-13
 tags: [MQTT,STM32,服务器,开发板,发物]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E-Gas标准中文翻译版下载"
+title: "EGas标准中文翻译版下载"
 date:   2024-04-22
 tags: [Gas,文件,中文翻译,标准,standardized]
 comments: true

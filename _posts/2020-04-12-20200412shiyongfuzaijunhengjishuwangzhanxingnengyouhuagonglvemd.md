@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用负载均衡技术：网站性能优化攻略"
+title: "实用负载均衡技术网站性能优化攻略"
 date:   2022-02-06
 tags: [负载,均衡,网站,性能,优化]
 comments: true

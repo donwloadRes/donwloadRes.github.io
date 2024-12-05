@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "空时自适应信号处理-王永良 PDF 下载"
+title: "空时自适应信号处理王永良 PDF 下载"
 date:   2020-06-13
 tags: [信号处理,空时,王永良,PDF,适应]
 comments: true

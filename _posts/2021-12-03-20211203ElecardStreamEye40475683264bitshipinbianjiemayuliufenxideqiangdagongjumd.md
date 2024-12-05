@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elecard StreamEye 4.0.47568 (32-64-bit) - 视频编解码与流分析的强大工具"
+title: "Elecard StreamEye 4047568 3264bit  视频编解码与流分析的强大工具"
 date:   2022-01-12
 tags: [视频,StreamEye,Elecard,编解码,编码]
 comments: true

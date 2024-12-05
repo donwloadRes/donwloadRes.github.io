@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ USB及串口通信工程源码"
+title: "VC USB及串口通信工程源码"
 date:   2024-08-21
 tags: [串口,USB,通信,开发者,C++]
 comments: true

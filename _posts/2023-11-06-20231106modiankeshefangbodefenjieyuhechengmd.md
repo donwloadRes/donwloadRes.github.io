@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模电课设：方波的分解与合成"
+title: "模电课设方波的分解与合成"
 date:   2023-05-10
 tags: [方波,分解,合成,基波,高次]
 comments: true

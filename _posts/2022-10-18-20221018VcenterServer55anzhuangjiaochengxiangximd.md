@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vcenter Server 5.5 安装教程（详细）"
+title: "Vcenter Server 55 安装教程详细"
 date:   2022-03-28
 tags: [Vcenter,Server,安装,教程,5.5]
 comments: true

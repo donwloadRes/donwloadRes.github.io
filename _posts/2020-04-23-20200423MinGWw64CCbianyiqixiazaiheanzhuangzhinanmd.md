@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64 C-C++编译器下载和安装指南"
+title: "MinGWw64 CC编译器下载和安装指南"
 date:   2020-01-02
 tags: [w64,MinGW,编译器,安装,C++]
 comments: true

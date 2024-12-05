@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML大作业：选课管理系统图集"
+title: "UML大作业选课管理系统图集"
 date:   2022-01-14
 tags: [选课,管理系统,UML,成绩,管理]
 comments: true

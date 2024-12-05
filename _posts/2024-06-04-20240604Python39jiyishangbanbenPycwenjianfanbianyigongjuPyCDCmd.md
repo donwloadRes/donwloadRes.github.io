@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.9 及以上版本 Pyc 文件反编译工具 - PyCDC"
+title: "Python 39 及以上版本 Pyc 文件反编译工具  PyCDC"
 date:   2023-04-08
 tags: [反编译,Python,PyCDC,pyc,版本]
 comments: true

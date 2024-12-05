@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WEBAPI 及 Winform 调用示例"
+title: "C WEBAPI 及 Winform 调用示例"
 date:   2021-07-14
 tags: [Winform,WebAPI,调用,示例,项目]
 comments: true

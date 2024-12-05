@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KMI25-2; KMI25-4产品数据手册"
+title: "KMI252 KMI254产品数据手册"
 date:   2020-11-27
 tags: [KMI25,传感器,AK,手册,文件]
 comments: true

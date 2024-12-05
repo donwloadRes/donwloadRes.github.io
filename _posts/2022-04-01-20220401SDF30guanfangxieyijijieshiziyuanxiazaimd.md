@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDF3.0官方协议及解释资源下载"
+title: "SDF30官方协议及解释资源下载"
 date:   2023-07-28
 tags: [SDF3.0,协议,文件,反标,下载]
 comments: true

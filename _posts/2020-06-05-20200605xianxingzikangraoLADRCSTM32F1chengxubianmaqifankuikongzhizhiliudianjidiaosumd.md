@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性自抗扰（LADRC）STM32F1程序：编码器反馈控制直流电机调速"
+title: "线性自抗扰LADRCSTM32F1程序编码器反馈控制直流电机调速"
 date:   2020-10-06
 tags: [LADRC,编码器,调试,直流电机,STM32F1]
 comments: true

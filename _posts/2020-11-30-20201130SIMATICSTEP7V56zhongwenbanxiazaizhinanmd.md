@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMATIC STEP7 V5.6 中文版下载指南"
+title: "SIMATIC STEP7 V56 中文版下载指南"
 date:   2020-04-07
 tags: [V5.6,管理员,下载,中文版,SIMATIC]
 comments: true

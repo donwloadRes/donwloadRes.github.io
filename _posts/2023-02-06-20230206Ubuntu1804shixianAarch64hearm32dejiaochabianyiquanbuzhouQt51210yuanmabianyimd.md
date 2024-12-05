@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu18.04实现Aarch64和arm32的交叉编译全步骤(Qt5.12.10源码编译)"
+title: "Ubuntu1804实现Aarch64和arm32的交叉编译全步骤Qt51210源码编译"
 date:   2024-05-12
 tags: [编译,编译器,交叉,源码,Qt]
 comments: true

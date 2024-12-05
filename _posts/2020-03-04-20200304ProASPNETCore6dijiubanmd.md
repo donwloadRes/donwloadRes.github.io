@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pro ASP.NET Core 6 第九版"
+title: "Pro ASPNET Core 6 第九版"
 date:   2023-04-15
 tags: [NET,ASP,Core,Web,第九版]
 comments: true

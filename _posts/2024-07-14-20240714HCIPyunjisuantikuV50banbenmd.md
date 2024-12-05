@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP--云计算题库 V5.0版本"
+title: "HCIP云计算题库 V50版本"
 date:   2022-06-05
 tags: [题库,HCIP,V5.0,计算,版本]
 comments: true

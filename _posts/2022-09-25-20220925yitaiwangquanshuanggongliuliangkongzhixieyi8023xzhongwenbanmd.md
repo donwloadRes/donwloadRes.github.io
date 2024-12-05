@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "以太网全双工流量控制协议802.3x 中文版"
+title: "以太网全双工流量控制协议8023x 中文版"
 date:   2020-04-04
 tags: [流量,全双工,以太网,802.3,PAUSE]
 comments: true

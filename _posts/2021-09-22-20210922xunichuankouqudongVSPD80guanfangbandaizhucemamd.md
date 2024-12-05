@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口驱动 VSPD 8.0 官方版带注册码"
+title: "虚拟串口驱动 VSPD 80 官方版带注册码"
 date:   2020-11-08
 tags: [串口,虚拟,注册码,串行,VSPD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DelphiXE10.1 数据Snap三层架构服务器与客户端源码合集"
+title: "DelphiXE101 数据Snap三层架构服务器与客户端源码合集"
 date:   2020-02-19
 tags: [DataSnap,客户端,Delphi,示例,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos下载与安装教程（Windows版）"
+title: "Nacos下载与安装教程Windows版"
 date:   2022-02-07
 tags: [nacos,Nacos,Windows,https,db]
 comments: true

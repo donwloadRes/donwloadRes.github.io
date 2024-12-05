@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BKEngine静态资源提取器（bkarc文件）"
+title: "BKEngine静态资源提取器bkarc文件"
 date:   2020-05-31
 tags: [提取,BKEngine,bkarc,文件,版本]
 comments: true

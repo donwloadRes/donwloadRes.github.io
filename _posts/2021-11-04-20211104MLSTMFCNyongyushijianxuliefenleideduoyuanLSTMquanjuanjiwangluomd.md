@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MLSTM-FCN：用于时间序列分类的多元LSTM全卷积网络"
+title: "MLSTMFCN用于时间序列分类的多元LSTM全卷积网络"
 date:   2022-11-24
 tags: [FCN,LSTM,模型,后端,序列]
 comments: true

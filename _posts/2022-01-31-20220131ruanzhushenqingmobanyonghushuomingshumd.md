@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软著申请模版【用户说明书】"
+title: "软著申请模版用户说明书"
 date:   2021-08-30
 tags: [模版,软著,申请,说明书,用户]
 comments: true

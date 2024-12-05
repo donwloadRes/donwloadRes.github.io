@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像匹配：LineMod2D VS2017工程"
+title: "图像匹配LineMod2D VS2017工程"
 date:   2021-05-11
 tags: [图像匹配,LineMod2D,Visual,Studio,工程]
 comments: true

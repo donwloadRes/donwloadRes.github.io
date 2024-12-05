@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微 Ecology 流程表单常用 JS 脚本收集（2020）"
+title: "泛微 Ecology 流程表单常用 JS 脚本收集2020"
 date:   2023-09-06
 tags: [泛微,OA,表单,Ecology,JS]
 comments: true

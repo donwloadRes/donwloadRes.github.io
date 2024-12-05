@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLite3 性能优化源代码：每秒百万条数据写入"
+title: "SQLite3 性能优化源代码每秒百万条数据写入"
 date:   2021-08-02
 tags: [写入,SQLite3,源代码,性能,内存]
 comments: true

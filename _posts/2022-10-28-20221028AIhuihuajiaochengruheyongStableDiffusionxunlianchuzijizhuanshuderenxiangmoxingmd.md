@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘画教程：如何用Stable Diffusion训练出自己专属的人像模型？"
+title: "AI绘画教程如何用Stable Diffusion训练出自己专属的人像模型"
 date:   2021-02-18
 tags: [AI,训练,模型,Stable,Diffusion]
 comments: true

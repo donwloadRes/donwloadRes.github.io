@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.91寸-0.96寸OLED资源 4P（IIC）Demo及指南"
+title: "091寸096寸OLED资源 4PIICDemo及指南"
 date:   2023-03-03
 tags: [OLED,DEMO,模块,IIC,C51]
 comments: true

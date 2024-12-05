@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统JSP + Servlet"
+title: "学生信息管理系统JSP  Servlet"
 date:   2020-11-15
 tags: [项目,MySQL,数据库,JSP,Servlet]
 comments: true

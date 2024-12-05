@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库STM32常用外设教程（八）—— SPI （读写W25Q128）"
+title: "HAL库STM32常用外设教程八 SPI 读写W25Q128"
 date:   2020-04-06
 tags: [SPI,STM32,W25Q128,HAL,接口]
 comments: true

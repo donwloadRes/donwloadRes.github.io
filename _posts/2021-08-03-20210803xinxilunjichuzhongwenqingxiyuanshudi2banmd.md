@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论基础-中文-清晰-原书第2版"
+title: "信息论基础中文清晰原书第2版"
 date:   2021-12-29
 tags: [信息论,原书,文件,中文,清晰]
 comments: true

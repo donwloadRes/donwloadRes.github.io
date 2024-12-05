@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Q3dSurface+Q3dScatter+Q3dBars基础Demo运行演示程序"
+title: "Q3dSurfaceQ3dScatterQ3dBars基础Demo运行演示程序"
 date:   2020-04-27
 tags: [Demo,Qt,3D,三维,图表]
 comments: true

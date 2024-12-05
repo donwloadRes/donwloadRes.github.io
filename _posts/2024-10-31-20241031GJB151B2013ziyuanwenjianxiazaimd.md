@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB151B-2013 资源文件下载"
+title: "GJB151B2013 资源文件下载"
 date:   2024-10-10
 tags: [文件,GJB151B,2013,资源,电磁兼容]
 comments: true

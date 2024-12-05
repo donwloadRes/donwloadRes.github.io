@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DSP28335生成SPWM源程序 - 三相120度移相"
+title: "基于DSP28335生成SPWM源程序  三相120度移相"
 date:   2022-02-04
 tags: [三相,DSP28335,SPWM,120,控制]
 comments: true

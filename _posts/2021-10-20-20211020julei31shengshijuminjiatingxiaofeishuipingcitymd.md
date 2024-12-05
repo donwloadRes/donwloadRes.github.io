@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "聚类-31省市居民家庭消费水平-city"
+title: "聚类31省市居民家庭消费水平city"
 date:   2022-10-15
 tags: [31,Python,居民家庭,消费水平,省市]
 comments: true

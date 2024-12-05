@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路课程设计 - 打地鼠游戏电路设计报告"
+title: "数字电路课程设计  打地鼠游戏电路设计报告"
 date:   2021-03-14
 tags: [电路设计,数字电路,游戏,LED,地鼠]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_F4VE 核心板原理图1 资源下载"
+title: "STM32F4VE 核心板原理图1 资源下载"
 date:   2023-08-09
 tags: [原理图,STM32,F4VE,下载,核心]
 comments: true

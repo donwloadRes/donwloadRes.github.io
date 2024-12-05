@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李跳跳-派大星2.2：广告拦截专家"
+title: "李跳跳派大星22广告拦截专家"
 date:   2023-10-28
 tags: [广告,跳跳,派大星,2.2,拦截]
 comments: true

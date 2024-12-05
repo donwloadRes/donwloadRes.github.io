@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-A2DP：一个简单的ESP32 Arduino蓝牙A2DP库"
+title: "ESP32A2DP一个简单的ESP32 Arduino蓝牙A2DP库"
 date:   2020-04-01
 tags: [蓝牙,ESP32,A2DP,Arduino,I2S]
 comments: true

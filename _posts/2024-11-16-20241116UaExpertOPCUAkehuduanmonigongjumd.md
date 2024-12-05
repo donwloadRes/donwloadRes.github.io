@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UaExpert OPC-UA 客户端模拟工具"
+title: "UaExpert OPCUA 客户端模拟工具"
 date:   2020-07-13
 tags: [UA,OPC,客户端,UaExpert,模拟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 RX Subsystem系统工程"
+title: "MIPI CSI2 RX Subsystem系统工程"
 date:   2021-11-15
 tags: [MIPI,zyqnmp,文件,系统工程,调试]
 comments: true

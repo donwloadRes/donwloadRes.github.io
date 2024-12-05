@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境下部署Kettle并解决Kitchen.sh报错问题"
+title: "Linux环境下部署Kettle并解决Kitchensh报错问题"
 date:   2020-10-12
 tags: [文件,sh,Linux,报错,Kettle]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全套X-Y数控工作台课程设计资源"
+title: "全套XY数控工作台课程设计资源"
 date:   2021-01-28
 tags: [工作台,数控,课程设计,电路图,CAD]
 comments: true

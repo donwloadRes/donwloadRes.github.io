@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adafruit-Fingerprint.h 库文件下载仓库"
+title: "AdafruitFingerprinth 库文件下载仓库"
 date:   2022-04-23
 tags: [指纹,Adafruit,Fingerprint,Arduino,文件]
 comments: true

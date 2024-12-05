@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法的TSP算法（Matlab代码）"
+title: "基于遗传算法的TSP算法Matlab代码"
 date:   2021-09-01
 tags: [TSP,Matlab,遗传算法,代码,com]
 comments: true

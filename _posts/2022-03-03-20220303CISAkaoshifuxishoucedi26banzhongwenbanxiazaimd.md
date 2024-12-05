@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISA考试复习手册第26版（中文版）下载"
+title: "CISA考试复习手册第26版中文版下载"
 date:   2023-04-23
 tags: [复习,考试,CISA,26,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MapGIS 6.7 安装包"
+title: "MapGIS 67 安装包"
 date:   2023-06-16
 tags: [MapGIS,安装包,6.7,GIS,解压]
 comments: true

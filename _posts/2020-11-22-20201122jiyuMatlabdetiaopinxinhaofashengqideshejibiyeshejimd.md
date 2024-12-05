@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab的跳频信号发生器的设计(毕业设计)"
+title: "基于Matlab的跳频信号发生器的设计毕业设计"
 date:   2021-10-30
 tags: [跳频,通信,Matlab,扩频通信,信号]
 comments: true

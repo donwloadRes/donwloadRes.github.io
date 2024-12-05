@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SadTalker一键整合包：轻松制作专属数字人"
+title: "SadTalker一键整合包轻松制作专属数字人"
 date:   2023-09-06
 tags: [SadTalker,数字,一键,音频,用户]
 comments: true

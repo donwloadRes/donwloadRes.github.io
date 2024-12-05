@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft HTML Help hhc.exe 下载仓库"
+title: "Microsoft HTML Help hhcexe 下载仓库"
 date:   2020-08-20
 tags: [HTML,Help,exe,hhc,Microsoft]
 comments: true

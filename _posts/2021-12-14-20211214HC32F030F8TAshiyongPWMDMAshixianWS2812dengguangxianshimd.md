@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32F030F8TA使用PWM(DMA)实现WS2812灯光显示"
+title: "HC32F030F8TA使用PWMDMA实现WS2812灯光显示"
 date:   2024-07-17
 tags: [DMA,WS2812,PWM,HC32F030F8TA,TIM1]
 comments: true

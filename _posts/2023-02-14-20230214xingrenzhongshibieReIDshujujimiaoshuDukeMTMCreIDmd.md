@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人重识别(ReID) ——数据集描述 DukeMTMC-reID"
+title: "行人重识别ReID 数据集描述 DukeMTMCreID"
 date:   2023-07-08
 tags: [DukeMTMC,reID,txt,bounding,box]
 comments: true

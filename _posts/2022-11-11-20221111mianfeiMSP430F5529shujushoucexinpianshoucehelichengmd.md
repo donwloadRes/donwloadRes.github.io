@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费.MSP430F5529数据手册、芯片手册和例程"
+title: "免费MSP430F5529数据手册芯片手册和例程"
 date:   2022-12-05
 tags: [手册,例程,芯片,MSP430F5529,理解]
 comments: true

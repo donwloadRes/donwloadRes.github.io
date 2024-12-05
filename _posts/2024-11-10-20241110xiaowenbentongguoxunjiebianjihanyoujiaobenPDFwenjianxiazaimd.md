@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小文本（通过迅捷编辑含有脚本）PDF文件下载"
+title: "小文本通过迅捷编辑含有脚本PDF文件下载"
 date:   2023-09-25
 tags: [PDF,编辑,文件,浏览器,下载]
 comments: true

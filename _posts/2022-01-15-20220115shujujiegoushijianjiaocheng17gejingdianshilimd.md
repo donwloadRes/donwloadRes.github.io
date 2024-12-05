@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构实践教程：17个经典实例"
+title: "数据结构实践教程17个经典实例"
 date:   2021-08-21
 tags: [实例,数据结构,17,经典,帮助]
 comments: true

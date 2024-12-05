@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【STM32程序】基于STM32F103ZE的步进电机驱动程序"
+title: "STM32程序基于STM32F103ZE的步进电机驱动程序"
 date:   2023-10-28
 tags: [步进,电机,STM32F103ZE,硬件,ADC]
 comments: true

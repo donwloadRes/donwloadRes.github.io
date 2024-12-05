@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超大文本阅读器：LogViewer"
+title: "超大文本阅读器LogViewer"
 date:   2022-05-23
 tags: [LogViewer,文本,超大,阅读器,文本文件]
 comments: true

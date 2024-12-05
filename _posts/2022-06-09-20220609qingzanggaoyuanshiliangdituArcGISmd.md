@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青藏高原矢量地图（ArcGIS）"
+title: "青藏高原矢量地图ArcGIS"
 date:   2021-12-30
 tags: [ArcGIS,矢量,青藏高原,地图,文件]
 comments: true

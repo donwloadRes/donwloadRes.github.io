@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "glut库函数（32位和64位版本-3.7.6）"
+title: "glut库函数32位和64位版本376"
 date:   2020-12-28
 tags: [GLUT,glut,32,64,OpenGL]
 comments: true

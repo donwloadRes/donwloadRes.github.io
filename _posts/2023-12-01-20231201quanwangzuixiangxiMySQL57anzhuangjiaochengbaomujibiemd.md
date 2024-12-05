@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最详细MySQL 5.7安装教程（保姆级别）"
+title: "全网最详细MySQL 57安装教程保姆级别"
 date:   2022-04-28
 tags: [MySQL,安装,5.7,教程,环境变量]
 comments: true

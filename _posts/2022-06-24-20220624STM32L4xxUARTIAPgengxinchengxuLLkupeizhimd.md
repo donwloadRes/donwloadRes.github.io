@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4xx UART IAP 更新程序（LL库配置）"
+title: "STM32L4xx UART IAP 更新程序LL库配置"
 date:   2023-01-06
 tags: [IAP,STM32L4xx,LL,文件,UART]
 comments: true

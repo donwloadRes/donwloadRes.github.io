@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0 Layout 设计指南"
+title: "USB30 Layout 设计指南"
 date:   2021-07-17
 tags: [USB3.0,设计,Layout,指南,PCB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink的通信系统建模与仿真课程设计：AWGN信道下BPSK与QPSK调制比较"
+title: "基于MATLABSimulink的通信系统建模与仿真课程设计AWGN信道下BPSK与QPSK调制比较"
 date:   2024-05-04
 tags: [BPSK,QPSK,调制,仿真,Simulink]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoLISP函数参考【中文版】下载仓库"
+title: "AutoLISP函数参考中文版下载仓库"
 date:   2023-07-20
 tags: [AutoLISP,函数,中文版,文件,仓库]
 comments: true

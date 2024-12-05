@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2022 Maui实现Android手机模拟屏幕操作，截屏、点击、滑动"
+title: "VS2022 Maui实现Android手机模拟屏幕操作截屏点击滑动"
 date:   2022-11-17
 tags: [Android,VS2022,屏幕,代码,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 + TypeScript 开发指南"
+title: "Vue3  TypeScript 开发指南"
 date:   2020-01-27
 tags: [Vue3,TypeScript,指南,开发者,开发]
 comments: true

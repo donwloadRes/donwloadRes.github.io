@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day06-作业（MySQL）指南"
+title: "Day06作业MySQL指南"
 date:   2021-09-07
 tags: [MySQL,作业,数据库,SQL,设计]
 comments: true

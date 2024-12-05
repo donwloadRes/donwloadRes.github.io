@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "org.apache.http.legacy.jar 下载仓库"
+title: "orgapachehttplegacyjar 下载仓库"
 date:   2023-07-18
 tags: [org,apache,http,legacy,jar]
 comments: true

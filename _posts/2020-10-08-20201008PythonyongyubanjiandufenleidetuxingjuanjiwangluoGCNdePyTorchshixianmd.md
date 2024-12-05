@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-用于半监督分类的图形卷积网络GCN的PyTorch实现"
+title: "Python用于半监督分类的图形卷积网络GCN的PyTorch实现"
 date:   2022-09-25
 tags: [GCN,PyTorch,py,卷积,Python]
 comments: true

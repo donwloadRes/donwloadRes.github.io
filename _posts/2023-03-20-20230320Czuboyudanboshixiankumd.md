@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++组播与单播实现库"
+title: "C组播与单播实现库"
 date:   2021-03-10
 tags: [组播,单播,C++,Windows,Linux]
 comments: true

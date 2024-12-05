@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言统计字符串中字母、数字、空格和其他字符的个数"
+title: "C语言统计字符串中字母数字空格和其他字符的个数"
 date:   2023-05-03
 tags: [字符串,count,个数,函数,字符]
 comments: true

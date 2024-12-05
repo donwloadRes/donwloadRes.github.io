@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 发送 HTTPS POST 请求并获取返回数据（包含 appKey 与 appSecret）"
+title: "C 发送 HTTPS POST 请求并获取返回数据包含 appKey 与 appSecret"
 date:   2022-04-05
 tags: [示例,appKey,appSecret,代码,HTTPS]
 comments: true

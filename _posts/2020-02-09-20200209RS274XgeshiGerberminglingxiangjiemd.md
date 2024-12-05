@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS-274X格式Gerber命令详解"
+title: "RS274X格式Gerber命令详解"
 date:   2024-09-24
 tags: [Gerber,RS,274X,格式,命令]
 comments: true

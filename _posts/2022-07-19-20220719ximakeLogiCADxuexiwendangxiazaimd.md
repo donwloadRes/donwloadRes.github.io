@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西马克Logi.CAD学习文档下载"
+title: "西马克LogiCAD学习文档下载"
 date:   2023-03-22
 tags: [文档,Logi,CAD,学习,马克]
 comments: true

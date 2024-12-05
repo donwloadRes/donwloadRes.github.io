@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7620A+7612E AC1200双频路由器开发全套资料"
+title: "MT7620A7612E AC1200双频路由器开发全套资料"
 date:   2021-11-23
 tags: [路由器,开发,双频,文件,MT7620A]
 comments: true

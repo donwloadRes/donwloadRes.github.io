@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three.js 智慧城市模型"
+title: "threejs 智慧城市模型"
 date:   2020-06-05
 tags: [three,js,模型,GLTFLoader,THREE]
 comments: true

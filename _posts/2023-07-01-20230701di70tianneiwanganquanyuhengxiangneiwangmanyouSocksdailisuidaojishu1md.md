@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第70天：内网安全-域横向内网漫游Socks代理隧道技术1"
+title: "第70天内网安全域横向内网漫游Socks代理隧道技术1"
 date:   2022-02-25
 tags: [内网,Socks,隧道,代理,技术]
 comments: true

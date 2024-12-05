@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WireShark实战：Telnet协议抓包分析指南"
+title: "WireShark实战Telnet协议抓包分析指南"
 date:   2020-01-04
 tags: [Telnet,WireShark,抓包,协议,分析]
 comments: true

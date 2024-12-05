@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Putty中文版 v0.61中文绿色软件"
+title: "Putty中文版 v061中文绿色软件"
 date:   2022-09-06
 tags: [Putty,Linux,v0.61,中文版,上传]
 comments: true

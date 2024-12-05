@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++安装和使用教程（手把手傻瓜式教学）"
+title: "DevC安装和使用教程手把手傻瓜式教学"
 date:   2022-03-15
 tags: [C++,Dev,编译,安装,编程]
 comments: true

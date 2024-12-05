@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-DIS 21448-2021 预期功能安全标准文件"
+title: "ISODIS 214482021 预期功能安全标准文件"
 date:   2020-02-19
 tags: [ISO,21448,2021,DIS,标准文件]
 comments: true

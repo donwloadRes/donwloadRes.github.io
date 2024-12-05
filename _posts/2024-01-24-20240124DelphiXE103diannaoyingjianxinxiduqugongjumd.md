@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE10.3 电脑硬件信息读取工具"
+title: "Delphi XE103 电脑硬件信息读取工具"
 date:   2024-03-10
 tags: [Delphi,硬件,XE10.3,信息,电脑硬件]
 comments: true

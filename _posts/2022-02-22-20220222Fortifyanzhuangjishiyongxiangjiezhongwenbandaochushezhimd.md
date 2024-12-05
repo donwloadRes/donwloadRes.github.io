@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fortify 安装及使用详解（中文版导出设置）"
+title: "Fortify 安装及使用详解中文版导出设置"
 date:   2021-03-30
 tags: [Fortify,安装,导出,扫描,源代码]
 comments: true

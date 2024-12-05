@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法的CVRP建模求解-Python代码"
+title: "基于遗传算法的CVRP建模求解Python代码"
 date:   2022-09-01
 tags: [遗传算法,CVRP,Python,https,建模]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jdk1.8版本从0到1丝滑安装指南"
+title: "jdk18版本从0到1丝滑安装指南"
 date:   2024-07-05
 tags: [JDK,Java,JAVA,解压,安装]
 comments: true

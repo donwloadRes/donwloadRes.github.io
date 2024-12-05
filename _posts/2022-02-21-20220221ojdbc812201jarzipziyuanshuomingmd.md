@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ojdbc8-12.2.0.1.jar.zip 资源说明"
+title: "ojdbc812201jarzip 资源说明"
 date:   2024-04-13
 tags: [ojdbc8,12.2,0.1,jar,Oracle]
 comments: true

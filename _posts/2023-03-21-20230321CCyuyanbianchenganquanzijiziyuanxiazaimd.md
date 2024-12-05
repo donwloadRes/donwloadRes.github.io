@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++语言编程安全子集资源下载"
+title: "CC语言编程安全子集资源下载"
 date:   2020-03-13
 tags: [C++,编程,安全,资源,文件]
 comments: true

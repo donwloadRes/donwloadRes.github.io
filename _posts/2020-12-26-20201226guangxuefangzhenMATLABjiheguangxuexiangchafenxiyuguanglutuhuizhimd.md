@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光学仿真-MATLAB几何光学像差分析与光路图绘制"
+title: "光学仿真MATLAB几何光学像差分析与光路图绘制"
 date:   2022-07-20
 tags: [MATLAB,仿真,光学,光路图,代码]
 comments: true

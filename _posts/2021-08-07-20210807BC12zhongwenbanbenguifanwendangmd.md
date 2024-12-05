@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BC1.2中文版本规范文档"
+title: "BC12中文版本规范文档"
 date:   2023-11-06
 tags: [充电,USB,设备,端口,BC1.2]
 comments: true

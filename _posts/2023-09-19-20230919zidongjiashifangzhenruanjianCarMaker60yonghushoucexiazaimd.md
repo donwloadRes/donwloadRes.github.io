@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动驾驶仿真软件CarMaker 6.0用户手册下载"
+title: "自动驾驶仿真软件CarMaker 60用户手册下载"
 date:   2022-02-12
 tags: [仿真,CarMaker,6.0,车辆,用户手册]
 comments: true

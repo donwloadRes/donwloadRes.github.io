@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "聊天界面-客服 静态页面HTML+CSS+JS"
+title: "聊天界面客服 静态页面HTMLCSSJS"
 date:   2020-09-10
 tags: [页面,聊天,界面,静态,HTML]
 comments: true

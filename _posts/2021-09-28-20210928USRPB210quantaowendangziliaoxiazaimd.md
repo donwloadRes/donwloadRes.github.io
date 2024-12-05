@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USRP-B210 全套文档资料下载"
+title: "USRPB210 全套文档资料下载"
 date:   2024-03-25
 tags: [USRP,B210,FPGA,芯片,文档资料]
 comments: true

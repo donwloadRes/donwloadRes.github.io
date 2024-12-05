@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 仿Android桌面（左右翻页）"
+title: "C WinForm 仿Android桌面左右翻页"
 date:   2024-08-22
 tags: [翻页,Android,桌面,效果,WinForm]
 comments: true

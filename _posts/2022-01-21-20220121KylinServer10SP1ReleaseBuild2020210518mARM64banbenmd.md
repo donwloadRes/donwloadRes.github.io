@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kylin Server 10 SP1 Release Build20 - 20210518m ARM64版本"
+title: "Kylin Server 10 SP1 Release Build20  20210518m ARM64版本"
 date:   2021-01-29
 tags: [Kylin,ARM64,Apache,10,SP1]
 comments: true

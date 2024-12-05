@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言知识点总结【完美版】文档"
+title: "C语言知识点总结完美版文档"
 date:   2020-04-18
 tags: [C语言,文档,学习,知识点,完美版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细MIT线性代数公开课笔记-完整版"
+title: "超详细MIT线性代数公开课笔记完整版"
 date:   2020-05-29
 tags: [线性代数,公开课,MIT,笔记,详细]
 comments: true

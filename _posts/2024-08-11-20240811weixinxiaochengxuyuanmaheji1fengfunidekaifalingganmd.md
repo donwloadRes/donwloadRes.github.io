@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序源码合集1 - 丰富你的开发灵感"
+title: "微信小程序源码合集1  丰富你的开发灵感"
 date:   2021-10-19
 tags: [微信,程序,源码,合集,开发者]
 comments: true

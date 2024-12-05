@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序毕业设计：电器租赁小程序"
+title: "微信小程序毕业设计电器租赁小程序"
 date:   2024-09-26
 tags: [微信,毕业设计,程序,截图,项目]
 comments: true

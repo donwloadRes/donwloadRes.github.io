@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拼多多死店采集源码-易语言源码"
+title: "拼多多死店采集源码易语言源码"
 date:   2024-03-08
 tags: [源码,死店,易语言,多多,采集]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 62132-4-2006 电磁兼容性测量资源文件"
+title: "IEC 6213242006 电磁兼容性测量资源文件"
 date:   2023-09-05
 tags: [IEC,2006,电磁兼容,62132,文件]
 comments: true

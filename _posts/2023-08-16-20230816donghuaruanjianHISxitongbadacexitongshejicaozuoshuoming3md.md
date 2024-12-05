@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东华软件-HIS系统八大册-系统设计操作说明.3"
+title: "东华软件HIS系统八大册系统设计操作说明3"
 date:   2022-03-06
 tags: [系统,病历,HIS,东华,软件]
 comments: true

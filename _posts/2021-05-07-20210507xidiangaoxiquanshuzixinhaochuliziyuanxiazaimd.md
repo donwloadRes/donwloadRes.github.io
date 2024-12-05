@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西电高西全数字信号处理》资源下载"
+title: "西电高西全数字信号处理资源下载"
 date:   2023-06-20
 tags: [信号处理,课后,西电高,西全,期末试卷]
 comments: true

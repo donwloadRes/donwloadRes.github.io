@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子伺服驱动器V90_PN中文手册下载"
+title: "西门子伺服驱动器V90PN中文手册下载"
 date:   2020-07-07
 tags: [伺服,驱动器,手册,V90,PN]
 comments: true

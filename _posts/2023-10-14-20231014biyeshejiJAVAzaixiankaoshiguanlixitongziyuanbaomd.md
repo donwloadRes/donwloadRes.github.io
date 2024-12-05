@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-JAVA在线考试管理系统资源包"
+title: "毕业设计JAVA在线考试管理系统资源包"
 date:   2021-06-30
 tags: [系统,J2EE,考试,在线,项目]
 comments: true

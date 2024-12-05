@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精选20套年终总结-半年总结-工作汇报-工作总结PPT模板"
+title: "精选20套年终总结半年总结工作汇报工作总结PPT模板"
 date:   2021-09-23
 tags: [模板,PPT,工作汇报,总结,年终总结]
 comments: true

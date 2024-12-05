@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Linux系统运维面试题（共四十页附答案）"
+title: "最新Linux系统运维面试题共四十页附答案"
 date:   2021-03-22
 tags: [Linux,运维,面试题,系统,答案]
 comments: true

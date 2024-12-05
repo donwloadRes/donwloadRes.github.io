@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flink原理、实战与性能优化资源下载"
+title: "Flink原理实战与性能优化资源下载"
 date:   2023-03-28
 tags: [Flink,实战,优化,原理,性能]
 comments: true

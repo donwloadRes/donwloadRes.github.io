@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库等保测评作业指导书V1.1"
+title: "数据库等保测评作业指导书V11"
 date:   2024-08-20
 tags: [测评,指导书,数据库,加固,V1.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V版本计算机组成与设计课件"
+title: "RISCV版本计算机组成与设计课件"
 date:   2020-04-30
 tags: [RISC,课件,计算机,设计,架构]
 comments: true

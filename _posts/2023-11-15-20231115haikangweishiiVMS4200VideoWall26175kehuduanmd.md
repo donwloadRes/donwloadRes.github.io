@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视iVMS-4200 Video Wall 2.6.17.5客户端"
+title: "海康威视iVMS4200 Video Wall 26175客户端"
 date:   2020-06-17
 tags: [威视,海康,客户端,软件,监控]
 comments: true

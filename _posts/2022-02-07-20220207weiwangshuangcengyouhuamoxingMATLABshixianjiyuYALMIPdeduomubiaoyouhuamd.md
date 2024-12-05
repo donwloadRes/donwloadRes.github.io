@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微网双层优化模型 - MATLAB实现基于YALMIP的多目标优化"
+title: "微网双层优化模型  MATLAB实现基于YALMIP的多目标优化"
 date:   2020-12-12
 tags: [微网,优化,YALMIP,模型,MATLAB]
 comments: true

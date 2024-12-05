@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 25.0.0.230 中文最新开心和谐版本"
+title: "CorelDRAW 2500230 中文最新开心和谐版本"
 date:   2021-01-01
 tags: [CorelDRAW,0.230,版本,25.0,矢量]
 comments: true

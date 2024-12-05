@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MES - 工业制程SPC管理系统"
+title: "C MES  工业制程SPC管理系统"
 date:   2022-04-09
 tags: [制程,SPC,数据库,管理,管理系统]
 comments: true

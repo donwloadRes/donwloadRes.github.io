@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基础教程完整版"
+title: "C基础教程完整版"
 date:   2024-05-15
 tags: [C++,教程,编程,面向对象编程,编译器]
 comments: true

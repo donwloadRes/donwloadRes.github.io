@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT通过VISA控制硬件设备编程指南"
+title: "C QT通过VISA控制硬件设备编程指南"
 date:   2021-09-30
 tags: [VISA,硬件,QT,C++,设备]
 comments: true

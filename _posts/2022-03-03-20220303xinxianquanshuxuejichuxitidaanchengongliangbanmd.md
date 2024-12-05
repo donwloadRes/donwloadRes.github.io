@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全数学基础习题答案(陈恭亮版)"
+title: "信息安全数学基础习题答案陈恭亮版"
 date:   2022-12-02
 tags: [习题,答案,信息安全,数学,陈恭亮]
 comments: true

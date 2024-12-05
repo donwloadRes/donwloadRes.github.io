@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门到精通PDF资源下载"
+title: "C入门到精通PDF资源下载"
 date:   2023-01-29
 tags: [C#,PDF,编程,文件,入门]
 comments: true

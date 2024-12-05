@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决11-12代Intel CPU安装WIN10-WIN11时M.2固态硬盘无法识别问题"
+title: "解决1112代Intel CPU安装WIN10WIN11时M2固态硬盘无法识别问题"
 date:   2021-06-14
 tags: [安装,驱动,M.2,11,Windows]
 comments: true

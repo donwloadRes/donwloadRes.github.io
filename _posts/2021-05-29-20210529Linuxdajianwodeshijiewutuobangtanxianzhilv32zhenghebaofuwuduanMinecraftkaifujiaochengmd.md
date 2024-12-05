@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux搭建我的世界乌托邦探险之旅3.2整合包服务端 - Minecraft开服教程"
+title: "Linux搭建我的世界乌托邦探险之旅32整合包服务端  Minecraft开服教程"
 date:   2021-11-09
 tags: [服务器,服务端,Linux,探险,教程]
 comments: true

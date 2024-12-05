@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407中文手册(完全版) 高清完整版下载"
+title: "STM32F407中文手册完全版 高清完整版下载"
 date:   2020-05-08
 tags: [STM32F407,手册,pdf,中文,完整版]
 comments: true

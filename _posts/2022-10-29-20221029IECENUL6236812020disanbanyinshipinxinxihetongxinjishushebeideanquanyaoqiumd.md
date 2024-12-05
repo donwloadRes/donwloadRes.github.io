@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-EN-UL 62368-1：2020 第三版 音视频、信息和通信技术设备的安全要求"
+title: "IECENUL 6236812020 第三版 音视频信息和通信技术设备的安全要求"
 date:   2021-07-06
 tags: [音视频,IEC,EN,UL,技术设备]
 comments: true

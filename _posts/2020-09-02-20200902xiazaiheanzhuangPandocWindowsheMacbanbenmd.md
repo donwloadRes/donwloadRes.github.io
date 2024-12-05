@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载和安装Pandoc（Windows和Mac版本）"
+title: "下载和安装PandocWindows和Mac版本"
 date:   2024-02-01
 tags: [Pandoc,安装,Mac,pandoc,安装包]
 comments: true

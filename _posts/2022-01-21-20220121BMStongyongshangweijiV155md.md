@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS 通用上位机 V1.55"
+title: "BMS 通用上位机 V155"
 date:   2024-04-13
 tags: [电池,BMS,V1.55,监控,上位]
 comments: true

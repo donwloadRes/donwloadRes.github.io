@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32C8T6+OLED波形显示资源介绍"
+title: "STM32C8T6OLED波形显示资源介绍"
 date:   2021-02-16
 tags: [OLED,代码,波形,STM32C8T6,屏幕]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB TCP通信示例（服务端＋客户端）网口助手源码"
+title: "VB TCP通信示例服务端客户端网口助手源码"
 date:   2022-12-13
 tags: [服务端,示例,TCP,客户端,VB6.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵论 (Carl D. Meyer) - 经典研究生教材"
+title: "矩阵论 Carl D Meyer  经典研究生教材"
 date:   2023-10-29
 tags: [矩阵,研究生,学习,Meyer,教材]
 comments: true

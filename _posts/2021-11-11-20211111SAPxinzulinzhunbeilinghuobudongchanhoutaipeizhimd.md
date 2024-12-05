@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP新租赁准备-灵活不动产后台配置"
+title: "SAP新租赁准备灵活不动产后台配置"
 date:   2023-12-14
 tags: [SAP,不动产,配置,租赁,后台]
 comments: true

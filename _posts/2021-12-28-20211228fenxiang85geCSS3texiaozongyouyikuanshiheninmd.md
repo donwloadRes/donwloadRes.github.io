@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享85个CSS3特效，总有一款适合您"
+title: "分享85个CSS3特效总有一款适合您"
 date:   2023-11-05
 tags: [特效,CSS3,动画,85,代码]
 comments: true

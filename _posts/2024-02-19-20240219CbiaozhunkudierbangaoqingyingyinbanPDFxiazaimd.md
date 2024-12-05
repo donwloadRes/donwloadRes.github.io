@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++标准库第二版高清影印版PDF下载"
+title: "C标准库第二版高清影印版PDF下载"
 date:   2023-01-13
 tags: [C++,PDF,高清,230M,标准]
 comments: true

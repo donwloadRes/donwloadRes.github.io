@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UM1010-RT-Thread-Web 服务器(WebNet)用户手册1"
+title: "UM1010RTThreadWeb 服务器WebNet用户手册1"
 date:   2024-10-16
 tags: [WebNet,RT,Thread,Web,本手册]
 comments: true

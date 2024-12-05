@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS 17.2 真机调试包下载"
+title: "iOS 172 真机调试包下载"
 date:   2021-11-25
 tags: [调试,Xcode,iOS,真机,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ai-WB2系列模组Linux开发环境搭建指南"
+title: "AiWB2系列模组Linux开发环境搭建指南"
 date:   2021-07-19
 tags: [烧录,模组,Ai,WB2,Ubuntu]
 comments: true

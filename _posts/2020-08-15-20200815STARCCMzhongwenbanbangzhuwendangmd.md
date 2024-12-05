@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAR-CCM+中文版帮助文档"
+title: "STARCCM中文版帮助文档"
 date:   2020-02-06
 tags: [网格,STAR,CCM,CD,adapco]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速傅里叶变换FFT-IFFT开源库fftw3"
+title: "快速傅里叶变换FFTIFFT开源库fftw3"
 date:   2021-02-02
 tags: [FFT,IFFT,fftw3,接口,CMake]
 comments: true

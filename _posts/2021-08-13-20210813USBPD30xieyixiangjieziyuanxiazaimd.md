@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB PD3.0协议详解资源下载"
+title: "USB PD30协议详解资源下载"
 date:   2021-03-30
 tags: [USB,PD3.0,协议,详解,资源]
 comments: true

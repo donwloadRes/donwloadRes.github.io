@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韦东山嵌入式Linux应用开发手册（基于i.MX6ULL开发板）"
+title: "韦东山嵌入式Linux应用开发手册基于iMX6ULL开发板"
 date:   2023-08-09
 tags: [Linux,嵌入式,开发板,手册,驱动程序]
 comments: true

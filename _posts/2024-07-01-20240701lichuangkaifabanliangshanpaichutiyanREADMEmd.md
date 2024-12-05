@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【立创开发板】梁山派初体验 README"
+title: "立创开发板梁山派初体验 README"
 date:   2020-10-06
 tags: [立创,开发板,梁山,学习,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Element Plus 2.5.5 本地离线资源包"
+title: "Element Plus 255 本地离线资源包"
 date:   2023-03-03
 tags: [Element,Plus,2.5,Vue,资源]
 comments: true

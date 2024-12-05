@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杭电计算机网络实验（网安学院）资源下载"
+title: "杭电计算机网络实验网安学院资源下载"
 date:   2020-11-23
 tags: [实验,计算机网络,杭电,网安,资源]
 comments: true

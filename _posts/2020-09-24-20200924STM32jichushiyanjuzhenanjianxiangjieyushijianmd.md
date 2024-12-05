@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32基础实验：矩阵按键详解与实践"
+title: "STM32基础实验矩阵按键详解与实践"
 date:   2022-03-28
 tags: [按键,矩阵,STM32,键盘,扫描]
 comments: true

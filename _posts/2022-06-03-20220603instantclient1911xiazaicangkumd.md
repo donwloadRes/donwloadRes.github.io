@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "instantclient-19-11 下载仓库"
+title: "instantclient1911 下载仓库"
 date:   2024-08-08
 tags: [Oracle,instantclient,19,11,文件]
 comments: true

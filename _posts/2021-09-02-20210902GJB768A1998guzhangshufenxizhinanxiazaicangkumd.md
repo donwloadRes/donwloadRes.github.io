@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 768A-1998故障树分析指南下载仓库"
+title: "GJB 768A1998故障树分析指南下载仓库"
 date:   2020-02-09
 tags: [1998,GJB,768A,指南,故障]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Mobile设备中心（64位）下载"
+title: "Windows Mobile设备中心64位下载"
 date:   2023-03-02
 tags: [Windows,64,Mobile,刷机,手机]
 comments: true

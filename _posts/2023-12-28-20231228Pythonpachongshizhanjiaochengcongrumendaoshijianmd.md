@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战教程：从入门到实践"
+title: "Python爬虫实战教程从入门到实践"
 date:   2021-07-18
 tags: [爬虫,Python,课件,代码,zip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 安装nginx 1.24.0 亲测有效指南"
+title: "Linux 安装nginx 1240 亲测有效指南"
 date:   2023-10-17
 tags: [nginx,bash,安装,Linux,1.24]
 comments: true

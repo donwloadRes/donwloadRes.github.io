@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的压力监测仪(MPX4115)（Proteus仿真+程序）"
+title: "基于51单片机的压力监测仪MPX4115Proteus仿真程序"
 date:   2020-06-25
 tags: [单片机,51,仿真,MPX4115,压力]
 comments: true

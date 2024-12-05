@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2434A-2004军用软件产品评价资源下载"
+title: "GJB 2434A2004军用软件产品评价资源下载"
 date:   2024-01-29
 tags: [软件产品,军用,2004,GJB,2434A]
 comments: true

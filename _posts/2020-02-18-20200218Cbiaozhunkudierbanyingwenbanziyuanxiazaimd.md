@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++标准库（第二版）英文版资源下载"
+title: "C标准库第二版英文版资源下载"
 date:   2024-07-29
 tags: [C++,算法,迭代,STL,容器]
 comments: true

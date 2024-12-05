@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AndroidStressTest: Android系统全面压力测试工具"
+title: "AndroidStressTest Android系统全面压力测试工具"
 date:   2020-08-11
 tags: [测试,Android,编译,libuvccamera,设备]
 comments: true

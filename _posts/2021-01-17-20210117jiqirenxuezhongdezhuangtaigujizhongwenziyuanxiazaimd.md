@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学中的状态估计（中文）资源下载"
+title: "机器人学中的状态估计中文资源下载"
 date:   2021-01-18
 tags: [机器人学,文件,资源,估计,状态]
 comments: true

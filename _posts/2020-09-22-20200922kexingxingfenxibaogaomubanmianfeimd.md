@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可行性分析报告模板（免费）"
+title: "可行性分析报告模板免费"
 date:   2023-12-12
 tags: [模板,可行性,项目,分析,报告]
 comments: true

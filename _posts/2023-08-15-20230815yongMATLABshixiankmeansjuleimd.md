@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用MATLAB实现k-means聚类"
+title: "用MATLAB实现kmeans聚类"
 date:   2020-04-17
 tags: [质心,MATLAB,means,数据,聚类]
 comments: true

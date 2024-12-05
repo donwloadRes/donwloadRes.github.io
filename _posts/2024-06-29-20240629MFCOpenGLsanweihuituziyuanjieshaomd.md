@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC+OpenGL三维绘图资源介绍"
+title: "MFCOpenGL三维绘图资源介绍"
 date:   2020-12-14
 tags: [MFC,OpenGL,三维,资源,绘图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马最新C、C++全栈培训第24期高清无密(全)"
+title: "黑马最新CC全栈培训第24期高清无密全"
 date:   2021-12-16
 tags: [全栈,C++,24,高清,无密]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杨中科.Net培训实况教学视频学习笔记+视频地址1-13季"
+title: "杨中科Net培训实况教学视频学习笔记视频地址113季"
 date:   2024-11-20
 tags: [视频,笔记,地址,Net,13]
 comments: true

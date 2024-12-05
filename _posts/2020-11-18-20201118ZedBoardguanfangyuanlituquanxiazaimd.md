@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZedBoard 官方原理图（全）下载"
+title: "ZedBoard 官方原理图全下载"
 date:   2024-01-16
 tags: [原理图,ZedBoard,FPGA,硬件,文件]
 comments: true

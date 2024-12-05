@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "青风带你学蓝牙nrf52840-上册"
+title: "青风带你学蓝牙nrf52840上册"
 date:   2020-01-31
 tags: [蓝牙,nrf52840,模块,文档,板子]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人寻路算法双向A（Bidirectional A）算法的实现"
+title: "机器人寻路算法双向ABidirectional A算法的实现"
 date:   2020-03-28
 tags: [算法,代码,寻路,C++,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的温湿度PM2.5微尘空气质量环境监测系统"
+title: "基于STM32单片机的温湿度PM25微尘空气质量环境监测系统"
 date:   2024-01-16
 tags: [仿真,PM2.5,空气质量,温湿度,传感器]
 comments: true

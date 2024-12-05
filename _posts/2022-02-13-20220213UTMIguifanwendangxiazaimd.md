@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UTMI+ 规范文档下载"
+title: "UTMI 规范文档下载"
 date:   2023-02-01
 tags: [文档,UTMI,USB,2.0,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为最新图标库（2024年）"
+title: "华为最新图标库2024年"
 date:   2022-03-05
 tags: [图标,2024,华为,图标库,最新]
 comments: true

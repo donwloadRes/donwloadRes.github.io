@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libmodbus_打包资源下载"
+title: "libmodbus打包资源下载"
 date:   2022-02-01
 tags: [libmodbus,MSYS,编译,打包,文件]
 comments: true

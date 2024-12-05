@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 联合 Halcon 开发 源程序"
+title: "C 联合 Halcon 开发 源程序"
 date:   2022-08-21
 tags: [Halcon,C#,图像处理,OCR,字符识别]
 comments: true

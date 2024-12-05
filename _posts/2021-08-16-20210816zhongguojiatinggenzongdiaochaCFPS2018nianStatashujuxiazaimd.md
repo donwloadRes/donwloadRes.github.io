@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国家庭跟踪调查（CFPS）2018年Stata数据下载"
+title: "中国家庭跟踪调查CFPS2018年Stata数据下载"
 date:   2023-03-22
 tags: [数据,Stata,跟踪调查,CFPS,2018]
 comments: true

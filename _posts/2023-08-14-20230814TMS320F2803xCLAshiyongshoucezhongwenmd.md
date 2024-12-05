@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320F2803x CLA 使用手册（中文）"
+title: "TMS320F2803x CLA 使用手册中文"
 date:   2021-02-18
 tags: [CLA,TMS320F2803x,本手册,模块,使用手册]
 comments: true

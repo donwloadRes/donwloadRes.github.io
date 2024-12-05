@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何一个月左右拿下PAT甲级（浙大机试）满分"
+title: "如何一个月左右拿下PAT甲级浙大机试满分"
 date:   2021-12-10
 tags: [PAT,甲级,机试,算法,满分]
 comments: true

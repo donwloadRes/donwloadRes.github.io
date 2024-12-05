@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS管理系统上位机V1.0"
+title: "BMS管理系统上位机V10"
 date:   2021-04-06
 tags: [电池,BMS,管理系统,上位,V1.0]
 comments: true

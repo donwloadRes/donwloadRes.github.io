@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "循迹小车开发指南：活用 MSP430G2553 资源打造智慧小车"
+title: "循迹小车开发指南活用 MSP430G2553 资源打造智慧小车"
 date:   2020-10-19
 tags: [小车,循迹,传感器,MSP430G2553,微控制器]
 comments: true

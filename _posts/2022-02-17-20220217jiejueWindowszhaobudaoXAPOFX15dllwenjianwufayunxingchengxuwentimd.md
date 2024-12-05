@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows找不到XAPOFX1_5.dll文件无法运行程序问题"
+title: "解决Windows找不到XAPOFX15dll文件无法运行程序问题"
 date:   2024-01-28
 tags: [文件,Windows,dll,XAPOFX1,DLL]
 comments: true

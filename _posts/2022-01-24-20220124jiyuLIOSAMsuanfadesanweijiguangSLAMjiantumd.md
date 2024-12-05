@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LIO-SAM算法的三维激光SLAM建图"
+title: "基于LIOSAM算法的三维激光SLAM建图"
 date:   2021-01-24
 tags: [LIO,SAM,算法,SLAM,建图]
 comments: true

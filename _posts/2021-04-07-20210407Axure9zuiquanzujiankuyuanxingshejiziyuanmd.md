@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure 9 最全组件库 - 原型设计资源"
+title: "Axure 9 最全组件库  原型设计资源"
 date:   2021-01-16
 tags: [原型,组件,图表,绘制,模型]
 comments: true

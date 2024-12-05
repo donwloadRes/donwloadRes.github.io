@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA面试题合集＋解析（最全阿里面试题库）"
+title: "JAVA面试题合集解析最全阿里面试题库"
 date:   2020-07-21
 tags: [面试题,JAVA,面试,解析,合集]
 comments: true

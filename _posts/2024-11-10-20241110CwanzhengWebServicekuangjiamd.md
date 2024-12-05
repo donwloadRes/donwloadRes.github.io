@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 完整 WebService 框架"
+title: "C 完整 WebService 框架"
 date:   2021-07-23
 tags: [框架,WebService,C#,完整,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200步进电机运动控制系统设计资源下载"
+title: "西门子S71200步进电机运动控制系统设计资源下载"
 date:   2021-04-28
 tags: [步进,电机,S7,1200,PLC]
 comments: true

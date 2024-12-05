@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "frp-v0.57.0-windows安装包"
+title: "frpv0570windows安装包"
 date:   2021-11-27
 tags: [frp,安装包,v0.57,文档,windows]
 comments: true

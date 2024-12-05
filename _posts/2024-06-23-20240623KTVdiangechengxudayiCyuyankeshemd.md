@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KTV点歌程序-大一C语言课设"
+title: "KTV点歌程序大一C语言课设"
 date:   2022-03-31
 tags: [课设,C语言,编程,KTV,点歌]
 comments: true

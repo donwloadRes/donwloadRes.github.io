@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D线激光扫描资源C++"
+title: "3D线激光扫描资源C"
 date:   2024-07-08
 tags: [3D,扫描,点云,项目,Visual]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2.4 GHz无线通信应用的2×2圆形微带贴片天线资源设计与分析"
+title: "24 GHz无线通信应用的22圆形微带贴片天线资源设计与分析"
 date:   2021-08-04
 tags: [天线,无线通信,2.4,GHz,贴片]
 comments: true

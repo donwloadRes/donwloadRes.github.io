@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolo v5-7.0版本中文标签显示方法"
+title: "Yolo v570版本中文标签显示方法"
 date:   2024-07-10
 tags: [标签,中文,Yolo,v5,7.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM 6.42.3俄罗斯大神版软件新功能介绍及2024最新下载"
+title: "IDM 6423俄罗斯大神版软件新功能介绍及2024最新下载"
 date:   2022-08-26
 tags: [IDM,6.42,下载,大神,2024]
 comments: true

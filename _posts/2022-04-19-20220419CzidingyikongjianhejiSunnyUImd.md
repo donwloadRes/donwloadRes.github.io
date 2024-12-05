@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义控件合集 - SunnyUI"
+title: "C自定义控件合集  SunnyUI"
 date:   2024-07-26
 tags: [控件,自定义,SunnyUI,示例,C#]
 comments: true

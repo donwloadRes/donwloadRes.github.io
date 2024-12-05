@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS Catalina 10.15.7 CDR 镜像懒人版"
+title: "macOS Catalina 10157 CDR 镜像懒人版"
 date:   2024-08-19
 tags: [macOS,虚拟机,镜像,VMware,Catalina]
 comments: true

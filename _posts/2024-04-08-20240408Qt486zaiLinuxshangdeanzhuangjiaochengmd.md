@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt4.8.6 在 Linux 上的安装教程"
+title: "Qt486 在 Linux 上的安装教程"
 date:   2023-11-15
 tags: [安装,教程,虚拟机,Qt4.8,Linux]
 comments: true

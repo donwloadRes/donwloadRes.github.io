@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF 3D动画实例：3D场景模拟"
+title: "WPF 3D动画实例3D场景模拟"
 date:   2023-01-26
 tags: [3D,WPF,动画,实例,场景]
 comments: true

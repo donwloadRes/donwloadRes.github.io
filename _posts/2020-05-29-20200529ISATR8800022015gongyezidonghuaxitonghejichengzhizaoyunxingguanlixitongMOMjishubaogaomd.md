@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISA TR88.00.02-2015: 工业自动化系统和集成 - 制造运行管理系统(MOM)技术报告"
+title: "ISA TR8800022015 工业自动化系统和集成  制造运行管理系统MOM技术报告"
 date:   2020-07-08
 tags: [ISA,02,2015,自动化,TR88.00]
 comments: true

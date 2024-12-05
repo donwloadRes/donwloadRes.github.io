@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux Redhat红帽系统镜像分享（4.x-7.x）"
+title: "Linux Redhat红帽系统镜像分享4x7x"
 date:   2021-12-29
 tags: [镜像文件,Redhat,版本,镜像,红帽]
 comments: true

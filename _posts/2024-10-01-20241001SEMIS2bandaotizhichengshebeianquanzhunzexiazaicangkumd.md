@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI-S2半导体制程设备安全准则下载仓库"
+title: "SEMIS2半导体制程设备安全准则下载仓库"
 date:   2022-07-29
 tags: [SEMI,S2,安全,设备,制程]
 comments: true

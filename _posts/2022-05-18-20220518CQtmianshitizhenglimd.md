@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt 面试题整理"
+title: "C Qt 面试题整理"
 date:   2021-08-21
 tags: [Qt,面试题,C++,面试,整理]
 comments: true

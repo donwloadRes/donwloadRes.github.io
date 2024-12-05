@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读写Influxdb代码例子"
+title: "C读写Influxdb代码例子"
 date:   2021-07-26
 tags: [InfluxDB,InfluxDBHelper,示例,C#,代码]
 comments: true

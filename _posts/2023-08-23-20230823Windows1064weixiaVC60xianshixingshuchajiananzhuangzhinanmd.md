@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "Windows 10（64位）下VC++6.0显示行数插件安装指南"
+title: "Windows 1064位下VC60显示行数插件安装指南
+date   20230606
+tags C60插件Windows10
+comments true
+author admin
+
+ Windows 1064位下VC60显示行数插件安装指南
+
+欢迎来到VC60增强体验的快速入门如果您正在使用经典的Visual C 60 IDE并在寻找如何在Windows 1064位系统上让它显示代码行数的解决方案那么您找对地方了本资源提供了详细的步骤确保您可以顺利地在您的开发环境中激活这一实用功能
+
+ 插件简介
+
+本资源包包含必要的组件用于在VC60编辑器中添加行号显示功能极大提升代码阅读和调试的便利性遵循以下指南即便是编程新手也能轻松完成设置
+
+ 获取插件
+
+首先您需要下载VC60显示行数插件该插件已经打包成易于使用的压缩文件保证在Windows 10 64位系统上兼容
+
+ 安装步骤
+
+ 步骤1解压与复制
+ 解压缩下载的文件包
+ 将VC6LineNumberAddindll文件复制到VC60的安装目录下的CommonMSDev98AddIns路径中
+
+ 步骤2注册插件
+ 执行管理员模式下的命令提示符cmdexe
+ 导航至System32目录通常位于CWindowsSystem32或者直接在命令行中输入
+  
+  cmd
+  regsvr32 CProgram Files x86Microsoft Visual StudioCommonMSDev98AddInsVC6LineNumberAddindll"
 date:   2023-06-06
 tags: [C++,6.0,插件,Windows,10]
 comments: true

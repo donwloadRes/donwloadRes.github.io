@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟v10系统arm64架构自制openssh9.5p1的rpm包"
+title: "麒麟v10系统arm64架构自制openssh95p1的rpm包"
 date:   2022-02-25
 tags: [OpenSSH,p1,arm64,RPM,架构]
 comments: true

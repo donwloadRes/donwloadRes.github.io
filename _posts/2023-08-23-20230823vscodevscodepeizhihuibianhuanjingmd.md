@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【vscode】vscode配置汇编环境"
+title: "vscodevscode配置汇编环境"
 date:   2024-04-11
 tags: [vscode,汇编语言,配置,配置文件,汇编]
 comments: true

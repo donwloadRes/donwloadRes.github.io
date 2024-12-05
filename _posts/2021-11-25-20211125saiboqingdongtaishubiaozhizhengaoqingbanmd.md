@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛博青动态鼠标指针，高清版！！！"
+title: "赛博青动态鼠标指针高清版"
 date:   2020-11-01
 tags: [鼠标,指针,高清,动态效果,操作系统]
 comments: true

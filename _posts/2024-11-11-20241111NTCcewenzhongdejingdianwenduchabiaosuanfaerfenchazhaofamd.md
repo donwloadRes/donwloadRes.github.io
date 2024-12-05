@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NTC测温中的经典温度查表算法——二分查找法"
+title: "NTC测温中的经典温度查表算法二分查找法"
 date:   2020-01-24
 tags: [查表,查找,NTC,测温,二分]
 comments: true

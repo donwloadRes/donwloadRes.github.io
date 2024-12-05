@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS Maxwell19.2 使用教程"
+title: "ANSYS Maxwell192 使用教程"
 date:   2024-01-25
 tags: [ANSYS,Maxwell19.2,仿真,教程,使用]
 comments: true

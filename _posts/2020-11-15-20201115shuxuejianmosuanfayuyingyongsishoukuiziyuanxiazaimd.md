@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模算法与应用---司守奎 资源下载"
+title: "数学建模算法与应用司守奎 资源下载"
 date:   2023-12-21
 tags: [建模,PDF,章节,算法,数学]
 comments: true

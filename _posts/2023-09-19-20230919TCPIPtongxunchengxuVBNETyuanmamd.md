@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCPIP通讯程序VB.NET源码"
+title: "TCPIP通讯程序VBNET源码"
 date:   2021-12-13
 tags: [源码,VB,NET,Server,Client]
 comments: true

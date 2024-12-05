@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform窗体内嵌入第三方应用窗体源码"
+title: "C Winform窗体内嵌入第三方应用窗体源码"
 date:   2021-06-28
 tags: [窗体,第三方,嵌入,应用,C#]
 comments: true

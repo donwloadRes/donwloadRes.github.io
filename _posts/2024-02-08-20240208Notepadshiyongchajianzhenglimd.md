@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++实用插件整理"
+title: "Notepad实用插件整理"
 date:   2023-12-14
 tags: [插件,Notepad,++,Json,文件]
 comments: true

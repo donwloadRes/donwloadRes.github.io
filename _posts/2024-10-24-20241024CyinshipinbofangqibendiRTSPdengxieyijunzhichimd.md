@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 音视频播放器（本地、RTSP等协议均支持）"
+title: "C 音视频播放器本地RTSP等协议均支持"
 date:   2020-02-20
 tags: [RTSP,播放,音视频,源码,播放器]
 comments: true

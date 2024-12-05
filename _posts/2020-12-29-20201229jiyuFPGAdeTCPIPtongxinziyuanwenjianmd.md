@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的TCP-IP通信资源文件"
+title: "基于FPGA的TCPIP通信资源文件"
 date:   2023-05-15
 tags: [FPGA,网口,TCP,IP,1000M]
 comments: true

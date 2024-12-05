@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "子域名收集神器：Layer 保姆级教程"
+title: "子域名收集神器Layer 保姆级教程"
 date:   2024-08-25
 tags: [域名,Layer,导出,IP,收集]
 comments: true

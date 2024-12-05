@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5实时、高精度的人脸检测资源下载"
+title: "YOLOv5实时高精度的人脸检测资源下载"
 date:   2024-04-27
 tags: [人脸,检测,示例,实时,YOLOv5]
 comments: true

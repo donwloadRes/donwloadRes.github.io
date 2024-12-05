@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Darknet训练YOLOv7-Tiny（AlexeyAB版本）资源文件介绍"
+title: "Darknet训练YOLOv7TinyAlexeyAB版本资源文件介绍"
 date:   2024-07-11
 tags: [模型,Darknet,训练,YOLOv7,配置文件]
 comments: true

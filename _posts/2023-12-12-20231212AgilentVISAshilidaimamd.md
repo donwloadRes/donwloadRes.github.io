@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agilent-VISA示例代码"
+title: "AgilentVISA示例代码"
 date:   2023-07-21
 tags: [示例,仪器,VISA,安捷伦,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora免费获取XXX号教程（最简单方式）"
+title: "Typora免费获取XXX号教程最简单方式"
 date:   2020-04-29
 tags: [Typora,教程,版本,下载,XXX]
 comments: true

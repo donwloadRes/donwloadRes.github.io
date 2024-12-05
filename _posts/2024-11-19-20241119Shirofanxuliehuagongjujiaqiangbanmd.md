@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shiro 反序列化工具 - 加强版"
+title: "Shiro 反序列化工具  加强版"
 date:   2020-02-06
 tags: [序列化,Shiro,工具,加强版,漏洞]
 comments: true

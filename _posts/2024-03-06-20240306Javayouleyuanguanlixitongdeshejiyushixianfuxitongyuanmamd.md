@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java游乐园管理系统的设计与实现【附系统源码】"
+title: "Java游乐园管理系统的设计与实现附系统源码"
 date:   2023-04-21
 tags: [管理,游乐园,主管,考勤,员工]
 comments: true

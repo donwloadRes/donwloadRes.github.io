@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M0+ 官方手册合集"
+title: "CortexM0 官方手册合集"
 date:   2023-03-02
 tags: [Cortex,M0,手册,处理器,文档]
 comments: true

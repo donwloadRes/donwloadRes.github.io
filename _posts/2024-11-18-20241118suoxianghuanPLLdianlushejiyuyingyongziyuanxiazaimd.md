@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锁相环(PLL)电路设计与应用资源下载"
+title: "锁相环PLL电路设计与应用资源下载"
 date:   2021-06-04
 tags: [锁相环,PLL,电路设计,应用,资源]
 comments: true

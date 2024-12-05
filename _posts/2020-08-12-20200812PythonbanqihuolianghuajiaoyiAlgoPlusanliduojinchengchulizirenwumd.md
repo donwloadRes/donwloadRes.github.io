@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python版期货量化交易（AlgoPlus）案例：多进程处理子任务"
+title: "Python版期货量化交易AlgoPlus案例多进程处理子任务"
 date:   2021-02-18
 tags: [AlgoPlus,Python,量化,交易,案例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KITTI RAW Data Set - 2011_09_30 Drive 系列"
+title: "KITTI RAW Data Set  20110930 Drive 系列"
 date:   2022-10-28
 tags: [2011,09,30,drive,zip]
 comments: true

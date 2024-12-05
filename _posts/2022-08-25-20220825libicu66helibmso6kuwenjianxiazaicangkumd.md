@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libicu66和libm.so.6库文件下载仓库"
+title: "libicu66和libmso6库文件下载仓库"
 date:   2022-04-02
 tags: [文件,下载,libicu66,libm,so.6]
 comments: true

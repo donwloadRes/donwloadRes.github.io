@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小波阈值去噪MATLAB代码-wdenoise"
+title: "小波阈值去噪MATLAB代码wdenoise"
 date:   2023-05-13
 tags: [阈值,wdenoise,EBayesThresh,代码,MATLAB]
 comments: true

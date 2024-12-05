@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "悦盒EC6108V9U、EC6108V9C及其变种机型通刷固件指南"
+title: "悦盒EC6108V9UEC6108V9C及其变种机型通刷固件指南"
 date:   2023-09-29
 tags: [固件,刷机,版本,悦盒,EC6108V9]
 comments: true

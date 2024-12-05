@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress Patch & Keygen v2.5.0"
+title: "DevExpress Patch  Keygen v250"
 date:   2021-10-19
 tags: [DevExpress,Keygen,使用,软件,开发者]
 comments: true

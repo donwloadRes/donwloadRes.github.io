@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 6.0 官方 中文 资源.pdf"
+title: "NET 60 官方 中文 资源pdf"
 date:   2024-08-16
 tags: [NET,6.0,开发者,pdf,中文]
 comments: true

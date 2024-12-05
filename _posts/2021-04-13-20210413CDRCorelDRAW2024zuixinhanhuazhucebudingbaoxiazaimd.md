@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDR（CorelDRAW）2024最新汉化注册补丁包下载"
+title: "CDRCorelDRAW2024最新汉化注册补丁包下载"
 date:   2021-08-05
 tags: [补丁包,CorelDRAW,2024,汉化,补丁]
 comments: true

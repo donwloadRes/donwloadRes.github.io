@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UART 串口通信FPGA数据接收程序（非常好）"
+title: "UART 串口通信FPGA数据接收程序非常好"
 date:   2023-12-26
 tags: [串口,UART,通信,接收,逻辑]
 comments: true

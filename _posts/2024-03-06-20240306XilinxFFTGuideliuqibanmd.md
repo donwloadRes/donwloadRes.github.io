@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FFT Guide - 刘奇版"
+title: "Xilinx FFT Guide  刘奇版"
 date:   2022-02-25
 tags: [FFT,Vivado,Xilinx,仿真,设计]
 comments: true

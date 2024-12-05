@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFmpeg的编码器 1.2"
+title: "最简单的基于FFmpeg的编码器 12"
 date:   2021-03-31
 tags: [FFmpeg,编码,视频,编译,开发者]
 comments: true

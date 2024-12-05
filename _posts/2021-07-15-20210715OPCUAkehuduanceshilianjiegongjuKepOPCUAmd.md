@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC UA客户端测试连接工具（KepOPCUA）"
+title: "OPC UA客户端测试连接工具KepOPCUA"
 date:   2021-11-10
 tags: [UA,KepOPCUA,OPC,数据库,数据]
 comments: true

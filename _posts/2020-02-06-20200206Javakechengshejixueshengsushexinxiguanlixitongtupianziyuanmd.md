@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计-学生宿舍信息管理系统图片资源"
+title: "Java课程设计学生宿舍信息管理系统图片资源"
 date:   2021-12-19
 tags: [课程设计,Java,图片,学生宿舍,信息管理系统]
 comments: true

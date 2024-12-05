@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-openGauss V1.0 第二次考试资源下载"
+title: "HCIAopenGauss V10 第二次考试资源下载"
 date:   2020-06-25
 tags: [HCIA,考试,下载,资源,openGauss]
 comments: true

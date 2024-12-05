@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview语言之Simon小游戏（羊了个羊）版"
+title: "Labview语言之Simon小游戏羊了个羊版"
 date:   2021-11-28
 tags: [Labview,Simon,小游戏,2020,游戏]
 comments: true

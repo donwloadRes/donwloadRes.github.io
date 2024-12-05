@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倍福EtherCAT XML配置工具 Slave Stack Code tool Version 5.12"
+title: "倍福EtherCAT XML配置工具 Slave Stack Code tool Version 512"
 date:   2022-07-11
 tags: [EtherCAT,Version,5.12,SSC,版本]
 comments: true

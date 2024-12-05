@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "HM STM32F407 HAL库 printf 重定向到串口1"
+title: "HM STM32F407 HAL库 printf 重定向到串口1
+date   20201229
+tags 串口printfHALhuart1重定向
+comments true
+author admin
+
+ HM STM32F407 HAL库 printf 重定向到串口1
+
+ 概述
+
+本资源提供了针对STM32F407系列微控制器在HAL库环境下实现printf函数重定向到串口1的功能在嵌入式开发中经常需要将调试信息便捷地输出至串口此功能通过重定向标准输出库函数printf到指定的串口本例中为串口1大大简化了调试过程和日志输出
+
+ 特性
+
+ 兼容性适用于基于STM32F407芯片且使用HAL库的项目
+ 易用性通过简单的代码修改即可实现printf输出的串口重定向
+ 效率优化的重定向方法减少运行时开销提高程序执行效率
+ 调试友好允许开发者像在PC上一样方便地使用printf进行调试打印无需频繁读取硬件寄存器或编写特定的发送函数
+
+ 使用步骤
+
+1 包含头文件确保你的工程中已经包含了HAL库的相关头文件
+2 重定向函数在项目的初始化阶段调用专门的初始化函数该函数会设置printf的输出目标为串口1
+3 配置串口1在使用前你需要根据具体需求配置好串口1的波特率数据位等参数
+4 直接使用printf在代码中的任何地方使用printf函数输出将会被自动重定向到串口1
+
+ 示例代码概览
+
+c
+include stm32f4xxhalh"
 date:   2020-12-29
 tags: [串口,printf,HAL,huart1,重定向]
 comments: true

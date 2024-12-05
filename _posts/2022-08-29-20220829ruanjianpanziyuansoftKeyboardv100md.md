@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件盘资源 - softKeyboard v1.0.0"
+title: "软件盘资源  softKeyboard v100"
 date:   2021-07-28
 tags: [Demo,Qt,集成,键盘,虚拟]
 comments: true

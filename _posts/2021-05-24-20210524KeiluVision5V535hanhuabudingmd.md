@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision5 V5.35 汉化补丁"
+title: "Keil uVision5 V535 汉化补丁"
 date:   2024-07-22
 tags: [汉化,补丁,Keil,uVision5,V5.35]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++小游戏资源库"
+title: "C小游戏资源库"
 date:   2023-09-20
 tags: [游戏,C++,源代码,小游戏,编程]
 comments: true

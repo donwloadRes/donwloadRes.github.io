@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战（Python）：利用线性回归预测鲍鱼年龄"
+title: "实战Python利用线性回归预测鲍鱼年龄"
 date:   2022-04-30
 tags: [线性,回归,Python,模型,鲍鱼]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 12、15 离线安装包"
+title: "PostgreSQL 1215 离线安装包"
 date:   2024-05-16
 tags: [安装包,PostgreSQL,离线,安装,12]
 comments: true

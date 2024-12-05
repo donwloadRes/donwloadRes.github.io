@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLink驱动 V6.84 for Windows"
+title: "JLink驱动 V684 for Windows"
 date:   2020-06-21
 tags: [JLink,V6.84,Windows,Link,调试]
 comments: true

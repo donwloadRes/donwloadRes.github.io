@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 一键安装资源"
+title: "NET Framework 35 一键安装资源"
 date:   2024-03-11
 tags: [NET,Framework,3.5,安装,一键]
 comments: true

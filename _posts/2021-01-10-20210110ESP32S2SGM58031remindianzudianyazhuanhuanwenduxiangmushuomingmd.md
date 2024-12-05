@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S2 SGM58031 热敏电阻电压转换温度项目说明"
+title: "ESP32S2 SGM58031 热敏电阻电压转换温度项目说明"
 date:   2023-09-30
 tags: [热敏电阻,ESP32,温度,S2,SGM58031]
 comments: true

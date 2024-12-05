@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andrew S.Tanenbaum 计算机网络 课后习题答案（第四版&第五版）"
+title: "Andrew STanenbaum 计算机网络 课后习题答案第四版第五版"
 date:   2020-11-06
 tags: [习题,课后,第五版,第四版,计算机网络]
 comments: true

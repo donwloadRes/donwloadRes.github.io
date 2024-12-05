@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川机械臂与PC通讯（Socket）资源文件"
+title: "安川机械臂与PC通讯Socket资源文件"
 date:   2020-04-12
 tags: [PC,安川,程序代码,Socket,机械]
 comments: true

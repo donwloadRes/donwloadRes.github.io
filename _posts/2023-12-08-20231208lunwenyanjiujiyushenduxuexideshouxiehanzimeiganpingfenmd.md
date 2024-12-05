@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "论文研究-基于深度学习的手写汉字美感评分"
+title: "论文研究基于深度学习的手写汉字美感评分"
 date:   2023-09-20
 tags: [汉字,美感,书写,评分,深度]
 comments: true

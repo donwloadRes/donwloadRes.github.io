@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "京东x-api-eid-token生成源代码（易语言）"
+title: "京东xapieidtoken生成源代码易语言"
 date:   2021-05-16
 tags: [源代码,易语言,京东,eid,token]
 comments: true

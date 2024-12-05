@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T-BOX开发方案-2.0 资源下载"
+title: "TBOX开发方案20 资源下载"
 date:   2020-12-03
 tags: [BOX,2.0,开发,方案,文件]
 comments: true

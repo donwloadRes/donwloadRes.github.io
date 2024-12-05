@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wind River Workbench 3.3 导入工程步骤指南"
+title: "Wind River Workbench 33 导入工程步骤指南"
 date:   2024-10-17
 tags: [Wind,River,Workbench,3.3,导入]
 comments: true

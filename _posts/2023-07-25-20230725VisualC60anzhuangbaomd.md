@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0 安装包"
+title: "Visual C 60 安装包"
 date:   2021-08-26
 tags: [C++,Visual,6.0,编程,安装包]
 comments: true

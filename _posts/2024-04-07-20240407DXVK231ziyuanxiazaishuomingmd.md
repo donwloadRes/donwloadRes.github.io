@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXVK 2.3.1 资源下载说明"
+title: "DXVK 231 资源下载说明"
 date:   2023-10-24
 tags: [游戏,---,Vulkan,DXVK,2.3]
 comments: true

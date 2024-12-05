@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO下载指南及“优化磁盘使用”卡顿问题解决办法"
+title: "VIVADO下载指南及优化磁盘使用卡顿问题解决办法"
 date:   2020-08-14
 tags: [安装,VIVADO,磁盘,许可证,优化]
 comments: true

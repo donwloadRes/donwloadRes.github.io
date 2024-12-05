@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg录音+录屏资源文件下载"
+title: "FFmpeg录音录屏资源文件下载"
 date:   2023-07-26
 tags: [录屏,文件,录音,资源,版本]
 comments: true

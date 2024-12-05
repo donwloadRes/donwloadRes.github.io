@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PanTools v1.0.27 多网盘批量管理工具"
+title: "PanTools v1027 多网盘批量管理工具"
 date:   2024-07-15
 tags: [网盘,批量,27,v1.0,文件]
 comments: true

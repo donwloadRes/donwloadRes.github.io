@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 数据分析基础教程 - 可视化（第二版）第四章习题 README"
+title: "Python 数据分析基础教程  可视化第二版第四章习题 README"
 date:   2023-09-09
 tags: [可视化,习题,Python,数据,图表]
 comments: true

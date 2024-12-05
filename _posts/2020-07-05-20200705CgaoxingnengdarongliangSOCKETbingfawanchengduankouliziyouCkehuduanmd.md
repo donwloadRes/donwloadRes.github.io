@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高性能大容量SOCKET并发完成端口例子（有C#客户端）"
+title: "C高性能大容量SOCKET并发完成端口例子有C客户端"
 date:   2020-06-25
 tags: [C#,SOCKET,服务端,并发,端口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis入门指南 - 电子书下载"
+title: "Redis入门指南  电子书下载"
 date:   2021-11-29
 tags: [Redis,入门,电子书,指南,介绍]
 comments: true

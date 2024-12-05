@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT Wifi SSID扫描显示配置连接教程 - 支持QT4-QT5"
+title: "QT Wifi SSID扫描显示配置连接教程  支持QT4QT5"
 date:   2021-03-24
 tags: [Wi,Fi,连接,配置,QT]
 comments: true

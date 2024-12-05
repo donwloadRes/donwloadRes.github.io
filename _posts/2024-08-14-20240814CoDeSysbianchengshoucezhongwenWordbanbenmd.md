@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoDeSys编程手册（中文Word版本）"
+title: "CoDeSys编程手册中文Word版本"
 date:   2022-12-03
 tags: [CoDeSys,PLC,编程,版本,功能]
 comments: true

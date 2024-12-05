@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JasperReport：Eclipse-Ireport插件安装及基本使用"
+title: "JasperReportEclipseIreport插件安装及基本使用"
 date:   2023-10-29
 tags: [插件,报表,Eclipse,Ireport,安装]
 comments: true

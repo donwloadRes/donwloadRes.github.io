@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xjtu嵌入式系统设计-瑞萨实验报告及代码文件"
+title: "xjtu嵌入式系统设计瑞萨实验报告及代码文件"
 date:   2023-07-06
 tags: [嵌入式,模块,瑞萨,实验报告,系统]
 comments: true

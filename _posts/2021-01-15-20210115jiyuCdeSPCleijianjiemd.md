@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的SPC类简介"
+title: "基于C的SPC类简介"
 date:   2021-11-26
 tags: [SPC,C#,正态分布,类库,NET]
 comments: true

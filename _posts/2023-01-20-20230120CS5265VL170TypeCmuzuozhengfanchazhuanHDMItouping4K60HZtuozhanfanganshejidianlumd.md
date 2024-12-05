@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5265+VL170 Type-C母座正反插转HDMI投屏4K60HZ拓展方案设计电路"
+title: "CS5265VL170 TypeC母座正反插转HDMI投屏4K60HZ拓展方案设计电路"
 date:   2023-04-23
 tags: [电路设计,电路,正反,元器件,视频]
 comments: true

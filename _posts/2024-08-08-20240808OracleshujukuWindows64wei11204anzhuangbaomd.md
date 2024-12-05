@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle数据库Windows 64位11.2.0.4安装包"
+title: "Oracle数据库Windows 64位11204安装包"
 date:   2021-08-04
 tags: [Oracle,安装包,11.2,0.4,数据库]
 comments: true

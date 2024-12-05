@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通泰McgsPro 3.3.6.6353 SP1.3 资源下载"
+title: "昆仑通泰McgsPro 3366353 SP13 资源下载"
 date:   2023-07-25
 tags: [McgsPro,6.6353,SP1.3,3.3,通泰]
 comments: true

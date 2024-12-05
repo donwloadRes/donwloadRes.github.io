@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL 1.0 64位静态库文件分享"
+title: "OpenSSL 10 64位静态库文件分享"
 date:   2022-08-07
 tags: [lib,OpenSSL,文件,1.0,64]
 comments: true

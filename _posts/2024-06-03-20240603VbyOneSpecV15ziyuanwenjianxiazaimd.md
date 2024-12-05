@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VbyOne_Spec_V1.5 资源文件下载"
+title: "VbyOneSpecV15 资源文件下载"
 date:   2023-07-23
 tags: [VbyOne,V1.5,文件,Spec,HS]
 comments: true

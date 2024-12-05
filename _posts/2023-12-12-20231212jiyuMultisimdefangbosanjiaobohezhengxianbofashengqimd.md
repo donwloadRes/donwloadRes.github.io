@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Multisim的方波、三角波和正弦波发生器"
+title: "基于Multisim的方波三角波和正弦波发生器"
 date:   2024-04-05
 tags: [Multisim,发生器,方波,正弦波,三角]
 comments: true

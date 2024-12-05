@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统可靠性评估(Matlab实现)资源下载"
+title: "电力系统可靠性评估Matlab实现资源下载"
 date:   2021-12-22
 tags: [Matlab,系统可靠性,评估,电力,资源]
 comments: true

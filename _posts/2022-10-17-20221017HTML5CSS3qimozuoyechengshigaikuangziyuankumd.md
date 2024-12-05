@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5+CSS3期末作业——城市概况资源库"
+title: "HTML5CSS3期末作业城市概况资源库"
 date:   2020-11-19
 tags: [页面,资源库,HTML,文件,CSS]
 comments: true

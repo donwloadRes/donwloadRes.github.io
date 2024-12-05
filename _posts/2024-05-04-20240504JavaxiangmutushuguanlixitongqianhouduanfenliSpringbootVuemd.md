@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java项目图书管理系统（前后端分离 Springboot+Vue）"
+title: "Java项目图书管理系统前后端分离 SpringbootVue"
 date:   2020-06-30
 tags: [分离,管理系统,前后,项目,前端]
 comments: true

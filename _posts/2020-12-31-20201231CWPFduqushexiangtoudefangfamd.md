@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 读取摄像头的方法"
+title: "C WPF 读取摄像头的方法"
 date:   2023-09-25
 tags: [视频流,摄像头,WPF,AForge,EmguCV]
 comments: true

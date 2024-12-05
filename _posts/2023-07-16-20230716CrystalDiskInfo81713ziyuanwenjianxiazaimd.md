@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrystalDiskInfo 8.17.13 资源文件下载"
+title: "CrystalDiskInfo 81713 资源文件下载"
 date:   2020-09-23
 tags: [13,硬盘,CrystalDiskInfo,8.17,下载]
 comments: true

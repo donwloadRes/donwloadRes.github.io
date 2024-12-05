@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RJ45 3D封装库及原理图库（适用于Altium Designer）"
+title: "RJ45 3D封装库及原理图库适用于Altium Designer"
 date:   2022-12-14
 tags: [RJ45,封装,3D,Altium,Designer]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#论文查重系统源代码"
+title: "C论文查重系统源代码"
 date:   2022-11-15
 tags: [查重,论文,源代码,C#,编译]
 comments: true

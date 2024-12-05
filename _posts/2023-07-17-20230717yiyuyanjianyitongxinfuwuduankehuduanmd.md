@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言简易通信[服务端，客户端]"
+title: "易语言简易通信服务端客户端"
 date:   2024-11-26
 tags: [服务端,客户端,登录,用户,txt]
 comments: true

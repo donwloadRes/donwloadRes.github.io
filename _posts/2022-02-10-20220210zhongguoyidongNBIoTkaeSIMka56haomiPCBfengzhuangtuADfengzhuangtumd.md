@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国移动NB-IoT卡eSIM卡（56毫米）PCB封装图（AD封装图）"
+title: "中国移动NBIoT卡eSIM卡56毫米PCB封装图AD封装图"
 date:   2020-09-26
 tags: [封装,AD,IoT,NB,SIM卡]
 comments: true

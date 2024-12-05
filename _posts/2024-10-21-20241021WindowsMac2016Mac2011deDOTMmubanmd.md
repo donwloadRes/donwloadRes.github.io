@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows、Mac-2016、Mac-2011 的 DOTM 模板"
+title: "WindowsMac2016Mac2011 的 DOTM 模板"
 date:   2021-05-10
 tags: [模板,Mac,DOTM,文件,2011]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Q学习Matlab代码+注释"
+title: "Q学习Matlab代码注释"
 date:   2022-08-30
 tags: [代码,Matlab,学习,注释,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java、MySQL实现学生成绩管理系统"
+title: "JavaMySQL实现学生成绩管理系统"
 date:   2023-05-28
 tags: [成绩,数据库,MySQL,Java,学生]
 comments: true

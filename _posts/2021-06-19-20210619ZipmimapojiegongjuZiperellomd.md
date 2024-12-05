@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zip密码破解工具 - Ziperello"
+title: "Zip密码破解工具  Ziperello"
 date:   2023-09-25
 tags: [破解,Ziperello,密码,压缩包,zip]
 comments: true

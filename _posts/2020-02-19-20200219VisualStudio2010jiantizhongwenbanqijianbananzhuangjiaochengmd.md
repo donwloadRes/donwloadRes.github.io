@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2010 简体中文版-旗舰版安装教程"
+title: "Visual Studio 2010 简体中文版旗舰版安装教程"
 date:   2020-12-13
 tags: [Visual,Studio,2010,安装,教程]
 comments: true

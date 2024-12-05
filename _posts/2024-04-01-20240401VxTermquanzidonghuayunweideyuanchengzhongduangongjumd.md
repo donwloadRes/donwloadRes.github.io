@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VxTerm - 全自动化运维的远程终端工具"
+title: "VxTerm  全自动化运维的远程终端工具"
 date:   2022-01-02
 tags: [VxTerm,运维,SSH,远程,自动化]
 comments: true

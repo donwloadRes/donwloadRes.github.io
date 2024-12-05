@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tiny-cuda-nn 安装指南及问题解决"
+title: "tinycudann 安装指南及问题解决"
 date:   2021-12-20
 tags: [安装,tiny,cuda,nn,pytorch3d]
 comments: true

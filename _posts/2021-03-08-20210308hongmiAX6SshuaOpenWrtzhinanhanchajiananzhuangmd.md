@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红米AX6S刷OpenWrt指南（含插件安装）"
+title: "红米AX6S刷OpenWrt指南含插件安装"
 date:   2024-05-14
 tags: [固件,OpenWrt,路由器,插件,AX6S]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR中文训练库"
+title: "TesseractOCR中文训练库"
 date:   2023-01-28
 tags: [OCR,Tesseract,中文,文件,训练]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.14 + x86 编译 QtWebEngine 动态库，支持视频播放、音乐播放"
+title: "QT514  x86 编译 QtWebEngine 动态库支持视频播放音乐播放"
 date:   2021-03-24
 tags: [编译,QtWebEngine,播放,动态,视频]
 comments: true

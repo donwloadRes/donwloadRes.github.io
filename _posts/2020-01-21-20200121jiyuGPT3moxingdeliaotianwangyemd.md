@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于GPT-3模型的聊天网页"
+title: "基于GPT3模型的聊天网页"
 date:   2020-11-19
 tags: [GPT,模型,OpenAI,3.5,网页]
 comments: true

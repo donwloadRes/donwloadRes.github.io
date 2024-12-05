@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RSD 教程 —— 1 安装 RSD"
+title: "RSD 教程  1 安装 RSD"
 date:   2023-11-25
 tags: [RSD,安装,教程,Windows,卸载]
 comments: true

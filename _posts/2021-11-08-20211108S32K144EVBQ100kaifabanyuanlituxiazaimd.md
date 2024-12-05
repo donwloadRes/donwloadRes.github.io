@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K144EVB-Q100开发板原理图下载"
+title: "S32K144EVBQ100开发板原理图下载"
 date:   2024-05-13
 tags: [原理图,开发板,下载,S32K144EVB,Q100]
 comments: true

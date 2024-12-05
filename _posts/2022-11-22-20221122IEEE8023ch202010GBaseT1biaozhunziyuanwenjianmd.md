@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3ch-2020 - 10GBase T1标准资源文件"
+title: "IEEE 8023ch2020  10GBase T1标准资源文件"
 date:   2023-07-29
 tags: [Gb,IEEE,802.3,ch,文件]
 comments: true

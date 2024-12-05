@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UMP Android iOS.unitypackage(2.0.2) 资源文件介绍"
+title: "UMP Android iOSunitypackage202 资源文件介绍"
 date:   2024-07-24
 tags: [视频流,播放,UMP,Android,iOS]
 comments: true

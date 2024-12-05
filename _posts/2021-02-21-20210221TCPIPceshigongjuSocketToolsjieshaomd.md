@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP 测试工具——SocketTools 介绍"
+title: "TCPIP 测试工具SocketTools 介绍"
 date:   2024-03-10
 tags: [客户端,TCP,UDP,服务端,SocketTools]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MLX90640综合读写测试程序(STC单片机)"
+title: "MLX90640综合读写测试程序STC单片机"
 date:   2021-06-15
 tags: [单片机,传感器,MLX90640,STC,测试程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMT轨迹导入程序C#源码"
+title: "SMT轨迹导入程序C源码"
 date:   2023-01-04
 tags: [DXF,SMT,源码,C#,导入]
 comments: true

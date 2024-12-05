@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+Mysql实现药品销售管理系统"
+title: "JavaMysql实现药品销售管理系统"
 date:   2021-08-23
 tags: [数据库,管理系统,文件,Java,Mysql]
 comments: true

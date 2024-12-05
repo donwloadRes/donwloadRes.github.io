@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS调试工具++ 资源下载"
+title: "SECS调试工具 资源下载"
 date:   2023-11-06
 tags: [SECS,调试,通讯,++,SML]
 comments: true

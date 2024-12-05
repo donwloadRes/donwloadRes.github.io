@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 与 C# 之 HWindow 鼠标控制图片缩放、拖动及 ROI 源码"
+title: "Halcon 与 C 之 HWindow 鼠标控制图片缩放拖动及 ROI 源码"
 date:   2024-11-10
 tags: [缩放,鼠标,Halcon,代码,C#]
 comments: true

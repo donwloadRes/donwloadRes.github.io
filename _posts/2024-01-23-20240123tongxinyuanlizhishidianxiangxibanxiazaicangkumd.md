@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信原理知识点（详细版）下载仓库"
+title: "通信原理知识点详细版下载仓库"
 date:   2020-09-03
 tags: [知识点,通信,原理,考点,专业课]
 comments: true

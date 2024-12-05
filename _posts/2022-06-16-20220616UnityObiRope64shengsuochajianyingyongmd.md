@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Obi Rope 6.4 绳索插件应用"
+title: "Unity Obi Rope 64 绳索插件应用"
 date:   2020-02-27
 tags: [Obi,Rope,绳索,Unity,插件]
 comments: true

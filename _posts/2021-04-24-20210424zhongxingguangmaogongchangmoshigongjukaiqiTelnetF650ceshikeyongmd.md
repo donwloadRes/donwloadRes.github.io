@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴光猫工厂模式工具 - 开启Telnet F650测试可用"
+title: "中兴光猫工厂模式工具  开启Telnet F650测试可用"
 date:   2024-09-03
 tags: [光猫,F650,Telnet,中兴,工具]
 comments: true

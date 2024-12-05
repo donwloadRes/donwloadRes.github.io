@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "obj格式三维模型+mtl贴图资源"
+title: "obj格式三维模型mtl贴图资源"
 date:   2022-02-17
 tags: [3D,obj,mtl,模型,Python]
 comments: true

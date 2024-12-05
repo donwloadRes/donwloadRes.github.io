@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德国大陆ARS408-21毫米波雷达数据资料"
+title: "德国大陆ARS40821毫米波雷达数据资料"
 date:   2020-11-30
 tags: [毫米波,雷达,ARS408,21,检测]
 comments: true

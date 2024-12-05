@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析期末试卷1（含答案）"
+title: "算法设计与分析期末试卷1含答案"
 date:   2020-07-26
 tags: [期末试卷,算法,试卷,设计,分析]
 comments: true

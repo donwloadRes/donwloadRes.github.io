@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 和 .Net 软件工程师面试题资源"
+title: "C 和 Net 软件工程师面试题资源"
 date:   2024-05-09
 tags: [C#,Net,开发者,面试题,死锁]
 comments: true

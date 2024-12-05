@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Llama3.1技术报告简要解读--附PDF"
+title: "Llama31技术报告简要解读附PDF"
 date:   2024-09-25
 tags: [Llama3.1,PDF,解读,简要,文档]
 comments: true

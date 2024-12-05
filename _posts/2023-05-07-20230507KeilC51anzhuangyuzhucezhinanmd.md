@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil（C51）安装与注册指南"
+title: "KeilC51安装与注册指南"
 date:   2024-01-19
 tags: [Keil,C51,安装,单片机,STC]
 comments: true

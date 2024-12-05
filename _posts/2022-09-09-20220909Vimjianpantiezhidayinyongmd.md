@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vim 键盘贴纸（打印用）"
+title: "Vim 键盘贴纸打印用"
 date:   2023-11-20
 tags: [贴纸,Vim,键盘,打印,裁剪]
 comments: true

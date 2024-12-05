@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浅谈PHY芯片UTP接口直连（不使用变压器）的设计"
+title: "浅谈PHY芯片UTP接口直连不使用变压器的设计"
 date:   2021-10-14
 tags: [直连,PHY,芯片,设计,UTP]
 comments: true

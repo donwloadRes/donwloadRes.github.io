@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理实验三 - 中间代码生成器"
+title: "编译原理实验三  中间代码生成器"
 date:   2023-01-25
 tags: [编译,中间代码,C语言,地址码,生成器]
 comments: true

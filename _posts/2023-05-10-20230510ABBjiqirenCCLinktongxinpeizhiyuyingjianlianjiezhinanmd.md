@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机器人CC-Link通信配置与硬件连接指南"
+title: "ABB机器人CCLink通信配置与硬件连接指南"
 date:   2022-11-05
 tags: [BB机,器人,CC,Link,硬件]
 comments: true

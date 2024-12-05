@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode v1.41.1 for WIN7 32位离线安装包"
+title: "VSCode v1411 for WIN7 32位离线安装包"
 date:   2023-12-19
 tags: [VSCode,安装,安装包,离线,32]
 comments: true

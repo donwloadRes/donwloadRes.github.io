@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab深度学习实战：LeNe-5图像分类与MNIST数据集操作流程"
+title: "Matlab深度学习实战LeNe5图像分类与MNIST数据集操作流程"
 date:   2021-09-13
 tags: [Matlab,数据,模型,训练,MNIST]
 comments: true

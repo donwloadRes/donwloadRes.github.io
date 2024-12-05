@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统信服务器操作系统V20(1050e)文档集合"
+title: "统信服务器操作系统V201050e文档集合"
 date:   2024-10-09
 tags: [统信,文档,操作系统,V20,1050e]
 comments: true

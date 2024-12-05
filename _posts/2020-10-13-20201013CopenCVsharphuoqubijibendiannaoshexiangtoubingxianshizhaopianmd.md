@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# openCVsharp 获取笔记本电脑摄像头并显示照片"
+title: "C openCVsharp 获取笔记本电脑摄像头并显示照片"
 date:   2024-05-18
 tags: [摄像头,frame,图像,笔记本电脑,openCVsharp]
 comments: true

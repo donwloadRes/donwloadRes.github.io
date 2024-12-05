@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SYBYL-X 2.0软件基础应用及3D-QSAR模型构建使用说明"
+title: "SYBYLX 20软件基础应用及3DQSAR模型构建使用说明"
 date:   2023-05-09
 tags: [SYBYL,2.0,分子,分子结构,软件]
 comments: true

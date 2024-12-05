@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++数据结构课程设计》题目[2023-07-01]"
+title: "CC数据结构课程设计题目20230701"
 date:   2024-04-26
 tags: [课程设计,题目,数据结构,设计,模拟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的直流电机PWM调速（数码管显示）"
+title: "基于STM32单片机的直流电机PWM调速数码管显示"
 date:   2020-01-12
 tags: [单片机,STM32,PWM,数码管,直流电机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2012诊断故障代码定义(ISO 15031-6)"
+title: "SAE J2012诊断故障代码定义ISO 150316"
 date:   2023-08-08
 tags: [SAE,J2012,ISO,故障,定义]
 comments: true

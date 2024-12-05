@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品06：地图综合应用"
+title: "QtC项目作品06地图综合应用"
 date:   2021-07-26
 tags: [地图,离线,下载,轨迹,标注]
 comments: true

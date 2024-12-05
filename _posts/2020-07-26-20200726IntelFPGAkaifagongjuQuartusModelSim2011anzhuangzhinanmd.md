@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel FPGA 开发工具 Quartus-ModelSim 20.1.1 安装指南"
+title: "Intel FPGA 开发工具 QuartusModelSim 2011 安装指南"
 date:   2023-09-29
 tags: [ModelSim,安装,FPGA,Quartus,路径]
 comments: true

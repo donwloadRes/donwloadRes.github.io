@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单词簿管理系统-Java课设作业"
+title: "单词簿管理系统Java课设作业"
 date:   2022-07-20
 tags: [单词,Java,数据库,录入,文件]
 comments: true

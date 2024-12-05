@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南京大学高级机器学习》课程资源下载"
+title: "南京大学高级机器学习课程资源下载"
 date:   2022-09-08
 tags: [学习,Lecture,Slide,机器,高级]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TFT2.8彩屏驱动资源文件介绍"
+title: "TFT28彩屏驱动资源文件介绍"
 date:   2021-11-16
 tags: [TFT2.8,彩屏,开发,版本,手册]
 comments: true

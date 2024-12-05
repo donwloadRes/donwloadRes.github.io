@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX v5.6.0 官方最新版下载"
+title: "STM32CubeMX v560 官方最新版下载"
 date:   2020-10-03
 tags: [版本,最新版,STM32CubeMX,v5.6,下载]
 comments: true

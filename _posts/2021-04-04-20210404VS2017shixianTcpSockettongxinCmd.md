@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017实现Tcp Socket通信（C++）"
+title: "VS2017实现Tcp Socket通信C"
 date:   2024-03-15
 tags: [Tcp,Socket,编译,通信,文件]
 comments: true

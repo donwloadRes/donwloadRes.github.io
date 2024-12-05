@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化方法》复习题及答案"
+title: "最优化方法复习题及答案"
 date:   2023-08-31
 tags: [最优化,复习题,方法,复习,答案]
 comments: true

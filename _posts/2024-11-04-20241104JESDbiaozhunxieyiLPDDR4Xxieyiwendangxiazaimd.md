@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD标准协议_LPDDR4X协议文档下载"
+title: "JESD标准协议LPDDR4X协议文档下载"
 date:   2022-12-29
 tags: [JESD,标准协议,LPDDR4X,Gb,pdf]
 comments: true

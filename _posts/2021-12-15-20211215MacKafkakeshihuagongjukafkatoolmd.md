@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac Kafka可视化工具（kafkatool）"
+title: "Mac Kafka可视化工具kafkatool"
 date:   2020-03-06
 tags: [Kafka,集群,kafkatool,管理,Mac]
 comments: true

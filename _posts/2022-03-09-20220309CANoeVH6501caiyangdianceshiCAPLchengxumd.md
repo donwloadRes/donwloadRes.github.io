@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe_VH6501 采样点测试CAPL程序"
+title: "CANoeVH6501 采样点测试CAPL程序"
 date:   2020-02-10
 tags: [CANoe,VH6501,采样,测试,CAPL]
 comments: true

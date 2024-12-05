@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Abaqus的有限元分析和应用 - 庄茁（新）"
+title: "基于Abaqus的有限元分析和应用  庄茁新"
 date:   2022-09-24
 tags: [有限元,载荷,疲劳,Abaqus,庄茁]
 comments: true

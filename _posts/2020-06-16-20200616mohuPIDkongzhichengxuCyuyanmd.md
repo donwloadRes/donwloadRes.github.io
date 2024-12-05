@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模糊PID控制程序（C语言）"
+title: "模糊PID控制程序C语言"
 date:   2021-05-22
 tags: [C语言,PID,模糊,源代码,程序]
 comments: true

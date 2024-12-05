@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吉他创作Guitar Pro v8.1.1 Build 17 中文完整激活版(附教程) 64位"
+title: "吉他创作Guitar Pro v811 Build 17 中文完整激活版附教程 64位"
 date:   2021-07-20
 tags: [激活,教程,Guitar,Pro,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 17.5.2：全面指南，涵盖下载、安装和使用"
+title: "VMware 1752全面指南涵盖下载安装和使用"
 date:   2023-03-06
 tags: [VMware,安装,下载,17.5,虚拟机]
 comments: true

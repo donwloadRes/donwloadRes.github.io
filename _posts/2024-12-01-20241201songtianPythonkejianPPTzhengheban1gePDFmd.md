@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵩天Python课件PPT整合版（1个PDF）"
+title: "嵩天Python课件PPT整合版1个PDF"
 date:   2024-04-25
 tags: [PPT,PDF,嵩天,Python,课件]
 comments: true

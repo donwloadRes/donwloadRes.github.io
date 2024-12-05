@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的温湿度检测系统设计及实现 - 论文下载"
+title: "基于STM32的温湿度检测系统设计及实现  论文下载"
 date:   2021-12-28
 tags: [温湿度,STM32,论文,系统,设计]
 comments: true

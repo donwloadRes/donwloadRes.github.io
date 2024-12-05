@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL 硬件IIC+DMA控制OLED参考程序"
+title: "STM32 HAL 硬件IICDMA控制OLED参考程序"
 date:   2024-08-04
 tags: [OLED,开发板,STM32,IIC,DMA]
 comments: true

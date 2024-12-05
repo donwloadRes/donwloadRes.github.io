@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring-Boot结合Neo4j构建课程知识图谱及问答系统"
+title: "SpringBoot结合Neo4j构建课程知识图谱及问答系统"
 date:   2020-10-12
 tags: [Neo4j,Spring,图谱,数据库,boot]
 comments: true

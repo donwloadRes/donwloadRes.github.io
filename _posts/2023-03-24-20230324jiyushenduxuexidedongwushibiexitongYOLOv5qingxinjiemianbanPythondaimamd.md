@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的动物识别系统（YOLOv5清新界面版，Python代码）"
+title: "基于深度学习的动物识别系统YOLOv5清新界面版Python代码"
 date:   2022-10-03
 tags: [界面,动物,识别,YOLOv5,Python]
 comments: true

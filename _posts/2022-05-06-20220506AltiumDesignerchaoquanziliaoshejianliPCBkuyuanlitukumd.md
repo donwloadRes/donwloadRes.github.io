@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer超全资料设计案例+PCB库+原理图库"
+title: "Altium Designer超全资料设计案例PCB库原理图库"
 date:   2020-10-10
 tags: [设计,Altium,Designer,案例,PCB]
 comments: true

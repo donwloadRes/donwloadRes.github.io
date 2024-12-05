@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Socket编程实例：服务端及客户端"
+title: "C Socket编程实例服务端及客户端"
 date:   2021-04-02
 tags: [服务端,客户端,cpp,日志,server]
 comments: true

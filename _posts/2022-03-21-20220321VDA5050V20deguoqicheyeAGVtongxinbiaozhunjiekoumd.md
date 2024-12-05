@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDA5050-V2.0：德国汽车业AGV通信标准接口"
+title: "VDA5050V20德国汽车业AGV通信标准接口"
 date:   2021-02-01
 tags: [AGV,VDA5050,V2.0,物流,自动化]
 comments: true

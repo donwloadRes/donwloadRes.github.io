@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB中方波、三角波、梯形波的生成与仿真"
+title: "MATLAB中方波三角波梯形波的生成与仿真"
 date:   2022-06-19
 tags: [MATLAB,生成,梯形波,波形,方波]
 comments: true

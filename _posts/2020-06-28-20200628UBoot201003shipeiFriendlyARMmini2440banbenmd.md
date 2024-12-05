@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Boot 2010.03 适配 Friendly-ARM mini2440 版本"
+title: "UBoot 201003 适配 FriendlyARM mini2440 版本"
 date:   2021-08-07
 tags: [Boot,开发板,2010.03,Friendly,ARM]
 comments: true

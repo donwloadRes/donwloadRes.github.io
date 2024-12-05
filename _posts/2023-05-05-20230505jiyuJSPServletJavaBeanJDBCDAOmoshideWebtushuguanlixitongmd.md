@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于JSP+Servlet+JavaBean+JDBC+DAO模式的Web图书管理系统"
+title: "基于JSPServletJavaBeanJDBCDAO模式的Web图书管理系统"
 date:   2023-04-27
 tags: [数据库,图书,JSP,Servlet,DAO]
 comments: true

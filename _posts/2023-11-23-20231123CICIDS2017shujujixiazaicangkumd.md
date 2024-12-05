@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIC-IDS-2017数据集下载仓库"
+title: "CICIDS2017数据集下载仓库"
 date:   2020-09-10
 tags: [数据,CIC,IDS,2017,网络安全]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法C语言 - 严蔚敏代码实现"
+title: "数据结构与算法C语言  严蔚敏代码实现"
 date:   2020-04-02
 tags: [数据结构,严蔚敏,C++,代码,算法]
 comments: true

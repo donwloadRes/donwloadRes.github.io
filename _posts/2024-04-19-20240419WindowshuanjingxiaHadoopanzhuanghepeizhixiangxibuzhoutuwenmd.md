@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows环境下Hadoop安装和配置详细步骤（图文）"
+title: "Windows环境下Hadoop安装和配置详细步骤图文"
 date:   2021-08-13
 tags: [Hadoop,Windows,配置,HOME,目录]
 comments: true

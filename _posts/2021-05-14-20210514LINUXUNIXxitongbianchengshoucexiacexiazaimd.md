@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LINUX.UNIX系统编程手册（下册）下载"
+title: "LINUXUNIX系统编程手册下册下载"
 date:   2020-11-29
 tags: [编程,UNIX,LINUX,下册,手册]
 comments: true

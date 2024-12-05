@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5+BiSeNet：同时进行目标检测和语义分割"
+title: "YOLOv5BiSeNet同时进行目标检测和语义分割"
 date:   2023-01-26
 tags: [语义,分割,检测,YOLOv5,BiSeNet]
 comments: true

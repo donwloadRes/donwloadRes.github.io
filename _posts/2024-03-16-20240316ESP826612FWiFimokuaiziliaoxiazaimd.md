@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266-12F WiFi模块资料下载"
+title: "ESP826612F WiFi模块资料下载"
 date:   2023-11-09
 tags: [ESP8266,12F,模块,原理图,Wi]
 comments: true

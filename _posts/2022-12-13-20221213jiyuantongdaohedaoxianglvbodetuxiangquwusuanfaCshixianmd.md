@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于暗通道和导向滤波的图像去雾算法C++实现"
+title: "基于暗通道和导向滤波的图像去雾算法C实现"
 date:   2021-06-29
 tags: [图像,滤波,C++,导向,bash]
 comments: true

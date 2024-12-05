@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GX-work2-入门手册"
+title: "GXwork2入门手册"
 date:   2020-07-17
 tags: [编程,GX,work2,PLC,入门]
 comments: true

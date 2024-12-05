@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "18 个精彩 SVGA 动画资源（含 PNG 图片）"
+title: "18 个精彩 SVGA 动画资源含 PNG 图片"
 date:   2020-09-25
 tags: [SVGA,动画,18,PNG,资源库]
 comments: true

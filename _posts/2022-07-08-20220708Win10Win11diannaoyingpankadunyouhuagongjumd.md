@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10-Win11 电脑硬盘卡顿优化工具"
+title: "Win10Win11 电脑硬盘卡顿优化工具"
 date:   2022-02-08
 tags: [硬盘,优化,卡顿,性能,Windows]
 comments: true

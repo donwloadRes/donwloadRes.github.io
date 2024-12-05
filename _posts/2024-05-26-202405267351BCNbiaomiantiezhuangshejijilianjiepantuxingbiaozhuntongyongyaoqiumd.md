@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7351B-CN 表面贴装设计及连接盘图形标准通用要求"
+title: "7351BCN 表面贴装设计及连接盘图形标准通用要求"
 date:   2024-02-01
 tags: [贴装,图形,设计,连接,7351B]
 comments: true

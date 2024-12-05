@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "strmix.simplis仿真教程"
+title: "strmixsimplis仿真教程"
 date:   2021-03-23
 tags: [仿真,教程,实例,strmix,simplis]
 comments: true

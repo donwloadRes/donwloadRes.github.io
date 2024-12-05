@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enigma Virtual Box 9.2：高效单文件打包解决方案"
+title: "Enigma Virtual Box 92高效单文件打包解决方案"
 date:   2022-11-09
 tags: [文件,打包,Enigma,Virtual,Box]
 comments: true

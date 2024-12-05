@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M3权威指南(中文)1"
+title: "CortexM3权威指南中文1"
 date:   2024-08-08
 tags: [Cortex,M3,嵌入式,指南,开发者]
 comments: true

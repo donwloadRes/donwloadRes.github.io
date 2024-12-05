@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习 Tom M.mitchell 课后题及资源下载"
+title: "机器学习 Tom Mmitchell 课后题及资源下载"
 date:   2022-02-26
 tags: [学习,机器,课后,mitchell,Tom]
 comments: true

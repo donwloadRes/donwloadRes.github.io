@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刃边法计算MTF（ESF、LSF、PSF）光学镜头成像质量分析"
+title: "刃边法计算MTFESFLSFPSF光学镜头成像质量分析"
 date:   2021-10-19
 tags: [光学,边法,镜头,成像,MTF]
 comments: true

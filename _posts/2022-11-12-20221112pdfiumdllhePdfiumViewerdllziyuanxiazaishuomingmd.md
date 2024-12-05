@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pdfium.dll和PdfiumViewer.dll资源下载说明"
+title: "pdfiumdll和PdfiumViewerdll资源下载说明"
 date:   2021-05-26
 tags: [dll,PdfiumViewer,pdfium,PDF,x64]
 comments: true

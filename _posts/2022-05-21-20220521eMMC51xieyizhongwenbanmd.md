@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC 5.1 协议中文版"
+title: "eMMC 51 协议中文版"
 date:   2024-05-01
 tags: [5.1,MMC,eMMC,设备,文档]
 comments: true

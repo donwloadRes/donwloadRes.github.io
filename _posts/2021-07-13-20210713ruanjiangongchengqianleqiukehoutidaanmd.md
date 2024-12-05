@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程（钱乐秋）课后题答案"
+title: "软件工程钱乐秋课后题答案"
 date:   2023-03-31
 tags: [软件工程,钱乐秋,答案,课后,仓库]
 comments: true

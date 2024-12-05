@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载安装指南（Windows版）"
+title: "JDK 18 下载安装指南Windows版"
 date:   2024-08-21
 tags: [JDK,1.8,安装,Windows,下载安装]
 comments: true

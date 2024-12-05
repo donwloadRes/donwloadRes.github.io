@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.13.2 开源版 Windows x86 安装包"
+title: "Qt 5132 开源版 Windows x86 安装包"
 date:   2020-07-31
 tags: [Qt,5.13,安装,x86,安装包]
 comments: true

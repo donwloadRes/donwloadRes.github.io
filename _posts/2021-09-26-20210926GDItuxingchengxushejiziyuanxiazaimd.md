@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDI+图形程序设计资源下载"
+title: "GDI图形程序设计资源下载"
 date:   2020-05-02
 tags: [GDI,图形,程序设计,源码,NET]
 comments: true

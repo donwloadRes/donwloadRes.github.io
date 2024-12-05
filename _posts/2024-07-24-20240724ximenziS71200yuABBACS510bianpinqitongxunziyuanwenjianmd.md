@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200与ABB ACS510变频器通讯资源文件"
+title: "西门子S71200与ABB ACS510变频器通讯资源文件"
 date:   2021-12-07
 tags: [变频器,通讯,S7,1200,ACS510]
 comments: true

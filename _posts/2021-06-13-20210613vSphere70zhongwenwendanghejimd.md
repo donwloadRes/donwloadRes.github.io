@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vSphere 7.0 中文文档合集"
+title: "vSphere 70 中文文档合集"
 date:   2023-07-24
 tags: [vSphere,7.0,文档,合集,升级]
 comments: true

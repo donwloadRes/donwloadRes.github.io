@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT Creator快速入门-高清+完整标签"
+title: "QT Creator快速入门高清完整标签"
 date:   2021-09-23
 tags: [Qt,Creator,QtQuick,高清,标签]
 comments: true

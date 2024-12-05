@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carsim、Prescan、Simulink联合仿真资源包"
+title: "CarsimPrescanSimulink联合仿真资源包"
 date:   2021-03-30
 tags: [Carsim,Prescan,仿真,Simulink,DEMO]
 comments: true

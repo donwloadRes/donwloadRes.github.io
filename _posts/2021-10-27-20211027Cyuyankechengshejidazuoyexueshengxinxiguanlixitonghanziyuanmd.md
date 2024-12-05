@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "C 语言课程设计大作业 - 学生信息管理系统（含资源）"
+title: "C 语言课程设计大作业  学生信息管理系统含资源
+date   20211011
+tags 课程设计学生信息管理系统功能源代码
+comments true
+author admin
+
+
+layout post
+title C 语言课程设计大作业  学生信息管理系统含资源"
 date:   2021-10-11
 tags: [课程设计,学生,信息管理系统,功能,源代码]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "C 语言课程设计大作业 - 学生信息管理系统（含资源）"
+title: "C 语言课程设计大作业  学生信息管理系统含资源
+date   20211011
+tags 课程设计学生信息管理系统功能源代码
+comments true
+author admin
+
+
+layout post
+title C 语言课程设计大作业  学生信息管理系统含资源"
 date:   2024-05-15
 tags: [学生,课程设计,功能,信息管理系统,源代码]
 comments: true

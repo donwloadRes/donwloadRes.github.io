@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键注册MSCOMM32.OCX工具"
+title: "一键注册MSCOMM32OCX工具"
 date:   2022-09-21
 tags: [Windows,MSCOMM32,Mscomm32,ocx,工具]
 comments: true

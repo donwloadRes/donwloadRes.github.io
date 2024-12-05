@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1939-71: 路面车辆应用层推荐操作规程"
+title: "SAE J193971 路面车辆应用层推荐操作规程"
 date:   2021-11-04
 tags: [SAE,J1939,71,车辆,应用层]
 comments: true

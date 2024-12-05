@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#提取CAD的DXF文件数据测试程序"
+title: "C提取CAD的DXF文件数据测试程序"
 date:   2021-06-09
 tags: [DXF,文件,C#,netDXF,读写]
 comments: true

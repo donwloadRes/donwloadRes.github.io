@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2010 Redistributable Package 下载"
+title: "Microsoft Visual C 2010 Redistributable Package 下载"
 date:   2023-06-23
 tags: [C++,2010,32,64,下载]
 comments: true

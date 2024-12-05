@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hog_svm图像分类(python代码）+图片"
+title: "hogsvm图像分类python代码图片"
 date:   2024-11-11
 tags: [代码,Python,图像,分类,图片]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS10.2 英文版切换中文版教程"
+title: "ArcGIS102 英文版切换中文版教程"
 date:   2024-01-31
 tags: [ArcGIS,汉化包,ArcGIS10.2,切换,Administrator]
 comments: true

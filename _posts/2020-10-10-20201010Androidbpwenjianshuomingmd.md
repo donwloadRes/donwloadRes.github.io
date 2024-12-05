@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android.bp文件说明"
+title: "Androidbp文件说明"
 date:   2021-03-09
 tags: [Android,bp,文件,编译,mk]
 comments: true

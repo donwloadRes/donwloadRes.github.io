@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniGUI 1.90.0.1534 for Delphi 10.4 资源下载"
+title: "uniGUI 19001534 for Delphi 104 资源下载"
 date:   2022-12-19
 tags: [Delphi,10.4,资源,0.1534,10.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git 简介及使用 PPT（培训资料）"
+title: "Git 简介及使用 PPT培训资料"
 date:   2021-11-15
 tags: [Git,PPT,简介,学习,提交]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sql经典练习题库（附答案）"
+title: "Sql经典练习题库附答案"
 date:   2024-03-25
 tags: [SQL,练习题,数据库,Sql,数据]
 comments: true

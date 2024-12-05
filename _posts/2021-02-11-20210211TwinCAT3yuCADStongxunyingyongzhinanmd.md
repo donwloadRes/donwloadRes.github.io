@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT3与C# ADS通讯应用指南"
+title: "TwinCAT3与C ADS通讯应用指南"
 date:   2020-11-11
 tags: [ADS,TwinCAT3,C#,通讯,读写操作]
 comments: true

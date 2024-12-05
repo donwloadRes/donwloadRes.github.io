@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0603封装1%电阻字符与阻值对照表"
+title: "0603封装1电阻字符与阻值对照表"
 date:   2020-11-03
 tags: [阻值,字符,0603,电阻,封装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库课程设计-Python火车售票管理系统（源码+文档+报告）"
+title: "MySQL数据库课程设计Python火车售票管理系统源码文档报告"
 date:   2023-04-15
 tags: [数据库,Python,MySQL,文档,项目]
 comments: true

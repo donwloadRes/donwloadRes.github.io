@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web前端期末结课大作业：企业网站设计实例"
+title: "Web前端期末结课大作业企业网站设计实例"
 date:   2021-03-14
 tags: [网页,Web,HTML,CSS,JavaScript]
 comments: true

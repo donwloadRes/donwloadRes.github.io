@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黄金矿工》游戏图片资源"
+title: "黄金矿工游戏图片资源"
 date:   2021-12-04
 tags: [游戏,资源,图片,黄金矿工,版权]
 comments: true

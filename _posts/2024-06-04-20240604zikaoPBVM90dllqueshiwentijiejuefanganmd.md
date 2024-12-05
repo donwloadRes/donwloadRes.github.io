@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自考PBVM90.dll缺失问题解决方案"
+title: "自考PBVM90dll缺失问题解决方案"
 date:   2024-09-26
 tags: [PBVM90,dll,文件,PowerBuilder,程序]
 comments: true

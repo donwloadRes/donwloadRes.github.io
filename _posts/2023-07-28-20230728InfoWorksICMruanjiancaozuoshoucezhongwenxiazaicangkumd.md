@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InfoWorks ICM软件操作手册（中文）下载仓库"
+title: "InfoWorks ICM软件操作手册中文下载仓库"
 date:   2022-07-07
 tags: [InfoWorks,ICM,软件,水文,操作手册]
 comments: true

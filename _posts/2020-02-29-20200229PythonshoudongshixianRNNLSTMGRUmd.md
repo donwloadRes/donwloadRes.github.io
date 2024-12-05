@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python手动实现RNN、LSTM、GRU"
+title: "Python手动实现RNNLSTMGRU"
 date:   2022-09-01
 tags: [RNN,LSTM,GRU,手动,实现]
 comments: true

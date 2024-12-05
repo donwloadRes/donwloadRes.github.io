@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能作业：Pacman 吃豆人 Python 源代码"
+title: "人工智能作业Pacman 吃豆人 Python 源代码"
 date:   2022-11-26
 tags: [人工智能,Python,源代码,Pacman,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO-Tracking 实践资料"
+title: "YOLOTracking 实践资料"
 date:   2022-06-10
 tags: [实践,yolo,tracking,项目,YOLO]
 comments: true

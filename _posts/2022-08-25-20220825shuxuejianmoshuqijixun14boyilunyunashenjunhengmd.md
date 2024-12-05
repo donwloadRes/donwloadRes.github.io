@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模暑期集训14：博弈论与纳什均衡"
+title: "数学建模暑期集训14博弈论与纳什均衡"
 date:   2024-04-26
 tags: [博弈论,纳什,建模,均衡,数学]
 comments: true

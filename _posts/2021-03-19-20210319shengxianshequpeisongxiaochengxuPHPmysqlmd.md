@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生鲜社区配送小程序PHP+mysql"
+title: "生鲜社区配送小程序PHPmysql"
 date:   2024-09-22
 tags: [配送,生鲜,社区,数据库,PHP]
 comments: true

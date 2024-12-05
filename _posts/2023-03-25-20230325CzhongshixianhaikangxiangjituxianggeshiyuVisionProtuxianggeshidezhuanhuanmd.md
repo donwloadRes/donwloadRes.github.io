@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中实现海康相机图像格式与VisionPro图像格式的转换"
+title: "C中实现海康相机图像格式与VisionPro图像格式的转换"
 date:   2022-07-10
 tags: [图像格式,VisionPro,海康,相机,C#]
 comments: true

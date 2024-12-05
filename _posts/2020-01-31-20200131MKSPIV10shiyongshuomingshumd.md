@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MKS PI V1.0使用说明书"
+title: "MKS PI V10使用说明书"
 date:   2021-03-01
 tags: [PI,连接,USB,MKS,接口]
 comments: true

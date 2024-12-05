@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# VISA 仪器通讯编程实例"
+title: "C VISA 仪器通讯编程实例"
 date:   2024-10-18
 tags: [VISA,仪器,C#,通讯,示例]
 comments: true

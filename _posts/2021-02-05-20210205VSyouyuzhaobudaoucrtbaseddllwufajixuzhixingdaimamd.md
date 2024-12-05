@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS 由于找不到ucrtbased.dll，无法继续执行代码"
+title: "VS 由于找不到ucrtbaseddll无法继续执行代码"
 date:   2020-05-02
 tags: [ucrtbased,dll,文件,VS,Visual]
 comments: true

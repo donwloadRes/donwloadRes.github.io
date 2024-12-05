@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XILINX_VC709开发板原理图"
+title: "XILINXVC709开发板原理图"
 date:   2020-12-09
 tags: [原理图,VC709,开发板,XILINX,文件]
 comments: true

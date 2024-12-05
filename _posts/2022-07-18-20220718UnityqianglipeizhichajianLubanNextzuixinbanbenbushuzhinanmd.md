@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity强力配置插件Luban【Next最新版本】部署指南"
+title: "Unity强力配置插件LubanNext最新版本部署指南"
 date:   2024-07-16
 tags: [Luban,Unity,插件,项目,Next]
 comments: true

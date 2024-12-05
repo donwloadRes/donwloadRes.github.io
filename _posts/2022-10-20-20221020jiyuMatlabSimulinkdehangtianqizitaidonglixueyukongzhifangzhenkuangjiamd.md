@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab_Simulink的航天器姿态动力学与控制仿真框架"
+title: "基于MatlabSimulink的航天器姿态动力学与控制仿真框架"
 date:   2020-03-14
 tags: [Matlab,Simulink,仿真,航天器,框架]
 comments: true

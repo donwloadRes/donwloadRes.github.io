@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pixhawk2.4.8飞控APM固件Missionplanner软件基础调试详细教程"
+title: "Pixhawk248飞控APM固件Missionplanner软件基础调试详细教程"
 date:   2021-03-03
 tags: [飞控,Pixhawk2.4,APM,固件,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卓有成效管理者(全) 资源下载"
+title: "卓有成效管理者全 资源下载"
 date:   2024-11-18
 tags: [PDF,卓有成效,资源,管理者,阅读]
 comments: true

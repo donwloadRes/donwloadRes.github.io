@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT 协议 5.0 中文版"
+title: "MQTT 协议 50 中文版"
 date:   2023-10-26
 tags: [MQTT,5.0,协议,中文版,文件]
 comments: true

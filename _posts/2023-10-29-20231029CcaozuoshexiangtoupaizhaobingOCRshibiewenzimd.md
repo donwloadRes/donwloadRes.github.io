@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 操作摄像头拍照并 OCR 识别文字"
+title: "C 操作摄像头拍照并 OCR 识别文字"
 date:   2023-01-22
 tags: [摄像头,OCR,C#,拍照,识别]
 comments: true

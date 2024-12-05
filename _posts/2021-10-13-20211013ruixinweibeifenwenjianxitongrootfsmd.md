@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞芯微备份文件系统（rootfs）"
+title: "瑞芯微备份文件系统rootfs"
 date:   2020-07-24
 tags: [瑞芯微,备份文件,系统,rootfs,开发]
 comments: true

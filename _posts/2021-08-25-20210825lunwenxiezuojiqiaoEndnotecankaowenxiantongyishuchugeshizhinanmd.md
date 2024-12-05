@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "论文写作技巧：Endnote参考文献统一输出格式指南"
+title: "论文写作技巧Endnote参考文献统一输出格式指南"
 date:   2021-03-08
 tags: [EndNote,参考文献,格式,样式,指南]
 comments: true

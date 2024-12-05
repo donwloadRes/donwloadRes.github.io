@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用时间序列分析－第二版（王燕）"
+title: "应用时间序列分析第二版王燕"
 date:   2020-08-05
 tags: [序列,王燕,分析,时间,本书]
 comments: true

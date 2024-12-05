@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用S-Function函数实现离散PID控制器"
+title: "使用SFunction函数实现离散PID控制器"
 date:   2020-02-04
 tags: [Function,PID,Simulink,仿真,控制器]
 comments: true

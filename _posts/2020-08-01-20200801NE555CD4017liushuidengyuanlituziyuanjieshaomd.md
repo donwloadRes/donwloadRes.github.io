@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NE555+CD4017流水灯原理图资源介绍"
+title: "NE555CD4017流水灯原理图资源介绍"
 date:   2021-02-24
 tags: [原理图,NE555,CD4017,流水,元件]
 comments: true

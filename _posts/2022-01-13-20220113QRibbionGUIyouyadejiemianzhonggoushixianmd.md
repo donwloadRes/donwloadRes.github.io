@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QRibbionGUI - 优雅的界面重构实现"
+title: "QRibbionGUI  优雅的界面重构实现"
 date:   2024-07-30
 tags: [界面,QRibbionGUI,Ribbon,项目,界面设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "预测模型资源：遗传算法优化的最小二乘支持向量机（LSSVM）Matlab实现"
+title: "预测模型资源遗传算法优化的最小二乘支持向量机LSSVMMatlab实现"
 date:   2020-02-10
 tags: [遗传算法,预测,LSSVM,二乘,Matlab]
 comments: true

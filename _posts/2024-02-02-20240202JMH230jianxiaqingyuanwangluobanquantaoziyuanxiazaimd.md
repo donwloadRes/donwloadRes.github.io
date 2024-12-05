@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMH230 - 剑侠情缘网络版Ⅱ全套资源下载"
+title: "JMH230  剑侠情缘网络版全套资源下载"
 date:   2021-04-04
 tags: [游戏,剑侠情缘,网络版,资源,搭建]
 comments: true

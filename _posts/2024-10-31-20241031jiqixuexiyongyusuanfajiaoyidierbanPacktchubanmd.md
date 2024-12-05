@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习用于算法交易，第二版 - Packt出版"
+title: "机器学习用于算法交易第二版  Packt出版"
 date:   2021-09-29
 tags: [学习,算法,交易,机器,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAC_AD5272 官方C语言驱动程序"
+title: "DACAD5272 官方C语言驱动程序"
 date:   2024-09-23
 tags: [AD5272,驱动程序,DAC,C语言,开发者]
 comments: true

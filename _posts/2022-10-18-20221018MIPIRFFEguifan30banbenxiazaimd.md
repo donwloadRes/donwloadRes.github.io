@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI RFFE 规范 3.0 版本下载"
+title: "MIPI RFFE 规范 30 版本下载"
 date:   2023-01-23
 tags: [RFFE,3.0,MIPI,规范,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现RS232串口通讯"
+title: "C实现RS232串口通讯"
 date:   2020-06-06
 tags: [RS232,通讯,串口,示例,代码]
 comments: true

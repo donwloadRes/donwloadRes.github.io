@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python金融分析基础库TA-Lib-0.4.21-cp39-cp39-win-amd64"
+title: "Python金融分析基础库TALib0421cp39cp39winamd64"
 date:   2023-01-21
 tags: [TA,Lib,Python,cp39,0.4]
 comments: true

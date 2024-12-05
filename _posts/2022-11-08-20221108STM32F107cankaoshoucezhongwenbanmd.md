@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F107参考手册_中文版_"
+title: "STM32F107参考手册中文版"
 date:   2022-11-25
 tags: [STM32F107,微控制器,手册,功能模块,寄存器]
 comments: true

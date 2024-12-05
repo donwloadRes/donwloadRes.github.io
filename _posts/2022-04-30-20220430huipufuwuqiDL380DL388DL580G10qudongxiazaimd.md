@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惠普服务器DL380-DL388-DL580 G10驱动下载"
+title: "惠普服务器DL380DL388DL580 G10驱动下载"
 date:   2020-08-17
 tags: [驱动,Windows,Server,服务器,下载]
 comments: true

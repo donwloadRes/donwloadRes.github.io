@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab_Simulink的水下航行器建模与仿真"
+title: "基于MatlabSimulink的水下航行器建模与仿真"
 date:   2023-10-12
 tags: [Simulink,仿真,Matlab,水下,航行]
 comments: true

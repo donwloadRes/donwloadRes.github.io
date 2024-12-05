@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kafka可视化管理工具kafka-manager部署安装和使用-已更名为CMAK"
+title: "Kafka可视化管理工具kafkamanager部署安装和使用已更名为CMAK"
 date:   2020-11-06
 tags: [Kafka,集群,Topic,Manager,kafka]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微型计算机原理与接口技术（第四版）PDF资源下载"
+title: "微型计算机原理与接口技术第四版PDF资源下载"
 date:   2023-02-10
 tags: [接口技术,微型,PDF,第四版,计算机]
 comments: true

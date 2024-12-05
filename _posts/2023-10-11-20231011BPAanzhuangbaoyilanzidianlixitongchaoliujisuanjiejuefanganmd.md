@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPA安装包：一揽子电力系统潮流计算解决方案"
+title: "BPA安装包一揽子电力系统潮流计算解决方案"
 date:   2022-01-28
 tags: [BPA,潮流,电力系统,安装包,手册]
 comments: true

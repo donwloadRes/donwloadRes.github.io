@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek RTL8153 & RTL8152B PGTool Utility 版本 2.0.26.0"
+title: "Realtek RTL8153  RTL8152B PGTool Utility 版本 20260"
 date:   2020-10-28
 tags: [Realtek,RTL8153,RTL8152B,2.0,26.0]
 comments: true

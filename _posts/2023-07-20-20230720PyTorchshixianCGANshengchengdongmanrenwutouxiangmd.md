@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch 实现CGAN：生成动漫人物头像"
+title: "PyTorch 实现CGAN生成动漫人物头像"
 date:   2022-07-13
 tags: [生成,PyTorch,CGAN,生成器,头像]
 comments: true

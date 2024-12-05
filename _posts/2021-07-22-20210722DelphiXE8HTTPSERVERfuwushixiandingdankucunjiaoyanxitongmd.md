@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE8 HTTPSERVER服务实现 - 订单库存校验系统"
+title: "Delphi XE8 HTTPSERVER服务实现  订单库存校验系统"
 date:   2023-11-06
 tags: [HTTP,ERP,服务,Delphi,XE8]
 comments: true

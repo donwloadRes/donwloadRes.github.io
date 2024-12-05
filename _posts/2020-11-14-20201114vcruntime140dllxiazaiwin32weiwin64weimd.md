@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vcruntime140.dll下载(win32位-win64位)"
+title: "vcruntime140dll下载win32位win64位"
 date:   2021-05-10
 tags: [vcruntime140,dll,64,系统,下载]
 comments: true

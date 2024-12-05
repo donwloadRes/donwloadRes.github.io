@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统缺失api-ms-win-crt-stdio-l1-1-0.dll文件的完美解决"
+title: "Windows系统缺失apimswincrtstdiol110dll文件的完美解决"
 date:   2021-01-01
 tags: [文件,Windows,api,ms,win]
 comments: true

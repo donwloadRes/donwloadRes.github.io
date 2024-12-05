@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DocX 组件操作 Word 源码"
+title: "C DocX 组件操作 Word 源码"
 date:   2020-01-30
 tags: [Word,DocX,源码,组件,文档]
 comments: true

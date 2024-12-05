@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost_1_59_0.tar.gz 免费下载指南"
+title: "Boost1590targz 免费下载指南"
 date:   2021-07-03
 tags: [Boost,tar,C++,版本,gz]
 comments: true

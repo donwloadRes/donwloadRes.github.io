@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FER-2013 人脸表情识别数据集"
+title: "FER2013 人脸表情识别数据集"
 date:   2021-07-25
 tags: [图像,数据,文件夹,csv,Kaggle]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "颜色提取工具 README.md"
+title: "颜色提取工具 READMEmd"
 date:   2020-07-10
 tags: [颜色,提取,工具,下载,链接]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从今天开始，像使用U盘一样，升级STM32"
+title: "从今天开始像使用U盘一样升级STM32"
 date:   2023-10-26
 tags: [固件,升级,USB,U盘,STM32]
 comments: true

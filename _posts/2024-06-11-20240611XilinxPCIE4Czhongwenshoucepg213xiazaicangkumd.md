@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx PCIE4C中文手册（pg213）下载仓库"
+title: "Xilinx PCIE4C中文手册pg213下载仓库"
 date:   2020-08-02
 tags: [手册,Xilinx,PCIE4C,IP,引脚]
 comments: true

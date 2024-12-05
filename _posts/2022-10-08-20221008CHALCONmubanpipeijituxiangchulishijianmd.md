@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# + HALCON 模板匹配及图像处理实践"
+title: "C  HALCON 模板匹配及图像处理实践"
 date:   2023-06-01
 tags: [HALCON,C#,模板,DLL,图像处理]
 comments: true

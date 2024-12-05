@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN总线J1939协议中文版（全）"
+title: "CAN总线J1939协议中文版全"
 date:   2023-11-07
 tags: [J1939,总线,协议,中文版,资源]
 comments: true

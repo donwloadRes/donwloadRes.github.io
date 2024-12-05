@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1500 PLC视频教程讲义"
+title: "西门子S71500 PLC视频教程讲义"
 date:   2023-11-16
 tags: [视频教程,PLC,讲义,S7,1500]
 comments: true

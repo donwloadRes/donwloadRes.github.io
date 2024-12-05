@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AHP软件yaahp0.5.2最新版下载"
+title: "AHP软件yaahp052最新版下载"
 date:   2023-08-14
 tags: [yaahp0.5,AHP,最新版,软件,决策分析]
 comments: true

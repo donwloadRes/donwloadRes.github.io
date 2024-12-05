@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32雕刻机、CNC源代码"
+title: "STM32雕刻机CNC源代码"
 date:   2020-08-15
 tags: [雕刻机,CNC,代码,MDK,U4]
 comments: true

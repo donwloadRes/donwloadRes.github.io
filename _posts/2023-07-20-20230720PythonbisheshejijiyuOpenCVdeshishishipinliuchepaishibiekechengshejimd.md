@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python毕设设计-基于OpenCV的实时视频流车牌识别课程设计"
+title: "Python毕设设计基于OpenCV的实时视频流车牌识别课程设计"
 date:   2020-12-26
 tags: [视频流,识别,车牌,OpenCV,Python]
 comments: true

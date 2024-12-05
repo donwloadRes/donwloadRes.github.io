@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaia Pro - Terrain Scene Generator v2.2.4 资源下载"
+title: "Gaia Pro  Terrain Scene Generator v224 资源下载"
 date:   2021-01-28
 tags: [Gaia,Pro,地形,v2.2,Unity]
 comments: true

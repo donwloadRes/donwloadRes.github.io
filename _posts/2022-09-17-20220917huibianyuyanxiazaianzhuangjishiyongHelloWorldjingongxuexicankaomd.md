@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言下载安装及使用（Hello World，仅供学习参考）"
+title: "汇编语言下载安装及使用Hello World仅供学习参考"
 date:   2020-11-28
 tags: [Hello,World,MASM,DOSBox,HELLO]
 comments: true

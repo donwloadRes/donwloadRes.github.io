@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CiteSpace 5.7.r2 资源文件下载"
+title: "CiteSpace 57r2 资源文件下载"
 date:   2023-10-02
 tags: [CiteSpace,r2,5.7,文献,可视化]
 comments: true

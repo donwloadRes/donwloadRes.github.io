@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战：爬取豆瓣电影与影评"
+title: "Python爬虫实战爬取豆瓣电影与影评"
 date:   2020-10-08
 tags: [爬取,电影,爬虫,短评,豆瓣]
 comments: true

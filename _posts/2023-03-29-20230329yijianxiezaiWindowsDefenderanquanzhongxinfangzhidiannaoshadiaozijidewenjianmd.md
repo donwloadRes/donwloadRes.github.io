@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键卸载Windows Defender、安全中心，防止电脑杀掉自己的文件"
+title: "一键卸载Windows Defender安全中心防止电脑杀掉自己的文件"
 date:   2022-05-18
 tags: [卸载,Windows,Defender,电脑,防病毒]
 comments: true

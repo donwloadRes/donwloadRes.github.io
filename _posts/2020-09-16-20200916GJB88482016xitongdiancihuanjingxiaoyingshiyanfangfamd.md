@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 8848-2016 系统电磁环境效应试验方法"
+title: "GJB 88482016 系统电磁环境效应试验方法"
 date:   2022-11-15
 tags: [环境效应,电磁,试验,文件,2016]
 comments: true

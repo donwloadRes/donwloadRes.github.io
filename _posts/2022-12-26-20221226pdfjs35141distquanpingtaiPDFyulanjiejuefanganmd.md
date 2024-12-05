@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pdfjs-3.5.141-dist：全平台PDF预览解决方案"
+title: "pdfjs35141dist全平台PDF预览解决方案"
 date:   2021-08-24
 tags: [PDF,预览,pdfjs,3.5,141]
 comments: true

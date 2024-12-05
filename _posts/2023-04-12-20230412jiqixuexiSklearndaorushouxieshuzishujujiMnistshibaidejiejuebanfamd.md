@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习：Sklearn导入手写数字数据集Mnist失败的解决办法"
+title: "机器学习Sklearn导入手写数字数据集Mnist失败的解决办法"
 date:   2022-12-04
 tags: [Mnist,fetch,mnist,Sklearn,mldata]
 comments: true

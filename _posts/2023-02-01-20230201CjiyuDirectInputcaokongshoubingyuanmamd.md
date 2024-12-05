@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 基于 DirectInput 操控手柄源码"
+title: "C 基于 DirectInput 操控手柄源码"
 date:   2022-03-12
 tags: [源码,手柄,震动,DirectInput,操控]
 comments: true

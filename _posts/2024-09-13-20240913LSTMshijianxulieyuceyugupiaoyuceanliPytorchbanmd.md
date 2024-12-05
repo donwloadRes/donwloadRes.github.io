@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM 时间序列预测与股票预测案例（Pytorch版）"
+title: "LSTM 时间序列预测与股票预测案例Pytorch版"
 date:   2024-06-16
 tags: [模型,预测,LSTM,训练,序列]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pandoc 1.19.1 Windows 安装包"
+title: "Pandoc 1191 Windows 安装包"
 date:   2022-09-02
 tags: [Pandoc,安装包,1.19,转换,文档]
 comments: true

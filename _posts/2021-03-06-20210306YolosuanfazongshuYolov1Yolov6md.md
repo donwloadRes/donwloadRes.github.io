@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolo算法综述（Yolov1-Yolov6）"
+title: "Yolo算法综述Yolov1Yolov6"
 date:   2020-10-22
 tags: [Yolo,Yolov1,Yolov6,检测,PPT]
 comments: true

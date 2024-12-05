@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue+Echarts数据可视化代码样例"
+title: "VueEcharts数据可视化代码样例"
 date:   2023-10-28
 tags: [Vue,可视化,代码,Echarts,样例]
 comments: true

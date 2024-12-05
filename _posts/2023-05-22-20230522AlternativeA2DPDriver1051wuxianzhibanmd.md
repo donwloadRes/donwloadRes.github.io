@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alternative A2DP Driver 1.0.5.1 无限制版"
+title: "Alternative A2DP Driver 1051 无限制版"
 date:   2021-10-20
 tags: [音频,LDAC,蓝牙,安装,Alternative]
 comments: true

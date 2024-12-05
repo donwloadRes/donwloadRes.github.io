@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VxWorks 6.9 & Workbench 基础使用教程"
+title: "VxWorks 69  Workbench 基础使用教程"
 date:   2022-08-07
 tags: [文档,VxWorks,Workbench,mc203,p2020]
 comments: true

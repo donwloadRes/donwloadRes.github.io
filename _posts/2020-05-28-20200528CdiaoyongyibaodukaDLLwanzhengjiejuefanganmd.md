@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用医保读卡DLL - 完整解决方案"
+title: "C调用医保读卡DLL  完整解决方案"
 date:   2023-04-15
 tags: [DLL,读卡,C#,医保,调用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DO-254 机载电子硬件设计保证指南英文原版"
+title: "DO254 机载电子硬件设计保证指南英文原版"
 date:   2022-09-02
 tags: [硬件,英文原版,电子,指南,机载]
 comments: true

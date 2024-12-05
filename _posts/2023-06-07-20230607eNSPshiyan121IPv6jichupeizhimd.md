@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP实验12-1 IPv6基础配置"
+title: "eNSP实验121 IPv6基础配置"
 date:   2024-03-30
 tags: [IPv6,eNSP,配置,实验,12]
 comments: true

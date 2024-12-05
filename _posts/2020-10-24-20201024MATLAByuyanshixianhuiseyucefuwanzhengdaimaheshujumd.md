@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB语言实现灰色预测(附完整代码和数据)"
+title: "MATLAB语言实现灰色预测附完整代码和数据"
 date:   2022-01-05
 tags: [预测,灰色,MATLAB,模型,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "simplorer-maxwell联合仿真实例——同步电机"
+title: "simplorermaxwell联合仿真实例同步电机"
 date:   2024-03-26
 tags: [仿真,simplorer,maxwell,同步电机,学习]
 comments: true

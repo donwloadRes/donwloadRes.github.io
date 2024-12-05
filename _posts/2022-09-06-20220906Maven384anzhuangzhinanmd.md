@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.8.4 安装指南"
+title: "Maven 384 安装指南"
 date:   2021-03-11
 tags: [Maven,指南,3.8,配置,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟服务器操作系统(Kylin) V10 arm64 飞腾-鲲鹏操作系统下载"
+title: "银河麒麟服务器操作系统Kylin V10 arm64 飞腾鲲鹏操作系统下载"
 date:   2022-12-09
 tags: [操作系统,服务器,鲲鹏,飞腾,V10]
 comments: true

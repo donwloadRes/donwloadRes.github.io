@@ -1,6 +1,37 @@
 ---
 layout: post
-title: "VC++6.0 打开文件闪退问题解决方案"
+title: "VC60 打开文件闪退问题解决方案
+date   20220816
+tags C60文件闪退FileTool
+comments true
+author admin
+
+ VC60 打开文件闪退问题解决方案
+
+ 简介
+
+本资源文件旨在解决在使用VC60时点击打开按钮后程序闪退的问题该问题通常由于Windows系统与VC60版本不兼容所导致尤其是在Windows 7和Windows 10系统中较为常见
+
+ 问题描述
+
+在使用VC60时点击打开按钮后程序会立即闪退无法正常打开文件这给开发者带来了极大的不便尤其是在需要频繁打开和编辑文件的情况下
+
+ 解决方案
+
+ 1 下载并安装FileTooldll
+
+首先下载本资源文件中提供的FileTooldll文件该文件是解决VC60闪退问题的关键工具
+
+ 2 拷贝FileTooldll文件
+
+将下载的FileTooldll文件拷贝至VC60的安装目录下的CommonMSDev98AddIns文件夹中具体路径可能因安装路径不同而有所差异可通过桌面快捷方式右键点击打开文件所在位置找到对应的AddIns文件夹
+
+ 3 注册FileTooldll文件
+
+在DOS命令行中使用管理员身份运行以下命令来注册FileTooldll文件
+
+
+regsvr32 CProgram Files x86Microsoft Visual StudioCommonMSDev98AddInsFileTooldll"
 date:   2022-08-16
 tags: [C++,6.0,文件,闪退,FileTool]
 comments: true

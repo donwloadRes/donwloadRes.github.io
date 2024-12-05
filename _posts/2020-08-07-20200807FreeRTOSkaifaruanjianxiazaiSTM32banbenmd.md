@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS开发软件下载（STM32版本）"
+title: "FreeRTOS开发软件下载STM32版本"
 date:   2024-08-09
 tags: [STM32,FreeRTOS,KEIL,STM32CubeMX,开发软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Ultimate-SD-Upscale进行图片高清放大"
+title: "使用UltimateSDUpscale进行图片高清放大"
 date:   2023-05-23
 tags: [Ultimate,SD,图片,插件,放大]
 comments: true

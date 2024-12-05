@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue-DevTools插件下载"
+title: "VueDevTools插件下载"
 date:   2020-12-27
 tags: [Vue,DevTools,插件,浏览器,下载]
 comments: true

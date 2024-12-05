@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 2024 v25.0.230特别版下载仓库介绍"
+title: "CorelDRAW 2024 v250230特别版下载仓库介绍"
 date:   2020-12-03
 tags: [安装,CorelDRAW,2024,仓库,插件]
 comments: true

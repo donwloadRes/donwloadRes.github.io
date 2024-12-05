@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 全国 3D 地图资源下载"
+title: "Threejs 全国 3D 地图资源下载"
 date:   2022-11-13
 tags: [js,3D,Three,地图,加载]
 comments: true

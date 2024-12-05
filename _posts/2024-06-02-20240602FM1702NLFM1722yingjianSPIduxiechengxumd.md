@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FM1702NL-FM1722硬件SPI读写程序"
+title: "FM1702NLFM1722硬件SPI读写程序"
 date:   2023-11-08
 tags: [SPI,硬件,读写,STM32F103RCT6,微控制器]
 comments: true

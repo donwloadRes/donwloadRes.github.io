@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MongoDB 4.4.13 安装包及配置文件"
+title: "MongoDB 4413 安装包及配置文件"
 date:   2020-01-13
 tags: [MongoDB,13,mongodb,4.4,安装包]
 comments: true

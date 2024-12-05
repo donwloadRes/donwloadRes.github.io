@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PhotoShop 文本框内繁体转换简体脚本 ConvertToSimplify-PS"
+title: "PhotoShop 文本框内繁体转换简体脚本 ConvertToSimplifyPS"
 date:   2024-03-17
 tags: [转换,脚本,文本,文件,文本框]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link-v2驱动安装指南"
+title: "STLinkv2驱动安装指南"
 date:   2023-05-19
 tags: [ST,Link,v2,安装,驱动]
 comments: true

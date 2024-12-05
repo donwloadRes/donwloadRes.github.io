@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华硕Z77老主板加持NVMe SSD 成功！"
+title: "华硕Z77老主板加持NVMe SSD 成功"
 date:   2024-11-30
 tags: [BIOS,Z77,NVMe,SSD,华硕]
 comments: true

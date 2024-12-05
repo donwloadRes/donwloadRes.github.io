@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Linux下安装MySQL数据库（一篇搞定，超级简单！）"
+title: "在Linux下安装MySQL数据库一篇搞定超级简单"
 date:   2023-09-28
 tags: [MySQL,安装,Linux,数据库,安装包]
 comments: true

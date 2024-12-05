@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业架构建模工具Archi4.6.0中文资源文件"
+title: "企业架构建模工具Archi460中文资源文件"
 date:   2023-10-16
 tags: [中文,Archi4.6,软件,文件,资源]
 comments: true

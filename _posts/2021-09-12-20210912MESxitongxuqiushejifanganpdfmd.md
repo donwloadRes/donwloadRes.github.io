@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MES系统需求设计方案.pdf"
+title: "MES系统需求设计方案pdf"
 date:   2022-04-09
 tags: [MES,智能,工厂,设计方案,需求]
 comments: true

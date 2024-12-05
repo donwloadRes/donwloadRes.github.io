@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "五子棋大作业（C++实现）"
+title: "五子棋大作业C实现"
 date:   2020-02-07
 tags: [对弈,五子棋,AI,游戏,模式]
 comments: true

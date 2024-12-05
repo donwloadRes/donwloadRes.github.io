@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 17.2 背钻设置资源下载"
+title: "Allegro 172 背钻设置资源下载"
 date:   2023-11-22
 tags: [17.2,资源,Allegro,设置,文件]
 comments: true

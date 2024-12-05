@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR中文用户手册-官方版"
+title: "IAR中文用户手册官方版"
 date:   2022-09-30
 tags: [IAR,开发工具,用户手册,官方版,手册]
 comments: true

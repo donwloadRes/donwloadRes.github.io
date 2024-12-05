@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SX1262_8中文数据手册下载"
+title: "SX12628中文数据手册下载"
 date:   2021-06-02
 tags: [手册,中文,SX1262,SX1268,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot+人体健康检测微信小程序012142（附源码+数据库）"
+title: "Springboot人体健康检测微信小程序012142附源码数据库"
 date:   2020-09-10
 tags: [排序,微信,数据库,用户,Springboot]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker 20.10 离线安装 RPM 包"
+title: "Docker 2010 离线安装 RPM 包"
 date:   2024-02-25
 tags: [安装,离线,Docker,20.10,RPM]
 comments: true

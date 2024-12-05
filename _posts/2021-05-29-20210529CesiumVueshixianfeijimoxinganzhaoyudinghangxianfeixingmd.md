@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium + Vue 实现飞机模型按照预定航线飞行"
+title: "Cesium  Vue 实现飞机模型按照预定航线飞行"
 date:   2021-02-15
 tags: [Cesium,航线,飞机,飞行,模型]
 comments: true

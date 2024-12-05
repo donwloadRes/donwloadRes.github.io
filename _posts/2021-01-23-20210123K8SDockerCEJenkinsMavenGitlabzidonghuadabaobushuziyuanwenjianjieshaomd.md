@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K8S+DockerCE+Jenkins+Maven+Gitlab自动化打包部署资源文件介绍"
+title: "K8SDockerCEJenkinsMavenGitlab自动化打包部署资源文件介绍"
 date:   2021-04-24
 tags: [Jenkins,K8S,部署,Maven,Gitlab]
 comments: true

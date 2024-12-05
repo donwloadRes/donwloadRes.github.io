@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言-快手did获取工具"
+title: "易语言快手did获取工具"
 date:   2023-05-11
 tags: [ID,快手,获取,易语言,设备]
 comments: true

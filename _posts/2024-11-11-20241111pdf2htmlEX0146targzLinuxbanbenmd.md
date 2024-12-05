@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pdf2htmlEX-0.14.6.tar.gz - Linux版本"
+title: "pdf2htmlEX0146targz  Linux版本"
 date:   2021-12-13
 tags: [PDF,pdf2htmlEX,HTML,转换,Linux]
 comments: true

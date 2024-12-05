@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window-10 Hyper-V 安装 Windows 10 资源文件介绍"
+title: "Window10 HyperV 安装 Windows 10 资源文件介绍"
 date:   2022-12-27
 tags: [10,Windows,虚拟机,Hyper,安装]
 comments: true

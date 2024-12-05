@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elmo驱动器-直线电机进阶培训文档"
+title: "Elmo驱动器直线电机进阶培训文档"
 date:   2021-02-22
 tags: [Elmo,文档,驱动器,电机,进阶]
 comments: true

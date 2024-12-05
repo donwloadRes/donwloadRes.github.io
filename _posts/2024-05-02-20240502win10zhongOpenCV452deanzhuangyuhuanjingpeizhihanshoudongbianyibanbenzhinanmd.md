@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10 中 OpenCV4.5.2 的安装与环境配置（含手动编译版本）指南"
+title: "win10 中 OpenCV452 的安装与环境配置含手动编译版本指南"
 date:   2023-02-08
 tags: [OpenCV,编译,路径,安装,配置]
 comments: true

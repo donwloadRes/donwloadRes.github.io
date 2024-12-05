@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AT89C51-AT89S51-STC89C51单片机烧录程序的区别"
+title: "AT89C51AT89S51STC89C51单片机烧录程序的区别"
 date:   2022-09-27
 tags: [烧录,单片机,AT89C51,AT89S51,STC89C51]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈尔滨工业大学：ChatGPT调研报告及AI领域精选资料合集"
+title: "哈尔滨工业大学ChatGPT调研报告及AI领域精选资料合集"
 date:   2023-03-28
 tags: [ChatGPT,pdf,GPT,应用,AI]
 comments: true

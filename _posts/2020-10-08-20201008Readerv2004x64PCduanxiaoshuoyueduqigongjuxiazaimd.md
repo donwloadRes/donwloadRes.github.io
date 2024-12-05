@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reader-v2.0.0.4-x64 PC端小说阅读器工具下载"
+title: "Readerv2004x64 PC端小说阅读器工具下载"
 date:   2021-11-01
 tags: [v2.0,Reader,0.4,阅读,Windows]
 comments: true

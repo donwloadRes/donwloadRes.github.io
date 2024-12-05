@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link V2驱动安装方法"
+title: "STLink V2驱动安装方法"
 date:   2021-10-29
 tags: [ST,Link,Keil,v5,驱动]
 comments: true

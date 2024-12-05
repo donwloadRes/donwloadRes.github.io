@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“无法启动此程序，因为计算机中丢失 api-ms-win-crt-stdio-l1-1-0.dll”问题"
+title: "解决无法启动此程序因为计算机中丢失 apimswincrtstdiol110dll问题"
 date:   2023-02-08
 tags: [运行库,api,ms,win,crt]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言全套练习题 - 刷题必备手册"
+title: "C语言全套练习题  刷题必备手册"
 date:   2021-10-07
 tags: [C语言,练习题,刷题,100,编程]
 comments: true

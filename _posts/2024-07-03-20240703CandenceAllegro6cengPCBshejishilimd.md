@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Candence-Allegro 6层PCB设计实例"
+title: "CandenceAllegro 6层PCB设计实例"
 date:   2021-12-06
 tags: [PCB,文件,实例,Candence,设计]
 comments: true

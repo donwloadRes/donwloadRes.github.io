@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于GD32F407的16路ADC采样+DMA资源介绍"
+title: "基于GD32F407的16路ADC采样DMA资源介绍"
 date:   2021-02-20
 tags: [ADC,GD32F407,DMA,采样,16]
 comments: true

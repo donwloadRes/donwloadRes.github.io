@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode安装与配置C-C++环境（保姆级教程）"
+title: "VSCode安装与配置CC环境保姆级教程"
 date:   2020-04-02
 tags: [VSCode,C++,安装,MinGW,教程]
 comments: true

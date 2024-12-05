@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++并发编程经典教程资源下载"
+title: "C并发编程经典教程资源下载"
 date:   2024-03-09
 tags: [C++,编程,并发,多线程,开发者]
 comments: true

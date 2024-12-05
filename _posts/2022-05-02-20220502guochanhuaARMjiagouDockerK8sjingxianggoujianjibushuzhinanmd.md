@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产化ARM架构Docker-K8s镜像构建及部署指南"
+title: "国产化ARM架构DockerK8s镜像构建及部署指南"
 date:   2024-01-12
 tags: [镜像,架构,构建,ARM,Dockerfile]
 comments: true

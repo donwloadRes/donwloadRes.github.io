@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ReNamer Pro+Alist+RaiDrive妙用：实现批量修改网盘文件名称"
+title: "ReNamer ProAlistRaiDrive妙用实现批量修改网盘文件名称"
 date:   2022-06-24
 tags: [网盘,重命名,ReNamer,Pro,Alist]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++调用海康工业相机SDK采集图像实例"
+title: "C调用海康工业相机SDK采集图像实例"
 date:   2023-06-30
 tags: [海康,SDK,图像,相机,采集]
 comments: true

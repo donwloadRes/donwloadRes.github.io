@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32硬件错误HardFault_Handler详解：剖析堆区与静态区的幕后故事"
+title: "STM32硬件错误HardFaultHandler详解剖析堆区与静态区的幕后故事"
 date:   2021-04-20
 tags: [内存,HardFault,静态,堆区,STM32]
 comments: true

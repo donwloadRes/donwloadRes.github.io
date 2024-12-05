@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：在VM虚拟机中安装Windows Server 2012操作系统"
+title: "保姆级教程在VM虚拟机中安装Windows Server 2012操作系统"
 date:   2024-07-28
 tags: [虚拟机,Windows,Server,2012,安装]
 comments: true

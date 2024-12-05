@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hashcat 6.2.6 - 强大的哈希爆破工具"
+title: "Hashcat 626  强大的哈希爆破工具"
 date:   2020-12-04
 tags: [哈希,Hashcat,6.2,破解,工具]
 comments: true

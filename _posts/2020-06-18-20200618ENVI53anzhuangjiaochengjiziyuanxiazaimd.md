@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI 5.3 安装教程及资源下载"
+title: "ENVI 53 安装教程及资源下载"
 date:   2020-11-01
 tags: [ENVI,安装,5.3,教程,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统概论》思维导图下载"
+title: "数据库系统概论思维导图下载"
 date:   2020-02-23
 tags: [数据库系统,导图,思维,概论,资源]
 comments: true

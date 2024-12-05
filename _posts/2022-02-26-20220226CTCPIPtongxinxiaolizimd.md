@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP-IP通信小例子"
+title: "C TCPIP通信小例子"
 date:   2023-02-28
 tags: [服务端,客户端,TCP,示例,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神经网络与深度学习》英文版 PDF 下载"
+title: "神经网络与深度学习英文版 PDF 下载"
 date:   2022-01-31
 tags: [PDF,神经网络,英文版,学习,Neural]
 comments: true

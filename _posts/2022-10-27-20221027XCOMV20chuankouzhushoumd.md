@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XCOM V2.0串口助手"
+title: "XCOM V20串口助手"
 date:   2021-06-21
 tags: [串口,V2.0,XCOM,助手,功能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【吴恩达课后编程作业】Course 5 - 序列模型 - 第三周作业详解与资源下载"
+title: "吴恩达课后编程作业Course 5  序列模型  第三周作业详解与资源下载"
 date:   2024-10-19
 tags: [序列,模型,作业,机器翻译,LSTM]
 comments: true

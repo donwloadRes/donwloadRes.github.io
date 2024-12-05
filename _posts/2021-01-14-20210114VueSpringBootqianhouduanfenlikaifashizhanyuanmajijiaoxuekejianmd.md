@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Spring Boot前后端分离开发实战》源码及教学课件"
+title: "Vue Spring Boot前后端分离开发实战源码及教学课件"
 date:   2022-05-13
 tags: [Vue,Spring,Boot,源码,前后]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "管理信息系统（第七版）PPT下载"
+title: "管理信息系统第七版PPT下载"
 date:   2024-03-22
 tags: [PPT,第七版,管理信息系统,文件,rar]
 comments: true

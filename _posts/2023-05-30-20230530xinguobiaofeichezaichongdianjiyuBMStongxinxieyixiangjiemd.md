@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新国标：非车载充电机与BMS通信协议详解"
+title: "新国标非车载充电机与BMS通信协议详解"
 date:   2022-03-03
 tags: [通信协议,BMS,充电机,文件,车载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C#在PDF文档上加盖印章和添加文本"
+title: "使用C在PDF文档上加盖印章和添加文本"
 date:   2021-07-12
 tags: [PDF,iTextSharp,new,印章,reader]
 comments: true

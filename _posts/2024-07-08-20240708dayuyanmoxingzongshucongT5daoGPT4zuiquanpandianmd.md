@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大语言模型综述：从T5到GPT-4最全盘点"
+title: "大语言模型综述从T5到GPT4最全盘点"
 date:   2021-12-10
 tags: [LLMs,GPT,prompt,T5,模型]
 comments: true

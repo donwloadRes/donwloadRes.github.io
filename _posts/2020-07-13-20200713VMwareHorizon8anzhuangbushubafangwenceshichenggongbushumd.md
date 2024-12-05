@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Horizon 8 安装部署（八）访问测试，成功部署"
+title: "VMware Horizon 8 安装部署八访问测试成功部署"
 date:   2023-11-15
 tags: [VMware,Horizon,部署,安装,访问]
 comments: true

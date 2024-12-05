@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery 3.6.1 下载资源介绍"
+title: "jQuery 361 下载资源介绍"
 date:   2023-11-19
 tags: [jQuery,3.6,jquery,js,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "主数据管理（MDM）解决方案"
+title: "主数据管理MDM解决方案"
 date:   2024-03-15
 tags: [数据,MDM,数据管理,解决方案,一致性]
 comments: true

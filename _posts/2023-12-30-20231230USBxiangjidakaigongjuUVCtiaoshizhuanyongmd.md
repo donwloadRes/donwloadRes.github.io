@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB相机打开工具 - UVC调试专用"
+title: "USB相机打开工具  UVC调试专用"
 date:   2023-06-07
 tags: [USB,调试,摄像头,UVC,工具]
 comments: true

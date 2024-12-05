@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国大学生数学建模LaTeX模板 - ChinaTeX"
+title: "全国大学生数学建模LaTeX模板  ChinaTeX"
 date:   2024-06-07
 tags: [模板,建模,竞赛,LaTeX,ChinaTeX]
 comments: true

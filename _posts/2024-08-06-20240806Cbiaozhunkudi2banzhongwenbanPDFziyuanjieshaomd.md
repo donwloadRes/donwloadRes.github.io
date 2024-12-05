@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++标准库(第2版) 中文版 PDF 资源介绍"
+title: "C标准库第2版 中文版 PDF 资源介绍"
 date:   2022-05-20
 tags: [C++,标准,PDF,容器,ptr]
 comments: true

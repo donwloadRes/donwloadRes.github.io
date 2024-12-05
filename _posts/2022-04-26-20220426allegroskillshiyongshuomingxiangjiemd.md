@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "allegro_skill使用说明详解"
+title: "allegroskill使用说明详解"
 date:   2023-07-16
 tags: [skill,allegro,Allegro,详解,设计]
 comments: true

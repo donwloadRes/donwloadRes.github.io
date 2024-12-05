@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus RTU串口通信资源文件"
+title: "C Modbus RTU串口通信资源文件"
 date:   2023-07-27
 tags: [串口,Modbus,RTU,通信,文件]
 comments: true

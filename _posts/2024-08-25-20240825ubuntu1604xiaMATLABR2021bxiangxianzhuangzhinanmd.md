@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ubuntu16.04下MATLAB R2021b详细安装指南"
+title: "ubuntu1604下MATLAB R2021b详细安装指南"
 date:   2021-08-05
 tags: [MATLAB,安装,挂载,Ubuntu,文件]
 comments: true

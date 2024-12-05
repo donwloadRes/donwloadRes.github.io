@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 时间序列预测：趋势与季节性分析及代码实现"
+title: "Python 时间序列预测趋势与季节性分析及代码实现"
 date:   2024-10-18
 tags: [序列,Python,预测,文档,季节性]
 comments: true

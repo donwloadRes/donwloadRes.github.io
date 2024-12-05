@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32遥控小车上位机部分（C++环境下的Qt界面编程）"
+title: "STM32遥控小车上位机部分C环境下的Qt界面编程"
 date:   2024-03-28
 tags: [串口,STM32,Qt,小车,确保]
 comments: true

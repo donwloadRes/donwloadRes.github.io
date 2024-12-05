@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸识别数据集 CAS-PEAL-R1 介绍"
+title: "人脸识别数据集 CASPEALR1 介绍"
 date:   2024-06-18
 tags: [人脸识别,数据,CAS,PEAL,R1]
 comments: true

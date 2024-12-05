@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Python 教务管理资源库"
+title: "Python 教务管理资源库
+date   20240812
+tags 资源库Python教务管理Flask
+comments true
+author admin
+
+
+layout post
+title Python 教务管理资源库"
 date:   2024-08-12
 tags: [资源库,Python,教务,管理,Flask]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Python 教务管理资源库"
+title: "Python 教务管理资源库
+date   20240812
+tags 资源库Python教务管理Flask
+comments true
+author admin
+
+
+layout post
+title Python 教务管理资源库"
 date:   2022-08-13
 tags: [资源库,Python,教务,管理,Flask]
 comments: true

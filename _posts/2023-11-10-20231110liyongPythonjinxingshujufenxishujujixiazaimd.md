@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python进行数据分析》数据集下载"
+title: "利用Python进行数据分析数据集下载"
 date:   2021-10-18
 tags: [Python,数据分析,文件,rar,解压]
 comments: true

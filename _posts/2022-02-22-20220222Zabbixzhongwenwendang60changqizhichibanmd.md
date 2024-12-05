@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix中文文档6.0长期支持版"
+title: "Zabbix中文文档60长期支持版"
 date:   2024-12-02
 tags: [Zabbix,文档,6.0,配置,搭建]
 comments: true

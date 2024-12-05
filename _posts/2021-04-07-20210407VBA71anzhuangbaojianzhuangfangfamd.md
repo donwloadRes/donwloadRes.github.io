@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA 7.1 安装包及安装方法"
+title: "VBA 71 安装包及安装方法"
 date:   2021-01-25
 tags: [安装包,VBA,7.1,WPS,安装]
 comments: true

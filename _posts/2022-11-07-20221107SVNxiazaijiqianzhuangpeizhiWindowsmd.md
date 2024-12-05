@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVN下载及其安装配置（Windows）"
+title: "SVN下载及其安装配置Windows"
 date:   2023-07-02
 tags: [安装,SVN,客户端,下载,语言包]
 comments: true

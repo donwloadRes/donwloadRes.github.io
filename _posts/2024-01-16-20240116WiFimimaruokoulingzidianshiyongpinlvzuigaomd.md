@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WiFi密码弱口令字典(使用频率最高)"
+title: "WiFi密码弱口令字典使用频率最高"
 date:   2022-07-07
 tags: [WiFi,密码,字典,口令,网络安全]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#远程桌面控制程序"
+title: "C远程桌面控制程序"
 date:   2023-12-02
 tags: [远程桌面,控制程序,C#,程序,编译]
 comments: true

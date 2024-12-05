@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程桌面(带C++源码)"
+title: "远程桌面带C源码"
 date:   2023-11-18
 tags: [远程桌面,C++,源代码,编程,源码]
 comments: true

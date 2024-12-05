@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ruoyi-vue-pro开发指南PDF下载"
+title: "ruoyivuepro开发指南PDF下载"
 date:   2023-06-17
 tags: [ruoyi,vue,pro,开发,PDF]
 comments: true

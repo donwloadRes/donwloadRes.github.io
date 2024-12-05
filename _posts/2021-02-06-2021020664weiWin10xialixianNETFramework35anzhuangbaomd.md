@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "64位Win10下离线.NET Framework 3.5安装包"
+title: "64位Win10下离线NET Framework 35安装包"
 date:   2020-11-06
 tags: [安装包,NET,Framework,3.5,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核完全剖析笔记（基于0.12内核）"
+title: "Linux内核完全剖析笔记基于012内核"
 date:   2022-11-24
 tags: [内核,Linux,笔记,0.12,剖析]
 comments: true

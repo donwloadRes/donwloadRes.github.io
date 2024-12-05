@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DATALOGIC得利捷 GD_GM_GBT 4500 扫码器配置手册"
+title: "DATALOGIC得利捷 GDGMGBT 4500 扫码器配置手册"
 date:   2023-12-05
 tags: [码器,4500,配置,得利,手册]
 comments: true

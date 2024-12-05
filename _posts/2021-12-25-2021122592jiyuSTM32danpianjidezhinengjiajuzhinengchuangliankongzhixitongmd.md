@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "92-基于STM32单片机的智能家居智能窗帘控制系统"
+title: "92基于STM32单片机的智能家居智能窗帘控制系统"
 date:   2020-04-15
 tags: [仿真,智能家居,STM32,Proteus,窗帘]
 comments: true

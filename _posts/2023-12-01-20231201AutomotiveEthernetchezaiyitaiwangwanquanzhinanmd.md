@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automotive Ethernet - 车载以太网完全指南》"
+title: "Automotive Ethernet  车载以太网完全指南"
 date:   2022-10-21
 tags: [以太网,车载,Ethernet,指南,技术]
 comments: true

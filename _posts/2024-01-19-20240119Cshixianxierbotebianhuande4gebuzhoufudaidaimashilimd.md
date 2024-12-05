@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现希尔伯特变换的4个步骤，附带代码示例"
+title: "C实现希尔伯特变换的4个步骤附带代码示例"
 date:   2022-05-09
 tags: [希尔伯特,变换,示例,C++,频域]
 comments: true

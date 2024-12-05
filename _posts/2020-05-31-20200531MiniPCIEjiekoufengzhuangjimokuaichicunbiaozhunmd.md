@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mini PCI-E 接口封装及模块尺寸标准"
+title: "Mini PCIE 接口封装及模块尺寸标准"
 date:   2023-12-25
 tags: [Mini,PCI,PCB,封装,尺寸]
 comments: true

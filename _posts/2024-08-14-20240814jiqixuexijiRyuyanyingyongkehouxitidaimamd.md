@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习及R语言应用》课后习题代码"
+title: "机器学习及R语言应用课后习题代码"
 date:   2020-03-08
 tags: [代码,课后,习题,学习,资源]
 comments: true

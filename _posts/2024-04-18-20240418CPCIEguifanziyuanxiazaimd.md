@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI-E规范资源下载"
+title: "CPCIE规范资源下载"
 date:   2020-04-02
 tags: [CPCI,规范,资源,文件,下载]
 comments: true

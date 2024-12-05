@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vsflexgrid8.0控件包 - WIN7 64位系统专用"
+title: "vsflexgrid80控件包  WIN7 64位系统专用"
 date:   2021-09-26
 tags: [控件,vsflexgrid8.0,64,安装,开发]
 comments: true

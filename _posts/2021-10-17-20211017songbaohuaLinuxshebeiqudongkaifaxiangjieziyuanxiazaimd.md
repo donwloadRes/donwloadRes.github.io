@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宋宝华Linux设备驱动开发详解》资源下载"
+title: "宋宝华Linux设备驱动开发详解资源下载"
 date:   2022-02-25
 tags: [Linux,驱动,详解,宋宝华,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java小项目——小型图书管理系统（含完整代码及工具）"
+title: "Java小项目小型图书管理系统含完整代码及工具"
 date:   2020-06-15
 tags: [数据库,图书,Java,管理系统,导入]
 comments: true

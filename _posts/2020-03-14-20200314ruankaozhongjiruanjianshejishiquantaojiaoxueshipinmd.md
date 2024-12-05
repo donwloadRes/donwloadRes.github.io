@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考中级：软件设计师全套教学视频"
+title: "软考中级软件设计师全套教学视频"
 date:   2020-09-23
 tags: [软考,设计师,中级,视频,软件]
 comments: true

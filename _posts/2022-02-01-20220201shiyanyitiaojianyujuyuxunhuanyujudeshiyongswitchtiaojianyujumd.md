@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验一：条件语句与循环语句的使用 - switch 条件语句"
+title: "实验一条件语句与循环语句的使用  switch 条件语句"
 date:   2021-05-04
 tags: [语句,switch,条件,循环,answer]
 comments: true

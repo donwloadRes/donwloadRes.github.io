@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动鼠标点击小软件（基于Winform-C#-OpenCV）"
+title: "自动鼠标点击小软件基于WinformCOpenCV"
 date:   2022-10-22
 tags: [鼠标,点击,软件,缩放,识别]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ili9431 tft-espi时钟天气滚屏"
+title: "ili9431 tftespi时钟天气滚屏"
 date:   2022-04-06
 tags: [开发板,天气,时钟,tft,WiFi]
 comments: true

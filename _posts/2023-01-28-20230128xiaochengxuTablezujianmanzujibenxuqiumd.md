@@ -1,6 +1,39 @@
 ---
 layout: post
-title: "小程序Table组件 - 满足基本需求"
+title: "小程序Table组件  满足基本需求
+date   20220218
+tags 组件table程序Tablecomponents
+comments true
+author admin
+
+ 小程序Table组件  满足基本需求
+
+
+
+ 简介
+
+本仓库提供了一款轻量级的小程序Table组件专为满足小程序开发中基本的数据展示需求设计如果你正在寻找一个易于集成功能实用的表格解决方案那么这款组件将是你的不二之选
+
+ 使用教程
+
+详细的使用方法及示例代码请参照这篇CSDN博客文章httpsblogcsdnnetweixin67585820articledetails123791822通过这篇文章您将学习到如何在您的小程序项目中引入并应用这个组件以及如何自定义样式以适配不同的显示需求
+
+ 特性
+
+ 易集成简单几步即可在小程序项目中添加使用
+ 基础功能完备支持数据绑定分页显示基本排序等常用功能
+ 高度可定制允许开发者根据需要调整样式和功能
+ 文档清晰详细使用说明帮助快速上手
+
+ 快速入门
+
+1 克隆或下载 本仓库到本地
+2 将 components 目录中的 table 组件复制到你的小程序项目的 components 文件夹内
+3 在需要使用此组件的页面JSON文件中引入组件
+   json
+   
+     usingComponents 
+       customtable componentstabletable"
 date:   2022-02-18
 tags: [组件,table,程序,Table,components]
 comments: true

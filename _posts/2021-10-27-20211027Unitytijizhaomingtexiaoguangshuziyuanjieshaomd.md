@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity体积照明特效(光束)资源介绍"
+title: "Unity体积照明特效光束资源介绍"
 date:   2020-10-22
 tags: [Unity,特效,光束,体积,照明]
 comments: true

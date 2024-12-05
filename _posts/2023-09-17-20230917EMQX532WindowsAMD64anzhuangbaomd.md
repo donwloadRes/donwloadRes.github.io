@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMQ X 5.3.2 Windows AMD64 安装包"
+title: "EMQ X 532 Windows AMD64 安装包"
 date:   2021-04-13
 tags: [EMQ,Windows,安装包,5.3,AMD64]
 comments: true

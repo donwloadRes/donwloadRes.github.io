@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言入门经典(第5版)电子书PDF下载"
+title: "C语言入门经典第5版电子书PDF下载"
 date:   2022-04-14
 tags: [C语言,读者,编程,PDF,帮助]
 comments: true

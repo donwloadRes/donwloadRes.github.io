@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openjdk1.8 最高版本 for Windows 64位"
+title: "openjdk18 最高版本 for Windows 64位"
 date:   2023-11-13
 tags: [OpenJDK,Java,1.8,版本,安装]
 comments: true

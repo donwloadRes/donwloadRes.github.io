@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linpack搭建之GotoBLAS2的保姆级安装配置及常见问题(Ubuntu)"
+title: "Linpack搭建之GotoBLAS2的保姆级安装配置及常见问题Ubuntu"
 date:   2023-05-01
 tags: [GotoBLAS2,安装,配置,编译,Linpack]
 comments: true

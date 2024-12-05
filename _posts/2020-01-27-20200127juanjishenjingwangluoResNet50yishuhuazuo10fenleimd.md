@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卷积神经网络（ResNet50）：艺术画作10分类"
+title: "卷积神经网络ResNet50艺术画作10分类"
 date:   2022-02-24
 tags: [模型,训练,ResNet50,10,卷积]
 comments: true

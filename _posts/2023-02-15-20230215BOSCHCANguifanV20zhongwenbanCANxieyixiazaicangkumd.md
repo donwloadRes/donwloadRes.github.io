@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BOSCH CAN规范V2.0 (中文版CAN协议) 下载仓库"
+title: "BOSCH CAN规范V20 中文版CAN协议 下载仓库"
 date:   2023-08-14
 tags: [文件,V2.0,协议,中文版,BOSCH]
 comments: true

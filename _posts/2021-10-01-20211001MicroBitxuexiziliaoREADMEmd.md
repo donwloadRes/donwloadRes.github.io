@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro:Bit 学习资料 README"
+title: "MicroBit 学习资料 README"
 date:   2022-08-08
 tags: [Micro,Bit,编程,学习,文档]
 comments: true

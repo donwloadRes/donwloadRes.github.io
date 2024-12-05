@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔百和晶晨S905L3(B)安卓9当贝纯净线刷固件包"
+title: "魔百和晶晨S905L3B安卓9当贝纯净线刷固件包"
 date:   2022-02-15
 tags: [固件,刷机,烧录,魔百和晶晨,安卓]
 comments: true

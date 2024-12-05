@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 数维杯 B 题（节能列车优化）资源"
+title: "2023 数维杯 B 题节能列车优化资源"
 date:   2021-04-03
 tags: [解决方案,示例,题目,优化,2023]
 comments: true

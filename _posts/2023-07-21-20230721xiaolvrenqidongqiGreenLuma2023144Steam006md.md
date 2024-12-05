@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小绿人启动器 GreenLuma-2023-1.4.4-Steam006"
+title: "小绿人启动器 GreenLuma2023144Steam006"
 date:   2020-04-12
 tags: [游戏,启动器,小绿人,GreenLuma,Steam]
 comments: true

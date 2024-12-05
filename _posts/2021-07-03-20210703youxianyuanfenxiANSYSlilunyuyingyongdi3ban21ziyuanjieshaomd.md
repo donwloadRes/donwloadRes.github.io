@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限元分析-ANSYS理论与应用》第3版（2-1）资源介绍"
+title: "有限元分析ANSYS理论与应用第3版21资源介绍"
 date:   2022-05-30
 tags: [ANSYS,有限元,分析,应用,理论]
 comments: true

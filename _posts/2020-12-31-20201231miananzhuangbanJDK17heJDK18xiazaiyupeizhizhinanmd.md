@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免安装版JDK 1.7 和 JDK 1.8 下载与配置指南"
+title: "免安装版JDK 17 和 JDK 18 下载与配置指南"
 date:   2020-09-16
 tags: [JDK,安装版,1.7,1.8,版本]
 comments: true

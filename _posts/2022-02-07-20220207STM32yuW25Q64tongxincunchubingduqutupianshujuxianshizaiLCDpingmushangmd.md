@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32与W25Q64通信：存储并读取图片数据，显示在LCD屏幕上"
+title: "STM32与W25Q64通信存储并读取图片数据显示在LCD屏幕上"
 date:   2020-07-10
 tags: [LCD,STM32,W25Q64,屏幕,SPI]
 comments: true

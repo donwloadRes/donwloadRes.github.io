@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "股票每日成交明细(分时,逐笔)下载"
+title: "股票每日成交明细分时逐笔下载"
 date:   2024-10-31
 tags: [成交,逐笔,数据,文件,下载]
 comments: true

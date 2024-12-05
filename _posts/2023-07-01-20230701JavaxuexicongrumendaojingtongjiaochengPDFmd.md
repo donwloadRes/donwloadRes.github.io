@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java学习从入门到精通教程（PDF）"
+title: "Java学习从入门到精通教程PDF"
 date:   2020-11-25
 tags: [Java,教程,学习,编程,PDF]
 comments: true

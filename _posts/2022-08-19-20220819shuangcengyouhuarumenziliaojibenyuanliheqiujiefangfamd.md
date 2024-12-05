@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双层优化入门资料：基本原理和求解方法"
+title: "双层优化入门资料基本原理和求解方法"
 date:   2020-12-06
 tags: [双层,优化,问题,求解,KKT]
 comments: true

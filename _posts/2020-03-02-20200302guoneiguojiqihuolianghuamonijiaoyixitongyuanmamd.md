@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国内、国际期货量化模拟交易系统源码"
+title: "国内国际期货量化模拟交易系统源码"
 date:   2023-08-23
 tags: [源码,下单,模拟,提供,账号]
 comments: true

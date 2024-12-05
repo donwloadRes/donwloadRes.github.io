@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "URSdk (.Net 4.0) 快速指南"
+title: "URSdk Net 40 快速指南"
 date:   2024-11-25
 tags: [UR,通信,上位,端口,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑群晖_完整安装包_DSM_5.2-5644"
+title: "黑群晖完整安装包DSM525644"
 date:   2022-11-24
 tags: [黑群晖,U盘,安装,安装包,DSM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266+MQTT连接阿里云服务器（一、烧写MQTT固件）"
+title: "STM32ESP8266MQTT连接阿里云服务器一烧写MQTT固件"
 date:   2024-02-13
 tags: [固件,ESP8266,模块,MQTT,引脚]
 comments: true

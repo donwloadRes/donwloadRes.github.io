@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通达信DLL函数编程（Delphi）资源介绍"
+title: "通达信DLL函数编程Delphi资源介绍"
 date:   2020-08-15
 tags: [通达信,DLL,Delphi,编程,函数]
 comments: true

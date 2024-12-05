@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI大模型报告：大模型时代的智能运维（AIOps）"
+title: "AI大模型报告大模型时代的智能运维AIOps"
 date:   2023-10-28
 tags: [AIOps,运维,模型,报告,智能]
 comments: true

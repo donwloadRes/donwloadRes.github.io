@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++20 实践入门，第六版，英文 资源下载"
+title: "C20 实践入门第六版英文 资源下载"
 date:   2021-08-05
 tags: [第六版,C++,20,入门,英文]
 comments: true

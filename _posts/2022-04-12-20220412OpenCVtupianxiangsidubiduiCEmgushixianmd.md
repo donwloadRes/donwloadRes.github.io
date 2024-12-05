@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 图片相似度比对 C# Emgu 实现"
+title: "OpenCV 图片相似度比对 C Emgu 实现"
 date:   2021-10-11
 tags: [C#,OpenCV,Emgu,相似,直方图]
 comments: true

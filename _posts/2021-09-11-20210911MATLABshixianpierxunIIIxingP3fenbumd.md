@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现皮尔逊-III型(P3)分布"
+title: "MATLAB实现皮尔逊III型P3分布"
 date:   2020-06-16
 tags: [MATLAB,P3,程序,test,mat]
 comments: true

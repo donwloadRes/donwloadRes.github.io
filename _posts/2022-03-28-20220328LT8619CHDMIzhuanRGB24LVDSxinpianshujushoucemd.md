@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT8619C HDMI转RGB24-LVDS芯片数据手册"
+title: "LT8619C HDMI转RGB24LVDS芯片数据手册"
 date:   2020-10-15
 tags: [LT8619C,芯片,HDMI,RGB24,LVDS]
 comments: true

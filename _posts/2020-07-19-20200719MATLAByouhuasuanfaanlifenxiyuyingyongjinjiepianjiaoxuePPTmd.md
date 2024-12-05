@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB优化算法案例分析与应用（进阶篇）教学PPT"
+title: "MATLAB优化算法案例分析与应用进阶篇教学PPT"
 date:   2021-06-08
 tags: [算法,MATLAB,优化,进阶篇,PPT]
 comments: true

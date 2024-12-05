@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort v1.4 规范文档下载"
+title: "DisplayPort v14 规范文档下载"
 date:   2024-06-13
 tags: [DisplayPort,文档,1.4,下载,文件]
 comments: true

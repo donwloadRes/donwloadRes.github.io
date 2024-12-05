@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学生管理系统 - 基于MySQL、Flask的前后端分离项目"
+title: "Python学生管理系统  基于MySQLFlask的前后端分离项目"
 date:   2020-09-20
 tags: [前端,数据库,Python,项目,Flask]
 comments: true

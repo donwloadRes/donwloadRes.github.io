@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4 HAL DAC+DMA波形发生器"
+title: "STM32F4 HAL DACDMA波形发生器"
 date:   2022-08-11
 tags: [波形,DMA,DAC,STM32F4,HAL]
 comments: true

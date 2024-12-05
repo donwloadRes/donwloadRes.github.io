@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享46个JS时间轴特效，总有一款适合您"
+title: "分享46个JS时间轴特效总有一款适合您"
 date:   2021-05-22
 tags: [时间轴,jQuery,特效,代码,动画]
 comments: true

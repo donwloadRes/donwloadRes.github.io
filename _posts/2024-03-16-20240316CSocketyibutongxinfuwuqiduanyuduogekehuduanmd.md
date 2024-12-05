@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 异步通信：服务器端与多个客户端"
+title: "C Socket 异步通信服务器端与多个客户端"
 date:   2022-01-14
 tags: [服务器端,客户端,字节,端口号,信息]
 comments: true

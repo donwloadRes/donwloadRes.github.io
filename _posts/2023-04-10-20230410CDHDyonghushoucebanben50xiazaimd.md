@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDHD用户手册》（版本5.0）下载"
+title: "CDHD用户手册版本50下载"
 date:   2021-10-01
 tags: [5.0,用户手册,CDHD,版本,文件]
 comments: true

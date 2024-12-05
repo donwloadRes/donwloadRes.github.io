@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M3 内核 HardFault 错误调试定位方法"
+title: "CortexM3 内核 HardFault 错误调试定位方法"
 date:   2023-01-26
 tags: [HardFault,错误,调试,Cortex,M3]
 comments: true

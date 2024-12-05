@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "低功耗蓝牙通讯 C# WinForm 测试工具"
+title: "低功耗蓝牙通讯 C WinForm 测试工具"
 date:   2024-05-12
 tags: [低功耗,蓝牙,通讯,测试工具,C#]
 comments: true

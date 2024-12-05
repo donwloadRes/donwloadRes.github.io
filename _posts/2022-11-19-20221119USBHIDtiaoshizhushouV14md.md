@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB(HID)调试助手(V1.4)"
+title: "USBHID调试助手V14"
 date:   2022-10-29
 tags: [HID,USB,V1.4,调试,设备]
 comments: true

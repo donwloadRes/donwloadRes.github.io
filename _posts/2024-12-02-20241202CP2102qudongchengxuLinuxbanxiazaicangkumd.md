@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CP2102驱动程序（Linux版）下载仓库"
+title: "CP2102驱动程序Linux版下载仓库"
 date:   2020-07-22
 tags: [驱动程序,CP2102,Linux,仓库,USB]
 comments: true

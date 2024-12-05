@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Termux新-旧版下载地址及其附属包下载地址归总"
+title: "Termux新旧版下载地址及其附属包下载地址归总"
 date:   2020-06-20
 tags: [Termux,下载,地址,安装包,附属]
 comments: true

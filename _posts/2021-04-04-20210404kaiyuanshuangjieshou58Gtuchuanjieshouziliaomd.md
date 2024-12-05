@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源双接收5.8G图传接收资料"
+title: "开源双接收58G图传接收资料"
 date:   2022-05-08
 tags: [开源,接收,图传,5.8,资料]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式：可复用面向对象软件的基础 PDF 下载"
+title: "设计模式可复用面向对象软件的基础 PDF 下载"
 date:   2021-02-16
 tags: [设计模式,PDF,下载,复用,面向对象]
 comments: true

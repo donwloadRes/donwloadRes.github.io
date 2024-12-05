@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The C Programming Language(2nd Edition) 中文完整版PDF"
+title: "The C Programming Language2nd Edition 中文完整版PDF"
 date:   2021-11-26
 tags: [PDF,完整版,Programming,Language,2nd]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二自由度车辆动力学模型(Simulink)"
+title: "二自由度车辆动力学模型Simulink"
 date:   2023-09-09
 tags: [模型,Simulink,车辆,动力学,仿真]
 comments: true

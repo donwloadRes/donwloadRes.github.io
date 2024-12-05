@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tensorflow实战入门：波士顿房价预测"
+title: "Tensorflow实战入门波士顿房价预测"
 date:   2021-06-27
 tags: [波士顿,Tensorflow,模型,训练,房价]
 comments: true

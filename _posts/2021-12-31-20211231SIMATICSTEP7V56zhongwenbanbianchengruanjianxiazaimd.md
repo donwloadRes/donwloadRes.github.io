@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMATIC STEP7 V5.6 中文版编程软件下载"
+title: "SIMATIC STEP7 V56 中文版编程软件下载"
 date:   2024-01-11
 tags: [下载,中文版,SIMATIC,STEP7,V5.6]
 comments: true

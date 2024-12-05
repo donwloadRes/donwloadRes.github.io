@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理大作业 - 拍照图像处理（Python + OpenCV + Qt）"
+title: "数字图像处理大作业  拍照图像处理Python  OpenCV  Qt"
 date:   2023-12-08
 tags: [图像,图像处理,Python,数字图像处理,项目]
 comments: true

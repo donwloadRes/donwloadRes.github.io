@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO15118-3-2015 中文版资源下载"
+title: "ISO1511832015 中文版资源下载"
 date:   2023-04-04
 tags: [ISO15118,2015,中文版,下载,文件]
 comments: true

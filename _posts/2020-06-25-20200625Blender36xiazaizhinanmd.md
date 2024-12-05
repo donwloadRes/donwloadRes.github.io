@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blender 3.6下载指南"
+title: "Blender 36下载指南"
 date:   2020-09-27
 tags: [Blender,3.6,下载,版本,官方网站]
 comments: true

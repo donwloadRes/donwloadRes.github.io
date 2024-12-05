@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04.1 桌面版 ISO 文件下载"
+title: "Ubuntu 18041 桌面版 ISO 文件下载"
 date:   2024-09-14
 tags: [ISO,下载,文件,18.04,桌面版]
 comments: true

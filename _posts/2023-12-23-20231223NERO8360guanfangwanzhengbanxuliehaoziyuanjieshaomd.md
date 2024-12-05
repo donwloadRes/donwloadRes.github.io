@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NERO8.3.6.0 官方完整版 + 序列号资源介绍"
+title: "NERO8360 官方完整版  序列号资源介绍"
 date:   2023-12-11
 tags: [序列号,软件,完整版,NERO8.3,6.0]
 comments: true

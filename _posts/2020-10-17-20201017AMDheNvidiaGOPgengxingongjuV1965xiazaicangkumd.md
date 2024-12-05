@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMD 和 Nvidia GOP 更新工具 V1.9.6.5 下载仓库"
+title: "AMD 和 Nvidia GOP 更新工具 V1965 下载仓库"
 date:   2020-03-05
 tags: [GOP,工具,UEFI,更新,仓库]
 comments: true

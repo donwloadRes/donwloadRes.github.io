@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 官方 x64 插件集合下载"
+title: "Notepad 官方 x64 插件集合下载"
 date:   2024-08-27
 tags: [插件,Notepad,++,x64,文件]
 comments: true

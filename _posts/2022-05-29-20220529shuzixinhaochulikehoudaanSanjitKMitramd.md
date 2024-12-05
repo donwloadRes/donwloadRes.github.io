@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理课后答案 - Sanjit K Mitra"
+title: "数字信号处理课后答案  Sanjit K Mitra"
 date:   2022-05-01
 tags: [信号处理,学习,解答,课后,Sanjit]
 comments: true

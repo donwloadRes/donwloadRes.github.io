@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAMES101 现代计算机图形学入门作业0-8 资源下载"
+title: "GAMES101 现代计算机图形学入门作业08 资源下载"
 date:   2023-06-08
 tags: [作业,图形学,资源,下载,文件]
 comments: true

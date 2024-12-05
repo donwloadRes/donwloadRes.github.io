@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光学原理（60周年纪念版）下载仓库"
+title: "光学原理60周年纪念版下载仓库"
 date:   2024-04-03
 tags: [光学,下载,Principles,Optics,60th]
 comments: true

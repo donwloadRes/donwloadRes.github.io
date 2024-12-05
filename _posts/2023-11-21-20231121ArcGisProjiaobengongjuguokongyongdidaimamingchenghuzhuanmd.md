@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGisPro脚本工具：国空用地代码名称互转"
+title: "ArcGisPro脚本工具国空用地代码名称互转"
 date:   2021-11-11
 tags: [工具,转换,ArcGIS,Excel,映射]
 comments: true

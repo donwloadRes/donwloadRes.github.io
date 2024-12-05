@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FREERTOS+USART+IDLE+DMA双缓冲接收，DMA发送和阻塞式发送"
+title: "FREERTOSUSARTIDLEDMA双缓冲接收DMA发送和阻塞式发送"
 date:   2020-02-06
 tags: [DMA,发送,USART,FREERTOS,接收]
 comments: true

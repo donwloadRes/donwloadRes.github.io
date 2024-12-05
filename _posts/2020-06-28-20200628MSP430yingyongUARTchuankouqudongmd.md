@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP430 应用 UART（串口驱动）"
+title: "MSP430 应用 UART串口驱动"
 date:   2024-04-17
 tags: [串口,MSP430,UART,驱动程序,微控制器]
 comments: true

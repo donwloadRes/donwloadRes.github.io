@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享85个Bootstrap4模板，总有一款适合您"
+title: "分享85个Bootstrap4模板总有一款适合您"
 date:   2024-05-31
 tags: [模板,Bootstrap4,展示,85,适用]
 comments: true

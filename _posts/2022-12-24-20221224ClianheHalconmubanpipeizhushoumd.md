@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#联合Halcon模板匹配助手"
+title: "C联合Halcon模板匹配助手"
 date:   2021-07-23
 tags: [Halcon,模板,匹配,技术支持,代码]
 comments: true

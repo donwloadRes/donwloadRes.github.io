@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0及Navicat Premium安装教程(超详细带压缩包)"
+title: "MySQL 80及Navicat Premium安装教程超详细带压缩包"
 date:   2020-10-30
 tags: [安装,Navicat,Premium,MySQL,8.0]
 comments: true

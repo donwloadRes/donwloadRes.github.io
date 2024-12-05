@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复变函数与积分变换(pdf) 下载仓库"
+title: "复变函数与积分变换pdf 下载仓库"
 date:   2023-08-18
 tags: [复变,积分,变换,函数,下载]
 comments: true

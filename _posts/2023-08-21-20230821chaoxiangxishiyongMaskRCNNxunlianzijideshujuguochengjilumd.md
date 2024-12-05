@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细！使用Mask R-CNN训练自己的数据过程记录"
+title: "超详细使用Mask RCNN训练自己的数据过程记录"
 date:   2020-03-31
 tags: [CNN,训练,Mask,博客,模型]
 comments: true

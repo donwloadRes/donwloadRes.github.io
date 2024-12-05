@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF流量分析常见题型(二)-USB流量"
+title: "CTF流量分析常见题型二USB流量"
 date:   2022-10-23
 tags: [USB,流量,CTF,分析,tshark]
 comments: true

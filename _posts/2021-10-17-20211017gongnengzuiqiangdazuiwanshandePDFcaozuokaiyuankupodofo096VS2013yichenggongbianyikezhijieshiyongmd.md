@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功能最强大最完善的PDF操作开源库（podofo-0.9.6 + VS2013）已成功编译可直接使用"
+title: "功能最强大最完善的PDF操作开源库podofo096  VS2013已成功编译可直接使用"
 date:   2023-04-19
 tags: [podofo,PDF,0.9,编译,Podofo]
 comments: true

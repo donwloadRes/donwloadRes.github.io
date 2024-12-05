@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F1的FreeRTOS V9.0.0移植与多模块程序测试"
+title: "基于STM32F1的FreeRTOS V900移植与多模块程序测试"
 date:   2021-08-09
 tags: [测试,模块,STM32F1,实时,FreeRTOS]
 comments: true

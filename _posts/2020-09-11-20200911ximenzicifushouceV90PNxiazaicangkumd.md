@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子伺服手册V90_PN 下载仓库"
+title: "西门子伺服手册V90PN 下载仓库"
 date:   2022-08-29
 tags: [V90,SINAMICS,PN,文档,伺服]
 comments: true

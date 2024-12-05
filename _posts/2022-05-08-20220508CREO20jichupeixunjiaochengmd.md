@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CREO 2.0 基础培训教程"
+title: "CREO 20 基础培训教程"
 date:   2024-01-08
 tags: [CREO,教程,2.0,建模,介绍]
 comments: true

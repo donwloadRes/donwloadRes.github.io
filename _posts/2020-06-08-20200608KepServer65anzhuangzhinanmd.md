@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KepServer 6.5 安装指南"
+title: "KepServer 65 安装指南"
 date:   2022-07-06
 tags: [安装,KepServer,6.5,文档,安装程序]
 comments: true

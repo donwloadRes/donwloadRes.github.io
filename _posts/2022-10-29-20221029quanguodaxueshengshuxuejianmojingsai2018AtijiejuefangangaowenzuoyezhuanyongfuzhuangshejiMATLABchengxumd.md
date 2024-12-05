@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国大学生数学建模竞赛2018A题解决方案：高温作业专用服装设计MATLAB程序"
+title: "全国大学生数学建模竞赛2018A题解决方案高温作业专用服装设计MATLAB程序"
 date:   2021-02-21
 tags: [MATLAB,建模,高温作业,服装设计,数学]
 comments: true

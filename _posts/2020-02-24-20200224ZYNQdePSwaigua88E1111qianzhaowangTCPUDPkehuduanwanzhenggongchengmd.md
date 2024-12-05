@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ的PS外挂88E1111千兆网TCP-UDP客户端完整工程"
+title: "ZYNQ的PS外挂88E1111千兆网TCPUDP客户端完整工程"
 date:   2022-02-22
 tags: [Vivado,SDK,工程,ZYNQ,88E1111]
 comments: true

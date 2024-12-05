@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统 郑君里 第二版(完整PDF版本)"
+title: "信号与系统 郑君里 第二版完整PDF版本"
 date:   2023-02-02
 tags: [PDF,郑君里,文件,仓库,信号]
 comments: true

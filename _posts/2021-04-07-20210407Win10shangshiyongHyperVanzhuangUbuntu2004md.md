@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10上使用Hyper-V安装Ubuntu 20.04"
+title: "Win10上使用HyperV安装Ubuntu 2004"
 date:   2020-10-03
 tags: [Ubuntu,20.04,虚拟机,安装,Hyper]
 comments: true

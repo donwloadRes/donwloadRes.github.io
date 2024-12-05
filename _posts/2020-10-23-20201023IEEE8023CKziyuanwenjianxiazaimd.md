@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3 CK 资源文件下载"
+title: "IEEE 8023 CK 资源文件下载"
 date:   2020-02-20
 tags: [IEEE,802.3,文件,CK,扫描]
 comments: true

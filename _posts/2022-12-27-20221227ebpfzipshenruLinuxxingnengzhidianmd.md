@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ebpf.zip -- 深入Linux性能之巅"
+title: "ebpfzip  深入Linux性能之巅"
 date:   2020-10-08
 tags: [eBPF,Linux,性能,ebpf,zip]
 comments: true

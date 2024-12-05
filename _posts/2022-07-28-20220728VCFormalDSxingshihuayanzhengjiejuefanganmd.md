@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC Formal™DS - 形式化验证解决方案"
+title: "VC FormalDS  形式化验证解决方案"
 date:   2022-09-18
 tags: [验证,VC,Formal,形式化,SoC]
 comments: true

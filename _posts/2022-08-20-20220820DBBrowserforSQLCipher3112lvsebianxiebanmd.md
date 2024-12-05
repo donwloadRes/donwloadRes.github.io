@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DB Browser for SQLCipher 3.11.2 绿色便携版"
+title: "DB Browser for SQLCipher 3112 绿色便携版"
 date:   2022-12-26
 tags: [便携,DB,Browser,SQLCipher,3.11]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HRTIM（高分辨率定时器）应用指南-中文版"
+title: "HRTIM高分辨率定时器应用指南中文版"
 date:   2024-04-09
 tags: [HRTIM,指南,微控制器,定时器,应用]
 comments: true

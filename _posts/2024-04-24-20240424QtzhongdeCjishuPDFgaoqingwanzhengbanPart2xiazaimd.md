@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt中的C++技术PDF（高清完整版）Part 2 下载"
+title: "Qt中的C技术PDF高清完整版Part 2 下载"
 date:   2024-11-28
 tags: [PDF,Qt,C++,完整版,下载]
 comments: true

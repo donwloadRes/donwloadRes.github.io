@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高频电子线路(第五版)学习资源"
+title: "高频电子线路第五版学习资源"
 date:   2023-11-23
 tags: [习题,电子线路,学习,高频,指导书]
 comments: true

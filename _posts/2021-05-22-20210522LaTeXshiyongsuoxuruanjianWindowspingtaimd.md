@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeX 使用所需软件（Windows 平台）"
+title: "LaTeX 使用所需软件Windows 平台"
 date:   2022-06-29
 tags: [LaTeX,文档,软件,Windows,安装]
 comments: true

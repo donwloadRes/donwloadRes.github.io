@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张正友相机标定Opencv实现（完整程序+棋盘图）实例源码"
+title: "张正友相机标定Opencv实现完整程序棋盘图实例源码"
 date:   2022-10-28
 tags: [标定,相机,棋盘,输出,张正友]
 comments: true

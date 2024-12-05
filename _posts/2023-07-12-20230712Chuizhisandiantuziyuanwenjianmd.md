@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 绘制散点图资源文件"
+title: "C 绘制散点图资源文件"
 date:   2020-10-20
 tags: [散点图,C#,代码,绘制,文件]
 comments: true

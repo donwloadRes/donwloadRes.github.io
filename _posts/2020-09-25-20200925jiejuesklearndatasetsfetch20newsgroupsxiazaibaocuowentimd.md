@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决sklearn.datasets.fetch_20newsgroups下载报错问题"
+title: "解决sklearndatasetsfetch20newsgroups下载报错问题"
 date:   2020-02-25
 tags: [下载,20newsgroups,path,报错,fetch]
 comments: true

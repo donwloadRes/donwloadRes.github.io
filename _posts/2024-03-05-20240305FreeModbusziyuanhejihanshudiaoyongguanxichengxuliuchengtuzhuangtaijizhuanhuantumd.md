@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeModbus 资源合集：函数调用关系、程序流程图、状态机转换图"
+title: "FreeModbus 资源合集函数调用关系程序流程图状态机转换图"
 date:   2024-05-08
 tags: [FreeModbus,函数调用,流程图,状态机,开发者]
 comments: true

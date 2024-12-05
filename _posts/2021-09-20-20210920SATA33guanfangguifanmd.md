@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SATA 3.3官方规范"
+title: "SATA 33官方规范"
 date:   2021-12-22
 tags: [SATA,3.3,文档,规范,版本]
 comments: true

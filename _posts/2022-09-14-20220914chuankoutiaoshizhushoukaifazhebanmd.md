@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手 - 开发者版"
+title: "串口调试助手  开发者版"
 date:   2023-02-07
 tags: [串口,调试,开发者,助手,安装]
 comments: true

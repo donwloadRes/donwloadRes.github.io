@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车以太网诊断标准 ISO 13400-2-2019 资源下载"
+title: "汽车以太网诊断标准 ISO 1340022019 资源下载"
 date:   2020-05-10
 tags: [以太网,2019,ISO,13400,汽车]
 comments: true

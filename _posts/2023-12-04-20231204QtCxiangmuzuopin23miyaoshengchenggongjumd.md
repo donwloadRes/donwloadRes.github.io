@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品23 - 秘钥生成工具"
+title: "QtC项目作品23  秘钥生成工具"
 date:   2023-05-08
 tags: [秘钥,时间,生成,运行,文件]
 comments: true

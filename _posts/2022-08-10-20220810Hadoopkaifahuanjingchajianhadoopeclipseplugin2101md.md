@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop开发环境插件：hadoop-eclipse-plugin-2.10.1"
+title: "Hadoop开发环境插件hadoopeclipseplugin2101"
 date:   2020-06-08
 tags: [插件,Hadoop,Eclipse,hadoop,eclipse]
 comments: true

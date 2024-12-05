@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode C++ 环境配置终极指南"
+title: "VSCode C 环境配置终极指南"
 date:   2022-12-02
 tags: [C++,配置,VSCode,编译器,json]
 comments: true

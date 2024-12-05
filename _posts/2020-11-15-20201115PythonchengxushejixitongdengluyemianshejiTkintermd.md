@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 程序设计 - 系统登录页面设计（Tkinter）"
+title: "Python 程序设计  系统登录页面设计Tkinter"
 date:   2022-04-18
 tags: [登录,异常,Python,Tkinter,user]
 comments: true

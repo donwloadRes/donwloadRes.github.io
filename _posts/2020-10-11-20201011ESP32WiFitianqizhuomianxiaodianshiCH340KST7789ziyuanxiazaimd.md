@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 WiFi 天气桌面小电视 - CH340K-ST7789 资源下载"
+title: "ESP32 WiFi 天气桌面小电视  CH340KST7789 资源下载"
 date:   2021-07-28
 tags: [ESP32,ST7789,文档,上传,CH340K]
 comments: true

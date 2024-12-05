@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运筹学_塔哈_中文版.pdf 资源说明"
+title: "运筹学塔哈中文版pdf 资源说明"
 date:   2022-10-02
 tags: [运筹学,PDF,塔哈,中文版,学习]
 comments: true

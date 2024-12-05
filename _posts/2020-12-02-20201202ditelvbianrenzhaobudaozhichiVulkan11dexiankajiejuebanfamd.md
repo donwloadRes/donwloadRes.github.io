@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "底特律变人找不到支持Vulkan1.1的显卡解决办法"
+title: "底特律变人找不到支持Vulkan11的显卡解决办法"
 date:   2022-02-23
 tags: [显卡,变人,Vulkan1.1,游戏,底特律]
 comments: true

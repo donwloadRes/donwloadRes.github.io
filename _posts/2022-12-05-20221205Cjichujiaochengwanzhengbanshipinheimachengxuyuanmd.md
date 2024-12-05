@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基础教程完整版视频（黑马程序员）"
+title: "C基础教程完整版视频黑马程序员"
 date:   2021-06-18
 tags: [C++,编程,基础教程,完整版,程序员]
 comments: true

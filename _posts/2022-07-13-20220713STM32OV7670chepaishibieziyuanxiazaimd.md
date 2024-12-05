@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+OV7670车牌识别资源下载"
+title: "STM32OV7670车牌识别资源下载"
 date:   2021-01-20
 tags: [STM32,车牌,OV7670,识别,摄像头]
 comments: true

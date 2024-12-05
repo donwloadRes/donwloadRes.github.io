@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luna16数据集转VOC数据集&肺实质分割&生成工具"
+title: "Luna16数据集转VOC数据集肺实质分割生成工具"
 date:   2024-08-23
 tags: [py,Luna16,数据,生成,VOC]
 comments: true

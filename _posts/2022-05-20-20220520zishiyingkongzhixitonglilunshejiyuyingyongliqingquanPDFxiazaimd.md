@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应控制系统理论、设计与应用 李清泉 PDF 下载"
+title: "自适应控制系统理论设计与应用 李清泉 PDF 下载"
 date:   2020-09-02
 tags: [控制系统,适应,PDF,下载,应用]
 comments: true

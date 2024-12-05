@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt MVVM：大型Qt C++应用程序的模型视图ViewModel框架"
+title: "Qt MVVM大型Qt C应用程序的模型视图ViewModel框架"
 date:   2020-11-23
 tags: [Qt,应用程序,框架,模型,视图]
 comments: true

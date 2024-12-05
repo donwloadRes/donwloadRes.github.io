@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCvSharp+ZXing条形码识别"
+title: "OpenCvSharpZXing条形码识别"
 date:   2022-05-14
 tags: [条形码,ZXing,识别,示例,OpenCvSharp]
 comments: true

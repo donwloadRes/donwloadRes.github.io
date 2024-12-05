@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SJ 20884-2003 相控阵天线测试方法"
+title: "SJ 208842003 相控阵天线测试方法"
 date:   2021-05-24
 tags: [相控阵,天线,测试方法,2003,SJ]
 comments: true

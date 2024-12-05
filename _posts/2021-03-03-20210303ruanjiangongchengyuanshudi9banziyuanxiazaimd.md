@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程（原书第9版）资源下载"
+title: "软件工程原书第9版资源下载"
 date:   2024-07-12
 tags: [软件工程,原书,下载,资源,仓库]
 comments: true

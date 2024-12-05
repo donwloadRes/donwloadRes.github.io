@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UOS服务器操作系统（1050a）管理手册"
+title: "UOS服务器操作系统1050a管理手册"
 date:   2021-04-01
 tags: [服务器,操作系统,UOS,1050a,管理]
 comments: true

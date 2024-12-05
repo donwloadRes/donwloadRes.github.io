@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学IDA逆向（中）1 资源下载"
+title: "从零开始学IDA逆向中1 资源下载"
 date:   2021-02-05
 tags: [IDA,逆向,文件,从零开始,资源]
 comments: true

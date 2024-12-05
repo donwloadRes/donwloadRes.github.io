@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS V9.0.0 API 中文手册下载"
+title: "FreeRTOS V900 API 中文手册下载"
 date:   2022-07-29
 tags: [FreeRTOS,手册,API,V9.0,中文]
 comments: true

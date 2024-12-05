@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLED显示温度和时间 - STM32F103C8T6 项目资源"
+title: "OLED显示温度和时间  STM32F103C8T6 项目资源"
 date:   2024-09-05
 tags: [OLED,STM32F103C8T6,原理图,屏幕,显示]
 comments: true

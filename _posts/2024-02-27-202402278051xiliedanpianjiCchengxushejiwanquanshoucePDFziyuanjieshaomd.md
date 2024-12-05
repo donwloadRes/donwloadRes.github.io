@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8051系列单片机C程序设计完全手册》PDF 资源介绍"
+title: "8051系列单片机C程序设计完全手册PDF 资源介绍"
 date:   2022-06-19
 tags: [单片机,编程,C语言,8051,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WeifenLuo.WinFormsUI.Docking.dll 资源说明"
+title: "WeifenLuoWinFormsUIDockingdll 资源说明"
 date:   2020-06-28
 tags: [WeifenLuo,WinFormsUI,Docking,dll,停靠]
 comments: true

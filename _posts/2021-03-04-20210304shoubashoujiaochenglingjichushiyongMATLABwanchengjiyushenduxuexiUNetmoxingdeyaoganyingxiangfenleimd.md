@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教程：零基础使用MATLAB完成基于深度学习U-Net模型的遥感影像分类"
+title: "手把手教程零基础使用MATLAB完成基于深度学习UNet模型的遥感影像分类"
 date:   2021-02-20
 tags: [MATLAB,操作手册,模型,代码,学习]
 comments: true

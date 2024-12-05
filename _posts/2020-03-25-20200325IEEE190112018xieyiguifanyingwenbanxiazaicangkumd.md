@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1901.1-2018 协议规范(英文版) 下载仓库"
+title: "IEEE 190112018 协议规范英文版 下载仓库"
 date:   2021-03-05
 tags: [2018,协议,英文版,IEEE,1901.1]
 comments: true

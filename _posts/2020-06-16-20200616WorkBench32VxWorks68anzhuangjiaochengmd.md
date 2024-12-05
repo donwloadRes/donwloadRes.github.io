@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WorkBench3.2 + VxWorks6.8安装教程"
+title: "WorkBench32  VxWorks68安装教程"
 date:   2023-02-25
 tags: [安装,虚拟机,WorkBench3.2,VxWorks,教程]
 comments: true

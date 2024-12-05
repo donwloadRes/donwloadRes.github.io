@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RGMII2.0 标准资源文件下载"
+title: "RGMII20 标准资源文件下载"
 date:   2023-07-06
 tags: [RGMII2.0,文件,千兆,以太网,标准]
 comments: true

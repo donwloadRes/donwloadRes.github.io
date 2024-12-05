@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代密码学(杨波) 资源下载"
+title: "现代密码学杨波 资源下载"
 date:   2024-03-13
 tags: [密码学,杨波,资源,现代,文件]
 comments: true

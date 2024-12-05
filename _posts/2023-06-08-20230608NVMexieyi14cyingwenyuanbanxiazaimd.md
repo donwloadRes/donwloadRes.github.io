@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVMe协议1.4c英文原版下载"
+title: "NVMe协议14c英文原版下载"
 date:   2024-10-16
 tags: [NVMe,协议,英文原版,1.4,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS-B 1090MHz ES标准中文版"
+title: "ADSB 1090MHz ES标准中文版"
 date:   2022-02-17
 tags: [ADS,1090MHz,ES,标准,中文版]
 comments: true

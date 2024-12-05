@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSE与Server-Sent Events实现页面流式数据输出及模拟ChatGPT流式输出"
+title: "SSE与ServerSent Events实现页面流式数据输出及模拟ChatGPT流式输出"
 date:   2021-01-21
 tags: [流式,SSE,输出,ChatGPT,页面]
 comments: true

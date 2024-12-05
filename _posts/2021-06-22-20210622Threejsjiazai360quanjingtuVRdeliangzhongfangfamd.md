@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js加载360全景图（VR）的两种方法"
+title: "Threejs加载360全景图VR的两种方法"
 date:   2021-08-19
 tags: [加载,立方体,贴图,Three,js]
 comments: true

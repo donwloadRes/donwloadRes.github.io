@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL+PHP 数据库大作业：世界杯比赛系统"
+title: "MySQLPHP 数据库大作业世界杯比赛系统"
 date:   2024-05-04
 tags: [用户,数据库,增删,PHP,功能]
 comments: true

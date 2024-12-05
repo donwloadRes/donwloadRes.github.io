@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSMA-CA 和 CSMA-CD MATLAB 仿真源代码"
+title: "CSMACA 和 CSMACD MATLAB 仿真源代码"
 date:   2023-11-15
 tags: [仿真,CSMA,MATLAB,源代码,csma]
 comments: true

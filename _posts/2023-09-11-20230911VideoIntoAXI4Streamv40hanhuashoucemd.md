@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video In to AXI4-Stream v4.0 汉化手册"
+title: "Video In to AXI4Stream v40 汉化手册"
 date:   2021-06-30
 tags: [AXI4,Stream,Video,手册,接口]
 comments: true

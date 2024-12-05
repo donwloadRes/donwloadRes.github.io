@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代数字信号处理 - 张贤达著"
+title: "现代数字信号处理  张贤达著"
 date:   2021-12-16
 tags: [信号处理,数字,本书,读者,贤达]
 comments: true

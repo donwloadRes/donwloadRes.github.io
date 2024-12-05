@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视SDK调用示例：登录+输出视频+截图（C# + VS2019）"
+title: "海康威视SDK调用示例登录输出视频截图C  VS2019"
 date:   2023-05-13
 tags: [威视,海康,摄像头,SDK,截图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode安装包（含C-C++环境配置文件）"
+title: "VScode安装包含CC环境配置文件"
 date:   2024-11-13
 tags: [VScode,C++,安装包,安装,环境]
 comments: true

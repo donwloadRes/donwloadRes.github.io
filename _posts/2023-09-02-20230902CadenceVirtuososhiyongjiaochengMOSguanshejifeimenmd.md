@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Virtuoso 使用教程：MOS管设计非门"
+title: "Cadence Virtuoso 使用教程MOS管设计非门"
 date:   2020-06-14
 tags: [Cadence,Virtuoso,仿真,MOS,设计]
 comments: true

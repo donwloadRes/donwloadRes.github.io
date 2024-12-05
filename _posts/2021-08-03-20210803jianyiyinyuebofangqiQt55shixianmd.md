@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易音乐播放器 - Qt5.5 实现"
+title: "简易音乐播放器  Qt55 实现"
 date:   2020-05-28
 tags: [音乐,播放,Qt5.5,播放器,文件]
 comments: true

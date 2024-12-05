@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDA实验-数码管显示电路的设计"
+title: "EDA实验数码管显示电路的设计"
 date:   2022-03-02
 tags: [数码管,实验,电路,EDA,仿真]
 comments: true

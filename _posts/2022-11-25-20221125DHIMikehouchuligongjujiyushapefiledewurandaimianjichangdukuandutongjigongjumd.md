@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DHI Mike后处理工具——基于shapefile的污染带面积、长度、宽度统计工具"
+title: "DHI Mike后处理工具基于shapefile的污染带面积长度宽度统计工具"
 date:   2023-10-19
 tags: [shapefile,工具,Linux,统计,DHI]
 comments: true

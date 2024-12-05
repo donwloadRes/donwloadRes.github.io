@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KNX协议栈开发板资料（stm32）"
+title: "KNX协议栈开发板资料stm32"
 date:   2020-10-19
 tags: [KNX,开发板,调试,固件,协议]
 comments: true

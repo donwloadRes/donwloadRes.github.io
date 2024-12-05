@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK_API_1.6.0 中文版下载与使用指南"
+title: "JDKAPI160 中文版下载与使用指南"
 date:   2021-05-23
 tags: [API,1.6,中文版,JDK,文档]
 comments: true

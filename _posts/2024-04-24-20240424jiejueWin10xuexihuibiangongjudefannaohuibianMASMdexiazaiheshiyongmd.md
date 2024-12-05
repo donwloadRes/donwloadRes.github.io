@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10学习汇编工具的烦恼——汇编MASM的下载和使用"
+title: "解决Win10学习汇编工具的烦恼汇编MASM的下载和使用"
 date:   2024-08-18
 tags: [MASM,链接,下载,编译,汇编]
 comments: true

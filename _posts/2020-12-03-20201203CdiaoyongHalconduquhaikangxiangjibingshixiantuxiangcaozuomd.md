@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用Halcon读取海康相机并实现图像操作"
+title: "C调用Halcon读取海康相机并实现图像操作"
 date:   2023-03-21
 tags: [Halcon,C#,图像,相机,海康]
 comments: true

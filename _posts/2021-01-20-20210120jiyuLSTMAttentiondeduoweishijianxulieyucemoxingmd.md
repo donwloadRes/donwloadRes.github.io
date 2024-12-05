@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LSTM-Attention的多维时间序列预测模型"
+title: "基于LSTMAttention的多维时间序列预测模型"
 date:   2024-08-30
 tags: [模型,多维,序列,LSTM,Attention]
 comments: true

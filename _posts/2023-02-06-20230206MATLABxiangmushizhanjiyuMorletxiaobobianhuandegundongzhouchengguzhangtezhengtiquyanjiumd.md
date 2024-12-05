@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【MATLAB项目实战】基于Morlet小波变换的滚动轴承故障特征提取研究"
+title: "MATLAB项目实战基于Morlet小波变换的滚动轴承故障特征提取研究"
 date:   2023-03-29
 tags: [MATLAB,滚动轴承,Morlet,小波,变换]
 comments: true

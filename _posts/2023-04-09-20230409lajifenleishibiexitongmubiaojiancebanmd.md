@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "垃圾分类识别系统（目标检测版）"
+title: "垃圾分类识别系统目标检测版"
 date:   2024-03-22
 tags: [垃圾,模型,训练,部署,分类]
 comments: true

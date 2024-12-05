@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opencv_createsamples.exe 如何下载"
+title: "opencvcreatesamplesexe 如何下载"
 date:   2020-12-13
 tags: [OpenCV,编译,下载,opencv,createsamples]
 comments: true

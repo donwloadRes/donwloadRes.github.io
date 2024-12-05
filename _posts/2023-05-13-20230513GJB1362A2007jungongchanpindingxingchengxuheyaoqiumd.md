@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 1362A-2007 军工产品定型程序和要求"
+title: "GJB 1362A2007 军工产品定型程序和要求"
 date:   2020-06-05
 tags: [定型,军工,文件,产品设计,程序]
 comments: true

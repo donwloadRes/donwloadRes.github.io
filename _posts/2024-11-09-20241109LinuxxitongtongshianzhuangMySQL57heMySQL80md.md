@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统同时安装MySQL5.7和MySQL8.0"
+title: "Linux系统同时安装MySQL57和MySQL80"
 date:   2022-12-04
 tags: [MySQL,Linux,8.0,版本,5.7]
 comments: true

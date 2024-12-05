@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 设备驱动程序（第3版）读书笔记下载"
+title: "Linux 设备驱动程序第3版读书笔记下载"
 date:   2024-08-13
 tags: [Linux,驱动程序,读书笔记,驱动,设备]
 comments: true

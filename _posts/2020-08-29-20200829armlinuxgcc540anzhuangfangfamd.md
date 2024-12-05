@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "arm-linux-gcc-5.4.0 安装方法"
+title: "armlinuxgcc540 安装方法"
 date:   2020-01-19
 tags: [arm,linux,gcc,5.4,bash]
 comments: true

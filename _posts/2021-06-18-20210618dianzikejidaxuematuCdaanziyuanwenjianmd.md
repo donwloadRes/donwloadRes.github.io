@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学码图C++答案资源文件"
+title: "电子科技大学码图C答案资源文件"
 date:   2024-09-15
 tags: [码图,C++,电子科技,文件,答案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现左侧菜单效果"
+title: "C实现左侧菜单效果"
 date:   2024-05-11
 tags: [菜单,C#,左侧,效果,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗串口2.1通信协议资源文件"
+title: "北斗串口21通信协议资源文件"
 date:   2022-08-18
 tags: [北斗,文件,通信协议,导航系统,卫星]
 comments: true

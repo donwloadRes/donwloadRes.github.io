@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Max2Babylon(3DMax转GFTL)-1.4.2 插件介绍"
+title: "Max2Babylon3DMax转GFTL142 插件介绍"
 date:   2021-01-07
 tags: [插件,3Dmax,GLTF,导出,Max2Babylon]
 comments: true

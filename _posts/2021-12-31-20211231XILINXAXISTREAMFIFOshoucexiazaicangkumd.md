@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XILINX AXI-STREAM-FIFO 手册下载仓库"
+title: "XILINX AXISTREAMFIFO 手册下载仓库"
 date:   2022-03-10
 tags: [STREAM,FIFO,AXI,手册,XILINX]
 comments: true

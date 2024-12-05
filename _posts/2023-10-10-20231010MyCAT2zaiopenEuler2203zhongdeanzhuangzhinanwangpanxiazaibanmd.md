@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyCAT2 在 openEuler 22.03 中的安装指南（网盘下载版）"
+title: "MyCAT2 在 openEuler 2203 中的安装指南网盘下载版"
 date:   2020-04-04
 tags: [MyCAT2,MyCAT,JDK,安装,网盘]
 comments: true

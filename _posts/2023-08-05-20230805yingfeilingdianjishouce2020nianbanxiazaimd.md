@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英飞凌电机手册（2020年版）下载"
+title: "英飞凌电机手册2020年版下载"
 date:   2020-04-17
 tags: [电机,英飞凌,2020,手册,年版]
 comments: true

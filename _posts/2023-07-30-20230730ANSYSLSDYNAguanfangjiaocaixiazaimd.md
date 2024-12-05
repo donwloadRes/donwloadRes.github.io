@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS LS-DYNA官方教材下载"
+title: "ANSYS LSDYNA官方教材下载"
 date:   2022-11-09
 tags: [DYNA,LS,教材,ANSYS,PDF]
 comments: true

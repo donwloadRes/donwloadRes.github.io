@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome浏览器插件axure-chrome-extension"
+title: "Chrome浏览器插件axurechromeextension"
 date:   2024-12-04
 tags: [插件,Chrome,浏览器,chrome,axure]
 comments: true

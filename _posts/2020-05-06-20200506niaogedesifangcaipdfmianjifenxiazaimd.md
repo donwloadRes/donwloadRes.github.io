@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥的私房菜.pdf 免积分下载"
+title: "鸟哥的私房菜pdf 免积分下载"
 date:   2024-01-01
 tags: [鸟哥,pdf,私房,Linux,下载]
 comments: true

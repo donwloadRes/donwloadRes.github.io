@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinServer2019 安装 .NET Framework 3.5 所需 sxs 文件资源"
+title: "WinServer2019 安装 NET Framework 35 所需 sxs 文件资源"
 date:   2021-12-12
 tags: [sxs,NET,Framework,3.5,文件]
 comments: true

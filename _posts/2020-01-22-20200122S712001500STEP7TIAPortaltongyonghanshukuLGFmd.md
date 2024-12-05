@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200-1500 STEP 7 (TIA Portal) 通用函数库（LGF）"
+title: "S712001500 STEP 7 TIA Portal 通用函数库LGF"
 date:   2021-10-29
 tags: [函数库,S7,TIA,Portal,1200]
 comments: true

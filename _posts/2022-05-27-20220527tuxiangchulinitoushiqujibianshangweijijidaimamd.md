@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像处理逆透视、去畸变上位机及代码"
+title: "图像处理逆透视去畸变上位机及代码"
 date:   2024-11-25
 tags: [透视,开源,畸变,图像处理,协议]
 comments: true

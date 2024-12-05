@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "激光雷达点云数据文件（PCD格式）"
+title: "激光雷达点云数据文件PCD格式"
 date:   2023-06-16
 tags: [点云,激光雷达,数据,PCD,数据文件]
 comments: true

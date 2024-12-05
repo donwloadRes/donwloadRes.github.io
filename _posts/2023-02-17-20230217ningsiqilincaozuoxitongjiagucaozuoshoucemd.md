@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凝思&麒麟操作系统加固操作手册"
+title: "凝思麒麟操作系统加固操作手册"
 date:   2022-07-18
 tags: [操作系统,安全,凝思,麒麟,本手册]
 comments: true

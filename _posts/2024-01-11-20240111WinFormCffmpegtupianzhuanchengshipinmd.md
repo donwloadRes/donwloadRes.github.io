@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm C# ffmpeg 图片转成视频"
+title: "WinForm C ffmpeg 图片转成视频"
 date:   2022-09-29
 tags: [ffmpeg,图片,jpg,示例,视频文件]
 comments: true

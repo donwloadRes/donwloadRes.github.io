@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业自动化+Modbus通讯协议+libmodbus开源库+Windows x64编译教程"
+title: "工业自动化Modbus通讯协议libmodbus开源库Windows x64编译教程"
 date:   2024-05-12
 tags: [编译,教程,libmodbus,Windows,x64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AirServer 7.2.7 Mac 官方原版 完美激活"
+title: "AirServer 727 Mac 官方原版 完美激活"
 date:   2023-11-30
 tags: [AirServer,原版,镜像,7.2,Mac]
 comments: true

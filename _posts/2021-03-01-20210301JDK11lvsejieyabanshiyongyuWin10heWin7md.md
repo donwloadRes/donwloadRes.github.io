@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 11 绿色解压版（适用于 Win10 和 Win7）"
+title: "JDK 11 绿色解压版适用于 Win10 和 Win7"
 date:   2022-05-21
 tags: [解压,JDK,11,Windows,环境变量]
 comments: true

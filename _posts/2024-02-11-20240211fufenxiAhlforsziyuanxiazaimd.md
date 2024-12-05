@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复分析-Ahlfors 资源下载"
+title: "复分析Ahlfors 资源下载"
 date:   2021-01-27
 tags: [复分析,Ahlfors,学习,下载,资源]
 comments: true

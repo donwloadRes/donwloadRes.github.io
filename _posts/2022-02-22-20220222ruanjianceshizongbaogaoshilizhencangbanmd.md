@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件测试总报告-实例(珍藏版)"
+title: "软件测试总报告实例珍藏版"
 date:   2023-05-01
 tags: [测试,软件测试,报告,珍藏版,软件]
 comments: true

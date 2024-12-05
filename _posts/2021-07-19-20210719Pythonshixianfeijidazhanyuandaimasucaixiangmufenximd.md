@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现飞机大战源代码+素材+项目分析"
+title: "Python实现飞机大战源代码素材项目分析"
 date:   2024-02-20
 tags: [游戏,py,飞机,子弹,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言-第三版-王爽著 资源下载"
+title: "汇编语言第三版王爽著 资源下载"
 date:   2024-05-14
 tags: [汇编语言,王爽,第三版,资源,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓全机型卸载预装软件（免Root）v1.01"
+title: "安卓全机型卸载预装软件免Rootv101"
 date:   2024-04-12
 tags: [预装,卸载,Root,软件,安卓全]
 comments: true

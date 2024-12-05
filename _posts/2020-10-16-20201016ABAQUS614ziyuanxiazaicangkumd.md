@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABAQUS 6.14 资源下载仓库"
+title: "ABAQUS 614 资源下载仓库"
 date:   2024-06-05
 tags: [ABAQUS,6.14,下载,链接,仓库]
 comments: true

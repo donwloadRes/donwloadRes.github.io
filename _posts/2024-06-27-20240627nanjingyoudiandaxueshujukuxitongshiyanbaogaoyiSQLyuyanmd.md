@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南京邮电大学数据库系统实验报告一（SQL语言）"
+title: "南京邮电大学数据库系统实验报告一SQL语言"
 date:   2024-06-17
 tags: [SQL,实验报告,实验,数据库系统,邮电大学]
 comments: true

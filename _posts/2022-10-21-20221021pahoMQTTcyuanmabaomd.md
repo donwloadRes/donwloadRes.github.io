@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pahoMQTT.c 源码包"
+title: "pahoMQTTc 源码包"
 date:   2023-11-05
 tags: [源码,MQTT,pahoMQTT,编译,集成]
 comments: true

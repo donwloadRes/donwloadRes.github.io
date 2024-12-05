@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年最新MathType 7.4免费激活教程"
+title: "2024年最新MathType 74免费激活教程"
 date:   2022-06-03
 tags: [MathType,7.4,教程,激活,2024]
 comments: true

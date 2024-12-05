@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR4 X4-X8颗粒 IBIS仿真模型下载"
+title: "DDR4 X4X8颗粒 IBIS仿真模型下载"
 date:   2024-06-19
 tags: [IBIS,DDR4,仿真,模型,X4]
 comments: true

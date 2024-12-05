@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彼岸の花——网上花店网页制作资源文件介绍"
+title: "彼岸花网上花店网页制作资源文件介绍"
 date:   2022-10-02
 tags: [模块,网页,花店,CSS,HTML]
 comments: true

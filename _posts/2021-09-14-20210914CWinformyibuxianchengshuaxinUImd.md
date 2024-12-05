@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform异步线程刷新UI"
+title: "C Winform异步线程刷新UI"
 date:   2020-12-31
 tags: [UI,线程,异步,C#,NET]
 comments: true

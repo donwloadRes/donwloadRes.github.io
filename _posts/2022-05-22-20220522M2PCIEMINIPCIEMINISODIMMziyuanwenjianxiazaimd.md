@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M.2 PCIE MINIPCIE MINISODIMM 资源文件下载"
+title: "M2 PCIE MINIPCIE MINISODIMM 资源文件下载"
 date:   2023-02-02
 tags: [接口,M.2,PCIE,设计,文件]
 comments: true

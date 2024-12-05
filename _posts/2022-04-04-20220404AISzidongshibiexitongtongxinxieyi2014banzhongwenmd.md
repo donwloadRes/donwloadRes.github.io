@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIS自动识别系统通信协议2014版（中文）"
+title: "AIS自动识别系统通信协议2014版中文"
 date:   2023-08-01
 tags: [AIS,通信协议,自动识别,中文,2014]
 comments: true

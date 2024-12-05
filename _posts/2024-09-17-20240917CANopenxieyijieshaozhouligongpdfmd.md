@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANopen协议介绍 - 周立功.pdf"
+title: "CANopen协议介绍  周立功pdf"
 date:   2024-08-14
 tags: [CANopen,协议,pdf,立功,文档]
 comments: true

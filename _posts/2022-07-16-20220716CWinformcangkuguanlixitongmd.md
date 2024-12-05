@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform仓库管理系统"
+title: "C Winform仓库管理系统"
 date:   2021-08-16
 tags: [仓库,库存,C#,出库,管理]
 comments: true

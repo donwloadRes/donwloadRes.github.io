@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mscomctl.ocx 64位&32位 官方版通用版"
+title: "mscomctlocx 64位32位 官方版通用版"
 date:   2023-05-19
 tags: [mscomctl,32,文件,ocx,64]
 comments: true

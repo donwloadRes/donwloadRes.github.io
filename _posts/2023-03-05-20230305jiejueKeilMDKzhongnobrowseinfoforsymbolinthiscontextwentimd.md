@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Keil MDK中“no browse info for symbol in this context”问题"
+title: "解决Keil MDK中no browse info for symbol in this context问题"
 date:   2021-01-21
 tags: [Keil,函数,定义,浏览,跳转]
 comments: true

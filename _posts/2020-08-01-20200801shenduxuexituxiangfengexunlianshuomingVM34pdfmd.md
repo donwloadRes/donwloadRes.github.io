@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习图像分割训练说明-VM3.4.pdf"
+title: "深度学习图像分割训练说明VM34pdf"
 date:   2021-09-04
 tags: [图像,分割,学习,VisionMaster,3.4]
 comments: true

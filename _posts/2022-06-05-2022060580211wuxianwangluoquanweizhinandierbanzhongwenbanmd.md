@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11无线网络权威指南第二版中文版"
+title: "80211无线网络权威指南第二版中文版"
 date:   2023-05-21
 tags: [802.11,无线网络,WiFi,中文版,指南]
 comments: true

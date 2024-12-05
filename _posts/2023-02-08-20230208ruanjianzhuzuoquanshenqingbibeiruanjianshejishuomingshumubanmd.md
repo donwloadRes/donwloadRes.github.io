@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件著作权申请必备：软件设计说明书模板"
+title: "软件著作权申请必备软件设计说明书模板"
 date:   2020-06-01
 tags: [软件,模板,著作权,设计,申请]
 comments: true

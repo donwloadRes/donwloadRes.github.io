@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太原理工大学大数据实验》资源下载"
+title: "太原理工大学大数据实验资源下载"
 date:   2022-01-30
 tags: [实验,数据,理工大学,资源,课程]
 comments: true

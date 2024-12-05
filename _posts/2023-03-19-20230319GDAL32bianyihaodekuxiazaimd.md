@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDAL3.2编译好的库下载"
+title: "GDAL32编译好的库下载"
 date:   2024-11-27
 tags: [编译,GDAL3.2,GDAL,下载,仓库]
 comments: true

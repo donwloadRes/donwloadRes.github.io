@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 GDAL 和 Fiona 库安装包"
+title: "Python 38 GDAL 和 Fiona 库安装包"
 date:   2020-05-27
 tags: [whl,pip,GDAL,Fiona,geopandas]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MagicBookPro-2019-Intel版BIOS降级教程"
+title: "MagicBookPro2019Intel版BIOS降级教程"
 date:   2020-03-16
 tags: [BIOS,降级,版本,教程,自动更新]
 comments: true

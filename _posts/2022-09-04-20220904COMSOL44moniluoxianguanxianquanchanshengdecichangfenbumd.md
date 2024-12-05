@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL 4.4 模拟螺线管线圈产生的磁场分布"
+title: "COMSOL 44 模拟螺线管线圈产生的磁场分布"
 date:   2023-09-28
 tags: [模拟,COMSOL,螺线管,磁场,4.4]
 comments: true

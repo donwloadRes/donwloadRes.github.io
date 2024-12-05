@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Net编程实战——CT影像的肿瘤分割"
+title: "UNet编程实战CT影像的肿瘤分割"
 date:   2020-08-30
 tags: [网络,Net,CT,影像,预处理]
 comments: true

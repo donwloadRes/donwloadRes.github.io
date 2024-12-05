@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "everest软件下载 v5.50.2230 中文版"
+title: "everest软件下载 v5502230 中文版"
 date:   2021-06-08
 tags: [everest,软件,测试,硬件,v5.50]
 comments: true

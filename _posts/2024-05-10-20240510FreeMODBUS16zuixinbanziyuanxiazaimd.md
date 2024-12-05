@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeMODBUS 1.6 最新版资源下载"
+title: "FreeMODBUS 16 最新版资源下载"
 date:   2023-12-23
 tags: [FreeMODBUS,Modbus,1.6,下载,嵌入式]
 comments: true

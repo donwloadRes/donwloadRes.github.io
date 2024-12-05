@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 + TypeScript + Vue Router + Pinia + ElementPlus + TS 环境模板搭建及Vite打包优化"
+title: "Vue3  TypeScript  Vue Router  Pinia  ElementPlus  TS 环境模板搭建及Vite打包优化"
 date:   2021-02-18
 tags: [Vue3,TypeScript,Vite,Vue,开发]
 comments: true

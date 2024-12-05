@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10下安装ISE14.7完整指南"
+title: "Win10下安装ISE147完整指南"
 date:   2021-01-21
 tags: [Win10,安装,ISE,14.7,下载]
 comments: true

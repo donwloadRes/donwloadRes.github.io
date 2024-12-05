@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蒋宗礼形式语言与自动机》课后答案"
+title: "蒋宗礼形式语言与自动机课后答案"
 date:   2023-07-29
 tags: [形式语言,自动机,答案,课后,蒋宗礼]
 comments: true

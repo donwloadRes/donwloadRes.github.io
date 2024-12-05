@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pkg-config Windows版本下载"
+title: "pkgconfig Windows版本下载"
 date:   2020-03-03
 tags: [pkg,Windows,config,C++,Rust]
 comments: true

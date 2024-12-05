@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理 - LL(1)分析法：C-C++实现"
+title: "编译原理  LL1分析法CC实现"
 date:   2022-05-26
 tags: [LL,分析法,文法,终结符,分析]
 comments: true

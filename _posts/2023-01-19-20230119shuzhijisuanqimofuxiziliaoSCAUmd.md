@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值计算期末复习资料（SCAU）"
+title: "数值计算期末复习资料SCAU"
 date:   2022-01-25
 tags: [复习,SCAU,作业题,知识点,期末]
 comments: true

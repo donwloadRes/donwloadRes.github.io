@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC Linaro 6.3.1 交叉编译器资源下载"
+title: "GCC Linaro 631 交叉编译器资源下载"
 date:   2024-02-12
 tags: [aarch64,x86,64,编译器,6.3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 GRBL 脱机代码 - 带屏幕控制"
+title: "STM32F103 GRBL 脱机代码  带屏幕控制"
 date:   2020-03-11
 tags: [屏幕,脱机,硬件,代码,设备]
 comments: true

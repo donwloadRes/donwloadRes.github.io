@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StarUML 6.01 版本资源下载说明"
+title: "StarUML 601 版本资源下载说明"
 date:   2024-11-26
 tags: [StarUML,文件,版本,资源,6.01]
 comments: true

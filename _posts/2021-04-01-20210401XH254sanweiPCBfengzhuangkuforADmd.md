@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XH2.54三维PCB封装库 for AD"
+title: "XH254三维PCB封装库 for AD"
 date:   2024-04-29
 tags: [封装,XH2.54,PCB,三维,AD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "腾讯云从业认证题库11月最新题库（原题）"
+title: "腾讯云从业认证题库11月最新题库原题"
 date:   2023-07-23
 tags: [腾讯,认证,运维,题库,架构]
 comments: true

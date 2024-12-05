@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARMCompiler 5.06 for MDK - 必备编译工具"
+title: "ARMCompiler 506 for MDK  必备编译工具"
 date:   2020-03-12
 tags: [编译器,ARMCompiler,MDK,ARM,Windows]
 comments: true

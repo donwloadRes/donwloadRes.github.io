@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMNET++教程中文资源下载"
+title: "OMNET教程中文资源下载"
 date:   2024-07-04
 tags: [OMNET,++,教程,仿真,下载]
 comments: true

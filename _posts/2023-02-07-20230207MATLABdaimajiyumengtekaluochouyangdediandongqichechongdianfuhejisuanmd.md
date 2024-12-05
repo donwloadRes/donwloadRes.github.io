@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于蒙特卡洛抽样的电动汽车充电负荷计算"
+title: "MATLAB代码基于蒙特卡洛抽样的电动汽车充电负荷计算"
 date:   2020-01-09
 tags: [代码,蒙特卡洛,电动汽车,负荷,抽样]
 comments: true

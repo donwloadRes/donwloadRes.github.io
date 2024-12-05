@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cocos Creator搞心态小游戏-闯关类 项目展示+完整项目源码"
+title: "Cocos Creator搞心态小游戏闯关类 项目展示完整项目源码"
 date:   2024-05-20
 tags: [项目,游戏,Cocos,Creator,解压]
 comments: true

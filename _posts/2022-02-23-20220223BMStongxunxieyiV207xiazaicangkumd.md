@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS通讯协议V2.07 下载仓库"
+title: "BMS通讯协议V207 下载仓库"
 date:   2022-09-04
 tags: [V2.07,BMS,协议,通讯,下载]
 comments: true

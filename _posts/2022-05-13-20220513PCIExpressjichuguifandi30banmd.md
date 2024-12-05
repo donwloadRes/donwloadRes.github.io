@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express® 基础规范 第3.0版"
+title: "PCI Express 基础规范 第30版"
 date:   2020-04-30
 tags: [PCI,Express,3.0,技术,文档]
 comments: true

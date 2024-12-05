@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu：Arduino IDE 开发环境配置【保姆级】"
+title: "UbuntuArduino IDE 开发环境配置保姆级"
 date:   2020-04-02
 tags: [Arduino,IDE,开发板,安装,示例]
 comments: true

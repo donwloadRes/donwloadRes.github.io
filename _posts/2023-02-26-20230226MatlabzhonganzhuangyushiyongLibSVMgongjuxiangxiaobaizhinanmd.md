@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab中安装与使用LibSVM工具箱（小白指南）"
+title: "Matlab中安装与使用LibSVM工具箱小白指南"
 date:   2023-05-11
 tags: [Matlab,LibSVM,工具箱,heart,scale]
 comments: true

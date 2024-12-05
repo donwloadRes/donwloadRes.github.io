@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 25.0.0.230 最新2024版本安装与激活指南"
+title: "CorelDRAW 2500230 最新2024版本安装与激活指南"
 date:   2020-07-24
 tags: [CorelDRAW,安装,软件,2024,版本]
 comments: true

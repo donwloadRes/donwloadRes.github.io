@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10下MDK5（Keil5）及STM32pack的安装教程"
+title: "Windows10下MDK5Keil5及STM32pack的安装教程"
 date:   2020-12-19
 tags: [安装,STM32pack,MDK5,教程,软件]
 comments: true

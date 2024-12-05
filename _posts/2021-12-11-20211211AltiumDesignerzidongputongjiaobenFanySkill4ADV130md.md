@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 自动铺铜脚本 FanySkill4AD_V1.3.0"
+title: "Altium Designer 自动铺铜脚本 FanySkill4ADV130"
 date:   2023-11-07
 tags: [脚本,Altium,Designer,FanySkill4AD,V1.3]
 comments: true

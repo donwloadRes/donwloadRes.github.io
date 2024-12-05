@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 软件自动更新模块 Updater 源码"
+title: "VC 软件自动更新模块 Updater 源码"
 date:   2023-07-18
 tags: [自动更新,Updater,主程序,exe,模块]
 comments: true

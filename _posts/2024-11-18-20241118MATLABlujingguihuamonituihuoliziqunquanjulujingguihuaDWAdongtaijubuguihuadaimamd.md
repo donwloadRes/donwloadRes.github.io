@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB路径规划：模拟退火-粒子群全局路径规划+DWA动态局部规划代码"
+title: "MATLAB路径规划模拟退火粒子群全局路径规划DWA动态局部规划代码"
 date:   2022-04-10
 tags: [路径,规划,MATLAB,模拟退火,DWA]
 comments: true

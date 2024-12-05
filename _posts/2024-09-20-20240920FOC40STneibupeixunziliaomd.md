@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOC4.0 ST 内部培训资料"
+title: "FOC40 ST 内部培训资料"
 date:   2022-12-27
 tags: [电机,ST,STM32,FOC4.0,培训资料]
 comments: true

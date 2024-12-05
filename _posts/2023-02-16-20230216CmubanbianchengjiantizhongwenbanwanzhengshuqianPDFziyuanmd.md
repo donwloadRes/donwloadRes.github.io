@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 模板编程（简体中文版）—— 完整书签PDF资源"
+title: "C 模板编程简体中文版 完整书签PDF资源"
 date:   2023-05-04
 tags: [模板,C++,编程,PDF,书签]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理2021-直接相联Cache设计作业1"
+title: "计算机组成原理2021直接相联Cache设计作业1"
 date:   2023-01-01
 tags: [Cache,相联,实验,设计,直接]
 comments: true

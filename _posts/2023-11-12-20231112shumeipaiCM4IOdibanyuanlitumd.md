@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派CM4-IO 底板原理图"
+title: "树莓派CM4IO 底板原理图"
 date:   2021-07-20
 tags: [原理图,树莓,CM4,IO,底板]
 comments: true

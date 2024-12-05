@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel微处理器（第8版）中英文PDF资源下载"
+title: "Intel微处理器第8版中英文PDF资源下载"
 date:   2023-11-25
 tags: [Intel,PDF,中文版,微处理器,英文版]
 comments: true

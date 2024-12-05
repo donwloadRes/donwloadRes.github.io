@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMULINK模块介绍——详尽指南"
+title: "SIMULINK模块介绍详尽指南"
 date:   2022-04-22
 tags: [SIMULINK,模块,学习,PPT,详尽]
 comments: true

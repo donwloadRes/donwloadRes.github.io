@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为FusionSphere 虚拟化 6.5.1 安装包下载"
+title: "华为FusionSphere 虚拟化 651 安装包下载"
 date:   2020-08-29
 tags: [安装,安装包,文档,光盘,FusionSphere]
 comments: true

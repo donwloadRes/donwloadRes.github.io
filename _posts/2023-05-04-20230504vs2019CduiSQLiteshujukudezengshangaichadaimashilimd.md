@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vs2019 C# 对SQLite数据库的增删改查代码实例"
+title: "vs2019 C 对SQLite数据库的增删改查代码实例"
 date:   2020-08-28
 tags: [SQLite,数据库,实例,C#,代码]
 comments: true

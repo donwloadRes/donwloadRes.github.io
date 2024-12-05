@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微E9表结构及开发环境搭建指南（IDEA篇）"
+title: "泛微E9表结构及开发环境搭建指南IDEA篇"
 date:   2020-08-08
 tags: [E9,泛微,IDEA,开发,搭建]
 comments: true

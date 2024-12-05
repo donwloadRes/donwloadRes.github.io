@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Newbeecoder.UI开源控件库"
+title: "NewbeecoderUI开源控件库"
 date:   2023-02-22
 tags: [控件,UI,Newbeecoder,开源,WPF]
 comments: true

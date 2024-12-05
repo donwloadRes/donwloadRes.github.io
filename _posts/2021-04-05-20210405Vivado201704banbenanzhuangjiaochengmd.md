@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2017.04版本安装教程"
+title: "Vivado 201704版本安装教程"
 date:   2022-01-21
 tags: [安装,Vivado,教程,2017.04,版本]
 comments: true

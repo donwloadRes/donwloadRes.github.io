@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标优化算法NSGAⅢ MATLAB代码及注释"
+title: "多目标优化算法NSGA MATLAB代码及注释"
 date:   2023-01-05
 tags: [优化,NSGA,III,目标,算法]
 comments: true

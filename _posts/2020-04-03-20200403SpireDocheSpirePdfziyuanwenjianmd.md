@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spire.Doc 和 Spire.Pdf 资源文件"
+title: "SpireDoc 和 SpirePdf 资源文件"
 date:   2022-06-28
 tags: [Spire,Doc,文件,Pdf,dll]
 comments: true

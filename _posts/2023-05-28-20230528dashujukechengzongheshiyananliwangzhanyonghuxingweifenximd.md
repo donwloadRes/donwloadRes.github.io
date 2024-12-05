@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据课程综合实验案例：网站用户行为分析"
+title: "大数据课程综合实验案例网站用户行为分析"
 date:   2021-08-10
 tags: [Hive,数据,HBase,MySQL,案例]
 comments: true

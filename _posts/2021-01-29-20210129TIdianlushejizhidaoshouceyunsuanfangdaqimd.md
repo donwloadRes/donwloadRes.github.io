@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI电路设计指导手册：运算放大器"
+title: "TI电路设计指导手册运算放大器"
 date:   2020-06-16
 tags: [放大器,电路设计,手册,TI,运算]
 comments: true

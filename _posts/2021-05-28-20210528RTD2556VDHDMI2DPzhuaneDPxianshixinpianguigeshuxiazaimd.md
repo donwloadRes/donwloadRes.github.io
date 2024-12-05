@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2556VD HDMI+2DP转eDP显示芯片规格书下载"
+title: "RTD2556VD HDMI2DP转eDP显示芯片规格书下载"
 date:   2020-04-29
 tags: [规格书,RTD2556VD,eDP,芯片,HDMI]
 comments: true

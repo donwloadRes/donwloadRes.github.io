@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notion 3.1.0 中文汉化教程资源文件"
+title: "Notion 310 中文汉化教程资源文件"
 date:   2020-07-12
 tags: [汉化,Notion,教程,文件,界面]
 comments: true

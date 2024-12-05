@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫教程系列：从0到1全面掌握"
+title: "Python爬虫教程系列从0到1全面掌握"
 date:   2020-09-17
 tags: [爬虫,Python,教程,数据,加密]
 comments: true

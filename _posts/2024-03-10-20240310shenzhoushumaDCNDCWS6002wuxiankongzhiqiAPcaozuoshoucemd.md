@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神州数码DCN DCWS-6002无线控制器AP操作手册"
+title: "神州数码DCN DCWS6002无线控制器AP操作手册"
 date:   2021-11-30
 tags: [6002,无线,DCWS,无线网络,神州数码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 程序设计（第5版）（上、下册）--详细书签版"
+title: "Windows 程序设计第5版上下册详细书签版"
 date:   2023-08-21
 tags: [Windows,程序设计,Microsoft,Petzold,windows]
 comments: true

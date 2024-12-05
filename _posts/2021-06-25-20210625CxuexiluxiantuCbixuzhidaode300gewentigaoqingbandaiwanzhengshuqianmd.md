@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#学习路线图：C#必须知道的300个问题 高清版[带完整书签]"
+title: "C学习路线图C必须知道的300个问题 高清版带完整书签"
 date:   2022-05-16
 tags: [C#,Windows,应用程序,讲解,编程]
 comments: true

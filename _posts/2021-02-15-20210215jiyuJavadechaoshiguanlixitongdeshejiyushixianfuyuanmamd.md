@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的超市管理系统的设计与实现【附源码】"
+title: "基于Java的超市管理系统的设计与实现附源码"
 date:   2023-01-04
 tags: [Java,超市,源码,库存,系统]
 comments: true

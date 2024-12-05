@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机课程设计教务学生选课管理系统 学生管理系统-java"
+title: "计算机课程设计教务学生选课管理系统 学生管理系统java"
 date:   2021-08-24
 tags: [选课,课程,管理,学生,教务]
 comments: true

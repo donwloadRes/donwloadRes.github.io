@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIFAR-10数据集详析与卷积神经网络实践"
+title: "CIFAR10数据集详析与卷积神经网络实践"
 date:   2021-08-04
 tags: [10,CIFAR,000,卷积,训练]
 comments: true

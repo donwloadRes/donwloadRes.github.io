@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资源介绍：资料汇总-张大头42步进"
+title: "资源介绍资料汇总张大头42步进"
 date:   2020-04-07
 tags: [42,步进,张大,学习,汇总]
 comments: true

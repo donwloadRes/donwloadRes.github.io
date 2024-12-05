@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scum如何自动弹奏（所有乐器通用）2024年通用"
+title: "Scum如何自动弹奏所有乐器通用2024年通用"
 date:   2020-05-28
 tags: [游戏,Scum,乐器,弹奏,自动]
 comments: true

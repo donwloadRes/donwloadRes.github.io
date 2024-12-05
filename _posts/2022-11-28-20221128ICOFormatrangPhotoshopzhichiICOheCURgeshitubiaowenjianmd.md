@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICOFormat：让Photoshop支持ICO和CUR格式图标文件"
+title: "ICOFormat让Photoshop支持ICO和CUR格式图标文件"
 date:   2020-02-05
 tags: [Photoshop,ICO,格式,图标,文件]
 comments: true

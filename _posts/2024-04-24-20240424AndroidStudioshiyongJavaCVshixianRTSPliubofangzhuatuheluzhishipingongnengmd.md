@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 使用 JavaCV 实现 RTSP 流播放、抓图和录制视频功能"
+title: "Android Studio 使用 JavaCV 实现 RTSP 流播放抓图和录制视频功能"
 date:   2021-03-05
 tags: [RTSP,录制,Android,播放,Studio]
 comments: true

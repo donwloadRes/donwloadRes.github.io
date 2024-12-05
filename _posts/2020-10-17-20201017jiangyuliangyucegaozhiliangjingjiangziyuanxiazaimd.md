@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "降雨量预测-高质量精讲资源下载"
+title: "降雨量预测高质量精讲资源下载"
 date:   2021-03-04
 tags: [降雨量,预测,精讲,资源,高质量]
 comments: true

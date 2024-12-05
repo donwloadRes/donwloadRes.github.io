@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字逻辑-头歌实训作业-加法器设计（Logisim）"
+title: "数字逻辑头歌实训作业加法器设计Logisim"
 date:   2022-04-05
 tags: [设计,加法器,Logisim,作业,半加器]
 comments: true

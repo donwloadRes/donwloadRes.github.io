@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB_1389A-2005 系统电磁兼容要求"
+title: "GJB1389A2005 系统电磁兼容要求"
 date:   2024-08-08
 tags: [电磁兼容,系统,要求,GJB,1389A]
 comments: true

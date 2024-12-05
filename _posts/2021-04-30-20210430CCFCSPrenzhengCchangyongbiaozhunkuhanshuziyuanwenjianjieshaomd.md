@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF-CSP认证C++常用标准库函数资源文件介绍"
+title: "CCFCSP认证C常用标准库函数资源文件介绍"
 date:   2022-09-01
 tags: [库函数,文件,C++,资源,常用]
 comments: true

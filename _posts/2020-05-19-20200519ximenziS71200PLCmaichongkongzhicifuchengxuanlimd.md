@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200PLC脉冲控制伺服程序案例"
+title: "西门子S71200PLC脉冲控制伺服程序案例"
 date:   2022-07-26
 tags: [程序,伺服电机,步进,文档,TIA]
 comments: true

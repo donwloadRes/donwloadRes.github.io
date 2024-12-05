@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6最小系统板（4层）资源下载"
+title: "STM32F103C8T6最小系统板4层资源下载"
 date:   2022-02-11
 tags: [PCB,串口,原理图,下载,烧录]
 comments: true

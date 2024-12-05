@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 串口字库 - W25QXX 字库文件合集"
+title: "STM32 串口字库  W25QXX 字库文件合集"
 date:   2021-04-13
 tags: [字库,STM32,串口,W25QXX,字库文件]
 comments: true

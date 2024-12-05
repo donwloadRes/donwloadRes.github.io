@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch下的多类别语义分割：Unet模型实践"
+title: "PyTorch下的多类别语义分割Unet模型实践"
 date:   2021-10-04
 tags: [类别,PyTorch,分割,模型,图像]
 comments: true

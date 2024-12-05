@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB开发：ConvertTDMSv10"
+title: "MATLAB开发ConvertTDMSv10"
 date:   2020-07-25
 tags: [MATLAB,TDMS,文件,ConvertTDMSv10,工具]
 comments: true

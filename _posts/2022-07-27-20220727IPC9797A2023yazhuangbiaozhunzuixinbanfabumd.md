@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-9797A-2023 压装标准最新版发布"
+title: "IPC9797A2023 压装标准最新版发布"
 date:   2020-09-19
 tags: [IPC,压装,9797A,2023,标准]
 comments: true

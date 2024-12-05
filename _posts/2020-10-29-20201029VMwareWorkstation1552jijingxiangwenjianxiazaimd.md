@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 15.5.2 及镜像文件下载"
+title: "VMware Workstation 1552 及镜像文件下载"
 date:   2020-06-15
 tags: [镜像文件,VMware,Workstation,15.5,安装文件]
 comments: true

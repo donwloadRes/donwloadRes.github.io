@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC端连接USB设备通信案例（STM32实现USB设备）"
+title: "PC端连接USB设备通信案例STM32实现USB设备"
 date:   2021-10-02
 tags: [USB,PC,STM32,设备,通信]
 comments: true

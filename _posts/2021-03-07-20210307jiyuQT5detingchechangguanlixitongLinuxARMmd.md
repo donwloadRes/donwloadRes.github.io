@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT5的停车场管理系统（Linux ARM）"
+title: "基于QT5的停车场管理系统Linux ARM"
 date:   2021-05-03
 tags: [停车场,QT5,管理系统,项目,车辆]
 comments: true

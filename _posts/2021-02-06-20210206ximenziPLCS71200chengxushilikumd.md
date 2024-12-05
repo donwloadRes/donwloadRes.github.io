@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC S7-1200程序实例库"
+title: "西门子PLC S71200程序实例库"
 date:   2023-05-27
 tags: [PLC,1200,西门子,伺服电机,通讯]
 comments: true

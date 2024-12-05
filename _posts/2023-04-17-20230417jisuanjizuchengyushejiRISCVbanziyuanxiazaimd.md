@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计：RISC-V版资源下载"
+title: "计算机组成与设计RISCV版资源下载"
 date:   2020-06-18
 tags: [RISC,计算机,资源,下载,设计]
 comments: true

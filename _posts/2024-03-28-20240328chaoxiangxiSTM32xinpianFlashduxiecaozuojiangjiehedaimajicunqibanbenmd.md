@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细STM32芯片Flash读写操作讲解和代码（寄存器版本）"
+title: "超详细STM32芯片Flash读写操作讲解和代码寄存器版本"
 date:   2023-08-15
 tags: [Flash,STM32,芯片,读写操作,寄存器]
 comments: true

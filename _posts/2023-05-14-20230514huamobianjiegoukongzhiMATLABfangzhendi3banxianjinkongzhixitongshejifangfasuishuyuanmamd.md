@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "滑模变结构控制MATLAB仿真（第3版）：先进控制系统设计方法》随书源码"
+title: "滑模变结构控制MATLAB仿真第3版先进控制系统设计方法随书源码"
 date:   2023-01-03
 tags: [滑模变,MATLAB,控制系统,控制,设计]
 comments: true

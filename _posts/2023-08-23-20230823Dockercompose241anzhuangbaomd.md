@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker-compose-2.4.1 安装包"
+title: "Dockercompose241 安装包"
 date:   2024-03-06
 tags: [Docker,安装包,compose,2.4,Linux]
 comments: true

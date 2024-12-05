@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高级编程第10版 云盘地址资源介绍"
+title: "C高级编程第10版 云盘地址资源介绍"
 date:   2021-02-14
 tags: [C#,NET,编程,10,Core]
 comments: true

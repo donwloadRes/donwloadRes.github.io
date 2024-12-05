@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openssh升级至8.6版本所需资源包"
+title: "openssh升级至86版本所需资源包"
 date:   2021-02-12
 tags: [openssh,openssl,8.6,安装,OpenSSH]
 comments: true

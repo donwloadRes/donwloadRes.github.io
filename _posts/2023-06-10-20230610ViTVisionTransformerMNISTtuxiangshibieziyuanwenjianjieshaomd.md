@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ViT(Vision Transformer)+MNIST图像识别资源文件介绍"
+title: "ViTVision TransformerMNIST图像识别资源文件介绍"
 date:   2023-04-20
 tags: [训练,Vision,Transformer,MNIST,图像识别]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2017 Enterprise 15.9.28 中文最新完整离线安装版"
+title: "Visual Studio 2017 Enterprise 15928 中文最新完整离线安装版"
 date:   2024-10-28
 tags: [校验,文件,离线,下载,中文]
 comments: true

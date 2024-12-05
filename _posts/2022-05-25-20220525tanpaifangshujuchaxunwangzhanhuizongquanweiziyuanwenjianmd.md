@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "碳排放数据查询网站汇总 - 权威资源文件"
+title: "碳排放数据查询网站汇总  权威资源文件"
 date:   2021-07-05
 tags: [网站,数据,排放,查询,文件]
 comments: true

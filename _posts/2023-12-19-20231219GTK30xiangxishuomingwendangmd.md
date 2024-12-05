@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTK+3.0详细说明文档"
+title: "GTK30详细说明文档"
 date:   2024-08-05
 tags: [GTK,3.0,文档,开发者,详细]
 comments: true

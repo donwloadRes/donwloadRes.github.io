@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G-NR-in-Bullets.pdf 资源下载"
+title: "5GNRinBulletspdf 资源下载"
 date:   2020-07-08
 tags: [5G,NR,Bullets,pdf,倒置]
 comments: true

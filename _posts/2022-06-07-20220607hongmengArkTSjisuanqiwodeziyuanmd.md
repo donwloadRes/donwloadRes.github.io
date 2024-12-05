@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸿蒙 ArkTS 计算器 - 我的资源"
+title: "鸿蒙 ArkTS 计算器  我的资源"
 date:   2022-06-04
 tags: [鸿蒙,ArkTS,开发者,计算器,开发]
 comments: true

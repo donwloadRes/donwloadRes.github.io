@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-UDP端口调试工具 - SocketTool V4.0 绿色版"
+title: "TCPUDP端口调试工具  SocketTool V40 绿色版"
 date:   2020-03-22
 tags: [调试,TCP,UDP,绿色版,工具]
 comments: true

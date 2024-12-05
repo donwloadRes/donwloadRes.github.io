@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOC学习笔记：数学推导与算法实现"
+title: "FOC学习笔记数学推导与算法实现"
 date:   2024-04-19
 tags: [FOC,笔记,磁链,变换,算法]
 comments: true

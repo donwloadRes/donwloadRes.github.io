@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 在线购物商城微信小程序前端和资源源码"
+title: "NET 在线购物商城微信小程序前端和资源源码"
 date:   2022-01-07
 tags: [微信,NET,Visual,Studio,远端]
 comments: true

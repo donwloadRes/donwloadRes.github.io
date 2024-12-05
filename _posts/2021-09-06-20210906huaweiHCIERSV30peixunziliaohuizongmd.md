@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为HCIE-RS V3.0培训资料汇总"
+title: "华为HCIERS V30培训资料汇总"
 date:   2023-04-01
 tags: [HCIE,RS,V3.0,PPT,华为]
 comments: true

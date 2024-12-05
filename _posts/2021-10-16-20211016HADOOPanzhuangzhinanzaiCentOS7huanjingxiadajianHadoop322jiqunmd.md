@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HADOOP安装指南：在CentOS 7环境下搭建Hadoop 3.2.2集群"
+title: "HADOOP安装指南在CentOS 7环境下搭建Hadoop 322集群"
 date:   2020-02-24
 tags: [Hadoop,集群,3.2,sh,site]
 comments: true

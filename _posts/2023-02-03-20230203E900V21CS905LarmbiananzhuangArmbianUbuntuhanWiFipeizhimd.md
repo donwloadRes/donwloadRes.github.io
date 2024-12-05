@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E900V21C(S905L-armbian)安装Armbian Ubuntu (含WiFi配置)"
+title: "E900V21CS905Larmbian安装Armbian Ubuntu 含WiFi配置"
 date:   2024-06-09
 tags: [WiFi,TF,E900V21C,S905L,Armbian]
 comments: true

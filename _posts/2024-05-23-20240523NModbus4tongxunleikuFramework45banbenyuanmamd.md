@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NModbus4 通讯类库（Framework4.5版本）源码"
+title: "NModbus4 通讯类库Framework45版本源码"
 date:   2023-03-09
 tags: [源码,NModbus4,4.5,NET,Framework]
 comments: true

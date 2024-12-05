@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w32 安装包"
+title: "MinGWw32 安装包"
 date:   2023-05-19
 tags: [MinGW,w32,Windows,安装包,编译器]
 comments: true

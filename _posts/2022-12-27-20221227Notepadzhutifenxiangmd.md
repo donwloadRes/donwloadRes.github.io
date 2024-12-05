@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 主题分享"
+title: "Notepad 主题分享"
 date:   2020-05-23
 tags: [Notepad,++,主题,KamiTheme,xml]
 comments: true

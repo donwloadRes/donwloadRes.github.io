@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIA博途S7-1200高低字节或高低字调换方法介绍"
+title: "TIA博途S71200高低字节或高低字调换方法介绍"
 date:   2020-09-27
 tags: [调换,TIA,博途,低字节,方法]
 comments: true

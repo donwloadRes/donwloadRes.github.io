@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为认证HCIA-HCIP讲课笔记下载"
+title: "华为认证HCIAHCIP讲课笔记下载"
 date:   2022-08-23
 tags: [HCIA,HCIP,笔记,认证,讲课]
 comments: true

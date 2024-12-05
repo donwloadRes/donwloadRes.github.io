@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILI9341-SPI例程及取模工具"
+title: "ILI9341SPI例程及取模工具"
 date:   2021-10-22
 tags: [SPI,ILI9341,例程,取模,工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装黑群晖DSM6.2.1镜像懒人包DS918xs_23824"
+title: "VMware虚拟机安装黑群晖DSM621镜像懒人包DS918xs23824"
 date:   2024-07-07
 tags: [VMware,磁盘,虚拟机,23824,懒人]
 comments: true

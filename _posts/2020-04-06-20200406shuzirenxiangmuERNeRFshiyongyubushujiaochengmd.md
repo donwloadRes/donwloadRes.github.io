@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字人项目 ER-NeRF 使用与部署教程"
+title: "数字人项目 ERNeRF 使用与部署教程"
 date:   2021-12-23
 tags: [ER,NeRF,视频,数字,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战：抓取东方财富网股票数据并存入MySQL数据库"
+title: "Python爬虫实战抓取东方财富网股票数据并存入MySQL数据库"
 date:   2021-07-03
 tags: [Python,数据库,数据,MySQL,抓取]
 comments: true

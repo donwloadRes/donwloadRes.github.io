@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress Universal Patch Keygen v2.5.0.6 By DFoX 资源下载"
+title: "DevExpress Universal Patch Keygen v2506 By DFoX 资源下载"
 date:   2022-01-01
 tags: [资源,DevExpress,0.6,Patch,Keygen]
 comments: true

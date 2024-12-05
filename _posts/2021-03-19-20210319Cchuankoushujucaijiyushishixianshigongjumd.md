@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口数据采集与实时显示工具"
+title: "C 串口数据采集与实时显示工具"
 date:   2023-11-03
 tags: [串口,采集,数据,实时,工具]
 comments: true

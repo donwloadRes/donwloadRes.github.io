@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIL-STD-1553B开发手册（完整版）简介"
+title: "MILSTD1553B开发手册完整版简介"
 date:   2021-05-12
 tags: [1553B,MIL,STD,完整版,本手册]
 comments: true

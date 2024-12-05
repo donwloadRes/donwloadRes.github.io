@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 2.0 规范手册下载"
+title: "USB 20 规范手册下载"
 date:   2024-11-16
 tags: [USB,2.0,手册,PDF,下载]
 comments: true

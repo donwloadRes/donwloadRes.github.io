@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "曙光天阔I620-C20服务器用户手册V1.0"
+title: "曙光天阔I620C20服务器用户手册V10"
 date:   2020-12-24
 tags: [本手册,服务器,天阔,I620,C20]
 comments: true

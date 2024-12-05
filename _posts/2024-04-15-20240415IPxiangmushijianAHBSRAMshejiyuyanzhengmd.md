@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IP项目实践：AHB-SRAM设计与验证"
+title: "IP项目实践AHBSRAM设计与验证"
 date:   2023-12-22
 tags: [AHB,SRAM,验证,设计,IP]
 comments: true

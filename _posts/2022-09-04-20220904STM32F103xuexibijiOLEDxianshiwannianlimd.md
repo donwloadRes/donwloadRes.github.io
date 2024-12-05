@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记：OLED显示万年历"
+title: "STM32F103学习笔记OLED显示万年历"
 date:   2022-11-22
 tags: [时钟,RTC,STM32F103,OLED,单片机]
 comments: true

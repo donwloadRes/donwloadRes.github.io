@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "扫雷C++实战教程与资源包"
+title: "扫雷C实战教程与资源包"
 date:   2021-07-16
 tags: [C++,游戏,扫雷,教程,源代码]
 comments: true

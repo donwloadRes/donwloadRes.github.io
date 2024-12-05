@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows提示缺少opengl32.dll文件如何解决？"
+title: "Windows提示缺少opengl32dll文件如何解决"
 date:   2023-08-09
 tags: [dll,opengl32,Windows,文件,软件]
 comments: true

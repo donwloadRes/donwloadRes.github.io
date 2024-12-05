@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv7 和 YOLOv8 创新点详解（附：汇报用的PPT）"
+title: "YOLOv7 和 YOLOv8 创新点详解附汇报用的PPT"
 date:   2021-12-03
 tags: [YOLOv7,YOLOv8,PPT,创新,文件]
 comments: true

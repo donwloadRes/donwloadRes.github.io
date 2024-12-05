@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL 3.0.0 预编译二进制开发包"
+title: "OpenSSL 300 预编译二进制开发包"
 date:   2020-03-09
 tags: [编译,OpenSSL,开发包,Visual,Studio]
 comments: true

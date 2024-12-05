@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "字符串排序算法比较（C语言）"
+title: "字符串排序算法比较C语言"
 date:   2024-01-19
 tags: [排序,字符串,指针,数组,C语言]
 comments: true

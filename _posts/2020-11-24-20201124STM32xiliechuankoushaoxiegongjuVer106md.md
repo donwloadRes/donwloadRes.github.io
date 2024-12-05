@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32系列串口烧写工具 Ver1.0.6"
+title: "STM32系列串口烧写工具 Ver106"
 date:   2024-04-21
 tags: [STM32,串口,烧写,工具,校验]
 comments: true

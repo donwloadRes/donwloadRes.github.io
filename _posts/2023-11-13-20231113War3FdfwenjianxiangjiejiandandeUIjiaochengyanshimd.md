@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[War3]Fdf文件详解 - 简单的UI教程演示"
+title: "War3Fdf文件详解  简单的UI教程演示"
 date:   2022-06-05
 tags: [UI,Fdf,教程,魔兽争霸,文件]
 comments: true

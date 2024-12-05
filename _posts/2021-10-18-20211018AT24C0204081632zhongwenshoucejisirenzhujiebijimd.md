@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AT24C02-04-08-16-32中文手册及私人注解笔记"
+title: "AT24C0204081632中文手册及私人注解笔记"
 date:   2022-04-27
 tags: [AT24C02,04,08,16,32]
 comments: true

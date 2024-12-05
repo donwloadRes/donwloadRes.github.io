@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "改进的沙猫群优化算法（Modified Sand Cat Swarm Optimization，MSCSO）"
+title: "改进的沙猫群优化算法Modified Sand Cat Swarm OptimizationMSCSO"
 date:   2021-08-16
 tags: [沙猫,算法,优化,资源,文件]
 comments: true

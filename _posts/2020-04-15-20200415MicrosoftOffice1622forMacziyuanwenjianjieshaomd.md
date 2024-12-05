@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Office 16.22 for Mac 资源文件介绍"
+title: "Microsoft Office 1622 for Mac 资源文件介绍"
 date:   2024-11-05
 tags: [Office,Microsoft,Mac,16.22,安装]
 comments: true

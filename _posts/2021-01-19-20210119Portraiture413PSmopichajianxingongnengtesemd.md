@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portraiture 4.1.3：PS磨皮插件新功能特色"
+title: "Portraiture 413PS磨皮插件新功能特色"
 date:   2023-01-22
 tags: [插件,Portraiture,4.1,磨皮,版本]
 comments: true

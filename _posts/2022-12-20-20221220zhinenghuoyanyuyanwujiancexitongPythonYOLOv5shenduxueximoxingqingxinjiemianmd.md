@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能火焰与烟雾检测系统（Python+YOLOv5深度学习模型+清新界面）"
+title: "智能火焰与烟雾检测系统PythonYOLOv5深度学习模型清新界面"
 date:   2020-07-25
 tags: [Python,检测,烟雾,火焰,YOLOv5]
 comments: true

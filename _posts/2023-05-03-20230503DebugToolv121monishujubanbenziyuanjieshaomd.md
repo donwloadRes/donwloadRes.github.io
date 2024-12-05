@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DebugTool v1.2.1 (模拟数据版本) 资源介绍"
+title: "DebugTool v121 模拟数据版本 资源介绍"
 date:   2023-02-13
 tags: [Qt,数据,采集,v1.2,博主]
 comments: true

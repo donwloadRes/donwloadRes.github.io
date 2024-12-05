@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSI-ESD S20.20-2021 电气和电子零件装置和设备的静电保护最新版"
+title: "ANSIESD S20202021 电气和电子零件装置和设备的静电保护最新版"
 date:   2020-04-20
 tags: [静电,ESD,ANSI,防护,S20.20]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详细介绍IDM下载及配置：实现百度网盘极速下载教程"
+title: "详细介绍IDM下载及配置实现百度网盘极速下载教程"
 date:   2024-02-07
 tags: [百度网,IDM,下载,安装,浏览器]
 comments: true

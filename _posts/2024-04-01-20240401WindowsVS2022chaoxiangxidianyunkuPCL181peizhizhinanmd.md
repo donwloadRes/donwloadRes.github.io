@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows + VS2022 超详细点云库（PCL 1.8.1）配置指南"
+title: "Windows  VS2022 超详细点云库PCL 181配置指南"
 date:   2022-08-21
 tags: [PCL,配置,VS2022,1.8,点云]
 comments: true

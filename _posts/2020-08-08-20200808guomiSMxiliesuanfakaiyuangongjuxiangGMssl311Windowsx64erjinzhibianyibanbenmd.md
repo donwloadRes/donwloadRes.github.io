@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密SM系列算法开源工具箱GMssl3.1.1 Windows x64二进制编译版本"
+title: "国密SM系列算法开源工具箱GMssl311 Windows x64二进制编译版本"
 date:   2020-01-03
 tags: [Windows,编译,开源,GmSSL,二进制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OneTool多平台助手程序：全面的资源指南"
+title: "OneTool多平台助手程序全面的资源指南"
 date:   2022-11-03
 tags: [OneTool,源码,平台,助手,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-means算法的Matlab实现代码（使用文档+源代码）"
+title: "Kmeans算法的Matlab实现代码使用文档源代码"
 date:   2023-06-07
 tags: [Matlab,代码,means,文档,源代码]
 comments: true

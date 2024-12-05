@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率导论（第2版）课后答案资源下载"
+title: "概率导论第2版课后答案资源下载"
 date:   2023-11-13
 tags: [课后,导论,资源,概率,答案]
 comments: true

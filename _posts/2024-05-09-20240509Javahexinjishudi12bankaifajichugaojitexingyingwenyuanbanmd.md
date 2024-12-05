@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java核心技术 第12版 开发基础+高级特性 英文原版"
+title: "Java核心技术 第12版 开发基础高级特性 英文原版"
 date:   2020-08-01
 tags: [Java,本书,特性,英文原版,12]
 comments: true

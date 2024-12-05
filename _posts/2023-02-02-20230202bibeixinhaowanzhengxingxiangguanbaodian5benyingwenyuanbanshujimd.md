@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "必备信号完整性相关宝典（5本英文原版书籍）"
+title: "必备信号完整性相关宝典5本英文原版书籍"
 date:   2023-06-17
 tags: [完整性,信号,Integrity,本书,英文原版]
 comments: true

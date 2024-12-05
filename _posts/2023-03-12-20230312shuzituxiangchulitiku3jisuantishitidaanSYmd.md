@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理》题库3（计算题）试题 + 答案 SY"
+title: "数字图像处理题库3计算题试题  答案 SY"
 date:   2023-11-19
 tags: [数字图像处理,计算题,试题,答案,复习]
 comments: true

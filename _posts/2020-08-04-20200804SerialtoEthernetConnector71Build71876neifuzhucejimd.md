@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Serial to Ethernet Connector 7.1 Build (7.1.876) 内附注册机"
+title: "Serial to Ethernet Connector 71 Build 71876 内附注册机"
 date:   2024-03-28
 tags: [注册机,7.1,Serial,Ethernet,Connector]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从 MatLab 脚本控制 Simulink：设置和运行测试用例列表的简单脚本"
+title: "从 MatLab 脚本控制 Simulink设置和运行测试用例列表的简单脚本"
 date:   2020-11-11
 tags: [脚本,测试用例,MatLab,Simulink,运行]
 comments: true

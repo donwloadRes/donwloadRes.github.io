@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity小游戏-彩笔画师（安卓、PC）"
+title: "Unity小游戏彩笔画师安卓PC"
 date:   2024-03-08
 tags: [Unity,彩笔,玩家,游戏,小游戏]
 comments: true

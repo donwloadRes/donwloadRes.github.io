@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27701:2019 隐私信息管理体系中文译本下载"
+title: "ISOIEC 277012019 隐私信息管理体系中文译本下载"
 date:   2022-10-11
 tags: [信息管理,2019,隐私,ISO,IEC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#爬虫工具源码介绍"
+title: "C爬虫工具源码介绍"
 date:   2023-12-02
 tags: [采集,支持,任务,数据,日志]
 comments: true

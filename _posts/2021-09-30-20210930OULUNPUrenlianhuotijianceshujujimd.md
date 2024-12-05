@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OULU-NPU人脸活体检测数据集"
+title: "OULUNPU人脸活体检测数据集"
 date:   2023-11-08
 tags: [人脸,活体,数据,检测,OULU]
 comments: true

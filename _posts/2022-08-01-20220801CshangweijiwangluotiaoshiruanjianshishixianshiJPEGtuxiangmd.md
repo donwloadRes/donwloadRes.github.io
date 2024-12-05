@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机网络调试软件：实时显示JPEG图像"
+title: "C上位机网络调试软件实时显示JPEG图像"
 date:   2020-11-18
 tags: [上位,JPEG,下位,软件,图像]
 comments: true

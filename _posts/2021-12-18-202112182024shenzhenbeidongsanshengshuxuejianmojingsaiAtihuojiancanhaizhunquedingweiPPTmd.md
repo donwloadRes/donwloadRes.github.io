@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024深圳杯&东三省数学建模竞赛A题：火箭残骸准确定位PPT"
+title: "2024深圳杯东三省数学建模竞赛A题火箭残骸准确定位PPT"
 date:   2023-05-10
 tags: [PPT,残骸,定位,火箭,建模]
 comments: true

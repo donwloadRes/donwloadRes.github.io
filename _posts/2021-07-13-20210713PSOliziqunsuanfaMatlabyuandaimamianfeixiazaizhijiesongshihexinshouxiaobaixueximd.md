@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSO粒子群算法Matlab源代码 免费下载直接送 适合新手小白学习~"
+title: "PSO粒子群算法Matlab源代码 免费下载直接送 适合新手小白学习"
 date:   2020-07-07
 tags: [PSO,算法,Matlab,源代码,代码]
 comments: true

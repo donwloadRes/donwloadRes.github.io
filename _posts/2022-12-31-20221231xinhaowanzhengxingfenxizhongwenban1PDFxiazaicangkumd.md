@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性分析中文版 - 1(PDF) 下载仓库"
+title: "信号完整性分析中文版  1PDF 下载仓库"
 date:   2020-07-01
 tags: [完整性,信号,物理,设计,附录]
 comments: true

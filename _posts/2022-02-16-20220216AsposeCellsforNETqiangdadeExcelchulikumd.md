@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspose.Cells for .NET - 强大的Excel处理库"
+title: "AsposeCells for NET  强大的Excel处理库"
 date:   2020-07-21
 tags: [Excel,Aspose,NET,Cells,Microsoft]
 comments: true

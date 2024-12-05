@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0协议中文版资源下载"
+title: "USB20协议中文版资源下载"
 date:   2021-04-21
 tags: [USB2.0,协议,下载,文件,中文版]
 comments: true

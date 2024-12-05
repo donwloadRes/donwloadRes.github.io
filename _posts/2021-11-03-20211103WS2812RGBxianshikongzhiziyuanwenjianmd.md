@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS2812_RGB 显示控制资源文件"
+title: "WS2812RGB 显示控制资源文件"
 date:   2022-09-04
 tags: [RGB,WS2812,灯珠,显示,文件]
 comments: true

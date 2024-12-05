@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LibWebP-NET（Imazen.WebP + libwebp）资源文件介绍"
+title: "LibWebPNETImazenWebP  libwebp资源文件介绍"
 date:   2020-01-02
 tags: [webp,C#,图片,文件,LibWebP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GIS二次开发环境配置指南"
+title: "C GIS二次开发环境配置指南"
 date:   2021-02-17
 tags: [解压,安装,安装包,ArcGIS,文件夹]
 comments: true

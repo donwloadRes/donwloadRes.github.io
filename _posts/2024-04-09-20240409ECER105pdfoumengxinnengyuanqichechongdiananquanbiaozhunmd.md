@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECE R10 5.pdf - 欧盟新能源汽车充电安全标准"
+title: "ECE R10 5pdf  欧盟新能源汽车充电安全标准"
 date:   2021-07-07
 tags: [充电,新能源,ECE,标准,R10]
 comments: true

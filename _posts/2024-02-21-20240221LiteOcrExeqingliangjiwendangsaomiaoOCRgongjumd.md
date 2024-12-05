@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LiteOcrExe - 轻量级文档扫描OCR工具"
+title: "LiteOcrExe  轻量级文档扫描OCR工具"
 date:   2024-03-17
 tags: [文档,LiteOcrExe,OCR,扫描,识别]
 comments: true

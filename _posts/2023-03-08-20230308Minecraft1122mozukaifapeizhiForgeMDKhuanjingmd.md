@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minecraft 1.12.2模组开发：配置ForgeMDK环境"
+title: "Minecraft 1122模组开发配置ForgeMDK环境"
 date:   2020-01-31
 tags: [Forge,MDK,配置,环境,开发]
 comments: true

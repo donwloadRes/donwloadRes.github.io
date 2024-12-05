@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-PHY布局指导手册"
+title: "CPHY布局指导手册"
 date:   2020-10-29
 tags: [PHY,走线,手册,布局,线宽]
 comments: true

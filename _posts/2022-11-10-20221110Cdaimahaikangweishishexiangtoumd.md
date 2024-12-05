@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#代码-海康威视摄像头"
+title: "C代码海康威视摄像头"
 date:   2021-01-24
 tags: [威视,海康,摄像头,代码,C#]
 comments: true

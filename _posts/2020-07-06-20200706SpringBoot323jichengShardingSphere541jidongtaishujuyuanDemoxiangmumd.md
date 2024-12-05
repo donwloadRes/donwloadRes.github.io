@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot 3.2.3 集成 ShardingSphere 5.4.1 及动态数据源 Demo 项目"
+title: "Spring Boot 323 集成 ShardingSphere 541 及动态数据源 Demo 项目"
 date:   2022-01-13
 tags: [数据源,Spring,Boot,ShardingSphere,动态]
 comments: true

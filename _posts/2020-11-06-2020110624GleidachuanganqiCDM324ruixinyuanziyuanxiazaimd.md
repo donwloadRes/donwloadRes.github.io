@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24G 雷达传感器 CDM324（锐鑫源）资源下载"
+title: "24G 雷达传感器 CDM324锐鑫源资源下载"
 date:   2021-11-28
 tags: [CDM324,传感器,文件,24G,锐鑫源]
 comments: true

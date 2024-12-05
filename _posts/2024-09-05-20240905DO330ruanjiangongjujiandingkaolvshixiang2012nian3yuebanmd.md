@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DO-330 软件工具鉴定考虑事项（2012年3月版）"
+title: "DO330 软件工具鉴定考虑事项2012年3月版"
 date:   2023-02-18
 tags: [DO,330,软件工具,鉴定,2012]
 comments: true

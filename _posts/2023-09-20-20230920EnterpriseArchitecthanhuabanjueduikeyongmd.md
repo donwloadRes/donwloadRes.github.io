@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EnterpriseArchitect汉化版（绝对可用）"
+title: "EnterpriseArchitect汉化版绝对可用"
 date:   2024-07-13
 tags: [汉化,EnterpriseArchitect,UML,建模,汉化版]
 comments: true

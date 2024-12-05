@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ec20模块qmi_wwan拨号工具"
+title: "ec20模块qmiwwan拨号工具"
 date:   2020-07-17
 tags: [拨号,工具,模块,EC20,配置]
 comments: true

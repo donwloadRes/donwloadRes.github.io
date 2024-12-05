@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小波学习书籍（PDF）--- 小波分析及工程应用"
+title: "小波学习书籍PDF 小波分析及工程应用"
 date:   2024-11-14
 tags: [小波,学习,应用,PDF,---]
 comments: true

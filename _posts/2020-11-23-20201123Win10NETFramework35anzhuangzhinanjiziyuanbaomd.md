@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 .NET Framework 3.5 安装指南及资源包"
+title: "Win10 NET Framework 35 安装指南及资源包"
 date:   2023-08-12
 tags: [版本,Win10,NetFx3,NET,Framework]
 comments: true

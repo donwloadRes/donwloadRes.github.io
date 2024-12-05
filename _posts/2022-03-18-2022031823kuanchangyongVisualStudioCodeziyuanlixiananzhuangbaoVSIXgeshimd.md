@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "23款常用Visual Studio Code资源离线安装包 (VSIX格式)"
+title: "23款常用Visual Studio Code资源离线安装包 VSIX格式"
 date:   2022-12-12
 tags: [VSIX,Visual,Studio,Code,资源]
 comments: true

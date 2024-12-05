@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现DDS正弦波、方波、三角波发生器Verilog程序"
+title: "FPGA实现DDS正弦波方波三角波发生器Verilog程序"
 date:   2024-04-30
 tags: [ROM,波形,FPGA,DDS,10bit]
 comments: true

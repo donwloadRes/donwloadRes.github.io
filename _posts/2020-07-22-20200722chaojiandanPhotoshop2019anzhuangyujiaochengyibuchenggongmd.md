@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超简单Photoshop 2019安装与教程（一步成功）"
+title: "超简单Photoshop 2019安装与教程一步成功"
 date:   2022-08-23
 tags: [安装,教程,Photoshop,2019,软件]
 comments: true

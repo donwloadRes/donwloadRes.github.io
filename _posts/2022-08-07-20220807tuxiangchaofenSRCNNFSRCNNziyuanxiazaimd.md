@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像超分SRCNN-FSRCNN资源下载"
+title: "图像超分SRCNNFSRCNN资源下载"
 date:   2021-06-06
 tags: [SRCNN,FSRCNN,图像,资源,源码]
 comments: true

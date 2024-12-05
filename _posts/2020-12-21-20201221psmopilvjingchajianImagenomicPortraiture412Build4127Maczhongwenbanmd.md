@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ps磨皮滤镜插件Imagenomic Portraiture 4.1.2 Build 4127 Mac 中文版"
+title: "ps磨皮滤镜插件Imagenomic Portraiture 412 Build 4127 Mac 中文版"
 date:   2022-07-21
 tags: [磨皮,插件,滤镜,Portraiture,Photoshop]
 comments: true

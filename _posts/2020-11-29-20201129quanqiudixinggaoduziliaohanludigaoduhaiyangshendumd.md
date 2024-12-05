@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球地形高度资料（含陆地高度、海洋深度）"
+title: "全球地形高度资料含陆地高度海洋深度"
 date:   2021-07-03
 tags: [网格,rdbfile,高度,经纬度,10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHY6222 SDK 3.1.1 资源文件介绍"
+title: "PHY6222 SDK 311 资源文件介绍"
 date:   2023-06-17
 tags: [SDK,蓝牙,PHY6220,BLE,芯片]
 comments: true

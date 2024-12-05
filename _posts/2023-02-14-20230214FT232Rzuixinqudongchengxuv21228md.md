@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT232R最新驱动程序v2.12.28"
+title: "FT232R最新驱动程序v21228"
 date:   2022-08-23
 tags: [驱动程序,v2.12,28,FT232R,FTDI]
 comments: true

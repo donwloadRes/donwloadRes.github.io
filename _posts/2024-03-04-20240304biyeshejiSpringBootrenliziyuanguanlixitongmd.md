@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：SpringBoot人力资源管理系统"
+title: "毕业设计SpringBoot人力资源管理系统"
 date:   2022-11-05
 tags: [bash,薪资,毕业设计,SpringBoot,管理]
 comments: true

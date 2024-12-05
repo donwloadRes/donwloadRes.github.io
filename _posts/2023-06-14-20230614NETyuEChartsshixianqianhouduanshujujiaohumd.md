@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 与 ECharts 实现前后端数据交互"
+title: "NET 与 ECharts 实现前后端数据交互"
 date:   2021-01-12
 tags: [NET,ECharts,数据,示例,ASP]
 comments: true

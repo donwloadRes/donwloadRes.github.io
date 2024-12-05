@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "教务管理系统——数据库课程设计（MySQL+Java）"
+title: "教务管理系统数据库课程设计MySQLJava"
 date:   2020-10-27
 tags: [数据库,管理系统,教务,课程设计,Java]
 comments: true

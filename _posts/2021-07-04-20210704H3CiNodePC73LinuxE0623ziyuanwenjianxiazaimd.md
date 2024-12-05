@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C iNode PC 7.3 Linux (E0623) 资源文件下载"
+title: "H3C iNode PC 73 Linux E0623 资源文件下载"
 date:   2022-07-25
 tags: [H3C,iNode,7.3,Linux,E0623]
 comments: true

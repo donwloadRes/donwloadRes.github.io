@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus通讯协议-C#源码"
+title: "Modbus通讯协议C源码"
 date:   2021-06-17
 tags: [Modbus,源码,通讯,C#,NET2.0]
 comments: true

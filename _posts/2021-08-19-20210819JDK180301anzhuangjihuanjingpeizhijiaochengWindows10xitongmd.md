@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_301 安装及环境配置教程（Windows 10系统）"
+title: "JDK 180301 安装及环境配置教程Windows 10系统"
 date:   2020-05-28
 tags: [JDK,安装,301,配置,1.8]
 comments: true

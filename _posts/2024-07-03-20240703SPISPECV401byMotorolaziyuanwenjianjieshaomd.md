@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPI SPEC V4.01 by Motorola 资源文件介绍"
+title: "SPI SPEC V401 by Motorola 资源文件介绍"
 date:   2022-08-25
 tags: [SPI,文档,通信协议,SPEC,V4.01]
 comments: true

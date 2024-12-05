@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CM211-1鸿蒙架构及安卓9系统加持AI算法S905系公版系统"
+title: "CM2111鸿蒙架构及安卓9系统加持AI算法S905系公版系统"
 date:   2020-09-10
 tags: [鸿蒙,系统,盒子,AI,CM211]
 comments: true

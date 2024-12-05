@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 文件操作：Hex 文件转 Bin 文件"
+title: "C 文件操作Hex 文件转 Bin 文件"
 date:   2021-03-30
 tags: [文件,Hex,Bin,HexToBinConverter,文件格式]
 comments: true

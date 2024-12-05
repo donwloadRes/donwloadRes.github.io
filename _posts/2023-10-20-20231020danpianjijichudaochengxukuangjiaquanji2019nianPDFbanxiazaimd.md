@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机基础到程序框架全集（2019年PDF版）下载"
+title: "单片机基础到程序框架全集2019年PDF版下载"
 date:   2023-11-03
 tags: [单片机,2019,框架,程序,下载]
 comments: true

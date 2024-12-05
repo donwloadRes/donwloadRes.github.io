@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino IDE 使用安装以及ESP32库的导入（离线）"
+title: "Arduino IDE 使用安装以及ESP32库的导入离线"
 date:   2023-10-14
 tags: [ESP32,Arduino,IDE,离线,导入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog 语言参考手册3.1a 中文+英文版"
+title: "SystemVerilog 语言参考手册31a 中文英文版"
 date:   2021-02-15
 tags: [SystemVerilog,参考手册,语言,英文版,中文]
 comments: true

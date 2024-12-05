@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro16.6 元器件库 MY_LIB.zip 介绍"
+title: "Allegro166 元器件库 MYLIBzip 介绍"
 date:   2021-09-03
 tags: [元器件,文件,Allegro,封装,MY]
 comments: true

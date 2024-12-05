@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机安装 Ubuntu 20.04.3 64位桌面版教程"
+title: "虚拟机安装 Ubuntu 20043 64位桌面版教程"
 date:   2021-09-06
 tags: [虚拟机,Ubuntu,安装,教程,20.04]
 comments: true

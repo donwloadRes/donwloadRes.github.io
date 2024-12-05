@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm更换pip源为国内源、模块安装、PyCharm依赖包导入导出教程"
+title: "PyCharm更换pip源为国内源模块安装PyCharm依赖包导入导出教程"
 date:   2024-08-06
 tags: [PyCharm,pip,模块,依赖,源为]
 comments: true

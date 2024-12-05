@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C 802.1X端口认证基础配置案例"
+title: "H3C 8021X端口认证基础配置案例"
 date:   2022-08-01
 tags: [H3C,配置,802.1,认证,网络设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 下载与安装指南（2022超详细）"
+title: "Eclipse 下载与安装指南2022超详细"
 date:   2022-11-25
 tags: [Eclipse,JDK,安装,下载,官网]
 comments: true

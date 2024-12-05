@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO11898-2中文版 - 高速CAN总线技术规范"
+title: "ISO118982中文版  高速CAN总线技术规范"
 date:   2023-05-11
 tags: [总线,中文版,高速,一致性,ISO]
 comments: true

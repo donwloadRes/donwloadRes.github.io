@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子 I.MX6U 嵌入式Linux驱动开发指南 V1.5 下载"
+title: "正点原子 IMX6U 嵌入式Linux驱动开发指南 V15 下载"
 date:   2021-05-24
 tags: [Linux,嵌入式,正点,下载,教程]
 comments: true

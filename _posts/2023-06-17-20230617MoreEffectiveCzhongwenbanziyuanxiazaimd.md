@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More Effective C++中文版 资源下载"
+title: "More Effective C中文版 资源下载"
 date:   2021-02-25
 tags: [C++,中文版,下载,特性,More]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core SDK 资源文件指南"
+title: "NET Core SDK 资源文件指南"
 date:   2023-11-26
 tags: [SDK,NET,Core,安装,下载]
 comments: true

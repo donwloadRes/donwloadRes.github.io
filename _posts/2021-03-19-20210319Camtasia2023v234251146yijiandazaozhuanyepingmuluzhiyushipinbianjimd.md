@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Camtasia 2023 v23.4.2.51146：一键打造专业屏幕录制与视频编辑"
+title: "Camtasia 2023 v234251146一键打造专业屏幕录制与视频编辑"
 date:   2020-11-04
 tags: [Camtasia,视频,2023,录制,专业]
 comments: true

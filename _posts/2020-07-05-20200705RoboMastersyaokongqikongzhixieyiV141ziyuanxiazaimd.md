@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RoboMasters 遥控器控制协议 V1.41 资源下载"
+title: "RoboMasters 遥控器控制协议 V141 资源下载"
 date:   2023-08-26
 tags: [遥控器,控制协议,V1.41,RoboMasters,DT7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu离线安装docker与nvidia-docker离线资源包"
+title: "Ubuntu离线安装docker与nvidiadocker离线资源包"
 date:   2021-11-13
 tags: [docker,nvidia,Docker,安装,离线]
 comments: true

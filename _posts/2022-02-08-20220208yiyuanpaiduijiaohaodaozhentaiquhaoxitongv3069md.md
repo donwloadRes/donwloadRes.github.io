@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医院排队叫号导诊台取号系统 v30.6.9"
+title: "医院排队叫号导诊台取号系统 v3069"
 date:   2021-07-01
 tags: [排队,系统,营业员,自定义,LED]
 comments: true

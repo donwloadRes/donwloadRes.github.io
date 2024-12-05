@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Handsontable v6.2.2 资源文件下载"
+title: "Handsontable v622 资源文件下载"
 date:   2021-07-18
 tags: [v6.2,表格,功能,文件,handsontable]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙HC-05模块资源包"
+title: "蓝牙HC05模块资源包"
 date:   2023-01-06
 tags: [蓝牙,模块,HC,05,资源]
 comments: true

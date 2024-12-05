@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DataGrip 如何跳过试用设置永久使用？（Windows 2021-2023版本通用）"
+title: "DataGrip 如何跳过试用设置永久使用Windows 20212023版本通用"
 date:   2024-02-14
 tags: [DataGrip,软件,使用,Windows,试用]
 comments: true

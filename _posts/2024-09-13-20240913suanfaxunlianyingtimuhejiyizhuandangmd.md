@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法训练营题目合集-已转档"
+title: "算法训练营题目合集已转档"
 date:   2022-06-07
 tags: [题目,算法,训练营,合集,编程]
 comments: true

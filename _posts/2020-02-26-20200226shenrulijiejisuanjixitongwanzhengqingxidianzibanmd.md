@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解计算机系统 - 完整、清晰电子版"
+title: "深入理解计算机系统  完整清晰电子版"
 date:   2021-03-02
 tags: [计算机系统,电子版,深入,理解,学习]
 comments: true

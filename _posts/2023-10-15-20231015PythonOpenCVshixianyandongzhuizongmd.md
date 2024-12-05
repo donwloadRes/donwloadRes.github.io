@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+OpenCV实现眼动追踪"
+title: "PythonOpenCV实现眼动追踪"
 date:   2021-12-27
 tags: [眼动,Python,OpenCV,追踪,项目]
 comments: true

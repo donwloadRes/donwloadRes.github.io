@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吊车系统 MATLAB仿真（两种方法实现）"
+title: "吊车系统 MATLAB仿真两种方法实现"
 date:   2023-03-10
 tags: [控制,MATLAB,吊车,仿真,PID]
 comments: true

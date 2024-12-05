@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nRF24L01P-PA-LNA无线数传模块资源库"
+title: "nRF24L01PPALNA无线数传模块资源库"
 date:   2020-12-20
 tags: [文件,PCB,原理图,模块,nRF24L01P]
 comments: true

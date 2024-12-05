@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java高级Markdown笔记整理（尚硅谷康师傅）"
+title: "Java高级Markdown笔记整理尚硅谷康师傅"
 date:   2024-05-20
 tags: [Java,笔记,高级,Markdown,编程]
 comments: true

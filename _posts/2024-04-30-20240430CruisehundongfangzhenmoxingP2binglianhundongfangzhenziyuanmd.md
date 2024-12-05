@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cruise混动仿真模型 - P2并联混动仿真资源"
+title: "Cruise混动仿真模型  P2并联混动仿真资源"
 date:   2021-10-25
 tags: [模型,仿真,Cruise,混动,Simulink]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWINCAT V3.1安装及使用教程"
+title: "TWINCAT V31安装及使用教程"
 date:   2022-10-30
 tags: [TWINCAT,V3.1,安装,教程,常见问题]
 comments: true

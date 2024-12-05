@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸(杂交版)修改器"
+title: "植物大战僵尸杂交版修改器"
 date:   2023-03-06
 tags: [修改器,release,杂交,修改,僵尸]
 comments: true

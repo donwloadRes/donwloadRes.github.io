@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机--心形流水灯"
+title: "51单片机心形流水灯"
 date:   2023-05-31
 tags: [单片机,心形,编程,51,流水]
 comments: true

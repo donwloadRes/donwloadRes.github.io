@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++外卖点餐管理程序"
+title: "CC外卖点餐管理程序"
 date:   2023-11-22
 tags: [订单,C++,菜品,卖点,数据结构]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle.ManagedDataAccess.dll 下载仓库"
+title: "OracleManagedDataAccessdll 下载仓库"
 date:   2022-03-18
 tags: [Oracle,ManagedDataAccess,dll,4.122,版本]
 comments: true

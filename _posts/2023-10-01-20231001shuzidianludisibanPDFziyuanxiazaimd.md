@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路（第四版）PDF资源下载"
+title: "数字电路第四版PDF资源下载"
 date:   2024-06-18
 tags: [数字电路,第四版,PDF,下载,pdf]
 comments: true

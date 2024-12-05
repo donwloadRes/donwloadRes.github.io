@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVB-S2 雷达广播协议中文参考资料"
+title: "DVBS2 雷达广播协议中文参考资料"
 date:   2021-04-18
 tags: [DVB,S2,参考资料,协议,中文]
 comments: true

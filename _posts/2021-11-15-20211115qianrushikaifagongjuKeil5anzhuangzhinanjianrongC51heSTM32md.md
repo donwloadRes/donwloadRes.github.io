@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式开发工具：Keil5安装指南（兼容C51和STM32）"
+title: "嵌入式开发工具Keil5安装指南兼容C51和STM32"
 date:   2020-04-03
 tags: [Keil5,安装,C51,STM32,嵌入式]
 comments: true

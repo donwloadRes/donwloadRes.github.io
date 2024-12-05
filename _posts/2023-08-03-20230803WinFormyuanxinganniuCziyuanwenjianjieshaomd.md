@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm圆形按钮(C#) 资源文件介绍"
+title: "WinForm圆形按钮C 资源文件介绍"
 date:   2021-09-10
 tags: [按钮,自定义,文件,Dll,WinForm]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计（第5版）PDF资源下载"
+title: "计算机组成与设计第5版PDF资源下载"
 date:   2021-12-13
 tags: [PDF,下载,仓库,文件大小,计算机]
 comments: true

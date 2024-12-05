@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸢尾花数据集（iris.txt）"
+title: "鸢尾花数据集iristxt"
 date:   2022-07-11
 tags: [数据,Sepal,Length,Width,Petal]
 comments: true

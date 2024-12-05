@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAN-1D: 使用WGAN生成故障轴承振动信号"
+title: "GAN1D 使用WGAN生成故障轴承振动信号"
 date:   2024-06-25
 tags: [--,训练,生成,rate,轴承]
 comments: true

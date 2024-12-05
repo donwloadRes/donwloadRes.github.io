@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ROS的激光雷达 + 小车 + IMU 的 SLAM建图、定位、路径规划项目资源"
+title: "基于ROS的激光雷达  小车  IMU 的 SLAM建图定位路径规划项目资源"
 date:   2022-01-18
 tags: [源码,项目,ROS,IMU,SLAM]
 comments: true

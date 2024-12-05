@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLyog的下载安装与配置（转载）"
+title: "SQLyog的下载安装与配置转载"
 date:   2024-10-06
 tags: [SQLyog,数据库,下载,连接,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac M1(ARM)安装VMware虚拟机及CentOS8详细教程"
+title: "Mac M1ARM安装VMware虚拟机及CentOS8详细教程"
 date:   2021-01-29
 tags: [虚拟机,VMware,CentOS8,安装,ARM]
 comments: true

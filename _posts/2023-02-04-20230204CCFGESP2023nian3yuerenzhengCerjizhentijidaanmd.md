@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF-GESP 2023年3月认证C++二级真题及答案"
+title: "CCFGESP 2023年3月认证C二级真题及答案"
 date:   2023-06-19
 tags: [CCF,C++,GESP,真题,认证]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕设项目：Android Studio 即时通讯社交APP"
+title: "毕设项目Android Studio 即时通讯社交APP"
 date:   2022-01-31
 tags: [Android,Studio,项目,com,your]
 comments: true

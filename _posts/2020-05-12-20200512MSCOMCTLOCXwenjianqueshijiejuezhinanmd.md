@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSCOMCTL.OCX文件缺失解决指南"
+title: "MSCOMCTLOCX文件缺失解决指南"
 date:   2023-08-30
 tags: [OCX,MSCOMCTL,文件,Windows,32]
 comments: true

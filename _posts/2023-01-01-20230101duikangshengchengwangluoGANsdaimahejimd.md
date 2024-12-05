@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对抗生成网络（GANs）代码合集"
+title: "对抗生成网络GANs代码合集"
 date:   2024-06-26
 tags: [GAN,生成,代码,模型,对抗]
 comments: true

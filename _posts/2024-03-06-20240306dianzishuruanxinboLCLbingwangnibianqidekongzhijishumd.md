@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子书-阮新波LCL并网逆变器的控制技术》"
+title: "电子书阮新波LCL并网逆变器的控制技术"
 date:   2020-12-22
 tags: [LCL,逆变器,并网,控制技术,谐振]
 comments: true

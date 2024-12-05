@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单相Boost功率因数校正（PFC）仿真指南"
+title: "单相Boost功率因数校正PFC仿真指南"
 date:   2021-10-24
 tags: [仿真,PFC,功率因数,校正,软件]
 comments: true

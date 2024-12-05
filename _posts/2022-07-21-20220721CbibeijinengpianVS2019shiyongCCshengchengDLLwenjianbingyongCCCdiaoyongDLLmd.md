@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 【必备技能篇】 VS2019 使用 C-C++ 生成 DLL 文件，并用 C-C++、C# 调用 DLL"
+title: "C 必备技能篇 VS2019 使用 CC 生成 DLL 文件并用 CCC 调用 DLL"
 date:   2020-10-05
 tags: [DLL,C++,C#,调用,示例]
 comments: true

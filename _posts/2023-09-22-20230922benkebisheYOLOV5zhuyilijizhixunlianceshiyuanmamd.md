@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本科毕设-YOLOV5+注意力机制训练测试源码"
+title: "本科毕设YOLOV5注意力机制训练测试源码"
 date:   2023-10-15
 tags: [YOLOV5,训练,代码,包含,源码]
 comments: true

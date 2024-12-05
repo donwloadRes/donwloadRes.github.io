@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML大作业_网上购物系统（广西科技大学）"
+title: "UML大作业网上购物系统广西科技大学"
 date:   2021-12-09
 tags: [UML,购物,网上,文档,系统]
 comments: true

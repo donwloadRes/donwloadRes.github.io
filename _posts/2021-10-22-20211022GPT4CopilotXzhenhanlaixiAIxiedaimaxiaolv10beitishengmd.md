@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT-4 Copilot X震撼来袭！AI写代码效率10倍提升"
+title: "GPT4 Copilot X震撼来袭AI写代码效率10倍提升"
 date:   2021-07-27
 tags: [Copilot,代码,GPT,开发者,AI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【正点原子】I.MX6U嵌入式Linux C应用编程指南V1.4 下载仓库"
+title: "正点原子IMX6U嵌入式Linux C应用编程指南V14 下载仓库"
 date:   2022-06-28
 tags: [指南,嵌入式,MX6U,Linux,编程]
 comments: true

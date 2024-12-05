@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeMODBUS v1.6 资源文件下载"
+title: "FreeMODBUS v16 资源文件下载"
 date:   2021-11-14
 tags: [FreeMODBUS,v1.6,freemodbus,zip,文件]
 comments: true

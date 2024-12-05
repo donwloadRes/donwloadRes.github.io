@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测绘学概论》- 总论 资源下载"
+title: "测绘学概论 总论 资源下载"
 date:   2021-03-28
 tags: [测绘学,概论,课程,测绘,总论]
 comments: true

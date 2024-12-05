@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266连接onenet上传温湿度数据+远程控制LED（MQTT）"
+title: "STM32ESP8266连接onenet上传温湿度数据远程控制LEDMQTT"
 date:   2024-11-24
 tags: [STM32,OneNet,ESP8266,温湿度,LED]
 comments: true

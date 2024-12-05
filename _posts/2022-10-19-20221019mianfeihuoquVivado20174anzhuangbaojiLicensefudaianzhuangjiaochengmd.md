@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费获取Vivado 2017.4安装包及License（附带安装教程）"
+title: "免费获取Vivado 20174安装包及License附带安装教程"
 date:   2021-01-13
 tags: [License,安装,Vivado,2017.4,安装包]
 comments: true

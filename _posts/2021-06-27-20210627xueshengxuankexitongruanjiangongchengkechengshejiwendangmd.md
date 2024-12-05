@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生选课系统—软件工程课程设计文档"
+title: "学生选课系统软件工程课程设计文档"
 date:   2023-11-23
 tags: [选课,系统,学生,课程,模块]
 comments: true

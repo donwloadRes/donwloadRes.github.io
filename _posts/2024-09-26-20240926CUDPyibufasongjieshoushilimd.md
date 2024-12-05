@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# UDP异步发送接收示例"
+title: "C UDP异步发送接收示例"
 date:   2024-02-03
 tags: [UDP,示例,异步,客户端,发送]
 comments: true

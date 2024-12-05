@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATPOWER 5.0b1 资源文件下载"
+title: "MATPOWER 50b1 资源文件下载"
 date:   2021-10-25
 tags: [b1,博客,资源,文件,matpower5.0]
 comments: true

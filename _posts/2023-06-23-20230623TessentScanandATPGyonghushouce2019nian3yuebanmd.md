@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tessent Scan and ATPG 用户手册 (2019年3月版)"
+title: "Tessent Scan and ATPG 用户手册 2019年3月版"
 date:   2022-03-19
 tags: [Scan,ATPG,2019,文档,Tessent]
 comments: true

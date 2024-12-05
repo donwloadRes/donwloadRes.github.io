@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFMpeg_FFPlay 源码剖析资源下载"
+title: "FFMpegFFPlay 源码剖析资源下载"
 date:   2020-01-03
 tags: [FFMpeg,FFPlay,源码,源代码,剖析]
 comments: true

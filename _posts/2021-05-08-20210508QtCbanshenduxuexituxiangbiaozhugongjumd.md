@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt C++版深度学习图像标注工具"
+title: "Qt C版深度学习图像标注工具"
 date:   2021-11-16
 tags: [标注,图像,工具,Qt,深度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路基础知识总结(精华版) PDF 资源"
+title: "电路基础知识总结精华版 PDF 资源"
 date:   2022-10-29
 tags: [电路,精华版,基础知识,总结,电压]
 comments: true

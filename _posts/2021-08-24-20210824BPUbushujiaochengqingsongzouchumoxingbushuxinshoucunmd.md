@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPU部署教程：轻松走出模型部署新手村"
+title: "BPU部署教程轻松走出模型部署新手村"
 date:   2021-07-25
 tags: [教程,BPU,部署,模型,常见问题]
 comments: true

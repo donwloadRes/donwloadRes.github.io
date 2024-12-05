@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React & Babel CDN资源本地备份"
+title: "React  Babel CDN资源本地备份"
 date:   2022-10-18
 tags: [script,React,js,版本,Babel]
 comments: true

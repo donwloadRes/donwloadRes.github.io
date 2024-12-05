@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3-Python2百度网盘链接地址"
+title: "Python3Python2百度网盘链接地址"
 date:   2020-10-24
 tags: [Python,百度网,链接,Python3,版本]
 comments: true

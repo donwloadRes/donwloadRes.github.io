@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "潜在失效模式分析（FMEA）教材 - 第五版 PPT 新版发布"
+title: "潜在失效模式分析FMEA教材  第五版 PPT 新版发布"
 date:   2020-06-18
 tags: [FMEA,PPT,模式分析,第五版,失效]
 comments: true

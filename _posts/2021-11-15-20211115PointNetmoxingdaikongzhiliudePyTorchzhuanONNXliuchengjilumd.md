@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet++模型（带控制流）的PyTorch转ONNX流程记录"
+title: "PointNet模型带控制流的PyTorch转ONNX流程记录"
 date:   2023-09-25
 tags: [PyTorch,ONNX,模型,PointNet,转换]
 comments: true

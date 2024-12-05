@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式实时操作系统uc-os ii教程资源下载"
+title: "嵌入式实时操作系统ucos ii教程资源下载"
 date:   2022-08-16
 tags: [uc,os,ii,实时操作系统,嵌入式]
 comments: true

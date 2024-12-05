@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D 集成电路堆叠技术：超越摩尔的革命"
+title: "3D 集成电路堆叠技术超越摩尔的革命"
 date:   2021-06-26
 tags: [堆叠,集成电路,3D,技术,电子系统]
 comments: true

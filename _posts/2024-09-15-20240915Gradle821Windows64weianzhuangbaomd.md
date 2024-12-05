@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 8.2.1 Windows 64位安装包"
+title: "Gradle 821 Windows 64位安装包"
 date:   2022-03-11
 tags: [Gradle,安装包,8.2,gradle,bin]
 comments: true

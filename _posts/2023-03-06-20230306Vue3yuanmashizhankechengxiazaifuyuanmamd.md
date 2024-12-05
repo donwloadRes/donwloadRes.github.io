@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 源码实战课程下载（附源码）"
+title: "Vue3 源码实战课程下载附源码"
 date:   2024-02-02
 tags: [Vue3,源码,课程,开发者,框架]
 comments: true

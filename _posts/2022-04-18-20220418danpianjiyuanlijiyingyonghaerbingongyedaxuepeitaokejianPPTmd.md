@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机原理及应用_哈尔滨工业大学配套课件PPT"
+title: "单片机原理及应用哈尔滨工业大学配套课件PPT"
 date:   2021-07-14
 tags: [单片机,PPT,课件,哈尔滨工业大学,文件]
 comments: true

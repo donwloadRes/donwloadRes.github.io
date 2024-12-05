@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现数独游戏的设计"
+title: "C实现数独游戏的设计"
 date:   2024-09-14
 tags: [数独,示例,代码,游戏,C++]
 comments: true

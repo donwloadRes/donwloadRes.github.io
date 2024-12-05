@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMSM电机Ld-Lq参数测量方法"
+title: "PMSM电机LdLq参数测量方法"
 date:   2024-08-01
 tags: [PMSM,Ld,Lq,参数,测量方法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019编译FFmpeg源码为静态库和动态库（完整步骤，亲测可行）"
+title: "VS2019编译FFmpeg源码为静态库和动态库完整步骤亲测可行"
 date:   2023-06-16
 tags: [编译,FFmpeg,源码,文件,确保您]
 comments: true

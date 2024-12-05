@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jump Point Search--跳点搜索法--matlab代码"
+title: "Jump Point Search跳点搜索法matlab代码"
 date:   2021-03-30
 tags: [JPS,算法,--,matlab,代码]
 comments: true

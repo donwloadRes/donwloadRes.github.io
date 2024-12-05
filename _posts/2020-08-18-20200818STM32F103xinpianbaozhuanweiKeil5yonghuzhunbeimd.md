@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103芯片包--专为Keil5用户准备"
+title: "STM32F103芯片包专为Keil5用户准备"
 date:   2020-05-29
 tags: [STM32F103,Keil5,芯片,安装,STM32F1]
 comments: true

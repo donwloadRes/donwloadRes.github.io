@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USBlyzer 2.2 完整可用版本"
+title: "USBlyzer 22 完整可用版本"
 date:   2023-08-25
 tags: [USBlyzer,USB,版本,2.2,确保您]
 comments: true

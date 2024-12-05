@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为云课程课件下载：人工智能入门级开发者认证HCCDA – AI"
+title: "华为云课程课件下载人工智能入门级开发者认证HCCDA  AI"
 date:   2022-11-21
 tags: [人工智能,华为,AI,认证,课件]
 comments: true

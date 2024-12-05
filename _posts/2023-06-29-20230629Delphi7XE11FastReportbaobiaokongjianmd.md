@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 7 -XE11 FastReport 报表控件"
+title: "Delphi 7 XE11 FastReport 报表控件"
 date:   2020-10-11
 tags: [报表,Delphi,FastReport,控件,版本]
 comments: true

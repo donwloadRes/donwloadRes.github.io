@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等保主机安全基线合规--配置指导Linux系统"
+title: "等保主机安全基线合规配置指导Linux系统"
 date:   2020-06-08
 tags: [Linux,基线,合规,配置,主机]
 comments: true

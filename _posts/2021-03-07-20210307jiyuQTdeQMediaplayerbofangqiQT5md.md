@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT的QMediaplayer播放器（QT5）"
+title: "基于QT的QMediaplayer播放器QT5"
 date:   2020-02-17
 tags: [QT,播放器,QMediaplayer,QT5,播放]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm Professional 2020.1 下载与激活指南"
+title: "PyCharm Professional 20201 下载与激活指南"
 date:   2021-11-24
 tags: [PyCharm,激活,2020.1,Professional,下载]
 comments: true

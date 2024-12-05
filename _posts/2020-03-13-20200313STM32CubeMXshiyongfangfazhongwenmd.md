@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX使用方法(中文)"
+title: "STM32CubeMX使用方法中文"
 date:   2022-11-12
 tags: [STM32CubeMX,STM32,使用,软件,教程]
 comments: true

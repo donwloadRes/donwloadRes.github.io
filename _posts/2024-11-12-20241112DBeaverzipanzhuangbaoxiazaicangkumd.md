@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBeaver.zip 安装包下载仓库"
+title: "DBeaverzip 安装包下载仓库"
 date:   2023-11-07
 tags: [DBeaver,zip,安装包,仓库,下载]
 comments: true

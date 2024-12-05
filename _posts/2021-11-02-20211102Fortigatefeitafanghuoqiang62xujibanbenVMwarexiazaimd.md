@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fortigate飞塔防火墙6.2虚机版本（VMware）下载"
+title: "Fortigate飞塔防火墙62虚机版本VMware下载"
 date:   2023-06-03
 tags: [防火墙,Fortigate,VMware,飞塔,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CJ1W-SCU模块协议宏做Modbus-RTU主站资源文件介绍"
+title: "CJ1WSCU模块协议宏做ModbusRTU主站资源文件介绍"
 date:   2021-01-06
 tags: [CJ1W,SCU,Modbus,RTU,模块]
 comments: true

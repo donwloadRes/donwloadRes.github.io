@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库实验报告：数据表的操作"
+title: "MySQL数据库实验报告数据表的操作"
 date:   2024-04-03
 tags: [数据库,MySQL,实验报告,操作,数据表]
 comments: true

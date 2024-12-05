@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC整改秘籍(有实例)"
+title: "EMC整改秘籍有实例"
 date:   2020-03-22
 tags: [整改,电容,电感,接地,EMC]
 comments: true

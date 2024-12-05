@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL2303 Win10 USB-to-Serial 串口驱动"
+title: "PL2303 Win10 USBtoSerial 串口驱动"
 date:   2020-08-02
 tags: [驱动,PL2303,串口,安装,尝试]
 comments: true

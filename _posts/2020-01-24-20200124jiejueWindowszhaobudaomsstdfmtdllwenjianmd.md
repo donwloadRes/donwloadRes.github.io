@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows找不到msstdfmt.dll文件"
+title: "解决Windows找不到msstdfmtdll文件"
 date:   2021-10-11
 tags: [dll,文件,msstdfmt,Windows,32]
 comments: true

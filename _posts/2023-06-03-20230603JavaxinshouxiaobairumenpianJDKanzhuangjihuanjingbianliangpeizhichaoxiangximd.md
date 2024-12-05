@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java新手小白入门篇：JDK安装及环境变量配置（超详细）"
+title: "Java新手小白入门篇JDK安装及环境变量配置超详细"
 date:   2021-07-30
 tags: [JDK,环境变量,配置,安装,Java]
 comments: true

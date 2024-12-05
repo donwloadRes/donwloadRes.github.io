@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ffmpeg_version.cmake资源文件说明"
+title: "ffmpegversioncmake资源文件说明"
 date:   2022-01-22
 tags: [FFmpeg,OpenCV,cmake,文件,编译]
 comments: true

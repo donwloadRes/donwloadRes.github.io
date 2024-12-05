@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版Android Studio 4.0稳定版下载文件地址"
+title: "最新版Android Studio 40稳定版下载文件地址"
 date:   2020-06-24
 tags: [Android,Studio,下载,稳定版,安装]
 comments: true

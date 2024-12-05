@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电信移动中兴B860AV2.1，1.1T，1.2系列晶晨S905L芯片-刷机固件包"
+title: "电信移动中兴B860AV2111T12系列晶晨S905L芯片刷机固件包"
 date:   2023-08-23
 tags: [固件,刷机,当贝,短接,原机]
 comments: true

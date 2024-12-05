@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习——人工神经网络之BP算法编程（Python二分类数据集：马疝病数据集）"
+title: "机器学习人工神经网络之BP算法编程Python二分类数据集马疝病数据集"
 date:   2023-08-25
 tags: [BP,算法,Python,人工神经网络,模型]
 comments: true

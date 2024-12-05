@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.12.1 开源版 Windows x86 安装包"
+title: "Qt 5121 开源版 Windows x86 安装包"
 date:   2021-02-04
 tags: [Qt,安装包,5.12,安装,开源]
 comments: true

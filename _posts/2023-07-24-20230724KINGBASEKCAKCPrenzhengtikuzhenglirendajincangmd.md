@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KINGBASE KCA KCP 认证题库整理（人大金仓）"
+title: "KINGBASE KCA KCP 认证题库整理人大金仓"
 date:   2020-07-19
 tags: [题库,KCA,KCP,认证,考试]
 comments: true

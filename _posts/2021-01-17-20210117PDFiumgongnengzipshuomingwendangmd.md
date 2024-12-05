@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFium功能.zip 说明文档"
+title: "PDFium功能zip 说明文档"
 date:   2022-05-24
 tags: [PDFium,PDF,文件,编译,zip]
 comments: true

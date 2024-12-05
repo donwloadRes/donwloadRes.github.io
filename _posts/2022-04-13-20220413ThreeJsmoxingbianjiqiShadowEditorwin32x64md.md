@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThreeJs模型编辑器ShadowEditor-win32-x64"
+title: "ThreeJs模型编辑器ShadowEditorwin32x64"
 date:   2023-02-23
 tags: [编辑器,模型,ShadowEditor,导出,Web]
 comments: true

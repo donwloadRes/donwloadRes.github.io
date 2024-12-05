@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labview操作者框架（AF）的kvaser应用"
+title: "Labview操作者框架AF的kvaser应用"
 date:   2021-05-26
 tags: [LabVIEW,kvaser,示例,通信,代码]
 comments: true

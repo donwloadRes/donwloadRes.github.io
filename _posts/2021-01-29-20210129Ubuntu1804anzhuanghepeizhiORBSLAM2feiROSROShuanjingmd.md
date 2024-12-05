@@ -1,6 +1,75 @@
 ---
 layout: post
-title: "Ubuntu 18.04 安装和配置 ORB_SLAM2（非ROS、ROS环境）"
+title: "Ubuntu 1804 安装和配置 ORBSLAM2非ROSROS环境
+date   20200825
+tags ORBSLAM2bashsudoROS
+comments true
+author admin
+
+ Ubuntu 1804 安装和配置 ORBSLAM2非ROSROS环境
+
+ 简介
+
+本资源文件提供了在 Ubuntu 1804 系统上安装和配置 ORBSLAM2 的详细步骤适用于非 ROS 和 ROS 环境ORBSLAM2 是一个用于单目双目和 RGBD 相机的实时 SLAM 库能够计算相机轨迹和稀疏 3D 重建
+
+ 安装步骤
+
+ 1 安装工具
+
+在终端中输入以下命令安装必要的工具
+
+bash
+sudo aptget install cmake
+sudo aptget install git
+sudo aptget install gcc g
+
+
+ 2 安装 Eigen 库
+
+在终端中输入以下命令安装 Eigen 库
+
+bash
+sudo aptget install libeigen3dev
+
+
+ 3 安装 Pangolin 05
+
+安装 Pangolin 05 的依赖项
+
+bash
+sudo aptget install libglewdev libpython27dev
+sudo aptget install libxkbcommonx11dev
+
+
+下载 Pangolin 05 版本并解压
+
+bash
+unzip Pangolinv05zip
+
+
+进入 Pangolin 文件夹进行编译和安装
+
+bash
+cd Pangolin
+mkdir build
+cd build
+cmake 
+make
+sudo make install
+
+
+ 4 安装 OpenCV 341
+
+下载 OpenCV 341 版本并解压
+
+bash
+unzip opencv341zip
+
+
+安装依赖项
+
+bash
+sudo addaptrepository deb httpsecurityubuntucomubuntu xenialsecurity main"
 date:   2020-08-25
 tags: [ORB,SLAM2,bash,sudo,ROS]
 comments: true

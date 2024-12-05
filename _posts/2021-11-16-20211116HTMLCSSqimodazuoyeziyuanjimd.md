@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS期末大作业资源集"
+title: "HTMLCSS期末大作业资源集"
 date:   2021-12-05
 tags: [HTML,网页,CSS,期末,作业]
 comments: true

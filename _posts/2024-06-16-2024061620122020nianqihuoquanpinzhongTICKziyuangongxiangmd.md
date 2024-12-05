@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2012-2020年期货全品种TICK资源共享"
+title: "20122020年期货全品种TICK资源共享"
 date:   2020-04-21
 tags: [2020,TICK,数据,2012,24]
 comments: true

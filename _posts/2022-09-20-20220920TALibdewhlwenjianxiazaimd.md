@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TA-Lib的whl文件下载"
+title: "TALib的whl文件下载"
 date:   2022-05-17
 tags: [TA,Lib,whl,win,amd64]
 comments: true

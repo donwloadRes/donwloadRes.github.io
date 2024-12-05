@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I2S协议规范（英文版）"
+title: "I2S协议规范英文版"
 date:   2021-02-21
 tags: [I2S,数字音频,传输,英文版,协议]
 comments: true

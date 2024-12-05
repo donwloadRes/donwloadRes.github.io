@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列预测实战：魔改Informer模型进行滚动长期预测（科研版本，结果可视化）"
+title: "时间序列预测实战魔改Informer模型进行滚动长期预测科研版本结果可视化"
 date:   2024-03-11
 tags: [预测,可视化,Informer,your,滚动]
 comments: true

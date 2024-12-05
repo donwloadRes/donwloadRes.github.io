@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform(C#) 最全60种非常漂亮界面样式皮肤(经典)"
+title: "WinformC 最全60种非常漂亮界面样式皮肤经典"
 date:   2023-04-01
 tags: [皮肤,60,界面,Winform,C#]
 comments: true

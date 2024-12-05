@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统：三部曲PDF完整版"
+title: "操作系统三部曲PDF完整版"
 date:   2022-11-09
 tags: [操作系统,PDF,完整版,三部曲,虚拟化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5入门到精通第一个项目详细源代码（新手必备）"
+title: "Qt5入门到精通第一个项目详细源代码新手必备"
 date:   2023-02-27
 tags: [Qt5,源代码,入门,项目,精通]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Verilog HDL 语言标准 1364-2005 资源下载"
+title: "IEEE Verilog HDL 语言标准 13642005 资源下载"
 date:   2020-08-25
 tags: [2005,Verilog,HDL,1364,IEEE]
 comments: true

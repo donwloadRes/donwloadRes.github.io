@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：导入贴图和模型2"
+title: "Unity3D教程导入贴图和模型2"
 date:   2023-08-22
 tags: [贴图,过滤,Unity3D,导入,AnisoLevel]
 comments: true

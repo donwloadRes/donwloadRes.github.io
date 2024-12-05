@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDP 3.2.1.0-001 (Ambari 2.7.6 + Hadoop 3.2.4) ARM版本资源文件介绍"
+title: "HDP 3210001 Ambari 276  Hadoop 324 ARM版本资源文件介绍"
 date:   2020-02-03
 tags: [文件,版本,3.2,Ambari,资源]
 comments: true

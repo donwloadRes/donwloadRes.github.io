@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-TR 62380 可靠性数据手册 - 电子元件、PCB及设备的通用可靠性预测模型"
+title: "IECTR 62380 可靠性数据手册  电子元件PCB及设备的通用可靠性预测模型"
 date:   2020-06-10
 tags: [可靠性,IEC,TR,62380,模型]
 comments: true

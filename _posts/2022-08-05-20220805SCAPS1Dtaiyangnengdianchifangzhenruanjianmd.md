@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCAPS-1D太阳能电池仿真软件"
+title: "SCAPS1D太阳能电池仿真软件"
 date:   2024-10-23
 tags: [软件,SCAPS,1D,仿真,电池]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61850应用入门(第二版) 资源下载"
+title: "IEC61850应用入门第二版 资源下载"
 date:   2020-08-09
 tags: [IEC61850,入门,应用,资源,文件]
 comments: true

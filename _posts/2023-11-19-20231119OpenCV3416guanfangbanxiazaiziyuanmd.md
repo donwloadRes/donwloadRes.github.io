@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 3.4.16 官方版下载资源"
+title: "OpenCV 3416 官方版下载资源"
 date:   2022-10-05
 tags: [OpenCV,16,版本,3.4,开发者]
 comments: true

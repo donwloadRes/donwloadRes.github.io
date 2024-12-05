@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "太极神器 - 多功能聚合应用"
+title: "太极神器  多功能聚合应用"
 date:   2022-11-03
 tags: [支持,图片,切换,VIP,功能]
 comments: true

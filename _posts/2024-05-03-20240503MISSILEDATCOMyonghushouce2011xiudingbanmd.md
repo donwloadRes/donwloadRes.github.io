@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISSILE DATCOM 用户手册 - 2011 修订版"
+title: "MISSILE DATCOM 用户手册  2011 修订版"
 date:   2022-04-25
 tags: [MISSILE,DATCOM,气动力,参数,本手册]
 comments: true

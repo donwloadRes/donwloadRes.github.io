@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测绘学报》论文模板下载"
+title: "测绘学报论文模板下载"
 date:   2023-01-12
 tags: [模板,测绘学,论文,格式,下载]
 comments: true

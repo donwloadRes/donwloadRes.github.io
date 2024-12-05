@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉测量书籍-张广军-最新版part2"
+title: "视觉测量书籍张广军最新版part2"
 date:   2020-06-04
 tags: [张广军,书籍,最新版,part2,视觉]
 comments: true

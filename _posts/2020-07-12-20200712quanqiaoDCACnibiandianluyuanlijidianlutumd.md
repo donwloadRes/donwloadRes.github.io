@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全桥DC-AC逆变电路原理及电路图"
+title: "全桥DCAC逆变电路原理及电路图"
 date:   2021-08-02
 tags: [逆变,全桥,电路,电路图,DC]
 comments: true

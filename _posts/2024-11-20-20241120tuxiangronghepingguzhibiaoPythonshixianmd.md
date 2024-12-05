@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像融合评估指标 - Python实现"
+title: "图像融合评估指标  Python实现"
 date:   2023-02-20
 tags: [评估,图像,融合,Python,指标]
 comments: true

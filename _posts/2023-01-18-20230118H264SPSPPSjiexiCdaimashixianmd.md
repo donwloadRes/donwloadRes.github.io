@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H.264 SPS PPS 解析 C代码实现"
+title: "H264 SPS PPS 解析 C代码实现"
 date:   2020-06-21
 tags: [解析,H.264,SPS,PPS,代码]
 comments: true

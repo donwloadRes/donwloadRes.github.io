@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Frank-Wolfe求解UE用户均衡模型——以SiouxFalls网络为例（Python实现）"
+title: "利用FrankWolfe求解UE用户均衡模型以SiouxFalls网络为例Python实现"
 date:   2020-12-10
 tags: [Frank,Wolfe,算法,SiouxFalls,Python]
 comments: true

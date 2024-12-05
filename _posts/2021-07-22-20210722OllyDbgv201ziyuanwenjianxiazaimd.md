@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OllyDbg v2.01 资源文件下载"
+title: "OllyDbg v201 资源文件下载"
 date:   2022-07-12
 tags: [插件,OllyDbg,调试,OD,窗口]
 comments: true

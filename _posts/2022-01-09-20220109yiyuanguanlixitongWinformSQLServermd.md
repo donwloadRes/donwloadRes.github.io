@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医院管理系统（Winform + SQL Server）"
+title: "医院管理系统Winform  SQL Server"
 date:   2021-01-08
 tags: [模块,数据库,项目,SQL,Server]
 comments: true

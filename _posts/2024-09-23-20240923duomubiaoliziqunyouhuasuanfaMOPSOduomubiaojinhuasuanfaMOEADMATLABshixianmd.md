@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标粒子群优化算法(MOPSO) + 多目标进化算法(MOEA-D) - MATLAB实现"
+title: "多目标粒子群优化算法MOPSO  多目标进化算法MOEAD  MATLAB实现"
 date:   2021-09-27
 tags: [算法,目标,优化,MATLAB,示例]
 comments: true

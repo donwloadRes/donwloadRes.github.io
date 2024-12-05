@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab 结构光相机-投影仪标定代码"
+title: "Matlab 结构光相机投影仪标定代码"
 date:   2022-07-01
 tags: [标定,投影仪,代码,相机,Matlab]
 comments: true

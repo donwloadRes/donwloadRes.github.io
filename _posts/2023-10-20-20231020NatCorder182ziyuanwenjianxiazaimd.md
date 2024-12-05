@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NatCorder 1.8.2 资源文件下载"
+title: "NatCorder 182 资源文件下载"
 date:   2021-05-13
 tags: [录制,1.8,录屏,Unity,插件]
 comments: true

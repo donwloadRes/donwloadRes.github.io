@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子 S7-1200-1500 实现两种液体混合控制"
+title: "西门子 S712001500 实现两种液体混合控制"
 date:   2020-10-25
 tags: [液体,阀门,搅拌,L2,L3]
 comments: true

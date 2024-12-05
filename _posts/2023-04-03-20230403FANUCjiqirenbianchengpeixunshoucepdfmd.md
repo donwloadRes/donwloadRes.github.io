@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC机器人编程培训手册.pdf"
+title: "FANUC机器人编程培训手册pdf"
 date:   2020-06-23
 tags: [机器人,FANUC,编程,手册,培训]
 comments: true

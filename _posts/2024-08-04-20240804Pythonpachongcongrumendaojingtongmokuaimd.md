@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫从入门到精通（模块）"
+title: "Python爬虫从入门到精通模块"
 date:   2022-05-08
 tags: [爬虫,Python,爬取,实战,入门]
 comments: true

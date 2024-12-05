@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的小游戏 - 含源代码"
+title: "基于Python的小游戏  含源代码"
 date:   2022-10-03
 tags: [Python,源代码,游戏,项目,小游戏]
 comments: true

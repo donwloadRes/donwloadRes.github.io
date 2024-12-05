@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陀螺仪加速度计MPU6050模块集成卡尔曼滤波器 - 高精度 Arduino 实时传感"
+title: "陀螺仪加速度计MPU6050模块集成卡尔曼滤波器  高精度 Arduino 实时传感"
 date:   2024-02-03
 tags: [Arduino,MPU6050,卡尔曼滤波,加速度计,陀螺仪]
 comments: true

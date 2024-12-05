@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的篮球比赛战术数据自动采集及统计系统——DeepSORT多目标跟踪文件"
+title: "基于深度学习的篮球比赛战术数据自动采集及统计系统DeepSORT多目标跟踪文件"
 date:   2023-11-13
 tags: [篮球比赛,DeepSORT,文件,采集,跟踪]
 comments: true

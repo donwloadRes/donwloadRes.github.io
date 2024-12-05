@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1939-21 CAN协议资源下载"
+title: "SAE J193921 CAN协议资源下载"
 date:   2024-03-29
 tags: [SAE,J1939,21,协议,pdf]
 comments: true

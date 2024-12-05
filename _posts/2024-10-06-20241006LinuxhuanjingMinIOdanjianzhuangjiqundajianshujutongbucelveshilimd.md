@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境MinIO单机安装、集群搭建，数据同步，策略示例"
+title: "Linux环境MinIO单机安装集群搭建数据同步策略示例"
 date:   2021-01-02
 tags: [MinIO,同步,集群,Linux,配置]
 comments: true

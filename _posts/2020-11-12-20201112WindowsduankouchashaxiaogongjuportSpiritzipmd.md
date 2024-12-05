@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows端口查杀小工具 - portSpirit.zip"
+title: "Windows端口查杀小工具  portSpiritzip"
 date:   2023-12-30
 tags: [端口,portSpirit,zip,查杀,关闭]
 comments: true

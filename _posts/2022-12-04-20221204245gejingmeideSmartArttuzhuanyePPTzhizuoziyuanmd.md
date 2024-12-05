@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "245个精美的SmartArt图（专业PPT制作资源）"
+title: "245个精美的SmartArt图专业PPT制作资源"
 date:   2021-01-06
 tags: [SmartArt,PPT,展示,245,资源]
 comments: true

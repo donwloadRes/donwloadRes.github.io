@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派WoR-Release-2.3.1适用win11最新版资源下载"
+title: "树莓派WoRRelease231适用win11最新版资源下载"
 date:   2024-01-06
 tags: [树莓,WoR,资源,最新版,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PWM整流器及其控制 - 张崇巍、张兴 资源下载"
+title: "PWM整流器及其控制  张崇巍张兴 资源下载"
 date:   2024-05-11
 tags: [PWM,整流器,张崇巍,张兴,资源]
 comments: true

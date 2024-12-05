@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "什么是Tomcat？Tomcat是干什么用的？通俗易懂的介绍"
+title: "什么是TomcatTomcat是干什么用的通俗易懂的介绍"
 date:   2021-09-03
 tags: [Tomcat,Web,Java,HTML,Servlet]
 comments: true

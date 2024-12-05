@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL2016 安装问题解决方案：无法联系下载服务器"
+title: "SQL2016 安装问题解决方案无法联系下载服务器"
 date:   2022-08-19
 tags: [下载,Server,安装,Microsoft,cab]
 comments: true

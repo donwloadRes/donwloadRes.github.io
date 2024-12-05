@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第15届蓝桥杯10.29 Python真题+答案"
+title: "第15届蓝桥杯1029 Python真题答案"
 date:   2021-06-24
 tags: [真题,蓝桥,题目,15,Python]
 comments: true

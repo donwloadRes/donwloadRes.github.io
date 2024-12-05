@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue实现el-table导出Excel功能"
+title: "Vue实现eltable导出Excel功能"
 date:   2024-08-08
 tags: [导出,el,table,Excel,Vue]
 comments: true

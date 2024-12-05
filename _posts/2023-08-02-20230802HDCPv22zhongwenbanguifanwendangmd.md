@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDCPv2.2 中文版规范文档"
+title: "HDCPv22 中文版规范文档"
 date:   2023-06-01
 tags: [HDCP,文档,内容,视听,接收器]
 comments: true

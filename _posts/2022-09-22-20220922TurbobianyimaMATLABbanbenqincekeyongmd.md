@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turbo编译码MATLAB版本（亲测可用）"
+title: "Turbo编译码MATLAB版本亲测可用"
 date:   2020-02-19
 tags: [MATLAB,Turbo,代码,译码,码率]
 comments: true

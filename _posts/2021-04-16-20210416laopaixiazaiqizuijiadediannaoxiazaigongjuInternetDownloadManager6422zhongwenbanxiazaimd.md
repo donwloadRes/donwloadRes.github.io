@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老牌下载器最佳的电脑下载工具Internet Download Manager 6.42.2中文版下载"
+title: "老牌下载器最佳的电脑下载工具Internet Download Manager 6422中文版下载"
 date:   2020-04-29
 tags: [下载,IDM,下载工具,链接,捕获]
 comments: true

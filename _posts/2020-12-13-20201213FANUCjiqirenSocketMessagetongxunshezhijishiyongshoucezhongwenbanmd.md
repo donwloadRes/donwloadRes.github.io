@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC机器人Socket Message通讯设置及使用手册（中文版）"
+title: "FANUC机器人Socket Message通讯设置及使用手册中文版"
 date:   2020-03-28
 tags: [FANUC,通信,机器人,TCP,IP]
 comments: true

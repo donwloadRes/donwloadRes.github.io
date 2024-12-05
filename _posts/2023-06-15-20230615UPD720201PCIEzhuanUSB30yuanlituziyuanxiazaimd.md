@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UPD720201 PCIE 转 USB3.0 原理图资源下载"
+title: "UPD720201 PCIE 转 USB30 原理图资源下载"
 date:   2020-03-22
 tags: [原理图,USB3.0,PCIE,接口,硬件]
 comments: true

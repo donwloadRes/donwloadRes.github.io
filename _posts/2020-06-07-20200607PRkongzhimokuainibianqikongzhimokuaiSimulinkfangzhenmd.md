@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PR控制模块（逆变器控制模块）+ Simulink仿真"
+title: "PR控制模块逆变器控制模块 Simulink仿真"
 date:   2022-11-01
 tags: [Simulink,PR,仿真,逆变器,模块]
 comments: true

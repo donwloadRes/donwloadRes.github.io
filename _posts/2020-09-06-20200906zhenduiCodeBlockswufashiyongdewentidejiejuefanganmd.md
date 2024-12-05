@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "针对Code::Blocks无法使用的问题的解决方案"
+title: "针对CodeBlocks无法使用的问题的解决方案"
 date:   2021-05-06
 tags: [编译器,MinGW,Code,Blocks,GCC]
 comments: true

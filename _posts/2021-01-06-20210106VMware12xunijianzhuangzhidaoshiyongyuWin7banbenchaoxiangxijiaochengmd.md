@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware12虚拟机安装指导（适用于Win7版本超详细教程）"
+title: "VMware12虚拟机安装指导适用于Win7版本超详细教程"
 date:   2023-10-20
 tags: [安装,虚拟机,VMware,VMware12,Workstation]
 comments: true

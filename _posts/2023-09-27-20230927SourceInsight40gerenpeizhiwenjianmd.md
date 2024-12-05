@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SourceInsight4.0 个人配置文件"
+title: "SourceInsight40 个人配置文件"
 date:   2021-07-30
 tags: [配置文件,SourceInsight4.0,字体,编程,C++]
 comments: true

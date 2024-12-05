@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenDDS示例程序：注释清晰的入门指南"
+title: "OpenDDS示例程序注释清晰的入门指南"
 date:   2024-07-16
 tags: [OpenDDS,示例,仓库,程序,学习]
 comments: true

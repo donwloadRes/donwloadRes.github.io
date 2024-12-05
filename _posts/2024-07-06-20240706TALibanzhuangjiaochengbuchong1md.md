@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TA-Lib 安装教程补充1"
+title: "TALib 安装教程补充1"
 date:   2023-08-23
 tags: [TA,Lib,whl,安装,下载]
 comments: true

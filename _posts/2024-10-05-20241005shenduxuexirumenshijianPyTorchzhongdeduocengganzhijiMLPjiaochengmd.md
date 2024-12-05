@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习入门实践：PyTorch中的多层感知机(MLP)教程"
+title: "深度学习入门实践PyTorch中的多层感知机MLP教程"
 date:   2023-10-02
 tags: [MLP,PyTorch,教程,感知机,深度]
 comments: true

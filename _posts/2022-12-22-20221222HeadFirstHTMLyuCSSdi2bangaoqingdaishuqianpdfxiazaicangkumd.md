@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First HTML与CSS 第2版【高清】带书签pdf 下载仓库"
+title: "Head First HTML与CSS 第2版高清带书签pdf 下载仓库"
 date:   2022-01-28
 tags: [CSS,书签,HTML,高清,文件]
 comments: true

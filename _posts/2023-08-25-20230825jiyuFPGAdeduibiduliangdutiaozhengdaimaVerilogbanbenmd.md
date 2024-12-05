@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的对比度&亮度调整代码-Verilog版本"
+title: "基于FPGA的对比度亮度调整代码Verilog版本"
 date:   2020-09-01
 tags: [txt,仿真,FPGA,对比度,Verilog]
 comments: true

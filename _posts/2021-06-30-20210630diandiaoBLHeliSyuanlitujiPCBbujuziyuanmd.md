@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电调BLHeli_S原理图及PCB布局资源"
+title: "电调BLHeliS原理图及PCB布局资源"
 date:   2020-02-05
 tags: [PCB,原理图,电调,布局,BLHeli]
 comments: true

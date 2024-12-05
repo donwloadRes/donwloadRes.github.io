@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "再见极域-解控软件"
+title: "再见极域解控软件"
 date:   2020-10-30
 tags: [极域,软件,控制,解控,教师]
 comments: true

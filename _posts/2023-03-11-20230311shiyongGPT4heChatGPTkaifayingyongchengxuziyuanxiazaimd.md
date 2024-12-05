@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用GPT-4和ChatGPT开发应用程序资源下载"
+title: "使用GPT4和ChatGPT开发应用程序资源下载"
 date:   2021-11-15
 tags: [GPT,ChatGPT,Chapter,开发者,应用程序]
 comments: true

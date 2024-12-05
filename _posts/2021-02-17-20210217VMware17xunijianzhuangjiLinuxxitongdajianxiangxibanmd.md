@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware17虚拟机安装及Linux系统搭建（详细版）"
+title: "VMware17虚拟机安装及Linux系统搭建详细版"
 date:   2021-05-13
 tags: [VMware17,安装,Linux,虚拟机,搭建]
 comments: true

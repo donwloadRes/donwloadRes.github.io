@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim 10.4 安装指南"
+title: "Modelsim 104 安装指南"
 date:   2020-10-06
 tags: [安装,Modelsim,10.4,dll,LICENSE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文献综述模板(超强整合)"
+title: "文献综述模板超强整合"
 date:   2020-05-10
 tags: [模板,文献,综述,引用,超强]
 comments: true

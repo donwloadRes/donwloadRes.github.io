@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10（Office 2019）下安装MathType 6.9-7.4及冲突问题解决指南"
+title: "Windows 10Office 2019下安装MathType 6974及冲突问题解决指南"
 date:   2022-02-26
 tags: [Office,MathType,6.9,7.4,安装]
 comments: true

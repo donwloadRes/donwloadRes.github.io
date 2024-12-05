@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LinuxDeploy安装Ubuntu 22.04超详细教程及完整网站运行环境打包文件"
+title: "LinuxDeploy安装Ubuntu 2204超详细教程及完整网站运行环境打包文件"
 date:   2022-02-27
 tags: [安装,Ubuntu,LinuxDeploy,22.04,Android]
 comments: true

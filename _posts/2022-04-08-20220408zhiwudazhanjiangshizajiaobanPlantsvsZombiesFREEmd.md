@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸杂交版(Plants vs Zombies FREE)"
+title: "植物大战僵尸杂交版Plants vs Zombies FREE"
 date:   2021-02-28
 tags: [游戏,植物,杂交,僵尸,玩家]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模式识别实验：基于 Fisher 准则线性分类器设计"
+title: "模式识别实验基于 Fisher 准则线性分类器设计"
 date:   2022-12-14
 tags: [分类器,Fisher,实验,线性,准则]
 comments: true

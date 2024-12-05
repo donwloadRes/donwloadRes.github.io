@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARINC 818 实现者指南（有道文档翻译-英译中结果）"
+title: "ARINC 818 实现者指南有道文档翻译英译中结果"
 date:   2023-05-24
 tags: [文件,ARINC,818,文档,翻译]
 comments: true

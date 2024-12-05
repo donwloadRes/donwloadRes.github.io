@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双系统（Win10和Ubuntu）删除Ubuntu指南"
+title: "双系统Win10和Ubuntu删除Ubuntu指南"
 date:   2023-04-30
 tags: [Ubuntu,删除,BIOS,Legacy,EasyUEFI]
 comments: true

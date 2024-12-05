@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的小型超市收银系统设计与实现【附源码】"
+title: "基于Java的小型超市收银系统设计与实现附源码"
 date:   2022-10-13
 tags: [超市,收银,管理,Java,系统]
 comments: true

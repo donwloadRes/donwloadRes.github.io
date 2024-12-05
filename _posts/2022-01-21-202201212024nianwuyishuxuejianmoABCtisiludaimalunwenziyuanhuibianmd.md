@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024年五一数学建模ABC题思路+代码+论文资源汇编"
+title: "2024年五一数学建模ABC题思路代码论文资源汇编"
 date:   2024-10-01
 tags: [思路,建模,论文,代码,ABC]
 comments: true

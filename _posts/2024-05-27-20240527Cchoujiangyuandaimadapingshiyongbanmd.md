@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 抽奖源代码（大屏实用版）"
+title: "C 抽奖源代码大屏实用版"
 date:   2022-04-25
 tags: [源代码,抽奖,代码,C#,大屏幕]
 comments: true

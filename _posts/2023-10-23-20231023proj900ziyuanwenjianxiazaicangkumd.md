@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "proj9.0.0 资源文件下载仓库"
+title: "proj900 资源文件下载仓库"
 date:   2024-09-30
 tags: [proj9.0,编译,源码,proj,文件]
 comments: true

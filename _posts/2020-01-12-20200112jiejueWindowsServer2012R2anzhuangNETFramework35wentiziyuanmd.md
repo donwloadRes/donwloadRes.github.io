@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows Server 2012 R2 安装.NET Framework 3.5问题资源"
+title: "解决Windows Server 2012 R2 安装NET Framework 35问题资源"
 date:   2024-01-29
 tags: [安装,NET,Framework,3.5,Windows]
 comments: true

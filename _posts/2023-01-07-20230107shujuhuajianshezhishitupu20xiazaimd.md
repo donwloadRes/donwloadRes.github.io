@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据化建设知识图谱2.0下载"
+title: "数据化建设知识图谱20下载"
 date:   2023-10-23
 tags: [数据,2.0,图谱,建设,Data200]
 comments: true

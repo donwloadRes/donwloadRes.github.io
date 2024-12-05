@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPU编程与CG语言之阳春白雪下里巴人.pdf 分享"
+title: "GPU编程与CG语言之阳春白雪下里巴人pdf 分享"
 date:   2021-10-17
 tags: [GPU,CG,编程,文件,PDF]
 comments: true

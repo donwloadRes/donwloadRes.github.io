@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX6ULL驱动开发学习：Linux系统烧写指南"
+title: "IMX6ULL驱动开发学习Linux系统烧写指南"
 date:   2020-09-07
 tags: [烧写,开发板,IMX6ULL,SD,Linux]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年最全面、最精简的Wi-Fi密码资源"
+title: "2023年最全面最精简的WiFi密码资源"
 date:   2023-11-22
 tags: [Wi,Fi,密码,资源,2023]
 comments: true

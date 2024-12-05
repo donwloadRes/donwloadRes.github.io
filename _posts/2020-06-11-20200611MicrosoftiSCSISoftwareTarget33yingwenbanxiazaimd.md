@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft iSCSI Software Target 3.3 英文版下载"
+title: "Microsoft iSCSI Software Target 33 英文版下载"
 date:   2020-01-21
 tags: [iSCSI,KB,public,msi,Target]
 comments: true

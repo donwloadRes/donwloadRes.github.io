@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML工具 Astah Professional 8.0 下载指南"
+title: "UML工具 Astah Professional 80 下载指南"
 date:   2023-10-29
 tags: [UML,Astah,Professional,8.0,下载]
 comments: true

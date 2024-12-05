@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD迷你画图17（绿色免安装版）"
+title: "CAD迷你画图17绿色免安装版"
 date:   2024-04-09
 tags: [CAD,迷你,解压,画图,17]
 comments: true

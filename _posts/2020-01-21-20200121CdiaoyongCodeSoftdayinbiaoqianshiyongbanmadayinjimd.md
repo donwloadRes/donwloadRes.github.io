@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用CodeSoft打印标签使用斑马打印机"
+title: "C调用CodeSoft打印标签使用斑马打印机"
 date:   2021-07-26
 tags: [CodeSoft,标签,打印机,斑马,C#]
 comments: true

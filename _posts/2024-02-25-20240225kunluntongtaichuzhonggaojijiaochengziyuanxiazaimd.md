@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通态初、中、高级教程资源下载"
+title: "昆仑通态初中高级教程资源下载"
 date:   2024-09-16
 tags: [教程,通态,下载,高级,昆仑]
 comments: true

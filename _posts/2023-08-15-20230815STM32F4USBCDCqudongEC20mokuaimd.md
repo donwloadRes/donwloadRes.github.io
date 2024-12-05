@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4 USB-CDC驱动EC20模块"
+title: "STM32F4 USBCDC驱动EC20模块"
 date:   2023-03-01
 tags: [USB,EC20,驱动程序,STM32F4,CDC]
 comments: true

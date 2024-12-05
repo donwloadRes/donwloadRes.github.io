@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Scratch 3.0 scratch-hex文件下载失败问题"
+title: "解决Scratch 30 scratchhex文件下载失败问题"
 date:   2021-04-21
 tags: [scratch,文件,hex,npm,下载]
 comments: true

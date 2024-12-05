@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固高控制卡 Demo 程序 - 多轴控制"
+title: "固高控制卡 Demo 程序  多轴控制"
 date:   2020-05-02
 tags: [固高,控制卡,Demo,多轴,控制]
 comments: true

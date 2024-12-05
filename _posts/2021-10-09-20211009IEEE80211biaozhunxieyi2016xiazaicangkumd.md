@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11标准协议-2016 下载仓库"
+title: "IEEE 80211标准协议2016 下载仓库"
 date:   2023-04-06
 tags: [标准协议,IEEE,802.11,下载,文件]
 comments: true

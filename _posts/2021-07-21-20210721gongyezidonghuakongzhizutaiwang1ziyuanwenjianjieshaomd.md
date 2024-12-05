@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业自动化控制-组态王1 资源文件介绍"
+title: "工业自动化控制组态王1 资源文件介绍"
 date:   2023-12-17
 tags: [组态王,软件,自动化,工业,文件]
 comments: true

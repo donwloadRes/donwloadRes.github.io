@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODERN ROBOTICS MECHANICS, PLANNING, AND CONTROL 资源简介"
+title: "MODERN ROBOTICS MECHANICS PLANNING AND CONTROL 资源简介"
 date:   2023-06-02
 tags: [机器人学,机器人,本书,学习,资源]
 comments: true

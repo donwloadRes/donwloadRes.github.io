@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB开发资源库"
+title: "C USB开发资源库"
 date:   2020-10-30
 tags: [C#,CyUSB,USB,示例,开发]
 comments: true

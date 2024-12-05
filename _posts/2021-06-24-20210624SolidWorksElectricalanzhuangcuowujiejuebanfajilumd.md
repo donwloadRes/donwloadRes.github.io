@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SolidWorks Electrical 安装错误解决办法（记录）"
+title: "SolidWorks Electrical 安装错误解决办法记录"
 date:   2022-08-30
 tags: [安装,SolidWorks,Electrical,MSSQL,2014]
 comments: true

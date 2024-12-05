@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS-B 格式文档下载仓库"
+title: "ADSB 格式文档下载仓库"
 date:   2023-04-02
 tags: [文档,ADS,格式,仓库,下载]
 comments: true

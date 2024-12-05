@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOC前端、后端全流程详细设计指南"
+title: "SOC前端后端全流程详细设计指南"
 date:   2023-10-13
 tags: [设计,SOC,流程,Verilog,详细]
 comments: true

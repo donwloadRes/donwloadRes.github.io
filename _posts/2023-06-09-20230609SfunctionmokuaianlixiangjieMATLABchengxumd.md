@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S-function模块案例详解（MATLAB程序）"
+title: "Sfunction模块案例详解MATLAB程序"
 date:   2022-12-19
 tags: [function,MATLAB,模块,蹦极,仿真]
 comments: true

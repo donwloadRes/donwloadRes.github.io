@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft公式编辑器3.1中文版"
+title: "Microsoft公式编辑器31中文版"
 date:   2021-11-21
 tags: [公式,文件,Office,编辑器,编辑]
 comments: true

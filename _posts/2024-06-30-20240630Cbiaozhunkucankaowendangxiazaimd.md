@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++标准库参考文档下载"
+title: "C标准库参考文档下载"
 date:   2021-04-09
 tags: [C++,文档,标准,PDF,参考]
 comments: true

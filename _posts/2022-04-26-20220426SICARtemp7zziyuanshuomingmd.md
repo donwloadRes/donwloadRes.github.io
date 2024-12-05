@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SICAR-temp.7z 资源说明"
+title: "SICARtemp7z 资源说明"
 date:   2020-07-25
 tags: [SICAR,temp.7,资源,文档,自动化]
 comments: true

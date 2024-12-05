@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "警用数字集群（PDT）通信系统总体标准资源下载"
+title: "警用数字集群PDT通信系统总体标准资源下载"
 date:   2022-06-26
 tags: [PDT,系统,警用,通信,下载]
 comments: true

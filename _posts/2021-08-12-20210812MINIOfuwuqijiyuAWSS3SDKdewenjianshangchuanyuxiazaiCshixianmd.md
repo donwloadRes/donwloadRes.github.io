@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MINIO服务器基于AWS S3 SDK的文件上传与下载(C++实现)"
+title: "MINIO服务器基于AWS S3 SDK的文件上传与下载C实现"
 date:   2022-09-16
 tags: [MINIO,C++,文件,上传,S3]
 comments: true

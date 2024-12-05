@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统安装部署Tomcat（超详细操作演示）"
+title: "Linux系统安装部署Tomcat超详细操作演示"
 date:   2020-10-11
 tags: [Tomcat,Linux,安装,JDK,Java]
 comments: true

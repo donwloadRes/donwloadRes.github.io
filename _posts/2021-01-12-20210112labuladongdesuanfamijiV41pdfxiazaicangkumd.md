@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "labuladong的算法秘籍V4.1.pdf 下载仓库"
+title: "labuladong的算法秘籍V41pdf 下载仓库"
 date:   2024-09-09
 tags: [算法,labuladong,秘籍,V4.1,pdf]
 comments: true

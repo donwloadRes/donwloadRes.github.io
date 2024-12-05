@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR for ARM 下载、安装、注册及 STM32 工程搭建指南"
+title: "IAR for ARM 下载安装注册及 STM32 工程搭建指南"
 date:   2023-02-07
 tags: [IAR,ARM,STM32,指南,搭建]
 comments: true

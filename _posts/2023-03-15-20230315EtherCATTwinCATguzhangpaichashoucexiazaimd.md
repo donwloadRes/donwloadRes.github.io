@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT-TwinCAT故障排查手册下载"
+title: "EtherCATTwinCAT故障排查手册下载"
 date:   2023-09-11
 tags: [EtherCAT,手册,故障,排查,TwinCAT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP HANA 数据库 SQL 参考手册（中文版）"
+title: "SAP HANA 数据库 SQL 参考手册中文版"
 date:   2022-10-20
 tags: [SQL,SAP,HANA,数据库,参考手册]
 comments: true

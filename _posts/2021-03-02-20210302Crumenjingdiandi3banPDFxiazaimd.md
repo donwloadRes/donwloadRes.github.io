@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++入门经典(第3版) PDF 下载"
+title: "C入门经典第3版 PDF 下载"
 date:   2022-10-24
 tags: [C++,入门,PDF,本书,下载]
 comments: true

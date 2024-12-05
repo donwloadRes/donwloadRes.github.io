@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.9 安装包及安装教程"
+title: "Python 39 安装包及安装教程"
 date:   2020-12-07
 tags: [Python,安装,3.9,安装包,教程]
 comments: true

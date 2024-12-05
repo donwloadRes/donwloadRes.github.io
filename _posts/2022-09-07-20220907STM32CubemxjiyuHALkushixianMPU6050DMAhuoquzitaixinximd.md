@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32Cubemx：基于HAL库实现MPU6050 DMA获取姿态信息"
+title: "STM32Cubemx基于HAL库实现MPU6050 DMA获取姿态信息"
 date:   2020-12-24
 tags: [STM32Cubemx,MPU6050,代码,HAL,DMA]
 comments: true

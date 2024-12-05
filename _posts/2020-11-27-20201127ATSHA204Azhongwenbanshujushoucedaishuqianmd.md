@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATSHA204A中文版 数据手册（带书签）"
+title: "ATSHA204A中文版 数据手册带书签"
 date:   2021-11-07
 tags: [引脚,密钥,ATSHA204A,报文,书签]
 comments: true

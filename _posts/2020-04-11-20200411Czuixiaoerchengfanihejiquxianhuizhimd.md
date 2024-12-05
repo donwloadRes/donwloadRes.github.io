@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#最小二乘法拟合及曲线绘制"
+title: "C最小二乘法拟合及曲线绘制"
 date:   2020-12-02
 tags: [拟合,List,double,代码,乘法]
 comments: true

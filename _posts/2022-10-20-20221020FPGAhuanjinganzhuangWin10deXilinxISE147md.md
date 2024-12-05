@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA环境安装：Win10的Xilinx ISE14.7"
+title: "FPGA环境安装Win10的Xilinx ISE147"
 date:   2022-08-18
 tags: [安装,ISE14.7,文件,指南,Xilinx]
 comments: true

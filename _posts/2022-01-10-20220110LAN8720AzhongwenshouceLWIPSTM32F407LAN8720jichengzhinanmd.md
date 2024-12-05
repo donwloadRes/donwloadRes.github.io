@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LAN8720A中文手册 - LWIP STM32F407+LAN8720集成指南"
+title: "LAN8720A中文手册  LWIP STM32F407LAN8720集成指南"
 date:   2020-05-03
 tags: [LAN8720A,STM32F407,以太网,LWIP,嵌入式]
 comments: true

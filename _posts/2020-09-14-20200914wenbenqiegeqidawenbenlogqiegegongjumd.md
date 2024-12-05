@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文本切割器 - 大文本(.log)切割工具"
+title: "文本切割器  大文本log切割工具"
 date:   2024-06-29
 tags: [切割,log,文件,100,文件格式]
 comments: true

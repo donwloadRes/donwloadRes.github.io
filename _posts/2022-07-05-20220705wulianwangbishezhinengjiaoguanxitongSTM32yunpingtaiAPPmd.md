@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 智能浇灌系统（STM32+云平台+APP）"
+title: "物联网毕设  智能浇灌系统STM32云平台APP"
 date:   2020-06-10
 tags: [APP,MQTT,设备,浇灌,自动]
 comments: true

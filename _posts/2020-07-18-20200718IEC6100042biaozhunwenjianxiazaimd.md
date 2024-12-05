@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61000-4-2 标准文件下载"
+title: "IEC 6100042 标准文件下载"
 date:   2020-09-19
 tags: [IEC61000,文件,标准,IEC,电磁兼容]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现SM2算法 - sm2.zip"
+title: "C语言实现SM2算法  sm2zip"
 date:   2021-04-24
 tags: [sm2,zip,编译,C语言,文件]
 comments: true

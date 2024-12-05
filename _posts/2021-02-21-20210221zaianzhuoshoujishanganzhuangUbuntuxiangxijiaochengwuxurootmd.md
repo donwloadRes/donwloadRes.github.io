@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在安卓手机上安装Ubuntu详细教程(无需root)"
+title: "在安卓手机上安装Ubuntu详细教程无需root"
 date:   2022-11-30
 tags: [Ubuntu,Termux,教程,安装,机上安装]
 comments: true

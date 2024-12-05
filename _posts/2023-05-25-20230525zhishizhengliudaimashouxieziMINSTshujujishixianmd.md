@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知识蒸馏代码（手写字MINST数据集实现）"
+title: "知识蒸馏代码手写字MINST数据集实现"
 date:   2020-03-07
 tags: [蒸馏,代码,知识,模型,实验]
 comments: true

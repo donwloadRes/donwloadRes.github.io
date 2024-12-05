@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora下载、安装及使用指南"
+title: "Typora下载安装及使用指南"
 date:   2023-11-02
 tags: [Typora,下载,安装,Markdown,使用指南]
 comments: true

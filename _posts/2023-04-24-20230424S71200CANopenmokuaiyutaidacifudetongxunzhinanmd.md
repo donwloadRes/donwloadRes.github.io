@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 CANopen模块与台达伺服的通讯指南"
+title: "S71200 CANopen模块与台达伺服的通讯指南"
 date:   2023-11-18
 tags: [伺服,CANopen,S7,台达,PLC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联ZYNQ SOC修炼秘籍》网手版20170510(已更1183页未完)"
+title: "米联ZYNQ SOC修炼秘籍网手版20170510已更1183页未完"
 date:   2024-05-28
 tags: [ZYNQ,SOC,1183,米联,手版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外飞机小目标数据集_data2"
+title: "红外飞机小目标数据集data2"
 date:   2020-03-13
 tags: [数据,data2,飞机,红外,标注]
 comments: true

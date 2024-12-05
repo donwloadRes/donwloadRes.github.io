@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenWrt安装闪讯(NetKeeper)插件指南"
+title: "OpenWrt安装闪讯NetKeeper插件指南"
 date:   2022-02-24
 tags: [插件,NetKeeper,OpenWrt,闪讯,安装]
 comments: true

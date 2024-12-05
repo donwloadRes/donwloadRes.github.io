@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-WROOM-32E_DevKitC 开发资料下载"
+title: "ESP32WROOM32EDevKitC 开发资料下载"
 date:   2023-08-17
 tags: [ESP32,开发板,开发者,DevKitC,硬件]
 comments: true

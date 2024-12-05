@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaggle实战：Pytorch实现房价预测"
+title: "Kaggle实战Pytorch实现房价预测"
 date:   2020-03-01
 tags: [模型,训练,Pytorch,文件,构建]
 comments: true

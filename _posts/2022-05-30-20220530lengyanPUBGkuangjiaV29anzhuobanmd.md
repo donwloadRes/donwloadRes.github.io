@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "冷颜PUBG框架V2.9安卓版"
+title: "冷颜PUBG框架V29安卓版"
 date:   2021-06-27
 tags: [PUBG,冷颜,V2.9,框架,游戏]
 comments: true

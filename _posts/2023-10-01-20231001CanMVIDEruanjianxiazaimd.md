@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CanMV-IDE软件下载"
+title: "CanMVIDE软件下载"
 date:   2022-03-07
 tags: [CanMV,IDE,软件,图形,识别]
 comments: true

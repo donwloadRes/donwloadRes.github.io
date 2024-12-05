@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMBA总线规范（解密版）下载仓库"
+title: "AMBA总线规范解密版下载仓库"
 date:   2021-04-21
 tags: [AMBA,总线,规范,文件,解密版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刘金琨智能控制》第4版 MATLAB仿真程序"
+title: "刘金琨智能控制第4版 MATLAB仿真程序"
 date:   2021-11-26
 tags: [MATLAB,智能,仿真,程序,教材]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派系统镜像：Python 3.7 + TensorFlow + Keras + OpenCV + 显示屏驱动"
+title: "树莓派系统镜像Python 37  TensorFlow  Keras  OpenCV  显示屏驱动"
 date:   2022-04-01
 tags: [树莓,镜像,Python,3.7,TensorFlow]
 comments: true

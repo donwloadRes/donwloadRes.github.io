@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinHex 19.8 注册版下载"
+title: "WinHex 198 注册版下载"
 date:   2022-04-15
 tags: [下载,WinHex,19.8,注册版,支持]
 comments: true

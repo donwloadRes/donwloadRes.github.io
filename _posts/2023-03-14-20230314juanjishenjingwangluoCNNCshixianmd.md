@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卷积神经网络 (CNN) C++ 实现"
+title: "卷积神经网络 CNN C 实现"
 date:   2020-06-10
 tags: [C++,MNIST,代码,数据,卷积]
 comments: true

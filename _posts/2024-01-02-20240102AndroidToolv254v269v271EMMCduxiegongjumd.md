@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AndroidTool v2.54-v2.69-v2.71 + EMMC读写工具"
+title: "AndroidTool v254v269v271  EMMC读写工具"
 date:   2021-01-09
 tags: [EMMC,安卓,读写,v2.69,v2.71]
 comments: true

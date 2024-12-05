@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DataGridView 数据源绑定后的数据操作指南"
+title: "C DataGridView 数据源绑定后的数据操作指南"
 date:   2022-12-07
 tags: [数据源,DataGridView,绑定,数据,C#]
 comments: true

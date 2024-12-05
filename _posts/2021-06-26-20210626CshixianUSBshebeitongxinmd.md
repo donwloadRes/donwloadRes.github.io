@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现USB设备通信"
+title: "C实现USB设备通信"
 date:   2020-07-13
 tags: [USB,设备,dll,读写操作,Visual]
 comments: true

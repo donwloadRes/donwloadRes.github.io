@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "好看的WPF自定义按钮样式（绝对不亏）"
+title: "好看的WPF自定义按钮样式绝对不亏"
 date:   2021-09-11
 tags: [按钮,样式,WPF,自定义,预览]
 comments: true

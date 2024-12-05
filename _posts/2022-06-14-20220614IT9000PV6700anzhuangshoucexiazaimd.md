@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT9000-PV6700 安装手册下载"
+title: "IT9000PV6700 安装手册下载"
 date:   2023-12-31
 tags: [IT9000,PV6700,手册,安装,设备]
 comments: true

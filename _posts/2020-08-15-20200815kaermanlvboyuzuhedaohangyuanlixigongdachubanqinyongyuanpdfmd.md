@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卡尔曼滤波与组合导航原理[西工大出版秦永元].pdf"
+title: "卡尔曼滤波与组合导航原理西工大出版秦永元pdf"
 date:   2020-03-05
 tags: [卡尔曼滤波,导航,永元,应用,组合]
 comments: true

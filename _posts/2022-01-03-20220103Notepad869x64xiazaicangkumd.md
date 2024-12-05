@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 8.6.9 x64 下载仓库"
+title: "Notepad 869 x64 下载仓库"
 date:   2021-02-24
 tags: [++,Notepad,8.6,x64,64]
 comments: true

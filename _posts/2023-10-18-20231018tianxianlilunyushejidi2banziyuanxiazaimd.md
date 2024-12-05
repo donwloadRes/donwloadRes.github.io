@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线理论与设计（第2版）资源下载"
+title: "天线理论与设计第2版资源下载"
 date:   2024-03-25
 tags: [天线,资源,下载,设计,理论]
 comments: true

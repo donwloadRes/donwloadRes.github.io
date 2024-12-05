@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 4.0 规范文档下载"
+title: "PCI Express 40 规范文档下载"
 date:   2023-05-21
 tags: [文档,PCI,Express,PDF,4.0]
 comments: true

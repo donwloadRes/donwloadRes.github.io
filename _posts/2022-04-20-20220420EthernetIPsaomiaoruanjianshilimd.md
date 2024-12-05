@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethernet-IP 扫描软件示例"
+title: "EthernetIP 扫描软件示例"
 date:   2021-03-04
 tags: [Ethernet,IP,文件,软件,EthernetIP]
 comments: true

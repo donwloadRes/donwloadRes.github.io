@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruby 安装包 - rubyinstaller-devkit-3.0.2-1-x64.zip"
+title: "Ruby 安装包  rubyinstallerdevkit3021x64zip"
 date:   2024-08-07
 tags: [Ruby,安装包,安装,devkit,3.0]
 comments: true

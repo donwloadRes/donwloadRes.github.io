@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10 64位 最佳缩略图补丁：全面支持PSD、EPS、AI、TIF、TGA等格式"
+title: "WIN10 64位 最佳缩略图补丁全面支持PSDEPSAITIFTGA等格式"
 date:   2021-03-27
 tags: [缩略图,补丁,Windows,点击,文件]
 comments: true

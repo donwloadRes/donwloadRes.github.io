@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 MPU6050数据读取（经过卡尔曼滤波）"
+title: "STM32F103C8T6 MPU6050数据读取经过卡尔曼滤波"
 date:   2021-10-04
 tags: [MPU6050,卡尔曼滤波,串口,STM32F103C8T6,读取]
 comments: true

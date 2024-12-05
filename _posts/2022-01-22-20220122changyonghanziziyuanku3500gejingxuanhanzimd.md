@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用汉字资源库：3500个精选汉字"
+title: "常用汉字资源库3500个精选汉字"
 date:   2023-10-17
 tags: [汉字,常用,资源库,txt,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner16.5 中文教程 - 数据库模型操作教程详解"
+title: "PowerDesigner165 中文教程  数据库模型操作教程详解"
 date:   2023-09-01
 tags: [数据库,模型,教程,数据模型,PowerDesigner]
 comments: true

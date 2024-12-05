@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何创建新的虚拟机并安装Linux系统（一步到位，附ISO映像文件）"
+title: "如何创建新的虚拟机并安装Linux系统一步到位附ISO映像文件"
 date:   2023-09-08
 tags: [虚拟机,Linux,安装,ISO,映像]
 comments: true

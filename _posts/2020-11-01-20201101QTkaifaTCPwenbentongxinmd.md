@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT开发：TCP文本通信"
+title: "QT开发TCP文本通信"
 date:   2022-05-14
 tags: [TCP,QT,文本,客户端,服务器]
 comments: true

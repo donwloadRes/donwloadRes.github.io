@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open3D测试数据集（免费）"
+title: "Open3D测试数据集免费"
 date:   2022-12-25
 tags: [Open3D,3D,数据,测试数据,场景]
 comments: true

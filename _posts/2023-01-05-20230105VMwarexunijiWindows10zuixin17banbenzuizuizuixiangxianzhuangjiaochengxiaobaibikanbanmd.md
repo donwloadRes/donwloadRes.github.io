@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机（Windows 10）最新(17版本）最最最详细安装教程（小白必看版！）"
+title: "VMware虚拟机Windows 10最新17版本最最最详细安装教程小白必看版"
 date:   2020-02-16
 tags: [虚拟机,VMware,安装,Windows,10]
 comments: true

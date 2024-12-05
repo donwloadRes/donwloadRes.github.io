@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "httpd 2.4.57 所有RPM包资源"
+title: "httpd 2457 所有RPM包资源"
 date:   2022-07-10
 tags: [httpd,RPM,57,2.4,Linux]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF文件显示工具(MFC)"
+title: "DXF文件显示工具MFC"
 date:   2022-12-22
 tags: [DXF,文件,加载,MFC,程序]
 comments: true

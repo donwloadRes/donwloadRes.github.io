@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ修炼秘籍_第八季GTX光通信_千兆万兆网通信"
+title: "ZYNQ修炼秘籍第八季GTX光通信千兆万兆网通信"
 date:   2021-01-26
 tags: [GTX,通信,千兆,光通信,以太网]
 comments: true

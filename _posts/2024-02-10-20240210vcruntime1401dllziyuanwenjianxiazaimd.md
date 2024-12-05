@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vcruntime140_1.dll 资源文件下载"
+title: "vcruntime1401dll 资源文件下载"
 date:   2024-08-23
 tags: [vcruntime140,dll,文件,下载,1.7]
 comments: true

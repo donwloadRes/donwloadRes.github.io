@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32开发板原理图ESP-WROVER-KIT"
+title: "ESP32开发板原理图ESPWROVERKIT"
 date:   2024-02-27
 tags: [原理图,ESP32,开发板,ESP,WROVER]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏发电量预测：XGBoost+LightGBM+LSTM"
+title: "光伏发电量预测XGBoostLightGBMLSTM"
 date:   2021-04-26
 tags: [模型,光伏,发电量,XGBoost,LightGBM]
 comments: true

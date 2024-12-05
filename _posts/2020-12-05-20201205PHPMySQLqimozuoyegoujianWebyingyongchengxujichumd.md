@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP + MySQL 期末作业：构建 Web 应用程序基础"
+title: "PHP  MySQL 期末作业构建 Web 应用程序基础"
 date:   2020-05-01
 tags: [MySQL,PHP,数据库,Web,作业]
 comments: true

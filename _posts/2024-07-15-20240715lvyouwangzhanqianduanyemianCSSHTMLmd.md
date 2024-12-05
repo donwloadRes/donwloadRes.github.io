@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "旅游网站前端页面（CSS + HTML）"
+title: "旅游网站前端页面CSS  HTML"
 date:   2023-05-22
 tags: [页面,前端,旅游,CSS,HTML]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限差分法Matlab程序(椭圆型方程)"
+title: "有限差分法Matlab程序椭圆型方程"
 date:   2021-01-08
 tags: [Matlab,差分法,椭圆型,代码,方程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机开发实战指南"
+title: "C上位机开发实战指南"
 date:   2024-11-01
 tags: [C#,串口,上位,实战,开发]
 comments: true

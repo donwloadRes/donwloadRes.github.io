@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虎书(现代编译原理)课后习题答案"
+title: "虎书现代编译原理课后习题答案"
 date:   2020-11-11
 tags: [课后,习题,虎书,答案,编译]
 comments: true

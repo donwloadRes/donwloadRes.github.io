@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMWare下载安装指南（Windows和Mac）"
+title: "VMWare下载安装指南Windows和Mac"
 date:   2022-05-29
 tags: [下载,VMWare,安装,Windows,Mac]
 comments: true

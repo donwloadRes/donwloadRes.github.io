@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F103学习笔记（3）——新建工程"
+title: "GD32F103学习笔记3新建工程"
 date:   2022-05-08
 tags: [工程,GD32F103,新建,仿真器,文件]
 comments: true

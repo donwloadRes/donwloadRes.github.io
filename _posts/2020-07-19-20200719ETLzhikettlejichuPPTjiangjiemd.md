@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETL之kettle基础-PPT讲解"
+title: "ETL之kettle基础PPT讲解"
 date:   2021-12-07
 tags: [kettle,ETL,学习,资源,PPT]
 comments: true

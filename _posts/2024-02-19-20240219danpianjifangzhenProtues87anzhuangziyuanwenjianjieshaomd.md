@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机仿真--Protues 8.7安装资源文件介绍"
+title: "单片机仿真Protues 87安装资源文件介绍"
 date:   2020-12-04
 tags: [Protues,8.7,安装,单片机,仿真]
 comments: true

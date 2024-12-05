@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CGH40010F_Cree.pdf 资源介绍"
+title: "CGH40010FCreepdf 资源介绍"
 date:   2023-10-22
 tags: [Cree,CGH40010F,文档,pdf,应用]
 comments: true

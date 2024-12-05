@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "echarts离线百度地图+demo（演示）+步骤文档"
+title: "echarts离线百度地图demo演示步骤文档"
 date:   2020-09-20
 tags: [地图,离线,echarts,百度,文档]
 comments: true

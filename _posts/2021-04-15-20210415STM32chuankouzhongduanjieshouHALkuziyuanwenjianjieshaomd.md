@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口中断接收（HAL库）资源文件介绍"
+title: "STM32串口中断接收HAL库资源文件介绍"
 date:   2023-02-26
 tags: [串口,STM32,通信协议,HAL,包尾]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉之模板匹配（旋转和缩放）"
+title: "机器视觉之模板匹配旋转和缩放"
 date:   2021-12-08
 tags: [模板,匹配,缩放,视觉,图像]
 comments: true

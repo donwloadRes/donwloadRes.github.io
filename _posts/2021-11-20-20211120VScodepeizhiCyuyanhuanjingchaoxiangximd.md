@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VScode配置C语言环境（超详细）"
+title: "VScode配置C语言环境超详细"
 date:   2022-06-05
 tags: [C语言,VScode,配置,插件,VS]
 comments: true

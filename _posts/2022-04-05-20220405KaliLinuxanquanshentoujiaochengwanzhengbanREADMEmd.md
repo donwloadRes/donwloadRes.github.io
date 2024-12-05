@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kali Linux安全渗透教程（完整版）README"
+title: "Kali Linux安全渗透教程完整版README"
 date:   2022-04-08
 tags: [Kali,教程,渗透,安全,Linux]
 comments: true

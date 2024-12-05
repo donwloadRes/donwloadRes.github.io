@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开放充电协议标准-OCPP协议1.6-2.0"
+title: "开放充电协议标准OCPP协议1620"
 date:   2023-09-01
 tags: [充电,OCPP,1.6,2.0,协议]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103硬件SPI控制6针-7针0.96寸OLED显示屏"
+title: "STM32F103硬件SPI控制6针7针096寸OLED显示屏"
 date:   2020-05-19
 tags: [OLED,SPI,显示屏,STM32F103,驱动程序]
 comments: true

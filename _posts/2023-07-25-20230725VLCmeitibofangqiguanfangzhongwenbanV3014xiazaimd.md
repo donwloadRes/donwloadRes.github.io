@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VLC媒体播放器官方中文版V3.0.14下载"
+title: "VLC媒体播放器官方中文版V3014下载"
 date:   2022-03-21
 tags: [VLC,media,player,播放,V3.0]
 comments: true

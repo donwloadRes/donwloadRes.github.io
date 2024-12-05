@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA中pom.xml文件资源下载"
+title: "IDEA中pomxml文件资源下载"
 date:   2021-02-09
 tags: [pom,xml,文件,IDEA,Maven]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁兼容原理、技术及应用课件下载"
+title: "电磁兼容原理技术及应用课件下载"
 date:   2023-09-09
 tags: [电磁兼容,技术,应用,课件,电磁干扰]
 comments: true

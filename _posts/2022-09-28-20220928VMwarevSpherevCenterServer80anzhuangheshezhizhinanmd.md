@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere-vCenter Server 8.0 安装和设置指南"
+title: "VMware vSpherevCenter Server 80 安装和设置指南"
 date:   2020-06-24
 tags: [vSphere,vCenter,Server,指南,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sora资料包（Prompt和底层原理）"
+title: "Sora资料包Prompt和底层原理"
 date:   2024-01-05
 tags: [Sora,视频,模型,生成,文本]
 comments: true

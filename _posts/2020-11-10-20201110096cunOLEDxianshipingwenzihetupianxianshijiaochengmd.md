@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸OLED显示屏文字和图片显示教程"
+title: "096寸OLED显示屏文字和图片显示教程"
 date:   2023-03-20
 tags: [OLED,取模,图片,文字,显示]
 comments: true

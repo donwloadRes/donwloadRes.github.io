@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持向量机（SVM）多分类算法实现"
+title: "支持向量机SVM多分类算法实现"
 date:   2020-06-13
 tags: [SVM,工具箱,代码,libsvm,算法]
 comments: true

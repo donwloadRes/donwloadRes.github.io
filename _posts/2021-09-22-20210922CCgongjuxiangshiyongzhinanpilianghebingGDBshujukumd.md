@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：批量合并GDB数据库"
+title: "CC工具箱使用指南批量合并GDB数据库"
 date:   2020-12-24
 tags: [GDB,合并,数据库,文件夹,CC]
 comments: true

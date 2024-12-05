@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++无检测内核注入纯源码"
+title: "C无检测内核注入纯源码"
 date:   2021-01-28
 tags: [源码,内核,C++,注入,文件]
 comments: true

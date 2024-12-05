@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QR_Research 二维码扫描工具介绍"
+title: "QRResearch 二维码扫描工具介绍"
 date:   2020-08-19
 tags: [二维码,QR,Research,扫描,抓取]
 comments: true

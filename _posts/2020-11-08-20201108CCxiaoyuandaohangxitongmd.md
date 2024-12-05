@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++校园导航系统"
+title: "CC校园导航系统"
 date:   2023-03-24
 tags: [校园,C++,路径,算法,数据结构]
 comments: true

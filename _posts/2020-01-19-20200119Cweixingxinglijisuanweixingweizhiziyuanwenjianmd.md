@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 卫星星历计算卫星位置资源文件"
+title: "C 卫星星历计算卫星位置资源文件"
 date:   2021-05-01
 tags: [星历,文件,C#,卫星,计算]
 comments: true

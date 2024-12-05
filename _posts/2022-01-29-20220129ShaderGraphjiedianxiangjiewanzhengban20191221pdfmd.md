@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ShaderGraph节点详解完整版20191221.pdf"
+title: "ShaderGraph节点详解完整版20191221pdf"
 date:   2023-10-16
 tags: [Unity,节点,Shader,Graph,完整版]
 comments: true

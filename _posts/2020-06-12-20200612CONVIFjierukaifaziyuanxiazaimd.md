@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ONVIF接入开发资源下载"
+title: "C ONVIF接入开发资源下载"
 date:   2024-03-03
 tags: [ONVIF,C#,开发,接入,文档]
 comments: true

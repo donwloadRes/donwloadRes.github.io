@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA权威设计指南：Vivado 2014集成开发环境资源下载"
+title: "Xilinx FPGA权威设计指南Vivado 2014集成开发环境资源下载"
 date:   2022-03-03
 tags: [FPGA,Vivado,2014,Xilinx,下载]
 comments: true

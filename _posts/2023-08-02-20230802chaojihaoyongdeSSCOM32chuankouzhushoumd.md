@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级好用的SSCOM3.2串口助手"
+title: "超级好用的SSCOM32串口助手"
 date:   2024-01-09
 tags: [串口,SSCOM3.2,NB,调试,好用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TRINAMIC运动控制产品操作软件TMCL-IDE下载"
+title: "TRINAMIC运动控制产品操作软件TMCLIDE下载"
 date:   2022-09-04
 tags: [TMCL,IDE,TRINAMIC,软件,运动]
 comments: true

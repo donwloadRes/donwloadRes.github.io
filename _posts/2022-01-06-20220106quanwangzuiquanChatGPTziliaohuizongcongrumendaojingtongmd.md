@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全ChatGPT资料汇总：从入门到精通"
+title: "全网最全ChatGPT资料汇总从入门到精通"
 date:   2024-02-11
 tags: [ChatGPT,问题解答,最全,案例,基础知识]
 comments: true

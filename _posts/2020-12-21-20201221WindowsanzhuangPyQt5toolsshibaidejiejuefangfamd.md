@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows安装PyQt5-tools失败的解决方法"
+title: "Windows安装PyQt5tools失败的解决方法"
 date:   2021-09-24
 tags: [tools,PyQt5,安装,pip,pyqt5]
 comments: true

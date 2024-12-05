@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言》第3版 王爽著 高清资源下载"
+title: "汇编语言第3版 王爽著 高清资源下载"
 date:   2021-11-02
 tags: [汇编语言,读者,学习,深入,高清]
 comments: true

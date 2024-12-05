@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为思科-单臂路由+多臂路由实验（EVE+eNSP）"
+title: "华为思科单臂路由多臂路由实验EVEeNSP"
 date:   2020-07-04
 tags: [路由,VLAN,接口,配置,路由器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC-IEEE 15288-2015 系统与软件工程 - 系统生命周期过程 [高清版]"
+title: "ISOIECIEEE 152882015 系统与软件工程  系统生命周期过程 高清版"
 date:   2022-06-27
 tags: [ISO,IEC,IEEE,2015,15288]
 comments: true

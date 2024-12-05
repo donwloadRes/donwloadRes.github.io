@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车编程-Tasking for TriCore 安装官方正版教程"
+title: "汽车编程Tasking for TriCore 安装官方正版教程"
 date:   2023-02-14
 tags: [安装,TriCore,Tasking,编程,文档]
 comments: true

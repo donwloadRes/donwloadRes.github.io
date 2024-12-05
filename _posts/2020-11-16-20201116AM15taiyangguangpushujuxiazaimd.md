@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AM1.5太阳光谱数据下载"
+title: "AM15太阳光谱数据下载"
 date:   2020-08-05
 tags: [AM1.5,光谱,文件,太阳,下载]
 comments: true

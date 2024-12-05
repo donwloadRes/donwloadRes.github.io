@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSI 9217-8i IR模式刷成IT模式教程"
+title: "LSI 92178i IR模式刷成IT模式教程"
 date:   2021-04-29
 tags: [模式,文档,刷写,刷成,教程]
 comments: true

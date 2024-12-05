@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小熵反褶积（MED）Matlab工具包"
+title: "最小熵反褶积MEDMatlab工具包"
 date:   2024-03-10
 tags: [信号,MATLAB,最小,反褶积,工具包]
 comments: true

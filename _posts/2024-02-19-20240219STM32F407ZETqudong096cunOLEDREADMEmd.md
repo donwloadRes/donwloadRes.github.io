@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZET驱动0.96寸OLED README"
+title: "STM32F407ZET驱动096寸OLED README"
 date:   2021-08-31
 tags: [OLED,I2C,显示屏,0.96,STM32F407]
 comments: true

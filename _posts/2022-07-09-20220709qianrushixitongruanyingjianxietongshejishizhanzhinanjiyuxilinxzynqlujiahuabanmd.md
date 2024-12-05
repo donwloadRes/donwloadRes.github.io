@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统软硬件协同设计实战指南_基于xilinx_zynq_陆佳华版"
+title: "嵌入式系统软硬件协同设计实战指南基于xilinxzynq陆佳华版"
 date:   2020-02-29
 tags: [嵌入式,软硬件,协同,xilinx,zynq]
 comments: true

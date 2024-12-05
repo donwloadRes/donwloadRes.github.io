@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阵列信号处理中DOA算法分类总结(大全)"
+title: "阵列信号处理中DOA算法分类总结大全"
 date:   2020-03-23
 tags: [算法,DOA,信号处理,阵列,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对APK进行解包和二次打包（Android）"
+title: "对APK进行解包和二次打包Android"
 date:   2023-12-23
 tags: [APK,打包,解包,签名,Android]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BQ40Z50通讯正常-基于STM32F0代码库"
+title: "BQ40Z50通讯正常基于STM32F0代码库"
 date:   2021-06-07
 tags: [BQ40Z50,代码,STM32F0,SMBUS,芯片]
 comments: true

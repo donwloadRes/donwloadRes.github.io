@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC测试工具 - 使用C#实现三菱PLC读写"
+title: "PLC测试工具  使用C实现三菱PLC读写"
 date:   2023-11-05
 tags: [PLC,C#,三菱,PLCtest.7,开发者]
 comments: true

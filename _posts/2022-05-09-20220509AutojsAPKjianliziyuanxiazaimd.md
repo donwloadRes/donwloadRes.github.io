@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Auto.js APK 及案例资源下载"
+title: "Autojs APK 及案例资源下载"
 date:   2022-02-16
 tags: [Auto,js,脚本,案例,编写]
 comments: true

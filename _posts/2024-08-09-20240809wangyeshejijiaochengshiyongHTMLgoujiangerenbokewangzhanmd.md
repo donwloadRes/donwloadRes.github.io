@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页设计教程：使用 HTML 构建个人博客网站"
+title: "网页设计教程使用 HTML 构建个人博客网站"
 date:   2024-03-08
 tags: [HTML,博客,网站,CSS,md]
 comments: true

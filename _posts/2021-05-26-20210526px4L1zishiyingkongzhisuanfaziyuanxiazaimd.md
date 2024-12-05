@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "px4-L1自适应控制算法资源下载"
+title: "px4L1自适应控制算法资源下载"
 date:   2021-08-12
 tags: [控制算法,L1,适应,算法,APM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HexView for Windows - 强大的十六进制文件查看器"
+title: "HexView for Windows  强大的十六进制文件查看器"
 date:   2020-11-15
 tags: [十六进制,文件,HexView,Windows,查看器]
 comments: true

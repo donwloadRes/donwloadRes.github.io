@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TPC-ZK-II集成开发环境资源下载"
+title: "TPCZKII集成开发环境资源下载"
 date:   2020-10-20
 tags: [USB,接口,TPC,ZK,II]
 comments: true

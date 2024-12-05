@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StarCCM+ 官方案例及中英文帮助文档"
+title: "StarCCM 官方案例及中英文帮助文档"
 date:   2022-11-08
 tags: [StarCCM,案例,文档,帮助,教程]
 comments: true

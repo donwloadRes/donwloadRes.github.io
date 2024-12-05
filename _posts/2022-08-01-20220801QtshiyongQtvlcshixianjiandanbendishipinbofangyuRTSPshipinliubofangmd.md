@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt使用Qt_vlc实现简单本地视频播放与RTSP视频流播放"
+title: "Qt使用Qtvlc实现简单本地视频播放与RTSP视频流播放"
 date:   2020-04-02
 tags: [Qt,播放,Vlc,RTSP,编译]
 comments: true

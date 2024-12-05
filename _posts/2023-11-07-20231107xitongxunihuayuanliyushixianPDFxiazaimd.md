@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统虚拟化：原理与实现 PDF 下载"
+title: "系统虚拟化原理与实现 PDF 下载"
 date:   2023-12-11
 tags: [虚拟化,PDF,原理,文件,系统]
 comments: true

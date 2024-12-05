@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32及HAL库的MAX30102模块使用指南+OLED显示"
+title: "基于STM32及HAL库的MAX30102模块使用指南OLED显示"
 date:   2020-12-26
 tags: [OLED,STM32,MAX30102,HAL,传感器]
 comments: true

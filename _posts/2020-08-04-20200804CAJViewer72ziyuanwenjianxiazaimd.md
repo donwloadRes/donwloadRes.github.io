@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAJViewer 7.2 资源文件下载"
+title: "CAJViewer 72 资源文件下载"
 date:   2022-01-14
 tags: [CAJViewer,7.2,CAJViewer7.2,文件,self]
 comments: true

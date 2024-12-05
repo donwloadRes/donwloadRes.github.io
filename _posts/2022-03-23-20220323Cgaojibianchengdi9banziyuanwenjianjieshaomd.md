@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高级编程(第9版) 资源文件介绍"
+title: "C高级编程第9版 资源文件介绍"
 date:   2024-05-15
 tags: [编程,C#,文件,示例,资源]
 comments: true

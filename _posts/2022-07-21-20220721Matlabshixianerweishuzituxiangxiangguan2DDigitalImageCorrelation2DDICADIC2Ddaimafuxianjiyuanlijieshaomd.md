@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现二维数字图像相关（2D Digital Image Correlation, 2D-DIC）【ADIC2D代码复现及原理介绍】"
+title: "Matlab实现二维数字图像相关2D Digital Image Correlation 2DDICADIC2D代码复现及原理介绍"
 date:   2020-01-06
 tags: [DIC,2D,Matlab,数字图像,Digital]
 comments: true

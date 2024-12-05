@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4系列移植grbl_CNC资源文件"
+title: "STM32F4系列移植grblCNC资源文件"
 date:   2020-08-06
 tags: [CNC,移植,STM32F4,grbl,微控制器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7下载KepServer 6.5根证书补丁"
+title: "Win7下载KepServer 65根证书补丁"
 date:   2020-06-17
 tags: [补丁,KepServer,安装,6.5,证书]
 comments: true

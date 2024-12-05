@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术DC-DC Buck-Boost仿真电路"
+title: "电力电子技术DCDC BuckBoost仿真电路"
 date:   2020-11-09
 tags: [Simulink,仿真,Boost,DC,Buck]
 comments: true

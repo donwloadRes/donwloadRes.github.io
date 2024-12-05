@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费表白代码（包含源码，下载即用）"
+title: "免费表白代码包含源码下载即用"
 date:   2020-01-28
 tags: [代码,表白,源码,下载,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PolSARpro v5.1.3 处理Sentinel-1A SLC数据"
+title: "PolSARpro v513 处理Sentinel1A SLC数据"
 date:   2021-11-09
 tags: [极化,PolSARpro,Sentinel,1A,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL最新版8.0百度云下载指南"
+title: "MySQL最新版80百度云下载指南"
 date:   2020-09-06
 tags: [MySQL,8.0,下载,安装,最新版]
 comments: true

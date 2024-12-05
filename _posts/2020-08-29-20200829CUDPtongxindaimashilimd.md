@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ UDP通信代码示例"
+title: "C UDP通信代码示例"
 date:   2020-12-04
 tags: [UDP,示例,代码,通信,C++]
 comments: true

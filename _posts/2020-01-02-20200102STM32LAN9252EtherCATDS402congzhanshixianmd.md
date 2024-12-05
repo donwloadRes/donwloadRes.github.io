@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 + LAN9252 EtherCAT DS402 从站实现"
+title: "STM32  LAN9252 EtherCAT DS402 从站实现"
 date:   2020-07-01
 tags: [EtherCAT,LAN9252,以太网,STM32,DS402]
 comments: true

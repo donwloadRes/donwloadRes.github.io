@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶 K3 WISE 14.3 安装文件包下载指南"
+title: "金蝶 K3 WISE 143 安装文件包下载指南"
 date:   2020-09-28
 tags: [金蝶,K3,WISE,14.3,安装文件]
 comments: true

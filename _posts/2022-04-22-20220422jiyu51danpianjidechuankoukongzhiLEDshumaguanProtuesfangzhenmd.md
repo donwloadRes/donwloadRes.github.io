@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的串口控制（LED，数码管）Protues仿真"
+title: "基于51单片机的串口控制LED数码管Protues仿真"
 date:   2021-07-10
 tags: [串口,单片机,仿真,LED,数码管]
 comments: true

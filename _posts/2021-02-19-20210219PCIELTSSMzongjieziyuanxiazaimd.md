@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE-LTSSM总结资源下载"
+title: "PCIELTSSM总结资源下载"
 date:   2021-01-21
 tags: [PCIE,LTSSM,状态机,文件,链路]
 comments: true

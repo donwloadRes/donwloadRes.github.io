@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL机票预订管理系统源码"
+title: "JavaMySQL机票预订管理系统源码"
 date:   2021-04-28
 tags: [源码,用户,数据库,机票,管理]
 comments: true

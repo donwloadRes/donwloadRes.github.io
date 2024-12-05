@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HyperLynx教程中文版(精) PDF 下载"
+title: "HyperLynx教程中文版精 PDF 下载"
 date:   2022-05-13
 tags: [HyperLynx,教程,中文版,PDF,pdf]
 comments: true

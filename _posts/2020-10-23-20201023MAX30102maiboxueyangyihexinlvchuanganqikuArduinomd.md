@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX30102脉搏血氧仪和心率传感器库(Arduino)"
+title: "MAX30102脉搏血氧仪和心率传感器库Arduino"
 date:   2023-11-21
 tags: [Arduino,MAX30102,传感器,心率,示例]
 comments: true

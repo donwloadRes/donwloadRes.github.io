@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序-婚礼邀请函源码"
+title: "微信小程序婚礼邀请函源码"
 date:   2022-03-31
 tags: [微信,程序开发,源码,邀请函,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GLUE数据集下载(度云)"
+title: "GLUE数据集下载度云"
 date:   2020-01-16
 tags: [GLUE,数据,下载,自然语言,资源]
 comments: true

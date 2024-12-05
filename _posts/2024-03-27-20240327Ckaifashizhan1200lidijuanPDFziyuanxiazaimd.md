@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发实战1200例（第Ⅰ卷）PDF资源下载"
+title: "C开发实战1200例第卷PDF资源下载"
 date:   2022-06-21
 tags: [C#,1200,PDF,编程,实例]
 comments: true

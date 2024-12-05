@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自用人体感应灯(HC-SR501人体感应模块)"
+title: "自用人体感应灯HCSR501人体感应模块"
 date:   2020-11-28
 tags: [感应,LED,模块,人体,HC]
 comments: true

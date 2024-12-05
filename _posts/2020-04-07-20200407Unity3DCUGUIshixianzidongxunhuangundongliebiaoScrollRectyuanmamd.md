@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D C# UGUI 实现自动循环滚动列表 (ScrollRect) 源码"
+title: "Unity3D C UGUI 实现自动循环滚动列表 ScrollRect 源码"
 date:   2021-05-16
 tags: [滚动,Unity,循环,列表,示例]
 comments: true

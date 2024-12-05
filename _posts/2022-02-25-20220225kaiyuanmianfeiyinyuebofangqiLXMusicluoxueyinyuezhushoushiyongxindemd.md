@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源免费音乐播放器——LX Music 洛雪音乐助手使用心得"
+title: "开源免费音乐播放器LX Music 洛雪音乐助手使用心得"
 date:   2022-09-28
 tags: [音源,LX,Music,音乐,播放器]
 comments: true

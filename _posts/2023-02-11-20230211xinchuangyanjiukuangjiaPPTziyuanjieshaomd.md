@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“信创”研究框架PPT资源介绍"
+title: "信创研究框架PPT资源介绍"
 date:   2021-03-06
 tags: [信创,PPT,产业,资源,框架]
 comments: true

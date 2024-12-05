@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT5教程 开发大全和教程 完整"
+title: "C QT5教程 开发大全和教程 完整"
 date:   2022-10-21
 tags: [教程,QT5,示例,资源,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inspect.exe工具"
+title: "Inspectexe工具"
 date:   2022-06-26
 tags: [自动化,Inspect,UI,exe,工具]
 comments: true

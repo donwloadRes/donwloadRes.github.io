@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD ObjectARX(vc)开发基础与实例教程"
+title: "AutoCAD ObjectARXvc开发基础与实例教程"
 date:   2023-12-10
 tags: [AutoCAD,NET,教程,API,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卫星遥感影像道路分割：D-LinkNet算法解读"
+title: "卫星遥感影像道路分割DLinkNet算法解读"
 date:   2024-05-02
 tags: [LinkNet,算法,分割,道路,遥感]
 comments: true

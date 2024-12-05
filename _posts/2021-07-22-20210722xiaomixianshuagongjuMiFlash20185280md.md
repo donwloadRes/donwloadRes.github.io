@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米线刷工具MiFlash2018-5-28-0"
+title: "小米线刷工具MiFlash20185280"
 date:   2023-07-03
 tags: [小米,线刷,28,工具,MiFlash2018]
 comments: true

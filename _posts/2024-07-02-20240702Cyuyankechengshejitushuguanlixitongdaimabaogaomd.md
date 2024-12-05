@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言课程设计：图书管理系统代码+报告"
+title: "C语言课程设计图书管理系统代码报告"
 date:   2020-05-01
 tags: [图书,课程设计,C语言,代码,借书]
 comments: true

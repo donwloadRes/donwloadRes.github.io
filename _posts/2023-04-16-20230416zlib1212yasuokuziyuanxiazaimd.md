@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zlib 1.2.12 压缩库资源下载"
+title: "zlib 1212 压缩库资源下载"
 date:   2021-05-04
 tags: [zlib,12,1.2,tar,gz]
 comments: true

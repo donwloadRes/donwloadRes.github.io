@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GDI+网格绘制与内容显示"
+title: "C GDI网格绘制与内容显示"
 date:   2022-11-25
 tags: [网格,GDI,Visual,Studio,项目]
 comments: true

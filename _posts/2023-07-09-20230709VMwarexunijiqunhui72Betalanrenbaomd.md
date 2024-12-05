@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机群晖7.2 Beta (懒人包)"
+title: "VMware虚拟机群晖72 Beta 懒人包"
 date:   2020-12-13
 tags: [VMware,群晖,懒人,虚拟机,7.2]
 comments: true

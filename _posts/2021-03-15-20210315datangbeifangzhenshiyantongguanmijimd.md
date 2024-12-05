@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大唐杯仿真&实验通关秘籍"
+title: "大唐杯仿真实验通关秘籍"
 date:   2020-10-28
 tags: [仿真,秘籍,大唐,实验,通关]
 comments: true

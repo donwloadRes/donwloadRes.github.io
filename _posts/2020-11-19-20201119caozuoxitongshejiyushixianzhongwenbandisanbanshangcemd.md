@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统设计与实现中文版（第三版上册）"
+title: "操作系统设计与实现中文版第三版上册"
 date:   2022-12-28
 tags: [操作系统,学习,上册,第三版,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBeaver教程：连接达梦数据库DM8"
+title: "DBeaver教程连接达梦数据库DM8"
 date:   2023-01-11
 tags: [数据库,DBeaver,达梦,连接,驱动]
 comments: true

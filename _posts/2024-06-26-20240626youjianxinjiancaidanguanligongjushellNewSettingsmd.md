@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "右键新建菜单管理工具（shellNewSettings）"
+title: "右键新建菜单管理工具shellNewSettings"
 date:   2024-10-12
 tags: [右键,菜单,新建,shellNewSettings,管理工具]
 comments: true

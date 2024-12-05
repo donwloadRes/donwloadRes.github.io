@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "h5斗地主源码（简易单机版）"
+title: "h5斗地主源码简易单机版"
 date:   2022-04-06
 tags: [游戏,斗地主,单机版,源码,学习]
 comments: true

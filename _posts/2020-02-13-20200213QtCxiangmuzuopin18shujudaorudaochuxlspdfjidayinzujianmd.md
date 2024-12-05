@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品18 - 数据导入导出(xls-pdf)及打印组件"
+title: "QtC项目作品18  数据导入导出xlspdf及打印组件"
 date:   2023-04-08
 tags: [导出,数据,QTableView,model,row]
 comments: true

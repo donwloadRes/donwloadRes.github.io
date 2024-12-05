@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[点微]同城分类信息基础教程1"
+title: "点微同城分类信息基础教程1"
 date:   2024-09-03
 tags: [微信,商户,后台,分类,教程]
 comments: true

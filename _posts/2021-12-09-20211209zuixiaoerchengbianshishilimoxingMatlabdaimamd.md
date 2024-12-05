@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小二乘辨识实例（模型+Matlab代码）"
+title: "最小二乘辨识实例模型Matlab代码"
 date:   2024-07-11
 tags: [Matlab,辨识,二乘,代码,最小]
 comments: true

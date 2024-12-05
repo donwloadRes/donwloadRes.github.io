@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 24个经典小游戏源码"
+title: "C 24个经典小游戏源码"
 date:   2022-04-25
 tags: [C#,小游戏,源码,游戏,24]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+OpenCV的目标图像自动识别提取感兴趣区域（矩形目标区域）"
+title: "基于PythonOpenCV的目标图像自动识别提取感兴趣区域矩形目标区域"
 date:   2020-02-02
 tags: [图像,提取,目标,区域,Python]
 comments: true

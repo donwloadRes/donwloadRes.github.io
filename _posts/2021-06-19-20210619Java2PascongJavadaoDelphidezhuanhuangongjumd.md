@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java2Pas: 从Java到Delphi的转换工具"
+title: "Java2Pas 从Java到Delphi的转换工具"
 date:   2020-09-18
 tags: [Java2Pas,Java,Delphi,转换,class]
 comments: true

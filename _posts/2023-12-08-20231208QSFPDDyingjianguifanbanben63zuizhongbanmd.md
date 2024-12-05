@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QSFP-DD硬件规范版本6.3最终版"
+title: "QSFPDD硬件规范版本63最终版"
 date:   2023-05-01
 tags: [QSFP,DD,硬件,规范,文件]
 comments: true

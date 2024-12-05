@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab小波工具箱（Wavelet Toolbox）"
+title: "Matlab小波工具箱Wavelet Toolbox"
 date:   2020-06-28
 tags: [Matlab,工具箱,小波,函数,文档]
 comments: true

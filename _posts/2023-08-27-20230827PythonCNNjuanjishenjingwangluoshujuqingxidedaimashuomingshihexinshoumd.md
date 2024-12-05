@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python CNN卷积神经网络数据+清晰的代码说明适合新手"
+title: "Python CNN卷积神经网络数据清晰的代码说明适合新手"
 date:   2024-01-19
 tags: [代码,CNN,示例,Python,卷积]
 comments: true

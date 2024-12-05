@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.5 ISO文件百度网盘下载指南"
+title: "CentOS 75 ISO文件百度网盘下载指南"
 date:   2021-06-21
 tags: [百度网,CentOS,ISO,链接,7.5]
 comments: true

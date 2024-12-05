@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11ac-2016标准协议原版下载"
+title: "IEEE 80211ac2016标准协议原版下载"
 date:   2023-07-18
 tags: [ac,IEEE,802.11,2016,标准协议]
 comments: true

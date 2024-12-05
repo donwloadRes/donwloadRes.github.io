@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大疆电池维修、解锁与扩容教程"
+title: "大疆电池维修解锁与扩容教程"
 date:   2024-03-24
 tags: [电池,大疆,教程,解锁,扩容]
 comments: true

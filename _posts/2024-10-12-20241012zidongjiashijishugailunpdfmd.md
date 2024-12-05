@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动驾驶技术概论.pdf"
+title: "自动驾驶技术概论pdf"
 date:   2020-06-13
 tags: [驾驶,自动,技术,概论,汽车]
 comments: true

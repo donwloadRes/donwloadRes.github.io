@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两阶段鲁棒优化模型：基于Matlab的多场景实现"
+title: "两阶段鲁棒优化模型基于Matlab的多场景实现"
 date:   2021-12-25
 tags: [Matlab,模型,场景,鲁棒,优化]
 comments: true

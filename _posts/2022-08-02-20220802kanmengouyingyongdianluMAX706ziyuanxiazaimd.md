@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "看门狗应用电路(MAX706) 资源下载"
+title: "看门狗应用电路MAX706 资源下载"
 date:   2020-01-22
 tags: [电路,MAX706,看门狗,文件,应用]
 comments: true

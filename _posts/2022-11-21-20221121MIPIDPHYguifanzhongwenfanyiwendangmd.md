@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 规范中文翻译文档"
+title: "MIPI DPHY 规范中文翻译文档"
 date:   2024-09-14
 tags: [PHY,中文翻译,MIPI,文件,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++入门经典（第十版）沃特萨维奇 资源文件介绍"
+title: "C入门经典第十版沃特萨维奇 资源文件介绍"
 date:   2020-01-22
 tags: [编程,C++,入门,第十版,本书]
 comments: true

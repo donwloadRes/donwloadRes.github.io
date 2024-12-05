@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 狼人杀游戏"
+title: "C 狼人杀游戏"
 date:   2024-06-10
 tags: [狼人,plus,游戏,werewolf,C++]
 comments: true

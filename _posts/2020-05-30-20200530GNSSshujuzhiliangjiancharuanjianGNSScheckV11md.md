@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNSS数据质量检查软件（GNSScheck）V1.1"
+title: "GNSS数据质量检查软件GNSScheckV11"
 date:   2023-08-16
 tags: [GNSScheck,GNSS,数据,质量检查,link]
 comments: true

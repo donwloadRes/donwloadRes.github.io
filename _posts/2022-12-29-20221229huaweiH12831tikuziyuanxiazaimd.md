@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为H12-831题库资源下载"
+title: "华为H12831题库资源下载"
 date:   2023-11-11
 tags: [H12,831,MSTP,题目,华为]
 comments: true

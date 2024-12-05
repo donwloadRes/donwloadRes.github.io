@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.5.0 版本资源文件下载"
+title: "OpenCV 450 版本资源文件下载"
 date:   2021-07-09
 tags: [OpenCV,文件,4.5,v15,2020]
 comments: true

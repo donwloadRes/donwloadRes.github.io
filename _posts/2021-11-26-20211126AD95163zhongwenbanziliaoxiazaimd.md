@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD9516_3中文版资料下载"
+title: "AD95163中文版资料下载"
 date:   2022-10-15
 tags: [AD9516,中文版,资料,下载,芯片]
 comments: true

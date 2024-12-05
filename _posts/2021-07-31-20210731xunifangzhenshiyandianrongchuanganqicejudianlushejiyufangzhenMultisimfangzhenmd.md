@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟仿真实验：电容传感器测距电路设计与仿真（Multisim仿真）"
+title: "虚拟仿真实验电容传感器测距电路设计与仿真Multisim仿真"
 date:   2022-02-03
 tags: [仿真,电容,Multisim,传感器,电路]
 comments: true

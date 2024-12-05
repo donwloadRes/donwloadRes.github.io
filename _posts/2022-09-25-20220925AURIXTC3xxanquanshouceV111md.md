@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AURIX TC3xx 安全手册 V1.11"
+title: "AURIX TC3xx 安全手册 V111"
 date:   2020-02-02
 tags: [AURIX,TC3xx,手册,V1.11,安全]
 comments: true

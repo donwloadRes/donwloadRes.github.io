@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-Cpp下载及使用教程"
+title: "DevCpp下载及使用教程"
 date:   2020-04-22
 tags: [Dev,Cpp,教程,下载,安装]
 comments: true

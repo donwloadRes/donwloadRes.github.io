@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP 1.3.00.100下载资源介绍"
+title: "eNSP 1300100下载资源介绍"
 date:   2024-09-30
 tags: [eNSP,下载,安装,华为,00.100]
 comments: true

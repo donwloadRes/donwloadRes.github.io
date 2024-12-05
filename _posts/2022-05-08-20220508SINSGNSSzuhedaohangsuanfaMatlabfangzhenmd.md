@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SINS + GNSS 组合导航算法 Matlab 仿真"
+title: "SINS  GNSS 组合导航算法 Matlab 仿真"
 date:   2023-12-08
 tags: [导航,算法,组合,误差,Matlab]
 comments: true

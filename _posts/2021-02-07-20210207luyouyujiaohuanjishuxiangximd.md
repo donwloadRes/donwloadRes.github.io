@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "路由与交换技术(详细)"
+title: "路由与交换技术详细"
 date:   2023-07-21
 tags: [路由,网络,交换,技术,详细]
 comments: true

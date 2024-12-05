@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OVRLipSync for Unity：音频驱动的口型动画插件"
+title: "OVRLipSync for Unity音频驱动的口型动画插件"
 date:   2020-02-22
 tags: [口型,音频,Unity,OVRLipSync,插件]
 comments: true

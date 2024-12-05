@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPEC控制器使用手册.pdf"
+title: "EPEC控制器使用手册pdf"
 date:   2021-09-16
 tags: [EPEC,控制器,4G,使用手册,pdf]
 comments: true

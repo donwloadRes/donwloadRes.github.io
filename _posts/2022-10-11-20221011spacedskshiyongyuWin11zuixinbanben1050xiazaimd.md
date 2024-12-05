@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "spacedsk 适用于Win11 最新版本1.0.50下载"
+title: "spacedsk 适用于Win11 最新版本1050下载"
 date:   2021-11-28
 tags: [spacedsk,https,example,com,50]
 comments: true

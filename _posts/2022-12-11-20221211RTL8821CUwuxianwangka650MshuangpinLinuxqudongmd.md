@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8821CU无线网卡（650M双频）Linux驱动"
+title: "RTL8821CU无线网卡650M双频Linux驱动"
 date:   2024-05-12
 tags: [网卡,驱动程序,RTL8821CU,Linux,无线]
 comments: true

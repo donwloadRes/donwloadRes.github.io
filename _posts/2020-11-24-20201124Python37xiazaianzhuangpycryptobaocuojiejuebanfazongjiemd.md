@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.7下载安装pycrypto报错解决办法总结"
+title: "Python37下载安装pycrypto报错解决办法总结"
 date:   2020-04-29
 tags: [pycrypto,Visual,安装,Microsoft,Python3.7]
 comments: true

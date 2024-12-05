@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#微信支付_Demo_v3 资源文件介绍"
+title: "C微信支付Demov3 资源文件介绍"
 date:   2024-03-10
 tags: [微信,支付,文件,C#,Demo]
 comments: true

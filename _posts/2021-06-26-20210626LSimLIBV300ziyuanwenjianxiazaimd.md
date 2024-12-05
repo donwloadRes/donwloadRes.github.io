@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSim_LIB_V3_0_0 资源文件下载"
+title: "LSimLIBV300 资源文件下载"
 date:   2022-06-27
 tags: [仿真,LSim,LIB,V3,文件]
 comments: true

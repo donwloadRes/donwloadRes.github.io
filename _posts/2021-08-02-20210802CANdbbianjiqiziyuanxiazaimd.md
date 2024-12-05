@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN db++ 编辑器资源下载"
+title: "CAN db 编辑器资源下载"
 date:   2020-09-25
 tags: [dbc,文件,下载,编辑,db]
 comments: true

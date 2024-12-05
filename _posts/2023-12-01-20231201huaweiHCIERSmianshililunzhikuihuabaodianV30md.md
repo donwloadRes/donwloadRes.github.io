@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为HCIE-RS面试理论之葵花宝典V3.0"
+title: "华为HCIERS面试理论之葵花宝典V30"
 date:   2024-04-17
 tags: [华为,HCIE,RS,面试,葵花宝典]
 comments: true

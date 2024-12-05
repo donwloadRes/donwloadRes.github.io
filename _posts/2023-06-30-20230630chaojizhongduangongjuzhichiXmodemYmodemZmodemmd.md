@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级终端工具（支持Xmodem、Ymodem、Zmodem）"
+title: "超级终端工具支持XmodemYmodemZmodem"
 date:   2024-10-04
 tags: [串口,工具,超级终端,Xmodem,Ymodem]
 comments: true

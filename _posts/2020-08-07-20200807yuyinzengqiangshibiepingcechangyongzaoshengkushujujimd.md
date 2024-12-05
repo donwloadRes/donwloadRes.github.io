@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音增强、识别、评测常用噪声库、数据集"
+title: "语音增强识别评测常用噪声库数据集"
 date:   2023-09-26
 tags: [noise,indoor,vehicle,outdoor,噪声]
 comments: true

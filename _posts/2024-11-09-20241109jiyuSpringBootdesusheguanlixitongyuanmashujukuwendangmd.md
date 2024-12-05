@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring Boot的宿舍管理系统（源码+数据库+文档）"
+title: "基于Spring Boot的宿舍管理系统源码数据库文档"
 date:   2021-01-03
 tags: [宿舍,数据库,Spring,Boot,管理]
 comments: true

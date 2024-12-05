@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisualGDB 5.6 R9 资源文件下载"
+title: "VisualGDB 56 R9 资源文件下载"
 date:   2023-09-04
 tags: [调试,VisualGDB,功能,Visual,Studio]
 comments: true

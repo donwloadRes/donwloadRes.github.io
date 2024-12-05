@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Substance 3D Sampler 4.2.2 版本下载与安装配置"
+title: "Adobe Substance 3D Sampler 422 版本下载与安装配置"
 date:   2020-06-16
 tags: [Substance,材质,安装,3D,Sampler]
 comments: true

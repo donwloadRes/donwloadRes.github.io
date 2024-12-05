@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Armv8&Armv9架构入门指南"
+title: "Armv8Armv9架构入门指南"
 date:   2022-02-07
 tags: [架构,Armv9,Armv8,指南,ARM]
 comments: true

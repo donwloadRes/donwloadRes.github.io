@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring+SpringMVC+Mybatis框架整合例子(SSM) 下载"
+title: "SpringSpringMVCMybatis框架整合例子SSM 下载"
 date:   2022-06-30
 tags: [博文,SSM,整合,框架,Spring]
 comments: true

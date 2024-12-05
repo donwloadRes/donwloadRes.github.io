@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIY分享：示波器（原理图+源码+仿真）"
+title: "DIY分享示波器原理图源码仿真"
 date:   2020-03-12
 tags: [示波器,原理图,源码,仿真,DIY]
 comments: true

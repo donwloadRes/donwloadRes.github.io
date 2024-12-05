@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的机器学习K-means聚类分析NBA球员案例"
+title: "基于Python的机器学习Kmeans聚类分析NBA球员案例"
 date:   2023-03-23
 tags: [Python,means,NBA,聚类,球员]
 comments: true

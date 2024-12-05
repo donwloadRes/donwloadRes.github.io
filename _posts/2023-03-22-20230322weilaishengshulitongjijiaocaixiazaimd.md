@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韦来生数理统计》教材下载"
+title: "韦来生数理统计教材下载"
 date:   2020-09-30
 tags: [教材,数理统计,韦来生,学习,下载]
 comments: true

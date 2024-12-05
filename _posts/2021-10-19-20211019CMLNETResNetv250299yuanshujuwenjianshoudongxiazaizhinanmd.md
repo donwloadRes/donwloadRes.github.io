@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ML.NET ResNet_v2_50_299 元数据文件手动下载指南"
+title: "C MLNET ResNetv250299 元数据文件手动下载指南"
 date:   2024-08-03
 tags: [v2,50,299,resnet,meta]
 comments: true

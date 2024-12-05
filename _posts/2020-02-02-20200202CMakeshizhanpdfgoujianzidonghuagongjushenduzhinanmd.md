@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake实战.pdf - 构建自动化工具深度指南"
+title: "CMake实战pdf  构建自动化工具深度指南"
 date:   2022-03-01
 tags: [CMake,构建,pdf,开发者,项目]
 comments: true

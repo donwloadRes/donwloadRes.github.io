@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 (32位) 免安装版"
+title: "JDK 18 32位 免安装版"
 date:   2024-03-17
 tags: [JDK,32,解压,环境变量,点击]
 comments: true

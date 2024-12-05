@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISE 14.7 安装教程"
+title: "ISE 147 安装教程"
 date:   2021-09-14
 tags: [安装,ISE,14.7,软件,教程]
 comments: true

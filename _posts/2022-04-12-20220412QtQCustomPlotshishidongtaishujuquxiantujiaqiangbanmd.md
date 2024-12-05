@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt QCustomPlot 实时动态数据曲线图（加强版）"
+title: "Qt QCustomPlot 实时动态数据曲线图加强版"
 date:   2021-11-11
 tags: [实时,曲线图,Qt,动态数据,QCustomPlot]
 comments: true

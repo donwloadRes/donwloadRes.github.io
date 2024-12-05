@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DCT域图像水印嵌入与提取算法(Matlab)"
+title: "DCT域图像水印嵌入与提取算法Matlab"
 date:   2023-11-27
 tags: [水印,Matlab,嵌入,代码,提取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL-SQL详细安装与配置教程"
+title: "PLSQL详细安装与配置教程"
 date:   2021-09-11
 tags: [PL,SQL,基本操作,教程,安装]
 comments: true

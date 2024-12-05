@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe.DiVa 10.0 SP6 更新包"
+title: "CANoeDiVa 100 SP6 更新包"
 date:   2024-11-02
 tags: [CANoe,DiVa,SP6,10.0,更新]
 comments: true

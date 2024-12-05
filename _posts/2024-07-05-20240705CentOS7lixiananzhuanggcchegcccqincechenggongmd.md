@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7离线安装gcc和gcc-c++（亲测成功）"
+title: "CentOS7离线安装gcc和gccc亲测成功"
 date:   2021-03-25
 tags: [gcc,安装,c++,离线,rpm]
 comments: true

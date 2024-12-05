@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 10.5下通过福晰ocx控件实现PDF文件浏览和打印"
+title: "PowerBuilder 105下通过福晰ocx控件实现PDF文件浏览和打印"
 date:   2021-06-23
 tags: [PDF,控件,PowerBuilder,浏览,ocx]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLE蓝牙4.0开发完全手册-物联网开发技术实战"
+title: "BLE蓝牙40开发完全手册物联网开发技术实战"
 date:   2020-11-20
 tags: [蓝牙,BLE4.0,开发技术,手册,联网]
 comments: true

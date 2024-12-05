@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模块化和功能封装 - LabVIEW 范例"
+title: "模块化和功能封装  LabVIEW 范例"
 date:   2020-11-16
 tags: [LabVIEW,范例,封装,模块化,功能]
 comments: true

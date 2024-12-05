@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue2实现的落日余晖登录页+滑块校验"
+title: "Vue2实现的落日余晖登录页滑块校验"
 date:   2021-11-28
 tags: [Vue2,background,滑块,校验,背景图]
 comments: true

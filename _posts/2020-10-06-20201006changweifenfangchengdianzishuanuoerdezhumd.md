@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常微分方程电子书(阿诺尔德著)"
+title: "常微分方程电子书阿诺尔德著"
 date:   2020-01-11
 tags: [微分方程,诺尔德,PDF,电子书,格式]
 comments: true

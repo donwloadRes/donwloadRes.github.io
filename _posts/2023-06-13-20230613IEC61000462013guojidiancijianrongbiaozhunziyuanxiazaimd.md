@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61000-4-6-2013 国际电磁兼容标准资源下载"
+title: "IEC61000462013 国际电磁兼容标准资源下载"
 date:   2021-05-15
 tags: [IEC61000,2013,电磁兼容,标准,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "甘特图实现：HTML+CSS 资源文件介绍"
+title: "甘特图实现HTMLCSS 资源文件介绍"
 date:   2023-03-24
 tags: [甘特图,列表,服务器,静态,任务]
 comments: true

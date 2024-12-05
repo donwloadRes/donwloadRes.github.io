@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEX-Float转换工具"
+title: "HEXFloat转换工具"
 date:   2022-05-13
 tags: [转换,浮点数,16,工具,进制]
 comments: true

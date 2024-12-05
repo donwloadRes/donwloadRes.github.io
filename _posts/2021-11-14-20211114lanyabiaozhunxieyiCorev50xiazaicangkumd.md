@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙标准协议Core v5.0 下载仓库"
+title: "蓝牙标准协议Core v50 下载仓库"
 date:   2022-10-29
 tags: [蓝牙,v5.0,Core,仓库,文件]
 comments: true

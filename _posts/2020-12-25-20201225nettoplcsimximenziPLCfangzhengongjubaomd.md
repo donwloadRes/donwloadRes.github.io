@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nettoplcsim - 西门子PLC仿真工具包"
+title: "nettoplcsim  西门子PLC仿真工具包"
 date:   2021-02-17
 tags: [PLC,仿真,工具包,nettoplcsim,西门子]
 comments: true

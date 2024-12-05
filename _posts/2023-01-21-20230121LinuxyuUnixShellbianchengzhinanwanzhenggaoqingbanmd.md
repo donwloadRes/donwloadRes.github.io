@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux与Unix Shell编程指南（完整高清版）"
+title: "Linux与Unix Shell编程指南完整高清版"
 date:   2024-06-24
 tags: [Shell,Linux,Unix,编程,高清]
 comments: true

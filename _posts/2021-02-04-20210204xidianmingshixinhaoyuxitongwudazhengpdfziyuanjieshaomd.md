@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【西电名师-信号与系统】吴大正.pdf资源介绍"
+title: "西电名师信号与系统吴大正pdf资源介绍"
 date:   2024-02-03
 tags: [考研,吴大正,学习,信号,西电]
 comments: true

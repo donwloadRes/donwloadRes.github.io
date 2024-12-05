@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DoDAF 2.0详细方法论下载"
+title: "DoDAF 20详细方法论下载"
 date:   2020-06-27
 tags: [DoDAF,2.0,模型,方法论,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CloudCompare 中文手册 V2.6.1 下载"
+title: "CloudCompare 中文手册 V261 下载"
 date:   2020-11-22
 tags: [CloudCompare,V2.6,手册,中文,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体通讯的SECS-GEM通讯协议"
+title: "半导体通讯的SECSGEM通讯协议"
 date:   2024-10-27
 tags: [SECS,GEM,设备,通讯,半导体]
 comments: true

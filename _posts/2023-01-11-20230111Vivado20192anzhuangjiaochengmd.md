@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2019.2安装教程"
+title: "Vivado 20192安装教程"
 date:   2023-10-27
 tags: [Vivado,2019.2,教程,安装,CPU]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI遥感图像处理方法（第二版） 邓书斌 及实验数据"
+title: "ENVI遥感图像处理方法第二版 邓书斌 及实验数据"
 date:   2022-10-10
 tags: [遥感,图像处理,ENVI,实验,书籍]
 comments: true

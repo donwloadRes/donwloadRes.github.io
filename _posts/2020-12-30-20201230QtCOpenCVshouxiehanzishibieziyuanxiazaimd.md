@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt C++ OpenCV 手写汉字识别资源下载"
+title: "Qt C OpenCV 手写汉字识别资源下载"
 date:   2024-11-02
 tags: [手写,汉字,Qt,识别,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MX1.25封装（三维PCB封装库）AD用PCB封装库"
+title: "MX125封装三维PCB封装库AD用PCB封装库"
 date:   2024-11-25
 tags: [封装,PCB,MX1.25,AD,三维]
 comments: true

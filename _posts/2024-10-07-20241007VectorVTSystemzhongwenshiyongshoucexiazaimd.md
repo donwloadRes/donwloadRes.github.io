@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vector VT-System 中文使用手册下载"
+title: "Vector VTSystem 中文使用手册下载"
 date:   2020-06-08
 tags: [System,Vector,VT,使用手册,手册]
 comments: true

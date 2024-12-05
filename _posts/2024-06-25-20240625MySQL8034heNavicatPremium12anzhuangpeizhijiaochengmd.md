@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.34 和 Navicat Premium 12 安装配置教程"
+title: "MySQL 8034 和 Navicat Premium 12 安装配置教程"
 date:   2023-06-24
 tags: [MySQL,Navicat,Premium,12,安装]
 comments: true

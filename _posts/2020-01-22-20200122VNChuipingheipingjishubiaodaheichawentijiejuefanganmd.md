@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VNC灰屏、黑屏及鼠标大黑叉问题解决方案"
+title: "VNC灰屏黑屏及鼠标大黑叉问题解决方案"
 date:   2020-10-06
 tags: [VNC,黑屏,灰屏,文档,鼠标]
 comments: true

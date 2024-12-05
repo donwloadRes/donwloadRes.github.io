@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L298N 原理图+PCB全套资源下载"
+title: "L298N 原理图PCB全套资源下载"
 date:   2021-10-03
 tags: [PCB,原理图,L298N,模块,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新通用视频编码标准H.266VVC.pdf"
+title: "最新通用视频编码标准H266VVCpdf"
 date:   2024-02-20
 tags: [H.266,视频,VVC,编码标准,pdf]
 comments: true

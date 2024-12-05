@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qtSqlite - Qt下便捷处理多SQLite数据库与文件操作"
+title: "qtSqlite  Qt下便捷处理多SQLite数据库与文件操作"
 date:   2020-11-30
 tags: [Qt,数据库,文件,SQLite,操作]
 comments: true

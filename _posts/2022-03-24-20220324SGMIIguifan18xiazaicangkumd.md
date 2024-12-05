@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGMII 规范 1.8 下载仓库"
+title: "SGMII 规范 18 下载仓库"
 date:   2022-10-30
 tags: [SGMII,1.8,网络设备,规范,下载]
 comments: true

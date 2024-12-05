@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义截图工具及GIF录制程序"
+title: "C自定义截图工具及GIF录制程序"
 date:   2021-12-21
 tags: [截图,GIF,窗体,录制,注册表]
 comments: true

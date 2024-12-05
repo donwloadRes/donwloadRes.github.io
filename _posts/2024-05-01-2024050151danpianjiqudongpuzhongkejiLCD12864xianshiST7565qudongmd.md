@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机驱动普中科技LCD12864显示（ST7565驱动）"
+title: "51单片机驱动普中科技LCD12864显示ST7565驱动"
 date:   2022-08-10
 tags: [驱动程序,LCD12864,仿真,ST7565,单片机]
 comments: true

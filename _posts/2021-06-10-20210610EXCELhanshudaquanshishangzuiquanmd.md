@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EXCEL函数大全(史上最全)"
+title: "EXCEL函数大全史上最全"
 date:   2021-05-27
 tags: [EXCEL,函数,大全,用户,这份]
 comments: true

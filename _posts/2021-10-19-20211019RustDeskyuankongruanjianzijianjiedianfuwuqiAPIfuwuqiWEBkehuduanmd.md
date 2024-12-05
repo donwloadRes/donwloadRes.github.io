@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RustDesk 远控软件自建节点服务器+API服务器+WEB客户端"
+title: "RustDesk 远控软件自建节点服务器API服务器WEB客户端"
 date:   2022-05-25
 tags: [服务器,API,WEB,客户端,RustDesk]
 comments: true

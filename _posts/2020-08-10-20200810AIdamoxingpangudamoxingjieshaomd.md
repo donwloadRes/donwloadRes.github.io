@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI大模型：盘古大模型介绍"
+title: "AI大模型盘古大模型介绍"
 date:   2022-05-09
 tags: [模型,盘古,AI,Transformer,参数]
 comments: true

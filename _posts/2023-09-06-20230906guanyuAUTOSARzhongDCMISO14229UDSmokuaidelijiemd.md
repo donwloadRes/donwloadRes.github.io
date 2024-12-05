@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于AUTOSAR中DCM（ISO14229 UDS）模块的理解"
+title: "关于AUTOSAR中DCMISO14229 UDS模块的理解"
 date:   2023-04-01
 tags: [DCM,AUTOSAR,UDS,模块,ISO]
 comments: true

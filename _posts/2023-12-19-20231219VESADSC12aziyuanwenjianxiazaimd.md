@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA DSC 1.2a 资源文件下载"
+title: "VESA DSC 12a 资源文件下载"
 date:   2024-01-26
 tags: [DSC,1.2,VESA,传输,图像]
 comments: true

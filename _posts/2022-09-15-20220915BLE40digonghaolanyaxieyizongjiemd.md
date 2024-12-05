@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLE 4.0低功耗蓝牙协议总结"
+title: "BLE 40低功耗蓝牙协议总结"
 date:   2022-01-31
 tags: [蓝牙,低功耗,4.0,BLE,开发者]
 comments: true

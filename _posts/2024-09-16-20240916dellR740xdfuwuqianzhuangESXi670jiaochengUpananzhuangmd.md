@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dell R740xd服务器安装ESXi 6.7.0教程（U盘安装）"
+title: "dell R740xd服务器安装ESXi 670教程U盘安装"
 date:   2021-04-11
 tags: [ESXi,安装,服务器,U盘,6.7]
 comments: true

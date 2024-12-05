@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi Chrome 浏览器控件 - CEF109.1.18 Win7 最终支持版本"
+title: "Delphi Chrome 浏览器控件  CEF109118 Win7 最终支持版本"
 date:   2023-10-02
 tags: [Delphi,控件,Web,浏览器,版本]
 comments: true

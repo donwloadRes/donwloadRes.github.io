@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K144底层程序代码 - 苏大嵌入式实验室"
+title: "S32K144底层程序代码  苏大嵌入式实验室"
 date:   2020-05-15
 tags: [S32K144,嵌入式,底层,程序代码,苏大]
 comments: true

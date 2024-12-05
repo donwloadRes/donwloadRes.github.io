@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G474VET6 + FM25V01A-G + Keil 测试程序"
+title: "STM32G474VET6  FM25V01AG  Keil 测试程序"
 date:   2021-08-09
 tags: [使用,FM25V01,文件,FM25V01A,测试程序]
 comments: true

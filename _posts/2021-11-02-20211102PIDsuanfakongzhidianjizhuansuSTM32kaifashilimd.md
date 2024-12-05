@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID算法控制电机转速 - STM32开发实例"
+title: "PID算法控制电机转速  STM32开发实例"
 date:   2023-07-14
 tags: [PID,STM32,电机,控制,算法]
 comments: true

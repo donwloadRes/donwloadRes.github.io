@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vivado_flash烧写过程详解"
+title: "vivadoflash烧写过程详解"
 date:   2023-06-20
 tags: [烧写,Flash,Vivado,FPGA,存储器]
 comments: true

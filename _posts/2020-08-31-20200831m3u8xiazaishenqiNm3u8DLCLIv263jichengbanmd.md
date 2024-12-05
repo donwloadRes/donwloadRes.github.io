@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "m3u8下载神器 - N_m3u8DL-CLI v2.6.3 集成版"
+title: "m3u8下载神器  Nm3u8DLCLI v263 集成版"
 date:   2021-05-22
 tags: [下载,m3u8,m3u8DL,CLI,ffmpeg]
 comments: true

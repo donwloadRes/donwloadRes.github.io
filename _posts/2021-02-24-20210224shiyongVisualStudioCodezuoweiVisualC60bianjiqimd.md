@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "使用 Visual Studio Code 作为 Visual C++ 6.0 编辑器"
+title: "使用 Visual Studio Code 作为 Visual C 60 编辑器
+date   20200602
+tags Code编译器VC6VSVC98
+comments true
+author admin
+
+ 使用 Visual Studio Code 作为 Visual C 60 编辑器
+
+ 概述
+
+本文档旨在指导那些希望提升老款 Visual C 60 开发体验的程序员如何配置 Visual Studio Code VS Code 以便用其现代化的功能作为 VC6 的替代编辑器考虑到 VC6 因其历史悠久而不兼容最新的操作系统并且开发环境较为简陋此方法可以让开发者享受VS Code的高级编辑功能同时利用VC6的编译能力
+
+ 步骤概览
+
+1 准备编译器首先确保你有一个VC98编译器环境可以从旧版Visual Studio 60提取或找到兼容的编译器资源将其解压缩到一个不含中文和空格的路径如ELibraryVC98
+
+2 安装 VS Code 插件在VS Code中安装必要的插件包括CC和Code Runner这两个插件分别提供了代码高亮和快速运行代码的能力
+
+3 配置工作区创建一个新的工作空间来存放你的VC6项目例如DDesktopVC6C在此工作区内你需要建立一个vscode目录并添加settingsjson文件配置编译器的路径和包含头文件的目录
+
+   json
+   
+     CCppdefaultincludePath ELibraryVC98INCLUDE
+     coderunnerexecutorMap 
+       c cd dir  ELibraryVC98VC98BAT CL fileName nologo  dirfileNameWithoutExt
+       cpp cd dir  ELibraryVC98VC98BAT CL fileName nologo  dirfileNameWithoutExt"
 date:   2020-06-02
 tags: [Code,编译器,VC6,VS,VC98]
 comments: true

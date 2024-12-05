@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源的DELPHI XE10移动开发框架（完整版）"
+title: "开源的DELPHI XE10移动开发框架完整版"
 date:   2023-08-10
 tags: [控件,DELPHI,XE10,框架,开发]
 comments: true

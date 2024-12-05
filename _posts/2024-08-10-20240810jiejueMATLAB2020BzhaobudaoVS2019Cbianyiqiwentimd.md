@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决MATLAB2020B找不到VS2019 C++编译器问题"
+title: "解决MATLAB2020B找不到VS2019 C编译器问题"
 date:   2020-05-26
 tags: [编译器,MATLAB,VS2019,C++,mex]
 comments: true

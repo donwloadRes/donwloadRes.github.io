@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研发项目管理方法(RDPM) 资源下载"
+title: "研发项目管理方法RDPM 资源下载"
 date:   2020-01-15
 tags: [项目管理,项目经理,资源,RDPM,研发]
 comments: true

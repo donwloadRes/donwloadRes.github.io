@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSTO打包Word插件 - Office与WPS双支持"
+title: "VSTO打包Word插件  Office与WPS双支持"
 date:   2023-11-10
 tags: [插件,Office,WPS,VSTO,Word]
 comments: true

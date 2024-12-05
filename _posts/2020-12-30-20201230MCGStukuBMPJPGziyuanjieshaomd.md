@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCGS图库(BMP&JPG)资源介绍"
+title: "MCGS图库BMPJPG资源介绍"
 date:   2021-04-14
 tags: [图库,MCGS,组态,BMP,JPG]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库大作业银行转账系统（前后端完整实现）"
+title: "数据库大作业银行转账系统前后端完整实现"
 date:   2020-03-17
 tags: [数据库,转账,Java,Mysql,实现]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AC695N 声霸 SDK 介绍 V2.0 杰理"
+title: "AC695N 声霸 SDK 介绍 V20 杰理"
 date:   2024-04-18
 tags: [SDK,AC695N,声霸,V2.0,文档]
 comments: true

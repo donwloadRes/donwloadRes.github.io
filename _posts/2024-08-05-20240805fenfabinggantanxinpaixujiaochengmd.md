@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分发饼干（贪心+排序）教程"
+title: "分发饼干贪心排序教程"
 date:   2024-04-08
 tags: [饼干,胃口,排序,孩子,贪心]
 comments: true

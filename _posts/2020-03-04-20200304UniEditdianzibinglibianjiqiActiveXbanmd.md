@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UniEdit电子病历编辑器-ActiveX版"
+title: "UniEdit电子病历编辑器ActiveX版"
 date:   2024-02-07
 tags: [病历,编辑器,ActiveX,UniEdit,电子]
 comments: true

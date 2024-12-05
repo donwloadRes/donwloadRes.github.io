@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VtkUnity：在Unity中集成VTK实现科学可视化"
+title: "VtkUnity在Unity中集成VTK实现科学可视化"
 date:   2024-01-29
 tags: [Unity,VTK,ActiViz,可视化,DLL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2525A-RTD2525AR HDMI+DP转LVDS显示芯片原理图下载"
+title: "RTD2525ARTD2525AR HDMIDP转LVDS显示芯片原理图下载"
 date:   2020-03-27
 tags: [原理图,RTD2525A,RTD2525AR,芯片,LVDS]
 comments: true

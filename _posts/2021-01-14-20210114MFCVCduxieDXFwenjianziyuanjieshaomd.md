@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC, VC++ 读写 DXF 文件资源介绍"
+title: "MFC VC 读写 DXF 文件资源介绍"
 date:   2024-06-08
 tags: [DXF,文件,MFC,C++,读取]
 comments: true

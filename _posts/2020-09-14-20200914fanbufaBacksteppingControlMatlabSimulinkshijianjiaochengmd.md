@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反步法（Backstepping Control）Matlab + Simulink 实践教程"
+title: "反步法Backstepping ControlMatlab  Simulink 实践教程"
 date:   2022-12-02
 tags: [步法,Simulink,非线性,Matlab,系统控制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flink原理、实战与性能优化-高级进阶培训"
+title: "Flink原理实战与性能优化高级进阶培训"
 date:   2022-06-17
 tags: [Flink,实战,资源,优化,性能]
 comments: true

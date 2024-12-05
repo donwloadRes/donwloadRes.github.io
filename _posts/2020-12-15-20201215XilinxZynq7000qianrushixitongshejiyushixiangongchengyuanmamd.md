@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq-7000 嵌入式系统设计与实现 工程源码"
+title: "Xilinx Zynq7000 嵌入式系统设计与实现 工程源码"
 date:   2023-03-14
 tags: [嵌入式,源码,7000,设计,Xilinx]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国康耐视DM150-DM260系列用户手册"
+title: "美国康耐视DM150DM260系列用户手册"
 date:   2022-10-13
 tags: [读卡器,系列,DataMan,读取,康耐视]
 comments: true

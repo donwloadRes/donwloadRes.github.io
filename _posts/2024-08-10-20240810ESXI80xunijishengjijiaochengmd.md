@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXI8.0虚拟机升级教程"
+title: "ESXI80虚拟机升级教程"
 date:   2024-01-01
 tags: [升级,虚拟机,教程,ESXI8.0,ISO]
 comments: true

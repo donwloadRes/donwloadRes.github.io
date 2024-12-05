@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rockchip RK809M & RK817 & RK809 数据手册"
+title: "Rockchip RK809M  RK817  RK809 数据手册"
 date:   2022-12-09
 tags: [Rockchip,RK809M,RK817,RK809,手册]
 comments: true

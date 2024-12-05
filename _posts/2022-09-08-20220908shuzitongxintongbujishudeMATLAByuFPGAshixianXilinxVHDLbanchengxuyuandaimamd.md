@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信同步技术的MATLAB与FPGA实现——Xilinx-VHDL版》程序源代码"
+title: "数字通信同步技术的MATLAB与FPGA实现XilinxVHDL版程序源代码"
 date:   2020-09-04
 tags: [FPGA,MATLAB,数字通信,同步,Xilinx]
 comments: true

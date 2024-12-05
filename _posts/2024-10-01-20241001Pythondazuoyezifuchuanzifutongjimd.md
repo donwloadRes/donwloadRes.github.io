@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "Python大作业：字符串字符统计"
+title: "Python大作业字符串字符统计
+date   20220331
+tags 字符Python字符串个数统计
+comments true
+author admin
+
+
+layout post
+title Python大作业字符串字符统计
+date   20200116
+tags 字符Python个数字符串统计
+comments true
+author admin
+
+ Python大作业字符串字符统计
+
+ 字符统计资源介绍
+
+该资源包含一个名为 Python大作业之字符串字符个数统计md 的文件该文件提供了一个针对Python大作业的具体实现旨在统计字符串中的字符个数
+
+ 文件内容
+
+Python大作业之字符串字符个数统计md 文件包含了使用Python统计字符个数的代码示例通过这段代码用户可以轻松地计算文本文件或字符串中的字符数量并生成统计结果
+
+ 代码示例
+
+python
+def charactercounttext
+    
+    计算字符串中的字符个数
+
+    参数
+        text str 要统计字符个数的字符串
+
+    返回
+        int 字符个数
+    "
 date:   2022-03-31
 tags: [字符,Python,字符串,个数,统计]
 comments: true
@@ -8,7 +44,43 @@ author: admin
 ---
 ---
 layout: post
-title: "Python大作业：字符串字符统计"
+title: "Python大作业字符串字符统计
+date   20220331
+tags 字符Python字符串个数统计
+comments true
+author admin
+
+
+layout post
+title Python大作业字符串字符统计
+date   20200116
+tags 字符Python个数字符串统计
+comments true
+author admin
+
+ Python大作业字符串字符统计
+
+ 字符统计资源介绍
+
+该资源包含一个名为 Python大作业之字符串字符个数统计md 的文件该文件提供了一个针对Python大作业的具体实现旨在统计字符串中的字符个数
+
+ 文件内容
+
+Python大作业之字符串字符个数统计md 文件包含了使用Python统计字符个数的代码示例通过这段代码用户可以轻松地计算文本文件或字符串中的字符数量并生成统计结果
+
+ 代码示例
+
+python
+def charactercounttext
+    
+    计算字符串中的字符个数
+
+    参数
+        text str 要统计字符个数的字符串
+
+    返回
+        int 字符个数
+    "
 date:   2020-01-16
 tags: [字符,Python,个数,字符串,统计]
 comments: true

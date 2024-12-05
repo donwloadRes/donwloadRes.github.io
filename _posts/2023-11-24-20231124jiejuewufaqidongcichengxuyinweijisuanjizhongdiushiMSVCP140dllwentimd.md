@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“无法启动此程序，因为计算机中丢失MSVCP140.dll”问题"
+title: "解决无法启动此程序因为计算机中丢失MSVCP140dll问题"
 date:   2020-12-09
 tags: [MSVCP140,dll,程序,计算机,丢失]
 comments: true

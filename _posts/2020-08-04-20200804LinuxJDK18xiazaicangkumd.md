@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux JDK 1.8 下载仓库"
+title: "Linux JDK 18 下载仓库"
 date:   2024-10-08
 tags: [JDK,1.8,安装,Linux,Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "武汉大学GPS作业：利用资源文件计算卫星位置"
+title: "武汉大学GPS作业利用资源文件计算卫星位置"
 date:   2022-09-06
 tags: [文件,GPS,卫星,广播,资源]
 comments: true

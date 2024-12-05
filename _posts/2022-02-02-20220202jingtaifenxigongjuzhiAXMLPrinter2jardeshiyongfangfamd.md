@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "静态分析工具之-AXMLPrinter2.jar的使用方法"
+title: "静态分析工具之AXMLPrinter2jar的使用方法"
 date:   2024-06-21
 tags: [XML,jar,AXMLPrinter2,文件,xml]
 comments: true

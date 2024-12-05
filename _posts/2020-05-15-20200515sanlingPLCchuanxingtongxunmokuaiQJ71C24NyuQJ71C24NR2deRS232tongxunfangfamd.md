@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC串行通讯模块QJ71C24N与QJ71C24N-R2的RS232通讯方法"
+title: "三菱PLC串行通讯模块QJ71C24N与QJ71C24NR2的RS232通讯方法"
 date:   2023-01-18
 tags: [通讯,QJ71C24N,PLC,模块,RS232]
 comments: true

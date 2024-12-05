@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学2024年AIGC发展研究资料2.0下载仓库"
+title: "清华大学2024年AIGC发展研究资料20下载仓库"
 date:   2023-11-20
 tags: [AIGC,报告,2024,2.0,下载]
 comments: true

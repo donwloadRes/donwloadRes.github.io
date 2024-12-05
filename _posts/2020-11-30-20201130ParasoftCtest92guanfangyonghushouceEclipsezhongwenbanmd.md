@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parasoft C++test 9.2 官方用户手册 (Eclipse 中文版)"
+title: "Parasoft Ctest 92 官方用户手册 Eclipse 中文版"
 date:   2021-02-11
 tags: [C++,test,Parasoft,测试,Eclipse]
 comments: true

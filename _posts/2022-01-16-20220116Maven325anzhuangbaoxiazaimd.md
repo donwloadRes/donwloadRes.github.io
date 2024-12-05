@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.2.5 安装包下载"
+title: "Maven 325 安装包下载"
 date:   2022-06-25
 tags: [Maven,安装包,3.2,环境变量,Java]
 comments: true

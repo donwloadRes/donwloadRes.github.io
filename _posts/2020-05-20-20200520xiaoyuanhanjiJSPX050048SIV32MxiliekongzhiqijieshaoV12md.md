@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小原焊机 JSPX-05-0048 SIV32-M 系列控制器介绍 V1.2"
+title: "小原焊机 JSPX050048 SIV32M 系列控制器介绍 V12"
 date:   2023-11-22
 tags: [控制器,JSPX,05,焊机,0048]
 comments: true

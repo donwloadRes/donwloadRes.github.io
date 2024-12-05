@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro Free Viewer 17.2 版本下载"
+title: "Allegro Free Viewer 172 版本下载"
 date:   2022-04-23
 tags: [PCB,版本,文档,brd,工具]
 comments: true

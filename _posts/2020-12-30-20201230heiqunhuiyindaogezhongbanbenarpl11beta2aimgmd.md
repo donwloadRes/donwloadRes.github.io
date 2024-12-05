@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑群辉引导各种版本arpl-1.1-beta2a.img"
+title: "黑群辉引导各种版本arpl11beta2aimg"
 date:   2024-02-07
 tags: [黑群辉,NAS,引导,arpl,1.1]
 comments: true

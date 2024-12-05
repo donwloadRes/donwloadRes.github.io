@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origin学习记录——微波-毫米波器件或天线结果图绘制"
+title: "Origin学习记录微波毫米波器件或天线结果图绘制"
 date:   2020-01-26
 tags: [绘制,Origin,图层,天线,微波]
 comments: true

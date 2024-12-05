@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制理论试题和答案（好）"
+title: "现代控制理论试题和答案好"
 date:   2023-11-16
 tags: [试题,理论,控制,现代,考研]
 comments: true

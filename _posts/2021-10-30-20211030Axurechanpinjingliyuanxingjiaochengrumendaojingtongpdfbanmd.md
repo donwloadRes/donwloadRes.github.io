@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure产品经理原型教程-入门到精通pdf版"
+title: "Axure产品经理原型教程入门到精通pdf版"
 date:   2022-02-03
 tags: [Axure,教程,原型,入门,pdf]
 comments: true

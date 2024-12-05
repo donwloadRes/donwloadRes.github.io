@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+HTML桌面应用实例"
+title: "PythonHTML桌面应用实例"
 date:   2024-01-15
 tags: [Python,桌面,HTML,实例,应用程序]
 comments: true

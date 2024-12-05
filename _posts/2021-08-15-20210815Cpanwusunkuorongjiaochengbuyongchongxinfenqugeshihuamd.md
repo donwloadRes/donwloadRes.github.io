@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C盘无损扩容教程（不用重新分区格式化）"
+title: "C盘无损扩容教程不用重新分区格式化"
 date:   2024-09-19
 tags: [C盘,空间,D盘,分区,磁盘]
 comments: true

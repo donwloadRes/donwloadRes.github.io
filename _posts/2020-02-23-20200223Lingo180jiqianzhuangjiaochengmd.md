@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lingo 18.0 及其安装教程"
+title: "Lingo 180 及其安装教程"
 date:   2022-10-29
 tags: [Lingo,18.0,x3,优化,安装]
 comments: true

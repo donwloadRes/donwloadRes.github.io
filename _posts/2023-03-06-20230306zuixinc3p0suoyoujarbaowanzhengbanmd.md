@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新c3p0所有jar包（完整版）"
+title: "最新c3p0所有jar包完整版"
 date:   2022-04-16
 tags: [c3p0,连接池,jar,完整版,数据库]
 comments: true

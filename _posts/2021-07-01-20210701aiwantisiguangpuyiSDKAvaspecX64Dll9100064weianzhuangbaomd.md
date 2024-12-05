@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱万提斯光谱仪SDK - AvaspecX64Dll 9.10.0.0 64位安装包"
+title: "爱万提斯光谱仪SDK  AvaspecX64Dll 91000 64位安装包"
 date:   2023-04-12
 tags: [SDK,光谱仪,提斯,爱万,开发者]
 comments: true

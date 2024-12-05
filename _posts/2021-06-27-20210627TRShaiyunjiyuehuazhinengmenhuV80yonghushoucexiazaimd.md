@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TRS海云集约化智能门户V8.0用户手册下载"
+title: "TRS海云集约化智能门户V80用户手册下载"
 date:   2024-04-29
 tags: [用户手册,V8.0,集约化,门户,TRS]
 comments: true

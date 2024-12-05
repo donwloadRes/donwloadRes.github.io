@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019-202 国科大随机过程试卷"
+title: "2019202 国科大随机过程试卷"
 date:   2023-12-08
 tags: [试卷,随机,2019,科大,202]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buffalo_L 资源文件下载"
+title: "BuffaloL 资源文件下载"
 date:   2023-04-15
 tags: [insightface,文件,下载,项目,buffalo]
 comments: true

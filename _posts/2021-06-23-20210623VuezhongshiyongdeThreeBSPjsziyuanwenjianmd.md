@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue中使用的ThreeBSP.js资源文件"
+title: "Vue中使用的ThreeBSPjs资源文件"
 date:   2020-05-26
 tags: [网格,const,js,threebsp,对象]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR4-SPD 详解资源下载"
+title: "DDR4SPD 详解资源下载"
 date:   2023-09-06
 tags: [DDR4,SPD,内存模块,详解,文件]
 comments: true

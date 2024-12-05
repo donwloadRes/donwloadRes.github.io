@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记单词微信小程序源码（毕业设计）"
+title: "记单词微信小程序源码毕业设计"
 date:   2020-10-09
 tags: [学习,单词,微信,项目,源码]
 comments: true

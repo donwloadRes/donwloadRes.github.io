@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小熊猫C++ IDE带GCC 11.2安装版"
+title: "小熊猫C IDE带GCC 112安装版"
 date:   2023-03-05
 tags: [C++,IDE,开发者,GCC,11.2]
 comments: true

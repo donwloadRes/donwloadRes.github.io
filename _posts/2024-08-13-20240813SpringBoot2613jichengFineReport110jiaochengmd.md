@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot 2.6.13 集成 FineReport 11.0 教程"
+title: "Spring Boot 2613 集成 FineReport 110 教程"
 date:   2022-08-12
 tags: [Spring,Boot,FineReport,集成,教程]
 comments: true

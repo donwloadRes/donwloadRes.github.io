@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM 体系结构与编程 （书）资源下载"
+title: "ARM 体系结构与编程 书资源下载"
 date:   2024-06-16
 tags: [ARM,体系结构,编程,下载,资源]
 comments: true

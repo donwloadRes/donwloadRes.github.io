@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EIP-CIP-V2-1.0 中文版下载仓库"
+title: "EIPCIPV210 中文版下载仓库"
 date:   2020-10-05
 tags: [文件,EIP,CIP,V2,1.0]
 comments: true

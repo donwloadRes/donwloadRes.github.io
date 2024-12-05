@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lora sx1278+stm32（ADC录音）+SPPEX音频压缩 数字对讲机"
+title: "Lora sx1278stm32ADC录音SPPEX音频压缩 数字对讲机"
 date:   2024-01-01
 tags: [音频,SPPEX,STM32,Lora,对讲机]
 comments: true

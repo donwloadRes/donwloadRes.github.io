@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA课程设计任务书 - 数字电子钟设计"
+title: "FPGA课程设计任务书  数字电子钟设计"
 date:   2020-10-03
 tags: [FPGA,任务书,设计,电子钟,模块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息学奥赛培训教程C++版--基础"
+title: "信息学奥赛培训教程C版基础"
 date:   2024-05-17
 tags: [信息学,C++,教程,奥赛,编程]
 comments: true

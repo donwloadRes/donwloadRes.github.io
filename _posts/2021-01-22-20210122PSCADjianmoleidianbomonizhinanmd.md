@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSCAD建模：雷电波模拟指南"
+title: "PSCAD建模雷电波模拟指南"
 date:   2021-06-03
 tags: [仿真,PSCAD,雷电,模拟,EMTDC]
 comments: true

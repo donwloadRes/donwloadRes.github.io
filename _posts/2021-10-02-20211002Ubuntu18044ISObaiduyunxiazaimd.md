@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04.4 ISO 百度云下载"
+title: "Ubuntu 18044 ISO 百度云下载"
 date:   2021-10-11
 tags: [18.04,下载,版本,Ubuntu,ISO]
 comments: true

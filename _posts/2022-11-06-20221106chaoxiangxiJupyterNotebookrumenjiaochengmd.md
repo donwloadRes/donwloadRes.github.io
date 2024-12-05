@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（超详细）Jupyter Notebook入门教程"
+title: "超详细Jupyter Notebook入门教程"
 date:   2020-05-10
 tags: [Jupyter,Notebook,教程,使用,入门教程]
 comments: true

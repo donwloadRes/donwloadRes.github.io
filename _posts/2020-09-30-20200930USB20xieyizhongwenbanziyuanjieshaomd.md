@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0协议中文版资源介绍"
+title: "USB20协议中文版资源介绍"
 date:   2024-10-10
 tags: [USB2.0,USB,speed,中文版,协议]
 comments: true

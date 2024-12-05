@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python手写体数字识别——带详细注释"
+title: "Python手写体数字识别带详细注释"
 date:   2024-05-30
 tags: [神经网络,模型,Python,模块,训练]
 comments: true

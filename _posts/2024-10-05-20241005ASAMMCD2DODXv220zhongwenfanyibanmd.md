@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASAM MCD-2D ODX v2.2.0 中文翻译版"
+title: "ASAM MCD2D ODX v220 中文翻译版"
 date:   2023-06-08
 tags: [中文翻译,ASAM,MCD,2D,ODX]
 comments: true

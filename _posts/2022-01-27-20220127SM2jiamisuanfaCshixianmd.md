@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2加密算法C++实现"
+title: "SM2加密算法C实现"
 date:   2020-03-26
 tags: [SM2,加密算法,C++,MFC,文件]
 comments: true

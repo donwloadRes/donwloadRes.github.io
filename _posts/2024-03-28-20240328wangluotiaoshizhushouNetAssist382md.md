@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络调试助手 NetAssist 3.8.2"
+title: "网络调试助手 NetAssist 382"
 date:   2022-07-22
 tags: [网络,调试,测试,助手,NetAssist]
 comments: true

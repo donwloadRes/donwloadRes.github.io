@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C_C++ Wavelet小波分析之一维小波分解与重构"
+title: "CC Wavelet小波分析之一维小波分解与重构"
 date:   2023-05-04
 tags: [小波,代码,重构,仓库,C++]
 comments: true

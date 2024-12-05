@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SW Requirements Document软件需求文档.pdf"
+title: "SW Requirements Document软件需求文档pdf"
 date:   2022-07-17
 tags: [软件,文档,需求,pdf,开发者]
 comments: true

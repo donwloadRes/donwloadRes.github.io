@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407VET6 串口通信蓝牙 SPL 固件库函数版(0402) 资源下载"
+title: "STM32F407VET6 串口通信蓝牙 SPL 固件库函数版0402 资源下载"
 date:   2022-04-10
 tags: [串口,蓝牙,STM32F407VET6,库函数,SPL]
 comments: true

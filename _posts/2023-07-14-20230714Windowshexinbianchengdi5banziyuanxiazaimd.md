@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows核心编程(第5版) 资源下载"
+title: "Windows核心编程第5版 资源下载"
 date:   2024-06-28
 tags: [Windows,编程,资源,下载,文件]
 comments: true

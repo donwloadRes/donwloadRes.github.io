@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEC-HMS操作笔记（中文）下载"
+title: "HECHMS操作笔记中文下载"
 date:   2020-11-26
 tags: [HEC,HMS,笔记,操作,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 Modbus RTU 主从通讯例程（主站轮询）"
+title: "S71200 Modbus RTU 主从通讯例程主站轮询"
 date:   2024-03-13
 tags: [例程,轮询,TIA,V13,S7]
 comments: true

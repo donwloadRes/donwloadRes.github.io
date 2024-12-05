@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keithley2400-吉时利2400数字源表中文说明书"
+title: "Keithley2400吉时利2400数字源表中文说明书"
 date:   2023-09-14
 tags: [2400,测试,源表,吉时,电压]
 comments: true

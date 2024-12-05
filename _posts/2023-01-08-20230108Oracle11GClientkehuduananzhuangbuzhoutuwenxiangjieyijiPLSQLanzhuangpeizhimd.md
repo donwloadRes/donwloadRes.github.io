@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11G Client 客户端安装步骤（图文详解）以及 PL-SQL 安装配置"
+title: "Oracle 11G Client 客户端安装步骤图文详解以及 PLSQL 安装配置"
 date:   2024-01-01
 tags: [Oracle,PL,SQL,安装,Developer]
 comments: true

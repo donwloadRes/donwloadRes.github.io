@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式开发详解 - 资源下载"
+title: "嵌入式开发详解  资源下载"
 date:   2020-12-18
 tags: [嵌入式,开发,资源,详解,PDF]
 comments: true

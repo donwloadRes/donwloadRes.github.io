@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB走线温度、电流计算工具"
+title: "PCB走线温度电流计算工具"
 date:   2022-02-02
 tags: [PCB,走线,电流,计算,工具]
 comments: true

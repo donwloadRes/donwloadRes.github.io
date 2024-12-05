@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 14.04 百度网盘分享下载"
+title: "Ubuntu 1404 百度网盘分享下载"
 date:   2023-01-14
 tags: [百度网,14.04,分享,下载,文件]
 comments: true

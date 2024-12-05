@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2012上安装.NET Framework 3.5"
+title: "Windows Server 2012上安装NET Framework 35"
 date:   2020-03-10
 tags: [安装,界面,点击,服务器,NET]
 comments: true

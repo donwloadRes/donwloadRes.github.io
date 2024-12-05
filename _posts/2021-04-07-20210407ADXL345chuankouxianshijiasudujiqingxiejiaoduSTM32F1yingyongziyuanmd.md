@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADXL345串口显示加速度及倾斜角度 - STM32F1 应用资源"
+title: "ADXL345串口显示加速度及倾斜角度  STM32F1 应用资源"
 date:   2021-01-28
 tags: [ADXL345,串口,STM32F1,加速度,传感器]
 comments: true

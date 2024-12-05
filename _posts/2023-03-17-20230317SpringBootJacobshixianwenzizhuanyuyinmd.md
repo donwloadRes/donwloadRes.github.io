@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + Jacob 实现文字转语音"
+title: "Spring Boot  Jacob 实现文字转语音"
 date:   2020-11-08
 tags: [Dispatch,new,Variant,ax,spVoice]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 人脸识别与抠图工具"
+title: "C 人脸识别与抠图工具"
 date:   2023-09-23
 tags: [人脸识别,人脸,照片,Emgu,CV]
 comments: true

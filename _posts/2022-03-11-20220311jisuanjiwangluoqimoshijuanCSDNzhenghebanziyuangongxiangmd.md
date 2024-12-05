@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络期末试卷CSDN整合版（资源共享）"
+title: "计算机网络期末试卷CSDN整合版资源共享"
 date:   2022-01-06
 tags: [计算机网络,期末试卷,CSDN,复习,试卷]
 comments: true

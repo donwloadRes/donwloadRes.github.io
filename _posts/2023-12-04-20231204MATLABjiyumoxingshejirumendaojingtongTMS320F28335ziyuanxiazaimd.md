@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB基于模型设计（入门到精通）TMS320F28335 资源下载"
+title: "MATLAB基于模型设计入门到精通TMS320F28335 资源下载"
 date:   2021-08-18
 tags: [Simulink,代码生成,模型,Matlab,Ti]
 comments: true

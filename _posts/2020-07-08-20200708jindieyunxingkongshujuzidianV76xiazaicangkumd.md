@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶云星空数据字典V7.6 下载仓库"
+title: "金蝶云星空数据字典V76 下载仓库"
 date:   2020-04-26
 tags: [金蝶,V7.6,星空,字典,仓库]
 comments: true

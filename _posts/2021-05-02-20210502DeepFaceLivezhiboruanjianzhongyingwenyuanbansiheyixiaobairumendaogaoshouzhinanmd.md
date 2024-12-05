@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepFaceLive直播软件（中英文原版四合一）- 小白入门到高手指南"
+title: "DeepFaceLive直播软件中英文原版四合一 小白入门到高手指南"
 date:   2020-01-21
 tags: [直播,DeepFaceLive,资源,教程,英文原版]
 comments: true

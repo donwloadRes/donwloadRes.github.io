@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智慧外链小程序源码：抖音跳转微信加好友"
+title: "智慧外链小程序源码抖音跳转微信加好友"
 date:   2023-08-01
 tags: [推广,链接,抖音,微信,源码]
 comments: true

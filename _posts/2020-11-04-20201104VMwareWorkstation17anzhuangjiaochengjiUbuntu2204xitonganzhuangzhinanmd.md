@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 17 安装教程及 Ubuntu 22.04 系统安装指南"
+title: "VMware Workstation 17 安装教程及 Ubuntu 2204 系统安装指南"
 date:   2023-08-27
 tags: [VMware,Ubuntu,22.04,Workstation,17]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tesseract-aarch64 rpm合集包"
+title: "tesseractaarch64 rpm合集包"
 date:   2024-10-24
 tags: [Tesseract,OCR,RPM,ARM,中文]
 comments: true

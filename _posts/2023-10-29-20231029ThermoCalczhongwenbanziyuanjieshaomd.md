@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thermo-Calc中文版资源介绍"
+title: "ThermoCalc中文版资源介绍"
 date:   2021-01-27
 tags: [动力学,热力学,Thermo,Calc,材料]
 comments: true

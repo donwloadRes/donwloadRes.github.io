@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVID协议规范与自学笔记-水印版"
+title: "SVID协议规范与自学笔记水印版"
 date:   2024-06-04
 tags: [SVID,协议,笔记,自学,印版]
 comments: true

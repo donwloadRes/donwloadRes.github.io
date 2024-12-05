@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP通信C#例程"
+title: "TCPIP通信C例程"
 date:   2022-04-30
 tags: [服务器端,客户端,例程,TCP,IP]
 comments: true

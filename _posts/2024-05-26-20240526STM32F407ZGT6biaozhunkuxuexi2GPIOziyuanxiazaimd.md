@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6标准库学习-2-GPIO资源下载"
+title: "STM32F407ZGT6标准库学习2GPIO资源下载"
 date:   2020-10-21
 tags: [GPIO,STM32F407ZGT6,标准,代码,下载]
 comments: true

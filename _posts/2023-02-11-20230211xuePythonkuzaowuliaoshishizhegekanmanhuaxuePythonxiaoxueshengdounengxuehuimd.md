@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学Python枯燥无聊？试试这个看漫画学Python，小学生都能学会！"
+title: "学Python枯燥无聊试试这个看漫画学Python小学生都能学会"
 date:   2020-12-02
 tags: [Python,漫画,编程,练习题,学习]
 comments: true

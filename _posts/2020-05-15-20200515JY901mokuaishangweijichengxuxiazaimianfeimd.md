@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JY901模块上位机程序下载（免费）"
+title: "JY901模块上位机程序下载免费"
 date:   2023-08-05
 tags: [JY901,模块,上位,程序,测量]
 comments: true

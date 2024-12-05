@@ -1,6 +1,32 @@
 ---
 layout: post
-title: "Qt实现AES加密和解密"
+title: "Qt实现AES加密和解密
+date   20240103
+tags AES加密解密QtQString
+comments true
+author admin
+
+ Qt实现AES加密和解密
+
+ 简介
+本仓库提供了一个基于Qt的AES加密和解密实现适用于需要在Qt项目中进行对称加密的开发者Qt本身并没有内置的对称加密算法因此本资源提供了一个可以直接使用的实现方便开发者快速集成到项目中
+
+ 功能特点
+ AES加密支持AES128AES192和AES256加密模式
+ AES解密支持AES128AES192和AES256解密模式
+ 易于集成代码结构清晰可以直接复制到Qt项目中使用
+ 跨平台适用于WindowsLinux和macOS等平台
+
+ 使用方法
+1 下载资源文件将本仓库中的资源文件下载到本地
+2 集成到项目将下载的文件添加到你的Qt项目中
+3 调用加密解密函数根据需要调用相应的加密或解密函数
+
+ 示例代码
+以下是一个简单的示例代码展示了如何使用本资源中的AES加密和解密功能
+
+cpp
+include aesh"
 date:   2024-01-03
 tags: [AES,加密,解密,Qt,QString]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "终极内存技术指南(存储时代水印)"
+title: "终极内存技术指南存储时代水印"
 date:   2023-05-14
 tags: [内存,技术,水印,读者,文件]
 comments: true

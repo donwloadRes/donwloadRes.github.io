@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理》_吴镇扬版_习题答案"
+title: "数字信号处理吴镇扬版习题答案"
 date:   2024-03-20
 tags: [答案,习题,信号处理,学习,考研]
 comments: true

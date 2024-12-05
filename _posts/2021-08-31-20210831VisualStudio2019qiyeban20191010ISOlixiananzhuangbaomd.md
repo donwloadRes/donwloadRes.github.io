@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2019 企业版 2019.10.10 ISO 离线安装包"
+title: "Visual Studio 2019 企业版 20191010 ISO 离线安装包"
 date:   2024-10-23
 tags: [ISO,2019,Visual,Studio,10]
 comments: true

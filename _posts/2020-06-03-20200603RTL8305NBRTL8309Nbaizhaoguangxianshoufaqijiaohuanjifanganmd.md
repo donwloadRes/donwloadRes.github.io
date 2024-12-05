@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8305NB-RTL8309N百兆光纤收发器交换机方案"
+title: "RTL8305NBRTL8309N百兆光纤收发器交换机方案"
 date:   2021-10-09
 tags: [拨码,光纤,软件,芯片,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA 7.0 逆向分析工具资源下载"
+title: "IDA 70 逆向分析工具资源下载"
 date:   2023-09-18
 tags: [7.0,IDA,逆向,文件,so]
 comments: true

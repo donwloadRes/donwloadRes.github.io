@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.STM32G0xx_DFP.1.4.0.pack 最新MKD包"
+title: "KeilSTM32G0xxDFP140pack 最新MKD包"
 date:   2024-10-07
 tags: [Keil,STM32G0xx,DFP.1,4.0,pack]
 comments: true

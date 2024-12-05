@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QC4.0+PD全协议闪充充电宝主板DIY版"
+title: "QC40PD全协议闪充充电宝主板DIY版"
 date:   2020-07-13
 tags: [支持,DIY,QC4.0,PD,闪充]
 comments: true

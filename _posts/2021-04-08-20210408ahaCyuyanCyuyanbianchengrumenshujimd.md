@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "啊哈C语言 - C语言编程入门书籍"
+title: "啊哈C语言  C语言编程入门书籍"
 date:   2023-06-22
 tags: [C语言,编程,啊哈,书籍,入门]
 comments: true

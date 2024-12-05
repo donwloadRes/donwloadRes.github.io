@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-Explorer入门资料"
+title: "PCANExplorer入门资料"
 date:   2022-12-02
 tags: [PCAN,Explorer,总线,入门,资料]
 comments: true

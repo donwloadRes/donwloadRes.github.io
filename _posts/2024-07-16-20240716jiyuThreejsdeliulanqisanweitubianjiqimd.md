@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Three.js的浏览器三维图编辑器"
+title: "基于Threejs的浏览器三维图编辑器"
 date:   2021-03-29
 tags: [几何体,编辑器,浏览器,三维图,缩放]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual Basic for Applications 7.0 插件（vba7.0插件）"
+title: "Microsoft Visual Basic for Applications 70 插件vba70插件"
 date:   2023-06-11
 tags: [插件,WPS,Excel,Microsoft,Visual]
 comments: true

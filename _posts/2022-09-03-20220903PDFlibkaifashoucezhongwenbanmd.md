@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFlib开发手册（中文版）"
+title: "PDFlib开发手册中文版"
 date:   2022-02-25
 tags: [PDFlib,PDF,手册,文档,本手册]
 comments: true

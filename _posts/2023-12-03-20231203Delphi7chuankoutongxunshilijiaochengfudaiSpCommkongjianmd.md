@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 7串口通讯实例教程（附带SpComm控件）"
+title: "Delphi 7串口通讯实例教程附带SpComm控件"
 date:   2022-05-12
 tags: [串口,控件,Delphi,SpComm,通讯]
 comments: true

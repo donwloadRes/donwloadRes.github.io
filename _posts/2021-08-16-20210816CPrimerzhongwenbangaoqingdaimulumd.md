@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 中文版 - 高清带目录"
+title: "C Primer 中文版  高清带目录"
 date:   2022-08-07
 tags: [C++,中文版,高清,目录,Primer]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VW 80000 中文版（网上流传最高清版本）"
+title: "VW 80000 中文版网上流传最高清版本"
 date:   2023-04-08
 tags: [版本,VW,06,部件,试验]
 comments: true

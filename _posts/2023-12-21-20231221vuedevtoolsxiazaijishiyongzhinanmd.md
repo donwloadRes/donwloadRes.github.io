@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vue-devtools 下载及使用指南"
+title: "vuedevtools 下载及使用指南"
 date:   2020-01-22
 tags: [devtools,Vue,chrome,下载,浏览器]
 comments: true

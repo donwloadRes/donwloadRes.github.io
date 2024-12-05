@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++17 完全指南》中文翻译版"
+title: "C17 完全指南中文翻译版"
 date:   2021-08-06
 tags: [C++,17,中文翻译,编译器,指南]
 comments: true

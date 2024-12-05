@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRC16 Demo程序：QString类型16进制转换为ByteArray并增加空格"
+title: "CRC16 Demo程序QString类型16进制转换为ByteArray并增加空格"
 date:   2023-08-19
 tags: [校验,输入,CRC16,QString,16]
 comments: true

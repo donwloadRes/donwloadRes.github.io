@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go.js电路图DOM资源文件"
+title: "Gojs电路图DOM资源文件"
 date:   2024-09-17
 tags: [电路图,Go,js,编辑器,简易版]
 comments: true

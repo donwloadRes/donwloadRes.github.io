@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5 6.0 模型资源文件"
+title: "YOLOv5 60 模型资源文件"
 date:   2023-09-27
 tags: [6.0,文件,YOLOv5,模型,yolov5]
 comments: true

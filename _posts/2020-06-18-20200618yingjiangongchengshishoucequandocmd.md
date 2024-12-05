@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件工程师手册(全).doc"
+title: "硬件工程师手册全doc"
 date:   2024-11-10
 tags: [硬件,确保,单板,工程师,doc]
 comments: true

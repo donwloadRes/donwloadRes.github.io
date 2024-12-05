@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多元统计分析基于R.pdf 下载仓库"
+title: "多元统计分析基于Rpdf 下载仓库"
 date:   2020-06-01
 tags: [统计分析,多元,pdf,基于,仓库]
 comments: true

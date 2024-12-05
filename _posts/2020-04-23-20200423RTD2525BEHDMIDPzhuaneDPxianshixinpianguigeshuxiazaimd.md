@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2525BE HDMI+DP转eDP 显示芯片规格书下载"
+title: "RTD2525BE HDMIDP转eDP 显示芯片规格书下载"
 date:   2022-08-19
 tags: [规格书,RTD2525BE,eDP,芯片,HDMI]
 comments: true

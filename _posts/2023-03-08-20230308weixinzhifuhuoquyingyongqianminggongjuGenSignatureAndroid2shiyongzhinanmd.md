@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信支付获取应用签名工具Gen_Signature_Android2 使用指南"
+title: "微信支付获取应用签名工具GenSignatureAndroid2 使用指南"
 date:   2022-01-19
 tags: [微信,签名,应用,Gen,Signature]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为 C++ 培训资料"
+title: "华为 C 培训资料"
 date:   2024-11-10
 tags: [C++,华为,多态,接口,学习]
 comments: true

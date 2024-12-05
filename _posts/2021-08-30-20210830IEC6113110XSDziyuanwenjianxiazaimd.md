@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61131-10 XSD 资源文件下载"
+title: "IEC 6113110 XSD 资源文件下载"
 date:   2023-05-08
 tags: [10,IEC,61131,文件,XSD]
 comments: true

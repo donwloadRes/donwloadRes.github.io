@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT 协议 3.1.1 中文版"
+title: "MQTT 协议 311 中文版"
 date:   2021-06-25
 tags: [MQTT,3.1,协议,中文版,文件]
 comments: true

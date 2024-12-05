@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaFX官方教程（中文版）"
+title: "JavaFX官方教程中文版"
 date:   2021-02-13
 tags: [JavaFX,教程,中文版,学习,应用]
 comments: true

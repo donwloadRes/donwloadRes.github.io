@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC协议规范文档 - JESD84-B51.pdf"
+title: "eMMC协议规范文档  JESD84B51pdf"
 date:   2023-03-13
 tags: [文档,JESD84,eMMC,B51,pdf]
 comments: true

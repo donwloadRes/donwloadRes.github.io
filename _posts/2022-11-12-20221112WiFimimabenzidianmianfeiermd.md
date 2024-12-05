@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WiFi密码本字典（免费二）"
+title: "WiFi密码本字典免费二"
 date:   2024-09-01
 tags: [字典,WiFi,密码,破解,使用]
 comments: true

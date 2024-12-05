@@ -1,6 +1,32 @@
 ---
 layout: post
-title: "MessageBox.Avalonia：AvaloniaUI的消息框"
+title: "MessageBoxAvaloniaAvaloniaUI的消息框
+date   20211124
+tags MessageBoxAvaloniaAvaloniaUI消息messageBoxStandardWindow
+comments true
+author admin
+
+ MessageBoxAvaloniaAvaloniaUI的消息框
+
+ 简介
+MessageBoxAvalonia 是一个适用于 AvaloniaUI 010 的消息框组件它提供了一个简单易用的接口帮助开发者在 AvaloniaUI 应用程序中快速实现消息框功能
+
+ 安装方法
+您可以通过以下两种方式获取 MessageBoxAvalonia
+1 使用 NuGet 包管理器安装
+   
+   dotnet add package MessageBoxAvalonia
+   
+2 直接下载本仓库中的资源文件
+
+ 使用指南
+ 入门示例
+以下是一个简单的使用示例
+csharp
+var messageBoxStandardWindow  MessageBoxAvaloniaMessageBoxManager
+    GetMessageBoxStandardWindow
+        title Lorem ipsum dolor sit amet consectetur adipiscing elit sed
+        text 您的消息内容"
 date:   2021-11-24
 tags: [MessageBox,Avalonia,AvaloniaUI,消息,messageBoxStandardWindow]
 comments: true

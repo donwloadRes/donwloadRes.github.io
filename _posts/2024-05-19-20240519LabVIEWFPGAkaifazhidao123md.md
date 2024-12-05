@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW FPGA开发指导1-2-3"
+title: "LabVIEW FPGA开发指导123"
 date:   2022-09-27
 tags: [LabVIEW,FPGA,开发,指导,资料]
 comments: true

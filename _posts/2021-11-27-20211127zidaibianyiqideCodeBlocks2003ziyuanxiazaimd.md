@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自带编译器的CodeBlocks 20.03 资源下载"
+title: "自带编译器的CodeBlocks 2003 资源下载"
 date:   2020-12-22
 tags: [CodeBlocks,C++,编译器,20.03,开源]
 comments: true

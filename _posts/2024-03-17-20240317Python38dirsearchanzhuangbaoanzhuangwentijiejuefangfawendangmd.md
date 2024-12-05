@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3.8+dirsearch安装包+安装问题解决方法文档"
+title: "Python38dirsearch安装包安装问题解决方法文档"
 date:   2023-10-27
 tags: [Python,安装包,安装,文档,dirsearch]
 comments: true

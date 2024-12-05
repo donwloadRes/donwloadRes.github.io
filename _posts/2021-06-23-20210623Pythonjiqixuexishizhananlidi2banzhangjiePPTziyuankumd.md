@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python机器学习实战案例（第2版）》章节PPT资源库"
+title: "Python机器学习实战案例第2版章节PPT资源库"
 date:   2023-08-31
 tags: [PPT,学习,Python,机器,实战]
 comments: true

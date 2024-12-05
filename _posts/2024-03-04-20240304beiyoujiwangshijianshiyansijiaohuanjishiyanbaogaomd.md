@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北邮计网实践实验四——交换机》实验报告"
+title: "北邮计网实践实验四交换机实验报告"
 date:   2020-10-29
 tags: [实验,交换机,实验报告,步骤,配置]
 comments: true

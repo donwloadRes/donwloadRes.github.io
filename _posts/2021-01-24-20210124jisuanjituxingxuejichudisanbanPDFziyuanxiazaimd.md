@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学基础（第三版）PDF资源下载"
+title: "计算机图形学基础第三版PDF资源下载"
 date:   2023-11-27
 tags: [图形学,计算机,PDF,第三版,Fundamentals]
 comments: true

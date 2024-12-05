@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为C-C++语言编程与安全编程规范"
+title: "华为CC语言编程与安全编程规范"
 date:   2023-02-09
 tags: [编程,C++,规范,华为,安全]
 comments: true

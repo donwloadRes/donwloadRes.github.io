@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Horizon 8 安装部署指南（五）：部署Composer服务器"
+title: "VMware Horizon 8 安装部署指南五部署Composer服务器"
 date:   2021-08-04
 tags: [Composer,服务器,部署,VMware,Horizon]
 comments: true

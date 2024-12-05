@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO：CPU实时检测（摄像头、视频）"
+title: "YOLOCPU实时检测摄像头视频"
 date:   2020-03-14
 tags: [检测,实时,CPU,摄像头,YOLO]
 comments: true

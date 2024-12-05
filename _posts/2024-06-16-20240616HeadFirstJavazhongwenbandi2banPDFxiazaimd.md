@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First Java 中文版 (第 2 版) PDF 下载"
+title: "Head First Java 中文版 第 2 版 PDF 下载"
 date:   2023-01-27
 tags: [Java,PDF,中文版,下载,编程]
 comments: true

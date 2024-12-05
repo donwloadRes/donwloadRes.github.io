@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Windows 10-11安装免费的HEVC解码插件（64位、86位）"
+title: "在Windows 1011安装免费的HEVC解码插件64位86位"
 date:   2022-05-13
 tags: [HEVC,解码,Windows,插件,安装]
 comments: true

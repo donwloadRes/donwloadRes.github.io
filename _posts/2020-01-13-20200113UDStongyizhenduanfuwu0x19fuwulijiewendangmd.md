@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDS（统一诊断服务）0x19服务理解文档"
+title: "UDS统一诊断服务0x19服务理解文档"
 date:   2024-09-12
 tags: [UDS,0x19,服务,文档,诊断]
 comments: true

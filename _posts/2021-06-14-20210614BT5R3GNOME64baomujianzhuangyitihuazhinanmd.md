@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BT5(R3)-GNOME-64保姆级安装一体化指南"
+title: "BT5R3GNOME64保姆级安装一体化指南"
 date:   2022-10-26
 tags: [GNOME,64,BT5,R3,安装]
 comments: true

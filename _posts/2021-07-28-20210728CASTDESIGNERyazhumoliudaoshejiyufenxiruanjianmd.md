@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAST-DESIGNER压铸模流道设计与分析软件"
+title: "CASTDESIGNER压铸模流道设计与分析软件"
 date:   2024-09-11
 tags: [软件,设计,铸造,CAST,DESIGNER]
 comments: true

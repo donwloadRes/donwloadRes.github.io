@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核修炼之道》精华版之方法论"
+title: "Linux内核修炼之道精华版之方法论"
 date:   2020-01-05
 tags: [内核,Linux,精华版,方法论,学习]
 comments: true

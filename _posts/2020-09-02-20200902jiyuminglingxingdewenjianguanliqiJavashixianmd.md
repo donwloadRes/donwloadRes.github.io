@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于命令行的文件管理器 - Java实现"
+title: "基于命令行的文件管理器  Java实现"
 date:   2020-06-04
 tags: [文件,Java,开发者,命令行,exe]
 comments: true

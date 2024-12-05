@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+讯飞智能语音助手"
+title: "Qt讯飞智能语音助手"
 date:   2021-07-04
 tags: [语音,助手,智能,Qt,文件]
 comments: true

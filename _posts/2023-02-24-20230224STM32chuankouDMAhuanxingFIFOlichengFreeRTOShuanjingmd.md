@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口+DMA+环形FIFO例程（FreeRTOS环境）"
+title: "STM32串口DMA环形FIFO例程FreeRTOS环境"
 date:   2021-01-19
 tags: [串口,例程,STM32,DMA,FIFO]
 comments: true

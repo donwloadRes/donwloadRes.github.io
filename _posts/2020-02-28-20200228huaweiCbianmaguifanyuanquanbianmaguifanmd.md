@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为C++编码规范与安全编码规范"
+title: "华为C编码规范与安全编码规范"
 date:   2020-11-18
 tags: [C++,华为,编码,规范,安全]
 comments: true

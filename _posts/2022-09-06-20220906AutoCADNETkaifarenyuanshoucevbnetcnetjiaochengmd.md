@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD.NET开发人员手册(vb.net\c#.net) 教程"
+title: "AutoCADNET开发人员手册vbnetcnet 教程"
 date:   2023-06-07
 tags: [net,手册,AutoCAD,NET,vb]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LMI Gocator 3D线扫传感器 C#调用说明手册"
+title: "LMI Gocator 3D线扫传感器 C调用说明手册"
 date:   2024-07-21
 tags: [Gocator,C#,线扫,传感器,LMI]
 comments: true

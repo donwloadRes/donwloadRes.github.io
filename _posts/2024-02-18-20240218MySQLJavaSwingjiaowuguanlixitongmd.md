@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL + Java Swing 教务管理系统"
+title: "MySQL  Java Swing 教务管理系统"
 date:   2022-05-21
 tags: [数据库,Java,权限,学生,MySQL]
 comments: true

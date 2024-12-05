@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ zlib库源码编译及简单使用（VS2019）"
+title: "C zlib库源码编译及简单使用VS2019"
 date:   2024-04-25
 tags: [zlib,编译,源码,Visual,Studio]
 comments: true

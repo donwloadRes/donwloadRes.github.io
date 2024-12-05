@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深信服下一代防火墙AF用户手册 V8.035"
+title: "深信服下一代防火墙AF用户手册 V8035"
 date:   2024-08-20
 tags: [信服,防火墙,AF,下一代,网络安全]
 comments: true

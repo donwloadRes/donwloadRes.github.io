@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能十年展望（三）：AI视角下的自动驾驶行业全解析"
+title: "人工智能十年展望三AI视角下的自动驾驶行业全解析"
 date:   2020-10-10
 tags: [驾驶,自动,车辆,决策,算法]
 comments: true

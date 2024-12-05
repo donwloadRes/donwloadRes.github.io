@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web端播放RTSP-RTMP视频流Demo"
+title: "Web端播放RTSPRTMP视频流Demo"
 date:   2021-10-20
 tags: [视频流,Web,播放,RTSP,RTMP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "除夕最绚丽3D烟花代码（HTML+音效）"
+title: "除夕最绚丽3D烟花代码HTML音效"
 date:   2021-03-04
 tags: [烟花,3D,音效,代码,浏览器]
 comments: true

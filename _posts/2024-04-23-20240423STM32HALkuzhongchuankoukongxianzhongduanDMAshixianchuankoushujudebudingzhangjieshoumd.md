@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库中串口空闲中断+DMA实现串口数据的不定长接收"
+title: "STM32 HAL库中串口空闲中断DMA实现串口数据的不定长接收"
 date:   2022-06-19
 tags: [串口,DMA,空闲,中断,接收]
 comments: true

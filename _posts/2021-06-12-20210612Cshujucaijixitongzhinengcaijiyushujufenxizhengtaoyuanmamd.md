@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 数据采集系统：智能采集与数据分析整套源码"
+title: "C 数据采集系统智能采集与数据分析整套源码"
 date:   2020-11-17
 tags: [采集,源码,项目,数据分析,C#]
 comments: true

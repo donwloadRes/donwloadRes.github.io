@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PC版微信消息监听自动回复"
+title: "C PC版微信消息监听自动回复"
 date:   2021-07-24
 tags: [原作者,代码,监听,回复,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP-IP 控制康奈视读码枪"
+title: "C TCPIP 控制康奈视读码枪"
 date:   2023-03-31
 tags: [文档,C#,源代码,康奈视,读码]
 comments: true

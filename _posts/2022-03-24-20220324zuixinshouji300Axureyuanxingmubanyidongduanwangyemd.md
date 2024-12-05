@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新收集300+ Axure原型模板(移动端+网页)"
+title: "最新收集300 Axure原型模板移动端网页"
 date:   2024-09-06
 tags: [模板,原型,Axure,网页,设计]
 comments: true

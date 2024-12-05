@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAC下的万能C++头文件：bits-stdc++.h"
+title: "MAC下的万能C头文件bitsstdch"
 date:   2020-02-12
 tags: [头文件,C++,bits,std,c++]
 comments: true

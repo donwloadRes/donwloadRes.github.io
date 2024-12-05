@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论与编码理论 (第2版) 书籍资源"
+title: "信息论与编码理论 第2版 书籍资源"
 date:   2020-06-10
 tags: [编码,信息论,理论,信道编码,香农]
 comments: true

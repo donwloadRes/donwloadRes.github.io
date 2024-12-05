@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "尚硅谷电商项目 - gmall-0529"
+title: "尚硅谷电商项目  gmall0529"
 date:   2022-10-30
 tags: [电商,项目,gmall,0529,硅谷]
 comments: true

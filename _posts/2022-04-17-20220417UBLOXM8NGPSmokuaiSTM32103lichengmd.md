@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UBLOX-M8N-GPS模块STM32103例程"
+title: "UBLOXM8NGPS模块STM32103例程"
 date:   2023-11-02
 tags: [模块,例程,GPS,UBLOX,M8N]
 comments: true

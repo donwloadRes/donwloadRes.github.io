@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JS个人主页博客"
+title: "HTMLCSSJS个人主页博客"
 date:   2020-04-10
 tags: [个人主页,博客,HTML,CSS,JavaScript]
 comments: true

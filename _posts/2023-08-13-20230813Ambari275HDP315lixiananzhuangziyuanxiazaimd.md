@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ambari2.7.5+HDP3.1.5 离线安装资源下载"
+title: "Ambari275HDP315 离线安装资源下载"
 date:   2021-08-21
 tags: [Ambari,HDP,离线,下载,仓库]
 comments: true

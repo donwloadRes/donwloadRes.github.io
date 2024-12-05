@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10学习汇编工具的烦恼——DOSBox0.74的下载和使用"
+title: "解决Win10学习汇编工具的烦恼DOSBox074的下载和使用"
 date:   2022-07-25
 tags: [DOSBox,DOSBox0.74,汇编,MASM,DEBUG]
 comments: true

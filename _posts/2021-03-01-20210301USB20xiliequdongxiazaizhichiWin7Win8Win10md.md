@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0系列驱动下载（支持Win7、Win8、Win10）"
+title: "USB20系列驱动下载支持Win7Win8Win10"
 date:   2022-07-08
 tags: [驱动,Windows,竞赛,USB2.0,下载]
 comments: true

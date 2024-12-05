@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 机器码生成与注册码验证简单实现示例"
+title: "C 机器码生成与注册码验证简单实现示例"
 date:   2021-02-05
 tags: [注册码,机器码,生成,示例,验证]
 comments: true

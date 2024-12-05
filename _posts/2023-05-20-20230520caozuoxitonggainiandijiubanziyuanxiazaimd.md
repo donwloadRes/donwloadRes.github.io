@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统概念（第九版）资源下载"
+title: "操作系统概念第九版资源下载"
 date:   2023-12-09
 tags: [操作系统,第九版,概念,下载,资源]
 comments: true

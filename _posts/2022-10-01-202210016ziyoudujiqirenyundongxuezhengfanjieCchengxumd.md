@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6自由度机器人运动学正反解C++程序"
+title: "6自由度机器人运动学正反解C程序"
 date:   2021-02-03
 tags: [your,机器人,程序,bash,https]
 comments: true

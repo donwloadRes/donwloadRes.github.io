@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04运行Fast-LIO程序指南"
+title: "Ubuntu 2004运行FastLIO程序指南"
 date:   2024-02-17
 tags: [LIO,Livox,Fast,SDK,bash]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU9250移植到F103C8T6，串口输出俯仰角和偏航"
+title: "MPU9250移植到F103C8T6串口输出俯仰角和偏航"
 date:   2021-12-19
 tags: [串口,MPU9250,STM32F103C8T6,微控制器,传感器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Platform Tools 34.0.4 for Windows"
+title: "Android Platform Tools 3404 for Windows"
 date:   2024-04-02
 tags: [Android,r34.0,Windows,fastboot,platform]
 comments: true

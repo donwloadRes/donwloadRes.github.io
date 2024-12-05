@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战加载本地MNIST数据集(NPZ格式)"
+title: "实战加载本地MNIST数据集NPZ格式"
 date:   2023-08-02
 tags: [MNIST,train,test,加载,NPZ]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows10安装openssl环境并命令行调用openssl（快速免编译安装指南）"
+title: "windows10安装openssl环境并命令行调用openssl快速免编译安装指南"
 date:   2020-06-13
 tags: [openssl,环境变量,安装,OpenSSL,Perl]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "导线平差程序（C#版）"
+title: "导线平差程序C版"
 date:   2021-10-06
 tags: [导线,平差,程序,C#,程序开发]
 comments: true

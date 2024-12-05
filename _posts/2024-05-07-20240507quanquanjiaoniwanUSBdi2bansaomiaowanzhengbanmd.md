@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB.第2版 - 扫描完整版"
+title: "圈圈教你玩USB第2版  扫描完整版"
 date:   2024-08-13
 tags: [USB,圈圈,完整版,驱动程序,扫描]
 comments: true

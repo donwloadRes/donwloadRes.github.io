@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eCognition 9.5 版本资源下载"
+title: "eCognition 95 版本资源下载"
 date:   2022-10-07
 tags: [eCognition,版本,9.5,软件,破解]
 comments: true

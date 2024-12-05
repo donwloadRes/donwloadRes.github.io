@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10永久杜比音效安装指南（2021）"
+title: "WIN10永久杜比音效安装指南2021"
 date:   2020-11-09
 tags: [音效,杜比,安装,指南,用户]
 comments: true

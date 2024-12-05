@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 添加 JD-eclipse 反编译插件"
+title: "Eclipse 添加 JDeclipse 反编译插件"
 date:   2020-06-14
 tags: [插件,Eclipse,反编译,JD,eclipse]
 comments: true

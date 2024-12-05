@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thaiphoon Burner v15.00.0 Build 1126 资源文件下载"
+title: "Thaiphoon Burner v15000 Build 1126 资源文件下载"
 date:   2021-05-02
 tags: [内存,文件,Thaiphoon,Burner,v15.00]
 comments: true

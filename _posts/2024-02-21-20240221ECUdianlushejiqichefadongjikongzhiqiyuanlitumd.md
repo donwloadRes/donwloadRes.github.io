@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECU 电路设计 - 汽车发动机控制器原理图"
+title: "ECU 电路设计  汽车发动机控制器原理图"
 date:   2024-06-10
 tags: [电路,原理图,ECU,MCU,电路设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN 2.0 协议 中文版"
+title: "LIN 20 协议 中文版"
 date:   2024-02-25
 tags: [LIN,2.0,中文版,协议,示例]
 comments: true

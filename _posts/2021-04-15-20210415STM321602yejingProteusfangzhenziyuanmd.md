@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+1602液晶Proteus仿真资源"
+title: "STM321602液晶Proteus仿真资源"
 date:   2020-06-06
 tags: [STM32,仿真,Proteus,1602,液晶]
 comments: true

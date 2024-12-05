@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想拯救者Y7000 2019 PG0(81T0)原装出厂Windows10系统下载资源"
+title: "联想拯救者Y7000 2019 PG081T0原装出厂Windows10系统下载资源"
 date:   2023-02-15
 tags: [联想,系统,安装,下载,拯救]
 comments: true

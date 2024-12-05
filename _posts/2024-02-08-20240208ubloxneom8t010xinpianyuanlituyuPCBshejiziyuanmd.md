@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ublox-neo-m8t-0-10芯片原理图与PCB设计资源"
+title: "ubloxneom8t010芯片原理图与PCB设计资源"
 date:   2022-01-20
 tags: [PCB,原理图,ublox,neo,m8t]
 comments: true

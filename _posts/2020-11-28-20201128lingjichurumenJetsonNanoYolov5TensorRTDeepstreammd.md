@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础入门Jetson Nano——Yolov5+TensorRT+Deepstream"
+title: "零基础入门Jetson NanoYolov5TensorRTDeepstream"
 date:   2023-08-17
 tags: [Yolov5,TensorRT,Deepstream,Jetson,Nano]
 comments: true

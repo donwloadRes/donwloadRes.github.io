@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享80个ASP.NET企业网站源码总有一个是你想要的"
+title: "分享80个ASPNET企业网站源码总有一个是你想要的"
 date:   2023-08-04
 tags: [源码,ASP,NET,80,网站]
 comments: true

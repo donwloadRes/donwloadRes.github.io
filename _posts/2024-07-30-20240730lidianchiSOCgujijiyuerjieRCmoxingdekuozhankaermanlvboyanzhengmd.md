@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锂电池SOC估计：基于二阶RC模型的扩展卡尔曼滤波验证"
+title: "锂电池SOC估计基于二阶RC模型的扩展卡尔曼滤波验证"
 date:   2020-05-31
 tags: [SOC,EKF,RC,二阶,算法]
 comments: true

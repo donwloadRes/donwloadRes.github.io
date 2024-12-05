@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCD格式点云归一化的C++实现指南"
+title: "PCD格式点云归一化的C实现指南"
 date:   2023-12-23
 tags: [点云,归一化,pcl,PCD,PCL]
 comments: true

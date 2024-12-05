@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广工EDA实验报告（基于Libero）"
+title: "广工EDA实验报告基于Libero"
 date:   2021-03-16
 tags: [Libero,实验,设计,EDA,实验报告]
 comments: true

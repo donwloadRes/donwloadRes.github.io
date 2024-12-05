@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS中整体、单元刚度和质量矩阵的提取"
+title: "ANSYS中整体单元刚度和质量矩阵的提取"
 date:   2020-05-14
 tags: [矩阵,ANSYS,有限元,提取,刚度]
 comments: true

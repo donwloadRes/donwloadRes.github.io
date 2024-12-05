@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RKUpdateService - 本地OTA升级源码"
+title: "RKUpdateService  本地OTA升级源码"
 date:   2024-07-24
 tags: [升级,源码,固件,RKUpdateService,Rockchip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEC-RAS初步教程资源下载"
+title: "HECRAS初步教程资源下载"
 date:   2020-12-16
 tags: [HEC,RAS,教程,软件,2012]
 comments: true

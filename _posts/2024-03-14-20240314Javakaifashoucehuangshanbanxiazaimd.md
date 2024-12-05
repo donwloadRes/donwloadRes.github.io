@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java开发手册（黄山版）下载"
+title: "Java开发手册黄山版下载"
 date:   2022-08-25
 tags: [Java,手册,开发,开发者,黄山]
 comments: true

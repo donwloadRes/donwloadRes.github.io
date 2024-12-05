@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nltk_data手动安装指南"
+title: "nltkdata手动安装指南"
 date:   2023-12-07
 tags: [nltk,NLTK,data,数据包,下载]
 comments: true

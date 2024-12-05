@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法的TSP问题求解（Matlab源码）"
+title: "基于遗传算法的TSP问题求解Matlab源码"
 date:   2022-12-30
 tags: [Matlab,遗传算法,TSP,问题,代码]
 comments: true

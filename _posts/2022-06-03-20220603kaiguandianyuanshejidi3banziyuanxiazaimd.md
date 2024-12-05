@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源设计(第3版) - 资源下载"
+title: "开关电源设计第3版  资源下载"
 date:   2022-07-26
 tags: [开关电源,设计,下载,普利斯,Abraham]
 comments: true

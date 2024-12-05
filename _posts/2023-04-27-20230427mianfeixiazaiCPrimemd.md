@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费下载C++Prime！"
+title: "免费下载CPrime"
 date:   2024-11-01
 tags: [C++,Prime,PDF,下载,高清]
 comments: true

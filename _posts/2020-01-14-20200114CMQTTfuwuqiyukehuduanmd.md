@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MQTT 服务器与客户端"
+title: "C MQTT 服务器与客户端"
 date:   2021-03-19
 tags: [MQTT,服务器,客户端,C#,项目]
 comments: true

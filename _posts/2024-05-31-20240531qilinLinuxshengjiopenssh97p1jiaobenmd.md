@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟Linux升级openssh-9.7p1脚本"
+title: "麒麟Linux升级openssh97p1脚本"
 date:   2023-04-06
 tags: [脚本,Linux,openssh,update,ssh]
 comments: true

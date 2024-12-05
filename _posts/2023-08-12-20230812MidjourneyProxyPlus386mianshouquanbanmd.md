@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Midjourney-Proxy-Plus-3.8.6免授权版"
+title: "MidjourneyProxyPlus386免授权版"
 date:   2023-01-12
 tags: [版本,MidJourney,Midjourney,Proxy,Plus]
 comments: true

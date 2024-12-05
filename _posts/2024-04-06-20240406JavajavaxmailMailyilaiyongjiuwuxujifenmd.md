@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java javax.mail (Mail) 依赖 - 永久无需积分"
+title: "Java javaxmail Mail 依赖  永久无需积分"
 date:   2021-01-15
 tags: [邮件,依赖,Java,javax,mail]
 comments: true

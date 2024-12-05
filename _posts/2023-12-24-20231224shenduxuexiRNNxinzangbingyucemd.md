@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习——RNN心脏病预测"
+title: "深度学习RNN心脏病预测"
 date:   2023-06-07
 tags: [RNN,模型,心脏病,预测,项目]
 comments: true

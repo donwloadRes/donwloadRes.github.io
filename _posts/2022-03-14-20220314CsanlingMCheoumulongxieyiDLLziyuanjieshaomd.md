@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 三菱MC和欧姆龙协议DLL资源介绍"
+title: "C 三菱MC和欧姆龙协议DLL资源介绍"
 date:   2021-02-22
 tags: [PLC,DLL,欧姆龙,三菱,读取]
 comments: true

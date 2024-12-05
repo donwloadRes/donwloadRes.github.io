@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103的Modbus电表及188-645协议水表项目"
+title: "基于STM32F103的Modbus电表及188645协议水表项目"
 date:   2021-11-03
 tags: [STM32F103,Modbus,协议,188,645]
 comments: true

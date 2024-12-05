@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题2023最新版大合集(485页)"
+title: "Java面试题2023最新版大合集485页"
 date:   2020-04-04
 tags: [Java,Spring,面试,合集,涵盖]
 comments: true

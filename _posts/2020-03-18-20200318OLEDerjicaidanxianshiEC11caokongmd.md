@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLED二级菜单显示（EC11操控）"
+title: "OLED二级菜单显示EC11操控"
 date:   2024-10-29
 tags: [OLED,EC11,STM32F103C8T6,编码器,菜单]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 联合 C# 开发图形匹配自动找圆"
+title: "Halcon 联合 C 开发图形匹配自动找圆"
 date:   2021-11-09
 tags: [Halcon,图形,C#,自动,匹配]
 comments: true

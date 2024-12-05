@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android多媒体功能开发示例：使用MediaPlayer播放音频"
+title: "Android多媒体功能开发示例使用MediaPlayer播放音频"
 date:   2020-11-03
 tags: [播放,音频,Android,MediaPlayer,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Linux版USB-HID通讯范例"
+title: "Qt Linux版USBHID通讯范例"
 date:   2020-05-27
 tags: [USB,HID,Qt,Linux,范例]
 comments: true

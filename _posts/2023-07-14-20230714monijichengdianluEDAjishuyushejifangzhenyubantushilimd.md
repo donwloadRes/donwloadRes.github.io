@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟集成电路EDA技术与设计：仿真与版图实例"
+title: "模拟集成电路EDA技术与设计仿真与版图实例"
 date:   2023-05-16
 tags: [EDA,集成电路,设计,模拟,实例]
 comments: true

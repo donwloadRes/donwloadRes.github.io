@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK-8u131 软件安装教程"
+title: "JDK8u131 软件安装教程"
 date:   2022-03-28
 tags: [JDK,8u131,安装,安装包,教程]
 comments: true

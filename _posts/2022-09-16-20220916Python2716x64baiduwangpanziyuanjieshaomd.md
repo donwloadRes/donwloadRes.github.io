@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 2.7.16 x64 百度网盘资源介绍"
+title: "Python 2716 x64 百度网盘资源介绍"
 date:   2024-10-01
 tags: [Python,2.7,16,版本,x64]
 comments: true

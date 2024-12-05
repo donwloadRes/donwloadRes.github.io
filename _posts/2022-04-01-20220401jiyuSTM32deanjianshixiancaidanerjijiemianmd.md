@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的按键实现菜单（二级界面）"
+title: "基于STM32的按键实现菜单二级界面"
 date:   2022-12-15
 tags: [STM32,菜单,OLED,显示屏,按键]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新编WIN32API大全（中文）"
+title: "新编WIN32API大全中文"
 date:   2023-01-31
 tags: [API,Win32,WIN32API,函数,Windows]
 comments: true

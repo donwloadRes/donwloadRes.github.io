@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NIPS 2017 论文Attention is all you need》 中文翻译版本"
+title: "NIPS 2017 论文Attention is all you need 中文翻译版本"
 date:   2020-03-06
 tags: [Transformer,版本,中文翻译,模型,2017]
 comments: true

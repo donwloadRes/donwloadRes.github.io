@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origin插件下载，流行插件集合"
+title: "Origin插件下载流行插件集合"
 date:   2020-04-11
 tags: [插件,Origin,下载,开发者,集合]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于VLC的C#播放器源码"
+title: "基于VLC的C播放器源码"
 date:   2023-05-27
 tags: [播放,VLC,播放器,C#,视频]
 comments: true

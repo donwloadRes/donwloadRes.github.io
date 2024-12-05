@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跑通A-LOAM并保存点云地图"
+title: "跑通ALOAM并保存点云地图"
 date:   2024-07-11
 tags: [bash,LOAM,aloam,pcd,点云]
 comments: true

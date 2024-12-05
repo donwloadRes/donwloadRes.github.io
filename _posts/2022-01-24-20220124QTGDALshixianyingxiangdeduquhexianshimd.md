@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+GDAL实现影像的读取和显示"
+title: "QTGDAL实现影像的读取和显示"
 date:   2022-01-03
 tags: [影像,读取,QT,GDAL,显示]
 comments: true

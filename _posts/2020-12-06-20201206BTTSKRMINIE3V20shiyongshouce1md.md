@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BTT SKR MINI E3 V2.0使用手册1"
+title: "BTT SKR MINI E3 V20使用手册1"
 date:   2022-11-29
 tags: [主板,BTT,SKR,MINI,E3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASS11.0更新日志及新增功能介绍"
+title: "CASS110更新日志及新增功能介绍"
 date:   2020-11-03
 tags: [修复,功能,CASS11.0,问题,格式]
 comments: true

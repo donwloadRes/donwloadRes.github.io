@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 自定义界面（窗体缩放-跨平台终极版）- 无边框 frameless helper widget"
+title: "Qt 自定义界面窗体缩放跨平台终极版 无边框 frameless helper widget"
 date:   2024-04-21
 tags: [缩放,窗口,边框,Qt,界面]
 comments: true

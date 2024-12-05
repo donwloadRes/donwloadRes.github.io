@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计实验A：基于FPGA的计数器设计"
+title: "数字电路与逻辑设计实验A基于FPGA的计数器设计"
 date:   2020-06-06
 tags: [计数器,仿真,FPGA,设计,时序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 自定义按钮控件 - Button"
+title: "C 自定义按钮控件  Button"
 date:   2023-03-26
 tags: [按钮,控件,自定义,C#,资源]
 comments: true

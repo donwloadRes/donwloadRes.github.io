@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知乎：浅谈基于COMSOL的锂离子电池仿真"
+title: "知乎浅谈基于COMSOL的锂离子电池仿真"
 date:   2023-11-18
 tags: [仿真,电池,COMSOL,锂离子,浅谈]
 comments: true

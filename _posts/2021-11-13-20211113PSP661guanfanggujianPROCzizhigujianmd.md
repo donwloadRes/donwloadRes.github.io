@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSP 6.61 官方固件 + PRO-C自制固件"
+title: "PSP 661 官方固件  PROC自制固件"
 date:   2024-01-11
 tags: [PSP,固件,升级,PRO,官方]
 comments: true

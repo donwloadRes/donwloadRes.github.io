@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 连接 Cache 数据库资源介绍"
+title: "NET 连接 Cache 数据库资源介绍"
 date:   2022-10-03
 tags: [Cache,数据库,连接,ODBC,NET]
 comments: true

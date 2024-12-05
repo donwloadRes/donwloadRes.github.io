@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Remote Console 12.0.4 for Windows 下载"
+title: "VMware Remote Console 1204 for Windows 下载"
 date:   2022-01-18
 tags: [VMware,Remote,Console,12.0,解压]
 comments: true

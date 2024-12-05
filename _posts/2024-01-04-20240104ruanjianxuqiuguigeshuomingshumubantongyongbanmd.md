@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件需求规格说明书模板（通用版）"
+title: "软件需求规格说明书模板通用版"
 date:   2023-07-02
 tags: [模板,需求,规格,说明书,通用版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RF功率设计套件 ADS2022 2.3版"
+title: "RF功率设计套件 ADS2022 23版"
 date:   2020-07-27
 tags: [设计,ADS,射频,套件,RF]
 comments: true

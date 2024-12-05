@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 0-9数字简单语音识别"
+title: "MATLAB 09数字简单语音识别"
 date:   2024-11-28
 tags: [MATLAB,语音,识别,文件,main]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-使用UNet进行图像分割"
+title: "Python使用UNet进行图像分割"
 date:   2021-10-22
 tags: [模型,训练,Python,Net,model]
 comments: true

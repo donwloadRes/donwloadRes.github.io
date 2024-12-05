@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红茶三杯的IE+NP+NA全套笔记"
+title: "红茶三杯的IENPNA全套笔记"
 date:   2021-05-28
 tags: [笔记,学习,红茶,三杯,全套]
 comments: true

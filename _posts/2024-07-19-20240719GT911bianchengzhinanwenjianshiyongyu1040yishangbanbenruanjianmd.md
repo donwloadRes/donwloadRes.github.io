@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GT911编程指南文件（适用于1040以上版本软件）"
+title: "GT911编程指南文件适用于1040以上版本软件"
 date:   2020-03-31
 tags: [GT911,编程,指南,---,版本]
 comments: true

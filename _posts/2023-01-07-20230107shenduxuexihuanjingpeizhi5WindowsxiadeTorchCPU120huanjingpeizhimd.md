@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置5——Windows下的Torch-CPU=1.2.0环境配置"
+title: "深度学习环境配置5Windows下的TorchCPU120环境配置"
 date:   2024-08-16
 tags: [Anaconda,安装,Torch,Windows,CPU]
 comments: true

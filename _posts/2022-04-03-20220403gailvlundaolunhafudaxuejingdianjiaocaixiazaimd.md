@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论导论：哈佛大学经典教材下载"
+title: "概率论导论哈佛大学经典教材下载"
 date:   2022-07-27
 tags: [概率论,教材,下载,经典,哈佛大学]
 comments: true

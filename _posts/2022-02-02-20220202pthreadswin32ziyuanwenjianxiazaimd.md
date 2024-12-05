@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pthreads-win32 资源文件下载"
+title: "pthreadswin32 资源文件下载"
 date:   2020-02-08
 tags: [pthreads,文件,多线程,头文件,win32]
 comments: true

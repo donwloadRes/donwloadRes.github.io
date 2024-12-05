@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱触摸屏编程软件 GT-Designer2 使用指南"
+title: "三菱触摸屏编程软件 GTDesigner2 使用指南"
 date:   2022-09-16
 tags: [触摸屏,软件,GT,Designer2,三菱]
 comments: true

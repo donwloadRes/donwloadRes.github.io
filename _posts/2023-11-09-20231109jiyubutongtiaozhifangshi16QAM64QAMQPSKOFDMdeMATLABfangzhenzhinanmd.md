@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于不同调制方式（16QAM、64QAM、QPSK）OFDM的MATLAB仿真指南"
+title: "基于不同调制方式16QAM64QAMQPSKOFDM的MATLAB仿真指南"
 date:   2021-07-22
 tags: [调制,仿真,OFDM,---,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#直接读写西门子PLC类库——S7.net"
+title: "C直接读写西门子PLC类库S7net"
 date:   2023-07-12
 tags: [类库,PLC,S7,net,client]
 comments: true

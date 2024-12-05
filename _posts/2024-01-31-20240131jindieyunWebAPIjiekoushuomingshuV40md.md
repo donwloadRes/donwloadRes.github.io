@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶云WebAPI接口说明书_V4.0"
+title: "金蝶云WebAPI接口说明书V40"
 date:   2020-07-01
 tags: [接口,金蝶,文档,WebAPI,V4.0]
 comments: true

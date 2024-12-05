@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xlwings操作手册：Python操作Excel的利器"
+title: "xlwings操作手册Python操作Excel的利器"
 date:   2022-04-25
 tags: [xlwings,Excel,Python,操作手册,VBA]
 comments: true

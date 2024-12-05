@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "扩频通信系统的FPGA设计.pdf"
+title: "扩频通信系统的FPGA设计pdf"
 date:   2023-01-11
 tags: [FPGA,扩频通信,设计,信号,无线通信]
 comments: true

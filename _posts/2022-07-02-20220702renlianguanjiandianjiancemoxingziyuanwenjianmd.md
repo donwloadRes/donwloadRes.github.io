@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "人脸关键点检测模型资源文件"
+title: "人脸关键点检测模型资源文件
+date   20200512
+tags predictorfacecv2人脸68
+comments true
+author admin
+
+ 人脸关键点检测模型资源文件
+
+ 简介
+
+本仓库提供了一个用于人脸关键点检测的预训练模型资源文件shapepredictor68facelandmarksdat该文件包含了68个人脸关键点的预测模型适用于人脸识别表情分析人脸对齐等应用场景
+
+ 文件说明
+
+ 文件名 shapepredictor68facelandmarksdat
+ 描述 该文件是一个预训练的模型用于检测人脸的68个关键点这些关键点包括眼睛眉毛鼻子嘴巴和下巴等部位的特征点
+
+ 使用方法
+
+1 下载文件 你可以直接从本仓库下载shapepredictor68facelandmarksdat文件
+2 集成到项目 将下载的文件集成到你的人脸检测或分析项目中
+3 加载模型 使用相应的库如dlib加载该模型文件并进行人脸关键点检测
+
+ 依赖库
+
+ dlib 该模型通常与dlib库一起使用dlib是一个强大的机器学习库支持多种计算机视觉任务
+
+ 示例代码
+
+以下是一个简单的Python示例代码展示如何使用该模型进行人脸关键点检测
+
+python
+import dlib
+import cv2
+
+ 加载模型
+predictorpath  shapepredictor68facelandmarksdat"
 date:   2020-05-12
 tags: [predictor,face,cv2,人脸,68]
 comments: true

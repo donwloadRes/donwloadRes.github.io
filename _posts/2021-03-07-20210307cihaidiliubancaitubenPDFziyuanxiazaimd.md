@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【辞海（第六版彩图本）PDF资源下载】"
+title: "辞海第六版彩图本PDF资源下载"
 date:   2024-06-14
 tags: [第六版,PDF,辞海,彩图,资源]
 comments: true

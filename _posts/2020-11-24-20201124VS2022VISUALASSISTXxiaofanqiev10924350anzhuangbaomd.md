@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2022 VISUAL ASSIST X 小番茄 v10.9.2435.0 安装包"
+title: "VS2022 VISUAL ASSIST X 小番茄 v10924350 安装包"
 date:   2021-10-31
 tags: [Visual,安装包,插件,v10.9,2435.0]
 comments: true

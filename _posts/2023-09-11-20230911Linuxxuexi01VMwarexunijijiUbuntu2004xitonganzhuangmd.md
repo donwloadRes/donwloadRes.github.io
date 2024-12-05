@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux学习01--VMware虚拟机及Ubuntu-20.04系统安装"
+title: "Linux学习01VMware虚拟机及Ubuntu2004系统安装"
 date:   2022-04-02
 tags: [虚拟机,Ubuntu,VMware,安装,20.04]
 comments: true

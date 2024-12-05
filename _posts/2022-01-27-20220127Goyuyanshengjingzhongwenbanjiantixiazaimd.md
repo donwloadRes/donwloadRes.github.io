@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go 语言圣经 中文版(简体) 下载"
+title: "Go 语言圣经 中文版简体 下载"
 date:   2022-06-21
 tags: [Go,中文版,简体,圣经,语言]
 comments: true

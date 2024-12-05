@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elastic-Job Lite 控制台 2.1.4 安装包"
+title: "ElasticJob Lite 控制台 214 安装包"
 date:   2020-05-18
 tags: [控制台,Elastic,Job,2.1,安装包]
 comments: true

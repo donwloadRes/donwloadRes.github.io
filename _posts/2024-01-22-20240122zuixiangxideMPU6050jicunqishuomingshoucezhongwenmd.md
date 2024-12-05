@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细的MPU6050寄存器说明手册-中文"
+title: "最详细的MPU6050寄存器说明手册中文"
 date:   2020-09-30
 tags: [MPU6050,寄存器,手册,开发者,中文]
 comments: true

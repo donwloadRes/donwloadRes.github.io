@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN7系统无法访问CD-ROM或其他可移动磁盘的解决方案"
+title: "WIN7系统无法访问CDROM或其他可移动磁盘的解决方案"
 date:   2024-11-11
 tags: [CD,ROM,无法访问,磁盘,卸载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程经典教程之[1]软件工程概述PPT"
+title: "软件工程经典教程之1软件工程概述PPT"
 date:   2020-10-22
 tags: [软件工程,PPT,文件,软件,软件开发]
 comments: true

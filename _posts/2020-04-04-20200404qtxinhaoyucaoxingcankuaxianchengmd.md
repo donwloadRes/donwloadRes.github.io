@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt+信号与槽+形参+跨线程"
+title: "qt信号与槽形参跨线程"
 date:   2020-02-09
 tags: [线程,Qt,形参,信号,传递]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECharts 5.4.2 离线中文文档"
+title: "ECharts 542 离线中文文档"
 date:   2022-08-24
 tags: [离线,ECharts,文档,文件夹,echarts]
 comments: true

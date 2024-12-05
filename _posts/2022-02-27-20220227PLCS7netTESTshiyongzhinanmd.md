@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC_S7net_TEST 使用指南"
+title: "PLCS7netTEST 使用指南"
 date:   2020-01-21
 tags: [PLC,S7net,TEST,S7,net]
 comments: true

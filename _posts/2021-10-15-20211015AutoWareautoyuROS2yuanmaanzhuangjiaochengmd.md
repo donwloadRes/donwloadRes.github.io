@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoWare.auto 与 ROS2 源码安装教程"
+title: "AutoWareauto 与 ROS2 源码安装教程"
 date:   2022-07-29
 tags: [教程,安装,源码,AutoWare,auto]
 comments: true

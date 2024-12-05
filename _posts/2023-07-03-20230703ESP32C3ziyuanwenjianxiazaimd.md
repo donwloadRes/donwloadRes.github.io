@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-C3 资源文件下载"
+title: "ESP32C3 资源文件下载"
 date:   2023-06-02
 tags: [ESP32,C3,文件,pdf,下载]
 comments: true

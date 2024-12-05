@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open3D点云数据处理教程：VSCode配置Python并安装Open3D"
+title: "Open3D点云数据处理教程VSCode配置Python并安装Open3D"
 date:   2020-09-17
 tags: [Python,安装,Open3D,VSCode,点云]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医药销售管理系统【SQLServer数据库+课程设计文档】"
+title: "医药销售管理系统SQLServer数据库课程设计文档"
 date:   2021-02-24
 tags: [数据库,课程设计,文档,设计,数据]
 comments: true

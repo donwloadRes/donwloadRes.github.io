@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell 7 & Xftp 7 Beta版免费资源"
+title: "Xshell 7  Xftp 7 Beta版免费资源"
 date:   2021-08-05
 tags: [Beta,Xshell,Xftp,版本,公测版]
 comments: true

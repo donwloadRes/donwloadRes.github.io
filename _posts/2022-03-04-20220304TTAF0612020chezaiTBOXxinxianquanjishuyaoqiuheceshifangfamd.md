@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TTAF 061-2020 车载T-BOX信息安全技术要求和测试方法"
+title: "TTAF 0612020 车载TBOX信息安全技术要求和测试方法"
 date:   2023-04-07
 tags: [信息安全,BOX,车载,测试方法,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析第二卷(第四版) [M]（卓里奇）"
+title: "数学分析第二卷第四版 M卓里奇"
 date:   2022-02-02
 tags: [数学分析,学习,第四版,里奇,第二卷]
 comments: true

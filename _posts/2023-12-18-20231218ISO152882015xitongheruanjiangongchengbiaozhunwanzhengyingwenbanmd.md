@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 15288：2015 系统和软件工程标准 - 完整英文版"
+title: "ISO 152882015 系统和软件工程标准  完整英文版"
 date:   2020-04-05
 tags: [软件工程,系统,ISO,15288,2015]
 comments: true

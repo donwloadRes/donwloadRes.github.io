@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DWC_usb3_databook_2.50a.pdf 芯片手册介绍"
+title: "DWCusb3databook250apdf 芯片手册介绍"
 date:   2022-07-09
 tags: [USB3.0,手册,芯片,2.50,技术]
 comments: true

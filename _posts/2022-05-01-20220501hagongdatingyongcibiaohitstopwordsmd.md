@@ -1,6 +1,41 @@
 ---
 layout: post
-title: "哈工大停用词表（hit_stopwords）"
+title: "哈工大停用词表hitstopwords
+date   20240430
+tags stopwords词表hit停用text
+comments true
+author admin
+
+ 哈工大停用词表hitstopwords
+
+ 简介
+
+本仓库提供了一个常用的中文停用词表名为哈工大停用词表hitstopwords该词表由哈尔滨工业大学HIT整理适用于中文文本处理和自然语言处理任务中用于过滤掉常见的无意义词汇提高文本分析的准确性
+
+ 文件内容
+
+ hitstopwordstxt 包含哈工大整理的中文停用词列表
+
+ 使用方法
+
+1 下载文件 你可以通过以下命令克隆整个仓库或直接下载hitstopwordstxt文件
+   bash
+   git clone httpsgithubcomyourrepourlhitstopwordsgit
+   
+
+2 集成到项目 将hitstopwordstxt文件集成到你的自然语言处理项目中使用相应的编程语言读取文件并应用停用词过滤
+
+3 示例代码 以下是一个Python示例代码展示如何读取并使用停用词表
+   python
+   with openhitstopwordstxt r encodingutf8 as f
+       stopwords  freadsplitlines
+
+   def filterstopwordstext
+       words  textsplit
+       filteredwords  word for word in words if word not in stopwords
+       return  joinfilteredwords
+
+   exampletext  这是一个包含停用词的示例文本"
 date:   2024-04-30
 tags: [stopwords,词表,hit,停用,text]
 comments: true

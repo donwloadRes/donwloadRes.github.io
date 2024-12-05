@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 下载、安装与使用指南"
+title: "Navicat Premium 下载安装与使用指南"
 date:   2020-01-31
 tags: [Navicat,Premium,安装,下载,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac Pro M1(ARM)安装Windows虚拟机教程"
+title: "Mac Pro M1ARM安装Windows虚拟机教程"
 date:   2023-01-11
 tags: [虚拟机,Windows,安装,教程,Mac]
 comments: true

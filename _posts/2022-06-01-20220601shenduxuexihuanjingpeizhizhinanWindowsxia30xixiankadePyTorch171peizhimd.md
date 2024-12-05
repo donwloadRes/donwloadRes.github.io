@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置指南：Windows下30系显卡的PyTorch 1.7.1配置"
+title: "深度学习环境配置指南Windows下30系显卡的PyTorch 171配置"
 date:   2024-08-02
 tags: [安装,PyTorch,Anaconda,1.7,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "并联机构换工作空间求解-圆弧相交法 MATLAB程序"
+title: "并联机构换工作空间求解圆弧相交法 MATLAB程序"
 date:   2024-04-30
 tags: [并联,MATLAB,程序,圆弧,求解]
 comments: true

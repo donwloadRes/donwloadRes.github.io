@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 下载与安装指南"
+title: "Quartus II 131 下载与安装指南"
 date:   2021-11-27
 tags: [安装,Quartus,II,13.1,破解]
 comments: true

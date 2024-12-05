@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFT+CFAR ISE 实现资源下载"
+title: "FFTCFAR ISE 实现资源下载"
 date:   2024-10-09
 tags: [ISE,FFT,CFAR,文档,Xilinx]
 comments: true

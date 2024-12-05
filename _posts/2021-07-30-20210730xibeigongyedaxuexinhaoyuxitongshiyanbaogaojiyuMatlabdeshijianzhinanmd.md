@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学信号与系统实验报告 - 基于Matlab的实践指南"
+title: "西北工业大学信号与系统实验报告  基于Matlab的实践指南"
 date:   2024-02-27
 tags: [MATLAB,信号,西北工业大学,变换,傅立叶]
 comments: true

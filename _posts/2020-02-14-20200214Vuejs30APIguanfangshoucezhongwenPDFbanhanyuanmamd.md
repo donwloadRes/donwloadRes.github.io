@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 3.0 API 官方手册 中文PDF版（含源码）"
+title: "Vuejs 30 API 官方手册 中文PDF版含源码"
 date:   2024-06-02
 tags: [Vue,js,源码,3.0,API]
 comments: true

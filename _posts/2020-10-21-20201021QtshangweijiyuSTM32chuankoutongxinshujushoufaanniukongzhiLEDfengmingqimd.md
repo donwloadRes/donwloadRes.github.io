@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt上位机：与STM32串口通信，数据收发，按钮控制LED，蜂鸣器"
+title: "Qt上位机与STM32串口通信数据收发按钮控制LED蜂鸣器"
 date:   2020-02-08
 tags: [STM32,Qt,单片机,串口,上位]
 comments: true

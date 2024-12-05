@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联PS2251-XX系列芯片U盘最新量产软件v3.71.00"
+title: "群联PS2251XX系列芯片U盘最新量产软件v37100"
 date:   2024-04-09
 tags: [U盘,PS2251,芯片,00,量产]
 comments: true

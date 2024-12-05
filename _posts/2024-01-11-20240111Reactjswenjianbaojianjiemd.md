@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React.js 文件包简介"
+title: "Reactjs 文件包简介"
 date:   2020-08-04
 tags: [React,js,文件,版本,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S905L（P211）盒子读取OpenWRT固件及写入EMMC教程"
+title: "S905LP211盒子读取OpenWRT固件及写入EMMC教程"
 date:   2021-10-12
 tags: [固件,OpenWRT,EMMC,教程,写入]
 comments: true

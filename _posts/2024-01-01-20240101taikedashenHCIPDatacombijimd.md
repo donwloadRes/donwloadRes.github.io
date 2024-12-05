@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泰克大神HCIP-Datacom笔记"
+title: "泰克大神HCIPDatacom笔记"
 date:   2024-02-02
 tags: [HCIP,Datacom,笔记,泰克,学习]
 comments: true

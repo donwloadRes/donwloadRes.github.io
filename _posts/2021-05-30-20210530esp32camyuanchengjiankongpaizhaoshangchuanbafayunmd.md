@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "esp32-cam远程监控拍照上传巴法云"
+title: "esp32cam远程监控拍照上传巴法云"
 date:   2022-06-04
 tags: [ESP32,CAM,巴法云,监控,远程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锂离子电池模型：基于实验数据开发的磷酸铁锂电池模型（Matlab开发）"
+title: "锂离子电池模型基于实验数据开发的磷酸铁锂电池模型Matlab开发"
 date:   2020-07-24
 tags: [模型,电池,PLECS,电压,锂离子]
 comments: true

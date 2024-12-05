@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全桥双极性带死区互补SPWM（基于STM32F4）"
+title: "全桥双极性带死区互补SPWM基于STM32F4"
 date:   2020-12-13
 tags: [全桥,STM32F4,SPWM,PID,极性]
 comments: true

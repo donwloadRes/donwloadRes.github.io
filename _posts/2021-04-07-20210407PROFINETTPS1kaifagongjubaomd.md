@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROFINET TPS-1 开发工具包"
+title: "PROFINET TPS1 开发工具包"
 date:   2023-06-19
 tags: [PROFINET,IEC,工具包,开发,61131]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图像相似度比较 Demo"
+title: "C 图像相似度比较 Demo"
 date:   2021-08-24
 tags: [图像,直方图,图像处理,C#,Demo]
 comments: true

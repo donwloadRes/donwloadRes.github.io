@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌存储系统（HUST） 全部七关代码"
+title: "头歌存储系统HUST 全部七关代码"
 date:   2020-08-22
 tags: [缓存,相联,代码,头歌,存储系统]
 comments: true

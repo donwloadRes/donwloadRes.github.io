@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS VX2.7 Mentor PADS Professional 专业版 VX 2.5 资源下载"
+title: "PADS VX27 Mentor PADS Professional 专业版 VX 25 资源下载"
 date:   2024-08-11
 tags: [PADS,专业版,安装,软件,资源]
 comments: true

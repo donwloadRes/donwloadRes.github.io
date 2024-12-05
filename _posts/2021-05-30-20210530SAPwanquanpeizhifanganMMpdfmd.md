@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP 完全配置方案-MM.pdf"
+title: "SAP 完全配置方案MMpdf"
 date:   2023-02-03
 tags: [SAP,MM,配置,pdf,物料]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE R&S 全套培训PPT"
+title: "HCIE RS 全套培训PPT"
 date:   2024-03-25
 tags: [PPT,HCIE,路由,局域网,协议]
 comments: true

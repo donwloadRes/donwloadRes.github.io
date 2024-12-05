@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenVINO C++ 异步推理接口部署YOLOv8 代码"
+title: "OpenVINO C 异步推理接口部署YOLOv8 代码"
 date:   2021-09-23
 tags: [推理,异步,OpenVINO,接口,代码]
 comments: true

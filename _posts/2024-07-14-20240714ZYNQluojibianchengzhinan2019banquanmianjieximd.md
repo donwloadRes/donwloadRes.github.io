@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ裸机编程指南 - 2019版全面解析"
+title: "ZYNQ裸机编程指南  2019版全面解析"
 date:   2024-08-23
 tags: [ZYNQ,裸机,2019,Memory,Access]
 comments: true

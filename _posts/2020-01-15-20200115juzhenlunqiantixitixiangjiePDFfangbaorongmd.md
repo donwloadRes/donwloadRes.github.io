@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵论千题习题详解 PDF - 方保镕"
+title: "矩阵论千题习题详解 PDF  方保镕"
 date:   2022-07-13
 tags: [矩阵,习题,学习,论千题,PDF]
 comments: true

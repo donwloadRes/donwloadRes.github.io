@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+SQLite3仓库管理系统"
+title: "QTSQLite3仓库管理系统"
 date:   2023-07-31
 tags: [SQLite3,QT,仓库,库存,物品]
 comments: true

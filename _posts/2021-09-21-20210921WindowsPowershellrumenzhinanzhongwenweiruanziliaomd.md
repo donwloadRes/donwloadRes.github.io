@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Powershell入门指南（中文）-微软资料"
+title: "Windows Powershell入门指南中文微软资料"
 date:   2021-03-31
 tags: [Powershell,Windows,指南,入门,PDF]
 comments: true

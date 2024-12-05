@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子精英板移植FreeModbusV1.6模板资源下载"
+title: "正点原子精英板移植FreeModbusV16模板资源下载"
 date:   2021-06-15
 tags: [正点,精英,原子,移植,FreeModbusV1.6]
 comments: true

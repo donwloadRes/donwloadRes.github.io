@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BurpSuite下载、设置代理以及FoxyProxy配置指南"
+title: "BurpSuite下载设置代理以及FoxyProxy配置指南"
 date:   2024-08-24
 tags: [FoxyProxy,BurpSuite,代理,浏览器,设置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS电表通讯协议（中文版）下载"
+title: "MODBUS电表通讯协议中文版下载"
 date:   2024-08-23
 tags: [电表,MODBUS,通讯,协议,中文版]
 comments: true

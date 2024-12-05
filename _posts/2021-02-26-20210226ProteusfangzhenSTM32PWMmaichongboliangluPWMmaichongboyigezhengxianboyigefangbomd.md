@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus仿真--STM32 PWM脉冲波（两路PWM脉冲波，一个正弦波一个方波）"
+title: "Proteus仿真STM32 PWM脉冲波两路PWM脉冲波一个正弦波一个方波"
 date:   2023-08-22
 tags: [PWM,脉冲,Proteus,方波,仿真]
 comments: true

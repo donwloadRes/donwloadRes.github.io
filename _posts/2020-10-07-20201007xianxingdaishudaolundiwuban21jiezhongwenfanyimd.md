@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数导论第五版2.1节中文翻译"
+title: "线性代数导论第五版21节中文翻译"
 date:   2023-06-18
 tags: [线性代数,2y,直线,中文翻译,第五版]
 comments: true

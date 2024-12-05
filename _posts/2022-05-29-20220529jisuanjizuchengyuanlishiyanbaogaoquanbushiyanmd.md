@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验报告（全部实验）"
+title: "计算机组成原理实验报告全部实验"
 date:   2023-10-05
 tags: [实验报告,实验,原理,学习,计算机]
 comments: true

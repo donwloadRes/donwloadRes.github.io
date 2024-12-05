@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI S22-0706a 半導體 電氣設計 資源文件"
+title: "SEMI S220706a 半導體 電氣設計 資源文件"
 date:   2024-03-11
 tags: [設計,電氣,標準,源文件,應用]
 comments: true

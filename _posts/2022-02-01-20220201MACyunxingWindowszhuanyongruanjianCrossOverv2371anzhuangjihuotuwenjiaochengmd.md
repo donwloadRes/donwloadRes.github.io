@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAC运行Windows专用软件 CrossOver v23.7.1安装激活图文教程"
+title: "MAC运行Windows专用软件 CrossOver v2371安装激活图文教程"
 date:   2022-09-17
 tags: [CrossOver,Windows,Mac,激活,v23.7]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习+PyTorch安装指南（CPU版）"
+title: "深度学习PyTorch安装指南CPU版"
 date:   2022-12-18
 tags: [PyTorch,安装,指南,CPU,深度]
 comments: true

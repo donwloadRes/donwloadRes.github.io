@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应滤波器原理（西蒙.赫金 第四版 PDF）"
+title: "自适应滤波器原理西蒙赫金 第四版 PDF"
 date:   2023-11-04
 tags: [适应,赫金,PDF,第四版,滤波]
 comments: true

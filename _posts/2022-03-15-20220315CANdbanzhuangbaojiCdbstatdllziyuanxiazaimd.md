@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANdb++安装包及Cdbstat.dll资源下载"
+title: "CANdb安装包及Cdbstatdll资源下载"
 date:   2023-12-31
 tags: [CANdb,++,Cdbstat,dll,安装包]
 comments: true

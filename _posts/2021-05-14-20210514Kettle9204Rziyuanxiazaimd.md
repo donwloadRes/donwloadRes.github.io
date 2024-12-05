@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle 9.2.0.4-R 资源下载"
+title: "Kettle 9204R 资源下载"
 date:   2024-07-06
 tags: [9.2,0.4,kettle,版本,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIS解码开发源代码(C#)加资料01"
+title: "LIS解码开发源代码C加资料01"
 date:   2024-07-02
 tags: [LIS,C#,解码,源代码,医疗]
 comments: true

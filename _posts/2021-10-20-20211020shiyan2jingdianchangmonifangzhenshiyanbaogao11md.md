@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验2静电场模拟仿真实验报告(1)1"
+title: "实验2静电场模拟仿真实验报告11"
 date:   2020-01-18
 tags: [实验,静电场,实验报告,仿真,模拟]
 comments: true

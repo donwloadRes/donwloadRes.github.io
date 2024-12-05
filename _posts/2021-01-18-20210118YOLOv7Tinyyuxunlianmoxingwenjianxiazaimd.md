@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv7-Tiny 预训练模型文件下载"
+title: "YOLOv7Tiny 预训练模型文件下载"
 date:   2021-01-20
 tags: [模型,yolov7,tiny,YOLOv7,Tiny]
 comments: true

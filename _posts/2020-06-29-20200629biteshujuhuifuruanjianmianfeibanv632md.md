@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "比特数据恢复软件免费版 v6.3.2"
+title: "比特数据恢复软件免费版 v632"
 date:   2020-06-12
 tags: [预览,分区,扫描,恢复,数据恢复]
 comments: true

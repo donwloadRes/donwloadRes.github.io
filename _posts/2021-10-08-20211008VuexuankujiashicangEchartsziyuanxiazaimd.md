@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue炫酷驾驶舱+Echarts资源下载"
+title: "Vue炫酷驾驶舱Echarts资源下载"
 date:   2021-11-11
 tags: [驾驶舱,项目,Vue,炫酷,Echarts]
 comments: true

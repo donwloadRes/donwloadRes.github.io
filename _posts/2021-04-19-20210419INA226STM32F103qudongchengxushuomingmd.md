@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INA226_STM32F103 驱动程序说明"
+title: "INA226STM32F103 驱动程序说明"
 date:   2024-10-24
 tags: [STM32F103,INA226,驱动程序,UART,电流]
 comments: true

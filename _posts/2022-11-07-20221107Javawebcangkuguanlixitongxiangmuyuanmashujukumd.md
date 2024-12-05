@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb仓库管理系统项目源码+数据库"
+title: "Javaweb仓库管理系统项目源码数据库"
 date:   2022-12-31
 tags: [数据库,仓库,源码,管理系统,项目]
 comments: true

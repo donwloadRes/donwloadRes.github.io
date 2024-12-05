@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为OLT-MA5680T-GPON开局指导-配置指南"
+title: "华为OLTMA5680TGPON开局指导配置指南"
 date:   2024-05-09
 tags: [OLT,MA5680T,文档,GPON,华为]
 comments: true

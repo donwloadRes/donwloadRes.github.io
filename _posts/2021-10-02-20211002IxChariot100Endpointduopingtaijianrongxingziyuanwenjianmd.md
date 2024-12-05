@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IxChariot 10.0 Endpoint 多平台兼容性资源文件"
+title: "IxChariot 100 Endpoint 多平台兼容性资源文件"
 date:   2024-10-09
 tags: [IxChariot,Endpoint,文件,10.0,macOS]
 comments: true

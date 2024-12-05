@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机多面体骨料模型（iges格式）"
+title: "随机多面体骨料模型iges格式"
 date:   2021-04-16
 tags: [iges,骨料,多面体,模拟,随机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程：WiFi 8位数字密码模块"
+title: "Python编程WiFi 8位数字密码模块"
 date:   2021-07-24
 tags: [Python,模块,WiFi,密码,示例]
 comments: true

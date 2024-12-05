@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows上G++安装指南（演示系统：Windows 10）"
+title: "Windows上G安装指南演示系统Windows 10"
 date:   2024-04-24
 tags: [安装,++,Windows,MinGW,系统]
 comments: true

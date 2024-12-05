@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Verilog IEEE 1364-2005 IEEE标准.pdf"
+title: "最新Verilog IEEE 13642005 IEEE标准pdf"
 date:   2024-09-16
 tags: [Verilog,IEEE,设计,1364,2005]
 comments: true

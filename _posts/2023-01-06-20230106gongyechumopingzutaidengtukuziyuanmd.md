@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业触摸屏、组态等图库资源"
+title: "工业触摸屏组态等图库资源"
 date:   2022-04-17
 tags: [资源,组态,触摸屏,图库,工业]
 comments: true

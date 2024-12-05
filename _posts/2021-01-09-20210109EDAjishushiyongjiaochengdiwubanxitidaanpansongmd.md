@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDA技术实用教程(第五版)》习题答案潘松"
+title: "EDA技术实用教程第五版习题答案潘松"
 date:   2024-07-06
 tags: [EDA,习题,实用教程,第五版,VHDL]
 comments: true

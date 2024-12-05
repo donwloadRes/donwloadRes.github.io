@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+USB 转虚拟串口"
+title: "STM32USB 转虚拟串口"
 date:   2020-07-13
 tags: [串口,USB,STM32,虚拟,代码]
 comments: true

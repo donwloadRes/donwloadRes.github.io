@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPI通信协议中文版（SPIV3）资源下载"
+title: "SPI通信协议中文版SPIV3资源下载"
 date:   2021-05-10
 tags: [SPI,通信协议,协议,SPIV3,文件]
 comments: true

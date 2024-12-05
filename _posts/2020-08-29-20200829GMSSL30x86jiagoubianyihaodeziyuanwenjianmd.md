@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMSSL 3.0（x86架构）编译好的资源文件"
+title: "GMSSL 30x86架构编译好的资源文件"
 date:   2023-06-23
 tags: [x86,架构,GMSSL,3.0,文件]
 comments: true

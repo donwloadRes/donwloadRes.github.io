@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103蓝牙串口通讯（固件库）资源介绍"
+title: "STM32F103蓝牙串口通讯固件库资源介绍"
 date:   2024-10-24
 tags: [串口,调试,STM32F103,蓝牙,通讯]
 comments: true

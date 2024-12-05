@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDA-360推荐资源：360界面ESC eBooster V1"
+title: "VDA360推荐资源360界面ESC eBooster V1"
 date:   2023-11-22
 tags: [360,汽车,电子系统,产品开发,VDA]
 comments: true

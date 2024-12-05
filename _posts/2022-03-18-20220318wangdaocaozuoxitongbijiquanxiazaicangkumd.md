@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王道操作系统笔记（全）下载仓库"
+title: "王道操作系统笔记全下载仓库"
 date:   2022-05-31
 tags: [笔记,操作系统,下载,仓库,王道]
 comments: true

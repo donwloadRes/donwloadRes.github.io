@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现TCP服务端代码"
+title: "C实现TCP服务端代码"
 date:   2022-02-13
 tags: [服务端,C#,TCP,代码,编程]
 comments: true

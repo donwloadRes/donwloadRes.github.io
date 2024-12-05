@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸-C语言搭建童年游戏（easyx）"
+title: "植物大战僵尸C语言搭建童年游戏easyx"
 date:   2022-08-21
 tags: [游戏,C语言,植物,僵尸,卡牌]
 comments: true

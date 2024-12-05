@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT研究框架（2023）资源下载"
+title: "ChatGPT研究框架2023资源下载"
 date:   2022-04-12
 tags: [ChatGPT,框架,2023,研究,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMATIC CPU 1507S V21.9 软PLC资源下载"
+title: "SIMATIC CPU 1507S V219 软PLC资源下载"
 date:   2021-06-19
 tags: [PLC,CPU,V21.9,SIMATIC,1507S]
 comments: true

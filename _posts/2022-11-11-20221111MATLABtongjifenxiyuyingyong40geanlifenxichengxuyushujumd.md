@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB统计分析与应用：40个案例分析程序与数据"
+title: "MATLAB统计分析与应用40个案例分析程序与数据"
 date:   2021-10-29
 tags: [MATLAB,统计分析,40,案例,程序]
 comments: true

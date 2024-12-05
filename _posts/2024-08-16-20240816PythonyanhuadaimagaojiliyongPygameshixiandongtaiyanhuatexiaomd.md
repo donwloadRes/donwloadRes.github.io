@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python烟花代码高级：利用Pygame实现动态烟花特效"
+title: "Python烟花代码高级利用Pygame实现动态烟花特效"
 date:   2023-02-10
 tags: [烟花,Python,Pygame,代码,模拟]
 comments: true

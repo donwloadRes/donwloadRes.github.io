@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pip_requirements.txt离线包"
+title: "piprequirementstxt离线包"
 date:   2023-06-07
 tags: [离线,JAR,文件,pip,requirements]
 comments: true

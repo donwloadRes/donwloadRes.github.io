@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 FOC LIBRARY（电机控制库）"
+title: "STM32 FOC LIBRARY电机控制库"
 date:   2020-04-05
 tags: [电机,控制,传感器,STM32,FOC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能+imagenet数据集+百度网盘分享"
+title: "人工智能imagenet数据集百度网盘分享"
 date:   2023-05-03
 tags: [百度网,imagenet,数据,分享,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 LTS 桌面版 AMD64 下载指南"
+title: "Ubuntu 2004 LTS 桌面版 AMD64 下载指南"
 date:   2024-09-17
 tags: [Ubuntu,20.04,下载,安装,百度网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware+Ubuntu 22.04 安装教程"
+title: "VMwareUbuntu 2204 安装教程"
 date:   2020-12-13
 tags: [Ubuntu,VMware,安装,虚拟机,22.04]
 comments: true

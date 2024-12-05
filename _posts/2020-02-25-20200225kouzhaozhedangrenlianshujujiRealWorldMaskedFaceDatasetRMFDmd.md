@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "口罩遮挡人脸数据集（Real-World Masked Face Dataset，RMFD）"
+title: "口罩遮挡人脸数据集RealWorld Masked Face DatasetRMFD"
 date:   2020-04-18
 tags: [口罩,人脸,数据,人脸识别,模拟]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS开发指导手册 - 全中文版"
+title: "ROS开发指导手册  全中文版"
 date:   2024-11-27
 tags: [ROS,线控,底盘,手册,开发]
 comments: true

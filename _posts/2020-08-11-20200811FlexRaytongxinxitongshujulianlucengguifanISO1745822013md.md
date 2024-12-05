@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlexRay通信系统数据链路层规范ISO 17458-2:2013"
+title: "FlexRay通信系统数据链路层规范ISO 1745822013"
 date:   2024-01-13
 tags: [FlexRay,ISO,17458,2013,同步]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DTⅡ(A)型带式输送机设计手册下载"
+title: "DTA型带式输送机设计手册下载"
 date:   2023-09-24
 tags: [手册,输送机,带式,DT,设计]
 comments: true

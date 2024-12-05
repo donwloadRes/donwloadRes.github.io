@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaTeX入门（刘海洋）资源介绍"
+title: "LaTeX入门刘海洋资源介绍"
 date:   2022-01-01
 tags: [LaTeX,文档,刘海洋,教程,入门]
 comments: true

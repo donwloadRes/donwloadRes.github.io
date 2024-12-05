@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ControlSUITE 3.4.9 安装指南"
+title: "ControlSUITE 349 安装指南"
 date:   2021-04-29
 tags: [ControlSUITE,文件,安装,解压,MATLAB]
 comments: true

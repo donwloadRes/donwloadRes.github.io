@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop 7.0.1 落雪梨花全功能绿色精简版"
+title: "Photoshop 701 落雪梨花全功能绿色精简版"
 date:   2020-06-20
 tags: [Photoshop,7.0,精简版,全功能,落雪]
 comments: true

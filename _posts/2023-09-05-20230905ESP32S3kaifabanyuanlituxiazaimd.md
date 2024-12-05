@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3 开发板原理图下载"
+title: "ESP32S3 开发板原理图下载"
 date:   2022-12-25
 tags: [ESP32,S3,原理图,低功耗,开发板]
 comments: true

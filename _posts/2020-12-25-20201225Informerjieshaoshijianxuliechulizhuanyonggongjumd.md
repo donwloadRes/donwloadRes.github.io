@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Informer介绍：时间序列处理专用工具"
+title: "Informer介绍时间序列处理专用工具"
 date:   2023-10-04
 tags: [Informer,序列,模型,专用工具,文件]
 comments: true

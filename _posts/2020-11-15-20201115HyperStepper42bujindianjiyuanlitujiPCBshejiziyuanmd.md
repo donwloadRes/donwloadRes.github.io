@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HyperStepper-42步进电机原理图及PCB设计资源"
+title: "HyperStepper42步进电机原理图及PCB设计资源"
 date:   2020-02-25
 tags: [PCB,原理图,步进,HyperStepper,42]
 comments: true

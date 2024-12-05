@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PICkit3 烧录软件 - 官方编程应用设置"
+title: "PICkit3 烧录软件  官方编程应用设置"
 date:   2022-10-15
 tags: [PICkit3,Microchip,编程,软件,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "诊断UDS培训资料_下"
+title: "诊断UDS培训资料下"
 date:   2023-03-13
 tags: [UDS,Bootloader,诊断,Flash,培训资料]
 comments: true

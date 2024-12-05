@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP BPC学习笔记：从入门到放弃"
+title: "SAP BPC学习笔记从入门到放弃"
 date:   2021-02-11
 tags: [BPC,SAP,笔记,学习,入门]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5 Canvas实现中国地图（可展开地级市子地图）"
+title: "HTML5 Canvas实现中国地图可展开地级市子地图"
 date:   2024-06-27
 tags: [地图,HTML5,Canvas,前端开发,特效]
 comments: true

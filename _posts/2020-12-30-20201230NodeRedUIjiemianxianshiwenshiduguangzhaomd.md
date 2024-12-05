@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node-RedUI界面显示温湿度光照"
+title: "NodeRedUI界面显示温湿度光照"
 date:   2024-06-04
 tags: [Node,温湿度,Red,UI,光照]
 comments: true

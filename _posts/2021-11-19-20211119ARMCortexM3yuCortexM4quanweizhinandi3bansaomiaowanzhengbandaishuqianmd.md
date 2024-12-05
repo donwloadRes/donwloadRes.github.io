@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M3与Cortex-M4权威指南（第3版） - 扫描完整版带书签"
+title: "ARM CortexM3与CortexM4权威指南第3版  扫描完整版带书签"
 date:   2020-08-23
 tags: [Cortex,M3,M4,ARM,书签]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "W2R 单词卡片 3.0 （音标版）"
+title: "W2R 单词卡片 30 音标版"
 date:   2024-06-13
 tags: [音标,单词,卡片,W2R,3.0]
 comments: true

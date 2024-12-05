@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编写基于TCP-IP的Modbus网络通讯工具源码"
+title: "C编写基于TCPIP的Modbus网络通讯工具源码"
 date:   2021-10-14
 tags: [Modbus,C++,TCP,IP,源码]
 comments: true

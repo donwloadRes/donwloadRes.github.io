@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LibreCAD 源码下载（vs2017+qt5.14.2）"
+title: "LibreCAD 源码下载vs2017qt5142"
 date:   2023-06-26
 tags: [源码,LibreCAD,Qt,Visual,Studio]
 comments: true

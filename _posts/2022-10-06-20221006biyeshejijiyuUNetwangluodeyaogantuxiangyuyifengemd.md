@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于 U-Net 网络的遥感图像语义分割"
+title: "毕业设计基于 UNet 网络的遥感图像语义分割"
 date:   2023-04-08
 tags: [遥感,Net,图像,F1,Score]
 comments: true

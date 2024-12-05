@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSGBLab (倾斜伴侣) 资源文件介绍"
+title: "OSGBLab 倾斜伴侣 资源文件介绍"
 date:   2021-04-15
 tags: [倾斜,三维,可视化,摄影,OSGBLab]
 comments: true

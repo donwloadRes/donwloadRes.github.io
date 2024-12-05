@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学好 STM32，只要弄懂这 20 个经典项目"
+title: "学好 STM32只要弄懂这 20 个经典项目"
 date:   2021-02-04
 tags: [STM32,20,项目,经典,资源]
 comments: true

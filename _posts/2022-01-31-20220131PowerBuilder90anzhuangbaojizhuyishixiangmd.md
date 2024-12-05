@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 9.0 安装包及注意事项"
+title: "PowerBuilder 90 安装包及注意事项"
 date:   2022-03-31
 tags: [PowerBuilder,9.0,安装,安装包,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TVBox 与点播源、直播源免费使用教程"
+title: "TVBox 与点播源直播源免费使用教程"
 date:   2024-06-08
 tags: [TVBox,直播,源地址,点播,教程]
 comments: true

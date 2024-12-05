@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro出Gerber文件、IPC文件、钻孔文件教程"
+title: "Allegro出Gerber文件IPC文件钻孔文件教程"
 date:   2024-04-05
 tags: [文件,教程,导出,Allegro,Gerber]
 comments: true

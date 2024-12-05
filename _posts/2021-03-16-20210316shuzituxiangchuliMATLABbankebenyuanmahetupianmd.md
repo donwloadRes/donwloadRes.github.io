@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理（MATLAB版）课本源码和图片"
+title: "数字图像处理MATLAB版课本源码和图片"
 date:   2022-08-10
 tags: [MATLAB,源码,数字图像处理,资源,学习]
 comments: true

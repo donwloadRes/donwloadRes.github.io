@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四步相移多频外差法获取绝对相位（C++实现）"
+title: "四步相移多频外差法获取绝对相位C实现"
 date:   2020-08-27
 tags: [C++,相移,多频,外差,四步]
 comments: true

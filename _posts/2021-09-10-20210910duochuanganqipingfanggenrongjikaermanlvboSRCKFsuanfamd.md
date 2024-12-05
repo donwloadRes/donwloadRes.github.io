@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多传感器平方根容积卡尔曼滤波（SRCKF）算法"
+title: "多传感器平方根容积卡尔曼滤波SRCKF算法"
 date:   2021-07-07
 tags: [算法,滤波,SRCKF,Matlab,仿真]
 comments: true

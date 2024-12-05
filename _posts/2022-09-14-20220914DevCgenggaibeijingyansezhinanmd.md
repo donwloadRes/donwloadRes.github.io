@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++更改背景颜色指南"
+title: "Dev C更改背景颜色指南"
 date:   2022-01-16
 tags: [C++,Dev,颜色,编辑器,背景]
 comments: true

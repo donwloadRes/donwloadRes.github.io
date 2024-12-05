@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩转CODESYS 入门篇（一）-- 认识CODESYS 资源文件介绍"
+title: "玩转CODESYS 入门篇一 认识CODESYS 资源文件介绍"
 date:   2024-04-28
 tags: [CODESYS,自动化,文件,入门篇,--]
 comments: true

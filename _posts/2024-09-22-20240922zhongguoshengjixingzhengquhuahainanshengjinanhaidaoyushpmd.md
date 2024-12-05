@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国省级行政区划-海南省及南海岛屿shp"
+title: "中国省级行政区划海南省及南海岛屿shp"
 date:   2024-08-23
 tags: [shp,行政区划,海南省,南海,岛屿]
 comments: true

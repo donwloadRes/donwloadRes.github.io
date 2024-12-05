@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTC6711 2.4G无线接收芯片原理图"
+title: "RTC6711 24G无线接收芯片原理图"
 date:   2024-11-07
 tags: [原理图,芯片,RTC6711,电路设计,无线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全Pycharm教程 - 精编版"
+title: "最全Pycharm教程  精编版"
 date:   2021-04-01
 tags: [Pycharm,教程,精编,最全,两篇]
 comments: true

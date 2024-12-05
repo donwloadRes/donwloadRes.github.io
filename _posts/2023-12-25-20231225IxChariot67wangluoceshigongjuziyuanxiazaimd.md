@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IxChariot 6.7 网络测试工具资源下载"
+title: "IxChariot 67 网络测试工具资源下载"
 date:   2022-05-20
 tags: [IxChariot,6.7,安装包,破解,Endpoint]
 comments: true

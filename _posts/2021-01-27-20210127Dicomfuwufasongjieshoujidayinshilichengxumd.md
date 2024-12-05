@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dicom服务、发送、接受及打印示例程序"
+title: "Dicom服务发送接受及打印示例程序"
 date:   2022-01-06
 tags: [Dicom,示例,程序,打印,发送]
 comments: true

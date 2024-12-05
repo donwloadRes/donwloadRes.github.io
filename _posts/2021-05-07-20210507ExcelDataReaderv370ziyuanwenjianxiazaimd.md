@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ExcelDataReader v3.7.0 资源文件下载"
+title: "ExcelDataReader v370 资源文件下载"
 date:   2023-03-16
 tags: [文件,ExcelDataReader,ExcelDataReaderv3.7,dll,DLL]
 comments: true

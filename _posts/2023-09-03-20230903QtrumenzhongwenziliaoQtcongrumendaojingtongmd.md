@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 入门中文资料：Qt从入门到精通"
+title: "Qt 入门中文资料Qt从入门到精通"
 date:   2021-02-12
 tags: [Qt,资料,入门,学习,这份]
 comments: true

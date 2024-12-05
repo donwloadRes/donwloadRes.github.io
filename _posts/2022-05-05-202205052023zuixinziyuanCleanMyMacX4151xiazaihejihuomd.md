@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新资源：CleanMyMac X 4.15.1 下载和激活"
+title: "2023最新资源CleanMyMac X 4151 下载和激活"
 date:   2020-11-01
 tags: [CleanMyMac,应用程序,Mac,清理,下载]
 comments: true

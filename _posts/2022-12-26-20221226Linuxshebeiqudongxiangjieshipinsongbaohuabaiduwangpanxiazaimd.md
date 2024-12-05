@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux设备驱动详解视频（宋宝华）百度网盘下载"
+title: "Linux设备驱动详解视频宋宝华百度网盘下载"
 date:   2020-07-24
 tags: [百度网,Linux,宋宝华,视频,下载]
 comments: true

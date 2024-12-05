@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVIDIA DLI 深度学习基础 答案（领取证书用）"
+title: "NVIDIA DLI 深度学习基础 答案领取证书用"
 date:   2023-01-24
 tags: [课程,答案,证书,文件,NVIDIA]
 comments: true

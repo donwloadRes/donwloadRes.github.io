@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机开发软件Keil4安装指南（Win10）"
+title: "51单片机开发软件Keil4安装指南Win10"
 date:   2020-04-28
 tags: [安装,Keil4,51,单片机,License]
 comments: true

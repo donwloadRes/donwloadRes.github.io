@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LeGO-LOAM批注版资源下载"
+title: "LeGOLOAM批注版资源下载"
 date:   2023-05-10
 tags: [LeGO,LOAM,批注,算法,资源]
 comments: true

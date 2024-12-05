@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C51 完整版 - 支持STC头文件及注册机"
+title: "Keil C51 完整版  支持STC头文件及注册机"
 date:   2024-06-21
 tags: [STC,头文件,Keil,C51,注册机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++编译器-Dev-Cpp 5.11安装教程(含资源)"
+title: "CC编译器DevCpp 511安装教程含资源"
 date:   2024-10-26
 tags: [Dev,Cpp,5.11,安装,安装包]
 comments: true

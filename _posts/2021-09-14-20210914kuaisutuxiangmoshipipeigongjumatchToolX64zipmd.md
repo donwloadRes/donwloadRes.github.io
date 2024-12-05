@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速图像模式匹配工具 - matchToolX64.zip"
+title: "快速图像模式匹配工具  matchToolX64zip"
 date:   2020-10-04
 tags: [模式匹配,matchToolX64,zip,图像,文件]
 comments: true

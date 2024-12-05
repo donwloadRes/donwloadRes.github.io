@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K1xx 系列参考手册 - 中文手册"
+title: "S32K1xx 系列参考手册  中文手册"
 date:   2020-01-26
 tags: [S32K1xx,手册,微控制器,系列,参考手册]
 comments: true

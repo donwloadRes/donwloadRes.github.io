@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop——安装MySQL、Hive以及Sqoop(步骤图文超详细版)"
+title: "Hadoop安装MySQLHive以及Sqoop步骤图文超详细版"
 date:   2020-07-30
 tags: [MySQL,Sqoop,安装,Hive,步骤]
 comments: true

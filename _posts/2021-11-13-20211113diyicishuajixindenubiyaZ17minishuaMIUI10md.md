@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第一次刷机心得：努比亚Z17mini刷MIUI10"
+title: "第一次刷机心得努比亚Z17mini刷MIUI10"
 date:   2023-08-17
 tags: [刷机,MIUI10,Z17mini,努比亚,刷入]
 comments: true

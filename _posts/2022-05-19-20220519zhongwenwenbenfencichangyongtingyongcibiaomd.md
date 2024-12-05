@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "中文文本分词常用停用词表"
+title: "中文文本分词常用停用词表
+date   20230907
+tags 词表停用stopwordstxt分词
+comments true
+author admin
+
+ 中文文本分词常用停用词表
+
+本仓库提供了一系列常用的中文停用词表这些停用词表在处理中文文本分词时非常有用特别是在使用jieba分词工具时以下是本仓库提供的停用词表及其对应的文件名
+
+ 中文停用词表 cnstopwordstxt
+ 哈工大停用词表 hitstopwordstxt
+ 百度停用词表 baidustopwordstxt
+ 四川大学机器智能实验室停用词库 scustopwordstxt
+
+ 使用方法
+
+在使用jieba分词工具时可以通过以下方式载入停用词表
+
+python
+import jieba
+
+ 读取停用词表
+stopwords  set
+with openpathtostopwordsfiletxt r encodingutf8 as f
+    for line in f
+        stopwordsaddlinestrip
+
+ 分词并过滤停用词
+text  这是一个需要分词的文本"
 date:   2023-09-07
 tags: [词表,停用,stopwords,txt,分词]
 comments: true

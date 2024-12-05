@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDM-GCC 安装包下载"
+title: "TDMGCC 安装包下载"
 date:   2022-02-11
 tags: [GCC,TDM,安装包,Windows,exe]
 comments: true

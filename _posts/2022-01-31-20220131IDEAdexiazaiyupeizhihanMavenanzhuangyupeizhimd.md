@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA的下载与配置(含Maven安装与配置)"
+title: "IDEA的下载与配置含Maven安装与配置"
 date:   2022-03-26
 tags: [IDEA,Maven,配置,安装,下载]
 comments: true

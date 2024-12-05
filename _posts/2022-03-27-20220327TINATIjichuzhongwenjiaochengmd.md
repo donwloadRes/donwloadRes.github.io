@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TINA_TI基础中文教程"
+title: "TINATI基础中文教程"
 date:   2023-04-25
 tags: [TI,TINA,教程,中文,社区]
 comments: true

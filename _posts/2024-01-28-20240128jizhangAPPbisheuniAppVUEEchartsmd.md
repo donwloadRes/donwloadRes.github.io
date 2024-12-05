@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记账APP毕设（uniApp+VUE+Echarts）"
+title: "记账APP毕设uniAppVUEEcharts"
 date:   2023-10-28
 tags: [记账,Echarts,账单,项目,uniApp]
 comments: true

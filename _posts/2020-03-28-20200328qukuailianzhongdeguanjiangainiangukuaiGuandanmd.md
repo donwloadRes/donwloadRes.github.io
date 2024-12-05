@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "区块链中的关键概念：孤块（Guandan）"
+title: "区块链中的关键概念孤块Guandan"
 date:   2023-07-22
 tags: [区块,孤块,矿工,挖矿,节点]
 comments: true

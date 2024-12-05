@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HNU信息院大二夏季实训——利用单片机制作游戏"
+title: "HNU信息院大二夏季实训利用单片机制作游戏"
 date:   2024-10-02
 tags: [游戏,STC,数码管,BGM,技能]
 comments: true

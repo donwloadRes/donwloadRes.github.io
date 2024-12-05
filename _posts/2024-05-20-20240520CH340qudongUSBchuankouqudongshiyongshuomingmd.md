@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CH340驱动(USB串口驱动)使用说明"
+title: "CH340驱动USB串口驱动使用说明"
 date:   2023-02-27
 tags: [驱动,CH340,USB,安装,串口]
 comments: true

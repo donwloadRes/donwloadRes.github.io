@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus元件库合集(常用元件都有)"
+title: "Proteus元件库合集常用元件都有"
 date:   2021-07-08
 tags: [Proteus,元件库,文件,安装,合集]
 comments: true

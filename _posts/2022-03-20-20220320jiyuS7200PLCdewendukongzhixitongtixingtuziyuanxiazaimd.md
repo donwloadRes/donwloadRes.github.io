@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于S7-200PLC的温度控制系统梯形图资源下载"
+title: "基于S7200PLC的温度控制系统梯形图资源下载"
 date:   2023-11-10
 tags: [梯形图,S7,200PLC,mwp,文档]
 comments: true

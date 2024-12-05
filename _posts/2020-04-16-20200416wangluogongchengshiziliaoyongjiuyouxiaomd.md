@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络工程师资料-永久有效"
+title: "网络工程师资料永久有效"
 date:   2021-03-07
 tags: [工程师,网络,学习,网络工程,百度网]
 comments: true

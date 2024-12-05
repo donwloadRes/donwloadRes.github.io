@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件系统说明书_设计超详细整合"
+title: "软件系统说明书设计超详细整合"
 date:   2024-11-26
 tags: [设计,系统,软件系统,详细,概要]
 comments: true

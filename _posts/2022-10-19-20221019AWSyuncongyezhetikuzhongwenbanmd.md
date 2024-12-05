@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWS 云从业者题库（中文版）"
+title: "AWS 云从业者题库中文版"
 date:   2023-02-06
 tags: [AWS,题库,Cloud,考试,认证]
 comments: true

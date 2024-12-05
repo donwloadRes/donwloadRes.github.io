@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lang-segment-anything本地部署"
+title: "langsegmentanything本地部署"
 date:   2020-09-27
 tags: [segment,anything,lang,下载,groundingdino]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK8卸载、下载、安装、配置指南（Windows篇）"
+title: "JDK8卸载下载安装配置指南Windows篇"
 date:   2024-10-06
 tags: [JDK8,卸载,下载,安装,配置]
 comments: true

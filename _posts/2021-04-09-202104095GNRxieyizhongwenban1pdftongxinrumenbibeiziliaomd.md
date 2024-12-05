@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G NR协议中文版1.pdf - 通信入门必备资料"
+title: "5G NR协议中文版1pdf  通信入门必备资料"
 date:   2020-11-03
 tags: [5G,pdf,中文版,文档,NR]
 comments: true

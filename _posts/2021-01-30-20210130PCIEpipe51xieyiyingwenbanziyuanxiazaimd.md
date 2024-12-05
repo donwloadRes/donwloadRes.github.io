@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE-pipe 5.1 协议英文版资源下载"
+title: "PCIEpipe 51 协议英文版资源下载"
 date:   2022-06-30
 tags: [PCIE,协议,英文版,pipe,5.1]
 comments: true

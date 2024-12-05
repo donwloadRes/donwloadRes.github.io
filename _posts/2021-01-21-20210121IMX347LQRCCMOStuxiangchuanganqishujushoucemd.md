@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX347LQR-C CMOS图像传感器数据手册"
+title: "IMX347LQRC CMOS图像传感器数据手册"
 date:   2020-05-03
 tags: [传感器,IMX347LQR,文档,应用,文件]
 comments: true

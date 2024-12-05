@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APM32-Keil-Pack 安装指南"
+title: "APM32KeilPack 安装指南"
 date:   2023-11-08
 tags: [Keil,APM32,安装,软件包,pack]
 comments: true

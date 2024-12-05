@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL WorkBench 8.0 汉化资源包"
+title: "MySQL WorkBench 80 汉化资源包"
 date:   2023-05-21
 tags: [MySQL,Workbench,8.0,汉化,界面]
 comments: true

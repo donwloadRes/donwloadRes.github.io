@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform遮罩层对话框（蒙版窗口）源码示例"
+title: "Winform遮罩层对话框蒙版窗口源码示例"
 date:   2021-01-27
 tags: [示例,对话框,遮罩,Winform,源码]
 comments: true

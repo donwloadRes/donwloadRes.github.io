@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记（51）——读写内部Flash"
+title: "STM32CubeMX学习笔记51读写内部Flash"
 date:   2024-11-23
 tags: [Flash,STM32,内部,写入,STM32CubeMX]
 comments: true

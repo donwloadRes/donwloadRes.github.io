@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Net：大脑MRI海马体语义分割"
+title: "UNet大脑MRI海马体语义分割"
 date:   2021-06-11
 tags: [MRI,Net,数据,分割,大脑]
 comments: true

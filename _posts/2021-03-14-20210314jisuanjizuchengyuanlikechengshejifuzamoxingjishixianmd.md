@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理课程设计-复杂模型机实现"
+title: "计算机组成原理课程设计复杂模型机实现"
 date:   2022-11-22
 tags: [课程设计,文件,模型,复杂,资源]
 comments: true

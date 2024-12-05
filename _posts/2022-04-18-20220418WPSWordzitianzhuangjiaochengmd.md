@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS-Word 字体安装教程"
+title: "WPSWord 字体安装教程"
 date:   2024-03-13
 tags: [字体,安装,WPS,Word,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的校园兼职平台"
+title: "基于SpringBootVue的校园兼职平台"
 date:   2023-07-01
 tags: [用户,兼职,SpringBoot,Vue,实时]
 comments: true

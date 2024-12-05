@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考高级-系统分析师历年真题资源库"
+title: "软考高级系统分析师历年真题资源库"
 date:   2023-12-22
 tags: [真题,软考,分析师,解析,历年]
 comments: true

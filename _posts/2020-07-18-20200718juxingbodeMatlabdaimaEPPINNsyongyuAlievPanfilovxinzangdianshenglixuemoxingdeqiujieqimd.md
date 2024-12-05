@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩形波的Matlab代码-EP-PINNs: 用于Aliev-Panfilov心脏电生理学模型的求解器"
+title: "矩形波的Matlab代码EPPINNs 用于AlievPanfilov心脏电生理学模型的求解器"
 date:   2023-08-22
 tags: [代码,矩形,模拟,异质性,求解]
 comments: true

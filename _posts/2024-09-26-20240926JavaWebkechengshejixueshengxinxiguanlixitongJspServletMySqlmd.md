@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb课程设计-学生信息管理系统（Jsp+Servlet+MySql）"
+title: "JavaWeb课程设计学生信息管理系统JspServletMySql"
 date:   2022-05-25
 tags: [信息,班级,学生,数据库,项目]
 comments: true

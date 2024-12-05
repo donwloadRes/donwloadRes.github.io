@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享66个在线客服JS特效，总有一款适合您"
+title: "分享66个在线客服JS特效总有一款适合您"
 date:   2022-02-12
 tags: [特效,客服,66,网站,JS]
 comments: true

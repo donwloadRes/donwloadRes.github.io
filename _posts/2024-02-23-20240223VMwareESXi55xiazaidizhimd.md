@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 5.5 下载地址"
+title: "VMware ESXi 55 下载地址"
 date:   2021-04-08
 tags: [VMware,下载,ESXi,5.5,地址]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC-1200原理图下载仓库"
+title: "PLC1200原理图下载仓库"
 date:   2023-04-28
 tags: [原理图,PLC,1200,下载,仓库]
 comments: true

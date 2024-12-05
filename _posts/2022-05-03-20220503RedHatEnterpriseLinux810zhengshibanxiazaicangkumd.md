@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Enterprise Linux 8.10 正式版下载仓库"
+title: "Red Hat Enterprise Linux 810 正式版下载仓库"
 date:   2020-01-23
 tags: [Red,Hat,Linux,Enterprise,8.10]
 comments: true

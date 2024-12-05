@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sscom5.13.1.exe 串口网口测试工具"
+title: "sscom5131exe 串口网口测试工具"
 date:   2024-08-30
 tags: [串口,网口,测试,sscom5.13,exe]
 comments: true

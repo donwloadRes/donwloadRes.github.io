@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现截屏功能"
+title: "C 实现截屏功能"
 date:   2022-08-24
 tags: [截屏,C#,功能,实现,文件]
 comments: true

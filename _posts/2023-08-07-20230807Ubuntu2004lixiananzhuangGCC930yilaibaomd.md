@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 离线安装 GCC 9.3.0 依赖包"
+title: "Ubuntu 2004 离线安装 GCC 930 依赖包"
 date:   2020-08-07
 tags: [离线,安装,依赖,GCC,9.3]
 comments: true

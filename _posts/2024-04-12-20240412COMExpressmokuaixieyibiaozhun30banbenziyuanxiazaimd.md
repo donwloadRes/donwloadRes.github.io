@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COM Express 模块协议标准 3.0 版本资源下载"
+title: "COM Express 模块协议标准 30 版本资源下载"
 date:   2023-05-02
 tags: [Type,COM,Express,模块,3.0]
 comments: true

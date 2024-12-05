@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实践n2n：内网穿透攻略与tab-windows-9.21.2.exe资源下载"
+title: "实践n2n内网穿透攻略与tabwindows9212exe资源下载"
 date:   2022-08-23
 tags: [n2n,exe,tab,windows,9.21]
 comments: true

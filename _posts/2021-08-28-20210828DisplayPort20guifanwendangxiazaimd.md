@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Display Port 2.0 规范文档下载"
+title: "Display Port 20 规范文档下载"
 date:   2020-02-10
 tags: [Display,Port,2.0,文档,下载]
 comments: true

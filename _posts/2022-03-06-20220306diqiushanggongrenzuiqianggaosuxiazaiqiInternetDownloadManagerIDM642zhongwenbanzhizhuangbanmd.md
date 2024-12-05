@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地球上公认最强高速下载器Internet Download Manager IDM6.42中文版直装版"
+title: "地球上公认最强高速下载器Internet Download Manager IDM642中文版直装版"
 date:   2023-01-21
 tags: [下载,下载速度,装版,高速下载,IDM]
 comments: true

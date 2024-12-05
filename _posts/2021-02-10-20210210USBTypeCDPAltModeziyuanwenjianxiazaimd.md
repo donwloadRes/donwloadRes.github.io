@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Type-C DP Alt Mode 资源文件下载"
+title: "USB TypeC DP Alt Mode 资源文件下载"
 date:   2020-11-26
 tags: [USB,Type,Mode,DP,Alt]
 comments: true

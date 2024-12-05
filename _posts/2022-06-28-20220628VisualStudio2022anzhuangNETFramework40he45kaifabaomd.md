@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2022 安装 .NET Framework 4.0 和 4.5 开发包"
+title: "Visual Studio 2022 安装 NET Framework 40 和 45 开发包"
 date:   2023-12-31
 tags: [Visual,Studio,Framework,2022,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓期末课程设计：菜鸟裹裹App"
+title: "安卓期末课程设计菜鸟裹裹App"
 date:   2021-12-17
 tags: [首页,安卓,App,课程设计,项目]
 comments: true

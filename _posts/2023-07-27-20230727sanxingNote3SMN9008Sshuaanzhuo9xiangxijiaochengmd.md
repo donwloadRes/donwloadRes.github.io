@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三星Note3(SM-N9008S)刷安卓9详细教程"
+title: "三星Note3SMN9008S刷安卓9详细教程"
 date:   2022-09-14
 tags: [刷机,TWRP,三星,手机,N9008S]
 comments: true

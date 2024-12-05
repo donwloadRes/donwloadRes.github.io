@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI-VeriStand 2010 使用手册"
+title: "NIVeriStand 2010 使用手册"
 date:   2024-11-03
 tags: [VeriStand,2010,NI,使用手册,本手册]
 comments: true

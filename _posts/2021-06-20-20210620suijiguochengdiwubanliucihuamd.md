@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机过程（第五版）刘次华"
+title: "随机过程第五版刘次华"
 date:   2023-04-17
 tags: [随机,过程,第五版,理论,刘次华]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "波利亚著怎样解题》"
+title: "波利亚著怎样解题"
 date:   2022-06-24
 tags: [波利亚,解题,PDF,数学,阅读]
 comments: true

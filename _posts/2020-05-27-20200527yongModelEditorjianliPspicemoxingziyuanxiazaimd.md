@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Model-Editor建立Pspice模型资源下载"
+title: "用ModelEditor建立Pspice模型资源下载"
 date:   2021-08-15
 tags: [模型,Model,Editor,PSpice,元件]
 comments: true

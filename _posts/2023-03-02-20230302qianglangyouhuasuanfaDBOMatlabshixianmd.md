@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜣螂优化算法（DBO）Matlab实现"
+title: "蜣螂优化算法DBOMatlab实现"
 date:   2024-05-19
 tags: [算法,DBO,优化,蜣螂,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ChartPlotter高性能图表控件DynamicDataDisplay库资源包"
+title: "C ChartPlotter高性能图表控件DynamicDataDisplay库资源包"
 date:   2022-07-27
 tags: [DynamicDataDisplay,图表,例程,控件,文档]
 comments: true

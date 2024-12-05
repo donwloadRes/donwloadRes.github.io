@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FinalShell 下载、安装与简单使用指南"
+title: "FinalShell 下载安装与简单使用指南"
 date:   2023-10-30
 tags: [FinalShell,安装,点击,SSH,下载]
 comments: true

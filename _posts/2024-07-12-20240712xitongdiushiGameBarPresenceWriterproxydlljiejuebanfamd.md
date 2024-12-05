@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统丢失GameBarPresenceWriter.proxy.dll解决办法"
+title: "系统丢失GameBarPresenceWriterproxydll解决办法"
 date:   2020-08-05
 tags: [dll,文件,GameBarPresenceWriter,proxy,Windows]
 comments: true

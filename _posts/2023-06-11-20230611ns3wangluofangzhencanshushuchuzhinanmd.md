@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ns-3 网络仿真参数输出指南"
+title: "ns3 网络仿真参数输出指南"
 date:   2022-08-27
 tags: [ns,仿真,代码,输出,网络]
 comments: true

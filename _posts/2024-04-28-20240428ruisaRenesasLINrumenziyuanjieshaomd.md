@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞萨RenesasLIN入门》资源介绍"
+title: "瑞萨RenesasLIN入门资源介绍"
 date:   2022-03-17
 tags: [LIN,总线,瑞萨,入门,Renesas]
 comments: true

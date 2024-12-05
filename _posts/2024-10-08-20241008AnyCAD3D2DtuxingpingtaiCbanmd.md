@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AnyCAD 3D-2D 图形平台（C#版）"
+title: "AnyCAD 3D2D 图形平台C版"
 date:   2024-03-27
 tags: [三维,图形,C#,平台,仿真]
 comments: true

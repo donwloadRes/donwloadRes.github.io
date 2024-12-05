@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为云Stack 8.0.3 集成设计套件 02.zip 下载仓库"
+title: "华为云Stack 803 集成设计套件 02zip 下载仓库"
 date:   2023-07-14
 tags: [Stack,8.0,zip,集成,华为]
 comments: true

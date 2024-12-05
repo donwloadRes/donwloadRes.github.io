@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPiiPlus ACSPL+ 命令与变量参考指南"
+title: "SPiiPlus ACSPL 命令与变量参考指南"
 date:   2021-05-13
 tags: [SPiiPlus,ACSPL,编程,驱动器,命令]
 comments: true

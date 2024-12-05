@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR 安装及使用指南"
+title: "TesseractOCR 安装及使用指南"
 date:   2021-07-22
 tags: [OCR,Tesseract,安装,环境变量,识别]
 comments: true

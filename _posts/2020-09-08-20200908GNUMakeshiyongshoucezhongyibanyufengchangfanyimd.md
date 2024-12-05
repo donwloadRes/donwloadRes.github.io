@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNU Make 使用手册（中译版） - 于凤昌翻译"
+title: "GNU Make 使用手册中译版  于凤昌翻译"
 date:   2022-09-26
 tags: [GNU,Make,手册,使用手册,中译版]
 comments: true

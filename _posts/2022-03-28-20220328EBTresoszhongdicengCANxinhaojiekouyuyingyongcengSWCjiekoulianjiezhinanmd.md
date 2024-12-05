@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EB_Tresos中底层CAN信号接口与应用层SWC接口连接指南"
+title: "EBTresos中底层CAN信号接口与应用层SWC接口连接指南"
 date:   2023-07-30
 tags: [EB,Tresos,接口,应用层,SWC]
 comments: true

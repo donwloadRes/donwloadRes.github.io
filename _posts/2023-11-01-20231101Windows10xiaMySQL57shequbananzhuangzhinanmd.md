@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10下 MySQL 5.7（社区版）安装指南"
+title: "Windows10下 MySQL 57社区版安装指南"
 date:   2020-07-20
 tags: [MySQL,安装,安装包,5.7,社区]
 comments: true

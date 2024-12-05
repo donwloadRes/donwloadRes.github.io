@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "问卷星在线自动填写脚本（可自定义修改）"
+title: "问卷星在线自动填写脚本可自定义修改"
 date:   2020-06-09
 tags: [问卷,脚本,填写,自定义,使用]
 comments: true

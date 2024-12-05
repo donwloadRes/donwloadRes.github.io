@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验项目报告第7章：Android Studio中SQLite数据库的操作与SharedPreferences存储技术"
+title: "实验项目报告第7章Android Studio中SQLite数据库的操作与SharedPreferences存储技术"
 date:   2022-10-08
 tags: [Android,数据库,SQLite,SharedPreferences,数据]
 comments: true

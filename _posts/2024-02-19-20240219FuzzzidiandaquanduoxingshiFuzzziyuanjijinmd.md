@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fuzz字典大全：多形式Fuzz资源集锦"
+title: "Fuzz字典大全多形式Fuzz资源集锦"
 date:   2022-09-23
 tags: [字典,fuzz,测试,大全,Fuzz]
 comments: true

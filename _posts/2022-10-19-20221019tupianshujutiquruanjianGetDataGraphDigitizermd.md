@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图片数据提取软件--GetData Graph Digitizer"
+title: "图片数据提取软件GetData Graph Digitizer"
 date:   2023-08-31
 tags: [提取,数据,GetData,Graph,Digitizer]
 comments: true

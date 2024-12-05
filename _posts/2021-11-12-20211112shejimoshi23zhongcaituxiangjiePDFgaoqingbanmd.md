@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式：23种彩图详解（PDF高清版）"
+title: "设计模式23种彩图详解PDF高清版"
 date:   2024-10-05
 tags: [设计模式,23,PDF,UML,高清]
 comments: true

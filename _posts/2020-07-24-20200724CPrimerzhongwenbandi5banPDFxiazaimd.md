@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 中文版第5版 PDF 下载"
+title: "C Primer 中文版第5版 PDF 下载"
 date:   2022-10-26
 tags: [C++,PDF,Primer,中文版,编程]
 comments: true

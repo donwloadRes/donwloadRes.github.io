@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQT5+MySQL学生信息管理系统"
+title: "PyQT5MySQL学生信息管理系统"
 date:   2022-09-13
 tags: [MySQL,数据库,项目,学生,信息管理系统]
 comments: true

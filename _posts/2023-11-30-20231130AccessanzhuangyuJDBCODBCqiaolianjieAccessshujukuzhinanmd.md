@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Access安装与JDBC-ODBC桥连接Access数据库指南"
+title: "Access安装与JDBCODBC桥连接Access数据库指南"
 date:   2022-04-15
 tags: [Access,JDBC,ODBC,2016,安装]
 comments: true

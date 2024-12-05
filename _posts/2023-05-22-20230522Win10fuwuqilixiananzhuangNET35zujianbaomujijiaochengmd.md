@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10服务器离线安装NET3.5组件，保姆级教程"
+title: "Win10服务器离线安装NET35组件保姆级教程"
 date:   2020-01-26
 tags: [NET3.5,安装包,服务器,安装,离线]
 comments: true

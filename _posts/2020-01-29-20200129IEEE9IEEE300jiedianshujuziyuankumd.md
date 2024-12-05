@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE9-IEEE300节点数据资源库"
+title: "IEEE9IEEE300节点数据资源库"
 date:   2024-05-28
 tags: [数据,IEEE9,节点,计算,IEEE300]
 comments: true

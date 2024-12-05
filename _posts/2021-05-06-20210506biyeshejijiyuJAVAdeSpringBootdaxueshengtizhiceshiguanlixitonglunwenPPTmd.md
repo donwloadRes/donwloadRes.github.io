@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于JAVA的Spring Boot大学生体质测试管理系统(论文+PPT)"
+title: "毕业设计基于JAVA的Spring Boot大学生体质测试管理系统论文PPT"
 date:   2024-04-17
 tags: [体质,测试,PPT,毕业设计,用户]
 comments: true

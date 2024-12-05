@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iMazing 2.17.15 中文版功能简介及2024年免费激活指南"
+title: "iMazing 21715 中文版功能简介及2024年免费激活指南"
 date:   2024-02-07
 tags: [iOS,iMazing,设备,软件,官方]
 comments: true

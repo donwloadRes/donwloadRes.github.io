@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVM分类源代码（可以直接使用，含详细注释）"
+title: "SVM分类源代码可以直接使用含详细注释"
 date:   2020-07-06
 tags: [SVM,代码,注释,算法,源代码]
 comments: true

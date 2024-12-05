@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于Java的视频会议系统源码"
+title: "毕业设计基于Java的视频会议系统源码"
 date:   2024-02-22
 tags: [Java,毕业设计,源码,传输,Eclipse]
 comments: true

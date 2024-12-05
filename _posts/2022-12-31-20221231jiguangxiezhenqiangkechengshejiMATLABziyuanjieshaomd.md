@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "激光谐振腔课程设计（MATLAB）资源介绍"
+title: "激光谐振腔课程设计MATLAB资源介绍"
 date:   2021-06-16
 tags: [谐振腔,MATLAB,课程设计,激光,资源]
 comments: true

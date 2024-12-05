@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0下载与安装指南"
+title: "Visual C 60下载与安装指南"
 date:   2020-05-22
 tags: [C++,6.0,安装,Visual,下载]
 comments: true

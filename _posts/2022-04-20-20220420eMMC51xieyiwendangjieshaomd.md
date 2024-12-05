@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC5.1协议文档介绍"
+title: "eMMC51协议文档介绍"
 date:   2022-08-07
 tags: [eMMC5.1,eMMC,文档,协议,存储芯片]
 comments: true

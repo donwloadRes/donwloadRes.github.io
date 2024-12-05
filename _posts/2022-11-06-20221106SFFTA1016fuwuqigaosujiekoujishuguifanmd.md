@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-TA-1016: 服务器高速接口技术规范"
+title: "SFFTA1016 服务器高速接口技术规范"
 date:   2024-01-04
 tags: [SFF,TA,1016,高速接口,服务器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间锁屏程序：增强工业自动化安全性和效率"
+title: "时间锁屏程序增强工业自动化安全性和效率"
 date:   2024-06-05
 tags: [锁屏,PLC,程序,西门子,时间]
 comments: true

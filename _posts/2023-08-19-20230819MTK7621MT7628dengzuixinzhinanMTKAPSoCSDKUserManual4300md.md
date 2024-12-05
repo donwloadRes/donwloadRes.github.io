@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK7621&MT7628等最新指南MTK_APSoC_SDK_User_Manual4.3.0.0"
+title: "MTK7621MT7628等最新指南MTKAPSoCSDKUserManual4300"
 date:   2021-06-09
 tags: [指南,MTK,开发,Ralink,APSoC]
 comments: true

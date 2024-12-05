@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卷积自编码去噪（基于PyTorch）"
+title: "卷积自编码去噪基于PyTorch"
 date:   2024-02-20
 tags: [卷积,编码器,图像去噪,PyTorch,PSNR]
 comments: true

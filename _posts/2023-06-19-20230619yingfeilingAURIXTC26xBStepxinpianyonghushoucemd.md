@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英飞凌AURIX TC26x B-Step芯片用户手册"
+title: "英飞凌AURIX TC26x BStep芯片用户手册"
 date:   2021-11-19
 tags: [芯片,TC26x,用户手册,手册,英飞凌]
 comments: true

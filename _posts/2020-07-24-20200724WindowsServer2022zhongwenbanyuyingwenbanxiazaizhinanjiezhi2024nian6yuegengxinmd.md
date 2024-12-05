@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2022 中文版与英文版下载指南 (截至2024年6月更新)"
+title: "Windows Server 2022 中文版与英文版下载指南 截至2024年6月更新"
 date:   2021-05-03
 tags: [Windows,Server,下载,2022,英文版]
 comments: true

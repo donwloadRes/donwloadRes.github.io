@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+CDR+FH+PSD+PDF+EPS，dds, tga, max缩略图补丁"
+title: "AICDRFHPSDPDFEPSdds tga max缩略图补丁"
 date:   2024-11-11
 tags: [补丁,缩略图,文件,安装,AI]
 comments: true

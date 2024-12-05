@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFP+ 标准文档下载"
+title: "SFP 标准文档下载"
 date:   2021-09-09
 tags: [PDF,SFP,文档,SFF,8431]
 comments: true

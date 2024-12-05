@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D基础3：贴图与材质球资源文件介绍"
+title: "Unity3D基础3贴图与材质球资源文件介绍"
 date:   2021-04-27
 tags: [贴图,材质,Unity,文件,资源]
 comments: true

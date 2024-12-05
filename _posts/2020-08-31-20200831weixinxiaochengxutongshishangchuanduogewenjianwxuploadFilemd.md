@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序同时上传多个文件（wx.uploadFile）"
+title: "微信小程序同时上传多个文件wxuploadFile"
 date:   2020-11-11
 tags: [上传,文件,微信,wx,uploadFile]
 comments: true

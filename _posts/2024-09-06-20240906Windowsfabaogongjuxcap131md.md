@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows发包工具：xcap_1_3_1"
+title: "Windows发包工具xcap131"
 date:   2023-11-13
 tags: [报文,xcap,发送,Windows,安装]
 comments: true

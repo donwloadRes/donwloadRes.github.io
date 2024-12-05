@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大地电磁二维Occam反演程序 - Fortran实现"
+title: "大地电磁二维Occam反演程序  Fortran实现"
 date:   2022-05-06
 tags: [反演,电磁,程序,Occam,大地]
 comments: true

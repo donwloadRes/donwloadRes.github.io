@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 家庭版启用组策略编辑器（Gpedit.msc）"
+title: "Windows 10 家庭版启用组策略编辑器Gpeditmsc"
 date:   2024-04-16
 tags: [组策略,编辑器,家庭版,启用,Windows]
 comments: true

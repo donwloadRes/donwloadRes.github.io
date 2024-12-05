@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理（第三版）资源下载"
+title: "编译原理第三版资源下载"
 date:   2023-01-28
 tags: [编译,原理,学习,第三版,下载]
 comments: true

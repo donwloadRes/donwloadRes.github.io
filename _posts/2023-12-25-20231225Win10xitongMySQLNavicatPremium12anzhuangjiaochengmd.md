@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 系统 MySQL && Navicat Premium12 安装教程"
+title: "Win10 系统 MySQL  Navicat Premium12 安装教程"
 date:   2021-04-20
 tags: [MySQL,Navicat,安装,Premium,教程]
 comments: true

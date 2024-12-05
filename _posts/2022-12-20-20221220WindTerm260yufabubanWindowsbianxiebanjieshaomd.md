@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WindTerm 2.6.0 预发布版 Windows 便携版介绍"
+title: "WindTerm 260 预发布版 Windows 便携版介绍"
 date:   2024-06-26
 tags: [WindTerm,Windows,2.6,x86,64]
 comments: true

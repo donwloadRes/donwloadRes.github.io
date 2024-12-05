@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amplify Shader Editor 1.9.1.5 资源下载"
+title: "Amplify Shader Editor 1915 资源下载"
 date:   2023-04-06
 tags: [Shader,Unity,Amplify,Editor,1.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure RP 9 安装包、汉化文件及授权码下载指南"
+title: "Axure RP 9 安装包汉化文件及授权码下载指南"
 date:   2020-02-27
 tags: [Axure,RP,安装包,汉化,授权]
 comments: true

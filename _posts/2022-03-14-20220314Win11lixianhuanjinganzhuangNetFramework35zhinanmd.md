@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11离线环境安装.Net Framework 3.5指南"
+title: "Win11离线环境安装Net Framework 35指南"
 date:   2022-04-30
 tags: [Net,Framework,3.5,安装,离线]
 comments: true

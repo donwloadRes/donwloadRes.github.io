@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "调试器PLS-UDE操作手册电子版"
+title: "调试器PLSUDE操作手册电子版"
 date:   2024-01-09
 tags: [调试器,PLS,UDE,操作手册,电子版]
 comments: true

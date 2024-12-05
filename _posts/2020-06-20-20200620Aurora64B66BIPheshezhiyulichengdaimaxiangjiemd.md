@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aurora 64B-66B IP 核设置与例程代码详解"
+title: "Aurora 64B66B IP 核设置与例程代码详解"
 date:   2020-05-08
 tags: [IP,Aurora,64B,66B,例程]
 comments: true

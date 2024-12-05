@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt动态心电图绘制-利用队列进行实时绘制"
+title: "Qt动态心电图绘制利用队列进行实时绘制"
 date:   2023-11-29
 tags: [绘制,心电图,Qt,队列,数据]
 comments: true

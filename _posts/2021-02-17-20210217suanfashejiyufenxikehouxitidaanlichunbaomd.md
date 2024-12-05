@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析课后习题答案（李春保）"
+title: "算法设计与分析课后习题答案李春保"
 date:   2024-06-19
 tags: [习题,课后,答案,算法,李春保]
 comments: true

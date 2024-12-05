@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metasploit渗透测试指南(全) .pdf 下载仓库"
+title: "Metasploit渗透测试指南全 pdf 下载仓库"
 date:   2020-08-12
 tags: [Metasploit,文件,渗透,pdf,仓库]
 comments: true

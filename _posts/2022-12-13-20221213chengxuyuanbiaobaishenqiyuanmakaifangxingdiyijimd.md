@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员表白神器：源码开放性·第一辑"
+title: "程序员表白神器源码开放性第一辑"
 date:   2023-10-30
 tags: [表白,程序员,程序,编程,源码]
 comments: true

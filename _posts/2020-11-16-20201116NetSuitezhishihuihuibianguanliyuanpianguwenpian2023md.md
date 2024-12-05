@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetSuite知识会汇编-管理员篇&顾问篇2023"
+title: "NetSuite知识会汇编管理员篇顾问篇2023"
 date:   2023-07-30
 tags: [NetSuite,2023,管理员,知识,汇编]
 comments: true

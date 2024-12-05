@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAT1400协议Java实现：注册保活、接受订阅、推送通知及视图库新增"
+title: "GAT1400协议Java实现注册保活接受订阅推送通知及视图库新增"
 date:   2024-07-17
 tags: [Java,GAT1400,保活,订阅,推送]
 comments: true

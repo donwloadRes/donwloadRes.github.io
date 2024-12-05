@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野火 RT-Thread 内核实现与应用开发实战指南 - 基于 i.MX RT 1"
+title: "野火 RTThread 内核实现与应用开发实战指南  基于 iMX RT 1"
 date:   2021-01-20
 tags: [RT,Thread,内核,MX,应用]
 comments: true

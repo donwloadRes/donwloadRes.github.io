@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jmeter监控服务器CPU、内存、i-o等资源"
+title: "Jmeter监控服务器CPU内存io等资源"
 date:   2021-04-21
 tags: [Jmeter,服务器,监控,CPU,ServerAgent]
 comments: true

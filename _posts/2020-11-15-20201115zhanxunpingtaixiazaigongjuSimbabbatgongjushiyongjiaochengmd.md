@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "展讯平台下载工具、Simba、bbat工具使用教程"
+title: "展讯平台下载工具Simbabbat工具使用教程"
 date:   2023-01-14
 tags: [展讯,Simba,下载工具,教程,工具]
 comments: true

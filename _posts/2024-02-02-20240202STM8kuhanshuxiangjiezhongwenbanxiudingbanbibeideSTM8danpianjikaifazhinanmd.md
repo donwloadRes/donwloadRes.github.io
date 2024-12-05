@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM8库函数详解中文版(修订版) - 必备的STM8单片机开发指南"
+title: "STM8库函数详解中文版修订版  必备的STM8单片机开发指南"
 date:   2021-02-22
 tags: [STM8,库函数,单片机,开发者,修订版]
 comments: true

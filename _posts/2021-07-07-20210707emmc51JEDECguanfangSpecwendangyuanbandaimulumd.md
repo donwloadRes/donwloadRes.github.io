@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "emmc5.1 JEDEC官方Spec文档原版带目录"
+title: "emmc51 JEDEC官方Spec文档原版带目录"
 date:   2021-04-26
 tags: [文档,MMC,JEDEC,emmc5.1,5.1]
 comments: true

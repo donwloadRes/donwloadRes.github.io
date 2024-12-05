@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity WebGL播放m3u8在线视频(监控，直播)项目和Demo"
+title: "Unity WebGL播放m3u8在线视频监控直播项目和Demo"
 date:   2021-12-13
 tags: [Unity,m3u8,Demo,播放,WebGL]
 comments: true

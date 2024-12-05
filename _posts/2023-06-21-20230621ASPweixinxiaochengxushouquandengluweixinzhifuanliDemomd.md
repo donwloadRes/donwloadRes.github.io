@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP微信小程序（授权登录+微信支付）案例Demo"
+title: "ASP微信小程序授权登录微信支付案例Demo"
 date:   2024-10-16
 tags: [微信,ASP,支付,程序,Demo]
 comments: true

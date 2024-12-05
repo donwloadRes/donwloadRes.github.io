@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++模拟ATM机存取款管理系统"
+title: "C模拟ATM机存取款管理系统"
 date:   2022-05-31
 tags: [ATM,系统,功能,C++,密码]
 comments: true

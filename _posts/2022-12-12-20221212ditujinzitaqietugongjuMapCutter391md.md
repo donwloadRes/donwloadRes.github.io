@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地图金字塔切图工具 MapCutter 3.9.1"
+title: "地图金字塔切图工具 MapCutter 391"
 date:   2024-10-30
 tags: [地图,支持,切片,开发,3.9]
 comments: true

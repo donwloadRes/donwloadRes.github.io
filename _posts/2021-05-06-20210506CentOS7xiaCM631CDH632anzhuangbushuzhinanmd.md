@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 下 CM6.3.1 + CDH6.3.2 安装部署指南"
+title: "CentOS 7 下 CM631  CDH632 安装部署指南"
 date:   2020-01-05
 tags: [安装,指南,CM,CM6.3,CentOS]
 comments: true

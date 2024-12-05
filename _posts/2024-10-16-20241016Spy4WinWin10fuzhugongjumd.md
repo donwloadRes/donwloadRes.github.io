@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spy4Win-Win10 辅助工具"
+title: "Spy4WinWin10 辅助工具"
 date:   2020-01-24
 tags: [窗口,Spy4Win,Win10,页面,样式]
 comments: true

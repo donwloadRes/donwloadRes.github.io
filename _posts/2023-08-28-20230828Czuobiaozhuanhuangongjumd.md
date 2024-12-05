@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#坐标转换工具"
+title: "C坐标转换工具"
 date:   2023-05-07
 tags: [坐标,高斯,转换,文件,正反]
 comments: true

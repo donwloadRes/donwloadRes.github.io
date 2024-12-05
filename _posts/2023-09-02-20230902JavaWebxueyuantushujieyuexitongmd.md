@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb-学院图书借阅系统"
+title: "JavaWeb学院图书借阅系统"
 date:   2022-01-04
 tags: [Java,Web,借阅,图书,数据库]
 comments: true

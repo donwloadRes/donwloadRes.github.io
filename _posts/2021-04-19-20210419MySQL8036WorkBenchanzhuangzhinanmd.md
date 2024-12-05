@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.36 WorkBench 安装指南"
+title: "MySQL 8036 WorkBench 安装指南"
 date:   2022-07-17
 tags: [MySQL,安装,8.0,36,WorkBench]
 comments: true

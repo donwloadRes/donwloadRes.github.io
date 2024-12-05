@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rom助手（蘑菇助手8.1）实测可用-可精简可Root"
+title: "Rom助手蘑菇助手81实测可用可精简可Root"
 date:   2021-01-26
 tags: [助手,Root,Rom,8.1,设备]
 comments: true

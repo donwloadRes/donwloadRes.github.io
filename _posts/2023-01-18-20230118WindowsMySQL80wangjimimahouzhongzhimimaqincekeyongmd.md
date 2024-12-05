@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows MySQL 8.0 忘记密码后重置密码（亲测可用）"
+title: "Windows MySQL 80 忘记密码后重置密码亲测可用"
 date:   2020-07-20
 tags: [MySQL,密码,命令提示符,8.0,bash]
 comments: true

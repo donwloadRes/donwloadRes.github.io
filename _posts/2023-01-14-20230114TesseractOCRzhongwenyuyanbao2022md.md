@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR中文语言包2022"
+title: "TesseractOCR中文语言包2022"
 date:   2020-03-10
 tags: [chi,OCR,语言包,Tesseract,常用字]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpeedTree：树模型制作软件的下载与安装指南"
+title: "SpeedTree树模型制作软件的下载与安装指南"
 date:   2024-05-11
 tags: [SpeedTree,软件,下载,UE4,3D]
 comments: true

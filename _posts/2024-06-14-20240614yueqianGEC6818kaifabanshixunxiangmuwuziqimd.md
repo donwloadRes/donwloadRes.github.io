@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "粤嵌GEC6818开发板实训项目 - 五子棋"
+title: "粤嵌GEC6818开发板实训项目  五子棋"
 date:   2020-10-09
 tags: [GEC6818,五子棋,开发,环境,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo Newifi mini (Y1) 刷breed与Pandorabox固件指南"
+title: "Lenovo Newifi mini Y1 刷breed与Pandorabox固件指南"
 date:   2023-06-08
 tags: [固件,breed,路由器,Pandorabox,Newifi]
 comments: true

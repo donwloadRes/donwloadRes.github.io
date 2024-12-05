@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVME 1.4 官方手册及技术规范"
+title: "NVME 14 官方手册及技术规范"
 date:   2020-03-08
 tags: [NVMe,1.4,pdf,文档,NVME]
 comments: true

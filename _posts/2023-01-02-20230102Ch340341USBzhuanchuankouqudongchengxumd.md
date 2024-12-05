@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ch340-341 USB转串口驱动程序"
+title: "Ch340341 USB转串口驱动程序"
 date:   2020-04-19
 tags: [串口,安装,驱动,驱动程序,USB]
 comments: true

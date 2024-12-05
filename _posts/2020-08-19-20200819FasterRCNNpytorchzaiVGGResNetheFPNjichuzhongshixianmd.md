@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FasterRCNN-pytorch：在VGG、ResNet和FPN基础中实现"
+title: "FasterRCNNpytorch在VGGResNet和FPN基础中实现"
 date:   2020-07-10
 tags: [FasterRCNN,sh,sm,FPN,make]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韩顺平_循序渐进学Java零基础【完整笔记】1"
+title: "韩顺平循序渐进学Java零基础完整笔记1"
 date:   2020-10-24
 tags: [Java,笔记,编程,学习,循序渐进]
 comments: true

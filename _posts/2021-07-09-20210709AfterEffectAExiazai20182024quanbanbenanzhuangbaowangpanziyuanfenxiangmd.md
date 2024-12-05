@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "After Effect(AE)下载，2018-2024全版本安装包网盘资源分享"
+title: "After EffectAE下载20182024全版本安装包网盘资源分享"
 date:   2020-10-16
 tags: [安装包,2024,版本,After,Effect]
 comments: true

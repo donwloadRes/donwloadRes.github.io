@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASN.1编码规则详解(最全最经典) PDF资源介绍"
+title: "ASN1编码规则详解最全最经典 PDF资源介绍"
 date:   2023-03-05
 tags: [ASN.1,编码,最全,详解,规则]
 comments: true

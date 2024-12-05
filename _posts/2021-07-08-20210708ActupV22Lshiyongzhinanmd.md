@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actup V2.2L使用指南"
+title: "Actup V22L使用指南"
 date:   2024-09-01
 tags: [Actup,V2.2,工具箱,水声,用户]
 comments: true

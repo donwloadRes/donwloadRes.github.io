@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# BLE 低功耗蓝牙资源文件"
+title: "C BLE 低功耗蓝牙资源文件"
 date:   2023-03-13
 tags: [BLE,WinForm,文件,示例,资源]
 comments: true

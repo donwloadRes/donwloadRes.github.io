@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt九宫格图片资源浏览器 v1.5.1"
+title: "Qt九宫格图片资源浏览器 v151"
 date:   2023-07-11
 tags: [图片,v1.5,浏览器,Qt,预览]
 comments: true

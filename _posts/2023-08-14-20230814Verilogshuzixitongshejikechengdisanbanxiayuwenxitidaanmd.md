@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog-数字系统设计课程（第三版）》夏宇闻习题答案"
+title: "Verilog数字系统设计课程第三版夏宇闻习题答案"
 date:   2023-08-28
 tags: [习题,Verilog,答案,学习,数字]
 comments: true

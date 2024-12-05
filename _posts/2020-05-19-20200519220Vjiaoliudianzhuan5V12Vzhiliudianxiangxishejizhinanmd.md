@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "220V交流电转5V、12V直流电详细设计指南"
+title: "220V交流电转5V12V直流电详细设计指南"
 date:   2022-10-11
 tags: [交流电,220V,指南,设计,直流电]
 comments: true

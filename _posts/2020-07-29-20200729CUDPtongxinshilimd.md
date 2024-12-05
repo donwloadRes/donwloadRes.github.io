@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# UDP通信示例"
+title: "C UDP通信示例"
 date:   2021-08-13
 tags: [UDP,通信,示例,C#,代码]
 comments: true

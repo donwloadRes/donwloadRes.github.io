@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能寻药小车全部资料-国一"
+title: "智能寻药小车全部资料国一"
 date:   2021-08-30
 tags: [寻药,文件,资料,解压,国一]
 comments: true

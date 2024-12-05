@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从局部到整体：5G系统观资源下载"
+title: "从局部到整体5G系统观资源下载"
 date:   2022-12-05
 tags: [5G,局部,资源,文件,下载]
 comments: true

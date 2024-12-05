@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子SEP7-200smart PLC Modbus TCP通讯介绍及使用"
+title: "西门子SEP7200smart PLC Modbus TCP通讯介绍及使用"
 date:   2023-12-27
 tags: [PLC,Modbus,TCP,SEP7,200smart]
 comments: true

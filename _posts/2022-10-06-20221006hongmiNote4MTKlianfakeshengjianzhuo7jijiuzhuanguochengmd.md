@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红米Note 4 (MTK联发科) 升级安卓7+及救砖过程"
+title: "红米Note 4 MTK联发科 升级安卓7及救砖过程"
 date:   2020-11-19
 tags: [TWRP,红米,Note,联发科,MTK]
 comments: true

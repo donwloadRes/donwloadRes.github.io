@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Win11编译CloudCompare2.12.2逐步教程【含PCL和PDAL的安装】"
+title: "最新Win11编译CloudCompare2122逐步教程含PCL和PDAL的安装"
 date:   2021-02-24
 tags: [教程,编译,安装,CloudCompare,PCL]
 comments: true

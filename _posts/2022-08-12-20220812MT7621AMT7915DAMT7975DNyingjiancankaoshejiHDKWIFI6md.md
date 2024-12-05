@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7621A+MT7915DA+MT7975DN 硬件参考设计HDK - WIFI6"
+title: "MT7621AMT7915DAMT7975DN 硬件参考设计HDK  WIFI6"
 date:   2022-01-17
 tags: [WIFI6,硬件,设计,MT7621A,MT7915DA]
 comments: true

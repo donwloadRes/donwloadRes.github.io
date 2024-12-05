@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "32最小系统板资源循迹小车（铁丝循迹）"
+title: "32最小系统板资源循迹小车铁丝循迹"
 date:   2023-11-04
 tags: [小车,循迹,PID,轨道,32]
 comments: true

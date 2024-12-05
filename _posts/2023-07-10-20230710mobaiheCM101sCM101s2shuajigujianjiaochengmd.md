@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔百盒CM101s-CM101s-2刷机固件教程"
+title: "魔百盒CM101sCM101s2刷机固件教程"
 date:   2020-09-02
 tags: [刷机,固件,教程,CM101s,魔百盒]
 comments: true

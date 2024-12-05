@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC 7.4 安装包下载"
+title: "WinCC 74 安装包下载"
 date:   2021-09-27
 tags: [7.4,安装包,WinCC,下载,安装]
 comments: true

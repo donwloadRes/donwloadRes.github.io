@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "公开 学生课堂行为数据集 SCB-Dataset"
+title: "公开 学生课堂行为数据集 SCBDataset"
 date:   2023-02-12
 tags: [SCB,Dataset,课堂,行为,学生]
 comments: true

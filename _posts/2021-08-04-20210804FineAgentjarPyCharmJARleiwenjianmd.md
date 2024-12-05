@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FineAgent.jar - PyCharm JAR 类文件"
+title: "FineAgentjar  PyCharm JAR 类文件"
 date:   2020-12-31
 tags: [FineAgent,jar,PyCharm,Java,应用]
 comments: true

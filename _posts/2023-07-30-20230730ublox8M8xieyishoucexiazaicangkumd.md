@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "u-blox8-M8 协议手册下载仓库"
+title: "ublox8M8 协议手册下载仓库"
 date:   2023-05-15
 tags: [M8,blox8,blox,协议,版本]
 comments: true

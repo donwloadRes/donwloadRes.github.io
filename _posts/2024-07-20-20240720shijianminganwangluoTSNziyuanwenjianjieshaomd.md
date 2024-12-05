@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间敏感网络（TSN）资源文件介绍"
+title: "时间敏感网络TSN资源文件介绍"
 date:   2021-04-28
 tags: [TSN,文件,网络,敏感,协议]
 comments: true

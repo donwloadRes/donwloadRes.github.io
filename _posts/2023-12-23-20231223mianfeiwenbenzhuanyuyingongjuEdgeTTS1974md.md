@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费文本转语音工具 Edge-TTS（1.9.7.4）"
+title: "免费文本转语音工具 EdgeTTS1974"
 date:   2022-01-18
 tags: [语音,文本,工具,Edge,7.4]
 comments: true

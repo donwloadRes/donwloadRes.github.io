@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#字符串转字节（16进制）代码示例"
+title: "C字符串转字节16进制代码示例"
 date:   2022-08-20
 tags: [字节,代码,16,字符串,进制]
 comments: true

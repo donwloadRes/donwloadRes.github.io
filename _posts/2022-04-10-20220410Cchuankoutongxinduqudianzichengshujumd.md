@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通信读取电子称数据"
+title: "C 串口通信读取电子称数据"
 date:   2022-07-13
 tags: [电子称,串口,读取,通信,程序]
 comments: true

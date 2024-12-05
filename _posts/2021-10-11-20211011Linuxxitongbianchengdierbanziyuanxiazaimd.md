@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统编程（第二版）资源下载"
+title: "Linux系统编程第二版资源下载"
 date:   2023-03-08
 tags: [Linux,编程,系统,下载,资源]
 comments: true

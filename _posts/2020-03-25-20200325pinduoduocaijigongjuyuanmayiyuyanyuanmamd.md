@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拼多多采集工具源码【易语言源码】"
+title: "拼多多采集工具源码易语言源码"
 date:   2024-11-28
 tags: [易语言,源码,采集,多多,工具]
 comments: true

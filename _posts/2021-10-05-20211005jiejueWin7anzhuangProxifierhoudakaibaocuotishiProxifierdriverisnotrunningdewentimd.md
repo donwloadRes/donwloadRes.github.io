@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win7安装Proxifier后打开报错提示“Proxifier driver is not running.”的问题"
+title: "解决Win7安装Proxifier后打开报错提示Proxifier driver is not running的问题"
 date:   2024-05-10
 tags: [Proxifier,安装,Windows,64,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIMO检测算法实现（含ML、ZF、MMSE等，基于BPSK调制的平坦瑞利信道）"
+title: "MIMO检测算法实现含MLZFMMSE等基于BPSK调制的平坦瑞利信道"
 date:   2023-10-27
 tags: [MIMO,算法,信道,信号,调制]
 comments: true

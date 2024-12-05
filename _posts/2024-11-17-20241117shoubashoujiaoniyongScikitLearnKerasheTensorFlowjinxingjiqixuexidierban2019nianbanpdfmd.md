@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你用Scikit-Learn、Keras和TensorFlow进行机器学习（第二版） - 2019年版.pdf"
+title: "手把手教你用ScikitLearnKeras和TensorFlow进行机器学习第二版  2019年版pdf"
 date:   2024-10-18
 tags: [学习,机器,TensorFlow,Scikit,本书]
 comments: true

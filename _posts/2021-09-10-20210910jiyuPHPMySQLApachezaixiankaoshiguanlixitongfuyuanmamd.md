@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PHP+MySQL+Apache在线考试管理系统（附源码）"
+title: "基于PHPMySQLApache在线考试管理系统附源码"
 date:   2023-07-14
 tags: [PHP,MySQL,Apache,考试,在线]
 comments: true

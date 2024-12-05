@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员简历模板-简洁、清晰"
+title: "程序员简历模板简洁清晰"
 date:   2020-09-08
 tags: [模板,简历,程序员,清晰,简洁]
 comments: true

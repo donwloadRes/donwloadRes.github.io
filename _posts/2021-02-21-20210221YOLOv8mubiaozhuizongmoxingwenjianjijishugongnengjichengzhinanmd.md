@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8+目标追踪模型文件及计数功能集成指南"
+title: "YOLOv8目标追踪模型文件及计数功能集成指南"
 date:   2023-01-02
 tags: [YOLOv8,计数,模型,追踪,集成]
 comments: true

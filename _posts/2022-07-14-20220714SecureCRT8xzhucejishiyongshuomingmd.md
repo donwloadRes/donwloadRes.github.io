@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.x 注册机使用说明"
+title: "SecureCRT 8x 注册机使用说明"
 date:   2020-05-04
 tags: [注册机,SecureCRT,激活,版本,破解]
 comments: true

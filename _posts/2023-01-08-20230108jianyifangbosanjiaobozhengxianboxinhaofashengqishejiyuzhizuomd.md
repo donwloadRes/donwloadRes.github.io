@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易方波-三角波-正弦波信号发生器设计与制作"
+title: "简易方波三角波正弦波信号发生器设计与制作"
 date:   2024-01-17
 tags: [占空比,发生器,Multisim,方波,正弦波]
 comments: true

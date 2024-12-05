@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UG10.0入门教程资源下载"
+title: "UG100入门教程资源下载"
 date:   2021-01-04
 tags: [UG10.0,教程,入门教程,3D,建模]
 comments: true

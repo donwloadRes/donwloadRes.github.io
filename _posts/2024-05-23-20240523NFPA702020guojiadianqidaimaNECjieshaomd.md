@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NFPA 70-2020: 国家电气代码 (NEC) 介绍"
+title: "NFPA 702020 国家电气代码 NEC 介绍"
 date:   2022-02-03
 tags: [电气,NFPA,2020,NEC,70]
 comments: true

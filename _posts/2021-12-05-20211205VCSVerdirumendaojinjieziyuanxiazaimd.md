@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCS & Verdi 入门到进阶资源下载"
+title: "VCS  Verdi 入门到进阶资源下载"
 date:   2021-08-22
 tags: [VCS,Verdi,进阶,入门,rar]
 comments: true

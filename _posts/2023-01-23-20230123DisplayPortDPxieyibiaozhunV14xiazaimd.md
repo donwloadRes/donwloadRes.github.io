@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort (DP) 协议标准 V1.4 下载"
+title: "DisplayPort DP 协议标准 V14 下载"
 date:   2020-10-06
 tags: [DisplayPort,V1.4,DP,标准,文件]
 comments: true

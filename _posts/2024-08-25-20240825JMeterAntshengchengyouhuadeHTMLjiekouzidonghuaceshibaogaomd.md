@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter + Ant 生成优化的HTML接口自动化测试报告"
+title: "JMeter  Ant 生成优化的HTML接口自动化测试报告"
 date:   2024-01-26
 tags: [jmeter,JMeter,Ant,测试,HTML]
 comments: true

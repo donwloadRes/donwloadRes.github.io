@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "smali2java——直接将smali转换成java"
+title: "smali2java直接将smali转换成java"
 date:   2020-10-29
 tags: [smali,代码,Java,文件,smali2java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANape插入虚拟函数+编辑公式+数据处理教程"
+title: "CANape插入虚拟函数编辑公式数据处理教程"
 date:   2020-12-05
 tags: [CANape,教程,函数,插入,虚拟]
 comments: true

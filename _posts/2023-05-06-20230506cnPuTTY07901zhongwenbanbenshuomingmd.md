@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cnPuTTY 0.79.0.1 中文版本说明"
+title: "cnPuTTY 07901 中文版本说明"
 date:   2022-04-19
 tags: [0.79,中文,cnPuTTY,0.1,PuTTY]
 comments: true

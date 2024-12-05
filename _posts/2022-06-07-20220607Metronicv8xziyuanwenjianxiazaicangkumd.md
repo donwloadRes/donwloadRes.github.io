@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metronic v8.x 资源文件下载仓库"
+title: "Metronic v8x 资源文件下载仓库"
 date:   2023-04-09
 tags: [文件,Metronic,下载,资源,v8]
 comments: true

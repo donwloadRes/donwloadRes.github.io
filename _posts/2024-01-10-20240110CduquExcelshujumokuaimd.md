@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++读取Excel数据模块"
+title: "C读取Excel数据模块"
 date:   2023-01-05
 tags: [Excel,模块,读取,C++,Visual]
 comments: true

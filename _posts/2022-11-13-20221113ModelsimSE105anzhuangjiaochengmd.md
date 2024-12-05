@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim SE 10.5 安装教程"
+title: "Modelsim SE 105 安装教程"
 date:   2020-02-16
 tags: [安装,教程,Modelsim,SE,10.5]
 comments: true

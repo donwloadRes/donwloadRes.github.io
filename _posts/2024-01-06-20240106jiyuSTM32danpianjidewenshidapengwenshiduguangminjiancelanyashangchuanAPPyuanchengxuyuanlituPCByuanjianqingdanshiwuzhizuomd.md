@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的温室大棚温湿度光敏检测蓝牙上传APP源程序、原理图、PCB、元件清单实物制作"
+title: "基于STM32单片机的温室大棚温湿度光敏检测蓝牙上传APP源程序原理图PCB元件清单实物制作"
 date:   2022-05-31
 tags: [蓝牙,温湿度,检测,上传,APP]
 comments: true

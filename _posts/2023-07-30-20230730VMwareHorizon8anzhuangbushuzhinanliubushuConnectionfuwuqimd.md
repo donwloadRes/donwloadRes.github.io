@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Horizon 8 安装部署指南（六）：部署Connection服务器"
+title: "VMware Horizon 8 安装部署指南六部署Connection服务器"
 date:   2021-05-12
 tags: [Connection,服务器,配置,部署,VMware]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pandoc 3.1.1 Windows 64位版本下载"
+title: "Pandoc 311 Windows 64位版本下载"
 date:   2024-07-21
 tags: [Pandoc,64,文档,3.1,下载]
 comments: true

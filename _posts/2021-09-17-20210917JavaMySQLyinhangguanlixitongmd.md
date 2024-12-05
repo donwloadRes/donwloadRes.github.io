@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java + MySQL银行管理系统"
+title: "Java  MySQL银行管理系统"
 date:   2021-01-04
 tags: [数据库,MySQL,用户,连接,Java]
 comments: true

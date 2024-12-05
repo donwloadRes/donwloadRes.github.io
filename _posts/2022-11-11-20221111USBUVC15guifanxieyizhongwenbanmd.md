@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB UVC 1.5 规范协议中文版"
+title: "USB UVC 15 规范协议中文版"
 date:   2023-08-31
 tags: [USB,UVC,1.5,规范,中文版]
 comments: true

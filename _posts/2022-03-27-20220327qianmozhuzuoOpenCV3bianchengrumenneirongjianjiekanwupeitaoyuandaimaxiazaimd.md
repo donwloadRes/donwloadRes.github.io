@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【浅墨著作】OpenCV3编程入门》内容简介&勘误&配套源代码下载"
+title: "浅墨著作OpenCV3编程入门内容简介勘误配套源代码下载"
 date:   2022-05-18
 tags: [OpenCV3,OpenCV,源代码,视觉,浅墨]
 comments: true

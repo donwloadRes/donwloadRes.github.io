@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码之美(中文完整版) - 资源下载"
+title: "代码之美中文完整版  资源下载"
 date:   2020-05-01
 tags: [代码,设计,探讨,及其,介绍]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jacquard_V2数据集(机器人视觉抓取)"
+title: "JacquardV2数据集机器人视觉抓取"
 date:   2021-08-13
 tags: [Jacquard,抓取,数据,V2,000]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+Pcl可视化点云程序介绍"
+title: "QtPcl可视化点云程序介绍"
 date:   2020-08-10
 tags: [点云,可视化,Qt,程序,滑块]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python库-jieba安装指南"
+title: "Python库jieba安装指南"
 date:   2020-01-12
 tags: [jieba,Python,安装,python,指南]
 comments: true

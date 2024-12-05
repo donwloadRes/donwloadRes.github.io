@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC V8.0 软件安装包"
+title: "WinCC V80 软件安装包"
 date:   2022-09-11
 tags: [WinCC,安装包,V8.0,软件,REST]
 comments: true

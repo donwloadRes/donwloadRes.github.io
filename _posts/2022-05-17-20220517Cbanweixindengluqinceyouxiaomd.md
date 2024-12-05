@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版微信登录--亲测有效"
+title: "C版微信登录亲测有效"
 date:   2021-04-01
 tags: [登录,微信,C#,扫码,版微信]
 comments: true

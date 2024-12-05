@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog以太网组件：用于FPGA实现的以太网模块集合"
+title: "Verilog以太网组件用于FPGA实现的以太网模块集合"
 date:   2023-04-23
 tags: [模块,10G,25G,以太网,组件]
 comments: true

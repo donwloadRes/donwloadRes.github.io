@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS电源管理芯片中文资料 - BQ76940"
+title: "BMS电源管理芯片中文资料  BQ76940"
 date:   2022-04-13
 tags: [BQ76940,芯片,电源,资料,管理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 33节点配电网模型 - Simulink仿真模型"
+title: "IEEE 33节点配电网模型  Simulink仿真模型"
 date:   2022-02-13
 tags: [Simulink,模型,仿真,MATLAB,33]
 comments: true

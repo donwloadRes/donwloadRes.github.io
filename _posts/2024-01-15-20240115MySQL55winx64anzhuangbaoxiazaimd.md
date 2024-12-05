@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL-5.5-winx64 安装包下载"
+title: "MySQL55winx64 安装包下载"
 date:   2022-11-22
 tags: [安装包,MySQL,5.5,下载,winx64]
 comments: true

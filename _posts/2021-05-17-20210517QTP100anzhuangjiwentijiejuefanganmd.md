@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QTP10.0安装及问题解决方案"
+title: "QTP100安装及问题解决方案"
 date:   2022-03-06
 tags: [安装,QTP10.0,解决方案,调试器,安装程序]
 comments: true

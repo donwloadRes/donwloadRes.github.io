@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon算法加速基础知识（多核并行-GPU）"
+title: "Halcon算法加速基础知识多核并行GPU"
 date:   2022-09-04
 tags: [Halcon,GPU,算法,多核,加速]
 comments: true

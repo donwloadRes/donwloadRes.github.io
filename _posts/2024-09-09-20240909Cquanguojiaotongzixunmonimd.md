@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-全国交通咨询模拟"
+title: "C全国交通咨询模拟"
 date:   2024-09-17
 tags: [交通,C语言,模拟,编译,项目]
 comments: true

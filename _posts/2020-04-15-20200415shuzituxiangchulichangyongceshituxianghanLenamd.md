@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理常用测试图像（含Lena）"
+title: "数字图像处理常用测试图像含Lena"
 date:   2023-11-26
 tags: [图像,测试,Lena,数字图像处理,算法]
 comments: true

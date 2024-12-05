@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery 3.2.1 及 Bootstrap 3.3.7 资源文件下载"
+title: "jQuery 321 及 Bootstrap 337 资源文件下载"
 date:   2023-07-05
 tags: [jQuery,Bootstrap,3.2,3.3,版本]
 comments: true

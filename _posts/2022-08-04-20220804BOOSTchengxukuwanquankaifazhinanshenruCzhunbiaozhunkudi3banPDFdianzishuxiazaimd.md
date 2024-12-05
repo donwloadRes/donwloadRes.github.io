@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BOOST程序库完全开发指南：深入C++“准”标准库  第3版 PDF电子书下载"
+title: "BOOST程序库完全开发指南深入C准标准库  第3版 PDF电子书下载"
 date:   2023-05-13
 tags: [BOOST,C++,PDF,程序库,下载]
 comments: true

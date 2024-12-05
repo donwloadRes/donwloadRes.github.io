@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴PCB元件封装库命名规范-IPC7351"
+title: "中兴PCB元件封装库命名规范IPC7351"
 date:   2024-01-07
 tags: [PCB,封装,命名,元件,规范]
 comments: true

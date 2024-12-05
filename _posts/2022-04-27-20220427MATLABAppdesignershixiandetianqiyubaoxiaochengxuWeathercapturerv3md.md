@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB Appdesigner 实现的天气预报小程序 —— Weather-capturer-v3"
+title: "MATLAB Appdesigner 实现的天气预报小程序  Weathercapturerv3"
 date:   2020-12-02
 tags: [天气,MATLAB,Weather,capturer,v3]
 comments: true

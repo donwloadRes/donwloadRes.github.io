@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB程序设计与应用 - 刘卫国 PDF电子书免费下载"
+title: "MATLAB程序设计与应用  刘卫国 PDF电子书免费下载"
 date:   2024-01-27
 tags: [MATLAB,程序设计,应用,PDF,学习]
 comments: true

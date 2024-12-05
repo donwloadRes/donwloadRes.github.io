@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.20 免安装版安装教程（Win10）"
+title: "MySQL 8020 免安装版安装教程Win10"
 date:   2023-12-18
 tags: [MySQL,20,安装版,配置,8.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "W25Q16-W25X16驱动代码（基于STM32Cube库）"
+title: "W25Q16W25X16驱动代码基于STM32Cube库"
 date:   2022-09-15
 tags: [代码,W25Q16,W25X16,Keil5,驱动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poppler Windows 20.12.0 - PDF文档工具库"
+title: "Poppler Windows 20120  PDF文档工具库"
 date:   2021-09-04
 tags: [PDF,Poppler,文档,Windows,工具]
 comments: true

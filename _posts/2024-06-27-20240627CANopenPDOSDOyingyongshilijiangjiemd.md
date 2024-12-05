@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANopen PDO-SDO应用实例讲解"
+title: "CANopen PDOSDO应用实例讲解"
 date:   2022-08-15
 tags: [SDO,PDO,CANopen,实例,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moonlight 平板串流教程：出门在外玩电脑游戏"
+title: "Moonlight 平板串流教程出门在外玩电脑游戏"
 date:   2024-05-19
 tags: [Moonlight,Sunshine,串流,MoleSDN,电脑游戏]
 comments: true

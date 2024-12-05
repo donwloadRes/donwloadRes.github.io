@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与485 MODBUS 串口通信源代码"
+title: "C与485 MODBUS 串口通信源代码"
 date:   2023-08-12
 tags: [串口,通信,MODBUS,源代码,485]
 comments: true

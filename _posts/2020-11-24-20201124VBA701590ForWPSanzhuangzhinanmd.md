@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA7.0.1590 For WPS 安装指南"
+title: "VBA701590 For WPS 安装指南"
 date:   2022-05-18
 tags: [WPS,安装,VBA7.0,VBA,版本]
 comments: true

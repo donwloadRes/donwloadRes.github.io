@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大陆Continental ARS408-21毫米波雷达数据手册"
+title: "大陆Continental ARS40821毫米波雷达数据手册"
 date:   2020-08-28
 tags: [21,ARS408,毫米波,雷达,车辆]
 comments: true

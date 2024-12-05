@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch实现U-Net网络用于图像分割"
+title: "PyTorch实现UNet网络用于图像分割"
 date:   2021-02-12
 tags: [Net,训练,图像,分割,代码]
 comments: true

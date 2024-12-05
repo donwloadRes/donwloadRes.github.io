@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.6 免安装版本"
+title: "JDK 16 免安装版本"
 date:   2022-09-18
 tags: [JDK,1.6,Java,解压,安装]
 comments: true

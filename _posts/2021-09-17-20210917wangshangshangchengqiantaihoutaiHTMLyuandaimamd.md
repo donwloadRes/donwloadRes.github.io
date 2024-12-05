@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网上商城前台+后台HTML源代码"
+title: "网上商城前台后台HTML源代码"
 date:   2023-08-13
 tags: [HTML,网上商城,代码,前台,后台]
 comments: true

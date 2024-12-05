@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT+SecureFX 7.0.0.326 绿色汉化整合版 README.md"
+title: "SecureCRTSecureFX 700326 绿色汉化整合版 READMEmd"
 date:   2024-07-14
 tags: [SecureCRT,SecureFX,汉化,exe,解压]
 comments: true

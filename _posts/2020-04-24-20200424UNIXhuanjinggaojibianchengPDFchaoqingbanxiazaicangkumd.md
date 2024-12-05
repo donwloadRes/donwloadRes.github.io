@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UNIX环境高级编程（PDF超清版）下载仓库"
+title: "UNIX环境高级编程PDF超清版下载仓库"
 date:   2022-05-10
 tags: [PDF,UNIX,编程,章节,清版]
 comments: true

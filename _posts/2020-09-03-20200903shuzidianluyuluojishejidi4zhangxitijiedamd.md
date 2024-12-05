@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路与逻辑设计》第4章习题解答"
+title: "数字电路与逻辑设计第4章习题解答"
 date:   2022-04-05
 tags: [习题,解答,数字,逻辑设计,数字电路]
 comments: true

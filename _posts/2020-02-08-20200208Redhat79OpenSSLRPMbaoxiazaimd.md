@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redhat 7.9 OpenSSL RPM 包下载"
+title: "Redhat 79 OpenSSL RPM 包下载"
 date:   2023-07-27
 tags: [Redhat,7.9,OpenSSL,RPM,openssl]
 comments: true

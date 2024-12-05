@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++模板元编程"
+title: "C模板元编程"
 date:   2024-08-10
 tags: [C++,模板,编程,pdf,学习]
 comments: true

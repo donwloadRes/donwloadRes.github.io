@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python：librosa的安装指南"
+title: "pythonlibrosa的安装指南"
 date:   2021-04-09
 tags: [librosa,安装,pip,install,源码]
 comments: true

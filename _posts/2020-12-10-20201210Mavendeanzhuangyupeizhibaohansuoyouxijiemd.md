@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven的安装与配置(包含所有细节)"
+title: "Maven的安装与配置包含所有细节"
 date:   2021-02-06
 tags: [Maven,版本,配置,Java,安装]
 comments: true

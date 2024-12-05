@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APP Inventor蓝牙扩展 - BluetoothLE组件"
+title: "APP Inventor蓝牙扩展  BluetoothLE组件"
 date:   2020-11-20
 tags: [蓝牙,组件,扩展,APP,Inventor]
 comments: true

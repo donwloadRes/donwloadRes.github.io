@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ps31111+长江颗粒 SBFMP 系列固件下载"
+title: "ps31111长江颗粒 SBFMP 系列固件下载"
 date:   2022-05-26
 tags: [固件,2021,版本,BIN,发布]
 comments: true

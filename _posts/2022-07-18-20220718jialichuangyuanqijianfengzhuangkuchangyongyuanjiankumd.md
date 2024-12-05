@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嘉立创元器件封装库(常用元件库)"
+title: "嘉立创元器件封装库常用元件库"
 date:   2022-03-20
 tags: [封装,元器件,嘉立,设计,PCB]
 comments: true

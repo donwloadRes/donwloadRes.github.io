@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 自带元件库 - 杂项连接器与杂项设备"
+title: "Altium Designer 自带元件库  杂项连接器与杂项设备"
 date:   2020-08-17
 tags: [连接器,Altium,Designer,元件库,Miscellaneous]
 comments: true

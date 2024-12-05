@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching Open 2.7项目安装部署文件"
+title: "Teaching Open 27项目安装部署文件"
 date:   2023-06-14
 tags: [文件,部署,Teaching,Open,2.7]
 comments: true

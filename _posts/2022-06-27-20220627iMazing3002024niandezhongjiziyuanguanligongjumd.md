@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iMazing 3.0.0：2024 年的终极资源管理工具"
+title: "iMazing 3002024 年的终极资源管理工具"
 date:   2023-03-25
 tags: [iMazing,3.0,功能,用户,2024]
 comments: true

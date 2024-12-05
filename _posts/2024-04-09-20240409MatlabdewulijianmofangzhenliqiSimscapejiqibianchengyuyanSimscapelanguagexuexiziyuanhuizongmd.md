@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab的物理建模仿真利器——Simscape及其编程语言Simscape language学习资源汇总"
+title: "Matlab的物理建模仿真利器Simscape及其编程语言Simscape language学习资源汇总"
 date:   2021-04-23
 tags: [Simscape,Language,建模,Matlab,物理]
 comments: true

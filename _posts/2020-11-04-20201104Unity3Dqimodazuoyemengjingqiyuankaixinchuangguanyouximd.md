@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D期末大作业：梦境奇缘开心闯关游戏"
+title: "Unity3D期末大作业梦境奇缘开心闯关游戏"
 date:   2022-01-30
 tags: [游戏,闯关,奇缘,梦境,项目]
 comments: true

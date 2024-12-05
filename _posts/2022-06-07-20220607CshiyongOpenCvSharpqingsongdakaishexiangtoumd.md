@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用OpenCvSharp轻松打开摄像头"
+title: "C 使用OpenCvSharp轻松打开摄像头"
 date:   2020-06-16
 tags: [OpenCvSharp,摄像头,C#,示例,源码]
 comments: true

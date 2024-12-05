@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑连接安卓手机摄像头的方法(含DroidCam安装包及简明使用教程)"
+title: "电脑连接安卓手机摄像头的方法含DroidCam安装包及简明使用教程"
 date:   2023-11-10
 tags: [DroidCam,摄像头,电脑,手机,安装包]
 comments: true

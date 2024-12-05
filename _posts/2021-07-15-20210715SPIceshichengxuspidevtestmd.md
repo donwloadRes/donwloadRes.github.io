@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPI测试程序 - spidev-test"
+title: "SPI测试程序  spidevtest"
 date:   2022-06-01
 tags: [SPI,源码,spidev,test,编译]
 comments: true

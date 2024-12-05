@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于paho.mqtt.c的MQTT客户端"
+title: "基于pahomqttc的MQTT客户端"
 date:   2021-04-11
 tags: [MQTT,客户端,日志,示例,paho]
 comments: true

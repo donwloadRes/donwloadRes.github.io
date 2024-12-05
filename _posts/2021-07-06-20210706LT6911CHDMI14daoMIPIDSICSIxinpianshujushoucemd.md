@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT6911C HDMI1.4到MIPI®DSI-CSI芯片数据手册"
+title: "LT6911C HDMI14到MIPIDSICSI芯片数据手册"
 date:   2022-09-14
 tags: [LT6911C,芯片,DSI,手册,MIPI]
 comments: true

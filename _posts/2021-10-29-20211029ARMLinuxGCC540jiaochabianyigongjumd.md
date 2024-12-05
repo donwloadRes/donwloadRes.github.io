@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Linux GCC 5.4.0 交叉编译工具"
+title: "ARM Linux GCC 540 交叉编译工具"
 date:   2024-12-02
 tags: [编译,ARM,Linux,5.4,GCC]
 comments: true

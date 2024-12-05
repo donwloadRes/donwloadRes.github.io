@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT调用HIDAPI进行USB-HID设备通信"
+title: "QT调用HIDAPI进行USBHID设备通信"
 date:   2023-11-20
 tags: [HIDAPI,hid,QT,设备,USB]
 comments: true

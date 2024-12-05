@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-登录界面样式美化资源文件介绍"
+title: "Qt登录界面样式美化资源文件介绍"
 date:   2022-12-15
 tags: [样式,Qt,文件,界面,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kettle9.2 JDBC驱动下载指南"
+title: "kettle92 JDBC驱动下载指南"
 date:   2022-12-08
 tags: [Kettle,数据库,驱动,JDBC,SQL]
 comments: true

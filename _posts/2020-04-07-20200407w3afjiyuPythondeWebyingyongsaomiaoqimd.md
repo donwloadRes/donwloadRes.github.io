@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "w3af：基于Python的Web应用扫描器"
+title: "w3af基于Python的Web应用扫描器"
 date:   2021-06-17
 tags: [Web,插件,w3af,扫描,认证]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华视CVR-100U身份证阅读器C#读取Demo"
+title: "华视CVR100U身份证阅读器C读取Demo"
 date:   2023-11-21
 tags: [身份证,Demo,读取,华视,CVR]
 comments: true

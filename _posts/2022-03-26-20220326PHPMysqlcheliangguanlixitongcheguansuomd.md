@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+Mysql车辆管理系统（车管所）"
+title: "PHPMysql车辆管理系统车管所"
 date:   2024-04-05
 tags: [PHP,Mysql,数据库,WAMPSERVER,项目]
 comments: true

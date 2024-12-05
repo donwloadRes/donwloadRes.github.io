@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宏碁4750g笔记本BIOS 2.19版本"
+title: "宏碁4750g笔记本BIOS 219版本"
 date:   2021-09-29
 tags: [BIOS,宏碁,更新,4750g,更新过程]
 comments: true

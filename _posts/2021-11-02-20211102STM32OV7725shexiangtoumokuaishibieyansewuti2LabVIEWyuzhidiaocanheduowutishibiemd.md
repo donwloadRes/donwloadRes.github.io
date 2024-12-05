@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 OV7725摄像头模块识别颜色物体（2）-LabVIEW阈值调参和多物体识别"
+title: "STM32 OV7725摄像头模块识别颜色物体2LabVIEW阈值调参和多物体识别"
 date:   2022-05-24
 tags: [LabVIEW,识别,物体,阈值,摄像头]
 comments: true

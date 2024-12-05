@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN-bus 规范 V2.0 版本"
+title: "CANbus 规范 V20 版本"
 date:   2022-10-04
 tags: [通信协议,2.0,FD,文件,bus]
 comments: true

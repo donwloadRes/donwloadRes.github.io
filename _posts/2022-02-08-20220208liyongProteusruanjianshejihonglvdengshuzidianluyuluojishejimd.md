@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Proteus软件设计红绿灯（数字电路与逻辑设计）"
+title: "利用Proteus软件设计红绿灯数字电路与逻辑设计"
 date:   2024-07-11
 tags: [Proteus,红绿灯,逻辑设计,数字电路,倒计时]
 comments: true

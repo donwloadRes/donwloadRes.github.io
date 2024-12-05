@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PYNQ-Z2 FPGA开发板资源文件下载"
+title: "PYNQZ2 FPGA开发板资源文件下载"
 date:   2024-12-01
 tags: [开发板,PYNQ,文件,Z2,开发者]
 comments: true

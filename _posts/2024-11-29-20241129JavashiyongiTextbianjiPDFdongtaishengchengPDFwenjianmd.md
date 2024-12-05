@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java使用iText编辑PDF，动态生成PDF文件"
+title: "Java使用iText编辑PDF动态生成PDF文件"
 date:   2024-10-31
 tags: [PDF,模板,Adobe,创建,iText]
 comments: true

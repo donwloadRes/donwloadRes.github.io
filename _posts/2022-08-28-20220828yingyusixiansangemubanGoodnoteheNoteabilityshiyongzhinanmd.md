@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英语四线三格模板 - Goodnote 和 Noteability 使用指南"
+title: "英语四线三格模板  Goodnote 和 Noteability 使用指南"
 date:   2020-07-19
 tags: [模板,Goodnote,Noteability,PDF,英语]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDA4-SPL-SBL启动指南"
+title: "TDA4SPLSBL启动指南"
 date:   2021-11-26
 tags: [SBL,TDA4,SPL,烧录,编译]
 comments: true

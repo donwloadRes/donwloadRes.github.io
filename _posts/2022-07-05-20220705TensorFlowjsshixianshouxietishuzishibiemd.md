@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow.js实现手写体数字识别"
+title: "TensorFlowjs实现手写体数字识别"
 date:   2021-02-13
 tags: [TensorFlow,js,VsCode,识别,数字]
 comments: true

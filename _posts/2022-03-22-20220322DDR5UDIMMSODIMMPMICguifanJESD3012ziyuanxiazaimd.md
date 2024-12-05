@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR5 UDIMM、SODIMM PMIC规范，JESD301-2 资源下载"
+title: "DDR5 UDIMMSODIMM PMIC规范JESD3012 资源下载"
 date:   2023-05-20
 tags: [规范,PMIC,DDR5,UDIMM,SODIMM]
 comments: true

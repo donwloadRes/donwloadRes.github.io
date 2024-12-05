@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Odoo16 简洁好用的开源主题，安装即用"
+title: "Odoo16 简洁好用的开源主题安装即用"
 date:   2020-09-10
 tags: [主题,Odoo,开源,Odoo16,用户]
 comments: true

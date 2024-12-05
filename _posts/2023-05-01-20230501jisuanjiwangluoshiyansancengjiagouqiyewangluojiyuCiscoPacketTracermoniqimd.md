@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络实验：三层架构企业网络（基于Cisco Packet Tracer模拟器）"
+title: "计算机网络实验三层架构企业网络基于Cisco Packet Tracer模拟器"
 date:   2023-06-07
 tags: [网络,三层,VLAN,路由,企业]
 comments: true

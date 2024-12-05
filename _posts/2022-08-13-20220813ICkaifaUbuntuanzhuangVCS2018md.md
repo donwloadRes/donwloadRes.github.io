@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC开发——Ubuntu安装VCS2018"
+title: "IC开发Ubuntu安装VCS2018"
 date:   2021-08-20
 tags: [安装,步骤,Ubuntu,VCS2018,VCS]
 comments: true

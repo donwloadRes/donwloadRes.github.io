@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用Zemax镜头库_初始结构"
+title: "常用Zemax镜头库初始结构"
 date:   2020-03-27
 tags: [镜头,Zemax,初始,光学,结构]
 comments: true

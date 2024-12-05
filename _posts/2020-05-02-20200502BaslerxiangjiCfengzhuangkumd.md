@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basler相机C#封装库"
+title: "Basler相机C封装库"
 date:   2023-09-23
 tags: [图像,相机,获取,触发,Basler]
 comments: true

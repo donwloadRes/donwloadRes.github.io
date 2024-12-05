@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# - VB 调用 Refprop.dll 资源文件"
+title: "C  VB 调用 Refpropdll 资源文件"
 date:   2024-03-15
 tags: [Refprop,dll,文件,资源,C#]
 comments: true

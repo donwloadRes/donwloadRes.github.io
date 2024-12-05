@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Admin Template 4.4.0 资源文件下载"
+title: "Vue Admin Template 440 资源文件下载"
 date:   2020-03-12
 tags: [install,文件,4.4,npm,yarn]
 comments: true

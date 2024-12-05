@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS Mojave 10.15.3 ISO 文件下载及安装教程"
+title: "macOS Mojave 10153 ISO 文件下载及安装教程"
 date:   2021-01-02
 tags: [macOS,ISO,VMware,15,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP430烧写工具FET-Pro430 最新版V3.43"
+title: "MSP430烧写工具FETPro430 最新版V343"
 date:   2020-08-15
 tags: [MSP430,FET,Pro430,烧写,V3.43]
 comments: true

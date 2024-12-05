@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "明星个人网站蔡徐坤网页设计（HTML+CSS）"
+title: "明星个人网站蔡徐坤网页设计HTMLCSS"
 date:   2022-06-16
 tags: [HTML,网页,CSS,设计,文件]
 comments: true

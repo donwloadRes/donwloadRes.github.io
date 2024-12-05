@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库大作业报告-医院信息管理系统（SQL Server）"
+title: "数据库大作业报告医院信息管理系统SQL Server"
 date:   2022-05-08
 tags: [数据库,SQL,Server,信息管理系统,医院]
 comments: true

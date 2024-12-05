@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transformer模型简介：大语言模型的基础"
+title: "Transformer模型简介大语言模型的基础"
 date:   2022-11-26
 tags: [Transformer,模型,基础,语言,LLM]
 comments: true

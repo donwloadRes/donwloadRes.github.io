@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server+Java 数据库实验1.x 代码展示"
+title: "SQL ServerJava 数据库实验1x 代码展示"
 date:   2021-01-20
 tags: [数据库,SQL,Server,Java,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单登录注册页面（HTML5、CSS、JS）"
+title: "简单登录注册页面HTML5CSSJS"
 date:   2022-12-17
 tags: [页面,登录,注册,HTML5,JavaScript]
 comments: true

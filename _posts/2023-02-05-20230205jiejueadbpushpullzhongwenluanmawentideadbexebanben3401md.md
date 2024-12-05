@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决adb push pull中文乱码问题的adb.exe版本34.01"
+title: "解决adb push pull中文乱码问题的adbexe版本3401"
 date:   2021-04-10
 tags: [adb,exe,版本,乱码,文件]
 comments: true

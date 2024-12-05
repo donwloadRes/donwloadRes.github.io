@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN宏文件库包 - 电气设计者必备资源"
+title: "EPLAN宏文件库包  电气设计者必备资源"
 date:   2020-12-07
 tags: [文件,EPLAN,库包,电气设备,电气设计]
 comments: true

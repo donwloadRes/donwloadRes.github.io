@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OV540自动对焦摄像头应用笔记（MIPI接口）"
+title: "OV540自动对焦摄像头应用笔记MIPI接口"
 date:   2020-04-23
 tags: [MIPI,OV5640,笔记,摄像头,对焦]
 comments: true

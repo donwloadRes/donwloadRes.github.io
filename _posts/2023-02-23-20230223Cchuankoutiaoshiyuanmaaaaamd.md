@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口调试源码aaaa"
+title: "C串口调试源码aaaa"
 date:   2020-12-13
 tags: [串口,源码,C#,调试,aaaa]
 comments: true

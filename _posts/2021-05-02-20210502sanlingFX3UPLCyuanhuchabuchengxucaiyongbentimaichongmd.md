@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱FX3U PLC圆弧插补程序（采用本体脉冲）"
+title: "三菱FX3U PLC圆弧插补程序采用本体脉冲"
 date:   2022-09-09
 tags: [PLC,插补,程序,脉冲,圆弧]
 comments: true

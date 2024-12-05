@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB 50054-2011 低压配电设计规范"
+title: "GB 500542011 低压配电设计规范"
 date:   2024-09-02
 tags: [低压配电,2011,设计规范,GB,50054]
 comments: true

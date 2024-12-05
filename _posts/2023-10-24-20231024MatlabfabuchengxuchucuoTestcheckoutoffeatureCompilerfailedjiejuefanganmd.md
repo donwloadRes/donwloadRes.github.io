@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab发布程序出错：Test checkout of feature 'Compiler' failed 解决方案"
+title: "Matlab发布程序出错Test checkout of feature Compiler failed 解决方案"
 date:   2021-01-21
 tags: [MATLAB,Compiler,Matlab,文件,替换]
 comments: true

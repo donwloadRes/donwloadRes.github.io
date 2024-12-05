@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT协议调用示例：捷顺门禁温感一体机人员信息下发"
+title: "MQTT协议调用示例捷顺门禁温感一体机人员信息下发"
 date:   2021-11-24
 tags: [MQTT,示例,一体机,温感,下发]
 comments: true

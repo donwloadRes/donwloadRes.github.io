@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌检测（绿牌）+ JSON标签数据集"
+title: "车牌检测绿牌 JSON标签数据集"
 date:   2020-12-07
 tags: [20220630,jpg,车牌,标签,JSON]
 comments: true

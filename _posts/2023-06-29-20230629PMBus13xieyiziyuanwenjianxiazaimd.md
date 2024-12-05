@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMBus 1.3协议资源文件下载"
+title: "PMBus 13协议资源文件下载"
 date:   2021-05-23
 tags: [PMBus,文件,1.3,协议,资源]
 comments: true

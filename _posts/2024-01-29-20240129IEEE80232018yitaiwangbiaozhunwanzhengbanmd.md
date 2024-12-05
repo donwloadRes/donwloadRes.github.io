@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3 2018 以太网标准完整版"
+title: "IEEE 8023 2018 以太网标准完整版"
 date:   2022-02-13
 tags: [以太网,文件,IEEE,802.3,2018]
 comments: true

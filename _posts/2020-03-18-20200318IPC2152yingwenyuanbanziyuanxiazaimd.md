@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-2152英文原版资源下载"
+title: "IPC2152英文原版资源下载"
 date:   2021-04-25
 tags: [PCB,IPC,2152,英文原版,通流]
 comments: true

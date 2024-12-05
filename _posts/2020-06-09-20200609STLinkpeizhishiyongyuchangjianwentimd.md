@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link配置使用与常见问题"
+title: "STLink配置使用与常见问题"
 date:   2024-08-03
 tags: [ST,Link,配置,调试,常见问题]
 comments: true

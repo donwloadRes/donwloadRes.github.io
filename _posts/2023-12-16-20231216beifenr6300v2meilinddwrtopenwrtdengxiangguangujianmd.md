@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【备份】r6300v2梅林、dd-wrt、openwrt等相关固件"
+title: "备份r6300v2梅林ddwrtopenwrt等相关固件"
 date:   2022-09-26
 tags: [固件,dd,wrt,梅林,路由器]
 comments: true

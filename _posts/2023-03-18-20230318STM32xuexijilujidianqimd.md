@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32学习记录——继电器"
+title: "STM32学习记录继电器"
 date:   2020-10-18
 tags: [STM32,继电器,硬件,代码,控制]
 comments: true

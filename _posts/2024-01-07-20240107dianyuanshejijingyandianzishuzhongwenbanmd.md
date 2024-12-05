@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电源设计经验电子书(中文版)"
+title: "电源设计经验电子书中文版"
 date:   2024-05-20
 tags: [设计,电源,PDF,中文版,电子]
 comments: true

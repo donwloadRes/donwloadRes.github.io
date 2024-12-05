@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle（Spoon）教程中文详解 PDF 下载"
+title: "KettleSpoon教程中文详解 PDF 下载"
 date:   2022-10-17
 tags: [教程,Kettle,Spoon,PDF,详解]
 comments: true

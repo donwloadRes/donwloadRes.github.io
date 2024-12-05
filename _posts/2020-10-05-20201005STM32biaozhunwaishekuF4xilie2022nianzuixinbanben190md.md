@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32标准外设库F4系列2022年最新版本1.9.0"
+title: "STM32标准外设库F4系列2022年最新版本190"
 date:   2022-04-26
 tags: [版本,最新,STM32,F4,2022]
 comments: true

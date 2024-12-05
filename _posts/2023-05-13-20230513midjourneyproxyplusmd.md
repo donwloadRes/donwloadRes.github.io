@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "midjourney-proxy-plus"
+title: "midjourneyproxyplus"
 date:   2024-08-14
 tags: [midjourney,proxy,plus,中转,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim SE 10.4a 安装详解"
+title: "Modelsim SE 104a 安装详解"
 date:   2023-08-23
 tags: [安装,文件,Modelsim,10.4,license]
 comments: true

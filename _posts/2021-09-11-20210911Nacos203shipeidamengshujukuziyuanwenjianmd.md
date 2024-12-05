@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.0.3 适配达梦数据库资源文件"
+title: "Nacos 203 适配达梦数据库资源文件"
 date:   2021-02-06
 tags: [数据库,Nacos,适配,文件,达梦]
 comments: true

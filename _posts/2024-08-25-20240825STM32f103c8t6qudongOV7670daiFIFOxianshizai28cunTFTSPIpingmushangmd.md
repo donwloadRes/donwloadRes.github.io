@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32f103c8t6驱动OV7670带FIFO显示在2.8寸TFT SPI屏幕上"
+title: "STM32f103c8t6驱动OV7670带FIFO显示在28寸TFT SPI屏幕上"
 date:   2024-01-01
 tags: [STM32f103c8t6,OV7670,2.8,摄像头,TFT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深圳市建筑物楼块矢量数据（Shp格式，GIS适用）"
+title: "深圳市建筑物楼块矢量数据Shp格式GIS适用"
 date:   2022-08-12
 tags: [GIS,数据,楼块,shp,矢量]
 comments: true

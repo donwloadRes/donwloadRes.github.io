@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python期末大作业：学生成绩管理系统"
+title: "Python期末大作业学生成绩管理系统"
 date:   2020-10-28
 tags: [Python,学生,文件,管理系统,CSV]
 comments: true

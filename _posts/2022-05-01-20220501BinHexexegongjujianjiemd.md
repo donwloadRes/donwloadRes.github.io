@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bin_Hex.exe 工具简介"
+title: "BinHexexe 工具简介"
 date:   2024-11-22
 tags: [十六进制,转换,文件,工具,Bin]
 comments: true

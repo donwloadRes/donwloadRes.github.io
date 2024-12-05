@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO7816-4规范(中文版) - 智能卡接口与数据结构详细解读"
+title: "ISO78164规范中文版  智能卡接口与数据结构详细解读"
 date:   2020-12-19
 tags: [智能卡,ISO7816,中文版,文档,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + OpenCV 人脸识别资源下载"
+title: "Spring Boot  OpenCV 人脸识别资源下载"
 date:   2022-08-05
 tags: [人脸识别,Spring,Boot,OpenCV,项目]
 comments: true

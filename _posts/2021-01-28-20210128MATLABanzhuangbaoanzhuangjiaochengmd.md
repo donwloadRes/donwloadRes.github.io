@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB安装包+安装教程"
+title: "MATLAB安装包安装教程"
 date:   2023-06-04
 tags: [安装,MATLAB,激活,安装包,教程]
 comments: true

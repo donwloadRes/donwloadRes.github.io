@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有源相控阵天线EIRP测量及误差分析 (2014年)"
+title: "有源相控阵天线EIRP测量及误差分析 2014年"
 date:   2020-11-11
 tags: [EIRP,测量,天线,相控阵,有源]
 comments: true

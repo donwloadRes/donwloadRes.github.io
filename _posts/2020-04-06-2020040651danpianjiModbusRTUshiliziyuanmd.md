@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机Modbus_RTU示例资源"
+title: "51单片机ModbusRTU示例资源"
 date:   2022-01-01
 tags: [单片机,51,Modbus,RTU,示例]
 comments: true

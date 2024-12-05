@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSCT 保姆级教程—NSCT工具箱免费下载"
+title: "NSCT 保姆级教程NSCT工具箱免费下载"
 date:   2023-03-21
 tags: [工具箱,NSCT,Matlab,示例,代码]
 comments: true

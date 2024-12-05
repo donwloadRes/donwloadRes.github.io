@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 2.0 规范文档"
+title: "MIPI DPHY 20 规范文档"
 date:   2021-05-18
 tags: [2.0,MIPI,PHY,文档,规范]
 comments: true

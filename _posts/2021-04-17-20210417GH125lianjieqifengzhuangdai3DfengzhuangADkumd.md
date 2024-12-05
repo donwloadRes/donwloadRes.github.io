@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GH1.25连接器封装带3D封装AD库"
+title: "GH125连接器封装带3D封装AD库"
 date:   2020-09-22
 tags: [封装,GH1.25,3D,连接器,Altium]
 comments: true

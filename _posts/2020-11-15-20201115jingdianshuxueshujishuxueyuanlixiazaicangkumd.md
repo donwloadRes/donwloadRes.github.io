@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典数学书籍数学原理》下载仓库"
+title: "经典数学书籍数学原理下载仓库"
 date:   2020-02-10
 tags: [数学原理,仓库,数学,书籍,资源]
 comments: true

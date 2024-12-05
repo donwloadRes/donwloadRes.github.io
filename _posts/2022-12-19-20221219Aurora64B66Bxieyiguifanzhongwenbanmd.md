@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aurora 64B-66B 协议规范中文版"
+title: "Aurora 64B66B 协议规范中文版"
 date:   2020-04-22
 tags: [Aurora,64B,66B,协议,翻译]
 comments: true

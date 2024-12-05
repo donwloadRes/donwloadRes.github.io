@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "coord坐标转换软件：轻松实现2000坐标转换"
+title: "coord坐标转换软件轻松实现2000坐标转换"
 date:   2022-03-09
 tags: [转换,坐标,2000,软件,参数]
 comments: true

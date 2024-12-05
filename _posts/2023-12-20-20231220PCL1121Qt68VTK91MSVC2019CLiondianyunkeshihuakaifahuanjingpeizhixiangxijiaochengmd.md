@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCL 1.12.1 + Qt 6.8 + VTK 9.1 + MSVC 2019 + CLion 点云可视化开发环境配置详细教程"
+title: "PCL 1121  Qt 68  VTK 91  MSVC 2019  CLion 点云可视化开发环境配置详细教程"
 date:   2024-01-28
 tags: [教程,可视化,配置,VTK,点云]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 最新 Studio One 6.5 震撼发布，全面解析全新资源"
+title: "2024 最新 Studio One 65 震撼发布全面解析全新资源"
 date:   2020-10-28
 tags: [Studio,6.5,插件,正版,音频]
 comments: true

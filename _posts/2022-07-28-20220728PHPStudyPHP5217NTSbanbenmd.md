@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHPStudy PHP 5.2.17 NTS 版本"
+title: "PHPStudy PHP 5217 NTS 版本"
 date:   2022-02-02
 tags: [PHP,版本,5.2,17,PHPStudy]
 comments: true

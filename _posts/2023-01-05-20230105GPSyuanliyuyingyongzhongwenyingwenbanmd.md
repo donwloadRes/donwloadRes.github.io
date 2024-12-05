@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS原理与应用（中文+英文版）"
+title: "GPS原理与应用中文英文版"
 date:   2021-07-12
 tags: [GPS,中文,学习,英文原版,双语]
 comments: true

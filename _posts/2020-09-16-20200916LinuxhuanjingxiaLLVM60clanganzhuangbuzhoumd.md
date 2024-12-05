@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境下LLVM 6.0 + clang安装步骤"
+title: "Linux环境下LLVM 60  clang安装步骤"
 date:   2020-04-09
 tags: [clang,llvm,6.0,LLVM,tar]
 comments: true

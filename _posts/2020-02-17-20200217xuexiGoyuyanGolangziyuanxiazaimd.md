@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习 Go 语言(Golang) 资源下载"
+title: "学习 Go 语言Golang 资源下载"
 date:   2024-09-07
 tags: [Go,语言,编程,学习,资源]
 comments: true

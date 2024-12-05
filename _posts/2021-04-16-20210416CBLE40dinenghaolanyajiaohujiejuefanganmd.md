@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# BLE 4.0 低能耗蓝牙交互解决方案"
+title: "C BLE 40 低能耗蓝牙交互解决方案"
 date:   2022-03-12
 tags: [蓝牙,低能耗,交互,4.0,C#]
 comments: true

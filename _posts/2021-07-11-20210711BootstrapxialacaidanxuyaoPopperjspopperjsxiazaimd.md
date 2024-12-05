@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap下拉菜单需要Popper.js（popper.js下载）"
+title: "Bootstrap下拉菜单需要Popperjspopperjs下载"
 date:   2023-12-16
 tags: [js,Popper,Bootstrap,script,下拉菜单]
 comments: true

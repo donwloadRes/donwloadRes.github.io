@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文版CMOS超大规模集成电路设计第4版.part1 资源下载"
+title: "中文版CMOS超大规模集成电路设计第4版part1 资源下载"
 date:   2024-11-28
 tags: [超大规模,CMOS,part1,中文版,集成电路]
 comments: true

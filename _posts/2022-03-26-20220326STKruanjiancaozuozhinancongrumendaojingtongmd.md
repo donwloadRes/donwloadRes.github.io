@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STK软件操作指南：从入门到精通"
+title: "STK软件操作指南从入门到精通"
 date:   2024-05-28
 tags: [STK,用户,软件,操作,入门]
 comments: true

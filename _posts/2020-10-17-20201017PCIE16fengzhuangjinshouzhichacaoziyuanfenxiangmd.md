@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI-E16封装、金手指&插槽资源分享"
+title: "PCIE16封装金手指插槽资源分享"
 date:   2020-10-31
 tags: [封装,Altium,Designer,PCI,资源]
 comments: true

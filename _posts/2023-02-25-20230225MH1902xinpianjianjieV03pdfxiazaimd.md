@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MH1902芯片简介 V03.pdf 下载"
+title: "MH1902芯片简介 V03pdf 下载"
 date:   2023-08-21
 tags: [芯片,MH1902,V03,pdf,POS]
 comments: true

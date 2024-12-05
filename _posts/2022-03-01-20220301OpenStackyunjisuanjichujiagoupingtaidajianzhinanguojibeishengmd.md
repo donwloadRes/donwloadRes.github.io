@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenStack云计算基础架构平台搭建指南（国基北盛）"
+title: "OpenStack云计算基础架构平台搭建指南国基北盛"
 date:   2024-10-23
 tags: [虚拟机,基础架构,设置,OpenStack,搭建]
 comments: true

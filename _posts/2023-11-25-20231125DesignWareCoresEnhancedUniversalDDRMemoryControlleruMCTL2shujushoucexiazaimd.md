@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DesignWare Cores Enhanced Universal DDR Memory Controller (uMCTL2) 数据手册下载"
+title: "DesignWare Cores Enhanced Universal DDR Memory Controller uMCTL2 数据手册下载"
 date:   2021-12-06
 tags: [uMCTL2,DDR,dwc,ddr,umctl2]
 comments: true

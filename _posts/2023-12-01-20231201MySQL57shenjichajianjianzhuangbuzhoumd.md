@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 审计插件及安装步骤"
+title: "MySQL 57 审计插件及安装步骤"
 date:   2023-12-10
 tags: [插件,MySQL,安装,5.7,审计]
 comments: true

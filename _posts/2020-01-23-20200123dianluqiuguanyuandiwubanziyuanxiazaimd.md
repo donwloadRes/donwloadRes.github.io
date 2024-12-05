@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路（邱关源）》第五版 资源下载"
+title: "电路邱关源第五版 资源下载"
 date:   2020-06-25
 tags: [电路,第五版,邱关源,本书,下载]
 comments: true

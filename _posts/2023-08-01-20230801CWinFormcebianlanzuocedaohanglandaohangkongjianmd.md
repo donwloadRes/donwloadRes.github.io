@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm侧边栏左侧导航栏导航控件"
+title: "C WinForm侧边栏左侧导航栏导航控件"
 date:   2021-09-05
 tags: [控件,WinForm,导航,C#,Demo]
 comments: true

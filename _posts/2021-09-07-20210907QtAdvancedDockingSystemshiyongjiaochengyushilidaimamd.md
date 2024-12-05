@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-Advanced-Docking-System 使用教程与示例代码"
+title: "QtAdvancedDockingSystem 使用教程与示例代码"
 date:   2024-08-24
 tags: [Qt,Advanced,Docking,System,示例]
 comments: true

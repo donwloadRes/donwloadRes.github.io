@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M3与Cortex-M4权威指南"
+title: "ARM CortexM3与CortexM4权威指南"
 date:   2020-05-09
 tags: [Cortex,ARM,M3,M4,权威]
 comments: true

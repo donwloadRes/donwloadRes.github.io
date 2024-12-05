@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carsim与Simulink联合仿真：变道与轨迹跟踪算法实现"
+title: "Carsim与Simulink联合仿真变道与轨迹跟踪算法实现"
 date:   2020-11-06
 tags: [Carsim,仿真,算法,Simulink,变道]
 comments: true

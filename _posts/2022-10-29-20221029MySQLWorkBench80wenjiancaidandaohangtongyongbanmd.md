@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL WorkBench 8.0 文件菜单导航通用版"
+title: "MySQL WorkBench 80 文件菜单导航通用版"
 date:   2021-03-04
 tags: [MySQL,文件,WorkBench,8.0,菜单]
 comments: true

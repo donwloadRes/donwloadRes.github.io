@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机+温湿度传感器+Proteus仿真资源下载"
+title: "51单片机温湿度传感器Proteus仿真资源下载"
 date:   2021-02-23
 tags: [仿真,51,单片机,Proteus,温湿度]
 comments: true

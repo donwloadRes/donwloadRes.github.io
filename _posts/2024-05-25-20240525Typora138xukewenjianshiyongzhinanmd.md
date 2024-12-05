@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 1.3.8 许可文件使用指南"
+title: "Typora 138 许可文件使用指南"
 date:   2023-06-07
 tags: [Typora,文件,许可,1.3,Typora1.3]
 comments: true

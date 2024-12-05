@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10款经典2-12层ALLEGRO电子电路板参考资源"
+title: "10款经典212层ALLEGRO电子电路板参考资源"
 date:   2020-05-30
 tags: [PCB,Allegro,设计,10,12]
 comments: true

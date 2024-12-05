@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP分割、分配和分摊：KSV5、KSU5、KSS2概念与实例解说"
+title: "SAP分割分配和分摊KSV5KSU5KSS2概念与实例解说"
 date:   2020-11-12
 tags: [SAP,分摊,分割,分配,KSV5]
 comments: true

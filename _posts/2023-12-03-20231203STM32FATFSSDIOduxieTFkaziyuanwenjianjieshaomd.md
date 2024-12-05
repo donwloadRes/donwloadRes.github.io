@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+FATFS+SDIO读写TF卡资源文件介绍"
+title: "STM32FATFSSDIO读写TF卡资源文件介绍"
 date:   2023-03-20
 tags: [TF,STM32,FATFS,SDIO,文件系统]
 comments: true

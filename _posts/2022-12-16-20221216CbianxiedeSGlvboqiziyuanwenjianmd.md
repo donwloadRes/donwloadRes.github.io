@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编写的S-G滤波器资源文件"
+title: "C编写的SG滤波器资源文件"
 date:   2021-08-16
 tags: [滤波器,C++,GSL,编写,编译]
 comments: true

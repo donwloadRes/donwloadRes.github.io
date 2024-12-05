@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Server 10.5 安装与配置指南"
+title: "ArcGIS Server 105 安装与配置指南"
 date:   2023-03-14
 tags: [Server,ArcGIS,10.5,安装,授权]
 comments: true

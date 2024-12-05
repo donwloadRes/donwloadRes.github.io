@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "朴素贝叶斯算法.ppt"
+title: "朴素贝叶斯算法ppt"
 date:   2023-09-13
 tags: [贝叶斯,算法,朴素,PPT,分类]
 comments: true

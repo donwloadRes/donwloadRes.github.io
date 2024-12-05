@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联ZYNQ+SOC修炼秘籍》网手版 下载仓库"
+title: "米联ZYNQSOC修炼秘籍网手版 下载仓库"
 date:   2020-06-24
 tags: [ZYNQ7010,开发,教程,手版,FPGA]
 comments: true

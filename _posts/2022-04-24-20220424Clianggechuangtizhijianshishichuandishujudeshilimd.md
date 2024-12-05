@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 两个窗体之间实时传递数据的实例"
+title: "C 两个窗体之间实时传递数据的实例"
 date:   2021-11-21
 tags: [窗体,传递,C#,实例,事件]
 comments: true

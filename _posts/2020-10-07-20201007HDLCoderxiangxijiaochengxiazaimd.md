@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDL-Coder详细教程下载"
+title: "HDLCoder详细教程下载"
 date:   2021-10-17
 tags: [HDL,Coder,教程,例程,详细]
 comments: true

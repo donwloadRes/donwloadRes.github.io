@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Keras导入错误：模块 'keras.utils.generic_utils' 没有属性 'populate_dict_with_module_objects'"
+title: "解决Keras导入错误模块 kerasutilsgenericutils 没有属性 populatedictwithmoduleobjects"
 date:   2024-02-10
 tags: [Keras,module,utils,dict,populate]
 comments: true

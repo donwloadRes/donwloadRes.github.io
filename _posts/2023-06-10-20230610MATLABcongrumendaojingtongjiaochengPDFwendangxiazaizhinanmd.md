@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB从入门到精通教程 - PDF文档下载指南"
+title: "MATLAB从入门到精通教程  PDF文档下载指南"
 date:   2021-11-01
 tags: [MATLAB,PDF,教程,学习,入门]
 comments: true

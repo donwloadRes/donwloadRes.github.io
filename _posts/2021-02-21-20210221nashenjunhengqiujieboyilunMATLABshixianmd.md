@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纳什均衡求解 - 博弈论 MATLAB 实现"
+title: "纳什均衡求解  博弈论 MATLAB 实现"
 date:   2022-02-02
 tags: [纳什,MATLAB,均衡,博弈论,博弈]
 comments: true

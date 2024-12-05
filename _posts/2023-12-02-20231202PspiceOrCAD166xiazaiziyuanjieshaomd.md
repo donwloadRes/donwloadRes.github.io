@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pspice(OrCAD)16.6 下载资源介绍"
+title: "PspiceOrCAD166 下载资源介绍"
 date:   2023-08-03
 tags: [Pspice,OrCAD,16.6,安装,资源]
 comments: true

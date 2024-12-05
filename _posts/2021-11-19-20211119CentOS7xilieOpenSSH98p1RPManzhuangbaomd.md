@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 系列 OpenSSH 9.8p1 RPM 安装包"
+title: "CentOS 7 系列 OpenSSH 98p1 RPM 安装包"
 date:   2024-07-25
 tags: [rpm,OpenSSH,9.8,p1,openssh]
 comments: true

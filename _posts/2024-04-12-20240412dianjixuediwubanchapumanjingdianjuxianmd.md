@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机学第五版 - 查普曼经典巨献"
+title: "电机学第五版  查普曼经典巨献"
 date:   2023-05-20
 tags: [电机学,第五版,电机,查普曼,巨献]
 comments: true

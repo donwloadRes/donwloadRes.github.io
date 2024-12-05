@@ -1,6 +1,57 @@
 ---
 layout: post
-title: "基于Flink CDC的MySQL全量增量同步工具"
+title: "基于Flink CDC的MySQL全量增量同步工具
+date   20231114
+tags 数据库同步yoursourcetarget
+comments true
+author admin
+
+ 基于Flink CDC的MySQL全量增量同步工具
+
+ 简介
+
+本项目提供了一个基于Flink CDC使用datastream方式全量增量同步MySQL到MySQL的解决方案使用Java语言编写用户只需配置源数据库和目标数据库的信息运行MysqlCDC类中的main函数即可实现多库多表的同步
+
+ 功能特点
+
+ 全量同步支持从源数据库全量同步数据到目标数据库
+ 增量同步支持实时增量同步确保目标数据库数据与源数据库保持一致
+ 多库多表支持同步多个数据库和多个表灵活配置
+ 简单易用只需简单配置数据库信息即可运行同步任务
+
+ 快速开始
+
+ 环境要求
+
+ Java 8 或更高版本
+ Flink 112 或更高版本
+ MySQL 57 或更高版本
+
+ 配置步骤
+
+1 克隆仓库
+    bash
+    git clone httpsgithubcomyourrepoflinkcdcmysqlsyncgit
+    cd flinkcdcmysqlsync
+    
+
+2 配置数据库信息
+    在srcmainresourcesapplicationproperties文件中配置源数据库和目标数据库的信息
+    properties
+    sourcedatabaseurljdbcmysqlsourcedbhost3306sourcedb
+    sourcedatabaseusernameyoursourceusername
+    sourcedatabasepasswordyoursourcepassword
+
+    targetdatabaseurljdbcmysqltargetdbhost3306targetdb
+    targetdatabaseusernameyourtargetusername
+    targetdatabasepasswordyourtargetpassword
+    
+
+3 运行同步任务
+    运行MysqlCDC类中的main函数
+    bash
+    mvn clean package
+    mvn execjava DexecmainClasscomyourpackageMysqlCDC"
 date:   2023-11-14
 tags: [数据库,同步,your,source,target]
 comments: true

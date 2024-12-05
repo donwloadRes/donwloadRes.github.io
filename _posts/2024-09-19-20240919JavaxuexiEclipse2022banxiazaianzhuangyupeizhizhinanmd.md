@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java学习——Eclipse 2022版下载、安装与配置指南"
+title: "Java学习Eclipse 2022版下载安装与配置指南"
 date:   2020-05-23
 tags: [Java,Eclipse,JDK,配置,2022]
 comments: true

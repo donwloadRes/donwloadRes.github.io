@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C和指针(第二版）.pdf 下载仓库"
+title: "C和指针第二版pdf 下载仓库"
 date:   2023-10-20
 tags: [pdf,指针,仓库,PDF,下载]
 comments: true

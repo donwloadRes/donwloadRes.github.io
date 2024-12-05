@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数及其应用（第五版）David C. Lay"
+title: "线性代数及其应用第五版David C Lay"
 date:   2024-08-09
 tags: [Lay,线性代数,数学,David,大学]
 comments: true

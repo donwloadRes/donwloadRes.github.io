@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的串口通信简单实例"
+title: "基于C的串口通信简单实例"
 date:   2021-06-13
 tags: [串口,通信,代码,C#,实例]
 comments: true

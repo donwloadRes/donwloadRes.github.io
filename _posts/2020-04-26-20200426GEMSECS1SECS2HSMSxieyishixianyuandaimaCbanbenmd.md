@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GEM, SECS1, SECS2, HSMS 协议实现源代码 (C++ 版本)"
+title: "GEM SECS1 SECS2 HSMS 协议实现源代码 C 版本"
 date:   2023-02-25
 tags: [协议,GEM,HSMS,SECS,C++]
 comments: true

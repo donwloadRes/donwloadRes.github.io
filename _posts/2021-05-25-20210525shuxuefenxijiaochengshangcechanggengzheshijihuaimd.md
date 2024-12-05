@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析教程上册 - 常庚哲 & 史济怀"
+title: "数学分析教程上册  常庚哲  史济怀"
 date:   2023-03-23
 tags: [数学分析,上册,教程,学习,习题]
 comments: true

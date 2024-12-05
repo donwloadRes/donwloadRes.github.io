@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统（第二版）经典教材电子版"
+title: "信号与系统第二版经典教材电子版"
 date:   2021-07-15
 tags: [电子版,系统,Alan,Oppenheim,信号]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构知识点全面总结—精华版"
+title: "数据结构知识点全面总结精华版"
 date:   2023-03-31
 tags: [知识点,数据结构,精华版,总结,pdf]
 comments: true

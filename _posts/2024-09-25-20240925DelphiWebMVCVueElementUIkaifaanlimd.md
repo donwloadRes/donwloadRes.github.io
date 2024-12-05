@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DelphiWebMVC + Vue + Element-UI 开发案例"
+title: "DelphiWebMVC  Vue  ElementUI 开发案例"
 date:   2022-04-12
 tags: [DelphiWebMVC,UI,开发,Vue,Element]
 comments: true

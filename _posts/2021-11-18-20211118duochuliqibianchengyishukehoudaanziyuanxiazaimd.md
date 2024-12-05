@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多处理器编程艺术》课后答案资源下载"
+title: "多处理器编程艺术课后答案资源下载"
 date:   2021-12-05
 tags: [课后,多处理器,编程,答案,艺术]
 comments: true

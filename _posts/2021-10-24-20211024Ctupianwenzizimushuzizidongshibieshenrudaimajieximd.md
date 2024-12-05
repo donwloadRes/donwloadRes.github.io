@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图片文字、字母、数字自动识别 - 深入代码解析"
+title: "C 图片文字字母数字自动识别  深入代码解析"
 date:   2020-12-07
 tags: [代码,C#,自动识别,识别,字母]
 comments: true

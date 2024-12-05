@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue旅游网站答辩PPT资源介绍"
+title: "SpringBootVue旅游网站答辩PPT资源介绍"
 date:   2021-01-11
 tags: [答辩,PPT,SpringBoot,Vue,项目]
 comments: true

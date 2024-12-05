@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows MySQL 8.0 解决 secure-file-priv null 的问题"
+title: "Windows MySQL 80 解决 securefilepriv null 的问题"
 date:   2021-11-21
 tags: [secure,file,priv,文件,MySQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js微信小程序适配库 - 开发指南与模型资源"
+title: "Threejs微信小程序适配库  开发指南与模型资源"
 date:   2024-08-29
 tags: [3D,Three,js,微信,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0技术规范完整(中文)"
+title: "USB20技术规范完整中文"
 date:   2023-08-11
 tags: [USB2.0,PDF,文档,技术规范,中文]
 comments: true

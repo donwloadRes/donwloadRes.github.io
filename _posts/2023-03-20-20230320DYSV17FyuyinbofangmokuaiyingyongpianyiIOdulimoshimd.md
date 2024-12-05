@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DY-SV17F语音播放模块应用篇一 【IO独立模式】"
+title: "DYSV17F语音播放模块应用篇一 IO独立模式"
 date:   2020-10-22
 tags: [模块,语音,DY,SV17F,播放]
 comments: true

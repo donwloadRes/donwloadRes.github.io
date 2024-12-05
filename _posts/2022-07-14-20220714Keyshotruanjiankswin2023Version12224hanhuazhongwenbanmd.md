@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keyshot软件ks win2023 Version 12.2.2.4 汉化中文版"
+title: "Keyshot软件ks win2023 Version 12224 汉化中文版"
 date:   2020-11-06
 tags: [Keyshot,动画,渲染,中文版,汉化]
 comments: true

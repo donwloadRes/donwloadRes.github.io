@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于 Windows 11 系统下第12代-13代英特尔大小核架构 CPU 的 VMware 优化指南"
+title: "关于 Windows 11 系统下第12代13代英特尔大小核架构 CPU 的 VMware 优化指南"
 date:   2023-11-12
 tags: [VMware,虚拟机,CPU,Windows,12]
 comments: true

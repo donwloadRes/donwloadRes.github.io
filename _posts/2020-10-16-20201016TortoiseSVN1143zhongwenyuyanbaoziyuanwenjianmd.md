@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TortoiseSVN 1.14.3 中文语言包资源文件"
+title: "TortoiseSVN 1143 中文语言包资源文件"
 date:   2024-08-02
 tags: [TortoiseSVN,1.14,文件,语言包,中文]
 comments: true

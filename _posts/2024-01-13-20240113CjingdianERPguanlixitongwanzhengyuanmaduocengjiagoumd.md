@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#经典ERP管理系统完整源码(多层架构）"
+title: "C经典ERP管理系统完整源码多层架构"
 date:   2023-07-29
 tags: [源码,ERP,C#,开发者,多层]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8723DS Linux-Android 通用驱动"
+title: "RTL8723DS LinuxAndroid 通用驱动"
 date:   2020-09-25
 tags: [Android,驱动程序,驱动,文档,Linux]
 comments: true

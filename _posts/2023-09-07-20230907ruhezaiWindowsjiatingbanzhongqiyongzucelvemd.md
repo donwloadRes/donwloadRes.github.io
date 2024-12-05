@@ -1,6 +1,27 @@
 ---
 layout: post
-title: "如何在Windows家庭版中启用组策略"
+title: "如何在Windows家庭版中启用组策略
+date   20221024
+tags Windows组策略家庭版启用编辑器
+comments true
+author admin
+
+ 如何在Windows家庭版中启用组策略
+
+ 简介
+在Windows家庭版中默认情况下并不包含组策略编辑器Group Policy Editor这使得用户无法直接通过组策略来定制系统设置然而通过一些简单的步骤我们可以在Windows家庭版中启用组策略编辑器从而获得更多的系统配置选项
+
+ 操作步骤
+
+ 1 创建批处理文件
+首先在桌面上新建一个文本文件并将以下代码复制到该文本文件中
+
+cmd
+echo off
+pushd dp0
+dir b CWindowsservicingPackagesMicrosoftWindowsGroupPolicyClientExtensionsPackage3mum Listtxt
+dir b CWindowsservicingPackagesMicrosoftWindowsGroupPolicyClientToolsPackage3mum Listtxt
+for f i in findstr i  Listtxt 2nul do dism online norestart addpackageCWindowsservicingPackagesi"
 date:   2022-10-24
 tags: [Windows,组策略,家庭版,启用,编辑器]
 comments: true

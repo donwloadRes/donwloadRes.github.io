@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcMap2SLD 插件 v1.4.0 使用说明"
+title: "ArcMap2SLD 插件 v140 使用说明"
 date:   2021-03-31
 tags: [插件,ArcGIS,ArcMap2SLD,样式,解压缩]
 comments: true

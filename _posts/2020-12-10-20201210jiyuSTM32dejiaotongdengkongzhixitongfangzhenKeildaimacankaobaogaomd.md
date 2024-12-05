@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的交通灯控制系统仿真+Keil代码+参考报告"
+title: "基于STM32的交通灯控制系统仿真Keil代码参考报告"
 date:   2020-04-01
 tags: [Keil,仿真,STM32,交通灯,Proteus]
 comments: true

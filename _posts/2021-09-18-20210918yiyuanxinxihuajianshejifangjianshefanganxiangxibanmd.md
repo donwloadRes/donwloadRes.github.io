@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医院信息化建设机房建设方案(详细版)"
+title: "医院信息化建设机房建设方案详细版"
 date:   2020-06-21
 tags: [机房,建设,方案,系统,确保]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java配置：Jpcap的下载与IDEA配置"
+title: "Java配置Jpcap的下载与IDEA配置"
 date:   2020-02-03
 tags: [Jpcap,IDEA,Java,JDK,配置]
 comments: true

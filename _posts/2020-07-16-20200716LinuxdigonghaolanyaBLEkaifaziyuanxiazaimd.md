@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 低功耗蓝牙（BLE）开发资源下载"
+title: "Linux 低功耗蓝牙BLE开发资源下载"
 date:   2024-04-16
 tags: [Linux,BLE,蓝牙,低功耗,下载]
 comments: true

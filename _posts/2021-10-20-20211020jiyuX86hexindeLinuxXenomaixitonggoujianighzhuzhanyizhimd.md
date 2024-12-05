@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于X86核心的Linux+Xenomai系统构建+igh主站移植"
+title: "基于X86核心的LinuxXenomai系统构建igh主站移植"
 date:   2021-01-17
 tags: [主站,igh,移植,X86,Linux]
 comments: true

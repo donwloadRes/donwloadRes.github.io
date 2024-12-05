@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI标准(中文版) 资源下载"
+title: "CPCI标准中文版 资源下载"
 date:   2024-03-24
 tags: [CPCI,PCI,规范,嵌入式,中文版]
 comments: true

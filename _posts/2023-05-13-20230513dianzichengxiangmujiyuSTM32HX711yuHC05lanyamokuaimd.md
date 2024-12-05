@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子秤项目基于STM32、HX711与HC-05蓝牙模块"
+title: "电子秤项目基于STM32HX711与HC05蓝牙模块"
 date:   2024-06-25
 tags: [HC,05,蓝牙,HX711,STM32]
 comments: true

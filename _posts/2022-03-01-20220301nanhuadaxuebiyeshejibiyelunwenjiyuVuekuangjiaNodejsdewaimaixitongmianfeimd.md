@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南华大学毕业设计-毕业论文：基于Vue框架+Node.js的外卖系统（免费）"
+title: "南华大学毕业设计毕业论文基于Vue框架Nodejs的外卖系统免费"
 date:   2021-07-31
 tags: [毕业设计,毕业论文,外卖,Vue,Node]
 comments: true

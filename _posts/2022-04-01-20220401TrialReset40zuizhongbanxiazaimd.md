@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trial-Reset 4.0 最终版下载"
+title: "TrialReset 40 最终版下载"
 date:   2020-05-02
 tags: [Trial,清理,Reset,最终版,软件]
 comments: true

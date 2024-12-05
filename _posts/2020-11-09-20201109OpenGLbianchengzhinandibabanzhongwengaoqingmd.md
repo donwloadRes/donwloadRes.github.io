@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL编程指南(第八版)中文高清"
+title: "OpenGL编程指南第八版中文高清"
 date:   2023-09-25
 tags: [OpenGL,编程,第八版,高清,指南]
 comments: true

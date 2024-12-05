@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出西门子运动控制器 - SIMOTION 实用手册"
+title: "深入浅出西门子运动控制器  SIMOTION 实用手册"
 date:   2020-02-26
 tags: [SIMOTION,西门子,实用手册,深入浅出,控制器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP以太网调试助手软件V2.3 下载"
+title: "TCP以太网调试助手软件V23 下载"
 date:   2022-11-04
 tags: [TCP,调试,软件,V2.3,以太网]
 comments: true

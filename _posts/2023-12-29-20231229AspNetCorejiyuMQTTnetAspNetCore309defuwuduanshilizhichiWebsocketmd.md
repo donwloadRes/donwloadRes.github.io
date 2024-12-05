@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AspNetCore基于MQTTnet.AspNetCore3.0.9的服务端实例（支持Websocket）"
+title: "AspNetCore基于MQTTnetAspNetCore309的服务端实例支持Websocket"
 date:   2024-07-13
 tags: [服务端,Websocket,MQTT,实例,客户端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SQLite3 增删改查示例"
+title: "C SQLite3 增删改查示例"
 date:   2021-11-16
 tags: [Demo,改查,SQLite,增删,示例]
 comments: true

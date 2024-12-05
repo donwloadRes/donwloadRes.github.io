@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初等数论及其应用-第五版-华章-Kenneth.H.Rosen 资源下载"
+title: "初等数论及其应用第五版华章KennethHRosen 资源下载"
 date:   2024-08-28
 tags: [Kenneth,Rosen,数论,第五版,华章]
 comments: true

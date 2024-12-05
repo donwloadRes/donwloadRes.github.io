@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD图块属性读取并写入Excel表格（VB源程序）"
+title: "AutoCAD图块属性读取并写入Excel表格VB源程序"
 date:   2020-08-12
 tags: [AutoCAD,Excel,图块,文件,读取]
 comments: true

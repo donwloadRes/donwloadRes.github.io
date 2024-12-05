@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析课后习题答案（C++）"
+title: "算法设计与分析课后习题答案C"
 date:   2023-11-18
 tags: [课后,习题,C++,算法,10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java常见面试题(史上最全最经典-希望对你有用)"
+title: "Java常见面试题史上最全最经典希望对你有用"
 date:   2022-04-06
 tags: [Java,语法,面试题,资源,面试]
 comments: true

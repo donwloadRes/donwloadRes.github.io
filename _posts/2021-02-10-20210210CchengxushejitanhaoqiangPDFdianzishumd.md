@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++程序设计_谭浩强_PDF电子书"
+title: "C程序设计谭浩强PDF电子书"
 date:   2020-06-06
 tags: [C++,编程,谭浩强,PDF,程序设计]
 comments: true

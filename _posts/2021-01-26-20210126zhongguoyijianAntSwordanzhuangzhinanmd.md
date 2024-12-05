@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国蚁剑(AntSword)安装指南"
+title: "中国蚁剑AntSword安装指南"
 date:   2024-09-09
 tags: [AntSword,安装,解压,安装包,文件]
 comments: true

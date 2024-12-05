@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享85个PHP源码，总有一款适合您"
+title: "分享85个PHP源码总有一款适合您"
 date:   2024-08-30
 tags: [源码,PHP,85,适合,开发者]
 comments: true

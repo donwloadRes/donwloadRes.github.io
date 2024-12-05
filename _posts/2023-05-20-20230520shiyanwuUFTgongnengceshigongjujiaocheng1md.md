@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验五 UFT-功能测试工具教程1"
+title: "实验五 UFT功能测试工具教程1"
 date:   2020-09-06
 tags: [UFT,视图,教程,测试工具,录制]
 comments: true

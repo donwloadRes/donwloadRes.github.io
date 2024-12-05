@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第三方登录泛微Ecology9.0单点登录配置方法"
+title: "第三方登录泛微Ecology90单点登录配置方法"
 date:   2022-02-07
 tags: [登录,Ecology9.0,配置,泛微,单点]
 comments: true

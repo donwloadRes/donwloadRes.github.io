@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows中SyncToy(微软同步工具) v2.1（32和64位）下载仓库"
+title: "Windows中SyncToy微软同步工具 v2132和64位下载仓库"
 date:   2021-02-14
 tags: [SyncToy,安装包,Windows,64,32]
 comments: true

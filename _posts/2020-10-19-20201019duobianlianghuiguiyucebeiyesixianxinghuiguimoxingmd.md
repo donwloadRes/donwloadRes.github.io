@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【多变量回归预测】贝叶斯线性回归模型"
+title: "多变量回归预测贝叶斯线性回归模型"
 date:   2022-05-03
 tags: [贝叶斯,回归,线性,模型,参数]
 comments: true

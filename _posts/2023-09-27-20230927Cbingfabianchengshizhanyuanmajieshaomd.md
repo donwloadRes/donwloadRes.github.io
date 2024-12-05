@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++并发编程实战源码介绍"
+title: "C并发编程实战源码介绍"
 date:   2022-01-03
 tags: [源码,C++,并发,编程,实战]
 comments: true

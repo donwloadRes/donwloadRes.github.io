@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SYS-BIOS使用指南下载仓库"
+title: "SYSBIOS使用指南下载仓库"
 date:   2024-05-18
 tags: [SYS,BIOS,使用指南,CCS,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5366+VL171 Type-C母座转HDMI正反插方案原理图"
+title: "CS5366VL171 TypeC母座转HDMI正反插方案原理图"
 date:   2024-11-03
 tags: [支持,原理图,CS5366,母座,HDMI]
 comments: true

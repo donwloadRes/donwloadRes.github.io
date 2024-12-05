@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "疫情之下，数据之上》源码仓库"
+title: "疫情之下数据之上源码仓库"
 date:   2024-09-07
 tags: [源码,网页,Flask,前端,仓库]
 comments: true

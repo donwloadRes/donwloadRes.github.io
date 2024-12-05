@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform数值实时曲线（完整示例）"
+title: "C Winform数值实时曲线完整示例"
 date:   2024-11-06
 tags: [示例,数据,实时,Winform,C#]
 comments: true

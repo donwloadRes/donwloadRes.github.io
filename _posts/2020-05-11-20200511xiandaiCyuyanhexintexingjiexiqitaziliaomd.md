@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代C++语言核心特性解析》其他资料"
+title: "现代C语言核心特性解析其他资料"
 date:   2022-02-15
 tags: [C++,特性,学习,解析,编程]
 comments: true

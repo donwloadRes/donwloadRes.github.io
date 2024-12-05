@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞昱RTL8125BG(S)-CG规格书下载"
+title: "瑞昱RTL8125BGSCG规格书下载"
 date:   2023-01-04
 tags: [规格书,CG,RTL8125BG,瑞昱,PDF]
 comments: true

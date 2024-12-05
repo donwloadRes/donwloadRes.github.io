@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版VMware Workstation 17.5.2-23775571.exe"
+title: "最新版VMware Workstation 175223775571exe"
 date:   2021-05-29
 tags: [VMware,虚拟机,Workstation,操作系统,最新版]
 comments: true

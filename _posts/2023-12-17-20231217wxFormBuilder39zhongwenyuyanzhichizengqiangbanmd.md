@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wxFormBuilder 3.9 中文语言支持增强版"
+title: "wxFormBuilder 39 中文语言支持增强版"
 date:   2020-07-14
 tags: [增强版,wxFormBuilder,中文,3.9,文件]
 comments: true

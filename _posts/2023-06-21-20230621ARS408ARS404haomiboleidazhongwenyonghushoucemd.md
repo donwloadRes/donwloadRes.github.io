@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARS408 & ARS404毫米波雷达中文用户手册"
+title: "ARS408  ARS404毫米波雷达中文用户手册"
 date:   2022-01-09
 tags: [雷达,毫米波,ARS408,ARS404,本手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志平台adb驱动（线刷）"
+title: "全志平台adb驱动线刷"
 date:   2022-04-21
 tags: [驱动,全志,设备,线刷,管理器]
 comments: true

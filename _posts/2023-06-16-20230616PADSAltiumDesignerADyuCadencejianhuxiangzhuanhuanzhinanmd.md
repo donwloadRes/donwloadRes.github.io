@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS、Altium Designer（AD）与Cadence间互相转换指南"
+title: "PADSAltium DesignerAD与Cadence间互相转换指南"
 date:   2022-05-01
 tags: [Cadence,PADS,AD,转换,文档]
 comments: true

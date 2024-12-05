@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于KNN算法的MATLAB人脸识别-课程设计"
+title: "基于KNN算法的MATLAB人脸识别课程设计"
 date:   2020-12-04
 tags: [KNN,算法,MATLAB,人脸识别,类别]
 comments: true

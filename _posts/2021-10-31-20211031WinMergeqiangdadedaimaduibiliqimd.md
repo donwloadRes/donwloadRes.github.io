@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinMerge —— 强大的代码对比利器"
+title: "WinMerge  强大的代码对比利器"
 date:   2023-08-04
 tags: [WinMerge,对比,代码,文件,文件夹]
 comments: true

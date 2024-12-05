@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑技巧：告别卡顿，迎接流畅 —— Wintune系统优化软件功能详解"
+title: "电脑技巧告别卡顿迎接流畅  Wintune系统优化软件功能详解"
 date:   2021-07-27
 tags: [系统优化,Windows,电脑,卡顿,Wintune]
 comments: true

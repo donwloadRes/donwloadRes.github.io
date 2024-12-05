@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细VisionPro视觉工具-原理及实例讲解"
+title: "超详细VisionPro视觉工具原理及实例讲解"
 date:   2024-03-22
 tags: [VisionPro,视觉,工具,实例,原理]
 comments: true

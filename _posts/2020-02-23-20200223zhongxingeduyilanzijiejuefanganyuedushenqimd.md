@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴e读 - 一揽子解决方案阅读神器"
+title: "中兴e读  一揽子解决方案阅读神器"
 date:   2020-10-22
 tags: [中兴,文档,阅读,神器,技术]
 comments: true

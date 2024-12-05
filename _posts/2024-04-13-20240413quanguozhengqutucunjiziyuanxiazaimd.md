@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国政区图-村级资源下载"
+title: "全国政区图村级资源下载"
 date:   2023-04-14
 tags: [政区,村级,下载,全国,资源]
 comments: true

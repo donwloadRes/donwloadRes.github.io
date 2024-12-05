@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "席裕庚预测控制》第二版 PDF 下载"
+title: "席裕庚预测控制第二版 PDF 下载"
 date:   2024-07-09
 tags: [PDF,席裕庚,下载,仓库,文件]
 comments: true

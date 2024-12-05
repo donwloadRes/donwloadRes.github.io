@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能家居控制系统-详细设计"
+title: "智能家居控制系统详细设计"
 date:   2021-02-14
 tags: [智能家居,远程,系统,设计,单片机]
 comments: true

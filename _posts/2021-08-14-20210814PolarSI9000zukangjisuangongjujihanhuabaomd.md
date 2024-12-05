@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polar_SI9000 阻抗计算工具及汉化包"
+title: "PolarSI9000 阻抗计算工具及汉化包"
 date:   2023-11-16
 tags: [Polar,SI9000,软件,安装,阻抗]
 comments: true

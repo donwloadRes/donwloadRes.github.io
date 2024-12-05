@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件项目管理案例教程课后答案(第四版)"
+title: "软件项目管理案例教程课后答案第四版"
 date:   2024-11-01
 tags: [课后,项目管理,软件,第四版,文件]
 comments: true

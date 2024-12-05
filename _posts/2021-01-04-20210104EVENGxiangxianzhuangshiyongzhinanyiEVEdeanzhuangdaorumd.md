@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVE-NG详细安装使用指南（一）—— EVE的安装导入"
+title: "EVENG详细安装使用指南一 EVE的安装导入"
 date:   2020-04-14
 tags: [EVE,NG,虚拟机,安装,VMware]
 comments: true

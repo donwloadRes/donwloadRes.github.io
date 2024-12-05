@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "器件应力降额总规范(艾默生)"
+title: "器件应力降额总规范艾默生"
 date:   2022-05-17
 tags: [降额,器件,应力,艾默生,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机视觉-飞桨深度学习实战-学习PPT-1"
+title: "计算机视觉飞桨深度学习实战学习PPT1"
 date:   2024-09-24
 tags: [视觉,计算机,学习,深度,飞桨]
 comments: true

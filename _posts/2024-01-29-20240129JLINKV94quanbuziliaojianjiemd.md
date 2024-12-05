@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLINK-V9.4全部资料简介"
+title: "JLINKV94全部资料简介"
 date:   2024-02-19
 tags: [JLINK,V9.4,固件,教程,PCB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200 SMART编程软件STEP 7 MicroWIN SMART V2.4"
+title: "西门子S7200 SMART编程软件STEP 7 MicroWIN SMART V24"
 date:   2020-10-22
 tags: [SMART,S7,200,编程,西门子]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超市商品编码标准库(共100万条)2022最新版SQL和EXCEL"
+title: "超市商品编码标准库共100万条2022最新版SQL和EXCEL"
 date:   2020-12-10
 tags: [商品,编码,100,SQL,EXCEL]
 comments: true

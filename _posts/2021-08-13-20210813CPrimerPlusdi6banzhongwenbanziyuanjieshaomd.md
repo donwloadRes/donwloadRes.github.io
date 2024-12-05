@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer Plus (第6版) 中文版 资源介绍"
+title: "C Primer Plus 第6版 中文版 资源介绍"
 date:   2024-09-30
 tags: [C++,中文版,编程,Primer,Plus]
 comments: true

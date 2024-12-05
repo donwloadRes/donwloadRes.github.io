@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModBUS TCP C#源码实现"
+title: "ModBUS TCP C源码实现"
 date:   2020-11-06
 tags: [ModBUS,C#,NET,TCP,master]
 comments: true

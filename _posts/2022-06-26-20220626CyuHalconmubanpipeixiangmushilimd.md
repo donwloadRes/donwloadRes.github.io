@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与Halcon模板匹配项目实例"
+title: "C与Halcon模板匹配项目实例"
 date:   2021-06-17
 tags: [C#,HALCON,项目,匹配,Halcon]
 comments: true

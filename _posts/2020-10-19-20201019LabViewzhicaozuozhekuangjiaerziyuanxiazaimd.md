@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabView之操作者框架（二）资源下载"
+title: "LabView之操作者框架二资源下载"
 date:   2021-06-04
 tags: [LabView,操作者,框架,文件,资源]
 comments: true

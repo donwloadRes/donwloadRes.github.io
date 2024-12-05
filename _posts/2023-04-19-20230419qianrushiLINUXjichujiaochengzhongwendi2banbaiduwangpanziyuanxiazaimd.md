@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式LINUX基础教程中文第2版 --百度网盘 资源下载"
+title: "嵌入式LINUX基础教程中文第2版 百度网盘 资源下载"
 date:   2022-09-20
 tags: [嵌入式,Linux,系统,LINUX,基础教程]
 comments: true

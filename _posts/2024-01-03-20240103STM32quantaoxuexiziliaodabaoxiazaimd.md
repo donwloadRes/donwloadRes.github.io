@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32全套学习资料，打包下载"
+title: "STM32全套学习资料打包下载"
 date:   2020-09-01
 tags: [STM32,资料,学习,开发,基础知识]
 comments: true

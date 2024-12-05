@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "所有Linux系统离线安装Docker与Docker-Compose资源"
+title: "所有Linux系统离线安装Docker与DockerCompose资源"
 date:   2022-08-17
 tags: [Linux,安装,离线,Docker,安装包]
 comments: true

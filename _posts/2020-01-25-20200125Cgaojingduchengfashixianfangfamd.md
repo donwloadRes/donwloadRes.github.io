@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++高精度乘法实现方法"
+title: "C高精度乘法实现方法"
 date:   2023-12-16
 tags: [C++,高精度,乘法,示例,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "api-ms-win-.dll 64位 资源文件下载"
+title: "apimswindll 64位 资源文件下载"
 date:   2021-02-25
 tags: [文件,api,ms,win,64]
 comments: true

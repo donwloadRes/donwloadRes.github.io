@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Chart控件数据点操作工具"
+title: "C Chart控件数据点操作工具"
 date:   2024-07-16
 tags: [数据,控件,文件,C#,框选]
 comments: true

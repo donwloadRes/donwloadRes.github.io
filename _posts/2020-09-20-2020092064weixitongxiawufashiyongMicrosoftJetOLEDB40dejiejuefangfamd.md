@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "64位系统下无法使用Microsoft.Jet.OLEDB.4.0的解决方法"
+title: "64位系统下无法使用MicrosoftJetOLEDB40的解决方法"
 date:   2022-06-07
 tags: [Microsoft,Jet,OLEDB.4,64,驱动程序]
 comments: true

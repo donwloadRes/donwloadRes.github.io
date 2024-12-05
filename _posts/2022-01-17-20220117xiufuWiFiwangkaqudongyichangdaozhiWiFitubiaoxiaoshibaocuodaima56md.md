@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "修复WiFi网卡驱动异常导致WiFi图标消失报错代码(56)"
+title: "修复WiFi网卡驱动异常导致WiFi图标消失报错代码56"
 date:   2022-08-02
 tags: [WiFi,图标,修复,网卡,56]
 comments: true

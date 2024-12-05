@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200博图V16灌装机PLC及触摸屏完整编程资源"
+title: "西门子S71200博图V16灌装机PLC及触摸屏完整编程资源"
 date:   2023-12-04
 tags: [PLC,灌装,西门子,博图,V16]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Neo4j+Flask 汽车行业知识图谱项目实战资源"
+title: "PythonNeo4jFlask 汽车行业知识图谱项目实战资源"
 date:   2020-04-29
 tags: [图谱,汽车行业,源码,Neo4j,知识]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机森林代码-Matlab 资源下载"
+title: "随机森林代码Matlab 资源下载"
 date:   2023-09-16
 tags: [Matlab,代码,文档,随机,森林]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apollo自动驾驶入门课程第④讲 — 感知（上）资源下载"
+title: "Apollo自动驾驶入门课程第讲  感知上资源下载"
 date:   2021-02-03
 tags: [Apollo,驾驶,感知,自动,文件]
 comments: true

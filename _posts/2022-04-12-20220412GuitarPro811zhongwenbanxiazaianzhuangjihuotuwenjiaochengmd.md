@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.1.1中文版下载安装激活图文教程"
+title: "Guitar Pro 811中文版下载安装激活图文教程"
 date:   2021-01-18
 tags: [Guitar,Pro,8.1,激活,点击]
 comments: true

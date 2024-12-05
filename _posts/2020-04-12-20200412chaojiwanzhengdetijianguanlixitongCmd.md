@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级完整的体检管理系统C#"
+title: "超级完整的体检管理系统C"
 date:   2020-06-27
 tags: [体检,管理系统,C#,系统,超级]
 comments: true

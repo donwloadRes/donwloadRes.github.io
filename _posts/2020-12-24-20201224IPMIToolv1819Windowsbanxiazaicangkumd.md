@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPMITool v1.8.19 Windows版下载仓库"
+title: "IPMITool v1819 Windows版下载仓库"
 date:   2024-09-25
 tags: [IPMITool,风扇,Windows,IPMI,阈值]
 comments: true

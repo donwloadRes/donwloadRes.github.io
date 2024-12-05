@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JS图片轮播：VCD包装盒个性幻灯片实例源码"
+title: "JS图片轮播VCD包装盒个性幻灯片实例源码"
 date:   2021-06-10
 tags: [轮播,代码,图片,源码,VCD]
 comments: true

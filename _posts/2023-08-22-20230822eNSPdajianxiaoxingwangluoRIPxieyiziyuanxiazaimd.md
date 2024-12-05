@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP搭建小型网络（RIP协议）资源下载"
+title: "eNSP搭建小型网络RIP协议资源下载"
 date:   2024-05-18
 tags: [eNSP,RIP,实验,协议,路由器]
 comments: true

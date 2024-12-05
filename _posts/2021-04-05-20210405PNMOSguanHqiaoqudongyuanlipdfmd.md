@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "P-NMOS管H桥驱动原理.pdf"
+title: "PNMOS管H桥驱动原理pdf"
 date:   2022-04-23
 tags: [电机,MOSFET,NMOS,驱动,开关]
 comments: true

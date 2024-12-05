@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snipaste 最好用的截图工具安装包免费下载（无需积分）（内附使用说明）"
+title: "Snipaste 最好用的截图工具安装包免费下载无需积分内附使用说明"
 date:   2022-07-10
 tags: [Snipaste,截图,安装包,用户,---]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICM-42607-P-DS-000417.pdf 传感器数据手册"
+title: "ICM42607PDS000417pdf 传感器数据手册"
 date:   2020-12-06
 tags: [传感器,ICM,42607,手册,DS]
 comments: true

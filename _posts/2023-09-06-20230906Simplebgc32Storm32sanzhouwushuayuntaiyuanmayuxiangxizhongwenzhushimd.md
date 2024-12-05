@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simplebgc32-Storm32三轴无刷云台源码与详细中文注释"
+title: "Simplebgc32Storm32三轴无刷云台源码与详细中文注释"
 date:   2022-01-04
 tags: [三轴无刷,注释,源代码,云台,中文]
 comments: true

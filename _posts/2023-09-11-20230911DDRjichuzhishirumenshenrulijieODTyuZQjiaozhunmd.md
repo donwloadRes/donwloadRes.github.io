@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR基础知识入门：深入理解ODT与ZQ校准"
+title: "DDR基础知识入门深入理解ODT与ZQ校准"
 date:   2023-09-15
 tags: [DDR,ODT,ZQ,校准,内存]
 comments: true

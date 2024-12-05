@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET WMS仓库管理系统"
+title: "ASPNET WMS仓库管理系统"
 date:   2024-09-08
 tags: [Core,NET,仓库,数据库,ASP]
 comments: true

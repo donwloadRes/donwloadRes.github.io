@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Desigo CC手册-09-Graphics-BA-CN（图形）下载"
+title: "Desigo CC手册09GraphicsBACN图形下载"
 date:   2020-05-14
 tags: [Desigo,CC,图形,手册,09]
 comments: true

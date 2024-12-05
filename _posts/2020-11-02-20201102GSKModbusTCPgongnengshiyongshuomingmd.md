@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSK Modbus-TCP 功能使用说明"
+title: "GSK ModbusTCP 功能使用说明"
 date:   2023-11-07
 tags: [TCP,Modbus,GSK,文档,功能]
 comments: true

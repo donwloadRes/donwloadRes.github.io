@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyClick打包不收费IDEA插件V6.17.0"
+title: "EasyClick打包不收费IDEA插件V6170"
 date:   2024-07-31
 tags: [插件,IDEA,打包,V6.17,EasyClick]
 comments: true

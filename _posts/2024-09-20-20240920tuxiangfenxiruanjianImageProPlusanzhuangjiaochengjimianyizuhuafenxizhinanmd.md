@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像分析软件Image-Pro Plus安装教程及免疫组化分析指南"
+title: "图像分析软件ImagePro Plus安装教程及免疫组化分析指南"
 date:   2020-08-15
 tags: [免疫组化,Image,Pro,Plus,教程]
 comments: true

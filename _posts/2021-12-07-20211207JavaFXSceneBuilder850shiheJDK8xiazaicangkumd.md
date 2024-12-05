@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaFX SceneBuilder-8.5.0 适合JDK8 下载仓库"
+title: "JavaFX SceneBuilder850 适合JDK8 下载仓库"
 date:   2020-10-21
 tags: [JDK8,JavaFX,8.5,SceneBuilder,JDK1.8]
 comments: true

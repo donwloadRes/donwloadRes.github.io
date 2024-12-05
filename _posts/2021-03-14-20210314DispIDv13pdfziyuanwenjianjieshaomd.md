@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DispID-v1-3.pdf 资源文件介绍"
+title: "DispIDv13pdf 资源文件介绍"
 date:   2021-10-30
 tags: [DispID,v1,pdf,DisplayID,1.3]
 comments: true

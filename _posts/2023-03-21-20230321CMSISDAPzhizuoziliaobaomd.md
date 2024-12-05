@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMSIS-DAP 制作资料包"
+title: "CMSISDAP 制作资料包"
 date:   2024-03-21
 tags: [CMSIS,DAP,PCB,源码,制作]
 comments: true

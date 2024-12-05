@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot集成Netty TCP-IP服务端与客户端示例"
+title: "SpringBoot集成Netty TCPIP服务端与客户端示例"
 date:   2020-06-04
 tags: [服务端,客户端,SpringBoot,TCP,Netty]
 comments: true

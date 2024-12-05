@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB通信实例（含源码）"
+title: "C USB通信实例含源码"
 date:   2023-10-19
 tags: [USB,通信,C#,DotNetUSBLib,Devexpress]
 comments: true

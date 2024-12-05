@@ -1,6 +1,48 @@
 ---
 layout: post
-title: "QTableView-QTableWidget自定义表头增强"
+title: "QTableViewQTableWidget自定义表头增强
+date   20240425
+tags 表头自定义QTableViewtableViewinclude
+comments true
+author admin
+
+ QTableViewQTableWidget自定义表头增强
+
+ 简介
+
+本仓库提供了一个资源文件用于在QTableView或QTableWidget中实现自定义表头并添加复选框和下拉选项框控件通过这些自定义功能您可以更灵活地控制表格的显示和交互方式提升用户体验
+
+ 功能特点
+
+ 自定义表头允许您自定义表格的表头样式和内容
+ 复选框控件在表头中添加复选框方便用户进行全选或反选操作
+ 下拉选项框控件在表头中添加下拉选项框用户可以通过下拉选择不同的选项
+
+ 使用方法
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourrepourlgit
+   
+
+2 导入资源文件
+   将资源文件导入到您的Qt项目中并根据需要进行相应的配置和调用
+
+3 自定义表头
+   根据您的需求修改和扩展自定义表头的功能
+
+4 运行项目
+   编译并运行您的Qt项目查看自定义表头的效果
+
+ 示例代码
+
+以下是一个简单的示例代码展示如何在QTableView中使用自定义表头
+
+cpp
+include QApplication
+include QTableView
+include QStandardItemModel
+include CustomHeaderViewh"
 date:   2024-04-25
 tags: [表头,自定义,QTableView,tableView,include]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D2RQ 0.8.1 JDBC 资源文件下载"
+title: "D2RQ 081 JDBC 资源文件下载"
 date:   2023-06-05
 tags: [0.8,D2RQ,JDBC,jar,文件]
 comments: true

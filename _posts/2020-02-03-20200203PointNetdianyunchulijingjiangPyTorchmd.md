@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet++点云处理精讲(PyTorch)"
+title: "PointNet点云处理精讲PyTorch"
 date:   2022-04-26
 tags: [PointNet,++,点云,三维,学员]
 comments: true

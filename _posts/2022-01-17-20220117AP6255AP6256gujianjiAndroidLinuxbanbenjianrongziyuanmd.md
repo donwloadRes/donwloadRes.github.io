@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AP6255-AP6256固件及Android-Linux版本兼容资源"
+title: "AP6255AP6256固件及AndroidLinux版本兼容资源"
 date:   2023-01-11
 tags: [固件,文件,文档,兼容,AP6255]
 comments: true

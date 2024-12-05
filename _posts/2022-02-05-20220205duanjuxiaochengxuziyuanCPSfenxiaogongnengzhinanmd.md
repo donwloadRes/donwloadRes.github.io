@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "短剧小程序资源 - CPS分销功能指南"
+title: "短剧小程序资源  CPS分销功能指南"
 date:   2022-05-05
 tags: [短剧,分销,用户,CPS,功能]
 comments: true

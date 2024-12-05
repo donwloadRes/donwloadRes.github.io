@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt自定义精美控件十套demo源码-续II"
+title: "Qt自定义精美控件十套demo源码续II"
 date:   2020-08-02
 tags: [demo,控件,Qt,自定义,源码]
 comments: true

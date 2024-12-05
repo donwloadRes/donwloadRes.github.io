@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java基础知识总结 （绝对经典）"
+title: "Java基础知识总结 绝对经典"
 date:   2022-09-19
 tags: [Java,基础知识,编程,代码,思路]
 comments: true

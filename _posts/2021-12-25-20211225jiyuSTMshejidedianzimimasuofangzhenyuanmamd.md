@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM设计的电子密码锁仿真+源码"
+title: "基于STM设计的电子密码锁仿真源码"
 date:   2023-07-05
 tags: [密码锁,源码,仿真,STM,电子]
 comments: true

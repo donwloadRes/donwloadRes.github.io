@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的上位机开发第一期：S7.NET"
+title: "基于C的上位机开发第一期S7NET"
 date:   2020-11-21
 tags: [S7,NET,C#,PLC,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM 硬件原理图手册"
+title: "ESP32CAM 硬件原理图手册"
 date:   2022-01-10
 tags: [ESP32,CAM,原理图,硬件,本手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Echo.Net C# 远程控制工具"
+title: "EchoNet C 远程控制工具"
 date:   2024-03-28
 tags: [C#,序列化,远程,Echo,Net]
 comments: true

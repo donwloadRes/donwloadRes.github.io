@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 利用VISA控制测试仪器"
+title: "C 利用VISA控制测试仪器"
 date:   2023-10-04
 tags: [VISA,仪器,C#,示例,测试]
 comments: true

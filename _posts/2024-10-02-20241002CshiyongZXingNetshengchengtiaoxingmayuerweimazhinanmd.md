@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用ZXing.Net生成条形码与二维码指南"
+title: "C 使用ZXingNet生成条形码与二维码指南"
 date:   2020-08-13
 tags: [ZXing,Net,条码,二维码,Bitmap]
 comments: true

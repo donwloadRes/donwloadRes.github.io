@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时序逻辑电路设计：篮球比赛24秒倒计时电路（附Multisim）"
+title: "时序逻辑电路设计篮球比赛24秒倒计时电路附Multisim"
 date:   2021-09-11
 tags: [仿真,Multisim,电路图,24,电路]
 comments: true

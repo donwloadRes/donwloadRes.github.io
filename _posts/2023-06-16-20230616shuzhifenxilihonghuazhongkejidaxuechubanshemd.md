@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析-李红-华中科技大学出版社"
+title: "数值分析李红华中科技大学出版社"
 date:   2023-04-18
 tags: [数值,华中科技大学,李红,分析,学习]
 comments: true

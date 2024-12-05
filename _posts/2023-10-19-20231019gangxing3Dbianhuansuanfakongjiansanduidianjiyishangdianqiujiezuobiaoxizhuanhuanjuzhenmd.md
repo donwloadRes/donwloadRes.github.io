@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "刚性 3D 变换算法：空间三对点及以上点求解坐标系转换矩阵"
+title: "刚性 3D 变换算法空间三对点及以上点求解坐标系转换矩阵"
 date:   2022-09-12
 tags: [坐标系,矩阵,MATLAB,代码,算法]
 comments: true

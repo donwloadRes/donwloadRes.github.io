@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与三菱PLC以太网通信工具"
+title: "C与三菱PLC以太网通信工具"
 date:   2023-12-21
 tags: [PLC,写入,以太网,读取,数据]
 comments: true

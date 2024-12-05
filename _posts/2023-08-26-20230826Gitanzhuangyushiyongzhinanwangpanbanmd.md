@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git安装与使用指南（网盘版）"
+title: "Git安装与使用指南网盘版"
 date:   2021-05-17
 tags: [Git,IDEA,仓库,网盘,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "技术研发部管理制度汇编_华为IPD流程管理资料"
+title: "技术研发部管理制度汇编华为IPD流程管理资料"
 date:   2023-05-01
 tags: [IPD,流程,研发部,华为,流程图]
 comments: true

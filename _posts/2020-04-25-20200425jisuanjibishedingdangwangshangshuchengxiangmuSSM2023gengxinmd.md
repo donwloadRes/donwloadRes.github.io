@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机毕设-叮当网上书城项目（SSM）2023更新"
+title: "计算机毕设叮当网上书城项目SSM2023更新"
 date:   2024-06-01
 tags: [图书,项目,购物车,展示,数据库]
 comments: true

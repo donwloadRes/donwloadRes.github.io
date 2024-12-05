@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "c51fps.lib浮点运算库"
+title: "c51fpslib浮点运算库"
 date:   2024-06-29
 tags: [lib,浮点运算,c51fps,Keil,单片机]
 comments: true

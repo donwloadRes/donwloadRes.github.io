@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轻松解决ArcGIS Pro 安装中文汉化包或离线帮助文档时报错“指定路径为空”"
+title: "轻松解决ArcGIS Pro 安装中文汉化包或离线帮助文档时报错指定路径为空"
 date:   2023-11-01
 tags: [ArcGIS,Pro,安装,汉化包,注册表]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇顶GT9XX系列触摸屏驱动程序 - 支持TSlib单点触摸"
+title: "汇顶GT9XX系列触摸屏驱动程序  支持TSlib单点触摸"
 date:   2023-04-23
 tags: [TSlib,触摸屏,汇顶,单点,驱动程序]
 comments: true

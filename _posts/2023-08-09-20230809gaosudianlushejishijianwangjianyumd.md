@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速电路设计实践-王剑宇"
+title: "高速电路设计实践王剑宇"
 date:   2020-09-26
 tags: [电路设计,高速,实践,王剑宇,硬件]
 comments: true

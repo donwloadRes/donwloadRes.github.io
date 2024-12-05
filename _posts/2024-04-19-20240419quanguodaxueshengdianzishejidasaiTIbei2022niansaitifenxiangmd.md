@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国大学生电子设计大赛-TI杯2022年赛题分享"
+title: "全国大学生电子设计大赛TI杯2022年赛题分享"
 date:   2023-07-29
 tags: [赛题,电子设计,大赛,TI,2022]
 comments: true

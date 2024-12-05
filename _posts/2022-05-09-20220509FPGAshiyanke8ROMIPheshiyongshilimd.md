@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实验课8：ROM（IP核）使用实例"
+title: "FPGA实验课8ROMIP核使用实例"
 date:   2020-03-29
 tags: [ROM,mif,IP,波形,文件]
 comments: true

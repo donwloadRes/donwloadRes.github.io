@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验1-安装Hadoop1 资源文件介绍"
+title: "实验1安装Hadoop1 资源文件介绍"
 date:   2024-04-24
 tags: [实验,实验报告,CentOS,Hadoop,安装]
 comments: true

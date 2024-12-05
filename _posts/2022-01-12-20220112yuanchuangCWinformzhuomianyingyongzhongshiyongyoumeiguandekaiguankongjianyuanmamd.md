@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "原创C# Winform桌面应用中实用又美观的开关控件源码"
+title: "原创C Winform桌面应用中实用又美观的开关控件源码"
 date:   2022-07-15
 tags: [控件,源码,Winform,开关,switchControl]
 comments: true

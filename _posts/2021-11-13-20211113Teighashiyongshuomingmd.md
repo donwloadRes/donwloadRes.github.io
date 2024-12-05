@@ -1,6 +1,37 @@
 ---
 layout: post
-title: "Teigha使用说明"
+title: "Teigha使用说明
+date   20200127
+tags TeighaDWG文件std开发者
+comments true
+author admin
+
+ Teigha使用说明
+
+欢迎使用Teigha使用说明文档本指南专为那些希望利用Teigha库来读取AutoCAD DWG文件的开发者设计Teigha是一个强大的开发平台它使得软件开发者能够轻松地在自己的应用程序中支持DWGDXF等Autodesk格式文件无论你是刚接触Teigha的新手还是想要深入挖掘其功能的进阶用户本快速入门参考资料都将帮助你迅速上手开启高效处理CAD数据的旅程
+
+ 文档概述
+
+这份文档将涵盖以下关键主题
+1 安装Teigha库  指导如何正确安装和配置Teigha开发环境
+2 基础概念  理解Teigha的核心组件及它们如何工作
+3 快速入门  通过实例展示如何打开第一个DWG文件
+4 读取DWG文件  详细步骤说明包括获取图元数据
+5 高级功能概览  对于有特殊需求的开发者介绍更复杂的功能
+6 错误处理与调试  解决常见问题的方法和技巧
+7 资源与社区  推荐进一步学习的资源和用户社区
+
+ 开始之前
+
+请确保你的开发环境中已经安装了必要的工具和编译器以及最新的Teigha库访问Teigha官方网站可以找到最新版本的库文件和对应的开发文档
+
+ 快速实践
+
+ 初始化环境在项目中引入Teigha库设置正确的包含路径和库链接
+ 加载DWG文件使用Teigha提供的API编写几行代码即可加载并访问DWG文件中的数据
+  
+cpp
+include OdDbDatabaseh"
 date:   2020-01-27
 tags: [Teigha,DWG,文件,std,开发者]
 comments: true

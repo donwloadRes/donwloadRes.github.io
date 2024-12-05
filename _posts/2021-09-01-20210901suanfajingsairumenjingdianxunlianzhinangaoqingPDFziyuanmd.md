@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法竞赛入门经典训练指南（高清）PDF资源"
+title: "算法竞赛入门经典训练指南高清PDF资源"
 date:   2020-05-16
 tags: [算法,高清,竞赛,入门,PDF]
 comments: true

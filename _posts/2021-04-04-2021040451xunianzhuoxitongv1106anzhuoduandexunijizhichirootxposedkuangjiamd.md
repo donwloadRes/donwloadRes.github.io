@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51虚拟安卓系统v1.1.0.6 - 安卓端的虚拟机(支持root，xposed框架)"
+title: "51虚拟安卓系统v1106  安卓端的虚拟机支持rootxposed框架"
 date:   2024-01-13
 tags: [虚拟,系统,安卓,root,xposed]
 comments: true

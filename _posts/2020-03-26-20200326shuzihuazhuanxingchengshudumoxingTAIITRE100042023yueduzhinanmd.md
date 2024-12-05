@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字化转型成熟度模型（TAIITRE10004-2023）阅读指南"
+title: "数字化转型成熟度模型TAIITRE100042023阅读指南"
 date:   2024-11-27
 tags: [数字化,转型,成熟度,2023,TAIITRE10004]
 comments: true

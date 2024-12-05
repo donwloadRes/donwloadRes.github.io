@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino IDE 2.1.0 及 ESP8266 3.1.2 安装包"
+title: "Arduino IDE 210 及 ESP8266 312 安装包"
 date:   2024-11-26
 tags: [Arduino,IDE,ESP8266,3.1,安装包]
 comments: true

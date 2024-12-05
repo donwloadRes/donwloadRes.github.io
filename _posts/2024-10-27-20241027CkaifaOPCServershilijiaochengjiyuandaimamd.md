@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发OPC Server实例教程及源代码"
+title: "C开发OPC Server实例教程及源代码"
 date:   2024-03-29
 tags: [OPC,Server,C#,示例,文档]
 comments: true

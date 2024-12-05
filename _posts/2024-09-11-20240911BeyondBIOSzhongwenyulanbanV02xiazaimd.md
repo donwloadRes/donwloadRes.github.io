@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond BIOS 中文预览版 V0.2 下载"
+title: "Beyond BIOS 中文预览版 V02 下载"
 date:   2021-07-13
 tags: [BIOS,Beyond,预览版,V0.2,中文]
 comments: true

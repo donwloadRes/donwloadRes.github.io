@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6 + 超声波模块资源文件介绍"
+title: "STM32F103C8T6  超声波模块资源文件介绍"
 date:   2023-04-11
 tags: [单片机,模块,超声波,引脚,STM32F103C8T6]
 comments: true

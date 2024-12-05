@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.5 下载与安装指南"
+title: "SecureCRT 85 下载与安装指南"
 date:   2022-09-06
 tags: [SecureCRT,连接,安装,服务器,安装包]
 comments: true

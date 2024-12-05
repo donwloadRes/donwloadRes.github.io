@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust参考手册 中文版（带完整目录）"
+title: "Rust参考手册 中文版带完整目录"
 date:   2020-10-22
 tags: [Rust,参考手册,中文版,目录,手册]
 comments: true

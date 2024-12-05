@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel(R) Dual Band Wireless-AC 3160 驱动下载"
+title: "IntelR Dual Band WirelessAC 3160 驱动下载"
 date:   2021-10-06
 tags: [驱动,Intel,Dual,Band,Wireless]
 comments: true

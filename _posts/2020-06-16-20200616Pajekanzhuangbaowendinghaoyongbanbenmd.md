@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pajek 安装包 - 稳定好用版本"
+title: "Pajek 安装包  稳定好用版本"
 date:   2023-01-19
 tags: [Pajek,安装包,版本,安装,运行]
 comments: true

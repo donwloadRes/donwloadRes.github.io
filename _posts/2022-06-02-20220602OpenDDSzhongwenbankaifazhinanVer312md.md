@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenDDS-中文版开发指南 Ver3.12"
+title: "OpenDDS中文版开发指南 Ver312"
 date:   2023-04-23
 tags: [OpenDDS,开发,指南,分布式系统,Ver3.12]
 comments: true

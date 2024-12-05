@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dependency Walker_x64 下载仓库"
+title: "Dependency Walkerx64 下载仓库"
 date:   2022-07-30
 tags: [DLL,应用程序,Dependency,Walker,依赖]
 comments: true

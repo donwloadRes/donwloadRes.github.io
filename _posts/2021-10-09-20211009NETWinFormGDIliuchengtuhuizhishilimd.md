@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET WinForm GDI+ 流程图绘制示例"
+title: "NET WinForm GDI 流程图绘制示例"
 date:   2022-05-13
 tags: [流程图,示例,源码,绘制,NET]
 comments: true

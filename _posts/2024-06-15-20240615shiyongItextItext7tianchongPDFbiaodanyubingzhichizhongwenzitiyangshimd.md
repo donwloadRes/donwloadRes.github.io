@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Itext-Itext7填充PDF表单域，并支持中文字体样式"
+title: "使用ItextItext7填充PDF表单域并支持中文字体样式"
 date:   2022-06-27
 tags: [PDF,中文字体,表单,文件,填充]
 comments: true

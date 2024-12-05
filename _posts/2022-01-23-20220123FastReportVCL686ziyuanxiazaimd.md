@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport VCL 6.8.6 资源下载"
+title: "FastReport VCL 686 资源下载"
 date:   2022-04-13
 tags: [Delphi,FastReport,VCL,6.8,安装程序]
 comments: true

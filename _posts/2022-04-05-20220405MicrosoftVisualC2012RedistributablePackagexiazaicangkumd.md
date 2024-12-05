@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2012 Redistributable Package 下载仓库"
+title: "Microsoft Visual C 2012 Redistributable Package 下载仓库"
 date:   2024-08-23
 tags: [Microsoft,Visual,C++,2012,仓库]
 comments: true

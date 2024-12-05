@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VOC2007+VOC2012数据集下载指南"
+title: "VOC2007VOC2012数据集下载指南"
 date:   2023-04-11
 tags: [VOC2007,VOC2012,下载,数据,图像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "房价预测模型：支持向量回归与随机森林回归"
+title: "房价预测模型支持向量回归与随机森林回归"
 date:   2023-05-24
 tags: [回归,模型,随机,预测,向量]
 comments: true

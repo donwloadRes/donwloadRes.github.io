@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序个人中心界面示例（一）"
+title: "微信小程序个人中心界面示例一"
 date:   2024-01-29
 tags: [微信,界面,示例,程序,实现]
 comments: true

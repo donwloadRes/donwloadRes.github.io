@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现音频录音（wav格式）"
+title: "C实现音频录音wav格式"
 date:   2021-02-11
 tags: [录音,音频,C++,wav,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动态定时任务源码（数据库持久化）"
+title: "动态定时任务源码数据库持久化"
 date:   2022-04-07
 tags: [定时,数据库,任务,源码,Springboot]
 comments: true

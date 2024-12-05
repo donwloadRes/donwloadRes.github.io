@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10磁盘占用100%导致经常性卡顿问题的解决"
+title: "Win10磁盘占用100导致经常性卡顿问题的解决"
 date:   2021-11-17
 tags: [磁盘,占用率,卡顿,Windows,10]
 comments: true

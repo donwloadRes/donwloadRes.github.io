@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计硬件软件接口RISC-V中文版PDF下载"
+title: "计算机组成与设计硬件软件接口RISCV中文版PDF下载"
 date:   2021-05-05
 tags: [RISC,接口,PDF,硬件,软件]
 comments: true

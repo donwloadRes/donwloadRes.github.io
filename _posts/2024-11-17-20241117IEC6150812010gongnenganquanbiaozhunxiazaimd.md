@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61508-1-2010 功能安全标准下载"
+title: "IEC 6150812010 功能安全标准下载"
 date:   2020-12-04
 tags: [IEC,2010,标准,61508,安全]
 comments: true

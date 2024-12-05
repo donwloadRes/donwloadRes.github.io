@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员2023年新版Linux零基础快速入门到精通》学习笔记总目录"
+title: "黑马程序员2023年新版Linux零基础快速入门到精通学习笔记总目录"
 date:   2024-02-15
 tags: [Linux,程序员,笔记,总目录,2023]
 comments: true

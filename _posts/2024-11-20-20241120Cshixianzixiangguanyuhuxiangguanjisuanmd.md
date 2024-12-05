@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现自相关与互相关计算"
+title: "C实现自相关与互相关计算"
 date:   2021-06-15
 tags: [序列,计算,互相,离散,C++]
 comments: true

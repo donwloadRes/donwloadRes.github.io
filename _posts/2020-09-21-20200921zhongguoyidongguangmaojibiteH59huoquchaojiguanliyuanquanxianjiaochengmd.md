@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国移动光猫吉比特H5-9获取超级管理员权限教程"
+title: "中国移动光猫吉比特H59获取超级管理员权限教程"
 date:   2021-01-03
 tags: [教程,光猫,H5,管理员,权限]
 comments: true

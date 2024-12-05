@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS ISO镜像包下载合集（纯净版）"
+title: "macOS ISO镜像包下载合集纯净版"
 date:   2022-12-12
 tags: [镜像文件,VMware,虚拟机,ISO,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BELLHOP使用指南v2.2 下载仓库"
+title: "BELLHOP使用指南v22 下载仓库"
 date:   2024-08-04
 tags: [BELLHOP,v2.2,使用指南,指南,声学]
 comments: true

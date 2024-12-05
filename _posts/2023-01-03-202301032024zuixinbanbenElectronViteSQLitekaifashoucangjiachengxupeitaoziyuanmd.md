@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 最新版本 Electron + Vite + SQLite 开发收藏夹程序配套资源"
+title: "2024 最新版本 Electron  Vite  SQLite 开发收藏夹程序配套资源"
 date:   2020-10-13
 tags: [bash,收藏夹,Electron,Vite,SQLite]
 comments: true

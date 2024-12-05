@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32基于HAL库的智能小车（2）红外循迹"
+title: "STM32基于HAL库的智能小车2红外循迹"
 date:   2023-07-19
 tags: [循迹,引脚,STM32,红外,模块]
 comments: true

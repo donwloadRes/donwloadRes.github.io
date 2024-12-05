@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dbForge Studio 2023 for SQL Server Enterprise 6.5.1 x64 资源文件介绍"
+title: "dbForge Studio 2023 for SQL Server Enterprise 651 x64 资源文件介绍"
 date:   2022-08-06
 tags: [SQL,Server,提升,2023,dbForge]
 comments: true

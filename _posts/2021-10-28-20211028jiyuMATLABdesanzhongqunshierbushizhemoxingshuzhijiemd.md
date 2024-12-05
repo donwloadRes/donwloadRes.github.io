@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的三种群食饵-捕食者模型数值解"
+title: "基于MATLAB的三种群食饵捕食者模型数值解"
 date:   2020-05-09
 tags: [MATLAB,捕食者,食饵,数值,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人属性识别一：训练PA100k数据集"
+title: "行人属性识别一训练PA100k数据集"
 date:   2022-09-25
 tags: [训练,PA100k,仓库,行人,数据]
 comments: true

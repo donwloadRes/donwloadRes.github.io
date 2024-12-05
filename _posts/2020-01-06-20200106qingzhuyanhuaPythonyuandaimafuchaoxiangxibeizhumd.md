@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "庆祝烟花 - Python源代码，附超详细备注！！！！！"
+title: "庆祝烟花  Python源代码附超详细备注"
 date:   2023-05-17
 tags: [Python,py,烟花,备注,源代码]
 comments: true

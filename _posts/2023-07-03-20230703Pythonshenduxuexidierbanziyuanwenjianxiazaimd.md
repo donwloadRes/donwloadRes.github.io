@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python深度学习第二版：资源文件下载"
+title: "Python深度学习第二版资源文件下载"
 date:   2022-04-11
 tags: [学习,深度,Python,文件,章节]
 comments: true

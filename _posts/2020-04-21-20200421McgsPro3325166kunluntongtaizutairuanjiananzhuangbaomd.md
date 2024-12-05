@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "McgsPro 3.3.2.5166 昆仑通态组态软件安装包"
+title: "McgsPro 3325166 昆仑通态组态软件安装包"
 date:   2020-07-27
 tags: [组态,2.5166,通态,安装包,McgsPro]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "API-MS-WIN-CORE-PATH-L1-1-0.DLL 文件下载"
+title: "APIMSWINCOREPATHL110DLL 文件下载"
 date:   2020-02-20
 tags: [文件,api,ms,win,core]
 comments: true

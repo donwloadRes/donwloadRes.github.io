@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力变压器数据集（ETDataset）"
+title: "电力变压器数据集ETDataset"
 date:   2024-07-17
 tags: [数据,ETDataset,变压器,电力,ETT]
 comments: true

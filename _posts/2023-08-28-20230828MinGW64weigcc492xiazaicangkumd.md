@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW 64位 gcc 4.9.2 下载仓库"
+title: "MinGW 64位 gcc 492 下载仓库"
 date:   2023-01-07
 tags: [MinGW,64,4.9,下载,gcc]
 comments: true

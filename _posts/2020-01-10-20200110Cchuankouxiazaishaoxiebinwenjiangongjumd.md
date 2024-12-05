@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口下载烧写bin文件工具"
+title: "C串口下载烧写bin文件工具"
 date:   2024-05-19
 tags: [串口,bin,烧写,下载,工具]
 comments: true

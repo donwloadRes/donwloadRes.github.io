@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载与安装教程"
+title: "JDK 18 下载与安装教程"
 date:   2023-11-21
 tags: [JDK,安装,1.8,安装包,Java]
 comments: true

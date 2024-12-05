@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32高分辨率定时器(HRTIM)使用实例之PWM"
+title: "STM32高分辨率定时器HRTIM使用实例之PWM"
 date:   2022-01-15
 tags: [HRTIM,PWM,定时器,STM32,高分辨率]
 comments: true

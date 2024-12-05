@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用非线性控制（完整版 程代展中文译本）"
+title: "应用非线性控制完整版 程代展中文译本"
 date:   2023-09-05
 tags: [非线性,控制,应用,程代展,PDF]
 comments: true

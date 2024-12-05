@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 8021AS-2020 标准文档下载"
+title: "IEEE 8021AS2020 标准文档下载"
 date:   2023-04-30
 tags: [文档,IEEE,2020,8021AS,gPTP]
 comments: true

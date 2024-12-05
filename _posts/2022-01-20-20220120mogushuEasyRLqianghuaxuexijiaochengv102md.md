@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蘑菇书EasyRL强化学习教程_v.1.0.2"
+title: "蘑菇书EasyRL强化学习教程v102"
 date:   2020-09-09
 tags: [学习,强化,教程,v.1,0.2]
 comments: true

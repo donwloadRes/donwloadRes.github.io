@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "理论声学（全书）- 张海澜"
+title: "理论声学全书 张海澜"
 date:   2020-05-03
 tags: [声学,理论,张海澜,PDF,学习]
 comments: true

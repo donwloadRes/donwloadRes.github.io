@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火星加速器 V4.3.2 无限试用版"
+title: "火星加速器 V432 无限试用版"
 date:   2022-11-03
 tags: [游戏,加速器,火星,服务器,体验]
 comments: true

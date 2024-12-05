@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebSocket客户端与服务端源码 (基于Qt 5.9.1)"
+title: "WebSocket客户端与服务端源码 基于Qt 591"
 date:   2022-01-14
 tags: [Qt,WebSocket,服务端,客户端,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "V3700-V5000-V7000 消息和代码资源文件"
+title: "V3700V5000V7000 消息和代码资源文件"
 date:   2024-09-09
 tags: [代码,消息,V3700,V5000,V7000]
 comments: true

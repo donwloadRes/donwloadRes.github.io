@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI2Starter v4.6 最新版下载"
+title: "AI2Starter v46 最新版下载"
 date:   2024-08-18
 tags: [AI2Starter,调试,AI2,v4.6,电脑]
 comments: true

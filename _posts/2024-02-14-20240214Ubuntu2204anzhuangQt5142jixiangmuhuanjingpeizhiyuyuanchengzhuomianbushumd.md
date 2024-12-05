@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04安装Qt5.14.2及项目环境配置与远程桌面部署"
+title: "Ubuntu 2204安装Qt5142及项目环境配置与远程桌面部署"
 date:   2021-08-09
 tags: [Qt,安装,Ubuntu,远程桌面,配置]
 comments: true

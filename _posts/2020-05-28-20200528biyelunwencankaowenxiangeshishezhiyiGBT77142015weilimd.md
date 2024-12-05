@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业论文参考文献格式设置（以GB-T 7714-2015为例）"
+title: "毕业论文参考文献格式设置以GBT 77142015为例"
 date:   2020-08-07
 tags: [2015,参考文献,GB,7714,格式]
 comments: true

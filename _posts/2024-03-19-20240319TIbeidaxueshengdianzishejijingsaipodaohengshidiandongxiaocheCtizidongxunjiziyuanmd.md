@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI杯大学生电子设计竞赛：坡道行驶电动小车(C题)自动循迹资源"
+title: "TI杯大学生电子设计竞赛坡道行驶电动小车C题自动循迹资源"
 date:   2023-12-31
 tags: [小车,循迹,坡道,竞赛,TI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO标注工具：支持半自动标注"
+title: "YOLO标注工具支持半自动标注"
 date:   2022-09-05
 tags: [标注,半自动,加载,工具,添加]
 comments: true

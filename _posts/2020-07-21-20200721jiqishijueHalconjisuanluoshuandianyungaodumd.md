@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉+Halcon+计算螺栓点云高度"
+title: "机器视觉Halcon计算螺栓点云高度"
 date:   2021-03-01
 tags: [螺栓,Halcon,点云,算法,高度]
 comments: true

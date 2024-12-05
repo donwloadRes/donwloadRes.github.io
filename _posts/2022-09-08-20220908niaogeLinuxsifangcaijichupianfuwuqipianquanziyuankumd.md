@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥Linux私房菜 基础篇+服务器篇（全）资源库"
+title: "鸟哥Linux私房菜 基础篇服务器篇全资源库"
 date:   2022-09-04
 tags: [Linux,服务器,鸟哥,学习,私房]
 comments: true

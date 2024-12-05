@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podofo V0.9.6-r2016 Windows版下载"
+title: "Podofo V096r2016 Windows版下载"
 date:   2021-05-04
 tags: [PDF,Windows,文档,V0.9,编译]
 comments: true

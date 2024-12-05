@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 16.0 详细安装教程"
+title: "VMware 160 详细安装教程"
 date:   2024-04-26
 tags: [VMware,16.0,安装,安装包,许可证]
 comments: true

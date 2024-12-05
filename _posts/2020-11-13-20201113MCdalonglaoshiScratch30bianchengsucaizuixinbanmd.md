@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MC大龙老师Scratch 3.0编程素材最新版"
+title: "MC大龙老师Scratch 30编程素材最新版"
 date:   2020-05-24
 tags: [Scratch,素材,编程,3.0,示例]
 comments: true

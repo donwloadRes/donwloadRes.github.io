@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC经典教程(清晰中文PDF) 下载仓库"
+title: "ADC经典教程清晰中文PDF 下载仓库"
 date:   2024-11-13
 tags: [ADC,教程,PDF,中文,清晰]
 comments: true

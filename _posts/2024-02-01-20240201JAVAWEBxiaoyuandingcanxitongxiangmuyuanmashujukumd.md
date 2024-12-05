@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA WEB 校园订餐系统项目源码+数据库"
+title: "JAVA WEB 校园订餐系统项目源码数据库"
 date:   2023-07-01
 tags: [your,campus,food,ordering,订餐]
 comments: true

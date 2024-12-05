@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS (melodic)导航功能包navigation"
+title: "ROS melodic导航功能包navigation"
 date:   2024-09-22
 tags: [ROS,导航,melodic,功能,navigation]
 comments: true

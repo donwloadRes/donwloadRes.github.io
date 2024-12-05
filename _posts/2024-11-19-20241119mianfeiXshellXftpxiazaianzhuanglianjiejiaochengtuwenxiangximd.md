@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费Xshell、Xftp下载、安装、连接教程【图文】详细"
+title: "免费XshellXftp下载安装连接教程图文详细"
 date:   2021-10-22
 tags: [Xftp,下载,教程,Xshell,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS安装配置Nacos 2.0.3版本"
+title: "CentOS安装配置Nacos 203版本"
 date:   2022-10-20
 tags: [Nacos,2.0,bash,版本,nacos]
 comments: true

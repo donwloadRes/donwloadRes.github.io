@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凸优化习题答案【Boyd】"
+title: "凸优化习题答案Boyd"
 date:   2022-02-07
 tags: [习题,优化,学习,答案,Boyd]
 comments: true

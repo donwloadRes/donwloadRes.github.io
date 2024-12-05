@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功率因数测量模块：MATLAB Simulink实用工具"
+title: "功率因数测量模块MATLAB Simulink实用工具"
 date:   2020-07-23
 tags: [模块,功率因数,电路,测量,Simulink]
 comments: true

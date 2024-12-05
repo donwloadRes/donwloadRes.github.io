@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从Flash中搬移程序到RAM中(部分复制和全部复制)"
+title: "从Flash中搬移程序到RAM中部分复制和全部复制"
 date:   2021-04-28
 tags: [Flash,代码,RAM,复制,本文]
 comments: true

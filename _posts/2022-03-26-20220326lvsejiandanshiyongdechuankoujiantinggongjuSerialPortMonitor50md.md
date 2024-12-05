@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "绿色简单实用的串口监听工具 SerialPortMonitor 5.0"
+title: "绿色简单实用的串口监听工具 SerialPortMonitor 50"
 date:   2020-03-13
 tags: [串口,监控,监听,SerialPortMonitor,5.0]
 comments: true

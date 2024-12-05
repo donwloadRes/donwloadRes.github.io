@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab多目标粒子群优化算法(MOPSO)及应用实例"
+title: "Matlab多目标粒子群优化算法MOPSO及应用实例"
 date:   2023-02-23
 tags: [算法,MOPSO,优化,MATLAB,目标]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R9DS接收机+AT9S Pro --SBUS解析(STM32F103C8T6)"
+title: "R9DS接收机AT9S Pro SBUS解析STM32F103C8T6"
 date:   2020-11-20
 tags: [SBUS,R9DS,STM32F103C8T6,STM32,接收机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIC12F675MPPT: 太阳能MPPT电路"
+title: "PIC12F675MPPT 太阳能MPPT电路"
 date:   2020-02-02
 tags: [电池板,太阳能,MPPT,电路,PIC12F675MPPT]
 comments: true

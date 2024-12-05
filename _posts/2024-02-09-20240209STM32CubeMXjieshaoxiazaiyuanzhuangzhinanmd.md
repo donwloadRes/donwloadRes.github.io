@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX介绍、下载与安装指南"
+title: "STM32CubeMX介绍下载与安装指南"
 date:   2023-07-17
 tags: [STM32CubeMX,安装,点击,下载,STM32]
 comments: true

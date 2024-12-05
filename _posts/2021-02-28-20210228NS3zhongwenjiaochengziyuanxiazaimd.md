@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NS-3 中文教程资源下载"
+title: "NS3 中文教程资源下载"
 date:   2024-03-11
 tags: [NS,教程,下载,中文,文档]
 comments: true

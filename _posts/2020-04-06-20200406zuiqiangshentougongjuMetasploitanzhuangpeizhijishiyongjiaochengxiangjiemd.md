@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最强渗透工具 - Metasploit 安装配置及使用教程详解"
+title: "最强渗透工具  Metasploit 安装配置及使用教程详解"
 date:   2022-10-27
 tags: [Metasploit,教程,攻击,网络安全,渗透]
 comments: true

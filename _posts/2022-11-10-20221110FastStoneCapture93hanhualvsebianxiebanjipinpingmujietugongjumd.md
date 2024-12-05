@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastStone Capture 9.3 汉化绿色便携版 - 极品屏幕截图工具"
+title: "FastStone Capture 93 汉化绿色便携版  极品屏幕截图工具"
 date:   2021-04-08
 tags: [截图,屏幕,便携,FastStone,Capture]
 comments: true

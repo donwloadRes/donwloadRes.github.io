@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【JMeter-ClickHouse】使用JMeter对ClickHouse查询性能的压测教程"
+title: "JMeterClickHouse使用JMeter对ClickHouse查询性能的压测教程"
 date:   2021-09-30
 tags: [ClickHouse,JMeter,压测,查询,性能]
 comments: true

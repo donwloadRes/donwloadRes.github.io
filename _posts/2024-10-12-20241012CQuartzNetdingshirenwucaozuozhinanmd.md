@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Quartz.Net定时任务操作指南"
+title: "C QuartzNet定时任务操作指南"
 date:   2020-12-24
 tags: [Net,Quartz,定时,C#,任务]
 comments: true

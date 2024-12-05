@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-PassThru 插件介绍"
+title: "PCANPassThru 插件介绍"
 date:   2023-10-19
 tags: [PCAN,INCA,标定,插件,PassThru]
 comments: true

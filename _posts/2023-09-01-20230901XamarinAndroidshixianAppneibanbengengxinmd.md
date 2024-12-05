@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xamarin.Android实现App内版本更新"
+title: "XamarinAndroid实现App内版本更新"
 date:   2022-07-12
 tags: [Android,更新,Xamarin,应用,用户]
 comments: true

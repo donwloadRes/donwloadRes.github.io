@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.11.3 稳定版本下载安装教程"
+title: "Python 3113 稳定版本下载安装教程"
 date:   2020-12-03
 tags: [Python,安装,3.11,版本,下载安装]
 comments: true

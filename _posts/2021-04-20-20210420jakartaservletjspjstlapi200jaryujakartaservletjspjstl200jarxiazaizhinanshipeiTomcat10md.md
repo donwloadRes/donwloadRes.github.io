@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jakarta.servlet.jsp.jstl-api-2.0.0.jar与jakarta.servlet.jsp.jstl-2.0.0.jar下载指南（适配Tomcat 10）"
+title: "jakartaservletjspjstlapi200jar与jakartaservletjspjstl200jar下载指南适配Tomcat 10"
 date:   2022-08-19
 tags: [jakarta,2.0,servlet,jsp,jstl]
 comments: true

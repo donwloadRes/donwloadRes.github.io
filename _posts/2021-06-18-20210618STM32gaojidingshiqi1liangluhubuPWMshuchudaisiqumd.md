@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32高级定时器1：两路互补PWM输出，带死区"
+title: "STM32高级定时器1两路互补PWM输出带死区"
 date:   2020-11-20
 tags: [PWM,STM32,占空比,定时器,输出]
 comments: true

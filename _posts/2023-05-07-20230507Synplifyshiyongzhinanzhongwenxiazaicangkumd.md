@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synplify使用指南（中文）下载仓库"
+title: "Synplify使用指南中文下载仓库"
 date:   2023-09-30
 tags: [Synplify,使用指南,Scope,中文,下载]
 comments: true

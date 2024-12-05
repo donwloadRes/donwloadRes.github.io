@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动力学（郭硕鸿版）资源下载"
+title: "电动力学郭硕鸿版资源下载"
 date:   2024-06-05
 tags: [电动力学,资源,郭硕鸿版,下载,文件]
 comments: true

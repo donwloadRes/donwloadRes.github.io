@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELPHI XE 12.1 百度网盘下载"
+title: "DELPHI XE 121 百度网盘下载"
 date:   2022-02-03
 tags: [百度网,XE,12.1,下载,DELPHI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDAL 2.3.1 适用于 Visual Studio 2019 的资源文件"
+title: "GDAL 231 适用于 Visual Studio 2019 的资源文件"
 date:   2021-04-13
 tags: [GDAL,文件,Visual,Studio,2019]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCDOS 6.0 汉字系统资源文件介绍"
+title: "UCDOS 60 汉字系统资源文件介绍"
 date:   2023-06-28
 tags: [UCDOS,6.0,特显,软件,汉字]
 comments: true

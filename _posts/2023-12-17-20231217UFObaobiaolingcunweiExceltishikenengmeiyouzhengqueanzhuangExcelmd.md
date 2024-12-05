@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UFO报表另存为Excel提示：可能没有正确安装Excel"
+title: "UFO报表另存为Excel提示可能没有正确安装Excel"
 date:   2020-02-27
 tags: [Excel,安装,UFO,另存为,提示]
 comments: true

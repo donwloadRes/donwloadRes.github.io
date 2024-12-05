@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022美赛C题：投资策略"
+title: "2022美赛C题投资策略"
 date:   2021-05-25
 tags: [Python,可视化,题目,2022,数据处理]
 comments: true

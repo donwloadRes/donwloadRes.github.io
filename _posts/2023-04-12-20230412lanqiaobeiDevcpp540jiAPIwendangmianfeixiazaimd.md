@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯 Dev-cpp5.4.0 及 API文档【免费下载】"
+title: "蓝桥杯 Devcpp540 及 API文档免费下载"
 date:   2022-06-27
 tags: [API,蓝桥,Dev,cpp5.4,文档]
 comments: true

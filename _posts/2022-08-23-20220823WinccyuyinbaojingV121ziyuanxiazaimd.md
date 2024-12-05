@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wincc语音报警V1.2.1 资源下载"
+title: "Wincc语音报警V121 资源下载"
 date:   2023-01-11
 tags: [报警,Wincc,V1.2,语音,人声]
 comments: true

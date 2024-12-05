@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chart控件完整示例：数据读取、滚动条、缩放与提示功能"
+title: "Chart控件完整示例数据读取滚动条缩放与提示功能"
 date:   2023-09-28
 tags: [示例,控件,Chart,滚动条,缩放]
 comments: true

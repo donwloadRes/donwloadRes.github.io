@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘实战——电商产品评论数据情感分析"
+title: "数据挖掘实战电商产品评论数据情感分析"
 date:   2024-08-19
 tags: [情感,评论,分析,数据,电商]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础入门：国产数据库资源dmPython安装详解"
+title: "零基础入门国产数据库资源dmPython安装详解"
 date:   2021-01-18
 tags: [dmPython,安装,数据库,环境变量,python]
 comments: true

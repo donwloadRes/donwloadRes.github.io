@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HUAWEI华为荣耀猎人游戏本V700 i7独显2060(FRD-WFD9)原装出厂Windows10系统恢复指南"
+title: "HUAWEI华为荣耀猎人游戏本V700 i7独显2060FRDWFD9原装出厂Windows10系统恢复指南"
 date:   2024-07-07
 tags: [出厂,安装,华为,系统,荣耀]
 comments: true

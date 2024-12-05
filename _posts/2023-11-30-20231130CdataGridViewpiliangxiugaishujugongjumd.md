@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# dataGridView 批量修改数据工具"
+title: "C dataGridView 批量修改数据工具"
 date:   2020-02-26
 tags: [dataGridView,单元格,批量,修改,工具]
 comments: true

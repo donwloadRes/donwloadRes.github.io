@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WindTerm 2.6.1 Windows 便携版 x86-64 下载"
+title: "WindTerm 261 Windows 便携版 x8664 下载"
 date:   2023-07-05
 tags: [WindTerm,2.6,Windows,x86,64]
 comments: true

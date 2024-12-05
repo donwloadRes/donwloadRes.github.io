@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "围棋知名AI-KataGo 下载分享"
+title: "围棋知名AIKataGo 下载分享"
 date:   2024-02-05
 tags: [KataGo,AI,围棋,安装,文件]
 comments: true

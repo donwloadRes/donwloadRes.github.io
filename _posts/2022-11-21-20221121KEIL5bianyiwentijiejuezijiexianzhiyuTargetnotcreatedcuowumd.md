@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL5编译问题解决：字节限制与“Target not created”错误"
+title: "KEIL5编译问题解决字节限制与Target not created错误"
 date:   2024-11-18
 tags: [KEIL5,字节,激活,错误,Target]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VL103R+VL817 USB Type-C转HDMI扩展坞技术方案说明文档"
+title: "VL103RVL817 USB TypeC转HDMI扩展坞技术方案说明文档"
 date:   2021-03-02
 tags: [HDMI,USB,VL817,Type,文档]
 comments: true

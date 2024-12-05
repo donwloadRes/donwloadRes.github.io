@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于百度AI的VB6.0 OCR文字识别工具"
+title: "基于百度AI的VB60 OCR文字识别工具"
 date:   2024-04-11
 tags: [识别,AI,OCR,百度,文字]
 comments: true

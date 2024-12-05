@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为中级HCIP培训资料-PPT"
+title: "华为中级HCIP培训资料PPT"
 date:   2020-09-22
 tags: [HCIP,华为,PPT,认证,培训资料]
 comments: true

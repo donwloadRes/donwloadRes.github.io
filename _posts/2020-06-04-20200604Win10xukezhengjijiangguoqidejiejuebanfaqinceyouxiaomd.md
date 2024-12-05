@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10许可证即将过期的解决办法(亲测有效)"
+title: "Win10许可证即将过期的解决办法亲测有效"
 date:   2020-12-10
 tags: [过期,激活,许可证,Windows,10]
 comments: true

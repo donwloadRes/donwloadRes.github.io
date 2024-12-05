@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H265-HEVC码流分析工具"
+title: "H265HEVC码流分析工具"
 date:   2024-06-30
 tags: [编码,视频,码流,HEVC,H.265]
 comments: true

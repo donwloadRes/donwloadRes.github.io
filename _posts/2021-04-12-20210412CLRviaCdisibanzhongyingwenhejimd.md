@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLR via C# 第四版(中英文合集)"
+title: "CLR via C 第四版中英文合集"
 date:   2024-10-27
 tags: [C#,CLR,NET,第四版,中英文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 移动应用基础教程（Android Studio）（第2版）学习笔记及源码"
+title: "Android 移动应用基础教程Android Studio第2版学习笔记及源码"
 date:   2024-08-15
 tags: [Android,源码,笔记,学习,Studio]
 comments: true

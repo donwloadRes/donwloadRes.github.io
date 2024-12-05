@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ps2023 v24.3软件下载及安装完整教程"
+title: "ps2023 v243软件下载及安装完整教程"
 date:   2024-04-16
 tags: [安装,软件,下载,Photoshop,2023]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python对MNIST手写数据集进行数字识别（初学者入门级）"
+title: "利用Python对MNIST手写数据集进行数字识别初学者入门级"
 date:   2022-06-05
 tags: [Python,MNIST,数据,手写,代码]
 comments: true

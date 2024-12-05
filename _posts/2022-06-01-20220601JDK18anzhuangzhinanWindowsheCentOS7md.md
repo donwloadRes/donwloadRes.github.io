@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK1.8 安装指南 (Windows 和 CentOS7)"
+title: "JDK18 安装指南 Windows 和 CentOS7"
 date:   2022-07-30
 tags: [JDK1.8,安装,Windows,CentOS7,步骤]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVT-DVT-PVT-MP流程资源文件介绍"
+title: "EVTDVTPVTMP流程资源文件介绍"
 date:   2022-04-20
 tags: [EVT,DVT,PVT,MP,文件]
 comments: true

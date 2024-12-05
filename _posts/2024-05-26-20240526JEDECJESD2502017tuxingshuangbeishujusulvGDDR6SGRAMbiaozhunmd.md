@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JEDEC JESD250-2017 图形双倍数据速率（GDDR6）SGRAM标准"
+title: "JEDEC JESD2502017 图形双倍数据速率GDDR6SGRAM标准"
 date:   2024-12-01
 tags: [GDDR6,图形,高性能,文档,内存]
 comments: true

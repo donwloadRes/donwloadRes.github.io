@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ShuiZe（水泽）详细使用教程：Docker和Kali安装指南"
+title: "ShuiZe水泽详细使用教程Docker和Kali安装指南"
 date:   2024-02-20
 tags: [ShuiZe,Docker,安装,Kali,容器]
 comments: true

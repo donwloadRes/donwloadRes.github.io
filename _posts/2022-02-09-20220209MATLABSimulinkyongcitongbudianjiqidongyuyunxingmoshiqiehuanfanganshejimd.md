@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-Simulink永磁同步电机启动与运行模式切换方案设计"
+title: "MATLABSimulink永磁同步电机启动与运行模式切换方案设计"
 date:   2021-07-21
 tags: [切换,高速运行,模式,启动,同步电机]
 comments: true

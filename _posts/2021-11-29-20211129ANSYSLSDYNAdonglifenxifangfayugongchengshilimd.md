@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS_LS-DYNA动力分析方法与工程实例"
+title: "ANSYSLSDYNA动力分析方法与工程实例"
 date:   2020-12-01
 tags: [ANSYS,LS,DYNA,动力,实例]
 comments: true

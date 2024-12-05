@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AR0233-D-10.PDF 资源文件下载"
+title: "AR0233D10PDF 资源文件下载"
 date:   2024-06-02
 tags: [AR0233,10,PDF,文件,传感器]
 comments: true

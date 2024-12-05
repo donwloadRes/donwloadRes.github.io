@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COORD GM2.0 终结版资源文件介绍"
+title: "COORD GM20 终结版资源文件介绍"
 date:   2020-05-31
 tags: [坐标,终结版,2000,转换,COORD]
 comments: true

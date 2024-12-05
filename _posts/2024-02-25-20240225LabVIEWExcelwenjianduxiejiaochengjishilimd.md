@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW - Excel文件读写教程及示例"
+title: "LabVIEW  Excel文件读写教程及示例"
 date:   2022-12-25
 tags: [Excel,LabVIEW,文件,示例,资源]
 comments: true

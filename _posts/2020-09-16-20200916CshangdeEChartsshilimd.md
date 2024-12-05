@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上的ECharts示例"
+title: "C上的ECharts示例"
 date:   2021-08-03
 tags: [示例,ECharts,C#,文件,资源]
 comments: true

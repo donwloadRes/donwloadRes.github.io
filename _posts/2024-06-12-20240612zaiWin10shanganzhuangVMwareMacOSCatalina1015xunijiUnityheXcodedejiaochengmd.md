@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Win10上安装VMware、MacOS Catalina 10.15虚拟机、Unity和Xcode的教程"
+title: "在Win10上安装VMwareMacOS Catalina 1015虚拟机Unity和Xcode的教程"
 date:   2023-01-31
 tags: [虚拟机,安装,教程,MacOS,Unity]
 comments: true

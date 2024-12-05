@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 8.0 安装及配置指南"
+title: "JDK 80 安装及配置指南"
 date:   2022-07-02
 tags: [JDK,安装,8.0,JAVA,HOME%]
 comments: true

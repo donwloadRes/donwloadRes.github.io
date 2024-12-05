@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 6.42.8.2 下载安装使用指南"
+title: "Internet Download Manager IDM 64282 下载安装使用指南"
 date:   2023-11-01
 tags: [IDM,下载,8.2,6.42,下载安装]
 comments: true

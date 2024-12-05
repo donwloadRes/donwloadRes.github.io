@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link V9.5 固件与PCB资源下载"
+title: "JLink V95 固件与PCB资源下载"
 date:   2023-08-09
 tags: [PCB,固件,Link,V9.5,打样]
 comments: true

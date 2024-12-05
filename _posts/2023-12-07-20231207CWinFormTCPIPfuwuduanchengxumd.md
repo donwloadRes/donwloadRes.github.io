@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm TCP-IP 服务端程序"
+title: "C WinForm TCPIP 服务端程序"
 date:   2020-09-29
 tags: [端口号,服务端,客户端,TCP,IP]
 comments: true

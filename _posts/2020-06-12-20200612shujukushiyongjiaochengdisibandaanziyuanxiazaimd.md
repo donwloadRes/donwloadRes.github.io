@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库实用教程》第四版答案资源下载"
+title: "数据库实用教程第四版答案资源下载"
 date:   2020-11-15
 tags: [实用教程,数据库,第四版,资源,文件]
 comments: true

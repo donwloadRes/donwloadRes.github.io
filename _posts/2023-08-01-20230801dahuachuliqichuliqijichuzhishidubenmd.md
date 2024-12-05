@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大话处理器 - 处理器基础知识读本"
+title: "大话处理器  处理器基础知识读本"
 date:   2023-08-13
 tags: [处理器,大话,知识,学习,读本]
 comments: true

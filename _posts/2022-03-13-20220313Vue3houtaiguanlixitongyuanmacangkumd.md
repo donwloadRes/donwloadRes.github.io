@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3_后台管理系统源码仓库"
+title: "Vue3后台管理系统源码仓库"
 date:   2024-07-15
 tags: [Vue3,Spring,Boot,UI,源码]
 comments: true

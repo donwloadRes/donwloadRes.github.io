@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "铂热电阻(Pt100)温度阻值对照表"
+title: "铂热电阻Pt100温度阻值对照表"
 date:   2022-02-24
 tags: [对照表,阻值,热电阻,Pt100,温度]
 comments: true

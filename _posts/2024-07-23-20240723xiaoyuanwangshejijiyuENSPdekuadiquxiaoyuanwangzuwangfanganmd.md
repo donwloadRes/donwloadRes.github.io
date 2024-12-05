@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【校园网设计】基于ENSP的跨地区校园网组网方案"
+title: "校园网设计基于ENSP的跨地区校园网组网方案"
 date:   2020-08-08
 tags: [IP,网络,校园网,网段,ENSP]
 comments: true

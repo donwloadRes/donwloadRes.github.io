@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图形化界面扫雷：C语言+EasyX实现教程"
+title: "图形化界面扫雷C语言EasyX实现教程"
 date:   2024-03-11
 tags: [EasyX,C语言,图形界面,扫雷,教程]
 comments: true

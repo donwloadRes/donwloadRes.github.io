@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST7796UI_SPEC_V1.1.pdf 资源文件介绍"
+title: "ST7796UISPECV11pdf 资源文件介绍"
 date:   2021-09-16
 tags: [V1.1,文件,ST7796UI,SPEC,pdf]
 comments: true

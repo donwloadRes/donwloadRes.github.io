@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LibreOfficeDev-7.1-Linux-aarch64 适配国产飞腾FT2000的ARMV8指令集aarch64安装包"
+title: "LibreOfficeDev71Linuxaarch64 适配国产飞腾FT2000的ARMV8指令集aarch64安装包"
 date:   2023-12-01
 tags: [安装包,aarch64,FT2000,ARMV8,--]
 comments: true

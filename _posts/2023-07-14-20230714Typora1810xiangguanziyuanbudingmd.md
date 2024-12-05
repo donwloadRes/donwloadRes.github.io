@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 1.8.10 相关资源补丁"
+title: "Typora 1810 相关资源补丁"
 date:   2021-07-05
 tags: [补丁,Typora,zip,文件,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 强度图（平面趋势图带ColorBar）资源介绍"
+title: "C 强度图平面趋势图带ColorBar资源介绍"
 date:   2024-07-13
 tags: [C#,ColorBar,强度,资源,图带]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：使用ChatGPT开发QQ机器人"
+title: "保姆级教程使用ChatGPT开发QQ机器人"
 date:   2024-07-01
 tags: [QQ,机器人,教程,ChatGPT,mirai]
 comments: true

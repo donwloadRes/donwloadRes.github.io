@@ -1,6 +1,39 @@
 ---
 layout: post
-title: "CRC8-CRC16-CRC32常见几个标准的算法及C语言实现"
+title: "CRC8CRC16CRC32常见几个标准的算法及C语言实现
+date   20210701
+tags C语言CRC算法CRC16crc16
+comments true
+author admin
+
+ CRC8CRC16CRC32常见几个标准的算法及C语言实现
+
+ 概述
+
+本仓库致力于提供简洁明了的CRCCyclic Redundancy Check算法实现包括CRC8CRC16和CRC32三种常用类型通过高效的表驱动法我们实现了这些数据校验算法使得代码易于理解且执行高效无论是嵌入式开发网络通信还是任何需要数据完整性和校验的场合这些实现都是不可或缺的工具
+
+ 特点
+
+ 表驱动法通过预先计算好的查找表大大加速了CRC计算过程
+ 源码清晰每一种CRC算法都力求代码精简注释详尽便于开发者快速理解和集成
+ 广泛适用性适用于C语言环境下的多种应用场景从简单的项目到复杂的系统级编程都能应对
+ 标准化实现遵循常见的CRC标准参数确保与其他平台或库的兼容性
+
+ 包含文件
+
+ crc8c  crc8hCRC8算法的C语言实现
+ crc16c  crc16hCRC16算法的C语言实现
+ crc32c  crc32hCRC32算法的C语言实现
+ readmemd本文件提供了关于项目的基本信息和使用指导
+
+ 使用方法
+
+1 包含头文件在你的项目中包含对应的h文件
+   
+   c
+   include crc8h
+   include crc16h
+   include crc32h"
 date:   2021-07-01
 tags: [C语言,CRC,算法,CRC16,crc16]
 comments: true

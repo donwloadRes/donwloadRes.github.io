@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWAT模型参数率定校准指南（中文版）下载"
+title: "SWAT模型参数率定校准指南中文版下载"
 date:   2023-12-21
 tags: [SWAT,率定,校准,模型,参数]
 comments: true

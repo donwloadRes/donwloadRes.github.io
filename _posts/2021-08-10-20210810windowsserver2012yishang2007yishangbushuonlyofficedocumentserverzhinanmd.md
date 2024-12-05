@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows（server2012以上、2007以上）部署onlyoffice-documentserver指南"
+title: "windowsserver2012以上2007以上部署onlyofficedocumentserver指南"
 date:   2022-08-22
 tags: [ONLYOFFICE,Server,Windows,安装,版本]
 comments: true

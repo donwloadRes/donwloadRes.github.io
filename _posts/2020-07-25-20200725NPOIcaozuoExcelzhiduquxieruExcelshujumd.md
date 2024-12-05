@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NPOI操作Excel之读取、写入Excel数据"
+title: "NPOI操作Excel之读取写入Excel数据"
 date:   2022-10-02
 tags: [Excel,NPOI,示例,代码,读取]
 comments: true

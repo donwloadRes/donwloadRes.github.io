@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32+XW12A芯片的触摸按键程序代码"
+title: "基于STM32XW12A芯片的触摸按键程序代码"
 date:   2022-01-08
 tags: [按键,XW12A,触摸,芯片,IIC]
 comments: true

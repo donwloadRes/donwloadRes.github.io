@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spire.Office for .NET 4.3 无水印资源下载"
+title: "SpireOffice for NET 43 无水印资源下载"
 date:   2021-11-22
 tags: [NET,文档,水印,资源,Spire]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DataRoom：简单、免费、开源的大屏设计器"
+title: "DataRoom简单免费开源的大屏设计器"
 date:   2021-09-10
 tags: [大屏,DataRoom,设计,开源,数据]
 comments: true

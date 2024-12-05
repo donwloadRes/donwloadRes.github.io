@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【CodeBlocks】搭建OpenCV环境指南"
+title: "CodeBlocks搭建OpenCV环境指南"
 date:   2023-08-27
 tags: [OpenCV,CodeBlocks,编译器,4.1,MinGW]
 comments: true

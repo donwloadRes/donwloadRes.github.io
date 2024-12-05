@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vmware+x86_ubuntu18.04+qemu+aarch64_openEuler"
+title: "vmwarex86ubuntu1804qemuaarch64openEuler"
 date:   2021-03-13
 tags: [QEMU,虚拟机,openEuler,架构,x86]
 comments: true

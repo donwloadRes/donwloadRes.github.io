@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon与C#窗口控件整合指南"
+title: "Halcon与C窗口控件整合指南"
 date:   2020-12-10
 tags: [Halcon,C#,图像处理,控件,字体]
 comments: true

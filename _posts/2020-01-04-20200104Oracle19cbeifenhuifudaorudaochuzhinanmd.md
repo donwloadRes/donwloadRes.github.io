@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 19c 备份恢复-导入导出指南"
+title: "Oracle 19c 备份恢复导入导出指南"
 date:   2021-08-17
 tags: [Oracle,备份,19c,导入,恢复]
 comments: true

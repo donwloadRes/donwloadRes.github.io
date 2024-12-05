@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决游戏缺少buddha.dll文件的问题"
+title: "解决游戏缺少buddhadll文件的问题"
 date:   2023-05-07
 tags: [dll,buddha,游戏,文件,下载]
 comments: true

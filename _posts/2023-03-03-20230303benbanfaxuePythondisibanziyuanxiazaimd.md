@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "笨办法学 Python(第四版）资源下载"
+title: "笨办法学 Python第四版资源下载"
 date:   2020-12-05
 tags: [Python,第四版,笨办法,PDF,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UR5机器人正逆运动学（Matlab代码）"
+title: "UR5机器人正逆运动学Matlab代码"
 date:   2024-06-15
 tags: [运动学,UR5,代码,Matlab,机器人]
 comments: true

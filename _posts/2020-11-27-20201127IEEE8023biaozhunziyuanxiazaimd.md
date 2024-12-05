@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3标准资源下载"
+title: "IEEE 8023标准资源下载"
 date:   2024-10-19
 tags: [资源,IEEE,802.3,标准,下载]
 comments: true

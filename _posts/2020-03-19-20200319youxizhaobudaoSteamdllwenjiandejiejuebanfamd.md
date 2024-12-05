@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏找不到Steam.dll文件的解决办法"
+title: "游戏找不到Steamdll文件的解决办法"
 date:   2021-05-20
 tags: [dll,文件,Steam,32,软件]
 comments: true

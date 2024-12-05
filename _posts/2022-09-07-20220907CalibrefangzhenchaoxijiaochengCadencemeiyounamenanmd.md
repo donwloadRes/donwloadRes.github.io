@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calibre 仿真超细教程：Cadence 没有那么难"
+title: "Calibre 仿真超细教程Cadence 没有那么难"
 date:   2022-03-02
 tags: [仿真,教程,Calibre,Cadence,超细]
 comments: true

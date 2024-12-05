@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RVC可用模型分享-马保国"
+title: "RVC可用模型分享马保国"
 date:   2022-09-14
 tags: [RVC,模型,保国,分享,语音]
 comments: true

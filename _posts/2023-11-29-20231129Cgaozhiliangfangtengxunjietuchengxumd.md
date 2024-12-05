@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高质量仿腾讯截图程序"
+title: "C高质量仿腾讯截图程序"
 date:   2022-04-25
 tags: [截图,C#,源代码,腾讯,高质量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现IIC接口（2）--IIC接口芯片的实际使用"
+title: "FPGA实现IIC接口2IIC接口芯片的实际使用"
 date:   2021-08-01
 tags: [IIC,接口,FPGA,单次,读写]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "预测模型-线性回归分析"
+title: "预测模型线性回归分析"
 date:   2024-06-19
 tags: [线性,回归,Python,模型,数据分析]
 comments: true

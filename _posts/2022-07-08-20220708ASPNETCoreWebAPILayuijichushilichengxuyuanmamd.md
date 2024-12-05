@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core WebAPI + Layui 基础实例程序源码"
+title: "ASPNET Core WebAPI  Layui 基础实例程序源码"
 date:   2024-08-03
 tags: [ASP,NET,Core,源码,Layui]
 comments: true

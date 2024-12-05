@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitHub 标星 4.9k，李笑来开源的英语学习课"
+title: "GitHub 标星 49k李笑来开源的英语学习课"
 date:   2020-03-10
 tags: [教程,英语,李笑,学习,GitHub]
 comments: true

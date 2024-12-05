@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++指针经典资料大全"
+title: "CC指针经典资料大全"
 date:   2022-01-25
 tags: [C++,指针,编程,经典,大全]
 comments: true

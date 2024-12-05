@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN 2.0 & LIN 2.1 规范 中文版"
+title: "LIN 20  LIN 21 规范 中文版"
 date:   2020-10-24
 tags: [LIN,规范,文档,2.0,2.1]
 comments: true

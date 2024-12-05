@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "故障树FTA（fault树分析）工具链资源文件介绍"
+title: "故障树FTAfault树分析工具链资源文件介绍"
 date:   2022-12-04
 tags: [故障,分析,工具,文件,资源]
 comments: true

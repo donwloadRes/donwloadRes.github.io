@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA ChatGPT插件：NexChatGPT.zip"
+title: "IntelliJ IDEA ChatGPT插件NexChatGPTzip"
 date:   2024-07-25
 tags: [插件,NexChatGPT,IntelliJ,IDEA,zip]
 comments: true

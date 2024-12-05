@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro（cadence 17.2） 17.2-AD19.zip 资源文件介绍"
+title: "Allegrocadence 172 172AD19zip 资源文件介绍"
 date:   2023-02-22
 tags: [Allegro,17.2,文件,AD19,zip]
 comments: true

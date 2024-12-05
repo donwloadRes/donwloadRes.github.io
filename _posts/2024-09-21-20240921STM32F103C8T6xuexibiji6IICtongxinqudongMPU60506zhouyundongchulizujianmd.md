@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 F103C8T6学习笔记6：IIC通信-驱动MPU6050 6轴运动处理组件"
+title: "STM32 F103C8T6学习笔记6IIC通信驱动MPU6050 6轴运动处理组件"
 date:   2024-03-25
 tags: [IIC,MPU6050,STM32,笔记,F103C8T6]
 comments: true

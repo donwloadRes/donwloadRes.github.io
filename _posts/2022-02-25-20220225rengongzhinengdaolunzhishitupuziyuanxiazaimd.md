@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能导论——知识图谱资源下载"
+title: "人工智能导论知识图谱资源下载"
 date:   2022-08-09
 tags: [图谱,知识,人工智能,导论,pdf]
 comments: true

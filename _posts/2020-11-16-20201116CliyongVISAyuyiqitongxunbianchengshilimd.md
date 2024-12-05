@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#利用VISA与仪器通讯编程实例"
+title: "C利用VISA与仪器通讯编程实例"
 date:   2023-02-25
 tags: [VISA,通讯,C#,仪器,实例]
 comments: true

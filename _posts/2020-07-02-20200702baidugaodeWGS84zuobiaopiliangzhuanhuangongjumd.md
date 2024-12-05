@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度、高德，WGS84坐标批量转换工具"
+title: "百度高德WGS84坐标批量转换工具"
 date:   2024-10-12
 tags: [坐标,转换,工具,高德,WGS84]
 comments: true

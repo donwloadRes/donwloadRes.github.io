@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在VS2022中配置PCL、VTK环境，实现点云的C++处理和软件打包"
+title: "在VS2022中配置PCLVTK环境实现点云的C处理和软件打包"
 date:   2020-11-04
 tags: [文件,PCL,点云,打包,VS2022]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXMLPrinter2.jar 下载仓库"
+title: "AXMLPrinter2jar 下载仓库"
 date:   2021-05-27
 tags: [AXMLPrinter2,jar,AndroidManifest,xml,乱码]
 comments: true

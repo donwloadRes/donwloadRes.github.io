@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomcat、Apache、Nginx、IIS、Weblogic中间件等保测评作业指导书V1.1"
+title: "TomcatApacheNginxIISWeblogic中间件等保测评作业指导书V11"
 date:   2021-10-16
 tags: [中间件,安全,指导书,测评,V1.1]
 comments: true

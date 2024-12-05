@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习基础——计算机视觉证书1"
+title: "深度学习基础计算机视觉证书1"
 date:   2020-06-01
 tags: [学习,视觉,计算机,深度,证书]
 comments: true

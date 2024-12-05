@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "echart+vue3实现世界地图和数据轮播"
+title: "echartvue3实现世界地图和数据轮播"
 date:   2022-11-28
 tags: [世界地图,轮播,Vue3,数据,ECharts]
 comments: true

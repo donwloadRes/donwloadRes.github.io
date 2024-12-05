@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.7.0 + OpenCV Contrib 4.7.0 Windows CUDA 编译版本"
+title: "OpenCV 470  OpenCV Contrib 470 Windows CUDA 编译版本"
 date:   2020-09-27
 tags: [OpenCV,编译,CUDA,文件,4.7]
 comments: true

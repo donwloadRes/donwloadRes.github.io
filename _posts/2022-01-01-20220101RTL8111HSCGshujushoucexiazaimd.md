@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8111H(S)-CG 数据手册下载"
+title: "RTL8111HSCG 数据手册下载"
 date:   2021-08-21
 tags: [RTL8111H,CG,1.5,下载,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFD阅读器（Qt版） - 完全自助开发，支持OFD转PDF、图片功能"
+title: "OFD阅读器Qt版  完全自助开发支持OFD转PDF图片功能"
 date:   2023-02-01
 tags: [OFD,PDF,阅读器,文件,图片]
 comments: true

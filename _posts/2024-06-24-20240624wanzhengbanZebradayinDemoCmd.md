@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整版Zebra打印Demo（C#）"
+title: "完整版Zebra打印DemoC"
 date:   2023-09-14
 tags: [Zebra,C#,打印,打印机,完整版]
 comments: true

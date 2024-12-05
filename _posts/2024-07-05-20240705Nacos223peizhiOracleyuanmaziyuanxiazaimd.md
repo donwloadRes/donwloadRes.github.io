@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.2.3 配置 Oracle 源码资源下载"
+title: "Nacos 223 配置 Oracle 源码资源下载"
 date:   2024-04-21
 tags: [源码,Nacos,Oracle,配置,文件]
 comments: true

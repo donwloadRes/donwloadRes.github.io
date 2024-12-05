@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS-noetic + MAVROS + PX4-1.12.3 + Gazebo 多机协同仿真"
+title: "ROSnoetic  MAVROS  PX41123  Gazebo 多机协同仿真"
 date:   2022-07-02
 tags: [仿真,多机,bash,ROS,PX4]
 comments: true

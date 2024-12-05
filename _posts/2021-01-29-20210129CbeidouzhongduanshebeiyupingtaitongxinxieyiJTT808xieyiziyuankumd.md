@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 北斗终端设备与平台通信协议 (JTT808协议) 资源库"
+title: "C 北斗终端设备与平台通信协议 JTT808协议 资源库"
 date:   2020-07-17
 tags: [JTT808,终端设备,资源库,北斗,C#]
 comments: true

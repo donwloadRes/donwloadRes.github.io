@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度相机与彩色相机对齐（d2c）"
+title: "深度相机与彩色相机对齐d2c"
 date:   2021-04-21
 tags: [对齐,相机,深度,彩色,视觉]
 comments: true

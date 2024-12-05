@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APK反编译工具及公钥查看工具（APP备案获取md5和公钥工具）"
+title: "APK反编译工具及公钥查看工具APP备案获取md5和公钥工具"
 date:   2020-09-08
 tags: [APK,工具,公钥,反编译,APP]
 comments: true

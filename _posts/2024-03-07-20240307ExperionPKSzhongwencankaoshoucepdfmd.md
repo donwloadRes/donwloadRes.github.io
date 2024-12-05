@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experion PKS中文参考手册.pdf"
+title: "Experion PKS中文参考手册pdf"
 date:   2021-02-09
 tags: [PKS,Experion,参考手册,组态,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapbox GL 2.7.0 去Token资源文件"
+title: "Mapbox GL 270 去Token资源文件"
 date:   2022-01-14
 tags: [2.7,Mapbox,GL,Token,文件]
 comments: true

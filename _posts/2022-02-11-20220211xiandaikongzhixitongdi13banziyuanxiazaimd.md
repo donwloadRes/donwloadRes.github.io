@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制系统（第13版）资源下载"
+title: "现代控制系统第13版资源下载"
 date:   2020-05-23
 tags: [控制系统,下载,13,Richard,Dorf]
 comments: true

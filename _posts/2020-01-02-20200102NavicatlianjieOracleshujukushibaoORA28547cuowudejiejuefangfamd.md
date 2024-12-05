@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat连接Oracle数据库时报ORA-28547错误的解决方法"
+title: "Navicat连接Oracle数据库时报ORA28547错误的解决方法"
 date:   2022-10-02
 tags: [Oracle,Navicat,数据库,ORA,28547]
 comments: true

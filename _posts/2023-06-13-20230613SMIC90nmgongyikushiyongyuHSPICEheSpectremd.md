@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMIC 90nm 工艺库（适用于 HSPICE 和 Spectre）"
+title: "SMIC 90nm 工艺库适用于 HSPICE 和 Spectre"
 date:   2022-11-15
 tags: [仿真,工艺,HSPICE,Spectre,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32printf()串口输出(HAL库)——以F103c8t6为例"
+title: "STM32printf串口输出HAL库以F103c8t6为例"
 date:   2021-12-10
 tags: [串口,printf,CubeMX,函数,HAL]
 comments: true

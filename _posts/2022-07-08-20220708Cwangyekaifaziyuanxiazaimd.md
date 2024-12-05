@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 网页开发资源下载"
+title: "C 网页开发资源下载"
 date:   2020-07-12
 tags: [C#,网页,局域网,开发者,开发]
 comments: true

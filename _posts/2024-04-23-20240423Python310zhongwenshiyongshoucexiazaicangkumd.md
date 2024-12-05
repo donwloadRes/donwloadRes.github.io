@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.10 中文使用手册下载仓库"
+title: "Python 310 中文使用手册下载仓库"
 date:   2021-05-02
 tags: [Python,3.10,使用手册,中文,手册]
 comments: true

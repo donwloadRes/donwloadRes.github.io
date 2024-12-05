@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实验：SVM分类器人脸识别"
+title: "机器学习实验SVM分类器人脸识别"
 date:   2023-06-20
 tags: [实验,SVM,人脸识别,数据,准确率]
 comments: true

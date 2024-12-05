@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ESCPOS 打印实例"
+title: "C ESCPOS 打印实例"
 date:   2021-08-27
 tags: [打印,打印机,示例,ESC,POS]
 comments: true

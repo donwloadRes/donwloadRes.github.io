@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++游戏编程入门(第4版) 资源下载"
+title: "C游戏编程入门第4版 资源下载"
 date:   2022-01-27
 tags: [C++,编程,游戏,入门,书签]
 comments: true

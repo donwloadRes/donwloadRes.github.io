@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息技术-软件系统验收规范"
+title: "信息技术软件系统验收规范"
 date:   2023-10-27
 tags: [验收,软件系统,文件,规范,信息技术]
 comments: true

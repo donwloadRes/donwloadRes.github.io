@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程大作业——网上订餐系统"
+title: "软件工程大作业网上订餐系统"
 date:   2021-02-26
 tags: [系统,软件工程,订餐,文件,项目]
 comments: true

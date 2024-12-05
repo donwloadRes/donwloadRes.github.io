@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flask Web开发实战视频教程+源代码+课件"
+title: "Flask Web开发实战视频教程源代码课件"
 date:   2024-03-22
 tags: [mp4,Flask,实战,Web,源代码]
 comments: true

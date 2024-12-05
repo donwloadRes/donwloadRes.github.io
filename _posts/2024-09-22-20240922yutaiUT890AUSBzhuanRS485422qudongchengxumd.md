@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宇泰 UT-890A USB转RS485 422驱动程序"
+title: "宇泰 UT890A USB转RS485 422驱动程序"
 date:   2023-02-26
 tags: [驱动程序,UT,宇泰,USB,RS485]
 comments: true

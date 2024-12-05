@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 低功耗蓝牙通讯示例"
+title: "C WinForm 低功耗蓝牙通讯示例"
 date:   2023-02-10
 tags: [蓝牙,低功耗,设备,连接,C#]
 comments: true

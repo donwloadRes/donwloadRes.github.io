@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCascade中文指南（occ开发必备文档）"
+title: "OpenCascade中文指南occ开发必备文档"
 date:   2023-03-08
 tags: [OpenCascade,指南,文档,中文,必备]
 comments: true

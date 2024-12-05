@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "C++ 健康资源：老年人健康管理系统"
+title: "C 健康资源老年人健康管理系统
+date   20210615
+tags 健康老年人用户护理操作
+comments true
+author admin
+
+
+layout post
+title C 健康资源老年人健康管理系统"
 date:   2021-06-15
 tags: [健康,老年人,用户,护理,操作]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "C++ 健康资源：老年人健康管理系统"
+title: "C 健康资源老年人健康管理系统
+date   20210615
+tags 健康老年人用户护理操作
+comments true
+author admin
+
+
+layout post
+title C 健康资源老年人健康管理系统"
 date:   2023-05-04
 tags: [健康,老年人,用户,护理,操作]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR5 (6400M) 规范说明"
+title: "LPDDR5 6400M 规范说明"
 date:   2022-02-22
 tags: [LPDDR5,6400M,文件,内存,规范]
 comments: true

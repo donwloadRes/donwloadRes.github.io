@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "检索 COM 类工厂中 CLSID 为 {000209FF-0000-0000-C000-000000000046} 的组件问题整理"
+title: "检索 COM 类工厂中 CLSID 为 000209FF00000000C000000000000046 的组件问题整理"
 date:   2020-09-13
 tags: [0000,CLSID,COM,注册表,组件]
 comments: true

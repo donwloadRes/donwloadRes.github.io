@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "个人博客HTML+CSS+JavaScript完整代码"
+title: "个人博客HTMLCSSJavaScript完整代码"
 date:   2022-03-03
 tags: [博客,HTML,CSS,JavaScript,代码]
 comments: true

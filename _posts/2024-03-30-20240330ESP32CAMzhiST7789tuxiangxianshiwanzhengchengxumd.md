@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM之ST7789图像显示完整程序"
+title: "ESP32CAM之ST7789图像显示完整程序"
 date:   2024-04-24
 tags: [ESP32,CAM,ST7789,图像,GPIO]
 comments: true

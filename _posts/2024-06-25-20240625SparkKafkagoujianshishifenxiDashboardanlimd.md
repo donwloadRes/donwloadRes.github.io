@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spark+Kafka构建实时分析Dashboard案例"
+title: "SparkKafka构建实时分析Dashboard案例"
 date:   2020-10-02
 tags: [Kafka,实时,安装,Spark,数据处理]
 comments: true

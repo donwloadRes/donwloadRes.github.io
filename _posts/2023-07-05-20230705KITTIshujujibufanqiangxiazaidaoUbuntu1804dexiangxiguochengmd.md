@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KITTI数据集不翻墙下载到Ubuntu 18.04的详细过程"
+title: "KITTI数据集不翻墙下载到Ubuntu 1804的详细过程"
 date:   2020-08-02
 tags: [文件夹,共享,KITTI,Ubuntu,下载]
 comments: true

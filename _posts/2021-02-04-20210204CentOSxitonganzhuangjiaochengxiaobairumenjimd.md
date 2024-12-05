@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS系统安装教程（小白入门级）"
+title: "CentOS系统安装教程小白入门级"
 date:   2022-10-25
 tags: [U盘,安装,CentOS,配置,教程]
 comments: true

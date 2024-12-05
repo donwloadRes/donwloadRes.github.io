@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMRON欧姆龙FA通信组件CX-Compolet V2 + finsgateway V2003"
+title: "OMRON欧姆龙FA通信组件CXCompolet V2  finsgateway V2003"
 date:   2023-05-13
 tags: [PLC,OMRON,CX,欧姆龙,Compolet]
 comments: true

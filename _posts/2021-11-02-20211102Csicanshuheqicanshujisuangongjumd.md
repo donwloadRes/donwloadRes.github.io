@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 四参数和七参数计算工具"
+title: "C 四参数和七参数计算工具"
 date:   2022-01-07
 tags: [参数,C#,计算,代码,模块]
 comments: true

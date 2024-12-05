@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "graphics.h 和 easyx.h 资源文件说明"
+title: "graphicsh 和 easyxh 资源文件说明"
 date:   2022-08-18
 tags: [graphics,easyx,文件,MinGW64,include]
 comments: true

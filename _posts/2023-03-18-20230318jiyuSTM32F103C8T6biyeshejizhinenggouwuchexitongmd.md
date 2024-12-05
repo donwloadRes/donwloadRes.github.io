@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6毕业设计：智能购物车系统"
+title: "基于STM32F103C8T6毕业设计智能购物车系统"
 date:   2020-09-04
 tags: [购物车,模块,STM32F103C8T6,单片机,毕业设计]
 comments: true

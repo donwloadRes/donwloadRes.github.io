@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F429IGT6最小系统 - 仿正点原子设计"
+title: "STM32F429IGT6最小系统  仿正点原子设计"
 date:   2024-05-06
 tags: [设计,STM32F429IGT6,正点,PCB,原子]
 comments: true

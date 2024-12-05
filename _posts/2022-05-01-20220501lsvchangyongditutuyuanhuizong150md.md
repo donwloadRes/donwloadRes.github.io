@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lsv常用地图图源汇总150+"
+title: "lsv常用地图图源汇总150"
 date:   2022-04-20
 tags: [图源,地图,气象图,150,海图]
 comments: true

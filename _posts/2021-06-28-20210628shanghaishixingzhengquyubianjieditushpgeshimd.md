@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上海市行政区域边界地图（shp格式）"
+title: "上海市行政区域边界地图shp格式"
 date:   2021-04-28
 tags: [shp,GIS,格式,行政区域,地图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST_LSM6DS3 6轴传感器资源下载"
+title: "STLSM6DS3 6轴传感器资源下载"
 date:   2023-10-05
 tags: [LSM6DS3,传感器,ST,datasheet,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC Linaro 7.3.1 交叉编译工具链"
+title: "GCC Linaro 731 交叉编译工具链"
 date:   2023-08-28
 tags: [解压,编译,工具,7.3,x86]
 comments: true

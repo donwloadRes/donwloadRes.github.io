@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "疯狂HTML 5+CSS 3+JavaScript讲义（第2版）+源代码"
+title: "疯狂HTML 5CSS 3JavaScript讲义第2版源代码"
 date:   2022-12-19
 tags: [HTML,源代码,讲义,CSS,JavaScript]
 comments: true

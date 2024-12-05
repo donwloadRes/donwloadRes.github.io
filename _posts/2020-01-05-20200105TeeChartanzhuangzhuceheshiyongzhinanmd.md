@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TeeChart安装、注册和使用指南"
+title: "TeeChart安装注册和使用指南"
 date:   2024-09-03
 tags: [TeeChart,注册,控件,安装,命令提示符]
 comments: true

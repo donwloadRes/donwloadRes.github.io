@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱剪辑 v2.5 官方正式版"
+title: "爱剪辑 v25 官方正式版"
 date:   2020-10-26
 tags: [视频,剪辑,v2.5,正式版,软件]
 comments: true

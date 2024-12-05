@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot集成Spring Security、OAuth2实现授权码模式"
+title: "SpringBoot集成Spring SecurityOAuth2实现授权码模式"
 date:   2020-02-20
 tags: [oauth,Redis,授权,项目,认证]
 comments: true

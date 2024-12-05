@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学导论》课后习题答案——Introduction to Robotics.pdf"
+title: "机器人学导论课后习题答案Introduction to Roboticspdf"
 date:   2020-11-08
 tags: [机器人学,习题,课后,导论,答案]
 comments: true

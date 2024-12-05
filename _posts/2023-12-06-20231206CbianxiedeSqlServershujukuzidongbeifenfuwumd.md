@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 编写的SqlServer 数据库自动备份服务"
+title: "C 编写的SqlServer 数据库自动备份服务"
 date:   2022-03-27
 tags: [备份,数据库,配置文件,SqlServer,自动]
 comments: true

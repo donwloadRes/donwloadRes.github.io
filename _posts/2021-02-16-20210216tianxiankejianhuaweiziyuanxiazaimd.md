@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线课件(华为) - 资源下载"
+title: "天线课件华为  资源下载"
 date:   2021-05-09
 tags: [课件,天线,华为,培训师,下载]
 comments: true

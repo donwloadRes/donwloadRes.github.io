@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于集成运算放大电路的加减运算电路设计 - Multisim"
+title: "基于集成运算放大电路的加减运算电路设计  Multisim"
 date:   2022-05-28
 tags: [Multisim,电路设计,运算,电路,放大]
 comments: true

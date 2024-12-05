@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libffi-3.2.1.tar.gz 库下载"
+title: "libffi321targz 库下载"
 date:   2022-07-21
 tags: [libffi,3.2,tar,gz,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 DSP库应用：FIR滤波器示例"
+title: "STM32F407 DSP库应用FIR滤波器示例"
 date:   2023-10-03
 tags: [STM32F407,PA8,示波器,正弦波,示例]
 comments: true

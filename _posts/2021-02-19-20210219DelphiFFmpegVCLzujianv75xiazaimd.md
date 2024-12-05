@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi FFmpeg VCL 组件 v7.5 下载"
+title: "Delphi FFmpeg VCL 组件 v75 下载"
 date:   2021-05-05
 tags: [Delphi,10.4,FFVCL,组件,FFmpeg]
 comments: true

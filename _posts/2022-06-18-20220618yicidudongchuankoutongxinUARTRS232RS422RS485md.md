@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一次读懂串口通信-UART-RS232-RS422-RS485"
+title: "一次读懂串口通信UARTRS232RS422RS485"
 date:   2022-10-13
 tags: [通信,串口,RS232,串行,UART]
 comments: true

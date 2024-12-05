@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell7、Xftp7免费版"
+title: "Xshell7Xftp7免费版"
 date:   2020-01-30
 tags: [免费版,远程,文件传输,版本,窗口]
 comments: true

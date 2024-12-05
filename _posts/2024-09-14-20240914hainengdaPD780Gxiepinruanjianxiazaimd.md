@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海能达PD780(G)写频软件下载"
+title: "海能达PD780G写频软件下载"
 date:   2021-04-19
 tags: [海能,写频,软件,对讲机,PD780]
 comments: true

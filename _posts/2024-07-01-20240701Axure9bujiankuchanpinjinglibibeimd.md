@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure 9 部件库 - 产品经理必备"
+title: "Axure 9 部件库  产品经理必备"
 date:   2024-06-22
 tags: [Axure,文件,元件库,经理,部件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git 2.26.2 64位 Windows版快速安装资源"
+title: "Git 2262 64位 Windows版快速安装资源"
 date:   2023-12-10
 tags: [Git,Windows,安装,版本,2.26]
 comments: true

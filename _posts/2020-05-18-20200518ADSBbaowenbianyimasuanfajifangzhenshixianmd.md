@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS-B报文编译码算法及仿真实现"
+title: "ADSB报文编译码算法及仿真实现"
 date:   2024-04-25
 tags: [ADS,报文,MATLAB,仿真,编译]
 comments: true

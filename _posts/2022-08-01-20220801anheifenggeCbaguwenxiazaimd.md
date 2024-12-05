@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "暗黑风格C++八股文下载"
+title: "暗黑风格C八股文下载"
 date:   2024-08-19
 tags: [C++,暗黑,八股文,v1,风格]
 comments: true

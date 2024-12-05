@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IKVM 7.2.4630.5 资源文件下载"
+title: "IKVM 7246305 资源文件下载"
 date:   2021-01-26
 tags: [4630.5,IKVM,7.2,文件,NET]
 comments: true

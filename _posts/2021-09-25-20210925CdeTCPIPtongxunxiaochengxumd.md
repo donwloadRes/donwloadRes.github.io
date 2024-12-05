@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#的TCPIP通讯小程序"
+title: "C的TCPIP通讯小程序"
 date:   2022-11-18
 tags: [C#,客户端,连接,服务器端,编程]
 comments: true

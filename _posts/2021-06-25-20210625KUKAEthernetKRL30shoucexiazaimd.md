@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA.Ethernet KRL 3.0 手册下载"
+title: "KUKAEthernet KRL 30 手册下载"
 date:   2020-08-17
 tags: [KUKA,手册,Ethernet,KRL,3.0]
 comments: true

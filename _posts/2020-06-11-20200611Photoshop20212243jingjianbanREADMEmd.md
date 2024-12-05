@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop 2021 22.4.3 精简版 README"
+title: "Photoshop 2021 2243 精简版 README"
 date:   2023-02-09
 tags: [精简版,2021,版本,Photoshop,滤镜]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KITTI数据集下载（百度云）"
+title: "KITTI数据集下载百度云"
 date:   2022-06-03
 tags: [object,KITTI,data,下载,解压]
 comments: true

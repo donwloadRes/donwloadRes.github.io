@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM1.1应用指南及源代码分析---张强.pdf 下载仓库"
+title: "UVM11应用指南及源代码分析张强pdf 下载仓库"
 date:   2021-05-16
 tags: [源代码,张强,下载,UVM1.1,---]
 comments: true

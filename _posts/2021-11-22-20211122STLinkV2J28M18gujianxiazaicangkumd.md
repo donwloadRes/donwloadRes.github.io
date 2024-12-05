@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STLinkV2.J28.M18固件下载仓库"
+title: "STLinkV2J28M18固件下载仓库"
 date:   2024-05-03
 tags: [固件,STLinkV2,J28,M18,更新]
 comments: true

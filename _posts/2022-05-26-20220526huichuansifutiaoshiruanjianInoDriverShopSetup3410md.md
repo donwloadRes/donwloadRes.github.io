@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川私服调试软件 - InoDriverShop Setup 3.4.1.0"
+title: "汇川私服调试软件  InoDriverShop Setup 3410"
 date:   2021-04-06
 tags: [汇川,调试,软件,私服,1.0]
 comments: true

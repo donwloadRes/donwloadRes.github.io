@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三种成像算法：RD、RMA、CS 在SAR中的应用"
+title: "三种成像算法RDRMACS 在SAR中的应用"
 date:   2020-01-28
 tags: [算法,SAR,成像,代码,三种]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "伺服控制技术自学手册 - 陈先锋"
+title: "伺服控制技术自学手册  陈先锋"
 date:   2022-11-11
 tags: [伺服电机,控制技术,伺服,自学,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "质量管理系统（QMS）详细设计文档"
+title: "质量管理系统QMS详细设计文档"
 date:   2024-10-15
 tags: [设计,QMS,质量,文档,开发者]
 comments: true

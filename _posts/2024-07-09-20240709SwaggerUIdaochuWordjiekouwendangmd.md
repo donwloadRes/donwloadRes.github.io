@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swagger-UI 导出 Word 接口文档"
+title: "SwaggerUI 导出 Word 接口文档"
 date:   2024-01-30
 tags: [文档,Swagger,Word,接口,UI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++5.15下载安装教程"
+title: "C515下载安装教程"
 date:   2023-10-17
 tags: [C++,安装,5.15,教程,编程]
 comments: true

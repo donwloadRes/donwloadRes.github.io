@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.2 官方中文解锁版2024最新安装激活下载"
+title: "Guitar Pro 82 官方中文解锁版2024最新安装激活下载"
 date:   2022-07-22
 tags: [Guitar,Pro,8.2,安装,激活]
 comments: true

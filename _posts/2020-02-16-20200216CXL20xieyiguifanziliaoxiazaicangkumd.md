@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL2.0协议规范资料下载仓库"
+title: "CXL20协议规范资料下载仓库"
 date:   2023-10-10
 tags: [CXL2.0,CXL,规范,技术,下载]
 comments: true

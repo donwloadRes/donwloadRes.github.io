@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学物理方法》梁昆淼 第五版答案资源下载"
+title: "数学物理方法梁昆淼 第五版答案资源下载"
 date:   2020-07-27
 tags: [第五版,梁昆淼,答案,资源,物理]
 comments: true

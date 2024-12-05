@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Python Bug：Could not locate zlibwapi.dll"
+title: "解决Python BugCould not locate zlibwapidll"
 date:   2021-02-07
 tags: [dll,zlibwapi,Python,文件,CUDA]
 comments: true

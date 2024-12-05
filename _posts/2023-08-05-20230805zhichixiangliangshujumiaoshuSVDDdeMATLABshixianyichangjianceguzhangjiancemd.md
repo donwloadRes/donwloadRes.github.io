@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持向量数据描述 (SVDD) 的 MATLAB 实现（异常检测-故障检测）"
+title: "支持向量数据描述 SVDD 的 MATLAB 实现异常检测故障检测"
 date:   2021-11-28
 tags: [SVDD,MATLAB,支持,检测,向量]
 comments: true

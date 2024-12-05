@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESD S20.20中文版本标准下载"
+title: "ESD S2020中文版本标准下载"
 date:   2022-01-12
 tags: [ESD,标准,版本,中文,S20.20]
 comments: true

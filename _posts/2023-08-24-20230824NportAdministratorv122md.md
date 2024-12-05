@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nport Administrator v1.22"
+title: "Nport Administrator v122"
 date:   2023-07-07
 tags: [Nport,Administrator,v1.22,设备,配置]
 comments: true

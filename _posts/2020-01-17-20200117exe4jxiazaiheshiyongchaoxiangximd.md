@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exe4j下载和使用(超详细)"
+title: "exe4j下载和使用超详细"
 date:   2021-03-28
 tags: [exe4j,文件,Java,JAR,EXE]
 comments: true

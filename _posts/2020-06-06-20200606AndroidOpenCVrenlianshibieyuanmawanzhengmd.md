@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android OpenCV 人脸识别源码（完整）"
+title: "Android OpenCV 人脸识别源码完整"
 date:   2023-07-14
 tags: [Android,OpenCV,人脸识别,源码,项目]
 comments: true

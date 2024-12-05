@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 自绘Slider双滑块(包含单个滑块)并修改样式"
+title: "QT 自绘Slider双滑块包含单个滑块并修改样式"
 date:   2021-09-03
 tags: [滑块,自定义,Slider,控件,文件]
 comments: true

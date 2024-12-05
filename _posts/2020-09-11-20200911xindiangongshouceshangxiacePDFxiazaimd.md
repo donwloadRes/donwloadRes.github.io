@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新电工手册（上、下册）PDF 下载"
+title: "新电工手册上下册PDF 下载"
 date:   2023-11-18
 tags: [电工,PDF,手册,下册,文件]
 comments: true

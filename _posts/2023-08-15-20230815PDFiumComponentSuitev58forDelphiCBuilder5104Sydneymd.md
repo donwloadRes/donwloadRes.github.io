@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFium Component Suite v5.8 for Delphi & C++ Builder 5 - 10.4 Sydney"
+title: "PDFium Component Suite v58 for Delphi  C Builder 5  104 Sydney"
 date:   2021-11-13
 tags: [PDF,PDFium,文档,Component,Suite]
 comments: true

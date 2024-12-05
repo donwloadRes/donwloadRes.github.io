@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "netErpCore_V3.6：一套完整拿来即用的ERP开发框架完全源码"
+title: "netErpCoreV36一套完整拿来即用的ERP开发框架完全源码"
 date:   2023-11-06
 tags: [ERP,netErpCore,V3.6,自定义,框架]
 comments: true

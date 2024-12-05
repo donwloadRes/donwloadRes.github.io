@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ reverse介绍及使用"
+title: "C reverse介绍及使用"
 date:   2021-06-17
 tags: [C++,reverse,示例,函数,代码]
 comments: true

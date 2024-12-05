@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# GMap.net百度地图：在线与离线地图应用指南"
+title: "C GMapnet百度地图在线与离线地图应用指南"
 date:   2024-03-28
 tags: [地图,net,离线,GMap,百度]
 comments: true

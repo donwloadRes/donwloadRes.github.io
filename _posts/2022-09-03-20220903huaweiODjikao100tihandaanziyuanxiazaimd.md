@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为OD机考100题（含答案）资源下载"
+title: "华为OD机考100题含答案资源下载"
 date:   2021-02-13
 tags: [OD,机考,华为,100,文档]
 comments: true

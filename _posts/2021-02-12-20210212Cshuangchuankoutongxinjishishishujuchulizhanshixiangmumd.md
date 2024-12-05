@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#双串口通信及实时数据处理展示项目"
+title: "C双串口通信及实时数据处理展示项目"
 date:   2023-05-11
 tags: [串口,C#,数据,图表,项目]
 comments: true

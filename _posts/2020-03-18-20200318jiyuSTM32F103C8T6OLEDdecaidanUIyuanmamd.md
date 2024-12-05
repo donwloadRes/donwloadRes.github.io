@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6+OLED的菜单UI源码"
+title: "基于STM32F103C8T6OLED的菜单UI源码"
 date:   2022-11-27
 tags: [菜单,OLED,STM32F103C8T6,源码,微控制器]
 comments: true

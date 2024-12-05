@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven本地仓库maven_repository.zip免费下载"
+title: "Maven本地仓库mavenrepositoryzip免费下载"
 date:   2024-09-11
 tags: [Maven,下载,maven,repository,zip]
 comments: true

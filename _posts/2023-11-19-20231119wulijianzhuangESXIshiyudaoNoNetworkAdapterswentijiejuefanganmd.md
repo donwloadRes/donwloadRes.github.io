@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物理机安装ESXI时遇到"No Network Adapters"问题解决方案"
+title: "物理机安装ESXI时遇到No Network Adapters问题解决方案"
 date:   2021-12-30
 tags: [网卡,ESXi,驱动,VMware,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LuaForWindows_v5.1.5-52 安装包"
+title: "LuaForWindowsv51552 安装包"
 date:   2021-12-14
 tags: [Lua,安装包,脚本,LuaForWindows,v5.1]
 comments: true

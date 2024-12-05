@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++中文参考手册(C++23标准) 离线chm最新版"
+title: "CC中文参考手册C23标准 离线chm最新版"
 date:   2021-04-05
 tags: [C++,离线,23,编程,参考手册]
 comments: true

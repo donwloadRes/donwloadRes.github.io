@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java+SpringBoot+MyBatis+MySQL的垃圾分类管理系统"
+title: "基于JavaSpringBootMyBatisMySQL的垃圾分类管理系统"
 date:   2024-05-12
 tags: [垃圾,管理员,管理系统,用户,系统]
 comments: true

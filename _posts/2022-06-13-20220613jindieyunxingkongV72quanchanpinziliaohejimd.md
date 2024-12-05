@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶云星空 V7.2全产品资料合集"
+title: "金蝶云星空 V72全产品资料合集"
 date:   2022-11-20
 tags: [金蝶,V7.2,星空,文件,PPT]
 comments: true

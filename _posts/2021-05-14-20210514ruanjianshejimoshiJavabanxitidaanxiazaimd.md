@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件设计模式（Java版）习题答案下载"
+title: "软件设计模式Java版习题答案下载"
 date:   2021-04-24
 tags: [习题,Java,软件设计,文件,答案]
 comments: true

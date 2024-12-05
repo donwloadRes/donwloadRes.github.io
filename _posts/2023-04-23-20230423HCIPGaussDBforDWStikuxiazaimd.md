@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-GaussDB for DWS题库下载"
+title: "HCIPGaussDB for DWS题库下载"
 date:   2024-12-04
 tags: [题库,HCIP,GaussDB,DWS,docx]
 comments: true

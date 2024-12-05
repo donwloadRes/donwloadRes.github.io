@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PrettyZoo - 高颜值的Zookeeper可视化工具"
+title: "PrettyZoo  高颜值的Zookeeper可视化工具"
 date:   2020-04-23
 tags: [节点,Zookeeper,PrettyZoo,高颜值,命令行]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt之串口编程（添加QSerialPort模块）"
+title: "Qt之串口编程添加QSerialPort模块"
 date:   2024-07-12
 tags: [QSerialPort,Qt,模块,串口,安装]
 comments: true

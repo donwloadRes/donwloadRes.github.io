@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SW无法获得许可，监控程序关闭(-97,121,0)解决方案"
+title: "SW无法获得许可监控程序关闭971210解决方案"
 date:   2020-05-31
 tags: [许可,软件,SW,97,服务器]
 comments: true

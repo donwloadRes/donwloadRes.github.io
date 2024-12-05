@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ECHART WPF 开发示例"
+title: "C ECHART WPF 开发示例"
 date:   2022-10-23
 tags: [ECHART,WPF,示例,C#,开发者]
 comments: true

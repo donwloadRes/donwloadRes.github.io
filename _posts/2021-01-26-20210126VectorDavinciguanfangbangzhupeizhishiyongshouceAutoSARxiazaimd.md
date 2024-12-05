@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vector Davinci 官方帮助配置使用手册（AutoSAR）下载"
+title: "Vector Davinci 官方帮助配置使用手册AutoSAR下载"
 date:   2022-05-17
 tags: [手册,AutoSAR,配置,开发者,使用手册]
 comments: true

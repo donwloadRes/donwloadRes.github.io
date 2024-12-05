@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YUVView：YUV文件查看工具"
+title: "YUVViewYUV文件查看工具"
 date:   2020-08-12
 tags: [YUV,YUVView,文件,查看,格式]
 comments: true

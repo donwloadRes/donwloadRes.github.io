@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04 安装教程及 C++ 环境配置指南"
+title: "Ubuntu 2204 安装教程及 C 环境配置指南"
 date:   2023-02-20
 tags: [C++,安装,Ubuntu,配置,22.04]
 comments: true

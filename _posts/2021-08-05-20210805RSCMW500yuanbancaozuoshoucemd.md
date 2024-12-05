@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R&S CMW500 原版操作手册"
+title: "RS CMW500 原版操作手册"
 date:   2022-07-31
 tags: [操作手册,CMW500,英文原版,仓库,使用]
 comments: true

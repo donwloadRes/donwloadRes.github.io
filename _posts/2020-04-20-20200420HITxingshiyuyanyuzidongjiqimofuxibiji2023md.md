@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HIT 形式语言与自动机 期末复习笔记（2023）"
+title: "HIT 形式语言与自动机 期末复习笔记2023"
 date:   2021-10-28
 tags: [复习,笔记,同学,题目,HIT]
 comments: true

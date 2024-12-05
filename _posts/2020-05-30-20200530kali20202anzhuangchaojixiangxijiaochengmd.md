@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kali2020.2安装超级详细教程"
+title: "kali20202安装超级详细教程"
 date:   2020-11-07
 tags: [安装,Linux,Kali,虚拟机,教程]
 comments: true

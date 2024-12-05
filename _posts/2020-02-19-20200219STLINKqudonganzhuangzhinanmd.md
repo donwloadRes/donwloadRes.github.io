@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LINK驱动安装指南"
+title: "STLINK驱动安装指南"
 date:   2023-05-18
 tags: [驱动,ST,LINK,安装,解压]
 comments: true

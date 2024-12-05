@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#仿360加速球资源文件下载"
+title: "C仿360加速球资源文件下载"
 date:   2021-02-24
 tags: [C#,文件,360,下载,资源]
 comments: true

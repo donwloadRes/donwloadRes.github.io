@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金橙子JCZ_V14.2二次开发软件资源包"
+title: "金橙子JCZV142二次开发软件资源包"
 date:   2023-06-23
 tags: [二次开发,V14.2,橙子,JCZ,软件资源]
 comments: true

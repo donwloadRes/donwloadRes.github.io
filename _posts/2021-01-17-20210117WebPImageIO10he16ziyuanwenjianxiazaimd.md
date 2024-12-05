@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebP ImageIO 1.0 和 1.6 资源文件下载"
+title: "WebP ImageIO 10 和 16 资源文件下载"
 date:   2022-04-18
 tags: [1.6,WebP,ImageIO,1.0,插件]
 comments: true

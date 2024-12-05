@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SonarQube Scanner CLI 4.8.0.2856 for macOS 下载"
+title: "SonarQube Scanner CLI 4802856 for macOS 下载"
 date:   2020-06-02
 tags: [0.2856,4.8,SonarQube,sonar,macOS]
 comments: true

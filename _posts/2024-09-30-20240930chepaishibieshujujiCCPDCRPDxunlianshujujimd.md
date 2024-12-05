@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌识别数据集CCPD+CRPD训练数据集"
+title: "车牌识别数据集CCPDCRPD训练数据集"
 date:   2020-12-23
 tags: [车牌,数据,识别,模型,训练]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天宝DINI03-莱卡DNA03电子水准仪原始数据处理软件使用教程"
+title: "天宝DINI03莱卡DNA03电子水准仪原始数据处理软件使用教程"
 date:   2022-07-13
 tags: [原始数据,莱卡,处理软件,DNA03,模版]
 comments: true

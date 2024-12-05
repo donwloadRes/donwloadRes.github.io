@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT线性代数公开课笔记 - Gilbert Strang教授"
+title: "MIT线性代数公开课笔记  Gilbert Strang教授"
 date:   2021-11-01
 tags: [线性代数,笔记,公开课,Gilbert,Strang]
 comments: true

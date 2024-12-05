@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200SMART PLC编程技巧与案例资源下载"
+title: "西门子S7200SMART PLC编程技巧与案例资源下载"
 date:   2024-11-07
 tags: [编程,资源,S7,200SMART,PLC]
 comments: true

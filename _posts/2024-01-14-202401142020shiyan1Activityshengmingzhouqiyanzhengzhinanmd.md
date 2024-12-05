@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020-实验1-Activity生命周期验证指南"
+title: "2020实验1Activity生命周期验证指南"
 date:   2023-05-06
 tags: [生命周期,Activity,Android,验证,实验]
 comments: true

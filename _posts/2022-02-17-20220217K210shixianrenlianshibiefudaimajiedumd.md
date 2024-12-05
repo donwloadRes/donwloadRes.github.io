@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K210实现人脸识别（附代码解读）"
+title: "K210实现人脸识别附代码解读"
 date:   2022-06-12
 tags: [人脸识别,人脸,K210,特征值,代码]
 comments: true

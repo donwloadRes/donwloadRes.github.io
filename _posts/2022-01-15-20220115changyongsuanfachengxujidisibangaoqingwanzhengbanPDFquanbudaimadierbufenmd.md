@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用算法程序集第四版（高清完整版PDF+全部代码）第二部分"
+title: "常用算法程序集第四版高清完整版PDF全部代码第二部分"
 date:   2020-03-18
 tags: [算法,PDF,代码,完整版,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光的衍射》大学物理实验报告"
+title: "光的衍射大学物理实验报告"
 date:   2024-11-11
 tags: [衍射,实验,实验报告,大学物理,原始数据]
 comments: true

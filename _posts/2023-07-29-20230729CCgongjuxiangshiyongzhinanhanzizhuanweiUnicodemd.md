@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：汉字转为Unicode"
+title: "CC工具箱使用指南汉字转为Unicode"
 date:   2020-08-18
 tags: [Unicode,编码,汉字,工具箱,用户]
 comments: true

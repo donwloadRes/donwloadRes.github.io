@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞利浦生命体征监护仪数据接口程序（网络）Demo"
+title: "飞利浦生命体征监护仪数据接口程序网络Demo"
 date:   2022-04-25
 tags: [监护仪,接口,程序,飞利浦,数据]
 comments: true

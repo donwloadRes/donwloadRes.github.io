@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "日主题v2 Ripro-V2 v4.8 付费资源下载主题+正版"
+title: "日主题v2 RiproV2 v48 付费资源下载主题正版"
 date:   2021-07-28
 tags: [支付,主题,V2,负数,自定义]
 comments: true

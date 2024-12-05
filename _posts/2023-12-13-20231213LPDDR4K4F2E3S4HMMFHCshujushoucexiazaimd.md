@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR4_K4F2E3S4HM-MF(H)C 数据手册下载"
+title: "LPDDR4K4F2E3S4HMMFHC 数据手册下载"
 date:   2020-11-23
 tags: [LPDDR4,K4F2E3S4HM,手册,MF,下载]
 comments: true

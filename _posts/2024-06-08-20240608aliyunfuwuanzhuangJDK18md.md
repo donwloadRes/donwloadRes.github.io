@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云服务安装JDK1.8"
+title: "阿里云服务安装JDK18"
 date:   2023-11-13
 tags: [JDK,安装,阿里,1.8,解压缩]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Python实战】使用YOLOV5的一套完整流程"
+title: "Python实战使用YOLOV5的一套完整流程"
 date:   2023-12-15
 tags: [YOLOV5,训练,Python,检测,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maya Arnold AOV 分层渲染插件 v1.1.0 更新"
+title: "Maya Arnold AOV 分层渲染插件 v110 更新"
 date:   2023-12-27
 tags: [ID,分层,Arnold,渲染,插件]
 comments: true

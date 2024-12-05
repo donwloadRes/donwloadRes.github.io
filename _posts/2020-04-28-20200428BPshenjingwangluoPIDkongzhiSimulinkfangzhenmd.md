@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络+PID控制Simulink仿真"
+title: "BP神经网络PID控制Simulink仿真"
 date:   2023-11-23
 tags: [神经网络,PID,BP,Simulink,Matlab]
 comments: true

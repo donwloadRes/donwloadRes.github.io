@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vtiger CRM 7.X 中文语言包"
+title: "Vtiger CRM 7X 中文语言包"
 date:   2020-11-21
 tags: [语言包,CRM,Vtiger,中文,导入]
 comments: true

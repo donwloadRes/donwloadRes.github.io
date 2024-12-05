@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-Basic 上位机官方例程"
+title: "PCANBasic 上位机官方例程"
 date:   2023-11-17
 tags: [PCAN,例程,上位,C#,C++]
 comments: true

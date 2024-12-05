@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Tomcat 9.0.27 与 10.0.27 版本资源文件"
+title: "Apache Tomcat 9027 与 10027 版本资源文件"
 date:   2022-06-05
 tags: [27,Apache,Tomcat,10.0,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为IPD流程管理(完整版) 资源下载"
+title: "华为IPD流程管理完整版 资源下载"
 date:   2024-02-16
 tags: [流程,IPD,华为,管理,完整版]
 comments: true

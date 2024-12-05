@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "simulation_scene.zip - ROS仿真建模环境资源"
+title: "simulationscenezip  ROS仿真建模环境资源"
 date:   2020-01-19
 tags: [ROS,仿真,机器人,资源,环境]
 comments: true

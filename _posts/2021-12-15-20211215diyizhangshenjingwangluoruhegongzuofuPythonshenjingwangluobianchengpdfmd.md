@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第一章 神经网络如何工作（附Python神经网络编程.pdf）"
+title: "第一章 神经网络如何工作附Python神经网络编程pdf"
 date:   2024-06-20
 tags: [神经网络,Python,编程,pdf,学习]
 comments: true

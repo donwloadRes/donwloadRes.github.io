@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 1.7 API 中文版下载"
+title: "Java 17 API 中文版下载"
 date:   2024-09-08
 tags: [API,中文版,下载,Java,1.7]
 comments: true

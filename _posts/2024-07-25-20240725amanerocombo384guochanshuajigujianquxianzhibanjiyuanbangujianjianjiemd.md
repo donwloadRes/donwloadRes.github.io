@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "amanero combo 384（国产）刷机固件 - 去限制版及原版固件简介"
+title: "amanero combo 384国产刷机固件  去限制版及原版固件简介"
 date:   2023-04-18
 tags: [固件,刷机,原版,源码,amanero]
 comments: true

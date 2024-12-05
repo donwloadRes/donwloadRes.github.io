@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与结构 答案（王爱英）"
+title: "计算机组成与结构 答案王爱英"
 date:   2020-11-17
 tags: [答案,计算机,资源,参考答案,组成]
 comments: true

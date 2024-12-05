@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF新手入门之串口Modbus通讯"
+title: "C WPF新手入门之串口Modbus通讯"
 date:   2021-10-08
 tags: [串口,C#,WPF,Modbus,通讯]
 comments: true

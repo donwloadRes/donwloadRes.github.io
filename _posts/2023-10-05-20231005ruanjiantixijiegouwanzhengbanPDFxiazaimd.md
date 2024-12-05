@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件体系结构 - 完整版PDF下载"
+title: "软件体系结构  完整版PDF下载"
 date:   2020-11-17
 tags: [软件体系结构,PDF,下载,文件,完整版]
 comments: true

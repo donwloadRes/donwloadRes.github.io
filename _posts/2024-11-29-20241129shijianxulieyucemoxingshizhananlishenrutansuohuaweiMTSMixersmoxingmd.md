@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间序列预测模型实战案例：深入探索华为MTS-Mixers模型"
+title: "时间序列预测模型实战案例深入探索华为MTSMixers模型"
 date:   2020-07-08
 tags: [序列,模型,预测,MTS,Mixers]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D期末大作业：梦境奇缘闯关之旅"
+title: "Unity3D期末大作业梦境奇缘闯关之旅"
 date:   2020-05-26
 tags: [闯关,奇缘,梦境,项目,源代码]
 comments: true

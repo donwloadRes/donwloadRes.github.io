@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用 Visual Studio 2019 编译 FFmpeg 简单教程 - 配套工程文件"
+title: "用 Visual Studio 2019 编译 FFmpeg 简单教程  配套工程文件"
 date:   2022-04-12
 tags: [FFmpeg,文件,编译,Visual,Studio]
 comments: true

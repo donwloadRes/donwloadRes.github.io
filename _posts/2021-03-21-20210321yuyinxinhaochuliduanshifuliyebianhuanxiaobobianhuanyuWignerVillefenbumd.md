@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音信号处理：短时傅里叶变换、小波变换与Wigner-Ville分布"
+title: "语音信号处理短时傅里叶变换小波变换与WignerVille分布"
 date:   2023-05-27
 tags: [时频,语音,MATLAB,变换,Wigner]
 comments: true

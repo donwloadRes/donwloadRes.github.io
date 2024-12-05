@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F030 + HAL + SX1278 实现LoRa通信"
+title: "STM32F030  HAL  SX1278 实现LoRa通信"
 date:   2024-05-23
 tags: [LoRa,SX1278,HAL,STM32,项目]
 comments: true

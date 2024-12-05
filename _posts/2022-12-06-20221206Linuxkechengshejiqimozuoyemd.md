@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux课程设计 - 期末作业"
+title: "Linux课程设计  期末作业"
 date:   2023-10-04
 tags: [Linux,作业,期末,脚本,课程设计]
 comments: true

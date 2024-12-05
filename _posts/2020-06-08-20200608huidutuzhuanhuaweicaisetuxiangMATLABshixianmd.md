@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "灰度图转化为彩色图像（MATLAB实现）"
+title: "灰度图转化为彩色图像MATLAB实现"
 date:   2023-08-19
 tags: [灰度,MATLAB,彩色图像,代码,转换]
 comments: true

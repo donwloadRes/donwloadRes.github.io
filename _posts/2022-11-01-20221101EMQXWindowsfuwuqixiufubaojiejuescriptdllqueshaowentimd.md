@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMQX Windows 服务器修复包：解决 scriptdll 缺少问题"
+title: "EMQX Windows 服务器修复包解决 scriptdll 缺少问题"
 date:   2020-07-21
 tags: [EMQX,scriptdll,服务器,C++,运行库]
 comments: true

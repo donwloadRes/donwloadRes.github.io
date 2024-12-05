@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeBlocks新手安装及汉化指南（20.03版本）"
+title: "CodeBlocks新手安装及汉化指南2003版本"
 date:   2021-03-13
 tags: [CodeBlocks,汉化,安装,20.03,指南]
 comments: true

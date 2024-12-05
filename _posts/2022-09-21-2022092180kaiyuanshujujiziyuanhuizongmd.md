@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "80+开源数据集资源汇总"
+title: "80开源数据集资源汇总"
 date:   2023-10-21
 tags: [数据,检测,开源,医学影像,汇总]
 comments: true

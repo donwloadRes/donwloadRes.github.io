@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12 下载、安装、激活及过期解决方法"
+title: "Navicat Premium 12 下载安装激活及过期解决方法"
 date:   2024-02-22
 tags: [Navicat,激活,Premium,12,下载]
 comments: true

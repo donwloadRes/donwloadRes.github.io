@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python与语义分割：Segment Anything（SAM）模型介绍与安装教程"
+title: "Python与语义分割Segment AnythingSAM模型介绍与安装教程"
 date:   2020-04-24
 tags: [SAM,模型,安装,教程,介绍]
 comments: true

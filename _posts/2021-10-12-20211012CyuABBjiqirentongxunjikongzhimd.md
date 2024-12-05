@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与ABB机器人通讯及控制"
+title: "C与ABB机器人通讯及控制"
 date:   2021-08-05
 tags: [BB机,器人,C#,通讯,控制]
 comments: true

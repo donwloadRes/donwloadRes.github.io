@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IP5306中文资料-数据手册"
+title: "IP5306中文资料数据手册"
 date:   2022-10-27
 tags: [IP5306,资料,手册,中文,应用]
 comments: true

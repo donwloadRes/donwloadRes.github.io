@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宿舍管理系统（附源码）SpringBoot+Layui+Mybatis完整项目"
+title: "宿舍管理系统附源码SpringBootLayuiMybatis完整项目"
 date:   2022-03-20
 tags: [宿舍,模块,管理系统,项目,数据库]
 comments: true

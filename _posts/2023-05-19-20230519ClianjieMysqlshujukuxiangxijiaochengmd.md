@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接Mysql数据库详细教程"
+title: "C连接Mysql数据库详细教程"
 date:   2023-11-21
 tags: [Mysql,数据库,C#,连接,教程]
 comments: true

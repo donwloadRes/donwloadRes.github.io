@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业园区网络的综合设计（二）资源下载"
+title: "企业园区网络的综合设计二资源下载"
 date:   2022-07-26
 tags: [网络,配置,园区,设计,企业]
 comments: true

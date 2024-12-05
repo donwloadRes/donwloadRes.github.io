@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙模块HC-05使用前调试指南"
+title: "蓝牙模块HC05使用前调试指南"
 date:   2020-05-12
 tags: [模块,蓝牙,HC,05,测试软件]
 comments: true

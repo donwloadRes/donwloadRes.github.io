@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ WPS二次开发资料汇总"
+title: "C WPS二次开发资料汇总"
 date:   2022-10-16
 tags: [二次开发,WPS,C++,文档,示例]
 comments: true

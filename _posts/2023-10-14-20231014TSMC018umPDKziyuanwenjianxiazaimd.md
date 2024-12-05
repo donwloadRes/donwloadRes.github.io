@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSMC 0.18um PDK 资源文件下载"
+title: "TSMC 018um PDK 资源文件下载"
 date:   2021-06-23
 tags: [设计,文件,TSMC,0.18,um]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eNSP实验4-2：跨交换机VLAN配置"
+title: "eNSP实验42跨交换机VLAN配置"
 date:   2024-07-23
 tags: [VLAN,配置,交换机,eNSP,实验]
 comments: true

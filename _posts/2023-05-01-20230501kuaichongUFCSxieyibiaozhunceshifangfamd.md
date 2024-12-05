@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快充UFCS协议标准&测试方法"
+title: "快充UFCS协议标准测试方法"
 date:   2023-05-19
 tags: [充电,快充,测试方法,UFCS,快速]
 comments: true

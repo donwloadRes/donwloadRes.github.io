@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志V833-V831 Datasheet 下载"
+title: "全志V833V831 Datasheet 下载"
 date:   2024-04-20
 tags: [V833,V831,全志,Datasheet,文档]
 comments: true

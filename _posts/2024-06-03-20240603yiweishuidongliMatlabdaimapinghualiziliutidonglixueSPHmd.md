@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一维水动力Matlab代码 - 平滑粒子流体动力学（SPH）"
+title: "一维水动力Matlab代码  平滑粒子流体动力学SPH"
 date:   2020-10-16
 tags: [代码,流体,动力学,二维,SPH]
 comments: true

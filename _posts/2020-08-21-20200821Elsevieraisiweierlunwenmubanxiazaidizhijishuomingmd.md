@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elsevier（爱思唯尔）论文模板下载地址及说明"
+title: "Elsevier爱思唯尔论文模板下载地址及说明"
 date:   2020-12-03
 tags: [模板,Elsevier,格式,论文,LaTeX]
 comments: true

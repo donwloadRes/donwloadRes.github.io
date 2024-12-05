@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的CO-Kriging变可信度建模资源"
+title: "基于MATLAB的COKriging变可信度建模资源"
 date:   2020-03-31
 tags: [CO,Kriging,建模,可信度,MATLAB]
 comments: true

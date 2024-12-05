@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学架构 01-架构基础【笔记】"
+title: "从零开始学架构 01架构基础笔记"
 date:   2024-04-26
 tags: [架构设计,架构,笔记,01,从零开始]
 comments: true

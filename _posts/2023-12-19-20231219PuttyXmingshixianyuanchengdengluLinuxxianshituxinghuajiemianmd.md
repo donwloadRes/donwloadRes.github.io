@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Putty + Xming实现远程登陆Linux显示图形化界面"
+title: "Putty  Xming实现远程登陆Linux显示图形化界面"
 date:   2024-01-14
 tags: [图形化,Putty,Xming,Linux,界面]
 comments: true

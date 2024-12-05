@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0-串口驱动下载"
+title: "USB20串口驱动下载"
 date:   2023-08-22
 tags: [串口,驱动,驱动程序,USB2.0,下载]
 comments: true

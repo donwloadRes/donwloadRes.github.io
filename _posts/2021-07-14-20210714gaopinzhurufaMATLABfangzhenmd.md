@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高频注入法_MATLAB仿真"
+title: "高频注入法MATLAB仿真"
 date:   2024-06-23
 tags: [MATLAB,仿真,高频,注入,电机]
 comments: true

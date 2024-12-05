@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美军标MIL-STD系列标准合集"
+title: "美军标MILSTD系列标准合集"
 date:   2020-07-27
 tags: [MIL,STD,文档,标准,合集]
 comments: true

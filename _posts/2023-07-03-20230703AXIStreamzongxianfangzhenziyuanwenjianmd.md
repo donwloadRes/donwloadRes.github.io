@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AXI-Stream总线仿真资源文件"
+title: "AXIStream总线仿真资源文件"
 date:   2022-04-24
 tags: [仿真,源码,AXI,Stream,Vivado]
 comments: true

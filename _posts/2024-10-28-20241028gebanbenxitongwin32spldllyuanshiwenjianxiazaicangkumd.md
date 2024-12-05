@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "各版本系统win32spl.dll原始文件下载仓库"
+title: "各版本系统win32spldll原始文件下载仓库"
 date:   2022-09-12
 tags: [文件,win32spl,dll,替换,系统]
 comments: true

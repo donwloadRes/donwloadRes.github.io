@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7 安装 dlib 库指南"
+title: "Python 37 安装 dlib 库指南"
 date:   2022-02-12
 tags: [dlib,安装,命令提示符,安装文件,Python]
 comments: true

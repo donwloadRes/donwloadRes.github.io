@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10离线安装Framework 3.5及解决DISM找不到源文件的方法"
+title: "Win10离线安装Framework 35及解决DISM找不到源文件的方法"
 date:   2022-01-12
 tags: [源文件,离线,DISM,安装,Framework]
 comments: true

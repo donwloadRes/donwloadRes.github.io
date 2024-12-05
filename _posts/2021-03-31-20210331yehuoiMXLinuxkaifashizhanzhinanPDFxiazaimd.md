@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野火 i.MX Linux 开发实战指南 PDF 下载"
+title: "野火 iMX Linux 开发实战指南 PDF 下载"
 date:   2021-01-20
 tags: [MX,Linux,开发,野火,指南]
 comments: true

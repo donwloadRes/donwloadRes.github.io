@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯嵌入式历届真题（程序题）资源库"
+title: "蓝桥杯嵌入式历届真题程序题资源库"
 date:   2020-11-23
 tags: [蓝桥,真题,嵌入式,模拟题,第十二届]
 comments: true

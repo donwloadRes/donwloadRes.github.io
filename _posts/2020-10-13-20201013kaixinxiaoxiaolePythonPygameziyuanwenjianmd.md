@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开心消消乐 Python + Pygame 资源文件"
+title: "开心消消乐 Python  Pygame 资源文件"
 date:   2023-04-03
 tags: [游戏,音效,Python,Pygame,文件]
 comments: true

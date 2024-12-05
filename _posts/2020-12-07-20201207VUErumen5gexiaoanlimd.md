@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VUE入门+5个小案例"
+title: "VUE入门5个小案例"
 date:   2023-07-27
 tags: [Vue,VUE,案例,文件,入门]
 comments: true

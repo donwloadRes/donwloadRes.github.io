@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .Net使用Luckysheet开发实例"
+title: "C Net使用Luckysheet开发实例"
 date:   2021-02-05
 tags: [Luckysheet,后台,Net,初始化,读取数据]
 comments: true

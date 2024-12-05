@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图框生成和批量打印工具V5.2及注册机"
+title: "图框生成和批量打印工具V52及注册机"
 date:   2020-11-27
 tags: [图框,批量,输出,工具,生成]
 comments: true

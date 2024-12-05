@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斯坦福兔子三维点云数据（PCD格式）"
+title: "斯坦福兔子三维点云数据PCD格式"
 date:   2023-05-06
 tags: [PCD,点云,格式,数据文件,三维]
 comments: true

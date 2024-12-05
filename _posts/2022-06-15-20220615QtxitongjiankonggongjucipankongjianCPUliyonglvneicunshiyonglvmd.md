@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 系统监控工具：磁盘空间、CPU 利用率、内存使用率"
+title: "Qt 系统监控工具磁盘空间CPU 利用率内存使用率"
 date:   2020-12-09
 tags: [CPU,系统监控,内存,Qt,磁盘空间]
 comments: true

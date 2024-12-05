@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM DS-5实战开发从入门到精通高清完整版"
+title: "ARM DS5实战开发从入门到精通高清完整版"
 date:   2020-11-18
 tags: [ARM,DS,实战,完整版,开发者]
 comments: true

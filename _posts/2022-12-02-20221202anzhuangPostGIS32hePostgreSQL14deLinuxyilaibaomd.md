@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装 PostGIS 3.2 和 PostgreSQL 14 的 Linux 依赖包"
+title: "安装 PostGIS 32 和 PostgreSQL 14 的 Linux 依赖包"
 date:   2024-09-24
 tags: [PostGIS,Linux,文件,安装,PostgreSQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM8S和STM32单片机晶振设计指南（中文）"
+title: "STM8S和STM32单片机晶振设计指南中文"
 date:   2022-08-25
 tags: [单片机,晶振,指南,STM8S,STM32]
 comments: true

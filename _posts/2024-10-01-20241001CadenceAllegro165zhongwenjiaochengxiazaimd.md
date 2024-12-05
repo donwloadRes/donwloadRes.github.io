@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.5 中文教程下载"
+title: "Cadence Allegro 165 中文教程下载"
 date:   2020-09-10
 tags: [教程,Allegro,Cadence,16.5,中文版]
 comments: true

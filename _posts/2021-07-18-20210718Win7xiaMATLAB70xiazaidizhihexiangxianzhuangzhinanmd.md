@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7下MATLAB 7.0下载地址和详细安装指南"
+title: "Win7下MATLAB 70下载地址和详细安装指南"
 date:   2020-12-30
 tags: [安装,MATLAB,7.0,下载,解压]
 comments: true

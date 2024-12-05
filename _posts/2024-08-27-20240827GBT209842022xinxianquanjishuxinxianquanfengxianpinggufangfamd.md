@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GBT20984-2022信息安全技术信息安全风险评估方法"
+title: "GBT209842022信息安全技术信息安全风险评估方法"
 date:   2023-03-06
 tags: [信息安全,评估,GBT20984,2022,风险]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MULTISIM的BUCK-BOOST电路仿真资源下载"
+title: "基于MULTISIM的BUCKBOOST电路仿真资源下载"
 date:   2024-08-09
 tags: [电路仿真,MULTISIM,BUCK,BOOST,Multisim]
 comments: true

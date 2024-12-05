@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CATIA_DELMIA V5R18至V5-6R2021版本汉化文件分享"
+title: "CATIADELMIA V5R18至V56R2021版本汉化文件分享"
 date:   2021-05-10
 tags: [V5,汉化,6R2021,CATIA,文件]
 comments: true

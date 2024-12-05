@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言期末复习题库（大一期末）"
+title: "C语言期末复习题库大一期末"
 date:   2020-12-08
 tags: [C语言,题库,复习,题目,解析]
 comments: true

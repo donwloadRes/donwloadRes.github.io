@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 漂亮的登录界面与加载动画"
+title: "C WinForm 漂亮的登录界面与加载动画"
 date:   2020-07-13
 tags: [加载,动画,界面,登录,文件]
 comments: true

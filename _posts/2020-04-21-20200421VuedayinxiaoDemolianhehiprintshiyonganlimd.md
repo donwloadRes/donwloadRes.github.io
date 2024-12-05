@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue 打印小 Demo - 联合 hiprint 使用案例"
+title: "Vue 打印小 Demo  联合 hiprint 使用案例"
 date:   2021-11-07
 tags: [Vue,Demo,hiprint,项目,vue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pa 2-1 指令集的实现1 资源下载"
+title: "pa 21 指令集的实现1 资源下载"
 date:   2020-08-23
 tags: [资源,指令集,下载,文件,pa]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MMD-MikuMikuDance简易教程资源文件介绍"
+title: "MMDMikuMikuDance简易教程资源文件介绍"
 date:   2023-03-04
 tags: [MMD,特效,MME,资源,下载]
 comments: true

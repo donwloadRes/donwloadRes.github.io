@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code::Blocks 17.12 安装包"
+title: "CodeBlocks 1712 安装包"
 date:   2020-11-23
 tags: [17.12,Code,Blocks,codeblocks17.12,zip]
 comments: true

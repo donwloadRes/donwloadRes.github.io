@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX30102心率传感器STM32C8T6+0.96 OLED显示与蓝牙传输"
+title: "MAX30102心率传感器STM32C8T6096 OLED显示与蓝牙传输"
 date:   2022-06-09
 tags: [蓝牙,心率,STM32C8T6,OLED,微控制器]
 comments: true

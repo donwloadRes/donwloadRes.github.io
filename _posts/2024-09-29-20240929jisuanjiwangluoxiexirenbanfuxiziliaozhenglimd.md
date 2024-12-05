@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络(谢希仁版)复习资料整理"
+title: "计算机网络谢希仁版复习资料整理"
 date:   2024-10-31
 tags: [复习,学生,希仁,计算机网络,复习资料]
 comments: true

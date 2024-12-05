@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "公文字体 - 方正小标宋简体"
+title: "公文字体  方正小标宋简体"
 date:   2022-05-20
 tags: [字体,简体,小标,方正,公文]
 comments: true

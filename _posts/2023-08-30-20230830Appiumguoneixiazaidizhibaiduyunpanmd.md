@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Appium 国内下载地址（百度云盘）"
+title: "Appium 国内下载地址百度云盘"
 date:   2023-03-05
 tags: [Appium,云盘,下载,appium,百度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C Primer Plus第6版.epub免密分享"
+title: "C Primer Plus第6版epub免密分享"
 date:   2023-03-19
 tags: [C语言,epub,读者,编程,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生成式人工智能产业全梳理：ChatGPT专题报告"
+title: "生成式人工智能产业全梳理ChatGPT专题报告"
 date:   2022-06-30
 tags: [ChatGPT,人工智能,生成式,自然语言,专题报告]
 comments: true

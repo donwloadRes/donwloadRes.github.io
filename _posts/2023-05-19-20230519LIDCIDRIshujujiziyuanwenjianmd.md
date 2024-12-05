@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIDC-IDRI 数据集资源文件"
+title: "LIDCIDRI 数据集资源文件"
 date:   2021-08-08
 tags: [LIDC,IDRI,mask,像素,数据]
 comments: true

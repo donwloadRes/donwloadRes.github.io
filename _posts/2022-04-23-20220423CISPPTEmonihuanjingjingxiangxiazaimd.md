@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP-PTE模拟环境镜像下载"
+title: "CISPPTE模拟环境镜像下载"
 date:   2022-09-10
 tags: [CISP,PTE,模拟,环境,考试]
 comments: true

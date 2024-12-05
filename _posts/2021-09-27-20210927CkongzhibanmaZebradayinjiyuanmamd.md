@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#控制斑马(Zebra)打印机源码"
+title: "C控制斑马Zebra打印机源码"
 date:   2021-12-29
 tags: [打印机,打印,斑马,源码,C#]
 comments: true

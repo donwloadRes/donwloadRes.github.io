@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络调试工具（netAssist）：快速定位网络故障"
+title: "网络调试工具netAssist快速定位网络故障"
 date:   2022-12-23
 tags: [netAssist,网络故障,exe,调试,网络]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音箱设计软件LSPCAD V6.32 下载仓库"
+title: "音箱设计软件LSPCAD V632 下载仓库"
 date:   2020-01-14
 tags: [音箱,V6.32,设计,LspCAD,扬声器]
 comments: true

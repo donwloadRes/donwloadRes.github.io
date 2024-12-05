@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥的私房菜(第四版)高清免费下载"
+title: "鸟哥的私房菜第四版高清免费下载"
 date:   2021-10-01
 tags: [Linux,第四版,高清,鸟哥,私房]
 comments: true

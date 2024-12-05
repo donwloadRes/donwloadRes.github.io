@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pentaho Kettle 9.4 下载仓库"
+title: "Pentaho Kettle 94 下载仓库"
 date:   2024-05-29
 tags: [Pentaho,Kettle,9.4,仓库,下载]
 comments: true

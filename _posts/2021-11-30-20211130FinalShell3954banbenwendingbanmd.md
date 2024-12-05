@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FinalShell 3.9.5.4 版本稳定版"
+title: "FinalShell 3954 版本稳定版"
 date:   2020-08-10
 tags: [FinalShell,版本,5.4,3.9,服务器]
 comments: true

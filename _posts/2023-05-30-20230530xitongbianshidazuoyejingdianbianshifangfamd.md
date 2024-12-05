@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统辨识大作业：经典辨识方法"
+title: "系统辨识大作业经典辨识方法"
 date:   2020-07-11
 tags: [辨识,MATLAB,系统,作业,报告]
 comments: true

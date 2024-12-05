@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数模美赛论文Word模版_精装版（页码+目录+标题+修改须知）"
+title: "数模美赛论文Word模版精装版页码目录标题修改须知"
 date:   2021-12-01
 tags: [模板,Word,论文,目录,竞赛]
 comments: true

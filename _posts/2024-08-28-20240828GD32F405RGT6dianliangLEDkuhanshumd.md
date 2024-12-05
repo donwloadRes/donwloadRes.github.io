@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F405RGT6点亮LED(库函数)"
+title: "GD32F405RGT6点亮LED库函数"
 date:   2022-03-11
 tags: [GD32F405RGT6,LED,代码,库函数,示例]
 comments: true

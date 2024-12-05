@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RestSharp DLL 支持多种 .NET 框架版本"
+title: "RestSharp DLL 支持多种 NET 框架版本"
 date:   2024-09-08
 tags: [NET,DLL,源码,RestSharp,Framework]
 comments: true

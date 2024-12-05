@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享82个HTML5特效，总有一款适合您"
+title: "分享82个HTML5特效总有一款适合您"
 date:   2023-04-21
 tags: [特效,HTML5,动画,82,3D]
 comments: true

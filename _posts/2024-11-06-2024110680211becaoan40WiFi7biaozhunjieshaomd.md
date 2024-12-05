@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11be草案4.0：Wi-Fi 7标准介绍"
+title: "80211be草案40WiFi 7标准介绍"
 date:   2024-03-07
 tags: [Wi,Fi,802.11,文档,4.0]
 comments: true

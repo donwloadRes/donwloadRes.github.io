@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIO-SAM：配置环境、安装测试、适配自己采集数据集"
+title: "LIOSAM配置环境安装测试适配自己采集数据集"
 date:   2020-08-05
 tags: [适配,数据,GPS,LIO,SAM]
 comments: true

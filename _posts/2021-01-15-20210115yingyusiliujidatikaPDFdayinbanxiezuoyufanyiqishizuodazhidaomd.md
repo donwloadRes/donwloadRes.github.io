@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英语四六级答题卡(PDF打印版) + 写作与翻译起始作答指导"
+title: "英语四六级答题卡PDF打印版  写作与翻译起始作答指导"
 date:   2021-09-26
 tags: [答题卡,四六级,考试,PDF,作答]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学研一机器学习》考试重点笔记"
+title: "电子科技大学研一机器学习考试重点笔记"
 date:   2023-09-02
 tags: [学习,笔记,机器,电子科技,研一]
 comments: true

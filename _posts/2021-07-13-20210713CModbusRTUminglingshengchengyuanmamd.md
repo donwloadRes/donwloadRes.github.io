@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Modbus RTU 命令生成源码"
+title: "C Modbus RTU 命令生成源码"
 date:   2021-01-08
 tags: [源码,寄存器,读取,写入,线圈]
 comments: true

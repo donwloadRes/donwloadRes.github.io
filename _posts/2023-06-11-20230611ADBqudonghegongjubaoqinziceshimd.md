@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADB驱动和工具包（亲自测试）"
+title: "ADB驱动和工具包亲自测试"
 date:   2024-04-20
 tags: [ADB,安卓,工具包,设备,教程]
 comments: true

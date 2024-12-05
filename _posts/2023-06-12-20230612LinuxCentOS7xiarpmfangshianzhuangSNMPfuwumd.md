@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux(CentOS7)下rpm方式安装SNMP服务"
+title: "LinuxCentOS7下rpm方式安装SNMP服务"
 date:   2020-05-06
 tags: [rpm,安装,SNMP,snmp,ivh]
 comments: true

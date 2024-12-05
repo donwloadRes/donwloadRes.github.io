@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 资源项目：探索豆瓣电影评论"
+title: "Python 资源项目探索豆瓣电影评论"
 date:   2024-06-14
 tags: [评论,豆瓣,电子表格,电影,数据]
 comments: true

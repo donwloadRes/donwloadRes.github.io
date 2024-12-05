@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PYNQ-Z2板卡文件下载仓库"
+title: "PYNQZ2板卡文件下载仓库"
 date:   2022-10-01
 tags: [PYNQ,Z2,板卡,文件,仓库]
 comments: true

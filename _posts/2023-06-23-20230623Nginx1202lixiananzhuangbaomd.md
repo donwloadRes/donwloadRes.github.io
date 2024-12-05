@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx 1.20.2 离线安装包"
+title: "Nginx 1202 离线安装包"
 date:   2023-04-01
 tags: [Nginx,gcc,安装,安装包,离线]
 comments: true

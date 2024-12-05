@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-TM-650-CN中文 -2023版——测试方法扫描版"
+title: "IPCTM650CN中文 2023版测试方法扫描版"
 date:   2020-06-21
 tags: [测试方法,IPC,文件,TM,650]
 comments: true

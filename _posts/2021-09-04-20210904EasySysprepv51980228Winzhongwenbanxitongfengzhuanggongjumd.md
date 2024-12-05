@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasySysprep v5.19.802.28 Win 中文版 (系统封装工具)"
+title: "EasySysprep v51980228 Win 中文版 系统封装工具"
 date:   2023-08-17
 tags: [EasySysprep,系统,封装,部署,802.28]
 comments: true

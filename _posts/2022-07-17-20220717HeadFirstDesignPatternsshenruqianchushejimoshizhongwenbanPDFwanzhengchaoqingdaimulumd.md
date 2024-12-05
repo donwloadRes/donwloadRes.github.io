@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First Design Patterns（深入浅出设计模式）中文版PDF完整超清带目录"
+title: "Head First Design Patterns深入浅出设计模式中文版PDF完整超清带目录"
 date:   2023-12-02
 tags: [设计模式,深入浅出,PDF,读者,目录]
 comments: true

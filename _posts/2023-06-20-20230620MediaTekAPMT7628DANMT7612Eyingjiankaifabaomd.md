@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MediaTek-AP-MT7628DAN+MT7612E硬件开发包"
+title: "MediaTekAPMT7628DANMT7612E硬件开发包"
 date:   2023-03-06
 tags: [MT7628DAN,芯片,MT7612E,开发包,硬件]
 comments: true

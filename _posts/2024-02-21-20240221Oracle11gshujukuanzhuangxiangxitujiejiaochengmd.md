@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle(11g)数据库安装详细图解教程"
+title: "Oracle11g数据库安装详细图解教程"
 date:   2024-07-23
 tags: [安装,Oracle,数据库,教程,11g]
 comments: true

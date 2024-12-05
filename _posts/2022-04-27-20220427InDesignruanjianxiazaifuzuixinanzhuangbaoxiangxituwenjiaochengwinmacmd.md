@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InDesign软件下载：附最新安装包+详细图文教程（win-mac）"
+title: "InDesign软件下载附最新安装包详细图文教程winmac"
 date:   2022-04-05
 tags: [InDesign,Adobe,安装,安装包,图文]
 comments: true

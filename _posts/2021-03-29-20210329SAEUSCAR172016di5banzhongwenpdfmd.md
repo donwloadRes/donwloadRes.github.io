@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE USCAR-17-2016第5版中文.pdf"
+title: "SAE USCAR172016第5版中文pdf"
 date:   2023-11-20
 tags: [SAE,连接器,USCAR,电气,17]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果配件开发资源：Accessory Interface Specification R22 无水印，全书签》"
+title: "苹果配件开发资源Accessory Interface Specification R22 无水印全书签"
 date:   2022-11-30
 tags: [配件,苹果,开发,iap2,水印]
 comments: true

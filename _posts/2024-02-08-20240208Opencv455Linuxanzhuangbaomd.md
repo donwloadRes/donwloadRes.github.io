@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opencv-4.5.5 Linux 安装包"
+title: "Opencv455 Linux 安装包"
 date:   2020-06-23
 tags: [4.5,Linux,安装包,OpenCV,解压]
 comments: true

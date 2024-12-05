@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "orai18n.jar 使用说明"
+title: "orai18njar 使用说明"
 date:   2020-07-28
 tags: [jar,字符集,orai18n,数据库,Java]
 comments: true

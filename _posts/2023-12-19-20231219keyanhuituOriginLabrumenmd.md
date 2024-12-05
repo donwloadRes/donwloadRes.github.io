@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "科研绘图——OriginLab入门"
+title: "科研绘图OriginLab入门"
 date:   2021-09-17
 tags: [OriginLab,绘图,教程,Origin,图形]
 comments: true

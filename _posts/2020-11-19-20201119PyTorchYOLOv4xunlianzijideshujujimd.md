@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch-YOLOv4训练自己的数据集"
+title: "PyTorchYOLOv4训练自己的数据集"
 date:   2021-06-12
 tags: [训练,模型,YOLOv4,PyTorch,数据]
 comments: true

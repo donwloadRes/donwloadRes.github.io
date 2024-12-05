@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ST-LINK Utility V4.0.0 资源文件介绍"
+title: "STM32 STLINK Utility V400 资源文件介绍"
 date:   2023-06-05
 tags: [STM32,ST,LINK,Utility,读取]
 comments: true

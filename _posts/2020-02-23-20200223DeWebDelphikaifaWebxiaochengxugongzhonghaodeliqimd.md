@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeWeb：Delphi开发Web-小程序-公众号的利器"
+title: "DeWebDelphi开发Web小程序公众号的利器"
 date:   2020-12-29
 tags: [DeWeb,Delphi,Web,开发,网页]
 comments: true

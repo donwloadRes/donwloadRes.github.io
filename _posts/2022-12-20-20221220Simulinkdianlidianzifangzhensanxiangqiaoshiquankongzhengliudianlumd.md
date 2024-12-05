@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink电力电子仿真：三相桥式全控整流电路"
+title: "Simulink电力电子仿真三相桥式全控整流电路"
 date:   2021-02-09
 tags: [仿真,Simulink,器件,电路,全控]
 comments: true

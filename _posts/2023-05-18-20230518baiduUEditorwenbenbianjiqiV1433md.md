@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度UEditor文本编辑器 V1.4.3.3"
+title: "百度UEditor文本编辑器 V1433"
 date:   2020-08-13
 tags: [UEditor,编辑器,V1.4,3.3,文档]
 comments: true

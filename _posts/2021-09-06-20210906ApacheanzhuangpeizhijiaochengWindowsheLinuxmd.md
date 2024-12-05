@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache安装配置教程（Windows和Linux）"
+title: "Apache安装配置教程Windows和Linux"
 date:   2021-11-10
 tags: [Apache,Linux,Windows,用户,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-TA-1033 规范资源下载"
+title: "SFFTA1033 规范资源下载"
 date:   2021-03-02
 tags: [SFF,TA,1033,规范,下载]
 comments: true

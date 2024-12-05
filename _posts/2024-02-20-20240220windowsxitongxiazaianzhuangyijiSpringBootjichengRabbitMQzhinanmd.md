@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows系统下载、安装以及Spring Boot集成RabbitMQ指南"
+title: "windows系统下载安装以及Spring Boot集成RabbitMQ指南"
 date:   2024-11-14
 tags: [RabbitMQ,Spring,Boot,Windows,集成]
 comments: true

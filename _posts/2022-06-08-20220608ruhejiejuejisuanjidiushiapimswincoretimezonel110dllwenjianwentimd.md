@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何解决计算机丢失 api-ms-win-core-timezone-l1-1-0.dll 文件问题"
+title: "如何解决计算机丢失 apimswincoretimezonel110dll 文件问题"
 date:   2022-09-05
 tags: [dll,文件,api,ms,win]
 comments: true

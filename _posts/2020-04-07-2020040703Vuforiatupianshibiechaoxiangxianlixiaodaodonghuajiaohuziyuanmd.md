@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "03 Vuforia图片识别超详细案例（小岛动画交互）资源"
+title: "03 Vuforia图片识别超详细案例小岛动画交互资源"
 date:   2021-03-19
 tags: [Vuforia,AR,动画,交互,Unity]
 comments: true

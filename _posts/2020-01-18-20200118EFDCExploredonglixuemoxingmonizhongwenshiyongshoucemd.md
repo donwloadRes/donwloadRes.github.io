@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EFDC_Explore 动力学模型模拟中文使用手册"
+title: "EFDCExplore 动力学模型模拟中文使用手册"
 date:   2024-01-22
 tags: [EFDC,Explore,使用手册,动力学,模型模拟]
 comments: true

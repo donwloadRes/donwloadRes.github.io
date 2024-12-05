@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2022 安装教程（附安装包）—小白教程"
+title: "Visual Studio 2022 安装教程附安装包小白教程"
 date:   2021-06-28
 tags: [安装,安装包,教程,Visual,Studio]
 comments: true

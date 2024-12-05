@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抽象代数基础教程 中文版下载(Rotman)"
+title: "抽象代数基础教程 中文版下载Rotman"
 date:   2021-08-16
 tags: [抽象代数,基础教程,Rotman,中文版,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAX30102芯片+心率血氧传感器模块+传感器模块资源下载"
+title: "MAX30102芯片心率血氧传感器模块传感器模块资源下载"
 date:   2023-06-10
 tags: [传感器,模块,MAX30102,示例,芯片]
 comments: true

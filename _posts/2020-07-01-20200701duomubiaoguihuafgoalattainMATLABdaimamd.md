@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标规划fgoalattain(MATLAB代码)"
+title: "多目标规划fgoalattainMATLAB代码"
 date:   2023-05-12
 tags: [代码,示例,函数,MATLAB,目标]
 comments: true

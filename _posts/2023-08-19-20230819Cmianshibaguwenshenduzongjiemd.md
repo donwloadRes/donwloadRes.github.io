@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面试八股文深度总结"
+title: "C面试八股文深度总结"
 date:   2021-08-06
 tags: [C++,面试,数据库,操作系统,八股文]
 comments: true

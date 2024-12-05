@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保研&考研精品简历模板"
+title: "保研考研精品简历模板"
 date:   2023-06-28
 tags: [模板,保研,简历,考研,专业技能]
 comments: true

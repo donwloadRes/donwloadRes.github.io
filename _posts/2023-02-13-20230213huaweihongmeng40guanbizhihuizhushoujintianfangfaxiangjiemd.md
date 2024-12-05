@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为鸿蒙4.0关闭“智慧助手-今天”方法详解"
+title: "华为鸿蒙40关闭智慧助手今天方法详解"
 date:   2021-12-18
 tags: [ADB,助手,4.0,鸿蒙,智慧]
 comments: true

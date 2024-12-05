@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纪念QT可直接安装的离线版最后版本5.14.2"
+title: "纪念QT可直接安装的离线版最后版本5142"
 date:   2021-01-05
 tags: [QT,安装,离线,版本,5.14]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI C-PHY 规范 v1.2 资源下载"
+title: "MIPI CPHY 规范 v12 资源下载"
 date:   2024-05-15
 tags: [PHY,MIPI,规范,v1.2,文档]
 comments: true

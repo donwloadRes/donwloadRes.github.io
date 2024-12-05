@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DB接口（AD软件封装库）"
+title: "DB接口AD软件封装库"
 date:   2024-09-26
 tags: [AD,数据库,软件,接口,DB]
 comments: true

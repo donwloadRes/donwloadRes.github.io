@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HED边缘检测：纯OPENCV实现"
+title: "HED边缘检测纯OPENCV实现"
 date:   2022-07-20
 tags: [HED,OpenCV,检测,Android,边缘]
 comments: true

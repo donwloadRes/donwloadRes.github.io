@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK538安装及注意事项——附安装资源"
+title: "MDK538安装及注意事项附安装资源"
 date:   2023-01-18
 tags: [安装,MDK538,CID,环境变量,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学计算机图形学项目：OpenGL三维迷宫的创建及交互"
+title: "山东大学计算机图形学项目OpenGL三维迷宫的创建及交互"
 date:   2020-04-05
 tags: [OpenGL,迷宫,交互,图形学,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新通讯录、相册、短信资源学习指南"
+title: "2023最新通讯录相册短信资源学习指南"
 date:   2020-08-30
 tags: [通讯录,相册,短信,源码,Android]
 comments: true

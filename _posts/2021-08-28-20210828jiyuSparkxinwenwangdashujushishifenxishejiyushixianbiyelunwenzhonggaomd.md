@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spark新闻网大数据实时分析设计与实现 - 毕业论文终稿"
+title: "基于Spark新闻网大数据实时分析设计与实现  毕业论文终稿"
 date:   2024-03-10
 tags: [毕业论文,数据库,论文,Spark,设计]
 comments: true

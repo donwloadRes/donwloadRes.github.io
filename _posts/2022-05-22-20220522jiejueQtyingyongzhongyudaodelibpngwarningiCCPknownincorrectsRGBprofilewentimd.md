@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Qt应用中遇到的libpng warning: iCCP: known incorrect sRGB profile问题"
+title: "解决Qt应用中遇到的libpng warning iCCP known incorrect sRGB profile问题"
 date:   2024-06-13
 tags: [sRGB,PNG,图像,Qt,iCCP]
 comments: true

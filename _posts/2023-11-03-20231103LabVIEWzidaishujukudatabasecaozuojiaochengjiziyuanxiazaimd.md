@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW自带数据库(database)操作教程及资源下载"
+title: "LabVIEW自带数据库database操作教程及资源下载"
 date:   2022-06-20
 tags: [LabVIEW,数据库,示例,操作,数据]
 comments: true

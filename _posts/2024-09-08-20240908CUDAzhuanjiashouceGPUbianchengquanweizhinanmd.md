@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA专家手册：GPU编程权威指南"
+title: "CUDA专家手册GPU编程权威指南"
 date:   2022-01-08
 tags: [CUDA,编程,GPU,指南,手册]
 comments: true

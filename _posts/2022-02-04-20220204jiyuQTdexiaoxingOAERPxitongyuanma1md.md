@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT的小型OA-ERP系统(源码1)"
+title: "基于QT的小型OAERP系统源码1"
 date:   2021-09-26
 tags: [系统,C++,Qt,考勤,打卡]
 comments: true

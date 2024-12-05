@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLMS通讯协议（中文）资源下载"
+title: "DLMS通讯协议中文资源下载"
 date:   2023-10-18
 tags: [DLMS,协议,通讯,实例,SL7000]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL大作业：三维小破房设计(附报告)"
+title: "OpenGL大作业三维小破房设计附报告"
 date:   2024-05-27
 tags: [https,实验报告,视角,项目,作业]
 comments: true

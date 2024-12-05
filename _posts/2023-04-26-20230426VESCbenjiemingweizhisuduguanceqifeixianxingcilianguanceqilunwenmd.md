@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESC本杰明位置速度观测器——非线性磁链观测器论文"
+title: "VESC本杰明位置速度观测器非线性磁链观测器论文"
 date:   2023-07-26
 tags: [观测器,VESC,论文,本杰明,磁链]
 comments: true

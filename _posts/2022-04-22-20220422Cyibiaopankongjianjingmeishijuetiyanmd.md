@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 仪表盘控件 - 精美视觉体验"
+title: "C 仪表盘控件  精美视觉体验"
 date:   2024-02-21
 tags: [控件,仪表盘,C#,数据,应用]
 comments: true

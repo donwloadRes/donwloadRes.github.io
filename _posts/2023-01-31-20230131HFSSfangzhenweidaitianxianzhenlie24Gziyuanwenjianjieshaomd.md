@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS仿真微带天线阵列 2.4G 资源文件介绍"
+title: "HFSS仿真微带天线阵列 24G 资源文件介绍"
 date:   2022-04-22
 tags: [仿真,HFSS,微带天线,阵列,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验报告——Kmeans聚类方法"
+title: "实验报告Kmeans聚类方法"
 date:   2023-01-31
 tags: [算法,means,聚类,数据,Kmeans]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux CentOS 安装 Docker 配置 docker-compose 编排工具【超详细】"
+title: "Linux CentOS 安装 Docker 配置 dockercompose 编排工具超详细"
 date:   2022-04-27
 tags: [Docker,compose,docker,容器,安装]
 comments: true

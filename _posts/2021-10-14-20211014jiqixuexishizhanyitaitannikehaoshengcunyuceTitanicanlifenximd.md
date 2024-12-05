@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战一：泰坦尼克号生存预测 - Titanic案例分析"
+title: "机器学习实战一泰坦尼克号生存预测  Titanic案例分析"
 date:   2024-09-04
 tags: [泰坦尼克号,学习,机器,模型,生存]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7 自动升级 OpenSSH 9.4p1 RPM 包脚本"
+title: "CentOS7 自动升级 OpenSSH 94p1 RPM 包脚本"
 date:   2022-01-30
 tags: [OpenSSH,脚本,升级,9.4,p1]
 comments: true

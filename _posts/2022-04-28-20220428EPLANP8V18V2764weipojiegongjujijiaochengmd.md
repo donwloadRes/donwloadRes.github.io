@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN P8 (V1.8-V2.7) 64位破解工具及教程"
+title: "EPLAN P8 V18V27 64位破解工具及教程"
 date:   2021-10-16
 tags: [破解,教程,EPLAN,P8,工具]
 comments: true

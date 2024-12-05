@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libmodbus 3.1.6 库生成 VS 可用的 DLL"
+title: "libmodbus 316 库生成 VS 可用的 DLL"
 date:   2023-12-27
 tags: [DLL,libmodbus,3.1,Visual,Studio]
 comments: true

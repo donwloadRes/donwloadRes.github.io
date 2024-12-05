@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷ERP Tiptop T100-GP Webservice开发详细步骤"
+title: "鼎捷ERP Tiptop T100GP Webservice开发详细步骤"
 date:   2021-10-21
 tags: [Webservice,源代码,鼎捷,ERP,Tiptop]
 comments: true

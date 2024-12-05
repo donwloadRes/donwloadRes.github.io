@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO IEC 27002-2022 中文版资源下载"
+title: "ISO IEC 270022022 中文版资源下载"
 date:   2020-11-15
 tags: [ISO,IEC,2022,27002,中文版]
 comments: true

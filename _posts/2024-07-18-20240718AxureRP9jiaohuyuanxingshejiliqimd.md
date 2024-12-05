@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure RP 9 - 交互原型设计利器"
+title: "Axure RP 9  交互原型设计利器"
 date:   2020-02-11
 tags: [Axure,原型,设计,RP,交互]
 comments: true

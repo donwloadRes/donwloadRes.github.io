@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform自定义电池控件 进度条"
+title: "C Winform自定义电池控件 进度条"
 date:   2022-01-21
 tags: [控件,进度条,自定义,Winform,电池]
 comments: true

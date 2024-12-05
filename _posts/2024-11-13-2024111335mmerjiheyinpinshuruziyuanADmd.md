@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3.5mm 耳机和音频输入资源（AD）"
+title: "35mm 耳机和音频输入资源AD"
 date:   2021-06-10
 tags: [封装,PCB,AD,设计,3.5]
 comments: true

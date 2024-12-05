@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LMS Test.Lab中文操作指南"
+title: "LMS TestLab中文操作指南"
 date:   2023-04-01
 tags: [LMS,Lab,Test,指南,试验]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFI配件CP2.0C Datasheet"
+title: "MFI配件CP20C Datasheet"
 date:   2023-09-03
 tags: [苹果,MFI,CP2.0,硬件,配件]
 comments: true

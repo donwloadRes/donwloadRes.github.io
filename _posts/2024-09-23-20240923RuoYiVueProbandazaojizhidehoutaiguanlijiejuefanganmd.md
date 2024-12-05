@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RuoYi-Vue Pro版：打造极致的后台管理解决方案"
+title: "RuoYiVue Pro版打造极致的后台管理解决方案"
 date:   2024-02-25
 tags: [Vue,RuoYi,Pro,UI,后台]
 comments: true

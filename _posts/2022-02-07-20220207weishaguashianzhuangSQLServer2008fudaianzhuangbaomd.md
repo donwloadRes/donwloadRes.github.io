@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "伪傻瓜式安装SQL Server 2008（附带安装包）"
+title: "伪傻瓜式安装SQL Server 2008附带安装包"
 date:   2023-09-19
 tags: [SQL,Server,安装包,安装,2008]
 comments: true

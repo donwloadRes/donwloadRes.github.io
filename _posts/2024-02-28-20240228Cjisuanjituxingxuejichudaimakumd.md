@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++计算机图形学基础代码库"
+title: "C计算机图形学基础代码库"
 date:   2021-01-27
 tags: [代码,图形学,算法,多边形,基础]
 comments: true

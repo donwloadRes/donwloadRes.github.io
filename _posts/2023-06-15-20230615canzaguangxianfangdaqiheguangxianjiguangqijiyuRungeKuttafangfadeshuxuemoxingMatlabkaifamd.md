@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "掺杂光纤放大器和光纤激光器：基于Runge-Kutta方法的数学模型 - Matlab开发"
+title: "掺杂光纤放大器和光纤激光器基于RungeKutta方法的数学模型  Matlab开发"
 date:   2021-11-11
 tags: [光纤,放大器,Matlab,Runge,Kutta]
 comments: true

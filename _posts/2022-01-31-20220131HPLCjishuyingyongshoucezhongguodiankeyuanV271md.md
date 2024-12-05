@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HPLC技术应用手册-中国电科院V2 71"
+title: "HPLC技术应用手册中国电科院V2 71"
 date:   2023-04-03
 tags: [设计,HPLC,模块,任务,电科院]
 comments: true

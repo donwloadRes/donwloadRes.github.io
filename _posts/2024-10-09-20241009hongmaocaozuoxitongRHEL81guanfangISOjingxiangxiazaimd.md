@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红帽操作系统 RHEL 8.1 官方ISO镜像下载"
+title: "红帽操作系统 RHEL 81 官方ISO镜像下载"
 date:   2022-10-06
 tags: [下载,RHEL,8.1,ISO,红帽]
 comments: true

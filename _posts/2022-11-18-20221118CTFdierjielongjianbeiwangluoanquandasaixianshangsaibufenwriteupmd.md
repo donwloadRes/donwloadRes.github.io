@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF - 第二届“陇剑杯”网络安全大赛线上赛部分write up"
+title: "CTF  第二届陇剑杯网络安全大赛线上赛部分write up"
 date:   2020-01-01
 tags: [CTF,write,up,网络安全,陇剑杯]
 comments: true

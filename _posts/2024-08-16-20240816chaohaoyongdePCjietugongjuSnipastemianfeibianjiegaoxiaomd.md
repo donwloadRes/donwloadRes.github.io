@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超好用的PC截图工具Snipaste—免费便捷高效"
+title: "超好用的PC截图工具Snipaste免费便捷高效"
 date:   2022-04-21
 tags: [截图,Snipaste,解压,快捷键,圈划]
 comments: true

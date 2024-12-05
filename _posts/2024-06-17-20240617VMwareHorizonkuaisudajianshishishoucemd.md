@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware-Horizon 快速搭建实施手册"
+title: "VMwareHorizon 快速搭建实施手册"
 date:   2024-07-05
 tags: [安装,VMware,Horizon,配置,手册]
 comments: true

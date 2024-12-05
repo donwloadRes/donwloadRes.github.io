@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socket客户端：多服务器连接工具"
+title: "Socket客户端多服务器连接工具"
 date:   2021-08-27
 tags: [客户端,服务器,Socket,连接,重连]
 comments: true

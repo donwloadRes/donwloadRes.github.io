@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000 系列软件资源说明"
+title: "Zynq7000 系列软件资源说明"
 date:   2023-06-14
 tags: [Zynq,7000,系列,文件,软件资源]
 comments: true

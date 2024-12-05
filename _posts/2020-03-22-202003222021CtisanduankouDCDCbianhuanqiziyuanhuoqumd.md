@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021C题三端口DC-DC变换器资源获取"
+title: "2021C题三端口DCDC变换器资源获取"
 date:   2024-03-29
 tags: [DC,变换器,端口,2021C,资源]
 comments: true

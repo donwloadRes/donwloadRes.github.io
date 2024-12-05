@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Std 802.3cd-2018 资源文件下载"
+title: "IEEE Std 8023cd2018 资源文件下载"
 date:   2022-09-27
 tags: [IEEE,2018,Std,802.3,cd]
 comments: true

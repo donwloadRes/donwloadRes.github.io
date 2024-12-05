@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机毕业设计源码：基于Python的气象数据采集预测可视化系统（机器学习）"
+title: "计算机毕业设计源码基于Python的气象数据采集预测可视化系统机器学习"
 date:   2020-02-18
 tags: [可视化,学习,Python,机器,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTTBox-Windows 版安装包"
+title: "MQTTBoxWindows 版安装包"
 date:   2023-05-04
 tags: [MQTT,MQTTBox,Windows,客户端,安装包]
 comments: true

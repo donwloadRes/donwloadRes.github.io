@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ABB PC SDK参考代码仓库"
+title: "C ABB PC SDK参考代码仓库"
 date:   2022-11-17
 tags: [代码,C#,PC,SDK,参考书]
 comments: true

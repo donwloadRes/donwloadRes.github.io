@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP通信源码"
+title: "C TCP通信源码"
 date:   2023-06-30
 tags: [服务端,源码,客户端,TCP,通信]
 comments: true

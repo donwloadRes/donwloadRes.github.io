@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-BILSTM-Attention的分类预测模型（Matlab代码）"
+title: "基于CNNBILSTMAttention的分类预测模型Matlab代码"
 date:   2020-09-14
 tags: [Matlab,分类,模型,CNN,BILSTM]
 comments: true

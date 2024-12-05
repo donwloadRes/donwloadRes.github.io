@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用PCA降维方法处理高光谱图像（Matlab）"
+title: "利用PCA降维方法处理高光谱图像Matlab"
 date:   2021-02-16
 tags: [光谱,PCA,降维,Matlab,图像]
 comments: true

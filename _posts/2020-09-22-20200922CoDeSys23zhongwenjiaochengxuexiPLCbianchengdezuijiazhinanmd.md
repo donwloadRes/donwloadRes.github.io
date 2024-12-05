@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoDeSys 2.3 中文教程 - 学习PLC编程的最佳指南"
+title: "CoDeSys 23 中文教程  学习PLC编程的最佳指南"
 date:   2024-11-23
 tags: [CoDeSys,PLC,编程,教程,学习]
 comments: true

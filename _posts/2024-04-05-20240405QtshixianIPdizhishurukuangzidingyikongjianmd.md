@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现IP地址输入框-自定义控件"
+title: "Qt实现IP地址输入框自定义控件"
 date:   2024-07-02
 tags: [控件,IP地址,自定义,Qt,输入框]
 comments: true

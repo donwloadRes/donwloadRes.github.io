@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#海康识别抓拍回调(增加出入口LED屏和语音播报)"
+title: "C海康识别抓拍回调增加出入口LED屏和语音播报"
 date:   2022-05-25
 tags: [海康,识别,LED,抓拍,播报]
 comments: true

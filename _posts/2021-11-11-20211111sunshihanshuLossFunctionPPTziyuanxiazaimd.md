@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "损失函数（Loss Function）PPT 资源下载"
+title: "损失函数Loss FunctionPPT 资源下载"
 date:   2022-05-02
 tags: [函数,损失,学习,PPT,Function]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多变量时间序列预测模型对比：TCN-LSTM-MATT、TCN-LSTM、TCN、LSTM"
+title: "多变量时间序列预测模型对比TCNLSTMMATTTCNLSTMTCNLSTM"
 date:   2023-03-12
 tags: [TCN,LSTM,序列,模型,文件]
 comments: true

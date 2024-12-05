@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机电压电流检测LCD1602显示系统Proteus仿真+程序源码"
+title: "基于STM32单片机电压电流检测LCD1602显示系统Proteus仿真程序源码"
 date:   2024-09-15
 tags: [仿真,LCD1602,Proteus,电压,文件]
 comments: true

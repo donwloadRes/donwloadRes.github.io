@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EC600N-CN.zip 资源仓库"
+title: "EC600NCNzip 资源仓库"
 date:   2023-11-04
 tags: [EC600N,模块,封装,设计,资源]
 comments: true

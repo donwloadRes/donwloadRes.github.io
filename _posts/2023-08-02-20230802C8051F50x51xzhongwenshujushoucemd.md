@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C8051F50x_51x 中文数据手册"
+title: "C8051F50x51x 中文数据手册"
 date:   2024-09-07
 tags: [文档,C8051F50x,51x,英文原版,手册]
 comments: true

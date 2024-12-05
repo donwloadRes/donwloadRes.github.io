@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QssStylesheetEditor：Qt样式表（QSS）编辑器"
+title: "QssStylesheetEditorQt样式表QSS编辑器"
 date:   2020-03-23
 tags: [QSS,Qt,样式表,QssStylesheetEditor,预览]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266连接阿里云实战指南"
+title: "STM32ESP8266连接阿里云实战指南"
 date:   2024-11-20
 tags: [STM32,ESP8266,阿里,联网,WiFi]
 comments: true

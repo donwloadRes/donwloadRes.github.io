@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美、英、法、德、意大利和西班牙的GeoJSON及区域JSON资源文件"
+title: "美英法德意大利和西班牙的GeoJSON及区域JSON资源文件"
 date:   2023-02-02
 tags: [GeoJSON,文件,包含,JSON,GIS]
 comments: true

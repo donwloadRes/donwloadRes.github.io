@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 利用 SharpPcap 发送以太网报文（以太网原始帧）"
+title: "C 利用 SharpPcap 发送以太网报文以太网原始帧"
 date:   2023-04-17
 tags: [以太网,SharpPcap,发送,数据包,文件]
 comments: true

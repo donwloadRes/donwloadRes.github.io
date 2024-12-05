@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟操作系统 安装OceanBase 3.1图文详解"
+title: "银河麒麟操作系统 安装OceanBase 31图文详解"
 date:   2020-01-30
 tags: [OceanBase,安装,3.1,操作系统,麒麟]
 comments: true

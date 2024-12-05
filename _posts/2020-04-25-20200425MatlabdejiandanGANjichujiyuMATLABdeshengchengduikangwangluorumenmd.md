@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab的简单GAN基础：基于MATLAB的生成对抗网络入门"
+title: "Matlab的简单GAN基础基于MATLAB的生成对抗网络入门"
 date:   2021-08-08
 tags: [MATLAB,GAN,生成器,学习,对抗]
 comments: true

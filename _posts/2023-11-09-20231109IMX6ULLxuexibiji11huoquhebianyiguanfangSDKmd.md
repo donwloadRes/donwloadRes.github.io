@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX6ULL学习笔记（11）——获取和编译官方SDK"
+title: "IMX6ULL学习笔记11获取和编译官方SDK"
 date:   2022-11-20
 tags: [SDK,包含,Linux,官方,IMX6ULL]
 comments: true

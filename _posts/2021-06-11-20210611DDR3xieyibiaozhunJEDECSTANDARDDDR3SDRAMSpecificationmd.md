@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR3协议标准-JEDEC STANDARD DDR3 SDRAM Specification"
+title: "DDR3协议标准JEDEC STANDARD DDR3 SDRAM Specification"
 date:   2020-07-05
 tags: [DDR3,文件,SDRAM,JEDEC,协议]
 comments: true

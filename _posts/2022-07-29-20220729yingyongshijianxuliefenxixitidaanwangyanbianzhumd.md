@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用时间序列分析习题答案（王燕编著）"
+title: "应用时间序列分析习题答案王燕编著"
 date:   2023-12-23
 tags: [习题,序列,答案,分析,王燕]
 comments: true

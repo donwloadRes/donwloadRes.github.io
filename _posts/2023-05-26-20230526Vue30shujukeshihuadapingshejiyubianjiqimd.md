@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3.0 数据可视化大屏设计与编辑器"
+title: "Vue30 数据可视化大屏设计与编辑器"
 date:   2024-11-15
 tags: [大屏,可视化,Vue3.0,编辑器,bash]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线网络安全》PPT课件下载"
+title: "无线网络安全PPT课件下载"
 date:   2023-10-08
 tags: [无线,课件,网络安全,PPT,技术]
 comments: true

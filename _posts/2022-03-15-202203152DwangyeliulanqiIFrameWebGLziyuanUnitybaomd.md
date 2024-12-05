@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D 网页浏览器 IFrame WebGL 资源 - Unity 包"
+title: "2D 网页浏览器 IFrame WebGL 资源  Unity 包"
 date:   2020-01-23
 tags: [浏览器,网页,WebGL,Unity,IFrame]
 comments: true

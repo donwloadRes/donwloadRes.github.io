@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome 编码插件 - Charset"
+title: "Chrome 编码插件  Charset"
 date:   2021-01-13
 tags: [插件,编码,安装,Charset,网页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西电课件-雷达信号处理技术与系统设计"
+title: "西电课件雷达信号处理技术与系统设计"
 date:   2023-12-30
 tags: [课件,信号处理,雷达,系统,设计]
 comments: true

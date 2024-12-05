@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H.264视频裸流与AAC声音数据打包成TS格式教程"
+title: "H264视频裸流与AAC声音数据打包成TS格式教程"
 date:   2020-02-07
 tags: [TS,格式,H.264,AAC,打包]
 comments: true

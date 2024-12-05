@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川AM600-AM400编程软件 InoProShop (V1.5.2) 用户指南"
+title: "汇川AM600AM400编程软件 InoProShop V152 用户指南"
 date:   2023-09-30
 tags: [编程,软件,汇川,AM600,AM400]
 comments: true

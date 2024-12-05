@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EA反编译工具：EX4反编译MQ4"
+title: "EA反编译工具EX4反编译MQ4"
 date:   2020-12-28
 tags: [反编译,EA,MQ4,工具,EX4]
 comments: true

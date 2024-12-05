@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HBuider X 运行不了 PHP：解决“浏览器运行尚不支持此种类型文件”问题"
+title: "HBuider X 运行不了 PHP解决浏览器运行尚不支持此种类型文件问题"
 date:   2022-06-10
 tags: [PHP,HBuider,运行,浏览器,服务器]
 comments: true

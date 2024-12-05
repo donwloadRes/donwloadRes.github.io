@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 438B-2009 军用软件开发文档通用要求"
+title: "GJB 438B2009 军用软件开发文档通用要求"
 date:   2023-09-02
 tags: [文档,2009,软件开发,GJB,438B]
 comments: true

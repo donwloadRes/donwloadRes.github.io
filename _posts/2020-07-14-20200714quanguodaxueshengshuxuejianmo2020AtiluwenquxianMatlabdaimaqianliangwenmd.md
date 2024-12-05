@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国大学生数学建模2020A题炉温曲线Matlab代码（前两问）"
+title: "全国大学生数学建模2020A题炉温曲线Matlab代码前两问"
 date:   2022-06-23
 tags: [小温,代码,炉温,Matlab,曲线]
 comments: true

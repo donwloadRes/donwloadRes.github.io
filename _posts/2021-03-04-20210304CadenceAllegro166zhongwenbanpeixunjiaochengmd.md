@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6中文版培训教程"
+title: "Cadence Allegro 166中文版培训教程"
 date:   2024-07-12
 tags: [Allegro,16.6,教程,PCB,中文版]
 comments: true

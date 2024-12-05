@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wonderware系统平台部署指南(中文)"
+title: "Wonderware系统平台部署指南中文"
 date:   2023-03-17
 tags: [Wonderware,指南,软件,部署,系统]
 comments: true

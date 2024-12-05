@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 文档中文版"
+title: "JDK 18 文档中文版"
 date:   2023-03-09
 tags: [文档,JDK,1.8,中文版,Java]
 comments: true

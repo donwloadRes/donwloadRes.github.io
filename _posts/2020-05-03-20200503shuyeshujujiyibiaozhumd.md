@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树叶数据集(已标注)"
+title: "树叶数据集已标注"
 date:   2022-05-28
 tags: [树叶,数据,标注,样本,算法]
 comments: true

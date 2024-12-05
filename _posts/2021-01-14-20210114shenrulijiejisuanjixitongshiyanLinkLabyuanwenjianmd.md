@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解计算机系统》实验Link Lab源文件"
+title: "深入理解计算机系统实验Link Lab源文件"
 date:   2021-04-23
 tags: [实验,文档,源文件,计算机系统,理解]
 comments: true

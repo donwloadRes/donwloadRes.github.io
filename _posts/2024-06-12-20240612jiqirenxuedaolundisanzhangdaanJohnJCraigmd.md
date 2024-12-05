@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学导论第三章答案（John J.Craig）"
+title: "机器人学导论第三章答案John JCraig"
 date:   2022-11-14
 tags: [机器人学,第三章,答案,导论,Craig]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IIR数字滤波器设计实验（MATLAB）"
+title: "IIR数字滤波器设计实验MATLAB"
 date:   2022-11-28
 tags: [MATLAB,滤波器,IIR,实验报告,代码]
 comments: true

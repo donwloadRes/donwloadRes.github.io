@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libpthread.so.0 资源文件下载"
+title: "libpthreadso0 资源文件下载"
 date:   2021-08-06
 tags: [libpthread,so.0,文件,多线程,应用程序]
 comments: true

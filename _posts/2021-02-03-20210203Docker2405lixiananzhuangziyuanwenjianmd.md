@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker 24.0.5 离线安装资源文件"
+title: "Docker 2405 离线安装资源文件"
 date:   2022-06-01
 tags: [Docker,安装,脚本,离线,24.0]
 comments: true

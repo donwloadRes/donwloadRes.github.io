@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Commons Lang 3.12.0 资源文件下载"
+title: "Apache Commons Lang 3120 资源文件下载"
 date:   2020-07-18
 tags: [commons,lang3,3.12,EqualsBuilder,HashCodeBuilder]
 comments: true

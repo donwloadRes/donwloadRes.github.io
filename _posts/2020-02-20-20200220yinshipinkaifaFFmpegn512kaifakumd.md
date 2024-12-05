@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音视频开发-FFmpeg-n5.1.2开发库"
+title: "音视频开发FFmpegn512开发库"
 date:   2024-10-04
 tags: [FFmpeg,音视频,开发,文件,n5.1]
 comments: true

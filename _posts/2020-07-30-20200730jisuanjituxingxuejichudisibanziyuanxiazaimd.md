@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学基础（第四版）资源下载"
+title: "计算机图形学基础第四版资源下载"
 date:   2022-04-20
 tags: [图形学,Edition,下载,仓库,计算机]
 comments: true

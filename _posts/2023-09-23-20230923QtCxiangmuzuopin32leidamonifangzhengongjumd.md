@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品32 - 雷达模拟仿真工具"
+title: "QtC项目作品32  雷达模拟仿真工具"
 date:   2021-01-21
 tags: [雷达,支持,模拟,区域,缩放]
 comments: true

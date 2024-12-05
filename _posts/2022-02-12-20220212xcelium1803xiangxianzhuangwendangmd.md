@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xcelium18.03详细安装文档"
+title: "xcelium1803详细安装文档"
 date:   2023-12-17
 tags: [xcelium18.03,安装,文档,详细,步骤]
 comments: true

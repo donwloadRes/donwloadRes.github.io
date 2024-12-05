@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress VCL 19.1.2 一键安装包（D7 - 10.3 可用，含源码）"
+title: "DevExpress VCL 1912 一键安装包D7  103 可用含源码"
 date:   2023-08-10
 tags: [10.3,安装,Delphi,版本,解压]
 comments: true

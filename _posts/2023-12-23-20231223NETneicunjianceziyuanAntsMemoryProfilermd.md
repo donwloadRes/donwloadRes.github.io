@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 内存监测资源(Ants Memory Profiler)"
+title: "NET 内存监测资源Ants Memory Profiler"
 date:   2023-07-28
 tags: [内存,应用程序,开发人员,NET,监测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rtklib2.4.2说明书 中文版"
+title: "rtklib242说明书 中文版"
 date:   2023-05-17
 tags: [RTKLIB,文档,说明书,GPS,GNSS]
 comments: true

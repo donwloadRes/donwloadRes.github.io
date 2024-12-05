@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2513A-RTD2513AR VGA+HDMI转LVDS屏显示驱动芯片规格书"
+title: "RTD2513ARTD2513AR VGAHDMI转LVDS屏显示驱动芯片规格书"
 date:   2024-08-15
 tags: [规格书,芯片,RTD2513A,RTD2513AR,LVDS]
 comments: true

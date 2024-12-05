@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "股票交易数据管理可视化系统（Python + MySQL）毕业设计源码下载"
+title: "股票交易数据管理可视化系统Python  MySQL毕业设计源码下载"
 date:   2020-05-19
 tags: [可视化,Python,MySQL,数据,数据库]
 comments: true

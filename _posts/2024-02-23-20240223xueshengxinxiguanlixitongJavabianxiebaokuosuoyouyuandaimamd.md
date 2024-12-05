@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生信息管理系统（Java编写，包括所有源代码）"
+title: "学生信息管理系统Java编写包括所有源代码"
 date:   2023-04-08
 tags: [源代码,Java,文档,系统,信息管理系统]
 comments: true

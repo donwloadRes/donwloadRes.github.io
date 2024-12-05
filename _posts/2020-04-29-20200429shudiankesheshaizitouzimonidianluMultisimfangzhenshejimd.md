@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-色子骰子模拟电路Multisim仿真设计"
+title: "数电课设色子骰子模拟电路Multisim仿真设计"
 date:   2024-07-04
 tags: [Multisim,仿真,电路,数电,课设]
 comments: true

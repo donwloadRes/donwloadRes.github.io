@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "字库生成软件TS4（易木雨）注册版"
+title: "字库生成软件TS4易木雨注册版"
 date:   2020-10-07
 tags: [字库,生成,注册版,TS4,易木雨]
 comments: true

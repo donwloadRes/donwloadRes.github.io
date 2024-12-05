@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.3.0 安装包及激活指南"
+title: "SecureCRT 830 安装包及激活指南"
 date:   2021-07-03
 tags: [激活,SecureCRT,软件,指南,8.3]
 comments: true

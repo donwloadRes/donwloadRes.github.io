@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 6.1.1 资源文件下载仓库"
+title: "Gradle 611 资源文件下载仓库"
 date:   2023-11-14
 tags: [6.1,gradle,zip,文件,Gradle]
 comments: true

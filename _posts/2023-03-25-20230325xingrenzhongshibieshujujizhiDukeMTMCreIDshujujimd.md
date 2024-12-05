@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人重识别数据集之 DukeMTMC-reID 数据集"
+title: "行人重识别数据集之 DukeMTMCreID 数据集"
 date:   2020-03-26
 tags: [数据,reID,DukeMTMC,图像,行人]
 comments: true

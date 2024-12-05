@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KITTI 2012-2015双目立体匹配数据集下载指南"
+title: "KITTI 20122015双目立体匹配数据集下载指南"
 date:   2021-07-16
 tags: [KITTI,立体匹配,数据,下载,2012]
 comments: true

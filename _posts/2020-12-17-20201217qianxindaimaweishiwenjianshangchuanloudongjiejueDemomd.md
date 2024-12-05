@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奇安信代码卫士：文件上传漏洞解决Demo"
+title: "奇安信代码卫士文件上传漏洞解决Demo"
 date:   2021-06-04
 tags: [上传,文件,Demo,校验,漏洞]
 comments: true

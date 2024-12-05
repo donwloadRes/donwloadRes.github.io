@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023蓝桥杯C++-C组A组省赛真题资源下载"
+title: "2023蓝桥杯CC组A组省赛真题资源下载"
 date:   2022-03-29
 tags: [蓝桥,题目,真题,2023,C++]
 comments: true

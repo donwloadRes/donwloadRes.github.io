@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266+阿里云+温湿度+OLED显示云端下发数据"
+title: "STM32ESP8266阿里云温湿度OLED显示云端下发数据"
 date:   2023-09-27
 tags: [温湿度,STM32,云端,数据,ESP8266]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "内网渗透思路学习——靶场实战——暗月项目七"
+title: "内网渗透思路学习靶场实战暗月项目七"
 date:   2020-11-11
 tags: [实战,渗透,靶场,暗月,资源]
 comments: true

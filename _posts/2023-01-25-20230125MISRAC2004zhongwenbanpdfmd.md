@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISRA_C2004_中文版.pdf"
+title: "MISRAC2004中文版pdf"
 date:   2021-11-13
 tags: [MISRA,代码,中文版,规则,2004]
 comments: true

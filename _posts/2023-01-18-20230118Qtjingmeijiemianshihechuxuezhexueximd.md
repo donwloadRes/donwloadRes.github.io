@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 精美界面 - 适合初学者学习"
+title: "Qt 精美界面  适合初学者学习"
 date:   2020-07-09
 tags: [Qt,界面设计,界面,学习,初学者]
 comments: true

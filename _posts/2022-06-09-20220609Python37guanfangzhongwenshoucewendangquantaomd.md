@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7 官方中文手册文档全套"
+title: "Python 37 官方中文手册文档全套"
 date:   2024-08-22
 tags: [Python,文档,3.7,官方,手册]
 comments: true

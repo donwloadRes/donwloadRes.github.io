@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通讯助手代码"
+title: "C 串口通讯助手代码"
 date:   2024-06-28
 tags: [串口,文本框,发送,接收,清空]
 comments: true

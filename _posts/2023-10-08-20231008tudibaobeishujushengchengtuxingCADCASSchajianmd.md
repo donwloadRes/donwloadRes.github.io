@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "土地报备数据生成图形（CAD-CASS插件）"
+title: "土地报备数据生成图形CADCASS插件"
 date:   2020-04-12
 tags: [插件,图形,生成,CAD,版本]
 comments: true

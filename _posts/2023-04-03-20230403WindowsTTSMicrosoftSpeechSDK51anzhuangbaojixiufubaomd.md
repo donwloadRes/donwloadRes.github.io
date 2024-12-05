@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows TTS Microsoft Speech SDK 5.1 安装包及修复包"
+title: "Windows TTS Microsoft Speech SDK 51 安装包及修复包"
 date:   2022-03-21
 tags: [TTS,安装,修复,Windows,语音]
 comments: true

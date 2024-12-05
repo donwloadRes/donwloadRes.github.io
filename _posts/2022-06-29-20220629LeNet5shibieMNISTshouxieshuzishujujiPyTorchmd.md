@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LeNet-5识别MNIST手写数字数据集（PyTorch）"
+title: "LeNet5识别MNIST手写数字数据集PyTorch"
 date:   2021-12-17
 tags: [PyTorch,LeNet,MNIST,模型,卷积]
 comments: true

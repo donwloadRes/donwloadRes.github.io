@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JIRA用户操作指南（详细版）"
+title: "JIRA用户操作指南详细版"
 date:   2024-01-30
 tags: [JIRA,指南,登录,用户,快捷键]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android实现车辆检测(可实时运行) APP Demo"
+title: "Android实现车辆检测可实时运行 APP Demo"
 date:   2022-04-07
 tags: [Android,APP,检测,实时,车辆]
 comments: true

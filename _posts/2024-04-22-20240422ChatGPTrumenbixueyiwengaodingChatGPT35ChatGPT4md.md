@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT入门必学：一文搞定ChatGPT3.5 & ChatGPT4"
+title: "ChatGPT入门必学一文搞定ChatGPT35  ChatGPT4"
 date:   2024-01-23
 tags: [ChatGPT,4.0,3.5,GPT,OpenAI]
 comments: true

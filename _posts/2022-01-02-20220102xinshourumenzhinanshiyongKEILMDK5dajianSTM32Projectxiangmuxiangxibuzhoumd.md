@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新手入门指南：使用KEIL MDK5搭建STM32 Project项目详细步骤"
+title: "新手入门指南使用KEIL MDK5搭建STM32 Project项目详细步骤"
 date:   2022-03-11
 tags: [STM32,KEIL,MDK5,项目,LED]
 comments: true

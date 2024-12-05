@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT样式表一键生成工具（花狗Fdog）"
+title: "QT样式表一键生成工具花狗Fdog"
 date:   2022-03-26
 tags: [QT,样式表,生成,代码,工具]
 comments: true

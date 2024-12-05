@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言高效有限状态机(FSM)详细设计说明书"
+title: "C语言高效有限状态机FSM详细设计说明书"
 date:   2023-01-13
 tags: [状态机,C语言,有限,设计,FSM]
 comments: true

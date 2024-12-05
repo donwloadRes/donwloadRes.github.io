@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITV IPTV 中兴B600V4机顶盒生产配置工具 7.3.3"
+title: "ITV IPTV 中兴B600V4机顶盒生产配置工具 733"
 date:   2021-09-02
 tags: [机顶盒,B600V4,工具,配置,中兴]
 comments: true

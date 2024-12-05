@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oracl客户端oci.dll文件及扩展包下载"
+title: "oracl客户端ocidll文件及扩展包下载"
 date:   2022-05-22
 tags: [oracl,oci,dll,文件,客户端]
 comments: true

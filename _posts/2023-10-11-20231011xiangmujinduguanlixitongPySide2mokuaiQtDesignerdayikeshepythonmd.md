@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目进度管理系统（PySide2模块+Qt Designer）（大一课设）（python）"
+title: "项目进度管理系统PySide2模块Qt Designer大一课设python"
 date:   2021-07-28
 tags: [Qt,Python,PySide2,Designer,项目]
 comments: true

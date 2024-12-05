@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页设计期末大作业：原神风博客资源"
+title: "网页设计期末大作业原神风博客资源"
 date:   2020-03-10
 tags: [页面,网页,JavaScript,布局,博客]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速下载NLTK数据集nltk_data的方法"
+title: "快速下载NLTK数据集nltkdata的方法"
 date:   2022-10-18
 tags: [nltk,NLTK,下载,data,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP测试工具(TCP Test Tool)"
+title: "TCP测试工具TCP Test Tool"
 date:   2024-09-29
 tags: [TCP,测试工具,测试,网络,IP]
 comments: true

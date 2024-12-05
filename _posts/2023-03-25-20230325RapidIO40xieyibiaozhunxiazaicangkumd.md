@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RapidIO 4.0协议标准下载仓库"
+title: "RapidIO 40协议标准下载仓库"
 date:   2022-03-30
 tags: [RapidIO,4.0,仓库,协议,下载]
 comments: true

@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "轨道六根数与TLE两行数的相互转换"
+title: "轨道六根数与TLE两行数的相互转换
+date   20230929
+tags TLE六根let轨道Number
+comments true
+author admin
+
+ 轨道六根数与TLE两行数的相互转换
+
+本仓库提供了一个使用JavaScript语言编写的工具用于实现轨道六根数COE  Classical Orbital Elements与TLETwoLine Element set两行数的相互转换代码中包含了详细的注释解释了转换过程中的每一步使得理解和使用变得简单易懂
+
+ 功能描述
+
+ TLE转轨道六根数将TLE两行数转换为轨道六根数
+ 轨道六根数转TLE将轨道六根数转换为TLE两行数
+
+ 使用方法
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourrepourlgit
+   
+
+2 引入文件
+   将仓库中的JavaScript文件引入到你的项目中
+
+3 调用函数
+    将TLE两行数转换为轨道六根数
+     javascript
+     let TLE  
+       tle1 1 25544U 98067A   2127556782528  00005714  000000  112773 0  9994
+       tle2 2 25544  516444 2362121 0003794  927660 2673979 1549248265300695"
 date:   2023-09-29
 tags: [TLE,六根,let,轨道,Number]
 comments: true

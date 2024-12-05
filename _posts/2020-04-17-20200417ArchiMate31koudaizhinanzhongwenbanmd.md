@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArchiMate 3.1 口袋指南中文版"
+title: "ArchiMate 31 口袋指南中文版"
 date:   2024-03-12
 tags: [ArchiMate,指南,3.1,口袋,中文版]
 comments: true

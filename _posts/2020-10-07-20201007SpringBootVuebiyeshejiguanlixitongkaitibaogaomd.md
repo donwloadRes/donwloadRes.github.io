@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue毕业设计管理系统开题报告"
+title: "SpringBootVue毕业设计管理系统开题报告"
 date:   2021-07-08
 tags: [毕业设计,开题,SpringBoot,Vue,管理系统]
 comments: true

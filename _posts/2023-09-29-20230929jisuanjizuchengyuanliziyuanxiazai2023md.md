@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理资源下载（2023）"
+title: "计算机组成原理资源下载2023"
 date:   2020-05-17
 tags: [计算机,原理,2023,组成,课件]
 comments: true

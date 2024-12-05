@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的温度PID控制代码 - Temp_Control"
+title: "基于MATLAB的温度PID控制代码  TempControl"
 date:   2021-12-24
 tags: [PID,MATLAB,温度,控制,自动调谐]
 comments: true

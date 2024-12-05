@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库构建（HTML版）附网页设计及代码"
+title: "数据库构建HTML版附网页设计及代码"
 date:   2023-12-11
 tags: [数据库,网页,HTML,设计,代码]
 comments: true

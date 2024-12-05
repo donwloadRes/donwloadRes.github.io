@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地图广播接口--AmapAuto标准广播协议"
+title: "地图广播接口AmapAuto标准广播协议"
 date:   2022-03-05
 tags: [广播,AmapAuto,文档,高德,车机]
 comments: true

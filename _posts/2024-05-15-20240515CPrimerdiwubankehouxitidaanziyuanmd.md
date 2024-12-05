@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 第五版 课后习题答案资源"
+title: "C Primer 第五版 课后习题答案资源"
 date:   2023-05-29
 tags: [习题,答案,课后,第五版,资源]
 comments: true

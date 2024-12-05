@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metasploitable2_linux免安装-网盘资源"
+title: "Metasploitable2linux免安装网盘资源"
 date:   2021-01-21
 tags: [Metasploitable2,虚拟机,测试,密码,用户名]
 comments: true

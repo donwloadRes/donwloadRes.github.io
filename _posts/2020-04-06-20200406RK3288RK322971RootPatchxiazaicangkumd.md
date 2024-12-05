@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3288_RK3229_7.1_Root_Patch 下载仓库"
+title: "RK3288RK322971RootPatch 下载仓库"
 date:   2022-07-14
 tags: [RK3288,RK3229,7.1,root,补丁]
 comments: true

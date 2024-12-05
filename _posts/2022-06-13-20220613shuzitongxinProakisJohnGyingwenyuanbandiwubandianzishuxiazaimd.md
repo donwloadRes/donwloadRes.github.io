@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信 Proakis, John G.英文原版 第五版 电子书下载"
+title: "数字通信 Proakis John G英文原版 第五版 电子书下载"
 date:   2021-02-10
 tags: [数字通信,第五版,Proakis,电子书,英文原版]
 comments: true

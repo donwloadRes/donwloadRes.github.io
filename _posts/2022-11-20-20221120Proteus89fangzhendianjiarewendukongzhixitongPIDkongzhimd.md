@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.9仿真 - 电加热温度控制系统（PID控制）"
+title: "Proteus 89仿真  电加热温度控制系统PID控制"
 date:   2023-10-19
 tags: [PID,Arduino,仿真,Proteus,8.9]
 comments: true

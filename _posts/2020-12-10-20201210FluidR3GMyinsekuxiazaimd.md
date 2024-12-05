@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FluidR3_GM音色库下载"
+title: "FluidR3GM音色库下载"
 date:   2024-01-20
 tags: [音色库,FluidR3,GM,SF2,下载]
 comments: true

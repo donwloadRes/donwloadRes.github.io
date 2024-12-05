@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 定时器触发ADC-DMA采集"
+title: "STM32F407 定时器触发ADCDMA采集"
 date:   2021-04-25
 tags: [ADC,定时器,DMA,STM32F407,触发]
 comments: true

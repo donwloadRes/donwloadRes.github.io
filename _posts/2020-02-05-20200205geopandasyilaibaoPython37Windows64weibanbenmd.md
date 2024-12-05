@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "geopandas依赖包Python3.7 Windows 64位版本"
+title: "geopandas依赖包Python37 Windows 64位版本"
 date:   2023-11-19
 tags: [geopandas,Python,安装,版本号,3.7]
 comments: true

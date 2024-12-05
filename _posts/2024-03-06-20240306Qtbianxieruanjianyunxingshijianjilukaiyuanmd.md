@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编写软件运行时间记录（开源）"
+title: "Qt编写软件运行时间记录开源"
 date:   2023-11-21
 tags: [运行,记录,软件,时间,Qt]
 comments: true

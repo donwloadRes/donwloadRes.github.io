@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK Secure Boot V1.1 资源文件介绍"
+title: "MTK Secure Boot V11 资源文件介绍"
 date:   2023-02-27
 tags: [Secure,Boot,V1.1,文件,MTK]
 comments: true

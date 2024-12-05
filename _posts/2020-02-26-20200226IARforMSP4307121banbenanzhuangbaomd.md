@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR for MSP430 7.12.1版本安装包"
+title: "IAR for MSP430 7121版本安装包"
 date:   2022-07-14
 tags: [MSP430,安装,安装包,版本,IAR]
 comments: true

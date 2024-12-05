@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四川天邑TY-1608 S905L3B 高安卡刷包"
+title: "四川天邑TY1608 S905L3B 高安卡刷包"
 date:   2023-04-09
 tags: [刷机,固件,U盘,TY,高安]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F407ZET6的环境温湿度监控系统(粤嵌GEC-M4)"
+title: "基于STM32F407ZET6的环境温湿度监控系统粤嵌GECM4"
 date:   2024-02-04
 tags: [阈值,串口,系统,指令,温湿度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AURIX TC3xx_Power_Reset_Startup培训指导PPT文件"
+title: "AURIX TC3xxPowerResetStartup培训指导PPT文件"
 date:   2023-05-25
 tags: [AURIX,TC3xx,微控制器,PPT,Power]
 comments: true

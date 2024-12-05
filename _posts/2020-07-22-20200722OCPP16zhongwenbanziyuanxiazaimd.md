@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 1.6 中文版资源下载"
+title: "OCPP 16 中文版资源下载"
 date:   2020-09-03
 tags: [OCPP,1.6,中文版,翻译,文件]
 comments: true

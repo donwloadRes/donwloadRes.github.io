@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软工导论课设：物流管理系统"
+title: "软工导论课设物流管理系统"
 date:   2023-04-08
 tags: [管理系统,资源,软件工程,物流,导论]
 comments: true

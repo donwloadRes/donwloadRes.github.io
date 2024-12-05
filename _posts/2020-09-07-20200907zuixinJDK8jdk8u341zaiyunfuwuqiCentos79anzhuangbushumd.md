@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新JDK8（jdk-8u341）在云服务器Centos7.9安装部署"
+title: "最新JDK8jdk8u341在云服务器Centos79安装部署"
 date:   2023-08-07
 tags: [jdk,usr,bash,HOME,安装]
 comments: true

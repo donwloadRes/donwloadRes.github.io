@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python大作业：扫雷游戏"
+title: "Python大作业扫雷游戏"
 date:   2021-08-20
 tags: [Python,扫雷,游戏,代码,文档]
 comments: true

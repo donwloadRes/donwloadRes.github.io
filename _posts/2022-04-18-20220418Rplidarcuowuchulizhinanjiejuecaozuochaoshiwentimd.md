@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rplidar 错误处理指南：解决“操作超时”问题"
+title: "Rplidar 错误处理指南解决操作超时问题"
 date:   2021-08-05
 tags: [超时,Rplidar,波特率,检查,雷达]
 comments: true

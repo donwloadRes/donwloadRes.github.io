@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 下 Intraweb 开发WEB程序应用实战（2.0）文档"
+title: "Delphi 下 Intraweb 开发WEB程序应用实战20文档"
 date:   2022-06-15
 tags: [Intraweb,Delphi,应用,Web,文档]
 comments: true

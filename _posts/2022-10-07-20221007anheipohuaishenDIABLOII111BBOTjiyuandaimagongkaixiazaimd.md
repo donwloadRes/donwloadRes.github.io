@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "暗黑破坏神（DIABLOII 1.11B)BOT 及源代码公开下载"
+title: "暗黑破坏神DIABLOII 111BBOT 及源代码公开下载"
 date:   2020-10-12
 tags: [破坏神,源代码,暗黑,BOT,游戏]
 comments: true

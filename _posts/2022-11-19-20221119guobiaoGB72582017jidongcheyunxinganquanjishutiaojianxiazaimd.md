@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国标GB 7258-2017 机动车运行安全技术条件下载"
+title: "国标GB 72582017 机动车运行安全技术条件下载"
 date:   2023-02-12
 tags: [2017,机动车,GB,7258,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东北大学计科数电课设-模型计算机"
+title: "东北大学计科数电课设模型计算机"
 date:   2023-12-19
 tags: [东北大学,设计,模型,计算机,计科数]
 comments: true

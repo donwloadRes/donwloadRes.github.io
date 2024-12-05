@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XPS查看器Windows通用(提取版解压即用)"
+title: "XPS查看器Windows通用提取版解压即用"
 date:   2024-06-13
 tags: [XPS,查看器,Windows,文档,提取]
 comments: true

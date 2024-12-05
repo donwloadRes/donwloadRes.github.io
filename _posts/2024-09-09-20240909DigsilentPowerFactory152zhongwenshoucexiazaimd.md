@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digsilent PowerFactory 15.2 中文手册下载"
+title: "Digsilent PowerFactory 152 中文手册下载"
 date:   2024-02-14
 tags: [手册,PowerFactory,15.2,PDF,中文]
 comments: true

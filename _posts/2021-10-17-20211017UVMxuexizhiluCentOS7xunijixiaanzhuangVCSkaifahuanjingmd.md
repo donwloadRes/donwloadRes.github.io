@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM学习之路：CentOS 7虚拟机下安装VCS开发环境"
+title: "UVM学习之路CentOS 7虚拟机下安装VCS开发环境"
 date:   2021-02-08
 tags: [VCS,安装,虚拟机,示例,开发]
 comments: true

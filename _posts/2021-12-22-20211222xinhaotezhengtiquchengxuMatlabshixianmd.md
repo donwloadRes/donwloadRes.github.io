@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号特征提取程序（Matlab实现）"
+title: "信号特征提取程序Matlab实现"
 date:   2020-06-30
 tags: [Matlab,信号,程序,特征提取,特征向量]
 comments: true

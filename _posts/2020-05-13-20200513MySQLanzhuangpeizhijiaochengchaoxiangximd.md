@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL安装配置教程（超详细！）"
+title: "MySQL安装配置教程超详细"
 date:   2022-09-27
 tags: [安装,MySQL,配置,选择,密码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB算法实战应用案例精讲-黄金正弦算法-GoldSA-MATLAB实现源代码"
+title: "MATLAB算法实战应用案例精讲黄金正弦算法GoldSAMATLAB实现源代码"
 date:   2023-01-25
 tags: [MATLAB,算法,源代码,示例,正弦]
 comments: true

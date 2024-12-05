@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET课设资源下载"
+title: "ASPNET课设资源下载"
 date:   2023-11-30
 tags: [课设,ASP,NET,文档,系统]
 comments: true

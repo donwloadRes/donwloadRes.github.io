@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java制作石头迷阵》游戏资源文件介绍"
+title: "Java制作石头迷阵游戏资源文件介绍"
 date:   2020-11-30
 tags: [游戏,Java,迷阵,文件,方块]
 comments: true

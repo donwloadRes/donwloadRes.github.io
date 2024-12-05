@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cyclone IV技术手册（中文版）下载"
+title: "Cyclone IV技术手册中文版下载"
 date:   2023-08-12
 tags: [手册,Cyclone,IV,FPGA,中文版]
 comments: true

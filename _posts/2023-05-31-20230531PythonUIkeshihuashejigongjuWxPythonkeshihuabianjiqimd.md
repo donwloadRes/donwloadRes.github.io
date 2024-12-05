@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python UI可视化设计工具（WxPython可视化编辑器）"
+title: "Python UI可视化设计工具WxPython可视化编辑器"
 date:   2023-01-11
 tags: [Python,可视化,编辑器,设计,WxPython]
 comments: true

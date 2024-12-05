@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VLSI数字信号处理系统设计与实现【中文资源】"
+title: "VLSI数字信号处理系统设计与实现中文资源"
 date:   2020-01-14
 tags: [VLSI,信号处理,数字,设计,系统]
 comments: true

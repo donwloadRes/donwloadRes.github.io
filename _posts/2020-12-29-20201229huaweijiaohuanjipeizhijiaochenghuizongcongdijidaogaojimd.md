@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为交换机配置教程汇总（从低级到高级）"
+title: "华为交换机配置教程汇总从低级到高级"
 date:   2023-03-29
 tags: [交换机,华为,配置,教程,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态软件设计与开发（源代码）"
+title: "组态软件设计与开发源代码"
 date:   2022-10-10
 tags: [组态,软件,源代码,软件设计,设计]
 comments: true

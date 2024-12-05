@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS9.5完整版百度云下载地址"
+title: "PADS95完整版百度云下载地址"
 date:   2021-01-09
 tags: [下载,PADS9.5,完整版,地址,百度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPSK-QPSK-16QAM-64QAM调制解调"
+title: "BPSKQPSK16QAM64QAM调制解调"
 date:   2023-08-18
 tags: [调制,解调,代码,MATLAB,BPSK]
 comments: true

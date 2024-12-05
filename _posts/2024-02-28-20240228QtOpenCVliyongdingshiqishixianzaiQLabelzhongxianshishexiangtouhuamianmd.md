@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+OpenCV：利用定时器实现在QLabel中显示摄像头画面"
+title: "QtOpenCV利用定时器实现在QLabel中显示摄像头画面"
 date:   2024-08-22
 tags: [Qt,OpenCV,QLabel,定时器,摄像头]
 comments: true

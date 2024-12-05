@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP技术大全（中文PDF非扫描版）"
+title: "TCPIP技术大全中文PDF非扫描版"
 date:   2021-10-08
 tags: [IP,TCP,协议,PDF,Internet]
 comments: true

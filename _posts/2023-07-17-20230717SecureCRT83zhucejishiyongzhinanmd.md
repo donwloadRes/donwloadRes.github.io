@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.3 注册机使用指南"
+title: "SecureCRT 83 注册机使用指南"
 date:   2023-03-04
 tags: [SecureCRT,点击,注册机,exe,8.3]
 comments: true

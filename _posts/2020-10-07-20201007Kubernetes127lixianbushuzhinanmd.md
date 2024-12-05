@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes 1.27 离线部署指南"
+title: "Kubernetes 127 离线部署指南"
 date:   2023-11-20
 tags: [离线,部署,Ansible,安装包,Kubernetes]
 comments: true

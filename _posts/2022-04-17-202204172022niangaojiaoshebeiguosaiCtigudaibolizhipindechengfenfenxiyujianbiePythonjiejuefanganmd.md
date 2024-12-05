@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年高教社杯国赛C题 | 古代玻璃制品的成分分析与鉴别（Python解决方案）"
+title: "2022年高教社杯国赛C题  古代玻璃制品的成分分析与鉴别Python解决方案"
 date:   2024-01-19
 tags: [Python,玻璃制品,鉴别,成分,高教]
 comments: true

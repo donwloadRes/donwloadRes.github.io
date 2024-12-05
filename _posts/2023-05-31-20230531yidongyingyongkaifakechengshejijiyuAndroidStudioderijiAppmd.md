@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动应用开发课程设计：基于Android Studio的日记App"
+title: "移动应用开发课程设计基于Android Studio的日记App"
 date:   2020-03-05
 tags: [Android,Studio,App,课程设计,开发]
 comments: true

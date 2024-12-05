@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200PLC三层楼电梯控制程序"
+title: "S7200PLC三层楼电梯控制程序"
 date:   2023-03-13
 tags: [PLC,S7,编程,电梯,200]
 comments: true

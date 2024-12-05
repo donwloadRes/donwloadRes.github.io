@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发的应用升级管理器LUAgent服务器端"
+title: "C开发的应用升级管理器LUAgent服务器端"
 date:   2023-10-07
 tags: [服务器端,应用程序,升级,LUAgent,管理器]
 comments: true

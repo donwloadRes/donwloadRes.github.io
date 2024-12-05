@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Linux应用开发完全手册V4.0 韦东山全系列视频文档 - IMX6ULL开发板"
+title: "嵌入式Linux应用开发完全手册V40 韦东山全系列视频文档  IMX6ULL开发板"
 date:   2024-05-23
 tags: [Linux,嵌入式,IMX6ULL,文档,东山]
 comments: true

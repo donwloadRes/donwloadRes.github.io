@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字印刷体数据集（最全）"
+title: "数字印刷体数据集最全"
 date:   2023-07-06
 tags: [数字,印刷体,数据,模型,学习]
 comments: true

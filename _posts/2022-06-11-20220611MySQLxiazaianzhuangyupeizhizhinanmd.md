@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 下载、安装与配置指南"
+title: "MySQL 下载安装与配置指南"
 date:   2024-10-10
 tags: [MySQL,安装,卸载,指南,验证]
 comments: true

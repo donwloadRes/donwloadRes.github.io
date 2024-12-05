@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国各州区域图-shp格式"
+title: "美国各州区域图shp格式"
 date:   2024-01-07
 tags: [数据,shp,GIS,格式,Shapefile]
 comments: true

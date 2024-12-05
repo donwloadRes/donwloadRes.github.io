@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信用卡数据训练集 - creditcard.csv"
+title: "信用卡数据训练集  creditcardcsv"
 date:   2021-08-01
 tags: [数据,creditcard,csv,训练,信用卡]
 comments: true

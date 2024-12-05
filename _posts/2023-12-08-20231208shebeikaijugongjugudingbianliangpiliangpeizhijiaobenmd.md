@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设备开局工具：固定变量批量配置脚本"
+title: "设备开局工具固定变量批量配置脚本"
 date:   2021-09-14
 tags: [配置,设备,批量,开局,脚本]
 comments: true

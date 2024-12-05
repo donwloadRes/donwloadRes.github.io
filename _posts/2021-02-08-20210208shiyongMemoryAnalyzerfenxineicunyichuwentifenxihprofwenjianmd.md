@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Memory Analyzer分析内存溢出问题（分析hprof文件）"
+title: "使用Memory Analyzer分析内存溢出问题分析hprof文件"
 date:   2023-02-16
 tags: [内存,hprof,溢出,文件,分析]
 comments: true

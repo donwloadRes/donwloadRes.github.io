@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Ubuntu 24.04中WPS加粗字体显示异常问题"
+title: "解决Ubuntu 2404中WPS加粗字体显示异常问题"
 date:   2022-07-26
 tags: [WPS,加粗,Office,字体,文件]
 comments: true

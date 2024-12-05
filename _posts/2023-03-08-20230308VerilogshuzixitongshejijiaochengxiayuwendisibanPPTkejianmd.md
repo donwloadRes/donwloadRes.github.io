@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog数字系统设计教程[夏宇闻]第四版PPT课件"
+title: "Verilog数字系统设计教程夏宇闻第四版PPT课件"
 date:   2020-09-16
 tags: [Verilog,PPT,课件,夏宇闻,第四版]
 comments: true

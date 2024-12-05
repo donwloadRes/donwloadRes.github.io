@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP-IP异步通信示例"
+title: "C TCPIP异步通信示例"
 date:   2022-12-30
 tags: [客户端,服务端,示例,TCP,IP]
 comments: true

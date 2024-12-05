@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++读写JSON文件"
+title: "C读写JSON文件"
 date:   2022-11-21
 tags: [json,JSON,C++,std,nlohmann]
 comments: true

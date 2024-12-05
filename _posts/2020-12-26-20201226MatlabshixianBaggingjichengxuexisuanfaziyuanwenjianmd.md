@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现Bagging（集成学习）算法资源文件"
+title: "Matlab实现Bagging集成学习算法资源文件"
 date:   2021-01-30
 tags: [Matlab,Bagging,算法,文件,代码]
 comments: true

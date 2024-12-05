@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOS管驱动电路设计秘籍：从工作原理到实战技巧全解析"
+title: "MOS管驱动电路设计秘籍从工作原理到实战技巧全解析"
 date:   2021-06-13
 tags: [MOS,电路设计,设计,秘籍,驱动]
 comments: true

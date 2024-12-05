@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tricore-lsl 语法文件下载"
+title: "tricorelsl 语法文件下载"
 date:   2023-03-26
 tags: [tricore,LSL,语法,lsl,文件]
 comments: true

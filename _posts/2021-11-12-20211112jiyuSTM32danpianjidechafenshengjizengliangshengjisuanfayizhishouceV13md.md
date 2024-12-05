@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的差分升级(增量升级)算法移植手册V1.3"
+title: "基于STM32单片机的差分升级增量升级算法移植手册V13"
 date:   2020-09-21
 tags: [差分,升级,算法,STM32,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VectorCAST使用手册-Windows下载"
+title: "VectorCAST使用手册Windows下载"
 date:   2021-08-19
 tags: [VectorCAST,Windows,使用手册,pdf,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XC6SLX9-2TQG144C最小系统原理图"
+title: "XC6SLX92TQG144C最小系统原理图"
 date:   2020-04-07
 tags: [原理图,XC6SLX9,2TQG144C,最小,PDF]
 comments: true

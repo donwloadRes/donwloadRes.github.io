@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exportfig-ghostscript-xpdftools 使用说明"
+title: "exportfigghostscriptxpdftools 使用说明"
 date:   2020-12-15
 tags: [MATLAB,export,fig,xpdftools,图像]
 comments: true

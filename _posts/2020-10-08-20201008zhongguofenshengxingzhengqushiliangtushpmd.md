@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国分省行政区矢量图（shp）"
+title: "中国分省行政区矢量图shp"
 date:   2020-06-10
 tags: [GIS,行政区划,shp,Shapefile,数据]
 comments: true

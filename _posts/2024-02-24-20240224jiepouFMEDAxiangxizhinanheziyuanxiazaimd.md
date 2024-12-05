@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解剖FMEDA：详细指南和资源下载"
+title: "解剖FMEDA详细指南和资源下载"
 date:   2021-01-14
 tags: [FMEDA,故障,文件,模式,资源]
 comments: true

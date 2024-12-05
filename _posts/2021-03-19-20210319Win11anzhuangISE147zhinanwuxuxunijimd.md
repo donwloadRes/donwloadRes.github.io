@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11安装ISE 14.7指南 ——无需虚拟机"
+title: "Win11安装ISE 147指南 无需虚拟机"
 date:   2024-05-25
 tags: [ISE,14.7,安装,Xilinx,DS]
 comments: true

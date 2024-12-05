@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 调试中文说明"
+title: "RISCV 调试中文说明"
 date:   2023-02-19
 tags: [调试,RISC,中文,说明,debug]
 comments: true

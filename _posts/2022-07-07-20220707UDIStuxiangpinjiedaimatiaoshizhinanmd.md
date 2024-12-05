@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDIS++图像拼接代码调试指南"
+title: "UDIS图像拼接代码调试指南"
 date:   2024-08-18
 tags: [UDIS,++,图像,拼接,训练]
 comments: true

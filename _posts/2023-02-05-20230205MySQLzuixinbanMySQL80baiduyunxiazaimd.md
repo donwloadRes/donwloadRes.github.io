@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL最新版MySQL8.0百度云下载"
+title: "MySQL最新版MySQL80百度云下载"
 date:   2023-02-12
 tags: [MySQL,下载,安装,版本,数据库]
 comments: true

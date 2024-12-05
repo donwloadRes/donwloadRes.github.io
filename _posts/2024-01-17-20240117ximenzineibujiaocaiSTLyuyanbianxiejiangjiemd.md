@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子内部教材-STL语言编写讲解"
+title: "西门子内部教材STL语言编写讲解"
 date:   2023-05-09
 tags: [STL,西门子,语言,教材,编写]
 comments: true

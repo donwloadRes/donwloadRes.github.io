@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细手把手教你安装 Vivado2019.2"
+title: "最详细手把手教你安装 Vivado20192"
 date:   2023-09-29
 tags: [安装,Vivado,Vitis,2019.2,许可证]
 comments: true

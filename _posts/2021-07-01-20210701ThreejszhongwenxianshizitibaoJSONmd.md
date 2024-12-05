@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 中文显示字体包 JSON"
+title: "Threejs 中文显示字体包 JSON"
 date:   2024-11-18
 tags: [Three,js,THREE,font,中文]
 comments: true

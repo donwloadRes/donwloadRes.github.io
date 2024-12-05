@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一种简易的DC-AC逆变电路"
+title: "一种简易的DCAC逆变电路"
 date:   2020-03-12
 tags: [逆变,电路,逆变器,DC,AC]
 comments: true

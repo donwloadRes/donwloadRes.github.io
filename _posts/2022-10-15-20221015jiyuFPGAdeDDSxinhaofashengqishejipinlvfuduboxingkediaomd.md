@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的DDS信号发生器设计（频率、幅度、波形可调）"
+title: "基于FPGA的DDS信号发生器设计频率幅度波形可调"
 date:   2020-06-26
 tags: [波形,FPGA,频率,设计,DDS]
 comments: true

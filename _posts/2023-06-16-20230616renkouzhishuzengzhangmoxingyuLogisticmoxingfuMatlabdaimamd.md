@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人口指数增长模型与Logistic模型（附Matlab代码）"
+title: "人口指数增长模型与Logistic模型附Matlab代码"
 date:   2022-08-03
 tags: [模型,人口,Logistic,代码,Matlab]
 comments: true

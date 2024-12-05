@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 EC200U(4G+GNSS)物联网WIFI资料"
+title: "STM32 EC200U4GGNSS物联网WIFI资料"
 date:   2020-09-04
 tags: [STM32,EC200U,资料,联网,代码]
 comments: true

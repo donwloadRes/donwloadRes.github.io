@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SC031GS 数据手册 V2.2 下载"
+title: "SC031GS 数据手册 V22 下载"
 date:   2020-05-13
 tags: [SC031GS,V2.2,手册,传感器,pdf]
 comments: true

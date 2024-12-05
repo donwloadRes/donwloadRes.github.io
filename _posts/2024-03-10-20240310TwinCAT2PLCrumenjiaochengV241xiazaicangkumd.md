@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT 2 PLC入门教程V2.41 下载仓库"
+title: "TwinCAT 2 PLC入门教程V241 下载仓库"
 date:   2023-03-20
 tags: [PLC,TwinCAT,教程,V2.41,编程]
 comments: true

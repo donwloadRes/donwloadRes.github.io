@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密算法计算器-V1.2-改进版"
+title: "国密算法计算器V12改进版"
 date:   2021-08-02
 tags: [国密,算法,计算器,图形界面,exe]
 comments: true

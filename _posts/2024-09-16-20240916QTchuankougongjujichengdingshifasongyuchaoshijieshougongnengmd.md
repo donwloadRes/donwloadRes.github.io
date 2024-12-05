@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT串口工具：集成定时发送与超时接收功能"
+title: "QT串口工具集成定时发送与超时接收功能"
 date:   2022-09-21
 tags: [串口,超时,Qt,发送,接收]
 comments: true

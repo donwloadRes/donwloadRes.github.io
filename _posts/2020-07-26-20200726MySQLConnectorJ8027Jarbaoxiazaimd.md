@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-J 8.0.27 Jar包下载"
+title: "MySQL ConnectorJ 8027 Jar包下载"
 date:   2024-03-28
 tags: [MySQL,8.0,27,Connector,JAR]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Numerical-Optimization 数值优化 第2版 资源下载"
+title: "NumericalOptimization 数值优化 第2版 资源下载"
 date:   2020-11-10
 tags: [PDF,数值,优化,Numerical,Optimization]
 comments: true

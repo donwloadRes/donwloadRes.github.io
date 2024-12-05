@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity2D 记忆翻牌游戏源代码(C#)"
+title: "Unity2D 记忆翻牌游戏源代码C"
 date:   2022-08-11
 tags: [翻牌,游戏,源代码,Unity,配对]
 comments: true

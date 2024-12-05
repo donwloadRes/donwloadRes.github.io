@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Xilinx FPGA的DDR3读写控制模块（包含整个工程）"
+title: "基于Xilinx FPGA的DDR3读写控制模块包含整个工程"
 date:   2020-05-09
 tags: [DDR3,读写,工程,FPGA,Vivado]
 comments: true

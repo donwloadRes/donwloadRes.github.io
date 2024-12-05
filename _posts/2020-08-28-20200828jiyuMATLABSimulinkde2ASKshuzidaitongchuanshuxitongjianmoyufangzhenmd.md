@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink的2ASK数字带通传输系统建模与仿真"
+title: "基于MATLABSimulink的2ASK数字带通传输系统建模与仿真"
 date:   2021-10-29
 tags: [2ASK,信号,解调,Simulink,MATLAB]
 comments: true

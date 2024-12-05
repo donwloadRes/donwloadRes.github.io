@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惠普无线打印机“需要注意用户干预”问题解决指南"
+title: "惠普无线打印机需要注意用户干预问题解决指南"
 date:   2022-09-13
 tags: [打印机,用户,PrintSpooler,惠普,无线]
 comments: true

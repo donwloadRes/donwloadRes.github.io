@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海能达CPS写频-烧录工具下载 - DMR_SW_CPS_V9.00.09.306.iM(chs)"
+title: "海能达CPS写频烧录工具下载  DMRSWCPSV90009306iMchs"
 date:   2022-03-01
 tags: [CPS,海能,写频,工具,DMR]
 comments: true

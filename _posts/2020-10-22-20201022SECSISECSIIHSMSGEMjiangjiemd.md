@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECSI、SECSII、HSMS、GEM讲解"
+title: "SECSISECSIIHSMSGEM讲解"
 date:   2021-03-24
 tags: [SEMI,标准,半导体,讲解,设备]
 comments: true

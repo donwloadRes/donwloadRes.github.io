@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PP-Structure技术的智能图片识别表格程序"
+title: "基于PPStructure技术的智能图片识别表格程序"
 date:   2022-04-22
 tags: [PP,Structure,识别,表格,图片]
 comments: true

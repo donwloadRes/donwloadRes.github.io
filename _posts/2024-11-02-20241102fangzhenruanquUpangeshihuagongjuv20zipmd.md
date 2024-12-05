@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿真软驱U盘格式化工具v2.0.zip"
+title: "仿真软驱U盘格式化工具v20zip"
 date:   2022-02-05
 tags: [U盘,格式化,软驱,仿真,v2.0]
 comments: true

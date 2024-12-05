@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Blender 3.3安装包+详细安装教程"
+title: "最新Blender 33安装包详细安装教程"
 date:   2023-08-22
 tags: [Blender,安装,3.3,安装包,下载]
 comments: true

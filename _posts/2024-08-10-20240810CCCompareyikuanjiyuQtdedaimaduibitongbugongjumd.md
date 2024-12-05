@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC Compare：一款基于Qt的代码对比同步工具"
+title: "CC Compare一款基于Qt的代码对比同步工具"
 date:   2022-12-06
 tags: [Compare,对比,同步,CC,代码]
 comments: true

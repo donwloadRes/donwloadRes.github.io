@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "夏宇闻-Verilog经典教程下载"
+title: "夏宇闻Verilog经典教程下载"
 date:   2022-07-08
 tags: [Verilog,教程,夏宇闻,经典,pdf]
 comments: true

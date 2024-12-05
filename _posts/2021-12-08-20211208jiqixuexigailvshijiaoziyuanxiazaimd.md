@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习：概率视角资源下载"
+title: "机器学习概率视角资源下载"
 date:   2024-03-31
 tags: [机器,学习,工具箱,视角,统计学]
 comments: true

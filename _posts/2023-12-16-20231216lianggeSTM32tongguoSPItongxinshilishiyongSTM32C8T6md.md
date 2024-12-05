@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两个STM32通过SPI通信实例 - 使用STM32C8T6"
+title: "两个STM32通过SPI通信实例  使用STM32C8T6"
 date:   2021-06-28
 tags: [SPI,STM32C8T6,STM32,通信,VET6]
 comments: true

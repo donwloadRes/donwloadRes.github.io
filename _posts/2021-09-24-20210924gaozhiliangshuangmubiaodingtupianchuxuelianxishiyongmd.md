@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高质量双目标定图片（初学练习使用）"
+title: "高质量双目标定图片初学练习使用"
 date:   2020-10-30
 tags: [标定,双目,视觉,应用,高质量]
 comments: true

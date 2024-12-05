@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理.pdf 资源简介"
+title: "计算机组成原理pdf 资源简介"
 date:   2024-07-21
 tags: [计算机,原理,计算机科学,pdf,CPU]
 comments: true

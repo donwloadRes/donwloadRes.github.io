@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSS-E 34 最新版 Part2 下载说明"
+title: "PSSE 34 最新版 Part2 下载说明"
 date:   2021-03-04
 tags: [PSS,34,下载,压缩包,Part2]
 comments: true

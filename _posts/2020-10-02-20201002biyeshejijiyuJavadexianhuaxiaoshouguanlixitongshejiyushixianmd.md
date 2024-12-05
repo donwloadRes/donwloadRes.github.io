@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于Java的鲜花销售管理系统设计与实现"
+title: "毕业设计基于Java的鲜花销售管理系统设计与实现"
 date:   2020-02-25
 tags: [鲜花,管理,毕业设计,数据库,项目]
 comments: true

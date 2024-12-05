@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下Redis5+可视化软件下载、安装和配置教程"
+title: "Windows下Redis5可视化软件下载安装和配置教程"
 date:   2023-09-26
 tags: [Redis,可视化,Windows,配置,教程]
 comments: true

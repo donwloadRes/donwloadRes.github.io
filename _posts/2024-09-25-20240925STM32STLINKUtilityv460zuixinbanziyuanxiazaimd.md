@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ST-LINK Utility v4.6.0 最新版资源下载"
+title: "STM32 STLINK Utility v460 最新版资源下载"
 date:   2020-01-13
 tags: [ST,LINK,STM32,Utility,v4.6]
 comments: true

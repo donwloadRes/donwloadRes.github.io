@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dbeaver免安装版-21.2.0.zip"
+title: "dbeaver免安装版2120zip"
 date:   2021-03-15
 tags: [数据库,dbeaver,安装版,21.2,DBeaver]
 comments: true

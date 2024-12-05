@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科院深度学习-手写数字识别实验"
+title: "中科院深度学习手写数字识别实验"
 date:   2021-09-24
 tags: [学习,代码,深度,手写,实验]
 comments: true

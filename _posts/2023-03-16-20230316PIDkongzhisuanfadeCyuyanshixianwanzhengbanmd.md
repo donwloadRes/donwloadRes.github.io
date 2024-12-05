@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID控制算法的C语言实现(完整版)"
+title: "PID控制算法的C语言实现完整版"
 date:   2021-05-10
 tags: [PID,控制算法,C语言,微分,控制]
 comments: true

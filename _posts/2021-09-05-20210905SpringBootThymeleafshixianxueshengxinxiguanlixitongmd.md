@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + Thymeleaf 实现学生信息管理系统"
+title: "Spring Boot  Thymeleaf 实现学生信息管理系统"
 date:   2020-02-20
 tags: [Spring,Boot,Thymeleaf,信息管理系统,学生]
 comments: true

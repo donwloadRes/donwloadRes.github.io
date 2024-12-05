@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能计算中心规划建设指南（PPT版）下载"
+title: "智能计算中心规划建设指南PPT版下载"
 date:   2024-06-28
 tags: [计算中心,智能,指南,PPT,规划]
 comments: true

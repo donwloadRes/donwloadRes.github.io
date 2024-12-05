@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式工程师综合笔试题（STM32驱动）资源下载"
+title: "嵌入式工程师综合笔试题STM32驱动资源下载"
 date:   2020-11-14
 tags: [STM32,嵌入式,工程师,驱动,笔试]
 comments: true

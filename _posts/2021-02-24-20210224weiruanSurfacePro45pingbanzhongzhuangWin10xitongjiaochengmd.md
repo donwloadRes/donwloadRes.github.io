@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软Surface Pro 4-5平板重装Win10系统教程"
+title: "微软Surface Pro 45平板重装Win10系统教程"
 date:   2023-05-29
 tags: [U盘,Surface,Pro,教程,系统]
 comments: true

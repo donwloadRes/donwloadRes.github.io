@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 OTA空中升级(阿里云物联网平台)配套源代码"
+title: "ESP32 OTA空中升级阿里云物联网平台配套源代码"
 date:   2021-01-19
 tags: [OTA,云物,源代码,ESP32,教程]
 comments: true

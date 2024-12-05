@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙视觉软件 FZ-FH-FJ系列仿真软件"
+title: "欧姆龙视觉软件 FZFHFJ系列仿真软件"
 date:   2024-03-08
 tags: [软件,仿真,欧姆龙,FZ,FH]
 comments: true

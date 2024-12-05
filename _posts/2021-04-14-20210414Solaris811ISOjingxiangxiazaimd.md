@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solaris 8-11 ISO镜像下载"
+title: "Solaris 811 ISO镜像下载"
 date:   2023-03-04
 tags: [Solaris,ISO,镜像,11,下载]
 comments: true

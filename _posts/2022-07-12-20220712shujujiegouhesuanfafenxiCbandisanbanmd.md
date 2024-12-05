@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构和算法分析 C++版 第三版"
+title: "数据结构和算法分析 C版 第三版"
 date:   2021-06-14
 tags: [数据结构,算法,C++,第三版,学习]
 comments: true

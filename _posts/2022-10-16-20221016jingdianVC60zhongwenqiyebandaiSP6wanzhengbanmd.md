@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典VC++ 6.0中文企业版带SP6完整版"
+title: "经典VC 60中文企业版带SP6完整版"
 date:   2023-11-28
 tags: [C++,6.0,SP6,安装程序,中文]
 comments: true

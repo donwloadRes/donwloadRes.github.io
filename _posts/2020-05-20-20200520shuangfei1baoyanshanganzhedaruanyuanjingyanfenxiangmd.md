@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双非1%保研上岸浙大软院经验分享"
+title: "双非1保研上岸浙大软院经验分享"
 date:   2021-06-24
 tags: [保研,分享,双非,作者,准备]
 comments: true

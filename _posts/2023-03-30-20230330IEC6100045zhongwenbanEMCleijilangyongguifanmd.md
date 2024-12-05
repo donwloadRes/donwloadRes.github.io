@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61000-4-5 中文版 - EMC雷击浪涌规范"
+title: "IEC6100045 中文版  EMC雷击浪涌规范"
 date:   2024-02-18
 tags: [雷击,浪涌,雷电,击中,EMC]
 comments: true

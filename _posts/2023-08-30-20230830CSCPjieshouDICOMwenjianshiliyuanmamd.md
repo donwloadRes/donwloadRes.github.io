@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SCP接收DICOM文件实例源码"
+title: "C SCP接收DICOM文件实例源码"
 date:   2024-10-29
 tags: [DICOM,源码,SCP,SQLite,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_152 Windows 64位安装与配置指南"
+title: "JDK 180152 Windows 64位安装与配置指南"
 date:   2022-01-31
 tags: [安装,152,64,Java,JAVA]
 comments: true

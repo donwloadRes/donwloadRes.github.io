@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习前置知识》配套数据集"
+title: "机器学习前置知识配套数据集"
 date:   2020-06-04
 tags: [数据,练习,文件,csv,CSV]
 comments: true

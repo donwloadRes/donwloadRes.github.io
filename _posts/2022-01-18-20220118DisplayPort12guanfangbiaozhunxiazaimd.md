@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort 1.2 官方标准下载"
+title: "DisplayPort 12 官方标准下载"
 date:   2021-06-02
 tags: [DisplayPort,1.2,接口,文档,官方]
 comments: true

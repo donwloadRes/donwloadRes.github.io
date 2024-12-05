@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STIV（时空图像测速）的Python河面测速"
+title: "STIV时空图像测速的Python河面测速"
 date:   2021-05-10
 tags: [Python,测速,STIV,图像,河面]
 comments: true

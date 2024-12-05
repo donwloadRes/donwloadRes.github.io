@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新TAROT塔罗牌修复版源码+占卜+爱情+预测+事业+对接个人免签支付"
+title: "最新TAROT塔罗牌修复版源码占卜爱情预测事业对接个人免签支付"
 date:   2020-07-19
 tags: [塔罗牌,源码,修复,占卜,支付]
 comments: true

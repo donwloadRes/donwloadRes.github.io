@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XCOM 2.6 版本串口调试助手"
+title: "XCOM 26 版本串口调试助手"
 date:   2023-05-29
 tags: [串口,调试,XCOM,2.6,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件项目验收报告-模板(全)"
+title: "软件项目验收报告模板全"
 date:   2024-02-05
 tags: [项目,模板,软件,验收,验收报告]
 comments: true

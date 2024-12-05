@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浙大中控DCS JX-300X OPC Server软件下载"
+title: "浙大中控DCS JX300X OPC Server软件下载"
 date:   2022-03-18
 tags: [中控,OPC,浙大,DCS,JX]
 comments: true

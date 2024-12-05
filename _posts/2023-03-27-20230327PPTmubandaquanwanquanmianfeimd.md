@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPT模板大全，完全免费"
+title: "PPT模板大全完全免费"
 date:   2021-06-10
 tags: [模板,PPT,完全免费,仓库,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT6911UXC HDMI2.0 转 MIPI 转换器文档"
+title: "LT6911UXC HDMI20 转 MIPI 转换器文档"
 date:   2022-07-28
 tags: [MIPI,HDMI2.0,LT6911UXC,文档,转换器]
 comments: true

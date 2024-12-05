@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生成绩管理系统（JAVA课程设计）"
+title: "学生成绩管理系统JAVA课程设计"
 date:   2023-12-14
 tags: [界面,JAVA,成绩,控制台,录入]
 comments: true

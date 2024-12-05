@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固体物理学（黄昆 著）资源下载"
+title: "固体物理学黄昆 著资源下载"
 date:   2022-10-14
 tags: [黄昆,固体,物理学,资源,下载]
 comments: true

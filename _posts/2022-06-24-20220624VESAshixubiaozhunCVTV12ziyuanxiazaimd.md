@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA 时序标准 CVT V1.2 资源下载"
+title: "VESA 时序标准 CVT V12 资源下载"
 date:   2021-01-11
 tags: [VESA,时序,CVT,V1.2,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "切割刨切Shader插件 v2.6"
+title: "切割刨切Shader插件 v26"
 date:   2022-10-19
 tags: [Shader,插件,刨切,示例,切割]
 comments: true

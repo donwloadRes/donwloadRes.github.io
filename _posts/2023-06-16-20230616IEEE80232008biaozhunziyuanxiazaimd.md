@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3 2008标准资源下载"
+title: "IEEE 8023 2008标准资源下载"
 date:   2024-03-17
 tags: [IEEE,802.3,标准,以太网,2008]
 comments: true

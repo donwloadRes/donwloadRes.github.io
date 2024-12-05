@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "svn下载与安装（内含汉化，亲测可用）"
+title: "svn下载与安装内含汉化亲测可用"
 date:   2020-07-09
 tags: [SVN,安装,下载,汉化包,版本控制]
 comments: true

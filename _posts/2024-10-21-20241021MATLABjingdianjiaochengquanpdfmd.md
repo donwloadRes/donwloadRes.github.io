@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB经典教程(全).pdf"
+title: "MATLAB经典教程全pdf"
 date:   2022-03-12
 tags: [MATLAB,pdf,教程,经典,编程]
 comments: true

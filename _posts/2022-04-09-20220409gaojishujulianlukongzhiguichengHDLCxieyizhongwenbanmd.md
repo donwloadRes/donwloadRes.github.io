@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高级数据链路控制规程（HDLC）协议中文版"
+title: "高级数据链路控制规程HDLC协议中文版"
 date:   2023-07-15
 tags: [HDLC,数据链,协议,控制,规程]
 comments: true

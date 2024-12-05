@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神经网络与深度学习：MNIST数据集与卷积神经网络手写数字识别"
+title: "神经网络与深度学习MNIST数据集与卷积神经网络手写数字识别"
 date:   2021-06-22
 tags: [神经网络,MNIST,卷积,模型,文件]
 comments: true

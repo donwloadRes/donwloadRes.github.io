@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Web程序设计任务教程源码（黑马程序员）"
+title: "Java Web程序设计任务教程源码黑马程序员"
 date:   2024-08-18
 tags: [Java,Web,源码,程序员,黑马]
 comments: true

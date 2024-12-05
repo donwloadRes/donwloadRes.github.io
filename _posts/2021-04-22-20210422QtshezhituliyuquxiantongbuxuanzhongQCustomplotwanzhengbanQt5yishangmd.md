@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt设置图例与曲线同步选中 QCustomplot完整版(Qt5以上)"
+title: "Qt设置图例与曲线同步选中 QCustomplot完整版Qt5以上"
 date:   2023-08-08
 tags: [图例,Qt,示例,Qt5,QCustomPlot]
 comments: true

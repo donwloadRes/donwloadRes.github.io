@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB-Z 299B-1998 电子设计可靠性预计手册"
+title: "GJBZ 299B1998 电子设计可靠性预计手册"
 date:   2023-03-22
 tags: [可靠性,电子设计,手册,1998,预计]
 comments: true

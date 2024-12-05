@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值分析（李庆扬第五版）完美课件"
+title: "数值分析李庆扬第五版完美课件"
 date:   2024-09-02
 tags: [课件,数值,分析,第五版,李庆扬]
 comments: true

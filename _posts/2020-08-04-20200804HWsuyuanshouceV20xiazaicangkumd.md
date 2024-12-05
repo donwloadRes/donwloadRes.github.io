@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HW溯源手册V2.0 下载仓库"
+title: "HW溯源手册V20 下载仓库"
 date:   2022-06-19
 tags: [HW,溯源,手册,V2.0,下载]
 comments: true

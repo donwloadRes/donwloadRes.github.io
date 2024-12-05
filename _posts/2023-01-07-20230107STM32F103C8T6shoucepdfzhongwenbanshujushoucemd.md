@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6手册.pdf - 中文版数据手册"
+title: "STM32F103C8T6手册pdf  中文版数据手册"
 date:   2020-09-23
 tags: [STM32F103C8T6,手册,pdf,STM32,PDF]
 comments: true

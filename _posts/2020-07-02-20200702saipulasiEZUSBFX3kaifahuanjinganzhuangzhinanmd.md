@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛普拉斯EZ-USB FX3开发环境安装指南"
+title: "赛普拉斯EZUSB FX3开发环境安装指南"
 date:   2021-01-27
 tags: [FX3,USB,开发,示例,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DG不确定性下基于随机对偶动态规划(SDDP)的储能实时优化调度"
+title: "DG不确定性下基于随机对偶动态规划SDDP的储能实时优化调度"
 date:   2021-01-01
 tags: [调度,随机,SDDP,Matlab,规划]
 comments: true

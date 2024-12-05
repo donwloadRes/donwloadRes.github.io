@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信(Digital Communication)第五版 By Proakis 资源下载"
+title: "数字通信Digital Communication第五版 By Proakis 资源下载"
 date:   2021-10-14
 tags: [数字通信,第五版,电子版,下载,资源]
 comments: true

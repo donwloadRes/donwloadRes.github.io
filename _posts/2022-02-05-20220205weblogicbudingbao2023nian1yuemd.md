@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "weblogic补丁包（2023年1月）"
+title: "weblogic补丁包2023年1月"
 date:   2024-04-14
 tags: [补丁,WebLogic,补丁包,Server,12.2]
 comments: true

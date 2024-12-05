@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术基础：系统方法"
+title: "模拟电子技术基础系统方法"
 date:   2023-08-08
 tags: [电子,模拟,技术,电气工程,方法]
 comments: true

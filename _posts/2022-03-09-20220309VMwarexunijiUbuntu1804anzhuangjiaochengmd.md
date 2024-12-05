@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机Ubuntu 18.04安装教程"
+title: "VMware虚拟机Ubuntu 1804安装教程"
 date:   2022-12-08
 tags: [教程,虚拟机,安装,VMware,Ubuntu]
 comments: true

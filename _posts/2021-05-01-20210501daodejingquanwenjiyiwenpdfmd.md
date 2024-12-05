@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "道德经》全文及译文.pdf"
+title: "道德经全文及译文pdf"
 date:   2020-02-10
 tags: [道德经,译文,全文,pdf,智慧]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "划痕、油污、瑕疵检测"
+title: "划痕油污瑕疵检测"
 date:   2021-06-27
 tags: [检测,划痕,油污,瑕疵,算子]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "影院票务系统 - Django框架实现"
+title: "影院票务系统  Django框架实现"
 date:   2022-08-06
 tags: [Django,bash,py,管理员,票务]
 comments: true

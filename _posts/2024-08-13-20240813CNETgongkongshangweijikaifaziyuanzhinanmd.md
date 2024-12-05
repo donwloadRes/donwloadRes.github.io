@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .NET工控上位机开发资源指南"
+title: "C NET工控上位机开发资源指南"
 date:   2024-02-29
 tags: [工控,NET,C#,上位,仓库]
 comments: true

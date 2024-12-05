@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVG编辑器Qt加C++实现，可放缩的矢量图形编辑器"
+title: "SVG编辑器Qt加C实现可放缩的矢量图形编辑器"
 date:   2021-11-11
 tags: [图形,SVG,Qt,编辑器,放缩]
 comments: true

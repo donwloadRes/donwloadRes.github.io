@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSIM 9.1.4 破解版资源下载"
+title: "PSIM 914 破解版资源下载"
 date:   2023-08-07
 tags: [软件,解压,下载,文档,PSIM]
 comments: true

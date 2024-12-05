@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot整合MyBatis-Plus实现多数据源动态切换及分页查询"
+title: "SpringBoot整合MyBatisPlus实现多数据源动态切换及分页查询"
 date:   2022-10-05
 tags: [数据源,分页,SpringBoot,MyBatis,Plus]
 comments: true

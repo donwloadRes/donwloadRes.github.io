@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习——线性回归资源文件介绍"
+title: "机器学习线性回归资源文件介绍"
 date:   2024-08-12
 tags: [回归,线性,模型,文件,介绍]
 comments: true

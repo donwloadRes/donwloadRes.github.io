@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flannel-cni-plugin v1.4.1 镜像文件"
+title: "flannelcniplugin v141 镜像文件"
 date:   2024-05-05
 tags: [flannel,cni,CNI,name,v1.4]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vuforia Engine 9.8 及 VuforiaObjectScanner-9.8.6 资源文件"
+title: "Vuforia Engine 98 及 VuforiaObjectScanner986 资源文件"
 date:   2023-10-04
 tags: [9.8,Vuforia,VuforiaObjectScanner,Unity,Engine]
 comments: true

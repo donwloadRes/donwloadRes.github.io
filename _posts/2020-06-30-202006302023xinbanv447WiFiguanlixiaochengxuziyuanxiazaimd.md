@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 新版 v4.47 Wi-Fi 管理小程序资源下载"
+title: "2023 新版 v447 WiFi 管理小程序资源下载"
 date:   2024-06-17
 tags: [优化,后台,功能,Wi,Fi]
 comments: true

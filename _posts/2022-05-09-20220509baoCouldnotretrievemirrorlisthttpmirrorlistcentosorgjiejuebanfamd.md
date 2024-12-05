@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "报Could not retrieve mirrorlist http:--mirrorlist.centos.org-解决办法"
+title: "报Could not retrieve mirrorlist httpmirrorlistcentosorg解决办法"
 date:   2023-10-19
 tags: [CentOS,yum,mirrorlist,centos,releasever]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue + Neo4j 纯前端实现知识图谱集成"
+title: "Vue  Neo4j 纯前端实现知识图谱集成"
 date:   2023-08-29
 tags: [Neo4j,数据库,前端,图谱,Neovis]
 comments: true

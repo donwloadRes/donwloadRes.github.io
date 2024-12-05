@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQT5 Designer 5.15.0 汉化指南"
+title: "PyQT5 Designer 5150 汉化指南"
 date:   2024-07-28
 tags: [PyQT5,Designer,汉化,5.15,界面]
 comments: true

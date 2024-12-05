@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dbeaver连接达梦数据库教程（图文版）"
+title: "Dbeaver连接达梦数据库教程图文版"
 date:   2022-10-21
 tags: [数据库,Dbeaver,连接,达梦,驱动]
 comments: true

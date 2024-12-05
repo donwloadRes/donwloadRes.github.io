@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXI 6.5 安装指南"
+title: "VMware ESXI 65 安装指南"
 date:   2024-08-10
 tags: [ESXI,6.5,安装,VMware,U盘]
 comments: true

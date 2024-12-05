@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "net-tools 工具包下载"
+title: "nettools 工具包下载"
 date:   2021-12-14
 tags: [net,tools,x86,64,RPM]
 comments: true

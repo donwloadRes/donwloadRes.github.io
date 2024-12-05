@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue Devtools 6.14 CRX 文件下载"
+title: "Vue Devtools 614 CRX 文件下载"
 date:   2020-11-18
 tags: [Vue,Devtools,6.14,文件,浏览器]
 comments: true

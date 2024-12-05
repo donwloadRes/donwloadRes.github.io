@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2024 最新]Navicat 16 安装指南：轻松掌握强大数据库管理工具"
+title: "2024 最新Navicat 16 安装指南轻松掌握强大数据库管理工具"
 date:   2023-10-16
 tags: [Navicat,16,指南,安装,用户]
 comments: true

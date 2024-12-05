@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模电实验报告：函数信号发生器设计"
+title: "模电实验报告函数信号发生器设计"
 date:   2021-12-10
 tags: [电路,实验报告,发生器,信号,函数]
 comments: true

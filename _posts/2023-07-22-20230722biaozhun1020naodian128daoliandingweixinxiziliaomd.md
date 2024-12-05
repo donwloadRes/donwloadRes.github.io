@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "标准10-20脑电128导联定位信息资料"
+title: "标准1020脑电128导联定位信息资料"
 date:   2024-03-12
 tags: [脑电,10,导联,文件,采集]
 comments: true

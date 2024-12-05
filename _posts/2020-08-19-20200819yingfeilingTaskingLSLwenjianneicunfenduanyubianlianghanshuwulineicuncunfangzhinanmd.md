@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英飞凌Tasking LSL文件内存分段与变量-函数物理内存存放指南"
+title: "英飞凌Tasking LSL文件内存分段与变量函数物理内存存放指南"
 date:   2021-11-18
 tags: [LSL,文件,内存,代码,英飞凌]
 comments: true

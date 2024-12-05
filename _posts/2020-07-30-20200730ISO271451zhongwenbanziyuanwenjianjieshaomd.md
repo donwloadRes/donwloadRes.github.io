@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO27145_1-中文版资源文件介绍"
+title: "ISO271451中文版资源文件介绍"
 date:   2020-02-16
 tags: [OBD,中文版,ISO27145,文件,rar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现点击添加图片，并在图片上画线、矩形、圆"
+title: "Qt实现点击添加图片并在图片上画线矩形圆"
 date:   2023-10-07
 tags: [Qt,图片,画线,用户,矩形]
 comments: true

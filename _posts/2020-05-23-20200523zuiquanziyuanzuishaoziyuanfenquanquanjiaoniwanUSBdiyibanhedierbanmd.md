@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全资源最少资源分圈圈教你玩USB(第一版和第二版)》"
+title: "最全资源最少资源分圈圈教你玩USB第一版和第二版"
 date:   2021-03-26
 tags: [USB,下载,资源,第一版,圈圈]
 comments: true

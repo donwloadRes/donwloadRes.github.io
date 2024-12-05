@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2015 Redistributable 下载仓库"
+title: "Microsoft Visual C 2015 Redistributable 下载仓库"
 date:   2024-02-11
 tags: [Microsoft,Visual,C++,2015,Redistributable]
 comments: true

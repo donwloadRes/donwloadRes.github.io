@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小二乘支持向量机(LSSVM) Matlab 代码资源"
+title: "最小二乘支持向量机LSSVM Matlab 代码资源"
 date:   2023-01-24
 tags: [代码,二乘,LSSVM,向量,Matlab]
 comments: true

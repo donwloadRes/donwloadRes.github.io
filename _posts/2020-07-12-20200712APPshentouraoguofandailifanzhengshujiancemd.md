@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APP渗透—绕过反代理、反证书检测"
+title: "APP渗透绕过反代理反证书检测"
 date:   2020-09-06
 tags: [APP,证书,绕过,代理,机制]
 comments: true

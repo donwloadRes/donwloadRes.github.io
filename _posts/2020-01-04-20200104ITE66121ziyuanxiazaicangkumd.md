@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITE-66121 资源下载仓库"
+title: "ITE66121 资源下载仓库"
 date:   2023-12-14
 tags: [ITE,66121,芯片,开发者,示例]
 comments: true

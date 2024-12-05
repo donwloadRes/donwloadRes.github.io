@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS广播星历计算卫星位置 - C++实现"
+title: "GPS广播星历计算卫星位置  C实现"
 date:   2024-01-28
 tags: [GPS,星历,卫星,C++,广播]
 comments: true

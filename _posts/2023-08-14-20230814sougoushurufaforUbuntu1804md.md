@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "搜狗输入法 for Ubuntu 18.04"
+title: "搜狗输入法 for Ubuntu 1804"
 date:   2024-04-09
 tags: [输入法,搜狗,Ubuntu,18.04,输入]
 comments: true

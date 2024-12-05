@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国计算机等级考试二级Python真题及解析(3)"
+title: "全国计算机等级考试二级Python真题及解析3"
 date:   2024-10-19
 tags: [Python,解析,真题,考试,等级]
 comments: true

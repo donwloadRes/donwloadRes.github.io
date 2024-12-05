@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "香山开源高性能RISC-V处理器资源下载"
+title: "香山开源高性能RISCV处理器资源下载"
 date:   2020-07-06
 tags: [RISC,开源,处理器,香山,高性能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF设计UI框架：MaterialDesign 资源下载"
+title: "WPF设计UI框架MaterialDesign 资源下载"
 date:   2024-11-22
 tags: [UI,WPF,MaterialDesign,Demo,框架]
 comments: true

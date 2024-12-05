@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python资源文件下载"
+title: "OpenCVPython资源文件下载"
 date:   2022-04-23
 tags: [OpenCV,Python,下载,文件,4.5]
 comments: true

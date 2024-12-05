@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathcad-LLC计算及验证资源文件"
+title: "MathcadLLC计算及验证资源文件"
 date:   2024-02-24
 tags: [Mathcad,LLC,example,验证,计算]
 comments: true

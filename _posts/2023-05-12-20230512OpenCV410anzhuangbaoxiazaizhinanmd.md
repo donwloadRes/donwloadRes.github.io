@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.10 安装包下载指南"
+title: "OpenCV 410 安装包下载指南"
 date:   2021-11-15
 tags: [安装包,百度网,地址,下载,OpenCV]
 comments: true

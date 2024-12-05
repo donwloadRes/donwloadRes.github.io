@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NI-XNET 样例程序"
+title: "NIXNET 样例程序"
 date:   2022-09-27
 tags: [NI,XNET,样例,LIN,FlexRay]
 comments: true

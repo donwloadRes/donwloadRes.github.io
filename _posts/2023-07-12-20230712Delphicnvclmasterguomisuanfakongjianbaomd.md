@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi cnvcl-master 国密算法控件包"
+title: "Delphi cnvclmaster 国密算法控件包"
 date:   2020-10-01
 tags: [Delphi,国密,期包,算法,组件]
 comments: true

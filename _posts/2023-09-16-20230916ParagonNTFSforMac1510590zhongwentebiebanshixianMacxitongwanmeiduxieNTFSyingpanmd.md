@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paragon NTFS for Mac 15.10.590 中文特别版 —— 实现Mac系统完美读写NTFS硬盘"
+title: "Paragon NTFS for Mac 1510590 中文特别版  实现Mac系统完美读写NTFS硬盘"
 date:   2024-10-25
 tags: [Mac,NTFS,硬盘,特别版,Paragon]
 comments: true

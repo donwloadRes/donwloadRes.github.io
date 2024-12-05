@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ssm小型超市管理系统（源码+数据库）011136"
+title: "ssm小型超市管理系统源码数据库011136"
 date:   2020-12-21
 tags: [管理员,改查,增删,商品销售,模块]
 comments: true

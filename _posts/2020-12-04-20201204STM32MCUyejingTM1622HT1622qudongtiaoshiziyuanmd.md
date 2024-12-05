@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 MCU液晶TM1622-HT1622驱动调试资源"
+title: "STM32 MCU液晶TM1622HT1622驱动调试资源"
 date:   2020-01-26
 tags: [STM32,TM1622,HT1622,驱动,硬件]
 comments: true

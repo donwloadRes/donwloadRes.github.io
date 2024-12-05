@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易飞9.0.8注册资源下载"
+title: "易飞908注册资源下载"
 date:   2022-12-22
 tags: [9.0,注册,易飞,版本,资源]
 comments: true

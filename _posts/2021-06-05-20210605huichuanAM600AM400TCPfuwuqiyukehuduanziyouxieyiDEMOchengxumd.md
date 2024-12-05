@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川AM600_AM400 TCP服务器与客户端自由协议DEMO程序"
+title: "汇川AM600AM400 TCP服务器与客户端自由协议DEMO程序"
 date:   2024-05-06
 tags: [汇川,DEMO,AM600,TCP,PLC]
 comments: true

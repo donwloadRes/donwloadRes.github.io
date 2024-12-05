@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USB HID+CDC 鼠标键盘串口 组合设备配置解析"
+title: "STM32 USB HIDCDC 鼠标键盘串口 组合设备配置解析"
 date:   2024-03-13
 tags: [USB,CDC,配置,HID,设备]
 comments: true

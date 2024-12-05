@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "读书笔记-EMC电磁兼容设计与测试案例分析（第2版）"
+title: "读书笔记EMC电磁兼容设计与测试案例分析第2版"
 date:   2021-03-27
 tags: [知识点,EMC,电磁兼容,测试,笔记]
 comments: true

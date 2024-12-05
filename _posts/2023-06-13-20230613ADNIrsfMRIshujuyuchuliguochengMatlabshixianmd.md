@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADNI rs-fMRI数据预处理过程（Matlab实现）"
+title: "ADNI rsfMRI数据预处理过程Matlab实现"
 date:   2021-07-26
 tags: [ADNI,预处理,fMRI,文档,rs]
 comments: true

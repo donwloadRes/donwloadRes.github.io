@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记（6）——4G Cat.1模块EC200S使用"
+title: "STM32F103学习笔记64G Cat1模块EC200S使用"
 date:   2020-04-24
 tags: [模块,EC200S,STM32F103,4G,网络]
 comments: true

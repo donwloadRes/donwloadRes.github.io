@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA开发实用教程（第2版）下载"
+title: "Xilinx FPGA开发实用教程第2版下载"
 date:   2020-07-24
 tags: [FPGA,实用教程,Xilinx,文波,田耘]
 comments: true

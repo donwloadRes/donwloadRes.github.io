@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Reactor 6.5 资源下载及使用指南"
+title: "NET Reactor 65 资源下载及使用指南"
 date:   2021-08-23
 tags: [NET,应用程序,保护,授权,Reactor]
 comments: true

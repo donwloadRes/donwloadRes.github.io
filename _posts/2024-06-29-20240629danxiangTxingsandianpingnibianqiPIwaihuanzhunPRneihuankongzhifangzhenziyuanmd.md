@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单相T-型三电平逆变器PI外环准PR内环控制仿真资源"
+title: "单相T型三电平逆变器PI外环准PR内环控制仿真资源"
 date:   2023-11-12
 tags: [仿真,PR,Simulink,Function,版本]
 comments: true

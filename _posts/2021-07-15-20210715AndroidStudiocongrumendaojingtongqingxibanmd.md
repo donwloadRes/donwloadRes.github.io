@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio从入门到精通_清晰版"
+title: "Android Studio从入门到精通清晰版"
 date:   2021-08-31
 tags: [Android,Studio,教程,入门,清晰版]
 comments: true

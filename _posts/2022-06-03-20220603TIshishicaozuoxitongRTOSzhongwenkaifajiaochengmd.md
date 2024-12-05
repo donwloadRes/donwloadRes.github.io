@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI实时操作系统（RTOS）中文开发教程"
+title: "TI实时操作系统RTOS中文开发教程"
 date:   2024-03-03
 tags: [RTOS,教程,TI,中断,开发者]
 comments: true

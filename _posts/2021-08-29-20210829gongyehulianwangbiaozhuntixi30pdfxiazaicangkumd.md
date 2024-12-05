@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业互联网标准体系3.0.pdf 下载仓库"
+title: "工业互联网标准体系30pdf 下载仓库"
 date:   2023-02-26
 tags: [互联网,工业,3.0,pdf,5G]
 comments: true

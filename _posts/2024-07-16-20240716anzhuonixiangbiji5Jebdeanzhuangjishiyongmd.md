@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓逆向笔记（5）——Jeb的安装及使用"
+title: "安卓逆向笔记5Jeb的安装及使用"
 date:   2024-09-04
 tags: [Jeb,安卓,逆向,安装,反编译]
 comments: true

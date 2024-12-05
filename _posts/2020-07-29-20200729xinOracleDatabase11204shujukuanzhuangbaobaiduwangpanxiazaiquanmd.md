@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新Oracle Database 11.2.0.4 数据库安装包百度网盘下载（全）"
+title: "新Oracle Database 11204 数据库安装包百度网盘下载全"
 date:   2024-06-28
 tags: [Linux,p13390677,112040,x86,64]
 comments: true

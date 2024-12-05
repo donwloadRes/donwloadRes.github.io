@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康相机C#二次开发资源文件"
+title: "海康相机C二次开发资源文件"
 date:   2024-02-09
 tags: [海康,相机,C#,示例,二次开发]
 comments: true

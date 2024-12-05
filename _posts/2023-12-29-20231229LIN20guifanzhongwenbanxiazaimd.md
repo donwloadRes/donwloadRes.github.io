@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN2.0规范中文版下载"
+title: "LIN20规范中文版下载"
 date:   2021-12-10
 tags: [LIN2.0,文档,中文版,规范,pdf]
 comments: true

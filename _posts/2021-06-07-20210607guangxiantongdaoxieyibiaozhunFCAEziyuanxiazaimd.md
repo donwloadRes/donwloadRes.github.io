@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光纤通道协议标准FC-AE资源下载"
+title: "光纤通道协议标准FCAE资源下载"
 date:   2020-03-07
 tags: [FC,AE,光纤,标准,通道]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐一款实时翻译软件，通过鼠标进行翻译，小巧实用"
+title: "推荐一款实时翻译软件通过鼠标进行翻译小巧实用"
 date:   2021-12-19
 tags: [翻译,软件,鼠标,实时,Ctrl]
 comments: true

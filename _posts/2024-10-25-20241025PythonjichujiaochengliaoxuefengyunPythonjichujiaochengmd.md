@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基础教程廖雪峰云-Python基础教程"
+title: "Python基础教程廖雪峰云Python基础教程"
 date:   2024-02-23
 tags: [Python,脚本,基础教程,python,usr]
 comments: true

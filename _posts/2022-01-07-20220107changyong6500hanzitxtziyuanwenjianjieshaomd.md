@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用6500汉字（txt）资源文件介绍"
+title: "常用6500汉字txt资源文件介绍"
 date:   2023-11-26
 tags: [6500,TextMesh,Pro,字体,txt]
 comments: true

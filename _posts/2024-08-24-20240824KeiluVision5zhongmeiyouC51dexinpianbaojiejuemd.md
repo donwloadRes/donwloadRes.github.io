@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision5中没有C51的芯片包——解决"
+title: "Keil uVision5中没有C51的芯片包解决"
 date:   2023-12-26
 tags: [C51,Keil,uVision5,芯片,安装]
 comments: true

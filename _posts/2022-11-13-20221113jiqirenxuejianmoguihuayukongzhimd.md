@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学：建模、规划与控制"
+title: "机器人学建模规划与控制"
 date:   2021-08-31
 tags: [机器人学,建模,机器人,规划,读者]
 comments: true

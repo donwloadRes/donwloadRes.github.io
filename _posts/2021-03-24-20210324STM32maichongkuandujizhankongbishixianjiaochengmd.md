@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32脉冲宽度计（占空比）实现教程"
+title: "STM32脉冲宽度计占空比实现教程"
 date:   2024-11-28
 tags: [占空比,STM32F107VC,STM32CubeIDE,脉冲,宽度]
 comments: true

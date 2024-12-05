@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXi8.0 虚拟机安装黑群晖7.1.1 资源文件介绍"
+title: "ESXi80 虚拟机安装黑群晖711 资源文件介绍"
 date:   2020-09-11
 tags: [虚拟机,ESXi8.0,黑群晖,7.1,引导文件]
 comments: true

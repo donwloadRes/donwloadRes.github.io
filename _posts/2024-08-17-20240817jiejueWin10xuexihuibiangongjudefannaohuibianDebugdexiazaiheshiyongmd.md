@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10学习汇编工具的烦恼——汇编Debug的下载和使用"
+title: "解决Win10学习汇编工具的烦恼汇编Debug的下载和使用"
 date:   2020-03-10
 tags: [Debug,汇编,工具,DOSBox,exe]
 comments: true

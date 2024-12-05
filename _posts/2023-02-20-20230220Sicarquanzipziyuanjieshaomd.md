@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sicar 全.zip 资源介绍"
+title: "Sicar 全zip 资源介绍"
 date:   2024-11-05
 tags: [Sicar,zip,资源,PLC,HMI]
 comments: true

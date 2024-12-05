@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源Qt 2D地图库 - opmapcontrol"
+title: "开源Qt 2D地图库  opmapcontrol"
 date:   2021-05-02
 tags: [opmapcontrol,地图,开源,Qt,项目]
 comments: true

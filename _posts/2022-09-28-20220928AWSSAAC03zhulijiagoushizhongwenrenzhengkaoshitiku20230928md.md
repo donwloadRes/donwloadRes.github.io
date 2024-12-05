@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWS-SAA-C03 助理架构师中文认证考试题库 (20230928)"
+title: "AWSSAAC03 助理架构师中文认证考试题库 20230928"
 date:   2021-11-03
 tags: [AWS,题库,考试,SAA,C03]
 comments: true

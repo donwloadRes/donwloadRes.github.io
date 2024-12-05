@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 .NET Framework 3.5 离线安装包"
+title: "Win10 NET Framework 35 离线安装包"
 date:   2021-03-21
 tags: [安装,Win10,NET,Framework,3.5]
 comments: true

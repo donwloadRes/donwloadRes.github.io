@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CST入门操作教程（详细版）"
+title: "CST入门操作教程详细版"
 date:   2020-02-05
 tags: [CST,教程,入门,学习,软件]
 comments: true

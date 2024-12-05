@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "各种变压器封装库（3D封装文件+原理图文件）"
+title: "各种变压器封装库3D封装文件原理图文件"
 date:   2022-05-30
 tags: [封装,变压器,原理图,3D,PCB]
 comments: true

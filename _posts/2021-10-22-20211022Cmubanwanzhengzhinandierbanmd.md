@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 模板：完整指南 第二版"
+title: "C 模板完整指南 第二版"
 date:   2021-02-01
 tags: [C++,模板,语言,特性,指南]
 comments: true

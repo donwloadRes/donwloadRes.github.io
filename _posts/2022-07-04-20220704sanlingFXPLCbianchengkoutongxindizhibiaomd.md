@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱FX-PLC编程口通信地址表"
+title: "三菱FXPLC编程口通信地址表"
 date:   2020-01-06
 tags: [PLC,FX,编程,通信地址,三菱]
 comments: true

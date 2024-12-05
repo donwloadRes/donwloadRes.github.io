@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5-7.0 实例分割模型转换与推理指南"
+title: "YOLOv570 实例分割模型转换与推理指南"
 date:   2022-05-27
 tags: [推理,RKNN,模型,代码,转换]
 comments: true

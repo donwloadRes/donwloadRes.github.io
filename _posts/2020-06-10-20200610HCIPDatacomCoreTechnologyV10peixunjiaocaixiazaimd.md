@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Datacom-Core+Technology+V1.0 培训教材下载"
+title: "HCIPDatacomCoreTechnologyV10 培训教材下载"
 date:   2021-01-01
 tags: [HCIP,培训教材,Datacom,数据通信,Core]
 comments: true

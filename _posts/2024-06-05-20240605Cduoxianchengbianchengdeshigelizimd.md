@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++多线程编程的十个例子"
+title: "C多线程编程的十个例子"
 date:   2023-10-19
 tags: [示例,多线程,编程,C++,线程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTP时钟同步程序 - Windows C++ MFC 毫秒级时钟同步"
+title: "PTP时钟同步程序  Windows C MFC 毫秒级时钟同步"
 date:   2022-02-27
 tags: [时钟,程序,同步,毫秒,PTP]
 comments: true

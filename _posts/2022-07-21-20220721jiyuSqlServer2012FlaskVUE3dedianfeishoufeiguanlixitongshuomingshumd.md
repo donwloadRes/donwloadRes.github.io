@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SqlServer2012+Flask+VUE3的电费收费管理系统说明书"
+title: "基于SqlServer2012FlaskVUE3的电费收费管理系统说明书"
 date:   2020-08-25
 tags: [Flask,数据库,Vue,文档,前端]
 comments: true

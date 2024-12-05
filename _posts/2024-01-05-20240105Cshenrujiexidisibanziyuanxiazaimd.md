@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 深入解析 第四版 资源下载"
+title: "C 深入解析 第四版 资源下载"
 date:   2022-02-16
 tags: [C#,第四版,解析,深入,Jon]
 comments: true

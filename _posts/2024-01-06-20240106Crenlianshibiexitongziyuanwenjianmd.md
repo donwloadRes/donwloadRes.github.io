@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++人脸识别系统资源文件"
+title: "C人脸识别系统资源文件"
 date:   2023-10-19
 tags: [源代码,文档,人脸识别,C++,测试数据]
 comments: true

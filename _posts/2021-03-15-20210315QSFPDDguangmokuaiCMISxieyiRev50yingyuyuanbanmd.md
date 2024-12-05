@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QSFP-DD 光模块 CMIS 协议 Rev 5.0 英语原版"
+title: "QSFPDD 光模块 CMIS 协议 Rev 50 英语原版"
 date:   2024-05-29
 tags: [模块,CMIS,协议,英语,原版]
 comments: true

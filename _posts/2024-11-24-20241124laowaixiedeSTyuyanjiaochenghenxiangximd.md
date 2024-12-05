@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老外写的ST语言教程-很详细"
+title: "老外写的ST语言教程很详细"
 date:   2022-06-02
 tags: [教程,ST,老外,语言,详细]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "源码基于.Net6使用YoloV8的分割模型"
+title: "源码基于Net6使用YoloV8的分割模型"
 date:   2020-03-27
 tags: [YoloV8,模型,分割,图像,源码]
 comments: true

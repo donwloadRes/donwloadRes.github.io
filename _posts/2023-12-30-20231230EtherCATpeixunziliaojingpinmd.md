@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT培训资料【精品】"
+title: "EtherCAT培训资料精品"
 date:   2023-12-07
 tags: [EtherCAT,以太网,培训资料,系统,技术]
 comments: true

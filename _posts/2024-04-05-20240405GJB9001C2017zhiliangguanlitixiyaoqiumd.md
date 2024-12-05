@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 9001C-2017 质量管理体系要求"
+title: "GJB 9001C2017 质量管理体系要求"
 date:   2021-06-24
 tags: [质量,管理体系,GJB,9001C,2017]
 comments: true

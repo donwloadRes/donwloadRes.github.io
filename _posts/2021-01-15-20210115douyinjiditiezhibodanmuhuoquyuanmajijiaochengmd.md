@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抖音挤地铁 - 直播弹幕获取源码及教程"
+title: "抖音挤地铁  直播弹幕获取源码及教程"
 date:   2020-03-27
 tags: [弹幕,抖音,获取,安装,解压]
 comments: true

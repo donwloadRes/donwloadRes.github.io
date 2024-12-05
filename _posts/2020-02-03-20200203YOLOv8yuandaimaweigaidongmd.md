@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8 源代码（未改动）"
+title: "YOLOv8 源代码未改动"
 date:   2021-07-22
 tags: [源代码,YOLOv8,https,com,your]
 comments: true

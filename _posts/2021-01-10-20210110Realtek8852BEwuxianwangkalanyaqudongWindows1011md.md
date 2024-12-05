@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek 8852BE无线网卡+蓝牙驱动 Windows 10-11"
+title: "Realtek 8852BE无线网卡蓝牙驱动 Windows 1011"
 date:   2024-09-18
 tags: [驱动程序,Windows,网卡,10,11]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Newtonsoft.Json.Compact 35r8 在 WinCE 上的使用指南"
+title: "NewtonsoftJsonCompact 35r8 在 WinCE 上的使用指南"
 date:   2020-11-21
 tags: [Newtonsoft,Json,WinCE,Compact,序列化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASS11.0.0.8 安装教程及下载说明"
+title: "CASS11008 安装教程及下载说明"
 date:   2024-10-31
 tags: [安装,CASS11.0,0.8,CASS,AutoCAD]
 comments: true

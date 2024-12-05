@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeFormer：人脸修复与视频去码AI软件"
+title: "CodeFormer人脸修复与视频去码AI软件"
 date:   2023-12-25
 tags: [视频,修复,CodeFormer,人脸,图像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码统计工具——SourceCounter"
+title: "代码统计工具SourceCounter"
 date:   2021-10-15
 tags: [统计,代码,SourceCounter,开发者,程序]
 comments: true

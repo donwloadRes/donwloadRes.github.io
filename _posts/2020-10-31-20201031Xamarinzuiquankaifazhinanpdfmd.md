@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xamarin最全开发指南.pdf"
+title: "Xamarin最全开发指南pdf"
 date:   2020-01-12
 tags: [Xamarin,开发者,开发,指南,最全]
 comments: true

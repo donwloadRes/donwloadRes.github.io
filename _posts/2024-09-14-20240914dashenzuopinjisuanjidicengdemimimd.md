@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大神作品-计算机底层的秘密"
+title: "大神作品计算机底层的秘密"
 date:   2022-02-02
 tags: [底层,计算机,CPU,编程,理解]
 comments: true

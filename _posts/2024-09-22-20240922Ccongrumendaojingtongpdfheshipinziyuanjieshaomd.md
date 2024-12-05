@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#从入门到精通》pdf 和视频资源介绍"
+title: "C从入门到精通pdf 和视频资源介绍"
 date:   2022-06-29
 tags: [C#,学习,PDF,视频,资源]
 comments: true

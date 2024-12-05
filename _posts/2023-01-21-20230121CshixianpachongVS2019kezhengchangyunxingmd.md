@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现爬虫 - VS2019可正常运行"
+title: "C实现爬虫  VS2019可正常运行"
 date:   2024-09-10
 tags: [爬虫,Visual,Studio,2019,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计-飞机大战小游戏（基于EasyX和Visual Studio）"
+title: "C语言程序设计飞机大战小游戏基于EasyX和Visual Studio"
 date:   2023-07-01
 tags: [游戏,体验,大战,射击,C语言]
 comments: true

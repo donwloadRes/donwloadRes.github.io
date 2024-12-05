@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5.8GHz 无线电发射器 RTC6705 资源下载"
+title: "58GHz 无线电发射器 RTC6705 资源下载"
 date:   2024-12-03
 tags: [5.8,RTC6705,原理图,GHz,发射器]
 comments: true

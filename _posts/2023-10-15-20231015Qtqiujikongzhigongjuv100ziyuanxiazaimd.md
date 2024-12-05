@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt球机控制工具 v1.0.0 资源下载"
+title: "Qt球机控制工具 v100 资源下载"
 date:   2024-03-21
 tags: [球机,v1.0,Qt,解压,下载]
 comments: true

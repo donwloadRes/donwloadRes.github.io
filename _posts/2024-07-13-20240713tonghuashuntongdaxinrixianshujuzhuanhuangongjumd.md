@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "同花顺-通达信日线数据转换工具"
+title: "同花顺通达信日线数据转换工具"
 date:   2020-06-29
 tags: [通达信,转换,同花顺,日线,拖动]
 comments: true

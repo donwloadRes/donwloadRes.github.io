@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSD文件编辑器 - GSD Editor"
+title: "GSD文件编辑器  GSD Editor"
 date:   2022-01-10
 tags: [GSD,文件,编辑,editor,编辑器]
 comments: true

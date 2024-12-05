@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacBook M1芯片 安装Centos8 教程（无界面安装）"
+title: "MacBook M1芯片 安装Centos8 教程无界面安装"
 date:   2022-01-10
 tags: [CentOS,安装,教程,M1,MacBook]
 comments: true

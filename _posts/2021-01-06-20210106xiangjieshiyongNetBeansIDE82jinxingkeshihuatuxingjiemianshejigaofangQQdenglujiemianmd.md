@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解使用NetBeans IDE 8.2进行可视化图形界面设计——高仿QQ登录界面"
+title: "详解使用NetBeans IDE 82进行可视化图形界面设计高仿QQ登录界面"
 date:   2020-12-23
 tags: [组件,添加,NetBeans,IDE,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于粒子群算法的无功优化MATLAB源代码 - IEEE30节点"
+title: "基于粒子群算法的无功优化MATLAB源代码  IEEE30节点"
 date:   2022-12-06
 tags: [MATLAB,优化,算法,源代码,电力系统]
 comments: true

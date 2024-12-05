@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口通信工具"
+title: "C串口通信工具"
 date:   2024-09-22
 tags: [串口,通信,C#,工具,项目]
 comments: true

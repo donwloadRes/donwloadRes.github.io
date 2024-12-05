@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GUI Guider 1.3.1-GA 资源文件介绍"
+title: "GUI Guider 131GA 资源文件介绍"
 date:   2023-01-24
 tags: [GUI,Guider,1.3,GA,LVGL]
 comments: true

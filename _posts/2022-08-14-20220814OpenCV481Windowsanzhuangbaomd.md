@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.1 Windows 安装包"
+title: "OpenCV 481 Windows 安装包"
 date:   2021-12-04
 tags: [4.8,OpenCV,安装包,安装,Windows]
 comments: true

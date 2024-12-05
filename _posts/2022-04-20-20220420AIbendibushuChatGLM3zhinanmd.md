@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+本地部署 ChatGLM3 指南"
+title: "AI本地部署 ChatGLM3 指南"
 date:   2023-04-20
 tags: [ChatGLM3,AI,模型,部署,6B]
 comments: true

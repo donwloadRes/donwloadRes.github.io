@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++语言课程设计参考题目（2023-06-25）"
+title: "CC语言课程设计参考题目20230625"
 date:   2023-02-05
 tags: [题目,代码,C++,课程设计,示例]
 comments: true

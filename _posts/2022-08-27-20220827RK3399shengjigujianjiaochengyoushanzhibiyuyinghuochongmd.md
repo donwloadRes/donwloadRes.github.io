@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3399升级固件教程：友善之臂与萤火虫"
+title: "RK3399升级固件教程友善之臂与萤火虫"
 date:   2021-11-04
 tags: [固件,教程,升级,RK3399,之臂]
 comments: true

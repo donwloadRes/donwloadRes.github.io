@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周立功CAN卡 C#二次开发指南"
+title: "周立功CAN卡 C二次开发指南"
 date:   2021-12-06
 tags: [C#,立功,二次开发,文档,开发]
 comments: true

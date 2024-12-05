@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue2 和 Vue3 + JS + TS 的 Three.js 项目集合"
+title: "Vue2 和 Vue3  JS  TS 的 Threejs 项目集合"
 date:   2020-02-20
 tags: [项目,Three,js,Vue,机台]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WordPress安装教程(图文)非常详细"
+title: "WordPress安装教程图文非常详细"
 date:   2021-08-17
 tags: [WordPress,教程,安装,详细,图文]
 comments: true

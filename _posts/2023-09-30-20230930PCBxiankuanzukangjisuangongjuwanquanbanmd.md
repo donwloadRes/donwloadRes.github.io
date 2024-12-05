@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB线宽阻抗计算工具（完全版）"
+title: "PCB线宽阻抗计算工具完全版"
 date:   2022-08-30
 tags: [PCB,线宽,阻抗,计算,设计]
 comments: true

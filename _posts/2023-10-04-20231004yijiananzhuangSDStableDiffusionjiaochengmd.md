@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键安装SD-Stable Diffusion教程"
+title: "一键安装SDStable Diffusion教程"
 date:   2020-09-10
 tags: [启动器,安装,Stable,Diffusion,一键]
 comments: true

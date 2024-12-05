@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机上搭建Linux--Ubuntu环境"
+title: "虚拟机上搭建LinuxUbuntu环境"
 date:   2024-03-07
 tags: [虚拟机,Ubuntu,安装,Linux,VMware]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱思唯尔系列期刊模板（Word版）"
+title: "爱思唯尔系列期刊模板Word版"
 date:   2023-02-20
 tags: [模板,期刊,Word,格式,提交]
 comments: true

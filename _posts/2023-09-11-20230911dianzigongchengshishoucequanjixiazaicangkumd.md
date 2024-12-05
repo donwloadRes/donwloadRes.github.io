@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子工程师手册(全集) 下载仓库"
+title: "电子工程师手册全集 下载仓库"
 date:   2021-07-26
 tags: [电子,技术,手册,工程师,应用]
 comments: true

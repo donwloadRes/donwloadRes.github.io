@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7-zip右键扩展tar.gz"
+title: "7zip右键扩展targz"
 date:   2022-05-01
 tags: [右键,zip,tar,gz,压缩]
 comments: true

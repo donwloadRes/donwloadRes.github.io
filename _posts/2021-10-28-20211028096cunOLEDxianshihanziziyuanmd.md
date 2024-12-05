@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸OLED显示汉字资源"
+title: "096寸OLED显示汉字资源"
 date:   2024-08-25
 tags: [汉字,OLED,字库文件,字库,显示]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产高品质音频芯片：CL7016 资源下载"
+title: "国产高品质音频芯片CL7016 资源下载"
 date:   2020-01-19
 tags: [音频芯片,CL7016,音频,高品质,立晶]
 comments: true

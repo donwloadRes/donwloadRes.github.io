@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机与拖动基础（第三版）- 高清扫描版资源"
+title: "电机与拖动基础第三版 高清扫描版资源"
 date:   2021-09-16
 tags: [拖动,电机,第三版,高清,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM实现时间序列预测(PyTorch版)"
+title: "LSTM实现时间序列预测PyTorch版"
 date:   2023-05-02
 tags: [LSTM,PyTorch,序列,维度,size]
 comments: true

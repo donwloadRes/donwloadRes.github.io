@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg实现录屏+录音"
+title: "FFmpeg实现录屏录音"
 date:   2021-06-13
 tags: [FFmpeg,录制,音频,屏幕,示例]
 comments: true

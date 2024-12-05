@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC-DMA 波形采集与电压测量"
+title: "ADCDMA 波形采集与电压测量"
 date:   2022-10-24
 tags: [波形,采集,ADC,DMA,电压]
 comments: true

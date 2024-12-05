@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#操作MySQL简易教程及示例代码"
+title: "C操作MySQL简易教程及示例代码"
 date:   2024-05-03
 tags: [MySQL,数据库,C#,示例,代码]
 comments: true

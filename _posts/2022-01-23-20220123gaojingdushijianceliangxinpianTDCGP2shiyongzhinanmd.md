@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高精度时间测量芯片TDC—GP2使用指南"
+title: "高精度时间测量芯片TDCGP2使用指南"
 date:   2023-06-23
 tags: [芯片,TDC,GP2,高精度,测量]
 comments: true

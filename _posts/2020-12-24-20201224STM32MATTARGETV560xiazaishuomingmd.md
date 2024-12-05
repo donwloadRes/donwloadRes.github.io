@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 MAT-TARGET V5.6.0 下载说明"
+title: "STM32 MATTARGET V560 下载说明"
 date:   2023-01-05
 tags: [STM32,MATLAB,V5.6,单片机,MAT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CleanMyMac 4 X for Mac v4.15.3 直装特别版 附安装教程"
+title: "CleanMyMac 4 X for Mac v4153 直装特别版 附安装教程"
 date:   2024-04-05
 tags: [Mac,清理,CleanMyMac,特别版,v4.15]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTA习题：数据结构与算法题目集1"
+title: "PTA习题数据结构与算法题目集1"
 date:   2020-02-25
 tags: [题目,数据结构,算法,习题,PTA]
 comments: true

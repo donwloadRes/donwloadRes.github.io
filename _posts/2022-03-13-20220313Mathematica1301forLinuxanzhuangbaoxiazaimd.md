@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathematica 13.0.1 for Linux 安装包下载"
+title: "Mathematica 1301 for Linux 安装包下载"
 date:   2020-10-27
 tags: [Linux,Mathematica,13.0,安装,安装包]
 comments: true

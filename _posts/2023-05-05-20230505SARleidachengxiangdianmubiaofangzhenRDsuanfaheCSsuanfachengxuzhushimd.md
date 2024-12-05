@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR雷达成像点目标仿真——RD算法和CS算法（程序+注释）"
+title: "SAR雷达成像点目标仿真RD算法和CS算法程序注释"
 date:   2023-07-29
 tags: [算法,RD,CS,SAR,Matlab]
 comments: true

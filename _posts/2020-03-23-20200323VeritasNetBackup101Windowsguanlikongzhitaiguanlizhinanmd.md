@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veritas NetBackup 10.1 Windows管理控制台管理指南"
+title: "Veritas NetBackup 101 Windows管理控制台管理指南"
 date:   2024-09-10
 tags: [控制台,安装,NetBackup,Windows,管理]
 comments: true

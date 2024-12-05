@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "激光条纹中心提取——Steger算法资源文件"
+title: "激光条纹中心提取Steger算法资源文件"
 date:   2020-06-19
 tags: [条纹,算法,提取,Steger,Python]
 comments: true

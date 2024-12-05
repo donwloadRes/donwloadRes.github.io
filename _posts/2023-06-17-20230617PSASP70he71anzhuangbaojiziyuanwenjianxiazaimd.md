@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSASP 7.0 和 7.1 安装包及资源文件下载"
+title: "PSASP 70 和 71 安装包及资源文件下载"
 date:   2020-04-22
 tags: [PSASP,安装包,7.1,算例,手册]
 comments: true

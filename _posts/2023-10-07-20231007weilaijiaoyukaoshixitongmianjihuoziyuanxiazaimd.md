@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "未来教育考试系统(免激活) 资源下载"
+title: "未来教育考试系统免激活 资源下载"
 date:   2021-12-02
 tags: [考试,资源,下载,免激活,题库]
 comments: true

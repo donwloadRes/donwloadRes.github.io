@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VECTOR AUTOSAR入门与实践培训材料(PPT)"
+title: "VECTOR AUTOSAR入门与实践培训材料PPT"
 date:   2021-07-29
 tags: [AUTOSAR,AIP,pptx,PPT,培训]
 comments: true

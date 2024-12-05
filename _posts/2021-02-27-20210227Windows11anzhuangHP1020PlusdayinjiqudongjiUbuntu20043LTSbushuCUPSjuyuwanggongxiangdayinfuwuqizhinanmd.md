@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 11 安装 HP 1020 Plus 打印机驱动及 Ubuntu 20.04.3 LTS 部署 CUPS 局域网共享打印服务器指南"
+title: "Windows 11 安装 HP 1020 Plus 打印机驱动及 Ubuntu 20043 LTS 部署 CUPS 局域网共享打印服务器指南"
 date:   2021-12-28
 tags: [打印机,CUPS,Windows,11,HP]
 comments: true

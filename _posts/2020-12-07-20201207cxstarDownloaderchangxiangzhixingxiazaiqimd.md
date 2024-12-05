@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cxstarDownloader: 畅想之星下载器"
+title: "cxstarDownloader 畅想之星下载器"
 date:   2022-12-28
 tags: [下载,畅想,之星,cxstarDownloader,资源]
 comments: true

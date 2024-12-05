@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAMIT 10.7 百度网盘下载链接"
+title: "GAMIT 107 百度网盘下载链接"
 date:   2024-11-17
 tags: [GAMIT,下载,链接,百度网,10.7]
 comments: true

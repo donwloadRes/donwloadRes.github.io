@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十四届蓝桥杯青少年组省赛C++真题卷"
+title: "十四届蓝桥杯青少年组省赛C真题卷"
 date:   2022-01-04
 tags: [真题,蓝桥,题目,青少年,组省赛]
 comments: true

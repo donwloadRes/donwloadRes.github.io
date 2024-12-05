@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS1850S_LPCD用户手册下载"
+title: "WS1850SLPCD用户手册下载"
 date:   2024-09-02
 tags: [WS1850S,LPCD,用户手册,低功耗,芯片]
 comments: true

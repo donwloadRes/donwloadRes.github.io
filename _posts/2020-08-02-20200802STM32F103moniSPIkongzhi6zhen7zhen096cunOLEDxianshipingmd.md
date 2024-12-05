@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103模拟SPI控制6针-7针0.96寸OLED显示屏"
+title: "STM32F103模拟SPI控制6针7针096寸OLED显示屏"
 date:   2021-02-10
 tags: [OLED,STM32F103,SPI,显示屏,引脚]
 comments: true

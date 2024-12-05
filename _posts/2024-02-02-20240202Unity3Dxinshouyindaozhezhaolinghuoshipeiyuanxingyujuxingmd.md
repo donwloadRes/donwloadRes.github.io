@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D新手引导遮罩：灵活适配圆形与矩形"
+title: "Unity3D新手引导遮罩灵活适配圆形与矩形"
 date:   2020-06-07
 tags: [遮罩,新手,引导,用户,适配]
 comments: true

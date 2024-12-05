@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VINS-Mono 论文公式推导与代码解析 高洪臣.pdf 下载仓库"
+title: "VINSMono 论文公式推导与代码解析 高洪臣pdf 下载仓库"
 date:   2022-08-09
 tags: [VINS,Mono,推导,代码,解析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ES7210-TDM级联模式简介 - NxFs"
+title: "ES7210TDM级联模式简介  NxFs"
 date:   2023-08-06
 tags: [TDM,级联,NxFs,音频,ES7210]
 comments: true

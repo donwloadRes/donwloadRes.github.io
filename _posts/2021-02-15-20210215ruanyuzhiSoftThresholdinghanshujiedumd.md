@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软阈值(Soft Thresholding)函数解读"
+title: "软阈值Soft Thresholding函数解读"
 date:   2024-11-13
 tags: [阈值,lambda,函数,文献,优化]
 comments: true

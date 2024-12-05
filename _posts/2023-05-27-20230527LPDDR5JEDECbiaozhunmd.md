@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR5-JEDEC标准"
+title: "LPDDR5JEDEC标准"
 date:   2022-08-28
 tags: [LPDDR5,JEDEC,文档,标准,技术]
 comments: true

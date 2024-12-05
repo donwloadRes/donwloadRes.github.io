@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI APHY V1.1.1协议资源下载"
+title: "MIPI APHY V111协议资源下载"
 date:   2022-12-13
 tags: [MIPI,APHY,文档,数据传输,V1.1]
 comments: true

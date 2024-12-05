@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roboflow实验数据集-YOLOv8格式"
+title: "Roboflow实验数据集YOLOv8格式"
 date:   2021-12-05
 tags: [YOLOv8,数据,检测,物体,Roboflow]
 comments: true

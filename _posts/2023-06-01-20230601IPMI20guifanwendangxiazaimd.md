@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPMI 2.0 规范文档下载"
+title: "IPMI 20 规范文档下载"
 date:   2022-08-05
 tags: [2.0,文档,中文版,规范,IPMI]
 comments: true

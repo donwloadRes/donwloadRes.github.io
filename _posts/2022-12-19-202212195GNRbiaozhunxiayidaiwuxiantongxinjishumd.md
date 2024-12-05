@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G NR标准：下一代无线通信技术"
+title: "5G NR标准下一代无线通信技术"
 date:   2024-05-22
 tags: [NR,5G,无线通信,标准,频段]
 comments: true

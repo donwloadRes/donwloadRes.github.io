@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel批量生成Minitab图表(自动化)"
+title: "Excel批量生成Minitab图表自动化"
 date:   2023-05-21
 tags: [Excel,图表,Minitab,批量,文件]
 comments: true

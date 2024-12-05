@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32F460系列数据手册Rev1.11 下载仓库"
+title: "HC32F460系列数据手册Rev111 下载仓库"
 date:   2023-02-25
 tags: [HC32F460,手册,Rev1.11,系列,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙串口助手（Android Studio源码）"
+title: "蓝牙串口助手Android Studio源码"
 date:   2022-08-17
 tags: [蓝牙,串口,Android,通信,Studio]
 comments: true

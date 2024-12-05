@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOEA-D的Matlab实现"
+title: "MOEAD的Matlab实现"
 date:   2022-10-01
 tags: [MOEA,Matlab,算法,代码,文件]
 comments: true

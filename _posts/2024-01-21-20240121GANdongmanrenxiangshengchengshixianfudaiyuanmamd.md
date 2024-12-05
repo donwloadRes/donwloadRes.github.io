@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAN动漫人像生成实现(附带源码)"
+title: "GAN动漫人像生成实现附带源码"
 date:   2020-04-19
 tags: [图像,生成,动漫人,dataset,人脸]
 comments: true

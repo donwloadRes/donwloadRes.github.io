@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性系统理论习题解答-郑大钟第二版"
+title: "线性系统理论习题解答郑大钟第二版"
 date:   2023-03-21
 tags: [习题,线性系统,解答,学习,理论]
 comments: true

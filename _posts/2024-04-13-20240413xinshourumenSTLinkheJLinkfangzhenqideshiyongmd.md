@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新手入门：ST-Link和J-Link仿真器的使用"
+title: "新手入门STLink和JLink仿真器的使用"
 date:   2020-04-04
 tags: [Link,仿真器,ST,使用,下载]
 comments: true

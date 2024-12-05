@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 定时器触发ADC+DMA中断+双缓冲"
+title: "STM32F103 定时器触发ADCDMA中断双缓冲"
 date:   2021-10-04
 tags: [STM32F103,ADC,定时器,DMA,缓冲]
 comments: true

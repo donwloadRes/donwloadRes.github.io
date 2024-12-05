@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "逆变器低通滤波器设计ＬＣ滤波"
+title: "逆变器低通滤波器设计滤波"
 date:   2023-01-19
 tags: [逆变器,滤波器,低通滤波器,设计,LC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 安装 .NET Framework 3.5 方法及下载指南"
+title: "Windows 10 安装 NET Framework 35 方法及下载指南"
 date:   2022-03-29
 tags: [NET,Framework,3.5,安装,Windows]
 comments: true

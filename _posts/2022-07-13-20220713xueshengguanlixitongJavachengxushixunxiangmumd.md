@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生管理系统 - Java程序实训项目"
+title: "学生管理系统  Java程序实训项目"
 date:   2022-01-21
 tags: [学生,Java,JButton,createButton,信息]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神仙级截图软件、录屏软件FastStone Capture"
+title: "神仙级截图软件录屏软件FastStone Capture"
 date:   2024-02-02
 tags: [截图,录屏,软件,FastStone,Capture]
 comments: true

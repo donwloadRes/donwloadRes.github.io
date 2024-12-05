@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图像处理类库（大而全）"
+title: "C 图像处理类库大而全"
 date:   2020-01-06
 tags: [图像处理,类库,图像,缩放,Image]
 comments: true

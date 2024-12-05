@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML播放RTMP流 直播+回放"
+title: "HTML播放RTMP流 直播回放"
 date:   2022-07-07
 tags: [RTMP,播放,HTML,回放,页面]
 comments: true

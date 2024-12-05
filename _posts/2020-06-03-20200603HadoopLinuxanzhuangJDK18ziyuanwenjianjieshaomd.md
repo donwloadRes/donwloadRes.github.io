@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop Linux 安装 JDK 1.8 资源文件介绍"
+title: "Hadoop Linux 安装 JDK 18 资源文件介绍"
 date:   2024-01-15
 tags: [JDK,1.8,Linux,安装,安装包]
 comments: true

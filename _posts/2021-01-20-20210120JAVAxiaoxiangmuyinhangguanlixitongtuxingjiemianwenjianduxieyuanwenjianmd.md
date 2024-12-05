@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA小项目-银行管理系统（图形界面&&文件读写+源文件）"
+title: "JAVA小项目银行管理系统图形界面文件读写源文件"
 date:   2020-10-06
 tags: [Java,图形界面,用户,项目,读写]
 comments: true

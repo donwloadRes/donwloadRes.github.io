@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SurfaceGo_BMR_41_1.011.2.zip恢复镜像网盘满速下载地址"
+title: "SurfaceGoBMR4110112zip恢复镜像网盘满速下载地址"
 date:   2024-01-27
 tags: [镜像文件,Surface,SurfaceGo,BMR,41]
 comments: true

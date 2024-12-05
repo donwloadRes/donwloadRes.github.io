@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信原理讲义（雪山灰虎公开版）.pdf"
+title: "通信原理讲义雪山灰虎公开版pdf"
 date:   2021-08-16
 tags: [学习,通信,灰虎,原理,讲义]
 comments: true

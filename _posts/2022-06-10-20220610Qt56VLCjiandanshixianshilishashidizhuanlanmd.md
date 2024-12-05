@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.6 + VLC简单实现示例（沙师弟专栏）"
+title: "Qt56  VLC简单实现示例沙师弟专栏"
 date:   2023-11-06
 tags: [VLC,Qt,Qt5.6,播放,示例]
 comments: true

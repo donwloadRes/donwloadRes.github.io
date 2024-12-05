@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT智能AI机器人微信小程序源码-带部署教程"
+title: "ChatGPT智能AI机器人微信小程序源码带部署教程"
 date:   2021-12-20
 tags: [ChatGPT,API,微信,程序,AI]
 comments: true

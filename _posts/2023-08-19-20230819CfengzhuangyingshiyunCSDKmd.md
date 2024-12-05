@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#封装萤石云C++ SDK"
+title: "C封装萤石云C SDK"
 date:   2022-01-21
 tags: [萤石,封装,C#,C++,SDK]
 comments: true

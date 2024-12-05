@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vmware workstation 17 详细安装教程（图文）"
+title: "Vmware workstation 17 详细安装教程图文"
 date:   2023-04-29
 tags: [激活,安装,Vmware,教程,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Zlib库实现ZIP文件压缩与解压"
+title: "C Zlib库实现ZIP文件压缩与解压"
 date:   2024-11-15
 tags: [解压,Zlib,压缩,ZIP,文件]
 comments: true

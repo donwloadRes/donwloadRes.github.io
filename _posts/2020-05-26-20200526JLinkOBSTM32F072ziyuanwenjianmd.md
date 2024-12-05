@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Link OB STM32F072 资源文件"
+title: "JLink OB STM32F072 资源文件"
 date:   2021-02-01
 tags: [Link,OB,STM32F072,原理图,固件]
 comments: true

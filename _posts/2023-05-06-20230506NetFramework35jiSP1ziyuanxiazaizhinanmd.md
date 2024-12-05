@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net Framework 3.5 及 SP1 资源下载指南"
+title: "Net Framework 35 及 SP1 资源下载指南"
 date:   2020-07-17
 tags: [Net,Framework,3.5,安装包,安装]
 comments: true

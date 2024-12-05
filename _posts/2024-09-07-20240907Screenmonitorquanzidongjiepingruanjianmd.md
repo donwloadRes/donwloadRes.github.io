@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screenmonitor(全自动截屏软件)"
+title: "Screenmonitor全自动截屏软件"
 date:   2024-03-23
 tags: [截屏,图片,Screenmonitor,软件,快捷键]
 comments: true

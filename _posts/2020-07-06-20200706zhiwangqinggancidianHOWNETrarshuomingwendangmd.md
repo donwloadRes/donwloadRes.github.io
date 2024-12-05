@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知网情感词典（HOWNET）.rar 说明文档"
+title: "知网情感词典HOWNETrar 说明文档"
 date:   2024-10-04
 tags: [情感,知网,HOWNET,词典,词语]
 comments: true

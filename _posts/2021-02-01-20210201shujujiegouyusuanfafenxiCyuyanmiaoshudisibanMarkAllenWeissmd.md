@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法分析 C++语言描述第四版 - Mark Allen Weiss"
+title: "数据结构与算法分析 C语言描述第四版  Mark Allen Weiss"
 date:   2020-11-16
 tags: [算法,数据结构,C++,学习,第四版]
 comments: true

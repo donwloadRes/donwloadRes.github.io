@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSI MegaRAID SAS 9240-8i SAS阵列卡 Windows 驱动程序"
+title: "LSI MegaRAID SAS 92408i SAS阵列卡 Windows 驱动程序"
 date:   2020-01-23
 tags: [SAS,MegaRAID,Windows,8i,x64]
 comments: true

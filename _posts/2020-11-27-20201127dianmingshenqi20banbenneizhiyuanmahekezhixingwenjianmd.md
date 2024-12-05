@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点名神器2.0版本 - 内置源码和可执行文件"
+title: "点名神器20版本  内置源码和可执行文件"
 date:   2023-05-22
 tags: [点名,Excel,源码,神器,导入]
 comments: true

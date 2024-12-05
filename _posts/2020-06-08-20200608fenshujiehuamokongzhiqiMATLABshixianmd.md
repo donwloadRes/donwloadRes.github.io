@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分数阶滑模控制器 - MATLAB 实现"
+title: "分数阶滑模控制器  MATLAB 实现"
 date:   2022-09-01
 tags: [阶滑模,MATLAB,分数,控制,控制器]
 comments: true

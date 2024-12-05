@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[热拔插] 轻量级Winform插件式框架"
+title: "热拔插 轻量级Winform插件式框架"
 date:   2023-09-20
 tags: [插件,框架,Winform,轻量级,应用程序]
 comments: true

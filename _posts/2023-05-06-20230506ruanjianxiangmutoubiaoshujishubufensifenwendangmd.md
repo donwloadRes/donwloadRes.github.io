@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件项目投标书：技术部分（四份文档）"
+title: "软件项目投标书技术部分四份文档"
 date:   2021-12-09
 tags: [投标书,投标,项目,技术,文档]
 comments: true

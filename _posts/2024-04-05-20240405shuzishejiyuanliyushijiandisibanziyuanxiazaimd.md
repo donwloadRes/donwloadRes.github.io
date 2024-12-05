@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字设计：原理与实践第四版 资源下载"
+title: "数字设计原理与实践第四版 资源下载"
 date:   2020-05-25
 tags: [逻辑设计,实践,数字,设计,原理]
 comments: true

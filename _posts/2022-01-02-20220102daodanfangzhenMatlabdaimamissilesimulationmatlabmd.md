@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "导弹仿真Matlab代码 - missile_simulation_matlab"
+title: "导弹仿真Matlab代码  missilesimulationmatlab"
 date:   2020-10-17
 tags: [仿真,Matlab,导弹,代码,飞行]
 comments: true

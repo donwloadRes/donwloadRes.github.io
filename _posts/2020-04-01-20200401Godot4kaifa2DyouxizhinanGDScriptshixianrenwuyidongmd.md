@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Godot 4开发2D游戏指南 - GDScript实现人物移动"
+title: "Godot 4开发2D游戏指南  GDScript实现人物移动"
 date:   2023-11-22
 tags: [Godot,GDScript,state,游戏,2D]
 comments: true

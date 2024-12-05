@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的计算器设计—液晶显示"
+title: "基于51单片机的计算器设计液晶显示"
 date:   2021-02-12
 tags: [计算器,单片机,LCD1602,设计,51]
 comments: true

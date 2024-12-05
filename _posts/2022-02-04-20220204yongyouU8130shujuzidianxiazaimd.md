@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8+13.0数据字典下载"
+title: "用友U8130数据字典下载"
 date:   2021-12-26
 tags: [用友,U8,13.0,字典,zip]
 comments: true

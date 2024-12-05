@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chipgenius芯片精灵 4.21.0701"
+title: "chipgenius芯片精灵 4210701"
 date:   2022-03-04
 tags: [USB,设备,chipgenius,0701,芯片]
 comments: true

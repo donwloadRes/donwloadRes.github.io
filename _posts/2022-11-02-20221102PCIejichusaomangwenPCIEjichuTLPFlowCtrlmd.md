@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe基础扫盲文（PCIE基础、TLP、FlowCtrl）"
+title: "PCIe基础扫盲文PCIE基础TLPFlowCtrl"
 date:   2020-12-05
 tags: [PCIe,TLP,流量,扫盲,基础知识]
 comments: true

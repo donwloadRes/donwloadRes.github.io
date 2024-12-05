@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFmpeg的推流器（以推送RTMP为例）"
+title: "最简单的基于FFmpeg的推流器以推送RTMP为例"
 date:   2024-04-11
 tags: [FFmpeg,RTMP,流媒体,推送,服务器]
 comments: true

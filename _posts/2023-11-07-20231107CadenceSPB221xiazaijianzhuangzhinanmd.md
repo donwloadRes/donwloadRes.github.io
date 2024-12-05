@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence SPB 22.1 下载及安装指南"
+title: "Cadence SPB 221 下载及安装指南"
 date:   2020-05-16
 tags: [安装,Cadence,SPB,22.1,学习]
 comments: true

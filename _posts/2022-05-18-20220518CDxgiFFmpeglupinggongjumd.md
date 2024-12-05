@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Dxgi+FFmpeg 录屏工具"
+title: "C DxgiFFmpeg 录屏工具"
 date:   2021-01-27
 tags: [录屏,录制,MP4,屏幕,FFmpeg]
 comments: true

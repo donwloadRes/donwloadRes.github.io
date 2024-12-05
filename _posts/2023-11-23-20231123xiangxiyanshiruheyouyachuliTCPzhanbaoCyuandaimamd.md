@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详细演示如何优雅处理TCP粘包 - C++源代码"
+title: "详细演示如何优雅处理TCP粘包  C源代码"
 date:   2020-04-07
 tags: [粘包,TCP,处理,C++,编译]
 comments: true

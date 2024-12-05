@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "198个经典C# WinForm资源(超赞)"
+title: "198个经典C WinForm资源超赞"
 date:   2023-04-10
 tags: [实例,C#,198,WinForm,学习]
 comments: true

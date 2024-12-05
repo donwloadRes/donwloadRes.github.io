@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高光谱图像分类2D-CNN PyTorch实现"
+title: "高光谱图像分类2DCNN PyTorch实现"
 date:   2021-09-25
 tags: [PyTorch,训练,光谱,模型,脚本]
 comments: true

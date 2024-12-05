@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1939-21 中文版本资源下载"
+title: "SAE J193921 中文版本资源下载"
 date:   2020-10-11
 tags: [SAE,J1939,21,文档,中文]
 comments: true

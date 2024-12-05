@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最强下载神器Internet Download Manager 6.42.3（IDM6.42.3）资源文件介绍"
+title: "最强下载神器Internet Download Manager 6423IDM6423资源文件介绍"
 date:   2022-02-25
 tags: [下载,IDM,IDM6.42,文件,下载速度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TE田纳西-伊斯曼过程数据集"
+title: "TE田纳西伊斯曼过程数据集"
 date:   2021-09-10
 tags: [数据,伊斯曼,TE,过程,田纳西]
 comments: true

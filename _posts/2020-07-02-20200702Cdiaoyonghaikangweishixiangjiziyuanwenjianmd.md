@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用海康威视相机资源文件"
+title: "C调用海康威视相机资源文件"
 date:   2020-01-03
 tags: [相机,示例,C#,威视,海康]
 comments: true

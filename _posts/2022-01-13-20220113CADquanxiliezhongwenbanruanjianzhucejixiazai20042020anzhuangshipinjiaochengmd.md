@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD全系列中文版软件+注册机下载 (2004-2020) & 安装视频教程"
+title: "CAD全系列中文版软件注册机下载 20042020  安装视频教程"
 date:   2023-01-01
 tags: [安装,注册机,AutoCAD,软件,视频教程]
 comments: true

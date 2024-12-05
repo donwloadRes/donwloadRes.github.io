@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSGO 雷蛇0.8灵敏度压枪宏 罗技压枪宏全灵敏度"
+title: "CSGO 雷蛇08灵敏度压枪宏 罗技压枪宏全灵敏度"
 date:   2020-08-29
 tags: [压枪宏,灵敏度,鼠标,罗技,文件]
 comments: true

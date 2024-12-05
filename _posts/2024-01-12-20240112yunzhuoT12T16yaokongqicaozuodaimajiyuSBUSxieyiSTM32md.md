@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云卓T12&T16遥控器操作代码（基于SBUS协议+STM32）"
+title: "云卓T12T16遥控器操作代码基于SBUS协议STM32"
 date:   2020-06-26
 tags: [遥控器,STM32,SBUS,代码,协议]
 comments: true

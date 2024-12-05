@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel 自动获得拟合系数，自动引用，计算"
+title: "Excel 自动获得拟合系数自动引用计算"
 date:   2021-04-09
 tags: [拟合,Excel,自动,系数,11]
 comments: true

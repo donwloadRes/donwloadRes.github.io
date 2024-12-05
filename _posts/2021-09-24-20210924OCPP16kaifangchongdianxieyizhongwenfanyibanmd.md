@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP-1.6开放充电协议中文翻译版"
+title: "OCPP16开放充电协议中文翻译版"
 date:   2020-06-19
 tags: [OCPP,1.6,中文翻译,doc,充电]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT（物联网通讯协议）详细讲解资源下载"
+title: "MQTT物联网通讯协议详细讲解资源下载"
 date:   2023-04-25
 tags: [MQTT,联网,协议,资源,配置]
 comments: true

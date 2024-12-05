@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "resnet101预训练模型（PyTorch版本）"
+title: "resnet101预训练模型PyTorch版本"
 date:   2024-06-25
 tags: [PyTorch,模型,resnet101,训练,model]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DWC_ssi_user.pdf 资源文件下载"
+title: "DWCssiuserpdf 资源文件下载"
 date:   2023-09-18
 tags: [文件,DWC,ssi,user,pdf]
 comments: true

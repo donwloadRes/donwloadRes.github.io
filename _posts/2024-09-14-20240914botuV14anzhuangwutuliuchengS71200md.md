@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博图V14安装（无图流程）S7-1200"
+title: "博图V14安装无图流程S71200"
 date:   2023-07-18
 tags: [安装,V14,博图,S7,1200]
 comments: true

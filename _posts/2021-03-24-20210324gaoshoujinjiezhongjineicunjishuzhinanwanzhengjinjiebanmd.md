@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高手进阶：终极内存技术指南——完整-进阶版"
+title: "高手进阶终极内存技术指南完整进阶版"
 date:   2023-08-17
 tags: [内存,进阶,技术,终极,嵌入式]
 comments: true

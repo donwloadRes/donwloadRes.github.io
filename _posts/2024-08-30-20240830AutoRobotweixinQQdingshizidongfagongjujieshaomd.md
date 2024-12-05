@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoRobot微信-QQ定时自动发工具介绍"
+title: "AutoRobot微信QQ定时自动发工具介绍"
 date:   2021-02-22
 tags: [发送,定时,AutoRobot,微信,QQ]
 comments: true

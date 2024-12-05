@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "集成电路版图基础实用指南-李伟华译"
+title: "集成电路版图基础实用指南李伟华译"
 date:   2021-08-07
 tags: [版图,集成电路,设计,指南,李伟华译]
 comments: true

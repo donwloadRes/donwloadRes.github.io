@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7 安装包下载"
+title: "Python 37 安装包下载"
 date:   2023-07-26
 tags: [3.7,Python,安装包,python,tar]
 comments: true

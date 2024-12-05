@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5+车辆重识别【附代码】"
+title: "yolov5车辆重识别附代码"
 date:   2021-02-16
 tags: [车辆,训练,yolov5,识别,权重]
 comments: true

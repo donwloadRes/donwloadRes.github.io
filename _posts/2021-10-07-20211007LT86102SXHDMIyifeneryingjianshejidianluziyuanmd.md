@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT-86102SX HDMI一分二硬件设计电路资源"
+title: "LT86102SX HDMI一分二硬件设计电路资源"
 date:   2021-04-19
 tags: [LT,HDMI,86102SX,硬件,一分]
 comments: true

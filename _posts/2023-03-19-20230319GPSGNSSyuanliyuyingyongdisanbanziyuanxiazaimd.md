@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPS-GNSS原理与应用（第三版）资源下载"
+title: "GPSGNSS原理与应用第三版资源下载"
 date:   2021-10-26
 tags: [GPS,GNSS,应用,技术,本书]
 comments: true

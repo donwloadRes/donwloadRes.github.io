@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WGL：波形生成语言（附笔记）"
+title: "WGL波形生成语言附笔记"
 date:   2021-03-28
 tags: [WGL,波形,笔记,生成,示例]
 comments: true

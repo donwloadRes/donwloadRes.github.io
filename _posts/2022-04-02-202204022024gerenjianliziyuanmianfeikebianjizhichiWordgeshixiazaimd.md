@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024个人简历资源免费可编辑(支持Word格式下载)"
+title: "2024个人简历资源免费可编辑支持Word格式下载"
 date:   2021-04-10
 tags: [简历,模板,Word,格式,个人简历]
 comments: true

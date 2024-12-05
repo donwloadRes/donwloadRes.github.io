@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "s-350-24铭纬开关电源电路图"
+title: "s35024铭纬开关电源电路图"
 date:   2024-11-07
 tags: [电路图,开关电源,350,24,铭纬]
 comments: true

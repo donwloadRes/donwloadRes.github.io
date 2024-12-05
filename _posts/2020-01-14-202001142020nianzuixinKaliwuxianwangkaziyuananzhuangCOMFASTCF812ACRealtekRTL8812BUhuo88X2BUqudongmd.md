@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020年最新Kali无线网卡资源：安装【COMFAST CF-812AC】Realtek RTL8812BU或88X2BU驱动"
+title: "2020年最新Kali无线网卡资源安装COMFAST CF812ACRealtek RTL8812BU或88X2BU驱动"
 date:   2022-05-11
 tags: [网卡,驱动程序,无线,Kali,VER]
 comments: true

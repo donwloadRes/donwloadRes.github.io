@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++自定义界面大全"
+title: "QtC自定义界面大全"
 date:   2020-11-19
 tags: [Qt,自定义,界面,界面设计,C++]
 comments: true

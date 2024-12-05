@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GARCH-MIDAS与DDC-MIDAS模型MATLAB实现"
+title: "GARCHMIDAS与DDCMIDAS模型MATLAB实现"
 date:   2021-02-26
 tags: [MIDAS,模型,GARCH,MATLAB,DDC]
 comments: true

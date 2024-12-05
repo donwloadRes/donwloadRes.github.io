@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinXPmini：仅120MB的纯净XP迷你版"
+title: "WinXPmini仅120MB的纯净XP迷你版"
 date:   2024-08-08
 tags: [120MB,XP,迷你版,WinXPmini,纯净]
 comments: true

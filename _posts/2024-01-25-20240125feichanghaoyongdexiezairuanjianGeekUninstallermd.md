@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常好用的卸载软件——Geek Uninstaller"
+title: "非常好用的卸载软件Geek Uninstaller"
 date:   2023-02-08
 tags: [卸载,Geek,Uninstaller,软件,用户]
 comments: true

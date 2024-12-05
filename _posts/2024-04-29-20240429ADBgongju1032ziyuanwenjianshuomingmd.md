@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADB工具1.0.32 资源文件说明"
+title: "ADB工具1032 资源文件说明"
 date:   2024-06-22
 tags: [ADB,文件,1.0,32,rar]
 comments: true

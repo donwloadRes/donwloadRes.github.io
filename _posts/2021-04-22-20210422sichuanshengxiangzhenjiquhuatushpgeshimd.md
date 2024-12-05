@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四川省乡镇级区划图（shp格式）"
+title: "四川省乡镇级区划图shp格式"
 date:   2023-11-12
 tags: [shp,ArcGIS,GIS,乡镇级,区划图]
 comments: true

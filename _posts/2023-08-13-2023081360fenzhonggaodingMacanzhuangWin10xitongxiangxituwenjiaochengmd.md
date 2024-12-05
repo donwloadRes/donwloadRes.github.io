@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "60分钟搞定Mac安装Win10系统 (详细图文教程)"
+title: "60分钟搞定Mac安装Win10系统 详细图文教程"
 date:   2024-03-06
 tags: [Mac,Windows,安装,Win10,10]
 comments: true

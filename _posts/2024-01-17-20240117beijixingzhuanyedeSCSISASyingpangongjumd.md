@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北极星专业的SCSI-SAS硬盘工具"
+title: "北极星专业的SCSISAS硬盘工具"
 date:   2021-07-16
 tags: [硬盘,SCSI,SAS,测试,工具]
 comments: true

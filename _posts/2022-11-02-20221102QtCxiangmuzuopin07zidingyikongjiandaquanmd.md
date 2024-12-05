@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品07 - 自定义控件大全"
+title: "QtC项目作品07  自定义控件大全"
 date:   2021-12-03
 tags: [控件,自定义,Qt,集成,示例]
 comments: true

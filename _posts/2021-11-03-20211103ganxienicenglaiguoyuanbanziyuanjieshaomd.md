@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "感谢你曾来过（原版）资源介绍"
+title: "感谢你曾来过原版资源介绍"
 date:   2022-11-13
 tags: [原版,分享,CSDN,资源,感谢]
 comments: true

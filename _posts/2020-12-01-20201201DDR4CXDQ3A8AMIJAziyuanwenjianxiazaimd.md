@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR4_CXDQ3A8AM-IJ-A 资源文件下载"
+title: "DDR4CXDQ3A8AMIJA 资源文件下载"
 date:   2021-03-08
 tags: [DDR4,CXDQ3A8AM,IJ,文件,docx]
 comments: true

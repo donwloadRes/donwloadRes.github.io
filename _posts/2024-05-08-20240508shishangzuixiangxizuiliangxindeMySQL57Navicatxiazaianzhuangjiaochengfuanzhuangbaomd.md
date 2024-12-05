@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最详细、最良心的MySQL 5.7 + Navicat 下载安装教程（附安装包）"
+title: "史上最详细最良心的MySQL 57  Navicat 下载安装教程附安装包"
 date:   2024-01-01
 tags: [MySQL,Navicat,安装,数据库,教程]
 comments: true

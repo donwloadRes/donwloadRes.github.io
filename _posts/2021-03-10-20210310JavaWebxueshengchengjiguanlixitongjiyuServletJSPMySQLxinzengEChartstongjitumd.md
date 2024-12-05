@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb学生成绩管理系统（基于Servlet+JSP+MySQL，新增ECharts统计图）"
+title: "JavaWeb学生成绩管理系统基于ServletJSPMySQL新增ECharts统计图"
 date:   2020-03-27
 tags: [ECharts,统计图,成绩,数据库,学生]
 comments: true

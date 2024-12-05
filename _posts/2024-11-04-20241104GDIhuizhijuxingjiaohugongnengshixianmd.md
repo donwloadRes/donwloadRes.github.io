@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDI+绘制矩形交互功能实现"
+title: "GDI绘制矩形交互功能实现"
 date:   2024-01-18
 tags: [矩形,绘制,交互,功能,缩放]
 comments: true

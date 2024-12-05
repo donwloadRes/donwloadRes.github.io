@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB150A-2009 军用装备实验室环境试验方法"
+title: "GJB150A2009 军用装备实验室环境试验方法"
 date:   2023-06-06
 tags: [军用,GJB150A,2009,试验,环境]
 comments: true

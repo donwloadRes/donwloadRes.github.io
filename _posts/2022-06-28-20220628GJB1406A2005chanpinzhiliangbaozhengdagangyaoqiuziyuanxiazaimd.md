@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB1406A-2005产品质量保证大纲要求》资源下载"
+title: "GJB1406A2005产品质量保证大纲要求资源下载"
 date:   2021-01-16
 tags: [大纲,产品质量,GJB1406A,2005,军工]
 comments: true

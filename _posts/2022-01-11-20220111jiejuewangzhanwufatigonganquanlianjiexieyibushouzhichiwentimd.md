@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决网站无法提供安全连接-协议不受支持问题"
+title: "解决网站无法提供安全连接协议不受支持问题"
 date:   2021-09-24
 tags: [文件,TLS,1.2,协议,网站]
 comments: true

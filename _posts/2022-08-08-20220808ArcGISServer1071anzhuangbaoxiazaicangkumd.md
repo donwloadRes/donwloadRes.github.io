@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Server 10.7.1 安装包下载仓库"
+title: "ArcGIS Server 1071 安装包下载仓库"
 date:   2024-07-12
 tags: [10.7,安装包,ArcGIS,Server,安装]
 comments: true

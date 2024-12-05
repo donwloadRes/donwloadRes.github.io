@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10GBASE-R 协议详解资源下载"
+title: "10GBASER 协议详解资源下载"
 date:   2021-12-31
 tags: [10GBASE,下载,协议,资源,网络]
 comments: true

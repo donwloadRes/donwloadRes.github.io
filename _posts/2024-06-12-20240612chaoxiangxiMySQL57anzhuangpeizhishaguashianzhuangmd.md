@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详细MySQL5.7安装配置(傻瓜式安装)"
+title: "超详细MySQL57安装配置傻瓜式安装"
 date:   2020-12-26
 tags: [MySQL,5.7,安装,配置,教程]
 comments: true

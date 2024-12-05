@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新代系统PLC梯形图编辑软件LadEditor_2.29.3"
+title: "新代系统PLC梯形图编辑软件LadEditor2293"
 date:   2022-09-14
 tags: [PLC,离线,2.29,编辑,联机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "步步高大一轮复习讲义PPT & Word资源分享"
+title: "步步高大一轮复习讲义PPT  Word资源分享"
 date:   2020-02-17
 tags: [复习,讲义,步步高,高考,PPT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL 3.1 SPEC资源下载"
+title: "CXL 31 SPEC资源下载"
 date:   2022-09-28
 tags: [CXL,3.1,SPEC,文档,技术]
 comments: true

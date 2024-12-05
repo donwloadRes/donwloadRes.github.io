@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Vivado DDS IP核的DDS信号发生器（可调频调相）"
+title: "基于Vivado DDS IP核的DDS信号发生器可调频调相"
 date:   2021-04-21
 tags: [DDS,Vivado,IP,FPGA,信号]
 comments: true

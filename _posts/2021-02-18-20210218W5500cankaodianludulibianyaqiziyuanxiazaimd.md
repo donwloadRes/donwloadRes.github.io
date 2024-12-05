@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "W5500参考电路（独立变压器）资源下载"
+title: "W5500参考电路独立变压器资源下载"
 date:   2022-01-11
 tags: [W5500,电路,变压器,参考,电路图]
 comments: true

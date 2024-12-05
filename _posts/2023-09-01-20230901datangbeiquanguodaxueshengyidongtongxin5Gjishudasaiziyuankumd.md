@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“大唐杯”全国大学生移动通信5G技术大赛资源库"
+title: "大唐杯全国大学生移动通信5G技术大赛资源库"
 date:   2024-01-29
 tags: [5G,模拟题,题库,参赛者,大赛]
 comments: true

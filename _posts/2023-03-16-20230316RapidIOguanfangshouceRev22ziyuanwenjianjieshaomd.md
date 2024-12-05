@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RapidIO官方手册Rev.2.2 资源文件介绍"
+title: "RapidIO官方手册Rev22 资源文件介绍"
 date:   2020-10-23
 tags: [RapidIO,Rev.2,手册,协议,文件]
 comments: true

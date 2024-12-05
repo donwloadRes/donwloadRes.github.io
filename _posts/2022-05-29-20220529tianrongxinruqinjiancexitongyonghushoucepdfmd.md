@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天融信入侵检测系统用户手册.pdf"
+title: "天融信入侵检测系统用户手册pdf"
 date:   2023-10-12
 tags: [天融信,系统,TopSentry,3000,本手册]
 comments: true

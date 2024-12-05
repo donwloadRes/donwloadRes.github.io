@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity视频播放插件 - AVPro Video Ultra Edition 2.6.6版本"
+title: "Unity视频播放插件  AVPro Video Ultra Edition 266版本"
 date:   2023-01-24
 tags: [插件,Unity,版本,播放,视频]
 comments: true

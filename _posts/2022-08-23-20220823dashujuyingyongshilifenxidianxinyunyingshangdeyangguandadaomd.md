@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据应用实例分析：电信运营商的阳关大道"
+title: "大数据应用实例分析电信运营商的阳关大道"
 date:   2020-01-15
 tags: [电信,数据,应用,实例,行业]
 comments: true

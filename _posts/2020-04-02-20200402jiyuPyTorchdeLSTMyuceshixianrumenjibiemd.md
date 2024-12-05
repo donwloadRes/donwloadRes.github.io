@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PyTorch的LSTM预测实现（入门级别）"
+title: "基于PyTorch的LSTM预测实现入门级别"
 date:   2024-01-30
 tags: [LSTM,your,预测,PyTorch,bash]
 comments: true

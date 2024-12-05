@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS Office 2021年新版（教育考试专用版）"
+title: "WPS Office 2021年新版教育考试专用版"
 date:   2021-07-03
 tags: [考试,教育,WPS,专用版,新版]
 comments: true

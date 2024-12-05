@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HyperLynx 9.0的信号和电源完整性仿真分析 周润景 著+书签"
+title: "基于HyperLynx 90的信号和电源完整性仿真分析 周润景 著书签"
 date:   2020-05-09
 tags: [完整性,仿真,本书,HyperLynx,9.0]
 comments: true

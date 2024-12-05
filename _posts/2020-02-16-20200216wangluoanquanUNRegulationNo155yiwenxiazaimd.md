@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全UN Regulation No. 155译文下载"
+title: "网络安全UN Regulation No 155译文下载"
 date:   2024-03-15
 tags: [网络安全,No,155,译文,UN]
 comments: true

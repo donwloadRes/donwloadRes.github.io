@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L0自定义BULK传输下位机+Qt(WinUSB)上位机"
+title: "STM32L0自定义BULK传输下位机QtWinUSB上位机"
 date:   2022-10-25
 tags: [BULK,传输,上位,驱动,下位]
 comments: true

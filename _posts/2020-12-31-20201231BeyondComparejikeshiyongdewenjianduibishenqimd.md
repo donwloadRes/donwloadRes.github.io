@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond Compare - 即刻使用的文件对比神器"
+title: "Beyond Compare  即刻使用的文件对比神器"
 date:   2023-02-18
 tags: [文件夹,Beyond,Compare,文件,比较]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW 波形显示、存储与回放功能实用VI"
+title: "LabVIEW 波形显示存储与回放功能实用VI"
 date:   2021-05-24
 tags: [波形,回放,存储,VI,数据]
 comments: true

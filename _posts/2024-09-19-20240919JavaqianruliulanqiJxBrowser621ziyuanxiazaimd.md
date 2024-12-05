@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java嵌入浏览器JxBrowser6.21资源下载"
+title: "Java嵌入浏览器JxBrowser621资源下载"
 date:   2020-07-31
 tags: [Java,JxBrowser6.21,浏览器,嵌入,Demo]
 comments: true

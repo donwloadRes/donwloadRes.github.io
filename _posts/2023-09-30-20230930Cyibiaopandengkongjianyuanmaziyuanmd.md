@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 仪表盘等控件源码资源"
+title: "C 仪表盘等控件源码资源"
 date:   2024-08-22
 tags: [控件,源码,C#,资源,仪表盘]
 comments: true

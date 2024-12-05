@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD2.0与SD3.0规范文档库"
+title: "SD20与SD30规范文档库"
 date:   2023-10-26
 tags: [文档,SD3.0,SD2.0,SD,规范]
 comments: true

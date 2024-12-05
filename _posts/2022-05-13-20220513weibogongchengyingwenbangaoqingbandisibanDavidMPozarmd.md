@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波工程英文版（高清版）第四版 - David M. Pozar"
+title: "微波工程英文版高清版第四版  David M Pozar"
 date:   2024-02-20
 tags: [微波,Pozar,工程,David,第四版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS18B20数据手册-中文版（带目录）"
+title: "DS18B20数据手册中文版带目录"
 date:   2024-02-22
 tags: [DS18B20,手册,温度传感器,目录,数据]
 comments: true

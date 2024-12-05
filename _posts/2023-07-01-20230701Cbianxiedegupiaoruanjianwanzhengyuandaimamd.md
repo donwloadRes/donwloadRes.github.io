@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编写的股票软件 完整源代码"
+title: "C编写的股票软件 完整源代码"
 date:   2022-09-26
 tags: [代码,源代码,股票软件,C++,注释]
 comments: true

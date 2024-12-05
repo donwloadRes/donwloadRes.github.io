@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04下部署Honeyd蜜罐（完整教程）"
+title: "Ubuntu 1804下部署Honeyd蜜罐完整教程"
 date:   2024-03-14
 tags: [Honeyd,教程,蜜罐,安装,Ubuntu]
 comments: true

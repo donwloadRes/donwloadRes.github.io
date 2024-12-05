@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop 3.1.3 安装教程：单机-伪分布式配置"
+title: "Hadoop 313 安装教程单机伪分布式配置"
 date:   2024-01-08
 tags: [Hadoop,安装,教程,分布式,配置]
 comments: true

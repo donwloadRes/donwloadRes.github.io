@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K-RM参考手册下载"
+title: "S32KRM参考手册下载"
 date:   2021-08-14
 tags: [S32K,芯片,参考手册,RM,开发者]
 comments: true

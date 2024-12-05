@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运维开发-运维工程师-DevOps工程师-K8S大厂面试题资源下载"
+title: "运维开发运维工程师DevOps工程师K8S大厂面试题资源下载"
 date:   2024-10-20
 tags: [运维,面试题,DevOps,工程师,面试]
 comments: true

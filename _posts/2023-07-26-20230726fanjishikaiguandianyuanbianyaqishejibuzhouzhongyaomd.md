@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反激式开关电源变压器设计步骤(重要)"
+title: "反激式开关电源变压器设计步骤重要"
 date:   2024-04-26
 tags: [开关电源,反激式,设计,变压器,步骤]
 comments: true

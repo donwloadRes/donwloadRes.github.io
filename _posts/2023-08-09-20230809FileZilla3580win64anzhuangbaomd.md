@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FileZilla 3.58.0 win64 安装包"
+title: "FileZilla 3580 win64 安装包"
 date:   2020-01-08
 tags: [FileZilla,FTP,文件传输,安装包,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mini_LVDS接口说明资源下载"
+title: "miniLVDS接口说明资源下载"
 date:   2021-09-22
 tags: [mini,LVDS,接口,文件,说明]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度富文本编辑器UMEditor-1.2.3（免费版）"
+title: "百度富文本编辑器UMEditor123免费版"
 date:   2020-08-23
 tags: [script,UMeditor,文本编辑,html,编辑器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为Ensp-CE12800 资源下载"
+title: "华为EnspCE12800 资源下载"
 date:   2024-03-20
 tags: [Ensp,CE12800,华为,文件,资源]
 comments: true

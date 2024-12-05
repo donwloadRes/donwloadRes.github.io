@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-NB-IoT模块程序-连接OneNET平台"
+title: "STM32NBIoT模块程序连接OneNET平台"
 date:   2022-09-21
 tags: [STM32,OneNET,NB,IoT,平台]
 comments: true

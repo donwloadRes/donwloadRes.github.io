@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flutter 桌面多窗口支持 - Windows & MacOS"
+title: "Flutter 桌面多窗口支持  Windows  MacOS"
 date:   2020-06-16
 tags: [多窗口,Flutter,桌面,示例,开发者]
 comments: true

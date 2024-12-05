@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tkinter GUI 应用开发秘籍【已排版和加书签】"
+title: "Tkinter GUI 应用开发秘籍已排版和加书签"
 date:   2021-08-21
 tags: [Tkinter,GUI,开发,书签,应用程序]
 comments: true

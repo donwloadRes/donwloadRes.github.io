@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具V4.3增强版"
+title: "DirectX修复工具V43增强版"
 date:   2024-09-30
 tags: [DirectX,修复,增强版,V4.3,程序]
 comments: true

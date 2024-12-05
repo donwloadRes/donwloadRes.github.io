@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SYNTEC 21A新代系统模拟器 版本10.116.54N"
+title: "SYNTEC 21A新代系统模拟器 版本1011654N"
 date:   2022-10-20
 tags: [模拟器,新代,10.116,54N,操作]
 comments: true

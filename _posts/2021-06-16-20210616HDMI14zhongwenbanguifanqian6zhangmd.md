@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 1.4 中文版规范前6章"
+title: "HDMI 14 中文版规范前6章"
 date:   2020-11-15
 tags: [HDMI,1.4,规范,中文版,音频]
 comments: true

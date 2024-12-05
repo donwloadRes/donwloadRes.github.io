@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rosdistro.zip 资源仓库"
+title: "rosdistrozip 资源仓库"
 date:   2024-10-11
 tags: [ROS,依赖,软件包,仓库,rosdistro]
 comments: true

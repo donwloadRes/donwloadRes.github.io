@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-SIMULINK建模与仿真实例精讲-张德丰.pdf"
+title: "MATLABSIMULINK建模与仿真实例精讲张德丰pdf"
 date:   2020-11-27
 tags: [MATLAB,SIMULINK,建模,仿真,PDF]
 comments: true

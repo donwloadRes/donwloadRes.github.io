@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.1 Berlin DataSnap 开发手册 高清版 V2017-5-22"
+title: "Delphi 101 Berlin DataSnap 开发手册 高清版 V2017522"
 date:   2024-08-11
 tags: [Delphi,DataSnap,10.1,Berlin,手册]
 comments: true

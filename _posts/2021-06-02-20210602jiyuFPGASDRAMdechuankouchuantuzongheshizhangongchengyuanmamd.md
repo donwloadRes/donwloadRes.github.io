@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA + SDRAM的串口传图综合实战工程源码"
+title: "基于FPGA  SDRAM的串口传图综合实战工程源码"
 date:   2024-02-05
 tags: [FPGA,源码,SDRAM,VGA,工程]
 comments: true

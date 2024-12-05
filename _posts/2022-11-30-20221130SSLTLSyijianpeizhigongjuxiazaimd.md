@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSL-TLS一键配置工具下载"
+title: "SSLTLS一键配置工具下载"
 date:   2024-05-21
 tags: [SSL,TLS,配置,自定义,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CFA2023 一级考试资料（SchweserNotes 全集）及个人笔记"
+title: "CFA2023 一级考试资料SchweserNotes 全集及个人笔记"
 date:   2022-04-19
 tags: [SchweserNotes,笔记,CFA,考试,资料]
 comments: true

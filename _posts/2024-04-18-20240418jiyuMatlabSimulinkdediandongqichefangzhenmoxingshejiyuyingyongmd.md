@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab-Simulink的电动汽车仿真模型设计与应用"
+title: "基于MatlabSimulink的电动汽车仿真模型设计与应用"
 date:   2021-10-05
 tags: [仿真,Simulink,电动汽车,模型,Matlab]
 comments: true

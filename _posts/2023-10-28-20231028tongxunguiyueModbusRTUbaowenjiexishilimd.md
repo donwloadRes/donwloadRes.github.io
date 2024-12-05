@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通讯规约 - Modbus-RTU 报文解析示例"
+title: "通讯规约  ModbusRTU 报文解析示例"
 date:   2024-05-07
 tags: [Modbus,RTU,示例,寄存器,报文]
 comments: true

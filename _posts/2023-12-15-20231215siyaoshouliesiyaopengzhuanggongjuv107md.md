@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "私钥狩猎：私钥碰撞工具 v1.07"
+title: "私钥狩猎私钥碰撞工具 v107"
 date:   2024-10-02
 tags: [地址,私钥,工具,用户,加密]
 comments: true

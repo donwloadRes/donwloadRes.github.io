@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA DisplayPort (DP) Standard Version 2.0"
+title: "VESA DisplayPort DP Standard Version 20"
 date:   2021-01-25
 tags: [DP,2.0,刷新率,分辨率,VESA]
 comments: true

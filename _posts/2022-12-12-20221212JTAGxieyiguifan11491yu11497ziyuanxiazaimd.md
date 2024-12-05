@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTAG协议规范1149.1与1149.7资源下载"
+title: "JTAG协议规范11491与11497资源下载"
 date:   2024-10-21
 tags: [JTAG,1149.1,1149.7,IEEE,测试]
 comments: true

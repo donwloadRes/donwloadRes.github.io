@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式面试题集锦（带答案、最全）"
+title: "嵌入式面试题集锦带答案最全"
 date:   2020-02-25
 tags: [嵌入式,面试题,模拟,答案,面试]
 comments: true

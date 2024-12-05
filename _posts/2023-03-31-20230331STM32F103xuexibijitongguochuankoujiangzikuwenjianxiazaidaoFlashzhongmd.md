@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记：通过串口将字库文件下载到Flash中"
+title: "STM32F103学习笔记通过串口将字库文件下载到Flash中"
 date:   2020-02-24
 tags: [Flash,串口,字库文件,SPI,STM32F103]
 comments: true

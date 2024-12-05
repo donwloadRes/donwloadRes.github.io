@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP按生产订单成本核算-实践篇"
+title: "SAP按生产订单成本核算实践篇"
 date:   2022-10-15
 tags: [成本核算,SAP,订单,生产,文件]
 comments: true

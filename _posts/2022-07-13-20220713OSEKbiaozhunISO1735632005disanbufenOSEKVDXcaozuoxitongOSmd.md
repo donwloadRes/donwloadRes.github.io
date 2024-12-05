@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK标准 - ISO 17356-3-2005 第三部分：OSEK-VDX 操作系统（OS）"
+title: "OSEK标准  ISO 1735632005 第三部分OSEKVDX 操作系统OS"
 date:   2020-11-13
 tags: [ISO,17356,操作系统,OSEK,2005]
 comments: true

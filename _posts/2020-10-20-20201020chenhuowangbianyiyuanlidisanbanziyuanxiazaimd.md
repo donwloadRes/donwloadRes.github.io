@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陈火旺 编译原理 第三版》资源下载"
+title: "陈火旺 编译原理 第三版资源下载"
 date:   2022-08-28
 tags: [编译,第三版,火旺,原理,下载]
 comments: true

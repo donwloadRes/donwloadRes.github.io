@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用的4～20mA输入-0～5V输出的I／V转换电路"
+title: "实用的420mA输入05V输出的IV转换电路"
 date:   2022-11-08
 tags: [电路,电路设计,转换,20mA,5V]
 comments: true

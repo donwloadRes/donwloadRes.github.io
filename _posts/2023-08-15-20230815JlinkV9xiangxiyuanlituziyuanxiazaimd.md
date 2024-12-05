@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jlink-V9详细原理图资源下载"
+title: "JlinkV9详细原理图资源下载"
 date:   2024-06-30
 tags: [原理图,Jlink,V9,详细,文件]
 comments: true

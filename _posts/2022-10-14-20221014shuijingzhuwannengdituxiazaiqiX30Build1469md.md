@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水经注万能地图下载器 X3.0（Build1469）"
+title: "水经注万能地图下载器 X30Build1469"
 date:   2023-03-18
 tags: [下载,地图,瓦片,导出,谷歌]
 comments: true

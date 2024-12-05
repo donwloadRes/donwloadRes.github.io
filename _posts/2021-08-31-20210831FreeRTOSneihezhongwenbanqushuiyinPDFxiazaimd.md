@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS内核中文版（去水印）PDF下载"
+title: "FreeRTOS内核中文版去水印PDF下载"
 date:   2021-02-27
 tags: [内核,水印,FreeRTOS,PDF,中文版]
 comments: true

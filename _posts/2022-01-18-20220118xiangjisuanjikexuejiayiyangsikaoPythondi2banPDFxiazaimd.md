@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "像计算机科学家一样思考Python(第2版) PDF 下载"
+title: "像计算机科学家一样思考Python第2版 PDF 下载"
 date:   2022-09-04
 tags: [Python,编程,思考,PDF,计算机]
 comments: true

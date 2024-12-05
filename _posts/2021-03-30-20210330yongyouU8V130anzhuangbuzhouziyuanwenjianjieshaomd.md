@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8+V13.0安装步骤资源文件介绍"
+title: "用友U8V130安装步骤资源文件介绍"
 date:   2022-07-11
 tags: [安装,用友,U8,V13.0,文件]
 comments: true

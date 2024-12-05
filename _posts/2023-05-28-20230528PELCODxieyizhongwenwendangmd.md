@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PELCO-D协议中文文档"
+title: "PELCOD协议中文文档"
 date:   2024-06-25
 tags: [PELCO,文档,协议,docx,中文]
 comments: true

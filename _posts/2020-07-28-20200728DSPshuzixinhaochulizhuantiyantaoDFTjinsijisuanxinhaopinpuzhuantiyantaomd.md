@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP数字信号处理专题研讨-DFT 近似计算信号频谱专题研讨"
+title: "DSP数字信号处理专题研讨DFT 近似计算信号频谱专题研讨"
 date:   2020-03-20
 tags: [DFT,专题研讨,频谱,近似计算,误差]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛函分析（原书第2版）资源下载"
+title: "泛函分析原书第2版资源下载"
 date:   2021-12-02
 tags: [泛函,原书,分析,下载,资源]
 comments: true

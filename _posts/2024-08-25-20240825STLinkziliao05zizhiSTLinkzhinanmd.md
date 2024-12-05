@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link资料05_自制ST-Link指南"
+title: "STLink资料05自制STLink指南"
 date:   2020-10-09
 tags: [ST,Link,固件,自制,STM32]
 comments: true

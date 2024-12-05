@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于Spark的外卖大数据平台分析系统"
+title: "毕业设计基于Spark的外卖大数据平台分析系统"
 date:   2024-06-02
 tags: [毕业设计,外卖,Spark,文件,下载]
 comments: true

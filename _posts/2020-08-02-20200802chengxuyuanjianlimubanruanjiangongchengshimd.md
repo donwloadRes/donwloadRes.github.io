@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员简历模板-软件工程师"
+title: "程序员简历模板软件工程师"
 date:   2020-06-02
 tags: [模板,简历,程序员,工程师,软件]
 comments: true

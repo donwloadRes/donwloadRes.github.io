@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用AD库（较全）"
+title: "常用AD库较全"
 date:   2024-06-05
 tags: [AD,常用,元件,仓库,文件]
 comments: true

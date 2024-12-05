@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理实验六：语义分析器"
+title: "编译原理实验六语义分析器"
 date:   2021-01-17
 tags: [语义,分析器,编译器,语言,符号表]
 comments: true

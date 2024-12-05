@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 扫雷小游戏实现（小白入门 + 详细解析）"
+title: "C 扫雷小游戏实现小白入门  详细解析"
 date:   2022-04-14
 tags: [C++,游戏,小游戏,扫雷,光标]
 comments: true

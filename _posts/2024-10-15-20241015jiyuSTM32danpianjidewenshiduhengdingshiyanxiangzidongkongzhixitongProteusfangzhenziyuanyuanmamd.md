@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的温湿度恒定试验箱自动控制系统 Proteus仿真+资源源码"
+title: "基于STM32单片机的温湿度恒定试验箱自动控制系统 Proteus仿真资源源码"
 date:   2024-09-03
 tags: [STM32,仿真,Proteus,温湿度,单片机]
 comments: true

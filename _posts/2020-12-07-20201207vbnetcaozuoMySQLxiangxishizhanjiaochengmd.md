@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vb.net操作MySQL详细实战教程"
+title: "vbnet操作MySQL详细实战教程"
 date:   2022-09-17
 tags: [数据库,MySQL,NET,VB,示例]
 comments: true

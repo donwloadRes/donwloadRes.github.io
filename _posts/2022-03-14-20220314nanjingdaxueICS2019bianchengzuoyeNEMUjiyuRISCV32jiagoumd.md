@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南京大学ICS2019编程作业：NEMU（基于RISC-V32架构）"
+title: "南京大学ICS2019编程作业NEMU基于RISCV32架构"
 date:   2022-10-21
 tags: [编程,NEMU,RISC,V32,bash]
 comments: true

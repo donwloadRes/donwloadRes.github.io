@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "江苏省掼蛋竞赛规则（2023）"
+title: "江苏省掼蛋竞赛规则2023"
 date:   2024-08-11
 tags: [规则,2023,江苏省,竞赛,游戏]
 comments: true

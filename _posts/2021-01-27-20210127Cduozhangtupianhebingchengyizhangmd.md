@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多张图片合并成一张"
+title: "C多张图片合并成一张"
 date:   2020-07-06
 tags: [图片,合并,Visual,Studio,2013]
 comments: true

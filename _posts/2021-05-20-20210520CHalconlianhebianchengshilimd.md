@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# + Halcon 联合编程示例"
+title: "C  Halcon 联合编程示例"
 date:   2022-11-23
 tags: [Halcon,C#,示例,卡尺,编程]
 comments: true

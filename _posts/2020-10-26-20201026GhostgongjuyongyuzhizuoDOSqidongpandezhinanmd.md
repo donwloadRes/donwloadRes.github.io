@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Ghost工具】用于制作DOS启动盘的指南"
+title: "Ghost工具用于制作DOS启动盘的指南"
 date:   2021-04-14
 tags: [DOS,U盘,启动盘,Ghost,Ghost32]
 comments: true

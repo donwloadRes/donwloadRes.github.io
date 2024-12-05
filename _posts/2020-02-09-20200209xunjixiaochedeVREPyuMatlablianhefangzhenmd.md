@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "循迹小车的V-REP与Matlab联合仿真"
+title: "循迹小车的VREP与Matlab联合仿真"
 date:   2024-01-20
 tags: [REP,Matlab,仿真,小车,循迹]
 comments: true

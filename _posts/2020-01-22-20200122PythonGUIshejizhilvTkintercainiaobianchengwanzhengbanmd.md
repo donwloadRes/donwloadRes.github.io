@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python GUI设计之旅：Tkinter菜鸟编程完整版"
+title: "Python GUI设计之旅Tkinter菜鸟编程完整版"
 date:   2023-02-02
 tags: [Tkinter,Python,GUI,编程,控件]
 comments: true

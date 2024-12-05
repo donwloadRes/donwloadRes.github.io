@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indy10.5.8 Delphi7 完美版 安装指南"
+title: "Indy1058 Delphi7 完美版 安装指南"
 date:   2023-12-25
 tags: [Delphi7,文件,Indy10.5,indy10,编译]
 comments: true

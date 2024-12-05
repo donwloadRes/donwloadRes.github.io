@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nexus Repository Manager 3.66.0-02 Windows 64位安装包"
+title: "Nexus Repository Manager 366002 Windows 64位安装包"
 date:   2022-10-13
 tags: [Nexus,Repository,Manager,3.66,02]
 comments: true

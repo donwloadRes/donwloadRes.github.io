@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式 - 可复用面向对象软件的基础 (高清PDF)"
+title: "设计模式  可复用面向对象软件的基础 高清PDF"
 date:   2023-01-05
 tags: [设计模式,面向对象,高清,软件,PDF]
 comments: true

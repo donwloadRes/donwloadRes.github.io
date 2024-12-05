@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT运维工作年度报告模板(详细)"
+title: "IT运维工作年度报告模板详细"
 date:   2021-05-29
 tags: [模板,运维,工作,年度报告,填写]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ-ZC7020硬件原理图和PCB图"
+title: "ZYNQZC7020硬件原理图和PCB图"
 date:   2024-02-27
 tags: [原理图,PCB,ZYNQ,设计,ZC7020]
 comments: true

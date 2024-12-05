@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能学习指南：详细路线与资料推荐"
+title: "人工智能学习指南详细路线与资料推荐"
 date:   2023-03-14
 tags: [学习,人工智能,资料,推荐,文件]
 comments: true

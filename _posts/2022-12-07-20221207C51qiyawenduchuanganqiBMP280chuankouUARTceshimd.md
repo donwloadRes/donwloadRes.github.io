@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C51+气压温度传感器BMP280+串口UART测试"
+title: "C51气压温度传感器BMP280串口UART测试"
 date:   2024-08-16
 tags: [BMP280,I2C,串口,单片机,C51]
 comments: true

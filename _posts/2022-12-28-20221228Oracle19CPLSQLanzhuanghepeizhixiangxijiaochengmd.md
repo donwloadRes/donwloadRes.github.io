@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle19C+PLSQL安装和配置详细教程"
+title: "Oracle19CPLSQL安装和配置详细教程"
 date:   2022-06-11
 tags: [SQL,PL,安装,Oracle,19C]
 comments: true

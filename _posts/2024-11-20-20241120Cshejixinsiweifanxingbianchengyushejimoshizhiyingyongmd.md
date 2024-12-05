@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++设计新思维：泛型编程与设计模式之应用"
+title: "C设计新思维泛型编程与设计模式之应用"
 date:   2021-10-09
 tags: [编程,C++,设计模式,泛型,新思维]
 comments: true

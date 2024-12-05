@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现ini文件读写(Linux和Windows平台均可运行)"
+title: "C实现ini文件读写Linux和Windows平台均可运行"
 date:   2023-03-21
 tags: [ini,Linux,Windows,读写,文件]
 comments: true

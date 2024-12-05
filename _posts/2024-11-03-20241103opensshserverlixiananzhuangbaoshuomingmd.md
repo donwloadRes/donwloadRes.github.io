@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openssh-server离线安装包说明"
+title: "opensshserver离线安装包说明"
 date:   2020-09-25
 tags: [SSH,deb,openssh,离线,版本号]
 comments: true

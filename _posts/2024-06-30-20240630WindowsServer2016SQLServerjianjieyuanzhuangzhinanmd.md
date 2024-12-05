@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2016——SQL Server 简介与安装指南"
+title: "Windows Server 2016SQL Server 简介与安装指南"
 date:   2023-06-17
 tags: [Server,SQL,安装,指南,配置]
 comments: true

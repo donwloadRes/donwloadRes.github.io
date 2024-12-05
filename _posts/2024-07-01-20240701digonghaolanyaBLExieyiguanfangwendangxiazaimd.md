@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "低功耗蓝牙（BLE）协议官方文档下载"
+title: "低功耗蓝牙BLE协议官方文档下载"
 date:   2023-11-13
 tags: [文档,BLE,低功耗,蓝牙,协议]
 comments: true

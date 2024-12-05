@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT + PLC 实现 FINS UDP 通信"
+title: "QT  PLC 实现 FINS UDP 通信"
 date:   2022-04-13
 tags: [QT,PLC,FINS,UDP,通信]
 comments: true

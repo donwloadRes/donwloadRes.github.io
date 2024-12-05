@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机安装JDK 1.8 资源文件介绍"
+title: "虚拟机安装JDK 18 资源文件介绍"
 date:   2020-06-25
 tags: [JDK,安装,1.8,虚拟机,安装包]
 comments: true

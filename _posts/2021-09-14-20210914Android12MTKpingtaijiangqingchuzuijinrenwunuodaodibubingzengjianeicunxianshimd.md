@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 12 MTK平台：将清除最近任务挪到底部并增加内存显示"
+title: "Android 12 MTK平台将清除最近任务挪到底部并增加内存显示"
 date:   2021-04-12
 tags: [Android,12,MTK,内存,修改]
 comments: true

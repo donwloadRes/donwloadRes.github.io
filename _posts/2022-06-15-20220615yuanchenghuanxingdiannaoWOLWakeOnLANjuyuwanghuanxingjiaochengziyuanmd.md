@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程唤醒电脑WOL（Wake On LAN - 局域网唤醒）教程资源"
+title: "远程唤醒电脑WOLWake On LAN  局域网唤醒教程资源"
 date:   2020-06-26
 tags: [唤醒,远程,网卡,教程,WOL]
 comments: true

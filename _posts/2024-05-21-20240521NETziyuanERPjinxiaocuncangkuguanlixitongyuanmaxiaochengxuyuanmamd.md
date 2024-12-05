@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET资源 ERP-进销存-仓库管理系统源码 + 小程序源码"
+title: "NET资源 ERP进销存仓库管理系统源码  小程序源码"
 date:   2023-06-21
 tags: [报表,源码,数据库,管理,NET]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embarcadero Dev-C++ 安装包"
+title: "Embarcadero DevC 安装包"
 date:   2024-08-28
 tags: [Embarcadero,Dev,C++,安装包,安装]
 comments: true

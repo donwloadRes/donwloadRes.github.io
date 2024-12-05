@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RobotStudio 6.08 资源下载"
+title: "RobotStudio 608 资源下载"
 date:   2023-12-24
 tags: [机器人,工作站,RobotStudio,6.08,仿真]
 comments: true

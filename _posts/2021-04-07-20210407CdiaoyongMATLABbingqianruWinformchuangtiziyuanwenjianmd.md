@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用MATLAB并嵌入Winform窗体资源文件"
+title: "C调用MATLAB并嵌入Winform窗体资源文件"
 date:   2022-05-12
 tags: [MATLAB,C#,Winform,窗体,代码]
 comments: true

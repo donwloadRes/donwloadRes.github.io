@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 18.11 x64 学习版 和谐版 学习资料"
+title: "Halcon 1811 x64 学习版 和谐版 学习资料"
 date:   2024-05-22
 tags: [Halcon,学习,x64,18.11,和谐]
 comments: true

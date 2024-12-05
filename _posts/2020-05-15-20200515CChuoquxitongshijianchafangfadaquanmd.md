@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++获取系统时间差方法大全"
+title: "CC获取系统时间差方法大全"
 date:   2021-03-26
 tags: [时间差,获取,C++,函数,方法]
 comments: true

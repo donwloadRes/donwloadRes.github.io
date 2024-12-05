@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工具分享：Eclipse-Java-2019-09版 Windows64位 正版最新资源"
+title: "工具分享EclipseJava201909版 Windows64位 正版最新资源"
 date:   2020-01-01
 tags: [Java,Eclipse,2019,09,64]
 comments: true

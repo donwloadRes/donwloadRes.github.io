@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora 免费安装教程（已支持最新版 1.9.5）"
+title: "Typora 免费安装教程已支持最新版 195"
 date:   2020-09-15
 tags: [Typora,安装,1.9,---,激活]
 comments: true

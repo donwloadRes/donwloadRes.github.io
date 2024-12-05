@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-C3 技术参考手册(中文)"
+title: "ESP32C3 技术参考手册中文"
 date:   2024-07-28
 tags: [参考手册,ESP32,C3,技术,芯片]
 comments: true

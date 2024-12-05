@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetApp OnCommand System Manager 3.1.2"
+title: "NetApp OnCommand System Manager 312"
 date:   2022-03-21
 tags: [NetApp,存储管理,OnCommand,System,Manager]
 comments: true

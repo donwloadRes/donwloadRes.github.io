@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP 完全配置方案-PP 资源下载"
+title: "SAP 完全配置方案PP 资源下载"
 date:   2020-02-16
 tags: [SAP,PP,配置,模块,文件]
 comments: true

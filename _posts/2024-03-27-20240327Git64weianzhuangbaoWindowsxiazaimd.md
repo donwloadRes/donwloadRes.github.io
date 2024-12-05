@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git 64位安装包-Windows 下载"
+title: "Git 64位安装包Windows 下载"
 date:   2022-12-06
 tags: [Git,安装包,Windows,64,下载]
 comments: true

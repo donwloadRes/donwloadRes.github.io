@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shutter Encoder v17.8 资源下载"
+title: "Shutter Encoder v178 资源下载"
 date:   2022-03-15
 tags: [Shutter,Encoder,v17.8,编解码器,支持]
 comments: true

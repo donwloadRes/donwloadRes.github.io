@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "93K_PS_UserManual 下载仓库"
+title: "93KPSUserManual 下载仓库"
 date:   2021-10-18
 tags: [93K,PS,UserManual,下载,手册]
 comments: true

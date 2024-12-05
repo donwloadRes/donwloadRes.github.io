@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一款超好用的ROS APP推荐——ROS-Mobile（亲测好用！）"
+title: "一款超好用的ROS APP推荐ROSMobile亲测好用"
 date:   2024-08-14
 tags: [ROS,Mobile,应用,机器人,用户]
 comments: true

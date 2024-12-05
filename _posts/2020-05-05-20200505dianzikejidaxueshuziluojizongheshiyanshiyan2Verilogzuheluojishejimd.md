@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学数字逻辑综合实验：实验2-Verilog组合逻辑设计"
+title: "电子科技大学数字逻辑综合实验实验2Verilog组合逻辑设计"
 date:   2021-05-27
 tags: [实验,Verilog,开发板,设计,FPGA]
 comments: true

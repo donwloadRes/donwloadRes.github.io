@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "NVIDIA Jetson PyTorch 文件下载"
+title: "NVIDIA Jetson PyTorch 文件下载
+date   20211103
+tags NVIDIAJetsonPyTorchtorch文件
+comments true
+author admin
+
+ NVIDIA Jetson PyTorch 文件下载
+
+ 资源描述
+
+本仓库提供了一个适用于 NVIDIA Jetson 平台的 PyTorch 文件下载该文件版本为 torch1110a0并包含了 torchvision0120适用于 Python 38 和 Linux aarch64 架构
+
+ 文件信息
+
+ 文件名 torch1110a0torchvision0120cp38cp38mlinuxaarch64
+ 适用平台 NVIDIA Jetson
+ Python 版本 38
+ 架构 Linux aarch64
+
+ 使用说明
+
+1 下载文件 请从本仓库中下载 torch1110a0torchvision0120cp38cp38mlinuxaarch64 文件
+2 安装 将下载的文件放置在您的 NVIDIA Jetson 设备上并按照 PyTorch 的安装指南进行安装
+3 验证安装 安装完成后您可以通过运行以下命令来验证 PyTorch 是否成功安装
+   bash
+   python3 c import torch printtorchversion"
 date:   2021-11-03
 tags: [NVIDIA,Jetson,PyTorch,torch,文件]
 comments: true

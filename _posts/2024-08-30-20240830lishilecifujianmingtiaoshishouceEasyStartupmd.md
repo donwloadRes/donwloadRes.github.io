@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "力士乐伺服简明调试手册 – Easy Startup"
+title: "力士乐伺服简明调试手册  Easy Startup"
 date:   2020-01-06
 tags: [伺服,调试,力士乐,简明,驱动]
 comments: true

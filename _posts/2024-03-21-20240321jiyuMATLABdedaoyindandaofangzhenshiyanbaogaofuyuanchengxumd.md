@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的导引弹道仿真实验报告（附源程序）"
+title: "基于MATLAB的导引弹道仿真实验报告附源程序"
 date:   2020-09-10
 tags: [仿真,实验报告,MATLAB,源程序,弹道]
 comments: true

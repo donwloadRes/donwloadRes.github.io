@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为C++编码规范"
+title: "华为C编码规范"
 date:   2020-10-23
 tags: [代码,避免出现,中应,确保,注释]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HP39GII 驱动程序、连接套件及软件游戏资源"
+title: "HP39GII 驱动程序连接套件及软件游戏资源"
 date:   2021-11-09
 tags: [HP39GII,计算器,驱动程序,套件,连接]
 comments: true

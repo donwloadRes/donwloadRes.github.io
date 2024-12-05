@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现FTP服务器"
+title: "C 实现FTP服务器"
 date:   2022-01-05
 tags: [FTP,服务器,文件,C#,NET]
 comments: true

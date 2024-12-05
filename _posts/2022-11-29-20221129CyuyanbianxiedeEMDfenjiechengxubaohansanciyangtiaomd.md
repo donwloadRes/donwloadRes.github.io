@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言编写的EMD分解程序（包含三次样条）"
+title: "C语言编写的EMD分解程序包含三次样条"
 date:   2022-04-16
 tags: [C语言,EMD,Qt,样条,算法]
 comments: true

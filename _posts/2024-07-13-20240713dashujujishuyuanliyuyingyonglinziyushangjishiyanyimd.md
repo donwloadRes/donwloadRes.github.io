@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据技术原理与应用【林子雨】上机实验一"
+title: "大数据技术原理与应用林子雨上机实验一"
 date:   2022-09-20
 tags: [实验,上机,资源,数据,参考]
 comments: true

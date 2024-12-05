@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频主观质量对比工具(Visual comparision tool based on ffplay)"
+title: "视频主观质量对比工具Visual comparision tool based on ffplay"
 date:   2023-11-14
 tags: [播放,分割线,鼠标,对比,视频文件]
 comments: true

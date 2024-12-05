@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32完整工程-UART、ADC、RFID、WS2812"
+title: "ESP32完整工程UARTADCRFIDWS2812"
 date:   2023-07-24
 tags: [ESP32,ADC,RFID,WS2812,UART]
 comments: true

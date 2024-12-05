@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多进制数字载波（4ASK）调制解调仿真设计（Matlab仿真）"
+title: "多进制数字载波4ASK调制解调仿真设计Matlab仿真"
 date:   2022-05-12
 tags: [仿真,Matlab,4ASK,解调,信号]
 comments: true

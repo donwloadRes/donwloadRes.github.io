@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt停车场管理系统 - 基于QT和C++的实现"
+title: "Qt停车场管理系统  基于QT和C的实现"
 date:   2023-05-28
 tags: [Qt,C++,停车,停车场,车位]
 comments: true

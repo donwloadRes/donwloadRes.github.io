@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "格科微原厂AE-2M-3043 GC2053 CSP Datasheet V1.2 20190409"
+title: "格科微原厂AE2M3043 GC2053 CSP Datasheet V12 20190409"
 date:   2023-04-16
 tags: [GC2053,传感器,手册,AE,2M]
 comments: true

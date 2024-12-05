@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的单模医学图像配准综述（附VoxelMorph配准实例）"
+title: "基于深度学习的单模医学图像配准综述附VoxelMorph配准实例"
 date:   2022-10-03
 tags: [配准,图像,基于,VoxelMorph,方法]
 comments: true

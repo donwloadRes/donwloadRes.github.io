@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "超精密机床振动隔离系统分析与设计"
+title: "超精密机床振动隔离系统分析与设计
+date   20230125
+tags 振动机床隔离精密MATLAB
+comments true
+author admin
+
+
+layout post
+title 超精密机床振动隔离系统分析与设计"
 date:   2023-01-25
 tags: [振动,机床,隔离,精密,MATLAB]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "超精密机床振动隔离系统分析与设计"
+title: "超精密机床振动隔离系统分析与设计
+date   20230125
+tags 振动机床隔离精密MATLAB
+comments true
+author admin
+
+
+layout post
+title 超精密机床振动隔离系统分析与设计"
 date:   2023-10-27
 tags: [振动,机床,隔离,MATLAB,精密]
 comments: true

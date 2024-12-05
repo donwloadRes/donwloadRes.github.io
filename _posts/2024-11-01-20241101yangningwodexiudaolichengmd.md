@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "杨宁：我的修道历程"
+title: "杨宁我的修道历程"
 date:   2021-05-15
 tags: [杨宁,修道,文档,历程,易度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assimp模型加载库下载、编译与配置完全指南"
+title: "Assimp模型加载库下载编译与配置完全指南"
 date:   2020-11-25
 tags: [Assimp,编译,3D,lib,模型]
 comments: true

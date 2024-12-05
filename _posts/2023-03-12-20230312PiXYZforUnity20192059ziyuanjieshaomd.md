@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PiXYZ for Unity - 2019.2.0.59 资源介绍"
+title: "PiXYZ for Unity  20192059 资源介绍"
 date:   2024-04-16
 tags: [Unity,插件,PiXYZ,VRED,导入]
 comments: true

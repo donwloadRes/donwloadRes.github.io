@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程练习题大全(带答案)"
+title: "C编程练习题大全带答案"
 date:   2020-05-06
 tags: [习题,编程,C++,练习题,算法]
 comments: true

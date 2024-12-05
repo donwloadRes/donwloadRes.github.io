@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 6.2.6 Windows版本下载"
+title: "Redis 626 Windows版本下载"
 date:   2022-04-17
 tags: [Redis,Windows,版本,6.2,下载]
 comments: true

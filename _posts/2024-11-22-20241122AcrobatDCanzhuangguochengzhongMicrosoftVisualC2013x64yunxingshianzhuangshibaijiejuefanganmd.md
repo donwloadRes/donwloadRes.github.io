@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acrobat DC 安装过程中“Microsoft Visual C++ 2013（x64运行时安装失败）”解决方案"
+title: "Acrobat DC 安装过程中Microsoft Visual C 2013x64运行时安装失败解决方案"
 date:   2023-11-05
 tags: [安装,Microsoft,Acrobat,DC,Visual]
 comments: true

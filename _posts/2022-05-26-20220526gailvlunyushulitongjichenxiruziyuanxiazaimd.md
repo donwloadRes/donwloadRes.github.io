@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计（陈希孺）资源下载"
+title: "概率论与数理统计陈希孺资源下载"
 date:   2020-06-03
 tags: [数理统计,概率论,陈希孺,资源,下载]
 comments: true

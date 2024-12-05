@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电能质量分析与控制 - 肖湘宁著"
+title: "电能质量分析与控制  肖湘宁著"
 date:   2022-11-19
 tags: [电能,质量,肖湘宁著,电气工程,读者]
 comments: true

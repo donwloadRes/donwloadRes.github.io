@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工具--Typora详解"
+title: "工具Typora详解"
 date:   2021-05-13
 tags: [Typora,文档,Markdown,高效,预览]
 comments: true

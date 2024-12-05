@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验5：自己动手画CPU"
+title: "计算机组成原理实验5自己动手画CPU"
 date:   2024-01-18
 tags: [实验,代码,文件,CPU,educoder]
 comments: true

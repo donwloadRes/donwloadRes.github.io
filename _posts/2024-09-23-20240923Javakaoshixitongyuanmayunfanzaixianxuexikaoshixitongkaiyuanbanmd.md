@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java考试系统源码 - 云帆在线学习考试系统开源版"
+title: "Java考试系统源码  云帆在线学习考试系统开源版"
 date:   2022-01-25
 tags: [考试,管理,系统,角色,在线]
 comments: true

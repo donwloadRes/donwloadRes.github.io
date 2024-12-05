@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O'Reilly 软件架构度量 2022.5 资源下载"
+title: "OReilly 软件架构度量 20225 资源下载"
 date:   2023-11-24
 tags: [软件架构,下载,OReilly,文件,度量]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DTCC2023-张纪宽-基于eBPF观测数据库内核"
+title: "DTCC2023张纪宽基于eBPF观测数据库内核"
 date:   2022-03-22
 tags: [eBPF,数据库,内核,观测,应用]
 comments: true

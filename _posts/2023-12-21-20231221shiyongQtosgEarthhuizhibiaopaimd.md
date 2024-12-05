@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Qt+osgEarth绘制标牌"
+title: "使用QtosgEarth绘制标牌"
 date:   2024-05-29
 tags: [Qt,标牌,osgEarth,绘制,文件]
 comments: true

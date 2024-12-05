@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-cpp5.4.0 及API帮助文档"
+title: "Devcpp540 及API帮助文档"
 date:   2024-07-22
 tags: [Dev,API,文档,编程,cpp5.4]
 comments: true

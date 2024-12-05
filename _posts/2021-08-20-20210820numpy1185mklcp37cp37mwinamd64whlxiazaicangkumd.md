@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "numpy-1.18.5+mkl-cp37-cp37m-win_amd64.whl 下载仓库"
+title: "numpy1185mklcp37cp37mwinamd64whl 下载仓库"
 date:   2024-05-17
 tags: [numpy,1.18,whl,cp37,cp37m]
 comments: true

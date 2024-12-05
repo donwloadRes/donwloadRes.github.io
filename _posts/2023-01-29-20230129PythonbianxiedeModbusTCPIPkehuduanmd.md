@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编写的Modbus-TCP-IP客户端"
+title: "Python编写的ModbusTCPIP客户端"
 date:   2024-07-07
 tags: [Modbus,TCP,IP,客户端,Python]
 comments: true

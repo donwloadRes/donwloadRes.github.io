@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理 单总线CPU设计(现代时序)(HUST)实训代码"
+title: "计算机组成原理 单总线CPU设计现代时序HUST实训代码"
 date:   2023-04-25
 tags: [CPU,代码,单总线,实训,HUST]
 comments: true

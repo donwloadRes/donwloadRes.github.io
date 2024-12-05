@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 中英文切换指南"
+title: "C 中英文切换指南"
 date:   2022-01-13
 tags: [资源,文件,Resources,C#,resx]
 comments: true

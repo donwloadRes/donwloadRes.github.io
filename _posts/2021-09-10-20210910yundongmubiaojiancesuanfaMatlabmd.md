@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运动目标检测算法（Matlab）"
+title: "运动目标检测算法Matlab"
 date:   2023-10-26
 tags: [算法,检测,代码,目标,Matlab]
 comments: true

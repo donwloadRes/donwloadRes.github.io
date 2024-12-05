@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ASP.NET的医院在线挂号系统源码"
+title: "基于ASPNET的医院在线挂号系统源码"
 date:   2023-09-08
 tags: [挂号,患者,医院,医生,在线]
 comments: true

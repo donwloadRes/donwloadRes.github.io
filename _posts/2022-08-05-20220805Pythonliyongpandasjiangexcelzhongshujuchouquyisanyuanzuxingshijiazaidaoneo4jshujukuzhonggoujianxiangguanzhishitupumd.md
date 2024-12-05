@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-利用pandas将excel中数据抽取以三元组形式加载到neo4j数据库中构建相关知识图谱"
+title: "Python利用pandas将excel中数据抽取以三元组形式加载到neo4j数据库中构建相关知识图谱"
 date:   2022-09-03
 tags: [Neo4j,三元组,图谱,Python,Excel]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子STM32MP1嵌入式Linux驱动开发指南V1.6"
+title: "正点原子STM32MP1嵌入式Linux驱动开发指南V16"
 date:   2023-03-22
 tags: [嵌入式,Linux,STM32MP1,指南,驱动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 64位 JDK 1.8 及 Tomcat 8、9、10 下载仓库"
+title: "Windows 64位 JDK 18 及 Tomcat 8910 下载仓库"
 date:   2020-08-30
 tags: [Tomcat,JDK,下载,Windows,64]
 comments: true

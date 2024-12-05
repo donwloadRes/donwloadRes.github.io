@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国移动车路协同算力网络白皮书.pdf"
+title: "中国移动车路协同算力网络白皮书pdf"
 date:   2023-04-26
 tags: [车路,白皮书,算力,协同,网络]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天若OCR文字识别本地版-v1.3.5-x64"
+title: "天若OCR文字识别本地版v135x64"
 date:   2023-01-08
 tags: [识别,解压,v1.3,文字,天若]
 comments: true

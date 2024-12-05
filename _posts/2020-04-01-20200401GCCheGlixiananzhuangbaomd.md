@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 和 G++ 离线安装包"
+title: "GCC 和 G 离线安装包"
 date:   2020-01-29
 tags: [安装包,离线,GCC,++,编译器]
 comments: true

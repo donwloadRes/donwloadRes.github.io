@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言绘制爱心的代码（可控制爱心大小）"
+title: "C语言绘制爱心的代码可控制爱心大小"
 date:   2020-01-14
 tags: [代码,C语言,爱心,绘制,编程]
 comments: true

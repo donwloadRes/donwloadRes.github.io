@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CocosCreator经验总结——Typescript实现俄罗斯方块"
+title: "CocosCreator经验总结Typescript实现俄罗斯方块"
 date:   2024-08-18
 tags: [方块,Cocos,Creator,游戏,Typescript]
 comments: true

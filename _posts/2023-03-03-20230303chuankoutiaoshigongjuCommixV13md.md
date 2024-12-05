@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试工具Commix V1.3"
+title: "串口调试工具Commix V13"
 date:   2023-02-13
 tags: [串口,调试,工具,Commix,V1.3]
 comments: true

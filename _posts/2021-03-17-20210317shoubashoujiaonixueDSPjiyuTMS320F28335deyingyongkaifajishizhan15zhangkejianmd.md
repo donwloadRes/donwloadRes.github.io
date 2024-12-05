@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你学DSP—基于TMS320F28335的应用开发及实战1-5章课件"
+title: "手把手教你学DSP基于TMS320F28335的应用开发及实战15章课件"
 date:   2023-11-06
 tags: [课件,DSP,TMS320F28335,手把手,开发]
 comments: true

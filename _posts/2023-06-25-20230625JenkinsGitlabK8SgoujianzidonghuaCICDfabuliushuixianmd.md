@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenkins+Gitlab+K8S 构建自动化CI-CD发布流水线"
+title: "JenkinsGitlabK8S 构建自动化CICD发布流水线"
 date:   2020-03-24
 tags: [CI,CD,流水线,Jenkins,构建]
 comments: true

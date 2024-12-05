@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD9361 寄存器映射参考手册（UG-671-CN）下载仓库"
+title: "AD9361 寄存器映射参考手册UG671CN下载仓库"
 date:   2024-05-18
 tags: [AD9361,UG,671,CN,寄存器]
 comments: true

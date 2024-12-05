@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4xx HAL库（GPIO外设及函数）中文使用指南"
+title: "STM32F4xx HAL库GPIO外设及函数中文使用指南"
 date:   2020-02-12
 tags: [GPIO,外设,指南,STM32F4xx,HAL]
 comments: true

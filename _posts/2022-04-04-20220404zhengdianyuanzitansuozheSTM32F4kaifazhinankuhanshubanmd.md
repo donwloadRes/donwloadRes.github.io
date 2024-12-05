@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子探索者STM32F4开发指南-库函数版"
+title: "正点原子探索者STM32F4开发指南库函数版"
 date:   2022-04-16
 tags: [STM32F4,库函数,指南,开发,探索者]
 comments: true

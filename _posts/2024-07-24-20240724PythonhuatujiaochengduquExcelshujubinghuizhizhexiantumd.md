@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python画图教程：读取Excel数据并绘制折线图"
+title: "Python画图教程读取Excel数据并绘制折线图"
 date:   2020-05-19
 tags: [Python,Excel,读取,折线图,代码]
 comments: true

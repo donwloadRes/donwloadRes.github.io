@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 下 Qt 配置 OpenCV 的 C++ 环境（MinGW）"
+title: "Windows 10 下 Qt 配置 OpenCV 的 C 环境MinGW"
 date:   2020-05-13
 tags: [OpenCV,Qt,CMake,安装,编译]
 comments: true

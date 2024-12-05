@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5Gui.dll 文件丢失解决方案"
+title: "Qt5Guidll 文件丢失解决方案"
 date:   2021-06-21
 tags: [Qt5Gui,dll,文件,应用程序,丢失]
 comments: true

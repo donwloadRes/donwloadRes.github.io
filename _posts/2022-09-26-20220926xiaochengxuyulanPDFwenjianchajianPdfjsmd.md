@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小程序预览PDF文件插件 - Pdf.js"
+title: "小程序预览PDF文件插件  Pdfjs"
 date:   2024-03-09
 tags: [PDF,插件,Pdf,js,预览]
 comments: true

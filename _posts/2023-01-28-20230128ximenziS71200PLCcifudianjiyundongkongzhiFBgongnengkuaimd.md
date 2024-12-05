@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 PLC 伺服电机运动控制FB功能块"
+title: "西门子S71200 PLC 伺服电机运动控制FB功能块"
 date:   2023-08-10
 tags: [功能块,伺服电机,PLC,西门子,S7]
 comments: true

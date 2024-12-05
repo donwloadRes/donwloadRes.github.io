@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mybatis-Flex Springboot 集成源码及示例"
+title: "MybatisFlex Springboot 集成源码及示例"
 date:   2020-05-06
 tags: [Mybatis,示例,Flex,Springboot,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PELCO-D协议调试助手"
+title: "PELCOD协议调试助手"
 date:   2022-04-24
 tags: [PELCO,调试,协议,测试,助手]
 comments: true

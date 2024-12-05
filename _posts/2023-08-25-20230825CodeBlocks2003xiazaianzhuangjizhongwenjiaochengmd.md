@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeBlocks-20.03 下载安装及中文教程"
+title: "CodeBlocks2003 下载安装及中文教程"
 date:   2022-03-18
 tags: [CodeBlocks,20.03,教程,下载,中文]
 comments: true

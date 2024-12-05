@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 服务器安装图文教程（超详细版）"
+title: "CentOS 76 服务器安装图文教程超详细版"
 date:   2021-05-28
 tags: [安装,教程,CentOS,7.6,服务器]
 comments: true

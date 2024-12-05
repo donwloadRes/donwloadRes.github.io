@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJBZ 141-2004 军用软件测试指南"
+title: "GJBZ 1412004 军用软件测试指南"
 date:   2024-03-03
 tags: [测试,软件,军用,文档,2004]
 comments: true

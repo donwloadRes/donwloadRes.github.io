@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN协议2.0中文版资源下载"
+title: "CAN协议20中文版资源下载"
 date:   2024-09-17
 tags: [协议,2.0,3.1,报文,中文版]
 comments: true

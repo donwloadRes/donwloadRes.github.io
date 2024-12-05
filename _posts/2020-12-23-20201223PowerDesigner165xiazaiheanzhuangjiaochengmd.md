@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner 16.5 下载和安装教程"
+title: "PowerDesigner 165 下载和安装教程"
 date:   2021-07-08
 tags: [PowerDesigner,16.5,安装,教程,汉化]
 comments: true

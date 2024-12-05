@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现H-infinity鲁棒控制教程"
+title: "MATLAB实现Hinfinity鲁棒控制教程"
 date:   2023-11-20
 tags: [鲁棒控制,infinity,MATLAB,代码,教程]
 comments: true

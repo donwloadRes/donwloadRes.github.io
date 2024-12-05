@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阳光电源—大功率储能PCS关键技术研究"
+title: "阳光电源大功率储能PCS关键技术研究"
 date:   2023-03-30
 tags: [储能,系统,技术,大功率,电网]
 comments: true

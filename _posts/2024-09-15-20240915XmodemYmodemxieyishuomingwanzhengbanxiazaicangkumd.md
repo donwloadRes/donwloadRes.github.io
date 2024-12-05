@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xmodem-Ymodem 协议说明（完整版）下载仓库"
+title: "XmodemYmodem 协议说明完整版下载仓库"
 date:   2023-01-17
 tags: [Xmodem,Ymodem,协议,完整版,文件]
 comments: true

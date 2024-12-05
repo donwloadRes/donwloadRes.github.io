@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "WPF自定义TreeViewItem样式资源文件"
+title: "WPF自定义TreeViewItem样式资源文件
+date   20220215
+tags TreeViewItem样式自定义文件WPF
+comments true
+author admin
+
+ WPF自定义TreeViewItem样式资源文件
+
+本仓库提供了一个WPF自定义TreeViewItem样式的资源文件该样式可以在WPF应用程序中使用以实现更加美观和个性化的TreeViewItem展示效果
+
+ 资源文件描述
+
+该资源文件包含了自定义的TreeViewItem样式通过应用该样式您可以轻松地改变TreeViewItem的外观包括背景颜色字体样式图标等该样式的设计灵感来源于CSDN博客中的一篇文章展示了如何通过自定义样式来提升TreeView的用户体验
+
+ 使用方法
+
+1 下载本仓库中的资源文件
+2 将资源文件添加到您的WPF项目中
+3 在XAML文件中引用该资源文件并将其应用到TreeViewItem上
+
+ 示例代码
+
+xml
+Window xClassYourNamespaceMainWindow
+        xmlnshttpschemasmicrosoftcomwinfx2006xamlpresentation
+        xmlnsxhttpschemasmicrosoftcomwinfx2006xaml"
 date:   2022-02-15
 tags: [TreeViewItem,样式,自定义,文件,WPF]
 comments: true

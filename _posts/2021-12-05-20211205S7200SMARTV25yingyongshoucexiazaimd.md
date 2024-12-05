@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART V2.5 应用手册下载"
+title: "S7200 SMART V25 应用手册下载"
 date:   2022-11-01
 tags: [200,SMART,S7,CPU,手册]
 comments: true

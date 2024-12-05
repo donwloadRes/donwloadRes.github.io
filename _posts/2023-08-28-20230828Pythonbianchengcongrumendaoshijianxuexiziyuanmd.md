@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程：从入门到实践 学习资源"
+title: "Python编程从入门到实践 学习资源"
 date:   2024-02-12
 tags: [Python,编程,学习,实践,入门]
 comments: true

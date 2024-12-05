@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HexView（Vector）V1.12.05 资源文件介绍"
+title: "HexViewVectorV11205 资源文件介绍"
 date:   2022-04-01
 tags: [文件,HexView,Vector,05,文件格式]
 comments: true

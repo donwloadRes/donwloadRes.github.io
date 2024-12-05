@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac M1-M2 安装 Windows 11 虚拟机指南"
+title: "Mac M1M2 安装 Windows 11 虚拟机指南"
 date:   2022-12-16
 tags: [Preview,VMware,虚拟机,Windows,11]
 comments: true

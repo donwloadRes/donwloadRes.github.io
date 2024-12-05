@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL JDBC驱动Jar包 (适用于MySQL 5.7版本)"
+title: "MySQL JDBC驱动Jar包 适用于MySQL 57版本"
 date:   2020-11-03
 tags: [MySQL,Jar,数据库,JDBC,String]
 comments: true

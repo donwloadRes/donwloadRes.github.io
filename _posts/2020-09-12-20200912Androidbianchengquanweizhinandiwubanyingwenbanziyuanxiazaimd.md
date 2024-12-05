@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android编程权威指南第五版（英文版）资源下载"
+title: "Android编程权威指南第五版英文版资源下载"
 date:   2024-02-20
 tags: [Android,编程,第五版,下载,英文版]
 comments: true

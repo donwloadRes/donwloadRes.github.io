@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "secureCRT FX 8.0 下载指南"
+title: "secureCRT FX 80 下载指南"
 date:   2022-12-28
 tags: [下载,软件,8.0,使用,文档]
 comments: true

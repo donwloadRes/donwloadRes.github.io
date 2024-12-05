@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA机器人与S7-1200 Profinet 通讯配置指南"
+title: "KUKA机器人与S71200 Profinet 通讯配置指南"
 date:   2023-04-17
 tags: [KUKA,配置,通讯,S7,PLC]
 comments: true

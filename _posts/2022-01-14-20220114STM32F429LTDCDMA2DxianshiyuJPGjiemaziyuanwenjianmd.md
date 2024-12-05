@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F429 LTDC+DMA2D显示与JPG解码资源文件"
+title: "STM32F429 LTDCDMA2D显示与JPG解码资源文件"
 date:   2024-07-04
 tags: [文件,JPG,STM32F429,解码,文件系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab教程：从新手到骨灰级玩家"
+title: "Matlab教程从新手到骨灰级玩家"
 date:   2024-07-18
 tags: [Matlab,教程,学习,骨灰级,玩家]
 comments: true

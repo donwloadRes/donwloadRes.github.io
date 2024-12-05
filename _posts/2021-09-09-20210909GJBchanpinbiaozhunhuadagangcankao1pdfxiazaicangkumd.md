@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB产品标准化大纲参考1.pdf 下载仓库"
+title: "GJB产品标准化大纲参考1pdf 下载仓库"
 date:   2020-04-30
 tags: [GJB,标准化,参考,文件,大纲]
 comments: true

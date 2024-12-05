@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构考研笔记（西电版）下载"
+title: "数据结构考研笔记西电版下载"
 date:   2021-05-11
 tags: [考研,数据结构,笔记,下载,文件]
 comments: true

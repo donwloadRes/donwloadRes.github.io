@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红米Note3全网通 Fastboot 9008模式进入工具（Windows平台）"
+title: "红米Note3全网通 Fastboot 9008模式进入工具Windows平台"
 date:   2020-08-26
 tags: [Note3,9008,网通,设备,模式]
 comments: true

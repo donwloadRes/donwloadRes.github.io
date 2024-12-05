@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VLC 3.0.6 资源文件下载"
+title: "VLC 306 资源文件下载"
 date:   2020-01-08
 tags: [文件,VLC,下载,媒体播放器,3.0]
 comments: true

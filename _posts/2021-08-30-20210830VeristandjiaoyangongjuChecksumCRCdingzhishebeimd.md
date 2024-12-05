@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veristand 校验工具：Checksum-CRC定制设备"
+title: "Veristand 校验工具ChecksumCRC定制设备"
 date:   2020-05-31
 tags: [Veristand,校验,Custom,Device,Checksum]
 comments: true

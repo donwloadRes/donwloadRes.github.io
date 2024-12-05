@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决QT 5.15.0在线安装问题"
+title: "完美解决QT 5150在线安装问题"
 date:   2024-01-25
 tags: [QT,5.15,在线,安装,完美]
 comments: true

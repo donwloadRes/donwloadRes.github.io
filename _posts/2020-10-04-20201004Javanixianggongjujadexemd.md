@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java逆向工具jad.exe"
+title: "Java逆向工具jadexe"
 date:   2024-11-25
 tags: [jad,exe,Java,工具,逆向]
 comments: true

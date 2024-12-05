@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代语音信号处理-胡航-第四版-高清晰"
+title: "现代语音信号处理胡航第四版高清晰"
 date:   2022-02-26
 tags: [信号处理,胡航,语音,高清晰,第四版]
 comments: true

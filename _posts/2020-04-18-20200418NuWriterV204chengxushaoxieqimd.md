@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NuWriter_V2.04 程序烧写器"
+title: "NuWriterV204 程序烧写器"
 date:   2020-03-23
 tags: [烧写,V2.04,NuWriter,写器,程序]
 comments: true

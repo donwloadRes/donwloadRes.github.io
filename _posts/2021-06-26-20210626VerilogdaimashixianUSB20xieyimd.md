@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog代码实现USB 2.0协议"
+title: "Verilog代码实现USB 20协议"
 date:   2022-10-12
 tags: [Verilog,文件,USB,2.0,代码]
 comments: true

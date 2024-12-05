@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音转文字神器：免费高效的一站式解决方案"
+title: "语音转文字神器免费高效的一站式解决方案"
 date:   2022-01-02
 tags: [语音,字幕,文字,实时,音频]
 comments: true

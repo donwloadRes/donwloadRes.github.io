@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "俄文8x16液晶点阵_ASCII大小资源包"
+title: "俄文8x16液晶点阵ASCII大小资源包"
 date:   2020-12-15
 tags: [点阵,俄文,8x16,液晶,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker JDK 基础镜像精简（x86和arm架构）踩坑指南 第二弹"
+title: "Docker JDK 基础镜像精简x86和arm架构踩坑指南 第二弹"
 date:   2023-09-23
 tags: [镜像,x86,架构,构建,JDK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDBC 实战教程-尚硅谷学习笔记 2023年"
+title: "JDBC 实战教程尚硅谷学习笔记 2023年"
 date:   2020-10-01
 tags: [JDBC,笔记,学习,实战,示例]
 comments: true

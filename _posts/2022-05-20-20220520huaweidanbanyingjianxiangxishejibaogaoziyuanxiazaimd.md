@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为单板硬件详细设计报告+资源下载"
+title: "华为单板硬件详细设计报告资源下载"
 date:   2024-03-05
 tags: [硬件,华为,单板,设计,工程师]
 comments: true

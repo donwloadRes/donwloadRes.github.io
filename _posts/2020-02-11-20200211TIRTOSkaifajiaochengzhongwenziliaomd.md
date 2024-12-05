@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI-RTOS开发教程 中文资料"
+title: "TIRTOS开发教程 中文资料"
 date:   2023-07-25
 tags: [RTOS,TI,开发,教程,资料]
 comments: true

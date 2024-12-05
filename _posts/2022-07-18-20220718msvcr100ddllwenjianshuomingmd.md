@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "msvcr100d.dll 文件说明"
+title: "msvcr100ddll 文件说明"
 date:   2024-02-23
 tags: [msvcr100d,dll,文件,DLL,调试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DISFA+ 人脸表情数据集"
+title: "DISFA 人脸表情数据集"
 date:   2022-09-30
 tags: [表情,百度网,数据,DISFA,人脸]
 comments: true

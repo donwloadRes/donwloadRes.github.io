@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog DPI-C调用Python函数"
+title: "SystemVerilog DPIC调用Python函数"
 date:   2021-05-04
 tags: [Python,SystemVerilog,CC,DPI,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Filter-Solutions教程资源下载"
+title: "FilterSolutions教程资源下载"
 date:   2021-11-25
 tags: [Filter,Solutions,教程,资源,下载]
 comments: true

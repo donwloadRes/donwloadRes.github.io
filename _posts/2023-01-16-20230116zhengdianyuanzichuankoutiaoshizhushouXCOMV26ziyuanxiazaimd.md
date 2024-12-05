@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子串口调试助手 XCOM V2.6 资源下载"
+title: "正点原子串口调试助手 XCOM V26 资源下载"
 date:   2023-06-26
 tags: [支持,发送,串口,bug,自定义]
 comments: true

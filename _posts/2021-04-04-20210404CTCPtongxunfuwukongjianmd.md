@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP通讯服务控件"
+title: "C TCP通讯服务控件"
 date:   2021-09-16
 tags: [控件,源码,测试,C#,拖拽]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon License - 2024.09.01（持续更新）"
+title: "Halcon License  20240901持续更新"
 date:   2021-04-07
 tags: [License,Halcon,2024.09,01,文件]
 comments: true

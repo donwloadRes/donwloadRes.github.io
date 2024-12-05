@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GZBZ 223-2005 最坏情况电路分析指南"
+title: "GZBZ 2232005 最坏情况电路分析指南"
 date:   2020-10-19
 tags: [电路,WCCA,最坏,电路设计,2005]
 comments: true

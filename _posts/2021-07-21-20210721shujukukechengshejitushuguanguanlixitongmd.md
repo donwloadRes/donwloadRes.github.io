@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库课程设计——图书馆管理系统"
+title: "数据库课程设计图书馆管理系统"
 date:   2024-06-19
 tags: [管理系统,图书馆,文档,源代码,系统]
 comments: true

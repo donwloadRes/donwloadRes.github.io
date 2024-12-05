@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "合成孔径雷达成像原理 - 皮亦鸣.pdf"
+title: "合成孔径雷达成像原理  皮亦鸣pdf"
 date:   2023-08-18
 tags: [合成孔径雷达,SAR,成像,皮亦鸣,雷达]
 comments: true

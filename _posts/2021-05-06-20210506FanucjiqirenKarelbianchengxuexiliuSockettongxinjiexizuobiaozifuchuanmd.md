@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fanuc机器人 Karel 编程学习（六）---Socket通信 & 解析坐标字符串"
+title: "Fanuc机器人 Karel 编程学习六Socket通信  解析坐标字符串"
 date:   2021-10-18
 tags: [机器人,Karel,坐标,字符串,Fanuc]
 comments: true

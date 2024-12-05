@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM + FPGA运动控制卡设计方案"
+title: "ARM  FPGA运动控制卡设计方案"
 date:   2021-04-25
 tags: [FPGA,ARM,控制卡,运动,算法]
 comments: true

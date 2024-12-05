@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FDK重建算法代码（Matlab）"
+title: "FDK重建算法代码Matlab"
 date:   2020-11-26
 tags: [重建,FDK,代码,Matlab,CT]
 comments: true

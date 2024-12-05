@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Socket 实现简单服务端与客户端连接及消息发送"
+title: "C WinForm Socket 实现简单服务端与客户端连接及消息发送"
 date:   2023-07-30
 tags: [客户端,服务端,连接,发送,断开]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网国赛LORA模块开发教程(通用库)——LoRa点对点通信"
+title: "物联网国赛LORA模块开发教程通用库LoRa点对点通信"
 date:   2021-04-21
 tags: [LoRa,点对点,模块,教程,通信]
 comments: true

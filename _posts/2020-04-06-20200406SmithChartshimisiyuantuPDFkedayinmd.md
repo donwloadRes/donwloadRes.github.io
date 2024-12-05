@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smith Chart 史密斯圆图-PDF可打印"
+title: "Smith Chart 史密斯圆图PDF可打印"
 date:   2022-07-28
 tags: [PDF,圆图,打印,史密斯,Smith]
 comments: true

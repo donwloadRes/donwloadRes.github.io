@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 自定义属性在PropertyGrid控件中显示演示Demo"
+title: "C 自定义属性在PropertyGrid控件中显示演示Demo"
 date:   2024-07-06
 tags: [自定义,属性,PropertyGrid,控件,C#]
 comments: true

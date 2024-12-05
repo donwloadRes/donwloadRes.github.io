@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#树型GRIDVIEW(层叠表格)"
+title: "C树型GRIDVIEW层叠表格"
 date:   2020-11-04
 tags: [表格,C#,树型,GRIDVIEW,文件]
 comments: true

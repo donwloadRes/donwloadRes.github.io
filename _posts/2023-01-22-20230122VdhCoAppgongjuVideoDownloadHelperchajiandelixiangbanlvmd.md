@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VdhCoApp 工具——“Video DownloadHelper”插件的理想伴侣"
+title: "VdhCoApp 工具Video DownloadHelper插件的理想伴侣"
 date:   2022-01-18
 tags: [下载,视频,VdhCoApp,插件,Video]
 comments: true

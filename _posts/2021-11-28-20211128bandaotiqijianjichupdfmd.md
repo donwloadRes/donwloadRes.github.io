@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体器件基础.pdf"
+title: "半导体器件基础pdf"
 date:   2021-11-06
 tags: [半导体器件,pdf,半导体,基础,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "获取网页设计资源：提升学习，释放创造潜能"
+title: "获取网页设计资源提升学习释放创造潜能"
 date:   2021-10-29
 tags: [网页,设计,资源,示例,解压]
 comments: true

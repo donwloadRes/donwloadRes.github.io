@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 38505-1中文版下载"
+title: "ISOIEC 385051中文版下载"
 date:   2023-02-14
 tags: [ISO,IEC,38505,中文版,治理]
 comments: true

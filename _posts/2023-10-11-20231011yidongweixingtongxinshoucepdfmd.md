@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动卫星通信手册.pdf"
+title: "移动卫星通信手册pdf"
 date:   2024-05-29
 tags: [卫星通信,手册,MSS,移动,行业]
 comments: true

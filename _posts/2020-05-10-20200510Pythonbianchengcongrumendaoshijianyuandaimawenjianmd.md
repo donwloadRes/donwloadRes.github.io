@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程：从入门到实践 源代码文件"
+title: "Python编程从入门到实践 源代码文件"
 date:   2020-08-24
 tags: [Python,代码,源代码,文件,编程]
 comments: true

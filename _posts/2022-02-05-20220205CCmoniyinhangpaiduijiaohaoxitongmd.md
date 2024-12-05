@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++模拟银行排队叫号系统"
+title: "CC模拟银行排队叫号系统"
 date:   2024-04-02
 tags: [客户,窗口,办理,到达,等待时间]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabView学习笔记——简易入门与初级实战项目（计算器）"
+title: "LabView学习笔记简易入门与初级实战项目计算器"
 date:   2023-12-12
 tags: [LabView,计算器,笔记,简易,编程]
 comments: true

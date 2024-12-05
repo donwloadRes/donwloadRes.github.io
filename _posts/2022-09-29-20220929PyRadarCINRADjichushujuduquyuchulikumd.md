@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyRadar: CINRAD基础数据读取与处理库"
+title: "PyRadar CINRAD基础数据读取与处理库"
 date:   2024-10-19
 tags: [CINRAD,PyRadar,数据,PPI,雷达]
 comments: true

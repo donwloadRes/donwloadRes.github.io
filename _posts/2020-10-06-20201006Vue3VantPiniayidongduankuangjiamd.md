@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 + Vant + Pinia 移动端框架"
+title: "Vue3  Vant  Pinia 移动端框架"
 date:   2024-10-01
 tags: [项目,框架,Vue3,Pinia,Node]
 comments: true

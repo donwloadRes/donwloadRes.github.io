@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32串口控制DFPlayer_Mini播放模块"
+title: "STM32串口控制DFPlayerMini播放模块"
 date:   2022-02-23
 tags: [Uart,DFplayer,STM32,DFPlayer,Mini]
 comments: true

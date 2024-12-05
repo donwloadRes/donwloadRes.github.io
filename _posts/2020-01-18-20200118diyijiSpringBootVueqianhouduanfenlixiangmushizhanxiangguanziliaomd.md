@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【第一季】【SpringBoot+Vue】前后端分离项目实战 相关资料"
+title: "第一季SpringBootVue前后端分离项目实战 相关资料"
 date:   2020-03-24
 tags: [笔记,SpringBoot,Vue,项目,实战]
 comments: true

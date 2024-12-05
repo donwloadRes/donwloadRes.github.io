@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python+Django+MySQL的小型员工管理系统"
+title: "基于PythonDjangoMySQL的小型员工管理系统"
 date:   2020-10-16
 tags: [MySQL,员工,数据库,Django,小型]
 comments: true

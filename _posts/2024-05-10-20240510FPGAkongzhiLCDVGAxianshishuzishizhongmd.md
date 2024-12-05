@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA控制LCD-VGA显示数字时钟"
+title: "FPGA控制LCDVGA显示数字时钟"
 date:   2021-03-20
 tags: [LCD,FPGA,VGA,时钟,时序]
 comments: true

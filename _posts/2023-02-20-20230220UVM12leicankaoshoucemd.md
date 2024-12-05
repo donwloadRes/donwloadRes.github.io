@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM 1.2 类参考手册"
+title: "UVM 12 类参考手册"
 date:   2024-09-05
 tags: [UVM,1.2,参考手册,源码,理解]
 comments: true

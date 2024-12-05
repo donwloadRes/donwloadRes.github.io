@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件系统操作手册_模板"
+title: "软件系统操作手册模板"
 date:   2020-06-13
 tags: [模板,操作手册,文档,软件,软件系统]
 comments: true

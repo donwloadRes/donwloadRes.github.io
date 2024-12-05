@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Godot4自学手册：1-17节源代码实战教程"
+title: "Godot4自学手册117节源代码实战教程"
 date:   2020-08-14
 tags: [Godot,源代码,游戏,学习,Godot4]
 comments: true

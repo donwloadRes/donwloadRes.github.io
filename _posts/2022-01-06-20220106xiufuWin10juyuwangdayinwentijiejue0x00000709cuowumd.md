@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "修复Win10局域网打印问题 - 解决0x00000709错误"
+title: "修复Win10局域网打印问题  解决0x00000709错误"
 date:   2023-01-15
 tags: [打印服务,批处理,打印机,文件,Windows]
 comments: true

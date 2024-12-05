@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS-RTU CRC校验工具"
+title: "MODBUSRTU CRC校验工具"
 date:   2021-06-13
 tags: [MODBUS,RTU,CRC,校验码,校验]
 comments: true

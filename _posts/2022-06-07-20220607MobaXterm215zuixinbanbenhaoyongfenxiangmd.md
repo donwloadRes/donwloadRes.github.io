@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 21.5 最新版本，好用分享！"
+title: "MobaXterm 215 最新版本好用分享"
 date:   2023-03-05
 tags: [MobaXterm,远程,Unix,Windows,服务器]
 comments: true

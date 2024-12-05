@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe.Appx —— 解决Wsappx进程占用问题的必备组件"
+title: "MicrosoftVCLibs14000140307040x648wekyb3d8bbweAppx  解决Wsappx进程占用问题的必备组件"
 date:   2023-04-21
 tags: [组件,系统,Appx,Wsappx,输入法]
 comments: true

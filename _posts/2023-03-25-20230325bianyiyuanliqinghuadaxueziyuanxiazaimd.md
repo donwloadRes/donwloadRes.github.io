@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理》清华大学资源下载"
+title: "编译原理清华大学资源下载"
 date:   2023-01-29
 tags: [代码生成,语义,编译程序,介绍,代码优化]
 comments: true

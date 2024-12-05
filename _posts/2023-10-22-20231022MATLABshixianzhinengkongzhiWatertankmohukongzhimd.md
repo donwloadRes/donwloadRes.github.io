@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现智能控制-Watertank-模糊控制"
+title: "MATLAB实现智能控制Watertank模糊控制"
 date:   2021-04-02
 tags: [水箱,液位,MATLAB,水阀,仿真]
 comments: true

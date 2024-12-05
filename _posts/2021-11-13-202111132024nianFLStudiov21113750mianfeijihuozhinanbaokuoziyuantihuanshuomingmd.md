@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 年 FL Studio v21.1.1.3750 免费激活指南（包括资源替换说明）"
+title: "2024 年 FL Studio v21113750 免费激活指南包括资源替换说明"
 date:   2021-03-09
 tags: [FL,Studio,1.3750,安装,v21.1]
 comments: true

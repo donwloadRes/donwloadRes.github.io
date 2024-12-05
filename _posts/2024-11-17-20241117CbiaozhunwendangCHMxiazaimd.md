@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 标准文档 CHM 下载"
+title: "C 标准文档 CHM 下载"
 date:   2021-12-19
 tags: [C++,库中,标准,20,介绍]
 comments: true

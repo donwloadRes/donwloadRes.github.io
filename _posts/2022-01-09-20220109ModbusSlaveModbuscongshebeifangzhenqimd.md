@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus Slave: Modbus从设备仿真器"
+title: "Modbus Slave Modbus从设备仿真器"
 date:   2020-07-06
 tags: [Modbus,设备,仿真器,Slave,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyPlayer-RTSP-Windows"
+title: "EasyPlayerRTSPWindows"
 date:   2023-03-15
 tags: [RTSP,播放,Windows,视频,EasyPlayer]
 comments: true

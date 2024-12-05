@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彻底卸载软件指南：解决卸载残余问题"
+title: "彻底卸载软件指南解决卸载残余问题"
 date:   2024-02-25
 tags: [卸载,Xftp,注册表,文件,无法访问]
 comments: true

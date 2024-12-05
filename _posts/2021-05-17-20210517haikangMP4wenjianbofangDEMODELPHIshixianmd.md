@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康MP4文件播放DEMO - DELPHI实现"
+title: "海康MP4文件播放DEMO  DELPHI实现"
 date:   2024-11-26
 tags: [DELPHI,MP4,海康,播放,示例]
 comments: true

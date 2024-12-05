@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适用于Qt4、Qt5的MQTT客户端库"
+title: "适用于Qt4Qt5的MQTT客户端库"
 date:   2020-12-03
 tags: [MQTT,Qt,编译,客户端,集成]
 comments: true

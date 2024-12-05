@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop ICO 插件 - ICOFormat.8bi"
+title: "Photoshop ICO 插件  ICOFormat8bi"
 date:   2021-07-12
 tags: [Photoshop,插件,ICO,CUR,文件]
 comments: true

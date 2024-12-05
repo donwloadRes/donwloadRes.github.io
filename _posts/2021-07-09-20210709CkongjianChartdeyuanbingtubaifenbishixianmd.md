@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 控件Chart的圆饼图百分比实现"
+title: "C 控件Chart的圆饼图百分比实现"
 date:   2021-05-17
 tags: [圆饼,C#,控件,示例,Chart]
 comments: true

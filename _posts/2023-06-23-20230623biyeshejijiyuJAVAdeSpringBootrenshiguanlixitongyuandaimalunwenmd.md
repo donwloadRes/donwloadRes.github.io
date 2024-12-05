@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-基于JAVA的Spring Boot人事管理系统(源代码+论文)"
+title: "毕业设计基于JAVA的Spring Boot人事管理系统源代码论文"
 date:   2022-03-27
 tags: [系统,源代码,Spring,Boot,数据库]
 comments: true

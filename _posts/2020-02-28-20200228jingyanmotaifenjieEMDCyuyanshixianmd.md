@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经验模态分解（EMD）C语言实现"
+title: "经验模态分解EMDC语言实现"
 date:   2020-02-29
 tags: [C语言,EMD,模态,分解,下载]
 comments: true

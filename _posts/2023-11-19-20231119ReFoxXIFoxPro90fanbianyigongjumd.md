@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ReFox XI： FoxPro 9.0 反编译工具"
+title: "ReFox XI FoxPro 90 反编译工具"
 date:   2024-08-15
 tags: [软件,工具,ReFox,XI,反编译]
 comments: true

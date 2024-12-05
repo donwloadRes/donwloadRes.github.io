@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VP9 视频编码标准（谷歌官方）资源下载"
+title: "VP9 视频编码标准谷歌官方资源下载"
 date:   2020-06-14
 tags: [VP9,编码标准,下载,视频,官方]
 comments: true

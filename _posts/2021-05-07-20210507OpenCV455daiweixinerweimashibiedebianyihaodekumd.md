@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.5.5 带微信二维码识别的编译好的库"
+title: "OpenCV 455 带微信二维码识别的编译好的库"
 date:   2022-11-29
 tags: [OpenCV,二维码,微信,识别,编译]
 comments: true

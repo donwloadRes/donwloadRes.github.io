@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零刻EQ12&EQ12Pro安装原厂系统教程"
+title: "零刻EQ12EQ12Pro安装原厂系统教程"
 date:   2020-04-24
 tags: [U盘,安装,原厂,镜像文件,系统]
 comments: true

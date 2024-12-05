@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++课程设计：基于Qt的航班信息管理系统"
+title: "C课程设计基于Qt的航班信息管理系统"
 date:   2023-09-03
 tags: [订票,航班信息,退票,Qt,航班号]
 comments: true

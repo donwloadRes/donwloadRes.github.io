@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧标电动汽车充电标准DIN70121-2014-12中文版"
+title: "欧标电动汽车充电标准DIN70121201412中文版"
 date:   2020-03-01
 tags: [充电,电动汽车,DIN70121,2014,12]
 comments: true

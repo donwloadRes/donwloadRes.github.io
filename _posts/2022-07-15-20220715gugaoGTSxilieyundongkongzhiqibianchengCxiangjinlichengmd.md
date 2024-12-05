@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固高GTS系列运动控制器编程 - C#详尽例程"
+title: "固高GTS系列运动控制器编程  C详尽例程"
 date:   2021-06-05
 tags: [例程,C#,固高,GTS,编程]
 comments: true

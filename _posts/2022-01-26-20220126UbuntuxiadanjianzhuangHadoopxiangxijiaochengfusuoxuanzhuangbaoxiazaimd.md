@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu下单机安装Hadoop详细教程（附所需安装包下载）"
+title: "Ubuntu下单机安装Hadoop详细教程附所需安装包下载"
 date:   2023-08-24
 tags: [Hadoop,安装,教程,Ubuntu,SSH]
 comments: true

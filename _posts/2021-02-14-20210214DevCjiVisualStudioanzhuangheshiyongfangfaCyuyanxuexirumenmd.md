@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++及Visual Studio 安装和使用方法（C语言学习入门）"
+title: "DevC及Visual Studio 安装和使用方法C语言学习入门"
 date:   2024-01-20
 tags: [C++,C语言,Dev,Visual,Studio]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装OpenCV时缺少boostdesc_bgm.i文件的解决方案"
+title: "安装OpenCV时缺少boostdescbgmi文件的解决方案"
 date:   2024-02-09
 tags: [boostdesc,OpenCV,bgm,文件,vgg]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PLC控制界面"
+title: "C PLC控制界面"
 date:   2021-04-28
 tags: [PLC,C#,Visual,Studio,开发]
 comments: true

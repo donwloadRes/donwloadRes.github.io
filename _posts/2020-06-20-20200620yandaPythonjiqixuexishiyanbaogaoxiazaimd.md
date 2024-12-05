@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "燕大Python机器学习》实验报告下载"
+title: "燕大Python机器学习实验报告下载"
 date:   2022-08-25
 tags: [实验报告,学习,机器,Python,下载]
 comments: true

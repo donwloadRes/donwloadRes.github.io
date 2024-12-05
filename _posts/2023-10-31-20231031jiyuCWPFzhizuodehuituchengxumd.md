@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C# WPF制作的绘图程序"
+title: "基于C WPF制作的绘图程序"
 date:   2023-01-03
 tags: [程序,图形,绘图,运行,文件]
 comments: true

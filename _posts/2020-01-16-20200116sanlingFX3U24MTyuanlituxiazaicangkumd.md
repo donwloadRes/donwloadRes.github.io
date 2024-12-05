@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱 FX3U-24MT-原理图 下载仓库"
+title: "三菱 FX3U24MT原理图 下载仓库"
 date:   2020-10-26
 tags: [原理图,FX3U,24MT,PLC,三菱]
 comments: true

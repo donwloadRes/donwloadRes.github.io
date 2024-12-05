@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS5466+VL171 TypeC母座正反插转HDMI方案原理图"
+title: "CS5466VL171 TypeC母座正反插转HDMI方案原理图"
 date:   2024-04-30
 tags: [原理图,HDMI,支持,YCbCr4,固件]
 comments: true

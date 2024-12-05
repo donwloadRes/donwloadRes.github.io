@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vcruntime140d_app.zip 资源说明"
+title: "vcruntime140dappzip 资源说明"
 date:   2023-03-11
 tags: [app,C++,Visual,vcruntime140d,dll]
 comments: true

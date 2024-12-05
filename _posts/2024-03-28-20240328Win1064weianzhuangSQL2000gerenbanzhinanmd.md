@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 64位安装SQL2000（个人版）指南"
+title: "Win10 64位安装SQL2000个人版指南"
 date:   2022-04-19
 tags: [SQL,Server,2000,安装,个人版]
 comments: true

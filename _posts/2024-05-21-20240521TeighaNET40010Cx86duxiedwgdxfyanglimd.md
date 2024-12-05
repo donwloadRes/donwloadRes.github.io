@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teigha .NET 4.00_10 C# x86读写dwg dxf样例"
+title: "Teigha NET 40010 C x86读写dwg dxf样例"
 date:   2024-05-22
 tags: [Teigha,NET,dwg,dxf,样例]
 comments: true

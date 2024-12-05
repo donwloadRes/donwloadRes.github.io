@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD209-4-1A LPDDR4X 资源文件下载"
+title: "JESD20941A LPDDR4X 资源文件下载"
 date:   2022-12-07
 tags: [LPDDR4X,JESD209,1A,文件,下载]
 comments: true

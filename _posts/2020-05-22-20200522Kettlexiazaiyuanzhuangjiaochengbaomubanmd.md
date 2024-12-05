@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle下载与安装教程【保姆版】"
+title: "Kettle下载与安装教程保姆版"
 date:   2023-07-02
 tags: [Kettle,数据库,数据,数据源,点击]
 comments: true

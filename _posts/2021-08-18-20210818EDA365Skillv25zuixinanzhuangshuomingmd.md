@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDA365_Skill_v2.5 最新安装说明"
+title: "EDA365Skillv25 最新安装说明"
 date:   2020-12-01
 tags: [EDA365,Skill,安装,v2.5,说明]
 comments: true

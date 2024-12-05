@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SmartGit-SmartSVN-SmartSynchronize 激活方法"
+title: "SmartGitSmartSVNSmartSynchronize 激活方法"
 date:   2021-11-08
 tags: [SmartSVN,SmartGit,SmartSynchronize,激活,文件]
 comments: true

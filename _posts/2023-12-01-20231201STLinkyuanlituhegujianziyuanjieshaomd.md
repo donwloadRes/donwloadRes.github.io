@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Link原理图和固件资源介绍"
+title: "STLink原理图和固件资源介绍"
 date:   2021-03-02
 tags: [ST,Link,固件,原理图,升级]
 comments: true

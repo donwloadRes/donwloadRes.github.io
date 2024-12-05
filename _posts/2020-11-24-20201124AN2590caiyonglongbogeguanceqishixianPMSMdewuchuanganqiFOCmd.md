@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AN2590_采用龙伯格观测器实现PMSM的无传感器FOC"
+title: "AN2590采用龙伯格观测器实现PMSM的无传感器FOC"
 date:   2021-02-08
 tags: [观测器,FOC,PMSM,伯格,传感器]
 comments: true

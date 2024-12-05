@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Javaweb学生成绩管理系统 - 毕业设计资源包"
+title: "Javaweb学生成绩管理系统  毕业设计资源包"
 date:   2023-05-30
 tags: [数据库,毕业设计,Java,SQL,Javaweb]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C51与STC-ISP安装指南"
+title: "Keil C51与STCISP安装指南"
 date:   2022-12-03
 tags: [Keil,STC,ISP,安装,C51]
 comments: true

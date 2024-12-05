@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KCF目标跟踪代码（C++）"
+title: "KCF目标跟踪代码C"
 date:   2023-03-07
 tags: [OpenCV,代码,KCF,Visual,Studio]
 comments: true

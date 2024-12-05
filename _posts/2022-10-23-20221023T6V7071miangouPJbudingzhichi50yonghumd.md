@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T6 V7.07.1 免狗PJ补丁 - 支持50用户"
+title: "T6 V7071 免狗PJ补丁  支持50用户"
 date:   2022-05-17
 tags: [补丁,软件,50,用户,T6]
 comments: true

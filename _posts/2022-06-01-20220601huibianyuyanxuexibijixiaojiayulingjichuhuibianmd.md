@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言学习笔记（小甲鱼零基础汇编）"
+title: "汇编语言学习笔记小甲鱼零基础汇编"
 date:   2024-09-12
 tags: [笔记,汇编语言,编程,学习,甲鱼]
 comments: true

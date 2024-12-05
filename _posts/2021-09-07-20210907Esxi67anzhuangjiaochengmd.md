@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Esxi 6.7安装教程"
+title: "Esxi 67安装教程"
 date:   2021-03-11
 tags: [安装,ESXi,6.7,ISO,USB]
 comments: true

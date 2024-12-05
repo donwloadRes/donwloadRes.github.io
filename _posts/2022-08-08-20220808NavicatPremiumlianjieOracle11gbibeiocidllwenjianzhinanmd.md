@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 连接Oracle 11g 必备oci.dll 文件指南"
+title: "Navicat Premium 连接Oracle 11g 必备ocidll 文件指南"
 date:   2020-08-09
 tags: [oci,Navicat,dll,Premium,Oracle]
 comments: true

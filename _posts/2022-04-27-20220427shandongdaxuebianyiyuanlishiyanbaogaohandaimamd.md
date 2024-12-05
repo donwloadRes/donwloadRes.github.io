@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学编译原理实验报告（含代码）"
+title: "山东大学编译原理实验报告含代码"
 date:   2020-07-27
 tags: [实验报告,代码,编译,实验,山东大学]
 comments: true

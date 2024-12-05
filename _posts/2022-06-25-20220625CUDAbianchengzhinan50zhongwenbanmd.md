@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA编程指南5.0中文版"
+title: "CUDA编程指南50中文版"
 date:   2022-11-27
 tags: [CUDA,文档,编程,5.0,中文版]
 comments: true

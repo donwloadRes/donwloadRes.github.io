@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件交付部（实施部）部门制度"
+title: "软件交付部实施部部门制度"
 date:   2023-06-25
 tags: [制度,文件,部门,交付,软件]
 comments: true

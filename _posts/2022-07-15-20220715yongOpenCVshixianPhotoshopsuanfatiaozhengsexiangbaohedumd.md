@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用OpenCV实现Photoshop算法：调整色相饱和度"
+title: "用OpenCV实现Photoshop算法调整色相饱和度"
 date:   2023-12-15
 tags: [色相,饱和度,OpenCV,调整,明度]
 comments: true

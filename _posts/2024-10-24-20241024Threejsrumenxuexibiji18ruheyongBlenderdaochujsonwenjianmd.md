@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js入门学习笔记18：如何用Blender导出json文件"
+title: "Threejs入门学习笔记18如何用Blender导出json文件"
 date:   2024-10-04
 tags: [Blender,Three,js,导出,插件]
 comments: true

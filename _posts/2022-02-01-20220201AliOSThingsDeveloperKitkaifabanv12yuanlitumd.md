@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AliOS Things Developer Kit开发板v1.2原理图"
+title: "AliOS Things Developer Kit开发板v12原理图"
 date:   2020-01-02
 tags: [原理图,v1.2,版本,开发板,v1.3]
 comments: true

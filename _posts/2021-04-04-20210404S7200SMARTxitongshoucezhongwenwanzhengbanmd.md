@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART 系统手册（中文完整版）"
+title: "S7200 SMART 系统手册中文完整版"
 date:   2024-07-07
 tags: [手册,200,SMART,S7,完整版]
 comments: true

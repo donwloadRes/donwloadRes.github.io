@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS通讯协议文档 - SECSII文档"
+title: "SECS通讯协议文档  SECSII文档"
 date:   2021-12-20
 tags: [文档,SECSII,协议,通讯,SECS]
 comments: true

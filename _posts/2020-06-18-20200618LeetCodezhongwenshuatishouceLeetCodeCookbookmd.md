@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LeetCode 中文刷题手册：LeetCode Cookbook"
+title: "LeetCode 中文刷题手册LeetCode Cookbook"
 date:   2022-01-01
 tags: [LeetCode,刷题,题解,编程,面试]
 comments: true

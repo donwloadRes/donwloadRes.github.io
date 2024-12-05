@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS2812驱动程序（SPI+DMA）"
+title: "WS2812驱动程序SPIDMA"
 date:   2021-05-25
 tags: [STM32,WS2812,灯珠,驱动程序,DMA]
 comments: true

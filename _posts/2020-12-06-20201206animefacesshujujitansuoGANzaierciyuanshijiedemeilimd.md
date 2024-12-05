@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "anime-faces数据集：探索GAN在二次元世界的魅力"
+title: "animefaces数据集探索GAN在二次元世界的魅力"
 date:   2023-11-26
 tags: [二次元,GAN,数据,anime,faces]
 comments: true

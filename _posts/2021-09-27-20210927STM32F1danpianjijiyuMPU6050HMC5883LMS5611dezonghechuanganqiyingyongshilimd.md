@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1单片机基于MPU6050、HMC5883L、MS5611的综合传感器应用示例"
+title: "STM32F1单片机基于MPU6050HMC5883LMS5611的综合传感器应用示例"
 date:   2021-09-06
 tags: [传感器,STM32F1,单片机,姿态,解算]
 comments: true

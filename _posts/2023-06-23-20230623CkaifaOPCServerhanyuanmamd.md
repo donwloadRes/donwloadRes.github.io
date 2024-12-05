@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发OPC Server含源码"
+title: "C开发OPC Server含源码"
 date:   2024-02-29
 tags: [C#,OPC,Server,WtOPCSvr,文件]
 comments: true

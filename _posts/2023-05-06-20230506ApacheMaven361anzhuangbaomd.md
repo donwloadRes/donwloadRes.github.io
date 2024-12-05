@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Maven 3.6.1 安装包"
+title: "Apache Maven 361 安装包"
 date:   2024-10-15
 tags: [Maven,3.6,apache,maven,bin]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Borland C++ Builder 6.0 安装指南"
+title: "Borland C Builder 60 安装指南"
 date:   2022-07-16
 tags: [C++,安装,Builder,6.0,Borland]
 comments: true

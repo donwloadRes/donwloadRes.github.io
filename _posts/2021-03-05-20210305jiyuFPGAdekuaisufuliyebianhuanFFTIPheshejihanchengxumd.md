@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的快速傅里叶变换（FFT）IP核设计（含程序）"
+title: "基于FPGA的快速傅里叶变换FFTIP核设计含程序"
 date:   2022-01-14
 tags: [FPGA,FFT,IP,设计,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十五届蓝桥杯大赛软件赛省赛C++B组题目集"
+title: "第十五届蓝桥杯大赛软件赛省赛CB组题目集"
 date:   2022-05-28
 tags: [编程,蓝桥,C++,题目,大赛]
 comments: true

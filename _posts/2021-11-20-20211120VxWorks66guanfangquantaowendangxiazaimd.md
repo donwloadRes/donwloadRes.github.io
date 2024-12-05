@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VxWorks 6.6 官方全套文档下载"
+title: "VxWorks 66 官方全套文档下载"
 date:   2024-01-28
 tags: [文档,VxWorks,6.6,开发,下载]
 comments: true

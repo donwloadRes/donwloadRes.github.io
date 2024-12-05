@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF MVVM整套框架+Socket+SQL+ADO+开源代码"
+title: "WPF MVVM整套框架SocketSQLADO开源代码"
 date:   2022-06-20
 tags: [WPF,数据库,MVVM,Socket,ADO]
 comments: true

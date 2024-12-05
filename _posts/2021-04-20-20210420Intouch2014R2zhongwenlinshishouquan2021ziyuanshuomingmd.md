@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intouch 2014 R2 中文临时授权(2021)资源说明"
+title: "Intouch 2014 R2 中文临时授权2021资源说明"
 date:   2023-10-06
 tags: [Intouch,2021,授权,学习,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC101-104规约协议中文版资源下载"
+title: "IEC101104规约协议中文版资源下载"
 date:   2023-12-25
 tags: [IEC101,协议,中文版,规约,IEC104]
 comments: true

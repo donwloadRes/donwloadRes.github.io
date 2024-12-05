@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于uni-app开发的微信小程序商城项目"
+title: "基于uniapp开发的微信小程序商城项目"
 date:   2024-10-09
 tags: [微信,项目,uni,app,开发]
 comments: true

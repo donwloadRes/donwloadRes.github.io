@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF中学生计算机程序设计基础篇-小.pdf 介绍"
+title: "CCF中学生计算机程序设计基础篇小pdf 介绍"
 date:   2020-01-15
 tags: [编程,中学生,程序设计,CCF,pdf]
 comments: true

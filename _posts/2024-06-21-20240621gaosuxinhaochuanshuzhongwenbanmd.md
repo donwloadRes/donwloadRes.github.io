@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速信号传输（中文版）"
+title: "高速信号传输中文版"
 date:   2021-08-15
 tags: [信号,高速,传输,设计,完整性]
 comments: true

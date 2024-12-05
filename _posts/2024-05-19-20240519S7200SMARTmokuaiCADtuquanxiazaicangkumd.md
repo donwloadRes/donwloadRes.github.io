@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART模块CAD图（全）下载仓库"
+title: "S7200 SMART模块CAD图全下载仓库"
 date:   2020-03-01
 tags: [CAD,S7,200,SMART,模块]
 comments: true

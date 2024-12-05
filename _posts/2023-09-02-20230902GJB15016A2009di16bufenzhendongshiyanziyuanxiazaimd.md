@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB150.16A-2009第16部分：振动试验资源下载"
+title: "GJB15016A2009第16部分振动试验资源下载"
 date:   2023-03-23
 tags: [GJB150.16,2009,试验,16,振动]
 comments: true

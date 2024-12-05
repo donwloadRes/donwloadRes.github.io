@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32控制28BYJ-48步进电机代码分享"
+title: "STM32控制28BYJ48步进电机代码分享"
 date:   2024-11-24
 tags: [STM32,代码,步进,电机,28BYJ]
 comments: true

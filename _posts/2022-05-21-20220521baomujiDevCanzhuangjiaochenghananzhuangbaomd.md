@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级Dev-C++安装教程（含安装包）"
+title: "保姆级DevC安装教程含安装包"
 date:   2021-10-24
 tags: [Dev,C++,教程,安装,安装包]
 comments: true

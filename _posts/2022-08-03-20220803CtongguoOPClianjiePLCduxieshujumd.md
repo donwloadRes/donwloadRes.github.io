@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过OPC连接PLC读写数据"
+title: "C通过OPC连接PLC读写数据"
 date:   2021-03-14
 tags: [PLC,OPC,KEPServerEX,示例,西门子]
 comments: true

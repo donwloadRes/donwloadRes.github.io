@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOOLS.INI 文件修复指南"
+title: "TOOLSINI 文件修复指南"
 date:   2022-12-14
 tags: [TOOLS,INI,Keil,文件,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下使用CMD命令调用pesq.exe测量噪声语音及增强语音MOS评分"
+title: "Windows下使用CMD命令调用pesqexe测量噪声语音及增强语音MOS评分"
 date:   2020-08-06
 tags: [语音,pesq,exe,文件,MOS]
 comments: true

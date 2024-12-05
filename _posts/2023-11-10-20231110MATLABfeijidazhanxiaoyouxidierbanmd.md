@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB飞机大战小游戏（第二版）"
+title: "MATLAB飞机大战小游戏第二版"
 date:   2023-04-09
 tags: [子弹,MATLAB,小游戏,游戏,飞机]
 comments: true

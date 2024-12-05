@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyBullet 快速入门手册中文版（机翻版）"
+title: "PyBullet 快速入门手册中文版机翻版"
 date:   2024-04-21
 tags: [PyBullet,手册,入门,中文版,翻版]
 comments: true

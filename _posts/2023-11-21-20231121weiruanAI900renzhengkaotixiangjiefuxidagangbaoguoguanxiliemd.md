@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软 AI-900 认证考题详解复习大纲【包过关系列】"
+title: "微软 AI900 认证考题详解复习大纲包过关系列"
 date:   2021-07-19
 tags: [复习,AI,900,考题,认证]
 comments: true

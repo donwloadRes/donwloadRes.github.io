@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 标准资源（Standard Assets）下载仓库"
+title: "Unity 标准资源Standard Assets下载仓库"
 date:   2023-12-15
 tags: [资源,Unity,标准,游戏,下载]
 comments: true

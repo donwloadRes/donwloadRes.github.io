@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC电磁兼容技术完整培训（杨继深）资源下载"
+title: "EMC电磁兼容技术完整培训杨继深资源下载"
 date:   2023-11-01
 tags: [电磁兼容,杨继深,讲稿,EMC,下载]
 comments: true

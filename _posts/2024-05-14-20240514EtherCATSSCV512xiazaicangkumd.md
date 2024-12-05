@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT SSC V5.12 下载仓库"
+title: "EtherCAT SSC V512 下载仓库"
 date:   2022-06-24
 tags: [EtherCAT,V5.12,工具,版本,SSC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国赛获奖作品：基于STM32的数据采集+心率检测仪"
+title: "国赛获奖作品基于STM32的数据采集心率检测仪"
 date:   2022-03-18
 tags: [STM32,心率,采集,设计,算法]
 comments: true

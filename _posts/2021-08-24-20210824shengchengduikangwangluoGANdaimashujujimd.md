@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "生成对抗网络（GAN）代码+数据集"
+title: "生成对抗网络GAN代码数据集"
 date:   2022-10-22
 tags: [GAN,代码,生成,仓库,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【C++课程设计】期末大作业 - 基于Qt开发的中国象棋软件"
+title: "C课程设计期末大作业  基于Qt开发的中国象棋软件"
 date:   2024-09-28
 tags: [中国象棋,Qt,对战,项目,C++]
 comments: true

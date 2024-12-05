@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SSCOM串口调试工具安装和使用方法--V5.13.1版本"
+title: "SSCOM串口调试工具安装和使用方法V5131版本"
 date:   2020-01-31
 tags: [SSCOM,串口,V5.13,调试,版本]
 comments: true

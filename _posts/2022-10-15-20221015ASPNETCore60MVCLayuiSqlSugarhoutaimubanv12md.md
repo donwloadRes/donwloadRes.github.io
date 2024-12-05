@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core 6.0 MVC + Layui + SqlSugar 后台模板 v1.2"
+title: "ASPNET Core 60 MVC  Layui  SqlSugar 后台模板 v12"
 date:   2024-03-01
 tags: [模板,NET,Core,SqlSugar,ASP]
 comments: true

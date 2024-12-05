@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUPT大二下计网课程设计：DNS服务器实验"
+title: "BUPT大二下计网课程设计DNS服务器实验"
 date:   2022-07-08
 tags: [DNS,服务器,实验,课程设计,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR5x( JESD209-5B) 中文版资源下载"
+title: "LPDDR5x JESD2095B 中文版资源下载"
 date:   2024-05-10
 tags: [LPDDR5x,5B,JESD209,中文版,内存]
 comments: true

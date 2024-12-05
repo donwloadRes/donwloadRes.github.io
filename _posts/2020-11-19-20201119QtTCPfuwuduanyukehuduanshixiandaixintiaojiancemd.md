@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt TCP 服务端与客户端实现（带心跳检测）"
+title: "Qt TCP 服务端与客户端实现带心跳检测"
 date:   2020-10-14
 tags: [TCP,服务端,客户端,Qt,心跳]
 comments: true

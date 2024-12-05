@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB项目实战：基于CNN_SVM的图像花卉识别"
+title: "MATLAB项目实战基于CNNSVM的图像花卉识别"
 date:   2021-01-10
 tags: [CNN,SVM,MATLAB,架构,图像]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸杂交版2.0.88最新版 README"
+title: "植物大战僵尸杂交版2088最新版 README"
 date:   2023-02-04
 tags: [游戏,植物,杂交,僵尸,2.0]
 comments: true

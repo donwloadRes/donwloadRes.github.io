@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对接文心一言（ERNIE-Bot）的微信聊天机器人源码V1"
+title: "对接文心一言ERNIEBot的微信聊天机器人源码V1"
 date:   2022-07-04
 tags: [微信,文心,源码,机器人,ERNIE]
 comments: true

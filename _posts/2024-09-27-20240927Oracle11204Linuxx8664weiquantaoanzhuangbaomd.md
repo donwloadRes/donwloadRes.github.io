@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.4 Linux x86-64位全套安装包"
+title: "Oracle 11204 Linux x8664位全套安装包"
 date:   2022-11-28
 tags: [64,zip,Linux,x86,p13390677]
 comments: true

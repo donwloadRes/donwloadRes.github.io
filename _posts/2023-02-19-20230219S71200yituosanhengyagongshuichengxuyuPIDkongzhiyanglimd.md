@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 一拖三恒压供水程序与PID控制样例"
+title: "S71200 一拖三恒压供水程序与PID控制样例"
 date:   2024-07-26
 tags: [恒压,S7,1200,PID,触摸屏]
 comments: true

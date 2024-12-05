@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD9164 DAC芯片及任意波形发生器（AWG）设计资源"
+title: "AD9164 DAC芯片及任意波形发生器AWG设计资源"
 date:   2022-11-11
 tags: [AD9164,DAC,AWG,芯片,设计]
 comments: true

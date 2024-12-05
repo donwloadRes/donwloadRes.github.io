@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lucene 6.5.0与IKAnalyzer整合指南"
+title: "Lucene 650与IKAnalyzer整合指南"
 date:   2024-09-26
 tags: [6.5,IKAnalyzer,Lucene,Maven,JAR]
 comments: true

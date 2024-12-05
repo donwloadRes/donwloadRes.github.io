@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞行器总体设计软件AAA2.5中文版说明书"
+title: "飞行器总体设计软件AAA25中文版说明书"
 date:   2023-08-13
 tags: [软件,飞行器,AAA2.5,说明书,总体设计]
 comments: true

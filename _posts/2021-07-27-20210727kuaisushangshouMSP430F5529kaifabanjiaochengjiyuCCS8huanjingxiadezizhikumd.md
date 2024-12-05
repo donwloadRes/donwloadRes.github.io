@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速上手MSP430F5529开发板教程（基于CCS8环境下的自制库）"
+title: "快速上手MSP430F5529开发板教程基于CCS8环境下的自制库"
 date:   2022-04-13
 tags: [开发板,教程,MSP430F5529,CCS8,上手]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享56个Bootstrap模板，总有一款适合您"
+title: "分享56个Bootstrap模板总有一款适合您"
 date:   2022-06-28
 tags: [模板,Bootstrap,56,一款,网页]
 comments: true

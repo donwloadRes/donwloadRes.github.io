@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm GDI 绘图板源码"
+title: "C WinForm GDI 绘图板源码"
 date:   2021-10-07
 tags: [绘图,源码,绘图板,矩形,绘制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Z01282Visual C#从入门到精通 第八版PDF"
+title: "Z01282Visual C从入门到精通 第八版PDF"
 date:   2024-04-13
 tags: [C#,PDF,第八版,入门,编程语言]
 comments: true

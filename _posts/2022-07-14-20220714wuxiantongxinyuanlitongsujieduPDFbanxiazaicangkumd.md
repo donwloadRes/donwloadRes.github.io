@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信原理通俗解读（PDF版）下载仓库"
+title: "无线通信原理通俗解读PDF版下载仓库"
 date:   2020-12-26
 tags: [无线通信,PDF,原理,通俗,仓库]
 comments: true

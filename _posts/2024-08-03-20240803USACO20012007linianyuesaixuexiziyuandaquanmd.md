@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USACO 2001-2007历年月赛学习资源大全"
+title: "USACO 20012007历年月赛学习资源大全"
 date:   2022-07-01
 tags: [USACO,月赛,题解,编程,2007]
 comments: true

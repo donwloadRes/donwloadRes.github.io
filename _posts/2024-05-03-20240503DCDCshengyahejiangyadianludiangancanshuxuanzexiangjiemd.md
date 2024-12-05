@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DC-DC升压和降压电路电感参数选择详解"
+title: "DCDC升压和降压电路电感参数选择详解"
 date:   2023-02-23
 tags: [电感,DC,升压,转换器,降压]
 comments: true

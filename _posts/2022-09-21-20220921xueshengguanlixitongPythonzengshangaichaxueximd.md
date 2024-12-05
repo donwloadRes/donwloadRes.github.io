@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生管理系统+Python+增删改查学习"
+title: "学生管理系统Python增删改查学习"
 date:   2020-06-24
 tags: [Python,改查,程序,管理系统,增删]
 comments: true

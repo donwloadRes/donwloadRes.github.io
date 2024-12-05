@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO14229-1汽车统一诊断协议标准UDS培训文档-恒润科技"
+title: "ISO142291汽车统一诊断协议标准UDS培训文档恒润科技"
 date:   2023-10-30
 tags: [文档,UDS,诊断,培训,ISO14229]
 comments: true

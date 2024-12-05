@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rotate-and-Render预训练模型及BFM资源包"
+title: "RotateandRender预训练模型及BFM资源包"
 date:   2021-03-09
 tags: [人脸,模型,BFM,训练,资源]
 comments: true

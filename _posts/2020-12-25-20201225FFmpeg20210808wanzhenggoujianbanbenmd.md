@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg 2021-08-08 完整构建版本"
+title: "FFmpeg 20210808 完整构建版本"
 date:   2024-06-09
 tags: [08,FFmpeg,2021,版本,ac0408522a]
 comments: true

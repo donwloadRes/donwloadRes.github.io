@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "菜刀工具（基础）资源文件介绍"
+title: "菜刀工具基础资源文件介绍"
 date:   2021-03-22
 tags: [工具,数据库,文件,菜刀,操作]
 comments: true

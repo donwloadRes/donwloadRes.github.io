@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AsmDude-vs2022 汇编语法高亮插件"
+title: "AsmDudevs2022 汇编语法高亮插件"
 date:   2023-09-29
 tags: [AsmDude,高亮,代码,插件,汇编]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ADC+TIM+DMA 交流信号采样与有效值计算"
+title: "STM32 ADCTIMDMA 交流信号采样与有效值计算"
 date:   2023-10-18
 tags: [采样,串口,STM32,DMA,调试]
 comments: true

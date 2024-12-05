@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【优化版】DOSBox及常用汇编工具的详细安装教程"
+title: "优化版DOSBox及常用汇编工具的详细安装教程"
 date:   2023-11-26
 tags: [DOSBox,教程,安装,工具,汇编]
 comments: true

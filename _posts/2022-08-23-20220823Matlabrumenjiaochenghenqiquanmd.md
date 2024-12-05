@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab入门教程(很齐全)"
+title: "Matlab入门教程很齐全"
 date:   2020-01-29
 tags: [MATLAB,教程,Matlab,入门教程,PPT]
 comments: true

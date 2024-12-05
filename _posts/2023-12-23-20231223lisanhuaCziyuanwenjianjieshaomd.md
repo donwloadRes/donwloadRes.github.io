@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散化(C++)资源文件介绍"
+title: "离散化C资源文件介绍"
 date:   2020-09-27
 tags: [离散,文件,C++,算法,程序设计]
 comments: true

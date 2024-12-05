@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手写数字数据集0-9图片"
+title: "手写数字数据集09图片"
 date:   2024-11-18
 tags: [手写,图片,28,30,数据]
 comments: true

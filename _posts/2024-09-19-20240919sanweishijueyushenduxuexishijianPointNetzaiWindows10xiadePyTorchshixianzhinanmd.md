@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【三维视觉与深度学习实践】PointNet在Windows10下的PyTorch实现指南"
+title: "三维视觉与深度学习实践PointNet在Windows10下的PyTorch实现指南"
 date:   2024-10-20
 tags: [PointNet,PyTorch,点云,深度,环境]
 comments: true

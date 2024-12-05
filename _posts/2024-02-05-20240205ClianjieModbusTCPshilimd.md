@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接ModbusTCP示例"
+title: "C连接ModbusTCP示例"
 date:   2020-02-15
 tags: [ModbusTCP,示例,...,PLC,C#]
 comments: true

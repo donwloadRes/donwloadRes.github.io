@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrossOver24 免费升级及下载安装激活指南（附激活码）"
+title: "CrossOver24 免费升级及下载安装激活指南附激活码"
 date:   2020-12-31
 tags: [CrossOver24,激活码,指南,激活,升级]
 comments: true

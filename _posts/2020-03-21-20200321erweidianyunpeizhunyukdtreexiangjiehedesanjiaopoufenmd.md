@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二维点云配准与kd-tree相结合的三角剖分"
+title: "二维点云配准与kdtree相结合的三角剖分"
 date:   2020-11-06
 tags: [点云,算法,配准,kd,tree]
 comments: true

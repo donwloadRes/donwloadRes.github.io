@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生打印机WF-7610清零软件下载"
+title: "爱普生打印机WF7610清零软件下载"
 date:   2021-07-26
 tags: [清零,爱普生,打印机,该软件,WF]
 comments: true

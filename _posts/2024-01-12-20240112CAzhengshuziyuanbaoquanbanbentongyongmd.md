@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CA证书资源包（全版本通用）"
+title: "CA证书资源包全版本通用"
 date:   2020-06-04
 tags: [资源,CA,下载,证书,版本]
 comments: true

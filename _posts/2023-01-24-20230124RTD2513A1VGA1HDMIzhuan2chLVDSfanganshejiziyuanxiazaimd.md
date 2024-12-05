@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2513A 1VGA+1HDMI转2ch LVDS 方案设计资源下载"
+title: "RTD2513A 1VGA1HDMI转2ch LVDS 方案设计资源下载"
 date:   2021-06-11
 tags: [方案设计,RTD2513A,1VGA,1HDMI,2ch]
 comments: true

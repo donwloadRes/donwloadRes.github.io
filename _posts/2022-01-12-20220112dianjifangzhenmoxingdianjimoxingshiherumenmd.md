@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机仿真模型电机模型-适合入门"
+title: "电机仿真模型电机模型适合入门"
 date:   2024-10-01
 tags: [仿真,电机,模型,文件,入门]
 comments: true

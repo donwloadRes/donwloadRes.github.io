@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI DSP TMS32F28377S 串口烧录范例程序及注意事项讲解（含配套上位机）"
+title: "TI DSP TMS32F28377S 串口烧录范例程序及注意事项讲解含配套上位机"
 date:   2021-08-26
 tags: [烧录,程序,DSP,串口,芯片]
 comments: true

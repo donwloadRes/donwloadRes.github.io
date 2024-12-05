@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J模拟赛：真题复现资源下载"
+title: "CSPJ模拟赛真题复现资源下载"
 date:   2022-10-21
 tags: [CSP,复现,模拟,试卷,资源]
 comments: true

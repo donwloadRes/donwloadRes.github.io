@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Numerical Optimization(数值最优化)课后练习答案"
+title: "Numerical Optimization数值最优化课后练习答案"
 date:   2024-11-13
 tags: [最优化,数值,最优,课后练习,答案]
 comments: true

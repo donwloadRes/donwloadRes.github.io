@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 并发编程中文版"
+title: "C 并发编程中文版"
 date:   2021-01-14
 tags: [C++,并发,编程,中文版,11]
 comments: true

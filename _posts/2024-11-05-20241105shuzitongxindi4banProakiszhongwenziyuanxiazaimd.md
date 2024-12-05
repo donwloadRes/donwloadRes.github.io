@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信（第4版） Proakis 中文资源下载"
+title: "数字通信第4版 Proakis 中文资源下载"
 date:   2020-06-14
 tags: [数字通信,Proakis,资源,下载,教材]
 comments: true

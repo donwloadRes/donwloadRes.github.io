@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.0 快速下载资源"
+title: "OpenCV 480 快速下载资源"
 date:   2020-10-08
 tags: [OpenCV,4.8,下载,资源,仓库]
 comments: true

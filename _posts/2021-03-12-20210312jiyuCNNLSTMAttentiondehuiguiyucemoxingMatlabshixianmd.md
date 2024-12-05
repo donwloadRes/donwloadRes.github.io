@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-LSTM-Attention的回归预测模型Matlab实现"
+title: "基于CNNLSTMAttention的回归预测模型Matlab实现"
 date:   2024-04-25
 tags: [模型,CNN,LSTM,MATLAB,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ AES算法ECB模式实现"
+title: "C AES算法ECB模式实现"
 date:   2023-07-05
 tags: [AES,密钥,ECB,算法,C++]
 comments: true

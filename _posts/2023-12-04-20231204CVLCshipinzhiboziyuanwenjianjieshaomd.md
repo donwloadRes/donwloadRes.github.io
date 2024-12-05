@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# VLC视频直播资源文件介绍"
+title: "C VLC视频直播资源文件介绍"
 date:   2023-04-14
 tags: [VLC,视频,C#,推流,直播]
 comments: true

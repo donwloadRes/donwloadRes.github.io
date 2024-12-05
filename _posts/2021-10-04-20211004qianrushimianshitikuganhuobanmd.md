@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式面试题库 - 干货版"
+title: "嵌入式面试题库  干货版"
 date:   2023-08-19
 tags: [面试,嵌入式,题库,知识点,留言]
 comments: true

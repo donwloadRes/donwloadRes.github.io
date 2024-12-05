@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科大矩阵理论课件合集（王转德老师）"
+title: "电子科大矩阵理论课件合集王转德老师"
 date:   2021-12-07
 tags: [课件,矩阵,合集,学习,王转德]
 comments: true

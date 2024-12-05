@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#+FFmpeg实现RTSP流媒体播放器"
+title: "CFFmpeg实现RTSP流媒体播放器"
 date:   2022-01-02
 tags: [RTSP,视频流,FFmpeg,C#,播放]
 comments: true

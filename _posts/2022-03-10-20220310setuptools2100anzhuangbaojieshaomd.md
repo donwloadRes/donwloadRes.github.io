@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "setuptools-21.0.0 安装包介绍"
+title: "setuptools2100 安装包介绍"
 date:   2021-11-24
 tags: [setuptools,pip,Python,安装,21.0]
 comments: true

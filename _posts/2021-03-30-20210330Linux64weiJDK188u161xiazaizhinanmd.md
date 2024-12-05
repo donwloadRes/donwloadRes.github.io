@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 64位 JDK 1.8 8u161 下载指南"
+title: "Linux 64位 JDK 18 8u161 下载指南"
 date:   2023-05-11
 tags: [JDK,8u161,bash,tar,安装]
 comments: true

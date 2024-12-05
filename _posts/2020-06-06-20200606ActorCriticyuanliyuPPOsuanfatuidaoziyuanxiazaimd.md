@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Actor-Critic原理与PPO算法推导资源下载"
+title: "ActorCritic原理与PPO算法推导资源下载"
 date:   2020-06-18
 tags: [Actor,Critic,PPO,算法,推导]
 comments: true

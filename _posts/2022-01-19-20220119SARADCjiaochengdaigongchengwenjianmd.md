@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAR-ADC教程带工程文件"
+title: "SARADC教程带工程文件"
 date:   2024-11-09
 tags: [ADC,教程,SAR,文件,PDF]
 comments: true

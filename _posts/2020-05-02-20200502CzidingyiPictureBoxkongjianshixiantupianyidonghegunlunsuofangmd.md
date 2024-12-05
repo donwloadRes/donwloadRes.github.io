@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 自定义 PictureBox 控件：实现图片移动和滚轮缩放"
+title: "C 自定义 PictureBox 控件实现图片移动和滚轮缩放"
 date:   2024-08-02
 tags: [控件,自定义,PictureBox,缩放,滚轮]
 comments: true

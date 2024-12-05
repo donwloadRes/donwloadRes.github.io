@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATEQ F610-F620-F670 中文手册下载"
+title: "ATEQ F610F620F670 中文手册下载"
 date:   2021-11-01
 tags: [ATEQ,手册,F610,F620,设备]
 comments: true

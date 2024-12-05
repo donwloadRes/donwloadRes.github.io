@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMC 数字压力开关_ISE30A_使用说明书(中文)"
+title: "SMC 数字压力开关ISE30A使用说明书中文"
 date:   2023-11-29
 tags: [ISE30A,SMC,开关,说明书,压力]
 comments: true

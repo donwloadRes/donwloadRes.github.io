@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "京东云一代爱kuai固件-m50固件"
+title: "京东云一代爱kuai固件m50固件"
 date:   2021-04-23
 tags: [固件,kuai,m50,京东,一代]
 comments: true

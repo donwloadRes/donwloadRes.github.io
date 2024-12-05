@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频去水印工具 (VSR) 详细安装教程"
+title: "视频去水印工具 VSR 详细安装教程"
 date:   2020-09-19
 tags: [安装,教程,工具,水印,VSR]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMC ZK2-ZSEA-A设置方法"
+title: "SMC ZK2ZSEAA设置方法"
 date:   2020-10-11
 tags: [设置,ZSEA,SMC,ZK2,设备]
 comments: true

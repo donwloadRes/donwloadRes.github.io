@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF 窗体最大化、最小化、还原 | WPF 最大化-最小化 按钮图标切换"
+title: "WPF 窗体最大化最小化还原  WPF 最大化最小化 按钮图标切换"
 date:   2020-12-18
 tags: [窗体,最小化,WPF,最大化,文件]
 comments: true

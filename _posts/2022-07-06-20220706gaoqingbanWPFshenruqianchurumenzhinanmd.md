@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高清版WPF深入浅出 - 入门指南"
+title: "高清版WPF深入浅出  入门指南"
 date:   2023-04-16
 tags: [WPF,深入浅出,高清,开发者,入门]
 comments: true

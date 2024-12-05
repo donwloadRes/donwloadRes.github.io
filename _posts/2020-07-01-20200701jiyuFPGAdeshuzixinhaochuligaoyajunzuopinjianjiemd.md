@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的数字信号处理 - 高亚军作品简介"
+title: "基于FPGA的数字信号处理  高亚军作品简介"
 date:   2022-03-09
 tags: [FPGA,信号处理,数字,亚军,本书]
 comments: true

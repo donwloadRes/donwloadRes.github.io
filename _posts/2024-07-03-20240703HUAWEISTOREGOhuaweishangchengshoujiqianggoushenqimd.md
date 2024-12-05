@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HUAWEI-STORE-GO: 华为商城手机抢购神器"
+title: "HUAWEISTOREGO 华为商城手机抢购神器"
 date:   2024-11-26
 tags: [商城,抢购,华为,Selenium,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 2.7 安装包"
+title: "Python 27 安装包"
 date:   2021-03-28
 tags: [Python,2.7,安装包,安装,版本]
 comments: true

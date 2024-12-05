@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+OpenCV图像视觉框架全套源码上位机工具可扩展"
+title: "QtOpenCV图像视觉框架全套源码上位机工具可扩展"
 date:   2023-06-13
 tags: [OpenCV,源码,工具,扩展,Qt]
 comments: true

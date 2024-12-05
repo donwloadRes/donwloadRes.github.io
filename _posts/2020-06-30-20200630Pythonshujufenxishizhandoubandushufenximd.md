@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析实战：豆瓣读书分析"
+title: "Python数据分析实战豆瓣读书分析"
 date:   2021-02-02
 tags: [Python,数据分析,数据,豆瓣,代码]
 comments: true

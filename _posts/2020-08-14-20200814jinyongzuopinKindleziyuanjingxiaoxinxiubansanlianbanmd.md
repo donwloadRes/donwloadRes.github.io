@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金庸作品Kindle资源精校（新修版+三联版）"
+title: "金庸作品Kindle资源精校新修版三联版"
 date:   2024-04-13
 tags: [金庸,Kindle,三联,新修版,设备]
 comments: true

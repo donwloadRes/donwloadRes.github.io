@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享88个ASP.NET源码总有一个是你想要的"
+title: "分享88个ASPNET源码总有一个是你想要的"
 date:   2020-01-29
 tags: [源码,ASP,NET,文档,88]
 comments: true

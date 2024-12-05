@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞磁产品目录 - 磁芯数据手册"
+title: "飞磁产品目录  磁芯数据手册"
 date:   2022-11-20
 tags: [磁芯,飞磁,产品目录,手册,文件]
 comments: true

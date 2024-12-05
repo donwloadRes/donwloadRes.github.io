@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "更新 O-ComTool V2.1.0 串口调试助手"
+title: "更新 OComTool V210 串口调试助手"
 date:   2024-01-08
 tags: [串口,调试,右键,功能,ComTool]
 comments: true

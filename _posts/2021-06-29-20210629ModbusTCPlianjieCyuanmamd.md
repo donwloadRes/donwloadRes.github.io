@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModbusTCP连接C++源码"
+title: "ModbusTCP连接C源码"
 date:   2021-10-01
 tags: [ModbusTCP,源码,代码,Visual,Studio]
 comments: true

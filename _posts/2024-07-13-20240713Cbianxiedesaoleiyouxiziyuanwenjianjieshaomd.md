@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写的扫雷游戏资源文件介绍"
+title: "C编写的扫雷游戏资源文件介绍"
 date:   2020-11-22
 tags: [游戏,资源,C#,扫雷,文件]
 comments: true

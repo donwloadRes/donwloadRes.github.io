@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.4 桌面版 AMD64 光盘镜像文件下载"
+title: "Ubuntu 20044 桌面版 AMD64 光盘镜像文件下载"
 date:   2023-01-08
 tags: [镜像文件,Ubuntu,20.04,AMD64,下载]
 comments: true

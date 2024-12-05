@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS教程 - 最全最详的中文指南"
+title: "ROS教程  最全最详的中文指南"
 date:   2020-07-23
 tags: [ROS,教程,中文,学习,机器人]
 comments: true

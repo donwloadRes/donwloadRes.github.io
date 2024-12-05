@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core 3.1 中文教程下载"
+title: "ASPNET Core 31 中文教程下载"
 date:   2020-04-13
 tags: [NET,Core,3.1,ASP,教程]
 comments: true

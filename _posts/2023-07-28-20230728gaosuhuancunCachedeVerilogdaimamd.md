@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速缓存(Cache)的Verilog代码"
+title: "高速缓存Cache的Verilog代码"
 date:   2020-10-24
 tags: [Cache,CPU,主存,指令,仿真]
 comments: true

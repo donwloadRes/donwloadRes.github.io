@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "土方计算软件FastTFT V15.1.0更新说明"
+title: "土方计算软件FastTFT V1510更新说明"
 date:   2021-08-18
 tags: [标高,FastTFT,功能,V15.1,软件]
 comments: true

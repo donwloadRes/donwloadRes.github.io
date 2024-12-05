@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unet图像分割实战代码：以植物病虫害分割为例"
+title: "Unet图像分割实战代码以植物病虫害分割为例"
 date:   2021-01-20
 tags: [训练,Unet,分割,模型,代码]
 comments: true

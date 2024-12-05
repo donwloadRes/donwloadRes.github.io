@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RFC文档中文翻译（目前最全）"
+title: "RFC文档中文翻译目前最全"
 date:   2022-09-03
 tags: [RFC,文档,中文翻译,英文版,最全]
 comments: true

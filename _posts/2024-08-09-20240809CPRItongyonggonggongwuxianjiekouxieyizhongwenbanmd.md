@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPRI（通用公共无线接口）协议中文版"
+title: "CPRI通用公共无线接口协议中文版"
 date:   2023-07-09
 tags: [CPRI,无线,接口,无线通信,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程实例100篇"
+title: "C编程实例100篇"
 date:   2024-03-24
 tags: [C++,编程,实例,100,示例]
 comments: true

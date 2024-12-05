@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++高效编程：内存与性能优化 (pdf版)"
+title: "C高效编程内存与性能优化 pdf版"
 date:   2023-04-22
 tags: [C++,内存,性能,编程,pdf]
 comments: true

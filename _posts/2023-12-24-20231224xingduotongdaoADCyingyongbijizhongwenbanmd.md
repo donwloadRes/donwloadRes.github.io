@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Σ-Δ型多通道ADC应用笔记中文版"
+title: "型多通道ADC应用笔记中文版"
 date:   2021-05-22
 tags: [ADC,应用,多通道,笔记,滤波器]
 comments: true

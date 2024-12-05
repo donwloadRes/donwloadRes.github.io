@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT ETG.2000 V1.0.10 资源下载"
+title: "EtherCAT ETG2000 V1010 资源下载"
 date:   2024-11-26
 tags: [EtherCAT,文档,10,XML,下载]
 comments: true

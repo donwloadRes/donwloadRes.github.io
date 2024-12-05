@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Star CCM+ 202206 (17.04) 详细安装步骤"
+title: "Star CCM 202206 1704 详细安装步骤"
 date:   2023-08-18
 tags: [安装,Star,CCM,202206,17.04]
 comments: true

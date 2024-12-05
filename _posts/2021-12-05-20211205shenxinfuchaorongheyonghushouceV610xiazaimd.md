@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深信服超融合用户手册V6.1.0 下载"
+title: "深信服超融合用户手册V610 下载"
 date:   2023-08-01
 tags: [信服,用户手册,融合,V6.1,下载]
 comments: true

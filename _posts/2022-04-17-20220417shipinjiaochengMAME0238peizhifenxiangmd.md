@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【视频教程】MAME0.238配置分享"
+title: "视频教程MAME0238配置分享"
 date:   2023-08-11
 tags: [教程,MAME0.238,MAME,配置,游戏]
 comments: true

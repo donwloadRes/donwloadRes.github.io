@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗三号协议（精简版）资源下载"
+title: "北斗三号协议精简版资源下载"
 date:   2021-11-12
 tags: [三号,北斗,精简版,协议,下载]
 comments: true

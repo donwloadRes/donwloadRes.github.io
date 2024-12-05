@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform系列——好看的DataGridView折叠控件"
+title: "Winform系列好看的DataGridView折叠控件"
 date:   2022-07-22
 tags: [控件,Winform,DataGridView,折叠,项目]
 comments: true

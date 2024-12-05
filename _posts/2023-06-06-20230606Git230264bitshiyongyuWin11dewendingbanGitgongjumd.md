@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git-2.30.2-64-bit：适用于Win11的稳定版Git工具"
+title: "Git230264bit适用于Win11的稳定版Git工具"
 date:   2023-05-26
 tags: [Git,64,2.30,版本,bit]
 comments: true

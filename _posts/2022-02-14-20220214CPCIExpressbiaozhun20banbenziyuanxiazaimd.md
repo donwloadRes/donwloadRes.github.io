@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPCI-Express 标准 2.0 版本 资源下载"
+title: "CPCIExpress 标准 20 版本 资源下载"
 date:   2020-07-22
 tags: [CPCI,Express,2.0,标准,资源]
 comments: true

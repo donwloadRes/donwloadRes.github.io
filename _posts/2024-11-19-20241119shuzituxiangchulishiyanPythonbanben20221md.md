@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理实验（Python版本）--20221"
+title: "数字图像处理实验Python版本20221"
 date:   2021-06-07
 tags: [示例,OpenCV,实验,Python,数字图像处理]
 comments: true

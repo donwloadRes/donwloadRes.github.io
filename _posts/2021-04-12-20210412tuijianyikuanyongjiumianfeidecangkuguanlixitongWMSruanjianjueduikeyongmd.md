@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐一款永久免费的仓库管理系统WMS软件（绝对可用）"
+title: "推荐一款永久免费的仓库管理系统WMS软件绝对可用"
 date:   2021-07-16
 tags: [仓库,管理系统,安装,系统,说明]
 comments: true

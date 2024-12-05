@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orcad（Cadence）常用库资源下载"
+title: "OrcadCadence常用库资源下载"
 date:   2024-08-14
 tags: [Orcad,Cadence,常用,电路设计,文件]
 comments: true

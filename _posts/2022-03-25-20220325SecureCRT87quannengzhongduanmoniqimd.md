@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.7 - 全能终端模拟器"
+title: "SecureCRT 87  全能终端模拟器"
 date:   2024-10-10
 tags: [SecureCRT,软件,使用,注册机,8.7]
 comments: true

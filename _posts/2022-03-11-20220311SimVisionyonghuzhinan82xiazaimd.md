@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SimVision用户指南8.2 下载"
+title: "SimVision用户指南82 下载"
 date:   2020-08-26
 tags: [SimVision,8.2,指南,用户,下载]
 comments: true

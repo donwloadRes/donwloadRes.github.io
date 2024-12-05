@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【车道线检测】Ultra-Fast-Lane-Detection 实战复现指南"
+title: "车道线检测UltraFastLaneDetection 实战复现指南"
 date:   2023-05-15
 tags: [Lane,Ultra,Fast,Detection,车道]
 comments: true

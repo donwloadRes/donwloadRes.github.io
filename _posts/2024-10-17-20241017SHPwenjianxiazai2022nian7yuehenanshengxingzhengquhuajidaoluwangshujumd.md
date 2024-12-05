@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【SHP文件下载】2022年7月河南省行政区划及道路网数据"
+title: "SHP文件下载2022年7月河南省行政区划及道路网数据"
 date:   2022-04-23
 tags: [GIS,行政区划,数据,道路网,SHP]
 comments: true

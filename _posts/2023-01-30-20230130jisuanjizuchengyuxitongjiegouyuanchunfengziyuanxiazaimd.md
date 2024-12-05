@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与系统结构-袁春风 资源下载"
+title: "计算机组成与系统结构袁春风 资源下载"
 date:   2022-04-10
 tags: [PDF,系统结构,下载,文件,春风]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMP显示、旋转及PRN转化工具"
+title: "BMP显示旋转及PRN转化工具"
 date:   2020-03-14
 tags: [BMP,文件,PRN,工具,旋转]
 comments: true

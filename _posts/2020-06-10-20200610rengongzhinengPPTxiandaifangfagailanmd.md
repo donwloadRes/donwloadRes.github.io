@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能PPT: 现代方法概览"
+title: "人工智能PPT 现代方法概览"
 date:   2022-01-10
 tags: [PPT,人工智能,学习,学习者,现代]
 comments: true

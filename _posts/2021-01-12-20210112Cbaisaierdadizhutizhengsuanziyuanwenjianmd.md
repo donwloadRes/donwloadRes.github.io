@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#白塞尔大地主题正算资源文件"
+title: "C白塞尔大地主题正算资源文件"
 date:   2022-05-31
 tags: [大地,正算,格式,文档,C#]
 comments: true

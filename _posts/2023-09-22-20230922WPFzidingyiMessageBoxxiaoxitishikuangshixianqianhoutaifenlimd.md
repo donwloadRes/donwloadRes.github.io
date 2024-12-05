@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF 自定义 MessageBox 消息提示框：实现前后台分离"
+title: "WPF 自定义 MessageBox 消息提示框实现前后台分离"
 date:   2024-10-12
 tags: [自定义,WPF,MessageBox,样式,提示框]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下载神器IDM安装与使用（保姆级教程）"
+title: "下载神器IDM安装与使用保姆级教程"
 date:   2022-02-07
 tags: [IDM,下载,安装,多线程,教程]
 comments: true

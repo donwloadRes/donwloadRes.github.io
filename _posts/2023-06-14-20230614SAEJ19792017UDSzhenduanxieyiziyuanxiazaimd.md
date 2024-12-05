@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1979-2017 UDS诊断协议资源下载"
+title: "SAE J19792017 UDS诊断协议资源下载"
 date:   2021-09-11
 tags: [J1979,2017,文件,SAE,UDS]
 comments: true

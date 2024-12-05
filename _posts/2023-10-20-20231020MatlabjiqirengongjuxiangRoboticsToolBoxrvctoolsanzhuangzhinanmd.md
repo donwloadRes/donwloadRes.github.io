@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab机器人工具箱Robotics ToolBox --rvctools安装指南"
+title: "Matlab机器人工具箱Robotics ToolBox rvctools安装指南"
 date:   2024-02-09
 tags: [工具箱,Matlab,rvctools,安装,机器人]
 comments: true

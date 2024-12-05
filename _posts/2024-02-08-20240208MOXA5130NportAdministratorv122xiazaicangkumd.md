@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOXA 5130 Nport Administrator v1.22 下载仓库"
+title: "MOXA 5130 Nport Administrator v122 下载仓库"
 date:   2021-12-26
 tags: [MOXA,5130,v1.22,Nport,Administrator]
 comments: true

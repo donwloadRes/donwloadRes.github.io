@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 26262-2018 中英文版资源下载"
+title: "ISO 262622018 中英文版资源下载"
 date:   2021-04-07
 tags: [ISO,26262,部分,资源,2018]
 comments: true

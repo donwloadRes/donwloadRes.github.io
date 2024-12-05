@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱 MX OPC Server 6.04 安装包及仿真使用指南"
+title: "三菱 MX OPC Server 604 安装包及仿真使用指南"
 date:   2021-10-17
 tags: [OPC,仿真,MX,PLC,GX]
 comments: true

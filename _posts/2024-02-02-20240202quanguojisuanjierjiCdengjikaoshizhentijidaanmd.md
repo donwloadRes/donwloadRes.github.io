@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国计算机二级C++等级考试真题及答案"
+title: "全国计算机二级C等级考试真题及答案"
 date:   2020-01-26
 tags: [真题,C++,考试,答案,等级]
 comments: true

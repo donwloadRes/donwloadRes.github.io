@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为内部以太网抓包&发包工具SVlanFrame（龙卷风）"
+title: "华为内部以太网抓包发包工具SVlanFrame龙卷风"
 date:   2022-03-18
 tags: [发包,抓包,工具,测试,以太网]
 comments: true

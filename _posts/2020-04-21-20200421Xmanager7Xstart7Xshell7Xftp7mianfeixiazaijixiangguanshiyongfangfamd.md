@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xmanager7、Xstart7、Xshell7、Xftp7 免费下载及相关使用方法"
+title: "Xmanager7Xstart7Xshell7Xftp7 免费下载及相关使用方法"
 date:   2021-08-01
 tags: [下载,Xmanager7,Xstart7,Xshell7,Xftp7]
 comments: true

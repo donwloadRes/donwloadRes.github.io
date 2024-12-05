@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thinkphp(GUI)漏洞检测工具"
+title: "ThinkphpGUI漏洞检测工具"
 date:   2020-10-26
 tags: [ThinkPHP,漏洞,日志,检测,泄漏]
 comments: true

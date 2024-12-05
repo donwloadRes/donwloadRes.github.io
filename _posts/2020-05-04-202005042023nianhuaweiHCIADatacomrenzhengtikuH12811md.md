@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年华为HCIA-Datacom认证题库（H12-811）"
+title: "2023年华为HCIADatacom认证题库H12811"
 date:   2024-08-25
 tags: [题库,端口,Forwarding,报文,BPDU]
 comments: true

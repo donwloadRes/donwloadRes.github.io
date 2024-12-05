@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVPECL、VML、CML、LVDS接口定义介绍"
+title: "LVPECLVMLCMLLVDS接口定义介绍"
 date:   2020-08-17
 tags: [接口,LVPECL,VML,CML,LVDS]
 comments: true

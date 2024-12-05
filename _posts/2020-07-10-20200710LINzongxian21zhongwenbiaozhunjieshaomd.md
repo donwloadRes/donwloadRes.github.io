@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN总线2.1中文标准介绍"
+title: "LIN总线21中文标准介绍"
 date:   2021-04-13
 tags: [LIN,总线,2.1,初学者,中文]
 comments: true

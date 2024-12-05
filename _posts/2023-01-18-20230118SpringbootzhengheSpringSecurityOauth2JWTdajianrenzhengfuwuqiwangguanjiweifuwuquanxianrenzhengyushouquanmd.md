@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot整合Spring Security+Oauth2+JWT搭建认证服务器、网关及微服务权限认证与授权"
+title: "Springboot整合Spring SecurityOauth2JWT搭建认证服务器网关及微服务权限认证与授权"
 date:   2023-09-02
 tags: [认证,Spring,Security,Oauth2,JWT]
 comments: true

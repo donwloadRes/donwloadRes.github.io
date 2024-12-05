@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数导论（第五版）-- Gilbert Strang 资源下载"
+title: "线性代数导论第五版 Gilbert Strang 资源下载"
 date:   2024-03-08
 tags: [线性代数,第五版,资源,--,Gilbert]
 comments: true

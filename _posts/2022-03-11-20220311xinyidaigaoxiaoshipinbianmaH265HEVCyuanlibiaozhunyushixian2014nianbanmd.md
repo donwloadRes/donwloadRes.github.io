@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新一代高效视频编码H.265HEVC原理、标准与实现 2014年版"
+title: "新一代高效视频编码H265HEVC原理标准与实现 2014年版"
 date:   2020-12-29
 tags: [H.265,HEVC,编码,视频,文件]
 comments: true

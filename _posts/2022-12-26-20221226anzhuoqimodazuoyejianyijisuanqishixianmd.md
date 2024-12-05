@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓期末大作业：简易计算器实现"
+title: "安卓期末大作业简易计算器实现"
 date:   2020-08-14
 tags: [安卓,计算器,https,com,your]
 comments: true

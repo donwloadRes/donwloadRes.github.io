@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract最新版语言包chi_sim.traineddata(4.0.0)"
+title: "Tesseract最新版语言包chisimtraineddata400"
 date:   2024-06-08
 tags: [语言包,Tesseract,chi,sim,OCR]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++版本WebSocket客户端源码"
+title: "C版本WebSocket客户端源码"
 date:   2022-03-02
 tags: [WebSocket,源码,客户端,Boost,websocketpp]
 comments: true

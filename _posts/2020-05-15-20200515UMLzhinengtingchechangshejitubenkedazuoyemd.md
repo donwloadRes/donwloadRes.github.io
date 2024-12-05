@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML智能停车场设计图（本科大作业）"
+title: "UML智能停车场设计图本科大作业"
 date:   2020-05-16
 tags: [UML,设计,停车场,智能,文档]
 comments: true

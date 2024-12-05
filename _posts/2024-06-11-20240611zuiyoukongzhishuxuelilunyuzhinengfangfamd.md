@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优控制_数学理论与智能方法"
+title: "最优控制数学理论与智能方法"
 date:   2024-01-11
 tags: [最优控制,智能,方法,数学,资源]
 comments: true

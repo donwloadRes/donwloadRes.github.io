@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora免费版下载 - Windows 64位"
+title: "Typora免费版下载  Windows 64位"
 date:   2023-04-20
 tags: [Typora,版本,免费版,Windows,64]
 comments: true

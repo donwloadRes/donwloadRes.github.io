@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两个小软件：Couplfil和Smith 4.1"
+title: "两个小软件Couplfil和Smith 41"
 date:   2023-06-05
 tags: [Smith,滤波器,Couplfil,设计,4.1]
 comments: true

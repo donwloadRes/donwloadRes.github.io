@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenFOAM用户指南-7.pdf 下载仓库"
+title: "OpenFOAM用户指南7pdf 下载仓库"
 date:   2020-03-05
 tags: [OpenFOAM,pdf,指南,用户,仓库]
 comments: true

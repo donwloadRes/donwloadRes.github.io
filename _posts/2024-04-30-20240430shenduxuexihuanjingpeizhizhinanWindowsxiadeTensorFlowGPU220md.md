@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置指南：Windows下的TensorFlow-GPU 2.2.0"
+title: "深度学习环境配置指南Windows下的TensorFlowGPU 220"
 date:   2022-05-08
 tags: [TensorFlow,GPU,2.2,安装,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266-01S+MQTT+阿里云数据传输"
+title: "ESP826601SMQTT阿里云数据传输"
 date:   2020-02-07
 tags: [ESP8266,阿里,烧录,固件,数据传输]
 comments: true

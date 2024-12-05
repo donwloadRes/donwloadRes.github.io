@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring Boot + Vue的小区物业管理系统源码"
+title: "基于Spring Boot  Vue的小区物业管理系统源码"
 date:   2024-04-05
 tags: [物业管理,业主,Spring,报修,小区]
 comments: true

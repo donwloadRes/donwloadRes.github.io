@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA Pro权威指南（第2版）+ 源码 + 深度探索C++对象模型 2012 中文资源库"
+title: "IDA Pro权威指南第2版 源码  深度探索C对象模型 2012 中文资源库"
 date:   2022-01-10
 tags: [IDA,Pro,C++,源码,指南]
 comments: true

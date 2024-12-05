@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度个性地图3D测试(WebGL V1.0) 离线版资源"
+title: "百度个性地图3D测试WebGL V10 离线版资源"
 date:   2020-03-15
 tags: [3D,WebGL,百度,地图,离线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tecplot中文教程-共享版"
+title: "Tecplot中文教程共享版"
 date:   2024-09-07
 tags: [Tecplot,教程,软件,共享版,Fluent]
 comments: true

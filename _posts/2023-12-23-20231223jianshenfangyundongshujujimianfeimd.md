@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "健身房运动数据集（免费）"
+title: "健身房运动数据集免费"
 date:   2023-08-09
 tags: [锻炼,练习,数据,健身房,健身]
 comments: true

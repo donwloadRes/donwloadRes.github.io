@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XCP_Demo_源代码"
+title: "XCPDemo源代码"
 date:   2024-05-07
 tags: [源代码,XCP,Demo,安装,开发者]
 comments: true

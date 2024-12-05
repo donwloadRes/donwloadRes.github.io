@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLCipher 3.0.1 for Windows 使用宝典"
+title: "SQLCipher 301 for Windows 使用宝典"
 date:   2021-02-16
 tags: [加密,数据库,SQLCipher,Windows,---]
 comments: true

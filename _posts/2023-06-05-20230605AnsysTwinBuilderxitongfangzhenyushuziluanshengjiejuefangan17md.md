@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ansys Twin Builder系统仿真与数字孪生解决方案1.7"
+title: "Ansys Twin Builder系统仿真与数字孪生解决方案17"
 date:   2020-09-07
 tags: [Ansys,孪生,仿真,数字,Twin]
 comments: true

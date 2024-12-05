@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NUS-WIDE数据集预处理指南"
+title: "NUSWIDE数据集预处理指南"
 date:   2022-01-28
 tags: [标签,图像,NUS,WIDE,类别]
 comments: true

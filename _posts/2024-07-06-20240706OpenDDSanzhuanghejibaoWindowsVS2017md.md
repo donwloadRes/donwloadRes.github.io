@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenDDS 安装合集包 (Windows, VS2017)"
+title: "OpenDDS 安装合集包 Windows VS2017"
 date:   2023-03-17
 tags: [OpenDDS,安装,合集,Windows,Perl]
 comments: true

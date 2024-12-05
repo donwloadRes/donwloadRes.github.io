@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "巴特沃斯低通滤波器设计（C语言）"
+title: "巴特沃斯低通滤波器设计C语言"
 date:   2021-02-23
 tags: [低通滤波器,C语言,沃斯,巴特,代码]
 comments: true

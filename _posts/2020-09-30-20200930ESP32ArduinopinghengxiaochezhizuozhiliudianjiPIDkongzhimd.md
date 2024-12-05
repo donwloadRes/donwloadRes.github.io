@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 Arduino平衡小车制作：直流电机PID控制"
+title: "ESP32 Arduino平衡小车制作直流电机PID控制"
 date:   2020-08-21
 tags: [PID,ESP32,Arduino,小车,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "制作OpenStack镜像Win7.qcow2 (CentOS-Ubuntu-Win镜像分享)"
+title: "制作OpenStack镜像Win7qcow2 CentOSUbuntuWin镜像分享"
 date:   2023-11-21
 tags: [镜像,OpenStack,qcow2,Windows,分享]
 comments: true

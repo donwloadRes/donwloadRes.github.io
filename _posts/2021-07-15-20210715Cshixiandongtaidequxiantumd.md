@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现动态的曲线图"
+title: "C实现动态的曲线图"
 date:   2022-07-15
 tags: [曲线图,控件,Chart,动态,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML实现图片轮播（含代码和注释）"
+title: "HTML实现图片轮播含代码和注释"
 date:   2024-06-05
 tags: [轮播,图片,img,currentSlide,HTML]
 comments: true

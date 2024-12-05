@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB基于飞蛾扑火算法优化BP神经网络（MFO-BP）的预测模型"
+title: "MATLAB基于飞蛾扑火算法优化BP神经网络MFOBP的预测模型"
 date:   2021-01-09
 tags: [BP,模型,MATLAB,算法,MFO]
 comments: true

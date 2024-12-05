@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在VS2022(QT)或QTCreator上配置并显示PCL点云文件"
+title: "在VS2022QT或QTCreator上配置并显示PCL点云文件"
 date:   2021-10-03
 tags: [PCL,配置,QT,文件,点云]
 comments: true

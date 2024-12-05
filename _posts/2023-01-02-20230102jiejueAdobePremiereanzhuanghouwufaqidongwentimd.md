@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“Adobe Premiere安装后无法启动”问题"
+title: "解决Adobe Premiere安装后无法启动问题"
 date:   2020-08-13
 tags: [Adobe,Premiere,安装,Pro,dll]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于DQN算法的移动机器人三维路径规划（MATLAB实现）"
+title: "基于DQN算法的移动机器人三维路径规划MATLAB实现"
 date:   2020-06-20
 tags: [MATLAB,路径,规划,移动机器人,DQN]
 comments: true

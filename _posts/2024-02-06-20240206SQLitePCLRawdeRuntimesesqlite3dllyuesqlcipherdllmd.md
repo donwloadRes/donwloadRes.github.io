@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLitePCLRaw的Runtimes: e-sqlite3.dll与e-sqlcipher.dll"
+title: "SQLitePCLRaw的Runtimes esqlite3dll与esqlcipherdll"
 date:   2020-01-08
 tags: [dll,加密,SQLitePCLRaw,sqlcipher,SQLite]
 comments: true

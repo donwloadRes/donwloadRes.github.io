@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【强烈推荐】Vivado入门与提高（1~41）-高亚军"
+title: "强烈推荐Vivado入门与提高141高亚军"
 date:   2024-06-10
 tags: [Vivado,教程,设计,亚军,FPGA]
 comments: true

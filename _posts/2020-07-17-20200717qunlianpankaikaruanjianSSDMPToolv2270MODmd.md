@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联盘开卡软件SSD MP Tool v2.2.70-MOD"
+title: "群联盘开卡软件SSD MP Tool v2270MOD"
 date:   2020-12-09
 tags: [SSD,开卡,70,v2.2,软件]
 comments: true

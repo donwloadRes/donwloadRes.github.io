@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：LED二次光学设计中的透镜设计"
+title: "MATLAB代码LED二次光学设计中的透镜设计"
 date:   2022-11-13
 tags: [MATLAB,代码,LED,透镜,设计]
 comments: true

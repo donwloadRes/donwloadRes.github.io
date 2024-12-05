@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度富文本（好看的很）资源下载"
+title: "百度富文本好看的很资源下载"
 date:   2024-01-28
 tags: [文本编辑,示例,百度,文件,HTML]
 comments: true

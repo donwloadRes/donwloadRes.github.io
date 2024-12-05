@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电气符号库下载(最全图集)"
+title: "电气符号库下载最全图集"
 date:   2024-01-24
 tags: [符号,电气,符号库,设计,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 元件库大全（终结版）"
+title: "Altium Designer 元件库大全终结版"
 date:   2022-02-19
 tags: [元件库,Altium,Designer,终结版,文件]
 comments: true

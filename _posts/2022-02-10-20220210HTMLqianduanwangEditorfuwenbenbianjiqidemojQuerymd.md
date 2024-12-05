@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML前端wangEditor富文本编辑器demo（jQuery）"
+title: "HTML前端wangEditor富文本编辑器demojQuery"
 date:   2020-04-21
 tags: [demo,文本编辑,解压,文件,wangEditor]
 comments: true

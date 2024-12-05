@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QMC5883使用方法指南 - STM32平台下的IIC模拟实现"
+title: "QMC5883使用方法指南  STM32平台下的IIC模拟实现"
 date:   2020-12-21
 tags: [QMC5883,STM32,IIC,磁力计,模拟]
 comments: true

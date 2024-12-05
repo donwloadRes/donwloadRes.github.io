@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册-终极版"
+title: "阿里巴巴Java开发手册终极版"
 date:   2022-06-21
 tags: [Java,阿里巴巴,终极版,编程,代码]
 comments: true

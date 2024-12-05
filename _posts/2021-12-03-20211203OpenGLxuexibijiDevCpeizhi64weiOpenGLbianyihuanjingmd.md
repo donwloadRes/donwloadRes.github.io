@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL学习笔记：DevC++配置64位OpenGL编译环境"
+title: "OpenGL学习笔记DevC配置64位OpenGL编译环境"
 date:   2022-05-08
 tags: [OpenGL,Dev,C++,64,配置]
 comments: true

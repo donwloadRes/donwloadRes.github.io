@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Yolov8的中国交通标志（CCTSDB）识别检测系统"
+title: "基于Yolov8的中国交通标志CCTSDB识别检测系统"
 date:   2023-02-01
 tags: [源码,CCTSDB,交通标志,识别,Yolov8]
 comments: true

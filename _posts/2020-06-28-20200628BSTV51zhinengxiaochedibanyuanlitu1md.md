@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BST-V51智能小车底板原理图1"
+title: "BSTV51智能小车底板原理图1"
 date:   2021-04-15
 tags: [小车,BST,V51,原理图,智能]
 comments: true

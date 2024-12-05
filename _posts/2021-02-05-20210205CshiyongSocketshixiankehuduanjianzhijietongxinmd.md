@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 Socket 实现客户端间直接通信"
+title: "C 使用 Socket 实现客户端间直接通信"
 date:   2022-03-01
 tags: [客户端,Socket,服务器,C#,编程]
 comments: true

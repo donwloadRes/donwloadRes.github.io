@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 视频播放器资源下载"
+title: "C 视频播放器资源下载"
 date:   2020-08-15
 tags: [播放器,AVI,C#,视频,资源]
 comments: true

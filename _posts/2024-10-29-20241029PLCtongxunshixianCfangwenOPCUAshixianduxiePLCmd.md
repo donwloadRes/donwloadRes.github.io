@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC通讯实现-C#访问OPCUA实现读写PLC"
+title: "PLC通讯实现C访问OPCUA实现读写PLC"
 date:   2020-06-26
 tags: [OPC,UA,PLC,feature,代码]
 comments: true

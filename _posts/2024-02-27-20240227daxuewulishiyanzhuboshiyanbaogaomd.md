@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学物理实验-驻波实验报告"
+title: "大学物理实验驻波实验报告"
 date:   2024-07-10
 tags: [实验,实验报告,驻波,大学物理,原理]
 comments: true

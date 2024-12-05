@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 第五版 英文版 资源下载"
+title: "C Primer 第五版 英文版 资源下载"
 date:   2023-08-13
 tags: [C++,编程,第五版,阅读,学习]
 comments: true

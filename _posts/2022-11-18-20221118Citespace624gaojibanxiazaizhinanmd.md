@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Citespace 6.2.4 高级版下载指南"
+title: "Citespace 624 高级版下载指南"
 date:   2022-08-19
 tags: [Citespace,下载,6.2,高级,激活]
 comments: true

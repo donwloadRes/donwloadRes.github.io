@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSMT17_V1行人重识别数据集"
+title: "MSMT17V1行人重识别数据集"
 date:   2020-08-15
 tags: [txt,list,数据,文件,MSMT17]
 comments: true

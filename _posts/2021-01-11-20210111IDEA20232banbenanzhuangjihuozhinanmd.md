@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA 2023.2版本安装激活指南"
+title: "IDEA 20232版本安装激活指南"
 date:   2023-04-18
 tags: [IDEA,激活,插件,安装,版本]
 comments: true

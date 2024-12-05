@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单HTML个人网页（HTML+CSS）电子商务模板"
+title: "简单HTML个人网页HTMLCSS电子商务模板"
 date:   2023-03-03
 tags: [网页,HTML,作业,CSS,期末]
 comments: true

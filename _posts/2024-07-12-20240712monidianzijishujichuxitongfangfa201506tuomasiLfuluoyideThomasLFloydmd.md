@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术基础系统方法2015-06 - 托马斯 L. 弗洛伊德 (Thomas L.Floyd)"
+title: "模拟电子技术基础系统方法201506  托马斯 L 弗洛伊德 Thomas LFloyd"
 date:   2023-09-04
 tags: [模拟,电子,系统,技术,弗洛伊德]
 comments: true

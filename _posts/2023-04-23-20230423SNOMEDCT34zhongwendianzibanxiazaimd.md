@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNOMED CT 3.4 中文电子版下载"
+title: "SNOMED CT 34 中文电子版下载"
 date:   2024-10-12
 tags: [3.4,电子版,SNOMED,CT,中文]
 comments: true

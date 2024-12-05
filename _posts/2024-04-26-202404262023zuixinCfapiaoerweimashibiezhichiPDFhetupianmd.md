@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新C#发票二维码识别支持PDF和图片"
+title: "2023最新C发票二维码识别支持PDF和图片"
 date:   2021-05-24
 tags: [识别,二维码,PDF,发票,C#]
 comments: true

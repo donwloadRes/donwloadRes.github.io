@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-Unet：基于SwinTransformer、ResNet和U-Net的语义分割网络实现"
+title: "STUnet基于SwinTransformerResNet和UNet的语义分割网络实现"
 date:   2024-06-05
 tags: [语义,分割,Net,ST,Unet]
 comments: true

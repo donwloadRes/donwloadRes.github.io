@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制理论（第2版）习题参考答案"
+title: "现代控制理论第2版习题参考答案"
 date:   2023-10-07
 tags: [习题,参考答案,学习,现代,理论]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 中文指南2.0 下载仓库"
+title: "PyCharm 中文指南20 下载仓库"
 date:   2021-12-02
 tags: [PyCharm,指南,2.0,下载,中文]
 comments: true

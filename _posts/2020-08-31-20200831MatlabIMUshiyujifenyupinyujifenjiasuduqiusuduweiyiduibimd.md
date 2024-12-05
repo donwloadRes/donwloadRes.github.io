@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab IMU 时域积分与频域积分：加速度求速度位移对比"
+title: "Matlab IMU 时域积分与频域积分加速度求速度位移对比"
 date:   2022-10-28
 tags: [积分,频域,时域,加速度,位移]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA自学笔记——设计与验证VIP版"
+title: "FPGA自学笔记设计与验证VIP版"
 date:   2023-11-11
 tags: [FPGA,设计,SOC,本书,VIP]
 comments: true

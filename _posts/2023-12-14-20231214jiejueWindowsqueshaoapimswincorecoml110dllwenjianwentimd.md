@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows缺少api-ms-win-core-com-l1-1-0.dll文件问题"
+title: "解决Windows缺少apimswincorecoml110dll文件问题"
 date:   2022-10-13
 tags: [Windows,api,ms,win,core]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件评测师教程-中级资源下载"
+title: "软件评测师教程中级资源下载"
 date:   2023-01-13
 tags: [评测,软件,教程,中级,pdf]
 comments: true

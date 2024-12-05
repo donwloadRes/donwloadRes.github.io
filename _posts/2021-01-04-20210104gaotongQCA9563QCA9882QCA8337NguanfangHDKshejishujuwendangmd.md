@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通QCA9563+QCA9882+QCA8337N官方HDK设计数据文档"
+title: "高通QCA9563QCA9882QCA8337N官方HDK设计数据文档"
 date:   2021-11-28
 tags: [文档,芯片,设计,QCA9882,QCA8337N]
 comments: true

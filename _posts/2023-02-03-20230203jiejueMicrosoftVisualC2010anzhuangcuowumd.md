@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Microsoft Visual C++ 2010安装错误"
+title: "解决Microsoft Visual C 2010安装错误"
 date:   2023-09-21
 tags: [Microsoft,Visual,2010,安装,Service]
 comments: true

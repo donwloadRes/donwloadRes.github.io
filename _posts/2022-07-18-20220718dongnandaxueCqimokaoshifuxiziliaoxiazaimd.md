@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东南大学C++》期末考试复习资料下载"
+title: "东南大学C期末考试复习资料下载"
 date:   2020-06-28
 tags: [复习资料,期末考试,东南大学,C++,复习]
 comments: true

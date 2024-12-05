@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "查看星号密码 (ViewPass) 使用说明"
+title: "查看星号密码 ViewPass 使用说明"
 date:   2022-11-27
 tags: [密码,星号,ViewPass,查看,工具]
 comments: true

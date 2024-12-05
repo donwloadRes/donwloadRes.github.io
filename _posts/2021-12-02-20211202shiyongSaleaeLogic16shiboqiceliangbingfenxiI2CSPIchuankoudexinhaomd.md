@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用 Saleae Logic 16 示波器测量并分析 I2C、SPI、串口的信号"
+title: "使用 Saleae Logic 16 示波器测量并分析 I2CSPI串口的信号"
 date:   2022-05-01
 tags: [Saleae,Logic,16,串口,信号]
 comments: true

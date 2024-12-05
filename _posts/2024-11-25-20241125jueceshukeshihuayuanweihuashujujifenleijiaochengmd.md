@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "决策树可视化：鸢尾花数据集分类教程"
+title: "决策树可视化鸢尾花数据集分类教程"
 date:   2023-11-26
 tags: [决策树,可视化,鸢尾花,数据,分类]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT C++实现的FTP客户端，带断点续传功能"
+title: "QT C实现的FTP客户端带断点续传功能"
 date:   2020-12-13
 tags: [FTP,客户端,下载,功能,断点续传]
 comments: true

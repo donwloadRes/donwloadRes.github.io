@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCC数字钥匙3.0白皮书（中文翻译）"
+title: "CCC数字钥匙30白皮书中文翻译"
 date:   2022-07-18
 tags: [白皮书,CCC,钥匙,中文翻译,3.0]
 comments: true

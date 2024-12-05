@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web精伦IDR210 OCX控件和接口文档 V4.1.0.4"
+title: "Web精伦IDR210 OCX控件和接口文档 V4104"
 date:   2021-10-22
 tags: [控件,Web,文档,OCX,接口]
 comments: true

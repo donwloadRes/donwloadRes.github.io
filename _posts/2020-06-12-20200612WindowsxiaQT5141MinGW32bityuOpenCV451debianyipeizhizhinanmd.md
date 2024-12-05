@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下QT5.14.1-MinGW-32bit与OpenCV4.5.1的编译配置指南"
+title: "Windows下QT5141MinGW32bit与OpenCV451的编译配置指南"
 date:   2022-02-08
 tags: [OpenCV,MinGW,32bit,编译器,QT5.14]
 comments: true

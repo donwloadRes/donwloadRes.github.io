@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缤果Qt5串口蓝牙调试助手V1.0(初级篇)"
+title: "缤果Qt5串口蓝牙调试助手V10初级篇"
 date:   2024-01-03
 tags: [串口,蓝牙,调试,Qt5,缤果]
 comments: true

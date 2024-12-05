@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus Prime v18.1 标准版安装指南"
+title: "Quartus Prime v181 标准版安装指南"
 date:   2021-05-20
 tags: [安装,Quartus,Prime,v18.1,标准版]
 comments: true

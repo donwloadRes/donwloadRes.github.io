@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB_Z299B电子设备可靠性预计手册"
+title: "GJBZ299B电子设备可靠性预计手册"
 date:   2023-05-07
 tags: [可靠性,电子设备,手册,GJB,Z299B]
 comments: true

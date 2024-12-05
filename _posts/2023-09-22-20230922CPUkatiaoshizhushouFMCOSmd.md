@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CPU卡调试助手（FMCOS）"
+title: "CPU卡调试助手FMCOS"
 date:   2022-10-25
 tags: [FMCOS,卡片,CPU,调试,助手]
 comments: true

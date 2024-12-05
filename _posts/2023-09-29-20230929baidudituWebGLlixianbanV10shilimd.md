@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度地图WebGL离线版V1.0示例"
+title: "百度地图WebGL离线版V10示例"
 date:   2024-11-17
 tags: [示例,WebGL,离线,V1.0,百度]
 comments: true

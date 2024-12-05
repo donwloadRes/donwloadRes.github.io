@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "明纬S-50-24开关电源电路图"
+title: "明纬S5024开关电源电路图"
 date:   2022-06-03
 tags: [电路图,开关电源,明纬,50,24]
 comments: true

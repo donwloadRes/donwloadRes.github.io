@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面试常问知识点总结"
+title: "C面试常问知识点总结"
 date:   2020-08-10
 tags: [C++,知识点,面试,常问,开发者]
 comments: true

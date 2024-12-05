@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC-触摸屏系列解密软件"
+title: "PLC触摸屏系列解密软件"
 date:   2020-12-27
 tags: [解密,软件,PLC,触摸屏,设备]
 comments: true

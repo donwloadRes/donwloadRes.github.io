@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024.3.2 最新使用 ChatGPT 实现自动化小说写作"
+title: "202432 最新使用 ChatGPT 实现自动化小说写作"
 date:   2022-07-26
 tags: [API,密钥,Python,测试,小说]
 comments: true

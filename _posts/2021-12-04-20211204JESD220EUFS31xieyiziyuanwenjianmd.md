@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD220E UFS 3.1 协议资源文件"
+title: "JESD220E UFS 31 协议资源文件"
 date:   2021-02-24
 tags: [UFS,3.1,文件,JESD220E,协议]
 comments: true

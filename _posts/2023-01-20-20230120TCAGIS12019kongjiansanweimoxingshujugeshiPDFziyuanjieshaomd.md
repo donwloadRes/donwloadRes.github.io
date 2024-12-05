@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T-CAGIS 1—2019空间三维模型数据格式》PDF资源介绍"
+title: "TCAGIS 12019空间三维模型数据格式PDF资源介绍"
 date:   2020-04-09
 tags: [三维,数据格式,GIS,三维空间,模型]
 comments: true

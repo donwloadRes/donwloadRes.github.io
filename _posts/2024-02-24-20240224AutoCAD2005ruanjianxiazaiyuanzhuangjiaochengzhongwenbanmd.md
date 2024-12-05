@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD2005软件下载与安装教程（中文版）"
+title: "AutoCAD2005软件下载与安装教程中文版"
 date:   2024-07-23
 tags: [点击,安装,AutoCAD2005,一步,软件]
 comments: true

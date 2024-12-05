@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "GAMES101 作业 0 学习指南"
+title: "GAMES101 作业 0 学习指南
+date   20220904
+tags 学习者游戏作业开发GAMES101
+comments true
+author admin
+
+
+layout post
+title GAMES101 作业 0 学习指南"
 date:   2022-09-04
 tags: [学习者,游戏,作业,开发,GAMES101]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "GAMES101 作业 0 学习指南"
+title: "GAMES101 作业 0 学习指南
+date   20220904
+tags 学习者游戏作业开发GAMES101
+comments true
+author admin
+
+
+layout post
+title GAMES101 作业 0 学习指南"
 date:   2024-07-27
 tags: [学习者,游戏,作业,开发,学习]
 comments: true

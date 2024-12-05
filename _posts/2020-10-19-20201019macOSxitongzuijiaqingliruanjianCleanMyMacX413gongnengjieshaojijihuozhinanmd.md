@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS系统最佳清理软件CleanMyMac X 4.13功能介绍及激活指南"
+title: "macOS系统最佳清理软件CleanMyMac X 413功能介绍及激活指南"
 date:   2024-11-02
 tags: [Mac,激活,清理,软件,CleanMyMac]
 comments: true

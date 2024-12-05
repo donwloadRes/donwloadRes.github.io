@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 离线安装 JDK 1.8 指南"
+title: "CentOS 7 离线安装 JDK 18 指南"
 date:   2024-10-19
 tags: [JDK,jdk,离线,1.8,x64]
 comments: true

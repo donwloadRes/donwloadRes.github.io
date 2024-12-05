@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#基于Halcon实现Basler相机采图SDK"
+title: "C基于Halcon实现Basler相机采图SDK"
 date:   2021-01-13
 tags: [相机,Basler,SDK,软件,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现多目标粒子群优化算法（MOPSO）"
+title: "MATLAB实现多目标粒子群优化算法MOPSO"
 date:   2021-10-02
 tags: [MOPSO,算法,MATLAB,粒子,优化]
 comments: true

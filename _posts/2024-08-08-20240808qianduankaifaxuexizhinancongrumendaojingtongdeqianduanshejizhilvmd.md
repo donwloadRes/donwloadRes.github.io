@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端开发学习指南：从入门到精通的前端设计之旅"
+title: "前端开发学习指南从入门到精通的前端设计之旅"
 date:   2021-01-13
 tags: [前端,前端开发,Bootstrap,学习,网页]
 comments: true

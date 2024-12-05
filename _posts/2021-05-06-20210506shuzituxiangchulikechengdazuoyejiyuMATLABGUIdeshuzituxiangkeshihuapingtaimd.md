@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理课程大作业：基于MATLAB GUI的数字图像可视化平台"
+title: "数字图像处理课程大作业基于MATLAB GUI的数字图像可视化平台"
 date:   2022-05-09
 tags: [图像,锐化,算子,图像处理,平台]
 comments: true

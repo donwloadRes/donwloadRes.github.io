@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "符号计算系统Mathematica教程 - 张韵华"
+title: "符号计算系统Mathematica教程  张韵华"
 date:   2021-08-02
 tags: [Mathematica,教程,符号计算,张韵华,PDF]
 comments: true

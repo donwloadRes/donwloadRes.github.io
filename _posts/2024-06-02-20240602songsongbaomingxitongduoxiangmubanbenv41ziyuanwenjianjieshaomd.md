@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵩嵩报名系统多项目版本 v4.1 资源文件介绍"
+title: "嵩嵩报名系统多项目版本 v41 资源文件介绍"
 date:   2021-11-02
 tags: [设置,报名,系统,项目,打印]
 comments: true

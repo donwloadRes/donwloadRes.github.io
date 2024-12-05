@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C51单片机控制16×16LED点阵滚动显示"
+title: "C51单片机控制1616LED点阵滚动显示"
 date:   2024-07-20
 tags: [滚动,C51,单片机,点阵,LED]
 comments: true

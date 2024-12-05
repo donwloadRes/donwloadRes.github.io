@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 三维粒子系统：雨花与烟火演示"
+title: "Threejs 三维粒子系统雨花与烟火演示"
 date:   2020-12-09
 tags: [Three,js,烟火,粒子系统,雨花]
 comments: true

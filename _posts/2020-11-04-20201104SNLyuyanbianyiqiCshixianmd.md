@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNL语言编译器C++实现"
+title: "SNL语言编译器C实现"
 date:   2023-12-10
 tags: [编译器,SNL,源代码,词法,代码生成]
 comments: true

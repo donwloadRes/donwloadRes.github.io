@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP 服务端与客户端（心跳机制）"
+title: "C TCP 服务端与客户端心跳机制"
 date:   2022-11-18
 tags: [客户端,服务端,TCP,心跳,C#]
 comments: true

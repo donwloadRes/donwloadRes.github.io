@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android反编译工具——jadx"
+title: "Android反编译工具jadx"
 date:   2020-05-27
 tags: [反编译,jadx,APK,文件,Android]
 comments: true

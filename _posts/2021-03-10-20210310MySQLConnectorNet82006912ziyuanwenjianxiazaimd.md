@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-Net 8.20.0 + 6.9.12 资源文件下载"
+title: "MySQL ConnectorNet 8200  6912 资源文件下载"
 date:   2023-11-26
 tags: [Net,MySQL,MySql,Data,dll]
 comments: true

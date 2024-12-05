@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPS现代时序中断机制实现(HUST) 实训代码"
+title: "MIPS现代时序中断机制实现HUST 实训代码"
 date:   2020-02-08
 tags: [代码,MIPS,时序,实训,HUST]
 comments: true

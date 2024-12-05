@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析案例-药店销售数据分析"
+title: "Python数据分析案例药店销售数据分析"
 date:   2021-03-30
 tags: [消费,销售,数据,金额,月均]
 comments: true

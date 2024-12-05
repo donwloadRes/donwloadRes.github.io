@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB Z 1391-2006 故障模式影响及危害性分析指南"
+title: "GJB Z 13912006 故障模式影响及危害性分析指南"
 date:   2023-03-26
 tags: [故障,危害性,2006,指南,模式]
 comments: true

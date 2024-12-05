@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8382L(24+2) HDK 资源文件下载"
+title: "RTL8382L242 HDK 资源文件下载"
 date:   2023-12-28
 tags: [RTL8382L,24,HDK,文件,交换机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C++脚本进行虚幻引擎5游戏开发"
+title: "使用C脚本进行虚幻引擎5游戏开发"
 date:   2022-04-16
 tags: [游戏,C++,虚幻,引擎,开发]
 comments: true

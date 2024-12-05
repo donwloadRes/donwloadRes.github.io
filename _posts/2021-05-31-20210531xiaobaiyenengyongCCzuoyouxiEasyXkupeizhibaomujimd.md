@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白也能用C-C++做游戏--EasyX库配置(保姆级)"
+title: "小白也能用CC做游戏EasyX库配置保姆级"
 date:   2023-01-02
 tags: [EasyX,C++,安装,VScode,配置]
 comments: true

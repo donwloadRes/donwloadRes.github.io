@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 1903版本离线安装.NET 2~3.5资源包"
+title: "Windows 10 1903版本离线安装NET 235资源包"
 date:   2024-08-08
 tags: [安装,Windows,10,1903,离线]
 comments: true

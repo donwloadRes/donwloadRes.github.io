@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸表情识别系统介绍——上篇（Python实现，含UI界面及完整代码）"
+title: "人脸表情识别系统介绍上篇Python实现含UI界面及完整代码"
 date:   2024-07-11
 tags: [人脸,用户界面,表情,Python,py]
 comments: true

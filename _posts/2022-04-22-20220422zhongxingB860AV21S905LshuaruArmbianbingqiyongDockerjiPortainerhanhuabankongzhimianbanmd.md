@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴B860 AV2.1 S905L刷入Armbian并启用Docker及Portainer汉化版控制面板"
+title: "中兴B860 AV21 S905L刷入Armbian并启用Docker及Portainer汉化版控制面板"
 date:   2023-07-30
 tags: [Armbian,Docker,刷入,Portainer,S905L]
 comments: true

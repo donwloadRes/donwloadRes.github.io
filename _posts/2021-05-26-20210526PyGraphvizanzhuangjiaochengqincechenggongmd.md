@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyGraphviz安装教程（亲测成功）"
+title: "PyGraphviz安装教程亲测成功"
 date:   2021-05-23
 tags: [安装,PyGraphviz,Graphviz,验证,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLink_Windows_V648.zip 资源说明"
+title: "JLinkWindowsV648zip 资源说明"
 date:   2023-05-03
 tags: [Windows,更新,编程,闪存,JLink]
 comments: true

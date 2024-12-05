@@ -1,6 +1,35 @@
 ---
 layout: post
-title: "多项式拟合函数polyfit之C语言源码"
+title: "多项式拟合函数polyfit之C语言源码
+date   20230606
+tags polyfit拟合C语言多项式代码
+comments true
+author admin
+
+ 多项式拟合函数polyfit之C语言源码
+
+ 简介
+
+本仓库提供了一个用于多项式拟合的C语言源码该代码实现了与MATLAB中的polyfit函数类似的功能通过本代码您可以在C语言环境中进行多项式拟合操作适用于需要将MATLAB代码移植到C语言环境中的开发者
+
+ 资源文件
+
+ 文件名 polyfitcc
+ 描述 该文件包含了多项式拟合的C语言实现代码可以直接编译并在C语言项目中使用
+
+ 使用方法
+
+1 下载文件 下载本仓库中的polyfitcc文件
+2 集成到项目 将polyfitcc文件集成到您的C语言项目中
+3 编译运行 编译并运行您的项目调用polyfit函数进行多项式拟合
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用本仓库中的polyfit函数
+
+c
+include stdioh
+include polyfitcc"
 date:   2023-06-06
 tags: [polyfit,拟合,C语言,多项式,代码]
 comments: true

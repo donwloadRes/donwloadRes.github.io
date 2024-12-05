@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "burpsuite学习和使用-环境配置软件安装（kali环境）"
+title: "burpsuite学习和使用环境配置软件安装kali环境"
 date:   2021-09-26
 tags: [Burp,Suite,usr,bin,Java]
 comments: true

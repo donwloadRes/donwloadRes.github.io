@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle(PDI)安装使用教程及Linux部署指南"
+title: "KettlePDI安装使用教程及Linux部署指南"
 date:   2024-03-19
 tags: [Kettle,Linux,转换,教程,安装]
 comments: true

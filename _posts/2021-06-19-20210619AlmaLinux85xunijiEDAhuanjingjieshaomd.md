@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AlmaLinux8.5虚拟机EDA环境介绍"
+title: "AlmaLinux85虚拟机EDA环境介绍"
 date:   2022-12-05
 tags: [虚拟机,EDA,数模,集成电路,工具]
 comments: true

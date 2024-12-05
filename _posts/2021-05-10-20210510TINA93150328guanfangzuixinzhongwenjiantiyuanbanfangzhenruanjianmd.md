@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TINA 9.3.150.328 官方最新中文简体原版仿真软件"
+title: "TINA 93150328 官方最新中文简体原版仿真软件"
 date:   2023-08-10
 tags: [仿真,软件,中文,简体,150.328]
 comments: true

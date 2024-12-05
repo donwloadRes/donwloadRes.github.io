@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab 基于卷积神经网络(CNN)的时间序列预测"
+title: "Matlab 基于卷积神经网络CNN的时间序列预测"
 date:   2021-11-03
 tags: [Matlab,预测,数据,序列,模型]
 comments: true

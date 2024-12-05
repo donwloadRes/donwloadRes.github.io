@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO综述论文：从v1到v8的详细深入对比剖析"
+title: "YOLO综述论文从v1到v8的详细深入对比剖析"
 date:   2022-04-25
 tags: [YOLO,综述,物体,检测,实时]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信简史：从电磁波到5G 高清电子书 PDF电子版"
+title: "无线通信简史从电磁波到5G 高清电子书 PDF电子版"
 date:   2020-11-18
 tags: [无线通信,5G,PDF,简史,电磁波]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USBlyzer 2.2 资源下载"
+title: "USBlyzer 22 资源下载"
 date:   2020-07-08
 tags: [USBlyzer,2.2,USB,文件,下载]
 comments: true

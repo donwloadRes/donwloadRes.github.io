@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NJ与基恩士KV-5500 EIP数据标签通讯指南"
+title: "NJ与基恩士KV5500 EIP数据标签通讯指南"
 date:   2024-12-02
 tags: [KV,基恩,NJ,5500,EIP]
 comments: true

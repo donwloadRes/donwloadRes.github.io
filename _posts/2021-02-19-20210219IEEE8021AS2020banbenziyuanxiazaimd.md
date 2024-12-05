@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.1AS-2020 版本资源下载"
+title: "IEEE 8021AS2020 版本资源下载"
 date:   2020-08-04
 tags: [2020,IEEE,802.1,版本,PDF]
 comments: true

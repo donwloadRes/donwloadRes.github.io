@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4x 多路ADC + 外部定时器TIM3触发控制采样时间 + DMA"
+title: "STM32F4x 多路ADC  外部定时器TIM3触发控制采样时间  DMA"
 date:   2023-11-05
 tags: [ADC,定时器,TIM3,DMA,串口]
 comments: true

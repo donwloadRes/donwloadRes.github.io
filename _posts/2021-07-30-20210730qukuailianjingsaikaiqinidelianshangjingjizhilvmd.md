@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "区块链竞赛：开启你的链上竞技之旅"
+title: "区块链竞赛开启你的链上竞技之旅"
 date:   2020-04-08
 tags: [区块,比赛,竞赛,技术,项目]
 comments: true

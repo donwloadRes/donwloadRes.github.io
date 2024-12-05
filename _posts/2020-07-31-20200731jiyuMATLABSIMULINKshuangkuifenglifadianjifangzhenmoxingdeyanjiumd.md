@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-SIMULINK双馈风力发电机仿真模型的研究"
+title: "基于MATLABSIMULINK双馈风力发电机仿真模型的研究"
 date:   2023-09-23
 tags: [仿真,MATLAB,SIMULINK,双馈,模型]
 comments: true

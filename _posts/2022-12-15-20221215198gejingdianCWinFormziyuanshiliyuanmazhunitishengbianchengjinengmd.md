@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "198个经典C# WinForm资源实例源码，助你提升编程技能"
+title: "198个经典C WinForm资源实例源码助你提升编程技能"
 date:   2021-07-11
 tags: [源码,C#,实例,WinForm,198]
 comments: true

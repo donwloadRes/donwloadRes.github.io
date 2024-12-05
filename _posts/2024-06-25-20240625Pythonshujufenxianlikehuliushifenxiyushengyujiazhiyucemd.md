@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析案例：客户流失分析与剩余价值预测"
+title: "Python数据分析案例客户流失分析与剩余价值预测"
 date:   2023-04-02
 tags: [客户,流失,Python,Kaplan,Meier]
 comments: true

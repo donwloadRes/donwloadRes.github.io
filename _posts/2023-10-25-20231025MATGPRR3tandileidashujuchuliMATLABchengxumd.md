@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATGPR_R3探地雷达数据处理MATLAB程序"
+title: "MATGPRR3探地雷达数据处理MATLAB程序"
 date:   2023-04-13
 tags: [探地,雷达,MATLAB,数据分析,MATGPR]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMC标准VITA57.1-中文版"
+title: "FMC标准VITA571中文版"
 date:   2020-07-02
 tags: [FMC,文档,标准,VITA57.1,FPGA]
 comments: true

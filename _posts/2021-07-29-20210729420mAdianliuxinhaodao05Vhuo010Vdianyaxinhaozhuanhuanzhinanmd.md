@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4-20mA电流信号到0-5V或0-10V电压信号转换指南"
+title: "420mA电流信号到05V或010V电压信号转换指南"
 date:   2023-05-14
 tags: [信号,20mA,电压,5V,10V]
 comments: true

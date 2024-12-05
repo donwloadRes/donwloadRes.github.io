@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版 JESD79-5B, 2022年, JEDEC 内存SDRAM规范"
+title: "最新版 JESD795B 2022年 JEDEC 内存SDRAM规范"
 date:   2023-11-20
 tags: [SDRAM,DDR5,最新版,JESD79,5B]
 comments: true

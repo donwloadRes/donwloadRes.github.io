@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IR2104+IRF540电机驱动电路原理图"
+title: "IR2104IRF540电机驱动电路原理图"
 date:   2022-07-27
 tags: [原理图,电机,电路,PWM,IR2104]
 comments: true

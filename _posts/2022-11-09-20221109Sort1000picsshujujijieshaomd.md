@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sort-1000pics数据集介绍"
+title: "Sort1000pics数据集介绍"
 date:   2023-09-03
 tags: [Sort,1000pics,数据,模型,图片]
 comments: true

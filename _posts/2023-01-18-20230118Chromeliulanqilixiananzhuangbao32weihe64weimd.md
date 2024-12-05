@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome浏览器离线安装包(32位和64位)"
+title: "Chrome浏览器离线安装包32位和64位"
 date:   2022-04-06
 tags: [安装包,Chrome,浏览器,离线,32]
 comments: true

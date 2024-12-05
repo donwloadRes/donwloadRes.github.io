@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Labelme.exe 下载"
+title: "Labelmeexe 下载"
 date:   2023-08-20
 tags: [Labelme,标注,exe,图像,图形界面]
 comments: true

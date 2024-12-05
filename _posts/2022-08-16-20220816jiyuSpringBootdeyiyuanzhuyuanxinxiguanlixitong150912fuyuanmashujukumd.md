@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot的医院住院信息管理系统150912（附源码+数据库）"
+title: "基于SpringBoot的医院住院信息管理系统150912附源码数据库"
 date:   2020-09-28
 tags: [病人,管理,数据库,病房,信息]
 comments: true

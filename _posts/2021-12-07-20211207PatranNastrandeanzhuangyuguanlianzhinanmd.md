@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patran-Nastran的安装与关联指南"
+title: "PatranNastran的安装与关联指南"
 date:   2022-08-08
 tags: [安装,点击,选择,Nastran,一步]
 comments: true

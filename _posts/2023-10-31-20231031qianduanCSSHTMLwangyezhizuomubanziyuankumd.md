@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端CSS+HTML网页制作模板资源库"
+title: "前端CSSHTML网页制作模板资源库"
 date:   2023-11-05
 tags: [模板,浏览器,网页,解压,修改]
 comments: true

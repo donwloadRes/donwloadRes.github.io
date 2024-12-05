@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows安装DVWA（全过程）"
+title: "Windows安装DVWA全过程"
 date:   2020-08-01
 tags: [DVWA,安装,Windows,Web,PHPStudy]
 comments: true

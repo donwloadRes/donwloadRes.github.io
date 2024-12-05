@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#连接相机实现机器视觉运动控制 - 3CCD-CSharp应用指南"
+title: "C连接相机实现机器视觉运动控制  3CCDCSharp应用指南"
 date:   2024-03-28
 tags: [C#,相机,视觉,3CCD,机器]
 comments: true

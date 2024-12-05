@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 安装 Git 指南"
+title: "CentOS 76 安装 Git 指南"
 date:   2021-02-13
 tags: [Git,git,usr,local,bash]
 comments: true

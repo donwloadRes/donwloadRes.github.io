@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD .NET开发指南（中文版）下载仓库"
+title: "AutoCAD NET开发指南中文版下载仓库"
 date:   2023-01-14
 tags: [AutoCAD,指南,开发,NET,中文版]
 comments: true

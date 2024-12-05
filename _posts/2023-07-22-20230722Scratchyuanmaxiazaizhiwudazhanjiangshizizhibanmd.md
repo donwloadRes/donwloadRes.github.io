@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch源码下载：植物大战僵尸 自制版"
+title: "Scratch源码下载植物大战僵尸 自制版"
 date:   2021-10-19
 tags: [Scratch,源码,下载,项目,编程]
 comments: true

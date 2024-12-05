@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX577-AACK-C_Data 资源文件介绍"
+title: "IMX577AACKCData 资源文件介绍"
 date:   2023-09-25
 tags: [IMX577,AACK,器件,Data,文件]
 comments: true

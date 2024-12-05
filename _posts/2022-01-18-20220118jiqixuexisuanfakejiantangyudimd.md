@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习算法课件 - 唐宇迪"
+title: "机器学习算法课件  唐宇迪"
 date:   2020-01-24
 tags: [课件,学习,机器,算法,唐宇迪]
 comments: true

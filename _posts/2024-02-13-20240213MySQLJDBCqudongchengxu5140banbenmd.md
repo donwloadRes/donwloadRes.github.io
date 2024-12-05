@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL JDBC 驱动程序 5.1.40 版本"
+title: "MySQL JDBC 驱动程序 5140 版本"
 date:   2021-05-27
 tags: [5.1,40,MySQL,java,tar]
 comments: true

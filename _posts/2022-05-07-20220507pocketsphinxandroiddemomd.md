@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pocketsphinx-android-demo"
+title: "pocketsphinxandroiddemo"
 date:   2023-01-20
 tags: [安卓,Pocketsphinx,语音,离线,pocketsphinx]
 comments: true

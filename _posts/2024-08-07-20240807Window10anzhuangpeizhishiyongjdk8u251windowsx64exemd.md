@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window-10 安装配置使用jdk-8u251-windows-x64.exe"
+title: "Window10 安装配置使用jdk8u251windowsx64exe"
 date:   2021-06-07
 tags: [安装,Java,java,10,JDK]
 comments: true

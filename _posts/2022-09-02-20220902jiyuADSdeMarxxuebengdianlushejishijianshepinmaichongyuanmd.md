@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ADS的Marx雪崩电路设计实践（射频脉冲源）"
+title: "基于ADS的Marx雪崩电路设计实践射频脉冲源"
 date:   2020-10-27
 tags: [ADS,Marx,电路设计,雪崩,电路]
 comments: true

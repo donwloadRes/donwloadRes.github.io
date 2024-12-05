@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“互联网+”大学生创新创业大赛项目计划书"
+title: "互联网大学生创新创业大赛项目计划书"
 date:   2021-04-26
 tags: [计划书,大赛,项目,创新,创业]
 comments: true

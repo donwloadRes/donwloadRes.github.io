@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞友天翼应用虚拟化系统(GWT)V7.0服务端授权许可程序"
+title: "瑞友天翼应用虚拟化系统GWTV70服务端授权许可程序"
 date:   2024-11-17
 tags: [瑞友,天翼,服务端,虚拟化,授权]
 comments: true

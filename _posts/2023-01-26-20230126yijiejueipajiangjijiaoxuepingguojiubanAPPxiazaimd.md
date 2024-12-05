@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【已解决】ipa降级教学 苹果旧版APP下载"
+title: "已解决ipa降级教学 苹果旧版APP下载"
 date:   2024-09-10
 tags: [旧版,下载,降级,ipa,APP]
 comments: true

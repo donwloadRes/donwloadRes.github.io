@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDID编辑工具 Deltacast E-EDID Editor"
+title: "EDID编辑工具 Deltacast EEDID Editor"
 date:   2020-09-22
 tags: [EDID,工具,Deltacast,Editor,编辑]
 comments: true

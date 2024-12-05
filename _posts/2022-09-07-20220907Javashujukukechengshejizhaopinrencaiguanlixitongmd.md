@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java数据库课程设计-招聘人才管理系统"
+title: "Java数据库课程设计招聘人才管理系统"
 date:   2024-01-17
 tags: [数据库,招聘,Java,课程设计,职位]
 comments: true

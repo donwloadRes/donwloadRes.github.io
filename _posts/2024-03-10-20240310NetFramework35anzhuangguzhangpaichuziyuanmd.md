@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net Framework 3.5 安装故障排除资源"
+title: "Net Framework 35 安装故障排除资源"
 date:   2023-05-29
 tags: [Windows,安装,资源,Net,Framework]
 comments: true

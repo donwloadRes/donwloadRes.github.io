@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE5.0协议标准资源下载"
+title: "PCIE50协议标准资源下载"
 date:   2020-02-20
 tags: [PCIE5.0,PDF,协议,标准,文件]
 comments: true

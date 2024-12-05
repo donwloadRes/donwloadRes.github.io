@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VOSviewer 1.6.20使用手册双语版"
+title: "VOSviewer 1620使用手册双语版"
 date:   2023-05-06
 tags: [VOSviewer,使用手册,20,中文翻译,1.6]
 comments: true

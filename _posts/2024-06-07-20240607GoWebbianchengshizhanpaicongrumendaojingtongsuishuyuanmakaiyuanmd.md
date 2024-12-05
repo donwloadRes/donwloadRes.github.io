@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go Web编程实战派从入门到精通》随书源码开源"
+title: "Go Web编程实战派从入门到精通随书源码开源"
 date:   2023-10-26
 tags: [Go,源码,Web,实战,随书]
 comments: true

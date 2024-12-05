@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FanySkill_V1.1 资源文件下载"
+title: "FanySkillV11 资源文件下载"
 date:   2024-09-26
 tags: [V1.1,FanySkill,下载,文件,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "伺服控制原理图 - 三闭环控制精华总结"
+title: "伺服控制原理图  三闭环控制精华总结"
 date:   2023-05-13
 tags: [伺服,闭环控制,原理图,伺服系统,控制]
 comments: true

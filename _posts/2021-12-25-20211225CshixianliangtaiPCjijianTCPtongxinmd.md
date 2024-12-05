@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现两台PC机间TCP通信"
+title: "C实现两台PC机间TCP通信"
 date:   2024-09-11
 tags: [TCP,C#,Visual,Studio,通信]
 comments: true

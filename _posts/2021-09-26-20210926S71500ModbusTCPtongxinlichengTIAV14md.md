@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500 ModbusTCP 通信例程 TIA V14"
+title: "S71500 ModbusTCP 通信例程 TIA V14"
 date:   2021-07-12
 tags: [例程,S7,ModbusTCP,1500,TIA]
 comments: true

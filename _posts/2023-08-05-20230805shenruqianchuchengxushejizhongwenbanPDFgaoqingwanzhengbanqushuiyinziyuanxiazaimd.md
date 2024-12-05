@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出程序设计（中文版PDF-高清-完整版-去水印）资源下载"
+title: "深入浅出程序设计中文版PDF高清完整版去水印资源下载"
 date:   2021-03-01
 tags: [编程,本书,读者,Python,水印]
 comments: true

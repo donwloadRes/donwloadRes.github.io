@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eBPF学习笔记1 - 80页资源下载"
+title: "eBPF学习笔记1  80页资源下载"
 date:   2022-09-10
 tags: [eBPF,笔记,80,学习,文件]
 comments: true

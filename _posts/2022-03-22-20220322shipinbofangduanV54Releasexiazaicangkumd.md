@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频播放端V5.4Release下载仓库"
+title: "视频播放端V54Release下载仓库"
 date:   2024-04-09
 tags: [远程,播放,V5.4,Release,播放器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three.js加载3D模型（.glb格式和.gltf格式）"
+title: "threejs加载3D模型glb格式和gltf格式"
 date:   2024-07-03
 tags: [加载,模型,3D,gltf,glb]
 comments: true

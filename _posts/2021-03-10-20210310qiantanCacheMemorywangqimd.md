@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浅谈Cache Memory - 王齐"
+title: "浅谈Cache Memory  王齐"
 date:   2024-08-25
 tags: [Cache,Memory,王齐,浅谈,x86]
 comments: true

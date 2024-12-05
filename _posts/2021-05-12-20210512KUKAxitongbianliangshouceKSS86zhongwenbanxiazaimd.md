@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA系统变量手册（KSS 8.6 中文版）下载"
+title: "KUKA系统变量手册KSS 86 中文版下载"
 date:   2022-08-03
 tags: [KUKA,手册,KSS,8.6,机器人]
 comments: true

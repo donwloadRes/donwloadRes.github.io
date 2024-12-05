@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Type-C 规范1.2(中文版) 下载仓库"
+title: "USB TypeC 规范12中文版 下载仓库"
 date:   2022-10-05
 tags: [USB,Type,1.2,PDF,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse安装教程 ——最详细安装java"
+title: "Eclipse安装教程 最详细安装java"
 date:   2023-08-03
 tags: [Eclipse,Java,安装,JDK,教程]
 comments: true

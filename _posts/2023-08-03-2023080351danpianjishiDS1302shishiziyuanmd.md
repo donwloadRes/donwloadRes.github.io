@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机（十）DS1302实时资源"
+title: "51单片机十DS1302实时资源"
 date:   2021-05-15
 tags: [DS1302,51,单片机,时钟,示例]
 comments: true

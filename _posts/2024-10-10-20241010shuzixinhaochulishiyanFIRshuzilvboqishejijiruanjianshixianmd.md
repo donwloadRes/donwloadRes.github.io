@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理实验：FIR数字滤波器设计及软件实现"
+title: "数字信号处理实验FIR数字滤波器设计及软件实现"
 date:   2023-08-01
 tags: [FIR,滤波器,数字,信号处理,设计]
 comments: true

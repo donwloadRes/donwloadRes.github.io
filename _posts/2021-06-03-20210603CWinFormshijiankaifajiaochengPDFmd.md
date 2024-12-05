@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 实践开发教程 PDF"
+title: "C WinForm 实践开发教程 PDF"
 date:   2020-09-11
 tags: [C#,WinForm,开发,教程,PDF]
 comments: true

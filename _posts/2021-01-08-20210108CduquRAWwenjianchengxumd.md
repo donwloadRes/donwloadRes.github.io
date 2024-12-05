@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 读取RAW文件程序"
+title: "C 读取RAW文件程序"
 date:   2022-12-10
 tags: [RAW,读取,文件,程序,C#]
 comments: true

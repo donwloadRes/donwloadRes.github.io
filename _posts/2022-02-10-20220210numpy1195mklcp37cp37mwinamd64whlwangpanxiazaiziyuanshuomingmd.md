@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "numpy-1.19.5+mkl-cp37-cp37m-win_amd64.whl 网盘下载资源说明"
+title: "numpy1195mklcp37cp37mwinamd64whl 网盘下载资源说明"
 date:   2023-06-28
 tags: [numpy,Python,whl,1.19,文件]
 comments: true

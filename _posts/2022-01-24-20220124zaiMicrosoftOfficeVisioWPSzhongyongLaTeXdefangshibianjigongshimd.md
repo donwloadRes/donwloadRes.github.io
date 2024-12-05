@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Microsoft Office、Visio、WPS中用LaTeX的方式编辑公式"
+title: "在Microsoft OfficeVisioWPS中用LaTeX的方式编辑公式"
 date:   2022-04-13
 tags: [LaTeX,公式,编辑,Office,Visio]
 comments: true

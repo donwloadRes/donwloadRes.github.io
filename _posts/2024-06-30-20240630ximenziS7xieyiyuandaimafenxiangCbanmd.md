@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7协议源代码分享C#版"
+title: "西门子S7协议源代码分享C版"
 date:   2021-11-01
 tags: [PLC,源代码,通信,西门子,S7]
 comments: true

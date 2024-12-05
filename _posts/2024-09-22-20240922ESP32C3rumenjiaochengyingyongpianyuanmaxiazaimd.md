@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-C3入门教程应用篇源码下载"
+title: "ESP32C3入门教程应用篇源码下载"
 date:   2023-09-10
 tags: [源码,ESP32,C3,ONENET,入门教程]
 comments: true

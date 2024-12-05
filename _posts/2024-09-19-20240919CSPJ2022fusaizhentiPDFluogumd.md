@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J2022复赛真题PDF(洛谷)"
+title: "CSPJ2022复赛真题PDF洛谷"
 date:   2023-04-26
 tags: [复赛,CSP,J2022,真题,PDF]
 comments: true

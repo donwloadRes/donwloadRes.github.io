@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于高斯伪谱法的二阶常微分方程求解(Matlab实现)"
+title: "基于高斯伪谱法的二阶常微分方程求解Matlab实现"
 date:   2024-09-25
 tags: [求解,伪谱法,高斯,二阶,微分方程]
 comments: true

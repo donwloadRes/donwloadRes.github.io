@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 64位环境下Qt5.14版本的openssl动态库"
+title: "Windows 64位环境下Qt514版本的openssl动态库"
 date:   2022-05-20
 tags: [openssl,Qt,动态,版本,Qt5.14]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "i5-9400f、华硕b360m rx570 8G 黑苹果OC引导资源下载"
+title: "i59400f华硕b360m rx570 8G 黑苹果OC引导资源下载"
 date:   2020-07-04
 tags: [OC,苹果,英特尔,资源,i5]
 comments: true

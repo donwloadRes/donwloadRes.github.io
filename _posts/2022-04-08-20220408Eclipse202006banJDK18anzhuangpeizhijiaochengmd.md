@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 2020-06版 JDK 1.8 安装配置教程"
+title: "Eclipse 202006版 JDK 18 安装配置教程"
 date:   2022-03-22
 tags: [插件,Eclipse,安装,教程,快捷键]
 comments: true

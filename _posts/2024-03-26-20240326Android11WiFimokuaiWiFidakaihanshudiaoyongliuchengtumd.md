@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 11 WiFi模块：WiFi打开函数调用流程图"
+title: "Android 11 WiFi模块WiFi打开函数调用流程图"
 date:   2022-08-26
 tags: [WiFi,流程图,Android,模块,函数调用]
 comments: true

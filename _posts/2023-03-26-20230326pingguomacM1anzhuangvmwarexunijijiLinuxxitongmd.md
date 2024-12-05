@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果mac（M1）安装vmware虚拟机及Linux系统"
+title: "苹果macM1安装vmware虚拟机及Linux系统"
 date:   2023-03-16
 tags: [M1,Linux,虚拟机,Mac,安装]
 comments: true

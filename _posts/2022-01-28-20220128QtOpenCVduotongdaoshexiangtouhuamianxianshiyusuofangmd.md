@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+OpenCV 多通道摄像头画面显示与缩放"
+title: "QtOpenCV 多通道摄像头画面显示与缩放"
 date:   2021-09-05
 tags: [摄像头,画面,双击,USB,Qt]
 comments: true

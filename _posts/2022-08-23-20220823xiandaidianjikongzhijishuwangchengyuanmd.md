@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代电机控制技术 - 王成元"
+title: "现代电机控制技术  王成元"
 date:   2022-01-03
 tags: [同步电机,永磁,控制技术,王成,电机]
 comments: true

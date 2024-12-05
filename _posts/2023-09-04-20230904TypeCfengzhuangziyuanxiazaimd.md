@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type-C封装资源下载"
+title: "TypeC封装资源下载"
 date:   2020-11-19
 tags: [PCB,Type,封装,文件,设计]
 comments: true

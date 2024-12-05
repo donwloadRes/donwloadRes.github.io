@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIDL 示例程序：实现Android进程间通信"
+title: "AIDL 示例程序实现Android进程间通信"
 date:   2022-12-18
 tags: [Android,AIDL,进程,间通信,示例]
 comments: true

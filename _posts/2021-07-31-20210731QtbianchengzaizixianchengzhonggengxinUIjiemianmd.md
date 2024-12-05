@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编程：在子线程中更新UI界面"
+title: "Qt编程在子线程中更新UI界面"
 date:   2022-11-01
 tags: [线程,UI,Qt,在子,更新]
 comments: true

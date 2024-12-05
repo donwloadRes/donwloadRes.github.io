@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1 开源万用表：打造属于你的多功能测量工具"
+title: "STM32F1 开源万用表打造属于你的多功能测量工具"
 date:   2020-12-06
 tags: [测量,STM32F1,开源,万用表,USB]
 comments: true

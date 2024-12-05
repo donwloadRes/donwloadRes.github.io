@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JEDEC eMMC5.1协议标准资源下载"
+title: "JEDEC eMMC51协议标准资源下载"
 date:   2020-05-14
 tags: [eMMC5.1,文件,标准,文档,JEDEC]
 comments: true

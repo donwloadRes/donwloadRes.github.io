@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF 3D 显示入门：ViewPort3D 绘图参考资料"
+title: "WPF 3D 显示入门ViewPort3D 绘图参考资料"
 date:   2020-11-26
 tags: [3D,WPF,参考资料,ViewPort3D,绘图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泰克TBS1000系列数字示波器用户手册-中文"
+title: "泰克TBS1000系列数字示波器用户手册中文"
 date:   2023-12-10
 tags: [示波器,泰克,TBS1000,用户手册,系列]
 comments: true

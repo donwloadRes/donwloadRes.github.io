@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 8.6.0 版本在 Windows 系统上的下载与安装配置"
+title: "Notepad 860 版本在 Windows 系统上的下载与安装配置"
 date:   2024-11-19
 tags: [Notepad,++,安装,编辑,文本文件]
 comments: true

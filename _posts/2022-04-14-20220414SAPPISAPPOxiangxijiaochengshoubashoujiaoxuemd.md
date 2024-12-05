@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP PI-SAP PO 详细教程（手把手教学）"
+title: "SAP PISAP PO 详细教程手把手教学"
 date:   2023-08-11
 tags: [SAP,PI,PO,教程,详细]
 comments: true

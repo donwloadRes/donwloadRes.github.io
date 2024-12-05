@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDHCoApp 2.0.11 - Windows x86-64 安装器"
+title: "VDHCoApp 2011  Windows x8664 安装器"
 date:   2022-02-11
 tags: [11,2.0,64,插件,Video]
 comments: true

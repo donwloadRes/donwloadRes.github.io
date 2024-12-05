@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KF-GINS 简易绘图工具"
+title: "KFGINS 简易绘图工具"
 date:   2023-08-13
 tags: [绘图,KF,GINS,工具,简易]
 comments: true

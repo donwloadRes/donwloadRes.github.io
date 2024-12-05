@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FusionCompute 8.0 资源下载指南"
+title: "FusionCompute 80 资源下载指南"
 date:   2022-08-14
 tags: [FusionCompute,资源,8.0,百度网,搭建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "顺芯音频解码芯片-ES8316数据手册"
+title: "顺芯音频解码芯片ES8316数据手册"
 date:   2022-10-01
 tags: [音频,ES8316,手册,芯片,解码]
 comments: true

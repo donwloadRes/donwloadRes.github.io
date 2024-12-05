@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境下段错误(Segmentation fault)的产生原因及调试方法"
+title: "Linux环境下段错误Segmentation fault的产生原因及调试方法"
 date:   2023-08-30
 tags: [内存,错误,调试,访问,指针]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实验四：深度学习图像生成（Part two：DeepDream）模型文件及图像"
+title: "机器学习实验四深度学习图像生成Part twoDeepDream模型文件及图像"
 date:   2024-11-25
 tags: [图像,学习,生成,深度,模型]
 comments: true

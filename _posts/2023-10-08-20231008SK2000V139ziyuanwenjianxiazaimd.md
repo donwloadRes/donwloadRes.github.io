@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SK2000V1.3.9 资源文件下载"
+title: "SK2000V139 资源文件下载"
 date:   2022-05-30
 tags: [解压,文件,SK2000V1.3,下载,zip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS 5.5以上版本（以7.4版本为例）添加软件仿真功能并打印“Hello World”验证指南"
+title: "CCS 55以上版本以74版本为例添加软件仿真功能并打印Hello World验证指南"
 date:   2020-03-22
 tags: [CCS,仿真,7.4,版本,Hello]
 comments: true

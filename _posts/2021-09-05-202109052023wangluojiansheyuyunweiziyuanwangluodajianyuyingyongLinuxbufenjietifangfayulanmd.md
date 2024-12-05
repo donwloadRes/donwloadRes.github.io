@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023网络建设与运维资源 - 网络搭建与应用: Linux部分解题方法预览"
+title: "2023网络建设与运维资源  网络搭建与应用 Linux部分解题方法预览"
 date:   2020-07-23
 tags: [Linux,预览,网络,运维,学习]
 comments: true

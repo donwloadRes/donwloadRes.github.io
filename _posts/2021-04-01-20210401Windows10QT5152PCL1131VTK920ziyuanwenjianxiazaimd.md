@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10+QT5.15.2+PCL1.13.1+VTK9.2.0 资源文件下载"
+title: "Windows10QT5152PCL1131VTK920 资源文件下载"
 date:   2020-04-18
 tags: [文件,QT,VTK,资源,可视化]
 comments: true

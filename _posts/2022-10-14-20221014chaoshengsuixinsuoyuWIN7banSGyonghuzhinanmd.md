@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超声随心所欲WIN7版（SG）用户指南"
+title: "超声随心所欲WIN7版SG用户指南"
 date:   2021-12-11
 tags: [超声,WIN7,SG,随心所欲,Windows]
 comments: true

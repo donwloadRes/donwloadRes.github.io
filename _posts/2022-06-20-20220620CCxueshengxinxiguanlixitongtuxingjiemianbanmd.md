@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 学生信息管理系统 (图形界面版)"
+title: "CC 学生信息管理系统 图形界面版"
 date:   2020-05-22
 tags: [学生,界面,信息,信息管理系统,姓名]
 comments: true

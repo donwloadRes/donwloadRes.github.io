@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志T113-S3_100ask Tina系统编译初体验"
+title: "全志T113S3100ask Tina系统编译初体验"
 date:   2020-12-03
 tags: [编译,烧录,SDK,系统,教程]
 comments: true

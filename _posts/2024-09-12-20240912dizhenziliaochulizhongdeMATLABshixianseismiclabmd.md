@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地震资料处理中的MATLAB实现（seismiclab）"
+title: "地震资料处理中的MATLAB实现seismiclab"
 date:   2020-07-18
 tags: [地震,MATLAB,数据,代码,示例]
 comments: true

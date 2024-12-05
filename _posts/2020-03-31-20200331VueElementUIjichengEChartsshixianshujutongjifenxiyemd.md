@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue-Element UI集成ECharts实现数据统计分析页"
+title: "VueElement UI集成ECharts实现数据统计分析页"
 date:   2022-02-04
 tags: [Vue,UI,ECharts,Element,图表]
 comments: true

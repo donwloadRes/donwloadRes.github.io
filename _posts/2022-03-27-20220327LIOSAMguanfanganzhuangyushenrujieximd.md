@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIO-SAM官方安装与深入解析"
+title: "LIOSAM官方安装与深入解析"
 date:   2020-01-16
 tags: [LIO,SAM,安装,解析,代码]
 comments: true

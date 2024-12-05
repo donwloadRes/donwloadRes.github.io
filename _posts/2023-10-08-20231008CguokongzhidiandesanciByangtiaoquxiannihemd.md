@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 过控制点的三次B样条曲线拟合"
+title: "C 过控制点的三次B样条曲线拟合"
 date:   2021-02-16
 tags: [曲线拟合,示例,C++,样条,控制点]
 comments: true

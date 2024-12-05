@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB Simulink系统仿真超级学习手册 - 带详细完整的目录"
+title: "MATLAB Simulink系统仿真超级学习手册  带详细完整的目录"
 date:   2024-01-17
 tags: [目录,Simulink,电子书,学习,MATLAB]
 comments: true

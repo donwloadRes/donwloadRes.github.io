@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio Giraffe 2022.3.1 正式版 Windows 下载"
+title: "Android Studio Giraffe 202231 正式版 Windows 下载"
 date:   2024-08-08
 tags: [2022.3,解压,android,studio,1.18]
 comments: true

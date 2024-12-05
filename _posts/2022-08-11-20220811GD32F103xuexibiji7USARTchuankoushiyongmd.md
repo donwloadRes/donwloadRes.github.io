@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F103学习笔记（7）——USART串口使用"
+title: "GD32F103学习笔记7USART串口使用"
 date:   2023-10-25
 tags: [串口,USART,GD32F103,笔记,学习]
 comments: true

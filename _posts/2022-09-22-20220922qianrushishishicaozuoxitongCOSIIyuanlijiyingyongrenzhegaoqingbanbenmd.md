@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式实时操作系统μCOS-II原理及应用-任哲(高清版本)"
+title: "嵌入式实时操作系统COSII原理及应用任哲高清版本"
 date:   2024-09-11
 tags: [实时操作系统,嵌入式,COS,II,PDF]
 comments: true

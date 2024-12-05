@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DrMemory Windows 版本 2.2.0-1 资源下载"
+title: "DrMemory Windows 版本 2201 资源下载"
 date:   2022-11-30
 tags: [DrMemory,内存,Windows,2.2,版本]
 comments: true

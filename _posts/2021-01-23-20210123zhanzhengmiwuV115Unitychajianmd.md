@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "战争迷雾(V1.15) Unity插件"
+title: "战争迷雾V115 Unity插件"
 date:   2022-07-02
 tags: [游戏,迷雾,插件,Unity,V1.15]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ensp v1.3 V100R003C00SPC100 资源文件下载"
+title: "ensp v13 V100R003C00SPC100 资源文件下载"
 date:   2021-12-01
 tags: [ensp,v1.3,V100R003C00SPC100,文档,下载]
 comments: true

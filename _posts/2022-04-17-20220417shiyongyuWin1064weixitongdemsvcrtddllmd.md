@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适用于Win10_64位系统的msvcrtd.dll"
+title: "适用于Win1064位系统的msvcrtddll"
 date:   2020-07-03
 tags: [dll,msvcrtd,文件,64,Windows]
 comments: true

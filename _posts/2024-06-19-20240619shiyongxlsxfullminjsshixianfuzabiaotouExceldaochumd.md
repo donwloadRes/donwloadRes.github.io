@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用xlsx.full.min.js实现复杂表头Excel导出"
+title: "使用xlsxfullminjs实现复杂表头Excel导出"
 date:   2021-11-08
 tags: [表头,Excel,xlsx,full,js]
 comments: true

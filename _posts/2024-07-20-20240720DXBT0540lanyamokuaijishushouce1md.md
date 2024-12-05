@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DX-BT05 4.0蓝牙模块技术手册1"
+title: "DXBT05 40蓝牙模块技术手册1"
 date:   2020-07-20
 tags: [模块,DX,蓝牙,管脚,设置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL Multiphysics 在流动、传热、相变中的应用"
+title: "COMSOL Multiphysics 在流动传热相变中的应用"
 date:   2022-06-10
 tags: [COMSOL,Multiphysics,相变,传热,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 经典教程入门版本（急速学会）"
+title: "Cadence Allegro 经典教程入门版本急速学会"
 date:   2024-01-17
 tags: [Cadence,Allegro,教程,入门,急速]
 comments: true

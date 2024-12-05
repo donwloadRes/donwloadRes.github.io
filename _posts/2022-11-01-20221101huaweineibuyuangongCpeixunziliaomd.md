@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为内部员工C++培训资料"
+title: "华为内部员工C培训资料"
 date:   2021-11-18
 tags: [C++,编程,华为,内部,员工]
 comments: true

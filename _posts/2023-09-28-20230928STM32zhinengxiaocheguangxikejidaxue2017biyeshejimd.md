@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32智能小车(广西科技大学2017毕业设计)"
+title: "STM32智能小车广西科技大学2017毕业设计"
 date:   2024-07-30
 tags: [小车,STM32,蓝牙,模块,寻迹]
 comments: true

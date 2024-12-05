@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Springboot+Vue停车场管理系统 Java毕业设计 源码+SQL脚本+论文"
+title: "SpringbootVue停车场管理系统 Java毕业设计 源码SQL脚本论文"
 date:   2023-06-15
 tags: [Springboot,停车场,管理,Vue,车位]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32——井字棋项目说明"
+title: "STM32井字棋项目说明"
 date:   2021-08-22
 tags: [STM32,井字棋,项目,LCD,硬件]
 comments: true

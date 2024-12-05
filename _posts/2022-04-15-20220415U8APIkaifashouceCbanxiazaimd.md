@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U8API开发手册(C#版) 下载"
+title: "U8API开发手册C版 下载"
 date:   2022-10-19
 tags: [U8API,示例,C#,API,代码]
 comments: true

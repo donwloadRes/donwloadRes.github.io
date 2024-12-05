@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大话遗传算法（含Matlab代码）"
+title: "大话遗传算法含Matlab代码"
 date:   2021-01-12
 tags: [遗传算法,Matlab,代码,种群,适应度]
 comments: true

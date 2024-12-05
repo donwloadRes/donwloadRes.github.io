@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt5 开发实例大全"
+title: "C Qt5 开发实例大全"
 date:   2023-05-10
 tags: [Qt5,C++,开发,讲解,应用]
 comments: true

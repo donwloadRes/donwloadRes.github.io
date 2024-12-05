@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000 技术参考手册高清版下载"
+title: "Zynq7000 技术参考手册高清版下载"
 date:   2023-02-19
 tags: [Zynq,7000,参考手册,高清,文件]
 comments: true

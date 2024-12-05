@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIFAR-10数据集下载-百度网盘"
+title: "CIFAR10数据集下载百度网盘"
 date:   2020-03-04
 tags: [图像,批次,10,数据,下载]
 comments: true

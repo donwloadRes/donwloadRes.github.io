@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多个exe打包成一个exe安装程序，安装后可一键启动多个服务"
+title: "多个exe打包成一个exe安装程序安装后可一键启动多个服务"
 date:   2021-01-22
 tags: [exe,安装程序,打包,一键,文件]
 comments: true

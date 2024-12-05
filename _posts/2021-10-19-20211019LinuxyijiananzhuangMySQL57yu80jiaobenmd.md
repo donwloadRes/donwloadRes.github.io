@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux一键安装MySQL5.7与8.0脚本"
+title: "Linux一键安装MySQL57与80脚本"
 date:   2022-02-17
 tags: [MySQL,安装,备份,脚本,8.0]
 comments: true

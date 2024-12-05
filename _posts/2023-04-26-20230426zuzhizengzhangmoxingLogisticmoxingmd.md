@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阻滞增长模型--Logistic模型"
+title: "阻滞增长模型Logistic模型"
 date:   2024-08-21
 tags: [模型,MATLAB,阻滞,种群,Logistic]
 comments: true

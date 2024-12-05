@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倾斜摄影数据 - OBJ格式"
+title: "倾斜摄影数据  OBJ格式"
 date:   2024-12-02
 tags: [OBJ,摄影,数据,倾斜,格式]
 comments: true

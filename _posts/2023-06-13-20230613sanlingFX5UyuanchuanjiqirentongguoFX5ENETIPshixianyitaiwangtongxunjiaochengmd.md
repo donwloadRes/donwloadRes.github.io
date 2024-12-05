@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱FX5U与安川机器人通过FX5-ENETIP实现以太网通讯教程"
+title: "三菱FX5U与安川机器人通过FX5ENETIP实现以太网通讯教程"
 date:   2024-09-16
 tags: [机器人,FX5U,安川,FX5,ENETIP]
 comments: true

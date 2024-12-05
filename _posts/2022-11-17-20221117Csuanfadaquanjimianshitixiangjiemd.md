@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++算法大全及面试题详解"
+title: "C算法大全及面试题详解"
 date:   2021-09-30
 tags: [C++,算法,面试,详解,大全]
 comments: true

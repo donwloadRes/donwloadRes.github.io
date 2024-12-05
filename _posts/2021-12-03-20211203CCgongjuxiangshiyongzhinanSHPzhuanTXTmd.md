@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：【SHP转TXT】"
+title: "CC工具箱使用指南SHP转TXT"
 date:   2023-08-09
 tags: [工具箱,TXT,CC,SHP,转换]
 comments: true

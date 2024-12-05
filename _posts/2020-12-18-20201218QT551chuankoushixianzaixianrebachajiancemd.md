@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.5.1串口实现在线热拔插检测"
+title: "QT551串口实现在线热拔插检测"
 date:   2020-01-13
 tags: [串口,热拔,QT5.5,检测,代码]
 comments: true

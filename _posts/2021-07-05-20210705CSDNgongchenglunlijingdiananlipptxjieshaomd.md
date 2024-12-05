@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSDN工程伦理经典案例.pptx 介绍"
+title: "CSDN工程伦理经典案例pptx 介绍"
 date:   2023-07-03
 tags: [伦理,案例,工程,CSDN,经典]
 comments: true

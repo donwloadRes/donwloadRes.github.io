@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-means实现广告聚类分析"
+title: "Kmeans实现广告聚类分析"
 date:   2023-03-28
 tags: [聚类分析,means,聚类,广告,预处理]
 comments: true

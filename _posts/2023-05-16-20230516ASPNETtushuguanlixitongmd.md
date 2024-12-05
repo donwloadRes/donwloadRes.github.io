@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET图书管理系统"
+title: "ASPNET图书管理系统"
 date:   2020-03-04
 tags: [图书,借阅,ASP,NET,帐号]
 comments: true

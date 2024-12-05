@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用USB接口斑马打印机"
+title: "C调用USB接口斑马打印机"
 date:   2020-04-28
 tags: [打印机,C#,斑马,代码,配置]
 comments: true

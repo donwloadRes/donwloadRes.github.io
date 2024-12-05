@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DoDAF 2.0（国防部体系框架）资源下载"
+title: "DoDAF 20国防部体系框架资源下载"
 date:   2020-11-13
 tags: [视图,DoDAF,2.0,信息系统,框架]
 comments: true

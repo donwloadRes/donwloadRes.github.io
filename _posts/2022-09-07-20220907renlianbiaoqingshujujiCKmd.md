@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸表情数据集CK+"
+title: "人脸表情数据集CK"
 date:   2020-03-01
 tags: [数据,人脸,表情,CK,48]
 comments: true

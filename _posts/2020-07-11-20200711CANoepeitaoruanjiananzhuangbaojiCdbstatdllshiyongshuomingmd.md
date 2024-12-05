@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe++配套软件安装包及Cdbstat.dll使用说明"
+title: "CANoe配套软件安装包及Cdbstatdll使用说明"
 date:   2020-06-22
 tags: [CANoe,++,dll,Cdbstat,软件]
 comments: true

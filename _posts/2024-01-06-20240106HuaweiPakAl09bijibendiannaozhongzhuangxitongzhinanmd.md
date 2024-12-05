@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Huawei Pak-Al09 笔记本电脑重装系统指南"
+title: "Huawei PakAl09 笔记本电脑重装系统指南"
 date:   2020-08-04
 tags: [启动盘,Al09,重装系统,镜像,Pak]
 comments: true

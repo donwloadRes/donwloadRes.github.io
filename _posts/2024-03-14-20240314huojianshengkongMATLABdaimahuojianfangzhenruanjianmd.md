@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火箭升空MATLAB代码-火箭仿真软件"
+title: "火箭升空MATLAB代码火箭仿真软件"
 date:   2024-04-17
 tags: [仿真,火箭,MATLAB,代码,升空]
 comments: true

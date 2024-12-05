@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow GPU 2.6.0 版本依赖包版本对应关系及完整环境打包下载"
+title: "TensorFlow GPU 260 版本依赖包版本对应关系及完整环境打包下载"
 date:   2023-02-26
 tags: [版本,TensorFlow,GPU,2.6,依赖]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "并行计算导论（原书第2版）资源下载"
+title: "并行计算导论原书第2版资源下载"
 date:   2023-11-26
 tags: [并行计算,编程,算法,并行算法,原书]
 comments: true

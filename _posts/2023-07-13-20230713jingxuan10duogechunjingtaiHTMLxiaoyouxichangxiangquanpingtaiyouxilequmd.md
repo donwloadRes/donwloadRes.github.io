@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精选 10 多个纯静态 HTML 小游戏，畅享全平台游戏乐趣"
+title: "精选 10 多个纯静态 HTML 小游戏畅享全平台游戏乐趣"
 date:   2024-05-29
 tags: [游戏,小游戏,HTML,浏览器,PC]
 comments: true

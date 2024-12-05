@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virtual.Lab Acoustic声学仿真计算高级应用实例"
+title: "VirtualLab Acoustic声学仿真计算高级应用实例"
 date:   2022-12-13
 tags: [声学,仿真,Virtual,Lab,Acoustic]
 comments: true

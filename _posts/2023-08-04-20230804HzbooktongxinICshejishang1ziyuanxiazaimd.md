@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hzbook-通信IC设计_上1 资源下载"
+title: "Hzbook通信IC设计上1 资源下载"
 date:   2022-06-15
 tags: [IC,Hzbook,通信,设计,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC上位机编程软件VC6.0完整源代码及DEMO v1.0"
+title: "三菱PLC上位机编程软件VC60完整源代码及DEMO v10"
 date:   2021-08-14
 tags: [源代码,PLC,VC6.0,DEMO,编程]
 comments: true

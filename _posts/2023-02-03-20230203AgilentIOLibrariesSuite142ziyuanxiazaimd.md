@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agilent IO Libraries Suite 14.2 资源下载"
+title: "Agilent IO Libraries Suite 142 资源下载"
 date:   2021-12-05
 tags: [IO,Libraries,安装,下载,Agilent]
 comments: true

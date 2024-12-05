@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2018.2 百度网盘共享资源介绍"
+title: "Vivado 20182 百度网盘共享资源介绍"
 date:   2022-08-07
 tags: [Vivado,2018.2,百度网,FPGA,许可证]
 comments: true

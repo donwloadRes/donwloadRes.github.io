@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D打印指南：逐步教程（含截图）"
+title: "3D打印指南逐步教程含截图"
 date:   2020-09-25
 tags: [3D,打印,打印机,模型,截图]
 comments: true

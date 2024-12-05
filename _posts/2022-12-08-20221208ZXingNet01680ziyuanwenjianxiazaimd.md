@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZXing.Net.0.16.8.0 资源文件下载"
+title: "ZXingNet01680 资源文件下载"
 date:   2023-11-08
 tags: [Unity,二维码,ZXing,插件,Net.0]
 comments: true

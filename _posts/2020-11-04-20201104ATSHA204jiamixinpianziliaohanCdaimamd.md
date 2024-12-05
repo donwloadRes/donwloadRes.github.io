@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATSHA204加密芯片资料（含C代码）"
+title: "ATSHA204加密芯片资料含C代码"
 date:   2021-08-14
 tags: [ATSHA204,芯片,加密,原理图,例程]
 comments: true

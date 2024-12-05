@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8 区域声光报警+计数 资源下载"
+title: "YOLOv8 区域声光报警计数 资源下载"
 date:   2021-10-03
 tags: [声光报警,计数,区域,目标,资源]
 comments: true

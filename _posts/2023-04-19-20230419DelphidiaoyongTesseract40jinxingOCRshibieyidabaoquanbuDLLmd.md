@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi调用Tesseract 4.0进行OCR识别（已打包全部DLL）"
+title: "Delphi调用Tesseract 40进行OCR识别已打包全部DLL"
 date:   2023-10-05
 tags: [Tesseract,DLL,Delphi,OCR,示例]
 comments: true

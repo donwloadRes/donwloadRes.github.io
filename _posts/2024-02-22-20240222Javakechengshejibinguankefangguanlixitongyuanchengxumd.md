@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计-宾馆客房管理系统-源程序"
+title: "Java课程设计宾馆客房管理系统源程序"
 date:   2023-08-15
 tags: [客房,Java,程序设计,面向对象,宾馆]
 comments: true

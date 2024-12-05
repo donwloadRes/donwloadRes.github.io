@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "周志华机器学习视频学习笔记（西瓜书）"
+title: "周志华机器学习视频学习笔记西瓜书"
 date:   2024-08-25
 tags: [笔记,学习,视频,课程,周志华]
 comments: true

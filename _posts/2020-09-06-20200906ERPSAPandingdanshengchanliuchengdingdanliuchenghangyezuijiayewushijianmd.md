@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ERP SAP按订单生产流程订单（流程行业）-最佳业务实践"
+title: "ERP SAP按订单生产流程订单流程行业最佳业务实践"
 date:   2021-07-11
 tags: [订单,灌装,物料,流程,生产流程]
 comments: true

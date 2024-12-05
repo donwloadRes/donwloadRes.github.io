@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直流线性电源0~30V 5A 实物及原理图资源下载"
+title: "直流线性电源030V 5A 实物及原理图资源下载"
 date:   2023-01-23
 tags: [原理图,电源,资源,解压,下载]
 comments: true

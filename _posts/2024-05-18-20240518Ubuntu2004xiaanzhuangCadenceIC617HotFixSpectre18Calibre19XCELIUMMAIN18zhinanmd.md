@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 下安装 Cadence IC617(HotFix)，Spectre18，Calibre19，XCELIUMMAIN_18 指南"
+title: "Ubuntu 2004 下安装 Cadence IC617HotFixSpectre18Calibre19XCELIUMMAIN18 指南"
 date:   2021-09-26
 tags: [Cadence,安装,18,指南,Ubuntu]
 comments: true

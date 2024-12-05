@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAPL编程入门（中文）资源下载"
+title: "CAPL编程入门中文资源下载"
 date:   2024-08-04
 tags: [CAPL,编程,资源,入门,中文]
 comments: true

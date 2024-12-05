@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDFiumReader: 基于PDFium的Delphi PDF阅读器"
+title: "PDFiumReader 基于PDFium的Delphi PDF阅读器"
 date:   2023-06-15
 tags: [PDF,PDFium,Delphi,PDFiumReader,dll]
 comments: true

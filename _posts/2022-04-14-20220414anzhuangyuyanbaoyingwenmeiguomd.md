@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装语言包 - 英文（美国）"
+title: "安装语言包  英文美国"
 date:   2021-08-07
 tags: [语言包,Windows,版本,安装,英文]
 comments: true

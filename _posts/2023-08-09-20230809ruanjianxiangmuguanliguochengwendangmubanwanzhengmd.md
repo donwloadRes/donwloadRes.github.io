@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件项目管理过程文档模板（完整）"
+title: "软件项目管理过程文档模板完整"
 date:   2020-03-27
 tags: [模板,项目,项目管理,文档,阶段]
 comments: true

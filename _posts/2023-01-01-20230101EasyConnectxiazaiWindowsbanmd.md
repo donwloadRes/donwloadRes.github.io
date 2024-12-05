@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy Connect下载（Windows版）"
+title: "Easy Connect下载Windows版"
 date:   2022-04-27
 tags: [Windows,安装,下载,Easy,Connect]
 comments: true

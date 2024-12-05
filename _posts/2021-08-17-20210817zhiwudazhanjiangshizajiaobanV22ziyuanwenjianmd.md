@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "植物大战僵尸杂交版V2.2 资源文件"
+title: "植物大战僵尸杂交版V22 资源文件"
 date:   2022-12-21
 tags: [文件,资源,仓库,V2.2,游戏]
 comments: true

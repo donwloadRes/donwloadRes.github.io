@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "将(html-h5)静态网页部署到服务器-云服务器上（易懂，秒会）"
+title: "将htmlh5静态网页部署到服务器云服务器上易懂秒会"
 date:   2020-01-24
 tags: [服务器,网页,---,文件夹,html]
 comments: true

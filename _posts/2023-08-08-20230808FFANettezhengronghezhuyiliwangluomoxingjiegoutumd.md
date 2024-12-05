@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFA-Net 特征融合注意力网络模型结构图"
+title: "FFANet 特征融合注意力网络模型结构图"
 date:   2020-04-27
 tags: [FFA,Net,结构图,net,pdf]
 comments: true

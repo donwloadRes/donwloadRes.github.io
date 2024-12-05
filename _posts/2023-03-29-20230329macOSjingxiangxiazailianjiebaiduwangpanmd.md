@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS镜像下载链接（百度网盘）"
+title: "macOS镜像下载链接百度网盘"
 date:   2024-10-16
 tags: [macOS,00,镜像文件,百度网,下载]
 comments: true

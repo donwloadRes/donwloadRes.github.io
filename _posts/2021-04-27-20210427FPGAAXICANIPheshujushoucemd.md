@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA AXI-CAN IP核数据手册"
+title: "FPGA AXICAN IP核数据手册"
 date:   2022-12-18
 tags: [IP,手册,FPGA,AXI,配置]
 comments: true

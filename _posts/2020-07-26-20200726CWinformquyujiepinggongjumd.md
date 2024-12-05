@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 区域截屏工具"
+title: "C Winform 区域截屏工具"
 date:   2020-10-18
 tags: [截图,截屏,区域,工具,C#]
 comments: true

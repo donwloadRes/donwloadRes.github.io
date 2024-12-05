@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "帆软下载安装（FineReport 10.0）指南"
+title: "帆软下载安装FineReport 100指南"
 date:   2020-01-20
 tags: [FineReport,下载,安装,报表,帆软]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPEOS功能与简介（中文版）下载"
+title: "SPEOS功能与简介中文版下载"
 date:   2021-05-27
 tags: [SPEOS,简介,中文版,功能,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XLSReadWriteII v6.00.47 for D6-D11.0 完整源码下载"
+title: "XLSReadWriteII v60047 for D6D110 完整源码下载"
 date:   2023-04-08
 tags: [Delphi,控件,XLSReadWriteII,文件,源码]
 comments: true

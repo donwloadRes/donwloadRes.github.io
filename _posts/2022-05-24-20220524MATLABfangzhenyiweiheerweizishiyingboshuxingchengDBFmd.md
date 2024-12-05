@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真一维和二维自适应波束形成(DBF)"
+title: "MATLAB仿真一维和二维自适应波束形成DBF"
 date:   2022-11-21
 tags: [MATLAB,仿真,DBF,波束,解压]
 comments: true

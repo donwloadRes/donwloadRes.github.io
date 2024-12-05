@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁场与电磁波_课件PPT_北交大"
+title: "电磁场与电磁波课件PPT北交大"
 date:   2020-11-18
 tags: [电磁波,PPT,电磁场,课件,平面波]
 comments: true

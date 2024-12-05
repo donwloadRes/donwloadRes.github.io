@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TYPE-C转HDMI拓展坞解决方案资源下载"
+title: "TYPEC转HDMI拓展坞解决方案资源下载"
 date:   2020-12-13
 tags: [HDMI,TYPE,芯片,解决方案,文件]
 comments: true

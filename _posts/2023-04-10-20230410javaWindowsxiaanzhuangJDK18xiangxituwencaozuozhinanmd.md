@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【java】Windows下安装JDK1.8详细图文操作指南"
+title: "javaWindows下安装JDK18详细图文操作指南"
 date:   2022-06-08
 tags: [Java,JDK,安装,路径,java]
 comments: true

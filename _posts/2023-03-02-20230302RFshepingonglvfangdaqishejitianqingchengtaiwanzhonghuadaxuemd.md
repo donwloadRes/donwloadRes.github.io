@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RF射频功率放大器设计-田庆成-台湾中华大学"
+title: "RF射频功率放大器设计田庆成台湾中华大学"
 date:   2022-02-12
 tags: [RF,射频,放大器,田庆成,功率]
 comments: true

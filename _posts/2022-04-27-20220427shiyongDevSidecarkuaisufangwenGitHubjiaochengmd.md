@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Dev-Sidecar快速访问GitHub教程"
+title: "使用DevSidecar快速访问GitHub教程"
 date:   2021-12-27
 tags: [Dev,Sidecar,GitHub,安装,教程]
 comments: true

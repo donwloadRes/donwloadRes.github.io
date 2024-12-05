@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大卡车车辆数据集：目标检测入门资源"
+title: "大卡车车辆数据集目标检测入门资源"
 date:   2020-07-21
 tags: [检测,目标,数据,模型,大卡车]
 comments: true

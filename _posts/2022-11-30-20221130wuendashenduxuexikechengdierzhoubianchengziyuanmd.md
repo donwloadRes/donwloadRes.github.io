@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "吴恩达深度学习课程第二周编程资源"
+title: "吴恩达深度学习课程第二周编程资源
+date   20200611
+tags 神经网络学习者课程Python代码
+comments true
+author admin
+
+
+layout post
+title 吴恩达深度学习课程第二周编程资源"
 date:   2020-06-11
 tags: [神经网络,学习者,课程,Python,代码]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "吴恩达深度学习课程第二周编程资源"
+title: "吴恩达深度学习课程第二周编程资源
+date   20200611
+tags 神经网络学习者课程Python代码
+comments true
+author admin
+
+
+layout post
+title 吴恩达深度学习课程第二周编程资源"
 date:   2021-12-19
 tags: [神经网络,学习者,代码,Python,课程]
 comments: true

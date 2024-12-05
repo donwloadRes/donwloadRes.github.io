@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K344 低功耗电源管理Demo：FastWakeup-RTD200"
+title: "S32K344 低功耗电源管理DemoFastWakeupRTD200"
 date:   2021-12-13
 tags: [低功耗,唤醒,S32K344,S32,微控制器]
 comments: true

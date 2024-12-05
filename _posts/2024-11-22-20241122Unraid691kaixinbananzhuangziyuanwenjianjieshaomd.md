@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unraid 6.9.1 开心版安装资源文件介绍"
+title: "Unraid 691 开心版安装资源文件介绍"
 date:   2021-04-22
 tags: [安装,Unraid,6.9,文件,指南]
 comments: true

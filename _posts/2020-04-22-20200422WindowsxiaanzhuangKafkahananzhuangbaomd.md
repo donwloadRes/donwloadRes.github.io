@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下安装Kafka（含安装包）"
+title: "Windows下安装Kafka含安装包"
 date:   2023-12-27
 tags: [Kafka,安装包,Windows,bat,kafka]
 comments: true

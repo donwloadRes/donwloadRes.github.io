@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学而思奥数语文 1-6年级网盘资源介绍"
+title: "学而思奥数语文 16年级网盘资源介绍"
 date:   2023-03-08
 tags: [年级,资源,网盘,奥数,语文]
 comments: true

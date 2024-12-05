@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Xamarin 史上最完整版教程 详解"
+title: "C Xamarin 史上最完整版教程 详解"
 date:   2023-12-21
 tags: [Xamarin,教程,C#,开发,完整版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通用数据库连接工具--DbVisualizer的使用指南"
+title: "通用数据库连接工具DbVisualizer的使用指南"
 date:   2020-10-14
 tags: [数据库,DbVisualizer,连接,工具,SQL]
 comments: true

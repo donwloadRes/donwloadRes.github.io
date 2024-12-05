@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手写模拟3.0_2.zip 资源下载"
+title: "手写模拟302zip 资源下载"
 date:   2022-07-16
 tags: [手写,3.0,模拟,zip,解压]
 comments: true

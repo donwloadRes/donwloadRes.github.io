@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BT10.1条码软件下载"
+title: "BT101条码软件下载"
 date:   2021-08-27
 tags: [条码,BT10.1,生成,软件,打印]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL2303 绿联USB转串口驱动（Win11可用）"
+title: "PL2303 绿联USB转串口驱动Win11可用"
 date:   2022-01-10
 tags: [串口,PL2303,绿联,USB,驱动]
 comments: true

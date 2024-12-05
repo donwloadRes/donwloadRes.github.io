@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DATALOGIC扫描器配置工具-VisiSet 6.70 下载"
+title: "DATALOGIC扫描器配置工具VisiSet 670 下载"
 date:   2020-03-09
 tags: [VisiSet,配置,扫描器,6.70,手册]
 comments: true

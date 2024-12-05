@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OIF协议OIF-CEI-04.0.pdf 下载仓库"
+title: "OIF协议OIFCEI040pdf 下载仓库"
 date:   2021-03-07
 tags: [OIF,CEI,04.0,pdf,仓库]
 comments: true

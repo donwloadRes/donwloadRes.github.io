@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20套精选Java毕业设计资源分享（源码+论文）"
+title: "20套精选Java毕业设计资源分享源码论文"
 date:   2021-12-03
 tags: [Java,毕业设计,源码,20,文档]
 comments: true

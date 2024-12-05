@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARINC615A-3 以太网接口软件数据加载器资源下载"
+title: "ARINC615A3 以太网接口软件数据加载器资源下载"
 date:   2024-03-09
 tags: [ARINC615A,以太网,接口,加载,协议]
 comments: true

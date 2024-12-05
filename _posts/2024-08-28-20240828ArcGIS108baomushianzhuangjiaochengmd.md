@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.8 保姆式安装教程"
+title: "ArcGIS 108 保姆式安装教程"
 date:   2022-09-23
 tags: [安装,10.8,ArcGIS,教程,步骤]
 comments: true

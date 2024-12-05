@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子扫描阵列MATLAB®建模与仿真源代码"
+title: "电子扫描阵列MATLAB建模与仿真源代码"
 date:   2023-11-06
 tags: [MATLAB,阵列,代码,电子扫描,仿真]
 comments: true

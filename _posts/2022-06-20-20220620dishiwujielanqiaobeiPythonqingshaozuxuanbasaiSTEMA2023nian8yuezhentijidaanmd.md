@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十五届蓝桥杯Python青少组选拔赛（STEMA）2023年8月真题及答案"
+title: "第十五届蓝桥杯Python青少组选拔赛STEMA2023年8月真题及答案"
 date:   2021-12-06
 tags: [选拔赛,蓝桥,Python,青少,真题]
 comments: true

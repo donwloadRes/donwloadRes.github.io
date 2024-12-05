@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现序贯变分模态分解（SVMD）"
+title: "Matlab实现序贯变分模态分解SVMD"
 date:   2022-01-08
 tags: [SVMD,模态,分解,信号,Matlab]
 comments: true

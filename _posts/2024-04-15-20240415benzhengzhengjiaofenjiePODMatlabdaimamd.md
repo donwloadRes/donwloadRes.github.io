@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本征正交分解（POD）Matlab代码"
+title: "本征正交分解PODMatlab代码"
 date:   2021-09-21
 tags: [本征,Matlab,代码,正交,分解]
 comments: true

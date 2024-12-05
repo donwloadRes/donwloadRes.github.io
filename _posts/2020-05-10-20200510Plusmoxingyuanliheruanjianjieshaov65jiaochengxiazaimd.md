@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plus模型原理和软件介绍-v6.5 教程下载"
+title: "Plus模型原理和软件介绍v65 教程下载"
 date:   2024-03-03
 tags: [Plus,模型,教程,软件,v6.5]
 comments: true

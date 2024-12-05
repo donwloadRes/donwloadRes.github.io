@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E9开发环境搭建——IDEA篇"
+title: "E9开发环境搭建IDEA篇"
 date:   2022-03-15
 tags: [E9,IDEA,泛微,IntelliJ,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIEMENS SN 29500-2010 集成电路期望值资源下载"
+title: "SIEMENS SN 295002010 集成电路期望值资源下载"
 date:   2021-07-15
 tags: [文件,2010,SIEMENS,SN,29500]
 comments: true

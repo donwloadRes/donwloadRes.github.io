@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 激活版本使用指南"
+title: "Source Insight 40 激活版本使用指南"
 date:   2024-10-31
 tags: [Source,Insight,4.0,激活,文件]
 comments: true

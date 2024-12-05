@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功能安全分析软件 Isograph Reliability Workbench 14.0 激活版"
+title: "功能安全分析软件 Isograph Reliability Workbench 140 激活版"
 date:   2021-07-03
 tags: [激活,软件,Isograph,Reliability,Workbench]
 comments: true

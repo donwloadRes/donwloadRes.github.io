@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工厂生产ERP系统 - 带BOM清单管理（适合各行业）"
+title: "工厂生产ERP系统  带BOM清单管理适合各行业"
 date:   2022-07-11
 tags: [生产,管理,BOM,清单,ERP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5-QAT量化部署指南"
+title: "YOLOv5QAT量化部署指南"
 date:   2020-09-20
 tags: [QAT,模型,YOLOv5,量化,部署]
 comments: true

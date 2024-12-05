@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体封装工艺讲解——芯片制造流程课件PPT"
+title: "半导体封装工艺讲解芯片制造流程课件PPT"
 date:   2024-09-06
 tags: [封装,芯片,半导体,工艺,PPT]
 comments: true

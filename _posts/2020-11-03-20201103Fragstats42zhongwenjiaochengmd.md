@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fragstats 4.2 中文教程"
+title: "Fragstats 42 中文教程"
 date:   2023-09-25
 tags: [教程,Fragstats,窗口,景观,分析]
 comments: true

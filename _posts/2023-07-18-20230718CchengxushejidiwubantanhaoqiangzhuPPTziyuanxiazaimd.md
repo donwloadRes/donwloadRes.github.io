@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C程序设计（第五版）谭浩强 著PPT 资源下载"
+title: "C程序设计第五版谭浩强 著PPT 资源下载"
 date:   2023-03-27
 tags: [PPT,第五版,谭浩强,C语言,程序设计]
 comments: true

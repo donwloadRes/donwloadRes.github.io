@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现周立功CAN通信，自动接收数据"
+title: "QT实现周立功CAN通信自动接收数据"
 date:   2024-03-11
 tags: [QT,立功,文件,资源,二次开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金士顿DataTraveler 3.0 (DT100 G3) U盘修复工具"
+title: "金士顿DataTraveler 30 DT100 G3 U盘修复工具"
 date:   2023-10-19
 tags: [U盘,修复,工具,3.0,DT100]
 comments: true

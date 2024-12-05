@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现TD3算法-自己动手写底层"
+title: "MATLAB实现TD3算法自己动手写底层"
 date:   2023-09-30
 tags: [TD3,算法,MATLAB,示例,环境]
 comments: true

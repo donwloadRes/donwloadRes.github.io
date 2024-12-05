@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX678 软件参考手册 E 版 Rev4.0"
+title: "IMX678 软件参考手册 E 版 Rev40"
 date:   2021-09-10
 tags: [IMX678,Rev4.0,参考手册,寄存器,软件]
 comments: true

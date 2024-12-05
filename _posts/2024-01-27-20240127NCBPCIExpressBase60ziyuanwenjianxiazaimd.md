@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NCB-PCI_Express_Base_6.0 资源文件下载"
+title: "NCBPCIExpressBase60 资源文件下载"
 date:   2024-01-11
 tags: [PCI,Express,6.0,文件,NCB]
 comments: true

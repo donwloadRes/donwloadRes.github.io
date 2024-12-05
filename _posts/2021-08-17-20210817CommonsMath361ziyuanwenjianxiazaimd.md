@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Commons Math 3.6.1 资源文件下载"
+title: "Commons Math 361 资源文件下载"
 date:   2020-02-22
 tags: [3.6,commons,math3,文件,Commons]
 comments: true

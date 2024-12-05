@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "环路补偿很容易（德州仪器）资源下载"
+title: "环路补偿很容易德州仪器资源下载"
 date:   2023-11-05
 tags: [环路,德州仪器,补偿,文件,pdf]
 comments: true

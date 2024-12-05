@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 10605-2008 汽车电子静电放电测试方法国际标准"
+title: "ISO 106052008 汽车电子静电放电测试方法国际标准"
 date:   2022-07-01
 tags: [ISO,2008,10605,静电,放电]
 comments: true

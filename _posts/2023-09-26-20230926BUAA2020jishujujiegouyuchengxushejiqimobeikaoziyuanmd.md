@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUAA 2020级数据结构与程序设计》期末备考资源"
+title: "BUAA 2020级数据结构与程序设计期末备考资源"
 date:   2021-12-31
 tags: [数据结构,试题,示例,程序设计,理解]
 comments: true

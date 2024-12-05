@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC电磁兼容设计与测试案例分析(第二版) - 实战导向的EMC指南"
+title: "EMC电磁兼容设计与测试案例分析第二版  实战导向的EMC指南"
 date:   2021-09-26
 tags: [EMC,电磁兼容,案例,测试,工程师]
 comments: true

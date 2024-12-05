@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "贝塞尔曲线各个版本(Unity插件).zip"
+title: "贝塞尔曲线各个版本Unity插件zip"
 date:   2023-02-23
 tags: [插件,Unity,贝塞尔,曲线,版本]
 comments: true

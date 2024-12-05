@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++6.0安装教程资源文件介绍"
+title: "VC60安装教程资源文件介绍"
 date:   2024-07-11
 tags: [C++,6.0,安装,教程,编程]
 comments: true

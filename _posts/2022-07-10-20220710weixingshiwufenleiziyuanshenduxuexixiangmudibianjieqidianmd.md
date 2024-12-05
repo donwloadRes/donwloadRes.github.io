@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微型食物分类资源：深度学习项目的便捷起点"
+title: "微型食物分类资源深度学习项目的便捷起点"
 date:   2024-05-14
 tags: [模型,图像,分类,食物,数据]
 comments: true

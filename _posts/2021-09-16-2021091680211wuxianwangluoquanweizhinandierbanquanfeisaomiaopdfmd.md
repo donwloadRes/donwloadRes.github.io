@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11无线网络权威指南(第二版全_非扫描).pdf"
+title: "80211无线网络权威指南第二版全非扫描pdf"
 date:   2020-04-12
 tags: [802.11,无线网络,技术,网络,无线]
 comments: true

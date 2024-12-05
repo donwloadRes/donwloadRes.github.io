@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux服务器漏洞修复—OpenSSH升级到9.8（CentOS 7.6）"
+title: "Linux服务器漏洞修复OpenSSH升级到98CentOS 76"
 date:   2020-07-22
 tags: [升级,OpenSSH,9.8,服务器,文件]
 comments: true

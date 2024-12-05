@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 9节点标准算例：导纳矩阵与阻抗矩阵计算"
+title: "IEEE 9节点标准算例导纳矩阵与阻抗矩阵计算"
 date:   2024-11-12
 tags: [矩阵,MATLAB,节点,电力系统,IEEE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5: 使用QtCharts绘制折线图教程"
+title: "PyQt5 使用QtCharts绘制折线图教程"
 date:   2022-03-13
 tags: [self,PyQt5,QtCharts,折线图,图表]
 comments: true

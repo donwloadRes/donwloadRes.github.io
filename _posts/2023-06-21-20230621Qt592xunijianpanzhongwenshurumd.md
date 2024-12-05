@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.9.2 虚拟键盘中文输入"
+title: "Qt 592 虚拟键盘中文输入"
 date:   2022-06-19
 tags: [Qt,5.9,中文,输入,替换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sockj.min.js和stomp.min.js免费下载"
+title: "sockjminjs和stompminjs免费下载"
 date:   2024-07-19
 tags: [min,js,WebSocket,sockj,stomp]
 comments: true

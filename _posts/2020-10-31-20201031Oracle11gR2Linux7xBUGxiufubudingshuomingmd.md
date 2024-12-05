@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11gR2 Linux 7.x BUG修复补丁说明"
+title: "Oracle 11gR2 Linux 7x BUG修复补丁说明"
 date:   2021-03-08
 tags: [Oracle,补丁,Linux,安装,11gR2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue之vue-devtools的安装包分享与极速安装"
+title: "Vue之vuedevtools的安装包分享与极速安装"
 date:   2022-11-11
 tags: [vue,devtools,Vue,安装包,Chrome]
 comments: true

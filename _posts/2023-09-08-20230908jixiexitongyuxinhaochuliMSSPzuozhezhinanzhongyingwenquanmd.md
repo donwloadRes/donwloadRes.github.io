@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械系统与信号处理（MSSP）作者指南（中英文）【全】"
+title: "机械系统与信号处理MSSP作者指南中英文全"
 date:   2022-01-28
 tags: [MSSP,投稿,信号处理,指南,格式]
 comments: true

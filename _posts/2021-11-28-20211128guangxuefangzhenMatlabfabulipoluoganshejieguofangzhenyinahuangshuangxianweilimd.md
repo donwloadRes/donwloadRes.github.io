@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光学仿真：Matlab 法布里-泊罗干涉结果仿真（以纳黄双线为例）"
+title: "光学仿真Matlab 法布里泊罗干涉结果仿真以纳黄双线为例"
 date:   2023-01-08
 tags: [仿真,Matlab,双线,光学,干涉]
 comments: true

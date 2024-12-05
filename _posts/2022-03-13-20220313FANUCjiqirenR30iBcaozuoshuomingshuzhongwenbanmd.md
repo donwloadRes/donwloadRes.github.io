@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC机器人R30iB操作说明书（中文版）"
+title: "FANUC机器人R30iB操作说明书中文版"
 date:   2020-05-08
 tags: [机器人,FANUC,R30iB,本手册,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCA: 多维协作注意力在深度卷积神经网络中的应用"
+title: "MCA 多维协作注意力在深度卷积神经网络中的应用"
 date:   2022-11-18
 tags: [MCA,卷积,神经网络,图像识别,深度]
 comments: true

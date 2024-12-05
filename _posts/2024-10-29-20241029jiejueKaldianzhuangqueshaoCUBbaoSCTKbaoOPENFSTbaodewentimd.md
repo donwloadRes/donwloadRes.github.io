@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Kaldi安装缺少CUB包、SCTK包、OPENFST包的问题"
+title: "解决Kaldi安装缺少CUB包SCTK包OPENFST包的问题"
 date:   2020-09-25
 tags: [Kaldi,安装,CUB,SCTK,OPENFST]
 comments: true

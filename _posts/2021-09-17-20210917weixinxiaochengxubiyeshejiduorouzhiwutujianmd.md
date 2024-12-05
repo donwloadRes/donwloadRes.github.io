@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序毕业设计：多肉植物图鉴"
+title: "微信小程序毕业设计多肉植物图鉴"
 date:   2021-11-30
 tags: [微信,毕业设计,程序,图鉴,多肉]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V AXI RTL Verilog 源代码下载"
+title: "RISCV AXI RTL Verilog 源代码下载"
 date:   2022-05-28
 tags: [RISC,源代码,AXI,Verilog,总线]
 comments: true

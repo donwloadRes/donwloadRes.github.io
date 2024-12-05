@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海能达PD530L（铁路版）录音管理软件"
+title: "海能达PD530L铁路版录音管理软件"
 date:   2022-06-17
 tags: [录音,海能,PD530L,对讲机,管理软件]
 comments: true

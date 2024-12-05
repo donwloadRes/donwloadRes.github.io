@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eplan 2.9 版本安装教程指南"
+title: "Eplan 29 版本安装教程指南"
 date:   2022-04-05
 tags: [安装,Eplan,2.9,解压,步骤]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉测量检测系统【附带全部源代码】"
+title: "视觉测量检测系统附带全部源代码"
 date:   2020-11-11
 tags: [源代码,视觉,Halcon,开发者,检测]
 comments: true

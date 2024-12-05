@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libvlc-3.0.17播放器媒体库下载"
+title: "libvlc3017播放器媒体库下载"
 date:   2024-03-19
 tags: [libvlc,3.0,17,播放器,媒体库]
 comments: true

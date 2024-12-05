@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NX-UG二次开发-批量修改程序参数-C#+Ufun完整工程代码"
+title: "NXUG二次开发批量修改程序参数CUfun完整工程代码"
 date:   2024-02-22
 tags: [余量,DLL,编译,批量,文件]
 comments: true

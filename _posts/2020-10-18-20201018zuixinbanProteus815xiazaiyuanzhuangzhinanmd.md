@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版Proteus 8.15 下载与安装指南"
+title: "最新版Proteus 815 下载与安装指南"
 date:   2022-05-09
 tags: [安装,Proteus,软件,8.15,最新版]
 comments: true

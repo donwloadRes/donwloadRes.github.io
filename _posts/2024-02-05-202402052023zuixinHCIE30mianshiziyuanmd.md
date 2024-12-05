@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新HCIE3.0面试资源"
+title: "2023最新HCIE30面试资源"
 date:   2022-12-19
 tags: [面试,HCIE3.0,资源,2023,最新]
 comments: true

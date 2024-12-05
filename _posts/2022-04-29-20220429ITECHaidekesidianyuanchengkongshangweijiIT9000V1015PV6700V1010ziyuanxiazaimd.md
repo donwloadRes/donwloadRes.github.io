@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITECH 艾德克斯 电源 程控上位机 IT9000-V1.0.1.5-PV6700-V1.0.1.0 资源下载"
+title: "ITECH 艾德克斯 电源 程控上位机 IT9000V1015PV6700V1010 资源下载"
 date:   2020-08-20
 tags: [V1.0,ITECH,程控,艾德,克斯]
 comments: true

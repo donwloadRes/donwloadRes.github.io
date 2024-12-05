@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现二维DWA算法（附详细注释）"
+title: "MATLAB实现二维DWA算法附详细注释"
 date:   2022-02-02
 tags: [算法,DWA,机器人,MATLAB,评估]
 comments: true

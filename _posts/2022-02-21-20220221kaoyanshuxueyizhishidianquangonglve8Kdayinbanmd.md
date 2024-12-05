@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考研数学一知识点全攻略 (8K打印版)"
+title: "考研数学一知识点全攻略 8K打印版"
 date:   2024-09-07
 tags: [考研,知识点,数学,复习,8K]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "avcodec-58.zip 资源文件下载"
+title: "avcodec58zip 资源文件下载"
 date:   2024-04-25
 tags: [avcodec,58,zip,文件,dll]
 comments: true

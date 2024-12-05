@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年电赛E题资源报告(自制原创)"
+title: "2023年电赛E题资源报告自制原创"
 date:   2021-01-02
 tags: [激光,控制,云台,边线,屏幕]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NoSleepHD V2.0 防止硬盘休眠工具"
+title: "NoSleepHD V20 防止硬盘休眠工具"
 date:   2023-01-26
 tags: [硬盘,NoSleepHD,V2.0,运行,休眠]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MSP430F5529实现超声波测距CCS&IAR"
+title: "基于MSP430F5529实现超声波测距CCSIAR"
 date:   2021-05-05
 tags: [MSP430F5529,CCS,IAR,测距,超声波]
 comments: true

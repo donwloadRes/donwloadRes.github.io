@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQ-4甲烷、天然气传感器设计原理图及其程序1"
+title: "MQ4甲烷天然气传感器设计原理图及其程序1"
 date:   2021-02-18
 tags: [传感器,MQ,输出,原理图,甲烷]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModbusPoll v7.0.0 永久使用资源文件"
+title: "ModbusPoll v700 永久使用资源文件"
 date:   2020-07-21
 tags: [ModbusPoll,v7.0,文件,使用,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIExpress (PCIe) X16 金手指Allegro PCB封装指南"
+title: "PCIExpress PCIe X16 金手指Allegro PCB封装指南"
 date:   2022-02-12
 tags: [封装,PCIe,Allegro,X16,PCB]
 comments: true

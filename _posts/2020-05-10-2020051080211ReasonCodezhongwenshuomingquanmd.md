@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11 Reason Code中文说明(全)"
+title: "80211 Reason Code中文说明全"
 date:   2021-12-19
 tags: [802.11,Reason,断网,中文,Code]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QNX 6.5全套官方文档"
+title: "QNX 65全套官方文档"
 date:   2020-02-12
 tags: [QNX,文档,6.5,开发者,官方]
 comments: true

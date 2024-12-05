@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线安装NET3.5指南"
+title: "离线安装NET35指南"
 date:   2021-07-14
 tags: [NET3.5,安装,离线,Windows,安装包]
 comments: true

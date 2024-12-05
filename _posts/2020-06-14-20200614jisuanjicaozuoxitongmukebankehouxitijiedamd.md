@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机操作系统【慕课版】课后习题解答"
+title: "计算机操作系统慕课版课后习题解答"
 date:   2023-01-30
 tags: [习题,解答,操作系统,课后,慕课]
 comments: true

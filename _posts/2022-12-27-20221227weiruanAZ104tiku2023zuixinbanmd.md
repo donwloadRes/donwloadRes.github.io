@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软AZ104题库（2023最新版）"
+title: "微软AZ104题库2023最新版"
 date:   2020-11-14
 tags: [题库,微软,复习,AZ104,2023]
 comments: true

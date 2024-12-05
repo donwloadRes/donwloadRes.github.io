@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于西门子S7—1200的单部六层电梯设计程序"
+title: "基于西门子S71200的单部六层电梯设计程序"
 date:   2024-02-09
 tags: [电梯,PLC,六层,系统,控制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt小游戏_别踩白块儿"
+title: "Qt小游戏别踩白块儿"
 date:   2021-03-16
 tags: [Qt,小游戏,块儿,方块,点击]
 comments: true

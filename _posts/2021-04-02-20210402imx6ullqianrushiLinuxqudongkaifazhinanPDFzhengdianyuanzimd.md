@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "imx6ull嵌入式Linux驱动开发指南PDF（正点原子）"
+title: "imx6ull嵌入式Linux驱动开发指南PDF正点原子"
 date:   2023-10-28
 tags: [Linux,imx6ull,PDF,嵌入式,驱动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生成绩管理系统 Java+SQL 资源下载"
+title: "学生成绩管理系统 JavaSQL 资源下载"
 date:   2020-07-11
 tags: [成绩,学生,录入,Java,管理系统]
 comments: true

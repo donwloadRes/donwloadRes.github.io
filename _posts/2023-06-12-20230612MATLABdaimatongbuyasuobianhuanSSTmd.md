@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码同步压缩变换（SST）"
+title: "MATLAB代码同步压缩变换SST"
 date:   2020-11-07
 tags: [MATLAB,SST,代码,压缩,变换]
 comments: true

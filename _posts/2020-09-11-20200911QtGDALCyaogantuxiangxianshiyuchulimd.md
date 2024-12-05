@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt GDAL C++ 遥感图像显示与处理"
+title: "Qt GDAL C 遥感图像显示与处理"
 date:   2023-03-15
 tags: [图像,鼠标,遥感,缩放,bash]
 comments: true

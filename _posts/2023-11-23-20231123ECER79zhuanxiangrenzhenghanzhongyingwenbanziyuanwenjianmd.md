@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECE R79 转向认证 (含中英文版) 资源文件"
+title: "ECE R79 转向认证 含中英文版 资源文件"
 date:   2022-10-31
 tags: [认证,英文版,文件,ECE,R79]
 comments: true

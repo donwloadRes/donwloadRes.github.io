@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blynk for Android 安卓端下载安装(免积分)"
+title: "Blynk for Android 安卓端下载安装免积分"
 date:   2021-05-05
 tags: [apk,安卓,Blynk,文件,压缩包]
 comments: true

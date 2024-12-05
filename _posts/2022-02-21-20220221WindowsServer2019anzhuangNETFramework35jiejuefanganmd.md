@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019安装.NET Framework 3.5解决方案"
+title: "Windows Server 2019安装NET Framework 35解决方案"
 date:   2023-06-26
 tags: [NET,Framework,安装,3.5,Windows]
 comments: true

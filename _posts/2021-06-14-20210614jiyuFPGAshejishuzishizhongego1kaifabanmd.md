@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA设计数字时钟（ego1开发板）"
+title: "基于FPGA设计数字时钟ego1开发板"
 date:   2022-06-18
 tags: [开发板,FPGA,ego1,项目,Vivado]
 comments: true

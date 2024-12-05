@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "假装自己是“黑客”资源文件介绍"
+title: "假装自己是黑客资源文件介绍"
 date:   2022-11-05
 tags: [黑客,文件,模拟,界面,资源]
 comments: true

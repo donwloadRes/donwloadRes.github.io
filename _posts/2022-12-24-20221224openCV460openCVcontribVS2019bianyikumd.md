@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "openCV4.6.0 + openCV-contrib + VS2019 编译库"
+title: "openCV460  openCVcontrib  VS2019 编译库"
 date:   2023-01-25
 tags: [openCV,文件,Visual,Studio,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PID块FB58源程序 - PID自整定指南"
+title: "西门子PID块FB58源程序  PID自整定指南"
 date:   2023-11-23
 tags: [PID,自整定,FB58,源程序,西门子]
 comments: true

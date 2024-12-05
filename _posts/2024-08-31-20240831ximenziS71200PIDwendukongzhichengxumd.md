@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 PID温度控制程序"
+title: "西门子S71200 PID温度控制程序"
 date:   2024-10-13
 tags: [V15,博图,程序,PID,二次开发]
 comments: true

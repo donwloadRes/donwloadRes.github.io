@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 安装教程（图文详细讲解 一分钟解决）"
+title: "JDK 18 安装教程图文详细讲解 一分钟解决"
 date:   2020-05-05
 tags: [JDK,安装,1.8,环境变量,配置]
 comments: true

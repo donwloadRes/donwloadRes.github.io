@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蔚来汽车：BMS功能安全的开发方法"
+title: "蔚来汽车BMS功能安全的开发方法"
 date:   2024-04-19
 tags: [BMS,安全,蔚来,功能,开发方法]
 comments: true

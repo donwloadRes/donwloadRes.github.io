@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 一致性测试套件 (v1.00) 下载仓库"
+title: "MIPI DPHY 一致性测试套件 v100 下载仓库"
 date:   2023-01-28
 tags: [测试,MIPI,PHY,文件,v1.00]
 comments: true

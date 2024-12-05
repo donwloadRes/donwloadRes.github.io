@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "turn.js教程及总结"
+title: "turnjs教程及总结"
 date:   2022-02-02
 tags: [turn,js,开发者,插件,教程]
 comments: true

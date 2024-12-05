@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker部署Stable-Diffusion-webui资源文件介绍"
+title: "Docker部署StableDiffusionwebui资源文件介绍"
 date:   2023-03-09
 tags: [webui,Stable,Diffusion,Docker,stable]
 comments: true

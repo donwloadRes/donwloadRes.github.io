@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10安装IDEA 2020.1.2及激活指南"
+title: "Windows10安装IDEA 202012及激活指南"
 date:   2021-09-23
 tags: [IDEA,激活,安装,插件,2020.1]
 comments: true

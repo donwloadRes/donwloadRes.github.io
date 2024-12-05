@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为最牛逼的 C++ 基础与提高 PDF 资源介绍"
+title: "华为最牛逼的 C 基础与提高 PDF 资源介绍"
 date:   2024-10-22
 tags: [C++,编程,PDF,华为,最牛]
 comments: true

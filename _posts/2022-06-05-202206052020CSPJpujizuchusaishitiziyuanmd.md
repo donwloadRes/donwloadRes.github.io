@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020 CSP-J 普及组初赛试题资源"
+title: "2020 CSPJ 普及组初赛试题资源"
 date:   2024-08-09
 tags: [试题,信息学,信奥赛,竞赛,初赛]
 comments: true

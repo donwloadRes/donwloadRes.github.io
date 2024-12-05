@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATLAS螺丝枪-扭矩控制器 开放协议"
+title: "ATLAS螺丝枪扭矩控制器 开放协议"
 date:   2022-02-07
 tags: [拧紧,代码,软件,发送,控制器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EN60204-1 安全标准说明文档"
+title: "EN602041 安全标准说明文档"
 date:   2020-04-24
 tags: [安全,标准,EN60204,电气设备,设备]
 comments: true

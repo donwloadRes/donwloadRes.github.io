@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下Python3.9.13安装教程及安装包"
+title: "Windows下Python3913安装教程及安装包"
 date:   2021-04-12
 tags: [Python,安装,13,3.9,安装包]
 comments: true

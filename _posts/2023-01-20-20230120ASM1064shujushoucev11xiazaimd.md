@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASM1064 数据手册 v1.1 下载"
+title: "ASM1064 数据手册 v11 下载"
 date:   2021-06-16
 tags: [ASM1064,v1.1,手册,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大麦抢票神器：源码+辅助工具+详尽教程"
+title: "大麦抢票神器源码辅助工具详尽教程"
 date:   2023-11-29
 tags: [抢票,Python,教程,辅助工具,大麦]
 comments: true

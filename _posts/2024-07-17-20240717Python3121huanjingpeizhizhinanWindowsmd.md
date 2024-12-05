@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.12.1 环境配置指南（Windows）"
+title: "Python 3121 环境配置指南Windows"
 date:   2020-11-09
 tags: [Python,3.12,安装,Windows,命令行]
 comments: true

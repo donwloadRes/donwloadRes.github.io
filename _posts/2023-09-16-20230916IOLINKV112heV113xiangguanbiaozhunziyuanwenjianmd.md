@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IO-LINK V1.1.2 和 V1.1.3 相关标准资源文件"
+title: "IOLINK V112 和 V113 相关标准资源文件"
 date:   2020-10-12
 tags: [V1.1,IO,LINK,文件,中文]
 comments: true

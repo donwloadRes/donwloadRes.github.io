@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络：自顶向下方法第8版（Global版）资源下载"
+title: "计算机网络自顶向下方法第8版Global版资源下载"
 date:   2024-09-04
 tags: [Global,自顶向下,计算机网络,下载,PDF]
 comments: true

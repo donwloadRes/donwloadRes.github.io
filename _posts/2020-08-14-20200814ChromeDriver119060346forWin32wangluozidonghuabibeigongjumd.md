@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChromeDriver 119.0.6034.6 for Win32 - 网络自动化必备工具"
+title: "ChromeDriver 119060346 for Win32  网络自动化必备工具"
 date:   2021-03-14
 tags: [自动化,ChromeDriver,浏览器,Chrome,6034.6]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm SQLite 加密程序"
+title: "C WinForm SQLite 加密程序"
 date:   2023-11-04
 tags: [加密,数据库,SQLite,解密,程序]
 comments: true

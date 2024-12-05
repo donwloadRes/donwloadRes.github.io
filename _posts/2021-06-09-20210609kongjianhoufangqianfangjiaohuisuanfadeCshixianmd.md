@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "空间后方、前方交会算法的C++实现"
+title: "空间后方前方交会算法的C实现"
 date:   2022-04-19
 tags: [算法,交会,后方,前方,C++]
 comments: true

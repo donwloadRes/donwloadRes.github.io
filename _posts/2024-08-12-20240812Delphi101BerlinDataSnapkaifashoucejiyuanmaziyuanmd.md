@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 10.1 Berlin DataSnap 开发手册及源码资源"
+title: "Delphi 101 Berlin DataSnap 开发手册及源码资源"
 date:   2024-03-12
 tags: [源码,手册,DataSnap,开发者,Delphi]
 comments: true

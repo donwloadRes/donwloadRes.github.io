@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux上gcc4.8.5离线安装方法，简单快捷"
+title: "Linux上gcc485离线安装方法简单快捷"
 date:   2021-10-17
 tags: [4.8,安装,GCC,离线,Linux]
 comments: true

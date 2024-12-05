@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据手册：LLCC68 datasheet"
+title: "数据手册LLCC68 datasheet"
 date:   2024-01-11
 tags: [LLCC68,LoRa,FSK,KBPS,调制]
 comments: true

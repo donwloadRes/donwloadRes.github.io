@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103的V1.7.0 HAL库 CAN协议接收与发送例程"
+title: "基于STM32F103的V170 HAL库 CAN协议接收与发送例程"
 date:   2022-06-25
 tags: [HAL,V1.7,FreeRTOS,STM32,例程]
 comments: true

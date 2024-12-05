@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Security V4.0 培训教材PPT全套合集"
+title: "HCIPSecurity V40 培训教材PPT全套合集"
 date:   2022-06-15
 tags: [HCIP,Security,防火墙,V4.0,网络安全]
 comments: true

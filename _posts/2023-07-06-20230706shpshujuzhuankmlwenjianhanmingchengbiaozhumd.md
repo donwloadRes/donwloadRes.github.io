@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "shp数据转kml文件（含名称标注）"
+title: "shp数据转kml文件含名称标注"
 date:   2022-09-08
 tags: [kml,文件,shp,转换,格式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟退火算法PPT（Willing创作）"
+title: "模拟退火算法PPTWilling创作"
 date:   2020-10-24
 tags: [模拟退火,PPT,算法,Willing,创作]
 comments: true

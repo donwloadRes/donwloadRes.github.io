@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST75161-G2A_V1.1a 资源文件下载"
+title: "ST75161G2AV11a 资源文件下载"
 date:   2024-05-14
 tags: [文件,ST75161,G2A,V1.1,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200 SMART与台达VFD-M变频器通讯程序"
+title: "西门子S7200 SMART与台达VFDM变频器通讯程序"
 date:   2020-10-22
 tags: [变频器,PLC,触摸屏,通讯,S7]
 comments: true

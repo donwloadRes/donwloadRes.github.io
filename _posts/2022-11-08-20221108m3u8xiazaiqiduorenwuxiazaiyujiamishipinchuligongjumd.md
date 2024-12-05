@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "m3u8下载器：多任务下载与加密视频处理工具"
+title: "m3u8下载器多任务下载与加密视频处理工具"
 date:   2021-06-06
 tags: [下载,m3u8,ts,文件,多任务]
 comments: true

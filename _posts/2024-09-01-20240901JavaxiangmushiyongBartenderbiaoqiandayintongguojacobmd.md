@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java项目使用Bartender标签打印（通过jacob）"
+title: "Java项目使用Bartender标签打印通过jacob"
 date:   2023-11-18
 tags: [jacob,Bartender,Java,Dispatch,COM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFmpeg的推流器 1.2"
+title: "最简单的基于FFmpeg的推流器 12"
 date:   2023-07-27
 tags: [FFmpeg,流媒体,simplest,ffmpeg,your]
 comments: true

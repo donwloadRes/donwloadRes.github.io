@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙Pmac(ck3m)使用手册下载"
+title: "欧姆龙Pmacck3m使用手册下载"
 date:   2023-01-25
 tags: [Pmac,ck3m,欧姆龙,培训资料,使用手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT实现对PDF、Word文档预览以及文本内容的读取"
+title: "C QT实现对PDFWord文档预览以及文本内容的读取"
 date:   2020-01-21
 tags: [文档,文本,PDF,Word,Poppler]
 comments: true

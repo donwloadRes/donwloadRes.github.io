@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDK_AP_MT7621A_MT7915DA_IPAILNA_DDR3_2L_CO-CLK_V12 硬件参考设计"
+title: "HDKAPMT7621AMT7915DAIPAILNADDR32LCOCLKV12 硬件参考设计"
 date:   2020-07-21
 tags: [硬件,HDK,设计,参考,AP]
 comments: true

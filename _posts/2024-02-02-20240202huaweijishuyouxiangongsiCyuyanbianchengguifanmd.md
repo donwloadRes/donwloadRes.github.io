@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为技术有限公司C++语言编程规范"
+title: "华为技术有限公司C语言编程规范"
 date:   2023-01-26
 tags: [C++,编程,规范,华为技术有限公司,代码]
 comments: true

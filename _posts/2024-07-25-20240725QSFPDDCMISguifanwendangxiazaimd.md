@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QSFP-DD CMIS 规范文档下载"
+title: "QSFPDD CMIS 规范文档下载"
 date:   2023-10-14
 tags: [QSFP,DD,CMIS,规范,文档]
 comments: true

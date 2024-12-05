@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOP 训练+测试+模型评估资源文件介绍"
+title: "YOLOP 训练测试模型评估资源文件介绍"
 date:   2022-12-27
 tags: [YOLOP,训练,测试,模型,评估]
 comments: true

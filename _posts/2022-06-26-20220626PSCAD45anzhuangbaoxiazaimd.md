@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSCAD4.5安装包下载"
+title: "PSCAD45安装包下载"
 date:   2020-04-30
 tags: [安装,安装包,仿真,PSCAD4.5,视频教程]
 comments: true

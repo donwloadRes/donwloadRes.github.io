@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA6.5 F5插件：汇编转C语言工具"
+title: "IDA65 F5插件汇编转C语言工具"
 date:   2022-02-13
 tags: [插件,F5,C语言,IDA,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chilkat ActiveX 9.5.0.72 带注册机资源下载"
+title: "Chilkat ActiveX 95072 带注册机资源下载"
 date:   2024-09-27
 tags: [ActiveX,注册机,Chilkat,0.72,使用]
 comments: true

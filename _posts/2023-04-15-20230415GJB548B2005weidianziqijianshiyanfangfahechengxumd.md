@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB548B-2005微电子器件试验方法和程序"
+title: "GJB548B2005微电子器件试验方法和程序"
 date:   2022-02-15
 tags: [试验,电子器件,标准,GJB548B,2005]
 comments: true

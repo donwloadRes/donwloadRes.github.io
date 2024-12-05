@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用C#获取通达信日线数据"
+title: "用C获取通达信日线数据"
 date:   2024-05-04
 tags: [字节,通达信,1000,整型,日线]
 comments: true

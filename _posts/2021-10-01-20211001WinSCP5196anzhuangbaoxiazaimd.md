@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinSCP 5.19.6 安装包下载"
+title: "WinSCP 5196 安装包下载"
 date:   2022-06-27
 tags: [WinSCP,支持,Windows,SSH,安装包]
 comments: true

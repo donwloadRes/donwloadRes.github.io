@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap导航菜单布局（25种可选）"
+title: "Bootstrap导航菜单布局25种可选"
 date:   2021-05-04
 tags: [菜单,Bootstrap,导航,布局,jQuery]
 comments: true

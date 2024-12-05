@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中调用libvlc实现本地、网络节目流的播放"
+title: "C中调用libvlc实现本地网络节目流的播放"
 date:   2020-05-31
 tags: [libvlc,C#,播放,示例,文件]
 comments: true

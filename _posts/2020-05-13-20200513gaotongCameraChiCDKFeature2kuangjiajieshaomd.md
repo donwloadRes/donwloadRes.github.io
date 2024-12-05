@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通Camera Chi-CDK Feature2框架介绍"
+title: "高通Camera ChiCDK Feature2框架介绍"
 date:   2024-05-30
 tags: [高通,Feature2,框架,相机,Chi]
 comments: true

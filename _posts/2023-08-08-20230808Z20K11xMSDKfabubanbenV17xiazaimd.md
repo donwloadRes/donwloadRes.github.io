@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Z20K11xM SDK 发布版本 V1.7 下载"
+title: "Z20K11xM SDK 发布版本 V17 下载"
 date:   2022-10-14
 tags: [SDK,Z20K11xM,V1.7,文档,文件]
 comments: true

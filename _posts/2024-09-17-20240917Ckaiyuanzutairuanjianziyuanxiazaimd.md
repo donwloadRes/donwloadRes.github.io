@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 开源组态软件资源下载"
+title: "C 开源组态软件资源下载"
 date:   2024-11-15
 tags: [C#,组态,开源,文件,下载]
 comments: true

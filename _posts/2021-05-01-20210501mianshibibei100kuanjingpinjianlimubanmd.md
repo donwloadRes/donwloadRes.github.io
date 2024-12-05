@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面试必备：100款精品简历模板"
+title: "面试必备100款精品简历模板"
 date:   2021-10-22
 tags: [简历,模板,教程,100,头像]
 comments: true

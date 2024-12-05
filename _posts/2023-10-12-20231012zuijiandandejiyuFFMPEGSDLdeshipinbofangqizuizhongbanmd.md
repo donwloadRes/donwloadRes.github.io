@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFMPEG+SDL的视频播放器-最终版"
+title: "最简单的基于FFMPEGSDL的视频播放器最终版"
 date:   2024-05-15
 tags: [编译,SDL,FFmpeg,gcc,解码]
 comments: true

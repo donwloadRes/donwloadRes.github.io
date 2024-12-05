@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0 CYUSB3014开发板资料"
+title: "USB30 CYUSB3014开发板资料"
 date:   2023-08-08
 tags: [开发板,CYUSB3014,原理图,USB3.0,开发者]
 comments: true

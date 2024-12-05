@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adobe Photoshop Lightroom 7.0 版本下载与安装指南"
+title: "Adobe Photoshop Lightroom 70 版本下载与安装指南"
 date:   2024-09-30
 tags: [安装,Lightroom,Patch,照片,后期制作]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-QML-Example: 完整的Qt与QML示例合集"
+title: "QtQMLExample 完整的Qt与QML示例合集"
 date:   2024-01-31
 tags: [QML,Qt,示例,效果,开发者]
 comments: true

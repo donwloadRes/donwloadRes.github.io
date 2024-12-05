@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式硬件设计（中文版，完整书签）"
+title: "嵌入式硬件设计中文版完整书签"
 date:   2020-05-28
 tags: [嵌入式,硬件,书签,中文版,读者]
 comments: true

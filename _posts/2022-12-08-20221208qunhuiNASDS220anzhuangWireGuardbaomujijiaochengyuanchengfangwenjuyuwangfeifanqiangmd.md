@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群晖NAS DS220+ 安装WireGuard保姆级教程（远程访问局域网非翻墙）"
+title: "群晖NAS DS220 安装WireGuard保姆级教程远程访问局域网非翻墙"
 date:   2021-04-11
 tags: [群晖,NAS,WireGuard,SSH,教程]
 comments: true

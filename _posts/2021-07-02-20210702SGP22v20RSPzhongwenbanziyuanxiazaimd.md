@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGP.22_v2.0(RSP) 中文版资源下载"
+title: "SGP22v20RSP 中文版资源下载"
 date:   2024-02-05
 tags: [RSP,SGP.22,v2.0,文档,中文版]
 comments: true

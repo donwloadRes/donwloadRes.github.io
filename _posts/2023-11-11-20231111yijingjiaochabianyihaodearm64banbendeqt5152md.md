@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "已经交叉编译好的arm64版本的qt5.15.2"
+title: "已经交叉编译好的arm64版本的qt5152"
 date:   2024-09-12
 tags: [Qt,该库,编译,arm64,5.15]
 comments: true

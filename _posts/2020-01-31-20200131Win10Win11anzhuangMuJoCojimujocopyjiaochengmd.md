@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win 10、Win 11 安装 MuJoCo 及 mujoco-py 教程"
+title: "Win 10Win 11 安装 MuJoCo 及 mujocopy 教程"
 date:   2020-05-11
 tags: [mujoco,MuJoCo,py,安装,Windows]
 comments: true

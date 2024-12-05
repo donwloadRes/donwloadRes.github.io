@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 最新升级补丁下载"
+title: "VB60 最新升级补丁下载"
 date:   2021-06-12
 tags: [VB6.0,补丁,Windows,安装,msi]
 comments: true

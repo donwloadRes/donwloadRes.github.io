@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法项目：欢乐连连看"
+title: "数据结构与算法项目欢乐连连看"
 date:   2021-04-16
 tags: [项目,数据结构,源码,算法,连连看]
 comments: true

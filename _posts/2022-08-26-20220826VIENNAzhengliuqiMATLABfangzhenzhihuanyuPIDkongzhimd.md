@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIENNA整流器MATLAB仿真：滞缓与PID控制"
+title: "VIENNA整流器MATLAB仿真滞缓与PID控制"
 date:   2023-07-18
 tags: [VIENNA,仿真,整流器,MATLAB,PID]
 comments: true

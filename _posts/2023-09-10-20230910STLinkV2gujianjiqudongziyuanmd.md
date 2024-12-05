@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STLink-V2 固件及驱动资源"
+title: "STLinkV2 固件及驱动资源"
 date:   2021-12-18
 tags: [固件,STLink,V2,Windows,exe]
 comments: true

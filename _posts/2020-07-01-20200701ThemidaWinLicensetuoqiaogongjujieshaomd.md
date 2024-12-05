@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Themida & WinLicense 脱壳工具介绍"
+title: "Themida  WinLicense 脱壳工具介绍"
 date:   2022-08-19
 tags: [脱壳,Themida,脚本,资源,文件]
 comments: true

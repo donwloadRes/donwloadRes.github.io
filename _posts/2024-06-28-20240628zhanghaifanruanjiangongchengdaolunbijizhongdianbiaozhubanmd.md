@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张海藩软件工程导论笔记 - 重点标注版"
+title: "张海藩软件工程导论笔记  重点标注版"
 date:   2023-08-12
 tags: [软件,笔记,软件工程,标注,复习]
 comments: true

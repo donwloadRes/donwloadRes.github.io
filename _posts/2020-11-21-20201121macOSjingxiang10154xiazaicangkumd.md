@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS镜像10.15.4下载仓库"
+title: "macOS镜像10154下载仓库"
 date:   2020-11-01
 tags: [macOS,虚拟机,镜像文件,10.15,下载]
 comments: true

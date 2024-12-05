@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021版IDEA安装指南：详细步骤与优化配置"
+title: "2021版IDEA安装指南详细步骤与优化配置"
 date:   2024-04-29
 tags: [IDEA,安装,2021,指南,旧版]
 comments: true

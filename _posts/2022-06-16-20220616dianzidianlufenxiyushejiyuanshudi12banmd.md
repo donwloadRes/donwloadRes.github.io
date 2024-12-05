@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子电路分析与设计（原书第12版）"
+title: "电子电路分析与设计原书第12版"
 date:   2020-06-17
 tags: [电路,电子电路,12,电路设计,设计]
 comments: true

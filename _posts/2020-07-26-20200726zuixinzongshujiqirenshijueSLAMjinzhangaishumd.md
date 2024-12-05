@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【最新综述】机器人视觉SLAM进展概述"
+title: "最新综述机器人视觉SLAM进展概述"
 date:   2024-03-08
 tags: [SLAM,视觉,机器人,优化,前端]
 comments: true

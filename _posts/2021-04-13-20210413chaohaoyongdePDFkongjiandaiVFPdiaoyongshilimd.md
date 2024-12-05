@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超好用的PDF控件，带VFP调用实例"
+title: "超好用的PDF控件带VFP调用实例"
 date:   2020-09-25
 tags: [控件,PDF,VFP,实例,调用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机文件格式转换指南：从.ova到.ovf和.vmdk"
+title: "虚拟机文件格式转换指南从ova到ovf和vmdk"
 date:   2023-06-20
 tags: [ova,虚拟机,ovf,vmdk,OVFTool]
 comments: true

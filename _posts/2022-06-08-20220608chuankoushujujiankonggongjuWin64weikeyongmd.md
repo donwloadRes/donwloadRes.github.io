@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口数据监控工具 (Win64位可用)"
+title: "串口数据监控工具 Win64位可用"
 date:   2023-12-05
 tags: [串口,工具,监控,Serial,Monitor]
 comments: true

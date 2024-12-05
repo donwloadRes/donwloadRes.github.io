@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用LSTM实现C-MAPSS数据集的剩余寿命预测（Pytorch）"
+title: "使用LSTM实现CMAPSS数据集的剩余寿命预测Pytorch"
 date:   2023-12-28
 tags: [BLSTM,预测,LSTM,MAPSS,MS]
 comments: true

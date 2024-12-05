@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA环境安装指南：在Windows 10上搭建Xilinx ISE 14.7"
+title: "FPGA环境安装指南在Windows 10上搭建Xilinx ISE 147"
 date:   2024-11-04
 tags: [安装,FPGA,ISE,14.7,步骤]
 comments: true

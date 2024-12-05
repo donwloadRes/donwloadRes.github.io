@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G频点计算器12.zip 下载仓库"
+title: "5G频点计算器12zip 下载仓库"
 date:   2024-03-03
 tags: [频点,5G,计算器,12,zip]
 comments: true

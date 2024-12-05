@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32KSDKCAN组件详解-CANPAL-FLEXCAN"
+title: "S32KSDKCAN组件详解CANPALFLEXCAN"
 date:   2020-07-01
 tags: [CANPAL,FLEXCAN,模块,组件,S32K]
 comments: true

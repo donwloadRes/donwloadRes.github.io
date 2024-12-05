@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯46道真题题解（Python实现）"
+title: "蓝桥杯46道真题题解Python实现"
 date:   2024-01-12
 tags: [题解,蓝桥,Python,46,真题]
 comments: true

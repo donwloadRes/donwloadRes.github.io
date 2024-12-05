@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType v7.7.1.258 数学公式编辑器软件免安装绿色版"
+title: "MathType v771258 数学公式编辑器软件免安装绿色版"
 date:   2024-10-31
 tags: [绿色版,解压,数学公式,1.258,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本科生计算机专业毕业论文（设计）开题报告"
+title: "本科生计算机专业毕业论文设计开题报告"
 date:   2024-03-21
 tags: [文件传输,Java,清华大学出版社,系统,开题]
 comments: true

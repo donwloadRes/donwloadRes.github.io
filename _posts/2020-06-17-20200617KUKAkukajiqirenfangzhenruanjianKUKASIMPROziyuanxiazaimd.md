@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA库卡机器人仿真软件(KUKA SIM PRO)资源下载"
+title: "KUKA库卡机器人仿真软件KUKA SIM PRO资源下载"
 date:   2023-06-12
 tags: [KUKA,机器人,Sim,Pro,编程]
 comments: true

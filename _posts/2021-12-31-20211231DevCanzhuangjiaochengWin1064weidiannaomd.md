@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 安装教程（Win10 64位电脑）"
+title: "Dev C 安装教程Win10 64位电脑"
 date:   2020-09-15
 tags: [C++,Dev,--,点击,安装]
 comments: true

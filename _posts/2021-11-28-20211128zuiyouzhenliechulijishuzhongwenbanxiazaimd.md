@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优阵列处理技术（中文版）下载"
+title: "最优阵列处理技术中文版下载"
 date:   2021-09-28
 tags: [阵列,下载,中文版,最优,解压]
 comments: true

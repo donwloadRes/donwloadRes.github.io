@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC实现Socket通信（TCP Server&Client）"
+title: "MFC实现Socket通信TCP ServerClient"
 date:   2023-08-10
 tags: [MFC,Socket,通信,示例,TCP]
 comments: true

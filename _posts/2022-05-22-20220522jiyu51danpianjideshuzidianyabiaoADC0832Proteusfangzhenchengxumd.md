@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的数字电压表（ADC0832）（Proteus仿真+程序）"
+title: "基于51单片机的数字电压表ADC0832Proteus仿真程序"
 date:   2020-10-10
 tags: [仿真,单片机,Proteus,51,ADC0832]
 comments: true

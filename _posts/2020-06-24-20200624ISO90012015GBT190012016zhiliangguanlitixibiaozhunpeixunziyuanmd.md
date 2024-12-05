@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO9001：2015(GB-T19001-2016)质量管理体系标准培训资源"
+title: "ISO90012015GBT190012016质量管理体系标准培训资源"
 date:   2021-04-13
 tags: [管理体系,质量,T19001,2016,ISO9001]
 comments: true

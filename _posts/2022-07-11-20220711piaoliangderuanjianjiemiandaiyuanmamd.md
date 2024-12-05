@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漂亮的软件界面（带源码）"
+title: "漂亮的软件界面带源码"
 date:   2022-08-28
 tags: [源码,Visual,Studio,界面,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt5.12实现TFTP的Server和Client"
+title: "基于Qt512实现TFTP的Server和Client"
 date:   2024-05-08
 tags: [TFTP,传输,Qt5.12,Server,Client]
 comments: true

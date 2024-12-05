@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC V7.5 入门教程"
+title: "WinCC V75 入门教程"
 date:   2020-02-02
 tags: [WinCC,V7.5,组态,入门教程,安装]
 comments: true

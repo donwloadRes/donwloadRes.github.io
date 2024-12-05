@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch YOLOv5 指针表计识别：分步识别表计数据集"
+title: "PyTorch YOLOv5 指针表计识别分步识别表计数据集"
 date:   2020-08-12
 tags: [表计,模型,训练,指针,识别]
 comments: true

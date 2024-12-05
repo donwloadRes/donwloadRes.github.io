@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用WPS2016方法和常见问题处理代码"
+title: "C调用WPS2016方法和常见问题处理代码"
 date:   2023-11-11
 tags: [WPS2016,常见问题,C#,调用,处理]
 comments: true

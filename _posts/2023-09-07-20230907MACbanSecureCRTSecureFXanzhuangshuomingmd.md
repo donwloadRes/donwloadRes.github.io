@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAC版SecureCRT+SecureFX 安装说明"
+title: "MAC版SecureCRTSecureFX 安装说明"
 date:   2024-05-07
 tags: [SecureFX,SecureCRT,MAC,文件,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "strace-5.15 适用于Android的ARM和ARM64架构资源文件"
+title: "strace515 适用于Android的ARM和ARM64架构资源文件"
 date:   2023-12-30
 tags: [Android,文件,strace,架构,5.15]
 comments: true

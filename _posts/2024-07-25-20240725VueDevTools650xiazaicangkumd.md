@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue DevTools 6.5.0 下载仓库"
+title: "Vue DevTools 650 下载仓库"
 date:   2021-03-14
 tags: [Vue,下载,文件,6.5,Chrome]
 comments: true

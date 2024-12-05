@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GUI Guider使用例程：基于LVGL的三界面切换示例"
+title: "GUI Guider使用例程基于LVGL的三界面切换示例"
 date:   2020-07-30
 tags: [GUI,LVGL,Guider,示例,界面]
 comments: true

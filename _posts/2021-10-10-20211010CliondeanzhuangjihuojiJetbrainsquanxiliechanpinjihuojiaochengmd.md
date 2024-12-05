@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clion的安装、激活及Jetbrains全系列产品激活教程"
+title: "Clion的安装激活及Jetbrains全系列产品激活教程"
 date:   2022-04-26
 tags: [Clion,激活,安装,Jetbrains,教程]
 comments: true

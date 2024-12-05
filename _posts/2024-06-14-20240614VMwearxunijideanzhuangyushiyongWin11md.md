@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMwear虚拟机的安装与使用（Win11）"
+title: "VMwear虚拟机的安装与使用Win11"
 date:   2024-02-19
 tags: [虚拟机,VMware,安装,操作系统,快照]
 comments: true

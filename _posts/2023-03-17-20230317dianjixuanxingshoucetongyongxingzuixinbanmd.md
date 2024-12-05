@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机选型手册(通用型最新版)"
+title: "电机选型手册通用型最新版"
 date:   2023-12-19
 tags: [选型,电机,通用型,本手册,最新版]
 comments: true

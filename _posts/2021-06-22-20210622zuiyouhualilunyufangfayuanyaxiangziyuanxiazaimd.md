@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优化理论与方法(袁亚湘) 资源下载"
+title: "最优化理论与方法袁亚湘 资源下载"
 date:   2022-12-07
 tags: [最优化,理论,方法,下载,梯度]
 comments: true

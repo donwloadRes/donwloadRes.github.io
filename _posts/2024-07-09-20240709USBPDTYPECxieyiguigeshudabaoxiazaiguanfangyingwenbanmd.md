@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-PD-TYPEC协议规格书打包下载(官方英文版)"
+title: "USBPDTYPEC协议规格书打包下载官方英文版"
 date:   2022-09-19
 tags: [USB,规格书,协议,官方,PD]
 comments: true

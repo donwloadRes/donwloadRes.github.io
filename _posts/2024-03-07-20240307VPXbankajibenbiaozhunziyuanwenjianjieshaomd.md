@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX板卡（基本标准）资源文件介绍"
+title: "VPX板卡基本标准资源文件介绍"
 date:   2024-07-14
 tags: [VPX,板卡,文件,信号,资源]
 comments: true

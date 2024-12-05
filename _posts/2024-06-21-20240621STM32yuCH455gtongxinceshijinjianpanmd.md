@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32与CH455g通信测试(仅键盘)"
+title: "STM32与CH455g通信测试仅键盘"
 date:   2021-01-17
 tags: [STM32,CH455g,I2C,HAL,键盘]
 comments: true

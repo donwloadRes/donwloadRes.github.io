@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Stack设计与实现(完整版) - 云时代的权威指南"
+title: "Open Stack设计与实现完整版  云时代的权威指南"
 date:   2022-12-28
 tags: [OpenStack,完整版,计算,Open,Stack]
 comments: true

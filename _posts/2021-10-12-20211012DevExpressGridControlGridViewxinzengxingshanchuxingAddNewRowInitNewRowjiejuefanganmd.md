@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpress GridControl GridView 新增行-删除行 AddNewRow -InitNewRow 解决方案"
+title: "DevExpress GridControl GridView 新增行删除行 AddNewRow InitNewRow 解决方案"
 date:   2021-12-02
 tags: [解决方案,DevExpress,AddNewRow,InitNewRow,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F411-401最小系统工程模板（411CEU6）(401CCU6)"
+title: "STM32F411401最小系统工程模板411CEU6401CCU6"
 date:   2022-05-19
 tags: [模板,工程,LED,STM32,功能]
 comments: true

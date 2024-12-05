@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数字图像处理大作业（基础版）"
+title: "MATLAB数字图像处理大作业基础版"
 date:   2024-03-06
 tags: [MATLAB,作业,数字图像处理,学习者,代码]
 comments: true

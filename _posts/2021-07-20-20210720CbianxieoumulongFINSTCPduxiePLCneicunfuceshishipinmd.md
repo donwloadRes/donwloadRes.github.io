@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#编写欧姆龙FINS-TCP读写PLC内存（附测试视频）"
+title: "C编写欧姆龙FINSTCP读写PLC内存附测试视频"
 date:   2021-06-21
 tags: [PLC,内存,读写,欧姆龙,C#]
 comments: true

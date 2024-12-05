@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-05蓝牙模块连接到安卓手机实现通信"
+title: "HC05蓝牙模块连接到安卓手机实现通信"
 date:   2021-07-09
 tags: [蓝牙,模块,HC,05,USB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python解析和生成Ublox GPS-GNSS协议工具"
+title: "Python解析和生成Ublox GPSGNSS协议工具"
 date:   2020-06-12
 tags: [Ublox,解析,parser,file,生成]
 comments: true

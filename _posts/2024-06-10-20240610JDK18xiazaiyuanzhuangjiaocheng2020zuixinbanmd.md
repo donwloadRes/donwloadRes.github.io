@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载与安装教程（2020最新版）"
+title: "JDK 18 下载与安装教程2020最新版"
 date:   2022-08-31
 tags: [JDK,安装,教程,环境变量,下载]
 comments: true

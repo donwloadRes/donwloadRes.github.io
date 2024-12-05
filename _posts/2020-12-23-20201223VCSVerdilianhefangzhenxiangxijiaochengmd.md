@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCS+Verdi联合仿真详细教程"
+title: "VCSVerdi联合仿真详细教程"
 date:   2022-06-15
 tags: [教程,VCS,Verdi,仿真,联合]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5安装MDK-C51-STC合并通用版指南教程"
+title: "Keil5安装MDKC51STC合并通用版指南教程"
 date:   2021-05-15
 tags: [安装,MDK,C51,Keil5,指南]
 comments: true

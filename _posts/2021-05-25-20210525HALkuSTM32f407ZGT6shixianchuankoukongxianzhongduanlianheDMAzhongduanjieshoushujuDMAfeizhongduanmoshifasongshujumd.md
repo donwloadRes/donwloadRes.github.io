@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库STM32f407ZGT6实现串口空闲中断联合DMA中断接收数据，DMA非中断模式发送数据"
+title: "HAL库STM32f407ZGT6实现串口空闲中断联合DMA中断接收数据DMA非中断模式发送数据"
 date:   2021-09-01
 tags: [DMA,中断,串口,HAL,通信]
 comments: true

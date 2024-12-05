@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动态hook微信，随意控制猜拳和骰子点数"
+title: "动态hook微信随意控制猜拳和骰子点数"
 date:   2020-10-13
 tags: [微信,猜拳,hook,Xposed,骰子]
 comments: true

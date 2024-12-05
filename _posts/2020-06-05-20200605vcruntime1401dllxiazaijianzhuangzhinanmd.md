@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vcruntime140_1.dll 下载及安装指南"
+title: "vcruntime1401dll 下载及安装指南"
 date:   2024-09-10
 tags: [vcruntime140,dll,文件,Windows,注册]
 comments: true

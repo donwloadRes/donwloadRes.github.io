@@ -1,6 +1,28 @@
 ---
 layout: post
-title: "如何将exe添加到Windows本地服务"
+title: "如何将exe添加到Windows本地服务
+date   20240722
+tags exeWindowsmyService服务instsrv
+comments true
+author admin
+
+ 如何将exe添加到Windows本地服务
+
+本文详细介绍了如何将一个exe程序添加到Windows本地服务中使其能够在系统启动时自动运行文章提供了两种方法使用Windows自带的sc命令和使用instsrv与srvany工具
+
+ 方法一使用Windows自带的sc命令
+
+1 以管理员身份运行cmd命令行窗口
+2 输入以下命令
+   
+   sc create myService binpath Cpathtoyourexefileexe
+   
+   其中myService是创建的本地服务名称binpath是exe程序所在的绝对路径
+3 打开系统服务可以看到刚刚创建好的服务
+4 右键单击服务属性将启动类型改为自动
+5 删除服务命令
+   
+   sc delete 创建的服务名称"
 date:   2024-07-22
 tags: [exe,Windows,myService,服务,instsrv]
 comments: true

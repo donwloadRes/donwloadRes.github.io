@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kali linux（全版本）详细安装w3af指南"
+title: "kali linux全版本详细安装w3af指南"
 date:   2024-01-20
 tags: [安装,w3af,Kali,版本,Linux]
 comments: true

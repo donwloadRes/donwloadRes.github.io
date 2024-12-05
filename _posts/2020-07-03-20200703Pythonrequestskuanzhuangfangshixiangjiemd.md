@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python：requests库安装方式详解"
+title: "Pythonrequests库安装方式详解"
 date:   2022-06-20
 tags: [requests,安装,Python,使用,文件]
 comments: true

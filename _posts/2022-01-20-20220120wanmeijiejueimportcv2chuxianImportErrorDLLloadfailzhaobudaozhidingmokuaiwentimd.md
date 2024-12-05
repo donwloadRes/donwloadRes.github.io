@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决 `import cv2` 出现 `ImportError: DLL load fail: 找不到指定模块` 问题"
+title: "完美解决 import cv2 出现 ImportError DLL load fail 找不到指定模块 问题"
 date:   2021-09-22
 tags: [DLL,cv2,文件,import,Python]
 comments: true

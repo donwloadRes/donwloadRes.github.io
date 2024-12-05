@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC用C# MC协议通信源码"
+title: "三菱PLC用C MC协议通信源码"
 date:   2021-01-03
 tags: [PLC,源码,连接,三菱,C#]
 comments: true

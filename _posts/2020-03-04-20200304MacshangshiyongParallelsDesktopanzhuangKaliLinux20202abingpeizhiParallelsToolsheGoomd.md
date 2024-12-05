@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac上使用Parallels Desktop安装Kali Linux 2020.2a并配置Parallels Tools和Goo"
+title: "Mac上使用Parallels Desktop安装Kali Linux 20202a并配置Parallels Tools和Goo"
 date:   2021-12-25
 tags: [Parallels,Kali,安装,Linux,Desktop]
 comments: true

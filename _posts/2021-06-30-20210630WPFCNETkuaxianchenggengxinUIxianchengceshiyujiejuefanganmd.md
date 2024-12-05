@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF C# .NET 跨线程更新UI线程测试与解决方案"
+title: "WPF C NET 跨线程更新UI线程测试与解决方案"
 date:   2022-08-07
 tags: [线程,UI,更新,方法,NET]
 comments: true

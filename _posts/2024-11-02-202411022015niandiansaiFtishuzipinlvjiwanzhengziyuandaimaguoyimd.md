@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015年电赛F题数字频率计完整资源代码（国一）"
+title: "2015年电赛F题数字频率计完整资源代码国一"
 date:   2021-01-17
 tags: [资源,间隔,测量,FPGA,频率]
 comments: true

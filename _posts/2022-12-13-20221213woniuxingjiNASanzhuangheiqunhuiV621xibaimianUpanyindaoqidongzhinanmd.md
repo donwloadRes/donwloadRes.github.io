@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜗牛星际NAS安装黑群晖V6.2.1+洗白+免U盘引导启动指南"
+title: "蜗牛星际NAS安装黑群晖V621洗白免U盘引导启动指南"
 date:   2020-06-05
 tags: [洗白,U盘,黑群晖,NAS,SSD]
 comments: true

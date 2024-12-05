@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数入门：向量空间与子空间"
+title: "线性代数入门向量空间与子空间"
 date:   2021-07-22
 tags: [线性代数,与子,向量,空间,学习]
 comments: true

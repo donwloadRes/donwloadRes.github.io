@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H743的LVGL8.2无操作系统移植"
+title: "STM32H743的LVGL82无操作系统移植"
 date:   2021-01-12
 tags: [STM32H743,LVGL,移植,操作系统,代码]
 comments: true

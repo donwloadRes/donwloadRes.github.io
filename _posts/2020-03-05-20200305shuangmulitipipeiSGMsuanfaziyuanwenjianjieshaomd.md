@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双目立体匹配_SGM算法资源文件介绍"
+title: "双目立体匹配SGM算法资源文件介绍"
 date:   2020-07-27
 tags: [视差,SGM,算法,立体匹配,64]
 comments: true

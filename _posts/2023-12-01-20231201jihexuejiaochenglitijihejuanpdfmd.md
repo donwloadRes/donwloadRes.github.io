@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "几何学教程立体几何卷.pdf"
+title: "几何学教程立体几何卷pdf"
 date:   2023-05-30
 tags: [立体几何,几何学,教程,习题,pdf]
 comments: true

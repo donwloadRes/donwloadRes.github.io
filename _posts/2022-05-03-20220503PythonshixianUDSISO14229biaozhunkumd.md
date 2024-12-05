@@ -1,6 +1,49 @@
 ---
 layout: post
-title: "Python实现UDS（ISO-14229）标准库"
+title: "Python实现UDSISO14229标准库
+date   20200305
+tags PythonUDSuds文档示例
+comments true
+author admin
+
+ Python实现UDSISO14229标准库
+
+ 项目简介
+
+本仓库致力于提供一个完整的Python实现UDS统一诊断服务Unified Diagnostic Services标准的解决方案UDS是根据国际标准化组织发布的ISO14229标准而设计的通信协议广泛应用于汽车电子领域用于车辆的诊断和服务此项目的目的是让开发人员能够方便地在Python环境中集成和使用UDS协议进行车载网络的通讯和诊断
+
+ 特性
+
+ 纯Python编写易于集成到各种Python应用中无需外部依赖库
+ 完整覆盖UDS服务实现了包括但不限于读取数据写入数据ECU复位安全访问等关键服务
+ 可配置性和灵活性支持自定义会话控制和诊断请求适应不同场景需求
+ 示例代码包含实际应用场景的代码示例帮助快速上手
+ 文档说明提供了基础的使用指南和API文档便于理解和使用
+
+ 安装
+
+推荐使用pip安装本库首先确保你的系统已安装了Python环境然后在命令行执行以下命令
+
+bash
+pip install udspy
+
+
+如果项目有更新或者你希望安装最新版本可以使用如下命令
+
+bash
+pip install githttpsgithubcomyourrepourlgit
+
+
+请将yourrepourl替换为实际的GitHub仓库地址
+
+ 快速使用
+
+简单示例展示如何发送一个Read Data By Identifier请求
+
+python
+from uds import UdsClient
+
+udsclient  UdsClientcan0   假设CAN接口名为can0"
 date:   2020-03-05
 tags: [Python,UDS,uds,文档,示例]
 comments: true

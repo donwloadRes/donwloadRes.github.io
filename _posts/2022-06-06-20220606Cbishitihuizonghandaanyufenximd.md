@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++笔试题汇总（含答案与分析）"
+title: "C笔试题汇总含答案与分析"
 date:   2020-08-08
 tags: [C++,笔试,题目,汇总,面试]
 comments: true

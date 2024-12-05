@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "137个常用Linux命令及用法案例，助你提升工作效率"
+title: "137个常用Linux命令及用法案例助你提升工作效率"
 date:   2022-04-08
 tags: [Linux,案例,folder,命令,137]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF.JS 前端无需跳转在线预览PDF功能"
+title: "PDFJS 前端无需跳转在线预览PDF功能"
 date:   2021-05-18
 tags: [PDF,预览,跳转,文件,功能]
 comments: true

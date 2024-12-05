@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用百度地图API 代码示例"
+title: "C 调用百度地图API 代码示例"
 date:   2022-05-20
 tags: [API,地图,代码,C#,百度]
 comments: true

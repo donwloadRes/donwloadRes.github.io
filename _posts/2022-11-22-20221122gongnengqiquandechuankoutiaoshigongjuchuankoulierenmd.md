@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功能齐全的串口调试工具——串口猎人"
+title: "功能齐全的串口调试工具串口猎人"
 date:   2023-05-01
 tags: [串口,发码,收码,调试,猎人]
 comments: true

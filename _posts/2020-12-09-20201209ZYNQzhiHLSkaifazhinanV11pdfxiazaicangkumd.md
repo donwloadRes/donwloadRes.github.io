@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ之HLS开发指南_V1.1.pdf 下载仓库"
+title: "ZYNQ之HLS开发指南V11pdf 下载仓库"
 date:   2023-12-16
 tags: [HLS,ZYNQ,教程,开发,V1.1]
 comments: true

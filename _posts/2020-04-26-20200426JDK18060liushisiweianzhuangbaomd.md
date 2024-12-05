@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_60 六十四位安装包"
+title: "JDK 18060 六十四位安装包"
 date:   2020-07-01
 tags: [JDK,Java,60,JAVA,版本]
 comments: true

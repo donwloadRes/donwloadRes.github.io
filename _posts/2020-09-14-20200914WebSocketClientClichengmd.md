@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebSocket Client C++ 例程"
+title: "WebSocket Client C 例程"
 date:   2023-11-16
 tags: [WebSocket,Client,动态链接库,VC6.0,例程]
 comments: true

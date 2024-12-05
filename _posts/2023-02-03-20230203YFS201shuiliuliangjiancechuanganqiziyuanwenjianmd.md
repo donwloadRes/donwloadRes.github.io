@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YF-S201水流量检测传感器资源文件"
+title: "YFS201水流量检测传感器资源文件"
 date:   2020-04-03
 tags: [YF,S201,传感器,水流量,文件]
 comments: true

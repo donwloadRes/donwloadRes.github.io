@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的双向DC-DC变换器设计与实现"
+title: "基于STM32的双向DCDC变换器设计与实现"
 date:   2020-10-17
 tags: [DC,STM32,模块,单片机,变换器]
 comments: true

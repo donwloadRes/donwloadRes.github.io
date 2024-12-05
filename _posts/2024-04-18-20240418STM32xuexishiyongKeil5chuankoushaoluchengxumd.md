@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32学习—使用Keil5串口烧录程序"
+title: "STM32学习使用Keil5串口烧录程序"
 date:   2021-01-30
 tags: [烧录,串口,Keil5,STM32,HEX]
 comments: true

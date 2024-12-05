@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPON组网与华为MA5800-X15 OLT配置指南"
+title: "GPON组网与华为MA5800X15 OLT配置指南"
 date:   2021-04-14
 tags: [GPON,MA5800,X15,OLT,组网]
 comments: true

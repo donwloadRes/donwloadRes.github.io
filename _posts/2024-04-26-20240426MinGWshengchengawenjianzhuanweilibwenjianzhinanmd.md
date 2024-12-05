@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW 生成 .a 文件转为 .lib 文件指南"
+title: "MinGW 生成 a 文件转为 lib 文件指南"
 date:   2023-08-22
 tags: [文件,lib,MinGW,转换,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV4.6.0+contrib4.6.0安装包"
+title: "OpenCV460contrib460安装包"
 date:   2024-10-15
 tags: [OpenCV,安装包,4.6,编译,OpenCV4.6]
 comments: true

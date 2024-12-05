@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome Axure插件（Mac版）资源文件介绍"
+title: "Chrome Axure插件Mac版资源文件介绍"
 date:   2021-05-30
 tags: [插件,Axure,Chrome,Mac,安装]
 comments: true

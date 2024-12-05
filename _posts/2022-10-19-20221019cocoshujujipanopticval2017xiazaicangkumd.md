@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "coco数据集panoptic_val2017 下载仓库"
+title: "coco数据集panopticval2017 下载仓库"
 date:   2023-04-08
 tags: [panoptic,val2017,COCO,数据,下载]
 comments: true

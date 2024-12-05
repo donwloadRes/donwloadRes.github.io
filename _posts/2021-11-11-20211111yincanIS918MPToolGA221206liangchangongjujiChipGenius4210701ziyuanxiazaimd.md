@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银灿IS918MPTool-GA-221206量产工具及ChipGenius4.21.0701资源下载"
+title: "银灿IS918MPToolGA221206量产工具及ChipGenius4210701资源下载"
 date:   2021-11-22
 tags: [U盘,量产,银灿,IS918MPTool,GA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADRV9008-ADRV9009硬件参考手册下载"
+title: "ADRV9008ADRV9009硬件参考手册下载"
 date:   2024-03-22
 tags: [ADRV9008,ADRV9009,手册,ADI,收发器]
 comments: true

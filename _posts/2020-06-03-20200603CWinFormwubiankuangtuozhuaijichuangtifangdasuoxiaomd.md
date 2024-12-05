@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm无边框拖拽及窗体放大缩小"
+title: "C WinForm无边框拖拽及窗体放大缩小"
 date:   2024-01-01
 tags: [窗体,边框,C#,WinForm,拖动]
 comments: true

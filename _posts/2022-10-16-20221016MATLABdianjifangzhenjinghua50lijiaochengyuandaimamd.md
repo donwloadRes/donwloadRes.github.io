@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB电机仿真精华50例(教程+源代码)"
+title: "MATLAB电机仿真精华50例教程源代码"
 date:   2024-07-30
 tags: [电机,案例,MATLAB,仿真,git]
 comments: true

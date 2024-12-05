@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息管理系统框架 (VS2019 + WinForm + SQL Server)"
+title: "信息管理系统框架 VS2019  WinForm  SQL Server"
 date:   2023-04-11
 tags: [管理员,信息,普通用户,SQL,Server]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hasee神舟战神Z7M-CT7NA笔记本原厂Windows10系统"
+title: "Hasee神舟战神Z7MCT7NA笔记本原厂Windows10系统"
 date:   2023-04-19
 tags: [系统,原厂,神舟,笔记本,镜像]
 comments: true

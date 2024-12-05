@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.3.2 下载安装指南"
+title: "Qt532 下载安装指南"
 date:   2021-05-15
 tags: [安装,下载,Qt5.3,5.3,文件]
 comments: true

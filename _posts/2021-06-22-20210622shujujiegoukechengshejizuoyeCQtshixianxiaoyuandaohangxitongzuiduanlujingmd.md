@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构课程设计作业：C++&Qt实现校园导航系统最短路径"
+title: "数据结构课程设计作业CQt实现校园导航系统最短路径"
 date:   2023-12-20
 tags: [路径,课程设计,校园,最短,Qt]
 comments: true

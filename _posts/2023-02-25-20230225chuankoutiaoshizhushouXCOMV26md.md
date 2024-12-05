@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手 XCOM V2.6"
+title: "串口调试助手 XCOM V26"
 date:   2021-09-21
 tags: [串口,调试,V2.6,XCOM,用户]
 comments: true

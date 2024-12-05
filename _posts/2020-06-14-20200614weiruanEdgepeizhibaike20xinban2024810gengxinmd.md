@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软 Edge 配置百科 2.0 新版（2024.8.10更新）"
+title: "微软 Edge 配置百科 20 新版2024810更新"
 date:   2022-03-15
 tags: [Edge,配置,2.0,浏览器,微软]
 comments: true

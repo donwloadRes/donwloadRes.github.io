@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW32-64 下载与配置指南"
+title: "MinGW3264 下载与配置指南"
 date:   2024-08-03
 tags: [Windows,MinGW32,MinGW64,解压,环境变量]
 comments: true

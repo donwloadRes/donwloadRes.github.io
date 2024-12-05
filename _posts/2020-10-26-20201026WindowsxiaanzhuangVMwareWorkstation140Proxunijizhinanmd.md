@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下安装VMware Workstation 14.0 Pro虚拟机指南"
+title: "Windows下安装VMware Workstation 140 Pro虚拟机指南"
 date:   2023-09-21
 tags: [安装,VMware,Pro,Workstation,14.0]
 comments: true

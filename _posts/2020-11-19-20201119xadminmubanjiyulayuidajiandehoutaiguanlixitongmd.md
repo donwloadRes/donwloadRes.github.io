@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xadmin模板：基于layui搭建的后台管理系统"
+title: "xadmin模板基于layui搭建的后台管理系统"
 date:   2020-08-26
 tags: [模板,layui,xadmin,后台,管理系统]
 comments: true

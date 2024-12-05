@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电源制作：220V转5V和220V转15V详细电路图"
+title: "电源制作220V转5V和220V转15V详细电路图"
 date:   2022-10-17
 tags: [电路图,220V,5V,15V,电源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VM16+Centos7下载、安装和配置教程"
+title: "VM16Centos7下载安装和配置教程"
 date:   2023-04-12
 tags: [CentOS,VMware,Workstation,16,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新魔百和CM211-2-CM201-2 YS代工 海思MV300处理器 当贝桌面强刷固件系统"
+title: "新魔百和CM2112CM2012 YS代工 海思MV300处理器 当贝桌面强刷固件系统"
 date:   2021-07-22
 tags: [刷机,当贝,固件,桌面,处理器]
 comments: true

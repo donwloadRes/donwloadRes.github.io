@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MR-JET-G实现CC-LINK IE Field Basic通信指南"
+title: "MRJETG实现CCLINK IE Field Basic通信指南"
 date:   2023-04-07
 tags: [CC,MR,JET,LINK,IE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "河北省医疗保障信息平台医保移动支付SM1SM2SM3SM4C#算法及测试工具"
+title: "河北省医疗保障信息平台医保移动支付SM1SM2SM3SM4C算法及测试工具"
 date:   2020-11-16
 tags: [算法,测试工具,C#,国密,集成]
 comments: true

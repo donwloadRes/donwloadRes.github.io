@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 PLC-PLC 通讯案例程序（免费）"
+title: "西门子S71200 PLCPLC 通讯案例程序免费"
 date:   2022-05-15
 tags: [PLC,S7,1200,西门子,程序]
 comments: true

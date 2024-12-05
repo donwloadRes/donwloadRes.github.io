@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体器件物理（施敏著）"
+title: "半导体器件物理施敏著"
 date:   2024-01-17
 tags: [半导体器件,物理,原理,器件,施敏著]
 comments: true

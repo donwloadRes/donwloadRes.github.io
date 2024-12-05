@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考研数学思维导图(数一、数二、数三）"
+title: "考研数学思维导图数一数二数三"
 date:   2023-05-21
 tags: [导图,思维,复习,数三,考研]
 comments: true

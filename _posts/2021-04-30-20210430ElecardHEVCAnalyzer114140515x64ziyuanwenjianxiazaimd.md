@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elecard HEVC Analyzer 1.14.140515 (x64) 资源文件下载"
+title: "Elecard HEVC Analyzer 114140515 x64 资源文件下载"
 date:   2024-04-29
 tags: [HEVC,文件,1.14,140515,Elecard]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法期末作业 - 哈夫曼算法压缩与解压缩ASCII文件"
+title: "数据结构与算法期末作业  哈夫曼算法压缩与解压缩ASCII文件"
 date:   2021-11-14
 tags: [哈夫曼,算法,字符,编码,解压缩]
 comments: true

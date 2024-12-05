@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学 C语言课程设计：通讯录管理系统"
+title: "大学 C语言课程设计通讯录管理系统"
 date:   2024-04-21
 tags: [C语言,联系人,通讯录,课程设计,管理系统]
 comments: true

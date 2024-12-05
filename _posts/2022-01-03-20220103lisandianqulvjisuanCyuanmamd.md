@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散点曲率计算C++源码"
+title: "离散点曲率计算C源码"
 date:   2020-04-16
 tags: [源码,离散,曲率,计算,C++]
 comments: true

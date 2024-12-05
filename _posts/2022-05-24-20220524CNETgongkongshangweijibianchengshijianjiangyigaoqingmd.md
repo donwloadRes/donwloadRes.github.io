@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#.NET工控上位机编程实践讲义高清"
+title: "CNET工控上位机编程实践讲义高清"
 date:   2022-01-31
 tags: [NET,C#,工控,编程,上位]
 comments: true

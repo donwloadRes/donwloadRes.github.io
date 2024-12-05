@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7 SP1-Server 2008 R2 离线补丁升级包"
+title: "Windows 7 SP1Server 2008 R2 离线补丁升级包"
 date:   2022-08-24
 tags: [补丁包,SP1,Windows,Server,2008]
 comments: true

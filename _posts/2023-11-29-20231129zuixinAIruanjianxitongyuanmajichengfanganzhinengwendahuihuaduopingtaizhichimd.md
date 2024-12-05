@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新AI软件系统源码集成方案：智能问答、绘画、多平台支持"
+title: "最新AI软件系统源码集成方案智能问答绘画多平台支持"
 date:   2024-08-22
 tags: [AI,智能,env,问答,绘画]
 comments: true

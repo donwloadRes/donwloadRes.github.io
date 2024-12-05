@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的M-LVDS总线控制器设计"
+title: "基于FPGA的MLVDS总线控制器设计"
 date:   2020-01-24
 tags: [LVDS,FPGA,总线,控制器,设计]
 comments: true

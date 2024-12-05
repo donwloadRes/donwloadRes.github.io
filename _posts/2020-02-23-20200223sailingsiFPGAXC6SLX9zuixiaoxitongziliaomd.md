@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思FPGA-XC6SLX9最小系统资料"
+title: "赛灵思FPGAXC6SLX9最小系统资料"
 date:   2021-08-24
 tags: [FPGA,XC6SLX9,设计,赛灵思,芯片]
 comments: true

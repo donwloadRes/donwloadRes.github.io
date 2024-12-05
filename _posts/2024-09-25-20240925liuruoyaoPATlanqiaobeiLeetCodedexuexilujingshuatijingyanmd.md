@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "柳 若要-PAT&蓝桥杯&LeetCode的学习路径&刷题经验"
+title: "柳 若要PAT蓝桥杯LeetCode的学习路径刷题经验"
 date:   2024-06-02
 tags: [PAT,算法,蓝桥,LeetCode,刷题]
 comments: true

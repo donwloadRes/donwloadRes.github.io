@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "真正Win10中可用的WinDbg10（Debugging Tools for Windows 10）"
+title: "真正Win10中可用的WinDbg10Debugging Tools for Windows 10"
 date:   2022-12-11
 tags: [WinDbg10,权限,管理员,微软,Win10]
 comments: true

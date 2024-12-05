@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群晖DS918+ 7.2 二合一镜像（懒人包）使用指南"
+title: "群晖DS918 72 二合一镜像懒人包使用指南"
 date:   2024-08-06
 tags: [镜像,群晖,硬盘,二合一,7.2]
 comments: true

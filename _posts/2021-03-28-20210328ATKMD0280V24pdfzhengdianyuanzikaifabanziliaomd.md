@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATK-MD0280 V2.4.pdf - 正点原子开发板资料"
+title: "ATKMD0280 V24pdf  正点原子开发板资料"
 date:   2023-04-18
 tags: [开发板,ATK,MD0280,V2.4,pdf]
 comments: true

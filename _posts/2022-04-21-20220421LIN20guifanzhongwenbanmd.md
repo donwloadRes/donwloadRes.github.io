@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN 2.0 规范中文版"
+title: "LIN 20 规范中文版"
 date:   2023-10-05
 tags: [LIN,规范,网络,接口,从机]
 comments: true

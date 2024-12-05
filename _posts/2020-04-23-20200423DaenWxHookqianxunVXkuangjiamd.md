@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DaenWxHook+千寻VX框架"
+title: "DaenWxHook千寻VX框架"
 date:   2023-03-02
 tags: [微信,千寻,框架,DaenWxHook,开发者]
 comments: true

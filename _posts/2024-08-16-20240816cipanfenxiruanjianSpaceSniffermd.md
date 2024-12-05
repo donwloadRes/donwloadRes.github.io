@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "磁盘分析软件：SpaceSniffer"
+title: "磁盘分析软件SpaceSniffer"
 date:   2021-07-25
 tags: [SpaceSniffer,磁盘,文件,分析,磁盘空间]
 comments: true

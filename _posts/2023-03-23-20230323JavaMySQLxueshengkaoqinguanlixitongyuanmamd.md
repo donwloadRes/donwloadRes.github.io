@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+MySQL 学生考勤管理系统源码"
+title: "JavaMySQL 学生考勤管理系统源码"
 date:   2023-01-11
 tags: [考勤,数据库,请假,MySQL,学生]
 comments: true

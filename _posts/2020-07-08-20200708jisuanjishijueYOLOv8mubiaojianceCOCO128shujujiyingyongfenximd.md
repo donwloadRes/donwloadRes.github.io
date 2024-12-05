@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机视觉-YOLOv8目标检测-COCO128数据集应用分析"
+title: "计算机视觉YOLOv8目标检测COCO128数据集应用分析"
 date:   2021-06-21
 tags: [YOLOv8,COCO128,检测,集上,数据]
 comments: true

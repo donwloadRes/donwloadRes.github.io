@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏-储能并网系统仿真资源"
+title: "光伏储能并网系统仿真资源"
 date:   2023-10-16
 tags: [储能,光伏,仿真,并网,SIMULINK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 操作 CSV 文件指南"
+title: "C 操作 CSV 文件指南"
 date:   2021-01-26
 tags: [CSV,逗号,DataGridView,sb,文件]
 comments: true

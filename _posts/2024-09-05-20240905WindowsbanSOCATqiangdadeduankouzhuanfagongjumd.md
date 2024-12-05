@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows版SOCAT：强大的端口转发工具"
+title: "Windows版SOCAT强大的端口转发工具"
 date:   2021-10-10
 tags: [SOCAT,Windows,转发,端口,IPV6]
 comments: true

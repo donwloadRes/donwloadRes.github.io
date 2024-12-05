@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制理论试题 - 考试试卷A、B卷"
+title: "现代控制理论试题  考试试卷AB卷"
 date:   2023-11-23
 tags: [试卷,理论,现代,考试,控制]
 comments: true

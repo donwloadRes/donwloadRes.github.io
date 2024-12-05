@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UG470 - 7 系列 FPGA 配置用户指南 中文翻译版"
+title: "UG470  7 系列 FPGA 配置用户指南 中文翻译版"
 date:   2022-03-03
 tags: [配置,FPGA,中文翻译,UG470,Xilinx]
 comments: true

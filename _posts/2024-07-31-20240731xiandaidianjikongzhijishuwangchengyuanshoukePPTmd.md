@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代电机控制技术 - 王成元 授课PPT"
+title: "现代电机控制技术  王成元 授课PPT"
 date:   2020-02-09
 tags: [控制技术,PPT,电机,三相,电动机]
 comments: true

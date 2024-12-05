@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "论系统工程----钱学森 资源下载"
+title: "论系统工程钱学森 资源下载"
 date:   2020-08-30
 tags: [系统工程,----,钱学森,下载,资源]
 comments: true

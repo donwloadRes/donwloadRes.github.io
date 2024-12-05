@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京市POI数据_超级全_已分类"
+title: "北京市POI数据超级全已分类"
 date:   2021-05-22
 tags: [GIS,数据,POI,分类,北京市]
 comments: true

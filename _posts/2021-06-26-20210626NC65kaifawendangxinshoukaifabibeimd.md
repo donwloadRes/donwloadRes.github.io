@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NC65开发文档 - 新手开发必备"
+title: "NC65开发文档  新手开发必备"
 date:   2022-03-20
 tags: [开发,NC65,文档,单据,业务]
 comments: true

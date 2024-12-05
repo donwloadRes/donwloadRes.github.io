@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CV第一篇：EDLines基础理论"
+title: "CV第一篇EDLines基础理论"
 date:   2020-04-04
 tags: [EDLines,线段,基础理论,算法,文件]
 comments: true

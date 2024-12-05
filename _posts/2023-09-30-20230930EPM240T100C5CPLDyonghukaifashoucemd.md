@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPM240T100C5-CPLD用户开发手册"
+title: "EPM240T100C5CPLD用户开发手册"
 date:   2020-01-30
 tags: [CPLD,EPM240T100C5,手册,开发,Quartus]
 comments: true

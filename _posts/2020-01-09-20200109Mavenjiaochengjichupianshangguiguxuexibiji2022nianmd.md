@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 教程：基础篇-尚硅谷学习笔记 2022年"
+title: "Maven 教程基础篇尚硅谷学习笔记 2022年"
 date:   2020-01-03
 tags: [Maven,教程,文件,硅谷,2022]
 comments: true

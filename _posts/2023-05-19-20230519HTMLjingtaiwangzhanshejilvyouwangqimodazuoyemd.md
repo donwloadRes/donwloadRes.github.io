@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML静态网站设计 - 旅游网（期末大作业）"
+title: "HTML静态网站设计  旅游网期末大作业"
 date:   2021-10-16
 tags: [网站,期末,页面,HTML,JavaScript]
 comments: true

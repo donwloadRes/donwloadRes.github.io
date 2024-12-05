@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云固件教程：云固件主程序与云固件镜像"
+title: "云固件教程云固件主程序与云固件镜像"
 date:   2021-12-30
 tags: [固件,镜像,主程序,教程,磁盘镜像]
 comments: true

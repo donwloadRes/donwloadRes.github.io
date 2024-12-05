@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiddler 编程猫专用插件 1.0.8 预览版"
+title: "Fiddler 编程猫专用插件 108 预览版"
 date:   2020-12-07
 tags: [插件,Fiddler,预览版,1.0,内存]
 comments: true

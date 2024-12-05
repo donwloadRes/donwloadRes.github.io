@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LochMaster 4.0 汉化版"
+title: "LochMaster 40 汉化版"
 date:   2022-07-18
 tags: [PDF,安装,汉化版,洞洞,LochMaster]
 comments: true

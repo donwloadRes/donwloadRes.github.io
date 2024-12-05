@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "流体力学（朗道）上下册合集"
+title: "流体力学朗道上下册合集"
 date:   2021-09-29
 tags: [流体力学,朗道,上下册,合集,资源]
 comments: true

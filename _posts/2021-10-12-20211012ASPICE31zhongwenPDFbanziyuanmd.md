@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASPICE 3.1中文PDF版资源"
+title: "ASPICE 31中文PDF版资源"
 date:   2021-08-24
 tags: [ASPICE,PDF,3.1,中文,软件开发]
 comments: true

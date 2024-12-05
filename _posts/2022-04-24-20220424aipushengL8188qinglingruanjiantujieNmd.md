@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L8188清零软件+图解N"
+title: "爱普生L8188清零软件图解N"
 date:   2021-04-23
 tags: [软件,清零,爱普生,L8188,打印机]
 comments: true

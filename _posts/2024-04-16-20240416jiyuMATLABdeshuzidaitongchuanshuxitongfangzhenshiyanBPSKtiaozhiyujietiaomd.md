@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的数字带通传输系统仿真实验（BPSK调制与解调）"
+title: "基于MATLAB的数字带通传输系统仿真实验BPSK调制与解调"
 date:   2024-06-30
 tags: [载波,10,码元,MATLAB,BPSK]
 comments: true

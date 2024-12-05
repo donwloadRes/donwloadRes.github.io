@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RS232转422-485原理图资源下载"
+title: "RS232转422485原理图资源下载"
 date:   2023-09-05
 tags: [原理图,RS232,485,422,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目管理办公室（PMO）实践指南分享"
+title: "项目管理办公室PMO实践指南分享"
 date:   2023-11-10
 tags: [PMO,文件,项目管理,实践,阅读]
 comments: true

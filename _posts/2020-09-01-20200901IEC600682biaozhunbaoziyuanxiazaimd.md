@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC60068-2标准包资源下载"
+title: "IEC600682标准包资源下载"
 date:   2023-06-30
 tags: [IEC60068,部分,标准,下载,解压]
 comments: true

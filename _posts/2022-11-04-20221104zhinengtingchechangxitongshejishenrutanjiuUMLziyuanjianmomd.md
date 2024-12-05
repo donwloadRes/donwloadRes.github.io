@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能停车场系统设计：深入探究UML资源建模"
+title: "智能停车场系统设计深入探究UML资源建模"
 date:   2024-01-06
 tags: [UML,设计,智能,停车场,系统]
 comments: true

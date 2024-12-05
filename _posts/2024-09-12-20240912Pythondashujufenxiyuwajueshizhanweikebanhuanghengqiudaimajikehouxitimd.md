@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python大数据分析与挖掘实战（微课版）黄恒秋 代码及课后习题"
+title: "Python大数据分析与挖掘实战微课版黄恒秋 代码及课后习题"
 date:   2023-10-17
 tags: [数据分析,Python,习题,学习,课后]
 comments: true

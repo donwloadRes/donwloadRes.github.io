@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA系统设计与验证实战指南 V3.0 下载"
+title: "FPGA系统设计与验证实战指南 V30 下载"
 date:   2021-12-13
 tags: [FPGA,指南,验证,V3.0,设计]
 comments: true

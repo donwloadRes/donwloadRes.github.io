@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "强化学习Q-Learning算法详解代码资源"
+title: "强化学习QLearning算法详解代码资源"
 date:   2023-01-25
 tags: [Learning,代码,算法,示例,仓库]
 comments: true

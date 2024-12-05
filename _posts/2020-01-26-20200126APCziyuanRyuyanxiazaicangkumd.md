@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APC资源-R语言下载仓库"
+title: "APC资源R语言下载仓库"
 date:   2021-05-13
 tags: [APC,解压,资源,语言,下载]
 comments: true

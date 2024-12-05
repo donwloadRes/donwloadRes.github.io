@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华大HC32单片机J-Flash补丁包"
+title: "华大HC32单片机JFlash补丁包"
 date:   2024-02-24
 tags: [Flash,补丁包,华大,HC32,单片机]
 comments: true

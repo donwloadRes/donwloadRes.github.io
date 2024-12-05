@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理 (NLP) 资源下载"
+title: "自然语言处理 NLP 资源下载"
 date:   2022-11-14
 tags: [NLP,自然语言,处理,下载,分词]
 comments: true

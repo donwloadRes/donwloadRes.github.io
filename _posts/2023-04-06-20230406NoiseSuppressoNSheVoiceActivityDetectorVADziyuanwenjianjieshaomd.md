@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Noise Suppresso(NS) 和 Voice Activity Detector(VAD) 资源文件介绍"
+title: "Noise SuppressoNS 和 Voice Activity DetectorVAD 资源文件介绍"
 date:   2024-09-20
 tags: [语音,文件,NS,VAD,编译]
 comments: true

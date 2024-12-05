@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT232H, FT2232H & FT4232H 应用笔记下载"
+title: "FT232H FT2232H  FT4232H 应用笔记下载"
 date:   2023-04-11
 tags: [FT232H,FT2232H,FT4232H,笔记,应用]
 comments: true

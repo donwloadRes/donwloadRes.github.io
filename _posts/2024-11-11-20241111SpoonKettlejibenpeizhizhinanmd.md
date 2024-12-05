@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spoon(Kettle)基本配置指南"
+title: "SpoonKettle基本配置指南"
 date:   2021-10-22
 tags: [Spoon,数据库,Kettle,MySQL,Oracle]
 comments: true

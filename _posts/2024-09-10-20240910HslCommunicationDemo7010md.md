@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HslCommunicationDemo 7.0.1.0"
+title: "HslCommunicationDemo 7010"
 date:   2021-03-30
 tags: [文档,HslCommunicationDemo,1.0,DLL,7.0]
 comments: true

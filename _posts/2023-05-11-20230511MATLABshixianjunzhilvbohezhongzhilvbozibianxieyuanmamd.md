@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现均值滤波和中值滤波（自编写源码）"
+title: "MATLAB实现均值滤波和中值滤波自编写源码"
 date:   2021-08-15
 tags: [滤波,中值,均值,MATLAB,test]
 comments: true

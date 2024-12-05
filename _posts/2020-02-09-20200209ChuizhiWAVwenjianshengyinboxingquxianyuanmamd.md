@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++绘制WAV文件声音波形曲线源码"
+title: "C绘制WAV文件声音波形曲线源码"
 date:   2022-05-11
 tags: [WAV,音频,C++,图形库,波形]
 comments: true

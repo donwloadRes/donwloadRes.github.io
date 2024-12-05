@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++压缩解压zip文件（支持密码）"
+title: "VC压缩解压zip文件支持密码"
 date:   2022-12-17
 tags: [解压,zip,文件,压缩,密码]
 comments: true

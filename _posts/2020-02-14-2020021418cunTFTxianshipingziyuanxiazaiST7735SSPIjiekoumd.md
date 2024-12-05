@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.8寸TFT显示屏 资源下载（ST7735S SPI接口）"
+title: "18寸TFT显示屏 资源下载ST7735S SPI接口"
 date:   2024-05-09
 tags: [代码,STM32,显示屏,驱动,1.8]
 comments: true

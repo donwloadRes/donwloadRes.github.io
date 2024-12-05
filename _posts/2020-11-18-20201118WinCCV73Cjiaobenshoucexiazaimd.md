@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinCC V7.3 C脚本手册下载"
+title: "WinCC V73 C脚本手册下载"
 date:   2022-02-20
 tags: [WINCC,7.3,手册,脚本,函数]
 comments: true

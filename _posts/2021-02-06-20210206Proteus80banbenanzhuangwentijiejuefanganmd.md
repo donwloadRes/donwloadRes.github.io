@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.0+版本安装问题解决方案"
+title: "Proteus 80版本安装问题解决方案"
 date:   2023-06-08
 tags: [Proteus,安装,版本,8.0,Windows]
 comments: true

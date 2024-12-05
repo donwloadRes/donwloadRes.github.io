@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# S7-200smartPLC 上位机代码"
+title: "C S7200smartPLC 上位机代码"
 date:   2021-08-02
 tags: [上位,源代码,电机,PLC,C#]
 comments: true

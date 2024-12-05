@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子 S7-1200 PLC 交通灯程序"
+title: "西门子 S71200 PLC 交通灯程序"
 date:   2024-04-18
 tags: [交通灯,PLC,绿灯,信号灯,按钮]
 comments: true

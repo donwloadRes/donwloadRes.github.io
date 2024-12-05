@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN总线嵌入式开发——从入门到实践"
+title: "CAN总线嵌入式开发从入门到实践"
 date:   2021-07-22
 tags: [总线,嵌入式,实践,示例,电路图]
 comments: true

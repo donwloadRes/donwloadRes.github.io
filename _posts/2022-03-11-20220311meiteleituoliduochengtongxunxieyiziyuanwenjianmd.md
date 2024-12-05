@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "梅特勒-托利多秤通讯协议资源文件"
+title: "梅特勒托利多秤通讯协议资源文件"
 date:   2022-11-25
 tags: [托利多,梅特勒,文件,通讯,协议]
 comments: true

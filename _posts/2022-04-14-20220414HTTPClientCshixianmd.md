@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTTP Client C++实现"
+title: "HTTP Client C实现"
 date:   2022-12-13
 tags: [HTTP,C++,客户端,文件,CHttpClient]
 comments: true

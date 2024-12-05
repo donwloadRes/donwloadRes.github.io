@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用sharp7读写S7-1200寄存器模块数据的简单例程"
+title: "C使用sharp7读写S71200寄存器模块数据的简单例程"
 date:   2021-09-01
 tags: [PLC,例程,寄存器,sharp7,S7]
 comments: true

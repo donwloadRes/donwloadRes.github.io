@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO15031-6-2015 国际标准资源文件"
+title: "ISO1503162015 国际标准资源文件"
 date:   2020-06-06
 tags: [ISO15031,2015,文件,pdf,标准]
 comments: true

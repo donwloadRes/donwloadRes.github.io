@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 UART接收NEMA语句并提取时间、经纬度等数据"
+title: "STM32 UART接收NEMA语句并提取时间经纬度等数据"
 date:   2020-07-01
 tags: [调试,经纬度,模块,K8,语句]
 comments: true

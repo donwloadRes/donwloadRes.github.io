@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103的0.96寸OLED液晶屏驱动（IIC通讯）"
+title: "基于STM32F103的096寸OLED液晶屏驱动IIC通讯"
 date:   2023-12-15
 tags: [OLED,IIC,屏幕,STM32F103,初始化]
 comments: true

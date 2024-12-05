@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "室内定位技术-UWB资源下载"
+title: "室内定位技术UWB资源下载"
 date:   2023-03-30
 tags: [UWB,技术,室内,定位,无线]
 comments: true

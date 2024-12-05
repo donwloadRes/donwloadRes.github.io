@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全选择题题库 (CTF 63w字)"
+title: "网络安全选择题题库 CTF 63w字"
 date:   2021-08-02
 tags: [题库,网络安全,选择题,CTF,文件]
 comments: true

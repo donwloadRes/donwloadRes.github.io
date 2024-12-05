@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：村庄规划生成空间功能结构调整表"
+title: "ArcGIS Pro二次开发村庄规划生成空间功能结构调整表"
 date:   2024-05-31
 tags: [规划,用地,工具,功能,村庄]
 comments: true

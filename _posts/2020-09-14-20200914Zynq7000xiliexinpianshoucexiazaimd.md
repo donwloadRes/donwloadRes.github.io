@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000 系列芯片手册下载"
+title: "Zynq7000 系列芯片手册下载"
 date:   2022-07-24
 tags: [Zynq,7000,芯片,TRM,手册]
 comments: true

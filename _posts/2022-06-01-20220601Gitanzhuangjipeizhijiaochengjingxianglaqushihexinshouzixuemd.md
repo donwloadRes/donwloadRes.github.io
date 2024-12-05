@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git 安装及配置教程，镜像拉取，适合新手自学"
+title: "Git 安装及配置教程镜像拉取适合新手自学"
 date:   2022-05-11
 tags: [Git,教程,镜像,拉取,配置]
 comments: true

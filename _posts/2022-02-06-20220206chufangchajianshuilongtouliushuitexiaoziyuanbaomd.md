@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "厨房插件+水龙头流水特效资源包"
+title: "厨房插件水龙头流水特效资源包"
 date:   2020-07-07
 tags: [平底锅,Unity,效果,厨房,插件]
 comments: true

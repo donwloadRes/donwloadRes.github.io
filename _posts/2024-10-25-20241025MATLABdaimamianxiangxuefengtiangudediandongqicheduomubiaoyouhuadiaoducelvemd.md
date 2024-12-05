@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：面向削峰填谷的电动汽车多目标优化调度策略"
+title: "MATLAB代码面向削峰填谷的电动汽车多目标优化调度策略"
 date:   2024-08-10
 tags: [削峰,填谷,电动汽车,优化,MATLAB]
 comments: true

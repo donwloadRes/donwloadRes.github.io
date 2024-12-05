@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows环境下32位汇编语言程序设计(典藏版)配套光盘（罗云彬）"
+title: "Windows环境下32位汇编语言程序设计典藏版配套光盘罗云彬"
 date:   2023-11-17
 tags: [光盘,汇编语言,32,Windows,典藏版]
 comments: true

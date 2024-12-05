@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通向AGI之路：大型语言模型（LLM）技术精要"
+title: "通向AGI之路大型语言模型LLM技术精要"
 date:   2021-05-16
 tags: [LLM,AGI,模型,语言,精要]
 comments: true

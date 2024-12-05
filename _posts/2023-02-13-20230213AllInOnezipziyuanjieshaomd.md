@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AllInOne.zip资源介绍"
+title: "AllInOnezip资源介绍"
 date:   2024-07-14
 tags: [WebSocket,客户端,服务端,MFC,H5]
 comments: true

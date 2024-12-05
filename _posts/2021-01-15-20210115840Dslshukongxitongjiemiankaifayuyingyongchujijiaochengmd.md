@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "840Dsl 数控系统界面开发与应用(初级教程)"
+title: "840Dsl 数控系统界面开发与应用初级教程"
 date:   2024-10-19
 tags: [界面,数控系统,840Dsl,开发,Qt]
 comments: true

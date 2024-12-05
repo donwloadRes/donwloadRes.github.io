@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP考试注意事项-考前必看"
+title: "CSP考试注意事项考前必看"
 date:   2023-12-05
 tags: [考试,CSP,考生,注意事项,心态]
 comments: true

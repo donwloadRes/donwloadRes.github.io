@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AK-EGAS-v6 三层安全架构 最新标准"
+title: "AKEGASv6 三层安全架构 最新标准"
 date:   2020-06-07
 tags: [安全,v6,标准,AK,EGAS]
 comments: true

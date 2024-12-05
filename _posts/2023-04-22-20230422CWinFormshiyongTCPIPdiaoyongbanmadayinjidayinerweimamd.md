@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 使用 TCP-IP 调用斑马打印机打印二维码"
+title: "C WinForm 使用 TCPIP 调用斑马打印机打印二维码"
 date:   2023-02-25
 tags: [打印机,IP,TCP,二维码,ping]
 comments: true

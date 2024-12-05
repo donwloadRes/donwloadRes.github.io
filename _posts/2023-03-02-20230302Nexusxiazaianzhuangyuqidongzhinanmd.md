@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nexus 下载、安装与启动指南"
+title: "Nexus 下载安装与启动指南"
 date:   2020-11-14
 tags: [Nexus,启动,nexus,下载,仓库]
 comments: true

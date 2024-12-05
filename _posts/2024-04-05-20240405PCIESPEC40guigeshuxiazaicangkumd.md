@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE SPEC 4.0 规格书下载仓库"
+title: "PCIE SPEC 40 规格书下载仓库"
 date:   2023-03-11
 tags: [规格书,4.0,PCI,Express,PCIE]
 comments: true

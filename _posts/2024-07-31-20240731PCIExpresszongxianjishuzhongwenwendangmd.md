@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI-Express 总线技术中文文档"
+title: "PCIExpress 总线技术中文文档"
 date:   2021-10-02
 tags: [PCI,总线,文档,Express,技术]
 comments: true

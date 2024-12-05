@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MatLab 下载、安装与使用指南"
+title: "MatLab 下载安装与使用指南"
 date:   2024-05-22
 tags: [MatLab,安装,下载,提供,步骤]
 comments: true

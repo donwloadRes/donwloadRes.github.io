@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB车牌识别代码 - 完整源码"
+title: "MATLAB车牌识别代码  完整源码"
 date:   2021-10-23
 tags: [车牌,识别,MATLAB,代码,模板]
 comments: true

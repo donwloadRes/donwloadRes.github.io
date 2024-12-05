@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FC2视频下载器 - fc2_get"
+title: "FC2视频下载器  fc2get"
 date:   2022-02-03
 tags: [fc2,get,视频,下载,FC2]
 comments: true

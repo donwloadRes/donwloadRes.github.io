@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libplctag-csharp-master C#操作AB PLC 资源文件介绍"
+title: "libplctagcsharpmaster C操作AB PLC 资源文件介绍"
 date:   2023-04-22
 tags: [PLC,AB,文件,C#,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "业务分析知识体系指南（中文版）-BABOK 下载仓库"
+title: "业务分析知识体系指南中文版BABOK 下载仓库"
 date:   2021-05-12
 tags: [指南,业务,分析,BABOK,中文版]
 comments: true

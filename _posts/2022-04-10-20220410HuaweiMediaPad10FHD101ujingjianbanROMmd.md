@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Huawei MediaPad 10 FHD(101u) 精简版ROM"
+title: "Huawei MediaPad 10 FHD101u 精简版ROM"
 date:   2020-07-10
 tags: [精简版,ROM,刷机,MediaPad,10]
 comments: true

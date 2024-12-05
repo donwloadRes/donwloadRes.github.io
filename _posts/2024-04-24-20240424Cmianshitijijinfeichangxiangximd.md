@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面试题集锦（非常详细）"
+title: "C面试题集锦非常详细"
 date:   2023-06-22
 tags: [C++,面试,面试题,集锦,题目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现三维空间中的几何距离计算"
+title: "C实现三维空间中的几何距离计算"
 date:   2023-08-07
 tags: [Point,计算,距离,三维空间,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python雷电模拟器脚本说明[附代码]"
+title: "Python雷电模拟器脚本说明附代码"
 date:   2024-04-17
 tags: [Python,模拟器,脚本,雷电,自动化]
 comments: true

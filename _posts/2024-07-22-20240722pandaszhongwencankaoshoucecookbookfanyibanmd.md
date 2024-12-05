@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pandas中文参考手册（cookbook翻译版）"
+title: "pandas中文参考手册cookbook翻译版"
 date:   2020-07-07
 tags: [pandas,参考手册,cookbook,中文,本手册]
 comments: true

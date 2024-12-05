@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.STM32L1xx_DFP.1.4.1 资源文件下载"
+title: "KeilSTM32L1xxDFP141 资源文件下载"
 date:   2022-04-23
 tags: [Keil,STM32L1xx,DFP.1,4.1,文件]
 comments: true

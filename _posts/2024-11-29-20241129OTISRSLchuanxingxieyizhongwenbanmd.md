@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OTIS-RSL串行协议-中文版"
+title: "OTISRSL串行协议中文版"
 date:   2024-07-31
 tags: [OTIS,文档,协议,RSL,串行]
 comments: true

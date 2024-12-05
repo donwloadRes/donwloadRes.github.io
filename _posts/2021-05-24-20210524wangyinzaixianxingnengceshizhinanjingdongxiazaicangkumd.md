@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网银在线性能测试指南（京东）下载仓库"
+title: "网银在线性能测试指南京东下载仓库"
 date:   2023-06-30
 tags: [性能,测试,指南,方法,京东]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XML解析工具 - TinyXML"
+title: "XML解析工具  TinyXML"
 date:   2022-08-15
 tags: [XML,TinyXML,解析,文件,跨平台]
 comments: true

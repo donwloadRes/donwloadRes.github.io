@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法导论 第四版》资源下载"
+title: "算法导论 第四版资源下载"
 date:   2020-09-20
 tags: [第四版,算法,PDF,导论,下载]
 comments: true

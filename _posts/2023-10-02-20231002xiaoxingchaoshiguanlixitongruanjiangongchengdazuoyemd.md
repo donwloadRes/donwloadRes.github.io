@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小型超市管理系统【软件工程大作业】"
+title: "小型超市管理系统软件工程大作业"
 date:   2020-09-04
 tags: [超市,软件工程,管理系统,小型,管理]
 comments: true

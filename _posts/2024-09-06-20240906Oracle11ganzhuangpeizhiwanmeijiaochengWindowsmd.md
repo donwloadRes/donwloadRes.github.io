@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11g 安装配置完美教程 - Windows"
+title: "Oracle 11g 安装配置完美教程  Windows"
 date:   2022-05-25
 tags: [安装,Oracle,11g,配置,教程]
 comments: true

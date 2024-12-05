@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenWrt x86-64 纯净版本固件"
+title: "OpenWrt x8664 纯净版本固件"
 date:   2020-06-13
 tags: [网卡,AX,固件,200,无线]
 comments: true

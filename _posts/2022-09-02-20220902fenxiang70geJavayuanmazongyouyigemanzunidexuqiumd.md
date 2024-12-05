@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享70个Java源码：总有一个满足你的需求"
+title: "分享70个Java源码总有一个满足你的需求"
 date:   2020-11-02
 tags: [Java,源码,70,项目,系统]
 comments: true

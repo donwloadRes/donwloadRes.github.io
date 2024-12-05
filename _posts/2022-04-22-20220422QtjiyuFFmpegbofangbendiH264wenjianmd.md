@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt基于FFmpeg播放本地H.264文件"
+title: "Qt基于FFmpeg播放本地H264文件"
 date:   2024-10-19
 tags: [FFmpeg,Qt,H.264,文件,播放]
 comments: true

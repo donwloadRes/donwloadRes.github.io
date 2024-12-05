@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何将PyQt（pyqt-tools）中的Qt Designer改为中文界面（汉化）"
+title: "如何将PyQtpyqttools中的Qt Designer改为中文界面汉化"
 date:   2020-05-16
 tags: [Qt,Designer,汉化,文件,界面]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BurpSuite v2.1（含中文版）保姆级安装与使用指南"
+title: "BurpSuite v21含中文版保姆级安装与使用指南"
 date:   2022-11-12
 tags: [BurpSuite,安装,v2.1,JDK,使用]
 comments: true

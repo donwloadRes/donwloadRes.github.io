@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Python在Minecraft（我的世界）中编程——开发环境搭建"
+title: "用Python在Minecraft我的世界中编程开发环境搭建"
 date:   2021-02-22
 tags: [Minecraft,Python,编程,Java,git]
 comments: true

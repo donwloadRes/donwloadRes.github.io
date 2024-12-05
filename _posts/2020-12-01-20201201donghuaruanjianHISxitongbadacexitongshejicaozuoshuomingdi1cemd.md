@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东华软件-HIS系统八大册-系统设计操作说明-第1册"
+title: "东华软件HIS系统八大册系统设计操作说明第1册"
 date:   2020-12-18
 tags: [系统,病历,电子,操作,东华]
 comments: true

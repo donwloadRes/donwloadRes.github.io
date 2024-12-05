@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C# WinForm的可视化打印标签模板设计器及LabVIEW与C#调用模板Demo"
+title: "基于C WinForm的可视化打印标签模板设计器及LabVIEW与C调用模板Demo"
 date:   2021-12-27
 tags: [打印,模板,标签,C#,LabVIEW]
 comments: true

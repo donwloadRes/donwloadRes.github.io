@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红月3.8c服务器端+GM工具+ASP网站源码"
+title: "红月38c服务器端GM工具ASP网站源码"
 date:   2024-02-18
 tags: [ASP,源码,红月,服务器,游戏]
 comments: true

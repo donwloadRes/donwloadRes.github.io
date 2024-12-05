@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "胡伟武计算机体系结构》习题答案资源"
+title: "胡伟武计算机体系结构习题答案资源"
 date:   2024-11-22
 tags: [习题,体系结构,答案,学习,计算机]
 comments: true

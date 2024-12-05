@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD键盘侠：CAD画图输入法自动切换工具"
+title: "CAD键盘侠CAD画图输入法自动切换工具"
 date:   2024-08-06
 tags: [输入法,CAD,键盘,切换,输入]
 comments: true

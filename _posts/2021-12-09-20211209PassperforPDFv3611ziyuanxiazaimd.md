@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Passper for PDF v3.6.1.1 资源下载"
+title: "Passper for PDF v3611 资源下载"
 date:   2022-02-23
 tags: [PDF,1.1,v3.6,7z,Passper]
 comments: true

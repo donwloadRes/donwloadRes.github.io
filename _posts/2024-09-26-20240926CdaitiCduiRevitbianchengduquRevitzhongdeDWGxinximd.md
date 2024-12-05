@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++代替C#对Revit编程：读取Revit中的DWG信息"
+title: "C代替C对Revit编程读取Revit中的DWG信息"
 date:   2021-06-26
 tags: [Revit,C++,DWG,pt1,pt2]
 comments: true

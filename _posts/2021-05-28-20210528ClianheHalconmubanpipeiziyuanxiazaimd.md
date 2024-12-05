@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#联合Halcon模板匹配资源下载"
+title: "C联合Halcon模板匹配资源下载"
 date:   2020-06-02
 tags: [Halcon,C#,模板,匹配,文件]
 comments: true

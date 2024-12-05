@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 32位 VC++ 6.0 SP6补丁包"
+title: "Windows 32位 VC 60 SP6补丁包"
 date:   2023-09-21
 tags: [补丁包,6.0,C++,32,Windows]
 comments: true

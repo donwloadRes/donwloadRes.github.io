@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017_DSLS_SSQ 资源库下载"
+title: "2017DSLSSSQ 资源库下载"
 date:   2023-10-24
 tags: [资源库,DSLS,SSQ,2017,解压]
 comments: true

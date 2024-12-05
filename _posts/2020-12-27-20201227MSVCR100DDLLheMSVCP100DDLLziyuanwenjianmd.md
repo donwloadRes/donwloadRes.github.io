@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSVCR100D.DLL 和 MSVCP100D.DLL 资源文件"
+title: "MSVCR100DDLL 和 MSVCP100DDLL 资源文件"
 date:   2021-11-21
 tags: [dll,文件,msvcr100d,msvcp100d,应用程序]
 comments: true

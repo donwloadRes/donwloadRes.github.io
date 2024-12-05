@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你制作Ubuntu系统备份文件（ISO制作）"
+title: "手把手教你制作Ubuntu系统备份文件ISO制作"
 date:   2023-06-05
 tags: [ISO,系统,备份文件,制作,Ubuntu]
 comments: true

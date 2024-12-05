@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt图像处理工具：图像读取、显示及坐标与像素值获取"
+title: "Qt图像处理工具图像读取显示及坐标与像素值获取"
 date:   2020-05-28
 tags: [Qt,图像,读取,像素,坐标]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infovision iWork-Safety 安全生产管理平台 配置手册"
+title: "Infovision iWorkSafety 安全生产管理平台 配置手册"
 date:   2023-04-16
 tags: [手册,Safety,Infovision,iWork,平台]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件定义无线电与Zynq Ultrascale+ RFSoC"
+title: "软件定义无线电与Zynq Ultrascale RFSoC"
 date:   2022-12-29
 tags: [RFSoC,本书,无线电,射频,软件]
 comments: true

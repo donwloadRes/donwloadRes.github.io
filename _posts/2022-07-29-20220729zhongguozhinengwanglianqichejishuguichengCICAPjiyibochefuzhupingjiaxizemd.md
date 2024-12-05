@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国智能网联汽车技术规程（C-ICAP）- 记忆泊车辅助评价细则"
+title: "中国智能网联汽车技术规程CICAP 记忆泊车辅助评价细则"
 date:   2020-04-15
 tags: [技术规程,泊车,智能网,评价,记忆]
 comments: true

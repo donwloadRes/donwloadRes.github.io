@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多SDR GPS模拟器 - Multi-SDR-GPS-Sim"
+title: "多SDR GPS模拟器  MultiSDRGPSSim"
 date:   2021-06-03
 tags: [GPS,SDR,信号,模拟,Multi]
 comments: true

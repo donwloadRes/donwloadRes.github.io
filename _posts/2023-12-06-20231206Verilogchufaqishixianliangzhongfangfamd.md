@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog除法器实现（两种方法）"
+title: "Verilog除法器实现两种方法"
 date:   2020-12-06
 tags: [除法器,Verilog,实验报告,仿真,Modelsim]
 comments: true

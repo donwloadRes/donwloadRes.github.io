@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞桨Paddle 2.0安装报错解决方案"
+title: "飞桨Paddle 20安装报错解决方案"
 date:   2024-06-24
 tags: [PaddlePaddle,安装,Python,飞桨,DLL]
 comments: true

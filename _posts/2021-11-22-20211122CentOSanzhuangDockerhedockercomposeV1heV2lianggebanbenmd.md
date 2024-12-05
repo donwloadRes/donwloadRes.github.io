@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 安装 Docker 和 docker-compose（V1和V2两个版本）"
+title: "CentOS 安装 Docker 和 dockercomposeV1和V2两个版本"
 date:   2021-03-10
 tags: [Docker,安装,docker,compose,版本]
 comments: true

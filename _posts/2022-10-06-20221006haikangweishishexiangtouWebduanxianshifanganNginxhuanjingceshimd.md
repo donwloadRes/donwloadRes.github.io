@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视摄像头Web端显示方案（Nginx环境测试）"
+title: "海康威视摄像头Web端显示方案Nginx环境测试"
 date:   2020-11-12
 tags: [Nginx,摄像头,威视,Web,海康]
 comments: true

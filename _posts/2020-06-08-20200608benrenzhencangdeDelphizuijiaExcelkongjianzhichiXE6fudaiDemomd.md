@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本人珍藏的Delphi最佳Excel控件（支持XE6，附带Demo）"
+title: "本人珍藏的Delphi最佳Excel控件支持XE6附带Demo"
 date:   2022-05-09
 tags: [控件,Delphi,Demo,Excel,XE6]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FT-2000四核处理器软件编程手册"
+title: "FT2000四核处理器软件编程手册"
 date:   2021-02-08
 tags: [FT,2000,四核,处理器,编程]
 comments: true

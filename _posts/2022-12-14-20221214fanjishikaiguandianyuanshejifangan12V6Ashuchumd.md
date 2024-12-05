@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反激式开关电源设计方案（12V6A输出）"
+title: "反激式开关电源设计方案12V6A输出"
 date:   2021-03-10
 tags: [PCB,原理图,设计方案,设计,文件]
 comments: true

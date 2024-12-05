@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amplify Shader Editor v1.9.1.5 资源文件"
+title: "Amplify Shader Editor v1915 资源文件"
 date:   2021-06-28
 tags: [Amplify,Shader,Editor,1.5,v1.9]
 comments: true

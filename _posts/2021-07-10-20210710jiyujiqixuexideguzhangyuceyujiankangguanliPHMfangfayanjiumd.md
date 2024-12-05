@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于机器学习的故障预测与健康管理（PHM）方法研究"
+title: "基于机器学习的故障预测与健康管理PHM方法研究"
 date:   2024-06-13
 tags: [PHM,学习,机器,故障,预测]
 comments: true

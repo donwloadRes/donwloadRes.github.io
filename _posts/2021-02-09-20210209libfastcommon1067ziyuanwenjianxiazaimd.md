@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libfastcommon-1.0.67 资源文件下载"
+title: "libfastcommon1067 资源文件下载"
 date:   2022-07-13
 tags: [libfastcommon,1.0,67,FastDFS,版本]
 comments: true

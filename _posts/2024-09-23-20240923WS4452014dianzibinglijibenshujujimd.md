@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WS 445-2014 电子病历基本数据集"
+title: "WS 4452014 电子病历基本数据集"
 date:   2022-01-26
 tags: [病历,电子,数据,2014,WS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云体系架构介绍 - PPT版"
+title: "阿里云体系架构介绍  PPT版"
 date:   2023-10-12
 tags: [PPT,架构,阿里,体系,演示]
 comments: true

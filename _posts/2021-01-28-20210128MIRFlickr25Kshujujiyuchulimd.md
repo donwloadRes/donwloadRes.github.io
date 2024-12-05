@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIR-Flickr25K数据集预处理"
+title: "MIRFlickr25K数据集预处理"
 date:   2024-06-09
 tags: [MIR,Flickr25K,标签,预处理,im]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB神经网络原理与实例精解》随书附带源程序"
+title: "MATLAB神经网络原理与实例精解随书附带源程序"
 date:   2020-06-03
 tags: [MATLAB,神经网络,实例,精解,源代码]
 comments: true

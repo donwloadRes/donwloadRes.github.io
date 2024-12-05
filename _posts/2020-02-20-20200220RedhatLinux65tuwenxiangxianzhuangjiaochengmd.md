@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redhat Linux 6.5 图文详细安装教程"
+title: "Redhat Linux 65 图文详细安装教程"
 date:   2024-05-13
 tags: [安装,虚拟机,Redhat,Linux,6.5]
 comments: true

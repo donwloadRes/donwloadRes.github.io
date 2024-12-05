@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川-IES100T500储能变流器用户手册"
+title: "汇川IES100T500储能变流器用户手册"
 date:   2021-07-09
 tags: [储能,变流器,用户手册,IES100T500,汇川]
 comments: true

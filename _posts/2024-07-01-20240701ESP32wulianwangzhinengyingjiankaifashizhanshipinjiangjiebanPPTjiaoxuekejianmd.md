@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32物联网智能硬件开发实战（视频讲解版）-PPT教学课件"
+title: "ESP32物联网智能硬件开发实战视频讲解版PPT教学课件"
 date:   2022-10-11
 tags: [ESP32,课件,PPT,讲解,硬件]
 comments: true

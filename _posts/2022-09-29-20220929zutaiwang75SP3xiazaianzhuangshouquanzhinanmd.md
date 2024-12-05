@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王7.5 SP3下载安装授权指南"
+title: "组态王75 SP3下载安装授权指南"
 date:   2023-01-02
 tags: [安装,授权,组态王,7.5,SP3]
 comments: true

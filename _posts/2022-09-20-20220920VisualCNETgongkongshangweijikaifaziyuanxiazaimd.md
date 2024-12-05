@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C# .NET 工控上位机开发资源下载"
+title: "Visual C NET 工控上位机开发资源下载"
 date:   2023-03-13
 tags: [工控,NET,上位,Visual,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KITTI数据集转化为VOC数据集，用于YOLO训练"
+title: "KITTI数据集转化为VOC数据集用于YOLO训练"
 date:   2024-06-27
 tags: [KITTI,数据,VOC,YOLO,转换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "geopandas安装包（Python 3.9）"
+title: "geopandas安装包Python 39"
 date:   2022-05-11
 tags: [安装包,geopandas,Python,安装,3.9]
 comments: true

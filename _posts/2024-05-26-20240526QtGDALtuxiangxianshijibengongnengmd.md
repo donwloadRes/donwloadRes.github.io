@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+GDAL图像显示基本功能"
+title: "QtGDAL图像显示基本功能"
 date:   2023-07-09
 tags: [Qt,图像,GDAL,加载,漫游]
 comments: true

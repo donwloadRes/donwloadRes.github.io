@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新AI创作系统V5.0.3 资源下载"
+title: "最新AI创作系统V503 资源下载"
 date:   2023-07-10
 tags: [AI,用户,网站,绘画,功能]
 comments: true

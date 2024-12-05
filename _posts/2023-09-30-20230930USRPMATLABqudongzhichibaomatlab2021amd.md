@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USRP MATLAB 驱动支持包 (matlab2021a)"
+title: "USRP MATLAB 驱动支持包 matlab2021a"
 date:   2023-07-23
 tags: [MATLAB,文件,解压,下载,USRP]
 comments: true

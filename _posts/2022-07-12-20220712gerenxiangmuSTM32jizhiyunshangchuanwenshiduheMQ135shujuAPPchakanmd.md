@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "个人项目-STM32+机智云上传温湿度和MQ135数据，APP查看"
+title: "个人项目STM32机智云上传温湿度和MQ135数据APP查看"
 date:   2020-07-10
 tags: [温湿度,模块,数据,上传,APP]
 comments: true

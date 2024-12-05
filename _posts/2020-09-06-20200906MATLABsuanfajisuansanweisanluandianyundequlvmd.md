@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB算法：计算三维散乱点云的曲率"
+title: "MATLAB算法计算三维散乱点云的曲率"
 date:   2020-01-31
 tags: [点云,曲率,算法,计算,三维]
 comments: true

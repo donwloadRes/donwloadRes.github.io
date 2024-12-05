@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET课程-学生信息管理系统实验报告"
+title: "ASPNET课程学生信息管理系统实验报告"
 date:   2023-08-29
 tags: [信息管理系统,ASP,NET,学生,实验报告]
 comments: true

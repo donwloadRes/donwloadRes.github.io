@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT.fx和MQTTX 链接ONENET物联网开发平台避坑细节干货"
+title: "MQTTfx和MQTTX 链接ONENET物联网开发平台避坑细节干货"
 date:   2023-10-31
 tags: [ID,ONENET,设备,名称,MQTT]
 comments: true

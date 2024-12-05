@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F401CCU6 SPI接口访问SD卡-TF卡范例代码"
+title: "STM32F401CCU6 SPI接口访问SD卡TF卡范例代码"
 date:   2020-08-11
 tags: [SPI,SD,TF,代码,接口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "教你玩转渗透测试靶机——Metasploitable2"
+title: "教你玩转渗透测试靶机Metasploitable2"
 date:   2021-01-25
 tags: [测试,Metasploitable2,渗透,虚拟机,安装包]
 comments: true

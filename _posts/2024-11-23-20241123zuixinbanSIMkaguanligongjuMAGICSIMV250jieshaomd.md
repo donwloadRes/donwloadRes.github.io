@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版SIM卡管理工具MAGICSIM V25.0 介绍"
+title: "最新版SIM卡管理工具MAGICSIM V250 介绍"
 date:   2023-06-08
 tags: [SIM卡,最新版,MAGICSIM,V25.0,管理工具]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F1-HAL库快速移植MPU6050"
+title: "F1HAL库快速移植MPU6050"
 date:   2021-08-08
 tags: [MPU6050,HAL,STM32,移植,串口]
 comments: true

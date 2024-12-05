@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计、分析和模拟电子电路的强大工具PSIM 2023版本下载安装教程"
+title: "设计分析和模拟电子电路的强大工具PSIM 2023版本下载安装教程"
 date:   2023-05-25
 tags: [注册表,教程,PSIM,2023,安装]
 comments: true

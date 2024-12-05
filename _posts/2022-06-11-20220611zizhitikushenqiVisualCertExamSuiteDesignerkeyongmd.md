@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自制题库神器——Visual CertExam Suite（Designer 可用）"
+title: "自制题库神器Visual CertExam SuiteDesigner 可用"
 date:   2022-04-29
 tags: [题库,考试,自制,Visual,CertExam]
 comments: true

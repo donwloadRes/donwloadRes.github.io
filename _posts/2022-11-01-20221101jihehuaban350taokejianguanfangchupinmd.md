@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "几何画板350套课件-官方出品"
+title: "几何画板350套课件官方出品"
 date:   2023-06-11
 tags: [课件,画板,几何,350,学习]
 comments: true

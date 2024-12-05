@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RFID读写器开发指南-Java1"
+title: "RFID读写器开发指南Java1"
 date:   2020-03-11
 tags: [RFID,读写器,指南,开发,开发者]
 comments: true

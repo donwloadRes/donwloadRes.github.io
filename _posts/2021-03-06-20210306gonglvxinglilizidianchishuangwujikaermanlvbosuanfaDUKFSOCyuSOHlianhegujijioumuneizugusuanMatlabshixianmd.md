@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功率型锂离子电池双无迹卡尔曼滤波算法(DUKF) SOC与SOH联合估计及欧姆内阻估算Matlab实现"
+title: "功率型锂离子电池双无迹卡尔曼滤波算法DUKF SOC与SOH联合估计及欧姆内阻估算Matlab实现"
 date:   2023-11-20
 tags: [电池,算法,SOH,卡尔曼滤波,DUKF]
 comments: true

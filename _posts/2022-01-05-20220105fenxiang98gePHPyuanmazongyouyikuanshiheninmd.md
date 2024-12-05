@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享98个PHP源码，总有一款适合您"
+title: "分享98个PHP源码总有一款适合您"
 date:   2023-06-20
 tags: [源码,PHP,文件,98,项目]
 comments: true

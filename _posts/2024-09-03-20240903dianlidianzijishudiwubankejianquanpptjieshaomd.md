@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术第五版 课件-全.ppt 介绍"
+title: "电力电子技术第五版 课件全ppt 介绍"
 date:   2020-10-14
 tags: [课件,第五版,电力,电子,学习]
 comments: true

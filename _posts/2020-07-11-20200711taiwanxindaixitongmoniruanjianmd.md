@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台湾新代系统 + 模拟软件"
+title: "台湾新代系统  模拟软件"
 date:   2022-03-20
 tags: [模拟,新代,软件,系统,PLC]
 comments: true

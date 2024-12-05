@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTC2944库仑计芯片使用说明书（中文版）"
+title: "LTC2944库仑计芯片使用说明书中文版"
 date:   2021-01-02
 tags: [说明书,LTC2944,库仑计,手册,芯片]
 comments: true

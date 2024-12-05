@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 中文文档下载"
+title: "MySQL 57 中文文档下载"
 date:   2022-09-12
 tags: [文档,中文,MySQL,5.7,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "180KW一体式充电桩（PADS）资源下载"
+title: "180KW一体式充电桩PADS资源下载"
 date:   2024-04-11
 tags: [充电,PCB,原理图,PADS,设计]
 comments: true

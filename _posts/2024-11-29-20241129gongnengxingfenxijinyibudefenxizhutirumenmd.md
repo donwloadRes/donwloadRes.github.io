@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功能性分析：进一步的分析主题入门"
+title: "功能性分析进一步的分析主题入门"
 date:   2024-01-10
 tags: [分析,功能性,入门,理论,进一步]
 comments: true

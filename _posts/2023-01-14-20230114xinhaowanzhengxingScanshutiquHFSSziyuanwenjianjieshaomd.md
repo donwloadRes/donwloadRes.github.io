@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性+S参数提取+HFSS 资源文件介绍"
+title: "信号完整性S参数提取HFSS 资源文件介绍"
 date:   2023-03-13
 tags: [HFSS,3D,仿真,模型,参数]
 comments: true

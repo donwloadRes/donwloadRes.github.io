@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性控制系统理论基础 - 李殿璞"
+title: "非线性控制系统理论基础  李殿璞"
 date:   2023-08-04
 tags: [非线性,理论,控制系统,李殿,控制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLEAN-SC波束形成声源识别及改进资源下载"
+title: "CLEANSC波束形成声源识别及改进资源下载"
 date:   2020-08-06
 tags: [CLEAN,SC,算法,声源,识别]
 comments: true

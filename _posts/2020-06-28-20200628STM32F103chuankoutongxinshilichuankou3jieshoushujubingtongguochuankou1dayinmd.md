@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103串口通信示例：串口3接收数据并通过串口1打印"
+title: "STM32F103串口通信示例串口3接收数据并通过串口1打印"
 date:   2022-03-05
 tags: [串口,STM32F103ZET6,模块,ESP8266,接收]
 comments: true

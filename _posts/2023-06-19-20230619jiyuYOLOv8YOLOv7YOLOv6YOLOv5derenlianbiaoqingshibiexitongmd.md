@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOv8-YOLOv7-YOLOv6-YOLOv5的人脸表情识别系统"
+title: "基于YOLOv8YOLOv7YOLOv6YOLOv5的人脸表情识别系统"
 date:   2021-04-24
 tags: [界面,模型,人脸,用户,表情]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP PO-PI教程 - 过程编排全面指南"
+title: "SAP POPI教程  过程编排全面指南"
 date:   2021-07-01
 tags: [SAP,PI,PO,教程,Process]
 comments: true

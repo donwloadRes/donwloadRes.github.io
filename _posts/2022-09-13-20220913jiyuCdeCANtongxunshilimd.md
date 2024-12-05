@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的CAN通讯示例"
+title: "基于C的CAN通讯示例"
 date:   2021-04-21
 tags: [示例,C#,通讯,测试,硬件]
 comments: true

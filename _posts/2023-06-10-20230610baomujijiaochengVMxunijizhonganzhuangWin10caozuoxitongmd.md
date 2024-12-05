@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：VM 虚拟机中安装 Win10 操作系统"
+title: "保姆级教程VM 虚拟机中安装 Win10 操作系统"
 date:   2021-05-07
 tags: [虚拟机,安装,Windows,10,VM]
 comments: true

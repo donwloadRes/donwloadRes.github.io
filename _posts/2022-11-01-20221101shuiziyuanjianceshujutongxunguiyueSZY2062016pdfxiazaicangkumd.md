@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水资源监测数据通讯规约SZY206-2016.pdf 下载仓库"
+title: "水资源监测数据通讯规约SZY2062016pdf 下载仓库"
 date:   2021-09-23
 tags: [水资源,规约,数据通讯,SZY206,2016]
 comments: true

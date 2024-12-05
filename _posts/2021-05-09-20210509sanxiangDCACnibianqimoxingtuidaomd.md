@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三相DC-AC逆变器模型推导"
+title: "三相DCAC逆变器模型推导"
 date:   2024-02-16
 tags: [逆变器,推导,三相,模型,DC]
 comments: true

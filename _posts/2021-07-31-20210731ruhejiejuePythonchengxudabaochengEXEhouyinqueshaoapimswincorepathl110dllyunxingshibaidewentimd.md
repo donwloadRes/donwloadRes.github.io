@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何解决Python程序打包成EXE后因缺少api-ms-win-core-path-l1-1-0.dll运行失败的问题"
+title: "如何解决Python程序打包成EXE后因缺少apimswincorepathl110dll运行失败的问题"
 date:   2022-07-22
 tags: [Python,dll,打包,Windows,api]
 comments: true

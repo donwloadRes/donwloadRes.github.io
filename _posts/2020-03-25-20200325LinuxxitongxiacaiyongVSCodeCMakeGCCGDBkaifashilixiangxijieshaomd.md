@@ -1,6 +1,80 @@
 ---
 layout: post
-title: "Linux系统下采用VSCode+CMake+GCC+GDB开发实例详细介绍"
+title: "Linux系统下采用VSCodeCMakeGCCGDB开发实例详细介绍
+date   20241010
+tags CMakeLinuxVSCodeC调试
+comments true
+author admin
+
+ Linux系统下采用VSCodeCMakeGCCGDB开发实例详细介绍
+
+在Linux环境中集成开发环境的选择对于提高编程效率至关重要本资源详细介绍了如何在Linux操作系统中搭建一个高效便捷的CC开发环境主要围绕Visual Studio Code简称VSCode作为代码编辑器CMake作为构建系统GCC作为编译器以及GDB用于调试下面将逐步引导您完成整个开发环境的配置确保您可以流畅地进行项目开发编译和调试
+
+ 环境需求
+
+ 操作系统 Linux发行版如UbuntuDebian等
+ Visual Studio Code 一款轻量级但功能强大的源代码编辑器
+ CMake 用于管理项目的构建过程
+ GCCG GNU Compiler Collection用于编译CC程序
+ GDB GNU Debugger用于调试CC程序
+
+ 安装步骤
+
+ 1 安装Visual Studio Code
+
+通过官方网站或Linux包管理器安装VSCode例如在Ubuntu上可以使用命令
+
+bash
+sudo aptget install code y
+
+
+ 2 安装必要的插件
+
+打开VSCode进入 Extensions 齿轮图标  搜索并安装以下插件
+ CC 提供语法高亮智能感知等
+ CodeLLDB 或 CMake Tools 分别用于调试和CMake项目的支持
+
+ 3 安装CMake
+
+通过终端安装CMake
+
+bash
+sudo aptget install cmake y
+
+
+ 4 安装GCCG
+
+通常Linux发行版会预装GCCG如果没有可以通过包管理器安装
+
+bash
+sudo aptget install g buildessential y
+
+
+ 5 配置VSCode
+
+ 创建项目文件夹及CMakeListstxt
+
+在你喜欢的位置创建一个新的目录作为你的项目根目录并在此目录下创建CMakeListstxt示例内容如下
+
+cmake
+cmakeminimumrequiredVERSION 30
+projectMyProject
+
+setCMAKECXXSTANDARD 11
+setCMAKECXXSTANDARDREQUIRED True
+
+addexecutableMyProject maincpp
+
+
+ 设置VSCode工作区
+
+1 在VSCode中打开你刚才创建的项目文件夹
+2 首次使用CMake Tools可能需要配置settingsjson添加以下内容以指定CMake路径
+
+   json
+   cmakeconfigureSettings 
+       CMAKEBUILDTYPE Debug
+       CMAKEPREFIXPATH usrlocal"
 date:   2024-10-10
 tags: [CMake,Linux,VSCode,C++,调试]
 comments: true

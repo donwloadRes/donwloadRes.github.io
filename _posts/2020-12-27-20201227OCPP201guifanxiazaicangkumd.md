@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCPP 2.0.1 规范下载仓库"
+title: "OCPP 201 规范下载仓库"
 date:   2020-02-23
 tags: [OCPP,2.0,文档,下载,规范]
 comments: true

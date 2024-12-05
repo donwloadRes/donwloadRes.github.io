@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim14.2仿真使用汇总"
+title: "Multisim142仿真使用汇总"
 date:   2024-03-29
 tags: [仿真,Multisim14.2,导入,软件,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCS、Verdi安装记录"
+title: "VCSVerdi安装记录"
 date:   2023-03-20
 tags: [安装,VCS,Verdi,Synopsys,synopsys]
 comments: true

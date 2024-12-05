@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R语言数据分析案例：鸢尾花（IRIS）"
+title: "R语言数据分析案例鸢尾花IRIS"
 date:   2021-02-15
 tags: [数据分析,鸢尾花,文件,案例,模型]
 comments: true

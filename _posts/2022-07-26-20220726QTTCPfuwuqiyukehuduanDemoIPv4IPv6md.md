@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT TCP服务器与客户端Demo (IPv4-IPv6)"
+title: "QT TCP服务器与客户端Demo IPv4IPv6"
 date:   2024-03-25
 tags: [客户端,QT,示例,服务器,连接]
 comments: true

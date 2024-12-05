@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32+LVGL开发教程：1.69寸ST7789+CST816触摸屏的Vscode+PlatformIO搭建与移植"
+title: "ESP32LVGL开发教程169寸ST7789CST816触摸屏的VscodePlatformIO搭建与移植"
 date:   2021-05-11
 tags: [ESP32,PlatformIO,触摸屏,Vscode,开发]
 comments: true

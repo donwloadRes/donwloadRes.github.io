@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版 Windows JDK 11.0.18 下载仓库"
+title: "最新版 Windows JDK 11018 下载仓库"
 date:   2023-08-19
 tags: [18,JDK,11.0,Windows,仓库]
 comments: true

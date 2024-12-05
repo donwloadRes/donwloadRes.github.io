@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arcgis Enterprise 10.8 安装包下载"
+title: "Arcgis Enterprise 108 安装包下载"
 date:   2023-08-07
 tags: [Arcgis,10.8,安装包,Enterprise,Server]
 comments: true

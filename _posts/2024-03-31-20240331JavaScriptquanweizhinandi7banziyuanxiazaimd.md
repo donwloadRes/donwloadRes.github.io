@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript权威指南(第7版) 资源下载"
+title: "JavaScript权威指南第7版 资源下载"
 date:   2021-05-24
 tags: [JavaScript,下载,文件,资源,PDF]
 comments: true

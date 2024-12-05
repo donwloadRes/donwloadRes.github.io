@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL工具NVT安装包（16 Premium）"
+title: "MySQL工具NVT安装包16 Premium"
 date:   2022-03-01
 tags: [安装包,MySQL,NVT,exe,工具]
 comments: true

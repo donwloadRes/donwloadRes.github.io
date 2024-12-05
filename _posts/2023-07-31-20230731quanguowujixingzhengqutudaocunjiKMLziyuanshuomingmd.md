@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国五级行政区图到村级.KML 资源说明"
+title: "全国五级行政区图到村级KML 资源说明"
 date:   2022-09-26
 tags: [KML,软件,村级,五级,地图]
 comments: true

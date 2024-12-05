@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103的NES(FC)模拟器"
+title: "基于STM32F103的NESFC模拟器"
 date:   2020-08-16
 tags: [STM32F103,NES,模拟器,游戏,开发板]
 comments: true

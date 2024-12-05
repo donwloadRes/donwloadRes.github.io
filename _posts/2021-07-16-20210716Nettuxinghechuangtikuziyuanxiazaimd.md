@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net 图形和窗体库资源下载"
+title: "Net 图形和窗体库资源下载"
 date:   2021-11-10
 tags: [Windows,System,dll,Net,窗体]
 comments: true

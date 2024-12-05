@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++银行管理系统（8个子系统）"
+title: "C银行管理系统8个子系统"
 date:   2021-01-11
 tags: [C++,查询,客户,数据结构,银行]
 comments: true

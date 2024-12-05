@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光机系统设计》第四版 卷1&2 - Opto-Mechanical Systems Design, Fourth Edition, Volume 1&2"
+title: "光机系统设计第四版 卷12  OptoMechanical Systems Design Fourth Edition Volume 12"
 date:   2024-09-09
 tags: [设计,光机,光学,第四版,系统]
 comments: true

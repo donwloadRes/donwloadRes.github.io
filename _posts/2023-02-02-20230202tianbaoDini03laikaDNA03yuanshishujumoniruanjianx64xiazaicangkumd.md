@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天宝Dini03莱卡DNA03原始数据模拟软件（x64）下载仓库"
+title: "天宝Dini03莱卡DNA03原始数据模拟软件x64下载仓库"
 date:   2021-02-04
 tags: [原始数据,Dini03,天宝,软件,莱卡]
 comments: true

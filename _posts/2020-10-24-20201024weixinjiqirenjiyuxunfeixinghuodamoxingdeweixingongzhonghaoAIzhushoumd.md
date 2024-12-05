@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信机器人：基于讯飞星火大模型的微信公众号AI助手"
+title: "微信机器人基于讯飞星火大模型的微信公众号AI助手"
 date:   2021-07-14
 tags: [机器人,微信,py,文件,星火]
 comments: true

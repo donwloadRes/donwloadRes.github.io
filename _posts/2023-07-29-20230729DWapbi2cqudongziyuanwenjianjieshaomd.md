@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DW_apb_i2c 驱动资源文件介绍"
+title: "DWapbi2c 驱动资源文件介绍"
 date:   2020-02-15
 tags: [I2C,驱动,DW,apb,i2c]
 comments: true

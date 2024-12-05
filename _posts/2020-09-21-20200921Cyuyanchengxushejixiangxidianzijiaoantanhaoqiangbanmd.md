@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计详细电子教案（谭浩强版）"
+title: "C语言程序设计详细电子教案谭浩强版"
 date:   2021-08-20
 tags: [C语言,教案,谭浩强,程序设计,学习]
 comments: true

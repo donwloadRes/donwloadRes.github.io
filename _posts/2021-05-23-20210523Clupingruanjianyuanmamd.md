@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 录屏软件源码"
+title: "C 录屏软件源码"
 date:   2020-11-21
 tags: [录屏,源码,软件,C#,可执行文件]
 comments: true

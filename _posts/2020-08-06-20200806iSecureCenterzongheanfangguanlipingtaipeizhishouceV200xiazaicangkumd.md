@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iSecure Center综合安防管理平台配置手册 V2.0.0 下载仓库"
+title: "iSecure Center综合安防管理平台配置手册 V200 下载仓库"
 date:   2020-05-08
 tags: [安防,iSecure,Center,手册,V2.0]
 comments: true

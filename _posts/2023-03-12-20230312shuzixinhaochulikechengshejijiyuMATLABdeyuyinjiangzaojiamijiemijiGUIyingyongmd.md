@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理课程设计：基于MATLAB的语音降噪、加密解密及GUI应用"
+title: "数字信号处理课程设计基于MATLAB的语音降噪加密解密及GUI应用"
 date:   2024-04-29
 tags: [MATLAB,GUI,加密,解密,信号处理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我的硬件设计入门（一）"
+title: "我的硬件设计入门一"
 date:   2020-06-16
 tags: [硬件,设计,Altium,Designer,PCB]
 comments: true

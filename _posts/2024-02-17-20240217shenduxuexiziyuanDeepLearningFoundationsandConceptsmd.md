@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习资源：Deep Learning: Foundations and Concepts"
+title: "深度学习资源Deep Learning Foundations and Concepts"
 date:   2021-02-01
 tags: [学习,深度,本书,Deep,Learning]
 comments: true

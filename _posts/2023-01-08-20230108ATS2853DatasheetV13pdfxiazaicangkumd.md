@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATS2853 Datasheet V1.3.pdf 下载仓库"
+title: "ATS2853 Datasheet V13pdf 下载仓库"
 date:   2022-10-15
 tags: [ATS2853,文档,蓝牙,音箱,V1.3]
 comments: true

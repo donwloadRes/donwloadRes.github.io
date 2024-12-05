@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制系统（第10版）书签版资源下载"
+title: "自动控制系统第10版书签版资源下载"
 date:   2020-03-23
 tags: [书签,控制系统,资源,自动,10]
 comments: true

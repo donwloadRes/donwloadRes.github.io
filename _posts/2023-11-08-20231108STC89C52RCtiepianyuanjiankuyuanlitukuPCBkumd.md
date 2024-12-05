@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC89C52RC贴片元件库 原理图库+PCB库"
+title: "STC89C52RC贴片元件库 原理图库PCB库"
 date:   2020-05-20
 tags: [PCB,STC89C52RC,贴片,封装,Altium]
 comments: true

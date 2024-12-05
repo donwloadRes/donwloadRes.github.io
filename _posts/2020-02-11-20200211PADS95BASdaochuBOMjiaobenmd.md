@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS9.5 BAS 导出BOM脚本"
+title: "PADS95 BAS 导出BOM脚本"
 date:   2023-07-20
 tags: [BOM,脚本,PADS9.5,文件,BAS]
 comments: true

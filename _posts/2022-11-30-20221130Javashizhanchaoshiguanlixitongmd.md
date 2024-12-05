@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实战：超市管理系统"
+title: "Java实战超市管理系统"
 date:   2020-03-17
 tags: [订单,商品信息,Java,MySQL,JDBC]
 comments: true

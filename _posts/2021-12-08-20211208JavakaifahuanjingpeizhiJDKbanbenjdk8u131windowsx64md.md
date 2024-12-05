@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java开发环境配置JDK版本：jdk-8u131-windows-x64"
+title: "Java开发环境配置JDK版本jdk8u131windowsx64"
 date:   2023-04-03
 tags: [Java,JDK,安装,配置,jdk]
 comments: true

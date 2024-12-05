@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLink-v9.6固件下载说明"
+title: "JLinkv96固件下载说明"
 date:   2024-02-27
 tags: [固件,JLink,v9.6,MDK,使用]
 comments: true

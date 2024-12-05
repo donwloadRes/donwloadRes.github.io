@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSO优化卷积神经网络模型参数（PSO优化CNN）"
+title: "PSO优化卷积神经网络模型参数PSO优化CNN"
 date:   2022-01-13
 tags: [PSO,CNN,模型,参数,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8211EG-VB-CG PHY芯片手册中文版"
+title: "RTL8211EGVBCG PHY芯片手册中文版"
 date:   2024-10-05
 tags: [RTL8211EG,芯片,手册,VB,PHY]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome浏览器安装WebGL-Inspector插件指南"
+title: "Chrome浏览器安装WebGLInspector插件指南"
 date:   2024-03-21
 tags: [插件,WebGL,浏览器,Chrome,Inspector]
 comments: true

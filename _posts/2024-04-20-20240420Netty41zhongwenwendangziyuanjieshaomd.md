@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Netty 4.1中文文档资源介绍"
+title: "Netty 41中文文档资源介绍"
 date:   2021-05-05
 tags: [Netty,4.1,文档,中文,开发者]
 comments: true

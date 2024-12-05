@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件工程师面试题及答案（模拟电路部分）"
+title: "硬件工程师面试题及答案模拟电路部分"
 date:   2021-12-07
 tags: [模拟,硬件,题目,复习,电路]
 comments: true

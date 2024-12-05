@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux入门：虚拟机VMware安装包下载"
+title: "Linux入门虚拟机VMware安装包下载"
 date:   2020-04-17
 tags: [Linux,VMware,虚拟机,安装,安装包]
 comments: true

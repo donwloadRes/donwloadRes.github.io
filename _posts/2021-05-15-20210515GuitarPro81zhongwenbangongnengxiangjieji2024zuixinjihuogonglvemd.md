@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GuitarPro 8.1中文版功能详解及2024最新激活攻略"
+title: "GuitarPro 81中文版功能详解及2024最新激活攻略"
 date:   2022-09-08
 tags: [简谱,8.1,软件,激活,GuitarPro]
 comments: true

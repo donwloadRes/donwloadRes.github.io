@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口大师ComMaster：全面的串口通信监控解决方案"
+title: "串口大师ComMaster全面的串口通信监控解决方案"
 date:   2023-09-10
 tags: [串口,通信,ComMaster,监控,大师]
 comments: true

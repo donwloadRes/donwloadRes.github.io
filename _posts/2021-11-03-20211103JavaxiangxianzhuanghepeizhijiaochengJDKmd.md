@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java详细安装和配置教程--JDK"
+title: "Java详细安装和配置教程JDK"
 date:   2024-11-09
 tags: [Java,教程,JDK,安装,配置]
 comments: true

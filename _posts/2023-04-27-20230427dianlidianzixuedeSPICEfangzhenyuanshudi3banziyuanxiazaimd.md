@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子学的SPICE仿真（原书第3版）资源下载"
+title: "电力电子学的SPICE仿真原书第3版资源下载"
 date:   2020-11-24
 tags: [仿真,PSpice,电子学,程序,电力]
 comments: true

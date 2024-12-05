@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为逆变器SUN2000-(33KTL, 40KTL) MODBUS接口定义描述"
+title: "华为逆变器SUN200033KTL 40KTL MODBUS接口定义描述"
 date:   2020-04-05
 tags: [逆变器,ModBus,RTU,节点,SUN2000]
 comments: true

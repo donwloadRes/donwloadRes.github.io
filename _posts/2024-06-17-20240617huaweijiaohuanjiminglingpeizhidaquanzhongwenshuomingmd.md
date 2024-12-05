@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为交换机命令配置大全（中文说明）"
+title: "华为交换机命令配置大全中文说明"
 date:   2022-07-04
 tags: [交换机,华为,配置,命令,实际操作]
 comments: true

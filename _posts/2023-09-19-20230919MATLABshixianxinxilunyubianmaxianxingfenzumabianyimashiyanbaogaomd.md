@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现信息论与编码》线性分组码编译码实验报告"
+title: "MATLAB实现信息论与编码线性分组码编译码实验报告"
 date:   2021-06-05
 tags: [MATLAB,分组码,线性,编码,解码]
 comments: true

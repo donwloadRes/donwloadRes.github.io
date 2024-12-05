@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js前端开发基础与项目实战"
+title: "Vuejs前端开发基础与项目实战"
 date:   2022-05-23
 tags: [Vue,js,前端开发,实战,资源库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "500个经典功放电路资源：全面指南"
+title: "500个经典功放电路资源全面指南"
 date:   2022-05-14
 tags: [功放,电路图,电路,500,经典]
 comments: true

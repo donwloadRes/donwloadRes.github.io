@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTSP播放器Demo基于Qt+FFmpeg"
+title: "RTSP播放器Demo基于QtFFmpeg"
 date:   2021-10-02
 tags: [Qt,RTSP,FFmpeg,视频流,项目]
 comments: true

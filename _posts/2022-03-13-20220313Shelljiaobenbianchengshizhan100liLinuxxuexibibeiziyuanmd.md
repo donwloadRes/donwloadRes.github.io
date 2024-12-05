@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shell脚本编程实战100例 - Linux学习必备资源"
+title: "Shell脚本编程实战100例  Linux学习必备资源"
 date:   2024-04-01
 tags: [Shell,Linux,100,脚本,编程]
 comments: true

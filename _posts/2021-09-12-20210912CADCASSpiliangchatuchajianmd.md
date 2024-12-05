@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-CASS批量插图插件"
+title: "CADCASS批量插图插件"
 date:   2024-07-28
 tags: [插入,插件,批量,dwg,插图]
 comments: true

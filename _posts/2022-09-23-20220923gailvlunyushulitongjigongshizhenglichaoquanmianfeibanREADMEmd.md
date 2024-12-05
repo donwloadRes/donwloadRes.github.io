@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计公式整理(超全免费版) README"
+title: "概率论与数理统计公式整理超全免费版 README"
 date:   2020-12-25
 tags: [数理统计,概率论,公式,文档,超全]
 comments: true

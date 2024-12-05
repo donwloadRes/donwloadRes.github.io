@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32通过I2C接口实现温湿度（DHT20）的采集"
+title: "STM32通过I2C接口实现温湿度DHT20的采集"
 date:   2024-11-09
 tags: [I2C,DHT20,温湿度,STM32,采集]
 comments: true

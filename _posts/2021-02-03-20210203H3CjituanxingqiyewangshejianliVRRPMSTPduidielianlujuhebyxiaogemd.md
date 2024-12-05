@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H3C集团型企业网设计案例（VRRP+MSTP+堆叠+链路聚合）by肖哥"
+title: "H3C集团型企业网设计案例VRRPMSTP堆叠链路聚合by肖哥"
 date:   2023-01-30
 tags: [网络,H3C,链路,堆叠,VRRP]
 comments: true

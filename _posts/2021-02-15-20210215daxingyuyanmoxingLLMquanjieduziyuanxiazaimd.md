@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大型语言模型 (LLM) 全解读资源下载"
+title: "大型语言模型 LLM 全解读资源下载"
 date:   2023-07-23
 tags: [LLM,模型,解读,语言,大型]
 comments: true

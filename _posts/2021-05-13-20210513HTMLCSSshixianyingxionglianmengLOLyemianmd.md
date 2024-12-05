@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS实现 英雄联盟（LOL）页面"
+title: "HTMLCSS实现 英雄联盟LOL页面"
 date:   2023-12-30
 tags: [HTML,CSS,页面,英雄,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码比较工具Beyond Compare 4（亲测有效）"
+title: "代码比较工具Beyond Compare 4亲测有效"
 date:   2020-12-07
 tags: [比较,文件夹,文件,FTP,Beyond]
 comments: true

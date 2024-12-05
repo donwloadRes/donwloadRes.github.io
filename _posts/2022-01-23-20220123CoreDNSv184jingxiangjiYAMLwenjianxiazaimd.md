@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoreDNS v1.8.4 镜像及 YAML 文件下载"
+title: "CoreDNS v184 镜像及 YAML 文件下载"
 date:   2023-10-04
 tags: [镜像,CoreDNS,coredns,文件,导入]
 comments: true

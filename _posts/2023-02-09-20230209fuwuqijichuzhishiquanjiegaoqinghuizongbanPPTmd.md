@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "服务器基础知识全解，高清汇总版PPT"
+title: "服务器基础知识全解高清汇总版PPT"
 date:   2022-01-29
 tags: [服务器,PPT,基础知识,高清,全解]
 comments: true

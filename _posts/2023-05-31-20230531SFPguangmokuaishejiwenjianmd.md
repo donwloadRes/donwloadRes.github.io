@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFP+光模块设计文件"
+title: "SFP光模块设计文件"
 date:   2023-09-04
 tags: [SFP,模块,封装,设计,文件]
 comments: true

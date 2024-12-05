@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS-7标准版镜像文件下载"
+title: "CentOS7标准版镜像文件下载"
 date:   2021-12-02
 tags: [CentOS,镜像文件,下载,安装,标准版]
 comments: true

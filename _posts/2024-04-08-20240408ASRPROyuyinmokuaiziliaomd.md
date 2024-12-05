@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASR-PRO语音模块资料"
+title: "ASRPRO语音模块资料"
 date:   2024-06-10
 tags: [模块,语音,ASR,PRO,示例]
 comments: true

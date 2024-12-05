@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XJTU-SY滚动轴承加速寿命试验数据集"
+title: "XJTUSY滚动轴承加速寿命试验数据集"
 date:   2023-05-03
 tags: [滚动轴承,SY,数据,XJTU,寿命]
 comments: true

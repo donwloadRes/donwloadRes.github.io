@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ApkPure：谷歌应用商店代替品"
+title: "ApkPure谷歌应用商店代替品"
 date:   2020-10-27
 tags: [ApkPure,应用,下载,商店,谷歌]
 comments: true

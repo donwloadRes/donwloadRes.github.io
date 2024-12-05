@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ STL库常用库函数总结"
+title: "C STL库常用库函数总结"
 date:   2020-11-11
 tags: [库函数,C++,常用,资源,STL]
 comments: true

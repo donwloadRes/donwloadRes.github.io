@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷·鼎新 BPM签核流程管理系统资源下载"
+title: "鼎捷鼎新 BPM签核流程管理系统资源下载"
 date:   2020-10-25
 tags: [部署,系统,鼎捷,BPM,签核]
 comments: true

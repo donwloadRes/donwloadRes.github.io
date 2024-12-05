@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【前端开发】VSCode下载安装教程，新手入门（超详细）附安装包"
+title: "前端开发VSCode下载安装教程新手入门超详细附安装包"
 date:   2022-02-04
 tags: [VSCode,教程,下载,安装,中文]
 comments: true

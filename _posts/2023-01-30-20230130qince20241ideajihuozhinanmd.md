@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亲测! 2024.1 idea 激活指南"
+title: "亲测 20241 idea 激活指南"
 date:   2023-08-26
 tags: [激活,激活码,指南,2024.1,IDEA]
 comments: true

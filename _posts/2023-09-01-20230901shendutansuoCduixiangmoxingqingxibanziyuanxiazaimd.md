@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度探索C++对象模型（清晰版）资源下载"
+title: "深度探索C对象模型清晰版资源下载"
 date:   2022-10-18
 tags: [C++,模型,本书,清晰版,对象]
 comments: true

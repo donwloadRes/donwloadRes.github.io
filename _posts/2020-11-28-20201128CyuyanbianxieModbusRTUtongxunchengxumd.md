@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语言编写Modbus RTU通讯程序"
+title: "C语言编写Modbus RTU通讯程序"
 date:   2023-12-18
 tags: [Modbus,串口,RTU,modbus,寄存器]
 comments: true

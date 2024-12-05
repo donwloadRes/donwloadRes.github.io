@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TISI 视频序列TI和SI计算工具（命令行版本）"
+title: "TISI 视频序列TI和SI计算工具命令行版本"
 date:   2024-08-11
 tags: [命令行,视频,序列,工具,TISI]
 comments: true

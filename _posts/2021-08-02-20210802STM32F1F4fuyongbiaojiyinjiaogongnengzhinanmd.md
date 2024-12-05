@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1-F4复用表及引脚功能指南"
+title: "STM32F1F4复用表及引脚功能指南"
 date:   2023-09-19
 tags: [引脚,复用,STM32,功能,F4]
 comments: true

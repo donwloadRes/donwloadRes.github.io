@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新型开关电源优化设计与实例详解全书.pdf"
+title: "新型开关电源优化设计与实例详解全书pdf"
 date:   2020-04-19
 tags: [开关电源,设计,优化,实例,详解]
 comments: true

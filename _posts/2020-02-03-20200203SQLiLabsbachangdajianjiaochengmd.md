@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLi-Labs 靶场搭建教程"
+title: "SQLiLabs 靶场搭建教程"
 date:   2022-11-19
 tags: [靶场,sqli,labs,SQLi,Labs]
 comments: true

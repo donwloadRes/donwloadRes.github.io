@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisionPro控件使用指南 - C# 开发篇"
+title: "VisionPro控件使用指南  C 开发篇"
 date:   2024-04-29
 tags: [控件,VisionPro,C#,开发,使用]
 comments: true

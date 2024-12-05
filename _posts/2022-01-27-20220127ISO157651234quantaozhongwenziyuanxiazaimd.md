@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO15765-1-2-3-4全套中文资源下载"
+title: "ISO157651234全套中文资源下载"
 date:   2022-06-24
 tags: [ISO15765,诊断,诊断系统,资源,下载]
 comments: true

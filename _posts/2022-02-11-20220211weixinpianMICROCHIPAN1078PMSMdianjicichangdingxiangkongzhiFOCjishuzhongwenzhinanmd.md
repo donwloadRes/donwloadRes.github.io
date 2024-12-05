@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微芯片MICROCHIP AN1078 PMSM电机磁场定向控制（FOC）技术中文指南"
+title: "微芯片MICROCHIP AN1078 PMSM电机磁场定向控制FOC技术中文指南"
 date:   2023-11-27
 tags: [FOC,控制,电机,PMSM,Microchip]
 comments: true

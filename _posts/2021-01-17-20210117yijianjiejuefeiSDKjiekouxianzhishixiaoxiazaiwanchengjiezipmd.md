@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键解决非SDK接口限制失效下载完成解.zip"
+title: "一键解决非SDK接口限制失效下载完成解zip"
 date:   2021-08-17
 tags: [API,SDK,应用,限制,接口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "静态时序分析经典.pdf"
+title: "静态时序分析经典pdf"
 date:   2024-06-06
 tags: [时序,静态,分析,pdf,经典]
 comments: true

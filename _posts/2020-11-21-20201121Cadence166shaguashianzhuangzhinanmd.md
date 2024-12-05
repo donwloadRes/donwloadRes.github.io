@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence 16.6 傻瓜式安装指南"
+title: "Cadence 166 傻瓜式安装指南"
 date:   2023-11-14
 tags: [安装,Cadence,16.6,卸载,傻瓜式]
 comments: true

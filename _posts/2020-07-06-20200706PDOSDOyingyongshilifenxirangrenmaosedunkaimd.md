@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDO SDO应用实例分析，让人茅塞顿开！"
+title: "PDO SDO应用实例分析让人茅塞顿开"
 date:   2020-06-15
 tags: [实例,PDO,SDO,开发者,应用]
 comments: true

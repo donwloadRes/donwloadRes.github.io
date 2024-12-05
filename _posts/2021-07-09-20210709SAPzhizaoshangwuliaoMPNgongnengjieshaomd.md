@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP 制造商物料（MPN）功能介绍"
+title: "SAP 制造商物料MPN功能介绍"
 date:   2021-06-12
 tags: [MPN,SAP,功能,文件,物料]
 comments: true

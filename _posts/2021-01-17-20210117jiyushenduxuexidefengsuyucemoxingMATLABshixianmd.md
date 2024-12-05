@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的风速预测模型 - MATLAB实现"
+title: "基于深度学习的风速预测模型  MATLAB实现"
 date:   2024-08-14
 tags: [预测,MATLAB,LSTM,模型,风速]
 comments: true

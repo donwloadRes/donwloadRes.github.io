@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiddler 编程猫专用插件 1.0.8 预览版"
+title: "Fiddler 编程猫专用插件 108 预览版"
 date:   2022-09-16
 tags: [Fiddler,插件,预览版,JS,全局]
 comments: true

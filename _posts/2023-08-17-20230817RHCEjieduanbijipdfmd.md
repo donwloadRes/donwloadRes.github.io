@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RHCE阶段笔记.pdf"
+title: "RHCE阶段笔记pdf"
 date:   2024-10-18
 tags: [RHCE,学习,pdf,笔记,认证]
 comments: true

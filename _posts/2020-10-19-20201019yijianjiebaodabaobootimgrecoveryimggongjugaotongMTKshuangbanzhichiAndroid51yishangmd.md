@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键解包-打包boot.img-recovery.img工具（高通-MTK双版 支持Android 5.1以上）"
+title: "一键解包打包bootimgrecoveryimg工具高通MTK双版 支持Android 51以上"
 date:   2020-03-16
 tags: [img,解包,Android,boot,打包]
 comments: true

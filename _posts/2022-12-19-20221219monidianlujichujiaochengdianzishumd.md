@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电路基础教程(电子书)"
+title: "模拟电路基础教程电子书"
 date:   2023-07-13
 tags: [电路,模拟,基础教程,电气工程,电子书]
 comments: true

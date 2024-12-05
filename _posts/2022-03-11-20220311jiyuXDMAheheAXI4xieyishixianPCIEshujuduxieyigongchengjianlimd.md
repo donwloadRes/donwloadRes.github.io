@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于XDMA核和AXI4协议实现PCIE数据读写（一）：工程建立"
+title: "基于XDMA核和AXI4协议实现PCIE数据读写一工程建立"
 date:   2021-09-17
 tags: [PCIE,XDMA,AXI4,数据传输,ARM]
 comments: true

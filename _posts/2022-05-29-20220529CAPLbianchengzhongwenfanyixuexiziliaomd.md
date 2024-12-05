@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAPL编程中文翻译-学习资料"
+title: "CAPL编程中文翻译学习资料"
 date:   2021-05-06
 tags: [CAPL,编程,学习,中文翻译,资料]
 comments: true

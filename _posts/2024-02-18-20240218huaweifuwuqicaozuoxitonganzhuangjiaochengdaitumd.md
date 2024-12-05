@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为服务器操作系统安装教程（带图）"
+title: "华为服务器操作系统安装教程带图"
 date:   2020-11-29
 tags: [教程,华为,服务器,操作系统,安装]
 comments: true

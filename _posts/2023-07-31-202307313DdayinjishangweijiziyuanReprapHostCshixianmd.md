@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D打印机上位机资源 - Reprap Host (C#实现)"
+title: "3D打印机上位机资源  Reprap Host C实现"
 date:   2021-09-02
 tags: [3D,源代码,打印机,Reprap,打印]
 comments: true

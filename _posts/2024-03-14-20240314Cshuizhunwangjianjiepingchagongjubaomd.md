@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#水准网间接平差工具包"
+title: "C水准网间接平差工具包"
 date:   2023-06-30
 tags: [平差,C#,水准,矩阵,工具包]
 comments: true

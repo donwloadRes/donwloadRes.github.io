@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "变频器源码 - DSPIC30F5015电机控制专用芯片"
+title: "变频器源码  DSPIC30F5015电机控制专用芯片"
 date:   2023-08-14
 tags: [源码,电机,DSPIC30F5015,控制,芯片]
 comments: true

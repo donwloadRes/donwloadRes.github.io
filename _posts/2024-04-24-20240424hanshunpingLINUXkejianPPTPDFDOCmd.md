@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "韩顺平LINUX课件(PPT+PDF+DOC)"
+title: "韩顺平LINUX课件PPTPDFDOC"
 date:   2020-02-12
 tags: [Linux,课件,学习,顺平,PPT]
 comments: true

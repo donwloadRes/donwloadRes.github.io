@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言中QT实现学生管理系统"
+title: "C语言中QT实现学生管理系统"
 date:   2023-10-06
 tags: [页面,QT,tablewidget,数据,管理系统]
 comments: true

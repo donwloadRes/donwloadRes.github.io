@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟集成电路原理设计（第五版）下载"
+title: "模拟集成电路原理设计第五版下载"
 date:   2024-01-12
 tags: [集成电路,模拟,设计,第五版,下载]
 comments: true

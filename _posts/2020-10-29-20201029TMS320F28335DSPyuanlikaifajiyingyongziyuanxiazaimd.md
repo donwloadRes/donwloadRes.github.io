@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320F28335 DSP原理、开发及应用资源下载"
+title: "TMS320F28335 DSP原理开发及应用资源下载"
 date:   2021-08-18
 tags: [编译器,exe,tdm64,gcc,DSP]
 comments: true

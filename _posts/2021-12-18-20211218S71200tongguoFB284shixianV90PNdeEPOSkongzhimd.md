@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 通过 FB284 实现 V90PN 的 EPOS 控制"
+title: "S71200 通过 FB284 实现 V90PN 的 EPOS 控制"
 date:   2022-03-25
 tags: [S7,1200,V90PN,FB284,EPOS]
 comments: true

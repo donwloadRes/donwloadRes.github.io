@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Auto.js微信跳一跳辅助说明"
+title: "Autojs微信跳一跳辅助说明"
 date:   2023-05-04
 tags: [Auto,js,微信,导入,文件]
 comments: true

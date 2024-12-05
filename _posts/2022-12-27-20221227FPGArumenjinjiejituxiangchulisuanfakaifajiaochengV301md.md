@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA入门进阶及图像处理算法开发教程-V3.01"
+title: "FPGA入门进阶及图像处理算法开发教程V301"
 date:   2022-01-08
 tags: [FPGA,图像处理,算法,开发,进阶]
 comments: true

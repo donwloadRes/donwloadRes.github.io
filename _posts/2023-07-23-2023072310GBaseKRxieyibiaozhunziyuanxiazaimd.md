@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10G Base-KR 协议标准资源下载"
+title: "10G BaseKR 协议标准资源下载"
 date:   2023-10-07
 tags: [标准,KR,2007,资源,10G]
 comments: true

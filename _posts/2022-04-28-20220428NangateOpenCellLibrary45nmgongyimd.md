@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NangateOpenCellLibrary——45nm工艺"
+title: "NangateOpenCellLibrary45nm工艺"
 date:   2022-07-30
 tags: [工艺,低功耗,文件,解压,45nm]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP常用事务代码（SD、MM、FICO）资源下载"
+title: "SAP常用事务代码SDMMFICO资源下载"
 date:   2022-01-20
 tags: [模块,SAP,代码,事务,常用]
 comments: true

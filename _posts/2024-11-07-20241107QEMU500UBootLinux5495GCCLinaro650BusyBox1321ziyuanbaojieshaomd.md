@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QEMU 5.0.0 + U-Boot + Linux 5.4.95 + GCC Linaro 6.5.0 + BusyBox 1.32.1 资源包介绍"
+title: "QEMU 500  UBoot  Linux 5495  GCC Linaro 650  BusyBox 1321 资源包介绍"
 date:   2022-02-04
 tags: [Linux,嵌入式,资源,QEMU,5.0]
 comments: true

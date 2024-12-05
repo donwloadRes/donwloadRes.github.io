@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++ 6.0 中文版安装包及Win11安装教程"
+title: "Visual C 60 中文版安装包及Win11安装教程"
 date:   2020-05-13
 tags: [C++,安装,6.0,点击,安装包]
 comments: true

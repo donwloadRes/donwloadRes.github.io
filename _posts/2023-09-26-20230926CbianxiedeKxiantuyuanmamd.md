@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编写的K线图（源码）"
+title: "C编写的K线图源码"
 date:   2020-09-21
 tags: [源码,C++,线图,示例,项目]
 comments: true

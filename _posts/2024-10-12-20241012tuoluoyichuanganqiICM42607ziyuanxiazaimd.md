@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "陀螺仪传感器ICM-42607资源下载"
+title: "陀螺仪传感器ICM42607资源下载"
 date:   2023-04-04
 tags: [ICM,42607,资源,下载,传感器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "附录A.2 中国智能网联汽车技术规程（C-ICAP）-领航行车辅助测评细则（1.0版）"
+title: "附录A2 中国智能网联汽车技术规程CICAP领航行车辅助测评细则10版"
 date:   2023-07-23
 tags: [智能网,测评,领航,辅助,技术规程]
 comments: true

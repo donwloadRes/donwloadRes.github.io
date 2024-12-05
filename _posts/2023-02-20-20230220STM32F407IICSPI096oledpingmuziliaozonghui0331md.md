@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407：IIC+SPI+0.96oled屏幕资料总汇(0331)"
+title: "STM32F407IICSPI096oled屏幕资料总汇0331"
 date:   2022-12-29
 tags: [OLED,屏幕,STM32F407,IIC,SPI]
 comments: true

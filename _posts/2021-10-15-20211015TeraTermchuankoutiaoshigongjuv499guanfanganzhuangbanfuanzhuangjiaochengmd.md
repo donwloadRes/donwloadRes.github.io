@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TeraTerm(串口调试工具)v4.99官方安装版(附安装教程)"
+title: "TeraTerm串口调试工具v499官方安装版附安装教程"
 date:   2022-09-07
 tags: [Tera,Term,安装,SSH,串口]
 comments: true

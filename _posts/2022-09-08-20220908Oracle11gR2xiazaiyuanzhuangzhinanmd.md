@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle-11g-R2 下载与安装指南"
+title: "Oracle11gR2 下载与安装指南"
 date:   2023-04-10
 tags: [安装,Oracle,数据库,11g,R2]
 comments: true

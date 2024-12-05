@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拼多多直播场控互动控场软件 V1.24"
+title: "拼多多直播场控互动控场软件 V124"
 date:   2020-10-20
 tags: [直播,互动,直播间,多多,控场]
 comments: true

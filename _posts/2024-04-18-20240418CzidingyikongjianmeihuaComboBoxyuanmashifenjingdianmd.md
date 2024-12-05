@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义控件--美化ComboBox源码(十分经典)"
+title: "C自定义控件美化ComboBox源码十分经典"
 date:   2020-07-09
 tags: [源码,控件,ComboBox,自定义,C#]
 comments: true

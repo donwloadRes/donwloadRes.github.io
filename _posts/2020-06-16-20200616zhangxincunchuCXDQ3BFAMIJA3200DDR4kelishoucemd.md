@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "长鑫存储CXDQ3BFAM-IJ-A-3200 DDR4颗粒手册"
+title: "长鑫存储CXDQ3BFAMIJA3200 DDR4颗粒手册"
 date:   2024-06-09
 tags: [颗粒,长鑫,DDR4,CXDQ3BFAM,IJ]
 comments: true

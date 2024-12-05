@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB50174-2017数据中心设计规范电子版"
+title: "GB501742017数据中心设计规范电子版"
 date:   2023-12-16
 tags: [电子版,2017,设计规范,数据中心,文件]
 comments: true

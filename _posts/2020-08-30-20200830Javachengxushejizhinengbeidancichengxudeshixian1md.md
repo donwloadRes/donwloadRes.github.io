@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java程序设计：智能背单词程序的实现1"
+title: "Java程序设计智能背单词程序的实现1"
 date:   2023-12-10
 tags: [背单词,Java,学习,用户,单词]
 comments: true

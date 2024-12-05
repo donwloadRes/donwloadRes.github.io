@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你DosBox的配置（附下载资源）"
+title: "手把手教你DosBox的配置附下载资源"
 date:   2020-10-03
 tags: [DosBox,配置,下载,教程,文件]
 comments: true

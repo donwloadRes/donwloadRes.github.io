@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸表情数据集FER+"
+title: "人脸表情数据集FER"
 date:   2023-09-05
 tags: [人脸,表情,数据,FER,识别]
 comments: true

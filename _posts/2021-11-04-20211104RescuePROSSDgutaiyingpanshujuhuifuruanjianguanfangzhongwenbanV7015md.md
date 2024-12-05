@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RescuePRO SSD 固态硬盘数据恢复软件官方中文版 V7.0.1.5"
+title: "RescuePRO SSD 固态硬盘数据恢复软件官方中文版 V7015"
 date:   2022-10-25
 tags: [数据恢复,恢复,RescuePRO,SSD,固态]
 comments: true

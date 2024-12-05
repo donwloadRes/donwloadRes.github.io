@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车载语音性能_Carply测试方案"
+title: "车载语音性能Carply测试方案"
 date:   2022-05-27
 tags: [语音,车载,通讯,Carply,测试]
 comments: true

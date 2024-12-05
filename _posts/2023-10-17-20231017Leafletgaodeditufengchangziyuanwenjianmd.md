@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaflet+高德地图+风场资源文件"
+title: "Leaflet高德地图风场资源文件"
 date:   2023-03-10
 tags: [风场,地图,Leaflet,高德,插件]
 comments: true

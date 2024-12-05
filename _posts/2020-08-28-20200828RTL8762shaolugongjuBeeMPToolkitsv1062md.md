@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8762烧录工具BeeMPTool-kits-v1.0.6.2"
+title: "RTL8762烧录工具BeeMPToolkitsv1062"
 date:   2020-02-11
 tags: [烧录,RTL8762,v1.0,6.2,BeeMPTool]
 comments: true

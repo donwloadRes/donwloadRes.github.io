@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHS-DRG 1.1 版分组方案资源文件"
+title: "CHSDRG 11 版分组方案资源文件"
 date:   2022-02-01
 tags: [CHS,1.1,DRG,分组,疾病诊断]
 comments: true

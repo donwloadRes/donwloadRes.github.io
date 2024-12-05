@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟表V2.7.1 资源文件下载"
+title: "虚拟表V271 资源文件下载"
 date:   2023-02-23
 tags: [测试,V2.7,表号,监控,虚拟]
 comments: true

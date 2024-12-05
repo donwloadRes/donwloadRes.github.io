@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch实现AlexNet——深度学习经典模型实践"
+title: "PyTorch实现AlexNet深度学习经典模型实践"
 date:   2022-06-13
 tags: [PyTorch,AlexNet,模型,数据,训练]
 comments: true

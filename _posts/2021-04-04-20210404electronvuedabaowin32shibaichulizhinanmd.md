@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "electron-vue打包win32失败处理指南"
+title: "electronvue打包win32失败处理指南"
 date:   2024-07-03
 tags: [打包,electron,依赖,vue,下载]
 comments: true

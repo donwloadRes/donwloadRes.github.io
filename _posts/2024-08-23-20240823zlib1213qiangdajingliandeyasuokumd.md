@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zlib-1.2.13：强大精炼的压缩库"
+title: "zlib1213强大精炼的压缩库"
 date:   2020-06-17
 tags: [zlib,压缩,1.2,13,解压]
 comments: true

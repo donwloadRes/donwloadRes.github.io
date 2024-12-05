@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer Plus 第六版课后编程练习答案"
+title: "C Primer Plus 第六版课后编程练习答案"
 date:   2022-07-06
 tags: [编程,课后,第六版,练习,答案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学生创业创新计划书：宠物医疗APP创业计划书"
+title: "大学生创业创新计划书宠物医疗APP创业计划书"
 date:   2021-03-17
 tags: [宠物,计划书,医疗,APP,创业]
 comments: true

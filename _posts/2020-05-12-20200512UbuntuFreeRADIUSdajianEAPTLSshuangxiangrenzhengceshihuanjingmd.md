@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu+FreeRADIUS搭建EAP-TLS双向认证测试环境"
+title: "UbuntuFreeRADIUS搭建EAPTLS双向认证测试环境"
 date:   2024-06-23
 tags: [认证,EAP,TLS,FreeRADIUS,测试环境]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200 PLC编程软件帮助程序无法打开问题解决方法"
+title: "西门子S7200 PLC编程软件帮助程序无法打开问题解决方法"
 date:   2024-04-15
 tags: [编程,PLC,S7,200,西门子]
 comments: true

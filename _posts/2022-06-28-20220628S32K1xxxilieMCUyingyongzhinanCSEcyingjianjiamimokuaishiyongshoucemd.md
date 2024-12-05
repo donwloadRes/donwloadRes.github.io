@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K1xx系列MCU应用指南：CSEc硬件加密模块使用手册"
+title: "S32K1xx系列MCU应用指南CSEc硬件加密模块使用手册"
 date:   2020-01-13
 tags: [MCU,S32K1xx,加密,模块,硬件]
 comments: true

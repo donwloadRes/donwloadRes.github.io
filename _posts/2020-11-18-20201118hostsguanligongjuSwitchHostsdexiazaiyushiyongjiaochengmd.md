@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hosts管理工具：SwitchHosts的下载与使用教程"
+title: "hosts管理工具SwitchHosts的下载与使用教程"
 date:   2021-08-11
 tags: [SwitchHosts,Hosts,Windows,切换,管理员]
 comments: true

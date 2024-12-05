@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stata 15.1 中介效应 Sobel 检验安装包"
+title: "Stata 151 中介效应 Sobel 检验安装包"
 date:   2021-06-13
 tags: [中介,Stata,sgmediation,安装包,15.1]
 comments: true

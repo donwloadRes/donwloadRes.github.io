@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ OpenGL 我的世界"
+title: "C OpenGL 我的世界"
 date:   2021-04-10
 tags: [OpenGL,C++,游戏,项目,Visual]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103ZET6的超声波模块（HC-SR04）源码"
+title: "基于STM32F103ZET6的超声波模块HCSR04源码"
 date:   2020-08-22
 tags: [超声波,STM32F103ZET6,模块,源码,HC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HPGL2语言规范（中英文）下载仓库"
+title: "HPGL2语言规范中英文下载仓库"
 date:   2022-04-26
 tags: [HPGL2,语言,中英文,仓库,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华硕RT-AC87U路由梅林固件最新固件下载"
+title: "华硕RTAC87U路由梅林固件最新固件下载"
 date:   2024-07-13
 tags: [固件,RT,AC87U,华硕,路由器]
 comments: true

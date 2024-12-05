@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习》西瓜书手推笔记第9版（可打印）.rar"
+title: "机器学习西瓜书手推笔记第9版可打印rar"
 date:   2023-12-10
 tags: [学习,手推,笔记,西瓜,打印]
 comments: true

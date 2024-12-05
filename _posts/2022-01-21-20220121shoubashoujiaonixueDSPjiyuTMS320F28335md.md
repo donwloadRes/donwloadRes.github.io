@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你学DSP：基于TMS320F28335"
+title: "手把手教你学DSP基于TMS320F28335"
 date:   2022-03-23
 tags: [DSP,TMS320F28335,手把手,资源,基于]
 comments: true

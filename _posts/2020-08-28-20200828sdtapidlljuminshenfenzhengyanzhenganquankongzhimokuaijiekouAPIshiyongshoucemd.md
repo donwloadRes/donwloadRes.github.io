@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sdtapi.dll居民身份证验证安全控制模块接口 API 使用手册"
+title: "sdtapidll居民身份证验证安全控制模块接口 API 使用手册"
 date:   2023-06-09
 tags: [API,sdtapi,dll,居民身份证,模块接口]
 comments: true

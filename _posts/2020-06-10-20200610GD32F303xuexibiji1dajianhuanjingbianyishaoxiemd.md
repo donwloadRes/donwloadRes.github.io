@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F303学习笔记（1）——搭建环境、编译烧写"
+title: "GD32F303学习笔记1搭建环境编译烧写"
 date:   2024-08-22
 tags: [编译,烧录,GD32F303,Keil,SDK]
 comments: true

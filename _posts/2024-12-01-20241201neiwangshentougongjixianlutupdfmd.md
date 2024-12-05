@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "内网渗透攻击线路图.pdf"
+title: "内网渗透攻击线路图pdf"
 date:   2020-10-25
 tags: [渗透,线路图,网络安全,pdf,攻击]
 comments: true

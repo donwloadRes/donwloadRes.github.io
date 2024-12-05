@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编写Echart仪表盘JS交互程序（开源）"
+title: "Qt编写Echart仪表盘JS交互程序开源"
 date:   2022-03-28
 tags: [Qt,Echart,仪表盘,交互,程序]
 comments: true

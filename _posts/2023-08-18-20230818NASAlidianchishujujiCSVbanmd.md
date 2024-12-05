@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA锂电池数据集（CSV版）"
+title: "NASA锂电池数据集CSV版"
 date:   2024-02-07
 tags: [CSV,锂电池,数据,NASA,数据处理]
 comments: true

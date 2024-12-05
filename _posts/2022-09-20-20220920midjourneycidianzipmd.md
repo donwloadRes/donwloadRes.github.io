@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "midjourney辞典.zip"
+title: "midjourney辞典zip"
 date:   2024-05-01
 tags: [AIGC,内容,辞典,midjourney,zip]
 comments: true

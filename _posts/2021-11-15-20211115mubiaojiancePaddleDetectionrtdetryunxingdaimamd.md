@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测+PaddleDetection+rt-detr运行代码"
+title: "目标检测PaddleDetectionrtdetr运行代码"
 date:   2022-09-04
 tags: [PaddleDetection,detr,代码,rt,配置文件]
 comments: true

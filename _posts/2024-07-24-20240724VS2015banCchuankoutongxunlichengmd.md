@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2015版 C#串口通讯例程"
+title: "VS2015版 C串口通讯例程"
 date:   2020-05-21
 tags: [串口,通讯,例程,VS2015,C#]
 comments: true

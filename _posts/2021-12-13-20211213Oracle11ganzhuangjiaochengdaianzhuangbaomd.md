@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle11g安装教程（带安装包）"
+title: "Oracle11g安装教程带安装包"
 date:   2023-01-30
 tags: [安装包,Oracle11g,安装,教程,解压]
 comments: true

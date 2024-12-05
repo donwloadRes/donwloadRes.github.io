@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407使用超声波HC-SR04模块"
+title: "STM32F407使用超声波HCSR04模块"
 date:   2021-02-04
 tags: [引脚,超声波,模块,STM32F407,Trig]
 comments: true

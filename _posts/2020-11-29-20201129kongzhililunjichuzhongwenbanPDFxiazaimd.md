@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "控制理论基础（中文版）PDF下载"
+title: "控制理论基础中文版PDF下载"
 date:   2023-05-12
 tags: [PDF,控制,中文版,理论,下载]
 comments: true

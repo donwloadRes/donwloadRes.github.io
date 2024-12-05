@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WindTerm 安装使用教程【图解】"
+title: "WindTerm 安装使用教程图解"
 date:   2023-09-04
 tags: [WindTerm,教程,SSH,安装,Telnet]
 comments: true

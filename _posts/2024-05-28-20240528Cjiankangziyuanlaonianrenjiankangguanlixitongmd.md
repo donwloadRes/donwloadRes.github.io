@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 健康资源：老年人健康管理系统"
+title: "C 健康资源老年人健康管理系统"
 date:   2023-05-04
 tags: [健康,老年人,用户,护理,操作]
 comments: true

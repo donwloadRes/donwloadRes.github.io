@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金融风控-贷款违约预测数据"
+title: "金融风控贷款违约预测数据"
 date:   2023-02-19
 tags: [贷款,数据,风控,违约,万条]
 comments: true

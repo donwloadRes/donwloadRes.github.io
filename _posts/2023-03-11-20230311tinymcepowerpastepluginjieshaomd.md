@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tinymce-powerpaste-plugin 介绍"
+title: "tinymcepowerpasteplugin 介绍"
 date:   2023-05-02
 tags: [Tinymce,编辑器,tinymce,powerpaste,plugin]
 comments: true

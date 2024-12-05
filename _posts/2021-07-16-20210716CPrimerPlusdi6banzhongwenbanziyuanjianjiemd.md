@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C Primer Plus 第6版 中文版》资源简介"
+title: "C Primer Plus 第6版 中文版资源简介"
 date:   2020-03-26
 tags: [C语言,学习,习题,Primer,Plus]
 comments: true

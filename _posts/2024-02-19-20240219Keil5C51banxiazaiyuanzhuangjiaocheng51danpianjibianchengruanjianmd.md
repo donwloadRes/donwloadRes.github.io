@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5 C51版 下载与安装教程（51单片机编程软件）"
+title: "Keil5 C51版 下载与安装教程51单片机编程软件"
 date:   2022-08-20
 tags: [安装,Keil5,C51,单片机,51]
 comments: true

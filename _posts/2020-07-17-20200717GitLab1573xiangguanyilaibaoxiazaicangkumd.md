@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitLab 15.7.3 相关依赖包下载仓库"
+title: "GitLab 1573 相关依赖包下载仓库"
 date:   2022-11-23
 tags: [GitLab,依赖,安装,15.7,下载]
 comments: true

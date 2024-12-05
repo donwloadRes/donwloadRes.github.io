@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio 2022 + QT6.7.2 安装教程与环境配置指南"
+title: "Visual Studio 2022  QT672 安装教程与环境配置指南"
 date:   2024-04-24
 tags: [Visual,Studio,安装,2022,QT6.7]
 comments: true

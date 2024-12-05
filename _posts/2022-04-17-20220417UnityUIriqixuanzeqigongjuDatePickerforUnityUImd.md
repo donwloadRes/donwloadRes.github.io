@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UnityUI日期选择器工具 - DatePicker for UnityUI"
+title: "UnityUI日期选择器工具  DatePicker for UnityUI"
 date:   2020-10-22
 tags: [UnityUI,选择器,日期,Unity,DatePicker]
 comments: true

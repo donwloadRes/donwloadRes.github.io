@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BT656 视频接口标准（中文版）"
+title: "BT656 视频接口标准中文版"
 date:   2023-05-04
 tags: [接口标准,BT656,视频,中文版,CCIR]
 comments: true

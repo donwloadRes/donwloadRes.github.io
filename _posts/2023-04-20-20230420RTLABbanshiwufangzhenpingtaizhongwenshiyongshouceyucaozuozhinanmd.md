@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-LAB半实物仿真平台中文使用手册与操作指南"
+title: "RTLAB半实物仿真平台中文使用手册与操作指南"
 date:   2023-05-08
 tags: [RT,LAB,仿真,本手册,用户]
 comments: true

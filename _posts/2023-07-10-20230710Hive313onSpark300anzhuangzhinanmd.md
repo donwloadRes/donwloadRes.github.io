@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hive 3.1.3 on Spark 3.0.0 安装指南"
+title: "Hive 313 on Spark 300 安装指南"
 date:   2023-02-25
 tags: [Hive,Spark,编译,源码,3.0]
 comments: true

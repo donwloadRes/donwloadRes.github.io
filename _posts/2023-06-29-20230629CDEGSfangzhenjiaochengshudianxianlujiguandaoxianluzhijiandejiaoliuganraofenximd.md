@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDEGS 仿真教程：输电线路及管道线路之间的交流干扰分析"
+title: "CDEGS 仿真教程输电线路及管道线路之间的交流干扰分析"
 date:   2022-01-01
 tags: [线路,仿真,CDEGS,交流干扰,教程]
 comments: true

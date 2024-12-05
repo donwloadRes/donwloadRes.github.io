@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "采用深度稀疏自动编码器实现高维矩阵降维，提取特征"
+title: "采用深度稀疏自动编码器实现高维矩阵降维提取特征"
 date:   2020-08-14
 tags: [编码器,稀疏,MATLAB,高维,矩阵]
 comments: true

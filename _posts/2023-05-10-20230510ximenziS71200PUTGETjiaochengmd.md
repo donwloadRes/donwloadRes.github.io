@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1200 PUT&GET教程"
+title: "西门子S71200 PUTGET教程"
 date:   2022-12-09
 tags: [PUT,GET,PLC,S7,1200]
 comments: true

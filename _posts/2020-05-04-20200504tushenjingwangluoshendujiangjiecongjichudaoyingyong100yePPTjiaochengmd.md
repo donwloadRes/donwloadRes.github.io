@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图神经网络深度讲解：从基础到应用 - 100页PPT教程"
+title: "图神经网络深度讲解从基础到应用  100页PPT教程"
 date:   2022-10-17
 tags: [神经网络,GNN,PPT,100,教程]
 comments: true

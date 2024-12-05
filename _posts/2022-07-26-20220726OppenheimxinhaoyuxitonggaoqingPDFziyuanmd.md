@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oppenheim - 信号与系统高清PDF资源"
+title: "Oppenheim  信号与系统高清PDF资源"
 date:   2022-04-10
 tags: [PDF,高清,文件,Oppenheim,清晰度]
 comments: true

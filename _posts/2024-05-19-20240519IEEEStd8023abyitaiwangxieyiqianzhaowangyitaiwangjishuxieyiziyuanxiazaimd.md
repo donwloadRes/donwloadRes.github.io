@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE Std 802.3ab 以太网协议 千兆网以太网技术协议 资源下载"
+title: "IEEE Std 8023ab 以太网协议 千兆网以太网技术协议 资源下载"
 date:   2023-10-01
 tags: [以太网,千兆,文件,协议,ab]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的可由按键切换12-24小时制的电子时钟Proteus仿真"
+title: "基于51单片机的可由按键切换1224小时制的电子时钟Proteus仿真"
 date:   2024-02-22
 tags: [仿真,Proteus,按键,单片机,12]
 comments: true

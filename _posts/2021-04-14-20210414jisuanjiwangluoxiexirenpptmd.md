@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络-谢希仁.ppt"
+title: "计算机网络谢希仁ppt"
 date:   2021-02-05
 tags: [计算机网络,希仁,PPT,学习,ppt]
 comments: true

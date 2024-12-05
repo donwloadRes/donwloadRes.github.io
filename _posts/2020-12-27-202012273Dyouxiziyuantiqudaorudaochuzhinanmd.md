@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D游戏资源提取、导入、导出指南"
+title: "3D游戏资源提取导入导出指南"
 date:   2022-09-11
 tags: [3D,游戏,提取,资源,导出]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 离线安装配置 FTP (vsftpd) 步骤及所需 deb 安装包"
+title: "Ubuntu 1804 离线安装配置 FTP vsftpd 步骤及所需 deb 安装包"
 date:   2021-04-20
 tags: [vsftpd,bash,安装包,deb,laogao]
 comments: true

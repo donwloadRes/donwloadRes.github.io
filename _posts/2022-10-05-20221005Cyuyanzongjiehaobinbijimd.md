@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言总结（郝斌笔记）"
+title: "C语言总结郝斌笔记"
 date:   2023-05-03
 tags: [C语言,学习,笔记,编程,郝斌]
 comments: true

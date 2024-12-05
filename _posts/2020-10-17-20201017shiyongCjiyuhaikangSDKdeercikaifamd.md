@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用C#基于海康SDK的二次开发"
+title: "使用C基于海康SDK的二次开发"
 date:   2020-12-23
 tags: [海康,C#,SDK,封装,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 数学实验与建模》配套数据文件"
+title: "Python 数学实验与建模配套数据文件"
 date:   2020-02-29
 tags: [建模,Python,数据文件,仓库,数学]
 comments: true

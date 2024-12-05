@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECU-Test高级教程资源下载"
+title: "ECUTest高级教程资源下载"
 date:   2021-07-16
 tags: [ECU,TEST,教程,测试,Test]
 comments: true

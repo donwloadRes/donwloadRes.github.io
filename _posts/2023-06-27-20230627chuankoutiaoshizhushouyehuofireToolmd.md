@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试助手（野火fireTool）"
+title: "串口调试助手野火fireTool"
 date:   2020-08-13
 tags: [串口,调试,fireTool,野火,助手]
 comments: true

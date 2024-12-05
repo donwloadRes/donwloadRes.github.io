@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 FiddlerCore 抓包 HTTP 和 HTTPS 源码"
+title: "C 使用 FiddlerCore 抓包 HTTP 和 HTTPS 源码"
 date:   2024-06-27
 tags: [FiddlerCore,HTTPS,抓包,示例,源码]
 comments: true

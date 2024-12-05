@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东大-计算机体系结构笔记"
+title: "东大计算机体系结构笔记"
 date:   2023-10-16
 tags: [笔记,复习,体系结构,PDF,重点]
 comments: true

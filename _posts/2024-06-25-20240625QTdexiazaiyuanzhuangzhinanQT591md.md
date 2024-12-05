@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT的下载与安装指南（QT5.9.1）"
+title: "QT的下载与安装指南QT591"
 date:   2022-08-27
 tags: [QT,安装,下载,QT5.9,5.9]
 comments: true

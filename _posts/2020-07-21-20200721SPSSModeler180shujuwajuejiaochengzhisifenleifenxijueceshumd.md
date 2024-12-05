@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPSS Modeler 18.0数据挖掘教程之四：分类分析-决策树"
+title: "SPSS Modeler 180数据挖掘教程之四分类分析决策树"
 date:   2021-11-02
 tags: [决策树,SPSS,Modeler,教程,模型]
 comments: true

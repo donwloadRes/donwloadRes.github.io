@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音信号处理实验教程、报告及Matlab代码"
+title: "语音信号处理实验教程报告及Matlab代码"
 date:   2021-05-17
 tags: [信号处理,实验,Matlab,语音,代码]
 comments: true

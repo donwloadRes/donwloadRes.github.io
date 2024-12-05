@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士SR-1000扫码器中文配置使用手册"
+title: "基恩士SR1000扫码器中文配置使用手册"
 date:   2022-12-11
 tags: [码器,SR,1000,使用手册,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sniffer Pro 4.7.5 最完整安装教程"
+title: "Sniffer Pro 475 最完整安装教程"
 date:   2024-10-20
 tags: [Sniffer,Pro,安装,4.7,安装包]
 comments: true

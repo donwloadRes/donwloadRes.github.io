@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京精雕 JDPaint 5.21.0.1028 旗舰版 （免狗版）"
+title: "北京精雕 JDPaint 52101028 旗舰版 免狗版"
 date:   2024-09-04
 tags: [5.21,版本,精雕,0.1028,免狗版]
 comments: true

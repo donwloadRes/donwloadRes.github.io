@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KPW1 5.3.3固件：解决多看刷机失败问题"
+title: "KPW1 533固件解决多看刷机失败问题"
 date:   2020-05-02
 tags: [刷机,固件,KPW1,Kindle,设备]
 comments: true

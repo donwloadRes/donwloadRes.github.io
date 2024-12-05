@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 439-1988 军用软件质量保证规范"
+title: "GJB 4391988 军用软件质量保证规范"
 date:   2022-12-14
 tags: [软件,军用,1988,质量保证,规范]
 comments: true

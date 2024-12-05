@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go语言扫块ETH、BSC、TRON交易监听机器人"
+title: "Go语言扫块ETHBSCTRON交易监听机器人"
 date:   2020-07-01
 tags: [监听,交易,区块,扫块,链上]
 comments: true

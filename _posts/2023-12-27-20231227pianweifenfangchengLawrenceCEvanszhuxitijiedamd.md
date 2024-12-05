@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偏微分方程（Lawrence C. Evans著）习题解答"
+title: "偏微分方程Lawrence C Evans著习题解答"
 date:   2020-10-28
 tags: [微分方程,习题,解答,Evans,学习]
 comments: true

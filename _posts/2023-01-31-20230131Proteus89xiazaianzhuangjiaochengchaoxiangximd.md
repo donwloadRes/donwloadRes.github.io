@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.9 下载安装教程（超详细）"
+title: "Proteus 89 下载安装教程超详细"
 date:   2020-01-20
 tags: [安装,Proteus,8.9,软件,解压]
 comments: true

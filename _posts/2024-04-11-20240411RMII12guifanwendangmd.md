@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RMII 1.2 规范文档"
+title: "RMII 12 规范文档"
 date:   2020-06-17
 tags: [文档,RMII,规范,1.2,接口]
 comments: true

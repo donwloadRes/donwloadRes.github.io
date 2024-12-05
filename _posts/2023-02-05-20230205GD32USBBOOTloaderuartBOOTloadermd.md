@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32USBBOOTloader+uartBOOTloader"
+title: "GD32USBBOOTloaderuartBOOTloader"
 date:   2020-05-05
 tags: [固件,USB,IAP,GD32,串口]
 comments: true

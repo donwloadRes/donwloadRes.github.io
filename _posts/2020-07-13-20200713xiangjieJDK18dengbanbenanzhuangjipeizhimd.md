@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解JDK1.8等版本安装及配置"
+title: "详解JDK18等版本安装及配置"
 date:   2021-03-25
 tags: [Java,JDK,配置,安装,环境变量]
 comments: true

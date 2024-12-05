@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity游戏设计期末作业：拼图、迷宫探索资源"
+title: "Unity游戏设计期末作业拼图迷宫探索资源"
 date:   2021-02-27
 tags: [玩家,游戏,Unity,迷宫,拼图游戏]
 comments: true

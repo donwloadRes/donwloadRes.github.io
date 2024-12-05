@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可适用于ESP32的Adafruit_PN532库"
+title: "可适用于ESP32的AdafruitPN532库"
 date:   2023-04-16
 tags: [ESP32,PN532,Adafruit,NFC,通信]
 comments: true

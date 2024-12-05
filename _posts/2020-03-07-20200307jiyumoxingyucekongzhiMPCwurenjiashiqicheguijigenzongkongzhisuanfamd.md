@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型预测控制（MPC）无人驾驶汽车轨迹跟踪控制算法"
+title: "基于模型预测控制MPC无人驾驶汽车轨迹跟踪控制算法"
 date:   2021-01-27
 tags: [Simulink,CarSim,控制算法,MPC,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI文件：基于AWR2944的汽车雷达DDMA波形的原理和实现"
+title: "TI文件基于AWR2944的汽车雷达DDMA波形的原理和实现"
 date:   2023-11-18
 tags: [AWR2944,DDMA,波形,雷达,汽车]
 comments: true

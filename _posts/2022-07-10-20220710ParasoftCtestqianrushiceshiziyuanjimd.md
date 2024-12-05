@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parasoft C++test嵌入式测试资源集"
+title: "Parasoft Ctest嵌入式测试资源集"
 date:   2023-06-24
 tags: [C++,test,Parasoft,嵌入式,测试]
 comments: true

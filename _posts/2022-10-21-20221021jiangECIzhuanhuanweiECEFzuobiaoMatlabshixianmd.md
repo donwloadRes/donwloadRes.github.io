@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "将ECI转换为ECEF坐标：Matlab实现"
+title: "将ECI转换为ECEF坐标Matlab实现"
 date:   2020-10-11
 tags: [ECI,ECEF,向量,坐标,3xN]
 comments: true

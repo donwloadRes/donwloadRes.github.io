@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DMA-Bridge Subsystem for PCI Express v4.1 读书笔记（中文）XDMA"
+title: "DMABridge Subsystem for PCI Express v41 读书笔记中文XDMA"
 date:   2022-12-19
 tags: [XDMA,IP,笔记,DMA,PCI]
 comments: true

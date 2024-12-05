@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机App蓝牙测试源码（HC-05蓝牙模块）"
+title: "手机App蓝牙测试源码HC05蓝牙模块"
 date:   2024-04-04
 tags: [蓝牙,App,HC,05,模块]
 comments: true

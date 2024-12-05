@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++20新特性学习资源"
+title: "C20新特性学习资源"
 date:   2022-03-01
 tags: [C++,20,特性,学习,开发者]
 comments: true

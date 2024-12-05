@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAD Studio 12.1 补丁资源文件"
+title: "RAD Studio 121 补丁资源文件"
 date:   2020-04-29
 tags: [补丁,RAD,Studio,12.1,文件]
 comments: true

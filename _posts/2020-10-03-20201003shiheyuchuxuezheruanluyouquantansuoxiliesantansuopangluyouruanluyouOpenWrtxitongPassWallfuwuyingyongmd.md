@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适合于初学者—软路由全探索系列（三）：探索旁路由-软路由 OpenWrt 系统 PassWall 服务应用"
+title: "适合于初学者软路由全探索系列三探索旁路由软路由 OpenWrt 系统 PassWall 服务应用"
 date:   2024-07-13
 tags: [PassWall,OpenWrt,路由,节点,旁路]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark 简单介绍及入门安装（附中文安装包）"
+title: "Wireshark 简单介绍及入门安装附中文安装包"
 date:   2024-11-17
 tags: [Wireshark,安装,安装包,中文,指南]
 comments: true

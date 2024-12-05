@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js安装过程遇到的问题"
+title: "Nodejs安装过程遇到的问题"
 date:   2021-01-03
 tags: [Node,js,安装,解决方案,遇到]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32控制NFC模块（PN532）源码及资料"
+title: "STM32控制NFC模块PN532源码及资料"
 date:   2024-06-01
 tags: [模块,源码,STM32,PN532,NFC]
 comments: true

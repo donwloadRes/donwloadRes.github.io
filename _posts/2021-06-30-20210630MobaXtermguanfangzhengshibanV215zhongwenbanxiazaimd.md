@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 官方正式版 V21.5 中文版下载"
+title: "MobaXterm 官方正式版 V215 中文版下载"
 date:   2022-10-21
 tags: [MobaXterm,远程,SSH,中文版,V21.5]
 comments: true

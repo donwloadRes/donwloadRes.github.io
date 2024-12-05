@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 读取 WinCC 内部变量数据"
+title: "C 读取 WinCC 内部变量数据"
 date:   2020-04-05
 tags: [WinCC,DLL,文件,C#,读取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP常用后台数据表大全(FI-CO-MM-SD-PP等)"
+title: "SAP常用后台数据表大全FICOMMSDPP等"
 date:   2022-03-04
 tags: [数据表,SAP,FI,CO,MM]
 comments: true

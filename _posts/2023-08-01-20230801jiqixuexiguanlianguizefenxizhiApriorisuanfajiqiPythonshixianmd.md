@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习—关联规则分析之Apriori算法及其Python实现"
+title: "机器学习关联规则分析之Apriori算法及其Python实现"
 date:   2021-09-19
 tags: [算法,Apriori,Python,规则,项集]
 comments: true

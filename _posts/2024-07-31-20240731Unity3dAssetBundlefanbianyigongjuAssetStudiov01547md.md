@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3d AssetBundle反编译工具 - AssetStudio.v0.15.47"
+title: "Unity3d AssetBundle反编译工具  AssetStudiov01547"
 date:   2022-07-10
 tags: [反编译,AssetBundle,工具,Unity3d,AssetStudio]
 comments: true

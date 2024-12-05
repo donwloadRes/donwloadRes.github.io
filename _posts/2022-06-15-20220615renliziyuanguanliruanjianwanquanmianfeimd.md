@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人力资源管理软件（完全免费）"
+title: "人力资源管理软件完全免费"
 date:   2022-05-23
 tags: [2008,优化,2009,考勤,管理]
 comments: true

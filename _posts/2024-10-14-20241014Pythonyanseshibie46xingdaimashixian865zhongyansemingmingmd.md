@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python颜色识别：46行代码实现865种颜色命名"
+title: "Python颜色识别46行代码实现865种颜色命名"
 date:   2024-07-11
 tags: [代码,Python,颜色,识别,865]
 comments: true

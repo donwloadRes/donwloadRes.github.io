@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QXDM5、PCAT 和 QCAT 使用手册下载"
+title: "QXDM5PCAT 和 QCAT 使用手册下载"
 date:   2024-09-06
 tags: [QCAT,使用手册,QXDM5,PCAT,工具]
 comments: true

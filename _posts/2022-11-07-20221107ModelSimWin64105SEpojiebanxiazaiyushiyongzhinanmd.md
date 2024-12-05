@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModelSim Win64 10.5 SE 破解版下载与使用指南"
+title: "ModelSim Win64 105 SE 破解版下载与使用指南"
 date:   2021-12-02
 tags: [ModelSim,仿真,安装,SE,dll]
 comments: true

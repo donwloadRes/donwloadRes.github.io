@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欢迎使用 MATLAB R2022b 完整版资源！"
+title: "欢迎使用 MATLAB R2022b 完整版资源"
 date:   2020-05-22
 tags: [MATLAB,https,R2022b,Windows,Linux]
 comments: true

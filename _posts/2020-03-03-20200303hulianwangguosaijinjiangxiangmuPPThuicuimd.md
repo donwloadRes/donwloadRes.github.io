@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "互联网+国赛金奖项目PPT：慧淬"
+title: "互联网国赛金奖项目PPT慧淬"
 date:   2024-09-30
 tags: [国赛,PPT,项目,钢轨,金奖]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最清晰的国密算法SM2_SM3_SM4标准规范"
+title: "最清晰的国密算法SM2SM3SM4标准规范"
 date:   2020-08-10
 tags: [算法,SM2,国密,SM3,SM4]
 comments: true

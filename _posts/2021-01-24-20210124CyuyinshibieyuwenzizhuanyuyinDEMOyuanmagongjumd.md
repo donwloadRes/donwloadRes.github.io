@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语音识别与文字转语音DEMO源码工具"
+title: "C语音识别与文字转语音DEMO源码工具"
 date:   2024-11-06
 tags: [语音,识别,功能,文字,源码]
 comments: true

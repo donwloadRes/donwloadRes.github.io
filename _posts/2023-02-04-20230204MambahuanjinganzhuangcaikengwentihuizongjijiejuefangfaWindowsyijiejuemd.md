@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mamba 环境安装踩坑问题汇总及解决方法（Windows已解决）"
+title: "Mamba 环境安装踩坑问题汇总及解决方法Windows已解决"
 date:   2021-09-17
 tags: [Mamba,安装,Windows,环境,解决方案]
 comments: true

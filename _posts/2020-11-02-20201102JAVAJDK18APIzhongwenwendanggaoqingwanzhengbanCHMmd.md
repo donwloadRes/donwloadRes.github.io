@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA JDK 1.8 API 中文文档 高清完整版 CHM"
+title: "JAVA JDK 18 API 中文文档 高清完整版 CHM"
 date:   2022-06-28
 tags: [文档,API,CHM,Java,完整版]
 comments: true

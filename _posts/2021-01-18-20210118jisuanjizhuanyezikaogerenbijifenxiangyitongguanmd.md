@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机专业自考个人笔记分享（已通关）"
+title: "计算机专业自考个人笔记分享已通关"
 date:   2021-03-23
 tags: [笔记,自考,计算机专业,自学者,考试]
 comments: true

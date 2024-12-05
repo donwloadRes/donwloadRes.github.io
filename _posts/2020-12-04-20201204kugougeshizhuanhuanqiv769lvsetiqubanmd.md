@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "酷狗格式转换器 v7.6.9 绿色提取版"
+title: "酷狗格式转换器 v769 绿色提取版"
 date:   2023-02-01
 tags: [酷狗,转换器,音乐格式,音频格式,转换]
 comments: true

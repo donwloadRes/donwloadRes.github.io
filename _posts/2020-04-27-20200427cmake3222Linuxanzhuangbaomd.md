@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cmake-3.22.2 Linux 安装包"
+title: "cmake3222 Linux 安装包"
 date:   2021-07-16
 tags: [Linux,cmake,3.22,安装,CMake]
 comments: true

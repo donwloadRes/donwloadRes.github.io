@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oaid-sdk-2.1.0 资源及近期更新日志"
+title: "oaidsdk210 资源及近期更新日志"
 date:   2023-05-09
 tags: [修复,Android,更新,接口,日志]
 comments: true

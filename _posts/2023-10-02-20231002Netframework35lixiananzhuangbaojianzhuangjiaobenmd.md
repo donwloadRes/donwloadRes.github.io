@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Netframework 3.5 离线安装包及安装脚本"
+title: "Netframework 35 离线安装包及安装脚本"
 date:   2021-01-02
 tags: [3.5,安装,NET,Framework,Windows]
 comments: true

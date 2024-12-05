@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wind资讯量化研究数据库V4.471 下载仓库"
+title: "Wind资讯量化研究数据库V4471 下载仓库"
 date:   2021-01-12
 tags: [数据库,Wind,量化,V4.471,下载]
 comments: true

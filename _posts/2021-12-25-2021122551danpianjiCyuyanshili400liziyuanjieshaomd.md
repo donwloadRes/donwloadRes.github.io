@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机C语言实例（400例）资源介绍"
+title: "51单片机C语言实例400例资源介绍"
 date:   2022-07-17
 tags: [51,单片机,实例,400,开发]
 comments: true

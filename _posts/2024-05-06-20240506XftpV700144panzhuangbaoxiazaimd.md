@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xftp V7.0.0144p 安装包下载"
+title: "Xftp V700144p 安装包下载"
 date:   2023-12-09
 tags: [Xftp,安装包,0144p,V7.0,下载]
 comments: true

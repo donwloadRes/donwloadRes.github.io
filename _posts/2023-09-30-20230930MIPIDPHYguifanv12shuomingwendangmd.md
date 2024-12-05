@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 规范 v1.2 说明文档"
+title: "MIPI DPHY 规范 v12 说明文档"
 date:   2024-07-02
 tags: [MIPI,PHY,规范,文档,接口]
 comments: true

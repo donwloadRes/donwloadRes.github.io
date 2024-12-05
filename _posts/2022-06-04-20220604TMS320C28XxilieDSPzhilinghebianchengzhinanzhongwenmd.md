@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320C28X系列DSP指令和编程指南(中文)"
+title: "TMS320C28X系列DSP指令和编程指南中文"
 date:   2024-11-10
 tags: [DSP,TMS320C28X,PDF,编程,系列]
 comments: true

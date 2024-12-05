@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 安装包百度云资源"
+title: "Notepad 安装包百度云资源"
 date:   2022-01-01
 tags: [Notepad,++,安装包,安装,百度]
 comments: true

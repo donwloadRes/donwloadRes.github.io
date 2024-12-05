@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8API开发手册(C#版)"
+title: "用友U8API开发手册C版"
 date:   2021-07-21
 tags: [用友,手册,开发,C#,U8]
 comments: true

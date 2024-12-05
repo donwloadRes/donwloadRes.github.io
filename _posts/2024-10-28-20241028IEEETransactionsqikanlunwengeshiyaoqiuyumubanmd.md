@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE-Transactions期刊论文格式要求与模板"
+title: "IEEETransactions期刊论文格式要求与模板"
 date:   2021-03-11
 tags: [IEEE,Transactions,模板,期刊,格式]
 comments: true

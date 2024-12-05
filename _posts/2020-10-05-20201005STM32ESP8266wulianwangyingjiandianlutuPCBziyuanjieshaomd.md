@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+ESP8266物联网硬件电路图（PCB）资源介绍"
+title: "STM32ESP8266物联网硬件电路图PCB资源介绍"
 date:   2021-04-07
 tags: [PCB,ESP8266,电路图,STM32,硬件]
 comments: true

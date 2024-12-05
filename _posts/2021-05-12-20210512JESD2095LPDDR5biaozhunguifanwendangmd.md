@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD209-5 LPDDR5 标准规范文档"
+title: "JESD2095 LPDDR5 标准规范文档"
 date:   2022-07-20
 tags: [文档,标准规范,JESD209,LPDDR5,JEDEC]
 comments: true

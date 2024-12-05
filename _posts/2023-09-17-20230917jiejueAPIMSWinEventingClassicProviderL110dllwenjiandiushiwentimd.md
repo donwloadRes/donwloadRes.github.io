@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll文件丢失问题"
+title: "解决APIMSWinEventingClassicProviderL110dll文件丢失问题"
 date:   2021-06-04
 tags: [文件,API,MS,Win,Eventing]
 comments: true

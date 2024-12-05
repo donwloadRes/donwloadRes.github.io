@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C51单片机开发心形灯流水灯（C语言）"
+title: "C51单片机开发心形灯流水灯C语言"
 date:   2020-12-31
 tags: [心形,单片机,代码,C语言,int]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "摩擦力模型LuGre - Matlab实现代码"
+title: "摩擦力模型LuGre  Matlab实现代码"
 date:   2020-01-31
 tags: [模型,LuGre,摩擦力,摩擦,参数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 摄像头视频录制与播放"
+title: "C Winform 摄像头视频录制与播放"
 date:   2020-05-11
 tags: [播放,录制,录像,视频,暂停]
 comments: true

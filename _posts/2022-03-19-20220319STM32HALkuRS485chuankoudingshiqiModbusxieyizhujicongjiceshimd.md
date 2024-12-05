@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库 RS485 串口 定时器 Modbus 协议（主机+从机测试）"
+title: "STM32 HAL库 RS485 串口 定时器 Modbus 协议主机从机测试"
 date:   2020-10-11
 tags: [从机,测试,主机,串口,STM32]
 comments: true

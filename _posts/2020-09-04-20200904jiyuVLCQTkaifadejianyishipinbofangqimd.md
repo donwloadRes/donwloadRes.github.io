@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于VLC-QT开发的简易视频播放器"
+title: "基于VLCQT开发的简易视频播放器"
 date:   2020-05-22
 tags: [播放,视频,VLC,QT,demo]
 comments: true

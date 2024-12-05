@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型飞机空气动力学 - 马丁·西蒙斯.pdf"
+title: "模型飞机空气动力学  马丁西蒙斯pdf"
 date:   2020-01-31
 tags: [航模,模型飞机,动力学,空气,飞行]
 comments: true

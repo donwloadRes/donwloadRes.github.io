@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tennessee Eastman（TE）田纳西-伊斯曼仿真平台应用试验与分析"
+title: "Tennessee EastmanTE田纳西伊斯曼仿真平台应用试验与分析"
 date:   2024-04-24
 tags: [TE,仿真,数据,平台,过程]
 comments: true

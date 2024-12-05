@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老鼠数据集（仅供测试）"
+title: "老鼠数据集仅供测试"
 date:   2022-04-12
 tags: [XML,数据,图像,文件,老鼠]
 comments: true

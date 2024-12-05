@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform控件库 - DevExpress Components 14"
+title: "Winform控件库  DevExpress Components 14"
 date:   2022-01-12
 tags: [控件,DevExpress,Winform,14,Components]
 comments: true

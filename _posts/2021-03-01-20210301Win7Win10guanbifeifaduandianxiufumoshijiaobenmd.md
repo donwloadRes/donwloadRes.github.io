@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7-Win10 关闭非法断电修复模式脚本"
+title: "Win7Win10 关闭非法断电修复模式脚本"
 date:   2023-11-25
 tags: [脚本,断电,修复,非法,Windows]
 comments: true

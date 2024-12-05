@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0与Access数据库操作实例源代码"
+title: "VB60与Access数据库操作实例源代码"
 date:   2024-03-08
 tags: [VB6.0,数据库,实例,Access,源代码]
 comments: true

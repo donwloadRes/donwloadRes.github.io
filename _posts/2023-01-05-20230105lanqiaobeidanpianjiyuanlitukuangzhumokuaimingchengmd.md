@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯单片机原理图（框注模块名称）"
+title: "蓝桥杯单片机原理图框注模块名称"
 date:   2022-09-30
 tags: [原理图,单片机,蓝桥,模块,标注]
 comments: true

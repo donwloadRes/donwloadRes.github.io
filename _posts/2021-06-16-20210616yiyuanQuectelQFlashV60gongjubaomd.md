@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移远 Quectel QFlash V6.0 工具包"
+title: "移远 Quectel QFlash V60 工具包"
 date:   2023-12-04
 tags: [QFlash,Quectel,V6.0,工具,压缩文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "create_generated_clock应用例"
+title: "creategeneratedclock应用例"
 date:   2020-06-19
 tags: [时钟,clock,生成,generated,create]
 comments: true

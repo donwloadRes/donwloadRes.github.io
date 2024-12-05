@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J 2021 第二轮复赛试题资源下载"
+title: "CSPJ 2021 第二轮复赛试题资源下载"
 date:   2021-10-23
 tags: [试题,CSP,复赛,参考答案,下载]
 comments: true

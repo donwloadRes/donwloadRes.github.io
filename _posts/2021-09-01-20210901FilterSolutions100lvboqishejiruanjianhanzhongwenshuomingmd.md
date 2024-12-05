@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Filter Solutions 10.0 滤波器设计软件（含中文说明）"
+title: "Filter Solutions 100 滤波器设计软件含中文说明"
 date:   2024-11-14
 tags: [滤波器,软件,Filter,Solutions,10.0]
 comments: true

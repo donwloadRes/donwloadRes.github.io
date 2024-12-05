@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000 嵌入式系统设计与实现资源下载"
+title: "Zynq7000 嵌入式系统设计与实现资源下载"
 date:   2021-03-14
 tags: [Zynq,7000,嵌入式,系统,设计]
 comments: true

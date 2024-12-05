@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaggle猫狗大战数据集（百度云）"
+title: "Kaggle猫狗大战数据集百度云"
 date:   2021-09-23
 tags: [数据,Kaggle,张猫,12,500]
 comments: true

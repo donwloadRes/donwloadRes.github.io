@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器109版本离线安装包（适用于Win7-Win8）"
+title: "谷歌浏览器109版本离线安装包适用于Win7Win8"
 date:   2022-01-16
 tags: [安装包,浏览器,Windows,离线,109]
 comments: true

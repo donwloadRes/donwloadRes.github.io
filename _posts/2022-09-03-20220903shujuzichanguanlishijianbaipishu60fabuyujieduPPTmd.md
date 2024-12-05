@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据资产管理实践白皮书6.0发布与解读PPT"
+title: "数据资产管理实践白皮书60发布与解读PPT"
 date:   2022-04-30
 tags: [PPT,白皮书,实践,6.0,资产]
 comments: true

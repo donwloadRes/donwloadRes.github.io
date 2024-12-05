@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8目标检测：使用ONNX模型进行推理实践指南"
+title: "YOLOv8目标检测使用ONNX模型进行推理实践指南"
 date:   2022-06-28
 tags: [检测,YOLOv8,模型,ONNX,推理]
 comments: true

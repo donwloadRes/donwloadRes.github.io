@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO IEC 13818-1 2000 标准文档下载"
+title: "ISO IEC 138181 2000 标准文档下载"
 date:   2021-10-15
 tags: [文档,ISO,IEC,13818,2000]
 comments: true

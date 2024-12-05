@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon机器人手眼标定.pptx 介绍"
+title: "Halcon机器人手眼标定pptx 介绍"
 date:   2022-08-14
 tags: [机器人,视觉,手眼,标定,Halcon]
 comments: true

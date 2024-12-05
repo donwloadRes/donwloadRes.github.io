@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ELF文件格式详解（中文）"
+title: "ELF文件格式详解中文"
 date:   2023-11-06
 tags: [ELF,文件,文件格式,操作系统,加载]
 comments: true

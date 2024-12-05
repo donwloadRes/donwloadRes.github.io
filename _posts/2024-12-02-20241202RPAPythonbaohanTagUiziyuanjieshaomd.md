@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RPA-Python（包含TagUi）资源介绍"
+title: "RPAPython包含TagUi资源介绍"
 date:   2023-01-29
 tags: [RPA,Python,自动化,TagUi,包含]
 comments: true

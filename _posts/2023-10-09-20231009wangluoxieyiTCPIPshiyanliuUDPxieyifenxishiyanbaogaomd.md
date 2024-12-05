@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络协议TCP-IP实验六 UDP 协议分析实验报告"
+title: "网络协议TCPIP实验六 UDP 协议分析实验报告"
 date:   2020-05-10
 tags: [实验,UDP,协议,网络协议,实验报告]
 comments: true

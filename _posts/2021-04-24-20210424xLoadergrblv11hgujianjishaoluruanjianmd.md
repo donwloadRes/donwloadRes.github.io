@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xLoader+grbl-v1.1h 固件及烧录软件"
+title: "xLoadergrblv11h 固件及烧录软件"
 date:   2022-03-02
 tags: [烧录,固件,xLoader,v1.1,grbl]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Tree 64位（替代）资源文件介绍"
+title: "PCI Tree 64位替代资源文件介绍"
 date:   2023-05-30
 tags: [PCIe,调试,64,工具,文件]
 comments: true

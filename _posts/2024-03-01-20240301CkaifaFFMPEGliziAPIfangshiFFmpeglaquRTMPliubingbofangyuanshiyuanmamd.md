@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发FFMPEG例子(API方式) FFmpeg拉取RTMP流并播放原始源码"
+title: "C开发FFMPEG例子API方式 FFmpeg拉取RTMP流并播放原始源码"
 date:   2023-07-22
 tags: [FFmpeg,RTMP,C#,播放,API]
 comments: true

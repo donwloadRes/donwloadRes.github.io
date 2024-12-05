@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生成绩管理系统-C语言(附源码)"
+title: "学生成绩管理系统C语言附源码"
 date:   2023-08-10
 tags: [C语言,成绩,管理系统,学生,项目]
 comments: true

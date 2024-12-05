@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口驱动专业版 Eltima Virtual Serial Port Driver Pro 最新版本 V10.0.979"
+title: "虚拟串口驱动专业版 Eltima Virtual Serial Port Driver Pro 最新版本 V100979"
 date:   2023-07-16
 tags: [串口,端口,虚拟,COM,捆绑]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与KUKA机器人通讯及文件传输"
+title: "C与KUKA机器人通讯及文件传输"
 date:   2023-02-25
 tags: [KUKA,文件传输,机器人,TCP,上位]
 comments: true

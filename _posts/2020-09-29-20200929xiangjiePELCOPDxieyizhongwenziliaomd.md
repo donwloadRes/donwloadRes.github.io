@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解PELCO-PD协议（中文资料）"
+title: "详解PELCOPD协议中文资料"
 date:   2021-03-02
 tags: [PELCO,协议,编程,资料,应用]
 comments: true

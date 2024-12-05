@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows下QT4.8.6（mingw482预编译包，32位）安装教程"
+title: "windows下QT486mingw482预编译包32位安装教程"
 date:   2023-01-02
 tags: [QT,安装,4.8,Creator,windows]
 comments: true

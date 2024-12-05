@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC Spyglass CDC(一）CDC与亚稳态、亚稳态电路的分类"
+title: "VC Spyglass CDC一CDC与亚稳态亚稳态电路的分类"
 date:   2024-07-26
 tags: [亚稳态,时钟,CDC,同步器,信号]
 comments: true

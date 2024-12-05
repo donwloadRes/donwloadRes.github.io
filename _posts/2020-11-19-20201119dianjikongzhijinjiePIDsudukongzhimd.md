@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机控制进阶：PID速度控制"
+title: "电机控制进阶PID速度控制"
 date:   2021-04-15
 tags: [PID,电机,算法,控制,编码器]
 comments: true

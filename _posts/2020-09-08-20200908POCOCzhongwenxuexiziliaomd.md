@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "POCO C++中文学习资料"
+title: "POCO C中文学习资料"
 date:   2022-11-09
 tags: [C++,POCO,开发者,学习,资料]
 comments: true

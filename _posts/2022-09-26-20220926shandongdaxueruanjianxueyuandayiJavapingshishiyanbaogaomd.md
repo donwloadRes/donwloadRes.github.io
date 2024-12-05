@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学软件学院-大一Java-平时实验报告"
+title: "山东大学软件学院大一Java平时实验报告"
 date:   2024-12-03
 tags: [Java,学习,实验报告,山东大学,大一]
 comments: true

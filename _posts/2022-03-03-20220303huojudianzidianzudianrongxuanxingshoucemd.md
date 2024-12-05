@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "火炬电子电阻、电容选型手册"
+title: "火炬电子电阻电容选型手册"
 date:   2023-04-27
 tags: [电容,选型,电阻,火炬,钽电容]
 comments: true

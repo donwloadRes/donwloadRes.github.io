@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机课程设计：电子密码锁的设计"
+title: "单片机课程设计电子密码锁的设计"
 date:   2024-06-06
 tags: [单片机,课程设计,设计,密码锁,实验]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++仓库管理系统资源文件介绍"
+title: "CC仓库管理系统资源文件介绍"
 date:   2020-04-08
 tags: [仓库,信息,产品编号,入库,查询]
 comments: true

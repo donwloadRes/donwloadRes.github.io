@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ResNet-18 深度学习工具箱模型"
+title: "ResNet18 深度学习工具箱模型"
 date:   2022-12-02
 tags: [图像,模型,ResNet,18,net]
 comments: true

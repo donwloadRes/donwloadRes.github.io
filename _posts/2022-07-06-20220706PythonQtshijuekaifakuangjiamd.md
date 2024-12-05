@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Qt视觉开发框架"
+title: "PythonQt视觉开发框架"
 date:   2024-08-31
 tags: [视觉,Python,Qt,OpenCV,开发]
 comments: true

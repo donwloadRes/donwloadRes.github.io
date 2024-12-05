@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++二维数组最大值查找指南"
+title: "C二维数组最大值查找指南"
 date:   2024-02-01
 tags: [最大值,数组,int,二维,C++]
 comments: true

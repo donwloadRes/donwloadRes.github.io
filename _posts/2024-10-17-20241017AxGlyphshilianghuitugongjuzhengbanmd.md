@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AxGlyph矢量绘图工具（正版）"
+title: "AxGlyph矢量绘图工具正版"
 date:   2023-05-07
 tags: [AxGlyph,动画,绘图,正版,设计]
 comments: true

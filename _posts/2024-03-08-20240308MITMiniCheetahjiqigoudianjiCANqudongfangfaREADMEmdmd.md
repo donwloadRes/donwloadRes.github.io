@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT Mini Cheetah机器狗电机CAN驱动方法 README.md"
+title: "MIT Mini Cheetah机器狗电机CAN驱动方法 READMEmd"
 date:   2021-02-20
 tags: [电机,MIT,Mini,Cheetah,驱动]
 comments: true

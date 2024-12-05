@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件设计需求说明书（完整版）下载"
+title: "硬件设计需求说明书完整版下载"
 date:   2022-01-02
 tags: [文档,硬件,设计,完整版,需求]
 comments: true

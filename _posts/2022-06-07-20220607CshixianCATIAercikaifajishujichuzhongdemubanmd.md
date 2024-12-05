@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现CATIA二次开发技术基础》中的模板"
+title: "C实现CATIA二次开发技术基础中的模板"
 date:   2021-04-07
 tags: [模板,二次开发,CATIA,C#,初始化]
 comments: true

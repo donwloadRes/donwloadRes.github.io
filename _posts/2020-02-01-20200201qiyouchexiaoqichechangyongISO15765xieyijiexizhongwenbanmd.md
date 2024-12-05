@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽油车、小汽车常用ISO15765协议解析中文版"
+title: "汽油车小汽车常用ISO15765协议解析中文版"
 date:   2024-10-07
 tags: [ISO15765,协议,解析,汽油车,小汽车]
 comments: true

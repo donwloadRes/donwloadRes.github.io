@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi JSON操作示例及SuperObject 1.25 下载"
+title: "Delphi JSON操作示例及SuperObject 125 下载"
 date:   2023-11-17
 tags: [SuperObject,Delphi,JSON,示例,1.25]
 comments: true

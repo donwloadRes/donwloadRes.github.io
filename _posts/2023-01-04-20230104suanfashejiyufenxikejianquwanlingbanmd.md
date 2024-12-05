@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析课件 - 屈婉玲版"
+title: "算法设计与分析课件  屈婉玲版"
 date:   2020-07-17
 tags: [课件,算法,设计,解压,分析]
 comments: true

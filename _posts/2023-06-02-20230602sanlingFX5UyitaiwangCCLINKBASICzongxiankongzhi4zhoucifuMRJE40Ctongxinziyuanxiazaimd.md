@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱FX5U以太网CC-LINK BASIC总线控制4轴伺服MR-JE-40C通信资源下载"
+title: "三菱FX5U以太网CCLINK BASIC总线控制4轴伺服MRJE40C通信资源下载"
 date:   2023-11-02
 tags: [以太网,FX5U,CC,MR,JE]
 comments: true

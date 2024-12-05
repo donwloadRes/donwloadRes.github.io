@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实时曲线图"
+title: "C 实时曲线图"
 date:   2023-11-20
 tags: [C#,实时,NET,数据,曲线图]
 comments: true

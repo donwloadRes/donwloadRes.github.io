@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0jcxg0驱动：适用于Windows 11的解决方案"
+title: "0jcxg0驱动适用于Windows 11的解决方案"
 date:   2023-04-10
 tags: [Windows,0jcxg0,安装,11,驱动]
 comments: true

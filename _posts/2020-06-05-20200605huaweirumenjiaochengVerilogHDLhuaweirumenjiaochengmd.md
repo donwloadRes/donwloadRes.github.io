@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为入门教程：Verilog HDL 华为入门教程"
+title: "华为入门教程Verilog HDL 华为入门教程"
 date:   2022-12-23
 tags: [HDL,Verilog,入门教程,华为,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA eDP 1.3 规范文件下载"
+title: "VESA eDP 13 规范文件下载"
 date:   2022-04-05
 tags: [文件,VESA,规范,1.3,eDP]
 comments: true

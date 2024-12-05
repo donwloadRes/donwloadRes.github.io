@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "异步电动机变频调速的MATLAB-Simulink仿真"
+title: "异步电动机变频调速的MATLABSimulink仿真"
 date:   2021-09-26
 tags: [仿真,异步电动,调速,Simulink,MATLAB]
 comments: true

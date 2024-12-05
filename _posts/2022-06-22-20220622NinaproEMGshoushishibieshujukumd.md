@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ninapro-EMG 手势识别数据库"
+title: "NinaproEMG 手势识别数据库"
 date:   2020-04-21
 tags: [Ninapro,EMG,数据库,手势,模型]
 comments: true

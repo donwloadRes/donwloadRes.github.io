@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 13849-1 2015中文版下载仓库"
+title: "ISO 138491 2015中文版下载仓库"
 date:   2021-03-17
 tags: [中文版,ISO,13849,2015,下载]
 comments: true

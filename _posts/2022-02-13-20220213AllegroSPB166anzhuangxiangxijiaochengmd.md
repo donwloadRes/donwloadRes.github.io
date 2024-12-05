@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro_SPB_16.6安装详细教程"
+title: "AllegroSPB166安装详细教程"
 date:   2022-06-22
 tags: [安装,Allegro,SPB,16.6,教程]
 comments: true

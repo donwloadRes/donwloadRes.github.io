@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用SOCKET实现TCP-IP协议的通讯最好的DEMO源码"
+title: "使用SOCKET实现TCPIP协议的通讯最好的DEMO源码"
 date:   2024-07-03
 tags: [客户端,连接,TcpClient,result,tcpListener]
 comments: true

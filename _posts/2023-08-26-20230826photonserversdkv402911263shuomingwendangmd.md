@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "photon-server-sdk-v4-0-29-11263 说明文档"
+title: "photonserversdkv402911263 说明文档"
 date:   2022-11-15
 tags: [SDK,29,文档,Photon,photon]
 comments: true

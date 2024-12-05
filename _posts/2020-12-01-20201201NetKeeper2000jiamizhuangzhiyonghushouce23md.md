@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetKeeper-2000加密装置用户手册2.3"
+title: "NetKeeper2000加密装置用户手册23"
 date:   2020-05-14
 tags: [NetKeeper,2000,加密,2.3,安全]
 comments: true

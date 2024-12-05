@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fortify-SCA 扫描工具指导手册"
+title: "FortifySCA 扫描工具指导手册"
 date:   2020-11-24
 tags: [Fortify,SCA,扫描,手册,阶段]
 comments: true

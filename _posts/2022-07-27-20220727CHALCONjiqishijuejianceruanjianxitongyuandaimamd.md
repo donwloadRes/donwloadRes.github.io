@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HALCON 机器视觉检测软件系统源代码"
+title: "C HALCON 机器视觉检测软件系统源代码"
 date:   2023-08-24
 tags: [源代码,软件系统,HALCON,检测,视觉]
 comments: true

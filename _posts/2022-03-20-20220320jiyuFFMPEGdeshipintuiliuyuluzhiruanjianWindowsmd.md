@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FFMPEG的视频推流与录制软件(Windows)"
+title: "基于FFMPEG的视频推流与录制软件Windows"
 date:   2020-08-17
 tags: [FFMPEG,视频,推流,Windows,录制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑卡西欧计算器 fx-991CN X Emulator19中文特别版（附带说明书）"
+title: "电脑卡西欧计算器 fx991CN X Emulator19中文特别版附带说明书"
 date:   2024-01-02
 tags: [模拟器,计算器,特别版,卡西欧,fx]
 comments: true

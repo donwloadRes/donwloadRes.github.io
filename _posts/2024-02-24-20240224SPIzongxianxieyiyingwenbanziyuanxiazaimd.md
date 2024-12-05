@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPI 总线协议（英文版）资源下载"
+title: "SPI 总线协议英文版资源下载"
 date:   2020-11-22
 tags: [SPI,总线,英文版,PDF,文件]
 comments: true

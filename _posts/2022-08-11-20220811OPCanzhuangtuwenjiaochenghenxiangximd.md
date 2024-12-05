@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC安装图文教程(很详细)"
+title: "OPC安装图文教程很详细"
 date:   2022-01-12
 tags: [安装,OPC,教程,图文,详细]
 comments: true

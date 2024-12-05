@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake手册详解.pdf"
+title: "CMake手册详解pdf"
 date:   2020-10-14
 tags: [CMake,手册,命令,pdf,构建]
 comments: true

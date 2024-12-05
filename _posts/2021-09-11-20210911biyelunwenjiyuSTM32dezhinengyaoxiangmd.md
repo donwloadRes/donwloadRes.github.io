@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业论文：基于STM32的智能药箱"
+title: "毕业论文基于STM32的智能药箱"
 date:   2024-10-27
 tags: [STM32,单片机,数据结构,毕业设计,药箱]
 comments: true

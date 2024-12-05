@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#控制UVC摄像头并调整高级参数的源码示例"
+title: "C控制UVC摄像头并调整高级参数的源码示例"
 date:   2023-06-11
 tags: [摄像头,参数,源码,调整,示例]
 comments: true

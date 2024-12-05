@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dumpbin.zip 资源文件下载"
+title: "dumpbinzip 资源文件下载"
 date:   2022-08-01
 tags: [dumpbin,文件,zip,DLL,工具]
 comments: true

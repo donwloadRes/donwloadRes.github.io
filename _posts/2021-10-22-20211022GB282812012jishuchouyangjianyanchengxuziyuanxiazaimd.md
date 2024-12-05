@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB 2828.1-2012计数抽样检验程序资源下载"
+title: "GB 282812012计数抽样检验程序资源下载"
 date:   2022-05-05
 tags: [抽样,2012,检验,GB,2828.1]
 comments: true

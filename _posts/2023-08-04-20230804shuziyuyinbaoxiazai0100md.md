@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字语音包下载（0-100）"
+title: "数字语音包下载0100"
 date:   2021-01-19
 tags: [语音,100,数字,下载,MP3]
 comments: true

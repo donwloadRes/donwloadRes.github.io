@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32通过BLE蓝牙 HC-08与Android APP通信源码"
+title: "STM32通过BLE蓝牙 HC08与Android APP通信源码"
 date:   2023-08-30
 tags: [蓝牙,源码,APP,STM32,HC]
 comments: true

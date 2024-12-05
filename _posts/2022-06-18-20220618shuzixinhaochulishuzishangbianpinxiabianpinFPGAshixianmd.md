@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理----数字上变频&下变频--FPGA实现"
+title: "数字信号处理数字上变频下变频FPGA实现"
 date:   2021-11-18
 tags: [FPGA,信号处理,数字,信号,下变频]
 comments: true

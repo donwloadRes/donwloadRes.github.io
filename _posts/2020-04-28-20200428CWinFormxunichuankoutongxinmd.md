@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm虚拟串口通信"
+title: "C WinForm虚拟串口通信"
 date:   2023-02-25
 tags: [串口,虚拟,发送,WinForm,16]
 comments: true

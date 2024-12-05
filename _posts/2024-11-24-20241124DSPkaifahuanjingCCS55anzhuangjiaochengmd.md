@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP开发环境CCS 5.5安装教程"
+title: "DSP开发环境CCS 55安装教程"
 date:   2020-03-12
 tags: [CCS,5.5,安装,教程,DSP]
 comments: true

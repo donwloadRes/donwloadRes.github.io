@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用字7000.txt 说明文档"
+title: "常用字7000txt 说明文档"
 date:   2020-05-06
 tags: [汉字,常用字,7000,txt,现代汉语]
 comments: true

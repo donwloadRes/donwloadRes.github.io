@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OpenCV和shape_predictor_68_face_landmarks.dat的人脸识别监测"
+title: "基于OpenCV和shapepredictor68facelandmarksdat的人脸识别监测"
 date:   2021-02-26
 tags: [face,predictor,68,landmarks,cv2]
 comments: true

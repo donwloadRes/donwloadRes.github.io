@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子书：杜春雷ARM体系结构与编程》"
+title: "电子书杜春雷ARM体系结构与编程"
 date:   2020-08-01
 tags: [ARM,体系结构,编程,春雷,技术]
 comments: true

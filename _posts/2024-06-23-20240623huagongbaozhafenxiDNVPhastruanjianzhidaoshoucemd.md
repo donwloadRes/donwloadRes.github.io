@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "化工爆炸分析 - DNV Phast 软件指导手册"
+title: "化工爆炸分析  DNV Phast 软件指导手册"
 date:   2024-04-08
 tags: [DNV,Phast,软件,化工,爆炸]
 comments: true

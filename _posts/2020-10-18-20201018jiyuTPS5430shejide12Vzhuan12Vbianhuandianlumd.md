@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于TPS5430设计的+12V转-12V变换电路"
+title: "基于TPS5430设计的12V转12V变换电路"
 date:   2021-03-28
 tags: [12V,原理图,电路,文件,电路设计]
 comments: true

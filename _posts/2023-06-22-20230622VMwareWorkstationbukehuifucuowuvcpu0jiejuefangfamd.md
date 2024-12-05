@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 不可恢复错误 (vcpu-0) 解决方法"
+title: "VMware Workstation 不可恢复错误 vcpu0 解决方法"
 date:   2020-03-05
 tags: [VMware,Workstation,vcpu,错误,解决]
 comments: true

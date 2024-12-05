@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VM虚拟机+ubuntu20.04+ros安装步骤"
+title: "VM虚拟机ubuntu2004ros安装步骤"
 date:   2021-01-29
 tags: [ROS,虚拟机,安装,Ubuntu,20.04]
 comments: true

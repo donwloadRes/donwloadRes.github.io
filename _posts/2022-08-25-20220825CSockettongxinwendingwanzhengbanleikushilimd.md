@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket通信稳定完整版类库实例"
+title: "C Socket通信稳定完整版类库实例"
 date:   2022-05-28
 tags: [Socket,类库,开发者,通信,C#]
 comments: true

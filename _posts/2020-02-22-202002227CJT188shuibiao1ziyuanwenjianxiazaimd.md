@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7-CJT188水表1 资源文件下载"
+title: "7CJT188水表1 资源文件下载"
 date:   2022-01-14
 tags: [文件,协议,资源,水表,行业标准]
 comments: true

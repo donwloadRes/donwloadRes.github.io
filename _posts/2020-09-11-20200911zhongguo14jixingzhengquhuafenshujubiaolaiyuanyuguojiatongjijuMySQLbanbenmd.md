@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国1-4级行政区划分数据表(来源于国家统计局) - MySQL 版本"
+title: "中国14级行政区划分数据表来源于国家统计局  MySQL 版本"
 date:   2023-01-18
 tags: [数据表,MySQL,数据库,数据,导入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java综合项目：拼图游戏"
+title: "Java综合项目拼图游戏"
 date:   2022-11-04
 tags: [Java,用户,游戏,界面,拼图游戏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepFaceLab小白教程：视频换脸过程"
+title: "DeepFaceLab小白教程视频换脸过程"
 date:   2023-06-12
 tags: [换脸,视频,DeepFaceLab,教程,模型]
 comments: true

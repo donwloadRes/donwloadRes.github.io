@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker安装包（Linux和Windows）"
+title: "Docker安装包Linux和Windows"
 date:   2021-09-15
 tags: [Docker,安装包,安装,Linux,Windows]
 comments: true

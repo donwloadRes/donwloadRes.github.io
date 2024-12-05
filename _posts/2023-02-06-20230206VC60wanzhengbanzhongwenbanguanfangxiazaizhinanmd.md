@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 6.0 完整版 中文版 官方下载指南"
+title: "VC 60 完整版 中文版 官方下载指南"
 date:   2022-06-06
 tags: [C++,6.0,编程,兼容性,完整版]
 comments: true

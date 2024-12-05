@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用ArcGIS制作1:10000比例尺地形图分幅和编号"
+title: "利用ArcGIS制作110000比例尺地形图分幅和编号"
 date:   2021-07-12
 tags: [ArcGIS,地形图,工具,编号,分幅]
 comments: true

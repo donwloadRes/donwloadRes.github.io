@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaFX SDK 11.0.2 下载仓库"
+title: "JavaFX SDK 1102 下载仓库"
 date:   2020-07-17
 tags: [JavaFX,SDK,下载,11.0,仓库]
 comments: true

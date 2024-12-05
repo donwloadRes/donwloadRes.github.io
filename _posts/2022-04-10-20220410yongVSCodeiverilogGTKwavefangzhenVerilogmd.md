@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用VS Code + iverilog + GTKwave仿真Verilog"
+title: "用VS Code  iverilog  GTKwave仿真Verilog"
 date:   2020-09-01
 tags: [Verilog,VS,Code,iverilog,仿真]
 comments: true

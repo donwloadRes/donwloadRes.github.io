@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK用户指南（中文完整版）"
+title: "VTK用户指南中文完整版"
 date:   2021-12-10
 tags: [VTK,网格,数据,指南,可视化]
 comments: true

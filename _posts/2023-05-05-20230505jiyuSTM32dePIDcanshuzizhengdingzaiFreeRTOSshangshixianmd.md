@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的PID参数自整定（在FreeRTOS上实现）"
+title: "基于STM32的PID参数自整定在FreeRTOS上实现"
 date:   2024-10-13
 tags: [STM32,PID,FreeRTOS,自整定,参数]
 comments: true

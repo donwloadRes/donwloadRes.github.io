@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于全卷积神经网络(FCN)实现图像分割"
+title: "基于全卷积神经网络FCN实现图像分割"
 date:   2023-01-04
 tags: [FCN,分割,训练,卷积,数据]
 comments: true

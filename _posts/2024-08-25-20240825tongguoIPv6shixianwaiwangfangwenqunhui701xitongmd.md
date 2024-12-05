@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通过IPv6实现外网访问群晖7.0.1系统"
+title: "通过IPv6实现外网访问群晖701系统"
 date:   2021-04-19
 tags: [IPv6,域名,NAS,aliddns,sh]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSI-MSIX 中断总结文档"
+title: "MSIMSIX 中断总结文档"
 date:   2021-07-18
 tags: [MSI,MSIX,中断,文档,示例]
 comments: true

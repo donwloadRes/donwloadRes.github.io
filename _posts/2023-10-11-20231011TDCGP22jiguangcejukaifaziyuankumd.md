@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDC-GP22激光测距开发资源库"
+title: "TDCGP22激光测距开发资源库"
 date:   2023-11-18
 tags: [TDC,GP22,示例,激光测距,开发]
 comments: true

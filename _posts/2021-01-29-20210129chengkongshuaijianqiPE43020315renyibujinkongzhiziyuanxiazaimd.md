@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程控衰减器PE4302 0-31.5任意步进控制资源下载"
+title: "程控衰减器PE4302 0315任意步进控制资源下载"
 date:   2021-04-27
 tags: [衰减器,程控,步进,STM32,31.5]
 comments: true

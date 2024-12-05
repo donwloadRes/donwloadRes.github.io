@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLO标注工具（适用于YOLO-OBB，可画旋转框）——JieLabel（自带训练和识别工具）"
+title: "YOLO标注工具适用于YOLOOBB可画旋转框JieLabel自带训练和识别工具"
 date:   2020-10-10
 tags: [标注,训练,YOLO,JieLabel,矩形框]
 comments: true

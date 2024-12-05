@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt界面编程指南：深入理解Qt 5帮助文档"
+title: "Qt界面编程指南深入理解Qt 5帮助文档"
 date:   2020-11-12
 tags: [Qt,文档,开发者,帮助,函数]
 comments: true

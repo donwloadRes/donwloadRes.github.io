@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超市管理系统(超市前台销售)"
+title: "超市管理系统超市前台销售"
 date:   2022-12-28
 tags: [挂单,收银员,前台,商品,超市]
 comments: true

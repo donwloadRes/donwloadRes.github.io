@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "公开数据集合：农作物与农业相关数据集"
+title: "公开数据集合农作物与农业相关数据集"
 date:   2023-03-30
 tags: [数据,Rice,Diseases,农业,农作物]
 comments: true

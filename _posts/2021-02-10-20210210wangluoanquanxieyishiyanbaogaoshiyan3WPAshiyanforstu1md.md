@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全协议实验报告 - 实验3: WPA实验 - for-stu1"
+title: "网络安全协议实验报告  实验3 WPA实验  forstu1"
 date:   2022-11-06
 tags: [WPA,实验,网络安全,---,协议]
 comments: true

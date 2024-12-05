@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "台积电0.13um工艺库资源下载"
+title: "台积电013um工艺库资源下载"
 date:   2020-02-23
 tags: [工艺,0.13,um,台积,文件]
 comments: true

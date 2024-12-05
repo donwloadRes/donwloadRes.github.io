@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAS学习笔记（一）如何安装SAS"
+title: "SAS学习笔记一如何安装SAS"
 date:   2023-09-07
 tags: [SAS,安装,软件,360,卸载]
 comments: true

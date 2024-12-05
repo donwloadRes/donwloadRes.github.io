@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab T-S模糊控制仿真资源介绍"
+title: "Matlab TS模糊控制仿真资源介绍"
 date:   2022-10-07
 tags: [仿真,Matlab,模糊控制,文件,资源]
 comments: true

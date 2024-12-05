@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAN生成对抗网络实战(PyTorch版) 资源下载"
+title: "GAN生成对抗网络实战PyTorch版 资源下载"
 date:   2024-10-30
 tags: [GAN,章节,生成,对抗,课程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB Simulink与GUI仿真：2ASK、2FSK、2PSK、2DPSK"
+title: "MATLAB Simulink与GUI仿真2ASK2FSK2PSK2DPSK"
 date:   2022-04-25
 tags: [仿真,GUI,MATLAB,2ASK,2FSK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "辰光PHP在线客服系统3.6 IM即时通讯聊天源码 - 微信公众号&小程序全兼容版"
+title: "辰光PHP在线客服系统36 IM即时通讯聊天源码  微信公众号小程序全兼容版"
 date:   2024-07-24
 tags: [微信,源码,PHP,即时通讯,在线]
 comments: true

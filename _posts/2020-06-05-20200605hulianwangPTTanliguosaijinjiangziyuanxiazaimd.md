@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "互联网+PTT案例（国赛金奖）资源下载"
+title: "互联网PTT案例国赛金奖资源下载"
 date:   2020-06-08
 tags: [案例,PTT,国赛,金奖,互联网]
 comments: true

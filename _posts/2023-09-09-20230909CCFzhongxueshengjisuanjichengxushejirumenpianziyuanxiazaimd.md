@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF中学生计算机程序设计-入门篇 资源下载"
+title: "CCF中学生计算机程序设计入门篇 资源下载"
 date:   2022-10-04
 tags: [资源,CCF,入门篇,下载,中学生]
 comments: true

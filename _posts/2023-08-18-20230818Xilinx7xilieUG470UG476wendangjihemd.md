@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx 7系列UG470-UG476文档集合"
+title: "Xilinx 7系列UG470UG476文档集合"
 date:   2023-08-29
 tags: [文档,Xilinx,FPGA,系列,学习]
 comments: true

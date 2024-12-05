@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-利用LSTM进行多标签时间序列分类"
+title: "Python利用LSTM进行多标签时间序列分类"
 date:   2021-10-17
 tags: [LSTM,模型,Python,序列,标签]
 comments: true

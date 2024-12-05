@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(超详细)新手零基础使用配置Redis，在IDEA中集成Redis"
+title: "超详细新手零基础使用配置Redis在IDEA中集成Redis"
 date:   2023-09-09
 tags: [Redis,redis,IDEA,配置,使用]
 comments: true

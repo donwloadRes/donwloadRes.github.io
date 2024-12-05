@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virtex-7 690T开发板套件下载"
+title: "Virtex7 690T开发板套件下载"
 date:   2020-10-15
 tags: [690T,开发板,文件,Virtex,rar]
 comments: true

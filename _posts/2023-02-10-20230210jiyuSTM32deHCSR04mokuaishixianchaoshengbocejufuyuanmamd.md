@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的HC_SR04模块实现超声波测距（附源码）"
+title: "基于STM32的HCSR04模块实现超声波测距附源码"
 date:   2022-06-07
 tags: [超声波,测距,串口,STM32,HC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用FFMPEG＋easydarwin进行本地摄像头RTSP推流指南"
+title: "使用FFMPEGeasydarwin进行本地摄像头RTSP推流指南"
 date:   2023-06-12
 tags: [推流,EasyDarwin,摄像头,RTSP,FFMPEG]
 comments: true

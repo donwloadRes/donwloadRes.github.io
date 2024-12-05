@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "83组LUTs婚礼+电影+美食调色预设【剪映LUT通用】"
+title: "83组LUTs婚礼电影美食调色预设剪映LUT通用"
 date:   2021-09-13
 tags: [LUT,Adobe,预设,调色,Photoshop]
 comments: true

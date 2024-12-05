@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++曲线拟合源代码"
+title: "C曲线拟合源代码"
 date:   2021-11-27
 tags: [源代码,曲线拟合,C++,代码,拟合]
 comments: true

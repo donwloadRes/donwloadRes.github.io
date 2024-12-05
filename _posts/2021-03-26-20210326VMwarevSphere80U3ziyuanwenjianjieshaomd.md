@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 8.0U3 资源文件介绍"
+title: "VMware vSphere 80U3 资源文件介绍"
 date:   2021-08-17
 tags: [VMware,vSphere,U3,8.0,虚拟化]
 comments: true

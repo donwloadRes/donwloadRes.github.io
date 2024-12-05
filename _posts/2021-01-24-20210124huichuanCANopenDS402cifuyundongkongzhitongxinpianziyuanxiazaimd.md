@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川 CANopen（DS402伺服运动控制）通信篇资源下载"
+title: "汇川 CANopenDS402伺服运动控制通信篇资源下载"
 date:   2020-09-12
 tags: [CANopen,DS402,伺服,汇川,运动]
 comments: true

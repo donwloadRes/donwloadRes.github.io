@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Gradio中share=True无法创建共享链接的问题"
+title: "解决Gradio中shareTrue无法创建共享链接的问题"
 date:   2023-04-09
 tags: [frpc,Gradio,windows,amd64,v0.2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt教程3：在Ubuntu(x86_64)上配置arm64(aarch64)交叉编译环境及QT编译arm64架构工程"
+title: "Qt教程3在Ubuntux8664上配置arm64aarch64交叉编译环境及QT编译arm64架构工程"
 date:   2022-05-19
 tags: [编译,Qt,arm64,教程,交叉]
 comments: true

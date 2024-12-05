@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统（郑君里 第三版）课后习题解析"
+title: "信号与系统郑君里 第三版课后习题解析"
 date:   2024-05-07
 tags: [习题,解析,郑君里,第三版,课后]
 comments: true

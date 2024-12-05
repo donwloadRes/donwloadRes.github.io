@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YALE和COIL20数据集的可视化（Python实现）"
+title: "YALE和COIL20数据集的可视化Python实现"
 date:   2021-03-20
 tags: [可视化,YALE,COIL20,数据,Python]
 comments: true

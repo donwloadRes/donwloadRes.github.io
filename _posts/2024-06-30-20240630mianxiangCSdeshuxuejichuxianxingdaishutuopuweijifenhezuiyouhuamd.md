@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面向 CS 的数学基础：线性代数、拓扑、微积分和最优化"
+title: "面向 CS 的数学基础线性代数拓扑微积分和最优化"
 date:   2023-05-13
 tags: [线性代数,最优化,微积分,拓扑,数学]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTspice基础教程-001: 软件简介与安装"
+title: "LTspice基础教程001 软件简介与安装"
 date:   2023-12-22
 tags: [LTspice,仿真,安装,软件,基础教程]
 comments: true

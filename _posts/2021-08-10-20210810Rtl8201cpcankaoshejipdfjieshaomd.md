@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rtl8201cp参考设计.pdf 介绍"
+title: "Rtl8201cp参考设计pdf 介绍"
 date:   2021-09-30
 tags: [设计,Rtl8201cp,pdf,RTL8201CP,参考]
 comments: true

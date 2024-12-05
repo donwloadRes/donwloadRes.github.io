@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32固件库使用手册（中文版）"
+title: "STM32固件库使用手册中文版"
 date:   2024-01-20
 tags: [STM32,固件,STM32F1,系列,微控制器]
 comments: true

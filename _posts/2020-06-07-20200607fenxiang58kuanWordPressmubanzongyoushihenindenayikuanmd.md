@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享58款WordPress模板，总有适合您的那一款！"
+title: "分享58款WordPress模板总有适合您的那一款"
 date:   2020-05-03
 tags: [模板,WordPress,58,分享,主题]
 comments: true

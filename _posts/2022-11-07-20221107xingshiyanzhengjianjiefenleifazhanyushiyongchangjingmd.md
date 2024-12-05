@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "形式验证简介：分类、发展与适用场景"
+title: "形式验证简介分类发展与适用场景"
 date:   2021-06-25
 tags: [验证,形式,模块,等价,场景]
 comments: true

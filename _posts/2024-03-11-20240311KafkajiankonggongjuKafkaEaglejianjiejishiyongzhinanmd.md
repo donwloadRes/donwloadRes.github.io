@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kafka监控工具Kafka-Eagle简介及使用指南"
+title: "Kafka监控工具KafkaEagle简介及使用指南"
 date:   2022-07-29
 tags: [Kafka,Eagle,监控,集群,工具]
 comments: true

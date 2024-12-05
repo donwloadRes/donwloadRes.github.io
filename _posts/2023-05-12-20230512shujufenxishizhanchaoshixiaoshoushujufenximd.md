@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据分析实战 - 超市销售数据分析"
+title: "数据分析实战  超市销售数据分析"
 date:   2024-06-17
 tags: [销售,数据,商品,代码,数据分析]
 comments: true

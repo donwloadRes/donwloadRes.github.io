@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINCC 7.5 SP2 官方安装包下载"
+title: "WINCC 75 SP2 官方安装包下载"
 date:   2020-03-26
 tags: [SP2,7.5,安装包,WINCC,安装]
 comments: true

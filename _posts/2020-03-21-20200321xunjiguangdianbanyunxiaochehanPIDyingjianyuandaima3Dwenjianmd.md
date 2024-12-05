@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "循迹光电搬运小车含PID（硬件+源代码+3D文件）"
+title: "循迹光电搬运小车含PID硬件源代码3D文件"
 date:   2023-09-03
 tags: [循迹,PID,小车,硬件,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++卫星坐标计算资源文件"
+title: "C卫星坐标计算资源文件"
 date:   2022-08-25
 tags: [星历,文件,C++,RINEX,格式]
 comments: true

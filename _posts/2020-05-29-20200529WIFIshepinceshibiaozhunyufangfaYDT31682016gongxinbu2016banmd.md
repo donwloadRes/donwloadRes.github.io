@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIFI射频测试标准与方法（YD-T3168-2016）- 工信部2016版"
+title: "WIFI射频测试标准与方法YDT31682016 工信部2016版"
 date:   2020-09-22
 tags: [2016,WIFI,测试,射频,802.11]
 comments: true

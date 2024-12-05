@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VREP与MATLAB联合仿真程序--UR5机械臂动力学控制"
+title: "VREP与MATLAB联合仿真程序UR5机械臂动力学控制"
 date:   2022-10-12
 tags: [仿真,VREP,MATLAB,UR5,机械]
 comments: true

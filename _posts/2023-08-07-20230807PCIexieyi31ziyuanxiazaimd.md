@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 协议3.1 资源下载"
+title: "PCIe 协议31 资源下载"
 date:   2020-08-24
 tags: [PCIe,3.1,协议,DPC,资源]
 comments: true

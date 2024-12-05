@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6功耗测评（功耗优化必读）"
+title: "STM32F103C8T6功耗测评功耗优化必读"
 date:   2021-07-08
 tags: [功耗,STM32F103C8T6,优化,测评,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云+Android Studio+SQL数据库实现增改删查与云端登录数据交互指南"
+title: "阿里云Android StudioSQL数据库实现增改删查与云端登录数据交互指南"
 date:   2021-07-12
 tags: [数据库,Android,云端,示例,阿里]
 comments: true

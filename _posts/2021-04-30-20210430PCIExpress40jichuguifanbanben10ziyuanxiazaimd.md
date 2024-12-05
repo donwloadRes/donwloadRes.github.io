@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 4.0 基础规范版本 1.0 资源下载"
+title: "PCI Express 40 基础规范版本 10 资源下载"
 date:   2022-04-16
 tags: [PCI,Express,4.0,文件,文档]
 comments: true

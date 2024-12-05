@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NUC980 Linux 4.4 BSP 用户手册中文版"
+title: "NUC980 Linux 44 BSP 用户手册中文版"
 date:   2021-04-23
 tags: [BSP,NUC980,用户手册,Linux,4.4]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++安装包及特色功能介绍"
+title: "Notepad安装包及特色功能介绍"
 date:   2023-03-11
 tags: [Notepad,++,安装包,HTML,剪贴板]
 comments: true

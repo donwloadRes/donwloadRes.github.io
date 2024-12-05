@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解LTE-A 资源下载"
+title: "深入理解LTEA 资源下载"
 date:   2021-09-03
 tags: [LTE,无线通信,下载,深入,理解]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库实验资源：存储过程、触发器与索引实战代码"
+title: "数据库实验资源存储过程触发器与索引实战代码"
 date:   2024-06-12
 tags: [数据库,索引,Python,ODBC,触发器]
 comments: true

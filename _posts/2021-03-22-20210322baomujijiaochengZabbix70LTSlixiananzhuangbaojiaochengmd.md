@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程 - Zabbix 7.0 LTS 离线安装包 + 教程"
+title: "保姆级教程  Zabbix 70 LTS 离线安装包  教程"
 date:   2023-04-17
 tags: [Zabbix,离线,服务器,教程,安装包]
 comments: true

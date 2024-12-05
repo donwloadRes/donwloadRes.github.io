@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK用户手册（中文-英文）下载仓库"
+title: "VTK用户手册中文英文下载仓库"
 date:   2020-11-25
 tags: [VTK,用户手册,英文,中文,仓库]
 comments: true

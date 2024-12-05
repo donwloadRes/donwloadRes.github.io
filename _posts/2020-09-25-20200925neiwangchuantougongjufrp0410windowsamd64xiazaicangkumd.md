@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "内网穿透工具 frp_0.41.0_windows_amd64 下载仓库"
+title: "内网穿透工具 frp0410windowsamd64 下载仓库"
 date:   2023-09-15
 tags: [frp,0.41,amd64,windows,服务端]
 comments: true

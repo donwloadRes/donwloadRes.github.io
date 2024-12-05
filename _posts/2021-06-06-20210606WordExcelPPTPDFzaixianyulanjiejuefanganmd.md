@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Word、Excel、PPT、PDF在线预览解决方案"
+title: "WordExcelPPTPDF在线预览解决方案"
 date:   2024-02-11
 tags: [预览,文档,在线,Word,PDF]
 comments: true

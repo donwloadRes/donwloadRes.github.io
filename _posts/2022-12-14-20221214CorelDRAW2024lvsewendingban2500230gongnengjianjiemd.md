@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW 2024绿色稳定版25.0.0.230功能简介"
+title: "CorelDRAW 2024绿色稳定版2500230功能简介"
 date:   2024-12-04
 tags: [稳定版,25.0,0.230,矢量,CorelDRAW]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 压缩和解压库资源文件"
+title: "C 压缩和解压库资源文件"
 date:   2021-06-16
 tags: [文件,压库,压缩,和解,zip]
 comments: true

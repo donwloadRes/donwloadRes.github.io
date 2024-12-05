@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决SQL Server 2016安装失败问题：未安装VC++ 2010 x86 Redistributable"
+title: "解决SQL Server 2016安装失败问题未安装VC 2010 x86 Redistributable"
 date:   2021-04-21
 tags: [安装,SQL,Server,2016,x86]
 comments: true

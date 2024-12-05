@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AES-CMAC算法资源文件介绍"
+title: "AESCMAC算法资源文件介绍"
 date:   2020-08-19
 tags: [CMAC,AES,算法,XCBC,密钥]
 comments: true

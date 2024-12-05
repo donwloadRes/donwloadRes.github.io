@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络讲义全-湖工"
+title: "计算机网络讲义全湖工"
 date:   2022-08-12
 tags: [计算机网络,讲义,湖工,学习,pdf]
 comments: true

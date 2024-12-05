@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学教授180张PPT解读人工智能（纯干货）"
+title: "清华大学教授180张PPT解读人工智能纯干货"
 date:   2024-07-24
 tags: [人工智能,PPT,180,干货,清华大学]
 comments: true

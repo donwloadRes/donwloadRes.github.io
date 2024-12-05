@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "java RXTXcomm.jar串口通信指南"
+title: "java RXTXcommjar串口通信指南"
 date:   2022-07-18
 tags: [串口,jar,RXTXcomm,Java,dll]
 comments: true

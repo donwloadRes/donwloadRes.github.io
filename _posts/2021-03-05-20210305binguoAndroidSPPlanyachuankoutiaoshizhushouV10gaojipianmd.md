@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缤果Android_SPP蓝牙串口调试助手V1.0(高级篇)"
+title: "缤果AndroidSPP蓝牙串口调试助手V10高级篇"
 date:   2023-11-22
 tags: [发送,蓝牙,串口,调试,Android]
 comments: true

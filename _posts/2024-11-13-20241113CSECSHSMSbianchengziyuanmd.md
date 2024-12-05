@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SECS HSMS编程资源"
+title: "C SECS HSMS编程资源"
 date:   2023-03-02
 tags: [SECS,示例,C#,HSMS,SEMI]
 comments: true

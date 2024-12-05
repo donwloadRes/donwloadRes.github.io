@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2795T-CG 简要规格说明书下载"
+title: "RTD2795TCG 简要规格说明书下载"
 date:   2020-11-22
 tags: [RTD2795T,CG,芯片,文件,规格]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人跌倒数据集（VOC格式）"
+title: "行人跌倒数据集VOC格式"
 date:   2022-03-19
 tags: [行人,VOC,数据,跌倒,标注]
 comments: true

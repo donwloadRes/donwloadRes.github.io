@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 进度条 ProgressBar 实现带进度显示"
+title: "C WinForm 进度条 ProgressBar 实现带进度显示"
 date:   2022-05-09
 tags: [进度,进度条,WinForm,UI,线程]
 comments: true

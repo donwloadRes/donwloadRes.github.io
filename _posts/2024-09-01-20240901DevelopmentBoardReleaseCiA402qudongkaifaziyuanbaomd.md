@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevelopmentBoardRelease - CiA402驱动开发资源包"
+title: "DevelopmentBoardRelease  CiA402驱动开发资源包"
 date:   2020-03-21
 tags: [CiA402,DevelopmentBoardRelease,控制,开发,驱动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统可靠性设计.pdf"
+title: "嵌入式系统可靠性设计pdf"
 date:   2021-06-15
 tags: [嵌入式,系统可靠性,设计,pdf,系统]
 comments: true

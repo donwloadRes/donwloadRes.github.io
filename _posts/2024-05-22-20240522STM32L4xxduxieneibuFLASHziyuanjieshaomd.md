@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4xx_读写内部FLASH资源介绍"
+title: "STM32L4xx读写内部FLASH资源介绍"
 date:   2021-12-22
 tags: [FLASH,STM32L4xx,代码,读写,STM32L471VETx]
 comments: true

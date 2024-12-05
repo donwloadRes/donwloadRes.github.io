@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于有源钳位三电平的有源电力滤波器（ANPC-APF）MATLAB仿真"
+title: "基于有源钳位三电平的有源电力滤波器ANPCAPFMATLAB仿真"
 date:   2022-03-23
 tags: [仿真,ANPC,模块,APF,有源]
 comments: true

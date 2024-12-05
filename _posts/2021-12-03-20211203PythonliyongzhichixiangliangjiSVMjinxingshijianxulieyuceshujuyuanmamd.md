@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python利用支持向量机SVM进行时间序列预测（数据+源码）"
+title: "Python利用支持向量机SVM进行时间序列预测数据源码"
 date:   2022-06-23
 tags: [Python,代码,预测,序列,SVM]
 comments: true

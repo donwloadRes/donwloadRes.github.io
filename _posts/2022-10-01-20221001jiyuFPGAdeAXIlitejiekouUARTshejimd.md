@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的AXI-lite接口 UART设计"
+title: "基于FPGA的AXIlite接口 UART设计"
 date:   2023-10-26
 tags: [FPGA,AXI,UART,lite,接口]
 comments: true

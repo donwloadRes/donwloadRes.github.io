@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI最火Agent实战(打造你代理)-Agent教程2024"
+title: "AI最火Agent实战打造你代理Agent教程2024"
 date:   2023-09-04
 tags: [Agent,教程,技术,代理,AI]
 comments: true

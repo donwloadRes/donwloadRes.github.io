@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spine Pro 3.8.75 完美免装版"
+title: "Spine Pro 3875 完美免装版"
 date:   2023-07-31
 tags: [75,Spine,3.8,装版,Pro]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELPHI微信、支付宝支付(DLL源码)"
+title: "DELPHI微信支付宝支付DLL源码"
 date:   2022-04-30
 tags: [DLL,支付,微信,支付宝,DELPHI]
 comments: true

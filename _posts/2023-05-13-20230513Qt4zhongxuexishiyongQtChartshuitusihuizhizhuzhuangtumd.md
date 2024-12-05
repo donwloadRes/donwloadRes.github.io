@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt4中学习使用QtCharts绘图四：绘制柱状图"
+title: "Qt4中学习使用QtCharts绘图四绘制柱状图"
 date:   2020-03-10
 tags: [柱状图,Qt4,QtCharts,绘制,文件]
 comments: true

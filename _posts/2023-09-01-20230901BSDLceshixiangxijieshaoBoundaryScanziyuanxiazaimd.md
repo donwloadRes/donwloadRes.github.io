@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BSDL测试详细介绍(Boundary Scan)资源下载"
+title: "BSDL测试详细介绍Boundary Scan资源下载"
 date:   2023-01-08
 tags: [测试,BSDL,文件,扫描,电路板]
 comments: true

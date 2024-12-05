@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "极致、精简、高效降压型MPPT太阳能控制器"
+title: "极致精简高效降压型MPPT太阳能控制器"
 date:   2022-10-14
 tags: [控制器,太阳能,MPPT,高效,精简]
 comments: true

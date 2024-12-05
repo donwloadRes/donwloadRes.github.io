@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JTAG IEEE 标准 1149.1-2013 资源文件"
+title: "JTAG IEEE 标准 114912013 资源文件"
 date:   2023-03-14
 tags: [1149.1,2013,IEEE,文件,文档]
 comments: true

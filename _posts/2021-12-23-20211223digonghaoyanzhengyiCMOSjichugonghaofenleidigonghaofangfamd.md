@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "低功耗验证 (一) CMOS基础，功耗分类，低功耗方法"
+title: "低功耗验证 一 CMOS基础功耗分类低功耗方法"
 date:   2023-02-11
 tags: [低功耗,功耗,设计,CMOS,方法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国省、市矢量地图带九段线资源下载"
+title: "中国省市矢量地图带九段线资源下载"
 date:   2020-01-22
 tags: [矢量,九段,地图,资源,下载]
 comments: true

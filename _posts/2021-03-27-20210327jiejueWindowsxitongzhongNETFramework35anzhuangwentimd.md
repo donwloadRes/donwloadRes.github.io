@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows系统中.NET Framework 3.5安装问题"
+title: "解决Windows系统中NET Framework 35安装问题"
 date:   2020-01-07
 tags: [NET,Framework,Windows,安装,3.5]
 comments: true

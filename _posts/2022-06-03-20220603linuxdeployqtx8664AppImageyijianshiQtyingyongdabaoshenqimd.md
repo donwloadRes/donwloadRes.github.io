@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "linuxdeployqt-x86_64.AppImage: 一键式Qt应用打包神器"
+title: "linuxdeployqtx8664AppImage 一键式Qt应用打包神器"
 date:   2022-06-24
 tags: [linuxdeployqt,Qt,AppImage,---,x86]
 comments: true

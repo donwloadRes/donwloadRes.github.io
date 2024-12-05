@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020五一数学建模A题 论文 - 煤炭价格预测资源"
+title: "2020五一数学建模A题 论文  煤炭价格预测资源"
 date:   2024-10-28
 tags: [预测,价格,煤炭,BP,模型]
 comments: true

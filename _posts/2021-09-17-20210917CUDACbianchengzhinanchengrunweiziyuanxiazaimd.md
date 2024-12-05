@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA C 编程指南（程润伟）资源下载"
+title: "CUDA C 编程指南程润伟资源下载"
 date:   2020-10-23
 tags: [CUDA,编程,程润伟,指南,https]
 comments: true

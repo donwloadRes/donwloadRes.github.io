@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Framework 3.5 手动离线安装指南"
+title: "Framework 35 手动离线安装指南"
 date:   2023-04-01
 tags: [安装,Framework,3.5,NET,离线]
 comments: true

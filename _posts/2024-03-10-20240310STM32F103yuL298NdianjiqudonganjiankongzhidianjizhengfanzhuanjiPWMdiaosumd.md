@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103与L298N电机驱动：按键控制电机正反转及PWM调速"
+title: "STM32F103与L298N电机驱动按键控制电机正反转及PWM调速"
 date:   2023-07-07
 tags: [电机,PWM,L298N,按键,STM32F103]
 comments: true

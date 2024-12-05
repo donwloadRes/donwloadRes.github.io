@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东芝编程软件 TSPC-TSAssist 百度网盘永久分享资源"
+title: "东芝编程软件 TSPCTSAssist 百度网盘永久分享资源"
 date:   2024-03-16
 tags: [东芝,编程,百度网,TSPC,机械手]
 comments: true

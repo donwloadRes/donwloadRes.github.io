@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Quick核心编程 - 安晓辉 (详细书签版).pdf"
+title: "Qt Quick核心编程  安晓辉 详细书签版pdf"
 date:   2024-03-08
 tags: [Qt,Quick,书签,编程,学习]
 comments: true

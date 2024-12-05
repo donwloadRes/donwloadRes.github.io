@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟V10安装 JDK-1.8 资源文件介绍"
+title: "麒麟V10安装 JDK18 资源文件介绍"
 date:   2020-07-30
 tags: [JDK,1.8,安装,V10,麒麟]
 comments: true

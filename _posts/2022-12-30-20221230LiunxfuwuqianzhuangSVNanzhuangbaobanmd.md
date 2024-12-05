@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Liunx服务器安装SVN（安装包版）"
+title: "Liunx服务器安装SVN安装包版"
 date:   2024-05-08
 tags: [SVN,usr,local,bash,安装包]
 comments: true

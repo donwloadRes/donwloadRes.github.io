@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 企业版 LTSC-Windows Server 2019 安装应用商店和UWP应用指南"
+title: "Windows 10 企业版 LTSCWindows Server 2019 安装应用商店和UWP应用指南"
 date:   2022-03-19
 tags: [应用,Windows,安装,商店,UWP]
 comments: true

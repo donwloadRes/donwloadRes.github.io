@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为M-LAG最佳实践资源下载"
+title: "华为MLAG最佳实践资源下载"
 date:   2022-12-14
 tags: [CloudEngine,LAG,华为,最佳,实践]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#项目实战练习：SunTalk——做你自己的QQ"
+title: "C项目实战练习SunTalk做你自己的QQ"
 date:   2023-06-24
 tags: [窗体,数据库,项目,C#,界面]
 comments: true

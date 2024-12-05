@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度离线地图示例V3.0"
+title: "百度离线地图示例V30"
 date:   2023-01-27
 tags: [地图,离线,示例,V3.0,百度]
 comments: true

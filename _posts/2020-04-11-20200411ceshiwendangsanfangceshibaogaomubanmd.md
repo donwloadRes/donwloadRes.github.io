@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【测试文档】三方测试报告模板"
+title: "测试文档三方测试报告模板"
 date:   2020-03-14
 tags: [测试,模板,测试报告,确保,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EN 60204-1 机械安全B类标准资源文件下载"
+title: "EN 602041 机械安全B类标准资源文件下载"
 date:   2021-12-25
 tags: [EN,60204,文件,机械设备,标准]
 comments: true

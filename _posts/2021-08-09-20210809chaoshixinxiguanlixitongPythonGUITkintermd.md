@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超市信息管理系统（Python + GUI + Tkinter）"
+title: "超市信息管理系统Python  GUI  Tkinter"
 date:   2023-08-17
 tags: [Python,Tkinter,SQLite3,超市,图形用户界面]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统导论（第7版）中文资源"
+title: "数据库系统导论第7版中文资源"
 date:   2024-02-28
 tags: [数据库,数据库系统,导论,资源,PDF]
 comments: true

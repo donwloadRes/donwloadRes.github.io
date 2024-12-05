@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ gRPC资源包下载指南"
+title: "C gRPC资源包下载指南"
 date:   2022-02-27
 tags: [gRPC,C++,资源,使用,文档]
 comments: true

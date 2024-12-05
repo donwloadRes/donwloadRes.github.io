@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chipsbank APTool量产工具V7200(2020-00-21)"
+title: "Chipsbank APTool量产工具V720020200021"
 date:   2021-06-14
 tags: [量产,Chipsbank,U盘,工具,APTool]
 comments: true

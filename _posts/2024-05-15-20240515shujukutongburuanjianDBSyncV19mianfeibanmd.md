@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库同步软件DBSync V1.9 免费版"
+title: "数据库同步软件DBSync V19 免费版"
 date:   2021-04-12
 tags: [同步,数据库,DBSync,数据,支持]
 comments: true

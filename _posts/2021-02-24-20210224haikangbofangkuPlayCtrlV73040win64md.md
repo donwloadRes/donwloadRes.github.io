@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康播放库 PlayCtrl_V7.3.0.40_win64"
+title: "海康播放库 PlayCtrlV73040win64"
 date:   2020-04-25
 tags: [海康,播放,V7.3,0.40,视频]
 comments: true

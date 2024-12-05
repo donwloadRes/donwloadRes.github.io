@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android大作业——网上购物APP"
+title: "Android大作业网上购物APP"
 date:   2024-08-19
 tags: [用户,功能,APP,图片素材,支付宝]
 comments: true

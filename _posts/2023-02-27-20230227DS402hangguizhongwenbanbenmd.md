@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS-402行规中文版本"
+title: "DS402行规中文版本"
 date:   2022-01-31
 tags: [DS,402,行规,文件,填写]
 comments: true

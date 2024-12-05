@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AES-CBC-128 C语言加解密"
+title: "AESCBC128 C语言加解密"
 date:   2020-08-03
 tags: [AES,CBC,128,C语言,加解密]
 comments: true

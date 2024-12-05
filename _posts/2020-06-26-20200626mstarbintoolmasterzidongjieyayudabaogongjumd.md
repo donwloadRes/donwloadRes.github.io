@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mstar-bin-tool-master 自动解压与打包工具"
+title: "mstarbintoolmaster 自动解压与打包工具"
 date:   2020-09-08
 tags: [bin,文件,批处理,解压,mstar]
 comments: true

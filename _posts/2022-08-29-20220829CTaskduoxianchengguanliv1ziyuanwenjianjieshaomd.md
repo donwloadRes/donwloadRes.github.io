@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Task 多线程管理 v1 资源文件介绍"
+title: "C Task 多线程管理 v1 资源文件介绍"
 date:   2020-11-25
 tags: [多线程,线程,任务,示例,C#]
 comments: true

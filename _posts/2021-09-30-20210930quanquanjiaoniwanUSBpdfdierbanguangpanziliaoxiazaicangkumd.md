@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB.pdf（第二版光盘资料）下载仓库"
+title: "圈圈教你玩USBpdf第二版光盘资料下载仓库"
 date:   2024-04-18
 tags: [USB,文档,pdf,光盘,圈圈]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux驱动开发：倒车影像项目介绍"
+title: "Linux驱动开发倒车影像项目介绍"
 date:   2021-01-20
 tags: [Linux,倒车,嵌入式,影像,驱动]
 comments: true

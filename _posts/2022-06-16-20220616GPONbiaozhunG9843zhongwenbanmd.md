@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPON标准G.984.3 中文版"
+title: "GPON标准G9843 中文版"
 date:   2020-12-27
 tags: [G.984,GPON,标准,文件,中文版]
 comments: true

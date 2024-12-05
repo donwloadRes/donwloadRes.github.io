@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4 串口（DMA发送接收方式）代码例程"
+title: "STM32F4 串口DMA发送接收方式代码例程"
 date:   2021-01-14
 tags: [DMA,串口,STM32F4,例程,HAL]
 comments: true

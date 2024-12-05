@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI-CPCI-PXI-PXIe总线规范"
+title: "PCICPCIPXIPXIe总线规范"
 date:   2021-07-25
 tags: [PCI,PXI,规范,总线,CPCI]
 comments: true

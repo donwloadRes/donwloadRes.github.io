@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDP通信示例：单播、组播、广播（Qt实现）"
+title: "UDP通信示例单播组播广播Qt实现"
 date:   2020-06-04
 tags: [UDP,示例,单播,组播,Qt]
 comments: true

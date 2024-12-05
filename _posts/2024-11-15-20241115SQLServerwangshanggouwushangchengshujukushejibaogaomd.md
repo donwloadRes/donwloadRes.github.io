@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【SQL Server】网上购物商城数据库设计报告"
+title: "SQL Server网上购物商城数据库设计报告"
 date:   2023-11-14
 tags: [数据库,SQL,设计,购物车,购物]
 comments: true

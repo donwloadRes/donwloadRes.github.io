@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4USB全速虚拟串口例程--1MB-s"
+title: "STM32F4USB全速虚拟串口例程1MBs"
 date:   2023-11-23
 tags: [例程,串口,修改,1MB,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java设计模式：状态模式模拟审批流程（二级审批）完整代码"
+title: "Java设计模式状态模式模拟审批流程二级审批完整代码"
 date:   2020-09-18
 tags: [java,审批,代码,状态,流程]
 comments: true

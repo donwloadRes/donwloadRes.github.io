@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散时间信号处理（第三版）- Oppenheim 资源下载"
+title: "离散时间信号处理第三版 Oppenheim 资源下载"
 date:   2023-12-10
 tags: [Oppenheim,信号处理,下载,第三版,文件]
 comments: true

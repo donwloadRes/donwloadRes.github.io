@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon17.12完美和谐 X86 X64 资源下载"
+title: "Halcon1712完美和谐 X86 X64 资源下载"
 date:   2020-07-07
 tags: [Halcon17.12,X86,X64,版本,完美]
 comments: true

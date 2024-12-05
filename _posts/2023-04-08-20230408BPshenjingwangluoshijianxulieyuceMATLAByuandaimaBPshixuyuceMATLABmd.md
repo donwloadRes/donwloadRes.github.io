@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络时间序列预测MATLAB源代码（BP时序预测MATLAB）"
+title: "BP神经网络时间序列预测MATLAB源代码BP时序预测MATLAB"
 date:   2024-11-01
 tags: [代码,MATLAB,BP,Excel,替换]
 comments: true

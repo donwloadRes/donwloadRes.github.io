@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#.Net开发MQTT物联网资料与代码汇总"
+title: "CNet开发MQTT物联网资料与代码汇总"
 date:   2020-11-27
 tags: [MQTT,示例,代码,Net,客户端]
 comments: true

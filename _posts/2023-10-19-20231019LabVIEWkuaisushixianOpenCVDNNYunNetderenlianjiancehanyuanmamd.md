@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW快速实现OpenCV DNN（YunNet）的人脸检测(含源码)"
+title: "LabVIEW快速实现OpenCV DNNYunNet的人脸检测含源码"
 date:   2022-09-27
 tags: [LabVIEW,源码,人脸,检测,文件]
 comments: true

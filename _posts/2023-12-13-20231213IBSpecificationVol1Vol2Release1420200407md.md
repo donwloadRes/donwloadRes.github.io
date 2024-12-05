@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IB Specification Vol 1&Vol 2 - Release 1.4 - 2020-04-07"
+title: "IB Specification Vol 1Vol 2  Release 14  20200407"
 date:   2022-02-21
 tags: [InfiniBand,Vol,2020,文档,版本]
 comments: true

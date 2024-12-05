@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实现五子棋小游戏（附源码）"
+title: "Java实现五子棋小游戏附源码"
 date:   2022-05-21
 tags: [源码,五子棋,Java,游戏,账号]
 comments: true

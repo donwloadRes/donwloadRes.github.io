@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Java】推箱子小游戏（带背景音乐）完整代码"
+title: "Java推箱子小游戏带背景音乐完整代码"
 date:   2024-05-15
 tags: [Java,背景音乐,箱子,游戏,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高性能MySQL第三版（完整版）资源下载"
+title: "高性能MySQL第三版完整版资源下载"
 date:   2021-08-05
 tags: [MySQL,完整版,备份,数据库,高性能]
 comments: true

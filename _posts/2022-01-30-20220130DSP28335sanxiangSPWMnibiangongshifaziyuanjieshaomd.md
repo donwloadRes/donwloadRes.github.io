@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP28335三相SPWM逆变（公式法）资源介绍"
+title: "DSP28335三相SPWM逆变公式法资源介绍"
 date:   2024-09-30
 tags: [SPWM,DSP28335,三相,逆变,公式]
 comments: true

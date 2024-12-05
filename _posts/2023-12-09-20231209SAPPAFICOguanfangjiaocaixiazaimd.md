@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP PA_FICO官方教材下载"
+title: "SAP PAFICO官方教材下载"
 date:   2022-11-23
 tags: [SAP,FICO,PA,教材,学习]
 comments: true

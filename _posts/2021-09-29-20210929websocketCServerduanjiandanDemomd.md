@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "websocket C++ Server端简单Demo"
+title: "websocket C Server端简单Demo"
 date:   2024-08-23
 tags: [WebSocket,C++,Demo,开发者,连接]
 comments: true

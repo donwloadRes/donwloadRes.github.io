@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "重构用户界面》- Refactoring UI 中文机翻版"
+title: "重构用户界面 Refactoring UI 中文机翻版"
 date:   2023-02-03
 tags: [UI,界面设计,Web,界面,重构]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "glm-deprecated-master.zip 仓库说明"
+title: "glmdeprecatedmasterzip 仓库说明"
 date:   2024-08-23
 tags: [GLM,glm,deprecated,版本,master]
 comments: true

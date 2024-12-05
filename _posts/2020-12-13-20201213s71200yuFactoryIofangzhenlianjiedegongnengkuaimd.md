@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "s7-1200与FactoryIo仿真连接的功能块"
+title: "s71200与FactoryIo仿真连接的功能块"
 date:   2022-09-12
 tags: [PLC,仿真,功能块,1200,S7]
 comments: true

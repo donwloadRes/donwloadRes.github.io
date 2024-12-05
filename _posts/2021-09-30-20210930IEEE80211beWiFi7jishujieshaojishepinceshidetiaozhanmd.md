@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11be（WiFi7）技术介绍及射频测试的挑战"
+title: "IEEE 80211beWiFi7技术介绍及射频测试的挑战"
 date:   2023-02-11
 tags: [WiFi7,射频,测试,技术,IEEE]
 comments: true

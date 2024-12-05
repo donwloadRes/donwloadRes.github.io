@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "医保电子凭证二维码识别 - NationECCode.dll"
+title: "医保电子凭证二维码识别  NationECCodedll
+date   20241204
+tags 医保凭证二维码电子NationECCode
+comments true
+author admin
+
+ 医保电子凭证二维码识别  NationECCodedll
+
+ 概述
+
+本仓库提供了NationECCodedll一个专门用于识别医保电子凭证二维码的国家医保电子凭证业务标准动态库此外还包括NationECCodeTestexe作为一个示例程序帮助开发者理解和应用这个动态库的交互规范通过本资源开发者可以轻松集成医保电子凭证的二维码识别功能到其应用程序中遵循2021年更新的业务标准和交互规范
+
+ 功能特点
+
+ 高效识别 支持快速准确地解码医保电子凭证上的二维码信息
+ 标准兼容 完全符合国家医保局发布的电子凭证业务标准
+ 环境适应性强 提供了测试预发和生产三个不同环境的查询地址覆盖开发至上线全周期
+ 示例代码 随库附带测试工具NationECCodeTestexe包含基本用法方便快速上手
+
+ 技术文档及环境
+
+ 接口说明资源包内包含2021年12月23日更新的医保电子凭证测试说明详细解释了如何使用此动态库进行二维码解码操作
+ 请求地址
+   测试环境http1024984448089localcfcapihsecfclocalQrCodeQuery
+   预发环境http1024983229localcfcapihsecfclocalQrCodeQuery
+   生产环境http1024981107localcfcapihsecfclocalQrCodeQuery
+
+ 请求样例
+  json
+  
+    data 
+      orgId H46010500002
+      businessType 01101
+      operatorId test001
+      operatorName 超级管理员
+      officeId 32760
+      officeName 消化内科"
 date:   2024-12-04
 tags: [医保,凭证,二维码,电子,NationECCode]
 comments: true

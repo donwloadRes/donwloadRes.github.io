@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6 Professional V6.5.1 中文安装教程"
+title: "Studio One 6 Professional V651 中文安装教程"
 date:   2023-11-21
 tags: [Studio,安装,Professional,V6.5,安装包]
 comments: true

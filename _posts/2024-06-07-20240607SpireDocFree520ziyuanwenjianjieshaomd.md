@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spire.Doc Free 5.2.0 资源文件介绍"
+title: "SpireDoc Free 520 资源文件介绍"
 date:   2023-09-30
 tags: [5.2,spire,doc,free,jar]
 comments: true

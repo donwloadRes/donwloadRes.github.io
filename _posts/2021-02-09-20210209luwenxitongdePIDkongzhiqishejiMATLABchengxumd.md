@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "炉温系统的PID控制器设计——MATLAB程序"
+title: "炉温系统的PID控制器设计MATLAB程序"
 date:   2020-11-21
 tags: [PID,控制算法,仿真,MATLAB,炉温]
 comments: true

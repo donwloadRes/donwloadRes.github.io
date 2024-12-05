@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单精度浮点数与十六进制转换_C语言程序"
+title: "单精度浮点数与十六进制转换C语言程序"
 date:   2023-12-01
 tags: [十六进制,浮点数,单精度,转换,C语言]
 comments: true

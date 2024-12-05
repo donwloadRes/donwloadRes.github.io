@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFDM信道估计（MMSE和LS估计）"
+title: "OFDM信道估计MMSE和LS估计"
 date:   2024-06-13
 tags: [信道,估计,代码,OFDM,MMSE]
 comments: true

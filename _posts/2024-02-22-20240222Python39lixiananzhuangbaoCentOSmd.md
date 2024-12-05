@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.9 离线安装包（CentOS）"
+title: "Python 39 离线安装包CentOS"
 date:   2022-08-06
 tags: [Python,3.9,安装包,离线,安装]
 comments: true

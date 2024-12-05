@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK网络管理规范（2.5.3）"
+title: "OSEK网络管理规范253"
 date:   2024-09-16
 tags: [OSEK,网络管理,2.5,VDX,电子系统]
 comments: true

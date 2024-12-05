@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC_SR04超声波测距_定时器方式（OLED显示）"
+title: "HCSR04超声波测距定时器方式OLED显示"
 date:   2020-06-08
 tags: [STM32,测距,OLED,HC,SR04]
 comments: true

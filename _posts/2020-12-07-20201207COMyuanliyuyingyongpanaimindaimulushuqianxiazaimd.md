@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COM原理与应用(潘爱民)带目录书签下载"
+title: "COM原理与应用潘爱民带目录书签下载"
 date:   2021-06-07
 tags: [COM,书签,爱民,PDF,目录]
 comments: true

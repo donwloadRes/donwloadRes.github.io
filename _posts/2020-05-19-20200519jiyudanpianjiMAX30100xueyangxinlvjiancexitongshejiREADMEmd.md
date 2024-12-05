@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于单片机MAX30100血氧、心率检测系统设计 README"
+title: "基于单片机MAX30100血氧心率检测系统设计 README"
 date:   2022-12-31
 tags: [MAX30100,单片机,心率,蓝牙,传感器]
 comments: true

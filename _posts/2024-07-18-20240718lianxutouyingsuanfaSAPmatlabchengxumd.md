@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "连续投影算法SAP-matlab程序"
+title: "连续投影算法SAPmatlab程序"
 date:   2020-11-15
 tags: [程序,投影,算法,Excel,SAP]
 comments: true

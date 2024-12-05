@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js基础入门到实战视频学习教程"
+title: "Vuejs基础入门到实战视频学习教程"
 date:   2022-08-06
 tags: [Vue,js,教程,学习,视频]
 comments: true

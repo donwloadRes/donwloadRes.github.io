@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国内外电动汽车整车控制器（VCU）性能指标及设计思路"
+title: "国内外电动汽车整车控制器VCU性能指标及设计思路"
 date:   2023-05-19
 tags: [VCU,电动汽车,文档,设计,性能指标]
 comments: true

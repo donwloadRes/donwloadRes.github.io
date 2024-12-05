@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3250清零软件+图解"
+title: "爱普生L3250清零软件图解"
 date:   2023-09-02
 tags: [软件,清零,爱普生,打印机,L3250]
 comments: true

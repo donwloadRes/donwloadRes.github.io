@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全能地图下载器-MapTileDownloader v3.0"
+title: "全能地图下载器MapTileDownloader v30"
 date:   2021-07-21
 tags: [下载,地图,MapTileDownloader,v3.0,瓦片]
 comments: true

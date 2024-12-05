@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 下载指南"
+title: "Notepad 下载指南"
 date:   2020-06-30
 tags: [Notepad,++,下载,plus,安装]
 comments: true

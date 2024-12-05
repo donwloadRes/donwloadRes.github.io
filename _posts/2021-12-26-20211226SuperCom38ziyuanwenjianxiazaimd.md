@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SuperCom 3.8 资源文件下载"
+title: "SuperCom 38 资源文件下载"
 date:   2023-05-06
 tags: [3.8,SuperCom,文件,下载,软件]
 comments: true

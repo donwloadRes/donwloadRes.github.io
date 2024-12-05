@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 配置C-C++语言编译环境指南"
+title: "Notepad 配置CC语言编译环境指南"
 date:   2022-10-09
 tags: [Notepad,++,编译,安装,https]
 comments: true

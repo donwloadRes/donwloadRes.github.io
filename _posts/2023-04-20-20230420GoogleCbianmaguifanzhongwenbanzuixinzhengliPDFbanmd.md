@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google-C++编码规范中文版（最新整理PDF版）"
+title: "GoogleC编码规范中文版最新整理PDF版"
 date:   2021-05-21
 tags: [Google,C++,PDF,编码,规范]
 comments: true

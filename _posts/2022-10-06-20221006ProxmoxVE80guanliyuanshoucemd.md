@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proxmox VE 8.0 管理员手册"
+title: "Proxmox VE 80 管理员手册"
 date:   2020-04-12
 tags: [Proxmox,VE,8.0,虚拟化,管理员]
 comments: true

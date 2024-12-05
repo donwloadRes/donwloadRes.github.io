@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeSWITCH+VoIP实战中文PDF版下载"
+title: "FreeSWITCHVoIP实战中文PDF版下载"
 date:   2022-10-10
 tags: [VoIP,FreeSWITCH,PDF,实战,中文]
 comments: true

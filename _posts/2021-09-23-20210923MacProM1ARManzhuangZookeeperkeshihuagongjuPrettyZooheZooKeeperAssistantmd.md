@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac Pro M1(ARM) 安装 Zookeeper 可视化工具 PrettyZoo 和 ZooKeeperAssistant"
+title: "Mac Pro M1ARM 安装 Zookeeper 可视化工具 PrettyZoo 和 ZooKeeperAssistant"
 date:   2021-03-23
 tags: [Zookeeper,PrettyZoo,安装,ZooKeeperAssistant,可视化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字逻辑实训-使用Logisim实现24小时计时器"
+title: "数字逻辑实训使用Logisim实现24小时计时器"
 date:   2021-04-01
 tags: [Logisim,24,计数器,计时器,逻辑]
 comments: true

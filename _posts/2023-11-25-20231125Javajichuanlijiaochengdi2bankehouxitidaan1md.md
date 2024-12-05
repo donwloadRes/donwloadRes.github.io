@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java基础案例教程（第2版）课后习题答案1"
+title: "Java基础案例教程第2版课后习题答案1"
 date:   2024-11-21
 tags: [Java,课后,习题,答案,资源]
 comments: true

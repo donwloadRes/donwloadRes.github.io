@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8723DS-CG 规格书下载"
+title: "RTL8723DSCG 规格书下载"
 date:   2021-09-01
 tags: [规格书,RTL8723DS,CG,下载,仓库]
 comments: true

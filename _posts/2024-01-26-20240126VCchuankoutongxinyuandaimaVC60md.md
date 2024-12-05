@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++串口通信源代码（VC6.0）"
+title: "VC串口通信源代码VC60"
 date:   2022-07-15
 tags: [串口,通信,C++,源代码,示例]
 comments: true

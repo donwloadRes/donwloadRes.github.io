@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MoneyPrinterTurbo：一键生成短视频的AI神器"
+title: "MoneyPrinterTurbo一键生成短视频的AI神器"
 date:   2021-09-28
 tags: [视频,MoneyPrinterTurbo,AI,生成,文案]
 comments: true

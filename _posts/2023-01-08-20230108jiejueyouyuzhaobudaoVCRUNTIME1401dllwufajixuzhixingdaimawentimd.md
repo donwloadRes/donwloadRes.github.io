@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“由于找不到VCRUNTIME140_1.dll，无法继续执行代码”问题"
+title: "解决由于找不到VCRUNTIME1401dll无法继续执行代码问题"
 date:   2023-09-18
 tags: [dll,VCRUNTIME140,文件,继续执行,Visual]
 comments: true

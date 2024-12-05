@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#.NET开发AutoCAD插件实例源码"
+title: "CNET开发AutoCAD插件实例源码"
 date:   2022-12-04
 tags: [AutoCAD,NET,插件,源码,C#]
 comments: true

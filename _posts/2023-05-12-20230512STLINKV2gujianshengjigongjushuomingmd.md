@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LINK-V2 固件升级工具说明"
+title: "STLINKV2 固件升级工具说明"
 date:   2022-07-30
 tags: [固件,ST,V2,升级,LINK]
 comments: true

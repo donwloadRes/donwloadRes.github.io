@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Android Studio 词汇学习应用：利用资源助力期末复习"
+title: "Android Studio 词汇学习应用利用资源助力期末复习
+date   20220810
+tags 单词复习记忆学习管理
+comments true
+author admin
+
+
+layout post
+title Android Studio 词汇学习应用利用资源助力期末复习"
 date:   2022-08-10
 tags: [单词,复习,记忆,学习,管理]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Android Studio 词汇学习应用：利用资源助力期末复习"
+title: "Android Studio 词汇学习应用利用资源助力期末复习
+date   20220810
+tags 单词复习记忆学习管理
+comments true
+author admin
+
+
+layout post
+title Android Studio 词汇学习应用利用资源助力期末复习"
 date:   2022-02-24
 tags: [单词,复习,记忆,学习,管理]
 comments: true

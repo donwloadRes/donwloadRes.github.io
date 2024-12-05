@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200 SMART EM模块产品CAD图下载"
+title: "S7200 SMART EM模块产品CAD图下载"
 date:   2024-05-09
 tags: [CAD,S7,200,EM,模块]
 comments: true

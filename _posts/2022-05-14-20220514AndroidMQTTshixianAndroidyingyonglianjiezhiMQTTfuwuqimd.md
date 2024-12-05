@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android+MQTT：实现Android应用连接至MQTT服务器"
+title: "AndroidMQTT实现Android应用连接至MQTT服务器"
 date:   2021-10-26
 tags: [MQTT,Android,服务器,连接,应用]
 comments: true

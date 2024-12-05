@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PyTorch-OpenPose的人体姿态检测资源介绍"
+title: "基于PyTorchOpenPose的人体姿态检测资源介绍"
 date:   2023-08-18
 tags: [PyTorch,姿态,人体,检测,OpenPose]
 comments: true

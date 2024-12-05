@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathcad 15.0用户指南(中文版) 下载仓库"
+title: "Mathcad 150用户指南中文版 下载仓库"
 date:   2023-11-10
 tags: [Mathcad,指南,中文版,15.0,用户]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF常用工具_实时更新"
+title: "CTF常用工具实时更新"
 date:   2024-10-04
 tags: [工具,CTF,文件,隐写,资源]
 comments: true

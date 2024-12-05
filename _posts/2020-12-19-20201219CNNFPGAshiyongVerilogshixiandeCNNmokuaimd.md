@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN-FPGA: 使用Verilog实现的CNN模块"
+title: "CNNFPGA 使用Verilog实现的CNN模块"
 date:   2022-05-26
 tags: [CNN,FPGA,模块,Verilog,设计]
 comments: true

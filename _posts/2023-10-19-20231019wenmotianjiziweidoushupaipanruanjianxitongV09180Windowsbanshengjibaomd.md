@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文墨天机紫微斗数排盘软件系统 V0.9.180 (Windows版升级包)"
+title: "文墨天机紫微斗数排盘软件系统 V09180 Windows版升级包"
 date:   2020-03-09
 tags: [紫微斗数,文墨,天机,排盘,升级包]
 comments: true

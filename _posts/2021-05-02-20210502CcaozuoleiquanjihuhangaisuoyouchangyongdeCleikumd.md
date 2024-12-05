@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#操作类全-- 几乎涵盖所有常用的C#类库"
+title: "C操作类全 几乎涵盖所有常用的C类库"
 date:   2021-07-24
 tags: [类库,C#,文件,示例,常用]
 comments: true

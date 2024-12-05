@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "debug、masm和link的安装配置指南"
+title: "debugmasm和link的安装配置指南"
 date:   2022-09-25
 tags: [debug,DOSBox,link,masm,exe]
 comments: true

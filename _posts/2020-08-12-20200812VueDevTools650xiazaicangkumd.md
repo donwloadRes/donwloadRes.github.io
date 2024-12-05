@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue DevTools 6.5.0 下载仓库"
+title: "Vue DevTools 650 下载仓库"
 date:   2020-12-16
 tags: [Vue,vuedevtools.6,5.0,开发者,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "log4j-2.18.0 安全修复版本下载"
+title: "log4j2180 安全修复版本下载"
 date:   2020-07-11
 tags: [2.18,版本,log4j,下载,log4j2]
 comments: true

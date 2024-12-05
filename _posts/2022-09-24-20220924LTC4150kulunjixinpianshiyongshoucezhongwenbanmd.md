@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTC4150 库仑计芯片使用手册（中文版）"
+title: "LTC4150 库仑计芯片使用手册中文版"
 date:   2024-11-05
 tags: [LTC4150,库仑计,单片机,芯片,电池电量]
 comments: true

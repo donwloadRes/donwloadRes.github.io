@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "理解SerDes：从用户角度深入解析"
+title: "理解SerDes从用户角度深入解析"
 date:   2024-06-02
 tags: [SerDes,技术,理解,电子系统,抖动]
 comments: true

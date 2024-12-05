@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SelectIO IP核配置指南（一）"
+title: "SelectIO IP核配置指南一"
 date:   2021-04-16
 tags: [SelectIO,IP,配置,文件,技术细节]
 comments: true

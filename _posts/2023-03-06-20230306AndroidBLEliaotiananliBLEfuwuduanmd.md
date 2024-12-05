@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android BLE 聊天案例：BLE 服务端"
+title: "Android BLE 聊天案例BLE 服务端"
 date:   2020-01-07
 tags: [BLE,服务端,Android,客户端,案例]
 comments: true

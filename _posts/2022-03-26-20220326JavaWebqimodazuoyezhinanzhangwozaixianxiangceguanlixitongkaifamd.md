@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "JavaWeb期末大作业指南：掌握在线相册管理系统开发"
+title: "JavaWeb期末大作业指南掌握在线相册管理系统开发
+date   20230809
+tags JavaWeb期末开发技能项目
+comments true
+author admin
+
+
+layout post
+title JavaWeb期末大作业指南掌握在线相册管理系统开发"
 date:   2023-08-09
 tags: [JavaWeb,期末,开发,技能,项目]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "JavaWeb期末大作业指南：掌握在线相册管理系统开发"
+title: "JavaWeb期末大作业指南掌握在线相册管理系统开发
+date   20230809
+tags JavaWeb期末开发技能项目
+comments true
+author admin
+
+
+layout post
+title JavaWeb期末大作业指南掌握在线相册管理系统开发"
 date:   2023-10-09
 tags: [JavaWeb,项目,期末,开发,技能]
 comments: true

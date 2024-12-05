@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PreSonus Studio One 6 Professional 6.6.1 音乐编曲创作软件中文Win版"
+title: "PreSonus Studio One 6 Professional 661 音乐编曲创作软件中文Win版"
 date:   2021-09-03
 tags: [用户界面,Studio,Professional,6.6,拖放]
 comments: true

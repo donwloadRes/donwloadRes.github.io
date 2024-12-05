@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA背景壁纸：绝对好心情"
+title: "IDEA背景壁纸绝对好心情"
 date:   2022-03-02
 tags: [壁纸,IDEA,心情,背景,绝对]
 comments: true

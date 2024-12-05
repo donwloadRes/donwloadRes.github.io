@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Workbench 8.0 菜单汉化配置文件"
+title: "MySQL Workbench 80 菜单汉化配置文件"
 date:   2022-10-02
 tags: [Workbench,MySQL,汉化,配置文件,菜单]
 comments: true

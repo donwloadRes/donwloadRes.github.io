@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Linux操作系统详细步骤(附VMware16+CentOS7下载地址)"
+title: "安装Linux操作系统详细步骤附VMware16CentOS7下载地址"
 date:   2023-08-13
 tags: [虚拟机,安装,VMware,CentOS,操作系统]
 comments: true

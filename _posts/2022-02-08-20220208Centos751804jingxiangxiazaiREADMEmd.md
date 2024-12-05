@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos 7.5 1804 镜像下载 README"
+title: "Centos 75 1804 镜像下载 README"
 date:   2022-11-05
 tags: [CentOS,镜像,下载,版本,7.5]
 comments: true

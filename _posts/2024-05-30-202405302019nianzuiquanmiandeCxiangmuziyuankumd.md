@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019年最全面的C#项目资源库"
+title: "2019年最全面的C项目资源库"
 date:   2024-06-17
 tags: [C#,资源库,项目,编程,https]
 comments: true

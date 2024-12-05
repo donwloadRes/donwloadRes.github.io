@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bentley Microstation V8i (SELECTSeries 4) 中文版下载"
+title: "Bentley Microstation V8i SELECTSeries 4 中文版下载"
 date:   2022-05-28
 tags: [下载,Bentley,Microstation,V8i,中文版]
 comments: true

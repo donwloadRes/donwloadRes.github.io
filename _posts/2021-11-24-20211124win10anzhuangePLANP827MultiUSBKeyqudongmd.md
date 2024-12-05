@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10安装ePLAN P8 2.7 MultiUSB Key驱动"
+title: "win10安装ePLAN P8 27 MultiUSB Key驱动"
 date:   2020-12-22
 tags: [驱动,MultiUSB,Key,ePLAN,安装]
 comments: true

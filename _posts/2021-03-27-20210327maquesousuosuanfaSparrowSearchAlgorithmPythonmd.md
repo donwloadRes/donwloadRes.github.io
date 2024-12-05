@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麻雀搜索算法（Sparrow Search Algorithm，Python）"
+title: "麻雀搜索算法Sparrow Search AlgorithmPython"
 date:   2023-07-13
 tags: [搜索算法,代码,算法,麻雀,Python]
 comments: true

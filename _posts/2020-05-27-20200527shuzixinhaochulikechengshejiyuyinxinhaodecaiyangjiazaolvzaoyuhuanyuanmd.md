@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理课程设计：语音信号的采样、加噪、滤噪与还原"
+title: "数字信号处理课程设计语音信号的采样加噪滤噪与还原"
 date:   2021-02-12
 tags: [语音,采样,信号,Matlab,课程设计]
 comments: true

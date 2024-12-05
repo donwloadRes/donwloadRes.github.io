@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张正友相机标定（OpenCV实现）资源下载"
+title: "张正友相机标定OpenCV实现资源下载"
 date:   2020-10-28
 tags: [标定,相机,OpenCV,张正友,代码]
 comments: true

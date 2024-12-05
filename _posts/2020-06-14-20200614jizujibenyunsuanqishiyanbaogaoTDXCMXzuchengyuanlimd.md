@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计组-基本运算器实验报告-TDX-CMX组成原理"
+title: "计组基本运算器实验报告TDXCMX组成原理"
 date:   2024-02-04
 tags: [实验报告,实验,原理,运算器,TDX]
 comments: true

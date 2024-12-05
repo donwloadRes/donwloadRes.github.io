@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T113_Longan_Linux_SDK开发环境配置手册"
+title: "T113LonganLinuxSDK开发环境配置手册"
 date:   2021-07-09
 tags: [Linux,T113,Longan,开发,配置]
 comments: true

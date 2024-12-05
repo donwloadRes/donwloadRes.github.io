@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bizbok-业务架构"
+title: "bizbok业务架构"
 date:   2022-09-26
 tags: [架构,业务,bizbok,学习,架构师]
 comments: true

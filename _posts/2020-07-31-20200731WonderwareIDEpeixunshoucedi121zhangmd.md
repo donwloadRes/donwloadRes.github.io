@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wonderware IDE 培训手册第1-21章"
+title: "Wonderware IDE 培训手册第121章"
 date:   2024-04-26
 tags: [21,手册,下载,培训,IDE]
 comments: true

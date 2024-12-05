@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java RS232串口通讯（电子天平数据抓取）"
+title: "Java RS232串口通讯电子天平数据抓取"
 date:   2024-09-27
 tags: [电子天平,串口,Java,网页,RS232]
 comments: true

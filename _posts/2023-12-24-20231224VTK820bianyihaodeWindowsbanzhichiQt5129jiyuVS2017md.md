@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK-8.2.0 编译好的 Windows 版，支持 Qt5.12.9，基于 VS2017"
+title: "VTK820 编译好的 Windows 版支持 Qt5129基于 VS2017"
 date:   2020-09-01
 tags: [VTK,编译,Windows,Qt5.12,Visual]
 comments: true

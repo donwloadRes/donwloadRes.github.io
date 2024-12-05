@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JS 网页设计课程期末项目：掌握前端开发技能"
+title: "HTMLCSSJS 网页设计课程期末项目掌握前端开发技能"
 date:   2023-10-06
 tags: [HTML,CSS,页面,JavaScript,网页]
 comments: true

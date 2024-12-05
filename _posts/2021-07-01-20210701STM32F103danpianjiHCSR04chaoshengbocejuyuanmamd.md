@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103单片机HC-SR04超声波测距源码"
+title: "STM32F103单片机HCSR04超声波测距源码"
 date:   2022-04-29
 tags: [测距,源码,单片机,HC,SR04]
 comments: true

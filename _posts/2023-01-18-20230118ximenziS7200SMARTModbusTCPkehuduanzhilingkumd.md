@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200 SMART Modbus TCP客户端指令库"
+title: "西门子S7200 SMART Modbus TCP客户端指令库"
 date:   2024-08-31
 tags: [Modbus,TCP,S7,200,SMART]
 comments: true

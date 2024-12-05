@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mipi-M-PHY-specification-v5-0-JEDEC-LIAISON-DISCLOSURE"
+title: "mipiMPHYspecificationv50JEDECLIAISONDISCLOSURE"
 date:   2021-01-19
 tags: [PHY,JEDEC,规范,MIPI,v5.0]
 comments: true

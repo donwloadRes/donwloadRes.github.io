@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 第五版资源下载"
+title: "C Primer 第五版资源下载"
 date:   2020-12-21
 tags: [C++,第五版,下载,扫描,Primer]
 comments: true

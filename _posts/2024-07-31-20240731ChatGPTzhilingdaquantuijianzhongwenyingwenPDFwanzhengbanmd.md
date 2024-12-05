@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT指令大全(推荐) 中文-英文PDF完整版"
+title: "ChatGPT指令大全推荐 中文英文PDF完整版"
 date:   2021-05-17
 tags: [ChatGPT,指令,用户,大全,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeModbus V1.6 主机使用说明"
+title: "FreeModbus V16 主机使用说明"
 date:   2020-03-29
 tags: [FreeModbus,主机,协议,开发者,使用]
 comments: true

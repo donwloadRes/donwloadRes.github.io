@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe M.2 规格书下载"
+title: "PCIe M2 规格书下载"
 date:   2020-09-12
 tags: [规格书,M.2,PCIe,7z,设计]
 comments: true

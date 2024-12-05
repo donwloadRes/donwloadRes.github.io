@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相位噪声：振荡器相位噪声模型-MATLAB实现"
+title: "相位噪声振荡器相位噪声模型MATLAB实现"
 date:   2024-07-10
 tags: [相位,噪声,phase,noise,信号]
 comments: true

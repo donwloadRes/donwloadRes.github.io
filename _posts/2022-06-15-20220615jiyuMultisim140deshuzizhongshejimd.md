@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Multisim14.0的数字钟设计"
+title: "基于Multisim140的数字钟设计"
 date:   2023-04-02
 tags: [Multisim14.0,数字钟,文件,校时,报时]
 comments: true

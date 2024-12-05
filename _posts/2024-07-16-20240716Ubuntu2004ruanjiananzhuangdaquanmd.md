@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu20.04软件安装大全"
+title: "Ubuntu2004软件安装大全"
 date:   2023-01-30
 tags: [安装,下载,编译,安装包,Ubuntu]
 comments: true

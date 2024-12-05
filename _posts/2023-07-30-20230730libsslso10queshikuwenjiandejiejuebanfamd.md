@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libssl.so.10缺失库文件的解决办法"
+title: "libsslso10缺失库文件的解决办法"
 date:   2021-06-25
 tags: [libssl,so.10,文档,缺失,文件]
 comments: true

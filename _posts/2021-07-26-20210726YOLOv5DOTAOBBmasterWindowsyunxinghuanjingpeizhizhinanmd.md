@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5_DOTA_OBB-master Windows运行环境配置指南"
+title: "YOLOv5DOTAOBBmaster Windows运行环境配置指南"
 date:   2022-04-01
 tags: [Windows,YOLOv5,DOTA,OBB,master]
 comments: true

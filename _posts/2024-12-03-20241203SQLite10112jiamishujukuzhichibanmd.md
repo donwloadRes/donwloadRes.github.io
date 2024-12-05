@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLite 1.0.112 加密数据库支持版"
+title: "SQLite 10112 加密数据库支持版"
 date:   2022-04-05
 tags: [SQLite,加密,112,版本,1.0]
 comments: true

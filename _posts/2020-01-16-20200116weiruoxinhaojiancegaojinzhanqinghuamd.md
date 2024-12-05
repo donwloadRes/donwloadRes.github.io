@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微弱信号检测_高晋占 清华"
+title: "微弱信号检测高晋占 清华"
 date:   2024-04-14
 tags: [检测,信号,微弱,高晋,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200通过CM CANopen主站模块与CANopen从站伺服通讯"
+title: "S71200通过CM CANopen主站模块与CANopen从站伺服通讯"
 date:   2024-09-25
 tags: [CANopen,S7,1200,PLC,CM]
 comments: true

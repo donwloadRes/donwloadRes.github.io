@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新WIN10 64位21H2正式版19044.2006 资源文件介绍"
+title: "最新WIN10 64位21H2正式版190442006 资源文件介绍"
 date:   2021-07-23
 tags: [21H2,正式版,19044.2006,WIN10,64]
 comments: true

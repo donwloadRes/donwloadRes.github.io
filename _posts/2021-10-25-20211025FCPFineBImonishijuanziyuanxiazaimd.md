@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FCP-FineBI模拟试卷资源下载"
+title: "FCPFineBI模拟试卷资源下载"
 date:   2024-06-18
 tags: [FCP,FineBI,试卷,模拟,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt地图插件（QGroundControl独立版）"
+title: "Qt地图插件QGroundControl独立版"
 date:   2023-06-07
 tags: [Qt,QGroundControl,插件,地图,调试]
 comments: true

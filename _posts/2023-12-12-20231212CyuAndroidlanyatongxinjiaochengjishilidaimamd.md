@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与Android蓝牙通信教程及示例代码"
+title: "C与Android蓝牙通信教程及示例代码"
 date:   2024-11-14
 tags: [蓝牙,Android,C#,Unity,通信]
 comments: true

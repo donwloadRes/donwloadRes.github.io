@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2016 Enterprise (简体中文) 全套ISO原版下载"
+title: "SQL Server 2016 Enterprise 简体中文 全套ISO原版下载"
 date:   2022-05-03
 tags: [SQL,Server,2016,Enterprise,简体中文]
 comments: true

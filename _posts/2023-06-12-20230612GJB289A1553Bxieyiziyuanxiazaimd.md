@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB-289A(1553B) 协议资源下载"
+title: "GJB289A1553B 协议资源下载"
 date:   2023-01-16
 tags: [GJB,289A,1553B,资源,文件]
 comments: true

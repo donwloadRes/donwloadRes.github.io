@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机与RC522资源：程序和PCB电路图"
+title: "51单片机与RC522资源程序和PCB电路图"
 date:   2024-10-27
 tags: [RC522,51,单片机,PCB,模块]
 comments: true

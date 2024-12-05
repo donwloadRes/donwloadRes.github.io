@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2019.2 下载地址分享"
+title: "Vivado 20192 下载地址分享"
 date:   2021-11-22
 tags: [Vivado,2019.2,安装,FPGA,License]
 comments: true

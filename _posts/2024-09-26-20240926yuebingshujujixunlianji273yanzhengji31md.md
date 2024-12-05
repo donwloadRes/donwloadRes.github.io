@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "月饼数据集【训练集273】验证集31"
+title: "月饼数据集训练集273验证集31"
 date:   2021-04-07
 tags: [数据,验证,训练,图像,月饼]
 comments: true

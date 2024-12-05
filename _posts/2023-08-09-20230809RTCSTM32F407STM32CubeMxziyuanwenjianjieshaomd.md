@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTC-STM32F407+STM32CubeMx 资源文件介绍"
+title: "RTCSTM32F407STM32CubeMx 资源文件介绍"
 date:   2023-10-01
 tags: [RTC,开发板,断电,初始化,文件]
 comments: true

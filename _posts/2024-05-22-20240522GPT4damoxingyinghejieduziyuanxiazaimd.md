@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT-4大模型硬核解读资源下载"
+title: "GPT4大模型硬核解读资源下载"
 date:   2022-10-28
 tags: [GPT,模型,硬核,解读,资源]
 comments: true

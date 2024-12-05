@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pixhawk FMU-IO板BootLoader固件下载"
+title: "Pixhawk FMUIO板BootLoader固件下载"
 date:   2021-03-18
 tags: [固件,Pixhawk,BootLoader,下载,FMU]
 comments: true

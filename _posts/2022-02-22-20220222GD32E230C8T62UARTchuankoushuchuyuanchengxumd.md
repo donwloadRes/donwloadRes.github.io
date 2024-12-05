@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32E230C8T6_2UART串口输出源程序"
+title: "GD32E230C8T62UART串口输出源程序"
 date:   2020-03-11
 tags: [串口,GD32E230C8T6,2UART,确保您,GD32E230]
 comments: true

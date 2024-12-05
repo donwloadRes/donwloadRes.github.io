@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 快速安装 ROS 系统教程"
+title: "Ubuntu 2004 快速安装 ROS 系统教程"
 date:   2023-05-24
 tags: [ROS,bash,rosdep,sudo,ros]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32Cube_FW_F1_V1.8.0 官方固件库资源"
+title: "STM32CubeFWF1V180 官方固件库资源"
 date:   2021-07-01
 tags: [固件,STM32Cube,F1,V1.8,FW]
 comments: true

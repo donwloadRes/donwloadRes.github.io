@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 15031-6-2015 汽车电子开发OBD诊断规范"
+title: "ISO 1503162015 汽车电子开发OBD诊断规范"
 date:   2023-07-28
 tags: [ISO,2015,15031,OBD,文档]
 comments: true

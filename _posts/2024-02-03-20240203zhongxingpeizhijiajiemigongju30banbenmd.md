@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴配置加解密工具3.0版本"
+title: "中兴配置加解密工具30版本"
 date:   2022-01-27
 tags: [解密,加解密,3.0,中兴,工具]
 comments: true

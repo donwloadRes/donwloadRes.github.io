@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈尔滨工业大学（HIT）计算机系统期末卷2023春"
+title: "哈尔滨工业大学HIT计算机系统期末卷2023春"
 date:   2024-08-01
 tags: [试卷,计算机系统,复习,HIT,2023]
 comments: true

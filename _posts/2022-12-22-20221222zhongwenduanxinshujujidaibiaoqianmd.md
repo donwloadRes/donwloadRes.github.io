@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文短信数据集-带标签"
+title: "中文短信数据集带标签"
 date:   2020-06-03
 tags: [短信,数据,标签,信息检索,train]
 comments: true

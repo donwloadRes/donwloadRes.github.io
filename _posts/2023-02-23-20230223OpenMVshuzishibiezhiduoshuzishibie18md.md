@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenMV数字识别之多数字识别  1~8"
+title: "OpenMV数字识别之多数字识别  18"
 date:   2020-08-19
 tags: [识别,OpenMV,数字,文件,资源]
 comments: true

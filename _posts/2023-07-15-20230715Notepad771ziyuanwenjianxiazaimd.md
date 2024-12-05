@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 7.7.1 资源文件下载"
+title: "Notepad 771 资源文件下载"
 date:   2023-06-17
 tags: [文件,下载,Notepad,++,notepad771]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通LA.UM.5.6 Android 7 编译报错解决方案"
+title: "高通LAUM56 Android 7 编译报错解决方案"
 date:   2022-11-10
 tags: [server,jack,编译,Jack,文件]
 comments: true

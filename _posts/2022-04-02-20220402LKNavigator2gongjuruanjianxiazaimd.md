@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LK-Navigator2 工具软件下载"
+title: "LKNavigator2 工具软件下载"
 date:   2021-01-16
 tags: [LK,Navigator2,基恩,工具软件,安装包]
 comments: true

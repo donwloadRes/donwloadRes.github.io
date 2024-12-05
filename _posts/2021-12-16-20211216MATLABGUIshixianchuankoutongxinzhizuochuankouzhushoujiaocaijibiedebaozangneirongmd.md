@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB GUI 实现串口通信：制作串口助手（教材级别的宝藏内容）"
+title: "MATLAB GUI 实现串口通信制作串口助手教材级别的宝藏内容"
 date:   2024-05-31
 tags: [串口,MATLAB,GUI,通信,助手]
 comments: true

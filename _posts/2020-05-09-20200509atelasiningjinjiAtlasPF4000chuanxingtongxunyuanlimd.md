@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿特拉斯拧紧机（Atlas） PF4000 串行通讯原理"
+title: "阿特拉斯拧紧机Atlas PF4000 串行通讯原理"
 date:   2020-12-31
 tags: [串行,拧紧,PF4000,通讯,阿特拉斯]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.16 版本 JDBC 驱动 Jar 包下载"
+title: "MySQL 8016 版本 JDBC 驱动 Jar 包下载"
 date:   2024-12-04
 tags: [MySQL,16,8.0,JDBC,Jar]
 comments: true

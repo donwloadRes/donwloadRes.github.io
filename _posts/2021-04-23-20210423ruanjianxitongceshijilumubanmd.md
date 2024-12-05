@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件-系统测试记录模板"
+title: "软件系统测试记录模板"
 date:   2023-07-23
 tags: [模板,测试,记录,软件,测试人员]
 comments: true

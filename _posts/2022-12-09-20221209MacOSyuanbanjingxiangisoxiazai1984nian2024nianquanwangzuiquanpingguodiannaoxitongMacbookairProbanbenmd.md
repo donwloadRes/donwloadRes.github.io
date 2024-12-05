@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⭐️ MacOS原版镜像iso下载（1984年-2024年全网最全苹果电脑系统Mac book air Pro版本）"
+title: " MacOS原版镜像iso下载1984年2024年全网最全苹果电脑系统Mac book air Pro版本"
 date:   2021-05-12
 tags: [Mac,版本,OS,镜像,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战二：波士顿房价预测"
+title: "机器学习实战二波士顿房价预测"
 date:   2022-02-10
 tags: [波士顿,模型,房价,数据,预测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB HID通信上位机程序VC6.0源代码"
+title: "USB HID通信上位机程序VC60源代码"
 date:   2021-08-11
 tags: [USB,源代码,HID,VC6.0,上位]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL和SQLyog超详细安装步骤（附安装包）"
+title: "MySQL和SQLyog超详细安装步骤附安装包"
 date:   2023-11-22
 tags: [安装,MySQL,安装包,SQLyog,步骤]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux双网卡路由配置指南：访问特定IP网段走指定网卡"
+title: "Linux双网卡路由配置指南访问特定IP网段走指定网卡"
 date:   2022-07-14
 tags: [配置,Linux,网段,网卡,双网卡]
 comments: true

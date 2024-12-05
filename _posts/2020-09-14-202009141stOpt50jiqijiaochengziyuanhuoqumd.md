@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1stOpt5.0及其教程资源获取"
+title: "1stOpt50及其教程资源获取"
 date:   2023-10-18
 tags: [1stOpt5.0,教程,软件,优化,仿真]
 comments: true

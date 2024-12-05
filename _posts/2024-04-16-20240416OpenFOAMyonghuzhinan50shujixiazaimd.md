@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenFOAM用户指南-5.0书籍下载"
+title: "OpenFOAM用户指南50书籍下载"
 date:   2021-10-24
 tags: [OpenFOAM,5.0,书籍,用户,指南]
 comments: true

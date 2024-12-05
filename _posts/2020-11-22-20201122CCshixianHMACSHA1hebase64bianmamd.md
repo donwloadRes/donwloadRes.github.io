@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++实现HMAC-SHA1和base64编码"
+title: "CC实现HMACSHA1和base64编码"
 date:   2021-09-11
 tags: [base64,HMAC,SHA1,编码,C++]
 comments: true

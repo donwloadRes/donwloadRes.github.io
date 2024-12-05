@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoLite2-GeoIP 全球国家IP离线定位库（2023最新版）"
+title: "GeoLite2GeoIP 全球国家IP离线定位库2023最新版"
 date:   2021-10-03
 tags: [IP,数据库,定位,GeoLite2,GeoIP2]
 comments: true

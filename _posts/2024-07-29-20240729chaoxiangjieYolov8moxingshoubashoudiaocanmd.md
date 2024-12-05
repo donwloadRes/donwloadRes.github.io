@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超详解- Yolov8模型手把手调参"
+title: "超详解 Yolov8模型手把手调参"
 date:   2023-05-28
 tags: [模型,调参,YOLOv8,Yolov8,推理]
 comments: true

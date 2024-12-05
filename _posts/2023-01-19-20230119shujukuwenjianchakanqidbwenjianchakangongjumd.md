@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库文件查看器（db文件查看工具）"
+title: "数据库文件查看器db文件查看工具"
 date:   2020-05-18
 tags: [文件,db,查看,数据库,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与多品牌PLC通讯源码"
+title: "C与多品牌PLC通讯源码"
 date:   2024-11-04
 tags: [PLC,源码,通讯,品牌,示例]
 comments: true

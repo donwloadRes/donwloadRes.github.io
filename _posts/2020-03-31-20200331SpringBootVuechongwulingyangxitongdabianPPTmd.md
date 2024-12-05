@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue宠物领养系统答辩PPT"
+title: "SpringBootVue宠物领养系统答辩PPT"
 date:   2021-10-16
 tags: [Vue,PPT,答辩,SpringBoot,领养]
 comments: true

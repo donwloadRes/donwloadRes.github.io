@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EXE易容大师 V1.2 多功能EXE图标修改器"
+title: "EXE易容大师 V12 多功能EXE图标修改器"
 date:   2024-06-26
 tags: [EXE,修改,易容,V1.2,文件]
 comments: true

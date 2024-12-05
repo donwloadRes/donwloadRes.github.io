@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的俄罗斯方块游戏 - VGA显示资源包"
+title: "基于FPGA的俄罗斯方块游戏  VGA显示资源包"
 date:   2020-10-18
 tags: [FPGA,Vivado,方块,VGA,PPT]
 comments: true

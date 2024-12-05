@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计（PDF格式）"
+title: "C语言程序设计PDF格式"
 date:   2022-11-30
 tags: [C语言,指针,数组,程序设计,运算符]
 comments: true

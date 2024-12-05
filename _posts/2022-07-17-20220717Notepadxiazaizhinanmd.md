@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 下载指南"
+title: "Notepad 下载指南"
 date:   2022-08-19
 tags: [Notepad,++,下载,安装,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carsim、Prescan 与 Simulink 联合仿真教程"
+title: "CarsimPrescan 与 Simulink 联合仿真教程"
 date:   2023-03-29
 tags: [仿真,Prescan,Carsim,联合,Simulink]
 comments: true

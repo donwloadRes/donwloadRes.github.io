@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现 ListView 无闪烁更新大批量记录"
+title: "C 实现 ListView 无闪烁更新大批量记录"
 date:   2021-12-11
 tags: [ListView,控件,更新,无闪烁,大批量]
 comments: true

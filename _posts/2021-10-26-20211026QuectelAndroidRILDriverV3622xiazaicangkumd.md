@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel-Android-RIL-Driver-V3.6.22 下载仓库"
+title: "QuectelAndroidRILDriverV3622 下载仓库"
 date:   2020-04-22
 tags: [安卓,驱动程序,RIL,移远,Quectel]
 comments: true

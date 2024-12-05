@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：电力系统低碳调度与源荷不确定性的风电优化"
+title: "MATLAB代码电力系统低碳调度与源荷不确定性的风电优化"
 date:   2021-05-05
 tags: [调度,低碳,电力系统,MATLAB,代码]
 comments: true

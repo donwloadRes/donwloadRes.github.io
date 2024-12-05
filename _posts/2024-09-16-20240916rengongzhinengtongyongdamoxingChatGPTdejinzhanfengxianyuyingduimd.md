@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能通用大模型(ChatGPT)的进展、风险与应对"
+title: "人工智能通用大模型ChatGPT的进展风险与应对"
 date:   2023-02-03
 tags: [ChatGPT,人工智能,模型,通用,进展]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北斗2.1通信协议（北斗二号）资源下载"
+title: "北斗21通信协议北斗二号资源下载"
 date:   2024-09-27
 tags: [北斗,通信协议,2.1,二号,文件]
 comments: true

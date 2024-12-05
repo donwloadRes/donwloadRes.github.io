@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6内部Flash模拟EEPROM（附代码）"
+title: "STM32F103C8T6内部Flash模拟EEPROM附代码"
 date:   2020-03-03
 tags: [Flash,写入,代码,示例,STM32F103C8T6]
 comments: true

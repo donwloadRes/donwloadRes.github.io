@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现串口（UART）"
+title: "FPGA实现串口UART"
 date:   2022-05-22
 tags: [UART,串口,FPGA,模块,Verilog]
 comments: true

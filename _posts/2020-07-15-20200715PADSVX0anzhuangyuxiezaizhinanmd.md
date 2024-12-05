@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS-VX.0 安装与卸载指南"
+title: "PADSVX0 安装与卸载指南"
 date:   2023-04-09
 tags: [卸载,PADS,VX.0,安装,文档]
 comments: true

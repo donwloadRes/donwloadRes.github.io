@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#入门经典.pdf"
+title: "C入门经典pdf"
 date:   2020-10-09
 tags: [C#,编程,入门,pdf,经典]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) 6.42 Build 3中文版"
+title: "Internet Download Manager IDM 642 Build 3中文版"
 date:   2022-01-27
 tags: [IDM,下载,下载速度,集成,浏览器]
 comments: true

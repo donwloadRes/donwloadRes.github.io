@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity AVPro Video 1.11.5 视频播放插件"
+title: "Unity AVPro Video 1115 视频播放插件"
 date:   2020-12-17
 tags: [插件,Unity,版本,播放,AVPro]
 comments: true

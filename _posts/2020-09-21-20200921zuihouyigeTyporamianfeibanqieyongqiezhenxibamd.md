@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最后一个Typora免费版，且用且珍惜吧"
+title: "最后一个Typora免费版且用且珍惜吧"
 date:   2024-06-29
 tags: [Typora,免费版,用且,Markdown,免费]
 comments: true

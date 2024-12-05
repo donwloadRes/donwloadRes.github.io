@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BluetoothPcDebugger：蓝牙调试Pc端"
+title: "BluetoothPcDebugger蓝牙调试Pc端"
 date:   2021-10-11
 tags: [蓝牙,BluetoothPcDebugger,调试,Pc,设备]
 comments: true

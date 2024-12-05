@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# USB HID通讯示例"
+title: "C USB HID通讯示例"
 date:   2021-12-17
 tags: [HID,USB,示例,设备,C#]
 comments: true

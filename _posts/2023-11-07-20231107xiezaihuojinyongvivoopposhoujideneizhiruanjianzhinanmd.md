@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卸载或禁用vivo - oppo手机的内置软件指南"
+title: "卸载或禁用vivo  oppo手机的内置软件指南"
 date:   2024-01-16
 tags: [卸载,手机,应用程序,禁用,ADB]
 comments: true

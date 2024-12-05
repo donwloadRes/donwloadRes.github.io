@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEU_KMS_Activator_v19.6.1 使用说明"
+title: "HEUKMSActivatorv1961 使用说明"
 date:   2020-05-28
 tags: [v19.6,HEU,KMS,Activator,说明]
 comments: true

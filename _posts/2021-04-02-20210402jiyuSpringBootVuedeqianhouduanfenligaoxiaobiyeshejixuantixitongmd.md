@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的前后端分离高校毕业设计选题系统"
+title: "基于SpringBootVue的前后端分离高校毕业设计选题系统"
 date:   2021-08-10
 tags: [毕业设计,选题,高校,Vue,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMC FPGA标准接口卡规范-VITA57.1"
+title: "FMC FPGA标准接口卡规范VITA571"
 date:   2020-05-30
 tags: [FMC,FPGA,规范,接口卡,VITA57.1]
 comments: true

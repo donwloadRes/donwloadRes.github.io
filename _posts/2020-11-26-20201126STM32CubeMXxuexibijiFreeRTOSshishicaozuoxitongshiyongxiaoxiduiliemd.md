@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记：FreeRTOS实时操作系统使用（消息队列）"
+title: "STM32CubeMX学习笔记FreeRTOS实时操作系统使用消息队列"
 date:   2022-08-16
 tags: [FreeRTOS,STM32CubeMX,队列,实时操作系统,示例]
 comments: true

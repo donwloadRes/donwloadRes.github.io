@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFMpeg_FFPlay 源码剖析（杨书良）资源下载"
+title: "FFMpegFFPlay 源码剖析杨书良资源下载"
 date:   2021-05-11
 tags: [杨书良,源码,剖析,FFMpeg,FFPlay]
 comments: true

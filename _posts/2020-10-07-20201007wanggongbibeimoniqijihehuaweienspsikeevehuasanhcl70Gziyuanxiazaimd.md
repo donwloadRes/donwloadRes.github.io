@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网工必备模拟器集合 - 华为ensp、思科eve、华三hcl 70G资源下载"
+title: "网工必备模拟器集合  华为ensp思科eve华三hcl 70G资源下载"
 date:   2023-06-02
 tags: [模拟器,华三,思科,华为,ensp]
 comments: true

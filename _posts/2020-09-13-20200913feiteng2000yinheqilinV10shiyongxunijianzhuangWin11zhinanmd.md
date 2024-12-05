@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞腾2000+银河麒麟V10使用虚拟机安装Win11指南"
+title: "飞腾2000银河麒麟V10使用虚拟机安装Win11指南"
 date:   2022-03-19
 tags: [安装,Win11,PhyVirt,飞腾,虚拟机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带你安装Modelsim 10.4"
+title: "带你安装Modelsim 104"
 date:   2023-02-16
 tags: [Modelsim,安装,10.4,仿真,文档]
 comments: true

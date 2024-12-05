@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Python构造neo4j知识图谱（关于中成药的）"
+title: "用Python构造neo4j知识图谱关于中成药的"
 date:   2024-10-29
 tags: [图谱,Python,neo4j,知识,中成药]
 comments: true

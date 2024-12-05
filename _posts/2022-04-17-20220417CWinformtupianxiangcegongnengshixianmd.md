@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 图片相册功能实现"
+title: "C Winform 图片相册功能实现"
 date:   2022-06-29
 tags: [C#,Winform,相册,仓库,图片]
 comments: true

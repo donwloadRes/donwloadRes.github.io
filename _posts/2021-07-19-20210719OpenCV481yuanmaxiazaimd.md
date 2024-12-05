@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.1 源码下载"
+title: "OpenCV 481 源码下载"
 date:   2022-12-05
 tags: [源码,OpenCV,4.8,编译,下载]
 comments: true

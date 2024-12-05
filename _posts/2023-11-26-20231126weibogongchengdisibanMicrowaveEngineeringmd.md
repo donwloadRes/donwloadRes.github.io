@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微波工程第四版 - Microwave Engineering"
+title: "微波工程第四版  Microwave Engineering"
 date:   2023-01-11
 tags: [微波,第四版,学习,工程,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS机器人操作系统讲义 - 机器人操作系统入门"
+title: "ROS机器人操作系统讲义  机器人操作系统入门"
 date:   2023-05-19
 tags: [ROS,机器人,操作系统,讲义,单元测试]
 comments: true

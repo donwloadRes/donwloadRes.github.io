@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达深度学习资源：第四周实践任务——神经网络与深度学习"
+title: "吴恩达深度学习资源第四周实践任务神经网络与深度学习"
 date:   2022-07-18
 tags: [神经网络,学习,Sigmoid,函数,理解]
 comments: true

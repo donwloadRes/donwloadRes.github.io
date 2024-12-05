@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.ACE.OLEDB.12.0 提供程序"
+title: "MicrosoftACEOLEDB120 提供程序"
 date:   2023-09-05
 tags: [Excel,Microsoft,OleDb,ACE,程序]
 comments: true

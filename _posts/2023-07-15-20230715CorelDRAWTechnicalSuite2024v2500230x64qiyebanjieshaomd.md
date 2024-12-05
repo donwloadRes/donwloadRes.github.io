@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Technical Suite 2024 v25.0.0.230 x64企业版介绍"
+title: "CorelDRAW Technical Suite 2024 v2500230 x64企业版介绍"
 date:   2020-02-16
 tags: [CorelDRAW,安装,2024,Corel,设计]
 comments: true

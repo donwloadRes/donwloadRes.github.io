@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜜蜂、蚂蚁数据集下载仓库"
+title: "蜜蜂蚂蚁数据集下载仓库"
 date:   2020-03-26
 tags: [数据,蜜蜂,蚂蚁,下载,练习]
 comments: true

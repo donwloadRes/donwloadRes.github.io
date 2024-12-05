@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+QT5串口助手资源下载"
+title: "PythonQT5串口助手资源下载"
 date:   2023-06-22
 tags: [串口,Python,QT5,开发,助手]
 comments: true

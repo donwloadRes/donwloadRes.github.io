@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B5、B6、B7、B18特征的Excel表下载"
+title: "B5B6B7B18特征的Excel表下载"
 date:   2023-11-21
 tags: [Excel,B5,B6,B7,B18]
 comments: true

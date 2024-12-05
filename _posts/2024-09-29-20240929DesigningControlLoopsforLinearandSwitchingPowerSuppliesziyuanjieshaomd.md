@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing Control Loops for Linear and Switching Power Supplies》资源介绍"
+title: "Designing Control Loops for Linear and Switching Power Supplies资源介绍"
 date:   2024-01-05
 tags: [开关电源,设计,控制,资源,文件]
 comments: true

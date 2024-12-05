@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL ODBC 驱动程序 8.0.16 64位版本下载"
+title: "MySQL ODBC 驱动程序 8016 64位版本下载"
 date:   2021-11-23
 tags: [安装,MySQL,ODBC,8.0,16]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt终极教程：用Qt编程实现中国象棋游戏"
+title: "Qt终极教程用Qt编程实现中国象棋游戏"
 date:   2021-09-26
 tags: [Qt,教程,对战,编译,源代码]
 comments: true

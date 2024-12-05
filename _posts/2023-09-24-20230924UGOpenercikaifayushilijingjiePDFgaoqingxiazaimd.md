@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UGOpen二次开发与实例精解PDF[高清]下载"
+title: "UGOpen二次开发与实例精解PDF高清下载"
 date:   2021-10-30
 tags: [UGOpen,二次开发,PDF,实例,高清]
 comments: true

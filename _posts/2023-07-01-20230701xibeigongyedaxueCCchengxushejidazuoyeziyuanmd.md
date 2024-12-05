@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学C-C++程序设计大作业资源"
+title: "西北工业大学CC程序设计大作业资源"
 date:   2021-10-29
 tags: [作业,文档,C++,资源,西北工业大学]
 comments: true

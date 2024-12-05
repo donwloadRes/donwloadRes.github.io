@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONSEMI 三相11 kW PFC + LLC电动汽车车载充电(OBC)平台用户手册"
+title: "ONSEMI 三相11 kW PFC  LLC电动汽车车载充电OBC平台用户手册"
 date:   2022-09-26
 tags: [用户手册,ONSEMI,平台,PFC,LLC]
 comments: true

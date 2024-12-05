@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运放设计宝典：共模反馈电路设计与仿真"
+title: "运放设计宝典共模反馈电路设计与仿真"
 date:   2024-07-11
 tags: [共模,设计,反馈,仿真,电路设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统下Open3D-0.18.0的快速安装与使用指南"
+title: "Windows系统下Open3D0180的快速安装与使用指南"
 date:   2020-09-10
 tags: [Open3D,安装,Windows,0.18,o3d]
 comments: true

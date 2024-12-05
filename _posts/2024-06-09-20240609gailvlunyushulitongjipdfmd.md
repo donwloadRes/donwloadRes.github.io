@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论与数理统计.pdf"
+title: "概率论与数理统计pdf"
 date:   2023-03-05
 tags: [数理统计,概率论,学习,pdf,PDF]
 comments: true

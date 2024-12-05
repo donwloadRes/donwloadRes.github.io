@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF DataGrid 用法详解"
+title: "C WPF DataGrid 用法详解"
 date:   2020-02-17
 tags: [DataGrid,WPF,示例,C#,分页]
 comments: true

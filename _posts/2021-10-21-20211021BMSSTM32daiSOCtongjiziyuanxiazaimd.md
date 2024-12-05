@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS-STM32带SOC统计资源下载"
+title: "BMSSTM32带SOC统计资源下载"
 date:   2020-02-05
 tags: [STM32,SOC,BMS,电池,下载]
 comments: true

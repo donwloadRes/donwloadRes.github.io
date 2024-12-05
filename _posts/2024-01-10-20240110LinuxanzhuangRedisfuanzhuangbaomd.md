@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 安装 Redis（附安装包）"
+title: "Linux 安装 Redis附安装包"
 date:   2021-03-30
 tags: [Redis,安装包,安装,Linux,解压]
 comments: true

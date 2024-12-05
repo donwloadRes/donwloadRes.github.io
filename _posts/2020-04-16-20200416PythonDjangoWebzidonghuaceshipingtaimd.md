@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-Django Web自动化测试平台"
+title: "PythonDjango Web自动化测试平台"
 date:   2022-05-26
 tags: [测试,Python,Django,Web,自动化]
 comments: true

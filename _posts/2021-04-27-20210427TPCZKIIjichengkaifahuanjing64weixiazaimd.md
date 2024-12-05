@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TPC-ZK-II集成开发环境（64位）下载"
+title: "TPCZKII集成开发环境64位下载"
 date:   2021-03-26
 tags: [TPC,ZK,II,64,集成]
 comments: true

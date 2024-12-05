@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米平板1刷LineageOS 16.0教程"
+title: "小米平板1刷LineageOS 160教程"
 date:   2021-06-26
 tags: [刷机,教程,LineageOS,平板,小米]
 comments: true

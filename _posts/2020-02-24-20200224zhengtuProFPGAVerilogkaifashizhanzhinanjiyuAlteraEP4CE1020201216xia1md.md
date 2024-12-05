@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "征途ProFPGA Verilog开发实战指南——基于Altera EP4CE10》2020.12.16（下）1"
+title: "征途ProFPGA Verilog开发实战指南基于Altera EP4CE1020201216下1"
 date:   2022-01-08
 tags: [I2C,协议,FPGA,Verilog,16]
 comments: true

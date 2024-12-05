@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA11.4、CUDNN、Pytorch安装指南"
+title: "CUDA114CUDNNPytorch安装指南"
 date:   2022-04-04
 tags: [CUDA,安装,Pytorch,cuDNN,版本]
 comments: true

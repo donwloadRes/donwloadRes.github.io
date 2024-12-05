@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF.UI 控件库资源文件介绍"
+title: "WPFUI 控件库资源文件介绍"
 date:   2024-04-02
 tags: [控件,WPF,UI,源代码,自定义]
 comments: true

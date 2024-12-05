@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10系统VC++6.0安装教程"
+title: "Windows10系统VC60安装教程"
 date:   2024-06-25
 tags: [安装,C++,6.0,Windows10,安装程序]
 comments: true

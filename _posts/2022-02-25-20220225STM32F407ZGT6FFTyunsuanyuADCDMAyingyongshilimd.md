@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6 FFT运算与ADC-DMA应用示例"
+title: "STM32F407ZGT6 FFT运算与ADCDMA应用示例"
 date:   2022-01-24
 tags: [ADC,FFT,DMA,STM32F407ZGT6,STM32CubeMX]
 comments: true

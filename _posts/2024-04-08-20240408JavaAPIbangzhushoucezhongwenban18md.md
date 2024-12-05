@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java API 帮助手册中文版 1.8"
+title: "Java API 帮助手册中文版 18"
 date:   2024-03-20
 tags: [目录,Java,1.8,文档,API]
 comments: true

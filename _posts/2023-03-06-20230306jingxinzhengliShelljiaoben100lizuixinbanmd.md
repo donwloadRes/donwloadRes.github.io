@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精心整理Shell脚本100例(最新版)"
+title: "精心整理Shell脚本100例最新版"
 date:   2024-08-28
 tags: [Shell,示例,脚本,100,最新版]
 comments: true

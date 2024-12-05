@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科微GPS定位数据操作软件 - GnssToolKit3"
+title: "中科微GPS定位数据操作软件  GnssToolKit3"
 date:   2021-06-09
 tags: [接收机,软件,GnssToolKit3,测试,性能]
 comments: true

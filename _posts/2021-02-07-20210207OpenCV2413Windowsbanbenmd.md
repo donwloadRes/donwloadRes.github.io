@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 2.4.13 Windows 版本"
+title: "OpenCV 2413 Windows 版本"
 date:   2023-04-13
 tags: [OpenCV,版本,2.4,13,Windows]
 comments: true

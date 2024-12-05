@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PreScan 8.5 百度网盘下载链接及安装过程"
+title: "PreScan 85 百度网盘下载链接及安装过程"
 date:   2020-06-28
 tags: [安装,PreScan,Next,8.5,默认]
 comments: true

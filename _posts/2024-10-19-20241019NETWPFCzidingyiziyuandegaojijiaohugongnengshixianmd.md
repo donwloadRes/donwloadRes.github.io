@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET WPF C# 自定義資源的高級交互功能實現"
+title: "NET WPF C 自定義資源的高級交互功能實現"
 date:   2021-06-18
 tags: [應用,調整,專案,程式,WPF]
 comments: true

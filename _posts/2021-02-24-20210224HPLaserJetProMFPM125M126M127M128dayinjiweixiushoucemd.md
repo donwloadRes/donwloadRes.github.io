@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HP LaserJet Pro MFP M125, M126, M127, M128 打印机维修手册"
+title: "HP LaserJet Pro MFP M125 M126 M127 M128 打印机维修手册"
 date:   2020-04-10
 tags: [打印机,手册,维修,HP,LaserJet]
 comments: true

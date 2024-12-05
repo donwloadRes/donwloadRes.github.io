@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM 存储管理工具DS Storage Manager V11.2"
+title: "IBM 存储管理工具DS Storage Manager V112"
 date:   2020-10-05
 tags: [IBM,存储管理,软件,DS,Storage]
 comments: true

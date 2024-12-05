@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WebSocket客户端HTML Winform资源"
+title: "C WebSocket客户端HTML Winform资源"
 date:   2020-09-03
 tags: [WebSocket,客户端,Fleck,C#,服务器]
 comments: true

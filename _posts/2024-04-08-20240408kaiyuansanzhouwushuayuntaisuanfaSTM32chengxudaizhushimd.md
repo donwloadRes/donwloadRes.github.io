@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源三轴无刷云台算法STM32程序（带注释）"
+title: "开源三轴无刷云台算法STM32程序带注释"
 date:   2024-08-31
 tags: [STM32,云台,开发者,三轴无刷,注释]
 comments: true

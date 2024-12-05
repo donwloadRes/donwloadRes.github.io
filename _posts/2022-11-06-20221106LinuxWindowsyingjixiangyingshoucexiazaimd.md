@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux & Windows 应急响应手册下载"
+title: "Linux  Windows 应急响应手册下载"
 date:   2021-05-15
 tags: [手册,Linux,Windows,应急,响应]
 comments: true

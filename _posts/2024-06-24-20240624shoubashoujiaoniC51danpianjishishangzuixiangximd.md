@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你C51单片机（史上最详细）"
+title: "手把手教你C51单片机史上最详细"
 date:   2020-12-25
 tags: [单片机,C51,Keil,HEX,开发板]
 comments: true

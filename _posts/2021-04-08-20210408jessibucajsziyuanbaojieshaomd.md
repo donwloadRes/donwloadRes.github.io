@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jessibuca.js资源包介绍"
+title: "jessibucajs资源包介绍"
 date:   2021-11-24
 tags: [jessibuca,js,资源,button,模块]
 comments: true

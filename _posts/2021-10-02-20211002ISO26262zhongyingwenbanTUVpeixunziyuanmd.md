@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 26262中英文版+TUV培训资源"
+title: "ISO 26262中英文版TUV培训资源"
 date:   2021-12-20
 tags: [26262,ISO,TUV,学习,中文翻译]
 comments: true

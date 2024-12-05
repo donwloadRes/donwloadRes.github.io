@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联咏IPC芯片NT98562-NT98566原理图"
+title: "联咏IPC芯片NT98562NT98566原理图"
 date:   2024-05-13
 tags: [原理图,IPC,NT98562,NT98566,芯片]
 comments: true

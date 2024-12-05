@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C11-C++11 标准中文版下载"
+title: "C11C11 标准中文版下载"
 date:   2020-10-05
 tags: [C++,C11,11,CHM,标准]
 comments: true

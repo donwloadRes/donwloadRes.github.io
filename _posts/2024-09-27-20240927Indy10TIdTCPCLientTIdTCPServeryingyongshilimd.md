@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Indy10 TIdTCPCLient-TIdTCPServer 应用实例"
+title: "Indy10 TIdTCPCLientTIdTCPServer 应用实例"
 date:   2022-02-23
 tags: [乱码,中文,Indy10,TIdTCPCLient,TIdTCPServer]
 comments: true

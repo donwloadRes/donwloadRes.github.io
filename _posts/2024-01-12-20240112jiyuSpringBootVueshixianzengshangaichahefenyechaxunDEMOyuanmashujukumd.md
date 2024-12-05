@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue实现增删改查和分页查询DEMO（源码+数据库）"
+title: "基于SpringBootVue实现增删改查和分页查询DEMO源码数据库"
 date:   2023-03-16
 tags: [项目,数据库,SpringBoot,Vue,改查]
 comments: true

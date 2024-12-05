@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+FFMPEG 实时拉取并处理RTSP H264视频流"
+title: "QTFFMPEG 实时拉取并处理RTSP H264视频流"
 date:   2024-08-19
 tags: [视频流,FFMPEG,实时,QT,拉取]
 comments: true

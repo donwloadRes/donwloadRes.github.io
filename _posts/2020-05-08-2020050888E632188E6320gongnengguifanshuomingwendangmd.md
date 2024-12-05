@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "88E6321_88E6320 功能规范说明文档"
+title: "88E632188E6320 功能规范说明文档"
 date:   2024-05-22
 tags: [文档,88E6321,88E6320,Draft,Rev0]
 comments: true

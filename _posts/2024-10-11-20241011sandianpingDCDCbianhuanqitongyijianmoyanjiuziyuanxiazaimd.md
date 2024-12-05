@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三电平DC-DC变换器统一建模研究资源下载"
+title: "三电平DCDC变换器统一建模研究资源下载"
 date:   2021-07-26
 tags: [DC,变换器,电平,建模,统一]
 comments: true

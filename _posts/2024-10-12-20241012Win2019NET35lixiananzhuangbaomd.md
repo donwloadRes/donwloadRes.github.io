@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win2019-NET3.5 离线安装包"
+title: "Win2019NET35 离线安装包"
 date:   2020-01-18
 tags: [安装包,离线,安装,Win2019,NET3.5]
 comments: true

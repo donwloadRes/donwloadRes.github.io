@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSTM-Attention回归预测模型"
+title: "LSTMAttention回归预测模型"
 date:   2021-09-11
 tags: [LSTM,Attention,MATLAB,预测,模型]
 comments: true

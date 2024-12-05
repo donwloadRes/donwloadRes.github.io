@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 抽屉效果SplitView：炫酷侧边菜单 + MD主题美化Demo"
+title: "C WPF 抽屉效果SplitView炫酷侧边菜单  MD主题美化Demo"
 date:   2022-05-11
 tags: [WPF,MD,Demo,菜单,炫酷]
 comments: true

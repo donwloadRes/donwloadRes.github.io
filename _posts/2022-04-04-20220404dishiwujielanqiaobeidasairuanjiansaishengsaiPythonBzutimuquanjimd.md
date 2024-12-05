@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十五届蓝桥杯大赛软件赛省赛-PythonB组题目全集"
+title: "第十五届蓝桥杯大赛软件赛省赛PythonB组题目全集"
 date:   2024-10-03
 tags: [题目,编程,蓝桥,大赛,赛省赛]
 comments: true

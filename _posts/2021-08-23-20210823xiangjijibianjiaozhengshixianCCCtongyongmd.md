@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相机畸变校正实现（C#、C、C++）通用"
+title: "相机畸变校正实现CCC通用"
 date:   2024-09-28
 tags: [校正,相机,畸变,参数,C#]
 comments: true

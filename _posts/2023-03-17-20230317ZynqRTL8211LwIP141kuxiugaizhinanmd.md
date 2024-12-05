@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq RTL8211 LwIP1.4.1 库修改指南"
+title: "Zynq RTL8211 LwIP141 库修改指南"
 date:   2021-05-07
 tags: [Zynq,LwIP,RTL8211,嵌入式,修改]
 comments: true

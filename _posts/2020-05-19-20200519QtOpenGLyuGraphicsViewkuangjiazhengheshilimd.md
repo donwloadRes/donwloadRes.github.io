@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtOpenGL与Graphics-View框架整合示例"
+title: "QtOpenGL与GraphicsView框架整合示例"
 date:   2022-09-15
 tags: [Graphics,View,示例,框架,Qt]
 comments: true

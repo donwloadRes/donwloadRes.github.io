@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT指令集&角色扮演.pdf"
+title: "ChatGPT指令集角色扮演pdf"
 date:   2024-10-14
 tags: [ChatGPT,角色扮演,pdf,指令集,指令]
 comments: true

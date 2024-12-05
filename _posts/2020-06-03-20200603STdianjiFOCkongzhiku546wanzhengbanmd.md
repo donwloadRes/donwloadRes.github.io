@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST电机FOC控制库5.4.6完整版"
+title: "ST电机FOC控制库546完整版"
 date:   2022-01-04
 tags: [STM32Cube,FW,5.4,版本,完整版]
 comments: true

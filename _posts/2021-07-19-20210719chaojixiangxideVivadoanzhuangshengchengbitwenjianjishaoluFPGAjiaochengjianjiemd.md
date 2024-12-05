@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级详细的Vivado安装、生成bit文件及烧录FPGA教程简介"
+title: "超级详细的Vivado安装生成bit文件及烧录FPGA教程简介"
 date:   2024-01-17
 tags: [FPGA,Vivado,烧录,bit,教程]
 comments: true

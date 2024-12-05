@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11桌面或文件夹鼠标右击卡死，任务栏崩溃问题解决"
+title: "Win11桌面或文件夹鼠标右击卡死任务栏崩溃问题解决"
 date:   2023-12-24
 tags: [卡死,右击,任务栏,显卡,鼠标]
 comments: true

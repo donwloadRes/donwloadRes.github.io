@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab-SCADA IEC 104 协议模拟器"
+title: "LabSCADA IEC 104 协议模拟器"
 date:   2024-07-20
 tags: [Linux,守护,IEC,104,Windows]
 comments: true

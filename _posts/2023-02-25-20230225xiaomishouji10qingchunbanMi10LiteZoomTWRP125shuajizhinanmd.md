@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米手机10青春版（Mi 10 Lite Zoom）TWRP 12.5刷机指南"
+title: "小米手机10青春版Mi 10 Lite ZoomTWRP 125刷机指南"
 date:   2023-03-10
 tags: [TWRP,10,刷机,刷入,12.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2993-1997 武器装备研制项目管理"
+title: "GJB 29931997 武器装备研制项目管理"
 date:   2024-07-09
 tags: [项目管理,武器装备,文件,项目,1997]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOC+安全运营白皮书下载"
+title: "SOC安全运营白皮书下载"
 date:   2021-05-30
 tags: [SOC,白皮书,运营,安全,网络安全]
 comments: true

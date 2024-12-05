@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享CrystalDiskInfo 8.2.4与CrystalDiskMark 6.0.2个性版本下载"
+title: "分享CrystalDiskInfo 824与CrystalDiskMark 602个性版本下载"
 date:   2021-03-21
 tags: [硬盘,CrystalDiskMark,CrystalDiskInfo,软件,下载]
 comments: true

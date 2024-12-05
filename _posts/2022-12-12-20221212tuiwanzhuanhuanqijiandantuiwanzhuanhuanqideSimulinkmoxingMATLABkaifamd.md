@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推挽转换器：简单推挽转换器的 Simulink 模型 - MATLAB 开发"
+title: "推挽转换器简单推挽转换器的 Simulink 模型  MATLAB 开发"
 date:   2024-05-22
 tags: [推挽,转换器,Simulink,模型,MATLAB]
 comments: true

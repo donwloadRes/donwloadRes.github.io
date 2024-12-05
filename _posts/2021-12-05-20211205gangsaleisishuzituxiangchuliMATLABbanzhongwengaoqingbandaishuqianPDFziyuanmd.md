@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "冈萨雷斯数字图像处理》(MATLAB版) 中文高清版带书签PDF资源"
+title: "冈萨雷斯数字图像处理MATLAB版 中文高清版带书签PDF资源"
 date:   2020-08-26
 tags: [数字图像处理,MATLAB,书签,高清,冈萨雷斯]
 comments: true

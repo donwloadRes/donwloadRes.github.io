@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李宏毅2020机器学习深度学习(完整版)国语课程PPT"
+title: "李宏毅2020机器学习深度学习完整版国语课程PPT"
 date:   2022-11-02
 tags: [PPT,学习,李宏毅,深度,课程]
 comments: true

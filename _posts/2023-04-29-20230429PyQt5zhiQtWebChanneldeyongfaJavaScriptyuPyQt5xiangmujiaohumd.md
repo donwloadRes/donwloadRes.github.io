@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5之QtWebChannel的用法：JavaScript与PyQt5项目交互"
+title: "PyQt5之QtWebChannel的用法JavaScript与PyQt5项目交互"
 date:   2022-11-30
 tags: [PyQt5,示例,QtWebChannel,JavaScript,项目]
 comments: true

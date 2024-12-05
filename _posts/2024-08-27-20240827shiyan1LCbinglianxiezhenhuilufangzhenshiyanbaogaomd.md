@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验1 - LC并联谐振回路仿真实验报告"
+title: "实验1  LC并联谐振回路仿真实验报告"
 date:   2024-04-15
 tags: [谐振,仿真,LC,实验,回路]
 comments: true

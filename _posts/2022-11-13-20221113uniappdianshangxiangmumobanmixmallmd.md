@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uniapp 电商项目模版--mix-mall"
+title: "uniapp 电商项目模版mixmall"
 date:   2024-05-17
 tags: [uniapp,电商,mix,mall,模版]
 comments: true

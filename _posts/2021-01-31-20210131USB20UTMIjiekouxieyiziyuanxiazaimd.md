@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0 UTMI接口协议资源下载"
+title: "USB20 UTMI接口协议资源下载"
 date:   2024-06-05
 tags: [USB2.0,UTMI,接口协议,文件,硬件]
 comments: true

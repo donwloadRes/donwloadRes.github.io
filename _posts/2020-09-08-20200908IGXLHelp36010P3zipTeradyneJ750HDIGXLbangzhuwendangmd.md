@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IGXLHelp_3_60_10_P3.zip - Teradyne J750HD IGXL 帮助文档"
+title: "IGXLHelp36010P3zip  Teradyne J750HD IGXL 帮助文档"
 date:   2024-08-21
 tags: [10,J750HD,IGXLHelp,60,P3]
 comments: true

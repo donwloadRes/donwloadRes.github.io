@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字示波器教程-示波器使用方法"
+title: "数字示波器教程示波器使用方法"
 date:   2023-12-14
 tags: [示波器,教程,数字,测量,分析]
 comments: true

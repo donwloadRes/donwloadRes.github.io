@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium 3D Tiles 倾斜摄影超大场景（14GB）"
+title: "Cesium 3D Tiles 倾斜摄影超大场景14GB"
 date:   2021-01-16
 tags: [Cesium,模型,下载,确保您,摄影]
 comments: true

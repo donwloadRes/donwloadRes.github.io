@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视车牌识别源码（官方Demo）"
+title: "海康威视车牌识别源码官方Demo"
 date:   2023-06-22
 tags: [源码,威视,车牌,海康,识别]
 comments: true

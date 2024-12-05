@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言课程设计-考试报名管理系统"
+title: "C语言课程设计考试报名管理系统"
 date:   2023-05-31
 tags: [课程设计,C语言,列出,功能,管理系统]
 comments: true

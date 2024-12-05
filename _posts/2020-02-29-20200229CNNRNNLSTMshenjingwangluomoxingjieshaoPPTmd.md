@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNN+RNN+LSTM神经网络模型介绍PPT"
+title: "CNNRNNLSTM神经网络模型介绍PPT"
 date:   2021-01-13
 tags: [神经网络,PPT,LSTM,CNN,RNN]
 comments: true

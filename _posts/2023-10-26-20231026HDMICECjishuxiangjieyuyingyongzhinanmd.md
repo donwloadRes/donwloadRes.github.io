@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI-CEC技术详解与应用指南"
+title: "HDMICEC技术详解与应用指南"
 date:   2024-01-22
 tags: [HDMI,CEC,应用,文件,全解]
 comments: true

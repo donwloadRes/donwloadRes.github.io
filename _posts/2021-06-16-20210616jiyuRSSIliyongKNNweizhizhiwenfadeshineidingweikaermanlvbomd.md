@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于RSSI利用KNN位置指纹法的室内定位（卡尔曼滤波）"
+title: "基于RSSI利用KNN位置指纹法的室内定位卡尔曼滤波"
 date:   2021-03-29
 tags: [代码,RSSI,KNN,指纹,注释]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L6460清零软件+图解N"
+title: "爱普生L6460清零软件图解N"
 date:   2023-09-05
 tags: [清零,图解,L6460,打印机,爱普生]
 comments: true

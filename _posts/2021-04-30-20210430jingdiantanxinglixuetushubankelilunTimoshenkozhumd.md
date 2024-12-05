@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典弹性力学图书——板壳理论——Timoshenko著"
+title: "经典弹性力学图书板壳理论Timoshenko著"
 date:   2020-09-19
 tags: [力学,弹性,板壳,理论,Timoshenko]
 comments: true

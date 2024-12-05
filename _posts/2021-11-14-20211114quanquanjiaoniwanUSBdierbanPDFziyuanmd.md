@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB（第二版）PDF资源"
+title: "圈圈教你玩USB第二版PDF资源"
 date:   2024-07-19
 tags: [USB,PDF,学习,圈圈,资源]
 comments: true

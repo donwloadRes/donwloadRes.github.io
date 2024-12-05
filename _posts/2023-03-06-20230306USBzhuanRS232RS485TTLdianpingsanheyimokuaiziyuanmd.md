@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转RS232-RS485-TTL电平三合一模块资源"
+title: "USB转RS232RS485TTL电平三合一模块资源"
 date:   2024-06-05
 tags: [电平,USB,RS232,RS485,TTL]
 comments: true

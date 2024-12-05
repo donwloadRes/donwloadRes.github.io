@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.13 SP0 下载安装教程"
+title: "Proteus 813 SP0 下载安装教程"
 date:   2023-11-26
 tags: [Proteus,安装,SP0,8.13,教程]
 comments: true

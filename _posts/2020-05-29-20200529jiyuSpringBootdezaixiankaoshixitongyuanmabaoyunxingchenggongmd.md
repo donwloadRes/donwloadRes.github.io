@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot的在线考试系统【源码+包运行成功】"
+title: "基于SpringBoot的在线考试系统源码包运行成功"
 date:   2020-07-19
 tags: [源码,媒体,SpringBoot,开发者,用户]
 comments: true

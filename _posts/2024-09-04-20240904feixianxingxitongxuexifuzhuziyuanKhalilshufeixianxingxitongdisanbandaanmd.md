@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性系统学习辅助资源：Khalil书非线性系统（第三版）答案"
+title: "非线性系统学习辅助资源Khalil书非线性系统第三版答案"
 date:   2024-05-17
 tags: [非线性,学习,答案,系统,Khalil]
 comments: true

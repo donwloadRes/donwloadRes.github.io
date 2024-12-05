@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核设计与实现.pdf"
+title: "Linux内核设计与实现pdf"
 date:   2021-06-23
 tags: [Linux,内核,设计,理解,pdf]
 comments: true

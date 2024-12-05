@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEPServerEX 6 数据记录器中文说明书（完整版）"
+title: "KEPServerEX 6 数据记录器中文说明书完整版"
 date:   2022-01-10
 tags: [插件,KEPServerEX,说明书,完整版,Data]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OV7725颜色识别调试（STM32F103ZET6）"
+title: "OV7725颜色识别调试STM32F103ZET6"
 date:   2023-12-30
 tags: [识别,OV7725,STM32F103ZET6,TFT,摄像头]
 comments: true

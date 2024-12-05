@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.6 Windows 版本安装指南"
+title: "MySQL 56 Windows 版本安装指南"
 date:   2020-04-20
 tags: [MySQL,mysql,5.6,安装,Windows]
 comments: true

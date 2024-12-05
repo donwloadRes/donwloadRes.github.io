@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用C#实现工控上位机"
+title: "用C实现工控上位机"
 date:   2021-04-20
 tags: [工控,C#,---,上位,开发]
 comments: true

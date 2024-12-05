@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于栅格法构建地图的Q-Learning路径规划Python代码"
+title: "基于栅格法构建地图的QLearning路径规划Python代码"
 date:   2022-02-24
 tags: [Learning,栅格,路径,地图,py]
 comments: true

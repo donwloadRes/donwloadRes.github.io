@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DCDC-Buck、BOOST电源培训资料"
+title: "DCDCBuckBOOST电源培训资料"
 date:   2024-01-31
 tags: [电源,DCDC,Buck,BOOST,培训资料]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从words文件中读取单词，输出重复字母对最多的单词（C++）"
+title: "从words文件中读取单词输出重复字母对最多的单词C"
 date:   2021-01-22
 tags: [单词,txt,字母,重复,words]
 comments: true

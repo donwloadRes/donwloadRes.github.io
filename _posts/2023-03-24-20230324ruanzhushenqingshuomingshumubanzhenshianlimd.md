@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软著申请说明书模板（真实案例）"
+title: "软著申请说明书模板真实案例"
 date:   2023-05-01
 tags: [模板,软著,说明书,申请,案例]
 comments: true

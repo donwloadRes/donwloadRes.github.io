@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad2-4.22.11r4478-64bit-Green 资源文件介绍"
+title: "Notepad242211r447864bitGreen 资源文件介绍"
 date:   2020-10-29
 tags: [Notepad2,4.22,11r4478,64bit,Green]
 comments: true

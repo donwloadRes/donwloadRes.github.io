@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑群晖 DSM 6.2 3617 成功安装教程"
+title: "黑群晖 DSM 62 3617 成功安装教程"
 date:   2020-07-11
 tags: [黑群晖,安装,DSM,U盘,配置文件]
 comments: true

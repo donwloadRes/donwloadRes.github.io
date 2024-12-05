@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于强化学习的五子棋算法设计 - Python代码完整实现"
+title: "基于强化学习的五子棋算法设计  Python代码完整实现"
 date:   2020-04-28
 tags: [课程设计,五子棋,视频,算法,Python]
 comments: true

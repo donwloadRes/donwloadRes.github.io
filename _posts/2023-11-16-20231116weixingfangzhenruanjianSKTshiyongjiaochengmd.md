@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卫星仿真软件（SKT）使用教程"
+title: "卫星仿真软件SKT使用教程"
 date:   2022-12-29
 tags: [仿真,SKT,软件,教程,卫星]
 comments: true

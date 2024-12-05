@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天邑光猫修改软件 - 查询部分超级密码"
+title: "天邑光猫修改软件  查询部分超级密码"
 date:   2024-04-23
 tags: [天邑光,软件,查询,密码,超级]
 comments: true

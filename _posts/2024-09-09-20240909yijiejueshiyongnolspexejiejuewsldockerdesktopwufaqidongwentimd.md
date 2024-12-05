@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[已解决] 使用nolsp.exe 解决wsl、docker desktop无法启动问题"
+title: "已解决 使用nolspexe 解决wsldocker desktop无法启动问题"
 date:   2020-02-04
 tags: [nolsp,exe,WSL,Docker,Desktop]
 comments: true

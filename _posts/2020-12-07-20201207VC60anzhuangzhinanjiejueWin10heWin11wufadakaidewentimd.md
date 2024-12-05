@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 6.0 安装指南（解决 Win10 和 Win11 无法打开的问题）"
+title: "VC 60 安装指南解决 Win10 和 Win11 无法打开的问题"
 date:   2020-07-12
 tags: [安装,Windows,C++,6.0,10]
 comments: true

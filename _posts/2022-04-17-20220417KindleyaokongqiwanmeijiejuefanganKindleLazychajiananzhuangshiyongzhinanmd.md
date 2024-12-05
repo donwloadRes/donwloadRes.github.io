@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kindle遥控器完美解决方案：KindleLazy插件安装使用指南"
+title: "Kindle遥控器完美解决方案KindleLazy插件安装使用指南"
 date:   2021-06-05
 tags: [插件,Kindle,KindleLazy,翻页,越狱]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML302-ML305-ML306 OpenCPU 编程设计指导手册 V1.1.0"
+title: "ML302ML305ML306 OpenCPU 编程设计指导手册 V110"
 date:   2021-07-09
 tags: [手册,ML302,OpenCPU,编程设计,V1.1]
 comments: true

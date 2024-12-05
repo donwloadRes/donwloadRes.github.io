@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：计及碳排放交易及多种需求响应的微网-虚拟电厂日前优化调度"
+title: "MATLAB代码计及碳排放交易及多种需求响应的微网虚拟电厂日前优化调度"
 date:   2024-02-05
 tags: [模型,排放,代码,MATLAB,微网]
 comments: true

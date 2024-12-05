@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QML绘图工具：圆形、矩形、多边形和直尺的绘制与路径控制"
+title: "QML绘图工具圆形矩形多边形和直尺的绘制与路径控制"
 date:   2022-12-17
 tags: [绘制,直尺,控制点,多边形,图形]
 comments: true

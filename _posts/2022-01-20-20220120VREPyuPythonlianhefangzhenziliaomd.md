@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "V-REP与Python联合仿真资料"
+title: "VREP与Python联合仿真资料"
 date:   2020-10-12
 tags: [仿真,REP,Python,资料,联合]
 comments: true

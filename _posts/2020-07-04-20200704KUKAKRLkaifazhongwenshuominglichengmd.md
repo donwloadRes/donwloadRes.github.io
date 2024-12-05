@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA KRL开发中文说明+例程"
+title: "KUKA KRL开发中文说明例程"
 date:   2022-08-04
 tags: [KUKA,机器人,例程,KRL,编程]
 comments: true

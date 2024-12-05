@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康视频监控集成到WINCC组态——DEMO"
+title: "海康视频监控集成到WINCC组态DEMO"
 date:   2020-03-17
 tags: [WINCC,海康,示例,画面,球机]
 comments: true

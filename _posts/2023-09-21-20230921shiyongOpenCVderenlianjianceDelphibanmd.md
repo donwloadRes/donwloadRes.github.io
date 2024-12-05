@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用OpenCV的人脸检测（Delphi版）"
+title: "使用OpenCV的人脸检测Delphi版"
 date:   2024-03-03
 tags: [OpenCV,Delphi,人脸,源码,检测]
 comments: true

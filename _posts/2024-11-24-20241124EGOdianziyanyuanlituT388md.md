@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EGO_电子烟原理图（T388）"
+title: "EGO电子烟原理图T388"
 date:   2021-10-26
 tags: [原理图,EGO,T388,电子,电路设计]
 comments: true

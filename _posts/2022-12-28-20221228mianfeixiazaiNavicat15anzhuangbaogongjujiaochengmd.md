@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费下载Navicat15安装包+工具+教程"
+title: "免费下载Navicat15安装包工具教程"
 date:   2022-03-12
 tags: [Navicat,数据库,安装包,教程,15]
 comments: true

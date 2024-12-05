@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详解win7下安装VC++6.0和MSDN"
+title: "详解win7下安装VC60和MSDN"
 date:   2023-03-26
 tags: [C++,6.0,MSDN,安装,步骤]
 comments: true

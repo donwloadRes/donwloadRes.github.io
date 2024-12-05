@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络联机五子棋小游戏源码(C++)"
+title: "网络联机五子棋小游戏源码C"
 date:   2022-12-03
 tags: [客户端,服务端,对局,Linux,C++]
 comments: true

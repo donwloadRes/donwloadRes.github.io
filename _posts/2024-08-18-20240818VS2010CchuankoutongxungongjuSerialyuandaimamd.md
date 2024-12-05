@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2010 C++ 串口通讯工具 Serial 源代码"
+title: "VS2010 C 串口通讯工具 Serial 源代码"
 date:   2020-05-21
 tags: [串口,源代码,通讯,Visual,Studio]
 comments: true

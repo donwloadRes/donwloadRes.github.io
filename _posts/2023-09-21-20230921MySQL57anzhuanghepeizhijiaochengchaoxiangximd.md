@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 安装和配置教程（超详细）"
+title: "MySQL 57 安装和配置教程超详细"
 date:   2023-05-07
 tags: [MySQL,安装,5.7,教程,配置]
 comments: true

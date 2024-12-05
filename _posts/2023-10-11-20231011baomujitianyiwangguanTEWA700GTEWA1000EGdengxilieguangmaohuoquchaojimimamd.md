@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级-天翼网关TEWA-700G、TEWA-1000E-G等系列光猫获取超级密码"
+title: "保姆级天翼网关TEWA700GTEWA1000EG等系列光猫获取超级密码"
 date:   2020-07-15
 tags: [光猫,网关,TEWA,获取,天翼]
 comments: true

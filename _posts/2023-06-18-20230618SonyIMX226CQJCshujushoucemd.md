@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sony IMX226CQJ-C 数据手册"
+title: "Sony IMX226CQJC 数据手册"
 date:   2022-07-16
 tags: [IMX226CQJ,Sony,手册,应用,图像]
 comments: true

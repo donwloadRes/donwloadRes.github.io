@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++考研复试、工作面试简答题汇总"
+title: "C考研复试工作面试简答题汇总"
 date:   2024-03-08
 tags: [C++,简答题,复试,面试,考研]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 15 安装 MAC OS 10.13 原版详细图文教程"
+title: "VMware 15 安装 MAC OS 1013 原版详细图文教程"
 date:   2022-06-07
 tags: [VMware,OS,Mac,虚拟机,安装]
 comments: true

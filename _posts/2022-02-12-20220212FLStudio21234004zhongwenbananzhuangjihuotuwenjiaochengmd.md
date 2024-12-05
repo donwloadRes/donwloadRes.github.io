@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3.4004中文版安装激活图文教程"
+title: "FL Studio 21234004中文版安装激活图文教程"
 date:   2020-07-05
 tags: [FL,Studio,安装,3.4004,中文版]
 comments: true

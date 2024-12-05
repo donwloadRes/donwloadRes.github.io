@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论与编码_陈运主编答案"
+title: "信息论与编码陈运主编答案"
 date:   2023-08-01
 tags: [学习,编码,信息论,答案,陈运]
 comments: true

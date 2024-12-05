@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓投屏电脑神器：scrcpy-win64-v1.25.rar"
+title: "安卓投屏电脑神器scrcpywin64v125rar"
 date:   2020-02-10
 tags: [投屏,安卓,scrcpy,设备,win64]
 comments: true

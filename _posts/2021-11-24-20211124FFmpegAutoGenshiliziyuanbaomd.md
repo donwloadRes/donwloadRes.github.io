@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg.AutoGen示例资源包"
+title: "FFmpegAutoGen示例资源包"
 date:   2021-07-05
 tags: [FFmpeg,C#,AutoGen,资源,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一键禁用&启用笔记本电脑键盘（轻松切换）"
+title: "一键禁用启用笔记本电脑键盘轻松切换"
 date:   2021-09-04
 tags: [键盘,禁用,笔记本,一键,启用]
 comments: true

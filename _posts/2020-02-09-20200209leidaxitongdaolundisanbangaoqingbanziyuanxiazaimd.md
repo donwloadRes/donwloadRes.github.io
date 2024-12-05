@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达系统导论第三版（高清版）资源下载"
+title: "雷达系统导论第三版高清版资源下载"
 date:   2024-10-20
 tags: [雷达,资源,下载,技术,第三版]
 comments: true

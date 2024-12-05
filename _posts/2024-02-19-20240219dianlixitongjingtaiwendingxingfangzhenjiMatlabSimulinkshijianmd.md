@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统静态稳定性仿真及Matlab-Simulink实践"
+title: "电力系统静态稳定性仿真及MatlabSimulink实践"
 date:   2022-07-16
 tags: [仿真,Simulink,电力系统,MATLAB,静态]
 comments: true

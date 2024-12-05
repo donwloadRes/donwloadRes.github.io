@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS-PR-AE全套插件一键安装包无需注册码"
+title: "PSPRAE全套插件一键安装包无需注册码"
 date:   2021-01-13
 tags: [插件,安装,注册码,PS,PR]
 comments: true

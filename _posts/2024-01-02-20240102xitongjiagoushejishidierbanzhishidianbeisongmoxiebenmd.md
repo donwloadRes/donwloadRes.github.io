@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构设计师第二版-知识点背诵默写本"
+title: "系统架构设计师第二版知识点背诵默写本"
 date:   2023-12-04
 tags: [知识点,默写,背诵,架构,设计师]
 comments: true

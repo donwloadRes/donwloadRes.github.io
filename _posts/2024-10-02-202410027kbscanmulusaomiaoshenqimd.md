@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7kbscan - 目录扫描神器"
+title: "7kbscan  目录扫描神器"
 date:   2024-01-23
 tags: [7kbscan,扫描,exe,网站,目录]
 comments: true

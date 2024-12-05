@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dynamic-Datasource + ShardingSphere-JDBC 实现分库分表 Demo"
+title: "DynamicDatasource  ShardingSphereJDBC 实现分库分表 Demo"
 date:   2021-06-24
 tags: [分库,数据源,分表,JDBC,切换]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSPM0G3507之BSL烧录（解锁单片机）"
+title: "MSPM0G3507之BSL烧录解锁单片机"
 date:   2021-07-25
 tags: [烧录,单片机,BSL,解锁,MSPM0G3507]
 comments: true

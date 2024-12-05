@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机 资源通信-数码管实验"
+title: "51单片机 资源通信数码管实验"
 date:   2020-12-11
 tags: [单片机,数码管,资源,51,电脑]
 comments: true

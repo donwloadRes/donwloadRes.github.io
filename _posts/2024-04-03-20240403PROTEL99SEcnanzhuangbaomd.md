@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROTEL99SE_cn安装包"
+title: "PROTEL99SEcn安装包"
 date:   2023-01-24
 tags: [PROTEL99SE,安装包,cn,电路设计,安装]
 comments: true

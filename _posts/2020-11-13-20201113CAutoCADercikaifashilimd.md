@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# AutoCAD二次开发实例"
+title: "C AutoCAD二次开发实例"
 date:   2022-11-06
 tags: [代码,AutoCAD,二次开发,C#,学习]
 comments: true

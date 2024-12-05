@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编写植物大战僵尸 源代码"
+title: "C编写植物大战僵尸 源代码"
 date:   2024-06-21
 tags: [源代码,C++,僵尸,大战,游戏]
 comments: true

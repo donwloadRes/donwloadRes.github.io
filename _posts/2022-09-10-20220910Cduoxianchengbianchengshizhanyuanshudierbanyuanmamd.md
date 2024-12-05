@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#多线程编程实战（原书第二版）源码"
+title: "C多线程编程实战原书第二版源码"
 date:   2022-04-07
 tags: [源码,多线程,C#,编程,仓库]
 comments: true

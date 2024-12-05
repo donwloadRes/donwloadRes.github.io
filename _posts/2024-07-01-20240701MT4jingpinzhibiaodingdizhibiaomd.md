@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT4精品指标 - 顶底指标"
+title: "MT4精品指标  顶底指标"
 date:   2022-07-16
 tags: [MT4,指标,顶底,平台,交易者]
 comments: true

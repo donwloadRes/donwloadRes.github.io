@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CenterNet (目标作为点) 模型文件集合"
+title: "CenterNet 目标作为点 模型文件集合"
 date:   2021-12-14
 tags: [CenterNet,模型,下载,文件,检测]
 comments: true

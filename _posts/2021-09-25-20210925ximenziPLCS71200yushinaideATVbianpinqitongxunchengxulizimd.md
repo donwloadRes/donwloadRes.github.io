@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子PLC S7-1200与施耐德ATV变频器通讯程序例子"
+title: "西门子PLC S71200与施耐德ATV变频器通讯程序例子"
 date:   2021-04-07
 tags: [变频器,PLC,通讯,S7,1200]
 comments: true

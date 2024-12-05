@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "骚操作：Mac局域网控制Windows10主机"
+title: "骚操作Mac局域网控制Windows10主机"
 date:   2021-07-03
 tags: [Windows,10,Mac,Microsoft,Remote]
 comments: true

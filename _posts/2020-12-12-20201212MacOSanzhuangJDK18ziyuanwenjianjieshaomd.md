@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacOS 安装 JDK 1.8 资源文件介绍"
+title: "MacOS 安装 JDK 18 资源文件介绍"
 date:   2021-06-21
 tags: [JDK,1.8,MacOS,安装,Java]
 comments: true

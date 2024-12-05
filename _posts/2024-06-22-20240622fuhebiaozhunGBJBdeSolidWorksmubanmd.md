@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "符合标准(GB、JB)的SolidWorks模板"
+title: "符合标准GBJB的SolidWorks模板"
 date:   2024-08-04
 tags: [slddrt,GB,JB,A4,模板]
 comments: true

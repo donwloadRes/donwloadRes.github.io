@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INA226中文手册自译 - 高低端电流检测IC，电流电压测量芯片"
+title: "INA226中文手册自译  高低端电流检测IC电流电压测量芯片"
 date:   2020-10-31
 tags: [INA226,手册,电流,电压,检测]
 comments: true

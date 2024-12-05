@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA入门利器：Quartus II 15.0与ModelSim 10.5 安装完全攻略"
+title: "FPGA入门利器Quartus II 150与ModelSim 105 安装完全攻略"
 date:   2022-06-17
 tags: [安装,FPGA,Quartus,II,ModelSim]
 comments: true

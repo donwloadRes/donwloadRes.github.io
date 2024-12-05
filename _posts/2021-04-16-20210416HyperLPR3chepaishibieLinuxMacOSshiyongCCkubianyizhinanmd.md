@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HyperLPR3车牌识别-Linux-MacOS使用：C-C++库编译指南"
+title: "HyperLPR3车牌识别LinuxMacOS使用CC库编译指南"
 date:   2022-06-05
 tags: [编译,车牌,C++,识别,HyperLPR3]
 comments: true

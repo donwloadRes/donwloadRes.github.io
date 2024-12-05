@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP用户操作手册-固定资产"
+title: "SAP用户操作手册固定资产"
 date:   2020-08-30
 tags: [模块,SAP,固定资产,用户,折旧]
 comments: true

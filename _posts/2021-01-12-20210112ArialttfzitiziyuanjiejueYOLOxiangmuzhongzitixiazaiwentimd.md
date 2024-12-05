@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arial.ttf字体资源 - 解决YOLO项目中字体下载问题"
+title: "Arialttf字体资源  解决YOLO项目中字体下载问题"
 date:   2022-09-22
 tags: [字体,YOLO,Arial,ttf,下载]
 comments: true

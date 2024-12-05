@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RS232通讯 程序示例"
+title: "C RS232通讯 程序示例"
 date:   2023-06-16
 tags: [示例,C#,RS232,通讯,程序]
 comments: true

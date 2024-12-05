@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5000头像资源库-适用于微信QQ"
+title: "5000头像资源库适用于微信QQ"
 date:   2020-06-08
 tags: [头像,资源库,头像图片,5000,QQ]
 comments: true

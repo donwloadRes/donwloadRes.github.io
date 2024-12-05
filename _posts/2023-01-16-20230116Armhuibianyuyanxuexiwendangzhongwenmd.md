@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arm汇编语言学习文档（中文）"
+title: "Arm汇编语言学习文档中文"
 date:   2023-02-16
 tags: [Arm,汇编语言,文档,指令,汇编]
 comments: true

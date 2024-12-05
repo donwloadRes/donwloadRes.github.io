@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-MAPSS涡扇发动机仿真数据（PHM2008）"
+title: "CMAPSS涡扇发动机仿真数据PHM2008"
 date:   2020-02-22
 tags: [数据,涡扇,发动机,MAPSS,PHM2008]
 comments: true

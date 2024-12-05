@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sigma-Delta ADC 基于 MATLAB Simulink 的仿真"
+title: "SigmaDelta ADC 基于 MATLAB Simulink 的仿真"
 date:   2022-10-11
 tags: [Sigma,Delta,ADC,Simulink,仿真]
 comments: true

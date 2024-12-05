@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java程序设计案例教程（第2版）资源下载"
+title: "Java程序设计案例教程第2版资源下载"
 date:   2023-04-27
 tags: [源码,Java,例题,习题,PPT]
 comments: true

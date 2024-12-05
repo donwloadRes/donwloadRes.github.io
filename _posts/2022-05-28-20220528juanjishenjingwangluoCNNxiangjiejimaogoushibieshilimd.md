@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卷积神经网络（CNN）详解及猫狗识别实例"
+title: "卷积神经网络CNN详解及猫狗识别实例"
 date:   2021-08-16
 tags: [CNN,神经网络,卷积,训练,实例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学课程人工智能》课后习题及答案"
+title: "大学课程人工智能课后习题及答案"
 date:   2022-04-07
 tags: [习题,课后,人工智能,答案,课程]
 comments: true

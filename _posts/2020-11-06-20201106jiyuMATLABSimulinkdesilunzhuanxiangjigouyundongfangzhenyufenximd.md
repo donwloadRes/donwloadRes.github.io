@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB-Simulink的四轮转向机构运动仿真与分析"
+title: "基于MATLABSimulink的四轮转向机构运动仿真与分析"
 date:   2020-02-03
 tags: [四轮,转向,仿真,MATLAB,Simulink]
 comments: true

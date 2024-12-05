@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32项目设计：基于STM32的智能家居系统设计"
+title: "STM32项目设计基于STM32的智能家居系统设计"
 date:   2022-12-27
 tags: [智能家居,STM32,语音,温湿度,离线]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 下 libssl.so.10 和 libcrypto.so.10 库文件"
+title: "Linux 下 libsslso10 和 libcryptoso10 库文件"
 date:   2020-05-23
 tags: [so.10,文件,libssl,libcrypto,Linux]
 comments: true

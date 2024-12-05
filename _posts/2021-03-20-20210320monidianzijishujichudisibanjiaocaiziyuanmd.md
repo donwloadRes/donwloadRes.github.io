@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术基础（第四版）教材资源"
+title: "模拟电子技术基础第四版教材资源"
 date:   2020-10-15
 tags: [第四版,教材,模拟,电子,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NS-Scope示波器程控软件基础版20221226"
+title: "NSScope示波器程控软件基础版20221226"
 date:   2024-01-12
 tags: [示波器,软件,NS,Scope,程控]
 comments: true

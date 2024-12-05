@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为盘古3.0大模型访问入口指南"
+title: "华为盘古30大模型访问入口指南"
 date:   2021-03-17
 tags: [模型,3.0,华为,盘古,入口]
 comments: true

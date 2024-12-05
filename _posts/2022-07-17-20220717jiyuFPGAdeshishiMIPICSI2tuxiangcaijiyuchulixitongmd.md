@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的实时MIPI CSI-2图像采集与处理系统"
+title: "基于FPGA的实时MIPI CSI2图像采集与处理系统"
 date:   2021-06-27
 tags: [图像,FPGA,采集,功能,饱和度]
 comments: true

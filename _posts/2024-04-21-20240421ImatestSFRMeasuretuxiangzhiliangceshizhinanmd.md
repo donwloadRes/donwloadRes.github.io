@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imatest_SFR Measure - 图像质量测试指南"
+title: "ImatestSFR Measure  图像质量测试指南"
 date:   2023-06-26
 tags: [Imatest,SFR,图像,测试,软件]
 comments: true

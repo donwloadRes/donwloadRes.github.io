@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "翱捷科技最新蓝牙 BLE5.2芯片 ASR5601X 资源下载"
+title: "翱捷科技最新蓝牙 BLE52芯片 ASR5601X 资源下载"
 date:   2022-12-30
 tags: [芯片,ASR5601X,蓝牙,翱捷,应用]
 comments: true

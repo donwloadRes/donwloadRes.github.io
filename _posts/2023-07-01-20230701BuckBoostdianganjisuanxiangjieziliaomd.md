@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buck-Boost电感计算详解资料"
+title: "BuckBoost电感计算详解资料"
 date:   2021-03-11
 tags: [Buck,Boost,电感,电路,计算方法]
 comments: true

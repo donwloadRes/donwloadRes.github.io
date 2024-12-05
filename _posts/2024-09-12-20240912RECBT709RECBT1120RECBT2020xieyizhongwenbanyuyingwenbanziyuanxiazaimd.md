@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REC-BT.709、REC-BT.1120、REC-BT.2020 协议中文版与英文版资源下载"
+title: "RECBT709RECBT1120RECBT2020 协议中文版与英文版资源下载"
 date:   2024-10-20
 tags: [REC,BT.709,BT.1120,BT.2020,中文版]
 comments: true

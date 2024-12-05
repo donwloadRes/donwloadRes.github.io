@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山东大学 操作系统实验报告1-7"
+title: "山东大学 操作系统实验报告17"
 date:   2023-10-21
 tags: [实验报告,操作系统,山东大学,课程,学号]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cmder终端模拟器（含Git客户端）下载"
+title: "Cmder终端模拟器含Git客户端下载"
 date:   2021-08-24
 tags: [Git,客户端,Cmder,Windows,终端]
 comments: true

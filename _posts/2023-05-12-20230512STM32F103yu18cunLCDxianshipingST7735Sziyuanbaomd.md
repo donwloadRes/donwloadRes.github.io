@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103与1.8寸LCD显示屏ST7735S资源包"
+title: "STM32F103与18寸LCD显示屏ST7735S资源包"
 date:   2024-04-16
 tags: [STM32F103,LCD,显示屏,ST7735S,1.8]
 comments: true

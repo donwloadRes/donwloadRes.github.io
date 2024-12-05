@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用MATLAB绘制高阶拉盖尔-高斯光束与高阶厄米光束文档资源"
+title: "利用MATLAB绘制高阶拉盖尔高斯光束与高阶厄米光束文档资源"
 date:   2023-12-14
 tags: [MATLAB,光束,高阶,文档,光学]
 comments: true

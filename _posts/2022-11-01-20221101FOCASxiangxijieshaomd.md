@@ -1,6 +1,33 @@
 ---
 layout: post
-title: "FOCAS详细介绍"
+title: "FOCAS详细介绍
+date   20230507
+tags CNCFOCASPC数据FANUC
+comments true
+author admin
+
+ FOCAS详细介绍
+
+ 资源文件描述
+
+FOCAS是FANUC OPEN CNC API SPECIFICATIONS的缩写是FANUC系统开放式数控系统的API规范是CNC与PC之间通讯的接口通过FOCASPC可以访问CNC的各种数据如位置数据报警数据状态数据等同时也可以对CNC进行各种操作如启动停止改变模式等FOCAS还可以实现PC与CNC之间的数据共享使得PC可以实时获取CNC的状态信息从而对CNC进行监控和调整
+
+ 主要功能
+
+1 数据访问通过FOCASPC可以访问CNC的各种数据包括但不限于位置数据报警数据状态数据等
+2 操作控制PC可以通过FOCAS对CNC进行各种操作如启动停止改变模式等
+3 数据共享FOCAS支持PC与CNC之间的数据共享使得PC可以实时获取CNC的状态信息从而对CNC进行监控和调整
+
+ 工作原理
+
+FOCAS通过定义一套标准的API接口使得PC能够与FANUC的CNC系统进行通信PC通过调用FOCAS提供的函数可以读取CNC的各种数据或者向CNC发送控制指令FOCAS的工作原理基于CNC系统的开放性设计允许外部设备通过标准接口进行数据交互
+
+ 示例说明
+
+以下是一个简单的示例展示了如何使用FOCAS读取CNC的位置数据
+
+c
+include focash"
 date:   2023-05-07
 tags: [CNC,FOCAS,PC,数据,FANUC]
 comments: true

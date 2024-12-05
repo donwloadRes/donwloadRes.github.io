@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 联合 Access 进销存软件系统"
+title: "C WinForm 联合 Access 进销存软件系统"
 date:   2023-11-04
 tags: [进销存,数据库,Access,源代码,文件]
 comments: true

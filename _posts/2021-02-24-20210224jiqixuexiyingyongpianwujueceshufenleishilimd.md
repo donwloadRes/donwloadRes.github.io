@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习应用篇（五）——决策树分类实例"
+title: "机器学习应用篇五决策树分类实例"
 date:   2023-05-26
 tags: [决策树,分类,模型,训练,变量]
 comments: true

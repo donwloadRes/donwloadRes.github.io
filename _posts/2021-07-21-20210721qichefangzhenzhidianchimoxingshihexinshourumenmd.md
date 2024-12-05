@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车仿真之电池模型-适合新手入门"
+title: "汽车仿真之电池模型适合新手入门"
 date:   2020-05-31
 tags: [电池,仿真,模型,SOC,Simulink]
 comments: true

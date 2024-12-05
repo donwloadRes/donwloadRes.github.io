@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新华为云计算认证 HCIE-Cloud Computing 题库"
+title: "新华为云计算认证 HCIECloud Computing 题库"
 date:   2024-04-13
 tags: [题库,HCIE,Cloud,Computing,认证]
 comments: true

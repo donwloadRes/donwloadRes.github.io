@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0协议最详细完美版共计482页"
+title: "USB30协议最详细完美版共计482页"
 date:   2024-11-12
 tags: [USB3.0,482,协议,完美版,USB]
 comments: true

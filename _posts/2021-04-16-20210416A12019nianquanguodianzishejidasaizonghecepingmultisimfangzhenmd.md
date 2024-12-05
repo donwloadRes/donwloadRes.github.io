@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A1-2019年全国电子设计大赛综合测评multisim仿真"
+title: "A12019年全国电子设计大赛综合测评multisim仿真"
 date:   2022-02-12
 tags: [电子设计,仿真,设计,大赛,2019]
 comments: true

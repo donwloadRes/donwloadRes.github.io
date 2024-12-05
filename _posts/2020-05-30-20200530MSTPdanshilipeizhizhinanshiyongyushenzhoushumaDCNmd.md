@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSTP单实例配置指南（适用于神州数码DCN）"
+title: "MSTP单实例配置指南适用于神州数码DCN"
 date:   2020-09-04
 tags: [MSTP,DCN,配置,神州数码,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "116-基于STM32单片机直流电机PWM调速正反转控制系统资源"
+title: "116基于STM32单片机直流电机PWM调速正反转控制系统资源"
 date:   2020-10-14
 tags: [PWM,仿真,STM32,电机,Proteus]
 comments: true

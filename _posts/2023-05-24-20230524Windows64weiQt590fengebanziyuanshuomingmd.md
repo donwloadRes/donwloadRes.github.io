@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 64位 Qt 5.9.0 分割版资源说明"
+title: "Windows 64位 Qt 590 分割版资源说明"
 date:   2024-07-27
 tags: [Qt,64,5.9,版本,资源]
 comments: true

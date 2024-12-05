@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 利用OpenGL实现三维绘图"
+title: "C 利用OpenGL实现三维绘图"
 date:   2023-09-15
 tags: [OpenGL,C++,三维,图形,学习]
 comments: true

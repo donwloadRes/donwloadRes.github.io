@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读写西门子PLC数据资源文件"
+title: "C读写西门子PLC数据资源文件"
 date:   2024-10-19
 tags: [PLC,西门子,示例,读写,C#]
 comments: true

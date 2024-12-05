@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT Windows客户端 - 单文件绿色版"
+title: "MQTT Windows客户端  单文件绿色版"
 date:   2023-03-12
 tags: [MQTT,客户端,Windows,绿色版,运行]
 comments: true

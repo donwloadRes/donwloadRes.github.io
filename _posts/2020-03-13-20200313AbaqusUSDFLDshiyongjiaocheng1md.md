@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abaqus-USDFLD使用教程1"
+title: "AbaqusUSDFLD使用教程1"
 date:   2024-11-19
 tags: [Abaqus,USDFLD,输出,教程,文件]
 comments: true

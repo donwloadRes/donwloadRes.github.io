@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2.45GHz中心频率FR4板材微带带通滤波器（平行耦合线结构）"
+title: "245GHz中心频率FR4板材微带带通滤波器平行耦合线结构"
 date:   2022-04-23
 tags: [滤波器,仿真,设计,HFSS,带通]
 comments: true

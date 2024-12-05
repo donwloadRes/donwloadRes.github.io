@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络鲍鱼年龄预测（AbaloneAge）资源文件介绍"
+title: "BP神经网络鲍鱼年龄预测AbaloneAge资源文件介绍"
 date:   2024-01-22
 tags: [模型,BP,神经网络,鲍鱼,代码]
 comments: true

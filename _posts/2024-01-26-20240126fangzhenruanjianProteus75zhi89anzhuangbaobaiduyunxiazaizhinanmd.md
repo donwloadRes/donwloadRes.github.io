@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿真软件Proteus 7.5至8.9安装包百度云下载指南"
+title: "仿真软件Proteus 75至89安装包百度云下载指南"
 date:   2024-09-02
 tags: [Proteus,安装包,仿真,博客,百度]
 comments: true

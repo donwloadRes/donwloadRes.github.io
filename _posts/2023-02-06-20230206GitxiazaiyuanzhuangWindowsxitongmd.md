@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git下载与安装（Windows系统）"
+title: "Git下载与安装Windows系统"
 date:   2021-04-24
 tags: [Git,安装,下载,Windows,验证]
 comments: true

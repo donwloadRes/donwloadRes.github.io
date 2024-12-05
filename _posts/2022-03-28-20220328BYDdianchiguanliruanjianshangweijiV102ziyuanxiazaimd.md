@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BYD电池管理软件上位机V1.0.2 资源下载"
+title: "BYD电池管理软件上位机V102 资源下载"
 date:   2022-08-23
 tags: [电池组,V1.0,电池,BYD,管理软件]
 comments: true

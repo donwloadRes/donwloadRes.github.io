@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intouch驱动_DAServer_DASSIDirect3.0 资源文件介绍"
+title: "Intouch驱动DAServerDASSIDirect30 资源文件介绍"
 date:   2020-06-03
 tags: [Intouch,DAServer,DASSIDirect3.0,驱动,通讯]
 comments: true

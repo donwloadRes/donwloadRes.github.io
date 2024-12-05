@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle安装配置教程（Windows版）"
+title: "Gradle安装配置教程Windows版"
 date:   2023-08-05
 tags: [Gradle,JDK,下载,安装,配置]
 comments: true

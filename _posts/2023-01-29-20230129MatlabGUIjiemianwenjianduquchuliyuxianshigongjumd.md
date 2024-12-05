@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab GUI界面：文件读取处理与显示工具"
+title: "Matlab GUI界面文件读取处理与显示工具"
 date:   2022-08-27
 tags: [界面,Matlab,指向性,文件,频谱]
 comments: true

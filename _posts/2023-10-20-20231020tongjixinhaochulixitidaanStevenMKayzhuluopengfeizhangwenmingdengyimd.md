@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计信号处理习题答案 - Steven M. Kay 著 罗鹏飞 张文明等译"
+title: "统计信号处理习题答案  Steven M Kay 著 罗鹏飞 张文明等译"
 date:   2020-09-15
 tags: [习题,信号处理,Kay,答案,Steven]
 comments: true

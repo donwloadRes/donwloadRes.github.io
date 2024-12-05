@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS VX2.3 资源文件下载"
+title: "PADS VX23 资源文件下载"
 date:   2021-05-10
 tags: [PADS,VX2.3,文件,下载,确保您]
 comments: true

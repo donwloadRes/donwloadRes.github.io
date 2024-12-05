@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB r2014a 下载、安装与激活指南"
+title: "MATLAB r2014a 下载安装与激活指南"
 date:   2021-05-08
 tags: [MATLAB,r2014a,激活,安装,安装包]
 comments: true

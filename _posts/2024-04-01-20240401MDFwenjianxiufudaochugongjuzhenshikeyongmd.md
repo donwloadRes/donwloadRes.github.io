@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDF文件修复导出工具（真实可用）"
+title: "MDF文件修复导出工具真实可用"
 date:   2024-06-20
 tags: [MDF,文件,导出,SQL,Server]
 comments: true

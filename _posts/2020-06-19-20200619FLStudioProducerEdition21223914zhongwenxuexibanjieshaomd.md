@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio Producer Edition 21.2.2.3914中文学习版介绍"
+title: "FL Studio Producer Edition 21223914中文学习版介绍"
 date:   2021-06-18
 tags: [安装,FL,Studio,中文,用户]
 comments: true

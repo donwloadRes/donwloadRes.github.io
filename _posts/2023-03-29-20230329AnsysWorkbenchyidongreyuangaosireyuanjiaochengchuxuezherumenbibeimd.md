@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ansys Workbench 移动热源-高斯热源教程 - 初学者入门必备"
+title: "Ansys Workbench 移动热源高斯热源教程  初学者入门必备"
 date:   2023-06-24
 tags: [热源,教程,Ansys,Workbench,移动]
 comments: true

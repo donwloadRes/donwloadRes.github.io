@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEC-RAS中文用户手册下载"
+title: "HECRAS中文用户手册下载"
 date:   2023-09-25
 tags: [HEC,RAS,用户手册,软件,中文]
 comments: true

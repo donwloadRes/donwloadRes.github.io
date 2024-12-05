@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOEM函数解读（Ethercat主站开源 主要函数作用解读）"
+title: "SOEM函数解读Ethercat主站开源 主要函数作用解读"
 date:   2020-05-01
 tags: [SOEM,主站,EtherCAT,函数,解读]
 comments: true

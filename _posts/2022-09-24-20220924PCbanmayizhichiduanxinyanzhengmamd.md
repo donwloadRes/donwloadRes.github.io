@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC版蚂蚁 - 支持短信验证码"
+title: "PC版蚂蚁  支持短信验证码"
 date:   2023-06-14
 tags: [验证码,PC,短信,蚂蚁,支持]
 comments: true

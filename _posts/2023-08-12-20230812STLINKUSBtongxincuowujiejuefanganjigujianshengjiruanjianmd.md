@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST-LINK USB通信错误解决方案及固件升级软件"
+title: "STLINK USB通信错误解决方案及固件升级软件"
 date:   2024-08-26
 tags: [固件,ST,LINK,升级,软件]
 comments: true

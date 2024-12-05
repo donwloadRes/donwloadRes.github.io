@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享98个Bootstrap5模板，总有一款适合您"
+title: "分享98个Bootstrap5模板总有一款适合您"
 date:   2021-04-28
 tags: [模板,压缩文件,网页,98,Bootstrap5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL 2016年会教程：低频电磁场仿真建模"
+title: "COMSOL 2016年会教程低频电磁场仿真建模"
 date:   2022-08-10
 tags: [仿真,电磁场,低频,COMSOL,建模]
 comments: true

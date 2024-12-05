@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WiFi 802.11a-g-n-ac-ax 速率对照表"
+title: "WiFi 80211agnacax 速率对照表"
 date:   2023-05-26
 tags: [802.11,速率,ac,ax,对照表]
 comments: true

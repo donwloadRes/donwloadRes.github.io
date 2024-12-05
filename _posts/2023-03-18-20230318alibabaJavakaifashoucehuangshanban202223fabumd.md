@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册（黄山版）2022.2.3发布"
+title: "阿里巴巴Java开发手册黄山版202223发布"
 date:   2024-04-25
 tags: [规约,Java,手册,编程,2022.2]
 comments: true

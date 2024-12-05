@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 披萨店点餐系统（完整代码可运行）"
+title: "QT 披萨店点餐系统完整代码可运行"
 date:   2023-08-02
 tags: [披萨,QT,代码,订单,店点餐]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英飞凌AURIX TC27x D-Step芯片用户手册下载"
+title: "英飞凌AURIX TC27x DStep芯片用户手册下载"
 date:   2020-12-22
 tags: [芯片,TC27x,用户手册,手册,英飞凌]
 comments: true

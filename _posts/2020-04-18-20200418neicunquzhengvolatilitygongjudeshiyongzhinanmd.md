@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "内存取证-volatility工具的使用指南"
+title: "内存取证volatility工具的使用指南"
 date:   2024-06-19
 tags: [内存,volatility,profile,取证,Volatility]
 comments: true

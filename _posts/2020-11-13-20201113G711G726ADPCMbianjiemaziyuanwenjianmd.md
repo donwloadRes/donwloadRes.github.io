@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "G711、G726、ADPCM 编解码资源文件"
+title: "G711G726ADPCM 编解码资源文件"
 date:   2022-01-31
 tags: [编解码,声音文件,代码,测试,G711]
 comments: true

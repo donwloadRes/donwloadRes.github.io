@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java-web环境部署资源文件介绍"
+title: "Javaweb环境部署资源文件介绍"
 date:   2024-01-28
 tags: [安装包,Java,web,部署,视频教程]
 comments: true

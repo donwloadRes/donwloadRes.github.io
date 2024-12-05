@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web开发项目：前端、后端、数据库交互综合指南"
+title: "Web开发项目前端后端数据库交互综合指南"
 date:   2024-08-12
 tags: [数据库,前端,API,Web,敏感数据]
 comments: true

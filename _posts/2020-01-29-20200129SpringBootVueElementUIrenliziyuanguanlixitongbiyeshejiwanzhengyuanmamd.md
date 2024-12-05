@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue+ElementUI人力资源管理系统 毕业设计 完整源码"
+title: "SpringBootVueElementUI人力资源管理系统 毕业设计 完整源码"
 date:   2024-06-15
 tags: [源码,SpringBoot,数据库,Vue,毕业设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言轻量级编译调试工具 - DevC++ 6.5"
+title: "C语言轻量级编译调试工具  DevC 65"
 date:   2023-04-27
 tags: [C++,Dev,轻量级,C语言,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9+MySQL5.7 驱动问题解决方案"
+title: "QT59MySQL57 驱动问题解决方案"
 date:   2022-12-31
 tags: [QT5.9,驱动,文件,编译,MySQL]
 comments: true

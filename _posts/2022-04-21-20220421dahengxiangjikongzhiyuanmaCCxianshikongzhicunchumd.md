@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大恒相机控制源码+C++-C#+显示-控制-存储"
+title: "大恒相机控制源码CC显示控制存储"
 date:   2021-08-26
 tags: [相机,大恒,SDK,源码,C++]
 comments: true

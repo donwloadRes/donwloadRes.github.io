@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#在网页调用海康威视摄像头实例分享"
+title: "C在网页调用海康威视摄像头实例分享"
 date:   2021-07-30
 tags: [实例,摄像头,C#,威视,网页]
 comments: true

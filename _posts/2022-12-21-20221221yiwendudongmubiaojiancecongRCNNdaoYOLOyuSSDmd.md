@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一文读懂目标检测：从R-CNN到YOLO与SSD"
+title: "一文读懂目标检测从RCNN到YOLO与SSD"
 date:   2024-02-25
 tags: [CNN,检测,YOLO,SSD,目标]
 comments: true

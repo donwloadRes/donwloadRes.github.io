@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试工具 O-ComTool V1.1.3 介绍"
+title: "串口调试工具 OComTool V113 介绍"
 date:   2021-02-25
 tags: [调试,串口,ComTool,自动,开发者]
 comments: true

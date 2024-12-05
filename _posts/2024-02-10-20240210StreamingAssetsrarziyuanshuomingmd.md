@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StreamingAssets.rar资源说明"
+title: "StreamingAssetsrar资源说明"
 date:   2022-06-19
 tags: [游戏,StreamingAssets,rar,文件,CG]
 comments: true

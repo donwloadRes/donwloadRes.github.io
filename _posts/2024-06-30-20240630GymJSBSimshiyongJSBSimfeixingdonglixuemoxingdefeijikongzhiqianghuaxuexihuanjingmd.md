@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gym-JSBSim：使用JSBSim飞行动力学模型的飞机控制强化学习环境"
+title: "GymJSBSim使用JSBSim飞行动力学模型的飞机控制强化学习环境"
 date:   2021-12-05
 tags: [JSBSim,Gym,动力学,飞机,飞行]
 comments: true

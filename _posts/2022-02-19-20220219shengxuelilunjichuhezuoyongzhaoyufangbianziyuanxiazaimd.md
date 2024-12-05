@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "声学理论基础（何祚镛、赵玉芳编）资源下载"
+title: "声学理论基础何祚镛赵玉芳编资源下载"
 date:   2021-06-21
 tags: [声学,何祚镛,赵玉芳,教材,资源]
 comments: true

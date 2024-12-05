@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "武汉大学机器视觉试题.pdf"
+title: "武汉大学机器视觉试题pdf"
 date:   2024-02-28
 tags: [视觉,机器,pdf,武汉大学,试题]
 comments: true

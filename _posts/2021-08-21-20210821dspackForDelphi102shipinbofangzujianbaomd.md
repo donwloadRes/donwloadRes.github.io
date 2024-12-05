@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dspack For Delphi 10.2 - 视频播放组件包"
+title: "dspack For Delphi 102  视频播放组件包"
 date:   2022-08-26
 tags: [Delphi,组件,10.2,dsPack,播放]
 comments: true

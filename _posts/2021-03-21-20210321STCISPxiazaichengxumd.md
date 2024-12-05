@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC-ISP下载程序"
+title: "STCISP下载程序"
 date:   2024-04-06
 tags: [单片机,STC,下载,ISP,程序]
 comments: true

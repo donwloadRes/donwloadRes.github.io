@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMBA-AXI、AHB、APB协议简介"
+title: "AMBAAXIAHBAPB协议简介"
 date:   2024-10-16
 tags: [AMBA,协议,AXI,AHB,APB]
 comments: true

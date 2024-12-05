@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微软GPT研究报告（全中文版）下载"
+title: "微软GPT研究报告全中文版下载"
 date:   2022-11-02
 tags: [GPT,互动,报告,微软,中文版]
 comments: true

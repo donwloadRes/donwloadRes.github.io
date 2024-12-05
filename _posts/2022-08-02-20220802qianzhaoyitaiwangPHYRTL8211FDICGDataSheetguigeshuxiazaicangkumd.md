@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "千兆以太网PHY-RTL8211F(D)(I)-CG-DataSheet规格书下载仓库"
+title: "千兆以太网PHYRTL8211FDICGDataSheet规格书下载仓库"
 date:   2020-09-16
 tags: [规格书,CG,RTL8211F,千兆,以太网]
 comments: true

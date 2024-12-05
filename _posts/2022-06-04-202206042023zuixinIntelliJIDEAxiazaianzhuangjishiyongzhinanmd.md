@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新IntelliJ IDEA下载、安装及使用指南"
+title: "2023最新IntelliJ IDEA下载安装及使用指南"
 date:   2020-08-29
 tags: [IDEA,指南,下载,IntelliJ,使用指南]
 comments: true

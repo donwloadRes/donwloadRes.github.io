@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python中使用Stacking模型提升预测准确性：以决策树和随机森林为例（附详细图表，易于理解）"
+title: "Python中使用Stacking模型提升预测准确性以决策树和随机森林为例附详细图表易于理解"
 date:   2023-08-18
 tags: [Stacking,模型,预测,Python,决策树]
 comments: true

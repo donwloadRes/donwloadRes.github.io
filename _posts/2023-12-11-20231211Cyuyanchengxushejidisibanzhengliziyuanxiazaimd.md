@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言程序设计第四版郑莉资源下载"
+title: "C语言程序设计第四版郑莉资源下载"
 date:   2024-05-13
 tags: [C++,郑莉,第四版,下载,学习]
 comments: true

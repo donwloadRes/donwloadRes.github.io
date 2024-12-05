@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ 数据结构 - 图书管理系统 - 大学生课设 - 课程设计"
+title: "CC 数据结构  图书管理系统  大学生课设  课程设计"
 date:   2022-09-27
 tags: [图书,界面,C++,课程设计,教师]
 comments: true

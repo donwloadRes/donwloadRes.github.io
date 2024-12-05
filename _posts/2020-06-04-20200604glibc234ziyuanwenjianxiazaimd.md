@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "glibc-2.34 资源文件下载"
+title: "glibc234 资源文件下载"
 date:   2021-02-28
 tags: [glibc,2.34,tar,gz,文件]
 comments: true

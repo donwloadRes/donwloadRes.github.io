@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学小易电脑端——大学生搜题平台"
+title: "学小易电脑端大学生搜题平台"
 date:   2023-06-20
 tags: [搜题,登录,token,使用,学小易]
 comments: true

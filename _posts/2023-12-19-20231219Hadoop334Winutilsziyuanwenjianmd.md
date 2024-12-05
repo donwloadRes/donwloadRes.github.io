@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop 3.3.4 Winutils 资源文件"
+title: "Hadoop 334 Winutils 资源文件"
 date:   2023-06-28
 tags: [Hadoop,文件,3.3,资源,源码]
 comments: true

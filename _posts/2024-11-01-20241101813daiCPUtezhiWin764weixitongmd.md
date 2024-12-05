@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8-13代CPU特制Win7 64位系统"
+title: "813代CPU特制Win7 64位系统"
 date:   2020-08-11
 tags: [13,CPU,安装,系统,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELL 服务器BIOS设置图解（中文版）"
+title: "DELL 服务器BIOS设置图解中文版"
 date:   2024-11-20
 tags: [BIOS,服务器,DELL,图解,设置]
 comments: true

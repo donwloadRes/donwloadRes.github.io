@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-利用OpenCV与Face_recognition实现证件照自动化处理"
+title: "Python利用OpenCV与Facerecognition实现证件照自动化处理"
 date:   2020-11-29
 tags: [人脸,recognition,证件照,Python,Face]
 comments: true

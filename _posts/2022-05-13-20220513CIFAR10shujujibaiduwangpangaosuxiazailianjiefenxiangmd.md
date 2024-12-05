@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIFAR-10数据集百度网盘高速下载链接分享"
+title: "CIFAR10数据集百度网盘高速下载链接分享"
 date:   2020-05-18
 tags: [10,百度网,数据,链接,CIFAR]
 comments: true

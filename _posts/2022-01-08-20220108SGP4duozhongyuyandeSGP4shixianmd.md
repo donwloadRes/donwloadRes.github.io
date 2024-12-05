@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGP4：多种语言的SGP4实现"
+title: "SGP4多种语言的SGP4实现"
 date:   2022-07-19
 tags: [SGP4,实现,多种语言,轨道,ElsetRec]
 comments: true

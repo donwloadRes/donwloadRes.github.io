@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows中缺少mfc140.dll文件解决方法"
+title: "Windows中缺少mfc140dll文件解决方法"
 date:   2021-04-29
 tags: [dll,Windows,mfc140,文件,Visual]
 comments: true

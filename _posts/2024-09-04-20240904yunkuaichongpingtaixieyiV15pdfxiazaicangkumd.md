@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云快充平台协议V1.5.pdf 下载仓库"
+title: "云快充平台协议V15pdf 下载仓库"
 date:   2020-03-11
 tags: [云快,V1.5,pdf,文件,平台]
 comments: true

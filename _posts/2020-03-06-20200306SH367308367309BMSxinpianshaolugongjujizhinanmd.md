@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SH367308&367309 BMS芯片烧录工具及指南"
+title: "SH367308367309 BMS芯片烧录工具及指南"
 date:   2022-12-16
 tags: [烧录,芯片,SH367308,367309,BMS]
 comments: true

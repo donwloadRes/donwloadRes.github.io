@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDA 成熟度水平保证（MLA）零件 - 第3部分 - 2022年英文版"
+title: "VDA 成熟度水平保证MLA零件  第3部分  2022年英文版"
 date:   2024-03-06
 tags: [VDA,MLA,成熟度,文档,2022]
 comments: true

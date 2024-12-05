@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "教程：批量号码归属地查询并导出Excel表格"
+title: "教程批量号码归属地查询并导出Excel表格"
 date:   2020-06-30
 tags: [查询,导出,Excel,批量,归属]
 comments: true

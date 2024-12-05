@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 SPI1-SPI2 DMA 方式读写 CH376S 资源文件"
+title: "STM32F407 SPI1SPI2 DMA 方式读写 CH376S 资源文件"
 date:   2022-07-31
 tags: [SPI1,SPI2,文件,读写,资源]
 comments: true

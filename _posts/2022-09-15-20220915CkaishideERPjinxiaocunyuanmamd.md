@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 开始的ERP进销存源码"
+title: "C 开始的ERP进销存源码"
 date:   2024-07-17
 tags: [进销存,源码,C#,ERP,NET]
 comments: true

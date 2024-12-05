@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入应用C++11 代码优化与工程级应用"
+title: "深入应用C11 代码优化与工程级应用"
 date:   2024-11-01
 tags: [C++,11,代码优化,应用,深入]
 comments: true

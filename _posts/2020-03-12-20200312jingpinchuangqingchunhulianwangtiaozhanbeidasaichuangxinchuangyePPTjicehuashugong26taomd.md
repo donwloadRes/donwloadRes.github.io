@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "精品创青春互联网+挑战杯大赛创新创业PPT及策划书共26套"
+title: "精品创青春互联网挑战杯大赛创新创业PPT及策划书共26套"
 date:   2024-06-21
 tags: [PPT,策划书,资源,团队,格式]
 comments: true

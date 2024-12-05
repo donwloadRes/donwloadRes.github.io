@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决 Microsoft Visual C++ 14.0 或更高版本需求的方法"
+title: "解决 Microsoft Visual C 140 或更高版本需求的方法"
 date:   2023-03-05
 tags: [C++,编译,Microsoft,安装,版本]
 comments: true

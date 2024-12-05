@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离线安装Jenkins：使用RPM安装包"
+title: "离线安装Jenkins使用RPM安装包"
 date:   2024-08-04
 tags: [Jenkins,安装,jenkins,2.319,rpm]
 comments: true

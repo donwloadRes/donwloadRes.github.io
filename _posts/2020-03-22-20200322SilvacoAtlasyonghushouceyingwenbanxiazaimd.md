@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silvaco Atlas 用户手册（英文版）下载"
+title: "Silvaco Atlas 用户手册英文版下载"
 date:   2023-06-05
 tags: [Silvaco,Atlas,用户手册,英文版,下载]
 comments: true

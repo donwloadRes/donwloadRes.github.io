@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "农产品二维码溯源系统（毕设学习）"
+title: "农产品二维码溯源系统毕设学习"
 date:   2021-12-09
 tags: [项目,数据库,溯源,MySQL,IDEA]
 comments: true

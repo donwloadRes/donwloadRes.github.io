@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国大学教材：基础统计学 第十版 Elementary Statistics 10e"
+title: "美国大学教材基础统计学 第十版 Elementary Statistics 10e"
 date:   2022-03-08
 tags: [统计学,第十版,教材,美国大学,Elementary]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "获取电脑的ProcessorID和MachineGUID信息(设备唯一标识)"
+title: "获取电脑的ProcessorID和MachineGUID信息设备唯一标识"
 date:   2021-09-19
 tags: [ProcessorID,MachineGUID,标识,获取,设备]
 comments: true

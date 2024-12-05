@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Spring Cloud Gateway 官方参考指南-中文版-3.x"
+title: "最新Spring Cloud Gateway 官方参考指南中文版3x"
 date:   2020-01-06
 tags: [Spring,Cloud,Gateway,指南,版本]
 comments: true

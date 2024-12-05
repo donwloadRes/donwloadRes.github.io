@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SA8155P-ADP 产品简介"
+title: "SA8155PADP 产品简介"
 date:   2020-02-19
 tags: [SA8155P,ADP,文件,Product,Brief]
 comments: true

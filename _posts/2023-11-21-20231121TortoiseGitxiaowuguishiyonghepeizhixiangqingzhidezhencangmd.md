@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TortoiseGit（小乌龟）使用和配置详情（值得珍藏）"
+title: "TortoiseGit小乌龟使用和配置详情值得珍藏"
 date:   2022-01-14
 tags: [TortoiseGit,Git,用户,安装,图形化]
 comments: true

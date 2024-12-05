@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1939 全集 - 中文版资源"
+title: "SAE J1939 全集  中文版资源"
 date:   2020-09-23
 tags: [J1939,SAE,文档,资源,全集]
 comments: true

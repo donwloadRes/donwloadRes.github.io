@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-A53技术参考手册"
+title: "CortexA53技术参考手册"
 date:   2022-12-19
 tags: [Cortex,A53,处理器,参考手册,架构]
 comments: true

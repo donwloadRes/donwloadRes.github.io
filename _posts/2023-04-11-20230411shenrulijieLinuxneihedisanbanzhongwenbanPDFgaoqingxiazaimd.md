@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Linux内核(第三版 中文版) PDF高清下载"
+title: "深入理解Linux内核第三版 中文版 PDF高清下载"
 date:   2023-08-11
 tags: [Linux,内核,PDF,第三版,学习]
 comments: true

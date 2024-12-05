@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADAMS_CAR模块详细实例教程(整车仿真分析篇) PDF资源介绍"
+title: "ADAMSCAR模块详细实例教程整车仿真分析篇 PDF资源介绍"
 date:   2023-11-19
 tags: [ADAMS,CAR,仿真,整车,PDF]
 comments: true

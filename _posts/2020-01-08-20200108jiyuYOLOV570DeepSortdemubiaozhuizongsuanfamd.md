@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于YOLOV5-7.0+DeepSort的目标追踪算法"
+title: "基于YOLOV570DeepSort的目标追踪算法"
 date:   2024-10-07
 tags: [跟踪,目标,7.0,算法,YOLOv5]
 comments: true

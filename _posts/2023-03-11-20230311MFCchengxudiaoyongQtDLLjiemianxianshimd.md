@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC程序调用Qt(DLL)界面显示"
+title: "MFC程序调用QtDLL界面显示"
 date:   2020-11-01
 tags: [Qt,MFC,DLL,程序,界面]
 comments: true

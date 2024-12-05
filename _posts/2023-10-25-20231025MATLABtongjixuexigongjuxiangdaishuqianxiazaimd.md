@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB统计学习工具箱（带书签）下载"
+title: "MATLAB统计学习工具箱带书签下载"
 date:   2022-08-29
 tags: [MATLAB,书签,学习,文件,工具箱]
 comments: true

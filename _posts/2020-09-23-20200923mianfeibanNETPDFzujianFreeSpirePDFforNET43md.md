@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费版.NET PDF组件_Free Spire.PDF for .NET 4.3"
+title: "免费版NET PDF组件Free SpirePDF for NET 43"
 date:   2020-04-05
 tags: [PDF,NET,Spire,文档,Free]
 comments: true

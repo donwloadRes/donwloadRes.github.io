@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWS水文水利计算软件-成勘院"
+title: "SWS水文水利计算软件成勘院"
 date:   2024-10-13
 tags: [计算,软件,水文,水利,SWS]
 comments: true

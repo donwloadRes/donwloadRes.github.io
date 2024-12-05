@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新大陆物联网竞赛4.0全栈接线图资源库"
+title: "新大陆物联网竞赛40全栈接线图资源库"
 date:   2020-12-16
 tags: [接线图,联网,全栈,竞赛,4.0]
 comments: true

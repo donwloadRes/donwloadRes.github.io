@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Chart动态折线图显示多条"
+title: "C Chart动态折线图显示多条"
 date:   2022-06-02
 tags: [图表,数据,C#,折线图,示例]
 comments: true

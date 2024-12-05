@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++经典代码大全（超级详细）"
+title: "C经典代码大全超级详细"
 date:   2024-06-23
 tags: [C++,代码,编程,示例,文件]
 comments: true

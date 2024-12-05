@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eclipse 4.9 下载、安装和汉化指南（支持中英切换）"
+title: "Eclipse 49 下载安装和汉化指南支持中英切换"
 date:   2022-05-05
 tags: [安装,Eclipse,下载,汉化,4.9]
 comments: true

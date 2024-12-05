@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon-C#混合编程示例：原图比例放缩显示+UI交互+形状匹配定位"
+title: "HalconC混合编程示例原图比例放缩显示UI交互形状匹配定位"
 date:   2023-07-12
 tags: [UI,匹配,模板,Halcon,形状]
 comments: true

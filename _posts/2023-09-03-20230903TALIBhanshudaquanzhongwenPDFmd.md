@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TALIB函数大全（中文PDF）"
+title: "TALIB函数大全中文PDF"
 date:   2021-07-16
 tags: [PDF,TA,Lib,函数,TALIB]
 comments: true

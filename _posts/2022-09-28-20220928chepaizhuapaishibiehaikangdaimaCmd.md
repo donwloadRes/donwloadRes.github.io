@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌抓拍识别_海康代码_C#"
+title: "车牌抓拍识别海康代码C"
 date:   2022-12-29
 tags: [抓拍,车牌,识别,海康,代码]
 comments: true

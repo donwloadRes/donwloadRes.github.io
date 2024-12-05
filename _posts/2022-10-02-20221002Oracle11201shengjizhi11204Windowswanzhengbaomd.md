@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.1 升级至 11.2.0.4 Windows 完整包"
+title: "Oracle 11201 升级至 11204 Windows 完整包"
 date:   2022-05-12
 tags: [x86,64,11.2,p13390677,112040]
 comments: true

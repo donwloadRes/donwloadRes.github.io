@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisionMaster4.2自定义算子模块实现延时功能+PDF文档步骤"
+title: "VisionMaster42自定义算子模块实现延时功能PDF文档步骤"
 date:   2021-05-29
 tags: [延时,自定义,算子,PDF,VisionMaster4.2]
 comments: true

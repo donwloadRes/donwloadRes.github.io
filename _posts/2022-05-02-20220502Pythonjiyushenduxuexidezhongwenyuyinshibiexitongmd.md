@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-基于深度学习的中文语音识别系统"
+title: "Python基于深度学习的中文语音识别系统"
 date:   2024-01-12
 tags: [模型,训练,语音,识别系统,中文]
 comments: true

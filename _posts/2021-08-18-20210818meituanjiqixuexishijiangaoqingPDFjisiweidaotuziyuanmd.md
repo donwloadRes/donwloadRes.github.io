@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美团机器学习实践》高清PDF及思维导图资源"
+title: "美团机器学习实践高清PDF及思维导图资源"
 date:   2023-12-27
 tags: [美团,导图,学习,机器,PDF]
 comments: true

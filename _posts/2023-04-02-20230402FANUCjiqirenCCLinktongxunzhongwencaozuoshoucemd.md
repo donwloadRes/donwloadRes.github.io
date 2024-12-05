@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC机器人CC-Link通讯中文操作手册"
+title: "FANUC机器人CCLink通讯中文操作手册"
 date:   2022-02-14
 tags: [CC,Link,通讯,机器人,FANUC]
 comments: true

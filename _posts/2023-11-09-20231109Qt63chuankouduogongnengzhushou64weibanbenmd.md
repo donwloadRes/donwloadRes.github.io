@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt6.3 串口多功能助手（64位版本）"
+title: "Qt63 串口多功能助手64位版本"
 date:   2022-09-11
 tags: [串口,通信,Qt6.3,64,热拔]
 comments: true

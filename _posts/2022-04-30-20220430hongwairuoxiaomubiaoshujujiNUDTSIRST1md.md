@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外弱小目标数据集-NUDT-SIRST1"
+title: "红外弱小目标数据集NUDTSIRST1"
 date:   2020-09-22
 tags: [数据,红外,弱小,NUDT,SIRST1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优控制理论与数值算法.pdf"
+title: "最优控制理论与数值算法pdf"
 date:   2024-11-28
 tags: [最优控制,算法,理论,数值,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 海康实时预览与抓图 Demo"
+title: "C 海康实时预览与抓图 Demo"
 date:   2022-11-30
 tags: [海康,抓图,Demo,预览,API]
 comments: true

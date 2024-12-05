@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高光检测及图像修复 - MATLAB图像处理资源"
+title: "高光检测及图像修复  MATLAB图像处理资源"
 date:   2021-09-16
 tags: [图像,MATLAB,高光,图像处理,修复]
 comments: true

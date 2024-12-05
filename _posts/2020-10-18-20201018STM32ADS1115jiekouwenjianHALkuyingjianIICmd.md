@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 ADS1115接口文件（HAL库+硬件IIC）"
+title: "STM32 ADS1115接口文件HAL库硬件IIC"
 date:   2021-05-01
 tags: [STM32,IIC,ADS1115,HAL,硬件]
 comments: true

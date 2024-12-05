@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro脚本工具【6】——湘源规划用地CAD带指标导入ArcGIS数据库"
+title: "ArcGIS Pro脚本工具6湘源规划用地CAD带指标导入ArcGIS数据库"
 date:   2021-07-31
 tags: [ArcGIS,CAD,湘源,导入,脚本]
 comments: true

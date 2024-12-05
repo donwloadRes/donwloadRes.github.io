@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译好的 Windows C++ OpenSSL v3.0 x86与x64编译库"
+title: "编译好的 Windows C OpenSSL v30 x86与x64编译库"
 date:   2020-01-24
 tags: [OpenSSL,编译,Windows,x86,x64]
 comments: true

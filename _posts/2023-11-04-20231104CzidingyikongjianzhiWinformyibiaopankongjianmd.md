@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#自定义控件之Winform仪表盘控件"
+title: "C自定义控件之Winform仪表盘控件"
 date:   2024-07-22
 tags: [控件,Winform,仪表盘,自定义,C#]
 comments: true

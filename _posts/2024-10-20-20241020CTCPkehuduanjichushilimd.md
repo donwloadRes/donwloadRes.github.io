@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP客户端基础示例"
+title: "C TCP客户端基础示例"
 date:   2023-04-27
 tags: [TCP,客户端,C#,服务器,示例]
 comments: true

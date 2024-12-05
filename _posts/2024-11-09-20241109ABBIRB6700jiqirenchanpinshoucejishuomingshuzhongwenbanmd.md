@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB IRB-6700 机器人产品手册及说明书（中文版）"
+title: "ABB IRB6700 机器人产品手册及说明书中文版"
 date:   2021-10-07
 tags: [6700,说明书,机器人,手册,IRB]
 comments: true

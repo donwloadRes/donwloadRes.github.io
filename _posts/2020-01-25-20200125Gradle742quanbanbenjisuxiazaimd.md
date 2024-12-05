@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.4.2 全版本极速下载"
+title: "Gradle 742 全版本极速下载"
 date:   2022-05-13
 tags: [7.4,构建,Gradle,下载,极速]
 comments: true

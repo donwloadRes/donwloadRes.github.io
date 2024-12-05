@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2G-5G 通信技术及关键技术资源"
+title: "2G5G 通信技术及关键技术资源"
 date:   2023-06-11
 tags: [5G,通信,2G,移动,技术]
 comments: true

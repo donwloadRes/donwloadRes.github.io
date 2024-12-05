@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hyperlynx仿真教程（SIG007版）资源下载"
+title: "Hyperlynx仿真教程SIG007版资源下载"
 date:   2023-05-10
 tags: [Hyperlynx,仿真,教程,视频教程,SIG007]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Funac发那科数据采集MDC、DNC开发包"
+title: "Funac发那科数据采集MDCDNC开发包"
 date:   2024-09-11
 tags: [开发包,采集,MDC,NC,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 添加文字标注教程"
+title: "Threejs 添加文字标注教程"
 date:   2022-06-23
 tags: [文字,Three,js,标注,教程]
 comments: true

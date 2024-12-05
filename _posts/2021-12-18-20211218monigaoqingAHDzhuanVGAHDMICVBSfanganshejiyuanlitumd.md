@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟高清AHD转VGA-HDMI-CVBS方案设计原理图"
+title: "模拟高清AHD转VGAHDMICVBS方案设计原理图"
 date:   2022-09-10
 tags: [高清,原理图,信号,AHD,转换]
 comments: true

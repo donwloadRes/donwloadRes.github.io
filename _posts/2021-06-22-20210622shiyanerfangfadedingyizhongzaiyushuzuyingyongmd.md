@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验二：方法的定义、重载与数组应用"
+title: "实验二方法的定义重载与数组应用"
 date:   2021-03-09
 tags: [方法,定义,重载,符号,数组]
 comments: true

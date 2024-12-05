@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白亲身实践：VMware 15.0.1 Pro 彻底卸载指南"
+title: "小白亲身实践VMware 1501 Pro 彻底卸载指南"
 date:   2023-05-28
 tags: [VMware,卸载,删除,管理器,右键]
 comments: true

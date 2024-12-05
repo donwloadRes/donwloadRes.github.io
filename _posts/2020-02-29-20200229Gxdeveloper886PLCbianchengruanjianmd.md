@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gxdeveloper8.86 - PLC编程软件"
+title: "Gxdeveloper886  PLC编程软件"
 date:   2020-05-22
 tags: [PLC,软件,编程,Gxdeveloper8.86,Gx]
 comments: true

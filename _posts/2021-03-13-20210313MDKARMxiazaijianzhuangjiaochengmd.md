@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK_ARM 下载及安装教程"
+title: "MDKARM 下载及安装教程"
 date:   2024-06-15
 tags: [MDK,ARM,安装,许可证,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt采用C++-CLI方式调用C# DLL的Demo（高阶应用）"
+title: "qt采用CCLI方式调用C DLL的Demo高阶应用"
 date:   2021-11-29
 tags: [Qt,C++,C#,DLL,CLI]
 comments: true

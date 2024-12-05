@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "禁用-启用 笔记本电脑自带键盘"
+title: "禁用启用 笔记本电脑自带键盘"
 date:   2023-04-20
 tags: [键盘,禁用,笔记本,用户,启用]
 comments: true

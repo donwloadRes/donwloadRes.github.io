@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱伺服MR-JE使用手册下载"
+title: "三菱伺服MRJE使用手册下载"
 date:   2024-11-07
 tags: [MR,JE,三菱,伺服,下载]
 comments: true

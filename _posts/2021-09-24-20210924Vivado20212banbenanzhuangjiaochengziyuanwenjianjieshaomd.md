@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2021.2 版本安装教程资源文件介绍"
+title: "Vivado 20212 版本安装教程资源文件介绍"
 date:   2024-07-30
 tags: [安装,Vivado,2021.2,教程,安装文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + WebSocket 聊天室（多人聊天，单人聊天）"
+title: "Spring Boot  WebSocket 聊天室多人聊天单人聊天"
 date:   2024-04-27
 tags: [聊天,WebSocket,聊天室,Spring,Boot]
 comments: true

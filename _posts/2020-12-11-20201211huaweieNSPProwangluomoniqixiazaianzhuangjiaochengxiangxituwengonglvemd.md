@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为eNSP Pro网络模拟器下载安装教程(详细图文攻略)"
+title: "华为eNSP Pro网络模拟器下载安装教程详细图文攻略"
 date:   2024-03-06
 tags: [教程,安装,eNSP,Pro,华为]
 comments: true

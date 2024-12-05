@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "同轴-矩形波导转换器仿真实验报告"
+title: "同轴矩形波导转换器仿真实验报告"
 date:   2020-05-09
 tags: [仿真,转换器,矩形波导,实验,同轴]
 comments: true

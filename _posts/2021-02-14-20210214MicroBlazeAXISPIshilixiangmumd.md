@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MicroBlaze AXI-SPI 示例项目"
+title: "MicroBlaze AXISPI 示例项目"
 date:   2022-09-10
 tags: [SPI,AXI,示例,MicroBlaze,Flash]
 comments: true

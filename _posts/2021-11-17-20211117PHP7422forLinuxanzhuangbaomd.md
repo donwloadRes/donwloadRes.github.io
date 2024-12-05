@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP 7.4.22 for Linux 安装包"
+title: "PHP 7422 for Linux 安装包"
 date:   2020-06-03
 tags: [7.4,22,PHP,安装包,Linux]
 comments: true

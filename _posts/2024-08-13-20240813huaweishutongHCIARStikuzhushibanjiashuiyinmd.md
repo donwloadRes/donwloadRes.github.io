@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为数通HCIA-RS题库注释版-加水印"
+title: "华为数通HCIARS题库注释版加水印"
 date:   2020-07-23
 tags: [题库,数通,HCIA,RS,华为]
 comments: true

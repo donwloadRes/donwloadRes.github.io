@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电设计-八路抢答器"
+title: "数电设计八路抢答器"
 date:   2022-11-23
 tags: [抢答,数码管,抢答器,电路,八路]
 comments: true

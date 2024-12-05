@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图片批量裁剪器(精华版) v6.0"
+title: "图片批量裁剪器精华版 v60"
 date:   2021-08-29
 tags: [裁剪,图片,批量,水印,精华版]
 comments: true

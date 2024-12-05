@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "马尔科夫区制转移向量自回归模型（MS-VAR）资源文件介绍"
+title: "马尔科夫区制转移向量自回归模型MSVAR资源文件介绍"
 date:   2022-08-31
 tags: [VAR,模型,MS,GiveWin,软件]
 comments: true

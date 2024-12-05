@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA EE 登录注册界面实现（含源码）"
+title: "JAVA EE 登录注册界面实现含源码"
 date:   2024-06-22
 tags: [登录,注册,项目,JDK,报错]
 comments: true

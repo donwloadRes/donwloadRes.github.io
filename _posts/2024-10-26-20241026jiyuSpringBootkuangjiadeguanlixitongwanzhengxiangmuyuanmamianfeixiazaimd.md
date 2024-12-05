@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot框架的管理系统【完整项目源码免费下载】"
+title: "基于SpringBoot框架的管理系统完整项目源码免费下载"
 date:   2023-05-30
 tags: [SpringBoot,项目,源码,管理系统,框架]
 comments: true

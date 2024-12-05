@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TELNETONU 1.5 资源文件"
+title: "TELNETONU 15 资源文件"
 date:   2020-11-20
 tags: [TELNETONU,1.5,文档,网络,TELNET]
 comments: true

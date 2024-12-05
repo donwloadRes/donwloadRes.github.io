@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "展锐UIS8910_DM AT命令手册 v2.10"
+title: "展锐UIS8910DM AT命令手册 v210"
 date:   2022-02-27
 tags: [模组,展锐,8910DM,v2.10,命令]
 comments: true

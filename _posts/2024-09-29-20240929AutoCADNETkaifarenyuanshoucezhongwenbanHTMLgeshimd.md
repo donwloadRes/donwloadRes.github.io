@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCAD .NET 开发人员手册中文版（HTML 格式）"
+title: "AutoCAD NET 开发人员手册中文版HTML 格式"
 date:   2024-11-06
 tags: [AutoCAD,NET,HTML,手册,格式]
 comments: true

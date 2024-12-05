@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的在线考试系统设计与实现【附源码】"
+title: "基于Java的在线考试系统设计与实现附源码"
 date:   2023-07-22
 tags: [考试,在线,系统,模块,用户]
 comments: true

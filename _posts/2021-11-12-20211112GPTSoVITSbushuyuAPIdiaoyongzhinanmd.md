@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT-SoVITS部署与API调用指南"
+title: "GPTSoVITS部署与API调用指南"
 date:   2024-04-27
 tags: [API,GPT,SoVITS,调用,云端]
 comments: true

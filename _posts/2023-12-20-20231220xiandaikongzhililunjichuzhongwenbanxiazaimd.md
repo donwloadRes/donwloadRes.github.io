@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制理论基础（中文版）下载"
+title: "现代控制理论基础中文版下载"
 date:   2022-10-06
 tags: [中文版,控制,理论,现代,文件]
 comments: true

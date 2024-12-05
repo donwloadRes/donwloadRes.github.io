@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据模型资源手册中文版卷1+卷2"
+title: "数据模型资源手册中文版卷1卷2"
 date:   2020-07-19
 tags: [数据模型,中文版,手册,数据,资源]
 comments: true

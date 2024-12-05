@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python4Delphi 运行环境 - Python 3.8 版本"
+title: "Python4Delphi 运行环境  Python 38 版本"
 date:   2020-02-16
 tags: [Python,Python4Delphi,3.8,Delphi,版本]
 comments: true

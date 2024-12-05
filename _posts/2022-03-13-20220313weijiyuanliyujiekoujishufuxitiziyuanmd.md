@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微机原理与接口技术》复习题资源"
+title: "微机原理与接口技术复习题资源"
 date:   2021-12-07
 tags: [复习题,接口技术,微机,原理,pdf]
 comments: true

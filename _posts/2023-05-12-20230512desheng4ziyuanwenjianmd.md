@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德生ＴＳＷ-Ｆ4 资源文件"
+title: "德生4 资源文件"
 date:   2022-05-27
 tags: [德生,文件,资源,zip,下载]
 comments: true

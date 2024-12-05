@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构设计师教程_带目录高清PDF版"
+title: "系统架构设计师教程带目录高清PDF版"
 date:   2022-02-24
 tags: [PDF,教程,高清,架构,设计师]
 comments: true

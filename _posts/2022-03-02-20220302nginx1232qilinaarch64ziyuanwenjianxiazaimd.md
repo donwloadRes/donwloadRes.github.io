@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nginx 1.23.2 麒麟 aarch64 资源文件下载"
+title: "nginx 1232 麒麟 aarch64 资源文件下载"
 date:   2021-09-16
 tags: [aarch64,麒麟,nginx,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO12233 分辨率测试卡-增强型原图"
+title: "ISO12233 分辨率测试卡增强型原图"
 date:   2024-04-28
 tags: [分辨率,测试,原图,增强型,ISO12233]
 comments: true

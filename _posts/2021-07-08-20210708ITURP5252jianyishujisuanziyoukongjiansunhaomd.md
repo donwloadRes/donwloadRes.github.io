@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITU-R P.525-2∗建议书：计算自由空间损耗"
+title: "ITUR P5252建议书计算自由空间损耗"
 date:   2023-08-03
 tags: [自由空间,建议书,ITU,损耗,P.525]
 comments: true

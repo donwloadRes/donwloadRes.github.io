@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统安装及配置指南——CentOS 7 x86_64 DVD 2009"
+title: "Linux系统安装及配置指南CentOS 7 x8664 DVD 2009"
 date:   2023-10-17
 tags: [CentOS,Linux,安装,虚拟机,64]
 comments: true

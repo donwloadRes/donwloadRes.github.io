@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D相机操控：完整模拟Scene视图操作"
+title: "Unity3D相机操控完整模拟Scene视图操作"
 date:   2022-09-14
 tags: [视图,相机,Scene,Unity,鼠标]
 comments: true

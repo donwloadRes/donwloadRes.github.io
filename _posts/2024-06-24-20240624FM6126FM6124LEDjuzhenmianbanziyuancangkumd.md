@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FM6126-FM6124 LED 矩阵面板资源仓库"
+title: "FM6126FM6124 LED 矩阵面板资源仓库"
 date:   2024-03-09
 tags: [面板,驱动程序,FM6126,仓库,矩阵]
 comments: true

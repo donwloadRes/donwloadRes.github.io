@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量化交易策略 - 三因子策略示例"
+title: "量化交易策略  三因子策略示例"
 date:   2023-02-12
 tags: [量化,示例,策略,因子,交易]
 comments: true

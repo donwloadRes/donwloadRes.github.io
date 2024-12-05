@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程思想资源下载"
+title: "C编程思想资源下载"
 date:   2020-04-02
 tags: [C++,编程,资源,阅读,思想]
 comments: true

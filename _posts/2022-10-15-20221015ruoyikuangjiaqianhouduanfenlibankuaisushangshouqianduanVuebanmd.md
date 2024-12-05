@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依框架前后端分离版 快速上手 前端（Vue）版"
+title: "若依框架前后端分离版 快速上手 前端Vue版"
 date:   2021-01-26
 tags: [开发,文件,前端,Vue,快速]
 comments: true

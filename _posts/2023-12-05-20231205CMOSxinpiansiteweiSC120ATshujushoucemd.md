@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMOS芯片 - 思特威SC120AT数据手册"
+title: "CMOS芯片  思特威SC120AT数据手册"
 date:   2023-02-23
 tags: [SC120AT,手册,CMOS,思特威,下载]
 comments: true

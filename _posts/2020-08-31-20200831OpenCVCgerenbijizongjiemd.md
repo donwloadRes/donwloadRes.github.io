@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV C++ 个人笔记总结"
+title: "OpenCV C 个人笔记总结"
 date:   2021-01-08
 tags: [OpenCV,教程,图像,Visual,Studio]
 comments: true

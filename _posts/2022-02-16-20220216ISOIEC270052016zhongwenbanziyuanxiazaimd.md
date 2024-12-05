@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO IEC 27005-2016 中文版资源下载"
+title: "ISO IEC 270052016 中文版资源下载"
 date:   2023-10-31
 tags: [2016,ISO,IEC,27005,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现卡尔曼滤波算法（核心算法）"
+title: "C语言实现卡尔曼滤波算法核心算法"
 date:   2022-01-19
 tags: [卡尔曼滤波,算法,C语言,代码,资源]
 comments: true

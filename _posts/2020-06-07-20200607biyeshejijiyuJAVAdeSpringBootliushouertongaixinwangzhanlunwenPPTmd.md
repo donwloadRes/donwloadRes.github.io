@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-基于JAVA的SpringBoot留守儿童爱心网站(论文+PPT)"
+title: "毕业设计基于JAVA的SpringBoot留守儿童爱心网站论文PPT"
 date:   2021-01-05
 tags: [爱心,留守,管理,儿童,JAVA]
 comments: true

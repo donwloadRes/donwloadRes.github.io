@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320F2803X中文手册 - 值得收藏"
+title: "TMS320F2803X中文手册  值得收藏"
 date:   2024-05-23
 tags: [TMS320F2803X,手册,中文,微控制器,收藏]
 comments: true

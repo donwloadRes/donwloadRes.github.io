@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫案例1：爬取淘宝网页数据"
+title: "Python爬虫案例1爬取淘宝网页数据"
 date:   2021-01-01
 tags: [Python,爬取,爬虫,代码,淘宝网]
 comments: true

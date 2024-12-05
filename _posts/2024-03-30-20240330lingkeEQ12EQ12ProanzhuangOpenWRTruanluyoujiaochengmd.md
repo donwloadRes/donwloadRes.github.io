@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[零刻]EQ12&EQ12Pro安装OpenWRT软路由教程"
+title: "零刻EQ12EQ12Pro安装OpenWRT软路由教程"
 date:   2021-08-20
 tags: [U盘,安装,分区,镜像,写入]
 comments: true

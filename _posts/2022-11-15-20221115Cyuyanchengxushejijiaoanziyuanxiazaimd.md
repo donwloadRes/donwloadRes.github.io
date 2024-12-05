@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计》教案资源下载"
+title: "C语言程序设计教案资源下载"
 date:   2021-02-08
 tags: [C语言,教案,程序设计,谭浩强,docx]
 comments: true

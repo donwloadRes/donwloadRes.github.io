@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx FPGA SATA3.0主机控制器IP"
+title: "Xilinx FPGA SATA30主机控制器IP"
 date:   2023-06-24
 tags: [SATA,IP,FPGA,SATA3.0,存储设备]
 comments: true

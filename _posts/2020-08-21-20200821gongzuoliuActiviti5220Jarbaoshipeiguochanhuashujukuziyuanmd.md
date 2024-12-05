@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工作流Activiti 5.22.0 Jar包适配国产化数据库资源"
+title: "工作流Activiti 5220 Jar包适配国产化数据库资源"
 date:   2024-03-17
 tags: [数据库,适配,Activiti,国产化,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-UCOSIII实战：RTC+DHT11+按键+LCD显示"
+title: "STM32UCOSIII实战RTCDHT11按键LCD显示"
 date:   2020-11-16
 tags: [DHT11,LCD,开发板,按键,RTC]
 comments: true

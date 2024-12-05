@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LivePortrait 数字人：开源的图生视频模型"
+title: "LivePortrait 数字人开源的图生视频模型"
 date:   2023-04-14
 tags: [LivePortrait,视频,https,bash,图生]
 comments: true

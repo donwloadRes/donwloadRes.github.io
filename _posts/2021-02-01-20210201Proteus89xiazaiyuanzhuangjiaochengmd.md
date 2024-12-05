@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.9 下载与安装教程"
+title: "Proteus 89 下载与安装教程"
 date:   2024-06-12
 tags: [安装,Proteus,8.9,文件夹,解压]
 comments: true

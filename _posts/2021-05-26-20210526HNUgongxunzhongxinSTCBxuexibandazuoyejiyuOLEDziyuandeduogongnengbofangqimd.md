@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "HNU工训中心STC-B学习板大作业-基于OLED资源的多功能播放器"
+title: "HNU工训中心STCB学习板大作业基于OLED资源的多功能播放器
+date   20210912
+tags OLED项目HNU工训单片机
+comments true
+author admin
+
+
+layout post
+title HNU工训中心STCB学习板大作业基于OLED资源的多功能播放器"
 date:   2021-09-12
 tags: [OLED,项目,HNU,工训,单片机]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "HNU工训中心STC-B学习板大作业-基于OLED资源的多功能播放器"
+title: "HNU工训中心STCB学习板大作业基于OLED资源的多功能播放器
+date   20210912
+tags OLED项目HNU工训单片机
+comments true
+author admin
+
+
+layout post
+title HNU工训中心STCB学习板大作业基于OLED资源的多功能播放器"
 date:   2023-03-29
 tags: [OLED,项目,单片机,HNU,工训]
 comments: true

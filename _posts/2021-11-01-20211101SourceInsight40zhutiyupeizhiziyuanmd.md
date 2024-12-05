@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 主题与配置资源"
+title: "Source Insight 40 主题与配置资源"
 date:   2024-04-01
 tags: [Source,Insight,4.0,华为,主题]
 comments: true

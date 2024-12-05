@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDLC大全(协议、CRC校验、FPGA和DSP实现实例)"
+title: "HDLC大全协议CRC校验FPGA和DSP实现实例"
 date:   2024-10-02
 tags: [HDLC,CRC,FPGA,DSP,校验]
 comments: true

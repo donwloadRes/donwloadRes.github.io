@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装JDK1.8指南"
+title: "Linux安装JDK18指南"
 date:   2020-03-01
 tags: [Linux,JDK,export,1.8,安装]
 comments: true

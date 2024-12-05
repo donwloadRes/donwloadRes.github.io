@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "frp 0.48.0 Linux ARM64 版本下载"
+title: "frp 0480 Linux ARM64 版本下载"
 date:   2021-01-28
 tags: [frp,0.48,tar,ARM64,linux]
 comments: true

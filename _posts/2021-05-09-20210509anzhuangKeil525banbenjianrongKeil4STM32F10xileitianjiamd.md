@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Keil5.25版本+兼容Keil4+STM32F10系类添加"
+title: "安装Keil525版本兼容Keil4STM32F10系类添加"
 date:   2024-07-09
 tags: [Keil5.25,Keil4,STM32F10,安装,兼容]
 comments: true

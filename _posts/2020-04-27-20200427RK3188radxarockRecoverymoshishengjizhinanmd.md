@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3188（radxa rock）Recovery模式升级指南"
+title: "RK3188radxa rockRecovery模式升级指南"
 date:   2023-03-05
 tags: [升级,固件,Recovery,模式,指南]
 comments: true

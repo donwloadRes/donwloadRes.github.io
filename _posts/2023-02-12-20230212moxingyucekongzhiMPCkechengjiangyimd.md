@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制（MPC）课程讲义"
+title: "模型预测控制MPC课程讲义"
 date:   2021-10-23
 tags: [MPC,讲义,线性系统,预测,控制]
 comments: true

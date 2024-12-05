@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.44寸TFT显示屏ST7735与ESP8266资源接线指南"
+title: "144寸TFT显示屏ST7735与ESP8266资源接线指南"
 date:   2024-04-17
 tags: [ESP8266,ST7735,引脚,显示屏,1.44]
 comments: true

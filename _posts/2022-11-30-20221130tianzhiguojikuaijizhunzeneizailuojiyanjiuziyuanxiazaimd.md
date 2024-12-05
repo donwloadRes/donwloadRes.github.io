@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天职国际-会计准则内在逻辑研究资源下载"
+title: "天职国际会计准则内在逻辑研究资源下载"
 date:   2023-02-04
 tags: [会计准则,天职,逻辑,内在,文件]
 comments: true

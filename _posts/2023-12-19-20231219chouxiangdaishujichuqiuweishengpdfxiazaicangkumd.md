@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抽象代数基础 丘维声.pdf 下载仓库"
+title: "抽象代数基础 丘维声pdf 下载仓库"
 date:   2022-11-22
 tags: [抽象代数,丘维声,pdf,下载,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI系统电源管理接口规范V2.0"
+title: "MIPI系统电源管理接口规范V20"
 date:   2021-02-09
 tags: [MIPI,文档,V2.0,规范,草稿]
 comments: true

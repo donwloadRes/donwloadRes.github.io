@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vb6.0编写的Modbus-TCP从站程序"
+title: "vb60编写的ModbusTCP从站程序"
 date:   2023-12-10
 tags: [Modbus,TCP,VB6.0,程序,环境]
 comments: true

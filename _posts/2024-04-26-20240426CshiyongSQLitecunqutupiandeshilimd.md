@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用SQLite存取图片的示例"
+title: "C使用SQLite存取图片的示例"
 date:   2021-11-22
 tags: [示例,SQLite,数据库,图片,C#]
 comments: true

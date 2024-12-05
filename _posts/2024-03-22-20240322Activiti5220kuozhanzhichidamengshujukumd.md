@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Activiti5.22.0扩展支持达梦数据库"
+title: "Activiti5220扩展支持达梦数据库"
 date:   2024-01-02
 tags: [数据库,达梦,Activiti,5.22,支持]
 comments: true

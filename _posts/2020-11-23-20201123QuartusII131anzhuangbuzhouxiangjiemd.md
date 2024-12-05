@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.1 安装步骤详解"
+title: "Quartus II 131 安装步骤详解"
 date:   2023-03-17
 tags: [安装,Quartus,II,13.1,安装文件]
 comments: true

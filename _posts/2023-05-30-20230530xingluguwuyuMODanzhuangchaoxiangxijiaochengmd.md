@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "星露谷物语》MOD安装超详细教程"
+title: "星露谷物语MOD安装超详细教程"
 date:   2023-06-03
 tags: [MOD,游戏,安装,教程,玩家]
 comments: true

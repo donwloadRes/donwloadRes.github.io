@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oZone3D FurMark（显卡压力测试软件）V1.9.2  |  甜甜圈furmark"
+title: "oZone3D FurMark显卡压力测试软件V192    甜甜圈furmark"
 date:   2023-03-18
 tags: [显卡,测试,FurMark,测试软件,稳定性]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SUMO学习-入门篇-保姆级教程"
+title: "SUMO学习入门篇保姆级教程"
 date:   2021-12-05
 tags: [SUMO,学习,教程,入门篇,仿真]
 comments: true

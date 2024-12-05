@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水墨画风格HTML+CSS+JS资源文件"
+title: "水墨画风格HTMLCSSJS资源文件"
 date:   2021-01-02
 tags: [HTML,文件,CSS,水墨画,页面]
 comments: true

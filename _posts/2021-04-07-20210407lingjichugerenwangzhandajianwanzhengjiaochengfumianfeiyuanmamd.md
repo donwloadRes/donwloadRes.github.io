@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础个人网站搭建完整教程（附免费源码）"
+title: "零基础个人网站搭建完整教程附免费源码"
 date:   2024-02-20
 tags: [教程,源码,搭建,网站,服务器]
 comments: true

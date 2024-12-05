@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 FOC MCSDK5.3 位置闭环控制资源文件介绍"
+title: "STM32 FOC MCSDK53 位置闭环控制资源文件介绍"
 date:   2020-10-11
 tags: [闭环控制,STM32,MCSDK5.3,文件,位置]
 comments: true

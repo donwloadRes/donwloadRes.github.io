@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP飞思卡尔LIN2.X协议栈资源下载"
+title: "NXP飞思卡尔LIN2X协议栈资源下载"
 date:   2021-01-01
 tags: [LIN2,协议,示例,文档,代码]
 comments: true

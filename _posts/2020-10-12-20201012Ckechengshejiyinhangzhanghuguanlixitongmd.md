@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++课程设计：银行账户管理系统"
+title: "C课程设计银行账户管理系统"
 date:   2020-09-17
 tags: [账户,C++,课程设计,存储,操作]
 comments: true

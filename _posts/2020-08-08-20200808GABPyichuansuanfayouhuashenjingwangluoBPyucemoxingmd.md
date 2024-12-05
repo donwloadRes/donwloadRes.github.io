@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GABP：遗传算法优化神经网络（BP）预测模型"
+title: "GABP遗传算法优化神经网络BP预测模型"
 date:   2022-10-05
 tags: [遗传算法,神经网络,优化,BP,预测]
 comments: true

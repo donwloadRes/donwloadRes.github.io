@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "查看路由器内宽带账号密码（D-link，TP-Link）"
+title: "查看路由器内宽带账号密码DlinkTPLink"
 date:   2020-04-06
 tags: [路由器,宽带,Link,账号密码,配置文件]
 comments: true

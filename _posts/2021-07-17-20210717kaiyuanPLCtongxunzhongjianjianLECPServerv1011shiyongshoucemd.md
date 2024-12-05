@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源PLC通讯中间件 LECPServer v1.0.11 使用手册"
+title: "开源PLC通讯中间件 LECPServer v1011 使用手册"
 date:   2021-05-26
 tags: [LECPServer,PLC,使用手册,开源,中间件]
 comments: true

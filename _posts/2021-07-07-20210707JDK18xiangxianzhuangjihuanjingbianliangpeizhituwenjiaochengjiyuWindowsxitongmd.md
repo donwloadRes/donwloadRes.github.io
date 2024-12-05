@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 详细安装及环境变量配置图文教程(基于Windows系统)"
+title: "JDK 18 详细安装及环境变量配置图文教程基于Windows系统"
 date:   2024-05-28
 tags: [JDK,1.8,安装,环境变量,配置]
 comments: true

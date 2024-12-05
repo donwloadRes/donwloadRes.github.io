@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中小型企业网络规划设计方案(完整版)"
+title: "中小型企业网络规划设计方案完整版"
 date:   2023-12-16
 tags: [网络,2.5,选型,配置,中小型]
 comments: true

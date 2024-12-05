@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC通信工具 HslCommunication 测试工具（10.6.1最新版本）及源代码"
+title: "PLC通信工具 HslCommunication 测试工具1061最新版本及源代码"
 date:   2020-06-30
 tags: [PLC,源代码,NET,HslCommunication,10.6]
 comments: true

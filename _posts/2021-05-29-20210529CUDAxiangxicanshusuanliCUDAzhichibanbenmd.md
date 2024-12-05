@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA详细参数（算力+CUDA支持版本）"
+title: "CUDA详细参数算力CUDA支持版本"
 date:   2020-08-28
 tags: [CUDA,算力,版本,GPU,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "足球机器人仿真代码 C++"
+title: "足球机器人仿真代码 C"
 date:   2021-01-15
 tags: [机器人,足球,C++,仿真,射门]
 comments: true

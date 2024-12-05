@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中移物联万耦开发板 FlashDB+SFUD+FAL+W25Q64实际测试例程"
+title: "中移物联万耦开发板 FlashDBSFUDFALW25Q64实际测试例程"
 date:   2024-11-26
 tags: [Flash,例程,W25Q64,驱动,存储]
 comments: true

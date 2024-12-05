@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow C#使用Demo"
+title: "TensorFlow C使用Demo"
 date:   2024-01-10
 tags: [TensorFlow,Demo,C#,使用,文件]
 comments: true

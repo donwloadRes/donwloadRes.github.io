@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Java虚拟机：JVM高级特性与最佳实践"
+title: "深入理解Java虚拟机JVM高级特性与最佳实践"
 date:   2023-05-06
 tags: [Java,JVM,虚拟机,编译,深入]
 comments: true

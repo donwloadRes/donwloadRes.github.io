@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTK+ 3.10.4 64位 Windows 安装包"
+title: "GTK 3104 64位 Windows 安装包"
 date:   2021-10-16
 tags: [GTK,3.10,Windows,安装包,64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-HDBK-620 操作手册和技术指南"
+title: "IPCHDBK620 操作手册和技术指南"
 date:   2024-05-06
 tags: [IPC,620,线束,线缆,指南]
 comments: true

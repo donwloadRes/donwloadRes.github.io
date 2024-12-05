@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 20.9 安装及中文语言切换教程"
+title: "FL Studio 209 安装及中文语言切换教程"
 date:   2020-10-20
 tags: [FL,Studio,教程,安装,软件]
 comments: true

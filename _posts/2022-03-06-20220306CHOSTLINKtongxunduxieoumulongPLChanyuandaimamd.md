@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# HOSTLINK 通讯读写欧姆龙PLC含源代码"
+title: "C HOSTLINK 通讯读写欧姆龙PLC含源代码"
 date:   2020-04-17
 tags: [PLC,欧姆龙,通讯,C#,源代码]
 comments: true

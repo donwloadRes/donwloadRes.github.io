@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广西CM201-2原固件M8375 码we3x"
+title: "广西CM2012原固件M8375 码we3x"
 date:   2024-10-19
 tags: [固件,M8375,CM201,刷机,we3x]
 comments: true

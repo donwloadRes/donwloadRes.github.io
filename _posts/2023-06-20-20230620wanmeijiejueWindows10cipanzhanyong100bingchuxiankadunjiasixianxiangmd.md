@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完美解决Windows 10磁盘占用100%并出现卡顿、假死现象"
+title: "完美解决Windows 10磁盘占用100并出现卡顿假死现象"
 date:   2020-09-13
 tags: [Windows,磁盘,10,占用率,假死]
 comments: true

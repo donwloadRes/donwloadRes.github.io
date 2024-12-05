@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepFaceLive直播软件（中英文原版四合一）资源介绍"
+title: "DeepFaceLive直播软件中英文原版四合一资源介绍"
 date:   2022-11-03
 tags: [DeepFaceLive,直播,英文原版,教程,效果]
 comments: true

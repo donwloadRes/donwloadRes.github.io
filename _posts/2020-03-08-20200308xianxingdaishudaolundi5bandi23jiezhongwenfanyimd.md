@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数导论第5版第2.3节中文翻译"
+title: "线性代数导论第5版第23节中文翻译"
 date:   2020-01-29
 tags: [矩阵,消元,乘法,线性代数,步骤]
 comments: true

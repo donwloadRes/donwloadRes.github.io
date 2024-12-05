@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtChartTimeAxis-时间轴与动态绘制"
+title: "QtChartTimeAxis时间轴与动态绘制"
 date:   2022-03-13
 tags: [Qt,绘制,时间轴,项目,5.11]
 comments: true

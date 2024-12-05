@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习数据标注工具 - LabelImg"
+title: "深度学习数据标注工具  LabelImg"
 date:   2020-04-27
 tags: [标注,LabelImg,exe,数据,YOLO]
 comments: true

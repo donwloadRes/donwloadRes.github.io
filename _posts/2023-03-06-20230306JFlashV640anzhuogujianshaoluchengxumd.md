@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-Flash V6.40 安卓固件烧录程序"
+title: "JFlash V640 安卓固件烧录程序"
 date:   2022-05-12
 tags: [烧录,固件,Flash,V6.40,安卓]
 comments: true

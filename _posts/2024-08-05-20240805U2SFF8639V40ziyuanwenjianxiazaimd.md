@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U.2-SFF-8639-V4.0 资源文件下载"
+title: "U2SFF8639V40 资源文件下载"
 date:   2023-05-31
 tags: [U.2,V4.0,文件,SFF,8639]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BQ40Z50-R1 STM32H743实现资源文件"
+title: "BQ40Z50R1 STM32H743实现资源文件"
 date:   2024-08-14
 tags: [BQ40Z50,R1,驱动程序,通信,STM32H743]
 comments: true

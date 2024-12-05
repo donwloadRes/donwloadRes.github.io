@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch + Kibana 资源下载指南"
+title: "Elasticsearch  Kibana 资源下载指南"
 date:   2021-07-31
 tags: [Elasticsearch,Kibana,教程,bin,下载]
 comments: true

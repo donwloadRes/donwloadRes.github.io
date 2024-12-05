@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.11.0 安装包下载"
+title: "Qt 5110 安装包下载"
 date:   2024-11-15
 tags: [5.11,安装包,Qt,x86,安装]
 comments: true

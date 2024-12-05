@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的车型识别系统（Python+清新界面+数据集）"
+title: "基于深度学习的车型识别系统Python清新界面数据集"
 date:   2024-04-29
 tags: [Python,训练,YOLOv5,识别,车辆]
 comments: true

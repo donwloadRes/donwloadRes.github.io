@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语言规范第五版中文版（c#-language-specification-5.0）"
+title: "C语言规范第五版中文版clanguagespecification50"
 date:   2021-03-14
 tags: [C#,第五版,5.0,规范,中文版]
 comments: true

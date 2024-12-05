@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EXCEL集成工具箱V8.0完整增强版 - 用户手册"
+title: "EXCEL集成工具箱V80完整增强版  用户手册"
 date:   2023-03-15
 tags: [Excel,工具箱,EXCEL,V8.0,集成]
 comments: true

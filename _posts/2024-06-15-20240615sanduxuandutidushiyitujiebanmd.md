@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "散度、旋度、梯度释义(图解版)"
+title: "散度旋度梯度释义图解版"
 date:   2022-05-25
 tags: [散度,旋度,梯度,矢量,释义]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USART 接收总线空闲中断 - USART_IT_IDLE"
+title: "STM32 USART 接收总线空闲中断  USARTITIDLE"
 date:   2020-03-25
 tags: [USART,空闲,中断,IDLE,接收]
 comments: true

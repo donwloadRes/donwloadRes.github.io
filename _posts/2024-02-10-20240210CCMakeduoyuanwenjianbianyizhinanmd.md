@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ CMake 多源文件编译指南"
+title: "C CMake 多源文件编译指南"
 date:   2024-03-20
 tags: [编译,源文件,CMakeLists,txt,文件]
 comments: true

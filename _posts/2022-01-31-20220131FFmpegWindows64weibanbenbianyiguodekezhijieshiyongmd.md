@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg Windows 64位版本 - 编译过的可直接使用"
+title: "FFmpeg Windows 64位版本  编译过的可直接使用"
 date:   2021-03-10
 tags: [FFmpeg,Windows,64,Python,版本]
 comments: true

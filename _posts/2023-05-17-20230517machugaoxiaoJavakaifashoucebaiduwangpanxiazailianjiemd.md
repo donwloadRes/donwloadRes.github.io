@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "码出高效：Java开发手册 —— 百度网盘下载链接"
+title: "码出高效Java开发手册  百度网盘下载链接"
 date:   2021-07-20
 tags: [Java,手册,码出,链接,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博途（TIA）内部培训资料"
+title: "博途TIA内部培训资料"
 date:   2023-12-09
 tags: [博途,TIA,培训资料,自动化,编程]
 comments: true

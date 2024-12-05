@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U盘系统盘制作与系统安装（详细图解）"
+title: "U盘系统盘制作与系统安装详细图解"
 date:   2020-07-24
 tags: [U盘,安装,系统,系统盘,制作]
 comments: true

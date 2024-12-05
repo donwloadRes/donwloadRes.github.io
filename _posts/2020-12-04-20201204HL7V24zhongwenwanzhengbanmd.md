@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HL7 V2.4中文完整版"
+title: "HL7 V24中文完整版"
 date:   2024-01-16
 tags: [HL7,V2.4,医疗,中文,完整版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq SoC-MPSoC SPI接口实现指南"
+title: "Zynq SoCMPSoC SPI接口实现指南"
 date:   2020-11-17
 tags: [SPI,控制器,PS,PL,实现]
 comments: true

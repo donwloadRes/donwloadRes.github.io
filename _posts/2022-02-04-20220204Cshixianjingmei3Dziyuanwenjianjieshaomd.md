@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现精美3D资源文件介绍"
+title: "C实现精美3D资源文件介绍"
 date:   2021-08-28
 tags: [C#,3D,示例,绘制,图形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通过MQTT协议实现STM32+ESP8266与服务器数据传输教程"
+title: "通过MQTT协议实现STM32ESP8266与服务器数据传输教程"
 date:   2023-12-26
 tags: [MQTT,ESP8266,STM32,服务器,联网]
 comments: true

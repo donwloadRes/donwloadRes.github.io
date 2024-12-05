@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙兴华讲PowerBI之DAX原理DAX神功》PDF和OneNote讲义"
+title: "孙兴华讲PowerBI之DAX原理DAX神功PDF和OneNote讲义"
 date:   2021-05-16
 tags: [函数,DAX,上下文,PowerBI,PDF]
 comments: true

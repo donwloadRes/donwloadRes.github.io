@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亲测可用的OPCAutomation_dll"
+title: "亲测可用的OPCAutomationdll"
 date:   2022-07-10
 tags: [OPC,DLL,C#,OPCAutomation,dll]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP-IP 一客户端多服务端模式"
+title: "C TCPIP 一客户端多服务端模式"
 date:   2020-07-07
 tags: [服务端,客户端,示例,C#,通讯]
 comments: true

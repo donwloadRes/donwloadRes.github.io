@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python自然语言处理（NLP）入门指南"
+title: "Python自然语言处理NLP入门指南"
 date:   2022-03-03
 tags: [NLP,Python,自然语言,入门,处理]
 comments: true

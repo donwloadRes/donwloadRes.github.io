@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#获取ID-IC卡USB读卡器数据"
+title: "C获取IDIC卡USB读卡器数据"
 date:   2022-12-22
 tags: [读卡器,USB,读取,数据,服务器]
 comments: true

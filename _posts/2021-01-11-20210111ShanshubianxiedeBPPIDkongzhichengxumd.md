@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S函数编写的BP-PID控制程序"
+title: "S函数编写的BPPID控制程序"
 date:   2023-01-04
 tags: [MATLAB,权值,编写,代码,BP]
 comments: true

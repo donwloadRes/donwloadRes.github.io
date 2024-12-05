@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500-1200 PLC PID整定调试总结"
+title: "S715001200 PLC PID整定调试总结"
 date:   2024-06-10
 tags: [PID,整定,调试,S7,1500]
 comments: true

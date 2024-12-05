@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RestSharp 帮助类"
+title: "C RestSharp 帮助类"
 date:   2022-11-11
 tags: [帮助,请求,RestSharp,response,C#]
 comments: true

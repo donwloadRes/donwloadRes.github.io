@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO V3.0 规范文档"
+title: "SDIO V30 规范文档"
 date:   2020-06-05
 tags: [SDIO,文档,SD,V3.0,规范]
 comments: true

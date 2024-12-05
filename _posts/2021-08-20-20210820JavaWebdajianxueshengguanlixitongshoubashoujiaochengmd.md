@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb搭建学生管理系统（手把手教程）"
+title: "JavaWeb搭建学生管理系统手把手教程"
 date:   2024-10-30
 tags: [JavaWeb,Servlet,学生,管理系统,数据库]
 comments: true

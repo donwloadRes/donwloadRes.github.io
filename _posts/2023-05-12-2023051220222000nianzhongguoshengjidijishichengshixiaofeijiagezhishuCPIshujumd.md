@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022-2000年中国省级、地级市城市消费价格指数（CPI）数据"
+title: "20222000年中国省级地级市城市消费价格指数CPI数据"
 date:   2024-06-10
 tags: [2022,CPI,2000,数据,省级]
 comments: true

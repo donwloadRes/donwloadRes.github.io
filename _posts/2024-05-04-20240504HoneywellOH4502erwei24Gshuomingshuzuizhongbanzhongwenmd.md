@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Honeywell OH4502 二维2.4G说明书（最终版）中文"
+title: "Honeywell OH4502 二维24G说明书最终版中文"
 date:   2023-05-25
 tags: [2.4,Honeywell,OH4502,二维,最终版]
 comments: true

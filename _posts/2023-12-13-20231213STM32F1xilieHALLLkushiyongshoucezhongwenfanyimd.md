@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1系列HAL&LL库使用手册（中文翻译）"
+title: "STM32F1系列HALLL库使用手册中文翻译"
 date:   2022-06-04
 tags: [STM32F1,HAL,LL,使用手册,中文翻译]
 comments: true

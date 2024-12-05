@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非标设备接入GB28181平台（C语言代码实现，附带测试库）"
+title: "非标设备接入GB28181平台C语言代码实现附带测试库"
 date:   2022-08-04
 tags: [GB28181,设备,C语言,代码,接入]
 comments: true

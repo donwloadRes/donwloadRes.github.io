@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【ESP32Arduino+MPU6050姿态解算】自制无人机学习笔记2 PLatformIO 下载即可使用"
+title: "ESP32ArduinoMPU6050姿态解算自制无人机学习笔记2 PLatformIO 下载即可使用"
 date:   2023-04-12
 tags: [ESP32,无人机,MPU6050,解算,姿态]
 comments: true

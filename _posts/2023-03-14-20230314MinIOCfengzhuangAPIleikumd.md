@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinIO C# 封装API类库"
+title: "MinIO C 封装API类库"
 date:   2024-07-30
 tags: [MinIO,C#,API,类库,minioClient]
 comments: true

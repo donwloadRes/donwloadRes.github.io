@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NIQE-Matlab源代码"
+title: "NIQEMatlab源代码"
 date:   2024-01-14
 tags: [NIQE,Matlab,算法,源代码,图像]
 comments: true

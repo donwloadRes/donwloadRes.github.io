@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dsoframer.ocx控件最新版支持Office 2016"
+title: "dsoframerocx控件最新版支持Office 2016"
 date:   2024-12-04
 tags: [控件,dsoframer,ocx,Office,2016]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统概念第六版答案（覆盖全）"
+title: "数据库系统概念第六版答案覆盖全"
 date:   2021-08-29
 tags: [答案,数据库系统,第六版,习题,大家]
 comments: true

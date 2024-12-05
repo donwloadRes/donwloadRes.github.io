@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锂电池MATLAB-Simulink建模与仿真"
+title: "锂电池MATLABSimulink建模与仿真"
 date:   2020-12-23
 tags: [仿真,Simulink,锂电池,MATLAB,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在云服务器上运行深度学习代码？(以ResNet50为例)"
+title: "如何在云服务器上运行深度学习代码以ResNet50为例"
 date:   2020-01-11
 tags: [ResNet50,服务器,深度,学习,代码]
 comments: true

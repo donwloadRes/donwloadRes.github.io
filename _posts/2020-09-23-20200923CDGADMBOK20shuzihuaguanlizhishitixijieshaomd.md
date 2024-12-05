@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CDGA&DMBOK2.0 数字化管理知识体系介绍"
+title: "CDGADMBOK20 数字化管理知识体系介绍"
 date:   2021-03-14
 tags: [CDGA,数字化,认证,考取,管理]
 comments: true

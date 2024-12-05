@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#+WPF上位机开发课程（模块化与反应式编程）"
+title: "CWPF上位机开发课程模块化与反应式编程"
 date:   2024-05-19
 tags: [WPF,编程,反应式,C#,上位]
 comments: true

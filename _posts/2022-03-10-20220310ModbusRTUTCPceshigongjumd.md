@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus RTU-TCP测试工具"
+title: "Modbus RTUTCP测试工具"
 date:   2023-03-19
 tags: [Modbus,RTU,TCP,测试,测试工具]
 comments: true

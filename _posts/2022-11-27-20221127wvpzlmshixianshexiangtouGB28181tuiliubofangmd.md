@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wvp+zlm实现摄像头GB28181推流播放"
+title: "wvpzlm实现摄像头GB28181推流播放"
 date:   2023-05-06
 tags: [推流,摄像头,wvp,zlm,GB28181]
 comments: true

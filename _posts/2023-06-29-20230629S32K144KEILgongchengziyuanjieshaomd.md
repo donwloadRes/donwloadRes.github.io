@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32K144-KEIL 工程资源介绍"
+title: "S32K144KEIL 工程资源介绍"
 date:   2022-03-23
 tags: [编译,S32K144,开发板,KEIL5,版本]
 comments: true

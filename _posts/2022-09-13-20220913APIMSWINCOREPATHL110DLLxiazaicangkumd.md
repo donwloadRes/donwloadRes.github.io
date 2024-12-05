@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "API-MS-WIN-CORE-PATH-L1-1-0.DLL 下载仓库"
+title: "APIMSWINCOREPATHL110DLL 下载仓库"
 date:   2022-10-13
 tags: [文件,api,ms,win,core]
 comments: true

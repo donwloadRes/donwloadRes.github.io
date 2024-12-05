@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D ShaderLab开发实战详解PDF+源码"
+title: "Unity3D ShaderLab开发实战详解PDF源码"
 date:   2023-10-07
 tags: [PDF,源码,ShaderLab,Unity3D,文档]
 comments: true

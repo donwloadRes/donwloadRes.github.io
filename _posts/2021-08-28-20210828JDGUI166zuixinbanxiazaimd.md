@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JD-GUI 1.6.6 最新版下载"
+title: "JDGUI 166 最新版下载"
 date:   2024-08-08
 tags: [JD,GUI,1.6,反编译,最新版]
 comments: true

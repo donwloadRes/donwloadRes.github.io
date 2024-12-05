@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算器（加减乘除，数码管）Proteus仿真资源下载"
+title: "计算器加减乘除数码管Proteus仿真资源下载"
 date:   2022-10-19
 tags: [Proteus,仿真,计算器,数码管,加减乘除]
 comments: true

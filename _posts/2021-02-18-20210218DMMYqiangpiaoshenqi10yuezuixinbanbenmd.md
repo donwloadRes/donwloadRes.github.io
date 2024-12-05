@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DM+MY抢票神器 - 10月最新版本"
+title: "DMMY抢票神器  10月最新版本"
 date:   2020-02-14
 tags: [滑块,抢票,10,加密,版本]
 comments: true

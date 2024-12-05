@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning 调优实战手册（中译版）"
+title: "Deep Learning 调优实战手册中译版"
 date:   2021-11-09
 tags: [调优,Deep,Learning,翻译,中文翻译]
 comments: true

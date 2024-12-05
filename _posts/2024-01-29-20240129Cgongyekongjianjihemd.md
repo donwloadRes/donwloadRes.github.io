@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 工业控件集合"
+title: "C 工业控件集合"
 date:   2021-05-10
 tags: [控件,thermometer,温度计,自定义,窗体]
 comments: true

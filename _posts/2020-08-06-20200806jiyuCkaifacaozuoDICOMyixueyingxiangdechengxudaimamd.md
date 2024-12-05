@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#开发操作DICOM医学影像的程序代码"
+title: "基于C开发操作DICOM医学影像的程序代码"
 date:   2020-04-20
 tags: [DICOM,医学影像,代码,VS2010,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口驱动程序 6.9 下载"
+title: "虚拟串口驱动程序 69 下载"
 date:   2024-06-14
 tags: [串口,6.9,软件,虚拟,下载]
 comments: true

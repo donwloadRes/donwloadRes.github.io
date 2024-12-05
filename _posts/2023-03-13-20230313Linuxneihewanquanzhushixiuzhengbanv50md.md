@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核完全注释(修正版v5.0)"
+title: "Linux内核完全注释修正版v50"
 date:   2021-10-12
 tags: [Linux,内核,注释,修正版,v5.0]
 comments: true

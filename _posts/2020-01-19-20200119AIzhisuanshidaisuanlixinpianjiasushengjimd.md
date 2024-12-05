@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI智算时代：算力芯片加速升级"
+title: "AI智算时代算力芯片加速升级"
 date:   2022-12-19
 tags: [AI,算力,芯片,智算,GPU]
 comments: true

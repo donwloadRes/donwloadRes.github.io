@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF自定义漂亮顶部工具栏 - 打造精致用户界面"
+title: "WPF自定义漂亮顶部工具栏  打造精致用户界面"
 date:   2021-07-12
 tags: [工具栏,用户,WPF,顶部,应用]
 comments: true

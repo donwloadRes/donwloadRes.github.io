@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Enterprise Linux 7.9 下载资源介绍"
+title: "Red Hat Enterprise Linux 79 下载资源介绍"
 date:   2020-05-22
 tags: [Red,Hat,Linux,Enterprise,7.9]
 comments: true

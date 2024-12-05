@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达数据处理及应用（何友主编）资源下载"
+title: "雷达数据处理及应用何友主编资源下载"
 date:   2020-01-05
 tags: [数据处理,雷达,何友,应用,主编]
 comments: true

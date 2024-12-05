@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB蔡氏混沌电路仿真代码：忆阻器仿真通过MATLAB"
+title: "MATLAB蔡氏混沌电路仿真代码忆阻器仿真通过MATLAB"
 date:   2023-02-09
 tags: [阻器,MATLAB,电阻,电荷,代码]
 comments: true

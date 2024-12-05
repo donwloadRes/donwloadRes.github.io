@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103读取AT9S乐迪航模遥控器控制C620电调和M3508电机（CAN版本）"
+title: "STM32F103读取AT9S乐迪航模遥控器控制C620电调和M3508电机CAN版本"
 date:   2024-09-15
 tags: [遥控器,STM32F103,AT9S,乐迪,C620]
 comments: true

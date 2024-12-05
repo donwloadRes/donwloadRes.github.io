@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 16.6 培训教程（中文版）简体 PDF 下载"
+title: "Allegro 166 培训教程中文版简体 PDF 下载"
 date:   2021-03-20
 tags: [Allegro,教程,简体,中文版,培训]
 comments: true

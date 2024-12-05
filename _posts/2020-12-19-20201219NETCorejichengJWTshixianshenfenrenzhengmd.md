@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core 集成 JWT 实现身份认证"
+title: "NET Core 集成 JWT 实现身份认证"
 date:   2021-02-20
 tags: [JWT,NET,Core,集成,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "透视自瞄代码C-C++矩阵透视"
+title: "透视自瞄代码CC矩阵透视"
 date:   2024-03-18
 tags: [透视,代码,C++,矩阵,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMP项目管理模板（全套157个文档）"
+title: "PMP项目管理模板全套157个文档"
 date:   2022-03-04
 tags: [项目管理,文档,157,模板,PMP]
 comments: true

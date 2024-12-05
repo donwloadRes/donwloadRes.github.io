@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5236-2004军用软件质量度量资源文件下载"
+title: "GJB 52362004军用软件质量度量资源文件下载"
 date:   2020-03-22
 tags: [软件,度量,质量,军用,文件]
 comments: true

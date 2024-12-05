@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始构建ORB-SLAM2：Pangolin v0.5的安装指南"
+title: "从零开始构建ORBSLAM2Pangolin v05的安装指南"
 date:   2024-08-26
 tags: [dev,Pangolin,sudo,apt,install]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt VS Add-in for MSVC 2015 版本 2.7.2 修订版 02"
+title: "Qt VS Addin for MSVC 2015 版本 272 修订版 02"
 date:   2020-07-27
 tags: [Qt,2.7,Visual,Studio,2015]
 comments: true

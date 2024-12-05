@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无人机目标检测与跟踪数据集（UAVDT）"
+title: "无人机目标检测与跟踪数据集UAVDT"
 date:   2021-02-06
 tags: [无人机,UAVDT,目标,跟踪,检测]
 comments: true

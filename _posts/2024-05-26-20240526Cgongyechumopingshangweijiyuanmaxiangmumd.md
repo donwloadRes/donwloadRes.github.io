@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#工业触摸屏上位机源码项目"
+title: "C工业触摸屏上位机源码项目"
 date:   2024-02-11
 tags: [PLC,项目,通信,设定,触摸屏]
 comments: true

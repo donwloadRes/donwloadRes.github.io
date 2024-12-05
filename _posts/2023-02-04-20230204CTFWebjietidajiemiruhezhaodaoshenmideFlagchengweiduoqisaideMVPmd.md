@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF Web解题大解密：如何找到神秘的Flag，成为夺旗赛的MVP"
+title: "CTF Web解题大解密如何找到神秘的Flag成为夺旗赛的MVP"
 date:   2023-09-01
 tags: [Web,CTF,解题,Flag,解题技巧]
 comments: true

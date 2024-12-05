@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.8.0 全功能动态库下载"
+title: "OpenCV 480 全功能动态库下载"
 date:   2020-02-19
 tags: [OpenCV,4.8,动态,模块,32]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "64位 Oracle Data Access Components (ODAC) 资源文件下载"
+title: "64位 Oracle Data Access Components ODAC 资源文件下载"
 date:   2021-12-23
 tags: [ODAC,Oracle,64,数据库,Data]
 comments: true

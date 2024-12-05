@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HASP-HL 3.25 驱动程序"
+title: "HASPHL 325 驱动程序"
 date:   2022-01-30
 tags: [HASP,Windows,HL,驱动程序,安装]
 comments: true

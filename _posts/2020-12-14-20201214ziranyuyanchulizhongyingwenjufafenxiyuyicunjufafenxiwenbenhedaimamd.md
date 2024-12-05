@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理：中英文句法分析与依存句法分析——文本和代码"
+title: "自然语言处理中英文句法分析与依存句法分析文本和代码"
 date:   2020-07-18
 tags: [句法分析,依存,StanfordCoreNLP,nlp,sentence]
 comments: true

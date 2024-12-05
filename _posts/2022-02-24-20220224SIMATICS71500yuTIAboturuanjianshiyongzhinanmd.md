@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMATIC S7-1500与TIA博途软件使用指南"
+title: "SIMATIC S71500与TIA博途软件使用指南"
 date:   2024-11-05
 tags: [1500,TIA,博途,SIMATIC,S7]
 comments: true

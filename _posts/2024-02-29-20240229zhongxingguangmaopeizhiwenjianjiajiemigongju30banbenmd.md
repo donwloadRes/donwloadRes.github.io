@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴光猫配置文件加解密工具3.0版本"
+title: "中兴光猫配置文件加解密工具30版本"
 date:   2024-05-30
 tags: [文件名,配置文件,解密,cfg,加密]
 comments: true

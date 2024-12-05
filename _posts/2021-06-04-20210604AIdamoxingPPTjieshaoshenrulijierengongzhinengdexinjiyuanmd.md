@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI大模型PPT介绍 - 深入理解人工智能的新纪元"
+title: "AI大模型PPT介绍  深入理解人工智能的新纪元"
 date:   2021-08-17
 tags: [AI,模型,PPT,人工智能,理解]
 comments: true

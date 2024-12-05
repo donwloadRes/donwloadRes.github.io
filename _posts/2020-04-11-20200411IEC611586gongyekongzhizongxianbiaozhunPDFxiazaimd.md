@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61158-6工业控制总线标准PDF下载"
+title: "IEC 611586工业控制总线标准PDF下载"
 date:   2022-09-28
 tags: [总线,IEC,61158,PDF,工业]
 comments: true

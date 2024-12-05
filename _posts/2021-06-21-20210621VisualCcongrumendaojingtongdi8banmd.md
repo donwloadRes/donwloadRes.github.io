@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C#从入门到精通 - 第8版"
+title: "Visual C从入门到精通  第8版"
 date:   2024-01-24
 tags: [C#,Visual,2015,开发者,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "表面肌电信号（EMG）采集与预处理"
+title: "表面肌电信号EMG采集与预处理"
 date:   2021-08-29
 tags: [EMG,信号,预处理,电信号,采集]
 comments: true

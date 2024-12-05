@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ncnn-Android-YOLOv5 工程文件"
+title: "ncnnAndroidYOLOv5 工程文件"
 date:   2023-06-19
 tags: [Android,ncnn,YOLOv5,文件,android]
 comments: true

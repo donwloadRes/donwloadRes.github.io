@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++安防视频监控系统"
+title: "QtC安防视频监控系统"
 date:   2024-05-15
 tags: [视频,监控,系统,安防,支持]
 comments: true

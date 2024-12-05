@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "速印标签条码打印软件 v5.20 下载"
+title: "速印标签条码打印软件 v520 下载"
 date:   2023-03-18
 tags: [数据源,标签,打印,条码,修正]
 comments: true

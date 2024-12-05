@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "专业Delphi反编译工具(DeDeDark) 3.50.4 超强修改版"
+title: "专业Delphi反编译工具DeDeDark 3504 超强修改版"
 date:   2020-03-08
 tags: [Delphi,反编译,工具,DeDeDark,3.50]
 comments: true

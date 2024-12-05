@@ -1,6 +1,30 @@
 ---
 layout: post
-title: "解决新装Win10 LTSC 2021 x64后wsappx占用CPU高"
+title: "解决新装Win10 LTSC 2021 x64后wsappx占用CPU高
+date   20231001
+tags x64wsappxCPU运行库文件
+comments true
+author admin
+
+ 解决新装Win10 LTSC 2021 x64后wsappx占用CPU高
+
+ 简介
+
+本仓库提供了一个资源文件用于解决在新安装的Windows 10 LTSC 2021 x64系统中wsappx进程占用CPU过高的问题该问题通常是由于系统缺少必要的运行库文件导致的
+
+ 问题描述
+
+在安装Windows 10 LTSC 2021 x64系统后用户可能会发现wsappx进程占用CPU资源过高导致系统运行缓慢风扇持续高速运转这通常是由于系统缺少Microsoft VCLibs 14000运行库文件所致
+
+ 解决方案
+
+通过安装缺失的运行库文件可以有效解决wsappx进程占用CPU过高的问题本仓库提供的资源文件包含了所需的运行库文件用户只需按照以下步骤操作即可
+
+1 下载本仓库中的资源文件
+2 以管理员身份运行PowerShell
+3 运行以下命令安装运行库文件
+   powershell
+   AddAppxPackage Path 路径MicrosoftVCLibs14000140307040x648wekyb3d8bbweAppx"
 date:   2023-10-01
 tags: [x64,wsappx,CPU,运行库,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mastercam 2024程序单（三视图高级版） - Excel与WPS通用模板"
+title: "Mastercam 2024程序单三视图高级版  Excel与WPS通用模板"
 date:   2024-04-17
 tags: [模板,WPS,Excel,三视图,程序]
 comments: true

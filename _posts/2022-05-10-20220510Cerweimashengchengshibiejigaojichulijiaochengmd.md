@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 二维码生成、识别及高级处理教程"
+title: "C 二维码生成识别及高级处理教程"
 date:   2023-04-24
 tags: [二维码,C#,NET,生成,识别]
 comments: true

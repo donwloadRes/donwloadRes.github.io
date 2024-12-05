@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "竹林蹊径：深入浅出Windows驱动开发(高清完整版)"
+title: "竹林蹊径深入浅出Windows驱动开发高清完整版"
 date:   2024-04-02
 tags: [Windows,深入浅出,驱动,完整版,蹊径]
 comments: true

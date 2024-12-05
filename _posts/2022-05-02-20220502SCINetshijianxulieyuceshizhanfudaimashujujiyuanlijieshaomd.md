@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCINet时间序列预测实战(附代码+数据集+原理介绍）"
+title: "SCINet时间序列预测实战附代码数据集原理介绍"
 date:   2021-03-05
 tags: [SCINet,序列,预测,模型,代码]
 comments: true

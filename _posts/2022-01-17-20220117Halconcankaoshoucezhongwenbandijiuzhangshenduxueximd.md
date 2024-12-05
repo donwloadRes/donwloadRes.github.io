@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon参考手册中文版 - 第九章：深度学习"
+title: "Halcon参考手册中文版  第九章深度学习"
 date:   2022-03-10
 tags: [参考手册,Halcon,图像,学习,像素]
 comments: true

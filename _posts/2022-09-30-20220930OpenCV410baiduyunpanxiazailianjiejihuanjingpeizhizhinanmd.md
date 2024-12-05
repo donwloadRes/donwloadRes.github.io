@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.1.0 百度云盘下载链接及环境配置指南"
+title: "OpenCV 410 百度云盘下载链接及环境配置指南"
 date:   2024-06-19
 tags: [OpenCV,4.1,下载,目录,配置]
 comments: true

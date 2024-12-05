@@ -1,6 +1,23 @@
 ---
 layout: post
-title: "MySQL ODBC 驱动程序（64位）下载"
+title: "MySQL ODBC 驱动程序64位下载
+date   20231212
+tags 连接MySQLODBC驱动程序64
+comments true
+author admin
+
+ MySQL ODBC 驱动程序64位下载
+
+ 描述
+
+本仓库提供了一个用于ASP连接MySQL的ODBC驱动程序适用于64位Windows系统ASP连接SQL Server时可以使用自带的ODBC驱动但连接MySQL时必须安装相应的ODBC驱动此资源文件为ODBC 52版本的64位驱动程序
+
+安装并配置系统DSN后您可以使用以下代码轻松连接到MySQL数据库
+
+asp
+
+set connServerCreateobjectadodbConnection
+strdsnconnDrivermysql driverserver127001uidrootpwd123456databasetest"
 date:   2023-12-12
 tags: [连接,MySQL,ODBC,驱动程序,64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端页面二手书籍交易平台-源代码"
+title: "前端页面二手书籍交易平台源代码"
 date:   2021-02-25
 tags: [书籍,项目,二手,文档,源代码]
 comments: true

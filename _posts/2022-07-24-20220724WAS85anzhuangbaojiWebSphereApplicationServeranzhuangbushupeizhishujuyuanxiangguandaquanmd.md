@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WAS8.5安装包及WebSphere Application Server安装、部署、配置数据源相关大全"
+title: "WAS85安装包及WebSphere Application Server安装部署配置数据源相关大全"
 date:   2023-07-07
 tags: [WAS8.5,数据源,安装,安装包,应用程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惠普打印机最全PPD文件（7-10）"
+title: "惠普打印机最全PPD文件710"
 date:   2024-03-15
 tags: [hp,officejet,laserjet,professional,series]
 comments: true

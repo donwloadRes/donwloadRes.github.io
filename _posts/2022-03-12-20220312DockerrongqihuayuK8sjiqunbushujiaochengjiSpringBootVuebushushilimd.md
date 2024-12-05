@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker容器化与K8s集群部署教程及SpringBoot+Vue部署示例"
+title: "Docker容器化与K8s集群部署教程及SpringBootVue部署示例"
 date:   2020-06-20
 tags: [k8s,Docker,集群,SpringBoot,Vue]
 comments: true

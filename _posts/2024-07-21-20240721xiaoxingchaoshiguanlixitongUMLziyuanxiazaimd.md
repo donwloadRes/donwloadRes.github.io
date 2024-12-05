@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "小型超市管理系统UML资源下载"
+title: "小型超市管理系统UML资源下载
+date   20231009
+tags UML管理系统超市建模小型
+comments true
+author admin
+
+
+layout post
+title 小型超市管理系统UML资源下载"
 date:   2023-10-09
 tags: [UML,管理系统,超市,建模,小型]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "小型超市管理系统UML资源下载"
+title: "小型超市管理系统UML资源下载
+date   20231009
+tags UML管理系统超市建模小型
+comments true
+author admin
+
+
+layout post
+title 小型超市管理系统UML资源下载"
 date:   2024-12-02
 tags: [UML,管理系统,超市,建模,小型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32结合DHT11-SHT30温湿度监测项目"
+title: "ESP32结合DHT11SHT30温湿度监测项目"
 date:   2021-02-05
 tags: [ESP32,温湿度,传感器,DHT11,SHT30]
 comments: true

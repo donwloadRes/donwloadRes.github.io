@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC统一架构高清完整中文版.pdf"
+title: "OPC统一架构高清完整中文版pdf"
 date:   2023-11-21
 tags: [OPC,UA,架构,高清,文档]
 comments: true

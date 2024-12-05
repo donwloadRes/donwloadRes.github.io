@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gradle-7.4-all.zip 纯净版下载"
+title: "gradle74allzip 纯净版下载"
 date:   2022-01-04
 tags: [Gradle,gradle,7.4,版本,下载]
 comments: true

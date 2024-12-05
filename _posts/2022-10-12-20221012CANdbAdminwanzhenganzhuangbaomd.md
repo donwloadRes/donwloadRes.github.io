@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANdb++Admin完整安装包"
+title: "CANdbAdmin完整安装包"
 date:   2023-01-23
 tags: [DBC,安装包,CANdb,++,Admin]
 comments: true

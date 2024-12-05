@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高光谱工具箱（Matlab版）"
+title: "高光谱工具箱Matlab版"
 date:   2022-11-22
 tags: [工具箱,光谱,Matlab,用户,数据]
 comments: true

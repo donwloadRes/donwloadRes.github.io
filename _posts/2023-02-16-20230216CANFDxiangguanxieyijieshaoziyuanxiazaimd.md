@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN-FD相关协议介绍资源下载"
+title: "CANFD相关协议介绍资源下载"
 date:   2020-09-08
 tags: [FD,协议,文件,pdf,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB高阶累积量工具箱 (HOSA Toolbox)"
+title: "MATLAB高阶累积量工具箱 HOSA Toolbox"
 date:   2024-01-21
 tags: [MATLAB,工具箱,高阶,累积,信号]
 comments: true

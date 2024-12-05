@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bee-Box 虚拟机下载及安装指南"
+title: "BeeBox 虚拟机下载及安装指南"
 date:   2022-06-25
 tags: [虚拟机,Bee,Box,漏洞,Web]
 comments: true

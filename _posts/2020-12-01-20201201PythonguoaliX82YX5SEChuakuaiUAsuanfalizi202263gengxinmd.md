@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python过阿里X82YX5SEC滑块UA算法例子（2022.6.3更新）"
+title: "Python过阿里X82YX5SEC滑块UA算法例子202263更新"
 date:   2023-03-29
 tags: [Python,滑块,代码,算法,阿里]
 comments: true

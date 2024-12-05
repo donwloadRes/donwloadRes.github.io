@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HIL+G29驾驶员在环仿真资源文件介绍"
+title: "HILG29驾驶员在环仿真资源文件介绍"
 date:   2021-08-04
 tags: [仿真,G29,驾驶员,HIL,文件]
 comments: true

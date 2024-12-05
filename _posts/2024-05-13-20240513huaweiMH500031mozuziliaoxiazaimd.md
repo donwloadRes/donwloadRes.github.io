@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为MH5000-31模组资料下载"
+title: "华为MH500031模组资料下载"
 date:   2024-04-10
 tags: [模组,MH5000,31,华为,资料]
 comments: true

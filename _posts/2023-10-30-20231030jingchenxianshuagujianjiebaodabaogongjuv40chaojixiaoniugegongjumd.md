@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "晶晨线刷固件解包打包工具 v4.0 - 超级小牛哥工具"
+title: "晶晨线刷固件解包打包工具 v40  超级小牛哥工具"
 date:   2020-04-29
 tags: [工具,解包,固件,v4.0,打包]
 comments: true

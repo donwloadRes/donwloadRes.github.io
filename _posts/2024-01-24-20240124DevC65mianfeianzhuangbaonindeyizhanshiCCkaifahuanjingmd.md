@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev-C++ 6.5 免费安装包 - 您的一站式C-C++开发环境"
+title: "DevC 65 免费安装包  您的一站式CC开发环境"
 date:   2024-05-03
 tags: [C++,Dev,下载,调试器,开发]
 comments: true

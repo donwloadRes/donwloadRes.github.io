@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT安装和使用教程【图文并茂】"
+title: "SecureCRT安装和使用教程图文并茂"
 date:   2024-06-06
 tags: [SecureCRT,安装,教程,文件,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android串口通信助手（ComAssistant）"
+title: "Android串口通信助手ComAssistant"
 date:   2024-03-25
 tags: [串口,Android,通信,波特率,源码]
 comments: true

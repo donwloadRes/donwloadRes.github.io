@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 蓝牙文件传输 DEMO"
+title: "C 蓝牙文件传输 DEMO"
 date:   2021-03-17
 tags: [蓝牙,C#,设备,文件传输,文件]
 comments: true

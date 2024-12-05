@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA Verilog 串口收发+流水灯程序"
+title: "FPGA Verilog 串口收发流水灯程序"
 date:   2022-12-09
 tags: [串口,FPGA,程序,收发,流水]
 comments: true

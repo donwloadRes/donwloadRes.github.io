@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始深度学习0602——caffe 解决安装报错问题"
+title: "从零开始深度学习0602caffe 解决安装报错问题"
 date:   2023-07-04
 tags: [Caffe,报错,安装,文件,DLL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python编程入门经典.pdf"
+title: "Python编程入门经典pdf"
 date:   2022-04-03
 tags: [Python,编程,入门,pdf,学习]
 comments: true

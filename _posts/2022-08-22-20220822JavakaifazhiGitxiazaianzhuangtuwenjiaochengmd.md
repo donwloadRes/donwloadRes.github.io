@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java开发之——Git下载安装图文教程"
+title: "Java开发之Git下载安装图文教程"
 date:   2022-11-15
 tags: [Git,安装,教程,配置,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机课程设计-IP数据包解析"
+title: "计算机课程设计IP数据包解析"
 date:   2022-11-13
 tags: [IP,数据包,学习者,解析,程序]
 comments: true

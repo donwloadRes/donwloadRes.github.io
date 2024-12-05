@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谢菲尔德遗传算法工具箱下载（免费）"
+title: "谢菲尔德遗传算法工具箱下载免费"
 date:   2024-09-09
 tags: [遗传算法,工具箱,谢菲尔德,下载,文件]
 comments: true

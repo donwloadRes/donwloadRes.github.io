@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64 - 适用于32位和64位Windows的C语言开发环境"
+title: "MinGWw64  适用于32位和64位Windows的C语言开发环境"
 date:   2021-01-12
 tags: [MinGW,w64,C语言,开发,Windows]
 comments: true

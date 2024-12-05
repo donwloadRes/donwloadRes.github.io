@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue校园管理系统答辩PPT"
+title: "SpringBootVue校园管理系统答辩PPT"
 date:   2024-05-19
 tags: [PPT,答辩,SpringBoot,Vue,管理系统]
 comments: true

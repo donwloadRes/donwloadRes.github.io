@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速安装Eclipse（无需配置环境变量）"
+title: "快速安装Eclipse无需配置环境变量"
 date:   2020-12-26
 tags: [Eclipse,安装,环境变量,无需,配置]
 comments: true

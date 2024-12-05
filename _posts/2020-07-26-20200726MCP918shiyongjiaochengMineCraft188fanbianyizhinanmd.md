@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCP918 使用教程：MineCraft 1.8.8 反编译指南"
+title: "MCP918 使用教程MineCraft 188 反编译指南"
 date:   2021-05-11
 tags: [反编译,MineCraft,MCP918,教程,1.8]
 comments: true

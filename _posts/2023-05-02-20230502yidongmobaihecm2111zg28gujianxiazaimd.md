@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动魔百盒cm211-1-zg(2+8)固件下载"
+title: "移动魔百盒cm2111zg28固件下载"
 date:   2022-02-10
 tags: [固件,芯片,魔百盒,cm211,zg]
 comments: true

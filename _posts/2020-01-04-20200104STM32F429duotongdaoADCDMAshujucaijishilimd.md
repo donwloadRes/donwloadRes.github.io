@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F429 多通道ADC+DMA数据采集示例"
+title: "STM32F429 多通道ADCDMA数据采集示例"
 date:   2021-10-26
 tags: [ADC,DMA,示例,数据,STM32F429]
 comments: true

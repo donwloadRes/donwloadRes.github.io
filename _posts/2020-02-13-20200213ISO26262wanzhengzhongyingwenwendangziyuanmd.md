@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-26262 完整中英文文档资源"
+title: "ISO26262 完整中英文文档资源"
 date:   2024-09-16
 tags: [ISO,26262,文档,功能,汽车]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP ASAP 项目实施方法论-详细节点介绍"
+title: "SAP ASAP 项目实施方法论详细节点介绍"
 date:   2022-05-27
 tags: [SAP,ASAP,实施,方法论,节点]
 comments: true

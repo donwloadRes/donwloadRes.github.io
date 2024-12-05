@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据资产梳理方案（实施版）"
+title: "数据资产梳理方案实施版"
 date:   2023-04-04
 tags: [资产,梳理,数据,方案,提供]
 comments: true

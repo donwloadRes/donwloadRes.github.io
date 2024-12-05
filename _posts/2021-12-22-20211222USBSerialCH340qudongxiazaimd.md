@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-Serial CH340 驱动下载"
+title: "USBSerial CH340 驱动下载"
 date:   2023-11-23
 tags: [驱动程序,USB,CH340,Serial,Linux]
 comments: true

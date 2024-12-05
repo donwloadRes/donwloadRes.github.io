@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HashVerification哈希值校验工具V1.1"
+title: "HashVerification哈希值校验工具V11"
 date:   2020-06-08
 tags: [校验,哈希,算法,文件,工具]
 comments: true

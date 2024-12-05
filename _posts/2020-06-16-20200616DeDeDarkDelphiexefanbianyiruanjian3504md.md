@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeDeDark Delphi exe 反编译软件 3.50.4"
+title: "DeDeDark Delphi exe 反编译软件 3504"
 date:   2021-01-23
 tags: [反编译,Delphi,DeDeDark,代码,汇编]
 comments: true

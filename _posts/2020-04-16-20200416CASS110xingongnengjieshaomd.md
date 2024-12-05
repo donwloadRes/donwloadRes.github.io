@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASS11.0新功能介绍"
+title: "CASS110新功能介绍"
 date:   2020-03-17
 tags: [土方,CASS11.0,功能,效率,安装]
 comments: true

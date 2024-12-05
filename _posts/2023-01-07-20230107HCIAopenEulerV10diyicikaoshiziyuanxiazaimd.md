@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-openEuler V1.0 第一次考试资源下载"
+title: "HCIAopenEuler V10 第一次考试资源下载"
 date:   2020-01-16
 tags: [考试,HCIA,下载,资源,openEuler]
 comments: true

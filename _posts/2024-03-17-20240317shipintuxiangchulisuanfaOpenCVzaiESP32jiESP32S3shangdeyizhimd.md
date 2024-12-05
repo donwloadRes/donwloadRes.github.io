@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频图像处理算法OpenCV在ESP32及ESP32-S3上的移植"
+title: "视频图像处理算法OpenCV在ESP32及ESP32S3上的移植"
 date:   2020-05-07
 tags: [ESP32,S3,开发板,OpenCV,WiFi]
 comments: true

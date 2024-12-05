@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "流体力学（国科大教材）初稿下载"
+title: "流体力学国科大教材初稿下载"
 date:   2022-01-30
 tags: [流体力学,教材,初稿,科大,下载]
 comments: true

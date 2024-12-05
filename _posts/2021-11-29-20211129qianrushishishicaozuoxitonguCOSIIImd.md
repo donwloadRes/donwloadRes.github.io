@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式实时操作系统uC-OS III"
+title: "嵌入式实时操作系统uCOS III"
 date:   2021-04-30
 tags: [嵌入式,uC,OS,III,实时操作系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jython 2.7.2 安装包免费下载"
+title: "Jython 272 安装包免费下载"
 date:   2020-05-08
 tags: [Jython,2.7,Java,Python,安装包]
 comments: true

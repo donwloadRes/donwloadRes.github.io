@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Enterprise Linux 9.3 虚拟机安装教程"
+title: "Red Hat Enterprise Linux 93 虚拟机安装教程"
 date:   2022-08-23
 tags: [安装,教程,Linux,虚拟机,Red]
 comments: true

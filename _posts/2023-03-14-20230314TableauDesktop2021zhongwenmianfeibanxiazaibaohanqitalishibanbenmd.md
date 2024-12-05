@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tableau Desktop 2021中文免费版下载（包含其它历史版本）"
+title: "Tableau Desktop 2021中文免费版下载包含其它历史版本"
 date:   2024-11-28
 tags: [Tableau,Desktop,版本,免费版,中文]
 comments: true

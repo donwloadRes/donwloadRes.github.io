@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博科（Brocade Fabric）交换机培训文档与操作手册"
+title: "博科Brocade Fabric交换机培训文档与操作手册"
 date:   2023-06-27
 tags: [交换机,博科,文档,操作手册,配置]
 comments: true

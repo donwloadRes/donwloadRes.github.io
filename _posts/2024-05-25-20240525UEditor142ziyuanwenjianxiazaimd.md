@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UEditor1.4.2 资源文件下载"
+title: "UEditor142 资源文件下载"
 date:   2021-10-09
 tags: [UEditor1.4,UEditor,文件,下载,项目]
 comments: true

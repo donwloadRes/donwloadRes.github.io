@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TYPE-C CC功能详细介绍"
+title: "TYPEC CC功能详细介绍"
 date:   2020-02-11
 tags: [TYPE,接口,CC,功能,引脚]
 comments: true

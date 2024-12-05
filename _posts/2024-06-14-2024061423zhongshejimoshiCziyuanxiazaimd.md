@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "23种设计模式 C++ 资源下载"
+title: "23种设计模式 C 资源下载"
 date:   2020-08-04
 tags: [设计模式,C++,23,资源,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 自定义表单设计器"
+title: "C Winform 自定义表单设计器"
 date:   2020-05-01
 tags: [表单,设计,自定义,Xml,控件]
 comments: true

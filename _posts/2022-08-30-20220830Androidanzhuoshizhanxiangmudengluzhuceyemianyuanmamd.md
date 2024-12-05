@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android安卓实战项目：登陆注册页面源码"
+title: "Android安卓实战项目登陆注册页面源码"
 date:   2021-08-16
 tags: [Android,项目,源码,登录,页面]
 comments: true

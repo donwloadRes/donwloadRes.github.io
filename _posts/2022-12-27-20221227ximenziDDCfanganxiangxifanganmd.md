@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子DDC方案（详细方案）"
+title: "西门子DDC方案详细方案"
 date:   2022-11-06
 tags: [系统,功能,设计,介绍,DDC]
 comments: true

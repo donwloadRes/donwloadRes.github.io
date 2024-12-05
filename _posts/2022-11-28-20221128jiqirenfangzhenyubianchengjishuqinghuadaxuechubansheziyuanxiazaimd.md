@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人仿真与编程技术》清华大学出版社 资源下载"
+title: "机器人仿真与编程技术清华大学出版社 资源下载"
 date:   2024-11-20
 tags: [机器人,仿真,编程技术,MATLAB,本书]
 comments: true

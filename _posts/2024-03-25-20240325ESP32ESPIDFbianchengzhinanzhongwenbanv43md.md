@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 ESP-IDF 编程指南中文版 v4.3"
+title: "ESP32 ESPIDF 编程指南中文版 v43"
 date:   2022-09-26
 tags: [ESP32,IDF,ESP,编程,指南]
 comments: true

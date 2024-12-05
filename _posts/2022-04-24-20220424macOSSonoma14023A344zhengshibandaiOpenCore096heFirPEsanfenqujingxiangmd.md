@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS Sonoma 14.0(23A344) 正式版带 OpenCore 0.9.6 和 FirPE 三分区镜像"
+title: "macOS Sonoma 14023A344 正式版带 OpenCore 096 和 FirPE 三分区镜像"
 date:   2022-10-06
 tags: [macOS,Sonoma,OpenCore,FirPE,镜像]
 comments: true

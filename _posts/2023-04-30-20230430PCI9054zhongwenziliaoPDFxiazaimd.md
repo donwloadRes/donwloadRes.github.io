@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI9054中文资料（PDF）下载"
+title: "PCI9054中文资料PDF下载"
 date:   2020-02-12
 tags: [PCI9054,PDF,中文,手册,模式]
 comments: true

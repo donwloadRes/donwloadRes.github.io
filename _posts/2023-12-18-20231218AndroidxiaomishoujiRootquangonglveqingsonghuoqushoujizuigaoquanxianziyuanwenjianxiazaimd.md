@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android小米手机 Root全攻略：轻松获取手机最高权限 资源文件下载"
+title: "Android小米手机 Root全攻略轻松获取手机最高权限 资源文件下载"
 date:   2024-08-13
 tags: [Root,Android,小米,手机,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件系统设计技术方案（解决方案）"
+title: "软件系统设计技术方案解决方案"
 date:   2023-07-19
 tags: [多媒体,系统,技术,方案,确保]
 comments: true

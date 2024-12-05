@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8370(M) 数据手册与应用电路资源"
+title: "RTL8370M 数据手册与应用电路资源"
 date:   2023-08-12
 tags: [RTL8370,RTL8370M,端口,集成,SRAM]
 comments: true

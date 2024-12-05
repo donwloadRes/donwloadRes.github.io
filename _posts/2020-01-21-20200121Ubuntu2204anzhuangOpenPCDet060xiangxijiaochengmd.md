@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04 安装 OpenPCDet 0.6.0 详细教程"
+title: "Ubuntu 2204 安装 OpenPCDet 060 详细教程"
 date:   2022-08-27
 tags: [安装,教程,OpenPCDet,CUDA,Ubuntu]
 comments: true

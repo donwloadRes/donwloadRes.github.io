@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink-Stateflow 入门教程资源下载"
+title: "SimulinkStateflow 入门教程资源下载"
 date:   2024-07-26
 tags: [Stateflow,Simulink,教程,入门教程,基本操作]
 comments: true

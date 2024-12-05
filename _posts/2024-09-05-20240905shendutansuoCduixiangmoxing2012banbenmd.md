@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度探索C++对象模型（2012版本）"
+title: "深度探索C对象模型2012版本"
 date:   2023-09-28
 tags: [C++,对象,模型,2012,编译器]
 comments: true

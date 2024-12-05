@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 深入理解 第四版 全彩带书签 2019最新版"
+title: "C 深入理解 第四版 全彩带书签 2019最新版"
 date:   2023-10-19
 tags: [C#,2019,书签,最新版,编程语言]
 comments: true

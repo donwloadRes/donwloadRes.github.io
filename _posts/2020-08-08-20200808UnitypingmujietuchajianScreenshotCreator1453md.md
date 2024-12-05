@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity屏幕截图插件Screenshot Creator 1.4.5.3"
+title: "Unity屏幕截图插件Screenshot Creator 1453"
 date:   2020-08-18
 tags: [插件,Unity,截图,屏幕,5.3]
 comments: true

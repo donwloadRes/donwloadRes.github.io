@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origin绘制箱线图（箱型图）方法汇总"
+title: "Origin绘制箱线图箱型图方法汇总"
 date:   2021-12-12
 tags: [Origin,线图,数据,绘制,图表]
 comments: true

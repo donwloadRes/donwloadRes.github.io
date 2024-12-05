@@ -1,6 +1,48 @@
 ---
 layout: post
-title: "使用OpenCV调用EAST模型进行文字检测"
+title: "使用OpenCV调用EAST模型进行文字检测
+date   20210715
+tags OpenCVEAST模型检测代码
+comments true
+author admin
+
+ 使用OpenCV调用EAST模型进行文字检测
+
+本仓库提供了完整的指南和代码示例帮助开发者利用OpenCV框架集成EASTEfficient and Accurate Scene Text Detector模型实现对图像中的文字进行高效检测EAST是一种先进的场景文本检测算法以其准确性与速度著称
+
+ 内容概览
+
+ 简介 介绍如何使用OpenCV与EAST模型结合实现文字检测功能
+ 环境需求 Python与OpenCV环境以及可选的imutils库
+ 模型下载 指明了预训练的EAST模型文件获取途径
+ 代码示例 包含Python和C两种语言的详细代码实现
+ 操作步骤 从环境配置到运行代码的全程指导
+
+ 环境配置
+
+ Python环境 需要Python环境并通过pip安装OpenCV pip install opencvpython 和 imutils pip install imutils
+ C环境 确保已安装OpenCV库并设置好相应路径
+
+ 下载模型
+
+ 请访问提供的链接下载EAST文本检测模型文件提取码为479j
+
+ 示例代码
+
+ Python示例
+
+python
+from imutilsobjectdetection import nonmaxsuppression
+import numpy as np
+import argparse
+import cv2
+
+ 设置参数与加载模型图像
+ 实际使用中需替换modelpath和imagepath为本地路径
+width height  320 320
+minconfidence  05
+modelpath  frozeneasttextdetectionpb
+imagepath  1jpg"
 date:   2021-07-15
 tags: [OpenCV,EAST,模型,检测,代码]
 comments: true

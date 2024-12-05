@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算流体力学基础及其应用 - 中文译版下载"
+title: "计算流体力学基础及其应用  中文译版下载"
 date:   2023-01-28
 tags: [流体力学,译版,应用,下载,计算]
 comments: true

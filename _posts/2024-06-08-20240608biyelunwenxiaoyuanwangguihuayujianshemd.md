@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业论文——校园网规划与建设"
+title: "毕业论文校园网规划与建设"
 date:   2022-02-05
 tags: [校园网,网络,建设,设计方案,毕业论文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue酒店管理系统答辩PPT"
+title: "SpringBootVue酒店管理系统答辩PPT"
 date:   2021-09-28
 tags: [PPT,答辩,SpringBoot,Vue,毕业设计]
 comments: true

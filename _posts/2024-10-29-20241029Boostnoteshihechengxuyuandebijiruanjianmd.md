@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boostnote：适合程序员的笔记软件"
+title: "Boostnote适合程序员的笔记软件"
 date:   2023-08-31
 tags: [Boostnote,笔记,单机版,程序员,支持]
 comments: true

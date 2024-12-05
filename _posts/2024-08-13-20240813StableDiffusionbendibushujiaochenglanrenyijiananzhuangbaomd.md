@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stable Diffusion 本地部署教程，懒人一键安装包！！！"
+title: "Stable Diffusion 本地部署教程懒人一键安装包"
 date:   2022-09-23
 tags: [Stable,Diffusion,一键,安装包,本地]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB150.1A-2009军用装备实验室环境试验方法 通用要求"
+title: "GJB1501A2009军用装备实验室环境试验方法 通用要求"
 date:   2023-12-13
 tags: [2009,试验,实验室,军用,GJB150.1]
 comments: true

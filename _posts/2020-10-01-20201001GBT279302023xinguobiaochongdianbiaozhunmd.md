@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 27930-2023 新国标充电标准"
+title: "GBT 279302023 新国标充电标准"
 date:   2024-05-09
 tags: [2023,充电,标准,国标,GB]
 comments: true

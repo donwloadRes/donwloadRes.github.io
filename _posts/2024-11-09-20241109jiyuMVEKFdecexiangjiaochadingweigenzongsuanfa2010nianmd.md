@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MVEKF的测向交叉定位跟踪算法 (2010年)"
+title: "基于MVEKF的测向交叉定位跟踪算法 2010年"
 date:   2022-01-05
 tags: [算法,测向,MVEKF,定位,交叉]
 comments: true

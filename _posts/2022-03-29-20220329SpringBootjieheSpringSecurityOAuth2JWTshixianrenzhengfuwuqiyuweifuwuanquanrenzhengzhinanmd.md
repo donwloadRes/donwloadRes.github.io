@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot结合Spring Security + OAuth2 + JWT实现认证服务器与微服务安全认证指南"
+title: "Spring Boot结合Spring Security  OAuth2  JWT实现认证服务器与微服务安全认证指南"
 date:   2020-06-30
 tags: [Spring,JWT,认证,令牌,Security]
 comments: true

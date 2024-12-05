@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3399模拟USB-HID设备资源文件"
+title: "RK3399模拟USBHID设备资源文件"
 date:   2020-02-20
 tags: [USB,HID,驱动,加载,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "晶晨固件烧录工具 最新版Amlogic_USB_Burning_Tool_v3.2.0"
+title: "晶晨固件烧录工具 最新版AmlogicUSBBurningToolv320"
 date:   2022-05-01
 tags: [烧录,固件,晶晨,Amlogic,USB]
 comments: true

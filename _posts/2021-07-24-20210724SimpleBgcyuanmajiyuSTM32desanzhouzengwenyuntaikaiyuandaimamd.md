@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple Bgc 源码：基于STM32的三轴增稳云台开源代码"
+title: "Simple Bgc 源码基于STM32的三轴增稳云台开源代码"
 date:   2022-10-14
 tags: [STM32,三轴,增稳,源代码,开源]
 comments: true

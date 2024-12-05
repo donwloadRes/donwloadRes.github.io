@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Microsoft.Office.Interop.PowerPoint调用代码操作PPT"
+title: "使用MicrosoftOfficeInteropPowerPoint调用代码操作PPT"
 date:   2022-06-29
 tags: [PPT,PowerPoint,Office,Microsoft,代码]
 comments: true

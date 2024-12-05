@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迈迪三维设计工具(Solidworks插件)"
+title: "迈迪三维设计工具Solidworks插件"
 date:   2024-06-18
 tags: [设计,迈迪,三维,SolidWorks,插件]
 comments: true

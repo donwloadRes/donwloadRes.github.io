@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制工程 课后答案（英文原版）"
+title: "现代控制工程 课后答案英文原版"
 date:   2023-06-16
 tags: [答案,控制工程,课后,英文原版,手册]
 comments: true

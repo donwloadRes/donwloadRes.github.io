@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全面详解LTE：MATLAB建模、仿真与实现"
+title: "全面详解LTEMATLAB建模仿真与实现"
 date:   2024-05-30
 tags: [LTE,MATLAB,仿真,建模,详解]
 comments: true

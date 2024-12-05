@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IfIX 5.8 视频教程与软件下载全套资源"
+title: "IfIX 58 视频教程与软件下载全套资源"
 date:   2023-12-03
 tags: [IfIX,5.8,软件,视频教程,下载]
 comments: true

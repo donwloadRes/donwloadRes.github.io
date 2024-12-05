@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "眼图原理及测试方法--.pdf"
+title: "眼图原理及测试方法pdf"
 date:   2020-08-29
 tags: [眼图,文档,测试方法,原理,信号]
 comments: true

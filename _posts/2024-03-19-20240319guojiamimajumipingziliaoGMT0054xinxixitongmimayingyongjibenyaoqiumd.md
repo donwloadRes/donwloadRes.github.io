@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家密码局 密评资料  GM:T 0054 信息系统密码应用基本要求"
+title: "国家密码局 密评资料  GMT 0054 信息系统密码应用基本要求"
 date:   2024-02-18
 tags: [密码,信息系统,要求,应用,文件]
 comments: true

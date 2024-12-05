@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整MES代码（含客户端和服务端）"
+title: "完整MES代码含客户端和服务端"
 date:   2024-07-29
 tags: [MES,数据库,客户端,服务端,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel VROC RAID卡驱动 CentOS 7.9 资源文件介绍"
+title: "Intel VROC RAID卡驱动 CentOS 79 资源文件介绍"
 date:   2024-07-04
 tags: [RAID,安装,Intel,VROC,CentOS]
 comments: true

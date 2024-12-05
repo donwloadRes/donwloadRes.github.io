@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彻底解决USB错误：device descriptor read-64, error -62"
+title: "彻底解决USB错误device descriptor read64 error 62"
 date:   2023-06-30
 tags: [USB,device,usb,error,62]
 comments: true

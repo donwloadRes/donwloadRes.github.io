@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用电磁学基础（第4版）"
+title: "应用电磁学基础第4版"
 date:   2023-06-05
 tags: [电磁学,应用,基础,学习,领域]
 comments: true

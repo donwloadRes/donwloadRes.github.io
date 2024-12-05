@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "晶晨通用刷机工具 - 机顶盒专用刷机指南"
+title: "晶晨通用刷机工具  机顶盒专用刷机指南"
 date:   2024-01-24
 tags: [刷机,机顶盒,固件,晶晨,工具]
 comments: true

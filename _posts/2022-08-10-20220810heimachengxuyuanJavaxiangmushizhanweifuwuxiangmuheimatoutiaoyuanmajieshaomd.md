@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员Java项目实战微服务项目黑马头条》源码介绍"
+title: "黑马程序员Java项目实战微服务项目黑马头条源码介绍"
 date:   2020-05-20
 tags: [Java,黑马,源码,头条,项目]
 comments: true

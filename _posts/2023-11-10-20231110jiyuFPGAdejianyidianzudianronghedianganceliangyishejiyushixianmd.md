@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的简易电阻、电容和电感测量仪设计与实现"
+title: "基于FPGA的简易电阻电容和电感测量仪设计与实现"
 date:   2024-08-14
 tags: [测量仪,FPGA,VHDL,电感,硬件]
 comments: true

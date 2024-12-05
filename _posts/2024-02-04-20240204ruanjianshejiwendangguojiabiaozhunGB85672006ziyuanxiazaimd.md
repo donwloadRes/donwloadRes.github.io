@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件设计文档国家标准GB8567-2006资源下载"
+title: "软件设计文档国家标准GB85672006资源下载"
 date:   2023-09-07
 tags: [文档,软件,2006,GB8567,资源]
 comments: true

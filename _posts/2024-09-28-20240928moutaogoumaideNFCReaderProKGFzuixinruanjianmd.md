@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "某淘购买的 NFC Reader Pro_KGF 最新软件"
+title: "某淘购买的 NFC Reader ProKGF 最新软件"
 date:   2022-01-26
 tags: [NFC,KGF,Reader,Pro,软件]
 comments: true

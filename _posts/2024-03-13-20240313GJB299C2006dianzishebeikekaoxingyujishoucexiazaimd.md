@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 299C-2006 电子设备可靠性预计手册下载"
+title: "GJB 299C2006 电子设备可靠性预计手册下载"
 date:   2020-08-24
 tags: [手册,电子设备,2006,可靠性,GJB]
 comments: true

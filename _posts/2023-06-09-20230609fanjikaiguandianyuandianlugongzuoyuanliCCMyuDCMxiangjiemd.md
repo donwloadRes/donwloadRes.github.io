@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反激开关电源电路工作原理（CCM与DCM详解）"
+title: "反激开关电源电路工作原理CCM与DCM详解"
 date:   2021-04-14
 tags: [反激,CCM,开关电源,DCM,模式]
 comments: true

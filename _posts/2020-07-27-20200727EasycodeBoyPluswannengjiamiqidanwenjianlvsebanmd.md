@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easycode Boy Plus! 万能加密器（单文件绿色版）"
+title: "Easycode Boy Plus 万能加密器单文件绿色版"
 date:   2023-03-07
 tags: [加密,文件,解密,加密器,密码]
 comments: true

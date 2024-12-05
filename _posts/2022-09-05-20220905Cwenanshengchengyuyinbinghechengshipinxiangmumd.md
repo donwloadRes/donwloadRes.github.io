@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 文案生成语音并合成视频项目"
+title: "C 文案生成语音并合成视频项目"
 date:   2020-07-23
 tags: [语音,生成,文件,图片,文案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "matlab在振动信号处理中的应用》（教程+程序）"
+title: "matlab在振动信号处理中的应用教程程序"
 date:   2020-05-15
 tags: [MATLAB,振动,信号处理,教程,频域]
 comments: true

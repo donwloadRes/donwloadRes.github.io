@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go语言底层原理剖析.pdf"
+title: "Go语言底层原理剖析pdf"
 date:   2023-01-03
 tags: [Go,语言,原理,pdf,底层]
 comments: true

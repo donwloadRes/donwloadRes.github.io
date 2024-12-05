@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GitHub加速神器：FastGithub"
+title: "GitHub加速神器FastGithub"
 date:   2024-02-29
 tags: [GitHub,FastGithub,https,下载,cn]
 comments: true

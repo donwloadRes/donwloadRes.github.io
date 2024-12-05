@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANTSDR开发手册-GNU Radio篇"
+title: "ANTSDR开发手册GNU Radio篇"
 date:   2020-11-11
 tags: [GNU,Radio,ANTSDR,无线通信,信号]
 comments: true

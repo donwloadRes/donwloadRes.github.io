@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCI论文写作指南（1-40全集）"
+title: "SCI论文写作指南140全集"
 date:   2020-06-05
 tags: [论文,写作,英文,40,详解]
 comments: true

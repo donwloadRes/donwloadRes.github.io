@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "节卡机器人C++ SDK开发文档"
+title: "节卡机器人C SDK开发文档"
 date:   2020-06-25
 tags: [SDK,节卡,开发人员,示例,文档]
 comments: true

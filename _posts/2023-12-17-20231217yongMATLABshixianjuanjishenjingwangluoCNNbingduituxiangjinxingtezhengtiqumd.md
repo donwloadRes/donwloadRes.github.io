@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用MATLAB实现卷积神经网络CNN，并对图像进行特征提取"
+title: "用MATLAB实现卷积神经网络CNN并对图像进行特征提取"
 date:   2023-05-25
 tags: [卷积,神经网络,MATLAB,CNN,特征提取]
 comments: true

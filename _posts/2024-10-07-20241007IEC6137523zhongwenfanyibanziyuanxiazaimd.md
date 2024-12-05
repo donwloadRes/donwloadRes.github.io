@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61375-2-3 中文翻译版资源下载"
+title: "IEC6137523 中文翻译版资源下载"
 date:   2020-10-30
 tags: [中文翻译,IEC61375,cn,文件,iec61375]
 comments: true

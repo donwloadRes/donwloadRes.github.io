@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx K-7全系列封装库"
+title: "Xilinx K7全系列封装库"
 date:   2021-11-14
 tags: [封装,Xilinx,原理图,设计,全系列]
 comments: true

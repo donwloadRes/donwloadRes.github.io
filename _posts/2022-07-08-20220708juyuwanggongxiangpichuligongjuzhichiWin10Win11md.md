@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "局域网共享批处理工具（支持Win10-Win11）"
+title: "局域网共享批处理工具支持Win10Win11"
 date:   2021-09-28
 tags: [共享,批处理,文件夹,局域网,Windows]
 comments: true

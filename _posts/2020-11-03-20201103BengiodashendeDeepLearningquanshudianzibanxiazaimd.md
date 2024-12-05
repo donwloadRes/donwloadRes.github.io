@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bengio大神的Deep Learning》全书电子版下载"
+title: "Bengio大神的Deep Learning全书电子版下载"
 date:   2024-03-30
 tags: [Deep,Learning,Bengio,学习,深度]
 comments: true

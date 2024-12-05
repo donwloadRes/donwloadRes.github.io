@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论基础教程（中文）下载仓库"
+title: "概率论基础教程中文下载仓库"
 date:   2023-09-02
 tags: [概率论,基础教程,本书,教材,中文]
 comments: true

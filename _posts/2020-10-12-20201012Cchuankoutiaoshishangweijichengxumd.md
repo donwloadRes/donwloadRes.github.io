@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口调试上位机程序"
+title: "C 串口调试上位机程序"
 date:   2022-08-15
 tags: [串口,上位,通信协议,程序,调试]
 comments: true

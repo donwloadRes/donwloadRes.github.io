@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT自定义精美换肤界面（转）"
+title: "QT自定义精美换肤界面转"
 date:   2024-08-02
 tags: [自定义,QT,样式,界面,源码]
 comments: true

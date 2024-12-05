@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacBook苹果电脑重装、降级系统指南"
+title: "MacBook苹果电脑重装降级系统指南"
 date:   2022-03-12
 tags: [降级,安装,苹果电脑,MacBook,macOS]
 comments: true

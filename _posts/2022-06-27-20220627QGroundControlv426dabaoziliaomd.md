@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGroundControl v4.26 打包资料"
+title: "QGroundControl v426 打包资料"
 date:   2023-12-28
 tags: [QGroundControl,版本,gstreamer,1.0,v4.26]
 comments: true

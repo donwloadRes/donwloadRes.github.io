@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ansible 2.9版本离线安装包(RPM) 使用指南"
+title: "Ansible 29版本离线安装包RPM 使用指南"
 date:   2024-08-12
 tags: [ansible,Ansible,2.9,RPM,27]
 comments: true

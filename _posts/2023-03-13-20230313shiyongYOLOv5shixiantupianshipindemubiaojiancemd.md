@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用YOLOv5实现图片、视频的目标检测"
+title: "使用YOLOv5实现图片视频的目标检测"
 date:   2024-11-17
 tags: [YOLOv5,检测,视频,模型,目标]
 comments: true

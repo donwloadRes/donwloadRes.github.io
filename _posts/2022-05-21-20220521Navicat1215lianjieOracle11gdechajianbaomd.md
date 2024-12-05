@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat12,15 连接 Oracle11g 的插件包"
+title: "Navicat1215 连接 Oracle11g 的插件包"
 date:   2021-07-03
 tags: [插件包,Navicat,连接,Oracle,数据库]
 comments: true

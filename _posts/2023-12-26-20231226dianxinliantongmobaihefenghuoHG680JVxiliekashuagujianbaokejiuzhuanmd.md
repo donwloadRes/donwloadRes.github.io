@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电信联通魔百盒烽火HG680-J-V系列卡刷固件包（可救砖）"
+title: "电信联通魔百盒烽火HG680JV系列卡刷固件包可救砖"
 date:   2023-08-27
 tags: [固件,U盘,概不负责,系统,刷机]
 comments: true

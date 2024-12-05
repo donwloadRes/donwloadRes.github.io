@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史密斯圆图软件V3.1使用说明书下载"
+title: "史密斯圆图软件V31使用说明书下载"
 date:   2021-12-21
 tags: [V3.1,说明书,圆图,史密斯,软件]
 comments: true

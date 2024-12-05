@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Origin软件 - 专业制图与数据分析工具"
+title: "Origin软件  专业制图与数据分析工具"
 date:   2023-09-15
 tags: [Origin,数据分析,软件,制图,功能]
 comments: true

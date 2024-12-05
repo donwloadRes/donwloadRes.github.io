@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Siemens Simatic WinCC v7.5 -SP2 和 TIA Portal v15 资源下载"
+title: "Siemens Simatic WinCC v75 SP2 和 TIA Portal v15 资源下载"
 date:   2021-03-24
 tags: [WinCC,v7.5,SP2,TIA,Portal]
 comments: true

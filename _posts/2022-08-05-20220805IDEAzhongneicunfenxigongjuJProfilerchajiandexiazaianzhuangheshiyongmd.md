@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA中内存分析工具—JProfiler插件的下载、安装和使用"
+title: "IDEA中内存分析工具JProfiler插件的下载安装和使用"
 date:   2023-06-04
 tags: [JProfiler,内存,IDEA,插件,应用程序]
 comments: true

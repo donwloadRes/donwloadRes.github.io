@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享124个PHP源码，总有一款适合您"
+title: "分享124个PHP源码总有一款适合您"
 date:   2020-10-25
 tags: [源码,PHP,开发者,文档,124]
 comments: true

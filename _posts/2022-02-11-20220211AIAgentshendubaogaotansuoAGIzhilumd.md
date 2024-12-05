@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Agent深度报告：探索AGI之路"
+title: "AI Agent深度报告探索AGI之路"
 date:   2023-02-14
 tags: [AI,Agent,AGI,计算机行业,报告]
 comments: true

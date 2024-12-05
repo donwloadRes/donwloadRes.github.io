@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运算放大器基本电路大全（经典电路）"
+title: "运算放大器基本电路大全经典电路"
 date:   2024-02-23
 tags: [电路,放大器,运算,经典,应用]
 comments: true

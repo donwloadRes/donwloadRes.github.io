@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装nvm（详细教程），配置全局node环境并安装vue-cli"
+title: "安装nvm详细教程配置全局node环境并安装vuecli"
 date:   2024-02-08
 tags: [nvm,js,Node,安装,vue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "标准语音测试包 - 中英文 WAV 格式语音资源"
+title: "标准语音测试包  中英文 WAV 格式语音资源"
 date:   2022-06-14
 tags: [语音,WAV,格式,测试,文件]
 comments: true

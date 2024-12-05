@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光学原理(光的传播、干涉和衍射的电磁理论)"
+title: "光学原理光的传播干涉和衍射的电磁理论"
 date:   2021-04-18
 tags: [光学,理论,衍射,原理,干涉]
 comments: true

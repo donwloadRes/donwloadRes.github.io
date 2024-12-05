@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0HUB 四口设计原理图参考"
+title: "USB30HUB 四口设计原理图参考"
 date:   2024-05-05
 tags: [原理图,USB3.0,HUB,四口,设计]
 comments: true

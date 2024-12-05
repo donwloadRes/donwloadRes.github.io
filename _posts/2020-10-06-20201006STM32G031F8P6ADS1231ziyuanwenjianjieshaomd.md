@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G031F8P6-ADS1231 资源文件介绍"
+title: "STM32G031F8P6ADS1231 资源文件介绍"
 date:   2020-04-07
 tags: [ADS1231,STM32G031F8P6,代码,读取,范例]
 comments: true

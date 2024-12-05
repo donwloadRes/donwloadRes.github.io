@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel® Flash Programming Tool 用户指南"
+title: "Intel Flash Programming Tool 用户指南"
 date:   2021-02-05
 tags: [BIOS,Intel,Flash,Programming,Tool]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PHP+MySQL的毕业设计源码3套"
+title: "基于PHPMySQL的毕业设计源码3套"
 date:   2023-10-18
 tags: [毕业设计,源码,PHP,论文,源代码]
 comments: true

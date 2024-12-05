@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA for Linux(Ubuntu 18.10) 资源文件介绍"
+title: "IDA for LinuxUbuntu 1810 资源文件介绍"
 date:   2024-09-26
 tags: [IDA,Pro,安装,Linux,32]
 comments: true

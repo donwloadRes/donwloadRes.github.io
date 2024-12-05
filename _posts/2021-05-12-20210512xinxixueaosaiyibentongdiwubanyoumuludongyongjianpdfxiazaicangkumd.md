@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息学奥赛一本通第五版有目录-董永建.pdf 下载仓库"
+title: "信息学奥赛一本通第五版有目录董永建pdf 下载仓库"
 date:   2024-08-24
 tags: [奥赛,信息学,第五版,永建,pdf]
 comments: true

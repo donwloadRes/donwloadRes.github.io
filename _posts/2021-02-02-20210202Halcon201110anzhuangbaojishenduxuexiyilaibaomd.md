@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 20.11.1.0 安装包及深度学习依赖包"
+title: "Halcon 201110 安装包及深度学习依赖包"
 date:   2022-12-22
 tags: [1.0,20.11,windows,exe,halcon]
 comments: true

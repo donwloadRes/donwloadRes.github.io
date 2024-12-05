@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAMMA软件新用户手册中文版-2019"
+title: "GAMMA软件新用户手册中文版2019"
 date:   2021-01-05
 tags: [GAMMA,软件,中文版,用户手册,2019]
 comments: true

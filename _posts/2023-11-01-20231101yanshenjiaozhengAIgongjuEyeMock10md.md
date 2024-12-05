@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "眼神矫正AI工具EyeMock 1.0"
+title: "眼神矫正AI工具EyeMock 10"
 date:   2022-08-07
 tags: [矫正,EyeMock,1.0,眼神,视频]
 comments: true

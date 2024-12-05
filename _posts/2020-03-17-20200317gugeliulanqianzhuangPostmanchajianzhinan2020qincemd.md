@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器安装Postman插件指南（2020亲测）"
+title: "谷歌浏览器安装Postman插件指南2020亲测"
 date:   2020-10-02
 tags: [Postman,插件,浏览器,安装,谷歌]
 comments: true

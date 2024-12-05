@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA+MicroBlaze裸机程序加载与固化案例"
+title: "FPGAMicroBlaze裸机程序加载与固化案例"
 date:   2022-05-24
 tags: [FPGA,MicroBlaze,裸机,加载,固化]
 comments: true

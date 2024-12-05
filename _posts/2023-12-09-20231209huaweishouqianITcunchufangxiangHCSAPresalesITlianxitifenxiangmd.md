@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为售前+IT+存储方向 HCSA-Presales-IT 练习题分享"
+title: "华为售前IT存储方向 HCSAPresalesIT 练习题分享"
 date:   2024-03-28
 tags: [练习题,售前,华为,考试,HCSA]
 comments: true

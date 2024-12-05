@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROBOTGUIDE操作手册.PDF"
+title: "ROBOTGUIDE操作手册PDF"
 date:   2023-01-07
 tags: [机器人,ROBOGUIDE,操作手册,PDF,用户]
 comments: true

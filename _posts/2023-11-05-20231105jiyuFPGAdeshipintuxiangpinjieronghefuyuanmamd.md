@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的视频图像拼接融合（附源码）"
+title: "基于FPGA的视频图像拼接融合附源码"
 date:   2024-03-11
 tags: [视频,FPGA,拼接,源码,系统]
 comments: true

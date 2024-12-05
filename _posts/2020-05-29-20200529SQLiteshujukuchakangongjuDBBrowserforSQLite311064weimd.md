@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLite数据库查看工具 - DB Browser for SQLite 3.11.0 (64位)"
+title: "SQLite数据库查看工具  DB Browser for SQLite 3110 64位"
 date:   2024-06-18
 tags: [SQLite,数据库,DB,Browser,用户]
 comments: true

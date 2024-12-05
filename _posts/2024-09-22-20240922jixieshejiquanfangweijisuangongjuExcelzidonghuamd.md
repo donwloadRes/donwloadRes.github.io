@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机械设计全方位计算工具（Excel自动化）"
+title: "机械设计全方位计算工具Excel自动化"
 date:   2024-09-03
 tags: [Excel,计算,设计,机械设计,机械]
 comments: true

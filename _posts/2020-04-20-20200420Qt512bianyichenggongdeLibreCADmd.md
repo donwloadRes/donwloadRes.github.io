@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.12编译成功的LibreCAD"
+title: "Qt512编译成功的LibreCAD"
 date:   2022-08-04
 tags: [CAD,LibreCAD,源码,Qt5.12,编译]
 comments: true

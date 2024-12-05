@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scala 2.11.12 在 Windows 下的安装指南"
+title: "Scala 21112 在 Windows 下的安装指南"
 date:   2023-10-12
 tags: [Scala,12,安装,2.11,Windows]
 comments: true

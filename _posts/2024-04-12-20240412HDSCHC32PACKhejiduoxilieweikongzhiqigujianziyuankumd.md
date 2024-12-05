@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDSC_HC32-PACK 合集 - 多系列微控制器固件资源库"
+title: "HDSCHC32PACK 合集  多系列微控制器固件资源库"
 date:   2023-08-09
 tags: [series,HC32,HDSC,微控制器,固件]
 comments: true

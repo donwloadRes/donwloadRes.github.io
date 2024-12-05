@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#精彩编程200例 全彩版 资源下载"
+title: "C精彩编程200例 全彩版 资源下载"
 date:   2024-11-27
 tags: [实例,C#,读者,编程,200]
 comments: true

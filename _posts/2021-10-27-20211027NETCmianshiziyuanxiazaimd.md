@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET C# 面试资源下载"
+title: "NET C 面试资源下载"
 date:   2021-08-22
 tags: [C#,面试,NET,资源,资源库]
 comments: true

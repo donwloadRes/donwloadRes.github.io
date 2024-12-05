@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200精确控制步进电机程序（含注解）"
+title: "S7200精确控制步进电机程序含注解"
 date:   2024-05-18
 tags: [S7,200,步进,解压,电机]
 comments: true

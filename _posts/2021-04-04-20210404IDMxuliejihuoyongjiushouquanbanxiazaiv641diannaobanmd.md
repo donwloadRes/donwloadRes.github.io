@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM序列激活永久授权版下载 v6.4.1 电脑版"
+title: "IDM序列激活永久授权版下载 v641 电脑版"
 date:   2021-08-24
 tags: [IDM,下载,下载速度,自动,文件]
 comments: true

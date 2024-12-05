@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome安装JSONview插件：轻松浏览JSON文件"
+title: "Chrome安装JSONview插件轻松浏览JSON文件"
 date:   2021-07-23
 tags: [插件,JSONview,Chrome,JSON,浏览器]
 comments: true

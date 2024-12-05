@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3 中文汉化和谐版 百度云网盘下载指南"
+title: "FL Studio 2123 中文汉化和谐版 百度云网盘下载指南"
 date:   2022-02-21
 tags: [FL,Studio,21.2,云网盘,软件]
 comments: true

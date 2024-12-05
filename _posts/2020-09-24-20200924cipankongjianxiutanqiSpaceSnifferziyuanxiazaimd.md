@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "磁盘空间嗅探器 - SpaceSniffer 资源下载"
+title: "磁盘空间嗅探器  SpaceSniffer 资源下载"
 date:   2022-08-23
 tags: [SpaceSniffer,磁盘空间,文件夹,磁盘,解压]
 comments: true

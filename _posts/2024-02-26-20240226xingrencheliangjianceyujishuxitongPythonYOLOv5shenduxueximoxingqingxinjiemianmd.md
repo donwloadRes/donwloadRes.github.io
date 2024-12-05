@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人车辆检测与计数系统（Python+YOLOv5深度学习模型+清新界面）"
+title: "行人车辆检测与计数系统PythonYOLOv5深度学习模型清新界面"
 date:   2022-04-10
 tags: [计数,界面,检测,行人,YOLOv5]
 comments: true

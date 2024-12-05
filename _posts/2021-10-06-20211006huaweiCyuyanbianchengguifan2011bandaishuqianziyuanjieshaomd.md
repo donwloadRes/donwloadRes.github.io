@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为 C语言编程规范 2011版(带书签) 资源介绍"
+title: "华为 C语言编程规范 2011版带书签 资源介绍"
 date:   2021-03-12
 tags: [代码,C语言,规范,编程,2011]
 comments: true

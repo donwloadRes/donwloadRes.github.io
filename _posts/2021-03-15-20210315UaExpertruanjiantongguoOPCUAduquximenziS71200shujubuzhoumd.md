@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UaExpert软件通过OPCUA读取西门子S7-1200数据步骤"
+title: "UaExpert软件通过OPCUA读取西门子S71200数据步骤"
 date:   2024-03-06
 tags: [UaExpert,PLC,S7,1200,OPC]
 comments: true

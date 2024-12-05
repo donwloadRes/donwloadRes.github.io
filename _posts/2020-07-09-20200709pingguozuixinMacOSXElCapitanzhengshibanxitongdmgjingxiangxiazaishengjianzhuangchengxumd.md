@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果最新 Mac OS X El Capitan 正式版系统 dmg 镜像下载 - 升级安装程序"
+title: "苹果最新 Mac OS X El Capitan 正式版系统 dmg 镜像下载  升级安装程序"
 date:   2020-11-26
 tags: [Mac,OS,El,Capitan,dmg]
 comments: true

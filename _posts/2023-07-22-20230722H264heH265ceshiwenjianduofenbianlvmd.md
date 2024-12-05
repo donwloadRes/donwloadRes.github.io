@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H264和H265测试文件(多分辨率)"
+title: "H264和H265测试文件多分辨率"
 date:   2023-05-08
 tags: [H264,H265,视频文件,分辨率,1920x1080]
 comments: true

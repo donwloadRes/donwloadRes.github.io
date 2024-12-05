@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于HLS的Tiny_yolo卷积神经网络加速研究_张丽丽(2019-09-15-22-18_read)1"
+title: "基于HLS的Tinyyolo卷积神经网络加速研究张丽丽201909152218read1"
 date:   2023-10-07
 tags: [卷积,神经网络,文件,研究,HLS]
 comments: true

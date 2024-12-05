@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫项目：B站动漫数据分析与可视化"
+title: "Python爬虫项目B站动漫数据分析与可视化"
 date:   2022-02-20
 tags: [爬虫,Python,动漫,数据,可视化]
 comments: true

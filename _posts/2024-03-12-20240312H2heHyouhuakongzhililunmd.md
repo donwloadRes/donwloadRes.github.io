@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H2和H∞优化控制理论"
+title: "H2和H优化控制理论"
 date:   2024-03-22
 tags: [H2,理论,控制,学习,优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First PMP 中文高清版（第三版）下载"
+title: "Head First PMP 中文高清版第三版下载"
 date:   2022-08-11
 tags: [高清,第三版,PMP,中文,Head]
 comments: true

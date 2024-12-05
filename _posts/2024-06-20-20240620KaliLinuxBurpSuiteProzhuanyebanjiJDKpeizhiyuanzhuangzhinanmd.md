@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kali Linux BurpSuite Pro（专业版）及 JDK 配置与安装指南"
+title: "Kali Linux BurpSuite Pro专业版及 JDK 配置与安装指南"
 date:   2020-04-13
 tags: [BurpSuite,Pro,安装,JDK,Linux]
 comments: true

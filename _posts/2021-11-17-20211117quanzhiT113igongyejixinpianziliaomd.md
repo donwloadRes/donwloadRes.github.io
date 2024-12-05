@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志 T113-i 工业级芯片资料"
+title: "全志 T113i 工业级芯片资料"
 date:   2024-04-20
 tags: [芯片,T113,文档,全志,Datasheet]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OV9734-OV9234 摄像头芯片资料下载"
+title: "OV9734OV9234 摄像头芯片资料下载"
 date:   2023-10-31
 tags: [芯片,OV9734,OV9234,驱动程序,摄像头]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "路由器的硬件设计原理图（绝密）"
+title: "路由器的硬件设计原理图绝密"
 date:   2023-11-21
 tags: [路由器,硬件,设计,原理图,绝密]
 comments: true

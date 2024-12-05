@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2017 Redistributable Package 下载仓库"
+title: "Microsoft Visual C 2017 Redistributable Package 下载仓库"
 date:   2020-10-08
 tags: [Microsoft,Visual,C++,2017,Redistributable]
 comments: true

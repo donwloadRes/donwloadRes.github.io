@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘导论（中文版）完整版"
+title: "数据挖掘导论中文版完整版"
 date:   2023-01-25
 tags: [数据挖掘,算法,聚类,基本概念,异常]
 comments: true

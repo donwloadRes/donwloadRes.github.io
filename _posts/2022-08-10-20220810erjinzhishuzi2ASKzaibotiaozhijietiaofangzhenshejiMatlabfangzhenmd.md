@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二进制数字（2ASK）载波调制解调仿真设计（Matlab仿真）"
+title: "二进制数字2ASK载波调制解调仿真设计Matlab仿真"
 date:   2020-01-25
 tags: [仿真,Matlab,2ASK,解调,信号]
 comments: true

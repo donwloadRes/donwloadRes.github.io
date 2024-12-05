@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVWA下载及安装教程 —— 图文详解配合phpStudy配置"
+title: "DVWA下载及安装教程  图文详解配合phpStudy配置"
 date:   2021-06-04
 tags: [DVWA,phpStudy,Web,---,php]
 comments: true

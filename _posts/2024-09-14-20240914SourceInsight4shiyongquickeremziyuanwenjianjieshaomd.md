@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4 使用 quicker.em 资源文件介绍"
+title: "Source Insight 4 使用 quickerem 资源文件介绍"
 date:   2022-11-27
 tags: [quicker,em,Source,Insight,文件]
 comments: true

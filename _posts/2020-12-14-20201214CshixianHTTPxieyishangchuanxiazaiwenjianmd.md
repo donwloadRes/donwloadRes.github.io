@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 实现 HTTP 协议上传下载文件"
+title: "C 实现 HTTP 协议上传下载文件"
 date:   2022-01-22
 tags: [文件,HTTP,下载,上传,C++]
 comments: true

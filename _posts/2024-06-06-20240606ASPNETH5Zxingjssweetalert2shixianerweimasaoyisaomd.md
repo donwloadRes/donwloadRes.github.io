@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET+H5+Zxing+js+sweetalert2 实现二维码扫一扫"
+title: "ASPNETH5Zxingjssweetalert2 实现二维码扫一扫"
 date:   2023-04-03
 tags: [摄像头,二维码,扫描,项目,ASP]
 comments: true

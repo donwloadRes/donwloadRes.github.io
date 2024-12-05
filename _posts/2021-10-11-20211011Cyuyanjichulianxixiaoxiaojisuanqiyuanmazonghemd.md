@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言基础练习：小小计算器源码总和"
+title: "C语言基础练习小小计算器源码总和"
 date:   2021-09-16
 tags: [源码,C语言,计算器,作业,小小]
 comments: true

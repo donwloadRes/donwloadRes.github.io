@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口通信示例项目"
+title: "C串口通信示例项目"
 date:   2024-08-27
 tags: [串口,项目,版本,代码,文件]
 comments: true

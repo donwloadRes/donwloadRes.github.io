@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于eNSP的防火墙、DHCP、无线三层网络拓扑及报告"
+title: "基于eNSP的防火墙DHCP无线三层网络拓扑及报告"
 date:   2023-09-08
 tags: [eNSP,DHCP,网络拓扑,配置,防火墙]
 comments: true

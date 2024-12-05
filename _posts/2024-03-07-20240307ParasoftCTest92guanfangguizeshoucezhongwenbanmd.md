@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parasoft C++ Test 9.2 官方规则手册（中文版）"
+title: "Parasoft C Test 92 官方规则手册中文版"
 date:   2020-03-20
 tags: [C++,Parasoft,Test,9.2,中文版]
 comments: true

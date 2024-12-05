@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-OpenCV植物叶片识别"
+title: "PythonOpenCV植物叶片识别"
 date:   2023-01-27
 tags: [OpenCV,叶片,Python,识别,图像]
 comments: true

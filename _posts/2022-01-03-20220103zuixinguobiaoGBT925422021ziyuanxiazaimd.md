@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新国标 GB-T 9254.2-2021 资源下载"
+title: "最新国标 GBT 925422021 资源下载"
 date:   2024-03-29
 tags: [2021,下载,GB,9254.2,接收机]
 comments: true

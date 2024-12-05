@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zeal下载安装及使用步骤(图文详解)"
+title: "Zeal下载安装及使用步骤图文详解"
 date:   2021-04-10
 tags: [文档,Zeal,下载,步骤,安装]
 comments: true

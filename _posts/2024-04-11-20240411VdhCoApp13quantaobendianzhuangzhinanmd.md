@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VdhCoApp 1.3 全套本地安装指南"
+title: "VdhCoApp 13 全套本地安装指南"
 date:   2022-09-10
 tags: [下载,安装,VdhCoApp,1.3,浏览器]
 comments: true

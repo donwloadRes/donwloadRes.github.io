@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解锁Pinia框架的实力：5道必问面试题及资源下载"
+title: "解锁Pinia框架的实力5道必问面试题及资源下载"
 date:   2021-07-26
 tags: [Pinia,面试题,必问,资源,框架]
 comments: true

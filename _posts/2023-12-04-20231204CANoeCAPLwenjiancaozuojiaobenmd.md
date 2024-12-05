@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe -CAPL 文件操作脚本"
+title: "CANoe CAPL 文件操作脚本"
 date:   2020-05-17
 tags: [CANoe,脚本,文件,CAPL,fileContent]
 comments: true

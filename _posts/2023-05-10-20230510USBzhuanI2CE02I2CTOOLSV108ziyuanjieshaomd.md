@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转I2C E02 I2C TOOLS V1.0.8 资源介绍"
+title: "USB转I2C E02 I2C TOOLS V108 资源介绍"
 date:   2022-11-09
 tags: [USB,I2C,EEPROM,读写,工具]
 comments: true

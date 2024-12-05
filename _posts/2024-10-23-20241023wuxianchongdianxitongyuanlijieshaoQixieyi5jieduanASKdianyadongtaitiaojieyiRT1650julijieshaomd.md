@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线充电系统原理介绍 - Qi协议5阶段 ASK 电压动态调节 以RT1650举例介绍"
+title: "无线充电系统原理介绍  Qi协议5阶段 ASK 电压动态调节 以RT1650举例介绍"
 date:   2022-01-09
 tags: [充电,无线,Qi,ASK,文件]
 comments: true

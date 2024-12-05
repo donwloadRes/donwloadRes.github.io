@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNIST手写数字数据集(原始图片)"
+title: "MNIST手写数字数据集原始图片"
 date:   2020-11-15
 tags: [手写,数字,数据,图片,MNIST]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵分析（第3版）》资源下载"
+title: "矩阵分析第3版资源下载"
 date:   2023-08-28
 tags: [矩阵,下载,研究生,工程硕士,本书]
 comments: true

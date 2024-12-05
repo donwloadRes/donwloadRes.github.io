@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT大模型应用（非程序员版）"
+title: "GPT大模型应用非程序员版"
 date:   2023-02-22
 tags: [模型,GPT,ChatGPT,应用,程序员]
 comments: true

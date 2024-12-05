@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT645-1997通讯规约通信规约文档"
+title: "DLT6451997通讯规约通信规约文档"
 date:   2021-10-01
 tags: [规约,DLT645,1997,文档,通信]
 comments: true

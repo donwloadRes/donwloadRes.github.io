@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remmina 离线安装包（Deepin 20 & Ubuntu 20 适用）"
+title: "Remmina 离线安装包Deepin 20  Ubuntu 20 适用"
 date:   2023-01-07
 tags: [安装包,离线,20,Remmina,安装]
 comments: true

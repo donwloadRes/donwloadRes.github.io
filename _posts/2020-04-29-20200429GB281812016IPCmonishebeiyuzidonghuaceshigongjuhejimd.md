@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB28181-2016 IPC模拟设备与自动化测试工具合集"
+title: "GB281812016 IPC模拟设备与自动化测试工具合集"
 date:   2024-01-20
 tags: [测试,测试工具,GB28181,合集,设备]
 comments: true

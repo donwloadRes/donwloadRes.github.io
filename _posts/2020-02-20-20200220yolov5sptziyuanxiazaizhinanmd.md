@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5s.pt资源下载指南"
+title: "yolov5spt资源下载指南"
 date:   2021-02-19
 tags: [yolov5s,pt,下载,YoloV5,链接]
 comments: true

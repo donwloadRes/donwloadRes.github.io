@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯算法学习笔记C++B组"
+title: "蓝桥杯算法学习笔记CB组"
 date:   2024-09-09
 tags: [笔记,蓝桥,算法,学习,竞赛]
 comments: true

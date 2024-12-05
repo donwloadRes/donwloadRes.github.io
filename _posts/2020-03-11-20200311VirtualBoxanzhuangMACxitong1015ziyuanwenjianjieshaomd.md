@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VirtualBox 安装 MAC 系统 10.15 资源文件介绍"
+title: "VirtualBox 安装 MAC 系统 1015 资源文件介绍"
 date:   2023-07-04
 tags: [安装,VirtualBox,10.15,macOS,虚拟机]
 comments: true

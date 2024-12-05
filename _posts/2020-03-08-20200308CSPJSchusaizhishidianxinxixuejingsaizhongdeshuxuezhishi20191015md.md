@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J-S 初赛知识点：信息学竞赛中的数学知识 (2019_10_15)"
+title: "CSPJS 初赛知识点信息学竞赛中的数学知识 20191015"
 date:   2020-07-15
 tags: [CSP,信息学,竞赛,初赛,数学知识]
 comments: true

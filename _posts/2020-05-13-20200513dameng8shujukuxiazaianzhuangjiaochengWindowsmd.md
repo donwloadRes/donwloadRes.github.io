@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "达梦8数据库下载安装教程（Windows）"
+title: "达梦8数据库下载安装教程Windows"
 date:   2021-01-29
 tags: [数据库,安装,达梦,ISO,解压]
 comments: true

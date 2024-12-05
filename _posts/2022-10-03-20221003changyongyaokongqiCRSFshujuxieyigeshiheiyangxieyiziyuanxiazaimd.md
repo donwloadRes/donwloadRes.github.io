@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用遥控器 CRSF 数据协议格式（黑羊协议）资源下载"
+title: "常用遥控器 CRSF 数据协议格式黑羊协议资源下载"
 date:   2023-03-05
 tags: [CRSF,协议,遥控器,黑羊,文件]
 comments: true

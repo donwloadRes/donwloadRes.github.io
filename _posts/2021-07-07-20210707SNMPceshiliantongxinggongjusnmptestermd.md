@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNMP测试连通性工具 - snmptester"
+title: "SNMP测试连通性工具  snmptester"
 date:   2022-04-10
 tags: [SNMP,连通性,snmptester,测试,工具]
 comments: true

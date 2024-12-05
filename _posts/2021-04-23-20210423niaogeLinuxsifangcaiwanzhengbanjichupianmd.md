@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥Linux私房菜_完整版_基础篇"
+title: "鸟哥Linux私房菜完整版基础篇"
 date:   2021-05-25
 tags: [Linux,学习,鸟哥,私房,完整版]
 comments: true

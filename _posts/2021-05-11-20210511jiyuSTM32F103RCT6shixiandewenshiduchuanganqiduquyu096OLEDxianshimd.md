@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103RCT6实现的温湿度传感器读取与0.96OLED显示"
+title: "基于STM32F103RCT6实现的温湿度传感器读取与096OLED显示"
 date:   2023-03-22
 tags: [温湿度,OLED,传感器,开发板,读取]
 comments: true

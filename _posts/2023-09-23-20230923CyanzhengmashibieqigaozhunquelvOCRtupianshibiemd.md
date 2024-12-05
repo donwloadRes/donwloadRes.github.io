@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 验证码识别器 - 高准确率 OCR 图片识别"
+title: "C 验证码识别器  高准确率 OCR 图片识别"
 date:   2021-06-22
 tags: [验证码,准确率,C#,识别器,代码]
 comments: true

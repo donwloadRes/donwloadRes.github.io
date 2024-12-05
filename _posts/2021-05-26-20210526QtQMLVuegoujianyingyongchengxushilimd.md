@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+QML+Vue 构建应用程序示例"
+title: "QtQMLVue 构建应用程序示例"
 date:   2020-11-14
 tags: [示例,QML,Vue,your,应用程序]
 comments: true

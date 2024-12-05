@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.0.30319 完整安装资源"
+title: "NET Framework 4030319 完整安装资源"
 date:   2022-01-31
 tags: [NET,安装,应用程序,Framework,30319]
 comments: true

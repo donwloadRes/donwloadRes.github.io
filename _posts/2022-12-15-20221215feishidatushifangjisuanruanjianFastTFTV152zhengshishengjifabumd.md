@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞时达土石方计算软件FastTFT V15.2正式升级发布"
+title: "飞时达土石方计算软件FastTFT V152正式升级发布"
 date:   2022-05-14
 tags: [断面,飞时,计算,功能,土方]
 comments: true

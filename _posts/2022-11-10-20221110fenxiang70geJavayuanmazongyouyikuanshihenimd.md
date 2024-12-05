@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享70个Java源码，总有一款适合你"
+title: "分享70个Java源码总有一款适合你"
 date:   2021-10-02
 tags: [源码,Java,管理系统,编程,学习]
 comments: true

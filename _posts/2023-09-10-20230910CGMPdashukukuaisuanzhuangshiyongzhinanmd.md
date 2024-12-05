@@ -1,6 +1,43 @@
 ---
 layout: post
-title: "C++ GMP大数库快速安装使用指南"
+title: "C GMP大数库快速安装使用指南
+date   20240430
+tags GMPC大数WindowsDev
+comments true
+author admin
+
+ C GMP大数库快速安装使用指南
+
+本文介绍如何在Windows系统上使用DevC编译器快速安装和使用GMP大数库并提供已编译好的GMP静态链接库libgmp10lib的下载
+
+ 概述
+
+GMPGNU Multiple Precision arithmetic library是一个用于大整数运算的库广泛应用于密码学科学计算等领域本指南将帮助你在Windows系统上快速安装和配置GMP库以便在C项目中使用
+
+ 安装步骤
+
+ 1 下载GMP包
+
+下载并解压GMP包仅适用于Windows解压后你将获得以下文件
+ gmph
+ gmpxxh
+ libgmp10lib
+ libgmp10dll
+
+ 2 配置DevC项目
+
+1 打开DevC新建一个项目不是新建cpp源文件
+2 将解压后的4个文件复制到项目文件夹中
+3 在DevC菜单栏中点击项目  项目属性
+4 在弹出的窗口中点击参数选项卡
+5 在连接器框内填入libgmp10lib点击确定
+
+ 3 引入头文件
+
+在项目中新建源文件如Testcpp并在文件开头添加以下代码以引入GMP头文件
+
+cpp
+include gmph"
 date:   2024-04-30
 tags: [GMP,C++,大数,Windows,Dev]
 comments: true

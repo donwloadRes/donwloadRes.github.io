@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPC中国电波钟解码程序（基于51单片机）"
+title: "BPC中国电波钟解码程序基于51单片机"
 date:   2022-10-11
 tags: [解码程序,51,单片机,源码,BPC]
 comments: true

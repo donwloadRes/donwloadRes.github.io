@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英飞凌AURIX 2G安全管理单元（SMU）资源下载"
+title: "英飞凌AURIX 2G安全管理单元SMU资源下载"
 date:   2022-11-09
 tags: [SMU,AURIX,2G,文件,英飞凌]
 comments: true

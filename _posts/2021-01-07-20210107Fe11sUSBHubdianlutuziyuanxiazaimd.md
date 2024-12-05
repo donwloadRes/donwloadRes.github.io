@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fe1.1s USB Hub 电路图资源下载"
+title: "Fe11s USB Hub 电路图资源下载"
 date:   2021-05-23
 tags: [USB,Fe1.1,低功耗,电路图,Hub]
 comments: true

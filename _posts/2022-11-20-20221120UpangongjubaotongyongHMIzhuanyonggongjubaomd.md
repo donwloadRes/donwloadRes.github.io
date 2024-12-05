@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U盘工具包_通用_HMI专用工具包"
+title: "U盘工具包通用HMI专用工具包"
 date:   2021-01-22
 tags: [HMI,工具包,U盘,工具,备份]
 comments: true

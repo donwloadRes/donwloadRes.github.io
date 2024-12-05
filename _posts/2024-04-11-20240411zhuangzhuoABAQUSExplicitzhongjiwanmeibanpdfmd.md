@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "庄茁_ABAQUS_Explicit_终极完美版.pdf"
+title: "庄茁ABAQUSExplicit终极完美版pdf"
 date:   2023-03-07
 tags: [ABAQUS,Explicit,庄茁,完美版,pdf]
 comments: true

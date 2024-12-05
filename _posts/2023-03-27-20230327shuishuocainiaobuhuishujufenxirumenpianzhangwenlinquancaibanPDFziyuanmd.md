@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谁说菜鸟不会数据分析（入门篇） - 张文霖 全彩版 PDF资源"
+title: "谁说菜鸟不会数据分析入门篇  张文霖 全彩版 PDF资源"
 date:   2021-03-04
 tags: [数据分析,全彩,菜鸟,入门篇,读者]
 comments: true

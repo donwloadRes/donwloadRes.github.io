@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置指南：Cuda11 下的 Windows 系统 Torch 1.7.1 安装教程"
+title: "深度学习环境配置指南Cuda11 下的 Windows 系统 Torch 171 安装教程"
 date:   2023-05-04
 tags: [Cuda,安装,PyTorch,环境,cuDNN]
 comments: true

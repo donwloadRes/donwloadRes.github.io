@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理（上下册）清华教材下载"
+title: "自动控制原理上下册清华教材下载"
 date:   2021-07-01
 tags: [自动控制,教材,原理,下载,学习]
 comments: true

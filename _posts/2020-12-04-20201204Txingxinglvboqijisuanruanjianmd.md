@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T型π型滤波器计算软件"
+title: "T型型滤波器计算软件"
 date:   2020-10-13
 tags: [滤波器,计算,软件,GitHub,Issue]
 comments: true

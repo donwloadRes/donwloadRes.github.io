@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 7637-2中文资料：电源线瞬态传导干扰抗扰性试验"
+title: "ISO 76372中文资料电源线瞬态传导干扰抗扰性试验"
 date:   2020-04-22
 tags: [抗扰性,电源线,瞬态,中文,ISO]
 comments: true

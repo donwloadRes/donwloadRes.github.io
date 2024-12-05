@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 安装 VNC Server 6.2.1 并配置用户名和密码"
+title: "Windows 安装 VNC Server 621 并配置用户名和密码"
 date:   2022-11-02
 tags: [VNC,Server,用户名,密码,安装]
 comments: true

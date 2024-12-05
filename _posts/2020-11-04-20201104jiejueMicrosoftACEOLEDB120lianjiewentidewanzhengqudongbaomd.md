@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Microsoft.ACE.OLEDB.12.0连接问题的完整驱动包"
+title: "解决MicrosoftACEOLEDB120连接问题的完整驱动包"
 date:   2024-02-12
 tags: [驱动,Microsoft,ACE,OLEDB.12,连接]
 comments: true

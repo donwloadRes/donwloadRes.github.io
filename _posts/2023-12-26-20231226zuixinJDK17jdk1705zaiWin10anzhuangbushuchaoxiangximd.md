@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新JDK17（jdk-17.0.5）在Win10安装部署（超详细）"
+title: "最新JDK17jdk1705在Win10安装部署超详细"
 date:   2020-12-14
 tags: [JDK17,安装,17.0,Win10,路径]
 comments: true

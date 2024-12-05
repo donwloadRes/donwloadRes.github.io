@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 基于MQTTNet的服务端与客户端通信案例"
+title: "C 基于MQTTNet的服务端与客户端通信案例"
 date:   2023-01-17
 tags: [服务端,客户端,C#,MQTTNet,MQTT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAR-CCM+ 帮助教程下载"
+title: "STARCCM 帮助教程下载"
 date:   2024-07-24
 tags: [STAR,CCM,教程,star,ccm]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 中文版 API 手册（免费版）"
+title: "JDK 18 中文版 API 手册免费版"
 date:   2023-02-17
 tags: [JDK,1.8,API,开发者,手册]
 comments: true

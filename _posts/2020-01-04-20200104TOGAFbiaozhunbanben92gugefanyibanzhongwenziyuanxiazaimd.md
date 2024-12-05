@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOGAF®标准版本9.2（谷歌翻译版）中文资源下载"
+title: "TOGAF标准版本92谷歌翻译版中文资源下载"
 date:   2022-06-22
 tags: [TOGAF,翻译,9.2,文档,版本]
 comments: true

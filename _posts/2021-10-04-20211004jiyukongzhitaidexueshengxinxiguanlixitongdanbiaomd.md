@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于控制台的学生信息管理系统（单表）"
+title: "基于控制台的学生信息管理系统单表"
 date:   2022-09-20
 tags: [项目,数据库,MySQL,登录,学生]
 comments: true

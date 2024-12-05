@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "反编译工具：DLL 转 C-C++ 代码"
+title: "反编译工具DLL 转 CC 代码"
 date:   2022-06-17
 tags: [DLL,工具,反编译,C++,文件]
 comments: true

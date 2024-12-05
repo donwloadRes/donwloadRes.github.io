@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407标准例程-库函数版本"
+title: "STM32F407标准例程库函数版本"
 date:   2020-12-19
 tags: [实验,通信,库函数,例程,文件]
 comments: true

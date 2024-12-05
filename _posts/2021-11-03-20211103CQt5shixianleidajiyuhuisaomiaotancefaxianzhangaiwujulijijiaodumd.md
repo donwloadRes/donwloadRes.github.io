@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt5 实现雷达及余晖扫描：探测发现障碍物距离及角度"
+title: "C Qt5 实现雷达及余晖扫描探测发现障碍物距离及角度"
 date:   2023-01-21
 tags: [雷达,Qt,C++,扫描,障碍物]
 comments: true

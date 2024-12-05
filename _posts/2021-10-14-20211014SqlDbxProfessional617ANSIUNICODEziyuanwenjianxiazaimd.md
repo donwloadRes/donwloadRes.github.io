@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SqlDbx Professional 6.17 (ANSI+UNICODE) 资源文件下载"
+title: "SqlDbx Professional 617 ANSIUNICODE 资源文件下载"
 date:   2023-06-05
 tags: [SqlDbx,Professional,版本,6.17,ANSI]
 comments: true

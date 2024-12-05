@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级Ubuntu搭建割草机（原神私服）教程"
+title: "保姆级Ubuntu搭建割草机原神私服教程"
 date:   2024-05-22
 tags: [原神,搭建,客户端,私服,Ubuntu]
 comments: true

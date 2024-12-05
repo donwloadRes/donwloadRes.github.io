@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6g典型场景和关键能力》白皮书"
+title: "6g典型场景和关键能力白皮书"
 date:   2021-10-28
 tags: [6G,白皮书,场景,6g,技术]
 comments: true

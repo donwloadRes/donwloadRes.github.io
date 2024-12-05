@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch实现植物大战僵尸游戏：完整代码与素材包分享"
+title: "Scratch实现植物大战僵尸游戏完整代码与素材包分享"
 date:   2021-04-24
 tags: [Scratch,僵尸,游戏,素材,编程]
 comments: true

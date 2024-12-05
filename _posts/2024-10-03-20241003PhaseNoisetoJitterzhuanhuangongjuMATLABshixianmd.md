@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phase Noise to Jitter 转换工具 - MATLAB 实现"
+title: "Phase Noise to Jitter 转换工具  MATLAB 实现"
 date:   2023-05-06
 tags: [抖动,相位,频率,10,噪声]
 comments: true

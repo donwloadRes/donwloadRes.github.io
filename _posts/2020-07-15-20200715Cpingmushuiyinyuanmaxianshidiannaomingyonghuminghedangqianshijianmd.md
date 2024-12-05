@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 屏幕水印源码 - 显示电脑名、用户名和当前时间"
+title: "C 屏幕水印源码  显示电脑名用户名和当前时间"
 date:   2020-04-11
 tags: [水印,屏幕,源码,截图,当前]
 comments: true

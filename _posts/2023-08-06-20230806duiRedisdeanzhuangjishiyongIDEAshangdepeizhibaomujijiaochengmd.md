@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对Redis的安装及使用——IDEA上的配置保姆级教程"
+title: "对Redis的安装及使用IDEA上的配置保姆级教程"
 date:   2023-10-26
 tags: [Redis,IDEA,Spring,配置,教程]
 comments: true

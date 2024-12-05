@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯嵌入式2024年资料包（STM32G431RBT6--CT117-M4）"
+title: "蓝桥杯嵌入式2024年资料包STM32G431RBT6CT117M4"
 date:   2023-02-21
 tags: [资料,比赛,蓝桥,STM32G431RBT6,CT117]
 comments: true

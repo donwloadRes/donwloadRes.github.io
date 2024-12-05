@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt检测CPU温度（Windows运行版本）"
+title: "Qt检测CPU温度Windows运行版本"
 date:   2024-04-15
 tags: [Qt,CPU,Windows,运行,温度]
 comments: true

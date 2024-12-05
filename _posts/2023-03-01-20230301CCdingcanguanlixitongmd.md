@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++订餐管理系统"
+title: "CC订餐管理系统"
 date:   2023-03-28
 tags: [菜品,订餐,顾客,系统维护,查询]
 comments: true

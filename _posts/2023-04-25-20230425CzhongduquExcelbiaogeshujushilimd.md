@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中读取Excel表格数据实例"
+title: "C中读取Excel表格数据实例"
 date:   2020-10-27
 tags: [Excel,C#,Office,读取,示例]
 comments: true

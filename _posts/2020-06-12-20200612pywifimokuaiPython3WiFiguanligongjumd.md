@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pywifi-模块 - Python3 WiFi管理工具"
+title: "pywifi模块  Python3 WiFi管理工具"
 date:   2020-01-30
 tags: [pywifi,WiFi,模块,Python3,Python]
 comments: true

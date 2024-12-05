@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot旧物回收管理系统 源码+数据库 介绍"
+title: "SpringBoot旧物回收管理系统 源码数据库 介绍"
 date:   2020-02-14
 tags: [回收,SpringBoot,废品,用户,数据库]
 comments: true

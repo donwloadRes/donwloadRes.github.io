@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sony-imx482 Arm-Linux驱动程序源码"
+title: "sonyimx482 ArmLinux驱动程序源码"
 date:   2020-11-12
 tags: [Linux,源码,驱动程序,Arm,Sony]
 comments: true

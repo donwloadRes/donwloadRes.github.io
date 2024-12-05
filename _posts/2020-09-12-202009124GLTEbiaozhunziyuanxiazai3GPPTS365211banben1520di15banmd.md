@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4G LTE标准资源下载：3GPP TS 36.521-1 版本 15.2.0 第 15 版"
+title: "4G LTE标准资源下载3GPP TS 365211 版本 1520 第 15 版"
 date:   2024-11-17
 tags: [4G,LTE,3GPP,文档,15]
 comments: true

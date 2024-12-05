@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析（华东师大）资源下载"
+title: "数学分析华东师大资源下载"
 date:   2024-08-31
 tags: [数学分析,华东师大,下载,资源,教材]
 comments: true

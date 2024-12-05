@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟虚拟机镜像文件下载4.0.2"
+title: "麒麟虚拟机镜像文件下载402"
 date:   2021-11-27
 tags: [虚拟机,麒麟,镜像文件,下载,4.0]
 comments: true

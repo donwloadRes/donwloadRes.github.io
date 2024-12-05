@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十进制计数器+七段译码器"
+title: "十进制计数器七段译码器"
 date:   2022-03-09
 tags: [计数器,译码器,七段,VHDL,十进制]
 comments: true

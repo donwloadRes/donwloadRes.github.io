@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直接调用易飞模块_Delphi_源码9.0"
+title: "直接调用易飞模块Delphi源码90"
 date:   2021-07-02
 tags: [源码,易飞,Delphi,9.0,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3U VPX 结构图资源：Altium Designer 设计文件"
+title: "3U VPX 结构图资源Altium Designer 设计文件"
 date:   2020-06-06
 tags: [VPX,Altium,Designer,原理图,3U]
 comments: true

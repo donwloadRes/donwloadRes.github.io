@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "构建一个简单的HTTP服务器的C#程序实例"
+title: "构建一个简单的HTTP服务器的C程序实例"
 date:   2023-01-05
 tags: [服务器,HTTP,客户端,请求,C#]
 comments: true

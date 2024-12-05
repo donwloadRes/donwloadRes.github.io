@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 64位版本5.0.14.1 下载仓库"
+title: "Redis 64位版本50141 下载仓库"
 date:   2021-12-27
 tags: [Redis,64,5.0,14.1,版本]
 comments: true

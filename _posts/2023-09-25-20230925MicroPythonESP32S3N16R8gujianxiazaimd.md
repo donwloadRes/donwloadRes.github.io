@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MicroPython ESP32-S3 N16R8 固件下载"
+title: "MicroPython ESP32S3 N16R8 固件下载"
 date:   2023-03-15
 tags: [固件,ESP32,S3,烧录,MicroPython]
 comments: true

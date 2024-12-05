@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "离散数学期末复习笔记【精华版】"
+title: "离散数学期末复习笔记精华版"
 date:   2024-02-09
 tags: [离散数学,复习,笔记,知识点,精华版]
 comments: true

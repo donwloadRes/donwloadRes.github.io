@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open3D-PointNet2-Semantic3D：基于Open3D与PointNet++的3D语义分割实践"
+title: "Open3DPointNet2Semantic3D基于Open3D与PointNet的3D语义分割实践"
 date:   2023-04-20
 tags: [Open3D,3D,Semantic3D,PointNet,语义]
 comments: true

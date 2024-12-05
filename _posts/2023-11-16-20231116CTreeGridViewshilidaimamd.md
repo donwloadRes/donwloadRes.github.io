@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TreeGridView 示例代码"
+title: "C TreeGridView 示例代码"
 date:   2020-05-27
 tags: [示例,TreeGridView,C#,代码,树形]
 comments: true

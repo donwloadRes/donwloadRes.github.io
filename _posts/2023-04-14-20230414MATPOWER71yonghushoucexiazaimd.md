@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATPOWER7.1用户手册下载"
+title: "MATPOWER71用户手册下载"
 date:   2020-06-26
 tags: [MATPOWER7.1,用户手册,下载,PDF,文件大小]
 comments: true

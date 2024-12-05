@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TIPTOP 电子看板"
+title: "C TIPTOP 电子看板"
 date:   2023-04-16
 tags: [ERP,TIPTOP,电子,文档,连接]
 comments: true

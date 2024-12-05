@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Server 2019 .NET 3.5 SXS 文件夹资源下载"
+title: "Server 2019 NET 35 SXS 文件夹资源下载"
 date:   2020-08-21
 tags: [SXS,安装,2019,NET,3.5]
 comments: true

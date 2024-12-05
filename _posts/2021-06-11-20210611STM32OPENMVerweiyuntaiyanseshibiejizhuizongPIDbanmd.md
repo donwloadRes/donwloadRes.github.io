@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+OPENMV二维云台颜色识别及追踪PID版"
+title: "STM32OPENMV二维云台颜色识别及追踪PID版"
 date:   2021-01-27
 tags: [STM32,OPENMV,追踪,云台,二维]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.9.2009 误删 Python 2.7 整合包恢复指南"
+title: "CentOS 792009 误删 Python 27 整合包恢复指南"
 date:   2023-10-05
 tags: [--,rpm,Python,2.7,文件]
 comments: true

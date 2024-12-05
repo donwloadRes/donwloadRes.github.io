@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享54个ASP.NET源码总有一个是你想要的"
+title: "分享54个ASPNET源码总有一个是你想要的"
 date:   2022-12-16
 tags: [ASP,NET,源码,MVC,Core]
 comments: true

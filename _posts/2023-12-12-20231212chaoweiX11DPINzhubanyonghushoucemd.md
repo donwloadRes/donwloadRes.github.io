@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超微 X11DPI-N主板用户手册"
+title: "超微 X11DPIN主板用户手册"
 date:   2024-04-11
 tags: [超微,X11DPI,主板,用户手册,本手册]
 comments: true

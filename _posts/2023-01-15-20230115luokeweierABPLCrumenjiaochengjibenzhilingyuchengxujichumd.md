@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "罗克韦尔AB PLC入门教程：基本指令与程序基础"
+title: "罗克韦尔AB PLC入门教程基本指令与程序基础"
 date:   2024-11-28
 tags: [PLC,AB,罗克韦尔,编程,寻址]
 comments: true

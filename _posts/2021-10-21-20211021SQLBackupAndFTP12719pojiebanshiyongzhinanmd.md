@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLBackupAndFTP 12.7.19 破解版使用指南"
+title: "SQLBackupAndFTP 12719 破解版使用指南"
 date:   2024-03-20
 tags: [19,SQLBackupAndFTP,12.7,破解版,使用]
 comments: true

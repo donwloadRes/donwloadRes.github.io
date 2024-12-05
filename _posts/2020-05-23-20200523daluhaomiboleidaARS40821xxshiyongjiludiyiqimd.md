@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大陆毫米波雷达ARS408-21xx使用记录：第一期"
+title: "大陆毫米波雷达ARS40821xx使用记录第一期"
 date:   2020-07-21
 tags: [雷达,ARS408,21xx,毫米波,记录]
 comments: true

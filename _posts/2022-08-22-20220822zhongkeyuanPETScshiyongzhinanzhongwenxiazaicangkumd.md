@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科院PETSc使用指南（中文）下载仓库"
+title: "中科院PETSc使用指南中文下载仓库"
 date:   2022-09-14
 tags: [PETSc,使用指南,中科院,下载,指南]
 comments: true

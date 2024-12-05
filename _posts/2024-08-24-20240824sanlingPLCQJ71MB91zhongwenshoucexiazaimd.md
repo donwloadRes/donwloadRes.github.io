@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC-QJ71MB91 中文手册下载"
+title: "三菱PLCQJ71MB91 中文手册下载"
 date:   2020-06-23
 tags: [QJ71MB91,PLC,手册,模块,三菱]
 comments: true

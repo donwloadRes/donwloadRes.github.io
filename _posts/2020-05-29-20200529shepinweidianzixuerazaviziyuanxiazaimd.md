@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "射频微电子学_razavi 资源下载"
+title: "射频微电子学razavi 资源下载"
 date:   2023-10-15
 tags: [射频,微电子学,下载,电路设计,razavi]
 comments: true

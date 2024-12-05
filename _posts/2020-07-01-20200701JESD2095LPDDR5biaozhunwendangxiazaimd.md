@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD209-5 LPDDR5 标准文档下载"
+title: "JESD2095 LPDDR5 标准文档下载"
 date:   2023-09-02
 tags: [LPDDR5,文档,JESD209,pdf,rar]
 comments: true

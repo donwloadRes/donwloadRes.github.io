@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：赛车漂移算法1"
+title: "Unity3D教程赛车漂移算法1"
 date:   2023-08-06
 tags: [漂移,赛车,Unity3D,教程,游戏]
 comments: true

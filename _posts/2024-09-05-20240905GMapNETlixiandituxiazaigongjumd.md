@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GMap.NET离线地图下载工具"
+title: "GMapNET离线地图下载工具"
 date:   2022-10-18
 tags: [地图,离线,下载,GMap,NET]
 comments: true

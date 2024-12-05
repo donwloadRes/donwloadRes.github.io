@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT项目实例源码 - C++ 修改用户资料"
+title: "QT项目实例源码  C 修改用户资料"
 date:   2022-05-05
 tags: [QT,源码,窗口,项目,学习]
 comments: true

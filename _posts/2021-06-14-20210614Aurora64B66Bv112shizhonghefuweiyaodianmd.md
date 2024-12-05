@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aurora 64B-66B v11.2 时钟和复位要点"
+title: "Aurora 64B66B v112 时钟和复位要点"
 date:   2024-03-11
 tags: [Aurora,复位,时钟,64B,66B]
 comments: true

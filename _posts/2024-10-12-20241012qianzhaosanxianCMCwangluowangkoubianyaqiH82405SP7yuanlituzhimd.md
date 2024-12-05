@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "千兆三线CMC网络网口变压器H82405SP-7原理图纸"
+title: "千兆三线CMC网络网口变压器H82405SP7原理图纸"
 date:   2020-06-13
 tags: [千兆,CMC,网口,变压器,H82405SP]
 comments: true

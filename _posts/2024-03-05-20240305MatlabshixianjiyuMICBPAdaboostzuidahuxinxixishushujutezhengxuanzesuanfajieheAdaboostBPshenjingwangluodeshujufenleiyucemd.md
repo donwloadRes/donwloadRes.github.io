@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现基于MIC-BP-Adaboost最大互信息系数数据特征选择算法结合Adaboost-BP神经网络的数据分类预测"
+title: "Matlab实现基于MICBPAdaboost最大互信息系数数据特征选择算法结合AdaboostBP神经网络的数据分类预测"
 date:   2020-06-06
 tags: [特征选择,BP,Adaboost,分类,MIC]
 comments: true

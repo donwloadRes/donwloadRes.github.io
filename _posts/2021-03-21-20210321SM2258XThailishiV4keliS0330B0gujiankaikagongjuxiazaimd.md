@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2258XT海力士V4颗粒（S0330B0固件）开卡工具下载"
+title: "SM2258XT海力士V4颗粒S0330B0固件开卡工具下载"
 date:   2021-02-25
 tags: [开卡,工具,海力士,SM2258XT,V4]
 comments: true

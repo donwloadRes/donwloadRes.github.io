@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++外卖点餐系统资源文件介绍"
+title: "C外卖点餐系统资源文件介绍"
 date:   2024-08-11
 tags: [C++,餐品,用户,退订,卖点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil（MDK）STM32和51版本详细安装教程"
+title: "KeilMDKSTM32和51版本详细安装教程"
 date:   2021-02-25
 tags: [Keil,安装,MDK,STM32,51]
 comments: true

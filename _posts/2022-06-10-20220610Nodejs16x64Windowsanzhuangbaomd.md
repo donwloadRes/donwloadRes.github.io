@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js 16 x64 Windows 安装包"
+title: "Nodejs 16 x64 Windows 安装包"
 date:   2023-01-19
 tags: [Node,js,安装包,x64,安装]
 comments: true

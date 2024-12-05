@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DISM++ 封装系统工具"
+title: "DISM 封装系统工具"
 date:   2024-04-04
 tags: [DISM,封装,++,工具,系统]
 comments: true

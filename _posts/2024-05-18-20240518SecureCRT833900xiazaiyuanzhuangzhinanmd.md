@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 8.3.3-9.0.0 下载与安装指南"
+title: "SecureCRT 833900 下载与安装指南"
 date:   2020-05-22
 tags: [SecureCRT,指南,安装,9.0,下载]
 comments: true

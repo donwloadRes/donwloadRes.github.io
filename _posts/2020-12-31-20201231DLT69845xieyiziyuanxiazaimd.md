@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT698.45协议资源下载"
+title: "DLT69845协议资源下载"
 date:   2022-11-26
 tags: [DLT698.45,资源,协议,下载,PDF]
 comments: true

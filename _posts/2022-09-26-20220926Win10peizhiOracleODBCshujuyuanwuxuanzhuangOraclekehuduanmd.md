@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10配置Oracle ODBC数据源（无需安装Oracle客户端）"
+title: "Win10配置Oracle ODBC数据源无需安装Oracle客户端"
 date:   2022-04-24
 tags: [Oracle,数据源,ODBC,instantclient,windows]
 comments: true

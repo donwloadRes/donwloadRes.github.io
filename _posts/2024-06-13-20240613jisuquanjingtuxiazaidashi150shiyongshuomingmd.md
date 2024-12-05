@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "极速全景图下载大师1.5.0 使用说明"
+title: "极速全景图下载大师150 使用说明"
 date:   2020-04-03
 tags: [下载,全景图,全景,软件,1.5]
 comments: true

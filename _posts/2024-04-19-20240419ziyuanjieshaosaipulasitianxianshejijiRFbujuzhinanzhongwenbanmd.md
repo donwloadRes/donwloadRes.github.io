@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资源介绍：赛普拉斯天线设计及RF布局指南（中文版）"
+title: "资源介绍赛普拉斯天线设计及RF布局指南中文版"
 date:   2022-05-01
 tags: [天线,设计,布局,RF,无线]
 comments: true

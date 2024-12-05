@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sublime Text 4（Build 4126）下载注册及配置指南"
+title: "Sublime Text 4Build 4126下载注册及配置指南"
 date:   2021-10-17
 tags: [Sublime,Text,下载,运行,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Access应用实例——图书借阅管理系统"
+title: "Access应用实例图书借阅管理系统"
 date:   2023-07-01
 tags: [借阅,图书,Access,管理,管理系统]
 comments: true

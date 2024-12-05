@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现C4.5决策树在鸢尾花数据集上的分类应用"
+title: "Python实现C45决策树在鸢尾花数据集上的分类应用"
 date:   2023-03-24
 tags: [决策树,Python,C4.5,数据,分类]
 comments: true

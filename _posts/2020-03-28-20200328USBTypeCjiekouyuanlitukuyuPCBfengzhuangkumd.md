@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Type-C 接口原理图库与PCB封装库"
+title: "USB TypeC 接口原理图库与PCB封装库"
 date:   2023-06-16
 tags: [封装,PCB,图库,文件,接口]
 comments: true

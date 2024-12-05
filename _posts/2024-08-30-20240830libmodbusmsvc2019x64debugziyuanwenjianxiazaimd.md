@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libmodbus-msvc2019-x64-debug 资源文件下载"
+title: "libmodbusmsvc2019x64debug 资源文件下载"
 date:   2024-01-16
 tags: [libmodbus,文件,msvc2019,x64,debug]
 comments: true

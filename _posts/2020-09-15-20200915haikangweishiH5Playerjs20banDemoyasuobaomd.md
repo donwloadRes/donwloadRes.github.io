@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视H5Player.js 2.0版Demo压缩包"
+title: "海康威视H5Playerjs 20版Demo压缩包"
 date:   2020-11-25
 tags: [Demo,H5Player,js,压缩包,威视]
 comments: true

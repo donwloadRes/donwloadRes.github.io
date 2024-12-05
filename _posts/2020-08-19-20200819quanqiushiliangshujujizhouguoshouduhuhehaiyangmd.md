@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球矢量数据集 (洲、国、首都、湖河、海洋)"
+title: "全球矢量数据集 洲国首都湖河海洋"
 date:   2024-08-23
 tags: [数据,矢量,https,全球,GIS]
 comments: true

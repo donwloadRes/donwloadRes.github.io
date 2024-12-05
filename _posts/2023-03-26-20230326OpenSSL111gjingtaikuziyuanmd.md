@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL 1.1.1g 静态库资源"
+title: "OpenSSL 111g 静态库资源"
 date:   2023-01-28
 tags: [OpenSSL,1g,Windows,静态,Ubuntu]
 comments: true

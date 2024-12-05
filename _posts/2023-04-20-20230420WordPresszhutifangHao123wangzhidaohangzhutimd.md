@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WordPress主题：仿Hao123网址导航主题"
+title: "WordPress主题仿Hao123网址导航主题"
 date:   2020-10-28
 tags: [主题,页面,导航,WordPress,单页]
 comments: true

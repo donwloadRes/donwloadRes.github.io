@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+FFmpeg录屏工具"
+title: "QtFFmpeg录屏工具"
 date:   2021-02-19
 tags: [录屏,工具,录制,MP4,可执行文件]
 comments: true

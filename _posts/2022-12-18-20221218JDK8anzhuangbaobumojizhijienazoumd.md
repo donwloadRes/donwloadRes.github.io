@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK8安装包 （不墨迹直接拿走）"
+title: "JDK8安装包 不墨迹直接拿走"
 date:   2022-11-20
 tags: [JDK8,安装,下载,Java,JDK]
 comments: true

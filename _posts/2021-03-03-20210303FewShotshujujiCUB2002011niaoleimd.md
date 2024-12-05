@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Few Shot数据集：CUB-200-2011 鸟类"
+title: "Few Shot数据集CUB2002011 鸟类"
 date:   2021-08-10
 tags: [200,标注,类别,CUB,2011]
 comments: true

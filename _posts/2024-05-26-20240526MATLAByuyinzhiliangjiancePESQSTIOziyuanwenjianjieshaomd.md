@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB语音质量检测（PESQ-STIO）资源文件介绍"
+title: "MATLAB语音质量检测PESQSTIO资源文件介绍"
 date:   2020-09-03
 tags: [MATLAB,语音,PESQ,STIO,程序]
 comments: true

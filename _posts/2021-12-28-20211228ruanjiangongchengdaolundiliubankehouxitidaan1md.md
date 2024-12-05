@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程导论(第六版)课后习题答案1"
+title: "软件工程导论第六版课后习题答案1"
 date:   2024-01-02
 tags: [第六版,软件,习题,软件工程,答案]
 comments: true

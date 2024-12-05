@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最简单的LSTM文本分类实现：搜狗新闻文本分类（附代码）"
+title: "史上最简单的LSTM文本分类实现搜狗新闻文本分类附代码"
 date:   2022-12-25
 tags: [模型,LSTM,py,文本,测试]
 comments: true

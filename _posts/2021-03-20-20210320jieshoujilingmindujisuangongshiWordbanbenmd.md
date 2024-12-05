@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "接收机灵敏度计算公式（Word版本）"
+title: "接收机灵敏度计算公式Word版本"
 date:   2024-09-03
 tags: [文件,接收机,灵敏度,计算公式,Word]
 comments: true

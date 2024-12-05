@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5与Python-docx库的混合编程：实现Qt读写Word文档"
+title: "Qt5与Pythondocx库的混合编程实现Qt读写Word文档"
 date:   2020-02-23
 tags: [Python,Qt,Word,应用程序,docx]
 comments: true

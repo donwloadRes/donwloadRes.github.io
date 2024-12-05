@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性光耦原理与电路设计：4-20mA模拟量隔离模块在PLC采集中的应用"
+title: "线性光耦原理与电路设计420mA模拟量隔离模块在PLC采集中的应用"
 date:   2020-08-02
 tags: [PLC,线性,隔离,电路设计,采集]
 comments: true

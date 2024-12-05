@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SSM框架的租车管理系统 - Java毕业设计"
+title: "基于SSM框架的租车管理系统  Java毕业设计"
 date:   2020-09-11
 tags: [租车,用户,SSM,数据库,框架]
 comments: true

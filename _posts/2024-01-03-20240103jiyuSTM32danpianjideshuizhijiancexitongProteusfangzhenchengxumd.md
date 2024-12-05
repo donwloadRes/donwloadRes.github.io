@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的水质监测系统（Proteus仿真+程序）"
+title: "基于STM32单片机的水质监测系统Proteus仿真程序"
 date:   2023-11-26
 tags: [仿真,Proteus,传感器,浊度,STM32]
 comments: true

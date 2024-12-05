@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus 服务端（从站）C++小项目源码"
+title: "Modbus 服务端从站C小项目源码"
 date:   2021-03-12
 tags: [源码,Modbus,功能,项目,服务端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Makefile 教程（中文版）下载"
+title: "Makefile 教程中文版下载"
 date:   2020-10-29
 tags: [Makefile,教程,中文版,文件,makefile]
 comments: true

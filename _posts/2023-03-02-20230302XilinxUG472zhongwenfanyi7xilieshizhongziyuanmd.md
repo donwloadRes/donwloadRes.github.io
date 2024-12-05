@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx UG472 中文翻译：7系列时钟资源"
+title: "Xilinx UG472 中文翻译7系列时钟资源"
 date:   2020-03-20
 tags: [时钟,FPGA,文档,Xilinx,中文翻译]
 comments: true

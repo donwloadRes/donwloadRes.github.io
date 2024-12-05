@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数导论 3.2 A 的零空间"
+title: "线性代数导论 32 A 的零空间"
 date:   2023-04-09
 tags: [零空间,Ax,元法,矩阵,线性代数]
 comments: true

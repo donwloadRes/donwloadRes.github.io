@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ehviewer_CN_SXJ-1.9.7.7：高效漫画浏览工具"
+title: "EhviewerCNSXJ1977高效漫画浏览工具"
 date:   2022-11-25
 tags: [漫画,Ehviewer,1.9,7.7,CN]
 comments: true

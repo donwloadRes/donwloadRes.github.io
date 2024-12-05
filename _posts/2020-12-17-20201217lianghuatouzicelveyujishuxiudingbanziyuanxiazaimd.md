@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量化投资策略与技术（修订版）资源下载"
+title: "量化投资策略与技术修订版资源下载"
 date:   2023-11-21
 tags: [量化,PDF,投资,修订版,下载]
 comments: true

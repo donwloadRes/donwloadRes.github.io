@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++语言编译器 for VScode"
+title: "CC语言编译器 for VScode"
 date:   2020-03-03
 tags: [编译器,VScode,C++,编译,mingw]
 comments: true

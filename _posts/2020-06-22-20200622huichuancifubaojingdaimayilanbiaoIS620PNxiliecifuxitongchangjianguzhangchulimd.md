@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇川伺服报警代码一览表 - IS620P(N)系列伺服系统常见故障处理"
+title: "汇川伺服报警代码一览表  IS620PN系列伺服系统常见故障处理"
 date:   2022-04-23
 tags: [汇川,代码,伺服系统,报警,故障]
 comments: true

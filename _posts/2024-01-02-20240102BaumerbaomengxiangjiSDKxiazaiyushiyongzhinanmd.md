@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baumer（堡盟）相机SDK下载与使用指南"
+title: "Baumer堡盟相机SDK下载与使用指南"
 date:   2023-08-28
 tags: [相机,Baumer,SDK,堡盟,安装]
 comments: true

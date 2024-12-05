@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于RK3399核心板的nanoPC-T4 线刷桌面版系统"
+title: "基于RK3399核心板的nanoPCT4 线刷桌面版系统"
 date:   2021-03-13
 tags: [nanoPC,T4,桌面版,刷机,系统]
 comments: true

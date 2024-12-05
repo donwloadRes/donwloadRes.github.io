@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++与Qt实现将定时器放入子线程中运行"
+title: "C与Qt实现将定时器放入子线程中运行"
 date:   2020-08-29
 tags: [线程,定时器,Qt,QTimer,在子]
 comments: true

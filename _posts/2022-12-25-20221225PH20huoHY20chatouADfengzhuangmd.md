@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PH2.0 或 HY2.0 插头 AD封装"
+title: "PH20 或 HY20 插头 AD封装"
 date:   2024-09-10
 tags: [封装,PH2.0,HY2.0,插头,设计]
 comments: true

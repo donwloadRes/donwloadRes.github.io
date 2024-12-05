@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编程珠玑 Programming Pearls 第二版（中文版+源代码）"
+title: "编程珠玑 Programming Pearls 第二版中文版源代码"
 date:   2021-02-24
 tags: [编程,源代码,珠玑,中文版,思考]
 comments: true

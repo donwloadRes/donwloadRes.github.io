@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统（奥本海默）第二版资源下载"
+title: "信号与系统奥本海默第二版资源下载"
 date:   2020-07-24
 tags: [奥本海默,影印版,资源,信号,第二]
 comments: true

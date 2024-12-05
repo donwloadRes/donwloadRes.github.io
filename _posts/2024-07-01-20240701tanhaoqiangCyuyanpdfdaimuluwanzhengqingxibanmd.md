@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谭浩强C语言_pdf带目录完整清晰版"
+title: "谭浩强C语言pdf带目录完整清晰版"
 date:   2020-07-29
 tags: [C语言,谭浩强,编程,pdf,清晰版]
 comments: true

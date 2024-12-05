@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus串口驱动及USB-Blaster驱动下载指南"
+title: "Quartus串口驱动及USBBlaster驱动下载指南"
 date:   2022-09-16
 tags: [串口,Quartus,驱动,USB,Blaster]
 comments: true

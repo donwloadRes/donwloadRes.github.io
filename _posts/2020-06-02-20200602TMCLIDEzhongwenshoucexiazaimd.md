@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMCL-IDE中文手册下载"
+title: "TMCLIDE中文手册下载"
 date:   2020-10-15
 tags: [TMCL,IDE,手册,中文,下载]
 comments: true

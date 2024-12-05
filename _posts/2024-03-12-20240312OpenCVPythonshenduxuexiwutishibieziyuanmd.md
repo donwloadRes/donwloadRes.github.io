@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python深度学习物体识别资源"
+title: "OpenCVPython深度学习物体识别资源"
 date:   2020-05-06
 tags: [OpenCV,Python,识别,物体,资源]
 comments: true

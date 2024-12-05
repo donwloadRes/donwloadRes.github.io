@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe4.0 PHY测试规范文档"
+title: "PCIe40 PHY测试规范文档"
 date:   2021-09-20
 tags: [PCIe4.0,文档,PHY,测试,规范]
 comments: true

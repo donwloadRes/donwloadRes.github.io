@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络规划设计师教程(第二版) PDF 下载"
+title: "网络规划设计师教程第二版 PDF 下载"
 date:   2023-12-24
 tags: [PDF,教程,设计师,网络,规划]
 comments: true

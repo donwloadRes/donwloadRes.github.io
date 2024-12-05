@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线（第三版）约翰克劳斯中文高清全本"
+title: "天线第三版约翰克劳斯中文高清全本"
 date:   2021-08-17
 tags: [第三版,高清,PDF,全本,克劳斯]
 comments: true

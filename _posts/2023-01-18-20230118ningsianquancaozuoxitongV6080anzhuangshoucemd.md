@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凝思安全操作系统V6.0.80安装手册"
+title: "凝思安全操作系统V6080安装手册"
 date:   2022-02-20
 tags: [安全,凝思,操作系统,安装,手册]
 comments: true

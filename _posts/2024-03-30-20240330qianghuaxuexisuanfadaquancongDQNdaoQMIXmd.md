@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "强化学习算法大全：从DQN到QMIX"
+title: "强化学习算法大全从DQN到QMIX"
 date:   2020-05-28
 tags: [算法,学习,强化,QMIX,Deep]
 comments: true

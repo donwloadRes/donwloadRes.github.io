@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fundamentals of Statistical Signal Processing》系列中文版下载"
+title: "Fundamentals of Statistical Signal Processing系列中文版下载"
 date:   2020-04-17
 tags: [中文版,系列,Fundamentals,Statistical,Signal]
 comments: true

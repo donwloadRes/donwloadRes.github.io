@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M7 内核编程技术说明文档(英文)"
+title: "ARM CortexM7 内核编程技术说明文档英文"
 date:   2022-03-16
 tags: [M7,ARM,Cortex,内核,文档]
 comments: true

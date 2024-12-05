@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inno Setup 仿大厂安装包：全方位定制化安装体验"
+title: "Inno Setup 仿大厂安装包全方位定制化安装体验"
 date:   2023-09-03
 tags: [Inno,Setup,安装包,安装,脚本]
 comments: true

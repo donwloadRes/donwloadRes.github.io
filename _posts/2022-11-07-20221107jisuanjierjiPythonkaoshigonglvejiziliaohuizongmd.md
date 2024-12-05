@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【计算机二级Python】考试攻略及资料汇总"
+title: "计算机二级Python考试攻略及资料汇总"
 date:   2023-12-12
 tags: [考试,Python,真题,备考,学习]
 comments: true

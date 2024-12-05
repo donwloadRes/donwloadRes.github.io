@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医院挂号系统 - 前后端完整实现"
+title: "医院挂号系统  前后端完整实现"
 date:   2020-01-31
 tags: [挂号,数据库,MySQL,Tomcat,病人]
 comments: true

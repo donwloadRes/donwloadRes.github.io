@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序商城版前台+PHP后台完整版"
+title: "微信小程序商城版前台PHP后台完整版"
 date:   2022-09-23
 tags: [微信,文档,后台,商城,PHP]
 comments: true

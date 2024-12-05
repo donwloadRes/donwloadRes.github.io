@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "知网情感词典（HOWNET）下载仓库"
+title: "知网情感词典HOWNET下载仓库"
 date:   2022-05-21
 tags: [情感,词典,知网,HOWNET,文件]
 comments: true

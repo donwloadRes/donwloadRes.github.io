@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字人解决方案——ER-NeRF实时对话数字人模型推理部署带UI交互界面"
+title: "数字人解决方案ERNeRF实时对话数字人模型推理部署带UI交互界面"
 date:   2024-02-03
 tags: [ER,NeRF,UI,对话,bash]
 comments: true

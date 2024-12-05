@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 编译成exe文件如何打包 如何包含依赖的dll，图文并茂手把手教你"
+title: "QT 编译成exe文件如何打包 如何包含依赖的dll图文并茂手把手教你"
 date:   2020-06-22
 tags: [DLL,文件,exe,QT6.4,文档]
 comments: true

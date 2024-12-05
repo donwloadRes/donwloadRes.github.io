@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优控制理论与系统》习题解答"
+title: "最优控制理论与系统习题解答"
 date:   2020-04-24
 tags: [习题,解答,最优控制,老版,教材]
 comments: true

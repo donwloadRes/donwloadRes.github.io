@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCU控制策略整理V01.pdf"
+title: "VCU控制策略整理V01pdf"
 date:   2022-05-04
 tags: [VCU,控制策略,模式,电机,V01]
 comments: true

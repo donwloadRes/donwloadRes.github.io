@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE P802.11be™D3.0 标准文档下载"
+title: "IEEE P80211beD30 标准文档下载"
 date:   2021-05-12
 tags: [IEEE,P802.11,D3.0,标准,文件]
 comments: true

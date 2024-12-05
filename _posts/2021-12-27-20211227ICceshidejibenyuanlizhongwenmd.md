@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC测试的基本原理(中文)"
+title: "IC测试的基本原理中文"
 date:   2021-11-06
 tags: [测试,IC,基本原理,资源,测试方法]
 comments: true

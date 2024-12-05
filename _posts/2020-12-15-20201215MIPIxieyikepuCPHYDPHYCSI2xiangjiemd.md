@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI 协议科普：CPHY、DPHY、CSI-2 详解"
+title: "MIPI 协议科普CPHYDPHYCSI2 详解"
 date:   2022-02-10
 tags: [MIPI,协议,CPHY,DPHY,CSI]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络控制PPT：局域网与远程操控工具"
+title: "网络控制PPT局域网与远程操控工具"
 date:   2023-11-03
 tags: [PPT,局域网,控制,网络,远程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信电子线路-高频小信号调谐放大器实验"
+title: "通信电子线路高频小信号调谐放大器实验"
 date:   2023-09-07
 tags: [高频,谐振,放大器,电路,实验]
 comments: true

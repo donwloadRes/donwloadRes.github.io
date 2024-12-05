@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu Desktop 20.04.1 X64 LTS版（64位）下载地址"
+title: "Ubuntu Desktop 20041 X64 LTS版64位下载地址"
 date:   2024-02-15
 tags: [Ubuntu,20.04,LTS,64,Desktop]
 comments: true

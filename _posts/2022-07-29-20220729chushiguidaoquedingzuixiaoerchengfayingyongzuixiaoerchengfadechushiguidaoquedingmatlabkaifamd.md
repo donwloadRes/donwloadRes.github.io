@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初始轨道确定（最小二乘法）：应用最小二乘法的初始轨道确定-matlab开发"
+title: "初始轨道确定最小二乘法应用最小二乘法的初始轨道确定matlab开发"
 date:   2024-11-17
 tags: [初始,轨道,乘法,卫星,最小]
 comments: true

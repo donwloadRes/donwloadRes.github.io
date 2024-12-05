@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决SolidWorks许可问题：使用此许可文件不支持此版本（-21.126.0）"
+title: "解决SolidWorks许可问题使用此许可文件不支持此版本211260"
 date:   2021-02-10
 tags: [SolidWorks,文件,许可,21.126,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中标麒麟桌面版系统（V7.0）安装教程"
+title: "中标麒麟桌面版系统V70安装教程"
 date:   2020-07-25
 tags: [U盘,安装,启动盘,ISO,桌面版]
 comments: true

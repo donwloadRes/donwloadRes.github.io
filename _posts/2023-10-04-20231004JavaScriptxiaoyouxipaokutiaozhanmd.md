@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript小游戏：跑酷挑战"
+title: "JavaScript小游戏跑酷挑战"
 date:   2021-08-07
 tags: [JavaScript,小游戏,游戏,挑战,跑酷]
 comments: true

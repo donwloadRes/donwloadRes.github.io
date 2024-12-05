@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Android的点餐系统源码（前端+服务器）"
+title: "基于Android的点餐系统源码前端服务器"
 date:   2021-04-21
 tags: [Android,源码,服务器,开发,数据库]
 comments: true

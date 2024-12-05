@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吾爱EXE文件捆绑打包机(文件捆绑机)V18.8.18 免费版"
+title: "吾爱EXE文件捆绑打包机文件捆绑机V18818 免费版"
 date:   2020-08-18
 tags: [文件,EXE,捆绑,V18.8,18]
 comments: true

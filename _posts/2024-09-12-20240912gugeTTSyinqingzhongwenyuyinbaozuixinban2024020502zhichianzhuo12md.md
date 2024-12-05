@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌TTS引擎+中文语音包最新版20240205-02支持安卓12"
+title: "谷歌TTS引擎中文语音包最新版2024020502支持安卓12"
 date:   2020-02-15
 tags: [TTS,12,语音,谷歌,引擎]
 comments: true

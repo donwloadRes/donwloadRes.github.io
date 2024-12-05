@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性控制理论大作业-超精密机床隔振系统的分析与设计"
+title: "线性控制理论大作业超精密机床隔振系统的分析与设计"
 date:   2024-09-22
 tags: [线性,设计,系统,隔振,MATLAB]
 comments: true

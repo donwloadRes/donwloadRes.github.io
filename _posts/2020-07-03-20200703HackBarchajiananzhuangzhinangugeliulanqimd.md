@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HackBar插件安装指南（谷歌浏览器）"
+title: "HackBar插件安装指南谷歌浏览器"
 date:   2024-09-06
 tags: [插件,HackBar,浏览器,解压,谷歌]
 comments: true

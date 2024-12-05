@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QtUsb：跨平台的Qt USB模块"
+title: "QtUsb跨平台的Qt USB模块"
 date:   2024-07-16
 tags: [QtUsb,USB,Qt,dev,设备]
 comments: true

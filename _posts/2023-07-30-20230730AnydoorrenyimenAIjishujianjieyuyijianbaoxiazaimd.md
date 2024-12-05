@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anydoor：“任意门”AI技术简介与一键包下载"
+title: "Anydoor任意门AI技术简介与一键包下载"
 date:   2023-09-26
 tags: [Anydoor,一键,下载,AI,---]
 comments: true

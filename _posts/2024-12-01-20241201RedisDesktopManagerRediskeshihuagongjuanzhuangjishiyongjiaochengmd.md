@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis Desktop Manager(Redis可视化工具)安装及使用教程"
+title: "Redis Desktop ManagerRedis可视化工具安装及使用教程"
 date:   2023-12-27
 tags: [Redis,Desktop,Manager,服务器,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB图像去雾项目（第125期）"
+title: "MATLAB图像去雾项目第125期"
 date:   2021-07-04
 tags: [MATLAB,GUI,项目,界面设计,代码]
 comments: true

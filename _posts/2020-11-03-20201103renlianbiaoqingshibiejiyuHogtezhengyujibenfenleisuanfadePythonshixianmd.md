@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人脸表情识别——基于Hog特征与基本分类算法的Python实现"
+title: "人脸表情识别基于Hog特征与基本分类算法的Python实现"
 date:   2022-08-10
 tags: [表情,Hog,Python,JAFFE,特征提取]
 comments: true

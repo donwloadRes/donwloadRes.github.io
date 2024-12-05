@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文本分类（情感分析）——中文数据集汇总"
+title: "文本分类情感分析中文数据集汇总"
 date:   2021-07-09
 tags: [数据,情感,文本,包含,评论]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 7.0 本质论带图片完整版"
+title: "C 70 本质论带图片完整版"
 date:   2022-02-17
 tags: [C#,7.0,本质论,完整版,文件]
 comments: true

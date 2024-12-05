@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言程序设计(清华大学郑莉)课后习题答案"
+title: "C语言程序设计清华大学郑莉课后习题答案"
 date:   2020-09-04
 tags: [习题,课后,答案,C++,郑莉]
 comments: true

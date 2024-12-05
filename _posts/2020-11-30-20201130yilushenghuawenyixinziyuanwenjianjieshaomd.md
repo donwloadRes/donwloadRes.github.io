@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一路生花 - 温奕心 资源文件介绍"
+title: "一路生花  温奕心 资源文件介绍"
 date:   2023-08-27
 tags: [MATLAB,生花,脚本,温奕心,MP3]
 comments: true

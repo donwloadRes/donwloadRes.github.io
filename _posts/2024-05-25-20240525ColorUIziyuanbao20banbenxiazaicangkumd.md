@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ColorUI资源包2.0版本下载仓库"
+title: "ColorUI资源包20版本下载仓库"
 date:   2022-06-24
 tags: [资源,ColorUI,2.0,UI,组件]
 comments: true

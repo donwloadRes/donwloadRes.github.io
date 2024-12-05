@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动售票：大麦网自动抢票工具-源码"
+title: "自动售票大麦网自动抢票工具源码"
 date:   2024-06-23
 tags: [抢票,源码,Python,安装,版本]
 comments: true

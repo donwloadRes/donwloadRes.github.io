@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW安装指南（包括各类扩展包，例如VDM）"
+title: "LabVIEW安装指南包括各类扩展包例如VDM"
 date:   2024-03-27
 tags: [NI,安装,LabVIEW,VDM,Package]
 comments: true

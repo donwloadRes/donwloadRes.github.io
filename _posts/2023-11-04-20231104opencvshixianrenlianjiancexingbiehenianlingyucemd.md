@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opencv实现人脸检测、性别和年龄预测"
+title: "opencv实现人脸检测性别和年龄预测"
 date:   2021-10-04
 tags: [模型,人脸,性别,预测,OpenCV]
 comments: true

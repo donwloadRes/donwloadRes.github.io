@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5分钟手把手教你 Guitar Pro v8.1.1 Build 17 中文完整激活版(附教程) 64位"
+title: "5分钟手把手教你 Guitar Pro v811 Build 17 中文完整激活版附教程 64位"
 date:   2021-08-11
 tags: [Guitar,Pro,教程,v8.1,激活]
 comments: true

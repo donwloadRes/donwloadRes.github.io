@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.15.2实现低功耗蓝牙调试助手源码"
+title: "Qt5152实现低功耗蓝牙调试助手源码"
 date:   2021-04-01
 tags: [BLE,低功耗,Qt5.15,Windows,蓝牙]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Outlook开机自启+关闭时最小化"
+title: "Outlook开机自启关闭时最小化"
 date:   2021-08-08
 tags: [Outlook,最小化,自启,开机,关闭]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云服务器 CentOS 部署 Code-Server 并配置 C-C++ 环境"
+title: "云服务器 CentOS 部署 CodeServer 并配置 CC 环境"
 date:   2022-12-10
 tags: [Code,Server,C++,配置,服务器]
 comments: true

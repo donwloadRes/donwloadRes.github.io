@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构和算法分析C语言描述习题答案(全部)"
+title: "数据结构和算法分析C语言描述习题答案全部"
 date:   2023-05-20
 tags: [习题,数据结构,算法,答案,C语言]
 comments: true

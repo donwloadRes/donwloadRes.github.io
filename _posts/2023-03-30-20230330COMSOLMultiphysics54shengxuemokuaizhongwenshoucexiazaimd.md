@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL Multiphysics 5.4 声学模块中文手册下载"
+title: "COMSOL Multiphysics 54 声学模块中文手册下载"
 date:   2021-08-31
 tags: [声学,手册,COMSOL,模块,Multiphysics]
 comments: true

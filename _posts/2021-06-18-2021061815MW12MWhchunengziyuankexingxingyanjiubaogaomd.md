@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.5MW-12MWh 储能资源可行性研究报告"
+title: "15MW12MWh 储能资源可行性研究报告"
 date:   2024-05-10
 tags: [储能,1.5,集装箱,可行性研究,资源]
 comments: true

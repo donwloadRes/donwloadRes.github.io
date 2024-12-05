@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB开发-Hatchfill2"
+title: "MATLAB开发Hatchfill2"
 date:   2021-10-14
 tags: [MATLAB,填充,Hatchfill2,使用,阴影]
 comments: true

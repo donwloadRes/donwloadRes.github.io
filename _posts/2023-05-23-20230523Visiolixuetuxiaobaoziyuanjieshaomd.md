@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visio力学图-小包 资源介绍"
+title: "Visio力学图小包 资源介绍"
 date:   2021-11-16
 tags: [Visio,力学,图库,文件,小包]
 comments: true

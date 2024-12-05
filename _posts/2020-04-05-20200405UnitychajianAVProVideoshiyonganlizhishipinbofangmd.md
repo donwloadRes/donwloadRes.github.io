@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity插件-AVPro Video 使用案例之视频播放"
+title: "Unity插件AVPro Video 使用案例之视频播放"
 date:   2024-11-14
 tags: [播放,Unity,插件,视频,MediaPlayer]
 comments: true

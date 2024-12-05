@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言餐饮管理系统（链表实验练习）"
+title: "C语言餐饮管理系统链表实验练习"
 date:   2020-05-03
 tags: [菜品,链表,数据结构,菜单,C语言]
 comments: true

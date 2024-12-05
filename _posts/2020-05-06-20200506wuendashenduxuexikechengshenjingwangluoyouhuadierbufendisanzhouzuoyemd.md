@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达深度学习课程：神经网络优化第二部分第三周作业"
+title: "吴恩达深度学习课程神经网络优化第二部分第三周作业"
 date:   2021-06-28
 tags: [TensorFlow,神经网络,作业,函数,优化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT高级系统：聊天、绘画、支付、分销一应俱全"
+title: "ChatGPT高级系统聊天绘画支付分销一应俱全"
 date:   2024-08-02
 tags: [自定义,ChatGPT,绘画,卡密,修复]
 comments: true

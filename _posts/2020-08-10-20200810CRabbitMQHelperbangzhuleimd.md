@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RabbitMQ Helper 帮助类"
+title: "C RabbitMQ Helper 帮助类"
 date:   2024-07-07
 tags: [RabbitMQ,DLL,帮助,项目,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Windows] win10、11共享打印机报错修复指南"
+title: "Windows win1011共享打印机报错修复指南"
 date:   2021-05-30
 tags: [打印机,Windows,11,共享,补丁]
 comments: true

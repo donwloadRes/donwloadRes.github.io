@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407系列（ZG-VG-IG）原理图封装全"
+title: "STM32F407系列ZGVGIG原理图封装全"
 date:   2024-10-21
 tags: [封装,原理图,STM32F407,ZG,VG]
 comments: true

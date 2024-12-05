@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDS协议栈：满足Autosar接口标准的量产验证代码"
+title: "UDS协议栈满足Autosar接口标准的量产验证代码"
 date:   2020-01-22
 tags: [UDS,代码,Autosar,协议,接口标准]
 comments: true

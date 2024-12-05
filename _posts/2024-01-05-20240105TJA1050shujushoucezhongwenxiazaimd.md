@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TJA1050数据手册（中文）下载"
+title: "TJA1050数据手册中文下载"
 date:   2022-11-16
 tags: [TJA1050,手册,PDF,中文,数据]
 comments: true

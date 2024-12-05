@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 3.0 鱼眼镜头标定校正代码"
+title: "OpenCV 30 鱼眼镜头标定校正代码"
 date:   2020-07-27
 tags: [标定,代码,鱼眼,校正,图像]
 comments: true

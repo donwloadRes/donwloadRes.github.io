@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL5-MDK 配色方案"
+title: "KEIL5MDK 配色方案"
 date:   2023-06-01
 tags: [配色,MDK,KEIL5,方案,配置文件]
 comments: true

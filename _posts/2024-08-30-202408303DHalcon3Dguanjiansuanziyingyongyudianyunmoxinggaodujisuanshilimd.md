@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[3D&Halcon] 3D关键算子应用与点云模型高度计算示例"
+title: "3DHalcon 3D关键算子应用与点云模型高度计算示例"
 date:   2022-09-11
 tags: [点云,3D,Halcon,object,model]
 comments: true

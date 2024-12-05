@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用Matlab画图解决方案"
+title: "C调用Matlab画图解决方案"
 date:   2023-12-20
 tags: [Matlab,嵌入,C#,画图,Winform]
 comments: true

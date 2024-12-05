@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6 HAL库工程：软件模拟IIC读取BME280传感器数据"
+title: "STM32F407ZGT6 HAL库工程软件模拟IIC读取BME280传感器数据"
 date:   2020-06-04
 tags: [BME280,HAL,IIC,传感器,工程]
 comments: true

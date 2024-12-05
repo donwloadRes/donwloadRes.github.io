@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传智播客&黑马程序员PYTHON教程课件汇总"
+title: "传智播客黑马程序员PYTHON教程课件汇总"
 date:   2023-06-18
 tags: [课件,Python,传智播,程序员,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 6.0.x 系统安装 Xposed 框架指南"
+title: "Android 60x 系统安装 Xposed 框架指南"
 date:   2021-10-27
 tags: [Xposed,安装,框架,Android,6.0]
 comments: true

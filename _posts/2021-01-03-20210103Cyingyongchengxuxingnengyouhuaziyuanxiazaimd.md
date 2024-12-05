@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++应用程序性能优化资源下载"
+title: "C应用程序性能优化资源下载"
 date:   2022-08-01
 tags: [C++,应用程序,性能,优化,资源]
 comments: true

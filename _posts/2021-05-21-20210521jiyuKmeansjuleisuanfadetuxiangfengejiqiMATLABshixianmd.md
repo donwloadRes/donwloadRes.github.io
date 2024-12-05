@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于K-means聚类算法的图像分割及其MATLAB实现"
+title: "基于Kmeans聚类算法的图像分割及其MATLAB实现"
 date:   2022-10-14
 tags: [聚类,算法,图像,分割,means]
 comments: true

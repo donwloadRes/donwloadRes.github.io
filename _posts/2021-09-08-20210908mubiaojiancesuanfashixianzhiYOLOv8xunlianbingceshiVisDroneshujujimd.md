@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测算法实现之YOLOv8：训练并测试VisDrone数据集"
+title: "目标检测算法实现之YOLOv8训练并测试VisDrone数据集"
 date:   2021-12-31
 tags: [YOLOv8,训练,VisDrone,模型,测试]
 comments: true

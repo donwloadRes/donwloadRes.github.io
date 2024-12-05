@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果iOS 11~13.5解锁支持资源文件"
+title: "苹果iOS 11135解锁支持资源文件"
 date:   2020-12-04
 tags: [AltStore,iOS,安装,越狱,设备]
 comments: true

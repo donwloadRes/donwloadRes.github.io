@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5 CSS3 专题：诱人的实例 - 3D旋转木马效果相册实例源码"
+title: "HTML5 CSS3 专题诱人的实例  3D旋转木马效果相册实例源码"
 date:   2023-10-30
 tags: [3D,相册,CSS3,木马,实例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "福昕高级PDF编辑器9.5版本补丁"
+title: "福昕高级PDF编辑器95版本补丁"
 date:   2022-12-24
 tags: [补丁,PDF,编辑器,福昕,文件]
 comments: true

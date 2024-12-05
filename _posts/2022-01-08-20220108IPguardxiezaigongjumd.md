@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IP-guard卸载工具"
+title: "IPguard卸载工具"
 date:   2024-03-04
 tags: [卸载,工具,IP,guard,仓库]
 comments: true

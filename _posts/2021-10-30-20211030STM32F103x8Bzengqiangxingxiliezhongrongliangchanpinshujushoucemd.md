@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103x8-B增强型系列中容量产品数据手册"
+title: "STM32F103x8B增强型系列中容量产品数据手册"
 date:   2021-05-30
 tags: [STM32F103x8,手册,增强型,2009,系列]
 comments: true

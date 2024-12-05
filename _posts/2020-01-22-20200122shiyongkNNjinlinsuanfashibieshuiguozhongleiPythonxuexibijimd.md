@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用kNN近邻算法识别水果种类（Python学习笔记）"
+title: "使用kNN近邻算法识别水果种类Python学习笔记"
 date:   2024-05-17
 tags: [算法,kNN,Python,水果,分类]
 comments: true

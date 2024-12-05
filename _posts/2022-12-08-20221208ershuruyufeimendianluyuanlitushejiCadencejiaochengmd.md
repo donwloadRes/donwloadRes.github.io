@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二输入与非门电路原理图设计 - Cadence 教程"
+title: "二输入与非门电路原理图设计  Cadence 教程"
 date:   2021-01-30
 tags: [Cadence,教程,与非门,电路,原理图]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITIL 介绍PPT(全225页) 资源下载"
+title: "ITIL 介绍PPT全225页 资源下载"
 date:   2022-07-06
 tags: [ITIL,PPT,225,服务,文件]
 comments: true

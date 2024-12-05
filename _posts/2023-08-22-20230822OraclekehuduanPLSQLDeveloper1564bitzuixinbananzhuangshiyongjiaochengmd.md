@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle客户端PLSQL Developer 15 (64 bit)最新版安装使用教程"
+title: "Oracle客户端PLSQL Developer 15 64 bit最新版安装使用教程"
 date:   2021-12-18
 tags: [PLSQL,Developer,安装,Oracle,64]
 comments: true

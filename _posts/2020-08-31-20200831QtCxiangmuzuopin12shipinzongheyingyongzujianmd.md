@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品12-视频综合应用组件"
+title: "QtC项目作品12视频综合应用组件"
 date:   2023-01-19
 tags: [视频,Qt,组件,解码,C++]
 comments: true

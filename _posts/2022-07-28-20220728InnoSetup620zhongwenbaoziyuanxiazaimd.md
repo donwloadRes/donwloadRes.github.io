@@ -1,6 +1,34 @@
 ---
 layout: post
-title: "Inno Setup 6.2.0 中文包资源下载"
+title: "Inno Setup 620 中文包资源下载
+date   20220512
+tags InnoSetup语言包中文下载
+comments true
+author admin
+
+ Inno Setup 620 中文包资源下载
+
+本仓库提供 Inno Setup 620 版本及其对应的中文语言包资源文件下载
+
+ 资源描述
+
+在使用 Inno Setup 生成安装文件时默认情况下安装过程的界面语言为英文如果您希望在安装过程中展示中文界面则需要额外添加中文翻译包本资源文件包含了 Inno Setup 620 版本以及相应的中文语言包方便您快速实现安装界面的中文化
+
+ 使用方法
+
+1 下载资源文件
+    下载本仓库提供的 Inno Setup 620 安装包
+    下载对应的中文语言包文件
+
+2 安装 Inno Setup
+    运行下载的 Inno Setup 620 安装包按照提示完成安装
+
+3 添加中文语言包
+    将下载的中文语言包文件放置在 Inno Setup 安装目录的 Languages 文件夹中
+    在 Inno Setup 脚本中指定使用中文语言包例如
+     ini
+     Languages
+     Name chinese MessagesFile compilerLanguagesChineseSimplifiedisl"
 date:   2022-05-12
 tags: [Inno,Setup,语言包,中文,下载]
 comments: true

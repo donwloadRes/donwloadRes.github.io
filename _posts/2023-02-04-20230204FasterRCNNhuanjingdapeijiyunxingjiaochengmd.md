@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faster-RCNN环境搭配及运行教程"
+title: "FasterRCNN环境搭配及运行教程"
 date:   2021-11-19
 tags: [安装,教程,Faster,RCNN,运行]
 comments: true

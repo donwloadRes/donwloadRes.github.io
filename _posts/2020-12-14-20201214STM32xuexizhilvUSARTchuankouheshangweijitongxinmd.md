@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32学习之旅④ USART串口和上位机通信"
+title: "STM32学习之旅 USART串口和上位机通信"
 date:   2021-03-03
 tags: [串口,USART,STM32,上位,配置]
 comments: true

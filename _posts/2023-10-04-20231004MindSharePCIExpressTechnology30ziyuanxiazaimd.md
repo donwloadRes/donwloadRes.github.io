@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MindShare PCI Express Technology 3.0 资源下载"
+title: "MindShare PCI Express Technology 30 资源下载"
 date:   2020-06-15
 tags: [PCI,Express,3.0,MindShare,Technology]
 comments: true

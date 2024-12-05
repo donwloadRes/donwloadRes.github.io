@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IGBT驱动与保护电路设计及应用电路实例 - 清晰完整版"
+title: "IGBT驱动与保护电路设计及应用电路实例  清晰完整版"
 date:   2021-07-25
 tags: [IGBT,电路设计,电路,应用,驱动]
 comments: true

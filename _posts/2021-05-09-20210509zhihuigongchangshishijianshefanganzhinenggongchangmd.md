@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智慧工厂实施建设方案（智能工厂）"
+title: "智慧工厂实施建设方案智能工厂"
 date:   2020-05-14
 tags: [工厂,智慧,方案,实施,建设]
 comments: true

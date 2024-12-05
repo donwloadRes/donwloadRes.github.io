@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研发运营一体化（DevOps）信通院标准资源下载"
+title: "研发运营一体化DevOps信通院标准资源下载"
 date:   2023-11-17
 tags: [DevOps,信通,一体化,文件,运营]
 comments: true

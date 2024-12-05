@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGLM3本地部署运行（入门体验级）"
+title: "ChatGLM3本地部署运行入门体验级"
 date:   2021-07-22
 tags: [ChatGLM3,教程,模型,部署,运行]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rodep update --bag-rosdistro 资源文件说明"
+title: "rodep update bagrosdistro 资源文件说明"
 date:   2020-05-10
 tags: [ROS,update,rosdistro,--,bag]
 comments: true

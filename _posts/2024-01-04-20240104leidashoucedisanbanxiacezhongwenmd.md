@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达手册-第三版-下册（中文）"
+title: "雷达手册第三版下册中文"
 date:   2024-07-15
 tags: [雷达,下册,第三版,手册,学习]
 comments: true

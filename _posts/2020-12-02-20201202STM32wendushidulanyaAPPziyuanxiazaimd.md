@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32温度湿度（蓝牙_APP）资源下载"
+title: "STM32温度湿度蓝牙APP资源下载"
 date:   2024-09-04
 tags: [STM32,APP,蓝牙,湿度,温度]
 comments: true

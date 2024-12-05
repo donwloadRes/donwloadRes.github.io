@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-openEuler认证考试题库资源"
+title: "HCIAopenEuler认证考试题库资源"
 date:   2024-06-13
 tags: [openEuler,HCIA,题库,633,认证]
 comments: true

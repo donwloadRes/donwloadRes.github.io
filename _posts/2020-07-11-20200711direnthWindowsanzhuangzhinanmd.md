@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dirent.h Windows安装指南"
+title: "direnth Windows安装指南"
 date:   2022-09-16
 tags: [dirent,文件,Windows,目录,Visual]
 comments: true

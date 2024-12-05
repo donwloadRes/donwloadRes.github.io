@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebRTC-Streamer实现网络摄像头实时监控"
+title: "WebRTCStreamer实现网络摄像头实时监控"
 date:   2020-08-30
 tags: [摄像头,RTSP,实时,监控,WebRTC]
 comments: true

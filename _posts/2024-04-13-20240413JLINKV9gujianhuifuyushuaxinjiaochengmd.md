@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-LINK V9固件恢复与刷新教程"
+title: "JLINK V9固件恢复与刷新教程"
 date:   2024-01-20
 tags: [固件,V9,LINK,刷新,仿真器]
 comments: true

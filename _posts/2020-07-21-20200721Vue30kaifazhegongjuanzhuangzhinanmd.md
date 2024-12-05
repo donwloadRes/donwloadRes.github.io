@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3.0开发者工具安装指南"
+title: "Vue30开发者工具安装指南"
 date:   2021-04-09
 tags: [开发者,Vue3,安装,工具,Vue3.0]
 comments: true

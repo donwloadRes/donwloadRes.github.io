@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "伺服CanOpen使用手册 - DS402学习精华资料"
+title: "伺服CanOpen使用手册  DS402学习精华资料"
 date:   2024-04-19
 tags: [伺服,CanOpen,DS402,本手册,学习]
 comments: true

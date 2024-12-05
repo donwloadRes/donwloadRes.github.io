@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲸鱼优化算法（WOA）源代码+23个经典测试函数"
+title: "鲸鱼优化算法WOA源代码23个经典测试函数"
 date:   2022-09-01
 tags: [测试函数,算法,WOA,优化,23]
 comments: true

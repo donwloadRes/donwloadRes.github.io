@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华科计算机组成原理存储系统实验 - 汉字字库Logsim实验四"
+title: "华科计算机组成原理存储系统实验  汉字字库Logsim实验四"
 date:   2021-07-31
 tags: [存储系统,Logsim,实验,汉字,字库]
 comments: true

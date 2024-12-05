@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Single Root I-O 虚拟化与共享技术 1.1 规范"
+title: "Single Root IO 虚拟化与共享技术 11 规范"
 date:   2023-03-14
 tags: [PCI,虚拟化,规范,文档,1.1]
 comments: true

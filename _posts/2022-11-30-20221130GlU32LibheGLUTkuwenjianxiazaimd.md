@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GlU32.Lib 和 GLUT 库文件下载"
+title: "GlU32Lib 和 GLUT 库文件下载"
 date:   2022-12-04
 tags: [文件,下载,glut,GlU32,Lib]
 comments: true

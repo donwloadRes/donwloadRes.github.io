@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabelImg Windows 免安装版 v1.8.1"
+title: "LabelImg Windows 免安装版 v181"
 date:   2024-08-27
 tags: [Windows,标注,LabelImg,安装版,v1.8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OB2268-OB2269 设计指导 — 反激式开关电源应用"
+title: "OB2268OB2269 设计指导  反激式开关电源应用"
 date:   2021-03-13
 tags: [开关电源,反激式,文档,OB2268,OB2269]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MFC的中国国家商用密码（国密）SM3及MD5计算工具"
+title: "基于MFC的中国国家商用密码国密SM3及MD5计算工具"
 date:   2021-11-16
 tags: [MFC,SM3,MD5,国密,算法]
 comments: true

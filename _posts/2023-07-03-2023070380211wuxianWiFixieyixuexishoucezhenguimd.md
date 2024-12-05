@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11无线WiFi协议学习手册（珍贵）"
+title: "80211无线WiFi协议学习手册珍贵"
 date:   2021-11-01
 tags: [802.11,WiFi,手册,无线,学习]
 comments: true

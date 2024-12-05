@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SVM-RFE的回归数据特征选择算法（Matlab代码）"
+title: "基于SVMRFE的回归数据特征选择算法Matlab代码"
 date:   2020-04-08
 tags: [特征选择,代码,Matlab,算法,数据]
 comments: true

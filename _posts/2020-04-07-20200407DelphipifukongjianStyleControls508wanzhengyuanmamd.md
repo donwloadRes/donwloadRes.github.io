@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 皮肤控件 StyleControls 5.08 完整源码"
+title: "Delphi 皮肤控件 StyleControls 508 完整源码"
 date:   2022-05-13
 tags: [控件,StyleControls,Delphi,5.08,开发者]
 comments: true

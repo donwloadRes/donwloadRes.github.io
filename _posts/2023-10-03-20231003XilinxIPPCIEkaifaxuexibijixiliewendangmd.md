@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx IP——PCIE开发学习笔记系列文档"
+title: "Xilinx IPPCIE开发学习笔记系列文档"
 date:   2020-09-20
 tags: [PCIE,Xilinx,IP,文档,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红狼远控gh0st 3.6版本的VS兼容工程源码"
+title: "红狼远控gh0st 36版本的VS兼容工程源码"
 date:   2024-10-12
 tags: [版本,源码,红狼,Visual,Studio]
 comments: true

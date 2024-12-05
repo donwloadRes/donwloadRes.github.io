@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人数据集：1000+ 图片资源"
+title: "行人数据集1000 图片资源"
 date:   2023-01-02
 tags: [行人,数据,1000,VOC,图片]
 comments: true

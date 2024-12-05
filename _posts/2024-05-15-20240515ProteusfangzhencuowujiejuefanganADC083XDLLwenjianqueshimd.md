@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus仿真错误解决方案：ADC083X.DLL文件缺失"
+title: "Proteus仿真错误解决方案ADC083XDLL文件缺失"
 date:   2020-11-11
 tags: [DLL,ADC083X,Proteus,文件,仿真]
 comments: true

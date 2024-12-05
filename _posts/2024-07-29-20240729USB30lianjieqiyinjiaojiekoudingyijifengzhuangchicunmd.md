@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.0连接器引脚、接口定义及封装尺寸"
+title: "USB 30连接器引脚接口定义及封装尺寸"
 date:   2020-09-28
 tags: [连接器,USB,3.0,引脚,封装]
 comments: true

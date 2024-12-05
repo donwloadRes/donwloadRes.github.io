@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMPTE ST 2110-20标准资源下载"
+title: "SMPTE ST 211020标准资源下载"
 date:   2023-10-16
 tags: [ST,2110,20,视频,SMPTE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 5.0 基础规范文档"
+title: "PCI Express 50 基础规范文档"
 date:   2022-06-29
 tags: [PCI,Express,5.0,文档,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AnyCAD .Net三维控件用户手册2014"
+title: "AnyCAD Net三维控件用户手册2014"
 date:   2022-07-20
 tags: [三维,控件,Net,AnyCAD,用户手册]
 comments: true

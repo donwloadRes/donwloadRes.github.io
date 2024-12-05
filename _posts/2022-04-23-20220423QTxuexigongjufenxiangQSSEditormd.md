@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT学习-工具分享QSS Editor"
+title: "QT学习工具分享QSS Editor"
 date:   2023-08-03
 tags: [QSS,QT,Editor,样式表,样式]
 comments: true

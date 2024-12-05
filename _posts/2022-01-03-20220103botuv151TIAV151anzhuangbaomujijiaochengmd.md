@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博图v15.1(TIA V15.1)安装——保姆级教程"
+title: "博图v151TIA V151安装保姆级教程"
 date:   2020-01-08
 tags: [安装,教程,博图,v15.1,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows MySQL 5.7、8.0 最新下载地址及安装教程"
+title: "Windows MySQL 5780 最新下载地址及安装教程"
 date:   2021-02-12
 tags: [MySQL,安装,下载,Windows,安装程序]
 comments: true

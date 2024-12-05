@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为AI安全白皮书(完整版) 下载说明"
+title: "华为AI安全白皮书完整版 下载说明"
 date:   2020-02-22
 tags: [AI,白皮书,安全,华为,完整版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 完美软键盘实现"
+title: "C WinForm 完美软键盘实现"
 date:   2022-07-02
 tags: [软键盘,完美,汉字输入,源码,C#]
 comments: true

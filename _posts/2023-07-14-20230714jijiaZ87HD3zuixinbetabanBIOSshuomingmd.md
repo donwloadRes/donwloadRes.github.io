@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "技嘉Z87-HD3最新beta版BIOS说明"
+title: "技嘉Z87HD3最新beta版BIOS说明"
 date:   2022-01-29
 tags: [BIOS,技嘉,升级,版本,Z87]
 comments: true

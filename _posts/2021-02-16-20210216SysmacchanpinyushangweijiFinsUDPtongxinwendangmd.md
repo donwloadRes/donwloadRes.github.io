@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sysmac产品与上位机Fins+UDP通信文档"
+title: "Sysmac产品与上位机FinsUDP通信文档"
 date:   2024-05-04
 tags: [PLC,上位,通信,UDP,欧姆龙]
 comments: true

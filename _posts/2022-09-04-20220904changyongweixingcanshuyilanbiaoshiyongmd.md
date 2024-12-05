@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用卫星参数一览表（实用）"
+title: "常用卫星参数一览表实用"
 date:   2020-12-11
 tags: [卫星,参数,实用,常用,文件]
 comments: true

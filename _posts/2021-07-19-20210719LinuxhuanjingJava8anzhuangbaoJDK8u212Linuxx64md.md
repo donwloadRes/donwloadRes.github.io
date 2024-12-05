@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux环境Java 8安装包 JDK-8u212-Linux-x64"
+title: "Linux环境Java 8安装包 JDK8u212Linuxx64"
 date:   2021-11-07
 tags: [Linux,Java,x64,bash,8u212]
 comments: true

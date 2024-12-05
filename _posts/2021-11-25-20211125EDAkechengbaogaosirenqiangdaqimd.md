@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDA课程报告：四人抢答器"
+title: "EDA课程报告四人抢答器"
 date:   2020-04-24
 tags: [抢答器,EDA,VHDL,设计,四人]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TYPE-C转DP接口介绍"
+title: "TYPEC转DP接口介绍"
 date:   2020-03-06
 tags: [DP,Type,接口,DisplayPort,引脚]
 comments: true

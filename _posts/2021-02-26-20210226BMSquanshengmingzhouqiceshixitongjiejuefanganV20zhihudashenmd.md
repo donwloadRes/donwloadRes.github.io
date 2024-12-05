@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMS全生命周期测试系统解决方案V2.0（知乎大神）"
+title: "BMS全生命周期测试系统解决方案V20知乎大神"
 date:   2020-06-06
 tags: [BMS,测试,烧录,生命周期,功能]
 comments: true

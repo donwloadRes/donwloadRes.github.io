@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AN1299 PMSM无传感器FOC的单分流三相电流重构算法 (中文)"
+title: "AN1299 PMSM无传感器FOC的单分流三相电流重构算法 中文"
 date:   2020-01-02
 tags: [相电流,传感器,分流,算法,重构]
 comments: true

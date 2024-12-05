@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XINT 编译好的动态库（32位和64位，适用于VS2019）"
+title: "XINT 编译好的动态库32位和64位适用于VS2019"
 date:   2022-08-05
 tags: [XINT,32,64,动态,VS2019]
 comments: true

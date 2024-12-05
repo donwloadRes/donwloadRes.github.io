@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS for Linux（Ubuntu）字体缺失解决办法"
+title: "WPS for LinuxUbuntu字体缺失解决办法"
 date:   2023-05-13
 tags: [字体,WPS,Linux,Windows,Ubuntu]
 comments: true

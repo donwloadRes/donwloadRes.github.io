@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大象：Thinking in UML 清晰完整版PDF"
+title: "大象Thinking in UML 清晰完整版PDF"
 date:   2024-05-11
 tags: [UML,Thinking,PDF,大象,完整版]
 comments: true

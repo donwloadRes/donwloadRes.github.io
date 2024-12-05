@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo联想ThinkBook 14 Gen5+ IRH(21HW)原装Win11系统镜像"
+title: "Lenovo联想ThinkBook 14 Gen5 IRH21HW原装Win11系统镜像"
 date:   2020-05-31
 tags: [系统,恢复,Lenovo,原装,镜像文件]
 comments: true

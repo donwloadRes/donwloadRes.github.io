@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米思齐（Mixly）图形化系列教程(一) - Mixly软件安装及界面功能介绍"
+title: "米思齐Mixly图形化系列教程一  Mixly软件安装及界面功能介绍"
 date:   2023-03-10
 tags: [Mixly,软件,图形化,安装,教程]
 comments: true

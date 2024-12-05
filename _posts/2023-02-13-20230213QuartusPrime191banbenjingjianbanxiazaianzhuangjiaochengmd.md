@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus Prime 19.1版本精简版下载安装教程"
+title: "Quartus Prime 191版本精简版下载安装教程"
 date:   2023-12-05
 tags: [Quartus,Prime,安装,19.1,精简版]
 comments: true

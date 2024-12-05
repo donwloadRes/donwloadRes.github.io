@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程控制利器：ToDesk 免费高效解决方案"
+title: "远程控制利器ToDesk 免费高效解决方案"
 date:   2022-09-20
 tags: [远程,ToDesk,技术支持,文件传输,便捷]
 comments: true

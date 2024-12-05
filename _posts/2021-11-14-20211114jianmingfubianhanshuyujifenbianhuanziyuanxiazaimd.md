@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简明复变函数与积分变换》资源下载"
+title: "简明复变函数与积分变换资源下载"
 date:   2022-01-13
 tags: [函数,复变,变换,积分,习题]
 comments: true

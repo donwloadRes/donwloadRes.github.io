@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3258清零软件+图解 最新版"
+title: "爱普生L3258清零软件图解 最新版"
 date:   2022-08-30
 tags: [清零,图解,爱普生,L3258,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 压缩解压工具：zip.exe 和 unzip.exe"
+title: "Windows 压缩解压工具zipexe 和 unzipexe"
 date:   2021-09-18
 tags: [zip,exe,解压,unzip,压缩]
 comments: true

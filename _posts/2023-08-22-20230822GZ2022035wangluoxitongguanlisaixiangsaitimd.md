@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GZ-2022035 网络系统管理赛项赛题"
+title: "GZ2022035 网络系统管理赛项赛题"
 date:   2020-02-24
 tags: [网络系统,赛项,赛题,GZ,2022035]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xlsx.full.min.js 官方工具包 - 用于 JavaScript 读取 Excel 文件"
+title: "xlsxfullminjs 官方工具包  用于 JavaScript 读取 Excel 文件"
 date:   2021-03-01
 tags: [Excel,文件,读取,xlsx,full]
 comments: true

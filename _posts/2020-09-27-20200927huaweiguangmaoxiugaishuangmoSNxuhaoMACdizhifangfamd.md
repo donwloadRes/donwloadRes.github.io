@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为光猫修改双模、SN序号、MAC地址方法"
+title: "华为光猫修改双模SN序号MAC地址方法"
 date:   2023-05-09
 tags: [修改,光猫,SN,MAC,双模]
 comments: true

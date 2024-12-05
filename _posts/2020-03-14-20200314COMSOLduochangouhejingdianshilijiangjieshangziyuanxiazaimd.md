@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL多场耦合经典实例讲解（上）资源下载"
+title: "COMSOL多场耦合经典实例讲解上资源下载"
 date:   2023-05-08
 tags: [COMSOL,多场,耦合,实例,讲解]
 comments: true

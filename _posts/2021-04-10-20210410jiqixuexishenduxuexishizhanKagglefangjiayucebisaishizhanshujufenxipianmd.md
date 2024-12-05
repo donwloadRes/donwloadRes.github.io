@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习-深度学习实战：Kaggle房价预测比赛实战（数据分析篇）"
+title: "机器学习深度学习实战Kaggle房价预测比赛实战数据分析篇"
 date:   2021-03-08
 tags: [数据分析,实战,学习,示例,Kaggle]
 comments: true

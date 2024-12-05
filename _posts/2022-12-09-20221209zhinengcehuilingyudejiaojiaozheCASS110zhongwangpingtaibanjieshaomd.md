@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能测绘领域的佼佼者：CASS11.0中望平台版介绍"
+title: "智能测绘领域的佼佼者CASS110中望平台版介绍"
 date:   2023-07-31
 tags: [中望,CASS11.0,测绘,平台,软件]
 comments: true

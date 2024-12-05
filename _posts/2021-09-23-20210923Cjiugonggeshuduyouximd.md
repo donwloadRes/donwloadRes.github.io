@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++九宫格数独游戏"
+title: "C九宫格数独游戏"
 date:   2021-08-25
 tags: [游戏,数独,填入,玩家,数字]
 comments: true

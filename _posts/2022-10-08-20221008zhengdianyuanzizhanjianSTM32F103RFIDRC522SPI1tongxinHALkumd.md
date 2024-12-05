@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子战舰STM32F103 RFID-RC522 SPI1通信 HAL库"
+title: "正点原子战舰STM32F103 RFIDRC522 SPI1通信 HAL库"
 date:   2020-11-30
 tags: [RC522,STM32F103,HAL,战舰,RFID]
 comments: true

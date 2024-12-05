@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC8H8K64U按键控制三种跑马灯（汇编版）实验报告"
+title: "STC8H8K64U按键控制三种跑马灯汇编版实验报告"
 date:   2022-11-12
 tags: [实验报告,跑马灯,STC8H8K64U,学习者,按键]
 comments: true

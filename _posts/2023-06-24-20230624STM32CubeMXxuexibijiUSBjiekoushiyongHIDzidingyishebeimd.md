@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记：USB接口使用（HID自定义设备）"
+title: "STM32CubeMX学习笔记USB接口使用HID自定义设备"
 date:   2020-01-29
 tags: [USB,HID,自定义,STM32CubeMX,设备]
 comments: true

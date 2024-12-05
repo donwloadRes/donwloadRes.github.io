@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点扩散函数：在MATLAB中的计算与应用"
+title: "点扩散函数在MATLAB中的计算与应用"
 date:   2021-06-07
 tags: [MATLAB,光学,成像,扩散,计算]
 comments: true

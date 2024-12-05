@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数运算工具：大数相加与大数相乘"
+title: "大数运算工具大数相加与大数相乘"
 date:   2024-02-02
 tags: [大数,相乘,运算,相加,工具]
 comments: true

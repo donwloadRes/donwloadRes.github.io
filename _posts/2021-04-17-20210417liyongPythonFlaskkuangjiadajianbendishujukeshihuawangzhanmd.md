@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用Python-Flask框架搭建本地数据可视化网站"
+title: "利用PythonFlask框架搭建本地数据可视化网站"
 date:   2020-05-21
 tags: [Flask,可视化,Python,本地,框架]
 comments: true

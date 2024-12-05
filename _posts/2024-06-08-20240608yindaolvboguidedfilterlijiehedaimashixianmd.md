@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "引导滤波(guided filter)理解和代码实现"
+title: "引导滤波guided filter理解和代码实现"
 date:   2024-07-09
 tags: [滤波,引导,图像,代码,MATLAB]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "802.11be Draft2.0 资源文件下载"
+title: "80211be Draft20 资源文件下载"
 date:   2021-07-04
 tags: [文件,802.11,Draft2.0,下载,草案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完全免费开源：STM32F103 波形显示与频谱分析仪"
+title: "完全免费开源STM32F103 波形显示与频谱分析仪"
 date:   2020-07-09
 tags: [STM32F103,频谱,波形,OLED,显示屏]
 comments: true

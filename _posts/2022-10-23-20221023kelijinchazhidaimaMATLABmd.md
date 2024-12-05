@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "克里金插值代码(MATLAB)"
+title: "克里金插值代码MATLAB"
 date:   2020-12-05
 tags: [代码,插值,MATLAB,克里,仓库]
 comments: true

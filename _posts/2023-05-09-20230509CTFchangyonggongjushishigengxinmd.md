@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF常用工具_实时更新"
+title: "CTF常用工具实时更新"
 date:   2020-07-01
 tags: [工具,CTF,常用工具,编辑器,文件]
 comments: true

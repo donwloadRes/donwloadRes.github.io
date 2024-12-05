@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lwip-2.1.3自带的httpd网页服务器使用教程（一）从SD卡读取网页文件并显示"
+title: "lwip213自带的httpd网页服务器使用教程一从SD卡读取网页文件并显示"
 date:   2020-10-03
 tags: [网页文件,教程,SD,lwip,自带]
 comments: true

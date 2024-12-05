@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达信号处理基础高清版 Mark A.Richards著.part1 下载仓库"
+title: "雷达信号处理基础高清版 Mark ARichards著part1 下载仓库"
 date:   2022-07-19
 tags: [信号处理,雷达,Richards,Mark,高清]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XCP协议ASAM版V1.1全资源下载"
+title: "XCP协议ASAM版V11全资源下载"
 date:   2021-12-22
 tags: [XCP,协议,文档,ASAM,应用]
 comments: true

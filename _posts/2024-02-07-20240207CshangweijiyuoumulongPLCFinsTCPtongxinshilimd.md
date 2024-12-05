@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机与欧姆龙PLC Fins TCP通信实例"
+title: "C上位机与欧姆龙PLC Fins TCP通信实例"
 date:   2021-12-28
 tags: [PLC,源码,欧姆龙,Fins,TCP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BL0939串口读取、过零检测、漏电检测资源文件"
+title: "BL0939串口读取过零检测漏电检测资源文件"
 date:   2023-09-04
 tags: [检测,串口,漏电,BL0939,读取]
 comments: true

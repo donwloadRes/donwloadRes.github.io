@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10PE网络版 ISO - UEFI与BIOS双启动系统工具箱"
+title: "Win10PE网络版 ISO  UEFI与BIOS双启动系统工具箱"
 date:   2022-08-03
 tags: [ISO,UEFI,Win10PE,网络版,BIOS]
 comments: true

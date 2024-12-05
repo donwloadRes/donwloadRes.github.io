@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移动互联网开发技术》期末大作业1--计科20171"
+title: "移动互联网开发技术期末大作业1计科20171"
 date:   2022-07-07
 tags: [用户,移动,SQLite,Android,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK 5.25 新建 STM32 开发环境"
+title: "MDK 525 新建 STM32 开发环境"
 date:   2022-03-14
 tags: [MDK,STM32,文件夹,工程,5.25]
 comments: true

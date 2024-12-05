@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB 仿真资源 - 北邮信号与系统课程资源"
+title: "MATLAB 仿真资源  北邮信号与系统课程资源"
 date:   2022-04-21
 tags: [MATLAB,信号,资源库,系统,示例]
 comments: true

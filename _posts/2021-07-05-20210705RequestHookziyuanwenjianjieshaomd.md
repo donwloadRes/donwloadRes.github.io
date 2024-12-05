@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Request-Hook 资源文件介绍"
+title: "RequestHook 资源文件介绍"
 date:   2024-08-14
 tags: [参数,文件,JavaScript,定位,调试]
 comments: true

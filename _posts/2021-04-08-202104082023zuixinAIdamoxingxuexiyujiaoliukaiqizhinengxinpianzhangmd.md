@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023最新AI大模型学习与交流：开启智能新篇章"
+title: "2023最新AI大模型学习与交流开启智能新篇章"
 date:   2024-07-06
 tags: [AI,模型,2023,最新,交流]
 comments: true

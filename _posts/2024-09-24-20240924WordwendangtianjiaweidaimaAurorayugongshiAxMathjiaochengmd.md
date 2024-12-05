@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Word文档添加伪代码（Aurora）与公式（AxMath）教程"
+title: "Word文档添加伪代码Aurora与公式AxMath教程"
 date:   2021-10-06
 tags: [Word,Aurora,文档,AxMath,代码]
 comments: true

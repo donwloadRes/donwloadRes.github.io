@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++基本知识点汇总"
+title: "C基本知识点汇总"
 date:   2021-03-17
 tags: [C++,知识点,文件,这份,汇总]
 comments: true

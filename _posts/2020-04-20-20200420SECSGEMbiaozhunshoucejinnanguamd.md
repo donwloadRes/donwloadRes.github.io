@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS-GEM标准手册 - 金南瓜"
+title: "SECSGEM标准手册  金南瓜"
 date:   2022-05-16
 tags: [SECS,GEM,设备,半导体,标准]
 comments: true

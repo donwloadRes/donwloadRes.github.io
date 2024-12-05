@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP430 BSL下载工具（中文版）"
+title: "MSP430 BSL下载工具中文版"
 date:   2023-03-26
 tags: [BSL,MSP430,JTAG,接口,下载工具]
 comments: true

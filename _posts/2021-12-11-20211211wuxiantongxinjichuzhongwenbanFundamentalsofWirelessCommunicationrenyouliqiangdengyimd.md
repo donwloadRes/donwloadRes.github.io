@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线通信基础中文版（Fundamentals of Wireless Communication）人邮 李锵等译"
+title: "无线通信基础中文版Fundamentals of Wireless Communication人邮 李锵等译"
 date:   2023-11-11
 tags: [信道,习题,链路,MIMO,文献]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32与TMC5160：静音步进电机驱动控制开源项目"
+title: "STM32与TMC5160静音步进电机驱动控制开源项目"
 date:   2023-10-31
 tags: [STM32,TMC5160,步进,电路图,电机]
 comments: true

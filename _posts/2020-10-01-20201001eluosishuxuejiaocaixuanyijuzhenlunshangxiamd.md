@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "俄罗斯数学教材选译：矩阵论（上、下）"
+title: "俄罗斯数学教材选译矩阵论上下"
 date:   2022-08-27
 tags: [矩阵,压缩文件,选译,教材,解压]
 comments: true

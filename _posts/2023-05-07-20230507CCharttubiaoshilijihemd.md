@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Chart图表示例集合"
+title: "C Chart图表示例集合"
 date:   2023-02-14
 tags: [示例,图表,C#,Chart,集合]
 comments: true

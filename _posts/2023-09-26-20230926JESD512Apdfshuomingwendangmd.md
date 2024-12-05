@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD51-2A.pdf 说明文档"
+title: "JESD512Apdf 说明文档"
 date:   2021-11-27
 tags: [JESD51,2A,文档,pdf,标准]
 comments: true

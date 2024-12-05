@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视道闸出入口LED屏DS-TVL224原厂程序及技术指导资料"
+title: "海康威视道闸出入口LED屏DSTVL224原厂程序及技术指导资料"
 date:   2020-03-12
 tags: [LED,威视,DS,TVL224,海康]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "流畅的Python》（第2版）学习笔记资源下载"
+title: "流畅的Python第2版学习笔记资源下载"
 date:   2020-04-03
 tags: [Python,笔记,学习,流畅,编程]
 comments: true

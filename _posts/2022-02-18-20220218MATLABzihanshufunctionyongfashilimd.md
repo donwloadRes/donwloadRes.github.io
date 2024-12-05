@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB子函数(function)用法示例"
+title: "MATLAB子函数function用法示例"
 date:   2022-05-17
 tags: [子函数,MATLAB,示例,function,代码]
 comments: true

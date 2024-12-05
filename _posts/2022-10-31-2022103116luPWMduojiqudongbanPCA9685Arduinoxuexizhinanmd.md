@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "16路PWM舵机驱动板（PCA 9685）+ Arduino 学习指南"
+title: "16路PWM舵机驱动板PCA 9685 Arduino 学习指南"
 date:   2023-09-12
 tags: [舵机,PCA,9685,Arduino,16]
 comments: true

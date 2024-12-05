@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ 应用源码包_2 介绍"
+title: "VC 应用源码包2 介绍"
 date:   2021-12-02
 tags: [内容,控件,自绘,源码,演示]
 comments: true

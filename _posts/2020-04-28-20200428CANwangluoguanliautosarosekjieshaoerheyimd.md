@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN网络管理autosar - osek 介绍二合一"
+title: "CAN网络管理autosar  osek 介绍二合一"
 date:   2020-03-31
 tags: [网络管理,OSEK,AUTOSAR,NM,开发者]
 comments: true

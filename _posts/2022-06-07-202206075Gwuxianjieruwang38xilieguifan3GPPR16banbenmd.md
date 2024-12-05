@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G 无线接入网 38 系列规范（3GPP R16 版本）"
+title: "5G 无线接入网 38 系列规范3GPP R16 版本"
 date:   2022-08-01
 tags: [无线,5G,规范,接入网,38]
 comments: true

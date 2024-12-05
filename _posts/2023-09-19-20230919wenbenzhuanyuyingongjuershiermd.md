@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文本转语音工具 (二十二)"
+title: "文本转语音工具 二十二"
 date:   2022-05-06
 tags: [文本,语音,转换,Edge,TTS]
 comments: true

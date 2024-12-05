@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理（第5版）习题答案下载"
+title: "计算机组成原理第5版习题答案下载"
 date:   2023-02-16
 tags: [习题,答案,计算机,原理,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "功率半导体器件：理论及应用"
+title: "功率半导体器件理论及应用"
 date:   2020-01-29
 tags: [半导体器件,功率,PDF,应用,理论]
 comments: true

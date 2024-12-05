@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO IEC 27003 2017信息技术-安全技术-信息安全管理体系-指南"
+title: "ISO IEC 27003 2017信息技术安全技术信息安全管理体系指南"
 date:   2021-01-12
 tags: [信息安全,文件,ISO,IEC,27003]
 comments: true

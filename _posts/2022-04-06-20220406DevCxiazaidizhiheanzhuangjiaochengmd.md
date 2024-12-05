@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 下载地址和安装教程"
+title: "Dev C 下载地址和安装教程"
 date:   2021-08-03
 tags: [C++,安装,Dev,简体中文,路径]
 comments: true

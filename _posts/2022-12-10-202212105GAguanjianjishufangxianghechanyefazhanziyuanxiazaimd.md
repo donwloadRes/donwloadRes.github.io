@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G-A关键技术方向和产业发展资源下载"
+title: "5GA关键技术方向和产业发展资源下载"
 date:   2023-12-15
 tags: [5G,6G,技术,关键技术,文件]
 comments: true

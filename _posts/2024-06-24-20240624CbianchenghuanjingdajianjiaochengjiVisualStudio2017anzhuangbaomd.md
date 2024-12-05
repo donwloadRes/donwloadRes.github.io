@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编程环境搭建教程及Visual Studio 2017安装包"
+title: "C编程环境搭建教程及Visual Studio 2017安装包"
 date:   2021-03-28
 tags: [C++,安装包,Visual,Studio,2017]
 comments: true

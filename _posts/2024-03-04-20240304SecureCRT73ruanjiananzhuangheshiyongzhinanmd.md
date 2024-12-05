@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 7.3 软件安装和使用指南"
+title: "SecureCRT 73 软件安装和使用指南"
 date:   2021-10-25
 tags: [SecureCRT,破解,安装,7.3,exe]
 comments: true

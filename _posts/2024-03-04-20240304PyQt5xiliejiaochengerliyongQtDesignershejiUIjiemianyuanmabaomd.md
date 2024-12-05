@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5系列教程(二)：利用QtDesigner设计UI界面源码包"
+title: "PyQt5系列教程二利用QtDesigner设计UI界面源码包"
 date:   2021-10-03
 tags: [UI,源码,PyQt5,QtDesigner,教程]
 comments: true

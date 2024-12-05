@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kali 2022 超详细安装教程（提供镜像）"
+title: "Kali 2022 超详细安装教程提供镜像"
 date:   2020-05-29
 tags: [Kali,2022,安装,虚拟机,VMware]
 comments: true

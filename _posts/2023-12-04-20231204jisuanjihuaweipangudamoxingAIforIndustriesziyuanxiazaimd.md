@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机-华为盘古大模型：AI for Industries 资源下载"
+title: "计算机华为盘古大模型AI for Industries 资源下载"
 date:   2020-09-24
 tags: [AI,模型,华为,盘古,Industries]
 comments: true

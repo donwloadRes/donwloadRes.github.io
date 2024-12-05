@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：深度学习之MRI数据集预处理"
+title: "毕业设计深度学习之MRI数据集预处理"
 date:   2022-06-03
 tags: [MRI,预处理,数据,网络结构,毕业设计]
 comments: true

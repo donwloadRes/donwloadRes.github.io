@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研华运动控制卡的C#开发指南"
+title: "研华运动控制卡的C开发指南"
 date:   2023-01-13
 tags: [研华,控制卡,C#,运动,开发]
 comments: true

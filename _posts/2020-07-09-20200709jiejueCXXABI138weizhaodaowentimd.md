@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决 `CXXABI_1.3.8` 未找到问题"
+title: "解决 CXXABI138 未找到问题"
 date:   2022-07-29
 tags: [CXXABI,1.3,libstd,c++,so.6]
 comments: true

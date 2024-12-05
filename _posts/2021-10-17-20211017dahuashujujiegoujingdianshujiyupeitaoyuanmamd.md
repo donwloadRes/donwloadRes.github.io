@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大话数据结构：经典书籍与配套源码"
+title: "大话数据结构经典书籍与配套源码"
 date:   2021-04-29
 tags: [数据结构,源码,书籍,算法,大话]
 comments: true

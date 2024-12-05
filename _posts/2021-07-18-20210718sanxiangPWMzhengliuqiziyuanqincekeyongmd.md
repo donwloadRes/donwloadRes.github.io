@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三相PWM整流器资源，亲测可用"
+title: "三相PWM整流器资源亲测可用"
 date:   2021-11-25
 tags: [仿真,PWM,Simulink,电压,整流器]
 comments: true

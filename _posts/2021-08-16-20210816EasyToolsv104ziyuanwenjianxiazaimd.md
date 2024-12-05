@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy Tools v1.0.4 资源文件下载"
+title: "Easy Tools v104 资源文件下载"
 date:   2024-05-16
 tags: [v1.0,SM2259XT,Easy,Tools,B27]
 comments: true

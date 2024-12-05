@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBeaver Enterprise v7.3.0 下载仓库"
+title: "DBeaver Enterprise v730 下载仓库"
 date:   2020-05-15
 tags: [DBeaver,Enterprise,v7.3,数据库,下载]
 comments: true

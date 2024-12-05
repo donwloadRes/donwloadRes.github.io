@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32基于0.96英寸OLED显示的温湿度监测项目"
+title: "STM32基于096英寸OLED显示的温湿度监测项目"
 date:   2023-10-22
 tags: [OLED,STM32,温湿度,串口,DHT11]
 comments: true

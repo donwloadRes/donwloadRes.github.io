@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费下载 SwitchHosts 安装包！"
+title: "免费下载 SwitchHosts 安装包"
 date:   2020-08-17
 tags: [SwitchHosts,安装包,hosts,文件,下载]
 comments: true

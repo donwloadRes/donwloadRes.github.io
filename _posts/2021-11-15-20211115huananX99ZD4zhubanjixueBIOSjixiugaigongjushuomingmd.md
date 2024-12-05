@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华南X99-ZD4主板鸡血BIOS及修改工具说明"
+title: "华南X99ZD4主板鸡血BIOS及修改工具说明"
 date:   2021-10-14
 tags: [BIOS,X99,ZD4,鸡血,主板]
 comments: true

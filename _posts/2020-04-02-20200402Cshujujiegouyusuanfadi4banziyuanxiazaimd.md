@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++数据结构与算法 （第4版）资源下载"
+title: "C数据结构与算法 第4版资源下载"
 date:   2022-06-20
 tags: [数据结构,C++,算法,下载,资源]
 comments: true

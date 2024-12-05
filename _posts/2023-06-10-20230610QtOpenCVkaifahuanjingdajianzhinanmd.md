@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-OpenCV开发环境搭建指南"
+title: "QtOpenCV开发环境搭建指南"
 date:   2021-01-14
 tags: [OpenCV,Qt,编译,指南,环境]
 comments: true

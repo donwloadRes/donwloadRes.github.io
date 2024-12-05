@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ingress-nginx-controller-1.9.yaml 部署指南"
+title: "ingressnginxcontroller19yaml 部署指南"
 date:   2020-09-04
 tags: [yaml,Ingress,ingress,nginx,1.9]
 comments: true

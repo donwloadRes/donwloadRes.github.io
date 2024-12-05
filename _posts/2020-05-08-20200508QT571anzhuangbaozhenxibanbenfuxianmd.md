@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.7.1安装包 - 珍稀版本复现"
+title: "QT571安装包  珍稀版本复现"
 date:   2022-12-10
 tags: [安装包,QT5.7,版本,Qt,开发者]
 comments: true

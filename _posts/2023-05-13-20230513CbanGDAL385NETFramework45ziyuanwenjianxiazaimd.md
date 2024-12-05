@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版GDAL3.8.5(.NET Framework 4.5) 资源文件下载"
+title: "C版GDAL385NET Framework 45 资源文件下载"
 date:   2023-02-15
 tags: [dll,csharp,NET,Framework,4.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点阵字库生成器 V3.8 下载仓库"
+title: "点阵字库生成器 V38 下载仓库"
 date:   2024-10-03
 tags: [点阵字库,生成器,V3.8,生成,下载]
 comments: true

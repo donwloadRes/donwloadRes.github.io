@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-CASS点线矛盾检查插件（高程点与等高线矛盾检查）"
+title: "CADCASS点线矛盾检查插件高程点与等高线矛盾检查"
 date:   2024-08-28
 tags: [插件,高程,CAD,等高线,CASS]
 comments: true

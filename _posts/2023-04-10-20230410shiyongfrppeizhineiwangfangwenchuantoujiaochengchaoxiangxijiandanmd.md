@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用frp配置内网访问（穿透）教程（超详细，简单）"
+title: "使用frp配置内网访问穿透教程超详细简单"
 date:   2022-04-12
 tags: [frp,教程,配置,穿透,配置文件]
 comments: true

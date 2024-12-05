@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "问题篇1：使用VNC+远程桌面登录+一些无法登录问题及解决"
+title: "问题篇1使用VNC远程桌面登录一些无法登录问题及解决"
 date:   2024-04-11
 tags: [VNC,登录,远程桌面,解决,文档]
 comments: true

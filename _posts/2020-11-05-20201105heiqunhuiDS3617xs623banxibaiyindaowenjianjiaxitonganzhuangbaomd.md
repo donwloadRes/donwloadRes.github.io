@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑群晖DS3617xs_6.23半洗白引导文件加系统安装包"
+title: "黑群晖DS3617xs623半洗白引导文件加系统安装包"
 date:   2023-06-22
 tags: [虚拟机,黑群晖,引导文件,安装包,启动盘]
 comments: true

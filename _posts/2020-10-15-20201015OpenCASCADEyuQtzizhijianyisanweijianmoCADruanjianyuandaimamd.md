@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCASCADE与Qt自制简易三维建模CAD软件 - 源代码"
+title: "OpenCASCADE与Qt自制简易三维建模CAD软件  源代码"
 date:   2021-05-02
 tags: [Qt,CAD,三维,建模,Open]
 comments: true

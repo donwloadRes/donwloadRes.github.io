@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "透明窗口（易语言源码版）下载仓库"
+title: "透明窗口易语言源码版下载仓库"
 date:   2024-09-18
 tags: [源码,易语言,窗口,透明,文件]
 comments: true

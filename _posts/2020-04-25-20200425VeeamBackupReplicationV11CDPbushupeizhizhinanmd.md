@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veeam Backup & Replication V11 CDP部署配置指南"
+title: "Veeam Backup  Replication V11 CDP部署配置指南"
 date:   2020-06-16
 tags: [Veeam,CDP,指南,部署,Backup]
 comments: true

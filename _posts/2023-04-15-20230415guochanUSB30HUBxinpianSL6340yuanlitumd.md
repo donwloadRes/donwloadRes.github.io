@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产USB 3.0 HUB芯片SL6340原理图"
+title: "国产USB 30 HUB芯片SL6340原理图"
 date:   2020-05-28
 tags: [原理图,USB,3.0,SL6340,接口]
 comments: true

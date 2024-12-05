@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protel99SE与Win7-Win10加库问题解决方案"
+title: "Protel99SE与Win7Win10加库问题解决方案"
 date:   2021-08-04
 tags: [Protel99SE,加库,解决方案,问题,文件]
 comments: true

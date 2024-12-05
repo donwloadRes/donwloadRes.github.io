@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAMS模型编写与求解（入门）资源文件介绍"
+title: "GAMS模型编写与求解入门资源文件介绍"
 date:   2021-02-26
 tags: [GAMS,求解,编写,模型,文件]
 comments: true

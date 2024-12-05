@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KETTLE 9.1 最新版本下载地址"
+title: "KETTLE 91 最新版本下载地址"
 date:   2024-10-10
 tags: [Kettle,9.1,下载,文档,版本]
 comments: true

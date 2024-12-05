@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现CRC16校验"
+title: "C实现CRC16校验"
 date:   2020-07-14
 tags: [CRC16,校验,16,校验码,进制]
 comments: true

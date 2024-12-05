@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Studio打开Qt项目时“there's no Qt version assigned to this project for platform win32”问题的解决方法"
+title: "Visual Studio打开Qt项目时theres no Qt version assigned to this project for platform win32问题的解决方法"
 date:   2022-02-17
 tags: [Qt,Visual,Studio,项目,there]
 comments: true

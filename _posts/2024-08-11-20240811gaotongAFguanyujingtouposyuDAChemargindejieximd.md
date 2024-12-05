@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通_AF关于镜头pos与DAC和margin的解析"
+title: "高通AF关于镜头pos与DAC和margin的解析"
 date:   2024-04-26
 tags: [DAC,镜头,AF,margin,高通]
 comments: true

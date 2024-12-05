@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思科模拟器校园网设计与配置（毕业设计作品）"
+title: "思科模拟器校园网设计与配置毕业设计作品"
 date:   2022-11-01
 tags: [192.168,网关,VLAN,IP,24]
 comments: true

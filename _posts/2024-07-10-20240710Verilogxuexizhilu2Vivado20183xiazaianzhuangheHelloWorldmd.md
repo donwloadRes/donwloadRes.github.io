@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog学习之路（2）— Vivado 2018.3下载安装和HelloWorld"
+title: "Verilog学习之路2 Vivado 20183下载安装和HelloWorld"
 date:   2022-01-30
 tags: [Vivado,2018.3,Verilog,HelloWorld,安装]
 comments: true

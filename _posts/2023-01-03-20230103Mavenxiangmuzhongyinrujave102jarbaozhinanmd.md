@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven项目中引入jave-1.0.2.jar包指南"
+title: "Maven项目中引入jave102jar包指南"
 date:   2022-10-07
 tags: [jar,jave,1.0,Maven,引入]
 comments: true

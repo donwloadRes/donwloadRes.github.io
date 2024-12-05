@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETG6010_CIA402 资源文件下载"
+title: "ETG6010CIA402 资源文件下载"
 date:   2023-01-08
 tags: [EtherCAT,文件,ETG6010,定义,状态字]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文-In-Sight-使用详解及函数库说明"
+title: "中文InSight使用详解及函数库说明"
 date:   2023-05-01
 tags: [Sight,函数库,详解,用户,使用]
 comments: true

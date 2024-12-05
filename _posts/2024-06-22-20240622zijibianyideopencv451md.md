@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自己编译的opencv4.5.1"
+title: "自己编译的opencv451"
 date:   2021-05-01
 tags: [CUDA,OpenCV,Visual,Studio,2017]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "特征融合：concat和add的区别"
+title: "特征融合concat和add的区别"
 date:   2021-01-24
 tags: [特征,concat,add,通道,操作]
 comments: true

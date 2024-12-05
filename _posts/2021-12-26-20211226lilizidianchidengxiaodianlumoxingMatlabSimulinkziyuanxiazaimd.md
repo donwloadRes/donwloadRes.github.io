@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锂离子电池等效电路模型Matlab-Simulink资源下载"
+title: "锂离子电池等效电路模型MatlabSimulink资源下载"
 date:   2023-08-24
 tags: [电池,模型,Matlab,Simulink,仿真]
 comments: true

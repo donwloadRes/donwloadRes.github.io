@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译好的GDAL 3.7.0库 - Windows 64位版"
+title: "编译好的GDAL 370库  Windows 64位版"
 date:   2023-11-01
 tags: [GDAL,编译,Windows,64,版本]
 comments: true

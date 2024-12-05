@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论课程第三版：Kai Lai Chung 著"
+title: "概率论课程第三版Kai Lai Chung 著"
 date:   2024-05-19
 tags: [习题,概率论,读者,教材,内容]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qsv、qlv和kux视频转换软件(MP4或FLV)"
+title: "qsvqlv和kux视频转换软件MP4或FLV"
 date:   2022-08-09
 tags: [视频,转换,kux,MP4,FLV]
 comments: true

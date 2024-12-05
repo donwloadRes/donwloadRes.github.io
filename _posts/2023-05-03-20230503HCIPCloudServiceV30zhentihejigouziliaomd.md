@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Cloud Service V3.0 真题和机构资料"
+title: "HCIPCloud Service V30 真题和机构资料"
 date:   2024-09-05
 tags: [真题,HCIP,资料,考试,Cloud]
 comments: true

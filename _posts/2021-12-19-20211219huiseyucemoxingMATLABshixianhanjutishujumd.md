@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "灰色预测模型 MATLAB 实现（含具体数据）"
+title: "灰色预测模型 MATLAB 实现含具体数据"
 date:   2020-03-22
 tags: [预测,MATLAB,模型,灰色,代码]
 comments: true

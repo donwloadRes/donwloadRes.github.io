@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "echarts中国地图china.js下载"
+title: "echarts中国地图chinajs下载"
 date:   2024-06-02
 tags: [china,js,ECharts,地图,echarts]
 comments: true

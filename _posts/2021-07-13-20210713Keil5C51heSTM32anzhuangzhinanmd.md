@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5(C51和STM32)安装指南"
+title: "Keil5C51和STM32安装指南"
 date:   2020-02-01
 tags: [点击,安装,Keil5,Next,C51]
 comments: true

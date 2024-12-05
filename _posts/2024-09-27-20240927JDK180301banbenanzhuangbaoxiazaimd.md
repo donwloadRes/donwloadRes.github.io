@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_301 版本安装包下载"
+title: "JDK 180301 版本安装包下载"
 date:   2020-01-06
 tags: [安装包,JDK,301,Java,1.8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libtinfo.so.5(64位) 资源文件下载"
+title: "libtinfoso564位 资源文件下载"
 date:   2022-01-05
 tags: [文件,双机,libtinfo,MySQL,so.5]
 comments: true

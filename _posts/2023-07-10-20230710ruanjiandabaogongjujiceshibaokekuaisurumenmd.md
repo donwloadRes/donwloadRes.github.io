@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件打包工具及测试包（可快速入门）"
+title: "软件打包工具及测试包可快速入门"
 date:   2022-05-19
 tags: [打包,软件,教程,资源,Enigma]
 comments: true

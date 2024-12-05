@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习目标检测实战：YOLOX框架与模型优化"
+title: "深度学习目标检测实战YOLOX框架与模型优化"
 date:   2021-01-07
 tags: [模型,YOLOX,检测,深度,学习]
 comments: true

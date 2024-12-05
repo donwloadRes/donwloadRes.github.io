@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LiDAR360 5.2.2：如梦令般的体验与感悟"
+title: "LiDAR360 522如梦令般的体验与感悟"
 date:   2023-04-10
 tags: [LiDAR360,5.2,激光雷达,如梦令,用户]
 comments: true

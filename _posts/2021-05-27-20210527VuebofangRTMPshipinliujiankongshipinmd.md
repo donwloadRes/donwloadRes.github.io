@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue播放RTMP视频流（监控视频）"
+title: "Vue播放RTMP视频流监控视频"
 date:   2024-07-13
 tags: [Vue,RTMP,视频流,播放,文件]
 comments: true

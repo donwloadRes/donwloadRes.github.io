@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的心率血氧量检测系统（蓝牙，手机App）"
+title: "基于STM32的心率血氧量检测系统蓝牙手机App"
 date:   2021-11-07
 tags: [STM32,健康,App,蓝牙,用户]
 comments: true

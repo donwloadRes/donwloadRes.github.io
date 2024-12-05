@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7_MMC镜象（西门子内存卡镜像恢复）资源说明"
+title: "S7MMC镜象西门子内存卡镜像恢复资源说明"
 date:   2024-03-26
 tags: [内存卡,西门子,镜像,MMC,教程]
 comments: true

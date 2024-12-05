@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置2——Windows下的Torch=1.2.0环境配置"
+title: "深度学习环境配置2Windows下的Torch120环境配置"
 date:   2023-05-01
 tags: [安装,Anaconda,环境,Torch,配置]
 comments: true

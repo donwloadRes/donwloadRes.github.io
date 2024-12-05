@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET版本真正可用的商业HIS系统（经典源码）"
+title: "NET版本真正可用的商业HIS系统经典源码"
 date:   2022-10-27
 tags: [HIS,源码,系统,NET,开发者]
 comments: true

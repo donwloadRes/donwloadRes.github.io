@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX配置1.3寸OLED显示屏12864带字库(HAL库)"
+title: "STM32CubeMX配置13寸OLED显示屏12864带字库HAL库"
 date:   2020-06-13
 tags: [STM32CubeMX,OLED,显示屏,STM32F103C8T6,HAL]
 comments: true

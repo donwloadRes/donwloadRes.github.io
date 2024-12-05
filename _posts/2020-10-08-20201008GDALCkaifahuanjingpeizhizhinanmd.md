@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDAL C# 开发环境配置指南"
+title: "GDAL C 开发环境配置指南"
 date:   2020-05-23
 tags: [GDAL,C#,配置,开发,环境]
 comments: true

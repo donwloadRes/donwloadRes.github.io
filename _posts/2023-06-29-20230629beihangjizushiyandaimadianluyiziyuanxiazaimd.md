@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北航计组实验代码、电路（一）资源下载"
+title: "北航计组实验代码电路一资源下载"
 date:   2020-04-10
 tags: [电路设计,实验,代码,北航,文件]
 comments: true

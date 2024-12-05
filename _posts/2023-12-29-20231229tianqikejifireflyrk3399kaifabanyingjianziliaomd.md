@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天启科技firefly-rk3399开发板硬件资料"
+title: "天启科技fireflyrk3399开发板硬件资料"
 date:   2022-09-18
 tags: [开发板,firefly,rk3399,文件,硬件]
 comments: true

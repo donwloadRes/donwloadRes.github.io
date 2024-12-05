@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++课程设计：学生选课系统"
+title: "C课程设计学生选课系统"
 date:   2022-02-14
 tags: [选课,学生,系统,信息,退课]
 comments: true

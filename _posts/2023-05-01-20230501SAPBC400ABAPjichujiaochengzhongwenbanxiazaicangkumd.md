@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP BC400-ABAP基础教程(中文版) 下载仓库"
+title: "SAP BC400ABAP基础教程中文版 下载仓库"
 date:   2020-08-14
 tags: [ABAP,SAP,基础教程,BC400,中文版]
 comments: true

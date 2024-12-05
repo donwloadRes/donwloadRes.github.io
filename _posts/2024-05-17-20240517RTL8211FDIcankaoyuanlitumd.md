@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8211F(D)(I) 参考原理图"
+title: "RTL8211FDI 参考原理图"
 date:   2023-08-26
 tags: [原理图,RTL8211F,参考,example,芯片]
 comments: true

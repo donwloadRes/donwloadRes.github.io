@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用ESP32+MicroPython+Microdot搭建Web服务器教程"
+title: "使用ESP32MicroPythonMicrodot搭建Web服务器教程"
 date:   2021-07-13
 tags: [ESP32,MicroPython,Web,Microdot,服务器]
 comments: true

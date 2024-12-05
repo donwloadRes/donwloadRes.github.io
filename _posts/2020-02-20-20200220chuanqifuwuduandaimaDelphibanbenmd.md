@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传奇服务端代码 - Delphi 版本"
+title: "传奇服务端代码  Delphi 版本"
 date:   2024-04-16
 tags: [服务端,Delphi,传奇,游戏,代码]
 comments: true

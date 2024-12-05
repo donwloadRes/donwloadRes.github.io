@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图文手把手教你一步步用VC 2010编写通达信缠论插件 (DLL设计入门)"
+title: "图文手把手教你一步步用VC 2010编写通达信缠论插件 DLL设计入门"
 date:   2021-12-04
 tags: [缠论,通达信,插件,2010,DLL]
 comments: true

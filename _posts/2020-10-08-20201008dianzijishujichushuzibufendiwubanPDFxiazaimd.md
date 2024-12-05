@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术基础（数字部分）第五版 PDF 下载"
+title: "电子技术基础数字部分第五版 PDF 下载"
 date:   2020-11-23
 tags: [PDF,复习,考研,第五版,下载]
 comments: true

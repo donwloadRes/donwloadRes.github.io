@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TimingExecutor —— 定时执行、定时任务管理软件"
+title: "TimingExecutor  定时执行定时任务管理软件"
 date:   2021-07-31
 tags: [定时,TimingExecutor,任务,触发,执行]
 comments: true

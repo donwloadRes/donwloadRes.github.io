@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CppSQLite（基于SQLite 3.4.0）资源文件介绍"
+title: "CppSQLite基于SQLite 340资源文件介绍"
 date:   2022-09-29
 tags: [CppSQLite,文件,示例,SQLite,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三相DC-AC变流器电压控制并网控制PLECS仿真"
+title: "三相DCAC变流器电压控制并网控制PLECS仿真"
 date:   2024-09-30
 tags: [仿真,PLECS,DC,AC,变流器]
 comments: true

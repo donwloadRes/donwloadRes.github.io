@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3-PSS并联机器人可达工作空间绘制资源"
+title: "3PSS并联机器人可达工作空间绘制资源"
 date:   2024-04-09
 tags: [MATLAB,并联,机器人,PSS,绘制]
 comments: true

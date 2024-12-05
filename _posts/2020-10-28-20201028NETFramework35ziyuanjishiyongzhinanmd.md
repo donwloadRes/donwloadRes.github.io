@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 资源及使用指南"
+title: "NET Framework 35 资源及使用指南"
 date:   2023-03-06
 tags: [NET,Framework,3.5,安装,压缩包]
 comments: true

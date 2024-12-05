@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件设计模式期末大作业——可乐商城管理系统"
+title: "软件设计模式期末大作业可乐商城管理系统"
 date:   2022-05-16
 tags: [设计模式,模式,可乐,Java,软件设计]
 comments: true

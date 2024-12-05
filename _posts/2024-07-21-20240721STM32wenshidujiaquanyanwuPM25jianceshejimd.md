@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32温湿度甲醛烟雾PM2.5检测设计"
+title: "STM32温湿度甲醛烟雾PM25检测设计"
 date:   2023-11-15
 tags: [甲醛,温湿度,烟雾,PM2.5,检测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++实现最小二乘法一元回归和多项式拟合"
+title: "C实现最小二乘法一元回归和多项式拟合"
 date:   2022-12-31
 tags: [拟合,多项式,误差,乘法,C++]
 comments: true

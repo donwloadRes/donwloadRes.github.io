@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pyltp 3.x 安装文件仓库"
+title: "pyltp 3x 安装文件仓库"
 date:   2021-04-24
 tags: [pyltp,Python,安装文件,0.2,win]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4开发指南-寄存器版本_v1.1"
+title: "STM32F4开发指南寄存器版本v11"
 date:   2023-12-12
 tags: [STM32F4,寄存器,指南,STM32,开发]
 comments: true

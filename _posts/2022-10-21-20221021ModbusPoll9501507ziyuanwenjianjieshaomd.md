@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus Poll 9.5.0.1507 资源文件介绍"
+title: "Modbus Poll 9501507 资源文件介绍"
 date:   2024-06-03
 tags: [Modbus,0.1507,监控,多个,接口]
 comments: true

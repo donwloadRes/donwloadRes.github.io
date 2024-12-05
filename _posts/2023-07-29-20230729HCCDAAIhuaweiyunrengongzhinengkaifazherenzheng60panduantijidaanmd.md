@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCCDA – AI华为云人工智能开发者认证60判断题及答案"
+title: "HCCDA  AI华为云人工智能开发者认证60判断题及答案"
 date:   2020-01-26
 tags: [开发者,人工智能,华为,60,认证]
 comments: true

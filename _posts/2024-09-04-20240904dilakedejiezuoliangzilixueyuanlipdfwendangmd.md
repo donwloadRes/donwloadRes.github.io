@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "狄拉克的杰作：量子力学原理pdf文档"
+title: "狄拉克的杰作量子力学原理pdf文档"
 date:   2020-04-18
 tags: [狄拉克,量子力学,杰作,文档,量子]
 comments: true

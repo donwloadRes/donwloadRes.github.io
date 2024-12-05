@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation Pro 16.0 使用指南"
+title: "VMware Workstation Pro 160 使用指南"
 date:   2020-01-30
 tags: [Workstation,VMware,Pro,虚拟机,主机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北邮-高级数理逻辑全套资料"
+title: "北邮高级数理逻辑全套资料"
 date:   2024-11-25
 tags: [试卷,数理逻辑,学习,习题集,考试]
 comments: true

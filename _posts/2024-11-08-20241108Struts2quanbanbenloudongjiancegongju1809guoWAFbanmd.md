@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Struts 2 全版本漏洞检测工具 18.09 过WAF版"
+title: "Struts 2 全版本漏洞检测工具 1809 过WAF版"
 date:   2024-03-21
 tags: [S2,漏洞,工具,Struts,检测]
 comments: true

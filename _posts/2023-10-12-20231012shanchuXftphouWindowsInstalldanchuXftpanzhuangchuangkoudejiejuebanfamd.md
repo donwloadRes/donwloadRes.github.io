@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "删除Xftp后，WindowsInstall弹出Xftp安装窗口的解决办法"
+title: "删除Xftp后WindowsInstall弹出Xftp安装窗口的解决办法"
 date:   2021-01-28
 tags: [Xftp,卸载,安装,删除,软件]
 comments: true

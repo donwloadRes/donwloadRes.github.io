@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M3U8下载器：自动解密与合并工具"
+title: "M3U8下载器自动解密与合并工具"
 date:   2022-12-13
 tags: [M3U8,下载,工具,自动,解密]
 comments: true

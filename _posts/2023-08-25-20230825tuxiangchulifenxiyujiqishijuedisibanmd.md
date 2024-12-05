@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像处理、分析与机器视觉（第四版）"
+title: "图像处理分析与机器视觉第四版"
 date:   2024-02-10
 tags: [图像处理,视觉,第四版,机器,学习]
 comments: true

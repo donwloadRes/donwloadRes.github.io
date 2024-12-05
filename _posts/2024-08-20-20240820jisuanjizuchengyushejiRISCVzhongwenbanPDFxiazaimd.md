@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计 RISC-V 中文版 PDF 下载"
+title: "计算机组成与设计 RISCV 中文版 PDF 下载"
 date:   2020-11-04
 tags: [PDF,计算机,RISC,设计,组成]
 comments: true

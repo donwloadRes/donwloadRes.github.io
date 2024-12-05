@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决C# WebBrowser插件中的JavaScript报错问题"
+title: "解决C WebBrowser插件中的JavaScript报错问题"
 date:   2020-07-01
 tags: [using,WebBrowser,System,内核,报错]
 comments: true

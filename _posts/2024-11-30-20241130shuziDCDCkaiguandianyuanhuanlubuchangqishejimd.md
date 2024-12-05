@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字DC_DC开关电源环路补偿器设计"
+title: "数字DCDC开关电源环路补偿器设计"
 date:   2021-10-10
 tags: [DC,补偿器,开关电源,数字,设计]
 comments: true

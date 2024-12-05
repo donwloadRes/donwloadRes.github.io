@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲁棒控制》- 周克敏老师课程资源"
+title: "鲁棒控制 周克敏老师课程资源"
 date:   2024-02-18
 tags: [鲁棒控制,课程,周克敏,视频,资源]
 comments: true

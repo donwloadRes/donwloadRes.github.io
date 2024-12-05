@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "冈萨雷斯数字图像处理》第四版 PDF 资源下载"
+title: "冈萨雷斯数字图像处理第四版 PDF 资源下载"
 date:   2023-09-06
 tags: [数字图像处理,PDF,冈萨雷斯,第四版,英文版]
 comments: true

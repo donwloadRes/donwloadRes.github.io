@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win7 & Windows Server KB2533623 补丁说明"
+title: "win7  Windows Server KB2533623 补丁说明"
 date:   2022-03-29
 tags: [补丁,安装,Windows,KB2533623,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle ODBC 驱动（32位和64位）"
+title: "Oracle ODBC 驱动32位和64位"
 date:   2020-06-05
 tags: [ODBC,Oracle,驱动,32,64]
 comments: true

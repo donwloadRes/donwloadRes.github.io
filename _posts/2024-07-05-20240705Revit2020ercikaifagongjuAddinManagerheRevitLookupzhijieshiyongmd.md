@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revit2020 二次开发工具：AddinManager 和 RevitLookup 直接使用"
+title: "Revit2020 二次开发工具AddinManager 和 RevitLookup 直接使用"
 date:   2023-08-17
 tags: [Revit2020,AddinManager,RevitLookup,Revit,下载]
 comments: true

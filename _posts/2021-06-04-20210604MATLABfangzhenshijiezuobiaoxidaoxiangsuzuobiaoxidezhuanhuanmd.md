@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真：世界坐标系到像素坐标系的转换"
+title: "MATLAB仿真世界坐标系到像素坐标系的转换"
 date:   2020-09-18
 tags: [坐标系,MATLAB,像素,仿真,转换]
 comments: true

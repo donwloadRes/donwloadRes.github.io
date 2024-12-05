@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VUE项目开发：使用jessibuca实现直播流播放器"
+title: "VUE项目开发使用jessibuca实现直播流播放器"
 date:   2021-06-18
 tags: [直播,jessibuca,VUE,播放,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Benders分解算法的机组组合问题解决方案（Matlab代码实现）"
+title: "基于Benders分解算法的机组组合问题解决方案Matlab代码实现"
 date:   2021-06-12
 tags: [Benders,Matlab,约束,算法,代码]
 comments: true

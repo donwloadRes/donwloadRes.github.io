@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德州扑克纸牌游戏(完整源码)"
+title: "德州扑克纸牌游戏完整源码"
 date:   2022-03-19
 tags: [源码,扑克,德州,游戏,PHP]
 comments: true

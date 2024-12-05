@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Web前端期末项目资源"
+title: "Web前端期末项目资源
+date   20200630
+tags WebJS文件资源展示
+comments true
+author admin
+
+
+layout post
+title Web前端期末项目资源"
 date:   2020-06-30
 tags: [Web,JS,文件,资源,展示]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Web前端期末项目资源"
+title: "Web前端期末项目资源
+date   20200630
+tags WebJS文件资源展示
+comments true
+author admin
+
+
+layout post
+title Web前端期末项目资源"
 date:   2021-05-14
 tags: [Web,JS,文件,资源,展示]
 comments: true

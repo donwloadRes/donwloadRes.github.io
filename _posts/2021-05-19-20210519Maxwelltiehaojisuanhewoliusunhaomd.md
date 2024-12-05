@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maxwell-铁耗计算和涡流损耗"
+title: "Maxwell铁耗计算和涡流损耗"
 date:   2021-12-24
 tags: [铁耗,Maxwell,涡流损耗,曲线,铁心]
 comments: true

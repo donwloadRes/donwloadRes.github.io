@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ultralso+ 注册码资源下载"
+title: "Ultralso 注册码资源下载"
 date:   2020-08-19
 tags: [注册码,Ultralso,下载,资源,使用]
 comments: true

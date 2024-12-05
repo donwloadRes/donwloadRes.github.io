@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ POCO 库中文学习文档"
+title: "C POCO 库中文学习文档"
 date:   2023-07-19
 tags: [C++,文档,Poco,多线程,编程]
 comments: true

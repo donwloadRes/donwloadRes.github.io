@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++伪距单点定位资源文件介绍"
+title: "C伪距单点定位资源文件介绍"
 date:   2022-10-27
 tags: [文件,C++,伪距,单点,定位]
 comments: true

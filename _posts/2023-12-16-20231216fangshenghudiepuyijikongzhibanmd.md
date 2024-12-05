@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿生蝴蝶&扑翼机控制板"
+title: "仿生蝴蝶扑翼机控制板"
 date:   2021-12-13
 tags: [仿生,舵机,接口,控制板,扑翼机]
 comments: true

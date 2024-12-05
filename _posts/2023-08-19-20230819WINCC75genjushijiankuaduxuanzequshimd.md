@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINCC7.5 根据时间跨度选择趋势"
+title: "WINCC75 根据时间跨度选择趋势"
 date:   2024-04-16
 tags: [控件,WINCC7.5,时间跨度,趋势,文件]
 comments: true

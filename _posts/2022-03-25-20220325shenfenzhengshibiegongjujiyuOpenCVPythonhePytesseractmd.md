@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "身份证识别工具：基于OpenCV-Python和Pytesseract"
+title: "身份证识别工具基于OpenCVPython和Pytesseract"
 date:   2024-11-06
 tags: [识别,身份证,工具,OpenCV,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW软件与数据采集（DAQ）驱动安装教程"
+title: "LabVIEW软件与数据采集DAQ驱动安装教程"
 date:   2020-12-18
 tags: [DAQ,LabVIEW,安装,驱动,采集]
 comments: true

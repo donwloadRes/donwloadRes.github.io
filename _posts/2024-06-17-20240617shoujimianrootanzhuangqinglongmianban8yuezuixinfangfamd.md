@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机免root安装青龙面板【8月最新方法】"
+title: "手机免root安装青龙面板8月最新方法"
 date:   2020-02-23
 tags: [面板,青龙,安装,root,手机]
 comments: true

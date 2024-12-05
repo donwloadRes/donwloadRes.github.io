@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ FSK解调代码"
+title: "C FSK解调代码"
 date:   2021-04-05
 tags: [FSK,C++,解调,代码,Demodulation]
 comments: true

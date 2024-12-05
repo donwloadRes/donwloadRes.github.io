@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB质量-弹簧-阻尼器系统动画代码"
+title: "MATLAB质量弹簧阻尼器系统动画代码"
 date:   2020-11-13
 tags: [MATLAB,阻尼器,弹簧,系统,动画]
 comments: true

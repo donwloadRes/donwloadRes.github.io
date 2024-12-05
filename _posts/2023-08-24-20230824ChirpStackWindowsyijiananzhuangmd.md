@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChirpStack@Windows：一键安装"
+title: "ChirpStackWindows一键安装"
 date:   2021-01-22
 tags: [ChirpStack,双击,Windows,chirpstack,exe]
 comments: true

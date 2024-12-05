@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux（Centos7.6）安装sqluldr2"
+title: "LinuxCentos76安装sqluldr2"
 date:   2023-11-17
 tags: [sqluldr2,bash,bin,Oracle,lib]
 comments: true

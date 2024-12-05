@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDNN 7.6.5 资源文件下载"
+title: "CUDNN 765 资源文件下载"
 date:   2021-10-02
 tags: [文件,10.0,安装,CUDNN,cudnn]
 comments: true

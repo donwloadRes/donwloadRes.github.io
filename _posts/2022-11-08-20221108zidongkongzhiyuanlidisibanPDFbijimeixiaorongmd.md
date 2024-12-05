@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理第四版PDF笔记 - 梅晓榕"
+title: "自动控制原理第四版PDF笔记  梅晓榕"
 date:   2021-12-11
 tags: [PDF,笔记,自动控制,第四版,原理]
 comments: true

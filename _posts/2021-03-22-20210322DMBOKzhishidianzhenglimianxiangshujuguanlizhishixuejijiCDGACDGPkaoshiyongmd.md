@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DMBOK 知识点整理（面向数据管理知识学籍及CDGA、CDGP考试用）"
+title: "DMBOK 知识点整理面向数据管理知识学籍及CDGACDGP考试用"
 date:   2021-04-28
 tags: [数据管理,数据,知识点,CDGA,CDGP]
 comments: true

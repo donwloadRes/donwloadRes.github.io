@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 32位版本下载"
+title: "Notepad 32位版本下载"
 date:   2020-04-26
 tags: [++,32,Notepad,版本,Windows]
 comments: true

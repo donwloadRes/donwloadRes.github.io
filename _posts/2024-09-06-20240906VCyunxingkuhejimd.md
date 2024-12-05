@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++运行库合集"
+title: "VC运行库合集"
 date:   2021-05-22
 tags: [C++,运行库,安装,版本,2005]
 comments: true

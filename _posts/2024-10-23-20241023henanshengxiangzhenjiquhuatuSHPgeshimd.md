@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "河南省乡镇级区划图（SHP格式）"
+title: "河南省乡镇级区划图SHP格式"
 date:   2021-02-22
 tags: [乡镇级,区划图,河南省,SHP,ArcGIS]
 comments: true

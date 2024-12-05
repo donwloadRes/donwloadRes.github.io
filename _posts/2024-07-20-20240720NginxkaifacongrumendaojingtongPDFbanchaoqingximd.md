@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx开发从入门到精通【PDF】版 超清晰"
+title: "Nginx开发从入门到精通PDF版 超清晰"
 date:   2022-10-26
 tags: [Nginx,PDF,开发,入门,资源]
 comments: true

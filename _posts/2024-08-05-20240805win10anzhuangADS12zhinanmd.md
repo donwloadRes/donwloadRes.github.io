@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10安装ADS 1.2 指南"
+title: "win10安装ADS 12 指南"
 date:   2021-11-18
 tags: [安装,ADS,1.2,兼容性,win10]
 comments: true

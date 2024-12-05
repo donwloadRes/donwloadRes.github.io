@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#可配置数据源的SPC代码"
+title: "C可配置数据源的SPC代码"
 date:   2021-10-03
 tags: [SPC,数据源,C#,代码,图表]
 comments: true

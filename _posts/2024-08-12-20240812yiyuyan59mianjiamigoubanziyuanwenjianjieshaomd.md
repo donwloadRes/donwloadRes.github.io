@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言5.9免加密狗版资源文件介绍"
+title: "易语言59免加密狗版资源文件介绍"
 date:   2022-09-12
 tags: [易语言,加密狗,5.9,资源,文档]
 comments: true

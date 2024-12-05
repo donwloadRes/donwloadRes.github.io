@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ Dev-cpp 5.4.0 下载安装包"
+title: "CC Devcpp 540 下载安装包"
 date:   2023-01-09
 tags: [Dev,cpp,5.4,C++,安装包]
 comments: true

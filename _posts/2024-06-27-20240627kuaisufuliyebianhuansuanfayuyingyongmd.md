@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速傅里叶变换：算法与应用"
+title: "快速傅里叶变换算法与应用"
 date:   2023-12-25
 tags: [FFT,....,页码,算法,傅里叶]
 comments: true

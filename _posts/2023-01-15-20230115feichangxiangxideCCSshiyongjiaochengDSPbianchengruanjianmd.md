@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非常详细的CCS使用教程（DSP编程软件）"
+title: "非常详细的CCS使用教程DSP编程软件"
 date:   2021-09-09
 tags: [CCS,DSP,编程,教程,调试]
 comments: true

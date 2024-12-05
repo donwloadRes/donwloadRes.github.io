@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机数据采集源代码"
+title: "C 上位机数据采集源代码"
 date:   2022-11-08
 tags: [串口,数据,采集,C#,源代码]
 comments: true

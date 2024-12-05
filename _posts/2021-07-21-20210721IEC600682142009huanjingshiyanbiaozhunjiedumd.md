@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 60068-2-14 (2009) 环境试验标准解读"
+title: "IEC 60068214 2009 环境试验标准解读"
 date:   2023-06-13
 tags: [IEC,产品,60068,14,温度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mcgs_串口数据收发.zip"
+title: "Mcgs串口数据收发zip"
 date:   2023-06-27
 tags: [串口,通讯,收发,Mcgs,zip]
 comments: true

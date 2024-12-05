@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络实验指导-郭雅"
+title: "计算机网络实验指导郭雅"
 date:   2023-05-14
 tags: [实验,交换机,配置,访问控制,计算机网络]
 comments: true

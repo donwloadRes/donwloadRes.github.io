@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA数字信号处理设计教程--System Generator 入门与提高随书光盘源码"
+title: "FPGA数字信号处理设计教程System Generator 入门与提高随书光盘源码"
 date:   2021-08-29
 tags: [FPGA,源码,信号处理,System,Generator]
 comments: true

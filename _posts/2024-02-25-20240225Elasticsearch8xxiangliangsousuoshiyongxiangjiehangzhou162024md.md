@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch 8.x 向量搜索使用详解 - 杭州 1.6 2024"
+title: "Elasticsearch 8x 向量搜索使用详解  杭州 16 2024"
 date:   2024-01-06
 tags: [搜索,向量,Elasticsearch,语义,如何]
 comments: true

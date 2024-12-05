@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AppScan安全扫描工具-IBM Security App Scan Standard 资源文件介绍"
+title: "AppScan安全扫描工具IBM Security App Scan Standard 资源文件介绍"
 date:   2021-03-14
 tags: [扫描,AppScan,工具,安全,Web]
 comments: true

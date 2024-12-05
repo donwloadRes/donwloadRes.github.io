@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lammps剪切作用的两种实现方法及对比—Deform以及Velocity"
+title: "Lammps剪切作用的两种实现方法及对比Deform以及Velocity"
 date:   2022-07-09
 tags: [剪切,Velocity,代码,Lammps,Deform]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle 9.0 百度网盘下载链接"
+title: "Kettle 90 百度网盘下载链接"
 date:   2024-04-09
 tags: [9.0,下载,链接,Kettle,百度网]
 comments: true

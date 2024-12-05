@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 加密算法源码代码（包括AES的5种模式）"
+title: "STM32 加密算法源码代码包括AES的5种模式"
 date:   2022-08-15
 tags: [加密,STM32,源码,加密算法,模式]
 comments: true

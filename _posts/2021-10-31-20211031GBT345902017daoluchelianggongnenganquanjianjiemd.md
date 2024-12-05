@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 34590-2017道路车辆 功能安全》简介"
+title: "GBT 345902017道路车辆 功能安全简介"
 date:   2024-05-20
 tags: [安全,功能,GB,34590,标准]
 comments: true

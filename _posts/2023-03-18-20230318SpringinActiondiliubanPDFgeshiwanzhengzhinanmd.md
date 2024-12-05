@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring in Action 第六版 - PDF格式完整指南"
+title: "Spring in Action 第六版  PDF格式完整指南"
 date:   2023-05-09
 tags: [Spring,第六版,Action,PDF,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT3 入门教程V4.17.pdf 下载仓库"
+title: "TwinCAT3 入门教程V417pdf 下载仓库"
 date:   2022-09-07
 tags: [TwinCAT3,入门教程,V4.17,pdf,文件]
 comments: true

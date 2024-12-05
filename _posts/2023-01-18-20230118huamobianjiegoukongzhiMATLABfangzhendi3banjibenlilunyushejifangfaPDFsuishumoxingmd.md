@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "滑模变结构控制MATLAB仿真（第3版）- 基本理论与设计方法（PDF+随书模型）"
+title: "滑模变结构控制MATLAB仿真第3版 基本理论与设计方法PDF随书模型"
 date:   2022-05-20
 tags: [MATLAB,控制,仿真,滑模变,随书]
 comments: true

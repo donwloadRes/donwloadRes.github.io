@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【性能测试指南】LoadRunner 12.55 教程起点 —— 系统知识预备"
+title: "性能测试指南LoadRunner 1255 教程起点  系统知识预备"
 date:   2020-02-23
 tags: [测试,LoadRunner,性能,12.55,教程]
 comments: true

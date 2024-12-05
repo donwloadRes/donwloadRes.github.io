@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV C++ API手册与例程下载"
+title: "OpenCV C API手册与例程下载"
 date:   2023-10-11
 tags: [OpenCV,例程,手册,C++,API]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-基于JAVA的SpringBoot生鲜交易系统(源代码+论文)"
+title: "毕业设计基于JAVA的SpringBoot生鲜交易系统源代码论文"
 date:   2023-06-24
 tags: [系统,JAVA,SpringBoot,生鲜,数据库]
 comments: true

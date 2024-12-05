@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华中科技大学-计算机组成原理-educoder Logisim-自己动手画CPU-答案代码"
+title: "华中科技大学计算机组成原理educoder Logisim自己动手画CPU答案代码"
 date:   2023-08-22
 tags: [设计,代码,乘法器,加法器,原理]
 comments: true

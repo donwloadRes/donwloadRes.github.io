@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python验证码识别包muggle-ocr安装指南"
+title: "Python验证码识别包muggleocr安装指南"
 date:   2023-10-21
 tags: [muggle,ocr,验证码,Python,识别]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerDesigner15.1下载及安装指南"
+title: "PowerDesigner151下载及安装指南"
 date:   2020-11-20
 tags: [PowerDesigner,15.1,安装,下载,官方]
 comments: true

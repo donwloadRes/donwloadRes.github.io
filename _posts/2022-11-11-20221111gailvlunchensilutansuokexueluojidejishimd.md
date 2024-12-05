@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率论沉思录 - 探索科学逻辑的基石"
+title: "概率论沉思录  探索科学逻辑的基石"
 date:   2024-03-05
 tags: [概率论,科学,沉思,逻辑,不确定性]
 comments: true

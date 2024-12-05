@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RedisPlus：Windows平台下的Redis客户端工具推荐"
+title: "RedisPlusWindows平台下的Redis客户端工具推荐"
 date:   2020-06-26
 tags: [Redis,RedisPlus,Windows,监控,用户]
 comments: true

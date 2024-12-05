@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jtopo-npm 安装包"
+title: "jtoponpm 安装包"
 date:   2021-12-07
 tags: [npm,jtopo,安装包,安装,文件]
 comments: true

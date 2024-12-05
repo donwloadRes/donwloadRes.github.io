@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD2S1210中文数据手册（中文版）"
+title: "AD2S1210中文数据手册中文版"
 date:   2024-10-07
 tags: [AD2S1210,手册,正弦波,应用,电路设计]
 comments: true

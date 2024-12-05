@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIN-SPEC-70122(2018-11) 资源文件下载"
+title: "DINSPEC70122201811 资源文件下载"
 date:   2020-11-23
 tags: [文件,测试,充电,DIN,SPEC]
 comments: true

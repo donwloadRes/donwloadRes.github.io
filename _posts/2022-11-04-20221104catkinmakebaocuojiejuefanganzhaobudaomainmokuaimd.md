@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "catkin_make报错解决方案：找不到 '__main__' 模块"
+title: "catkinmake报错解决方案找不到 main 模块"
 date:   2021-05-04
 tags: [__,main,catkin,make,__.]
 comments: true

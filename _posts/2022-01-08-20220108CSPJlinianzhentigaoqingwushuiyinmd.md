@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-J历年真题（高清无水印）"
+title: "CSPJ历年真题高清无水印"
 date:   2024-03-23
 tags: [CSP,真题,水印,历年,高清]
 comments: true

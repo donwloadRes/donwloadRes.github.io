@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 桌面辅助侧边栏 (源码)"
+title: "C WPF 桌面辅助侧边栏 源码"
 date:   2024-06-13
 tags: [侧边,C#,WPF,窗口,桌面]
 comments: true

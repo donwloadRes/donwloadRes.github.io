@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK-AuthBypass-Tool-V31-MTK刷机辅助工具"
+title: "MTKAuthBypassToolV31MTK刷机辅助工具"
 date:   2022-10-22
 tags: [MTK,手机,Tool,刷机,Brom]
 comments: true

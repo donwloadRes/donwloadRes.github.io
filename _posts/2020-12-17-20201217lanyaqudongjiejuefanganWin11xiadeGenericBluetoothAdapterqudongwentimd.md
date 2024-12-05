@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙驱动解决方案 - Win11下的Generic Bluetooth Adapter驱动问题"
+title: "蓝牙驱动解决方案  Win11下的Generic Bluetooth Adapter驱动问题"
 date:   2020-08-22
 tags: [驱动,蓝牙,文件,Windows,11]
 comments: true

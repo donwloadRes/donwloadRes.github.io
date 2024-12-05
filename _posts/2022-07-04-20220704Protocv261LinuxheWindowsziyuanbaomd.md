@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protoc v26.1 Linux 和 Windows 资源包"
+title: "Protoc v261 Linux 和 Windows 资源包"
 date:   2024-05-15
 tags: [protoc,编译器,Linux,Windows,v26.1]
 comments: true

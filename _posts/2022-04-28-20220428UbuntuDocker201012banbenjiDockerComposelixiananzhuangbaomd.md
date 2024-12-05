@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu Docker 20.10.12 版本及 Docker-Compose 离线安装包"
+title: "Ubuntu Docker 201012 版本及 DockerCompose 离线安装包"
 date:   2023-06-26
 tags: [Docker,安装,离线,安装包,Compose]
 comments: true

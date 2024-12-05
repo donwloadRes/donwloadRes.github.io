@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转串口驱动安装指南（CH341SER）"
+title: "USB转串口驱动安装指南CH341SER"
 date:   2022-11-21
 tags: [串口,驱动,USB,安装,CH341SER]
 comments: true

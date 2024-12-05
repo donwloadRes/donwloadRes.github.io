@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "g++ gcc编译器安装包及其依赖"
+title: "g gcc编译器安装包及其依赖"
 date:   2024-10-08
 tags: [gcc,安装,bash,rpm,编译器]
 comments: true

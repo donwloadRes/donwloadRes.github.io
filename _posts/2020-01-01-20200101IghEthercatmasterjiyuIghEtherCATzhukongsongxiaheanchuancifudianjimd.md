@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Igh-Ethercat-master: 基于Igh EtherCAT主控松下和安川伺服电机"
+title: "IghEthercatmaster 基于Igh EtherCAT主控松下和安川伺服电机"
 date:   2024-04-11
 tags: [伺服电机,EtherCAT,Igh,松下,安川]
 comments: true

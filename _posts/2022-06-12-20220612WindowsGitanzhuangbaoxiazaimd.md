@@ -1,6 +1,37 @@
 ---
 layout: post
-title: "Windows Git 安装包下载"
+title: "Windows Git 安装包下载
+date   20210324
+tags Git安装包Windows下载git
+comments true
+author admin
+
+ Windows Git 安装包下载
+
+ 简介
+
+本仓库提供 Windows 系统下的 Git 安装包下载Git 是一个分布式版本控制系统广泛用于软件开发中帮助开发者管理和跟踪代码的变更
+
+ 资源文件
+
+ Windowsgit安装包下载
+
+该资源文件为 Windows 系统下的 Git 安装包适用于需要在 Windows 环境中安装 Git 的用户
+
+ 使用说明
+
+1 下载安装包
+    在本仓库中找到并下载 Windowsgit安装包下载 文件
+
+2 安装 Git
+    双击下载的安装包文件按照安装向导的提示完成 Git 的安装
+
+3 配置 Git
+    安装完成后打开命令行工具如 PowerShell 或 CMD输入 git version 确认 Git 是否安装成功
+    根据需要配置 Git 的用户名和邮箱使用以下命令
+     bash
+     git config global username 你的用户名
+     git config global useremail 你的邮箱"
 date:   2021-03-24
 tags: [Git,安装包,Windows,下载,git]
 comments: true

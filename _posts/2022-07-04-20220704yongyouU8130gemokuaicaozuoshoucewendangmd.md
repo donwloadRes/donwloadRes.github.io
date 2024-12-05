@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8+13.0各模块操作手册文档"
+title: "用友U8130各模块操作手册文档"
 date:   2020-11-15
 tags: [操作手册,模块,用友,U8,13.0]
 comments: true

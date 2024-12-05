@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTK最新ATE工具10.0"
+title: "MTK最新ATE工具100"
 date:   2024-04-01
 tags: [测试,MTK,ATE,工具,Multi]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 重装系统（ISO方式）超详细教程"
+title: "Win10 重装系统ISO方式超详细教程"
 date:   2023-03-29
 tags: [重装系统,ISO,教程,镜像文件,U盘]
 comments: true

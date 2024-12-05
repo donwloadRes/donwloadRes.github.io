@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理》实验报告——语法分析1"
+title: "编译原理实验报告语法分析1"
 date:   2022-05-24
 tags: [实验报告,语法分析,状态机,编译,终结符]
 comments: true

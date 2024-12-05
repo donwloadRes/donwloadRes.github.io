@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RGMII协议V2.0 资源文件下载"
+title: "RGMII协议V20 资源文件下载"
 date:   2021-06-21
 tags: [RGMII,V2.0,文件,以太网,协议]
 comments: true

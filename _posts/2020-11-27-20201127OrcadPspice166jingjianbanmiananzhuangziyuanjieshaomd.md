@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orcad Pspice 16.6 精简版 免安装资源介绍"
+title: "Orcad Pspice 166 精简版 免安装资源介绍"
 date:   2024-01-06
 tags: [精简版,Orcad,Pspice,16.6,软件]
 comments: true

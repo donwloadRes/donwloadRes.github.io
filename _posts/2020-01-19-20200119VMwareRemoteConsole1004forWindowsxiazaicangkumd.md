@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Remote Console 10.0.4 for Windows 下载仓库"
+title: "VMware Remote Console 1004 for Windows 下载仓库"
 date:   2020-01-12
 tags: [VMware,Remote,Console,10.0,Windows]
 comments: true

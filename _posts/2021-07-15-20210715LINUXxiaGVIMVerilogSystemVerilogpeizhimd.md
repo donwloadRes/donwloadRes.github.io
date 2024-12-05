@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LINUX下GVIM Verilog-System Verilog配置"
+title: "LINUX下GVIM VerilogSystem Verilog配置"
 date:   2024-05-22
 tags: [Verilog,GVIM,System,配置,Linux]
 comments: true

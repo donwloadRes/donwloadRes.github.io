@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MLX90640开发笔记（完整十章20191012）"
+title: "MLX90640开发笔记完整十章20191012"
 date:   2021-10-01
 tags: [MLX90640,开发,笔记,像素,十章]
 comments: true

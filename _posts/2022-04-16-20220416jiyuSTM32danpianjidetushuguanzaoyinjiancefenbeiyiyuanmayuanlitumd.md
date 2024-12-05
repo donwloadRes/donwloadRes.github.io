@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的图书馆噪音检测分贝仪（源码+原理图）"
+title: "基于STM32单片机的图书馆噪音检测分贝仪源码原理图"
 date:   2021-09-04
 tags: [噪音,STM32,单片机,原理图,分贝]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32固件加密：二级密钥方法详解"
+title: "STM32固件加密二级密钥方法详解"
 date:   2022-03-12
 tags: [加密,固件,密钥,STM32,步骤]
 comments: true

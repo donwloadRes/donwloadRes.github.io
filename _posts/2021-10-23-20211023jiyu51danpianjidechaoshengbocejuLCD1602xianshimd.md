@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机的超声波测距（LCD1602显示）"
+title: "基于51单片机的超声波测距LCD1602显示"
 date:   2021-10-05
 tags: [烧录,单片机,LCD1602,测距,布线图]
 comments: true

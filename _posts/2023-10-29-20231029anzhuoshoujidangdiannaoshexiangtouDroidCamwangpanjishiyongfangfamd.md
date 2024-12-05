@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓手机当电脑摄像头(DroidCam网盘及使用方法)"
+title: "安卓手机当电脑摄像头DroidCam网盘及使用方法"
 date:   2020-07-04
 tags: [电脑,手机,安卓,DroidCam,USB]
 comments: true

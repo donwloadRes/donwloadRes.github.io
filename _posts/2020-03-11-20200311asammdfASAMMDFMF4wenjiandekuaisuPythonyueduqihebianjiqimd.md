@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "asammdf：ASAM MDF MF4 文件的快速 Python 阅读器和编辑器"
+title: "asammdfASAM MDF MF4 文件的快速 Python 阅读器和编辑器"
 date:   2024-10-11
 tags: [MDF,文件,asammdf,Python,LIN]
 comments: true

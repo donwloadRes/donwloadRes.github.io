@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 16750-2：2012 电气负载标准文件"
+title: "ISO 1675022012 电气负载标准文件"
 date:   2024-03-06
 tags: [ISO,16750,2012,电气,负载]
 comments: true

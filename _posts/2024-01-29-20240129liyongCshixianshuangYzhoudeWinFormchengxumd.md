@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用C#实现双Y轴的WinForm程序"
+title: "利用C实现双Y轴的WinForm程序"
 date:   2020-10-15
 tags: [C#,WinForm,MSChart,控件,示例]
 comments: true

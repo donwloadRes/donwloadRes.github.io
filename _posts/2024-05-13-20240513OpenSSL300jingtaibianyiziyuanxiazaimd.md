@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSL 3.0.0 静态编译资源下载"
+title: "OpenSSL 300 静态编译资源下载"
 date:   2022-08-06
 tags: [编译,文件,静态,OpenSSL,3.0]
 comments: true

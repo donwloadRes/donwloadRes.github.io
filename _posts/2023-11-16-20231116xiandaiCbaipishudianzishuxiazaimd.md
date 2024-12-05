@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代C++白皮书电子书下载"
+title: "现代C白皮书电子书下载"
 date:   2021-04-29
 tags: [C++,白皮书,编程,现代,语言]
 comments: true

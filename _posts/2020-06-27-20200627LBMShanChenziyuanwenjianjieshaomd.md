@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LBM Shan-Chen 资源文件介绍"
+title: "LBM ShanChen 资源文件介绍"
 date:   2024-04-11
 tags: [模型,Chen,文件,Shan,多相]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0-Serial串口驱动下载"
+title: "USB20Serial串口驱动下载"
 date:   2020-04-19
 tags: [驱动程序,串口,USB2.0,Serial,设备]
 comments: true

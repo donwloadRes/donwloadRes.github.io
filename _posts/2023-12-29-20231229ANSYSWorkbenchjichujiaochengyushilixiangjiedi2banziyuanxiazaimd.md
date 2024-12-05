@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS Workbench基础教程与实例详解（第2版）资源下载"
+title: "ANSYS Workbench基础教程与实例详解第2版资源下载"
 date:   2021-02-06
 tags: [ANSYS,Workbench,基础教程,PDF,实例]
 comments: true

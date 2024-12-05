@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 9899:2011 - C11标准正式版"
+title: "ISOIEC 98992011  C11标准正式版"
 date:   2024-02-26
 tags: [C11,ISO,C语言,标准,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS安装辅助资源 - rosdistro-master.zip"
+title: "ROS安装辅助资源  rosdistromasterzip"
 date:   2022-04-26
 tags: [ROS,zip,rosdistro,master,安装]
 comments: true

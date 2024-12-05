@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【可视化】小费（tips）数据集分析"
+title: "可视化小费tips数据集分析"
 date:   2021-07-26
 tags: [小费,可视化,数据,就餐,分析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超大文本阅读器下载 LargeTextFileViewer 5.2"
+title: "超大文本阅读器下载 LargeTextFileViewer 52"
 date:   2023-08-08
 tags: [文件,Unicode,编码,加载,LargeTextFileViewer]
 comments: true

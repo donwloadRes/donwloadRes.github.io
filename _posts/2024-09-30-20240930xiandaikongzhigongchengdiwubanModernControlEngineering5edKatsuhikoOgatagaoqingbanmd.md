@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代控制工程, 第五版 (Modern Control Engineering, 5ed)-Katsuhiko Ogata, 高清版"
+title: "现代控制工程 第五版 Modern Control Engineering 5edKatsuhiko Ogata 高清版"
 date:   2022-01-02
 tags: [MATLAB,控制系统,分析,控制工程,本书]
 comments: true

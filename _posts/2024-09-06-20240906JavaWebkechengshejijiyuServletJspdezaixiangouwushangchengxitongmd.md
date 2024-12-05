@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb课程设计：基于Servlet+Jsp的在线购物商城系统"
+title: "JavaWeb课程设计基于ServletJsp的在线购物商城系统"
 date:   2020-11-14
 tags: [页面,商城,JavaWeb,Servlet,Jsp]
 comments: true

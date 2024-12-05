@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EAIDK-310官方资料及系统安装指南"
+title: "EAIDK310官方资料及系统安装指南"
 date:   2021-04-29
 tags: [EAIDK,310,rootfs,镜像,官方]
 comments: true

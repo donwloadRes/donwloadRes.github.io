@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA40-49全系列英文规范标准下载"
+title: "VITA4049全系列英文规范标准下载"
 date:   2023-09-16
 tags: [VITA40,规范,标准,49,全系列]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 天空盒素材下载"
+title: "Threejs 天空盒素材下载"
 date:   2021-08-15
 tags: [天空,Three,js,素材,场景]
 comments: true

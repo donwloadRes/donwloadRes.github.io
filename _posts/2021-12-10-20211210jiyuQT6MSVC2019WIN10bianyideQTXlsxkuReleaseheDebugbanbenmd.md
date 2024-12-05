@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT6（MSVC2019）WIN10编译的QTXlsx库（Release和Debug版本）"
+title: "基于QT6MSVC2019WIN10编译的QTXlsx库Release和Debug版本"
 date:   2021-12-02
 tags: [QTXlsx,版本,Release,Debug,Qt]
 comments: true

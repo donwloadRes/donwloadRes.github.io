@@ -1,6 +1,58 @@
 ---
 layout: post
-title: "PDF电子发票解析免费版"
+title: "PDF电子发票解析免费版
+date   20210415
+tags 发票解析电子文件免费版
+comments true
+author admin
+
+ PDF电子发票解析免费版
+
+ 资源描述
+
+本仓库提供了一个PDF电子发票解析的免费版资源文件该资源文件包含了详细的电子发票信息适用于需要解析和处理电子发票的开发者或用户
+
+ 资源内容
+
+以下是资源文件中包含的电子发票信息示例
+
+json
+
+  fh 
+  fpdm 034011900111
+  hjse 
+  fplx 10
+  spfsbh 91510500
+  spfyhzh kpfsbh
+  hwmxs 
+    
+      hh 1
+      ggxh 
+      se 
+      dw 
+      hwmc 合
+      dj 2490
+      sl 1
+      je 2490
+      slv 免税
+    
+  
+  xsf 章
+  kpr 
+  hjje 2490
+  kpfmc 
+  kpfyhzh 3
+  kpje 2490
+  hwmc 计
+  kprq 20200421
+  spfmc 泸有限公司
+  spfdzdh 
+  skr 胡
+  slv 免税
+  jqbh 661700889591
+  kpfdzdh 
+  fphm 
+  jym "
 date:   2021-04-15
 tags: [发票,解析,电子,文件,免费版]
 comments: true

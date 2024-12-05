@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NCDE-DSDE代码仓库"
+title: "NCDEDSDE代码仓库"
 date:   2024-09-14
 tags: [算法,代码,邻域,NCDE,差分]
 comments: true

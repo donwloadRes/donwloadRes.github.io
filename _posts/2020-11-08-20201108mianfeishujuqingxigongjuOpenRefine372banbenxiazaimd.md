@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费数据清洗工具：OpenRefine 3.7.2 版本下载"
+title: "免费数据清洗工具OpenRefine 372 版本下载"
 date:   2021-02-14
 tags: [OpenRefine,清洗,数据,3.7,压缩包]
 comments: true

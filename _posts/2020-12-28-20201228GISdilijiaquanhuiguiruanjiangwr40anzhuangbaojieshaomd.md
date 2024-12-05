@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GIS地理加权回归软件：gwr4.0安装包介绍"
+title: "GIS地理加权回归软件gwr40安装包介绍"
 date:   2021-12-05
 tags: [软件,加权,地理,回归,ArcGIS]
 comments: true

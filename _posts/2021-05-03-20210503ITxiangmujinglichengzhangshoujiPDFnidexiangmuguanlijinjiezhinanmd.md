@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT项目经理成长手记PDF - 你的项目管理进阶指南"
+title: "IT项目经理成长手记PDF  你的项目管理进阶指南"
 date:   2020-03-22
 tags: [项目管理,项目经理,PDF,成长,手记]
 comments: true

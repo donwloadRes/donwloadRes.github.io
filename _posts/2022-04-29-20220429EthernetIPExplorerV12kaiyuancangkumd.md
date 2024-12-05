@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethernet-IP Explorer V1.2 开源仓库"
+title: "EthernetIP Explorer V12 开源仓库"
 date:   2024-01-01
 tags: [Ethernet,IP,Explorer,V1.2,com]
 comments: true

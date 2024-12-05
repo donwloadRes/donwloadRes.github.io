@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32_W5300_16Bit 标准例程资源介绍"
+title: "STM32W530016Bit 标准例程资源介绍"
 date:   2024-09-03
 tags: [例程,STM32,W5300,网络通讯,开发者]
 comments: true

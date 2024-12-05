@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现百度离线地图API 1.3"
+title: "Qt实现百度离线地图API 13"
 date:   2021-11-29
 tags: [Qt,离线,地图,源码,API]
 comments: true

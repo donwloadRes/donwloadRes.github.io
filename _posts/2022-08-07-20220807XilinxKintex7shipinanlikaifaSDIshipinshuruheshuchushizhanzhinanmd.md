@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Kintex-7视频案例开发：SDI视频输入和输出实战指南"
+title: "Xilinx Kintex7视频案例开发SDI视频输入和输出实战指南"
 date:   2021-07-05
 tags: [SDI,视频,FPGA,Xilinx,Kintex]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab Simulink模型检查、验证与测试指南"
+title: "Matlab Simulink模型检查验证与测试指南"
 date:   2020-10-22
 tags: [Matlab,验证,模型,Simulink,测试]
 comments: true

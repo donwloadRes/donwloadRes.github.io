@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++桌面浏览器开发-Cef浏览器资源下载"
+title: "C桌面浏览器开发Cef浏览器资源下载"
 date:   2024-03-17
 tags: [浏览器,Cef,C++,开发,下载]
 comments: true

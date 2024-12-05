@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDI 2230高强度螺栓连接的系统计算-中文完整版"
+title: "VDI 2230高强度螺栓连接的系统计算中文完整版"
 date:   2023-09-11
 tags: [螺栓,VDI,高强度,2230,连接]
 comments: true

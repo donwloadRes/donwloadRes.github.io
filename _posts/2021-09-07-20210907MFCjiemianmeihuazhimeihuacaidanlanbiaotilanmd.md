@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFC界面美化之美化菜单栏，标题栏"
+title: "MFC界面美化之美化菜单栏标题栏"
 date:   2020-03-02
 tags: [重绘,菜单栏,MFC,美化,界面]
 comments: true

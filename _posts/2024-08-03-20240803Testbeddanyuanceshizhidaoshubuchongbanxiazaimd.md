@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testbed单元测试指导书（补充版）下载"
+title: "Testbed单元测试指导书补充版下载"
 date:   2021-01-10
 tags: [单元测试,指导书,Testbed,文件,常见问题]
 comments: true

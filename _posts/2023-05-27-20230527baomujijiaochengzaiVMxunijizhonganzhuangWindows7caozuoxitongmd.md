@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：在VM虚拟机中安装Windows 7操作系统"
+title: "保姆级教程在VM虚拟机中安装Windows 7操作系统"
 date:   2023-08-11
 tags: [Windows,虚拟机,教程,安装,操作系统]
 comments: true

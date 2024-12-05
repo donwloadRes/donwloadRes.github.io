@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "温度PID模糊控制算法（完整）"
+title: "温度PID模糊控制算法完整"
 date:   2021-09-11
 tags: [PID,模糊控制,https,com,your]
 comments: true

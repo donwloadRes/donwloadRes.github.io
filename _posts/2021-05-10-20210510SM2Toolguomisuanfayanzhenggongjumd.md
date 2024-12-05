@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SM2Tool - 国密算法验证工具"
+title: "SM2Tool  国密算法验证工具"
 date:   2023-08-23
 tags: [算法,验证,国密,SM2,工具]
 comments: true

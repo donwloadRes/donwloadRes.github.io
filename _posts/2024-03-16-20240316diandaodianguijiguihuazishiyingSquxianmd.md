@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "点到点轨迹规划——自适应S曲线"
+title: "点到点轨迹规划自适应S曲线"
 date:   2024-01-14
 tags: [trajectory,参数,position,max,曲线]
 comments: true

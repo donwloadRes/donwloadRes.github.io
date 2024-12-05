@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装OpenCV+Clion配置 史上最详细的保姆级教程"
+title: "Win10安装OpenCVClion配置 史上最详细的保姆级教程"
 date:   2021-05-01
 tags: [OpenCV,Clion,配置,CMake,编译]
 comments: true

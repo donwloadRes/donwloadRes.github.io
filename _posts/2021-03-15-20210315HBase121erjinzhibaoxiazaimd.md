@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HBase 1.2.1 二进制包下载"
+title: "HBase 121 二进制包下载"
 date:   2023-04-20
 tags: [HBase,1.2,解压,文件,hbase]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iPhone4S降级6.1.3系统方法指南"
+title: "iPhone4S降级613系统方法指南"
 date:   2020-08-06
 tags: [降级,iPhone4S,刷机,点击,越狱]
 comments: true

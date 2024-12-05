@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP 安全库存、库存确定、再订货点资源文件介绍"
+title: "SAP 安全库存库存确定再订货点资源文件介绍"
 date:   2024-05-07
 tags: [库存,SAP,订货,配置,系统]
 comments: true

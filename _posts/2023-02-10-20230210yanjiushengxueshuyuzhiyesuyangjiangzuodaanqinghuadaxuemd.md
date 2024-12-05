@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研究生学术与职业素养讲座答案_清华大学"
+title: "研究生学术与职业素养讲座答案清华大学"
 date:   2020-05-01
 tags: [素养,答案,讲座,学术,研究生]
 comments: true

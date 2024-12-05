@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32定时器触发ADC+DMA双路资源下载"
+title: "STM32定时器触发ADCDMA双路资源下载"
 date:   2020-12-28
 tags: [STM32,ADC,定时器,DMA,双路]
 comments: true

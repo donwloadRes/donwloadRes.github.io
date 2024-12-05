@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装Linux教程(超详细)"
+title: "VMware虚拟机安装Linux教程超详细"
 date:   2020-04-20
 tags: [虚拟机,Linux,VMware,安装,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.1官方中文解锁版2024：简谱功能新体验"
+title: "Guitar Pro 81官方中文解锁版2024简谱功能新体验"
 date:   2023-12-19
 tags: [简谱,Guitar,Pro,8.1,功能]
 comments: true

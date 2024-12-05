@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dbForge Studio 2023 for MySQL Enterprise 10.0.6 x64 - 官网最新版本"
+title: "dbForge Studio 2023 for MySQL Enterprise 1006 x64  官网最新版本"
 date:   2021-12-25
 tags: [MySQL,2023,数据库,dbForge,Studio]
 comments: true

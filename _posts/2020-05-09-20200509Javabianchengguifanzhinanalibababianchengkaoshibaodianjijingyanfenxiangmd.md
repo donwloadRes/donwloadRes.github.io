@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Java编程规范指南】—— 阿里巴巴编程考试宝典及经验分享"
+title: "Java编程规范指南 阿里巴巴编程考试宝典及经验分享"
 date:   2024-12-02
 tags: [考试,编程,阿里巴巴,真题,规范]
 comments: true

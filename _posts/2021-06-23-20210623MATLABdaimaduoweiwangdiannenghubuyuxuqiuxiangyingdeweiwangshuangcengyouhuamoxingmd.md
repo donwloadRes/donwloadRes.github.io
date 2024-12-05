@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：多微网电能互补与需求响应的微网双层优化模型"
+title: "MATLAB代码多微网电能互补与需求响应的微网双层优化模型"
 date:   2021-04-01
 tags: [微网,优化,MATLAB,配电网,代码]
 comments: true

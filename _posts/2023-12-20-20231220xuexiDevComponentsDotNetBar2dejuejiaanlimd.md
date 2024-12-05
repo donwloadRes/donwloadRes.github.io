@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习DevComponents.DotNetBar2的绝佳案例"
+title: "学习DevComponentsDotNetBar2的绝佳案例"
 date:   2022-04-23
 tags: [DevComponents,DotNetBar2,控件,案例,学习]
 comments: true

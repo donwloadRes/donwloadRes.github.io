@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix5系列-制作拓扑图 (十三)"
+title: "Zabbix5系列制作拓扑图 十三"
 date:   2024-11-24
 tags: [拓扑图,网络拓扑,图标,链接,制作]
 comments: true

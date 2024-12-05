@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF.js 在线预览与打印Demo"
+title: "PDFjs 在线预览与打印Demo"
 date:   2020-10-16
 tags: [PDF,js,pdf,预览,var]
 comments: true

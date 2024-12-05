@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴B863AV3.1-M2_S905L3安卓9.0线刷包"
+title: "中兴B863AV31M2S905L3安卓90线刷包"
 date:   2023-01-12
 tags: [B863AV3.1,M2,S905L3,安卓,9.0]
 comments: true

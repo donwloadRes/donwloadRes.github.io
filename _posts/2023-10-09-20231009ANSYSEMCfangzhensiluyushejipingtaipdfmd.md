@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS EMC仿真思路与设计平台.pdf"
+title: "ANSYS EMC仿真思路与设计平台pdf"
 date:   2020-06-26
 tags: [EMC,仿真,ANSYS,电磁兼容,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年6月全国青少年软件编程（Python）等级考试（一级）试卷下载"
+title: "2022年6月全国青少年软件编程Python等级考试一级试卷下载"
 date:   2024-07-12
 tags: [Python,编程,试卷,考试,青少年]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远控完整版源码（模块齐全）"
+title: "远控完整版源码模块齐全"
 date:   2020-07-11
 tags: [源码,远控,模块,完整版,易语言]
 comments: true

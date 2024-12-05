@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱FX5U与MR-JE-C伺服通过CC-Link IE协议通信案例"
+title: "三菱FX5U与MRJEC伺服通过CCLink IE协议通信案例"
 date:   2022-04-28
 tags: [FX5U,JE,案例,伺服,CC]
 comments: true

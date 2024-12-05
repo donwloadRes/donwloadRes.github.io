@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库硬件SPI（软件SPI）驱动1.8寸TFT-LCD屏幕"
+title: "STM32 HAL库硬件SPI软件SPI驱动18寸TFTLCD屏幕"
 date:   2020-06-09
 tags: [SPI,屏幕,STM32,硬件,TFT]
 comments: true

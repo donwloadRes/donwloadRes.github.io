@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN学习笔记-常用操作步骤"
+title: "EPLAN学习笔记常用操作步骤"
 date:   2021-01-06
 tags: [EPLAN,操作步骤,常用,笔记,学习]
 comments: true

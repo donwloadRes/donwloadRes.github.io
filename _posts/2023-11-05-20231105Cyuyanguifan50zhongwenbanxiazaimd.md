@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 语言规范 5.0 中文版下载"
+title: "C 语言规范 50 中文版下载"
 date:   2024-02-29
 tags: [C#,语言,类型,5.0,组件]
 comments: true

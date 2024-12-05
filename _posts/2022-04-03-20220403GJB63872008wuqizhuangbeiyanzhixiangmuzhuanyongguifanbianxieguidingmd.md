@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 6387-2008 武器装备研制项目专用规范编写规定"
+title: "GJB 63872008 武器装备研制项目专用规范编写规定"
 date:   2023-07-22
 tags: [研制,武器装备,编写,验收,规范]
 comments: true

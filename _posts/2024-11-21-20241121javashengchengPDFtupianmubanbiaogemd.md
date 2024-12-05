@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "java生成PDF（图片，模板，表格）"
+title: "java生成PDF图片模板表格"
 date:   2023-09-20
 tags: [PDF,模板,生成,表格,Java]
 comments: true

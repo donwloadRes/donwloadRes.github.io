@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一款简洁的Python开发工具——MU"
+title: "一款简洁的Python开发工具MU"
 date:   2023-04-01
 tags: [MU,Python,安装,编程,初学者]
 comments: true

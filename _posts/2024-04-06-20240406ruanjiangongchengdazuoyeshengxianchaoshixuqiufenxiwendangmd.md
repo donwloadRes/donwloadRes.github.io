@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程大作业：生鲜超市需求分析文档"
+title: "软件工程大作业生鲜超市需求分析文档"
 date:   2023-08-19
 tags: [生鲜,文档,软件工程,超市,用户]
 comments: true

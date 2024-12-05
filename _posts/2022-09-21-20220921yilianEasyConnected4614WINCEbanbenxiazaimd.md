@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亿连 EasyConnected 4.6.14 WINCE 版本下载"
+title: "亿连 EasyConnected 4614 WINCE 版本下载"
 date:   2020-06-04
 tags: [WINCE,安卓,车机,10,互联]
 comments: true

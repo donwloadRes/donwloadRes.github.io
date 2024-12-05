@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-springBoot商城系统+毕业论文+源代码"
+title: "毕业设计springBoot商城系统毕业论文源代码"
 date:   2020-09-21
 tags: [Spring,毕业设计,Boot,源代码,系统]
 comments: true

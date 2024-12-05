@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT经典教程_详细一步一步例子"
+title: "QT经典教程详细一步一步例子"
 date:   2022-09-01
 tags: [Qt,Creator,2D,绘图,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SouthMap平台版：集成ZWCAD2022，简化CAD安装流程"
+title: "SouthMap平台版集成ZWCAD2022简化CAD安装流程"
 date:   2024-01-26
 tags: [SouthMap,ZWCAD2022,平台,安装,CAD]
 comments: true

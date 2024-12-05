@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于SpringBoot的医护人员排班系统"
+title: "毕业设计基于SpringBoot的医护人员排班系统"
 date:   2020-07-31
 tags: [排班,医护人员,信息管理,毕业设计,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#高性能大容量SOCKET并发完成端口例子（有C#客户端）完整实例源码"
+title: "C高性能大容量SOCKET并发完成端口例子有C客户端完整实例源码"
 date:   2024-04-16
 tags: [C#,SOCKET,高性能,并发,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机保研-考研复试面试常问问题资源下载"
+title: "计算机保研考研复试面试常问问题资源下载"
 date:   2024-08-06
 tags: [面试,保研,复试,考研,常问]
 comments: true

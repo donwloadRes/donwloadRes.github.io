@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 23.3 资源文件下载"
+title: "MobaXterm 233 资源文件下载"
 date:   2021-12-05
 tags: [MobaXterm,解压,文件,23.3,123]
 comments: true

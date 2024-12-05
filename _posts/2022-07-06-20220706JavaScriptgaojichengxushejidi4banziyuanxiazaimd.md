@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript高级程序设计(第4版) 资源下载"
+title: "JavaScript高级程序设计第4版 资源下载"
 date:   2024-06-13
 tags: [JavaScript,程序设计,PDF,下载,版权]
 comments: true

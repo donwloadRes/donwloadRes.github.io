@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实变函数论习题答案-周民强"
+title: "实变函数论习题答案周民强"
 date:   2020-10-21
 tags: [实变,习题,周民强,函数,答案]
 comments: true

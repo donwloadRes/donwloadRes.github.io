@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows Server 2016无法安装.NET 3.5"
+title: "解决Windows Server 2016无法安装NET 35"
 date:   2022-02-28
 tags: [Windows,NET,3.5,Framework,Name]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据 DataX-Web 详细安装教程"
+title: "大数据 DataXWeb 详细安装教程"
 date:   2024-08-03
 tags: [DataX,Web,创建,任务,安装]
 comments: true

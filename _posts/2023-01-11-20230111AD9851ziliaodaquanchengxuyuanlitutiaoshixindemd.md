@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD9851资料大全（程序、原理图、调试心得）"
+title: "AD9851资料大全程序原理图调试心得"
 date:   2024-08-06
 tags: [DDS,AD9851,原理图,调试,程序代码]
 comments: true

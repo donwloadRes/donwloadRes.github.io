@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1PPS+TOD资源规范"
+title: "1PPSTOD资源规范"
 date:   2022-06-12
 tags: [1PPS,TOD,时间,同步,资源]
 comments: true

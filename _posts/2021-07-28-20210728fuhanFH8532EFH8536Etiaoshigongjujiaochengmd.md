@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "富翰FH8532E-FH8536E调试工具教程"
+title: "富翰FH8532EFH8536E调试工具教程"
 date:   2022-05-05
 tags: [调试,教程,芯片,富翰,FH8532E]
 comments: true

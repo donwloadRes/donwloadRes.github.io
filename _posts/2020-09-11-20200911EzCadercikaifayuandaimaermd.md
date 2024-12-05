@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EzCad二次开发源代码（二）"
+title: "EzCad二次开发源代码二"
 date:   2023-11-18
 tags: [EzCad,二次开发,打标,二维码,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作"
+title: "全网最全Stable Diffusion全套教程从入门到进阶耗时三个月制作"
 date:   2024-06-14
 tags: [AIGC,Stable,Diffusion,教程,应用]
 comments: true

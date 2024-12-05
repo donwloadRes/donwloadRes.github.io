@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金工研报中金公司-量化多因子系列"
+title: "金工研报中金公司量化多因子系列"
 date:   2021-07-13
 tags: [多因子,量化,研报,因子,模型]
 comments: true

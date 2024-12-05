@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lockdir便携式文件夹加密器（单文件绿色版）"
+title: "lockdir便携式文件夹加密器单文件绿色版"
 date:   2022-09-02
 tags: [加密,文件夹,lockdir,加密器,便携式]
 comments: true

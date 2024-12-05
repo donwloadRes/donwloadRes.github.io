@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103+W25Q64+RTOS2+LittleFS 资源文件下载"
+title: "STM32F103W25Q64RTOS2LittleFS 资源文件下载"
 date:   2022-07-29
 tags: [STM32F103,W25Q64,文件系统,文件,闪存]
 comments: true

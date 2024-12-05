@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML建模实例教程》【PPT】"
+title: "UML建模实例教程PPT"
 date:   2022-09-05
 tags: [UML,建模,PPT,实例教程,模型]
 comments: true

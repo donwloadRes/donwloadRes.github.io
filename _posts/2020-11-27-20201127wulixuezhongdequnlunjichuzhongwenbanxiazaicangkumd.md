@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物理学中的群论基础（中文版）下载仓库"
+title: "物理学中的群论基础中文版下载仓库"
 date:   2021-11-09
 tags: [群论,物理学,中文版,下载,仓库]
 comments: true

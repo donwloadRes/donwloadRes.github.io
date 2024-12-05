@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt界面开发(一)：各种控件以及图表资源文件介绍"
+title: "Qt界面开发一各种控件以及图表资源文件介绍"
 date:   2021-07-28
 tags: [界面,Qt,文件,控件,图表]
 comments: true

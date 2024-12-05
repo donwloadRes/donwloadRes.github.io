@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch 二次开发定制 - Python代码生成"
+title: "Scratch 二次开发定制  Python代码生成"
 date:   2024-02-02
 tags: [Scratch,Python,项目,转换,代码]
 comments: true

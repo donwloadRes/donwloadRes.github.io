@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一个好用的C#代码编辑器(源代码)"
+title: "一个好用的C代码编辑器源代码"
 date:   2021-06-12
 tags: [代码,C#,编辑器,源代码,开发者]
 comments: true

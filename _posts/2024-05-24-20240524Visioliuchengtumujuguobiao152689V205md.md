@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visio流程图模具：国标1526-89（V2.0.5）"
+title: "Visio流程图模具国标152689V205"
 date:   2022-11-26
 tags: [流程图,Visio,模具,形状,修复]
 comments: true

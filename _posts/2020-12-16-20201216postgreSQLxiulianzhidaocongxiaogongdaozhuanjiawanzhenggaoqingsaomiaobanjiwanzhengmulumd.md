@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "postgreSQL修炼之道：从小工到专家 - 完整高清扫描版及完整目录"
+title: "postgreSQL修炼之道从小工到专家  完整高清扫描版及完整目录"
 date:   2020-02-23
 tags: [完整,PostgreSQL,目录,这份,postgreSQL]
 comments: true

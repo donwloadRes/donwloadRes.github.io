@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3dmax2016-2019 官网安装程序和注册资源"
+title: "3dmax20162019 官网安装程序和注册资源"
 date:   2024-01-16
 tags: [3ds,Max,资源,安装程序,2019]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "McgsPro 3.3.2 组态软件安装包及例程"
+title: "McgsPro 332 组态软件安装包及例程"
 date:   2023-04-21
 tags: [McgsPro,例程,软件,3.3,组态]
 comments: true

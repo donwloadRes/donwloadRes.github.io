@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6与1.44寸ST7735 TFT LCD彩屏驱动程序"
+title: "STM32F103C8T6与144寸ST7735 TFT LCD彩屏驱动程序"
 date:   2020-10-08
 tags: [驱动程序,STM32F103C8T6,1.44,ST7735,TFT]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Burp Suite使用教程1.pdf 下载仓库"
+title: "Burp Suite使用教程1pdf 下载仓库"
 date:   2024-04-12
 tags: [Burp,Suite,教程,专业版,使用]
 comments: true

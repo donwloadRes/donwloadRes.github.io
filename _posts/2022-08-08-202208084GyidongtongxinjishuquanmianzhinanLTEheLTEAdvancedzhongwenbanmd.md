@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4G 移动通信技术全面指南：LTE 和 LTE-Advanced 中文版"
+title: "4G 移动通信技术全面指南LTE 和 LTEAdvanced 中文版"
 date:   2020-02-24
 tags: [LTE,4G,通信,Advanced,指南]
 comments: true

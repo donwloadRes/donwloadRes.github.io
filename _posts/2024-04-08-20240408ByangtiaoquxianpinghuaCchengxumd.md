@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B样条曲线平滑C++程序"
+title: "B样条曲线平滑C程序"
 date:   2024-09-08
 tags: [平滑,样条,曲线,C++,程序]
 comments: true

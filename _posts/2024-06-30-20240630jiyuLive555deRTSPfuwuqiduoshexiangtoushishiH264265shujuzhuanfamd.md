@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Live555的RTSP服务器：多摄像头实时H264-265数据转发"
+title: "基于Live555的RTSP服务器多摄像头实时H264265数据转发"
 date:   2023-07-15
 tags: [摄像头,转发,RTSP,实时,Live555]
 comments: true

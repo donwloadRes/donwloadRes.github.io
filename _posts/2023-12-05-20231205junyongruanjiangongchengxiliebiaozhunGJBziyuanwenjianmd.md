@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "军用软件工程系列标准（GJB）资源文件"
+title: "军用软件工程系列标准GJB资源文件"
 date:   2022-12-22
 tags: [GJB,军用,软件工程,标准文件,1994]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nacos-pgsql: 支持 PostgreSQL 的 Nacos 版本"
+title: "nacospgsql 支持 PostgreSQL 的 Nacos 版本"
 date:   2021-04-26
 tags: [Nacos,PostgreSQL,数据库,版本,nacos]
 comments: true

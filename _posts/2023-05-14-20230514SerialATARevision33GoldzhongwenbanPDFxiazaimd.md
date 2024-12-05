@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SerialATA Revision 3.3 Gold 中文版 PDF 下载"
+title: "SerialATA Revision 33 Gold 中文版 PDF 下载"
 date:   2023-04-05
 tags: [SerialATA,Revision,Gold,中文版,PDF]
 comments: true

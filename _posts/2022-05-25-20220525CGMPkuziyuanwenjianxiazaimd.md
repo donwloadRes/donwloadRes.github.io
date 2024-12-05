@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ GMP 库资源文件下载"
+title: "C GMP 库资源文件下载"
 date:   2023-10-19
 tags: [GMP,libgmp,文件,lib,Visual]
 comments: true

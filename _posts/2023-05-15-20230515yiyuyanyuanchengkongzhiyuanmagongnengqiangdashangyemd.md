@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言远程控制源码（功能强大商业）"
+title: "易语言远程控制源码功能强大商业"
 date:   2020-09-19
 tags: [源码,易语言,功能强大,远程,控制]
 comments: true

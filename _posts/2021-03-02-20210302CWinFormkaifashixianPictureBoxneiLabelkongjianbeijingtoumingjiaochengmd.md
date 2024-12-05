@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm开发：实现PictureBox内Label控件背景透明教程"
+title: "C WinForm开发实现PictureBox内Label控件背景透明教程"
 date:   2020-09-09
 tags: [PictureBox,Label,控件,透明,背景]
 comments: true

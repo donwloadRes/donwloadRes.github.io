@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "量化金融完整C++代码仓库"
+title: "量化金融完整C代码仓库"
 date:   2020-12-31
 tags: [代码,C++,量化,模块,仓库]
 comments: true

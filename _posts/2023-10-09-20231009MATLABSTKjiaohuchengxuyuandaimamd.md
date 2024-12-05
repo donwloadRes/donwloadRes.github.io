@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB-STK 交互程序源代码"
+title: "MATLABSTK 交互程序源代码"
 date:   2023-10-27
 tags: [STK,MATLAB,交互,源代码,程序]
 comments: true

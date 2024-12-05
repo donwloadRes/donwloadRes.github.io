@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "节能与新能源汽车技术路线图2.0"
+title: "节能与新能源汽车技术路线图20"
 date:   2024-10-18
 tags: [技术,节能,2.0,新能源,路线图]
 comments: true

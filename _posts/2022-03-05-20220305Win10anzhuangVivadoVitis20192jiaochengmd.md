@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装Vivado + Vitis 2019.2 教程"
+title: "Win10安装Vivado  Vitis 20192 教程"
 date:   2022-06-15
 tags: [Vitis,Vivado,安装,选择,教程]
 comments: true

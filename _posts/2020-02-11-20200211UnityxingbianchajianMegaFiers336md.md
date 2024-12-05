@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity形变插件（Mega-Fiers 3.36）"
+title: "Unity形变插件MegaFiers 336"
 date:   2020-05-05
 tags: [动画,Unity,Mega,Fiers,3.36]
 comments: true

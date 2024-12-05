@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多项式拟合C++程序"
+title: "多项式拟合C程序"
 date:   2020-01-19
 tags: [拟合,多项式,系数,程序,输出]
 comments: true

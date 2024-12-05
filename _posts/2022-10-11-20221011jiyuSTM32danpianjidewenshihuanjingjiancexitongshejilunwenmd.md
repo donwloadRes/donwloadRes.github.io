@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的温室环境监测系统设计-论文"
+title: "基于STM32单片机的温室环境监测系统设计论文"
 date:   2024-04-06
 tags: [STM32,单片机,环境监测,设计,系统]
 comments: true

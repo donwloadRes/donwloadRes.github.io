@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群晖DS918+和DS3617xs 7.0.1-42218引导镜像及系统安装包"
+title: "群晖DS918和DS3617xs 70142218引导镜像及系统安装包"
 date:   2021-07-24
 tags: [网卡,引导,群晖,驱动,添加]
 comments: true

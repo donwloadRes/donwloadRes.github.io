@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电脑与西门子S7-1200 PLC通信的VB6.0示例代码"
+title: "电脑与西门子S71200 PLC通信的VB60示例代码"
 date:   2021-12-12
 tags: [PLC,VB6.0,通信,西门子,代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS7环境下安装MySQL8（基于tar.gz压缩文件安装）"
+title: "CentOS7环境下安装MySQL8基于targz压缩文件安装"
 date:   2024-05-19
 tags: [MySQL,安装,权限,tar,gz]
 comments: true

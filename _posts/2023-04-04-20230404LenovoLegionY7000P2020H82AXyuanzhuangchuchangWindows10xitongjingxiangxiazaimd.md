@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lenovo Legion Y7000P 2020H(82AX) 原装出厂Windows10系统镜像下载"
+title: "Lenovo Legion Y7000P 2020H82AX 原装出厂Windows10系统镜像下载"
 date:   2021-01-30
 tags: [镜像,系统,启动盘,出厂,下载]
 comments: true

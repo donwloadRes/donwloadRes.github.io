@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中科大-陈国良-并行计算（PPT课件全）下载仓库"
+title: "中科大陈国良并行计算PPT课件全下载仓库"
 date:   2022-11-24
 tags: [并行计算,PPT,课件,中科大,陈国良]
 comments: true

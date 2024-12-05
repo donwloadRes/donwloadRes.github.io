@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第12章 MATLAB Simulink系统仿真 - 习题答案"
+title: "第12章 MATLAB Simulink系统仿真  习题答案"
 date:   2023-04-14
 tags: [Simulink,仿真,习题,MATLAB,12]
 comments: true

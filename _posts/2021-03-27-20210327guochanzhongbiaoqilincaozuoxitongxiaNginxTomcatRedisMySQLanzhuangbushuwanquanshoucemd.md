@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国产中标麒麟操作系统下Nginx + Tomcat + Redis + MySQL安装部署完全手册"
+title: "国产中标麒麟操作系统下Nginx  Tomcat  Redis  MySQL安装部署完全手册"
 date:   2022-07-13
 tags: [部署,操作系统,Web,本手册,麒麟]
 comments: true

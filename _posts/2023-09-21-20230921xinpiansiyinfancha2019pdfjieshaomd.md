@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "芯片丝印反查2019.pdf 介绍"
+title: "芯片丝印反查2019pdf 介绍"
 date:   2020-02-23
 tags: [芯片,丝印,反查,2019,pdf]
 comments: true

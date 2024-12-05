@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure-900认证题库下载"
+title: "Azure900认证题库下载"
 date:   2022-01-01
 tags: [题库,Azure,900,认证,文件]
 comments: true

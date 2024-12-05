@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aspen Plus - Matlab：蒸馏塔优化"
+title: "Aspen Plus  Matlab蒸馏塔优化"
 date:   2024-05-11
 tags: [Aspen,Plus,Matlab,蒸馏塔,优化]
 comments: true

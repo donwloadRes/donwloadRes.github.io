@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "逆向神器IDA 6.8绿色完整版"
+title: "逆向神器IDA 68绿色完整版"
 date:   2021-01-26
 tags: [IDA,Pro,反汇编,逆向,完整版]
 comments: true

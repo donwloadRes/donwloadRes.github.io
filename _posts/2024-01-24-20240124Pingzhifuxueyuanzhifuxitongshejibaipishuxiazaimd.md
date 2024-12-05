@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ping++ 支付学院支付系统设计白皮书下载"
+title: "Ping 支付学院支付系统设计白皮书下载"
 date:   2022-07-04
 tags: [支付,白皮书,Ping,76,设计]
 comments: true

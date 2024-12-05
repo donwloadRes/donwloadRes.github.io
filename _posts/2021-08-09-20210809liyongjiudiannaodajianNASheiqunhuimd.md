@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用旧电脑搭建NAS(黑群晖)"
+title: "利用旧电脑搭建NAS黑群晖"
 date:   2020-01-14
 tags: [旧电脑,U盘,系统文件,NAS,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "u-boot移植新手入门实践PDF文档"
+title: "uboot移植新手入门实践PDF文档"
 date:   2022-12-07
 tags: [boot,移植,文档,实践,新手入门]
 comments: true

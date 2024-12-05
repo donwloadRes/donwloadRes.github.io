@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 8.1 开机自启动 WiFi-Adb 连接指南"
+title: "Android 81 开机自启动 WiFiAdb 连接指南"
 date:   2023-03-28
 tags: [WiFi,Adb,开机,自启动,连接]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习Spring Boot 3.0 - 第三版"
+title: "学习Spring Boot 30  第三版"
 date:   2024-10-26
 tags: [Spring,Boot,3.0,第三版,学习]
 comments: true

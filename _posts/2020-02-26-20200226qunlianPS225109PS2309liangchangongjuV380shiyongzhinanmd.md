@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群联PS2251-09(PS2309)量产工具V3.80 使用指南"
+title: "群联PS225109PS2309量产工具V380 使用指南"
 date:   2021-09-23
 tags: [量产,U盘,PS2251,主控,版本]
 comments: true

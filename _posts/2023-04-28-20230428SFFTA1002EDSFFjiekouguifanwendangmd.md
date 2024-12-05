@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-TA-1002：EDSFF接口规范文档"
+title: "SFFTA1002EDSFF接口规范文档"
 date:   2020-04-13
 tags: [SFF,TA,1002,EDSFF,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeIDE基础学习-软件安装与环境搭建指南"
+title: "STM32CubeIDE基础学习软件安装与环境搭建指南"
 date:   2023-05-04
 tags: [STM32CubeIDE,安装,STM32,开发,安装包]
 comments: true

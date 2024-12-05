@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8723DS模块(RL-SM12BD-8723DS)规格书下载"
+title: "RTL8723DS模块RLSM12BD8723DS规格书下载"
 date:   2020-02-19
 tags: [RTL8723DS,模块,规格书,RL,SM12BD]
 comments: true

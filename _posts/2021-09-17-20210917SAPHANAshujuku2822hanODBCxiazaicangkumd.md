@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP HANA 数据库 2.8.22 含 ODBC 下载仓库"
+title: "SAP HANA 数据库 2822 含 ODBC 下载仓库"
 date:   2022-09-01
 tags: [SAP,HANA,数据库,ODBC,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "群智能算法——烟花算法（Fireworks Algorithm）[附matlab]"
+title: "群智能算法烟花算法Fireworks Algorithm附matlab"
 date:   2023-02-01
 tags: [烟花,算法,MATLAB,代码,示例]
 comments: true

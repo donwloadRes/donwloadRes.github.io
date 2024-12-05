@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计 - 基于JAVA的SpringBoot家政服务管理平台 (论文+PPT)"
+title: "毕业设计  基于JAVA的SpringBoot家政服务管理平台 论文PPT"
 date:   2023-09-28
 tags: [服务,家政,管理,平台,SpringBoot]
 comments: true

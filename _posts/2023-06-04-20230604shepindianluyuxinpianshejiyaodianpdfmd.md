@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "射频电路与芯片设计要点.pdf"
+title: "射频电路与芯片设计要点pdf"
 date:   2021-04-26
 tags: [射频,设计,芯片,电路,信号]
 comments: true

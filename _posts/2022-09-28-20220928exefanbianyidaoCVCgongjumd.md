@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exe反编译到C-VC++工具"
+title: "exe反编译到CVC工具"
 date:   2022-08-10
 tags: [反编译,工具,exe,文件,C语言]
 comments: true

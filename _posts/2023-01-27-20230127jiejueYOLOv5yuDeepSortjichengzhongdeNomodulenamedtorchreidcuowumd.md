@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决YOLOv5与DeepSort集成中的“No module named 'torchreid'”错误"
+title: "解决YOLOv5与DeepSort集成中的No module named torchreid错误"
 date:   2021-05-05
 tags: [torchreid,DeepSort,pip,安装,YOLOv5]
 comments: true

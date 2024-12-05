@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora下载介绍（仅供学习）"
+title: "Typora下载介绍仅供学习"
 date:   2021-04-21
 tags: [Typora,激活,下载,学习,软件]
 comments: true

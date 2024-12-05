@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6.0 下载安装步骤"
+title: "Python 360 下载安装步骤"
 date:   2024-06-26
 tags: [Python,安装,下载,3.6,步骤]
 comments: true

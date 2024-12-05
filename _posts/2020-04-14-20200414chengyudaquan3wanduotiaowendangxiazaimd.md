@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "成语大全3万多条 - 文档下载"
+title: "成语大全3万多条  文档下载"
 date:   2023-03-05
 tags: [成语,下载,资源,大全,学习]
 comments: true

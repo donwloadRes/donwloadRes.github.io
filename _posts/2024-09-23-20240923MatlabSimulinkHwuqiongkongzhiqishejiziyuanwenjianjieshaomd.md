@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab+Simulink H无穷控制器设计资源文件介绍"
+title: "MatlabSimulink H无穷控制器设计资源文件介绍"
 date:   2023-03-05
 tags: [控制器,Matlab,无穷,设计,资源]
 comments: true

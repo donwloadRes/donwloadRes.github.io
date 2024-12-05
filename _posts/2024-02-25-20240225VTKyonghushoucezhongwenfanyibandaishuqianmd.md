@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK用户手册-中文翻译版(带书签)"
+title: "VTK用户手册中文翻译版带书签"
 date:   2021-10-30
 tags: [VTK,书签,用户手册,中文翻译,文件]
 comments: true

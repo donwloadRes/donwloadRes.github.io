@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 1909(19H2) 精简纯净版PE系统"
+title: "Windows 10 190919H2 精简纯净版PE系统"
 date:   2024-11-05
 tags: [PE,系统,纯净,内核,网络适配器]
 comments: true

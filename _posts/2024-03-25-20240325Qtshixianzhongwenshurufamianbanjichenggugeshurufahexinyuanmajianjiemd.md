@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt实现中文输入法面板（集成谷歌输入法核心）- 源码简介"
+title: "Qt实现中文输入法面板集成谷歌输入法核心 源码简介"
 date:   2021-08-13
 tags: [输入法,Qt,源码,输入,谷歌]
 comments: true

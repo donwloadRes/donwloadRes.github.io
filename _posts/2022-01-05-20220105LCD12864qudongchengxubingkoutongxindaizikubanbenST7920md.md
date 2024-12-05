@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCD12864驱动程序（并口通信，带字库版本ST7920）"
+title: "LCD12864驱动程序并口通信带字库版本ST7920"
 date:   2023-08-03
 tags: [ST7920,字库,驱动程序,LCD12864,并口]
 comments: true

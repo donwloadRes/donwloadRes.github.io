@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "悬置系统28工况计算（强烈推荐）"
+title: "悬置系统28工况计算强烈推荐"
 date:   2021-08-11
 tags: [悬置,Matlab,工况,程序,28]
 comments: true

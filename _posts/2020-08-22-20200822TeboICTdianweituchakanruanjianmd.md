@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tebo-ICT 点位图查看软件"
+title: "TeboICT 点位图查看软件"
 date:   2022-12-11
 tags: [ICT,选点,Tebo,治具,ATE]
 comments: true

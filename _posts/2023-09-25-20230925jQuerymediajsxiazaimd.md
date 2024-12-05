@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery.media.js下载"
+title: "jQuerymediajs下载"
 date:   2022-07-10
 tags: [media,js,jQuery,PDF,预览]
 comments: true

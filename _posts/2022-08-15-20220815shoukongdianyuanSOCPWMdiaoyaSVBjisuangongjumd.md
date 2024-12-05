@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "受控电源(SOC PWM调压SVB)计算工具"
+title: "受控电源SOC PWM调压SVB计算工具"
 date:   2024-02-13
 tags: [电源,SOC,电阻,工具,计算]
 comments: true

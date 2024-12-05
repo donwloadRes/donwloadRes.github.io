@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android IjkPlayer 播放RTSP-RTMP视频流 Demo 可运行"
+title: "Android IjkPlayer 播放RTSPRTMP视频流 Demo 可运行"
 date:   2022-09-26
 tags: [Demo,视频流,播放,Android,项目]
 comments: true

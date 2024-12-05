@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEV-C++编辑器下载与安装指南"
+title: "DEVC编辑器下载与安装指南"
 date:   2022-10-26
 tags: [C++,DEV,下载,安装,---]
 comments: true

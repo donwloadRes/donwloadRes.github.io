@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net 4.8 安装失败替换资源"
+title: "Net 48 安装失败替换资源"
 date:   2022-03-01
 tags: [安装,Net,4.8,替换,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6 + BH1750 + OLED 0.96 光照强度检测项目"
+title: "基于STM32F103C8T6  BH1750  OLED 096 光照强度检测项目"
 date:   2023-11-12
 tags: [光照强度,OLED,STM32,STM32F103C8T6,BH1750]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Creator -- 详细安装教程以及配置Android编译器环境（Android Studio）"
+title: "Qt Creator  详细安装教程以及配置Android编译器环境Android Studio"
 date:   2021-07-30
 tags: [Qt,Android,Creator,安装,配置]
 comments: true

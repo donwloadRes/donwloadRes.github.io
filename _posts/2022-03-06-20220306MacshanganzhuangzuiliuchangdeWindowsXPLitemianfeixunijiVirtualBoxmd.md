@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac上安装最流畅的Windows XP Lite（免费虚拟机VirtualBox）"
+title: "Mac上安装最流畅的Windows XP Lite免费虚拟机VirtualBox"
 date:   2022-04-03
 tags: [XP,Windows,VirtualBox,虚拟机,Mac]
 comments: true

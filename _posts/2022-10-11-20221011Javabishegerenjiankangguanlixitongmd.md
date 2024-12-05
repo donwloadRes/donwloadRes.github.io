@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java毕设：个人健康管理系统"
+title: "Java毕设个人健康管理系统"
 date:   2023-12-21
 tags: [健康,用户,个人,系统,登录]
 comments: true

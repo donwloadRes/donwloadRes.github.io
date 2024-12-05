@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学公式编辑器 MathType 7.7.1.258 特别版含激活序列号"
+title: "数学公式编辑器 MathType 771258 特别版含激活序列号"
 date:   2021-01-21
 tags: [序列号,激活,MathType,数学公式,文档]
 comments: true

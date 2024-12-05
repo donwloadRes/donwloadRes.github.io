@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2015.4 安装教程及长效License获取指南"
+title: "Vivado 20154 安装教程及长效License获取指南"
 date:   2022-11-22
 tags: [License,安装,Vivado,2015.4,教程]
 comments: true

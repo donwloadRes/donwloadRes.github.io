@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Java的报刊订阅管理系统（JavaFX+数据库）（课程报告+代码实现）"
+title: "基于Java的报刊订阅管理系统JavaFX数据库课程报告代码实现"
 date:   2021-06-13
 tags: [订阅,报刊,查询,数据库,Java]
 comments: true

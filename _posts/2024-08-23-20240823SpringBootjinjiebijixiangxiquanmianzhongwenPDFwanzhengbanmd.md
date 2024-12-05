@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot 进阶笔记(详细全面) 中文PDF完整版"
+title: "Spring Boot 进阶笔记详细全面 中文PDF完整版"
 date:   2023-06-03
 tags: [Spring,Boot,进阶,开发者,应用]
 comments: true

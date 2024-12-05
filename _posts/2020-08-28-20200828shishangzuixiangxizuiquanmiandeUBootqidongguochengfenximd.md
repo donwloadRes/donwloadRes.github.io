@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史上最详细最全面的U-Boot启动过程分析"
+title: "史上最详细最全面的UBoot启动过程分析"
 date:   2023-10-07
 tags: [Boot,嵌入式,初始化,启动,实践]
 comments: true

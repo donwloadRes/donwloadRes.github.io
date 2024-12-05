@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++中文汉字转拼音工具"
+title: "C中文汉字转拼音工具"
 date:   2024-08-31
 tags: [拼音,中文,字典,查找,汉字]
 comments: true

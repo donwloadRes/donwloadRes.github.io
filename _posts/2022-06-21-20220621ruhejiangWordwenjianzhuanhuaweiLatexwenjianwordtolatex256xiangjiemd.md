@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何将Word文件转化为Latex文件：word-to-latex-2.56详解"
+title: "如何将Word文件转化为Latex文件wordtolatex256详解"
 date:   2022-04-17
 tags: [文档,Word,Latex,word,latex]
 comments: true

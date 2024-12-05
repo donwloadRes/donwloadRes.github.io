@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT8918 RGB Scode EVB v1.5 N76E003 资源文件"
+title: "LT8918 RGB Scode EVB v15 N76E003 资源文件"
 date:   2020-06-04
 tags: [LT8918,N76E003,文件,RGB,Scode]
 comments: true

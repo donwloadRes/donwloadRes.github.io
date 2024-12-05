@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.NET.net离线安装包集合"
+title: "MicrosoftNETnet离线安装包集合"
 date:   2022-12-14
 tags: [NET,Framework,安装包,Windows,离线]
 comments: true

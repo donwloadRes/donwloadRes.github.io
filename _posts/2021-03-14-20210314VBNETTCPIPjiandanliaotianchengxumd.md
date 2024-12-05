@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB.NET TCP-IP 简单聊天程序"
+title: "VBNET TCPIP 简单聊天程序"
 date:   2022-01-24
 tags: [TCP,IP,Visual,Studio,程序]
 comments: true

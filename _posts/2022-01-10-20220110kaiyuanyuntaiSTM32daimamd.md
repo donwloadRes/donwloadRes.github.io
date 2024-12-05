@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源云台--STM32代码"
+title: "开源云台STM32代码"
 date:   2020-10-12
 tags: [代码,云台,开源,STM32,BruGi]
 comments: true

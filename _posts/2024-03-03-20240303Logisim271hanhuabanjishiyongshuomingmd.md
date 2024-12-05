@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logisim 2.7.1 汉化版及使用说明"
+title: "Logisim 271 汉化版及使用说明"
 date:   2021-02-18
 tags: [Logisim,汉化版,汉化,JDK,说明]
 comments: true

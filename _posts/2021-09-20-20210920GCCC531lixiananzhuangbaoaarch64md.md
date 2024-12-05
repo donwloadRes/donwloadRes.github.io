@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC-C++ 5.3.1 离线安装包 (aarch64)"
+title: "GCCC 531 离线安装包 aarch64"
 date:   2023-02-08
 tags: [离线,安装,aarch64,gcc,c++]
 comments: true

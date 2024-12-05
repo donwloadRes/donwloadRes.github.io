@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的AI绘画软件：roop下载分享（可直播）"
+title: "最简单的AI绘画软件roop下载分享可直播"
 date:   2020-10-06
 tags: [绘画,直播,roop,AI,软件]
 comments: true

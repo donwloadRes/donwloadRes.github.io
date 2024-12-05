@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电路知识点汇总(精华版)"
+title: "数字电路知识点汇总精华版"
 date:   2022-01-15
 tags: [知识点,数字电路,笔试,文件,复习]
 comments: true

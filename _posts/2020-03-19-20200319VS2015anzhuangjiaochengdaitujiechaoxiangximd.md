@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2015安装教程（带图解+超详细）"
+title: "VS2015安装教程带图解超详细"
 date:   2022-02-20
 tags: [VS2015,安装,教程,图解,步骤]
 comments: true

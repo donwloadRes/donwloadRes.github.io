@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视门禁控制主机DS-K2601说明书下载"
+title: "海康威视门禁控制主机DSK2601说明书下载"
 date:   2022-12-22
 tags: [说明书,海康,威视,DS,K2601]
 comments: true

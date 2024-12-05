@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-pytorch实现的人脸检测和人脸识别"
+title: "Pythonpytorch实现的人脸检测和人脸识别"
 date:   2021-03-14
 tags: [人脸,检测,人脸识别,PyTorch,bash]
 comments: true

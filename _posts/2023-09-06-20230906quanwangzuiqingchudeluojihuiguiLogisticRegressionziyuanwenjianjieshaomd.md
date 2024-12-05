@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最清楚的逻辑回归（Logistic Regression）资源文件介绍"
+title: "全网最清楚的逻辑回归Logistic Regression资源文件介绍"
 date:   2023-05-24
 tags: [回归,逻辑,示例,算法,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW学习：十六进制和十六进制字符串相互转化"
+title: "LabVIEW学习十六进制和十六进制字符串相互转化"
 date:   2021-01-07
 tags: [十六进制,LabVIEW,字符串,示例,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY Version 2.5 官方协议下载"
+title: "MIPI DPHY Version 25 官方协议下载"
 date:   2020-03-25
 tags: [MIPI,PHY,Version,2.5,协议]
 comments: true

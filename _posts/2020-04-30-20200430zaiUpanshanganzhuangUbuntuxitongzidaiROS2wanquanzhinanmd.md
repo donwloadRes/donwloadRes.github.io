@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在U盘上安装Ubuntu系统 (自带ROS2) - 完全指南"
+title: "在U盘上安装Ubuntu系统 自带ROS2  完全指南"
 date:   2023-01-17
 tags: [U盘,烧录,Ubuntu,ROS2,启动]
 comments: true

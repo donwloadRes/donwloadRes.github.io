@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python开发环境配置指南：Anaconda + PyCharm社区版"
+title: "Python开发环境配置指南Anaconda  PyCharm社区版"
 date:   2024-12-03
 tags: [Python,PyCharm,Anaconda,社区,安装]
 comments: true

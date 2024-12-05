@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP2Com-标签版V1.2.8.1：免费好用的串口转TCP工具"
+title: "TCP2Com标签版V1281免费好用的串口转TCP工具"
 date:   2022-03-14
 tags: [TCP,串口,日志,支持,工具]
 comments: true

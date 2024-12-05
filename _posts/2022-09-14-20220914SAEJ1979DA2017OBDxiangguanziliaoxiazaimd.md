@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1979 DA-2017 OBD相关资料下载"
+title: "SAE J1979 DA2017 OBD相关资料下载"
 date:   2020-02-04
 tags: [SAE,J1979,DA,2017,OBD]
 comments: true

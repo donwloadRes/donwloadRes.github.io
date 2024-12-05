@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DevExpressVCL一键编译安装工具_2.40"
+title: "DevExpressVCL一键编译安装工具240"
 date:   2023-09-03
 tags: [DevExpressVCL,工具,14.2,安装,编译]
 comments: true

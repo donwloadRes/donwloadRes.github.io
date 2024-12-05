@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oppo_ozip2zip工具：轻松转换OPPO ozip格式至zip"
+title: "oppoozip2zip工具轻松转换OPPO ozip格式至zip"
 date:   2022-02-10
 tags: [ozip,格式,zip,刷机,工具]
 comments: true

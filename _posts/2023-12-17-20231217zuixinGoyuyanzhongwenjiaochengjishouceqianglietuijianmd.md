@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Go语言中文教程及手册（强烈推荐）"
+title: "最新Go语言中文教程及手册强烈推荐"
 date:   2021-12-09
 tags: [Go,函数,练习,答案,作用域]
 comments: true

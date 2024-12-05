@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mentor_mbist学习总结资源下载"
+title: "Mentormbist学习总结资源下载"
 date:   2023-02-09
 tags: [Mentor,mbist,学习,总结,文件]
 comments: true

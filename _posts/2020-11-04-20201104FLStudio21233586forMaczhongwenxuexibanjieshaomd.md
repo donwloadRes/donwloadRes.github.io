@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3.3586 for Mac 中文学习版介绍"
+title: "FL Studio 21233586 for Mac 中文学习版介绍"
 date:   2022-10-11
 tags: [FL,Studio,3.3586,Mac,制作]
 comments: true

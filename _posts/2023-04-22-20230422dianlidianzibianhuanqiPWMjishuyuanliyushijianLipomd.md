@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子变换器PWM技术原理与实践_Lipo"
+title: "电力电子变换器PWM技术原理与实践Lipo"
 date:   2022-10-31
 tags: [PWM,变换器,电力,电子,Lipo]
 comments: true

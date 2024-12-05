@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS9.5 通用库文件"
+title: "PADS95 通用库文件"
 date:   2024-09-19
 tags: [PADS9.5,文件,安装,下载,common]
 comments: true

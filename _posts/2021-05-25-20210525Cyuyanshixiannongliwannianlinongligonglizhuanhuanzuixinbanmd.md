@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现农历万年历，农历公历转换--最新版"
+title: "C语言实现农历万年历农历公历转换最新版"
 date:   2024-09-23
 tags: [农历,公历,C语言,自定义,万年历]
 comments: true

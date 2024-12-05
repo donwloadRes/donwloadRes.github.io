@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考-信息安全工程师备考资源"
+title: "软考信息安全工程师备考资源"
 date:   2022-01-01
 tags: [备考,信息安全,知识点,软考,工程师]
 comments: true

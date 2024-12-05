@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯模拟试题智能门锁》实现资源"
+title: "蓝桥杯模拟试题智能门锁实现资源"
 date:   2023-04-13
 tags: [试题,蓝桥,门锁,智能,实现]
 comments: true

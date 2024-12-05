@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity URP 自定义后处理效果：毛玻璃效果"
+title: "Unity URP 自定义后处理效果毛玻璃效果"
 date:   2023-07-15
 tags: [URP,毛玻璃,效果,Unity,自定义]
 comments: true

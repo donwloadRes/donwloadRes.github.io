@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "javaweb实训：购物商城系统项目"
+title: "javaweb实训购物商城系统项目"
 date:   2022-07-04
 tags: [Web,Java,项目,javaweb,学习者]
 comments: true

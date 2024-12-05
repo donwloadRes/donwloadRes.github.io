@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB痕迹清除工具USBCleaner6.0"
+title: "USB痕迹清除工具USBCleaner60"
 date:   2024-12-03
 tags: [USB,清除,痕迹,USBCleaner6.0,工具]
 comments: true

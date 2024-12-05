@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于libVLC的视频播放器（支持RTSP协议）"
+title: "基于libVLC的视频播放器支持RTSP协议"
 date:   2020-07-02
 tags: [播放器,播放,libVLC,RTSP,视频]
 comments: true

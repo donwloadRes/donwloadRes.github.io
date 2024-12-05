@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103硬件I2C通信24C256，基于CubeMx"
+title: "STM32F103硬件I2C通信24C256基于CubeMx"
 date:   2023-07-31
 tags: [I2C,STM32F103,通信,硬件,24C256]
 comments: true

@@ -1,6 +1,24 @@
 ---
 layout: post
-title: "防止VMware虚拟机被检测到的方法"
+title: "防止VMware虚拟机被检测到的方法
+date   20231027
+tags 虚拟机VMware检测方法游戏
+comments true
+author admin
+
+ 防止VMware虚拟机被检测到的方法
+
+本文档提供了防止VMware虚拟机被检测到的详细方法适用于需要在虚拟机环境中运行特定软件或游戏的用户通过这些方法您可以有效地规避虚拟机检测确保软件或游戏在虚拟机中正常运行
+
+ 方法一修改VMX文件
+
+1 关闭虚拟机确保VMware虚拟机和虚拟操作系统都已关闭
+2 找到虚拟机目录进入虚拟机系统的存放目录
+3 编辑VMX文件使用记事本打开以vmx为扩展名的文件例如系统名vmx
+4 添加配置参数在文件末尾追加以下内容
+   
+   monitorcontrolrestrictbackdoor  TRUE
+   disableacceleration  TRUE"
 date:   2023-10-27
 tags: [虚拟机,VMware,检测,方法,游戏]
 comments: true

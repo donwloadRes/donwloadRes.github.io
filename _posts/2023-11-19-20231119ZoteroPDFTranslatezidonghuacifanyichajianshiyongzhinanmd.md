@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotero-PDF-Translate自动划词翻译插件使用指南"
+title: "ZoteroPDFTranslate自动划词翻译插件使用指南"
 date:   2024-08-03
 tags: [翻译,插件,Zotero,PDF,文档]
 comments: true

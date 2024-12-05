@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + MyBatis + ECharts 数据可视化项目"
+title: "SpringBoot  MyBatis  ECharts 数据可视化项目"
 date:   2021-02-25
 tags: [可视化,MyBatis,ECharts,Spring,Boot]
 comments: true

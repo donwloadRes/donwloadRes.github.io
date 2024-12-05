@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁场与电磁波》课后习题解答"
+title: "电磁场与电磁波课后习题解答"
 date:   2022-03-06
 tags: [课后,习题,电磁场,电磁波,解答]
 comments: true

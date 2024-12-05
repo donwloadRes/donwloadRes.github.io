@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Basic 6 - VS6SP6 - SP6 for Windows 11 下载仓库"
+title: "Visual Basic 6  VS6SP6  SP6 for Windows 11 下载仓库"
 date:   2020-05-15
 tags: [Visual,Basic,6.0,Windows,11]
 comments: true

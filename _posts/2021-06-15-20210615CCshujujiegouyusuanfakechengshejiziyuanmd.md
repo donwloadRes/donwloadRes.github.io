@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++数据结构与算法课程设计资源"
+title: "CC数据结构与算法课程设计资源"
 date:   2022-03-12
 tags: [课程设计,数据结构,算法,软件设计,C++]
 comments: true

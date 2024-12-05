@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型预测控制（MPC）的车辆换道与轨迹跟踪实现"
+title: "基于模型预测控制MPC的车辆换道与轨迹跟踪实现"
 date:   2020-08-12
 tags: [车辆,MPC,MATLAB,轨迹,Carsim]
 comments: true

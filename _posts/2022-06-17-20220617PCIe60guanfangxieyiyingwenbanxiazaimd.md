@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 6.0官方协议英文版下载"
+title: "PCIe 60官方协议英文版下载"
 date:   2022-03-24
 tags: [PCIe,6.0,英文版,官方,协议]
 comments: true

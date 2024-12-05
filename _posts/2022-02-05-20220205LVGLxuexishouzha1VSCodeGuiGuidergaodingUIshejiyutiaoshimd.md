@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVGL学习手札（1）：VSCode+GuiGuider搞定UI设计与调试"
+title: "LVGL学习手札1VSCodeGuiGuider搞定UI设计与调试"
 date:   2022-03-10
 tags: [LVGL,UI,GuiGuider,调试,VSCode]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BTA16-600B双向可控硅晶闸管应用及详细资料"
+title: "BTA16600B双向可控硅晶闸管应用及详细资料"
 date:   2021-06-11
 tags: [可控硅,BTA16,600B,晶闸管,双向]
 comments: true

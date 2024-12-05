@@ -1,6 +1,30 @@
 ---
 layout: post
-title: "STM32+HAL库：I2C+DMA读取AS5600编码器"
+title: "STM32HAL库I2CDMA读取AS5600编码器
+date   20240311
+tags AS5600I2CDMAUSERCODE
+comments true
+author admin
+
+ STM32HAL库I2CDMA读取AS5600编码器
+
+ 项目描述
+
+本项目提供了一个基于STM32微控制器和HAL库的示例代码用于通过I2C总线使用DMA方式读取AS5600磁性编码器的角度数据AS5600是一款高分辨率的磁性角度传感器适用于各种需要精确角度测量的应用场景
+
+ 主要功能
+
+ I2C通信通过I2C总线与AS5600编码器进行通信
+ DMA传输使用DMA直接内存访问方式进行数据传输减少CPU的负担
+ 角度读取实时读取AS5600编码器的角度数据并将其转换为度数和圈数
+
+ 代码示例
+
+以下是项目中的关键代码片段
+
+c
+ USER CODE BEGIN Includes 
+include AS5600h"
 date:   2024-03-11
 tags: [AS5600,I2C,DMA,USER,CODE]
 comments: true

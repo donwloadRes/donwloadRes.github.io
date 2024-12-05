@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RoseHA11.0 安装配置维护指南"
+title: "RoseHA110 安装配置维护指南"
 date:   2021-12-19
 tags: [RoseHA,RoseHA11.0,Windows,Linux,安装]
 comments: true

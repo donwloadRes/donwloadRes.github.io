@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Django协同过滤商品推荐系统开题报告"
+title: "PythonDjango协同过滤商品推荐系统开题报告"
 date:   2023-09-17
 tags: [开题,Python,Django,系统,报告]
 comments: true

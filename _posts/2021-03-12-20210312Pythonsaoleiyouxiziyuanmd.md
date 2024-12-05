@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "Python扫雷游戏资源"
+title: "Python扫雷游戏资源
+date   20200805
+tags 扫雷Python游戏源代码文档
+comments true
+author admin
+
+
+layout post
+title Python扫雷游戏资源"
 date:   2020-08-05
 tags: [扫雷,Python,游戏,源代码,文档]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "Python扫雷游戏资源"
+title: "Python扫雷游戏资源
+date   20200805
+tags 扫雷Python游戏源代码文档
+comments true
+author admin
+
+
+layout post
+title Python扫雷游戏资源"
 date:   2022-09-24
 tags: [扫雷,游戏,Python,源代码,文档]
 comments: true

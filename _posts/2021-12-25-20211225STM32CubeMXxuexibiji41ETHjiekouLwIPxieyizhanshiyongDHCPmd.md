@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX学习笔记（41）——ETH接口+LwIP协议栈使用（DHCP）"
+title: "STM32CubeMX学习笔记41ETH接口LwIP协议栈使用DHCP"
 date:   2022-11-11
 tags: [LwIP,DHCP,配置,STM32CubeMX,ETH]
 comments: true

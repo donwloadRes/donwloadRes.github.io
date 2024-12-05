@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生打印机WF-7840清零软件下载"
+title: "爱普生打印机WF7840清零软件下载"
 date:   2022-11-30
 tags: [清零,软件,图解,爱普生,WF]
 comments: true

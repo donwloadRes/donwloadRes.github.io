@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.5 桌面版 ISO 文件下载"
+title: "Ubuntu 20045 桌面版 ISO 文件下载"
 date:   2022-08-25
 tags: [Ubuntu,20.04,ISO,安装,文件]
 comments: true

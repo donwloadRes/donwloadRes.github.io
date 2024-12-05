@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teamcenter14 & AWC6 安装资源文件"
+title: "Teamcenter14  AWC6 安装资源文件"
 date:   2021-07-27
 tags: [安装,Teamcenter14,AWC6,文件,资源]
 comments: true

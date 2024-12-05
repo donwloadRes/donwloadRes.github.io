@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全志F1C100S、F1C200S的Keil下emWin5 DEMO"
+title: "全志F1C100SF1C200S的Keil下emWin5 DEMO"
 date:   2021-12-19
 tags: [F1C200S,DEMO,烧录,固件,emWin5]
 comments: true

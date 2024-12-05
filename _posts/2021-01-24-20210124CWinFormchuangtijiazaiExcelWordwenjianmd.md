@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm窗体加载Excel、Word文件"
+title: "C WinForm窗体加载ExcelWord文件"
 date:   2022-05-04
 tags: [WinForm,文件,窗体,Excel,Word]
 comments: true

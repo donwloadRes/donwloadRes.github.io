@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript权威指南（第7版）资源下载"
+title: "JavaScript权威指南第7版资源下载"
 date:   2020-07-28
 tags: [JavaScript,Web,开发者,Node,js]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 完全基本教程资源下载"
+title: "C 完全基本教程资源下载"
 date:   2023-02-21
 tags: [C#,教程,编程,文件,20201015]
 comments: true

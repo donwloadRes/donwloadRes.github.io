@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国1:20万地形地质图接图表-kml格式"
+title: "全国120万地形地质图接图表kml格式"
 date:   2024-06-07
 tags: [地质图,20,KML,图幅,图表]
 comments: true

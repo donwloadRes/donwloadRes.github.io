@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图论算法及其MATLAB实现（完整版）资源下载"
+title: "图论算法及其MATLAB实现完整版资源下载"
 date:   2022-11-05
 tags: [图论,MATLAB,算法,及其,实现]
 comments: true

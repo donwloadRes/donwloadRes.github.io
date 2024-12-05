@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python语言程序设计(第二版) 下载仓库"
+title: "Python语言程序设计第二版 下载仓库"
 date:   2023-04-08
 tags: [Python,下载,仓库,程序设计,考试]
 comments: true

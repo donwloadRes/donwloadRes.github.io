@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW下载、安装、和谐与卸载教程"
+title: "LabVIEW下载安装和谐与卸载教程"
 date:   2023-03-27
 tags: [卸载,LabVIEW,教程,下载,安装]
 comments: true

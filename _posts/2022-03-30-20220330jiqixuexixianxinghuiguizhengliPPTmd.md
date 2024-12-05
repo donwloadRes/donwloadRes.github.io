@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习-线性回归整理PPT"
+title: "机器学习线性回归整理PPT"
 date:   2024-10-15
 tags: [回归,线性,PPT,学习,机器]
 comments: true

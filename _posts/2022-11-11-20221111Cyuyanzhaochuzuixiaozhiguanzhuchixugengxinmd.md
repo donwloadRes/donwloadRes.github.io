@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言找出最小值（关注，持续更新）"
+title: "C语言找出最小值关注持续更新"
 date:   2022-03-30
 tags: [C语言,示例,代码,最小值,找出]
 comments: true

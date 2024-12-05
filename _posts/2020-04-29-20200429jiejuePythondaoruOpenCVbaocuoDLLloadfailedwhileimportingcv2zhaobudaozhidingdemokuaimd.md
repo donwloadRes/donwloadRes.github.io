@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Python导入OpenCV报错：“DLL load failed while importing cv2: 找不到指定的模块。”"
+title: "解决Python导入OpenCV报错DLL load failed while importing cv2 找不到指定的模块"
 date:   2024-05-09
 tags: [Python,OpenCV,博客,导入,cv2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab峰值计算函数findpeaks()的C++源码导出"
+title: "Matlab峰值计算函数findpeaks的C源码导出"
 date:   2023-01-24
 tags: [Matlab,findpeaks,源码,C++,函数]
 comments: true

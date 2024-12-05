@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMC5160智能步进电机驱控芯片中文手册-带书签"
+title: "TMC5160智能步进电机驱控芯片中文手册带书签"
 date:   2021-03-29
 tags: [TMC5160,书签,步进,手册,芯片]
 comments: true

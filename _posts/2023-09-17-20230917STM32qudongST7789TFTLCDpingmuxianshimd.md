@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32驱动ST7789 TFT-LCD屏幕显示"
+title: "STM32驱动ST7789 TFTLCD屏幕显示"
 date:   2021-04-19
 tags: [显示,LCD,TFT,初始化,图片]
 comments: true

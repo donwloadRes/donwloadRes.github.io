@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP_28069 CAN通讯代码例程"
+title: "DSP28069 CAN通讯代码例程"
 date:   2020-03-06
 tags: [DSP,28069,通讯,例程,代码]
 comments: true

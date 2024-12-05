@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb综合案例：用户登录"
+title: "JavaWeb综合案例用户登录"
 date:   2022-02-06
 tags: [登录,数据库,用户,dong,页面]
 comments: true

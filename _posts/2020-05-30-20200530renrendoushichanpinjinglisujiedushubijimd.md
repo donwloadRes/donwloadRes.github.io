@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人人都是产品经理 - 苏杰 读书笔记"
+title: "人人都是产品经理  苏杰 读书笔记"
 date:   2021-12-28
 tags: [读书笔记,经理,产品,苏杰,人人]
 comments: true

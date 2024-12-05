@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEU_KMS激活工具介绍"
+title: "HEUKMS激活工具介绍"
 date:   2022-12-21
 tags: [激活,KMS,工具,HEU,Windows]
 comments: true

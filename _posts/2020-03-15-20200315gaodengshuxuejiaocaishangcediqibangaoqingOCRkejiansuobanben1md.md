@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数学教材上册【第七版】【高清OCR可检索版本】1"
+title: "高等数学教材上册第七版高清OCR可检索版本1"
 date:   2021-02-23
 tags: [OCR,高等数学,第七版,上册,高清]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理LL(1)语法分析实验报告"
+title: "编译原理LL1语法分析实验报告"
 date:   2023-11-29
 tags: [语法分析,实验报告,编译,分析法,原理]
 comments: true

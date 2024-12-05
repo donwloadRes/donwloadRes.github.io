@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt属性表控件 - QtPropertyBrowser"
+title: "Qt属性表控件  QtPropertyBrowser"
 date:   2023-03-31
 tags: [控件,Qt,属性,QtPropertyBrowser,界面]
 comments: true

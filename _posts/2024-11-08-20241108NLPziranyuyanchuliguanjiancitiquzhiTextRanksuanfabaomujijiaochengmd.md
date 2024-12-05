@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLP自然语言处理——关键词提取之 TextRank 算法保姆级教程"
+title: "NLP自然语言处理关键词提取之 TextRank 算法保姆级教程"
 date:   2020-12-10
 tags: [TextRank,关键词,算法,教程,提取]
 comments: true

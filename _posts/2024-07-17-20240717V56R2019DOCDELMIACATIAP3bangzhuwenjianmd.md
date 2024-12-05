@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "V5-6R2019 DOC_DELMIA-CATIA P3 帮助文件"
+title: "V56R2019 DOCDELMIACATIA P3 帮助文件"
 date:   2021-08-29
 tags: [软件,帮助文件,V5,DELMIA,CATIA]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX 11：环境配置与下载指南"
+title: "DirectX 11环境配置与下载指南"
 date:   2022-04-05
 tags: [DirectX,SDK,11,版本,Visual]
 comments: true

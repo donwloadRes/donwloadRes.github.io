@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ODBC链接Oracle驱动（无需安装客户端）"
+title: "ODBC链接Oracle驱动无需安装客户端"
 date:   2024-07-13
 tags: [Oracle,ODBC,驱动,安装,32]
 comments: true

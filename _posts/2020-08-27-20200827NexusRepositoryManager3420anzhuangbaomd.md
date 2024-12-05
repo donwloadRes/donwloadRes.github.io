@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nexus Repository Manager 3.42.0 安装包"
+title: "Nexus Repository Manager 3420 安装包"
 date:   2023-02-13
 tags: [Nexus,Repository,3.42,解压,安装包]
 comments: true

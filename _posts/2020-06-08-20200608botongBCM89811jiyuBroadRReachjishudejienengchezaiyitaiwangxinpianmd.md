@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "博通BCM89811：基于BroadR-Reach技术的节能车载以太网芯片"
+title: "博通BCM89811基于BroadRReach技术的节能车载以太网芯片"
 date:   2020-03-30
 tags: [BCM89811,芯片,车载,以太网,稳压器]
 comments: true

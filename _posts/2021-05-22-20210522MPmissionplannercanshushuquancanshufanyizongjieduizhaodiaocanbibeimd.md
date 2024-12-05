@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPmissionplanner参数树全参数翻译、总结——对照调参必备"
+title: "MPmissionplanner参数树全参数翻译总结对照调参必备"
 date:   2021-10-27
 tags: [参数,文件,mission,planner,MPmissionplanner]
 comments: true

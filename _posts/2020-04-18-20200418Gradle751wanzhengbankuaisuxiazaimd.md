@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.5.1 完整版快速下载"
+title: "Gradle 751 完整版快速下载"
 date:   2020-03-31
 tags: [Gradle,7.5,构建,完整版,18]
 comments: true

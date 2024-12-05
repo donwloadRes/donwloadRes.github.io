@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "整合阿里云进行文本转语音（Springboot+vue）"
+title: "整合阿里云进行文本转语音Springbootvue"
 date:   2024-01-30
 tags: [文本,语音,项目,整合,阿里]
 comments: true

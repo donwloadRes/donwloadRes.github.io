@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NemaStudio 1.36 NMEA模拟工具软件（最新+注册机）"
+title: "NemaStudio 136 NMEA模拟工具软件最新注册机"
 date:   2024-06-28
 tags: [模拟,NMEA,注册机,GPS,航海]
 comments: true

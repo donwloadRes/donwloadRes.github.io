@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金盘微信管理平台未授权访问漏洞（2023-HW）"
+title: "金盘微信管理平台未授权访问漏洞2023HW"
 date:   2023-05-10
 tags: [漏洞,访问,金盘,微信,授权]
 comments: true

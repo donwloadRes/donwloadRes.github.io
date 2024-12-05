@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi PDF编辑控件：FoxitReader_AX_Pro"
+title: "Delphi PDF编辑控件FoxitReaderAXPro"
 date:   2024-10-12
 tags: [控件,Delphi,PDF,FoxitReader,AX]
 comments: true

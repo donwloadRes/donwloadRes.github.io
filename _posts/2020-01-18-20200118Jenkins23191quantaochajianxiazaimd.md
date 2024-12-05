@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jenkins 2.319.1 全套插件下载"
+title: "Jenkins 23191 全套插件下载"
 date:   2022-06-18
 tags: [插件,Jenkins,文件,2.319,plugins]
 comments: true

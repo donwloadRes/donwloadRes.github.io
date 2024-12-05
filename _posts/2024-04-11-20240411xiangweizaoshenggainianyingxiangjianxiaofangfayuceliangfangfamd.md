@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "相位噪声：概念、影响、减小方法与测量方法"
+title: "相位噪声概念影响减小方法与测量方法"
 date:   2020-09-19
 tags: [噪声,相位,设计,测量方法,减小]
 comments: true

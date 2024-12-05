@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sgcWebSockets 4.1.10 完整源码包 (Delphi 7 - XE10.4.2)"
+title: "sgcWebSockets 4110 完整源码包 Delphi 7  XE1042"
 date:   2021-09-01
 tags: [Delphi,10,sgcWebSockets,4.1,解压缩]
 comments: true

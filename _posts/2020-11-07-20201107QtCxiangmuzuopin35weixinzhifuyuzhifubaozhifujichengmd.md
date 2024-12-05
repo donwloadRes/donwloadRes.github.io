@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品35 - 微信支付与支付宝支付集成"
+title: "QtC项目作品35  微信支付与支付宝支付集成"
 date:   2021-03-05
 tags: [支付,微信,支付宝,正扫,项目]
 comments: true

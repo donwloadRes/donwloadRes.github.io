@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java开发之——Mysql下载安装配置图文教程【保姆级教程】"
+title: "Java开发之Mysql下载安装配置图文教程保姆级教程"
 date:   2020-04-04
 tags: [教程,Mysql,安装,下载,Java]
 comments: true

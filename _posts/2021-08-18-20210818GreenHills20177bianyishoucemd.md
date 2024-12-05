@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GreenHills 2017.7 编译手册"
+title: "GreenHills 20177 编译手册"
 date:   2020-11-03
 tags: [编译器,GreenHills,编译,2017.7,14]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "写给大忙人看的C++，完整扫描版"
+title: "写给大忙人看的C完整扫描版"
 date:   2021-02-08
 tags: [C++,11,大忙人,特性,开发人员]
 comments: true

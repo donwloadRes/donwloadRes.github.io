@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全栈性能测试修炼宝典 - JMeter实战.pdf"
+title: "全栈性能测试修炼宝典  JMeter实战pdf"
 date:   2022-03-14
 tags: [JMeter,测试,性能,全栈,宝典]
 comments: true

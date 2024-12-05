@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F4-F7 核心板PCB+原理图资源介绍"
+title: "STM32F4F7 核心板PCB原理图资源介绍"
 date:   2022-08-27
 tags: [原理图,PCB,文件,STM32F4,F7]
 comments: true

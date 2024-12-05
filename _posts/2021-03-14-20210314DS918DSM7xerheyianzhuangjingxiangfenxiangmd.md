@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS918+ DSM7.x 二合一安装镜像分享"
+title: "DS918 DSM7x 二合一安装镜像分享"
 date:   2020-01-25
 tags: [镜像,Synology,二合一,安装,DSM]
 comments: true

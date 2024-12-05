@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱使用指南：批量添加字段"
+title: "CC工具箱使用指南批量添加字段"
 date:   2021-06-10
 tags: [添加,批量,CC,或表,工具箱]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio学生信息管理系统（课设）"
+title: "Android Studio学生信息管理系统课设"
 date:   2024-11-23
 tags: [学生,用户,Android,SQLite,ListView]
 comments: true

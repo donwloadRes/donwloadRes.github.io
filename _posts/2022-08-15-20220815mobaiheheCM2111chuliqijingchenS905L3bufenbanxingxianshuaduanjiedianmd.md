@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔百和（盒）CM211-1 处理器晶晨S905L3部分版型线刷短接点"
+title: "魔百和盒CM2111 处理器晶晨S905L3部分版型线刷短接点"
 date:   2020-10-15
 tags: [短接,刷机,版型,操作,资源]
 comments: true

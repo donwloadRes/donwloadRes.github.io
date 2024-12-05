@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RSA私钥加密公钥解密"
+title: "C RSA私钥加密公钥解密"
 date:   2020-08-27
 tags: [加密,RSA,解密,密钥,私钥]
 comments: true

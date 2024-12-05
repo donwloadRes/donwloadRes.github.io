@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件测试习题集及答案(详细版)"
+title: "软件测试习题集及答案详细版"
 date:   2022-10-17
 tags: [软件测试,习题集,答案,习题,doc]
 comments: true

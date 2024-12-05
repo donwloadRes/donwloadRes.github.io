@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Vivado 2022.2 版本下载与配置教程"
+title: "Xilinx Vivado 20222 版本下载与配置教程"
 date:   2022-04-27
 tags: [安装,Vivado,Linux,工具,配置]
 comments: true

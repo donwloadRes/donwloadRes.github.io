@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 从内存加载动态链接库"
+title: "C 从内存加载动态链接库"
 date:   2021-04-27
 tags: [DLL,加载,加壳,Byte,内存]
 comments: true

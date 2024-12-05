@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3中文完整版及Arturia Essentials插件套装下载"
+title: "FL Studio 2123中文完整版及Arturia Essentials插件套装下载"
 date:   2024-08-29
 tags: [插件,FL,Studio,教程,Arturia]
 comments: true

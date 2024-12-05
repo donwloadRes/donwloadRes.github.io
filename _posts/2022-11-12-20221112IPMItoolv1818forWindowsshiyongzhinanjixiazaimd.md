@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPMItool v1.8.18 for Windows 使用指南及下载"
+title: "IPMItool v1818 for Windows 使用指南及下载"
 date:   2023-01-02
 tags: [ipmitool,IPMI,v1.8,18,Windows]
 comments: true

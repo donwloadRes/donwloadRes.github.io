@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.3p1 RPM 安装包"
+title: "OpenSSH 93p1 RPM 安装包"
 date:   2021-02-24
 tags: [9.3,p1,OpenSSH,安装,安装包]
 comments: true

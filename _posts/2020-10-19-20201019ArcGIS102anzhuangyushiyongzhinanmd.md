@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.2 安装与使用指南"
+title: "ArcGIS 102 安装与使用指南"
 date:   2021-06-05
 tags: [ArcGIS,10.2,标注,shp,安装]
 comments: true

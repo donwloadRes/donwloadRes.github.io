@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子工艺报告：基于立创EDA的NE555多路波形发生器"
+title: "电子工艺报告基于立创EDA的NE555多路波形发生器"
 date:   2020-01-14
 tags: [立创,EDA,NE555,电子,波形发生器]
 comments: true

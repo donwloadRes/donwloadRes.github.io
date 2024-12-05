@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown语法大全（超级版）下载仓库"
+title: "Markdown语法大全超级版下载仓库"
 date:   2021-08-22
 tags: [Markdown,语法,大全,文件,pdf]
 comments: true

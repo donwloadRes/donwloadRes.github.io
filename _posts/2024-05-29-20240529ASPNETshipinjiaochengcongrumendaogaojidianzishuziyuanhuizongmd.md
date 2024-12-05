@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET视频教程从入门到高级+电子书资源汇总"
+title: "ASPNET视频教程从入门到高级电子书资源汇总"
 date:   2022-06-04
 tags: [NET,ASP,视频教程,课件,学习]
 comments: true

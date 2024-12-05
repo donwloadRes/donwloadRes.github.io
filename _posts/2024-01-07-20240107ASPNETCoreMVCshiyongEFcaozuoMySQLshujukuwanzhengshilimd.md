@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET Core MVC 使用 EF 操作 MySQL 数据库完整实例"
+title: "ASPNET Core MVC 使用 EF 操作 MySQL 数据库完整实例"
 date:   2024-09-03
 tags: [Core,数据库,NET,MySQL,ASP]
 comments: true

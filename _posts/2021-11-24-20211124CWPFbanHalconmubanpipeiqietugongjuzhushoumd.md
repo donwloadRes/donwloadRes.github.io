@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF版Halcon模板匹配+切图工具助手"
+title: "C WPF版Halcon模板匹配切图工具助手"
 date:   2020-11-24
 tags: [模板,匹配,切图,工具,Halcon]
 comments: true

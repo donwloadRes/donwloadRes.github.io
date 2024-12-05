@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAR-CCM+气动噪声分析与案例演示"
+title: "STARCCM气动噪声分析与案例演示"
 date:   2023-08-12
 tags: [STAR,CCM,气动,噪声,演示]
 comments: true

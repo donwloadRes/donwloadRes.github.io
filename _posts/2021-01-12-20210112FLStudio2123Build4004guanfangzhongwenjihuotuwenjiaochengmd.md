@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.3 Build 4004 官方中文激活图文教程"
+title: "FL Studio 2123 Build 4004 官方中文激活图文教程"
 date:   2023-04-10
 tags: [激活,教程,FL,Studio,21.2]
 comments: true

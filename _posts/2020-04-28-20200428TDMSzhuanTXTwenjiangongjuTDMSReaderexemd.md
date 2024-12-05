@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDMS转TXT文件工具——TDMSReader.exe"
+title: "TDMS转TXT文件工具TDMSReaderexe"
 date:   2022-07-26
 tags: [TDMS,文件,TXT,软件,转换]
 comments: true

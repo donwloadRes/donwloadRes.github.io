@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS小白入门与进阶教程"
+title: "HTMLCSS小白入门与进阶教程"
 date:   2023-06-28
 tags: [CSS,HTML,进阶,教程,网页]
 comments: true

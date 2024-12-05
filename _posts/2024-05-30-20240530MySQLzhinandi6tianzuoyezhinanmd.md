@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 指南：第 6 天作业指南"
+title: "MySQL 指南第 6 天作业指南"
 date:   2024-07-04
 tags: [SQL,指南,作业,数据库,MySQL]
 comments: true

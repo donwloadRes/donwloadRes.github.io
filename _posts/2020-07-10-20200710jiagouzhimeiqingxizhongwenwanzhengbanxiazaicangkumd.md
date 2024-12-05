@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "架构之美(清晰中文完整版) 下载仓库"
+title: "架构之美清晰中文完整版 下载仓库"
 date:   2021-03-27
 tags: [完整版,之美,PDF,软件架构,架构]
 comments: true

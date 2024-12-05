@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0 OCP 1Z0-908认证考试题库"
+title: "MySQL 80 OCP 1Z0908认证考试题库"
 date:   2024-07-02
 tags: [题库,MySQL,考生,考试,认证]
 comments: true

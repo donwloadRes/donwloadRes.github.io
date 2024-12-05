@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自选股同步工具：实现跨平台一体化管理"
+title: "自选股同步工具实现跨平台一体化管理"
 date:   2023-08-18
 tags: [自选股,同步,工具,跨平台,软件]
 comments: true

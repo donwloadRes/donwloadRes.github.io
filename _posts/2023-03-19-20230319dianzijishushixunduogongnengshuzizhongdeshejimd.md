@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术实训——多功能数字钟的设计"
+title: "电子技术实训多功能数字钟的设计"
 date:   2021-09-20
 tags: [数字钟,闹钟,实训,校准,时间]
 comments: true

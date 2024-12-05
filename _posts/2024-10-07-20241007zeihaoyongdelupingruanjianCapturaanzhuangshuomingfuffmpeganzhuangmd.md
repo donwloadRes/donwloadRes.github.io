@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "贼好用的录屏软件Captura安装说明，附ffmpeg安装"
+title: "贼好用的录屏软件Captura安装说明附ffmpeg安装"
 date:   2024-10-16
 tags: [录制,Captura,录屏,安装,FFmpeg]
 comments: true

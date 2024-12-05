@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F407的示波器+FFT频谱分析"
+title: "基于STM32F407的示波器FFT频谱分析"
 date:   2020-10-22
 tags: [FFT,STM32F407,ADC,频谱,示波器]
 comments: true

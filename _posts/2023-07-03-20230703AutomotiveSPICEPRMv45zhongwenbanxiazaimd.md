@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automotive SPICE PRM v4.5中文版下载"
+title: "Automotive SPICE PRM v45中文版下载"
 date:   2023-02-22
 tags: [SPICE,中文版,Automotive,PRM,v4.5]
 comments: true

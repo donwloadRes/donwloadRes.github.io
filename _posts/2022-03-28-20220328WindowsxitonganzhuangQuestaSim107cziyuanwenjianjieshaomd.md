@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统安装QuestaSim10.7c资源文件介绍"
+title: "Windows系统安装QuestaSim107c资源文件介绍"
 date:   2022-09-11
 tags: [安装,文件,点击,QuestaSim10.7,LICENSE]
 comments: true

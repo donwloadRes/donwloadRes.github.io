@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-300 PLC视频教程（百度网盘资源）"
+title: "西门子S7300 PLC视频教程百度网盘资源"
 date:   2021-02-10
 tags: [PLC,S7,300,学习,百度网]
 comments: true

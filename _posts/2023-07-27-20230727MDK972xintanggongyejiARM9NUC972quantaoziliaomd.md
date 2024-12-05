@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK972新唐工业级ARM9（NUC972）全套资料"
+title: "MDK972新唐工业级ARM9NUC972全套资料"
 date:   2023-11-26
 tags: [NUC972,硬件,示例,芯片,全套]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于电影知识图谱的智能问答系统（一） -- Mysql数据准备"
+title: "基于电影知识图谱的智能问答系统一  Mysql数据准备"
 date:   2021-07-19
 tags: [Mysql,CSV,文件,数据,电影]
 comments: true

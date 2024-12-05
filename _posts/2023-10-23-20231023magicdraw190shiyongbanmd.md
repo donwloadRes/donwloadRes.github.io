@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "magicdraw19.0试用版"
+title: "magicdraw190试用版"
 date:   2021-10-06
 tags: [试用版,MagicDraw,体验,Windows,64]
 comments: true

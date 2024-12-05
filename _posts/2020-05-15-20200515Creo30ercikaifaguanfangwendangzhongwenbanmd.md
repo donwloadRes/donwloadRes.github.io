@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creo 3.0 二次开发官方文档中文版"
+title: "Creo 30 二次开发官方文档中文版"
 date:   2024-04-15
 tags: [二次开发,文档,Creo,3.0,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt6离线包 for Python-3.9.10 64位"
+title: "PyQt6离线包 for Python3910 64位"
 date:   2024-02-12
 tags: [PyQt6,Python,离线,安装,10]
 comments: true

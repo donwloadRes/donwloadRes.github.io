@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "so-vits-svc-4.1-Stable 资源文件下载"
+title: "sovitssvc41Stable 资源文件下载"
 date:   2021-12-24
 tags: [4.1,so,vits,svc,Stable]
 comments: true

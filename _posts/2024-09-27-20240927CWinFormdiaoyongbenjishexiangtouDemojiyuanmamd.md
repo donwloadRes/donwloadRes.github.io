@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 调用本机摄像头 Demo 及源码"
+title: "C WinForm 调用本机摄像头 Demo 及源码"
 date:   2024-04-25
 tags: [摄像头,源码,Demo,C#,调用]
 comments: true

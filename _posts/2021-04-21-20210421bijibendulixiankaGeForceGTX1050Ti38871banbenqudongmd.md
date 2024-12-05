@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "笔记本独立显卡GeForce GTX 1050 Ti 388.71版本驱动"
+title: "笔记本独立显卡GeForce GTX 1050 Ti 38871版本驱动"
 date:   2020-01-05
 tags: [显卡,驱动,版本,笔记本,GeForce]
 comments: true

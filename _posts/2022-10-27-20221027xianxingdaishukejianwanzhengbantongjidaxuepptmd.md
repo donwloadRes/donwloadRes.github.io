@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数课件(完整版)同济大学.ppt"
+title: "线性代数课件完整版同济大学ppt"
 date:   2024-08-05
 tags: [课件,线性代数,同济大学,完整版,ppt]
 comments: true

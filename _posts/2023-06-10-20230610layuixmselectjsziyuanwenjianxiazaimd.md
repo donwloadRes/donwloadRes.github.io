@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "layui xm-select.js 资源文件下载"
+title: "layui xmselectjs 资源文件下载"
 date:   2020-02-24
 tags: [layui,js,select,script,xm]
 comments: true

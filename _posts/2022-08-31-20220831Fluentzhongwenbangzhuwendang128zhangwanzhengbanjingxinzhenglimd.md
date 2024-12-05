@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fluent 中文帮助文档(1-28章)完整版 精心整理"
+title: "Fluent 中文帮助文档128章完整版 精心整理"
 date:   2021-11-25
 tags: [Fluent,文档,28,帮助,软件]
 comments: true

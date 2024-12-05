@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cnPuTTY 0.80.0.1 —— PuTTY 0.80中文版本简介"
+title: "cnPuTTY 08001  PuTTY 080中文版本简介"
 date:   2020-11-22
 tags: [cnPuTTY,0.80,0.1,PuTTY,Windows]
 comments: true

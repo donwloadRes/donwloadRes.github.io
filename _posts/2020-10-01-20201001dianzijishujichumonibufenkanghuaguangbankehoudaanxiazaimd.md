@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术基础(模拟部分)》康华光版课后答案下载"
+title: "电子技术基础模拟部分康华光版课后答案下载"
 date:   2024-09-15
 tags: [课后,PDF,模拟,答案,华光]
 comments: true

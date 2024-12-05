@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机速度闭环控制（代码详细注释）"
+title: "电机速度闭环控制代码详细注释"
 date:   2021-08-09
 tags: [PID,电机,闭环控制,控制,代码]
 comments: true

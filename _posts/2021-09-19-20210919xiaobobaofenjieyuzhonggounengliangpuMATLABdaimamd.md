@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小波包分解与重构、能量谱 MATLAB代码"
+title: "小波包分解与重构能量谱 MATLAB代码"
 date:   2023-06-17
 tags: [MATLAB,波包,函数,重构,能量]
 comments: true

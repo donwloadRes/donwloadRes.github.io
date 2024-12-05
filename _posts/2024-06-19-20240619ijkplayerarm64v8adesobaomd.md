@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ijkplayer arm64-v8a的so包"
+title: "ijkplayer arm64v8a的so包"
 date:   2020-08-12
 tags: [ijkplayer,v8a,arm64,SO,Android]
 comments: true

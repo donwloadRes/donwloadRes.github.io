@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nacos2.0.4.zip windows版"
+title: "nacos204zip windows版"
 date:   2021-09-02
 tags: [Nacos,服务,nacos2.0,Java,管理]
 comments: true

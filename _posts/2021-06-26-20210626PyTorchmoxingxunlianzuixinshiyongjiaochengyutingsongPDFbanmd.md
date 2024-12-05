@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch模型训练最新实用教程 (余霆嵩) PDF版"
+title: "PyTorch模型训练最新实用教程 余霆嵩 PDF版"
 date:   2024-05-25
 tags: [模型,PyTorch,教程,PDF,函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现FFT频谱分析仪(GUI)及滤波功能"
+title: "MATLAB实现FFT频谱分析仪GUI及滤波功能"
 date:   2020-11-30
 tags: [MATLAB,exe,打包,频谱,程序]
 comments: true

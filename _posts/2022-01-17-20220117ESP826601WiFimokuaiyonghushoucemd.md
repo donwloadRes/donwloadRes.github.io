@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266-01 WiFi模块用户手册"
+title: "ESP826601 WiFi模块用户手册"
 date:   2023-12-14
 tags: [ESP8266,01,手册,模块,WiFi]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "垃圾数据集（8种垃圾）"
+title: "垃圾数据集8种垃圾"
 date:   2023-10-27
 tags: [垃圾,数据,训练,图片,模型]
 comments: true

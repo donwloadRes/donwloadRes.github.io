@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61400-1-2019风电设计标准资源下载"
+title: "IEC 6140012019风电设计标准资源下载"
 date:   2022-05-15
 tags: [风电,IEC,2019,61400,设计标准]
 comments: true

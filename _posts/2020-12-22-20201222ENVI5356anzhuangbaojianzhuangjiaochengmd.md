@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENVI 5.3-5.6安装包及安装教程"
+title: "ENVI 5356安装包及安装教程"
 date:   2021-04-08
 tags: [ENVI,安装,安装包,5.6,教程]
 comments: true

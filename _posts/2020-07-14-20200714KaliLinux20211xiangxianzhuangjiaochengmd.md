@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kali Linux 2021.1 详细安装教程"
+title: "Kali Linux 20211 详细安装教程"
 date:   2020-10-05
 tags: [Linux,Kali,安装,虚拟机,教程]
 comments: true

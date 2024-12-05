@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5套 VB界面美化方案(比QQ界面还漂亮哦)"
+title: "5套 VB界面美化方案比QQ界面还漂亮哦"
 date:   2023-06-16
 tags: [美化,界面,方案,VB,QQ]
 comments: true

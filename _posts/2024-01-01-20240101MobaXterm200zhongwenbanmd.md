@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MobaXterm 20.0 中文版"
+title: "MobaXterm 200 中文版"
 date:   2021-04-24
 tags: [远程,MobaXterm,中文版,20.0,SSH]
 comments: true

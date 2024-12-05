@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F10X固件库STM32F10x_StdPeriph_Lib_V3.5.0"
+title: "STM32F10X固件库STM32F10xStdPeriphLibV350"
 date:   2020-08-11
 tags: [STM32F10X,固件,V3.5,STM32F10x,StdPeriph]
 comments: true

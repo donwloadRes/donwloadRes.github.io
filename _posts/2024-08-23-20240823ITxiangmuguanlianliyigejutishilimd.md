@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT项目管理案例：一个具体实例"
+title: "IT项目管理案例一个具体实例"
 date:   2021-06-22
 tags: [项目管理,案例,实例,项目,应用]
 comments: true

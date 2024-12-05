@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB：一本适合入门USB底层协议的书籍"
+title: "圈圈教你玩USB一本适合入门USB底层协议的书籍"
 date:   2024-05-14
 tags: [USB,圈圈,底层,协议,下载]
 comments: true

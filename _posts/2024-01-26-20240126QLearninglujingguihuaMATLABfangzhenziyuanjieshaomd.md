@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Q-Learning路径规划MATLAB仿真资源介绍"
+title: "QLearning路径规划MATLAB仿真资源介绍"
 date:   2020-08-15
 tags: [MATLAB,仿真,Learning,路径,规划]
 comments: true

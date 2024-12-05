@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity ShaderGraph实现Sprite图片描边-发光效果 URP"
+title: "Unity ShaderGraph实现Sprite图片描边发光效果 URP"
 date:   2021-08-16
 tags: [Sprite,描边,Unity,ShaderGraph,URP]
 comments: true

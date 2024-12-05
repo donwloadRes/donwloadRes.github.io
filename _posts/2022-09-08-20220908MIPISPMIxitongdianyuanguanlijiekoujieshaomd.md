@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI-SPMI 系统电源管理接口介绍"
+title: "MIPISPMI 系统电源管理接口介绍"
 date:   2022-08-02
 tags: [MIPI,SPMI,文件,电源,资源]
 comments: true

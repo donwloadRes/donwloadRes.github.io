@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPEN联盟车载以太网测试规范(TC8 ECU test spec)简介"
+title: "OPEN联盟车载以太网测试规范TC8 ECU test spec简介"
 date:   2024-01-14
 tags: [测试,以太网,车载,test,OPEN]
 comments: true

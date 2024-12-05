@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红蓝对抗兵力部署游戏（Qt大作业）"
+title: "红蓝对抗兵力部署游戏Qt大作业"
 date:   2024-03-15
 tags: [游戏,Qt,兵力,部署,红蓝]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb期末大作业--在线相册管理系统"
+title: "JavaWeb期末大作业在线相册管理系统"
 date:   2024-04-17
 tags: [JavaWeb,项目,实战,期末,作业]
 comments: true

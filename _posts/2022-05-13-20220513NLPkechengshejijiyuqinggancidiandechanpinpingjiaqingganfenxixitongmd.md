@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLP课程设计：基于情感词典的产品评价情感分析系统"
+title: "NLP课程设计基于情感词典的产品评价情感分析系统"
 date:   2023-11-17
 tags: [情感,README,项目,词典,文件]
 comments: true

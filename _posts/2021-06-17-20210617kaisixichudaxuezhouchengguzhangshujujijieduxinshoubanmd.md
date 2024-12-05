@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凯斯西储大学轴承故障数据集解读（新手版）"
+title: "凯斯西储大学轴承故障数据集解读新手版"
 date:   2023-05-12
 tags: [故障,数据,西储,凯斯,轴承]
 comments: true

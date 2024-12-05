@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路综合-基于简化实频的集总参数电路匹配Matlab代码"
+title: "电路综合基于简化实频的集总参数电路匹配Matlab代码"
 date:   2022-01-02
 tags: [电路,代码,匹配,参数,实频]
 comments: true

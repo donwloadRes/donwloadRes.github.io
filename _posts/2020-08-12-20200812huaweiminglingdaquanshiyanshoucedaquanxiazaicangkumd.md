@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为命令大全(实验手册大全) 下载仓库"
+title: "华为命令大全实验手册大全 下载仓库"
 date:   2020-12-27
 tags: [大全,华为,手册,文件,PDF]
 comments: true

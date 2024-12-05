@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品01 - 视频监控系统"
+title: "QtC项目作品01  视频监控系统"
 date:   2021-04-10
 tags: [回放,视频,onvif,设备,监控]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译OpenCV 4.5.0 .cache文件资源"
+title: "编译OpenCV 450 cache文件资源"
 date:   2022-02-15
 tags: [编译,cache,OpenCV,下载,文件]
 comments: true

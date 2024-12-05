@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFTP服务端软件 —— Windows系统环境"
+title: "SFTP服务端软件  Windows系统环境"
 date:   2020-07-25
 tags: [Windows,SFTP,服务端,软件,安装]
 comments: true

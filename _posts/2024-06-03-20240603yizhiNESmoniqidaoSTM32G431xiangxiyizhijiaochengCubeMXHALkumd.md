@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移植NES模拟器到STM32G431：详细移植教程 CubeMX HAL库"
+title: "移植NES模拟器到STM32G431详细移植教程 CubeMX HAL库"
 date:   2022-02-28
 tags: [NES,模拟器,STM32G431,移植,嵌入式]
 comments: true

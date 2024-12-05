@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "three.js模型剖切功能的实现"
+title: "threejs模型剖切功能的实现"
 date:   2021-04-27
 tags: [剖切,three,js,切面,功能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "赛灵思Vivado 2020.2安装教程"
+title: "赛灵思Vivado 20202安装教程"
 date:   2023-06-27
 tags: [安装,Vivado,教程,破解,路径]
 comments: true

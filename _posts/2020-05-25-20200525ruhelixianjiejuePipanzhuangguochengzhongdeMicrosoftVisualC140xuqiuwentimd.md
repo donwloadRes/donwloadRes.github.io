@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何离线解决Pip安装过程中的Microsoft Visual C++ 14.0需求问题"
+title: "如何离线解决Pip安装过程中的Microsoft Visual C 140需求问题"
 date:   2021-02-22
 tags: [安装,离线,whl,安装包,Pip]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛顿迭代法求解多元非线性方程组（附Matlab仿真代码）"
+title: "牛顿迭代法求解多元非线性方程组附Matlab仿真代码"
 date:   2020-05-12
 tags: [Matlab,迭代法,代码,牛顿,线性方程组]
 comments: true

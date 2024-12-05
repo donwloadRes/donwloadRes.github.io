@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "组态王S7-200Smart以太网驱动安装指南"
+title: "组态王S7200Smart以太网驱动安装指南"
 date:   2020-08-02
 tags: [S7,组态王,200Smart,以太网,安装]
 comments: true

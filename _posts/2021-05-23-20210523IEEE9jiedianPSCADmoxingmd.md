@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE-9节点PSCAD模型"
+title: "IEEE9节点PSCAD模型"
 date:   2021-10-16
 tags: [PSCAD,仿真,模型,IEEE,节点]
 comments: true

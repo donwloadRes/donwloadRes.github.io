@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 启动紫屏卡死不弹登录框问题解决办法"
+title: "Ubuntu 1804 启动紫屏卡死不弹登录框问题解决办法"
 date:   2024-03-19
 tags: [紫屏,Ubuntu,18.04,卡死,系统配置]
 comments: true

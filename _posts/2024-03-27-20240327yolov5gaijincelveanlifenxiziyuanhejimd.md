@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5+改进策略+案例分析+资源合集"
+title: "yolov5改进策略案例分析资源合集"
 date:   2024-07-21
 tags: [YOLOv5,检测,案例,资源,目标]
 comments: true

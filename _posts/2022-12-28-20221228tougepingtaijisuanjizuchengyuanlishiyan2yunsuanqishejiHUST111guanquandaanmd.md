@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌平台计算机组成原理实验2运算器设计（HUST）1-11关全答案"
+title: "头歌平台计算机组成原理实验2运算器设计HUST111关全答案"
 date:   2022-02-04
 tags: [实验,文件,头歌,txt,circ]
 comments: true

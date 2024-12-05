@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathpix 安装包（2019年10月更新）"
+title: "Mathpix 安装包2019年10月更新"
 date:   2022-06-08
 tags: [Mathpix,LaTeX,安装包,2019,10]
 comments: true

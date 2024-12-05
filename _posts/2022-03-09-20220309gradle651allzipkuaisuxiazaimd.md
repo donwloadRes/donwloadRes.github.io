@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gradle-6.5.1-all.zip 快速下载"
+title: "gradle651allzip 快速下载"
 date:   2023-05-27
 tags: [6.5,Gradle,构建,版本,gradle]
 comments: true

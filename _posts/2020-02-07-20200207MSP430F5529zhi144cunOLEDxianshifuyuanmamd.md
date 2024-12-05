@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSP430F5529之1.44寸OLED显示（附源码）"
+title: "MSP430F5529之144寸OLED显示附源码"
 date:   2021-12-20
 tags: [MSP430F5529,OLED,代码,源码,1.44]
 comments: true

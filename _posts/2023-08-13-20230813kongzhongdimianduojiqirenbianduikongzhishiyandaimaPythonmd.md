@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "空中-地面多机器人编队控制实验代码（Python）"
+title: "空中地面多机器人编队控制实验代码Python"
 date:   2024-02-29
 tags: [编队,实验,ROS,无人机,control]
 comments: true

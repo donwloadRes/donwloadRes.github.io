@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 2.7 Windows 版 Zip 文件"
+title: "Python 27 Windows 版 Zip 文件"
 date:   2021-03-13
 tags: [Python,2.7,Windows,zip,环境变量]
 comments: true

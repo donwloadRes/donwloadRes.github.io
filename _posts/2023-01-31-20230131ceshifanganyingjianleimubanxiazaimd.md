@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试方案（硬件类）模板下载"
+title: "测试方案硬件类模板下载"
 date:   2022-06-02
 tags: [模板,测试,文件,硬件,下载]
 comments: true

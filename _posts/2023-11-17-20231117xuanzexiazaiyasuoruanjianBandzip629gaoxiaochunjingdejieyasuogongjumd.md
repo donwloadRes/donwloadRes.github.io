@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "选择下载压缩软件：Bandzip 6.29，高效纯净的解压缩工具"
+title: "选择下载压缩软件Bandzip 629高效纯净的解压缩工具"
 date:   2021-03-18
 tags: [Bandzip,6.29,版本,压缩,解压缩]
 comments: true

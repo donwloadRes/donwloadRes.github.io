@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PiXYZ Plugin for Unity 2018.2.0.33 下载仓库"
+title: "PiXYZ Plugin for Unity 20182033 下载仓库"
 date:   2020-12-27
 tags: [PiXYZ,Unity,0.33,Plugin,2018.2]
 comments: true

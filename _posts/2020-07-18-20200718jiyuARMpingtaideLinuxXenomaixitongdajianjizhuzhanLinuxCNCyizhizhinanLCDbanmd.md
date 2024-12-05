@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ARM平台的Linux+Xenomai系统搭建及主站、LinuxCNC移植指南（LCD版）"
+title: "基于ARM平台的LinuxXenomai系统搭建及主站LinuxCNC移植指南LCD版"
 date:   2022-03-06
 tags: [LinuxCNC,移植,ARM,平台,文档]
 comments: true

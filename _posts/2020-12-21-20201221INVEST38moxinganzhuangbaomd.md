@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INVEST3.8模型安装包"
+title: "INVEST38模型安装包"
 date:   2021-04-17
 tags: [INVEST3.8,安装,安装包,模型,官方]
 comments: true

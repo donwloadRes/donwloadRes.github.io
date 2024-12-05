@@ -1,6 +1,36 @@
 ---
 layout: post
-title: "微博评论爬虫指南 - 使用Python抓取微博评论数据"
+title: "微博评论爬虫指南  使用Python抓取微博评论数据
+date   20210306
+tags 微博评论requestspythoncomment
+comments true
+author admin
+
+ 微博评论爬虫指南  使用Python抓取微博评论数据
+
+想要深入探索微博世界挖掘用户评论中的宝贵信息本资源将指导你如何利用Python编程语言结合强大的requests和BeautifulSoup库轻松抓取微博评论数据以下是实施这一过程的详细步骤
+
+ 准备工作
+
+ 导入库
+ 首先确保已安装requests和beautifulsoup4若未安装可以通过pip命令安装
+  bash
+  pip install requests beautifulsoup4
+  
+
+ 环境设置
+ 在你的Python项目中准备一个新的脚本或者在现有环境中配置好环境变量
+
+ 步骤详解
+
+ 1 发送请求
+ 获取微博页面URL使用requestsget函数发送请求别忘了伪装UserAgent以免被识别为异常访问
+  
+  python
+  import requests
+  from bs4 import BeautifulSoup
+  
+  url  目标微博的URL"
 date:   2021-03-06
 tags: [微博,评论,requests,python,comment]
 comments: true

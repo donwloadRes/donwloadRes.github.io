@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何实现AD圆弧走线--AD走完线后自动倒成圆角-AD倒圆弧方法(Altium Designer)"
+title: "如何实现AD圆弧走线AD走完线后自动倒成圆角AD倒圆弧方法Altium Designer"
 date:   2023-01-06
 tags: [脚本,AD,走线,圆弧,倒成]
 comments: true

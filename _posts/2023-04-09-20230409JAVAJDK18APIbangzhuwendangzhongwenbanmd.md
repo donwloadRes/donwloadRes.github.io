@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA - JDK 1.8 API 帮助文档-中文版"
+title: "JAVA  JDK 18 API 帮助文档中文版"
 date:   2020-02-19
 tags: [文档,JDK,1.8,API,Java]
 comments: true

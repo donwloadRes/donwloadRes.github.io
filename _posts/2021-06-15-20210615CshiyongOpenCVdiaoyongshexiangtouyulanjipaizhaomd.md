@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用OpenCV调用摄像头预览及拍照"
+title: "C使用OpenCV调用摄像头预览及拍照"
 date:   2024-06-27
 tags: [OpenCV,C#,摄像头,NET,预览]
 comments: true

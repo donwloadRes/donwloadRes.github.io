@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UG二次开发之parasolid API介绍及C#实例"
+title: "UG二次开发之parasolid API介绍及C实例"
 date:   2023-09-22
 tags: [parasolid,API,二次开发,UG,C#]
 comments: true

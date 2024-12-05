@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达手册（中文第三版上）下载仓库"
+title: "雷达手册中文第三版上下载仓库"
 date:   2024-04-14
 tags: [手册,雷达,第三版,下载,中文]
 comments: true

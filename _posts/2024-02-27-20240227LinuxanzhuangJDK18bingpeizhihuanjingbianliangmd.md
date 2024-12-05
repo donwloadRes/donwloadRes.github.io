@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装JDK 1.8并配置环境变量"
+title: "Linux安装JDK 18并配置环境变量"
 date:   2022-11-14
 tags: [JDK,HOME,1.8,环境变量,安装]
 comments: true

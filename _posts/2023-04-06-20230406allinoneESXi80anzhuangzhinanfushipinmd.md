@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（all in one）ESXi 8.0 安装指南（附视频）"
+title: "all in oneESXi 80 安装指南附视频"
 date:   2021-05-03
 tags: [ESXi,安装,U盘,主机,8.0]
 comments: true

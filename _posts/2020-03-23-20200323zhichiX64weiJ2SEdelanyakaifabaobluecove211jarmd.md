@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持X64位J2SE的蓝牙开发包bluecove-2.1.1.jar"
+title: "支持X64位J2SE的蓝牙开发包bluecove211jar"
 date:   2022-09-03
 tags: [蓝牙,2.1,Java,J2SE,bluecove]
 comments: true

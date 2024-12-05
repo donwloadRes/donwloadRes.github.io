@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD-VBA开发人员手册"
+title: "CADVBA开发人员手册"
 date:   2022-08-27
 tags: [VBA,AutoCAD,标注,开发人员,CAD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "餐饮管理系统（数据库课程设计）"
+title: "餐饮管理系统数据库课程设计"
 date:   2023-12-05
 tags: [餐饮,结账,管理,操作,管理系统]
 comments: true

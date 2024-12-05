@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab-Simulink的三段式电流(含零序)保护仿真模型"
+title: "基于MatlabSimulink的三段式电流含零序保护仿真模型"
 date:   2024-04-11
 tags: [仿真,Matlab,Simulink,模型,三段式]
 comments: true

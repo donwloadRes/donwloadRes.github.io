@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 指令集规范中文版"
+title: "RISCV 指令集规范中文版"
 date:   2022-11-11
 tags: [RISC,指令集,中文翻译,中文版,文件]
 comments: true

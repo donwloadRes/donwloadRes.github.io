@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于gm-id的模拟IC设计方法资源整理"
+title: "基于gmid的模拟IC设计方法资源整理"
 date:   2021-07-14
 tags: [IC,gm,id,课件,模拟]
 comments: true

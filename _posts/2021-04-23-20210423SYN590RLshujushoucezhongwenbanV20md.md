@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SYN590RL 数据手册 - 中文版 V2.0"
+title: "SYN590RL 数据手册  中文版 V20"
 date:   2023-05-11
 tags: [SYN590RL,手册,产品,设计,应用]
 comments: true

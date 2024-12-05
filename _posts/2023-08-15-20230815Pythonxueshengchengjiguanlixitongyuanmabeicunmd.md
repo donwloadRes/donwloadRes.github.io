@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学生成绩管理系统 - 源码备存"
+title: "Python学生成绩管理系统  源码备存"
 date:   2024-09-02
 tags: [Python,成绩,源码,学生,管理系统]
 comments: true

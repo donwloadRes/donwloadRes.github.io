@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EndNote 21 从安装到使用指南（Mac版）"
+title: "EndNote 21 从安装到使用指南Mac版"
 date:   2020-01-11
 tags: [文献,EndNote,格式,导入,下载]
 comments: true

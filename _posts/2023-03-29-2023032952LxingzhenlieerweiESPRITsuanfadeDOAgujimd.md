@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5_2_L型阵列二维ESPRIT算法的DOA估计"
+title: "52L型阵列二维ESPRIT算法的DOA估计"
 date:   2023-04-01
 tags: [算法,阵列,ESPRIT,DOA,二维]
 comments: true

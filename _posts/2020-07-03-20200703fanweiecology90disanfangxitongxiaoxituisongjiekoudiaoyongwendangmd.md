@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微 ecology9.0 第三方系统消息推送接口调用文档"
+title: "泛微 ecology90 第三方系统消息推送接口调用文档"
 date:   2020-11-20
 tags: [文档,推送,接口,泛微,ecology9.0]
 comments: true

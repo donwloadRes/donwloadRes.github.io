@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jlink V9.40 最新官方驱动下载"
+title: "Jlink V940 最新官方驱动下载"
 date:   2020-07-04
 tags: [驱动,Jlink,仿真器,V9,安装]
 comments: true

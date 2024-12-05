@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电容转换器CDC AD7745-AD7746保姆级应用教程"
+title: "电容转换器CDC AD7745AD7746保姆级应用教程"
 date:   2024-09-13
 tags: [AD7745,教程,Arduino,电容,Uno]
 comments: true

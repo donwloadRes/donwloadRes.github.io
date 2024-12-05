@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cmake-3.29.3-windows-x86-64 下载仓库"
+title: "cmake3293windowsx8664 下载仓库"
 date:   2022-11-01
 tags: [64,3.29,CMake,cmake,下载]
 comments: true

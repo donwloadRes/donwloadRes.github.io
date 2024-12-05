@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA面试笔试题目大全（附带详细答案）"
+title: "FPGA面试笔试题目大全附带详细答案"
 date:   2021-08-11
 tags: [FPGA,题目,面试,答案,知识点]
 comments: true

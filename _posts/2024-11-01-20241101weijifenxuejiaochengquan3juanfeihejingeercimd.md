@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微积分学教程全3卷 - 菲赫金哥尔茨"
+title: "微积分学教程全3卷  菲赫金哥尔茨"
 date:   2020-05-27
 tags: [尔茨,微积分学,教程,菲赫金哥,rar]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.7 全套资源下载指南"
+title: "VMware vSphere 67 全套资源下载指南"
 date:   2024-03-02
 tags: [VMware,6.7,vSphere,虚拟机,虚拟化]
 comments: true

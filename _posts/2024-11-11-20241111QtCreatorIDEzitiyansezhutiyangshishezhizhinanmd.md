@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Creator IDE 字体、颜色、主题样式设置指南"
+title: "Qt Creator IDE 字体颜色主题样式设置指南"
 date:   2022-03-06
 tags: [Qt,Creator,字体,主题,设置]
 comments: true

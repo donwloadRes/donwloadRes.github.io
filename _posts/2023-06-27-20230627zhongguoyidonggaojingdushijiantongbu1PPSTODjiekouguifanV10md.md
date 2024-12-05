@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国移动高精度时间同步1PPS+TOD接口规范V1.0"
+title: "中国移动高精度时间同步1PPSTOD接口规范V10"
 date:   2024-02-11
 tags: [TOD,同步,中国移动,高精度,时间]
 comments: true

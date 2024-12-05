@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "改进熵权法：深入解析资源指南"
+title: "改进熵权法深入解析资源指南"
 date:   2023-07-28
 tags: [权法,改进,算法,指南,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机控制LED灯实现流水灯效果（程序+Proteus仿真）"
+title: "51单片机控制LED灯实现流水灯效果程序Proteus仿真"
 date:   2022-06-19
 tags: [Proteus,仿真,单片机,51,LED]
 comments: true

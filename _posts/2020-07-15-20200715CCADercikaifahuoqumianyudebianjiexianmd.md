@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# CAD二次开发：获取面域的边界线"
+title: "C CAD二次开发获取面域的边界线"
 date:   2020-03-11
 tags: [CAD,边界线,二次开发,面域,C#]
 comments: true

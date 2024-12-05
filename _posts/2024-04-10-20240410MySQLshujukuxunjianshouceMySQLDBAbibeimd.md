@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库巡检手册 - MySQL DBA必备"
+title: "MySQL数据库巡检手册  MySQL DBA必备"
 date:   2024-07-21
 tags: [MySQL,数据库,DBA,手册,巡检]
 comments: true

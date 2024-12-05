@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动汽车车载充电机与DC-DC转换器技术资源下载"
+title: "电动汽车车载充电机与DCDC转换器技术资源下载"
 date:   2023-06-29
 tags: [DC,充电机,车载,电动汽车,转换器]
 comments: true

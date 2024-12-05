@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE2+ AES加密解密库"
+title: "Delphi XE2 AES加密解密库"
 date:   2020-01-21
 tags: [Delphi,AES,加密,XE2,Base64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32C8T6 + SYN6288的语音播报器"
+title: "基于STM32C8T6  SYN6288的语音播报器"
 date:   2022-08-29
 tags: [语音,播报,传感器,SYN6288,STM32]
 comments: true

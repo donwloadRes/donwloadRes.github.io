@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15款超好玩的Scratch 3.0少儿编程游戏和资源"
+title: "15款超好玩的Scratch 30少儿编程游戏和资源"
 date:   2022-11-25
 tags: [Scratch,游戏,编程,3.0,少儿]
 comments: true

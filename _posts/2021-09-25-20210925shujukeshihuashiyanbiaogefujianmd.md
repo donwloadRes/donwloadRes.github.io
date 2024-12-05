@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据可视化实验--表格附件"
+title: "数据可视化实验表格附件"
 date:   2020-01-26
 tags: [表格,可视化,附件,数据,实验]
 comments: true

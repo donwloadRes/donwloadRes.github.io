@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新ChatGPT网页版源码 - 无需API KEY，直接使用"
+title: "最新ChatGPT网页版源码  无需API KEY直接使用"
 date:   2022-10-30
 tags: [ChatGPT,源码,API,KEY,无需]
 comments: true

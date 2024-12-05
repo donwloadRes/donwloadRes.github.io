@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "缤果PyQt5串口调试助手V1.1(初级篇)"
+title: "缤果PyQt5串口调试助手V11初级篇"
 date:   2021-07-04
 tags: [串口,发送,波特率,PyQt5,V1.1]
 comments: true

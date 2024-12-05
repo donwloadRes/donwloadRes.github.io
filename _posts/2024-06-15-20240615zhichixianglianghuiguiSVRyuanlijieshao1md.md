@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持向量回归（SVR）原理介绍1"
+title: "支持向量回归SVR原理介绍1"
 date:   2020-06-15
 tags: [SVR,推导,拉格朗,乘子,KKT]
 comments: true

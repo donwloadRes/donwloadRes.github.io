@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2003-2019历年国赛电赛资源集合"
+title: "20032019历年国赛电赛资源集合"
 date:   2020-10-26
 tags: [题目,国赛,电赛,资源,集合]
 comments: true

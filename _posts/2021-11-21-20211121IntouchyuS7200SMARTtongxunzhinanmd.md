@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intouch与S7-200SMART通讯指南"
+title: "Intouch与S7200SMART通讯指南"
 date:   2022-12-16
 tags: [Intouch,S7,200SMART,通讯,PLC]
 comments: true

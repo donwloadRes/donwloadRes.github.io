@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express 技术 3.0 资源文件介绍"
+title: "PCI Express 技术 30 资源文件介绍"
 date:   2020-08-23
 tags: [PCI,Express,3.0,MindShare,PHY]
 comments: true

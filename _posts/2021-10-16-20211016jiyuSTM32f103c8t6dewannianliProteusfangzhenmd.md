@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32f103c8t6的万年历+Proteus仿真"
+title: "基于STM32f103c8t6的万年历Proteus仿真"
 date:   2023-10-30
 tags: [Proteus,STM32,仿真,温度传感器,DS1302]
 comments: true

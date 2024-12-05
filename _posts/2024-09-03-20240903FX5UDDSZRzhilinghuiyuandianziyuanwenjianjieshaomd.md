@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FX5U-DDSZR指令-回原点资源文件介绍"
+title: "FX5UDDSZR指令回原点资源文件介绍"
 date:   2021-05-11
 tags: [原点,FX5U,DDSZR,DOG,文件]
 comments: true

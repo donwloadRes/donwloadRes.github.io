@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC与LabVIEW、Matlab编程论文资料"
+title: "VC与LabVIEWMatlab编程论文资料"
 date:   2020-12-20
 tags: [pdf,VC,基于,LabVIEW,MFC]
 comments: true

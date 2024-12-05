@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 资源下载"
+title: "NET Framework 资源下载"
 date:   2024-09-05
 tags: [NET,Framework,安装,安装程序,应用程序]
 comments: true

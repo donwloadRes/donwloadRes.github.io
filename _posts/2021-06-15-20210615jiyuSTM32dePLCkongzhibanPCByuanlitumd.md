@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的PLC控制板PCB+原理图"
+title: "基于STM32的PLC控制板PCB原理图"
 date:   2024-11-17
 tags: [PCB,原理图,文件,PLC,控制板]
 comments: true

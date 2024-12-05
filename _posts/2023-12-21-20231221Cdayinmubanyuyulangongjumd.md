@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#打印模板与预览工具"
+title: "C打印模板与预览工具"
 date:   2021-04-15
 tags: [打印,预览,模板,C#,文件]
 comments: true

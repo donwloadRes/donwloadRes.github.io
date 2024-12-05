@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64完整包下载"
+title: "MinGWw64完整包下载"
 date:   2021-07-20
 tags: [GCC,MinGW,w64,版本,完整包]
 comments: true

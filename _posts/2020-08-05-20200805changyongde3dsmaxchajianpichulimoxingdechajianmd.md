@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用的3dsmax插件（批处理模型的插件）"
+title: "常用的3dsmax插件批处理模型的插件"
 date:   2021-10-15
 tags: [插件,3dsmax,模型,批处理,文件]
 comments: true

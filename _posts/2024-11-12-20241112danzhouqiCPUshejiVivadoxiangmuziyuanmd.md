@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单周期CPU设计 - Vivado项目资源"
+title: "单周期CPU设计  Vivado项目资源"
 date:   2020-07-15
 tags: [Vivado,CPU,文件,项目,设计]
 comments: true

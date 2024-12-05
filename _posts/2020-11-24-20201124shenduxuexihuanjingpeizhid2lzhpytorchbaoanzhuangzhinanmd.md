@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习环境配置：d2lzh_pytorch包安装指南"
+title: "深度学习环境配置d2lzhpytorch包安装指南"
 date:   2023-07-19
 tags: [d2lzh,pytorch,安装,深度,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT美化界面源代码 - C++类资源"
+title: "QT美化界面源代码  C类资源"
 date:   2023-09-17
 tags: [QT,QSS,自定义,资源,美化]
 comments: true

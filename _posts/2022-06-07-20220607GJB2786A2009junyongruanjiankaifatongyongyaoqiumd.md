@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2786A-2009 军用软件开发通用要求"
+title: "GJB 2786A2009 军用软件开发通用要求"
 date:   2022-10-29
 tags: [软件开发,军用,文档,2009,软件]
 comments: true

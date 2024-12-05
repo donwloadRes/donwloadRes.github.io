@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Pro二次开发：三调三大类面积统计工具"
+title: "ArcGIS Pro二次开发三调三大类面积统计工具"
 date:   2021-04-16
 tags: [三调,三大类,面积,用地,统计]
 comments: true

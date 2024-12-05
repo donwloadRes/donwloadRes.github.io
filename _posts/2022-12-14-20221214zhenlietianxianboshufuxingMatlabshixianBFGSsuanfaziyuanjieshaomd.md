@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阵列天线波束赋形 - Matlab实现(BFGS算法) 资源介绍"
+title: "阵列天线波束赋形  Matlab实现BFGS算法 资源介绍"
 date:   2020-07-30
 tags: [波束,赋形,Matlab,BFGS,仓库]
 comments: true

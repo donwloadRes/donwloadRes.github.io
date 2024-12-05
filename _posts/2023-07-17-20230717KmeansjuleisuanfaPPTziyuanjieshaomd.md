@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-means聚类算法PPT资源介绍"
+title: "Kmeans聚类算法PPT资源介绍"
 date:   2021-07-12
 tags: [means,算法,聚类,PPT,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于51单片机红外遥控智能小车（原理图及PCB）"
+title: "基于51单片机红外遥控智能小车原理图及PCB"
 date:   2020-03-27
 tags: [PCB,原理图,51,单片机,小车]
 comments: true

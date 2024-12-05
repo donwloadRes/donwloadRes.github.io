@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi7与C#实现Des加解密互通Demo"
+title: "Delphi7与C实现Des加解密互通Demo"
 date:   2024-01-02
 tags: [加密,DES,Delphi7,C#,Demo]
 comments: true

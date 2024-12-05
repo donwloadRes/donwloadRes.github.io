@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 2021.3 安装教程及安装包下载"
+title: "PyCharm 20213 安装教程及安装包下载"
 date:   2024-04-22
 tags: [PyCharm,安装,安装包,2021.3,教程]
 comments: true

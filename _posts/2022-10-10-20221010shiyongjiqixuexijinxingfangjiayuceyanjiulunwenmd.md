@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用机器学习进行房价预测-研究论文"
+title: "使用机器学习进行房价预测研究论文"
 date:   2021-04-14
 tags: [预测,论文,机器,房价,学习]
 comments: true

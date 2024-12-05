@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+JS抽奖软件框架"
+title: "HTMLJS抽奖软件框架"
 date:   2024-11-26
 tags: [抽奖,数据库,文件,js,html]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0 PCB布线规则指导"
+title: "USB30 PCB布线规则指导"
 date:   2022-08-06
 tags: [USB3.0,布线,文档,PCB,理解]
 comments: true

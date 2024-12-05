@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黄土高原矢量边界.shp"
+title: "黄土高原矢量边界shp"
 date:   2020-10-12
 tags: [shp,GIS,黄土高原,矢量,边界]
 comments: true

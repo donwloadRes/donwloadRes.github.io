@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android深度探索(卷1) HAL与驱动开发 电子书下载"
+title: "Android深度探索卷1 HAL与驱动开发 电子书下载"
 date:   2023-07-28
 tags: [Android,HAL,电子书,下载,驱动]
 comments: true

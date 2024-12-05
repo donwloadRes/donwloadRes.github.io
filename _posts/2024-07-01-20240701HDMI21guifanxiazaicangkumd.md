@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 2.1 规范下载仓库"
+title: "HDMI 21 规范下载仓库"
 date:   2022-06-08
 tags: [HDMI,2.1,仓库,规范,文件]
 comments: true

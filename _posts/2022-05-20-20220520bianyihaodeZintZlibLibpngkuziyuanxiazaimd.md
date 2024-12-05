@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译好的Zint、Zlib、Libpng库资源下载"
+title: "编译好的ZintZlibLibpng库资源下载"
 date:   2021-06-29
 tags: [编译,32,64,debug,release]
 comments: true

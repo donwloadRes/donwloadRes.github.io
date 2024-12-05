@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# NModbus 操作指南"
+title: "C NModbus 操作指南"
 date:   2023-11-23
 tags: [Modbus,NModbus,C#,TCP,读取]
 comments: true

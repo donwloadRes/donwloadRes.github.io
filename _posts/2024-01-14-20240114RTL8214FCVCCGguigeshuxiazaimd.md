@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8214FC-VC-CG规格书下载"
+title: "RTL8214FCVCCG规格书下载"
 date:   2023-11-04
 tags: [规格书,RTL8214FC,VC,CG,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zprotect 1.6 脱壳工具（附源码）"
+title: "zprotect 16 脱壳工具附源码"
 date:   2021-09-24
 tags: [脱壳,工具,zprotect,1.6,源代码]
 comments: true

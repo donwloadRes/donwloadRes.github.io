@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sigrity 直流分析（PowerDC）操作练习"
+title: "Sigrity 直流分析PowerDC操作练习"
 date:   2022-03-09
 tags: [PowerDC,Sigrity,文件,IRdrop,直流]
 comments: true

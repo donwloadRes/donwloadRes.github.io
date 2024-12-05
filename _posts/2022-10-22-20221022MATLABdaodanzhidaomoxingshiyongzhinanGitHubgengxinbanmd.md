@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB导弹制导模型使用指南-GitHub更新版"
+title: "MATLAB导弹制导模型使用指南GitHub更新版"
 date:   2024-02-27
 tags: [MATLAB,Simulink,GitHub,GNC,制导]
 comments: true

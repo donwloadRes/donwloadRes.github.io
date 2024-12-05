@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言思维导图(详细)"
+title: "C语言思维导图详细"
 date:   2024-07-26
 tags: [C语言,指针,导图,数组,内存]
 comments: true

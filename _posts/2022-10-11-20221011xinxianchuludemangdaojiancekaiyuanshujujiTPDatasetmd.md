@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新鲜出炉的盲道检测开源数据集（TP-Dataset）"
+title: "新鲜出炉的盲道检测开源数据集TPDataset"
 date:   2021-07-07
 tags: [盲道,图片,数据,TP,Dataset]
 comments: true

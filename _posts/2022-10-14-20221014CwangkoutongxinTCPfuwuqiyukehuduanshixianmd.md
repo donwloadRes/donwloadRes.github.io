@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 网口通信：TCP服务器与客户端实现"
+title: "C 网口通信TCP服务器与客户端实现"
 date:   2022-11-01
 tags: [TCP,客户端,C#,服务器,网口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "目标检测入门精选：SSDD遥感图像数据集 (1160张图片含精确标签)"
+title: "目标检测入门精选SSDD遥感图像数据集 1160张图片含精确标签"
 date:   2020-06-27
 tags: [数据,遥感,检测,SSDD,标签]
 comments: true

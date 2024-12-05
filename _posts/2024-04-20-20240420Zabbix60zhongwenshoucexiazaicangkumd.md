@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zabbix 6.0 中文手册下载仓库"
+title: "Zabbix 60 中文手册下载仓库"
 date:   2021-01-06
 tags: [Zabbix,6.0,手册,中文,下载]
 comments: true

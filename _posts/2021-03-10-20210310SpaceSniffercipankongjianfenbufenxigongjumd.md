@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpaceSniffer —— 磁盘空间分布分析工具"
+title: "SpaceSniffer  磁盘空间分布分析工具"
 date:   2022-10-01
 tags: [SpaceSniffer,磁盘空间,文件夹,文件,用户]
 comments: true

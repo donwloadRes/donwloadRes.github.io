@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用修复软件快速解决api-ms-win-core-file-l2-1-0.dll系列文件问题"
+title: "使用修复软件快速解决apimswincorefilel210dll系列文件问题"
 date:   2023-11-11
 tags: [修复,Windows,文件,软件,api]
 comments: true

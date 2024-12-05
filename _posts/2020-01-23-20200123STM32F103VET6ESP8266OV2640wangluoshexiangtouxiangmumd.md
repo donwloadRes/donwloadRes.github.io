@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103VET6+ESP8266+OV2640 网络摄像头项目"
+title: "STM32F103VET6ESP8266OV2640 网络摄像头项目"
 date:   2020-11-21
 tags: [摄像头,STM32F103VET6,串口,图像,模块]
 comments: true

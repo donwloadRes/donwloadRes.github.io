@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103中文参考手册（754页）"
+title: "STM32F103中文参考手册754页"
 date:   2022-02-01
 tags: [STM32F103,参考手册,手册,754,STM32]
 comments: true

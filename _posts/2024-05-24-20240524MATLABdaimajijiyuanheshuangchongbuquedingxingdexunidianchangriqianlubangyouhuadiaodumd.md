@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：计及源-荷双重不确定性的虚拟电厂日前鲁棒优化调度"
+title: "MATLAB代码计及源荷双重不确定性的虚拟电厂日前鲁棒优化调度"
 date:   2024-07-26
 tags: [鲁棒,调度,代码,不确定性,虚拟]
 comments: true

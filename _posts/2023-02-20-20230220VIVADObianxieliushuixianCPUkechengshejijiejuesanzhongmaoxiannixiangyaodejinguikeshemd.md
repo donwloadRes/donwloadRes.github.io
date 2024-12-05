@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO编写流水线CPU课程设计：解决三种冒险，你想要的金贵课设"
+title: "VIVADO编写流水线CPU课程设计解决三种冒险你想要的金贵课设"
 date:   2024-01-20
 tags: [课程设计,CPU,流水线,冒险,VIVADO]
 comments: true

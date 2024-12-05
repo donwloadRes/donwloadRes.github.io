@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AnyLogic仿真+M-M-1排队系统+内容详解"
+title: "AnyLogic仿真MM1排队系统内容详解"
 date:   2024-05-31
 tags: [仿真,排队,AnyLogic,系统,实验]
 comments: true

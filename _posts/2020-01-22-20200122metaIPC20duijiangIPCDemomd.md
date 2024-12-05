@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "metaIPC2.0 对讲IPC Demo"
+title: "metaIPC20 对讲IPC Demo"
 date:   2024-07-16
 tags: [metaIPC2.0,Android,Demo,Windows,IPC]
 comments: true

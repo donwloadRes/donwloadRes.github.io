@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021年6月 中国电子学会青少年软件编程等级考试（图形化Scratch一级）真题及复习指南"
+title: "2021年6月 中国电子学会青少年软件编程等级考试图形化Scratch一级真题及复习指南"
 date:   2023-02-17
 tags: [编程,Scratch,图形化,考试,真题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统真像还原[郑钢著] PDF 下载"
+title: "操作系统真像还原郑钢著 PDF 下载"
 date:   2023-12-25
 tags: [郑钢,操作系统,PDF,真像,下载]
 comments: true

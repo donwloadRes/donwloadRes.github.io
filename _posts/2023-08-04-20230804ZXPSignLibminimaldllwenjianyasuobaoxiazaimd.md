@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZXPSignLib-minimal.dll文件压缩包下载"
+title: "ZXPSignLibminimaldll文件压缩包下载"
 date:   2021-02-13
 tags: [ZXPSignLib,minimal,dll,压缩包,文件]
 comments: true

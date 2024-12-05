@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计学习导论——基于R》Chapter5+6课后实验答案"
+title: "统计学习导论基于RChapter56课后实验答案"
 date:   2021-05-18
 tags: [学习,课后,导论,Chapter,实验]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F407 SPI_FLASH 示例工程"
+title: "GD32F407 SPIFLASH 示例工程"
 date:   2024-07-30
 tags: [GD32F407,SPI,Flash,库函数,工程]
 comments: true

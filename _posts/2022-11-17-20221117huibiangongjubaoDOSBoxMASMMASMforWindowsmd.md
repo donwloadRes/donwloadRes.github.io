@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编工具包(DOSBox、MASM、MASM for Windows)"
+title: "汇编工具包DOSBoxMASMMASM for Windows"
 date:   2024-09-06
 tags: [MASM,DOSBox,汇编,汇编语言,工具包]
 comments: true

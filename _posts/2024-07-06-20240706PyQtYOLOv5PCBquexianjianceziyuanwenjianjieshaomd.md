@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt + YOLOv5 + PCB缺陷检测资源文件介绍"
+title: "PyQt  YOLOv5  PCB缺陷检测资源文件介绍"
 date:   2024-10-14
 tags: [界面,检测,文件,UI,用户]
 comments: true

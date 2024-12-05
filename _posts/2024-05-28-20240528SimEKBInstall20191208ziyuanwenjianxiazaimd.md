@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sim_EKB_Install_2019_12_08 资源文件下载"
+title: "SimEKBInstall20191208 资源文件下载"
 date:   2022-03-24
 tags: [EKB,文件,解压,Sim,Install]
 comments: true

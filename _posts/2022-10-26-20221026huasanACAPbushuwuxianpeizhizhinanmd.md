@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华三AC+AP部署无线配置指南"
+title: "华三ACAP部署无线配置指南"
 date:   2022-05-02
 tags: [配置,华三,AC,AP,部署]
 comments: true

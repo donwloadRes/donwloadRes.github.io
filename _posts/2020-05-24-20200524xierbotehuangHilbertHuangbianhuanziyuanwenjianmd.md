@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "希尔伯特-黄（Hilbert-Huang）变换资源文件"
+title: "希尔伯特黄HilbertHuang变换资源文件"
 date:   2024-11-24
 tags: [Hilbert,变换,希尔伯特,Huang,文件]
 comments: true

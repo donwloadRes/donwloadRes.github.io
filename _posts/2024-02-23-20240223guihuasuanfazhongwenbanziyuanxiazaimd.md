@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "规划算法（中文版）资源下载"
+title: "规划算法中文版资源下载"
 date:   2022-09-04
 tags: [规划,运动,2.2,离散,变换]
 comments: true

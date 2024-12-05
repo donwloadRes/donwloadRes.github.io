@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "详细安装python_pcl：Windows + Anaconda"
+title: "详细安装pythonpclWindows  Anaconda"
 date:   2020-02-21
 tags: [python,pcl,虚拟环境,whl,安装]
 comments: true

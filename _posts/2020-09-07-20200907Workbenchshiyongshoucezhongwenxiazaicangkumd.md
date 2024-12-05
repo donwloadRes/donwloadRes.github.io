@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workbench使用手册（中文）下载仓库"
+title: "Workbench使用手册中文下载仓库"
 date:   2020-12-20
 tags: [Workbench,使用手册,中文,手册,下载]
 comments: true

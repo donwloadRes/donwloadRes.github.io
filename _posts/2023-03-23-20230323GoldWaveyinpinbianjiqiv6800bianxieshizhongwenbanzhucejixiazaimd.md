@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GoldWave音频编辑器v6.80.0便携式中文版注册机下载"
+title: "GoldWave音频编辑器v6800便携式中文版注册机下载"
 date:   2021-04-08
 tags: [GoldWave,注册机,录制,音频编辑,音频]
 comments: true

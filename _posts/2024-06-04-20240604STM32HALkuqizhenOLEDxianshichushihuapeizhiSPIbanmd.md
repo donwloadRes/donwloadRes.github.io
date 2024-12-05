@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库七针OLED显示初始化配置(SPI版)"
+title: "STM32 HAL库七针OLED显示初始化配置SPI版"
 date:   2021-05-03
 tags: [SPI,初始化,OLED,STM32,显示器]
 comments: true

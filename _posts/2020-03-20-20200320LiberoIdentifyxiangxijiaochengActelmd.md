@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Libero-Identify 详细教程 - Actel"
+title: "LiberoIdentify 详细教程  Actel"
 date:   2022-05-02
 tags: [Libero,Identify,教程,Actel,工具]
 comments: true

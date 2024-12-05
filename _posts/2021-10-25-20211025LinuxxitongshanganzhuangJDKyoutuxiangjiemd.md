@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统上安装JDK（有图详解）"
+title: "Linux系统上安装JDK有图详解"
 date:   2022-04-13
 tags: [JDK,安装,Linux,环境变量,系统]
 comments: true

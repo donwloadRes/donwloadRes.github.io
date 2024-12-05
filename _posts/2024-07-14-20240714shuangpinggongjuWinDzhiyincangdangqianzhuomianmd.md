@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双屏工具：Win+D只隐藏当前桌面"
+title: "双屏工具WinD只隐藏当前桌面"
 date:   2024-10-22
 tags: [双屏,Win,自启动,工具,开机]
 comments: true

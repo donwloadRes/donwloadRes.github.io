@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF+C# 实现视频播放器最全功能"
+title: "WPFC 实现视频播放器最全功能"
 date:   2021-08-05
 tags: [视频,播放器,WPF,进度条,播放]
 comments: true

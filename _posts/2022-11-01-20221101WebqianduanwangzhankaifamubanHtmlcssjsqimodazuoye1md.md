@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web前端网站开发模板（Html+css+js）期末大作业1"
+title: "Web前端网站开发模板Htmlcssjs期末大作业1"
 date:   2020-03-15
 tags: [模板,Web,HTML,网页,作业]
 comments: true

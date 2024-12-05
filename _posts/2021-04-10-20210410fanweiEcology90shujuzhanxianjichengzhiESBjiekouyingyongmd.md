@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微Ecology9.0数据展现集成之ESB接口应用"
+title: "泛微Ecology90数据展现集成之ESB接口应用"
 date:   2023-06-15
 tags: [ESB,展现,数据,集成,确保]
 comments: true

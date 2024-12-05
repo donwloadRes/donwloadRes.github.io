@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理实验七：中间代码生成器"
+title: "编译原理实验七中间代码生成器"
 date:   2023-12-11
 tags: [中间代码,生成器,实验,代码生成,源语言]
 comments: true

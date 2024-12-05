@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-CAN LabVIEW二次开发示例"
+title: "USBCAN LabVIEW二次开发示例"
 date:   2023-02-19
 tags: [LabVIEW,USB,示例,版本,二次开发]
 comments: true

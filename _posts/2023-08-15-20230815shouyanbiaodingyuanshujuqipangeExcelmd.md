@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手眼标定源数据（棋盘格+Excel）"
+title: "手眼标定源数据棋盘格Excel"
 date:   2024-10-27
 tags: [标定,手眼,机器人,棋盘,Excel]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 56种超漂亮Winform界面皮肤(SSK)"
+title: "C 56种超漂亮Winform界面皮肤SSK"
 date:   2023-05-19
 tags: [皮肤,Winform,文件,56,SSK]
 comments: true

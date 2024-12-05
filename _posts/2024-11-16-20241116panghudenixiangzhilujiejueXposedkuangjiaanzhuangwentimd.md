@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【胖虎的逆向之路】解决Xposed框架安装问题"
+title: "胖虎的逆向之路解决Xposed框架安装问题"
 date:   2022-02-18
 tags: [Xposed,Install,HTTP,安装,框架]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python手撸机器学习系列（六）：决策树"
+title: "Python手撸机器学习系列六决策树"
 date:   2022-06-13
 tags: [决策树,Python,剪枝,代码,机器]
 comments: true

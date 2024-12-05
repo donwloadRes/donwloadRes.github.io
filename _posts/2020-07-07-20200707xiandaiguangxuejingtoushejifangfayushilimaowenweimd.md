@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代光学镜头设计方法与实例 - 毛文炜"
+title: "现代光学镜头设计方法与实例  毛文炜"
 date:   2020-07-10
 tags: [光学,设计,镜头,毛文炜,实例]
 comments: true

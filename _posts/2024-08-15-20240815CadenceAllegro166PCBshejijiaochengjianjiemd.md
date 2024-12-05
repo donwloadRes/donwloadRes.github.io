@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 PCB设计教程简介"
+title: "Cadence Allegro 166 PCB设计教程简介"
 date:   2021-01-05
 tags: [Allegro,PCB,设计,Cadence,教程]
 comments: true

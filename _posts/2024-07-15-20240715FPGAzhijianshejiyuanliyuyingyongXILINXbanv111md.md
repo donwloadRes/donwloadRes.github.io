@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA至简设计原理与应用(XILINX版)_v1.11"
+title: "FPGA至简设计原理与应用XILINX版v111"
 date:   2021-06-12
 tags: [FPGA,v1.11,至简,XILINX,应用]
 comments: true

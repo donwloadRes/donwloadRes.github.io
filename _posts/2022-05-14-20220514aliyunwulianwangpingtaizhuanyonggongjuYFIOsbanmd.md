@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里云物联网平台专用工具（YFIOs版）"
+title: "阿里云物联网平台专用工具YFIOs版"
 date:   2020-09-06
 tags: [云物,联网,阿里,专用工具,设备]
 comments: true

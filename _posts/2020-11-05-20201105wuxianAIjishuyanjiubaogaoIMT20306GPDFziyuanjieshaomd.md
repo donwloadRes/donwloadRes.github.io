@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线AI技术研究报告-IMT2030(6G) PDF资源介绍"
+title: "无线AI技术研究报告IMT20306G PDF资源介绍"
 date:   2024-07-12
 tags: [6G,技术,通信,AI,报告]
 comments: true

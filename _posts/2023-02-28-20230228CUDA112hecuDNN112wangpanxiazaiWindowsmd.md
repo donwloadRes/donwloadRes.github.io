@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA 11.2 和 cuDNN 11.2 网盘下载（Windows）"
+title: "CUDA 112 和 cuDNN 112 网盘下载Windows"
 date:   2020-10-04
 tags: [CUDA,11.2,cuDNN,网盘,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "重复控制器的Matlab-Simulink仿真"
+title: "重复控制器的MatlabSimulink仿真"
 date:   2024-05-03
 tags: [仿真,Simulink,控制器,重复,模型]
 comments: true

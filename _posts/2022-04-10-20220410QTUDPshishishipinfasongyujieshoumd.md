@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+UDP实时视频发送与接收"
+title: "QTUDP实时视频发送与接收"
 date:   2024-10-12
 tags: [UDP,视频,实时,发送,接收端]
 comments: true

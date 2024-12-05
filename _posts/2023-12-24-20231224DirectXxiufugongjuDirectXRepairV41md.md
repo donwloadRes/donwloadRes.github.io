@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具(DirectX Repair) V4.1"
+title: "DirectX修复工具DirectX Repair V41"
 date:   2020-12-13
 tags: [修复,DirectX,C++,用户,工具]
 comments: true

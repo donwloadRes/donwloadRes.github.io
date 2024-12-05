@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libstdc++.so.6.0.29 资源文件下载仓库"
+title: "libstdcso6029 资源文件下载仓库"
 date:   2021-11-26
 tags: [文件,libstd,c++,so.6,C++]
 comments: true

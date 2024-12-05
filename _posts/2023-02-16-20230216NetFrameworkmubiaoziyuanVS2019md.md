@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".Net Framework 目标资源（VS2019）"
+title: "Net Framework 目标资源VS2019"
 date:   2023-05-14
 tags: [Net,Framework,Visual,Studio,2019]
 comments: true

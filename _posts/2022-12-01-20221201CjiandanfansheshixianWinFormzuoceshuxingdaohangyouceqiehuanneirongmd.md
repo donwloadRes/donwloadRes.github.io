@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 简单反射实现 WinForm 左侧树形导航，右侧切换内容"
+title: "C 简单反射实现 WinForm 左侧树形导航右侧切换内容"
 date:   2021-11-24
 tags: [树形,切换,导航,反射,C#]
 comments: true

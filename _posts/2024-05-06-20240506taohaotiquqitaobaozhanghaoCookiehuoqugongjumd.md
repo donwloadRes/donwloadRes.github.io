@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "淘号提取器 - 淘宝账号Cookie获取工具"
+title: "淘号提取器  淘宝账号Cookie获取工具"
 date:   2021-09-12
 tags: [Cookie,淘宝,账号,提取,淘号]
 comments: true

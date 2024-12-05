@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libomp140.x86-64.dll 资源文件说明"
+title: "libomp140x8664dll 资源文件说明"
 date:   2023-06-15
 tags: [dll,x86,64,libomp140,文件]
 comments: true

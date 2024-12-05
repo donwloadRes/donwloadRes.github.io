@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QuickPing 0.8 下载仓库"
+title: "QuickPing 08 下载仓库"
 date:   2020-02-27
 tags: [ping,0.8,QuickPing,线程,IP地址]
 comments: true

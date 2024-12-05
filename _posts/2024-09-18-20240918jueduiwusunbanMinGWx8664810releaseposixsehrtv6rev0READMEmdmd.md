@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(绝对无损版)MinGW x86_64-8.1.0-release-posix-seh-rt_v6-rev0 README.md"
+title: "绝对无损版MinGW x8664810releaseposixsehrtv6rev0 READMEmd"
 date:   2020-12-28
 tags: [MinGW,64,Windows,8.1,posix]
 comments: true

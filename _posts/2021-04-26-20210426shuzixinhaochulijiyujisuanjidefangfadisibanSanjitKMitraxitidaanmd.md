@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理_基于计算机的方法_第四版_Sanjit-K.Mitra_习题答案"
+title: "数字信号处理基于计算机的方法第四版SanjitKMitra习题答案"
 date:   2024-11-17
 tags: [习题,信号处理,答案,学习,第四版]
 comments: true

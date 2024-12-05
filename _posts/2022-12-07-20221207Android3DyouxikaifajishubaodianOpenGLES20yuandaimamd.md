@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 3D游戏开发技术宝典 - OpenGL ES 2.0 源代码"
+title: "Android 3D游戏开发技术宝典  OpenGL ES 20 源代码"
 date:   2020-06-28
 tags: [Android,游戏,3D,OpenGL,ES]
 comments: true

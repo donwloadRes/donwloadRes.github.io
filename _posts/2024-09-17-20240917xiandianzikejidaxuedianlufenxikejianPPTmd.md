@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西安电子科技大学电路分析》课件PPT"
+title: "西安电子科技大学电路分析课件PPT"
 date:   2020-04-27
 tags: [PPT,考研,课件,复习,电路]
 comments: true

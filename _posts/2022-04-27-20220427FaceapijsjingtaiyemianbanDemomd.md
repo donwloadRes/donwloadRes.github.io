@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Face-api.js静态页面版Demo"
+title: "Faceapijs静态页面版Demo"
 date:   2024-08-25
 tags: [Demo,IIS,js,摄像头,localhost]
 comments: true

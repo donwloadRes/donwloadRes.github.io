@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI M-PHY 规范 v4.1 JEDEC 联络披露文件"
+title: "MIPI MPHY 规范 v41 JEDEC 联络披露文件"
 date:   2024-11-22
 tags: [PHY,v4.1,文件,JEDEC,MIPI]
 comments: true

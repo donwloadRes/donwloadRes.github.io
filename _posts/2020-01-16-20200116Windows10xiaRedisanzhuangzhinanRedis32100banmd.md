@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 下 Redis 安装指南 (Redis-3.2.100 版)"
+title: "Windows 10 下 Redis 安装指南 Redis32100 版"
 date:   2024-01-13
 tags: [Redis,redis,Windows,3.2,100]
 comments: true

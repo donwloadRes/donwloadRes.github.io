@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速下载、安装 Netcat 到 Windows 系统的实用教程"
+title: "快速下载安装 Netcat 到 Windows 系统的实用教程"
 date:   2022-10-17
 tags: [Netcat,端口,Windows,命令提示符,监听]
 comments: true

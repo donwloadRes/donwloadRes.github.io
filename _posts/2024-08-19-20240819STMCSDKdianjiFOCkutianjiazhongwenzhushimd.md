@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST MCSDK 电机FOC库（添加中文注释）"
+title: "ST MCSDK 电机FOC库添加中文注释"
 date:   2024-03-23
 tags: [ST,FOC,注释,文档,中文]
 comments: true

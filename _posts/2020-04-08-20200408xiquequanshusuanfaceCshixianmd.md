@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "喜缺全书算法册 C++实现"
+title: "喜缺全书算法册 C实现"
 date:   2024-07-27
 tags: [算法,nums1,下标,博文,喜缺]
 comments: true

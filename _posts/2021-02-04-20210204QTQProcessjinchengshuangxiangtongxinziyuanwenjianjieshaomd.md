@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+QProcess+进程双向通信资源文件介绍"
+title: "QTQProcess进程双向通信资源文件介绍"
 date:   2022-12-11
 tags: [QT,QProcess,进程,双向通信,文件]
 comments: true

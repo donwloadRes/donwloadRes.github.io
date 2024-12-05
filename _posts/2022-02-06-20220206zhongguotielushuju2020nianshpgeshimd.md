@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国铁路数据（2020年）- shp格式"
+title: "中国铁路数据2020年 shp格式"
 date:   2021-04-23
 tags: [shp,2020,GIS,数据,格式]
 comments: true

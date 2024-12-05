@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最小二乘法圆拟合算法C#实现"
+title: "最小二乘法圆拟合算法C实现"
 date:   2022-07-15
 tags: [拟合,算法,乘法,随机,最小]
 comments: true

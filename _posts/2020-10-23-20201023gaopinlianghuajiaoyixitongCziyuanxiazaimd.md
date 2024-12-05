@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高频量化交易系统C++资源下载"
+title: "高频量化交易系统C资源下载"
 date:   2023-11-20
 tags: [策略,C++,文件,交易系统,资源]
 comments: true

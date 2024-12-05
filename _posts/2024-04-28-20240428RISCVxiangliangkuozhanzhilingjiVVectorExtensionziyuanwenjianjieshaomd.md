@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V 向量扩展指令集 - V Vector Extension 资源文件介绍"
+title: "RISCV 向量扩展指令集  V Vector Extension 资源文件介绍"
 date:   2024-11-11
 tags: [向量,RISC,向量指令,指令,指令集]
 comments: true

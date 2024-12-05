@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程大作业-员工宿舍管理系统"
+title: "软件工程大作业员工宿舍管理系统"
 date:   2021-11-02
 tags: [3.2,分析,系统,需求,用例]
 comments: true

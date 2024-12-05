@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3-WROOM-1 数据手册下载"
+title: "ESP32S3WROOM1 数据手册下载"
 date:   2020-10-30
 tags: [ESP32,S3,WROOM,手册,模块]
 comments: true

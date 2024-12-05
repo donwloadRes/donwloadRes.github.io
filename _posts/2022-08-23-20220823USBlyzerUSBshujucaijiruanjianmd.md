@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USBlyzer（USB数据采集软件）"
+title: "USBlyzerUSB数据采集软件"
 date:   2020-10-10
 tags: [USB,设备,USBlyzer,软件,数据包]
 comments: true

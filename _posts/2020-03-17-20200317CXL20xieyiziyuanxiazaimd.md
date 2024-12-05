@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL 2.0协议资源下载"
+title: "CXL 20协议资源下载"
 date:   2021-07-27
 tags: [CXL,2.0,下载,协议,Compute]
 comments: true

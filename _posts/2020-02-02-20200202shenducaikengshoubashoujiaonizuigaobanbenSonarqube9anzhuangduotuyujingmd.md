@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【深度踩坑】手把手教你最高版本Sonarqube9安装！（多图预警）"
+title: "深度踩坑手把手教你最高版本Sonarqube9安装多图预警"
 date:   2022-04-18
 tags: [安装,Sonarqube,教程,Sonarqube9,多图]
 comments: true

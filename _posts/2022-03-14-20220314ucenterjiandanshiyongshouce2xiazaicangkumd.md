@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "u-center简单使用手册2 下载仓库"
+title: "ucenter简单使用手册2 下载仓库"
 date:   2021-05-28
 tags: [center,使用手册,手册,下载,PDF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构设计师教程（软考）划重点版本"
+title: "系统架构设计师教程软考划重点版本"
 date:   2024-03-21
 tags: [考生,考试,架构,设计师,项目管理]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT程序实例(真实项目)"
+title: "QT程序实例真实项目"
 date:   2023-07-19
 tags: [QT,项目,文件,实例,真实]
 comments: true

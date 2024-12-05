@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OpenCvSharp图像基本运算示例"
+title: "C OpenCvSharp图像基本运算示例"
 date:   2021-12-06
 tags: [图像,运算,像素,OpenCvSharp,示例]
 comments: true

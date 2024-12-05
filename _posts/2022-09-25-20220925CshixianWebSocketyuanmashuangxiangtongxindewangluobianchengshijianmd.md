@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现WebSocket源码 - 双向通信的网络编程实践"
+title: "C实现WebSocket源码  双向通信的网络编程实践"
 date:   2022-07-30
 tags: [WebSocket,C#,HTML,客户端,服务端]
 comments: true

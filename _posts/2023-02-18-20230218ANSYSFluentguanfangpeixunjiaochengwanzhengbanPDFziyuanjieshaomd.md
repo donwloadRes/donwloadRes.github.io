@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS Fluent官方培训教程【完整版】 PDF资源介绍"
+title: "ANSYS Fluent官方培训教程完整版 PDF资源介绍"
 date:   2024-06-30
 tags: [教程,ANSYS,Fluent,PDF,培训]
 comments: true

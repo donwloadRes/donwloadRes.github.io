@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5实战教程：从环境配置到模型部署"
+title: "YOLOv5实战教程从环境配置到模型部署"
 date:   2021-12-27
 tags: [YOLOv5,模型,训练,文件,部署]
 comments: true

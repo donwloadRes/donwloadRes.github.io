@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATA8-ACS-3中文版资源下载"
+title: "ATA8ACS3中文版资源下载"
 date:   2024-02-19
 tags: [ATA8,ACS,中文版,文件,PDF]
 comments: true

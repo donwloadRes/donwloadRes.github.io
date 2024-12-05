@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新反反截图源码（支持选择区域）-易语言"
+title: "最新反反截图源码支持选择区域易语言"
 date:   2023-11-04
 tags: [截图,源码,易语言,模块,选择]
 comments: true

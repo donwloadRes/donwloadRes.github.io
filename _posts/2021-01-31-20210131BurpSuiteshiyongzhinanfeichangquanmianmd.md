@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BurpSuite使用指南（非常全面）"
+title: "BurpSuite使用指南非常全面"
 date:   2022-07-31
 tags: [BurpSuite,渗透,使用指南,指南,测试]
 comments: true

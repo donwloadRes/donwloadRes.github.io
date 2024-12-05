@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C Socket通信多线程数据双向收发实例VS2010（全部源码）"
+title: "C Socket通信多线程数据双向收发实例VS2010全部源码"
 date:   2023-09-01
 tags: [服务器端,客户端,多线程,通信,Socket]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD4.0物理层协议（中文版）"
+title: "SD40物理层协议中文版"
 date:   2020-11-12
 tags: [物理层,SD4.0,SD,文档,协议]
 comments: true

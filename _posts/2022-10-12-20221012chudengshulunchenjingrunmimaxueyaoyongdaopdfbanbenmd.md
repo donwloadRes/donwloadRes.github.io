@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初等数论 陈景润（密码学要用到, pdf版本）"
+title: "初等数论 陈景润密码学要用到 pdf版本"
 date:   2024-01-31
 tags: [密码学,数论,初等,数学,PDF]
 comments: true

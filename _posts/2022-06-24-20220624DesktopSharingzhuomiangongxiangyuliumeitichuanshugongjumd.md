@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DesktopSharing: 桌面共享与流媒体传输工具"
+title: "DesktopSharing 桌面共享与流媒体传输工具"
 date:   2021-01-27
 tags: [编码,硬件,音视频,RTSP,核显]
 comments: true

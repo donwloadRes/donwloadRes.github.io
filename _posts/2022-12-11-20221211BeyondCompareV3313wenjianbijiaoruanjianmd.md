@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BeyondCompare V3.3.13 文件比较软件"
+title: "BeyondCompare V3313 文件比较软件"
 date:   2020-09-21
 tags: [BeyondCompare,13,文件,链接,V3.3]
 comments: true

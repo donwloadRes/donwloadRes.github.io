@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#采集控制多个UVC摄像头设备的源码"
+title: "C采集控制多个UVC摄像头设备的源码"
 date:   2023-11-18
 tags: [源码,UVC,摄像头,C#,采集]
 comments: true

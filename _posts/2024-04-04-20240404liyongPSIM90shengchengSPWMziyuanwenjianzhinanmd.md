@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用 PSIM 9.0 生成 SPWM 资源文件指南"
+title: "利用 PSIM 90 生成 SPWM 资源文件指南"
 date:   2021-03-22
 tags: [PSIM,SPWM,9.0,资源,28335]
 comments: true

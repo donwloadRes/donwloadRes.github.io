@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++服装销售管理系统-课程设计（简易版）"
+title: "CC服装销售管理系统课程设计简易版"
 date:   2020-07-26
 tags: [文件,课程设计,服装,C++,管理系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞昱RTL9210B硬盘盒刷固件软件及固件 1.32.16"
+title: "瑞昱RTL9210B硬盘盒刷固件软件及固件 13216"
 date:   2024-01-31
 tags: [固件,硬盘盒,RTL9210B,1.32,16]
 comments: true

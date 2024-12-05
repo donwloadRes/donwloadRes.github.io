@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 17626.5 电磁兼容 浪涌(冲击)抗扰度试验 资源下载"
+title: "GBT 176265 电磁兼容 浪涌冲击抗扰度试验 资源下载"
 date:   2022-09-30
 tags: [试验,浪涌,抗扰度,GB,电磁兼容]
 comments: true

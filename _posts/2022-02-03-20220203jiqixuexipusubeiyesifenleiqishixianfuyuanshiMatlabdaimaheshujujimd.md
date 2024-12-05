@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习朴素贝叶斯分类器实现（附原始Matlab代码和数据集）"
+title: "机器学习朴素贝叶斯分类器实现附原始Matlab代码和数据集"
 date:   2020-11-12
 tags: [分类器,贝叶斯,朴素,代码,Matlab]
 comments: true

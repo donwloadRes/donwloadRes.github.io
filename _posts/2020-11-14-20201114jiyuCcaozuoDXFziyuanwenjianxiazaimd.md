@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#操作DXF资源文件下载"
+title: "基于C操作DXF资源文件下载"
 date:   2021-08-24
 tags: [文件,C#,DXF,资源,解析]
 comments: true

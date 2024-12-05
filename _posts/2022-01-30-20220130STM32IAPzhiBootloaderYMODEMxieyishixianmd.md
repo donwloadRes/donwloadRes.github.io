@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 IAP之Bootloader：YMODEM协议实现"
+title: "STM32 IAP之BootloaderYMODEM协议实现"
 date:   2020-06-05
 tags: [固件,Bootloader,STM32,YMODEM,协议]
 comments: true

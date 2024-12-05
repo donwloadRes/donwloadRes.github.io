@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面向对象程序设计习题集"
+title: "C面向对象程序设计习题集"
 date:   2021-01-01
 tags: [C++,习题集,面向对象编程,习题,解析]
 comments: true

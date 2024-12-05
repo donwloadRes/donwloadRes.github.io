@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "廖雪峰Python教程打印版（完整版）PDF资源"
+title: "廖雪峰Python教程打印版完整版PDF资源"
 date:   2022-09-16
 tags: [Python,PDF,教程,学习,雪峰]
 comments: true

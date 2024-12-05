@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tcl_TK编程权威指南pdf"
+title: "TclTK编程权威指南pdf"
 date:   2022-08-31
 tags: [Tcl,Tk,应用程序,编程,程序]
 comments: true

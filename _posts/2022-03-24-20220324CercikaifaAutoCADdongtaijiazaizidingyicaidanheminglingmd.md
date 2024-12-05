@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#二次开发AutoCAD动态加载自定义菜单和命令"
+title: "C二次开发AutoCAD动态加载自定义菜单和命令"
 date:   2020-10-10
 tags: [AutoCAD,二次开发,菜单,自定义,加载]
 comments: true

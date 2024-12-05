@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HP 3PAR 存储配置手册（详细）"
+title: "HP 3PAR 存储配置手册详细"
 date:   2023-07-31
 tags: [HP,3PAR,手册,配置,存储配置]
 comments: true

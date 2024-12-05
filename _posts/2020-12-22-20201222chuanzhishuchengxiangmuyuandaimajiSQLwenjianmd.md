@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传智书城》项目源代码及SQL文件"
+title: "传智书城项目源代码及SQL文件"
 date:   2023-08-20
 tags: [Eclipse,数据库,书城,项目,传智]
 comments: true

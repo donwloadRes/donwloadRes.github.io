@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保姆级教程：在VM虚拟机中安装Windows Server 2003操作系统"
+title: "保姆级教程在VM虚拟机中安装Windows Server 2003操作系统"
 date:   2020-11-11
 tags: [虚拟机,Windows,Server,2003,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模式识别与机器学习中英文版本PRML.zip"
+title: "模式识别与机器学习中英文版本PRMLzip"
 date:   2023-10-30
 tags: [PRML,模式识别,中英文,学习,版本]
 comments: true

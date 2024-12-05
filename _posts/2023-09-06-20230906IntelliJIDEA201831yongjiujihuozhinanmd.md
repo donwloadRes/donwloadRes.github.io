@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA 2018.3.1 永久激活指南"
+title: "IntelliJ IDEA 201831 永久激活指南"
 date:   2021-07-15
 tags: [激活,IntelliJ,IDEA,2018.3,jar]
 comments: true

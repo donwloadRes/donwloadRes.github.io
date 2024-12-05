@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S-Function Builder 使用指南"
+title: "SFunction Builder 使用指南"
 date:   2022-09-02
 tags: [Function,Builder,MATLAB,使用,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EnDat2.2协议资源文件介绍"
+title: "EnDat22协议资源文件介绍"
 date:   2022-08-05
 tags: [EnDat2.2,协议,文件,编码器,光电]
 comments: true

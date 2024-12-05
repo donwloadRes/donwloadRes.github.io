@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB.NET编写的Modbus-TCP从站程序"
+title: "VBNET编写的ModbusTCP从站程序"
 date:   2020-01-27
 tags: [VB,NET,Modbus,TCP,程序]
 comments: true

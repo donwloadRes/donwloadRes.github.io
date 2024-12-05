@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装Eclipse（压缩包安装）"
+title: "Linux安装Eclipse压缩包安装"
 date:   2023-06-22
 tags: [Eclipse,eclipse,压缩包,Linux,安装]
 comments: true

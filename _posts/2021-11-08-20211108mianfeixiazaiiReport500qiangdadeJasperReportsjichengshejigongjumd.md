@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费下载 iReport-5.0.0 - 强大的JasperReports集成设计工具"
+title: "免费下载 iReport500  强大的JasperReports集成设计工具"
 date:   2023-09-18
 tags: [报表,iReport,设计,5.0,数据源]
 comments: true

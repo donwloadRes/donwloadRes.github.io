@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++四步相移求得包裹-展开相位"
+title: "C四步相移求得包裹展开相位"
 date:   2024-07-06
 tags: [相移,相位,四步,三维重建,C++]
 comments: true

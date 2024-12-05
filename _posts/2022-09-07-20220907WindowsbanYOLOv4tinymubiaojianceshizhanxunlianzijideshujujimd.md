@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows版YOLOv4-tiny目标检测实战：训练自己的数据集"
+title: "Windows版YOLOv4tiny目标检测实战训练自己的数据集"
 date:   2024-03-15
 tags: [tiny,YOLOv4,检测,目标,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Xshell启动时“Initialize flexnet service failed error code 50003”错误"
+title: "解决Xshell启动时Initialize flexnet service failed error code 50003错误"
 date:   2023-08-10
 tags: [Xshell,错误,文件,Initialize,flexnet]
 comments: true

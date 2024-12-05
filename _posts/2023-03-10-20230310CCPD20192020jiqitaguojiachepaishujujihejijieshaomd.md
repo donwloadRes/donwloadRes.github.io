@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCPD2019-2020及其它国家车牌数据集合集介绍"
+title: "CCPD20192020及其它国家车牌数据集合集介绍"
 date:   2020-01-18
 tags: [车牌,数据,标注,图像,YOLO]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿雷笔记OPC 2.0组件资源文件"
+title: "阿雷笔记OPC 20组件资源文件"
 date:   2021-10-11
 tags: [OPC,组件,文件,安装,阿雷]
 comments: true

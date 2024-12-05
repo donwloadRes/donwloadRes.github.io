@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023 Java 面试大全：大厂面试必备"
+title: "2023 Java 面试大全大厂面试必备"
 date:   2022-04-06
 tags: [面试,Java,Redis,Spring,MySQL]
 comments: true

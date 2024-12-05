@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式国赛-龙芯练习板（新板）资料"
+title: "嵌入式国赛龙芯练习板新板资料"
 date:   2022-03-16
 tags: [龙芯,备赛,教程,开发板,资料]
 comments: true

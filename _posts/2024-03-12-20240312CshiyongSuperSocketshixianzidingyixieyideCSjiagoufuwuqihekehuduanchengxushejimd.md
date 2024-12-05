@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 SuperSocket 实现自定义协议的 C-S 架构服务器和客户端程序设计"
+title: "C 使用 SuperSocket 实现自定义协议的 CS 架构服务器和客户端程序设计"
 date:   2020-04-17
 tags: [自定义,SuperSocket,客户端程序,服务器,协议]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt不规则按钮实现 - UI实现"
+title: "Qt不规则按钮实现  UI实现"
 date:   2023-06-20
 tags: [Qt,按钮,文件,不规则,实现]
 comments: true

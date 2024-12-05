@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口接收缓存区优化示例"
+title: "C串口接收缓存区优化示例"
 date:   2021-06-22
 tags: [串口,缓存,接收,示例,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux与FPGA PCIe通信的设备驱动（含DMA）"
+title: "Linux与FPGA PCIe通信的设备驱动含DMA"
 date:   2023-06-04
 tags: [FPGA,驱动,Linux,DMA,PCIe]
 comments: true

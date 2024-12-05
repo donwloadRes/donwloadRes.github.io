@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓期末课程设计：图书管理系统App"
+title: "安卓期末课程设计图书管理系统App"
 date:   2021-03-16
 tags: [图书,安卓,借书,管理员,源代码]
 comments: true

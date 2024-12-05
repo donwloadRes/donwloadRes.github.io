@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实训报告：Oracle 12c 及 SQL Developer 安装指南"
+title: "实训报告Oracle 12c 及 SQL Developer 安装指南"
 date:   2023-03-05
 tags: [Oracle,安装,SQL,Developer,12c]
 comments: true

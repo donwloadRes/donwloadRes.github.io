@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "客户关系管理系统(CRM)原型图及需求分析资源"
+title: "客户关系管理系统CRM原型图及需求分析资源"
 date:   2022-04-12
 tags: [CRM,需求,原型,系统,文档]
 comments: true

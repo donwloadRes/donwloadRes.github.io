@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【真正64位】libeay32.dll和ssleay32.dll 下载仓库"
+title: "真正64位libeay32dll和ssleay32dll 下载仓库"
 date:   2021-08-26
 tags: [dll,64,MySQL,文件,下载]
 comments: true

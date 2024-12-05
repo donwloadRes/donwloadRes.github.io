@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直接打印PDF文件，不弹出打印设置窗口"
+title: "直接打印PDF文件不弹出打印设置窗口"
 date:   2021-12-27
 tags: [打印,文件,PDF,设置,不弹]
 comments: true

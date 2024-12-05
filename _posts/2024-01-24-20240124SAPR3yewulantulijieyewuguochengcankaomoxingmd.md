@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP R3 业务蓝图：理解业务过程参考模型"
+title: "SAP R3 业务蓝图理解业务过程参考模型"
 date:   2024-08-27
 tags: [参考模型,R3,业务,蓝图,文件]
 comments: true

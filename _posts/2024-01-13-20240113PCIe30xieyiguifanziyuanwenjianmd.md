@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 3.0 协议规范资源文件"
+title: "PCIe 30 协议规范资源文件"
 date:   2020-04-15
 tags: [3.0,PCIe,文件,规范,总线]
 comments: true

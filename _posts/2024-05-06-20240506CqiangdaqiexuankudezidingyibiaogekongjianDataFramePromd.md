@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 强大且炫酷的自定义表格控件：DataFramePro"
+title: "C 强大且炫酷的自定义表格控件DataFramePro"
 date:   2022-10-03
 tags: [DataFramePro,控件,自定义,C#,表格]
 comments: true

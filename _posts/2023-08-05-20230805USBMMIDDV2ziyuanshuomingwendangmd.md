@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USBMMIDD-V2 资源说明文档"
+title: "USBMMIDDV2 资源说明文档"
 date:   2021-10-25
 tags: [文档,USBMMIDD,V2,USB,API]
 comments: true

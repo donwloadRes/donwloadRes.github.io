@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.2 规范资源文件介绍"
+title: "USB 32 规范资源文件介绍"
 date:   2020-06-20
 tags: [USB,3.2,规范,设备,开发人员]
 comments: true

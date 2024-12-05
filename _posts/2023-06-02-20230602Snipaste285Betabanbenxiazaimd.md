@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snipaste 2.8.5 Beta 版本下载"
+title: "Snipaste 285 Beta 版本下载"
 date:   2020-01-16
 tags: [Snipaste,Beta,2.8,贴图,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python谷歌小恐龙游戏--Pygame"
+title: "Python谷歌小恐龙游戏Pygame"
 date:   2021-05-13
 tags: [恐龙,游戏,Python,Pygame,添加]
 comments: true

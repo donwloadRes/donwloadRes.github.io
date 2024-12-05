@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MovingPandas时空轨迹数据探索和分析——上海市出租车数据集"
+title: "MovingPandas时空轨迹数据探索和分析上海市出租车数据集"
 date:   2022-02-17
 tags: [MovingPandas,轨迹,数据,分析,示例]
 comments: true

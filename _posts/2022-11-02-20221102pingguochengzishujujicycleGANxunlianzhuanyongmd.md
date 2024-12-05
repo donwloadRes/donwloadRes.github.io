@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果橙子数据集 - cycleGAN训练专用"
+title: "苹果橙子数据集  cycleGAN训练专用"
 date:   2024-05-29
 tags: [cycleGAN,数据,训练,图像,橙子]
 comments: true

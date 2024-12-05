@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你安装MySQL+Navicat"
+title: "手把手教你安装MySQLNavicat"
 date:   2024-08-04
 tags: [安装,MySQL,Navicat,安装包,12]
 comments: true

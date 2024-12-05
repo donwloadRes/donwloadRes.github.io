@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "渗透测试：CentOS 7 环境下 MSF 工具部署（Metasploit 渗透测试框架安装）"
+title: "渗透测试CentOS 7 环境下 MSF 工具部署Metasploit 渗透测试框架安装"
 date:   2021-05-12
 tags: [安装,Metasploit,框架,百度网,渗透]
 comments: true

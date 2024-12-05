@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 12g 安装依赖包 compat-libcap1-1.10-7.el7.x86_64.rpm"
+title: "Oracle 12g 安装依赖包 compatlibcap11107el7x8664rpm"
 date:   2020-02-25
 tags: [compat,libcap1,1.10,el7,x86]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RDPWrap-v1.6.2 支持 Win10 2004 多用户远程桌面"
+title: "RDPWrapv162 支持 Win10 2004 多用户远程桌面"
 date:   2020-06-02
 tags: [RDPWrap,远程桌面,多用户,v1.6,2004]
 comments: true

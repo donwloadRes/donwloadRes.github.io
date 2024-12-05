@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三星S7edge系统降级教程：从Android 8.0降至6.0.1以提升流畅度"
+title: "三星S7edge系统降级教程从Android 80降至601以提升流畅度"
 date:   2024-10-13
 tags: [降级,6.0,TWRP,刷机,三星]
 comments: true

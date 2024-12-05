@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.0.4 for Linux 安装包"
+title: "Oracle 11204 for Linux 安装包"
 date:   2023-05-10
 tags: [Oracle,安装包,0.4,Linux,安装]
 comments: true

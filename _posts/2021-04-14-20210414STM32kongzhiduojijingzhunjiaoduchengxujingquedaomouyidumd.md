@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32控制舵机精准角度程序，精确到某一度"
+title: "STM32控制舵机精准角度程序精确到某一度"
 date:   2021-04-20
 tags: [舵机,STM32,程序,角度,PWM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFMPEG for MFC 1.2 源代码"
+title: "FFMPEG for MFC 12 源代码"
 date:   2023-10-02
 tags: [转码,ffmpeg,MFC,FFMPEG,源代码]
 comments: true

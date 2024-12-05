@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "32 个 UniApp 优质资源集合：覆盖商城、团购等多个领域"
+title: "32 个 UniApp 优质资源集合覆盖商城团购等多个领域"
 date:   2024-08-10
 tags: [uni,app,zip,master,mpvue]
 comments: true

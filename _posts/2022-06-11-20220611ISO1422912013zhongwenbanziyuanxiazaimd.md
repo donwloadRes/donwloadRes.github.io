@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO14229-1-2013 中文版资源下载"
+title: "ISO1422912013 中文版资源下载"
 date:   2023-01-15
 tags: [ISO14229,2013,中文版,下载,pdf]
 comments: true

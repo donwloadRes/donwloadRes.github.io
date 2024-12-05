@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "74HC595驱动8个数码管程序+原理图"
+title: "74HC595驱动8个数码管程序原理图"
 date:   2024-11-20
 tags: [数码管,原理图,74HC595,寄存器,移位]
 comments: true

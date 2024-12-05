@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 景深融合软件 EDF 景深融合 EDF Depth of Field"
+title: "C 景深融合软件 EDF 景深融合 EDF Depth of Field"
 date:   2024-02-02
 tags: [景深,EDF,融合,软件,Depth]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN7无法更新解决方案汇总-错误代码80072efe"
+title: "WIN7无法更新解决方案汇总错误代码80072efe"
 date:   2021-05-21
 tags: [补丁,安装,Windows,错误代码,80072efe]
 comments: true

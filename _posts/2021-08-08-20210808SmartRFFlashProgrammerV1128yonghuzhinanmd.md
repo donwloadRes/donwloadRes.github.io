@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SmartRF Flash Programmer V1.12.8 用户指南"
+title: "SmartRF Flash Programmer V1128 用户指南"
 date:   2023-03-18
 tags: [编程,德州仪器,V1.12,SmartRF,Flash]
 comments: true

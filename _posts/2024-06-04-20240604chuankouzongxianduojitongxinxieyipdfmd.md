@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口总线舵机通信协议.pdf"
+title: "串口总线舵机通信协议pdf"
 date:   2021-11-01
 tags: [舵机,通信协议,串口,总线,乐幻]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vSphere ESXi 6 系统镜像及vCenter、Client 打包下载"
+title: "vSphere ESXi 6 系统镜像及vCenterClient 打包下载"
 date:   2020-09-16
 tags: [vSphere,下载,镜像,ESXi,vCenter]
 comments: true

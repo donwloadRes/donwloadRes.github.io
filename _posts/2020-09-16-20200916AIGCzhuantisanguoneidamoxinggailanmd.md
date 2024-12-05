@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AIGC专题三：国内大模型概览"
+title: "AIGC专题三国内大模型概览"
 date:   2022-04-29
 tags: [概览,AIGC,模型,ChatGPT,AI]
 comments: true

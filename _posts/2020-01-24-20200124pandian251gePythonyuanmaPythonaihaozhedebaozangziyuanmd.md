@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "盘点251个Python源码：Python爱好者的宝藏资源"
+title: "盘点251个Python源码Python爱好者的宝藏资源"
 date:   2024-11-18
 tags: [Python,源码,编程,项目,资源]
 comments: true

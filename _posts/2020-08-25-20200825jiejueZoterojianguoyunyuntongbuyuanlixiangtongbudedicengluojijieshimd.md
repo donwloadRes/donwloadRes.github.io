@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“Zotero+坚果云”云同步：原理向，同步的底层逻辑解释"
+title: "解决Zotero坚果云云同步原理向同步的底层逻辑解释"
 date:   2022-12-22
 tags: [同步,Zotero,附件,坚果,原理]
 comments: true

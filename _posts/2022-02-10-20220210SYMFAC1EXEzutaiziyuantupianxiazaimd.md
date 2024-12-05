@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SYMFAC1.EXE 组态资源图片下载"
+title: "SYMFAC1EXE 组态资源图片下载"
 date:   2024-11-03
 tags: [组态,工控,图标,资源,SYMFAC1]
 comments: true

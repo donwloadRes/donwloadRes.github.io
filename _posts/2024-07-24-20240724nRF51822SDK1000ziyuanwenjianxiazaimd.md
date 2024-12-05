@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nRF51822 SDK 10.0.0 资源文件下载"
+title: "nRF51822 SDK 1000 资源文件下载"
 date:   2024-07-01
 tags: [SDK,开发,示例,nRF51822,10.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性代数导论第五版答案--Gilbert Strang"
+title: "线性代数导论第五版答案Gilbert Strang"
 date:   2024-06-13
 tags: [线性代数,第五版,Gilbert,Strang,导论]
 comments: true

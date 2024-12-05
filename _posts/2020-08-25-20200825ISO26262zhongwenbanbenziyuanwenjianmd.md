@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-26262 中文版本资源文件"
+title: "ISO26262 中文版本资源文件"
 date:   2022-08-09
 tags: [ISO,26262,安全,文件,功能]
 comments: true

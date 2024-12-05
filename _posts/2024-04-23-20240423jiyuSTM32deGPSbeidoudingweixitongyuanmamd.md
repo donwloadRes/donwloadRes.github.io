@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的GPS+北斗定位系统源码"
+title: "基于STM32的GPS北斗定位系统源码"
 date:   2022-06-23
 tags: [源码,GPS,STM32,开发板,北斗]
 comments: true

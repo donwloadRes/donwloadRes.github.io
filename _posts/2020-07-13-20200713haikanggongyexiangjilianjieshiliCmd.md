@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康工业相机连接示例（C#）"
+title: "海康工业相机连接示例C"
 date:   2022-07-11
 tags: [相机,海康,C#,示例,连接]
 comments: true

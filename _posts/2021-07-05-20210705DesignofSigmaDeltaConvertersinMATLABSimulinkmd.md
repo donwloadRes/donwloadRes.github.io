@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Design of Sigma-Delta Converters in MATLAB®_Simulink®"
+title: "Design of SigmaDelta Converters in MATLABSimulink"
 date:   2020-09-17
 tags: [Simulink,MATLAB,转换器,设计,Sigma]
 comments: true

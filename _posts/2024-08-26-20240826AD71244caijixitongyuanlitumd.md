@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD7124-4采集系统原理图"
+title: "AD71244采集系统原理图"
 date:   2024-06-14
 tags: [原理图,AD7124,通信协议,系统,文件]
 comments: true

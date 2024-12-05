@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程伦理-PPT-华中科技大学"
+title: "工程伦理PPT华中科技大学"
 date:   2020-10-27
 tags: [伦理,工程,PPT,华中科技大学,资源]
 comments: true

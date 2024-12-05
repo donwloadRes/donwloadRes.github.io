@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理课程设计：语言信号滤波处理实践"
+title: "数字信号处理课程设计语言信号滤波处理实践"
 date:   2024-04-26
 tags: [语音,滤波,信号,信号处理,MATLAB]
 comments: true

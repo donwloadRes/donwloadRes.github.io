@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq UltraScale+ MPSoC ZCU106 硬件开发资源"
+title: "Xilinx Zynq UltraScale MPSoC ZCU106 硬件开发资源"
 date:   2023-04-18
 tags: [硬件,Zynq,设计,资源,Xilinx]
 comments: true

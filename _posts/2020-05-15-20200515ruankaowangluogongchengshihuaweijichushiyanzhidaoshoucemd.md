@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考网络工程师华为基础实验》指导手册"
+title: "软考网络工程师华为基础实验指导手册"
 date:   2024-04-29
 tags: [手册,考生,软考,实验,知识点]
 comments: true

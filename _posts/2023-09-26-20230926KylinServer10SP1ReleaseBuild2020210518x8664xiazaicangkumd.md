@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kylin-Server-10-SP1-Release-Build20-20210518-x86_64 下载仓库"
+title: "KylinServer10SP1ReleaseBuild2020210518x8664 下载仓库"
 date:   2021-10-27
 tags: [Kylin,Server,10,SP1,x86]
 comments: true

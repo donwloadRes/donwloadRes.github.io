@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF图纸的C++解析及OpenCV绘制"
+title: "DXF图纸的C解析及OpenCV绘制"
 date:   2023-06-12
 tags: [DXF,OpenCV,C++,解析,图形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab代码及解析（可运行） 基于改进遗传算法求解带时间窗约束多卫星任务规划"
+title: "Matlab代码及解析可运行 基于改进遗传算法求解带时间窗约束多卫星任务规划"
 date:   2023-05-28
 tags: [遗传算法,Matlab,任务,代码,运行]
 comments: true

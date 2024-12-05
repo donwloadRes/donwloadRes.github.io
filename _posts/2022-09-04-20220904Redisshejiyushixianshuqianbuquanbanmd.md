@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis设计与实现 - 书签补全版"
+title: "Redis设计与实现  书签补全版"
 date:   2023-04-11
 tags: [书签,补全,Redis,PDF,文件]
 comments: true

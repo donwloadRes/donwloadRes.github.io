@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GRABIT：从图像文件中提取数据点的Matlab源码"
+title: "GRABIT从图像文件中提取数据点的Matlab源码"
 date:   2022-05-11
 tags: [GRABIT,图像文件,提取,数据,图像]
 comments: true

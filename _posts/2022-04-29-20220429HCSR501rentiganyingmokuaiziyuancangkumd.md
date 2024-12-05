@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-SR501 人体感应模块资源仓库"
+title: "HCSR501 人体感应模块资源仓库"
 date:   2024-02-01
 tags: [HC,SR501,模块,原理图,传感器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度探索C++对象模型资源下载"
+title: "深度探索C对象模型资源下载"
 date:   2022-02-24
 tags: [C++,模型,对象,书签,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Essential C++（中文版）书籍资源介绍"
+title: "Essential C中文版书籍资源介绍"
 date:   2024-09-02
 tags: [C++,编程,读者,Essential,学习]
 comments: true

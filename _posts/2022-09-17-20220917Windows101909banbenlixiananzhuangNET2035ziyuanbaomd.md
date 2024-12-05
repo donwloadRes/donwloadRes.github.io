@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10 1909版本离线安装.NET 2.0~3.5资源包"
+title: "Windows 10 1909版本离线安装NET 2035资源包"
 date:   2023-12-10
 tags: [安装,NET,版本,Framework,Windows]
 comments: true

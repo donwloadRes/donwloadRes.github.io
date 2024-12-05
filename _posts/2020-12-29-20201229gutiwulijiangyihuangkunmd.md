@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固体物理讲义-黄昆"
+title: "固体物理讲义黄昆"
 date:   2021-03-09
 tags: [讲义,黄昆,固体物理,固体,物理学]
 comments: true

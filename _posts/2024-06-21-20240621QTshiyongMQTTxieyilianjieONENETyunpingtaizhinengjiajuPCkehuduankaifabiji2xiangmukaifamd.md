@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT使用MQTT协议连接ONENET云平台：智能家居PC客户端开发笔记-2 项目开发"
+title: "QT使用MQTT协议连接ONENET云平台智能家居PC客户端开发笔记2 项目开发"
 date:   2024-01-17
 tags: [ONENET,客户端,平台,MQTT,控制指令]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GM-Y 5001-2021 密码标准使用指南"
+title: "GMY 50012021 密码标准使用指南"
 date:   2023-08-15
 tags: [GM,2021,密码,标准,5001]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F030参考手册（英文版）下载仓库"
+title: "STM32F030参考手册英文版下载仓库"
 date:   2022-06-19
 tags: [STM32F030,参考手册,英文版,MCU,仓库]
 comments: true

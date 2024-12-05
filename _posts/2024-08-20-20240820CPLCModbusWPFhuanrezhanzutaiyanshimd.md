@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PLC Modbus WPF 换热站组态演示"
+title: "C PLC Modbus WPF 换热站组态演示"
 date:   2020-07-26
 tags: [换热站,组态,PLC,WPF,Modbus]
 comments: true

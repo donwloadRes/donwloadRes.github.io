@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DisplayPort (DP) 协议标准 V1.4 下载仓库"
+title: "DisplayPort DP 协议标准 V14 下载仓库"
 date:   2024-11-13
 tags: [DP,DisplayPort,V1.4,connections,PC]
 comments: true

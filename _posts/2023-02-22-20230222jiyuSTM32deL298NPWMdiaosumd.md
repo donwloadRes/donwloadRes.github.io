@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的L298N+PWM调速"
+title: "基于STM32的L298NPWM调速"
 date:   2023-03-10
 tags: [STM32,PWM,L298N,电机,调速]
 comments: true

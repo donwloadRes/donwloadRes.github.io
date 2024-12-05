@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat 17 详细安装过程（Windows 11）"
+title: "Navicat 17 详细安装过程Windows 11"
 date:   2023-11-04
 tags: [Navicat,点击,连接,安装,数据库]
 comments: true

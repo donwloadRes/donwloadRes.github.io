@@ -1,6 +1,42 @@
 ---
 layout: post
-title: "树莓派4B部署yolov5：安装torch1.8.0+torchvision0.9.0"
+title: "树莓派4B部署yolov5安装torch180torchvision090
+date   20220312
+tags torchtorchvision安装树莓4B
+comments true
+author admin
+
+ 树莓派4B部署yolov5安装torch180torchvision090
+
+本仓库提供了一个资源文件用于在树莓派4B上部署yolov5并安装torch180和torchvision090以下是详细的安装步骤和说明
+
+ 资源文件内容
+
+ torch180torchvision090cp37cp37mlinuxarmv7lwhl适用于树莓派4B的torch和torchvision预编译包
+
+ 安装步骤
+
+1 下载资源文件
+   从本仓库下载torch180torchvision090cp37cp37mlinuxarmv7lwhl文件
+
+2 安装依赖
+   在树莓派上安装必要的依赖库
+   bash
+   sudo aptget update
+   sudo aptget install python3pip
+   
+
+3 安装torch和torchvision
+   使用pip安装下载的预编译包
+   bash
+   pip3 install torch180torchvision090cp37cp37mlinuxarmv7lwhl
+   
+
+4 验证安装
+   安装完成后可以通过以下命令验证torch和torchvision是否安装成功
+   bash
+   python3 c import torch printtorchversion
+   python3 c import torchvision printtorchvisionversion"
 date:   2022-03-12
 tags: [torch,torchvision,安装,树莓,4B]
 comments: true

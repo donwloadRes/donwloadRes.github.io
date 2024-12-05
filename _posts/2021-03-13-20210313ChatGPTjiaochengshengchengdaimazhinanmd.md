@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT 教程：生成代码指南"
+title: "ChatGPT 教程生成代码指南"
 date:   2020-12-29
 tags: [ChatGPT,代码,生成,教程,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浪潮英信服务器 NF5280M6 用户手册 V1.3"
+title: "浪潮英信服务器 NF5280M6 用户手册 V13"
 date:   2024-03-29
 tags: [用户手册,NF5280M6,服务器,英信,V1.3]
 comments: true

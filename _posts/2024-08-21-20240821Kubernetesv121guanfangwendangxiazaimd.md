@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes v1.21 官方文档下载"
+title: "Kubernetes v121 官方文档下载"
 date:   2021-02-10
 tags: [Kubernetes,文档,v1.21,指南,官方]
 comments: true

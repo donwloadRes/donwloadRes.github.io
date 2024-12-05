@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.10.10 安装包集合"
+title: "Python 31010 安装包集合"
 date:   2024-09-06
 tags: [安装包,Windows,10,Python,3.10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Burpsuite安装与使用教程(含JDK配置环境)"
+title: "Burpsuite安装与使用教程含JDK配置环境"
 date:   2021-01-14
 tags: [Burpsuite,JDK,教程,安装,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteus 8.0仿真全自动洗衣机"
+title: "Proteus 80仿真全自动洗衣机"
 date:   2023-01-24
 tags: [单片机,仿真,Proteus,8.0,51]
 comments: true

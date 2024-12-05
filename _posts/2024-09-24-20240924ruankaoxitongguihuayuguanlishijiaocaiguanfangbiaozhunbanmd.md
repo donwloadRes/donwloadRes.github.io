@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软考：系统规划与管理师教材（官方标准版）"
+title: "软考系统规划与管理师教材官方标准版"
 date:   2024-04-09
 tags: [软考,考试,规划,服务,教材]
 comments: true

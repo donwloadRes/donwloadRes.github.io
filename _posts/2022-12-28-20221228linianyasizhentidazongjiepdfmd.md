@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "历年雅思真题大总结.pdf"
+title: "历年雅思真题大总结pdf"
 date:   2023-08-13
 tags: [真题,雅思,考试,学习,总结]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级电容、蓄电池混合储能仿真Simulink模型"
+title: "超级电容蓄电池混合储能仿真Simulink模型"
 date:   2024-02-06
 tags: [仿真,Simulink,储能,模型,电容]
 comments: true

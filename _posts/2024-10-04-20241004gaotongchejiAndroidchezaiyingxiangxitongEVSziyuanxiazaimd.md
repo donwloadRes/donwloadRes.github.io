@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高通车机Android车载影像系统-EVS资源下载"
+title: "高通车机Android车载影像系统EVS资源下载"
 date:   2022-05-23
 tags: [EVS,HAL,文件,编译,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子科技大学密码学》考试试卷资源"
+title: "电子科技大学密码学考试试卷资源"
 date:   2024-05-29
 tags: [试卷,考试,密码学,例题,备考]
 comments: true

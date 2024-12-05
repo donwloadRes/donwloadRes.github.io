@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全数学基础_陈恭亮"
+title: "信息安全数学基础陈恭亮"
 date:   2022-05-11
 tags: [信息安全,数学,文档,基础,陈恭亮]
 comments: true

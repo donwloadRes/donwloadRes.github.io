@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的AD-DA采集（附件代码原码）"
+title: "基于FPGA的ADDA采集附件代码原码"
 date:   2020-02-28
 tags: [AD,转换,FPGA,DA,代码]
 comments: true

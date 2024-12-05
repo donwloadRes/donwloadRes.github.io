@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西储大学数据集官方版(完整版)"
+title: "西储大学数据集官方版完整版"
 date:   2020-12-03
 tags: [数据,西储,官方版,大学,子集]
 comments: true

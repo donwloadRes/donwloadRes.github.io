@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++使用SOCKET实现TCP-IP协议通讯最佳示例"
+title: "C使用SOCKET实现TCPIP协议通讯最佳示例"
 date:   2022-07-03
 tags: [连接,TCP,客户端,IP,示例]
 comments: true

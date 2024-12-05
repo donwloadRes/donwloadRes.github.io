@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV函数手册(带目录)pdf【中文】"
+title: "OpenCV函数手册带目录pdf中文"
 date:   2023-07-17
 tags: [手册,pdf,OpenCV,函数,目录]
 comments: true

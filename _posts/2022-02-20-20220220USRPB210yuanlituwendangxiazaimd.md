@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USRP-B210原理图文档下载"
+title: "USRPB210原理图文档下载"
 date:   2020-05-19
 tags: [USRP,B210,原理图,文档,B200]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript权威指南(第6版)(中文版) PDF 下载"
+title: "JavaScript权威指南第6版中文版 PDF 下载"
 date:   2024-06-12
 tags: [JavaScript,PDF,客户端,开发者,参考]
 comments: true

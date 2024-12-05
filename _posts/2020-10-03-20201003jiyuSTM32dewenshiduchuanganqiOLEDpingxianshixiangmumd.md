@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的温湿度传感器+OLED屏显示项目"
+title: "基于STM32的温湿度传感器OLED屏显示项目"
 date:   2020-06-09
 tags: [OLED,温湿度,DHT11,传感器,项目]
 comments: true

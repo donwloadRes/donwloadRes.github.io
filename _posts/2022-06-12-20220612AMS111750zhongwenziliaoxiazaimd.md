@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMS1117-5.0 中文资料下载"
+title: "AMS111750 中文资料下载"
 date:   2022-10-18
 tags: [AMS1117,5.0,PDF,下载,资料]
 comments: true

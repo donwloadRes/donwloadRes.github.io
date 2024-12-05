@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCL点云统计滤波的C++实现"
+title: "PCL点云统计滤波的C实现"
 date:   2024-09-09
 tags: [点云,滤波,离群,统计,PCL]
 comments: true

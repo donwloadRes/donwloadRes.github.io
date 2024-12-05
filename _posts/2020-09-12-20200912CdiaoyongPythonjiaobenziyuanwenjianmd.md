@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++调用Python脚本资源文件"
+title: "C调用Python脚本资源文件"
 date:   2024-11-16
 tags: [Python,C++,脚本,文件,调用]
 comments: true

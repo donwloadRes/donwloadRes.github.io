@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM 存储 V3000, V5000, V7000 更换硬盘详细步骤"
+title: "IBM 存储 V3000 V5000 V7000 更换硬盘详细步骤"
 date:   2022-08-31
 tags: [硬盘,IBM,V3000,报错,存储]
 comments: true

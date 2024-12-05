@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装.NET Framework 3.5的离线文件sxs"
+title: "Win10安装NET Framework 35的离线文件sxs"
 date:   2021-01-07
 tags: [NET,Framework,3.5,sxs,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCLSharp视觉框架源码：C#点云显示实现"
+title: "PCLSharp视觉框架源码C点云显示实现"
 date:   2023-03-30
 tags: [点云,PCLSharp,文件,dll,框架]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "瑞萨RH850-F1K-L单片机入门资料"
+title: "瑞萨RH850F1KL单片机入门资料"
 date:   2020-09-22
 tags: [单片机,瑞萨,RH850,入门,编程]
 comments: true

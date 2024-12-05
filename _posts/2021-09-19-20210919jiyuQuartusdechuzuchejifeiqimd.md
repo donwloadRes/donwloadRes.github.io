@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Quartus Ⅱ的出租车计费器"
+title: "基于Quartus 的出租车计费器"
 date:   2023-08-22
 tags: [计费,计程,出租车,Quartus,公里]
 comments: true

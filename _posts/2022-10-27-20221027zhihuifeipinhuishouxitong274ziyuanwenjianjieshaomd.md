@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智慧废品回收系统-2.7.4 资源文件介绍"
+title: "智慧废品回收系统274 资源文件介绍"
 date:   2023-02-10
 tags: [废品,回收,智能化,2.7,系统]
 comments: true

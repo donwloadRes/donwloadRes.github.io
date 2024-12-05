@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H5 PC 移动端 Qrcode.js实现扫一扫"
+title: "H5 PC 移动端 Qrcodejs实现扫一扫"
 date:   2023-04-01
 tags: [js,img,Qrcode,二维码,var]
 comments: true

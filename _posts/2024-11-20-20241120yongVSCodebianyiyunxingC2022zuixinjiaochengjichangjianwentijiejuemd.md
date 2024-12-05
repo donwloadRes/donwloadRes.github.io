@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用VSCode编译运行C++（2022最新教程）及常见问题解决"
+title: "用VSCode编译运行C2022最新教程及常见问题解决"
 date:   2022-11-22
 tags: [C++,VSCode,插件,运行,编译]
 comments: true

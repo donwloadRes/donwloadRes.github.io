@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "代码静态检查工具cppcheck（完全支持MISRA2012）"
+title: "代码静态检查工具cppcheck完全支持MISRA2012"
 date:   2023-08-20
 tags: [cppcheck,MISRA,misra,json,代码]
 comments: true

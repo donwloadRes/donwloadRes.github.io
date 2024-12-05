@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光谱仪源文件 CT 结构CT.rar 介绍"
+title: "光谱仪源文件 CT 结构CTrar 介绍"
 date:   2024-04-08
 tags: [CT,光谱仪,源文件,设计,Zemax]
 comments: true

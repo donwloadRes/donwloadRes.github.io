@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flowable 6.8 适配达梦数据库资源文件"
+title: "Flowable 68 适配达梦数据库资源文件"
 date:   2022-08-15
 tags: [适配,Flowable,数据库,文件,6.8]
 comments: true

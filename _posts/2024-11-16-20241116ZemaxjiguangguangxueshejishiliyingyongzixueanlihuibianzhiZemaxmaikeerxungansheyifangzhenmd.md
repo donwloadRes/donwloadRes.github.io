@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zemax激光光学设计实例应用——自学案例汇编之Zemax迈克尔逊干涉仪仿真"
+title: "Zemax激光光学设计实例应用自学案例汇编之Zemax迈克尔逊干涉仪仿真"
 date:   2020-01-03
 tags: [Zemax,设计,光学,软件,实例]
 comments: true

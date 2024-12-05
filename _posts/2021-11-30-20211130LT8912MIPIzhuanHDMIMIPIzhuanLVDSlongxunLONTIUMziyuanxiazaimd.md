@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT8912(MIPI转HDMI - MIPI转LVDS) - 龙迅LONTIUM 资源下载"
+title: "LT8912MIPI转HDMI  MIPI转LVDS  龙迅LONTIUM 资源下载"
 date:   2023-04-18
 tags: [LVDS,MIPI,LT8912,HDMI,mm]
 comments: true

@@ -1,6 +1,54 @@
 ---
 layout: post
-title: "全国城市划分JSON数据 + 城市拼音首字母"
+title: "全国城市划分JSON数据  城市拼音首字母
+date   20201121
+tags 首字母城市拼音namecode
+comments true
+author admin
+
+ 全国城市划分JSON数据  城市拼音首字母
+
+ 简介
+
+本资源文件提供了全国城市划分的JSON数据并且每个城市的名称都附带了拼音首字母这些数据可以用于各种需要城市信息的应用场景如地址选择城市分类显示等
+
+ 数据结构
+
+数据以JSON格式提供结构清晰易于解析每个城市的信息包括
+
+ name 城市名称
+ code 城市代码
+ city 城市下属区域列表
+ firstP 城市名称的拼音首字母
+
+示例
+
+json
+
+  
+    name 北京市
+    code 110000
+    city 
+      
+        name 市辖区
+        code 110100
+        area 
+          
+            name 东城区
+            code 110101
+            firstP D
+          
+          
+            name 西城区
+            code 110102
+            firstP X
+          
+          
+        
+        firstP S
+      
+    
+    firstP B"
 date:   2020-11-21
 tags: [首字母,城市,拼音,name,code]
 comments: true

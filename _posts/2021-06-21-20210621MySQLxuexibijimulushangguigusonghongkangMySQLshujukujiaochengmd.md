@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL学习笔记目录(尚硅谷宋红康MySQL数据库教程)"
+title: "MySQL学习笔记目录尚硅谷宋红康MySQL数据库教程"
 date:   2024-09-06
 tags: [MySQL,函数,笔记,学习,宋红康]
 comments: true

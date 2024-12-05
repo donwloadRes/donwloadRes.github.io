@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你学51单片机》教材PDF"
+title: "手把手教你学51单片机教材PDF"
 date:   2021-04-03
 tags: [51,单片机,PDF,手把手,教材]
 comments: true

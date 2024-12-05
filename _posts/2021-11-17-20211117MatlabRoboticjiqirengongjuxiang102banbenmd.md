@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab Robotic 机器人工具箱 10.2版本"
+title: "Matlab Robotic 机器人工具箱 102版本"
 date:   2023-05-09
 tags: [工具箱,MATLAB,版本,10.2,解压]
 comments: true

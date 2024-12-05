@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库练习题(50道)"
+title: "MySQL数据库练习题50道"
 date:   2021-03-18
 tags: [MySQL,练习题,数据库,50,学习者]
 comments: true

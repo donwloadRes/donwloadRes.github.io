@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 数据加载等待界面示例"
+title: "C WinForm 数据加载等待界面示例"
 date:   2022-01-16
 tags: [加载,界面,示例,数据,代码]
 comments: true

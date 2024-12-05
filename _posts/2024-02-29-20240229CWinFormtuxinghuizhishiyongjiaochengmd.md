@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 图形绘制实用教程"
+title: "C WinForm 图形绘制实用教程"
 date:   2022-03-26
 tags: [new,Point,Graphics,center,radius]
 comments: true

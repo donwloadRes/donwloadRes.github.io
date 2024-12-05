@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 绘制曲线图控件资源库"
+title: "VB60 绘制曲线图控件资源库"
 date:   2022-06-13
 tags: [控件,曲线图,资源库,绘制,实例]
 comments: true

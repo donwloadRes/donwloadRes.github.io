@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL安装配置教程(非常详细)"
+title: "MySQL安装配置教程非常详细"
 date:   2023-12-22
 tags: [MySQL,安装,教程,配置,详细]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30个HTML+CSS前端开发资源（完结篇）"
+title: "30个HTMLCSS前端开发资源完结篇"
 date:   2020-11-30
 tags: [前端开发,资源,HTML,30,CSS]
 comments: true

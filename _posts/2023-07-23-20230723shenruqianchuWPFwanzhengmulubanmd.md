@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出 WPF》 完整目录版"
+title: "深入浅出 WPF 完整目录版"
 date:   2021-12-11
 tags: [WPF,深入浅出,目录,学习,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOs7修改网卡配置文件不生效-亲测有效"
+title: "CentOs7修改网卡配置文件不生效亲测有效"
 date:   2020-08-25
 tags: [网卡,配置文件,eth0,nmcli,虚拟机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器插件HackBar安装方法（详细教程）"
+title: "谷歌浏览器插件HackBar安装方法详细教程"
 date:   2024-04-29
 tags: [HackBar,插件,浏览器,安装,谷歌]
 comments: true

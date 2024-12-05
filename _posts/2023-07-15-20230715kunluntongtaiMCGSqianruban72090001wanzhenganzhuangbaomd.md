@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "昆仑通态（MCGS）嵌入版7.2(09.0001)完整安装包"
+title: "昆仑通态MCGS嵌入版72090001完整安装包"
 date:   2023-03-25
 tags: [7.2,安装包,通态,MCGS,09.0001]
 comments: true

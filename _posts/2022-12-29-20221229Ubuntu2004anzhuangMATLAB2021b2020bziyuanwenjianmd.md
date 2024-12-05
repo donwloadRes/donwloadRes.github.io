@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 安装 MATLAB 2021b-2020b 资源文件"
+title: "Ubuntu 2004 安装 MATLAB 2021b2020b 资源文件"
 date:   2024-04-13
 tags: [安装,MATLAB,文件,ISO,Ubuntu]
 comments: true

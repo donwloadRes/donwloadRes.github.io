@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creo6.0 工程图环境的国标配置 GB"
+title: "Creo60 工程图环境的国标配置 GB"
 date:   2020-08-13
 tags: [工程图,Creo6.0,配置文件,国标,GB]
 comments: true

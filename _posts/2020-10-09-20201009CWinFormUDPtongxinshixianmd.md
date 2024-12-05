@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm UDP通信实现"
+title: "C WinForm UDP通信实现"
 date:   2023-03-24
 tags: [UDP,通信,C#,WinForm,端口号]
 comments: true

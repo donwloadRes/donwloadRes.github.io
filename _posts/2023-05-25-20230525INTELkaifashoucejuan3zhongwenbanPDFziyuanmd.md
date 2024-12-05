@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INTEL开发手册卷3(中文版) PDF资源"
+title: "INTEL开发手册卷3中文版 PDF资源"
 date:   2021-06-20
 tags: [手册,INTEL,中文版,Intel,文档]
 comments: true

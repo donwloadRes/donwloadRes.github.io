@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 Anaconda 新建环境安装python-pcl"
+title: "Win10 Anaconda 新建环境安装pythonpcl"
 date:   2020-04-13
 tags: [pcl,python,Anaconda,Python,安装]
 comments: true

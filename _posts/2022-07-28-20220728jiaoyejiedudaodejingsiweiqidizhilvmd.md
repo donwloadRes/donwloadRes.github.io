@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蕉爷解读道德经》：思维启迪之旅"
+title: "蕉爷解读道德经思维启迪之旅"
 date:   2022-02-23
 tags: [道德经,思维,蕉爷,智慧,解读]
 comments: true

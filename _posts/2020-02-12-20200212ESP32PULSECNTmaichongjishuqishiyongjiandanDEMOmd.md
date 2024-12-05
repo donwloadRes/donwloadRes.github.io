@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 PULSE CNT脉冲计数器使用（简单DEMO）"
+title: "ESP32 PULSE CNT脉冲计数器使用简单DEMO"
 date:   2023-02-11
 tags: [ESP32,引脚,脉冲,示例,计数器]
 comments: true

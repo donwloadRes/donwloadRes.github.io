@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 教程资源下载"
+title: "C 教程资源下载"
 date:   2022-07-15
 tags: [C#,教程,下载,开发者,编程]
 comments: true

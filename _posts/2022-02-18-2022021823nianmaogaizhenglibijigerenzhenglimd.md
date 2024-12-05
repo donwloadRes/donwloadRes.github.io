@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "23年毛概整理笔记（个人整理）"
+title: "23年毛概整理笔记个人整理"
 date:   2023-08-19
 tags: [笔记,毛概,毛泽东思想,特色,社会主义]
 comments: true

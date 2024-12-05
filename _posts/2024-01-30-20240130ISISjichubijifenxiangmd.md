@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISIS-基础笔记分享"
+title: "ISIS基础笔记分享"
 date:   2023-12-26
 tags: [ISIS,文档,笔记,分享,网络]
 comments: true

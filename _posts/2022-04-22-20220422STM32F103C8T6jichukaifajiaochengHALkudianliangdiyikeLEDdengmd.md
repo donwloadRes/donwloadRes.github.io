@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6基础开发教程（HAL库）—点亮第一颗LED灯"
+title: "STM32F103C8T6基础开发教程HAL库点亮第一颗LED灯"
 date:   2021-03-22
 tags: [LED,教程,点亮,代码,烧录]
 comments: true

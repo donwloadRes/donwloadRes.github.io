@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机项目设计：定时宠物喂食系统"
+title: "51单片机项目设计定时宠物喂食系统"
 date:   2022-07-13
 tags: [定时,喂食,51,单片机,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 6.5 下载地址"
+title: "CentOS 65 下载地址"
 date:   2022-06-16
 tags: [6.5,CentOS,iso,64,x86]
 comments: true

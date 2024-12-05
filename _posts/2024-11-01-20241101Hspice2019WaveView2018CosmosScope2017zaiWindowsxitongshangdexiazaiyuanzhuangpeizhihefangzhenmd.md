@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hspice 2019+WaveView 2018+CosmosScope 2017 在Windows系统上的下载与安装配置和仿真"
+title: "Hspice 2019WaveView 2018CosmosScope 2017 在Windows系统上的下载与安装配置和仿真"
 date:   2024-11-21
 tags: [仿真,WaveView,CosmosScope,Hspice,工具]
 comments: true

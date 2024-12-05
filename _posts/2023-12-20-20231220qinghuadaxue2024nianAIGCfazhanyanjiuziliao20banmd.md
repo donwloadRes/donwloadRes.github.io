@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学2024年AIGC发展研究资料2.0版"
+title: "清华大学2024年AIGC发展研究资料20版"
 date:   2020-08-20
 tags: [AIGC,2024,资料,2.0,清华大学]
 comments: true

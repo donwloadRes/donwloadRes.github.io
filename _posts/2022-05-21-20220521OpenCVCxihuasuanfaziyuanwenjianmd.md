@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV C++细化算法资源文件"
+title: "OpenCV C细化算法资源文件"
 date:   2020-05-14
 tags: [C++,OpenCV,细化,算法,源码]
 comments: true

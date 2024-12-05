@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB-T 2423.1-2008 电工电子产品环境试验资源下载"
+title: "GBT 242312008 电工电子产品环境试验资源下载"
 date:   2021-05-17
 tags: [试验,电工,电子产品,下载,资源]
 comments: true

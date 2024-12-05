@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "任天堂Switch xci文件提取与nsp-xci格式转换工具"
+title: "任天堂Switch xci文件提取与nspxci格式转换工具"
 date:   2020-02-09
 tags: [xci,nsp,文件,格式,转换]
 comments: true

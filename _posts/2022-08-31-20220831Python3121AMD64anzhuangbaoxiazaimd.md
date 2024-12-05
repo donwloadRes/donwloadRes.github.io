@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.12.1 AMD64 安装包下载"
+title: "Python 3121 AMD64 安装包下载"
 date:   2022-03-02
 tags: [Python,3.12,安装包,python,安装]
 comments: true

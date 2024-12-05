@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mkcert-v1.4.3-windows-amd64 使用说明"
+title: "mkcertv143windowsamd64 使用说明"
 date:   2022-10-27
 tags: [mkcert,证书,localhost,v1.4,windows]
 comments: true

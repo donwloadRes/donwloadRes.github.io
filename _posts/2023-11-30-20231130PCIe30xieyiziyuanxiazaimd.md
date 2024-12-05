@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 3.0协议资源下载"
+title: "PCIe 30协议资源下载"
 date:   2022-08-14
 tags: [PCIe,3.0,资源,协议,文件]
 comments: true

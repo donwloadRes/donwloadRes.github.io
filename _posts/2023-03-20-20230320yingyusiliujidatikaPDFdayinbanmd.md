@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英语四六级答题卡（PDF打印版）"
+title: "英语四六级答题卡PDF打印版"
 date:   2022-01-07
 tags: [答题卡,PDF,四六级,考试,打印]
 comments: true

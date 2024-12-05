@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用数理统计习题答案（孙荣恒版本）"
+title: "应用数理统计习题答案孙荣恒版本"
 date:   2021-06-10
 tags: [习题,孙荣恒,答案,数理统计,版本]
 comments: true

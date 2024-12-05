@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitar Pro 8.1 Mac 2024最新下载、安装、激活、换机图文教程"
+title: "Guitar Pro 81 Mac 2024最新下载安装激活换机图文教程"
 date:   2022-10-09
 tags: [Guitar,Pro,8.1,激活,换机]
 comments: true

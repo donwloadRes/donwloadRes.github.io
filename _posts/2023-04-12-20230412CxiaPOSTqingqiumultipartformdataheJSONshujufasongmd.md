@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 下 POST 请求：multipart-form-data 和 JSON 数据发送"
+title: "C 下 POST 请求multipartformdata 和 JSON 数据发送"
 date:   2024-06-25
 tags: [C#,JSON,POST,发送,data]
 comments: true

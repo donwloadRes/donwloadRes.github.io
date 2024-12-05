@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国标28181：接收设备注册指南"
+title: "国标28181接收设备注册指南"
 date:   2024-08-11
 tags: [GB28181,注册,设备,测试工具,28181]
 comments: true

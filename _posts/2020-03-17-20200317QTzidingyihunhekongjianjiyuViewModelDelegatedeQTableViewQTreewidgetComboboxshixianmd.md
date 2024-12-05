@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 自定义混合控件——基于View-Model-Delegate的QTableView-QTreewidget-Combobox实现"
+title: "QT 自定义混合控件基于ViewModelDelegate的QTableViewQTreewidgetCombobox实现"
 date:   2023-11-21
 tags: [QT,控件,自定义,View,Model]
 comments: true

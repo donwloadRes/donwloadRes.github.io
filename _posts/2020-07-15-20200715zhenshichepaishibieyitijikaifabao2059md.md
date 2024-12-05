@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "臻识车牌识别一体机开发包2.0.5.9"
+title: "臻识车牌识别一体机开发包2059"
 date:   2022-08-06
 tags: [车牌,识别,一体机,开发包,开发]
 comments: true

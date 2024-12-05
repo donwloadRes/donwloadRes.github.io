@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux虚拟机安装和设置CentOS 7.6完全指南"
+title: "Linux虚拟机安装和设置CentOS 76完全指南"
 date:   2024-09-10
 tags: [虚拟机,安装,Linux,CentOS,7.6]
 comments: true

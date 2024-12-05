@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI-德州仪器高性能模拟器件高校应用指南"
+title: "TI德州仪器高性能模拟器件高校应用指南"
 date:   2021-10-29
 tags: [TI,应用,器件,德州仪器,模拟]
 comments: true

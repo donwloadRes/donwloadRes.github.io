@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VHDL实用教程[完整版] - 潘松 & 王国栋"
+title: "VHDL实用教程完整版  潘松  王国栋"
 date:   2020-02-08
 tags: [VHDL,设计,EDA,实用教程,潘松]
 comments: true

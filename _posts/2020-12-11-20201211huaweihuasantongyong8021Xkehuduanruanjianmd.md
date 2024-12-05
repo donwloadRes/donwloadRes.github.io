@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为华三通用802.1X客户端软件"
+title: "华为华三通用8021X客户端软件"
 date:   2023-12-27
 tags: [802.1,华三,华为,客户端,软件]
 comments: true

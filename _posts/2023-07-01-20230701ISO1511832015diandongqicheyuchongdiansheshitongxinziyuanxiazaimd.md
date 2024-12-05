@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO15118-3-2015 电动汽车与充电设施通信 资源下载"
+title: "ISO1511832015 电动汽车与充电设施通信 资源下载"
 date:   2024-03-17
 tags: [电动汽车,充电,ISO15118,2015,设施]
 comments: true

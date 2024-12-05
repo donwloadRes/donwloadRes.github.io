@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机系统结构（第五版）李学干 资源下载"
+title: "计算机系统结构第五版李学干 资源下载"
 date:   2024-06-05
 tags: [计算机系统,PPT,结构,第五版,李学干]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB程序-按物理光学模型生成PSF"
+title: "MATLAB程序按物理光学模型生成PSF"
 date:   2022-12-21
 tags: [MATLAB,光学系统,PSF,物理光学,光学]
 comments: true

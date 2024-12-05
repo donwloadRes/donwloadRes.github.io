@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "重庆市乡镇级区划图（SHP格式）"
+title: "重庆市乡镇级区划图SHP格式"
 date:   2021-08-21
 tags: [SHP,ArcGIS,重庆市,资源,乡镇级]
 comments: true

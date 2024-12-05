@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python小游戏集合（开源、免费下载）"
+title: "Python小游戏集合开源免费下载"
 date:   2021-08-30
 tags: [游戏,Python,小游戏,开源,仓库]
 comments: true

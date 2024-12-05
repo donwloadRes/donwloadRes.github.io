@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天线理论与设计 第二版 课后答案 (Warren L.Stutzman 朱守正)"
+title: "天线理论与设计 第二版 课后答案 Warren LStutzman 朱守正"
 date:   2023-05-03
 tags: [天线,课后,Stutzman,朱守,Warren]
 comments: true

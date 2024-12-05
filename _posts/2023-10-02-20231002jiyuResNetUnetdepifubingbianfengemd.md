@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ResNet+Unet的皮肤病变分割"
+title: "基于ResNetUnet的皮肤病变分割"
 date:   2020-08-06
 tags: [分割,病变,模型,皮肤,Unet]
 comments: true

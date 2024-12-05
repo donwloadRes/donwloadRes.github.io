@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QuickReport 6 for DelphiXE 10.3 Rio 资源下载"
+title: "QuickReport 6 for DelphiXE 103 Rio 资源下载"
 date:   2024-06-25
 tags: [DelphiXE,10.3,Rio,文件,资源]
 comments: true

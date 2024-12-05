@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32F4xx单片机-FreeRTOS10.2.0-LWIP2.0.2移植资源文件介绍"
+title: "GD32F4xx单片机FreeRTOS1020LWIP202移植资源文件介绍"
 date:   2021-07-20
 tags: [单片机,GD32F4xx,FreeRTOS10.2,LWIP2.0,移植]
 comments: true

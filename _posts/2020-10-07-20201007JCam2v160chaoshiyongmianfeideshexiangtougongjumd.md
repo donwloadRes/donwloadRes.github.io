@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JCam2 v1.6.0 - 超实用免费的摄像头工具"
+title: "JCam2 v160  超实用免费的摄像头工具"
 date:   2022-09-16
 tags: [JCam2,摄像头,v1.6,Windows,64bit]
 comments: true

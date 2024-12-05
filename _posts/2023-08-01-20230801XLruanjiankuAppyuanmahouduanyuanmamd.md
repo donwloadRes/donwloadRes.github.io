@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XL软件库App源码+后端源码"
+title: "XL软件库App源码后端源码"
 date:   2020-12-05
 tags: [源码,数据库,App,XL,db]
 comments: true

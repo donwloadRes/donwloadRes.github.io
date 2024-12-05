@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61850标准中文版 全 - 电力系统自动化关键标准"
+title: "IEC61850标准中文版 全  电力系统自动化关键标准"
 date:   2022-06-21
 tags: [IEC,标准,IEC61850,61850,自动化]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普中科技单片机HC6800-EM3 V3.0资料下载"
+title: "普中科技单片机HC6800EM3 V30资料下载"
 date:   2020-08-03
 tags: [资料,单片机,普中,HC6800,仓库]
 comments: true

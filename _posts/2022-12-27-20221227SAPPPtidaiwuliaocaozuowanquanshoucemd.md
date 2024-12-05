@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP-PP 替代物料操作完全手册"
+title: "SAPPP 替代物料操作完全手册"
 date:   2021-09-20
 tags: [物料,替代,SAP,切换,设置]
 comments: true

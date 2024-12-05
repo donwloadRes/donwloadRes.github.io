@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7.0 安装指南"
+title: "Python 370 安装指南"
 date:   2021-06-16
 tags: [安装,Python,3.7,点击,安装包]
 comments: true

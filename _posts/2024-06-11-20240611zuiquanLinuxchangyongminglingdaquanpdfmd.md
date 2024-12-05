@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全Linux常用命令大全.pdf"
+title: "最全Linux常用命令大全pdf"
 date:   2023-09-08
 tags: [Linux,命令,常用命令,文件,最全]
 comments: true

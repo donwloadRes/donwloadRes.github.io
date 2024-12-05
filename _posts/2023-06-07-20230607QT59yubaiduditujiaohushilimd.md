@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9 与百度地图交互示例"
+title: "QT59 与百度地图交互示例"
 date:   2024-03-11
 tags: [QT,交互,调用,地图,QT5.9]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT.fx 1.7.0 x64 Windows + Linux 安装包合集"
+title: "MQTTfx 170 x64 Windows  Linux 安装包合集"
 date:   2024-06-13
 tags: [MQTT,fx,安装包,IoT,代理服务器]
 comments: true

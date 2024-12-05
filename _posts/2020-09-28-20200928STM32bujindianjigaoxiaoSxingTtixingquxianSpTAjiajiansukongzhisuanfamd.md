@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32步进电机高效S型-T梯形曲线SpTA加减速控制算法"
+title: "STM32步进电机高效S型T梯形曲线SpTA加减速控制算法"
 date:   2021-02-22
 tags: [STM32,减速,曲线,步进,电机]
 comments: true

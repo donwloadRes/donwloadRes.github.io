@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SuiteCRM v8.4.2 中文语言包"
+title: "SuiteCRM v842 中文语言包"
 date:   2022-03-06
 tags: [SuiteCRM,语言包,v8.4,中文,https]
 comments: true

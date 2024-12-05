@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LECPServer-1.0.21 免费开源的工业自动化组态软件"
+title: "LECPServer1021 免费开源的工业自动化组态软件"
 date:   2020-12-02
 tags: [LECPServer,开源,自动化,PLC,组态]
 comments: true

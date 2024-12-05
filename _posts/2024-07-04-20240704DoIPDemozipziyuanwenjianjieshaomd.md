@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DoIP_Demo.zip 资源文件介绍"
+title: "DoIPDemozip 资源文件介绍"
 date:   2020-02-25
 tags: [DoIP,文件,Demo,zip,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS中处理scanf, gets, fscanf, fopen等函数的安全性问题指南"
+title: "VS中处理scanf gets fscanf fopen等函数的安全性问题指南"
 date:   2023-12-12
 tags: [scanf,安全,函数,gets,fopen]
 comments: true

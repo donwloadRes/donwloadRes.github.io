@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 16.04 LTS 下载、安装、环境搭建及问题归总"
+title: "Ubuntu 1604 LTS 下载安装环境搭建及问题归总"
 date:   2020-04-21
 tags: [LTS,Ubuntu,16.04,下载,搭建]
 comments: true

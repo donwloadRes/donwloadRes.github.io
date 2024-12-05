@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+RC522刷卡模块资源文件"
+title: "STM32RC522刷卡模块资源文件"
 date:   2023-05-06
 tags: [STM32,刷卡,RC522,模块,文件]
 comments: true

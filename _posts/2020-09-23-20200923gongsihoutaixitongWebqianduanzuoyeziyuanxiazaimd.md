@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "公司后台系统（Web前端作业）资源下载"
+title: "公司后台系统Web前端作业资源下载"
 date:   2023-12-08
 tags: [Web,文件,资源,页面,下载]
 comments: true

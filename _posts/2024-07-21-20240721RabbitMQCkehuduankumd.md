@@ -1,6 +1,60 @@
 ---
 layout: post
-title: "RabbitMQ C++ 客户端库"
+title: "RabbitMQ C 客户端库
+date   20210519
+tags RabbitMQCclient客户端rabbitmq
+comments true
+author admin
+
+ RabbitMQ C 客户端库
+
+ 简介
+
+本仓库提供了一个基于 rabbitmqc 库封装的 RabbitMQ C 客户端库适用于 Linux 环境该库旨在简化 RabbitMQ 在 C 项目中的使用提供更友好的 API 接口方便开发者快速集成 RabbitMQ 消息队列功能
+
+ 功能特点
+
+ 简单易用封装了 rabbitmqc 库的底层细节提供更直观的 C 接口
+ 跨平台支持目前主要支持 Linux 环境未来可能会扩展到其他平台
+ 高性能基于 rabbitmqc 库保证了消息队列的高效处理能力
+ 灵活配置支持多种 RabbitMQ 配置选项满足不同场景的需求
+
+ 使用说明
+
+ 环境要求
+
+ Linux 操作系统
+ C 编译器支持 C11 及以上标准
+ CMake 构建工具
+ RabbitMQ 服务器
+
+ 编译与安装
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourusernamerabbimqclientgit
+   cd rabbimqclient
+   
+
+2 编译项目
+   bash
+   mkdir build
+   cd build
+   cmake 
+   make
+   
+
+3 安装库
+   bash
+   sudo make install
+   
+
+ 示例代码
+
+以下是一个简单的使用示例展示了如何使用该库连接到 RabbitMQ 服务器并发送消息
+
+cpp
+include RabbitMQClienth"
 date:   2021-05-19
 tags: [RabbitMQ,C++,client,客户端,rabbitmq]
 comments: true

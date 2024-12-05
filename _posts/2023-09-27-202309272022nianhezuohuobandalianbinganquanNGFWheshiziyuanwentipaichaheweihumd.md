@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022年【合作伙伴大练兵-安全】NGFW盒式资源问题排查和维护"
+title: "2022年合作伙伴大练兵安全NGFW盒式资源问题排查和维护"
 date:   2024-06-27
 tags: [NGFW,资源,盒式,排查,维护]
 comments: true

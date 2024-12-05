@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCVSharp 4.5.5 微信二维码识别（C#）"
+title: "OpenCVSharp 455 微信二维码识别C"
 date:   2022-06-12
 tags: [OpenCVSharp,二维码,微信,识别,NET]
 comments: true

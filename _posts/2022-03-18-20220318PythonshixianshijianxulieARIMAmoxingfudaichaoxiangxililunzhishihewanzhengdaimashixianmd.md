@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现时间序列ARIMA模型（附带超详细理论知识和完整代码实现）"
+title: "Python实现时间序列ARIMA模型附带超详细理论知识和完整代码实现"
 date:   2022-05-29
 tags: [ARIMA,模型,序列,理论知识,检验]
 comments: true

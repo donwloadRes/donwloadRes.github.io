@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E77(stm32wle5ccu6) Lora pingpong工程"
+title: "E77stm32wle5ccu6 Lora pingpong工程"
 date:   2023-06-06
 tags: [工程,E77,超时,stm32wle5ccu6,Lora]
 comments: true

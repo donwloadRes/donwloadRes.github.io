@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 学生信息管理系统大作业资源下载"
+title: "C 学生信息管理系统大作业资源下载"
 date:   2023-10-05
 tags: [C#,信息管理系统,数据库,学生,作业]
 comments: true

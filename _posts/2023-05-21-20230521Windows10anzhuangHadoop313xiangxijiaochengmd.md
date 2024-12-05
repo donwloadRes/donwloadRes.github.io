@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10安装Hadoop 3.1.3详细教程"
+title: "Windows10安装Hadoop 313详细教程"
 date:   2024-03-03
 tags: [Hadoop,安装,教程,3.1,下载]
 comments: true

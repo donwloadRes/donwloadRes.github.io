@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程伦理：信息与大数据的伦理问题"
+title: "工程伦理信息与大数据的伦理问题"
 date:   2022-11-05
 tags: [伦理,信息,数据,问题,案例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决IAR升级后遇到的J-Link连接问题"
+title: "解决IAR升级后遇到的JLink连接问题"
 date:   2020-04-05
 tags: [Link,DLL,IAR,文件,连接]
 comments: true

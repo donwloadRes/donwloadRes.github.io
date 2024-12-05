@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SolidWorks官方教程.pdf"
+title: "SolidWorks官方教程pdf"
 date:   2024-07-30
 tags: [SolidWorks,教程,pdf,学习,官方]
 comments: true

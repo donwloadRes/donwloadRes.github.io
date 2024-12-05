@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Qt简易截图工具]"
+title: "Qt简易截图工具"
 date:   2024-12-01
 tags: [截图,Qt,区域,项目,工具]
 comments: true

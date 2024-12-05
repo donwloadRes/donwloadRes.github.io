@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux RAR 解压安装包（tar）下载指南"
+title: "Linux RAR 解压安装包tar下载指南"
 date:   2024-11-13
 tags: [安装包,解压,RAR,tar,Linux]
 comments: true

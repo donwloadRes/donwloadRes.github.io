@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "现代光学基础（钟锡华，2003年，北大版）PDF 下载"
+title: "现代光学基础钟锡华2003年北大版PDF 下载"
 date:   2023-10-18
 tags: [锡华,2003,光学,pdf,北大]
 comments: true

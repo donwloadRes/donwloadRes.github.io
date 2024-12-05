@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIXhawk-PX4-APM开发资源合集"
+title: "PIXhawkPX4APM开发资源合集"
 date:   2020-11-12
 tags: [PIXhawk,PX4,源码,飞行,APM]
 comments: true

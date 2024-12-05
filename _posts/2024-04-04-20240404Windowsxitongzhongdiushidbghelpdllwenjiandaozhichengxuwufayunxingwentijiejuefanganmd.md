@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统中丢失dbghelp.dll文件导致程序无法运行问题解决方案"
+title: "Windows系统中丢失dbghelpdll文件导致程序无法运行问题解决方案"
 date:   2020-09-04
 tags: [Windows,dll,文件,dbghelp,丢失]
 comments: true

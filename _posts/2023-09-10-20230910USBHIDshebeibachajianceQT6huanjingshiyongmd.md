@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB HID设备拔插检测 - QT6环境适用"
+title: "USB HID设备拔插检测  QT6环境适用"
 date:   2023-09-04
 tags: [USB,HID,QT6,设备,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普中51-单核-A2开发板资料下载"
+title: "普中51单核A2开发板资料下载"
 date:   2021-03-16
 tags: [开发板,普中,51,A2,单核]
 comments: true

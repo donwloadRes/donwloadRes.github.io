@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品33 - PDF阅读器"
+title: "QtC项目作品33  PDF阅读器"
 date:   2021-12-20
 tags: [PDF,预览,Qt,文件,支持]
 comments: true

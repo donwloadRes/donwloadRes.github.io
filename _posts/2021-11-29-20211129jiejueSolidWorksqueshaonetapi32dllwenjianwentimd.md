@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决SolidWorks缺少netapi32.dll文件问题"
+title: "解决SolidWorks缺少netapi32dll文件问题"
 date:   2021-03-17
 tags: [dll,netapi32,SolidWorks,文件,VBE6EXT]
 comments: true

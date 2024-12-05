@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GRASP10[1].3.0培训教程(公开).pdf"
+title: "GRASP10130培训教程公开pdf"
 date:   2023-05-15
 tags: [GRASP,教程,仿真,3.0,天线]
 comments: true

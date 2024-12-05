@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows镜像包大全（附百度云下载链接）"
+title: "Windows镜像包大全附百度云下载链接"
 date:   2023-08-08
 tags: [Windows,安装,镜像,下载,系统]
 comments: true

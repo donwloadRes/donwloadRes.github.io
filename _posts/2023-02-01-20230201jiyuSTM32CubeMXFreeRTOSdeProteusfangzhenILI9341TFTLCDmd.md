@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32CubeMX+FreeRTOS的Proteus仿真ILI9341 TFT LCD"
+title: "基于STM32CubeMXFreeRTOS的Proteus仿真ILI9341 TFT LCD"
 date:   2023-04-23
 tags: [LCD,仿真,Proteus,TFT,ILI9341]
 comments: true

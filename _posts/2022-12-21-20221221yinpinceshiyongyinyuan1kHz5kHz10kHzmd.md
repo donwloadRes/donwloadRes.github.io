@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音频测试用音源：1kHz、5kHz、10kHz"
+title: "音频测试用音源1kHz5kHz10kHz"
 date:   2021-11-10
 tags: [音源,音频,测试,下载,资源]
 comments: true

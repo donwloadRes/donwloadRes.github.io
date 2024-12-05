@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "社会信用代码生成器(18位)"
+title: "社会信用代码生成器18位"
 date:   2023-04-25
 tags: [代码,信用,18,生成,代码生成]
 comments: true

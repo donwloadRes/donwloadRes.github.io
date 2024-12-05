@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot 集成海康SDK-Java"
+title: "Spring Boot 集成海康SDKJava"
 date:   2023-03-17
 tags: [SDK,Java,Spring,Boot,海康]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "检查面多边形图斑内角角度 (ArcGIS 工具箱 - 开源)"
+title: "检查面多边形图斑内角角度 ArcGIS 工具箱  开源"
 date:   2022-08-04
 tags: [工具箱,ArcGIS,GIS,内角,多边形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新大陆物联网4.0全栈接线图资源下载"
+title: "新大陆物联网40全栈接线图资源下载"
 date:   2020-07-06
 tags: [接线图,设备,4.0,仓库,联网]
 comments: true

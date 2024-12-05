@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用小工具：像素尺子"
+title: "实用小工具像素尺子"
 date:   2020-02-17
 tags: [尺子,像素,用户,精确测量,支持]
 comments: true

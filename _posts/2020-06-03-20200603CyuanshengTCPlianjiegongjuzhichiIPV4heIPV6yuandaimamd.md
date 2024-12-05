@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 原生TCP连接工具支持IPV4和IPV6 源代码"
+title: "C 原生TCP连接工具支持IPV4和IPV6 源代码"
 date:   2020-02-17
 tags: [源代码,IPV4,IPV6,工具,C#]
 comments: true

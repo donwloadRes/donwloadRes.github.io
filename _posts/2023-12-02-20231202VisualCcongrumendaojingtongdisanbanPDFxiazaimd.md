@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++从入门到精通第三版 PDF 下载"
+title: "Visual C从入门到精通第三版 PDF 下载"
 date:   2020-06-10
 tags: [C++,Visual,入门,PDF,第三版]
 comments: true

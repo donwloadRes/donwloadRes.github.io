@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H264视频解压缩封装库（C++）"
+title: "H264视频解压缩封装库C"
 date:   2020-05-09
 tags: [H264,解压缩,封装,视频,FFmpeg]
 comments: true

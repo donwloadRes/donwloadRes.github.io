@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6安装Maven指南"
+title: "CentOS 76安装Maven指南"
 date:   2022-02-05
 tags: [Maven,bash,maven,CentOS,7.6]
 comments: true

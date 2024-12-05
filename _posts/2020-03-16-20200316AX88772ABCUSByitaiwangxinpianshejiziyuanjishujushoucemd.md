@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AX88772A-B-C USB以太网芯片设计资源及数据手册"
+title: "AX88772ABC USB以太网芯片设计资源及数据手册"
 date:   2020-11-19
 tags: [芯片,以太网,设计,USB,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言课程设计资源文件介绍"
+title: "C语言课程设计资源文件介绍"
 date:   2021-04-06
 tags: [课程设计,C++,任务书,资源,语言]
 comments: true

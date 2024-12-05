@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CryptoJS v3.1.2加密工具下载"
+title: "CryptoJS v312加密工具下载"
 date:   2022-12-16
 tags: [加密,CryptoJS,v3.1,文件,工具]
 comments: true

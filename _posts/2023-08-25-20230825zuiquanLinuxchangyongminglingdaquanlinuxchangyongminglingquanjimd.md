@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全Linux常用命令大全-linux常用命令全集"
+title: "最全Linux常用命令大全linux常用命令全集"
 date:   2022-12-28
 tags: [Linux,常用命令,最全,大全,资源]
 comments: true

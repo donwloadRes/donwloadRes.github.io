@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程大作业-网络教学系统资源下载"
+title: "软件工程大作业网络教学系统资源下载"
 date:   2024-05-08
 tags: [系统,教学系统,理解,软件工程,帮助]
 comments: true

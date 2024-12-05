@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMP项目管理培训课件PPT版(完整版)"
+title: "PMP项目管理培训课件PPT版完整版"
 date:   2022-06-03
 tags: [课件,PMP,项目管理,PPT,完整版]
 comments: true

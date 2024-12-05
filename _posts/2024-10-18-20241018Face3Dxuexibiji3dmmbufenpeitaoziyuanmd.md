@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Face3D学习笔记 - 3dmm部分配套资源"
+title: "Face3D学习笔记  3dmm部分配套资源"
 date:   2020-01-13
 tags: [学习,Face3D,3DMM,3D,笔记]
 comments: true

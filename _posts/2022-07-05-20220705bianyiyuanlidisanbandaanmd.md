@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理（第三版）答案"
+title: "编译原理第三版答案"
 date:   2023-12-01
 tags: [编译,答案,原理,第三版,学习]
 comments: true

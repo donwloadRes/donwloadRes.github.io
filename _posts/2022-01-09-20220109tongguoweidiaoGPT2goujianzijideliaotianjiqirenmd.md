@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通过微调 GPT-2 构建自己的聊天机器人"
+title: "通过微调 GPT2 构建自己的聊天机器人"
 date:   2020-10-29
 tags: [GPT,机器人,聊天,模型,微调]
 comments: true

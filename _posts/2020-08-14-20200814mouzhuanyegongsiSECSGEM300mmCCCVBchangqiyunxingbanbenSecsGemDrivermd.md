@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "某专业公司SECS-GEM 300mm C-C++、C#、VB长期运行版本，SecsGemDriver"
+title: "某专业公司SECSGEM 300mm CCCVB长期运行版本SecsGemDriver"
 date:   2023-03-05
 tags: [SecsGemDriver,SECS,GEM,C++,C#]
 comments: true

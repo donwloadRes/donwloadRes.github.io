@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSim教程一——OpenSim 入门介绍"
+title: "OpenSim教程一OpenSim 入门介绍"
 date:   2020-11-18
 tags: [OpenSim,模型,文件夹,肌肉,骨骼]
 comments: true

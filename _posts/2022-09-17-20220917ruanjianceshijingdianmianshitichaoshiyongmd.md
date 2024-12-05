@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件测试经典面试题 (超实用)"
+title: "软件测试经典面试题 超实用"
 date:   2021-12-26
 tags: [测试,软件测试,面试,理解,面试题]
 comments: true

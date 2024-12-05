@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复杂网络理论及其应用.pdf"
+title: "复杂网络理论及其应用pdf"
 date:   2023-08-04
 tags: [网络,复杂,网络理论,应用,pdf]
 comments: true

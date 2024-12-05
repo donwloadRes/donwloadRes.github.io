@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ContextCapture用户指南（中文版）下载仓库"
+title: "ContextCapture用户指南中文版下载仓库"
 date:   2022-08-17
 tags: [ContextCapture,指南,中文版,用户,仓库]
 comments: true

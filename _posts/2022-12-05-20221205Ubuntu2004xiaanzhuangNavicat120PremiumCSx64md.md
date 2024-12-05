@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 下安装 Navicat 120 Premium CS x64"
+title: "Ubuntu 2004 下安装 Navicat 120 Premium CS x64"
 date:   2020-02-01
 tags: [Navicat,x64,navicat,120,Premium]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.10 Windows 安装包及源码"
+title: "OpenCV 410 Windows 安装包及源码"
 date:   2021-06-16
 tags: [OpenCV,源码,安装包,4.10,Windows]
 comments: true

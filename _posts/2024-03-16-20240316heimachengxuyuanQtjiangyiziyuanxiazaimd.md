@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黑马程序员-Qt讲义资源下载"
+title: "黑马程序员Qt讲义资源下载"
 date:   2022-10-30
 tags: [QT,讲义,程序员,Qt,黑马]
 comments: true

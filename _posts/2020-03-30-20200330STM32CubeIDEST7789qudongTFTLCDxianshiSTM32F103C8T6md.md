@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeIDE：ST7789驱动TFTLCD显示（STM32F103C8T6）"
+title: "STM32CubeIDEST7789驱动TFTLCD显示STM32F103C8T6"
 date:   2023-11-13
 tags: [ST7789,STM32F103C8T6,STM32CubeIDE,开发者,代码]
 comments: true

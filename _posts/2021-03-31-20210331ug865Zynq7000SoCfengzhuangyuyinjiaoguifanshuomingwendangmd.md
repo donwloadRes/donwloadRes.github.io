@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ug865-Zynq-7000 SoC 封装与引脚规范说明文档"
+title: "ug865Zynq7000 SoC 封装与引脚规范说明文档"
 date:   2020-04-05
 tags: [Zynq,7000,文档,SoC,引脚]
 comments: true

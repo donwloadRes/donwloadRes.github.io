@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端开发实例资源：HTML+CSS+JavaScript（157个实例）"
+title: "前端开发实例资源HTMLCSSJavaScript157个实例"
 date:   2024-05-28
 tags: [实例,前端开发,开发者,HTML,CSS]
 comments: true

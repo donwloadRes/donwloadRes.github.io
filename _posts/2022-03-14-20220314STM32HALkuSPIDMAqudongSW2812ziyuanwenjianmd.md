@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库+SPI+DMA驱动SW2812资源文件"
+title: "STM32 HAL库SPIDMA驱动SW2812资源文件"
 date:   2020-12-16
 tags: [SW2812,SPI,DMA,STM32,驱动]
 comments: true

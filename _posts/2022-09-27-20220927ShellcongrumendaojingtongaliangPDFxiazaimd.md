@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shell从入门到精通（阿良） PDF 下载"
+title: "Shell从入门到精通阿良 PDF 下载"
 date:   2021-05-05
 tags: [Shell,阿良,PDF,编程,入门]
 comments: true

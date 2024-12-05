@@ -1,6 +1,62 @@
 ---
 layout: post
-title: "xshell：使Rust成为更好的工具"
+title: "xshell使Rust成为更好的工具
+date   20230529
+tags xshellletreadfileerr
+comments true
+author admin
+
+ xshell使Rust成为更好的工具
+
+xshell 提供了一组跨平台实用程序用于编写符合人体工程学的bash脚本通过使用 xshell您可以轻松地在 Rust 中编写类似于 bash 脚本的命令行工具
+
+ 功能介绍
+
+ 命令执行使用 cmd 宏可以方便地执行命令并读取输出例如
+  rust
+  let name  Julia
+  let output  cmdecho hello nameread
+  asserteqoutput hello Julia
+  
+
+ 文件读取使用 readfile 函数可以读取文件内容如果文件不存在则会返回错误信息例如
+  rust
+  let err  readfilefeelingluckytxtunwraperr
+  asserteq
+      errtostring
+      feelingluckytxt no such file or directory os error 2
+  
+  
+
+ 使用示例
+
+以下是一个简单的示例展示了如何使用 xshell 执行命令并读取文件内容
+
+rust
+use xshellcmd readfile
+
+fn main  Result Boxdyn stderrorError 
+    let name  Julia
+    let output  cmdecho hello nameread
+    asserteqoutput hello Julia
+
+    let err  readfilefeelingluckytxtunwraperr
+    asserteq
+        errtostring
+        feelingluckytxt no such file or directory os error 2
+    
+
+    Ok
+
+
+
+ 安装与使用
+
+要使用 xshell您需要在 Cargotoml 文件中添加依赖项
+
+toml
+dependencies
+xshell  01"
 date:   2023-05-29
 tags: [xshell,let,read,file,err]
 comments: true

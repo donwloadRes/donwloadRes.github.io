@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H7xx参考手册(中文)"
+title: "STM32H7xx参考手册中文"
 date:   2020-02-07
 tags: [参考手册,STM32H7xx,STM32,中文,STM32H7]
 comments: true

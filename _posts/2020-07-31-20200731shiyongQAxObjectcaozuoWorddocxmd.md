@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用QAxObject操作Word.docx"
+title: "使用QAxObject操作Worddocx"
 date:   2022-09-01
 tags: [文档,Word,QAxObject,docx,Qt]
 comments: true

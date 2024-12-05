@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Rainbow Folders（彩虹文件夹）2023最新版插件"
+title: "Unity Rainbow Folders彩虹文件夹2023最新版插件"
 date:   2020-09-18
 tags: [Unity,插件,文件夹,图标,目录]
 comments: true

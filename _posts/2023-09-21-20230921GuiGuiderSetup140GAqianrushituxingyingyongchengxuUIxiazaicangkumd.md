@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gui-Guider-Setup-1.4.0-GA 嵌入式图形应用程序UI 下载仓库"
+title: "GuiGuiderSetup140GA 嵌入式图形应用程序UI 下载仓库"
 date:   2020-04-27
 tags: [嵌入式,Gui,Guider,UI,应用程序]
 comments: true

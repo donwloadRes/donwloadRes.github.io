@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "freeswitch 1.10.9 编译安装资源包"
+title: "freeswitch 1109 编译安装资源包"
 date:   2022-04-30
 tags: [freeswitch,tar,编译,安装,1.10]
 comments: true

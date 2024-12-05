@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN与CAN-FD报文结构对比"
+title: "CAN与CANFD报文结构对比"
 date:   2024-04-01
 tags: [FD,报文,对比,结构,机制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EasyVision 5.30 资源文件下载"
+title: "EasyVision 530 资源文件下载"
 date:   2023-09-09
 tags: [EasyVision,5.30,注册码,文件,留言]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高清版本 电机故障诊断技术.pdf 下载仓库"
+title: "高清版本 电机故障诊断技术pdf 下载仓库"
 date:   2023-06-08
 tags: [故障诊断,电机,pdf,高清,技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 智能宠物投喂器（APP+STM32+重量控制）"
+title: "物联网毕设  智能宠物投喂器APPSTM32重量控制"
 date:   2023-06-02
 tags: [APP,宠物,STM32,重量,联网]
 comments: true

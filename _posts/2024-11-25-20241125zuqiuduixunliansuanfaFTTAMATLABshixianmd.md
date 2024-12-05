@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "足球队训练算法 (FTTA) - MATLAB实现"
+title: "足球队训练算法 FTTA  MATLAB实现"
 date:   2021-04-05
 tags: [算法,FTTA,优化,MATLAB,训练]
 comments: true

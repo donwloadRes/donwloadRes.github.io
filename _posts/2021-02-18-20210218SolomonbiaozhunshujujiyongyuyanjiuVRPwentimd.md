@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solomon标准数据集：用于研究VRP问题"
+title: "Solomon标准数据集用于研究VRP问题"
 date:   2024-10-25
 tags: [VRP,Solomon,数据,标准,文件]
 comments: true

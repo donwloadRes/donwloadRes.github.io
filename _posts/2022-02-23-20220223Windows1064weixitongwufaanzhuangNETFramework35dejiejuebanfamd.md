@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10 64位系统无法安装 .NET Framework 3.5的解决办法"
+title: "Windows10 64位系统无法安装 NET Framework 35的解决办法"
 date:   2023-12-30
 tags: [NET,Framework,3.5,安装,Windows10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI CSI-2 规范 V3.0 官方手册下载"
+title: "MIPI CSI2 规范 V30 官方手册下载"
 date:   2022-01-29
 tags: [CSI,手册,MIPI,V3.0,2019]
 comments: true

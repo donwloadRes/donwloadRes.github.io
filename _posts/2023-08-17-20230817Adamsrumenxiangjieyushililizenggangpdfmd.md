@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adams入门详解与实例(李增刚).pdf"
+title: "Adams入门详解与实例李增刚pdf"
 date:   2024-09-25
 tags: [Adams,实例,详解,软件,仿真]
 comments: true

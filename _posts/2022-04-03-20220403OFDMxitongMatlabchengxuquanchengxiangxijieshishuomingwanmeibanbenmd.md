@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFDM系统Matlab程序：全程详细解释说明完美版本"
+title: "OFDM系统Matlab程序全程详细解释说明完美版本"
 date:   2022-05-19
 tags: [OFDM,Matlab,代码,系统,仿真]
 comments: true

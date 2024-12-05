@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无刷直流电机Matlab-Simulink模型仿真"
+title: "无刷直流电机MatlabSimulink模型仿真"
 date:   2023-10-16
 tags: [仿真,模型,无刷,直流电机,Simulink]
 comments: true

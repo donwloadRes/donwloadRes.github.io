@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF项目：XX自动生产管理平台原码"
+title: "WPF项目XX自动生产管理平台原码"
 date:   2020-10-21
 tags: [WPF,控件,项目,原码,自动生产]
 comments: true

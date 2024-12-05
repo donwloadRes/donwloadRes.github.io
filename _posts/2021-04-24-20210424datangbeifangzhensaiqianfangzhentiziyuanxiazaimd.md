@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大唐杯仿真（赛前仿真题）资源下载"
+title: "大唐杯仿真赛前仿真题资源下载"
 date:   2022-11-11
 tags: [仿真,赛前,大唐,文件,资源]
 comments: true

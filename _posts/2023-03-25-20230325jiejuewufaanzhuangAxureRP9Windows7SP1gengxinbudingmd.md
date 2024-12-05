@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决无法安装Axure RP 9（Windows 7 SP1 更新补丁）"
+title: "解决无法安装Axure RP 9Windows 7 SP1 更新补丁"
 date:   2021-12-28
 tags: [补丁,安装,Axure,RP,Windows]
 comments: true

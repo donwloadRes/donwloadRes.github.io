@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viola-Jones人脸检测详解"
+title: "ViolaJones人脸检测详解"
 date:   2024-08-19
 tags: [人脸,Viola,Jones,算法,分类器]
 comments: true

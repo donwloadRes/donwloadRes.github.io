@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用selenium+OpenCV破解极验滑动-滑块验证码项目"
+title: "使用seleniumOpenCV破解极验滑动滑块验证码项目"
 date:   2023-10-07
 tags: [验证码,滑动,滑块,自动化,项目]
 comments: true

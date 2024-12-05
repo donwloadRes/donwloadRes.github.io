@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exe文件捆绑器(可设置图标志)"
+title: "exe文件捆绑器可设置图标志"
 date:   2020-06-07
 tags: [捆绑,文件,exe,图标,设置]
 comments: true

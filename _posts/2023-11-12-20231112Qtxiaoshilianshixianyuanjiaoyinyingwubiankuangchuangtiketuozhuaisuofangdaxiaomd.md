@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt小实练--实现圆角、阴影、无边框窗体，可拖拽缩放大小"
+title: "Qt小实练实现圆角阴影无边框窗体可拖拽缩放大小"
 date:   2020-11-06
 tags: [Qt,窗体,缩放,拖拽,圆角]
 comments: true

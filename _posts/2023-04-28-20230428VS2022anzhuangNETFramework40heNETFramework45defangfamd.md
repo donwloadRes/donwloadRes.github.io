@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2022 安装 .NET Framework 4.0 和 .NET Framework 4.5 的方法"
+title: "VS2022 安装 NET Framework 40 和 NET Framework 45 的方法"
 date:   2023-11-08
 tags: [Framework,NET,4.5,4.0,Visual]
 comments: true

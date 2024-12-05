@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "compare免安装版+添加右击菜单脚本"
+title: "compare免安装版添加右击菜单脚本"
 date:   2021-12-24
 tags: [菜单,右击,脚本,compare,右键]
 comments: true

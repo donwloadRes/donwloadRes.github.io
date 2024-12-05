@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WRF4.3和WPS的编译和安装指南"
+title: "WRF43和WPS的编译和安装指南"
 date:   2021-07-24
 tags: [编译,WPS,安装,WRF4.3,文档]
 comments: true

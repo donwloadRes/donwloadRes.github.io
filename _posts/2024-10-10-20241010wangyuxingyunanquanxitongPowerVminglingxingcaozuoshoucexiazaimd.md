@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网御星云安全系统Power_V命令行操作手册下载"
+title: "网御星云安全系统PowerV命令行操作手册下载"
 date:   2022-11-11
 tags: [网御,Power,命令行,星云,操作手册]
 comments: true

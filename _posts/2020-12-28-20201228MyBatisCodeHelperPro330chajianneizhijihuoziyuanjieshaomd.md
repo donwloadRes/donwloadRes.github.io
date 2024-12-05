@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyBatisCodeHelperPro-3.3.0 插件内置激活资源介绍"
+title: "MyBatisCodeHelperPro330 插件内置激活资源介绍"
 date:   2021-03-27
 tags: [插件,3.3,MyBatisCodeHelperPro,激活,内置]
 comments: true

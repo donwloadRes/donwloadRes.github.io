@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kingbase8-8.6.0.jar 下载仓库"
+title: "Kingbase8860jar 下载仓库"
 date:   2023-04-13
 tags: [数据库,Kingbase8,Java,jar,连接]
 comments: true

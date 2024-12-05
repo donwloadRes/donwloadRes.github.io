@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenCV+USB摄像头资源文件"
+title: "QTOpenCVUSB摄像头资源文件"
 date:   2023-12-10
 tags: [摄像头,录像,USB,文件,播放]
 comments: true

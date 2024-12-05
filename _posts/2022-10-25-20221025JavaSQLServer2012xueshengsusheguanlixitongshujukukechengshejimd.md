@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+SQL Server 2012 学生宿舍管理系统 数据库课程设计"
+title: "JavaSQL Server 2012 学生宿舍管理系统 数据库课程设计"
 date:   2023-01-17
 tags: [数据库,Java,SQL,Server,2012]
 comments: true

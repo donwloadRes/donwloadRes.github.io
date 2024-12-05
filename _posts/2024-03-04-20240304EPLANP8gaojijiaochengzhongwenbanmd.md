@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN P8 高级教程 (中文版)"
+title: "EPLAN P8 高级教程 中文版"
 date:   2021-12-08
 tags: [EPLAN,P8,教程,高级,中文版]
 comments: true

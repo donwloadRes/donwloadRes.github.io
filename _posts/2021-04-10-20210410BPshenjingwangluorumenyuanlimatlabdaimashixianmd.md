@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络入门（原理+matlab代码实现）"
+title: "BP神经网络入门原理matlab代码实现"
 date:   2022-09-05
 tags: [神经网络,BP,Matlab,代码,文件]
 comments: true

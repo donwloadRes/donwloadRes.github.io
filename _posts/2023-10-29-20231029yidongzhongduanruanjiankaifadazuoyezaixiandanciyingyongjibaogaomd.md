@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "移动终端软件开发大作业：在线单词应用及报告"
+title: "移动终端软件开发大作业在线单词应用及报告
+date   20220429
+tags AndroidStudio源码导入单词
+comments true
+author admin
+
+
+layout post
+title 移动终端软件开发大作业在线单词应用及报告"
 date:   2022-04-29
 tags: [Android,Studio,源码,导入,单词]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "移动终端软件开发大作业：在线单词应用及报告"
+title: "移动终端软件开发大作业在线单词应用及报告
+date   20220429
+tags AndroidStudio源码导入单词
+comments true
+author admin
+
+
+layout post
+title 移动终端软件开发大作业在线单词应用及报告"
 date:   2021-05-13
 tags: [Android,Studio,源码,导入,单词]
 comments: true

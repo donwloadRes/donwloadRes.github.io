@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32项目设计：基于STM32F4的智能门锁"
+title: "STM32项目设计基于STM32F4的智能门锁"
 date:   2023-01-18
 tags: [解锁,项目,密码,STM32F4,开发者]
 comments: true

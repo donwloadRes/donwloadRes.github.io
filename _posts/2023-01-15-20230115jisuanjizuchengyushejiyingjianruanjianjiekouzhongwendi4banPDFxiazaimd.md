@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成与设计：硬件、软件接口中文第4版PDF下载"
+title: "计算机组成与设计硬件软件接口中文第4版PDF下载"
 date:   2022-04-25
 tags: [PDF,计算机,接口,设计,组成]
 comments: true

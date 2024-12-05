@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware 7.0 密钥生成器"
+title: "VMware 70 密钥生成器"
 date:   2020-01-04
 tags: [密钥,VMware,生成器,7.0,激活]
 comments: true

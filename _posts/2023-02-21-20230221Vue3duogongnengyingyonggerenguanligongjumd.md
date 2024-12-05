@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3多功能应用：个人管理工具"
+title: "Vue3多功能应用个人管理工具"
 date:   2023-08-08
 tags: [英雄,便签,用户,待办,Vue3]
 comments: true

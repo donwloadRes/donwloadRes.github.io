@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 9.3 Shp 和 Txt 数据批量转换工具"
+title: "ArcGIS 93 Shp 和 Txt 数据批量转换工具"
 date:   2023-11-19
 tags: [转换,ArcGIS,Shp,Txt,文件]
 comments: true

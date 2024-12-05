@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWEN-ASR ONE 语音识别系列教程（2）参考文章【1】"
+title: "TWENASR ONE 语音识别系列教程2参考文章1"
 date:   2023-04-23
 tags: [TWEN,ASR,GPIO,ADC,PWM]
 comments: true

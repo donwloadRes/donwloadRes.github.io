@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "72+常用Axure交互原型免费下载"
+title: "72常用Axure交互原型免费下载"
 date:   2020-03-01
 tags: [Axure,原型,交互,模板,72]
 comments: true

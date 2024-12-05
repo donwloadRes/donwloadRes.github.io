@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字图像处理课件（完整超清版）"
+title: "数字图像处理课件完整超清版"
 date:   2022-05-25
 tags: [数字图像处理,课件,学习,清版,初学者]
 comments: true

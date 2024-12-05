@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟高级服务器操作系统V10——静默方式安装 ORACLE 11.2.0.4"
+title: "银河麒麟高级服务器操作系统V10静默方式安装 ORACLE 11204"
 date:   2020-09-14
 tags: [安装,Oracle,静默,用户,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红蓝对抗重点OA系统漏洞利用工具新年贺岁版V2.0"
+title: "红蓝对抗重点OA系统漏洞利用工具新年贺岁版V20"
 date:   2021-12-13
 tags: [OA,漏洞,检测,工具,利用]
 comments: true

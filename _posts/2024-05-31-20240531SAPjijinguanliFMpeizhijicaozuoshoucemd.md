@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP基金管理(FM)配置及操作手册"
+title: "SAP基金管理FM配置及操作手册"
 date:   2022-02-18
 tags: [SAP,FM,配置,基金,本手册]
 comments: true

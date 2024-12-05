@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "千兆以太网 TCP-UDP协议 FPGA实现"
+title: "千兆以太网 TCPUDP协议 FPGA实现"
 date:   2022-11-28
 tags: [FPGA,以太网,千兆,Protocol,实现]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Passware Kit Forensic 13.2 资源文件下载"
+title: "Passware Kit Forensic 132 资源文件下载"
 date:   2024-01-25
 tags: [Passware,密码恢复,Kit,Forensic,13.2]
 comments: true

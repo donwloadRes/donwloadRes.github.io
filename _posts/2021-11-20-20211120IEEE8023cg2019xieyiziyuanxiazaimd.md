@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3cg-2019 协议资源下载"
+title: "IEEE 8023cg2019 协议资源下载"
 date:   2022-08-17
 tags: [cg,2019,IEEE,802.3,协议]
 comments: true

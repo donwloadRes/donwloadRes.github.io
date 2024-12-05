@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习题库大全-hr.docx"
+title: "深度学习题库大全hrdocx"
 date:   2022-07-06
 tags: [复习,深度,题目,学习,判断题]
 comments: true

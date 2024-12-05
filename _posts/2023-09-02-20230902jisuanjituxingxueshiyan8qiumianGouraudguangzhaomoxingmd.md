@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学实验8：球面Gouraud光照模型"
+title: "计算机图形学实验8球面Gouraud光照模型"
 date:   2023-12-11
 tags: [Gouraud,光照,球面,实验,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Datax-web版安装(含安装包)"
+title: "Dataxweb版安装含安装包"
 date:   2023-06-30
 tags: [web,Datax,tar,datax,gz]
 comments: true

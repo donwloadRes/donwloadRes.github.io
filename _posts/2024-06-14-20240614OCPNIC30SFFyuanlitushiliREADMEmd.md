@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OCP NIC 3.0 SFF 原理图示例 README"
+title: "OCP NIC 30 SFF 原理图示例 README"
 date:   2021-06-11
 tags: [OCP,3.0,设计,SFF,原理图]
 comments: true

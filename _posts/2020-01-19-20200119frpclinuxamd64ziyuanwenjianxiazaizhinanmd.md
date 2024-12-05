@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "frpc-linux-amd64 资源文件下载指南"
+title: "frpclinuxamd64 资源文件下载指南"
 date:   2021-01-31
 tags: [frpc,linux,amd64,下载,文件]
 comments: true

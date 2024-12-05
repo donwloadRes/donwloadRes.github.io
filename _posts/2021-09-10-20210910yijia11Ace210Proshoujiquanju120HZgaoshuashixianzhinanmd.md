@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一加11-Ace2-10Pro手机全局120HZ高刷实现指南"
+title: "一加11Ace210Pro手机全局120HZ高刷实现指南"
 date:   2021-03-09
 tags: [120HZ,高刷,全局,刷新率,手机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-means聚类算法课件下载"
+title: "Kmeans聚类算法课件下载"
 date:   2021-12-03
 tags: [算法,means,聚类,课件,下载]
 comments: true

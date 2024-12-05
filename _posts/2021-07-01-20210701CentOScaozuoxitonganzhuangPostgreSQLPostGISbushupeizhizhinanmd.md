@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS操作系统安装PostgreSQL+PostGIS部署配置指南"
+title: "CentOS操作系统安装PostgreSQLPostGIS部署配置指南"
 date:   2023-04-09
 tags: [安装,PostgreSQL,PostGIS,CentOS,资源]
 comments: true

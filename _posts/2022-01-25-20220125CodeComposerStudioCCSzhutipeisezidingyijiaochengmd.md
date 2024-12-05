@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code Composer Studio(CCS)主题配色自定义教程"
+title: "Code Composer StudioCCS主题配色自定义教程"
 date:   2020-02-01
 tags: [自定义,教程,配色,主题,CCS]
 comments: true

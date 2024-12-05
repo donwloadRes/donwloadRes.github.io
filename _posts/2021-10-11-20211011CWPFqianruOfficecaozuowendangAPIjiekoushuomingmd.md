@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 嵌入Office操作文档API接口说明"
+title: "C WPF 嵌入Office操作文档API接口说明"
 date:   2020-04-25
 tags: [文档,Office,应用程序,WPF,DsoFramer]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF编程宝典 - XAML深度解析"
+title: "WPF编程宝典  XAML深度解析"
 date:   2020-12-26
 tags: [XAML,WPF,编程,宝典,帮助]
 comments: true

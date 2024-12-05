@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keysight 3000T X 示波器用户指南（中文版）"
+title: "Keysight 3000T X 示波器用户指南中文版"
 date:   2023-01-29
 tags: [示波器,指南,用户,Keysight,3000T]
 comments: true

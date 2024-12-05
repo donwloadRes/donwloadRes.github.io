@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目经理手册(软件交付)"
+title: "项目经理手册软件交付"
 date:   2022-02-20
 tags: [项目经理,手册,软件,交付,项目管理]
 comments: true

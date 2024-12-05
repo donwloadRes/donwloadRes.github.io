@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题指南：10万字总结与答案"
+title: "Java面试题指南10万字总结与答案"
 date:   2020-02-15
 tags: [面试题,Java,面试,10,Spring]
 comments: true

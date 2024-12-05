@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国大学生电子设计大赛培训教程(全)"
+title: "全国大学生电子设计大赛培训教程全"
 date:   2024-10-26
 tags: [电路,竞赛,设计,电子设计,编写]
 comments: true

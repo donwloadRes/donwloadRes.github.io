@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.9 离线安装 TigerVNC Server 1.8.0 RPM 包"
+title: "CentOS 79 离线安装 TigerVNC Server 180 RPM 包"
 date:   2024-05-26
 tags: [安装,RPM,CentOS,1.8,7.9]
 comments: true

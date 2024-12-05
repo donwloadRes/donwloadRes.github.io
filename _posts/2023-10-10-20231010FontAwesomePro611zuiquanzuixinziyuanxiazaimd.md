@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Font Awesome Pro 6.1.1 最全最新资源下载"
+title: "Font Awesome Pro 611 最全最新资源下载"
 date:   2024-06-15
 tags: [图标,Font,Awesome,Pro,6.1]
 comments: true

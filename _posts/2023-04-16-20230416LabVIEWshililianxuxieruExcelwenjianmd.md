@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW示例：连续写入Excel文件"
+title: "LabVIEW示例连续写入Excel文件"
 date:   2022-04-15
 tags: [LabVIEW,Excel,示例,文件,写入]
 comments: true

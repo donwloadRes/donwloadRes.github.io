@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百面机器学习—1. 特征工程资源文件介绍"
+title: "百面机器学习1 特征工程资源文件介绍"
 date:   2020-01-29
 tags: [特征,归一化,学习,工程,文件]
 comments: true

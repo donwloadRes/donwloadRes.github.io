@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家标准-GB 7247.1-2012 激光产品的安全 下载仓库"
+title: "国家标准GB 724712012 激光产品的安全 下载仓库"
 date:   2024-03-15
 tags: [激光,文件,2012,安全,GB]
 comments: true

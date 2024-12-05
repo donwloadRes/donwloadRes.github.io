@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓6.0+通电自动开机资源文件介绍"
+title: "安卓60通电自动开机资源文件介绍"
 date:   2020-05-16
 tags: [boot,img,自动开机,设备,解包]
 comments: true

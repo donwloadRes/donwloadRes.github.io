@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模糊神经网络（FNN）用于数据预测"
+title: "模糊神经网络FNN用于数据预测"
 date:   2021-04-02
 tags: [FNN,模型,py,csv,训练]
 comments: true

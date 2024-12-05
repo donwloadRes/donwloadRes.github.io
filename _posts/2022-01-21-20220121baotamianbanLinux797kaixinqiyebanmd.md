@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "宝塔面板 Linux 7.9.7 开心企业版"
+title: "宝塔面板 Linux 797 开心企业版"
 date:   2024-01-02
 tags: [堡塔,宝塔,面板,企业级,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华南理工硕博论文自动调整参考文献格式（EndNote版）"
+title: "华南理工硕博论文自动调整参考文献格式EndNote版"
 date:   2021-07-26
 tags: [EndNote,文件,Style,参考文献,格式]
 comments: true

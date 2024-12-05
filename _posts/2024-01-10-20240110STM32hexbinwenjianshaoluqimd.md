@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 hex-bin文件烧录器"
+title: "STM32 hexbin文件烧录器"
 date:   2021-11-13
 tags: [烧录,STM32,固件,文件,hex]
 comments: true

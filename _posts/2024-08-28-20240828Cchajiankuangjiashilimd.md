@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 插件框架示例"
+title: "C 插件框架示例"
 date:   2021-07-05
 tags: [插件,示例,plugin,sample,框架]
 comments: true

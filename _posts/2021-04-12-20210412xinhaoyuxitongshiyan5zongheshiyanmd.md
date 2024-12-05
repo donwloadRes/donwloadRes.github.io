@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统实验5-综合实验"
+title: "信号与系统实验5综合实验"
 date:   2021-10-31
 tags: [实验,系统,信号,仿真,综合]
 comments: true

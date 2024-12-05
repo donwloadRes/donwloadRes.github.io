@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制原理吴麟-下册电子版书籍下载"
+title: "自动控制原理吴麟下册电子版书籍下载"
 date:   2022-06-30
 tags: [自动控制,吴麟,下册,原理,下载]
 comments: true

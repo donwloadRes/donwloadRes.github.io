@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT(+MySQL)的学生信息管理系统开发"
+title: "基于QTMySQL的学生信息管理系统开发"
 date:   2022-07-10
 tags: [QT,MySQL,学生,数据库,C++]
 comments: true

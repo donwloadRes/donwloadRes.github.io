@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB50009-2012建筑荷载规范下载仓库"
+title: "GB500092012建筑荷载规范下载仓库"
 date:   2023-10-18
 tags: [下载,荷载,GB50009,2012,建筑]
 comments: true

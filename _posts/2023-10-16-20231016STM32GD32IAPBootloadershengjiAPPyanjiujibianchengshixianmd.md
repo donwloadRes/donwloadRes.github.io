@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-GD32 IAP-Bootloader升级APP研究及编程实现"
+title: "STM32GD32 IAPBootloader升级APP研究及编程实现"
 date:   2024-11-15
 tags: [Bootloader,APP,IAP,示例,实现]
 comments: true

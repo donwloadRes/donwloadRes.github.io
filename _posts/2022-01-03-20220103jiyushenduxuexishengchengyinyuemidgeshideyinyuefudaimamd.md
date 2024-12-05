@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习生成音乐(mid格式的音乐) 附代码"
+title: "基于深度学习生成音乐mid格式的音乐 附代码"
 date:   2021-05-28
 tags: [Python,代码,音乐文件,生成,音乐]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "还原精灵 8.30 版本 离线注册机"
+title: "还原精灵 830 版本 离线注册机"
 date:   2024-11-24
 tags: [离线,还原精灵,8.30,注册机,激活码]
 comments: true

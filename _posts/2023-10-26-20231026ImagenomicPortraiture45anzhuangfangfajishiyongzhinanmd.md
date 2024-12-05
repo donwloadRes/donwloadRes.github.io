@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Imagenomic Portraiture 4.5 安装方法及使用指南"
+title: "Imagenomic Portraiture 45 安装方法及使用指南"
 date:   2022-11-14
 tags: [Portraiture,4.5,插件,Photoshop,安装文件]
 comments: true

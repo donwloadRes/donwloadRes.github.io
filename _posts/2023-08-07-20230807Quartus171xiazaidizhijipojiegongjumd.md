@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus 17.1 下载地址及破解工具"
+title: "Quartus 171 下载地址及破解工具"
 date:   2020-06-20
 tags: [Quartus,17.1,Prime,破解,工具]
 comments: true

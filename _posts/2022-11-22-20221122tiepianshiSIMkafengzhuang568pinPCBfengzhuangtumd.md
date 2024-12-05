@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "贴片式SIM卡封装56-8pin PCB封装图"
+title: "贴片式SIM卡封装568pin PCB封装图"
 date:   2022-07-12
 tags: [封装,PCB,SIM卡,贴片式,AD]
 comments: true

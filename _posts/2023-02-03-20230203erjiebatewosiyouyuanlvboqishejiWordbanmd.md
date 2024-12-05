@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二阶巴特沃斯有源滤波器设计（Word版）"
+title: "二阶巴特沃斯有源滤波器设计Word版"
 date:   2023-11-02
 tags: [滤波器,有源,设计,应用,沃斯]
 comments: true

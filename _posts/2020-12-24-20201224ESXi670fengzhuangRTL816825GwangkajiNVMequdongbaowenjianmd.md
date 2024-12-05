@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXi 6.7.0 封装 RTL8168-2.5G 网卡及 NVMe 驱动包文件"
+title: "ESXi 670 封装 RTL816825G 网卡及 NVMe 驱动包文件"
 date:   2021-02-08
 tags: [ESXi,驱动,网卡,文件,NVMe]
 comments: true

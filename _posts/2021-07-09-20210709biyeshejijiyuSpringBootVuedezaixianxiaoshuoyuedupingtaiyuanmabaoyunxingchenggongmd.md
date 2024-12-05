@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于SpringBoot+Vue的在线小说阅读平台【源码+包运行成功】"
+title: "毕业设计基于SpringBootVue的在线小说阅读平台源码包运行成功"
 date:   2022-02-07
 tags: [源码,用户,前端,媒体,SpringBoot]
 comments: true

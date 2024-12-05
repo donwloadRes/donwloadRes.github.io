@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生XP-4100清零软件+图解"
+title: "爱普生XP4100清零软件图解"
 date:   2022-12-29
 tags: [清零,软件,图解,下载,爱普生]
 comments: true

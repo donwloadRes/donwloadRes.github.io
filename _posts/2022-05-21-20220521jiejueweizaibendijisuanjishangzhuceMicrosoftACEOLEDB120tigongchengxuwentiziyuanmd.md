@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“未在本地计算机上注册「Microsoft.ACE.OLEDB.12.0」提供程序”问题资源"
+title: "解决未在本地计算机上注册MicrosoftACEOLEDB120提供程序问题资源"
 date:   2023-02-08
 tags: [Microsoft,Excel,应用程序,ACE,OLEDB.12]
 comments: true

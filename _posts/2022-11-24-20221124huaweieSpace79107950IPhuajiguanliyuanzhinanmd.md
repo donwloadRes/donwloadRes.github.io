@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为eSpace 7910&7950 IP话机管理员指南"
+title: "华为eSpace 79107950 IP话机管理员指南"
 date:   2020-05-16
 tags: [话机,IP,eSpace,华为,7910]
 comments: true

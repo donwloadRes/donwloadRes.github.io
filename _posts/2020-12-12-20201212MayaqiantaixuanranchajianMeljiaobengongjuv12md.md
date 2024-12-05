@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maya前台渲染插件 - Mel脚本工具 v1.2"
+title: "Maya前台渲染插件  Mel脚本工具 v12"
 date:   2022-06-11
 tags: [渲染,Maya,插件,Mel,工具]
 comments: true

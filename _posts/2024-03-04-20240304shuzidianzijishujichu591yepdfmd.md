@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础 - 591页.pdf"
+title: "数字电子技术基础  591页pdf"
 date:   2023-05-06
 tags: [数字,电子,技术,逻辑,591]
 comments: true

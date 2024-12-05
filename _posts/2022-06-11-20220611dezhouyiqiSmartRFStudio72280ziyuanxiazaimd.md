@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德州仪器 SmartRF Studio 7 2.28.0 资源下载"
+title: "德州仪器 SmartRF Studio 7 2280 资源下载"
 date:   2022-10-07
 tags: [TI,SmartRF,Studio,下载,德州仪器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC 采样时间、采样周期与采样频率计算"
+title: "ADC 采样时间采样周期与采样频率计算"
 date:   2022-02-14
 tags: [采样,ADC,周期,转换,时间]
 comments: true

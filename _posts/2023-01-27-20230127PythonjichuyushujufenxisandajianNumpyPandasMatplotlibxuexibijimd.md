@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基础与数据分析三大件：Numpy、Pandas、Matplotlib 学习笔记"
+title: "Python基础与数据分析三大件NumpyPandasMatplotlib 学习笔记"
 date:   2023-01-11
 tags: [Python,数据分析,Numpy,Pandas,Matplotlib]
 comments: true

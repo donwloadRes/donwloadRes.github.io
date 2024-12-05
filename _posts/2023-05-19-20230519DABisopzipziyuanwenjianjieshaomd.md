@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAB_isop.zip 资源文件介绍"
+title: "DABisopzip 资源文件介绍"
 date:   2024-11-05
 tags: [模型,仿真,DAB,变换器,推导]
 comments: true

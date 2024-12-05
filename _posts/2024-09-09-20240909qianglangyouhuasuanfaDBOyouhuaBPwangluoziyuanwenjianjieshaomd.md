@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蜣螂优化算法（DBO）优化BP网络资源文件介绍"
+title: "蜣螂优化算法DBO优化BP网络资源文件介绍"
 date:   2020-01-20
 tags: [优化,BP,算法,DBO,蜣螂]
 comments: true

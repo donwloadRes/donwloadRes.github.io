@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK8下载安装及配置环境教程，一看就会"
+title: "JDK8下载安装及配置环境教程一看就会"
 date:   2021-06-04
 tags: [JDK8,安装,配置,环境变量,下载]
 comments: true

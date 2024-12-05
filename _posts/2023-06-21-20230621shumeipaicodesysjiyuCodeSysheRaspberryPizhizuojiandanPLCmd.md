@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派codesys_基于CodeSys和Raspberry Pi制作简单PLC"
+title: "树莓派codesys基于CodeSys和Raspberry Pi制作简单PLC"
 date:   2022-10-16
 tags: [PLC,CodeSys,Raspberry,Pi,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agilent IO Libraries Suite 14.2"
+title: "Agilent IO Libraries Suite 142"
 date:   2020-09-04
 tags: [安捷伦,IO,Libraries,仪器,版本]
 comments: true

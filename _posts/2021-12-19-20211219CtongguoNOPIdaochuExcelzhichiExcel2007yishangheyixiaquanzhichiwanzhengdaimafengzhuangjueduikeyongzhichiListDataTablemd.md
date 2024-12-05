@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过NOPI导出Excel（支持Excel2007以上和以下，全支持，完整代码封装，绝对可用，支持List，DataTable）"
+title: "C通过NOPI导出Excel支持Excel2007以上和以下全支持完整代码封装绝对可用支持ListDataTable"
 date:   2022-10-15
 tags: [封装,Excel,导出,代码,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费AZ-900学习资料"
+title: "免费AZ900学习资料"
 date:   2024-08-20
 tags: [Azure,AZ,900,学习者,资料]
 comments: true

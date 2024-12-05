@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手写模拟器v2.0 介绍"
+title: "手写模拟器v20 介绍"
 date:   2020-02-11
 tags: [手写,模拟器,v2.0,zip,抄写]
 comments: true

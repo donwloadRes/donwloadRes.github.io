@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt通过UDP传图片：实现自定义分包与组包"
+title: "Qt通过UDP传图片实现自定义分包与组包"
 date:   2020-10-27
 tags: [Qt,UDP,图片,传输,组包]
 comments: true

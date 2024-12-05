@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab2：Binary+Bomb实验指导学生书1"
+title: "Lab2BinaryBomb实验指导学生书1"
 date:   2020-07-22
 tags: [实验,文件,Binary,Bomb,学生]
 comments: true

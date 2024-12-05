@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT从站搭建指南(中英版)"
+title: "EtherCAT从站搭建指南中英版"
 date:   2020-01-26
 tags: [EtherCAT,指南,搭建,中英版,文件]
 comments: true

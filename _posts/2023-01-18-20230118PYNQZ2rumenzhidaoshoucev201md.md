@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PYNQ-Z2入门指导手册_v2.01"
+title: "PYNQZ2入门指导手册v201"
 date:   2022-06-07
 tags: [PYNQ,Z2,开发板,Jupyter,Notebook]
 comments: true

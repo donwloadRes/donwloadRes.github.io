@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS3 期末作业设计资源指南"
+title: "HTMLCSS3 期末作业设计资源指南"
 date:   2022-12-01
 tags: [HTML,网页,设计,指南,资源]
 comments: true

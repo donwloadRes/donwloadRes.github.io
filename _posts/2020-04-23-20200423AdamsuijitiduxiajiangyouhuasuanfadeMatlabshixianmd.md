@@ -1,6 +1,39 @@
 ---
 layout: post
-title: "Adam随机梯度下降优化算法的Matlab实现"
+title: "Adam随机梯度下降优化算法的Matlab实现
+date   20240321
+tags Adam默认值算法优化Matlab
+comments true
+author admin
+
+ Adam随机梯度下降优化算法的Matlab实现
+
+ 简介
+
+本仓库提供了一个名为 fminadam 的 Matlab 实现该实现基于 Kingma 和 Ba 提出的 Adam 优化算法Adam 是一种自适应学习率的梯度下降算法特别适用于处理随机梯度下降问题例如在小批量数据上估计梯度或在随机 dropout 正则化中使用
+
+ 功能描述
+
+fminadam 实现了 Adam 优化算法该算法结合了动量和自适应学习率能够在每个参数上单独调整学习率这使得 Adam 在处理复杂优化问题时表现出色
+
+ 使用方法
+
+matlab
+x fval exitflag output  fminadamfun x0 stepSize beta1 beta2 epsilon nEpochSize options
+
+
+ fun 目标函数句柄
+ x0 初始参数向量
+ stepSize 学习率可选默认值为 0001
+ beta1 动量衰减率可选默认值为 09
+ beta2 二阶矩估计衰减率可选默认值为 0999
+ epsilon 防止除零的小常数可选默认值为 1e8
+ nEpochSize 每个 epoch 的大小可选默认值为 1000
+ options 其他优化选项可选
+
+ 参考文献
+
+1 Diederik P Kingma Jimmy Ba Adam A Method for Stochastic Optimization"
 date:   2024-03-21
 tags: [Adam,默认值,算法,优化,Matlab]
 comments: true

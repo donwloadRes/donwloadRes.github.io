@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW EtherNET-IP 资源文件"
+title: "LabVIEW EtherNETIP 资源文件"
 date:   2020-02-21
 tags: [LabVIEW,EtherNET,IP,示例,文件]
 comments: true

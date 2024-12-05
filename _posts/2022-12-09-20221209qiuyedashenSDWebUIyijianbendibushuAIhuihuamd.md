@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "秋叶大神：SD-Web UI一键本地部署AI绘画"
+title: "秋叶大神SDWeb UI一键本地部署AI绘画"
 date:   2020-08-23
 tags: [AI,绘画,部署,Stable,Diffusion]
 comments: true

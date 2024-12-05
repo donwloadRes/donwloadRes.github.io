@@ -1,6 +1,65 @@
 ---
 layout: post
-title: "Android TextView 字体设置指南"
+title: "Android TextView 字体设置指南
+date   20231102
+tags 字体Android设置TextViewttf
+comments true
+author admin
+
+ Android TextView 字体设置指南
+
+本资源文件提供了关于如何在 Android 应用中为 TextView 设置第三方字体全局字体以及在 Android X 环境下进行字体设置的详细指南通过本指南开发者可以轻松实现自定义字体提升应用的用户体验
+
+ 内容概述
+
+1 第三方字体设置
+    如何在 Android 应用中引入并使用第三方字体文件如 ttf 格式
+    通过代码动态设置 TextView 的字体
+
+2 APP 全局字体设置
+    如何在应用中全局设置自定义字体使所有 TextView 默认使用该字体
+    使用 Calligraphy 库简化全局字体设置过程
+
+3 Android X 字体设置
+    在 Android X 环境下如何处理字体设置避免兼容性问题
+    使用 ViewPump 库解决 Android Q 及 Android X 环境下的字体设置问题
+
+ 使用方法
+
+ 1 第三方字体设置
+
+将字体文件如 ttf放置在 assets 目录下然后通过以下代码设置 TextView 的字体
+
+java
+Typeface typeface  TypefacecreateFromAssetgetAssets fontsyourfontttf
+textViewsetTypefacetypeface
+
+
+ 2 APP 全局字体设置
+
+1 引入 Calligraphy 库
+   gradle
+   implementation ukcochrisjenxcalligraphy220
+   
+
+2 在 Application 类中初始化 Calligraphy
+   java
+   public class MyApplication extends Application 
+       Override
+       public void onCreate 
+           superonCreate
+           CalligraphyConfiginitDefaultnew CalligraphyConfigBuilder
+               setDefaultFontPathfontsyourfontttf
+               setFontAttrIdRattrfontPath
+               build
+       
+   
+   
+
+3 在 AndroidManifestxml 中配置自定义 Application
+   xml
+   application
+       androidnameMyApplication"
 date:   2023-11-02
 tags: [字体,Android,设置,TextView,ttf]
 comments: true

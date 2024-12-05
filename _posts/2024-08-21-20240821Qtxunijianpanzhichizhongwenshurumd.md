@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt虚拟键盘 - 支持中文输入"
+title: "Qt虚拟键盘  支持中文输入"
 date:   2020-10-12
 tags: [键盘,输入,虚拟,Qt,文件]
 comments: true

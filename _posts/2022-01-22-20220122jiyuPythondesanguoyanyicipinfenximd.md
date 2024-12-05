@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的三国演义》词频分析"
+title: "基于Python的三国演义词频分析"
 date:   2022-01-31
 tags: [词频,三国演义,Python,分析,词汇]
 comments: true

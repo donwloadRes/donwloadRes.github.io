@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust 程序设计语言（第二版） 简体中文版"
+title: "Rust 程序设计语言第二版 简体中文版"
 date:   2022-06-14
 tags: [Rust,编程,翻译,并发,程序设计]
 comments: true

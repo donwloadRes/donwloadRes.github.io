@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SMTP-POP3协议的邮件收发客户端"
+title: "基于SMTPPOP3协议的邮件收发客户端"
 date:   2021-02-28
 tags: [邮件,客户端,用户,接收,POP3]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDI+程序设计 中文版PDF 资源下载"
+title: "GDI程序设计 中文版PDF 资源下载"
 date:   2024-08-02
 tags: [GDI,PDF,程序设计,中文版,编程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF 类似 Visio 的拖拽连线图、星状图与拓扑图"
+title: "WPF 类似 Visio 的拖拽连线图星状图与拓扑图"
 date:   2021-04-21
 tags: [WPF,拓扑图,连线,拖拽,Visio]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下Nginx离线安装包及依赖大全 🚀"
+title: "Linux下Nginx离线安装包及依赖大全 "
 date:   2023-04-05
 tags: [Nginx,Linux,离线,安装,安装包]
 comments: true

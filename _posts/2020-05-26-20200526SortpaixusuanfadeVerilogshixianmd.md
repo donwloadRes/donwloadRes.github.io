@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sort: 排序算法的Verilog实现"
+title: "Sort 排序算法的Verilog实现"
 date:   2021-04-12
 tags: [排序,Verilog,实现,算法,仿真]
 comments: true

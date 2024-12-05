@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "腾讯云DDNS Python脚本（第二版）"
+title: "腾讯云DDNS Python脚本第二版"
 date:   2023-02-03
 tags: [IPv6,IPv4,脚本,Windows,DDNS]
 comments: true

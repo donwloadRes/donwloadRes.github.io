@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "沈再阳MATLAB信号处理_课件与源码"
+title: "沈再阳MATLAB信号处理课件与源码"
 date:   2022-05-11
 tags: [信号处理,MATLAB,源码,课件,学习者]
 comments: true

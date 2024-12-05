@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信公众号自动回复：弱化版ChatGPT"
+title: "微信公众号自动回复弱化版ChatGPT"
 date:   2020-07-19
 tags: [回复,微信,ChatGPT,自动,接口]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "32位和64位api-ms-win-crt-runtime-l1-1-0.dll资源下载"
+title: "32位和64位apimswincrtruntimel110dll资源下载"
 date:   2021-03-29
 tags: [32,64,应用程序,dll,api]
 comments: true

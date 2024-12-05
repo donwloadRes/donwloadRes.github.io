@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python文字识别之tesseract-ocr安装包和中文语言包chi_sim.traineddata下载"
+title: "Python文字识别之tesseractocr安装包和中文语言包chisimtraineddata下载"
 date:   2020-11-14
 tags: [tesseract,ocr,语言包,Python,中文]
 comments: true

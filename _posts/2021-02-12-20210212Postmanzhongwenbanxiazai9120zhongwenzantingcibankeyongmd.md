@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postman中文版下载[9.12.0]（中文暂停，此版可用）"
+title: "Postman中文版下载9120中文暂停此版可用"
 date:   2021-10-30
 tags: [Postman,中文,9.12,版本,中文版]
 comments: true

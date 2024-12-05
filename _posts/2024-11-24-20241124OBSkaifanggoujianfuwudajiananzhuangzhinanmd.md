@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OBS（开放构建服务）搭建安装指南"
+title: "OBS开放构建服务搭建安装指南"
 date:   2021-07-19
 tags: [OBS,安装,构建,Linux,软件]
 comments: true

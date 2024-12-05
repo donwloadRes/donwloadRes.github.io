@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD22-A108 温度偏差与操作寿命资源文件介绍"
+title: "JESD22A108 温度偏差与操作寿命资源文件介绍"
 date:   2022-02-22
 tags: [文件,电子元件,温度,偏差,寿命]
 comments: true

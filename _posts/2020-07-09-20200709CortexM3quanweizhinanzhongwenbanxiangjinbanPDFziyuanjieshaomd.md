@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M3权威指南(中文版详尽版) PDF资源介绍"
+title: "CortexM3权威指南中文版详尽版 PDF资源介绍"
 date:   2023-03-25
 tags: [Cortex,M3,嵌入式,指南,详尽]
 comments: true

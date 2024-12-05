@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OpenCV的图像旋转匹配算法模板（C++实现）"
+title: "基于OpenCV的图像旋转匹配算法模板C实现"
 date:   2022-02-11
 tags: [OpenCV,匹配,旋转,模板,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电动汽车安全要求（GB 18384-2020）资源下载"
+title: "电动汽车安全要求GB 183842020资源下载"
 date:   2024-10-05
 tags: [电动汽车,2020,安全,GB,18384]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISA-88设备控制模型和术语的国际标准"
+title: "ISA88设备控制模型和术语的国际标准"
 date:   2024-06-30
 tags: [ISA,88,S88,标准,术语]
 comments: true

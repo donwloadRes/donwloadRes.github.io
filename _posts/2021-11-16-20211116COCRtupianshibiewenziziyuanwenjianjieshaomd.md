@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ OCR图片识别文字资源文件介绍"
+title: "C OCR图片识别文字资源文件介绍"
 date:   2021-10-29
 tags: [识别,OCR,图片,文字,校正]
 comments: true

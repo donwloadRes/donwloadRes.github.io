@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟高级服务器操作系统V10（SP1）系统管理员手册"
+title: "银河麒麟高级服务器操作系统V10SP1系统管理员手册"
 date:   2023-05-30
 tags: [操作系统,V10,SP1,麒麟,系统管理员]
 comments: true

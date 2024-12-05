@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity蓝牙插件：Bluetooth LE for iOS tvOS and Android 2.55"
+title: "Unity蓝牙插件Bluetooth LE for iOS tvOS and Android 255"
 date:   2022-04-01
 tags: [蓝牙,插件,Unity,开发者,设备]
 comments: true

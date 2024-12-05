@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整的内网域渗透-暗月培训之项目六1"
+title: "完整的内网域渗透暗月培训之项目六1"
 date:   2021-09-10
 tags: [渗透,网域,暗月,测试,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 Google V3 免费下载 (API 中文文档)"
+title: "JDK 18 Google V3 免费下载 API 中文文档"
 date:   2024-07-25
 tags: [文档,API,JDK,1.8,开发者]
 comments: true

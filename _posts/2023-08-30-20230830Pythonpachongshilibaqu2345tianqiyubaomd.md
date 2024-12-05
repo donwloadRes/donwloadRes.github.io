@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实例：扒取2345天气预报"
+title: "Python爬虫实例扒取2345天气预报"
 date:   2020-07-24
 tags: [爬虫,Python,教程,2345,天气预报]
 comments: true

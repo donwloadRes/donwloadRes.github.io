@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino IDE安装UNO和NANO开发板驱动教程（CH341SER.EXE）"
+title: "Arduino IDE安装UNO和NANO开发板驱动教程CH341SEREXE"
 date:   2022-02-28
 tags: [Arduino,开发板,CH341SER,安装,IDE]
 comments: true

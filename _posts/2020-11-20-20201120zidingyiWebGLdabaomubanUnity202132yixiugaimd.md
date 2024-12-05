@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自定义WebGL打包模板【Unity 2021.3.2】已修改"
+title: "自定义WebGL打包模板Unity 202132已修改"
 date:   2023-06-17
 tags: [模板,WebGL,Unity,自定义,修改]
 comments: true

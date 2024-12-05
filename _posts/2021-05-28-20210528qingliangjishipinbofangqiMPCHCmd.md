@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轻量级视频播放器——MPC-HC"
+title: "轻量级视频播放器MPCHC"
 date:   2020-01-19
 tags: [MPC,HC,播放器,轻量级,视频]
 comments: true

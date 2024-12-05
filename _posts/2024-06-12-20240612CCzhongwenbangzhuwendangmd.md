@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++中文帮助文档"
+title: "CC中文帮助文档"
 date:   2024-02-23
 tags: [C++,开发者,文档,中文,编程]
 comments: true

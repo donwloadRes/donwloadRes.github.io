@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID控制算法的C语言实现(完整版)"
+title: "PID控制算法的C语言实现完整版"
 date:   2022-02-15
 tags: [控制算法,PID,C语言,完整版,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的智能四驱小车循迹、避障、红外遥控资源文件"
+title: "基于STM32的智能四驱小车循迹避障红外遥控资源文件"
 date:   2021-11-24
 tags: [小车,STM32,红外,任务,避障]
 comments: true

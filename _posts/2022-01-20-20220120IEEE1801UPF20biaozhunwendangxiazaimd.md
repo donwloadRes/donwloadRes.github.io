@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1801 UPF2.0 标准文档下载"
+title: "IEEE 1801 UPF20 标准文档下载"
 date:   2024-07-18
 tags: [低功耗,IEEE,1801,UPF2.0,文档]
 comments: true

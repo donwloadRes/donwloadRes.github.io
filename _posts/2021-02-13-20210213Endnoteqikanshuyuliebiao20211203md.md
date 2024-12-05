@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Endnote 期刊术语列表（2021.12.03）"
+title: "Endnote 期刊术语列表20211203"
 date:   2021-06-16
 tags: [期刊,Endnote,列表,缩写,2021.12]
 comments: true

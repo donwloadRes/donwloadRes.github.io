@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML+CSS+JavaScript实现轮播图效果"
+title: "HTMLCSSJavaScript实现轮播图效果"
 date:   2024-12-04
 tags: [轮播,JavaScript,切换,HTML,CSS]
 comments: true

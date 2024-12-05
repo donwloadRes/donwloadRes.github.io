@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32学习笔记（52）——三轴加速度ADXL345使用（SPI方式）"
+title: "ESP32学习笔记52三轴加速度ADXL345使用SPI方式"
 date:   2020-05-02
 tags: [SPI,ADXL345,ESP32,三轴,加速度]
 comments: true

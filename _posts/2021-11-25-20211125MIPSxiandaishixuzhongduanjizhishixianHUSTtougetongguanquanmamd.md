@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPS现代时序中断机制实现(HUST) 头歌通关全码"
+title: "MIPS现代时序中断机制实现HUST 头歌通关全码"
 date:   2022-09-01
 tags: [中断,微程序,控制器,MIPS,时序]
 comments: true

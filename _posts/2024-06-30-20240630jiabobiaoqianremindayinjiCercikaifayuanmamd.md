@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "佳博标签热敏打印机C#二次开发源码"
+title: "佳博标签热敏打印机C二次开发源码"
 date:   2021-07-30
 tags: [打印机,源码,佳博,Visual,Studio]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-HID游戏手柄数据通信资源介绍"
+title: "USBHID游戏手柄数据通信资源介绍"
 date:   2020-05-08
 tags: [USB,HID,手柄,数据通信,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32 Mixly 图形化程序 & 插件"
+title: "ESP32 Mixly 图形化程序  插件"
 date:   2022-11-06
 tags: [插件,ESP32,Mixly,图形化,程序]
 comments: true

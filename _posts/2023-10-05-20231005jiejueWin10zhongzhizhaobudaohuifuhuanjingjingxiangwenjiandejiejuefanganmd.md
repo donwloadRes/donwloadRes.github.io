@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10重置找不到恢复环境-镜像文件的解决方案"
+title: "解决Win10重置找不到恢复环境镜像文件的解决方案"
 date:   2024-11-15
 tags: [重置,C盘,镜像文件,文件,Win10]
 comments: true

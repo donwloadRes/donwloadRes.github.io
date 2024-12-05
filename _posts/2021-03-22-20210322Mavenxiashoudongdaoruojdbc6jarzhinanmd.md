@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven下手动导入ojdbc6.jar指南"
+title: "Maven下手动导入ojdbc6jar指南"
 date:   2023-01-12
 tags: [jar,ojdbc6,Maven,导入,手动]
 comments: true

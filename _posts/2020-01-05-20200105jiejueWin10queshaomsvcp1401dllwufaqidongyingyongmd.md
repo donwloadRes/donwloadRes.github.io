@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win10缺少msvcp140_1.dll无法启动应用"
+title: "解决Win10缺少msvcp1401dll无法启动应用"
 date:   2024-08-10
 tags: [msvcp140,dll,文件,DLL,Windows]
 comments: true

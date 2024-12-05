@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6与ESP8266串口转WIFI模块TCP服务器（STA模式）资源介绍"
+title: "STM32F103C8T6与ESP8266串口转WIFI模块TCP服务器STA模式资源介绍"
 date:   2022-03-07
 tags: [串口,ESP8266,WIFI,模块,调试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32单片机（二）STM32环境搭建"
+title: "STM32单片机二STM32环境搭建"
 date:   2024-03-31
 tags: [STM32,Keil,STM32CubeIDE,开发板,单片机]
 comments: true

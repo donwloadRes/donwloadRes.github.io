@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue后台项目开发必备：全面解析分辨率适配与网页缩放技巧"
+title: "Vue后台项目开发必备全面解析分辨率适配与网页缩放技巧"
 date:   2024-09-27
 tags: [适配,缩放,分辨率,开发者,浏览器]
 comments: true

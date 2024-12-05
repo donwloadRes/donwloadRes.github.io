@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NTRIP 标准协议与 RTK-CORS 资源下载"
+title: "NTRIP 标准协议与 RTKCORS 资源下载"
 date:   2021-10-16
 tags: [NTRIP,RTK,协议,应用,数据传输]
 comments: true

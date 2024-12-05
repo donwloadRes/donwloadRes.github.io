@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NFC 论坛技术规范 - NCI 2.0版 (NFCForum-TS-NCI-2.0-170330.pdf)"
+title: "NFC 论坛技术规范  NCI 20版 NFCForumTSNCI20170330pdf"
 date:   2023-02-05
 tags: [NFC,NCI,2.0,NFCForum,TS]
 comments: true

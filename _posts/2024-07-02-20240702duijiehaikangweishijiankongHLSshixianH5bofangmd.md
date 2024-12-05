@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对接海康威视监控-HLS实现H5播放"
+title: "对接海康威视监控HLS实现H5播放"
 date:   2021-12-13
 tags: [海康,威视,H5,播放,对接]
 comments: true

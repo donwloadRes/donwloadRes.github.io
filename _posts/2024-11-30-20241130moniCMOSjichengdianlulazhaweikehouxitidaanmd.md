@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟CMOS集成电路（拉扎维）课后习题答案"
+title: "模拟CMOS集成电路拉扎维课后习题答案"
 date:   2024-09-09
 tags: [习题,CMOS,模拟,课后,集成电路]
 comments: true

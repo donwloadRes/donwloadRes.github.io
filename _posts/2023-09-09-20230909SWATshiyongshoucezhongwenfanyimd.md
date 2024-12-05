@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SWAT使用手册(中文翻译)"
+title: "SWAT使用手册中文翻译"
 date:   2024-11-30
 tags: [SWAT,模型,使用手册,中文翻译,数据]
 comments: true

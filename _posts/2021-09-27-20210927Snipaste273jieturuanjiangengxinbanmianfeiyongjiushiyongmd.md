@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snipaste 2.7.3 截图软件更新版，免费永久使用"
+title: "Snipaste 273 截图软件更新版免费永久使用"
 date:   2023-05-20
 tags: [截图,Snipaste,按下,选择器,颜色]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国电南自103规约调试软件Protocoltester.rar"
+title: "国电南自103规约调试软件Protocoltesterrar"
 date:   2021-04-15
 tags: [规约,103,Protocoltester,调试,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FMC标准VITA 57.1-2008资源下载"
+title: "FMC标准VITA 5712008资源下载"
 date:   2020-08-09
 tags: [FMC,VITA,2008,标准,文档]
 comments: true

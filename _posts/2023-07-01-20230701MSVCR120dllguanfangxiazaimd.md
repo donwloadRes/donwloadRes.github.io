@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSVCR120.dll 官方下载"
+title: "MSVCR120dll 官方下载"
 date:   2021-02-09
 tags: [dll,文件,下载,程序,MSVCR120]
 comments: true

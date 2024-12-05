@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PelcoD 云台控制协议（完整版）.pdf"
+title: "PelcoD 云台控制协议完整版pdf"
 date:   2020-03-07
 tags: [PelcoD,云台,完整版,控制协议,协议]
 comments: true

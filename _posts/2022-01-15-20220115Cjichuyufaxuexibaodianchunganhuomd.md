@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#基础语法学习宝典（纯干货）"
+title: "C基础语法学习宝典纯干货"
 date:   2021-02-26
 tags: [C#,语法,编程,基础,学习]
 comments: true

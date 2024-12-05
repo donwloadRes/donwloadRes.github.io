@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彩灯控制电路设计 -- 流水灯双花型（附Multisim）"
+title: "彩灯控制电路设计  流水灯双花型附Multisim"
 date:   2021-04-21
 tags: [花型,控制电路,彩灯,Multisim,仿真]
 comments: true

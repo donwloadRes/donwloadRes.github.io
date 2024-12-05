@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NRF24L01+AT2401 无线模块设计文件"
+title: "NRF24L01AT2401 无线模块设计文件"
 date:   2022-01-18
 tags: [PCB,文件,打样,NRF24L01,AT2401]
 comments: true

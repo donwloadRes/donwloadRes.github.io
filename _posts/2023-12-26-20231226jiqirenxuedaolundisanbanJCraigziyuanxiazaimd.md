@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人学导论(第三版) J.Craig 资源下载"
+title: "机器人学导论第三版 JCraig 资源下载"
 date:   2023-04-09
 tags: [机器人学,第三版,导论,Craig,资源]
 comments: true

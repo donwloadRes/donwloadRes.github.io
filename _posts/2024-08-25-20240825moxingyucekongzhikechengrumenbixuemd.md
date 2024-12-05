@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制课程——入门必学"
+title: "模型预测控制课程入门必学"
 date:   2023-03-20
 tags: [MPC,控制,模型,课程,必学]
 comments: true

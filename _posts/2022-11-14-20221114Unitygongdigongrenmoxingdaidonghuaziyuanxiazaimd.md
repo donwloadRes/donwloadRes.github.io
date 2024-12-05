@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity工地工人模型（带动画）资源下载"
+title: "Unity工地工人模型带动画资源下载"
 date:   2023-07-18
 tags: [Unity,模型,动画,资源,工地]
 comments: true

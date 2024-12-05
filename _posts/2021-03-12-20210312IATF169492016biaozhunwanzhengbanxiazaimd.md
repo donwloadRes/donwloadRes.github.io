@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IATF16949-2016标准完整版下载"
+title: "IATF169492016标准完整版下载"
 date:   2020-07-06
 tags: [嵌入式软件,IATF16949,2016,完整版,标准]
 comments: true

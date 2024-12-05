@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Point_cloud_tools_for_Matlab：基于MATLAB的点云处理工具箱"
+title: "PointcloudtoolsforMatlab基于MATLAB的点云处理工具箱"
 date:   2020-11-02
 tags: [工具箱,点云,MATLAB,Point,cloud]
 comments: true

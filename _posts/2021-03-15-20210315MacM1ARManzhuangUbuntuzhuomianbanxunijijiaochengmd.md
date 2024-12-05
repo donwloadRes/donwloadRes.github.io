@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac M1(ARM)安装Ubuntu桌面版虚拟机教程"
+title: "Mac M1ARM安装Ubuntu桌面版虚拟机教程"
 date:   2022-02-01
 tags: [虚拟机,Ubuntu,桌面版,安装,Mac]
 comments: true

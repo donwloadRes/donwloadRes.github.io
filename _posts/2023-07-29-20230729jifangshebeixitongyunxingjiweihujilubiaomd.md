@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机房设备、系统运行及维护记录表"
+title: "机房设备系统运行及维护记录表"
 date:   2022-03-17
 tags: [机房,记录表,记录,维护,机房设备]
 comments: true

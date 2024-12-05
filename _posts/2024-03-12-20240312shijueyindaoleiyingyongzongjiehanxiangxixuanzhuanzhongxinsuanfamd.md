@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视觉引导类应用总结(含详细旋转中心算法)"
+title: "视觉引导类应用总结含详细旋转中心算法"
 date:   2022-12-19
 tags: [应用,视觉,算法,引导,旋转]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具V3.7增强版"
+title: "DirectX修复工具V37增强版"
 date:   2020-05-21
 tags: [修复,Windows,程序,DirectX,功能]
 comments: true

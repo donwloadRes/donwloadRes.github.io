@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言入门习题：计算思维二（C语言）-基础实践二报告"
+title: "C语言入门习题计算思维二C语言基础实践二报告"
 date:   2024-05-30
 tags: [题目,实验,C语言,数组,习题]
 comments: true

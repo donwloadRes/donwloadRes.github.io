@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性系统（中文翻译第三版） Khalil 资源下载"
+title: "非线性系统中文翻译第三版 Khalil 资源下载"
 date:   2022-06-18
 tags: [非线性,中文翻译,Khalil,第三版,系统]
 comments: true

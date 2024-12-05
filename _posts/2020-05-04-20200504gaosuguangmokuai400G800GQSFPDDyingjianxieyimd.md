@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高速光模块400G 800G QSFP-DD硬件协议"
+title: "高速光模块400G 800G QSFPDD硬件协议"
 date:   2020-03-09
 tags: [DD,模块,高速,400G,800G]
 comments: true

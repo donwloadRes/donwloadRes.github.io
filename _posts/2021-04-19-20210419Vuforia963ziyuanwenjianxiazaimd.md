@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vuforia 9.6.3 资源文件下载"
+title: "Vuforia 963 资源文件下载"
 date:   2020-05-09
 tags: [9.6,Vuforia,文件,下载,vuforia]
 comments: true

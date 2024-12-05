@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0 HUB RTS5411芯片参考电路及设计指南"
+title: "USB30 HUB RTS5411芯片参考电路及设计指南"
 date:   2020-05-24
 tags: [设计,芯片,USB3.0,参考,RTS5411]
 comments: true

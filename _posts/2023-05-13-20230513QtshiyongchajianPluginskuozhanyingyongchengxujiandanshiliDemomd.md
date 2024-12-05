@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 使用插件（Plugins）扩展应用程序简单示例Demo"
+title: "Qt 使用插件Plugins扩展应用程序简单示例Demo"
 date:   2022-02-11
 tags: [插件,应用程序,Qt,示例,加载]
 comments: true

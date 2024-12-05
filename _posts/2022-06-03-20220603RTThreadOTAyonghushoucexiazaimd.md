@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread-OTA 用户手册下载"
+title: "RTThreadOTA 用户手册下载"
 date:   2021-10-16
 tags: [OTA,RT,Thread,用户手册,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解计算机系统（第三版）资源下载"
+title: "深入理解计算机系统第三版资源下载"
 date:   2024-10-23
 tags: [第三版,PDF,RAR,下载,计算机系统]
 comments: true

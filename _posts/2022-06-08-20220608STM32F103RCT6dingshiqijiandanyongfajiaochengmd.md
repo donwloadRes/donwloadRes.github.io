@@ -1,6 +1,30 @@
 ---
 layout: post
-title: "STM32F103RCT6 定时器简单用法教程"
+title: "STM32F103RCT6 定时器简单用法教程
+date   20200615
+tags 定时器TIMTIM2NVICSTM32F103RCT6
+comments true
+author admin
+
+ STM32F103RCT6 定时器简单用法教程
+
+欢迎来到STM32F103RCT6定时器基础教程本文档旨在为你详细介绍如何在STM32F103RCT6微控制器上配置和使用定时器特别是针对新手开发者STM32F103RCT6是一款基于ARM CortexM3核心的高效能微控制器配备了多种定时器类型包括高级控制定时器通用定时器和基本定时器分别满足不同的应用场景
+
+ 定时器概述
+
+STM32F103RCT6提供了丰富多样的定时器选项分为三类
+ 高级控制定时器 TIM1和TIM8具备16位向上下计数能力支持多种工作模式如PWM输入捕获和输出比较
+ 通用定时器 包括TIM2至TIM5同样为16位适用于更广泛的计时和控制任务
+ 基本定时器 TIM6和TIM7适合简单的定时任务如延时和周期性中断
+
+ 初始化步骤
+
+ 示例代码概览
+
+以下是配置TIM2进行简单定时的代码段展示如何设置计数器预分频器和中断
+
+c
+include stm32f10xh"
 date:   2020-06-15
 tags: [定时器,TIM,TIM2,NVIC,STM32F103RCT6]
 comments: true

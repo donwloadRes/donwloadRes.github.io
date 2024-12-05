@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "SpringBoot Web 案例作业全面指南"
+title: "SpringBoot Web 案例作业全面指南
+date   20220109
+tags 接口SpringBootWeb开发作业
+comments true
+author admin
+
+
+layout post
+title SpringBoot Web 案例作业全面指南"
 date:   2022-01-09
 tags: [接口,SpringBoot,Web,开发,作业]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "SpringBoot Web 案例作业全面指南"
+title: "SpringBoot Web 案例作业全面指南
+date   20220109
+tags 接口SpringBootWeb开发作业
+comments true
+author admin
+
+
+layout post
+title SpringBoot Web 案例作业全面指南"
 date:   2023-02-15
 tags: [接口,开发,SpringBoot,Web,作业]
 comments: true

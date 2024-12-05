@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 6.5.2连接MySQL及测试代码（附驱动文件）"
+title: "Qt 652连接MySQL及测试代码附驱动文件"
 date:   2024-04-25
 tags: [Qt,MySQL,驱动,测试代码,文件]
 comments: true

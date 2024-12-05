@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python入门与实践--作业21"
+title: "Python入门与实践作业21"
 date:   2023-03-11
 tags: [Python,代码,编程,20,文件]
 comments: true

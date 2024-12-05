@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+OpenCV 调用手机摄像头并实现人脸识别"
+title: "PythonOpenCV 调用手机摄像头并实现人脸识别"
 date:   2020-09-11
 tags: [OpenCV,摄像头,人脸识别,调用,手机]
 comments: true

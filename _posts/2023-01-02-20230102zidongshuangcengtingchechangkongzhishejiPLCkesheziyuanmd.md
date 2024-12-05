@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动双层停车场控制设计 - PLC课设资源"
+title: "自动双层停车场控制设计  PLC课设资源"
 date:   2023-08-08
 tags: [停车场,双层,设计,自动,课设]
 comments: true

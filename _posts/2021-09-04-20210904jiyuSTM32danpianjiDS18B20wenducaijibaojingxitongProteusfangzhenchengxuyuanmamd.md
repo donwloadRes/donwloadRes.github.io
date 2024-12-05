@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机DS18B20温度采集报警系统Proteus仿真+程序源码"
+title: "基于STM32单片机DS18B20温度采集报警系统Proteus仿真程序源码"
 date:   2024-10-02
 tags: [仿真,Proteus,温度,DS18B20,报警]
 comments: true

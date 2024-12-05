@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 安装 Qt5.12 指南"
+title: "Ubuntu 2004 安装 Qt512 指南"
 date:   2022-01-18
 tags: [Qt5.12,QtCreator,安装,sudo,opt]
 comments: true

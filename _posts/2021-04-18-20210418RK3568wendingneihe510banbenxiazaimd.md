@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3568 稳定内核 5.10 版本下载"
+title: "RK3568 稳定内核 510 版本下载"
 date:   2023-08-21
 tags: [RK3568,5.10,20220622,内核,kernel]
 comments: true

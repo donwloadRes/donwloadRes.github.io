@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "适用于普源 MSO1000Z - DS1000Z - DS1054Z 系列示波器的上位机软件"
+title: "适用于普源 MSO1000Z  DS1000Z  DS1054Z 系列示波器的上位机软件"
 date:   2024-05-18
 tags: [示波器,NI,VISA,软件,普源]
 comments: true

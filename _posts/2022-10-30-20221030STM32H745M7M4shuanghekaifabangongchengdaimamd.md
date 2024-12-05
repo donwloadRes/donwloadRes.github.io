@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32H745 M7+M4双核开发板工程代码"
+title: "STM32H745 M7M4双核开发板工程代码"
 date:   2024-08-06
 tags: [开发板,工程,代码,STM32H745,Cubemx]
 comments: true

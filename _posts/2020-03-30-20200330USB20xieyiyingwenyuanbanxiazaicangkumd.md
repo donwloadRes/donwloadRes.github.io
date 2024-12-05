@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB2.0 协议 英文原版 下载仓库"
+title: "USB20 协议 英文原版 下载仓库"
 date:   2023-04-26
 tags: [USB2.0,英文原版,协议,仓库,文件]
 comments: true

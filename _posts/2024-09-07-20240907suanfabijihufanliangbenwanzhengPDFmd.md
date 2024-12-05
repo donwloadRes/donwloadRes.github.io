@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法笔记-胡凡-两本完整PDF"
+title: "算法笔记胡凡两本完整PDF"
 date:   2021-08-06
 tags: [算法,笔记,PDF,数据结构,胡凡]
 comments: true

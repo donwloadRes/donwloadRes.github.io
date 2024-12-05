@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口通讯类封装"
+title: "C 串口通讯类封装"
 date:   2021-05-07
 tags: [串口,通讯,封装,文件,C#]
 comments: true

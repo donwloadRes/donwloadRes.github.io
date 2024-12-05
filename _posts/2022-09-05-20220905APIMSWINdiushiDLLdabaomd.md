@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "API-MS-WIN 丢失 DLL 打包"
+title: "APIMSWIN 丢失 DLL 打包"
 date:   2022-03-19
 tags: [dll,api,ms,win,l1]
 comments: true

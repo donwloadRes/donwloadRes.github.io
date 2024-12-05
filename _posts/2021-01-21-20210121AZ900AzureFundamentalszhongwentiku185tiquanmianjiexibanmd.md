@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AZ-900 Azure Fundamentals中文题库 - 185题全面解析版"
+title: "AZ900 Azure Fundamentals中文题库  185题全面解析版"
 date:   2022-11-21
 tags: [Azure,AZ,题库,900,185]
 comments: true

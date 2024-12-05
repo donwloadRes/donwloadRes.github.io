@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu20.04配置ORBSLAM2并运行（保姆级教程）"
+title: "Ubuntu2004配置ORBSLAM2并运行保姆级教程"
 date:   2024-06-08
 tags: [ORBSLAM2,教程,运行,配置,安装]
 comments: true

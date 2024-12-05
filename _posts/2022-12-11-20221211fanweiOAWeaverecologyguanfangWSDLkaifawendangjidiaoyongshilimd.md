@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "泛微OA（Weaver e-cology）官方WSDL开发文档及调用实例"
+title: "泛微OAWeaver ecology官方WSDL开发文档及调用实例"
 date:   2022-08-30
 tags: [OA,泛微,调用,接口,实例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILSpy 7.1 安装包和压缩包"
+title: "ILSpy 71 安装包和压缩包"
 date:   2021-08-08
 tags: [ILSpy,7.1,Visual,Studio,压缩包]
 comments: true

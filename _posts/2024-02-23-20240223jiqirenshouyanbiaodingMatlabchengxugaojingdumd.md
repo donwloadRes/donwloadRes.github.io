@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人手眼标定-Matlab程序（高精度）"
+title: "机器人手眼标定Matlab程序高精度"
 date:   2021-04-12
 tags: [标定,手眼,机器人,程序,Matlab]
 comments: true

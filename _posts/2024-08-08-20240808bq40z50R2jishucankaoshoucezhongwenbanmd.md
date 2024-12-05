@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bq40z50-R2 技术参考手册中文版"
+title: "bq40z50R2 技术参考手册中文版"
 date:   2021-01-01
 tags: [R2,参考手册,本手册,bq40z50,BQ40Z50]
 comments: true

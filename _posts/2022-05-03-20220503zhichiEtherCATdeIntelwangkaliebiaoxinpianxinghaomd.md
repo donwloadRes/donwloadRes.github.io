@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支持EtherCAT的Intel网卡列表（芯片型号）"
+title: "支持EtherCAT的Intel网卡列表芯片型号"
 date:   2022-01-04
 tags: [网卡,EtherCAT,Intel,芯片型号,文件]
 comments: true

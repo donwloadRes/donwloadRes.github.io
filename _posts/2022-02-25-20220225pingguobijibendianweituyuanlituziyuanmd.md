@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果笔记本点位图+原理图资源"
+title: "苹果笔记本点位图原理图资源"
 date:   2021-02-08
 tags: [原理图,笔记本,苹果,点位,资源]
 comments: true

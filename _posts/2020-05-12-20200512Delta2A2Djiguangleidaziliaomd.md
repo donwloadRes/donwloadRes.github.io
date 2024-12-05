@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delta-2A 2D激光雷达资料"
+title: "Delta2A 2D激光雷达资料"
 date:   2021-12-19
 tags: [Delta,激光雷达,2A,2D,驱动程序]
 comments: true

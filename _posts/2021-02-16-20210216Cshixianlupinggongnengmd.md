@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现录屏功能"
+title: "C 实现录屏功能"
 date:   2024-05-26
 tags: [录屏,功能,Interop,WMEncoderLib,dll]
 comments: true

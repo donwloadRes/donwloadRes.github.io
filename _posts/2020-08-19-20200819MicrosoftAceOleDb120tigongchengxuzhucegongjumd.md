@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.Ace.OleDb.12.0 提供程序注册工具"
+title: "MicrosoftAceOleDb120 提供程序注册工具"
 date:   2024-02-26
 tags: [注册,Microsoft,Ace,OleDb.12,文件]
 comments: true

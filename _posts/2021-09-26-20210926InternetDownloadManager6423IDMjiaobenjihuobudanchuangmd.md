@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager 6.42.3 (IDM) 脚本激活不弹窗"
+title: "Internet Download Manager 6423 IDM 脚本激活不弹窗"
 date:   2023-12-03
 tags: [脚本,IDM,6.42,激活,Internet]
 comments: true

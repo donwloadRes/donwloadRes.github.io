@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫：使用Scrapy框架爬取51Job职位数据"
+title: "Python爬虫使用Scrapy框架爬取51Job职位数据"
 date:   2021-07-22
 tags: [爬虫,职位,Scrapy,爬取,Python]
 comments: true

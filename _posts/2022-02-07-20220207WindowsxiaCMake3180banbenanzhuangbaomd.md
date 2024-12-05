@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下CMake 3.18.0版本安装包"
+title: "Windows下CMake 3180版本安装包"
 date:   2020-05-18
 tags: [CMake,安装包,3.18,版本,安装]
 comments: true

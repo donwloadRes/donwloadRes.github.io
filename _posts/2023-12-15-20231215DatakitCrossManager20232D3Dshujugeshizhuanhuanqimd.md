@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Datakit CrossManager 2023 2D-3D数据格式转换器"
+title: "Datakit CrossManager 2023 2D3D数据格式转换器"
 date:   2020-12-19
 tags: [转换,文件格式,CAD,软件,数据格式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 数据库 安装、配置、访问资源"
+title: "Redis 数据库 安装配置访问资源"
 date:   2024-06-01
 tags: [Redis,安装包,安装,Linux,Windows]
 comments: true

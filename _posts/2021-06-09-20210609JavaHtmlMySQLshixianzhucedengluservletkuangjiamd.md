@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java+Html+MySQL 实现 注册、登录(servlet框架)"
+title: "JavaHtmlMySQL 实现 注册登录servlet框架"
 date:   2021-05-28
 tags: [数据库,登录,Servlet,页面,MySQL]
 comments: true

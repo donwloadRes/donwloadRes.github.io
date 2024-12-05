@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django+Bootstrap实现用户注册和登录功能"
+title: "DjangoBootstrap实现用户注册和登录功能"
 date:   2020-07-31
 tags: [验证码,登录,Redis,用户,Django]
 comments: true

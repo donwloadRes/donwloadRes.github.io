@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 年 Java 面试指南（500 千字）资源下载"
+title: "2024 年 Java 面试指南500 千字资源下载"
 date:   2024-04-03
 tags: [Java,面试,2024,指南,知识点]
 comments: true

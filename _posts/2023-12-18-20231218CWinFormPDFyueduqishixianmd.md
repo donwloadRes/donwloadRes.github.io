@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm PDF阅读器实现"
+title: "C WinForm PDF阅读器实现"
 date:   2023-12-26
 tags: [PDF,C#,WinForm,阅读器,阅读]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业机器人技术课件PPT（内容全）"
+title: "工业机器人技术课件PPT内容全"
 date:   2021-08-21
 tags: [机器人,课件,工业,运动学,PPT]
 comments: true

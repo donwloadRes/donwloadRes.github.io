@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9-7链表数据求和操作"
+title: "97链表数据求和操作"
 date:   2023-10-25
 tags: [链表,复数,10,数据结构,内存]
 comments: true

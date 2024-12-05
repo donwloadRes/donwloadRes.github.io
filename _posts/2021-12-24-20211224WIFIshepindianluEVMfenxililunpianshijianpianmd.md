@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIFI射频电路EVM分析(理论篇+实践篇)"
+title: "WIFI射频电路EVM分析理论篇实践篇"
 date:   2022-09-29
 tags: [EVM,射频,WIFI,电路,无线通信]
 comments: true

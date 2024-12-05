@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCNA eNSP实验手册 v0.6.1完整版"
+title: "HCNA eNSP实验手册 v061完整版"
 date:   2022-12-15
 tags: [配置,本手册,网络,HCNA,手册]
 comments: true

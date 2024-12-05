@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FiveDay-Spring 用户登录项目源代码"
+title: "FiveDaySpring 用户登录项目源代码"
 date:   2024-05-24
 tags: [Spring,源代码,项目,登录,FiveDay]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mathematica最全教程(使用手册)"
+title: "Mathematica最全教程使用手册"
 date:   2024-09-02
 tags: [Mathematica,教程,使用手册,最全,文件]
 comments: true

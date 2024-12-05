@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网件RAX70 SWRT固件和刷机-救砖教程"
+title: "网件RAX70 SWRT固件和刷机救砖教程"
 date:   2023-07-14
 tags: [固件,路由器,网件,教程,SWRT]
 comments: true

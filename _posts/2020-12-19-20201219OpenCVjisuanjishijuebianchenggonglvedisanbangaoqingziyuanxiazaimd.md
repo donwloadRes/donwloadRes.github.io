@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV计算机视觉编程攻略（第三版）高清资源下载"
+title: "OpenCV计算机视觉编程攻略第三版高清资源下载"
 date:   2023-05-26
 tags: [OpenCV,高清,视觉,PDF,第三版]
 comments: true

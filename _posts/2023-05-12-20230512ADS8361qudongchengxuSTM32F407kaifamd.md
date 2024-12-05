@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS8361驱动程序 - STM32F407开发"
+title: "ADS8361驱动程序  STM32F407开发"
 date:   2021-07-07
 tags: [采样,ADS8361,STM32F407,驱动程序,单片机]
 comments: true

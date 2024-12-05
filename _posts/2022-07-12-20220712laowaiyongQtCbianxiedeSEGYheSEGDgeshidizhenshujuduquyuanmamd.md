@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "老歪用Qt C++编写的SEGY和SEGD格式地震数据读取源码"
+title: "老歪用Qt C编写的SEGY和SEGD格式地震数据读取源码"
 date:   2021-06-21
 tags: [SEGY,SEGD,源码,Qt,地震]
 comments: true

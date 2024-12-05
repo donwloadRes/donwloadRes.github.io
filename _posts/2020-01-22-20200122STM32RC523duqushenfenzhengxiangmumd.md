@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+RC523读取身份证项目"
+title: "STM32RC523读取身份证项目"
 date:   2023-05-26
 tags: [STM32,读取,身份证,RC523,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer 蓝光超清版资源下载"
+title: "C Primer 蓝光超清版资源下载"
 date:   2022-06-11
 tags: [C++,文件,Primer,下载,笔记]
 comments: true

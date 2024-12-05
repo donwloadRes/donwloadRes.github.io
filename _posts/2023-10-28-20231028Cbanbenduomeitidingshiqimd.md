@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版本多媒体定时器"
+title: "C版本多媒体定时器"
 date:   2021-07-18
 tags: [定时器,定时,延时,单次,MmTimer]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "某网公司系统硬件和系统软件部署方案V1.1"
+title: "某网公司系统硬件和系统软件部署方案V11"
 date:   2020-08-27
 tags: [部署,系统软件,硬件,V1.1,文档]
 comments: true

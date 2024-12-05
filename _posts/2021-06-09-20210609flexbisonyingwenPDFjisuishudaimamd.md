@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flex&bison 英文PDF 及随书代码"
+title: "flexbison 英文PDF 及随书代码"
 date:   2023-12-12
 tags: [lex,yacc,编译器,flex,bison]
 comments: true

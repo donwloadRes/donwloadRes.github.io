@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费【STM32+HAL】直流电机PID控制资源下载"
+title: "免费STM32HAL直流电机PID控制资源下载"
 date:   2024-08-19
 tags: [PID,电机,直流电机,转速,控制]
 comments: true

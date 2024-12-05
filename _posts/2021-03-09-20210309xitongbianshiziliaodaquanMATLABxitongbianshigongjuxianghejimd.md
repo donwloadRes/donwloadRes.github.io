@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统辨识资料大全 (MATLAB系统辨识工具箱) 合集"
+title: "系统辨识资料大全 MATLAB系统辨识工具箱 合集"
 date:   2023-09-25
 tags: [辨识,MATLAB,系统,工具箱,合集]
 comments: true

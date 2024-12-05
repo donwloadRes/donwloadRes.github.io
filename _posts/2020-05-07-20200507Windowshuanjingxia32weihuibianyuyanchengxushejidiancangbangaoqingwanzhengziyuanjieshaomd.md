@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows环境下32位汇编语言程序设计（典藏版）高清完整资源介绍"
+title: "Windows环境下32位汇编语言程序设计典藏版高清完整资源介绍"
 date:   2020-04-29
 tags: [Windows,32,汇编语言,典藏版,资源]
 comments: true

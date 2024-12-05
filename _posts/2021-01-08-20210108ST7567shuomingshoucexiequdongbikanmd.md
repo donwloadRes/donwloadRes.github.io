@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST7567 说明手册 - 写驱动必看"
+title: "ST7567 说明手册  写驱动必看"
 date:   2024-06-10
 tags: [ST7567,手册,驱动,驱动程序,这份]
 comments: true

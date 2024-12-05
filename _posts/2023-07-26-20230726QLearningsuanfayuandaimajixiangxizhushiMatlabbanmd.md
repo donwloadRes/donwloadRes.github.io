@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Q-Learning 算法源代码及详细注释（Matlab版）"
+title: "QLearning 算法源代码及详细注释Matlab版"
 date:   2021-02-06
 tags: [Learning,算法,源代码,注释,Matlab]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“无法定位程序输入点 SetDefaultDllDirectories 于动态链接库 KERNEL32.dll”问题"
+title: "解决无法定位程序输入点 SetDefaultDllDirectories 于动态链接库 KERNEL32dll问题"
 date:   2022-02-17
 tags: [动态链接库,SetDefaultDllDirectories,KERNEL32,dll,程序]
 comments: true

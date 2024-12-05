@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1500 Modbus TCP通信示例程序"
+title: "S71500 Modbus TCP通信示例程序"
 date:   2021-06-24
 tags: [PLC,S7,1500,Modbus,TCP]
 comments: true

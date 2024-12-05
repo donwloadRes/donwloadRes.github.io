@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达课后编程作业：卷积神经网络第二周资源"
+title: "吴恩达课后编程作业卷积神经网络第二周资源"
 date:   2023-08-14
 tags: [卷积,图像,模型,CNN,Keras]
 comments: true

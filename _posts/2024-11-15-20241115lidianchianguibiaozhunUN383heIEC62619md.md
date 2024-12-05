@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锂电池安规标准UN38.3和IEC62619"
+title: "锂电池安规标准UN383和IEC62619"
 date:   2023-12-13
 tags: [锂电池,标准,UN38.3,IEC62619,安规]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华科计算机组成原理实验（详细注解） 运算器设计(HUST) Educoder平台 Logisim环境"
+title: "华科计算机组成原理实验详细注解 运算器设计HUST Educoder平台 Logisim环境"
 date:   2021-06-28
 tags: [设计,Logisim,运算器,电路设计,实验]
 comments: true

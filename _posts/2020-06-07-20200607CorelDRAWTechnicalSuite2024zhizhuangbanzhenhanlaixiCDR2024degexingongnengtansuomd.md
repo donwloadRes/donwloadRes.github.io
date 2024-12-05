@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Technical Suite 2024直装版震撼来袭 - CDR2024的革新功能探索"
+title: "CorelDRAW Technical Suite 2024直装版震撼来袭  CDR2024的革新功能探索"
 date:   2023-01-07
 tags: [CorelDRAW,2024,装版,Technical,Suite]
 comments: true

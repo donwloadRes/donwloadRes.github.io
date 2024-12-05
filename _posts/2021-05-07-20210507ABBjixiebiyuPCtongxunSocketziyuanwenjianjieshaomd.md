@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB机械臂与PC通讯（Socket）资源文件介绍"
+title: "ABB机械臂与PC通讯Socket资源文件介绍"
 date:   2021-05-09
 tags: [BB机,PC,Socket,程序,通讯]
 comments: true

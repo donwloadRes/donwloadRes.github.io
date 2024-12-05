@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD输入法智能切换插件-键盘侠"
+title: "CAD输入法智能切换插件键盘侠"
 date:   2021-02-15
 tags: [输入法,插件,切换,CAD,键盘]
 comments: true

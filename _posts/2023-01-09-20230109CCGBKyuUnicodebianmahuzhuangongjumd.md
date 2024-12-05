@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ GBK与Unicode编码互转工具"
+title: "CC GBK与Unicode编码互转工具"
 date:   2022-02-08
 tags: [编码,Unicode,源代码,转换,C++]
 comments: true

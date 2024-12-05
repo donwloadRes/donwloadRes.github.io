@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用 OpenCV 和 Python 检测两个图像的相似程度（SIFT算法，包括代码和数据）"
+title: "使用 OpenCV 和 Python 检测两个图像的相似程度SIFT算法包括代码和数据"
 date:   2023-07-29
 tags: [图像,SIFT,代码,OpenCV,算法]
 comments: true

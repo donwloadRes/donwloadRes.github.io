@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统课程设计报告-周林锋1"
+title: "操作系统课程设计报告周林锋1"
 date:   2022-10-19
 tags: [课程设计,操作系统,周林锋,报告,计算机科学]
 comments: true

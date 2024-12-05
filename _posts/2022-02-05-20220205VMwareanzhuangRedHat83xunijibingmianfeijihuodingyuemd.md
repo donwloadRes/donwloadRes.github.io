@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware安装RedHat8.3虚拟机并免费激活订阅"
+title: "VMware安装RedHat83虚拟机并免费激活订阅"
 date:   2020-02-14
 tags: [虚拟机,安装,RedHat8.3,激活,订阅]
 comments: true

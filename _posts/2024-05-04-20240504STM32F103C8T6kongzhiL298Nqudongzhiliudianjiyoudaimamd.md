@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6控制L298N驱动直流电机(有代码)"
+title: "STM32F103C8T6控制L298N驱动直流电机有代码"
 date:   2021-08-21
 tags: [电机,STM32F103C8T6,L298N,按键,模块]
 comments: true

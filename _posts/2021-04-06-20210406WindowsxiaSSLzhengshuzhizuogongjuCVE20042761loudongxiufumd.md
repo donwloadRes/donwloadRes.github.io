@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下SSL证书制作工具 - CVE-2004-2761漏洞修复"
+title: "Windows下SSL证书制作工具  CVE20042761漏洞修复"
 date:   2021-07-19
 tags: [证书,SSL,Windows,CVE,2004]
 comments: true

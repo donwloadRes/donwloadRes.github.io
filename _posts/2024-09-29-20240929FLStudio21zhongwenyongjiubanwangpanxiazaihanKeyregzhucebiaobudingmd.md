@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21中文永久版网盘下载（含Key.reg注册表补丁）"
+title: "FL Studio 21中文永久版网盘下载含Keyreg注册表补丁"
 date:   2021-08-10
 tags: [Studio,FL,21,软件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM视频流和人脸识别快速入门指南"
+title: "ESP32CAM视频流和人脸识别快速入门指南"
 date:   2021-03-30
 tags: [ESP32,CAM,视频流,Arduino,IDE]
 comments: true

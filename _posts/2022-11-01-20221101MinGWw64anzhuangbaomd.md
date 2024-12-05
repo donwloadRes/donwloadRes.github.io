@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64安装包"
+title: "MinGWw64安装包"
 date:   2023-03-04
 tags: [MinGW,w64,安装包,Windows,GNU]
 comments: true

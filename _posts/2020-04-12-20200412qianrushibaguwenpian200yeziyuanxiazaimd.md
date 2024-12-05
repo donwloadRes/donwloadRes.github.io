@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式八股文篇(200页) 资源下载"
+title: "嵌入式八股文篇200页 资源下载"
 date:   2023-12-05
 tags: [嵌入式,200,docx,八股文,文档]
 comments: true

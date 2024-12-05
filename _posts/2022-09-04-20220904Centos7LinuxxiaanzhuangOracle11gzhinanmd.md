@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7（Linux）下安装Oracle11g指南"
+title: "Centos7Linux下安装Oracle11g指南"
 date:   2022-03-17
 tags: [安装,Oracle11g,安装包,Centos7,Oracle]
 comments: true

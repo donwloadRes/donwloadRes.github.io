@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术基础（第五版）- 童诗白、华成英"
+title: "模拟电子技术基础第五版 童诗白华成英"
 date:   2023-05-13
 tags: [电子,PDF,技术,模拟,第五版]
 comments: true

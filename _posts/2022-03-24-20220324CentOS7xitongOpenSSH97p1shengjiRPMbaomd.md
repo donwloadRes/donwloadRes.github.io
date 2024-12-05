@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7 系统 OpenSSH 9.7p1 升级 RPM 包"
+title: "CentOS 7 系统 OpenSSH 97p1 升级 RPM 包"
 date:   2020-10-15
 tags: [OpenSSH,RPM,p1,9.7,bash]
 comments: true

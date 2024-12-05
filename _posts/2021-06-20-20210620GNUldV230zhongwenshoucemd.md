@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNU-ld-V2.30中文手册"
+title: "GNUldV230中文手册"
 date:   2020-08-16
 tags: [GNU,ld,链接,V2.30,手册]
 comments: true

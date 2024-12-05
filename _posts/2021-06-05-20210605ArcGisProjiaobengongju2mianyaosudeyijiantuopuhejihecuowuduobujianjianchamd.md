@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGisPro脚本工具【2】——面要素的一键拓扑和几何错误、多部件检查"
+title: "ArcGisPro脚本工具2面要素的一键拓扑和几何错误多部件检查"
 date:   2023-09-07
 tags: [检查,要素,错误,几何,部件]
 comments: true

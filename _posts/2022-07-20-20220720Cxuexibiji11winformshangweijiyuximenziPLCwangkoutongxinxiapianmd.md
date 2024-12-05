@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#学习笔记11：winform上位机与西门子PLC网口通信-下篇"
+title: "C学习笔记11winform上位机与西门子PLC网口通信下篇"
 date:   2024-03-16
 tags: [PLC,C#,西门子,通信,网口]
 comments: true

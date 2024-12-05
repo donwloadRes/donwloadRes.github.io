@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Aspx微信支付V3 Demo"
+title: "C Aspx微信支付V3 Demo"
 date:   2023-09-15
 tags: [微信,支付,C#,V3,Aspx]
 comments: true

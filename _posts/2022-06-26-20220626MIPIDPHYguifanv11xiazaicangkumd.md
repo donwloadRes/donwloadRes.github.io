@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 规范 v1.1 下载仓库"
+title: "MIPI DPHY 规范 v11 下载仓库"
 date:   2020-05-08
 tags: [MIPI,PHY,文件,v1.1,下载]
 comments: true

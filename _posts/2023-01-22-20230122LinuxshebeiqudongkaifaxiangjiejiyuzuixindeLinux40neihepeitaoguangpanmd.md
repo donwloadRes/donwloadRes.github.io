@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux设备驱动开发详解：基于最新的Linux 4.0内核配套光盘"
+title: "Linux设备驱动开发详解基于最新的Linux 40内核配套光盘"
 date:   2022-06-23
 tags: [Linux,设备,驱动,内核,开发]
 comments: true

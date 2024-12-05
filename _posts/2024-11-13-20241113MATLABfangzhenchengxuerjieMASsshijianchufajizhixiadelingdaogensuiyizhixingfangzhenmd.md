@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真程序：二阶MASs事件触发机制下的领导跟随一致性仿真"
+title: "MATLAB仿真程序二阶MASs事件触发机制下的领导跟随一致性仿真"
 date:   2023-05-30
 tags: [触发,仿真,智能,系统,MATLAB]
 comments: true

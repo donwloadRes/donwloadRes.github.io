@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AStyle for Keil - 代码美化利器"
+title: "AStyle for Keil  代码美化利器"
 date:   2022-10-23
 tags: [代码,AStyle,Keil,快捷键,格式化]
 comments: true

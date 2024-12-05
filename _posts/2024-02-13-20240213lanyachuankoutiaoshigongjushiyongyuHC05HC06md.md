@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙串口调试工具（适用于HC-05，HC-06）"
+title: "蓝牙串口调试工具适用于HC05HC06"
 date:   2020-04-10
 tags: [调试,HC,蓝牙,串口,06]
 comments: true

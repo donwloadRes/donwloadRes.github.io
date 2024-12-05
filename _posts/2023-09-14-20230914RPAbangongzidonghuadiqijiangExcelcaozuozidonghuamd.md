@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RPA 办公自动化 第七讲：Excel操作自动化"
+title: "RPA 办公自动化 第七讲Excel操作自动化"
 date:   2021-03-30
 tags: [RPA,Excel,办公自动化,自动化,操作]
 comments: true

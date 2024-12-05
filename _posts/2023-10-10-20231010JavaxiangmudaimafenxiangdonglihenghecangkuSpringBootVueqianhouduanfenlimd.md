@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java项目代码分享动力恒合仓库》SpringBoot+Vue前后端分离"
+title: "Java项目代码分享动力恒合仓库SpringBootVue前后端分离"
 date:   2023-08-06
 tags: [管理,仓库,Vue,js,Spring]
 comments: true

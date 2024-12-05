@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ 2015 Redistributable x64-x86安装包下载"
+title: "Microsoft Visual C 2015 Redistributable x64x86安装包下载"
 date:   2022-01-27
 tags: [安装包,C++,Visual,2015,x64]
 comments: true

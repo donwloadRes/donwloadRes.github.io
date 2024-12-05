@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 手写识别工具"
+title: "C WinForm 手写识别工具"
 date:   2023-02-10
 tags: [识别,手写,文件,WinForm,解压]
 comments: true

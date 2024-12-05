@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EA源码集合：海龟、马丁、趋势等17个源码"
+title: "EA源码集合海龟马丁趋势等17个源码"
 date:   2020-10-01
 tags: [源码,EA,17,mq4,海龟]
 comments: true

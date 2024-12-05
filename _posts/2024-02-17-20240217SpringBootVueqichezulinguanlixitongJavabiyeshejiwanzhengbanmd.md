@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue汽车租赁管理系统 Java毕业设计 完整版"
+title: "SpringBootVue汽车租赁管理系统 Java毕业设计 完整版"
 date:   2024-09-11
 tags: [管理员,管理,SpringBoot,用户,毕业设计]
 comments: true

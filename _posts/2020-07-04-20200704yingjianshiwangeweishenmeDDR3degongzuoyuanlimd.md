@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件十万个为什么——DDR3的工作原理"
+title: "硬件十万个为什么DDR3的工作原理"
 date:   2021-11-14
 tags: [DDR3,读写,内存,文档,原理]
 comments: true

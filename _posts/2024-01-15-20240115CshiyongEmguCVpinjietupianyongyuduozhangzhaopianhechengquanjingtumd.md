@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 EmguCV 拼接图片（用于多张照片合成全景图）"
+title: "C 使用 EmguCV 拼接图片用于多张照片合成全景图"
 date:   2024-04-19
 tags: [拼接,全景图,图片,EmguCV,选择]
 comments: true

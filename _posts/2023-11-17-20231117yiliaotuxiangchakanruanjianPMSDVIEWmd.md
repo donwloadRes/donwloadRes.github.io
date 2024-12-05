@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医疗图像查看软件 - PMSDVIEW"
+title: "医疗图像查看软件  PMSDVIEW"
 date:   2024-05-23
 tags: [图像,PMSDVIEW,查看,医疗,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据链Link-16学习资料下载"
+title: "数据链Link16学习资料下载"
 date:   2020-05-24
 tags: [Link,16,数据链,资料,学习]
 comments: true

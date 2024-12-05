@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音驱动数字人唇形模型：SadTalker-Video-Lip-Sync"
+title: "语音驱动数字人唇形模型SadTalkerVideoLipSync"
 date:   2023-11-10
 tags: [模型,唇形,语音,SadTalker,Video]
 comments: true

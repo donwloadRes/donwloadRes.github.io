@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA部分动态重配置傻瓜教程+实例工程_实测可行"
+title: "FPGA部分动态重配置傻瓜教程实例工程实测可行"
 date:   2021-01-11
 tags: [FPGA,配置,教程,动态,部分]
 comments: true

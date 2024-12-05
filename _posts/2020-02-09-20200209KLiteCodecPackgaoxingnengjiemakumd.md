@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K-Lite Codec Pack 高性能解码库"
+title: "KLite Codec Pack 高性能解码库"
 date:   2020-08-23
 tags: [解码,Lite,Codec,Pack,LAVFilters]
 comments: true

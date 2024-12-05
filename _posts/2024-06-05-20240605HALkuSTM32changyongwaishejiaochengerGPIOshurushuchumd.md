@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HAL库STM32常用外设教程（二）—— GPIO输入输出"
+title: "HAL库STM32常用外设教程二 GPIO输入输出"
 date:   2021-09-27
 tags: [GPIO,引脚,教程,HAL,STM32]
 comments: true

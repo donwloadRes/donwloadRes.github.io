@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IMX571BQR-C 数据手册下载"
+title: "IMX571BQRC 数据手册下载"
 date:   2024-01-24
 tags: [IMX571BQR,IMX571,传感器,Gbps,下载]
 comments: true

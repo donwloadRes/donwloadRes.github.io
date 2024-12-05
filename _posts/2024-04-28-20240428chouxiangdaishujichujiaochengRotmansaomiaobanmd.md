@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抽象代数基础教程 - Rotman 扫描版"
+title: "抽象代数基础教程  Rotman 扫描版"
 date:   2022-07-15
 tags: [抽象代数,基础教程,Rotman,扫描,学习]
 comments: true

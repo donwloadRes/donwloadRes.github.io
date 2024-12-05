@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMA电力规约模拟仿真软件_101、104规约"
+title: "PMA电力规约模拟仿真软件101104规约"
 date:   2024-11-18
 tags: [规约,模拟,仿真,101,104]
 comments: true

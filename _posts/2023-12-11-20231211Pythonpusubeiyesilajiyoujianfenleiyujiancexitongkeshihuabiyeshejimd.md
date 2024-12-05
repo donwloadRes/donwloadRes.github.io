@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python朴素贝叶斯垃圾邮件分类与检测系统+可视化 毕业设计"
+title: "Python朴素贝叶斯垃圾邮件分类与检测系统可视化 毕业设计"
 date:   2022-06-14
 tags: [邮件,贝叶斯,算法,垃圾邮件,朴素]
 comments: true

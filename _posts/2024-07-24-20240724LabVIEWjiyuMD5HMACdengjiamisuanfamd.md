@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW基于MD5-HMAC等加密算法"
+title: "LabVIEW基于MD5HMAC等加密算法"
 date:   2023-12-31
 tags: [LabVIEW,加密算法,加密,安全,示例]
 comments: true

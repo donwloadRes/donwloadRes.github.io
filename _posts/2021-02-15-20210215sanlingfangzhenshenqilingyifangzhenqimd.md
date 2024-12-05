@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱仿真神器-凌一仿真器"
+title: "三菱仿真神器凌一仿真器"
 date:   2024-11-22
 tags: [PLC,仿真,串口,仿真器,凌一]
 comments: true

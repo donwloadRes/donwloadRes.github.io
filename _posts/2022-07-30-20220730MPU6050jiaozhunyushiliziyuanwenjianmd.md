@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU-6050 校准与示例资源文件"
+title: "MPU6050 校准与示例资源文件"
 date:   2020-05-31
 tags: [Arduino,示例,MPU,6050,该库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle数据库连接工具 - PLSQL轻桌面工具包"
+title: "Oracle数据库连接工具  PLSQL轻桌面工具包"
 date:   2022-02-16
 tags: [PLSQL,Oracle,工具包,数据库,Developer]
 comments: true

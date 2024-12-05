@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "管理员必备：常用命令大全"
+title: "管理员必备常用命令大全"
 date:   2022-12-03
 tags: [管理员,常用命令,文档,命令,必备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LSM6DS3加速度传感器应用手册（中文）"
+title: "LSM6DS3加速度传感器应用手册中文"
 date:   2023-10-25
 tags: [LSM6DS3,传感器,加速度,手册,应用]
 comments: true

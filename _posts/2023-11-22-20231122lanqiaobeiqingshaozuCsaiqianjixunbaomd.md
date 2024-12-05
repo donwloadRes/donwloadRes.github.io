@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯青少组C++赛前集训包"
+title: "蓝桥杯青少组C赛前集训包"
 date:   2020-04-22
 tags: [C++,编程,教程,蓝桥,赛前]
 comments: true

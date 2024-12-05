@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java呼叫中心系统源码 - FISH-UCKeFu: 基于UCKeFu的全渠道客户支持平台"
+title: "Java呼叫中心系统源码  FISHUCKeFu 基于UCKeFu的全渠道客户支持平台"
 date:   2021-11-14
 tags: [UCKeFu,源码,Java,系统,FISH]
 comments: true

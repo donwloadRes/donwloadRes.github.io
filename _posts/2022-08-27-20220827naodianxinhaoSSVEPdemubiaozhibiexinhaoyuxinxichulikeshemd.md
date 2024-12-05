@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "脑电信号SSVEP的目标识别（信号与信息处理课设）"
+title: "脑电信号SSVEP的目标识别信号与信息处理课设"
 date:   2023-04-02
 tags: [电信号,目标,识别,试次,频谱]
 comments: true

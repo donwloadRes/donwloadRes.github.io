@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3bz 标准资源"
+title: "IEEE 8023bz 标准资源"
 date:   2020-01-14
 tags: [IEEE,bz,网络,文档,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mac版Aseprite像素画软件，支持m1-m2芯片"
+title: "mac版Aseprite像素画软件支持m1m2芯片"
 date:   2024-01-27
 tags: [Aseprite,像素,动画,Mac,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0开发的单片机串口温度采集系统"
+title: "VB60开发的单片机串口温度采集系统"
 date:   2021-12-22
 tags: [单片机,VB6.0,串口,温度,PC]
 comments: true

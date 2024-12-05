@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 旋钮控件项目"
+title: "C 旋钮控件项目"
 date:   2020-11-28
 tags: [控件,旋钮,类库,项目,属性]
 comments: true

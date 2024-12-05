@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 7系列FPGA和Zynq-7000 SoC库指南"
+title: "Vivado 7系列FPGA和Zynq7000 SoC库指南"
 date:   2020-10-26
 tags: [Vivado,FPGA,Design,Suite,SoC]
 comments: true

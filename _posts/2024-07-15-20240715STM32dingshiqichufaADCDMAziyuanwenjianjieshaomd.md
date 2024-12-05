@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32定时器触发ADC + DMA资源文件介绍"
+title: "STM32定时器触发ADC  DMA资源文件介绍"
 date:   2022-02-19
 tags: [ADC,DMA,定时器,STM32,触发]
 comments: true

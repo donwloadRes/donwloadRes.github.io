@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统设计面试内部指南（第2卷）- Alex Xu"
+title: "系统设计面试内部指南第2卷 Alex Xu"
 date:   2021-10-10
 tags: [面试,设计,系统,指南,Alex]
 comments: true

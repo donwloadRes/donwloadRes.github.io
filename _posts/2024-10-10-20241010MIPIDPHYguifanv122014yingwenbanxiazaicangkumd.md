@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY规范v1.2（2014英文版）下载仓库"
+title: "MIPI DPHY规范v122014英文版下载仓库"
 date:   2021-05-28
 tags: [PHY,MIPI,规范,英文版,文件]
 comments: true

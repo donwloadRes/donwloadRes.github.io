@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Proteus仿真ADC083X.DLL报错的问题"
+title: "解决Proteus仿真ADC083XDLL报错的问题"
 date:   2022-01-05
 tags: [ADC083X,Proteus,仿真,文件,dll]
 comments: true

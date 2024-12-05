@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业人事管理系统（C#+SQL数据库）"
+title: "企业人事管理系统CSQL数据库"
 date:   2024-07-05
 tags: [信息,数据库,录入,SQL,信息管理]
 comments: true

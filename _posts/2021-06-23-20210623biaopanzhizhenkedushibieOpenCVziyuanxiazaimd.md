@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "表盘指针刻度识别-OpenCV资源下载"
+title: "表盘指针刻度识别OpenCV资源下载"
 date:   2024-09-11
 tags: [表盘,代码,识别,OpenCV,刻度]
 comments: true

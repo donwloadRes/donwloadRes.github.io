@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安川 Σ-7S伺服 资源"
+title: "安川 7S伺服 资源"
 date:   2021-05-19
 tags: [伺服,7S,单元,用户,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR3 FLY-BY 拓扑结构示例（Allegro）"
+title: "DDR3 FLYBY 拓扑结构示例Allegro"
 date:   2022-08-29
 tags: [DDR3,FLY,拓扑,Allegro,示例]
 comments: true

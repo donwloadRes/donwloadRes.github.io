@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LSTM神经网络的通用股票预测源代码+模型+数据集"
+title: "基于LSTM神经网络的通用股票预测源代码模型数据集"
 date:   2023-11-16
 tags: [模型,py,预测,LSTM,神经网络]
 comments: true

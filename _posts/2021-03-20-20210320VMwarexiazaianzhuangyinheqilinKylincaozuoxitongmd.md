@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware下载&安装银河麒麟（Kylin）操作系统"
+title: "VMware下载安装银河麒麟Kylin操作系统"
 date:   2023-09-17
 tags: [VMware,麒麟,虚拟机,银河,操作系统]
 comments: true

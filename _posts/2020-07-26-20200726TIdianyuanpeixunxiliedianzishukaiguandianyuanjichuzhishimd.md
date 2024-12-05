@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TI电源培训系列电子书——开关电源基础知识"
+title: "TI电源培训系列电子书开关电源基础知识"
 date:   2020-08-20
 tags: [开关电源,电源,TI,电子书,基础知识]
 comments: true

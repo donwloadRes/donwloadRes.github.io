@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微型计算机原理与接口技术》课后答案下载"
+title: "微型计算机原理与接口技术课后答案下载"
 date:   2020-03-24
 tags: [课后,接口技术,答案,微型,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SNMP功能开发简介：使用MIB Builder创建MIB文件图文介绍"
+title: "SNMP功能开发简介使用MIB Builder创建MIB文件图文介绍"
 date:   2024-02-12
 tags: [MIB,节点,文件,创建,SNMP]
 comments: true

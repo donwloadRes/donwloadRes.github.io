@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TP2830spec100218_brief.pdf 资源文件介绍"
+title: "TP2830spec100218briefpdf 资源文件介绍"
 date:   2022-03-03
 tags: [TP2830,芯片,TP2830spec100218,brief,pdf]
 comments: true

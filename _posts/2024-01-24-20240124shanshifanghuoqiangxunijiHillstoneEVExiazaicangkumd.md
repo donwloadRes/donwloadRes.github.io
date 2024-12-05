@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "山石防火墙虚拟机（Hillstone-EVE）下载仓库"
+title: "山石防火墙虚拟机HillstoneEVE下载仓库"
 date:   2021-08-19
 tags: [虚拟机,防火墙,Hillstone,EVE,山石]
 comments: true

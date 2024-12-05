@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体器件物理-施敏 资源下载"
+title: "半导体器件物理施敏 资源下载"
 date:   2024-10-03
 tags: [器件,引言,特性,半导体,二极管]
 comments: true

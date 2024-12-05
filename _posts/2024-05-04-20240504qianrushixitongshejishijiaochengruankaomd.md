@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统设计师教程（软考）"
+title: "嵌入式系统设计师教程软考"
 date:   2020-05-19
 tags: [嵌入式,系统,设计,教程,软考]
 comments: true

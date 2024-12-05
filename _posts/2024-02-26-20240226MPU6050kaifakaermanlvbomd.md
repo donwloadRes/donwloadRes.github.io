@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MPU6050开发 -- 卡尔曼滤波"
+title: "MPU6050开发  卡尔曼滤波"
 date:   2022-12-21
 tags: [卡尔曼滤波,MPU6050,传感器,代码,文档]
 comments: true

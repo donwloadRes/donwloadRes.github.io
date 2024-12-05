@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "adb_root: Magisk模块，实现ADB Root功能"
+title: "adbroot Magisk模块实现ADB Root功能"
 date:   2022-09-13
 tags: [adb,root,模块,Android,Magisk]
 comments: true

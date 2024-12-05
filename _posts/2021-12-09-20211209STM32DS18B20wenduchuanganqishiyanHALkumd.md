@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 DS18B20温度传感器实验（HAL库）"
+title: "STM32 DS18B20温度传感器实验HAL库"
 date:   2023-01-03
 tags: [DS18B20,HAL,STM32,串口,温度传感器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用拉普拉斯变换表（全）"
+title: "常用拉普拉斯变换表全"
 date:   2021-07-17
 tags: [变换,拉普拉斯,公式,时域,频域]
 comments: true

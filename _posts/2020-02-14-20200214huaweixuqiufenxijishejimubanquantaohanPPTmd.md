@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为需求分析及设计模板（全套含PPT）"
+title: "华为需求分析及设计模板全套含PPT"
 date:   2024-03-09
 tags: [模板,设计,需求,PPT,文档]
 comments: true

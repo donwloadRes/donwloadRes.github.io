@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zotreo+坚果云+zotfile全套安装包下载指南"
+title: "Zotreo坚果云zotfile全套安装包下载指南"
 date:   2021-09-28
 tags: [Zotero,坚果,zotfile,文献,插件]
 comments: true

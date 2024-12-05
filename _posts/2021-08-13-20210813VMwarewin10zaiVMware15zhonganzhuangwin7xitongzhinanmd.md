@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【VMware】win 10：在VMware 15 中安装win 7 系统指南"
+title: "VMwarewin 10在VMware 15 中安装win 7 系统指南"
 date:   2023-09-06
 tags: [VMware,Windows,虚拟机,安装,15]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 数据手册（中文版）下载"
+title: "STM32F103 数据手册中文版下载"
 date:   2023-12-03
 tags: [STM32F103,手册,微控制器,中文,pdf]
 comments: true

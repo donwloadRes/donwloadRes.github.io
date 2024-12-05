@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEMA0183协议中文分析（全）"
+title: "NEMA0183协议中文分析全"
 date:   2021-09-17
 tags: [NEMA0183,航海,协议,通信,中文]
 comments: true

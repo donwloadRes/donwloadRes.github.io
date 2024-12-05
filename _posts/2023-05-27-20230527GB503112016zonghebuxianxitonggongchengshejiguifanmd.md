@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB 50311-2016 综合布线系统工程设计规范"
+title: "GB 503112016 综合布线系统工程设计规范"
 date:   2020-03-12
 tags: [布线,系统工程,2016,设计规范,GB]
 comments: true

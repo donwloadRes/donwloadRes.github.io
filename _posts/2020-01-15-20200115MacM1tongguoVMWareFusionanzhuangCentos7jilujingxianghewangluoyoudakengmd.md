@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac M1通过VMWare Fusion安装Centos7记录(镜像和网络有大坑)"
+title: "Mac M1通过VMWare Fusion安装Centos7记录镜像和网络有大坑"
 date:   2022-09-04
 tags: [Centos7,镜像,SSH,配置,安装]
 comments: true

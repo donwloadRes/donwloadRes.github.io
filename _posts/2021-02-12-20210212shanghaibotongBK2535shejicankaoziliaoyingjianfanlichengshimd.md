@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "上海博通BK2535设计参考资料+硬件+范例程式"
+title: "上海博通BK2535设计参考资料硬件范例程式"
 date:   2023-03-25
 tags: [BK2535,芯片,开发板,描述,开发者]
 comments: true

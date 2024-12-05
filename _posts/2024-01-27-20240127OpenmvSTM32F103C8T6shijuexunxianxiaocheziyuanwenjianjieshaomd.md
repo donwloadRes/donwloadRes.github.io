@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Openmv+STM32F103C8T6视觉巡线小车资源文件介绍"
+title: "OpenmvSTM32F103C8T6视觉巡线小车资源文件介绍"
 date:   2020-07-02
 tags: [OpenMV,STM32,小车,巡线,视觉]
 comments: true

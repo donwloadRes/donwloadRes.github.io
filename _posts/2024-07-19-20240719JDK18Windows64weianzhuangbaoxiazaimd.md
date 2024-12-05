@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 Windows 64位安装包下载"
+title: "JDK 18 Windows 64位安装包下载"
 date:   2024-04-03
 tags: [Java,JDK,安装包,1.8,下载]
 comments: true

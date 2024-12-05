@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏操作同步器 - 多窗口同步工具"
+title: "游戏操作同步器  多窗口同步工具"
 date:   2022-01-25
 tags: [游戏,窗口,同步器,操作,同步]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光伏逆变器中DC-link电容的选型计算"
+title: "光伏逆变器中DClink电容的选型计算"
 date:   2020-01-30
 tags: [逆变器,DC,link,电容,选型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交通数据集收集（未完）"
+title: "交通数据集收集未完"
 date:   2024-02-07
 tags: [PeMS,Caltrans,交通,数据,关闭]
 comments: true

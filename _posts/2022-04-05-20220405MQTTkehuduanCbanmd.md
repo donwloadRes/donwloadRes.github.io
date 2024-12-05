@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT客户端C#版"
+title: "MQTT客户端C版"
 date:   2024-06-26
 tags: [MQTT,客户端,C#,https,git]
 comments: true

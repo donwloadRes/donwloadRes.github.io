@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国外很好用的视频修复软件(免费)"
+title: "国外很好用的视频修复软件免费"
 date:   2023-11-12
 tags: [修复,软件,视频文件,视频,破损]
 comments: true

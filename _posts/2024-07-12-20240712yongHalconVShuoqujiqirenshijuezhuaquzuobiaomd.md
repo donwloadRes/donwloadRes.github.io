@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Halcon + VS 获取机器人视觉抓取坐标"
+title: "用Halcon  VS 获取机器人视觉抓取坐标"
 date:   2024-06-26
 tags: [Halcon,机器人,坐标,视觉,TCP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF.js 在线PDF阅读插件（禁止打印、下载、每页水印）"
+title: "PDFjs 在线PDF阅读插件禁止打印下载每页水印"
 date:   2024-11-05
 tags: [PDF,插件,水印,打印,js]
 comments: true

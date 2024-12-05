@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机专业毕业设计源码 - VB+Access智能排课系统"
+title: "计算机专业毕业设计源码  VBAccess智能排课系统"
 date:   2020-12-31
 tags: [毕业设计,Access,排课,源码,VB]
 comments: true

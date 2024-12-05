@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 获取打印机当前打印状态完整源码"
+title: "C 获取打印机当前打印状态完整源码"
 date:   2023-11-28
 tags: [打印机,状态,源码,获取,程序]
 comments: true

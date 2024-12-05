@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL2.0协议规范文档-中文版"
+title: "CXL20协议规范文档中文版"
 date:   2024-02-07
 tags: [文档,中文版,CXL2.0,下载,规范]
 comments: true

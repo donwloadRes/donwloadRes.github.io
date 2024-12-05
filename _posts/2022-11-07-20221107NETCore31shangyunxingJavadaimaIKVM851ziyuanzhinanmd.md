@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Core 3.1 上运行 Java 代码：IKVM-8.5.1 资源指南"
+title: "NET Core 31 上运行 Java 代码IKVM851 资源指南"
 date:   2023-01-30
 tags: [IKVM,Java,NET,Core,3.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机视觉算法与应用.pdf"
+title: "计算机视觉算法与应用pdf"
 date:   2023-09-02
 tags: [视觉,计算机,算法,应用,pdf]
 comments: true

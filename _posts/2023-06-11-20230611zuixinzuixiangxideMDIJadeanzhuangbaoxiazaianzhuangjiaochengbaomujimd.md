@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新最详细的MDI Jade安装包下载安装教程(保姆级)"
+title: "最新最详细的MDI Jade安装包下载安装教程保姆级"
 date:   2022-04-30
 tags: [Jade,安装,安装包,MDI,软件]
 comments: true

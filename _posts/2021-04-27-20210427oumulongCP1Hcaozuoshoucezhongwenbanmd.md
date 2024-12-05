@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙CP1H操作手册(中文版)"
+title: "欧姆龙CP1H操作手册中文版"
 date:   2022-06-10
 tags: [CP1H,PLC,操作手册,欧姆龙,本手册]
 comments: true

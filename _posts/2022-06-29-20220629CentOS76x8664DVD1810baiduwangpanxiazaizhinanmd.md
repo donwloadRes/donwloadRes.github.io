@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 x86_64 DVD 1810 百度网盘下载指南"
+title: "CentOS 76 x8664 DVD 1810 百度网盘下载指南"
 date:   2020-04-05
 tags: [CentOS,百度网,7.6,分享,下载]
 comments: true

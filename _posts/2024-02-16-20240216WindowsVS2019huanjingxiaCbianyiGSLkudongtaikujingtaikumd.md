@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows VS2019环境下C++编译GSL库动态库静态库"
+title: "Windows VS2019环境下C编译GSL库动态库静态库"
 date:   2021-02-28
 tags: [GSL,编译,VS2019,测试项目,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorelDRAW Graphics Suite 2024 直装中-英文版(附补丁) 64位"
+title: "CorelDRAW Graphics Suite 2024 直装中英文版附补丁 64位"
 date:   2020-10-23
 tags: [安装,64,矢量,设计,图形]
 comments: true

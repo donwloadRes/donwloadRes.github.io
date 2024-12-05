@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版winIO3.0已编译好lib库文件"
+title: "最新版winIO30已编译好lib库文件"
 date:   2024-11-04
 tags: [32,WinIo32,lib,Windows,64]
 comments: true

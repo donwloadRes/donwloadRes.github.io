@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW 字符串与UTF-8相互转换工具"
+title: "LabVIEW 字符串与UTF8相互转换工具"
 date:   2020-05-15
 tags: [LabVIEW,UTF,字符串,转换,VI]
 comments: true

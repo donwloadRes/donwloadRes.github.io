@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGIS安装包（osgeo4W）简介"
+title: "QGIS安装包osgeo4W简介"
 date:   2020-11-15
 tags: [GIS,QGIS,开源,osgeo4W,安装包]
 comments: true

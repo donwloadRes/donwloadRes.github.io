@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 10.0 安装包下载"
+title: "PowerBuilder 100 安装包下载"
 date:   2021-04-07
 tags: [PowerBuilder,10.0,安装包,DataWindow,下载]
 comments: true

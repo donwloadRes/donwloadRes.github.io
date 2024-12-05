@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模糊控制的一阶倒立摆-国科大智能控制大作业"
+title: "基于模糊控制的一阶倒立摆国科大智能控制大作业"
 date:   2021-12-16
 tags: [模糊控制,倒立,仿真,一阶,MATLAB]
 comments: true

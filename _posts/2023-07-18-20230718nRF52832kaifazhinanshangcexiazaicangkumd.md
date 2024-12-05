@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nRF52832开发指南-上册 下载仓库"
+title: "nRF52832开发指南上册 下载仓库"
 date:   2022-03-26
 tags: [nRF52832,开发,指南,上册,艾克姆]
 comments: true

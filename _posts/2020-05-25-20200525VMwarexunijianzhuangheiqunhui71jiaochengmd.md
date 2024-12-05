@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机安装黑群晖7.1教程"
+title: "VMware虚拟机安装黑群晖71教程"
 date:   2024-09-11
 tags: [虚拟机,VMware,黑群晖,教程,安装]
 comments: true

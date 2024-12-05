@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faster R-CNN 代码实现"
+title: "Faster RCNN 代码实现"
 date:   2021-12-16
 tags: [CNN,Faster,训练,检测,代码]
 comments: true

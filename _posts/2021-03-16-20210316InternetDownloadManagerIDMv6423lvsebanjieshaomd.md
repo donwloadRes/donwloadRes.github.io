@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager (IDM) v6.42.3 绿色版介绍"
+title: "Internet Download Manager IDM v6423 绿色版介绍"
 date:   2024-02-23
 tags: [下载,绿色版,文件,IDM,支持]
 comments: true

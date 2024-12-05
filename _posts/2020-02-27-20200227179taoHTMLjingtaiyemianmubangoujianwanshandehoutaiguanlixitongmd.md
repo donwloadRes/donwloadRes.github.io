@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "179 套 HTML 静态页面模板：构建完善的后台管理系统"
+title: "179 套 HTML 静态页面模板构建完善的后台管理系统"
 date:   2022-10-04
 tags: [模板,后台,179,管理系统,HTML]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OCR 图片文字识别源码"
+title: "C OCR 图片文字识别源码"
 date:   2023-12-07
 tags: [源码,C#,图片,识别,文字]
 comments: true

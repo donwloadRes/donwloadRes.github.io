@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDA4VM中文版 - 适用于 ADAS 和自动驾驶汽车"
+title: "TDA4VM中文版  适用于 ADAS 和自动驾驶汽车"
 date:   2020-09-08
 tags: [TDA4VM,ADAS,处理器,驾驶,自动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统安装下载工具Internet Download Manager(IDM)6.42.7中文版及配置使用"
+title: "Windows系统安装下载工具Internet Download ManagerIDM6427中文版及配置使用"
 date:   2022-01-04
 tags: [IDM,安装,下载,Patch,文件]
 comments: true

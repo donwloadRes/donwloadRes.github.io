@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "让OCR更简单：PaddleOCR+OpenCV实现文字识别步骤与代码演示"
+title: "让OCR更简单PaddleOCROpenCV实现文字识别步骤与代码演示"
 date:   2021-03-25
 tags: [识别,PaddleOCR,OpenCV,文字,OCR]
 comments: true

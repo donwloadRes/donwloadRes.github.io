@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发文档模板（最全）"
+title: "软件开发文档模板最全"
 date:   2024-04-04
 tags: [文档,模板,软件开发,最全,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "freemodbus_RTU移植工程资源介绍"
+title: "freemodbusRTU移植工程资源介绍"
 date:   2023-10-21
 tags: [freemodbus,RTU,移植,工程,调试]
 comments: true

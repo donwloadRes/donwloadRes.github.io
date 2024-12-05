@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "转转闲鱼源码搭建【带后台管理】"
+title: "转转闲鱼源码搭建带后台管理"
 date:   2021-05-30
 tags: [源码,平台,配置,数据库,搭建]
 comments: true

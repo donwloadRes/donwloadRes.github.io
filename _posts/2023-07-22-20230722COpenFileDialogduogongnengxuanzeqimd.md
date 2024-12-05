@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# OpenFileDialog 多功能选择器"
+title: "C OpenFileDialog 多功能选择器"
 date:   2021-06-10
 tags: [文件夹,文件,C#,选择,OpenFileDialog]
 comments: true
