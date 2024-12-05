@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB450A-2004 装备可靠性工作通用要求"
+title: "GJB450A2004 装备可靠性工作通用要求"
 date:   2023-03-17
 tags: [资源,GJB450A,2004,可靠性,原作者]
 comments: true

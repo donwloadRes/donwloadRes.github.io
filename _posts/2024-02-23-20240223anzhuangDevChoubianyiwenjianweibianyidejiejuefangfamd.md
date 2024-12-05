@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Dev C++后编译文件未编译的解决方法"
+title: "安装Dev C后编译文件未编译的解决方法"
 date:   2021-04-18
 tags: [编译,C++,Dev,编译器,文件]
 comments: true

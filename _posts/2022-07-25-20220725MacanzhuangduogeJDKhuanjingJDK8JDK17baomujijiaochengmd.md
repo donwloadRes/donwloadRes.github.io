@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac安装多个JDK环境（JDK8+JDK17）保姆级教程"
+title: "Mac安装多个JDK环境JDK8JDK17保姆级教程"
 date:   2024-10-09
 tags: [JDK,JDK8,JDK17,安装包,配置]
 comments: true

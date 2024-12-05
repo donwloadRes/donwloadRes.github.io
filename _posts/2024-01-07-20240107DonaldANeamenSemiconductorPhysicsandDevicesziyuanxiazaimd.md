@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Donald A. Neamen-Semiconductor Physics and Devices 资源下载"
+title: "Donald A NeamenSemiconductor Physics and Devices 资源下载"
 date:   2022-03-16
 tags: [半导体,Neamen,器件,Donald,Semiconductor]
 comments: true

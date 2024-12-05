@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RPC8211FS(I) 数据手册 V2.0 下载"
+title: "RPC8211FSI 数据手册 V20 下载"
 date:   2020-04-23
 tags: [芯片,以太网,手册,RPC8211FS,V2.0]
 comments: true

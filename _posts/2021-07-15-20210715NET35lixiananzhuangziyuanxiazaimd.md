@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 3.5 离线安装资源下载"
+title: "NET 35 离线安装资源下载"
 date:   2020-08-27
 tags: [NET,3.5,离线,安装,CAB]
 comments: true

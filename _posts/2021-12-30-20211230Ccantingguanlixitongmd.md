@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++餐厅管理系统"
+title: "C餐厅管理系统"
 date:   2023-07-20
 tags: [C++,订单,系统,数据库,餐厅]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDR4 PCB设计规范&设计要点"
+title: "DDR4 PCB设计规范设计要点"
 date:   2024-07-09
 tags: [DDR4,设计,PCB,内存,设计规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "碳化硅MOS(SiC MOSFET)特性与驱动电路设计"
+title: "碳化硅MOSSiC MOSFET特性与驱动电路设计"
 date:   2023-09-13
 tags: [MOSFET,SiC,Vgs,碳化硅,电路设计]
 comments: true

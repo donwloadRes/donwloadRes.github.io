@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "魔方财务用户中心主题QRuser-正版有售后"
+title: "魔方财务用户中心主题QRuser正版有售后"
 date:   2022-03-04
 tags: [自定义,用户,主题,魔方,顶栏]
 comments: true

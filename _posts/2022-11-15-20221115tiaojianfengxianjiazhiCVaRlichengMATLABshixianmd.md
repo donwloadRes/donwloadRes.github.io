@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "条件风险价值(CVaR)例程——MATLAB实现"
+title: "条件风险价值CVaR例程MATLAB实现"
 date:   2020-08-10
 tags: [MATLAB,CVaR,例程,风险,代码]
 comments: true

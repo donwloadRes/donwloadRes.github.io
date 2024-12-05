@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "迅为itop-RK3568指导手册"
+title: "迅为itopRK3568指导手册"
 date:   2024-11-18
 tags: [RK3568,手册,芯片,迅为,itop]
 comments: true

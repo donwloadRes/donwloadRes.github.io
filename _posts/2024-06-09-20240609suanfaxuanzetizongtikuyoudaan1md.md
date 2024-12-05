@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法选择题总题库（有答案）1"
+title: "算法选择题总题库有答案1"
 date:   2020-09-16
 tags: [NP,算法,选择题,问题,题库]
 comments: true

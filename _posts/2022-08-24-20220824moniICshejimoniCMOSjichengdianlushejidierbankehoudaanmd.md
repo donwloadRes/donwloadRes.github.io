@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟IC设计—模拟CMOS集成电路设计第二版（课后答案）"
+title: "模拟IC设计模拟CMOS集成电路设计第二版课后答案"
 date:   2021-02-02
 tags: [CMOS,课后,模拟,集成电路,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jetsonnano安装torch1.8.0与torchvision0.9.0（个人经历分享）"
+title: "jetsonnano安装torch180与torchvision090个人经历分享"
 date:   2024-12-02
 tags: [安装,PyTorch,torchvision,CUDA,Jetson]
 comments: true

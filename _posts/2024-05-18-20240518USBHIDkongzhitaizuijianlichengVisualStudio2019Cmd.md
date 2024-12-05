@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB HID 控制台最简例程 (Visual Studio 2019 C#)"
+title: "USB HID 控制台最简例程 Visual Studio 2019 C"
 date:   2022-06-18
 tags: [USB,HID,例程,Visual,Studio]
 comments: true

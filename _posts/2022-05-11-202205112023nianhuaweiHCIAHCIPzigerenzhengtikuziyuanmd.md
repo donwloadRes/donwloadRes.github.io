@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年华为HCIA、HCIP资格认证题库资源"
+title: "2023年华为HCIAHCIP资格认证题库资源"
 date:   2024-02-02
 tags: [题库,HCIA,HCIP,考试,备考]
 comments: true

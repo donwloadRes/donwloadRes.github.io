@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基础教程(全60课) 下载仓库"
+title: "Python基础教程全60课 下载仓库"
 date:   2022-04-25
 tags: [Python,60,下载,基础教程,编程]
 comments: true

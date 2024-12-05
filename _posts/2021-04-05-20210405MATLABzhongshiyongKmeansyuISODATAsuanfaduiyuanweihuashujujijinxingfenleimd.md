@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB中使用K-means与ISODATA算法对鸢尾花数据集进行分类"
+title: "MATLAB中使用Kmeans与ISODATA算法对鸢尾花数据集进行分类"
 date:   2024-09-25
 tags: [鸢尾花,算法,means,ISODATA,聚类]
 comments: true

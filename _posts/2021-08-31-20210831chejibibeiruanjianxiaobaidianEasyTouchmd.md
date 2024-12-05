@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车机必备软件：小白点EasyTouch"
+title: "车机必备软件小白点EasyTouch"
 date:   2022-12-28
 tags: [EasyTouch,白点,车机,必备软件,屏幕]
 comments: true

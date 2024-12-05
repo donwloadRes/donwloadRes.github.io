@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32l051+ADC例程资源下载"
+title: "STM32l051ADC例程资源下载"
 date:   2024-11-25
 tags: [STM32l051,ADC,例程,资源,微控制器]
 comments: true

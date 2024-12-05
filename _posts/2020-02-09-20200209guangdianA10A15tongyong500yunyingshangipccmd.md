@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "广电A10-A15通用50.0运营商ipcc"
+title: "广电A10A15通用500运营商ipcc"
 date:   2020-01-23
 tags: [运营商,IPCC,设备,A10,A15]
 comments: true

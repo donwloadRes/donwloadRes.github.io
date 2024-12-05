@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC-Lint 9.0L 破解修正版"
+title: "PCLint 90L 破解修正版"
 date:   2020-04-25
 tags: [PC,修正版,代码,安装,Lint]
 comments: true

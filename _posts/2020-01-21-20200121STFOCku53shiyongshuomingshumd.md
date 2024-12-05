@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ST FOC库 5.3 使用说明书"
+title: "ST FOC库 53 使用说明书"
 date:   2023-11-19
 tags: [FOC,ST,5.3,说明书,使用]
 comments: true

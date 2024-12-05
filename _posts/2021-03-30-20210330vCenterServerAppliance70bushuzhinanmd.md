@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vCenter Server Appliance 7.0 部署指南"
+title: "vCenter Server Appliance 70 部署指南"
 date:   2022-09-06
 tags: [vCenter,Server,7.0,VCSA,部署]
 comments: true

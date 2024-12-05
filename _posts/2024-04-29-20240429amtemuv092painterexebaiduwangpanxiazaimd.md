@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "amtemu.v0.9.2-painter.exe 百度网盘下载"
+title: "amtemuv092painterexe 百度网盘下载"
 date:   2024-03-12
 tags: [amtemu,v0.9,painter,exe,绘画]
 comments: true

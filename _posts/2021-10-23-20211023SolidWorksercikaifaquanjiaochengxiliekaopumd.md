@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SolidWorks二次开发全教程系列（靠谱）"
+title: "SolidWorks二次开发全教程系列靠谱"
 date:   2023-10-15
 tags: [SolidWorks,教程,二次开发,开发者,开发]
 comments: true

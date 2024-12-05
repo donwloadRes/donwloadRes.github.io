@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习与深度学习面试笔试题300+"
+title: "机器学习与深度学习面试笔试题300"
 date:   2024-07-25
 tags: [学习,深度,机器,面试,300]
 comments: true

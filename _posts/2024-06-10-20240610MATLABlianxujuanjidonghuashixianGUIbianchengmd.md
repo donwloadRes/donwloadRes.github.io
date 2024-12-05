@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB连续卷积动画实现（GUI编程）"
+title: "MATLAB连续卷积动画实现GUI编程"
 date:   2022-09-05
 tags: [卷积,函数,MATLAB,GUI,展示]
 comments: true

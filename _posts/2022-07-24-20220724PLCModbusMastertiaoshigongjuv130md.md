@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC Modbus Master 调试工具 v1.3.0"
+title: "PLC Modbus Master 调试工具 v130"
 date:   2023-12-09
 tags: [调试,Modbus,v1.3,工具,plcModbusMasterTool]
 comments: true

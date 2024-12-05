@@ -1,6 +1,12 @@
 ---
 layout: post
-title: "CentOS 7 解决 yum 命令报错 "There are no enabled repos""
+title: "CentOS 7 解决 yum 命令报错 There are no enabled repos
+date   20210422
+tags yumreporepos命令CentOS
+comments true
+author admin
+
+ CentOS 7 解决 yum 命令报错 There are no enabled repos"
 date:   2021-04-22
 tags: [yum,repo,repos,命令,CentOS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS学习记录——0. HFSS软件安装（ANSYS Electromagnetics Suite 2023 R1）"
+title: "HFSS学习记录0 HFSS软件安装ANSYS Electromagnetics Suite 2023 R1"
 date:   2022-09-17
 tags: [安装,HFSS,2023,R1,软件]
 comments: true

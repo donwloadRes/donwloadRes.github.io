@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET WinForm 控件资源库之 CSkin"
+title: "NET WinForm 控件资源库之 CSkin"
 date:   2022-09-26
 tags: [控件,CSkin,窗体,虚拟,NET]
 comments: true

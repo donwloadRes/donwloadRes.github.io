@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIL-HDBK-217F-Notice2.pdf 资源文件介绍"
+title: "MILHDBK217FNotice2pdf 资源文件介绍"
 date:   2022-06-05
 tags: [模型,故障率,单片,MIL,HDBK]
 comments: true

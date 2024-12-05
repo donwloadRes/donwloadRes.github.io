@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Flask + PaddleOCR实现的通用OCR服务"
+title: "基于Flask  PaddleOCR实现的通用OCR服务"
 date:   2021-02-20
 tags: [OCR,API,PaddleOCR,服务,Flask]
 comments: true

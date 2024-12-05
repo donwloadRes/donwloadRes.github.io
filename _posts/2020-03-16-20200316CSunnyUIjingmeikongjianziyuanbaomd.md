@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SunnyUI 精美控件资源包"
+title: "C SunnyUI 精美控件资源包"
 date:   2021-11-22
 tags: [SunnyUI,控件,资源,Visual,Studio]
 comments: true

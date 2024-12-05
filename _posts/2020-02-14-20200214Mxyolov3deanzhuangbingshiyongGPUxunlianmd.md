@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mx_yolov3的安装并使用GPU训练"
+title: "Mxyolov3的安装并使用GPU训练"
 date:   2020-05-22
 tags: [训练,Mx,yolov3,GPU,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.0 安装指南"
+title: "MySQL 50 安装指南"
 date:   2021-02-08
 tags: [安装,MySQL,点击,5.0,Next]
 comments: true

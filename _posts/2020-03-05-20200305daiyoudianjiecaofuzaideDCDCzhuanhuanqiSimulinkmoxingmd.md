@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带有电解槽负载的 DC-DC 转换器 Simulink 模型"
+title: "带有电解槽负载的 DCDC 转换器 Simulink 模型"
 date:   2020-07-25
 tags: [DC,电解槽,Simulink,模型,转换器]
 comments: true

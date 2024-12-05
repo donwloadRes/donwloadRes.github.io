@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非线性光纤光学原理及应用（全）资源下载"
+title: "非线性光纤光学原理及应用全资源下载"
 date:   2020-06-03
 tags: [光纤,非线性,光学,应用,资源]
 comments: true

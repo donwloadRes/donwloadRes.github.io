@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 26262 最新版（2018）完整资源下载"
+title: "ISO 26262 最新版2018完整资源下载"
 date:   2023-08-22
 tags: [ISO,26262,2018,版本,最新版]
 comments: true

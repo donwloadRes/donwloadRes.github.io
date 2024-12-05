@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程控制论-中文-钱学森"
+title: "工程控制论中文钱学森"
 date:   2024-09-22
 tags: [钱学森,控制论,工程,著作,这部]
 comments: true

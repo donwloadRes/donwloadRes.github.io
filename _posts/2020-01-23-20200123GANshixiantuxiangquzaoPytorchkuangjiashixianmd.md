@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAN实现图像去噪（Pytorch框架实现）"
+title: "GAN实现图像去噪Pytorch框架实现"
 date:   2023-01-28
 tags: [图像去噪,图像,GAN,模型,Pytorch]
 comments: true

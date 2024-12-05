@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023安徽“科大国创杯”小学组试题"
+title: "2023安徽科大国创杯小学组试题"
 date:   2022-01-10
 tags: [试题,2023,创杯,小学,竞赛]
 comments: true

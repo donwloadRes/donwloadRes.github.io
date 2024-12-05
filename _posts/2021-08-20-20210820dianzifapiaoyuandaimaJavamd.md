@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子发票源代码(Java)"
+title: "电子发票源代码Java"
 date:   2021-03-03
 tags: [发票,源代码,代码,Java,自动识别]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FileZilla ARM 版本 - 专为UOS设计的ARM环境解决方案"
+title: "FileZilla ARM 版本  专为UOS设计的ARM环境解决方案"
 date:   2022-11-09
 tags: [ARM,FileZilla,UOS,文件传输,依赖]
 comments: true

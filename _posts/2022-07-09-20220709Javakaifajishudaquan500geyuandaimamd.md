@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java开发技术大全(500个源代码)"
+title: "Java开发技术大全500个源代码"
 date:   2022-08-06
 tags: [Java,java,程序,演示,源代码]
 comments: true

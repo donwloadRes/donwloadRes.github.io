@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UWB+IMU融合电路图资源介绍"
+title: "UWBIMU融合电路图资源介绍"
 date:   2020-08-14
 tags: [电路图,模块,原理图,电路设计,资源]
 comments: true

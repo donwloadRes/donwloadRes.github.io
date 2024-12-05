@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运放移相器电路图 - Multisim 10"
+title: "运放移相器电路图  Multisim 10"
 date:   2022-02-02
 tags: [电路图,Multisim,10,相位,45]
 comments: true

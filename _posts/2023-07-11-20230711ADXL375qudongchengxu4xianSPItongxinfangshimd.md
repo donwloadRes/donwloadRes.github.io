@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADXL375驱动程序（4线SPI通信方式）"
+title: "ADXL375驱动程序4线SPI通信方式"
 date:   2023-09-21
 tags: [驱动程序,ADXL375,SPI,通信,新塘]
 comments: true

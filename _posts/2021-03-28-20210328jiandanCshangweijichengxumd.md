@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单C#上位机程序"
+title: "简单C上位机程序"
 date:   2024-07-13
 tags: [C#,上位,程序,开发,注释]
 comments: true

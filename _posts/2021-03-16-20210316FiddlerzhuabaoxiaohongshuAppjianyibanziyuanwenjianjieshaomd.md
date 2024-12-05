@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiddler抓包小红书App（简易版）资源文件介绍"
+title: "Fiddler抓包小红书App简易版资源文件介绍"
 date:   2020-07-10
 tags: [Fiddler,App,抓包,小红书,安装]
 comments: true

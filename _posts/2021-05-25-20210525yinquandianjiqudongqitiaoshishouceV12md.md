@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音圈电机驱动器调试手册V1.2"
+title: "音圈电机驱动器调试手册V12"
 date:   2022-06-15
 tags: [调试,音圈,驱动器,电机,手册]
 comments: true

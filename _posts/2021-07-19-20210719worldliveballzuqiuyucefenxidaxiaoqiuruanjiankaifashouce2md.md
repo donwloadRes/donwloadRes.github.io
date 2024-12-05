@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "worldliveball足球预测分析大小球软件开发手册（2）"
+title: "worldliveball足球预测分析大小球软件开发手册2"
 date:   2020-03-05
 tags: [worldliveball,足球,大小球,预测,分析]
 comments: true

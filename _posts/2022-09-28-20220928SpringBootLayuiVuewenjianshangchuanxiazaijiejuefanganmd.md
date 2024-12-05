@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Layui+Vue 文件上传下载解决方案"
+title: "SpringBootLayuiVue 文件上传下载解决方案"
 date:   2023-10-08
 tags: [文件,预览,Vue,Layui,SpringBoot]
 comments: true

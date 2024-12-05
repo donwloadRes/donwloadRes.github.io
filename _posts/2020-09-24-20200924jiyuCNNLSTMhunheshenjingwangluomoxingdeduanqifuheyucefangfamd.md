@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CNN-LSTM混合神经网络模型的短期负荷预测方法"
+title: "基于CNNLSTM混合神经网络模型的短期负荷预测方法"
 date:   2023-07-03
 tags: [模型,负荷,CNN,LSTM,神经网络]
 comments: true

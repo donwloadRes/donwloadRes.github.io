@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.0 完整版快速下载"
+title: "Gradle 70 完整版快速下载"
 date:   2020-12-18
 tags: [构建,7.0,Gradle,Java,16]
 comments: true

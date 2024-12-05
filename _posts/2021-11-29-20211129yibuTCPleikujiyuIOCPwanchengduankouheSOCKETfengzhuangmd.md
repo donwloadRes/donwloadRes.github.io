@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "异步TCP类库：基于IOCP完成端口和SOCKET封装"
+title: "异步TCP类库基于IOCP完成端口和SOCKET封装"
 date:   2021-04-10
 tags: [异步,端口,TCP,IOCP,类库]
 comments: true

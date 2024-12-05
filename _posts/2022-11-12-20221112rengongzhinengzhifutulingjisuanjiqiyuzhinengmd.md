@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能之父图灵：计算机器与智能"
+title: "人工智能之父图灵计算机器与智能"
 date:   2022-06-07
 tags: [智能,图灵,机器,计算机,文件]
 comments: true

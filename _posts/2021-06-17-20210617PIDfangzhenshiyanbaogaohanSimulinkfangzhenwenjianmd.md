@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID仿真实验报告（含Simulink仿真文件）"
+title: "PID仿真实验报告含Simulink仿真文件"
 date:   2023-02-26
 tags: [PID,Simulink,仿真,MATLAB,实验报告]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "巴拉中国股权模型（CNE5）经验注释"
+title: "巴拉中国股权模型CNE5经验注释"
 date:   2021-09-04
 tags: [模型,CNE5,巴拉,中国,注释]
 comments: true

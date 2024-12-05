@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes实战（套装共2册）PDF 下载"
+title: "Kubernetes实战套装共2册PDF 下载"
 date:   2021-12-09
 tags: [Kubernetes,PDF,下载,实战,套装]
 comments: true

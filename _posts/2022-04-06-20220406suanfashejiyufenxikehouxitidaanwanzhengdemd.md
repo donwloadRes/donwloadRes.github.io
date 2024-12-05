@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析课后习题答案(完整的)"
+title: "算法设计与分析课后习题答案完整的"
 date:   2020-08-26
 tags: [答案,习题,课后,复习,核对]
 comments: true

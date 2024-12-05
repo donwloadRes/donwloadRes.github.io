@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PictureBox播放视频实现指南"
+title: "C PictureBox播放视频实现指南"
 date:   2024-06-05
 tags: [视频,PictureBox,OpenCVSharp,播放,C#]
 comments: true

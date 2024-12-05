@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6 for Mac 音乐制作工具 v6.5.1 激活版及新特点介绍"
+title: "Studio One 6 for Mac 音乐制作工具 v651 激活版及新特点介绍"
 date:   2020-09-04
 tags: [Studio,音频,Mac,插件,v6.5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕设教学：Proteus使用教程并仿真51程序——LED流水灯"
+title: "毕设教学Proteus使用教程并仿真51程序LED流水灯"
 date:   2022-03-01
 tags: [Proteus,51,仿真,LED,单片机]
 comments: true

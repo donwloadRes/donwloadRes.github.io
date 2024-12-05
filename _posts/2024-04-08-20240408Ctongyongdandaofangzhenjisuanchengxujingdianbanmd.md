@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 通用弹道仿真计算程序(经典版)"
+title: "C 通用弹道仿真计算程序经典版"
 date:   2024-10-21
 tags: [弹道,仿真,C++,用户,文档]
 comments: true

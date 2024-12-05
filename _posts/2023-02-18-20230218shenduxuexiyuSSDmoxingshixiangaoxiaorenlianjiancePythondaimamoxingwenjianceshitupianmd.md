@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习与SSD模型实现高效人脸检测（Python代码+模型文件+测试图片）"
+title: "深度学习与SSD模型实现高效人脸检测Python代码模型文件测试图片"
 date:   2020-10-10
 tags: [人脸,检测,模型,SSD,代码]
 comments: true

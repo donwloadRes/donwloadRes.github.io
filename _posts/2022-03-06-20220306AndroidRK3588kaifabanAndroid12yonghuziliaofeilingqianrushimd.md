@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android：RK3588开发板Android12用户资料-飞凌嵌入式"
+title: "AndroidRK3588开发板Android12用户资料飞凌嵌入式"
 date:   2022-07-16
 tags: [Android12,飞凌,嵌入式,RK3588,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil 显示变量曲线波形工具 V1.43"
+title: "Keil 显示变量曲线波形工具 V143"
 date:   2020-05-01
 tags: [Keil,变量,V1.43,工具,波形]
 comments: true

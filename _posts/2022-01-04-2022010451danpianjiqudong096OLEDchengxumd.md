@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机驱动0.96OLED程序"
+title: "51单片机驱动096OLED程序"
 date:   2024-01-31
 tags: [单片机,51,OLED,0.96,引脚]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士激光位移传感器C#-C++-VB.net的Demo资源"
+title: "基恩士激光位移传感器CCVBnet的Demo资源"
 date:   2023-04-24
 tags: [基恩,示例,位移,传感器,激光]
 comments: true

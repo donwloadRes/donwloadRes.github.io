@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATPOWER手册(中文版) 下载仓库"
+title: "MATPOWER手册中文版 下载仓库"
 date:   2024-07-03
 tags: [MATPOWER,手册,中文版,仓库,下载]
 comments: true

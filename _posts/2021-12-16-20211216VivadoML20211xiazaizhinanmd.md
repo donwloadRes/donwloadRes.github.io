@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado ML 2021.1 下载指南"
+title: "Vivado ML 20211 下载指南"
 date:   2023-06-01
 tags: [Vivado,ML,设计,2021.1,Xilinx]
 comments: true

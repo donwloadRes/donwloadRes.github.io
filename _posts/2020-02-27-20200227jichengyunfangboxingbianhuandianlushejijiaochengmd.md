@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "集成运放--波形变换电路设计教程"
+title: "集成运放波形变换电路设计教程"
 date:   2024-06-09
 tags: [波形,运放,变换,电路设计,Multisim]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP S4 HANA FICO完全用户操作手册 - 808页"
+title: "SAP S4 HANA FICO完全用户操作手册  808页"
 date:   2024-08-21
 tags: [SAP,HANA,S4,FICO,用户]
 comments: true

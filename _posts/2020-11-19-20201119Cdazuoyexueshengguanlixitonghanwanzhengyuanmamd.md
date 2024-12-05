@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++大作业 - 学生管理系统（含完整源码）"
+title: "C大作业  学生管理系统含完整源码"
 date:   2023-07-07
 tags: [学生,C++,信息,用户,管理系统]
 comments: true

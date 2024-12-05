@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy Touch 5.0.8 Unity插件下载"
+title: "Easy Touch 508 Unity插件下载"
 date:   2021-05-18
 tags: [Unity,插件,Easy,Touch,5.0]
 comments: true

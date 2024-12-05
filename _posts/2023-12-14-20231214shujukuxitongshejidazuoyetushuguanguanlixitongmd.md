@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库系统设计大作业：图书馆管理系统"
+title: "数据库系统设计大作业图书馆管理系统"
 date:   2023-07-19
 tags: [数据库,图书,管理,Python,数据库系统]
 comments: true

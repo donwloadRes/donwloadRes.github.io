@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移远固件烧录工具 Quectel QFlash V6.5"
+title: "移远固件烧录工具 Quectel QFlash V65"
 date:   2024-06-26
 tags: [固件,移远,QFlash,烧录,V6.5]
 comments: true

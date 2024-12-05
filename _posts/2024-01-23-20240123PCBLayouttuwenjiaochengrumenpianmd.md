@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB+Layout图文教程入门篇"
+title: "PCBLayout图文教程入门篇"
 date:   2022-03-01
 tags: [PCB,设计,软件,学习,教程]
 comments: true

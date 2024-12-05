@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python机器学习：数据处理FX与评分卡JM实践"
+title: "Python机器学习数据处理FX与评分卡JM实践"
 date:   2020-12-09
 tags: [Python,数据,评分,模型,代码]
 comments: true

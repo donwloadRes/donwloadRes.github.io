@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+Proteus+LCD12864 电子秤仿真项目"
+title: "STM32ProteusLCD12864 电子秤仿真项目"
 date:   2024-04-28
 tags: [仿真,Proteus,STM32,电子秤,源码]
 comments: true

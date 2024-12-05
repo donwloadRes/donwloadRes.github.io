@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言课程设计：酒店管理系统"
+title: "C语言课程设计酒店管理系统"
 date:   2022-10-20
 tags: [服务员,管理员,C语言,客人,操作]
 comments: true

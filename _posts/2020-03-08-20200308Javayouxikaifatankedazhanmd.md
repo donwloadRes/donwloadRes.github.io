@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java游戏开发 —— 坦克大战"
+title: "Java游戏开发  坦克大战"
 date:   2024-09-17
 tags: [游戏,坦克,Java,java,项目]
 comments: true

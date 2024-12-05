@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 1.4 规范文档下载"
+title: "HDMI 14 规范文档下载"
 date:   2023-06-28
 tags: [HDMI,1.4,文档,文件,规范]
 comments: true

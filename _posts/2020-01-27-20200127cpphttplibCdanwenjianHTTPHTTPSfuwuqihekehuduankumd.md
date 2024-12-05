@@ -1,6 +1,54 @@
 ---
 layout: post
-title: "cpp-httplib：C++ 单文件HTTP-HTTPS服务器和客户端库"
+title: "cpphttplibC 单文件HTTPHTTPS服务器和客户端库
+date   20240408
+tags httplibHTTPcppHTTPSres
+comments true
+author admin
+
+ cpphttplibC 单文件HTTPHTTPS服务器和客户端库
+
+ 简介
+
+cpphttplib 是一个基于 C11 的单文件纯头文件的跨平台 HTTPHTTPS 库它非常易于使用只需在你的代码中包含 httplibh 文件即可开始使用该库支持多线程的阻塞模式适合需要简单快速实现 HTTPHTTPS 服务器和客户端的场景如果你需要非阻塞的库请考虑其他选项
+
+ 特点
+
+ 单文件库只需包含一个头文件即可使用
+ 跨平台支持多种操作系统包括 WindowsLinux 和 macOS
+ HTTPHTTPS 支持同时支持 HTTP 和 HTTPS 协议
+ 多线程支持多线程操作适合并发请求处理
+ 简单易用API 设计简洁易于上手
+
+ 使用示例
+
+ 服务器端
+
+以下是一个简单的 HTTP 服务器示例
+
+cpp
+define CPPHTTPLIBOPENSSLSUPPORT
+include pathtohttplibh
+
+ 创建 HTTP 服务器
+httplibServer svr
+
+ 定义路由处理函数
+svrGethi const httplibRequest req httplibResponse res 
+    ressetcontentHello World textplain
+
+
+ 启动服务器监听 8080 端口
+svrlisten0000 8080
+
+
+ 客户端
+
+以下是一个简单的 HTTP 客户端示例
+
+cpp
+define CPPHTTPLIBOPENSSLSUPPORT
+include pathtohttplibh"
 date:   2024-04-08
 tags: [httplib,HTTP,cpp,HTTPS,res]
 comments: true

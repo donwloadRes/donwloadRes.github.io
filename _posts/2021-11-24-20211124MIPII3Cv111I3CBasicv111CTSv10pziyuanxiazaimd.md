@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI I3C v1.1.1 & I3C Basic v1.1.1 CTS v1.0p 资源下载"
+title: "MIPI I3C v111  I3C Basic v111 CTS v10p 资源下载"
 date:   2022-04-21
 tags: [I3C,MIPI,CTS,v1.1,下载]
 comments: true

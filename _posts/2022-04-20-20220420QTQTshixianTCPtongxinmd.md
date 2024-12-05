@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【QT】QT实现TCP通信"
+title: "QTQT实现TCP通信"
 date:   2023-11-15
 tags: [QT,TCP,通信,示例,文档]
 comments: true

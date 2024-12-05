@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "POI-4.1.2 完整JAR包资源"
+title: "POI412 完整JAR包资源"
 date:   2023-07-16
 tags: [POI,4.1,Apache,poi,jar]
 comments: true

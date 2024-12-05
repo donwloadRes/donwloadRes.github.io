@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MATLAB的Simulink实现2ASK、2FSK、2PSK数字调制与解调"
+title: "基于MATLAB的Simulink实现2ASK2FSK2PSK数字调制与解调"
 date:   2024-01-31
 tags: [MATLAB,Simulink,调制,解调,基带]
 comments: true

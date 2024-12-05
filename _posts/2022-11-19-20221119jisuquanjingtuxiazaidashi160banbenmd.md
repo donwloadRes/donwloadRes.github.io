@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "极速全景图下载大师1.6.0版本"
+title: "极速全景图下载大师160版本"
 date:   2021-07-14
 tags: [下载,全景图,1.6,适配,AI]
 comments: true

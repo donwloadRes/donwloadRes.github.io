@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OFDM雷达测距测速代码（MATLAB）"
+title: "基于OFDM雷达测距测速代码MATLAB"
 date:   2020-07-10
 tags: [OFDM,测速,MATLAB,代码,测距]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cesium 1.90 资源文件下载"
+title: "Cesium 190 资源文件下载"
 date:   2023-03-05
 tags: [Cesium,1.90,文件,cesium1.90,zip]
 comments: true

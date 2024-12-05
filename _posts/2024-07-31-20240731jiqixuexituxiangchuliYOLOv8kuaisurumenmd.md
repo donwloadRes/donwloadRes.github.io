@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习图像处理YOLOv8快速入门！"
+title: "机器学习图像处理YOLOv8快速入门"
 date:   2024-07-08
 tags: [YOLOv8,图像处理,毕业设计,识别,场景]
 comments: true

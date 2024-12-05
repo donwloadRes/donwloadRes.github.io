@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COMSOL Multiphysics软件安装包分享（附安装教程）"
+title: "COMSOL Multiphysics软件安装包分享附安装教程"
 date:   2023-09-27
 tags: [安装,软件,自定义,安装包,COMSOL]
 comments: true

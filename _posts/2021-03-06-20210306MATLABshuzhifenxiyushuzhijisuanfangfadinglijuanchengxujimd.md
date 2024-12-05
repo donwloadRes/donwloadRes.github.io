@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB数值分析与数值计算方法（丁丽娟）程序集"
+title: "MATLAB数值分析与数值计算方法丁丽娟程序集"
 date:   2023-10-10
 tags: [插值法,迭代法,MATLAB,数值,程序]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Windows.Devices.Bluetooth.dll引用问题"
+title: "解决WindowsDevicesBluetoothdll引用问题"
 date:   2021-12-01
 tags: [Windows,Devices,Bluetooth,dll,引用]
 comments: true

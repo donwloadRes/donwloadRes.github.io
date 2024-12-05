@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电磁兼容(EMC) 试验和测量技术 - IEC61000-4 全套标准"
+title: "电磁兼容EMC 试验和测量技术  IEC610004 全套标准"
 date:   2021-11-24
 tags: [电磁兼容,IEC61000,标准,文档,抗扰度]
 comments: true

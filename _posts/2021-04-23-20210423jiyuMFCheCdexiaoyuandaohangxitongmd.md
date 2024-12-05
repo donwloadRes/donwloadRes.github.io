@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于MFC和C++的校园导航系统"
+title: "基于MFC和C的校园导航系统"
 date:   2021-03-04
 tags: [MFC,C++,校园,路径,算法]
 comments: true

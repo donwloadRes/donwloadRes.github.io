@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📚【13.8K⭐】Koodo Reader：打造你的终极PC电子书体验"
+title: "138KKoodo Reader打造你的终极PC电子书体验"
 date:   2022-09-02
 tags: [阅读,Koodo,Reader,电子书,PC]
 comments: true

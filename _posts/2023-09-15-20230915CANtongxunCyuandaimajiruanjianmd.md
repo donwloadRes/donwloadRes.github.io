@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN通讯C++源代码及软件"
+title: "CAN通讯C源代码及软件"
 date:   2024-09-14
 tags: [总线,C++,源代码,Builder,软件]
 comments: true

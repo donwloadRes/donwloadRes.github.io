@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SD卡驱动(SDIO模式)资源下载"
+title: "SD卡驱动SDIO模式资源下载"
 date:   2021-01-16
 tags: [SD,SDIO,STM32F407,下载,驱动]
 comments: true

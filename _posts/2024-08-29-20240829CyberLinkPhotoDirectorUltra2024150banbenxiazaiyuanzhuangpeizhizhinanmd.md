@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CyberLink PhotoDirector Ultra 2024 15.0 版本下载与安装配置指南"
+title: "CyberLink PhotoDirector Ultra 2024 150 版本下载与安装配置指南"
 date:   2022-04-25
 tags: [安装,PhotoDirector,照片,Ultra,安装程序]
 comments: true

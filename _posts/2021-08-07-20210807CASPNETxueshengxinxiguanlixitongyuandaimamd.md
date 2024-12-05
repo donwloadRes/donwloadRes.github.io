@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#-ASP.NET学生信息管理系统源代码"
+title: "CASPNET学生信息管理系统源代码"
 date:   2023-05-07
 tags: [信息,数据库,学生,删除,ASP]
 comments: true

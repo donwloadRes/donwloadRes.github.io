@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7云服务器上安装Cobalt Strike 4.7"
+title: "Centos7云服务器上安装Cobalt Strike 47"
 date:   2022-05-13
 tags: [Cobalt,Strike,4.7,服务器,bash]
 comments: true

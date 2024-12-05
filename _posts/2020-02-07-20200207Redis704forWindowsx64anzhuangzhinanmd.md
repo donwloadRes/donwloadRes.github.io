@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 7.0.4 for Windows x64 安装指南"
+title: "Redis 704 for Windows x64 安装指南"
 date:   2020-10-27
 tags: [Windows,Redis,Redis7.0,redis,service]
 comments: true

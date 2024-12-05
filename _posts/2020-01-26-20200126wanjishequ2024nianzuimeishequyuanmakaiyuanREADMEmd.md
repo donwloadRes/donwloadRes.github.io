@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩机社区 - 2024年最美社区源码开源 README"
+title: "玩机社区  2024年最美社区源码开源 README"
 date:   2024-11-14
 tags: [源码,社区,开源,2024,最美]
 comments: true

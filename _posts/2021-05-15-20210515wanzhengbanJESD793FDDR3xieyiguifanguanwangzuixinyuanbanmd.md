@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "完整版JESD79-3F DDR3协议规范 官网最新原版"
+title: "完整版JESD793F DDR3协议规范 官网最新原版"
 date:   2022-09-03
 tags: [JESD79,3F,DDR3,原版,完整版]
 comments: true

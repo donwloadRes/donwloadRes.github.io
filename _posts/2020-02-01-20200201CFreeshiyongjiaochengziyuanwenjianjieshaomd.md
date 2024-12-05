@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-Free使用教程资源文件介绍"
+title: "CFree使用教程资源文件介绍"
 date:   2020-03-17
 tags: [Free,教程,文件,资源,使用]
 comments: true

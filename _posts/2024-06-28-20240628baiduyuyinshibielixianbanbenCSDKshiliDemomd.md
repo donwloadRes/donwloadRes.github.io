@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度语音识别离线版本-C++ SDK 示例Demo"
+title: "百度语音识别离线版本C SDK 示例Demo"
 date:   2020-07-07
 tags: [SDK,示例,Demo,C++,识别]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理（第三版）PPT课件"
+title: "数字信号处理第三版PPT课件"
 date:   2022-06-03
 tags: [信号处理,数字,离散,课件,变换]
 comments: true

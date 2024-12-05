@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "words（英文字典）.txt 项目说明"
+title: "words英文字典txt 项目说明"
 date:   2023-11-29
 tags: [words,word,txt,anagram,变位]
 comments: true

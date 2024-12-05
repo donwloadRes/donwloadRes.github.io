@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【vim编辑器配置】Linux - Ubuntu 傻瓜式配置指南"
+title: "vim编辑器配置Linux  Ubuntu 傻瓜式配置指南"
 date:   2024-05-04
 tags: [Vim,配置,安装,傻瓜式,vim]
 comments: true

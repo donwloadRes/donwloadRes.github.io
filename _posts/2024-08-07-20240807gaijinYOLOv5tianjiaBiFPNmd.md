@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "改进YOLOv5：添加BiFPN"
+title: "改进YOLOv5添加BiFPN"
 date:   2021-09-30
 tags: [YOLOv5,BiFPN,添加,版本,代码]
 comments: true

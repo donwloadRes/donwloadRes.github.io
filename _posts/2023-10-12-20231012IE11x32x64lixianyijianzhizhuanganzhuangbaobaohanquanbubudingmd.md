@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IE11(x32,x64)离线一键直装安装包（包含全部补丁）"
+title: "IE11x32x64离线一键直装安装包包含全部补丁"
 date:   2024-01-21
 tags: [安装,IE11,离线,一键,补丁]
 comments: true

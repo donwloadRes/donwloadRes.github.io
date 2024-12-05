@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 原子哥战舰V3 + OV7670摄像头 形状识别与颜色识别源码及资料"
+title: "STM32 原子哥战舰V3  OV7670摄像头 形状识别与颜色识别源码及资料"
 date:   2021-04-02
 tags: [识别,STM32,摄像头,源码,OV7670]
 comments: true

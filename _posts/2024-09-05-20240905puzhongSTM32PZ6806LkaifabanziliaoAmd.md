@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "普中STM32-PZ6806L开发板资料-A"
+title: "普中STM32PZ6806L开发板资料A"
 date:   2022-08-15
 tags: [开发板,普中,PZ6806L,原理图,STM32]
 comments: true

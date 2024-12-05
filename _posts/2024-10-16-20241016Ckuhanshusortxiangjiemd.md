@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 库函数 sort 详解"
+title: "C 库函数 sort 详解"
 date:   2024-08-02
 tags: [sort,C++,排序,函数,编程]
 comments: true

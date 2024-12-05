@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版USB-HID范例"
+title: "C版USBHID范例"
 date:   2024-07-28
 tags: [USB,HID,C#,NET,仓库]
 comments: true

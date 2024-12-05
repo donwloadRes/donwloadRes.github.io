@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETA3000规格书（锂电池主动均衡）"
+title: "ETA3000规格书锂电池主动均衡"
 date:   2021-11-10
 tags: [规格书,ETA3000,锂电池,芯片,均衡]
 comments: true

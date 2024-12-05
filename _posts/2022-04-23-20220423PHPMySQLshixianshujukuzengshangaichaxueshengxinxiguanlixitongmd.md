@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL 实现数据库增删改查，学生信息管理系统"
+title: "PHPMySQL 实现数据库增删改查学生信息管理系统"
 date:   2021-06-28
 tags: [学生,数据库,信息,MySQL,PHP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 62680-1-3-2022：USB Type-C接口标准文档"
+title: "IEC 62680132022USB TypeC接口标准文档"
 date:   2023-07-04
 tags: [USB,IEC,Type,文档,62680]
 comments: true

@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "QT的MySQL数据库操作类"
+title: "QT的MySQL数据库操作类
+date   20221124
+tags cppdbmysqlMySQL数据库
+comments true
+author admin
+
+ QT的MySQL数据库操作类
+
+ 简介
+
+本仓库提供了一个用于在QT项目中操作MySQL数据库的类通过使用这个类你可以轻松地进行数据库的连接数据的插入更新查询删除等操作
+
+ 使用方法
+
+ 1 添加文件到工程
+
+将 mysqlh 和 mysqlcpp 文件添加到你的QT工程中
+
+ 2 调用方法
+
+ 1引入头文件
+
+在需要调用MySQL操作类的窗口头文件例如 h中引入 mysqlh 头文件
+
+cpp
+include mysqlh"
 date:   2022-11-24
 tags: [cpp,db,mysql,MySQL,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaScript逆向学习指南：解开混淆代码的秘密"
+title: "JavaScript逆向学习指南解开混淆代码的秘密"
 date:   2023-08-30
 tags: [混淆,逆向,JavaScript,代码,理解]
 comments: true

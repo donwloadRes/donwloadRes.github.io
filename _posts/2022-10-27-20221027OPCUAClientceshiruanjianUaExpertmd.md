@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPC_UA Client测试软件 - UaExpert"
+title: "OPCUA Client测试软件  UaExpert"
 date:   2024-10-16
 tags: [OPC,UA,UaExpert,服务器,测试]
 comments: true

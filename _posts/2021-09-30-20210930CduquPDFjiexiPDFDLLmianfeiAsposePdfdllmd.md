@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读取PDF，解析PDF DLL 免费Aspose.Pdf.dll"
+title: "C读取PDF解析PDF DLL 免费AsposePdfdll"
 date:   2020-09-06
 tags: [文件,PDF,Aspose,Pdf,C#]
 comments: true

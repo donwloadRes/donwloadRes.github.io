@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "云计算通用可编程DPU发展白皮书（2023）"
+title: "云计算通用可编程DPU发展白皮书2023"
 date:   2024-01-09
 tags: [DPU,白皮书,可编程,2023,计算]
 comments: true

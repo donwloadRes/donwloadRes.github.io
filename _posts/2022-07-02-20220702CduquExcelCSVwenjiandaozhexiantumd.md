@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读取Excel、CSV文件到折线图"
+title: "C读取ExcelCSV文件到折线图"
 date:   2020-07-16
 tags: [文件,读取,代码,Excel,折线图]
 comments: true

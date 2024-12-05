@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏引擎架构：最新技术与大师分享"
+title: "游戏引擎架构最新技术与大师分享"
 date:   2022-11-04
 tags: [游戏,引擎,架构,大师,PDF]
 comments: true

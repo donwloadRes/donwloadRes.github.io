@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Auto Refresh Plus 7.4.4 ctx 浏览器插件资源下载"
+title: "Auto Refresh Plus 744 ctx 浏览器插件资源下载"
 date:   2021-11-23
 tags: [插件,浏览器,刷新,Auto,Refresh]
 comments: true

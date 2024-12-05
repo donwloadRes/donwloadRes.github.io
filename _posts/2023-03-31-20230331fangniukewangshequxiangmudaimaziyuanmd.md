@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿牛客网社区项目 代码&资源"
+title: "仿牛客网社区项目 代码资源"
 date:   2020-04-25
 tags: [Spring,项目,仿牛,客网,Redis]
 comments: true

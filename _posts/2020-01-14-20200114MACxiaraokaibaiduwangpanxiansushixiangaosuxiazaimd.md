@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAC下绕开百度网盘限速，实现高速下载"
+title: "MAC下绕开百度网盘限速实现高速下载"
 date:   2020-02-21
 tags: [百度网,浏览器,下载,MAC,高速下载]
 comments: true

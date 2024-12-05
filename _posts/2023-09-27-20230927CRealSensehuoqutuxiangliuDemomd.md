@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# RealSense获取图像流Demo"
+title: "C RealSense获取图像流Demo"
 date:   2024-08-20
 tags: [RealSense,Intel,SDK,摄像头,Demo]
 comments: true

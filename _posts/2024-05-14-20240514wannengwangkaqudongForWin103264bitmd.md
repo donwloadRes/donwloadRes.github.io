@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "万能网卡驱动For-Win10-32_64bit"
+title: "万能网卡驱动ForWin103264bit"
 date:   2024-08-29
 tags: [网卡,驱动,32,万能,Win10]
 comments: true

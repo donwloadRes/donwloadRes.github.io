@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地表最强高刷OLED显示配置（STM32+HAL）"
+title: "地表最强高刷OLED显示配置STM32HAL"
 date:   2021-10-01
 tags: [OLED,STM32,配置,HAL,刷新率]
 comments: true

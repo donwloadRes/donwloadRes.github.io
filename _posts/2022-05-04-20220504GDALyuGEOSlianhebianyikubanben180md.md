@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDAL与GEOS联合编译库（版本1.8.0）"
+title: "GDAL与GEOS联合编译库版本180"
 date:   2024-01-28
 tags: [GDAL,GEOS,1.8,编译,文件]
 comments: true

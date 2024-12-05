@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN协议规范 2.1版本 英文版"
+title: "LIN协议规范 21版本 英文版"
 date:   2020-05-25
 tags: [LIN,2.1,文件,版本,PDF]
 comments: true

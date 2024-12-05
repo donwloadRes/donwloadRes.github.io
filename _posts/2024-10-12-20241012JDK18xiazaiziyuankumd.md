@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 下载资源库"
+title: "JDK 18 下载资源库"
 date:   2022-08-22
 tags: [JDK,1.8,下载,Java,资源库]
 comments: true

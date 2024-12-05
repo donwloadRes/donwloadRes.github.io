@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103的RS485通信（主动发送中断接收）"
+title: "基于STM32F103的RS485通信主动发送中断接收"
 date:   2022-03-25
 tags: [接收,串口,中断,STM32F103,RS485]
 comments: true

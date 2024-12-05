@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基恩士PLC通讯协议+代码实例"
+title: "基恩士PLC通讯协议代码实例"
 date:   2023-03-04
 tags: [PLC,基恩,示例,通讯,文档]
 comments: true

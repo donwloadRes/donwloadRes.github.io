@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Stata】数据批量季节调整教程"
+title: "Stata数据批量季节调整教程"
 date:   2024-08-27
 tags: [Stata,调整,季节,批量,数据]
 comments: true

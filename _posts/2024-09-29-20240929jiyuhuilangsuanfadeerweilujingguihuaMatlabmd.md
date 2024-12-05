@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于灰狼算法的二维路径规划（Matlab）"
+title: "基于灰狼算法的二维路径规划Matlab"
 date:   2023-01-22
 tags: [灰狼,路径,算法,规划,示例]
 comments: true

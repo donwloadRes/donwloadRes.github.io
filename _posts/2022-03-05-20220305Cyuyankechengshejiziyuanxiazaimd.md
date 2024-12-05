@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言课程设计资源下载"
+title: "C语言课程设计资源下载"
 date:   2022-10-05
 tags: [课程设计,计划编制,C++,资源,源程序]
 comments: true

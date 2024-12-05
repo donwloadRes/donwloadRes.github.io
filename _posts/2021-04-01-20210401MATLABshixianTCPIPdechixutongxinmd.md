@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现TCP-IP的持续通信"
+title: "MATLAB实现TCPIP的持续通信"
 date:   2022-07-20
 tags: [MATLAB,客户端,代码,服务器,通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQLite.Interop.dll 下载资源"
+title: "SQLiteInteropdll 下载资源"
 date:   2023-09-11
 tags: [SQLite,Interop,dll,x86,x64]
 comments: true

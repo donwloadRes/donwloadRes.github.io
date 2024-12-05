@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言经典例题100例（含答案）"
+title: "C语言经典例题100例含答案"
 date:   2020-02-12
 tags: [C语言,例题,100,含答案,经典]
 comments: true

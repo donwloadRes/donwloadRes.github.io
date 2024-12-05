@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSG之路（一） 搭建VS+QT+OSG环境"
+title: "OSG之路一 搭建VSQTOSG环境"
 date:   2024-11-19
 tags: [OSG,QT,环境变量,配置,VS]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP从入门到精通 - 资源下载"
+title: "SAP从入门到精通  资源下载"
 date:   2022-09-23
 tags: [SAP,入门,精通,本书,下载]
 comments: true

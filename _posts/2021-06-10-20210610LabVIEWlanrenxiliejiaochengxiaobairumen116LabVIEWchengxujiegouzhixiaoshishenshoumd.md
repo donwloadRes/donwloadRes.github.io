@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW懒人系列教程-小白入门：1.16 LabVIEW程序结构之小试身手"
+title: "LabVIEW懒人系列教程小白入门116 LabVIEW程序结构之小试身手"
 date:   2020-06-20
 tags: [LabVIEW,编程,教程,程序结构,懒人]
 comments: true

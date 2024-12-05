@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 12.5.2 安装包及密钥下载"
+title: "VMware Workstation 1252 安装包及密钥下载"
 date:   2022-04-10
 tags: [VMware,安装包,密钥,下载,Workstation]
 comments: true

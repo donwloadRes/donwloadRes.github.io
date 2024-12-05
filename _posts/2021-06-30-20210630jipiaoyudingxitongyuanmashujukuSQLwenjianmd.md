@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机票预订系统（源码+数据库+SQL文件）"
+title: "机票预订系统源码数据库SQL文件"
 date:   2020-08-19
 tags: [数据库,SQL,源码,JSP,机票]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决api-ms-win-core-file-l2-1-0.dll在Windows丢失问题"
+title: "解决apimswincorefilel210dll在Windows丢失问题"
 date:   2020-06-12
 tags: [文件,Windows,软件,DLL,api]
 comments: true

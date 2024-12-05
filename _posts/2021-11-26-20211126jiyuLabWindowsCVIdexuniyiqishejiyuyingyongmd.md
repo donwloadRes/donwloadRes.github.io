@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LabWindows-CVI的虚拟仪器设计与应用"
+title: "基于LabWindowsCVI的虚拟仪器设计与应用"
 date:   2023-03-17
 tags: [LabWindows,CVI,虚拟仪器,应用,设计]
 comments: true

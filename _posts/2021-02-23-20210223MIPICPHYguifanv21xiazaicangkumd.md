@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI C-PHY 规范 v2.1 下载仓库"
+title: "MIPI CPHY 规范 v21 下载仓库"
 date:   2021-11-05
 tags: [PHY,MIPI,规范,v2.1,仓库]
 comments: true

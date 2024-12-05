@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XVC（Xilinx Virtual Cable）实现指南"
+title: "XVCXilinx Virtual Cable实现指南"
 date:   2024-06-17
 tags: [XVC,Vivado,PetaLinux,SD,配置]
 comments: true

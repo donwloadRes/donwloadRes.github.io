@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子病历 & LIS医疗系统"
+title: "电子病历  LIS医疗系统"
 date:   2022-11-25
 tags: [病历,LIS,系统,电子,医疗机构]
 comments: true

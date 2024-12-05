@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mamba-ssm Win Python 3 资源文件下载"
+title: "mambassm Win Python 3 资源文件下载"
 date:   2023-03-03
 tags: [mamba,ssm,文件,whl,下载]
 comments: true

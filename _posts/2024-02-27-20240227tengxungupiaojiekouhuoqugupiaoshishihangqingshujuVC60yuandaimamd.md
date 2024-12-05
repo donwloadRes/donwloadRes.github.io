@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "腾讯股票接口——获取股票实时行情数据（VC6.0源代码）"
+title: "腾讯股票接口获取股票实时行情数据VC60源代码"
 date:   2022-11-27
 tags: [源代码,VC6.0,实时,腾讯,获取]
 comments: true

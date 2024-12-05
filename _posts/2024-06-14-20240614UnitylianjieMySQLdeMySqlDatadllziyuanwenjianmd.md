@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity连接MySQL的MySql.Data.dll资源文件"
+title: "Unity连接MySQL的MySqlDatadll资源文件"
 date:   2023-09-16
 tags: [MySQL,Unity,数据库,MySql,Data]
 comments: true

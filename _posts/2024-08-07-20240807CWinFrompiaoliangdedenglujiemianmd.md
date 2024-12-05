@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinFrom 漂亮的登录界面"
+title: "C WinFrom 漂亮的登录界面"
 date:   2021-03-11
 tags: [C#,界面,示例,登录,用户]
 comments: true

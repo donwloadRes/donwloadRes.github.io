@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像识别实战资源包 - 使用Python 3.9.1"
+title: "图像识别实战资源包  使用Python 391"
 date:   2021-09-09
 tags: [API,图像识别,Python,资源,3.9]
 comments: true

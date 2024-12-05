@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM DS-5入门教程（中文）高清版"
+title: "ARM DS5入门教程中文高清版"
 date:   2020-05-01
 tags: [ARM,DS,高清,入门教程,中文]
 comments: true

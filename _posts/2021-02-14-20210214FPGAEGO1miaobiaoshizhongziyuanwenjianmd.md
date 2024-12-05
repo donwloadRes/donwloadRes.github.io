@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA-EGO1 秒表时钟资源文件"
+title: "FPGAEGO1 秒表时钟资源文件"
 date:   2023-09-15
 tags: [FPGA,文件,EGO1,秒表,时钟]
 comments: true

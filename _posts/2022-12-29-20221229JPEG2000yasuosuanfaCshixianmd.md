@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JPEG2000压缩算法C++实现"
+title: "JPEG2000压缩算法C实现"
 date:   2024-10-15
 tags: [C++,压缩算法,JPEG2000,可执行程序,编译]
 comments: true

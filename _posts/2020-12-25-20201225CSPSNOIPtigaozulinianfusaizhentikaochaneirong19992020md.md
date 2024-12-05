@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSP-S (NOIP提高组) 历年复赛真题考察内容(1999～2020)"
+title: "CSPS NOIP提高组 历年复赛真题考察内容19992020"
 date:   2022-07-16
 tags: [CSP,NOIP,真题,复赛,考察]
 comments: true

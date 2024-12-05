@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你：从STM32F4xx移植到GD32F4xx"
+title: "手把手教你从STM32F4xx移植到GD32F4xx"
 date:   2021-03-08
 tags: [GD32F4xx,移植,STM32F4xx,芯片,手把手]
 comments: true

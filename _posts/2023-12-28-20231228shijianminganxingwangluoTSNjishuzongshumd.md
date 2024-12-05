@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间敏感型网络（TSN）技术综述"
+title: "时间敏感型网络TSN技术综述"
 date:   2022-08-07
 tags: [TSN,技术,网络,文件,敏感]
 comments: true

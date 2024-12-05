@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ug471-7Series-SelectIO全文翻译资源下载"
+title: "ug4717SeriesSelectIO全文翻译资源下载"
 date:   2020-08-29
 tags: [SelectIO,翻译,ug471,7Series,全文]
 comments: true

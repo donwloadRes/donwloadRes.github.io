@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 201 百度云盘下载"
+title: "JDK 18 201 百度云盘下载"
 date:   2024-07-01
 tags: [JDK,Java,1.8,201,下载]
 comments: true

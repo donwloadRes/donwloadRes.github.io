@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61000-3-2 中文版 PPT 下载"
+title: "IEC6100032 中文版 PPT 下载"
 date:   2022-10-13
 tags: [IEC61000,中文版,PPT,文件,文稿]
 comments: true

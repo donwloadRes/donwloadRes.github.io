@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机软件文档编制规范 - GB-T 8567-2006 模板资源"
+title: "计算机软件文档编制规范  GBT 85672006 模板资源"
 date:   2021-07-31
 tags: [文档,模板,软件,编制,2006]
 comments: true

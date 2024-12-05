@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103ZET6驱动TFT-LCD液晶屏程序"
+title: "STM32F103ZET6驱动TFTLCD液晶屏程序"
 date:   2023-09-19
 tags: [液晶屏,lcd,驱动,STM32F103ZET6,TFT]
 comments: true

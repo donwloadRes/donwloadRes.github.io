@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFMPEG+SDL的音频播放器 2.2"
+title: "最简单的基于FFMPEGSDL的音频播放器 22"
 date:   2022-06-03
 tags: [音频,示例,FFmpeg,SDL,解码]
 comments: true

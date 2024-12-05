@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Panel 流式布局 - Panel块自动排列"
+title: "C WinForm Panel 流式布局  Panel块自动排列"
 date:   2022-11-26
 tags: [Panel,WinForm,自动,布局,流式]
 comments: true

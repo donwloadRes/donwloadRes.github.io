@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRMEB知识付费系统v1.4.4源码介绍"
+title: "CRMEB知识付费系统v144源码介绍"
 date:   2024-12-02
 tags: [付费,系统,源码,CRMEB,知识]
 comments: true

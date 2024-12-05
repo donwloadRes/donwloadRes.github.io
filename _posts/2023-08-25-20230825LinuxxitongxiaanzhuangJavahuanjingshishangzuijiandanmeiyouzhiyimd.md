@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux系统下安装Java环境（史上最简单没有之一）"
+title: "Linux系统下安装Java环境史上最简单没有之一"
 date:   2022-05-04
 tags: [JDK,bash,HOME,安装,Java]
 comments: true

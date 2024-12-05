@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA数字信号处理设计教程-System Generator入门与提高"
+title: "FPGA数字信号处理设计教程System Generator入门与提高"
 date:   2022-05-27
 tags: [System,Generator,FPGA,信号处理,文件]
 comments: true

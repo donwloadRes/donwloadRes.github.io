@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyPdfDemo.zip 资源文件下载"
+title: "MyPdfDemozip 资源文件下载"
 date:   2023-12-07
 tags: [MyPdfDemo,zip,文件,mupdfDemo,PDF]
 comments: true

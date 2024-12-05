@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHI电化学分析仪软件安装包(附驱动)"
+title: "CHI电化学分析仪软件安装包附驱动"
 date:   2023-12-12
 tags: [CHI,软件,分析仪,电化学,用户手册]
 comments: true

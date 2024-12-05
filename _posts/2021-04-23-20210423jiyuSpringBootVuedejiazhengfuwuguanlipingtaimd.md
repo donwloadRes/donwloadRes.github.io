@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的家政服务管理平台"
+title: "基于SpringBootVue的家政服务管理平台"
 date:   2024-04-21
 tags: [用户,数据库,源码,媒体,SpringBoot]
 comments: true

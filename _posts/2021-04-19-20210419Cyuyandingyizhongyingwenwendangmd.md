@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语言定义中英文文档"
+title: "C语言定义中英文文档"
 date:   2022-05-27
 tags: [C#,文档,语言,语句,及其]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Visual C++ Build Tools 资源下载"
+title: "Microsoft Visual C Build Tools 资源下载"
 date:   2023-10-21
 tags: [C++,Visual,Build,Tools,下载]
 comments: true

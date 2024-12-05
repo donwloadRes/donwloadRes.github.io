@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 5234-2004军用软件验证和确认资源下载"
+title: "GJB 52342004军用软件验证和确认资源下载"
 date:   2021-06-25
 tags: [军用,2004,GJB,5234,验证]
 comments: true

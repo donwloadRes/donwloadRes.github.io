@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G030 + FreeRTOS 实验资源"
+title: "STM32G030  FreeRTOS 实验资源"
 date:   2023-05-21
 tags: [FreeRTOS,STM32G030,Keil5,文件,STM32G030C8T6]
 comments: true

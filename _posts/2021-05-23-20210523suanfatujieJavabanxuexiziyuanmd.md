@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法图解》Java版学习资源"
+title: "算法图解Java版学习资源"
 date:   2023-05-20
 tags: [算法,Java,图解,代码,资源]
 comments: true

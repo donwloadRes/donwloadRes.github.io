@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mingw-std-threads 资源文件介绍"
+title: "mingwstdthreads 资源文件介绍"
 date:   2020-10-08
 tags: [mingw,std,thread,threads,解压]
 comments: true

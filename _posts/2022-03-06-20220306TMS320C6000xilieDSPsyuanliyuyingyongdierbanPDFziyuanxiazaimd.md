@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMS320C6000系列DSPs原理与应用（第二版）PDF资源下载"
+title: "TMS320C6000系列DSPs原理与应用第二版PDF资源下载"
 date:   2022-01-08
 tags: [PDF,DSP,TMS320C6000,DSPs,系列]
 comments: true

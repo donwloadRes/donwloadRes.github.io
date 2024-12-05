@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT+OpenGL 3D模型查看器"
+title: "QTOpenGL 3D模型查看器"
 date:   2023-02-20
 tags: [模型,OpenGL,3D,QT,查看器]
 comments: true

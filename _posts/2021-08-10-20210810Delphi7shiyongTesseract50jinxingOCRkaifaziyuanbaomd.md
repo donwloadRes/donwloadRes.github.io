@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi7 使用 Tesseract 5.0 进行 OCR 开发资源包"
+title: "Delphi7 使用 Tesseract 50 进行 OCR 开发资源包"
 date:   2021-06-10
 tags: [Delphi7,OCR,Tesseract,5.0,资源]
 comments: true

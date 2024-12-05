@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java面试题及答案大全（2023持续更新）"
+title: "Java面试题及答案大全2023持续更新"
 date:   2023-11-02
 tags: [Java,面试题,Spring,文档,2023]
 comments: true

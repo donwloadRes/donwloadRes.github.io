@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop & Hive 环境搭建资源文件介绍"
+title: "Hadoop  Hive 环境搭建资源文件介绍"
 date:   2024-08-11
 tags: [虚拟机,Hadoop,Hive,环境,搭建]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3DMAX 5.0 资源下载：2019 年珍藏版"
+title: "3DMAX 50 资源下载2019 年珍藏版"
 date:   2020-12-11
 tags: [建模,3DMAX,5.0,3D,下载]
 comments: true

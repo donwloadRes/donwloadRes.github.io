@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自抗扰控制算法（ADRC）Simulink模型示例"
+title: "自抗扰控制算法ADRCSimulink模型示例"
 date:   2023-04-08
 tags: [ADRC,示例,控制算法,Simulink,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双向AC-DC变换器的单相系统控制与建模"
+title: "双向ACDC变换器的单相系统控制与建模"
 date:   2022-10-13
 tags: [变换器,单相,AC,DC,双向]
 comments: true

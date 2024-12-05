@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "秉火串口调试助手v1.0和v1.2.0"
+title: "秉火串口调试助手v10和v120"
 date:   2022-09-28
 tags: [串口,调试,v1.0,秉火,v1.2]
 comments: true

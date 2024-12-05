@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D资源查看器：开源项目"
+title: "3D资源查看器开源项目"
 date:   2020-12-28
 tags: [3D,模型,开源,项目,排序]
 comments: true

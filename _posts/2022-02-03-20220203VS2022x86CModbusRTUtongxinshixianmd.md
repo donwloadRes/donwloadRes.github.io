@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2022 x86 C++ Modbus RTU通信实现"
+title: "VS2022 x86 C Modbus RTU通信实现"
 date:   2023-01-20
 tags: [Modbus,RTU,串口,示例,消息]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux安装JDK 1.8（超级详细）"
+title: "Linux安装JDK 18超级详细"
 date:   2021-05-28
 tags: [JDK,安装,1.8,安装包,Linux]
 comments: true

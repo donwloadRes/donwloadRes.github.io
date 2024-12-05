@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6的HAL库交流ADC+串口输出+I2C显示例程"
+title: "基于STM32F103C8T6的HAL库交流ADC串口输出I2C显示例程"
 date:   2022-04-20
 tags: [I2C,HAL,串口,STM32F103C8T6,ADC]
 comments: true

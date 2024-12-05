@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度地图离线API 1.3（去Logo，保证可用）"
+title: "百度地图离线API 13去Logo保证可用"
 date:   2023-08-10
 tags: [离线,地图,Logo,百度,加载]
 comments: true

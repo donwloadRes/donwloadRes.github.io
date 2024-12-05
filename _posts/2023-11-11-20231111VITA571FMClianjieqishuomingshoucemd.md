@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA 57.1 FMC连接器说明手册"
+title: "VITA 571 FMC连接器说明手册"
 date:   2022-11-05
 tags: [FMC,FPGA,连接器,VITA,57.1]
 comments: true

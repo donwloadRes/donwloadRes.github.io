@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB Simulink 饱和函数（sat）代码"
+title: "MATLAB Simulink 饱和函数sat代码"
 date:   2021-06-17
 tags: [MATLAB,饱和,代码,Simulink,函数]
 comments: true

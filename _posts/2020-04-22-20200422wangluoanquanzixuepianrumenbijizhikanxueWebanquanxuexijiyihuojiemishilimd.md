@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全自学篇：入门笔记之看雪Web安全学习及异或解密示例"
+title: "网络安全自学篇入门笔记之看雪Web安全学习及异或解密示例"
 date:   2020-08-18
 tags: [异或,解密,Web,网络安全,示例]
 comments: true

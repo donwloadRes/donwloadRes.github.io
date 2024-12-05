@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T型π型滤波器计算器计算软件"
+title: "T型型滤波器计算器计算软件"
 date:   2023-09-08
 tags: [滤波器,软件,计算,设计,计算器]
 comments: true

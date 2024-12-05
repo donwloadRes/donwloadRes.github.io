@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 开发浏览dwg文档"
+title: "C 开发浏览dwg文档"
 date:   2023-07-01
 tags: [DWG,C#,NET,文档,浏览]
 comments: true

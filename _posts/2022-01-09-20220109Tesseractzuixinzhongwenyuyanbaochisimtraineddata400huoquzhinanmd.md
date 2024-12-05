@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract最新中文语言包chi_sim.traineddata(4.0.0) 获取指南"
+title: "Tesseract最新中文语言包chisimtraineddata400 获取指南"
 date:   2023-08-24
 tags: [Tesseract,语言包,中文,chi,sim]
 comments: true

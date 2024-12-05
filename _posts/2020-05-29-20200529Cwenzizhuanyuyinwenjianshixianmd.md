@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 文字转语音文件实现"
+title: "C 文字转语音文件实现"
 date:   2024-04-14
 tags: [语音,项目,源码,文字,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPY++ 直接运行版（Windows 句柄获取工具）"
+title: "SPY 直接运行版Windows 句柄获取工具"
 date:   2020-06-24
 tags: [句柄,Windows,SPY,工具,++]
 comments: true

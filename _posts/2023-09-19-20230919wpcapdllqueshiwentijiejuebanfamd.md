@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wpcap.dll 缺失问题解决办法"
+title: "wpcapdll 缺失问题解决办法"
 date:   2023-11-27
 tags: [wpcap,dll,文件,WinPcap,软件]
 comments: true

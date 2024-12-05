@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103C8T6最小系统PCB+原理图+3D库"
+title: "STM32F103C8T6最小系统PCB原理图3D库"
 date:   2024-07-29
 tags: [STM32F103C8T6,PCB,Altium,Designer,设计]
 comments: true

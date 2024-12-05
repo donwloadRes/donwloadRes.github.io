@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN10（64位）Python 3.8.1 安装指南及PyCharm配置教程"
+title: "WIN1064位Python 381 安装指南及PyCharm配置教程"
 date:   2022-03-19
 tags: [Python,安装,PyCharm,3.8,下载]
 comments: true

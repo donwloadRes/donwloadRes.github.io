@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu22.04.1 LTS离线编译安装Nginx"
+title: "Ubuntu22041 LTS离线编译安装Nginx"
 date:   2020-03-13
 tags: [Nginx,安装,编译,离线,脚本]
 comments: true

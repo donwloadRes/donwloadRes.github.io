@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华中科技大学-计算机组成原理-educoder Logisim-计算机数据表示实验（HUST）答案代码"
+title: "华中科技大学计算机组成原理educoder Logisim计算机数据表示实验HUST答案代码"
 date:   2024-10-04
 tags: [实验,16,编码,代码,电路设计]
 comments: true

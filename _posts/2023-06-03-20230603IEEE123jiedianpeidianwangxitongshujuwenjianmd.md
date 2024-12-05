@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE-123节点配电网系统数据文件"
+title: "IEEE123节点配电网系统数据文件"
 date:   2020-05-26
 tags: [配电网,节点,IEEE,123,数据]
 comments: true

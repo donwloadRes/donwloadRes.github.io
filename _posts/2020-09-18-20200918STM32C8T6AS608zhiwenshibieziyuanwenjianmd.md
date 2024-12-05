@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32C8T6-AS608指纹识别资源文件"
+title: "STM32C8T6AS608指纹识别资源文件"
 date:   2024-08-16
 tags: [指纹识别,AS608,模块,STM32C8T6,引脚]
 comments: true

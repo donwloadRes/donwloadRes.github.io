@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ GUI编程实战：Qt4第二版"
+title: "C GUI编程实战Qt4第二版"
 date:   2023-09-15
 tags: [GUI,Qt4,C++,Qt,编程]
 comments: true

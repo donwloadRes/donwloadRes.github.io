@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZY Player：影视爱好者的万能播放器"
+title: "ZY Player影视爱好者的万能播放器"
 date:   2021-05-31
 tags: [ZY,Player,影视,用户,播放器]
 comments: true

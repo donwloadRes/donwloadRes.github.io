@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-Boot 常用命令手册"
+title: "UBoot 常用命令手册"
 date:   2023-05-07
 tags: [Boot,常用命令,命令,例程,手册]
 comments: true

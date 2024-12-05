@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法导论（英文第四版）非扫描版下载"
+title: "算法导论英文第四版非扫描版下载"
 date:   2021-05-06
 tags: [算法,第四版,扫描,导论,英文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轻量化神经网络之MobileNet V2 & V3 ONNX 文件"
+title: "轻量化神经网络之MobileNet V2  V3 ONNX 文件"
 date:   2023-05-12
 tags: [模型,ONNX,MobileNet,V2,onnx]
 comments: true

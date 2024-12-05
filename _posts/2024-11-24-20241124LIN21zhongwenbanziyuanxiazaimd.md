@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN2.1中文版资源下载"
+title: "LIN21中文版资源下载"
 date:   2022-11-17
 tags: [LIN,总线,LIN2.1,中文版,物理层]
 comments: true

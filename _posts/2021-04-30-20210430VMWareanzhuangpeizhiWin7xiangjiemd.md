@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMWare安装&配置Win7详解"
+title: "VMWare安装配置Win7详解"
 date:   2021-12-10
 tags: [VMWare,Win7,安装,虚拟机,Workstation]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ILDASM.exe 4.6：微软中间语言反汇编工具"
+title: "ILDASMexe 46微软中间语言反汇编工具"
 date:   2021-02-24
 tags: [ILDASM,exe,NET,反汇编,MSIL]
 comments: true

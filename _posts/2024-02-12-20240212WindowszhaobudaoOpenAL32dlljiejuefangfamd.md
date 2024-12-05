@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows找不到OpenAL32.dll解决方法"
+title: "Windows找不到OpenAL32dll解决方法"
 date:   2022-02-27
 tags: [dll,OpenAL32,文件,Windows,文件夹]
 comments: true

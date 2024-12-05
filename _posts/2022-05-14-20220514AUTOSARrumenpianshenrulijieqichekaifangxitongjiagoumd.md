@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AUTOSAR入门篇 - 深入理解汽车开放系统架构"
+title: "AUTOSAR入门篇  深入理解汽车开放系统架构"
 date:   2020-11-12
 tags: [AUTOSAR,汽车,入门篇,软件,架构]
 comments: true

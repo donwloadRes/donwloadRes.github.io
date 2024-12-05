@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一文解决VS Code安装、C++环境配置、OpenCV配置"
+title: "一文解决VS Code安装C环境配置OpenCV配置"
 date:   2022-06-15
 tags: [OpenCV,Code,VS,配置,C++]
 comments: true

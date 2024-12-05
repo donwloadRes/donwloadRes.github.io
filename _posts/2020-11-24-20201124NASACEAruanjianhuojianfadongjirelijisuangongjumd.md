@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASACEA软件：火箭发动机热力计算工具"
+title: "NASACEA软件火箭发动机热力计算工具"
 date:   2023-03-25
 tags: [NASACEA,软件,火箭,计算,发动机]
 comments: true

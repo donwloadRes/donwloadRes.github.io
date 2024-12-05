@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb学生宿舍管理系统（JSP+JDBC+Servlet）"
+title: "JavaWeb学生宿舍管理系统JSPJDBCServlet"
 date:   2021-07-26
 tags: [学生宿舍,宿舍,报修,录入,JavaWeb]
 comments: true

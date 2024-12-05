@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XSS-Labs靶场安装与使用指南"
+title: "XSSLabs靶场安装与使用指南"
 date:   2022-05-25
 tags: [XSS,Labs,靶场,教程,安装]
 comments: true

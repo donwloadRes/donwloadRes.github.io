@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 入门必看实例程序100个"
+title: "C 入门必看实例程序100个"
 date:   2020-03-09
 tags: [实例,C#,编程,100,程序]
 comments: true

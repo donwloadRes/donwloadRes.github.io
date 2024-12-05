@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "平衡小车制作：陀螺仪MPU6050详解"
+title: "平衡小车制作陀螺仪MPU6050详解"
 date:   2021-05-19
 tags: [MPU6050,小车,陀螺仪,平衡,硬件]
 comments: true

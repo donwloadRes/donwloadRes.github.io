@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zoteroPDF预览插件zotero-pdf-preview的介绍和下载"
+title: "zoteroPDF预览插件zoteropdfpreview的介绍和下载"
 date:   2022-06-29
 tags: [插件,Zotero,zotero,pdf,preview]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mixly01：米思齐（Mixly）简介"
+title: "Mixly01米思齐Mixly简介"
 date:   2020-11-15
 tags: [编程,图形化,Mixly,米思齐,编译]
 comments: true

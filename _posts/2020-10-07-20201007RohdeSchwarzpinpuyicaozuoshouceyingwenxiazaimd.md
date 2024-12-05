@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rohde & Schwarz 频谱仪操作手册（英文）下载"
+title: "Rohde  Schwarz 频谱仪操作手册英文下载"
 date:   2023-09-08
 tags: [频谱仪,操作手册,Rohde,Schwarz,英文]
 comments: true

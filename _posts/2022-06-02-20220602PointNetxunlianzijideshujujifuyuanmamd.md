@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PointNet++训练自己的数据集（附源码）"
+title: "PointNet训练自己的数据集附源码"
 date:   2020-04-05
 tags: [txt,源码,mytensor,修改,训练]
 comments: true

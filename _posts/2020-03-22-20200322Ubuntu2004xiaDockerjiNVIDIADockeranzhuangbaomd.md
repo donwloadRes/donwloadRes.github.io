@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 下 Docker 及 NVIDIA Docker 安装包"
+title: "Ubuntu 2004 下 Docker 及 NVIDIA Docker 安装包"
 date:   2021-09-10
 tags: [deb,amd64,Docker,sudo,dpkg]
 comments: true

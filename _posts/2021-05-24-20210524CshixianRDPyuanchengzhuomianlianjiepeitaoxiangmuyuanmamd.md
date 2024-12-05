@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现RDP远程桌面连接配套项目源码"
+title: "C 实现RDP远程桌面连接配套项目源码"
 date:   2024-03-30
 tags: [C#,RDP,远程桌面,项目,源码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "九齐单片机最新IDE NYIDE 4.80版本"
+title: "九齐单片机最新IDE NYIDE 480版本"
 date:   2022-04-09
 tags: [单片机,IDE,画面,设定,版本]
 comments: true

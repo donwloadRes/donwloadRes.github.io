@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maix-Bit V2.0 开发板原理图"
+title: "MaixBit V20 开发板原理图"
 date:   2024-09-10
 tags: [原理图,Maix,Bit,开发板,V2.0]
 comments: true

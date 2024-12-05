@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哈工大模式识别期末复习讲义 - 个人总结"
+title: "哈工大模式识别期末复习讲义  个人总结"
 date:   2021-05-12
 tags: [复习,讲义,模式识别,课程,章节]
 comments: true

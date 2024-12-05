@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA+MySQL学生成绩管理系统"
+title: "JAVAMySQL学生成绩管理系统"
 date:   2022-01-13
 tags: [成绩,数据库,MySQL,学生,录入]
 comments: true

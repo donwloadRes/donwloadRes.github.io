@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32毕业设计：基于STM32C8T6的坡道行驶巡线小车制作教程"
+title: "STM32毕业设计基于STM32C8T6的坡道行驶巡线小车制作教程"
 date:   2020-06-09
 tags: [小车,坡度,坡道,教程,毕业设计]
 comments: true

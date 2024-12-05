@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "资源分享—2021版用地用海相关符号库"
+title: "资源分享2021版用地用海相关符号库"
 date:   2021-10-30
 tags: [符号库,用海,GIS,用地,符号]
 comments: true

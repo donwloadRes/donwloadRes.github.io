@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux编程之旅：从入门到精通资源集合"
+title: "Linux编程之旅从入门到精通资源集合"
 date:   2021-11-21
 tags: [Linux,编程,60,编程设计,思维]
 comments: true

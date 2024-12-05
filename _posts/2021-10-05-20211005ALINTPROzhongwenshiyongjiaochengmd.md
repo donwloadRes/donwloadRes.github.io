@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALINT-PRO中文使用教程"
+title: "ALINTPRO中文使用教程"
 date:   2023-12-08
 tags: [ALINT,PRO,教程,设计,使用]
 comments: true

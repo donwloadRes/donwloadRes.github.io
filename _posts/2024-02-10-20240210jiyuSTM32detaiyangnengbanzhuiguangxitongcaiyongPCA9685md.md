@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的太阳能板追光系统（采用PCA9685）"
+title: "基于STM32的太阳能板追光系统采用PCA9685"
 date:   2023-03-06
 tags: [舵机,光敏电阻,PCA9685,采集,太阳能]
 comments: true

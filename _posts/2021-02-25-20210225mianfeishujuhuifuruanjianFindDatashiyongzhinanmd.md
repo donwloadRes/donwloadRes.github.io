@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费数据恢复软件(FindData) 使用指南"
+title: "免费数据恢复软件FindData 使用指南"
 date:   2023-02-08
 tags: [数据恢复,FindData,软件,数据,使用]
 comments: true

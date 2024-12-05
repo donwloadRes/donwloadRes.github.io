@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 1.8.0 OpenJDK 离线升级包"
+title: "Java 180 OpenJDK 离线升级包"
 date:   2020-03-22
 tags: [1.8,Java,升级包,安装,离线]
 comments: true

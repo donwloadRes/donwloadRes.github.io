@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7.NET.DLL 西门子通讯开发包及官方指导文件"
+title: "S7NETDLL 西门子通讯开发包及官方指导文件"
 date:   2021-12-02
 tags: [S7,NET,DLL,开发包,西门子]
 comments: true

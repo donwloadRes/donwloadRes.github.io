@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFS Http File Server 2.4.0 Build 319 RC7中文版"
+title: "HFS Http File Server 240 Build 319 RC7中文版"
 date:   2022-04-19
 tags: [文件,HFS,Http,File,Server]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crystal Reports 2008 水晶报表官方中文傻瓜教程（翻译）"
+title: "Crystal Reports 2008 水晶报表官方中文傻瓜教程翻译"
 date:   2020-07-06
 tags: [Crystal,Reports,2008,教程,报表]
 comments: true

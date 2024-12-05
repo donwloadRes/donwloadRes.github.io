@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java安装及‘jarsigner’命令问题解决指南"
+title: "Java安装及jarsigner命令问题解决指南"
 date:   2022-02-11
 tags: [JDK,Java,jarsigner,安装,JAVA]
 comments: true

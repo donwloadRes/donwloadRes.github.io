@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用Proteus 8.9仿真STM32F407ZGT6与F429IGT6指南"
+title: "用Proteus 89仿真STM32F407ZGT6与F429IGT6指南"
 date:   2023-12-01
 tags: [Proteus,固件,仿真,STM32F401VE,8.9]
 comments: true

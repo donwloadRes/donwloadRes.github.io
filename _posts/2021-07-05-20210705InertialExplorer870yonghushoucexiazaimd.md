@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InertialExplorer 8.70 用户手册下载"
+title: "InertialExplorer 870 用户手册下载"
 date:   2021-01-20
 tags: [用户手册,InertialExplorer,8.70,PDF,下载]
 comments: true

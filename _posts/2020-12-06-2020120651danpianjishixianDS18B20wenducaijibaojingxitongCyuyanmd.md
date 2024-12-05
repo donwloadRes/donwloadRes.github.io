@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机实现DS18B20温度采集报警系统-C语言"
+title: "51单片机实现DS18B20温度采集报警系统C语言"
 date:   2024-01-18
 tags: [DS18B20,温度,单片机,采集,数码管]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库开发实战指南——F103系列"
+title: "STM32 HAL库开发实战指南F103系列"
 date:   2024-10-20
 tags: [STM32,HAL,F103,指南,实战]
 comments: true

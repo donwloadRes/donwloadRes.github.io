@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转串口PL2303驱动（Win11兼容版）"
+title: "USB转串口PL2303驱动Win11兼容版"
 date:   2021-06-07
 tags: [驱动程序,PL2303,串口,USB,Windows]
 comments: true

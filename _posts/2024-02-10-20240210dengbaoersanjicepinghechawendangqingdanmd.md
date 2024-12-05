@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等保二、三级测评核查文档清单"
+title: "等保二三级测评核查文档清单"
 date:   2024-11-27
 tags: [测评,文档,保二,清单,核查]
 comments: true

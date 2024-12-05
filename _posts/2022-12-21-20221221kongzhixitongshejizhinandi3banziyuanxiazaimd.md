@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "控制系统设计指南（第3版）资源下载"
+title: "控制系统设计指南第3版资源下载"
 date:   2024-07-14
 tags: [控制系统,文件格式,指南,设计,资源]
 comments: true

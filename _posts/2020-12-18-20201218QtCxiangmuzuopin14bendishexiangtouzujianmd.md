@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品14 - 本地摄像头组件"
+title: "QtC项目作品14  本地摄像头组件"
 date:   2020-06-13
 tags: [摄像头,支持,视频,二维码,自动]
 comments: true

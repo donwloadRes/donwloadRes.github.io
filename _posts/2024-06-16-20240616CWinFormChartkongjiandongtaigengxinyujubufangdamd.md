@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Chart控件动态更新与局部放大"
+title: "C WinForm Chart控件动态更新与局部放大"
 date:   2020-06-01
 tags: [控件,Chart,折线图,Visual,Studio]
 comments: true

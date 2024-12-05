@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt-C++项目作品05-视频监控Onvif组件"
+title: "QtC项目作品05视频监控Onvif组件"
 date:   2021-07-07
 tags: [设备,Onvif,视频流,预置,云台]
 comments: true

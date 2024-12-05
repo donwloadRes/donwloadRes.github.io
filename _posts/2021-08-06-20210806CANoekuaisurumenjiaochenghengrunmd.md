@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe 快速入门教程 - 恒润"
+title: "CANoe 快速入门教程  恒润"
 date:   2020-10-22
 tags: [CANoe,测试,教程,入门教程,恒润]
 comments: true

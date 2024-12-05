@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC机器人手册(超全)"
+title: "FANUC机器人手册超全"
 date:   2023-02-07
 tags: [机械手,FANUC,本手册,点焊,操作]
 comments: true

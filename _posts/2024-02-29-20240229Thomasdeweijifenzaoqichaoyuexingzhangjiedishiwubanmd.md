@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thomas' 的微积分：早期超越性章节 第十五版"
+title: "Thomas 的微积分早期超越性章节 第十五版"
 date:   2021-03-26
 tags: [微积分,Thomas,超越性,学习,Calculus]
 comments: true

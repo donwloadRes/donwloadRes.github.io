@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-PCL 测试数据包"
+title: "PythonPCL 测试数据包"
 date:   2023-11-23
 tags: [PCL,Python,点云,安装,pcl]
 comments: true

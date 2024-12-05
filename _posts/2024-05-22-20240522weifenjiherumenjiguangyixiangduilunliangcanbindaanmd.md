@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微分几何入门及广义相对论(梁灿彬) 答案"
+title: "微分几何入门及广义相对论梁灿彬 答案"
 date:   2020-06-29
 tags: [微分,相对论,答案,广义,文档]
 comments: true

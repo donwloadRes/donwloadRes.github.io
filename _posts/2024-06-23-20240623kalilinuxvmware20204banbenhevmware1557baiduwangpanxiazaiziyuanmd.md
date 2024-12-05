@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kali linux vmware-2020.4版本 和 vmware 15.5.7 百度网盘下载资源"
+title: "kali linux vmware20204版本 和 vmware 1557 百度网盘下载资源"
 date:   2022-12-29
 tags: [Kali,Linux,VMware,虚拟机,下载]
 comments: true

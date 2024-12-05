@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子技术课程设计资源：自动日历表 multisim 仿真+报告"
+title: "电子技术课程设计资源自动日历表 multisim 仿真报告"
 date:   2021-02-04
 tags: [仿真,电子,Multisim,课程设计,日历表]
 comments: true

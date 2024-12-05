@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt多线程实现海康工业相机图像采集+算法检测+OpenGLWidget实时显示"
+title: "Qt多线程实现海康工业相机图像采集算法检测OpenGLWidget实时显示"
 date:   2022-01-12
 tags: [Qt,相机,图像,多线程,海康]
 comments: true

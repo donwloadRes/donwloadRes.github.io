@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RWKV-Runner：一键启动大模型，实现大模型自由"
+title: "RWKVRunner一键启动大模型实现大模型自由"
 date:   2024-10-19
 tags: [模型,RWKV,Runner,用户,显存]
 comments: true

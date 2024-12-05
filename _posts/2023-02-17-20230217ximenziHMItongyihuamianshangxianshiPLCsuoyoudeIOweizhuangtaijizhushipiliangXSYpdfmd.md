@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子 HMI同一画面上显示PLC所有的IO位状态及注释（批量）XSY.pdf"
+title: "西门子 HMI同一画面上显示PLC所有的IO位状态及注释批量XSYpdf"
 date:   2021-03-01
 tags: [PLC,IO,HMI,注释,画面]
 comments: true

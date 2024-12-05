@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 资源防护器 6.9 - 强大的 .NET 代码保护解决方案"
+title: "NET 资源防护器 69  强大的 NET 代码保护解决方案"
 date:   2024-08-26
 tags: [NET,保护,防护,开发人员,代码]
 comments: true

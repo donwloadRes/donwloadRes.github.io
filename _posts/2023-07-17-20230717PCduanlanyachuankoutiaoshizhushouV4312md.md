@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC端蓝牙-串口调试助手 V4.3.12"
+title: "PC端蓝牙串口调试助手 V4312"
 date:   2024-11-13
 tags: [蓝牙,串口,调试,PC,通信]
 comments: true

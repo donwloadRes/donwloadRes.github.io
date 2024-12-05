@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像分类数据集（Fashion-MNIST）"
+title: "图像分类数据集FashionMNIST"
 date:   2023-02-12
 tags: [图像,MNIST,数据,Fashion,分类]
 comments: true

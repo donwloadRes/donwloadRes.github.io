@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LZSS压缩-解压算法实现"
+title: "LZSS压缩解压算法实现"
 date:   2020-07-18
 tags: [解压,算法,LZSS,压缩,跨平台]
 comments: true

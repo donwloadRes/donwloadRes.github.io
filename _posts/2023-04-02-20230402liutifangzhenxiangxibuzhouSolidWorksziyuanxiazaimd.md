@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "流体仿真详细步骤 - SolidWorks 资源下载"
+title: "流体仿真详细步骤  SolidWorks 资源下载"
 date:   2022-11-24
 tags: [仿真,SolidWorks,流体,步骤,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop(PS) 下载及安装教程"
+title: "PhotoshopPS 下载及安装教程"
 date:   2020-01-26
 tags: [Photoshop,安装,用户,教程,下载]
 comments: true

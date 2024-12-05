@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "allegro高速信号添加PIN_delay的详细步骤"
+title: "allegro高速信号添加PINdelay的详细步骤"
 date:   2023-03-27
 tags: [PIN,delay,信号,Allegro,高速]
 comments: true

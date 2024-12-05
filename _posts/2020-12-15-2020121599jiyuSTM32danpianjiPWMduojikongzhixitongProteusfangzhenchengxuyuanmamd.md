@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "99-基于STM32单片机PWM舵机控制系统Proteus仿真+程序源码"
+title: "99基于STM32单片机PWM舵机控制系统Proteus仿真程序源码"
 date:   2020-12-27
 tags: [舵机,PWM,STM32,仿真,Proteus]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PaddleOCR直译执行程序：一键启动，零环境配置的OCR识别服务"
+title: "PaddleOCR直译执行程序一键启动零环境配置的OCR识别服务"
 date:   2020-04-17
 tags: [OCR,PaddleOCR,exe,识别,环境]
 comments: true

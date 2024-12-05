@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 3.0规范文档"
+title: "PCIe 30规范文档"
 date:   2021-02-17
 tags: [PCIe,3.0,文档,技术,这份]
 comments: true

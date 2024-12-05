@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值线性代数（徐树方）资源下载"
+title: "数值线性代数徐树方资源下载"
 date:   2022-11-19
 tags: [线性代数,徐树方,数值,学习,资源]
 comments: true

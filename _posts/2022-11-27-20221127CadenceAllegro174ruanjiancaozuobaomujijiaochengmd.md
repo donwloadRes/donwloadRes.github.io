@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 17.4软件操作保姆级教程"
+title: "Cadence Allegro 174软件操作保姆级教程"
 date:   2021-12-23
 tags: [Allegro,文档,PCB,软件,操作]
 comments: true

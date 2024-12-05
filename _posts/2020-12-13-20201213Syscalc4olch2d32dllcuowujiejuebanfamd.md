@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Syscalc4\olch2d32.dll 错误解决办法"
+title: "Syscalc4olch2d32dll 错误解决办法"
 date:   2021-12-30
 tags: [dll,olch2d32,Syscalc4,文件,错误]
 comments: true

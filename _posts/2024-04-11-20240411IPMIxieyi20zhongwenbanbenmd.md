@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPMI 协议 2.0 中文版本"
+title: "IPMI 协议 20 中文版本"
 date:   2023-10-19
 tags: [IPMI,2.0,文件,协议,版本]
 comments: true

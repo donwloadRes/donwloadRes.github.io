@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 高级教程 - 进阶教材"
+title: "Cadence Allegro 166 高级教程  进阶教材"
 date:   2020-01-21
 tags: [进阶,教程,Cadence,Allegro,16.6]
 comments: true

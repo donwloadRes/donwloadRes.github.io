@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学：AIGC发展研究报告"
+title: "清华大学AIGC发展研究报告"
 date:   2024-10-16
 tags: [AIGC,清华大学,技术,报告,研究]
 comments: true

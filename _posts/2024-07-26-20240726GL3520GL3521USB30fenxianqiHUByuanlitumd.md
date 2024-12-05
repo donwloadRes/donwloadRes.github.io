@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GL3520+GL3521 USB3.0 分线器 HUB 原理图"
+title: "GL3520GL3521 USB30 分线器 HUB 原理图"
 date:   2020-03-19
 tags: [原理图,GL3520,GL3521,USB3.0,分线器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Nurbs Book (第二版) 资源下载介绍"
+title: "The Nurbs Book 第二版 资源下载介绍"
 date:   2023-06-18
 tags: [样条,代码,读者,曲线,书籍]
 comments: true

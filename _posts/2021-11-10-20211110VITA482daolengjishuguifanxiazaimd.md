@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA48.2 导冷技术规范下载"
+title: "VITA482 导冷技术规范下载"
 date:   2020-02-15
 tags: [导冷,VITA48.2,VPX,板卡,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "慧荣U盘量产工具 v20.02.04.21 使用指南"
+title: "慧荣U盘量产工具 v20020421 使用指南"
 date:   2020-12-19
 tags: [量产,U盘,慧荣,v20.02,04.21]
 comments: true

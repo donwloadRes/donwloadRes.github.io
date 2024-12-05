@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S32KDS平台SDK3.0 lpuart组件例程"
+title: "S32KDS平台SDK30 lpuart组件例程"
 date:   2023-08-02
 tags: [例程,S32KDS,lpuart,组件,平台]
 comments: true

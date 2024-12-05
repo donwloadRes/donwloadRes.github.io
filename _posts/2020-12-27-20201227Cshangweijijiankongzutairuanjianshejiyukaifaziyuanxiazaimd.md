@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 上位机监控组态软件设计与开发资源下载"
+title: "C 上位机监控组态软件设计与开发资源下载"
 date:   2020-10-25
 tags: [C#,组态,上位,监控,开发]
 comments: true

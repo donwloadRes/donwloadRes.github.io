@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机过程及其应用（陆大絟）教材下载"
+title: "随机过程及其应用陆大絟教材下载"
 date:   2021-10-11
 tags: [随机,教材,过程,应用,及其]
 comments: true

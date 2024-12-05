@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SerialPort IO操作 - 大数据收发支持"
+title: "C SerialPort IO操作  大数据收发支持"
 date:   2020-02-06
 tags: [串口,数据,类库,发送,C#]
 comments: true

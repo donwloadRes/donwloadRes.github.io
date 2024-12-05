@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android底层开发技术实战详解  内核、移植和驱动 资源下载"
+title: "Android底层开发技术实战详解  内核移植和驱动 资源下载"
 date:   2023-05-17
 tags: [Android,内核,底层,驱动,开发技术]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot整合Redis实现发布-订阅功能教程配套源码"
+title: "Spring Boot整合Redis实现发布订阅功能教程配套源码"
 date:   2022-08-12
 tags: [源码,Redis,Spring,Boot,订阅]
 comments: true

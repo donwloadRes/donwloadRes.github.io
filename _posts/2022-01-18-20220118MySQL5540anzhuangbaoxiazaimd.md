@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.5.40 安装包下载"
+title: "MySQL 5540 安装包下载"
 date:   2020-12-05
 tags: [MySQL,40,安装包,5.5,安装]
 comments: true

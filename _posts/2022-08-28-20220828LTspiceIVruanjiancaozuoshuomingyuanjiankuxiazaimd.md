@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTspice IV软件、操作说明、元件库下载"
+title: "LTspice IV软件操作说明元件库下载"
 date:   2020-03-26
 tags: [LTspice,IV,元件库,软件,仿真]
 comments: true

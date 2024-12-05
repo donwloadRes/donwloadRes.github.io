@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汇编语言学习之DOSBox+MASM 安装及使用教程"
+title: "汇编语言学习之DOSBoxMASM 安装及使用教程"
 date:   2023-07-25
 tags: [DOSBox,汇编语言,MASM,DOS,安装]
 comments: true

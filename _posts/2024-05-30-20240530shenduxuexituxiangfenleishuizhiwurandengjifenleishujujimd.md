@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习图像分类：水质污染等级分类数据集"
+title: "深度学习图像分类水质污染等级分类数据集"
 date:   2023-04-22
 tags: [水质,图像,数据,污染,模型]
 comments: true

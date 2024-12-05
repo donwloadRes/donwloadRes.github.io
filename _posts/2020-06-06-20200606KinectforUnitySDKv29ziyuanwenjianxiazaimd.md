@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kinect for Unity SDK v2.9 资源文件下载"
+title: "Kinect for Unity SDK v29 资源文件下载"
 date:   2022-06-08
 tags: [Unity,Kinect,插件,开发者,文件]
 comments: true

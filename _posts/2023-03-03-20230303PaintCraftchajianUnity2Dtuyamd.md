@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PaintCraft插件 - Unity2D涂鸦"
+title: "PaintCraft插件  Unity2D涂鸦"
 date:   2021-04-10
 tags: [涂鸦,PaintCraft,游戏,Unity,插件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 期末考试复习题（带答案）"
+title: "Python 期末考试复习题带答案"
 date:   2021-01-07
 tags: [期末考试,Python,题目,复习题,答案]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为防火墙USG6000全图化Web典型配置案例(V4.0)"
+title: "华为防火墙USG6000全图化Web典型配置案例V40"
 date:   2020-03-12
 tags: [USG6000,防火墙,华为,配置,Web]
 comments: true

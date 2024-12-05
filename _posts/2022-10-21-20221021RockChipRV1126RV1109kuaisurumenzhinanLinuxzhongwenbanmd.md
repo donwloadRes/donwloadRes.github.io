@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RockChip RV1126-RV1109 快速入门指南（Linux 中文版）"
+title: "RockChip RV1126RV1109 快速入门指南Linux 中文版"
 date:   2024-10-24
 tags: [RV1126,RV1109,RockChip,Linux,手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows LocalSend v1.14.0 跨平台局域网传输工具"
+title: "Windows LocalSend v1140 跨平台局域网传输工具"
 date:   2023-11-07
 tags: [LocalSend,局域网,通信,设备,传输]
 comments: true

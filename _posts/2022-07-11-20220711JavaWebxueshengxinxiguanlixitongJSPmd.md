@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Web学生信息管理系统（JSP）"
+title: "Java Web学生信息管理系统JSP"
 date:   2020-07-12
 tags: [数据库,JSP,MySQL,信息管理系统,连接]
 comments: true

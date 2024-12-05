@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSGA-II Matlab代码资源介绍"
+title: "NSGAII Matlab代码资源介绍"
 date:   2024-02-20
 tags: [代码,算法,NSGA,II,Matlab]
 comments: true

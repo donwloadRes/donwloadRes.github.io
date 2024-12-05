@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.6.3 下载与详细配置图文教程（基于Win10系统）"
+title: "Maven 363 下载与详细配置图文教程基于Win10系统"
 date:   2021-06-02
 tags: [Maven,配置,教程,3.6,Java]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI Express M.2 规范文档"
+title: "PCI Express M2 规范文档"
 date:   2020-04-06
 tags: [M.2,文档,PCI,Express,PCIe]
 comments: true

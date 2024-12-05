@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习-图神经网络实战资源下载"
+title: "深度学习图神经网络实战资源下载"
 date:   2023-12-03
 tags: [神经网络,实战,学习,学习者,深度]
 comments: true

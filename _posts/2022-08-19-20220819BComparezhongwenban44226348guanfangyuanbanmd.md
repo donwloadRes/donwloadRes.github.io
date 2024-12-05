@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCompare 中文版 4.4.2.26348 官方原版"
+title: "BCompare 中文版 44226348 官方原版"
 date:   2020-02-11
 tags: [FTP,macOS,4.4,2.26348,SFTP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tor Browser（洋葱浏览器）—— 匿名上网的安全选择"
+title: "Tor Browser洋葱浏览器 匿名上网的安全选择"
 date:   2020-10-31
 tags: [Tor,浏览器,匿名,洋葱,用户]
 comments: true

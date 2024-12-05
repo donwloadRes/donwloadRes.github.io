@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机专业-C语言-毕业设计源码（24套）"
+title: "计算机专业C语言毕业设计源码24套"
 date:   2022-12-01
 tags: [C语言,源码,计算机专业,毕业设计,学习]
 comments: true

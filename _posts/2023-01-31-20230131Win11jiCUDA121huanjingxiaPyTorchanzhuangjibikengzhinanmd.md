@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win11及CUDA 12.1环境下PyTorch安装及避坑指南"
+title: "Win11及CUDA 121环境下PyTorch安装及避坑指南"
 date:   2021-10-02
 tags: [安装,PyTorch,CUDA,12.1,指南]
 comments: true

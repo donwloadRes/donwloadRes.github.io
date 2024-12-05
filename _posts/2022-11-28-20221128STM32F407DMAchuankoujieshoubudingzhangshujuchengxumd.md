@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 DMA+串口接收不定长数据程序"
+title: "STM32F407 DMA串口接收不定长数据程序"
 date:   2022-01-11
 tags: [串口,STM32F407,DMA,程序,接收]
 comments: true

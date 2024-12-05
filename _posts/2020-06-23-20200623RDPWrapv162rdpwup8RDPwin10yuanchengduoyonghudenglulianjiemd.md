@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RDPWrap-v1.6.2 + rdpwup-8 + RDPwin10远程多用户登录连接"
+title: "RDPWrapv162  rdpwup8  RDPwin10远程多用户登录连接"
 date:   2020-12-19
 tags: [RDPWrap,Windows,10,多用户,rdpwup]
 comments: true

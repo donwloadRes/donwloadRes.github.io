@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# VLC 播放器源代码分享"
+title: "C VLC 播放器源代码分享"
 date:   2020-03-19
 tags: [播放器,源代码,C#,VLC,使用]
 comments: true

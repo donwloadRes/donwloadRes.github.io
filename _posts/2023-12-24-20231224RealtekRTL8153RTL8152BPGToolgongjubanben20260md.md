@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Realtek RTL8153 & RTL8152B PGTool 工具版本 2.0.26.0"
+title: "Realtek RTL8153  RTL8152B PGTool 工具版本 20260"
 date:   2020-09-21
 tags: [修改,USB,2.0,26.0,MAC]
 comments: true

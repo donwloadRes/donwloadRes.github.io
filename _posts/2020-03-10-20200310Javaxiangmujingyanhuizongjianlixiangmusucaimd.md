@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java项目经验汇总(简历项目素材）"
+title: "Java项目经验汇总简历项目素材"
 date:   2020-04-27
 tags: [项目,Java,简历,经验,描述]
 comments: true

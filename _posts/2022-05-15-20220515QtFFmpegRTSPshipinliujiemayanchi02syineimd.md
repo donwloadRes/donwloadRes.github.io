@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt + FFmpeg RTSP视频流解码：延迟0.2s以内！"
+title: "Qt  FFmpeg RTSP视频流解码延迟02s以内"
 date:   2020-02-04
 tags: [FFmpeg,解码,Qt,视频流,延迟]
 comments: true

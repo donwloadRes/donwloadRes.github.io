@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows7 安装镜像注入USB3.0和NVMe驱动，支持UEFI启动"
+title: "Windows7 安装镜像注入USB30和NVMe驱动支持UEFI启动"
 date:   2022-05-11
 tags: [安装,NVMe,UEFI,镜像,Windows]
 comments: true

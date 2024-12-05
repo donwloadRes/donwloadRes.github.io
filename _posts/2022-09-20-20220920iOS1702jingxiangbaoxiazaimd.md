@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS 17.0.2 镜像包下载"
+title: "iOS 1702 镜像包下载"
 date:   2024-09-20
 tags: [镜像,iOS,17.0,Xcode,下载]
 comments: true

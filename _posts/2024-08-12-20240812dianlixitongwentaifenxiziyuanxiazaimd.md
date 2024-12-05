@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统稳态分析》资源下载"
+title: "电力系统稳态分析资源下载"
 date:   2023-03-16
 tags: [电力系统,稳态,分析,资源,理解]
 comments: true

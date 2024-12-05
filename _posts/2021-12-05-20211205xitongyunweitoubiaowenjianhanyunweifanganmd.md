@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统运维投标文件(含运维方案)"
+title: "系统运维投标文件含运维方案"
 date:   2024-10-09
 tags: [运维,投标,文件,方案,系统]
 comments: true

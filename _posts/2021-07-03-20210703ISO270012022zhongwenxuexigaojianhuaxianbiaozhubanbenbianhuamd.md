@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO27001-2022中文学习稿件 - 划线标注版本变化"
+title: "ISO270012022中文学习稿件  划线标注版本变化"
 date:   2023-02-09
 tags: [ISO27001,2022,版本,信息安全,标注]
 comments: true

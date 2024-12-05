@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在MFC中使用C#窗体：第一个简单窗体嵌入示例"
+title: "在MFC中使用C窗体第一个简单窗体嵌入示例"
 date:   2022-11-22
 tags: [窗体,MFC,C#,示例,嵌入]
 comments: true

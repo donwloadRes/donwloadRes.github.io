@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Latex- Texlive+Texstudio 安装和使用指南"
+title: "Latex TexliveTexstudio 安装和使用指南"
 date:   2024-10-10
 tags: [Latex,文档,安装,Texstudio,使用]
 comments: true

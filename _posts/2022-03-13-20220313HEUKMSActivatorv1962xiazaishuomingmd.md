@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEU_KMS_Activator_v19.6.2 下载说明"
+title: "HEUKMSActivatorv1962 下载说明"
 date:   2024-10-08
 tags: [KMS,激活,HEU,Activator,v19.6]
 comments: true

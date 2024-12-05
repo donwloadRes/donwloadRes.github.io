@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拣货路径优化MATLAB代码 - 基于RRT的6自由度机械臂动态路径规划"
+title: "拣货路径优化MATLAB代码  基于RRT的6自由度机械臂动态路径规划"
 date:   2023-05-22
 tags: [路径,函数,规划,优化,MATLAB]
 comments: true

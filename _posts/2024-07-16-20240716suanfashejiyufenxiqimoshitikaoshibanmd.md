@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法设计与分析期末试题_考试版"
+title: "算法设计与分析期末试题考试版"
 date:   2023-01-25
 tags: [算法,考试,习题,复习,解析]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Core Java - JAVA核心技术（中文版）"
+title: "Core Java  JAVA核心技术中文版"
 date:   2020-01-14
 tags: [Java,中文版,Core,JAVA,开发者]
 comments: true

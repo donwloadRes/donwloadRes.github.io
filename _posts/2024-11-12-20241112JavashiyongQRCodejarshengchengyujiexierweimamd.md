@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java使用QRCode.jar生成与解析二维码"
+title: "Java使用QRCodejar生成与解析二维码"
 date:   2021-03-26
 tags: [二维码,image,生成,BufferedImage,new]
 comments: true

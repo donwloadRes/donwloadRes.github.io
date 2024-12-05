@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Landsat行列号与行政区、经纬度对照表资源简介"
+title: "Landsat行列号与行政区经纬度对照表资源简介"
 date:   2021-08-15
 tags: [Landsat,经纬度,遥感,对照表,行列]
 comments: true

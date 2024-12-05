@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决谷歌人机验证 (reCAPTCHA) 显示错误或空白的问题 (电脑端+手机端)"
+title: "解决谷歌人机验证 reCAPTCHA 显示错误或空白的问题 电脑端手机端"
 date:   2021-04-21
 tags: [reCAPTCHA,文件,浏览器,资源,解决方案]
 comments: true

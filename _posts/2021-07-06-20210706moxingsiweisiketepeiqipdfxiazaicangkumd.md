@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型思维-斯科特·佩奇.pdf 下载仓库"
+title: "模型思维斯科特佩奇pdf 下载仓库"
 date:   2022-06-20
 tags: [思维,模型,程序员,pdf,佩奇]
 comments: true

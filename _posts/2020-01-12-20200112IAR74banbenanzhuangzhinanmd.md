@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR 7.4版本安装指南"
+title: "IAR 74版本安装指南"
 date:   2023-12-19
 tags: [安装,IAR,7.4,版本,驱动]
 comments: true

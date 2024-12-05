@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "神经网络与深度学习》+李宏毅PPT资源介绍"
+title: "神经网络与深度学习李宏毅PPT资源介绍"
 date:   2020-03-22
 tags: [学习,深度,PPT,神经网络,李宏毅]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C51 生成 BIN 文件工具 - srec_cat.exe"
+title: "Keil C51 生成 BIN 文件工具  sreccatexe"
 date:   2023-04-27
 tags: [BIN,srec,cat,exe,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下的rhel6.2（红帽）下载安装教程"
+title: "Linux下的rhel62红帽下载安装教程"
 date:   2022-01-24
 tags: [虚拟机,rhel6.2,教程,红帽,VMware]
 comments: true

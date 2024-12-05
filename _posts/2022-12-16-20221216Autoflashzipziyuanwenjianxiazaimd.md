@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autoflash.zip 资源文件下载"
+title: "Autoflashzip 资源文件下载"
 date:   2020-08-07
 tags: [Autoflash,zip,刷写,文件,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPS五级流水线CPU（全部注释）"
+title: "MIPS五级流水线CPU全部注释"
 date:   2020-03-25
 tags: [CPU,指令,流水线,MIPS,指令集]
 comments: true

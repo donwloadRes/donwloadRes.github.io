@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9.0实现的QWidget版富文本编辑器"
+title: "QT590实现的QWidget版富文本编辑器"
 date:   2022-05-19
 tags: [QT,文本编辑,QWidget,5.9,开发者]
 comments: true

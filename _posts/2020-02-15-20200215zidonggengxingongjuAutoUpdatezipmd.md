@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动更新工具 - AutoUpdate.zip"
+title: "自动更新工具  AutoUpdatezip"
 date:   2021-03-12
 tags: [客户端,自动更新,服务器端,版本,AutoUpdate]
 comments: true

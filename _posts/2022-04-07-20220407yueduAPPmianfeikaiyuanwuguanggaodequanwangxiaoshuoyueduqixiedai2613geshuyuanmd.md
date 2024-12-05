@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阅读APP：免费开源无广告的全网小说阅读器（携带2613个书源）"
+title: "阅读APP免费开源无广告的全网小说阅读器携带2613个书源"
 date:   2023-05-08
 tags: [书源,阅读,APP,开源,自定义]
 comments: true

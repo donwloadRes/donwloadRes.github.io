@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64安装及环境配置指南"
+title: "MinGWw64安装及环境配置指南"
 date:   2022-09-07
 tags: [MinGW,w64,安装,配置,Windows]
 comments: true

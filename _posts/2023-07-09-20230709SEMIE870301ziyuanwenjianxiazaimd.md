@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEMI E87 -0301 资源文件下载"
+title: "SEMI E87 0301 资源文件下载"
 date:   2022-02-09
 tags: [SEMI,E87,半导体,文件,0301]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IC-Light：照片重新打光工具介绍"
+title: "ICLight照片重新打光工具介绍"
 date:   2020-01-02
 tags: [IC,Light,打光,照片,加载]
 comments: true

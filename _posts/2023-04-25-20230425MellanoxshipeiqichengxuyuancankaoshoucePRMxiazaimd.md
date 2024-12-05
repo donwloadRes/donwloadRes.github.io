@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mellanox 适配器程序员参考手册 (PRM) 下载"
+title: "Mellanox 适配器程序员参考手册 PRM 下载"
 date:   2020-11-05
 tags: [适配器,Mellanox,ConnectX,本手册,参考手册]
 comments: true

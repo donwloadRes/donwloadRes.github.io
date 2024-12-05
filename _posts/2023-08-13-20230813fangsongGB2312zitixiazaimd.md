@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿宋-GB2312字体下载"
+title: "仿宋GB2312字体下载"
 date:   2024-07-22
 tags: [字体,GB2312,仿宋,下载,安装]
 comments: true

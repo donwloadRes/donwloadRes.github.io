@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jlink_v9固件资料"
+title: "jlinkv9固件资料"
 date:   2022-02-25
 tags: [固件,jlink,v9,资料,教程]
 comments: true

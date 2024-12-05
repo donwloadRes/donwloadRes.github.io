@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDEA实现前端页面登录、注册、增删改查操作-完整版"
+title: "IDEA实现前端页面登录注册增删改查操作完整版"
 date:   2021-01-27
 tags: [IDEA,改查,增删,登录,项目]
 comments: true

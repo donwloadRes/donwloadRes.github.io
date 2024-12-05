@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Widows11安装Ubuntu双系统教程（最新版本22.04.1LTS）"
+title: "Widows11安装Ubuntu双系统教程最新版本22041LTS"
 date:   2023-11-04
 tags: [双系统,安装,Ubuntu,22.04,教程]
 comments: true

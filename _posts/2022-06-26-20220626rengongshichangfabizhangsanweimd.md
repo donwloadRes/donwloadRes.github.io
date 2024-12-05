@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工势场法避障（三维）"
+title: "人工势场法避障三维"
 date:   2024-09-04
 tags: [势场,三维,路径,人工,仓库]
 comments: true

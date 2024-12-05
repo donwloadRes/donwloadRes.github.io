@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modelsim SE 10.4a 安装指南"
+title: "Modelsim SE 104a 安装指南"
 date:   2022-08-08
 tags: [安装,Modelsim,SE,10.4,仿真]
 comments: true

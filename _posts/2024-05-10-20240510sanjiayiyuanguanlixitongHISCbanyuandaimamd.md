@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三甲医院管理系统HIS（C#版）源代码"
+title: "三甲医院管理系统HISC版源代码"
 date:   2022-03-25
 tags: [源代码,商业用途,资源,三甲,管理系统]
 comments: true

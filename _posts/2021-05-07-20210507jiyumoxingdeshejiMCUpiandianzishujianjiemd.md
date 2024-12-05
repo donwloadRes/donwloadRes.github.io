@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型的设计——MCU篇 电子书简介"
+title: "基于模型的设计MCU篇 电子书简介"
 date:   2021-09-10
 tags: [MCU,模型,设计,基于,章节]
 comments: true

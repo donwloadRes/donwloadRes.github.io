@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 6.7 快速下载"
+title: "Gradle 67 快速下载"
 date:   2024-03-17
 tags: [Gradle,6.7,Java,下载,构建]
 comments: true

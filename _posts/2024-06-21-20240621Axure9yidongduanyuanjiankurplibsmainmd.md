@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure9 移动端元件库 rplibs-main"
+title: "Axure9 移动端元件库 rplibsmain"
 date:   2024-01-05
 tags: [元件库,原型,Axure9,rplibs,main]
 comments: true

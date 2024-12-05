@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HPC+LSF+LSF管理员手册"
+title: "HPCLSFLSF管理员手册"
 date:   2021-01-23
 tags: [LSF,手册,管理员,HPC,v10]
 comments: true

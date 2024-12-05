@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino NTPClient：连接NTP服务器获取实时网络时间"
+title: "Arduino NTPClient连接NTP服务器获取实时网络时间"
 date:   2021-01-12
 tags: [Arduino,NTPClient,NTP,网络,开发板]
 comments: true

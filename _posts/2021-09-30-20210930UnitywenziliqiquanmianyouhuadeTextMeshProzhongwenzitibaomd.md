@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 文字利器：全面优化的TextMeshPro中文字体包"
+title: "Unity 文字利器全面优化的TextMeshPro中文字体包"
 date:   2022-02-14
 tags: [TextMeshPro,Unity,中文,UI,项目]
 comments: true

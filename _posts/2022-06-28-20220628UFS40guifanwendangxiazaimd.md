@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UFS 4.0 规范文档下载"
+title: "UFS 40 规范文档下载"
 date:   2023-11-17
 tags: [UFS,4.0,文档,规范,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派 OpenCV C++ 实时图像处理教程"
+title: "树莓派 OpenCV C 实时图像处理教程"
 date:   2023-08-07
 tags: [树莓,图像处理,OpenCV,C++,教程]
 comments: true

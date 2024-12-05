@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理（Proakis）第四版"
+title: "数字信号处理Proakis第四版"
 date:   2021-04-24
 tags: [信号处理,数字,Proakis,第四版,学习]
 comments: true

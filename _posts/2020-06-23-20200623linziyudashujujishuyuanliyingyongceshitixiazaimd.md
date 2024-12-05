@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "林子雨大数据技术原理应用》测试题下载"
+title: "林子雨大数据技术原理应用测试题下载"
 date:   2024-02-16
 tags: [测试题,原理,林子,应用,数据]
 comments: true

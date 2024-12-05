@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NXP AUTOSAR_Project-master 资源简介"
+title: "NXP AUTOSARProjectmaster 资源简介"
 date:   2022-07-29
 tags: [AUTOSAR,Project,master,NXP,开发者]
 comments: true

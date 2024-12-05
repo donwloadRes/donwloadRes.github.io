@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32温度湿度采集（AHT20）"
+title: "STM32温度湿度采集AHT20"
 date:   2020-11-18
 tags: [AHT20,温湿度,STM32,I2C,采集]
 comments: true

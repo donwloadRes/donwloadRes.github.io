@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++学校运动会管理系统"
+title: "CC学校运动会管理系统"
 date:   2022-01-02
 tags: [成绩,院系,复核,运动会,项目]
 comments: true

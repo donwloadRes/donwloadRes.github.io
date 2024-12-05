@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB T 8567-2006 计算机软件文档编制规范"
+title: "GB T 85672006 计算机软件文档编制规范"
 date:   2021-08-13
 tags: [文档,计算机软件,编制,2006,GB]
 comments: true

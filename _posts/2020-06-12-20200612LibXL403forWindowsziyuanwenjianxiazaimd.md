@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LibXL 4.0.3 for Windows 资源文件下载"
+title: "LibXL 403 for Windows 资源文件下载"
 date:   2022-08-21
 tags: [Excel,LibXL,Windows,4.0,电子表格]
 comments: true

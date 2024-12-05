@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十六进制(HEX)和浮点类型(float、double)转换工具"
+title: "十六进制HEX和浮点类型floatdouble转换工具"
 date:   2021-02-01
 tags: [转换,十六进制,浮点数,工具,浮点]
 comments: true

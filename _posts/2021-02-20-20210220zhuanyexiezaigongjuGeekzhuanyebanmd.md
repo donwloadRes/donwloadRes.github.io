@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "专业卸载工具(Geek专业版)"
+title: "专业卸载工具Geek专业版"
 date:   2021-01-22
 tags: [卸载,注册表,Geek,专业版,软件]
 comments: true

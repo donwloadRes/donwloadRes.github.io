@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel VBA典型实例大全：高清PDF分卷1"
+title: "Excel VBA典型实例大全高清PDF分卷1"
 date:   2021-04-17
 tags: [Excel,VBA,实例,PDF,光盘]
 comments: true

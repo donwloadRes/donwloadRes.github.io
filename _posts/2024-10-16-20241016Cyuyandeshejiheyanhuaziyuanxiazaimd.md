@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++语言的设计和演化资源下载"
+title: "C语言的设计和演化资源下载"
 date:   2020-08-21
 tags: [C++,语言,设计,演化,下载]
 comments: true

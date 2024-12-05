@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议规范(中文) PDF 下载"
+title: "Modbus协议规范中文 PDF 下载"
 date:   2023-02-18
 tags: [Modbus,PDF,文件,文档,下载]
 comments: true

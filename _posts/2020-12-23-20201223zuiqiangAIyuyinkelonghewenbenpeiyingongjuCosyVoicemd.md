@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最强AI语音克隆和文本配音工具：CosyVoice"
+title: "最强AI语音克隆和文本配音工具CosyVoice"
 date:   2024-08-10
 tags: [语音,CosyVoice,复刻,文本,配音]
 comments: true

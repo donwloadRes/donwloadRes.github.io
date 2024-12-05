@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PS 2024 最新虎标啦，附带AI神经滤镜（支持win-mac）"
+title: "PS 2024 最新虎标啦附带AI神经滤镜支持winmac"
 date:   2020-08-13
 tags: [PS2024,功能,创意,移除,2024]
 comments: true

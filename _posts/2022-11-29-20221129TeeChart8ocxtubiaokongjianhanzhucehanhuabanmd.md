@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TeeChart8.ocx图表控件（含注册）汉化版"
+title: "TeeChart8ocx图表控件含注册汉化版"
 date:   2020-08-12
 tags: [控件,TeeChart8,ocx,图表,汉化版]
 comments: true

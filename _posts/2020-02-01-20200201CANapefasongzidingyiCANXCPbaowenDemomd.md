@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANape 发送自定义 CAN-XCP 报文 Demo"
+title: "CANape 发送自定义 CANXCP 报文 Demo"
 date:   2022-10-29
 tags: [CANape,Demo,报文,自定义,XCP]
 comments: true

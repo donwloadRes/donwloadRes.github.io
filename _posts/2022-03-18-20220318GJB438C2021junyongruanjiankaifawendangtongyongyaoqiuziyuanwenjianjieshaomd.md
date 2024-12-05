@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 438C-2021军用软件开发文档通用要求资源文件介绍"
+title: "GJB 438C2021军用软件开发文档通用要求资源文件介绍"
 date:   2020-12-25
 tags: [文档,软件开发,文件,军用,2021]
 comments: true

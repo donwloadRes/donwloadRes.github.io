@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CEIWEI CommMonitor串口监控11.3"
+title: "CEIWEI CommMonitor串口监控113"
 date:   2023-10-09
 tags: [串行,CEIWEI,CommMonitor,监控,端口]
 comments: true

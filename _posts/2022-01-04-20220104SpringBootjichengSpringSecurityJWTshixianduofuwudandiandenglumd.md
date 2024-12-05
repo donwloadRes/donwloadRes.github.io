@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot集成SpringSecurity+JWT实现多服务单点登录"
+title: "SpringBoot集成SpringSecurityJWT实现多服务单点登录"
 date:   2020-11-27
 tags: [JWT,SpringBoot,SpringSecurity,单点,登录]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端开发利器：wow.js插件实现页面动画效果"
+title: "前端开发利器wowjs插件实现页面动画效果"
 date:   2024-01-20
 tags: [wow,js,动画,css,animate]
 comments: true

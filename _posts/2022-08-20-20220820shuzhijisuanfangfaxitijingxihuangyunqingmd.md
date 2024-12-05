@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值计算方法习题精析（黄云清）"
+title: "数值计算方法习题精析黄云清"
 date:   2023-09-02
 tags: [数值,计算方法,习题,黄云清,MATLAB]
 comments: true

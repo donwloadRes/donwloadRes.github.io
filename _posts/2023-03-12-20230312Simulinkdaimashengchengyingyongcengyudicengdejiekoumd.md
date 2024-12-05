@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simulink代码生成：应用层与底层的接口"
+title: "Simulink代码生成应用层与底层的接口"
 date:   2024-06-08
 tags: [代码生成,应用层,Simulink,接口,底层]
 comments: true

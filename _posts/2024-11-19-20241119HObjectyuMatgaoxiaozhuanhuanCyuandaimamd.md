@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HObject与Mat高效转换C++源代码"
+title: "HObject与Mat高效转换C源代码"
 date:   2023-02-21
 tags: [Halcon,OpenCV,HObject,Mat,源代码]
 comments: true

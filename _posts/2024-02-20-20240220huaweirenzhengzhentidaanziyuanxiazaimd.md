@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为认证真题(答案) 资源下载"
+title: "华为认证真题答案 资源下载"
 date:   2024-02-12
 tags: [真题,华为,认证,资源,答案]
 comments: true

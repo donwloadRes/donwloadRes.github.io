@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VCU整套开发源码+PCB原理图+说明书"
+title: "VCU整套开发源码PCB原理图说明书"
 date:   2022-01-07
 tags: [VCU,源码,原理图,开发,硬件]
 comments: true

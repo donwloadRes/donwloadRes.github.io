@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS信号完整性分析与仿真实例[扫描版PDF电子书]"
+title: "ANSYS信号完整性分析与仿真实例扫描版PDF电子书"
 date:   2024-04-20
 tags: [PDF,完整性,ANSYS,信号,仿真]
 comments: true

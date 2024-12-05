@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Cube的STM32F407 UART串口任意数据长度接收例程（带帧解析）"
+title: "基于Cube的STM32F407 UART串口任意数据长度接收例程带帧解析"
 date:   2021-03-31
 tags: [串口,接收,解析,STM32F407,例程]
 comments: true

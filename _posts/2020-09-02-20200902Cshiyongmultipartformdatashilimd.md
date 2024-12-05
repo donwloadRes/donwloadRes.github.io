@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用multipart-form-data示例"
+title: "C使用multipartformdata示例"
 date:   2024-06-17
 tags: [data,form,示例,multipart,new]
 comments: true

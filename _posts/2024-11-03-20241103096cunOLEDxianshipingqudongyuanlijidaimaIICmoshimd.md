@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸OLED显示屏驱动原理及代码（IIC模式）"
+title: "096寸OLED显示屏驱动原理及代码IIC模式"
 date:   2024-11-08
 tags: [IIC,显示屏,OLED,代码,驱动]
 comments: true

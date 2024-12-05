@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "项目驱动 CAN-bus现场总线基础教程"
+title: "项目驱动 CANbus现场总线基础教程"
 date:   2022-01-04
 tags: [bus,总线,学习,教程,基础教程]
 comments: true

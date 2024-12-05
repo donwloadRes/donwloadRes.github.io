@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ QT 多窗体切换与页面显示"
+title: "C QT 多窗体切换与页面显示"
 date:   2020-10-04
 tags: [QT,窗体,页面,切换,示例]
 comments: true

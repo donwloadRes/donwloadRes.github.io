@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 深度学习环境配置教程"
+title: "Ubuntu 2004 深度学习环境配置教程"
 date:   2023-08-24
 tags: [安装,Ubuntu,教程,20.04,下载]
 comments: true

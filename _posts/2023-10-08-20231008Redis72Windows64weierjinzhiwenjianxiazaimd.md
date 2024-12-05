@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 7.2 Windows 64位二进制文件下载"
+title: "Redis 72 Windows 64位二进制文件下载"
 date:   2021-02-16
 tags: [Redis,7.2,文件,Windows,redis]
 comments: true

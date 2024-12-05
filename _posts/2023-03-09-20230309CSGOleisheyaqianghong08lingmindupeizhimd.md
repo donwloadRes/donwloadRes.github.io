@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS:GO 雷蛇压枪宏 - 0.8灵敏度配置"
+title: "CSGO 雷蛇压枪宏  08灵敏度配置"
 date:   2021-08-21
 tags: [雷蛇,灵敏度,0.8,鼠标,配置]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT SecureFX 7.0.0.326 中文版 - 免安装解压即用"
+title: "SecureCRT SecureFX 700326 中文版  免安装解压即用"
 date:   2024-06-20
 tags: [解压,文件,0.326,SecureCRT,SecureFX]
 comments: true

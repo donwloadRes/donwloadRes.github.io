@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe Spec中文版 - PCIe系统体系结构导读"
+title: "PCIe Spec中文版  PCIe系统体系结构导读"
 date:   2022-01-25
 tags: [PCIe,中文版,计算机硬件,体系结构,系统]
 comments: true

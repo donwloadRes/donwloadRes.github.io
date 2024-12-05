@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "牛客大数据面试题集锦+答案 V3.0"
+title: "牛客大数据面试题集锦答案 V30"
 date:   2020-08-15
 tags: [面试题,面试,这份,牛客,数据]
 comments: true

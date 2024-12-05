@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用PyCharm配置ChatGPT插件，让AI帮你写代码"
+title: "用PyCharm配置ChatGPT插件让AI帮你写代码"
 date:   2023-05-23
 tags: [插件,PyCharm,ChatGPT,AI,配置]
 comments: true

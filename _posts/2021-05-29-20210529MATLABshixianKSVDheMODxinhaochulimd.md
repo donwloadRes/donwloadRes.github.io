@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现K-SVD和MOD信号处理"
+title: "MATLAB实现KSVD和MOD信号处理"
 date:   2022-06-20
 tags: [字典,算法,MATLAB,SVD,MOD]
 comments: true

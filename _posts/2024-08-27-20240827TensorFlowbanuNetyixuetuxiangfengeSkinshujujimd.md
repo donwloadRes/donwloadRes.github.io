@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow版uNet医学图像分割(Skin数据集)"
+title: "TensorFlow版uNet医学图像分割Skin数据集"
 date:   2023-04-28
 tags: [模型,uNet,分割,Skin,图像]
 comments: true

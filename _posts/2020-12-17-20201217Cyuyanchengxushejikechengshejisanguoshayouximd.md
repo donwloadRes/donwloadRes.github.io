@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言程序设计课程设计——三国杀游戏"
+title: "C语言程序设计课程设计三国杀游戏"
 date:   2023-11-19
 tags: [游戏,模块,课程设计,界面,C语言]
 comments: true

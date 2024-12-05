@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XtremeToolkitProForVC 15.3.1 支持 VS2019 资源文件下载"
+title: "XtremeToolkitProForVC 1531 支持 VS2019 资源文件下载"
 date:   2022-12-15
 tags: [XtremeToolkitProForVC,15.3,文件,文件夹,VS2019]
 comments: true

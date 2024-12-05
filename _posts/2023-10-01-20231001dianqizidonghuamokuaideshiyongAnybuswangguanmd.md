@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电气自动化_模块的使用_Anybus网关"
+title: "电气自动化模块的使用Anybus网关"
 date:   2023-05-31
 tags: [模块,Anybus,网关,文件,连接]
 comments: true

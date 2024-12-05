@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入解析Windows操作系统 卷1(英文版·第7版) 上册高清完整版"
+title: "深入解析Windows操作系统 卷1英文版第7版 上册高清完整版"
 date:   2022-01-20
 tags: [Windows,操作系统,英文版,完整版,PDF]
 comments: true

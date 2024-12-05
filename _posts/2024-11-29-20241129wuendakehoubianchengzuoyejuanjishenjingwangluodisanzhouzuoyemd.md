@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达课后编程作业：卷积神经网络 - 第三周作业"
+title: "吴恩达课后编程作业卷积神经网络  第三周作业"
 date:   2024-11-02
 tags: [YOLO,算法,作业,卷积,神经网络]
 comments: true

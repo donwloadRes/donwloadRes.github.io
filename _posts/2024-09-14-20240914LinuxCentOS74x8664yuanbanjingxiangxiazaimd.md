@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux CentOS-7.4-x86_64 原版镜像下载"
+title: "Linux CentOS74x8664 原版镜像下载"
 date:   2023-01-13
 tags: [镜像文件,CentOS,x86,64,ISO]
 comments: true

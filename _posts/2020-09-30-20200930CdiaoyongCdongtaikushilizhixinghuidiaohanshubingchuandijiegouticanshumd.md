@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用C++动态库示例：执行回调函数并传递结构体参数"
+title: "C调用C动态库示例执行回调函数并传递结构体参数"
 date:   2023-01-06
 tags: [C#,C++,示例,调用,动态]
 comments: true

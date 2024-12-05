@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 下载与安装教程（超详细）"
+title: "Maven 下载与安装教程超详细"
 date:   2021-11-05
 tags: [Maven,安装,下载,仓库,配置]
 comments: true

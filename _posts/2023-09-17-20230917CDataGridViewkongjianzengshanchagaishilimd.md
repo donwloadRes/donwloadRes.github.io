@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# DataGridView控件增删查改实例"
+title: "C DataGridView控件增删查改实例"
 date:   2022-09-28
 tags: [DataGridView,控件,C#,查改,数据]
 comments: true

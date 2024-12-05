@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW与PLC-OPC通信指南"
+title: "LabVIEW与PLCOPC通信指南"
 date:   2020-11-18
 tags: [OPC,PLC,Server,LabVIEW,通信]
 comments: true

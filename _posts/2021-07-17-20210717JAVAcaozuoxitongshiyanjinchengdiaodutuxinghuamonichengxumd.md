@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA操作系统实验：进程调度图形化模拟程序"
+title: "JAVA操作系统实验进程调度图形化模拟程序"
 date:   2021-08-13
 tags: [调度,算法,图形化,JAVA,界面]
 comments: true

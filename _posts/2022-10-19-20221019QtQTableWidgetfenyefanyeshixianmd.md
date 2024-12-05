@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt QTableWidget分页、翻页实现"
+title: "Qt QTableWidget分页翻页实现"
 date:   2023-12-30
 tags: [翻页,QTableWidget,分页,跳转,一页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "喜马拉雅语音下载工具（mediadown）"
+title: "喜马拉雅语音下载工具mediadown"
 date:   2021-06-28
 tags: [下载,音频,喜马拉雅,解压,下载工具]
 comments: true

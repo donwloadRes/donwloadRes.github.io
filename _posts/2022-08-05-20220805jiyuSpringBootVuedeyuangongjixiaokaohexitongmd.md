@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的员工绩效考核系统"
+title: "基于SpringBootVue的员工绩效考核系统"
 date:   2021-03-17
 tags: [SpringBoot,Vue,员工,管理,绩效考核]
 comments: true

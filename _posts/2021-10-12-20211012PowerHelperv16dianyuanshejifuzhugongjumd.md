@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerHelper v1.6 电源设计辅助工具"
+title: "PowerHelper v16 电源设计辅助工具"
 date:   2022-03-04
 tags: [电阻,v1.6,PowerHelper,精度,辅助工具]
 comments: true

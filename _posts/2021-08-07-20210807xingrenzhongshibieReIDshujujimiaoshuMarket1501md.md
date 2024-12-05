@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "行人重识别(ReID) ——数据集描述 Market-1501"
+title: "行人重识别ReID 数据集描述 Market1501"
 date:   2023-08-26
 tags: [行人,1501,图像,Market,摄像头]
 comments: true

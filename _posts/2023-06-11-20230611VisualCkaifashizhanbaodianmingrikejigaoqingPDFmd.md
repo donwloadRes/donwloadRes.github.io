@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual C++开发实战宝典 明日科技 高清PDF"
+title: "Visual C开发实战宝典 明日科技 高清PDF"
 date:   2022-08-18
 tags: [Visual,C++,PDF,开发,实战]
 comments: true

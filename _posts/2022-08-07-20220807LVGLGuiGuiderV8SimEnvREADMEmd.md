@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVGL-GuiGuider-V8-SimEnv README"
+title: "LVGLGuiGuiderV8SimEnv README"
 date:   2021-08-26
 tags: [LVGL,V8,图形界面,GuiGuider,SimEnv]
 comments: true

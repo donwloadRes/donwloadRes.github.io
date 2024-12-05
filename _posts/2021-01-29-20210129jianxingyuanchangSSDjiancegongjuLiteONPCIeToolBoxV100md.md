@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "建兴原厂 SSD 检测工具（LiteON PCIe Tool Box）V1.00"
+title: "建兴原厂 SSD 检测工具LiteON PCIe Tool BoxV100"
 date:   2024-03-16
 tags: [SSD,建兴,LiteON,检测工具,硬盘]
 comments: true

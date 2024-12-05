@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出WPF-刘铁猛-MVVM视频源代码"
+title: "深入浅出WPF刘铁猛MVVM视频源代码"
 date:   2024-06-07
 tags: [MVVM,WPF,源代码,视频,刘铁猛]
 comments: true

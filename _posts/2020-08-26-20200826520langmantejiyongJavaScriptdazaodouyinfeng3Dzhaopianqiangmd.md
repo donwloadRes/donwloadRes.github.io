@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "520浪漫特辑：用JavaScript打造抖音风3D照片墙"
+title: "520浪漫特辑用JavaScript打造抖音风3D照片墙"
 date:   2021-06-26
 tags: [照片,3D,js,520,JavaScript]
 comments: true

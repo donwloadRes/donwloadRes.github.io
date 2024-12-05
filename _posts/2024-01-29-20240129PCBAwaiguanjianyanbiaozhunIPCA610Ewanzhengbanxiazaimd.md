@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCBA外观检验标准（IPC-A-610E完整版）下载"
+title: "PCBA外观检验标准IPCA610E完整版下载"
 date:   2022-08-08
 tags: [PCBA,检验,外观,IPC,610E]
 comments: true

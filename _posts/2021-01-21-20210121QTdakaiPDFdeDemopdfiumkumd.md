@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT打开PDF的Demo(pdfium库)"
+title: "QT打开PDF的Demopdfium库"
 date:   2024-08-14
 tags: [PDF,QT,PDFium,Demo,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康摄像机快速设置工具（ISAPI工具）使用说明"
+title: "海康摄像机快速设置工具ISAPI工具使用说明"
 date:   2020-11-06
 tags: [摄像机,工具,海康,批量,ISAPI]
 comments: true

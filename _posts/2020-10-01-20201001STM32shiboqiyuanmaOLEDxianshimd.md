@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32示波器源码 - OLED显示"
+title: "STM32示波器源码  OLED显示"
 date:   2022-03-26
 tags: [STM32,OLED,示波器,源码,波形]
 comments: true

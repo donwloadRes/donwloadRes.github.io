@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC62061标准解读（中文）"
+title: "IEC62061标准解读中文"
 date:   2020-01-05
 tags: [安全,标准,中文,IEC62061,IEC]
 comments: true

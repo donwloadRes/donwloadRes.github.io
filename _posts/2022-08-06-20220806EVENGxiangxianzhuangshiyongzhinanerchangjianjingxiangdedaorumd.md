@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVE-NG详细安装使用指南（二）—— 常见镜像的导入"
+title: "EVENG详细安装使用指南二 常见镜像的导入"
 date:   2021-12-22
 tags: [镜像,EVE,NG,导入,opt]
 comments: true

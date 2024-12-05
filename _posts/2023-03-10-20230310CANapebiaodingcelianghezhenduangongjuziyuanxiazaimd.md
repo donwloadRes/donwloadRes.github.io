@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANape 标定、测量和诊断工具资源下载"
+title: "CANape 标定测量和诊断工具资源下载"
 date:   2021-01-22
 tags: [CANape,标定,文件,诊断,工具]
 comments: true

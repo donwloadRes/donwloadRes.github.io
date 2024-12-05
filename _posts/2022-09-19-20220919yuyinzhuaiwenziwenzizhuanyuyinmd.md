@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "语音转文字+文字转语音"
+title: "语音转文字文字转语音"
 date:   2023-12-27
 tags: [语音,SDK,Speech,项目,文字]
 comments: true

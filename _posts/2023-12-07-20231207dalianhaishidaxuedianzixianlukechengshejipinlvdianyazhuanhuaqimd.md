@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大连海事大学电子线路课程设计：频率电压转化器"
+title: "大连海事大学电子线路课程设计频率电压转化器"
 date:   2022-11-09
 tags: [仿真,LM331,LM324,Multisim,原理图]
 comments: true

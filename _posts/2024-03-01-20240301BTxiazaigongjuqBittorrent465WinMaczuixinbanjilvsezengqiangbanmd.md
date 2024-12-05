@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BT下载工具 qBittorrent 4.6.5 Win&Mac 最新版及绿色增强版"
+title: "BT下载工具 qBittorrent 465 WinMac 最新版及绿色增强版"
 date:   2024-01-25
 tags: [增强版,BT,qBittorrent,IP,下载工具]
 comments: true

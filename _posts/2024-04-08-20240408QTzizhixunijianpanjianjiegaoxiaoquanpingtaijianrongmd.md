@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT自制虚拟键盘 - 简洁高效，全平台兼容"
+title: "QT自制虚拟键盘  简洁高效全平台兼容"
 date:   2022-10-25
 tags: [键盘,QT,输入,虚拟,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java设计模式：刘伟超清晰版本下载指南"
+title: "Java设计模式刘伟超清晰版本下载指南"
 date:   2024-08-15
 tags: [模式,设计模式,Java,书籍,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELPHI远程控制源码（亲测可用）"
+title: "DELPHI远程控制源码亲测可用"
 date:   2023-03-23
 tags: [源码,控件,DELPHI,例程,编译]
 comments: true

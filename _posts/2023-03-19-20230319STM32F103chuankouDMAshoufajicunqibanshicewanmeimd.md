@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103串口DMA收发寄存器版（实测完美）"
+title: "STM32F103串口DMA收发寄存器版实测完美"
 date:   2021-04-21
 tags: [DMA,串口,STM32F103,寄存器,收发]
 comments: true

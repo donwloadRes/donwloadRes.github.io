@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZEMAX激光光学成像设计实例与应用——案例汇编"
+title: "ZEMAX激光光学成像设计实例与应用案例汇编"
 date:   2021-08-14
 tags: [案例,ZEMAX,设计,光学,成像]
 comments: true

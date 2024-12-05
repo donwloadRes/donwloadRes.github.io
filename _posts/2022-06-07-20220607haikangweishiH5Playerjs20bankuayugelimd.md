@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视H5Player.js 2.0版 - 跨域隔离"
+title: "海康威视H5Playerjs 20版  跨域隔离"
 date:   2024-04-14
 tags: [跨域,js,视频,威视,H5Player]
 comments: true

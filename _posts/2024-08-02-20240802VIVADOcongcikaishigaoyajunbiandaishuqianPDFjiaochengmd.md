@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VIVADO 从此开始 - 高亚军编 带书签PDF教程"
+title: "VIVADO 从此开始  高亚军编 带书签PDF教程"
 date:   2022-03-04
 tags: [书签,PDF,Vivado,VIVADO,FPGA]
 comments: true

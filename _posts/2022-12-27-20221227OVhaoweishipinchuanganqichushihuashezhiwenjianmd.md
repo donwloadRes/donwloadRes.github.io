@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OV(豪威)视频传感器初始化设置文件"
+title: "OV豪威视频传感器初始化设置文件"
 date:   2023-08-05
 tags: [初始化,传感器,文件,OV,设置]
 comments: true

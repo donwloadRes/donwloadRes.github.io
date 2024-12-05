@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车用以太网物理层技术规范-IEEE802.3bw-2015"
+title: "车用以太网物理层技术规范IEEE8023bw2015"
 date:   2024-04-09
 tags: [以太网,技术规范,车用,文档,物理层]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MicroPython中文教程（嵌入式详细教程）"
+title: "MicroPython中文教程嵌入式详细教程"
 date:   2023-01-15
 tags: [教程,MicroPython,嵌入式,例程,硬件平台]
 comments: true

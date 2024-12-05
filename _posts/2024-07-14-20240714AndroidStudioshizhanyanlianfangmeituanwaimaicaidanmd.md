@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 实战演练 - 仿美团外卖菜单"
+title: "Android Studio 实战演练  仿美团外卖菜单"
 date:   2023-01-26
 tags: [Android,外卖,Studio,菜单,项目]
 comments: true

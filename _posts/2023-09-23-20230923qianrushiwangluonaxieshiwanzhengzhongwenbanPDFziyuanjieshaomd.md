@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式网络那些事(完整中文版) PDF资源介绍"
+title: "嵌入式网络那些事完整中文版 PDF资源介绍"
 date:   2023-12-31
 tags: [嵌入式,LWIP,网络,PDF,TCP]
 comments: true

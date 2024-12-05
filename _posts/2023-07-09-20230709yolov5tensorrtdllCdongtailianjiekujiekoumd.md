@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5_tensorrt_dll：C++动态链接库接口"
+title: "yolov5tensorrtdllC动态链接库接口"
 date:   2024-05-10
 tags: [int,yolov5,tensorrt,dll,TensorRT]
 comments: true

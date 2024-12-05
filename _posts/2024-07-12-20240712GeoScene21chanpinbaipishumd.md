@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoScene 2.1 产品白皮书"
+title: "GeoScene 21 产品白皮书"
 date:   2021-04-06
 tags: [GeoScene,白皮书,GIS,平台,2.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NISP一级PDF题库 - 全国大学生网络安全精英赛（1-20题）"
+title: "NISP一级PDF题库  全国大学生网络安全精英赛120题"
 date:   2021-01-07
 tags: [题库,NISP,网络安全,精英赛,20]
 comments: true

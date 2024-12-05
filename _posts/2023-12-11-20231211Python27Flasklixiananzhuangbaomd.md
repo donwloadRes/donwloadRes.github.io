@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 2.7 Flask 离线安装包"
+title: "Python 27 Flask 离线安装包"
 date:   2024-04-23
 tags: [安装包,离线,Python,2.7,Flask]
 comments: true

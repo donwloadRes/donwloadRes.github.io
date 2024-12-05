@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DotNetty系列六：将服务端和客户端改为Winform窗口 项目源码"
+title: "DotNetty系列六将服务端和客户端改为Winform窗口 项目源码"
 date:   2023-04-20
 tags: [DotNetty,客户端,服务端,源码,Winform]
 comments: true

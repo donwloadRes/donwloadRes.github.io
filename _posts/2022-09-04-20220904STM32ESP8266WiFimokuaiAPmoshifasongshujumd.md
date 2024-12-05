@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32-ESP8266 WiFi模块（AP模式发送数据）"
+title: "STM32ESP8266 WiFi模块AP模式发送数据"
 date:   2021-07-16
 tags: [ESP8266,WiFi,模块,AP,测试软件]
 comments: true

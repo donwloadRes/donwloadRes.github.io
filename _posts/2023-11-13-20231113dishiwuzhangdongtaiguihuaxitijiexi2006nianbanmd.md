@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第十五章动态规划习题解析（2006年版）"
+title: "第十五章动态规划习题解析2006年版"
 date:   2023-10-19
 tags: [元组,动态,背包,递归,习题]
 comments: true

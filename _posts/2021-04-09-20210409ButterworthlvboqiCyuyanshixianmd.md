@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Butterworth滤波器（C语言实现）"
+title: "Butterworth滤波器C语言实现"
 date:   2023-02-17
 tags: [滤波器,Butterworth,C语言,VC6.0,源代码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireless Communication 无线通信第二版 - 研究无线通信的必备指南"
+title: "Wireless Communication 无线通信第二版  研究无线通信的必备指南"
 date:   2022-08-21
 tags: [无线通信,学习,本书,Wireless,Communication]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NGSOC-360态势感知与安全运营平台产品技术白皮书"
+title: "NGSOC360态势感知与安全运营平台产品技术白皮书"
 date:   2024-09-05
 tags: [白皮书,NGSOC,360,安全,感知]
 comments: true

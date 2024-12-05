@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT串口软件（实现串口收发和QChart折线图的定时器调试）"
+title: "QT串口软件实现串口收发和QChart折线图的定时器调试"
 date:   2023-10-15
 tags: [串口,折线图,定时器,数据,QChart]
 comments: true

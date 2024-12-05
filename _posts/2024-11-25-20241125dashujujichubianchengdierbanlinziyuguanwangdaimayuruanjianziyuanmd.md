@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大数据基础编程第二版（林子雨）官网代码与软件资源"
+title: "大数据基础编程第二版林子雨官网代码与软件资源"
 date:   2021-04-25
 tags: [代码,教材,实验,your,编程]
 comments: true

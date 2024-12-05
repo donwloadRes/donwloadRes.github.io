@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch框架实战——102类花卉分类"
+title: "Pytorch框架实战102类花卉分类"
 date:   2024-07-18
 tags: [花卉,模型,102,Pytorch,分类]
 comments: true

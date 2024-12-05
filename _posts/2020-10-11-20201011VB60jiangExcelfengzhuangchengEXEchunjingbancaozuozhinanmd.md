@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 将Excel封装成EXE纯净版操作指南"
+title: "VB60 将Excel封装成EXE纯净版操作指南"
 date:   2021-09-21
 tags: [Excel,VB6.0,EXE,封装,指南]
 comments: true

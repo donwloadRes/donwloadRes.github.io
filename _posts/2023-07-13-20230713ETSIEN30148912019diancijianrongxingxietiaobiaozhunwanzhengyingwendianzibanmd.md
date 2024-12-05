@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETSI EN 301 489-1：2019 电磁兼容性协调标准 - 完整英文电子版"
+title: "ETSI EN 301 48912019 电磁兼容性协调标准  完整英文电子版"
 date:   2020-09-10
 tags: [电磁兼容,文档,设备,ETSI,EN]
 comments: true

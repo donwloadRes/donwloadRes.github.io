@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoaXPress最新版协议（CXP-001-2021.pdf）"
+title: "CoaXPress最新版协议CXP0012021pdf"
 date:   2021-08-01
 tags: [CoaXPress,文档,CXP,001,2021]
 comments: true

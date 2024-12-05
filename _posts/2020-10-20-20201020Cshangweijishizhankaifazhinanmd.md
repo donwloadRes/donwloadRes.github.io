@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机实战开发指南"
+title: "C上位机实战开发指南"
 date:   2023-12-12
 tags: [上位,指南,C#,开发,实战]
 comments: true

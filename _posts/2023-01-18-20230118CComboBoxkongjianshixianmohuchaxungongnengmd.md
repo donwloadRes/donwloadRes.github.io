@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# ComboBox控件实现模糊查询功能"
+title: "C ComboBox控件实现模糊查询功能"
 date:   2020-09-12
 tags: [控件,ComboBox,模糊,查询,C#]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "你必须知道的495个C语言问题》资源文件下载仓库"
+title: "你必须知道的495个C语言问题资源文件下载仓库"
 date:   2023-06-28
 tags: [C语言,指针,数组,问题,函数]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective C++ 第三版高清英文原版下载"
+title: "Effective C 第三版高清英文原版下载"
 date:   2023-12-08
 tags: [Effective,C++,第三版,文件,书签]
 comments: true

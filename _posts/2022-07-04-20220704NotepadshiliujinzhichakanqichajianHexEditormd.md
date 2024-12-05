@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 十六进制查看器插件——HexEditor"
+title: "Notepad 十六进制查看器插件HexEditor"
 date:   2020-01-10
 tags: [插件,HexEditor,Notepad,++,十六进制]
 comments: true

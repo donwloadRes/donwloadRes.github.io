@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSql+PostGis创建空间数据库资源下载"
+title: "PostgreSqlPostGis创建空间数据库资源下载"
 date:   2021-10-09
 tags: [数据库,PostgreSql,PostGis,创建,空间数据]
 comments: true

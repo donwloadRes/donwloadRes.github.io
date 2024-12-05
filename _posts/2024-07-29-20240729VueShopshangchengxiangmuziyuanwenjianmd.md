@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue-Shop商城项目资源文件"
+title: "VueShop商城项目资源文件"
 date:   2024-03-27
 tags: [页面,Vue,商城,项目,Shop]
 comments: true

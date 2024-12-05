@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VL102+VL817+PS176 威锋电子PD+DP解决方案资源库"
+title: "VL102VL817PS176 威锋电子PDDP解决方案资源库"
 date:   2023-06-03
 tags: [威锋,USB,芯片,资源库,VL102]
 comments: true

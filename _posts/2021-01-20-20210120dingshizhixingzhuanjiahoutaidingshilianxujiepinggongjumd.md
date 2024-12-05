@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "定时执行专家 - 后台定时连续截屏工具"
+title: "定时执行专家  后台定时连续截屏工具"
 date:   2023-11-21
 tags: [截屏,定时,软件,电脑,自动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Citypersons数据集转VOC标准格式（YOLO 目标检测txt格式）"
+title: "Citypersons数据集转VOC标准格式YOLO 目标检测txt格式"
 date:   2021-12-21
 tags: [Citypersons,转换,格式,VOC,YOLO]
 comments: true

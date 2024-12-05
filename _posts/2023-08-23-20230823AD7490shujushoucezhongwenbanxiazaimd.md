@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD7490数据手册（中文版）下载"
+title: "AD7490数据手册中文版下载"
 date:   2023-12-12
 tags: [AD7490,手册,中文版,PDF,下载]
 comments: true

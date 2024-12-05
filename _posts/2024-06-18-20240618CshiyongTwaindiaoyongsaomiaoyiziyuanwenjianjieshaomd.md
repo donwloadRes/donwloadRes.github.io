@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 Twain 调用扫描仪资源文件介绍"
+title: "C 使用 Twain 调用扫描仪资源文件介绍"
 date:   2022-01-08
 tags: [扫描仪,Twain,示例,C#,Visual]
 comments: true

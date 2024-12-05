@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PhotoShop DR5+磨皮插件：专业美颜工具"
+title: "PhotoShop DR5磨皮插件专业美颜工具"
 date:   2020-10-29
 tags: [插件,美颜,工具,磨皮,平滑]
 comments: true

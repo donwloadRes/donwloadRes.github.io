@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "日常生活小技巧 -- 虚拟串口工具"
+title: "日常生活小技巧  虚拟串口工具"
 date:   2020-08-12
 tags: [串口,虚拟,工具,端口,数据通信]
 comments: true

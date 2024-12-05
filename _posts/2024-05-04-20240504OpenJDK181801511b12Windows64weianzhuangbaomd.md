@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenJDK 1.8 (1.8.0.151-1.b12) Windows 64位安装包"
+title: "OpenJDK 18 1801511b12 Windows 64位安装包"
 date:   2022-12-20
 tags: [OpenJDK,Java,1.8,Windows,安装]
 comments: true

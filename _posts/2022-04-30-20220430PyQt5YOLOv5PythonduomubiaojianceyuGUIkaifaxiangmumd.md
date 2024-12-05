@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5 + YOLOv5 + Python 多目标检测与GUI开发项目"
+title: "PyQt5  YOLOv5  Python 多目标检测与GUI开发项目"
 date:   2021-03-11
 tags: [PyQt5,YOLOv5,项目,算法,GUI]
 comments: true

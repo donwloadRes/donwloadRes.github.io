@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "双线性插值FPGA实现 - Verilog代码"
+title: "双线性插值FPGA实现  Verilog代码"
 date:   2021-02-23
 tags: [FPGA,线性插值,代码,Verilog,仓库]
 comments: true

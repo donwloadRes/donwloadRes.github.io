@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IOS自定义弹框公告+时间锁+跳转官网+锁库名+证书到期日期 动态库（dylib）"
+title: "IOS自定义弹框公告时间锁跳转官网锁库名证书到期日期 动态库dylib"
 date:   2023-08-18
 tags: [弹框,team,官网,添加,自定义]
 comments: true

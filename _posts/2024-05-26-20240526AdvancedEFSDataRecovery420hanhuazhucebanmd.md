@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advanced EFS Data Recovery 4.20 汉化注册版"
+title: "Advanced EFS Data Recovery 420 汉化注册版"
 date:   2023-11-07
 tags: [EFS,加密,汉化,文件,使用]
 comments: true

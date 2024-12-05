@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11ax 协议原文PDF文档"
+title: "IEEE 80211ax 协议原文PDF文档"
 date:   2021-05-10
 tags: [ax,PDF,文档,IEEE,802.11]
 comments: true

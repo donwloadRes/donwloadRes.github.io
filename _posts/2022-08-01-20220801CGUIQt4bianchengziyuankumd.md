@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ GUI Qt 4 编程资源库"
+title: "C GUI Qt 4 编程资源库"
 date:   2021-12-08
 tags: [源码,Qt,PDF,编程,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7000+ 条酒店评论数据集"
+title: "7000 条酒店评论数据集"
 date:   2024-10-30
 tags: [评论,数据,7000,酒店,解压]
 comments: true

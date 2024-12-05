@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LabVIEW的2048小游戏（附详细教程+代码）"
+title: "基于LabVIEW的2048小游戏附详细教程代码"
 date:   2023-02-04
 tags: [LabVIEW,2048,游戏,教程,代码]
 comments: true

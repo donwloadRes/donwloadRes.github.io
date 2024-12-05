@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBeaver 数据库可视化工具安装教程（图文详解）"
+title: "DBeaver 数据库可视化工具安装教程图文详解"
 date:   2023-11-13
 tags: [DBeaver,jar,安装,数据库,激活]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "可靠性预计标准 SR-332 中英文版"
+title: "可靠性预计标准 SR332 中英文版"
 date:   2022-04-29
 tags: [可靠性,预计,SR,332,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MBD开发与Simulink-Stateflow建模资源"
+title: "MBD开发与SimulinkStateflow建模资源"
 date:   2021-08-26
 tags: [Simulink,模型,Stateflow,代码生成,MBD]
 comments: true

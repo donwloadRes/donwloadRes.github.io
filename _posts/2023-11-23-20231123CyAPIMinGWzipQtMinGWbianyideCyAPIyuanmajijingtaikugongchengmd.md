@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CyAPIMinGW.zip - Qt MinGW编译的CyAPI源码及静态库工程"
+title: "CyAPIMinGWzip  Qt MinGW编译的CyAPI源码及静态库工程"
 date:   2023-01-17
 tags: [编译,Qt,CyAPI,MinGW,静态]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity VR 开发教程：OpenXR + XR Interaction Toolkit 手部动画资源包"
+title: "Unity VR 开发教程OpenXR  XR Interaction Toolkit 手部动画资源包"
 date:   2020-06-04
 tags: [手部,动画,XR,资源,Unity]
 comments: true

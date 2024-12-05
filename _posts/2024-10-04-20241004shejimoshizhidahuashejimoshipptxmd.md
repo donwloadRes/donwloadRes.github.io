@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "设计模式之大话设计模式》.pptx"
+title: "设计模式之大话设计模式pptx"
 date:   2020-03-08
 tags: [设计模式,大话,pptx,分享,学习]
 comments: true

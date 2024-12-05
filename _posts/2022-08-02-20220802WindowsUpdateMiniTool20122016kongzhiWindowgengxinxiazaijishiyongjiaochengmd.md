@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Update MiniTool 20.12.2016 控制Window更新下载及使用教程"
+title: "Windows Update MiniTool 20122016 控制Window更新下载及使用教程"
 date:   2021-01-14
 tags: [更新,Windows,下载,自动更新,Update]
 comments: true

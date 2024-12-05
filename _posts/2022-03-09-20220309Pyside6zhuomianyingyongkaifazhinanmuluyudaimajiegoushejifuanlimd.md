@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pyside6桌面应用开发指南：目录与代码结构设计（附案例）"
+title: "Pyside6桌面应用开发指南目录与代码结构设计附案例"
 date:   2024-04-01
 tags: [Pyside6,代码,桌面,目录,应用]
 comments: true

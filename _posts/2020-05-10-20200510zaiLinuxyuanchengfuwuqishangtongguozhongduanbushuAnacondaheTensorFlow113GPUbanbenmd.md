@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Linux远程服务器上通过终端部署Anaconda和TensorFlow 1.13 GPU版本"
+title: "在Linux远程服务器上通过终端部署Anaconda和TensorFlow 113 GPU版本"
 date:   2020-05-06
 tags: [Anaconda,TensorFlow,GPU,1.13,安装]
 comments: true

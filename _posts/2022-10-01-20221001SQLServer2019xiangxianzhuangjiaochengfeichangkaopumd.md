@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2019详细安装教程（非常靠谱）"
+title: "SQL Server 2019详细安装教程非常靠谱"
 date:   2024-07-22
 tags: [SQL,Server,2019,安装,教程]
 comments: true

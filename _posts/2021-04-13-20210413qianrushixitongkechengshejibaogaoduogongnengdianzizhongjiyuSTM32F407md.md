@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式系统课程设计报告：多功能电子钟基于STM32F407"
+title: "嵌入式系统课程设计报告多功能电子钟基于STM32F407"
 date:   2022-07-26
 tags: [电子钟,嵌入式,STM32F4,LCD,RTC]
 comments: true

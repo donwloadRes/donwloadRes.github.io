@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXi 6.7 安装教程"
+title: "ESXi 67 安装教程"
 date:   2023-04-20
 tags: [ESXi,6.7,安装,教程,VMware]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB灵敏度分析代码讲解 - REDIM对梯度估计的敏感性分析"
+title: "MATLAB灵敏度分析代码讲解  REDIM对梯度估计的敏感性分析"
 date:   2024-04-28
 tags: [REDIM,代码,梯度,文件夹,敏感性]
 comments: true

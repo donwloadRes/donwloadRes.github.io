@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文翻译 Introduction to Linear Algebra, 5th Edition 1.1节"
+title: "中文翻译 Introduction to Linear Algebra 5th Edition 11节"
 date:   2022-12-04
 tags: [向量,线性代数,中文翻译,1.1,cv]
 comments: true

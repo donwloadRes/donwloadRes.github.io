@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos 2.3.1 Windows 版本下载"
+title: "Nacos 231 Windows 版本下载"
 date:   2024-04-14
 tags: [Nacos,2.3,Windows,下载,版本]
 comments: true

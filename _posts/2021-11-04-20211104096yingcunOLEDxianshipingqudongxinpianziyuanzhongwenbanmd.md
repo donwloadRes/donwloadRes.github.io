@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96 英寸 OLED 显示屏驱动芯片资源（中文版）"
+title: "096 英寸 OLED 显示屏驱动芯片资源中文版"
 date:   2021-10-13
 tags: [芯片,0.96,OLED,显示屏,手册]
 comments: true

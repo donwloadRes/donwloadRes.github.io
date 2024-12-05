@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2021.2版本与VCS-Verdi 2018版本联合仿真资源文件介绍"
+title: "Vivado 20212版本与VCSVerdi 2018版本联合仿真资源文件介绍"
 date:   2022-04-19
 tags: [Vivado,仿真,VCS,版本,2021.2]
 comments: true

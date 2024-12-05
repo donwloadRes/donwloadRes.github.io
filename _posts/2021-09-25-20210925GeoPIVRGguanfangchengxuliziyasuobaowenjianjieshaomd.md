@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoPIV-RG官方程序例子压缩包文件介绍"
+title: "GeoPIVRG官方程序例子压缩包文件介绍"
 date:   2024-04-02
 tags: [示例,GeoPIV,RG,压缩包,程序]
 comments: true

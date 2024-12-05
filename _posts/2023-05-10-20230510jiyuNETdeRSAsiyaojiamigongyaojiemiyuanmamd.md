@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于.NET的RSA私钥加密 公钥解密源码"
+title: "基于NET的RSA私钥加密 公钥解密源码"
 date:   2023-11-05
 tags: [RSA,加密,解密,源码,NET]
 comments: true

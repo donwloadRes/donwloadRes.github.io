@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RSCAD使用手册 - 中文版"
+title: "RSCAD使用手册  中文版"
 date:   2021-12-19
 tags: [RSCAD,使用手册,中文版,本手册,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数电课设-走廊声光控延时节能灯电路设计"
+title: "数电课设走廊声光控延时节能灯电路设计"
 date:   2022-01-27
 tags: [电路设计,仿真,Multisim,延时,声音]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis Desktop Manager 0.9.3.817 免费版下载"
+title: "Redis Desktop Manager 093817 免费版下载"
 date:   2020-12-28
 tags: [Redis,版本,Desktop,Manager,3.817]
 comments: true

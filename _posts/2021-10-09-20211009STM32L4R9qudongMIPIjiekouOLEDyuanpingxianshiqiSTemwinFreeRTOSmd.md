@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32L4R9驱动MIPI接口OLED圆屏显示器+STemwin-FreeRTOS"
+title: "STM32L4R9驱动MIPI接口OLED圆屏显示器STemwinFreeRTOS"
 date:   2024-09-15
 tags: [STemwin,FreeRTOS,demo,STM32L4R9,OLED]
 comments: true

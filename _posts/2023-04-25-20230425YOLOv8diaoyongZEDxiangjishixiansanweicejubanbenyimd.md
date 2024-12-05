@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8 调用 ZED 相机实现三维测距（版本一）"
+title: "YOLOv8 调用 ZED 相机实现三维测距版本一"
 date:   2023-01-29
 tags: [ZED,YOLOv8,相机,三维,测距]
 comments: true

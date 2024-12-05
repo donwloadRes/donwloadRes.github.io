@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Loadrunner 最新版 12.6 安装包下载"
+title: "Loadrunner 最新版 126 安装包下载"
 date:   2022-12-30
 tags: [Loadrunner,12.6,安装包,最新版,下载]
 comments: true

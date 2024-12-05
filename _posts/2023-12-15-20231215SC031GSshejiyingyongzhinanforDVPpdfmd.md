@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SC031GS设计应用指南_for DVP.pdf"
+title: "SC031GS设计应用指南for DVPpdf"
 date:   2022-12-14
 tags: [SC031GS,图像,指南,应用,DVP]
 comments: true

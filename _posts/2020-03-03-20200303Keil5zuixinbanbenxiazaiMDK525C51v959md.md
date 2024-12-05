@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil5最新版本下载(MDK 5.25, C51v959)"
+title: "Keil5最新版本下载MDK 525 C51v959"
 date:   2021-07-23
 tags: [版本,Keil5,MDK,5.25,C51v959]
 comments: true

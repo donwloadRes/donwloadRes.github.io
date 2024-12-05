@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝牙模块HC-05用户手册下载"
+title: "蓝牙模块HC05用户手册下载"
 date:   2020-11-17
 tags: [蓝牙,HC,05,模块,用户手册]
 comments: true

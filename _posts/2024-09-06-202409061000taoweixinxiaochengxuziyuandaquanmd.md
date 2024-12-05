@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1000+ 套微信小程序资源大全"
+title: "1000 套微信小程序资源大全"
 date:   2024-09-25
 tags: [微信,源码,资源库,资源,后台]
 comments: true

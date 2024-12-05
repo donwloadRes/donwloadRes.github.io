@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SystemVerilog学习之路（1）— 搭建开发环境和HelloWorld"
+title: "SystemVerilog学习之路1 搭建开发环境和HelloWorld"
 date:   2020-02-15
 tags: [SystemVerilog,Questasim,HelloWorld,搭建,教程]
 comments: true

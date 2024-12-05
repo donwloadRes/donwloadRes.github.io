@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "野生动物数据集 - 野生动物识别"
+title: "野生动物数据集  野生动物识别"
 date:   2024-04-30
 tags: [jpg,野生动物,...,image1,image2]
 comments: true

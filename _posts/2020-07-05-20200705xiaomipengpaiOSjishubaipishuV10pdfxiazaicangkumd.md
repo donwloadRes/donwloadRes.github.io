@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米澎湃OS技术白皮书V1.0.pdf 下载仓库"
+title: "小米澎湃OS技术白皮书V10pdf 下载仓库"
 date:   2020-02-18
 tags: [OS,澎湃,白皮书,V1.0,pdf]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MarkdownPad2 解决“HTML渲染错误”指南"
+title: "MarkdownPad2 解决HTML渲染错误指南"
 date:   2020-12-25
 tags: [HTML,MarkdownPad2,渲染,错误,指南]
 comments: true

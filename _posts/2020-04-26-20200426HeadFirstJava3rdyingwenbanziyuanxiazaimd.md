@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First Java 3rd (英文版) 资源下载"
+title: "Head First Java 3rd 英文版 资源下载"
 date:   2023-03-16
 tags: [下载,正版,英文版,电子版,Head]
 comments: true

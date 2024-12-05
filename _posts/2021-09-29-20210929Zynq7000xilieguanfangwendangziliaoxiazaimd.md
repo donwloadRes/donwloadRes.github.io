@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq-7000系列官方文档资料下载"
+title: "Zynq7000系列官方文档资料下载"
 date:   2023-08-01
 tags: [SelectIO,Zynq,7000,下载,文档]
 comments: true

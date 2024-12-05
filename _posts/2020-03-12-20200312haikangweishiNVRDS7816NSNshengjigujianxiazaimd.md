@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视NVR DS-7816N-SN升级固件下载"
+title: "海康威视NVR DS7816NSN升级固件下载"
 date:   2021-12-31
 tags: [固件,SN,威视,NVR,海康]
 comments: true

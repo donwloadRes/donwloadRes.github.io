@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用MQTTnet实现MQTT通信"
+title: "C 使用MQTTnet实现MQTT通信"
 date:   2024-10-06
 tags: [MQTTnet,MQTT,csharp,mqttClient,C#]
 comments: true

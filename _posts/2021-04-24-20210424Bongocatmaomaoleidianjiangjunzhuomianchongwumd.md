@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bongocat - 猫猫雷电将军桌面宠物"
+title: "Bongocat  猫猫雷电将军桌面宠物"
 date:   2024-02-09
 tags: [猫猫,宠物,桌面,雷电,按键]
 comments: true

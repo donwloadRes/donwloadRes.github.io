@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "紫光展锐UIS8910_Drive_mmi_软件开发相关文档"
+title: "紫光展锐UIS8910Drivemmi软件开发相关文档"
 date:   2021-06-18
 tags: [UIS8910,文档,展锐,紫光,软件开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麒麟V10SP1系统安装Oracle11gR2数据库（2023.8.3实测）静默安装指南"
+title: "麒麟V10SP1系统安装Oracle11gR2数据库202383实测静默安装指南"
 date:   2024-01-17
 tags: [安装,数据库,Oracle,指南,静默]
 comments: true

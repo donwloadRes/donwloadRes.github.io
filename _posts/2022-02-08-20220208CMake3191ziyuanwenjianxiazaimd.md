@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake 3.19.1 资源文件下载"
+title: "CMake 3191 资源文件下载"
 date:   2023-05-11
 tags: [下载,文件,CMake,仓库,3.19]
 comments: true

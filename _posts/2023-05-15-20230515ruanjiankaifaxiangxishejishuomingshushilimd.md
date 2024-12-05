@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发详细设计说明书（示例）"
+title: "软件开发详细设计说明书示例"
 date:   2024-06-08
 tags: [示例,软件开发,详细,文档,确保]
 comments: true

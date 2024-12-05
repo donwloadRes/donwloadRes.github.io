@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .NET完美车牌识别系统"
+title: "C NET完美车牌识别系统"
 date:   2020-06-30
 tags: [车牌,NET,识别,C#,源代码]
 comments: true

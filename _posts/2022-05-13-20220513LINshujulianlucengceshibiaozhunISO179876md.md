@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN数据链路层测试标准ISO17987-6"
+title: "LIN数据链路层测试标准ISO179876"
 date:   2023-02-16
 tags: [LIN,链路层,文件,测试,ISO17987]
 comments: true

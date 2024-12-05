@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adafruit-GFX显示中文详细教程-字体库程序包"
+title: "AdafruitGFX显示中文详细教程字体库程序包"
 date:   2024-01-12
 tags: [Adafruit,GFX,字体库,程序包,中文]
 comments: true

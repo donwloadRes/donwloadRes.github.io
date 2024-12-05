@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TC397_UART.zip 资源说明"
+title: "TC397UARTzip 资源说明"
 date:   2020-01-31
 tags: [UART,TC397,AURIX,Development,Studio]
 comments: true

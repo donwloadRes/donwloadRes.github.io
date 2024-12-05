@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iMazing 3.0.0.3 中文版震撼来袭！2024年新功能概览"
+title: "iMazing 3003 中文版震撼来袭2024年新功能概览"
 date:   2020-12-24
 tags: [iMazing,0.3,3.0,2024,iOS]
 comments: true

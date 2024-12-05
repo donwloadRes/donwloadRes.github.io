@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里巴巴Java开发手册（终极版）下载"
+title: "阿里巴巴Java开发手册终极版下载"
 date:   2020-05-16
 tags: [Java,手册,阿里巴巴,终极版,下载]
 comments: true

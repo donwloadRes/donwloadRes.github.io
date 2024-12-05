@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全程软件测试（最新版）PDF资源下载"
+title: "全程软件测试最新版PDF资源下载"
 date:   2022-04-28
 tags: [软件测试,下载,最新版,积分,资源]
 comments: true

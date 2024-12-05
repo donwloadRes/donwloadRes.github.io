@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7628AN+MT7612E 双频路由器原理图"
+title: "MT7628ANMT7612E 双频路由器原理图"
 date:   2022-10-30
 tags: [路由器,原理图,MT7628AN,MT7612E,双频]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2115A-2013 军用软件研制项目管理要求"
+title: "GJB 2115A2013 军用软件研制项目管理要求"
 date:   2023-01-19
 tags: [项目管理,军用,软件,研制,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 21.2.4 绿色汉化中文版下载指南"
+title: "FL Studio 2124 绿色汉化中文版下载指南"
 date:   2023-02-25
 tags: [FL,Studio,21.2,汉化,解压]
 comments: true

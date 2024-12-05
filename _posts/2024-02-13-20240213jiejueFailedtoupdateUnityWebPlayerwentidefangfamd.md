@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决“Failed to update Unity Web Player”问题的方法"
+title: "解决Failed to update Unity Web Player问题的方法"
 date:   2024-10-22
 tags: [文件夹,Unity,Web,Player,插件]
 comments: true

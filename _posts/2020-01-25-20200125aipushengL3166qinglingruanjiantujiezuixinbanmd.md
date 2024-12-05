@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3166清零软件+图解.最新版"
+title: "爱普生L3166清零软件图解最新版"
 date:   2024-04-02
 tags: [清零,爱普生,L3166,打印机,软件]
 comments: true

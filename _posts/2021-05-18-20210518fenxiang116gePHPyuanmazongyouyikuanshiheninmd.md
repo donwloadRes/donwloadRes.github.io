@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享116个PHP源码，总有一款适合您"
+title: "分享116个PHP源码总有一款适合您"
 date:   2022-12-04
 tags: [源码,PHP,文件,116,README]
 comments: true

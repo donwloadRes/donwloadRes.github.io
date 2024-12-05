@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEGGER J-Link V6.4 驱动下载"
+title: "SEGGER JLink V64 驱动下载"
 date:   2023-01-04
 tags: [SEGGER,驱动,V6.4,Link,官方]
 comments: true

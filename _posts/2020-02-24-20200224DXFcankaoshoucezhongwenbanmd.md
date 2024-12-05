@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF参考手册（中文版）"
+title: "DXF参考手册中文版"
 date:   2023-06-13
 tags: [DXF,参考手册,CAD,中文版,格式]
 comments: true

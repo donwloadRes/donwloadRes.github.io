@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TPS54160加共模电感实现+-15V双输出电源AD设计硬件原理PCB+封装库"
+title: "TPS54160加共模电感实现15V双输出电源AD设计硬件原理PCB封装库"
 date:   2022-03-21
 tags: [设计,PCB,电源,TPS54160,15V]
 comments: true

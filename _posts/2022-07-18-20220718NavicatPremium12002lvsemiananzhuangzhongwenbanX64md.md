@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12.0.02 绿色免安装中文版X64"
+title: "Navicat Premium 12002 绿色免安装中文版X64"
 date:   2023-07-06
 tags: [Navicat,Premium,02,解压,12.0]
 comments: true

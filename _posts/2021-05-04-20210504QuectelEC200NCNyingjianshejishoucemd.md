@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel EC200N-CN 硬件设计手册"
+title: "Quectel EC200NCN 硬件设计手册"
 date:   2024-11-07
 tags: [硬件,手册,Quectel,CN,设计]
 comments: true

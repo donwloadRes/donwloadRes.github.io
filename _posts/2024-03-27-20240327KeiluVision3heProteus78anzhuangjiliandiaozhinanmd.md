@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision3 和 Proteus 7.8 安装及联调指南"
+title: "Keil uVision3 和 Proteus 78 安装及联调指南"
 date:   2024-02-05
 tags: [Keil,Proteus,安装,联调,uVision3]
 comments: true

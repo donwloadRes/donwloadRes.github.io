@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCB伯克利经典人工智能项目：Pacman吃豆人（Project1）"
+title: "UCB伯克利经典人工智能项目Pacman吃豆人Project1"
 date:   2023-12-01
 tags: [Pacman,Project1,py,代码,UCB]
 comments: true

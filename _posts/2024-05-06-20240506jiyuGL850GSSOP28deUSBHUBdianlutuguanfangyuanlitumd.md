@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于GL850G-SSOP28的USB-HUB电路图(官方原理图)"
+title: "基于GL850GSSOP28的USBHUB电路图官方原理图"
 date:   2021-09-19
 tags: [USB,电路图,GL850G,HUB,SSOP28]
 comments: true

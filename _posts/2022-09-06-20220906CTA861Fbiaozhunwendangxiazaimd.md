@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTA-861-F 标准文档下载"
+title: "CTA861F 标准文档下载"
 date:   2024-08-19
 tags: [861,CTA,文档,数字电视,测试]
 comments: true

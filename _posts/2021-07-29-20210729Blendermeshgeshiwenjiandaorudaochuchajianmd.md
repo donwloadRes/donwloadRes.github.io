@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blender .mesh 格式文件导入导出插件"
+title: "Blender mesh 格式文件导入导出插件"
 date:   2021-05-25
 tags: [插件,Blender,mesh,导入,格式文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编写网络调试助手（TCP客户端+TCP服务端+UDP服务端）终极版"
+title: "Qt编写网络调试助手TCP客户端TCP服务端UDP服务端终极版"
 date:   2023-09-11
 tags: [TCP,客户端,服务端,UDP,http]
 comments: true

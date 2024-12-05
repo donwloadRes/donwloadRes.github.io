@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android MediaProjection 截屏&录屏 - 完美适配至Android Q及以上版本"
+title: "Android MediaProjection 截屏录屏  完美适配至Android Q及以上版本"
 date:   2023-04-16
 tags: [Android,录屏,截屏,权限,前台]
 comments: true

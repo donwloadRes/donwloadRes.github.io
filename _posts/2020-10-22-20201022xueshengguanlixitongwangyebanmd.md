@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生管理系统-网页版"
+title: "学生管理系统网页版"
 date:   2022-07-24
 tags: [学生,Spring,Vue,数据库,项目]
 comments: true

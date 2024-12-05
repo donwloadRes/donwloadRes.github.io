@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JEDEC-DDR4 内存标准资源下载"
+title: "JEDECDDR4 内存标准资源下载"
 date:   2021-01-10
 tags: [内存,DDR4,JEDEC,标准,下载]
 comments: true

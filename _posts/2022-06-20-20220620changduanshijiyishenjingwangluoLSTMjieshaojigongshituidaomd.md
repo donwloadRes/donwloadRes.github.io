@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "长短时记忆神经网络（LSTM）介绍及公式推导"
+title: "长短时记忆神经网络LSTM介绍及公式推导"
 date:   2020-08-08
 tags: [LSTM,推导,公式,神经网络,单元]
 comments: true

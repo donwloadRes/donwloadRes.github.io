@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SVM机器学习的车牌识别C++源码"
+title: "基于SVM机器学习的车牌识别C源码"
 date:   2022-07-24
 tags: [源码,SVM,车牌,C++,学习]
 comments: true

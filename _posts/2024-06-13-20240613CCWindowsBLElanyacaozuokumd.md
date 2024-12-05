@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++ Windows BLE 蓝牙操作库"
+title: "CC Windows BLE 蓝牙操作库"
 date:   2023-07-07
 tags: [Windows,include,winrt,Devices,BLE]
 comments: true

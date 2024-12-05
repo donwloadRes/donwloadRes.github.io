@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新的SDIO 4.0 Spec协议标准下载"
+title: "最新的SDIO 40 Spec协议标准下载"
 date:   2021-07-16
 tags: [SDIO,Spec,文件,4.0,PDF]
 comments: true

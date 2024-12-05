@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "密码学中的可证明安全性 - 杨波 扫描版"
+title: "密码学中的可证明安全性  杨波 扫描版"
 date:   2023-05-10
 tags: [密码学,安全性,杨波,扫描,证明]
 comments: true

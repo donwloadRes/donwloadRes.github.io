@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB时频分析工具箱 - TFTB"
+title: "MATLAB时频分析工具箱  TFTB"
 date:   2020-11-28
 tags: [工具箱,时频,TFTB,MATLAB,文件]
 comments: true

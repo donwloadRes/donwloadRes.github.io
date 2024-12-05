@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F10x DSP库中文手册(FFT)"
+title: "STM32F10x DSP库中文手册FFT"
 date:   2024-05-03
 tags: [FFT,DSP,手册,STM32F10x,函数]
 comments: true

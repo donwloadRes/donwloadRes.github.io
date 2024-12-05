@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华东理工大学计算机体系结构实验二：Tomasulo算法"
+title: "华东理工大学计算机体系结构实验二Tomasulo算法"
 date:   2020-07-05
 tags: [Tomasulo,实验,算法,华东理工大学,体系结构]
 comments: true

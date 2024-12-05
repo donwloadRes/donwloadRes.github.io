@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IGWO-SVM：改良的灰狼优化算法改进支持向量机"
+title: "IGWOSVM改良的灰狼优化算法改进支持向量机"
 date:   2021-09-08
 tags: [算法,灰狼,优化,IGWO,SVM]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出Kubernetes（阿里云）资源下载"
+title: "深入浅出Kubernetes阿里云资源下载"
 date:   2022-05-29
 tags: [Kubernetes,集群,阿里,深入浅出,下载]
 comments: true

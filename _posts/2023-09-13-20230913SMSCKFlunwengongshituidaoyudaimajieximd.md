@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S-MSCKF论文公式推导与代码解析"
+title: "SMSCKF论文公式推导与代码解析"
 date:   2020-04-02
 tags: [MSCKF,IMU,状态,代码,理解]
 comments: true

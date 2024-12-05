@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-Explorer 5 安装包"
+title: "PCANExplorer 5 安装包"
 date:   2020-01-10
 tags: [安装包,PCAN,Explorer,安装,直接]
 comments: true

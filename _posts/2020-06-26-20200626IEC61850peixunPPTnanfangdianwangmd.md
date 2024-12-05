@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61850培训PPT（南方电网）"
+title: "IEC61850培训PPT南方电网"
 date:   2024-06-18
 tags: [IEC61850,PPT,南方电网,标准,培训]
 comments: true

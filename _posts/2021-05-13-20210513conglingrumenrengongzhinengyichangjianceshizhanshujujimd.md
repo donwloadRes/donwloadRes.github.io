@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零入门人工智能：异常检测实战数据集"
+title: "从零入门人工智能异常检测实战数据集"
 date:   2023-02-03
 tags: [数据,异常,检测,人工智能,可视化]
 comments: true

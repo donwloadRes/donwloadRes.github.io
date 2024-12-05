@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO 3.0 协议标准资源下载"
+title: "SDIO 30 协议标准资源下载"
 date:   2022-12-21
 tags: [SDIO,文件,3.0,接口,资源]
 comments: true

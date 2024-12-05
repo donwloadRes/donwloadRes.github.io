@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CASS3D 2.0.3 旗靓版 更新公告"
+title: "CASS3D 203 旗靓版 更新公告"
 date:   2023-04-18
 tags: [三维,CASS3D,绘图,旗靓版,测图]
 comments: true

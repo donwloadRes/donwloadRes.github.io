@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino应用开发——LCD显示图片"
+title: "Arduino应用开发LCD显示图片"
 date:   2021-05-15
 tags: [LCD,Arduino,图片,硬件,开发板]
 comments: true

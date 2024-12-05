@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "施耐德M580 M340 用户手册、操作手册、培训手册 资源库"
+title: "施耐德M580 M340 用户手册操作手册培训手册 资源库"
 date:   2021-09-17
 tags: [PLC,施耐德,M580,M340,用户手册]
 comments: true

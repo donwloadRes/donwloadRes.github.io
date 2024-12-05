@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件质量保证与测试实验二：ACTS工具"
+title: "软件质量保证与测试实验二ACTS工具"
 date:   2020-09-26
 tags: [ACTS,测试,测试用例,生成,工具]
 comments: true

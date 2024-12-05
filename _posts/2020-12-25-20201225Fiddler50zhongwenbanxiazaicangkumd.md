@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiddler 5.0 中文版下载仓库"
+title: "Fiddler 50 中文版下载仓库"
 date:   2020-12-08
 tags: [中文版,Fiddler,HTTP,HTTPS,文件]
 comments: true

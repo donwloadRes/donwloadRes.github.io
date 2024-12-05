@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLUENER2020: 基于BiLSTM, BERT, RoBERTa的命名实体识别模型 PyTorch实现"
+title: "CLUENER2020 基于BiLSTM BERT RoBERTa的命名实体识别模型 PyTorch实现"
 date:   2022-04-20
 tags: [模型,识别,CLUENER2020,命名,实体]
 comments: true

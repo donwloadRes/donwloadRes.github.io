@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LT9211 Datasheet R2.0 下载仓库"
+title: "LT9211 Datasheet R20 下载仓库"
 date:   2020-09-11
 tags: [LT9211,MIPI,LVDS,TTL,R2.0]
 comments: true

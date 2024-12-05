@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫-笔趣阁小说爬虫-自动爬取小说"
+title: "Python爬虫笔趣阁小说爬虫自动爬取小说"
 date:   2020-01-24
 tags: [爬虫,爬取,小说,Python,笔趣]
 comments: true

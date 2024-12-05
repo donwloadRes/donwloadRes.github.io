@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SoC设计方法与实现 - 郭老师课件资源"
+title: "SoC设计方法与实现  郭老师课件资源"
 date:   2021-12-30
 tags: [SoC,课件,设计,学习,资源]
 comments: true

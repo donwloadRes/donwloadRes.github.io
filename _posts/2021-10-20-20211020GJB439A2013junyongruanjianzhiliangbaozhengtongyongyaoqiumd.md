@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB439A-2013 军用软件质量保证通用要求"
+title: "GJB439A2013 军用软件质量保证通用要求"
 date:   2021-08-23
 tags: [软件,文档,质量保证,GJB439A,2013]
 comments: true

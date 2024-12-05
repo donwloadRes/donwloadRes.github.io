@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT18.065 线性代数与数据学习资源下载"
+title: "MIT18065 线性代数与数据学习资源下载"
 date:   2024-02-23
 tags: [线性代数,学习,资源,MIT18.065,下载]
 comments: true

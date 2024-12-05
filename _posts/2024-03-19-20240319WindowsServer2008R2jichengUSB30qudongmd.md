@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2008R2集成USB3.0驱动"
+title: "Windows Server 2008R2集成USB30驱动"
 date:   2022-01-03
 tags: [Windows,Server,2008R2,集成,驱动]
 comments: true

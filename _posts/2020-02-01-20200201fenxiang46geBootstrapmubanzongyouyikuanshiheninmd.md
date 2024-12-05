@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享46个Bootstrap模板，总有一款适合您"
+title: "分享46个Bootstrap模板总有一款适合您"
 date:   2021-11-19
 tags: [模板,Bootstrap,46,开发者,开源]
 comments: true

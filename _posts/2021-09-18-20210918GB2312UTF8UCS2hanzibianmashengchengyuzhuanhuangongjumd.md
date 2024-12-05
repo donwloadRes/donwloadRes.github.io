@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB2312, UTF8, UCS2 汉字编码生成与转换工具"
+title: "GB2312 UTF8 UCS2 汉字编码生成与转换工具"
 date:   2020-08-05
 tags: [编码,GB2312,转换,UTF8,UCS2]
 comments: true

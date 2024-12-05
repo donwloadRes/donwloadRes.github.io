@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB光的衍射代码 - FDTD Solutions 脚本库：用于超表面全息照相（FSMH）"
+title: "MATLAB光的衍射代码  FDTD Solutions 脚本库用于超表面全息照相FSMH"
 date:   2020-04-17
 tags: [source,脚本,lsf,FDTD,Solutions]
 comments: true

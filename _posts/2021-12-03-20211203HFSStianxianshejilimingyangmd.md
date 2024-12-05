@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFSS天线设计 - 李明洋"
+title: "HFSS天线设计  李明洋"
 date:   2020-08-17
 tags: [HFSS,天线,微波,设计,射频]
 comments: true

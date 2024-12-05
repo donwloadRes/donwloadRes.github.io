@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue + Spring Boot 实现拼图验证码项目"
+title: "Vue  Spring Boot 实现拼图验证码项目"
 date:   2023-10-22
 tags: [拼图,验证码,Vue,Spring,Boot]
 comments: true

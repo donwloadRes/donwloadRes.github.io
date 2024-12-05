@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7-3.11版本dlib库快速安装指南"
+title: "Python 37311版本dlib库快速安装指南"
 date:   2020-01-10
 tags: [dlib,Python,whl,安装,版本]
 comments: true

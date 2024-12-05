@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDID 1.4 规范文字版 (Release A Revision 2)"
+title: "EDID 14 规范文字版 Release A Revision 2"
 date:   2020-02-25
 tags: [VESA,规范,EDID,Release,文字版]
 comments: true

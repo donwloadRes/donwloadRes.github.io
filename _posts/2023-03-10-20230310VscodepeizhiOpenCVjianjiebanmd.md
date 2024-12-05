@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vscode配置OpenCV（简洁版）"
+title: "Vscode配置OpenCV简洁版"
 date:   2023-12-28
 tags: [OpenCV,文件,MinGW,路径,配置]
 comments: true

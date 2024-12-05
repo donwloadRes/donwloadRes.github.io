@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6.4 资源文件下载"
+title: "Python 364 资源文件下载"
 date:   2024-10-10
 tags: [Python,3.6,下载,安装,仓库]
 comments: true

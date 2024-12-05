@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10GBase_KR背板设计资源下载"
+title: "10GBaseKR背板设计资源下载"
 date:   2023-07-31
 tags: [10GBase,背板,KR,设计,资源]
 comments: true

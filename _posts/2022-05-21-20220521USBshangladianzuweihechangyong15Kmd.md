@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB上拉电阻为何常用1.5K？"
+title: "USB上拉电阻为何常用15K"
 date:   2023-08-26
 tags: [USB,1.5,电阻,阻值,上拉]
 comments: true

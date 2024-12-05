@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT小游戏——中国象棋"
+title: "QT小游戏中国象棋"
 date:   2021-02-01
 tags: [棋子,棋盘,悔棋,坐标,中国象棋]
 comments: true

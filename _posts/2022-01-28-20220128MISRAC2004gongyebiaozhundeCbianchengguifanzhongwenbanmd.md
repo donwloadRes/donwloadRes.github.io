@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MISRA-C-2004工业标准的C编程规范(中文版)"
+title: "MISRAC2004工业标准的C编程规范中文版"
 date:   2022-11-28
 tags: [MISRA,2004,编程,规范,指南]
 comments: true

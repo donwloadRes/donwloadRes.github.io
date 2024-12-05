@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U盘引导盘制作工具Rufus v4.5.2180 使用指南"
+title: "U盘引导盘制作工具Rufus v452180 使用指南"
 date:   2020-02-02
 tags: [U盘,Rufus,引导盘,操作系统,制作]
 comments: true

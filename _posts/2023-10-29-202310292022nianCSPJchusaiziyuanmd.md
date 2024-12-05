@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 年 CSP-J 初赛资源"
+title: "2022 年 CSPJ 初赛资源"
 date:   2021-12-02
 tags: [CSP,初赛,资源,编程,2022]
 comments: true

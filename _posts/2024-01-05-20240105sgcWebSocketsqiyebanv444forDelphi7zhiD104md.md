@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sgcWebSockets 企业版 v4.4.4 for Delphi 7 至 D10.4"
+title: "sgcWebSockets 企业版 v444 for Delphi 7 至 D104"
 date:   2022-06-17
 tags: [sgcWebSockets,Delphi,开发者,v4.4,D10.4]
 comments: true

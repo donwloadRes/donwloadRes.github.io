@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMIDEWINx64 v5.27 资源文件下载"
+title: "AMIDEWINx64 v527 资源文件下载"
 date:   2020-06-08
 tags: [AMIDEWINx64,v5.27,UUID,修改,DMI]
 comments: true

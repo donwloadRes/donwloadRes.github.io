@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始部署CloudSim 4.0云计算仿真平台"
+title: "从零开始部署CloudSim 40云计算仿真平台"
 date:   2020-11-01
 tags: [CloudSim,Maven,Eclipse,JDK,仿真]
 comments: true

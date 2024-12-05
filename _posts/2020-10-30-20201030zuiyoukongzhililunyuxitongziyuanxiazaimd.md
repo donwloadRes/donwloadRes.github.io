@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最优控制理论与系统》资源下载"
+title: "最优控制理论与系统资源下载"
 date:   2020-11-23
 tags: [最优控制,下载,理论,胡寿松,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "API-MS-WIN-CORE-PATH-L1-1-0.DLL 下载（64位）"
+title: "APIMSWINCOREPATHL110DLL 下载64位"
 date:   2022-12-21
 tags: [64,api,ms,win,core]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战：基于Scikit-Learn、Keras和TensorFlow"
+title: "机器学习实战基于ScikitLearnKeras和TensorFlow"
 date:   2020-01-27
 tags: [Scikit,TensorFlow,学习,机器,Learn]
 comments: true

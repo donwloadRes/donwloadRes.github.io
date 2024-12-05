@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电子技术简明基础教程 - 杨素清"
+title: "模拟电子技术简明基础教程  杨素清"
 date:   2024-06-29
 tags: [电子,模拟,技术,基础教程,简明]
 comments: true

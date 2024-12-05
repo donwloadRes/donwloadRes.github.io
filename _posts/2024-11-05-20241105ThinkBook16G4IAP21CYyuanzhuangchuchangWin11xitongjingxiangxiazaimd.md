@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkBook 16 G4+ IAP(21CY)原装出厂Win11系统镜像下载"
+title: "ThinkBook 16 G4 IAP21CY原装出厂Win11系统镜像下载"
 date:   2022-01-14
 tags: [预装,镜像,出厂,ThinkBook,16]
 comments: true

@@ -1,6 +1,50 @@
 ---
 layout: post
-title: "JDK 14 安装与 Java 环境变量配置指南"
+title: "JDK 14 安装与 Java 环境变量配置指南
+date   20211230
+tags 14Java环境变量JDK安装
+comments true
+author admin
+
+ JDK 14 安装与 Java 环境变量配置指南
+
+本仓库提供了一个详细的指南帮助用户安装 JDK 14 并配置 Java 环境变量以下是具体步骤
+
+ 1 下载 JDK 14
+首先从官方网站或其他可信来源下载 JDK 14 的安装包确保选择适合您操作系统的版本
+
+ 2 安装 JDK 14
+1 运行下载的安装包
+2 按照安装向导的提示完成安装过程
+3 记下 JDK 的安装路径通常为 CProgram FilesJavajdk14Windows或 usrlibjvmjdk14Linux
+
+ 3 配置 Java 环境变量
+ Windows 系统
+1 右键点击此电脑或计算机选择属性
+2 点击高级系统设置
+3 在系统属性窗口中点击环境变量
+4 在系统变量部分找到并选择Path然后点击编辑
+5 在编辑环境变量窗口中点击新建然后输入 JDK 的 bin 目录路径例如 CProgram FilesJavajdk14bin
+6 点击确定保存更改
+
+ Linux 系统
+1 打开终端
+2 编辑 bashrc 或 bashprofile 文件添加以下行
+   bash
+   export JAVAHOMEusrlibjvmjdk14
+   export PATHJAVAHOMEbinPATH
+   
+3 保存文件并关闭编辑器
+4 运行 source bashrc 或 source bashprofile 使更改生效
+
+ 4 验证安装
+打开命令提示符Windows或终端Linux输入以下命令
+bash
+java version
+
+如果安装成功您将看到类似以下的输出
+
+java version 14"
 date:   2021-12-30
 tags: [14,Java,环境变量,JDK,安装]
 comments: true

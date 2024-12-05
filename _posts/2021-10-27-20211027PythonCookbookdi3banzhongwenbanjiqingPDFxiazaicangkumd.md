@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Cookbook（第3版）中文版 极清PDF 下载仓库"
+title: "Python Cookbook第3版中文版 极清PDF 下载仓库"
 date:   2022-12-26
 tags: [Python,PDF,中文版,Cookbook,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FAUNC FOCAS C#示例资源文件介绍"
+title: "FAUNC FOCAS C示例资源文件介绍"
 date:   2023-11-18
 tags: [示例,FOCAS,C#,FAUNC,数控机床]
 comments: true

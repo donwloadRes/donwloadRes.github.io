@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grasshopper学习手册第二版&资源"
+title: "Grasshopper学习手册第二版资源"
 date:   2020-12-03
 tags: [Grasshopper,手册,学习,资源,插件]
 comments: true

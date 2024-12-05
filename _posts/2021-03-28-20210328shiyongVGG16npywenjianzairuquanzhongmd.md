@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用VGG16.npy文件载入权重"
+title: "使用VGG16npy文件载入权重"
 date:   2022-06-20
 tags: [VGG16,npy,载入,权重,文件]
 comments: true

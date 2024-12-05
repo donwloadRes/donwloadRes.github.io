@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高创驱动器-精细电机调试资源下载"
+title: "高创驱动器精细电机调试资源下载"
 date:   2022-05-09
 tags: [调试,高创,驱动器,电机,精细]
 comments: true

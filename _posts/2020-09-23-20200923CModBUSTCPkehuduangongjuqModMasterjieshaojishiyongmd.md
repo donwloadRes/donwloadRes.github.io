@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ ModBUS TCP客户端工具 qModMaster 介绍及使用"
+title: "C ModBUS TCP客户端工具 qModMaster 介绍及使用"
 date:   2024-10-04
 tags: [Modbus,qModMaster,TCP,通信,RTU]
 comments: true

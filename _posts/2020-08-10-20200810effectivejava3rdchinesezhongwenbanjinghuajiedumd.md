@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "effective-java-3rd-chinese: 中文版精华解读"
+title: "effectivejava3rdchinese 中文版精华解读"
 date:   2020-01-08
 tags: [Java,编程,Markdown,PDF,排版]
 comments: true

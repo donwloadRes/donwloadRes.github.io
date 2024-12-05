@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于USB2.0协议的TYPE-C接口电路"
+title: "基于USB20协议的TYPEC接口电路"
 date:   2023-01-18
 tags: [TYPE,接口,USB2.0,电路设计,Android]
 comments: true

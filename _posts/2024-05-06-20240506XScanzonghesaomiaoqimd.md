@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-Scan 综合扫描器"
+title: "XScan 综合扫描器"
 date:   2022-09-26
 tags: [Scan,漏洞,扫描,扫描器,黑客]
 comments: true

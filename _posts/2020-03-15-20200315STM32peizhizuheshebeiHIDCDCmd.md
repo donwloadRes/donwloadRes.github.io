@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32配置组合设备(HID+CDC)"
+title: "STM32配置组合设备HIDCDC"
 date:   2022-06-30
 tags: [HID,CDC,设备,STM32,USB]
 comments: true

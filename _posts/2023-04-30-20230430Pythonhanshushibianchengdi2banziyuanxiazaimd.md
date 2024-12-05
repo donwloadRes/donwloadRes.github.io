@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python函数式编程（第2版）资源下载"
+title: "Python函数式编程第2版资源下载"
 date:   2020-11-29
 tags: [Python,编程,资源,图标,函数]
 comments: true

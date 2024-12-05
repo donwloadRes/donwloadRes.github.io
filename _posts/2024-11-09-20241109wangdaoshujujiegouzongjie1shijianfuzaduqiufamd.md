@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "王道数据结构总结1 - 时间复杂度求法"
+title: "王道数据结构总结1  时间复杂度求法"
 date:   2022-12-03
 tags: [复杂度,求法,数据结构,基本操作,时间]
 comments: true

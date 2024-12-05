@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫：股票股吧评论与新闻报道数据获取"
+title: "Python爬虫股票股吧评论与新闻报道数据获取"
 date:   2022-09-05
 tags: [爬取,代码,评论,新闻报道,Python]
 comments: true

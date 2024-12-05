@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 14.0.0 虚拟机精简绿色版"
+title: "VMware Workstation 1400 虚拟机精简绿色版"
 date:   2022-12-13
 tags: [虚拟机,VMware,Workstation,绿色版,精简]
 comments: true

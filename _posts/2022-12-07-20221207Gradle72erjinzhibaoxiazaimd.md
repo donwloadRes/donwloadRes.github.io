@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.2 二进制包下载"
+title: "Gradle 72 二进制包下载"
 date:   2023-11-06
 tags: [Gradle,7.2,gradle,bin,二进制]
 comments: true

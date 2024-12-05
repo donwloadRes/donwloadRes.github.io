@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "编译原理实验报告：语法分析器的设计与实现"
+title: "编译原理实验报告语法分析器的设计与实现"
 date:   2021-11-01
 tags: [语法分析,符号,编译,语法,FIRST]
 comments: true

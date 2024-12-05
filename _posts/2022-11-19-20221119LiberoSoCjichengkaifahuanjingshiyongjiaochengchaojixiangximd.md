@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Libero-SoC集成开发环境使用教程（超级详细）"
+title: "LiberoSoC集成开发环境使用教程超级详细"
 date:   2022-08-29
 tags: [教程,Libero,SoC,集成,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android投屏工具：实现设备间屏幕共享"
+title: "Android投屏工具实现设备间屏幕共享"
 date:   2020-03-16
 tags: [设备,投屏,Android,Wi,Fi]
 comments: true

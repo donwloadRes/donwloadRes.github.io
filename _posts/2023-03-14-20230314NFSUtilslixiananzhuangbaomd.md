@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NFS-Utils 离线安装包"
+title: "NFSUtils 离线安装包"
 date:   2024-05-13
 tags: [nfs,utils,安装包,离线,sudo]
 comments: true

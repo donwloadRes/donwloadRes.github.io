@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinDriver快速入门指南（中文）"
+title: "WinDriver快速入门指南中文"
 date:   2021-10-08
 tags: [指南,WinDriver,入门,中文,快速]
 comments: true

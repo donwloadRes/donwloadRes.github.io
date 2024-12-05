@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selectorgadget插件 - R语言网络爬虫得力助手"
+title: "Selectorgadget插件  R语言网络爬虫得力助手"
 date:   2020-06-03
 tags: [插件,Selectorgadget,爬虫,选择器,网页]
 comments: true

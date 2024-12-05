@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm串口通信：通过SCPI协议与数控电源M8811通信"
+title: "WinForm串口通信通过SCPI协议与数控电源M8811通信"
 date:   2020-01-17
 tags: [串口,SCPI,电源,M8811,通信]
 comments: true

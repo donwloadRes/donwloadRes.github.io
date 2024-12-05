@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The C Programming Language（中文版）.pdf"
+title: "The C Programming Language中文版pdf"
 date:   2022-01-05
 tags: [C语言,Programming,Language,中文版,编程]
 comments: true

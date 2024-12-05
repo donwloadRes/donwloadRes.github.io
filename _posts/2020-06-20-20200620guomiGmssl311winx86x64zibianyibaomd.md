@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密Gmssl 3.1.1 win x86-x64 自编译包"
+title: "国密Gmssl 311 win x86x64 自编译包"
 date:   2024-02-19
 tags: [Gmssl,编译,国密,x64,Windows]
 comments: true

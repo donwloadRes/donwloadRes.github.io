@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quectel_BC260Y-CN 参考设计手册 V1.11"
+title: "QuectelBC260YCN 参考设计手册 V111"
 date:   2020-11-18
 tags: [BC260Y,CN,设计,模块,本手册]
 comments: true

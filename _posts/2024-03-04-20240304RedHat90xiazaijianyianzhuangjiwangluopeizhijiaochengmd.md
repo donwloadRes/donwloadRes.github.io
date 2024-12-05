@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RedHat 9.0 下载，简易安装及网络配置教程"
+title: "RedHat 90 下载简易安装及网络配置教程"
 date:   2023-10-21
 tags: [配置,RedHat,9.0,安装,Linux]
 comments: true

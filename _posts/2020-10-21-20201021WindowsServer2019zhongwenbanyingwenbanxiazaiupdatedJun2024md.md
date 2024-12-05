@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019 中文版、英文版下载 (updated Jun 2024)"
+title: "Windows Server 2019 中文版英文版下载 updated Jun 2024"
 date:   2020-09-21
 tags: [Windows,Server,2019,中文版,英文版]
 comments: true

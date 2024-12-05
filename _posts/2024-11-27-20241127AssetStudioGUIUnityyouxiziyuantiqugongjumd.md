@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AssetStudioGUI：Unity游戏资源提取工具"
+title: "AssetStudioGUIUnity游戏资源提取工具"
 date:   2020-05-04
 tags: [Unity,游戏,AssetStudioGUI,动画,安装包]
 comments: true

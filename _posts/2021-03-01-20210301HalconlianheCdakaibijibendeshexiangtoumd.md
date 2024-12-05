@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon联合C#打开笔记本的摄像头"
+title: "Halcon联合C打开笔记本的摄像头"
 date:   2023-01-24
 tags: [Halcon,C#,摄像头,笔记本,资源]
 comments: true

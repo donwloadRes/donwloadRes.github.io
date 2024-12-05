@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEC-8仿真软件202203-06版本下载"
+title: "TEC8仿真软件20220306版本下载"
 date:   2020-07-31
 tags: [202203,06,软件,仿真,TEC]
 comments: true

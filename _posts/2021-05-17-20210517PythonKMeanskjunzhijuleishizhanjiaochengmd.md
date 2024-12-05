@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python KMeans(k均值聚类)实战教程"
+title: "Python KMeansk均值聚类实战教程"
 date:   2024-09-06
 tags: [KMeans,教程,Python,聚类,代码]
 comments: true

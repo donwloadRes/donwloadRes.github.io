@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB代码：基于二阶锥规划的主动配电网动态重构研究"
+title: "MATLAB代码基于二阶锥规划的主动配电网动态重构研究"
 date:   2022-08-01
 tags: [重构,配电网,代码,MATLAB,动态]
 comments: true

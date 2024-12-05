@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT-4V说明书中文版"
+title: "GPT4V说明书中文版"
 date:   2024-10-14
 tags: [GPT,4V,模态,提示,场景]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407实时时钟项目：结合DS1302与TM1637的时钟显示"
+title: "STM32F407实时时钟项目结合DS1302与TM1637的时钟显示"
 date:   2021-01-19
 tags: [STM32F407,时钟,DS1302,TM1637,数码管]
 comments: true

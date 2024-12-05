@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络课程设计：Ping程序"
+title: "计算机网络课程设计Ping程序"
 date:   2024-05-01
 tags: [Ping,IP地址,ICMP,程序,接字]
 comments: true

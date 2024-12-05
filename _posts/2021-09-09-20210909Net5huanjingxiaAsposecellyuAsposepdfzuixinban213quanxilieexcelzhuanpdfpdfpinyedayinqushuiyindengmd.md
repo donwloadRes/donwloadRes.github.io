@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Net5环境下Aspose.cell与Aspose.pdf最新版21.3全系列 excel转pdf,pdf拼页打印，去水印等"
+title: "Net5环境下Asposecell与Asposepdf最新版213全系列 excel转pdfpdf拼页打印去水印等"
 date:   2023-12-11
 tags: [Aspose,PDF,水印,pdf,拼页]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft .NET Framework 3.5 完整离线安装包"
+title: "Microsoft NET Framework 35 完整离线安装包"
 date:   2020-01-18
 tags: [安装包,安装,Microsoft,NET,Framework]
 comments: true

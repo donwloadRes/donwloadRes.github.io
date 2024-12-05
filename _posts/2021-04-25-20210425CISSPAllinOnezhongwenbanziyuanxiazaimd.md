@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISSP All-in-One 中文版资源下载"
+title: "CISSP AllinOne 中文版资源下载"
 date:   2024-11-26
 tags: [CISSP,信息安全,下载,文件,风险]
 comments: true

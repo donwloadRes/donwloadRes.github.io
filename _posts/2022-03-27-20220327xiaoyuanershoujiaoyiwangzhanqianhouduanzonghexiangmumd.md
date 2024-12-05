@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "校园二手交易网站 - 前后端综合项目"
+title: "校园二手交易网站  前后端综合项目"
 date:   2023-10-01
 tags: [js,Node,项目,前端,Vue]
 comments: true

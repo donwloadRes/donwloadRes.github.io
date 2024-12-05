@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VPX基础规范（VITA 46-2007）下载仓库"
+title: "VPX基础规范VITA 462007下载仓库"
 date:   2021-07-18
 tags: [VPX,文档,VITA,2007,规范]
 comments: true

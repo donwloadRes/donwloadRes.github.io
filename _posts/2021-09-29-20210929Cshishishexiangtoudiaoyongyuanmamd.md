@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实时摄像头调用源码"
+title: "C 实时摄像头调用源码"
 date:   2023-10-01
 tags: [摄像头,源码,C#,代码,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch-YOLOV4-火焰目标检测"
+title: "PytorchYOLOV4火焰目标检测"
 date:   2024-01-22
 tags: [火焰,训练,检测,Pytorch,YOLOV4]
 comments: true

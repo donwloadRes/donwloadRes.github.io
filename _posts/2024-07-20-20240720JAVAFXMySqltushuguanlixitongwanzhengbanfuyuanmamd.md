@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVAFX + MySql 图书管理系统（完整版 附源码）"
+title: "JAVAFX  MySql 图书管理系统完整版 附源码"
 date:   2024-09-17
 tags: [图书,借阅,数据库,MySql,管理系统]
 comments: true

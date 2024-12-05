@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APPN102-PROCISE-PSOC配套教程V1.0.pdf 下载仓库"
+title: "APPN102PROCISEPSOC配套教程V10pdf 下载仓库"
 date:   2022-04-25
 tags: [教程,APPN102,PROCISE,PSOC,V1.0]
 comments: true

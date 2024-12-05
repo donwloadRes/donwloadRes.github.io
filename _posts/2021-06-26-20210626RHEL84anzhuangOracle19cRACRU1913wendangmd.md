@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RHEL 8.4 安装 Oracle 19c RAC + RU 19.13 文档"
+title: "RHEL 84 安装 Oracle 19c RAC  RU 1913 文档"
 date:   2023-07-04
 tags: [文档,Oracle,RAC,19c,安装]
 comments: true

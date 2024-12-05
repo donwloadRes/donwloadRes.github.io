@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据工厂---DataFactory与MySQL数据构造指南"
+title: "数据工厂DataFactory与MySQL数据构造指南"
 date:   2022-11-21
 tags: [MySQL,DataFactory,ODBC,数据库,数据]
 comments: true

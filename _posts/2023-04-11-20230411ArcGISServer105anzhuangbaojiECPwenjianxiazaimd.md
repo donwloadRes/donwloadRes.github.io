@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS Server 10.5 安装包及ECP文件下载"
+title: "ArcGIS Server 105 安装包及ECP文件下载"
 date:   2021-10-01
 tags: [ArcGIS,Server,安装包,10.5,ECP]
 comments: true

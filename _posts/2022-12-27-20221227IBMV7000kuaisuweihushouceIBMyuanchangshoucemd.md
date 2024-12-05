@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM V7000快速维护手册 (IBM原厂手册)"
+title: "IBM V7000快速维护手册 IBM原厂手册"
 date:   2020-12-13
 tags: [IBM,V7000,手册,维护,原厂]
 comments: true

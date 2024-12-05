@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号完整性揭秘：于博士SI设计手记高清书签版"
+title: "信号完整性揭秘于博士SI设计手记高清书签版"
 date:   2022-01-09
 tags: [完整性,信号,书签,高清,设计]
 comments: true

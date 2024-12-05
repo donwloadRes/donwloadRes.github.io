@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全必备工具：Burp Suite抓包工具安装及配置指南"
+title: "网络安全必备工具Burp Suite抓包工具安装及配置指南"
 date:   2020-05-05
 tags: [Burp,Suite,安装,教程,配置]
 comments: true

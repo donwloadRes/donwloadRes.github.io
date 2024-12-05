@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "管理运筹学配套软件3-5版资源下载"
+title: "管理运筹学配套软件35版资源下载"
 date:   2024-06-02
 tags: [运筹学,软件,配套,文件,zip]
 comments: true

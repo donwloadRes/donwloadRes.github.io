@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel UHD Graphics 620-630 Win7 驱动程序"
+title: "Intel UHD Graphics 620630 Win7 驱动程序"
 date:   2024-08-08
 tags: [驱动程序,压缩包,显卡,下载,文件夹]
 comments: true

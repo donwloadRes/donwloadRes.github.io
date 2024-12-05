@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SPSS 插件 Process V4.0 分享"
+title: "SPSS 插件 Process V40 分享"
 date:   2022-01-23
 tags: [插件,SPSS,Process,效应,中介]
 comments: true

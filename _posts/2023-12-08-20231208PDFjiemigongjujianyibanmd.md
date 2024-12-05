@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF解密工具 - 简易版"
+title: "PDF解密工具  简易版"
 date:   2023-04-16
 tags: [PDF,解密,文件,工具,软件]
 comments: true

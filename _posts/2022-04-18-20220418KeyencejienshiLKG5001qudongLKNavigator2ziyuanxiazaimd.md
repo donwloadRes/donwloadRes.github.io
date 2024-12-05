@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keyence基恩士LK-G5001驱动+LK-Navigator 2 资源下载"
+title: "Keyence基恩士LKG5001驱动LKNavigator 2 资源下载"
 date:   2023-09-16
 tags: [LK,Keyence,G5001,基恩,Navigator]
 comments: true

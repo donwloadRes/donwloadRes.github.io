@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "极速下载：Gradle各版本快速下载地址大全"
+title: "极速下载Gradle各版本快速下载地址大全"
 date:   2020-02-02
 tags: [Gradle,版本,下载,地址,文件]
 comments: true

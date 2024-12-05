@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 12.2 中文手册下载"
+title: "PostgreSQL 122 中文手册下载"
 date:   2024-07-04
 tags: [手册,PostgreSQL,中文,PostgreSQL12.2,下载]
 comments: true

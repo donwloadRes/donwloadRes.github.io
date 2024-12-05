@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT 多个版本 qsqlmysql.dll 连接 MySQL 驱动 免费下载"
+title: "QT 多个版本 qsqlmysqldll 连接 MySQL 驱动 免费下载"
 date:   2023-05-07
 tags: [QT,qsqlmysql,dll,MySQL,版本]
 comments: true

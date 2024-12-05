@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学 OpenGL实验源码+实验文档"
+title: "计算机图形学 OpenGL实验源码实验文档"
 date:   2020-02-21
 tags: [实验,光照,OpenGL,模型,光源]
 comments: true

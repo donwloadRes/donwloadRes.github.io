@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高光谱数据集PaviaU分类算法实现（Matlab）"
+title: "高光谱数据集PaviaU分类算法实现Matlab"
 date:   2023-07-20
 tags: [分类,Matlab,算法,数据,PaviaU]
 comments: true

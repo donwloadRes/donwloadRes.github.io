@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手动部署jitsi-meet依赖的jitsi-videobridge"
+title: "手动部署jitsimeet依赖的jitsivideobridge"
 date:   2022-08-08
 tags: [jitsi,videobridge,文档,部署,meet]
 comments: true

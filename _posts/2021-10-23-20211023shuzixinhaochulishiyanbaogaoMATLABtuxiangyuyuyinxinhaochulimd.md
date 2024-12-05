@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理实验报告：MATLAB图像与语音信号处理"
+title: "数字信号处理实验报告MATLAB图像与语音信号处理"
 date:   2023-09-25
 tags: [实验,MATLAB,源代码,信号处理,语音]
 comments: true

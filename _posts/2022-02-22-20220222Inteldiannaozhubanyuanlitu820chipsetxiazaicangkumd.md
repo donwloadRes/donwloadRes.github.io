@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel电脑主板原理图（820chipset）下载仓库"
+title: "Intel电脑主板原理图820chipset下载仓库"
 date:   2024-11-16
 tags: [原理图,Intel,电脑主板,820chipset,下载]
 comments: true

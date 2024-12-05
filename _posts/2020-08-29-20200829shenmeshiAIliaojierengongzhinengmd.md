@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "什么是 AI？了解人工智能"
+title: "什么是 AI了解人工智能"
 date:   2023-10-08
 tags: [AI,人工智能,学习,机器,算法]
 comments: true

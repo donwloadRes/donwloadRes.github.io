@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PID算法的温度控制系统（Proteus仿真+代码）"
+title: "基于PID算法的温度控制系统Proteus仿真代码"
 date:   2023-08-29
 tags: [仿真,PID,Proteus,温度,控制算法]
 comments: true

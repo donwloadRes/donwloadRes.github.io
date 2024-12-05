@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于鲸鱼算法优化BP神经网络(WOA-BP)的时间序列预测"
+title: "基于鲸鱼算法优化BP神经网络WOABP的时间序列预测"
 date:   2024-02-01
 tags: [预测,BP,鲸鱼,神经网络,算法]
 comments: true

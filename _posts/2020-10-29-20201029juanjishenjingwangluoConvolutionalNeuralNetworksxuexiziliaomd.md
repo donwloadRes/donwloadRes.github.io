@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卷积神经网络（Convolutional Neural Networks）学习资料"
+title: "卷积神经网络Convolutional Neural Networks学习资料"
 date:   2023-02-11
 tags: [卷积,神经网络,学习,CNN,学习者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel x86 & x64 汇编指令集（共七卷）"
+title: "Intel x86  x64 汇编指令集共七卷"
 date:   2023-09-11
 tags: [汇编,指令集,指令,x86,x64]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AE插件安装教程——Optical Flares（镜头光晕插件）+Trapcode Suite套件插件"
+title: "AE插件安装教程Optical Flares镜头光晕插件Trapcode Suite套件插件"
 date:   2024-10-24
 tags: [插件,AE,Trapcode,安装,Optical]
 comments: true

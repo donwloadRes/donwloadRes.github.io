@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE转USB3.0芯片手册下载"
+title: "PCIE转USB30芯片手册下载"
 date:   2020-10-27
 tags: [文件,PCIE,USB3.0,芯片,VL805]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 三菱FX3U系列PLC读写交互"
+title: "C 三菱FX3U系列PLC读写交互"
 date:   2020-10-13
 tags: [PLC,C#,FX3U,交互,三菱]
 comments: true

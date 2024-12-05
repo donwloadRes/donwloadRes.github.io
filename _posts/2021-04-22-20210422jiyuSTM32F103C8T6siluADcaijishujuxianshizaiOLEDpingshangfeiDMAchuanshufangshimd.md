@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103C8T6四路AD采集数据显示在OLED屏上（非DMA传输方式）"
+title: "基于STM32F103C8T6四路AD采集数据显示在OLED屏上非DMA传输方式"
 date:   2021-10-08
 tags: [OLED,STM32F103C8T6,DMA,采集,传输方式]
 comments: true

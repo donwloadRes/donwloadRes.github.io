@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OpenCV的计算机视觉技术实现(高清pdf扫描版)"
+title: "基于OpenCV的计算机视觉技术实现高清pdf扫描版"
 date:   2023-10-29
 tags: [OpenCV,视觉,编程,计算机,PDF]
 comments: true

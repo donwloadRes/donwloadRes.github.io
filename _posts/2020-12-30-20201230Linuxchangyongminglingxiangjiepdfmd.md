@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux常用命令详解.pdf"
+title: "Linux常用命令详解pdf"
 date:   2020-07-16
 tags: [Linux,常用命令,详解,pdf,命令]
 comments: true

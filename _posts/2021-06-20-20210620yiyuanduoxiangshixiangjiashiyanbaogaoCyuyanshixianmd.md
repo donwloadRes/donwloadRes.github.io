@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一元多项式相加实验报告（C语言实现）"
+title: "一元多项式相加实验报告C语言实现"
 date:   2020-11-15
 tags: [多项式,相加,一元,实验报告,C语言]
 comments: true

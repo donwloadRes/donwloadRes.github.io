@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04 安装详细教程"
+title: "Ubuntu 1804 安装详细教程"
 date:   2023-04-11
 tags: [教程,安装,Ubuntu,18.04,分辨率]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt编写密钥生成器+使用Demo"
+title: "Qt编写密钥生成器使用Demo"
 date:   2022-12-01
 tags: [密钥,Qt,生成器,软件,生成]
 comments: true

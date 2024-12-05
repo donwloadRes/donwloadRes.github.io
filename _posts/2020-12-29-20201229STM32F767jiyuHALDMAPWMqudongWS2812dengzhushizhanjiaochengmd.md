@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F767基于HAL_DMA_PWM驱动WS2812灯珠实战教程"
+title: "STM32F767基于HALDMAPWM驱动WS2812灯珠实战教程"
 date:   2021-10-07
 tags: [DMA,PWM,STM32F767,HAL,WS2812]
 comments: true

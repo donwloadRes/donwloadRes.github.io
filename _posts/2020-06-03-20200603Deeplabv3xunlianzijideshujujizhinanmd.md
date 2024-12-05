@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deeplabv3+训练自己的数据集指南"
+title: "Deeplabv3训练自己的数据集指南"
 date:   2022-07-18
 tags: [Deeplabv3,训练,数据,模型,配置文件]
 comments: true

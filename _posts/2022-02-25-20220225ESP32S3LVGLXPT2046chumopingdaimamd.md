@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3 LVGL + XPT2046 触摸屏代码"
+title: "ESP32S3 LVGL  XPT2046 触摸屏代码"
 date:   2023-07-19
 tags: [ESP32,ESP,IDF,S3,触摸屏]
 comments: true

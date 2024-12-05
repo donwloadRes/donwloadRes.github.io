@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIFAR-10数据集详析与卷积神经网络图像分类模型训练"
+title: "CIFAR10数据集详析与卷积神经网络图像分类模型训练"
 date:   2024-08-20
 tags: [10,模型,CIFAR,图像,训练]
 comments: true

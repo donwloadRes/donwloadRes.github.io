@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK安装双击-管理员运行均无反应的问题及解决方法"
+title: "JDK安装双击管理员运行均无反应的问题及解决方法"
 date:   2024-07-28
 tags: [JDK,安装,运行,安装包,双击]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLP实战学习：基于Bertopic的新闻主题建模"
+title: "NLP实战学习基于Bertopic的新闻主题建模"
 date:   2024-11-22
 tags: [Bertopic,主题,建模,预处理,NLP]
 comments: true

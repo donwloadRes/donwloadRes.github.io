@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32和0.96寸OLED实现的贪吃蛇小游戏"
+title: "基于STM32和096寸OLED实现的贪吃蛇小游戏"
 date:   2020-07-11
 tags: [STM32,OLED,0.96,贪吃蛇,小游戏]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSIS开源安装程序制作软件使用详细步骤（Windows系统下）"
+title: "NSIS开源安装程序制作软件使用详细步骤Windows系统下"
 date:   2022-01-06
 tags: [NSIS,安装包,安装程序,软件,Windows]
 comments: true

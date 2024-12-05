@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sonarqube-7.7代码质量管理工具安装部署指南"
+title: "Sonarqube77代码质量管理工具安装部署指南"
 date:   2021-12-24
 tags: [Sonarqube,安装,7.7,数据库,MySQL]
 comments: true

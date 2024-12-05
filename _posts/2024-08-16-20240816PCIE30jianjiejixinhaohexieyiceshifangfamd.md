@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE3.0简介及信号和协议测试方法"
+title: "PCIE30简介及信号和协议测试方法"
 date:   2023-07-29
 tags: [PCIE,3.0,总线,测试方法,信号]
 comments: true

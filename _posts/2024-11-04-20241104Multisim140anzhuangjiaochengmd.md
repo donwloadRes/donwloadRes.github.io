@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim 14.0 安装教程"
+title: "Multisim 140 安装教程"
 date:   2024-06-26
 tags: [安装,Multisim14.0,点击,解压,文件夹]
 comments: true

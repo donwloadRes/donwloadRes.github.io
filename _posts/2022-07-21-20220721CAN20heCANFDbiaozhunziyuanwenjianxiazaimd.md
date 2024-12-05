@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN 2.0 和 CAN FD 标准资源文件下载"
+title: "CAN 20 和 CAN FD 标准资源文件下载"
 date:   2021-02-13
 tags: [2.0,FD,文件,标准,资源]
 comments: true

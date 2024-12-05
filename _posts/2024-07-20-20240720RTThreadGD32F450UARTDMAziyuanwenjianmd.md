@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread + GD32F450 + UART + DMA 资源文件"
+title: "RTThread  GD32F450  UART  DMA 资源文件"
 date:   2023-01-11
 tags: [DMA,串口,GD32F450,RT,Thread]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研发运营一体化DevOps能力成熟度模型评估(完整版)"
+title: "研发运营一体化DevOps能力成熟度模型评估完整版"
 date:   2020-03-02
 tags: [DevOps,运营,成熟度,模型,完整版]
 comments: true

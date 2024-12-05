@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amlogic USB 烧录工具 v2.2.4"
+title: "Amlogic USB 烧录工具 v224"
 date:   2023-04-14
 tags: [烧录,Amlogic,USB,v2.2,工具]
 comments: true

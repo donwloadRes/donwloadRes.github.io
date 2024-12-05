@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "STM32 HAL库 I2C读取AS5600编码器（不使用DMA版本）"
+title: "STM32 HAL库 I2C读取AS5600编码器不使用DMA版本
+date   20241006
+tags AS5600I2C编码器USERCODE
+comments true
+author admin
+
+ STM32 HAL库 I2C读取AS5600编码器不使用DMA版本
+
+ 简介
+
+本资源文件提供了一个基于STM32微控制器和HAL库的代码示例用于通过I2C接口读取AS5600磁性编码器的角度数据该示例代码不使用DMA直接内存访问适合初学者理解和学习I2C通信的基本原理
+
+ 功能描述
+
+ 硬件平台STM32微控制器
+ 通信接口I2C
+ 编码器型号AS5600
+ 功能通过I2C接口读取AS5600编码器的角度数据并将其转换为角度值和圈数
+
+ 代码结构
+
+ 包含的头文件
+
+c
+ USER CODE BEGIN Includes 
+include AS5600h"
 date:   2024-10-06
 tags: [AS5600,I2C,编码器,USER,CODE]
 comments: true

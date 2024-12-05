@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制（MPC）+逻辑控制-matlab代码"
+title: "模型预测控制MPC逻辑控制matlab代码"
 date:   2023-05-17
 tags: [控制,模型,预测,优化,代码]
 comments: true

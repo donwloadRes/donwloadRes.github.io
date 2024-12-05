@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.1 规范下载仓库"
+title: "USB 31 规范下载仓库"
 date:   2023-04-21
 tags: [USB,3.1,USB3.1,仓库,规范]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Qt 实现经典五子棋小游戏"
+title: "C Qt 实现经典五子棋小游戏"
 date:   2021-02-10
 tags: [对战,五子棋,Qt,人机,悔棋]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "汽车事件数据记录系统EDR》解读资源下载"
+title: "汽车事件数据记录系统EDR解读资源下载"
 date:   2024-05-01
 tags: [EDR,汽车,记录,事件,系统]
 comments: true

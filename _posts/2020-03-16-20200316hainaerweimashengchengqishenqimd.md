@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海纳二维码生成器（神器）"
+title: "海纳二维码生成器神器"
 date:   2023-01-14
 tags: [二维码,生成,Logo,生成器,海纳]
 comments: true

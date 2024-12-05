@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread Studio与CubeMX联合编程例程"
+title: "RTThread Studio与CubeMX联合编程例程"
 date:   2020-04-24
 tags: [RT,CubeMX,Thread,Studio,例程]
 comments: true

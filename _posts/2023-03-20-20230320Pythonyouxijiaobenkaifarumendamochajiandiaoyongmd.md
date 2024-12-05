@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python游戏脚本开发入门：大漠插件调用"
+title: "Python游戏脚本开发入门大漠插件调用"
 date:   2023-10-19
 tags: [大漠,插件,Python,调用,注册]
 comments: true

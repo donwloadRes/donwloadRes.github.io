@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 4.0 gradle-6.1.1-all.zip 下载速率太慢或失败解决办法"
+title: "Android Studio 40 gradle611allzip 下载速率太慢或失败解决办法"
 date:   2022-09-13
 tags: [Android,Studio,gradle,6.1,zip]
 comments: true

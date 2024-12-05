@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAI绘图软件 sai1 sai2百度云盘下载（附笔刷和教程）"
+title: "SAI绘图软件 sai1 sai2百度云盘下载附笔刷和教程"
 date:   2021-06-13
 tags: [SAI,教程,下载,软件,绘图]
 comments: true

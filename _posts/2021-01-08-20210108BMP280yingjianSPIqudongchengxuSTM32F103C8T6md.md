@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BMP280 硬件SPI驱动程序 - STM32F103C8T6"
+title: "BMP280 硬件SPI驱动程序  STM32F103C8T6"
 date:   2021-10-09
 tags: [SPI,BMP280,STM32F103C8T6,MDK,IAR]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS TCP C# 源码 -- 测试过汇川PLC"
+title: "MODBUS TCP C 源码  测试过汇川PLC"
 date:   2023-12-01
 tags: [00,06,示例,0A,1F]
 comments: true

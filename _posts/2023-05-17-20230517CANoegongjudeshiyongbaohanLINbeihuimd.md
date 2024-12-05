@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe工具的使用（包含LIN）-北汇"
+title: "CANoe工具的使用包含LIN北汇"
 date:   2021-07-16
 tags: [CANoe,LIN,工具,工程师,开发]
 comments: true

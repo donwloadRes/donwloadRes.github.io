@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stateflow教程 - 手把手教你入门Stateflow"
+title: "Stateflow教程  手把手教你入门Stateflow"
 date:   2022-05-31
 tags: [Stateflow,教程,MATLAB,手把手,学习]
 comments: true

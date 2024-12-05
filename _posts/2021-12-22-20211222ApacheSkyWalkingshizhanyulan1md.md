@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache SkyWalking 实战 - 预览1"
+title: "Apache SkyWalking 实战  预览1"
 date:   2022-06-21
 tags: [SkyWalking,Apache,预览,实战,服务]
 comments: true

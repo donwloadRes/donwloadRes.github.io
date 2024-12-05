@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USB虚拟串口驱动（支持Win10）"
+title: "STM32 USB虚拟串口驱动支持Win10"
 date:   2024-01-26
 tags: [驱动程序,Windows,STM32,串口,USB]
 comments: true

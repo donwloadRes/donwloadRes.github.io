@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IrisSkin4.dll：WinForm窗体换肤利器"
+title: "IrisSkin4dllWinForm窗体换肤利器"
 date:   2024-02-12
 tags: [皮肤,IrisSkin4,dll,应用,文件]
 comments: true

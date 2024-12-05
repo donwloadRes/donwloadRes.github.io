@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado 2019.1 安装包下载指南"
+title: "Vivado 20191 安装包下载指南"
 date:   2021-01-04
 tags: [安装包,Vivado,Vivado2019.1,22G,百度网]
 comments: true

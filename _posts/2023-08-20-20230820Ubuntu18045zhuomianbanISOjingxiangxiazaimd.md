@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 18.04.5 桌面版 ISO 镜像下载"
+title: "Ubuntu 18045 桌面版 ISO 镜像下载"
 date:   2024-03-29
 tags: [镜像,ISO,18.04,桌面版,Ubuntu]
 comments: true

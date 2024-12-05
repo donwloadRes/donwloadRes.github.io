@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beckhoff人机界面框架（C#）"
+title: "Beckhoff人机界面框架C"
 date:   2023-01-04
 tags: [TwinCAT,Beckhoff,框架,C#,HMI]
 comments: true

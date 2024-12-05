@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想EDU9.1软件 ISO下载"
+title: "联想EDU91软件 ISO下载"
 date:   2023-05-27
 tags: [EDU9.1,安装,ISO,系统,BIOS]
 comments: true

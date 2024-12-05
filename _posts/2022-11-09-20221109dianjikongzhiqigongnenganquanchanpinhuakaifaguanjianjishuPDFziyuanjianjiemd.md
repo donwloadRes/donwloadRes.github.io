@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电机控制器功能安全产品化开发关键技术》PDF资源简介"
+title: "电机控制器功能安全产品化开发关键技术PDF资源简介"
 date:   2020-05-15
 tags: [安全,控制器,功能,电机,关键技术]
 comments: true

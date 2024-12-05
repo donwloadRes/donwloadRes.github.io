@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌识别Matlab实现（包括字符模板）"
+title: "车牌识别Matlab实现包括字符模板"
 date:   2024-02-25
 tags: [车牌,字符,Matlab,识别,模板]
 comments: true

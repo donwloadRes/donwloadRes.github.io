@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【狂神说】Vue笔记（全部完整）资源仓库"
+title: "狂神说Vue笔记全部完整资源仓库"
 date:   2024-04-22
 tags: [Vue,狂神,笔记,Markdown,仓库]
 comments: true

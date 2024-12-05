@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103x8中文数据手册_V10"
+title: "STM32F103x8中文数据手册V10"
 date:   2020-12-02
 tags: [STM32F103x8,手册,V10,系列,本手册]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用PyTorch实现MNIST手写数字识别（最新，非常详细）"
+title: "用PyTorch实现MNIST手写数字识别最新非常详细"
 date:   2020-08-23
 tags: [PyTorch,模型,手写,训练,MNIST]
 comments: true

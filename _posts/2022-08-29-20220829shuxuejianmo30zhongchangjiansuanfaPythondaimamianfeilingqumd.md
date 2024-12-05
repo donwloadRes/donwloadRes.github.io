@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学建模30种常见算法Python代码免费领取！"
+title: "数学建模30种常见算法Python代码免费领取"
 date:   2024-09-19
 tags: [模型,算法,Python,建模,代码]
 comments: true

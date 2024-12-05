@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "好用的Studio One 6.6.1中文版 (Win&Mac)2024最新安装激活图文教程"
+title: "好用的Studio One 661中文版 WinMac2024最新安装激活图文教程"
 date:   2021-08-01
 tags: [Studio,激活,6.6,安装,Windows]
 comments: true

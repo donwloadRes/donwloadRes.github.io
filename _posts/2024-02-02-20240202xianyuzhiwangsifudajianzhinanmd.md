@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【咸鱼之王私服搭建指南】"
+title: "咸鱼之王私服搭建指南"
 date:   2022-12-21
 tags: [服务器,搭建,咸鱼,私服,之王]
 comments: true

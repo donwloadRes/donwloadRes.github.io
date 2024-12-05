@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEVC视频扩展 - 免费播放解决方案"
+title: "HEVC视频扩展  免费播放解决方案"
 date:   2021-02-23
 tags: [视频,HEVC,安装包,播放,安装]
 comments: true

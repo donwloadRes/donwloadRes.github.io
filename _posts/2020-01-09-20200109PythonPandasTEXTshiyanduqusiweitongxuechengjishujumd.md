@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Pandas TEXT 实验：读取四位同学成绩数据"
+title: "Python Pandas TEXT 实验读取四位同学成绩数据"
 date:   2021-05-01
 tags: [Pandas,pd,TXT,DataFrame,成绩]
 comments: true

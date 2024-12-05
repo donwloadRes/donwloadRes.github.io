@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE Base Specification Revision 4.0 V 1.0 资源下载"
+title: "PCIE Base Specification Revision 40 V 10 资源下载"
 date:   2020-11-16
 tags: [4.0,1.0,PDF,文件,PCIE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB-Blaster II 驱动程序 - FPGA下载器一键安装指南"
+title: "USBBlaster II 驱动程序  FPGA下载器一键安装指南"
 date:   2024-06-11
 tags: [安装,II,驱动程序,USB,Blaster]
 comments: true

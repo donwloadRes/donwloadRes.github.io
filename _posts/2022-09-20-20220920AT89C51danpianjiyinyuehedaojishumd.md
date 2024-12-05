@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AT89C51单片机音乐盒（倒计数）"
+title: "AT89C51单片机音乐盒倒计数"
 date:   2021-08-16
 tags: [倒计时,单片机,LCD,铃声,显示]
 comments: true

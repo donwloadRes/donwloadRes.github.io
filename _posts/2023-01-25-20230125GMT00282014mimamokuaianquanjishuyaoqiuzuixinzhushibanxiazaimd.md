@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GM-T 0028-2014 密码模块安全技术要求（最新注释版）下载"
+title: "GMT 00282014 密码模块安全技术要求最新注释版下载"
 date:   2021-05-14
 tags: [注释,文件,最新,模块,GM]
 comments: true

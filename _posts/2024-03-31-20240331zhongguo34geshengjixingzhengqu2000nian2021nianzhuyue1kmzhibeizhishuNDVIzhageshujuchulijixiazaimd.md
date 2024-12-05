@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国34个省级行政区2000年-2021年逐月1km植被指数NDVI栅格数据处理及下载"
+title: "中国34个省级行政区2000年2021年逐月1km植被指数NDVI栅格数据处理及下载"
 date:   2024-06-16
 tags: [NDVI,数据,2000,逐月,2021]
 comments: true

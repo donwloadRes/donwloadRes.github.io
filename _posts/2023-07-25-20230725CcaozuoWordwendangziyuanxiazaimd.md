@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#操作Word文档资源下载"
+title: "C操作Word文档资源下载"
 date:   2021-05-18
 tags: [文档,Word,C#,资源,开发者]
 comments: true

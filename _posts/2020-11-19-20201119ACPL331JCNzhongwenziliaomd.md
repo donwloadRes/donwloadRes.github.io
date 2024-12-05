@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ACPL-331J-CN中文资料"
+title: "ACPL331JCN中文资料"
 date:   2020-02-01
 tags: [ACPL,331J,CN,开发,中文]
 comments: true

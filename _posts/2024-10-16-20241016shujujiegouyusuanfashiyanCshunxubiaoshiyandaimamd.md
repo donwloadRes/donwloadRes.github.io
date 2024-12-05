@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法实验（C++）：顺序表实验-代码"
+title: "数据结构与算法实验C顺序表实验代码"
 date:   2024-10-05
 tags: [数据结构,C++,顺序,算法,实验]
 comments: true

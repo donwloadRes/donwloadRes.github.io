@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMBOK中文第六版(带目录) 资源文件介绍"
+title: "PMBOK中文第六版带目录 资源文件介绍"
 date:   2021-05-29
 tags: [第六版,项目管理,目录,PMBOK,文件]
 comments: true

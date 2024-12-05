@@ -1,6 +1,38 @@
 ---
 layout: post
-title: "停用词表 - 中英文 stopwords.txt"
+title: "停用词表  中英文 stopwordstxt
+date   20221126
+tags 用词stopwordstxt文本text
+comments true
+author admin
+
+ 停用词表  中英文 stopwordstxt
+
+欢迎使用本仓库提供的停用词表资源这份珍贵的数据集适用于广泛的自然语言处理NLP应用如文本挖掘情感分析影评数据分析新闻文本处理等场景停用词是指在信息检索和文本处理中被过滤掉的常用词汇因为它们通常不携带实际含义但对于提高数据处理效率和精炼语义有着重要作用
+
+ 资源详情
+
+ 文件名 stopwordstxt
+ 包含内容 该文件综合了中英文的停用词集合每一行代表一个停用词
+ 适用领域
+     自然语言处理NLP项目帮助减少噪声数据聚焦于文本的核心意义
+     影评数据分析通过剔除停用词来提取更有价值的情感表达信息
+     社交媒体分析理解公众意见时排除无特定意义的通用词语
+     新闻文本摘要提升自动化摘要的质量和效率
+
+ 使用方法
+
+1 下载 直接从本仓库下载stopwordstxt文件到您的项目中
+2 集成 在您的代码或程序中读取此文件将其停用词加载到内存中比如Python中可以使用列表或集合存储
+3 应用 在进行文本预处理步骤时遍历文本并过滤掉这些停用词这一步骤常见于分词文档向量化之前
+   
+ 示例代码Python
+
+python
+with openstopwordstxt r encodingutf8 as f
+    stopwords  setlinestrip for line in f
+    
+text  示例文本去除停用词进行处理"
 date:   2022-11-26
 tags: [用词,stopwords,txt,文本,text]
 comments: true

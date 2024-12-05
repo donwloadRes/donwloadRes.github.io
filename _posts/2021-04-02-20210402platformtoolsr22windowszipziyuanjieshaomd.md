@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "platform-tools_r22-windows.zip 资源介绍"
+title: "platformtoolsr22windowszip 资源介绍"
 date:   2022-01-07
 tags: [platform,tools,r22,windows,zip]
 comments: true

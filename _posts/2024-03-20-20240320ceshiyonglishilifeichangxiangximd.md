@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试用例实例 - 非常详细"
+title: "测试用例实例  非常详细"
 date:   2022-01-10
 tags: [测试用例,测试,示例,实例,仓库]
 comments: true

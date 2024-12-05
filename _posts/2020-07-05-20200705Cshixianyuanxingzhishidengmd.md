@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#实现圆形指示灯"
+title: "C实现圆形指示灯"
 date:   2020-08-30
 tags: [指示灯,编译器,编译,圆形,项目]
 comments: true

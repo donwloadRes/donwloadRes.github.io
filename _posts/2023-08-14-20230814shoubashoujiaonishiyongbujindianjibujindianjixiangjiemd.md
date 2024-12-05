@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你使用步进电机（步进电机详解）"
+title: "手把手教你使用步进电机步进电机详解"
 date:   2021-01-19
 tags: [步进,电机,指南,控制,文件]
 comments: true

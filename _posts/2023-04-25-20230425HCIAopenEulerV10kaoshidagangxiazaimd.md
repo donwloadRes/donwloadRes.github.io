@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-openEuler_V1.0 考试大纲下载"
+title: "HCIAopenEulerV10 考试大纲下载"
 date:   2022-05-29
 tags: [openEuler,HCIA,考试,V1.0,文件]
 comments: true

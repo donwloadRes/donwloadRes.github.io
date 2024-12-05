@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVM下载安装及使用、Node环境变量的配置"
+title: "NVM下载安装及使用Node环境变量的配置"
 date:   2024-06-05
 tags: [Node,js,NVM,版本,bash]
 comments: true

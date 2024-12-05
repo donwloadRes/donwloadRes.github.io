@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "提取游戏Limbus Company》(边狱公司）内素材"
+title: "提取游戏Limbus Company边狱公司内素材"
 date:   2023-11-28
 tags: [素材,游戏,提取,文件,Limbus]
 comments: true

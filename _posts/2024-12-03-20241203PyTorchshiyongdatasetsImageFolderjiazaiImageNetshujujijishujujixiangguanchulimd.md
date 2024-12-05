@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch使用datasets.ImageFolder加载ImageNet数据集及数据集相关处理"
+title: "PyTorch使用datasetsImageFolder加载ImageNet数据集及数据集相关处理"
 date:   2022-02-03
 tags: [transforms,datasets,ImageNet,data,ImageFolder]
 comments: true

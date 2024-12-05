@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi 安装和设置指南（VMware vSphere 7.0， VMware ESXi 7.0）"
+title: "VMware ESXi 安装和设置指南VMware vSphere 70 VMware ESXi 70"
 date:   2022-07-05
 tags: [VMware,ESXi,7.0,安装,配置]
 comments: true

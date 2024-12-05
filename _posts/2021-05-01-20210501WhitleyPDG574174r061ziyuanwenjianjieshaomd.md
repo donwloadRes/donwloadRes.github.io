@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whitley_PDG574174_r0_61 资源文件介绍"
+title: "WhitleyPDG574174r061 资源文件介绍"
 date:   2020-04-26
 tags: [Intel,文件,Whitley,PDG574174,r0]
 comments: true

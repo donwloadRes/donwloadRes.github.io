@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MiniPascal编译器-西工大编译原理实验"
+title: "MiniPascal编译器西工大编译原理实验"
 date:   2021-08-27
 tags: [Begin,End,编译器,编译,10]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "半导体物理学第7版答案 - 刘恩科等编著"
+title: "半导体物理学第7版答案  刘恩科等编著"
 date:   2021-01-06
 tags: [半导体,答案,物理学,刘恩科,学习]
 comments: true

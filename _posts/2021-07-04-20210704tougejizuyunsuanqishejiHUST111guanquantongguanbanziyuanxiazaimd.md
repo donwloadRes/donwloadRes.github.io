@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌计组运算器设计(HUST) 1-11关全通关版资源下载"
+title: "头歌计组运算器设计HUST 111关全通关版资源下载"
 date:   2022-06-12
 tags: [设计,关卡,运算器,加法器,乘法器]
 comments: true

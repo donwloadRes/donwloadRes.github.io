@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "arm-linux-gcc-4.5.1 安装方法"
+title: "armlinuxgcc451 安装方法"
 date:   2023-09-02
 tags: [arm,4.5,linux,gcc,usr]
 comments: true

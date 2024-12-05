@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "艾略特波浪理论-20周年纪念版"
+title: "艾略特波浪理论20周年纪念版"
 date:   2021-04-09
 tags: [波浪理论,艾略特,20,周年纪念,文件]
 comments: true

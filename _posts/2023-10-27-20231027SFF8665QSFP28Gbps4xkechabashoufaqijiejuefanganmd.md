@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8665: QSFP+ 28 Gbps 4x可插拔收发器解决方案"
+title: "SFF8665 QSFP 28 Gbps 4x可插拔收发器解决方案"
 date:   2024-11-07
 tags: [QSFP,28,收发器,QSFP28,数据传输]
 comments: true

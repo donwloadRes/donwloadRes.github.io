@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Radon-傅里叶变换在雷达目标检测中的应用"
+title: "Radon傅里叶变换在雷达目标检测中的应用"
 date:   2022-06-05
 tags: [Radon,变换,目标,雷达,Fourier]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子D7-SYS多版本软件资源库"
+title: "西门子D7SYS多版本软件资源库"
 date:   2021-10-22
 tags: [D7,SYS,版本,软件,西门子]
 comments: true

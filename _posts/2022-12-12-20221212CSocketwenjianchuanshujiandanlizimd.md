@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 文件传输简单例子"
+title: "C Socket 文件传输简单例子"
 date:   2021-10-25
 tags: [文件传输,文件,C#,Socket,byte]
 comments: true

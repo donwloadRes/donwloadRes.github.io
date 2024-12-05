@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTDCustomerTool_V3.6 资源文件介绍"
+title: "RTDCustomerToolV36 资源文件介绍"
 date:   2021-06-03
 tags: [烧录,显示器,V3.6,IC,RTDCustomerTool]
 comments: true

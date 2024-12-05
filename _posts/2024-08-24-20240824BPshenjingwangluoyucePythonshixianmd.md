@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络预测（Python实现）"
+title: "BP神经网络预测Python实现"
 date:   2022-09-26
 tags: [神经网络,BP,Python,代码,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 数据分析与可视化：获取资源并付诸实践"
+title: "Python 数据分析与可视化获取资源并付诸实践"
 date:   2020-07-02
 tags: [可视化,直方图,数据,Python,读物]
 comments: true

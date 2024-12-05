@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinsCPPwd - 快速找回WinSCP保存的密码工具"
+title: "WinsCPPwd  快速找回WinSCP保存的密码工具"
 date:   2020-05-28
 tags: [WinSCP,密码,工具,WinsCPPwd,Ini]
 comments: true

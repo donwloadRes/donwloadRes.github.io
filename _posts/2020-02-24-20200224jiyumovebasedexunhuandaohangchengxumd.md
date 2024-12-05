@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于move_base的循环导航程序"
+title: "基于movebase的循环导航程序"
 date:   2023-05-25
 tags: [导航,ROS,move,base,循环]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 黑色主题配置文件"
+title: "Source Insight 40 黑色主题配置文件"
 date:   2023-09-07
 tags: [Source,Insight,配置文件,4.0,Visual]
 comments: true

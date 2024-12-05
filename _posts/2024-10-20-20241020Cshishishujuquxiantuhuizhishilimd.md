@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实时数据曲线图绘制示例"
+title: "C 实时数据曲线图绘制示例"
 date:   2021-08-15
 tags: [实时,数据,绘制,曲线图,项目]
 comments: true

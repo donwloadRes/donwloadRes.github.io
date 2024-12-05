@@ -1,6 +1,27 @@
 ---
 layout: post
-title: "Mac M1 版本下载 Java JDK 1.8 详细指南"
+title: "Mac M1 版本下载 Java JDK 18 详细指南
+date   20230311
+tags JDKJAVAHOME配置文件Java
+comments true
+author admin
+
+ Mac M1 版本下载 Java JDK 18 详细指南
+
+本仓库提供了一个详细的指南帮助你在 Mac M1 设备上下载并安装 Java JDK 18 版本该指南分为十个步骤涵盖了从下载到配置环境变量的全过程
+
+ 指南内容概述
+
+1 下载 Zulu JDK从指定网盘下载 Zulu JDK 18 版本
+2 安装 JDK按照提示完成 JDK 的安装
+3 打开终端使用快捷键 Command  空格 打开终端
+4 查看 JDK 路径通过命令 usrlibexecjavahome V 查看已安装的 JDK 路径
+5 复制 JDK 路径找到并复制 JDK 的安装路径
+6 编辑 Shell 配置文件使用命令 open e zshrc 打开并编辑 Shell 配置文件
+7 设置 JAVAHOME在配置文件中添加或更新以下行来设置 JAVAHOME
+   bash
+   export JAVAHOME复制的JDK路径
+   export PATHJAVAHOMEbinPATH"
 date:   2023-03-11
 tags: [JDK,JAVA,HOME,配置文件,Java]
 comments: true

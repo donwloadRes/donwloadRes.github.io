@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络安全技术》练习与思考题解答"
+title: "网络安全技术练习与思考题解答"
 date:   2022-11-14
 tags: [网络安全,思考题,解答,刘化君,练习]
 comments: true

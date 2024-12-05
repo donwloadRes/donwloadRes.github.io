@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE1801标准（UPF）资源下载"
+title: "IEEE1801标准UPF资源下载"
 date:   2023-04-02
 tags: [UPF,低功耗,设计,文件,IEEE1801]
 comments: true

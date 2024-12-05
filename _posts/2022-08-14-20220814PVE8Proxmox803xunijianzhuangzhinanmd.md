@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PVE 8 Proxmox 8.0.3 虚拟机安装指南"
+title: "PVE 8 Proxmox 803 虚拟机安装指南"
 date:   2020-02-28
 tags: [虚拟机,PVE,安装,Proxmox,8.0]
 comments: true

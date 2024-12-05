@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漏洞扫描神器：Netsparker 保姆级教程"
+title: "漏洞扫描神器Netsparker 保姆级教程"
 date:   2020-04-25
 tags: [Netsparker,扫描,安全漏洞,网络安全,Web]
 comments: true

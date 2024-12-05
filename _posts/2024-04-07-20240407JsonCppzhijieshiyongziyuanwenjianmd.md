@@ -1,6 +1,29 @@
 ---
 layout: post
-title: "JsonCpp 直接使用资源文件"
+title: "JsonCpp 直接使用资源文件
+date   20221108
+tags JsonCppcpp文件源文件头文件
+comments true
+author admin
+
+ JsonCpp 直接使用资源文件
+
+ 简介
+
+本仓库提供了一个已经生成好的 JsonCpp 资源文件包含可以直接使用的头文件hpp和源文件cpp无需复杂的编译步骤只需将这些文件包含到你的项目中即可轻松集成 JsonCpp 功能
+
+ 资源内容
+
+ 头文件hpp包含了 JsonCpp 的所有接口定义可以直接在你的项目中使用
+ 源文件cpp包含了 JsonCpp 的实现代码确保功能的完整性和正确性
+
+ 使用方法
+
+1 下载本仓库中的所有文件
+2 将头文件hpp和源文件cpp复制到你的项目目录中
+3 在你的项目代码中包含头文件例如
+   cpp
+   include jsonhpp"
 date:   2022-11-08
 tags: [JsonCpp,cpp,文件,源文件,头文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "公司信息系统运维管理制度（18P）"
+title: "公司信息系统运维管理制度18P"
 date:   2021-01-12
 tags: [运维,管理,信息系统,流程化,企业]
 comments: true

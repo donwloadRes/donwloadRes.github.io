@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "租房合同模板 - 完整版 正式版"
+title: "租房合同模板  完整版 正式版"
 date:   2020-05-01
 tags: [模板,合同,租房,条款,双方]
 comments: true

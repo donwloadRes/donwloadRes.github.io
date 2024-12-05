@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFDM中降低PAPR的两种方法：SLM和PTS"
+title: "OFDM中降低PAPR的两种方法SLM和PTS"
 date:   2021-08-26
 tags: [PAPR,SLM,PTS,仿真,OFDM]
 comments: true

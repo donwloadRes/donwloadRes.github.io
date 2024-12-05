@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机安装指南（附安装包+激活秘钥）"
+title: "虚拟机安装指南附安装包激活秘钥"
 date:   2024-09-04
 tags: [虚拟机,激活,安装包,秘钥,安装]
 comments: true

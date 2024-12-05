@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OrCAD Capture CIS 17.4生成PDF文件指南"
+title: "OrCAD Capture CIS 174生成PDF文件指南"
 date:   2021-06-30
 tags: [PDF,Ghostscript,Capture,CIS,书签]
 comments: true

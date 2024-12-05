@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大恒双相机C++ QT工程文件"
+title: "大恒双相机C QT工程文件"
 date:   2021-07-29
 tags: [文件,相机,大恒双,QT,工程]
 comments: true

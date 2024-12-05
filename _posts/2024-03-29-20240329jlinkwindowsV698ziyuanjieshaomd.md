@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jlink-windows-V698 资源介绍"
+title: "jlinkwindowsV698 资源介绍"
 date:   2021-06-13
 tags: [Link,V698,固件,jlink,windows]
 comments: true

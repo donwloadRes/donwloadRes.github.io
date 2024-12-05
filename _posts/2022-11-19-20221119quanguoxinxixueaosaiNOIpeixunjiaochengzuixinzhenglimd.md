@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国信息学奥赛NOI培训教程（最新整理）"
+title: "全国信息学奥赛NOI培训教程最新整理"
 date:   2022-12-03
 tags: [信息学,NOI,教程,奥赛,算法]
 comments: true

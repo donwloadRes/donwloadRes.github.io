@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英伟达NeRF项目Instant-ngp在Windows下的部署及数据集制作指南"
+title: "英伟达NeRF项目Instantngp在Windows下的部署及数据集制作指南"
 date:   2021-08-28
 tags: [Instant,ngp,NeRF,部署,伟达]
 comments: true

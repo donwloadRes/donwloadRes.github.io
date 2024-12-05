@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Gh0st3.8修改编译成功的远程控制源代码"
+title: "基于Gh0st38修改编译成功的远程控制源代码"
 date:   2021-01-23
 tags: [源代码,编译,Gh0st3.8,远程,资源]
 comments: true

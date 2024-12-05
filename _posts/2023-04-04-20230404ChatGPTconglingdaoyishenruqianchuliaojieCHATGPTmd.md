@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT 从零到一：深入浅出了解CHATGPT"
+title: "ChatGPT 从零到一深入浅出了解CHATGPT"
 date:   2024-07-29
 tags: [ChatGPT,CHATGPT,PPT,深入浅出,零到]
 comments: true

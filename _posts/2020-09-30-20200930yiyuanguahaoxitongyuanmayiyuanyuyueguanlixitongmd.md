@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医院挂号系统源码 - 医院预约管理系统"
+title: "医院挂号系统源码  医院预约管理系统"
 date:   2024-01-08
 tags: [医院,系统,源码,测试数据,挂号]
 comments: true

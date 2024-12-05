@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AES加密工具（ECB, CBC, CMAC）"
+title: "AES加密工具ECB CBC CMAC"
 date:   2022-04-06
 tags: [加密,AES,CMAC,模式,CBC]
 comments: true

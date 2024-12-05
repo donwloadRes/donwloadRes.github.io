@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网毕设 -- 智能头盔（STM32+APP+云平台）"
+title: "物联网毕设  智能头盔STM32APP云平台"
 date:   2024-11-19
 tags: [传感器,APP,GPS,设备,检测]
 comments: true

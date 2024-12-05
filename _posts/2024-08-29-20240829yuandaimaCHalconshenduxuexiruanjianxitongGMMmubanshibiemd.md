@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "源代码C#、Halcon深度学习软件系统 - GMM模板识别"
+title: "源代码CHalcon深度学习软件系统  GMM模板识别"
 date:   2020-03-05
 tags: [Halcon,C#,模板,源代码,深度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "远程执行代码漏洞(CVE-2018-0886)漏洞修复资源下载"
+title: "远程执行代码漏洞CVE20180886漏洞修复资源下载"
 date:   2024-08-11
 tags: [修复,漏洞,文件,CVE,2018]
 comments: true

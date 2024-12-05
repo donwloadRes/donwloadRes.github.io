@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIP协议解析与实现(C-C++)资源文件介绍"
+title: "SIP协议解析与实现CC资源文件介绍"
 date:   2023-02-07
 tags: [SIP,协议,C++,实现,osip]
 comments: true

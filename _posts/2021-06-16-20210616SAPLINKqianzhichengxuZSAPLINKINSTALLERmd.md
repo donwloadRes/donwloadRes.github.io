@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAPLINK前置程序: ZSAPLINK-INSTALLER"
+title: "SAPLINK前置程序 ZSAPLINKINSTALLER"
 date:   2024-10-05
 tags: [SAP,SAPLINK,ZSAPLINK,INSTALLER,源代码]
 comments: true

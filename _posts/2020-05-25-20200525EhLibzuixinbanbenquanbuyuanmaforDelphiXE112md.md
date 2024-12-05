@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EhLib 最新版本全部源码 for DelphiXE 11.2"
+title: "EhLib 最新版本全部源码 for DelphiXE 112"
 date:   2022-11-12
 tags: [Delphi,EhLib,版本,源码,11.2]
 comments: true

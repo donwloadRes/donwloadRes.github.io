@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德州仪器（TI）2013校园招聘模拟基础笔试题"
+title: "德州仪器TI2013校园招聘模拟基础笔试题"
 date:   2021-12-18
 tags: [TI,笔试,德州仪器,2013,资源]
 comments: true

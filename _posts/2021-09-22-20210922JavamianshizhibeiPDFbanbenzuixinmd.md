@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java 面试指北 PDF 版本（最新）"
+title: "Java 面试指北 PDF 版本最新"
 date:   2021-07-15
 tags: [面试,Java,PDF,指北,资源]
 comments: true

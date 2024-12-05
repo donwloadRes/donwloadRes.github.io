@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++多项式曲线拟合函数"
+title: "C多项式曲线拟合函数"
 date:   2022-10-05
 tags: [曲线拟合,多项式,C++,文件,拟合]
 comments: true

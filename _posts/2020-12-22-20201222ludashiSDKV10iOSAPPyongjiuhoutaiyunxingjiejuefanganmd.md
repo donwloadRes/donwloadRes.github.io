@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "撸大师SDK V1.0 - iOS APP永久后台运行解决方案"
+title: "撸大师SDK V10  iOS APP永久后台运行解决方案"
 date:   2023-02-16
 tags: [SDK,后台,iOS,应用,运行]
 comments: true

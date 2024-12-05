@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PB9转换utf-8例子"
+title: "PB9转换utf8例子"
 date:   2021-03-20
 tags: [PB9,转换,示例,utf,ADODB]
 comments: true

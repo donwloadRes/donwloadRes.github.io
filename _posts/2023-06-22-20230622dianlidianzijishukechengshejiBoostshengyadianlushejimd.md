@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术课程设计——Boost升压电路设计"
+title: "电力电子技术课程设计Boost升压电路设计"
 date:   2021-02-13
 tags: [设计,PCB,电路,课程设计,电路设计]
 comments: true

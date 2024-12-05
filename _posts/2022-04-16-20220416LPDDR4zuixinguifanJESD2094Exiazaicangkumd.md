@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPDDR4 最新规范 - JESD209-4E 下载仓库"
+title: "LPDDR4 最新规范  JESD2094E 下载仓库"
 date:   2021-11-10
 tags: [LPDDR4,JESD209,4E,规范,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IRIG-B编码资源文件介绍"
+title: "IRIGB编码资源文件介绍"
 date:   2023-06-26
 tags: [IRIG,编码,原作者,STM32C8T6,文档]
 comments: true

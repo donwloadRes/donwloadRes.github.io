@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#教程PPT完整版"
+title: "C教程PPT完整版"
 date:   2024-07-11
 tags: [C#,PPT,编程,完整版,教程]
 comments: true

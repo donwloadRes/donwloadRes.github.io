@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信原理实验：LabVIEW高斯白噪声实验"
+title: "通信原理实验LabVIEW高斯白噪声实验"
 date:   2024-06-12
 tags: [噪声,图像,LabVIEW,高斯,实验]
 comments: true

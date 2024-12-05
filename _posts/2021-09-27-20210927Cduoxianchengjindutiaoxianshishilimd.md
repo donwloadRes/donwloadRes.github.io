@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 多线程进度条显示示例"
+title: "C 多线程进度条显示示例"
 date:   2024-04-04
 tags: [进度条,示例,多线程,C#,显示]
 comments: true

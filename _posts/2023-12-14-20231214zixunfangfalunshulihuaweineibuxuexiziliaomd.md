@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "咨询方法论梳理(华为内部学习资料)"
+title: "咨询方法论梳理华为内部学习资料"
 date:   2024-02-09
 tags: [方法论,咨询,华为,学习,文件]
 comments: true

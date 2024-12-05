@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Burp Suite 入门篇 —— 介绍与安装"
+title: "Burp Suite 入门篇  介绍与安装"
 date:   2020-05-19
 tags: [Burp,Suite,安装,测试,Web]
 comments: true

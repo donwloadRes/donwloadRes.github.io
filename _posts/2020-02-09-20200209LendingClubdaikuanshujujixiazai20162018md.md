@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lending Club贷款数据集下载（2016-2018）"
+title: "Lending Club贷款数据集下载20162018"
 date:   2020-08-22
 tags: [数据,2016,2018,下载,贷款]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best HTTP2 2.6.3 资源文件"
+title: "Best HTTP2 263 资源文件"
 date:   2020-10-26
 tags: [Socket,IO,文件,资源,2.6]
 comments: true

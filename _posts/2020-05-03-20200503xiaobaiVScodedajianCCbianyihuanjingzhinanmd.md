@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白VScode搭建 C-C++ 编译环境指南"
+title: "小白VScode搭建 CC 编译环境指南"
 date:   2023-06-28
 tags: [C++,VSCode,编译,编译器,指南]
 comments: true

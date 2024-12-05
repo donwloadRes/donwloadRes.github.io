@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OFDM仿真(Matlab)完整可运行资源介绍"
+title: "OFDM仿真Matlab完整可运行资源介绍"
 date:   2022-02-05
 tags: [OFDM,Matlab,信道,仿真,编码]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络变压器原理、主要参数及作用"
+title: "网络变压器原理主要参数及作用"
 date:   2022-01-23
 tags: [变压器,网络,主要参数,原理,文件]
 comments: true

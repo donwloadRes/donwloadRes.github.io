@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F103单片机的气象站PM2.5监测温湿度监测大气压监测"
+title: "基于STM32F103单片机的气象站PM25监测温湿度监测大气压监测"
 date:   2024-02-29
 tags: [PM2.5,传感器,监测,实时,大气压]
 comments: true

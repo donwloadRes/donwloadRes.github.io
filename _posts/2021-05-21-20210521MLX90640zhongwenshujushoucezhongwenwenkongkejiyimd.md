@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MLX90640中文数据手册（中文-稳控科技译）"
+title: "MLX90640中文数据手册中文稳控科技译"
 date:   2023-09-22
 tags: [中文,手册,MLX90640,稳控,邮箱]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGpt桌面应用指南 - 适用于Windows与Mac双系统"
+title: "ChatGpt桌面应用指南  适用于Windows与Mac双系统"
 date:   2023-12-17
 tags: [ChatGPT,桌面,Windows,Mac,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python数据分析实战：用户评论情感倾向分析"
+title: "Python数据分析实战用户评论情感倾向分析"
 date:   2020-02-19
 tags: [评论,情感,用户,分词,分析]
 comments: true

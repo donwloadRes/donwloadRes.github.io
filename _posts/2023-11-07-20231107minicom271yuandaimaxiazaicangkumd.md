@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "minicom-2.7.1 源代码下载仓库"
+title: "minicom271 源代码下载仓库"
 date:   2024-02-18
 tags: [minicom,2.7,源代码,串口,tar]
 comments: true

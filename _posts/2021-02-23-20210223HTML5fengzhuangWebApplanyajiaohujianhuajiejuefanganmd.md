@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTML5封装WebApp: 蓝牙交互简化解决方案"
+title: "HTML5封装WebApp 蓝牙交互简化解决方案"
 date:   2021-04-28
 tags: [蓝牙,设备,WebApp,特征值,应用]
 comments: true

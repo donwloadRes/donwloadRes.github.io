@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB调试助手2.0 资源下载"
+title: "USB调试助手20 资源下载"
 date:   2021-11-22
 tags: [USB,调试,2.0,助手,20191108]
 comments: true

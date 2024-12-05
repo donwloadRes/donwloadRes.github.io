@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C 和 C++ 项目的简单 Makefile"
+title: "C 和 C 项目的简单 Makefile"
 date:   2023-05-29
 tags: [Makefile,DIR,文件目录,编译器,源文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Systemverilog+UVM搭建SOC验证环境"
+title: "SystemverilogUVM搭建SOC验证环境"
 date:   2022-09-21
 tags: [验证,UVM,SOC,SystemVerilog,搭建]
 comments: true

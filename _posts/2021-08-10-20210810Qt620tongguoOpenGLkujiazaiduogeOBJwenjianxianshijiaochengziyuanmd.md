@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt6.2.0 通过OpenGL库加载多个OBJ文件显示教程资源"
+title: "Qt620 通过OpenGL库加载多个OBJ文件显示教程资源"
 date:   2020-01-27
 tags: [OpenGL,OBJ,加载,文件,教程]
 comments: true

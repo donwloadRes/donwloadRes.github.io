@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AZ-900 认证考试 422题 资源下载"
+title: "AZ900 认证考试 422题 资源下载"
 date:   2020-10-26
 tags: [AZ,900,422,认证,考试]
 comments: true

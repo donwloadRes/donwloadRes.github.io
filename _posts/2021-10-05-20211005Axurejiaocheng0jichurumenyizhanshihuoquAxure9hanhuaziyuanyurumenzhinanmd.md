@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Axure教程0基础入门】- 一站式获取Axure9汉化资源与入门指南"
+title: "Axure教程0基础入门 一站式获取Axure9汉化资源与入门指南"
 date:   2024-07-10
 tags: [Axure,汉化,教程,RP,安装]
 comments: true

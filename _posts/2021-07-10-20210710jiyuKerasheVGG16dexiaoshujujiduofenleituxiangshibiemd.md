@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Keras和VGG-16的小数据集多分类图像识别"
+title: "基于Keras和VGG16的小数据集多分类图像识别"
 date:   2023-11-10
 tags: [VGG,16,数据,模型,图像]
 comments: true

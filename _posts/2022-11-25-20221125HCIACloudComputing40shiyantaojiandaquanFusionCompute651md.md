@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIA-Cloud Computing 4.0 实验套件大全 (FusionCompute 6.5.1)"
+title: "HCIACloud Computing 40 实验套件大全 FusionCompute 651"
 date:   2024-05-04
 tags: [6.5,FusionCompute,实验,HCIA,文件大小]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实用小技巧：电脑如何滚动截屏-截取长图"
+title: "实用小技巧电脑如何滚动截屏截取长图"
 date:   2021-06-01
 tags: [滚动,截屏,截图,FSCapture,截取]
 comments: true

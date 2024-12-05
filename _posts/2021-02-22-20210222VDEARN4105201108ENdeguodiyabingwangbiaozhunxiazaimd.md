@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VDE-AR-N 4105-2011-08（EN）德国低压并网标准下载"
+title: "VDEARN 4105201108EN德国低压并网标准下载"
 date:   2021-01-29
 tags: [VDE,AR,2011,低压,4105]
 comments: true

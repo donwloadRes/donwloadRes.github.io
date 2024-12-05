@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Server 2019搭建RemoteAPP+激活远程桌面服务"
+title: "Windows Server 2019搭建RemoteAPP激活远程桌面服务"
 date:   2024-11-26
 tags: [RemoteAPP,远程桌面,Windows,Server,激活]
 comments: true

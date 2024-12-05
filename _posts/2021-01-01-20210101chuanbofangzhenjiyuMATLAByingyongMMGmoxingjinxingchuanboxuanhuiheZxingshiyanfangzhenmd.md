@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "船舶仿真：基于MATLAB应用MMG模型进行船舶旋回和Z型实验仿真"
+title: "船舶仿真基于MATLAB应用MMG模型进行船舶旋回和Z型实验仿真"
 date:   2024-01-11
 tags: [仿真,船舶,旋回,MATLAB,代码]
 comments: true

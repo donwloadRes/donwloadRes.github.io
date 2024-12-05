@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEKLA 构件统计及清单(净重)文件使用指南"
+title: "TEKLA 构件统计及清单净重文件使用指南"
 date:   2023-08-03
 tags: [TEKLA,清单,构件,文件,软件]
 comments: true

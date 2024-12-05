@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ALINX ZYNQ AX7Z100开发平台基础教程 V1.01"
+title: "ALINX ZYNQ AX7Z100开发平台基础教程 V101"
 date:   2021-11-17
 tags: [ZYNQ,AX7Z100,开发,基础教程,开发板]
 comments: true

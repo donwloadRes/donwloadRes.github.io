@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django完全项目：结合前端Markdown编辑器的实战教程"
+title: "Django完全项目结合前端Markdown编辑器的实战教程"
 date:   2020-06-24
 tags: [Django,Markdown,编辑器,项目,数据库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北大青鸟通信接口卡协议2.1 资源下载"
+title: "北大青鸟通信接口卡协议21 资源下载"
 date:   2020-06-30
 tags: [2.1,青鸟,协议,文件,北大]
 comments: true

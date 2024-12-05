@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows XP 安装 Powershell 2.0 资源文件介绍"
+title: "Windows XP 安装 Powershell 20 资源文件介绍"
 date:   2022-05-22
 tags: [2.0,Powershell,Windows,安装,Framework]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shell脚本100例(最新版) - 资源下载"
+title: "Shell脚本100例最新版  资源下载"
 date:   2024-11-05
 tags: [Shell,脚本,运维,100,编写]
 comments: true

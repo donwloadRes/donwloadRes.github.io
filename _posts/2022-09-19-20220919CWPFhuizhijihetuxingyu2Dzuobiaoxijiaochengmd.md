@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF 绘制几何图形与2D坐标系教程"
+title: "C WPF 绘制几何图形与2D坐标系教程"
 date:   2020-11-13
 tags: [绘制,WPF,教程,几何图形,2D]
 comments: true

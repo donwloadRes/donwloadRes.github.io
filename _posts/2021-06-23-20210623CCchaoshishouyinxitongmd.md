@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++超市收银系统"
+title: "CC超市收银系统"
 date:   2020-11-15
 tags: [用户,退款,系统,收银,登录]
 comments: true

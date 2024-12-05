@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口设置及发送接收MODBUS数据程序"
+title: "C 串口设置及发送接收MODBUS数据程序"
 date:   2022-10-30
 tags: [串口,MODBUS,程序,数据,接收]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision5 注册机 v1.0 绿色通用版 使用指南及注册码"
+title: "Keil uVision5 注册机 v10 绿色通用版 使用指南及注册码"
 date:   2024-02-15
 tags: [注册机,Keil,uVision5,注册码,v1.0]
 comments: true

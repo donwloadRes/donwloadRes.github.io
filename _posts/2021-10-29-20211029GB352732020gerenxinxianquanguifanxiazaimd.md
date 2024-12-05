@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB35273-2020个人信息安全规范下载"
+title: "GB352732020个人信息安全规范下载"
 date:   2023-03-09
 tags: [信息安全,规范,2020,个人,个人信息]
 comments: true

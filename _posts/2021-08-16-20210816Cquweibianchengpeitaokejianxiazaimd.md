@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++趣味编程配套课件下载"
+title: "C趣味编程配套课件下载"
 date:   2020-02-17
 tags: [课件,编程,下载,C++,学习者]
 comments: true

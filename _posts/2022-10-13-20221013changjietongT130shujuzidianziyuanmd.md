@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "畅捷通T+13.0数据字典资源"
+title: "畅捷通T130数据字典资源"
 date:   2022-12-17
 tags: [字典,捷通,数据,13.0,系统维护]
 comments: true

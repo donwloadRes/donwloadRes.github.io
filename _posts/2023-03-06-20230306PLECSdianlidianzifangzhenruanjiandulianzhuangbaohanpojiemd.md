@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLECS电力电子仿真软件独立安装包（含破解）"
+title: "PLECS电力电子仿真软件独立安装包含破解"
 date:   2023-02-07
 tags: [破解,PLECS,软件,仿真,安装包]
 comments: true

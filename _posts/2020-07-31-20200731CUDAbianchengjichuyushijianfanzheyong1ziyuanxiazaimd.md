@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CUDA 编程：基础与实践_樊哲勇1 资源下载"
+title: "CUDA 编程基础与实践樊哲勇1 资源下载"
 date:   2024-04-27
 tags: [CUDA,编程,实践,资源,樊哲勇]
 comments: true

@@ -1,6 +1,96 @@
 ---
 layout: post
-title: "Linux安装JDK 8环境指南"
+title: "Linux安装JDK 8环境指南
+date   20201220
+tags JDKbash安装下载版本号
+comments true
+author admin
+
+ Linux安装JDK 8环境指南
+
+本仓库提供了一个详细的指南帮助你在Linux系统上安装JDK 8环境无论你是初学者还是有经验的开发者这份指南都将为你提供清晰的步骤和必要的命令确保你能够顺利完成JDK 8的安装
+
+ 内容概述
+
+1 环境准备
+    检查系统是否已安装JDK
+    卸载旧版本的JDK如果存在
+
+2 下载JDK 8
+    获取JDK 8的下载链接
+    使用命令行下载JDK 8
+
+3 安装JDK 8
+    解压下载的JDK 8压缩包
+    配置环境变量
+
+4 验证安装
+    检查JDK版本
+    确保Java命令可用
+
+ 使用步骤
+
+ 1 环境准备
+
+在开始安装之前首先检查系统是否已经安装了JDK你可以使用以下命令来检查
+
+bash
+java version
+
+
+如果系统已经安装了JDK并且你不需要旧版本的JDK可以使用以下命令卸载旧版本
+
+bash
+sudo aptget remove openjdk
+
+
+ 2 下载JDK 8
+
+访问Oracle官方网站或其他可信来源获取JDK 8的下载链接然后使用以下命令下载JDK 8
+
+bash
+wget JDK 8下载链接
+
+
+ 3 安装JDK 8
+
+下载完成后解压JDK 8压缩包
+
+bash
+tar zxvf jdk8u版本号linuxx64targz
+
+
+将解压后的文件夹移动到合适的目录例如usrlocal
+
+bash
+sudo mv jdk180版本号 usrlocal
+
+
+接下来配置环境变量编辑bashrc或zshrc文件添加以下内容
+
+bash
+export JAVAHOMEusrlocaljdk180版本号
+export PATHJAVAHOMEbinPATH
+
+
+保存并退出编辑器然后使配置生效
+
+bash
+source bashrc
+
+
+ 4 验证安装
+
+最后验证JDK 8是否安装成功使用以下命令检查JDK版本
+
+bash
+java version
+
+
+你应该会看到类似以下的输出
+
+
+java version 180版本号"
 date:   2020-12-20
 tags: [JDK,bash,安装,下载,版本号]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前沿：SpaceX星链VLEO星座介绍与仿真分析"
+title: "前沿SpaceX星链VLEO星座介绍与仿真分析"
 date:   2022-07-23
 tags: [星链,星座,SpaceX,VLEO,仿真]
 comments: true

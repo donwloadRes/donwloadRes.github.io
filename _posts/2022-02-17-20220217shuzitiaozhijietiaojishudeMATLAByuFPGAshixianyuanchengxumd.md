@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字调制解调技术的MATLAB与FPGA实现-源程序"
+title: "数字调制解调技术的MATLAB与FPGA实现源程序"
 date:   2022-07-20
 tags: [MATLAB,FPGA,解调,调制,数字]
 comments: true

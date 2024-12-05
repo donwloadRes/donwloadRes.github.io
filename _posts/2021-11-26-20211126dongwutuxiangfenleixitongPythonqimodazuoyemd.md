@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "动物图像分类系统——Python期末大作业"
+title: "动物图像分类系统Python期末大作业"
 date:   2024-06-10
 tags: [Python,py,模型,图像,分类]
 comments: true

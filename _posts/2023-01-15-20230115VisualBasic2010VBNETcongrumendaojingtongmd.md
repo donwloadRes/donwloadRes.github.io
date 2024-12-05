@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visual Basic 2010-VB.NET 从入门到精通"
+title: "Visual Basic 2010VBNET 从入门到精通"
 date:   2022-01-13
 tags: [NET,VB,Visual,Basic,2010]
 comments: true

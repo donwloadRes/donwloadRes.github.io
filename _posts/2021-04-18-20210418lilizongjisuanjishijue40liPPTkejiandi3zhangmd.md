@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李立宗计算机视觉40例》PPT课件：第3章"
+title: "李立宗计算机视觉40例PPT课件第3章"
 date:   2024-08-06
 tags: [视觉,PPT,计算机,40,学习]
 comments: true

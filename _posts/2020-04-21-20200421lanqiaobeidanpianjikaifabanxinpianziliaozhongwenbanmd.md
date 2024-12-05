@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "蓝桥杯单片机开发板芯片资料（中文版）"
+title: "蓝桥杯单片机开发板芯片资料中文版"
 date:   2023-08-05
 tags: [单片机,蓝桥,开发板,芯片,通信协议]
 comments: true

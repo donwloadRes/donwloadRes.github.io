@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLSQL 15.0.2 x64 免安装 集成Oracle驱动"
+title: "PLSQL 1502 x64 免安装 集成Oracle驱动"
 date:   2021-12-22
 tags: [Oracle,64,解压,安装,驱动]
 comments: true

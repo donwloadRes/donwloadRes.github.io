@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络流量数据集——Moore"
+title: "网络流量数据集Moore"
 date:   2022-04-23
 tags: [网络流量,数据,Moore,使用,采集]
 comments: true

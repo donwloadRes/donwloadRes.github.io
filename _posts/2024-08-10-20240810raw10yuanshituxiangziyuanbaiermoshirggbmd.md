@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "raw10原始图像资源 - 拜尔模式rggb"
+title: "raw10原始图像资源  拜尔模式rggb"
 date:   2020-09-09
 tags: [图像,raw10,图像处理,拜尔,rggb]
 comments: true

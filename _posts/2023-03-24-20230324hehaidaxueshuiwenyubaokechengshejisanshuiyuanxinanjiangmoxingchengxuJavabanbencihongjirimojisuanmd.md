@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "河海大学水文预报课程设计三水源新安江模型程序（Java版本，次洪及日模计算）"
+title: "河海大学水文预报课程设计三水源新安江模型程序Java版本次洪及日模计算"
 date:   2022-06-29
 tags: [课程设计,程序,Java,日模,解压缩]
 comments: true

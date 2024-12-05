@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简易版我的世界》材质图片资源"
+title: "简易版我的世界材质图片资源"
 date:   2020-06-04
 tags: [材质,图片,git,your,bash]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.7 驱动程序 JAR 包下载"
+title: "MySQL 57 驱动程序 JAR 包下载"
 date:   2020-07-22
 tags: [5.7,驱动程序,MySQL,JAR,mysql]
 comments: true

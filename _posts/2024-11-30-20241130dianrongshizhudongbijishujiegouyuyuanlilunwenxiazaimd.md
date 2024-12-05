@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电容式主动笔技术结构与原理 - 论文下载"
+title: "电容式主动笔技术结构与原理  论文下载"
 date:   2021-07-27
 tags: [电容式,论文,主动,原理,技术]
 comments: true

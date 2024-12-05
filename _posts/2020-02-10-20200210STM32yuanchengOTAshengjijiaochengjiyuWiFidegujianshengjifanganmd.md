@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 远程OTA升级教程：基于WiFi的固件升级方案"
+title: "STM32 远程OTA升级教程基于WiFi的固件升级方案"
 date:   2022-04-10
 tags: [固件,升级,STM32,WiFi,服务器]
 comments: true

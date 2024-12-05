@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电信机顶盒ty1208-z刷Armbian教程"
+title: "电信机顶盒ty1208z刷Armbian教程"
 date:   2022-05-25
 tags: [Armbian,机顶盒,ADB,镜像文件,启动盘]
 comments: true

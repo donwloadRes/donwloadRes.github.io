@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视iSecure Center综合安防管理平台-视频联网网关(NCG)用户手册"
+title: "海康威视iSecure Center综合安防管理平台视频联网网关NCG用户手册"
 date:   2023-06-14
 tags: [网关,视频,联网,资源,用户]
 comments: true

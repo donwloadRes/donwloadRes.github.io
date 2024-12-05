@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GT911触摸屏驱动代码(ALIENTEK-MD0700R V1.4)"
+title: "GT911触摸屏驱动代码ALIENTEKMD0700R V14"
 date:   2020-03-29
 tags: [触摸屏,GT911,STM32H743,TouchGFX,代码]
 comments: true

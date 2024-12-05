@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UVM 1.2 源码下载仓库"
+title: "UVM 12 源码下载仓库"
 date:   2020-09-22
 tags: [源码,UVM,验证,硬件,1.2]
 comments: true

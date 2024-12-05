@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP与川崎机器人通信"
+title: "C TCP与川崎机器人通信"
 date:   2020-02-03
 tags: [川崎,机器人,通信,C#,TCP]
 comments: true

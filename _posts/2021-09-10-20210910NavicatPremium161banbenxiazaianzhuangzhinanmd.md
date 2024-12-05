@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 16.1版本下载安装指南"
+title: "Navicat Premium 161版本下载安装指南"
 date:   2022-07-14
 tags: [Navicat,Premium,16.1,版本,安装]
 comments: true

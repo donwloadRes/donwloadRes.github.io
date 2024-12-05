@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intel IPP 使用手册 - Volume 1: Signal Processing"
+title: "Intel IPP 使用手册  Volume 1 Signal Processing"
 date:   2020-10-17
 tags: [Intel,IPP,信号处理,手册,使用手册]
 comments: true

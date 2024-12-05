@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应卡尔曼滤波算法 AKF.zip 资源介绍"
+title: "自适应卡尔曼滤波算法 AKFzip 资源介绍"
 date:   2020-11-10
 tags: [卡尔曼滤波,算法,适应,示例,AKF]
 comments: true

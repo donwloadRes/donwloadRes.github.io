@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你激活StudioOne6中文下载，安装和激活保姆级教程"
+title: "手把手教你激活StudioOne6中文下载安装和激活保姆级教程"
 date:   2024-03-31
 tags: [教程,激活,StudioOne6,正版,安装]
 comments: true

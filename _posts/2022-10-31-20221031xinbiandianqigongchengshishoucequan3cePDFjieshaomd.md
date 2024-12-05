@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新编电气工程师手册》全3册 [PDF] 介绍"
+title: "新编电气工程师手册全3册 PDF 介绍"
 date:   2020-03-12
 tags: [电气工程师,手册,电气工程,PDF,新编]
 comments: true

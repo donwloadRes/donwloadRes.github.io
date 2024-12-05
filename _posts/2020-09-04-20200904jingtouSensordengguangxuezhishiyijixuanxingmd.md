@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "镜头-Sensor等光学知识以及选型"
+title: "镜头Sensor等光学知识以及选型"
 date:   2023-09-13
 tags: [Sensor,镜头,光学,选型,知识]
 comments: true

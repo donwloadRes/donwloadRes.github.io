@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验报告2：连续时间信号的频域分析"
+title: "实验报告2连续时间信号的频域分析"
 date:   2022-06-14
 tags: [频域,实验,实验报告,信号,分析]
 comments: true

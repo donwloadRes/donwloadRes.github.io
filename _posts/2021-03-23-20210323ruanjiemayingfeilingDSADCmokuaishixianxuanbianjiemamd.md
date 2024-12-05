@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软解码：英飞凌DSADC模块实现旋变解码"
+title: "软解码英飞凌DSADC模块实现旋变解码"
 date:   2023-09-20
 tags: [解码,DSADC,旋变,英飞凌,模块]
 comments: true

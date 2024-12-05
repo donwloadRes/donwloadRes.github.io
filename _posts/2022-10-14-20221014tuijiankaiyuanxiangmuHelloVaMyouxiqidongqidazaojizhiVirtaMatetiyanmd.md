@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐开源项目：Hello VaM 游戏启动器 - 打造极致Virt a Mate》体验"
+title: "推荐开源项目Hello VaM 游戏启动器  打造极致Virt a Mate体验"
 date:   2022-09-11
 tags: [游戏,启动器,Virt,Mate,Hello]
 comments: true

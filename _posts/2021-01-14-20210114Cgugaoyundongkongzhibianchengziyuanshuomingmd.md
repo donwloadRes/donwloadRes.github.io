@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#固高运动控制编程资源说明"
+title: "C固高运动控制编程资源说明"
 date:   2020-06-17
 tags: [固高,运动,C#,控制,GT]
 comments: true

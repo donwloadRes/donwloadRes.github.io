@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "武汉市房价数据挖掘与可视化分析（Python）"
+title: "武汉市房价数据挖掘与可视化分析Python"
 date:   2020-11-07
 tags: [可视化,Python,数据挖掘,房价,预处理]
 comments: true

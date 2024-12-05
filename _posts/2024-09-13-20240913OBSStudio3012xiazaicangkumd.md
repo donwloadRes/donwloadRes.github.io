@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OBS Studio 30.1.2 下载仓库"
+title: "OBS Studio 3012 下载仓库"
 date:   2024-01-31
 tags: [OBS,Studio,30.1,录屏,直播]
 comments: true

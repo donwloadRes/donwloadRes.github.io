@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为认证HCIA-Security（安全）PPT教材及实验手册V3.0"
+title: "华为认证HCIASecurity安全PPT教材及实验手册V30"
 date:   2023-12-02
 tags: [华为,HCIA,Security,V3.0,信息安全]
 comments: true

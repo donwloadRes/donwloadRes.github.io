@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eSIM卡-贴片式SIM卡规格-规范-数据手册"
+title: "eSIM卡贴片式SIM卡规格规范数据手册"
 date:   2023-02-08
 tags: [SIM卡,贴片式,ETSI,规格,技术]
 comments: true

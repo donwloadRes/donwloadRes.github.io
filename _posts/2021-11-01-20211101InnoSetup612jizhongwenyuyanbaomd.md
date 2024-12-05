@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inno Setup 6.1.2 及中文语言包"
+title: "Inno Setup 612 及中文语言包"
 date:   2020-01-05
 tags: [Inno,Setup,语言包,中文,6.1]
 comments: true

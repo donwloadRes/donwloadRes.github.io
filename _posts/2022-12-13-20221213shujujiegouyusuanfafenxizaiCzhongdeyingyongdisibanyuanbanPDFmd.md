@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法分析在C++中的应用 - 第四版 原版PDF"
+title: "数据结构与算法分析在C中的应用  第四版 原版PDF"
 date:   2021-10-09
 tags: [算法,数据结构,分析,C++,第四版]
 comments: true

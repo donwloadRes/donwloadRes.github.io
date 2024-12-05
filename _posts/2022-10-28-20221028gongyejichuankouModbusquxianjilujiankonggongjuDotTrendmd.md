@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工业级串口Modbus曲线记录监控工具——DotTrend"
+title: "工业级串口Modbus曲线记录监控工具DotTrend"
 date:   2021-07-25
 tags: [DotTrend,串口,监控,组态,Modbus]
 comments: true

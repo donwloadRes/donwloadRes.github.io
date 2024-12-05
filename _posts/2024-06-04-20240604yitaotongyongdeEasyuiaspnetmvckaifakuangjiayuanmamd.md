@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一套通用的Easyui+asp.net mvc开发框架源码"
+title: "一套通用的Easyuiaspnet mvc开发框架源码"
 date:   2024-10-22
 tags: [数据库,框架,Easyui,NET,源码]
 comments: true

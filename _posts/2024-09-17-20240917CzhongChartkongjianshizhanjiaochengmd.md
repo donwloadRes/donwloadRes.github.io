@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中Chart控件实战教程"
+title: "C中Chart控件实战教程"
 date:   2020-07-04
 tags: [控件,Chart,C#,可视化,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学分析教材 - 复旦大学版"
+title: "数学分析教材  复旦大学版"
 date:   2021-07-24
 tags: [教材,数学分析,学习,数学,复旦大学]
 comments: true

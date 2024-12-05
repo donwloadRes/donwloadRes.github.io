@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LogViewPro中文版：超大文本文件打开利器"
+title: "LogViewPro中文版超大文本文件打开利器"
 date:   2024-05-30
 tags: [LogViewPro,文本文件,查看,超大,文件]
 comments: true

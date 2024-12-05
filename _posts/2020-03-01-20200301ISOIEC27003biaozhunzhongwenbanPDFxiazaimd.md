@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO-IEC 27003标准中文版 PDF下载"
+title: "ISOIEC 27003标准中文版 PDF下载"
 date:   2020-02-11
 tags: [ISMS,信息安全,ISO,IEC,27003]
 comments: true

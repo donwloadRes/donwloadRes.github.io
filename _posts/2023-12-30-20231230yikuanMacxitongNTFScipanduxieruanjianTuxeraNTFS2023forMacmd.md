@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一款Mac系统NTFS磁盘读写软件：Tuxera NTFS 2023 for Mac"
+title: "一款Mac系统NTFS磁盘读写软件Tuxera NTFS 2023 for Mac"
 date:   2024-06-14
 tags: [NTFS,Mac,读写,Tuxera,磁盘]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLL文件查看器（64位）适用于Win10和Win11系统"
+title: "DLL文件查看器64位适用于Win10和Win11系统"
 date:   2023-11-18
 tags: [DLL,Win10,文件,Win11,Dependencies]
 comments: true

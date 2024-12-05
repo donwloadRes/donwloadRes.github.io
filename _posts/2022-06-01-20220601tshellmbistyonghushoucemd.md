@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tshell-mbist 用户手册"
+title: "tshellmbist 用户手册"
 date:   2021-08-23
 tags: [书签,tshell,mbist,TShell,MBIST]
 comments: true

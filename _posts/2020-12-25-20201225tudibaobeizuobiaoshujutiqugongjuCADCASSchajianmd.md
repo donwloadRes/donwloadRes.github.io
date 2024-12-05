@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "土地报备坐标数据提取工具（CAD-CASS插件）"
+title: "土地报备坐标数据提取工具CADCASS插件"
 date:   2022-08-05
 tags: [插件,报备,CAD,孤岛,图形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++中文版安装包下载"
+title: "Notepad中文版安装包下载"
 date:   2021-10-21
 tags: [Notepad,++,安装包,中文版,文本编辑]
 comments: true

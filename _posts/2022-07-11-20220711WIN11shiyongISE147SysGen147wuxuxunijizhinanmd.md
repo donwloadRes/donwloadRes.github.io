@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIN11使用ISE14.7+SysGen14.7，无需虚拟机指南"
+title: "WIN11使用ISE147SysGen147无需虚拟机指南"
 date:   2024-09-20
 tags: [虚拟机,14.7,ISE,MATLAB,文件]
 comments: true

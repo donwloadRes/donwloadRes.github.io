@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCat中文版协议（1-6册）"
+title: "EtherCat中文版协议16册"
 date:   2023-04-22
 tags: [EtherCat,ETG1000,CHN,V1i0i2,C01]
 comments: true

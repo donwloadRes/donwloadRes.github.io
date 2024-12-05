@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring+SpringMVC+Mybatis开发网上书店系统"
+title: "基于SpringSpringMVCMybatis开发网上书店系统"
 date:   2024-05-02
 tags: [购物车,数据库,书籍,Spring,SpringMVC]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWeb 资源：学生成绩管理系统"
+title: "JavaWeb 资源学生成绩管理系统"
 date:   2020-11-06
 tags: [数据库,成绩,学生,管理系统,语句]
 comments: true

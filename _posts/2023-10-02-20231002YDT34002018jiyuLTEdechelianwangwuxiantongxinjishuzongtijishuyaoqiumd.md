@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YDT 3400-2018 基于LTE的车联网无线通信技术总体技术要求"
+title: "YDT 34002018 基于LTE的车联网无线通信技术总体技术要求"
 date:   2023-11-05
 tags: [技术,LTE,无线通信,联网,文档]
 comments: true

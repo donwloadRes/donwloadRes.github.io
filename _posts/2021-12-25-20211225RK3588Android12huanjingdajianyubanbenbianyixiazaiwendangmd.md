@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3588-Android12环境搭建与版本编译下载文档"
+title: "RK3588Android12环境搭建与版本编译下载文档"
 date:   2024-06-19
 tags: [编译,bash,文档,RK3588,安装]
 comments: true

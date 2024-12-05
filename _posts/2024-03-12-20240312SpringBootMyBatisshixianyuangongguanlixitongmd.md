@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + MyBatis 实现员工管理系统"
+title: "Spring Boot  MyBatis 实现员工管理系统"
 date:   2020-04-22
 tags: [数据库,MySQL,IDEA,Eclipse,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++学习笔记精华版"
+title: "C学习笔记精华版"
 date:   2024-02-10
 tags: [C++,笔记,编程,学习,精华版]
 comments: true

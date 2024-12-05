@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 入门经典（第5版）.pdf"
+title: "C 入门经典第5版pdf"
 date:   2020-07-11
 tags: [C#,PDF,入门,学习,编程]
 comments: true

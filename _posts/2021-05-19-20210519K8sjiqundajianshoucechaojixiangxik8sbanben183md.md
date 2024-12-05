@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K8s集群搭建手册（超级详细）k8s版本1.8.3"
+title: "K8s集群搭建手册超级详细k8s版本183"
 date:   2023-08-24
 tags: [K8s,手册,集群,搭建,k8s]
 comments: true

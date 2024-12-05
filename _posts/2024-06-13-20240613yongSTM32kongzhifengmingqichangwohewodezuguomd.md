@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用STM32控制蜂鸣器唱我和我的祖国》"
+title: "用STM32控制蜂鸣器唱我和我的祖国"
 date:   2023-12-26
 tags: [STM32,蜂鸣器,硬件,连接,开发板]
 comments: true

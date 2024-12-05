@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HNU-操作系统-笔记（2021级）"
+title: "HNU操作系统笔记2021级"
 date:   2020-05-12
 tags: [笔记,操作系统,HNU,2021,课程]
 comments: true

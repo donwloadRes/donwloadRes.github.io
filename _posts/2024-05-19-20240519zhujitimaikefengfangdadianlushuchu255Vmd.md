@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "驻极体麦克风放大电路（输出2.5-5V）"
+title: "驻极体麦克风放大电路输出255V"
 date:   2020-05-15
 tags: [电路,5V,电压,电位器,输出]
 comments: true

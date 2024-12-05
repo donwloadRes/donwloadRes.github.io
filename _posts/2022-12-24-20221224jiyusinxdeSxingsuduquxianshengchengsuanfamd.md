@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于sin²x的S型速度曲线生成算法"
+title: "基于sinx的S型速度曲线生成算法"
 date:   2020-06-10
 tags: [算法,曲线,生成,sin,STM32F4]
 comments: true

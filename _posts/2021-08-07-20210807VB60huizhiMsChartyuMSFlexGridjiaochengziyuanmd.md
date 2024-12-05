@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 绘制 MsChart 与 MSFlexGrid 教程资源"
+title: "VB60 绘制 MsChart 与 MSFlexGrid 教程资源"
 date:   2020-10-25
 tags: [控件,MsChart,MSFlexGrid,VB6.0,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "水星支持库ecef-v2.0.19d 快捷安装工具"
+title: "水星支持库ecefv2019d 快捷安装工具"
 date:   2023-07-12
 tags: [浏览器,水星,v2.0,19d,安装]
 comments: true

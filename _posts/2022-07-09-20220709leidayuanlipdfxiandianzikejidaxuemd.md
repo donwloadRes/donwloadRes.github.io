@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雷达原理pdf（西安电子科技大学）"
+title: "雷达原理pdf西安电子科技大学"
 date:   2023-09-27
 tags: [雷达,PDF,西安电子科技大学,原理,文档]
 comments: true

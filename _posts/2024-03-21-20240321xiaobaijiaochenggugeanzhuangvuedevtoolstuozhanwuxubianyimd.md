@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白教程：谷歌安装 vue-devtools 拓展 无需编译"
+title: "小白教程谷歌安装 vuedevtools 拓展 无需编译"
 date:   2024-08-22
 tags: [devtools,vue,Vue,安装,解压]
 comments: true

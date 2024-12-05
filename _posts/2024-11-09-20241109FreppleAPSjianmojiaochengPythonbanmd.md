@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frepple APS建模教程(Python版)"
+title: "Frepple APS建模教程Python版"
 date:   2022-04-17
 tags: [教程,建模,Frepple,Python,APS]
 comments: true

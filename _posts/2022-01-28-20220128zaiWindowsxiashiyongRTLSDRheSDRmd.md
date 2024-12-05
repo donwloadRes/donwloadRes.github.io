@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Windows下使用RTL-SDR和SDR#"
+title: "在Windows下使用RTLSDR和SDR"
 date:   2022-11-26
 tags: [SDR,RTL,软件,Windows,安装]
 comments: true

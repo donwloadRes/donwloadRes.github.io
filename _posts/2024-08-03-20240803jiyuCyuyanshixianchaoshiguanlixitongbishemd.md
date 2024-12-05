@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C语言实现超市管理系统（毕设）"
+title: "基于C语言实现超市管理系统毕设"
 date:   2023-12-17
 tags: [管理员,超市,销售,商品信息,系统]
 comments: true

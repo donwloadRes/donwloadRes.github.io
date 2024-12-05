@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SMOTE算法（Matlab版本）资源下载"
+title: "SMOTE算法Matlab版本资源下载"
 date:   2020-11-02
 tags: [SMOTE,Matlab,算法,样本,版本]
 comments: true

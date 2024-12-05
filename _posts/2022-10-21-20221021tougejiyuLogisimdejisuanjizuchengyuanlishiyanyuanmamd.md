@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "头歌基于Logisim的计算机组成原理实验（源码）"
+title: "头歌基于Logisim的计算机组成原理实验源码"
 date:   2022-11-01
 tags: [Logisim,源码,实验,计算机,原理]
 comments: true

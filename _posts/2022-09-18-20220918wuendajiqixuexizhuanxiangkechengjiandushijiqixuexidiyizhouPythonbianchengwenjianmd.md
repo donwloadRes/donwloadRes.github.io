@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吴恩达机器学习专项课程：监督式机器学习第一周Python编程文件"
+title: "吴恩达机器学习专项课程监督式机器学习第一周Python编程文件"
 date:   2024-08-20
 tags: [学习,机器,Python,吴恩达,回归]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC32F4A0系列数据手册Rev1.011 下载仓库"
+title: "HC32F4A0系列数据手册Rev1011 下载仓库"
 date:   2020-10-31
 tags: [HC32F4A0,Rev1.011,系列,手册,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.15.2搭建Android编译环境及使用模拟器调试(全)"
+title: "QT5152搭建Android编译环境及使用模拟器调试全"
 date:   2023-10-07
 tags: [Android,QT5.15,编译,调试,模拟器]
 comments: true

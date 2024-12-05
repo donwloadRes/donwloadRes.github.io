@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "scrcpy-win64-v1.18 资源文件下载"
+title: "scrcpywin64v118 资源文件下载"
 date:   2023-08-31
 tags: [scrcpy,v1.18,win64,USB,文件]
 comments: true

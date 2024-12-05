@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字逻辑课程设计——电子钟"
+title: "数字逻辑课程设计电子钟"
 date:   2021-06-21
 tags: [数字,课程设计,消抖,按键,电子钟]
 comments: true

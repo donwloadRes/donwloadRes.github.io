@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的心率计（仅测心率）（OLED显示）(Proteus仿真+程序)"
+title: "基于STM32单片机的心率计仅测心率OLED显示Proteus仿真程序"
 date:   2021-07-17
 tags: [心率,Proteus,仿真,STM32,单片机]
 comments: true

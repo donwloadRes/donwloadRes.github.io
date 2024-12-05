@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Excel操作库(读取-写入)"
+title: "C Excel操作库读取写入"
 date:   2020-01-17
 tags: [Excel,COM,NPOI,方式,读取]
 comments: true

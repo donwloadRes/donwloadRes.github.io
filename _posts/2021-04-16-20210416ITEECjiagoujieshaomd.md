@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITE-EC 架构介绍"
+title: "ITEEC 架构介绍"
 date:   2024-01-30
 tags: [ITE,EC,架构,文件,介绍]
 comments: true

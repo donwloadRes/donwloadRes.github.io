@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DO-178B适航标准中文版"
+title: "DO178B适航标准中文版"
 date:   2023-12-23
 tags: [DO,178B,审定,适航,机载]
 comments: true

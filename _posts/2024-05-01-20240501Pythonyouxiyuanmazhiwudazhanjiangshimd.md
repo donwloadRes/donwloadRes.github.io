@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python游戏源码：植物大战僵尸"
+title: "Python游戏源码植物大战僵尸"
 date:   2021-02-13
 tags: [Python,游戏,源码,僵尸,大战]
 comments: true

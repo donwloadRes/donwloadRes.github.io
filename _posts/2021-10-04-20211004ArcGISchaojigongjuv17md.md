@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS超级工具v1.7"
+title: "ArcGIS超级工具v17"
 date:   2020-08-23
 tags: [批量,MXD,数据,文档,获得]
 comments: true

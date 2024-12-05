@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的OpenCV行人检测（带简单按钮界面）"
+title: "基于Python的OpenCV行人检测带简单按钮界面"
 date:   2021-01-06
 tags: [行人,OpenCV,界面,按钮,检测]
 comments: true

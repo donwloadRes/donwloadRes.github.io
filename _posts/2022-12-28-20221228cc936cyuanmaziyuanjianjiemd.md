@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cc936.c源码资源简介"
+title: "cc936c源码资源简介"
 date:   2023-07-06
 tags: [编码,源码,cc936,单片机,Fatfs]
 comments: true

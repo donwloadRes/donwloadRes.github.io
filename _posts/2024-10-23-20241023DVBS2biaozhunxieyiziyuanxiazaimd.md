@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DVB-S2标准协议资源下载"
+title: "DVBS2标准协议资源下载"
 date:   2022-04-30
 tags: [DVB,S2,标准协议,资源,下载]
 comments: true

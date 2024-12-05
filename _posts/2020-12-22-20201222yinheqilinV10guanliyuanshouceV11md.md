@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟V10管理员手册V1.1"
+title: "银河麒麟V10管理员手册V11"
 date:   2022-09-12
 tags: [麒麟,V10,银河,操作系统,管理员]
 comments: true

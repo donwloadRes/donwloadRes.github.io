@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO 1bit-4bit V2.0 协议深度解析-简单易懂协议详解"
+title: "SDIO 1bit4bit V20 协议深度解析简单易懂协议详解"
 date:   2021-04-25
 tags: [SDIO,模式,bit,解析,传输]
 comments: true

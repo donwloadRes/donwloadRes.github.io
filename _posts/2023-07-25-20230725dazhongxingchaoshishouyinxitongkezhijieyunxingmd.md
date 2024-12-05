@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大中型超市收银系统(可直接运行)"
+title: "大中型超市收银系统可直接运行"
 date:   2022-02-19
 tags: [收银,系统,商品信息,超市,支持]
 comments: true

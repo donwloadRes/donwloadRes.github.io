@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习open62541 --- [2] 使用UaExpert"
+title: "学习open62541  2 使用UaExpert"
 date:   2022-04-26
 tags: [UaExpert,open62541,连接,服务器,使用]
 comments: true

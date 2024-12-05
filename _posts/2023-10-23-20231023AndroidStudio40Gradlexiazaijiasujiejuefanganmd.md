@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 4.0 Gradle 下载加速解决方案"
+title: "Android Studio 40 Gradle 下载加速解决方案"
 date:   2022-11-08
 tags: [下载,Android,Studio,Gradle,gradle]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GNSS与惯性及多传感器组合导航系统原理-电子版"
+title: "GNSS与惯性及多传感器组合导航系统原理电子版"
 date:   2020-03-16
 tags: [导航,传感器,GNSS,组合,导航系统]
 comments: true

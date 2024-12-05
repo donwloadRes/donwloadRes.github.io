@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi中UTF-8与Unicode格式转换工具"
+title: "Delphi中UTF8与Unicode格式转换工具"
 date:   2020-01-13
 tags: [Delphi,Unicode,UTF,转换,函数]
 comments: true

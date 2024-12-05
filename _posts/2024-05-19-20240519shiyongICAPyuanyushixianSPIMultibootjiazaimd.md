@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用ICAP原语实现SPI-Multiboot加载"
+title: "使用ICAP原语实现SPIMultiboot加载"
 date:   2021-08-17
 tags: [FPGA,ICAP,SPI,Multiboot,加载]
 comments: true

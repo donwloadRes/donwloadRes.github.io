@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LABVIEW的TCP-IP通信助手"
+title: "基于LABVIEW的TCPIP通信助手"
 date:   2021-04-19
 tags: [LABVIEW,TCP,IP,文件,助手]
 comments: true

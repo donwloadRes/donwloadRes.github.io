@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国各省详细电子地图（Mapinfo格式）"
+title: "中国各省详细电子地图Mapinfo格式"
 date:   2024-11-11
 tags: [地图,电子地图,Mapinfo,虚拟现实,测量]
 comments: true

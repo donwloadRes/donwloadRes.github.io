@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Leap Motion的手势识别C#代码"
+title: "基于Leap Motion的手势识别C代码"
 date:   2022-02-21
 tags: [识别,手势,代码,Leap,Motion]
 comments: true

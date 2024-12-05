@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Idea下载、安装、JH与简单使用指南"
+title: "Idea下载安装JH与简单使用指南"
 date:   2023-04-18
 tags: [Idea,安装,下载,JH,点击]
 comments: true

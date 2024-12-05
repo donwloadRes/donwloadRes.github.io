@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S71200 PLC TCP-IP通讯功能块资源下载"
+title: "西门子S71200 PLC TCPIP通讯功能块资源下载"
 date:   2023-11-27
 tags: [功能块,S71200,PLC,TCP,IP]
 comments: true

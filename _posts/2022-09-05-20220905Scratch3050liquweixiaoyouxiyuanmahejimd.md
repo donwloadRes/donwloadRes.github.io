@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scratch 3.0 50例趣味小游戏源码合集"
+title: "Scratch 30 50例趣味小游戏源码合集"
 date:   2024-02-29
 tags: [50,源码,Scratch,游戏,编程]
 comments: true

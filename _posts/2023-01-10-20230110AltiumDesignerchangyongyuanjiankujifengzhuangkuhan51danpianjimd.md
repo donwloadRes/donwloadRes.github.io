@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 常用元件库及封装库（含51单片机）"
+title: "Altium Designer 常用元件库及封装库含51单片机"
 date:   2021-10-19
 tags: [封装,元件库,PcbLib,单片机,数码管]
 comments: true

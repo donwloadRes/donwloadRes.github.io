@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线充电QI协议1.2.4资源下载"
+title: "无线充电QI协议124资源下载"
 date:   2021-07-09
 tags: [QI,协议,无线,充电,1.2]
 comments: true

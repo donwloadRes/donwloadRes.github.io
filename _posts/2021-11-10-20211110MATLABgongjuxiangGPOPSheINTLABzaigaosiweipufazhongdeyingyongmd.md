@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB工具箱：GPOPS和INTLAB在高斯伪谱法中的应用"
+title: "MATLAB工具箱GPOPS和INTLAB在高斯伪谱法中的应用"
 date:   2023-08-06
 tags: [工具箱,MATLAB,INTLAB,GPOPS,最优控制]
 comments: true

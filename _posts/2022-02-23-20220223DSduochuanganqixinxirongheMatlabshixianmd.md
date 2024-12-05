@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D-S 多传感器信息融合 Matlab 实现"
+title: "DS 多传感器信息融合 Matlab 实现"
 date:   2023-04-27
 tags: [Matlab,融合,传感器,数据,决策]
 comments: true

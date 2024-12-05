@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "原子范数最小化(Atomic Norm Minimization)"
+title: "原子范数最小化Atomic Norm Minimization"
 date:   2024-01-21
 tags: [范数,最小化,原子,文件,资源]
 comments: true

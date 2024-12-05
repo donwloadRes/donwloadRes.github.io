@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "matplotlib、numpy和pandas综合案例数据分析"
+title: "matplotlibnumpy和pandas综合案例数据分析"
 date:   2020-08-13
 tags: [pandas,电影,matplotlib,数据分析,数据]
 comments: true

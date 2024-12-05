@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "凤凰OS卡在x86_64的解决办法"
+title: "凤凰OS卡在x8664的解决办法"
 date:   2024-06-29
 tags: [OS,x86,64,img,root]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBSCAN算法Python实现（附完整数据集和代码）"
+title: "DBSCAN算法Python实现附完整数据集和代码"
 date:   2024-02-27
 tags: [算法,DBSCAN,Python,代码,数据]
 comments: true

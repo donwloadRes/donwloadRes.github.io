@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "南京邮电大学数据库系统实验报告三（小型MIS开发）"
+title: "南京邮电大学数据库系统实验报告三小型MIS开发"
 date:   2024-02-18
 tags: [实验,实验报告,数据库系统,MIS,邮电大学]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMC2209内部配置说明（译文）"
+title: "TMC2209内部配置说明译文"
 date:   2023-11-21
 tags: [TMC2209,译文,电机,步进,芯片]
 comments: true

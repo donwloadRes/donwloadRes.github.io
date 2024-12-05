@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows XP with SP3 VOL 微软原版（简体中文）下载"
+title: "Windows XP with SP3 VOL 微软原版简体中文下载"
 date:   2021-06-24
 tags: [简体中文,原版,微软,Windows,XP]
 comments: true

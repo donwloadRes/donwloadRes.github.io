@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "团体标准数字化转型 参考架构》资源下载"
+title: "团体标准数字化转型 参考架构资源下载"
 date:   2020-10-05
 tags: [数字化,信息化,监理,转型,架构]
 comments: true

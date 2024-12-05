@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DC-DC中Buck拓扑纹波电流及电感的计算思路"
+title: "DCDC中Buck拓扑纹波电流及电感的计算思路"
 date:   2020-01-17
 tags: [DC,纹波,电感,电流,Buck]
 comments: true

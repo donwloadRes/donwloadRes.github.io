@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT-4，通用人工智能的火花》154页微软GPT研究报告"
+title: "ChatGPT4通用人工智能的火花154页微软GPT研究报告"
 date:   2024-08-28
 tags: [GPT,人工智能,ChatGPT,报告,模型]
 comments: true

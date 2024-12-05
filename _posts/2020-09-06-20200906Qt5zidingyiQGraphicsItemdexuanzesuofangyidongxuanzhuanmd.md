@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5 自定义QGraphicsItem的选择、缩放、移动、旋转"
+title: "Qt5 自定义QGraphicsItem的选择缩放移动旋转"
 date:   2020-09-03
 tags: [自定义,缩放,图形,QGraphicsItem,旋转]
 comments: true

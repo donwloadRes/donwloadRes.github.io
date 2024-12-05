@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信聊天记录提取和分析工具: WeChatMsg"
+title: "微信聊天记录提取和分析工具 WeChatMsg"
 date:   2024-04-22
 tags: [聊天记录,微信,WeChatMsg,用户,分析]
 comments: true

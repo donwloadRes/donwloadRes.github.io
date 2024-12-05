@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3af & IEEE 802.3at POE标准协议资源文件"
+title: "IEEE 8023af  IEEE 8023at POE标准协议资源文件"
 date:   2021-02-01
 tags: [IEEE,802.3,POE,标准协议,文件]
 comments: true

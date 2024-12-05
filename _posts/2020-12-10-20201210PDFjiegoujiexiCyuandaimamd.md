@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PDF结构解析（C++源代码）"
+title: "PDF结构解析C源代码"
 date:   2023-07-06
 tags: [PDF,源代码,文件,C++,解析]
 comments: true

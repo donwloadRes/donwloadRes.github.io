@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LoraWAN STM32 工程源码及 Lorawan 1.0.3 规范"
+title: "LoraWAN STM32 工程源码及 Lorawan 103 规范"
 date:   2023-05-31
 tags: [STM32,源码,LoraWAN,Lorawan,1.0]
 comments: true

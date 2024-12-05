@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407-405 标准库串口数据收发-DMA"
+title: "STM32F407405 标准库串口数据收发DMA"
 date:   2024-04-24
 tags: [串口,DMA,芯片,收发,STM32F407]
 comments: true

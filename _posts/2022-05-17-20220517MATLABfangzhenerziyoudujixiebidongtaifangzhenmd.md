@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真-二自由度机械臂动态仿真"
+title: "MATLAB仿真二自由度机械臂动态仿真"
 date:   2024-07-22
 tags: [仿真,MATLAB,文档,机械,自由度]
 comments: true

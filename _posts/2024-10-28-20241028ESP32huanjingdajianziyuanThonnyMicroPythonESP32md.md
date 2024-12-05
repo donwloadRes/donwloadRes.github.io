@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32环境搭建资源（Thonny+MicroPython+ESP32）"
+title: "ESP32环境搭建资源ThonnyMicroPythonESP32"
 date:   2022-04-20
 tags: [ESP32,MicroPython,Thonny,固件,IDE]
 comments: true

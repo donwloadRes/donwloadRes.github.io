@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mann-Kendall趋势检验和突变点分析Matlab版程序"
+title: "MannKendall趋势检验和突变点分析Matlab版程序"
 date:   2020-12-01
 tags: [程序,Mann,Kendall,mkabrpt,smk]
 comments: true

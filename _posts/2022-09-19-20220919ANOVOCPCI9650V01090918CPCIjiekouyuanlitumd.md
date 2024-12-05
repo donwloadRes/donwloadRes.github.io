@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANOVO CPCI-9650V01 090918 CPCI接口原理图"
+title: "ANOVO CPCI9650V01 090918 CPCI接口原理图"
 date:   2020-11-24
 tags: [CPCI,原理图,ANOVO,9650V01,接口]
 comments: true

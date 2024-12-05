@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 12 安装 uuid-ossp 插件指南"
+title: "PostgreSQL 12 安装 uuidossp 插件指南"
 date:   2020-08-13
 tags: [插件,uuid,ossp,PostgreSQL,安装]
 comments: true

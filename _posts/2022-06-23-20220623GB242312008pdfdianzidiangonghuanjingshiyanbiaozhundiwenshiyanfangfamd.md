@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB2423.1-2008.pdf - 电子电工环境试验标准：低温试验方法"
+title: "GB242312008pdf  电子电工环境试验标准低温试验方法"
 date:   2022-01-21
 tags: [试验,低温,GB2423.1,2008,标准]
 comments: true

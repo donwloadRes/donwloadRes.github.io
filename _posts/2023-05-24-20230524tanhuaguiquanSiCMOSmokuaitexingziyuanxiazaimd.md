@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "碳化硅(全SiC MOS）模块特性资源下载"
+title: "碳化硅全SiC MOS模块特性资源下载"
 date:   2020-12-12
 tags: [SiC,碳化硅,模块,开关,下载]
 comments: true

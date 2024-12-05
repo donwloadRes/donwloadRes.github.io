@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "制造执行系统（MES）选型实施指南（第二版）"
+title: "制造执行系统MES选型实施指南第二版"
 date:   2022-05-30
 tags: [MES,指南,选型,系统,实施]
 comments: true

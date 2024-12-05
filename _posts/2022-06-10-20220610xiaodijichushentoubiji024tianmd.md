@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小迪基础渗透笔记0-24天"
+title: "小迪基础渗透笔记024天"
 date:   2023-12-30
 tags: [渗透,24,Day,学习,小迪]
 comments: true

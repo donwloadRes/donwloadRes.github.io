@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于遗传算法的车间作业调度（JSP_GA）"
+title: "基于遗传算法的车间作业调度JSPGA"
 date:   2024-08-11
 tags: [遗传算法,调度,车间,基于,实例]
 comments: true

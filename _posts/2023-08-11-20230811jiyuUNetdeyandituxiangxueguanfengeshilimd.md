@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于U-Net的眼底图像血管分割实例"
+title: "基于UNet的眼底图像血管分割实例"
 date:   2021-10-22
 tags: [图像,Net,眼底,训练,血管]
 comments: true

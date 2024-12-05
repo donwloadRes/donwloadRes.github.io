@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTL8305NB-VB-CG 规格书下载"
+title: "RTL8305NBVBCG 规格书下载"
 date:   2020-11-03
 tags: [规格书,RTL8305NB,VB,CG,下载]
 comments: true

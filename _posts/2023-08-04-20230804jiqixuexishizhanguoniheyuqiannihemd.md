@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习实战：过拟合与欠拟合"
+title: "机器学习实战过拟合与欠拟合"
 date:   2022-05-05
 tags: [拟合,模型,多项式,回归,可视化]
 comments: true

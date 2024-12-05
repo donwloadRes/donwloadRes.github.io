@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE EndNote 模板【更新】"
+title: "IEEE EndNote 模板更新"
 date:   2020-07-09
 tags: [IEEE,模板,EndNote,Template,ens]
 comments: true

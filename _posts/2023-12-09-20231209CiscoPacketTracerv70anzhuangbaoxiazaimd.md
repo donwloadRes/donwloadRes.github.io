@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cisco Packet Tracer v7.0 安装包下载"
+title: "Cisco Packet Tracer v70 安装包下载"
 date:   2020-12-15
 tags: [Cisco,Packet,Tracer,v7.0,安装]
 comments: true

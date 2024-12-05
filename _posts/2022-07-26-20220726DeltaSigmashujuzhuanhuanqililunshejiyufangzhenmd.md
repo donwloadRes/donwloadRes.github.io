@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delta-Sigma 数据转换器理论、设计与仿真"
+title: "DeltaSigma 数据转换器理论设计与仿真"
 date:   2022-09-05
 tags: [Delta,Sigma,调制器,本书,仿真]
 comments: true

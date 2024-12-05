@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK-11.0.2版本安装包"
+title: "JDK1102版本安装包"
 date:   2023-04-18
 tags: [JDK,11.0,Java,Windows,macOS]
 comments: true

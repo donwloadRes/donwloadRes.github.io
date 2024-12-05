@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux下LZ4 v1.9.3 压缩库源码包"
+title: "Linux下LZ4 v193 压缩库源码包"
 date:   2024-07-27
 tags: [LZ4,lz4,Linux,1.9,源码]
 comments: true

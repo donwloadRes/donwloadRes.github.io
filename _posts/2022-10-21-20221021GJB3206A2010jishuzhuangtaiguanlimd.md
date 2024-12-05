@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB3206A-2010 技术状态管理"
+title: "GJB3206A2010 技术状态管理"
 date:   2022-08-04
 tags: [状态,技术,管理,GJB3206A,2010]
 comments: true

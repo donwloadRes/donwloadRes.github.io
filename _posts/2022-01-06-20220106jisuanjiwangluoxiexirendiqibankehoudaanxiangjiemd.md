@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络》谢希仁第七版课后答案详解"
+title: "计算机网络谢希仁第七版课后答案详解"
 date:   2022-10-31
 tags: [计算机网络,课后,希仁,第七版,PDF]
 comments: true

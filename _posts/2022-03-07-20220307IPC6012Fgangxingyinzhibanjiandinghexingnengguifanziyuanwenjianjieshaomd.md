@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-6012F刚性印制板鉴定和性能规范》资源文件介绍"
+title: "IPC6012F刚性印制板鉴定和性能规范资源文件介绍"
 date:   2024-07-28
 tags: [印制板,IPC,6012F,刚性,标准文件]
 comments: true

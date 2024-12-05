@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法（Python）学习笔记PDF"
+title: "数据结构与算法Python学习笔记PDF"
 date:   2022-12-28
 tags: [算法,数据结构,Python,笔记,学习]
 comments: true

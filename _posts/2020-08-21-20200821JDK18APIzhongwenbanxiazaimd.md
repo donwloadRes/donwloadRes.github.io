@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8 API 中文版下载"
+title: "JDK 18 API 中文版下载"
 date:   2023-01-08
 tags: [API,JDK,1.8,中文版,文档]
 comments: true

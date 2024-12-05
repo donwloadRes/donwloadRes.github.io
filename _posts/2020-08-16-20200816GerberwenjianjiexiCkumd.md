@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gerber文件解析C++库"
+title: "Gerber文件解析C库"
 date:   2020-11-16
 tags: [Gerber,文件,解析,C++,c++]
 comments: true

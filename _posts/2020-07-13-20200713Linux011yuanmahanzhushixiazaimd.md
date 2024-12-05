@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 0.11源码（含注释）下载"
+title: "Linux 011源码含注释下载"
 date:   2024-06-09
 tags: [Linux,源码,内核,0.11,注释]
 comments: true

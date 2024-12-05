@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IAR for 8051（8.10版本）资源下载"
+title: "IAR for 8051810版本资源下载"
 date:   2024-11-24
 tags: [8051,IAR,开发,单片机,版本]
 comments: true

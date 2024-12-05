@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Corel产品注册机2023 - XFORCE解决会声会影2023试用30天"
+title: "Corel产品注册机2023  XFORCE解决会声会影2023试用30天"
 date:   2023-10-03
 tags: [Corel,2023,注册机,XFORCE,会声]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + Vue 初始化前后端分离项目搭建（含数据库）"
+title: "Spring Boot  Vue 初始化前后端分离项目搭建含数据库"
 date:   2023-04-10
 tags: [项目,数据库,Spring,Boot,Vue]
 comments: true

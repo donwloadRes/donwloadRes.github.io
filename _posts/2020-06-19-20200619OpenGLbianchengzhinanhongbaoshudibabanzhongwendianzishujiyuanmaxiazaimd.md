@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL编程指南(红宝书第八版)中文电子书及源码下载"
+title: "OpenGL编程指南红宝书第八版中文电子书及源码下载"
 date:   2023-04-20
 tags: [OpenGL,编程,源代码,指南,电子书]
 comments: true

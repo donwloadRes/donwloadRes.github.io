@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt 5实战指南：手把手教你掌握100个精彩案例"
+title: "PyQt 5实战指南手把手教你掌握100个精彩案例"
 date:   2023-06-24
 tags: [PyQt,100,实战,GUI,案例]
 comments: true

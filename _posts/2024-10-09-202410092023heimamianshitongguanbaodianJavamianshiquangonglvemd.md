@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023黑马面试通关宝典 - Java面试全攻略"
+title: "2023黑马面试通关宝典  Java面试全攻略"
 date:   2022-05-28
 tags: [面试,Java,资源库,Spring,知识点]
 comments: true

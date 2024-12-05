@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 16 V16.0.4 资源文件下载"
+title: "Navicat Premium 16 V1604 资源文件下载"
 date:   2022-07-14
 tags: [V16.0,Navicat,Premium,文件,16]
 comments: true

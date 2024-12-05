@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PIE-Engine Studio植被覆盖度计算实例操作指南"
+title: "PIEEngine Studio植被覆盖度计算实例操作指南"
 date:   2022-06-02
 tags: [PIE,Engine,Studio,覆盖度,植被]
 comments: true

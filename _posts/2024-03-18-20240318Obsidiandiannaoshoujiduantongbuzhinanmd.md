@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obsidian电脑+手机端同步指南"
+title: "Obsidian电脑手机端同步指南"
 date:   2020-10-14
 tags: [Obsidian,GitHub,MGit,同步,Git]
 comments: true

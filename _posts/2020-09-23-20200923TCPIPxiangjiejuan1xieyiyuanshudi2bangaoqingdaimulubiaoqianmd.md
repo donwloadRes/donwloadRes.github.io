@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCP-IP详解 卷1：协议（原书第2版）（高清带目录标签）"
+title: "TCPIP详解 卷1协议原书第2版高清带目录标签"
 date:   2024-01-13
 tags: [TCP,IP,协议,标签,原书]
 comments: true

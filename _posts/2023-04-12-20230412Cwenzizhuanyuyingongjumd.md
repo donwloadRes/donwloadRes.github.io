@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 文字转语音工具"
+title: "C 文字转语音工具"
 date:   2021-06-24
 tags: [语音,C++,代码,文字,文件]
 comments: true

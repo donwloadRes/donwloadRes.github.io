@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WiFi协议（中文版）下载仓库"
+title: "WiFi协议中文版下载仓库"
 date:   2021-01-31
 tags: [WiFi,中文版,协议,文件,仓库]
 comments: true

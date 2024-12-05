@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real-ESRGAN图像超分模型安装与使用教程"
+title: "RealESRGAN图像超分模型安装与使用教程"
 date:   2021-06-15
 tags: [--,Real,ESRGAN,bash,超分]
 comments: true

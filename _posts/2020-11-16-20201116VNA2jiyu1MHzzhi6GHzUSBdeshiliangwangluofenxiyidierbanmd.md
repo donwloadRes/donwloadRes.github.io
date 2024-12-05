@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VNA2：基于1MHz至6GHz USB的矢量网络分析仪第二版"
+title: "VNA2基于1MHz至6GHz USB的矢量网络分析仪第二版"
 date:   2020-09-25
 tags: [VNA2,1MHz,USB,RF,分析仪]
 comments: true

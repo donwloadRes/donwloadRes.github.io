@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCL测试程序（兔子）"
+title: "PCL测试程序兔子"
 date:   2020-06-29
 tags: [PCL,点云,程序,兔子,加载]
 comments: true

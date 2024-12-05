@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESXi 8.0 Unlocker 资源下载"
+title: "ESXi 80 Unlocker 资源下载"
 date:   2020-03-02
 tags: [ESXi,8.0,文件,下载,Unlocker]
 comments: true

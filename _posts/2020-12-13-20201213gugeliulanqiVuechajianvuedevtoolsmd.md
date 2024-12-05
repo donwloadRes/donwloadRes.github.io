@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谷歌浏览器Vue插件：vue-devtools"
+title: "谷歌浏览器Vue插件vuedevtools"
 date:   2023-09-23
 tags: [Vue,浏览器,vue,devtools,插件]
 comments: true

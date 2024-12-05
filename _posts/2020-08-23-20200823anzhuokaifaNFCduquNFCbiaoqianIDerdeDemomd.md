@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓开发：NFC读取NFC标签ID(二)的Demo"
+title: "安卓开发NFC读取NFC标签ID二的Demo"
 date:   2023-01-26
 tags: [NFC,Demo,标签,读取,ID]
 comments: true

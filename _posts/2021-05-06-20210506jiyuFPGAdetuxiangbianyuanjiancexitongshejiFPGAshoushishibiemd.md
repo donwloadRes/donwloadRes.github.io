@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的图像边缘检测系统设计（FPGA手势识别）"
+title: "基于FPGA的图像边缘检测系统设计FPGA手势识别"
 date:   2021-06-11
 tags: [FPGA,系统,手势,检测,源代码]
 comments: true

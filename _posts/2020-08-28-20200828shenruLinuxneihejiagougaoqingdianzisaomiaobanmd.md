@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入Linux内核架构 - 高清电子扫描版"
+title: "深入Linux内核架构  高清电子扫描版"
 date:   2023-06-06
 tags: [Linux,电子扫描,内核,高清,架构]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10+VS2019环境下配置点云库PCL1.11.1（超详细）"
+title: "Win10VS2019环境下配置点云库PCL1111超详细"
 date:   2021-06-06
 tags: [PCL,配置,环境变量,1.11,Visual]
 comments: true

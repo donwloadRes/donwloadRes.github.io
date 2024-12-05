@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL协议规范3.0最新版本分享"
+title: "CXL协议规范30最新版本分享"
 date:   2020-06-25
 tags: [CXL,协议,3.0,最新,规范]
 comments: true

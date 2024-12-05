@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简单CAD插件（原CAD管道绘制插件）"
+title: "简单CAD插件原CAD管道绘制插件"
 date:   2020-11-06
 tags: [插件,CAD,绘制,管道,剪切]
 comments: true

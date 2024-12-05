@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Python和OpenCV测量图像-视频-实时摄像头流中的温度"
+title: "使用Python和OpenCV测量图像视频实时摄像头流中的温度"
 date:   2022-08-04
 tags: [温度,图像,测量,脚本,摄像头]
 comments: true

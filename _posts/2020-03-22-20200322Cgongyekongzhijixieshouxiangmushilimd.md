@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#工业控制——机械手项目实例"
+title: "C工业控制机械手项目实例"
 date:   2023-11-21
 tags: [机械手,项目,C#,控制,运动]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深圳二手房房价分析与建模预测（附数据集）"
+title: "深圳二手房房价分析与建模预测附数据集"
 date:   2023-07-23
 tags: [数据,预测,房价,建模,分析]
 comments: true

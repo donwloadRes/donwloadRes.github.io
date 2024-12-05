@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mac OS 软件下载地址 （不断更新）"
+title: "mac OS 软件下载地址 不断更新"
 date:   2020-03-30
 tags: [软件,mac,OS,下载,链接]
 comments: true

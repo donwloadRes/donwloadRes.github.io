@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟电路设计手册：艺术、科学与个性"
+title: "模拟电路设计手册艺术科学与个性"
 date:   2024-08-21
 tags: [电路设计,模拟,手册,PDF,文件]
 comments: true

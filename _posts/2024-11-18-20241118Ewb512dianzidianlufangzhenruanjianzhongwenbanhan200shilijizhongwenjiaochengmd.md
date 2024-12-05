@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ewb5.12电子电路仿真软件中文版含200实例及中文教程"
+title: "Ewb512电子电路仿真软件中文版含200实例及中文教程"
 date:   2024-11-16
 tags: [ewb,电路,EWB,振荡器,实例]
 comments: true

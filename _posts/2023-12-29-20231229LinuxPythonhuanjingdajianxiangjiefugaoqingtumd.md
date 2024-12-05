@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux Python环境搭建详解（附高清图）"
+title: "Linux Python环境搭建详解附高清图"
 date:   2020-11-16
 tags: [Linux,Python,Vscode,搭建,高清]
 comments: true

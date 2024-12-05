@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7下安装Qt 5.12.9报错解决方案"
+title: "Windows 7下安装Qt 5129报错解决方案"
 date:   2024-03-16
 tags: [Qt,5.12,api,ms,win]
 comments: true

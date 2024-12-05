@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xshell-7最新版本"
+title: "xshell7最新版本"
 date:   2020-08-17
 tags: [XShell,最新,支持,版本,远程]
 comments: true

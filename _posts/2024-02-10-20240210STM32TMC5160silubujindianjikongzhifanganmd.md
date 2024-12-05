@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+TMC5160四路步进电机控制方案"
+title: "STM32TMC5160四路步进电机控制方案"
 date:   2024-03-05
 tags: [步进,电机,STM32,硬件,控制]
 comments: true

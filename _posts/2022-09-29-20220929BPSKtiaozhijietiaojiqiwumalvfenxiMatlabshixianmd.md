@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPSK调制解调及其误码率分析(Matlab实现)"
+title: "BPSK调制解调及其误码率分析Matlab实现"
 date:   2021-09-25
 tags: [Matlab,误码率,调制,BPSK,解调]
 comments: true

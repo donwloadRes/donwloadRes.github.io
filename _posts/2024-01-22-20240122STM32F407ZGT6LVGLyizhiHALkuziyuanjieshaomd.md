@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZGT6 LVGL移植+HAL库资源介绍"
+title: "STM32F407ZGT6 LVGL移植HAL库资源介绍"
 date:   2024-04-18
 tags: [LVGL,HAL,开发板,STM32F407ZGT6,图形库]
 comments: true

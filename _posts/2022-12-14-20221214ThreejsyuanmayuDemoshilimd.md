@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 源码与Demo示例"
+title: "Threejs 源码与Demo示例"
 date:   2021-09-03
 tags: [js,Three,Demo,源码,3D]
 comments: true

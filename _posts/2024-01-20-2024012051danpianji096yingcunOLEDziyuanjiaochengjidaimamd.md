@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机0.96英寸OLED资源教程及代码"
+title: "51单片机096英寸OLED资源教程及代码"
 date:   2023-10-30
 tags: [取模,字库,代码,OLED,51]
 comments: true

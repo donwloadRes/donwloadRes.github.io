@@ -1,6 +1,57 @@
 ---
 layout: post
-title: "libxl4.2.0安装包及使用指南"
+title: "libxl420安装包及使用指南
+date   20231223
+tags booklibxl安装包libxl42sheet
+comments true
+author admin
+
+ libxl420安装包及使用指南
+
+ 简介
+本资源文件提供了libxl420的安装包及其详细使用指南libxl是一个强大的库允许用户在不依赖Microsoft Excel的情况下读写Excel文件本指南涵盖了libxl420在Windows和Linux平台上的安装与使用方法包括在VSVisual Studio和QT模式下的应用
+
+ 内容概述
+1 安装包下载提供了libxl420的安装包适用于Windows和Linux平台
+2 详细用法
+    VS模式如何在Visual Studio中使用libxl库进行Excel文件的读写操作
+    QT模式如何在QT环境中使用libxl库进行Excel文件的读写操作
+3 权限说明本资源文件包含了libxl420的所有权限用户可以自由使用
+
+ 使用步骤
+ 1 下载安装包
+从提供的链接下载libxl420的安装包并根据操作系统的不同选择相应的版本
+
+ 2 安装与配置
+ Windows解压安装包后根据VS或QT的配置要求将库文件添加到项目中
+ Linux解压安装包后将库文件放置在合适的位置并配置环境变量
+
+ 3 使用示例
+ VS模式
+cpp
+include libxlh
+using namespace libxl
+
+int main 
+    Book book  xlCreateXMLBook
+    booksetKeyname key
+    if book 
+        Sheet sheet  bookaddSheetLSheet1
+        if sheet 
+            for int i  1 i  1000 i 
+                sheetwriteStri 2 LHello World
+            
+        
+        booksaveLexamplexlsx
+        bookrelease
+    
+    return 0
+
+
+
+ QT模式
+cpp
+include libxlh"
 date:   2023-12-23
 tags: [book,libxl,安装包,libxl4.2,sheet]
 comments: true

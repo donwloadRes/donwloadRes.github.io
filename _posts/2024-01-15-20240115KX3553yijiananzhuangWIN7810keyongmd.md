@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KX3553一键安装WIN7.8.10可用"
+title: "KX3553一键安装WIN7810可用"
 date:   2020-12-24
 tags: [Windows,安装,10,一键,KX3553]
 comments: true

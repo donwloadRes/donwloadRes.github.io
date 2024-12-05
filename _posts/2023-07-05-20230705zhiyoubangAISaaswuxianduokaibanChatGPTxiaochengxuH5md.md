@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智友帮AI：Saas无限多开版ChatGPT小程序+H5"
+title: "智友帮AISaas无限多开版ChatGPT小程序H5"
 date:   2022-09-25
 tags: [智友,AI,H5,智能,无限]
 comments: true

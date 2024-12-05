@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三电平逆变器专用空间矢量脉宽调宽器 (SVPWM) 实现工具包"
+title: "三电平逆变器专用空间矢量脉宽调宽器 SVPWM 实现工具包"
 date:   2021-05-09
 tags: [逆变器,电平,SVPWM,算法,矢量]
 comments: true

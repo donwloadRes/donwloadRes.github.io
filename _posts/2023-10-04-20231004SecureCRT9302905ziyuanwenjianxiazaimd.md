@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 9.3.0.2905 资源文件下载"
+title: "SecureCRT 9302905 资源文件下载"
 date:   2022-04-26
 tags: [0.2905,文件,SecureCRT,9.3,资源]
 comments: true

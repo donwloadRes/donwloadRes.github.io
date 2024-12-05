@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10类MSTAR数据集（JPG格式）资源下载"
+title: "10类MSTAR数据集JPG格式资源下载"
 date:   2022-06-24
 tags: [文件夹,数据,类别,10,图像]
 comments: true

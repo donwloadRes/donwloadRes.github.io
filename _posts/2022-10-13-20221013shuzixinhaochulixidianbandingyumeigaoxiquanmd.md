@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理 - 西电版 丁玉美 高西全"
+title: "数字信号处理  西电版 丁玉美 高西全"
 date:   2021-02-12
 tags: [信号处理,数字,丁玉美,高西全,PDF]
 comments: true

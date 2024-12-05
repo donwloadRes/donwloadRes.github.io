@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX9 SDK 下载、安装与VC++开发环境配置指南"
+title: "DirectX9 SDK 下载安装与VC开发环境配置指南"
 date:   2023-02-16
 tags: [DirectX9,SDK,C++,下载,配置]
 comments: true

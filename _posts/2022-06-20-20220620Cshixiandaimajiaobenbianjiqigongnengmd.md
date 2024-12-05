@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现代码脚本编辑器功能"
+title: "C 实现代码脚本编辑器功能"
 date:   2022-06-10
 tags: [编辑器,代码,功能,源代码,脚本]
 comments: true

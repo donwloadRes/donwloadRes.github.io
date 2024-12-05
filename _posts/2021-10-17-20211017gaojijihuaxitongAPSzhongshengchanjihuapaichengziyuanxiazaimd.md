@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高级计划系统(APS)中生产计划排程资源下载"
+title: "高级计划系统APS中生产计划排程资源下载"
 date:   2024-02-13
 tags: [APS,排程,计划,文件,资源]
 comments: true

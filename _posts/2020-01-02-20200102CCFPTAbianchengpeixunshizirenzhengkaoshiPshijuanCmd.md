@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCF PTA编程培训师资认证考试-P试卷-C++"
+title: "CCF PTA编程培训师资认证考试P试卷C"
 date:   2022-02-20
 tags: [编程,C++,试卷,认证,师资]
 comments: true

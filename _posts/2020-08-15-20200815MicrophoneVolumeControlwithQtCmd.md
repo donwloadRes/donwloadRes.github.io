@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microphone Volume Control with Qt-C++"
+title: "Microphone Volume Control with QtC"
 date:   2024-02-10
 tags: [Qt,Windows,音频,音量,C++]
 comments: true

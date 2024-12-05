@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用Renci库实现SSH客户端功能"
+title: "C 使用Renci库实现SSH客户端功能"
 date:   2020-11-21
 tags: [SSH,Renci,命令,SshNet,示例]
 comments: true

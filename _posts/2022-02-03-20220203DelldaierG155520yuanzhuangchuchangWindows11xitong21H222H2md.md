@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dell戴尔G15 5520原装出厂Windows11系统21H2-22H2"
+title: "Dell戴尔G15 5520原装出厂Windows11系统21H222H2"
 date:   2024-01-09
 tags: [戴尔,Dell,Windows11,出厂,预装]
 comments: true

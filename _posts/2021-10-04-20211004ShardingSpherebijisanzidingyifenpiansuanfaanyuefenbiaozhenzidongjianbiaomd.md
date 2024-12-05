@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ShardingSphere笔记（三）：自定义分片算法 - 按月分表·真·自动建表"
+title: "ShardingSphere笔记三自定义分片算法  按月分表真自动建表"
 date:   2020-11-09
 tags: [分表,数据库,自动,建表,com]
 comments: true

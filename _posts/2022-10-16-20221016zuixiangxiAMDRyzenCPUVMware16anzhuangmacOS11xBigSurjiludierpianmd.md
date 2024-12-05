@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细AMD Ryzen CPU，VMware 16安装macOS 11.x BigSur记录（第二篇）"
+title: "最详细AMD Ryzen CPUVMware 16安装macOS 11x BigSur记录第二篇"
 date:   2022-05-28
 tags: [安装,VMware,macOS,11,16]
 comments: true

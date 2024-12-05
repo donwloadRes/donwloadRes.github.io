@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "INTEL开发手册卷3（中文版）"
+title: "INTEL开发手册卷3中文版"
 date:   2023-03-05
 tags: [仓库,INTEL,Intel,指令集,中文版]
 comments: true

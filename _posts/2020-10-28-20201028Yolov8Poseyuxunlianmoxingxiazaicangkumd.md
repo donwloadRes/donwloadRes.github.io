@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yolov8-Pose预训练模型下载仓库"
+title: "Yolov8Pose预训练模型下载仓库"
 date:   2023-12-07
 tags: [Yolov8,模型,Pose,训练,仓库]
 comments: true

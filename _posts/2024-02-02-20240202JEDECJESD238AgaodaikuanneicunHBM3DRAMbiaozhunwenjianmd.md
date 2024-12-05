@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JEDEC JESD238A 高带宽内存 (HBM3) DRAM 标准文件"
+title: "JEDEC JESD238A 高带宽内存 HBM3 DRAM 标准文件"
 date:   2020-11-14
 tags: [HBM3,DRAM,JEDEC,文件,JESD238A]
 comments: true

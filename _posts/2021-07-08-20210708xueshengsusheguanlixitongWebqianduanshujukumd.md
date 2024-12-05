@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生宿舍管理系统（Web前端 + 数据库）"
+title: "学生宿舍管理系统Web前端  数据库"
 date:   2024-06-07
 tags: [数据库,管理系统,学生宿舍,Web,前端]
 comments: true

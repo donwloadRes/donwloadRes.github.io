@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模拟集成电路设计与分析（Gray第五版英文版）资源下载"
+title: "模拟集成电路设计与分析Gray第五版英文版资源下载"
 date:   2024-07-02
 tags: [集成电路,第五版,Gray,模拟,设计]
 comments: true

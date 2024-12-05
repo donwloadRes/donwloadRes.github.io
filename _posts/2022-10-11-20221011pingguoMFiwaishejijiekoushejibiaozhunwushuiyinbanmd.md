@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果MFi外设及接口设计标准 - 无水印版"
+title: "苹果MFi外设及接口设计标准  无水印版"
 date:   2024-08-24
 tags: [外设,文件,MFi,设计标准,苹果]
 comments: true

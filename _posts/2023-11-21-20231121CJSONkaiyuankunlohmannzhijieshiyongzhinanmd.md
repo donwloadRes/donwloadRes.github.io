@@ -1,6 +1,44 @@
 ---
 layout: post
-title: "【C++ JSON 开源库】nlohmann 直接使用指南"
+title: "C JSON 开源库nlohmann 直接使用指南
+date   20230302
+tags JSONnlohmannjsonC
+comments true
+author admin
+
+ C JSON 开源库nlohmann 直接使用指南
+
+
+
+简介
+nlohmann 是一款广受好评的 C JSON 解析和生成库由 Joaqun M Lpez Muoz 开发并维护它的设计轻量级且高度直观使得集成到任何 C 项目中变得异常简单本资源提供了 nlohmann JSON 库的最新源码包允许开发者快速地在自己的项目中实现 JSON 数据的处理功能
+
+
+
+ 使用步骤
+
+1 获取源码
+    下载提供的 jsonmaster 压缩包并将其解压
+    将解压得到的 jsonmaster 文件夹整体复制到你的项目目录中
+
+2 包含头文件
+    在需要使用 JSON 功能的 C 源文件中通过下面的指令包含 nlohmann 的主头文件
+     cpp
+     include jsonmasterincludenlohmannjsonhpp
+     
+   注意路径应根据实际放置位置调整
+
+3 开始使用
+    自此之后你可以在你的代码中直接利用 nlohmann 的功能来解析创建或操作 JSON 数据了
+
+
+
+ 示例
+
+简单的使用示例
+
+cpp
+include jsonmasterincludenlohmannjsonhpp"
 date:   2023-03-02
 tags: [JSON,nlohmann,json,C++,---]
 comments: true

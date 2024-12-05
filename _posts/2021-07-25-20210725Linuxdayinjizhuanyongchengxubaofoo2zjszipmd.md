@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux打印机专用程序包 - foo2zjs.zip"
+title: "Linux打印机专用程序包  foo2zjszip"
 date:   2020-04-22
 tags: [打印机,Linux,foo2zjs,zip,文件]
 comments: true

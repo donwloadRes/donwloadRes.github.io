@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GoldWave 6.78中文免费激活版功能特色2024最新功能解析"
+title: "GoldWave 678中文免费激活版功能特色2024最新功能解析"
 date:   2024-03-26
 tags: [GoldWave,音频编辑,音频,6.78,功能]
 comments: true

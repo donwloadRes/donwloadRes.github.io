@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "k-均值聚类算法的收敛性证明资源"
+title: "k均值聚类算法的收敛性证明资源"
 date:   2021-03-11
 tags: [算法,均值,收敛性,中心,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TongWeb嵌入式版本用户手册-7.0.E.5"
+title: "TongWeb嵌入式版本用户手册70E5"
 date:   2023-12-20
 tags: [嵌入式,TongWeb,本手册,7.0,E.5]
 comments: true

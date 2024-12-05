@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.5.5 库资源下载"
+title: "OpenCV 455 库资源下载"
 date:   2022-02-21
 tags: [OpenCV,4.5,视觉,zip,下载]
 comments: true

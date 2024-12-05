@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF DataGrid合并单元格（模板列嵌套DataGrid）"
+title: "WPF DataGrid合并单元格模板列嵌套DataGrid"
 date:   2022-01-10
 tags: [DataGrid,单元格,嵌套,合并,模板]
 comments: true

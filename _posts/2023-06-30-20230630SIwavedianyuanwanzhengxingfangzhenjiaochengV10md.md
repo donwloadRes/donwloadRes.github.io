@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIwave电源完整性仿真教程V1.0"
+title: "SIwave电源完整性仿真教程V10"
 date:   2022-05-08
 tags: [SIwave,仿真,完整性,教程,电源]
 comments: true

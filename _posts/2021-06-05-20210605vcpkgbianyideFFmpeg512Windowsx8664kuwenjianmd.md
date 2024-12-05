@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vcpkg编译的FFmpeg 5.1.2 Windows x86-64 库文件"
+title: "vcpkg编译的FFmpeg 512 Windows x8664 库文件"
 date:   2023-08-01
 tags: [FFmpeg,文件,64,vcpkg,5.1]
 comments: true

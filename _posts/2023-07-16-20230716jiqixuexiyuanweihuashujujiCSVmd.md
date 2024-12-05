@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习鸢尾花数据集-CSV"
+title: "机器学习鸢尾花数据集CSV"
 date:   2021-03-07
 tags: [鸢尾花,数据,CSV,data,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "奇异值分解（SVD）C语言源代码"
+title: "奇异值分解SVDC语言源代码"
 date:   2024-06-27
 tags: [分解,源代码,奇异,C语言,矩阵]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+Flask项目示例源码"
+title: "PythonFlask项目示例源码"
 date:   2022-06-14
 tags: [示例,Flask,源码,Python,项目]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机、软件工程毕设PPT推荐模板"
+title: "计算机软件工程毕设PPT推荐模板"
 date:   2021-08-10
 tags: [模板,毕设,PPT,软件工程,确保]
 comments: true

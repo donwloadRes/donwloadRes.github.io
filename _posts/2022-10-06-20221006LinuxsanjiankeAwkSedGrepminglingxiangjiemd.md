@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 三剑客 Awk、Sed、Grep 命令详解"
+title: "Linux 三剑客 AwkSedGrep 命令详解"
 date:   2023-06-09
 tags: [Linux,Awk,三剑客,Sed,Grep]
 comments: true

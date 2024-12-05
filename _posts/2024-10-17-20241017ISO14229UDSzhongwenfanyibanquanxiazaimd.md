@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 14229 UDS中文翻译版（全）下载"
+title: "ISO 14229 UDS中文翻译版全下载"
 date:   2021-07-13
 tags: [中文翻译,ISO,14229,文件,UDS]
 comments: true

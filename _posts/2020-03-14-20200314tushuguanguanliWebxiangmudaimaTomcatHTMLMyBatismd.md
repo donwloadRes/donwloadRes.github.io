@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书馆管理Web项目代码（Tomcat, HTML, MyBatis）"
+title: "图书馆管理Web项目代码Tomcat HTML MyBatis"
 date:   2020-08-01
 tags: [借阅,Tomcat,书籍,用户,图书馆]
 comments: true

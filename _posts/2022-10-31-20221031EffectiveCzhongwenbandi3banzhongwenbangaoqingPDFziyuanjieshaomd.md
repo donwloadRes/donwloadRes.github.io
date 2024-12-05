@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective.C++.中文版(第3版中文版)(高清)PDF资源介绍"
+title: "EffectiveC中文版第3版中文版高清PDF资源介绍"
 date:   2024-02-25
 tags: [C++,中文版,高清,Effective,PDF]
 comments: true

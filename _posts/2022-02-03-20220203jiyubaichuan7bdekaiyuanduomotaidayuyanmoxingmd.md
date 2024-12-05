@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于百川-7b的开源多模态大语言模型"
+title: "基于百川7b的开源多模态大语言模型"
 date:   2020-01-17
 tags: [开源,模态,7b,百川,文件]
 comments: true

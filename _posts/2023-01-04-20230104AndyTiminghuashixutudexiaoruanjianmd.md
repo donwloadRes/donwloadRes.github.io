@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AndyTiming - 画时序图的小软件"
+title: "AndyTiming  画时序图的小软件"
 date:   2023-11-14
 tags: [时序,AndyTiming,绘制,example,软件]
 comments: true

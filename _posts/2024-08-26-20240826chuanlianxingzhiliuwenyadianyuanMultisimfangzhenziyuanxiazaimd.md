@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串联型直流稳压电源 - Multisim仿真资源下载"
+title: "串联型直流稳压电源  Multisim仿真资源下载"
 date:   2021-08-03
 tags: [Multisim,仿真,稳压电源,电路,串联]
 comments: true

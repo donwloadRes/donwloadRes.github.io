@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++面试宝典：常用八股文问题汇总"
+title: "C面试宝典常用八股文问题汇总"
 date:   2020-08-11
 tags: [C++,面试,编程,宝典,八股文]
 comments: true

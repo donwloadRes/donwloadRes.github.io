@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微带天线理论与应用（钟顺时）资源下载"
+title: "微带天线理论与应用钟顺时资源下载"
 date:   2023-03-27
 tags: [微带天线,钟顺时,资源,文件,应用]
 comments: true

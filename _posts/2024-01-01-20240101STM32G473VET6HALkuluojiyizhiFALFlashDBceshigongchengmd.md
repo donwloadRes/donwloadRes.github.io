@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32G473VET6 HAL库裸机移植FAL-FlashDB测试工程"
+title: "STM32G473VET6 HAL库裸机移植FALFlashDB测试工程"
 date:   2020-11-22
 tags: [FlashDB,裸机,STM32G473VET6,HAL,FAL]
 comments: true

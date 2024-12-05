@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 资产清理插件 - AssetHunterPro_v1.3.4"
+title: "Unity 资产清理插件  AssetHunterProv134"
 date:   2020-10-17
 tags: [插件,Unity,AssetHunterPro,v1.3,清理]
 comments: true

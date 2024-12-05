@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HDMI 2.1 规格说明文档"
+title: "HDMI 21 规格说明文档"
 date:   2020-06-02
 tags: [HDMI,2.1,文档,规格,视频]
 comments: true

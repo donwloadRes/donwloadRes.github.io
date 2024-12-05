@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "源码-Halcon+MFC实现相机畸变校正与手眼（九点）标定"
+title: "源码HalconMFC实现相机畸变校正与手眼九点标定"
 date:   2024-01-04
 tags: [Halcon,标定,MFC,手眼,畸变]
 comments: true

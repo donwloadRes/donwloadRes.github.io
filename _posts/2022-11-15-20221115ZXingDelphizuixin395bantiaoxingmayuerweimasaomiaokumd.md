@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZXing.Delphi - 最新3.9.5版条形码与二维码扫描库"
+title: "ZXingDelphi  最新395版条形码与二维码扫描库"
 date:   2024-09-06
 tags: [Delphi,ZXing,条形码,扫描,源代码]
 comments: true

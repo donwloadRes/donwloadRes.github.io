@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 通过 WebSocket 实现与服务端通讯示例"
+title: "C WinForm 通过 WebSocket 实现与服务端通讯示例"
 date:   2022-09-27
 tags: [示例,WebSocket,WinForm,通讯,服务端]
 comments: true

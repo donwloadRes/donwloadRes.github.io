@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国第二次土壤普查--土壤类型数据集"
+title: "全国第二次土壤普查土壤类型数据集"
 date:   2021-11-29
 tags: [shp,土壤,数据,GIS,普查]
 comments: true

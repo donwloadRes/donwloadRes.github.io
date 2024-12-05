@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 蓝牙功能示例：经典蓝牙与低功耗蓝牙"
+title: "C 蓝牙功能示例经典蓝牙与低功耗蓝牙"
 date:   2020-09-29
 tags: [蓝牙,示例,低功耗,C#,经典]
 comments: true

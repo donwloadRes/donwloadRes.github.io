@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type-C原理图PCB封装库"
+title: "TypeC原理图PCB封装库"
 date:   2022-02-25
 tags: [Type,原理图,封装,PCB,设计]
 comments: true

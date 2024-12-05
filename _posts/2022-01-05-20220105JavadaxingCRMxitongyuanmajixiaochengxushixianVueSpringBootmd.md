@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java大型CRM系统源码及小程序实现 - Vue + SpringBoot"
+title: "Java大型CRM系统源码及小程序实现  Vue  SpringBoot"
 date:   2022-12-13
 tags: [Vue,CRM,SpringBoot,源码,微信]
 comments: true

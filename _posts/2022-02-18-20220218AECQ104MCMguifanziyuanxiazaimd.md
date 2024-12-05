@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AEC-Q104 MCM规范资源下载"
+title: "AECQ104 MCM规范资源下载"
 date:   2020-02-22
 tags: [AEC,规范,Q104,MCM,芯片]
 comments: true

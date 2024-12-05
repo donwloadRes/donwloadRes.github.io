@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超市管理系统UML建模实例+完整实验报告"
+title: "超市管理系统UML建模实例完整实验报告"
 date:   2024-06-10
 tags: [建模,系统,UML,用例,实验报告]
 comments: true

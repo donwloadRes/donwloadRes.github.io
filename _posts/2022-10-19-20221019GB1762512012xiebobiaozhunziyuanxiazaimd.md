@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GB17625.1-2012 谐波标准资源下载"
+title: "GB1762512012 谐波标准资源下载"
 date:   2022-06-08
 tags: [谐波,2012,GB17625.1,电磁兼容,标准文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用CSharp操作PC-DMIS软件实现自动化"
+title: "使用CSharp操作PCDMIS软件实现自动化"
 date:   2021-08-02
 tags: [PC,DMIS,C#,自动化,测量]
 comments: true

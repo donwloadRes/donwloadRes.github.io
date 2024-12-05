@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于ESP8266和1.44英寸TFT屏幕的时间天气显示案例"
+title: "基于ESP8266和144英寸TFT屏幕的时间天气显示案例"
 date:   2020-04-26
 tags: [TFT,天气,ESP8266,屏幕,显示]
 comments: true

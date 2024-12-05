@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "职工管理系统（C++黑马案例）"
+title: "职工管理系统C黑马案例"
 date:   2024-06-30
 tags: [C++,职工,案例,编程,管理系统]
 comments: true

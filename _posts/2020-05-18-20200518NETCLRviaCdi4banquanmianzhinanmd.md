@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET CLR via C# (第 4 版)：全面指南"
+title: "NET CLR via C 第 4 版全面指南"
 date:   2024-05-04
 tags: [NET,C#,CLR,Framework,深入]
 comments: true

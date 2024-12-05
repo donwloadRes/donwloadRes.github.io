@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一维圣维南方程求解代码 C#"
+title: "一维圣维南方程求解代码 C"
 date:   2020-02-25
 tags: [维南,模拟,C#,代码,一维]
 comments: true

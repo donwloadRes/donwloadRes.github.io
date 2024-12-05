@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab高阶谱分析(HOSA)工具箱及安装方法"
+title: "Matlab高阶谱分析HOSA工具箱及安装方法"
 date:   2023-01-16
 tags: [工具箱,Matlab,安装,HOSA,示例]
 comments: true

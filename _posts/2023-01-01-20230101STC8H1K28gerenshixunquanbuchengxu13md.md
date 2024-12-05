@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC8H1K28个人实训全部程序（1-3）"
+title: "STC8H1K28个人实训全部程序13"
 date:   2021-09-09
 tags: [实训,单片机,学习,STC8H1K28,仓库]
 comments: true

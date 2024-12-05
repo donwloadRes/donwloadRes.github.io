@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红队渗透打点工具-FindUpload"
+title: "红队渗透打点工具FindUpload"
 date:   2020-03-28
 tags: [FindUpload,红队,渗透,测试,测试人员]
 comments: true

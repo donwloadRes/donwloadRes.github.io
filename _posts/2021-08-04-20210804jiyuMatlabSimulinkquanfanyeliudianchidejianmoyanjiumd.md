@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Matlab_Simulink全钒液流电池的建模研究"
+title: "基于MatlabSimulink全钒液流电池的建模研究"
 date:   2020-02-09
 tags: [电池,液流,建模,Simulink,全钒]
 comments: true

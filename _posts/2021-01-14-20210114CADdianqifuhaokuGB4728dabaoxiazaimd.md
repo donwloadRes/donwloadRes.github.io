@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD电气符号库(GB4728)打包下载"
+title: "CAD电气符号库GB4728打包下载"
 date:   2024-01-17
 tags: [CAD,符号库,GB4728,电气,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "07_原理图checklist1 资源介绍"
+title: "07原理图checklist1 资源介绍"
 date:   2022-01-18
 tags: [原理图,检查,器件,一致性,07]
 comments: true

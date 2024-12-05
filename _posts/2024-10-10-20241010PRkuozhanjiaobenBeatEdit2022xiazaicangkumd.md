@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PR扩展脚本Beat Edit(2022) 下载仓库"
+title: "PR扩展脚本Beat Edit2022 下载仓库"
 date:   2021-12-22
 tags: [2022,脚本,PR,Beat,Edit]
 comments: true

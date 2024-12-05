@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SIMULINK的S-函数的机械臂控制与仿真资源介绍"
+title: "基于SIMULINK的S函数的机械臂控制与仿真资源介绍"
 date:   2020-08-09
 tags: [机械,仿真,Simulink,控制,控制器]
 comments: true

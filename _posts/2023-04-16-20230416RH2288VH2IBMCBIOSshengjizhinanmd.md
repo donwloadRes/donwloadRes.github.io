@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RH2288VH 2 IBMC & BIOS升级指南"
+title: "RH2288VH 2 IBMC  BIOS升级指南"
 date:   2021-06-17
 tags: [升级,服务器,BIOS,RH2288VH,升级包]
 comments: true

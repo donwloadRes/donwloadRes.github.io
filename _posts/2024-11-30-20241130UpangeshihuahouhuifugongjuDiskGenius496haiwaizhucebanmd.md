@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U盘格式化后恢复工具：DiskGenius 4.9.6 海外注册版"
+title: "U盘格式化后恢复工具DiskGenius 496 海外注册版"
 date:   2024-01-13
 tags: [U盘,数据恢复,注册版,格式化,恢复]
 comments: true

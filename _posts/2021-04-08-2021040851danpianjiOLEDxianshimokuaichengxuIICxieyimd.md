@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机OLED显示模块程序 (IIC协议)"
+title: "51单片机OLED显示模块程序 IIC协议"
 date:   2020-11-12
 tags: [OLED,单片机,51,IIC,显示]
 comments: true

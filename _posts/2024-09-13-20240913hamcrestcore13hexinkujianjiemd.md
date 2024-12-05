@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hamcrest-core-1.3核心库简介"
+title: "hamcrestcore13核心库简介"
 date:   2021-11-15
 tags: [hamcrest,core,1.3,jar,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gmsh 用户手册-免费分享Gmsh版本"
+title: "Gmsh 用户手册免费分享Gmsh版本"
 date:   2024-01-16
 tags: [Gmsh,用户手册,手册,网格,使用]
 comments: true

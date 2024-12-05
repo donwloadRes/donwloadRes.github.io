@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PTP协议_IEEE1588_V2_中文版"
+title: "PTP协议IEEE1588V2中文版"
 date:   2020-05-16
 tags: [PTP,Version,同步,IEEE1588,协议]
 comments: true

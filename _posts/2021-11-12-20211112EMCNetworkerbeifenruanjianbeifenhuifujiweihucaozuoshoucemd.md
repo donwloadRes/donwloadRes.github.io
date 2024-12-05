@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC Networker备份软件 - 备份、恢复及维护操作手册"
+title: "EMC Networker备份软件  备份恢复及维护操作手册"
 date:   2021-09-10
 tags: [备份,EMC,Networker,软件,本手册]
 comments: true

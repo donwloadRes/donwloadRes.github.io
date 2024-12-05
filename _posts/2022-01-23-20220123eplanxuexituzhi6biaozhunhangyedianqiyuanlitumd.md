@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eplan 学习图纸6：标准行业电气原理图"
+title: "eplan 学习图纸6标准行业电气原理图"
 date:   2020-08-29
 tags: [图纸,原理图,电气设计,EPLAN,学习]
 comments: true

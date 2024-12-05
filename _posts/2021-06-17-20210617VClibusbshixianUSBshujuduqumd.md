@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++ libusb实现USB数据读取"
+title: "VC libusb实现USB数据读取"
 date:   2024-10-19
 tags: [USB,C++,libusb,读取,文件]
 comments: true

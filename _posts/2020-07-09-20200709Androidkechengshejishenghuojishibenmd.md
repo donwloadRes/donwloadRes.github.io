@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android课程设计：生活记事本"
+title: "Android课程设计生活记事本"
 date:   2024-03-11
 tags: [事件,Android,界面,记事本,查询]
 comments: true

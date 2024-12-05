@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATT&CK框架介绍及战技术对照表"
+title: "ATTCK框架介绍及战技术对照表"
 date:   2021-06-16
 tags: [ATT,CK,框架,对照表,战技术]
 comments: true

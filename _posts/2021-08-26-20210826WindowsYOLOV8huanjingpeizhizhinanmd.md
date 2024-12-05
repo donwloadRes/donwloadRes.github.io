@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows+YOLOV8环境配置指南"
+title: "WindowsYOLOV8环境配置指南"
 date:   2024-01-16
 tags: [Windows,配置,YOLOV8,指南,环境]
 comments: true

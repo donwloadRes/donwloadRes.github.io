@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comsol 2020全套教学视频教程 - 入门新手的福音"
+title: "Comsol 2020全套教学视频教程  入门新手的福音"
 date:   2024-03-04
 tags: [Comsol,仿真,教程,2020,视频教程]
 comments: true

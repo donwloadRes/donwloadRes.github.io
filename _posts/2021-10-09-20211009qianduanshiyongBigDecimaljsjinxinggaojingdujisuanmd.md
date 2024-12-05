@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端使用BigDecimal.js进行高精度计算"
+title: "前端使用BigDecimaljs进行高精度计算"
 date:   2021-11-18
 tags: [BigDecimal,运算,js,高精度,精度]
 comments: true

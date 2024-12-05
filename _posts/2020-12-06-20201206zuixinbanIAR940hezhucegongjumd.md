@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版IAR9.40和注册工具"
+title: "最新版IAR940和注册工具"
 date:   2023-09-07
 tags: [IAR9.40,注册,工具,最新版,ARM]
 comments: true

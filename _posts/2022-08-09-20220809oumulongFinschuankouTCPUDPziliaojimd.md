@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙Fins 串口 TCP、UDP资料集"
+title: "欧姆龙Fins 串口 TCPUDP资料集"
 date:   2020-12-04
 tags: [Fins,开发者,欧姆龙,源代码,串口]
 comments: true

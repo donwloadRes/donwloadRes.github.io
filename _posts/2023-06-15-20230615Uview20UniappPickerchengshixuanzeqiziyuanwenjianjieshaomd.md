@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uview2.0+Uniapp Picker城市选择器资源文件介绍"
+title: "Uview20Uniapp Picker城市选择器资源文件介绍"
 date:   2023-03-26
 tags: [选择器,城市,show,Uview2.0,Uniapp]
 comments: true

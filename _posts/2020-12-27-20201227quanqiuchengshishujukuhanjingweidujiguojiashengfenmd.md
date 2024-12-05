@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球城市数据库（含经纬度及国家省份）"
+title: "全球城市数据库含经纬度及国家省份"
 date:   2024-08-09
 tags: [数据库,MySQL,cities,sql,城市]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验4：微程序控制器"
+title: "计算机组成原理实验4微程序控制器"
 date:   2023-04-02
 tags: [实验,微程序,控制器,原理,Windows]
 comments: true

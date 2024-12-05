@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物联网专用ModbusRTU调试助手 V1.0.5版"
+title: "物联网专用ModbusRTU调试助手 V105版"
 date:   2024-03-31
 tags: [调试,联网,Modbus,RTU,设备]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CanOpen_DS402协议-电机驱动器资源下载"
+title: "CanOpenDS402协议电机驱动器资源下载"
 date:   2022-01-10
 tags: [驱动器,CanOpen,DS402,电机,文件]
 comments: true

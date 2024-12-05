@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++学生成绩管理系统(附源码 毕业设计)"
+title: "C学生成绩管理系统附源码 毕业设计"
 date:   2024-10-21
 tags: [学生,成绩,教师,毕业设计,C++]
 comments: true

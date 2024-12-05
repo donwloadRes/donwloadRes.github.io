@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国电信XG-PON设备技术要求V1.0.pdf 下载仓库"
+title: "中国电信XGPON设备技术要求V10pdf 下载仓库"
 date:   2023-11-29
 tags: [PON,XG,V1.0,设备,中国电信]
 comments: true

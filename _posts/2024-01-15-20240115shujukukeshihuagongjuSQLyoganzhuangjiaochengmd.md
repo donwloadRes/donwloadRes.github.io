@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库可视化工具(SQLyog安装教程)"
+title: "数据库可视化工具SQLyog安装教程"
 date:   2021-12-23
 tags: [SQLyog,安装,数据库,下载,可视化]
 comments: true

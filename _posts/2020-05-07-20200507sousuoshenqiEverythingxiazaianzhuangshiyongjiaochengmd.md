@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "搜索神器——Everything 下载安装使用教程"
+title: "搜索神器Everything 下载安装使用教程"
 date:   2021-02-10
 tags: [搜索,Everything,安装,点击,文件]
 comments: true

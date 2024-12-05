@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu安装MATLAB-R2018a指南"
+title: "Ubuntu安装MATLABR2018a指南"
 date:   2022-10-18
 tags: [MATLAB,安装,R2018a,安装包,权限]
 comments: true

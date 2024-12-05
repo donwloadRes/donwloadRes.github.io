@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直线、矩形和圆边缘轮廓拟合提取资源包"
+title: "直线矩形和圆边缘轮廓拟合提取资源包"
 date:   2020-09-12
 tags: [Halcon,封装,提取,边缘,代码]
 comments: true

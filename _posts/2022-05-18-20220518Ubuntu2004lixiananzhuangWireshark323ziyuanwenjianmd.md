@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 离线安装 Wireshark 3.2.3 资源文件"
+title: "Ubuntu 2004 离线安装 Wireshark 323 资源文件"
 date:   2024-01-18
 tags: [Wireshark,安装,文件,离线,资源]
 comments: true

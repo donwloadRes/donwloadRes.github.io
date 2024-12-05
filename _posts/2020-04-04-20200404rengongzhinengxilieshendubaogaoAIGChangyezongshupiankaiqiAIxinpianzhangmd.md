@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工智能系列深度报告：AIGC行业综述篇-开启AI新篇章"
+title: "人工智能系列深度报告AIGC行业综述篇开启AI新篇章"
 date:   2023-12-22
 tags: [人工智能,AI,AIGC,阶段,报告]
 comments: true

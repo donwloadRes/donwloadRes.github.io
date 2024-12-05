@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库函数用户手册（英文版）"
+title: "STM32 HAL库函数用户手册英文版"
 date:   2021-06-27
 tags: [HAL,STM32,库函数,用户手册,开发者]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "60V5A 半桥LLC设计-开关电源设计资源下载"
+title: "60V5A 半桥LLC设计开关电源设计资源下载"
 date:   2023-06-21
 tags: [设计,PCB,开关电源,变压器,原理图]
 comments: true

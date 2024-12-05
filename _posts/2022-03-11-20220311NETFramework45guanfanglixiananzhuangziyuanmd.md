@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 4.5 官方离线安装资源"
+title: "NET Framework 45 官方离线安装资源"
 date:   2022-10-30
 tags: [离线,安装,资源,官方,安装包]
 comments: true

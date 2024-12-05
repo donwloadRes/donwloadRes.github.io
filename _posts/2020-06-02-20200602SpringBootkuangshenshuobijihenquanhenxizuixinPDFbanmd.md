@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+狂神说笔记(很全很细) 最新PDF版"
+title: "SpringBoot狂神说笔记很全很细 最新PDF版"
 date:   2024-11-12
 tags: [SpringBoot,---,笔记,Spring,狂神]
 comments: true

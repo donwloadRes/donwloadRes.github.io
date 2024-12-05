@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 11.3 安卓相册调用及图片处理示例"
+title: "Delphi 113 安卓相册调用及图片处理示例"
 date:   2023-11-25
 tags: [Delphi,Android,相册,11.3,图片]
 comments: true

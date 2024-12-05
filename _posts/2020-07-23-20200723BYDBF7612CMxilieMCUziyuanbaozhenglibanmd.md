@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BYD BF7612CM系列MCU资源包（整理版）"
+title: "BYD BF7612CM系列MCU资源包整理版"
 date:   2024-06-25
 tags: [MCU,BYD,BF7612CM,开发,开发者]
 comments: true

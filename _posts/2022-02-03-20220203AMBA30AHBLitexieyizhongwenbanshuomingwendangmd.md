@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMBA 3.0 AHB-Lite协议中文版说明文档"
+title: "AMBA 30 AHBLite协议中文版说明文档"
 date:   2021-11-03
 tags: [AMBA,AHB,Lite,文档,3.0]
 comments: true

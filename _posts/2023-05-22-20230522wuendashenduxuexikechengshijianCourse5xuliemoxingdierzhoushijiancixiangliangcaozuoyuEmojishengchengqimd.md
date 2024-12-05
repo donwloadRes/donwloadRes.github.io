@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【吴恩达深度学习课程实践】Course 5 - 序列模型第二周实践：词向量操作与Emoji生成器"
+title: "吴恩达深度学习课程实践Course 5  序列模型第二周实践词向量操作与Emoji生成器"
 date:   2022-06-21
 tags: [向量,Emoji,生成器,实践,学习]
 comments: true

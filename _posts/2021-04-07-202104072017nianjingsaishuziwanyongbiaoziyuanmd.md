@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017年竞赛——数字万用表资源"
+title: "2017年竞赛数字万用表资源"
 date:   2023-03-03
 tags: [万用表,PCB,源代码,数字,设计]
 comments: true

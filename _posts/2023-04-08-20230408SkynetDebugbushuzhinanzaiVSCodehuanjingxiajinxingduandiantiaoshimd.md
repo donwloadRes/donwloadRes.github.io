@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skynet Debug 部署指南：在 VSCode 环境下进行断点调试"
+title: "Skynet Debug 部署指南在 VSCode 环境下进行断点调试"
 date:   2020-07-20
 tags: [VSCode,调试,文件夹,Skynet,断点]
 comments: true

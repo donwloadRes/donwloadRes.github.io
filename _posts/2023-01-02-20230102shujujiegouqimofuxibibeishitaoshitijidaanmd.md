@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构期末复习必备：十套试题及答案"
+title: "数据结构期末复习必备十套试题及答案"
 date:   2022-01-11
 tags: [数据结构,复习,试题集,试题,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT & Secure FX安装和授权使用教程（版本8.3）"
+title: "SecureCRT  Secure FX安装和授权使用教程版本83"
 date:   2024-04-20
 tags: [安装,SecureCRT,8.3,教程,使用]
 comments: true

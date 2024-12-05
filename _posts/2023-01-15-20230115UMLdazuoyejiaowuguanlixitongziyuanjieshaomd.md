@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML大作业-教务管理系统资源介绍"
+title: "UML大作业教务管理系统资源介绍"
 date:   2023-12-09
 tags: [UML,教务,管理系统,资源,用例]
 comments: true

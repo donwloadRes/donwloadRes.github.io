@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libstdc++.so.6.0.29 动态库下载"
+title: "libstdcso6029 动态库下载"
 date:   2023-05-08
 tags: [文件,so.6,0.29,libstd,c++]
 comments: true

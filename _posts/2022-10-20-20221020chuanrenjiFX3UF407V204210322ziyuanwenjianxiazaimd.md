@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传人记-FX3U_F407_V20.4.210322 资源文件下载"
+title: "传人记FX3UF407V204210322 资源文件下载"
 date:   2020-05-25
 tags: [FX3U,F407,V20.4,210322,文件]
 comments: true

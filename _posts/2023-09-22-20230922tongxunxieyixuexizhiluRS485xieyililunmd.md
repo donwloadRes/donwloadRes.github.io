@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通讯协议学习之路：RS485协议理论"
+title: "通讯协议学习之路RS485协议理论"
 date:   2020-11-29
 tags: [RS485,协议,应用,通信,文件]
 comments: true

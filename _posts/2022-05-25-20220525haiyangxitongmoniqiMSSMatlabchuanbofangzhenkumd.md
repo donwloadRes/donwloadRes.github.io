@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海洋系统模拟器 (MSS)：Matlab 船舶仿真库"
+title: "海洋系统模拟器 MSSMatlab 船舶仿真库"
 date:   2020-05-21
 tags: [MSS,仿真,Matlab,Simulink,海洋]
 comments: true

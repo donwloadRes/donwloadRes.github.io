@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS-B报文解析资源下载"
+title: "ADSB报文解析资源下载"
 date:   2020-03-15
 tags: [解析,ADS,报文,轨迹,导航]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5+单目测距（Python）资源文件介绍"
+title: "YOLOv5单目测距Python资源文件介绍"
 date:   2020-06-03
 tags: [YOLOv5,单目,测距,Python,目标]
 comments: true

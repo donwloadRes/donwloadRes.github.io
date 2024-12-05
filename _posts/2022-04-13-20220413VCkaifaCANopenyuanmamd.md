@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++开发CANopen源码"
+title: "VC开发CANopen源码"
 date:   2023-12-06
 tags: [源码,C++,CANopen,协议,开发]
 comments: true

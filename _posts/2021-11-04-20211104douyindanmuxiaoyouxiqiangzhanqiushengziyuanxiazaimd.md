@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "抖音弹幕小游戏-枪战求生 资源下载"
+title: "抖音弹幕小游戏枪战求生 资源下载"
 date:   2023-10-14
 tags: [弹幕,教程,抖音,小游戏,枪战]
 comments: true

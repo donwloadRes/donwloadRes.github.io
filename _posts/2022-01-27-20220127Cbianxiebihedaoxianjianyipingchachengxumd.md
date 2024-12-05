@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 编写闭合导线简易平差程序"
+title: "C 编写闭合导线简易平差程序"
 date:   2021-10-22
 tags: [平差,Excel,导线,数据,闭合]
 comments: true

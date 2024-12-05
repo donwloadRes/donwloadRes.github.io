@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国密SM2_SM3加密解密及加签验签操作C#源码"
+title: "国密SM2SM3加密解密及加签验签操作C源码"
 date:   2020-01-03
 tags: [加密,源码,SM2,国密,SM3]
 comments: true

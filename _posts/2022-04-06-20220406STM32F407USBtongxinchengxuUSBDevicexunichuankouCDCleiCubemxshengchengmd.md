@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 USB通信程序：USB Device 虚拟串口 CDC类（Cubemx生成）"
+title: "STM32F407 USB通信程序USB Device 虚拟串口 CDC类Cubemx生成"
 date:   2024-11-09
 tags: [USB,串口,STM32F407,CDC,通信]
 comments: true

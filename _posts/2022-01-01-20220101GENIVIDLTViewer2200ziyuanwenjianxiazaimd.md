@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GENIVI DLT Viewer 2.20.0 资源文件下载"
+title: "GENIVI DLT Viewer 2200 资源文件下载"
 date:   2023-12-20
 tags: [DLT,Viewer,2.20,文件,GENIVI]
 comments: true

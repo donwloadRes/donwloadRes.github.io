@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "occcont.cpp报错 所缺OCX控件解决方案"
+title: "occcontcpp报错 所缺OCX控件解决方案"
 date:   2020-01-22
 tags: [ocx,控件,occcont,cpp,OCX]
 comments: true

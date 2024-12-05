@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿宋_GB2312 字体资源"
+title: "仿宋GB2312 字体资源"
 date:   2021-10-22
 tags: [字体,GB2312,仿宋,安装,文档]
 comments: true

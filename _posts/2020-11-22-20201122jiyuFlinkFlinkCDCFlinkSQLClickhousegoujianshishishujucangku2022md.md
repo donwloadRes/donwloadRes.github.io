@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Flink+FlinkCDC+FlinkSQL+Clickhouse构建实时数据仓库2022"
+title: "基于FlinkFlinkCDCFlinkSQLClickhouse构建实时数据仓库2022"
 date:   2023-06-12
 tags: [Flink,实时,课程,数据仓库,数仓]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android GPS定位（获取经纬度）资源文件介绍"
+title: "Android GPS定位获取经纬度资源文件介绍"
 date:   2020-03-30
 tags: [GPS,经纬度,定位,文件,Android]
 comments: true

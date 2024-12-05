@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库概念 第六版 中英文 带目录+习题答案"
+title: "数据库概念 第六版 中英文 带目录习题答案"
 date:   2024-08-21
 tags: [习题,数据库,中英文,目录,答案]
 comments: true

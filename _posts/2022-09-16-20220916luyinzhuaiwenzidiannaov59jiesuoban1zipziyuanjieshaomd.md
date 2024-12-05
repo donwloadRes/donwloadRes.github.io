@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "录音转文字电脑v5.9解锁版1.zip 资源介绍"
+title: "录音转文字电脑v59解锁版1zip 资源介绍"
 date:   2024-11-15
 tags: [录音,文件,解锁,文字,解压]
 comments: true

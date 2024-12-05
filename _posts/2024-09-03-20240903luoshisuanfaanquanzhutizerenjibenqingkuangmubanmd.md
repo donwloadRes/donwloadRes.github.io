@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "落实算法安全主体责任基本情况（模板）"
+title: "落实算法安全主体责任基本情况模板"
 date:   2023-08-05
 tags: [算法,安全,服务提供者,制度,确保]
 comments: true

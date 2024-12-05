@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSEK直接网络管理(NM)规范 中文版"
+title: "OSEK直接网络管理NM规范 中文版"
 date:   2023-01-30
 tags: [OSEK,网络管理,NM,规范,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL留言板管理系统"
+title: "PHPMySQL留言板管理系统"
 date:   2020-01-22
 tags: [PHP,MariaDB,留言板,管理系统,WampServer]
 comments: true

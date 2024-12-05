@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四轮两驱小车（三）：STM32驱动MPU6050进行转弯"
+title: "四轮两驱小车三STM32驱动MPU6050进行转弯"
 date:   2021-01-13
 tags: [MPU6050,STM32,转弯,小车,I2C]
 comments: true

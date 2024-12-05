@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "循环神经网络（RNN）PPT资源"
+title: "循环神经网络RNNPPT资源"
 date:   2021-05-29
 tags: [RNN,神经网络,PPT,循环,学习]
 comments: true

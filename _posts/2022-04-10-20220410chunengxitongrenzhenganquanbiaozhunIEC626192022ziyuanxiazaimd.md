@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "储能系统认证安全标准IEC 62619:2022 资源下载"
+title: "储能系统认证安全标准IEC 626192022 资源下载"
 date:   2024-11-29
 tags: [标准,IEC,62619,2022,储能]
 comments: true

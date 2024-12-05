@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atlas扭力扳手C#接口程序"
+title: "Atlas扭力扳手C接口程序"
 date:   2021-01-18
 tags: [Socket,代码,蓝牙,C#,通讯]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA——PLL锁相环配置及调用（基础篇）"
+title: "FPGAPLL锁相环配置及调用基础篇"
 date:   2023-05-09
 tags: [PLL,FPGA,IP,锁相环,时钟]
 comments: true

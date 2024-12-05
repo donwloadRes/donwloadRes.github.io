@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv8改进：融合Gold-YOLO Neck"
+title: "YOLOv8改进融合GoldYOLO Neck"
 date:   2021-04-09
 tags: [YOLO,YOLOv8,Neck,Gold,模型]
 comments: true

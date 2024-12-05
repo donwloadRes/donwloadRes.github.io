@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Innovus 18.1 CTS 资源文件介绍"
+title: "Innovus 181 CTS 资源文件介绍"
 date:   2020-09-15
 tags: [时钟,Innovus,CTS,18.1,文件]
 comments: true

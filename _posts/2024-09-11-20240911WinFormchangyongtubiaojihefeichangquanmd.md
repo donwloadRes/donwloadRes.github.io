@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinForm常用图标集合（非常全）"
+title: "WinForm常用图标集合非常全"
 date:   2020-08-15
 tags: [图标,WinForm,常用,用于,集合]
 comments: true

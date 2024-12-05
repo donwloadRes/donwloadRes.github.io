@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IP编辑框（Qt QWidget）"
+title: "IP编辑框Qt QWidget"
 date:   2022-12-28
 tags: [IP,Qt,输入,编辑框,QLineEdit]
 comments: true

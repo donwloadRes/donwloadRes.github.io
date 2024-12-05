@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch 搜索引擎实现对文档内容进行快速检索（保姆级教程）"
+title: "Elasticsearch 搜索引擎实现对文档内容进行快速检索保姆级教程"
 date:   2021-10-07
 tags: [Elasticsearch,文档,教程,查询,安装]
 comments: true

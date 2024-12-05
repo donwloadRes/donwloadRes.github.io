@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "吴恩达课程课后编程作业：第 2 部分 - 优化深度神经网络 - 第 1 周作业（1、2、3）"
+title: "吴恩达课程课后编程作业第 2 部分  优化深度神经网络  第 1 周作业123
+date   20230322
+tags 梯度初始化作业随机拟合
+comments true
+author admin
+
+
+layout post
+title 吴恩达课程课后编程作业第 2 部分  优化深度神经网络  第 1 周作业123"
 date:   2023-03-22
 tags: [梯度,初始化,作业,随机,拟合]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "吴恩达课程课后编程作业：第 2 部分 - 优化深度神经网络 - 第 1 周作业（1、2、3）"
+title: "吴恩达课程课后编程作业第 2 部分  优化深度神经网络  第 1 周作业123
+date   20230322
+tags 梯度初始化作业随机拟合
+comments true
+author admin
+
+
+layout post
+title 吴恩达课程课后编程作业第 2 部分  优化深度神经网络  第 1 周作业123"
 date:   2020-02-19
 tags: [梯度,初始化,随机,作业,拟合]
 comments: true

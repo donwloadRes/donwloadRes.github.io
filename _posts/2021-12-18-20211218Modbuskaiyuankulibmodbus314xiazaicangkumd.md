@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus开源库libmodbus-3.1.4下载仓库"
+title: "Modbus开源库libmodbus314下载仓库"
 date:   2023-05-15
 tags: [libmodbus,Modbus,3.1,开源,编译]
 comments: true

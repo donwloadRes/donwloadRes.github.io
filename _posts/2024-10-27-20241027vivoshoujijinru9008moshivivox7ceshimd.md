@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vivo手机进入9008模式（vivo x7测试）"
+title: "vivo手机进入9008模式vivo x7测试"
 date:   2020-10-23
 tags: [9008,vivo,手机,模式,音量]
 comments: true

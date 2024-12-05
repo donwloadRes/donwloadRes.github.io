@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server 2014 下载、安装和使用教程"
+title: "SQL Server 2014 下载安装和使用教程"
 date:   2020-06-19
 tags: [SQL,Server,2014,安装,数据库]
 comments: true

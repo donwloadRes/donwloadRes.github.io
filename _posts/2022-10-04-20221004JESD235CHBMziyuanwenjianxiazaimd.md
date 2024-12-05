@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD235C-HBM 资源文件下载"
+title: "JESD235CHBM 资源文件下载"
 date:   2023-01-09
 tags: [JESD235C,HBM,文件,下载,pdf]
 comments: true

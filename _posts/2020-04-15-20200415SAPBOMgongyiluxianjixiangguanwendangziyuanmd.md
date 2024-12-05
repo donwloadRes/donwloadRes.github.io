@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP BOM、工艺路线及相关文档资源"
+title: "SAP BOM工艺路线及相关文档资源"
 date:   2021-01-26
 tags: [SAP,BOM,路线,工艺,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "unity webGL网络socket插件 - bestHTTP 2.6.2"
+title: "unity webGL网络socket插件  bestHTTP 262"
 date:   2020-02-11
 tags: [Unity,插件,bestHTTP,开发者,网络]
 comments: true

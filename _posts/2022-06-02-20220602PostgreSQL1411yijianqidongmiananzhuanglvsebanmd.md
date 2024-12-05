@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL 14.11 一键启动免安装绿色版"
+title: "PostgreSQL 1411 一键启动免安装绿色版"
 date:   2024-04-12
 tags: [数据库,绿色版,PostgreSQL,解压,16.2]
 comments: true

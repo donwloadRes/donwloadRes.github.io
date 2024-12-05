@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halcon 12.0 软件下载及机器视觉资料"
+title: "Halcon 120 软件下载及机器视觉资料"
 date:   2020-06-23
 tags: [视觉,机器,Halcon,12.0,资料]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NFC 13.56MHz天线设计资源下载"
+title: "NFC 1356MHz天线设计资源下载"
 date:   2021-04-22
 tags: [天线,NFC,设计,仿真,MHz]
 comments: true

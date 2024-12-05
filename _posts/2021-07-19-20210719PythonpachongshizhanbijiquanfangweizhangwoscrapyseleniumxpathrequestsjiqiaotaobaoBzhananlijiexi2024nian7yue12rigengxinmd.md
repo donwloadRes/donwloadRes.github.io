@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫实战笔记：全方位掌握scrapy、selenium、xpath、requests技巧 —— 淘宝、B站案例解析（2024年7月12日更新）"
+title: "Python爬虫实战笔记全方位掌握scrapyseleniumxpathrequests技巧  淘宝B站案例解析2024年7月12日更新"
 date:   2023-08-25
 tags: [爬虫,实战,Python,数据,requests]
 comments: true

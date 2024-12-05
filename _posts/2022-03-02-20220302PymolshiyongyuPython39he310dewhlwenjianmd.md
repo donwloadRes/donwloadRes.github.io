@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pymol 适用于 Python 3.9 和 3.10 的 whl 文件"
+title: "Pymol 适用于 Python 39 和 310 的 whl 文件"
 date:   2024-05-30
 tags: [whl,Pymol,Python,3.10,3.9]
 comments: true

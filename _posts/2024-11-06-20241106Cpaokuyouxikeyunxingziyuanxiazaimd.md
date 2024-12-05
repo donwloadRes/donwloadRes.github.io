@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++跑酷游戏（可运行）资源下载"
+title: "C跑酷游戏可运行资源下载"
 date:   2022-04-27
 tags: [游戏,C++,源代码,资源,运行]
 comments: true

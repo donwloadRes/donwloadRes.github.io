@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quartus II 13.0 器件库下载"
+title: "Quartus II 130 器件库下载"
 date:   2021-04-14
 tags: [器件,Quartus,II,版本,下载]
 comments: true

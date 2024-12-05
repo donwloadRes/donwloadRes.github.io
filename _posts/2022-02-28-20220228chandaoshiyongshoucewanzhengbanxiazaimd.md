@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "禅道使用手册_完整版下载"
+title: "禅道使用手册完整版下载"
 date:   2020-10-18
 tags: [禅道,使用手册,完整版,解压,zip]
 comments: true

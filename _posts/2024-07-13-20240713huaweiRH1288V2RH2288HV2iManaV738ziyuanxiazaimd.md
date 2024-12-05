@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为 RH1288 V2 & RH2288H V2 iMana V738 资源下载"
+title: "华为 RH1288 V2  RH2288H V2 iMana V738 资源下载"
 date:   2024-04-30
 tags: [V2,iMana,RH1288,RH2288H,华为]
 comments: true

@@ -1,6 +1,31 @@
 ---
 layout: post
-title: "三次样条插值函数C++实现"
+title: "三次样条插值函数C实现
+date   20200821
+tags 插值样条CSpline边界条件II
+comments true
+author admin
+
+ 三次样条插值函数C实现
+
+ 简介
+本仓库提供了一个C实现的三次样条插值函数资源文件该资源文件将三次样条函数封装成了一个CSpline类并实现了样条函数的I型边界条件和II型边界条件
+
+ 功能描述
+ CSpline类封装了三次样条插值的核心算法
+ I型边界条件实现了三次样条插值的I型边界条件
+ II型边界条件实现了三次样条插值的II型边界条件
+
+ 使用方法
+1 下载本仓库中的资源文件
+2 将CSpline类集成到你的C项目中
+3 根据需要选择I型或II型边界条件进行插值计算
+
+ 示例代码
+以下是一个简单的示例代码展示了如何使用CSpline类进行插值计算
+
+cpp
+include CSplineh"
 date:   2020-08-21
 tags: [插值,样条,CSpline,边界条件,II]
 comments: true

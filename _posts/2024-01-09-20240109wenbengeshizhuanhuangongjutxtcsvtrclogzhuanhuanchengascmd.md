@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文本格式转换工具：txt、csv、trc、log 转换成 asc"
+title: "文本格式转换工具txtcsvtrclog 转换成 asc"
 date:   2021-09-20
 tags: [asc,格式,转换,文本格式,工具]
 comments: true

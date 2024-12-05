@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB语音处理示例：变速不变调与变调不变速技术"
+title: "MATLAB语音处理示例变速不变调与变调不变速技术"
 date:   2021-07-08
 tags: [音频,变速,变调,MATLAB,音高]
 comments: true

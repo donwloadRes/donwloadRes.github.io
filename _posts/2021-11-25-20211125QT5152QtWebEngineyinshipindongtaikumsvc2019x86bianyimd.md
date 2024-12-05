@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.15.2 QtWebEngine 音视频动态库（msvc2019 + x86编译）"
+title: "QT5152 QtWebEngine 音视频动态库msvc2019  x86编译"
 date:   2022-05-04
 tags: [编译,动态,QtWebEngine,QT5.15,msvc2019]
 comments: true

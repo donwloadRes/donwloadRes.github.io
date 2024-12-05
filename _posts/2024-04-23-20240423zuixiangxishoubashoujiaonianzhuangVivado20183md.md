@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细手把手教你安装 Vivado2018.3"
+title: "最详细手把手教你安装 Vivado20183"
 date:   2022-02-09
 tags: [安装,教程,Vivado,2018.3,详细]
 comments: true

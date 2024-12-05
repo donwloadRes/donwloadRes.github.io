@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超好用的软件开发辅助软件——GeekSpeed"
+title: "超好用的软件开发辅助软件GeekSpeed"
 date:   2023-09-06
 tags: [GeekSpeed,开发者,逻辑,软件开发,开发]
 comments: true

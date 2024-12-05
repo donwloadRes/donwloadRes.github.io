@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMCom芯讯通CAT1模块SIM7670X（QCX216平台）完整资料包"
+title: "SIMCom芯讯通CAT1模块SIM7670XQCX216平台完整资料包"
 date:   2021-11-24
 tags: [模块,SIM7670X,设计,讯通,硬件]
 comments: true

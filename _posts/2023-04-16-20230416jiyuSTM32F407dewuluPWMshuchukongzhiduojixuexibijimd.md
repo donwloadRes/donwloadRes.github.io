@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32F407的五路PWM输出控制舵机-学习笔记"
+title: "基于STM32F407的五路PWM输出控制舵机学习笔记"
 date:   2020-10-21
 tags: [PWM,舵机,STM32F407,控制,STM32]
 comments: true

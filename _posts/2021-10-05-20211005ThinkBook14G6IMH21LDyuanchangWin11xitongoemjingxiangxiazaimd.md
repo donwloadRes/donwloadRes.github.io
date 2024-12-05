@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkBook 14 G6+ IMH(21LD)原厂Win11系统oem镜像下载"
+title: "ThinkBook 14 G6 IMH21LD原厂Win11系统oem镜像下载"
 date:   2020-10-23
 tags: [镜像,系统,ThinkBook,14,G6]
 comments: true

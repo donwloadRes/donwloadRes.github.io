@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Embedded Standard 7 X86X64纯净版2018.3.19"
+title: "Windows Embedded Standard 7 X86X64纯净版2018319"
 date:   2022-06-20
 tags: [Windows,纯净,Embedded,Standard,19]
 comments: true

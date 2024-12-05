@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# SuperSocket 手把手教你入门 傻瓜教程---1（服务器单向接收客户端发送数据）"
+title: "C SuperSocket 手把手教你入门 傻瓜教程1服务器单向接收客户端发送数据"
 date:   2022-12-25
 tags: [SuperSocket,客户端,服务器,C#,教程]
 comments: true

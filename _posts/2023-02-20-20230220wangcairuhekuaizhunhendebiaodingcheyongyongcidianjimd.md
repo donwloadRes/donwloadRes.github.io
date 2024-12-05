@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "旺材_如何快准狠的标定车用永磁电机"
+title: "旺材如何快准狠的标定车用永磁电机"
 date:   2024-01-31
 tags: [标定,电机,永磁,车用,鲁棒性]
 comments: true

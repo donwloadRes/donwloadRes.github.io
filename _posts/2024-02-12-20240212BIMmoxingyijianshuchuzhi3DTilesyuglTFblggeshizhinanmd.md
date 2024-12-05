@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BIM模型一键输出至3D Tiles与glTF-blg格式指南"
+title: "BIM模型一键输出至3D Tiles与glTFblg格式指南"
 date:   2022-05-23
 tags: [BIM,模型,格式,转换,3D]
 comments: true

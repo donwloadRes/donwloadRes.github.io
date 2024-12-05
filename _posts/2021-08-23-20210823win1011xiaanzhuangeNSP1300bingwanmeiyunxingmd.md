@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10、11下安装eNSP（1.3.00）并完美运行"
+title: "win1011下安装eNSP1300并完美运行"
 date:   2024-01-02
 tags: [eNSP,安装,00,Windows,11]
 comments: true

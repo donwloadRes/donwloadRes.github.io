@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Cordic IP核的使用指南：以arctan为例"
+title: "Xilinx Cordic IP核的使用指南以arctan为例"
 date:   2020-01-02
 tags: [Cordic,IP,arctan,ISE14.6,算法]
 comments: true

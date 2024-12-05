@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Axure 10 Win与Mac安装程序下载(含汉化包)"
+title: "Axure 10 Win与Mac安装程序下载含汉化包"
 date:   2024-11-11
 tags: [Axure,汉化,10,元件,汉化包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "除了Xshell，还有哪些趁手的Linux终端工具"
+title: "除了Xshell还有哪些趁手的Linux终端工具"
 date:   2023-08-05
 tags: [Linux,SSH,服务器,连接,终端]
 comments: true

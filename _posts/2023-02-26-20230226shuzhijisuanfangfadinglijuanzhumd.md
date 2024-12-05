@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数值计算方法 - 丁丽娟著"
+title: "数值计算方法  丁丽娟著"
 date:   2020-05-30
 tags: [数值,丁丽娟,计算方法,算法,学习]
 comments: true

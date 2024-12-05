@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机磁场定向矢量控制MATLAB-Simulink完整仿真模型"
+title: "永磁同步电机磁场定向矢量控制MATLABSimulink完整仿真模型"
 date:   2022-07-12
 tags: [模型,仿真,PMSM,MATLAB,Simulink]
 comments: true

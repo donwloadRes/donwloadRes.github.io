@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VRTK 4.0 Input Manager 导入包使用指南"
+title: "VRTK 40 Input Manager 导入包使用指南"
 date:   2021-11-26
 tags: [导入,VRTK,4.0,Input,Manager]
 comments: true

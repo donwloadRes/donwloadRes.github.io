@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "传感器原理及应用（个人手写笔记）.pdf"
+title: "传感器原理及应用个人手写笔记pdf"
 date:   2022-05-14
 tags: [传感器,笔记,复习,应用,学习]
 comments: true

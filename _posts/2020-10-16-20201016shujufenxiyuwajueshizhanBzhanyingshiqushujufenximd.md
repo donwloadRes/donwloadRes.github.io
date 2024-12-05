@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【数据分析与挖掘实战】B站影视区数据分析"
+title: "数据分析与挖掘实战B站影视区数据分析"
 date:   2021-02-06
 tags: [数据分析,影视,挖掘,实战,文件]
 comments: true

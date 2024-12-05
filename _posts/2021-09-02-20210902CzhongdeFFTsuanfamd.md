@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#中的FFT算法"
+title: "C中的FFT算法"
 date:   2022-10-25
 tags: [FFT,C#,算法,代码,示例]
 comments: true

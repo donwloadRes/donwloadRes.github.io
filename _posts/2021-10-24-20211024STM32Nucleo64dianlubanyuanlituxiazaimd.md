@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 Nucleo(64) 电路板原理图下载"
+title: "STM32 Nucleo64 电路板原理图下载"
 date:   2021-02-03
 tags: [原理图,电路板,NUCLEO,64,STM32]
 comments: true

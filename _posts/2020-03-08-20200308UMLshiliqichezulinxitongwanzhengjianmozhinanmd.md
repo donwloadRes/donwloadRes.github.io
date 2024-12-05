@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UML实例：汽车租赁系统完整建模指南"
+title: "UML实例汽车租赁系统完整建模指南"
 date:   2021-09-18
 tags: [UML,Diagram,系统,租赁,建模]
 comments: true

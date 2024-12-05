@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子技术PSIM仿真-三相半波可控整流电路"
+title: "电力电子技术PSIM仿真三相半波可控整流电路"
 date:   2023-03-24
 tags: [半波,仿真,PSIM,电路,三相]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信创研究框架（200页）下载仓库"
+title: "信创研究框架200页下载仓库"
 date:   2023-08-12
 tags: [自主,国产,200,信创,研究]
 comments: true

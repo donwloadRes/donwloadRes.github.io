@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu离线安装SVN 1.13.0指南"
+title: "Ubuntu离线安装SVN 1130指南"
 date:   2024-11-18
 tags: [SVN,安装,deb,Ubuntu,bash]
 comments: true

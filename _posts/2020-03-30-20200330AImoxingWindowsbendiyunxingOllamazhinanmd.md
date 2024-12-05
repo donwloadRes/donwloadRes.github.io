@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI模型：Windows本地运行Ollama指南"
+title: "AI模型Windows本地运行Ollama指南"
 date:   2023-08-13
 tags: [模型,运行,Ollama,安装,Windows]
 comments: true

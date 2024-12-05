@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音乐制作工具Studio One 6.6.1中文版 (Win&Mac)2024最新安装激活图文教程"
+title: "音乐制作工具Studio One 661中文版 WinMac2024最新安装激活图文教程"
 date:   2021-03-03
 tags: [教程,Studio,安装,激活,6.6]
 comments: true

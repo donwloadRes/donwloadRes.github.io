@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 绘图板源码简介"
+title: "C 绘图板源码简介"
 date:   2022-01-16
 tags: [C#,绘制,图形,绘图板,源码]
 comments: true

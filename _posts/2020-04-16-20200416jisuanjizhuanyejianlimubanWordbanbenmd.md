@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机专业简历模板（Word版本）"
+title: "计算机专业简历模板Word版本"
 date:   2021-03-08
 tags: [模板,简历,计算机专业,Word,负责]
 comments: true

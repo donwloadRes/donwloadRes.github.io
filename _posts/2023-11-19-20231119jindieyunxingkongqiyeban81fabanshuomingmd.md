@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "金蝶云星空企业版8.1发版说明"
+title: "金蝶云星空企业版81发版说明"
 date:   2020-03-10
 tags: [金蝶,星空,8.1,发版,系统]
 comments: true

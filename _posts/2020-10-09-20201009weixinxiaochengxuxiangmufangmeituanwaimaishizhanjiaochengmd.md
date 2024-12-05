@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序项目：仿美团外卖实战教程"
+title: "微信小程序项目仿美团外卖实战教程"
 date:   2024-04-13
 tags: [微信,数据库,程序开发,程序,项目]
 comments: true

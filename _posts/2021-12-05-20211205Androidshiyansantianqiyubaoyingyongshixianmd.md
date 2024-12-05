@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android实验三：天气预报应用实现"
+title: "Android实验三天气预报应用实现"
 date:   2022-03-21
 tags: [实现,Android,天气预报,功能,数据]
 comments: true

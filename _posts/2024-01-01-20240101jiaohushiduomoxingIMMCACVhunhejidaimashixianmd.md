@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交互式多模型 IMM（CA-CV混合）及代码实现"
+title: "交互式多模型 IMMCACV混合及代码实现"
 date:   2023-12-29
 tags: [仿真,交互式,模型,CA,CV]
 comments: true

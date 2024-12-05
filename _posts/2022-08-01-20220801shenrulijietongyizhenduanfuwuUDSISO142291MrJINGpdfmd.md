@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解统一诊断服务（UDS）ISO14229-1-Mr.JING.pdf"
+title: "深入理解统一诊断服务UDSISO142291MrJINGpdf"
 date:   2022-06-18
 tags: [UDS,ISO14229,诊断,Mr,JING]
 comments: true

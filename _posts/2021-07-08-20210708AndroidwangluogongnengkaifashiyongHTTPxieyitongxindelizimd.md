@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android网络功能开发 - 使用HTTP协议通信的例子"
+title: "Android网络功能开发  使用HTTP协议通信的例子"
 date:   2021-01-13
 tags: [Android,HTTP,客户端,服务器端,Servlet]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft 日期和时间选择控件 version 6.0"
+title: "Microsoft 日期和时间选择控件 version 60"
 date:   2020-11-14
 tags: [控件,日期,Microsoft,Windows,选择]
 comments: true

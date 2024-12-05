@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos6.5 镜像文件下载"
+title: "Centos65 镜像文件下载"
 date:   2021-08-25
 tags: [Centos6.5,镜像文件,仓库,下载,虚拟机]
 comments: true

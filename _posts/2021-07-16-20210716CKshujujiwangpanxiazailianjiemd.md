@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CK+数据集网盘下载链接"
+title: "CK数据集网盘下载链接"
 date:   2023-09-30
 tags: [CK,下载,数据,链接,人脸]
 comments: true

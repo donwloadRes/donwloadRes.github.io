@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彩色文件夹、彩色文件、图标标记MultiColorWin(Win10-Win7-WInXP)"
+title: "彩色文件夹彩色文件图标标记MultiColorWinWin10Win7WInXP"
 date:   2021-07-23
 tags: [文件夹,文件,图标,Windows,标记]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMMI模型2.0中文版资源下载"
+title: "CMMI模型20中文版资源下载"
 date:   2023-09-08
 tags: [CMMI,2.0,模型,pdf,文件]
 comments: true

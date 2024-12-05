@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows server 2012R2或Windows 8.1如何成功离线安装 .NET 4.7"
+title: "Windows server 2012R2或Windows 81如何成功离线安装 NET 47"
 date:   2022-05-17
 tags: [安装,NET,4.7,离线,Windows]
 comments: true

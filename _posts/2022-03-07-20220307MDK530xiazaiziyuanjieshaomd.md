@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDK5.30 下载资源介绍"
+title: "MDK530 下载资源介绍"
 date:   2021-01-27
 tags: [MDK5.30,Cortex,M55,ARM,调试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "捕获与解析IP数据包（C++）"
+title: "捕获与解析IP数据包C"
 date:   2021-01-08
 tags: [数据包,解析,IP,捕获,网络层]
 comments: true

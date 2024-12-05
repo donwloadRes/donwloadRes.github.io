@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA中差分信号的定义和使用（一）"
+title: "FPGA中差分信号的定义和使用一"
 date:   2022-06-06
 tags: [差分,FPGA,信号,定义,使用]
 comments: true

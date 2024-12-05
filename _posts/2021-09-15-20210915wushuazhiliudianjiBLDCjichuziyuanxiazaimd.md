@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无刷直流电机(BLDC)基础资源下载"
+title: "无刷直流电机BLDC基础资源下载"
 date:   2020-11-19
 tags: [直流电机,无刷,BLDC,文件,下载]
 comments: true

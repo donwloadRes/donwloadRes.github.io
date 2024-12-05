@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端小游戏——植物大战僵尸"
+title: "前端小游戏植物大战僵尸"
 date:   2021-11-28
 tags: [游戏,僵尸,小游戏,植物,模式]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# PictureBox 图像随鼠标滚轮缩放、拖动"
+title: "C PictureBox 图像随鼠标滚轮缩放拖动"
 date:   2021-05-21
 tags: [鼠标,拖动,缩放,滚轮,C#]
 comments: true

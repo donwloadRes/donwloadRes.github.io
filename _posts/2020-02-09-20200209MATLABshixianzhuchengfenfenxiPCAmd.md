@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB实现主成分分析（PCA）"
+title: "MATLAB实现主成分分析PCA"
 date:   2021-12-28
 tags: [降维,MATLAB,PCA,数据,代码]
 comments: true

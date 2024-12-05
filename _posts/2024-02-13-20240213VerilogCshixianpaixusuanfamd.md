@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog-C++实现排序算法"
+title: "VerilogC实现排序算法"
 date:   2023-05-28
 tags: [排序,算法,实现,Verilog,C++]
 comments: true

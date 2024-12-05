@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CobaltStrike 4.8 资源文件使用指南"
+title: "CobaltStrike 48 资源文件使用指南"
 date:   2020-08-29
 tags: [服务器,客户端,文件,teamserver,4.8]
 comments: true

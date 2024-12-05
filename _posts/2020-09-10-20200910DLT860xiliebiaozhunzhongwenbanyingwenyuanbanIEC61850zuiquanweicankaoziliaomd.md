@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLT860系列标准 中文版+英文原版 IEC61850最权威参考资料"
+title: "DLT860系列标准 中文版英文原版 IEC61850最权威参考资料"
 date:   2020-03-20
 tags: [中文版,DLT860,IEC61850,标准,英文原版]
 comments: true

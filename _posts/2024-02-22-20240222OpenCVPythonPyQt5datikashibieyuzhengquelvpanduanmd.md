@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV+Python+PyQt5 答题卡识别与正确率判断"
+title: "OpenCVPythonPyQt5 答题卡识别与正确率判断"
 date:   2021-10-18
 tags: [答题卡,py,--,正确率,excute]
 comments: true

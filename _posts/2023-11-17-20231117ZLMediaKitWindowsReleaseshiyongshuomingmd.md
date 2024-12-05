@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZLMediaKit-Windows-Release 使用说明"
+title: "ZLMediaKitWindowsRelease 使用说明"
 date:   2023-05-26
 tags: [ZLMediaKit,Windows,流媒体,配置文件,服务]
 comments: true

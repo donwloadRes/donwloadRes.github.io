@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TensorFlow深度学习实战：21个项目源代码"
+title: "TensorFlow深度学习实战21个项目源代码"
 date:   2023-11-12
 tags: [TensorFlow,深度,项目,学习,21]
 comments: true

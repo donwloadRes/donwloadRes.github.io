@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享111个Java源码，总有一款适合您"
+title: "分享111个Java源码总有一款适合您"
 date:   2021-11-12
 tags: [源码,Java,111,分享,开发者]
 comments: true

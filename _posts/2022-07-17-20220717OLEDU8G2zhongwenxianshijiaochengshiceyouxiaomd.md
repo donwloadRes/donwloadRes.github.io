@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OLED U8G2 中文显示教程（实测有效）"
+title: "OLED U8G2 中文显示教程实测有效"
 date:   2020-12-30
 tags: [u8g2,文件,中文,OLED,font]
 comments: true

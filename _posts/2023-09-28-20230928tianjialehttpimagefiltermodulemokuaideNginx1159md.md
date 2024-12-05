@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "添加了http-image-filter-module模块的Nginx1.15.9"
+title: "添加了httpimagefiltermodule模块的Nginx1159"
 date:   2023-01-20
 tags: [http,image,filter,module,Nginx]
 comments: true

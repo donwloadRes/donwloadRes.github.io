@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModBus TCP 通讯 C# 示例项目"
+title: "ModBus TCP 通讯 C 示例项目"
 date:   2021-02-09
 tags: [服务端,ModBus,TCP,客户端,项目]
 comments: true

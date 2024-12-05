@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++课程设计：电影院自助售票与管理系统"
+title: "C课程设计电影院自助售票与管理系统"
 date:   2021-11-12
 tags: [放映,售票,信息,系统,电影]
 comments: true

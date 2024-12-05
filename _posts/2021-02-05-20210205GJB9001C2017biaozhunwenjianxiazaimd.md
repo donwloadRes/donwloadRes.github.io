@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB9001C-2017标准文件下载"
+title: "GJB9001C2017标准文件下载"
 date:   2023-06-28
 tags: [GJB9001C,2017,下载,标准文件,pdf]
 comments: true

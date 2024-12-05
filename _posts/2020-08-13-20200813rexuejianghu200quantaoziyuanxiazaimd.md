@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "热血江湖 20.0全套资源下载"
+title: "热血江湖 200全套资源下载"
 date:   2021-05-27
 tags: [游戏,热血,江湖,服务器,数据库]
 comments: true

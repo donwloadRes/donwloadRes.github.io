@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel中利用多条件进行查找：VLOOKUP与XLOOKUP函数应用指南"
+title: "Excel中利用多条件进行查找VLOOKUP与XLOOKUP函数应用指南"
 date:   2020-11-26
 tags: [查找,VLOOKUP,XLOOKUP,Excel,函数]
 comments: true

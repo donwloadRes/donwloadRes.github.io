@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT实现ZLGcan库的二次开发，收发处理"
+title: "QT实现ZLGcan库的二次开发收发处理"
 date:   2023-11-20
 tags: [QT,ZLGcan,项目,二次开发,应用]
 comments: true

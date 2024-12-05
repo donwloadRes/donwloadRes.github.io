@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModbusRTU从站C++源程序"
+title: "ModbusRTU从站C源程序"
 date:   2023-01-03
 tags: [源程序,ModbusRTU,C++,C语言,移植]
 comments: true

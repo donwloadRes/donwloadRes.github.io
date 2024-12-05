@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬件测试用例参考（二）下载仓库"
+title: "硬件测试用例参考二下载仓库"
 date:   2022-10-11
 tags: [测试用例,硬件,测试,参考,文件]
 comments: true

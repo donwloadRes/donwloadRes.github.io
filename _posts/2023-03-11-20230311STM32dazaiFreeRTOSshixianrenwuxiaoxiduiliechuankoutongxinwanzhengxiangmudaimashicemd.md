@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32搭载FreeRTOS实现任务+消息队列+串口通信完整项目代码[实测]"
+title: "STM32搭载FreeRTOS实现任务消息队列串口通信完整项目代码实测"
 date:   2024-10-19
 tags: [串口,FreeRTOS,队列,通信,任务]
 comments: true

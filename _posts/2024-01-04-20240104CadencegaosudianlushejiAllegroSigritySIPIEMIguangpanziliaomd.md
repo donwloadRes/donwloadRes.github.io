@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence高速电路设计Allegro_Sigrity_SI_PI_EMI光盘资料"
+title: "Cadence高速电路设计AllegroSigritySIPIEMI光盘资料"
 date:   2023-07-07
 tags: [完整性,光盘,电路设计,Allegro,Sigrity]
 comments: true

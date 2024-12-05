@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.14.2 for Android 环境配置及开发资源文件介绍"
+title: "Qt5142 for Android 环境配置及开发资源文件介绍"
 date:   2020-09-26
 tags: [Qt5.14,JDK,NDK,SDK,安装包]
 comments: true

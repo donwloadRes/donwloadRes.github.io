@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DSP28335电机控制库 - TMS320F28335驱动与运动控制解决方案"
+title: "DSP28335电机控制库  TMS320F28335驱动与运动控制解决方案"
 date:   2020-12-20
 tags: [电机,控制,无感,TMS320F28335,文档]
 comments: true

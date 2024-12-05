@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "layim-v3.0.1 PC-Mobile实例资源文件"
+title: "layimv301 PCMobile实例资源文件"
 date:   2023-03-08
 tags: [layim,v3.0,实例,集成,PC]
 comments: true

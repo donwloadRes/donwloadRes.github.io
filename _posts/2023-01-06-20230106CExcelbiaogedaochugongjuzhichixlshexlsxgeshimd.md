@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Excel 表格导出工具（支持xls和xlsx格式）"
+title: "C Excel 表格导出工具支持xls和xlsx格式"
 date:   2023-12-29
 tags: [导出,Excel,xls,xlsx,NOPI]
 comments: true

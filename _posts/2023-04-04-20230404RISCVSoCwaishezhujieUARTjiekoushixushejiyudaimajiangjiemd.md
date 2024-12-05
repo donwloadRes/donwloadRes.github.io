@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V SoC外设注解——UART接口时序设计与代码讲解"
+title: "RISCV SoC外设注解UART接口时序设计与代码讲解"
 date:   2022-05-19
 tags: [UART,代码,接口,RISC,时序]
 comments: true

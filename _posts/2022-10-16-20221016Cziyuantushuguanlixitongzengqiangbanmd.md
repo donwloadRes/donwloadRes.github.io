@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "C# 资源——图书管理系统（增强版）"
+title: "C 资源图书管理系统增强版
+date   20240507
+tags 图书C借阅数据库用户
+comments true
+author admin
+
+
+layout post
+title C 资源图书管理系统增强版"
 date:   2024-05-07
 tags: [图书,C#,借阅,数据库,用户]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "C# 资源——图书管理系统（增强版）"
+title: "C 资源图书管理系统增强版
+date   20240507
+tags 图书C借阅数据库用户
+comments true
+author admin
+
+
+layout post
+title C 资源图书管理系统增强版"
 date:   2024-03-29
 tags: [图书,借阅,C#,数据库,用户]
 comments: true

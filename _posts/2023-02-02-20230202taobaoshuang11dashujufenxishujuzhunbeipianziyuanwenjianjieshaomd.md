@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "淘宝双11大数据分析（数据准备篇）资源文件介绍"
+title: "淘宝双11大数据分析数据准备篇资源文件介绍"
 date:   2024-04-04
 tags: [回头客,id,ID,数据,11]
 comments: true

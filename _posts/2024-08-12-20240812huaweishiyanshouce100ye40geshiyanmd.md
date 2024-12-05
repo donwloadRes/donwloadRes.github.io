@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为实验手册【100页_40个实验】"
+title: "华为实验手册100页40个实验"
 date:   2022-10-18
 tags: [实验,手册,华为,100,40]
 comments: true

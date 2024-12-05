@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sscom V5.13.1版本串口调试工具"
+title: "sscom V5131版本串口调试工具"
 date:   2022-12-06
 tags: [串口,调试,V5.13,sscom,版本]
 comments: true

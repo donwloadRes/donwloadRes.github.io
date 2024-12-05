@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "外星人Alienware Aurora R9原厂Win10.1909系统出厂预装系统"
+title: "外星人Alienware Aurora R9原厂Win101909系统出厂预装系统"
 date:   2023-07-18
 tags: [安装,预装,系统,外星人,Alienware]
 comments: true

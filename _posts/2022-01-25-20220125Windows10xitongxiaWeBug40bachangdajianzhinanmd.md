@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 10系统下WeBug4.0靶场搭建指南"
+title: "Windows 10系统下WeBug40靶场搭建指南"
 date:   2021-12-10
 tags: [靶场,WeBug4.0,PhpStudy,数据库,搭建]
 comments: true

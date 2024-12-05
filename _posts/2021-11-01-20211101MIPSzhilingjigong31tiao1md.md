@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPS 指令集(共31条）1"
+title: "MIPS 指令集共31条1"
 date:   2024-08-16
 tags: [MIPS,指令,指令集,文件,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FreeRTOS内核应用开发.pdf"
+title: "FreeRTOS内核应用开发pdf"
 date:   2023-05-25
 tags: [FreeRTOS,内核,pdf,嵌入式,实时操作系统]
 comments: true

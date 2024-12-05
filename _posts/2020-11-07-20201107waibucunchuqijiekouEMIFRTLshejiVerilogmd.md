@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "外部存储器接口（EMIF）RTL设计 - Verilog"
+title: "外部存储器接口EMIFRTL设计  Verilog"
 date:   2024-05-04
 tags: [接口,存储器,EMIF,Verilog,FPGA]
 comments: true

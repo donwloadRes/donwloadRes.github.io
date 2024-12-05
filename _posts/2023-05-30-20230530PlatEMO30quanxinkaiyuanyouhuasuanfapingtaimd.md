@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlatEMO 3.0：全新开源优化算法平台"
+title: "PlatEMO 30全新开源优化算法平台"
 date:   2021-01-16
 tags: [优化,算法,PlatEMO,3.0,问题]
 comments: true

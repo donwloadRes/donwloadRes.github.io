@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEV C++ 下载指南"
+title: "DEV C 下载指南"
 date:   2020-02-19
 tags: [C++,DEV,安装包,编程,下载]
 comments: true

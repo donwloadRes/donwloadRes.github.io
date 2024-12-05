@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP-在校学生成绩管理系统-源码"
+title: "PHP在校学生成绩管理系统源码"
 date:   2023-04-30
 tags: [成绩,PHP,数据库,权限,学生]
 comments: true

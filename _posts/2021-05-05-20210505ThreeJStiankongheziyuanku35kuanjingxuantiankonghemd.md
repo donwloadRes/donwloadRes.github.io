@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThreeJS天空盒资源库 - 35+款精选天空盒"
+title: "ThreeJS天空盒资源库  35款精选天空盒"
 date:   2021-06-07
 tags: [Three,js,天空,资源库,场景]
 comments: true

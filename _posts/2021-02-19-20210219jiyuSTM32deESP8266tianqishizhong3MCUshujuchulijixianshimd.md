@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的ESP8266天气时钟(3)——MCU数据处理及显示"
+title: "基于STM32的ESP8266天气时钟3MCU数据处理及显示"
 date:   2022-02-17
 tags: [OLED,天气,ESP8266,STM32,显示]
 comments: true

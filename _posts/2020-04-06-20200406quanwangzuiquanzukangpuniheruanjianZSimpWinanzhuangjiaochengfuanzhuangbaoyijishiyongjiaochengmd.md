@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最全！阻抗谱拟合软件ZSimpWin安装教程（附安装包），以及使用教程！"
+title: "全网最全阻抗谱拟合软件ZSimpWin安装教程附安装包以及使用教程"
 date:   2024-01-23
 tags: [ZSimpWin,拟合,软件,教程,阻抗]
 comments: true

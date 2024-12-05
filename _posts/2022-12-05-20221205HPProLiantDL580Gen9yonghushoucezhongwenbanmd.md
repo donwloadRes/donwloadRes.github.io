@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HP ProLiant DL580 Gen9 用户手册（中文版）"
+title: "HP ProLiant DL580 Gen9 用户手册中文版"
 date:   2024-06-11
 tags: [本手册,用户手册,HP,ProLiant,DL580]
 comments: true

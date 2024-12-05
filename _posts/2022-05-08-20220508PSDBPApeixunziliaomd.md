@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSD-BPA培训资料"
+title: "PSDBPA培训资料"
 date:   2023-02-23
 tags: [PSD,BPA,电力系统,稳定性,培训资料]
 comments: true

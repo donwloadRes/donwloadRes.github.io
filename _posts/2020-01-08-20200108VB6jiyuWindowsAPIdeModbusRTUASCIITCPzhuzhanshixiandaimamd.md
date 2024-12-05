@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6基于Windows API的Modbus RTU-ASCII-TCP主站实现代码"
+title: "VB6基于Windows API的Modbus RTUASCIITCP主站实现代码"
 date:   2020-06-29
 tags: [Modbus,VB6,主站,代码,Windows]
 comments: true

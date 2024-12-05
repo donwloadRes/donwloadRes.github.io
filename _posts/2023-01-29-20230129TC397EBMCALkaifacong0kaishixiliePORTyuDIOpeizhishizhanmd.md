@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TC397 EB MCAL开发从0开始系列：PORT与DIO配置实战"
+title: "TC397 EB MCAL开发从0开始系列PORT与DIO配置实战"
 date:   2020-01-31
 tags: [DIO,PORT,TC397,EB,MCAL]
 comments: true

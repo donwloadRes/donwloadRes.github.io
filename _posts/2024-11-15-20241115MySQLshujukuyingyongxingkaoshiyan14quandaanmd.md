@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库应用形考实验1-4全答案"
+title: "MySQL数据库应用形考实验14全答案"
 date:   2023-10-29
 tags: [实验,MySQL,数据库,形考,代码]
 comments: true

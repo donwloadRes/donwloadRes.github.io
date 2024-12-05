@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orange'S：一个操作系统的实现及光盘源代码"
+title: "OrangeS一个操作系统的实现及光盘源代码"
 date:   2023-09-26
 tags: [操作系统,源代码,Orange,实现,光盘]
 comments: true

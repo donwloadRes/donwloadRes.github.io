@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bz1621.lzh 二进制编辑器下载"
+title: "Bz1621lzh 二进制编辑器下载"
 date:   2024-05-27
 tags: [二进制,编辑器,Bz1621,lzh,解压缩]
 comments: true

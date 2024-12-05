@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab-EMD工具箱+最新版emd 下载"
+title: "MatlabEMD工具箱最新版emd 下载"
 date:   2024-03-26
 tags: [EMD,Matlab,工具箱,最新版,emd]
 comments: true

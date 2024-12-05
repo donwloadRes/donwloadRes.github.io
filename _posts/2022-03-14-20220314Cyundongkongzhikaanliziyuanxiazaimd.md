@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#运动控制卡案例资源下载"
+title: "C运动控制卡案例资源下载"
 date:   2021-09-02
 tags: [控制卡,C#,运动,PDF,WinForm]
 comments: true

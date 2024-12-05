@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高精度时间同步1PPS＋TOD接口规范"
+title: "高精度时间同步1PPSTOD接口规范"
 date:   2020-03-04
 tags: [TOD,规范,同步,高精度,1PPS]
 comments: true

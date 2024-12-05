@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机原理及其接口技术（第二版）PDF资源共享"
+title: "单片机原理及其接口技术第二版PDF资源共享"
 date:   2023-07-15
 tags: [PDF,单片机,接口技术,学习,原理]
 comments: true

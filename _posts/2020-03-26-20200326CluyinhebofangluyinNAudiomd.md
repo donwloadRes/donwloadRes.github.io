@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#录音和播放录音-NAudio"
+title: "C录音和播放录音NAudio"
 date:   2024-04-14
 tags: [录音,NAudio,播放,C#,音频]
 comments: true

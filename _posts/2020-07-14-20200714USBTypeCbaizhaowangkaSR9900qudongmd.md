@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Type-C 百兆网卡 SR9900 驱动"
+title: "USB TypeC 百兆网卡 SR9900 驱动"
 date:   2022-05-28
 tags: [驱动程序,Windows,Linux,网卡,百兆]
 comments: true

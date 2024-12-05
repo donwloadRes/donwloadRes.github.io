@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "万众期待的2023新版 Studio One 6.5中文版终于来了"
+title: "万众期待的2023新版 Studio One 65中文版终于来了"
 date:   2021-06-23
 tags: [Studio,6.5,中文版,安装,2023]
 comments: true

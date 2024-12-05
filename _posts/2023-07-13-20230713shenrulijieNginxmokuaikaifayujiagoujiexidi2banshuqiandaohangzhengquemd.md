@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Nginx模块开发与架构解析第2版(书签导航正确)"
+title: "深入理解Nginx模块开发与架构解析第2版书签导航正确"
 date:   2023-10-29
 tags: [Nginx,模块,书签,导航,架构]
 comments: true

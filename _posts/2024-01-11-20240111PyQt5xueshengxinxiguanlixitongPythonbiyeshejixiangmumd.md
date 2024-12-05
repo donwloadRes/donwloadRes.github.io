@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyQt5学生信息管理系统 - Python毕业设计项目"
+title: "PyQt5学生信息管理系统  Python毕业设计项目"
 date:   2022-01-06
 tags: [Python,PyQt5,数据库,项目,毕业设计]
 comments: true

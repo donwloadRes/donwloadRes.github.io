@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB统计分析与应用100案例——案例001：使用Importdata函数导入TXT数据"
+title: "MATLAB统计分析与应用100案例案例001使用Importdata函数导入TXT数据"
 date:   2024-09-19
 tags: [MATLAB,TXT,导入,案例,统计分析]
 comments: true

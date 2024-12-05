@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 自定义加解密播放音视频（m3u8独立加密）伴随源码"
+title: "Android 自定义加解密播放音视频m3u8独立加密伴随源码"
 date:   2021-01-07
 tags: [m3u8,音视频,源码,Android,播放]
 comments: true

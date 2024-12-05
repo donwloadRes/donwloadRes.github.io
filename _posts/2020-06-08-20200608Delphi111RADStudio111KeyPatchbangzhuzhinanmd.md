@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 11.1 RAD Studio 11.1 KeyPatch 帮助指南"
+title: "Delphi 111 RAD Studio 111 KeyPatch 帮助指南"
 date:   2021-04-05
 tags: [11.1,RAD,Studio,安装,KeyPatch]
 comments: true

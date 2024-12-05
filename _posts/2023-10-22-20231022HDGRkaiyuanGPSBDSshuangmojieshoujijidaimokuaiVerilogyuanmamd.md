@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HD-GR开源GPS+BDS双模接收机基带模块Verilog源码"
+title: "HDGR开源GPSBDS双模接收机基带模块Verilog源码"
 date:   2020-10-30
 tags: [源码,Verilog,模块,com,your]
 comments: true

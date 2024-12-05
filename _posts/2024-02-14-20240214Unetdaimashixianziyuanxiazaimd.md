@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-net 代码实现资源下载"
+title: "Unet 代码实现资源下载"
 date:   2021-08-15
 tags: [net,训练,脚本,模型,代码]
 comments: true

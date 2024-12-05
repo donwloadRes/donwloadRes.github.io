@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go程序设计语言——Go语言圣经 中文版（高清，非扫描，带目录）"
+title: "Go程序设计语言Go语言圣经 中文版高清非扫描带目录"
 date:   2024-09-28
 tags: [示例,Go,10.7,11.2,3.5]
 comments: true

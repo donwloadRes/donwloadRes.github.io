@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT2电子手册（中文）下载"
+title: "TwinCAT2电子手册中文下载"
 date:   2020-08-20
 tags: [TwinCAT2,中文,文档,手册,CHM]
 comments: true

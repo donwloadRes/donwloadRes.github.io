@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红外万能遥控器3.0：赋能家中遥控家电"
+title: "红外万能遥控器30赋能家中遥控家电"
 date:   2020-01-13
 tags: [遥控器,红外,3.0,赋能,433]
 comments: true

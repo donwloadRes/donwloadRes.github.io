@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子1200控制伺服电机(V90驱动）资源下载"
+title: "西门子1200控制伺服电机V90驱动资源下载"
 date:   2022-04-01
 tags: [PLC,V90,1200,西门子,伺服电机]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HC-SR505小型人体感应模块说明书1"
+title: "HCSR505小型人体感应模块说明书1"
 date:   2021-09-24
 tags: [HC,SR505,模块,说明书,感应]
 comments: true

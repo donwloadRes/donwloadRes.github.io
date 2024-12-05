@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSComm32.ocx 资源文件下载"
+title: "MSComm32ocx 资源文件下载"
 date:   2021-01-05
 tags: [ocx,mscomm32,文件,控件,下载]
 comments: true

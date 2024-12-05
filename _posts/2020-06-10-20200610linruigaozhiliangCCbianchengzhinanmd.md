@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "林锐-高质量C-C++编程指南"
+title: "林锐高质量CC编程指南"
 date:   2020-09-30
 tags: [编程,C++,指南,林锐,高质量]
 comments: true

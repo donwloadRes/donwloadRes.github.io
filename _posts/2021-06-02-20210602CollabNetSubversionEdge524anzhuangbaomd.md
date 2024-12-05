@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CollabNet Subversion Edge 5.2.4 安装包"
+title: "CollabNet Subversion Edge 524 安装包"
 date:   2020-12-25
 tags: [Subversion,CollabNet,Edge,Apache,安装]
 comments: true

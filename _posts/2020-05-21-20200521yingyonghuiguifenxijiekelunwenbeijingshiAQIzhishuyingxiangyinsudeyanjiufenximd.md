@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "应用回归分析结课论文 - 北京市AQI指数影响因素的研究分析"
+title: "应用回归分析结课论文  北京市AQI指数影响因素的研究分析"
 date:   2023-01-25
 tags: [AQI,空气质量,分析,北京市,影响]
 comments: true

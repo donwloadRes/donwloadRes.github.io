@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIP-Security-725题库真题和机构资料"
+title: "HCIPSecurity725题库真题和机构资料"
 date:   2021-06-06
 tags: [HCIP,Security,URL,考生,725]
 comments: true

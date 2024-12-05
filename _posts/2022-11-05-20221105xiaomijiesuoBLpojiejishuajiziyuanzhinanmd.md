@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米解锁、BL破解及刷机资源指南"
+title: "小米解锁BL破解及刷机资源指南"
 date:   2022-04-18
 tags: [小米,解锁,BL,资源,刷机]
 comments: true

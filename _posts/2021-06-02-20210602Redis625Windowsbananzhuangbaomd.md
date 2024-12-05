@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis 6.2.5 Windows版安装包"
+title: "Redis 625 Windows版安装包"
 date:   2020-12-09
 tags: [安装包,Redis,Windows,6.2,安装]
 comments: true

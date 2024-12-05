@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+Vue秒杀系统答辩PPT"
+title: "SpringBootVue秒杀系统答辩PPT"
 date:   2020-06-17
 tags: [PPT,毕业设计,答辩,SpringBoot,Vue]
 comments: true

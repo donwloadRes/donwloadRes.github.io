@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 实时消息提示框"
+title: "C WinForm 实时消息提示框"
 date:   2021-10-02
 tags: [提示框,WinForm,样式,C#,文件]
 comments: true

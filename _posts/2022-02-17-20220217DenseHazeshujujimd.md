@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dense_Haze 数据集"
+title: "DenseHaze 数据集"
 date:   2021-06-04
 tags: [Dense,Haze,数据,图像,浓雾]
 comments: true

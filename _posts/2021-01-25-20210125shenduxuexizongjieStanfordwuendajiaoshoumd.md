@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习总结 - Stanford吴恩达教授"
+title: "深度学习总结  Stanford吴恩达教授"
 date:   2021-06-29
 tags: [神经网络,深度,学习,卷积,Stanford]
 comments: true

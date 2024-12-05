@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC设计与整改（吕英华教授）资源下载"
+title: "EMC设计与整改吕英华教授资源下载"
 date:   2024-06-15
 tags: [EMC,电路设计,整改,资源,集成电路]
 comments: true

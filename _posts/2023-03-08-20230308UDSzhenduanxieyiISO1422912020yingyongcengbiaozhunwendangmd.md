@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDS诊断协议ISO 14229-1-2020应用层标准文档"
+title: "UDS诊断协议ISO 1422912020应用层标准文档"
 date:   2021-01-08
 tags: [2020,UDS,ISO,14229,文件]
 comments: true

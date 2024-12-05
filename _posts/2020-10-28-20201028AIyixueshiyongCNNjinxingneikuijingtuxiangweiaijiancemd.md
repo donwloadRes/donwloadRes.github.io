@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI医学：使用CNN进行内窥镜图像胃癌检测"
+title: "AI医学使用CNN进行内窥镜图像胃癌检测"
 date:   2023-10-22
 tags: [胃癌,CNN,图像,内窥镜,检测]
 comments: true

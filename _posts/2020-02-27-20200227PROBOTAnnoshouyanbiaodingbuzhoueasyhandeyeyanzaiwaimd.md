@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROBOT Anno手眼标定步骤（easy_handeye-眼在外)"
+title: "PROBOT Anno手眼标定步骤easyhandeye眼在外"
 date:   2022-04-01
 tags: [手眼,标定,PROBOT,Anno,easy]
 comments: true

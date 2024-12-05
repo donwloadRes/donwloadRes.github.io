@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform Sockets收发Json样例"
+title: "C Winform Sockets收发Json样例"
 date:   2020-02-04
 tags: [Json,C#,Socket,Winform,编程]
 comments: true

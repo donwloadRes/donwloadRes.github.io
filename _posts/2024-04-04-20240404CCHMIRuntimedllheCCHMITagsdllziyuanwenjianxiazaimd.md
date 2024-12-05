@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCHMIRuntime.dll 和 CCHMITags.dll 资源文件下载"
+title: "CCHMIRuntimedll 和 CCHMITagsdll 资源文件下载"
 date:   2024-08-01
 tags: [文件,dll,应用程序,下载,CCHMIRuntime]
 comments: true

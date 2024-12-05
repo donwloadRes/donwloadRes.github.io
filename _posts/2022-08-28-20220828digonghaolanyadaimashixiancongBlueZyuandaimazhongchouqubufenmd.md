@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "低功耗蓝牙代码实现（从BlueZ源代码中抽取部分）"
+title: "低功耗蓝牙代码实现从BlueZ源代码中抽取部分"
 date:   2023-07-09
 tags: [代码,低功耗,蓝牙,示例,BlueZ]
 comments: true

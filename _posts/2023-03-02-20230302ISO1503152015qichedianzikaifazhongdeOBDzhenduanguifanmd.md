@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 15031-5-2015：汽车电子开发中的OBD诊断规范"
+title: "ISO 1503152015汽车电子开发中的OBD诊断规范"
 date:   2021-04-22
 tags: [诊断,ISO,2015,OBD,车辆]
 comments: true

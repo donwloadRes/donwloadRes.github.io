@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-200(CPU224)硬件接线图实例"
+title: "西门子S7200CPU224硬件接线图实例"
 date:   2024-07-26
 tags: [接线,接线图,硬件,CPU224,S7]
 comments: true

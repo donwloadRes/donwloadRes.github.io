@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim 14.0 语言设置指南"
+title: "Multisim 140 语言设置指南"
 date:   2023-06-29
 tags: [Multisim,14.0,汉化包,软件,文件夹]
 comments: true

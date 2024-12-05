@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MG-SOFT MIB Browser 2023 专业版"
+title: "MGSOFT MIB Browser 2023 专业版"
 date:   2020-10-18
 tags: [MIB,专业版,网络设备,MG,Browser]
 comments: true

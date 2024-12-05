@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab--Simulink仿真设计--通信电子线路》课程设计报告"
+title: "MatlabSimulink仿真设计通信电子线路课程设计报告"
 date:   2020-07-27
 tags: [仿真,Simulink,课程设计,电子线路,--]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国省、县界线shp格式矢量图下载"
+title: "全国省县界线shp格式矢量图下载"
 date:   2021-10-18
 tags: [shp,矢量图,格式,界线,文件]
 comments: true

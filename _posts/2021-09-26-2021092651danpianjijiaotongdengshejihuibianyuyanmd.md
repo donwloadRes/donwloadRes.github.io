@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机交通灯设计（汇编语言）"
+title: "51单片机交通灯设计汇编语言"
 date:   2020-07-18
 tags: [仿真,单片机,代码,51,交通灯]
 comments: true

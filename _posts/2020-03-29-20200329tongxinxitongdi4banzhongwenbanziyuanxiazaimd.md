@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信系统（第4版 中文版）资源下载"
+title: "通信系统第4版 中文版资源下载"
 date:   2021-12-28
 tags: [通信,附录,中文版,系统,本书]
 comments: true

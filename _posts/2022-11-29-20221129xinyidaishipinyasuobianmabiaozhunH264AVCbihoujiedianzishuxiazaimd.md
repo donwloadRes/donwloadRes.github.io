@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新一代视频压缩编码标准-H.264-AVC 毕厚杰 电子书下载"
+title: "新一代视频压缩编码标准H264AVC 毕厚杰 电子书下载"
 date:   2021-03-10
 tags: [电子书,视频压缩,编码标准,H.264,AVC]
 comments: true

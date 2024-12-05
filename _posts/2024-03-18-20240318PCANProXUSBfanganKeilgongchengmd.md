@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAN-Pro-X USB 方案 Keil 工程"
+title: "PCANProX USB 方案 Keil 工程"
 date:   2020-06-15
 tags: [Keil,PCAN,工程,文件,USB]
 comments: true

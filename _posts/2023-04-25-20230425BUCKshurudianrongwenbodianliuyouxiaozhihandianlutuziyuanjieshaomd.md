@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUCK输入电容纹波电流有效值（含电路图）资源介绍"
+title: "BUCK输入电容纹波电流有效值含电路图资源介绍"
 date:   2020-05-03
 tags: [电路图,BUCK,纹波,有效值,电容]
 comments: true

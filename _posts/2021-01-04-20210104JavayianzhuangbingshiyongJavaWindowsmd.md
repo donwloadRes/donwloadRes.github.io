@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java（一）安装并使用 Java（Windows）"
+title: "Java一安装并使用 JavaWindows"
 date:   2021-03-22
 tags: [Java,安装,文件,资源,使用]
 comments: true

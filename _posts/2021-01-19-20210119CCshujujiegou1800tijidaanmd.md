@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++-C 数据结构1800题及答案"
+title: "CC 数据结构1800题及答案"
 date:   2024-05-01
 tags: [数据结构,算法,1800,抽象数据类型,二叉树]
 comments: true

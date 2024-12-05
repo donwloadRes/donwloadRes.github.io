@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国开电大WEB开发基础》形考任务1答案资源"
+title: "国开电大WEB开发基础形考任务1答案资源"
 date:   2024-02-20
 tags: [形考,答案,国开,WEB,电大]
 comments: true

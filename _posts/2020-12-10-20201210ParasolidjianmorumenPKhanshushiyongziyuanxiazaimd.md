@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parasolid建模入门（PK函数使用）资源下载"
+title: "Parasolid建模入门PK函数使用资源下载"
 date:   2023-11-14
 tags: [Parasolid,文档,建模,PK,资源]
 comments: true

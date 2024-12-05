@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于FPGA的芯片设计：寄存器堆设计实验"
+title: "基于FPGA的芯片设计寄存器堆设计实验"
 date:   2024-03-12
 tags: [FPGA,寄存器,管脚,设计,Vivado]
 comments: true

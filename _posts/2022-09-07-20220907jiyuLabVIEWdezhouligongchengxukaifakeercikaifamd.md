@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于LabVIEW的周立功程序开发（可二次开发）"
+title: "基于LabVIEW的周立功程序开发可二次开发"
 date:   2020-01-04
 tags: [LabVIEW,二次开发,立功,通信,硬件]
 comments: true

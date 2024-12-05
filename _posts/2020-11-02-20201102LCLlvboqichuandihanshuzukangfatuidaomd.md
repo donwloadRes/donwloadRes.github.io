@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LCL滤波器传递函数（阻抗法）推导"
+title: "LCL滤波器传递函数阻抗法推导"
 date:   2021-11-15
 tags: [阻抗,滤波器,传递函数,LCL,推导]
 comments: true

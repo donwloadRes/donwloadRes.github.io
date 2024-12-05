@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure AZ-900英文题库资源介绍"
+title: "Azure AZ900英文题库资源介绍"
 date:   2020-01-09
 tags: [900,Azure,AZ,题库,考生]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器人导论 - （美）J. CRAIG 著 贠超等译"
+title: "机器人导论  美J CRAIG 著 贠超等译"
 date:   2022-01-23
 tags: [机器人,机器人学,贠超,本书,导论]
 comments: true

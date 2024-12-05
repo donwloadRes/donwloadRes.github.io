@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wireshark抓包分析微信功能----tcp-ip选修课期末大作业"
+title: "Wireshark抓包分析微信功能tcpip选修课期末大作业"
 date:   2023-02-09
 tags: [Wireshark,微信,数据包,抓包,分析]
 comments: true

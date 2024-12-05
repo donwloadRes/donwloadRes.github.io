@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS离线安装Kubernetes（实操可用）"
+title: "CentOS离线安装Kubernetes实操可用"
 date:   2020-04-15
 tags: [Kubernetes,安装,离线,CentOS,文件]
 comments: true

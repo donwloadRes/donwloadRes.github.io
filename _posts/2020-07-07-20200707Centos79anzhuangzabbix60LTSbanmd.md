@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Centos7.9安装zabbix6.0LTS版"
+title: "Centos79安装zabbix60LTS版"
 date:   2020-07-05
 tags: [安装,LTS,zabbix,文件,Centos7.9]
 comments: true

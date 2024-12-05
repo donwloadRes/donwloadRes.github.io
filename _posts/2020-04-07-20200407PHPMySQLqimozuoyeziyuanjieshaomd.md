@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL 期末作业资源介绍"
+title: "PHPMySQL 期末作业资源介绍"
 date:   2023-05-02
 tags: [登录,用户,数据库,PHP,留言]
 comments: true

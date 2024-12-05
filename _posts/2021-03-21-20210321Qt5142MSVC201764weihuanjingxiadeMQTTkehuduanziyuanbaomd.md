@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.14.2 + MSVC2017 64位环境下的MQTT客户端资源包"
+title: "Qt5142  MSVC2017 64位环境下的MQTT客户端资源包"
 date:   2022-08-06
 tags: [MQTT,客户端,Qt5.14,环境,MSVC2017]
 comments: true

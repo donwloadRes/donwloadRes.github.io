@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA设计辅助工具 - Visio 波形工具"
+title: "FPGA设计辅助工具  Visio 波形工具"
 date:   2020-10-01
 tags: [Visio,FPGA,设计,工具,波形]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv7+单目测距（Python）"
+title: "YOLOv7单目测距Python"
 date:   2021-03-23
 tags: [YOLOv7,Python,单目,测距,距离]
 comments: true

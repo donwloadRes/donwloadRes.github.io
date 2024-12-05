@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌检测数据集（黄牌）+ JSON标签"
+title: "车牌检测数据集黄牌 JSON标签"
 date:   2023-03-04
 tags: [标签,车牌,JSON,格式,数据]
 comments: true

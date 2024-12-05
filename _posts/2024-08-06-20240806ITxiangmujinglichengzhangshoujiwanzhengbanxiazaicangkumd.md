@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT项目经理成长手记(完整版) 下载仓库"
+title: "IT项目经理成长手记完整版 下载仓库"
 date:   2021-06-11
 tags: [项目经理,文件,完整版,手记,仓库]
 comments: true

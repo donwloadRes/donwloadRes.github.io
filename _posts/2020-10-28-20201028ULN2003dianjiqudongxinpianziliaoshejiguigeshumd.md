@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ULN2003电机驱动芯片资料-设计规格书"
+title: "ULN2003电机驱动芯片资料设计规格书"
 date:   2021-11-14
 tags: [ULN2003,芯片,规格书,设计,驱动]
 comments: true

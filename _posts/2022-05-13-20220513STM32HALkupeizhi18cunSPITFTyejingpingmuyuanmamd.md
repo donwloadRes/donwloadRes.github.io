@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 HAL库配置1.8寸SPI TFT液晶屏幕 (源码)"
+title: "STM32 HAL库配置18寸SPI TFT液晶屏幕 源码"
 date:   2021-02-11
 tags: [STM32,屏幕,HAL,1.8,SPI]
 comments: true

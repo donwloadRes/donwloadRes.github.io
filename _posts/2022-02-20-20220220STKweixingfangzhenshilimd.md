@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STK（卫星仿真）实例"
+title: "STK卫星仿真实例"
 date:   2023-01-18
 tags: [STK,实例,仿真,学习,卫星]
 comments: true

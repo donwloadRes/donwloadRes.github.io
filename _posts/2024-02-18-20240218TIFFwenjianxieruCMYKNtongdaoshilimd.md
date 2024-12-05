@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIFF文件写入 CMYK+N通道示例"
+title: "TIFF文件写入 CMYKN通道示例"
 date:   2021-04-21
 tags: [TIFF,示例,通道,CMYK,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java学习资料大全 - 网盘直链分享"
+title: "Java学习资料大全  网盘直链分享"
 date:   2022-04-09
 tags: [Java,Spring,编程,学习,链接]
 comments: true

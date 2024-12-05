@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++多线程编程实战资源下载"
+title: "C多线程编程实战资源下载"
 date:   2020-09-22
 tags: [多线程,C++,编程,Windows,资源]
 comments: true

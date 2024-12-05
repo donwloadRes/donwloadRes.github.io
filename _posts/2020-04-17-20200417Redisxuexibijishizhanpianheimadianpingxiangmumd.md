@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis学习笔记②实战篇_黑马点评项目"
+title: "Redis学习笔记实战篇黑马点评项目"
 date:   2022-10-26
 tags: [Redis,缓存,并发,项目,Session]
 comments: true

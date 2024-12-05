@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# .Net 热力图Demo资源介绍"
+title: "C Net 热力图Demo资源介绍"
 date:   2021-10-29
 tags: [Net,力图,Demo,C#,灰度]
 comments: true

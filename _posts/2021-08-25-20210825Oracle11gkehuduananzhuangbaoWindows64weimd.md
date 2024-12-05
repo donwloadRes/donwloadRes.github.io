@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11g 客户端安装包（Windows 64位）"
+title: "Oracle 11g 客户端安装包Windows 64位"
 date:   2023-07-14
 tags: [安装包,客户端,Oracle,64,11g]
 comments: true

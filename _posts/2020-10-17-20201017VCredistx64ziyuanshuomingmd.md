@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC_redist.x64 资源说明"
+title: "VCredistx64 资源说明"
 date:   2023-11-08
 tags: [VC,redist,x64,安装,运行]
 comments: true

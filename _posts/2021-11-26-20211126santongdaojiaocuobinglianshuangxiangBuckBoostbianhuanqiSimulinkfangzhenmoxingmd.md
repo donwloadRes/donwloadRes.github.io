@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三通道交错并联双向Buck-Boost变换器Simulink仿真模型"
+title: "三通道交错并联双向BuckBoost变换器Simulink仿真模型"
 date:   2022-01-03
 tags: [仿真,模型,Buck,Boost,Simulink]
 comments: true

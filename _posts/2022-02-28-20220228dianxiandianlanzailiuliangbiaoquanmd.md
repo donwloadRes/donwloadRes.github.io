@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电线电缆载流量表(全)"
+title: "电线电缆载流量表全"
 date:   2024-08-06
 tags: [电线电缆,流量表,文件,资源,查阅]
 comments: true

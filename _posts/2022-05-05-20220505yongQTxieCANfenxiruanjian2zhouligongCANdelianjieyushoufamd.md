@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用QT写CAN分析软件2--周立功CAN的连接与收发"
+title: "用QT写CAN分析软件2周立功CAN的连接与收发"
 date:   2024-02-22
 tags: [QT,波特率,立功,收发,设备]
 comments: true

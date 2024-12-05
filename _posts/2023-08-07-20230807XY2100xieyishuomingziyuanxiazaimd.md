@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XY2-100协议说明资源下载"
+title: "XY2100协议说明资源下载"
 date:   2023-12-30
 tags: [XY2,100,协议,通信协议,说明]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python语言在Abaqus中的应用.pdf"
+title: "Python语言在Abaqus中的应用pdf"
 date:   2023-10-17
 tags: [Python,Abaqus,学习,应用,本书]
 comments: true

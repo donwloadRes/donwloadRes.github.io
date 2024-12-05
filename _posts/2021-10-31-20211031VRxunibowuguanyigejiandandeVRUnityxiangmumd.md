@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VR虚拟博物馆：一个简单的VR Unity项目"
+title: "VR虚拟博物馆一个简单的VR Unity项目"
 date:   2024-03-20
 tags: [VR,Unity,项目,博物馆,虚拟]
 comments: true

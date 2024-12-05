@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postman 9.12.2 安装包下载"
+title: "Postman 9122 安装包下载"
 date:   2021-07-16
 tags: [Postman,安装包,9.12,exe,下载]
 comments: true

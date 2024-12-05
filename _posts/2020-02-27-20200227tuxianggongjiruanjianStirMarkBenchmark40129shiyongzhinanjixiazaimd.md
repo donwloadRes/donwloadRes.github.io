@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图像攻击软件：StirMarkBenchmark_4_0_129 使用指南及下载"
+title: "图像攻击软件StirMarkBenchmark40129 使用指南及下载"
 date:   2021-02-24
 tags: [StirMarkBenchmark,水印,129,软件,下载]
 comments: true

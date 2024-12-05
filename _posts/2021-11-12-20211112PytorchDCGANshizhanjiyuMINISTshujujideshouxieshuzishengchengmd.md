@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch DCGAN实战：基于MINIST数据集的手写数字生成"
+title: "Pytorch DCGAN实战基于MINIST数据集的手写数字生成"
 date:   2024-01-06
 tags: [生成器,手写,生成,训练,py]
 comments: true

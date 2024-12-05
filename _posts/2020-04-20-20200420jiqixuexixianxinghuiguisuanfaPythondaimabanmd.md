@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习线性回归算法(Python代码版)"
+title: "机器学习线性回归算法Python代码版"
 date:   2021-09-20
 tags: [Python,线性,代码,回归,算法]
 comments: true

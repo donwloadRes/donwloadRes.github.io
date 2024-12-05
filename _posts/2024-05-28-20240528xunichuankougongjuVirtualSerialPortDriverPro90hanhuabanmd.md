@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟串口工具Virtual Serial Port Driver Pro9.0汉化版"
+title: "虚拟串口工具Virtual Serial Port Driver Pro90汉化版"
 date:   2020-09-19
 tags: [串口,虚拟,汉化版,Virtual,Serial]
 comments: true

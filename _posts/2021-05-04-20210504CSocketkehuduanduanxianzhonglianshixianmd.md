@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket 客户端断线重连实现"
+title: "C Socket 客户端断线重连实现"
 date:   2023-06-27
 tags: [重连,客户端,断线,Socket,C#]
 comments: true

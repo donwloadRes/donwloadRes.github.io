@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型的设计及其嵌入式实现 - 刘杰"
+title: "基于模型的设计及其嵌入式实现  刘杰"
 date:   2020-08-24
 tags: [嵌入式,刘杰,模型,文档,基于]
 comments: true

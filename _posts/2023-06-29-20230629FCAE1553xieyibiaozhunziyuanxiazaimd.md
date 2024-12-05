@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FC-AE-1553协议标准资源下载"
+title: "FCAE1553协议标准资源下载"
 date:   2024-06-28
 tags: [FC,AE,协议,1553,文件]
 comments: true

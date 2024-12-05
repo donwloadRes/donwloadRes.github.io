@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB（第2版）全套资料下载"
+title: "圈圈教你玩USB第2版全套资料下载"
 date:   2024-08-04
 tags: [ISO,PDF,光盘,镜像,USB]
 comments: true

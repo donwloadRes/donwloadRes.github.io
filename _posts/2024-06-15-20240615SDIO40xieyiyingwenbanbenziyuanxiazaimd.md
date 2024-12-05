@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDIO 4.0 协议英文版本资源下载"
+title: "SDIO 40 协议英文版本资源下载"
 date:   2024-06-03
 tags: [SDIO,4.0,协议,文件,资源]
 comments: true

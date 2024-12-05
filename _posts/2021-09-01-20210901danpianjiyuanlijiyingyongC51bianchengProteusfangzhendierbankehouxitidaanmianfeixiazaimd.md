@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机原理及应用-C51编程+Proteus仿真》（第二版）课后习题答案免费下载"
+title: "单片机原理及应用C51编程Proteus仿真第二版课后习题答案免费下载"
 date:   2022-10-29
 tags: [习题,课后,单片机,C51,Proteus]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue2.x和Vue3.0调试工具devtools-6.0.0-beta-10"
+title: "Vue2x和Vue30调试工具devtools600beta10"
 date:   2021-09-03
 tags: [调试,6.0,beta,10,工具]
 comments: true

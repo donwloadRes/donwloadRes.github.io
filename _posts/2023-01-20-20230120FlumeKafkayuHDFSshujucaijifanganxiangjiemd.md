@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flume、Kafka与HDFS数据采集方案详解"
+title: "FlumeKafka与HDFS数据采集方案详解"
 date:   2021-02-11
 tags: [Kafka,Flume,HDFS,数据,配置]
 comments: true

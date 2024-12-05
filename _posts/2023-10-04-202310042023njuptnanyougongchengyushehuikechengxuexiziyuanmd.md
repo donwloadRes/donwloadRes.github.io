@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023njupt-南邮工程与社会》课程学习资源"
+title: "2023njupt南邮工程与社会课程学习资源"
 date:   2020-10-17
 tags: [文献,课程,综述,论文,范例]
 comments: true

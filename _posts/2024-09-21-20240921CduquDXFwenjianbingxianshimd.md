@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#读取DXF文件并显示"
+title: "C读取DXF文件并显示"
 date:   2021-10-07
 tags: [DXF,读取,git,feature,示例]
 comments: true

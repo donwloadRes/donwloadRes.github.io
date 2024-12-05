@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学生管理系统（Tkinter版）"
+title: "Python学生管理系统Tkinter版"
 date:   2022-12-31
 tags: [Python,Tkinter,教程,管理系统,学习]
 comments: true

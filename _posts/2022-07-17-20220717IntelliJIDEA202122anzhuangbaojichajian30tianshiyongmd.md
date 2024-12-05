@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA 2021.2.2 安装包及插件（30天试用）"
+title: "IntelliJ IDEA 202122 安装包及插件30天试用"
 date:   2023-11-06
 tags: [插件,IntelliJ,IDEA,安装包,2021.2]
 comments: true

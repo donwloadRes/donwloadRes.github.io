@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "跨平台上传下载-加载保存文本图片插件资源"
+title: "跨平台上传下载加载保存文本图片插件资源"
 date:   2022-12-27
 tags: [WebGL,加载,文件,下载,上传]
 comments: true

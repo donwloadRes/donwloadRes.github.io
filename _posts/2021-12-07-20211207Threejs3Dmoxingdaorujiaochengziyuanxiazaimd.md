@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 3D模型导入教程资源下载"
+title: "Threejs 3D模型导入教程资源下载"
 date:   2020-08-23
 tags: [Three,3D,js,导入,模型]
 comments: true

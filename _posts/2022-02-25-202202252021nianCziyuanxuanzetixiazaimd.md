@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021年C++资源选择题下载"
+title: "2021年C资源选择题下载"
 date:   2020-07-20
 tags: [C++,选择题,2021,docx,资源库]
 comments: true

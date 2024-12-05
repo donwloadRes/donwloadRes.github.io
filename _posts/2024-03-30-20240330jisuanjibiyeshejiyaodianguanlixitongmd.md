@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机毕业设计-药店管理系统"
+title: "计算机毕业设计药店管理系统"
 date:   2022-07-10
 tags: [数据库,项目,管理系统,毕业设计,药店]
 comments: true

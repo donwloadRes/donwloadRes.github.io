@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xmodem通讯协议C#源码"
+title: "Xmodem通讯协议C源码"
 date:   2020-08-03
 tags: [源码,校验,Xmodem,发送,数据包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电表测试工具 - 兼容DL-T645-1997与DL-T645-2007规约"
+title: "电表测试工具  兼容DLT6451997与DLT6452007规约"
 date:   2020-12-20
 tags: [电表,DL,T645,规约,测试工具]
 comments: true

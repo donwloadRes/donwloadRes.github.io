@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js v18.12.1 x86 Windows 安装包"
+title: "Nodejs v18121 x86 Windows 安装包"
 date:   2023-09-11
 tags: [安装包,Node,js,版本,v18.12]
 comments: true

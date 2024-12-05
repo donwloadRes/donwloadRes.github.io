@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle基础入门：下载与安装指南"
+title: "Kettle基础入门下载与安装指南"
 date:   2020-10-27
 tags: [Kettle,下载,安装,JDK,安装包]
 comments: true

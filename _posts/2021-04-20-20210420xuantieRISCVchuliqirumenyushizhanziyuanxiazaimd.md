@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玄铁RISC-V处理器入门与实战资源下载"
+title: "玄铁RISCV处理器入门与实战资源下载"
 date:   2022-06-02
 tags: [RISC,玄铁,处理器,实战,入门]
 comments: true

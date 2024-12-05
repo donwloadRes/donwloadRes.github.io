@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "恶意代码分析实战》官方实验样本"
+title: "恶意代码分析实战官方实验样本"
 date:   2020-09-08
 tags: [恶意代码,样本,分析,实验,实战]
 comments: true

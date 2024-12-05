@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决计算机丢失MSVCR120.dll、MSVCP120.dll等问题"
+title: "解决计算机丢失MSVCR120dllMSVCP120dll等问题"
 date:   2020-06-08
 tags: [dll,文件,丢失,MSVCR120,MSVCP120]
 comments: true

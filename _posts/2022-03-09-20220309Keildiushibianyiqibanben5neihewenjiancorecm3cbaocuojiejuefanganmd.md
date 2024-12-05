@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil 丢失编译器版本5、内核文件core_cm3.c报错解决方案"
+title: "Keil 丢失编译器版本5内核文件corecm3c报错解决方案"
 date:   2024-09-22
 tags: [编译器,core,cm3,Keil,文件]
 comments: true

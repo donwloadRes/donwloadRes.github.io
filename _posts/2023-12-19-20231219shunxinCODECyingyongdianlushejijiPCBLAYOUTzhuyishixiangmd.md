@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "顺芯CODEC应用电路设计及PCB-LAYOUT注意事项"
+title: "顺芯CODEC应用电路设计及PCBLAYOUT注意事项"
 date:   2020-12-17
 tags: [电路设计,顺芯,CODEC,PCB,LAYOUT]
 comments: true

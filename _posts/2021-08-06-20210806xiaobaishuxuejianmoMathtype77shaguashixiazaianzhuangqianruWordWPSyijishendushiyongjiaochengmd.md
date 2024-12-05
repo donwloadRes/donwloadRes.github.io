@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小白数学建模 Mathtype 7.7傻瓜式下载安装嵌入Word-WPS以及深度使用教程"
+title: "小白数学建模 Mathtype 77傻瓜式下载安装嵌入WordWPS以及深度使用教程"
 date:   2022-04-14
 tags: [Mathtype,嵌入,Word,WPS,教程]
 comments: true

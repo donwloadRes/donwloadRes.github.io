@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO14229（中文）- 基于UDS的汽车诊断标准"
+title: "ISO14229中文 基于UDS的汽车诊断标准"
 date:   2023-11-28
 tags: [诊断,文档,ISO,14229,标准]
 comments: true

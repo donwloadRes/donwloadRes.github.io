@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QZxing_Demo 二维码识别Demo"
+title: "QZxingDemo 二维码识别Demo"
 date:   2021-06-11
 tags: [Demo,二维码,QZxing,QZXing,识别]
 comments: true

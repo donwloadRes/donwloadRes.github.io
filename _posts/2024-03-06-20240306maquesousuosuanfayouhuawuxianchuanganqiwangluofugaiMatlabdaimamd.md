@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "麻雀搜索算法优化无线传感器网络覆盖（Matlab代码）"
+title: "麻雀搜索算法优化无线传感器网络覆盖Matlab代码"
 date:   2022-02-11
 tags: [Matlab,优化,代码,搜索算法,无线]
 comments: true

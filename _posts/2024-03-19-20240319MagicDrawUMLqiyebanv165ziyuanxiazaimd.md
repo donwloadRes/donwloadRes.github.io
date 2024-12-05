@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MagicDraw UML 企业版 v16.5 资源下载"
+title: "MagicDraw UML 企业版 v165 资源下载"
 date:   2024-03-02
 tags: [MagicDraw,UML,Java,v16.5,源代码]
 comments: true

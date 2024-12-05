@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子1500 EPLAN 部件库（EDZ格式）"
+title: "西门子1500 EPLAN 部件库EDZ格式"
 date:   2021-12-30
 tags: [部件,EPLAN,EDZ,软件,西门子]
 comments: true

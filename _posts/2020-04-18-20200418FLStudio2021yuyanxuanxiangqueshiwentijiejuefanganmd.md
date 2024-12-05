@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FL Studio 20-21 语言选项缺失问题解决方案"
+title: "FL Studio 2021 语言选项缺失问题解决方案"
 date:   2020-05-13
 tags: [FL,Studio,选项,语言,20]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB Host 驱动CDC设备超详细资料-原创"
+title: "USB Host 驱动CDC设备超详细资料原创"
 date:   2023-02-01
 tags: [CDC,USB,驱动,设备,读者]
 comments: true

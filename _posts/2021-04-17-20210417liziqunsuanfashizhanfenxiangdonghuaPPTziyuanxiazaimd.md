@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "粒子群算法实战分享：动画PPT资源下载"
+title: "粒子群算法实战分享动画PPT资源下载"
 date:   2022-12-26
 tags: [PPT,算法,优化,动画,粒子]
 comments: true

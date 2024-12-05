@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EN50128-2011 中文版资源下载"
+title: "EN501282011 中文版资源下载"
 date:   2024-02-11
 tags: [EN50128,2011,铁路,标准,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "layui-admin练手版"
+title: "layuiadmin练手版"
 date:   2024-02-01
 tags: [layui,admin,练手,文件,后台]
 comments: true

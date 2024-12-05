@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil C51 v9.52 完整注册版"
+title: "Keil C51 v952 完整注册版"
 date:   2024-07-16
 tags: [Keil,C51,v9.52,注册版,注册]
 comments: true

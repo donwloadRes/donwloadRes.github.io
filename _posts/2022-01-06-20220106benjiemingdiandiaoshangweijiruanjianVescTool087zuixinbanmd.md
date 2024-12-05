@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "本杰明电调上位机软件Vesc Tool 0.87最新版"
+title: "本杰明电调上位机软件Vesc Tool 087最新版"
 date:   2023-02-25
 tags: [电调,软件,本杰明,最新版,机软件]
 comments: true

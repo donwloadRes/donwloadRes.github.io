@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017的Qt插件：qt-vsaddin-msvc2017-2.8.1-rev.06.vsix"
+title: "VS2017的Qt插件qtvsaddinmsvc2017281rev06vsix"
 date:   2023-04-18
 tags: [Qt,插件,Visual,Studio,vsix]
 comments: true

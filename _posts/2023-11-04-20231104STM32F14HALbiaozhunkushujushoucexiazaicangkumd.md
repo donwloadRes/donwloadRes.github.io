@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F1、4HAL、标准库数据手册下载仓库"
+title: "STM32F14HAL标准库数据手册下载仓库"
 date:   2023-03-12
 tags: [手册,仓库,数据,STM32F1,HAL]
 comments: true

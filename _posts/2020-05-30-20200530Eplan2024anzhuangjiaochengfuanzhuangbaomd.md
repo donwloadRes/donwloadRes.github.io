@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eplan2024安装教程【附安装包】"
+title: "Eplan2024安装教程附安装包"
 date:   2022-05-15
 tags: [Eplan2024,安装,安装包,教程,确保您]
 comments: true

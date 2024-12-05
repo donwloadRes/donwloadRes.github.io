@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Excel处理姓名数据，转为拼音并且姓与名首字母大写"
+title: "使用Excel处理姓名数据转为拼音并且姓与名首字母大写"
 date:   2020-03-29
 tags: [Excel,拼音,首字母,大写,Visual]
 comments: true

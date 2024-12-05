@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web软电话基于JSSIP + FreeSWITCH实现"
+title: "Web软电话基于JSSIP  FreeSWITCH实现"
 date:   2023-03-28
 tags: [Web,JSSIP,FreeSWITCH,SIP,浏览器]
 comments: true

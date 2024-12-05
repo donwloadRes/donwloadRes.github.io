@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 窗体间传值示例"
+title: "C WinForm 窗体间传值示例"
 date:   2020-05-08
 tags: [窗体,示例,传值,方法,C#]
 comments: true

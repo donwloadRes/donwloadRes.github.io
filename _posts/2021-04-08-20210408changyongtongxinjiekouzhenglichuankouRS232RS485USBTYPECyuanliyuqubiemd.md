@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用通信接口整理：串口、RS232、RS485、USB、TYPE-C原理与区别"
+title: "常用通信接口整理串口RS232RS485USBTYPEC原理与区别"
 date:   2021-12-29
 tags: [通信接口,串口,RS232,RS485,USB]
 comments: true

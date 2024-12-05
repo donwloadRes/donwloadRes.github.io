@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM7805构成的+5V稳压电源"
+title: "LM7805构成的5V稳压电源"
 date:   2023-02-12
 tags: [5V,稳压电源,LM7805,电路,元件]
 comments: true

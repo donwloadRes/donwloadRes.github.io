@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EtherCAT规范大全-EtherCAT技术说明"
+title: "EtherCAT规范大全EtherCAT技术说明"
 date:   2024-02-14
 tags: [EtherCAT,技术,自动化,应用,以太网]
 comments: true

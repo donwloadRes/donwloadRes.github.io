@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android OpenGL处理YUV数据（I420、NV12、NV21）"
+title: "Android OpenGL处理YUV数据I420NV12NV21"
 date:   2023-08-13
 tags: [YUV,OpenGL,Android,渲染,格式]
 comments: true

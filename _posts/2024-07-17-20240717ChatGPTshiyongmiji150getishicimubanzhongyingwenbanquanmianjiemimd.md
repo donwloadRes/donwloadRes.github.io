@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT使用秘籍：150个提示词模板（中英文版）全面揭秘！"
+title: "ChatGPT使用秘籍150个提示词模板中英文版全面揭秘"
 date:   2023-03-18
 tags: [ChatGPT,模板,150,对话,用户]
 comments: true

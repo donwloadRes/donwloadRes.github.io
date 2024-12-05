@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【facenet项目】人脸识别相关数据下载指南"
+title: "facenet项目人脸识别相关数据下载指南"
 date:   2023-12-14
 tags: [人脸识别,下载,FaceNet,模型,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FDTD Solutions软件教程：微纳光学领域仿真资源"
+title: "FDTD Solutions软件教程微纳光学领域仿真资源"
 date:   2024-03-25
 tags: [FDTD,仿真,Solutions,光学,微纳]
 comments: true

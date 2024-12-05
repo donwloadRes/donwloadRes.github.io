@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java核心技术卷一、二免费资源"
+title: "Java核心技术卷一二免费资源"
 date:   2024-02-10
 tags: [Java,编程,资源,核心技术,学习]
 comments: true

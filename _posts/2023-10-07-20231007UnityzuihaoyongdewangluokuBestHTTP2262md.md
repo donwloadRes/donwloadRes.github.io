@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 最好用的网络库 Best HTTP2 2.6.2"
+title: "Unity 最好用的网络库 Best HTTP2 262"
 date:   2020-03-03
 tags: [Unity,Best,HTTP2,HTTP,游戏]
 comments: true

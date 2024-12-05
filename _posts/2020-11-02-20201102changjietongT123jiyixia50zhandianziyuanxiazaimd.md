@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "畅捷通T+12.3及以下 50站点 资源下载"
+title: "畅捷通T123及以下 50站点 资源下载"
 date:   2021-04-24
 tags: [资源,测试,捷通,50,商业用途]
 comments: true

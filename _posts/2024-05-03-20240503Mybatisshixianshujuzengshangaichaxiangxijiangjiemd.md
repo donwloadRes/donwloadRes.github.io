@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mybatis实现数据增删改查（详细讲解）"
+title: "Mybatis实现数据增删改查详细讲解"
 date:   2020-02-29
 tags: [Mybatis,增删,改查,数据库,操作]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "医保局加解密方法工具类V1.0"
+title: "医保局加解密方法工具类V10"
 date:   2020-02-12
 tags: [加解密,V1.0,加密,SM4,工具]
 comments: true

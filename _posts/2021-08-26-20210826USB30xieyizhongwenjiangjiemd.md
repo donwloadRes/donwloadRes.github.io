@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0协议中文讲解"
+title: "USB30协议中文讲解"
 date:   2022-02-05
 tags: [USB3.0,中文,协议,讲解,文件]
 comments: true

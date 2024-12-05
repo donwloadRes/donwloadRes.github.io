@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iscsi-initiator-utils 离线安装包"
+title: "iscsiinitiatorutils 离线安装包"
 date:   2021-02-03
 tags: [iscsi,initiator,utils,6.2,0.874]
 comments: true

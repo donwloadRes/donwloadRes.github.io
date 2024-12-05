@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32MP157开发教程之Linux系统移植篇（完整版）PDF"
+title: "STM32MP157开发教程之Linux系统移植篇完整版PDF"
 date:   2021-01-07
 tags: [移植,Linux,教程,STM32MP157,PDF]
 comments: true

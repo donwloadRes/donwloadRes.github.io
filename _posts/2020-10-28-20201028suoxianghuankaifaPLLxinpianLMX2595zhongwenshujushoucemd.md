@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锁相环开发+PLL芯片+LMX2595中文数据手册"
+title: "锁相环开发PLL芯片LMX2595中文数据手册"
 date:   2024-02-24
 tags: [LMX2595,PLL,频率,芯片,锁相环]
 comments: true

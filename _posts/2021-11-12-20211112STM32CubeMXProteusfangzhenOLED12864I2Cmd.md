@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX+Proteus仿真OLED12864I2C"
+title: "STM32CubeMXProteus仿真OLED12864I2C"
 date:   2024-03-09
 tags: [仿真,Proteus,STM32CubeMX,Keil,代码]
 comments: true

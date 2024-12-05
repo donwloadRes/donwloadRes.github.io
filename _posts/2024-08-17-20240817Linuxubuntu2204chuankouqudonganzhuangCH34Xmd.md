@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux-ubuntu22.04串口驱动安装(CH34X)"
+title: "Linuxubuntu2204串口驱动安装CH34X"
 date:   2024-08-17
 tags: [驱动,CH34X,串口,安装,编译]
 comments: true

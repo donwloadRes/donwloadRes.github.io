@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomcat安装和配置（超详细教程）"
+title: "Tomcat安装和配置超详细教程"
 date:   2020-03-29
 tags: [Tomcat,安装,环境变量,CATALINA,配置]
 comments: true

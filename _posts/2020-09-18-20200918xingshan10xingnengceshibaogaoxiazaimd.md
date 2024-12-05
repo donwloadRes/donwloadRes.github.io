@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "星闪1.0性能测试报告下载"
+title: "星闪10性能测试报告下载"
 date:   2022-03-27
 tags: [1.0,星闪,性能,测试报告,下载]
 comments: true

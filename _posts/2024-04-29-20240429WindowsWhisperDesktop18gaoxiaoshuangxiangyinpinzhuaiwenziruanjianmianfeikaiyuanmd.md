@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows WhisperDesktop 1.8：高效双向音频转文字软件 - 免费开源"
+title: "Windows WhisperDesktop 18高效双向音频转文字软件  免费开源"
 date:   2023-10-11
 tags: [音频,Windows,WhisperDesktop,1.8,着色器]
 comments: true

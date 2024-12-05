@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VBA编程必备手册（全）下载"
+title: "VBA编程必备手册全下载"
 date:   2020-03-25
 tags: [VBA,手册,文件,编程,7z]
 comments: true

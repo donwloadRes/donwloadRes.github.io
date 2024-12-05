@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "消防海湾CRT2.0培训资源下载"
+title: "消防海湾CRT20培训资源下载"
 date:   2023-11-25
 tags: [CRT2.0,海湾,软件,培训,文稿]
 comments: true

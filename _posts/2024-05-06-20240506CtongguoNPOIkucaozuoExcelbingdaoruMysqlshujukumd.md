@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过NPOI库操作Excel并导入Mysql数据库"
+title: "C通过NPOI库操作Excel并导入Mysql数据库"
 date:   2022-04-20
 tags: [Excel,NPOI,Mysql,数据库,DataTable]
 comments: true

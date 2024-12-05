@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 64位安装包下载"
+title: "Notepad 64位安装包下载"
 date:   2021-07-03
 tags: [安装包,64,Notepad,++,下载]
 comments: true

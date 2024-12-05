@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微分几何-彭家贵资源下载"
+title: "微分几何彭家贵资源下载"
 date:   2024-01-18
 tags: [彭家贵,微分,几何,文件,下载]
 comments: true

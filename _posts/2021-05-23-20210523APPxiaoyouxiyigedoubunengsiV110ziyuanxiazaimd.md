@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APP小游戏一个都不能死V1.1.0》资源下载"
+title: "APP小游戏一个都不能死V110资源下载"
 date:   2021-10-18
 tags: [游戏,文件,V1.1,APP,Inventor]
 comments: true

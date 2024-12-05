@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RESTful API接口通用完整规范_V1.doc 下载仓库"
+title: "RESTful API接口通用完整规范V1doc 下载仓库"
 date:   2020-05-16
 tags: [API,RESTful,doc,接口,V1]
 comments: true

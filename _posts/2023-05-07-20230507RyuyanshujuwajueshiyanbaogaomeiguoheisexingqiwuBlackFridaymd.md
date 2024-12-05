@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R语言数据挖掘实验报告——美国黑色星期五（BlackFriday）"
+title: "R语言数据挖掘实验报告美国黑色星期五BlackFriday"
 date:   2022-06-22
 tags: [数据挖掘,实验报告,实验,语言,进行]
 comments: true

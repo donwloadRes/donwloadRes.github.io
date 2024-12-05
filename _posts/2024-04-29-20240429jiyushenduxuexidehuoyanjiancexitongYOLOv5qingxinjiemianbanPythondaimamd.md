@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于深度学习的火焰检测系统（YOLOv5清新界面版，Python代码）"
+title: "基于深度学习的火焰检测系统YOLOv5清新界面版Python代码"
 date:   2021-09-27
 tags: [火焰,检测,py,Python,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Misaka v3.3.8 资源文件下载"
+title: "Misaka v338 资源文件下载"
 date:   2020-08-23
 tags: [v3.3,misaka,文件,zip,解压]
 comments: true

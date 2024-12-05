@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "接触力学：K.L.Johnson经典著作中文版"
+title: "接触力学KLJohnson经典著作中文版"
 date:   2021-01-19
 tags: [力学,接触,Johnson,中文版,本书]
 comments: true

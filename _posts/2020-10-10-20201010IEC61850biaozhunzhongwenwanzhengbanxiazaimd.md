@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC-61850标准中文完整版下载"
+title: "IEC61850标准中文完整版下载"
 date:   2023-02-14
 tags: [IEC,61850,变电站,DL,通信]
 comments: true

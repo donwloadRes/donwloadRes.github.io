@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MSPM0_SDK 下载指南"
+title: "MSPM0SDK 下载指南"
 date:   2023-04-12
 tags: [SDK,MSPM0,下载,示例,安装]
 comments: true

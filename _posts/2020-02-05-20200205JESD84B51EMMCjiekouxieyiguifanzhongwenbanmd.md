@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD84-B51 EMMC接口协议规范中文版"
+title: "JESD84B51 EMMC接口协议规范中文版"
 date:   2022-06-18
 tags: [EMMC,文件,JESD84,接口协议,B51]
 comments: true

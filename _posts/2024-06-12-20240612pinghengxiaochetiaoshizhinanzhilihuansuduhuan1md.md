@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "平衡小车调试指南(直立环-速度环)1"
+title: "平衡小车调试指南直立环速度环1"
 date:   2022-01-25
 tags: [小车,调试,kp,指南,平衡]
 comments: true

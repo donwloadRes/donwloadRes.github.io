@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ EasyX 推箱子小游戏"
+title: "C EasyX 推箱子小游戏"
 date:   2020-10-27
 tags: [游戏,C++,EasyX,小游戏,箱子]
 comments: true

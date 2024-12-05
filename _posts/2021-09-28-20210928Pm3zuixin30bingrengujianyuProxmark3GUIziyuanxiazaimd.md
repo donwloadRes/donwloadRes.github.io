@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pm3最新3.0冰人固件与Proxmark3 GUI资源下载"
+title: "Pm3最新30冰人固件与Proxmark3 GUI资源下载"
 date:   2021-03-18
 tags: [GUI,固件,Proxmark3,3.0,UID]
 comments: true

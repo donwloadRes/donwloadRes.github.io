@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Nexus 6P手机刷机+升级+降级+Root详细教程"
+title: "Google Nexus 6P手机刷机升级降级Root详细教程"
 date:   2023-09-05
 tags: [Root,刷机,教程,降级,Android]
 comments: true

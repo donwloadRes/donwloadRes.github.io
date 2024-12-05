@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保研个人简历模板（500份）"
+title: "保研个人简历模板500份"
 date:   2020-09-13
 tags: [模板,保研,个人简历,简历,500]
 comments: true

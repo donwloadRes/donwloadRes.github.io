@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12 数据库软件下载、安装与使用指南"
+title: "Navicat Premium 12 数据库软件下载安装与使用指南"
 date:   2023-05-09
 tags: [数据库,下载,Navicat,Premium,12]
 comments: true

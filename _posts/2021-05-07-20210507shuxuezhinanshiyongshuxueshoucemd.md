@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学指南-实用数学手册"
+title: "数学指南实用数学手册"
 date:   2022-06-25
 tags: [数学,手册,指南,工具书,实用]
 comments: true

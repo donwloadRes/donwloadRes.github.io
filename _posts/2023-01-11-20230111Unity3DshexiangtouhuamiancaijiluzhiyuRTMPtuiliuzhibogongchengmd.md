@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D 摄像头画面采集、录制与RTMP推流直播工程"
+title: "Unity3D 摄像头画面采集录制与RTMP推流直播工程"
 date:   2021-04-18
 tags: [直播,RTMP,推流,摄像头,画面]
 comments: true

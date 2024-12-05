@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SnapGene 6.0.2 软件安装包下载指南"
+title: "SnapGene 602 软件安装包下载指南"
 date:   2024-05-12
 tags: [SnapGene,序列,引物,下载,6.0]
 comments: true

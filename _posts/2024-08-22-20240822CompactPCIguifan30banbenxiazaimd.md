@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CompactPCI 规范 3.0 版本下载"
+title: "CompactPCI 规范 30 版本下载"
 date:   2021-01-11
 tags: [CompactPCI,3.0,文件,CPCI,规范]
 comments: true

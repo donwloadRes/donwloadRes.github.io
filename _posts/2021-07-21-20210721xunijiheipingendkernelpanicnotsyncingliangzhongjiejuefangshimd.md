@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机黑屏end kernel panic - not syncing两种解决方式"
+title: "虚拟机黑屏end kernel panic  not syncing两种解决方式"
 date:   2024-07-21
 tags: [虚拟机,黑屏,end,kernel,panic]
 comments: true

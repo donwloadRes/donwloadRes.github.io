@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven 3.6 安装包下载"
+title: "Maven 36 安装包下载"
 date:   2021-06-13
 tags: [安装包,Maven,解压,3.6,resp]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue-Konva 多边形与矩形数据标注工具 - Demo 2.0"
+title: "VueKonva 多边形与矩形数据标注工具  Demo 20"
 date:   2024-01-24
 tags: [标注,画布,Konva,多边形,矩形]
 comments: true

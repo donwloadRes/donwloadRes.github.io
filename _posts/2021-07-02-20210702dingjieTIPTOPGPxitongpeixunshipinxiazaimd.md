@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷TIPTOP-GP系统培训视频下载"
+title: "鼎捷TIPTOPGP系统培训视频下载"
 date:   2020-06-03
 tags: [管理,鼎捷,视频,TIPTOP,GP]
 comments: true

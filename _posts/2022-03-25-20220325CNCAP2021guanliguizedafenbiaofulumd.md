@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-NCAP 2021 管理规则+打分表+附录"
+title: "CNCAP 2021 管理规则打分表附录"
 date:   2023-10-17
 tags: [NCAP,2021,打分,评价,附录]
 comments: true

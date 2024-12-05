@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大麦网抢票脚本 - Selenium自动化工具"
+title: "大麦网抢票脚本  Selenium自动化工具"
 date:   2022-04-28
 tags: [脚本,Selenium,大麦,网抢票,抢票]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenPLC：完全开源的可编程逻辑控制器"
+title: "OpenPLC完全开源的可编程逻辑控制器"
 date:   2023-09-14
 tags: [OpenPLC,开源,PLC,控制器,自动化]
 comments: true

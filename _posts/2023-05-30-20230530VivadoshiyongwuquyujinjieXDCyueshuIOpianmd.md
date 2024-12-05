@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivado使用误区与进阶-XDC约束IO篇"
+title: "Vivado使用误区与进阶XDC约束IO篇"
 date:   2023-07-16
 tags: [XDC,Vivado,约束,误区,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机数据表示实验(HUST) 头歌 通关全码"
+title: "计算机数据表示实验HUST 头歌 通关全码"
 date:   2020-02-23
 tags: [电路设计,实验,数据表示,16,编码]
 comments: true

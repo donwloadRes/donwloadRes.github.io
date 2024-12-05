@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BABOK v3.0 资源下载"
+title: "BABOK v30 资源下载"
 date:   2024-10-12
 tags: [BABOK,CBAP,文件,V3.0,pdf]
 comments: true

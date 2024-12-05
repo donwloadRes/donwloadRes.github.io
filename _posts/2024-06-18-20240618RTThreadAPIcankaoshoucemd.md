@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RT-Thread API参考手册"
+title: "RTThread API参考手册"
 date:   2024-12-02
 tags: [RT,Thread,参考手册,API,本手册]
 comments: true

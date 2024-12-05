@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot + Mybatis + PostgreSQL数据库操作实战"
+title: "SpringBoot  Mybatis  PostgreSQL数据库操作实战"
 date:   2024-01-17
 tags: [数据库,PostgreSQL,SpringBoot,Mybatis,项目]
 comments: true

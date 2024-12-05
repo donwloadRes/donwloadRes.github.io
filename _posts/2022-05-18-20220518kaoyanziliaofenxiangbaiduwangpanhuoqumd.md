@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "考研资料分享——百度网盘获取"
+title: "考研资料分享百度网盘获取"
 date:   2024-05-06
 tags: [考研,复习资料,百度网,真题,资料]
 comments: true

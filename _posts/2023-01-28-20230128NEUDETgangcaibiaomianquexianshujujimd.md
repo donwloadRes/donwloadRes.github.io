@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEU-DET钢材表面缺陷数据集"
+title: "NEUDET钢材表面缺陷数据集"
 date:   2020-01-28
 tags: [缺陷,钢材,数据,表面,图片]
 comments: true

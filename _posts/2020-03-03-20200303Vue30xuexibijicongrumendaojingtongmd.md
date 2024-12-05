@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue 3.0学习笔记(从入门到精通)"
+title: "Vue 30学习笔记从入门到精通"
 date:   2023-01-29
 tags: [Vue,3.0,笔记,组件,学习]
 comments: true

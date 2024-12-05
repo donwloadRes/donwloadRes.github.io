@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【中文文档】HEC-HMS应用指南"
+title: "中文文档HECHMS应用指南"
 date:   2021-04-11
 tags: [HEC,HMS,文档,指南,应用]
 comments: true

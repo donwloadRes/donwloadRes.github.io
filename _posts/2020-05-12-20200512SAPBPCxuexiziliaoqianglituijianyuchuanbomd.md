@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP BPC学习资料（强力推荐与传播）"
+title: "SAP BPC学习资料强力推荐与传播"
 date:   2020-09-30
 tags: [BPC,学习,资料,帮助,这份]
 comments: true

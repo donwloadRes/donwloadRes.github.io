@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Pycharm中使用离线依赖包安装Python环境——小白入手版图文教程"
+title: "在Pycharm中使用离线依赖包安装Python环境小白入手版图文教程"
 date:   2024-11-12
 tags: [离线,Python,安装,环境,PyCharm]
 comments: true

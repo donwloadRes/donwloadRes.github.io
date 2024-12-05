@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速将PDF、图片或网页中的公式转换为MathType公式"
+title: "快速将PDF图片或网页中的公式转换为MathType公式"
 date:   2023-03-15
 tags: [MathType,Mathpix,公式,LaTeX,转换]
 comments: true

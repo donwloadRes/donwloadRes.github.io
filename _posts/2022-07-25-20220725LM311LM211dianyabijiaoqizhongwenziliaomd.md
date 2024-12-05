@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LM311-LM211 电压比较器 中文资料"
+title: "LM311LM211 电压比较器 中文资料"
 date:   2024-04-12
 tags: [LM311,LM211,电压,资料,中文]
 comments: true

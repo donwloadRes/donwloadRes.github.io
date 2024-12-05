@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt-opengl-nv12渲染库"
+title: "qtopenglnv12渲染库"
 date:   2023-07-07
 tags: [NV12,Qt,OpenGL,视频,渲染]
 comments: true

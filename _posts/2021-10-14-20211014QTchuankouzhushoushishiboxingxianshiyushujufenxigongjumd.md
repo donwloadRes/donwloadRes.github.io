@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT串口助手：实时波形显示与数据分析工具"
+title: "QT串口助手实时波形显示与数据分析工具"
 date:   2024-07-25
 tags: [串口,QT,数据,实时,波形]
 comments: true

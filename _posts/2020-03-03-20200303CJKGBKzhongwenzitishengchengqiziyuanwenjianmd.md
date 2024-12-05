@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CJK+GBK中文字体生成器资源文件"
+title: "CJKGBK中文字体生成器资源文件"
 date:   2024-10-25
 tags: [中文字体,CJK,GBK,Texlive,生成器]
 comments: true

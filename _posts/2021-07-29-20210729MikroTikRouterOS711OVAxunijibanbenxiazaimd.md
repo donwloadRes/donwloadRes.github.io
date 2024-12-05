@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MikroTik RouterOS 7.1.1 OVA虚拟机版本下载"
+title: "MikroTik RouterOS 711 OVA虚拟机版本下载"
 date:   2024-07-07
 tags: [虚拟机,VMware,OVA,默认,MikroTik]
 comments: true

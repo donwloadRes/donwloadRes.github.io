@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 11 22H2 离线安装 .NET 2.0~3.5 资源包"
+title: "Windows 11 22H2 离线安装 NET 2035 资源包"
 date:   2021-10-20
 tags: [NET,Framework,2.0,3.5,安装]
 comments: true

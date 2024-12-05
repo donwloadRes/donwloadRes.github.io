@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6 和 3.7 版本的 Dlib 包"
+title: "Python 36 和 37 版本的 Dlib 包"
 date:   2022-10-13
 tags: [Dlib,Python,3.7,博客,3.6]
 comments: true

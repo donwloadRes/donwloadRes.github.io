@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北理工随机信号分析》复习总结"
+title: "北理工随机信号分析复习总结"
 date:   2024-01-25
 tags: [随机,复习,信号,分析,北理工]
 comments: true

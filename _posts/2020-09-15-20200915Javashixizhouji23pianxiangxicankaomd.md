@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java实习周记23篇（详细参考）"
+title: "Java实习周记23篇详细参考"
 date:   2022-03-12
 tags: [Java,周记,实习,23,实习生]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket通信粘包问题解决方案"
+title: "C Socket通信粘包问题解决方案"
 date:   2023-05-08
 tags: [粘包,分包,通信协议,C#,自定义]
 comments: true

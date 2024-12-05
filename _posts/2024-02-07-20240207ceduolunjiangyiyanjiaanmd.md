@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测度论讲义-严加安"
+title: "测度论讲义严加安"
 date:   2021-08-22
 tags: [测度论,讲义,严加,PDF,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程文档模板(完整规范版)"
+title: "软件工程文档模板完整规范版"
 date:   2021-11-12
 tags: [模板,文档,软件开发,软件工程,软件]
 comments: true

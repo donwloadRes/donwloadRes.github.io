@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android设计-外卖点餐系统资源文件介绍"
+title: "Android设计外卖点餐系统资源文件介绍"
 date:   2022-01-28
 tags: [数据库,商家,Android,用户,卖点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32+M5311连接OneNET方案资源包"
+title: "STM32M5311连接OneNET方案资源包"
 date:   2022-12-20
 tags: [OneNET,STM32,M5311,模块,语音]
 comments: true

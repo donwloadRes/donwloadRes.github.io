@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于IR2110的全桥驱动电路原理图+PCB"
+title: "基于IR2110的全桥驱动电路原理图PCB"
 date:   2021-12-21
 tags: [IR2110,全桥,PCB,设计,驱动]
 comments: true

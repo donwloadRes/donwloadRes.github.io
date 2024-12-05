@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "黄河流域线状一级河流.shp资源说明"
+title: "黄河流域线状一级河流shp资源说明"
 date:   2021-04-06
 tags: [黄河流域,GIS,shp,线状,河流]
 comments: true

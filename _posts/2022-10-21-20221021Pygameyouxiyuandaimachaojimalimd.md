@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pygame游戏源代码：超级玛丽"
+title: "Pygame游戏源代码超级玛丽"
 date:   2023-04-06
 tags: [Pygame,游戏,超级玛丽,源代码,安装]
 comments: true

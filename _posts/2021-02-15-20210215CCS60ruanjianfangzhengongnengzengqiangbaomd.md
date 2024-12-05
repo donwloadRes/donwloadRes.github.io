@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS6.0 软件仿真功能增强包"
+title: "CCS60 软件仿真功能增强包"
 date:   2020-10-17
 tags: [仿真,CCS,插件,软件,CCS6.0]
 comments: true

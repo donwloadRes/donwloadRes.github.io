@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机App获取OneNet数据（新版）资源文件介绍"
+title: "手机App获取OneNet数据新版资源文件介绍"
 date:   2021-05-28
 tags: [OneNet,App,获取,代码,文件]
 comments: true

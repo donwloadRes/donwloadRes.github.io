@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDA编译STM32 Hex-Bin文件成C代码"
+title: "IDA编译STM32 HexBin文件成C代码"
 date:   2023-03-02
 tags: [IDA,Pro,反编译,Hex,Bin]
 comments: true

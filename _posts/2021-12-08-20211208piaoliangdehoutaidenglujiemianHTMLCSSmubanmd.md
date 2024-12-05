@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "漂亮的后台登录界面（HTML+CSS模板）"
+title: "漂亮的后台登录界面HTMLCSS模板"
 date:   2020-09-18
 tags: [模板,界面,后台,登录,HTML]
 comments: true

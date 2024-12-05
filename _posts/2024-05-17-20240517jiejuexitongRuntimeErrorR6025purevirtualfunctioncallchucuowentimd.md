@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决系统Runtime Error! R6025-pure virtual function call出错问题"
+title: "解决系统Runtime Error R6025pure virtual function call出错问题"
 date:   2020-09-11
 tags: [Windows,工具,修复,Runtime,Error]
 comments: true

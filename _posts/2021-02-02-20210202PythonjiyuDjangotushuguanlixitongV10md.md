@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python基于Django图书管理系统 V1.0"
+title: "Python基于Django图书管理系统 V10"
 date:   2024-05-19
 tags: [图书,Django,框架,界面,后台]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1500+ AIGC 工具资源大全"
+title: "1500 AIGC 工具资源大全"
 date:   2020-02-22
 tags: [工具,AIGC,资源库,1500,数据分析]
 comments: true

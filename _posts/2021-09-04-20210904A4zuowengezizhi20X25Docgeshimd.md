@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A4作文格子纸(20X25) - Doc格式"
+title: "A4作文格子纸20X25  Doc格式"
 date:   2022-03-12
 tags: [格子纸,作文,A4,Doc,文件]
 comments: true

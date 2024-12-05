@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spy++的使用方法及下载"
+title: "Spy的使用方法及下载"
 date:   2020-10-15
 tags: [Spy,++,Windows,Visual,Studio]
 comments: true

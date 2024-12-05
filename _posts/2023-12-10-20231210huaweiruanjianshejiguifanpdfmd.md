@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为软件设计规范.pdf"
+title: "华为软件设计规范pdf"
 date:   2023-01-22
 tags: [代码,pdf,设计规范,软件,华为]
 comments: true

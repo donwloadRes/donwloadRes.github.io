@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++学生宿舍管理系统"
+title: "CC学生宿舍管理系统"
 date:   2022-03-02
 tags: [信息,用户,住宿,功能,系统]
 comments: true

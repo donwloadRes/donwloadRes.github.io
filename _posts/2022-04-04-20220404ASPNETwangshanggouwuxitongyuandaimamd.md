@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASP.NET网上购物系统源代码"
+title: "ASPNET网上购物系统源代码"
 date:   2024-02-01
 tags: [商品,源代码,自定义,数据库,管理员]
 comments: true

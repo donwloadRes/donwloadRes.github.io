@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自写C#高性能Socket服务器SocketAsyncEventArgs"
+title: "自写C高性能Socket服务器SocketAsyncEventArgs"
 date:   2022-09-05
 tags: [服务器,SocketAsyncEventArgs,高性能,Socket,编程]
 comments: true

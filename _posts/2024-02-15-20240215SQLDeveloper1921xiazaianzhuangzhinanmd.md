@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Developer 19.2.1 下载安装指南"
+title: "SQL Developer 1921 下载安装指南"
 date:   2021-04-17
 tags: [SQL,Developer,19.2,安装包,安装]
 comments: true

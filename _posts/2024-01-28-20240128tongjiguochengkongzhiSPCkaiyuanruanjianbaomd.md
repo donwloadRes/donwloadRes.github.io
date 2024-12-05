@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统计过程控制（SPC）- 开源软件包"
+title: "统计过程控制SPC 开源软件包"
 date:   2020-09-12
 tags: [过程,软件包,控制,开源,统计]
 comments: true

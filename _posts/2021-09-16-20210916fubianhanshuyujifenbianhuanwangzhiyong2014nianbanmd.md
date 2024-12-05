@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复变函数与积分变换 [王志勇] 2014年版"
+title: "复变函数与积分变换 王志勇 2014年版"
 date:   2023-11-28
 tags: [变换,积分,傅里叶,函数,复变]
 comments: true

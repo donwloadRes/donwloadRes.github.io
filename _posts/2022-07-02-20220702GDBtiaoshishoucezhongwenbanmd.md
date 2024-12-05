@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GDB调试手册(中文版)"
+title: "GDB调试手册中文版"
 date:   2023-02-09
 tags: [GDB,调试,中文版,手册,开发者]
 comments: true

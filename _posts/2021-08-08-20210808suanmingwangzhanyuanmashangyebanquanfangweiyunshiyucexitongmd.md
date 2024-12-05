@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算命网站源码商业版：全方位运势预测系统"
+title: "算命网站源码商业版全方位运势预测系统"
 date:   2020-01-05
 tags: [源码,ASP,Access,数据库,算命]
 comments: true

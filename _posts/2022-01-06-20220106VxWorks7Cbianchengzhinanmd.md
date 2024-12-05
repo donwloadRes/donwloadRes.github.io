@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VxWorks 7 C++编程指南"
+title: "VxWorks 7 C编程指南"
 date:   2020-01-19
 tags: [C++,VxWorks,编程,指南,编译器]
 comments: true

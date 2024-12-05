@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电容测量仪（基于STM32）资源下载"
+title: "电容测量仪基于STM32资源下载"
 date:   2021-03-08
 tags: [电容,测量仪,STM32,单片机,测量]
 comments: true

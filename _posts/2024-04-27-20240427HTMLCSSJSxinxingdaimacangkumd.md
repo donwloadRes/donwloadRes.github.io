@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "💌 HTML+CSS+JS 心形代码仓库"
+title: " HTMLCSSJS 心形代码仓库"
 date:   2020-02-04
 tags: [HTML,CSS,代码,JS,爱心]
 comments: true

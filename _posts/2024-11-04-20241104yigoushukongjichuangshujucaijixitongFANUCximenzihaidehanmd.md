@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "异构数控机床数据采集系统（FANUC、西门子、海德汉）"
+title: "异构数控机床数据采集系统FANUC西门子海德汉"
 date:   2021-09-17
 tags: [数据,采集,推送,数控系统,云端]
 comments: true

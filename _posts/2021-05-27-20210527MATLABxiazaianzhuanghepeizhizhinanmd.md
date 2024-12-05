@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB下载、安装和配置指南"
+title: "MATLAB下载安装和配置指南"
 date:   2021-01-28
 tags: [MATLAB,安装,下载,配置,指南]
 comments: true

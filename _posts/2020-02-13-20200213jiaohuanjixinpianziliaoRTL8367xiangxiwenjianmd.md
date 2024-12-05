@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交换机芯片资料 - RTL8367详细文件"
+title: "交换机芯片资料  RTL8367详细文件"
 date:   2023-07-13
 tags: [RTL8367,芯片,交换机,资料,详细]
 comments: true

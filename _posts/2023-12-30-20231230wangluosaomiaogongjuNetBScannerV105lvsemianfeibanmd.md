@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络扫描工具NetBScanner V1.05 绿色免费版"
+title: "网络扫描工具NetBScanner V105 绿色免费版"
 date:   2024-08-14
 tags: [扫描,网络,NetBScanner,V1.05,绿色]
 comments: true

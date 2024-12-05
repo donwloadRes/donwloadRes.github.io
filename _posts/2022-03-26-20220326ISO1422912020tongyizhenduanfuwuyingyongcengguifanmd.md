@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 14229-1:2020 统一诊断服务应用层规范"
+title: "ISO 1422912020 统一诊断服务应用层规范"
 date:   2024-05-29
 tags: [诊断,车辆,ISO,应用层,14229]
 comments: true

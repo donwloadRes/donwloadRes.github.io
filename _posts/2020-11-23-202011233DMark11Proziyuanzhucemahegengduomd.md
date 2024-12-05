@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3DMark 11 Pro 资源：注册码和更多！"
+title: "3DMark 11 Pro 资源注册码和更多"
 date:   2022-07-13
 tags: [3DMark,11,Pro,注册码,性能]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java用户登录-注册界面（连接Mysql数据库）并可以通过验证码登录"
+title: "Java用户登录注册界面连接Mysql数据库并可以通过验证码登录"
 date:   2021-07-20
 tags: [Mysql,登录,数据库,验证码,界面]
 comments: true

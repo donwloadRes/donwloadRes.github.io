@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB地磁模型代码 - World Magnetic Model 2015-2020"
+title: "MATLAB地磁模型代码  World Magnetic Model 20152020"
 date:   2022-01-01
 tags: [代码,2020,地磁场,项目,MATLAB]
 comments: true

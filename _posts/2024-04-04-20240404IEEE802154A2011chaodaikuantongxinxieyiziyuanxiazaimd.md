@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.15.4A-2011 超带宽通信协议资源下载"
+title: "IEEE 802154A2011 超带宽通信协议资源下载"
 date:   2020-01-25
 tags: [4A,2011,IEEE,802.15,带宽]
 comments: true

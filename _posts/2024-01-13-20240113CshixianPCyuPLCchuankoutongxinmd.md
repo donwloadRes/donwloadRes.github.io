@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 实现PC与PLC串口通信"
+title: "C 实现PC与PLC串口通信"
 date:   2021-01-20
 tags: [PLC,地址,PC,串口,读取]
 comments: true

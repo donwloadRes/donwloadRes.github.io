@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RTD2555T HDMI+2DP(Typec)转eDP显示芯片原理图下载"
+title: "RTD2555T HDMI2DPTypec转eDP显示芯片原理图下载"
 date:   2021-06-08
 tags: [原理图,电路设计,芯片,下载,RTD2555T]
 comments: true

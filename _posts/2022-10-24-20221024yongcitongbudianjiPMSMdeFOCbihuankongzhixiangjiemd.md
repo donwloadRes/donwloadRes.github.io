@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "永磁同步电机(PMSM)的FOC闭环控制详解"
+title: "永磁同步电机PMSM的FOC闭环控制详解"
 date:   2021-02-04
 tags: [FOC,同步电机,控制,永磁,闭环控制]
 comments: true

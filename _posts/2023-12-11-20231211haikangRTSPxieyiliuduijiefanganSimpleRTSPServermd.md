@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康RTSP协议流对接方案：Simple-RTSP-Server"
+title: "海康RTSP协议流对接方案SimpleRTSPServer"
 date:   2020-03-10
 tags: [RTSP,海康,对接,资源,文件]
 comments: true

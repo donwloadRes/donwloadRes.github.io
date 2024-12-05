@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport 6.9.15 企业版全源码 for Delphi 11.1"
+title: "FastReport 6915 企业版全源码 for Delphi 111"
 date:   2023-02-04
 tags: [Delphi,源码,FastReport,11.1,15]
 comments: true

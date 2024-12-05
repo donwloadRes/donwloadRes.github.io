@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab求解微分方程(组)及偏微分方程(组)资源介绍"
+title: "Matlab求解微分方程组及偏微分方程组资源介绍"
 date:   2023-07-19
 tags: [微分方程,Matlab,求解,PDEtool,GUI]
 comments: true

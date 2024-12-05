@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "uni-app登录实例实现资源下载"
+title: "uniapp登录实例实现资源下载"
 date:   2023-08-15
 tags: [登录,uni,app,开发者,实现]
 comments: true

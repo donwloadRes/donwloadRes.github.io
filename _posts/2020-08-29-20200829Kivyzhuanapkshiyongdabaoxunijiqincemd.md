@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kivy转apk——使用打包虚拟机（亲测~）"
+title: "Kivy转apk使用打包虚拟机亲测"
 date:   2022-08-07
 tags: [虚拟机,Kivy,apk,打包,文件]
 comments: true

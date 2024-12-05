@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA机器人与工业相机EtherNet-IP通讯配置实例"
+title: "KUKA机器人与工业相机EtherNetIP通讯配置实例"
 date:   2020-04-17
 tags: [KUKA,EtherNet,IP,机器人,相机]
 comments: true

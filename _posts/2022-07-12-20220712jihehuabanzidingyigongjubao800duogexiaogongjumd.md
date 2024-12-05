@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "几何画板自定义工具包-800多个小工具"
+title: "几何画板自定义工具包800多个小工具"
 date:   2023-07-22
 tags: [画板,工具包,几何,自定义,导入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform + ZedGraph：显示坐标点和绘制游标"
+title: "Winform  ZedGraph显示坐标点和绘制游标"
 date:   2024-03-17
 tags: [ZedGraph,游标,坐标,Winform,自定义]
 comments: true

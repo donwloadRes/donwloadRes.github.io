@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红帽初级认证RHCSA考试环境——供实验练习"
+title: "红帽初级认证RHCSA考试环境供实验练习"
 date:   2023-01-16
 tags: [RHCSA,考试,实验,考生,红帽]
 comments: true

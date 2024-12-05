@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LABVIEW串口通讯实例VI源码（稳定运行）"
+title: "LABVIEW串口通讯实例VI源码稳定运行"
 date:   2021-10-03
 tags: [源码,串口,LABVIEW,VI,实例]
 comments: true

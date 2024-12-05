@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24V至低电压转换电源解决方案：资源选型指南"
+title: "24V至低电压转换电源解决方案资源选型指南"
 date:   2024-02-24
 tags: [24V,DC,电压,电源,LDO]
 comments: true

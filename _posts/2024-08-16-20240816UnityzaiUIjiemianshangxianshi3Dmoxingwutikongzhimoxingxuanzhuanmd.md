@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity在UI界面上显示3D模型-物体，控制模型旋转"
+title: "Unity在UI界面上显示3D模型物体控制模型旋转"
 date:   2022-11-04
 tags: [UI,3D,模型,Unity,界面]
 comments: true

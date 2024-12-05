@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CLI格式解析：C++与C#代码示例"
+title: "CLI格式解析C与C代码示例"
 date:   2024-04-04
 tags: [CLI,示例,C++,代码,C#]
 comments: true

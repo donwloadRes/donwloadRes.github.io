@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口通信及数据表格存储"
+title: "C串口通信及数据表格存储"
 date:   2021-07-30
 tags: [串口,CSV,存储,Excel,文件]
 comments: true

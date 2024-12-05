@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407 6路串口DMA发送&接收实验"
+title: "STM32F407 6路串口DMA发送接收实验"
 date:   2023-08-30
 tags: [串口,DMA,STM32F407,STM32,实验]
 comments: true

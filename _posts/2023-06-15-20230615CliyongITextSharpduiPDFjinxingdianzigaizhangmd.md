@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#利用ITextSharp对PDF进行电子盖章"
+title: "C利用ITextSharp对PDF进行电子盖章"
 date:   2022-09-01
 tags: [盖章,证书,PDF,版本,电子]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Little VGL(LVGL)图形库移植到CH32V307单片机工程文件"
+title: "Little VGLLVGL图形库移植到CH32V307单片机工程文件"
 date:   2021-04-14
 tags: [CH32V307,LVGL,单片机,文件,工程]
 comments: true

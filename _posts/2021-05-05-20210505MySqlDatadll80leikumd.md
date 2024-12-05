@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySql.Data.dll 8.0 类库"
+title: "MySqlDatadll 80 类库"
 date:   2023-12-30
 tags: [MySql,Data,dll,类库,8.0]
 comments: true

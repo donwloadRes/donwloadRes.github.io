@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 2022.2.1 Windows版本使用与安装指南"
+title: "PyCharm 202221 Windows版本使用与安装指南"
 date:   2023-02-13
 tags: [PyCharm,2022.2,安装,Windows,指南]
 comments: true

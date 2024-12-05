@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm WebBrowser控件内嵌火狐内核"
+title: "C WinForm WebBrowser控件内嵌火狐内核"
 date:   2020-11-20
 tags: [控件,版本,火狐,内核,内嵌]
 comments: true

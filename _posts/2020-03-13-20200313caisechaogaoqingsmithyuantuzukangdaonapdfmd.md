@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "彩色超高清smith圆图（阻抗+导纳）.pdf"
+title: "彩色超高清smith圆图阻抗导纳pdf"
 date:   2021-09-03
 tags: [圆图,阻抗,导纳,Smith,超高]
 comments: true

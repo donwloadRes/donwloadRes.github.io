@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 20概述-安装及卸载指南"
+title: "Altium Designer 20概述安装及卸载指南"
 date:   2024-11-26
 tags: [Altium,软件,Designer,3D,设计]
 comments: true

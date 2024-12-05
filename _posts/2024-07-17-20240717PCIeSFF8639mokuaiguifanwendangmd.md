@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe SFF-8639 模块规范文档"
+title: "PCIe SFF8639 模块规范文档"
 date:   2024-05-10
 tags: [文档,8639,SFF,PCIe,仓库]
 comments: true

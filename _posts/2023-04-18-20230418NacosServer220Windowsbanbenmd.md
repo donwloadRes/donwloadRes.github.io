@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nacos Server 2.2.0 - Windows 版本"
+title: "Nacos Server 220  Windows 版本"
 date:   2022-04-29
 tags: [Nacos,服务,Windows,Server,2.2]
 comments: true

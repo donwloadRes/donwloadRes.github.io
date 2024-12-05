@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ JSON格式化插件安装指南"
+title: "Notepad JSON格式化插件安装指南"
 date:   2024-08-31
 tags: [插件,JSON,Notepad,++,格式化]
 comments: true

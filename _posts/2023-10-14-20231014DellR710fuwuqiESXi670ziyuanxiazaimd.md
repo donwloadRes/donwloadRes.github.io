@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dell R710服务器ESXi 6.7.0资源下载"
+title: "Dell R710服务器ESXi 670资源下载"
 date:   2022-12-15
 tags: [服务器,Dell,R710,ESXi,6.7]
 comments: true

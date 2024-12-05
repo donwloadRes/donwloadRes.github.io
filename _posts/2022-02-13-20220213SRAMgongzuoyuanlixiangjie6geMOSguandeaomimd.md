@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SRAM工作原理详解——6个MOS管的奥秘"
+title: "SRAM工作原理详解6个MOS管的奥秘"
 date:   2020-07-13
 tags: [SRAM,MOS,原理,文件,工作]
 comments: true

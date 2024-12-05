@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用epub.js解析epub文件，浏览器阅读电子书"
+title: "使用epubjs解析epub文件浏览器阅读电子书"
 date:   2021-03-10
 tags: [epub,js,EPUB,文件,浏览器]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无法加载Word2Vec-google-news-300 资源文件下载"
+title: "无法加载Word2Vecgooglenews300 资源文件下载"
 date:   2024-01-02
 tags: [300,加载,文件,google,news]
 comments: true

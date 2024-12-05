@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 插件开发：超详细教程"
+title: "Qt 插件开发超详细教程"
 date:   2021-12-30
 tags: [插件,Qt,开发,资源,文件]
 comments: true

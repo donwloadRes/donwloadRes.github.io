@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PVE8.1内核编译拆分IOMMU"
+title: "PVE81内核编译拆分IOMMU"
 date:   2020-01-05
 tags: [内核,IOMMU,编译,虚拟机,PVE8.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "μC-OS-II 简单任务切换：工厂与零售商顺序更新"
+title: "COSII 简单任务切换工厂与零售商顺序更新"
 date:   2021-03-08
 tags: [零售商,工厂,打印,任务,OS]
 comments: true

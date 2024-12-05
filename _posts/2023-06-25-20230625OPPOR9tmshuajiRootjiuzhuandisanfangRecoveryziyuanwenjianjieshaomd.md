@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPPO R9tm 刷机-Root-救砖-第三方Recovery 资源文件介绍"
+title: "OPPO R9tm 刷机Root救砖第三方Recovery 资源文件介绍"
 date:   2022-03-19
 tags: [刷机,Root,救砖,Recovery,第三方]
 comments: true

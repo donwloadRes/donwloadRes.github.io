@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10系统gpedit.msc找不到怎么办？解决方法详细指南"
+title: "win10系统gpeditmsc找不到怎么办解决方法详细指南"
 date:   2023-11-13
 tags: [MMC,编辑器,注册表,gpedit,msc]
 comments: true

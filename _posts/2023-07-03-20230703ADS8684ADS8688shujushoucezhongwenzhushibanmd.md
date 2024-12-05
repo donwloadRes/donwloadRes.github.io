@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS8684-ADS8688数据手册中文注释版"
+title: "ADS8684ADS8688数据手册中文注释版"
 date:   2021-07-20
 tags: [手册,ADS8684,ADS8688,中文,注释]
 comments: true

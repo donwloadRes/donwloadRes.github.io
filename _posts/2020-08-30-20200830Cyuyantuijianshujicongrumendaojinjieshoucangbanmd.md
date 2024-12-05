@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言推荐书籍从入门到进阶（收藏版）"
+title: "C语言推荐书籍从入门到进阶收藏版"
 date:   2024-10-03
 tags: [C语言,进阶,编程,Linux,程序设计]
 comments: true

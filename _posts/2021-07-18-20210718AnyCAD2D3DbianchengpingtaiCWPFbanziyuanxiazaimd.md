@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AnyCAD 2D、3D编程平台（C# WPF版）资源下载"
+title: "AnyCAD 2D3D编程平台C WPF版资源下载"
 date:   2020-08-24
 tags: [AnyCAD,三维,C#,WPF,编程]
 comments: true

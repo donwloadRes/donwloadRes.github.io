@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SleepNet：基于深度学习的睡眠自动分期"
+title: "SleepNet基于深度学习的睡眠自动分期"
 date:   2024-07-14
 tags: [SleepNet,睡眠,训练,模型,代码]
 comments: true

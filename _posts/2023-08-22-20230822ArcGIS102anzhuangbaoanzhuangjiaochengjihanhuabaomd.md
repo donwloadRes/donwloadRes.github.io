@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ArcGIS 10.2 安装包、安装教程及汉化包"
+title: "ArcGIS 102 安装包安装教程及汉化包"
 date:   2024-10-13
 tags: [安装,ArcGIS,10.2,汉化包,教程]
 comments: true

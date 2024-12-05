@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两级式单相光伏并网仿真 (MATLAB 2021a 版本)"
+title: "两级式单相光伏并网仿真 MATLAB 2021a 版本"
 date:   2022-12-28
 tags: [仿真,MATLAB,并网,DC,光伏]
 comments: true

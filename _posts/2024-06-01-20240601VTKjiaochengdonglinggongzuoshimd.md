@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK教程 - 东灵工作室"
+title: "VTK教程  东灵工作室"
 date:   2024-01-23
 tags: [VTK,可视化,教程,东灵,工作室]
 comments: true

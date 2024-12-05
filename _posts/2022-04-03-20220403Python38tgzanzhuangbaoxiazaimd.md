@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 tgz 安装包下载"
+title: "Python 38 tgz 安装包下载"
 date:   2023-06-19
 tags: [Python,tgz,3.8,安装,Python3.8]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统公式大总结（表格整理+数学证明）"
+title: "信号与系统公式大总结表格整理数学证明"
 date:   2021-09-02
 tags: [公式,信号,复习,文档,系统]
 comments: true

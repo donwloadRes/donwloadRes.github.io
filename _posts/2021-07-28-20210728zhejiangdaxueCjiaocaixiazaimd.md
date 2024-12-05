@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "浙江大学C++教材下载"
+title: "浙江大学C教材下载"
 date:   2024-09-29
 tags: [C++,浙江大学,教材,编程,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV 4.5.5 VC14-VC15 最新版本下载"
+title: "OpenCV 455 VC14VC15 最新版本下载"
 date:   2023-07-24
 tags: [OpenCV,4.5,Visual,Studio,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pi节点0.4.7搭建攻略 - 纯小白也能完美上手"
+title: "pi节点047搭建攻略  纯小白也能完美上手"
 date:   2023-12-28
 tags: [pi,节点,0.4,搭建,树莓]
 comments: true

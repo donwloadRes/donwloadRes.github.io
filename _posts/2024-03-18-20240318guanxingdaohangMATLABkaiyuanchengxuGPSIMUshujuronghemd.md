@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "惯性导航MATLAB开源程序（GPS & IMU 数据融合）"
+title: "惯性导航MATLAB开源程序GPS  IMU 数据融合"
 date:   2023-02-16
 tags: [---,数据,卡尔曼滤波,MATLAB,GPS]
 comments: true

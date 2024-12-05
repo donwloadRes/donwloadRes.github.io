@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3D飞机飞行模拟（MATLAB版资源）"
+title: "3D飞机飞行模拟MATLAB版资源"
 date:   2024-10-17
 tags: [MATLAB,飞行,3D,模拟,编程]
 comments: true

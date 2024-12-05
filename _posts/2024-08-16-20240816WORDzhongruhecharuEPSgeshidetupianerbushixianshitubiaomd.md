@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WORD中如何插入EPS格式的图片，而不是显示图标？"
+title: "WORD中如何插入EPS格式的图片而不是显示图标"
 date:   2024-05-19
 tags: [EPS,Word,图片,插入,格式]
 comments: true

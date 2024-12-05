@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF自定义控件：UserControl的制作与使用过程"
+title: "WPF自定义控件UserControl的制作与使用过程"
 date:   2022-03-11
 tags: [控件,自定义,WPF,UserControl,本文]
 comments: true

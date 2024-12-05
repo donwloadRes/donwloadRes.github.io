@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract-OCR 中文识别语言库"
+title: "TesseractOCR 中文识别语言库"
 date:   2022-09-20
 tags: [Tesseract,OCR,语言,中文,识别]
 comments: true

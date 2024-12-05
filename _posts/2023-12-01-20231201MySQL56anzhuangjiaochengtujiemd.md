@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 5.6 安装教程图解"
+title: "MySQL 56 安装教程图解"
 date:   2020-06-08
 tags: [MySQL,5.6,教程,安装,图解]
 comments: true

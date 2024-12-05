@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KCF目标跟踪C++代码程序（抗遮挡增强版）"
+title: "KCF目标跟踪C代码程序抗遮挡增强版"
 date:   2022-07-13
 tags: [KCF,算法,遮挡,跟踪,C++]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOC估算与TI电量计的使用中文版 - BQ4050"
+title: "SOC估算与TI电量计的使用中文版  BQ4050"
 date:   2021-06-29
 tags: [均衡,电池,TI,电量计,算法]
 comments: true

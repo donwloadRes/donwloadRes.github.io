@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407高速并口12位AD——DCMI方式资源下载"
+title: "STM32F407高速并口12位ADDCMI方式资源下载"
 date:   2022-05-02
 tags: [STM32F407,库函数,12,代码,采集]
 comments: true

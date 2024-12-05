@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 导入Obj模型文件并显示"
+title: "C 导入Obj模型文件并显示"
 date:   2020-08-26
 tags: [OBJ,模型,C#,3D,文件]
 comments: true

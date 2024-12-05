@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 CAN波特率计算器 V1.0 下载"
+title: "STM32 CAN波特率计算器 V10 下载"
 date:   2021-04-14
 tags: [波特率,计算器,STM32,V1.0,STM32CAN]
 comments: true

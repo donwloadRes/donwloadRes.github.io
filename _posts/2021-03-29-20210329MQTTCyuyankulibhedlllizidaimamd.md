@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT C语言库（lib和dll）+例子代码"
+title: "MQTT C语言库lib和dll例子代码"
 date:   2022-10-29
 tags: [MQTT,paho,示例,lib,代码]
 comments: true

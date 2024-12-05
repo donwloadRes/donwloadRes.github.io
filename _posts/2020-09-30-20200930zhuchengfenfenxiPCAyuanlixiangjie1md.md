@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "主成分分析（PCA）原理详解1"
+title: "主成分分析PCA原理详解1"
 date:   2021-11-26
 tags: [PCA,降维,成分,详解,原理]
 comments: true

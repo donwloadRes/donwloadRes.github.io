@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "四参数正弦拟合：最小二乘正弦拟合（Matlab开发）"
+title: "四参数正弦拟合最小二乘正弦拟合Matlab开发"
 date:   2022-08-19
 tags: [拟合,参数,正弦,迭代,正弦波]
 comments: true

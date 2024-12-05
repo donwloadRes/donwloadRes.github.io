@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform 多窗口切换不闪烁源码"
+title: "C Winform 多窗口切换不闪烁源码"
 date:   2023-08-02
 tags: [窗口,切换,多窗口,例程,源码]
 comments: true

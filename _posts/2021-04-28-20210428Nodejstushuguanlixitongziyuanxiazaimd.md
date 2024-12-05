@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js图书管理系统资源下载"
+title: "Nodejs图书管理系统资源下载"
 date:   2023-08-04
 tags: [Node,js,管理系统,图书,下载]
 comments: true

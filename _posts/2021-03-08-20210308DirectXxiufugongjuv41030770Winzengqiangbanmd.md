@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DirectX修复工具 v4.1.0.30770 Win 增强版"
+title: "DirectX修复工具 v41030770 Win 增强版"
 date:   2024-07-02
 tags: [DirectX,修复,检测,v4.1,0.30770]
 comments: true

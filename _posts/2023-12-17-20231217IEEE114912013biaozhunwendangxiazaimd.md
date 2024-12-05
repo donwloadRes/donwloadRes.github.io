@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1149.1-2013 标准文档下载"
+title: "IEEE 114912013 标准文档下载"
 date:   2022-12-09
 tags: [文档,IEEE,1149.1,2013,扫描]
 comments: true

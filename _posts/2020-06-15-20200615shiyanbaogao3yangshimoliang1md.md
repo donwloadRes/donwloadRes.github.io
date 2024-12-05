@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验报告3：杨氏模量1"
+title: "实验报告3杨氏模量1"
 date:   2024-03-28
 tags: [杨氏模量,实验,光杠杆,实验报告,实验仪]
 comments: true

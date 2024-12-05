@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multisim 14.2 激活工具"
+title: "Multisim 142 激活工具"
 date:   2020-03-14
 tags: [14.2,Multisim,1.2,激活,NI]
 comments: true

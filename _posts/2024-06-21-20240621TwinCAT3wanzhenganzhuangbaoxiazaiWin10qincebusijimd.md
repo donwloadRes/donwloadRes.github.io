@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TwinCAT 3 完整安装包下载（Win10 亲测不死机）"
+title: "TwinCAT 3 完整安装包下载Win10 亲测不死机"
 date:   2021-01-07
 tags: [安装包,TwinCAT,安装,死机,下载]
 comments: true

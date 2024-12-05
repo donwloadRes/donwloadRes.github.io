@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XC7Z045FF900核心板原理图（Cadence 16.6版本）"
+title: "XC7Z045FF900核心板原理图Cadence 166版本"
 date:   2021-07-12
 tags: [原理图,XC7Z045FF900,Cadence,16.6,核心]
 comments: true

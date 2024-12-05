@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DP1.4标准——VESA Proposed DisplayPort (DP) 标准"
+title: "DP14标准VESA Proposed DisplayPort DP 标准"
 date:   2024-04-08
 tags: [DisplayPort,DP1.4,标准,测试,文档]
 comments: true

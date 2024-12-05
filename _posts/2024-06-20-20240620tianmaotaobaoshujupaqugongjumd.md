@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天猫（淘宝）数据爬取工具"
+title: "天猫淘宝数据爬取工具"
 date:   2022-01-15
 tags: [爬取,数据,源码,天猫,自动]
 comments: true

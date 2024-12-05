@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CommBox通讯调试工具V1.261"
+title: "CommBox通讯调试工具V1261"
 date:   2023-04-18
 tags: [通讯,调试,工具,串口,以太网]
 comments: true

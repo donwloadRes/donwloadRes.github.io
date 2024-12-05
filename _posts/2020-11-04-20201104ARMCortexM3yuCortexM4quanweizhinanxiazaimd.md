@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARM Cortex-M3与Cortex-M4权威指南下载"
+title: "ARM CortexM3与CortexM4权威指南下载"
 date:   2020-06-11
 tags: [Cortex,ARM,M3,M4,处理器]
 comments: true

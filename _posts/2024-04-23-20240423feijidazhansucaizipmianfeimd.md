@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞机大战素材.zip（免费）"
+title: "飞机大战素材zip免费"
 date:   2024-06-09
 tags: [素材,游戏,飞机,大战,zip]
 comments: true

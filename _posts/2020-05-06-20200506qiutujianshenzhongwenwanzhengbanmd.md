@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "囚徒健身（中文完整版）"
+title: "囚徒健身中文完整版"
 date:   2021-04-12
 tags: [健身,训练,囚徒,动作,完整版]
 comments: true

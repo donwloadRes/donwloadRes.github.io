@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis可视化工具RedisDesktopManager下载、安装、使用简介"
+title: "Redis可视化工具RedisDesktopManager下载安装使用简介"
 date:   2021-05-23
 tags: [RedisDesktopManager,Redis,安装包,安装,数据库]
 comments: true

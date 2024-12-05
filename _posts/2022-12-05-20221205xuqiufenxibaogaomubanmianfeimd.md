@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "需求分析报告模板（免费）"
+title: "需求分析报告模板免费"
 date:   2021-12-09
 tags: [模板,需求,项目,分析,报告]
 comments: true

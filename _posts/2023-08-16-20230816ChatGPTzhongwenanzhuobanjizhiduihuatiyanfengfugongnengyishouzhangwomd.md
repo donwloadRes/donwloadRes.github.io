@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chat-GPT中文安卓版：极致对话体验，丰富功能一手掌握！"
+title: "ChatGPT中文安卓版极致对话体验丰富功能一手掌握"
 date:   2020-02-25
 tags: [Chat,GPT,安卓版,中文,对话]
 comments: true

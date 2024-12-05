@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用USB通讯库libusbdotnet"
+title: "C使用USB通讯库libusbdotnet"
 date:   2022-05-04
 tags: [libusbdotnet,USB,C#,示例,通讯]
 comments: true

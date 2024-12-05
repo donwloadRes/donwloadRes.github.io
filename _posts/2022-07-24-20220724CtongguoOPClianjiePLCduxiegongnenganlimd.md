@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#通过OPC连接PLC读写功能案例"
+title: "C通过OPC连接PLC读写功能案例"
 date:   2022-07-18
 tags: [PLC,程序,信号,OPC,dll]
 comments: true

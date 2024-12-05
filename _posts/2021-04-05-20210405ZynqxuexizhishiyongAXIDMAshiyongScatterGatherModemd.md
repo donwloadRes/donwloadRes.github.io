@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zynq学习之使用AXI_DMA（使用Scatter_Gather Mode）"
+title: "Zynq学习之使用AXIDMA使用ScatterGather Mode"
 date:   2021-04-02
 tags: [DMA,AXI,Zynq,Scatter,Gather]
 comments: true

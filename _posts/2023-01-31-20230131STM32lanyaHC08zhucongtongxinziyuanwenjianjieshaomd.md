@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32蓝牙HC-08主从通信资源文件介绍"
+title: "STM32蓝牙HC08主从通信资源文件介绍"
 date:   2021-05-12
 tags: [模块,HC,08,主从,蓝牙]
 comments: true

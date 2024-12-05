@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于JavaWeb的鲜花订购与管理系统"
+title: "毕业设计基于JavaWeb的鲜花订购与管理系统"
 date:   2022-01-18
 tags: [鲜花,your,项目,github,JavaWeb]
 comments: true

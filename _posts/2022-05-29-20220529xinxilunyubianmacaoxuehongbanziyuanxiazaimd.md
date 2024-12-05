@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息论与编码(曹雪红版) 资源下载"
+title: "信息论与编码曹雪红版 资源下载"
 date:   2020-12-23
 tags: [信息论,编码,曹雪红版,教材,资源]
 comments: true

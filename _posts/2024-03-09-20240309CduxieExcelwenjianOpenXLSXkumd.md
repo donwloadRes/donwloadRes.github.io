@@ -1,6 +1,59 @@
 ---
 layout: post
-title: "C++读写Excel文件 - OpenXLSX库"
+title: "C读写Excel文件  OpenXLSX库
+date   20220429
+tags ExcelOpenXLSX文件xlsx示例
+comments true
+author admin
+
+ C读写Excel文件  OpenXLSX库
+
+ 简介
+
+OpenXLSX是一套开源的C库专门用于读取写入创建和修改Excel文件格式xlsx本仓库提供了OpenXLSX的源代码以及相关的示例程序帮助开发者快速上手并集成到自己的项目中
+
+ 功能特点
+
+ 读取Excel文件支持读取xlsx格式的Excel文件并提取其中的数据
+ 写入Excel文件可以将数据写入到xlsx格式的Excel文件中支持创建新的文件或修改现有文件
+ 创建Excel文件可以创建新的xlsx格式的Excel文件并设置初始内容
+ 修改Excel文件支持对现有xlsx格式的Excel文件进行修改包括添加删除和更新单元格数据
+
+ 使用方法
+
+1 下载源码
+    克隆本仓库到本地
+     bash
+     git clone httpsgithubcomyourrepourlgit
+     
+
+2 编译与运行
+    进入项目目录
+     bash
+     cd OpenXLSX
+     
+    根据项目提供的编译脚本或使用CMake进行编译
+     bash
+     mkdir build
+     cd build
+     cmake 
+     make
+     
+    运行示例程序
+     bash
+     examplesexampleprogram
+     
+
+3 集成到项目
+    将OpenXLSX的源码文件添加到你的项目中并根据需要进行编译和链接
+    参考示例程序了解如何使用OpenXLSX库进行Excel文件的读写操作
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用OpenXLSX库创建一个新的Excel文件并写入数据
+
+cpp
+include OpenXLSXhpp"
 date:   2022-04-29
 tags: [Excel,OpenXLSX,文件,xlsx,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "探索CATIA：领先的工程设计软件"
+title: "探索CATIA领先的工程设计软件"
 date:   2024-04-27
 tags: [CATIA,工程设计,安装,软件,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMU 15445 2023春季学期项目0：Cow Trie入门实践"
+title: "CMU 15445 2023春季学期项目0Cow Trie入门实践"
 date:   2020-03-30
 tags: [Trie,数据结构,Cow,项目,CMU]
 comments: true

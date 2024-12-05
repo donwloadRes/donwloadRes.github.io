@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统架构设计师教程（第2版）-希赛版"
+title: "系统架构设计师教程第2版希赛版"
 date:   2024-01-02
 tags: [架构,设计师,希赛,教程,系统]
 comments: true

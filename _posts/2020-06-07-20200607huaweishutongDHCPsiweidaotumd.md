@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为数通+DHCP+思维导图"
+title: "华为数通DHCP思维导图"
 date:   2020-01-08
 tags: [DHCP,导图,数通,华为,思维]
 comments: true

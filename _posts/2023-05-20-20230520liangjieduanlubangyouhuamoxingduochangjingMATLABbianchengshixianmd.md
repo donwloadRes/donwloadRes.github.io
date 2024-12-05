@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两阶段鲁棒优化模型：多场景MATLAB编程实现"
+title: "两阶段鲁棒优化模型多场景MATLAB编程实现"
 date:   2024-06-04
 tags: [模型,场景,程序,鲁棒,MATLAB]
 comments: true

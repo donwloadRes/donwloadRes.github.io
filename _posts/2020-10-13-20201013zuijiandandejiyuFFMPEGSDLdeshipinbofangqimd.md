@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFMPEG+SDL的视频播放器"
+title: "最简单的基于FFMPEGSDL的视频播放器"
 date:   2021-05-30
 tags: [FFMPEG,视频,SDL,播放器,示例]
 comments: true

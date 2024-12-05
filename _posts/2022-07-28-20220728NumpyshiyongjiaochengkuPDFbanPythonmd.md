@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Numpy使用教程库PDF版（Python）"
+title: "Numpy使用教程库PDF版Python"
 date:   2023-05-01
 tags: [Numpy,教程,Python,PDF,示例]
 comments: true

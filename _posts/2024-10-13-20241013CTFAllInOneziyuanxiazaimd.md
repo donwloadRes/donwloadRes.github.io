@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF-All-In-One 资源下载"
+title: "CTFAllInOne 资源下载"
 date:   2024-11-20
 tags: [CTF,下载,PDF,竞赛,入门]
 comments: true

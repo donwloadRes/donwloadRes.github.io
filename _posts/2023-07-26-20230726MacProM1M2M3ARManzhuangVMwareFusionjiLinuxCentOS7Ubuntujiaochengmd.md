@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mac Pro M1-M2-M3(ARM) 安装 VMware Fusion 及 Linux (CentOS 7-Ubuntu) 教程"
+title: "Mac Pro M1M2M3ARM 安装 VMware Fusion 及 Linux CentOS 7Ubuntu 教程"
 date:   2022-09-28
 tags: [VMware,Fusion,Ubuntu,安装,CentOS]
 comments: true

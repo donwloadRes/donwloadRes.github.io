@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fragstats 4.2 资源文件下载"
+title: "Fragstats 42 资源文件下载"
 date:   2021-11-13
 tags: [Fragstats,4.2,文件,解压,景观]
 comments: true

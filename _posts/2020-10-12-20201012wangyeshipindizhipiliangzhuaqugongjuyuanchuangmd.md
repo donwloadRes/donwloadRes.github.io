@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网页视频地址批量抓取工具（原创）"
+title: "网页视频地址批量抓取工具原创"
 date:   2023-05-01
 tags: [抓取,视频,地址,网页,工具]
 comments: true

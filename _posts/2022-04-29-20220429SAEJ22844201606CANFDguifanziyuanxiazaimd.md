@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2284-4-201606 CANFD规范资源下载"
+title: "SAE J22844201606 CANFD规范资源下载"
 date:   2024-09-28
 tags: [SAE,J2284,文件,ECU,PDF]
 comments: true

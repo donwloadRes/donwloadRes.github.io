@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#程序设计经典教程第三版（含例题和实验）"
+title: "C程序设计经典教程第三版含例题和实验"
 date:   2023-06-01
 tags: [C#,例题,编程,程序设计,学习]
 comments: true

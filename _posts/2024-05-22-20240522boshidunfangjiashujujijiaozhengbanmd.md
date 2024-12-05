@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "波士顿房价数据集（校正版）"
+title: "波士顿房价数据集校正版"
 date:   2024-10-01
 tags: [数据,波士顿,房价,校正,csv]
 comments: true

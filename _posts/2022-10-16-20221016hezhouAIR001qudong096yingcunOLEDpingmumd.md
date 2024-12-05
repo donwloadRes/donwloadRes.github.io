@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "合宙AIR001驱动0.96英寸OLED屏幕"
+title: "合宙AIR001驱动096英寸OLED屏幕"
 date:   2023-08-23
 tags: [OLED,AIR001,0.96,合宙,英寸]
 comments: true

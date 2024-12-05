@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 图表缩放功能实现"
+title: "C 图表缩放功能实现"
 date:   2021-04-28
 tags: [缩放,图表,代码,C#,MSChart]
 comments: true

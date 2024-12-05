@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi + JS + EdgeBrowser 获取网页源码示例"
+title: "Delphi  JS  EdgeBrowser 获取网页源码示例"
 date:   2023-05-09
 tags: [源码,网页,EdgeBrowser,Delphi,获取]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电源检测模块MAX4080-MAX4081说明书下载"
+title: "电源检测模块MAX4080MAX4081说明书下载"
 date:   2021-08-24
 tags: [MAX4080,MAX4081,模块,说明书,下载]
 comments: true

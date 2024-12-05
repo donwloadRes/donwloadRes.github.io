@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用NPOI进行Excel导入导出教程"
+title: "C使用NPOI进行Excel导入导出教程"
 date:   2021-04-16
 tags: [NPOI,Excel,导入,开发者,导出]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerBuilder 9.0 UTF-8 编码转换为 Unicode 编码格式工具"
+title: "PowerBuilder 90 UTF8 编码转换为 Unicode 编码格式工具"
 date:   2020-09-27
 tags: [编码,PowerBuilder,9.0,UTF,Unicode]
 comments: true

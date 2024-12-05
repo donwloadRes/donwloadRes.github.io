@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7nm、10nm、14nm 半导体制程对比：TSMC vs Intel"
+title: "7nm10nm14nm 半导体制程对比TSMC vs Intel"
 date:   2024-06-29
 tags: [制程,TSMC,Intel,对比,7nm]
 comments: true

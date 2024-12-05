@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "±5V可调直流稳压电源电路"
+title: "5V可调直流稳压电源电路"
 date:   2023-09-22
 tags: [电路,直流,设计,5V,可调]
 comments: true

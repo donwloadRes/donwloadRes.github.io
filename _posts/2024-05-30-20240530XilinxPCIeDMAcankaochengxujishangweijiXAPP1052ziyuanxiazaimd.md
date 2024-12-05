@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx PCIe DMA 参考程序及上位机 (XAPP1052) 资源下载"
+title: "Xilinx PCIe DMA 参考程序及上位机 XAPP1052 资源下载"
 date:   2024-08-15
 tags: [Xilinx,PCIe,DMA,程序,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测井数据集 - 地下储层岩性识别"
+title: "测井数据集  地下储层岩性识别"
 date:   2021-12-18
 tags: [数据,测井,岩性,储层,地下]
 comments: true

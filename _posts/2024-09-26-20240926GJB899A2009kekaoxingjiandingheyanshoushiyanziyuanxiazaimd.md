@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 899A-2009 可靠性鉴定和验收试验资源下载"
+title: "GJB 899A2009 可靠性鉴定和验收试验资源下载"
 date:   2024-03-25
 tags: [可靠性,2009,工程师,验收,鉴定]
 comments: true

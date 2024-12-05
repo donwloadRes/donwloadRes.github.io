@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeMX FSMC 配置工程：LCD驱动与GUI框架代码"
+title: "STM32CubeMX FSMC 配置工程LCD驱动与GUI框架代码"
 date:   2021-01-16
 tags: [LCD,FSMC,GUI,驱动,代码]
 comments: true

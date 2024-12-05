@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机中 bit、sbit、sfr、sfr_16 的区别分析"
+title: "单片机中 bitsbitsfrsfr16 的区别分析"
 date:   2021-02-25
 tags: [单片机,寄存器,数据类型,sfr,硬件]
 comments: true

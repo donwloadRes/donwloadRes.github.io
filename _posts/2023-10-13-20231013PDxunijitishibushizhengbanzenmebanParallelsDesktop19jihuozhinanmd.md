@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PD虚拟机提示不是正版怎么办？Parallels Desktop 19激活指南"
+title: "PD虚拟机提示不是正版怎么办Parallels Desktop 19激活指南"
 date:   2021-09-30
 tags: [激活,Parallels,虚拟机,Desktop,激活码]
 comments: true

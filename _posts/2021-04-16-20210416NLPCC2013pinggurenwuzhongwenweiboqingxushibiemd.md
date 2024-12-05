@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NLPCC2013评估任务：中文微博情绪识别"
+title: "NLPCC2013评估任务中文微博情绪识别"
 date:   2020-07-09
 tags: [语料,微博,细粒度,情绪,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Legion Y7000P-Y7000 2021(82JK) 原厂OEM系统镜像下载"
+title: "Legion Y7000PY7000 202182JK 原厂OEM系统镜像下载"
 date:   2022-12-06
 tags: [镜像,系统,原厂,U盘,下载]
 comments: true

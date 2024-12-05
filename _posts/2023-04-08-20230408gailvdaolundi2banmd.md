@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "概率导论（第2版）"
+title: "概率导论第2版"
 date:   2020-06-26
 tags: [概率论,概率,导论,随机变量,例题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "清华大学：人工智能之知识图谱.pdf"
+title: "清华大学人工智能之知识图谱pdf"
 date:   2021-11-14
 tags: [图谱,知识,人工智能,文档,pdf]
 comments: true

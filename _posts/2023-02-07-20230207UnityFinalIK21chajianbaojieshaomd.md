@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Final IK 2.1 插件包介绍"
+title: "Unity Final IK 21 插件包介绍"
 date:   2023-01-26
 tags: [动画,IK,插件,Unity,插件包]
 comments: true

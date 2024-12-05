@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VUE系列——Chrome安装Vue调试插件"
+title: "VUE系列Chrome安装Vue调试插件"
 date:   2022-06-05
 tags: [Vue,Chrome,开发者,插件,调试]
 comments: true

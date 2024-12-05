@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时序图画图工具 TimeGen 3.2 安装包"
+title: "时序图画图工具 TimeGen 32 安装包"
 date:   2024-07-06
 tags: [TimeGen,3.2,安装包,教程,时序]
 comments: true

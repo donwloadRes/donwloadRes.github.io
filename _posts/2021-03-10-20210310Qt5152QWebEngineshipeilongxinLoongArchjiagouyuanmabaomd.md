@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.15.2 QWebEngine 适配龙芯（LoongArch）架构源码包"
+title: "Qt 5152 QWebEngine 适配龙芯LoongArch架构源码包"
 date:   2022-04-20
 tags: [源码,5.15,LoongArch,适配,架构]
 comments: true

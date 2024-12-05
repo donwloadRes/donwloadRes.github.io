@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PlatEMO3.0 中文用户手册下载"
+title: "PlatEMO30 中文用户手册下载"
 date:   2021-08-17
 tags: [PlatEMO3.0,用户手册,中文,下载,文件大小]
 comments: true

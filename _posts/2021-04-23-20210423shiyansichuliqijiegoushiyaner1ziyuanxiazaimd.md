@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实验四：处理器结构实验二1 资源下载"
+title: "实验四处理器结构实验二1 资源下载"
 date:   2023-11-19
 tags: [实验,资源,下载,处理器,文件]
 comments: true

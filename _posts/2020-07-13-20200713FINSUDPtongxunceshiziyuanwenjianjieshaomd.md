@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FINS-UDP通讯测试资源文件介绍"
+title: "FINSUDP通讯测试资源文件介绍"
 date:   2020-05-10
 tags: [UDP,FINS,LABVIEW,通讯,测试]
 comments: true

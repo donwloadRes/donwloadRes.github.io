@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小丸工具箱安装包R236.zip"
+title: "小丸工具箱安装包R236zip"
 date:   2021-07-18
 tags: [工具箱,小丸,安装包,R236,软件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7-HC32F460(华大单片机)-定时器Timer0 - 杨奉武 - 博客园1"
+title: "7HC32F460华大单片机定时器Timer0  杨奉武  博客园1"
 date:   2022-11-03
 tags: [定时器,HC32F460,单片机,华大,Timer0]
 comments: true

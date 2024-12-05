@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web大作业——前端、后端、数据库交互"
+title: "Web大作业前端后端数据库交互"
 date:   2021-06-20
 tags: [数据库,Web,前端,Node,js]
 comments: true

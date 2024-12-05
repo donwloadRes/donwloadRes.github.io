@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "HNUST 数字系统设计课设作业 - 复印机逻辑控制电路设计"
+title: "HNUST 数字系统设计课设作业  复印机逻辑控制电路设计
+date   20201001
+tags 复印机复印控制电路设计输入
+comments true
+author admin
+
+
+layout post
+title HNUST 数字系统设计课设作业  复印机逻辑控制电路设计"
 date:   2020-10-01
 tags: [复印机,复印,控制电路,设计,输入]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "HNUST 数字系统设计课设作业 - 复印机逻辑控制电路设计"
+title: "HNUST 数字系统设计课设作业  复印机逻辑控制电路设计
+date   20201001
+tags 复印机复印控制电路设计输入
+comments true
+author admin
+
+
+layout post
+title HNUST 数字系统设计课设作业  复印机逻辑控制电路设计"
 date:   2020-04-26
 tags: [复印,复印机,控制电路,设计,输入]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++图书管理系统"
+title: "CC图书管理系统"
 date:   2024-10-21
 tags: [图书,信息,借阅,C++,查询]
 comments: true

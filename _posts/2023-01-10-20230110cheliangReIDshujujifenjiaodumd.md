@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车辆Re-ID数据集（分角度）"
+title: "车辆ReID数据集分角度"
 date:   2020-11-09
 tags: [车辆,图像,数据,ID,生成]
 comments: true

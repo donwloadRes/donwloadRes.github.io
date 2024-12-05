@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果cmsV10采集插件&&一键配置定时任务采集"
+title: "苹果cmsV10采集插件一键配置定时任务采集"
 date:   2024-09-23
 tags: [插件,采集,播放器,定时,配置]
 comments: true

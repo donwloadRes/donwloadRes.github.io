@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两端MMC-HVDC模型搭建指南"
+title: "两端MMCHVDC模型搭建指南"
 date:   2021-12-16
 tags: [HVDC,MMC,PSCAD,仿真,两端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDI Jade 6.5安装教程-附安装包"
+title: "MDI Jade 65安装教程附安装包"
 date:   2023-09-15
 tags: [安装,MDI,Jade,PDF,软件]
 comments: true

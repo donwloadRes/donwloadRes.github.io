@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW图片处理工具：将PNG图片转为RGB分量数组"
+title: "LabVIEW图片处理工具将PNG图片转为RGB分量数组"
 date:   2022-09-24
 tags: [RGB,图像,图片,灰度,LabVIEW]
 comments: true

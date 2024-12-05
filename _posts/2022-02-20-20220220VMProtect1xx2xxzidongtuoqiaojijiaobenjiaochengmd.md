@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMProtect 1.xx - 2.xx 自动脱壳机（脚本）+ 教程"
+title: "VMProtect 1xx  2xx 自动脱壳机脚本 教程"
 date:   2021-10-15
 tags: [脱壳,xx,教程,脱壳机,VMProtect]
 comments: true

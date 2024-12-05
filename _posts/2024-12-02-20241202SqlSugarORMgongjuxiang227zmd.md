@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SqlSugar ORM工具箱2.2.7z"
+title: "SqlSugar ORM工具箱227z"
 date:   2021-10-20
 tags: [ORM,SqlSugar,7z,SQL,工具箱]
 comments: true

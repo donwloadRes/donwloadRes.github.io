@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络：自顶向下方法 第四章 网络层——数据（docx）"
+title: "计算机网络自顶向下方法 第四章 网络层数据docx"
 date:   2022-06-17
 tags: [网络层,计算机网络,docx,路由,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L-edit版图绘制基础"
+title: "Ledit版图绘制基础"
 date:   2022-11-30
 tags: [edit,版图,设计,绘制,图层]
 comments: true

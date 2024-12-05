@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS替换yum源：解决无法解析阿里云域名问题"
+title: "CentOS替换yum源解决无法解析阿里云域名问题"
 date:   2020-03-06
 tags: [yum,CentOS,Base,repo,错误]
 comments: true

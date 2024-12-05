@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "数据可视化分析全攻略：利用 Python 挖掘数据价值"
+title: "数据可视化分析全攻略利用 Python 挖掘数据价值
+date   20240329
+tags 可视化Python数据指南爬取
+comments true
+author admin
+
+
+layout post
+title 数据可视化分析全攻略利用 Python 挖掘数据价值"
 date:   2024-03-29
 tags: [可视化,Python,数据,指南,爬取]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "数据可视化分析全攻略：利用 Python 挖掘数据价值"
+title: "数据可视化分析全攻略利用 Python 挖掘数据价值
+date   20240329
+tags 可视化Python数据指南爬取
+comments true
+author admin
+
+
+layout post
+title 数据可视化分析全攻略利用 Python 挖掘数据价值"
 date:   2024-11-08
 tags: [可视化,指南,数据,Python,爬取]
 comments: true

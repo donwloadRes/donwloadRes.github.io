@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 入门、核心、提高讲义笔记"
+title: "C 入门核心提高讲义笔记"
 date:   2022-05-27
 tags: [C++,笔记,编程,入门,讲义]
 comments: true

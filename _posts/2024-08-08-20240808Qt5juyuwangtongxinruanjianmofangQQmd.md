@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5 局域网通信软件（模仿QQ）"
+title: "Qt5 局域网通信软件模仿QQ"
 date:   2022-07-30
 tags: [局域网,QQ,聊天,客户端,Qt5]
 comments: true

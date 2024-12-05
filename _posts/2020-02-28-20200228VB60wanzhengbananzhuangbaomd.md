@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0 完整版安装包"
+title: "VB60 完整版安装包"
 date:   2022-02-19
 tags: [VB6.0,安装包,完整版,仓库,下载]
 comments: true

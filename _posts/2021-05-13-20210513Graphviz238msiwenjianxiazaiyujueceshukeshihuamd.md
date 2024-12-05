@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graphviz2.38.msi文件下载与决策树可视化"
+title: "Graphviz238msi文件下载与决策树可视化"
 date:   2021-09-15
 tags: [Graphviz,决策树,可视化,Graphviz2.38,msi]
 comments: true

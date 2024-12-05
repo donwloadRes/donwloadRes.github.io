@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "某化工项目FICO顾问面试题（SAP方+甲方）"
+title: "某化工项目FICO顾问面试题SAP方甲方"
 date:   2024-01-09
 tags: [FICO,SAP,面试,文档,甲方]
 comments: true

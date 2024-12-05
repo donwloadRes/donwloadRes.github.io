@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MTGNN：基于图神经网络的多元时间序列预测框架"
+title: "MTGNN基于图神经网络的多元时间序列预测框架"
 date:   2020-12-22
 tags: [MTGNN,卷积,序列,时间,神经网络]
 comments: true

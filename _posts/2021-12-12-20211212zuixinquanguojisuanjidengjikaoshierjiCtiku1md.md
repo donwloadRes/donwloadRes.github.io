@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新全国计算机等级考试二级C++题库1"
+title: "最新全国计算机等级考试二级C题库1"
 date:   2022-07-27
 tags: [题库,考试,C++,doc,等级]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best-HTTP2-2.6.2-for-Unity3D-2021 介绍"
+title: "BestHTTP2262forUnity3D2021 介绍"
 date:   2020-11-09
 tags: [BestHTTP,Unity,游戏,插件,网络]
 comments: true

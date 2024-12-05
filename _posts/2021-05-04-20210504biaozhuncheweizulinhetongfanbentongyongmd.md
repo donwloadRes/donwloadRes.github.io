@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "标准车位租赁合同范本（通用）"
+title: "标准车位租赁合同范本通用"
 date:   2020-04-24
 tags: [车位,租赁,合同范本,标准,合同]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "正点原子新起点FPGA USB-Blaster驱动"
+title: "正点原子新起点FPGA USBBlaster驱动"
 date:   2021-11-29
 tags: [USB,安装,驱动,FPGA,Blaster]
 comments: true

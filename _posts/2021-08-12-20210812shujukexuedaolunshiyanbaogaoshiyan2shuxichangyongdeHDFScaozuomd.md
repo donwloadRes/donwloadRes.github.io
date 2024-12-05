@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据科学导论实验报告：实验2 - 熟悉常用的HDFS操作"
+title: "数据科学导论实验报告实验2  熟悉常用的HDFS操作"
 date:   2021-10-15
 tags: [HDFS,文件,org,apache,hadoop]
 comments: true

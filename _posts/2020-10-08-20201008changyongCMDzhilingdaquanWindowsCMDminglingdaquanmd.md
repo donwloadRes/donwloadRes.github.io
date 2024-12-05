@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用CMD指令大全+Windows CMD命令大全"
+title: "常用CMD指令大全Windows CMD命令大全"
 date:   2022-02-04
 tags: [CMD,Windows,大全,命令,文件]
 comments: true

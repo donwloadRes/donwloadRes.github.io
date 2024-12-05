@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red Hat Linux 9.0 系统下载指南"
+title: "Red Hat Linux 90 系统下载指南"
 date:   2021-11-22
 tags: [Red,Hat,Linux,版本,下载]
 comments: true

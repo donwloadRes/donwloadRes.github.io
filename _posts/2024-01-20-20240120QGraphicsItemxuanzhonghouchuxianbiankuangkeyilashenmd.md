@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QGraphicsItem选中后，出现边框，可以拉伸"
+title: "QGraphicsItem选中后出现边框可以拉伸"
 date:   2022-08-09
 tags: [QGraphicsItem,选中,拉伸,边框,Qt5]
 comments: true

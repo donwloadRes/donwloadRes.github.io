@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Houdini19】下载安装教程"
+title: "Houdini19下载安装教程"
 date:   2023-08-12
 tags: [安装,Houdini,破解,教程,19]
 comments: true

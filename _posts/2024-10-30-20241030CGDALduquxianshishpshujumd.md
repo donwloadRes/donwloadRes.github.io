@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ GDAL读取显示shp数据"
+title: "C GDAL读取显示shp数据"
 date:   2022-03-10
 tags: [shp,读取,GDAL,数据,C++]
 comments: true

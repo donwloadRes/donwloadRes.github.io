@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 使用 Tesseract 4.1 进行 OCR 开发资源包"
+title: "Delphi 使用 Tesseract 41 进行 OCR 开发资源包"
 date:   2020-10-29
 tags: [Delphi,OCR,Tesseract,4.1,字库]
 comments: true

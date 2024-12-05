@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装FinalShell高级版（绿色版）"
+title: "安装FinalShell高级版绿色版"
 date:   2023-03-10
 tags: [绿色版,FinalShell,安装,服务器,激活]
 comments: true

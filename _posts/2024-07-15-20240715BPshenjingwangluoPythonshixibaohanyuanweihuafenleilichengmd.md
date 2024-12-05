@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络_Python实习_包含鸢尾花分类例程"
+title: "BP神经网络Python实习包含鸢尾花分类例程"
 date:   2023-07-27
 tags: [例程,鸢尾花,神经网络,BP,Python]
 comments: true

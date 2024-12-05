@@ -1,6 +1,38 @@
 ---
 layout: post
-title: "WPF 自定义树形选择框与多选树形选择框"
+title: "WPF 自定义树形选择框与多选树形选择框
+date   20210325
+tags 自定义树形WPF控件多选
+comments true
+author admin
+
+ WPF 自定义树形选择框与多选树形选择框
+
+ 资源介绍
+
+本仓库提供了一个自定义的WPF树形选择框TreeSelect和多选树形选择框MultiTreeSelect的资源文件该资源文件基于WPF的Combox和TreeView控件实现支持多选功能并且允许用户自定义样式
+
+ 功能特点
+
+ 树形选择框提供了一个自定义的树形选择框用户可以通过树形结构选择单个项目
+ 多选树形选择框支持多选功能用户可以同时选择树形结构中的多个项目
+ 自定义样式允许用户根据需求自定义控件的外观和样式以适应不同的UI设计需求
+
+ 使用说明
+
+1 下载资源文件从本仓库下载资源文件并将其添加到你的WPF项目中
+2 引用命名空间在你的XAML文件中引用相关的命名空间
+3 使用控件在XAML中使用自定义的TreeSelect或MultiTreeSelect控件并根据需要进行样式自定义
+
+ 示例代码
+
+以下是一个简单的示例展示如何在XAML中使用自定义的TreeSelect控件
+
+xml
+Window xClassYourNamespaceMainWindow
+        xmlnshttpschemasmicrosoftcomwinfx2006xamlpresentation
+        xmlnsxhttpschemasmicrosoftcomwinfx2006xaml
+        xmlnslocalclrnamespaceYourNamespace"
 date:   2021-03-25
 tags: [自定义,树形,WPF,控件,多选]
 comments: true

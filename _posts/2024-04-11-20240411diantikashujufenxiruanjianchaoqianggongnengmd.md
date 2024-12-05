@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电梯卡数据分析软件-超强功能"
+title: "电梯卡数据分析软件超强功能"
 date:   2021-07-17
 tags: [智能卡,电梯,软件,延期,复制]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自然语言处理nltk与nltk_data下载指南"
+title: "自然语言处理nltk与nltkdata下载指南"
 date:   2024-02-09
 tags: [nltk,数据包,NLTK,下载,data]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构与算法C语言描述_原书第2版_高清版"
+title: "数据结构与算法C语言描述原书第2版高清版"
 date:   2020-07-24
 tags: [数据结构,算法,C语言,高清,原书]
 comments: true

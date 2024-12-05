@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tkinter可视化设计工具 - 目前最好用"
+title: "Tkinter可视化设计工具  目前最好用"
 date:   2024-09-13
 tags: [Python,控件,界面,VB6,VB]
 comments: true

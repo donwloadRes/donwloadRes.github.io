@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt之QDoubleSlider：继承QSlider的双向滑块"
+title: "Qt之QDoubleSlider继承QSlider的双向滑块"
 date:   2022-10-11
 tags: [滑块,QxtSpanSlider,Qt,控件,QDoubleSlider]
 comments: true

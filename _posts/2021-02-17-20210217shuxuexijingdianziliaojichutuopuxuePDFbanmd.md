@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学系经典资料：基础拓扑学》PDF版"
+title: "数学系经典资料基础拓扑学PDF版"
 date:   2021-07-02
 tags: [拓扑学,PDF,学习,数学系,数学]
 comments: true

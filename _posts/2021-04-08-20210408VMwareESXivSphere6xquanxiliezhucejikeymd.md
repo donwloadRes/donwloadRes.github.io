@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware ESXi vSphere 6.x 全系列注册机 key"
+title: "VMware ESXi vSphere 6x 全系列注册机 key"
 date:   2020-02-13
 tags: [VMware,ESXi,注册机,密钥,vSphere]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266模块串口调试工具-V3.0"
+title: "ESP8266模块串口调试工具V30"
 date:   2021-07-09
 tags: [ESP8266,串口,模块,调试,工具]
 comments: true

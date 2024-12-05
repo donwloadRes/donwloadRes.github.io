@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LVDS参考设计（Xilinx）资源下载"
+title: "LVDS参考设计Xilinx资源下载"
 date:   2022-06-10
 tags: [LVDS,Xilinx,设计,参考,资源]
 comments: true

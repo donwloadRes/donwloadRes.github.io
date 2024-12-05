@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog HDL高级数字设计（第2版）资源文件"
+title: "Verilog HDL高级数字设计第2版资源文件"
 date:   2024-10-21
 tags: [Verilog,HDL,文件,示例,设计]
 comments: true

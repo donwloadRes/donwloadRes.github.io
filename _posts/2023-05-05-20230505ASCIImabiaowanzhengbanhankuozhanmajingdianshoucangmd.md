@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASCII码表完整版（含扩展码）精典收藏"
+title: "ASCII码表完整版含扩展码精典收藏"
 date:   2020-09-19
 tags: [ASCII,码表,完整版,查询,文件]
 comments: true

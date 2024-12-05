@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "易语言-代理指定程序，让指定程序走socks5，纯易语言"
+title: "易语言代理指定程序让指定程序走socks5纯易语言"
 date:   2023-09-06
 tags: [源码,Hook,易语言,socks5,函数]
 comments: true

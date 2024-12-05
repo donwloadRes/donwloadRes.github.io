@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用USB 3.0控制器芯片CYUSB3014实现FPGA与上位机之间的高带宽数据传输系统"
+title: "利用USB 30控制器芯片CYUSB3014实现FPGA与上位机之间的高带宽数据传输系统"
 date:   2020-10-12
 tags: [CYUSB3014,FPGA,数据传输,USB,上位]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Triton 2.0.0 Windows 版本 WHL 文件"
+title: "Triton 200 Windows 版本 WHL 文件"
 date:   2021-08-25
 tags: [Triton,Windows,cp310,2.0,Python]
 comments: true

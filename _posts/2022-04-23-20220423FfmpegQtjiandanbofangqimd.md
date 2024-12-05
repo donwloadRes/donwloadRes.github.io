@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ffmpeg+Qt 简单播放器"
+title: "FfmpegQt 简单播放器"
 date:   2023-08-12
 tags: [Qt,Ffmpeg,Creator,播放器,项目]
 comments: true

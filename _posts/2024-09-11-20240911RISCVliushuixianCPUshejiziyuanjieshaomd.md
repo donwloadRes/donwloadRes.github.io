@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V流水线CPU设计资源介绍"
+title: "RISCV流水线CPU设计资源介绍"
 date:   2023-10-10
 tags: [CPU,流水线,RISC,设计,资源]
 comments: true

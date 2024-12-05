@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "物理学中的数学方法 (美)F.W.拜伦,R.W.富勒 中文版"
+title: "物理学中的数学方法 美FW拜伦RW富勒 中文版"
 date:   2024-08-25
 tags: [数学方法,拜伦,资源,物理学,富勒]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS-6.6-x86_64-minimal.iso 镜像下载"
+title: "CentOS66x8664minimaliso 镜像下载"
 date:   2022-09-26
 tags: [CentOS,minimal,6.6,镜像,下载]
 comments: true

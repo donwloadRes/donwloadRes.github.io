@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AN1299 调整指南：PMSM无传感器FOC的单分流三相电流重构算法"
+title: "AN1299 调整指南PMSM无传感器FOC的单分流三相电流重构算法"
 date:   2023-06-19
 tags: [算法,AN1299,相电流,指南,重构]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "圈圈教你玩USB（第二版）资源下载"
+title: "圈圈教你玩USB第二版资源下载"
 date:   2024-08-23
 tags: [USB,资源,下载,圈圈,文件]
 comments: true

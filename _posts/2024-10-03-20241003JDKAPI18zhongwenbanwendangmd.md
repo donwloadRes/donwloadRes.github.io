@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK API 1.8 中文版文档"
+title: "JDK API 18 中文版文档"
 date:   2020-10-02
 tags: [文档,API,JDK,1.8,Java]
 comments: true

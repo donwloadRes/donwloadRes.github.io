@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WINCC V7.5 SP1 最新下载资源文件"
+title: "WINCC V75 SP1 最新下载资源文件"
 date:   2021-02-09
 tags: [SP1,V7.5,WINCC,下载,文件]
 comments: true

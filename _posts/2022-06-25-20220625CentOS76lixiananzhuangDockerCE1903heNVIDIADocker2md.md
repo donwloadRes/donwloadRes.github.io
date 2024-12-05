@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CentOS 7.6 离线安装 Docker CE 19.03 和 NVIDIA Docker 2"
+title: "CentOS 76 离线安装 Docker CE 1903 和 NVIDIA Docker 2"
 date:   2020-07-04
 tags: [Docker,docker,bash,安装,CE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 下安装 MATLAB 2019b 资源文件介绍"
+title: "Ubuntu 2004 下安装 MATLAB 2019b 资源文件介绍"
 date:   2023-05-20
 tags: [MATLAB,安装,2019b,文件,Ubuntu]
 comments: true

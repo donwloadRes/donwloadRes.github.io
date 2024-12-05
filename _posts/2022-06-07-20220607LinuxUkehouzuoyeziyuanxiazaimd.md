@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux U+ 课后作业资源下载"
+title: "Linux U 课后作业资源下载"
 date:   2021-07-03
 tags: [Linux,资源库,复习,课后,期末考试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware安装Android-x86_64-9.0-r2系统兼容arm设置"
+title: "VMware安装Androidx866490r2系统兼容arm设置"
 date:   2022-06-20
 tags: [Android,x86,虚拟机,ARM,安装]
 comments: true

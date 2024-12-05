@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wox + Everything = 效率神器 (附离线下载)"
+title: "Wox  Everything  效率神器 附离线下载"
 date:   2023-02-21
 tags: [Wox,Everything,安装,效率,下载]
 comments: true

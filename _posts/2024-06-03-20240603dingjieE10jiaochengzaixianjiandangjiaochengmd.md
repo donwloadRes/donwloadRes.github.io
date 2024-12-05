@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷E10教程-在线建档教程"
+title: "鼎捷E10教程在线建档教程"
 date:   2023-08-11
 tags: [建档,教程,E10,在线,鼎捷]
 comments: true

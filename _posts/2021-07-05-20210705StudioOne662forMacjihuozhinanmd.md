@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Studio One 6.6.2 for Mac 激活指南"
+title: "Studio One 662 for Mac 激活指南"
 date:   2022-07-23
 tags: [激活,Studio,6.6,激活码,Mac]
 comments: true

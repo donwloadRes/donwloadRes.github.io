@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YepEda Allegro Skill学习版 README.md"
+title: "YepEda Allegro Skill学习版 READMEmd"
 date:   2022-12-10
 tags: [Allegro,Skill,YepEda,学习,PCB]
 comments: true

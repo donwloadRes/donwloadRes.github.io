@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大模型综述（中文版）- 研究细节非常详细"
+title: "大模型综述中文版 研究细节非常详细"
 date:   2023-09-22
 tags: [模型,文件,综述,资源,中文版]
 comments: true

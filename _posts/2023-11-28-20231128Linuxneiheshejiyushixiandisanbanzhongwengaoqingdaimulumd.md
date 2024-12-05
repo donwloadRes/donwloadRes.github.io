@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核设计与实现(第三版中文高清带目录)"
+title: "Linux内核设计与实现第三版中文高清带目录"
 date:   2024-07-29
 tags: [Linux,内核,第三版,高清,设计]
 comments: true

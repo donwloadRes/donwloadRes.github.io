@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信同步技术的MATLAB与FPGA实现 - PPT版"
+title: "数字通信同步技术的MATLAB与FPGA实现  PPT版"
 date:   2023-06-27
 tags: [FPGA,VHDL,实现,模块,同步]
 comments: true

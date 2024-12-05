@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G通信技术书籍分享（持续更新）"
+title: "5G通信技术书籍分享持续更新"
 date:   2021-08-04
 tags: [5G,书籍,通信,技术,仓库]
 comments: true

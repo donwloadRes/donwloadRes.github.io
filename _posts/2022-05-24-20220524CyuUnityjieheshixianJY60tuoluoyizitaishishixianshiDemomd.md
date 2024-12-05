@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#与Unity结合实现JY60陀螺仪姿态实时显示Demo"
+title: "C与Unity结合实现JY60陀螺仪姿态实时显示Demo"
 date:   2024-11-01
 tags: [Unity,C#,陀螺仪,串口,JY60]
 comments: true

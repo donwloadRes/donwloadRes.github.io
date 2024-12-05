@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言课程设计大作业-学生管理系统"
+title: "C语言课程设计大作业学生管理系统"
 date:   2021-04-08
 tags: [学生,课程设计,C语言,文件,源代码]
 comments: true

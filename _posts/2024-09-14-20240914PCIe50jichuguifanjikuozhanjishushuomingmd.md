@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 5.0 基础规范及扩展技术说明"
+title: "PCIe 50 基础规范及扩展技术说明"
 date:   2021-02-18
 tags: [PCIe,5.0,技术,应用,资源]
 comments: true

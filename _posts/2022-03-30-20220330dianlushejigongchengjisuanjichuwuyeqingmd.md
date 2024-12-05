@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电路设计工程计算基础 - 武晔卿"
+title: "电路设计工程计算基础  武晔卿"
 date:   2021-09-04
 tags: [电路设计,计算,武晔卿,工程,参数]
 comments: true

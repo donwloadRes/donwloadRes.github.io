@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CCS12.6安装步骤指南"
+title: "CCS126安装步骤指南"
 date:   2020-10-18
 tags: [CCS12.6,安装,步骤,文件,指南]
 comments: true

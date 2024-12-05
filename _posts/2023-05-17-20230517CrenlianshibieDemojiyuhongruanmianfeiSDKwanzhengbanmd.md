@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 人脸识别Demo（基于虹软免费SDK）完整版"
+title: "C 人脸识别Demo基于虹软免费SDK完整版"
 date:   2022-04-28
 tags: [Demo,人脸,虹软,人脸识别,SDK]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微型食物分类数据集 - 李宏毅视频课程作业3"
+title: "微型食物分类数据集  李宏毅视频课程作业3"
 date:   2021-02-15
 tags: [数据,模型,学习,分类,食物]
 comments: true

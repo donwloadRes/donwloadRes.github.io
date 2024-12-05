@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CRMEB知识付费小程序全套完整最新源代码+建站指南"
+title: "CRMEB知识付费小程序全套完整最新源代码建站指南"
 date:   2023-12-29
 tags: [素材,专题,设置,首页,源代码]
 comments: true

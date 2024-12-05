@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FixPrintSpooler_V2.0 打印机修复工具"
+title: "FixPrintSpoolerV20 打印机修复工具"
 date:   2024-02-19
 tags: [打印,V2.0,修复,打印机,FixPrintSpooler]
 comments: true

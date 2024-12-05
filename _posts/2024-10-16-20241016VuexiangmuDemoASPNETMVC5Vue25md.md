@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue项目Demo（ASP.NET MVC5 + Vue 2.5）"
+title: "Vue项目DemoASPNET MVC5  Vue 25"
 date:   2022-02-07
 tags: [Vue,项目,数据库,ASP,NET]
 comments: true

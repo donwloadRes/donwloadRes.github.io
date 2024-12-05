@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot整合MyBatis-Plus"
+title: "SpringBoot整合MyBatisPlus"
 date:   2023-04-23
 tags: [MyBatis,Plus,代码生成,Spring,Boot]
 comments: true

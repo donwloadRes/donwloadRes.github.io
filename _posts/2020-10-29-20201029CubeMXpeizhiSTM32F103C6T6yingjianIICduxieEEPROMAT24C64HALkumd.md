@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CubeMX配置STM32F103C6T6硬件IIC读写EEPROM-AT24C64(HAL库)"
+title: "CubeMX配置STM32F103C6T6硬件IIC读写EEPROMAT24C64HAL库"
 date:   2024-02-14
 tags: [IIC,STM32F103C6T6,EEPROM,HAL,AT24C64]
 comments: true

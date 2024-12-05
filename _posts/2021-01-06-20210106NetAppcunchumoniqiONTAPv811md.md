@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NetApp 存储模拟器 ONTAP v8.1.1"
+title: "NetApp 存储模拟器 ONTAP v811"
 date:   2022-04-18
 tags: [NetApp,模拟器,ONTAP,v8.1,存储]
 comments: true

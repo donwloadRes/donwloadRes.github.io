@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPF动态菜单栏、工具栏及TabControl管理工具"
+title: "WPF动态菜单栏工具栏及TabControl管理工具"
 date:   2022-02-27
 tags: [WPF,菜单栏,工具栏,TabControl,动态]
 comments: true

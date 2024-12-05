@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7_MMC存储卡官方最新镜像软件"
+title: "西门子S7MMC存储卡官方最新镜像软件"
 date:   2020-02-28
 tags: [存储卡,MMC,软件,S7,西门子]
 comments: true

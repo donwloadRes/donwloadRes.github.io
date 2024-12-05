@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go语言最全面试题，拿offer拿到手软"
+title: "Go语言最全面试题拿offer拿到手软"
 date:   2023-06-02
 tags: [Go,语言,GO,offer,浮点数]
 comments: true

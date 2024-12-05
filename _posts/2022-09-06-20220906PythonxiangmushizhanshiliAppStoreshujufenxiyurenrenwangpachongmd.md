@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python项目实战实例：AppStore数据分析与人人网爬虫"
+title: "Python项目实战实例AppStore数据分析与人人网爬虫"
 date:   2021-07-15
 tags: [Python,抓取,数据分析,爬虫,AppStore]
 comments: true

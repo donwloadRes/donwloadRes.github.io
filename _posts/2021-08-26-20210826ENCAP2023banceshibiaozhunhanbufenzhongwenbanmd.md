@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E-NCAP 2023版测试标准（含部分中文版）"
+title: "ENCAP 2023版测试标准含部分中文版"
 date:   2023-07-07
 tags: [NCAP,测试,2023,标准,中文翻译]
 comments: true

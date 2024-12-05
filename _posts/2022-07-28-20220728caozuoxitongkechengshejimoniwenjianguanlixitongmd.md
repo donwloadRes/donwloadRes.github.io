@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "操作系统课程设计：模拟文件管理系统"
+title: "操作系统课程设计模拟文件管理系统"
 date:   2021-05-14
 tags: [文件,操作命令,管理系统,模拟,目录]
 comments: true

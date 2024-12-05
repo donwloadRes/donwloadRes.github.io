@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt播放PCM音频（裸流）文件"
+title: "Qt播放PCM音频裸流文件"
 date:   2022-09-16
 tags: [PCM,音频文件,Qt,播放,音频]
 comments: true

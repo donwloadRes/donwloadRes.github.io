@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NICC新型智算中心算力池化技术白皮书（2023 年）"
+title: "NICC新型智算中心算力池化技术白皮书2023 年"
 date:   2021-11-16
 tags: [算力,池化,白皮书,智算,智能]
 comments: true

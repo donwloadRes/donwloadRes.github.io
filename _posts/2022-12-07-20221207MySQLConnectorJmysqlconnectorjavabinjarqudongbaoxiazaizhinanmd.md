@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-J (mysql-connector-java-bin.jar) 驱动包下载指南"
+title: "MySQL ConnectorJ mysqlconnectorjavabinjar 驱动包下载指南"
 date:   2021-05-24
 tags: [MySQL,版本,下载,Java,数据库]
 comments: true

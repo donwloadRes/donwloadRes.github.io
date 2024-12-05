@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++编写的WOWLauncher登陆器源码"
+title: "C编写的WOWLauncher登陆器源码"
 date:   2022-06-22
 tags: [源码,登录器,编译,C++,确保]
 comments: true

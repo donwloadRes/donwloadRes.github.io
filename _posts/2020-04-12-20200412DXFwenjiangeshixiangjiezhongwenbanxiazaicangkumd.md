@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DXF文件格式详解（中文版）下载仓库"
+title: "DXF文件格式详解中文版下载仓库"
 date:   2021-09-21
 tags: [DXF,文件,文件格式,CHM,读写操作]
 comments: true

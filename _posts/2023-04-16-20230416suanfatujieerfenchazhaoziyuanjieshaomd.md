@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "算法图解——の——二分查找资源介绍"
+title: "算法图解二分查找资源介绍"
 date:   2020-08-17
 tags: [查找,二分,算法,PDF,Java]
 comments: true

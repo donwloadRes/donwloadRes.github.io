@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "各种最小二乘法汇总（算例及MATLAB程序）"
+title: "各种最小二乘法汇总算例及MATLAB程序"
 date:   2024-08-26
 tags: [最小,算法,二乘,附录,递推]
 comments: true

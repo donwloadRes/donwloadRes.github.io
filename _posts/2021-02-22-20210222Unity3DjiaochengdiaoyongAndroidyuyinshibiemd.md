@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity3D教程：调用Android语音识别"
+title: "Unity3D教程调用Android语音识别"
 date:   2023-12-22
 tags: [Android,Unity,语音,识别,教程]
 comments: true

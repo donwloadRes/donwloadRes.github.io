@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "捷联惯性导航技术(第2版) 国防工业出版社.pdf"
+title: "捷联惯性导航技术第2版 国防工业出版社pdf"
 date:   2021-05-23
 tags: [惯性导航,捷联,技术,融合,应用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多线程下载神器IDM，永久使用"
+title: "多线程下载神器IDM永久使用"
 date:   2020-11-30
 tags: [下载,IDM,多线程,下载速度,神器]
 comments: true

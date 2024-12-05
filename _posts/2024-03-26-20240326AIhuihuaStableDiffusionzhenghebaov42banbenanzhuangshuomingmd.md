@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI绘画Stable Diffusion整合包v4.2版本安装说明"
+title: "AI绘画Stable Diffusion整合包v42版本安装说明"
 date:   2024-05-30
 tags: [整合,启动器,v4.2,插件,AI]
 comments: true

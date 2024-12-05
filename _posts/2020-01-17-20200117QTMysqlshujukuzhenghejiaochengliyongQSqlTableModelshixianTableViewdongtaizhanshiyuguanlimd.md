@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT Mysql数据库整合教程：利用QSqlTableModel实现TableView动态展示与管理"
+title: "QT Mysql数据库整合教程利用QSqlTableModel实现TableView动态展示与管理"
 date:   2023-07-23
 tags: [数据库,TableView,QT,QSqlTableModel,Mysql]
 comments: true

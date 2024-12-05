@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用LabVIEW操作ACCESS、MySQL、SQL Server数据库实现按时间段查询数据"
+title: "使用LabVIEW操作ACCESSMySQLSQL Server数据库实现按时间段查询数据"
 date:   2020-06-20
 tags: [LabVIEW,数据库,查询,连接,SQL]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity-Arduino蓝牙插件使用指南"
+title: "UnityArduino蓝牙插件使用指南"
 date:   2023-12-05
 tags: [Unity,蓝牙,插件,Arduino,通信]
 comments: true

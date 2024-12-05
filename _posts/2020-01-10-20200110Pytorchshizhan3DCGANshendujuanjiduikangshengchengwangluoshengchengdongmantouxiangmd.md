@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytorch实战3：DCGAN深度卷积对抗生成网络生成动漫头像"
+title: "Pytorch实战3DCGAN深度卷积对抗生成网络生成动漫头像"
 date:   2021-06-01
 tags: [生成,头像,动漫,生成器,训练]
 comments: true

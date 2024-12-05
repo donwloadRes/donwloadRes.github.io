@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "切水果小游戏（HTML+CSS+JS）"
+title: "切水果小游戏HTMLCSSJS"
 date:   2023-06-11
 tags: [游戏,水果,鼠标,分数,小游戏]
 comments: true

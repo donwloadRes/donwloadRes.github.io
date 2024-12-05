@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nginx-1.19.6_nginx-http-flv-module（64位）"
+title: "nginx1196nginxhttpflvmodule64位"
 date:   2024-11-04
 tags: [nginx,http,flv,module,开源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue项目实战：音乐网站源码分享"
+title: "Vue项目实战音乐网站源码分享"
 date:   2022-10-01
 tags: [Vue,路由,项目,仓库,源码]
 comments: true

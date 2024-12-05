@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pandas读取xlsx数据（超详细）"
+title: "Pandas读取xlsx数据超详细"
 date:   2022-03-09
 tags: [Pandas,Excel,文件,读取,data]
 comments: true

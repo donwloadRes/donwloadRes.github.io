@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "松下PLC编程手册(中文版) 下载仓库"
+title: "松下PLC编程手册中文版 下载仓库"
 date:   2021-06-19
 tags: [PLC,编程,松下,手册,中文版]
 comments: true

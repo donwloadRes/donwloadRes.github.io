@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东南大学泛函分析教材（非常好，高质量）"
+title: "东南大学泛函分析教材非常好高质量"
 date:   2020-07-04
 tags: [教材,东南大学,泛函,PDF,分析]
 comments: true

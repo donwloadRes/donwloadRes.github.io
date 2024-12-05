@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DownloadManager下载QQ.apk示例"
+title: "DownloadManager下载QQapk示例"
 date:   2020-07-06
 tags: [下载,DownloadManager,示例,QQ,apk]
 comments: true

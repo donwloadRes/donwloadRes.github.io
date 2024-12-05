@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASPICE V3.1中文版资源下载"
+title: "ASPICE V31中文版资源下载"
 date:   2021-07-06
 tags: [ASPICE,V3.1,中文版,资源,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 黑色主题 - 护眼模式"
+title: "Source Insight 黑色主题  护眼模式"
 date:   2021-01-14
 tags: [Source,Insight,主题,文件,黑色]
 comments: true

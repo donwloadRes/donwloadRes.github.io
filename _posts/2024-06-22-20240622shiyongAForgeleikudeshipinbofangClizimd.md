@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用AForge类库的视频播放C#例子"
+title: "使用AForge类库的视频播放C例子"
 date:   2020-02-04
 tags: [AForge,NET,视频,C#,类库]
 comments: true

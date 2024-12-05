@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vSphere 6.7（ESXi 6.7）安装配置详细步骤图文"
+title: "VMware vSphere 67ESXi 67安装配置详细步骤图文"
 date:   2024-05-16
 tags: [6.7,安装,VMware,配置,vSphere]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018b_LLC_闭合资源文件介绍"
+title: "2018bLLC闭合资源文件介绍"
 date:   2023-05-28
 tags: [LLC,模型,增益,FHA,推导]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NSIS V3.08 简体中文增强版"
+title: "NSIS V308 简体中文增强版"
 date:   2021-02-27
 tags: [NSIS,V3.08,简体中文,增强版,安装包]
 comments: true

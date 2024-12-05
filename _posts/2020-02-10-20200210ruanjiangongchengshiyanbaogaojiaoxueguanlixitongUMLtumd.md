@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程实验报告：教学管理系统UML图"
+title: "软件工程实验报告教学管理系统UML图"
 date:   2024-04-24
 tags: [UML,实验报告,管理系统,软件工程,模块]
 comments: true

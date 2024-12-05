@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32PS2解码工程及代码（CUBEMX+HAL库）"
+title: "STM32PS2解码工程及代码CUBEMXHAL库"
 date:   2021-09-18
 tags: [STM32PS2,解码,工程,CUBEMX,HAL]
 comments: true

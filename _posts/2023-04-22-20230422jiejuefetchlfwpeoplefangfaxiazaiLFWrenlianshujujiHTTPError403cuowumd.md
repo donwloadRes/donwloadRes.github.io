@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决fetch_lfw_people()方法下载LFW人脸数据集HTTPError 403错误"
+title: "解决fetchlfwpeople方法下载LFW人脸数据集HTTPError 403错误"
 date:   2021-11-07
 tags: [lfw,people,fetch,LFW,下载]
 comments: true

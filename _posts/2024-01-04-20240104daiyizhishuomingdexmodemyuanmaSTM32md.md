@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带移植说明的xmodem源码（STM32）"
+title: "带移植说明的xmodem源码STM32"
 date:   2021-02-13
 tags: [xmodem,串口,STM32,源码,xm]
 comments: true

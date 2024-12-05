@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO26262 高清中文版汽车行业标准，ADAS标准"
+title: "ISO26262 高清中文版汽车行业标准ADAS标准"
 date:   2020-01-17
 tags: [ISO26262,ADAS,行业标准,标准,中文版]
 comments: true

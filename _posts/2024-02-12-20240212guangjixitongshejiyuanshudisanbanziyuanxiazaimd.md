@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光机系统设计(原书第三版) 资源下载"
+title: "光机系统设计原书第三版 资源下载"
 date:   2023-01-10
 tags: [第三版,原书,光机,文件格式,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UL 1741-2021 标准资源文件介绍"
+title: "UL 17412021 标准资源文件介绍"
 date:   2024-01-05
 tags: [UL,1741,2021,标准,逆变器]
 comments: true

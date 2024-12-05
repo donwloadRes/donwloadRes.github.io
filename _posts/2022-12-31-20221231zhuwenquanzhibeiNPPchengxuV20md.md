@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "朱文泉植被NPP程序V2.0"
+title: "朱文泉植被NPP程序V20"
 date:   2023-11-21
 tags: [NPP,ENVI,朱文,植被,V2.0]
 comments: true

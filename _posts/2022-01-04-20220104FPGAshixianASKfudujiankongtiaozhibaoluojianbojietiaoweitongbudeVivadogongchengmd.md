@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现ASK幅度键控调制、包络检波解调、位同步的Vivado工程"
+title: "FPGA实现ASK幅度键控调制包络检波解调位同步的Vivado工程"
 date:   2020-01-16
 tags: [ASK,调制,解调,模块,仿真]
 comments: true

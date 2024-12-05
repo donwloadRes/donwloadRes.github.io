@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLink-v9_bootloader可升级固件  亲测好用"
+title: "JLinkv9bootloader可升级固件  亲测好用"
 date:   2020-10-20
 tags: [bootloader,固件,升级,JLink,v9]
 comments: true

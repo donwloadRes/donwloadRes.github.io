@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "appium-desktop 1.13 Windows 版本下载指南"
+title: "appiumdesktop 113 Windows 版本下载指南"
 date:   2022-03-09
 tags: [Appium,下载,1.13,Windows,测试]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lena高清原图7M.zip 资源介绍"
+title: "Lena高清原图7Mzip 资源介绍"
 date:   2023-04-20
 tags: [图像处理,Lena,7M,高清,图像]
 comments: true

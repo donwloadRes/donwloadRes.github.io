@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UAV123数据集下载、简介及配置"
+title: "UAV123数据集下载简介及配置"
 date:   2022-07-14
 tags: [UAV123,视角,目标,跟踪,数据]
 comments: true

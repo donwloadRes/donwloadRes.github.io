@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "api-ms-win-core-synch-l1-2-0.dll文件丢失的完美解决方法"
+title: "apimswincoresynchl120dll文件丢失的完美解决方法"
 date:   2024-07-07
 tags: [dll,文件,api,ms,win]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子工程师面试题 - 硬件常识300测试题简介"
+title: "电子工程师面试题  硬件常识300测试题简介"
 date:   2024-04-23
 tags: [接地,铜箔,PCB,TOP,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "单片机烧录工具 FlyMcu.exe"
+title: "单片机烧录工具 FlyMcuexe"
 date:   2020-01-04
 tags: [单片机,FlyMcu,烧录,exe,串口]
 comments: true

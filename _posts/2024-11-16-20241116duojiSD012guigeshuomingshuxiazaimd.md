@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "舵机S-D012规格说明书下载"
+title: "舵机SD012规格说明书下载"
 date:   2021-12-10
 tags: [D012,舵机,说明书,规格,下载]
 comments: true

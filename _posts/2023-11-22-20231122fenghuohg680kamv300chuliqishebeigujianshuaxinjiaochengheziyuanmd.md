@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "烽火hg680-ka-mv300处理器设备固件刷新教程和资源"
+title: "烽火hg680kamv300处理器设备固件刷新教程和资源"
 date:   2023-03-06
 tags: [固件,设备,刷机,教程,强刷]
 comments: true

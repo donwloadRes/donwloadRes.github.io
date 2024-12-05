@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "系统可靠性理论-模型统计方法及应用"
+title: "系统可靠性理论模型统计方法及应用"
 date:   2024-05-02
 tags: [系统可靠性,应用,模型,理论,构建]
 comments: true

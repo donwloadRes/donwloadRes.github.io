@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSV文件下载（人员信息.txt）"
+title: "CSV文件下载人员信息txt"
 date:   2022-05-11
 tags: [CSV,文件,下载,txt,人员]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙兴华讲PowerBI【火力全开版】课件和笔记"
+title: "孙兴华讲PowerBI火力全开版课件和笔记"
 date:   2022-05-10
 tags: [PowerBI,课件,笔记,兴华,全开]
 comments: true

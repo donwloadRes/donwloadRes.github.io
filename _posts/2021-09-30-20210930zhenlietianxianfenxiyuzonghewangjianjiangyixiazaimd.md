@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阵列天线分析与综合-王建讲义下载"
+title: "阵列天线分析与综合王建讲义下载"
 date:   2024-01-07
 tags: [阵列,天线,讲义,王建,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab绘图案例：附详细代码"
+title: "Matlab绘图案例附详细代码"
 date:   2022-12-16
 tags: [Matlab,绘图,代码,案例,图表]
 comments: true

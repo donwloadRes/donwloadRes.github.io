@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "x9c104中文资料（详细介绍与应用）"
+title: "x9c104中文资料详细介绍与应用"
 date:   2021-12-17
 tags: [x9c104,电阻值,芯片,信号,电阻]
 comments: true

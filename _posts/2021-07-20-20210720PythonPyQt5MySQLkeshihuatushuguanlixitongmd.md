@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+PyQt5+MySQL+可视化图书管理系统"
+title: "PythonPyQt5MySQL可视化图书管理系统"
 date:   2021-07-27
 tags: [图书,Python,数据库,PyQt5,MySQL]
 comments: true

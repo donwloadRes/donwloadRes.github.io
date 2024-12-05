@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 7.4p1 升级到 OpenSSH 9.6p1 离线包"
+title: "OpenSSH 74p1 升级到 OpenSSH 96p1 离线包"
 date:   2020-11-07
 tags: [rpm,el7,x86,64,4.8]
 comments: true

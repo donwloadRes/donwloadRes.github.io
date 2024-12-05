@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.04 中缺少 WPS 字体解决方案"
+title: "Ubuntu 2204 中缺少 WPS 字体解决方案"
 date:   2024-03-12
 tags: [字体,WPS,sudo,fonts,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10安装JDK1.8及配置Java环境变量详解"
+title: "Win10安装JDK18及配置Java环境变量详解"
 date:   2021-11-30
 tags: [JDK,安装,Java,环境变量,路径]
 comments: true

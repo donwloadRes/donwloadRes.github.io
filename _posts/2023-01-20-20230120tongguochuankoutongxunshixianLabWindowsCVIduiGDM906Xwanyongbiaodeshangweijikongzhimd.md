@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通过串口通讯实现LabWindows-CVI对GDM-906X万用表的上位机控制"
+title: "通过串口通讯实现LabWindowsCVI对GDM906X万用表的上位机控制"
 date:   2020-08-22
 tags: [万用表,LabWindows,CVI,串口,通讯]
 comments: true

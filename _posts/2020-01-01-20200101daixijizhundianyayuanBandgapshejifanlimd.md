@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "带隙基准电压源（Bandgap）设计范例"
+title: "带隙基准电压源Bandgap设计范例"
 date:   2020-06-04
 tags: [电压,带隙,设计,基准,温度]
 comments: true

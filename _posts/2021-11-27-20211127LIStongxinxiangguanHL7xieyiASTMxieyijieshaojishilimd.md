@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIS通信相关HL7协议-ASTM协议介绍及实例"
+title: "LIS通信相关HL7协议ASTM协议介绍及实例"
 date:   2020-09-19
 tags: [HL7,ASTM,LIS,协议,实例]
 comments: true

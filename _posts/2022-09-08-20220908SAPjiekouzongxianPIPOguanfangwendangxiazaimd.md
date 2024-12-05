@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP接口总线PI-PO官方文档下载"
+title: "SAP接口总线PIPO官方文档下载"
 date:   2020-10-29
 tags: [文档,SAP,浏览器,总线,翻译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bq34z100g1数据手册(中文版)"
+title: "bq34z100g1数据手册中文版"
 date:   2021-09-11
 tags: [bq34z100g1,中文版,手册,文件,pdf]
 comments: true

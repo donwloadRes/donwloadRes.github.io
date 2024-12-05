@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++小型公司工资管理系统"
+title: "C小型公司工资管理系统"
 date:   2020-07-05
 tags: [员工,工资,月工资,信息,C++]
 comments: true

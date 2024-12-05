@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BPMN2.0规范中文文档"
+title: "BPMN20规范中文文档"
 date:   2020-08-04
 tags: [BPMN2.0,实例,文档,流程,规范]
 comments: true

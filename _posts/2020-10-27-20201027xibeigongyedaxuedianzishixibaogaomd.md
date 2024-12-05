@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学-电子实习报告"
+title: "西北工业大学电子实习报告"
 date:   2020-08-27
 tags: [实习,西北工业大学,电子,报告,PDF]
 comments: true

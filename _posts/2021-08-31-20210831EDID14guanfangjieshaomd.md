@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDID 1.4 官方介绍"
+title: "EDID 14 官方介绍"
 date:   2021-04-14
 tags: [EDID,1.4,文档,显示,官方]
 comments: true

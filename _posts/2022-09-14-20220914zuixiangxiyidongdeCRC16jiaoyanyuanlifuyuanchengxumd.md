@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细易懂的CRC-16校验原理（附源程序）"
+title: "最详细易懂的CRC16校验原理附源程序"
 date:   2020-03-30
 tags: [校验,CRC,16,源程序,原理]
 comments: true

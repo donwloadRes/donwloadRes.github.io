@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海思hi3559a编译freetype-2.10.1+SDL2-2.0.12+SDL2_ttf-2.0.15 +测试代码"
+title: "海思hi3559a编译freetype2101SDL22012SDL2ttf2015 测试代码"
 date:   2023-01-11
 tags: [编译,SDL2,2.0,测试代码,freetype]
 comments: true

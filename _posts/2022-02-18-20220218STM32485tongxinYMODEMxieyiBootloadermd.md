@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 485通信+YMODEM协议Bootloader"
+title: "STM32 485通信YMODEM协议Bootloader"
 date:   2024-03-14
 tags: [固件,YMODEM,Bootloader,STM32,485]
 comments: true

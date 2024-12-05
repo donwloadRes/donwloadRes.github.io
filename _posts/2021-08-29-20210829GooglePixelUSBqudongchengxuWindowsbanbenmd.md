@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Pixel USB 驱动程序（Windows 版本）"
+title: "Google Pixel USB 驱动程序Windows 版本"
 date:   2023-05-03
 tags: [驱动程序,USB,手机,连接,Windows]
 comments: true

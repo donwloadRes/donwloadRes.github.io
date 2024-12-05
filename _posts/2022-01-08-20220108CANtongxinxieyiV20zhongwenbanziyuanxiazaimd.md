@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN通信协议V2.0中文版资源下载"
+title: "CAN通信协议V20中文版资源下载"
 date:   2021-06-23
 tags: [通信协议,书签,V2.0,中文版,文件]
 comments: true

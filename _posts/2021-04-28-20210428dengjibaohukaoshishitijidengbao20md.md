@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等级保护考试试题集（等保2.0）"
+title: "等级保护考试试题集等保20"
 date:   2022-02-12
 tags: [试题,考试,备考,等级,保护]
 comments: true

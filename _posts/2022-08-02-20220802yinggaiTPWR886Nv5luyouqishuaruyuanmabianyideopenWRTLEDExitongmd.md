@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "硬改TP-WR886N v5路由器刷入源码编译的openWRT-LEDE系统"
+title: "硬改TPWR886N v5路由器刷入源码编译的openWRTLEDE系统"
 date:   2023-07-21
 tags: [路由器,固件,闪存,openWRT,LEDE]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt 5.12 Windows版资源下载"
+title: "Qt 512 Windows版资源下载"
 date:   2023-01-21
 tags: [Windows,Qt,5.12,文件,qt5.12]
 comments: true

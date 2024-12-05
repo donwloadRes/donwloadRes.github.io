@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CelebA数据集详解及Python实现下载、读取、解析和可视化"
+title: "CelebA数据集详解及Python实现下载读取解析和可视化"
 date:   2022-04-13
 tags: [CelebA,数据,可视化,Python,文件夹]
 comments: true

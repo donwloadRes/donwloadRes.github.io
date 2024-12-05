@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity 生成二维码（文本、图片、视频）"
+title: "Unity 生成二维码文本图片视频"
 date:   2024-01-25
 tags: [二维码,生成,Unity,texture,ZXing]
 comments: true

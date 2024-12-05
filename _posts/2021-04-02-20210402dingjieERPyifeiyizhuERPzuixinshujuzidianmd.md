@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷ERP、易飞、易助ERP最新数据字典"
+title: "鼎捷ERP易飞易助ERP最新数据字典"
 date:   2020-12-07
 tags: [ERP,字典,文件,鼎捷,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE10.2 TCP-IP 服务端及客户端程序"
+title: "Delphi XE102 TCPIP 服务端及客户端程序"
 date:   2023-04-01
 tags: [服务端,客户端程序,Delphi,XE10.2,TCP]
 comments: true

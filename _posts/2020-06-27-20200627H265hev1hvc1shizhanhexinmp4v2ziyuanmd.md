@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H265-hev1-hvc1实战核心mp4v2资源"
+title: "H265hev1hvc1实战核心mp4v2资源"
 date:   2020-04-20
 tags: [mp4,文件,开发者,测试,资源]
 comments: true

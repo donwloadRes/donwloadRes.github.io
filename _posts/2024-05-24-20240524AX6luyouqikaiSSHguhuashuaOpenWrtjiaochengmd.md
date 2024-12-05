@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AX6路由器开SSH、固化、刷OpenWrt教程"
+title: "AX6路由器开SSH固化刷OpenWrt教程"
 date:   2022-08-27
 tags: [路由器,AX6,SSH,OpenWrt,教程]
 comments: true

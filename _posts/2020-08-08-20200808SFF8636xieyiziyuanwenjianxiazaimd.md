@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFF-8636协议资源文件下载"
+title: "SFF8636协议资源文件下载"
 date:   2024-06-23
 tags: [SFF,8636,文件,协议,模块]
 comments: true

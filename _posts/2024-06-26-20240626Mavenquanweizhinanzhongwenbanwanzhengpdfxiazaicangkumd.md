@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven权威指南中文版(完整).pdf 下载仓库"
+title: "Maven权威指南中文版完整pdf 下载仓库"
 date:   2023-12-09
 tags: [Maven,文件,指南,pdf,中文版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VITA 57.4 FMC协议标准讲解教程"
+title: "VITA 574 FMC协议标准讲解教程"
 date:   2023-11-02
 tags: [VITA,57.4,FMC,教程,标准]
 comments: true

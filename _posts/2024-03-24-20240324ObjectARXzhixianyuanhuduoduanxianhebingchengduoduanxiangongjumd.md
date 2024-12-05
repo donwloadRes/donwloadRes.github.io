@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ObjectARX 直线、圆弧、多段线合并成多段线工具"
+title: "ObjectARX 直线圆弧多段线合并成多段线工具"
 date:   2024-06-16
 tags: [AutoCAD,段线,圆弧,多段,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC-0i-MF全套说明书10本"
+title: "FANUC0iMF全套说明书10本"
 date:   2024-08-01
 tags: [FANUC,0i,01,说明书,MF]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二次开发源码：串口监视（不占用串口）"
+title: "二次开发源码串口监视不占用串口"
 date:   2020-04-21
 tags: [串口,二次开发,源码,监视,占用]
 comments: true

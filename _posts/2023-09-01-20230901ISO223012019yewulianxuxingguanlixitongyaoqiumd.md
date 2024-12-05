@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 22301-2019 业务连续性管理系统要求"
+title: "ISO 223012019 业务连续性管理系统要求"
 date:   2022-08-02
 tags: [业务,ISO,22301,连续性,2019]
 comments: true

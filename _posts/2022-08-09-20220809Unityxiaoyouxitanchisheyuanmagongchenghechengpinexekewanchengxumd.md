@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity小游戏：贪吃蛇 源码工程 和 成品exe可玩程序"
+title: "Unity小游戏贪吃蛇 源码工程 和 成品exe可玩程序"
 date:   2022-08-06
 tags: [Unity,贪吃蛇,游戏,源码,小游戏]
 comments: true

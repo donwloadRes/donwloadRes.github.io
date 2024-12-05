@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVG浏览器预览扩展 - svg-explorer-extension"
+title: "SVG浏览器预览扩展  svgexplorerextension"
 date:   2023-12-08
 tags: [浏览器,SVG,预览,扩展,svg]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安可信ESP-12F资料包"
+title: "安可信ESP12F资料包"
 date:   2021-04-20
 tags: [串口,TCP,电脑,测试工具,调试]
 comments: true

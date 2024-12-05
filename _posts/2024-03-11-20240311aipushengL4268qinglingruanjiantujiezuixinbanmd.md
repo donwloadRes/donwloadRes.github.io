@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L4268清零软件+图解.最新版"
+title: "爱普生L4268清零软件图解最新版"
 date:   2022-10-21
 tags: [清零,打印机,软件,爱普生,L4268]
 comments: true

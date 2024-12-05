@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DWM1000官方资料+例程+中文数据手册"
+title: "DWM1000官方资料例程中文数据手册"
 date:   2020-04-25
 tags: [DWM1000,模块,例程,中文,手册]
 comments: true

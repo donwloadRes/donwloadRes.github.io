@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算CR+AVE小工具"
+title: "计算CRAVE小工具"
 date:   2023-07-24
 tags: [CR,AVE,计算,工具,问卷]
 comments: true

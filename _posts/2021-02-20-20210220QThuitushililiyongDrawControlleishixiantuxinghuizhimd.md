@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT绘图示例：利用DrawControl类实现图形绘制"
+title: "QT绘图示例利用DrawControl类实现图形绘制"
 date:   2020-11-09
 tags: [Qt,图形,DrawControl,绘制,demo]
 comments: true

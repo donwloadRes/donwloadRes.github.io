@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "斑马线+行人+交通灯(红绿灯)三类别YoLo数据集"
+title: "斑马线行人交通灯红绿灯三类别YoLo数据集"
 date:   2022-04-12
 tags: [交通灯,数据,斑马线,光照,YoLo]
 comments: true

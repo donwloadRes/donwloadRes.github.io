@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB150.11A-2009 盐雾试验标准文件"
+title: "GJB15011A2009 盐雾试验标准文件"
 date:   2023-12-30
 tags: [盐雾,文件,GJB150.11,2009,试验]
 comments: true

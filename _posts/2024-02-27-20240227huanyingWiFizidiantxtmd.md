@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "幻影WiFi字典.txt"
+title: "幻影WiFi字典txt"
 date:   2020-04-17
 tags: [字典,密码,WiFi,txt,幻影]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苹果病害数据集：涵盖4种常见病害"
+title: "苹果病害数据集涵盖4种常见病害"
 date:   2022-10-04
 tags: [病害,苹果,数据,模型,果实]
 comments: true

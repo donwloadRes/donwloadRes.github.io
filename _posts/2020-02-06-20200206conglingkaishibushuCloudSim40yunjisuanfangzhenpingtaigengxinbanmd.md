@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始部署CloudSim 4.0云计算仿真平台（更新版）"
+title: "从零开始部署CloudSim 40云计算仿真平台更新版"
 date:   2022-03-06
 tags: [CloudSim,Maven,Eclipse,安装包,4.0]
 comments: true

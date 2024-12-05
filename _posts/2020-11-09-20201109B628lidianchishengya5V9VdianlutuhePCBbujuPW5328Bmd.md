@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B628锂电池升压5V,9V电路图和PCB布局PW5328B"
+title: "B628锂电池升压5V9V电路图和PCB布局PW5328B"
 date:   2020-05-02
 tags: [升压,B628,PCB,电路,电路图]
 comments: true

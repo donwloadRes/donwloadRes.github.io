@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的五子棋人机对战程序完整源码"
+title: "基于C的五子棋人机对战程序完整源码"
 date:   2023-02-07
 tags: [源码,C#,五子棋,对战,游戏]
 comments: true

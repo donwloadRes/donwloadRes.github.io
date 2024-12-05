@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JT-T808模拟终端C#源码"
+title: "JTT808模拟终端C源码"
 date:   2021-06-13
 tags: [源码,JT,T808,C#,模拟]
 comments: true

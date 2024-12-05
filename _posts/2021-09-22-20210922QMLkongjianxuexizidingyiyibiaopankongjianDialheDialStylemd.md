@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QML控件学习——自定义仪表盘控件Dial和DialStyle"
+title: "QML控件学习自定义仪表盘控件Dial和DialStyle"
 date:   2021-03-21
 tags: [控件,仪表盘,自定义,QML,示例]
 comments: true

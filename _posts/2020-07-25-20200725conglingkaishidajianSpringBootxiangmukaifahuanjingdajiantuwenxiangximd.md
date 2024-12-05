@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始搭建SpringBoot项目：开发环境搭建（图文详细）"
+title: "从零开始搭建SpringBoot项目开发环境搭建图文详细"
 date:   2022-07-09
 tags: [SpringBoot,搭建,IDEA,Maven,数据库]
 comments: true

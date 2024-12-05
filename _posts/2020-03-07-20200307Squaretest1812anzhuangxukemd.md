@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Squaretest 1.8.12 安装许可"
+title: "Squaretest 1812 安装许可"
 date:   2022-08-28
 tags: [插件,单元测试,测试代码,生成,Squaretest]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows安装CARLA运行报DirectX Runtime和Microsoft Visual C++ Runtime错误解决方案"
+title: "Windows安装CARLA运行报DirectX Runtime和Microsoft Visual C Runtime错误解决方案"
 date:   2024-08-31
 tags: [Runtime,DirectX,Microsoft,Visual,C++]
 comments: true

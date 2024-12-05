@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "谭浩强 C 语言程序设计（PDF）文档"
+title: "谭浩强 C 语言程序设计PDF文档"
 date:   2023-09-07
 tags: [C语言,PDF,文档,编程,谭浩强]
 comments: true

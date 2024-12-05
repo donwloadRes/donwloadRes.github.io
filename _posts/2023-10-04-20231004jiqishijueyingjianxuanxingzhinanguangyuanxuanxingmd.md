@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器视觉硬件选型指南：光源选型"
+title: "机器视觉硬件选型指南光源选型"
 date:   2020-11-05
 tags: [光源,选型,视觉,机器,硬件]
 comments: true

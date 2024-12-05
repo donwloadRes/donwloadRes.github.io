@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQTT C# Demo 测试案例 - 完整服务端与客户端示例"
+title: "MQTT C Demo 测试案例  完整服务端与客户端示例"
 date:   2021-04-15
 tags: [MQTT,服务端,客户端,NET,C#]
 comments: true

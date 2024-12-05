@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HCIE 3.0数通教材课件PPT实验手册汇总"
+title: "HCIE 30数通教材课件PPT实验手册汇总"
 date:   2024-10-03
 tags: [数通,PPT,HCIE,3.0,课件]
 comments: true

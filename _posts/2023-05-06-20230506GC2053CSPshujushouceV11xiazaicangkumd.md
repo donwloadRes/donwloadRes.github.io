@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GC2053 CSP 数据手册 V1.1 下载仓库"
+title: "GC2053 CSP 数据手册 V11 下载仓库"
 date:   2022-06-18
 tags: [GC2053,V1.1,摄像头,CSP,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux技术内幕 - 罗秋明著"
+title: "Linux技术内幕  罗秋明著"
 date:   2021-03-15
 tags: [Linux,操作系统,罗秋明,内幕,仓库]
 comments: true

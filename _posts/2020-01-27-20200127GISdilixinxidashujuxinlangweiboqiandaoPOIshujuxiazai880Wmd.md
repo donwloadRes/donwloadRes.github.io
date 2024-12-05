@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GIS+地理信息+大数据——新浪微博签到POI数据下载(880W)"
+title: "GIS地理信息大数据新浪微博签到POI数据下载880W"
 date:   2022-01-13
 tags: [签到,微博,POI,数据,GIS]
 comments: true

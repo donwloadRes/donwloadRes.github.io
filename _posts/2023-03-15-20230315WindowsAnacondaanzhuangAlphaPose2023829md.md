@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows+Anaconda安装AlphaPose（2023.8.29）"
+title: "WindowsAnaconda安装AlphaPose2023829"
 date:   2022-12-27
 tags: [AlphaPose,bash,install,安装,conda]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altera Quartus 13.1 Cygwin 补丁"
+title: "Altera Quartus 131 Cygwin 补丁"
 date:   2024-09-14
 tags: [补丁,Quartus,13.1,文件,Windows]
 comments: true

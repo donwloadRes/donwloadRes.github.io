@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADC_DMA采集FFT变换求初值相位差"
+title: "ADCDMA采集FFT变换求初值相位差"
 date:   2020-02-23
 tags: [相位差,FFT,ADC,DMA,程序]
 comments: true

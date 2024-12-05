@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xshell8最新版体验（业界最强大的SSH连接工具）"
+title: "Xshell8最新版体验业界最强大的SSH连接工具"
 date:   2021-05-30
 tags: [Xshell,连接,录制,会话,脚本]
 comments: true

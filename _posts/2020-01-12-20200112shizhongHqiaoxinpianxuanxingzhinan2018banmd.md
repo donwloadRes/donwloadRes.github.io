@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "十种H桥芯片选型指南（2018版）"
+title: "十种H桥芯片选型指南2018版"
 date:   2021-05-26
 tags: [选型,芯片,指南,十种,驱动电流]
 comments: true

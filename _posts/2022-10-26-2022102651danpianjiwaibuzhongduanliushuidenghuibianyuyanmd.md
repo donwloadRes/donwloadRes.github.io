@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机外部中断流水灯（汇编语言）"
+title: "51单片机外部中断流水灯汇编语言"
 date:   2020-07-06
 tags: [中断,单片机,汇编语言,Protues,流水]
 comments: true

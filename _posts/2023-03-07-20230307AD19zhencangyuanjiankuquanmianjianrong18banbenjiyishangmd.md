@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AD19珍藏元件库 - 全面兼容18版本及以上"
+title: "AD19珍藏元件库  全面兼容18版本及以上"
 date:   2021-10-29
 tags: [元件库,Altium,Designer,导入,AD19]
 comments: true

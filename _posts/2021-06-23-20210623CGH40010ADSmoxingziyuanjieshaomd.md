@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CGH40010-ADS模型资源介绍"
+title: "CGH40010ADS模型资源介绍"
 date:   2024-07-23
 tags: [ADS,模型,CGH40010,仿真,资源]
 comments: true

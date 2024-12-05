@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "直流无刷电机控制-无感方波驱动2017"
+title: "直流无刷电机控制无感方波驱动2017"
 date:   2022-05-12
 tags: [无感,方波,无刷电机,驱动,电势]
 comments: true

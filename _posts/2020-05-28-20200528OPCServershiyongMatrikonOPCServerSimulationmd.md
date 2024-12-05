@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPCServer：使用Matrikon OPC Server Simulation"
+title: "OPCServer使用Matrikon OPC Server Simulation"
 date:   2020-11-11
 tags: [OPC,Matrikon,Server,Simulation,安装]
 comments: true

@@ -1,6 +1,57 @@
 ---
 layout: post
-title: "JDK 1.8 for Linux 安装指南"
+title: "JDK 18 for Linux 安装指南
+date   20230408
+tags HOMEJDK18libbash
+comments true
+author admin
+
+ JDK 18 for Linux 安装指南
+
+本仓库提供了一个适用于Linux系统的JDK 18安装包文件名为jdk8u131linuxx64targz以下是详细的安装步骤
+
+ 安装步骤
+
+ 1 解压安装包
+
+首先创建一个目录用于存放JDK文件并将安装包解压到该目录中
+
+bash
+rootlocalhost software mkdir p usrlibjvm
+rootlocalhost software tar zxvf jdk8u131linuxx64targz C usrlibjvm
+
+
+ 2 设置环境变量
+
+编辑etcprofile文件在文件的最前面添加以下内容
+
+bash
+export JAVAHOMEusrlibjvmjdk180131
+export JREHOMEJAVAHOMEjre
+export CLASSPATHJAVAHOMElibJREHOMElib
+export PATHJAVAHOMEbinPATH
+
+
+ 3 执行profile文件
+
+执行etcprofile文件使配置立即生效无需重启系统
+
+bash
+rootlocalhost software source etcprofile
+
+
+ 4 检查新安装的JDK
+
+最后检查JDK是否安装成功并查看其版本信息
+
+bash
+rootlocalhost software java version
+
+
+如果安装成功您将看到类似以下的输出
+
+
+java version 180131"
 date:   2023-04-08
 tags: [HOME,JDK,1.8,lib,bash]
 comments: true

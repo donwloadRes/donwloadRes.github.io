@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT-FastArt 视频描述信息前置小工具"
+title: "QTFastArt 视频描述信息前置小工具"
 date:   2023-02-05
 tags: [前置,视频,描述,信息,QT]
 comments: true

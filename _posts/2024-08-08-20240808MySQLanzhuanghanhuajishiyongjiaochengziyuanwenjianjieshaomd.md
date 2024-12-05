@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL安装、汉化及使用教程资源文件介绍"
+title: "MySQL安装汉化及使用教程资源文件介绍"
 date:   2024-02-10
 tags: [MySQL,教程,汉化,安装,使用]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UG-NX 2212 手动安装方法教程"
+title: "UGNX 2212 手动安装方法教程"
 date:   2023-01-11
 tags: [安装,NX,报错,文件,教程]
 comments: true

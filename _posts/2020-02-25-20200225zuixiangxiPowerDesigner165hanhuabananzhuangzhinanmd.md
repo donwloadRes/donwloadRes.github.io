@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最详细PowerDesigner16.5汉化版安装指南"
+title: "最详细PowerDesigner165汉化版安装指南"
 date:   2022-10-28
 tags: [安装,PowerDesigner,步骤,汉化版,汉化包]
 comments: true

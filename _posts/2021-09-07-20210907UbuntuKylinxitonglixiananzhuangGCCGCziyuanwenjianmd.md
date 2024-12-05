@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu-Kylin 系统离线安装 GCC、G++、C++ 资源文件"
+title: "UbuntuKylin 系统离线安装 GCCGC 资源文件"
 date:   2024-07-27
 tags: [文件,安装,资源,8.4,离线]
 comments: true

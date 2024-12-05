@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECharts与MySQL实战：实时数据可视化"
+title: "ECharts与MySQL实战实时数据可视化"
 date:   2024-05-03
 tags: [数据,图表,数据库,ECharts,MySQL]
 comments: true

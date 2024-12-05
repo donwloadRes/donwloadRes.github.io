@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-300 PLC功能块解锁工具"
+title: "西门子S7300 PLC功能块解锁工具"
 date:   2024-03-29
 tags: [解锁,功能块,工具,PLC,S7]
 comments: true

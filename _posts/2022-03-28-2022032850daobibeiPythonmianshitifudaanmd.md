@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "50道必备Python面试题（附答案）"
+title: "50道必备Python面试题附答案"
 date:   2023-07-18
 tags: [Python,面试题,答案,50,题目]
 comments: true

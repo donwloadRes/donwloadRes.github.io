@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享57个Python源码，总有一款适合您"
+title: "分享57个Python源码总有一款适合您"
 date:   2024-02-22
 tags: [源码,Python,57,开发者,分享]
 comments: true

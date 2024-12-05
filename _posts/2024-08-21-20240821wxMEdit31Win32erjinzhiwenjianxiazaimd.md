@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "wxMEdit 3.1 Win32 二进制文件下载"
+title: "wxMEdit 31 Win32 二进制文件下载"
 date:   2022-11-09
 tags: [wxMEdit,文本,十六进制,文件,3.1]
 comments: true

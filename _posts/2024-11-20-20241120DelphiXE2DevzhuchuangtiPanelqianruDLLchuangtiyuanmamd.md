@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi XE2+Dev 主窗体Panel嵌入DLL窗体源码"
+title: "Delphi XE2Dev 主窗体Panel嵌入DLL窗体源码"
 date:   2024-05-04
 tags: [窗体,DLL,示例,源码,Delphi]
 comments: true

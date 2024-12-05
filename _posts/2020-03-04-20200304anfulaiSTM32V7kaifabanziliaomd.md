@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安富莱_STM32-V7开发板资料"
+title: "安富莱STM32V7开发板资料"
 date:   2021-01-12
 tags: [开发板,用户手册,示例,STM32,V7]
 comments: true

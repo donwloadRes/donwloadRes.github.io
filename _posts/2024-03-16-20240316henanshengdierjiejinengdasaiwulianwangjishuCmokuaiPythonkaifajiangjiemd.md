@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "河南省第二届技能大赛-物联网技术C模块Python开发讲解"
+title: "河南省第二届技能大赛物联网技术C模块Python开发讲解"
 date:   2022-03-30
 tags: [API,Python,调用,联网,介绍]
 comments: true

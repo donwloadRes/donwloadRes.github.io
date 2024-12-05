@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NAR-RNN时间序列预测代码详解"
+title: "NARRNN时间序列预测代码详解"
 date:   2024-10-08
 tags: [预测,NAR,RNN,数据,序列]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCC28019 BOOST-PFC开关电源设计资源介绍"
+title: "UCC28019 BOOSTPFC开关电源设计资源介绍"
 date:   2021-10-31
 tags: [PFC,开关电源,UCC28019,BOOST,设计]
 comments: true

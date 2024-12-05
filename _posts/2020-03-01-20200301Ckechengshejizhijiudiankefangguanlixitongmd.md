@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++课程设计之酒店客房管理系统"
+title: "C课程设计之酒店客房管理系统"
 date:   2021-07-06
 tags: [C++,酒店客房,客房,信息,课程设计]
 comments: true

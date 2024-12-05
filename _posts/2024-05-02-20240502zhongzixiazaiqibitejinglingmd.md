@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "种子下载器--比特精灵"
+title: "种子下载器比特精灵"
 date:   2020-12-02
 tags: [比特精灵,下载,用户,种子,BT]
 comments: true

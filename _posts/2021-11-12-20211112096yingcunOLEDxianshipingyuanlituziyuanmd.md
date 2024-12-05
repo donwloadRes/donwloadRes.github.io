@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96英寸OLED显示屏原理图资源"
+title: "096英寸OLED显示屏原理图资源"
 date:   2024-07-09
 tags: [原理图,OLED,0.96,显示屏,英寸]
 comments: true

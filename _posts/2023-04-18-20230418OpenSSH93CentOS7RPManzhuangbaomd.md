@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.3 CentOS7 RPM安装包"
+title: "OpenSSH 93 CentOS7 RPM安装包"
 date:   2024-02-03
 tags: [OpenSSH,9.3,etc,更新,安装包]
 comments: true

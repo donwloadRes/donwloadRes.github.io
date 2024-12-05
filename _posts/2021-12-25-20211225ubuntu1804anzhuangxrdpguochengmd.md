@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ubuntu18.04安装xrdp过程"
+title: "ubuntu1804安装xrdp过程"
 date:   2024-02-06
 tags: [xrdp,远程桌面,sudo,安装,Ubuntu]
 comments: true

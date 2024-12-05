@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3cg-2019 标准文件下载"
+title: "IEEE 8023cg2019 标准文件下载"
 date:   2020-12-24
 tags: [IEEE,2019,文件,10,Mb]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMOS结构方程模型解读[整理].pdf 说明"
+title: "AMOS结构方程模型解读整理pdf 说明"
 date:   2023-02-05
 tags: [AMOS,模型,方程,结构,文档]
 comments: true

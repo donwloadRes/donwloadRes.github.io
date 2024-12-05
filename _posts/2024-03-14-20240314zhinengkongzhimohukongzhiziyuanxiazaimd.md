@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能控制_模糊控制资源下载"
+title: "智能控制模糊控制资源下载"
 date:   2024-03-06
 tags: [模糊控制,文件,智能,资源,pptx]
 comments: true

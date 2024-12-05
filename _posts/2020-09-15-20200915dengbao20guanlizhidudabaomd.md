@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "等保2.0管理制度打包"
+title: "等保20管理制度打包"
 date:   2022-01-27
 tags: [管理制度,安全,文档,2.0,32]
 comments: true

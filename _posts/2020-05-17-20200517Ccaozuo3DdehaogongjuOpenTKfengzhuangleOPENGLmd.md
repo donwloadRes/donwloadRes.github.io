@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#操作3D的好工具-OpenTK（封装了OPENGL）"
+title: "C操作3D的好工具OpenTK封装了OPENGL"
 date:   2022-12-17
 tags: [OpenTK,3D,示例,封装,OpenGL]
 comments: true

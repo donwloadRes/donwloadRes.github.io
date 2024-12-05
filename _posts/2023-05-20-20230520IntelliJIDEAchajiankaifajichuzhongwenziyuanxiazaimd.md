@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IntelliJ IDEA插件开发基础（中文）资源下载"
+title: "IntelliJ IDEA插件开发基础中文资源下载"
 date:   2023-08-18
 tags: [插件,IntelliJ,IDEA,开发,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesseract 5.0 Win64 编译成功的库"
+title: "Tesseract 50 Win64 编译成功的库"
 date:   2021-03-19
 tags: [编译,Tesseract,5.0,文件,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft.ACE.OLEDB.12.0 驱动下载与使用说明"
+title: "MicrosoftACEOLEDB120 驱动下载与使用说明"
 date:   2022-12-27
 tags: [ACE,Microsoft,OLEDB.12,驱动,Office]
 comments: true

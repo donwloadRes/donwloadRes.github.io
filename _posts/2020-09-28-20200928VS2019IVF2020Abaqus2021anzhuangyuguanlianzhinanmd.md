@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2019、IVF2020、Abaqus2021安装与关联指南"
+title: "VS2019IVF2020Abaqus2021安装与关联指南"
 date:   2021-05-26
 tags: [安装,Abaqus2021,安装包,VS2019,IVF2020]
 comments: true

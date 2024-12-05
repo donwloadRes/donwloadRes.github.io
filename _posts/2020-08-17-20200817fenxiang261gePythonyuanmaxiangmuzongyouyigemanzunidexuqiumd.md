@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享261个Python源码项目：总有一个满足你的需求"
+title: "分享261个Python源码项目总有一个满足你的需求"
 date:   2022-02-06
 tags: [Python,项目,源码,261,学习]
 comments: true

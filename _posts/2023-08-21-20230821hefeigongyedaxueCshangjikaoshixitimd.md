@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "合肥工业大学-C++上机考试习题"
+title: "合肥工业大学C上机考试习题"
 date:   2020-04-11
 tags: [习题,每步,C++,程序,题目]
 comments: true

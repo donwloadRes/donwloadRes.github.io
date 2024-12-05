@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB编程实现2FSK信号的调制与解调（非相干解调）"
+title: "MATLAB编程实现2FSK信号的调制与解调非相干解调"
 date:   2020-11-18
 tags: [MATLAB,解调,2FSK,相干,内存]
 comments: true

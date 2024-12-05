@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DataGridView控件使用大全(转+中文对应)"
+title: "DataGridView控件使用大全转中文对应"
 date:   2024-06-08
 tags: [单元格,控件,DataGridView,如何,编辑]
 comments: true

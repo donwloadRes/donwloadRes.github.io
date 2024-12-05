@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网通实验——QT实现基于TCP协议的Socket通信（含源码）"
+title: "网通实验QT实现基于TCP协议的Socket通信含源码"
 date:   2023-05-20
 tags: [客户端,TCP,QT,Socket,client]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoCopy2U自动批量U盘移动存储设备拷贝-备份工具"
+title: "AutoCopy2U自动批量U盘移动存储设备拷贝备份工具"
 date:   2022-07-05
 tags: [AutoCopy2U,存储设备,拷贝,批量,备份]
 comments: true

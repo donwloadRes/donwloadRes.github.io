@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#调用Everything搜索文件教程"
+title: "C调用Everything搜索文件教程"
 date:   2024-05-08
 tags: [Everything,搜索,文件,API,C#]
 comments: true

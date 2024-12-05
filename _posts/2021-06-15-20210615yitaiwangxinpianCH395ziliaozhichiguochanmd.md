@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "以太网芯片CH395资料-支持国产"
+title: "以太网芯片CH395资料支持国产"
 date:   2021-05-09
 tags: [示例,CH395,源程序,文件,演示]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Face++人脸识别源码仓库介绍"
+title: "Face人脸识别源码仓库介绍"
 date:   2021-09-16
 tags: [Face,++,源码,人脸识别,API]
 comments: true

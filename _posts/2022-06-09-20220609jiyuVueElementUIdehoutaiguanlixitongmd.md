@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 Vue + Element-UI 的后台管理系统"
+title: "基于 Vue  ElementUI 的后台管理系统"
 date:   2020-03-14
 tags: [Vue,UI,项目,Element,后台]
 comments: true

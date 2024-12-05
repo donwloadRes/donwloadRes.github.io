@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J-LINK V10 V11固件更新资源"
+title: "JLINK V10 V11固件更新资源"
 date:   2024-11-09
 tags: [固件,LINK,V10,V11,更新]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞腾FT-2000-4开发板Ubuntu18.04.5移植及内核更换教程"
+title: "飞腾FT20004开发板Ubuntu18045移植及内核更换教程"
 date:   2020-02-09
 tags: [开发板,内核,飞腾,18.04,教程]
 comments: true

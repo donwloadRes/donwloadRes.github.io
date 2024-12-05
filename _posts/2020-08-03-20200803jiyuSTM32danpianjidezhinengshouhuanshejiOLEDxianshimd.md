@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的智能手环设计（OLED显示）"
+title: "基于STM32单片机的智能手环设计OLED显示"
 date:   2020-01-16
 tags: [手环,步数,仿真,单片机,STM32]
 comments: true

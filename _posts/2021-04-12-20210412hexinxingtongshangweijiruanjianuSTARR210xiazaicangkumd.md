@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "和芯星通上位机软件uSTAR_R2.1.0 下载仓库"
+title: "和芯星通上位机软件uSTARR210 下载仓库"
 date:   2020-03-24
 tags: [模块,芯星通,机软件,GPS,uSTAR]
 comments: true

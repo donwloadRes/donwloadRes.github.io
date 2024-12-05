@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arduino ESP8266-ESP32 拓展资源下载"
+title: "Arduino ESP8266ESP32 拓展资源下载"
 date:   2023-08-26
 tags: [文件,资源,ESP8266,ESP32,下载]
 comments: true

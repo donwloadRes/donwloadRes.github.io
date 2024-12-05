@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux内核设计与实现（第3版）PDF资源下载"
+title: "Linux内核设计与实现第3版PDF资源下载"
 date:   2022-04-01
 tags: [Linux,内核,PDF,设计,资源]
 comments: true

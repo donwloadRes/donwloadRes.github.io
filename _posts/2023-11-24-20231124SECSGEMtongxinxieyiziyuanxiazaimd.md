@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SECS-GEM通信协议资源下载"
+title: "SECSGEM通信协议资源下载"
 date:   2020-05-01
 tags: [通信协议,SECS,GEM,secs,pdf]
 comments: true

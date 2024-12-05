@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FPGA实现低通滤波器（内含完整的FPGA代码）"
+title: "FPGA实现低通滤波器内含完整的FPGA代码"
 date:   2022-04-11
 tags: [FPGA,仿真,低通滤波器,代码,滤波器]
 comments: true

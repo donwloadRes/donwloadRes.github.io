@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mats400.184显卡显存测试镜像工具包"
+title: "mats400184显卡显存测试镜像工具包"
 date:   2023-12-22
 tags: [显存,U盘,镜像,测试,显卡]
 comments: true

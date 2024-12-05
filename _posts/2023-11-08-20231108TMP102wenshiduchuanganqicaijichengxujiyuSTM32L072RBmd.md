@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TMP102温湿度传感器采集程序（基于STM32L072RB）"
+title: "TMP102温湿度传感器采集程序基于STM32L072RB"
 date:   2021-07-13
 tags: [TMP102,STM32L072RB,I2C,传感器,温湿度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "F4飞控ATK-F405 PCB与程序资源下载"
+title: "F4飞控ATKF405 PCB与程序资源下载"
 date:   2023-12-18
 tags: [F4,飞控,ATK,PCB,F405]
 comments: true

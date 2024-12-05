@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：SpringBoot车辆管理系统设计与实现源码含文档含教程工具包"
+title: "毕业设计SpringBoot车辆管理系统设计与实现源码含文档含教程工具包"
 date:   2020-01-14
 tags: [信息管理,登记,数据库,管理,源码]
 comments: true

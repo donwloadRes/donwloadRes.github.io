@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMC规范(IEEE Std 1386.1 2001) 资源下载"
+title: "PMC规范IEEE Std 13861 2001 资源下载"
 date:   2020-04-27
 tags: [PMC,IEEE,2001,规范,Std]
 comments: true

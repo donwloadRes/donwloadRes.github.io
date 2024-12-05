@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apifox：API 接口自动化测试完全指南"
+title: "ApifoxAPI 接口自动化测试完全指南"
 date:   2020-01-24
 tags: [Apifox,API,测试,接口,自动化]
 comments: true

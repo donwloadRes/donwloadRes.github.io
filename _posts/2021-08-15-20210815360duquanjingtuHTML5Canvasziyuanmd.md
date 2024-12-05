@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "360 度全景图 - HTML5 Canvas 资源"
+title: "360 度全景图  HTML5 Canvas 资源"
 date:   2020-06-08
 tags: [全景图,HTML5,360,Canvas,Chrome]
 comments: true

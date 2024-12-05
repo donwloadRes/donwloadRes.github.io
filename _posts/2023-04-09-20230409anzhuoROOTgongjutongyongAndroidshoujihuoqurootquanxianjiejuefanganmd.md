@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓(ROOT)工具 - 通用Android手机获取 root 权限解决方案"
+title: "安卓ROOT工具  通用Android手机获取 root 权限解决方案"
 date:   2024-08-09
 tags: [ROOT,Android,设备,工具,开发者]
 comments: true

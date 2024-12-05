@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AN1299 源代码：dsPIC33CK256MP508 MCLV-MCHV PLL 估算器"
+title: "AN1299 源代码dsPIC33CK256MP508 MCLVMCHV PLL 估算器"
 date:   2024-11-08
 tags: [电机,代码,文档,AN1299,dsPIC33CK256MP508]
 comments: true

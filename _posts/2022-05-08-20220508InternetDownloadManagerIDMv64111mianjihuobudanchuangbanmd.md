@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager（IDM）v6.41.11 免激活不弹窗版"
+title: "Internet Download ManagerIDMv64111 免激活不弹窗版"
 date:   2024-06-25
 tags: [IDM,下载,11,浏览器,v6.41]
 comments: true

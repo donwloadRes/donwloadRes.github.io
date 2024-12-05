@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB仿真：(2,1,2)和(3,1,7)卷积码编解码"
+title: "MATLAB仿真212和317卷积码编解码"
 date:   2020-12-08
 tags: [仿真,卷积码,MATLAB,误码率,译码]
 comments: true

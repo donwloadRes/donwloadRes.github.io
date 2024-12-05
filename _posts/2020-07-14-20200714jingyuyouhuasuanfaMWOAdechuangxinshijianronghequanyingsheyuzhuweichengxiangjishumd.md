@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鲸鱼优化算法(MWOA)的创新实践：融合圈映射与逐维成像技术"
+title: "鲸鱼优化算法MWOA的创新实践融合圈映射与逐维成像技术"
 date:   2020-05-02
 tags: [算法,优化,MWOA,鲸鱼,混沌]
 comments: true

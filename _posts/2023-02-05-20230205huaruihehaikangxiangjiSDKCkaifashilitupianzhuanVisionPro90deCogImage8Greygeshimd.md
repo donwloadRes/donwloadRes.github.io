@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华睿和海康相机SDK-C#开发示例：图片转VisionPro9.0的CogImage8Grey格式"
+title: "华睿和海康相机SDKC开发示例图片转VisionPro90的CogImage8Grey格式"
 date:   2024-05-11
 tags: [示例,相机,SDK,VisionPro,9.0]
 comments: true

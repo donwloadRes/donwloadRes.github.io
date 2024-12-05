@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TabControl 重绘高仿 360浏览器选项卡"
+title: "C TabControl 重绘高仿 360浏览器选项卡"
 date:   2020-12-05
 tags: [TabControl,选项卡,浏览器,重绘,360]
 comments: true

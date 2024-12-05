@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 2041-1994 军用软件接口设计要求"
+title: "GJB 20411994 军用软件接口设计要求"
 date:   2023-11-05
 tags: [接口,设计,软件,军用,1994]
 comments: true

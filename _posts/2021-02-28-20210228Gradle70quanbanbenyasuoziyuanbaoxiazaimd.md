@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle 7.0 全版本压缩资源包下载"
+title: "Gradle 70 全版本压缩资源包下载"
 date:   2024-01-15
 tags: [Gradle,下载,版本,7.0,资源]
 comments: true

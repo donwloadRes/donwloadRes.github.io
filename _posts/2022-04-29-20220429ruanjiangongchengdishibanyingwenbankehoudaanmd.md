@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件工程第十版[英文版] 课后答案"
+title: "软件工程第十版英文版 课后答案"
 date:   2023-05-21
 tags: [软件工程,课后,第十版,答案,英文版]
 comments: true

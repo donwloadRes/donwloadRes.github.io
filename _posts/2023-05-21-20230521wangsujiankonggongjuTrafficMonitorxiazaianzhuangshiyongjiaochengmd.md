@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网速监控工具——TrafficMonitor 下载安装使用教程"
+title: "网速监控工具TrafficMonitor 下载安装使用教程"
 date:   2024-06-29
 tags: [网速,任务栏,显示,软件,监控]
 comments: true

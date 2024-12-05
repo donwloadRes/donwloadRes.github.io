@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于讯飞语音引擎3.0.apk的Android原生TTS"
+title: "基于讯飞语音引擎30apk的Android原生TTS"
 date:   2024-07-30
 tags: [语音,TextToSpeech,apk,Android,引擎]
 comments: true

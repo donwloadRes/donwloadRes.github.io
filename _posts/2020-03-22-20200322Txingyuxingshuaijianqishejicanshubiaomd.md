@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T型与π型衰减器设计参数表"
+title: "T型与型衰减器设计参数表"
 date:   2023-03-27
 tags: [衰减器,参数表,电路设计,设计,射频]
 comments: true

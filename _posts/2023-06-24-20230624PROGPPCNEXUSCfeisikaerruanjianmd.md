@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PROGPPCNEXUS_C 飞思卡尔软件"
+title: "PROGPPCNEXUSC 飞思卡尔软件"
 date:   2020-03-02
 tags: [飞思,卡尔,调试,软件,PROGPPCNEXUS]
 comments: true

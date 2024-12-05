@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新版Chrome浏览器字体编码插件Charset v0.5.5 使用指南"
+title: "新版Chrome浏览器字体编码插件Charset v055 使用指南"
 date:   2020-06-20
 tags: [浏览器,插件,编码,Chrome,新版]
 comments: true

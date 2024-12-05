@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANdb++ DBC编辑软件安装包"
+title: "CANdb DBC编辑软件安装包"
 date:   2022-07-01
 tags: [CANdb,++,安装包,软件,DBC]
 comments: true

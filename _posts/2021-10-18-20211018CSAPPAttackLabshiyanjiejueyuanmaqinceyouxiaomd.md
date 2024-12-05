@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSAPP AttackLab实验解决源码（亲测有效！！！）"
+title: "CSAPP AttackLab实验解决源码亲测有效"
 date:   2020-06-20
 tags: [程序,实验,缓冲区,金丝雀,溢出]
 comments: true

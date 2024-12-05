@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "png-to-fnt 快速制作 fnt 工具【BMFont工具】"
+title: "pngtofnt 快速制作 fnt 工具BMFont工具"
 date:   2022-11-14
 tags: [fnt,BMFont,字体,文件,PNG]
 comments: true

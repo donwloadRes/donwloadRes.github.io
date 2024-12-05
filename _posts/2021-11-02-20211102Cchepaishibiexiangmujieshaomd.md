@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++车牌识别项目介绍"
+title: "C车牌识别项目介绍"
 date:   2023-10-23
 tags: [车牌,识别,检测,C++,驾驶]
 comments: true

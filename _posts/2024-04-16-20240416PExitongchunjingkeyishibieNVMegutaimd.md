@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PE系统纯净（可以识别NVMe固态）"
+title: "PE系统纯净可以识别NVMe固态"
 date:   2024-09-19
 tags: [PE,NVMe,系统,硬盘,固态]
 comments: true

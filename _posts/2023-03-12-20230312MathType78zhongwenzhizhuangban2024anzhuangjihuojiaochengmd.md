@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MathType 7.8中文直装版2024安装激活教程"
+title: "MathType 78中文直装版2024安装激活教程"
 date:   2022-02-13
 tags: [MathType,7.8,激活,教程,安装]
 comments: true

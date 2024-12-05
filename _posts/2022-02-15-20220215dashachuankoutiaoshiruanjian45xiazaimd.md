@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大傻串口调试软件4.5 下载"
+title: "大傻串口调试软件45 下载"
 date:   2023-09-27
 tags: [串口,调试,软件,4.5,下载]
 comments: true

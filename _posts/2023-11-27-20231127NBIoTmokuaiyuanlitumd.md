@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NB-IoT模块原理图"
+title: "NBIoT模块原理图"
 date:   2020-05-26
 tags: [NB,IoT,原理图,模块,联网]
 comments: true

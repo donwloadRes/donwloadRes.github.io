@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新手版超详细LoadRunner12完整安装+汉化过程"
+title: "新手版超详细LoadRunner12完整安装汉化过程"
 date:   2022-05-06
 tags: [安装,LoadRunner12,汉化,语言包,选择]
 comments: true

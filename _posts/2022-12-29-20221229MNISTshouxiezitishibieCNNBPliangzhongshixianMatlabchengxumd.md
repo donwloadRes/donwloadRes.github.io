@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNIST手写字体识别（CNN+BP两种实现）-Matlab程序"
+title: "MNIST手写字体识别CNNBP两种实现Matlab程序"
 date:   2020-11-11
 tags: [CNN,MNIST,BP,识别率,Matlab]
 comments: true

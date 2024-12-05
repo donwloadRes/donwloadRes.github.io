@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-Java 8.0.19 下载仓库"
+title: "MySQL ConnectorJava 8019 下载仓库"
 date:   2024-06-17
 tags: [19,8.0,MySQL,Java,mysql]
 comments: true

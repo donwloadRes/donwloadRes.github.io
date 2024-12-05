@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 900A-2012 装备安全性工作通用要求 资源下载"
+title: "GJB 900A2012 装备安全性工作通用要求 资源下载"
 date:   2023-12-08
 tags: [安全性,装备,2012,工作,GJB]
 comments: true

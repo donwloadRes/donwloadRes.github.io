@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装Ubuntu20.04+ROS+Cartographer指南"
+title: "安装Ubuntu2004ROSCartographer指南"
 date:   2020-10-13
 tags: [安装,ROS,Ubuntu,20.04,Cartographer]
 comments: true

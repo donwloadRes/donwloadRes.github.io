@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gstreamer处理USB摄像头(V4L2)数据(视频流)"
+title: "Gstreamer处理USB摄像头V4L2数据视频流"
 date:   2024-10-18
 tags: [Gstreamer,USB,摄像头,V4L2,视频流]
 comments: true

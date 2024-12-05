@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python+PyQt5 上位机界面设计示例"
+title: "PythonPyQt5 上位机界面设计示例"
 date:   2020-03-29
 tags: [PyQt5,Form,Python,控件,示例]
 comments: true

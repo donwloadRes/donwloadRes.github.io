@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用ESP8266开发板制作WiFi Killer（WiFi PWN）"
+title: "使用ESP8266开发板制作WiFi KillerWiFi PWN"
 date:   2022-11-23
 tags: [WiFi,ESP8266,固件,烧录,使用]
 comments: true

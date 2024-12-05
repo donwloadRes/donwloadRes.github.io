@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性系统理论第二版-郑大钟 资源下载"
+title: "线性系统理论第二版郑大钟 资源下载"
 date:   2022-01-06
 tags: [线性系统,大钟,理论,下载,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity UI实现模拟书籍：真实纸质书感与丝滑翻页动作"
+title: "Unity UI实现模拟书籍真实纸质书感与丝滑翻页动作"
 date:   2022-02-12
 tags: [UIBook,翻页,GameObject,Unity,canvas]
 comments: true

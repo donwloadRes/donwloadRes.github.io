@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL 1.1协议规范文档-中文版"
+title: "CXL 11协议规范文档中文版"
 date:   2023-11-07
 tags: [CXL,文档,协议,翻译,规范]
 comments: true

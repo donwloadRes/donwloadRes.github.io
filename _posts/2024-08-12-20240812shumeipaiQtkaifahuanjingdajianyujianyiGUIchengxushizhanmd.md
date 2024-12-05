@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派+Qt开发环境搭建与简易GUI程序实战"
+title: "树莓派Qt开发环境搭建与简易GUI程序实战"
 date:   2022-01-25
 tags: [树莓,Qt,GUI,LED,开发]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-AnyLabeling的yolov7-onnx自动标注模型"
+title: "XAnyLabeling的yolov7onnx自动标注模型"
 date:   2020-05-27
 tags: [标注,模型,配置文件,AnyLabeling,yolov7]
 comments: true

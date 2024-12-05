@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutomotiveSPICE V4.0 中文版下载"
+title: "AutomotiveSPICE V40 中文版下载"
 date:   2021-11-06
 tags: [AutomotiveSPICE,V4.0,中文版,下载,文件]
 comments: true

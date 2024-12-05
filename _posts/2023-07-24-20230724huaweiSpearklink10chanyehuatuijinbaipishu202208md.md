@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华为Spearklink1.0 产业化推进白皮书202208"
+title: "华为Spearklink10 产业化推进白皮书202208"
 date:   2021-12-01
 tags: [Spearklink1.0,白皮书,产业化,推进,华为]
 comments: true

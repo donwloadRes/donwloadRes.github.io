@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103ZET控制S2811-SM16703P驱动RGB全彩LED呼吸灯"
+title: "STM32F103ZET控制S2811SM16703P驱动RGB全彩LED呼吸灯"
 date:   2024-09-29
 tags: [LED,全彩,STM32F103ZET,RGB,芯片]
 comments: true

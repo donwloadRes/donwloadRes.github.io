@@ -1,6 +1,47 @@
 ---
 layout: post
-title: "微型HTTP服务器 - HttpMockServerTool"
+title: "微型HTTP服务器  HttpMockServerTool
+date   20220216
+tags HTTP模拟接口HttpMockServerTool服务器
+comments true
+author admin
+
+ 微型HTTP服务器  HttpMockServerTool
+
+ 概述
+
+HttpMockServerTool是一款轻量级的工具专为简化API测试和开发过程而设计它允许开发者及测试人员无需部署复杂的服务器环境即可快速模拟HTTP与HTTPS协议下的各种服务接口通过简单的配置您可以创建多种HTTP响应场景极大地提升了开发和调试的工作效率
+
+ 功能特点
+
+ 快速启动 轻松启动HTTPHTTPS服务即时模拟服务器接口
+ 灵活配置 支持自定义HTTP状态码响应头正文内容等满足不同模拟需求
+ 协议支持 完全兼容HTTP11和部分HTTP2特性以及SSLTLS加密连接
+ 脚本扩展 支持编写脚本来实现更复杂逻辑的响应适合高级模拟需求
+ 跨平台 基于Java或Nodejs等语言实现确保在多数操作系统上都能运行
+ 文档生成 自动或手动生成接口文档方便团队协作
+
+ 快速入门
+
+1 下载 从仓库的Release页面获取最新版本的压缩包
+2 解压 解压缩到您本地的合适目录
+3 配置 编辑配置文件来设定您需要模拟的接口细节如URL路径响应内容等
+4 启动 运行启动脚本或应用程序HttpMockServerTool即开始监听指定端口
+5 测试 使用Postmancurl或您的应用来访问这些模拟的接口进行测试
+
+ 示例
+
+假设您有一个API接口apiuserinfo您想要模拟返回一个成功的用户信息JSON在配置文件中设置该接口的相关字段例如
+
+
+
+    path apiuserinfo
+    method GET
+    status 200
+    headers 
+        ContentType applicationjson
+    
+    body userId 1 username TestUser"
 date:   2022-02-16
 tags: [HTTP,模拟,接口,HttpMockServerTool,服务器]
 comments: true

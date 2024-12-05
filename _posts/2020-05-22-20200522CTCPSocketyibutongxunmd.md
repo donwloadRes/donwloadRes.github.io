@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP Socket异步通讯"
+title: "C TCP Socket异步通讯"
 date:   2020-10-06
 tags: [示例,异步,NET,服务器,通讯]
 comments: true

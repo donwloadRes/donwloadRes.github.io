@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Winform录屏录像工具"
+title: "C Winform录屏录像工具"
 date:   2022-05-31
 tags: [C#,音频,视频,录制,录屏]
 comments: true

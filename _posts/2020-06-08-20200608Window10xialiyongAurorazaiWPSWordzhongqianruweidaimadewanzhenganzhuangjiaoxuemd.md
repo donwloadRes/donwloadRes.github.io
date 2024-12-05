@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Window10下利用Aurora在WPS-Word中嵌入伪代码的完整安装教学"
+title: "Window10下利用Aurora在WPSWord中嵌入伪代码的完整安装教学"
 date:   2020-02-11
 tags: [Aurora,安装,教程,Word,代码]
 comments: true

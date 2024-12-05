@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three.js 精简小程序版源码"
+title: "Threejs 精简小程序版源码"
 date:   2021-02-09
 tags: [程序,源码,示例,Three,js]
 comments: true

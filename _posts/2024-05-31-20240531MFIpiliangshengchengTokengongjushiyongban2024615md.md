@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MFI批量生成Token工具试用版 2024.6.15"
+title: "MFI批量生成Token工具试用版 2024615"
 date:   2020-08-10
 tags: [Token,生成,工具,MFI,试用版]
 comments: true

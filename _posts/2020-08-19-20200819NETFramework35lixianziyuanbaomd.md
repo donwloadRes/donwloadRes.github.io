@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET Framework 3.5 离线资源包"
+title: "NET Framework 35 离线资源包"
 date:   2021-10-04
 tags: [NET,Framework,3.5,安装,离线]
 comments: true

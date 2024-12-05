@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "藏经阁-持续交付2.0 ——业务引领的DevOps"
+title: "藏经阁持续交付20 业务引领的DevOps"
 date:   2023-12-13
 tags: [2.0,DevOps,交付,持续,藏经阁]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口调试工具xcom V2.0"
+title: "串口调试工具xcom V20"
 date:   2020-04-07
 tags: [串口,调试,发送,xcom,V2.0]
 comments: true

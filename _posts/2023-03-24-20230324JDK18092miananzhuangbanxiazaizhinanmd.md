@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK 1.8.0_92 免安装版下载指南"
+title: "JDK 18092 免安装版下载指南"
 date:   2021-10-24
 tags: [JDK,92,1.8,环境变量,安装版]
 comments: true

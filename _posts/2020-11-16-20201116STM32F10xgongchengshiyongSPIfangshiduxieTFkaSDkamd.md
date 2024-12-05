@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F10x工程：使用SPI方式读写TF卡-SD卡"
+title: "STM32F10x工程使用SPI方式读写TF卡SD卡"
 date:   2024-11-22
 tags: [TF,SD,MEng,txt,SPI]
 comments: true

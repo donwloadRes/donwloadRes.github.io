@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习 PyTorch 手写数字识别 MNIST 数据集 解析+详细注释"
+title: "深度学习 PyTorch 手写数字识别 MNIST 数据集 解析详细注释"
 date:   2021-10-31
 tags: [PyTorch,手写,注释,MNIST,代码]
 comments: true

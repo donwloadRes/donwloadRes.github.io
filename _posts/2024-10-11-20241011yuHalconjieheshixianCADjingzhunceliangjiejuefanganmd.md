@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ｃ#与Halcon结合实现CAD精准测量解决方案"
+title: "与Halcon结合实现CAD精准测量解决方案"
 date:   2024-07-06
 tags: [CAD,Halcon,C#,图像处理,测量]
 comments: true

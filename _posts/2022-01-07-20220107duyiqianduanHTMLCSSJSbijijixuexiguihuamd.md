@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "渡一前端HTML、CSS、JS笔记及学习规划"
+title: "渡一前端HTMLCSSJS笔记及学习规划"
 date:   2020-01-27
 tags: [笔记,HTML,CSS,学习,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.11ax 2021标准文档下载"
+title: "IEEE 80211ax 2021标准文档下载"
 date:   2020-10-08
 tags: [文档,802.11,ax,2021,局域网]
 comments: true

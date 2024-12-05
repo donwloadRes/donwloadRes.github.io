@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KUKA KST_RSI（ROBOTSENSORINTERFACE）资料与例程"
+title: "KUKA KSTRSIROBOTSENSORINTERFACE资料与例程"
 date:   2023-01-31
 tags: [例程,KST,RSI,机器人,接口]
 comments: true

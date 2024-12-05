@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SeaTunnel及SeaTunnel Web部署指南(小白版)"
+title: "SeaTunnel及SeaTunnel Web部署指南小白版"
 date:   2021-07-20
 tags: [SeaTunnel,Web,指南,配置,安装]
 comments: true

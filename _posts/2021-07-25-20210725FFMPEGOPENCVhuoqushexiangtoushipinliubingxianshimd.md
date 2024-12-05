@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFMPEG+OPENCV获取摄像头视频流并显示"
+title: "FFMPEGOPENCV获取摄像头视频流并显示"
 date:   2023-12-09
 tags: [视频流,摄像头,FFMPEG,OPENCV,获取]
 comments: true

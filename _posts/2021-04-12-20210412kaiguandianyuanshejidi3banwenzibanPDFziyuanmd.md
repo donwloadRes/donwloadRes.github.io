@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开关电源设计（第3版）文字版 PDF 资源"
+title: "开关电源设计第3版文字版 PDF 资源"
 date:   2020-07-07
 tags: [开关电源,设计,PDF,文字版,资源]
 comments: true

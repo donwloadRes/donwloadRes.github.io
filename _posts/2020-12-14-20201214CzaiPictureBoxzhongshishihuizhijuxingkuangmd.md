@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 在 PictureBox 中实时绘制矩形框"
+title: "C 在 PictureBox 中实时绘制矩形框"
 date:   2022-07-12
 tags: [PictureBox,矩形框,绘制,实时,C#]
 comments: true

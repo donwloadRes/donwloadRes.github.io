@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智能自动浇花灌溉系统：Proteus仿真与资源详解"
+title: "智能自动浇花灌溉系统Proteus仿真与资源详解"
 date:   2021-02-04
 tags: [仿真,Proteus,STM32,单片机,Keil5]
 comments: true

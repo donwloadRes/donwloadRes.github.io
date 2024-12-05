@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT-BIH心电数据库txt格式资源介绍"
+title: "MITBIH心电数据库txt格式资源介绍"
 date:   2024-09-29
 tags: [MIT,BIH,txt,心电,数据库]
 comments: true

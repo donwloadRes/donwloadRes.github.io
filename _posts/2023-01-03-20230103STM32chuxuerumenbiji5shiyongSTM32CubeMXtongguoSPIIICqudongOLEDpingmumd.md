@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32初学入门笔记（5）：使用STM32CubeMX通过SPI，IIC驱动OLED屏幕"
+title: "STM32初学入门笔记5使用STM32CubeMX通过SPIIIC驱动OLED屏幕"
 date:   2022-07-14
 tags: [OLED,STM32CubeMX,SPI,IIC,驱动]
 comments: true

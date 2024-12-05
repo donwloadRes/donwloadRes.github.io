@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "api-ms-win-core-console-l1-2-0.zip 资源说明"
+title: "apimswincoreconsolel120zip 资源说明"
 date:   2021-09-15
 tags: [api,ms,win,core,console]
 comments: true

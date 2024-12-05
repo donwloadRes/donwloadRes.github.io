@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学生管理系统（Web网页版）"
+title: "Python学生管理系统Web网页版"
 date:   2023-10-13
 tags: [项目,Python,数据库,Web,Django]
 comments: true

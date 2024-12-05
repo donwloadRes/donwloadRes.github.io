@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notepad++ 插件集合"
+title: "Notepad 插件集合"
 date:   2024-09-23
 tags: [插件,文件,代码,Notepad,++]
 comments: true

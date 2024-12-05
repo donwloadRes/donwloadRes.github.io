@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[练习题+答案]Harmony OS应用开发者高级认证"
+title: "练习题答案Harmony OS应用开发者高级认证"
 date:   2020-05-26
 tags: [Harmony,OS,开发者,练习题,认证]
 comments: true

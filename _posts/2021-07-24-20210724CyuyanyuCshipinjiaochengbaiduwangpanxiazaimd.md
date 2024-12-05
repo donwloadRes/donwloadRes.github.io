@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言与C++视频教程百度网盘下载"
+title: "C语言与C视频教程百度网盘下载"
 date:   2024-01-24
 tags: [C语言,C++,视频教程,编程,教程]
 comments: true

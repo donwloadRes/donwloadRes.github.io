@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 USB-HID键盘项目"
+title: "STM32 USBHID键盘项目"
 date:   2021-08-25
 tags: [USB,STM32,HID,键盘,项目]
 comments: true

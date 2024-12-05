@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSSE程序操作手册(中文版)（很强大）"
+title: "PSSE程序操作手册中文版很强大"
 date:   2024-07-01
 tags: [PSSE,操作手册,手册,使用,PDF]
 comments: true

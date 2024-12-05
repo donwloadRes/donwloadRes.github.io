@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Verilog代码适配Xilinx三速以太网UDP_IP"
+title: "Verilog代码适配Xilinx三速以太网UDPIP"
 date:   2020-04-09
 tags: [Xilinx,IP,以太网,MAC,三速]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Boot + Elasticsearch 实现非结构化数据全文检索"
+title: "Spring Boot  Elasticsearch 实现非结构化数据全文检索"
 date:   2023-10-02
 tags: [Elasticsearch,Spring,Boot,全文检索,Kibana]
 comments: true

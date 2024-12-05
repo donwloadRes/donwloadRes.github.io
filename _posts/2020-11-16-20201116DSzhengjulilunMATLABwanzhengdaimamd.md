@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D-S证据理论 MATLAB完整代码"
+title: "DS证据理论 MATLAB完整代码"
 date:   2024-08-04
 tags: [代码,MATLAB,证据,理论,完整]
 comments: true

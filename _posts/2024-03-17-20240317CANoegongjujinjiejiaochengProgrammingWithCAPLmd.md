@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe工具进阶教程：ProgrammingWithCAPL"
+title: "CANoe工具进阶教程ProgrammingWithCAPL"
 date:   2023-12-24
 tags: [CANoe,CAPL,编程,工具,资源]
 comments: true

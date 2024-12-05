@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "noip所有算法详解(非常全面)"
+title: "noip所有算法详解非常全面"
 date:   2024-01-17
 tags: [算法,竞赛,NOIP,编程,学习]
 comments: true

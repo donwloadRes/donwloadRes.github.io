@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源项目you-get的下载和使用指南"
+title: "开源项目youget的下载和使用指南"
 date:   2022-05-06
 tags: [get,下载,视频,Python,安装]
 comments: true

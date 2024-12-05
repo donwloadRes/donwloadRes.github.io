@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC2540蓝牙开发新手教程：IAR安装指南"
+title: "CC2540蓝牙开发新手教程IAR安装指南"
 date:   2020-12-18
 tags: [IAR,CC2540,蓝牙,安装,开发]
 comments: true

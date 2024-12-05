@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 烟雾、火焰传感器与继电器控制代码"
+title: "STM32F103 烟雾火焰传感器与继电器控制代码"
 date:   2020-08-14
 tags: [引脚,火焰,传感器,烟雾,继电器]
 comments: true

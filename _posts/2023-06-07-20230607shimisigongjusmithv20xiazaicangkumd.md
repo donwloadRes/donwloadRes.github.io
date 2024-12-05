@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "史密斯工具smith_v2.0 下载仓库"
+title: "史密斯工具smithv20 下载仓库"
 date:   2024-05-17
 tags: [v2.0,smith,史密斯,工具,天线]
 comments: true

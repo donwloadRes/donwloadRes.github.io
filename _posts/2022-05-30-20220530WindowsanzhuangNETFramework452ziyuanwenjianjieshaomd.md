@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 安装 .NET Framework 4.5.2 资源文件介绍"
+title: "Windows 安装 NET Framework 452 资源文件介绍"
 date:   2020-03-08
 tags: [Windows,NET,Framework,4.5,安装]
 comments: true

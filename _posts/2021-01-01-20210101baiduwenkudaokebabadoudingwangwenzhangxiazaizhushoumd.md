@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "百度文库、道客巴巴、豆丁网文章下载助手"
+title: "百度文库道客巴巴豆丁网文章下载助手"
 date:   2020-03-31
 tags: [下载,文章,文库,道客,百度]
 comments: true

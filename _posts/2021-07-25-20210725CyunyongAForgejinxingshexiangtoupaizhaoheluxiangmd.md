@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#运用AForge进行摄像头拍照和录像"
+title: "C运用AForge进行摄像头拍照和录像"
 date:   2023-01-23
 tags: [录像,源码,C#,拍照,AForge]
 comments: true

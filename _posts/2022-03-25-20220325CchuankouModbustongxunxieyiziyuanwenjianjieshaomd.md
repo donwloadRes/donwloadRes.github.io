@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口Modbus通讯协议资源文件介绍"
+title: "C串口Modbus通讯协议资源文件介绍"
 date:   2021-06-06
 tags: [串口,Modbus,RTU,ASCII,模式]
 comments: true

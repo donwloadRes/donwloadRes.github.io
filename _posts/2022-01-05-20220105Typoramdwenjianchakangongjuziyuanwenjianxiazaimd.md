@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typora（md文件查看工具）资源文件下载"
+title: "Typoramd文件查看工具资源文件下载"
 date:   2023-10-12
 tags: [Typora,文件,查看,工具,md]
 comments: true

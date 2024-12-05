@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G 3GPP R15 38.211物理层复用和信道编码（中文版）"
+title: "5G 3GPP R15 38211物理层复用和信道编码中文版"
 date:   2024-05-15
 tags: [5G,信道编码,物理层,复用,文件]
 comments: true

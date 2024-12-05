@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习系列10：基于Python构建机器学习Web应用（新）"
+title: "机器学习系列10基于Python构建机器学习Web应用新"
 date:   2023-03-01
 tags: [Web,模型,学习,机器,文件]
 comments: true

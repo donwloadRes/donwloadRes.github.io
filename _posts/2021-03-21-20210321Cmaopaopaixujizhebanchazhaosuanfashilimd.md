@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++冒泡排序及折半查找算法示例"
+title: "C冒泡排序及折半查找算法示例"
 date:   2024-02-20
 tags: [数组,查找,折半,冒泡排序,C++]
 comments: true

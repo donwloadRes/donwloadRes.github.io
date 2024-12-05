@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 450A-2004 装备可靠性工作通用要求 下载仓库"
+title: "GJB 450A2004 装备可靠性工作通用要求 下载仓库"
 date:   2024-07-30
 tags: [可靠性,2004,装备,仓库,下载]
 comments: true

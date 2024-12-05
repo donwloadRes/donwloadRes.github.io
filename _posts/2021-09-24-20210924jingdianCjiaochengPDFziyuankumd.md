@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典C++教程PDF资源库"
+title: "经典C教程PDF资源库"
 date:   2022-12-12
 tags: [C++,编程,PDF,教程,资源库]
 comments: true

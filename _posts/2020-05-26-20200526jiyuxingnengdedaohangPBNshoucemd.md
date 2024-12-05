@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于性能的导航（PBN）手册"
+title: "基于性能的导航PBN手册"
 date:   2023-02-26
 tags: [PBN,手册,导航,基于,性能]
 comments: true

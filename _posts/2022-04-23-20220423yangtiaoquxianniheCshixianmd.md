@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "样条曲线拟合 C++ 实现"
+title: "样条曲线拟合 C 实现"
 date:   2023-12-30
 tags: [曲线拟合,样条,C++,代码,注释]
 comments: true

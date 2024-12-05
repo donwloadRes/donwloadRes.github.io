@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux（红帽）操作系统9.0版本学习资料"
+title: "Linux红帽操作系统90版本学习资料"
 date:   2020-08-05
 tags: [Linux,操作系统,学习,管理,文件]
 comments: true

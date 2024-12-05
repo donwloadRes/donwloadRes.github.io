@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子元器件识别(图文结合) PDF资源介绍"
+title: "电子元器件识别图文结合 PDF资源介绍"
 date:   2021-02-24
 tags: [元器件,电子,识别,PDF,图文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows：Arduino IDE 开发环境配置【保姆级】"
+title: "WindowsArduino IDE 开发环境配置保姆级"
 date:   2023-07-28
 tags: [Arduino,开发板,IDE,安装,Windows]
 comments: true

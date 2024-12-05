@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "msvcr110.dll 文件下载与安装指南"
+title: "msvcr110dll 文件下载与安装指南"
 date:   2020-11-16
 tags: [msvcr110,dll,Windows,复制到,系统]
 comments: true

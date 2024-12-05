@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter 5.6.2 下载安装及Java环境配置指南"
+title: "JMeter 562 下载安装及Java环境配置指南"
 date:   2020-09-06
 tags: [JMeter,Java,JAVA,测试计划,测试]
 comments: true

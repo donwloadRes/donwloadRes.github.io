@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "徕卡全站仪GeoCOM_Manual 中文版"
+title: "徕卡全站仪GeoCOMManual 中文版"
 date:   2023-08-30
 tags: [全站仪,GeoCOM,接口,Manual,交互]
 comments: true

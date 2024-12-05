@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Kintex-7 FPGA视频案例介绍"
+title: "Xilinx Kintex7 FPGA视频案例介绍"
 date:   2020-09-14
 tags: [HDMI,FPGA,视频,Xilinx,Kintex]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jni4net 0.8.8.0 资源文件下载"
+title: "jni4net 0880 资源文件下载"
 date:   2023-04-22
 tags: [jni4net,8.0,0.8,下载,文件]
 comments: true

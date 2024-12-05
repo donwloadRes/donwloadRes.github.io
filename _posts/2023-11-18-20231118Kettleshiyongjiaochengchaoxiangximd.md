@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kettle使用教程(超详细)"
+title: "Kettle使用教程超详细"
 date:   2022-01-09
 tags: [Kettle,教程,资源库,ETL,JDK]
 comments: true

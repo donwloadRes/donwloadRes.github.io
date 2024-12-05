@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入解析Windows操作系统第6版下册-内存管理资源下载"
+title: "深入解析Windows操作系统第6版下册内存管理资源下载"
 date:   2022-06-10
 tags: [Windows,内存,操作系统,下册,解析]
 comments: true

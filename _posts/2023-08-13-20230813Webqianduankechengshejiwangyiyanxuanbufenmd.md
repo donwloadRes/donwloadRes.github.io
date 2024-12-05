@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web前端课程设计：网易严选（部分）"
+title: "Web前端课程设计网易严选部分"
 date:   2021-07-09
 tags: [课程设计,Web,严选,文档,首页]
 comments: true

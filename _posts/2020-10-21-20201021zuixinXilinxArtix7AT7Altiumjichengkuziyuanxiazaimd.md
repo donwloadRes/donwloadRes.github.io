@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新Xilinx Artix-7 AT7 Altium集成库资源下载"
+title: "最新Xilinx Artix7 AT7 Altium集成库资源下载"
 date:   2023-07-27
 tags: [原理图,Xilinx,Artix,AT7,Altium]
 comments: true

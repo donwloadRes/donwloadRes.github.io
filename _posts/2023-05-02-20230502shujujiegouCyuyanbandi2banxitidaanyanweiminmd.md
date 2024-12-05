@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构(C语言版)第2版习题答案—严蔚敏"
+title: "数据结构C语言版第2版习题答案严蔚敏"
 date:   2023-04-15
 tags: [数据结构,习题,数据,元素,答案]
 comments: true

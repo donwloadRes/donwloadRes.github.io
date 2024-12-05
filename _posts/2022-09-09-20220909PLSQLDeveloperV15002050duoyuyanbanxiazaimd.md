@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PL-SQL Developer V15.0.0.2050 多语言版下载"
+title: "PLSQL Developer V15002050 多语言版下载"
 date:   2024-02-17
 tags: [0.2050,语言版,V15.0,下载,官方]
 comments: true

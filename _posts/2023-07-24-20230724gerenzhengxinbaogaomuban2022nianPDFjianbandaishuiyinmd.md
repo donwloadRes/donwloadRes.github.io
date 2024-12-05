@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "个人征信报告模板(2022年PDF简版带水印)"
+title: "个人征信报告模板2022年PDF简版带水印"
 date:   2023-12-18
 tags: [模板,PDF,2022,填写,水印]
 comments: true

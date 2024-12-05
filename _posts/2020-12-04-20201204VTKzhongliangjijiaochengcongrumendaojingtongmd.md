@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK 重量级教程 - 从入门到精通"
+title: "VTK 重量级教程  从入门到精通"
 date:   2021-08-31
 tags: [VTK,可视化,教程,算法,数据]
 comments: true

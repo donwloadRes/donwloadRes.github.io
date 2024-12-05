@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H.264官方中文版PDF资源"
+title: "H264官方中文版PDF资源"
 date:   2021-09-17
 tags: [H.264,视频,文档,中文版,编码]
 comments: true

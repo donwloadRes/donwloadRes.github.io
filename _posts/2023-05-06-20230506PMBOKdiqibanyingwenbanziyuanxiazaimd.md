@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PMBOK 第七版（英文版）资源下载"
+title: "PMBOK 第七版英文版资源下载"
 date:   2022-12-22
 tags: [第七版,PMBOK,项目管理,英文版,下载]
 comments: true

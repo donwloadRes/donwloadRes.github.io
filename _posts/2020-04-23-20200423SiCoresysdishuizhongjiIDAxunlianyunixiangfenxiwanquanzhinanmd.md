@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SiCore.sys 滴水中级 IDA训练与逆向分析完全指南"
+title: "SiCoresys 滴水中级 IDA训练与逆向分析完全指南"
 date:   2023-05-13
 tags: [SiCore,sys,逆向,IDA,Pro]
 comments: true

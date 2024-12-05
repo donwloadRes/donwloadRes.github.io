@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hertz理论--接触分析计算"
+title: "Hertz理论接触分析计算"
 date:   2022-05-06
 tags: [Hertz,接触,文件,理论,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "多目标优化算法(四) NSGA-III 的代码实现（MATLAB）"
+title: "多目标优化算法四 NSGAIII 的代码实现MATLAB"
 date:   2020-03-19
 tags: [III,算法,NSGA,MATLAB,优化]
 comments: true

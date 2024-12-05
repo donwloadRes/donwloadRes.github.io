@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "v4l2-ctl工具资源文件介绍"
+title: "v4l2ctl工具资源文件介绍"
 date:   2021-09-21
 tags: [v4l2,ctl,命令,设备,摄像头]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 技术标准（完整版）下载仓库"
+title: "IEC 技术标准完整版下载仓库"
 date:   2022-01-23
 tags: [IEC,仓库,文件,电工,资源]
 comments: true

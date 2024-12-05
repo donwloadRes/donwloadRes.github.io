@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RH850-F1L系列GHS MULTI开发环境资源包"
+title: "RH850F1L系列GHS MULTI开发环境资源包"
 date:   2020-11-24
 tags: [RH850,F1L,系列,示例,MULTI]
 comments: true

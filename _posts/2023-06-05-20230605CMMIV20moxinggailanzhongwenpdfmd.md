@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMMI-V2.0模型概览（中文）.pdf"
+title: "CMMIV20模型概览中文pdf"
 date:   2024-07-24
 tags: [CMMI,V2.0,概览,文档,实践]
 comments: true

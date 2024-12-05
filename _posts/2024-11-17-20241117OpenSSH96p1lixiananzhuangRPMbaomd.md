@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 9.6p1 离线安装 RPM 包"
+title: "OpenSSH 96p1 离线安装 RPM 包"
 date:   2023-08-28
 tags: [OpenSSH,p1,安装,离线,9.6]
 comments: true

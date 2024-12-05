@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32单片机的直流电机PWM调速（Proteus仿真+程序）"
+title: "基于STM32单片机的直流电机PWM调速Proteus仿真程序"
 date:   2021-08-27
 tags: [仿真,Proteus,PWM,调速,单片机]
 comments: true

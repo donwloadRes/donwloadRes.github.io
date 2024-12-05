@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "倍福TwinCAT3上位机与PLC通信测试(ADS通信) 资源文件介绍"
+title: "倍福TwinCAT3上位机与PLC通信测试ADS通信 资源文件介绍"
 date:   2024-08-25
 tags: [PLC,上位,通信,代码,TwinCAT3]
 comments: true

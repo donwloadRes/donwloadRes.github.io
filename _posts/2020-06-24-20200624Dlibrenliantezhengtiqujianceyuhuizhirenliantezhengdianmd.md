@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dlib人脸特征提取：检测与绘制人脸特征点"
+title: "Dlib人脸特征提取检测与绘制人脸特征点"
 date:   2023-03-29
 tags: [人脸,Dlib,特征,检测,绘制]
 comments: true

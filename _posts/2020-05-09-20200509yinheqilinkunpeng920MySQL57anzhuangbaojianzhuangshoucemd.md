@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟鲲鹏920 MySQL 5.7 安装包及安装手册"
+title: "银河麒麟鲲鹏920 MySQL 57 安装包及安装手册"
 date:   2020-12-31
 tags: [MySQL,安装,安装包,5.7,手册]
 comments: true

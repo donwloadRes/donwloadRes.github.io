@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "keil_STM32F7系列芯片支持包"
+title: "keilSTM32F7系列芯片支持包"
 date:   2021-05-30
 tags: [Keil,STM32F7,支持,安装,IDE]
 comments: true

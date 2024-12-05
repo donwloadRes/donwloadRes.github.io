@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全网最新、最详细的使用BurpSuite验证码识别绕过爆破教程（2023最新）"
+title: "全网最新最详细的使用BurpSuite验证码识别绕过爆破教程2023最新"
 date:   2021-01-16
 tags: [验证码,教程,爆破,插件,识别]
 comments: true

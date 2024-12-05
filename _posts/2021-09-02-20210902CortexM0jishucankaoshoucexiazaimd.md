@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cortex-M0技术参考手册下载"
+title: "CortexM0技术参考手册下载"
 date:   2020-12-03
 tags: [Cortex,M0,参考手册,手册,处理器]
 comments: true

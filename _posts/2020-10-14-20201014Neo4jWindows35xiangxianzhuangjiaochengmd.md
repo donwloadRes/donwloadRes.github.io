@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neo4j Windows 3.5 详细安装教程"
+title: "Neo4j Windows 35 详细安装教程"
 date:   2021-05-13
 tags: [Neo4j,安装,教程,Windows,3.5]
 comments: true

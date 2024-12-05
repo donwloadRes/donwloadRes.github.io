@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VTK 示例文件 VTK_Example"
+title: "VTK 示例文件 VTKExample"
 date:   2020-11-30
 tags: [VTK,示例,编译,版本,文件]
 comments: true

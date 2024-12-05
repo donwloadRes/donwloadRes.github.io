@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows10环境下Python 3.11 + PyTorch 2.01 + CUDA 11.8安装配置指南"
+title: "Windows10环境下Python 311  PyTorch 201  CUDA 118安装配置指南"
 date:   2020-03-04
 tags: [CUDA,安装,Python,PyTorch,版本]
 comments: true

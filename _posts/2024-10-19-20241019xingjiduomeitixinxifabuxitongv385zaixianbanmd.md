@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "星际多媒体信息发布系统 v3.85 在线版"
+title: "星际多媒体信息发布系统 v385 在线版"
 date:   2024-02-01
 tags: [多媒体信息,软件,v3.85,在线,多媒体]
 comments: true

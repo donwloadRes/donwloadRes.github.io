@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ti C2000系列 DSP C2000助手 - 寄存器查询工具"
+title: "Ti C2000系列 DSP C2000助手  寄存器查询工具"
 date:   2022-06-25
 tags: [C2000,寄存器,助手,查询,Ti]
 comments: true

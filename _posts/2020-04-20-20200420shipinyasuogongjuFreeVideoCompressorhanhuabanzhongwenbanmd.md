@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频压缩工具：Free Video Compressor 汉化版-中文版"
+title: "视频压缩工具Free Video Compressor 汉化版中文版"
 date:   2020-03-28
 tags: [视频,压缩,视频文件,比特率,视频压缩]
 comments: true

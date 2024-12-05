@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【开发工具】Window下MinGW下载安装gcc, g++编译器指南"
+title: "开发工具Window下MinGW下载安装gcc g编译器指南"
 date:   2020-05-13
 tags: [gcc,MinGW,---,++,编译]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【正点原子STM32】STM32CubeMX入门指南"
+title: "正点原子STM32STM32CubeMX入门指南"
 date:   2023-06-14
 tags: [STM32CubeMX,STM32,Java,初始化,安装]
 comments: true

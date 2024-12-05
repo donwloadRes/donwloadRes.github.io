@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fama-MacBeth回归Python模板"
+title: "FamaMacBeth回归Python模板"
 date:   2022-06-06
 tags: [模板,Fama,MacBeth,Python,代入]
 comments: true

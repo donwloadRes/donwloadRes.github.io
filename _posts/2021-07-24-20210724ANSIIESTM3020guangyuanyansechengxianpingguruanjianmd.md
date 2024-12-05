@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSI-IES TM-30-20 光源颜色呈现评估软件"
+title: "ANSIIES TM3020 光源颜色呈现评估软件"
 date:   2022-08-27
 tags: [光源,软件,30,IES,TM]
 comments: true

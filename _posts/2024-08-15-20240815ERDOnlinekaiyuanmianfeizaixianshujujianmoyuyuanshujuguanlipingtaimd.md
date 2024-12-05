@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ERD Online：开源免费在线数据建模与元数据管理平台"
+title: "ERD Online开源免费在线数据建模与元数据管理平台"
 date:   2022-12-02
 tags: [数据,查询,ERD,Online,SQL]
 comments: true

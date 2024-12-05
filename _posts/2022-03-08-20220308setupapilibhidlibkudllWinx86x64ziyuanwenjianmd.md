@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "setupapi.lib & hid.lib 库-dll-Win-x86-x64 资源文件"
+title: "setupapilib  hidlib 库dllWinx86x64 资源文件"
 date:   2023-10-28
 tags: [lib,setupapi,文件,hid,Windows]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信小程序开发教程（共90课）资源下载"
+title: "微信小程序开发教程共90课资源下载"
 date:   2023-06-17
 tags: [微信,程序开发,教程,90,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LoRa开发资源： cola_os_lora.zip"
+title: "LoRa开发资源 colaoslorazip"
 date:   2023-05-14
 tags: [LoRa,cola,os,lora,zip]
 comments: true

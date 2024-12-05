@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华研英语四级核心词汇（免费下载，无须积分）"
+title: "华研英语四级核心词汇免费下载无须积分"
 date:   2021-11-11
 tags: [词汇,四级,下载,英语,华研]
 comments: true

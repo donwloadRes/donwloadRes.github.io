@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文ATLAS-PM4000使用手册-User-guide"
+title: "中文ATLASPM4000使用手册Userguide"
 date:   2022-06-14
 tags: [本手册,系统,使用手册,ATLAS,PM4000]
 comments: true

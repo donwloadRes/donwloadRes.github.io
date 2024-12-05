@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "地球最好用屏幕画线工具 - Pointofix 汉化版"
+title: "地球最好用屏幕画线工具  Pointofix 汉化版"
 date:   2024-10-01
 tags: [Pointofix,屏幕,汉化包,标注,画线]
 comments: true

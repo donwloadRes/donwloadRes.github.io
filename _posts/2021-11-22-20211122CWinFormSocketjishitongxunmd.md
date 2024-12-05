@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm Socket 即时通讯"
+title: "C WinForm Socket 即时通讯"
 date:   2023-07-20
 tags: [Socket,客户端,即时通讯,C#,服务端]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "兆易创新GD32F103VBT6-START最小系统开发板PDF原理图"
+title: "兆易创新GD32F103VBT6START最小系统开发板PDF原理图"
 date:   2022-09-17
 tags: [原理图,PDF,GD32F103VBT6,START,开发板]
 comments: true

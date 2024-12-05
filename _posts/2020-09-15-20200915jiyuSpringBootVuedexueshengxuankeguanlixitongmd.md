@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue的学生选课管理系统"
+title: "基于SpringBootVue的学生选课管理系统"
 date:   2021-03-22
 tags: [Vue,数据库,课程,学生,选课]
 comments: true

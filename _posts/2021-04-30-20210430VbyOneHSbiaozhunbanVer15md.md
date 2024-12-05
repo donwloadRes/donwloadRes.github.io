@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "V-by-One® HS 标准版 Ver.1.5"
+title: "VbyOne HS 标准版 Ver15"
 date:   2021-10-18
 tags: [HS,传输,标准版,Ver.1,高清]
 comments: true

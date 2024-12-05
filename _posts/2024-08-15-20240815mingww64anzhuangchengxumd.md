@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mingw-w64 安装程序"
+title: "mingww64 安装程序"
 date:   2022-03-06
 tags: [w64,安装,MinGW,mingw,安装程序]
 comments: true

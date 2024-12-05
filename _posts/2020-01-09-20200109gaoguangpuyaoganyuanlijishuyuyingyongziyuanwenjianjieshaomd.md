@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高光谱遥感原理、技术与应用资源文件介绍"
+title: "高光谱遥感原理技术与应用资源文件介绍"
 date:   2021-05-04
 tags: [遥感,光谱,应用,文件,资源]
 comments: true

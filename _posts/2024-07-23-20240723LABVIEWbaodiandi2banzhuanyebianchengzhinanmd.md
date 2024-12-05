@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LABVIEW宝典 第2版 - 专业编程指南"
+title: "LABVIEW宝典 第2版  专业编程指南"
 date:   2023-03-25
 tags: [LABVIEW,编程,宝典,确保您,实践]
 comments: true

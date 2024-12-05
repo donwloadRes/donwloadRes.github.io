@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 跑马灯实验报告 - GPIO口操作"
+title: "STM32F103 跑马灯实验报告  GPIO口操作"
 date:   2021-03-17
 tags: [GPIO,STM32,STM32F103,LED,实验报告]
 comments: true

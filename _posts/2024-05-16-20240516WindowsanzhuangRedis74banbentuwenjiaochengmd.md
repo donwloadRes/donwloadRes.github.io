@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 安装Redis7.4版本图文教程"
+title: "Windows 安装Redis74版本图文教程"
 date:   2022-10-30
 tags: [Redis,redis,安装,Windows,7.4]
 comments: true

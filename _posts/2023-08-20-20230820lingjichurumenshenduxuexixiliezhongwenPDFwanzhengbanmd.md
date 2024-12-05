@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础入门深度学习(系列) 中文PDF完整版"
+title: "零基础入门深度学习系列 中文PDF完整版"
 date:   2022-05-10
 tags: [入门,深度,学习,基础,完整版]
 comments: true

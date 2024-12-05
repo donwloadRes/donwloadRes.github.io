@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATK-AS608指纹识别模块使用说明(探索者F4版)_AN1601C1"
+title: "ATKAS608指纹识别模块使用说明探索者F4版AN1601C1"
 date:   2024-09-04
 tags: [指纹识别,模块,探索者,ATK,AS608]
 comments: true

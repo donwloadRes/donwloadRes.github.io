@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pdffactory pro8.0虚拟打印机（附注册码）"
+title: "pdffactory pro80虚拟打印机附注册码"
 date:   2020-01-02
 tags: [PDF,打印机,文档,文件,打印]
 comments: true

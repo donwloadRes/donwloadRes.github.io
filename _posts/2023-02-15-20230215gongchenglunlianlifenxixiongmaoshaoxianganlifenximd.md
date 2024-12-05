@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "工程伦理案例分析：“熊猫烧香”案例分析"
+title: "工程伦理案例分析熊猫烧香案例分析"
 date:   2020-02-26
 tags: [伦理,案例,工程,熊猫,烧香]
 comments: true

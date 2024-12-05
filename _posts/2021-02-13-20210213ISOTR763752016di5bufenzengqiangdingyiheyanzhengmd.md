@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO_TR_7637-5：2016 第 5 部分：增强定义和验证"
+title: "ISOTR763752016 第 5 部分增强定义和验证"
 date:   2021-08-14
 tags: [ISO,7637,验证,脉冲,发生器]
 comments: true

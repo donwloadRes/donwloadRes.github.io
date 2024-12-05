@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子Wincc7.5教程 - 趋势控件应用之单条趋势切换"
+title: "西门子Wincc75教程  趋势控件应用之单条趋势切换"
 date:   2023-02-24
 tags: [控件,Wincc7.5,趋势,单条,切换]
 comments: true

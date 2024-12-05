@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robotics Toolbox 10.4 for MATLAB(最新版)"
+title: "Robotics Toolbox 104 for MATLAB最新版"
 date:   2024-07-18
 tags: [MATLAB,工具箱,机器人,Robotics,Toolbox]
 comments: true

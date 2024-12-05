@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HLA-RTI 分布式仿真初学者指南"
+title: "HLARTI 分布式仿真初学者指南"
 date:   2022-02-10
 tags: [分布式,仿真,指南,初学者,学习]
 comments: true

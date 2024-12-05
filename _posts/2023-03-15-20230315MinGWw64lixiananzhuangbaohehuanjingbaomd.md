@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW-w64离线安装包和环境包"
+title: "MinGWw64离线安装包和环境包"
 date:   2024-06-10
 tags: [MinGW,w64,离线,安装包,环境]
 comments: true

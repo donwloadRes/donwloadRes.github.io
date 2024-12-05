@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网络嗅探器的设计与实现-使用Winpcap库"
+title: "网络嗅探器的设计与实现使用Winpcap库"
 date:   2022-05-10
 tags: [Winpcap,网络,嗅探器,Visual,Studio]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB128A-97 半导体分立器件试验方法"
+title: "GJB128A97 半导体分立器件试验方法"
 date:   2023-02-13
 tags: [器件,试验,分立,GJB128A,97]
 comments: true

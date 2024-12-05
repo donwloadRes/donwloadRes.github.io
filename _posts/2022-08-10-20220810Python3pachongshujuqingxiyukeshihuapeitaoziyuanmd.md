@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python3爬虫、数据清洗与可视化配套资源"
+title: "Python3爬虫数据清洗与可视化配套资源"
 date:   2024-06-30
 tags: [爬虫,可视化,代码,Python,数据]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MQ-2烟雾浓度传感器（STM32F103）"
+title: "MQ2烟雾浓度传感器STM32F103"
 date:   2024-09-16
 tags: [传感器,MQ,STM32F103,微控制器,烟雾]
 comments: true

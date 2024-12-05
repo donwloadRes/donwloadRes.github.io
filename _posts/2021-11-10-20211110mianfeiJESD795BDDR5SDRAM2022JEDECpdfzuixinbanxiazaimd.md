@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "免费 JESD79-5B DDR5 SDRAM-2022 JEDEC.pdf 最新版下载"
+title: "免费 JESD795B DDR5 SDRAM2022 JEDECpdf 最新版下载"
 date:   2023-12-26
 tags: [DDR5,SDRAM,2022,最新版,JESD79]
 comments: true

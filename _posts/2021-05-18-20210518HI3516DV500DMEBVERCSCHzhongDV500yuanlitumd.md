@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HI3516DV500DMEB-VER-C-SCH 中 DV500原理图"
+title: "HI3516DV500DMEBVERCSCH 中 DV500原理图"
 date:   2023-06-24
 tags: [原理图,设计,芯片,HI3516DV500DMEB,HI3516DV500]
 comments: true

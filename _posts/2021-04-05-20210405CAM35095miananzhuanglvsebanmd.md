@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAM350 9.5 免安装绿色版"
+title: "CAM350 95 免安装绿色版"
 date:   2020-06-22
 tags: [CAM350,9.5,绿色版,Gerber,安装]
 comments: true

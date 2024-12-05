@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东芝MIPI转LVDS芯片TC358746-TC358748完整资料包"
+title: "东芝MIPI转LVDS芯片TC358746TC358748完整资料包"
 date:   2020-09-23
 tags: [芯片,MIPI,LVDS,原理图,TC358746]
 comments: true

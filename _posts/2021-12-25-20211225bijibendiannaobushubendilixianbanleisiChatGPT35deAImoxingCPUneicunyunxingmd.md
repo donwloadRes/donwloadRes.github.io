@@ -1,6 +1,37 @@
 ---
 layout: post
-title: "笔记本电脑部署本地离线版类似ChatGPT 3.5的AI模型(CPU+内存运行)"
+title: "笔记本电脑部署本地离线版类似ChatGPT 35的AI模型CPU内存运行
+date   20221210
+tags 模型CPUVicunaAI13B
+comments true
+author admin
+
+ 笔记本电脑部署本地离线版类似ChatGPT 35的AI模型CPU内存运行
+
+欢迎使用本资源包本指南将引导您在不具备高端GPU的笔记本电脑上仅依赖CPU和内存部署一个类似于ChatGPT 35功能的AI模型此过程适合于希望在离线环境下运行大型语言模型的用户尤其适合开发者和爱好者无需昂贵的云计算资源
+
+ 准备工作
+
+在开始之前请确认您的笔记本电脑满足基本要求并按照以下步骤准备
+
+1 检查指令集确保您的CPU支持AVX512指令集这将大幅提高模型运行速度如果不支持项目仍可运行但速度较慢
+   
+2 下载必要的软件
+    llamacpp 支持CPU运行模型特有AVX512版本优化若需其他指令集资源包内或社区有说明
+    模型文件推荐选用Vicuna 13B或Alpaca 13B其中Vicuna被誉为接近ChatGPT 35性能的小羊驼模型Alpaca来自斯坦福大学也是强大之选
+
+ 模型下载
+
+ Vicuna 13B 微调自LLaMA达到接近ChatGPT 35的对话质量特别适合英文交互中文表现亦不错
+ Alpaca 13B 中文用户体验稍逊但也是一个优秀的选择特别是有中文扩展版本可供下载
+
+ 部署步骤
+
+1 创建项目目录比如命名为AI在此目录下存放所有下载文件
+2 放置模型文件将下载的模型文件放入项目目录中
+3 配置批处理脚本创建bat文件编写启动命令例如使用Vicuna模型的示例命令如下
+   
+   mainexe ctxsize 2048 temp 07 topk 40 topp 05  model vicuna13B11GPTQ4bit128gggmlbin"
 date:   2022-12-10
 tags: [模型,CPU,Vicuna,AI,13B]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CC工具箱1.2.7更新简介"
+title: "CC工具箱127更新简介"
 date:   2020-08-18
 tags: [CC,1.2,工具箱,GIS,ArcGIS]
 comments: true

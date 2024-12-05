@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017 - C# WinForm WebAPI 客户端+服务端实战示例"
+title: "VS2017  C WinForm WebAPI 客户端服务端实战示例"
 date:   2023-05-11
 tags: [WebAPI,客户端,C#,服务端,WinForm]
 comments: true

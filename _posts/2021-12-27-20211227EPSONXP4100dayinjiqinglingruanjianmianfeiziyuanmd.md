@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPSON XP-4100打印机清零软件免费资源"
+title: "EPSON XP4100打印机清零软件免费资源"
 date:   2022-06-17
 tags: [软件,4100,打印机,EPSON,XP]
 comments: true

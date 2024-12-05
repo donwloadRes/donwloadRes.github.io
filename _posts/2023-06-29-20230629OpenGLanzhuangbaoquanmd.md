@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL 安装包（全）"
+title: "OpenGL 安装包全"
 date:   2021-07-02
 tags: [OpenGL,dll,文件,头文件,仓库]
 comments: true

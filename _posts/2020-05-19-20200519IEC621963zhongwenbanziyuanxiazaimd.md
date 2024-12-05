@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC62196-3 中文版资源下载"
+title: "IEC621963 中文版资源下载"
 date:   2021-01-23
 tags: [资源,IEC62196,充电,电动汽车,车辆]
 comments: true

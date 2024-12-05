@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understand 2.5使用指南（中文）"
+title: "Understand 25使用指南中文"
 date:   2020-10-12
 tags: [Understand,2.5,代码,使用指南,指南]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Head First Python》第三版英文版：PDF + EPUB格式资源"
+title: "Head First Python第三版英文版PDF  EPUB格式资源"
 date:   2023-05-17
 tags: [Python,Head,First,第三版,编程]
 comments: true

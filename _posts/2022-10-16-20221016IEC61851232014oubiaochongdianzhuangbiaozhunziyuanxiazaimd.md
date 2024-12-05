@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC 61851-23 2014 欧标充电桩标准资源下载"
+title: "IEC 6185123 2014 欧标充电桩标准资源下载"
 date:   2022-11-24
 tags: [充电,标准,IEC,61851,23]
 comments: true

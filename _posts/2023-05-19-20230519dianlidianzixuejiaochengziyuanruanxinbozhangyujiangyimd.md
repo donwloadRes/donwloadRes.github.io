@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力电子学教程资源：阮新波、张宇讲义"
+title: "电力电子学教程资源阮新波张宇讲义"
 date:   2023-07-11
 tags: [电力,阮新波,张宇,电子学,讲义]
 comments: true

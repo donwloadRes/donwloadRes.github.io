@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xftp下载，安装与使用指南"
+title: "Xftp下载安装与使用指南"
 date:   2020-12-06
 tags: [Xftp,文件传输,下载,安装,文件]
 comments: true

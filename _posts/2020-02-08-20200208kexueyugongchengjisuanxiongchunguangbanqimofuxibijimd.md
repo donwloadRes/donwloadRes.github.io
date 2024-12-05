@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "科学与工程计算》熊春光版期末复习笔记"
+title: "科学与工程计算熊春光版期末复习笔记"
 date:   2022-04-05
 tags: [笔记,复习,春光,预习,期末]
 comments: true

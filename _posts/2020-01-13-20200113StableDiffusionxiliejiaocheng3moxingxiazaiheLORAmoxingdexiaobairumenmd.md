@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stable Diffusion 系列教程 - 3 模型下载和LORA模型的小白入门"
+title: "Stable Diffusion 系列教程  3 模型下载和LORA模型的小白入门"
 date:   2024-01-29
 tags: [LORA,模型,Stable,Diffusion,下载]
 comments: true

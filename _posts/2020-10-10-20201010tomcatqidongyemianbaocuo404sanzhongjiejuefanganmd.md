@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "tomcat启动 页面报错404（三种解决方案）"
+title: "tomcat启动 页面报错404三种解决方案"
 date:   2023-07-07
 tags: [Tomcat,404,页面,报错,访问]
 comments: true

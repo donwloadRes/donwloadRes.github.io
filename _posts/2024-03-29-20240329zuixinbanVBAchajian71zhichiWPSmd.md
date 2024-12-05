@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新版VBA插件7.1支持WPS"
+title: "最新版VBA插件71支持WPS"
 date:   2021-09-27
 tags: [插件,VBA,WPS,7.1,最新版]
 comments: true

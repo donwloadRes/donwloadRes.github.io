@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EPLAN 施耐德接触器部件库 - LC1DBD 精选"
+title: "EPLAN 施耐德接触器部件库  LC1DBD 精选"
 date:   2024-04-28
 tags: [部件,EPLAN,接触器,LC1D,BD]
 comments: true

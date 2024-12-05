@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform自定义消息框源码 - 美观的消息提示Alert"
+title: "Winform自定义消息框源码  美观的消息提示Alert"
 date:   2021-06-16
 tags: [源码,Winform,自定义,消息,开发者]
 comments: true

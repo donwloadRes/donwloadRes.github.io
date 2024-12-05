@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SDFormatter资源（免费）"
+title: "SDFormatter资源免费"
 date:   2021-11-14
 tags: [SD,格式化,SDFormatter,下载,修复]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "复杂网络工具箱 BCT（Brain Connectivity Toolbox）"
+title: "复杂网络工具箱 BCTBrain Connectivity Toolbox"
 date:   2020-07-27
 tags: [BCT,MATLAB,工具箱,大脑,网络]
 comments: true

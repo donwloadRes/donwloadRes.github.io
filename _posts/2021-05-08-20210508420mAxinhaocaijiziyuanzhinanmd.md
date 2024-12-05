@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4-20mA 信号采集资源指南"
+title: "420mA 信号采集资源指南"
 date:   2020-10-21
 tags: [20mA,采集,电路设计,电路,信号]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "winform仪表盘 - 简易实现版"
+title: "winform仪表盘  简易实现版"
 date:   2020-03-27
 tags: [仪表盘,Winform,winform,项目,编程]
 comments: true

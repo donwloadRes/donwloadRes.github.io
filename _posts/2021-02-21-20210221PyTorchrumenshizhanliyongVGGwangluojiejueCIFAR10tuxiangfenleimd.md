@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTorch入门实战：利用VGG网络解决CIFAR-10图像分类"
+title: "PyTorch入门实战利用VGG网络解决CIFAR10图像分类"
 date:   2021-08-11
 tags: [模型,PyTorch,10,学习,VGG]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 19.1 官方教程下载"
+title: "Altium Designer 191 官方教程下载"
 date:   2020-09-16
 tags: [Altium,Designer,19.1,教程,官方]
 comments: true

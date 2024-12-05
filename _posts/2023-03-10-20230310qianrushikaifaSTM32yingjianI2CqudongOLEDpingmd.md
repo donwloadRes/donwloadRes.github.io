@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式开发-STM32硬件I2C驱动OLED屏"
+title: "嵌入式开发STM32硬件I2C驱动OLED屏"
 date:   2020-09-26
 tags: [工程,I2C,硬件,STM32,文件]
 comments: true

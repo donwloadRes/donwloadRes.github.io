@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boost程序库完全开发指南：深入C++准标准库 第3版 中文pdf"
+title: "Boost程序库完全开发指南深入C准标准库 第3版 中文pdf"
 date:   2021-03-25
 tags: [Boost,C++,程序库,深入,本书]
 comments: true

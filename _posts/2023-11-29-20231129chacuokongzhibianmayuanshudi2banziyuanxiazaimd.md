@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "差错控制编码(原书第2版) 资源下载"
+title: "差错控制编码原书第2版 资源下载"
 date:   2023-11-23
 tags: [编码,分组码,下载,差错控制,译码]
 comments: true

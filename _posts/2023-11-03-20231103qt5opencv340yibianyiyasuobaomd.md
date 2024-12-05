@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt5_opencv3.4.0_已编译压缩包"
+title: "qt5opencv340已编译压缩包"
 date:   2023-10-02
 tags: [OpenCV,编译,QT,压缩包,项目]
 comments: true

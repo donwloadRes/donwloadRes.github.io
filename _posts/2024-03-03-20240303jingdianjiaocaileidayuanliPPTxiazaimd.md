@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "经典教材：雷达原理PPT下载"
+title: "经典教材雷达原理PPT下载"
 date:   2021-12-29
 tags: [雷达,PPT,原理,教材,下载]
 comments: true

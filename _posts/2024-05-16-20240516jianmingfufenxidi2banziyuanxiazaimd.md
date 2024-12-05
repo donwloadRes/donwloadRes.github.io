@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "简明复分析(第2版)》资源下载"
+title: "简明复分析第2版资源下载"
 date:   2020-06-03
 tags: [定理,习题,Cauchy,复分析,函数]
 comments: true

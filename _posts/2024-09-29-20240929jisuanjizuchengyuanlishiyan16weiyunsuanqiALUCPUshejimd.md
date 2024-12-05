@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验：16位运算器ALU CPU设计"
+title: "计算机组成原理实验16位运算器ALU CPU设计"
 date:   2022-10-02
 tags: [实验,运算器,16,ALU,CPU]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10 Java SE Development Kit (JDK) 17.0.1 安装指南"
+title: "Win10 Java SE Development Kit JDK 1701 安装指南"
 date:   2021-08-31
 tags: [JDK,安装,Java,点击,17.0]
 comments: true

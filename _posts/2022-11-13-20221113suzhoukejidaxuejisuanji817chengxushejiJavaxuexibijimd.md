@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "苏州科技大学计算机817程序设计（Java）学习笔记"
+title: "苏州科技大学计算机817程序设计Java学习笔记"
 date:   2020-05-06
 tags: [Java,备考,学习,考生,建议]
 comments: true

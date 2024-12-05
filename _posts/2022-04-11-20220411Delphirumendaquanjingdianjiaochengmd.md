@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 入门大全（经典教程）"
+title: "Delphi 入门大全经典教程"
 date:   2020-01-28
 tags: [Delphi,编程,教程,入门,经典]
 comments: true

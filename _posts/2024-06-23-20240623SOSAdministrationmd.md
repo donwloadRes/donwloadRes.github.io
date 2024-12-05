@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOS_Administration"
+title: "SOSAdministration"
 date:   2022-07-31
 tags: [SOS,closoft,系统,Administration,备份]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP动态网页作业 - 大学生网页 (PHP + MySQL)"
+title: "PHP动态网页作业  大学生网页 PHP  MySQL"
 date:   2020-05-01
 tags: [PHP,网页,MySQL,文件,数据库]
 comments: true

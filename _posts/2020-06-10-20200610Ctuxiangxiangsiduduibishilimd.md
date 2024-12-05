@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#图像相似度对比示例"
+title: "C图像相似度对比示例"
 date:   2021-11-27
 tags: [图像,相似,示例,对比,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "运放权威指南：Op Amps for Everyone 第5版"
+title: "运放权威指南Op Amps for Everyone 第5版"
 date:   2020-09-18
 tags: [运放,Op,Amps,Everyone,文件]
 comments: true

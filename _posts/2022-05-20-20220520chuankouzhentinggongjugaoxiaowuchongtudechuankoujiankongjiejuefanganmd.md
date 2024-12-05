@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口侦听工具 - 高效无冲突的串口监控解决方案"
+title: "串口侦听工具  高效无冲突的串口监控解决方案"
 date:   2022-04-03
 tags: [串口,监听,工具,NET,开发者]
 comments: true

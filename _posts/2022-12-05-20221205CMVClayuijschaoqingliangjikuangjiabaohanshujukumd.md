@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# MVC + layui.js 超轻量级框架（包含数据库）"
+title: "C MVC  layuijs 超轻量级框架包含数据库"
 date:   2021-07-29
 tags: [框架,MVC,数据库,C#,js]
 comments: true

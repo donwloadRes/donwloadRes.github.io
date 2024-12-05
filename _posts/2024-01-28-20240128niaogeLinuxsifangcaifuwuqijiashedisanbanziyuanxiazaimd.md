@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鸟哥Linux私房菜服务器架设(第三版) 资源下载"
+title: "鸟哥Linux私房菜服务器架设第三版 资源下载"
 date:   2020-01-25
 tags: [Linux,服务器,架设,鸟哥,私房]
 comments: true

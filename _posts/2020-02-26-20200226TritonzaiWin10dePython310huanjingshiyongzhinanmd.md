@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Triton在Win10的Python 3.10环境使用指南"
+title: "Triton在Win10的Python 310环境使用指南"
 date:   2021-02-09
 tags: [Triton,Python,3.10,Windows,10]
 comments: true

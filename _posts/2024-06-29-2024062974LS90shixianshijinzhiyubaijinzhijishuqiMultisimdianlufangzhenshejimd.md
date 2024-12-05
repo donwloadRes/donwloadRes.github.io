@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "74LS90实现十进制与百进制计数器 - Multisim电路仿真设计"
+title: "74LS90实现十进制与百进制计数器  Multisim电路仿真设计"
 date:   2024-05-19
 tags: [计数器,74LS90,十进制,Multisim,电路仿真]
 comments: true

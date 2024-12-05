@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "型男讲座-瞬间必杀50技"
+title: "型男讲座瞬间必杀50技"
 date:   2022-09-21
 tags: [技巧,50,提升,个人,必杀]
 comments: true

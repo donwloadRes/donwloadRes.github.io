@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeG4：STM32G4系列专属的全功能软件包"
+title: "STM32CubeG4STM32G4系列专属的全功能软件包"
 date:   2022-10-19
 tags: [STM32G4,软件包,STM32CubeG4,开发者,系列]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python之Git使用教程001：Git简介与安装"
+title: "Python之Git使用教程001Git简介与安装"
 date:   2021-07-06
 tags: [Git,安装,开发者,Python,SVN]
 comments: true

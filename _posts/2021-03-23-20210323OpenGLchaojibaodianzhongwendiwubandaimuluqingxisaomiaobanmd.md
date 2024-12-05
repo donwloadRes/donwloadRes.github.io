@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenGL超级宝典(中文第五版带目录清晰扫描版)"
+title: "OpenGL超级宝典中文第五版带目录清晰扫描版"
 date:   2020-06-29
 tags: [OpenGL,第五版,宝典,扫描,清晰]
 comments: true

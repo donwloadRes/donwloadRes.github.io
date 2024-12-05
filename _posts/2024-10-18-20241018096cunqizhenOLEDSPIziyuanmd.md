@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸七针OLED（SPI）资源"
+title: "096寸七针OLEDSPI资源"
 date:   2024-03-09
 tags: [STM32F103,OLED,驱动程序,STM32,SPI]
 comments: true

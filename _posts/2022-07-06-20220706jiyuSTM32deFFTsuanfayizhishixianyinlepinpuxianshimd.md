@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32的FFT算法移植——实现音乐频谱显示"
+title: "基于STM32的FFT算法移植实现音乐频谱显示"
 date:   2023-08-22
 tags: [STM32,FFT,算法,频谱,LCD]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高带宽内存（HBM）标准详解"
+title: "高带宽内存HBM标准详解"
 date:   2020-12-17
 tags: [内存,高带宽,HBM,标准,文件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新小样本学习(Few-shot learning)》2020综述论文【香港科技大学】"
+title: "最新小样本学习Fewshot learning2020综述论文香港科技大学"
 date:   2024-10-01
 tags: [学习,样本,综述,Few,研究]
 comments: true

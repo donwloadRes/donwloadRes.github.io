@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHPStudy PHP 5.2.17 NTS 下载"
+title: "PHPStudy PHP 5217 NTS 下载"
 date:   2022-11-25
 tags: [PHP,5.2,17,NTS,PHPStudy]
 comments: true

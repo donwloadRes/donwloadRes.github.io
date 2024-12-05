@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "纯Verilog读写SD卡模块 - SD模式与FAT格式支持"
+title: "纯Verilog读写SD卡模块  SD模式与FAT格式支持"
 date:   2023-03-30
 tags: [SD,Verilog,FAT,硬件,模块]
 comments: true

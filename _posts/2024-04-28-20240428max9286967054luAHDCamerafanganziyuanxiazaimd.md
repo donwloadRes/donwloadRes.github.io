@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "max9286+96705 4路AHD Camera方案资源下载"
+title: "max928696705 4路AHD Camera方案资源下载"
 date:   2022-03-28
 tags: [max9286,96705,AHD,资源,摄像头]
 comments: true

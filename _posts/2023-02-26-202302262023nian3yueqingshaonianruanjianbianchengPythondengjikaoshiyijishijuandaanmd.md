@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023年3月青少年软件编程(Python)等级考试一级试卷答案"
+title: "2023年3月青少年软件编程Python等级考试一级试卷答案"
 date:   2023-03-12
 tags: [答案,Python,2023,11,考试]
 comments: true

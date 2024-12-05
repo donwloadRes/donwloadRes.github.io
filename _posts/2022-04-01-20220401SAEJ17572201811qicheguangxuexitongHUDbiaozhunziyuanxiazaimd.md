@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J1757-2_201811 汽车光学系统HUD标准资源下载"
+title: "SAE J17572201811 汽车光学系统HUD标准资源下载"
 date:   2022-06-07
 tags: [HUD,光学系统,SAE,201811,汽车]
 comments: true

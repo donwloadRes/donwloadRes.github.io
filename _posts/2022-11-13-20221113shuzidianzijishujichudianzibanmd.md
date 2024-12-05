@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字电子技术基础》电子版"
+title: "数字电子技术基础电子版"
 date:   2023-06-02
 tags: [数字,电子版,电子,学习,技术]
 comments: true

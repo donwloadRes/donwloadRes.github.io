@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小波阈值图像去噪（Matlab实现）"
+title: "小波阈值图像去噪Matlab实现"
 date:   2022-04-13
 tags: [阈值,代码,Matlab,图像去噪,路径]
 comments: true

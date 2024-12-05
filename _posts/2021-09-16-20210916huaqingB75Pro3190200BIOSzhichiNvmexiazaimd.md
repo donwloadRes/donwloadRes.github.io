@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "华擎 B75 Pro3 1.90 2.00 BIOS 支持 Nvme 下载"
+title: "华擎 B75 Pro3 190 200 BIOS 支持 Nvme 下载"
 date:   2023-07-16
 tags: [BIOS,刷入,Nvme,1.90,2.00]
 comments: true

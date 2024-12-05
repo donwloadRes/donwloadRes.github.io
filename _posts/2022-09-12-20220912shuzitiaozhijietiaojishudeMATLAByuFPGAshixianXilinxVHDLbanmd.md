@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字调制解调技术的MATLAB与FPGA实现——Xilinx VHDL版"
+title: "数字调制解调技术的MATLAB与FPGA实现Xilinx VHDL版"
 date:   2021-09-09
 tags: [解调,FPGA,调制,MATLAB,代码]
 comments: true

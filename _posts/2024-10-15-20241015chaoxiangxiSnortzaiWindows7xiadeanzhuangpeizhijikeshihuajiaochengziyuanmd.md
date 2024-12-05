@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【超详细】Snort在Windows 7下的安装配置及可视化教程资源"
+title: "超详细Snort在Windows 7下的安装配置及可视化教程资源"
 date:   2023-04-18
 tags: [Snort,可视化,数据库,---,配置]
 comments: true

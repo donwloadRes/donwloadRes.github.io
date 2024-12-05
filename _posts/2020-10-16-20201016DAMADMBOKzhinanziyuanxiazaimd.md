@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAMA-DMBOK指南资源下载"
+title: "DAMADMBOK指南资源下载"
 date:   2023-03-20
 tags: [数据管理,DAMA,DMBOK,指南,Guide]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB3.0协议规范中文解读"
+title: "USB30协议规范中文解读"
 date:   2020-09-11
 tags: [USB3.0,解读,USB,文档,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "七种方法完美解救你爆满的C盘（瘦身+扩容）"
+title: "七种方法完美解救你爆满的C盘瘦身扩容"
 date:   2024-07-16
 tags: [C盘,七种,软件,方法,清理]
 comments: true

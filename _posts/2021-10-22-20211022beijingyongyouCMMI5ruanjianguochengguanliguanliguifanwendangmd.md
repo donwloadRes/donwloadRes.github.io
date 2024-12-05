@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京用友-CMMI5软件过程管理-管理规范文档"
+title: "北京用友CMMI5软件过程管理管理规范文档"
 date:   2022-02-13
 tags: [文档,CMMI5,管理,用友,软件]
 comments: true

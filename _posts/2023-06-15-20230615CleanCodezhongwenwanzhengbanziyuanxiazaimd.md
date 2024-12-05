@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clean Code(中文完整版) 资源下载"
+title: "Clean Code中文完整版 资源下载"
 date:   2020-05-08
 tags: [完整版,代码,中文,Clean,Code]
 comments: true

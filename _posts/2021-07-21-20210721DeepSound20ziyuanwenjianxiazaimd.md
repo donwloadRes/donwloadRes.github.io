@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepSound 2.0 资源文件下载"
+title: "DeepSound 20 资源文件下载"
 date:   2022-08-07
 tags: [音频文件,DeepSound,2.0,文件,隐藏]
 comments: true

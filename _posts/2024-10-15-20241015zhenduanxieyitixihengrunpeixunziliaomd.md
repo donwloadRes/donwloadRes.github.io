@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "诊断协议体系-恒润培训资料"
+title: "诊断协议体系恒润培训资料"
 date:   2022-07-29
 tags: [诊断,协议,文档,汽车,恒润]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL 8.0.36 安装教程详细图解"
+title: "MySQL 8036 安装教程详细图解"
 date:   2021-04-02
 tags: [MySQL,安装,36,8.0,教程]
 comments: true

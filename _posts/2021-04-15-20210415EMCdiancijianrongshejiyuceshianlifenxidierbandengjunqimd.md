@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC电磁兼容设计与测试案例分析[第二版] 邓军奇"
+title: "EMC电磁兼容设计与测试案例分析第二版 邓军奇"
 date:   2020-10-14
 tags: [电磁兼容,EMC,测试,设计,案例]
 comments: true

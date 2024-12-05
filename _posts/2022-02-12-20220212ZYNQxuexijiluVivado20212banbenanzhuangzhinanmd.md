@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZYNQ学习记录：Vivado 2021.2版本安装指南"
+title: "ZYNQ学习记录Vivado 20212版本安装指南"
 date:   2022-07-22
 tags: [安装,点击,许可证,下载,Vivado]
 comments: true

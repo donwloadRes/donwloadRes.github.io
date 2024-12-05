@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字通信课后习题答案（Proakis著，张力军等译）"
+title: "数字通信课后习题答案Proakis著张力军等译"
 date:   2021-01-26
 tags: [课后,习题,Proakis,张力军,数字通信]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EV录屏软件 - 免费无广告的录屏工具"
+title: "EV录屏软件  免费无广告的录屏工具"
 date:   2021-03-02
 tags: [录制,录屏,EV,软件,无广告]
 comments: true

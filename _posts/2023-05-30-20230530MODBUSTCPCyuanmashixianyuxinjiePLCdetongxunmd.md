@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODBUS TCP C# 源码 -- 实现与信捷PLC的通讯"
+title: "MODBUS TCP C 源码  实现与信捷PLC的通讯"
 date:   2021-07-24
 tags: [寄存器,源码,MODBUS,读取,PLC]
 comments: true

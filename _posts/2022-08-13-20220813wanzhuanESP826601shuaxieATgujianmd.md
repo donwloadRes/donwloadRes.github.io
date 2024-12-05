@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩转ESP8266-01——刷写AT固件"
+title: "玩转ESP826601刷写AT固件"
 date:   2020-01-14
 tags: [固件,ESP8266,01,刷写,模块]
 comments: true

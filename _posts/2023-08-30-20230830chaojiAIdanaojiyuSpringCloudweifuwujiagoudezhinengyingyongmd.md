@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级AI大脑：基于SpringCloud微服务架构的智能应用"
+title: "超级AI大脑基于SpringCloud微服务架构的智能应用"
 date:   2022-09-27
 tags: [AI,用户,智能,生成,GPT]
 comments: true

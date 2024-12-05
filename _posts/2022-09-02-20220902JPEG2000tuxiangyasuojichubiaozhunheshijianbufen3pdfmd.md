@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JPEG2000图像压缩基础、标准和实践——部分3.pdf"
+title: "JPEG2000图像压缩基础标准和实践部分3pdf"
 date:   2021-02-03
 tags: [JPEG2000,图像压缩,pdf,实践,标准]
 comments: true

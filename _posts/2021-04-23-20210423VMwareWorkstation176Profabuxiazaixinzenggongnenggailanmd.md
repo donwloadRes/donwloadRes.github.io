@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware Workstation 17.6 Pro 发布下载，新增功能概览"
+title: "VMware Workstation 176 Pro 发布下载新增功能概览"
 date:   2020-12-05
 tags: [虚拟机,Pro,Windows,VMware,Workstation]
 comments: true

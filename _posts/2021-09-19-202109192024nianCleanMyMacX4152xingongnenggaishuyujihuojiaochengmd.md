@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 年 CleanMyMac X 4.15.2 新功能概述与激活教程"
+title: "2024 年 CleanMyMac X 4152 新功能概述与激活教程"
 date:   2022-11-19
 tags: [Mac,清理,CleanMyMac,4.15,优化]
 comments: true

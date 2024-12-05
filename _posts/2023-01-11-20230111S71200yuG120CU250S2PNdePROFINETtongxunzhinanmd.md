@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200 与 G120 CU250S-2 PN 的 PROFINET 通讯指南"
+title: "S71200 与 G120 CU250S2 PN 的 PROFINET 通讯指南"
 date:   2022-07-07
 tags: [PROFINET,变频器,S7,1200,PN]
 comments: true

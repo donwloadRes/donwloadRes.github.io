@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ UDP组播数据收发类及示例"
+title: "C UDP组播数据收发类及示例"
 date:   2024-05-30
 tags: [组播,收发,网卡,数据,UDP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hella TAS-71版本标定流程（中文版）_Ver2.0.pdf 下载仓库"
+title: "Hella TAS71版本标定流程中文版Ver20pdf 下载仓库"
 date:   2023-06-10
 tags: [标定,71,Hella,TAS,Ver2.0]
 comments: true

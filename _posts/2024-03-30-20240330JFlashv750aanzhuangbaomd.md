@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JFlash v7.50a 安装包"
+title: "JFlash v750a 安装包"
 date:   2020-04-29
 tags: [JFlash,安装,安装包,Windows,v7.50]
 comments: true

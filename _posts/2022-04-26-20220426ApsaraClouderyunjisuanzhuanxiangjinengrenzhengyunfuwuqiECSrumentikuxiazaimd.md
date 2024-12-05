@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apsara Clouder云计算专项技能认证：云服务器ECS入门题库下载"
+title: "Apsara Clouder云计算专项技能认证云服务器ECS入门题库下载"
 date:   2022-11-26
 tags: [题库,ECS,服务器,认证,题目]
 comments: true

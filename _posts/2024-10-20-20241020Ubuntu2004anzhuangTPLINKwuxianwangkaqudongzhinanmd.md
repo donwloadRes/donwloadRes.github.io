@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 安装 TP-LINK 无线网卡驱动指南"
+title: "Ubuntu 2004 安装 TPLINK 无线网卡驱动指南"
 date:   2021-06-02
 tags: [驱动,网卡,bash,解压,安装]
 comments: true

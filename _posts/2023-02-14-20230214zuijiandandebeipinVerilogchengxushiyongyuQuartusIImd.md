@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的倍频Verilog程序（适用于Quartus II）"
+title: "最简单的倍频Verilog程序适用于Quartus II"
 date:   2023-09-29
 tags: [倍频,Quartus,II,Verilog,FPGA]
 comments: true

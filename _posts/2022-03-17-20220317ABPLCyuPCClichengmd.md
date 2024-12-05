@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AB PLC 与 PC C# 例程"
+title: "AB PLC 与 PC C 例程"
 date:   2024-02-08
 tags: [例程,PLC,AB,PC,C#]
 comments: true

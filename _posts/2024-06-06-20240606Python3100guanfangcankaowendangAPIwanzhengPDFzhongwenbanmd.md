@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.10.0 官方参考文档 API 完整 PDF 中文版"
+title: "Python 3100 官方参考文档 API 完整 PDF 中文版"
 date:   2021-07-19
 tags: [Python,文档,API,参考,3.10]
 comments: true

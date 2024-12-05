@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Hive 3.1.2 安全升级版"
+title: "Apache Hive 312 安全升级版"
 date:   2021-11-14
 tags: [3.1,Hive,Apache,tar,版本]
 comments: true

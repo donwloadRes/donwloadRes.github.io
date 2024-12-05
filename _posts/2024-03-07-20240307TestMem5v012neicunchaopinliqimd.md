@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TestMem5 v0.12 - 内存超频利器"
+title: "TestMem5 v012  内存超频利器"
 date:   2023-03-03
 tags: [超频,内存,硬件,anta777,TestMem5]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++标准模板库编程实战资源下载"
+title: "C标准模板库编程实战资源下载"
 date:   2024-02-07
 tags: [C++,STL,模板,编程,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.6.8 64位独立安装程序"
+title: "Python 368 64位独立安装程序"
 date:   2021-07-08
 tags: [Python,安装,3.6,64,安装程序]
 comments: true

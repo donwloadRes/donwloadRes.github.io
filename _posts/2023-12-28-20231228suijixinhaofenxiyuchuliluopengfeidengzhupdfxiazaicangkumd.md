@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "随机信号分析与处理--罗鹏飞等著.pdf 下载仓库"
+title: "随机信号分析与处理罗鹏飞等著pdf 下载仓库"
 date:   2021-07-13
 tags: [鹏飞,随机,仓库,--,pdf]
 comments: true

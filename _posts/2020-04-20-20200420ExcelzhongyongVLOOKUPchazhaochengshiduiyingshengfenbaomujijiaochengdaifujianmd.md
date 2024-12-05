@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel中用VLOOKUP查找城市对应省份（保姆级教程，带附件）"
+title: "Excel中用VLOOKUP查找城市对应省份保姆级教程带附件"
 date:   2022-12-23
 tags: [Excel,教程,VLOOKUP,示例,文件]
 comments: true

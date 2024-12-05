@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "两套 Bootstrap5 框架后台管理模板 - Amdash"
+title: "两套 Bootstrap5 框架后台管理模板  Amdash"
 date:   2020-01-28
 tags: [模板,Amdash,Bootstrap5,UI,表单]
 comments: true

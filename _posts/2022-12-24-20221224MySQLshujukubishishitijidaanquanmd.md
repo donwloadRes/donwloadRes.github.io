@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL数据库笔试试题及答案（全）"
+title: "MySQL数据库笔试试题及答案全"
 date:   2021-02-13
 tags: [MySQL,数据库,答案,资源,试题]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InstallSoftingOpcUaClient2.30.0 下载仓库"
+title: "InstallSoftingOpcUaClient2300 下载仓库"
 date:   2024-06-24
 tags: [InstallSoftingOpcUaClient2.30,仓库,OPC,UA,client]
 comments: true

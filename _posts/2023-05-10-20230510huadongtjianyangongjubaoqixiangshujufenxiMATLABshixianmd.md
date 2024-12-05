@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "滑动t检验工具包（气象数据分析 - MATLAB实现）"
+title: "滑动t检验工具包气象数据分析  MATLAB实现"
 date:   2022-08-18
 tags: [MATLAB,检验,气象,工具包,序列]
 comments: true

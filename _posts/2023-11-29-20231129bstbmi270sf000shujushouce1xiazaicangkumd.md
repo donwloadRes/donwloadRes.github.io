@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bst-bmi270-sf000 数据手册1 下载仓库"
+title: "bstbmi270sf000 数据手册1 下载仓库"
 date:   2022-07-05
 tags: [bst,bmi270,sf000,手册,仓库]
 comments: true

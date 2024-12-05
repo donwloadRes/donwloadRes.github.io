@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习论文合集（PDF格式）"
+title: "机器学习论文合集PDF格式"
 date:   2020-04-22
 tags: [论文,学习,Efficient,networks,卷积]
 comments: true

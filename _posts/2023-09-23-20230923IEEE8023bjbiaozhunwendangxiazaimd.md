@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 802.3bj 标准文档下载"
+title: "IEEE 8023bj 标准文档下载"
 date:   2022-01-22
 tags: [以太网,文档,802.3,bj,100G]
 comments: true

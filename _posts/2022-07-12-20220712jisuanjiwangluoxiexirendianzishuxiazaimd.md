@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机网络（谢希仁）电子书下载"
+title: "计算机网络谢希仁电子书下载"
 date:   2023-04-01
 tags: [希仁,计算机网络,下载,电子书,PDF]
 comments: true

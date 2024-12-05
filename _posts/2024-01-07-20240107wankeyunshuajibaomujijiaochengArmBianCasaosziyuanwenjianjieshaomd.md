@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "玩客云刷机（保姆级教程）ArmBian+Casaos 资源文件介绍"
+title: "玩客云刷机保姆级教程ArmBianCasaos 资源文件介绍"
 date:   2024-10-27
 tags: [刷机,教程,Casaos,客云,玩客]
 comments: true

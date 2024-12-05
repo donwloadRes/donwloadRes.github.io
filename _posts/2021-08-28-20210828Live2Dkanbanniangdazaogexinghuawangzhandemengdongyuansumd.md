@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Live2D看板娘】打造个性化网站的萌动元素"
+title: "Live2D看板娘打造个性化网站的萌动元素"
 date:   2024-05-13
 tags: [Live2D,看板娘,资源,模型,个性化]
 comments: true

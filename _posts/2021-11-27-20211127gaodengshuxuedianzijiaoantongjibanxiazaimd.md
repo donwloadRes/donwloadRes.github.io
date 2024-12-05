@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数学电子教案(同济版)下载"
+title: "高等数学电子教案同济版下载"
 date:   2023-02-17
 tags: [高等数学,教案,同济,电子,文件]
 comments: true

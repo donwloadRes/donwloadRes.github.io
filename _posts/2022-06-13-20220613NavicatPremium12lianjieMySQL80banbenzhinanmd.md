@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12 连接 MySQL 8.0 版本指南"
+title: "Navicat Premium 12 连接 MySQL 80 版本指南"
 date:   2024-08-13
 tags: [MySQL,Navicat,Premium,12,8.0]
 comments: true

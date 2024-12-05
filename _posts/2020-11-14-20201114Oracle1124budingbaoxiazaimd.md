@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oracle 11.2.4 补丁包下载"
+title: "Oracle 1124 补丁包下载"
 date:   2022-04-01
 tags: [补丁包,Oracle,补丁,解压,文件]
 comments: true

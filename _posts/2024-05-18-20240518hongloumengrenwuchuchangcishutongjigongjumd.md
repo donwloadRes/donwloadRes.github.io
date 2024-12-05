@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "红楼梦》人物出场次数统计工具"
+title: "红楼梦人物出场次数统计工具"
 date:   2023-11-10
 tags: [红楼梦,Python,出场,文本文件,次数]
 comments: true

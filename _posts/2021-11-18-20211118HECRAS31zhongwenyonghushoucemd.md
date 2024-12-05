@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEC-RAS 3.1 中文用户手册"
+title: "HECRAS 31 中文用户手册"
 date:   2024-02-06
 tags: [HEC,RAS,恒定,用户手册,软件]
 comments: true

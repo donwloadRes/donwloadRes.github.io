@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMBA-AXI总线中文详解"
+title: "AMBAAXI总线中文详解"
 date:   2021-04-21
 tags: [AMBA,AXI,总线,AXI4,中文]
 comments: true

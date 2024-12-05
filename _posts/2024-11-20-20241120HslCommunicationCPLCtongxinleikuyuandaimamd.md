@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HslCommunication C# PLC通信类库源代码"
+title: "HslCommunication C PLC通信类库源代码"
 date:   2022-08-28
 tags: [PLC,类库,HslCommunication,C#,开发者]
 comments: true

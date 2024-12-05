@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ROS机器视觉学习笔记（二）：人脸识别和二维码识别"
+title: "ROS机器视觉学习笔记二人脸识别和二维码识别"
 date:   2023-12-16
 tags: [ROS,二维码,人脸识别,robot,vision]
 comments: true

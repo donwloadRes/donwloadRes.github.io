@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CK3M(Power PMAC)常用官方手册"
+title: "CK3MPower PMAC常用官方手册"
 date:   2024-09-29
 tags: [PMAC,Power,手册,文档,官方]
 comments: true

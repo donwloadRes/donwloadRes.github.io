@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中文翻译：Introduction to Linear Algebra，第 5 版 1.3 节"
+title: "中文翻译Introduction to Linear Algebra第 5 版 13 节"
 date:   2023-08-14
 tags: [线性代数,线性方程组,问题,中文翻译,1.3]
 comments: true

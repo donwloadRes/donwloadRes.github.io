@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用ChatGPT论文降重，效率极高"
+title: "用ChatGPT论文降重效率极高"
 date:   2023-08-06
 tags: [ChatGPT,论文,降重,查重,重复]
 comments: true

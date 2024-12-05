@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASAM MCD-2 MC Specification V1.7 书签增强版"
+title: "ASAM MCD2 MC Specification V17 书签增强版"
 date:   2023-07-16
 tags: [书签,ASAM,MCD,MC,增强版]
 comments: true

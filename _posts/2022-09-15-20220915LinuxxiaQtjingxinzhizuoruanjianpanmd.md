@@ -1,6 +1,27 @@
 ---
 layout: post
-title: "Linux下Qt精心制作软键盘"
+title: "Linux下Qt精心制作软键盘
+date   20231009
+tags 软键盘LinuxQt精心制作注释
+comments true
+author admin
+
+ Linux下Qt精心制作软键盘
+
+ 简介
+
+本资源文件提供了一个在Linux环境下使用Qt框架精心制作的软键盘该软键盘具有以下特点
+
+ 便捷弹出隐藏输入框内可以方便地弹出和隐藏软键盘
+ 边缘可拖拽软键盘的边缘可以拖拽方便用户调整位置
+ 背景透明软键盘的背景透明科技感极强
+ 详细注释代码中包含详细的注释方便开发者理解和修改
+
+ 使用方法
+
+1 在main函数中添加头文件
+   cpp
+   include inputMethodmyinputpanelcontexth"
 date:   2023-10-09
 tags: [软键盘,Linux,Qt,精心制作,注释]
 comments: true

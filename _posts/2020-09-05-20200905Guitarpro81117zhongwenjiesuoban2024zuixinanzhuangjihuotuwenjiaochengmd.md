@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guitarpro 8.1.1.17中文解锁版2024最新安装激活图文教程"
+title: "Guitarpro 81117中文解锁版2024最新安装激活图文教程"
 date:   2023-03-24
 tags: [1.17,解锁,Guitarpro,8.1,激活]
 comments: true

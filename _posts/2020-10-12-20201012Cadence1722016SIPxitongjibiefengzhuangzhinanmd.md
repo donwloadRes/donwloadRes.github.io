@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence 17.2-2016 SIP 系统级别封装指南"
+title: "Cadence 1722016 SIP 系统级别封装指南"
 date:   2024-08-09
 tags: [封装,Cadence,设计,SIP,2016]
 comments: true

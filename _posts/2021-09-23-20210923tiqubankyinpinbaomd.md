@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "提取.bank音频包"
+title: "提取bank音频包"
 date:   2024-10-29
 tags: [bank,提取,音频文件,音频,工具]
 comments: true

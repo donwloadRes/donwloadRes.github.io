@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据分析案例（4）京东数据分析项目"
+title: "数据分析案例4京东数据分析项目"
 date:   2021-12-12
 tags: [数据分析,数据,京东,用户,项目]
 comments: true

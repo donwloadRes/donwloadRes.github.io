@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机科学导论（美·佛罗赞）完整版"
+title: "计算机科学导论美佛罗赞完整版"
 date:   2024-07-03
 tags: [计算机科学,导论,完整版,佛罗赞,基础知识]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于创芯CAN分析仪ControlCAN.dll的C#二次开发库"
+title: "基于创芯CAN分析仪ControlCANdll的C二次开发库"
 date:   2022-12-30
 tags: [C#,创芯,ControlCAN,dll,API]
 comments: true

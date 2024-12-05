@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Display Port 1.4 协议规范.pdf"
+title: "Display Port 14 协议规范pdf"
 date:   2020-10-28
 tags: [1.4,DisplayPort,分辨率,8K,规范]
 comments: true

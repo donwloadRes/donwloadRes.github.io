@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决Win系统缺少XAudio2_7.dll文件问题"
+title: "解决Win系统缺少XAudio27dll文件问题"
 date:   2022-10-07
 tags: [dll,XAudio2,系统,Windows,文件]
 comments: true

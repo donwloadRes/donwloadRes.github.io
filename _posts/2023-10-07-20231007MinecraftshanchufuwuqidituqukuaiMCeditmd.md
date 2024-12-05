@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minecraft-删除服务器地图区块（MCedit）"
+title: "Minecraft删除服务器地图区块MCedit"
 date:   2022-01-06
 tags: [区块,服务器,删除,MCedit,地图]
 comments: true

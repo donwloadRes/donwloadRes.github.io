@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pentaho Data Integration Community Edition 9.3.0.0-428 安装包"
+title: "Pentaho Data Integration Community Edition 9300428 安装包"
 date:   2020-06-30
 tags: [Pentaho,0.0,428,9.3,Data]
 comments: true

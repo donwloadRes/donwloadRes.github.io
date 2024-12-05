@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "矩阵论（西北工业大学程云鹏）第三版.pdf"
+title: "矩阵论西北工业大学程云鹏第三版pdf"
 date:   2023-08-19
 tags: [矩阵,第三版,西北工业大学,程云鹏,资源]
 comments: true

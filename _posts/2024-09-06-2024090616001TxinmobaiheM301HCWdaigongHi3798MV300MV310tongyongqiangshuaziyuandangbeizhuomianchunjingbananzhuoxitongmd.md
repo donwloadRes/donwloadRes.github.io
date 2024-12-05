@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "16-001-T-新魔百和M301H-CW代工-Hi3798MV300-MV310通用强刷资源-当贝桌面纯净版安卓系统"
+title: "16001T新魔百和M301HCW代工Hi3798MV300MV310通用强刷资源当贝桌面纯净版安卓系统"
 date:   2023-12-16
 tags: [固件,Hi3798MV300,MV310,当贝,刷机]
 comments: true

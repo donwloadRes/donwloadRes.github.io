@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#串口读写三菱PLC资源文件"
+title: "C串口读写三菱PLC资源文件"
 date:   2020-10-06
 tags: [串口,PLC,读写操作,多线程,读写]
 comments: true

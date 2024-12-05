@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "下一代PON技术发展与ITU-T G.9807.1(XGS-PON协议标准)学习笔记"
+title: "下一代PON技术发展与ITUT G98071XGSPON协议标准学习笔记"
 date:   2023-04-12
 tags: [PON,技术,ITU,XGS,笔记]
 comments: true

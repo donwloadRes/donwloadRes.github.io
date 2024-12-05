@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ANSYS经典例子72个，包括详细解释！"
+title: "ANSYS经典例子72个包括详细解释"
 date:   2020-09-24
 tags: [实例,例子,混凝土,ANSYS,非线性]
 comments: true

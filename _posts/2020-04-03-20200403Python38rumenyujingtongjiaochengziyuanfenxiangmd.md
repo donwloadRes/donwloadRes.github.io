@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.8 入门与精通教程资源分享"
+title: "Python 38 入门与精通教程资源分享"
 date:   2020-06-13
 tags: [Python,教程,学习者,编程,学习]
 comments: true

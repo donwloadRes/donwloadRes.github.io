@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10下MinGW-w64安装教程"
+title: "Win10下MinGWw64安装教程"
 date:   2020-09-21
 tags: [MinGW,w64,安装,教程,Windows]
 comments: true

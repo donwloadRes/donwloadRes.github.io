@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Mendeley和CvtCNKI进行中英文参考文献引用管理（含硕博论文）"
+title: "使用Mendeley和CvtCNKI进行中英文参考文献引用管理含硕博论文"
 date:   2020-05-28
 tags: [Mendeley,参考文献,引用,CvtCNKI,格式]
 comments: true

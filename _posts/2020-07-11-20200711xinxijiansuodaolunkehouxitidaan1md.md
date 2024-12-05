@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息检索导论》课后习题答案1"
+title: "信息检索导论课后习题答案1"
 date:   2021-10-03
 tags: [习题,信息检索,答案,导论,课后]
 comments: true

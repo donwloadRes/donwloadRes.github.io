@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HEC-GeoHMS操作过程详解（持续更新）"
+title: "HECGeoHMS操作过程详解持续更新"
 date:   2022-02-25
 tags: [HEC,GeoHMS,文件,操作过程,详解]
 comments: true

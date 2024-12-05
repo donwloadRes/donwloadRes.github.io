@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "树莓派4B编译的PyTorch 1.7与TorchVision 0.8资源文件"
+title: "树莓派4B编译的PyTorch 17与TorchVision 08资源文件"
 date:   2023-07-26
 tags: [树莓,YOLOv5,文件,4B,PyTorch]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Websocket+WebRTC的视频会议系统"
+title: "基于SpringBootWebsocketWebRTC的视频会议系统"
 date:   2022-02-28
 tags: [WebRTC,用户,项目,WebSocket,SpringBoot]
 comments: true

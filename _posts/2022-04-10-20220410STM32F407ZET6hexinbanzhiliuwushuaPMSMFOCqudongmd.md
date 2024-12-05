@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F407ZET6核心板-直流无刷PMSM-FOC驱动"
+title: "STM32F407ZET6核心板直流无刷PMSMFOC驱动"
 date:   2024-06-27
 tags: [电机,PID,STM32F407ZET6,PMSM,FOC]
 comments: true

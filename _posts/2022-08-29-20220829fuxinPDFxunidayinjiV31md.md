@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "福昕PDF虚拟打印机V3.1"
+title: "福昕PDF虚拟打印机V31"
 date:   2020-08-27
 tags: [PDF,文档,打印机,虚拟,转换]
 comments: true

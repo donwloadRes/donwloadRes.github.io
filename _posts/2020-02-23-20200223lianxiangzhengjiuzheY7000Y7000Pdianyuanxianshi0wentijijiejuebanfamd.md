@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "联想拯救者Y7000-Y7000P电源显示0%问题及解决办法"
+title: "联想拯救者Y7000Y7000P电源显示0问题及解决办法"
 date:   2022-03-21
 tags: [固件,电池,联想,Y7000,用户]
 comments: true

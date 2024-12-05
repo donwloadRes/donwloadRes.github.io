@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IPC-WHMA-A-620E- CN 中文版 2022 线缆及线束组件的要求与验收"
+title: "IPCWHMAA620E CN 中文版 2022 线缆及线束组件的要求与验收"
 date:   2022-09-17
 tags: [线缆,线束,组件,验收,IPC]
 comments: true

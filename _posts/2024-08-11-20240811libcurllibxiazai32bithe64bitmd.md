@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libcurl.lib 下载（32bit和64bit）"
+title: "libcurllib 下载32bit和64bit"
 date:   2024-02-24
 tags: [libcurl,lib,下载,32,64]
 comments: true

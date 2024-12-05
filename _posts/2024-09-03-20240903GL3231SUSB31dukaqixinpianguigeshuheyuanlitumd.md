@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GL3231S USB3.1读卡器芯片规格书和原理图"
+title: "GL3231S USB31读卡器芯片规格书和原理图"
 date:   2024-06-14
 tags: [规格书,原理图,GL3231S,芯片,读卡器]
 comments: true

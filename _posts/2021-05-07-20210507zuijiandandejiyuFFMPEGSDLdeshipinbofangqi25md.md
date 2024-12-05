@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最简单的基于FFMPEG+SDL的视频播放器 2.5"
+title: "最简单的基于FFMPEGSDL的视频播放器 25"
 date:   2023-07-04
 tags: [simplest,FFmpeg,ffmpeg,SDL,解码]
 comments: true

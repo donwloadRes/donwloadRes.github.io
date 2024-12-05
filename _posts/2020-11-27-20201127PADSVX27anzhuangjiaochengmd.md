@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PADS VX2.7安装教程"
+title: "PADS VX27安装教程"
 date:   2020-07-18
 tags: [安装,Windows,教程,PADS,VX2.7]
 comments: true

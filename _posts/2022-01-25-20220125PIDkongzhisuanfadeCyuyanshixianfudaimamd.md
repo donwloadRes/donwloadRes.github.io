@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PID控制算法的C语言实现（附代码）"
+title: "PID控制算法的C语言实现附代码"
 date:   2021-04-27
 tags: [控制算法,PID,C语言,代码,编译]
 comments: true

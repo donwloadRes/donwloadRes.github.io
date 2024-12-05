@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024秋招Java-测试全栈八股文"
+title: "2024秋招Java测试全栈八股文"
 date:   2021-07-16
 tags: [测试,Java,资源库,2024,数据库]
 comments: true

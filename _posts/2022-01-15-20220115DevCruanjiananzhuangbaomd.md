@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 软件安装包"
+title: "Dev C 软件安装包"
 date:   2021-01-27
 tags: [C++,Dev,编程,安装,安装包]
 comments: true

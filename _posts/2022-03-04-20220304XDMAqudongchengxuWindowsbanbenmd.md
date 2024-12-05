@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XDMA驱动程序（Windows版本）"
+title: "XDMA驱动程序Windows版本"
 date:   2020-07-30
 tags: [驱动程序,XDMA,Windows,https,驱动]
 comments: true

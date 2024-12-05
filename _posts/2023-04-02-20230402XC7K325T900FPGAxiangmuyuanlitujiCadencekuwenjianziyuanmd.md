@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XC7K325T-900 FPGA项目原理图及Cadence库文件资源"
+title: "XC7K325T900 FPGA项目原理图及Cadence库文件资源"
 date:   2021-08-29
 tags: [原理图,FPGA,Cadence,项目,XC7K325T]
 comments: true

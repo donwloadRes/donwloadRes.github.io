@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "李政道 数学物理方法.pdf 下载仓库"
+title: "李政道 数学物理方法pdf 下载仓库"
 date:   2023-04-01
 tags: [李政道,pdf,物理,数学,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM 6.42.3 中文版：全球下载最快的工具软件"
+title: "IDM 6423 中文版全球下载最快的工具软件"
 date:   2020-01-21
 tags: [下载,批量,IDM,网盘,支持]
 comments: true

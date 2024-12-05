@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mimikatz 2.2.0 资源文件下载"
+title: "mimikatz 220 资源文件下载"
 date:   2022-05-25
 tags: [mimikatz,文件,2.2,trunk.7,下载]
 comments: true

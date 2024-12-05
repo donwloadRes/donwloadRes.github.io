@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CTF100题目-安全考题竞赛"
+title: "CTF100题目安全考题竞赛"
 date:   2022-04-29
 tags: [安全,考题,CTF100,信息安全,题目]
 comments: true

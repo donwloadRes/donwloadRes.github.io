@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用OpenTK & Assimp 导入3D模型资源仓库"
+title: "C使用OpenTK  Assimp 导入3D模型资源仓库"
 date:   2022-10-06
 tags: [3D,开发者,Assimp,导入,OpenTK]
 comments: true

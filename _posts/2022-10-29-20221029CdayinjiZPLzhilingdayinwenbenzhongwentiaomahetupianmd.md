@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 打印机 ZPL 指令：打印文本、中文、条码和图片"
+title: "C 打印机 ZPL 指令打印文本中文条码和图片"
 date:   2023-07-31
 tags: [打印,ZPL,指令,打印机,示例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言从入门到精通 - 学习资源"
+title: "C语言从入门到精通  学习资源"
 date:   2024-05-08
 tags: [C语言,学习,编程,本书,入门]
 comments: true

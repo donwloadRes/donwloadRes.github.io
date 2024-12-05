@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 开源密码库之OpenSSL的使用"
+title: "C 开源密码库之OpenSSL的使用"
 date:   2024-08-19
 tags: [OpenSSL,编译,下载,使用,开源]
 comments: true

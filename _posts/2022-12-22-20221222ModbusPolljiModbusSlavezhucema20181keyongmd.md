@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus Poll及Modbus Slave注册码-2018-1可用"
+title: "Modbus Poll及Modbus Slave注册码20181可用"
 date:   2020-09-17
 tags: [Modbus,注册码,Poll,Slave,2018]
 comments: true

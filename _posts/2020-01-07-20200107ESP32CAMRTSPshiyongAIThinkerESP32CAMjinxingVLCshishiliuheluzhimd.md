@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-CAM-RTSP：使用AI Thinker ESP32 CAM进行VLC实时流和录制"
+title: "ESP32CAMRTSP使用AI Thinker ESP32 CAM进行VLC实时流和录制"
 date:   2024-03-01
 tags: [ESP32,CAM,VLC,录制,实时]
 comments: true

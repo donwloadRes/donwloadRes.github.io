@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "路面裂缝数据集 CrackForest-dataset-master.zip"
+title: "路面裂缝数据集 CrackForestdatasetmasterzip"
 date:   2020-10-12
 tags: [数据,CrackForest,dataset,master,zip]
 comments: true

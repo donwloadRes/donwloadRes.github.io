@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信息安全工程师教程》"
+title: "信息安全工程师教程"
 date:   2020-05-09
 tags: [信息安全,教程,学习,工程师,考试]
 comments: true

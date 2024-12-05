@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android反编译工具套件（apktool 2.4.1, dex2jar 2.0, jd-gui 1.6.6）"
+title: "Android反编译工具套件apktool 241 dex2jar 20 jdgui 166"
 date:   2020-10-23
 tags: [反编译,APK,文件,Android,apktool]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电-热-气综合能源MATLAB代码"
+title: "电热气综合能源MATLAB代码"
 date:   2020-03-17
 tags: [MATLAB,代码,能源,综合,示例]
 comments: true

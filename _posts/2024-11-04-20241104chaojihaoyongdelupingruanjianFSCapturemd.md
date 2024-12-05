@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超级好用的录屏软件：FSCapture"
+title: "超级好用的录屏软件FSCapture"
 date:   2023-10-08
 tags: [录制,FSCapture,录屏,软件,视频]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "啊哈算法（PDF免积分下载）"
+title: "啊哈算法PDF免积分下载"
 date:   2023-11-23
 tags: [算法,PDF,啊哈,下载,学习]
 comments: true

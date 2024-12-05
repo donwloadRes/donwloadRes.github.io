@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-基于LSTM的三分类文本情感分析"
+title: "Python基于LSTM的三分类文本情感分析"
 date:   2023-12-02
 tags: [文本,LSTM,模型,情感,Python]
 comments: true

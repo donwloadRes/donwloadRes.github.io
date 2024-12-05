@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FirstChip-MPTools 量产工具下载"
+title: "FirstChipMPTools 量产工具下载"
 date:   2024-09-24
 tags: [FirstChip,量产,主控,工具,MPTools]
 comments: true

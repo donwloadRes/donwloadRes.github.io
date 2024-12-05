@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autojs4脚本大合集（薅羊毛专业版的脚本）"
+title: "Autojs4脚本大合集薅羊毛专业版的脚本"
 date:   2024-10-04
 tags: [脚本,Autojs,合集,羊毛,自动化]
 comments: true

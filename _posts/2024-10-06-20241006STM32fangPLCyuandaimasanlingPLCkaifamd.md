@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32仿PLC源代码 - 三菱PLC开发"
+title: "STM32仿PLC源代码  三菱PLC开发"
 date:   2023-08-15
 tags: [源代码,PLC,STM32,编程,三菱]
 comments: true

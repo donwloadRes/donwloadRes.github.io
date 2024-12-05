@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RK3588 最新设计文件：全面的硬件开发资源"
+title: "RK3588 最新设计文件全面的硬件开发资源"
 date:   2022-05-30
 tags: [RK3588,接口,硬件,TX,设计]
 comments: true

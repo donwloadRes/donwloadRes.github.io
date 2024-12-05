@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NASA化学平衡计算程序CEA（Fortran源代码）及报告"
+title: "NASA化学平衡计算程序CEAFortran源代码及报告"
 date:   2021-06-24
 tags: [CEA,Assigned,源代码,化学平衡,程序]
 comments: true

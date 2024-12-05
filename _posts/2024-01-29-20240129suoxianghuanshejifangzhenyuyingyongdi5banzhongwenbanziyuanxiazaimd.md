@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锁相环设计、仿真与应用（第5版）中文版资源下载"
+title: "锁相环设计仿真与应用第5版中文版资源下载"
 date:   2024-05-06
 tags: [锁相环,PDF,仿真,中文版,下载]
 comments: true

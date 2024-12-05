@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103学习笔记（4）——LCD段码屏HT1621使用"
+title: "STM32F103学习笔记4LCD段码屏HT1621使用"
 date:   2022-03-30
 tags: [HT1621,LCD,STM32F103,段码,笔记]
 comments: true

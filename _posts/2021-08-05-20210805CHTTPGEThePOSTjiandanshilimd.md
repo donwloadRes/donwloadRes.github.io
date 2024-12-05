@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ HTTP GET 和 POST 简单实例"
+title: "C HTTP GET 和 POST 简单实例"
 date:   2022-05-25
 tags: [HTTP,POST,C++,GET,请求]
 comments: true

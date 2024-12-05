@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt及Qt Quick开发实战精解(超清PDF)"
+title: "Qt及Qt Quick开发实战精解超清PDF"
 date:   2020-12-19
 tags: [QML,Qt,PDF,实战,精解]
 comments: true

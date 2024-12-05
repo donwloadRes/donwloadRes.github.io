@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Servlet+jsp+mysql的学生宿舍管理系统"
+title: "基于Servletjspmysql的学生宿舍管理系统"
 date:   2021-09-11
 tags: [数据库,管理,Servlet,学生宿舍,宿舍]
 comments: true

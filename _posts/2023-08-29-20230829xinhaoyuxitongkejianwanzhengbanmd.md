@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "信号与系统课件（完整版）"
+title: "信号与系统课件完整版"
 date:   2021-05-31
 tags: [课件,信号,系统,学习,完整版]
 comments: true

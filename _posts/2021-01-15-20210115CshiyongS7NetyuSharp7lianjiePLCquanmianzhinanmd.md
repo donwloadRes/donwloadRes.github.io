@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 使用 S7.Net 与 Sharp7 连接 PLC：全面指南"
+title: "C 使用 S7Net 与 Sharp7 连接 PLC全面指南"
 date:   2020-06-04
 tags: [PLC,C#,S7,Net,Sharp7]
 comments: true

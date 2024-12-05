@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS900-PH1A 数据手册下载"
+title: "DS900PH1A 数据手册下载"
 date:   2024-07-04
 tags: [DS900,PH1A,文件,手册,Datasheet]
 comments: true

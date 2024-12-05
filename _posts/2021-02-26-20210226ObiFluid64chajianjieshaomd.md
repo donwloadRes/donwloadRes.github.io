@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obi Fluid 6.4 插件介绍"
+title: "Obi Fluid 64 插件介绍"
 date:   2024-01-18
 tags: [插件,Unity,流体,Obi,Fluid]
 comments: true

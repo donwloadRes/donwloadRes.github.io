@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil.STM32F1xx_DFP.2.3.0安装包"
+title: "KeilSTM32F1xxDFP230安装包"
 date:   2024-10-18
 tags: [安装包,Keil,STM32F1xx,DFP.2,3.0]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#源码系列7 - 开源ERP源码"
+title: "C源码系列7  开源ERP源码"
 date:   2024-09-13
 tags: [源码,开源,C#,ERP,解压]
 comments: true

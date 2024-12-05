@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DELPHI DBGridEh表格控件完全使用指南(101页)"
+title: "DELPHI DBGridEh表格控件完全使用指南101页"
 date:   2021-04-06
 tags: [DBGridEh,DELPHI,控件,表格,开发者]
 comments: true

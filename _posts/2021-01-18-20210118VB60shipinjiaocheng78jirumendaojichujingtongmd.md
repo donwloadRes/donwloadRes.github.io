@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VB6.0视频教程78集 - 入门到基础精通"
+title: "VB60视频教程78集  入门到基础精通"
 date:   2024-11-15
 tags: [教程,VB6.0,编程,78,控件]
 comments: true

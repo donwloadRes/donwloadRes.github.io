@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "德州仪器（TI）封装库大全"
+title: "德州仪器TI封装库大全"
 date:   2024-09-23
 tags: [封装,TI,德州仪器,DC,文件]
 comments: true

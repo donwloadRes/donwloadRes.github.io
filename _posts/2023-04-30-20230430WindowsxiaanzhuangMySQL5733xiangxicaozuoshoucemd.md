@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows下安装MySQL 5.7.33 详细操作手册"
+title: "Windows下安装MySQL 5733 详细操作手册"
 date:   2023-11-30
 tags: [MySQL,解压,33,5.7,安装]
 comments: true

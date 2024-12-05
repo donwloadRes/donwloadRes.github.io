@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB多机器人路径规划：A算法与仿真"
+title: "MATLAB多机器人路径规划A算法与仿真"
 date:   2023-10-19
 tags: [机器人,路径,算法,MATLAB,仿真]
 comments: true

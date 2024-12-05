@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 阿里云对象存储 (OSS) 库"
+title: "Delphi 阿里云对象存储 OSS 库"
 date:   2021-03-19
 tags: [OSS,阿里,文件,Bucket,Delphi]
 comments: true

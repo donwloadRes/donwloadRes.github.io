@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "天津理工大学JAVA语言程序设计》期末考试试卷"
+title: "天津理工大学JAVA语言程序设计期末考试试卷"
 date:   2023-06-12
 tags: [试卷,期末考试,复习,JAVA,理工大学]
 comments: true

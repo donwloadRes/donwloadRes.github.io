@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepLabV3+语义分割项目代码"
+title: "DeepLabV3语义分割项目代码"
 date:   2024-02-09
 tags: [训练,模型,DeepLabV3,分割,测试]
 comments: true

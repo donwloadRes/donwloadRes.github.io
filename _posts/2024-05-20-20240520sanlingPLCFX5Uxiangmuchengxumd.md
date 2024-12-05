@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三菱PLC FX-5U 项目程序"
+title: "三菱PLC FX5U 项目程序"
 date:   2024-10-20
 tags: [PLC,程序,5U,FX,三菱]
 comments: true

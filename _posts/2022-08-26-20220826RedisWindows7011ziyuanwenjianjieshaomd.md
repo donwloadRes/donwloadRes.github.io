@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis Windows 7.0.11 资源文件介绍"
+title: "Redis Windows 7011 资源文件介绍"
 date:   2021-03-29
 tags: [Redis,文件,Windows,11,7.0]
 comments: true

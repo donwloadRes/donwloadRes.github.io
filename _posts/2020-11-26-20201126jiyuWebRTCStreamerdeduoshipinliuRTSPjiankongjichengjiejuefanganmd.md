@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于WebRTC-Streamer的多视频流RTSP监控集成解决方案"
+title: "基于WebRTCStreamer的多视频流RTSP监控集成解决方案"
 date:   2023-02-25
 tags: [RTSP,监控,WebRTC,视频流,实时]
 comments: true

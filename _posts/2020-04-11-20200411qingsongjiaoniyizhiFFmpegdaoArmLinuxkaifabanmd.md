@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "轻松教你移植FFmpeg到Arm-Linux开发板"
+title: "轻松教你移植FFmpeg到ArmLinux开发板"
 date:   2020-11-18
 tags: [FFmpeg,移植,Arm,Linux,开发板]
 comments: true

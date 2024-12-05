@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++项目开发实战入门 源代码"
+title: "C项目开发实战入门 源代码"
 date:   2023-12-04
 tags: [C++,源代码,入门,项目,开发]
 comments: true

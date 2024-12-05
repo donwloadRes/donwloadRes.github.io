@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "快速、精确仿真高频电磁场的工具CST Studio Suite 2024版本下载与安装配置"
+title: "快速精确仿真高频电磁场的工具CST Studio Suite 2024版本下载与安装配置"
 date:   2022-06-13
 tags: [CST,Studio,Suite,2024,安装]
 comments: true

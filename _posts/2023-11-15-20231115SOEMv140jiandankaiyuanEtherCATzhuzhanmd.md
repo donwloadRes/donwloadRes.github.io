@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOEM v1.4.0 - 简单开源EtherCAT主站"
+title: "SOEM v140  简单开源EtherCAT主站"
 date:   2021-01-21
 tags: [SOEM,EtherCAT,开源,用户,主站]
 comments: true

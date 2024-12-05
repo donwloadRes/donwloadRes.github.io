@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEEE 1801-2015(3.0).pdf - 低功耗设计标准 UPF 3.1 指南"
+title: "IEEE 1801201530pdf  低功耗设计标准 UPF 31 指南"
 date:   2022-09-06
 tags: [低功耗,UPF,设计,3.0,pdf]
 comments: true

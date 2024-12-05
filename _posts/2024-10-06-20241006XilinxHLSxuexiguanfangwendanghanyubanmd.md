@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx HLS 学习官方文档（汉语版）"
+title: "Xilinx HLS 学习官方文档汉语版"
 date:   2023-08-05
 tags: [文档,HLS,汉语,Xilinx,学习]
 comments: true

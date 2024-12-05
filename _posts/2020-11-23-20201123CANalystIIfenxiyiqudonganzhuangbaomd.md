@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANalyst-II 分析仪驱动安装包"
+title: "CANalystII 分析仪驱动安装包"
 date:   2020-02-23
 tags: [CANalyst,II,分析仪,设备,驱动]
 comments: true

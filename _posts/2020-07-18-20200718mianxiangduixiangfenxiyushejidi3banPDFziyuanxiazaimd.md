@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面向对象分析与设计（第3版）PDF资源下载"
+title: "面向对象分析与设计第3版PDF资源下载"
 date:   2022-08-15
 tags: [PDF,面向对象分析,文件,下载,设计]
 comments: true

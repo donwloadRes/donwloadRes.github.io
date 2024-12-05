@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hypatia安装终极记录（巨详细）"
+title: "Hypatia安装终极记录巨详细"
 date:   2021-02-22
 tags: [安装,Hypatia,Ubuntu,18.04,sh]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中兴、贝尔光猫CFG文件解密加密工具"
+title: "中兴贝尔光猫CFG文件解密加密工具"
 date:   2022-01-15
 tags: [CFG,光猫,解密,加密,工具]
 comments: true

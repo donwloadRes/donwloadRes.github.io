@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生L3119清零软件+图解.最新版"
+title: "爱普生L3119清零软件图解最新版"
 date:   2021-04-18
 tags: [清零,图解,爱普生,L3119,软件]
 comments: true

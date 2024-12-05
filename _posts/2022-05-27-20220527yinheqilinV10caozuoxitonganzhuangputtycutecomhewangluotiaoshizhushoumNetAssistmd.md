@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟V10操作系统安装putty、cutecom和网络调试助手（mNetAssist）"
+title: "银河麒麟V10操作系统安装puttycutecom和网络调试助手mNetAssist"
 date:   2022-05-14
 tags: [安装,网络,putty,cutecom,mNetAssist]
 comments: true

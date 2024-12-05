@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 13.0 Launcher 客制化指导手册 V1.1"
+title: "Android 130 Launcher 客制化指导手册 V11"
 date:   2023-07-04
 tags: [客制化,Launcher,手册,Android,13.0]
 comments: true

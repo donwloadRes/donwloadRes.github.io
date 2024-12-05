@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "18650圆柱锂电池COMSOL 5.6资源下载"
+title: "18650圆柱锂电池COMSOL 56资源下载"
 date:   2022-12-15
 tags: [COMSOL,5.6,模型,参数,18650]
 comments: true

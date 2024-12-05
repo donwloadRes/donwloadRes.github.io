@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware虚拟机黑群晖7.2 -64561正式版"
+title: "VMware虚拟机黑群晖72 64561正式版"
 date:   2020-10-24
 tags: [虚拟机,黑群晖,VMware,ESXI,文件]
 comments: true

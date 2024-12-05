@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卓金武MATLAB在数学建模中的应用》 第2版"
+title: "卓金武MATLAB在数学建模中的应用 第2版"
 date:   2024-11-24
 tags: [建模,MATLAB,数学,源代码,学习]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海思Hi3559AV100开发板CADENCE原理图和PADS9.5 PCB源文件"
+title: "海思Hi3559AV100开发板CADENCE原理图和PADS95 PCB源文件"
 date:   2020-11-07
 tags: [PCB,CADENCE,原理图,PADS9.5,源文件]
 comments: true

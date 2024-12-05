@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT5.9+OpenCV实现摄像头调用资源文件介绍"
+title: "QT59OpenCV实现摄像头调用资源文件介绍"
 date:   2022-08-21
 tags: [摄像头,QT5.9,OpenCV3.4,调用,OpenCV]
 comments: true

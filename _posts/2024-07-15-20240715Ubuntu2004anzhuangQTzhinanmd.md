@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 安装 QT 指南"
+title: "Ubuntu 2004 安装 QT 指南"
 date:   2021-10-02
 tags: [QT,安装,Ubuntu,20.04,指南]
 comments: true

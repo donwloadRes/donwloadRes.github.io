@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP 客户端：收发16进制案例源码"
+title: "C TCP 客户端收发16进制案例源码"
 date:   2023-06-13
 tags: [16,进制,TCP,源码,收发]
 comments: true

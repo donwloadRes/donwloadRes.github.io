@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React创建项目（保姆级讲解，配置文件详细介绍）"
+title: "React创建项目保姆级讲解配置文件详细介绍"
 date:   2024-01-17
 tags: [React,项目,配置文件,node,教程]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Egg.js + Wechaty 微信聊天机器人 Demo"
+title: "Eggjs  Wechaty 微信聊天机器人 Demo"
 date:   2024-04-09
 tags: [Demo,Egg,js,微信,Wechaty]
 comments: true

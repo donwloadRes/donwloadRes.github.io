@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IDM+毒盘 = 高速下载互联网资源攻略"
+title: "IDM毒盘  高速下载互联网资源攻略"
 date:   2021-04-26
 tags: [IDM,毒盘,高速下载,百度网,下载]
 comments: true

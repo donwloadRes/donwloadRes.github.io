@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type-C接口引脚定义资源文件"
+title: "TypeC接口引脚定义资源文件"
 date:   2021-08-25
 tags: [引脚,接口,Type,文件,定义]
 comments: true

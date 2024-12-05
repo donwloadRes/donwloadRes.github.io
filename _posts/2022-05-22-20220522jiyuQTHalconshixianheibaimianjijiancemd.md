@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT+Halcon实现黑白面积检测"
+title: "基于QTHalcon实现黑白面积检测"
 date:   2024-03-14
 tags: [Halcon,Qt,黑白,项目,检测]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "亚博智能K210模块-基于CANMV训练识别数字"
+title: "亚博智能K210模块基于CANMV训练识别数字"
 date:   2023-05-24
 tags: [CANMV,K210,训练,模块,识别]
 comments: true

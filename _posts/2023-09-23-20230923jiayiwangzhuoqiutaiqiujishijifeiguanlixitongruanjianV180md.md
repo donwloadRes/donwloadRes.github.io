@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "佳易王桌球台球计时计费管理系统软件V18.0"
+title: "佳易王桌球台球计时计费管理系统软件V180"
 date:   2021-03-21
 tags: [计费,计时,佳易王,管理,桌球台]
 comments: true

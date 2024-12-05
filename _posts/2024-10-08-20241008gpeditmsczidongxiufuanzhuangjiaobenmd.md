@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gpedit.msc自动修复安装脚本"
+title: "gpeditmsc自动修复安装脚本"
 date:   2024-01-16
 tags: [脚本,Windows,修复,gpedit,msc]
 comments: true

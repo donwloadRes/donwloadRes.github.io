@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "XMind思维导图模板库（全）"
+title: "XMind思维导图模板库全"
 date:   2020-01-03
 tags: [模板,XMind,导图,创意,适用]
 comments: true

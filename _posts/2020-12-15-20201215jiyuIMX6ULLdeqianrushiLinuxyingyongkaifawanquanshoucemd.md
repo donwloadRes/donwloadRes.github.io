@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于I.MX6ULL的嵌入式Linux应用开发完全手册"
+title: "基于IMX6ULL的嵌入式Linux应用开发完全手册"
 date:   2020-12-31
 tags: [嵌入式,Linux,开发,MX6ULL,手册]
 comments: true

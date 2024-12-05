@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenCV-Python 中文教程"
+title: "OpenCVPython 中文教程"
 date:   2022-10-31
 tags: [OpenCV,教程,Python,计算机,视觉]
 comments: true

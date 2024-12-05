@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Q及以上系统音频捕获功能（声音内录）Demo源码"
+title: "Android Q及以上系统音频捕获功能声音内录Demo源码"
 date:   2022-05-18
 tags: [源码,Android,音频,捕获,内录]
 comments: true

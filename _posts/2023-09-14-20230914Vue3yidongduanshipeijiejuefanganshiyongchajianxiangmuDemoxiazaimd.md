@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue3 移动端适配解决方案（使用插件）项目Demo下载"
+title: "Vue3 移动端适配解决方案使用插件项目Demo下载"
 date:   2023-08-12
 tags: [适配,Demo,项目,Vue3,插件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EMC设计-浪涌、静电、EFT防护---北京和利时"
+title: "EMC设计浪涌静电EFT防护北京和利时"
 date:   2023-10-18
 tags: [EMC,1.1,设计,防护,EFT]
 comments: true

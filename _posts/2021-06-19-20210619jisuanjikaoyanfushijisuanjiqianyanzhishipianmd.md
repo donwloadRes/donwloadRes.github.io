@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机考研复试——计算机前沿知识篇"
+title: "计算机考研复试计算机前沿知识篇"
 date:   2024-04-29
 tags: [复试,考研,计算机,考生,数据挖掘]
 comments: true

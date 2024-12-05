@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "统一诊断服务 (UDS) 协议学习资料"
+title: "统一诊断服务 UDS 协议学习资料"
 date:   2022-11-20
 tags: [UDS,协议,文件,服务,诊断]
 comments: true

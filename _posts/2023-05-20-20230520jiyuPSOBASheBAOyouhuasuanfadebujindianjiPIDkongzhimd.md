@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PSO、BAS和BAO优化算法的步进电机PID控制"
+title: "基于PSOBAS和BAO优化算法的步进电机PID控制"
 date:   2024-05-17
 tags: [PID,算法,步进,优化,控制]
 comments: true

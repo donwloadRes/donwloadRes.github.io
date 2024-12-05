@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automotive SPICE PAM 3.1 中文及英文版资源下载"
+title: "Automotive SPICE PAM 31 中文及英文版资源下载"
 date:   2021-09-27
 tags: [Automotive,SPICE,英文版,参考模型,3.1]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KEIL5-MDK详细安装流程指南"
+title: "KEIL5MDK详细安装流程指南"
 date:   2020-08-20
 tags: [KEIL5,MDK,安装,安装程序,Pack]
 comments: true

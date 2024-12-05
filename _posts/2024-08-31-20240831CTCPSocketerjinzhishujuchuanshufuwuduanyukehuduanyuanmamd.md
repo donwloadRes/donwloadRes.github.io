@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP Socket 二进制数据传输服务端与客户端源码"
+title: "C TCP Socket 二进制数据传输服务端与客户端源码"
 date:   2023-05-19
 tags: [源码,服务端,客户端,数据传输,稳定性]
 comments: true

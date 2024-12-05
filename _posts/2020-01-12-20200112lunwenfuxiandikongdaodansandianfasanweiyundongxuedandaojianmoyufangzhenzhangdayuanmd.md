@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "论文复现：地空导弹三点法三维运动学弹道建模与仿真-张大元"
+title: "论文复现地空导弹三点法三维运动学弹道建模与仿真张大元"
 date:   2022-04-11
 tags: [仿真,MATLAB,运动学,模型,建模]
 comments: true

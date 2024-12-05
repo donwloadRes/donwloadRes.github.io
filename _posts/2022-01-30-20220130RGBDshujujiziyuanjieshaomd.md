@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RGB-D数据集资源介绍"
+title: "RGBD数据集资源介绍"
 date:   2022-05-21
 tags: [数据,RGB,下载,场景,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eXeScope（exe修改工具）"
+title: "eXeScopeexe修改工具"
 date:   2023-08-19
 tags: [修改,软件,资源,eXeScope,工具]
 comments: true

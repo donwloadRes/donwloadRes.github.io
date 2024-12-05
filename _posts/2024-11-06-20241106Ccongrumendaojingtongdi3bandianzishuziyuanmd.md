@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#从入门到精通(第3版)》电子书资源"
+title: "C从入门到精通第3版电子书资源"
 date:   2021-11-14
 tags: [C#,PDF,入门,书签,精通]
 comments: true

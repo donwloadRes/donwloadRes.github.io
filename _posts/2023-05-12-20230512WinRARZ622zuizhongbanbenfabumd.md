@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinRAR Z 6.22 最终版本发布"
+title: "WinRAR Z 622 最终版本发布"
 date:   2023-11-30
 tags: [版本,WinRAR,6.22,更新,文件]
 comments: true

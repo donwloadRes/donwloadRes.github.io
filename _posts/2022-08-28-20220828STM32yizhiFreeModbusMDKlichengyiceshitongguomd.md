@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32移植FreeModbus MDK例程（已测试通过）"
+title: "STM32移植FreeModbus MDK例程已测试通过"
 date:   2020-03-16
 tags: [STM32,例程,FreeModbus,MDK5,移植]
 comments: true

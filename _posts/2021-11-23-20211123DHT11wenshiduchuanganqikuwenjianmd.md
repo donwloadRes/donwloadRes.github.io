@@ -1,6 +1,40 @@
 ---
 layout: post
-title: "DHT11 温湿度传感器库文件"
+title: "DHT11 温湿度传感器库文件
+date   20210321
+tags dhtDHT11传感器Arduino文件
+comments true
+author admin
+
+ DHT11 温湿度传感器库文件
+
+ 简介
+
+本仓库提供了一个用于DHT11温湿度传感器的C语言库文件适用于Arduino开发环境该库文件名为dhth包含了与DHT11传感器通信所需的所有功能通过使用该库文件您可以轻松地在Arduino项目中读取DHT11传感器的温湿度数据
+
+ 功能特点
+
+ C语言实现该库文件完全使用C语言编写适用于Arduino平台
+ 易于集成只需将dhth文件添加到您的Arduino项目中即可开始使用
+ 简单易用提供了简洁的API接口方便用户快速上手
+
+ 使用方法
+
+1 下载库文件从本仓库下载dhth文件
+2 添加到项目将dhth文件放置在您的Arduino项目文件夹中
+3 包含库文件在您的Arduino代码中包含dhth文件例如
+   c
+   include dhth
+   
+4 初始化传感器在setup函数中初始化DHT11传感器
+5 读取数据在loop函数中调用相关函数读取温湿度数据
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用dhth库文件读取DHT11传感器的温湿度数据
+
+c
+include dhth"
 date:   2021-03-21
 tags: [dht,DHT11,传感器,Arduino,文件]
 comments: true

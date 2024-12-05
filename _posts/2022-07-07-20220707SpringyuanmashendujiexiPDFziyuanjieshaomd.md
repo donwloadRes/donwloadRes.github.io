@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring源码深度解析》 PDF资源介绍"
+title: "Spring源码深度解析 PDF资源介绍"
 date:   2021-03-09
 tags: [Spring,源码,PDF,解析,框架]
 comments: true

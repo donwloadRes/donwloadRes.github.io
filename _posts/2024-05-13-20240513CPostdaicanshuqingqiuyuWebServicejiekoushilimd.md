@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Post带参数请求与WebService接口示例"
+title: "C Post带参数请求与WebService接口示例"
 date:   2022-11-08
 tags: [WebService,接口,Post,示例,C#]
 comments: true

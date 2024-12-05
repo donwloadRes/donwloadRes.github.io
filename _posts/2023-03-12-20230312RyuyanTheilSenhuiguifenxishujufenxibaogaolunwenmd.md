@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R语言Theil-Sen回归分析数据分析报告论文"
+title: "R语言TheilSen回归分析数据分析报告论文"
 date:   2024-09-18
 tags: [Theil,Sen,数据分析,回归,语言]
 comments: true

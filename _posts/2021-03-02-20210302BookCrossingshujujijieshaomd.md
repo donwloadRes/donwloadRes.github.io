@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book-Crossing数据集介绍"
+title: "BookCrossing数据集介绍"
 date:   2023-02-28
 tags: [Book,用户,Crossing,书籍,URL]
 comments: true

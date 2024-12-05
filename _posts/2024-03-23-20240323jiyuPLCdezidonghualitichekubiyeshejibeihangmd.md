@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于PLC的自动化立体车库毕业设计（北航）"
+title: "基于PLC的自动化立体车库毕业设计北航"
 date:   2023-12-29
 tags: [PLC,自动化,立体车库,设计,毕业设计]
 comments: true

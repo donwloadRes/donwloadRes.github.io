@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "悬臂梁计算：振型与固有频率计算脚本"
+title: "悬臂梁计算振型与固有频率计算脚本"
 date:   2024-11-15
 tags: [悬臂梁,脚本,振型,计算,固有频率]
 comments: true

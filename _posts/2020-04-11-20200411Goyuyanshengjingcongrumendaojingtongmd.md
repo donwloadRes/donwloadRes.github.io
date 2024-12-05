@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go语言圣经：从入门到精通"
+title: "Go语言圣经从入门到精通"
 date:   2023-02-28
 tags: [Go,语言,入门,编程,并发]
 comments: true

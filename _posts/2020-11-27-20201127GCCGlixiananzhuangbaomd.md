@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC G++ 离线安装包"
+title: "GCC G 离线安装包"
 date:   2024-04-06
 tags: [安装包,GCC,++,离线,安装]
 comments: true

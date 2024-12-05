@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JD9365DA-H3-DS-V0.01 资源文件下载"
+title: "JD9365DAH3DSV001 资源文件下载"
 date:   2024-03-24
 tags: [V0.01,JD9365DA,H3,DS,文件]
 comments: true

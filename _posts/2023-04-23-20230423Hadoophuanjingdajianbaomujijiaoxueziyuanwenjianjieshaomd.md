@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hadoop环境搭建（保姆级教学）资源文件介绍"
+title: "Hadoop环境搭建保姆级教学资源文件介绍"
 date:   2020-05-20
 tags: [Hadoop,搭建,教程,环境,文件]
 comments: true

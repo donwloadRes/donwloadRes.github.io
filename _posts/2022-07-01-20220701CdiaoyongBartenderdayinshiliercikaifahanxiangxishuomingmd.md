@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 调用 Bartender 打印示例（二次开发，含详细说明）"
+title: "C 调用 Bartender 打印示例二次开发含详细说明"
 date:   2022-07-01
 tags: [Bartender,示例,打印,模板,SDK]
 comments: true

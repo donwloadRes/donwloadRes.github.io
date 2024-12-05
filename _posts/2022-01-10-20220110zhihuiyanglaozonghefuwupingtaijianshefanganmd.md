@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "智慧养老综合服务平台-建设方案"
+title: "智慧养老综合服务平台建设方案"
 date:   2022-12-25
 tags: [养老,服务平台,方案,智慧,建设]
 comments: true

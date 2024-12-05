@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于BlueZ 5.50修改的GATT API库"
+title: "基于BlueZ 550修改的GATT API库"
 date:   2020-06-05
 tags: [BlueZ,GATT,5.50,API,修改]
 comments: true

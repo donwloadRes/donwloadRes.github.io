@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAKE接收技术的Matlab仿真实验(附源码)"
+title: "RAKE接收技术的Matlab仿真实验附源码"
 date:   2022-03-13
 tags: [RAKE,Matlab,仿真,接收,多径]
 comments: true

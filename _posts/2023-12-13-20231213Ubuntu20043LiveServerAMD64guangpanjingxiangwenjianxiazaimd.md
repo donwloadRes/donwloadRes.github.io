@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04.3 Live Server AMD64 光盘镜像文件下载"
+title: "Ubuntu 20043 Live Server AMD64 光盘镜像文件下载"
 date:   2023-05-20
 tags: [20.04,镜像文件,Ubuntu,Live,Server]
 comments: true

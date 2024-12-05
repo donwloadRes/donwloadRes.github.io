@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VisionPro 9.5 中文版手册下载"
+title: "VisionPro 95 中文版手册下载"
 date:   2024-04-27
 tags: [VisionPro,9.5,手册,中文版,下载]
 comments: true

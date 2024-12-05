@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC十字路口红绿灯设计报告模板（含代码）"
+title: "PLC十字路口红绿灯设计报告模板含代码"
 date:   2023-12-16
 tags: [PLC,模板,梯形图,报告,红绿灯]
 comments: true

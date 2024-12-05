@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动输入脚本 -- 解决禁止粘贴问题"
+title: "自动输入脚本  解决禁止粘贴问题"
 date:   2021-01-30
 tags: [脚本,输入,粘贴,Python,pyautogui]
 comments: true

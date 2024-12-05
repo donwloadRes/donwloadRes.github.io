@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modbus协议: 增强工业自动化中的数据通信"
+title: "Modbus协议 增强工业自动化中的数据通信"
 date:   2023-12-23
 tags: [Modbus,数据通信,协议,通信,指南]
 comments: true

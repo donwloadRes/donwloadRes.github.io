@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegro 16.6 背钻和盲埋孔设置指南"
+title: "Allegro 166 背钻和盲埋孔设置指南"
 date:   2024-01-26
 tags: [Allegro,设计,16.6,设置,指南]
 comments: true

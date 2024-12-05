@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISP算法之一：AE算法资源下载"
+title: "ISP算法之一AE算法资源下载"
 date:   2023-01-27
 tags: [AE,算法,ISP,曝光,资源]
 comments: true

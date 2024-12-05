@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java简历模板（技能描述+项目经验+面试总结）"
+title: "Java简历模板技能描述项目经验面试总结"
 date:   2022-05-25
 tags: [简历,面试,Java,模板,技能]
 comments: true

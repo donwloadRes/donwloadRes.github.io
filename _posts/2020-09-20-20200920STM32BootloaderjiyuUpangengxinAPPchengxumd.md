@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32 Bootloader - 基于U盘更新APP程序"
+title: "STM32 Bootloader  基于U盘更新APP程序"
 date:   2022-05-19
 tags: [U盘,APP,STM32,更新,bootloader]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习 PySOT(1)：介绍、配置与使用指南"
+title: "学习 PySOT1介绍配置与使用指南"
 date:   2020-06-30
 tags: [PySOT,跟踪,SiamRPN,配置,算法]
 comments: true

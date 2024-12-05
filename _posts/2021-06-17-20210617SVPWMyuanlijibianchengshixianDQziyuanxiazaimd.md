@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVPWM原理及编程实现(DQ)资源下载"
+title: "SVPWM原理及编程实现DQ资源下载"
 date:   2020-07-25
 tags: [SVPWM,DQ,编程,文件,资源]
 comments: true

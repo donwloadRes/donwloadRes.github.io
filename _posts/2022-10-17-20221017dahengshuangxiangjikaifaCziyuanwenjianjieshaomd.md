@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大恒双相机开发-C# 资源文件介绍"
+title: "大恒双相机开发C 资源文件介绍"
 date:   2020-09-18
 tags: [大恒双,多线程,相机,C#,开发者]
 comments: true

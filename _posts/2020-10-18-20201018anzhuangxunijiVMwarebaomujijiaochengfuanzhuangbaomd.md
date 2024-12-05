@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装虚拟机（VMware）保姆级教程（附安装包）"
+title: "安装虚拟机VMware保姆级教程附安装包"
 date:   2020-02-25
 tags: [安装,VMware,虚拟机,教程,安装包]
 comments: true

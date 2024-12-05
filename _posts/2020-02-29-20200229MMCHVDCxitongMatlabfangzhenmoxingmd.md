@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MMC-HVDC系统Matlab仿真模型"
+title: "MMCHVDC系统Matlab仿真模型"
 date:   2023-12-27
 tags: [仿真,MMC,Matlab,模型,HVDC]
 comments: true

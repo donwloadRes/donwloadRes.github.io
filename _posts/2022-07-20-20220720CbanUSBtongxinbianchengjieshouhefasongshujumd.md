@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#版USB通信编程(接收和发送数据)"
+title: "C版USB通信编程接收和发送数据"
 date:   2020-10-09
 tags: [USB,C#,编程,设备,文件]
 comments: true

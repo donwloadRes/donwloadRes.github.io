@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Socket通信源码：TCP与UDP数据收发"
+title: "C Socket通信源码TCP与UDP数据收发"
 date:   2023-05-15
 tags: [源码,TCP,UDP,收发,数据]
 comments: true

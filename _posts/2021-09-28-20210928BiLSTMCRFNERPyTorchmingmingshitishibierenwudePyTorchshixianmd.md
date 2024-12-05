@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BiLSTM-CRF-NER-PyTorch：命名实体识别任务的PyTorch实现"
+title: "BiLSTMCRFNERPyTorch命名实体识别任务的PyTorch实现"
 date:   2024-05-03
 tags: [PyTorch,BiLSTM,CRF,py,config]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAE J2716_201001 (SENT协议) 资源文件下载"
+title: "SAE J2716201001 SENT协议 资源文件下载"
 date:   2020-08-11
 tags: [SENT,文件,协议,SAE,J2716]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "win10下比depends更强大的DLL依赖检测工具 - Dependencies"
+title: "win10下比depends更强大的DLL依赖检测工具  Dependencies"
 date:   2021-05-29
 tags: [DLL,依赖,Dependencies,分析,Windows]
 comments: true

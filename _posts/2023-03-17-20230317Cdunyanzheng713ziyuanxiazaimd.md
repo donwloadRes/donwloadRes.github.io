@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C盾验证7.13 资源下载"
+title: "C盾验证713 资源下载"
 date:   2023-05-05
 tags: [验证,7.13,资源,下载,C++]
 comments: true

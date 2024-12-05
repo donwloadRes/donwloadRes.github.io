@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#基于BouncyCastle.Crypto 1.8.10实现国密算法：SM2、SM3、SM4"
+title: "C基于BouncyCastleCrypto 1810实现国密算法SM2SM3SM4"
 date:   2023-10-23
 tags: [BouncyCastle,SM3,SM4,signer,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【AD】如何将喜欢的图案导出成为丝印层和PCB形状"
+title: "AD如何将喜欢的图案导出成为丝印层和PCB形状"
 date:   2020-09-16
 tags: [AD,--,PCB,文件,丝印]
 comments: true

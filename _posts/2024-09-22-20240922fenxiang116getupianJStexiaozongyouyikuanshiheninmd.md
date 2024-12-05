@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "分享116个图片JS特效，总有一款适合您"
+title: "分享116个图片JS特效总有一款适合您"
 date:   2023-05-17
 tags: [特效,图片,116,JS,JavaScript]
 comments: true

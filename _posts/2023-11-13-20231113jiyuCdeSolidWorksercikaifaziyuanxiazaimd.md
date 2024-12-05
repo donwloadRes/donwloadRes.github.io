@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的SolidWorks二次开发资源下载"
+title: "基于C的SolidWorks二次开发资源下载"
 date:   2021-11-27
 tags: [SolidWorks,二次开发,C#,文件,资源]
 comments: true

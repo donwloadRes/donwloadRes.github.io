@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maven安装和配置指南（超详细+配置IDEA）"
+title: "Maven安装和配置指南超详细配置IDEA"
 date:   2021-03-14
 tags: [Maven,IDEA,配置,安装,settings]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战KAGGLE比赛：房价预测数据集+预测实现Demo"
+title: "实战KAGGLE比赛房价预测数据集预测实现Demo"
 date:   2021-02-25
 tags: [KAGGLE,模型,预测,数据,学习]
 comments: true

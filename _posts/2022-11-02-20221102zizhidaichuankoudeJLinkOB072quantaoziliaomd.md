@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自制带串口的J-Link OB 072全套资料"
+title: "自制带串口的JLink OB 072全套资料"
 date:   2023-03-05
 tags: [固件,串口,Link,OB,调试]
 comments: true

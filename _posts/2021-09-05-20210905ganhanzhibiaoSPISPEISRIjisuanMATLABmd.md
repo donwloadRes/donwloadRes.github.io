@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "干旱指标SPI-SPEI-SRI计算-MATLAB"
+title: "干旱指标SPISPEISRI计算MATLAB"
 date:   2023-01-08
 tags: [计算,MATLAB,伽马,标准化,SPI]
 comments: true

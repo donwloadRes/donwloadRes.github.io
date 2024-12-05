@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIE 4.0 规范文档下载"
+title: "PCIE 40 规范文档下载"
 date:   2020-03-22
 tags: [文档,4.0,PCI,Express,下载]
 comments: true

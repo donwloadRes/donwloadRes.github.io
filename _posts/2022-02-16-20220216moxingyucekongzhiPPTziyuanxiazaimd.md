@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "模型预测控制（PPT）资源下载"
+title: "模型预测控制PPT资源下载"
 date:   2020-02-10
 tags: [模型,PPT,预测,控制,章节]
 comments: true

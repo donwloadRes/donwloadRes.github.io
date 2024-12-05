@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SL8541E 充电介绍 - 展锐平台充电流程深度解析"
+title: "SL8541E 充电介绍  展锐平台充电流程深度解析"
 date:   2021-12-30
 tags: [充电,SL8541E,展锐,平台,电池]
 comments: true

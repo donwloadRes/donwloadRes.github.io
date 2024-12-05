@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO26262_2018标准介绍及下载说明"
+title: "ISO262622018标准介绍及下载说明"
 date:   2022-09-07
 tags: [2018,安全,标准,ISO,26262]
 comments: true

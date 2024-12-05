@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC Linaro 7.5.0 交叉编译工具下载"
+title: "GCC Linaro 750 交叉编译工具下载"
 date:   2024-02-16
 tags: [64,7.5,gcc,aarch64,linux]
 comments: true

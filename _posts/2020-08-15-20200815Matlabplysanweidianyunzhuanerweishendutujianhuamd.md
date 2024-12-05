@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab: ply三维点云转二维深度图(简化)"
+title: "Matlab ply三维点云转二维深度图简化"
 date:   2022-02-26
 tags: [代码,深度图,文件,Matlab,ply]
 comments: true

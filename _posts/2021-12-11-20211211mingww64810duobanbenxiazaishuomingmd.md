@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mingw-w64-8.1.0 多版本下载说明"
+title: "mingww64810 多版本下载说明"
 date:   2024-03-31
 tags: [64,环境变量,GCC,x86,版本]
 comments: true

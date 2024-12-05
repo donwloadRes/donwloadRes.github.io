@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SonarQube 7.8 安装及使用教程（Windows）"
+title: "SonarQube 78 安装及使用教程Windows"
 date:   2021-12-21
 tags: [SonarQube,MySQL,7.8,安装,Windows]
 comments: true

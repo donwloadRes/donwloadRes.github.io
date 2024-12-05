@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JMeter安装教程 - Windows平台详细指南"
+title: "JMeter安装教程  Windows平台详细指南"
 date:   2023-07-28
 tags: [JMeter,安装,Windows,教程,解压]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP8266-01S MQTT透传AT固件&烧录工具"
+title: "ESP826601S MQTT透传AT固件烧录工具"
 date:   2021-12-26
 tags: [烧录,固件,ESP8266,透传,01S]
 comments: true

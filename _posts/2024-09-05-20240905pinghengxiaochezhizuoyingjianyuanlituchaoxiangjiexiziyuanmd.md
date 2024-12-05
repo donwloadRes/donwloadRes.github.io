@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【平衡小车制作】硬件原理图超详解析资源"
+title: "平衡小车制作硬件原理图超详解析资源"
 date:   2023-10-23
 tags: [小车,硬件,原理图,平衡,制作]
 comments: true

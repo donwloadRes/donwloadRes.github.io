@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 20.04 离线安装 Nginx（nginx-full-1.18.0）及相关依赖"
+title: "Ubuntu 2004 离线安装 Nginxnginxfull1180及相关依赖"
 date:   2024-09-03
 tags: [Nginx,安装,依赖,文件,nginx]
 comments: true

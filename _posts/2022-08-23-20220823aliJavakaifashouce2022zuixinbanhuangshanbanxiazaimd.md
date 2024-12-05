@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "阿里Java开发手册2022最新版（黄山版）下载"
+title: "阿里Java开发手册2022最新版黄山版下载"
 date:   2024-03-20
 tags: [Java,手册,开发,最新版,2022]
 comments: true

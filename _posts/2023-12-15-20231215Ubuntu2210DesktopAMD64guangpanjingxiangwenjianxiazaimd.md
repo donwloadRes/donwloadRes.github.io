@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu 22.10 Desktop AMD64 光盘镜像文件下载"
+title: "Ubuntu 2210 Desktop AMD64 光盘镜像文件下载"
 date:   2021-06-23
 tags: [镜像文件,Ubuntu,22.10,AMD64,下载]
 comments: true

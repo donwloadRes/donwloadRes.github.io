@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于C#的Chart控件完整示例(源码)"
+title: "基于C的Chart控件完整示例源码"
 date:   2020-04-19
 tags: [示例,控件,图表,C#,源码]
 comments: true

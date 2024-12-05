@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【前端实战】手把手教你创建简单的登录界面"
+title: "前端实战手把手教你创建简单的登录界面"
 date:   2021-03-26
 tags: [password,input,username,登录,div]
 comments: true

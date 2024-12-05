@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LTE教程：业务与信令"
+title: "LTE教程业务与信令"
 date:   2022-03-02
 tags: [LTE,信令,流程,网络,业务]
 comments: true

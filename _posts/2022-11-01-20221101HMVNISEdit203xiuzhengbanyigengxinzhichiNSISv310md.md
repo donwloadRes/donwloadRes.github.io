@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HM VNISEdit 2.0.3 修正版（已更新支持 NSIS v3.10）"
+title: "HM VNISEdit 203 修正版已更新支持 NSIS v310"
 date:   2020-06-28
 tags: [NSIS,HM,VNISEdit,脚本,修正版]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PHP+MySQL毕业设计项目源码（3套）"
+title: "PHPMySQL毕业设计项目源码3套"
 date:   2024-04-02
 tags: [毕业设计,论文,源码,项目,PHP]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PPT倒计时软件（支持PPT、WPS）"
+title: "PPT倒计时软件支持PPTWPS"
 date:   2020-11-14
 tags: [PPT,计时,WPS,软件,倒计时]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++之MFC类库中文手册（一怀去意版）"
+title: "VC之MFC类库中文手册一怀去意版"
 date:   2023-11-03
 tags: [类库,MFC,C++,手册,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "张玉生C语言程序设计》双色版 课后习题参考答案"
+title: "张玉生C语言程序设计双色版 课后习题参考答案"
 date:   2022-01-25
 tags: [习题,C语言,课后,答案,程序设计]
 comments: true

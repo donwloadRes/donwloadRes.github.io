@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "H5U-ST 简易编程手册下载"
+title: "H5UST 简易编程手册下载"
 date:   2024-10-24
 tags: [H5U,ST,手册,编程,简易]
 comments: true

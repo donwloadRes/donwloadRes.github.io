@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Compute Express Link（CXL） 3.0 规范下载"
+title: "Compute Express LinkCXL 30 规范下载"
 date:   2022-07-01
 tags: [CXL,3.0,Compute,Express,Link]
 comments: true

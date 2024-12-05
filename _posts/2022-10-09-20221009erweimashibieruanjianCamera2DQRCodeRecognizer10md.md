@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "二维码识别软件 - Camera_2D_QR-Code_Recognizer 1.0"
+title: "二维码识别软件  Camera2DQRCodeRecognizer 10"
 date:   2024-10-24
 tags: [识别,二维码,软件,串口,Camera]
 comments: true

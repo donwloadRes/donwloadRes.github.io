@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDS_14229协议中英文对照版"
+title: "UDS14229协议中英文对照版"
 date:   2020-03-09
 tags: [文档,UDS,14229,协议,中英文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web3.min.js开发工具介绍"
+title: "Web3minjs开发工具介绍"
 date:   2024-03-19
 tags: [Web3,js,min,开发者,开发工具]
 comments: true

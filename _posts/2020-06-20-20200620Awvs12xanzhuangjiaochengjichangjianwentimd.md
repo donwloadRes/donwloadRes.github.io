@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Awvs 12.x 安装教程及常见问题"
+title: "Awvs 12x 安装教程及常见问题"
 date:   2024-05-16
 tags: [Awvs,12,安装,常见问题,补丁]
 comments: true

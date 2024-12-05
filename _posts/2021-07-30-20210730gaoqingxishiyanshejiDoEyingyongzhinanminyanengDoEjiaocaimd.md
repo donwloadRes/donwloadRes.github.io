@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高清晰实验设计（DoE）应用指南 - 闵亚能 DoE教材"
+title: "高清晰实验设计DoE应用指南  闵亚能 DoE教材"
 date:   2023-03-25
 tags: [DoE,实验设计,JMP,高清晰,闵亚能]
 comments: true

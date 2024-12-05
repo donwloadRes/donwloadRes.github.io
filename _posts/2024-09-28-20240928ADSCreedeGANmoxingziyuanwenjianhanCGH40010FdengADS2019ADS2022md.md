@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADS Cree 的GAN模型资源文件（含CGH40010F等）ADS2019-ADS2022"
+title: "ADS Cree 的GAN模型资源文件含CGH40010F等ADS2019ADS2022"
 date:   2024-06-05
 tags: [ADS,文件,Cree,GAN,资源]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ExitCodeException exitCode=-1073741515 异常解决资源文件介绍"
+title: "ExitCodeException exitCode1073741515 异常解决资源文件介绍"
 date:   2020-04-30
 tags: [C++,运行库,文件,安装,1073741515]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BootLoader西西菜鸟-简易BootLoader实现"
+title: "BootLoader西西菜鸟简易BootLoader实现"
 date:   2024-07-10
 tags: [BootLoader,文档,源代码,文件,初学者]
 comments: true

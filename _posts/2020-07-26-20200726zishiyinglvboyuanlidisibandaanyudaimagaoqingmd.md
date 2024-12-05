@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自适应滤波原理第四版答案与代码（高清）"
+title: "自适应滤波原理第四版答案与代码高清"
 date:   2024-06-21
 tags: [代码,滤波,高清,初学者,答案]
 comments: true

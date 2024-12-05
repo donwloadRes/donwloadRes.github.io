@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rufus下载ldlinux.sys和ldlinux.bss"
+title: "Rufus下载ldlinuxsys和ldlinuxbss"
 date:   2023-09-08
 tags: [ldlinux,Rufus,sys,bss,文件]
 comments: true

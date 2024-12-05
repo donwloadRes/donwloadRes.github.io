@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to Linear Algebra [第五版] 答案"
+title: "Introduction to Linear Algebra 第五版 答案"
 date:   2023-04-12
 tags: [线性代数,习题,答案,第五版,Introduction]
 comments: true

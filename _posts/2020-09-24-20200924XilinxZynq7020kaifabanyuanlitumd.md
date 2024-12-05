@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xilinx Zynq-7020 开发板原理图"
+title: "Xilinx Zynq7020 开发板原理图"
 date:   2020-05-02
 tags: [原理图,开发板,Zynq,7020,Xilinx]
 comments: true

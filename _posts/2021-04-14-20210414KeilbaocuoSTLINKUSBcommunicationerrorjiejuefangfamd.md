@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil报错ST-LINK USB communication error解决方法"
+title: "Keil报错STLINK USB communication error解决方法"
 date:   2024-09-03
 tags: [ST,LINK,USB,Keil,STLink]
 comments: true

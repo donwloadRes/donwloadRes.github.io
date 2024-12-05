@@ -1,6 +1,69 @@
 ---
 layout: post
-title: "一套完整的强大的QML自定义控件"
+title: "一套完整的强大的QML自定义控件
+date   20240917
+tags 控件自定义QMLgithubyour
+comments true
+author admin
+
+ 一套完整的强大的QML自定义控件
+
+ 简介
+
+本仓库提供了一套完整的自定义QML GUI控件功能强大可以直接用于开发项目避免重复造轮子这套控件包括了多种常用的界面元素如按钮日历复选框下拉框对话框日期编辑器日期选择器文件对话框图片按钮标签文本编辑框列表视图消息框数字编辑器数字键盘弹出窗口滚动条搜索框微调框开关选项卡框文本输入框时间框时间编辑器时间选择器切换按钮工具箱顶部选项卡框和树形视图等
+
+ 控件列表
+
+ Button
+ Calendar
+ CheckBox
+ ComboBox
+ CtrlDialog
+ DateEdit
+ DatePicker
+ Dialog
+ FileDialog
+ ImageButton
+ Label
+ LineEdit
+ ListView
+ ListViewSelection
+ MessageBox
+ NumberEdit
+ NumberKeyboard
+ Popup
+ PopupLoader
+ Scalability
+ ScrollBar
+ SearchBox
+ SpinBox
+ Switch
+ TabBox
+ TextField
+ TextInput
+ TimeBox
+ TimeEdit
+ TimePicker
+ ToggleButton
+ ToolBox
+ TopTabBox
+ TreeView
+
+ 使用方法
+
+1 克隆仓库
+   bash
+   git clone httpsgithubcomyourrepourlgit
+   
+
+2 导入控件
+   在你的QML项目中通过以下方式导入并使用这些控件
+   qml
+   import YourCustomControls 10
+
+    示例使用自定义按钮
+   Button 
+       text Click Me"
 date:   2024-09-17
 tags: [控件,自定义,QML,github,your]
 comments: true

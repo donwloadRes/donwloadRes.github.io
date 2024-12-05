@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深度学习经典入门项目—手写数字识别"
+title: "深度学习经典入门项目手写数字识别"
 date:   2024-09-10
 tags: [手写,识别,模型,项目,学习]
 comments: true

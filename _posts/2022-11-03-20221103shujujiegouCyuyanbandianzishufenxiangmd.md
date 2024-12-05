@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构（C语言版）电子书分享"
+title: "数据结构C语言版电子书分享"
 date:   2021-08-28
 tags: [数据结构,C语言,算法,及其,本书]
 comments: true

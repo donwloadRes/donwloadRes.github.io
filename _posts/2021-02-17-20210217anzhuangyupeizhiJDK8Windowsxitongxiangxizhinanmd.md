@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装与配置 JDK8（Windows 系统）详细指南"
+title: "安装与配置 JDK8Windows 系统详细指南"
 date:   2022-04-11
 tags: [JDK8,安装,环境变量,配置,下载]
 comments: true

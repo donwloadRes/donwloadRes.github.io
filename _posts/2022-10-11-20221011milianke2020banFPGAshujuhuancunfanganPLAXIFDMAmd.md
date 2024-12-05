@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米联客2020版FPGA数据缓存方案(PL-AXI-FDMA)"
+title: "米联客2020版FPGA数据缓存方案PLAXIFDMA"
 date:   2024-06-15
 tags: [FPGA,缓存,PL,AXI,FDMA]
 comments: true

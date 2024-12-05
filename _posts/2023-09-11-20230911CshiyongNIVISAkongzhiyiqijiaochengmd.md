@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#使用NI-VISA控制仪器教程"
+title: "C使用NIVISA控制仪器教程"
 date:   2021-10-12
 tags: [NI,VISA,C#,教程,硬件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VMware vCenter Server Appliance 7.0.0 ISO 下载说明"
+title: "VMware vCenter Server Appliance 700 ISO 下载说明"
 date:   2024-05-20
 tags: [VMware,vCenter,Server,7.0,ISO]
 comments: true

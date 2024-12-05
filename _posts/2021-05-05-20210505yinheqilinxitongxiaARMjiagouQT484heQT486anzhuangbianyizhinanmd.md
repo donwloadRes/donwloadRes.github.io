@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "银河麒麟系统下ARM架构QT4.8.4和QT4.8.6安装编译指南"
+title: "银河麒麟系统下ARM架构QT484和QT486安装编译指南"
 date:   2022-08-16
 tags: [QT4.8,编译,步骤,安装,常见问题]
 comments: true

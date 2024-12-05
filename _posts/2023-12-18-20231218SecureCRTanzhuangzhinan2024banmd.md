@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecureCRT 安装指南【2024版】"
+title: "SecureCRT 安装指南2024版"
 date:   2020-05-26
 tags: [SecureCRT,安装,安装包,解压,指南]
 comments: true

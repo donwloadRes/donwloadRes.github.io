@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat 12 for MySQL激活方法（注册机）"
+title: "Navicat 12 for MySQL激活方法注册机"
 date:   2022-01-02
 tags: [Navicat,激活,注册机,12,MySQL]
 comments: true

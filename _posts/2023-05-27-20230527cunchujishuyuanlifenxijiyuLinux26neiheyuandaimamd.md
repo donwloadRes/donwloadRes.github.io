@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "存储技术原理分析 —— 基于Linux 2.6内核源代码"
+title: "存储技术原理分析  基于Linux 26内核源代码"
 date:   2020-06-25
 tags: [内核,Linux,2.6,存储技术,源代码]
 comments: true

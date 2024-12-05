@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "片上网络学习材料：OnChip Networks Second Edition"
+title: "片上网络学习材料OnChip Networks Second Edition"
 date:   2021-11-03
 tags: [片上,网络,基本概念,工程师,领域]
 comments: true

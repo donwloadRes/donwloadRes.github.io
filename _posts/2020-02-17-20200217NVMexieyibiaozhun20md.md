@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVMe协议标准2.0"
+title: "NVMe协议标准20"
 date:   2023-06-24
 tags: [NVMe,2.0,存储,ZNS,Open]
 comments: true

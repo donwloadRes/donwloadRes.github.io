@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "22-8-4 mmaction2 SlowFast 训练资源"
+title: "2284 mmaction2 SlowFast 训练资源"
 date:   2020-10-13
 tags: [训练,模型,mmaction2,SlowFast,slowfast]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ 播放音频流(PCM裸流)"
+title: "C 播放音频流PCM裸流"
 date:   2023-07-22
 tags: [音频,播放,PCM,C++,裸流]
 comments: true

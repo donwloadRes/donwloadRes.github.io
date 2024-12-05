@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国1km土地利用数据1980-2015"
+title: "中国1km土地利用数据19802015"
 date:   2024-06-25
 tags: [1980,2015,土地利用,数据,1km]
 comments: true

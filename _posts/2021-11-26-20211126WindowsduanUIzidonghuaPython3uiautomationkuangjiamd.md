@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows端UI自动化---Python3 + uiautomation框架"
+title: "Windows端UI自动化Python3  uiautomation框架"
 date:   2024-11-24
 tags: [uiautomation,Windows,元素,Python3,UIspy]
 comments: true

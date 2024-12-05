@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ChatGPT国内镜像版：项目源码和使用教程"
+title: "ChatGPT国内镜像版项目源码和使用教程"
 date:   2021-01-31
 tags: [ChatGPT,镜像,教程,源码,项目]
 comments: true

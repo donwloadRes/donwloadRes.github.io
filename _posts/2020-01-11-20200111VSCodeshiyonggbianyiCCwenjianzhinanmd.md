@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSCode 使用 g++ 编译 C-C++ 文件指南"
+title: "VSCode 使用 g 编译 CC 文件指南"
 date:   2023-12-20
 tags: [++,VSCode,C++,编译,文件夹]
 comments: true

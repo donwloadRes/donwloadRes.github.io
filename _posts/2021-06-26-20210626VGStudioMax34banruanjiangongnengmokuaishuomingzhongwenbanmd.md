@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VGStudio Max 3.4版软件功能模块说明(中文版）"
+title: "VGStudio Max 34版软件功能模块说明中文版"
 date:   2023-11-02
 tags: [VGStudio,Max,3.4,CT,文档]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++外卖点餐系统"
+title: "C外卖点餐系统"
 date:   2023-01-24
 tags: [管理,C++,卖点,配送,客户]
 comments: true

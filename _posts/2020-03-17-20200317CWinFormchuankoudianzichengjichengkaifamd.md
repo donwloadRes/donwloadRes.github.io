@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 串口电子秤集成开发"
+title: "C WinForm 串口电子秤集成开发"
 date:   2023-07-17
 tags: [串口,电子秤,代码,集成,WinForm]
 comments: true

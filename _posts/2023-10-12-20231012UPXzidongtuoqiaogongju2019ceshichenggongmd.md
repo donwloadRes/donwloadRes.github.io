@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UPX自动脱壳工具（2019测试成功）"
+title: "UPX自动脱壳工具2019测试成功"
 date:   2021-08-08
 tags: [脱壳,UPX,工具,2019,自动]
 comments: true

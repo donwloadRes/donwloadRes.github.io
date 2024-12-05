@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鼎捷E10 5.0学习教程"
+title: "鼎捷E10 50学习教程"
 date:   2022-12-09
 tags: [鼎捷,5.0,E10,学习,教程]
 comments: true

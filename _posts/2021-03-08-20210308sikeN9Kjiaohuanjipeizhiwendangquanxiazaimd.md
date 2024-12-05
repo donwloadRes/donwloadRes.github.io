@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思科N9K交换机配置文档（全）下载"
+title: "思科N9K交换机配置文档全下载"
 date:   2024-09-11
 tags: [文档,思科,交换机,N9K,配置]
 comments: true

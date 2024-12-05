@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CXL 3.0 规范文件下载仓库"
+title: "CXL 30 规范文件下载仓库"
 date:   2024-04-06
 tags: [3.0,CXL,Compute,Express,Link]
 comments: true

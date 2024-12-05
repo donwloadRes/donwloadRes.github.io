@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "windows版本jdk1.8：jdk-8u152-windows-x64"
+title: "windows版本jdk18jdk8u152windowsx64"
 date:   2024-01-27
 tags: [Java,JDK,windows,安装,jdk]
 comments: true

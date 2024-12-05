@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVM(支持向量机)PPT 资源介绍"
+title: "SVM支持向量机PPT 资源介绍"
 date:   2021-07-20
 tags: [SVM,PPT,向量,推导,支持]
 comments: true

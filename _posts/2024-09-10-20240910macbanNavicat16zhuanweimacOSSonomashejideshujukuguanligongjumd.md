@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mac版Navicat16 - 专为macOS Sonoma设计的数据库管理工具"
+title: "mac版Navicat16  专为macOS Sonoma设计的数据库管理工具"
 date:   2024-11-25
 tags: [数据库,macOS,Sonoma,Navicat,安装]
 comments: true

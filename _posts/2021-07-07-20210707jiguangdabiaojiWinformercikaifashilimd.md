@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "激光打标机（Winform）二次开发实例"
+title: "激光打标机Winform二次开发实例"
 date:   2021-06-12
 tags: [打标机,Winform,二次开发,激光,实例]
 comments: true

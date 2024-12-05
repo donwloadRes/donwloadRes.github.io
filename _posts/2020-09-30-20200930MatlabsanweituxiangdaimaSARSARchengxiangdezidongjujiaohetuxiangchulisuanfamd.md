@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab三维图像代码-SAR：SAR成像的自动聚焦和图像处理算法"
+title: "Matlab三维图像代码SARSAR成像的自动聚焦和图像处理算法"
 date:   2020-02-23
 tags: [聚焦,SAR,自动,Matlab,三维]
 comments: true

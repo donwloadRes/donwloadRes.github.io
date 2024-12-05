@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab实现RIME-CNN-SVM霜冰优化算法优化卷积神经网络-支持向量机的多变量回归预测"
+title: "Matlab实现RIMECNNSVM霜冰优化算法优化卷积神经网络支持向量机的多变量回归预测"
 date:   2021-04-05
 tags: [Matlab,优化,CNN,预测,算法]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESP32-S3 人脸识别资源下载"
+title: "ESP32S3 人脸识别资源下载"
 date:   2024-07-02
 tags: [ESP32,S3,人脸识别,文档,开发板]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python-pandas基础习题与答案"
+title: "Pythonpandas基础习题与答案"
 date:   2022-02-19
 tags: [pandas,习题,Python,数据,仓库]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0-9数字语音资源（各300段语音数据）"
+title: "09数字语音资源各300段语音数据"
 date:   2020-11-07
 tags: [语音,数据,300,录制,资源]
 comments: true

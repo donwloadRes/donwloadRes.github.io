@@ -1,6 +1,38 @@
 ---
 layout: post
-title: "基于STM32的ADS1115驱动程序"
+title: "基于STM32的ADS1115驱动程序
+date   20240905
+tags ADS1115IICCONFIGSTM32驱动程序
+comments true
+author admin
+
+ 基于STM32的ADS1115驱动程序
+
+ 简介
+
+本仓库提供了一个基于STM32的ADS1115驱动程序包含模拟IIC通信程序ADS1115是一款高精度低功耗的16位模数转换器ADC适用于各种需要高精度测量的应用场景通过本驱动程序您可以轻松地在STM32平台上使用ADS1115进行数据采集
+
+ 资源内容
+
+ 模拟IIC程序提供了基于STM32的模拟IIC通信程序用于与ADS1115进行数据交互
+ ADS1115驱动程序包含了ADS1115的初始化配置及数据读取等功能方便用户快速集成到项目中
+
+ 使用说明
+
+1 硬件连接
+    将ADS1115的SCL引脚连接到STM32的任意IO引脚建议使用外部上拉电阻
+    将ADS1115的SDA引脚连接到STM32的任意IO引脚建议使用外部上拉电阻
+    根据需要连接ADS1115的电源和地线
+
+2 软件配置
+    将本仓库中的模拟IIC程序和ADS1115驱动程序添加到您的STM32项目中
+    根据您的硬件连接配置模拟IIC的SCL和SDA引脚
+    调用ADS1115的初始化函数进行设备初始化并根据需要配置ADC的工作模式
+    使用读取函数获取ADS1115的转换结果
+
+3 示例代码
+   c
+   include ads1115h"
 date:   2024-09-05
 tags: [ADS1115,IIC,CONFIG,STM32,驱动程序]
 comments: true

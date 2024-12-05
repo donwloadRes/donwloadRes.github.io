@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "爱普生打印机WF-3641清零软件+图解"
+title: "爱普生打印机WF3641清零软件图解"
 date:   2022-05-03
 tags: [清零,打印机,图解,软件,爱普生]
 comments: true

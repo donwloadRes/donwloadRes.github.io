@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt5.10 GUI完全参考手册下载"
+title: "Qt510 GUI完全参考手册下载"
 date:   2024-11-20
 tags: [GUI,Qt5.10,参考手册,pdf,下载]
 comments: true

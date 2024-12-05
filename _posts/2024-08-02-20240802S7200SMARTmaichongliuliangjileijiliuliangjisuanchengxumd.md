@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-200SMART脉冲流量计累计流量计算程序"
+title: "S7200SMART脉冲流量计累计流量计算程序"
 date:   2022-06-03
 tags: [流量计,程序,脉冲,流量,S7]
 comments: true

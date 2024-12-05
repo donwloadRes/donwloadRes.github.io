@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大学生Bootstrap网页制作：个人简介博客页面作业"
+title: "大学生Bootstrap网页制作个人简介博客页面作业"
 date:   2023-06-20
 tags: [页面,Bootstrap,网页,初学者,博客]
 comments: true

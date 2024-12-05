@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW 2011~2015 安装包及模块资源介绍"
+title: "LabVIEW 20112015 安装包及模块资源介绍"
 date:   2023-01-16
 tags: [LabVIEW,安装包,模块,安装,版本]
 comments: true

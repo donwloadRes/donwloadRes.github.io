@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字信号处理PDF完整本(程佩青) - 专业指导文档资源"
+title: "数字信号处理PDF完整本程佩青  专业指导文档资源"
 date:   2024-06-14
 tags: [PDF,信号处理,文档,数字,仓库]
 comments: true

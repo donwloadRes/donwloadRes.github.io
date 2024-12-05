@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欧姆龙PLC编程手册(中文)下载"
+title: "欧姆龙PLC编程手册中文下载"
 date:   2022-08-27
 tags: [欧姆龙,PLC,手册,编程,中文]
 comments: true

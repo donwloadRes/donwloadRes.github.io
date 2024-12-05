@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QNX SDP 7.0 SCREEN开发者手册下载"
+title: "QNX SDP 70 SCREEN开发者手册下载"
 date:   2023-05-12
 tags: [SCREEN,QNX,开发者,SDP,7.0]
 comments: true

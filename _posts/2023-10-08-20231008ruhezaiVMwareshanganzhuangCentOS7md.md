@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在VMware上安装CentOS7？"
+title: "如何在VMware上安装CentOS7"
 date:   2020-03-08
 tags: [虚拟机,VMware,CentOS7,宿主机,安装]
 comments: true

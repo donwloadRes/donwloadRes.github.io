@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# NAudio录音和播放音频文件-实时绘制音频波形图"
+title: "C NAudio录音和播放音频文件实时绘制音频波形图"
 date:   2023-12-29
 tags: [音频,波形图,NAudio,播放,示例]
 comments: true

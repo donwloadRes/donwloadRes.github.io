@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）读书笔记"
+title: "深入理解Java虚拟机JVM高级特性与最佳实践第3版读书笔记"
 date:   2022-10-26
 tags: [Java,虚拟机,JVM,读书笔记,内存]
 comments: true

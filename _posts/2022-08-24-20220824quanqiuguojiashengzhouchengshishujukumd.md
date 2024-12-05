@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全球国家、省-州、城市数据库"
+title: "全球国家省州城市数据库"
 date:   2021-05-24
 tags: [数据库,XML,文件,城市,全球]
 comments: true

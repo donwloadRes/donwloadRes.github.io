@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PYNQ-Z2 板文件资源下载"
+title: "PYNQZ2 板文件资源下载"
 date:   2022-08-09
 tags: [文件,原理图,PYNQ,Z2,下载]
 comments: true

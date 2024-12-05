@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 HCIA-Datacom H12-811 最新资源下载"
+title: "2022 HCIADatacom H12811 最新资源下载"
 date:   2023-01-23
 tags: [811,HCIA,Datacom,H12,题库]
 comments: true

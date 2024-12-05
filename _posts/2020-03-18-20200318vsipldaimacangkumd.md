@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "vsipl++ 代码仓库"
+title: "vsipl 代码仓库"
 date:   2023-01-31
 tags: [vsipl,zip,++,代码,master]
 comments: true

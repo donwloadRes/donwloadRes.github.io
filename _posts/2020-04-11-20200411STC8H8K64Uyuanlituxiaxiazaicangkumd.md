@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STC8H8K64U原理图（下）下载仓库"
+title: "STC8H8K64U原理图下下载仓库"
 date:   2020-03-05
 tags: [原理图,STC8H8K64U,文件大小,电路设计,硬件]
 comments: true

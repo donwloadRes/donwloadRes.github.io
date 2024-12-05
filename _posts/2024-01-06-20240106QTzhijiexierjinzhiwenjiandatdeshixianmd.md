@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT之解析二进制文件（.dat）的实现"
+title: "QT之解析二进制文件dat的实现"
 date:   2022-12-04
 tags: [二进制,解析,文件,QT,dat]
 comments: true

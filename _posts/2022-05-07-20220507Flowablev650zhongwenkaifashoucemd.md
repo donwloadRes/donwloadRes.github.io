@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flowable v6.5.0 中文开发手册"
+title: "Flowable v650 中文开发手册"
 date:   2023-08-05
 tags: [Flowable,手册,v6.5,BPMN,引擎]
 comments: true

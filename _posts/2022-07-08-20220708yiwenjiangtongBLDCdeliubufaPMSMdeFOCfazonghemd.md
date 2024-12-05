@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【一文讲通】BLDC的六步法&PMSM的FOC法综合"
+title: "一文讲通BLDC的六步法PMSM的FOC法综合"
 date:   2020-06-13
 tags: [FOC,步法,BLDC,PMSM,资源]
 comments: true

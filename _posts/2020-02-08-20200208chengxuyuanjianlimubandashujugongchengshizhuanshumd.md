@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员简历模板 - 大数据工程师专属"
+title: "程序员简历模板  大数据工程师专属"
 date:   2023-10-12
 tags: [模板,简历,工程师,数据,程序员]
 comments: true

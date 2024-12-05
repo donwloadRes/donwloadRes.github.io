@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计-网上图书商城（源码+论文）"
+title: "毕业设计网上图书商城源码论文"
 date:   2021-01-27
 tags: [图书,管理员,毕业设计,源码,商城]
 comments: true

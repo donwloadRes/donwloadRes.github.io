@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电力系统稳态分析 陈珩.pdf 下载仓库"
+title: "电力系统稳态分析 陈珩pdf 下载仓库"
 date:   2021-05-09
 tags: [稳态,陈珩,电力系统,pdf,下载]
 comments: true

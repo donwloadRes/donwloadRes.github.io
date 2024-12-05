@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "X-CAN离线分析平台：CAN报文解析工具"
+title: "XCAN离线分析平台CAN报文解析工具"
 date:   2020-01-10
 tags: [解析,离线,数据文件,DBC,导出]
 comments: true

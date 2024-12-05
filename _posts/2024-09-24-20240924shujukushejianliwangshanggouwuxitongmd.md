@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据库设计案例 - 网上购物系统"
+title: "数据库设计案例  网上购物系统"
 date:   2022-03-21
 tags: [用户,数据库,设计,购物,案例]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "51单片机基础知识试题题库（含答案）"
+title: "51单片机基础知识试题题库含答案"
 date:   2021-11-26
 tags: [题库,单片机,51,学习,含答案]
 comments: true

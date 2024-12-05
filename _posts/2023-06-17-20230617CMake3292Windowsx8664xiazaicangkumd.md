@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CMake 3.29.2 Windows x86-64 下载仓库"
+title: "CMake 3292 Windows x8664 下载仓库"
 date:   2022-03-18
 tags: [CMake,64,3.29,x86,cmake]
 comments: true

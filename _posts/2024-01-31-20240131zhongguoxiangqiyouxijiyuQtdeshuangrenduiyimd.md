@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国象棋游戏：基于 Qt 的双人对弈"
+title: "中国象棋游戏基于 Qt 的双人对弈"
 date:   2022-09-26
 tags: [中国象棋,Qt,对战,游戏,联网]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103系列模拟IIC驱动BMP280获取温度、气压及海拔高度"
+title: "STM32F103系列模拟IIC驱动BMP280获取温度气压及海拔高度"
 date:   2022-10-31
 tags: [BMP280,气压,海拔高度,传感器,STM32F103]
 comments: true

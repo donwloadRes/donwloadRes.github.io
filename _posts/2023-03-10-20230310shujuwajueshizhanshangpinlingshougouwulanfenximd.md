@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据挖掘实战：商品零售购物篮分析"
+title: "数据挖掘实战商品零售购物篮分析"
 date:   2022-04-24
 tags: [商品,数据挖掘,购物篮,分析,零售]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RedHat8.3下载和安装初体验"
+title: "RedHat83下载和安装初体验"
 date:   2023-08-13
 tags: [yum,安装,下载,8.3,enabled]
 comments: true

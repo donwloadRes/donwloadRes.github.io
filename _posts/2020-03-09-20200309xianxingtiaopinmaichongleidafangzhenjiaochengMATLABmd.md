@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线性调频脉冲雷达仿真教程（MATLAB）"
+title: "线性调频脉冲雷达仿真教程MATLAB"
 date:   2024-05-23
 tags: [教程,MATLAB,信号处理,MTI,目标]
 comments: true

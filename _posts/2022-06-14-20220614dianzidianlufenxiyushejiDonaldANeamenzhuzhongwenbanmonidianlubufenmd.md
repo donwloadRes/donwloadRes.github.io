@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电子电路分析与设计 Donald A.Neamen著 中文版（模拟电路部分）"
+title: "电子电路分析与设计 Donald ANeamen著 中文版模拟电路部分"
 date:   2021-03-05
 tags: [电子电路,设计,电路,模拟,分析]
 comments: true

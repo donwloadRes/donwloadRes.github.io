@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "stdint.h头文件下载"
+title: "stdinth头文件下载"
 date:   2024-04-26
 tags: [stdint,头文件,仓库,编译器,下载]
 comments: true

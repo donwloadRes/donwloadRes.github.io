@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FastReport .NET 2018 3.6 资源下载"
+title: "FastReport NET 2018 36 资源下载"
 date:   2022-08-14
 tags: [NET,FastReport,报表,2018,3.6]
 comments: true

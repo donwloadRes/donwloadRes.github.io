@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017实现Udp Socket通信（C++）资源文件介绍"
+title: "VS2017实现Udp Socket通信C资源文件介绍"
 date:   2023-09-10
 tags: [Udp,Socket,编译,文件,通信]
 comments: true

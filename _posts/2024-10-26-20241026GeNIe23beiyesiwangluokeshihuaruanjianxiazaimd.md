@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeNIe2.3贝叶斯网络可视化软件下载"
+title: "GeNIe23贝叶斯网络可视化软件下载"
 date:   2023-11-17
 tags: [贝叶斯,软件,GeNIe2.3,可视化,网络]
 comments: true

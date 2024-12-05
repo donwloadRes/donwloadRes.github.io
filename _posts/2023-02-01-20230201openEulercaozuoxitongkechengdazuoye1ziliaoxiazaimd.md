@@ -1,6 +1,14 @@
 ---
 layout: post
-title: "openEuler 操作系统课程大作业 1 资料下载"
+title: "openEuler 操作系统课程大作业 1 资料下载
+date   20240422
+tags openEuler操作系统作业容器构建
+comments true
+author admin
+
+
+layout post
+title openEuler 操作系统课程大作业 1 资料下载"
 date:   2024-04-22
 tags: [openEuler,操作系统,作业,容器,构建]
 comments: true
@@ -8,7 +16,15 @@ author: admin
 ---
 ---
 layout: post
-title: "openEuler 操作系统课程大作业 1 资料下载"
+title: "openEuler 操作系统课程大作业 1 资料下载
+date   20240422
+tags openEuler操作系统作业容器构建
+comments true
+author admin
+
+
+layout post
+title openEuler 操作系统课程大作业 1 资料下载"
 date:   2023-03-28
 tags: [openEuler,操作系统,容器,作业,构建]
 comments: true

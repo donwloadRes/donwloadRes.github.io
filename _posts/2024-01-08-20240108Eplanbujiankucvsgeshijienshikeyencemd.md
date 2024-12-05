@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eplan部件库_cvs格式_基恩士keyence"
+title: "Eplan部件库cvs格式基恩士keyence"
 date:   2020-11-02
 tags: [Eplan,cvs,文件,导入,基恩]
 comments: true

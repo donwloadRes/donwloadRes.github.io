@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光谱变量选择-特征选择算法资源下载"
+title: "光谱变量选择特征选择算法资源下载"
 date:   2023-12-02
 tags: [特征选择,算法,光谱,数据分析,变量]
 comments: true

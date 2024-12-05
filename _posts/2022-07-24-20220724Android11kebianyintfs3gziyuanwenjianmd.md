@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 11 可编译 ntfs-3g 资源文件"
+title: "Android 11 可编译 ntfs3g 资源文件"
 date:   2024-05-03
 tags: [编译,Android,11,ntfs,3g]
 comments: true

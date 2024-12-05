@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python通用UI自动化测试框架源码 2.0"
+title: "Python通用UI自动化测试框架源码 20"
 date:   2024-05-13
 tags: [框架,测试用例,UI,Python,测试]
 comments: true

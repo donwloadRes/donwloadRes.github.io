@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于STM32CubeMX+STM32F407ZGT6+FreeRTOS+freeMODBUS_RTU的移植"
+title: "基于STM32CubeMXSTM32F407ZGT6FreeRTOSfreeMODBUSRTU的移植"
 date:   2020-06-04
 tags: [STM32CubeMX,RTU,FreeModbus,文件,调试]
 comments: true

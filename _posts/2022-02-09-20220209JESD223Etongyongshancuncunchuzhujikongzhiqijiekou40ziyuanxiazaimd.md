@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD223E - 通用闪存存储主机控制器接口 4.0 资源下载"
+title: "JESD223E  通用闪存存储主机控制器接口 40 资源下载"
 date:   2020-05-04
 tags: [UFS,控制器,主机,JESD223E,接口]
 comments: true

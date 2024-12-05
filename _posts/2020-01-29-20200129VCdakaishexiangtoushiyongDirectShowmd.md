@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC 打开摄像头 (使用DirectShow)"
+title: "VC 打开摄像头 使用DirectShow"
 date:   2022-07-24
 tags: [DirectShow,摄像头,MFC,预览,C++]
 comments: true

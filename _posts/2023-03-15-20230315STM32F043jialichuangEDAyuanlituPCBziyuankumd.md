@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F043 嘉立创EDA 原理图+PCB 资源库"
+title: "STM32F043 嘉立创EDA 原理图PCB 资源库"
 date:   2023-05-17
 tags: [STM32F043,嘉立,EDA,PCB,原理图]
 comments: true

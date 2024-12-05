@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv5-6.1 添加 CoordAtt 注意力机制版本"
+title: "YOLOv561 添加 CoordAtt 注意力机制版本"
 date:   2023-08-19
 tags: [YOLOv5,6.1,CoordAtt,官方,版本]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DiskGenius v4.9.1 绿色专业版及单文件介绍"
+title: "DiskGenius v491 绿色专业版及单文件介绍"
 date:   2024-06-07
 tags: [分区,文件,数据恢复,专业版,备份]
 comments: true

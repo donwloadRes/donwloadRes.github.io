@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MagicDraw UML 企业版 v16.5 SP4 资源文件介绍"
+title: "MagicDraw UML 企业版 v165 SP4 资源文件介绍"
 date:   2020-04-06
 tags: [Java,UML,该软件,v16.5,SP4]
 comments: true

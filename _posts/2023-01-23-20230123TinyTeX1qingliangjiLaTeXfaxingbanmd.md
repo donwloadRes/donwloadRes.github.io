@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TinyTeX-1：轻量级LaTeX发行版"
+title: "TinyTeX1轻量级LaTeX发行版"
 date:   2021-11-25
 tags: [TinyTeX,LaTeX,安装,文档,zip]
 comments: true

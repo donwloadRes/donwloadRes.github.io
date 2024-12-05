@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于TL494的可调PWM发生器和DC-DC变换电路Proteus原理图及仿真"
+title: "基于TL494的可调PWM发生器和DCDC变换电路Proteus原理图及仿真"
 date:   2023-05-22
 tags: [DC,PWM,Proteus,仿真,电路]
 comments: true

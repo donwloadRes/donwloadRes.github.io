@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git 2.41.0 64-bit Windows 版本下载"
+title: "Git 2410 64bit Windows 版本下载"
 date:   2020-06-27
 tags: [Git,2.41,64,bit,git]
 comments: true

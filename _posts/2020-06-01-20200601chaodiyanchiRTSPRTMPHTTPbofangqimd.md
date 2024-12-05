@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "超低延迟RTSP-RTMP-HTTP播放器"
+title: "超低延迟RTSPRTMPHTTP播放器"
 date:   2024-04-21
 tags: [延迟,播放器,FFmpeg,your,超低]
 comments: true

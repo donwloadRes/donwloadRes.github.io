@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "视频时序控制器与AXI4-Stream转视频输出IP核资源下载"
+title: "视频时序控制器与AXI4Stream转视频输出IP核资源下载"
 date:   2022-06-01
 tags: [视频,IP,AXI4,Stream,时序]
 comments: true

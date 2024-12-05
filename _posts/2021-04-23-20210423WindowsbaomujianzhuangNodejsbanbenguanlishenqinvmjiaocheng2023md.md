@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows保姆级安装Node.js版本管理神器nvm教程(2023)"
+title: "Windows保姆级安装Nodejs版本管理神器nvm教程2023"
 date:   2021-06-07
 tags: [Node,js,nvm,安装,版本]
 comments: true

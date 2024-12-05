@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Materials-Studio建模操作详细步骤(本人原创)1"
+title: "MaterialsStudio建模操作详细步骤本人原创1"
 date:   2023-06-02
 tags: [Materials,Studio,建模,资源,详细]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "游戏软著申请-使用说明书模板"
+title: "游戏软著申请使用说明书模板"
 date:   2022-01-13
 tags: [模板,软著,游戏,开发者,说明书]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js 18.17.1 资源文件下载"
+title: "Nodejs 18171 资源文件下载"
 date:   2024-07-20
 tags: [Node,js,安装,下载,安装包]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CocosCreator无尽循环列表，ScrollView优化"
+title: "CocosCreator无尽循环列表ScrollView优化"
 date:   2021-07-15
 tags: [列表,ScrollView,eventHandler,初始化,CocosCreator]
 comments: true

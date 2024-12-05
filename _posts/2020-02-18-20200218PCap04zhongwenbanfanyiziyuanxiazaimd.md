@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCap04-中文版翻译资源下载"
+title: "PCap04中文版翻译资源下载"
 date:   2021-12-26
 tags: [中文版,翻译,PCap04,下载,文件]
 comments: true

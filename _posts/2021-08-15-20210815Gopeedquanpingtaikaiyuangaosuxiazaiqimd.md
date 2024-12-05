@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gopeed - 全平台开源高速下载器"
+title: "Gopeed  全平台开源高速下载器"
 date:   2020-06-28
 tags: [Gopeed,下载,用户,开源,下载速度]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海思Hi3516DV300芯片用户指南（中文）"
+title: "海思Hi3516DV300芯片用户指南中文"
 date:   2023-09-30
 tags: [芯片,Hi3516DV300,海思,用户,指南]
 comments: true

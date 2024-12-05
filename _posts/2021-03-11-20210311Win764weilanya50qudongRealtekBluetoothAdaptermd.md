@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win7 64位 蓝牙5.0 驱动 Realtek-Bluetooth Adapter"
+title: "Win7 64位 蓝牙50 驱动 RealtekBluetooth Adapter"
 date:   2021-09-05
 tags: [蓝牙,驱动程序,Win7,5.0,安装]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT应用系统应急预案(结合实例) - 完整指南.pdf"
+title: "IT应用系统应急预案结合实例  完整指南pdf"
 date:   2021-06-17
 tags: [应急,故障,实例,pdf,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phoenix BIOS Editor Pro v2.2.1.3 资源下载"
+title: "Phoenix BIOS Editor Pro v2213 资源下载"
 date:   2022-05-25
 tags: [Phoenix,BIOS,Editor,Pro,1.3]
 comments: true

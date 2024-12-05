@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B端产品经理必备：AntDesign3.9.x Axure元件库"
+title: "B端产品经理必备AntDesign39x Axure元件库"
 date:   2022-07-20
 tags: [元件库,Axure,交互,原型,组件]
 comments: true

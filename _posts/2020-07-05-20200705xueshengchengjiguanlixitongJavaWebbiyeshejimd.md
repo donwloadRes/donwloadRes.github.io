@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学生成绩管理系统+JavaWeb毕业设计"
+title: "学生成绩管理系统JavaWeb毕业设计"
 date:   2022-03-04
 tags: [学生,成绩,数据库,JavaWeb,项目]
 comments: true

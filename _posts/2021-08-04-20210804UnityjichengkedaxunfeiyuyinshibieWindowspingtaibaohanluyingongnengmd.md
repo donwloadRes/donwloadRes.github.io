@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity集成科大讯飞语音识别（Windows平台，包含录音功能）"
+title: "Unity集成科大讯飞语音识别Windows平台包含录音功能"
 date:   2020-12-04
 tags: [语音,录音,Unity,Windows,识别]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg+QT+多线程视频播放器"
+title: "FFmpegQT多线程视频播放器"
 date:   2021-01-21
 tags: [多线程,播放器,FFmpeg,QT,视频]
 comments: true

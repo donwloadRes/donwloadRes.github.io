@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 19.1.7 百度网盘资源"
+title: "Altium Designer 1917 百度网盘资源"
 date:   2021-04-02
 tags: [Altium,Designer,软件,破解,19.1]
 comments: true

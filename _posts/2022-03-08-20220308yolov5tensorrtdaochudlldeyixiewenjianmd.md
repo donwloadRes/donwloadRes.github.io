@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yolov5-tensorrt导出dll的一些文件"
+title: "yolov5tensorrt导出dll的一些文件"
 date:   2022-04-07
 tags: [yolov5,文件,dll,lib,动态链接库]
 comments: true

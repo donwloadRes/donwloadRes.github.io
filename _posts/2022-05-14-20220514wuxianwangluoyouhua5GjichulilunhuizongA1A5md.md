@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无线网络优化-5G基础理论汇总（A1-A5）"
+title: "无线网络优化5G基础理论汇总A1A5"
 date:   2020-07-02
 tags: [5G,调制,基础理论,4G,频点]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S7-1200的MODBUS主站从站通信实例"
+title: "S71200的MODBUS主站从站通信实例"
 date:   2020-05-15
 tags: [S7,MODBUS,1200,PLC,通信]
 comments: true

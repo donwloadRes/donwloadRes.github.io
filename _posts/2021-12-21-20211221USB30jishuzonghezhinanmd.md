@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB 3.0技术综合指南"
+title: "USB 30技术综合指南"
 date:   2024-05-28
 tags: [USB,3.0,文件,技术,Comprehensive]
 comments: true

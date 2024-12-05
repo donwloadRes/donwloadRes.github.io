@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome安装爬虫必备插件：Xpath Helper高效解析网页内容（实测有效）"
+title: "Chrome安装爬虫必备插件Xpath Helper高效解析网页内容实测有效"
 date:   2024-01-05
 tags: [插件,Chrome,Xpath,Helper,XPath]
 comments: true

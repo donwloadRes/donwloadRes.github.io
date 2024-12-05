@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LabVIEW波形输出示例：正弦波、方波、三角波、脉冲"
+title: "LabVIEW波形输出示例正弦波方波三角波脉冲"
 date:   2020-05-04
 tags: [波形,LabVIEW,示波器,生成,方波]
 comments: true

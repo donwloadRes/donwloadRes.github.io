@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32电机控制SDK v5.x 中文手册下载"
+title: "STM32电机控制SDK v5x 中文手册下载"
 date:   2024-09-06
 tags: [STM32,电机,SDK,控制,v5]
 comments: true

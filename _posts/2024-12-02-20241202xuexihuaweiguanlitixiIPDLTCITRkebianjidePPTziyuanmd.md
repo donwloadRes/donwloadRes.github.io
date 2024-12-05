@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学习华为管理体系(IPD&LTC&ITR)可编辑的PPT资源"
+title: "学习华为管理体系IPDLTCITR可编辑的PPT资源"
 date:   2022-12-06
 tags: [华为,PPT,ITR,管理体系,流程]
 comments: true

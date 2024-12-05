@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言实现图书管理系统（含实验报告-大作业）"
+title: "C语言实现图书管理系统含实验报告大作业"
 date:   2020-01-12
 tags: [图书,程序,类别,C语言,解压]
 comments: true

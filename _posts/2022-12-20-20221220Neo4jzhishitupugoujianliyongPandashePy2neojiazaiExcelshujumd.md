@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neo4j知识图谱构建：利用Pandas和Py2neo加载Excel数据"
+title: "Neo4j知识图谱构建利用Pandas和Py2neo加载Excel数据"
 date:   2024-11-24
 tags: [三元组,Neo4j,加载,图谱,数据]
 comments: true

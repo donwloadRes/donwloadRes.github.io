@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "软件开发文档模板（全套）"
+title: "软件开发文档模板全套"
 date:   2021-08-14
 tags: [模板,文档,项目,修改,软件开发]
 comments: true

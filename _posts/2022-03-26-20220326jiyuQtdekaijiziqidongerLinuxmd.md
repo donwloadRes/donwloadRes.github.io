@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Qt的开机自启动(二)（Linux）"
+title: "基于Qt的开机自启动二Linux"
 date:   2022-01-03
 tags: [自启动,Linux,Qt,文件,开机]
 comments: true

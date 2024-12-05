@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C-C++-Linux函数插桩(打桩)指南"
+title: "CCLinux函数插桩打桩指南"
 date:   2023-08-12
 tags: [插桩,函数,性能,源码,代码]
 comments: true

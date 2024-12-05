@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flash程序固化软件 - C2progV1.8.6版本"
+title: "Flash程序固化软件  C2progV186版本"
 date:   2023-07-31
 tags: [C2progV1.8,固化,Flash,XDS100V3,版本]
 comments: true

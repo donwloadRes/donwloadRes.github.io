@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moonlight-Android 修改版介绍"
+title: "MoonlightAndroid 修改版介绍"
 date:   2023-05-07
 tags: [Android,键盘,Moonlight,触控,支持]
 comments: true

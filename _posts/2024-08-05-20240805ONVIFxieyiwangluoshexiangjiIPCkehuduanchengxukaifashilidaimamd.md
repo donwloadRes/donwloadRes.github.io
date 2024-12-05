@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ONVIF协议网络摄像机（IPC）客户端程序开发示例代码"
+title: "ONVIF协议网络摄像机IPC客户端程序开发示例代码"
 date:   2023-04-10
 tags: [示例,代码,ONVIF,客户端程序,摄像机]
 comments: true

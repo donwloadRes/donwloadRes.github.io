@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qt5_dll动态链接库合集"
+title: "qt5dll动态链接库合集"
 date:   2021-02-10
 tags: [Qt,DLL,应用程序,合集,动态链接库]
 comments: true

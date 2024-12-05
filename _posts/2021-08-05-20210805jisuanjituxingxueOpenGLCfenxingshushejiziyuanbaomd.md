@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机图形学—OpenGL（C++）分形树设计资源包"
+title: "计算机图形学OpenGLC分形树设计资源包"
 date:   2021-07-22
 tags: [实验报告,程序,截图,运行,实验]
 comments: true

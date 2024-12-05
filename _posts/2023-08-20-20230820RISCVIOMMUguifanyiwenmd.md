@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RISC-V IOMMU 规范译文"
+title: "RISCV IOMMU 规范译文"
 date:   2020-06-04
 tags: [RISC,IOMMU,译文,架构,技术]
 comments: true

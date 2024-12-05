@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用VB.NET操作ACCESS数据库指南"
+title: "使用VBNET操作ACCESS数据库指南"
 date:   2024-06-16
 tags: [NET,ACCESS,数据库,VB,学习]
 comments: true

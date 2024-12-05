@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "东方通中间件THS-TonghttpServer 6.0 信创版本arm架构"
+title: "东方通中间件THSTonghttpServer 60 信创版本arm架构"
 date:   2023-12-11
 tags: [中间件,6.0,ARM,架构,THS]
 comments: true

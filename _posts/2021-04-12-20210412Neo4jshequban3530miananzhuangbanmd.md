@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neo4j 社区版 3.5.30 免安装版"
+title: "Neo4j 社区版 3530 免安装版"
 date:   2022-10-19
 tags: [Neo4j,3.5,30,neo4j,社区]
 comments: true

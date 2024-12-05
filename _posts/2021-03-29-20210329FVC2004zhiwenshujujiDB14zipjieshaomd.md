@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FVC2004指纹数据集DB1-4.zip 介绍"
+title: "FVC2004指纹数据集DB14zip 介绍"
 date:   2022-05-12
 tags: [DB1,指纹识别,FVC2004,指纹,zip]
 comments: true

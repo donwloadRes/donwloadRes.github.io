@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PD协议理解_基础版.pdf"
+title: "PD协议理解基础版pdf"
 date:   2023-09-19
 tags: [PD,协议,文档,pdf,spec]
 comments: true

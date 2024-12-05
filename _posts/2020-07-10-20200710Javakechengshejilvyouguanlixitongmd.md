@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java课程设计-旅游管理系统"
+title: "Java课程设计旅游管理系统"
 date:   2024-06-07
 tags: [旅游,Java,用户,查询,系统]
 comments: true

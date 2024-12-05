@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yocto 超详细教程：看完必会搭建 Linux 系统"
+title: "Yocto 超详细教程看完必会搭建 Linux 系统"
 date:   2021-03-24
 tags: [Linux,Yocto,教程,系统,Poky]
 comments: true

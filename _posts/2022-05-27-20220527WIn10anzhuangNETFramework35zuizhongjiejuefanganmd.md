@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WIn10 安装 .NET Framework 3.5 最终解决方案"
+title: "WIn10 安装 NET Framework 35 最终解决方案"
 date:   2023-10-07
 tags: [安装,NET,Framework,3.5,Windows]
 comments: true

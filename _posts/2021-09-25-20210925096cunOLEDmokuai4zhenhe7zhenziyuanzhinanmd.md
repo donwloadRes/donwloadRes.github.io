@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.96寸OLED模块4针和7针资源指南"
+title: "096寸OLED模块4针和7针资源指南"
 date:   2021-07-26
 tags: [模块,OLED,0.96,原理图,SPI]
 comments: true

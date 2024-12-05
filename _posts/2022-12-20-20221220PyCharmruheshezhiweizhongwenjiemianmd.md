@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm如何设置为中文界面？"
+title: "PyCharm如何设置为中文界面"
 date:   2020-07-18
 tags: [PyCharm,中文,语言包,界面,插件]
 comments: true

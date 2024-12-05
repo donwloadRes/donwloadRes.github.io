@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FOC-ODrive硬件相关学习资料"
+title: "FOCODrive硬件相关学习资料"
 date:   2022-02-24
 tags: [ODrive,FOC,PCB,设计图,硬件]
 comments: true

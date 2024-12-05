@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azkaban-3.84.4 安装包使用指南"
+title: "Azkaban3844 安装包使用指南"
 date:   2023-03-04
 tags: [Azkaban,3.84,安装包,数据库,作业]
 comments: true

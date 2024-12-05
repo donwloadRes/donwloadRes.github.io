@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue开发工具vuejs-devtools安装教程及常见问题解决"
+title: "Vue开发工具vuejsdevtools安装教程及常见问题解决"
 date:   2022-04-07
 tags: [devtools,Vue,vuejs,vue,插件]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Opencv-python人脸口罩检测"
+title: "基于Opencvpython人脸口罩检测"
 date:   2021-08-09
 tags: [检测,口罩,Opencv,python,分类器]
 comments: true

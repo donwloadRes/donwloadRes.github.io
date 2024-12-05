@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internet Download Manager免费版v6.42.3.1中文特别版"
+title: "Internet Download Manager免费版v64231中文特别版"
 date:   2021-03-02
 tags: [下载,特别版,v6.42,3.1,免费版]
 comments: true

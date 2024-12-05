@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "收集最新的 Sci-Hub 网址（持续更新至2024年）"
+title: "收集最新的 SciHub 网址持续更新至2024年"
 date:   2024-01-16
 tags: [Sci,Hub,网址,仓库,学术]
 comments: true

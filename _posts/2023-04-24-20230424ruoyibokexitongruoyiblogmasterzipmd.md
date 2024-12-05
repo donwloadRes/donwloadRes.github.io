@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "若依博客系统 (ruoyi-blog-master.zip)"
+title: "若依博客系统 ruoyiblogmasterzip"
 date:   2023-06-30
 tags: [博客,若依,数据库,ruoyi,blog]
 comments: true

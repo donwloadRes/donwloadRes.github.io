@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I2C协议标准.pdf"
+title: "I2C协议标准pdf"
 date:   2024-10-07
 tags: [设备,I2C,pdf,协议,数据]
 comments: true

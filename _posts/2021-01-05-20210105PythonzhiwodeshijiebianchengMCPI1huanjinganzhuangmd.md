@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python之我的世界编程MCPI（1）环境安装"
+title: "Python之我的世界编程MCPI1环境安装"
 date:   2022-09-13
 tags: [Python,安装,Minecraft,编程,MCPI]
 comments: true

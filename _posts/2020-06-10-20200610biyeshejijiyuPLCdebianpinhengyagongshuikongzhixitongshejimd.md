@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "毕业设计：基于PLC的变频恒压供水控制系统设计"
+title: "毕业设计基于PLC的变频恒压供水控制系统设计"
 date:   2021-10-26
 tags: [PLC,恒压,供水系统,变频器,组态]
 comments: true

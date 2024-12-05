@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新闻发布管理系统JavaWeb项目（JSP+Servlet+MVC）实训必备"
+title: "新闻发布管理系统JavaWeb项目JSPServletMVC实训必备"
 date:   2022-09-05
 tags: [用户,数据库,项目,页面,JavaWeb]
 comments: true

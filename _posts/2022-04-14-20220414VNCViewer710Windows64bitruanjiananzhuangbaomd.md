@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VNC-Viewer-7.1.0-Windows-64bit软件安装包"
+title: "VNCViewer710Windows64bit软件安装包"
 date:   2022-12-18
 tags: [远程,VNC,Viewer,树莓,Windows]
 comments: true

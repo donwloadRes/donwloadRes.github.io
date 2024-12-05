@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3.7.9 AMD64 版本安装包"
+title: "Python 379 AMD64 版本安装包"
 date:   2024-01-28
 tags: [Python,3.7,Windows,python,安装]
 comments: true

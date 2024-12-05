@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Spring Boot + Vue实现的小区物业管理系统"
+title: "基于Spring Boot  Vue实现的小区物业管理系统"
 date:   2022-02-12
 tags: [查询,保修,物业管理,业主,信息]
 comments: true

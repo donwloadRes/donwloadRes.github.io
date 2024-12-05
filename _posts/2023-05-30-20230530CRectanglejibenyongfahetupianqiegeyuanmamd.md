@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# Rectangle基本用法和图片切割源码"
+title: "C Rectangle基本用法和图片切割源码"
 date:   2024-10-22
 tags: [源码,C#,Rectangle,切割,图片]
 comments: true

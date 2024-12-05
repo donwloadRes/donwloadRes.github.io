@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "gvim配置文件：支持SystemVerilog和UVM语法高亮及缩进"
+title: "gvim配置文件支持SystemVerilog和UVM语法高亮及缩进"
 date:   2021-03-30
 tags: [配置文件,gvim,NERDTree,语法,高亮]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2012年数学建模A题一等奖论文：葡萄酒评价"
+title: "2012年数学建模A题一等奖论文葡萄酒评价"
 date:   2023-08-29
 tags: [葡萄酒,评价,论文,建模,质量]
 comments: true

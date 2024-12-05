@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家中小学智慧教育平台 教材查询下载器 v3.1.0 (兼容Win7)"
+title: "国家中小学智慧教育平台 教材查询下载器 v310 兼容Win7"
 date:   2021-01-29
 tags: [下载,教材,查询,v3.1,Windows]
 comments: true

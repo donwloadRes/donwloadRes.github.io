@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "小米4C-4S TWRP Recovery 刷入工具"
+title: "小米4C4S TWRP Recovery 刷入工具"
 date:   2024-06-27
 tags: [刷入,小米,TWRP,Recovery,4C]
 comments: true

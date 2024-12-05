@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "U-center用户指南中文版"
+title: "Ucenter用户指南中文版"
 date:   2024-07-22
 tags: [center,Blox,用户,中文版,指南]
 comments: true

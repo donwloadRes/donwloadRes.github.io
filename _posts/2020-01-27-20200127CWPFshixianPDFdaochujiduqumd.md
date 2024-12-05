@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WPF实现PDF导出及读取"
+title: "C WPF实现PDF导出及读取"
 date:   2021-06-13
 tags: [PDF,读取,WPF,itextsharp,dll]
 comments: true

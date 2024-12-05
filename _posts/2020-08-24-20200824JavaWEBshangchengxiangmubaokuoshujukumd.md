@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JavaWEB商城项目(包括数据库)"
+title: "JavaWEB商城项目包括数据库"
 date:   2020-12-16
 tags: [数据库,项目,Eclipse,导入,JavaWEB]
 comments: true

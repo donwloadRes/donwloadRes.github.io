@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学习笔记纯干货(新手入门必备) 完整版PDF"
+title: "Python学习笔记纯干货新手入门必备 完整版PDF"
 date:   2023-09-13
 tags: [Python,编程,学习,新手入门,读者]
 comments: true

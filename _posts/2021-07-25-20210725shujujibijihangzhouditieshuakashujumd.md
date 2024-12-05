@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据集笔记：杭州地铁刷卡数据"
+title: "数据集笔记杭州地铁刷卡数据"
 date:   2024-12-03
 tags: [数据,地铁,刷卡,2019,25]
 comments: true

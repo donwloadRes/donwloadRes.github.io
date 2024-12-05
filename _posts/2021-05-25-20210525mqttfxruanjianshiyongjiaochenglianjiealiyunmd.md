@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mqtt.fx软件使用教程(连接阿里云)"
+title: "mqttfx软件使用教程连接阿里云"
 date:   2022-02-20
 tags: [阿里,mqtt,fx,MQTT,连接]
 comments: true

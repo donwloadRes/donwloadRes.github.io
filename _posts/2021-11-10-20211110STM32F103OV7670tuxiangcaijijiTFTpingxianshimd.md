@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103 + OV7670图像采集及TFT屏显示"
+title: "STM32F103  OV7670图像采集及TFT屏显示"
 date:   2022-12-22
 tags: [OV7670,TFT,图像,STM32,采集]
 comments: true

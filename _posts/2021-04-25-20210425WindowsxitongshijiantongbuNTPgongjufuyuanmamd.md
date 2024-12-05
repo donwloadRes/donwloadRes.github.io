@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows系统时间同步(NTP)工具(附源码)"
+title: "Windows系统时间同步NTP工具附源码"
 date:   2024-11-22
 tags: [同步,NTP,工具,时间,图形用户界面]
 comments: true

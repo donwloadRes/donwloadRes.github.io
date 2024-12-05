@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python爬虫课设：51job网站岗位信息爬取与数据处理"
+title: "Python爬虫课设51job网站岗位信息爬取与数据处理"
 date:   2024-11-16
 tags: [岗位,数据,Python,爬虫,可视化]
 comments: true

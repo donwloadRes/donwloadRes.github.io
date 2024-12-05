@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数学学习手册 - 徐小湛 PDF"
+title: "高等数学学习手册  徐小湛 PDF"
 date:   2021-12-14
 tags: [高等数学,解题,学习,复习,公式]
 comments: true

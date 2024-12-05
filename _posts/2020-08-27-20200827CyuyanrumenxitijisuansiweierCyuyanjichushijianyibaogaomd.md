@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言入门习题：计算思维二（C语言）-基础实践一报告"
+title: "C语言入门习题计算思维二C语言基础实践一报告"
 date:   2020-03-09
 tags: [题目,实验,C语言,编程,计算器]
 comments: true

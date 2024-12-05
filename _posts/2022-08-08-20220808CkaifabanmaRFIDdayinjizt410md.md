@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#开发斑马RFID打印机zt410"
+title: "C开发斑马RFID打印机zt410"
 date:   2023-11-05
 tags: [打印机,RFID,ZPL,Zebra,斑马]
 comments: true

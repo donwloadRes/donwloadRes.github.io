@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue ElementUI 范围选择周、季、年时间控件替换包"
+title: "Vue ElementUI 范围选择周季年时间控件替换包"
 date:   2022-11-24
 tags: [控件,替换,文件,Vue,node]
 comments: true

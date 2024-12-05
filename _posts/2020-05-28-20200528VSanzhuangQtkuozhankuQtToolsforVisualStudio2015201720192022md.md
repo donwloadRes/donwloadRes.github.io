@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS安装Qt扩展库：Qt Tools for Visual Studio 2015-2017-2019-2022"
+title: "VS安装Qt扩展库Qt Tools for Visual Studio 2015201720192022"
 date:   2020-07-24
 tags: [Qt,Visual,Studio,安装,版本]
 comments: true

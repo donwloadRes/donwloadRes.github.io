@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISP-PTE讲义PPT资源"
+title: "CISPPTE讲义PPT资源"
 date:   2023-03-20
 tags: [CISP,PTE,PPT,讲义,渗透]
 comments: true

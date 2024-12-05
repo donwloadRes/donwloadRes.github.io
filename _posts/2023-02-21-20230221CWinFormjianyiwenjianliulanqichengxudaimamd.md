@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 简易文件浏览器程序代码"
+title: "C WinForm 简易文件浏览器程序代码"
 date:   2023-03-27
 tags: [文件,视图,文件夹,浏览器,简易]
 comments: true

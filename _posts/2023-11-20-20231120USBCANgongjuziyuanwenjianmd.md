@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB_CAN工具资源文件"
+title: "USBCAN工具资源文件"
 date:   2020-01-17
 tags: [USB,调试,文件,总线,工具]
 comments: true

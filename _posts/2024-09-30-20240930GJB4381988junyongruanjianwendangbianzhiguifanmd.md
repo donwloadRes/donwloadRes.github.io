@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 438-1988 军用软件文档编制规范"
+title: "GJB 4381988 军用软件文档编制规范"
 date:   2021-02-11
 tags: [文档,软件,军用,规范,1988]
 comments: true

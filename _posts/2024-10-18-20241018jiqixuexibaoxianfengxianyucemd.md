@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "机器学习-保险风险预测"
+title: "机器学习保险风险预测"
 date:   2020-06-25
 tags: [数据,学习,模型,机器,仓库]
 comments: true

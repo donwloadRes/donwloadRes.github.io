@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BP神经网络实例及代码分析(Python+TensorFlow)"
+title: "BP神经网络实例及代码分析PythonTensorFlow"
 date:   2024-05-24
 tags: [数据,代码,小时,神经网络,训练]
 comments: true

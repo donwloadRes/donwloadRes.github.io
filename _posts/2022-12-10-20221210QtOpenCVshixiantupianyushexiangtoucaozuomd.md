@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt+OpenCV实现图片与摄像头操作"
+title: "QtOpenCV实现图片与摄像头操作"
 date:   2022-01-18
 tags: [摄像头,应用程序,Qt,按钮,图片]
 comments: true

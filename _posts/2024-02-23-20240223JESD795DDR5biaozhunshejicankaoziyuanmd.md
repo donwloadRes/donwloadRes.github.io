@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD79-5 DDR5标准设计参考资源"
+title: "JESD795 DDR5标准设计参考资源"
 date:   2021-04-04
 tags: [DDR5,JESD79,文档,标准,设计]
 comments: true

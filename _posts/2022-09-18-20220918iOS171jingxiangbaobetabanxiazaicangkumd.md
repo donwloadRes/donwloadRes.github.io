@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS 17.1 镜像包 beta版 下载仓库"
+title: "iOS 171 镜像包 beta版 下载仓库"
 date:   2022-07-31
 tags: [镜像,iOS,17.1,beta,Xcode]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VC++之MFC类库中文手册下载"
+title: "VC之MFC类库中文手册下载"
 date:   2024-11-16
 tags: [MFC,类库,手册,C++,文件]
 comments: true

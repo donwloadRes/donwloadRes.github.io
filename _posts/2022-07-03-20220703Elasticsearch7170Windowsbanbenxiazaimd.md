@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elasticsearch 7.17.0 Windows 版本下载"
+title: "Elasticsearch 7170 Windows 版本下载"
 date:   2020-05-20
 tags: [Elasticsearch,7.17,elasticsearch,下载,Windows]
 comments: true

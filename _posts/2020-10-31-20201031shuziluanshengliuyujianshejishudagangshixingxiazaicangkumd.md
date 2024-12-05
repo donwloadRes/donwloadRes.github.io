@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数字孪生流域建设技术大纲（试行）下载仓库"
+title: "数字孪生流域建设技术大纲试行下载仓库"
 date:   2021-09-28
 tags: [孪生,流域,数字,技术,大纲]
 comments: true

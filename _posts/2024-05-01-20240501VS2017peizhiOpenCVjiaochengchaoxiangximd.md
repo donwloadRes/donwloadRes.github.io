@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VS2017配置OpenCV教程（超详细！！！）"
+title: "VS2017配置OpenCV教程超详细"
 date:   2020-09-06
 tags: [OpenCV,配置,教程,VS2017,下载]
 comments: true

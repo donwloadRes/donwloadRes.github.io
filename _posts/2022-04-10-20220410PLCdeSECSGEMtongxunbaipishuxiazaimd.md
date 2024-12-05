@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PLC的SECS-GEM通讯白皮书下载"
+title: "PLC的SECSGEM通讯白皮书下载"
 date:   2023-02-20
 tags: [白皮书,通讯,PLC,SECS,GEM]
 comments: true

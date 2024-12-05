@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "有限元方法基础教程（第三版）下载仓库"
+title: "有限元方法基础教程第三版下载仓库"
 date:   2020-10-23
 tags: [有限元,基础教程,第三版,仓库,__]
 comments: true

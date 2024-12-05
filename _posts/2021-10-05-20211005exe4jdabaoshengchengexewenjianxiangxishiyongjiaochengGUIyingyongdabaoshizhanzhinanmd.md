@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "exe4j打包生成exe文件详细使用教程 - GUI应用打包实战指南"
+title: "exe4j打包生成exe文件详细使用教程  GUI应用打包实战指南"
 date:   2020-04-30
 tags: [打包,exe4j,教程,exe,GUI]
 comments: true

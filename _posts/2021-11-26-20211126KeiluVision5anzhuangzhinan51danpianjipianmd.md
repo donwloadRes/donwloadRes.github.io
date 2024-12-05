@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil uVision5 安装指南 - 51单片机篇"
+title: "Keil uVision5 安装指南  51单片机篇"
 date:   2020-07-13
 tags: [点击,Keil,安装,uVision5,选择]
 comments: true

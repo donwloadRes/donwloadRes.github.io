@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navicat Premium 12.0.18 - 12.0.24 安装与激活指南"
+title: "Navicat Premium 12018  12024 安装与激活指南"
 date:   2022-03-31
 tags: [Navicat,Premium,激活,安装,12.0]
 comments: true

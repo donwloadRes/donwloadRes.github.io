@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LC滤波器设计及参数计算(免费共享)"
+title: "LC滤波器设计及参数计算免费共享"
 date:   2020-04-20
 tags: [LC,滤波器,参数,文档,设计]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装pyltp模块详细教程（Windows下Python安装）"
+title: "安装pyltp模块详细教程Windows下Python安装"
 date:   2020-11-16
 tags: [Python,pyltp,安装,3.6,文件]
 comments: true

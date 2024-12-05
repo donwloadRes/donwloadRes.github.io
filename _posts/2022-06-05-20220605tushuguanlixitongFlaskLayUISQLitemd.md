@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "图书管理系统：Flask + LayUI + SQLite"
+title: "图书管理系统Flask  LayUI  SQLite"
 date:   2021-05-01
 tags: [图书,管理系统,LayUI,SQLite,系统]
 comments: true

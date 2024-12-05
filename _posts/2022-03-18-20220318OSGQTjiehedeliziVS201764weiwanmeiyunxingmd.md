@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSGQT结合的例子：VS2017+64位完美运行"
+title: "OSGQT结合的例子VS201764位完美运行"
 date:   2022-12-01
 tags: [OSG,64,VS2017,QT,例子]
 comments: true

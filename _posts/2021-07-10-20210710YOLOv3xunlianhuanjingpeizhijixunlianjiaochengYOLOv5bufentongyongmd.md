@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv3训练环境配置及训练教程（YOLOv5部分通用）"
+title: "YOLOv3训练环境配置及训练教程YOLOv5部分通用"
 date:   2020-03-03
 tags: [YOLOv3,训练,YOLOv5,教程,配置]
 comments: true

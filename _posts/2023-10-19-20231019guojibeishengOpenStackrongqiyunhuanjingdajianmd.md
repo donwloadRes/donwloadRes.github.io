@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国基北盛-OpenStack-容器云-环境搭建"
+title: "国基北盛OpenStack容器云环境搭建"
 date:   2023-09-05
 tags: [节点,OpenStack,搭建,环境,部署]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QT自定义无边框窗口（移动控制和窗口大小调整）"
+title: "QT自定义无边框窗口移动控制和窗口大小调整"
 date:   2024-11-15
 tags: [窗口,自定义,边框,移动,示例]
 comments: true

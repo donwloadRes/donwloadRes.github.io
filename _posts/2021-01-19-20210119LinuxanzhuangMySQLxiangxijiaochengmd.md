@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux-安装MySQL（详细教程）"
+title: "Linux安装MySQL详细教程"
 date:   2024-02-01
 tags: [MySQL,教程,安装,Linux,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开放充电协议标准2.0 OCPP 2.0 资源下载"
+title: "开放充电协议标准20 OCPP 20 资源下载"
 date:   2020-05-13
 tags: [充电,2.0,OCPP,资源,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xinput1_3.dll 资源文件下载"
+title: "xinput13dll 资源文件下载"
 date:   2020-08-17
 tags: [xinput1,dll,文件,32,64]
 comments: true

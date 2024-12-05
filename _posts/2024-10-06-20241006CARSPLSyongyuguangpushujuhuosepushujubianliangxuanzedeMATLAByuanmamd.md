@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CARS-PLS 用于光谱数据或色谱数据变量选择的 MATLAB 源码"
+title: "CARSPLS 用于光谱数据或色谱数据变量选择的 MATLAB 源码"
 date:   2021-12-21
 tags: [源码,MATLAB,PLS,变量,CARS]
 comments: true

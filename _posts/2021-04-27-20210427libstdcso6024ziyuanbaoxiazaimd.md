@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "libstdc++.so.6.0.24资源包下载"
+title: "libstdcso6024资源包下载"
 date:   2022-02-03
 tags: [libstd,c++,so.6,0.24,版本]
 comments: true

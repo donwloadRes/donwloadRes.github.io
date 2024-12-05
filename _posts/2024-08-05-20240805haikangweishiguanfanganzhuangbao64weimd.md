@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "海康威视官方安装包（64位）"
+title: "海康威视官方安装包64位"
 date:   2023-08-05
 tags: [威视,海康,安装包,64,官方]
 comments: true

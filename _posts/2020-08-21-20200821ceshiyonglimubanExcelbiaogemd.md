@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "测试用例模板（Excel表格）"
+title: "测试用例模板Excel表格"
 date:   2023-02-01
 tags: [测试用例,模板,Excel,表格,文件]
 comments: true

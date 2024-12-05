@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "君正T31 EC200T-CN调试资源文件"
+title: "君正T31 EC200TCN调试资源文件"
 date:   2021-04-14
 tags: [调试,君正,CN,文件,T31]
 comments: true

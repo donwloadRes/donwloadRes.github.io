@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeSys与Halcon的TCP-IP通信示例"
+title: "CodeSys与Halcon的TCPIP通信示例"
 date:   2022-04-29
 tags: [示例,CodeSys,Halcon,通信,TCP]
 comments: true

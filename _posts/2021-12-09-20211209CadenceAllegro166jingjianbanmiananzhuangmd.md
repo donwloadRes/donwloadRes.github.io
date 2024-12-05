@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cadence Allegro 16.6 精简版 免安装"
+title: "Cadence Allegro 166 精简版 免安装"
 date:   2022-07-21
 tags: [解压,Allegro,Cadence,精简版,16.6]
 comments: true

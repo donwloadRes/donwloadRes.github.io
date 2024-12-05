@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "计算机组成原理实验报告 - 微程序控制器设计实验"
+title: "计算机组成原理实验报告  微程序控制器设计实验"
 date:   2021-04-19
 tags: [微程序,控制器,实验,设计,Proteus]
 comments: true

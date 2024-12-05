@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot+SpringSecurity+Vue后台管理系统开发源代码"
+title: "SpringBootSpringSecurityVue后台管理系统开发源代码"
 date:   2023-12-04
 tags: [数据库,SpringBoot,Vue,源代码,前端]
 comments: true

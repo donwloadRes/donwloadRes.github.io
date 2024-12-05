@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32CubeIDE入门教程：工程创建与配置"
+title: "STM32CubeIDE入门教程工程创建与配置"
 date:   2023-11-05
 tags: [STM32CubeIDE,配置,教程,工程,创建]
 comments: true

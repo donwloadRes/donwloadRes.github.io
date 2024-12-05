@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# TCP服务器通讯支持多客户"
+title: "C TCP服务器通讯支持多客户"
 date:   2021-07-22
 tags: [服务器,客户机,资源,线程,连接]
 comments: true

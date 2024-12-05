@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "托马斯微积分讲义 (Thomas_Calculus_14e_PPTs)"
+title: "托马斯微积分讲义 ThomasCalculus14ePPTs"
 date:   2022-05-10
 tags: [微积分,PPT,托马斯,讲义,Thomas]
 comments: true

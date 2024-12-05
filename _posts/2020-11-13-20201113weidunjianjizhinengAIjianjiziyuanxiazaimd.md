@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "唯顿剪辑（智能AI剪辑）资源下载"
+title: "唯顿剪辑智能AI剪辑资源下载"
 date:   2021-07-25
 tags: [剪辑,视频,唯顿,采集,智能]
 comments: true

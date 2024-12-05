@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于单片机的燃气报警设计（本人毕业设计）"
+title: "基于单片机的燃气报警设计本人毕业设计"
 date:   2022-10-20
 tags: [单片机,报警,浓度,模块,气体]
 comments: true

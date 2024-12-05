@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPA——平均绩点计算器（5.0分制）"
+title: "GPA平均绩点计算器50分制"
 date:   2023-02-13
 tags: [学分,绩点,必修课,计算器,专业课]
 comments: true

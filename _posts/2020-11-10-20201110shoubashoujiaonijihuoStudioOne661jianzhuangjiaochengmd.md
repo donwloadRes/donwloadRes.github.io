@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手把手教你激活 Studio One 6.6.1及安装教程"
+title: "手把手教你激活 Studio One 661及安装教程"
 date:   2020-12-20
 tags: [激活,Studio,6.6,安装,音乐]
 comments: true

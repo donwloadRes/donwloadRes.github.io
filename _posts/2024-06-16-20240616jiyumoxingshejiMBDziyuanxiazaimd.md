@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于模型设计（MBD）资源下载"
+title: "基于模型设计MBD资源下载"
 date:   2021-11-13
 tags: [MBD,设计,模型,基于,PPT]
 comments: true

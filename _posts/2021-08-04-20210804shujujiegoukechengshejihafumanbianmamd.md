@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构课程设计 - 哈夫曼编码"
+title: "数据结构课程设计  哈夫曼编码"
 date:   2024-08-11
 tags: [编码,数据结构,Huffman,课程设计,哈夫曼]
 comments: true

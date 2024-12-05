@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCIe 3.0 总线规范中文版"
+title: "PCIe 30 总线规范中文版"
 date:   2020-12-26
 tags: [PCIe,3.0,总线,开发者,文档]
 comments: true

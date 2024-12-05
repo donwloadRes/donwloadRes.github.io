@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WPS中如何启用宏：附wps.vba.exe下载说明"
+title: "WPS中如何启用宏附wpsvbaexe下载说明"
 date:   2021-11-14
 tags: [WPS,插件,vba,Office,安装]
 comments: true

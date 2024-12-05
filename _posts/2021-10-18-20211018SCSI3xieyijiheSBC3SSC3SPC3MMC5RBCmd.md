@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SCSI-3协议集合：SBC-3、SSC-3、SPC-3、MMC-5、RBC"
+title: "SCSI3协议集合SBC3SSC3SPC3MMC5RBC"
 date:   2024-05-13
 tags: [SCSI,SBC,Commands,协议,文档]
 comments: true

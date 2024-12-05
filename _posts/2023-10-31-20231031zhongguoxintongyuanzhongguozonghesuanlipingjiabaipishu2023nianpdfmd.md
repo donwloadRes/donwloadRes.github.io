@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国信通院：中国综合算力评价白皮书（2023年）.pdf"
+title: "中国信通院中国综合算力评价白皮书2023年pdf"
 date:   2020-12-04
 tags: [算力,白皮书,2023,中国,综合]
 comments: true

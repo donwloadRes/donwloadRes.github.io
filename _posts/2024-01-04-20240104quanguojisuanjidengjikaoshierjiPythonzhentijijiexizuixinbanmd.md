@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "全国计算机等级考试二级Python真题及解析【最新版】"
+title: "全国计算机等级考试二级Python真题及解析最新版"
 date:   2022-12-29
 tags: [Python,真题,考试,解析,最新版]
 comments: true

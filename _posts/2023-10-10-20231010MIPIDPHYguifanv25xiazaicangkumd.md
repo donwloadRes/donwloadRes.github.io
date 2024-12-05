@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI D-PHY 规范 v2.5 下载仓库"
+title: "MIPI DPHY 规范 v25 下载仓库"
 date:   2020-04-05
 tags: [PHY,MIPI,v2.5,仓库,specification]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excel公式大全操作应用实例(史上最全)"
+title: "Excel公式大全操作应用实例史上最全"
 date:   2023-01-07
 tags: [Excel,公式,应用,函数,单元格]
 comments: true

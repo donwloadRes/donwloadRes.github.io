@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BERTopic：利用BERT和c-TF-IDF创建易于解释的主题"
+title: "BERTopic利用BERT和cTFIDF创建易于解释的主题"
 date:   2020-04-08
 tags: [BERTopic,主题,BERT,TF,IDF]
 comments: true

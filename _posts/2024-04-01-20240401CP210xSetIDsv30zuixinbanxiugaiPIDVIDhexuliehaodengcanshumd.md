@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CP210xSetIDs v3.0 最新版 - 修改 PID、VID 和序列号等参数"
+title: "CP210xSetIDs v30 最新版  修改 PIDVID 和序列号等参数"
 date:   2024-02-20
 tags: [串口,序列号,PID,VID,端口号]
 comments: true

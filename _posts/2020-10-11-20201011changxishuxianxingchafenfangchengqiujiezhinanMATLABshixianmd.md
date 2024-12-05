@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常系数线性差分方程求解指南：MATLAB实现"
+title: "常系数线性差分方程求解指南MATLAB实现"
 date:   2020-10-11
 tags: [差分,MATLAB,方程,求解,本文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于OpenCV-Python的SIFT算法实现"
+title: "基于OpenCVPython的SIFT算法实现"
 date:   2022-03-29
 tags: [SIFT,Python,OpenCV,算法,解压]
 comments: true

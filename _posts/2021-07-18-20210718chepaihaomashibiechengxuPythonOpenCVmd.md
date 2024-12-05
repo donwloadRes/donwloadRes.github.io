@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "车牌号码识别程序（Python + OpenCV）"
+title: "车牌号码识别程序Python  OpenCV"
 date:   2021-11-05
 tags: [程序,识别,车牌号码,OpenCV,字符]
 comments: true

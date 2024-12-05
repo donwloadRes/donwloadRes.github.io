@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "通信网络基础（李建东）资源下载"
+title: "通信网络基础李建东资源下载"
 date:   2023-03-19
 tags: [网络,通信,李建东,时延,资源]
 comments: true

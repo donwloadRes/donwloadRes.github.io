@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OpenSSH 7.4p1 升级到 OpenSSH 9.3p2 资源文件介绍"
+title: "OpenSSH 74p1 升级到 OpenSSH 93p2 资源文件介绍"
 date:   2023-05-03
 tags: [升级,OpenSSH,指南,安装,p2]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#语言 MQTT协议代理服务器及客户端示例"
+title: "C语言 MQTT协议代理服务器及客户端示例"
 date:   2023-01-04
 tags: [示例,MQTT,客户端,C#,代理服务器]
 comments: true

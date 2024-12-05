@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIN2.1规范中文版资源下载"
+title: "LIN21规范中文版资源下载"
 date:   2023-01-28
 tags: [LIN2.1,中文版,LIN,下载,规范]
 comments: true

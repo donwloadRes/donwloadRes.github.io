@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ModelSim详细使用教程（一看就会）"
+title: "ModelSim详细使用教程一看就会"
 date:   2020-03-25
 tags: [ModelSim,仿真,教程,详细,学习]
 comments: true

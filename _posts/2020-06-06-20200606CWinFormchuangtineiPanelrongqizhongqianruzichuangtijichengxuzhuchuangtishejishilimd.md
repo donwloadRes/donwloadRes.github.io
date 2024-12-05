@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# WinForm 窗体内 Panel 容器中嵌入子窗体及程序主窗体设计实例"
+title: "C WinForm 窗体内 Panel 容器中嵌入子窗体及程序主窗体设计实例"
 date:   2020-01-18
 tags: [窗体,Panel,示例,WinForm,嵌套]
 comments: true

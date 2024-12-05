@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "初识DE2-115开发板资源文件介绍"
+title: "初识DE2115开发板资源文件介绍"
 date:   2024-10-25
 tags: [115,DE2,开发板,II,实验]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "串口抓包工具 - 高效的数据分析助手"
+title: "串口抓包工具  高效的数据分析助手"
 date:   2023-04-08
 tags: [串口,抓包,工具,数据分析,协议]
 comments: true

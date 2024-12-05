@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Part 1: 模拟无刷直流电机（BLDC）的梯形反电动势电压"
+title: "Part 1 模拟无刷直流电机BLDC的梯形反电动势电压"
 date:   2023-08-06
 tags: [反电动势,BLDC,仿真,电机,模型]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAD快速看图v5.6.3.47安装程序及注册机使用指南"
+title: "CAD快速看图v56347安装程序及注册机使用指南"
 date:   2020-09-28
 tags: [注册机,CAD,v5.6,3.47,安装程序]
 comments: true

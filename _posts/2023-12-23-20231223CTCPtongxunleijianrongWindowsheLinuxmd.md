@@ -1,6 +1,37 @@
 ---
 layout: post
-title: "C++ TCP通讯类(兼容Windows和Linux)"
+title: "C TCP通讯类兼容Windows和Linux
+date   20231026
+tags TCPclient通讯WindowsLinux
+comments true
+author admin
+
+ C TCP通讯类兼容Windows和Linux
+
+ 简介
+
+本仓库提供了一个基于C开发的TCP通讯类该类兼容Windows和Linux操作系统通过封装TCP通讯的细节使得开发者能够更方便地使用TCP进行网络通信资源文件包含cpp和h两个文件经过实际测试确保其可用性代码中注释详细便于理解和参考
+
+ 功能特点
+
+ 跨平台兼容支持Windows和Linux操作系统无需修改代码即可在不同平台上运行
+ 简单易用封装了TCP通讯的复杂性提供简洁的接口供开发者使用
+ 注释详细代码中包含详细的注释帮助开发者快速理解每个函数和变量的作用
+ 亲测可用经过实际测试确保代码的稳定性和可靠性
+
+ 使用方法
+
+1 下载文件将仓库中的cpp和h文件下载到你的项目目录中
+2 包含头文件在你的C项目中包含头文件TCPCommunicationh
+3 实例化类根据需要实例化TCPCommunication类并调用相关函数进行TCP通讯
+4 编译运行编译你的项目并在目标平台上运行
+
+ 示例代码
+
+以下是一个简单的示例代码展示了如何使用该TCP通讯类
+
+cpp
+include TCPCommunicationh"
 date:   2023-10-26
 tags: [TCP,client,通讯,Windows,Linux]
 comments: true

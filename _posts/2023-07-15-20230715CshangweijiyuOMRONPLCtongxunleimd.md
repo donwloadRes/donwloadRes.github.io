@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C#上位机与OMRON PLC通讯类"
+title: "C上位机与OMRON PLC通讯类"
 date:   2022-04-29
 tags: [OMRON,PLC,通讯,C#,Modbus]
 comments: true

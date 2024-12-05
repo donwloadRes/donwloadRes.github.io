@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python实现纹理图片分类识别：SVM支持向量机与LBP特征提取"
+title: "Python实现纹理图片分类识别SVM支持向量机与LBP特征提取"
 date:   2024-01-04
 tags: [特征提取,SVM,图片,LBP,Python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USB转RS-422转换器使用方法和操作步骤"
+title: "USB转RS422转换器使用方法和操作步骤"
 date:   2024-02-28
 tags: [USB,RS,422,转换器,使用]
 comments: true

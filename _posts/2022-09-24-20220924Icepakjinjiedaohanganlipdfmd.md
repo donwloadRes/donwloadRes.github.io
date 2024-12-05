@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Icepak进阶导航案例.pdf"
+title: "Icepak进阶导航案例pdf"
 date:   2020-06-02
 tags: [Icepak,进阶,模拟计算,案例,机箱]
 comments: true

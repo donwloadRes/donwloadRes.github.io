@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "固定资产管理系统（开源）"
+title: "固定资产管理系统开源"
 date:   2021-12-21
 tags: [源代码,管理系统,固定资产,开源,资源]
 comments: true

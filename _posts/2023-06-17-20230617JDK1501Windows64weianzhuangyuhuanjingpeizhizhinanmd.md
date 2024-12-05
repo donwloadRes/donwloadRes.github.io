@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JDK15.0.1 Windows 64位安装与环境配置指南"
+title: "JDK1501 Windows 64位安装与环境配置指南"
 date:   2021-04-29
 tags: [JDK,安装,15.0,环境变量,配置]
 comments: true

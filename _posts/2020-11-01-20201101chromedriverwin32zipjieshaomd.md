@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chromedriver-win32.zip 介绍"
+title: "chromedriverwin32zip 介绍"
 date:   2023-07-30
 tags: [ChromeDriver,zip,浏览器,chromedriver,win32]
 comments: true

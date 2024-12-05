@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIPI C-PHY 规范 v1.0 下载仓库"
+title: "MIPI CPHY 规范 v10 下载仓库"
 date:   2021-06-21
 tags: [PHY,MIPI,传输速率,仓库,v1.0]
 comments: true

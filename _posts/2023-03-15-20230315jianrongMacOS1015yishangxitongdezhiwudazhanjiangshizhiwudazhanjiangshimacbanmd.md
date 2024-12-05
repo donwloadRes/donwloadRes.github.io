@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "兼容MacOS10.15以上系统的植物大战僵尸\_植物大战僵尸mac版"
+title: "兼容MacOS1015以上系统的植物大战僵尸植物大战僵尸mac版"
 date:   2020-07-28
 tags: [僵尸,游戏,Mac,植物,大战]
 comments: true

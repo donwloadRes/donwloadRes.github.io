@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFT方法实现加速度、速度与位移的相互转换"
+title: "FFT方法实现加速度速度与位移的相互转换"
 date:   2021-05-05
 tags: [FFT,加速度,位移,速度,方法]
 comments: true

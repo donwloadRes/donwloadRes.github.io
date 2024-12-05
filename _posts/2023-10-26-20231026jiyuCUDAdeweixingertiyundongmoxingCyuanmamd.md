@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于CUDA的卫星二体运动模型C++源码"
+title: "基于CUDA的卫星二体运动模型C源码"
 date:   2023-11-25
 tags: [源码,CUDA,二体,C++,卫星]
 comments: true

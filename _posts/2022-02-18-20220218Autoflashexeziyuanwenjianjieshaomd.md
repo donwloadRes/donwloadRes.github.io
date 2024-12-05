@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Autoflash.exe 资源文件介绍"
+title: "Autoflashexe 资源文件介绍"
 date:   2020-04-01
 tags: [U盘,exe,Autoflash,Everything,文件]
 comments: true

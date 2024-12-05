@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12V-24V直流电机正反转控制资源"
+title: "12V24V直流电机正反转控制资源"
 date:   2020-08-27
 tags: [直流电机,电路,反转,电路设计,控制]
 comments: true

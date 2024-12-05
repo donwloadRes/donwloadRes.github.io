@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "高等数值计算大作业：插值与龙格现象"
+title: "高等数值计算大作业插值与龙格现象"
 date:   2021-02-09
 tags: [插值,节点,龙格,多项式,误差]
 comments: true

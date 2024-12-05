@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qt Embedded 5.7.0 资源下载"
+title: "Qt Embedded 570 资源下载"
 date:   2024-06-04
 tags: [Qt,Embedded,嵌入式,5.7,解压]
 comments: true

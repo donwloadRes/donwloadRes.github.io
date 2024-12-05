@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC 和 GCC-C++ 离线安装包"
+title: "GCC 和 GCCC 离线安装包"
 date:   2021-05-21
 tags: [GCC,安装包,安装,C++,离线]
 comments: true

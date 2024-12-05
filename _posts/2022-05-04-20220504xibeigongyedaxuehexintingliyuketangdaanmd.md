@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西北工业大学-核心听力雨课堂答案"
+title: "西北工业大学核心听力雨课堂答案"
 date:   2024-01-06
 tags: [听力,文档,西北工业大学,答案,学习]
 comments: true

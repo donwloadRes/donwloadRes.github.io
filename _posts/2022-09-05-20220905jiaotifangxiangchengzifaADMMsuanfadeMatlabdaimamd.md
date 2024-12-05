@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "交替方向乘子法-ADMM算法的Matlab代码"
+title: "交替方向乘子法ADMM算法的Matlab代码"
 date:   2023-07-25
 tags: [ADMM,Matlab,算法,代码,乘子法]
 comments: true

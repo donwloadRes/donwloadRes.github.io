@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++迷宫问题求解（用队列实现）"
+title: "C迷宫问题求解用队列实现"
 date:   2020-08-30
 tags: [迷宫,路径,C++,队列,输入]
 comments: true

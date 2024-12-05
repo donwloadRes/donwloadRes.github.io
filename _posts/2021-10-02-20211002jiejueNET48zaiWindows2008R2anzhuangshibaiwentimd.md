@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "解决.NET 4.8 在 Windows 2008 R2 安装失败问题"
+title: "解决NET 48 在 Windows 2008 R2 安装失败问题"
 date:   2024-05-17
 tags: [安装,NET,4.8,补丁,安装包]
 comments: true

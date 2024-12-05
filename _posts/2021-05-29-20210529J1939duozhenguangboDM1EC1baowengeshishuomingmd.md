@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J1939多帧广播DM1、EC1报文格式说明"
+title: "J1939多帧广播DM1EC1报文格式说明"
 date:   2023-06-16
 tags: [报文,J1939,DM1,EC1,报文格式]
 comments: true

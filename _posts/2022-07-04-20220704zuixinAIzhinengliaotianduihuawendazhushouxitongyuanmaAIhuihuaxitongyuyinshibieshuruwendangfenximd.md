@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最新AI智能聊天对话问答助手系统源码+AI绘画系统+语音识别输入+文档分析"
+title: "最新AI智能聊天对话问答助手系统源码AI绘画系统语音识别输入文档分析"
 date:   2023-09-02
 tags: [AI,语音,文档,系统,绘画]
 comments: true

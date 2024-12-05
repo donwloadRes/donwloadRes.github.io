@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eMMC5.1协议规范下载"
+title: "eMMC51协议规范下载"
 date:   2023-09-27
 tags: [eMMC5.1,规范,文档,文件,下载]
 comments: true

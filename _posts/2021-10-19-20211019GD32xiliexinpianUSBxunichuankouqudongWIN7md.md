@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GD32系列芯片USB虚拟串口驱动-WIN7"
+title: "GD32系列芯片USB虚拟串口驱动WIN7"
 date:   2022-01-24
 tags: [串口,GD32,USB,芯片,驱动程序]
 comments: true

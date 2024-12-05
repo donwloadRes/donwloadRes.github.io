@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++个人财务管理系统"
+title: "C个人财务管理系统"
 date:   2020-05-29
 tags: [业务,查询,记录,余额,系统]
 comments: true

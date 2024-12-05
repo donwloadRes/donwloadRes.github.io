@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深入浅出JavaScript (中文版) - Michael Morrison PDF扫描版"
+title: "深入浅出JavaScript 中文版  Michael Morrison PDF扫描版"
 date:   2020-09-03
 tags: [JavaScript,深入浅出,中文版,网页,DOM]
 comments: true

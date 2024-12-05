@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MATLAB连续潮流程序：绘制PV曲线与静态电压稳定性分析"
+title: "MATLAB连续潮流程序绘制PV曲线与静态电压稳定性分析"
 date:   2022-01-06
 tags: [PV,MATLAB,节点,电压,曲线]
 comments: true

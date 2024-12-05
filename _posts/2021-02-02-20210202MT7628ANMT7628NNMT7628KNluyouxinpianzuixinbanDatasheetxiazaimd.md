@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MT7628AN-MT7628NN-MT7628KN 路由芯片最新版 Datasheet 下载"
+title: "MT7628ANMT7628NNMT7628KN 路由芯片最新版 Datasheet 下载"
 date:   2020-07-20
 tags: [Datasheet,最新版,芯片,下载,MT7628AN]
 comments: true

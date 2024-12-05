@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32使用C++控制GM65扫描二维码实现点灯的希望工程"
+title: "STM32使用C控制GM65扫描二维码实现点灯的希望工程"
 date:   2023-11-25
 tags: [STM32,二维码,扫描,C++,GM65]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Win10-Win11 桌面图标锁定解决方案"
+title: "Win10Win11 桌面图标锁定解决方案"
 date:   2022-05-01
 tags: [桌面图标,Windows,锁定,10,11]
 comments: true

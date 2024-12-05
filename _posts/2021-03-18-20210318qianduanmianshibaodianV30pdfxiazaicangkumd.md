@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "前端面试宝典V3.0.pdf 下载仓库"
+title: "前端面试宝典V30pdf 下载仓库"
 date:   2020-02-07
 tags: [前端,面试,宝典,V3.0,pdf]
 comments: true

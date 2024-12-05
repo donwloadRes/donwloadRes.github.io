@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAN FD介绍（Vector）资源下载"
+title: "CAN FD介绍Vector资源下载"
 date:   2024-09-17
 tags: [FD,Vector,总线,介绍,技术]
 comments: true

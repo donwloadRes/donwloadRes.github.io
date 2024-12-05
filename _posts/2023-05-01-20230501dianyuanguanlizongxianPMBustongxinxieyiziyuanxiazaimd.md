@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电源管理总线（PMBus）通信协议资源下载"
+title: "电源管理总线PMBus通信协议资源下载"
 date:   2020-01-07
 tags: [PMBus,电源,通信协议,总线,数字]
 comments: true

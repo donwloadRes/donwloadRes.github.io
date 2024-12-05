@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FANUC ARC-R弧焊功能操作说明书"
+title: "FANUC ARCR弧焊功能操作说明书"
 date:   2024-09-24
 tags: [FANUC,弧焊,机器人,说明书,焊机]
 comments: true

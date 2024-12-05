@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VESA Display Stream Compression (DSC) 1.2a 标准文档"
+title: "VESA Display Stream Compression DSC 12a 标准文档"
 date:   2022-07-24
 tags: [DSC,文档,1.2,VESA,标准]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ubuntu双系统卸载与重装指南（Ubuntu 20.04）"
+title: "Ubuntu双系统卸载与重装指南Ubuntu 2004"
 date:   2023-05-14
 tags: [Ubuntu,U盘,卸载,系统,分区]
 comments: true

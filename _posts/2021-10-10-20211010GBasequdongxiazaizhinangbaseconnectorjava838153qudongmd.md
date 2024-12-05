@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GBase驱动下载指南：gbase-connector-java-8.3.81.53驱动"
+title: "GBase驱动下载指南gbaseconnectorjava838153驱动"
 date:   2024-05-07
 tags: [数据库,GBase,驱动,gbase,下载]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "储能变流器检测技术规程（GBT 34133-2017）"
+title: "储能变流器检测技术规程GBT 341332017"
 date:   2022-01-05
 tags: [变流器,储能,检测,技术规程,2017]
 comments: true

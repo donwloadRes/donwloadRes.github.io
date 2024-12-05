@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android大作业：简单备忘录系统"
+title: "Android大作业简单备忘录系统"
 date:   2022-10-11
 tags: [备忘,Android,分组,项目,备忘录]
 comments: true

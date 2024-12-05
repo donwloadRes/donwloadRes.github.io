@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于QT5.8+STM32F103的电压采集与实时显示上位机代码"
+title: "基于QT58STM32F103的电压采集与实时显示上位机代码"
 date:   2021-11-13
 tags: [代码,电压,QT5.8,实时,STM32F103]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dev C++ 简介与安装指南"
+title: "Dev C 简介与安装指南"
 date:   2021-03-18
 tags: [C++,安装,Dev,简体中文,选择]
 comments: true

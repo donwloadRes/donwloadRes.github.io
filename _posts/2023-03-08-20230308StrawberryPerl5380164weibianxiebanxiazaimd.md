@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strawberry Perl 5.38.0.1 64位便携版下载"
+title: "Strawberry Perl 53801 64位便携版下载"
 date:   2020-07-06
 tags: [5.38,0.1,Perl,便携,Strawberry]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MCAL用户手册-中英文对照翻译"
+title: "MCAL用户手册中英文对照翻译"
 date:   2021-01-10
 tags: [MCAL,用户手册,中英文,对照,翻译]
 comments: true

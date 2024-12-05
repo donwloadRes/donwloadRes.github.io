@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome 浏览器离线安装包 91.0.4472.77（正式版本）（64 位）"
+title: "Chrome 浏览器离线安装包 910447277正式版本64 位"
 date:   2022-09-30
 tags: [91.0,4472.77,安装包,离线,安装]
 comments: true

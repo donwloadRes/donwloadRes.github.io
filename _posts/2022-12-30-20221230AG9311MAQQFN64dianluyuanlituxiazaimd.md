@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AG9311_MAQ_QFN64电路原理图下载"
+title: "AG9311MAQQFN64电路原理图下载"
 date:   2021-12-21
 tags: [AG9311,原理图,电路,MAQ,QFN64]
 comments: true

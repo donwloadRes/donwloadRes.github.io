@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI 翻唱必备神器！So-VITS-SVC 一键安装包下载"
+title: "AI 翻唱必备神器SoVITSSVC 一键安装包下载"
 date:   2022-04-07
 tags: [翻唱,So,VITS,SVC,安装包]
 comments: true

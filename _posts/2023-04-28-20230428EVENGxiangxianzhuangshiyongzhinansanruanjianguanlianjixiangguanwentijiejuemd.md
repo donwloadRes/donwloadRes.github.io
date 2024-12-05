@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVE-NG详细安装使用指南（三）—— 软件关联及相关问题解决"
+title: "EVENG详细安装使用指南三 软件关联及相关问题解决"
 date:   2023-05-04
 tags: [EVE,NG,软件,解决,wireshark]
 comments: true

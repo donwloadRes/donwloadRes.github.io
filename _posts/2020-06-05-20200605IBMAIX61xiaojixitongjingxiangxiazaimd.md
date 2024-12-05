@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM AIX 6.1 小机系统镜像下载"
+title: "IBM AIX 61 小机系统镜像下载"
 date:   2024-11-20
 tags: [6.1,机系统,AIX,下载,镜像]
 comments: true

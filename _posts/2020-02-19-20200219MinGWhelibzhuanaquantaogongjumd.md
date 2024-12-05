@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MinGW和.lib转.a全套工具"
+title: "MinGW和lib转a全套工具"
 date:   2024-02-05
 tags: [MinGW,lib,工具,exe,开发者]
 comments: true

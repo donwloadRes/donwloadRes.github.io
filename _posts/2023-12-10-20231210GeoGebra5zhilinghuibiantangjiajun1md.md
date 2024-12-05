@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GeoGebra5指令汇编 - 唐家军1"
+title: "GeoGebra5指令汇编  唐家军1"
 date:   2021-09-20
 tags: [指令,GeoGebra5,GeoGebra,文件,汇编]
 comments: true

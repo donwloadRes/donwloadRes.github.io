@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVMe协议1.3版本中文翻译文档"
+title: "NVMe协议13版本中文翻译文档"
 date:   2022-11-12
 tags: [中文翻译,1.3,NVMe,文档,docx]
 comments: true

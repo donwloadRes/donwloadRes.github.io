@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于Python的行人与车辆检测和跟踪实现（HOG+SVM-HAAR）"
+title: "基于Python的行人与车辆检测和跟踪实现HOGSVMHAAR"
 date:   2021-10-24
 tags: [Python,HAAR,dlib,检测,安装]
 comments: true

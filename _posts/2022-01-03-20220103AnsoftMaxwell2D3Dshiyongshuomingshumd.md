@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ansoft Maxwell 2D-3D 使用说明书"
+title: "Ansoft Maxwell 2D3D 使用说明书"
 date:   2020-10-15
 tags: [Ansoft,Maxwell,说明书,仿真,2D]
 comments: true

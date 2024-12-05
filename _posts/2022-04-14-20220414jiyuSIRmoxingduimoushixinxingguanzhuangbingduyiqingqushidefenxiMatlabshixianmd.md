@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SIR模型对某市新型冠状病毒疫情趋势的分析（Matlab实现）"
+title: "基于SIR模型对某市新型冠状病毒疫情趋势的分析Matlab实现"
 date:   2020-07-15
 tags: [Matlab,模型,SIR,代码,疫情]
 comments: true

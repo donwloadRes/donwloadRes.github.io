@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "eDP v1.4b d3.pdf 资源文件下载"
+title: "eDP v14b d3pdf 资源文件下载"
 date:   2023-08-29
 tags: [嵌入式,文件,显示,pdf,系统]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android打开adb时出现弹出框未安装AdbWinApi.dll的解决方案"
+title: "Android打开adb时出现弹出框未安装AdbWinApidll的解决方案"
 date:   2023-04-14
 tags: [Android,ADB,adb,AdbWinApi,dll]
 comments: true

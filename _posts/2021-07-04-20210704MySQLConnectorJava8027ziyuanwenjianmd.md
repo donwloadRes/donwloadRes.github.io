@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MySQL Connector-Java 8.0.27 资源文件"
+title: "MySQL ConnectorJava 8027 资源文件"
 date:   2024-06-16
 tags: [27,8.0,java,MySQL,Java]
 comments: true

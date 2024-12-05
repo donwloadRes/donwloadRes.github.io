@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学术英语写作(东南大学) MOOC 章节测试答案"
+title: "学术英语写作东南大学 MOOC 章节测试答案"
 date:   2020-03-08
 tags: [答案,MOOC,学习,写作,东南大学]
 comments: true

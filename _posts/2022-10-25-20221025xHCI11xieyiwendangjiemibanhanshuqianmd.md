@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xHCI 1.1 协议文档（解密版，含书签）"
+title: "xHCI 11 协议文档解密版含书签"
 date:   2021-04-21
 tags: [书签,1.1,文档,xHCI,解密版]
 comments: true

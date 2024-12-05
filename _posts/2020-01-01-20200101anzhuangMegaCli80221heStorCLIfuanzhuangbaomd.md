@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安装MegaCli-8.02.21和StorCLI(附安装包)"
+title: "安装MegaCli80221和StorCLI附安装包"
 date:   2021-08-10
 tags: [MegaCli,StorCLI,安装,RAID,rpm]
 comments: true

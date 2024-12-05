@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux项目设计_媒体播放器(6818)"
+title: "Linux项目设计媒体播放器6818"
 date:   2021-11-30
 tags: [播放,视频,媒体播放器,项目,Linux]
 comments: true

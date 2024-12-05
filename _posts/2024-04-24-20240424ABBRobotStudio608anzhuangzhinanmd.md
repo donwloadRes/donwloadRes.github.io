@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ABB RobotStudio 6.08 安装指南"
+title: "ABB RobotStudio 608 安装指南"
 date:   2020-09-15
 tags: [安装,ABB,RobotStudio,6.08,指南]
 comments: true

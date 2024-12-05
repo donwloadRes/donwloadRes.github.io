@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyCharm 2018.2 汉化包使用指南"
+title: "PyCharm 20182 汉化包使用指南"
 date:   2023-03-13
 tags: [PyCharm,汉化包,resources,jar,2018.2]
 comments: true

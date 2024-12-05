@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JESD235B-HBM 规范文档下载"
+title: "JESD235BHBM 规范文档下载"
 date:   2020-08-22
 tags: [HBM,JESD235B,文档,下载,JEDEC]
 comments: true

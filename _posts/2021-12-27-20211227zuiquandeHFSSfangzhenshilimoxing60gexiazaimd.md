@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "最全的HFSS仿真实例模型（60个）下载"
+title: "最全的HFSS仿真实例模型60个下载"
 date:   2021-10-04
 tags: [实例,HFSS,下载,仿真,滤波器]
 comments: true

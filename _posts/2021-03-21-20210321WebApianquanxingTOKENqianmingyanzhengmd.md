@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WebApi 安全性：TOKEN+签名验证"
+title: "WebApi 安全性TOKEN签名验证"
 date:   2021-04-01
 tags: [WebApi,TOKEN,签名,安全性,验证]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "手机号最新归属地数据（MYSQL版）"
+title: "手机号最新归属地数据MYSQL版"
 date:   2020-05-25
 tags: [归属,手机号,MYSQL,数据库,数据]
 comments: true

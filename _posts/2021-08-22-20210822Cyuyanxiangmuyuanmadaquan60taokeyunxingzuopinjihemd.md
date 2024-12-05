@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C语言项目源码大全 - 60套可运行作品集合"
+title: "C语言项目源码大全  60套可运行作品集合"
 date:   2023-07-24
 tags: [C语言,游戏,源码,编程,项目]
 comments: true

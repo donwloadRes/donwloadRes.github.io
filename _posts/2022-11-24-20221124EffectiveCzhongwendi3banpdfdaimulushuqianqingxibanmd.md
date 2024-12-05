@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective C++中文第3版.pdf - 带目录书签 清晰版"
+title: "Effective C中文第3版pdf  带目录书签 清晰版"
 date:   2021-04-25
 tags: [C++,编程,Effective,书签,中文]
 comments: true

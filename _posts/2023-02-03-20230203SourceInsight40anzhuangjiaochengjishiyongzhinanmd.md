@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Source Insight 4.0 安装教程及使用指南"
+title: "Source Insight 40 安装教程及使用指南"
 date:   2021-05-22
 tags: [Source,Insight,安装,4.0,源代码]
 comments: true

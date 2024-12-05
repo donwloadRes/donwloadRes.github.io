@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "嵌入式Linux全套教学视频（国嵌版）"
+title: "嵌入式Linux全套教学视频国嵌版"
 date:   2020-05-26
 tags: [嵌入式,Linux,视频,学习,国嵌]
 comments: true

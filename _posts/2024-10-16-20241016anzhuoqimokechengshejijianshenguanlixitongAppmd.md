@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安卓期末课程设计：健身管理系统App"
+title: "安卓期末课程设计健身管理系统App"
 date:   2020-05-31
 tags: [健身,安卓,步数,用户,应用]
 comments: true

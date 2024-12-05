@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delphi 流程图控件源码+Demo"
+title: "Delphi 流程图控件源码Demo"
 date:   2021-05-21
 tags: [控件,Delphi,源码,Demo,流程图]
 comments: true

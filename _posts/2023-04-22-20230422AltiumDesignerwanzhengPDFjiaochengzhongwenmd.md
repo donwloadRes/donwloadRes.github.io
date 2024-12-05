@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Altium Designer 完整PDF教程（中文）"
+title: "Altium Designer 完整PDF教程中文"
 date:   2023-05-22
 tags: [教程,Altium,Designer,PDF,文件大小]
 comments: true

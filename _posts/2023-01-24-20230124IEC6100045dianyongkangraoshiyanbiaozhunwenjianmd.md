@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IEC61000-4-5 电涌抗扰试验标准文件"
+title: "IEC6100045 电涌抗扰试验标准文件"
 date:   2024-06-11
 tags: [电涌,IEC61000,抗扰,电磁兼容,标准]
 comments: true

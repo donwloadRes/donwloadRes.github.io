@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CANoe .NET编程手册下载仓库"
+title: "CANoe NET编程手册下载仓库"
 date:   2020-09-22
 tags: [手册,CANoe,NET,编程,仓库]
 comments: true

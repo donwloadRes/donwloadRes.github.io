@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于SpringBoot+Vue实现小区物业管理系统"
+title: "基于SpringBootVue实现小区物业管理系统"
 date:   2024-04-26
 tags: [物业管理,小区,SpringBoot,管理,Vue]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keil插件集合：不够十字凑数"
+title: "Keil插件集合不够十字凑数"
 date:   2022-12-22
 tags: [插件,Keil,代码,开发者,注释]
 comments: true

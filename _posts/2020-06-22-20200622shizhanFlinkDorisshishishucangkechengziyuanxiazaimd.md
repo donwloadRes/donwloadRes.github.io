@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "实战Flink+Doris实时数仓课程资源下载"
+title: "实战FlinkDoris实时数仓课程资源下载"
 date:   2024-07-07
 tags: [数仓,课程,虚拟机,Flink,Doris]
 comments: true

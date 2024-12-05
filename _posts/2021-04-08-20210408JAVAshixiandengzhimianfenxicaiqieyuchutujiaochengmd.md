@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JAVA实现等值面分析、裁切与出图教程"
+title: "JAVA实现等值面分析裁切与出图教程"
 date:   2024-08-19
 tags: [等值,裁切,出图,GeoTools,生成]
 comments: true

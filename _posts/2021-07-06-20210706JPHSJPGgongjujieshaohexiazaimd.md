@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JPHS（JPG）工具介绍和下载"
+title: "JPHSJPG工具介绍和下载"
 date:   2022-04-08
 tags: [JPHIDE,隐藏,JPEG,加密,下载]
 comments: true

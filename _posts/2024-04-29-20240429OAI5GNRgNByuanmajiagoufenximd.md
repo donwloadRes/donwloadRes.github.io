@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OAI 5G-NR gNB源码架构分析"
+title: "OAI 5GNR gNB源码架构分析"
 date:   2022-09-07
 tags: [5G,源码,OAI,NR,gNB]
 comments: true

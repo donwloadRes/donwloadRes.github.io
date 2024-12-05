@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 K-means 算法实现的文本聚类（干货）"
+title: "基于 Kmeans 算法实现的文本聚类干货"
 date:   2023-03-13
 tags: [聚类,文本,means,算法,实现]
 comments: true

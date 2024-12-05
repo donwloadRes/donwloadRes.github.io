@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCI金手指封装库（PCI32bit）"
+title: "PCI金手指封装库PCI32bit"
 date:   2022-12-05
 tags: [封装,PCI,金手指,PCI32bit,设计]
 comments: true

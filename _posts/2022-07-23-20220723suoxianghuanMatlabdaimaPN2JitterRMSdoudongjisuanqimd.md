@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "锁相环Matlab代码 - PN2Jitter: RMS抖动计算器"
+title: "锁相环Matlab代码  PN2Jitter RMS抖动计算器"
 date:   2022-11-26
 tags: [Matlab,RMS,抖动,代码,计算]
 comments: true

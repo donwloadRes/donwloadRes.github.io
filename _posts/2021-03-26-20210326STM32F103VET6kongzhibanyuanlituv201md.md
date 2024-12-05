@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STM32F103VET6控制板原理图v2.01"
+title: "STM32F103VET6控制板原理图v201"
 date:   2024-01-22
 tags: [原理图,控制板,STM32F103VET6,v2.01,文件]
 comments: true

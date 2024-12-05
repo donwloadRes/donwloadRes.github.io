@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matlab Robotic Toolbox V9.10工具箱：puma560 动力学建模与仿真"
+title: "Matlab Robotic Toolbox V910工具箱puma560 动力学建模与仿真"
 date:   2023-07-30
 tags: [仿真,puma560,工具箱,动力学,Matlab]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Loadrunner 12.0.2 安装及中文语言包安装指南"
+title: "Loadrunner 1202 安装及中文语言包安装指南"
 date:   2024-06-25
 tags: [Loadrunner,语言包,安装,12.0,中文]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISO 16845-1 2016 CAN FD一致性测试规范"
+title: "ISO 168451 2016 CAN FD一致性测试规范"
 date:   2024-08-13
 tags: [一致性,测试,ISO,16845,FD]
 comments: true

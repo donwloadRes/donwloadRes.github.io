@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SIMetrix教程-001：SIMetrix软件简介与安装"
+title: "SIMetrix教程001SIMetrix软件简介与安装"
 date:   2023-03-12
 tags: [SIMetrix,安装,软件,license,文件]
 comments: true

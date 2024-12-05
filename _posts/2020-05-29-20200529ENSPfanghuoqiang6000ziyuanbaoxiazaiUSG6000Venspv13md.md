@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ENSP 防火墙6000资源包下载USG6000V-enspv1.3"
+title: "ENSP 防火墙6000资源包下载USG6000Venspv13"
 date:   2024-10-29
 tags: [防火墙,USG6000V,enspv1.3,eNSP,资源]
 comments: true

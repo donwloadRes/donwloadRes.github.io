@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java小游戏-坦克大战"
+title: "Java小游戏坦克大战"
 date:   2024-05-10
 tags: [Java,游戏,小游戏,坦克,大战]
 comments: true

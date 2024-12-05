@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOLOv7 Darknet 80分类原始权重的C#调用指南"
+title: "YOLOv7 Darknet 80分类原始权重的C调用指南"
 date:   2024-02-07
 tags: [YOLOv7,C#,OpenCVSharp,权重,检测]
 comments: true

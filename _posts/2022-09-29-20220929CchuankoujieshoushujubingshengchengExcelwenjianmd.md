@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C# 串口接收数据并生成Excel文件"
+title: "C 串口接收数据并生成Excel文件"
 date:   2022-01-19
 tags: [串口,Excel,生成,数据,接收]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "体检系统 C#源码"
+title: "体检系统 C源码"
 date:   2020-01-28
 tags: [源码,体检,C#,feature,系统]
 comments: true

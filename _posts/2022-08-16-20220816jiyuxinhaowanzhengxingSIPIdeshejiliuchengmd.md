@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于信号完整性（SIPI）的设计流程"
+title: "基于信号完整性SIPI的设计流程"
 date:   2021-07-21
 tags: [完整性,信号,设计,仿真,SIPI]
 comments: true

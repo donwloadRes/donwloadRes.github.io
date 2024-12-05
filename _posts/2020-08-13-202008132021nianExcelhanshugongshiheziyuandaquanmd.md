@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021年Excel函数、公式和资源大全"
+title: "2021年Excel函数公式和资源大全"
 date:   2024-01-23
 tags: [Excel,函数,公式,WPS,模板]
 comments: true

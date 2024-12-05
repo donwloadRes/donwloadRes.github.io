@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCAAD 6.0 最新教程"
+title: "PCAAD 60 最新教程"
 date:   2024-05-11
 tags: [PCAAD,天线,教程,6.0,设计]
 comments: true

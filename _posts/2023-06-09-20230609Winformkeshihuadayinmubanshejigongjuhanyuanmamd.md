@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winform可视化打印模板设计工具（含源码）"
+title: "Winform可视化打印模板设计工具含源码"
 date:   2024-11-29
 tags: [模板,打印,源码,设计,Winform]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThinkPad R61i 笔记本更换固态硬盘详细步骤（免费下载）"
+title: "ThinkPad R61i 笔记本更换固态硬盘详细步骤免费下载"
 date:   2024-07-06
 tags: [硬盘,更换,固态,笔记本,详细]
 comments: true

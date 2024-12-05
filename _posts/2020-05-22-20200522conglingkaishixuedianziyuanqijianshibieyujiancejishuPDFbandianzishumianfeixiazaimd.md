@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "从零开始学电子元器件识别与检测技术》PDF版电子书免费下载"
+title: "从零开始学电子元器件识别与检测技术PDF版电子书免费下载"
 date:   2021-10-24
 tags: [从零开始,PDF,元器件,电子,识别]
 comments: true

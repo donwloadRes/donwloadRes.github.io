@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visio电子元件器件模具——集成电路设计资源"
+title: "Visio电子元件器件模具集成电路设计资源"
 date:   2024-02-04
 tags: [模具,Visio,集成电路,电子元件,电容]
 comments: true

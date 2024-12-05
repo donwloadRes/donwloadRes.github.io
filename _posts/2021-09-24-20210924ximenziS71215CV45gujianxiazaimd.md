@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "西门子S7-1215C V4.5固件下载"
+title: "西门子S71215C V45固件下载"
 date:   2022-11-19
 tags: [固件,西门子,S7,1215C,6ES7]
 comments: true

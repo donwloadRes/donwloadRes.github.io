@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "posman-4.7.0 - API调试利器"
+title: "posman470  API调试利器"
 date:   2022-01-16
 tags: [API,Postman,4.7,调试,posman]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "无人驾驶汽车系统入门（二十四）——激光雷达的地面-非地面分割和pcl_ros实践"
+title: "无人驾驶汽车系统入门二十四激光雷达的地面非地面分割和pclros实践"
 date:   2024-10-31
 tags: [地面,pcl,ros,分割,点云]
 comments: true

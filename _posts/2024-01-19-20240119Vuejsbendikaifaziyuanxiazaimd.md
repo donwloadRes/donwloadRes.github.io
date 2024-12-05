@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js 本地开发资源下载"
+title: "Vuejs 本地开发资源下载"
 date:   2024-04-21
 tags: [js,Vue,下载,文件,本地]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "卫星通信课件-南京航空航天大学-王正"
+title: "卫星通信课件南京航空航天大学王正"
 date:   2022-05-28
 tags: [课件,卫星通信,南京航空航天大学,王正,PPT]
 comments: true

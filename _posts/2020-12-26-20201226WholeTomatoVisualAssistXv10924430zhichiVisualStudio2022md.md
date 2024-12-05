@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whole Tomato Visual Assist X v10.9.2443.0 支持 Visual Studio 2022"
+title: "Whole Tomato Visual Assist X v10924430 支持 Visual Studio 2022"
 date:   2021-05-24
 tags: [Visual,Assist,Studio,插件,2022]
 comments: true

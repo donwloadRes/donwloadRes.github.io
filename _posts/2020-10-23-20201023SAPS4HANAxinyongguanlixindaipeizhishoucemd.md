@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAP-S4HANA信用管理信贷配置手册"
+title: "SAPS4HANA信用管理信贷配置手册"
 date:   2024-07-08
 tags: [SAP,S4HANA,信用,手册,配置]
 comments: true

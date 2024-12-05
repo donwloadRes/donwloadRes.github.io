@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GJB 3872-1999 装备综合保障通用要求"
+title: "GJB 38721999 装备综合保障通用要求"
 date:   2024-06-28
 tags: [装备,保障,综合,1999,GJB]
 comments: true

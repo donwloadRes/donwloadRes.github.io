@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "电商项目源码：快速掌握 JDK17 + Spring Boot 3 + Spring Cloud Alibaba"
+title: "电商项目源码快速掌握 JDK17  Spring Boot 3  Spring Cloud Alibaba"
 date:   2023-04-29
 tags: [Spring,Cloud,shop,项目,服务]
 comments: true

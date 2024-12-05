@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Apex YOLO V5 6.2 目标检测全过程记录"
+title: "Python Apex YOLO V5 62 目标检测全过程记录"
 date:   2024-04-08
 tags: [检测,训练,目标,实时,YOLO]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数学手册 (高教出版)"
+title: "数学手册 高教出版"
 date:   2022-03-09
 tags: [数学,手册,chm,高教,微积分]
 comments: true

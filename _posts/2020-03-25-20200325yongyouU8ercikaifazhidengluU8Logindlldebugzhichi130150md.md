@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用友U8二次开发之登录 U8Login.dll debug 支持13.0，15.0"
+title: "用友U8二次开发之登录 U8Logindll debug 支持130150"
 date:   2021-03-07
 tags: [U8,用友,登录,二次开发,U8Login]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC2LCD2002 位图转换工具 - U8G2 - LVGL - GUI"
+title: "PC2LCD2002 位图转换工具  U8G2  LVGL  GUI"
 date:   2024-03-04
 tags: [嵌入式,U8G2,LVGL,PC2LCD2002,GUI]
 comments: true

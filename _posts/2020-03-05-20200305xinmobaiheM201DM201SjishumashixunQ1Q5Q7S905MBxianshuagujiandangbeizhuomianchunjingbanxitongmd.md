@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新魔百和M201D-M201S及数码视讯Q1-Q5-Q7-S905MB线刷固件 当贝桌面纯净版系统"
+title: "新魔百和M201DM201S及数码视讯Q1Q5Q7S905MB线刷固件 当贝桌面纯净版系统"
 date:   2020-12-10
 tags: [刷机,视讯,数码,新魔百,固件]
 comments: true

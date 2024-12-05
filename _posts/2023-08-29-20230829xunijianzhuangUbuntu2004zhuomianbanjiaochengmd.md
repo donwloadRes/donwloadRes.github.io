@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "虚拟机安装Ubuntu 20.04桌面版教程"
+title: "虚拟机安装Ubuntu 2004桌面版教程"
 date:   2022-12-30
 tags: [虚拟机,Ubuntu,20.04,教程,安装]
 comments: true
